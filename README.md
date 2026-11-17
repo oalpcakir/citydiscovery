@@ -1,4 +1,4 @@
-# City Discovery
+# City Disco
 
 A map-first app for (re)discovering the Netherlands and Belgium through quests: things to see, eat and drink, and do. Complete quests to earn XP, level up your hero and collect badges per region.
 

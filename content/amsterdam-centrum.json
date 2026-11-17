@@ -1,0 +1,878 @@
+{
+ "new": [
+  {
+   "id": "papegaai",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Kalverstraat'taki papağanlı kiliseye gir",
+   "desc": "Şehrin en kalabalık alışveriş caddesinde, mağaza vitrinlerinin arasına sıkışmış dar bir kapı seni De Papegaai adıyla bilinen kiliseye çıkarır. Burası Katolikliğin yasak olduğu yıllarda gizli kilise olarak başlamış, bugün de caddenin en sessiz yeri.",
+   "tip": "Kapıdaki papağan heykelini ve 'Tanrı'ya bir çeyrek saat' yazısını ara; içeride sessizce oturup alışveriş kalabalığından nefes alabilirsin.",
+   "q": "De Papegaai kerk Kalverstraat 58 Amsterdam",
+   "ll": [
+    52.3716,
+    4.8918
+   ],
+   "tags": [
+    "ücretsiz",
+    "yağmurda"
+   ],
+   "src": [
+    "https://www.iamsterdam.com/ontdek/buurten/centrum/verborgen-parels-in-hartje-centrum",
+    "https://www.iamsterdam.com/ontdek/buurten/centrum/dingen-om-te-doen-in-hartje-centrum"
+   ]
+  },
+  {
+   "id": "beurspassage",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Beurspassage'ın tavanına bak",
+   "desc": "Damrak ile Nieuwendijk arasındaki bu kapalı geçit baştan sona bir sanat eserine dönüştürülmüş: mozaik tavan, terrazzo zemin ve süslü avizeler Amsterdam'ın sudan doğuşunu anlatıyor. Çoğu kişi içinden başını kaldırmadan geçip gidiyor.",
+   "tip": "Avizelere yakından bak, bisiklet parçalarından yapılmışlar. Çıkışta Nieuwendijk'teki Van der Linde'den krema dondurması alabilirsin.",
+   "q": "Beurspassage Amsterdam",
+   "ll": [
+    52.3752,
+    4.8948
+   ],
+   "tags": [
+    "ücretsiz",
+    "yağmurda"
+   ],
+   "src": [
+    "https://www.iamsterdam.com/ontdek/buurten/centrum/verborgen-parels-in-hartje-centrum"
+   ]
+  },
+  {
+   "id": "hoftuin",
+   "cat": "gor",
+   "area": "oost",
+   "title": "H'ART Museum'un arkasındaki Hoftuin'i bul",
+   "desc": "Amstel kıyısındaki H'ART Museum'un arkasında, eskiden bakımevi sakinlerinin meyve ve süs bahçesi olan gizli bir yeşil avlu var. Bugün herkese açık ve Waterlooplein'ın birkaç adım ötesinde olmasına rağmen şaşırtıcı derecede sakin.",
+   "tip": "Bahçenin içindeki cam pavyonda gün boyu brunch veren Dignita var; güneşli günde çimlerde oturmak da serbest.",
+   "q": "Hoftuin Amsterdam",
+   "ll": [
+    52.3658,
+    4.9035
+   ],
+   "tags": [
+    "ücretsiz"
+   ],
+   "src": [
+    "https://www.iamsterdam.com/ontdek/buurten/centrum/verborgen-parels"
+   ]
+  },
+  {
+   "id": "torensluis",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Torensluis'in altındaki zindanları ara",
+   "desc": "Singel üzerindeki Torensluis şehrin en geniş ve en eski köprülerinden biri. Adını bir zamanlar üstünde duran Jan Roodenpoortstoren kulesinden alıyor; kule yıkıldı ama köprünün gövdesindeki eski hücreler duruyor.",
+   "tip": "Kaldırım taşlarında kulenin oturduğu yerin izini ve suya bakan parmaklıklı pencereleri ara. Köprüdeki terasta oturmak da keyifli.",
+   "q": "Torensluis Amsterdam",
+   "ll": [
+    52.3744,
+    4.8886
+   ],
+   "tags": [
+    "ücretsiz"
+   ],
+   "src": [
+    "https://guide.michelin.com/be/nl/article/travel/geheim-amsterdam"
+   ]
+  },
+  {
+   "id": "vanloon",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Museum Van Loon'un gizli bahçesine çık",
+   "desc": "Keizersgracht'taki bu görkemli konak, Altın Çağ'ın zengin tüccar ailelerinin nasıl yaşadığını neredeyse dokunulmamış odalarıyla gösteriyor. Evin arkasında, sokaktan asla tahmin edemeyeceğin düzenli bir kanal bahçesi ve araba evi var.",
+   "tip": "Odaları gezdikten sonra bahçeye in ve geriye dönüp evin arka cephesine bak. Burada kalabalık nadiren olur.",
+   "q": "Museum Van Loon Amsterdam",
+   "ll": [
+    52.3634,
+    4.8934
+   ],
+   "tags": [
+    "yağmurda"
+   ],
+   "src": [
+    "https://guide.michelin.com/be/nl/article/travel/geheim-amsterdam",
+    "https://www.wanderlustingk.com/travel-blog/secret-amsterdam"
+   ]
+  },
+  {
+   "id": "trippenhuis",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Trippenhuis ile karşısındaki cüce evi karşılaştır",
+   "desc": "Kloveniersburgwal'daki Trippenhuis, silah tüccarı Trip kardeşler için yapılmış ve şehrin en geniş cepheli kanal evi sayılıyor. Kanalın tam karşısındaki Klein Trippenhuis ise sadece bir kapı genişliğinde.",
+   "tip": "Trippenhuis'in çatısındaki bacalara dikkat et, havan topu biçiminde yapılmışlar. Bina içi gezilmiyor, manzara kanalın iki yakasından.",
+   "q": "Trippenhuis Kloveniersburgwal Amsterdam",
+   "ll": [
+    52.3722,
+    4.8997
+   ],
+   "tags": [
+    "ücretsiz"
+   ],
+   "src": [
+    "https://guide.michelin.com/be/nl/article/travel/geheim-amsterdam"
+   ]
+  },
+  {
+   "id": "kattenkabinet",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "KattenKabinet'te kedilerin arasında sanat gez",
+   "desc": "Herengracht'taki bir kanal konağının salonları baştan sona kedi temalı tablolar, afişler ve heykellerle dolu. Koleksiyonun arasında evin gerçek kedileri de dolaşıyor.",
+   "tip": "Müze küçük, yarım saat yeter. Asıl sürpriz, bir kanal konağının içini bu kadar rahat gezebilmek.",
+   "q": "KattenKabinet Amsterdam",
+   "ll": [
+    52.3655,
+    4.8916
+   ],
+   "tags": [
+    "yağmurda"
+   ],
+   "src": [
+    "https://www.wanderlustingk.com/travel-blog/secret-amsterdam",
+    "https://en.wikivoyage.org/wiki/Amsterdam/Canal_District"
+   ]
+  },
+  {
+   "id": "oostindischhuis",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "VOC'nin eski merkezinin avlusuna gir",
+   "desc": "Oude Hoogstraat'taki Oost-Indisch Huis, Hollanda Doğu Hindistan Şirketi'nin 17. yüzyıldaki genel merkeziydi. Bugün üniversite binası; sokaktaki kemerli kapıdan geçince küçük, süslü avlusunu görebilirsin.",
+   "tip": "Bina üniversiteye ait olduğu için avlu kapısı genelde hafta içi gündüz açık. İçerideki salonlar ziyarete kapalı.",
+   "q": "Oost-Indisch Huis Amsterdam",
+   "ll": [
+    52.3713,
+    4.898
+   ],
+   "tags": [
+    "ücretsiz"
+   ],
+   "src": [
+    "https://www.wanderlustingk.com/travel-blog/secret-amsterdam"
+   ]
+  },
+  {
+   "id": "montelbaanstoren",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Montelbaanstoren'i karşı kıyıdan seyret",
+   "desc": "Oudeschans kanalının kıyısındaki bu kule 16. yüzyılın başında savunma amacıyla yapıldı, zarif sivri külahı sonradan eklendi. Şehrin en fotojenik köşelerinden biri ama kalabalık buraya pek uğramıyor.",
+   "tip": "Kulenin içi gezilmiyor; en iyi görüntü kanalın karşı yakasından ya da köprünün üstünden.",
+   "q": "Montelbaanstoren Amsterdam",
+   "ll": [
+    52.372,
+    4.9042
+   ],
+   "tags": [
+    "ücretsiz"
+   ],
+   "src": [
+    "https://www.wanderlustingk.com/travel-blog/secret-amsterdam"
+   ]
+  },
+  {
+   "id": "westelijkeeilanden",
+   "cat": "gor",
+   "area": "jordaan",
+   "title": "Prinseneiland ve Realeneiland'ın köprülerinden geç",
+   "desc": "Haarlemmerbuurt'un hemen kuzeyindeki bu yapay adalar 17. yüzyılda tersaneler ve depolar için kuruldu. Bugün kepenkli eski ambarları, sanatçı atölyeleri ve ahşap açılır köprüleriyle merkezin en sakin köşesi.",
+   "tip": "Prinseneiland'ı Realeneiland'a bağlayan küçük Drieharingenbrug'dan geç. Açık Atölye günlerinde sanatçılar kapılarını açıyor.",
+   "q": "Drieharingenbrug Amsterdam",
+   "ll": [
+    52.3861,
+    4.8872
+   ],
+   "tags": [
+    "ücretsiz"
+   ],
+   "src": [
+    "https://www.wanderlustingk.com/travel-blog/secret-amsterdam"
+   ]
+  },
+  {
+   "id": "vanbrienenhofje",
+   "cat": "gor",
+   "area": "jordaan",
+   "title": "Van Brienenhofje'nin kapısını dene",
+   "desc": "Prinsengracht üzerindeki bu hofje, De Star adıyla da bilinir ve kapalı kapısının ardında bakımlı bir iç bahçe saklar. Açılış saatleri düzensiz olduğu için Karthuizerhof'a göre çok daha az ziyaretçi görür.",
+   "tip": "Kapı kapalıysa ısrar etme, başka bir gün tekrar dene. İçeride insanlar yaşıyor, sessiz gez.",
+   "q": "Van Brienenhofje Prinsengracht Amsterdam",
+   "ll": [
+    52.3789,
+    4.8877
+   ],
+   "tags": [
+    "ücretsiz"
+   ],
+   "src": [
+    "https://www.wanderlustingk.com/travel-blog/secret-amsterdam"
+   ]
+  },
+  {
+   "id": "sintandrieshofje",
+   "cat": "gor",
+   "area": "jordaan",
+   "title": "Sint Andrieshofje'nin çinili koridorundan geç",
+   "desc": "Egelantiersgracht'taki Sint Andrieshofje, şehrin en eski hofje'lerinden biri. Sokak kapısından avluya, duvarları mavi beyaz Delft çinileriyle kaplı dar bir koridordan geçilir.",
+   "tip": "Kapı hafta içi gündüz saatlerinde genelde açık olur. Avlu küçük ve içinde yaşayanlar var, kısa tut.",
+   "q": "Sint Andrieshofje Egelantiersgracht Amsterdam",
+   "ll": [
+    52.376,
+    4.8813
+   ],
+   "tags": [
+    "ücretsiz"
+   ],
+   "src": [
+    "https://guide.michelin.com/be/nl/article/travel/geheim-amsterdam"
+   ]
+  },
+  {
+   "id": "oudekerk",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Oude Kerk'in mezar taşlı zemininde yürü",
+   "desc": "De Wallen'in tam ortasındaki Oude Kerk, 14. yüzyılın başından kalma ve Amsterdam'ın ayakta duran en eski binası. Bugün çağdaş sanat sergilerine ev sahipliği yapıyor; ahşap tonozlu tavanı ile zemini kaplayan mezar taşları tek başına görülmeye değer.",
+   "tip": "Zeminde Rembrandt'ın eşi Saskia'nın mezar taşını ara. Kilisenin çevresindeki meydan gündüz saatlerinde çok daha sakin.",
+   "q": "Oude Kerk Amsterdam",
+   "ll": [
+    52.3742,
+    4.8981
+   ],
+   "tags": [
+    "yağmurda"
+   ],
+   "src": [
+    "https://www.iamsterdam.com/ontdek/buurten/centrum/dingen-om-te-doen-in-hartje-centrum",
+    "https://www.timeout.com/amsterdam/things-to-do/best-things-to-do-in-amsterdam"
+   ]
+  },
+  {
+   "id": "foam",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Foam'da bir fotoğraf sergisi gez",
+   "desc": "Keizersgracht'taki bir kanal evine yerleşmiş Foam, şehrin fotoğraf müzesi. Sergiler sık değişiyor ve büyük isimlerle genç fotoğrafçılar aynı dar merdivenli evin katlarını paylaşıyor.",
+   "tip": "Müze küçük olduğu için bir saatte rahatça gezilir; hemen yakındaki Museum Van Loon ile aynı güne sığar.",
+   "q": "Foam Fotografiemuseum Amsterdam",
+   "ll": [
+    52.364,
+    4.8933
+   ],
+   "tags": [
+    "yağmurda"
+   ],
+   "src": [
+    "https://www.timeout.com/amsterdam/things-to-do/best-things-to-do-in-amsterdam",
+    "https://en.wikivoyage.org/wiki/Amsterdam/Canal_District"
+   ]
+  },
+  {
+   "id": "nemodak",
+   "cat": "gor",
+   "area": "oost",
+   "title": "NEMO'nun çatısına çıkıp şehre bak",
+   "desc": "Gemi burnunu andıran yeşil bakır NEMO binasının eğimli çatısı, müze bileti almadan çıkılabilen bir çatı bahçesi ve seyir terası. Eski şehrin kuleleri ve Oosterdok buradan ayağının altında.",
+   "tip": "Çatıya binanın doğu yanındaki dış basamaklardan çıkılıyor. Yaz aylarında bazı akşamlar geç saate kadar açık kalıyor.",
+   "q": "NEMO Science Museum Amsterdam",
+   "ll": [
+    52.3741,
+    4.9124
+   ],
+   "tags": [
+    "ücretsiz"
+   ],
+   "src": [
+    "https://www.iamsterdam.com/uit/agenda/attracties-en-bezienswaardigheden/bezienswaardigheden/het-dak-van-nemo",
+    "https://www.timeout.com/amsterdam/things-to-do/best-things-to-do-in-amsterdam"
+   ]
+  },
+  {
+   "id": "scheepvaartmuseum",
+   "cat": "gor",
+   "area": "oost",
+   "title": "Scheepvaartmuseum'un cam çatılı avlusunda dur",
+   "desc": "17. yüzyılda donanmanın deposu olarak yapılan dev bina bugün Hollanda'nın denizcilik müzesi. Ortasındaki avlu, pusula çizgilerinden esinlenen çelik ve cam bir çatıyla örtülü ve bilet almadan girilebiliyor.",
+   "tip": "Müzeye girersen rıhtımda bağlı duran Doğu Hindistan gemisi kopyasına da çık. Avlu akşam ışıklandırıldığında daha da etkileyici.",
+   "q": "Het Scheepvaartmuseum Amsterdam",
+   "ll": [
+    52.3714,
+    4.9147
+   ],
+   "tags": [
+    "yağmurda"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Amsterdam/Plantage"
+   ]
+  },
+  {
+   "id": "verzetsmuseum",
+   "cat": "gor",
+   "area": "oost",
+   "title": "Verzetsmuseum'da işgal yıllarını dinle",
+   "desc": "Artis'in karşısındaki Verzetsmuseum, Nazi işgali altındaki Amsterdam'ı sıradan insanların verdiği kararlar üzerinden anlatıyor. Çocuklar için ayrılmış bölüm, dört çocuğun gerçek hikâyesini izleterek konuyu küçüklere de ulaştırıyor.",
+   "tip": "Anne Frank Evi'ne bilet bulamadıysan burası güçlü bir alternatif. Çıkışta karşıdaki Wertheimpark'ta mola verebilirsin.",
+   "q": "Verzetsmuseum Amsterdam",
+   "ll": [
+    52.3677,
+    4.9127
+   ],
+   "tags": [
+    "yağmurda"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Amsterdam/Plantage"
+   ]
+  },
+  {
+   "id": "driehendricken",
+   "cat": "gor",
+   "area": "jordaan",
+   "title": "Bloemgracht'ta De Drie Hendricken'i bul",
+   "desc": "Bloemgracht üzerinde yan yana duran üç basamaklı cepheli 17. yüzyıl evi, Jordaan'ın en güzel korunmuş sıra evlerinden. Cephelerindeki taş kabartmalar bir şehirliyi, bir köylüyü ve bir denizciyi gösteriyor.",
+   "tip": "Bloemgracht turist akınının dışında kalan sakin bir kanal; evleri en iyi karşı kıyıdan görürsün.",
+   "q": "De Drie Hendricken Bloemgracht Amsterdam",
+   "ll": [
+    52.3747,
+    4.8806
+   ],
+   "tags": [
+    "ücretsiz"
+   ],
+   "src": [
+    "https://www.iamsterdam.com/ontdek/buurten/centrum/dingen-om-te-doen-in-de-jordaan"
+   ]
+  },
+  {
+   "id": "cafechris",
+   "cat": "ye",
+   "area": "jordaan",
+   "title": "Café Chris'te bir bira söyle",
+   "desc": "Bloemstraat'taki Café Chris, 1624'te birahane olarak açıldı ve şehrin en eski kafesi olarak anılıyor. Rivayete göre Westerkerk'in kulesini yapan işçiler ücretlerini burada alırdı.",
+   "tip": "İçerisi küçük ve loş; bilardo masası müdavimlerin. Yanında nakit bulundur.",
+   "q": "Café Chris Bloemstraat Amsterdam",
+   "ll": [
+    52.374,
+    4.8822
+   ],
+   "tags": [
+    "yağmurda"
+   ],
+   "src": [
+    "https://www.iamsterdam.com/en/see-and-do/restaurant-and-bars/best-brown-bars-in-amsterdam",
+    "https://www.wanderlustingk.com/travel-blog/secret-amsterdam"
+   ]
+  },
+  {
+   "id": "tsmalle",
+   "cat": "ye",
+   "area": "jordaan",
+   "title": "Café 't Smalle'nin kanal terasında otur",
+   "desc": "Egelantiersgracht'taki bu dar, ahşap kaplamalı kahverengi kafe 18. yüzyılın sonunda bir jenever imalathanesi olarak başladı. Suyun üstüne uzanan küçük terası şehrin en sevilen oturma yerlerinden.",
+   "tip": "Güneşli günde terasta yer bulmak zor, öğleden önce dene. Kışın mum ışığındaki iç salon en az teras kadar güzel.",
+   "q": "Café 't Smalle Amsterdam",
+   "ll": [
+    52.3763,
+    4.8836
+   ],
+   "src": [
+    "https://www.iamsterdam.com/en/see-and-do/restaurant-and-bars/best-brown-bars-in-amsterdam",
+    "https://www.timeout.com/amsterdam/bars-and-pubs/best-bars-in-amsterdam"
+   ]
+  },
+  {
+   "id": "hoppe",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Café Hoppe'de ayakta bir bira iç",
+   "desc": "Spui'deki Hoppe 17. yüzyıldan beri açık olan eski bir imalathane; koyu ahşap içi ve yere serpilmiş kumuyla klasik bir Amsterdam kahverengi kafesi. Akşamüstü kalabalığı kaldırıma taşar ve herkes ayakta içer.",
+   "tip": "İki kapıdan eski salon olanını seç. Cuma günü gelirsen meydandaki kitap pazarıyla birleştir.",
+   "q": "Café Hoppe Spui Amsterdam",
+   "ll": [
+    52.3691,
+    4.8886
+   ],
+   "tags": [
+    "yağmurda"
+   ],
+   "src": [
+    "https://www.iamsterdam.com/en/see-and-do/restaurant-and-bars/best-brown-bars-in-amsterdam",
+    "https://www.iamsterdam.com/ontdek/buurten/centrum/dingen-om-te-doen-in-hartje-centrum"
+   ]
+  },
+  {
+   "id": "driefleschjes",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "De Drie Fleschjes'te fıçıların önünde jenever tat",
+   "desc": "Nieuwe Kerk'in arkasındaki bu tadım evi 17. yüzyıldan kalma. Bir duvarı boydan boya eski fıçılarla kaplı ve içeride müzik çalmıyor, sadece sohbet var.",
+   "tip": "Wynand Fockink'i sevdiysen burası onun daha sakin kardeşi. Rafta dizili, eski belediye başkanlarının portrelerini taşıyan minik şişelere bak.",
+   "q": "Proeflokaal De Drie Fleschjes Amsterdam",
+   "ll": [
+    52.374,
+    4.8925
+   ],
+   "tags": [
+    "yağmurda"
+   ],
+   "src": [
+    "https://www.timeout.com/amsterdam/bars-and-pubs/best-bars-in-amsterdam"
+   ]
+  },
+  {
+   "id": "cafededokter",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Şehrin en küçük kafesi Café de Dokter'e sığ",
+   "desc": "Kalverstraat'ın hemen yanındaki dar bir sokakta, 18. yüzyılın sonundan beri açık olan birkaç metrekarelik bir kahverengi kafe. Tavandan sarkan eski eşyalar ve tozlu lambalar arasında zaman durmuş gibi.",
+   "tip": "İçeride ancak bir avuç insana yer var; erken saatte gel ve barmene viski ya da jenever sor.",
+   "q": "Café de Dokter Rozenboomsteeg Amsterdam",
+   "ll": [
+    52.3692,
+    4.8911
+   ],
+   "tags": [
+    "yağmurda"
+   ],
+   "src": [
+    "https://www.timeout.com/amsterdam/bars-and-pubs/best-bars-in-amsterdam",
+    "https://www.iamsterdam.com/ontdek/buurten/centrum/verborgen-parels-in-hartje-centrum"
+   ]
+  },
+  {
+   "id": "aepjen",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "In 't Aepjen'de maymunların hikâyesini dinle",
+   "desc": "Zeedijk'in başındaki bu bar, şehrin ayakta kalan iki ahşap evinden birinde. Rivayete göre uzak seferlerden dönen denizciler hesaplarını yanlarında getirdikleri maymunlarla öderdi; binanın adı da buradan geliyor.",
+   "tip": "Begijnhof'taki ahşap evi gördüysen ikiliyi burada tamamla. İçerisi sakin ve loş, maymun figürlerini say.",
+   "q": "In 't Aepjen Zeedijk Amsterdam",
+   "ll": [
+    52.3768,
+    4.9
+   ],
+   "tags": [
+    "yağmurda"
+   ],
+   "src": [
+    "https://www.wanderlustingk.com/travel-blog/secret-amsterdam"
+   ]
+  },
+  {
+   "id": "arendsnest",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Arendsnest'te sadece Hollanda birası iç",
+   "desc": "Herengracht'taki Proeflokaal Arendsnest'in kuralı basit: musluklardaki ve şişelerdeki bütün biralar Hollanda'dan. Ülkenin küçük üreticilerini tek bir barda tanımak için en iyi adres.",
+   "tip": "Ne seçeceğini bilemezsen tadım tahtası iste. Güzel havada kanal kenarındaki birkaç masa kapışılıyor.",
+   "q": "Proeflokaal Arendsnest Amsterdam",
+   "ll": [
+    52.3768,
+    4.8893
+   ],
+   "tags": [
+    "yağmurda"
+   ],
+   "src": [
+    "https://www.timeout.com/amsterdam/bars-and-pubs/best-bars-in-amsterdam",
+    "https://en.wikivoyage.org/wiki/Amsterdam/Canal_District"
+   ]
+  },
+  {
+   "id": "vanstapele",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Van Stapele'den sıcak çikolatalı kurabiye al",
+   "desc": "Van Stapele Koekmakerij tek bir şey yapıyor: dışı bitter, içi akışkan beyaz çikolatalı kurabiye. Fırından yeni çıkmış, hâlâ sıcakken veriliyor.",
+   "tip": "Dükkân eski dar sokağından Rokin'deki daha büyük yerine taşındı; kuyruk uzun görünse de hızlı ilerliyor.",
+   "q": "Van Stapele Koekmakerij Rokin Amsterdam",
+   "ll": [
+    52.3719,
+    4.8931
+   ],
+   "src": [
+    "https://www.wanderlustingk.com/travel-blog/secret-amsterdam"
+   ]
+  },
+  {
+   "id": "hoitin",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Zeedijk'te Hoi Tin'de dim sum ye",
+   "desc": "Amsterdam'ın küçük Çin Mahallesi Zeedijk boyunca uzanıyor. Aile işletmesi Hoi Tin hem Kanton mutfağı hem de kapısının yanındaki fırınıyla mahallenin demirbaşı.",
+   "tip": "Öğle saatinde dim sum için gel. Birkaç kapı ötedeki Budist tapınağının cephesine de bak.",
+   "q": "Hoi Tin Zeedijk Amsterdam",
+   "ll": [
+    52.3734,
+    4.9004
+   ],
+   "tags": [
+    "yağmurda"
+   ],
+   "src": [
+    "https://www.timeout.com/amsterdam/restaurants/best-restaurants-in-amsterdam"
+   ]
+  },
+  {
+   "id": "vandobben",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Van Dobben'de broodje kroket ye",
+   "desc": "Rembrandtplein'ın arkasındaki bu eski usul büfe, savaş sonrasından beri Amsterdamlıların sandviç durağı. Yumuşak ekmeğin içinde çıtır et kroketi şehrin en bilinen atıştırmalıklarından.",
+   "tip": "Kroketin üstüne hardal sür ve tezgâhtaki taburelerden birine otur. İçi çok sıcak olur, ilk ısırıkta dikkat.",
+   "q": "Eetsalon Van Dobben Amsterdam",
+   "ll": [
+    52.3659,
+    4.8964
+   ],
+   "tags": [
+    "yağmurda"
+   ],
+   "src": [
+    "https://www.timeout.com/amsterdam/restaurants/best-restaurants-in-amsterdam"
+   ]
+  },
+  {
+   "id": "toscanini",
+   "cat": "ye",
+   "area": "jordaan",
+   "title": "Caffè Toscanini'de ev yapımı makarna ye",
+   "desc": "Lindengracht'taki Toscanini, ekmeğini ve makarnasını kendi yapan bölgesel bir İtalyan lokantası ve Jordaan'ın yıllardır değişmeyen favorisi. Açık mutfağı ve yüksek tavanlı salonuyla hep dolu.",
+   "tip": "Önceden yer ayırt, kapıdan girip masa bulmak zor. Yer bulamazsan aynı ekibin şarküterisinden paket alabilirsin.",
+   "q": "Caffè Toscanini Lindengracht Amsterdam",
+   "ll": [
+    52.3803,
+    4.8851
+   ],
+   "src": [
+    "https://www.timeout.com/amsterdam/restaurants/best-restaurants-in-amsterdam",
+    "https://www.iamsterdam.com/ontdek/buurten/centrum/dingen-om-te-doen-in-de-jordaan"
+   ]
+  },
+  {
+   "id": "tzwaantje",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "'t Zwaantje'de Hollanda ev yemeği ye",
+   "desc": "Negen Straatjes'in ortasındaki bu kahverengi kafe havasındaki lokanta onlarca yıldır doyurucu, klasik Hollanda yemekleri pişiriyor. Turistik menülerin arasında gerçek bir mahalle lokantası.",
+   "tip": "Salon küçük, akşam için yer ayırt. Günün yemeğini sor, mevsime göre değişiyor.",
+   "q": "Restaurant 't Zwaantje Berenstraat Amsterdam",
+   "ll": [
+    52.3704,
+    4.8846
+   ],
+   "tags": [
+    "yağmurda"
+   ],
+   "src": [
+    "https://www.timeout.com/amsterdam/restaurants/best-restaurants-in-amsterdam"
+   ]
+  },
+  {
+   "id": "koffieschenkerij",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "De Koffieschenkerij'de kilisenin bahçesinde kahve iç",
+   "desc": "Oude Kerk'in yan binasına yerleşmiş bu kafe, De Wallen'in ortasında beklenmedik bir sakinlik sunuyor. Ev yapımı tatlılar kilisenin duvarına yaslanan küçük bahçede yeniyor.",
+   "tip": "Kiliseye girmeden de oturabilirsin. Elmalı turta günün erken saatinde daha taze.",
+   "q": "De Koffieschenkerij Oudekerksplein Amsterdam",
+   "ll": [
+    52.3745,
+    4.8979
+   ],
+   "src": [
+    "https://www.iamsterdam.com/zien-en-doen/natuur-en-actief/routes/wandelroute-langs-de-verborgen-parels-van-de-burgwallen"
+   ]
+  },
+  {
+   "id": "stubbesharing",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Stubbe's Haring'de köprünün üstünde ringa ye",
+   "desc": "Singel'in başındaki köprüde duran bu ringa arabası, Amsterdamlıların iş çıkışı uğradığı adreslerden. Balık gözünün önünde temizleniyor ve yağlı kâğıt üstünde veriliyor.",
+   "tip": "Amsterdam usulü ringa parçalara kesilir, soğan ve turşuyla kürdanla yenir. En iyisi arabanın önünde, ayakta.",
+   "q": "Stubbe's Haring Singel Amsterdam",
+   "ll": [
+    52.3795,
+    4.8921
+   ],
+   "src": [
+    "https://www.iamsterdam.com/en/see-and-do/restaurant-and-bars/best-herring-in-amsterdam"
+   ]
+  },
+  {
+   "id": "spuiboekenmarkt",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cuma günü Spui kitap pazarında eşelen",
+   "desc": "Her cuma Spui meydanına ikinci el ve antika kitap tezgâhları kuruluyor. Eski haritalar, gravürler ve her dilde kitap arasında saatler geçebilir.",
+   "tip": "Meydanın çevresindeki Athenaeum ve American Book Center ile aynı turda gez; yorulunca Café Hoppe iki adım ötede.",
+   "q": "Boekenmarkt Spui Amsterdam",
+   "ll": [
+    52.3688,
+    4.8897
+   ],
+   "tags": [
+    "ücretsiz"
+   ],
+   "src": [
+    "https://www.iamsterdam.com/ontdek/buurten/centrum/verborgen-parels-in-hartje-centrum",
+    "https://en.wikivoyage.org/wiki/Amsterdam/Binnenstad"
+   ]
+  },
+  {
+   "id": "poezenboot",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "De Poezenboot'ta barınak kedilerini ziyaret et",
+   "desc": "Singel'de bağlı duran bu tekne, onlarca yıldır sahipsiz kedilere bakan yüzen bir barınak. Gönüllülerle çalışıyor ve ziyaretçileri haftanın birkaç öğleden sonrası kabul ediyor.",
+   "tip": "Ziyaret günleri sınırlı, gitmeden önce barınağın sitesine bak. Giriş serbest ama bağış kutusunu boş geçme.",
+   "q": "De Poezenboot Amsterdam",
+   "ll": [
+    52.3781,
+    4.8931
+   ],
+   "tags": [
+    "ücretsiz"
+   ],
+   "src": [
+    "https://www.wanderlustingk.com/travel-blog/secret-amsterdam",
+    "https://en.wikivoyage.org/wiki/Amsterdam/Canal_District"
+   ]
+  },
+  {
+   "id": "tweezwaantjes",
+   "cat": "dene",
+   "area": "jordaan",
+   "title": "De Twee Zwaantjes'te Jordaan şarkılarına eşlik et",
+   "desc": "Prinsengracht'taki bu küçük kahverengi kafe, Jordaan'ın duygusal halk şarkılarının hâlâ hep bir ağızdan söylendiği yer. Mikrofon elden ele dolaşıyor, sözleri bilmesen de nakarata katılıyorsun.",
+   "tip": "Şarkılı akşamlar hafta sonuna doğru yoğunlaşıyor ve içerisi çabuk doluyor; erken gel, bitterballen söyle.",
+   "q": "Café de Twee Zwaantjes Amsterdam",
+   "ll": [
+    52.3767,
+    4.8843
+   ],
+   "tags": [
+    "yağmurda"
+   ],
+   "src": [
+    "https://www.iamsterdam.com/en/see-and-do/restaurant-and-bars/best-brown-bars-in-amsterdam",
+    "https://www.iamsterdam.com/ontdek/buurten/centrum/dingen-om-te-doen-in-de-jordaan"
+   ]
+  },
+  {
+   "id": "marionettentheater",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Marionetten Theater'da kuklalarla opera izle",
+   "desc": "Nieuwmarkt'ın arkasındaki küçük bir sokakta, elde oyulmuş ahşap kuklaların opera sahnelediği bir tiyatro var. Gösteriler hem çocuklara hem yetişkinlere göre ve dil engeli neredeyse yok.",
+   "tip": "Temsiller her gün yok, programa önceden bak ve bilet al. Salon küçük olduğu için her koltuk sahneye yakın.",
+   "q": "Amsterdams Marionetten Theater",
+   "ll": [
+    52.3739,
+    4.9027
+   ],
+   "tags": [
+    "yağmurda"
+   ],
+   "src": [
+    "https://www.iamsterdam.com/zien-en-doen/natuur-en-actief/routes/wandelroute-langs-de-verborgen-parels-van-de-burgwallen"
+   ]
+  },
+  {
+   "id": "torpedotheater",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Torpedo Theater'ın on beş koltuğundan birine otur",
+   "desc": "Dar bir ara sokaktaki Torpedo Theater, bir bar, bir piyano ve yaklaşık on beş koltuktan ibaret. Oyunlar, söyleşiler ve müzik geceleri oturma odası yakınlığında geçiyor.",
+   "tip": "Programın çoğu Hollandaca; dil sorun olmasın istersen müzik akşamlarını seç ve yerini önceden ayırt.",
+   "q": "Torpedo Theater Amsterdam",
+   "ll": [
+    52.3712,
+    4.8944
+   ],
+   "tags": [
+    "yağmurda"
+   ],
+   "src": [
+    "https://www.iamsterdam.com/zien-en-doen/natuur-en-actief/routes/wandelroute-langs-de-verborgen-parels-van-de-burgwallen"
+   ]
+  },
+  {
+   "id": "negenstraatjes",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Negen Straatjes'te dükkân dükkân dolaş",
+   "desc": "Büyük kanalları birbirine bağlayan dokuz küçük sokak, zincir mağazalar yerine bağımsız butikler, vintage dükkânları ve küçük kafelerle dolu. Her köprüden ayrı bir kanal manzarası açılıyor.",
+   "tip": "Sokak adlarına dikkat et: çoğu bir zamanlar burada çalışan dericilerin işlediği hayvanlardan geliyor. Hafta içi sabahları en sakin zaman.",
+   "q": "De Negen Straatjes Amsterdam",
+   "ll": [
+    52.37,
+    4.8858
+   ],
+   "tags": [
+    "ücretsiz"
+   ],
+   "src": [
+    "https://www.timeout.com/amsterdam/things-to-do/best-things-to-do-in-amsterdam",
+    "https://en.wikivoyage.org/wiki/Amsterdam/Canal_District"
+   ]
+  },
+  {
+   "id": "tuschinski",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Tuschinski'nin büyük salonunda film izle",
+   "desc": "1921'de açılan Tuschinski, Art Deco ve Amsterdam Okulu üslubunu karıştıran cephesi ve halılarından lambalarına özenle korunmuş içiyle dünyanın en güzel sinemalarından sayılıyor. Hâlâ sıradan bir sinema gibi çalışıyor.",
+   "tip": "Bilet alırken filmin büyük salonda gösterildiğinden emin ol, asıl görkem orada. Yabancı filmler özgün dilinde, altyazılı oynuyor.",
+   "q": "Pathé Tuschinski Amsterdam",
+   "ll": [
+    52.3665,
+    4.8947
+   ],
+   "tags": [
+    "yağmurda"
+   ],
+   "src": [
+    "https://www.wanderlustingk.com/travel-blog/secret-amsterdam",
+    "https://en.wikivoyage.org/wiki/Amsterdam/Canal_District"
+   ]
+  },
+  {
+   "id": "lindenmarkt",
+   "cat": "dene",
+   "area": "jordaan",
+   "title": "Cumartesi Lindengracht pazarında mahalleliye karış",
+   "desc": "Her cumartesi Lindengracht boyunca yüzlerce tezgâh kuruluyor: peynir, balık, çiçek, ekmek. Komşu Noordermarkt'a göre daha az turistik ve Jordaan sakinlerinin haftalık alışverişini yaptığı yer.",
+   "tip": "Pazarın ucundaki Café Thijssen'de kahveyle başla ya da bitir. Öğleden sonra tezgâhlar toplanmaya başlıyor, sabah gel.",
+   "q": "Lindengrachtmarkt Amsterdam",
+   "ll": [
+    52.3801,
+    4.8843
+   ],
+   "tags": [
+    "ücretsiz"
+   ],
+   "src": [
+    "https://www.iamsterdam.com/ontdek/buurten/centrum/dingen-om-te-doen-in-de-jordaan",
+    "https://amsterdamian.com/see/photos/jordaan-amsterdam-tips-by-a-local/"
+   ]
+  },
+  {
+   "id": "boomchicago",
+   "cat": "dene",
+   "area": "jordaan",
+   "title": "Boom Chicago'da İngilizce doğaçlama izle",
+   "desc": "Rozengracht'taki Boom Chicago, 1990'ların başından beri İngilizce skeç ve doğaçlama komedi sahneliyor. Hollanda'daki hayata dışarıdan bakan esprileri yeni gelenlere özellikle tanıdık gelir.",
+   "tip": "Gösteriler seyirciden gelen önerilerle ilerliyor; ön sıralara oturursan sahneye dahil olmaya hazır ol.",
+   "q": "Boom Chicago Rozengracht Amsterdam",
+   "ll": [
+    52.3728,
+    4.879
+   ],
+   "tags": [
+    "yağmurda"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Amsterdam/Jordaan"
+   ]
+  },
+  {
+   "id": "dierencapel",
+   "cat": "dene",
+   "area": "jordaan",
+   "title": "Bickerseiland'daki çocuk çiftliğinde keçi sev",
+   "desc": "Batı Adaları'ndaki De Dierencapel, kanal kenarında gönüllülerin işlettiği minik bir çocuk çiftliği. Tavşanlar, koyunlar, keçiler ve tavuklar şehrin tam ortasında, suyun kıyısında yaşıyor.",
+   "tip": "Giriş serbest, bağış kutusu var. Prinseneiland yürüyüşüyle aynı güne denk getir.",
+   "q": "Kinderboerderij De Dierencapel Amsterdam",
+   "ll": [
+    52.3848,
+    4.8884
+   ],
+   "tags": [
+    "ücretsiz"
+   ],
+   "src": [
+    "https://www.wanderlustingk.com/travel-blog/secret-amsterdam"
+   ]
+  },
+  {
+   "id": "jacobhooy",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Jacob Hooy'un ahşap çekmecelerinden baharat seç",
+   "desc": "Kloveniersburgwal'daki bu aktar 18. yüzyıldan beri aynı yerde; ahşap çekmeceleri ve fıçıları Doğu Hindistan gemilerinin getirdiği baharat günlerinden kalma. Raflar şifalı otlar, çaylar ve merhemlerle dolu.",
+   "tip": "Hollandalıların tutkunu olduğu meyan şekeri 'drop'un tuzlu ve tatlı çeşitlerini buradan tartıyla al.",
+   "q": "Jacob Hooy Kloveniersburgwal Amsterdam",
+   "ll": [
+    52.3729,
+    4.9003
+   ],
+   "tags": [
+    "yağmurda"
+   ],
+   "src": [
+    "https://www.iamsterdam.com/zien-en-doen/natuur-en-actief/routes/wandelroute-langs-de-verborgen-parels-van-de-burgwallen",
+    "https://guide.michelin.com/be/nl/article/travel/geheim-amsterdam"
+   ]
+  },
+  {
+   "id": "opentuinendagen",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Open Tuinen Dagen'de kanal evlerinin bahçelerine gir",
+   "desc": "Her haziranda bir hafta sonu, kanal kuşağındaki özel evler ve kurumlar yıl boyu kapalı duran arka bahçelerini ziyarete açıyor. Çoğu bahçeye evin içinden geçerek, misafir gibi giriliyor.",
+   "tip": "Tek bir geçiş kartı üç gün boyunca bütün bahçeler için geçerli; kartı Museum Van Loon ya da Huis Willet-Holthuysen'den al. Bahçe adresleri kartla birlikte veriliyor.",
+   "q": "Huis Willet-Holthuysen Amsterdam",
+   "ll": [
+    52.3656,
+    4.8992
+   ],
+   "months": [
+    6
+   ],
+   "src": [
+    "https://www.iamsterdam.com/en/whats-on/calendar/festivals/events/open-garden-days"
+   ]
+  },
+  {
+   "id": "lightfestival",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Amsterdam Light Festival rotasını yürü",
+   "desc": "Kış aylarında kanalların ve Amstel'in üstüne sanatçıların ışık yerleştirmeleri kuruluyor ve karanlık akşamlar bir açık hava sergisine dönüyor. Eserler her yıl yeni bir tema etrafında değişiyor.",
+   "tip": "Tekne turu en bilinen yol ama rotayı yürüyerek gezmek serbest ve ücretsiz. Kalın giyin, eserler hava kararınca yanıyor.",
+   "q": "Amsterdam Light Festival",
+   "ll": [
+    52.3676,
+    4.901
+   ],
+   "months": [
+    11,
+    12,
+    1
+   ],
+   "tags": [
+    "ücretsiz"
+   ],
+   "src": [
+    "https://amsterdamian.com/?p=27136"
+   ]
+  }
+ ],
+ "fix": [
+  {
+   "id": "begijnhof",
+   "problem": "İçerik yanlış değil ama pratik bilgi eksik: avlu yalnızca gündüz saatlerinde açık, akşam kapanıyor; kaynaklar giriş kapısı (Spui tarafı mı, Gedempte Begijnensloot mu) ve pazar günleri açık olup olmadığı konusunda birbiriyle çelişiyor. Düşük öncelikli.",
+   "suggestion": "İpucuna 'avlu akşam kapanıyor, gündüz git; Spui'deki kapı kapalıysa Gedempte Begijnensloot tarafındaki girişi dene' gibi bir cümle eklenebilir.",
+   "src": "https://thingstodoinamsterdam.com/places-sightseeing-amsterdam/begijnhof/"
+  }
+ ]
+}

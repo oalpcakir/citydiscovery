@@ -7,14 +7,17 @@
   <title>Şehir Keşfi</title>
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="vendor/leaflet.css">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+  <div id="map" hidden></div>
   <div id="app"></div>
   <div id="sheet-backdrop" hidden></div>
   <div id="sheet" role="dialog" aria-modal="true" hidden></div>
   <div id="toast" hidden></div>
 
+  <script src="vendor/leaflet.js"></script>
   <!-- Şehirler: yeni şehir eklerken buraya bir satır ekle -->
   <script src="cities/rotterdam.js"></script>
   <script src="app.js"></script>

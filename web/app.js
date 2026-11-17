@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  var APP_VERSION = "0.2.0";
+  var APP_VERSION = "0.3.0";
   var STORE_KEY = "citydiscovery.v1";
   var CATS = {
     gor: { label: "Görülecek", icon: "👁️" },
@@ -29,12 +29,14 @@
   var city = cities[cityId];
 
   // ── Geçici arayüz durumu ───────────────────────────────────
-  var ui = { tab: "gorevler", cat: "all", area: "all", show: "todo", open: null };
+  var ui = { tab: "harita", cat: "all", area: "all", show: "todo", open: null };
 
   function key(q) { return cityId + "/" + q.id; }
   function rec(q) { return store.done[key(q)]; }
   function isDone(q) { var r = rec(q); return !!(r && r.at); }
   function inSeason(q) { return !q.months || q.months.indexOf(new Date().getMonth() + 1) !== -1; }
+  function ll(q) { return city.coords && city.coords[q.id]; }
+  function byId(id) { return city.quests.filter(function (x) { return x.id === id; })[0]; }
   function esc(s) {
     return String(s).replace(/[&<>"']/g, function (c) {
       return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
@@ -48,6 +50,7 @@
     var d = list.filter(isDone).length;
     return { done: d, total: list.length, pct: list.length ? Math.round((d / list.length) * 100) : 0 };
   }
+  function inArea(a) { return city.quests.filter(function (q) { return q.area === a; }); }
   function levelFor(pct) {
     var L = city.levels;
     return L[Math.min(L.length - 1, Math.floor((pct / 100) * (L.length - 1) + 0.0001))];
@@ -84,7 +87,7 @@
 
     Object.keys(city.areas).forEach(function (a) {
       var meta = (city.areaBadges && city.areaBadges[a]) || { icon: "📍", name: city.areas[a] };
-      tiered("area-" + a, "Bölgeler", meta, city.quests.filter(function (q) { return q.area === a; }), city.areas[a] + " görevleri");
+      tiered("area-" + a, "Bölgeler", meta, inArea(a), city.areas[a] + " görevleri");
     });
     Object.keys(CATS).forEach(function (c) {
       tiered("cat-" + c, "Kategoriler", CAT_BADGES[c], city.quests.filter(function (q) { return q.cat === c; }), CATS[c].label + " görevleri");
@@ -129,46 +132,120 @@
     return p;
   }
 
+  // ── Harita ─────────────────────────────────────────────────
+  var $map = document.getElementById("map");
+  var map = null, pinLayer = null, glowLayer = null;
+
+  function ensureMap() {
+    if (map || !window.L) return !!map;
+    var dark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+    map = L.map($map, { zoomControl: false, attributionControl: true, minZoom: 9, maxZoom: 18 });
+    map.attributionControl.setPrefix(false);
+    L.tileLayer("https://{s}.basemaps.cartocdn.com/" + (dark ? "dark_all" : "light_all") + "/{z}/{x}/{y}{r}.png", {
+      subdomains: "abcd", maxZoom: 20,
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'
+    }).addTo(map);
+    glowLayer = L.layerGroup().addTo(map);
+    pinLayer = L.layerGroup().addTo(map);
+    map.fitBounds(city.bounds);
+    return true;
+  }
+  function mapQuests() {
+    return city.quests.filter(function (q) {
+      return ll(q) && (ui.cat === "all" || q.cat === ui.cat) && (ui.area === "all" || q.area === ui.area);
+    });
+  }
+  function updateMap() {
+    if (!ensureMap()) return;
+    map.invalidateSize();
+    pinLayer.clearLayers(); glowLayer.clearLayers();
+    var accent = getComputedStyle(document.documentElement).getPropertyValue("--accent").trim() || "#0b7a43";
+    mapQuests().forEach(function (q) {
+      var done = isDone(q);
+      // Tamamlanan yerlerin çevresi haritada renklenir.
+      if (done) L.circle(ll(q), { radius: 320, stroke: false, fillColor: accent, fillOpacity: 0.2, interactive: false }).addTo(glowLayer);
+      var icon = L.divIcon({
+        className: "", iconSize: [34, 34], iconAnchor: [17, 17],
+        html: '<div class="pin ' + q.cat + (done ? " done" : "") + (!done && !inSeason(q) ? " off" : "") + '">' + (done ? "✓" : CATS[q.cat].icon) + '</div>'
+      });
+      L.marker(ll(q), { icon: icon, title: q.title, zIndexOffset: done ? 0 : 500 })
+        .on("click", function () { openSheet(q.id); })
+        .addTo(pinLayer);
+    });
+  }
+  // Görevi, alttan açılan detay sayfasının üstünde kalacak şekilde ortalar.
+  function focusQuest(q) {
+    if (!map || !ll(q)) return;
+    var z = Math.max(map.getZoom(), 15);
+    var p = map.project(ll(q), z);
+    p.y += map.getSize().y * 0.22;
+    map.setView(map.unproject(p, z), z, { animate: true });
+  }
+  function flyToArea() {
+    if (!map) return;
+    if (ui.area === "all") { map.flyToBounds(city.bounds, { duration: 0.6 }); return; }
+    var pts = inArea(ui.area).map(ll).filter(Boolean);
+    if (pts.length) map.flyToBounds(L.latLngBounds(pts).pad(0.25), { duration: 0.6, maxZoom: 15 });
+  }
+
   // ── Çizim ──────────────────────────────────────────────────
   var $app = document.getElementById("app");
   var $sheet = document.getElementById("sheet");
   var $backdrop = document.getElementById("sheet-backdrop");
   var $toast = document.getElementById("toast");
 
-  function render() {
-    var s = stats(city.quests);
+  function ring(pct, big) {
     var C = 2 * Math.PI * 26;
-    var html =
-      '<header class="hero">' +
-        '<div class="hero-top"><div class="grow">' +
-          '<h1>' + esc(city.name) + '</h1>' +
-          '<div class="sub">' + esc(city.subtitle || city.country || "") + '</div>' +
-        '</div>' +
-        '<div class="ring"><svg viewBox="0 0 64 64">' +
-          '<circle class="track" cx="32" cy="32" r="26"/>' +
-          '<circle class="bar" cx="32" cy="32" r="26" stroke-dasharray="' + C.toFixed(1) +
-            '" stroke-dashoffset="' + (C * (1 - s.pct / 100)).toFixed(1) + '"/>' +
-        '</svg><span>%' + s.pct + '</span></div></div>' +
-        '<div class="level"><span>Seviye: <b>' + esc(levelFor(s.pct)) + '</b></span>' +
-          '<span>' + s.done + ' / ' + s.total + ' görev · ' + points() + ' puan</span></div>' +
-        (ui.tab === "gorevler" ? '<button class="suggest" data-act="suggest">🎲 Bugün ne yapsam?</button>' : "") +
-      '</header>';
-
-    html += ui.tab === "gorevler" ? renderQuests() : ui.tab === "rozetler" ? renderBadges() : renderProgress();
-
-    html += '<nav class="tabs">' +
-      tabBtn("gorevler", "🧭", "Görevler") + tabBtn("rozetler", "🏅", "Rozetler") + tabBtn("ilerleme", "🏆", "İlerleme") + '</nav>';
-    $app.innerHTML = html;
+    return '<div class="ring' + (big ? " big" : "") + '"><svg viewBox="0 0 64 64">' +
+      '<circle class="track" cx="32" cy="32" r="26"/>' +
+      '<circle class="bar" cx="32" cy="32" r="26" stroke-dasharray="' + C.toFixed(1) +
+      '" stroke-dashoffset="' + (C * (1 - pct / 100)).toFixed(1) + '"/></svg><span>%' + pct + '</span></div>';
+  }
+  function chip(group, val, label) {
+    return '<button class="chip' + (ui[group] === val ? " on" : "") + '" data-f="' + group + '" data-v="' + val + '">' + label + '</button>';
+  }
+  function catChips() {
+    var h = chip("cat", "all", "Hepsi");
+    Object.keys(CATS).forEach(function (c) { h += chip("cat", c, CATS[c].icon + " " + CATS[c].label); });
+    return h;
+  }
+  function areaChips() {
+    var h = chip("area", "all", "Her yer");
+    Object.keys(city.areas).forEach(function (a) {
+      h += chip("area", a, esc(city.areas[a]) + " <small>%" + stats(inArea(a)).pct + "</small>");
+    });
+    return h;
   }
   function tabBtn(id, ic, label) {
     return '<button data-tab="' + id + '" class="' + (ui.tab === id ? "on" : "") + '"><span class="ic">' + ic + '</span>' + label + '</button>';
   }
-  function chip(group, val, label, small) {
-    return '<button class="chip' + (small ? " small" : "") + (ui[group] === val ? " on" : "") +
-      '" data-f="' + group + '" data-v="' + val + '">' + esc(label) + '</button>';
+  function head(title, sub) {
+    return '<header class="head"><h1>' + esc(title) + '</h1><p>' + esc(sub) + '</p></header>';
   }
 
-  function visibleQuests() {
+  function render() {
+    var onMap = ui.tab === "harita";
+    $map.hidden = !onMap;
+    var html = onMap ? renderMapUI() : ui.tab === "gorevler" ? renderQuests() : ui.tab === "rozetler" ? renderBadges() : renderProfile();
+    html += '<nav class="tabs">' + tabBtn("harita", "🗺️", "Harita") + tabBtn("gorevler", "📋", "Görevler") +
+      tabBtn("rozetler", "🏅", "Rozetler") + tabBtn("profil", "🏆", "Profil") + '</nav>';
+    $app.innerHTML = html;
+    if (onMap) updateMap();
+  }
+
+  function renderMapUI() {
+    var s = stats(city.quests);
+    return '<div class="map-top">' +
+      '<div class="topcard glass"><div class="grow"><div class="tc-city">' + esc(city.name) + '</div>' +
+        '<div class="tc-sub">' + s.done + ' / ' + s.total + ' görev · ' + points() + ' puan · ' + esc(levelFor(s.pct)) + '</div></div>' +
+        ring(s.pct) + '</div>' +
+      '<div class="chips">' + catChips() + '</div>' +
+      '<div class="chips">' + areaChips() + '</div>' +
+      '</div>' +
+      '<button class="fab" data-act="suggest">🎲 Bugün ne yapsam?</button>';
+  }
+
+  function listQuests() {
     return city.quests.filter(function (q) {
       if (ui.cat !== "all" && q.cat !== ui.cat) return false;
       if (ui.area !== "all" && q.area !== ui.area) return false;
@@ -177,66 +254,34 @@
       return true;
     });
   }
-
   function renderQuests() {
-    var html = '<div class="filters"><div class="chips">' + chip("cat", "all", "Hepsi");
-    Object.keys(CATS).forEach(function (c) { html += chip("cat", c, CATS[c].icon + " " + CATS[c].label); });
-    html += '</div><div class="chips">' + chip("area", "all", "Her yer", true);
-    Object.keys(city.areas).forEach(function (a) { html += chip("area", a, city.areas[a], true); });
-    html += '</div><div class="chips">' +
-      chip("show", "todo", "Yapılacak", true) + chip("show", "done", "Yapıldı", true) + chip("show", "all", "Tümü", true) +
-      '</div></div>';
-
-    var list = visibleQuests();
-    html += '<div class="count">' + list.length + ' görev</div><div class="list">';
+    var list = listQuests();
+    var html = head("Görevler", list.length + " görev listeleniyor") +
+      '<div class="filters"><div class="chips">' + catChips() + '</div><div class="chips">' + areaChips() + '</div>' +
+      '<div class="chips">' + chip("show", "todo", "Yapılacak") + chip("show", "done", "Yapıldı") + chip("show", "all", "Tümü") + '</div></div>' +
+      '<div class="list">';
     if (!list.length) {
       html += '<div class="empty">' + (ui.show === "done" ? "Henüz tamamlanan görev yok. İlkini seç!" : "Bu filtrede görev kalmadı 🎉") + '</div>';
     }
     list.forEach(function (q) {
       var meta = city.areas[q.area] + (q.months ? " · " + (inSeason(q) ? "Şimdi sezonu" : "Sezon: " + seasonText(q)) : "");
       html += '<button class="card ' + q.cat + (isDone(q) ? " done" : "") + '" data-open="' + q.id + '">' +
-        '<div class="body"><div class="t">' + esc(q.title) + '</div><div class="m">' + CATS[q.cat].icon + " " + esc(meta) + '</div></div>' +
+        '<span class="tile">' + CATS[q.cat].icon + '</span>' +
+        '<div class="body"><div class="t">' + esc(q.title) + '</div><div class="m">' + esc(meta) + '</div></div>' +
         '<span class="check' + (isDone(q) ? " on" : "") + '" data-toggle="' + q.id + '" role="checkbox" aria-checked="' + isDone(q) +
         '" aria-label="Tamamlandı">✓</span></button>';
     });
     return html + '</div>';
   }
 
-  function renderProgress() {
-    var html = '<div class="section"><h2>Kategoriler</h2><div class="panel">';
-    Object.keys(CATS).forEach(function (c) {
-      html += meterRow(CATS[c].icon + " " + CATS[c].label, stats(city.quests.filter(function (q) { return q.cat === c; })), c);
-    });
-    html += '</div><h2>Bölgeler</h2><div class="panel">';
-    Object.keys(city.areas).forEach(function (a) {
-      html += meterRow(city.areas[a], stats(city.quests.filter(function (q) { return q.area === a; })), "");
-    });
-    html += '</div>';
-
-    var recent = city.quests.filter(isDone).sort(function (a, b) { return rec(b).at - rec(a).at; }).slice(0, 8);
-    html += '<h2>Son yaptıkların</h2><div class="panel">';
-    if (!recent.length) html += '<div class="note" style="margin:0">Henüz bir şey yok. Bu hafta sonu bir görev seç.</div>';
-    else {
-      html += '<div class="recent">';
-      recent.forEach(function (q) {
-        html += '<div><b>' + esc(q.title) + '</b><span>' + new Date(rec(q).at).toLocaleDateString("tr-TR", { day: "numeric", month: "short" }) + '</span></div>';
-      });
-      html += '</div>';
-    }
-    html += '</div><h2>Yedek</h2><div class="panel">' +
-      '<button class="btn ghost" data-act="export">İlerlemeyi panoya kopyala</button>' +
-      '<button class="btn ghost" data-act="import">Yedekten geri yükle</button>' +
-      '<p class="note">İlerlemen sadece bu telefonda durur. Sürüm ' + APP_VERSION + '</p></div></div>';
-    return html;
-  }
   function renderBadges() {
-    var list = badges(), groups = [], html = '<div class="section">';
-    var got = 0, all = 0;
+    var list = badges(), groups = [], got = 0, all = 0;
     list.forEach(function (b) {
       got += b.tier; all += b.max;
       if (groups.indexOf(b.group) === -1) groups.push(b.group);
     });
-    html += '<div class="panel score"><div><b>' + points() + '</b><span>puan</span></div><div><b>' + got + ' / ' + all +
+    var html = head("Rozetler", "Bölgeleri ve kategorileri tamamladıkça kazan") + '<div class="section">' +
+      '<div class="panel score"><div><b>' + points() + '</b><span>puan</span></div><div><b>' + got + ' / ' + all +
       '</b><span>rozet</span></div></div>';
     groups.forEach(function (g) {
       html += '<h2>' + esc(g) + '</h2><div class="badges">';
@@ -259,20 +304,34 @@
       '<div class="bp">' + (full ? "Tamamlandı" : b.have + " / " + b.goal +
         (b.max > 1 ? " · sıradaki: " + TIERS[b.tier].label : "")) + '</div></div>';
   }
-  function celebrate(list) {
-    ui.open = null;
-    $sheet.className = "celebrate";
-    $sheet.innerHTML = '<div class="grab"></div><div class="cel-h">' + (list.length > 1 ? "Yeni rozetler!" : "Yeni rozet!") + '</div>' +
-      list.map(function (b) {
-        var cls = b.max === 1 ? "altin" : TIERS[b.tier - 1].key;
-        var pts = b.max === 1 ? SPECIAL_PTS : TIERS[b.tier - 1].pts;
-        return '<div class="cel ' + cls + '"><div class="bi">' + b.icon + '</div><div><div class="bn">' + esc(b.name) +
-          (b.max > 1 ? " · " + TIERS[b.tier - 1].label : "") + '</div><div class="bd">' + esc(b.desc) + ' · +' + pts + ' puan</div></div></div>';
-      }).join("") +
-      '<div class="actions"><button class="btn" data-act="close">Harika!</button>' +
-      '<button class="btn ghost" data-act="to-badges">Rozetlerime bak</button></div>';
-    $sheet.hidden = false; $backdrop.hidden = false;
-    $sheet.scrollTop = 0;
+
+  function renderProfile() {
+    var s = stats(city.quests);
+    var html = head(city.name, (city.subtitle ? city.subtitle + " · " : "") + city.country) + '<div class="section">' +
+      '<div class="panel profile">' + ring(s.pct, true) + '<div class="grow"><div class="lv">' + esc(levelFor(s.pct)) + '</div>' +
+      '<div class="ls">' + s.done + ' / ' + s.total + ' görev · ' + points() + ' puan</div></div></div>' +
+      '<h2>Kategoriler</h2><div class="panel">';
+    Object.keys(CATS).forEach(function (c) {
+      html += meterRow(CATS[c].icon + " " + CATS[c].label, stats(city.quests.filter(function (q) { return q.cat === c; })), c);
+    });
+    html += '</div><h2>Bölgeler</h2><div class="panel">';
+    Object.keys(city.areas).forEach(function (a) { html += meterRow(city.areas[a], stats(inArea(a)), ""); });
+    html += '</div>';
+
+    var recent = city.quests.filter(isDone).sort(function (a, b) { return rec(b).at - rec(a).at; }).slice(0, 8);
+    html += '<h2>Son yaptıkların</h2><div class="panel">';
+    if (!recent.length) html += '<div class="note" style="margin:0">Henüz bir şey yok. Bu hafta sonu bir görev seç.</div>';
+    else {
+      html += '<div class="recent">';
+      recent.forEach(function (q) {
+        html += '<div><b>' + esc(q.title) + '</b><span>' + new Date(rec(q).at).toLocaleDateString("tr-TR", { day: "numeric", month: "short" }) + '</span></div>';
+      });
+      html += '</div>';
+    }
+    return html + '</div><h2>Yedek</h2><div class="panel">' +
+      '<button class="btn ghost" data-act="export">İlerlemeyi panoya kopyala</button>' +
+      '<button class="btn ghost" data-act="import">Yedekten geri yükle</button>' +
+      '<p class="note">İlerlemen sadece bu cihazda durur. Sürüm ' + APP_VERSION + '</p></div></div>';
   }
   function meterRow(label, s, cls) {
     return '<div class="row ' + cls + '"><div class="row-h"><span>' + esc(label) + '</span><span>' + s.done + ' / ' + s.total + '</span></div>' +
@@ -280,19 +339,24 @@
   }
 
   // ── Görev detayı ───────────────────────────────────────────
+  function showSheet(cls, html) {
+    $sheet.className = cls;
+    $sheet.innerHTML = '<div class="grab"></div>' + html;
+    $sheet.hidden = false; $backdrop.hidden = false;
+    $sheet.scrollTop = 0;
+  }
   function openSheet(id) {
-    var q = city.quests.filter(function (x) { return x.id === id; })[0];
+    var q = byId(id);
     if (!q) return;
     ui.open = id;
     var r = rec(q) || {};
     var tags = (q.tags || []).slice();
     if (q.months) tags.push("sezon: " + seasonText(q));
     var maps = "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(q.q || q.title + " " + city.name);
-    $sheet.className = q.cat;
-    $sheet.innerHTML =
-      '<div class="grab"></div>' +
-      '<span class="badge">' + CATS[q.cat].icon + " " + CATS[q.cat].label + " · " + esc(city.areas[q.area]) + '</span>' +
-      '<h3>' + esc(q.title) + '</h3>' +
+    showSheet(q.cat,
+      '<div class="sh"><span class="tile">' + CATS[q.cat].icon + '</span><div class="grow">' +
+        '<span class="badge">' + CATS[q.cat].label + " · " + esc(city.areas[q.area]) + '</span>' +
+        '<h3>' + esc(q.title) + '</h3></div></div>' +
       (tags.length ? '<div class="tags">' + tags.map(function (t) { return '<span class="tag">' + esc(t) + '</span>'; }).join("") + '</div>' : "") +
       '<p>' + esc(q.desc) + '</p>' +
       (q.tip ? '<p class="tip"><b>İpucu:</b> ' + esc(q.tip) + '</p>' : "") +
@@ -300,11 +364,12 @@
       '<textarea id="note" placeholder="Nasıldı? Kiminle gittin?">' + esc(r.note || "") + '</textarea>' +
       '<div class="actions">' +
         '<button class="btn" data-act="toggle-open">' + (isDone(q) ? "Yapılmadı olarak işaretle" : "✓ Yaptım!") + '</button>' +
-        '<a class="btn ghost" href="' + maps + '" target="_blank" rel="noopener">Haritada aç</a>' +
-        '<button class="btn ghost" data-act="close">Kapat</button>' +
-      '</div>';
-    $sheet.hidden = false; $backdrop.hidden = false;
-    $sheet.scrollTop = 0;
+        '<div class="two">' +
+          (ui.tab !== "harita" && ll(q) ? '<button class="btn ghost" data-act="to-map">Haritada göster</button>' : "") +
+          '<a class="btn ghost" href="' + maps + '" target="_blank" rel="noopener">Yol tarifi</a></div>' +
+        '<button class="btn plain" data-act="close">Kapat</button>' +
+      '</div>');
+    if (ui.tab === "harita") focusQuest(q);
   }
   function closeSheet() {
     saveNote();
@@ -322,8 +387,8 @@
     if (!r.at && !note) delete store.done[k]; else store.done[k] = r;
     save();
   }
+  // Yeni kazanılan rozetleri döndürür (yoksa boş liste).
   function toggle(id) {
-    // Yeni kazanılan rozetleri döndürür (yoksa boş liste).
     var k = cityId + "/" + id, r = store.done[k] || {};
     var before = earnedKeys(badges());
     var nowDone = !r.at;
@@ -338,6 +403,18 @@
       toast("+" + QUEST_PTS + " puan · " + s.done + " / " + s.total);
     }
     return fresh;
+  }
+  function celebrate(list) {
+    ui.open = null;
+    showSheet("celebrate", '<div class="cel-h">' + (list.length > 1 ? "Yeni rozetler!" : "Yeni rozet!") + '</div>' +
+      list.map(function (b) {
+        var cls = b.max === 1 ? "altin" : TIERS[b.tier - 1].key;
+        var pts = b.max === 1 ? SPECIAL_PTS : TIERS[b.tier - 1].pts;
+        return '<div class="cel ' + cls + '"><div class="bi">' + b.icon + '</div><div><div class="bn">' + esc(b.name) +
+          (b.max > 1 ? " · " + TIERS[b.tier - 1].label : "") + '</div><div class="bd">' + esc(b.desc) + ' · +' + pts + ' puan</div></div></div>';
+      }).join("") +
+      '<div class="actions"><button class="btn" data-act="close">Harika!</button>' +
+      '<button class="btn ghost" data-act="to-badges">Rozetlerime bak</button></div>');
   }
   function suggest() {
     var pool = city.quests.filter(function (q) { return !isDone(q) && inSeason(q); });
@@ -377,7 +454,7 @@
   document.addEventListener("click", function (e) {
     var t = e.target.closest("[data-toggle],[data-open],[data-f],[data-tab],[data-act]");
     if (!t) { if (e.target === $backdrop) closeSheet(); return; }
-    var fresh;
+    var fresh, q;
     if (t.dataset.toggle) {
       e.stopPropagation();
       fresh = toggle(t.dataset.toggle); render();
@@ -385,7 +462,11 @@
       return;
     }
     if (t.dataset.open) { openSheet(t.dataset.open); return; }
-    if (t.dataset.f) { ui[t.dataset.f] = t.dataset.v; render(); return; }
+    if (t.dataset.f) {
+      ui[t.dataset.f] = t.dataset.v; render();
+      if (ui.tab === "harita" && t.dataset.f === "area") flyToArea();
+      return;
+    }
     if (t.dataset.tab) { ui.tab = t.dataset.tab; render(); window.scrollTo(0, 0); return; }
     switch (t.dataset.act) {
       case "suggest": suggest(); break;
@@ -395,6 +476,11 @@
         if (fresh.length) celebrate(fresh);
         break;
       case "to-badges": closeSheet(); ui.tab = "rozetler"; render(); window.scrollTo(0, 0); break;
+      case "to-map":
+        q = byId(ui.open);
+        closeSheet(); ui.tab = "harita"; ui.cat = "all"; ui.area = "all"; render();
+        if (q) focusQuest(q);
+        break;
       case "export": exportData(); break;
       case "import": importData(); break;
     }

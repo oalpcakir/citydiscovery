@@ -1,6 +1,6 @@
 // Önce ağ, olmazsa önbellek: internet varken hep en güncel sürüm, yokken son indirilen sürüm.
 var CACHE = "citydiscovery-v1";
-var CORE = ["./", "index.html", "styles.css", "app.js", "cities/rotterdam.js", "icon.svg", "manifest.webmanifest"];
+var CORE = ["./", "index.html", "styles.css", "app.js", "cities/rotterdam.js", "vendor/leaflet.js", "vendor/leaflet.css", "icon.svg", "manifest.webmanifest"];
 
 self.addEventListener("install", function (e) {
   e.waitUntil(caches.open(CACHE).then(function (c) { return c.addAll(CORE); }).then(function () { return self.skipWaiting(); }));

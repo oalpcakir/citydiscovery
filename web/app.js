@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  var APP_VERSION = "0.3.1";
+  var APP_VERSION = "0.4.0";
   var STORE_KEY = "citydiscovery.v1";
   var CATS = {
     gor: { label: "Görülecek", icon: "👁️" },
@@ -51,6 +51,20 @@
     return { done: d, total: list.length, pct: list.length ? Math.round((d / list.length) * 100) : 0 };
   }
   function inArea(a) { return city.quests.filter(function (q) { return q.area === a; }); }
+  // Başka bir bölgenin ilerlemesi (bölge seçici ve ülke haritası için).
+  function cityStats(id) {
+    var c = cities[id], d = c.quests.filter(function (q) { var r = store.done[id + "/" + q.id]; return r && r.at; }).length;
+    return { done: d, total: c.quests.length, pct: c.quests.length ? Math.round((d / c.quests.length) * 100) : 0 };
+  }
+  function cityCenter(c) { return [(c.bounds[0][0] + c.bounds[1][0]) / 2, (c.bounds[0][1] + c.bounds[1][1]) / 2]; }
+  function setCity(id, fly) {
+    if (!cities[id]) return;
+    cityId = id; city = cities[id];
+    store.city = id; save();
+    ui.cat = "all"; ui.area = "all";
+    render();
+    if (map && fly) map.flyToBounds(city.bounds, { duration: 0.8 });
+  }
   function levelFor(pct) {
     var L = city.levels;
     return L[Math.min(L.length - 1, Math.floor((pct / 100) * (L.length - 1) + 0.0001))];
@@ -134,11 +148,12 @@
 
   // ── Harita ─────────────────────────────────────────────────
   var $map = document.getElementById("map");
-  var map = null, pinLayer = null, glowLayer = null;
+  var map = null, pinLayer = null, glowLayer = null, regionLayer = null;
+  var REGION_ZOOM = 10; // bundan uzakta görev iğneleri yerine bölge balonları görünür
 
   function ensureMap() {
     if (map || !window.L) return !!map;
-    map = L.map($map, { zoomControl: false, attributionControl: true, minZoom: 9, maxZoom: 18 });
+    map = L.map($map, { zoomControl: false, attributionControl: true, minZoom: 7, maxZoom: 18, zoomSnap: 0.25 });
     map.attributionControl.setPrefix(false);
     // Anahtar gerektirmeyen OpenStreetMap karoları; sade/koyu görünüm styles.css'teki filtreyle verilir.
     L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
@@ -148,9 +163,36 @@
     glowLayer = L.layerGroup().addTo(map);
     pinLayer = L.layerGroup().addTo(map);
     // Uzaktan bakarken iğneler küçülür, yoksa merkezde üst üste biner.
-    map.on("zoomend", function () { $map.classList.toggle("far", map.getZoom() < 14); });
+    regionLayer = L.layerGroup();
+    map.on("zoomend", syncLayers);
     map.fitBounds(city.bounds);
     return true;
+  }
+  function syncLayers() {
+    var z = map.getZoom(), overview = z < REGION_ZOOM;
+    $map.classList.toggle("far", z < 14);
+    [pinLayer, glowLayer].forEach(function (l) {
+      if (overview) map.removeLayer(l); else if (!map.hasLayer(l)) map.addLayer(l);
+    });
+    if (overview) { if (!map.hasLayer(regionLayer)) map.addLayer(regionLayer); } else map.removeLayer(regionLayer);
+  }
+  function updateRegions() {
+    regionLayer.clearLayers();
+    Object.keys(cities).forEach(function (id) {
+      var c = cities[id], s = cityStats(id);
+      var icon = L.divIcon({
+        className: "", iconSize: [0, 0],
+        html: '<div class="rb' + (id === cityId ? " cur" : "") + '"><b style="--p:' + s.pct + '%"><i>%' + s.pct + '</i></b><span>' + esc(c.name) + '</span></div>'
+      });
+      L.marker(cityCenter(c), { icon: icon, title: c.name })
+        .on("click", function () { setCity(id, true); })
+        .addTo(regionLayer);
+    });
+  }
+  function showOverview() {
+    if (!map) return;
+    var pts = Object.keys(cities).map(function (id) { return cityCenter(cities[id]); });
+    map.flyToBounds(L.latLngBounds(pts), { duration: 0.8, maxZoom: REGION_ZOOM - 0.25, paddingTopLeft: [30, 200], paddingBottomRight: [30, 90] });
   }
   function mapQuests() {
     return city.quests.filter(function (q) {
@@ -174,6 +216,8 @@
         .on("click", function () { openSheet(q.id); })
         .addTo(pinLayer);
     });
+    updateRegions();
+    syncLayers();
   }
   // Görevi, alttan açılan detay sayfasının üstünde kalacak şekilde ortalar.
   function focusQuest(q) {
@@ -238,9 +282,9 @@
   function renderMapUI() {
     var s = stats(city.quests);
     return '<div class="map-top">' +
-      '<div class="topcard glass"><div class="grow"><div class="tc-city">' + esc(city.name) + '</div>' +
+      '<div class="topcard glass"><div class="grow"><button class="tc-city" data-act="regions">' + esc(city.name) + ' <i>▾</i></button>' +
         '<div class="tc-sub">' + s.done + ' / ' + s.total + ' görev · ' + points() + ' puan · ' + esc(levelFor(s.pct)) + '</div></div>' +
-        ring(s.pct) + '</div>' +
+        '<button class="globe" data-act="overview" aria-label="Tüm bölgeler haritası">🌍</button>' + ring(s.pct) + '</div>' +
       '<div class="chips">' + catChips() + '</div>' +
       '<div class="chips">' + areaChips() + '</div>' +
       '</div>' +
@@ -316,9 +360,9 @@
     Object.keys(CATS).forEach(function (c) {
       html += meterRow(CATS[c].icon + " " + CATS[c].label, stats(city.quests.filter(function (q) { return q.cat === c; })), c);
     });
-    html += '</div><h2>Bölgeler</h2><div class="panel">';
+    html += '</div><h2>' + esc(city.name) + ' bölgeleri</h2><div class="panel">';
     Object.keys(city.areas).forEach(function (a) { html += meterRow(city.areas[a], stats(inArea(a)), ""); });
-    html += '</div>';
+    html += '</div><h2>Tüm bölgeler</h2><div class="panel">' + regionRows() + '</div>';
 
     var recent = city.quests.filter(isDone).sort(function (a, b) { return rec(b).at - rec(a).at; }).slice(0, 8);
     html += '<h2>Son yaptıkların</h2><div class="panel">';
@@ -334,6 +378,24 @@
       '<button class="btn ghost" data-act="export">İlerlemeyi panoya kopyala</button>' +
       '<button class="btn ghost" data-act="import">Yedekten geri yükle</button>' +
       '<p class="note">İlerlemen sadece bu cihazda durur. Sürüm ' + APP_VERSION + '</p></div></div>';
+  }
+  // Ülkelere göre gruplanmış bölge listesi (profil ve bölge seçici ortak kullanır).
+  function regionRows() {
+    var html = "", last = null;
+    Object.keys(cities).forEach(function (id) {
+      var c = cities[id], s = cityStats(id);
+      if (c.country !== last) { html += '<div class="rgroup">' + esc(c.country) + '</div>'; last = c.country; }
+      html += '<button class="rrow' + (id === cityId ? " cur" : "") + '" data-city="' + id + '">' +
+        '<div class="grow"><div class="rn">' + esc(c.name) + ' <small>' + esc(c.subtitle || "") + '</small></div>' +
+        '<div class="meter"><i style="width:' + s.pct + '%"></i></div></div>' +
+        '<span class="rp">' + s.done + ' / ' + s.total + '</span></button>';
+    });
+    return html;
+  }
+  function openRegions() {
+    ui.open = null;
+    showSheet("regions", '<div class="cel-h">Bölge seç</div>' + regionRows() +
+      '<div class="actions"><button class="btn plain" data-act="close">Kapat</button></div>');
   }
   function meterRow(label, s, cls) {
     return '<div class="row ' + cls + '"><div class="row-h"><span>' + esc(label) + '</span><span>' + s.done + ' / ' + s.total + '</span></div>' +
@@ -454,7 +516,7 @@
 
   // ── Olaylar ────────────────────────────────────────────────
   document.addEventListener("click", function (e) {
-    var t = e.target.closest("[data-toggle],[data-open],[data-f],[data-tab],[data-act]");
+    var t = e.target.closest("[data-toggle],[data-open],[data-f],[data-tab],[data-act],[data-city]");
     if (!t) { if (e.target === $backdrop) closeSheet(); return; }
     var fresh, q;
     if (t.dataset.toggle) {
@@ -464,6 +526,12 @@
       return;
     }
     if (t.dataset.open) { openSheet(t.dataset.open); return; }
+    if (t.dataset.city) {
+      if (!$sheet.hidden) { $sheet.hidden = true; $backdrop.hidden = true; }
+      ui.tab = "harita";
+      setCity(t.dataset.city, true);
+      return;
+    }
     if (t.dataset.f) {
       ui[t.dataset.f] = t.dataset.v; render();
       if (ui.tab === "harita" && t.dataset.f === "area") flyToArea();
@@ -472,6 +540,8 @@
     if (t.dataset.tab) { ui.tab = t.dataset.tab; render(); window.scrollTo(0, 0); return; }
     switch (t.dataset.act) {
       case "suggest": suggest(); break;
+      case "regions": openRegions(); break;
+      case "overview": showOverview(); break;
       case "close": closeSheet(); break;
       case "toggle-open":
         saveNote(); fresh = toggle(ui.open); closeSheet();

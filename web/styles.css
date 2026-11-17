@@ -16,14 +16,14 @@
 }
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #0d120f;
-    --card: #171f1a;
-    --glass: rgba(23, 31, 26, .86);
-    --text: #eaf0ea;
-    --muted: #94a298;
-    --line: #28322b;
+    --bg: #1a211d;
+    --card: #252f29;
+    --glass: rgba(37, 47, 41, .88);
+    --text: #f0f5f0;
+    --muted: #a6b3aa;
+    --line: #3a473f;
     --accent: #41c781;
-    --accent-soft: #163121;
+    --accent-soft: #21432f;
     --on-accent: #04170b;
     --gor: #6ea8ff;
     --ye: #ff9a5c;
@@ -50,7 +50,7 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
 /* Harita altlığı sade dursun ki iğneler ve boyanan alanlar öne çıksın. */
 .tiles { filter: grayscale(.8) contrast(.92) brightness(1.04); }
 @media (prefers-color-scheme: dark) {
-  .tiles { filter: invert(1) hue-rotate(180deg) grayscale(.65) brightness(.85) contrast(.9); }
+  .tiles { filter: invert(.9) hue-rotate(180deg) grayscale(.5) brightness(1.35) contrast(.9); }
 }
 .leaflet-control-attribution { font-size: 10px; background: var(--glass) !important; color: var(--muted) !important; }
 .leaflet-control-attribution a { color: inherit !important; }
@@ -79,7 +79,35 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
   border-radius: 20px; padding: 12px 14px; display: flex; align-items: center; gap: 12px;
 }
 .grow { flex: 1; min-width: 0; }
-.tc-city { font-size: 20px; font-weight: 800; letter-spacing: -.02em; line-height: 1.15; }
+.tc-city { font-size: 20px; font-weight: 800; letter-spacing: -.02em; line-height: 1.15; display: block; text-align: left; max-width: 100%; }
+.tc-city i { font-style: normal; font-size: 14px; color: var(--muted); }
+.globe { flex: none; width: 40px; height: 40px; border-radius: 50%; background: var(--accent-soft); font-size: 19px; }
+
+/* Ülke haritasındaki bölge balonları: halka o bölgedeki ilerlemeyi gösterir */
+.rb { position: absolute; transform: translate(-50%, -22px); width: 90px; margin-left: 0; text-align: center; cursor: pointer; }
+.rb b {
+  display: grid; place-items: center; width: 44px; height: 44px; margin: 0 auto; border-radius: 50%;
+  background: conic-gradient(var(--accent) var(--p), var(--line) 0); box-shadow: 0 2px 10px rgba(0,0,0,.35);
+}
+.rb i {
+  display: grid; place-items: center; width: 34px; height: 34px; border-radius: 50%;
+  background: var(--card); color: var(--text); font-style: normal; font-size: 11.5px; font-weight: 800;
+}
+.rb span {
+  display: inline-block; margin-top: 3px; padding: 1px 7px; border-radius: 99px; font-size: 11px; font-weight: 600;
+  background: var(--glass); color: var(--text); white-space: nowrap;
+}
+.rb.cur i { background: var(--accent); color: var(--on-accent); }
+.rb.cur span { background: var(--accent); color: var(--on-accent); }
+
+/* Bölge listesi */
+.rgroup { font-size: 12px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); margin: 14px 0 6px; }
+.rgroup:first-child { margin-top: 0; }
+.rrow { display: flex; align-items: center; gap: 12px; width: 100%; text-align: left; padding: 10px 12px; border-radius: 14px; }
+.rrow.cur { background: var(--accent-soft); }
+.rn { font-weight: 650; margin-bottom: 6px; }
+.rn small { font-weight: 400; color: var(--muted); font-size: 12.5px; }
+.rp { flex: none; font-size: 13px; color: var(--muted); min-width: 52px; text-align: right; }
 .tc-sub { font-size: 13px; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .fab {
   position: fixed; right: 16px; bottom: calc(var(--nav-h) + 20px + env(safe-area-inset-bottom)); z-index: 5;

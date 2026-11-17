@@ -1,6 +1,6 @@
 // Önce ağ, olmazsa önbellek: internet varken hep en güncel sürüm, yokken son indirilen sürüm.
-var CACHE = "citydiscovery-v1";
-var CORE = ["./", "index.html", "styles.css", "app.js", "cities/rotterdam.js", "vendor/leaflet.js", "vendor/leaflet.css", "icon.svg", "manifest.webmanifest"];
+var CACHE = "citydiscovery-v2";
+var CORE = ["./", "index.html", "styles.css", "app.js", "cities/rotterdam.js", "cities/amsterdam.js", "cities/denhaag.js", "cities/utrecht.js", "cities/eindhoven.js", "cities/arnhem.js", "cities/maastricht.js", "cities/zwolle.js", "cities/groningen.js", "cities/brussel.js", "cities/antwerpen.js", "cities/gent.js", "cities/brugge.js", "cities/luik.js", "vendor/leaflet.js", "vendor/leaflet.css", "icon.svg", "manifest.webmanifest"];
 
 self.addEventListener("install", function (e) {
   e.waitUntil(caches.open(CACHE).then(function (c) { return c.addAll(CORE); }).then(function () { return self.skipWaiting(); }));

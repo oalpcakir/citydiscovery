@@ -1,17 +1,18 @@
-// Cloud save with Firebase: sign-in (email + password everywhere, Google on the web) and sync of progress,
-// profile and photos to Firestore. Does nothing until web/firebase-config.js provides a config.
-// Data layout:  users/{uid}            { data: "<JSON of the synced store>", photoIds: [...], updated }
+// Cloud save with Firebase: sign-in (email + password everywhere, Google on the web), sync of progress,
+// profile and photos to Firestore, and the opt-in leaderboard. Does nothing until web/firebase-config.js has a config.
+// Data layout:  users/{uid}             { data: "<JSON of the synced store>", photoIds: [...], updated }
 //               users/{uid}/photos/{id} { key, at, data: "<base64 JPEG>" }
+//               leaderboard/{uid}       { name, avatar, title, level, xp, quests, regions, updated }  (only if you join)
 (function () {
   "use strict";
   var SDK = "https://www.gstatic.com/firebasejs/10.12.2/";
   var cfg = window.FIREBASE_CONFIG;
   var inShell = navigator.userAgent.indexOf("CityDiscoveryShell") !== -1;
   var api = window.cdCloud = {
-    available: !!(cfg && cfg.apiKey), ready: false, user: null, busy: false, lastSync: 0, error: "",
+    available: !!(cfg && cfg.apiKey), ready: false, user: null, busy: false, lastSync: 0, error: "", board: null, boardError: "",
     googleAvailable: !inShell, // Google blocks its sign-in inside embedded Android WebViews
     signIn: signIn, signUp: signUp, resetPassword: resetPassword, signInGoogle: signInGoogle, signOut: signOut,
-    syncNow: syncNow, onLocalChange: onLocalChange, photoAdded: photoAdded, photoDeleted: photoDeleted
+    syncNow: syncNow, onLocalChange: onLocalChange, photoAdded: photoAdded, photoDeleted: photoDeleted, loadBoard: loadBoard
   };
   if (!api.available) return;
 
@@ -33,6 +34,7 @@
       api.ready = true;
       auth.onAuthStateChanged(function (u) {
         api.user = u ? { uid: u.uid, email: u.email || "", name: u.displayName || "" } : null;
+        api.board = null;
         if (u) syncNow(); else changed();
       });
     })
@@ -52,7 +54,8 @@
       "auth/too-many-requests": "Too many attempts. Wait a moment and try again.",
       "auth/network-request-failed": "No connection. Check your internet and try again.",
       "auth/popup-closed-by-user": "Sign-in window closed before finishing.",
-      "auth/operation-not-allowed": "This sign-in method isn't enabled in Firebase yet."
+      "auth/operation-not-allowed": "This sign-in method isn't enabled in Firebase yet.",
+      "permission-denied": "The cloud refused this request. Try signing out and in again."
     };
     if (c.indexOf("auth/api-key-not-valid") === 0) return "Cloud save isn't set up correctly yet (the Firebase API key is invalid).";
     return map[c] || (e && e.message) || "Something went wrong.";
@@ -64,21 +67,24 @@
   function signInGoogle() { return wrap(function () { return auth.signInWithPopup(new firebase.auth.GoogleAuthProvider()); }); }
   function signOut() { return wrap(function () { return auth.signOut(); }); }
 
-  // ── Merge: newest record wins (each record carries `u`, its last change time) ──
+  // ── Merge: the newest change wins (quest records carry `u`; saved quests carry ±time) ──
   function merge(local, remote) {
-    var out = JSON.parse(JSON.stringify(local)), changedLocal = false;
+    var out = JSON.parse(JSON.stringify(local)), touched = false;
+    remote = remote || {};
     out.done = out.done || {};
-    Object.keys((remote && remote.done) || {}).forEach(function (k) {
+    Object.keys(remote.done || {}).forEach(function (k) {
       var a = out.done[k], b = remote.done[k];
-      if (!a || (b.u || 0) > (a.u || 0)) { out.done[k] = b; changedLocal = true; }
+      if (!a || (b.u || 0) > (a.u || 0)) { out.done[k] = b; touched = true; }
     });
-    if (remote && remote.profile && (!out.profile || (remote.profile.updated || 0) > (out.profile.updated || 0))) {
-      out.profile = remote.profile; changedLocal = true;
-    }
-    ["theme", "sound"].forEach(function (k) { if (out[k] === undefined && remote && remote[k] !== undefined) { out[k] = remote[k]; changedLocal = true; } });
-    return { store: out, changed: changedLocal };
+    Object.keys(remote.saved || {}).forEach(function (k) {
+      out.saved = out.saved || {};
+      if (Math.abs(remote.saved[k]) > Math.abs(out.saved[k] || 0)) { out.saved[k] = remote.saved[k]; touched = true; }
+    });
+    if (remote.profile && (!out.profile || (remote.profile.updated || 0) > (out.profile.updated || 0))) { out.profile = remote.profile; touched = true; }
+    ["theme", "sound", "lb"].forEach(function (k) { if (out[k] === undefined && remote[k] !== undefined) { out[k] = remote[k]; touched = true; } });
+    return { store: out, changed: touched };
   }
-  function synced(s) { return { done: s.done || {}, profile: s.profile || null, theme: s.theme, sound: s.sound }; }
+  function synced(s) { return { done: s.done || {}, saved: s.saved || {}, profile: s.profile || null, theme: s.theme, sound: s.sound, lb: s.lb }; }
   function userDoc() { return fs.collection("users").doc(api.user.uid); }
   function photoDoc(id) { return userDoc().collection("photos").doc(id.replace(/\//g, "~")); }
 
@@ -100,12 +106,29 @@
   function push() {
     if (!api.user || !app()) return Promise.resolve();
     return userDoc().set({ data: JSON.stringify(synced(app().getStore())), updated: firebase.firestore.FieldValue.serverTimestamp() }, { merge: true })
-      .then(function () { api.lastSync = Date.now(); });
+      .then(function () { api.lastSync = Date.now(); return publishScore(); });
   }
   function onLocalChange() {
     if (!api.user) return;
     clearTimeout(pushTimer);
     pushTimer = setTimeout(function () { push().then(changed).catch(function (e) { api.error = friendly(e); changed(); }); }, 1500);
+  }
+
+  // ── Leaderboard (opt-in) ─────────────────────────────────
+  function publishScore() {
+    var score = app().getScore(), doc = fs.collection("leaderboard").doc(api.user.uid);
+    return (score ? doc.set(score) : doc.delete()).then(function () {
+      if (score) return loadBoard();
+      api.board = null;
+    }).catch(function (e) { api.boardError = friendly(e); });
+  }
+  function loadBoard() {
+    if (!api.user) return Promise.resolve();
+    return fs.collection("leaderboard").orderBy("xp", "desc").limit(25).get().then(function (snap) {
+      api.board = snap.docs.map(function (d) { var v = d.data(); v.uid = d.id; return v; });
+      api.boardError = "";
+      changed();
+    }).catch(function (e) { api.boardError = friendly(e); api.board = []; changed(); });
   }
 
   // ── Photos: compressed copies, one document each ─────────

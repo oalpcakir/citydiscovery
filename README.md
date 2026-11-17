@@ -9,7 +9,10 @@ A map-first app for (re)discovering the Netherlands and Belgium through quests: 
 
 | Path | What it is |
 |---|---|
-| `web/index.html`, `web/app.js`, `web/styles.css` | The whole app (no build step). |
+| `src/1-core.js` … `src/4-sheets.js` | The app's code in four parts (data and progression, map, screens, sheets). `python tools/build.py` joins them into `web/app.js`; edit the parts, not the built file. |
+| `web/index.html`, `web/app.js`, `web/styles.css` | The page, the built app and its styles. |
+| `web/icons.js` | The interface icons (Lucide, ISC licence). |
+| `web/photos.js` | A cover photo per quest where a free one exists, from `tools/find_photos.py` (Wikipedia and Wikimedia Commons, with author and licence for the credit line). |
 | `web/cities/<region>.js` | Quests for one region: areas, badges, level titles, coordinates and the quests themselves. |
 | `web/regions.js` | Region outlines from `tools/rebuild_regions.py`: every Dutch municipality (CBS) and Belgian arrondissement (Eurostat NUTS-3) joins the hub city in `tools/hubs.json` that is fastest to reach by road (OSRM, cached in `tools/traveltimes.json`). Borders are fixed; content never moves them. |
 | `web/vendor/` | MapLibre GL (vector map). Basemap tiles come from OpenFreeMap. |
@@ -22,7 +25,7 @@ A map-first app for (re)discovering the Netherlands and Belgium through quests: 
 
 ## Progression
 
-XP comes from quests (100, plus bonuses for seasonal quests, day trips, the first quest in a new region or area, journal notes, and a weekly streak of up to +50%) and from badges. Everything is recomputed from the completion log stored in the browser's `localStorage`, so nothing can get out of sync.
+XP comes from quests (100, plus bonuses for seasonal quests, day trips, the first quest in a new region or area, journal notes, checking in on the spot, the quest of the day, and a weekly streak of up to +50%), from finishing trails (short walks the app builds from nearby quests, 200 XP each) and from badges. Everything is recomputed from the completion log stored in the browser's `localStorage`, so nothing can get out of sync.
 
 ## Adding content
 

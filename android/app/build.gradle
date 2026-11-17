@@ -1,0 +1,32 @@
+plugins {
+    id 'com.android.application'
+}
+
+// web/ klasörünü APK'ya gömer: internet yokken ve henüz önbellek yokken bu kopya açılır.
+def webAssets = layout.buildDirectory.dir("generated/webassets")
+def copyWeb = tasks.register("copyWebAssets", Copy) {
+    from rootProject.file("../web")
+    into webAssets.map { it.dir("web") }
+}
+
+android {
+    namespace "app.citydiscovery"
+    compileSdk 35
+
+    defaultConfig {
+        applicationId "app.citydiscovery"
+        minSdk 26
+        targetSdk 34
+        versionCode 1
+        versionName "0.1.0"
+        buildConfigField "String", "APP_URL", "\"${project.property('appUrl')}\""
+    }
+    buildFeatures { buildConfig true }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+    sourceSets.main.assets.srcDirs += webAssets.get().asFile
+}
+
+tasks.named("preBuild") { dependsOn copyWeb }

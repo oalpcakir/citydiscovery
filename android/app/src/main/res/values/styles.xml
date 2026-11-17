@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#0b6b3a</color>
+    <style name="AppTheme" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/accent</item>
+        <item name="android:navigationBarColor">#000000</item>
+        <item name="android:windowBackground">@color/accent</item>
+    </style>
+</resources>

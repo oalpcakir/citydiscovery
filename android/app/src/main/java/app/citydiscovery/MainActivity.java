@@ -1,9 +1,12 @@
 package app.citydiscovery;
 
+import android.Manifest;
 import android.app.Activity;
+import android.content.pm.PackageManager;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
+import android.webkit.GeolocationPermissions;
 import android.webkit.WebChromeClient;
 import android.webkit.WebResourceRequest;
 import android.webkit.WebResourceResponse;
@@ -32,6 +35,9 @@ public class MainActivity extends Activity {
     private WebView web;
     private File cacheDir;
     private volatile long offlineUntil = 0;
+    private static final int REQ_LOCATION = 1;
+    private GeolocationPermissions.Callback pendingGeo;
+    private String pendingGeoOrigin;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -45,12 +51,38 @@ public class MainActivity extends Activity {
         s.setJavaScriptEnabled(true);
         s.setDomStorageEnabled(true);
         s.setUserAgentString(s.getUserAgentString() + " CityDiscoveryShell/" + BuildConfig.VERSION_NAME);
-        web.setWebChromeClient(new WebChromeClient());
+        s.setGeolocationEnabled(true);
+        web.setWebChromeClient(new WebChromeClient() {
+            // Haritadaki "konumum" düğmesi: Android konum izni yoksa önce onu iste.
+            @Override
+            public void onGeolocationPermissionsShowPrompt(String origin, GeolocationPermissions.Callback callback) {
+                if (!origin.startsWith(Uri.parse(BASE).getScheme() + "://" + Uri.parse(BASE).getHost())) {
+                    callback.invoke(origin, false, false);
+                } else if (checkSelfPermission(Manifest.permission.ACCESS_FINE_LOCATION) == PackageManager.PERMISSION_GRANTED) {
+                    callback.invoke(origin, true, false);
+                } else {
+                    pendingGeo = callback;
+                    pendingGeoOrigin = origin;
+                    requestPermissions(new String[] {
+                        Manifest.permission.ACCESS_FINE_LOCATION, Manifest.permission.ACCESS_COARSE_LOCATION }, REQ_LOCATION);
+                }
+            }
+        });
         web.setWebViewClient(new Client());
         setContentView(web);
 
         if (savedInstanceState == null) web.loadUrl(BASE);
         else web.restoreState(savedInstanceState);
+    }
+
+    @Override
+    public void onRequestPermissionsResult(int requestCode, String[] permissions, int[] results) {
+        super.onRequestPermissionsResult(requestCode, permissions, results);
+        if (requestCode != REQ_LOCATION || pendingGeo == null) return;
+        boolean granted = false;
+        for (int r : results) granted |= r == PackageManager.PERMISSION_GRANTED;
+        pendingGeo.invoke(pendingGeoOrigin, granted, false);
+        pendingGeo = null;
     }
 
     @Override

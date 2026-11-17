@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  var APP_VERSION = "0.4.0";
+  var APP_VERSION = "0.5.0";
   var STORE_KEY = "citydiscovery.v1";
   var CATS = {
     gor: { label: "Görülecek", icon: "👁️" },
@@ -31,11 +31,16 @@
   // ── Geçici arayüz durumu ───────────────────────────────────
   var ui = { tab: "harita", cat: "all", area: "all", show: "todo", open: null };
 
-  function key(q) { return cityId + "/" + q.id; }
-  function rec(q) { return store.done[key(q)]; }
+  // Bütün bölgelerin görevleri tek listede; her görev bölgesini (cid) ve kayıt anahtarını (key) taşır.
+  var allQuests = [];
+  Object.keys(cities).forEach(function (id) {
+    cities[id].quests.forEach(function (q) { q.cid = id; q.key = id + "/" + q.id; allQuests.push(q); });
+  });
+  function key(q) { return q.key; }
+  function rec(q) { return store.done[q.key]; }
   function isDone(q) { var r = rec(q); return !!(r && r.at); }
   function inSeason(q) { return !q.months || q.months.indexOf(new Date().getMonth() + 1) !== -1; }
-  function ll(q) { return city.coords && city.coords[q.id]; }
+  function ll(q) { var c = cities[q.cid]; return c.coords && c.coords[q.id]; }
   function byId(id) { return city.quests.filter(function (x) { return x.id === id; })[0]; }
   function esc(s) {
     return String(s).replace(/[&<>"']/g, function (c) {
@@ -57,13 +62,26 @@
     return { done: d, total: c.quests.length, pct: c.quests.length ? Math.round((d / c.quests.length) * 100) : 0 };
   }
   function cityCenter(c) { return [(c.bounds[0][0] + c.bounds[1][0]) / 2, (c.bounds[0][1] + c.bounds[1][1]) / 2]; }
+  // Geçerli bölgeyi değiştirir (harita yerinde kalır).
+  function setCurrent(id) {
+    if (!cities[id]) return;
+    if (id !== cityId) {
+      cityId = id; city = cities[id];
+      store.city = id; save();
+      ui.area = "all";
+    }
+    render();
+  }
+  // Bölgeyi seçer ve istenirse haritayı oraya götürür.
   function setCity(id, fly) {
     if (!cities[id]) return;
-    cityId = id; city = cities[id];
-    store.city = id; save();
-    ui.cat = "all"; ui.area = "all";
-    render();
+    setCurrent(id);
     if (map && fly) map.flyToBounds(city.bounds, { duration: 0.8 });
+  }
+  // Haritadaki bir iğneye basıldı: görev başka bölgedeyse önce o bölgeye geç.
+  function openQuest(q) {
+    if (q.cid !== cityId) setCurrent(q.cid);
+    openSheet(q.id);
   }
   function levelFor(pct) {
     var L = city.levels;
@@ -147,10 +165,17 @@
   }
 
   // ── Harita ─────────────────────────────────────────────────
+  // Harita tek parçadır: bütün bölgelerin iğneleri, o an ekranda görünen alan için yüklenir.
+  // "Geçerli bölge" haritanın ortasındaki bölgedir ve gezdikçe kendiliğinden değişir.
   var $map = document.getElementById("map");
-  var map = null, pinLayer = null, glowLayer = null, regionLayer = null;
-  var REGION_ZOOM = 10; // bundan uzakta görev iğneleri yerine bölge balonları görünür
+  var map = null, pinLayer = null, glowLayer = null, regionLayer = null, borderLayer = null, meMarker = null;
+  var polys = {};
+  var REGIONS = window.REGIONS || {};
+  var REGION_ZOOM = 10; // bundan uzakta görev iğneleri yerine bölge sınırları ve halkaları görünür
 
+  function accentColor() {
+    return getComputedStyle(document.documentElement).getPropertyValue("--accent").trim() || "#0b7a43";
+  }
   function ensureMap() {
     if (map || !window.L) return !!map;
     map = L.map($map, { zoomControl: false, attributionControl: true, minZoom: 7, maxZoom: 18, zoomSnap: 0.25 });
@@ -160,64 +185,84 @@
       maxZoom: 19, className: "tiles",
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> katkıda bulunanlar'
     }).addTo(map);
+    borderLayer = L.layerGroup().addTo(map);
     glowLayer = L.layerGroup().addTo(map);
     pinLayer = L.layerGroup().addTo(map);
-    // Uzaktan bakarken iğneler küçülür, yoksa merkezde üst üste biner.
-    regionLayer = L.layerGroup();
-    map.on("zoomend", syncLayers);
+    regionLayer = L.layerGroup().addTo(map);
+    Object.keys(REGIONS).forEach(function (id) {
+      if (!cities[id]) return;
+      polys[id] = L.polygon(REGIONS[id], { weight: 1.5 })
+        .on("click", function () { if (map.getZoom() < REGION_ZOOM) setCity(id, true); })
+        .addTo(borderLayer);
+    });
+    map.on("moveend", onMove);
     map.fitBounds(city.bounds);
     return true;
   }
-  function syncLayers() {
-    var z = map.getZoom(), overview = z < REGION_ZOOM;
-    $map.classList.toggle("far", z < 14);
-    [pinLayer, glowLayer].forEach(function (l) {
-      if (overview) map.removeLayer(l); else if (!map.hasLayer(l)) map.addLayer(l);
-    });
-    if (overview) { if (!map.hasLayer(regionLayer)) map.addLayer(regionLayer); } else map.removeLayer(regionLayer);
-  }
-  function updateRegions() {
-    regionLayer.clearLayers();
-    Object.keys(cities).forEach(function (id) {
-      var c = cities[id], s = cityStats(id);
-      var icon = L.divIcon({
-        className: "", iconSize: [0, 0],
-        html: '<div class="rb' + (id === cityId ? " cur" : "") + '"><b style="--p:' + s.pct + '%"><i>%' + s.pct + '</i></b><span>' + esc(c.name) + '</span></div>'
+  // Verilen noktanın içinde olduğu bölge (yoksa null).
+  function regionAt(latlng) {
+    var x = latlng.lng, y = latlng.lat, found = null;
+    Object.keys(REGIONS).some(function (id) {
+      return REGIONS[id].some(function (ring) {
+        var inside = false;
+        for (var i = 0, j = ring.length - 1; i < ring.length; j = i++) {
+          var yi = ring[i][0], xi = ring[i][1], yj = ring[j][0], xj = ring[j][1];
+          if ((yi > y) !== (yj > y) && x < ((xj - xi) * (y - yi)) / (yj - yi) + xi) inside = !inside;
+        }
+        if (inside) found = id;
+        return inside;
       });
-      L.marker(cityCenter(c), { icon: icon, title: c.name })
-        .on("click", function () { setCity(id, true); })
-        .addTo(regionLayer);
     });
+    return found && cities[found] ? found : null;
   }
-  function showOverview() {
-    if (!map) return;
-    var pts = Object.keys(cities).map(function (id) { return cityCenter(cities[id]); });
-    map.flyToBounds(L.latLngBounds(pts), { duration: 0.8, maxZoom: REGION_ZOOM - 0.25, paddingTopLeft: [30, 200], paddingBottomRight: [30, 90] });
+  function onMove() {
+    if (ui.tab !== "harita") return;
+    // Detay sayfası açıkken bölge değiştirme: açık görev o bölgeye ait.
+    var id = map.getZoom() >= REGION_ZOOM && $sheet.hidden ? regionAt(map.getCenter()) : null;
+    if (id && id !== cityId) setCurrent(id); else refreshMap();
   }
-  function mapQuests() {
-    return city.quests.filter(function (q) {
-      return ll(q) && (ui.cat === "all" || q.cat === ui.cat) && (ui.area === "all" || q.area === ui.area);
+  function refreshMap() {
+    var z = map.getZoom(), overview = z < REGION_ZOOM, accent = accentColor();
+    $map.classList.toggle("far", z < 14);
+    Object.keys(polys).forEach(function (id) {
+      var cur = id === cityId;
+      // Uzaktan bakınca bölgeler ilerlemeye göre boyanır; yakında sadece sınır çizgisi kalır.
+      polys[id].setStyle(overview
+        ? { color: accent, weight: cur ? 3 : 1.5, opacity: 0.9, fillColor: accent, fillOpacity: 0.07 + 0.5 * cityStats(id).pct / 100 }
+        : { color: accent, weight: cur ? 2.5 : 1.5, opacity: cur ? 0.6 : 0.35, fillOpacity: 0 });
+    });
+    pinLayer.clearLayers(); glowLayer.clearLayers(); regionLayer.clearLayers();
+    if (overview) {
+      Object.keys(cities).forEach(function (id) {
+        var c = cities[id], s = cityStats(id);
+        var icon = L.divIcon({
+          className: "", iconSize: [0, 0],
+          html: '<div class="rb' + (id === cityId ? " cur" : "") + '"><b style="--p:' + s.pct + '%"><i>%' + s.pct + '</i></b><span>' + esc(c.name) + '</span></div>'
+        });
+        L.marker(cityCenter(c), { icon: icon, title: c.name }).on("click", function () { setCity(id, true); }).addTo(regionLayer);
+      });
+      return;
+    }
+    var view = map.getBounds().pad(0.25);
+    allQuests.forEach(function (q) {
+      var p = ll(q);
+      if (!p || !view.contains(p)) return;
+      if (ui.cat !== "all" && q.cat !== ui.cat) return;
+      if (ui.area !== "all" && (q.cid !== cityId || q.area !== ui.area)) return;
+      var done = isDone(q);
+      // Tamamlanan yerlerin çevresi haritada renklenir.
+      if (done) L.circle(p, { radius: 320, stroke: false, fillColor: accent, fillOpacity: 0.3, interactive: false }).addTo(glowLayer);
+      var icon = L.divIcon({
+        className: "", iconSize: [34, 34], iconAnchor: [17, 17],
+        html: '<div class="pin ' + q.cat + (done ? " done" : "") + (!done && !inSeason(q) ? " off" : "") + '">' + (done ? "✓" : CATS[q.cat].icon) + '</div>'
+      });
+      L.marker(p, { icon: icon, title: q.title, zIndexOffset: done ? 500 : 0 }).on("click", function () { openQuest(q); }).addTo(pinLayer);
     });
   }
   function updateMap() {
     if (!ensureMap()) return;
     map.invalidateSize();
-    pinLayer.clearLayers(); glowLayer.clearLayers();
-    var accent = getComputedStyle(document.documentElement).getPropertyValue("--accent").trim() || "#0b7a43";
-    mapQuests().forEach(function (q) {
-      var done = isDone(q);
-      // Tamamlanan yerlerin çevresi haritada renklenir.
-      if (done) L.circle(ll(q), { radius: 320, stroke: false, fillColor: accent, fillOpacity: 0.3, interactive: false }).addTo(glowLayer);
-      var icon = L.divIcon({
-        className: "", iconSize: [34, 34], iconAnchor: [17, 17],
-        html: '<div class="pin ' + q.cat + (done ? " done" : "") + (!done && !inSeason(q) ? " off" : "") + '">' + (done ? "✓" : CATS[q.cat].icon) + '</div>'
-      });
-      L.marker(ll(q), { icon: icon, title: q.title, zIndexOffset: done ? 500 : 0 })
-        .on("click", function () { openSheet(q.id); })
-        .addTo(pinLayer);
-    });
-    updateRegions();
-    syncLayers();
+    refreshMap();
   }
   // Görevi, alttan açılan detay sayfasının üstünde kalacak şekilde ortalar.
   function focusQuest(q) {
@@ -232,6 +277,28 @@
     if (ui.area === "all") { map.flyToBounds(city.bounds, { duration: 0.6 }); return; }
     var pts = inArea(ui.area).map(ll).filter(Boolean);
     if (pts.length) map.flyToBounds(L.latLngBounds(pts).pad(0.25), { duration: 0.6, maxZoom: 15 });
+  }
+  function showOverview() {
+    if (!map) return;
+    var pts = Object.keys(cities).map(function (id) { return cityCenter(cities[id]); });
+    map.flyToBounds(L.latLngBounds(pts), { duration: 0.8, maxZoom: REGION_ZOOM - 0.25, paddingTopLeft: [30, 200], paddingBottomRight: [30, 90] });
+  }
+  function locate() {
+    if (!map) return;
+    if (!navigator.geolocation) { toast("Bu cihazda konum desteklenmiyor"); return; }
+    toast("Konum aranıyor…");
+    navigator.geolocation.getCurrentPosition(function (pos) {
+      var p = [pos.coords.latitude, pos.coords.longitude];
+      if (meMarker) meMarker.setLatLng(p);
+      else {
+        meMarker = L.marker(p, {
+          icon: L.divIcon({ className: "", iconSize: [0, 0], html: '<div class="me"></div>' }),
+          interactive: false, zIndexOffset: 1000
+        }).addTo(map);
+      }
+      map.setView(p, Math.max(map.getZoom(), 15), { animate: true });
+    }, function () { toast("Konum alınamadı. Konum iznini kontrol et."); },
+    { enableHighAccuracy: true, timeout: 10000, maximumAge: 30000 });
   }
 
   // ── Çizim ──────────────────────────────────────────────────
@@ -284,9 +351,16 @@
     return '<div class="map-top">' +
       '<div class="topcard glass"><div class="grow"><button class="tc-city" data-act="regions">' + esc(city.name) + ' <i>▾</i></button>' +
         '<div class="tc-sub">' + s.done + ' / ' + s.total + ' görev · ' + points() + ' puan · ' + esc(levelFor(s.pct)) + '</div></div>' +
-        '<button class="globe" data-act="overview" aria-label="Tüm bölgeler haritası">🌍</button>' + ring(s.pct) + '</div>' +
+        ring(s.pct) + '</div>' +
       '<div class="chips">' + catChips() + '</div>' +
       '<div class="chips">' + areaChips() + '</div>' +
+      '</div>' +
+      '<div class="mapctl">' +
+        '<button class="glass" data-act="zoom-in" aria-label="Yakınlaş">＋</button>' +
+        '<button class="glass" data-act="zoom-out" aria-label="Uzaklaş">－</button>' +
+        '<button class="glass" data-act="locate" aria-label="Konumum">◎</button>' +
+        '<button class="glass" data-act="fit" aria-label="Bölgeyi sığdır">⤢</button>' +
+        '<button class="glass" data-act="overview" aria-label="Tüm bölgeler">🌍</button>' +
       '</div>' +
       '<button class="fab" data-act="suggest">🎲 Bugün ne yapsam?</button>';
   }
@@ -424,6 +498,9 @@
       (tags.length ? '<div class="tags">' + tags.map(function (t) { return '<span class="tag">' + esc(t) + '</span>'; }).join("") + '</div>' : "") +
       '<p>' + esc(q.desc) + '</p>' +
       (q.tip ? '<p class="tip"><b>İpucu:</b> ' + esc(q.tip) + '</p>' : "") +
+      (q.src && q.src.length ? '<p class="src">Kaynak: ' + q.src.map(function (u, i) {
+        return '<a href="' + esc(u) + '" target="_blank" rel="noopener">' + esc(u.replace(/^https?:\/\/(www\.)?/, "").split("/")[0]) + '</a>';
+      }).join(" · ") + '</p>' : "") +
       '<label class="lbl" for="note">Notun' + (r.at ? " · " + new Date(r.at).toLocaleDateString("tr-TR") + " tarihinde yapıldı" : "") + '</label>' +
       '<textarea id="note" placeholder="Nasıldı? Kiminle gittin?">' + esc(r.note || "") + '</textarea>' +
       '<div class="actions">' +
@@ -542,6 +619,10 @@
       case "suggest": suggest(); break;
       case "regions": openRegions(); break;
       case "overview": showOverview(); break;
+      case "zoom-in": if (map) map.zoomIn(1); break;
+      case "zoom-out": if (map) map.zoomOut(1); break;
+      case "fit": if (map) { ui.area = "all"; render(); map.flyToBounds(city.bounds, { duration: 0.6 }); } break;
+      case "locate": locate(); break;
       case "close": closeSheet(); break;
       case "toggle-open":
         saveNote(); fresh = toggle(ui.open); closeSheet();
@@ -560,6 +641,7 @@
   // Android geri tuşu / Esc: açık detayı kapat (kabuk bu fonksiyonu çağırır)
   window.cdBack = function () { if (!$sheet.hidden) { closeSheet(); return true; } return false; };
   document.addEventListener("keydown", function (e) { if (e.key === "Escape") window.cdBack(); });
+  window.cdMap = function () { return map; }; // test ve hata ayıklama için
 
   render();
 

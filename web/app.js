@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  var APP_VERSION = "0.1.0";
+  var APP_VERSION = "0.2.0";
   var STORE_KEY = "citydiscovery.v1";
   var CATS = {
     gor: { label: "Görülecek", icon: "👁️" },
@@ -53,6 +53,82 @@
     return L[Math.min(L.length - 1, Math.floor((pct / 100) * (L.length - 1) + 0.0001))];
   }
 
+  // ── Rozetler ve puan ───────────────────────────────────────
+  // Rozetler kayıtlı tutulmaz, her seferinde tamamlanan görevlerden hesaplanır.
+  var TIERS = [
+    { key: "bronz", label: "Bronz", pts: 25 },
+    { key: "gumus", label: "Gümüş", pts: 50 },
+    { key: "altin", label: "Altın", pts: 100 }
+  ];
+  var QUEST_PTS = 10, SPECIAL_PTS = 30;
+  var CAT_BADGES = {
+    gor: { icon: "👁️", name: "Gözlemci" },
+    ye: { icon: "🍴", name: "Gurme" },
+    dene: { icon: "✨", name: "Maceraperest" }
+  };
+
+  function badges() {
+    var out = [];
+    function tiered(id, group, meta, list, what) {
+      var s = stats(list);
+      var goals = [Math.max(1, Math.ceil(s.total / 3)), Math.max(1, Math.ceil((s.total * 2) / 3)), s.total];
+      var tier = 0;
+      goals.forEach(function (g) { if (s.total && s.done >= g) tier++; });
+      out.push({ id: id, group: group, icon: meta.icon, name: meta.name, desc: what, tier: tier, max: 3,
+        have: s.done, goal: tier < 3 ? goals[tier] : s.total });
+    }
+    function single(id, icon, name, desc, have, goal) {
+      out.push({ id: id, group: "Özel", icon: icon, name: name, desc: desc, tier: have >= goal ? 1 : 0, max: 1,
+        have: Math.min(have, goal), goal: goal });
+    }
+
+    Object.keys(city.areas).forEach(function (a) {
+      var meta = (city.areaBadges && city.areaBadges[a]) || { icon: "📍", name: city.areas[a] };
+      tiered("area-" + a, "Bölgeler", meta, city.quests.filter(function (q) { return q.area === a; }), city.areas[a] + " görevleri");
+    });
+    Object.keys(CATS).forEach(function (c) {
+      tiered("cat-" + c, "Kategoriler", CAT_BADGES[c], city.quests.filter(function (q) { return q.cat === c; }), CATS[c].label + " görevleri");
+    });
+
+    var done = city.quests.filter(isDone);
+    var perDay = {}, bestDay = 0;
+    done.forEach(function (q) {
+      var d = new Date(rec(q).at).toDateString();
+      perDay[d] = (perDay[d] || 0) + 1;
+      if (perDay[d] > bestDay) bestDay = perDay[d];
+    });
+    var areaKeys = Object.keys(city.areas);
+    var areasTouched = areaKeys.filter(function (a) { return done.some(function (q) { return q.area === a; }); }).length;
+    var notes = city.quests.filter(function (q) { var r = rec(q); return r && r.note; }).length;
+
+    single("first", "👣", "İlk Adım", "İlk görevini tamamla", done.length, 1);
+    single("ten", "🔟", "Isınma Turu", "10 görev tamamla", done.length, Math.min(10, city.quests.length));
+    single("half", "🧭", "Yarı Yol", "Görevlerin yarısını tamamla", done.length, Math.ceil(city.quests.length / 2));
+    single("everywhere", "🗺️", "Her Köşeden", "Her bölgeden en az bir görev", areasTouched, areaKeys.length);
+    single("fullday", "⚡", "Dolu Dolu Gün", "Aynı gün 3 görev tamamla", bestDay, 3);
+    single("season", "🍂", "Mevsim Avcısı", "3 mevsimlik görev tamamla", done.filter(function (q) { return q.months; }).length, 3);
+    single("diary", "📓", "Günlük Tutan", "5 göreve not yaz", notes, 5);
+    single("all", "👑", city.levels[city.levels.length - 1], "Bütün görevleri tamamla", done.length, city.quests.length);
+    return out;
+  }
+  function earnedKeys(list) {
+    var keys = {};
+    list.forEach(function (b) { for (var t = 1; t <= b.tier; t++) keys[b.id + ":" + t] = true; });
+    return keys;
+  }
+  function tierLabel(b) {
+    if (!b.tier) return "Kilitli";
+    return b.max === 1 ? "Kazanıldı" : TIERS[b.tier - 1].label;
+  }
+  function points() {
+    var p = city.quests.filter(isDone).length * QUEST_PTS;
+    badges().forEach(function (b) {
+      if (b.max === 1) p += b.tier * SPECIAL_PTS;
+      else for (var t = 0; t < b.tier; t++) p += TIERS[t].pts;
+    });
+    return p;
+  }
+
   // ── Çizim ──────────────────────────────────────────────────
   var $app = document.getElementById("app");
   var $sheet = document.getElementById("sheet");
@@ -74,14 +150,14 @@
             '" stroke-dashoffset="' + (C * (1 - s.pct / 100)).toFixed(1) + '"/>' +
         '</svg><span>%' + s.pct + '</span></div></div>' +
         '<div class="level"><span>Seviye: <b>' + esc(levelFor(s.pct)) + '</b></span>' +
-          '<span>' + s.done + ' / ' + s.total + ' görev</span></div>' +
+          '<span>' + s.done + ' / ' + s.total + ' görev · ' + points() + ' puan</span></div>' +
         (ui.tab === "gorevler" ? '<button class="suggest" data-act="suggest">🎲 Bugün ne yapsam?</button>' : "") +
       '</header>';
 
-    html += ui.tab === "gorevler" ? renderQuests() : renderProgress();
+    html += ui.tab === "gorevler" ? renderQuests() : ui.tab === "rozetler" ? renderBadges() : renderProgress();
 
     html += '<nav class="tabs">' +
-      tabBtn("gorevler", "🧭", "Görevler") + tabBtn("ilerleme", "🏆", "İlerleme") + '</nav>';
+      tabBtn("gorevler", "🧭", "Görevler") + tabBtn("rozetler", "🏅", "Rozetler") + tabBtn("ilerleme", "🏆", "İlerleme") + '</nav>';
     $app.innerHTML = html;
   }
   function tabBtn(id, ic, label) {
@@ -153,6 +229,51 @@
       '<p class="note">İlerlemen sadece bu telefonda durur. Sürüm ' + APP_VERSION + '</p></div></div>';
     return html;
   }
+  function renderBadges() {
+    var list = badges(), groups = [], html = '<div class="section">';
+    var got = 0, all = 0;
+    list.forEach(function (b) {
+      got += b.tier; all += b.max;
+      if (groups.indexOf(b.group) === -1) groups.push(b.group);
+    });
+    html += '<div class="panel score"><div><b>' + points() + '</b><span>puan</span></div><div><b>' + got + ' / ' + all +
+      '</b><span>rozet</span></div></div>';
+    groups.forEach(function (g) {
+      html += '<h2>' + esc(g) + '</h2><div class="badges">';
+      list.filter(function (b) { return b.group === g; }).forEach(function (b) { html += badgeCard(b); });
+      html += '</div>';
+    });
+    return html + '<p class="note">Görev 10 puan · Bronz 25 · Gümüş 50 · Altın 100 · Özel rozet 30</p></div>';
+  }
+  function badgeCard(b) {
+    var cls = !b.tier ? "locked" : b.max === 1 ? "altin" : TIERS[b.tier - 1].key;
+    var stars = "";
+    if (b.max > 1) for (var i = 0; i < b.max; i++) stars += i < b.tier ? "★" : "☆";
+    var full = b.tier === b.max;
+    var pct = full ? 100 : Math.round((b.have / b.goal) * 100);
+    return '<div class="bdg ' + cls + '"><div class="bi">' + b.icon + '</div>' +
+      '<div class="bn">' + esc(b.name) + '</div>' +
+      '<div class="bt">' + (stars ? stars + " " : "") + tierLabel(b) + '</div>' +
+      '<div class="bd">' + esc(b.desc) + '</div>' +
+      '<div class="meter"><i style="width:' + pct + '%"></i></div>' +
+      '<div class="bp">' + (full ? "Tamamlandı" : b.have + " / " + b.goal +
+        (b.max > 1 ? " · sıradaki: " + TIERS[b.tier].label : "")) + '</div></div>';
+  }
+  function celebrate(list) {
+    ui.open = null;
+    $sheet.className = "celebrate";
+    $sheet.innerHTML = '<div class="grab"></div><div class="cel-h">' + (list.length > 1 ? "Yeni rozetler!" : "Yeni rozet!") + '</div>' +
+      list.map(function (b) {
+        var cls = b.max === 1 ? "altin" : TIERS[b.tier - 1].key;
+        var pts = b.max === 1 ? SPECIAL_PTS : TIERS[b.tier - 1].pts;
+        return '<div class="cel ' + cls + '"><div class="bi">' + b.icon + '</div><div><div class="bn">' + esc(b.name) +
+          (b.max > 1 ? " · " + TIERS[b.tier - 1].label : "") + '</div><div class="bd">' + esc(b.desc) + ' · +' + pts + ' puan</div></div></div>';
+      }).join("") +
+      '<div class="actions"><button class="btn" data-act="close">Harika!</button>' +
+      '<button class="btn ghost" data-act="to-badges">Rozetlerime bak</button></div>';
+    $sheet.hidden = false; $backdrop.hidden = false;
+    $sheet.scrollTop = 0;
+  }
   function meterRow(label, s, cls) {
     return '<div class="row ' + cls + '"><div class="row-h"><span>' + esc(label) + '</span><span>' + s.done + ' / ' + s.total + '</span></div>' +
       '<div class="meter"><i style="width:' + s.pct + '%"></i></div></div>';
@@ -202,15 +323,21 @@
     save();
   }
   function toggle(id) {
+    // Yeni kazanılan rozetleri döndürür (yoksa boş liste).
     var k = cityId + "/" + id, r = store.done[k] || {};
+    var before = earnedKeys(badges());
     var nowDone = !r.at;
     r.at = nowDone ? Date.now() : 0;
     if (!r.at && !r.note) delete store.done[k]; else store.done[k] = r;
     save();
-    if (nowDone) {
+    if (!nowDone) return [];
+    // Aynı rozetin birden fazla kademesi birden açıldıysa sadece en yükseğini göster.
+    var fresh = badges().filter(function (b) { return b.tier && !before[b.id + ":" + b.tier]; });
+    if (!fresh.length) {
       var s = stats(city.quests);
-      toast(s.done === s.total ? "Hepsi tamam. Echte Rotterdammer! 🎉" : "Tamamlandı! " + s.done + " / " + s.total);
+      toast("+" + QUEST_PTS + " puan · " + s.done + " / " + s.total);
     }
+    return fresh;
   }
   function suggest() {
     var pool = city.quests.filter(function (q) { return !isDone(q) && inSeason(q); });
@@ -250,20 +377,30 @@
   document.addEventListener("click", function (e) {
     var t = e.target.closest("[data-toggle],[data-open],[data-f],[data-tab],[data-act]");
     if (!t) { if (e.target === $backdrop) closeSheet(); return; }
-    if (t.dataset.toggle) { e.stopPropagation(); toggle(t.dataset.toggle); render(); return; }
+    var fresh;
+    if (t.dataset.toggle) {
+      e.stopPropagation();
+      fresh = toggle(t.dataset.toggle); render();
+      if (fresh.length) celebrate(fresh);
+      return;
+    }
     if (t.dataset.open) { openSheet(t.dataset.open); return; }
     if (t.dataset.f) { ui[t.dataset.f] = t.dataset.v; render(); return; }
     if (t.dataset.tab) { ui.tab = t.dataset.tab; render(); window.scrollTo(0, 0); return; }
     switch (t.dataset.act) {
       case "suggest": suggest(); break;
       case "close": closeSheet(); break;
-      case "toggle-open": saveNote(); toggle(ui.open); closeSheet(); break;
+      case "toggle-open":
+        saveNote(); fresh = toggle(ui.open); closeSheet();
+        if (fresh.length) celebrate(fresh);
+        break;
+      case "to-badges": closeSheet(); ui.tab = "rozetler"; render(); window.scrollTo(0, 0); break;
       case "export": exportData(); break;
       case "import": importData(); break;
     }
   });
   // Android geri tuşu / Esc: açık detayı kapat (kabuk bu fonksiyonu çağırır)
-  window.cdBack = function () { if (ui.open) { closeSheet(); return true; } return false; };
+  window.cdBack = function () { if (!$sheet.hidden) { closeSheet(); return true; } return false; };
   document.addEventListener("keydown", function (e) { if (e.key === "Escape") window.cdBack(); });
 
   render();

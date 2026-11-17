@@ -118,6 +118,34 @@ textarea {
   background: var(--bg); color: var(--text); font: inherit; padding: 10px; resize: vertical;
 }
 
+/* Rozetler */
+.score { display: flex; text-align: center; }
+.score div { flex: 1; }
+.score b { display: block; font-size: 26px; line-height: 1.1; }
+.score span { color: var(--muted); font-size: 13px; }
+.badges { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-bottom: 18px; }
+.bdg {
+  background: var(--card); border-radius: 16px; padding: 14px 12px; text-align: center;
+  box-shadow: var(--shadow); border: 2px solid var(--tc, transparent); min-width: 0;
+}
+.bronz { --tc: #b0703c; } .gumus { --tc: #8e9aa6; } .altin { --tc: #d4a017; }
+.bi { font-size: 34px; line-height: 1.2; }
+.bn { font-weight: 700; font-size: 15px; overflow-wrap: anywhere; }
+.bt { font-size: 12px; font-weight: 700; color: var(--tc, var(--muted)); margin: 2px 0 4px; }
+.bd { font-size: 12px; color: var(--muted); margin-bottom: 8px; }
+.bp { font-size: 11px; color: var(--muted); margin-top: 5px; }
+.bdg .meter i { background: var(--tc, var(--muted)); }
+.bdg.locked .bi { filter: grayscale(1); opacity: .45; }
+.cel-h { text-align: center; font-size: 22px; font-weight: 800; margin-bottom: 14px; }
+.cel {
+  display: flex; align-items: center; gap: 14px; text-align: left; padding: 12px 14px; margin-bottom: 8px;
+  border-radius: 14px; border: 2px solid var(--tc); background: var(--bg);
+}
+.cel .bi { font-size: 40px; animation: pop .5s ease-out; }
+.cel .bd { margin: 2px 0 0; font-size: 13px; }
+@keyframes pop { 0% { transform: scale(.3); } 70% { transform: scale(1.25); } }
+@media (prefers-reduced-motion: reduce) { .cel .bi { animation: none; } }
+
 /* Alt sekmeler */
 .tabs {
   position: fixed; left: 0; right: 0; bottom: 0; z-index: 10;

@@ -17,6 +17,15 @@ window.CITIES.rotterdam = {
     dogu: "Kralingen",
     cevre: "Çevre"
   },
+  // Bölge rozetleri: bölgedeki görevlerin 1/3'ü bronz, 2/3'ü gümüş, tamamı altın.
+  areaBadges: {
+    merkez: { icon: "🏙️", name: "Merkez Kurdu" },
+    kuzey: { icon: "🌉", name: "Noorderling" },
+    bati: { icon: "⚓", name: "Delfshaven Kaptanı" },
+    guney: { icon: "🚢", name: "Zuid Ruhu" },
+    dogu: { icon: "🌳", name: "Kralingen Gezgini" },
+    cevre: { icon: "🚲", name: "Çevre Kâşifi" }
+  },
   quests: [
     // ───────────── GÖRÜLECEK ─────────────
     { id: "markthal", cat: "gor", area: "merkez", title: "Markthal'in tavanına bak",

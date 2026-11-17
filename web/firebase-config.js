@@ -1,5 +1,10 @@
-// Firebase project settings for cloud save. Paste the web app config from the Firebase console
-// (Project settings → Your apps → Web app → SDK setup and configuration → Config). These values are
-// public identifiers, not secrets; access is protected by the rules in firestore.rules.
-// While this is null, the app works fully offline-first and simply hides cloud save.
-window.FIREBASE_CONFIG = null;
+// Firebase project settings for cloud save (Project settings → Your apps → Web app → Config).
+// These values are public identifiers, not secrets; access is protected by the rules in firestore.rules.
+window.FIREBASE_CONFIG = {
+  apiKey: "AIzaSyCiOOV11XaMzlA6HbEt9yFZkmGQk6laoJk",
+  authDomain: "citydisco-eb7ba.firebaseapp.com",
+  projectId: "citydisco-eb7ba",
+  storageBucket: "citydisco-eb7ba.firebasestorage.app",
+  messagingSenderId: "734911913810",
+  appId: "1:734911913810:web:e5fe9e95a2d9864034648b"
+};

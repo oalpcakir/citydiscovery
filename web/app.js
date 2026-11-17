@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  var APP_VERSION = "0.11.0";
+  var APP_VERSION = "0.12.0";
   var STORE_KEY = "citydiscovery.v1";
   var CATS = {
     gor: { label: "See", icon: "👀", color: "#3b82f6" },
@@ -360,7 +360,7 @@
     return fetch(t === "dark" ? STYLE_DARK : STYLE_LIGHT).then(function (r) { return r.json(); }).then(function (style) {
       style.layers.forEach(function (l) {
         // Our pins replace the basemap's own points of interest.
-        if (/^poi|^housenumber/.test(l.id)) { l.layout = l.layout || {}; l.layout.visibility = "none"; }
+        if (/^poi|^housenumber/.test(l.id) || (l.type === "symbol" && /country/.test(l.id))) { l.layout = l.layout || {}; l.layout.visibility = "none"; }
         if (t === "dark" && l.paint) {
           Object.keys(l.paint).forEach(function (k) {
             if (/color$/.test(k)) l.paint[k] = darkenValue(l.paint[k], /^(text|icon)/.test(k) || k === "text-halo-color");
@@ -393,7 +393,7 @@
     c.width = c.height = S;
     var g = c.getContext("2d"), m = S / 2, r = 36;
     g.shadowColor = "rgba(15,23,42,.38)"; g.shadowBlur = 10; g.shadowOffsetY = 3;
-    g.beginPath(); g.arc(m, m, r + 9, 0, 7); g.fillStyle = cur ? color : "#ffffff"; g.fill();
+    g.beginPath(); g.arc(m, m, r + 9, 0, 7); g.fillStyle = pct >= 100 ? "#f59e0b" : cur ? color : "#ffffff"; g.fill();
     g.shadowColor = "transparent";
     g.beginPath(); g.arc(m, m, r + 2, 0, 7); g.fillStyle = "#ffffff"; g.fill();
     g.lineWidth = 9; g.strokeStyle = "#e5e7eb";
@@ -406,6 +406,49 @@
     g.font = "800 22px system-ui, -apple-system, 'Segoe UI', sans-serif";
     g.fillText(pct + "%", m, m + 1);
     return g.getImageData(0, 0, S, S);
+  }
+  // Completion colour: unexplored regions sit under grey "fog"; the more you complete, the more vivid their colour.
+  function mixHex(a, b, t) {
+    var x = parseInt(a.slice(1), 16), y = parseInt(b.slice(1), 16), out = "#";
+    [16, 8, 0].forEach(function (sh) {
+      var v = Math.round(((x >> sh) & 255) * (1 - t) + ((y >> sh) & 255) * t);
+      out += (v < 16 ? "0" : "") + v.toString(16);
+    });
+    return out;
+  }
+  function regionPaint(color, pct) {
+    if (!pct) return { fill: "#94a3b8", fop: 0.2 };
+    var k = Math.pow(pct / 100, 0.7);
+    return { fill: mixHex("#e2e8f0", color, 0.35 + 0.65 * k), fop: 0.24 + 0.4 * k };
+  }
+  function flagImage(cc) {
+    var W = 76, H = 52, c = document.createElement("canvas");
+    c.width = W; c.height = H;
+    var g = c.getContext("2d"), x = 4, y = 4, w = W - 8, h = H - 8;
+    g.shadowColor = "rgba(15,23,42,.35)"; g.shadowBlur = 6; g.shadowOffsetY = 2;
+    g.fillStyle = "#fff"; g.beginPath(); g.roundRect ? g.roundRect(x - 2, y - 2, w + 4, h + 4, 7) : g.rect(x - 2, y - 2, w + 4, h + 4); g.fill();
+    g.shadowColor = "transparent";
+    g.save(); g.beginPath(); g.roundRect ? g.roundRect(x, y, w, h, 5) : g.rect(x, y, w, h); g.clip();
+    var cols = cc === "BE" ? ["#111111", "#FDDA24", "#EF3340"] : ["#AE1C28", "#FFFFFF", "#21468B"];
+    cols.forEach(function (col, i) {
+      g.fillStyle = col;
+      if (cc === "BE") g.fillRect(x + (w / 3) * i, y, w / 3 + 1, h); else g.fillRect(x, y + (h / 3) * i, w, h / 3 + 1);
+    });
+    g.restore();
+    return g.getImageData(0, 0, W, H);
+  }
+  function countriesGeo(points) {
+    var C = window.COUNTRIES || {}, feats = [];
+    Object.keys(C).forEach(function (cc) {
+      if (points) {
+        feats.push({ type: "Feature", properties: { cc: cc, name: C[cc].name.toUpperCase() }, geometry: { type: "Point", coordinates: [C[cc].label[1], C[cc].label[0]] } });
+      } else {
+        C[cc].outline.forEach(function (ring) {
+          feats.push({ type: "Feature", properties: { cc: cc }, geometry: { type: "LineString", coordinates: ring.map(function (p) { return [p[1], p[0]]; }) } });
+        });
+      }
+    });
+    return { type: "FeatureCollection", features: feats };
   }
   // Regions are lists of polygons; a polygon is a list of rings (outer first), a ring is [[lat, lng], ...].
   function regionsGeo() {
@@ -420,7 +463,9 @@
           return pts;
         });
         feats.push({ type: "Feature", geometry: { type: "Polygon", coordinates: rings },
-          properties: { id: id, name: cities[id].name, color: cities[id].color, op: 0.4 + 0.3 * s.pct / 100 } });
+          properties: (function (rp) {
+            return { id: id, name: cities[id].name, color: cities[id].color, pct: s.pct, full: s.pct >= 100 ? 1 : 0, fill: rp.fill, fop: rp.fop };
+          })(regionPaint(cities[id].color, s.pct)) });
       });
     });
     return { type: "FeatureCollection", features: feats };
@@ -428,7 +473,9 @@
   function badgePoints() {
     return { type: "FeatureCollection", features: Object.keys(cities).map(function (id) {
       return { type: "Feature", geometry: { type: "Point", coordinates: cityCenter(cities[id]) },
-        properties: { id: id, name: cities[id].name, img: "rb-" + id + (id === cityId ? "-cur" : "") } };
+        properties: (function (st) {
+          return { id: id, name: cities[id].name, count: st.done + " / " + st.total, img: "rb-" + id + (id === cityId ? "-cur" : "") };
+        })(cityStats(id)) };
     }) };
   }
   function meGeo() {
@@ -466,17 +513,26 @@
     badgeCache = {};
     map.addSource("regions", { type: "geojson", data: regionsGeo() });
     map.addLayer({ id: "region-fill", type: "fill", source: "regions", paint: {
-      "fill-color": ["get", "color"],
-      "fill-opacity": ["interpolate", ["linear"], ["zoom"], 6, ["get", "op"], 9.5, ["get", "op"], 11.5, ["*", ["get", "op"], 0.16], 13, 0.02] } }, firstSymbol);
+      "fill-color": ["get", "fill"],
+      "fill-opacity": ["interpolate", ["linear"], ["zoom"], 6, ["get", "fop"], 9.5, ["get", "fop"], 11.5, ["*", ["get", "fop"], 0.2], 13, 0.02] } }, firstSymbol);
     map.addLayer({ id: "region-hover", type: "fill", source: "regions", filter: ["==", ["get", "id"], ""], paint: {
       "fill-color": ["get", "color"], "fill-opacity": 0.3 } }, firstSymbol);
     map.addLayer({ id: "region-casing", type: "line", source: "regions", layout: { "line-join": "round" }, paint: {
       "line-color": "#ffffff", "line-opacity": 0.9, "line-blur": 0.6,
       "line-width": ["interpolate", ["linear"], ["zoom"], 6, 3.5, 12, 7] } }, firstSymbol);
     map.addLayer({ id: "region-line", type: "line", source: "regions", layout: { "line-join": "round" }, paint: {
-      "line-color": ["get", "color"], "line-width": ["interpolate", ["linear"], ["zoom"], 6, 1.8, 12, 3] } }, firstSymbol);
+      "line-color": ["get", "color"], "line-opacity": ["case", [">", ["get", "pct"], 0], 1, 0.55],
+      "line-width": ["interpolate", ["linear"], ["zoom"], 6, 1.8, 12, 3] } }, firstSymbol);
+    map.addLayer({ id: "region-gold", type: "line", source: "regions", filter: ["==", ["get", "full"], 1], layout: { "line-join": "round" }, paint: {
+      "line-color": "#f59e0b", "line-blur": 0.5, "line-width": ["interpolate", ["linear"], ["zoom"], 6, 4, 12, 7] } }, firstSymbol);
     map.addLayer({ id: "region-cur", type: "line", source: "regions", layout: { "line-join": "round" }, filter: ["==", ["get", "id"], cityId], paint: {
       "line-color": ["get", "color"], "line-width": ["interpolate", ["linear"], ["zoom"], 6, 3.4, 12, 5.5] } }, firstSymbol);
+    // National borders, drawn over the region lines.
+    map.addSource("countries", { type: "geojson", data: countriesGeo(false) });
+    map.addLayer({ id: "country-casing", type: "line", source: "countries", layout: { "line-join": "round" }, paint: {
+      "line-color": "#ffffff", "line-opacity": 0.95, "line-width": ["interpolate", ["linear"], ["zoom"], 6, 6, 12, 10] } }, firstSymbol);
+    map.addLayer({ id: "country-line", type: "line", source: "countries", layout: { "line-join": "round" }, paint: {
+      "line-color": "#1e293b", "line-opacity": 0.85, "line-dasharray": [3, 1.6], "line-width": ["interpolate", ["linear"], ["zoom"], 6, 2.4, 12, 3.6] } }, firstSymbol);
 
     map.addSource("quests", { type: "geojson", data: questsGeo(), cluster: true, clusterMaxZoom: 13, clusterRadius: 46 });
     map.addLayer({ id: "done-glow", type: "circle", source: "quests", minzoom: 9,
@@ -499,10 +555,21 @@
     map.addSource("sel", { type: "geojson", data: { type: "FeatureCollection", features: [] } });
     map.addLayer({ id: "sel-ring", type: "circle", source: "sel", paint: {
       "circle-radius": 30, "circle-color": ac, "circle-opacity": 0.12, "circle-stroke-color": ac, "circle-stroke-width": 3 } });
+    ["NL", "BE"].forEach(function (cc) {
+      if (map.hasImage("flag-" + cc)) map.removeImage("flag-" + cc);
+      map.addImage("flag-" + cc, flagImage(cc), { pixelRatio: 2 });
+    });
+    map.addSource("country-points", { type: "geojson", data: countriesGeo(true) });
+    map.addLayer({ id: "country-labels", type: "symbol", source: "country-points", maxzoom: 8.8, layout: {
+      "icon-image": ["concat", "flag-", ["get", "cc"]], "icon-anchor": "bottom", "icon-allow-overlap": true,
+      "text-field": ["get", "name"], "text-font": ["Noto Sans Bold"], "text-size": 14, "text-letter-spacing": 0.18,
+      "text-anchor": "top", "text-offset": [0, 0.3], "text-allow-overlap": true },
+      paint: { "text-color": "#1e293b", "text-halo-color": "#ffffff", "text-halo-width": 2.6 } });
     map.addSource("region-points", { type: "geojson", data: badgePoints() });
     map.addLayer({ id: "region-badges", type: "symbol", source: "region-points", maxzoom: OVERVIEW_ZOOM, layout: {
       "icon-image": ["get", "img"], "icon-allow-overlap": true, "icon-ignore-placement": true,
-      "text-field": ["get", "name"], "text-font": ["Noto Sans Bold"], "text-size": 13, "text-anchor": "top", "text-offset": [0, 2.3],
+      "text-field": ["format", ["get", "name"], {}, "\n", {}, ["get", "count"], { "font-scale": 0.85, "text-color": "#475569" }],
+      "text-font": ["Noto Sans Bold"], "text-size": 13, "text-anchor": "top", "text-offset": [0, 2.3], "text-line-height": 1.15,
       "text-allow-overlap": true, "text-ignore-placement": true },
       paint: { "text-color": "#0f172a", "text-halo-color": "#ffffff", "text-halo-width": 2.4 } });
 
@@ -916,8 +983,18 @@
   function tabBtn(id, ic, label) {
     return '<button data-tab="' + id + '" class="' + (ui.tab === id ? "on" : "") + '"><span class="ic">' + ic + '</span>' + label + '</button>';
   }
+  var CC = { Netherlands: "nl", Belgium: "be" };
+  function flagHtml(country) { return CC[country] ? '<i class="flag fl-' + CC[country] + '" aria-hidden="true"></i>' : ""; }
+  function countryStats() {
+    var out = {};
+    Object.keys(cities).forEach(function (id) {
+      var c = cities[id], s2 = cityStats(id), o = out[c.country] || (out[c.country] = { regions: 0, started: 0, done: 0, total: 0 });
+      o.regions++; if (s2.done) o.started++; o.done += s2.done; o.total += s2.total;
+    });
+    return out;
+  }
   function head(title, sub, picker) {
-    return '<header class="head"><h1>' + (picker ? '<button data-act="regions">' + esc(title) + ' <i>▾</i></button>' : esc(title)) +
+    return '<header class="head"><h1>' + (picker ? '<button data-act="regions">' + (title === city.name ? flagHtml(city.country) : "") + esc(title) + ' <i>▾</i></button>' : esc(title)) +
       '</h1><p>' + esc(sub) + '</p></header>';
   }
   function heroTitle(p) {
@@ -942,7 +1019,7 @@
     return '<div class="map-top">' +
       '<div class="topcard glass">' +
         '<button class="lvl fr-' + pr.frame + '" data-tab="hero" aria-label="Your hero, level ' + p.level + '"><span>' + pr.avatar + '</span><b>' + p.level + '</b></button>' +
-        '<div class="grow"><button class="tc-city" data-act="regions">' + esc(city.name) + ' <i>▾</i></button>' +
+        '<div class="grow"><button class="tc-city" data-act="regions">' + flagHtml(city.country) + esc(city.name) + ' <i>▾</i></button>' +
         '<div class="tc-sub">' + esc(heroTitle(p)) + ' · ' + fmt(p.into) + ' / ' + fmt(p.need) + ' XP</div>' + bar(p.pct, "xp") + '</div>' +
         ring(s.pct) + '</div>' +
       '<div class="chips">' + catChips() + '</div>' +
@@ -1044,6 +1121,14 @@
         '<div class="stat"><b>' + p.regions + '/' + nRegions + '</b><span>Regions</span></div>' +
         '<div class="stat"><b>' + p.areas + '</b><span>Areas found</span></div>' +
         '<div class="stat"><b>' + p.badges + '</b><span>Badges</span></div></div>' +
+      '<div class="countries">' + (function () {
+        var cs = countryStats();
+        return Object.keys(cs).map(function (n) {
+          var o = cs[n], pct = o.total ? Math.round((o.done / o.total) * 100) : 0;
+          return '<div class="ctry"><div class="ctry-h">' + flagHtml(n) + '<b>' + esc(n) + '</b><span>' + pct + '%</span></div>' + bar(pct) +
+            '<small>' + o.done + ' / ' + o.total + ' quests · ' + o.started + ' / ' + o.regions + ' regions started</small></div>';
+        }).join("");
+      })() + '</div>' +
       '<h2>Unlocks</h2><div class="panel">' +
         (upcoming.length ? '<div class="nextu">Next at level ' + upcoming[0].level + ': <b>' + esc(unlockLabel(upcoming[0])) + '</b></div>' : '<div class="nextu">Everything unlocked. Legendary.</div>') +
         '<div class="ugrid">' + UNLOCKS.map(function (u) { return unlockTile(u, p.level); }).join("") + '</div>' +
@@ -1089,10 +1174,13 @@
       '<p class="note">Progress and photos are stored on this device only (the backup text does not include photos). Version ' + APP_VERSION + '</p></div></div>';
   }
   function regionRows() {
-    var html = "", last = null;
+    var html = "", last = null, cs = countryStats();
     Object.keys(cities).forEach(function (id) {
       var c = cities[id], s = cityStats(id);
-      if (c.country !== last) { html += '<div class="rgroup">' + esc(c.country) + '</div>'; last = c.country; }
+      if (c.country !== last) {
+        html += '<div class="rgroup">' + flagHtml(c.country) + esc(c.country) + ' <small>' + cs[c.country].started + ' / ' + cs[c.country].regions + ' regions started</small></div>';
+        last = c.country;
+      }
       html += '<button class="rrow' + (id === cityId ? " cur" : "") + '" data-city="' + id + '">' +
         '<i class="dot big" style="background:' + c.color + '"></i>' +
         '<div class="grow"><div class="rn">' + esc(c.name) + ' <small>' + esc(c.subtitle || "") + '</small></div>' + bar(s.pct) + '</div>' +

@@ -38,7 +38,7 @@ window.CITIES.arnhem = {
     willibrordabdij: [51.9514, 6.3675], walterbier: [51.9663, 6.2875], jachthut: [51.5390, 6.1530],
     hamert: [51.5192, 6.1743], grebbeberg: [51.9553, 5.6000], cunerakerk: [51.9569, 5.5642],
     zutphen: [52.1398, 6.1958], pelikaan: [52.1395, 6.1983], cambrinus: [52.1383, 6.1967],
-    zutphenhofjes: [52.1412, 6.1970]
+    zutphenhofjes: [52.1412, 6.1970], maashorst: [51.6964, 5.6001]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -213,6 +213,9 @@ window.CITIES.arnhem = {
       tip: "Try the house brews after a walk past Zutphen's towers and hofjes.", q: "Stadsbrouwerij Cambrinus Zutphen", src: ["https://www.visithansaholland.com/hansa-towns/zutphen/"] },
     { id: "zutphenhofjes", cat: "dene", area: "cevre", title: "Go hofje hunting in Zutphen",
       desc: "Behind Zutphen's street fronts hide almshouse courtyards built for the elderly, poor and widowed, the oldest being the Oude Bornhof from 1320. Ruitershofje, Agnietenhof and Luthers Hofje are other finds.",
-      tip: "Courtyards are lived in: go quietly, and finish with the Martinetsingel walk along the old walls.", q: "Oude Bornhof Zutphen", tags: ["free"], src: ["https://www.dutchnews.nl/2025/01/dutch-destinations-go-medieval-in-the-city-of-towers/"] }
+      tip: "Courtyards are lived in: go quietly, and finish with the Martinetsingel walk along the old walls.", q: "Oude Bornhof Zutphen", tags: ["free"], src: ["https://www.dutchnews.nl/2025/01/dutch-destinations-go-medieval-in-the-city-of-towers/"] },
+    { id: "maashorst", cat: "dene", area: "cevre", title: "Look for wisent in De Maashorst",
+      desc: "De Maashorst is a big landscape park of heath, forest and sand between Oss and Uden. Since 2016 European bison (wisent) and Exmoor ponies roam part of it freely.",
+      tip: "Start at the visitor centre in Slabroek near Nistelrode, where most walking routes begin, and keep a respectful distance from the animals.", q: "Bezoekerscentrum De Maashorst Erenakkerstraat 5 Nistelrode", tags: ["free"], src: ["https://nl.wikipedia.org/wiki/Maashorst_(natuurgebied)", "https://en.wikivoyage.org/wiki/%27s-Hertogenbosch"] }
   ]
 };

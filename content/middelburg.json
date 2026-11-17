@@ -1,0 +1,556 @@
+{
+ "new": [
+  {
+   "id": "langejan",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb the Lange Jan above the Abdij",
+   "desc": "The tallest of the abbey's five towers rises over 90 metres above Middelburg. Its 207 steps reward you with a view across the rooftops of the old town and the flat green islands of Walcheren.",
+   "tip": "Pick a clear day: from the top you can make out the cranes of Vlissingen and the Veerse Meer on the horizon.",
+   "q": "Lange Jan, Middelburg",
+   "ll": [
+    51.4995,
+    3.6138
+   ],
+   "src": [
+    "https://exploringthenetherlands.com/things-to-do-in-middelburg/",
+    "https://en.wikivoyage.org/wiki/Middelburg_(Zeeland)"
+   ]
+  },
+  {
+   "id": "zeeuwsmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Decode Zeeland's traditional dress at the Zeeuws Museum",
+   "desc": "Inside the 12th-century abbey, the Zeeuws Museum shows the island-by-island klederdracht, with its lace bonnets and the gold and silver Zeeuwse knop buttons that once signalled status, next to huge 16th-century tapestries of naval battles.",
+   "tip": "Look out for the knop afterwards: the old button motif is back in fashion on jewellery, biscuit tins and even bicycle bells across Zeeland.",
+   "q": "Zeeuws Museum, Abdij, Middelburg",
+   "ll": [
+    51.5001,
+    3.6127
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Middelburg_(Zeeland)",
+    "https://www.zeeuwseankers.nl/en/story/zeelands-traditional-attire"
+   ]
+  },
+  {
+   "id": "stadhuismiddelburg",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Take a tour inside Middelburg's Gothic town hall",
+   "desc": "The lacy late-Gothic facade on the Markt, begun in 1452, is lined with statues of the counts and countesses of Zeeland. Behind it hide grand halls you only see on a guided visit.",
+   "tip": "Tours run mainly in summer and are booked through the tourist office, so reserve before you settle on a terrace.",
+   "q": "Stadhuis, Markt, Middelburg",
+   "ll": [
+    51.4988,
+    3.612
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Middelburg_(Zeeland)",
+    "https://exploringthenetherlands.com/things-to-do-in-middelburg/"
+   ]
+  },
+  {
+   "id": "kuiperspoort",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find the hidden Kuiperspoort alley",
+   "desc": "This cobbled lane named after the coopers' guild runs from the Rouaanse Kaai up to the Dam through a gatehouse dated 1586, lined with old warehouses where the city's trade once rolled in barrels.",
+   "tip": "The entrance from the quay is easy to walk past; look for the narrow arch between the merchants' houses.",
+   "q": "Kuiperspoort, Middelburg",
+   "ll": [
+    51.5004,
+    3.6159
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://exploringthenetherlands.com/things-to-do-in-middelburg/"
+   ]
+  },
+  {
+   "id": "koepoort",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk through the Koepoort, Middelburg's last city gate",
+   "desc": "Of the eight gates that once guarded Middelburg, only the Koepoort survives in full. Today you can even sleep in it, as it holds a small B&B.",
+   "tip": "Continue along the green singel and the Molenwater, where the old star-shaped ramparts still shape the city.",
+   "q": "Koepoort, Middelburg",
+   "ll": [
+    51.5047,
+    3.6155
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://exploringthenetherlands.com/things-to-do-in-middelburg/"
+   ]
+  },
+  {
+   "id": "zeeuwsestreken",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat strictly local at Zeeuwse Streken",
+   "desc": "This small restaurant on the Gravenstraat cooks only with what Zeeland supplies: fish from local fishermen, game from a nearby hunter and vegetables from a farm down the road.",
+   "tip": "Ask what came in that morning; the menu follows the catch and the season.",
+   "q": "Restaurant Zeeuwse Streken, Gravenstraat 6, Middelburg",
+   "ll": [
+    51.4993,
+    3.6101
+   ],
+   "src": [
+    "https://www.yourlittleblackbook.me/beste-restaurants-middelburg/"
+   ]
+  },
+  {
+   "id": "goudenbock",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order fruits de mer at De Gouden Bock",
+   "desc": "On the Damplein, among former grain traders' houses, De Gouden Bock is often named the best fish restaurant in town, with fresh fish and bread and sauces made in-house.",
+   "tip": "Lunch is the relaxed way in; book ahead for dinner on weekends.",
+   "q": "De Gouden Bock, Damplein 17, Middelburg",
+   "ll": [
+    51.5009,
+    3.617
+   ],
+   "src": [
+    "https://www.yourlittleblackbook.me/beste-restaurants-middelburg/",
+    "https://en.wikivoyage.org/wiki/Middelburg_(Zeeland)"
+   ]
+  },
+  {
+   "id": "desafinado",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have jazz and a drink in the shadow of Lange Jan",
+   "desc": "Desafinado is a jazz cafe with bistro food and a terrace looking straight up at the abbey tower, a favourite spot to linger after a day in the old town.",
+   "tip": "Grab a terrace table in the late afternoon when the tower catches the low sun.",
+   "q": "Desafinado, Koorkerkstraat 1, Middelburg",
+   "ll": [
+    51.4992,
+    3.6146
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Middelburg_(Zeeland)"
+   ]
+  },
+  {
+   "id": "vertmiddelburg",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat from the garden at Vert on the Vlasmarkt",
+   "desc": "Vert builds its menu around vegetables, mostly from its own garden or the region, and pours natural wines and homemade alcohol-free drinks.",
+   "tip": "On a warm day ask for the courtyard terrace hidden behind the building.",
+   "q": "Vert, Vlasmarkt 27, Middelburg",
+   "ll": [
+    51.4981,
+    3.6131
+   ],
+   "src": [
+    "https://www.yourlittleblackbook.me/beste-restaurants-middelburg/"
+   ]
+  },
+  {
+   "id": "ringrijdenmiddelburg",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cheer the ring riders at Middelburg's Folklore Day",
+   "desc": "Twice each summer, riders on braided, decorated horses gallop at a tiny hanging ring with a lance, and couples in Zeeland klederdracht try the same from flower-decked carts. The August edition decides the Zeeland ring riding championship.",
+   "tip": "The July day is around the Abdijplein and the August one at the Molenwater; the finals with the smallest rings are the most exciting.",
+   "q": "Abdijplein, Middelburg",
+   "ll": [
+    51.4997,
+    3.6122
+   ],
+   "months": [
+    7,
+    8
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://domburg.com/en/event/1000/folklore-day-in-middelburg.html"
+   ]
+  },
+  {
+   "id": "marktmiddelburg",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Shop the Thursday market on the Markt",
+   "desc": "Every Thursday the square in front of the town hall fills with stalls, with a fruit and vegetable market on Saturdays and a flea market on the Vismarkt each first Saturday of the month.",
+   "tip": "Thursday is also koopavond, so the shops stay open late and you can make a full day of it.",
+   "q": "Markt, Middelburg",
+   "ll": [
+    51.4985,
+    3.6113
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Middelburg_(Zeeland)"
+   ]
+  },
+  {
+   "id": "toorenvliedt",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Track down the WWII bunkers of Park Toorenvliedt",
+   "desc": "The 1726 Huis Toorenvliedt became a German headquarters in the war, and its park is still dotted with bunkers. One of them now holds a small museum run by local volunteers.",
+   "tip": "Download the free bunker walking app before you go; the museum bunker only opens on special days or by appointment.",
+   "q": "Park Toorenvliedt, Koudekerkseweg, Middelburg",
+   "ll": [
+    51.4885,
+    3.5989
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://zeeland.com/en/visit/631_en/toorenvliedt",
+    "https://exploringthenetherlands.com/things-to-do-in-middelburg/"
+   ]
+  },
+  {
+   "id": "schotsehuizen",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Scottish Houses on the quay in Veere",
+   "desc": "Het Lammeken and In de Struijs are ornate 16th-century houses of Scottish wool merchants, from the time Veere held the staple for Scottish trade. They are now part of Museum Veere, which also fills the old town hall.",
+   "tip": "Veere is an easy 5 km bike ride from Middelburg; climb to the loft of the houses for the story of the Scots in Zeeland.",
+   "q": "Museum Veere, Kaai, Veere",
+   "ll": [
+    51.5486,
+    3.6667
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://zeeland.com/en/visit/islands/walcheren/towns-and-villages/veere/the-very-essential-veere"
+   ]
+  },
+  {
+   "id": "campveersetoren",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine in the Campveerse Toren in Veere",
+   "desc": "This 15th-century defence tower at the harbour mouth hosted William of Orange's wedding feast in 1575 and is now one of the oldest taverns in the country, looking out over the Veerse Meer.",
+   "tip": "Before or after the meal, walk out on the jetty to watch the sailing boats coming in from the lake.",
+   "q": "Auberge de Campveerse Toren, Veere",
+   "ll": [
+    51.5497,
+    3.6678
+   ],
+   "src": [
+    "https://zeeland.com/en/visit/islands/walcheren/towns-and-villages/veere/the-very-essential-veere"
+   ]
+  },
+  {
+   "id": "ringrijdendomburg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch ring riding on the Markt of Domburg",
+   "desc": "In summer the old village square of the seaside resort becomes an arena where riders spear dangling rings at full gallop, a folk game that is also a serious Zeeland sport.",
+   "tip": "Grab a seat on one of the terraces around the Markt and stay for the final rounds, when the rings shrink.",
+   "q": "Markt, Domburg",
+   "ll": [
+    51.5636,
+    3.497
+   ],
+   "months": [
+    6,
+    7,
+    8
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://domburg.com/en/event/5/ring-riding.html"
+   ]
+  },
+  {
+   "id": "zoutelandeduinen",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the high dunes between Zoutelande and Dishoek",
+   "desc": "A loop of about 11 km climbs one of the highest dunes on the coast near Groot-Valkenisse, with a view over Walcheren and ships passing close along the Westerschelde, then returns through the Dishoek woods past wartime bunkers.",
+   "tip": "The loose sand makes it tougher than it looks; bus 53 links Zoutelande with Middelburg if you want a one-way walk.",
+   "q": "Zoutelande",
+   "ll": [
+    51.5007,
+    3.4825
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://zeeland.com/en/visit/729_en/duinwandeling-zoutelande"
+   ]
+  },
+  {
+   "id": "muzeeum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Dive into maritime history at the MuZEEum in Vlissingen",
+   "desc": "Zeeland's maritime museum fills a row of 16th to 18th-century buildings on the old harbour and tells the story of the sea heroes, traders and smugglers of Vlissingen.",
+   "tip": "Combine it with a walk to the Boulevard de Ruyter and a portion of kibbeling on the Bellamypark.",
+   "q": "MuZEEum, Nieuwendijk 11, Vlissingen",
+   "ll": [
+    51.4436,
+    3.5703
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Vlissingen"
+   ]
+  },
+  {
+   "id": "goesoudehaven",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stroll from the Grote Markt to the Oude Haven in Goes",
+   "desc": "Goes grew rich on salt and madder, and narrow streets like the Sint Jacobstraat still lead from its lively Grote Markt and Gothic Grote Kerk down to a harbour lined with old merchants' houses.",
+   "tip": "Come on a Tuesday or Saturday for the busy weekly market on the Grote Markt.",
+   "q": "Oude Haven, Goes",
+   "ll": [
+    51.5053,
+    3.8893
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://www.dutchnews.nl/features/2022/02/dutch-destinations-you-should-goes-to-goes"
+   ]
+  },
+  {
+   "id": "katoengoes",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Zeeland oysters and mussels at Katoen in Goes",
+   "desc": "An old cloth-bleaching works turned hotel, Katoen has a casual brasserie and a finer restaurant that both lean on local seafood such as Oosterschelde oysters and mussels.",
+   "tip": "It makes a handy base for exploring Yerseke and the Zuid-Beveland orchards by bike.",
+   "q": "Katoen, Bleekveld 9, Goes",
+   "ll": [
+    51.4996,
+    3.8966
+   ],
+   "src": [
+    "https://www.dutchnews.nl/features/2022/02/dutch-destinations-you-should-goes-to-goes",
+    "https://www.yourlittleblackbook.me/eten-drinken-mosselseizoen-yerseke-zeeland/"
+   ]
+  },
+  {
+   "id": "mosselhuis",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Zeeuwse mosselen on the water in Yerseke",
+   "desc": "Het Zeeuwse Mosselhuis sits at the edge of the Oosterschelde in the mussel capital of the Netherlands and serves the classic pan of mussels alongside fresh oysters.",
+   "tip": "Mussel season runs from summer into spring; the first catch of July is the one locals wait for.",
+   "q": "Het Zeeuwse Mosselhuis, De Zaete 36, Yerseke",
+   "ll": [
+    51.4975,
+    4.0498
+   ],
+   "months": [
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    1,
+    2,
+    3,
+    4
+   ],
+   "src": [
+    "https://www.yourlittleblackbook.me/eten-drinken-mosselseizoen-yerseke-zeeland/"
+   ]
+  },
+  {
+   "id": "ziltetrots",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste sea-breeze wines at Wijngoed Zilte Trots near Yerseke",
+   "desc": "A family vineyard on the Zuid-Beveland clay, where a walk through the vines ends in a tasting with homemade snacks, proof that Zeeland makes more than shellfish.",
+   "tip": "Book the tour in advance and pair it with an oyster lunch in Yerseke.",
+   "q": "Wijngoed Zilte Trots, Grintweg 55, Yerseke",
+   "ll": [
+    51.488,
+    4.0575
+   ],
+   "src": [
+    "https://www.yourlittleblackbook.me/eten-drinken-mosselseizoen-yerseke-zeeland/"
+   ]
+  },
+  {
+   "id": "mosseldag",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Sail out with the mussel fleet on Mosseldag in Yerseke",
+   "desc": "On the third Saturday of August, Yerseke throws a seafood party for some 50,000 visitors, with free trips on mussel boats over the Oosterschelde, a fair, a military tattoo and fireworks.",
+   "tip": "Queue early at the harbour for a place on a boat; by midday the lines are long.",
+   "q": "Haven, Yerseke",
+   "ll": [
+    51.4962,
+    4.0532
+   ],
+   "months": [
+    8
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Mosseldag"
+   ]
+  },
+  {
+   "id": "fruitroute",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the blossom fruit route from Kapelle",
+   "desc": "Zuid-Beveland is Zeeland's orchard country, and this 20 km route sets off from the fruit-growing museum in Kapelle between dikes, creeks and villages. In spring the trees turn white and pink.",
+   "tip": "The museum cafe sells local fruit and juice; in summer look out for raspberries, blackberries and plums along the way.",
+   "q": "Fruitteeltmuseum, Kapelle",
+   "ll": [
+    51.4868,
+    3.958
+   ],
+   "months": [
+    4,
+    5
+   ],
+   "src": [
+    "https://www.zeeland.com/en/visit/1608_en/fruitroute"
+   ]
+  },
+  {
+   "id": "belfortsluis",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the only belfry in the Netherlands in Sluis",
+   "desc": "Sluis has the only town hall in the country topped with a Flemish-style belfry, a reminder that this little fortified town on the Belgian border was once a busy medieval port.",
+   "tip": "After the centre, stroll the green ramparts to the windmill De Brak for views over the polders toward Belgium.",
+   "q": "Belfort, Sluis",
+   "ll": [
+    51.3084,
+    3.3862
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://www.zeeland.com/en/visit/islands/zeeuws-vlaanderen/west-zeeland-flanders/-out-and-about-tips",
+    "https://en.wikipedia.org/wiki/Sluis"
+   ]
+  },
+  {
+   "id": "aardenburgmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Meet the Romans at the Archeologisch Museum in Aardenburg",
+   "desc": "Aardenburg is counted as the oldest town in Zeeland, built on a Roman fort, and its small archaeology museum brings that past to life with life-size Roman soldiers and citizens.",
+   "tip": "Combine it with Sluis, about 8 km away, for a day in West Zeeuws-Vlaanderen.",
+   "q": "Archeologisch Museum, Aardenburg",
+   "ll": [
+    51.2738,
+    3.4476
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://www.zeeland.com/en/visit/islands/zeeuws-vlaanderen/west-zeeland-flanders/-out-and-about-tips"
+   ]
+  },
+  {
+   "id": "haaientanden",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hunt for fossil shark teeth on the beach at Cadzand",
+   "desc": "The beaches between Cadzand-Bad and Het Zwin wash up shark teeth millions of years old. From there a coastal walk leads through the Zwin nature area toward Retranchement.",
+   "tip": "Bring a sieve and a bucket and search at the tide line after high water; take only a handful home.",
+   "q": "Strand Cadzand-Bad",
+   "ll": [
+    51.3765,
+    3.379
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://www.zeeland.com/en/visit/islands/zeeuws-vlaanderen/west-zeeland-flanders/-out-and-about-tips"
+   ]
+  },
+  {
+   "id": "hulstwallen",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Circle the ramparts of fortress town Hulst",
+   "desc": "Hulst's earthen walls and bastions from around 1600 are still almost complete, with four old gates, the ruined Keldermanspoort and a bronze Reynaert the fox, the trickster of the medieval epic the town claims as its own.",
+   "tip": "Start at the Grote Markt and finish at the Sint-Willibrordusbasiliek, whose light white interior surprises after the heavy walls.",
+   "q": "Grote Markt, Hulst",
+   "ll": [
+    51.2806,
+    4.0527
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://www.anwb.nl/wandelen/routes/hulst"
+   ]
+  },
+  {
+   "id": "sluisterneuzen",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Watch sea giants pass the locks of Terneuzen",
+   "desc": "Tens of thousands of ships a year squeeze through the lock complex at Terneuzen on their way to Ghent, including the brand-new Nieuwe Sluis. The Portaal van Vlaanderen info centre runs lock tours and canal boat trips.",
+   "tip": "Tours and boat trips are booked for Wednesdays and weekends; the info centre reopens with a new exhibition in spring 2027 after renovation.",
+   "q": "Portaal van Vlaanderen, Beneluxweg, Terneuzen",
+   "ll": [
+    51.3352,
+    3.8235
+   ],
+   "src": [
+    "https://www.portaalvanvlaanderen.nl/"
+   ]
+  }
+ ],
+ "fix": [
+  {
+   "id": "babbelaars",
+   "problem": "Wikivoyage lists JB Diesch (spelled 'JB Dietsch') at Markt 23, not on the Lange Noordstraat.",
+   "suggestion": "Verify the current shop address; if it is on the Markt, update q to 'JB Diesch, Markt, Middelburg' and the tip accordingly.",
+   "src": "https://en.wikivoyage.org/wiki/Middelburg_(Zeeland)"
+  },
+  {
+   "id": "watersnoodmuseum",
+   "problem": "Ouwerkerk is on Schouwen-Duiveland; also zierikzeetoren and beuze (Zierikzee) and neeltjejans are outside the scope given to this agent (Schouwen-Duiveland/Tholen excluded). Not wrong, just noting overlap in case those islands belong to another region.",
+   "suggestion": "Keep if Schouwen-Duiveland belongs to Middelburg; otherwise move.",
+   "src": "https://en.wikipedia.org/wiki/Watersnoodmuseum"
+  }
+ ]
+}

@@ -1,0 +1,603 @@
+{
+ "new": [
+  {
+   "id": "monsbelfry",
+   "cat": "dene",
+   "area": "mons",
+   "title": "Climb the Baroque belfry of Mons",
+   "desc": "Rising 87 metres from the hill above the Grand-Place, this 17th-century tower is the only Baroque belfry in Belgium and part of the UNESCO-listed belfries of Belgium and France. Its 49-bell carillon still rings over the town.",
+   "tip": "On a clear day the top looks out over the Borinage, the Haine plain and the 1914 battlefields; the park around the base is a quiet picnic spot.",
+   "q": "Beffroi de Mons",
+   "ll": [
+    50.4542,
+    3.95
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Belfry_of_Mons"
+   ]
+  },
+  {
+   "id": "saintewaudru",
+   "cat": "gor",
+   "area": "mons",
+   "title": "Find the Car d'Or inside Sainte-Waudru",
+   "desc": "The Brabantine Gothic collegiate church of Mons was built from 1450 and its giant tower was never finished. Inside are Renaissance alabasters by Jacques Du Broeucq, 16th-century stained glass and the gilded Car d'Or used at the Doudou.",
+   "tip": "The treasury with Saint Waltrude's reliquaries opens in the summer months; the gilded processional carriage stands in the nave all year.",
+   "q": "Collégiale Sainte-Waudru Mons",
+   "ll": [
+    50.4539,
+    3.9471
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Coll%C3%A9giale_Sainte-Waudru_de_Mons"
+   ]
+  },
+  {
+   "id": "mundaneum",
+   "cat": "gor",
+   "area": "mons",
+   "title": "Browse the paper internet at the Mundaneum",
+   "desc": "Paul Otlet and Henri La Fontaine set out to file all the world's knowledge on index cards, collecting more than 12 million of them. Their archive now lives in a converted Art Deco department store and is often called a forerunner of the web.",
+   "tip": "Look for the rows of wooden filing drawers that inspired a Google Doodle in 2015; temporary shows change regularly.",
+   "q": "Mundaneum Mons",
+   "ll": [
+    50.4577,
+    3.9555
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Mundaneum",
+    "https://visitwallonia.com/en-gb/119/blog/trendy-city-trips-and-short-breaks/a-trendy-cultural-weekend-in-mons"
+   ]
+  },
+  {
+   "id": "vangoghcuesmes",
+   "cat": "gor",
+   "area": "mons",
+   "title": "Visit the house where Van Gogh became a painter",
+   "desc": "From 1878 to 1880 Vincent van Gogh lived among the miners of the Borinage, and in this modest house in Cuesmes he decided to become an artist. A garden, a pavilion and the small house tell the story of those hard years.",
+   "tip": "Buy the Van Gogh Pass to combine it with his other house in Wasmes and the Marcasse mine site; Cuesmes is a short bus ride south of Mons station.",
+   "q": "Maison Van Gogh Cuesmes",
+   "ll": [
+    50.437,
+    3.9271
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://www.visitmons.be/en/sites-and-museums/van-gogh-house-cuesmes-mons-110528"
+   ]
+  },
+  {
+   "id": "monsmemorial",
+   "cat": "gor",
+   "area": "mons",
+   "title": "Hear the voices of two world wars at the Mons Memorial Museum",
+   "desc": "Mons saw both the first British battle of 1914 and the liberation of 1944. This museum in the old 19th-century waterworks tells those stories through objects and the testimonies of soldiers and civilians from five countries.",
+   "tip": "Allow a good two hours; the building is a short walk south of the Grand-Place, past the station.",
+   "q": "Mons Memorial Museum",
+   "ll": [
+    50.45,
+    3.9569
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Mons_Memorial_Museum"
+   ]
+  },
+  {
+   "id": "bammons",
+   "cat": "gor",
+   "area": "mons",
+   "title": "Catch a big exhibition at the BAM",
+   "desc": "The Beaux-Arts Mons occupies a 1913 museum building given a sleek makeover in 2007, and now hosts the city's major art exhibitions. It sits right behind the town hall, close to the Grand-Place.",
+   "tip": "Check what is on before you go, as the BAM has no permanent display; it pairs well with the CAP complex and the Jardin du Mayeur next door.",
+   "q": "BAM Beaux-Arts Mons rue Neuve",
+   "ll": [
+    50.4558,
+    3.9525
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_Beaux-Arts_de_Mons",
+    "https://visitwallonia.com/en-gb/119/blog/trendy-city-trips-and-short-breaks/a-trendy-cultural-weekend-in-mons"
+   ]
+  },
+  {
+   "id": "berdouille",
+   "cat": "ye",
+   "area": "mons",
+   "title": "Order a côte à l'berdouille at Le Carillon",
+   "desc": "The signature dish of Mons is a pork chop in a tangy 'mud' sauce, nicknamed berdouille in the local dialect. Le Carillon, a rustic wooden tavern on the corner of the Grand-Place, has served it for over 35 years.",
+   "tip": "Ask for homemade fries with it and a local beer; in good weather the terrace overlooks the square.",
+   "q": "Le Carillon rue d'Havré 1 Mons",
+   "ll": [
+    50.4545,
+    3.9522
+   ],
+   "src": [
+    "https://www.visitmons.be/en/restaurants/le-carillon-852572",
+    "https://visitwallonia.com/en-gb/3/where-to-go-in-wallonia/gateway-towns/mons/a-taste-of-mons"
+   ]
+  },
+  {
+   "id": "levuresettannins",
+   "cat": "ye",
+   "area": "mons",
+   "title": "Taste natural wine and local craft beer at Levures et Tannins",
+   "desc": "This little bar on the rue de la Coupe, near the Marché aux Herbes, pours organic natural wines and beers from small Hainaut brewers. It is a favourite stop on the trendier side of Mons.",
+   "tip": "Combine it with dinner at Origines, a Bib Gourmand on the same street that cooks with market produce.",
+   "q": "Levures et Tannins Mons",
+   "ll": [
+    50.4535,
+    3.9514
+   ],
+   "src": [
+    "https://visitwallonia.com/en-gb/119/blog/trendy-city-trips-and-short-breaks/a-trendy-cultural-weekend-in-mons"
+   ]
+  },
+  {
+   "id": "brassetemps",
+   "cat": "ye",
+   "area": "mons",
+   "title": "Drink a Blanche de Sainte-Waudru at the Brasse-Temps",
+   "desc": "This brewpub of the Dubuisson brewery brews its beers on site, including a wheat beer named after the patron saint of Mons and the famous Cuvée des Trolls. Tapas on the menu are cooked with the house beers.",
+   "tip": "Book ahead for a look at the brewing kettles; it is near the Grands Prés shopping centre, handy after a film at the Imagix cinema.",
+   "q": "Brasse-Temps Boulevard André Delvaux Mons",
+   "ll": [
+    50.4585,
+    3.9395
+   ],
+   "src": [
+    "https://www.visitmons.be/en/producers/microbrewery-brasse-temps-325346"
+   ]
+  },
+  {
+   "id": "spiennes",
+   "cat": "dene",
+   "area": "mons",
+   "title": "Climb down a 6,000-year-old flint mine at Spiennes",
+   "desc": "Neolithic miners dug shafts over 10 metres deep at Spiennes, just southeast of Mons, to reach the flint they turned into axes. The UNESCO site has a striking visitor centre, SILEX'S, set right on the old mining fields.",
+   "tip": "The descent down a vertical ladder must be booked with a guide and is only for ages 10 and up; bring warm clothes, as it is about 12 degrees underground. Park on Place de Spiennes and walk 15 minutes.",
+   "q": "SILEX'S Spiennes",
+   "ll": [
+    50.4198,
+    3.9818
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "src": [
+    "https://musees-expos.mons.be/nos-lieux/silexs/",
+    "https://en.wikipedia.org/wiki/Neolithic_flint_mines_of_Spiennes"
+   ]
+  },
+  {
+   "id": "monsartcity",
+   "cat": "dene",
+   "area": "mons",
+   "title": "Hunt the murals of the Art in the City trail",
+   "desc": "Some 60 murals and artworks are scattered across the centre of Mons. Start on the rue des Fripiers, where a Mexican-inspired fresco by DUEK sits among vintage and design shops.",
+   "tip": "Ask for the trail map at visitMons on the Grand-Place and browse the shops of the rue des Fripiers along the way.",
+   "q": "Rue des Fripiers Mons",
+   "ll": [
+    50.453,
+    3.9528
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://visitwallonia.com/en-gb/119/blog/trendy-city-trips-and-short-breaks/a-trendy-cultural-weekend-in-mons"
+   ]
+  },
+  {
+   "id": "charleroibelfry",
+   "cat": "gor",
+   "area": "charleroi",
+   "title": "Look up at Charleroi's Art Deco town hall and belfry",
+   "desc": "Charleroi's belfry, over 70 metres tall, rises from an interwar town hall with Art Deco touches on Place Charles II. It is one of the UNESCO-listed belfries of Belgium and France.",
+   "tip": "Climbs of the tower have been suspended at times, so ask at the tourist office in Charleroi-Sud station whether a guided visit is running.",
+   "q": "Hôtel de Ville de Charleroi Place Charles II",
+   "ll": [
+    50.4114,
+    4.4438
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://www.touring.be/fr/articles/10-astuces-pour-un-super-citytrip-charleroi",
+    "https://en.wikipedia.org/wiki/Charleroi"
+   ]
+  },
+  {
+   "id": "saintchristophe",
+   "cat": "gor",
+   "area": "charleroi",
+   "title": "Be dazzled by the golden mosaic of Saint-Christophe",
+   "desc": "Locals call it the basilica, although it never officially got the title. Its apse holds a vast gilded glass mosaic of the Apocalypse, about 200 square metres, made by Venetian craftsmen from designs by Jean Ransy.",
+   "tip": "It faces the town hall on Place Charles II, so see both in one go.",
+   "q": "Église Saint-Christophe Charleroi",
+   "ll": [
+    50.4113,
+    4.4447
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ],
+   "src": [
+    "https://www.touring.be/fr/articles/10-astuces-pour-un-super-citytrip-charleroi"
+   ]
+  },
+  {
+   "id": "bps22",
+   "cat": "gor",
+   "area": "charleroi",
+   "title": "See socially engaged art at BPS22",
+   "desc": "The art museum of the Province of Hainaut fills a glass and iron hall built for the 1911 Charleroi exhibition. Its shows often tackle social questions and mix contemporary art, music and performance.",
+   "tip": "Take the metro to Palais or Waterloo station; the industrial hall itself is worth the visit even between big exhibitions.",
+   "q": "BPS22 Charleroi",
+   "ll": [
+    50.4143,
+    4.4388
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/BPS22",
+    "https://visitwallonia.com/en-gb/119/blog/trendy-city-trips-and-short-breaks/trendy-urban-weekend-in-charleroi"
+   ]
+  },
+  {
+   "id": "museephoto",
+   "cat": "gor",
+   "area": "charleroi",
+   "title": "Explore Europe's largest photography museum",
+   "desc": "The Musée de la Photographie fills a neo-Gothic former Carmelite convent in Mont-sur-Marchienne plus a contemporary wing, with a collection of over 80,000 images. The permanent display traces photography from its beginnings to today.",
+   "tip": "It is a 20-minute bus ride from the centre; save time for a stroll in the convent park afterwards.",
+   "q": "Musée de la Photographie Mont-sur-Marchienne",
+   "ll": [
+    50.3955,
+    4.4117
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://visitwallonia.com/en-gb/119/blog/trendy-city-trips-and-short-breaks/trendy-urban-weekend-in-charleroi",
+    "https://www.touring.be/fr/articles/10-astuces-pour-un-super-citytrip-charleroi"
+   ]
+  },
+  {
+   "id": "robertlafrite",
+   "cat": "ye",
+   "area": "charleroi",
+   "title": "Eat fries cooked in beef fat at Robert la Frite",
+   "desc": "Founded in 1952 on the Place de l'Ouest, this friterie is a Charleroi institution, still cutting its fries on site and frying them in beef fat. After a short closure it reopened in 2024 under a man who had worked there for 21 years.",
+   "tip": "It stays open late, very late on weekend nights; try the boulettes in tomato sauce or a carbonnade with your cone.",
+   "q": "Robert la Frite Place de l'Ouest Charleroi",
+   "ll": [
+    50.4097,
+    4.4392
+   ],
+   "src": [
+    "https://www.lalibre.be/dernieres-depeches/2024/07/09/une-friterie-emblematique-rouvre-apres-plusieurs-mois-de-fermeture-a-charleroi-CTC7XMPP2ZB6XB2RCIUONYD6VQ/",
+    "https://www.dhnet.be/regions/charleroi/2024/07/09/la-bali-boulettes-est-de-retour-les-volets-de-robert-la-frite-seront-a-nouveau-ouverts-des-ce-vendredi-11-h-DKNI6XSVANESTBTDQYIMSCOLQQ/"
+   ]
+  },
+  {
+   "id": "gayette",
+   "cat": "ye",
+   "area": "charleroi",
+   "title": "Taste a Gayette, Charleroi's coal-black truffle",
+   "desc": "The Gayette is Charleroi's signature chocolate truffle, named after the small lumps of coal of the Pays Noir. The best ones are said to come from Maison Pilloy, a small shop on the rue Neuve since 1882.",
+   "tip": "Buy a box as a souvenir; they keep well and make a better gift from Charleroi than a postcard.",
+   "q": "Pilloy chocolatier rue Neuve Charleroi",
+   "ll": [
+    50.4093,
+    4.444
+   ],
+   "src": [
+    "https://www.touring.be/fr/articles/10-astuces-pour-un-super-citytrip-charleroi"
+   ]
+  },
+  {
+   "id": "templiers",
+   "cat": "ye",
+   "area": "charleroi",
+   "title": "Have a Chimay with the locals at Les Templiers",
+   "desc": "Tucked beneath the belfry, this brasserie is a favourite of the Carolos, serving regional dishes and Hainaut beers such as Chimay.",
+   "tip": "Drop in after seeing the town hall and Saint-Christophe; it is where Carolos meet for a beer on the upper town square.",
+   "q": "Les Templiers Charleroi",
+   "ll": [
+    50.4118,
+    4.4442
+   ],
+   "src": [
+    "https://www.touring.be/fr/articles/10-astuces-pour-un-super-citytrip-charleroi"
+   ]
+  },
+  {
+   "id": "carolostreetart",
+   "cat": "dene",
+   "area": "charleroi",
+   "title": "Walk the Carolo Street Art Tour",
+   "desc": "This free self-guided route climbs 5.4 km from the lower town to the upper town past 19 stops with murals, sculptures and painted electricity boxes by artists such as HuskMitNavn and Sixe Paredes.",
+   "tip": "Pick up the map at the tourist office in Charleroi-Sud station; QR codes at each stop link to the artists' work. Extend it with the Urban Dream Project trail along the towpath to Marchienne.",
+   "q": "Gare de Charleroi-Sud",
+   "ll": [
+    50.4046,
+    4.4386
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://www.cm-tourisme.be/en/a/parcours-carolo-street-art-tour-1",
+    "https://visitwallonia.com/en-gb/119/blog/trendy-city-trips-and-short-breaks/trendy-urban-weekend-in-charleroi"
+   ]
+  },
+  {
+   "id": "terrilpiges",
+   "cat": "dene",
+   "area": "charleroi",
+   "title": "Watch the sunset from the Terril des Piges",
+   "desc": "This old slag heap in Dampremy, now green and wild, gives a sweeping view over Charleroi's chimneys, rail lines and other terrils. The GR412 and its Boucle Noire trail run across it.",
+   "tip": "Free to climb at any time; wear proper shoes as the black shale paths are steep and slippery after rain.",
+   "q": "Terril des Piges Dampremy",
+   "ll": [
+    50.4205,
+    4.424
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://visitwallonia.com/en-gb/content/charleroi-adventure-city-safari-new-way-discover-city",
+    "https://www.touring.be/fr/articles/10-astuces-pour-un-super-citytrip-charleroi"
+   ]
+  },
+  {
+   "id": "charleroisafari",
+   "cat": "dene",
+   "area": "charleroi",
+   "title": "Join the Charleroi Adventure city safari",
+   "desc": "Local artist Nicolas Buissart turned Charleroi's reputation as 'the ugliest city in the world' into a tour, leading visitors to a ghost metro station, industrial wastelands, old-school cafés and a slag heap.",
+   "tip": "Book well ahead via Charleroi Adventure; tours start at Charleroi station and can be adapted for families or photographers.",
+   "q": "Gare de Charleroi-Sud",
+   "ll": [
+    50.4049,
+    4.4392
+   ],
+   "src": [
+    "https://visitwallonia.com/en-gb/content/charleroi-adventure-city-safari-new-way-discover-city",
+    "https://visitwallonia.com/en-gb/119/blog/trendy-city-trips-and-short-breaks/trendy-urban-weekend-in-charleroi"
+   ]
+  },
+  {
+   "id": "beloeil",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stroll the Baroque gardens of Château de Beloeil",
+   "desc": "The princes of Ligne have lived at Beloeil since the 15th century. Their moated castle, rebuilt after a fire in 1900, sits in a vast 17th-century French garden of straight alleys, ponds and hedged garden rooms.",
+   "tip": "Castle and gardens only open in spring and summer; walk to the far end of the great pond for the classic view back to the château.",
+   "q": "Château de Beloeil",
+   "ll": [
+    50.5511,
+    3.73
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Bel%C5%93il"
+   ]
+  },
+  {
+   "id": "aulne",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander the ruins of Aulne Abbey by the Sambre",
+   "desc": "Near Thuin, the roofless Gothic church and abbey buildings of Aulne recall a powerful Cistercian community burned by French revolutionary troops in 1794. The ruins sit in a lovely bend of the Sambre.",
+   "tip": "A brewery built in the old stables makes the Abbaye d'Aulne beers, so finish with a tasting; the RAVeL path along the Sambre links Aulne to Thuin by bike.",
+   "q": "Abbaye d'Aulne Gozée",
+   "ll": [
+    50.3667,
+    4.3311
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Abbaye_d%27Aulne",
+    "https://en.wikipedia.org/wiki/Aulne_Abbey"
+   ]
+  },
+  {
+   "id": "museedumasque",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Meet the Gilles off-season at Binche's Mask Museum",
+   "desc": "Right in the heart of carnival town, this museum brings the Binche carnival and its Gilles to life with archives, sound and film, then widens out to masks from European winter festivals, the Americas, Africa, Asia and Oceania.",
+   "tip": "It lies just off the Grand-Place on rue Saint-Moustier; book a guided tour to get the stories behind the Gille costume, and stop at the museum café.",
+   "q": "Musée international du Carnaval et du Masque Binche",
+   "ll": [
+    50.4101,
+    4.1649
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://visitwallonia.com/en-gb/3/i-love/heritage-and-culture/museums/international-carnival-and-mask-museum-binche/12799"
+   ]
+  },
+  {
+   "id": "lessinesrose",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Step into the medieval hospital of Notre-Dame à la Rose in Lessines",
+   "desc": "Founded in the 13th century by Alix de Rosoit, this hospital kept caring for patients until 1980. Today some twenty rooms, a cloister, a chapel and herb gardens show how a self-sufficient medieval hospital worked.",
+   "tip": "Don't skip the 19th-century medical instruments and the medicinal plant garden; Lessines is reachable by train from Ath.",
+   "q": "Hôpital Notre-Dame à la Rose Lessines",
+   "ll": [
+    50.7121,
+    3.8356
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/H%C3%B4pital_Notre-Dame_%C3%A0_la_Rose"
+   ]
+  },
+  {
+   "id": "soignies",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Feel the weight of a thousand years in Soignies' collegiate church",
+   "desc": "Begun around 1020, the Collégiale Saint-Vincent in Soignies is one of the grandest Romanesque churches in Belgium, with a massive lantern tower and Baroque fittings added in the 1620s.",
+   "tip": "Soignies is a short train ride from Mons; look up at the restored lantern tower before stepping inside.",
+   "q": "Collégiale Saint-Vincent Soignies",
+   "ll": [
+    50.5791,
+    4.0698
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Coll%C3%A9giale_Saint-Vincent_de_Soignies"
+   ]
+  },
+  {
+   "id": "poteaupre",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Pair Chimay beer and cheese at the Auberge de Poteaupré",
+   "desc": "A few hundred metres from Scourmont Abbey near Chimay, the monks' official inn serves the Trappist beers with the abbey's own cheeses. The Chimay Experience next door explains how both are made.",
+   "tip": "A visit to the exhibition includes a small Chimay at the inn; the shop sells cheeses that are hard to find elsewhere.",
+   "q": "Auberge de Poteaupré Bourlers",
+   "ll": [
+    49.9873,
+    4.342
+   ],
+   "src": [
+    "https://chimay.com/en/espace-chimay-2/",
+    "https://en.wikipedia.org/wiki/Scourmont_Abbey"
+   ]
+  },
+  {
+   "id": "chanteole",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Toast with Hainaut bubbles at the Chant d'Éole vineyard",
+   "desc": "Since 2013 this vineyard at Quévy-le-Grand, south of Mons, has made traditional-method sparkling wines, including a Blanc de Blancs and a rosé, proof that Belgium can do bubbles.",
+   "tip": "Group visits explain the traditional method; the estate is a short drive from Mons towards the French border.",
+   "q": "Domaine du Chant d'Éole Quévy-le-Grand",
+   "ll": [
+    50.366,
+    3.923
+   ],
+   "src": [
+    "https://visitwallonia.com/en-gb/3/where-to-go-in-wallonia/gateway-towns/mons/a-taste-of-mons"
+   ]
+  },
+  {
+   "id": "goutermatrimonial",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Join the matchmaking tea party of Écaussinnes",
+   "desc": "Every Whit Monday since 1903, the young women of Écaussinnes, the 'Cité de l'Amour', invite single young men to a goûter matrimonial. It began as a joke and is now recognised as oral and intangible heritage.",
+   "tip": "Combine it with the 12th-century castle of Écaussinnes-Lalaing that towers over the village square.",
+   "q": "Écaussinnes",
+   "ll": [
+    50.567,
+    4.17
+   ],
+   "months": [
+    5,
+    6
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/%C3%89caussinnes"
+   ]
+  },
+  {
+   "id": "platetaille",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the glass skywalk on the Plate Taille dam",
+   "desc": "The Eau d'Heure lakes form Belgium's largest lake area. A guided tour goes inside the country's biggest dam and up its tower, where glass floors hang over a drop of more than 100 metres.",
+   "tip": "Tours start at the visitor centre on Route de la Plate Taille in Froidchapelle; walk or cycle one of the flat RAVeL loops around the lakes afterwards.",
+   "q": "Barrage de la Plate Taille Boussu-lez-Walcourt",
+   "ll": [
+    50.1893,
+    4.3727
+   ],
+   "src": [
+    "https://visitwallonia.com/en-gb/content/lac-de-l-eau-d-heure-water-everywhere",
+    "https://en.wikipedia.org/wiki/Lacs_de_l%27Eau_d%27Heure"
+   ]
+  },
+  {
+   "id": "enghienpark",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Get lost in the Arenberg park at Enghien",
+   "desc": "The 182-hectare park laid out by the Arenberg family in the 17th century hides ponds, a Chinese pavilion, a walled flower garden and the Pavillon des Sept Étoiles, an observatory set in a seven-sided garden.",
+   "tip": "Visit in late summer when the dahlia conservatory, with some 540 varieties, is in full bloom.",
+   "q": "Parc d'Enghien",
+   "ll": [
+    50.6928,
+    4.0411
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Parc_d%27Enghien"
+   ]
+  },
+  {
+   "id": "canalboats",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Pilot your own boat to the oldest lift on the Canal du Centre",
+   "desc": "From the Cantine des Italiens in Houdeng-Goegnies, small electric boats glide up the oldest stretch of the historic Canal du Centre to hydraulic lift no. 1 of 1888, part of a UNESCO World Heritage Site.",
+   "tip": "No licence is needed but booking is, and you should be at the ticket desk 15 minutes early; the same building houses a small museum about Italian immigration.",
+   "q": "Cantine des Italiens Houdeng-Goegnies",
+   "ll": [
+    50.4806,
+    4.143
+   ],
+   "src": [
+    "https://www.info-lux.com/?p=1683415"
+   ]
+  }
+ ],
+ "fix": []
+}

@@ -49,6 +49,7 @@ window.MOVED = {
 "brussel/tournaicathedral": "mons/tournaicathedral",
 "brussel/villers": "namur/villers",
 "brussel/waterloo": "namur/waterloo",
+"denbosch/maashorst": "arnhem/maashorst",
 "eindhoven/baarle": "breda/baarle",
 "eindhoven/biesbosch": "breda/biesbosch",
 "eindhoven/binnendieze": "denbosch/binnendieze",

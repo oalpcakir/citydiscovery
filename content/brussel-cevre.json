@@ -1,0 +1,158 @@
+{
+  "new": [
+    { "id": "gaasbeek", "cat": "gor", "area": "cevre", "title": "Storm the fairy-tale castle of Gaasbeek",
+      "desc": "On a hill in the Pajottenland near Lennik, this castle looks medieval but owes its storybook towers to a 19th-century makeover ordered by the Marquise Arconati Visconti, who later left it and her art collection to the nation.",
+      "tip": "Even when the museum rooms are closed, the 50-hectare park is open to wander; pair it with a lambic stop in the nearby Pajottenland villages.",
+      "q": "Kasteel van Gaasbeek Lennik", "ll": [50.7967, 4.1972],
+      "src": ["https://en.wikipedia.org/wiki/Gaasbeek_Castle"] },
+
+    { "id": "beerselcastle", "cat": "gor", "area": "cevre", "title": "Circle the moated brick castle of Beersel",
+      "desc": "Beersel's water castle, with three hulking towers rising straight out of the moat, is one of the best-preserved medieval castles in Belgium and unusual for being built almost entirely of brick.",
+      "tip": "It is a short walk from Beersel station on the line from Brussels-Midi; combine it with a glass of geuze at the 3 Fonteinen tasting room in nearby Lot.",
+      "q": "Kasteel van Beersel", "ll": [50.7657, 4.2999],
+      "src": ["https://en.wikipedia.org/wiki/Beersel_Castle"] },
+
+    { "id": "diestbegijnhof", "cat": "gor", "area": "cevre", "title": "Slip through the Baroque gate of Diest's begijnhof",
+      "desc": "Behind a 17th-century gate topped by a Madonna lies a quiet walled village of whitewashed beguine houses, a church of Saint Catherine and an old water pump, part of the UNESCO-listed Flemish béguinages.",
+      "tip": "Entry is free and the lanes are always open; come early in the morning, then walk on to the Warande park and the Webbekoms Broek nature reserve next door.",
+      "q": "Begijnhof Diest", "ll": [50.9893, 5.0561], "tags": ["free"],
+      "src": ["https://travel.bhushavali.com/2021/06/things-to-do-in-diest-travel-guide.html"] },
+
+    { "id": "driefonteinen", "cat": "ye", "area": "cevre", "title": "Sip oude geuze at 3 Fonteinen in Lot",
+      "desc": "In the village of Lot, part of Beersel, one of the great lambic houses runs its lambik-O-droom: a tasting room and garden terrace that looks onto the barrel room where its geuze and kriek mature.",
+      "tip": "It opens to the public at the end of the week only; take the train from Brussels-Midi to Lot (about 10 minutes) and walk five minutes. Barrel-room tours must be booked well ahead.",
+      "q": "3 Fonteinen lambik-O-droom Lot Beersel", "ll": [50.7640, 4.2745],
+      "src": ["https://www.3fonteinen.be/en/contact/"] },
+
+    { "id": "boonlembeek", "cat": "ye", "area": "cevre", "title": "Count the giant oak foeders at Boon in Lembeek",
+      "desc": "Brouwerij Boon in Lembeek, near Halle, keeps what it calls the world's largest stock of lambic, aging in over a hundred huge oak vats, some standing outside on the banks of the Zenne. Frank Boon is credited with helping save the style.",
+      "tip": "The multi-storey Boon Bar pours and sells on a few days a week; Lembeek station is a direct train from Brussels and the brewery is a three-minute walk away.",
+      "q": "Brouwerij Boon Lembeek", "ll": [50.7119, 4.2232],
+      "src": ["https://drinkbelgianbeer.com/breweries/a-visit-to-brouwerij-boon"] },
+
+    { "id": "grimbergenabbey", "cat": "ye", "area": "cevre", "title": "Drink abbey beer brewed in Grimbergen Abbey again",
+      "desc": "The canons of Grimbergen, whose phoenix emblem promises 'burned but not consumed', saw brewing return to their abbey in 2021 after more than two centuries. The visitor experience covers the brewery and the abbey gardens, ending with a tasting.",
+      "tip": "Step into the Baroque Sint-Servaas basilica next door before or after; Grimbergen is under 20 minutes north of Brussels.",
+      "q": "Grimbergen Abbey Brewery Abdijstraat Grimbergen", "ll": [50.9336, 4.3718],
+      "src": ["https://bruxellessecrete.com/en/grimbergen-abbey-brussels/"] },
+
+    { "id": "dehoorn", "cat": "ye", "area": "cevre", "title": "Eat among the brew kettles of the old Stella brewery in Leuven",
+      "desc": "De Hoorn occupies the former Stella Artois brewery, so you dine next to the old copper kettles. Order the stoverij simmered in abbey beer or the burger with a Stella dressing.",
+      "tip": "Grab a table on the terrace overlooking the Sluispark on a warm evening; it is a pleasant walk from the Oude Markt along the canal side of town.",
+      "q": "De Hoorn Sluisstraat Leuven", "ll": [50.8854, 4.7065],
+      "src": ["https://visitleuven.be/en/blog/beer-foodies"] },
+
+    { "id": "hal5", "cat": "dene", "area": "cevre", "title": "Hang out at Hal 5, Leuven's reborn railway hall",
+      "desc": "A former railway hall just behind Leuven station has been turned into a lively hangout with a bakery, market, food stands and a bar, a local favourite that most day-trippers never find.",
+      "tip": "Time your visit for the monthly Camping Flamingo flea market, and try the falafel from Habibi, which Leuveners swear is the best in the country.",
+      "q": "Hal 5 Kessel-Lo Leuven", "ll": [50.8826, 4.7200], "tags": ["rainy day"],
+      "src": ["https://visitleuven.be/en/blog/hidden-gems"] },
+
+    { "id": "villers", "cat": "gor", "area": "cevre", "title": "Roam the roofless Cistercian abbey of Villers-la-Ville",
+      "desc": "Founded in 1146 by monks from Clairvaux and abandoned after the French Revolution, Villers Abbey is now one of the most romantic ruin sites in Europe, with soaring Gothic arches open to the sky.",
+      "tip": "In summer the ruins host the Nuit des Choeurs choir festival under the stars; the abbey has its own little train stop on the Ottignies to Charleroi line.",
+      "q": "Abbaye de Villers-la-Ville", "ll": [50.5906, 4.5297],
+      "src": ["https://en.wikipedia.org/wiki/Villers_Abbey"] },
+
+    { "id": "nivellesgertrude", "cat": "gor", "area": "cevre", "title": "Feel the Ottonian scale of Sainte-Gertrude in Nivelles",
+      "desc": "Consecrated in 1046 for the abbey founded by Saint Gertrude, the collegiate church of Nivelles is a rare, huge Romanesque church in the Ottonian style. It was badly hit in 1940 and painstakingly rebuilt.",
+      "tip": "It faces the Grand-Place, so follow it with a slice of tarte al djote at a table opposite the church.",
+      "q": "Collégiale Sainte-Gertrude Nivelles", "ll": [50.5975, 4.3233], "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Collegiate_Church_of_St._Gertrude,_Nivelles"] },
+
+    { "id": "djote", "cat": "ye", "area": "cevre", "title": "Taste a tarte al djote in Nivelles",
+      "desc": "Nivelles' own savoury tart, filled with chard ('djote' in Walloon) and the local boulette cheese, has been mentioned since 1218. A confrérie still blind-tastes the makers every year and hands out stars.",
+      "tip": "Taverne L'Union on the Grand-Place, opposite the collegiate church, is one of the top-rated; spread a little butter on the hot slice like the locals.",
+      "q": "Taverne L'Union Grand-Place Nivelles", "ll": [50.5980, 4.3240],
+      "src": ["https://en.wikipedia.org/wiki/Tarte_al_d%27jote", "https://www.dhnet.be/regions/brabant/2026/02/04/on-ira-tous-tous-tous-mindgi-del-tarte-al-djote-voici-les-meilleures-tarte-al-djote-de-belgique-QQG2ODU2QZBRBFRAGBH7ZJRFSU/"] },
+
+    { "id": "herge", "cat": "gor", "area": "cevre", "title": "Meet Tintin's creator at the Musée Hergé in Louvain-la-Neuve",
+      "desc": "Christian de Portzamparc's ship-like building on the edge of a park holds eight rooms on Hergé's life and work, with original plates, photos and objects, crossed by footbridges over a bright atrium.",
+      "tip": "The visit starts on the top floor. Entry is free on the first Sunday of the month, and it is a three-minute walk from Louvain-la-Neuve station.",
+      "q": "Musée Hergé Louvain-la-Neuve", "ll": [50.6697, 4.6115], "tags": ["rainy day"],
+      "src": ["https://www.destinationbw.be/en/discover/must-sees/herge-museum/"] },
+
+    { "id": "genval", "cat": "dene", "area": "cevre", "title": "Walk the loop around Lac de Genval",
+      "desc": "Brussels' favourite weekend lake lies just south of the city in Rixensart, ringed by grand old villas, shady trees and waterside cafés, with swans and coots on the water.",
+      "tip": "The flat loop is about 4 km; hire a canoe or stop for an ice cream on the way round. Genval station has direct trains from Brussels.",
+      "q": "Lac de Genval Rixensart", "ll": [50.7220, 4.5010], "tags": ["free"],
+      "src": ["https://www.destinationbw.be/en/fiche/discovery-and-recreation/lake-of-genval-rixensart_TFOALD-1H-000SAB/"] },
+
+    { "id": "grandhornu", "cat": "gor", "area": "cevre", "title": "Stand in the great oval courtyard of Grand-Hornu",
+      "desc": "Built by Henri De Gorge between 1810 and 1830, this coal-mining complex near Mons is a showpiece of early industrial town planning, with an elegant brick courtyard and workers' houses. It is now a UNESCO site hosting exhibitions.",
+      "tip": "Contemporary art shows run in the old buildings; walk the surrounding streets to see the original miners' terraces.",
+      "q": "Grand-Hornu Boussu", "ll": [50.4353, 3.8394],
+      "src": ["https://en.wikipedia.org/wiki/Grand-Hornu"] },
+
+    { "id": "boisducazier", "cat": "gor", "area": "cevre", "title": "Remember the miners at Bois du Cazier in Marcinelle",
+      "desc": "On 8 August 1956 a fire at this Charleroi coal mine killed 262 men, many of them Italian immigrants. The pithead is now a moving memorial and museum, with a glass museum on the same site.",
+      "tip": "Afterwards climb the landscaped slag heaps behind the mine for a view over the Charleroi basin.",
+      "q": "Bois du Cazier Marcinelle", "ll": [50.3811, 4.4433], "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Bois_du_Cazier"] },
+
+    { "id": "tournaicathedral", "cat": "gor", "area": "cevre", "title": "Count the five towers of Tournai's cathedral",
+      "desc": "Notre-Dame de Tournai crowns the city with an extraordinary cluster of five bell towers over its transept. The cathedral is a UNESCO World Heritage Site and has been under careful restoration since a 1999 tornado.",
+      "tip": "Admire the towers from the Grand-Place, then climb Belgium's oldest belfry nearby for the full view.",
+      "q": "Cathédrale Notre-Dame de Tournai", "ll": [50.6066, 3.3889], "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Tournai_Cathedral"] },
+
+    { "id": "thuin", "cat": "gor", "area": "cevre", "title": "Climb through the hanging gardens of Thuin",
+      "desc": "Below the ramparts of Thuin's upper town, terraced gardens and vineyards cling to the rock, linked by steep alleys and stairways. The sun-trapping walls even ripen grapes for a sweet local wine.",
+      "tip": "Climb up from the riverside lower town, once home to Sambre boatmen, to the UNESCO-listed belfry at the top.",
+      "q": "Jardins suspendus de Thuin", "ll": [50.3388, 4.2870], "tags": ["free"],
+      "src": ["https://focusonbelgium.be/en/lifestyle/stroll-through-hanging-gardens-thuin", "https://bruxellessecrete.com/en/thuin-wallonia-brussels/"] },
+
+    { "id": "stfeuillien", "cat": "ye", "area": "cevre", "title": "Taste a Grisette at the St-Feuillien brewery in Le Roeulx",
+      "desc": "The Friart family has brewed in Le Roeulx, between Mons and La Louvière, since 1873. A tour shows old equipment from 1893 next to the modern brewhouse, and ends with a tasting of their abbey beers or a light Grisette.",
+      "tip": "Book your tour online, as places are limited; combine it with the giant boat lift at Strépy-Thieu a few minutes away.",
+      "q": "Brasserie St-Feuillien Le Roeulx", "ll": [50.5040, 4.1095],
+      "src": ["https://visitwallonia.com/content/brasserie-saint-feuillien-le-roeulx"] },
+
+    { "id": "lapintournai", "cat": "ye", "area": "cevre", "title": "Eat rabbit with prunes on Tournai's Lundi Perdu",
+      "desc": "On the 'lost Monday' after Epiphany, Tournai families gather for a rabbit supper, a tradition now recognised as oral and intangible heritage. Lapin à la tournaisienne is stewed with prunes and raisins.",
+      "tip": "Restaurants on the Grand-Place serve the dish beyond January too; ask for the salade tournaisienne on the side.",
+      "q": "Grand-Place Tournai", "ll": [50.6060, 3.3878], "months": [1],
+      "src": ["https://www.rtbf.be/article/le-souper-du-lapin-du-lundi-perdu-chef-d-uvre-de-la-federation-wallonie-bruxelles-10834842", "https://www.rtbf.be/article/recette-de-candice-lapin-a-la-tournaisienne-10545139"] },
+
+    { "id": "monsmonkey", "cat": "dene", "area": "cevre", "title": "Stroke the lucky monkey on Mons town hall",
+      "desc": "A tiny iron monkey crouches by the door of the town hall on the Grand-Place of Mons, its head polished bright by passers-by. Nobody is sure where it came from, but since 1930 it has been the city's lucky charm.",
+      "tip": "It only works with your left hand: that is said to bring a year of happiness.",
+      "q": "Singe du Grand Garde Hôtel de Ville Mons", "ll": [50.4543, 3.9519], "tags": ["free"],
+      "src": ["https://www.visitmons.be/en/que-faire/article/the-grand-guard-monkey-020939"] },
+
+    { "id": "doudou", "cat": "dene", "area": "cevre", "title": "Push the Car d'Or up the hill at the Doudou in Mons",
+      "desc": "At the Ducasse, the gilded Car d'Or carrying Saint Waltrude's relics must climb the steep ramp to the collegiate church in one go, with the crowd pushing behind. Then Saint George fights the dragon in the Lumeçon on the Grand-Place.",
+      "tip": "It happens on Trinity Sunday weekend (late May or June); stake out a spot early for the half-hour Lumeçon, as the square fills fast.",
+      "q": "Collégiale Sainte-Waudru Mons", "ll": [50.4537, 3.9467], "months": [5, 6], "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Ducasse_de_Mons"] },
+
+    { "id": "binche", "cat": "dene", "area": "cevre", "title": "Catch an orange from the Gilles at the Binche carnival",
+      "desc": "On Shrove Tuesday, hundreds of Gilles in wax masks, ostrich-plume hats and clogs dance through Binche, throwing oranges into the crowd. The carnival goes back centuries and is UNESCO-listed intangible heritage.",
+      "tip": "Being hit by an orange counts as an honour, so never throw one back; arrive early in the morning to see the Gilles gathering.",
+      "q": "Grand-Place Binche", "ll": [50.4108, 4.1653], "months": [2, 3], "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Carnival_of_Binche"] },
+
+    { "id": "athgiants", "cat": "dene", "area": "cevre", "title": "Watch the giants dance at the Ducasse d'Ath",
+      "desc": "On the fourth weekend of August, Ath's giants, still carried on men's backs, parade through the 'City of Giants'. Goliath, called Gouyasse, gets married on Saturday and battles little David on Sunday.",
+      "tip": "Outside festival time, the Maison des Géants museum shows how the giants are built; try a mastelle tart after the battle.",
+      "q": "Maison des Géants Ath", "ll": [50.6288, 3.7799], "months": [8],
+      "src": ["https://visitwallonia.com/en-gb/content/ducasse-ath-when-giants-dance-city"] },
+
+    { "id": "pairidaiza", "cat": "dene", "area": "cevre", "title": "Spend a day among the animals at Pairi Daiza",
+      "desc": "Built in the grounds of the old Cistercian abbey of Cambron in Brugelette, this zoo and botanical garden mixes thousands of animals with themed worlds and medieval abbey ruins.",
+      "tip": "It is big enough for a full day; start early and look out for the old abbey tower among the enclosures.",
+      "q": "Pairi Daiza Brugelette", "ll": [50.5847, 3.8872],
+      "src": ["https://en.wikipedia.org/wiki/Pairi_Daiza"] },
+
+    { "id": "strepythieu", "cat": "dene", "area": "cevre", "title": "Watch boats rise 73 metres at the Strépy-Thieu lift",
+      "desc": "This giant boat lift on the Canal du Centre raises barges 73 metres in a few minutes, and was the tallest in the world until 2016. Nearby, the four Victorian hydraulic lifts it replaced are a UNESCO World Heritage Site.",
+      "tip": "Walk or cycle the old canal towpath between Thieu and Houdeng-Goegnies to see the historic lifts one after another.",
+      "q": "Ascenseur funiculaire de Strépy-Thieu", "ll": [50.4781, 4.1100], "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Str%C3%A9py-Thieu_boat_lift", "https://en.wikipedia.org/wiki/Canal_du_Centre_(Belgium)"] }
+  ],
+  "fix": [
+    { "id": "waterloo", "problem": "The Lion's Mound is in Braine-l'Alleud, not in the town of Waterloo; the quest text implies it is in Waterloo. Rest of the content (226 steps, museum and panorama on one ticket) checks out.",
+      "suggestion": "Mention Braine-l'Alleud in desc or tip (e.g. 'just south of Waterloo, in Braine-l'Alleud'); optionally set q to 'Butte du Lion Braine-l'Alleud'. Coordinates: 50.6783, 4.4047.",
+      "src": "https://en.wikipedia.org/wiki/Lion%27s_Mound" }
+  ]
+}

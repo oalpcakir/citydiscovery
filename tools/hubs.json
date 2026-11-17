@@ -1,0 +1,65 @@
+{
+  "_comment": "Hub cities. Every municipality (NL) / arrondissement (BE) joins the hub you reach fastest by road in the same country. 'points' are where travel times are measured from (two for twin-city regions). 'new' holds the metadata used to create a region file the first time.",
+  "_overrides": { "_why": "Units whose fastest hub by a few minutes is not where people would naturally start from.", "NL:GM0400": "amsterdam", "NL:GM0448": "amsterdam" },
+  "amsterdam": { "country": "NL", "points": [[52.3731, 4.8922]] },
+  "rotterdam": { "country": "NL", "points": [[51.9225, 4.4792]] },
+  "denhaag": { "country": "NL", "points": [[52.0786, 4.2989]] },
+  "utrecht": { "country": "NL", "points": [[52.0907, 5.1214]] },
+  "eindhoven": { "country": "NL", "points": [[51.4416, 5.4697]], "subtitle": "& the Kempen" },
+  "arnhem": { "country": "NL", "points": [[51.9851, 5.8987], [51.8126, 5.8372]] },
+  "maastricht": { "country": "NL", "points": [[50.8514, 5.6910]] },
+  "zwolle": { "country": "NL", "points": [[52.5168, 6.0830]], "subtitle": "& Salland" },
+  "groningen": { "country": "NL", "points": [[53.2194, 6.5665]], "subtitle": "& Drenthe" },
+  "leeuwarden": { "country": "NL", "points": [[53.2012, 5.7999]], "new": {
+    "name": "Leeuwarden", "subtitle": "& Friesland",
+    "levels": ["Tourist", "Newcomer", "Curious", "Neighbour", "Frisian at heart", "Echte Fries"],
+    "areas": { "merkez": { "label": "Leeuwarden", "center": [53.2012, 5.7999], "km": 3.5, "icon": "🐄", "badge": "Us Mem's Friend" },
+               "cevre": { "label": "Friesland & islands", "icon": "⛵", "badge": "Skûtsje Skipper" } } } },
+  "middelburg": { "country": "NL", "points": [[51.4988, 3.6136]], "new": {
+    "name": "Middelburg", "subtitle": "& Zeeland",
+    "levels": ["Tourist", "Newcomer", "Curious", "Neighbour", "Zeeuw at heart", "Echte Zeeuw"],
+    "areas": { "merkez": { "label": "Middelburg", "center": [51.4988, 3.6136], "km": 3, "icon": "🏛️", "badge": "Abbey Insider" },
+               "cevre": { "label": "Zeeland", "icon": "🦪", "badge": "Delta Diver" } } } },
+  "enschede": { "country": "NL", "points": [[52.2215, 6.8937]], "new": {
+    "name": "Enschede", "subtitle": "& Twente",
+    "levels": ["Tourist", "Newcomer", "Curious", "Neighbour", "Tukker at heart", "Echte Tukker"],
+    "areas": { "merkez": { "label": "Enschede", "center": [52.2215, 6.8937], "km": 4, "icon": "🧵", "badge": "Textile Town Regular" },
+               "cevre": { "label": "Twente", "icon": "🌳", "badge": "Twente Rambler" } } } },
+  "denbosch": { "country": "NL", "points": [[51.6978, 5.3037]], "new": {
+    "name": "'s-Hertogenbosch", "subtitle": "& surroundings",
+    "levels": ["Tourist", "Newcomer", "Curious", "Neighbour", "Bosschenaar", "Echte Bosschenaar"],
+    "areas": { "merkez": { "label": "Den Bosch", "center": [51.6978, 5.3037], "km": 3.5, "icon": "🐉", "badge": "Dragon Guard" },
+               "cevre": { "label": "Surroundings", "icon": "🌾", "badge": "Meierij Explorer" } } } },
+  "breda": { "country": "NL", "points": [[51.5719, 4.7683], [51.5555, 5.0913]], "new": {
+    "name": "Breda & Tilburg", "subtitle": "& West Brabant",
+    "levels": ["Tourist", "Newcomer", "Curious", "Neighbour", "Brabander", "Echte Brabander"],
+    "areas": { "breda": { "label": "Breda", "center": [51.5880, 4.7760], "km": 4, "icon": "🏰", "badge": "Nassau Knight" },
+               "tilburg": { "label": "Tilburg", "center": [51.5606, 5.0919], "km": 4.5, "icon": "🎡", "badge": "Kruikenzeiker" },
+               "cevre": { "label": "Surroundings", "icon": "🌲", "badge": "Brabant Wanderer" } } } },
+  "brussel": { "country": "BE", "points": [[50.8467, 4.3525]] },
+  "antwerpen": { "country": "BE", "points": [[51.2194, 4.4025]], "subtitle": "& the Kempen" },
+  "gent": { "country": "BE", "points": [[51.0543, 3.7174]] },
+  "brugge": { "country": "BE", "points": [[51.2093, 3.2247]] },
+  "luik": { "country": "BE", "points": [[50.6326, 5.5797]], "subtitle": "& the East Cantons" },
+  "leuven": { "country": "BE", "points": [[50.8798, 4.7005]], "new": {
+    "name": "Leuven", "subtitle": "& Flemish Brabant",
+    "levels": ["Tourist", "Newcomer", "Curious", "Neighbour", "Leuvenaar", "Echte Leuvenaar"],
+    "areas": { "merkez": { "label": "Leuven", "center": [50.8798, 4.7005], "km": 3.5, "icon": "🍺", "badge": "Oude Markt Regular" },
+               "cevre": { "label": "Hageland & surroundings", "icon": "🍇", "badge": "Hageland Hiker" } } } },
+  "mons": { "country": "BE", "points": [[50.4542, 3.9567], [50.4108, 4.4446]], "new": {
+    "name": "Mons & Charleroi", "subtitle": "& Hainaut",
+    "levels": ["Tourist", "Newcomer", "Curious", "Neighbour", "Hennuyer", "Vrai Hennuyer"],
+    "areas": { "mons": { "label": "Mons", "center": [50.4542, 3.9567], "km": 3.5, "icon": "🐒", "badge": "Lucky Monkey" },
+               "charleroi": { "label": "Charleroi", "center": [50.4108, 4.4446], "km": 5, "icon": "⛏️", "badge": "Pays Noir Pioneer" },
+               "cevre": { "label": "Hainaut", "icon": "🎭", "badge": "Carnival Gille" } } } },
+  "hasselt": { "country": "BE", "points": [[50.9307, 5.3325]], "new": {
+    "name": "Hasselt", "subtitle": "& Limburg",
+    "levels": ["Tourist", "Newcomer", "Curious", "Neighbour", "Hasselaar", "Echte Limburger"],
+    "areas": { "merkez": { "label": "Hasselt", "center": [50.9307, 5.3325], "km": 3.5, "icon": "🍸", "badge": "Jenever Judge" },
+               "cevre": { "label": "Limburg", "icon": "🌸", "badge": "Blossom Cyclist" } } } },
+  "namur": { "country": "BE", "points": [[50.4674, 4.8720]], "new": {
+    "name": "Namur", "subtitle": "& the Ardennes",
+    "levels": ["Tourist", "Newcomer", "Curious", "Neighbour", "Namurois", "Vrai Namurois"],
+    "areas": { "merkez": { "label": "Namur", "center": [50.4674, 4.8720], "km": 3.5, "icon": "🏯", "badge": "Citadel Keeper" },
+               "cevre": { "label": "Meuse valley & Ardennes", "icon": "🛶", "badge": "Ardennes Ranger" } } } }
+}

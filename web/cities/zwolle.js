@@ -1,12 +1,13 @@
 // Quests for the Zwolle region.
 // cat: gor (see) | ye (eat & drink) | dene (do); area: a key of `areas`;
-// months: only for quests tied to certain months (1-12). To add a region, copy a file like this,
-// change the id, add a <script> line to index.html and re-run tools/build_regions.py.
+// months: only for quests tied to certain months (1-12). To add a region, add a hub to tools/hubs.json
+// and run tools/rebuild_regions.py and tools/reassign_quests.py.
+
 window.CITIES = window.CITIES || {};
 window.CITIES.zwolle = {
   id: "zwolle",
   name: "Zwolle",
-  subtitle: "& the IJssel",
+  subtitle: "& Salland",
   country: "Netherlands",
   levels: ["Tourist", "Newcomer", "Curious", "Local", "Zwollenaar", "Echte Blauwvinger"],
   areas: {
@@ -17,26 +18,24 @@ window.CITIES.zwolle = {
     cevre: "Surroundings"
   },
   // Map view when the region opens (the main city) and quest positions [lat, lng].
-  bounds: [[52.490, 6.055], [52.545, 6.140]],
+  bounds: [[52.49, 6.055], [52.545, 6.14]],
   coords: {
-    peperbus: [52.5117, 6.0917], fundatie: [52.5105, 6.0927], sassenpoort: [52.5097, 6.0957], glazenengel: [52.5123, 6.0940],
-    balletjes: [52.5120, 6.0947], blauwvingers: [52.5127, 6.0932], waanders: [52.5138, 6.0952], stadsgracht: [52.5141, 6.0890],
-    assendorp: [52.5078, 6.1000], bevrijding: [52.5081, 6.1083],
-    engelsewerk: [52.4941, 6.0690], hanzeboog: [52.4920, 6.0690],
-    agnietenberg: [52.5365, 6.1265], pec: [52.5170, 6.1197],
-    kampen: [52.5591, 5.9161], zutphen: [52.1398, 6.1958], deventerkoek: [52.2517, 6.1603], dickens: [52.2520, 6.1632],
-    hattem: [52.4746, 6.0713], urk: [52.6633, 5.6220], giethoorn: [52.7222, 6.0898], weerribben: [52.8065, 5.9285],
+    peperbus: [52.5117, 6.0917], fundatie: [52.5105, 6.0927], sassenpoort: [52.5097, 6.0957],
+    glazenengel: [52.5123, 6.0940], assendorp: [52.5078, 6.1000], engelsewerk: [52.4941, 6.0690],
+    kampen: [52.5591, 5.9161], balletjes: [52.5120, 6.0947], blauwvingers: [52.5127, 6.0932],
+    waanders: [52.5138, 6.0952], deventerkoek: [52.2517, 6.1603], hattem: [52.4746, 6.0713],
+    urk: [52.6633, 5.6220], stadsgracht: [52.5141, 6.0890], bevrijding: [52.5081, 6.1083],
+    hanzeboog: [52.4920, 6.0690], agnietenberg: [52.5365, 6.1265], pec: [52.5170, 6.1197],
+    dickens: [52.2520, 6.1632], giethoorn: [52.7222, 6.0898], weerribben: [52.8065, 5.9285],
     bonami: [52.5225, 6.1214], vrouwenhuis: [52.5130, 6.0897], anno: [52.5129, 6.0909],
     celehof: [52.5133, 6.0947], stadstorens: [52.5142, 6.0976], beugeltje: [52.5142, 6.0945],
     refter: [52.5130, 6.0914], zaterdagmarkt: [52.5122, 6.0937], librijewinkel: [52.5156, 6.0979],
     laarzenpad: [52.5211, 6.0280], streetartassendorp: [52.5065, 6.0993], anningahof: [52.5270, 6.1604],
-    lebuinustoren: [52.2522, 6.1542], schokland: [52.6342, 5.7778], twickel: [52.2664, 6.7150],
-    rijksmuseumtwenthe: [52.2278, 6.8969], plechelmus: [52.3125, 6.9283], canadesebegraafplaats: [52.2995, 6.4280],
-    blokzijl: [52.7263, 5.9593], urkvissersmonument: [52.6626, 5.5929], stommevancampen: [52.5615, 5.9139],
-    pelikaan: [52.1395, 6.1983], cambrinus: [52.1383, 6.1967], chocoladehattem: [52.4757, 6.0688],
-    twentsebier: [52.2560, 6.7905], boekenmarkt: [52.2570, 6.1450], kamperkogge: [52.5628, 5.9102],
-    zutphenhofjes: [52.1412, 6.1970], vloggelen: [52.4081, 6.8973], paasvuurespelo: [52.3020, 6.4230],
-    corsovollenhove: [52.6807, 5.9491], sallandseheuvelrug: [52.3544, 6.4635], eerde: [52.4810, 6.4791]
+    lebuinustoren: [52.2522, 6.1542], schokland: [52.6342, 5.7778], blokzijl: [52.7263, 5.9593],
+    urkvissersmonument: [52.6626, 5.5929], stommevancampen: [52.5615, 5.9139], chocoladehattem: [52.4757, 6.0688],
+    boekenmarkt: [52.2570, 6.1450], kamperkogge: [52.5628, 5.9102], corsovollenhove: [52.6807, 5.9491],
+    eerde: [52.4810, 6.4791], harderwijkvischpoort: [52.3516, 5.6187], elburg: [52.4494, 5.8318],
+    dwingelderveld: [52.8136, 6.4109]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -47,7 +46,6 @@ window.CITIES.zwolle = {
     cevre: { icon: "🛶", name: "Surroundings Explorer" }
   },
   quests: [
-    // ---------- SEE ----------
     { id: "peperbus", cat: "gor", area: "merkez", title: "Climb the Peperbus",
       desc: "Everyone calls the tower of the Onze-Lieve-Vrouwe basilica the 'Peperbus' (pepper pot) because of the shape of its dome. From the top you can see the star-shaped city moat and the IJssel plain.",
       tip: "The tower isn't open every day; check the climbing days in advance.", q: "Peperbus Zwolle" },
@@ -69,11 +67,6 @@ window.CITIES.zwolle = {
     { id: "kampen", cat: "gor", area: "cevre", title: "See the cow hung up the tower in Kampen",
       desc: "According to one of the jokey stories of Kampen, the Hanseatic city on the IJssel (the Kamper uien), the townspeople hauled a cow up the tower so it could eat the grass growing on top. In summer a model cow is hung from the Nieuwe Toren.",
       tip: "If you come by train, walk into town across the bridge; that's the best view of the river front and the three city gates.", q: "Nieuwe Toren Kampen", tags: ["free"] },
-    { id: "zutphen", cat: "gor", area: "cevre", title: "The chained library in Zutphen",
-      desc: "In the 16th-century Librije inside the Walburgiskerk, the books are still chained to the reading desks. One of the few chained libraries in Europe to survive in its original state.",
-      tip: "The Librije can only be visited with a guide or at set hours; check before you go.", q: "Librije Walburgiskerk Zutphen", tags: ["rainy day"] },
-
-    // ---------- EAT & DRINK ----------
     { id: "balletjes", cat: "ye", area: "merkez", title: "Taste Zwolse balletjes",
       desc: "Pillow-shaped hard candies made by hand to the same recipe since the 19th century. The recipe is still secret and they're sold only at the Zwolse Balletjeshuis on the Grote Kerkplein.",
       tip: "Ask for the classic flavour; the shop's old counter and jars are worth a look too.", q: "Zwolse Balletjeshuis Zwolle" },
@@ -92,8 +85,6 @@ window.CITIES.zwolle = {
     { id: "urk", cat: "ye", area: "cevre", title: "Eat fish in the harbour of Urk",
       desc: "Urk was an island until the sea around it was drained; its own dialect and fishing traditions are still alive. In the harbour you eat kibbeling or smoked fish, then walk to the lighthouse.",
       tip: "On Sundays the town is almost completely closed; go on another day.", q: "Haven Urk" },
-
-    // ---------- DO ----------
     { id: "stadsgracht", cat: "dene", area: "merkez", title: "Go around the star moat by water",
       desc: "Zwolle's old town is ringed by a moat that keeps its star shape. Go the full circle by boat, canoe or SUP and you see the walls, the Sassenpoort and the houseboats on the Thorbeckegracht from the water.",
       tip: "Boat tours and rentals run from around the Rodetorenplein; they operate in the warm months.", q: "Rodetorenplein Zwolle", months: [4, 5, 6, 7, 8, 9, 10] },
@@ -160,18 +151,6 @@ window.CITIES.zwolle = {
     { id: "schokland", cat: "gor", area: "cevre", title: "Stand on the vanished island of Schokland",
       desc: "Schokland was an island in the Zuiderzee until the Noordoostpolder was drained around it. The low ridge, its church and the old sea wall became the first UNESCO World Heritage Site in the Netherlands.",
       tip: "Start at Museum Schokland in the Middelbuurt, then walk along the former shoreline to feel how the island rises above the polder.", q: "Museum Schokland", src: ["https://en.wikipedia.org/wiki/Schokland"] },
-    { id: "twickel", cat: "gor", area: "cevre", title: "Stroll the gardens of Twickel near Delden",
-      desc: "Twickel is one of the great country estates of the Netherlands, with a moated castle, formal gardens, an orangery and dozens of protected farmhouses spread around Delden.",
-      tip: "In summer the orangery has a tearoom and the vegetable gardens open on set days; the castle interior is only shown for a short spell in August.", q: "Kasteel Twickel Delden", months: [4, 5, 6, 7, 8, 9, 10], src: ["https://en.wikipedia.org/wiki/Twickel"] },
-    { id: "rijksmuseumtwenthe", cat: "gor", area: "cevre", title: "Visit Rijksmuseum Twenthe in Enschede",
-      desc: "The largest art museum in the east of the country spans medieval manuscripts, Ruisdael landscapes, Impressionists and contemporary art, in the rebuilt Roombeek district.",
-      tip: "It is about a ten minute walk northeast of Enschede station; combine it with a stroll through Roombeek's new architecture.", q: "Rijksmuseum Twenthe Enschede", tags: ["rainy day"], src: ["https://en.wikipedia.org/wiki/Rijksmuseum_Twenthe"] },
-    { id: "plechelmus", cat: "gor", area: "cevre", title: "Meet the 'Oude Grijze' in Oldenzaal",
-      desc: "The Romanesque Sint-Plechelmusbasiliek dates back to the 12th century, and its sturdy tower, nicknamed the 'Oude Grijze' (old grey one), carries a 49-bell carillon.",
-      tip: "Time your visit with a carillon recital and listen from the terraces on the square around the church.", q: "Sint-Plechelmusbasiliek Oldenzaal", src: ["https://nl.wikipedia.org/wiki/Sint-Plechelmusbasiliek"] },
-    { id: "canadesebegraafplaats", cat: "gor", area: "cevre", title: "Pay respects at the Canadian War Cemetery in Holten",
-      desc: "On the wooded slope of the Holterberg lie 1,393 Canadian soldiers who fell during the liberation of the Netherlands; the rows of white headstones under the pines are deeply moving.",
-      tip: "Visit the small visitor centre first for the soldiers' stories, then continue into the Sallandse Heuvelrug on foot.", q: "Canadese Begraafplaats Holten", tags: ["free"], src: ["https://en.wikipedia.org/wiki/Sallandse_Heuvelrug_National_Park"] },
     { id: "blokzijl", cat: "gor", area: "cevre", title: "Hear the storm cannon in Blokzijl harbour",
       desc: "Blokzijl's tiny harbour is ringed by 17th-century merchant houses from its peat-trading days. The old cannon on the quay was never fired at enemies; it warned of storms and high water.",
       tip: "Combine it with Giethoorn by bike or boat; it is a much quieter harbour to sit by on a summer evening.", q: "Haven Blokzijl", tags: ["free"], src: ["https://en.wikipedia.org/wiki/Blokzijl"] },
@@ -181,41 +160,29 @@ window.CITIES.zwolle = {
     { id: "stommevancampen", cat: "ye", area: "cevre", title: "Order a De Wereld beer in the Stomme van Campen",
       desc: "Kampen once had dozens of breweries; De Wereld is the only one left, and its beer is poured in the Stomme van Campen, often called the brownest café in town.",
       tip: "Afterwards walk to the Voorstraat, where the De Olifant factory still rolls cigars, a reminder of the hundred cigar makers Kampen once had.", q: "Stomme van Campen Kampen", src: ["https://www.visithansaholland.com/hansa-towns/kampen/"] },
-    { id: "pelikaan", cat: "ye", area: "cevre", title: "Sip coffee at De Pelikaan in Zutphen",
-      desc: "De Pelikaan has been roasting coffee and selling tea since 1816 and is a royal warrant holder. Its old-fashioned shop has a small schenkerij where you drink the house blends with something sweet.",
-      tip: "Take a bag of a house blend home; Zutphen is about 45 minutes from Zwolle by train along the IJssel.", q: "De Pelikaan Pelikaanstraat Zutphen", src: ["https://www.de-pelikaan.nl/", "https://www.dutchnews.nl/2025/01/dutch-destinations-go-medieval-in-the-city-of-towers/"] },
-    { id: "cambrinus", cat: "ye", area: "cevre", title: "Drink a town beer at Cambrinus in Zutphen",
-      desc: "Hanseatic Zutphen had around forty breweries; Stadsbrouwerij Cambrinus in the heart of town is the one that survived, with a dark, medieval-feeling interior.",
-      tip: "Try the house brews after a walk past Zutphen's towers and hofjes.", q: "Stadsbrouwerij Cambrinus Zutphen", src: ["https://www.visithansaholland.com/hansa-towns/zutphen/"] },
     { id: "chocoladehattem", cat: "ye", area: "cevre", title: "Pick up chocolates under Hattem's Dijkpoort",
       desc: "Right at the foot of the 14th-century Dijkpoort, chocolate studio A3 makes its own bonbons in the little walled town that also hosts a chocolate festival every other year.",
       tip: "Cycle over from Zwolle via the IJssel bridge and pair it with the Voerman Museum's paintings of Hattem skies.", q: "A3 Chocolade Hattem", src: ["https://www.visithansaholland.com/hansa-towns/hattem/"] },
-    { id: "twentsebier", cat: "ye", area: "cevre", title: "Taste Twente beer at the brewery in Hengelo",
-      desc: "The Twentse Bierbrouwerij brews in the old Hazemeyer factory buildings, and its tasting room pours ten Twente-brewed specialty beers alongside dishes made with local products.",
-      tip: "On Saturdays there is a small tour of the brewing lab; reserve in advance.", q: "Twentse Bierbrouwerij Haaksbergerstraat Hengelo", src: ["https://www.twentsebierbrouwerijproeflokaal.nl/proeflokaal", "https://nl.wikipedia.org/wiki/Twentse_Bierbrouwerij"] },
     { id: "boekenmarkt", cat: "dene", area: "cevre", title: "Hunt for books at the Deventer Boekenmarkt",
       desc: "On one Sunday in early August, hundreds of stalls line the IJsselkade and the old streets of Deventer for what is billed as the largest book market in Europe.",
       tip: "Arrive early by train; by midday the quay is packed. Bring a sturdy bag.", q: "IJsselkade Deventer", months: [8], tags: ["free"], src: ["https://www.visithansaholland.com/hansa-towns/deventer/"] },
     { id: "kamperkogge", cat: "dene", area: "cevre", title: "Board the Kamper Kogge",
       desc: "This full-size replica of a 14th-century Hanseatic cog, modelled on a wreck found in the Flevopolder, is sailed by volunteers and in 2025 made it all the way to Visby in Sweden.",
       tip: "The Koggewerf yard near the old centre is free to visit; ask about guided tours on board.", q: "Koggewerf Kampen", src: ["https://hanse.org/en/union-with-a-long-tradition/news/kamper-kogge-is-back-home", "https://www.visithansaholland.com/hansa-towns/kampen/"] },
-    { id: "zutphenhofjes", cat: "dene", area: "cevre", title: "Go hofje hunting in Zutphen",
-      desc: "Behind Zutphen's street fronts hide almshouse courtyards built for the elderly, poor and widowed, the oldest being the Oude Bornhof from 1320. Ruitershofje, Agnietenhof and Luthers Hofje are other finds.",
-      tip: "Courtyards are lived in: go quietly, and finish with the Martinetsingel walk along the old walls.", q: "Oude Bornhof Zutphen", tags: ["free"], src: ["https://www.dutchnews.nl/2025/01/dutch-destinations-go-medieval-in-the-city-of-towers/"] },
-    { id: "vloggelen", cat: "dene", area: "cevre", title: "Join the Vlöggelen in Ootmarsum at Easter",
-      desc: "On Easter Sunday and Easter Monday the eight Poaskearls lead a singing, hand-in-hand chain of townspeople through the streets, houses and cafés of Ootmarsum before the Easter fire burns.",
-      tip: "Anyone may join the line behind the Poaskearls; follow the crowd from the church and the Paaskamp fire in the late afternoon.", q: "Markt Ootmarsum", months: [3, 4], tags: ["free"], src: ["https://nl.wikipedia.org/wiki/Vl%C3%B6ggelen", "https://nl.wikipedia.org/wiki/Ootmarsum"] },
-    { id: "paasvuurespelo", cat: "dene", area: "cevre", title: "Watch the giant Easter fire of Espelo",
-      desc: "Around Holten, neighbourhoods compete each year for the biggest Easter fire; Espelo once built one of nearly 46 metres, a world record.",
-      tip: "Fires are lit on the evening of Easter Sunday; check which neighbourhood fires are open to visitors and dress for smoke.", q: "Paasvuur Espelo Holten", months: [3, 4], tags: ["free"], src: ["https://nl.wikipedia.org/wiki/Paasvuur"] },
     { id: "corsovollenhove", cat: "dene", area: "cevre", title: "See the flower parade in Vollenhove",
       desc: "On the last Saturday of August, flower-covered floats roll through Vollenhove, the former Zuiderzee town once called the 'city of palaces'.",
       tip: "Before or after the parade, walk to the old harbour and the remains of Castle Toutenburg.", q: "Vollenhove", months: [8], src: ["https://en.wikipedia.org/wiki/Vollenhove"] },
-    { id: "sallandseheuvelrug", cat: "dene", area: "cevre", title: "Hike the heath of the Sallandse Heuvelrug",
-      desc: "Between Nijverdal and Holten rises a ridge of ice-age hills covered in vast heathland, topped by the Koningsbelt at 75 m, one of the highest points in the region.",
-      tip: "Start at the Staatsbosbeheer visitor centre in Nijverdal; come in late summer when the heather turns purple.", q: "Bezoekerscentrum Sallandse Heuvelrug Nijverdal", tags: ["free"], src: ["https://en.wikipedia.org/wiki/Sallandse_Heuvelrug_National_Park"] },
     { id: "eerde", cat: "dene", area: "cevre", title: "Walk the Eerde estate near Ommen",
       desc: "The Natuurmonumenten estate around 18th-century Kasteel Eerde spreads over woods and the Besthmenerberg, where Krishnamurti once held his gatherings, along the Vecht valley.",
-      tip: "The castle is a school and cannot be visited, but the woods are open; the Pieterpad hiking trail also passes through Ommen.", q: "Landgoed Eerde Ommen", tags: ["free"], src: ["https://en.wikipedia.org/wiki/Ommen"] }
+      tip: "The castle is a school and cannot be visited, but the woods are open; the Pieterpad hiking trail also passes through Ommen.", q: "Landgoed Eerde Ommen", tags: ["free"], src: ["https://en.wikipedia.org/wiki/Ommen"] },
+    { id: "harderwijkvischpoort", cat: "gor", area: "cevre", title: "Find Harderwijk's Vischpoort",
+      desc: "This late-medieval gate on the old Zuiderzee shore of Harderwijk once had fishing boats moored beside it to sell their catch. It is one of the few pieces left of the city walls.",
+      tip: "Walk on to the lakeside boulevard; Harderwijk is a short train ride from Amersfoort or Zwolle.", q: "Vischpoort Harderwijk", tags: ["free"], src: ["https://nl.wikipedia.org/wiki/Harderwijk"] },
+    { id: "elburg", cat: "dene", area: "cevre", title: "Walk the grid streets of Elburg",
+      desc: "Elburg on the old Zuiderzee coast was laid out on a strict grid in 1392 and still keeps its walls, moat and casemates. The Vischpoort survived because it doubled as a coastal light.",
+      tip: "The casemates can be visited in summer; start at the VVV on Jufferenstraat for a walking map.", q: "Vischpoort Elburg", tags: ["free"], src: ["https://www.bezoek-elburg.nl/en/discover-elburg/the-five-surrounding-village-town-centres/elburg", "https://en.wikivoyage.org/wiki/Elburg"] },
+    { id: "dwingelderveld", cat: "dene", area: "cevre", title: "Hike the heath of the Dwingelderveld",
+      desc: "This Drenthe national park protects what is called the largest wet heathland in Western Europe, with fens, moorland and a flock of sheep keeping the heather short. In late summer the heath turns purple.",
+      tip: "Start at the visitor centre and follow the boardwalk routes; come in August or September for the blooming heather.", q: "Nationaal Park Dwingelderveld", tags: ["free"], src: ["https://en.wikipedia.org/wiki/Dwingelderveld_National_Park"] }
   ]
 };

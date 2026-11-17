@@ -1,7 +1,8 @@
 // Quests for the Gent region.
 // cat: gor (see) | ye (eat & drink) | dene (do); area: a key of `areas`;
-// months: only for quests tied to certain months (1-12). To add a region, copy a file like this,
-// change the id, add a <script> line to index.html and re-run tools/build_regions.py.
+// months: only for quests tied to certain months (1-12). To add a region, add a hub to tools/hubs.json
+// and run tools/rebuild_regions.py and tools/reassign_quests.py.
+
 window.CITIES = window.CITIES || {};
 window.CITIES.gent = {
   id: "gent",
@@ -17,29 +18,29 @@ window.CITIES.gent = {
     cevre: "Surroundings"
   },
   // Map view when the region opens (the main city) and quest positions [lat, lng].
-  bounds: [[51.025, 3.690], [51.075, 3.760]],
+  bounds: [[51.025, 3.69], [51.075, 3.76]],
   coords: {
-    lamgods: [51.0530, 3.7272], gravensteen: [51.0573, 3.7206], werregaren: [51.0553, 3.7246], lantaarn: [51.0569, 3.7214],
-    neuzen: [51.0558, 3.7223], graslei: [51.0546, 3.7208], feesten: [51.0566, 3.7283], dullegriet: [51.0569, 3.7262],
-    waterzooi: [51.0583, 3.7228], prinsenhof: [51.0583, 3.7168],
-    stam: [51.0437, 3.7177], vooruit: [51.0478, 3.7277], kouter: [51.0503, 3.7241],
-    baafsabdij: [51.0539, 3.7363], vaneyck: [51.0538, 3.7340], gruut: [51.0575, 3.7302],
-    kwaremont: [50.7819, 3.5260], mattentaart: [50.7727, 3.8822], laarne: [51.0280, 3.8387], aalst: [50.9384, 4.0390],
-    latem: [51.0207, 3.6402], liefmans: [50.8465, 3.6159],
-    belfortklim: [51.0537, 3.7250], camposanto: [51.0621, 3.7492], rabot: [51.0626, 3.7123],
-    terhoye: [51.0464, 3.7360], huisvanalijn: [51.0575, 3.7233], guislain: [51.0665, 3.7043],
-    smakmsk: [51.0382, 3.7220], dhanesteenhuyse: [51.0510, 3.7222], appelbrug: [51.0560, 3.7193],
-    boekentoren: [51.0447, 3.7258], industriemuseum: [51.0595, 3.7294], stoverijfrit: [51.0535, 3.7258],
-    dreupelkot: [51.0563, 3.7224], galgenhuisje: [51.0560, 3.7220], temmerman: [51.0578, 3.7240],
-    dokbrewing: [51.0657, 3.7319], mastellen: [51.0582, 3.7228], geusvangent: [51.0414, 3.7286],
-    bootjes: [51.0545, 3.7203], oudedokken: [51.0706, 3.7316], blaarmeersen: [51.0456, 3.6864],
-    rommelmarkt: [51.0569, 3.7278], dekrook: [51.0490, 3.7272], kaagent: [51.0161, 3.7342],
-    oudenaardestadhuis: [50.8439, 3.6037], manneken: [50.7718, 3.8827], hermescrypte: [50.7465, 3.6003],
-    dendermondebegijnhof: [51.0269, 4.0969], ooidonk: [51.0014, 3.5836], sierteeltmuseum: [51.1370, 3.8620],
-    aalstervlaai: [50.9386, 4.0385], filliers: [50.9902, 3.5435], oudsashuis: [50.9909, 3.5669],
-    paardenworst: [51.1042, 3.9918], roman: [50.8302, 3.6764], krakelingen: [50.7737, 3.8908],
-    kluisbos: [50.7621, 3.5069], boerekreek: [51.2636, 3.5796], molsbroek: [51.1021, 4.0105],
-    vosselareput: [50.9985, 3.5563]
+    lamgods: [51.0530, 3.7272], gravensteen: [51.0573, 3.7206], werregaren: [51.0553, 3.7246],
+    lantaarn: [51.0569, 3.7214], prinsenhof: [51.0583, 3.7168], stam: [51.0437, 3.7177],
+    baafsabdij: [51.0539, 3.7363], laarne: [51.0280, 3.8387], neuzen: [51.0558, 3.7223],
+    waterzooi: [51.0583, 3.7228], vooruit: [51.0478, 3.7277], kouter: [51.0503, 3.7241],
+    gruut: [51.0575, 3.7302], mattentaart: [50.7727, 3.8822], liefmans: [50.8465, 3.6159],
+    graslei: [51.0546, 3.7208], feesten: [51.0566, 3.7283], dullegriet: [51.0569, 3.7262],
+    vaneyck: [51.0538, 3.7340], kwaremont: [50.7819, 3.5260], aalst: [50.9384, 4.0390],
+    latem: [51.0207, 3.6402], belfortklim: [51.0537, 3.7250], camposanto: [51.0621, 3.7492],
+    rabot: [51.0626, 3.7123], terhoye: [51.0464, 3.7360], huisvanalijn: [51.0575, 3.7233],
+    guislain: [51.0665, 3.7043], smakmsk: [51.0382, 3.7220], dhanesteenhuyse: [51.0510, 3.7222],
+    appelbrug: [51.0560, 3.7193], boekentoren: [51.0447, 3.7258], industriemuseum: [51.0595, 3.7294],
+    stoverijfrit: [51.0535, 3.7258], dreupelkot: [51.0563, 3.7224], galgenhuisje: [51.0560, 3.7220],
+    temmerman: [51.0578, 3.7240], dokbrewing: [51.0657, 3.7319], mastellen: [51.0582, 3.7228],
+    geusvangent: [51.0414, 3.7286], bootjes: [51.0545, 3.7203], oudedokken: [51.0706, 3.7316],
+    blaarmeersen: [51.0456, 3.6864], rommelmarkt: [51.0569, 3.7278], dekrook: [51.0490, 3.7272],
+    kaagent: [51.0161, 3.7342], oudenaardestadhuis: [50.8439, 3.6037], manneken: [50.7718, 3.8827],
+    hermescrypte: [50.7465, 3.6003], dendermondebegijnhof: [51.0269, 4.0969], ooidonk: [51.0014, 3.5836],
+    sierteeltmuseum: [51.1370, 3.8620], aalstervlaai: [50.9386, 4.0385], filliers: [50.9902, 3.5435],
+    oudsashuis: [50.9909, 3.5669], roman: [50.8302, 3.6764], krakelingen: [50.7737, 3.8908],
+    kluisbos: [50.7621, 3.5069], boerekreek: [51.2636, 3.5796], vosselareput: [50.9985, 3.5563],
+    kortrijkbegijnhof: [50.8275, 3.2683]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -50,7 +51,6 @@ window.CITIES.gent = {
     cevre: { icon: "🚴", name: "Flandrien" }
   },
   quests: [
-    // ───────────── SEE ─────────────
     { id: "lamgods", cat: "gor", area: "merkez", title: "Find the missing panel of the Ghent Altarpiece",
       desc: "The 'Adoration of the Mystic Lamb' altarpiece, completed by the brothers Van Eyck in 1432, stands in the church it was made for, Sint-Baafskathedraal. The 'Just Judges' panel was stolen in 1934 and has never been found; what you see is a copy.",
       tip: "Tickets are timed, so book ahead. Restoration is still going on, so a few panels may be away being treated. Look closely at the restored lamb's eyes, which gaze out like a human's.", q: "Sint-Baafskathedraal Gent", tags: ["rainy day"] },
@@ -75,8 +75,6 @@ window.CITIES.gent = {
     { id: "laarne", cat: "gor", area: "cevre", title: "Visit the moated castle of Laarne",
       desc: "A few kilometres east of Ghent, a medieval castle surrounded by water: corner towers, a stone bridge and a famous silver collection inside.",
       tip: "The interior is open on limited days; if it's closed, the walk around the moat is worth it too.", q: "Kasteel van Laarne" },
-
-    // ───────────── EAT & DRINK ─────────────
     { id: "neuzen", cat: "ye", area: "merkez", title: "Buy Gentse neuzen on the Groentenmarkt",
       desc: "Hard on the outside, runny inside, raspberry-flavoured purple cones: cuberdons, or in Ghent speak 'neuzekes' (little noses). They crystallise within a few weeks, so they can't be shipped far and must be eaten fresh.",
       tip: "The rivalry between the carts standing side by side on the square is known in the city as the 'nose war'. On the same square, also pick up the mustard drawn from the barrel at Tierenteyn-Verlent.", q: "Groentenmarkt Gent" },
@@ -98,8 +96,6 @@ window.CITIES.gent = {
     { id: "liefmans", cat: "ye", area: "cevre", title: "Taste a brown beer in Oudenaarde",
       desc: "Oudenaarde's slightly sour dark beer, 'Oudenaards bruin', is a beer style in its own right. Liefmans, on the banks of the Schelde, has brewed it since the 17th century and still wraps its bottles in paper.",
       tip: "Visit the brewery by reservation; otherwise, ask for a Goudenband at a café on Oudenaarde's Markt and look at the Gothic town hall.", q: "Brouwerij Liefmans Oudenaarde" },
-
-    // ───────────── DO ─────────────
     { id: "graslei", cat: "dene", area: "merkez", title: "Sit on the quay at the Graslei",
       desc: "The Graslei, lined with medieval guild houses, and the Korenlei opposite were the city's old port. The moment Ghent folk see the sun, they sit here with their feet dangling over the quay.",
       tip: "Bring your own drink, and find the spot on Sint-Michielsbrug where all three towers appear in the same frame.", q: "Graslei Gent", tags: ["free"] },
@@ -220,9 +216,6 @@ window.CITIES.gent = {
     { id: "oudsashuis", cat: "ye", area: "cevre", title: "Have a drink at the old lock of Astene",
       desc: "Het Oud Sashuis is a cosy café beside the iron sluice of Astene, built in 1876 to tame Leie floods. In summer the terrace looks right out over the river.",
       tip: "It makes a perfect stop on a bike ride from Ghent along the Leie via Sint-Martens-Latem to Deinze.", q: "Het Oud Sashuis Hellestraat Astene", src: ["https://en.wikivoyage.org/wiki/Deinze"] },
-    { id: "paardenworst", cat: "ye", area: "cevre", title: "Eat paardenworst in Lokeren",
-      desc: "Lokeren is known for its horse meat sausage, the local speciality that turns up at butchers and in cafés across town.",
-      tip: "Ask for it at a butcher near the Markt and eat it with bread and mustard. If you come in early August, the Lokerse Feesten music festival fills the town.", q: "Markt Lokeren", src: ["https://en.wikivoyage.org/wiki/Lokeren"] },
     { id: "roman", cat: "ye", area: "cevre", title: "Drink an Adriaen Brouwer from Brouwerij Roman in Mater",
       desc: "Founded in 1545 in an inn on an old trade route, Roman in Mater near Oudenaarde is one of the oldest family breweries in Belgium, now run by the 14th generation. Its brown Adriaen Brouwer is the classic Oudenaards bruin.",
       tip: "Ask for it in the cafés of Oudenaarde and compare it with a Liefmans; Mater is a pleasant cycle into the Flemish Ardennes.", q: "Brouwerij Roman Mater Oudenaarde", src: ["https://nl.wikipedia.org/wiki/Brouwerij_Roman"] },
@@ -235,11 +228,11 @@ window.CITIES.gent = {
     { id: "boerekreek", cat: "dene", area: "cevre", title: "Cycle the creeks of the Meetjesland around the Boerekreek",
       desc: "In the north of the Meetjesland, medieval storm floods left a web of creeks with sharp bends and deep pools. The Boerekreek in Sint-Jan-in-Eremo is the largest, a winding water edged with reeds and polders.",
       tip: "Bring or rent a bike in Eeklo and follow the cycle network north through the polders toward Sint-Laureins and Boekhoute.", q: "Boerekreek Sint-Jan-in-Eremo", tags: ["free"], src: ["https://nl.wikipedia.org/wiki/Meetjesland", "https://nl.wikipedia.org/wiki/Boerekreek"] },
-    { id: "molsbroek", cat: "dene", area: "cevre", title: "Walk the dike around the Molsbroek in Lokeren",
-      desc: "A marshland reserve on the edge of Lokeren where water birds gather among reed beds, alder woods and wet meadows, part of the Scheldt valley national park.",
-      tip: "A paved 4.5 km dike loops around the whole reserve; start at the visitor centre on Molsbergenstraat and bring binoculars.", q: "Molsbroek Lokeren", tags: ["free"], src: ["https://nl.wikipedia.org/wiki/Molsbroek"] },
     { id: "vosselareput", cat: "dene", area: "cevre", title: "Take a dip in the Vosselare Put",
       desc: "A former bend of the Leie near Deinze where swimming in natural water is allowed in summer, a rare thing in Flanders.",
-      tip: "Open only in the swimming season; cycle from Ghent along the Leie and stop at the Astene lock on the way.", q: "Vosselare Put Kleine Pontstraat Deinze", months: [5, 6, 7, 8, 9], src: ["https://en.wikivoyage.org/wiki/Deinze"] }
+      tip: "Open only in the swimming season; cycle from Ghent along the Leie and stop at the Astene lock on the way.", q: "Vosselare Put Kleine Pontstraat Deinze", months: [5, 6, 7, 8, 9], src: ["https://en.wikivoyage.org/wiki/Deinze"] },
+    { id: "kortrijkbegijnhof", cat: "gor", area: "cevre", title: "Visit Kortrijk's Begijnhof and the Broeltorens",
+      desc: "Kortrijk's UNESCO-listed beguinage, founded in 1238, is a tiny walled world of 17th-century houses where the last beguine in the world lived until 2013. A few steps away, the two Broeltorens guard the river Leie.",
+      tip: "Look for the statue of Marcella Pattyn, the last beguine, then cross the Leie for the best view of the towers.", q: "Begijnhof Kortrijk", tags: ["free"], src: ["https://nl.wikipedia.org/wiki/Begijnhof_(Kortrijk)", "https://en.wikivoyage.org/wiki/Kortrijk"] }
   ]
 };

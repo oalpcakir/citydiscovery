@@ -1,7 +1,8 @@
 // Quests for the Arnhem & Nijmegen region.
 // cat: gor (see) | ye (eat & drink) | dene (do); area: a key of `areas`;
-// months: only for quests tied to certain months (1-12). To add a region, copy a file like this,
-// change the id, add a <script> line to index.html and re-run tools/build_regions.py.
+// months: only for quests tied to certain months (1-12). To add a region, add a hub to tools/hubs.json
+// and run tools/rebuild_regions.py and tools/reassign_quests.py.
+
 window.CITIES = window.CITIES || {};
 window.CITIES.arnhem = {
   id: "arnhem",
@@ -16,27 +17,28 @@ window.CITIES.arnhem = {
     waal: "Waal & Ooijpolder",
     cevre: "Surroundings"
   },
-  // Map view when the region opens (both cities) and quest positions [lat, lng].
-  bounds: [[51.815, 5.800], [52.020, 5.960]],
+  // Map view when the region opens (the main city) and quest positions [lat, lng].
+  bounds: [[51.815, 5.8], [52.02, 5.96]],
   coords: {
-    eusebius: [51.9790, 5.9102], johnfrost: [51.9764, 5.9092], trolley: [51.9850, 5.8990], korenmarkt: [51.9825, 5.9043],
-    museumarnhem: [51.9855, 5.8922],
-    waterval: [51.9930, 5.9005], openlucht: [52.0094, 5.9064], burgers: [52.0093, 5.8990],
-    valkhof: [51.8482, 5.8707], vierdaagse: [51.8323, 5.8586], hemel: [51.8481, 5.8641], blaauwehand: [51.8476, 5.8651],
-    oversteek: [51.8591, 5.8419], spiegelwaal: [51.8561, 5.8556], oortjeshekken: [51.8632, 5.9335],
-    kmm: [52.0953, 5.8169], hogeveluwe: [52.0795, 5.8355], hetloo: [52.2343, 5.9457], posbank: [52.0287, 6.0213],
-    hartenstein: [51.9877, 5.8328], mosterd: [52.0118, 6.1375], waag: [52.0130, 6.1385],
-    sabelspoort: [51.9773, 5.9094], kelders: [51.9814, 5.9036], taphuys: [51.9823, 5.9073],
-    localsarnhem: [51.9843, 5.9013], molenplaats: [51.9876, 5.9021], watermuseum: [51.9887, 5.9014],
-    zypendaal: [51.9993, 5.8931], bastei: [51.8486, 5.8695], kruittoren: [51.8493, 5.8574],
-    stevenstoren: [51.8480, 5.8626], deplak: [51.8455, 5.8614], muzieum: [51.8451, 5.8638],
-    pannenkoekenboot: [51.8492, 5.8665], velorama: [51.8485, 5.8705], faceofnijmegen: [51.8556, 5.8653],
-    hoteldewereld: [51.9675, 5.6678], stadsbrouwerijwag: [51.9659, 5.6642], doorwerth: [51.9667, 5.7883],
-    plankenwambuis: [52.0543, 5.7783], museonder: [52.0880, 5.8290], harderwijkvischpoort: [52.3516, 5.6187],
-    elburg: [52.4494, 5.8318], buren: [51.9113, 5.3330], bloesemtocht: [51.8826, 5.2715],
-    fruitcorso: [51.8873, 5.4131], acquoy: [51.8791, 5.1372], zaltbommel: [51.8121, 5.2524],
-    bronkhorst: [52.0761, 6.1791], huisbergh: [51.8745, 6.2412], willibrordabdij: [51.9514, 6.3675],
-    walterbier: [51.9663, 6.2875], villamondriaan: [51.9717, 6.7236], berenschot: [51.9467, 6.7060]
+    johnfrost: [51.9764, 5.9092], museumarnhem: [51.9855, 5.8922], waterval: [51.9930, 5.9005],
+    burgers: [52.0093, 5.8990], valkhof: [51.8482, 5.8707], kmm: [52.0953, 5.8169],
+    hetloo: [52.2343, 5.9457], hartenstein: [51.9877, 5.8328], korenmarkt: [51.9825, 5.9043],
+    hemel: [51.8481, 5.8641], blaauwehand: [51.8476, 5.8651], oortjeshekken: [51.8632, 5.9335],
+    mosterd: [52.0118, 6.1375], waag: [52.0130, 6.1385], eusebius: [51.9790, 5.9102],
+    trolley: [51.9850, 5.8990], openlucht: [52.0094, 5.9064], vierdaagse: [51.8323, 5.8586],
+    oversteek: [51.8591, 5.8419], spiegelwaal: [51.8561, 5.8556], hogeveluwe: [52.0795, 5.8355],
+    posbank: [52.0287, 6.0213], sabelspoort: [51.9773, 5.9094], kelders: [51.9814, 5.9036],
+    taphuys: [51.9823, 5.9073], localsarnhem: [51.9843, 5.9013], molenplaats: [51.9876, 5.9021],
+    watermuseum: [51.9887, 5.9014], zypendaal: [51.9993, 5.8931], bastei: [51.8486, 5.8695],
+    kruittoren: [51.8493, 5.8574], stevenstoren: [51.8480, 5.8626], deplak: [51.8455, 5.8614],
+    muzieum: [51.8451, 5.8638], pannenkoekenboot: [51.8492, 5.8665], velorama: [51.8485, 5.8705],
+    faceofnijmegen: [51.8556, 5.8653], hoteldewereld: [51.9675, 5.6678], stadsbrouwerijwag: [51.9659, 5.6642],
+    doorwerth: [51.9667, 5.7883], plankenwambuis: [52.0543, 5.7783], museonder: [52.0880, 5.8290],
+    buren: [51.9113, 5.3330], bronkhorst: [52.0761, 6.1791], huisbergh: [51.8745, 6.2412],
+    willibrordabdij: [51.9514, 6.3675], walterbier: [51.9663, 6.2875], jachthut: [51.5390, 6.1530],
+    hamert: [51.5192, 6.1743], grebbeberg: [51.9553, 5.6000], cunerakerk: [51.9569, 5.5642],
+    zutphen: [52.1398, 6.1958], pelikaan: [52.1395, 6.1983], cambrinus: [52.1383, 6.1967],
+    zutphenhofjes: [52.1412, 6.1970]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -47,7 +49,6 @@ window.CITIES.arnhem = {
     cevre: { icon: "🦌", name: "Veluwe Explorer" }
   },
   quests: [
-    // SEE
     { id: "johnfrost", cat: "gor", area: "arnhem", title: "Stand at the John Frostbrug",
       desc: "In September 1944, British paratroopers held the north end of this bridge over the Rhine for days; this is the bridge from the film 'A Bridge Too Far'. Today's bridge carries the name of John Frost, the officer who led the defence.",
       tip: "The Airborne at the Bridge info centre on the quay is free and looks straight at the bridge.", q: "Airborne at the Bridge Arnhem", tags: ["free"] },
@@ -72,8 +73,6 @@ window.CITIES.arnhem = {
     { id: "hartenstein", cat: "gor", area: "cevre", title: "Tour Hartenstein in Oosterbeek",
       desc: "The villa that served as the British headquarters in the Battle of Arnhem is now the Airborne Museum. The basement relives the days of the siege with sound and light.",
       tip: "Walk over to the nearby Airborne cemetery too. Every September there are memorial ceremonies and the big Airborne march.", q: "Airborne Museum Hartenstein Oosterbeek", tags: ["rainy day"] },
-
-    // EAT & DRINK
     { id: "korenmarkt", cat: "ye", area: "arnhem", title: "Spend an evening on the Korenmarkt",
       desc: "The old grain market square is the centre of Arnhem's nightlife: bars and terraces on all four sides. Students and retirees alike head here in the evening.",
       tip: "On a sunny day the terraces fill up early; peek into the craft beer cafés on the side streets too.", q: "Korenmarkt Arnhem" },
@@ -92,8 +91,6 @@ window.CITIES.arnhem = {
     { id: "waag", cat: "ye", area: "cevre", title: "Slurp mustard soup at De Waag",
       desc: "Doesburg's Gothic weigh house with its stepped gables dates from the 15th century and counts as one of the oldest restaurants in the country. It's the right address for the local mustard soup.",
       tip: "Look at the old scales inside; then walk the town's main street all the way to the IJssel.", q: "Stadsbierhuys De Waag Doesburg" },
-
-    // DO
     { id: "eusebius", cat: "dene", area: "arnhem", title: "Step onto the glass balcony of the Eusebiuskerk",
       desc: "The church tower, destroyed in the Battle of Arnhem, was rebuilt after the war. Take the lift to the top and you step onto balconies that jut out past the tower, with glass floors.",
       tip: "Dare to look down: the square is right beneath you. In clear weather you can see the Rhine and the John Frost bridge.", q: "Eusebiuskerk Arnhem" },
@@ -178,27 +175,9 @@ window.CITIES.arnhem = {
     { id: "museonder", cat: "dene", area: "cevre", title: "Go underground at Museonder",
       desc: "In the heart of De Hoge Veluwe park, Museonder shows what happens beneath the forest floor. The roots of a 135-year-old tree hang over your head in the middle of the hall.",
       tip: "It is part of the visitor centre, where you can also pick up a white bike; entry is included with the park ticket.", q: "Museonder Hoge Veluwe Otterlo", tags: ["rainy day"], src: ["https://nl.wikipedia.org/wiki/Museonder", "https://en.wikivoyage.org/wiki/Veluwe"] },
-    { id: "harderwijkvischpoort", cat: "gor", area: "cevre", title: "Find Harderwijk's Vischpoort",
-      desc: "This late-medieval gate on the old Zuiderzee shore of Harderwijk once had fishing boats moored beside it to sell their catch. It is one of the few pieces left of the city walls.",
-      tip: "Walk on to the lakeside boulevard; Harderwijk is a short train ride from Amersfoort or Zwolle.", q: "Vischpoort Harderwijk", tags: ["free"], src: ["https://nl.wikipedia.org/wiki/Harderwijk"] },
-    { id: "elburg", cat: "dene", area: "cevre", title: "Walk the grid streets of Elburg",
-      desc: "Elburg on the old Zuiderzee coast was laid out on a strict grid in 1392 and still keeps its walls, moat and casemates. The Vischpoort survived because it doubled as a coastal light.",
-      tip: "The casemates can be visited in summer; start at the VVV on Jufferenstraat for a walking map.", q: "Vischpoort Elburg", tags: ["free"], src: ["https://www.bezoek-elburg.nl/en/discover-elburg/the-five-surrounding-village-town-centres/elburg", "https://en.wikivoyage.org/wiki/Elburg"] },
     { id: "buren", cat: "gor", area: "cevre", title: "Find William and Anna in Buren",
       desc: "In the tiny fortified town of Buren, William of Orange married Anna van Buren in the Sint-Lambertuskerk in 1551, which is why the royal family still carries the title of count of Buren. A statue of the couple stands by the church.",
       tip: "Visit Museum Buren & Oranje in the old town hall and the Prins van Oranje mill on the ramparts; in spring the orchards around town bloom.", q: "Sint-Lambertuskerk Buren", src: ["https://nl.wikipedia.org/wiki/Buren_(stad)"] },
-    { id: "bloesemtocht", cat: "dene", area: "cevre", title: "Cycle through the Betuwe blossom",
-      desc: "The Betuwe is the fruit basket of the Netherlands, and in spring its apple, pear and cherry orchards turn white and pink. The yearly Bloesemtocht route usually starts in Geldermalsen.",
-      tip: "Check the regional blossom barometer before you go; bloom peaks vary per year. Farm stands along the way sell fresh fruit and juice.", q: "Station Geldermalsen", months: [4, 5], tags: ["free"], src: ["https://en.wikivoyage.org/wiki/Betuwe"] },
-    { id: "fruitcorso", cat: "dene", area: "cevre", title: "Watch the Fruitcorso in Tiel",
-      desc: "Every September since 1961, floats covered in fruit and vegetables parade through Tiel, the jam town of the Betuwe. Tiel's mascot Flipje, born as a jam advert, is everywhere.",
-      tip: "Look for the Flipje mosaic at the Waterpoort by the Waal; the free Appelpop festival is held around the same time.", q: "Tiel", months: [9], tags: ["free"], src: ["https://en.wikivoyage.org/wiki/Betuwe", "https://nl.wikipedia.org/wiki/Flipje"] },
-    { id: "acquoy", cat: "gor", area: "cevre", title: "See the leaning tower of Acquoy",
-      desc: "The 15th-century church tower in the hamlet of Acquoy on the Linge leans almost as much as Pisa's. Builders already tried to correct the tilt halfway up, and you can still see the kink.",
-      tip: "Make it a stop on a Betuwe bike ride along the Linge; the village is tiny, so the tower is hard to miss.", q: "Scheve toren Acquoy", tags: ["free"], src: ["https://nl.wikipedia.org/wiki/Acquoy", "https://en.wikivoyage.org/wiki/Betuwe"] },
-    { id: "zaltbommel", cat: "gor", area: "cevre", title: "Circle the bastions of Zaltbommel",
-      desc: "Zaltbommel's star-shaped ramparts with seven bastions and a wide moat are still easy to trace, now turned into parks. The tall Sint-Maartenskerk and the Gasthuistoren with its bulb top rise above the walled town.",
-      tip: "Approach on foot or by bike over the Waal bridge: the view of the water tower, the walls and the church behind them is the classic one.", q: "Sint-Maartenskerk Zaltbommel", tags: ["free"], src: ["https://forten.nl/forten/vesting-zaltbommel/"] },
     { id: "bronkhorst", cat: "gor", area: "cevre", title: "Stroll through tiny Bronkhorst",
       desc: "With barely a hundred or so residents, Bronkhorst on the IJssel ranks among the smallest towns with city rights in the country. Its cobbled lanes, castle mound and little chapel make a perfect short walk.",
       tip: "Climb the castle hill, the only trace left of the medieval castle, then look out over the IJssel floodplains.", q: "Bronkhorst Bronckhorst", tags: ["free"], src: ["https://en.wikipedia.org/wiki/Bronkhorst", "https://en.wikivoyage.org/wiki/Achterhoek"] },
@@ -211,11 +190,29 @@ window.CITIES.arnhem = {
     { id: "walterbier", cat: "ye", area: "cevre", title: "Taste Walterbier in Doetinchem",
       desc: "The Stadsbrouwerij Doetinchem brews Walterbier right in the centre of the Achterhoek's main town, and opens up for brewery tours.",
       tip: "Monthly public tours run on a Sunday afternoon; otherwise just drop in for a glass in the old centre.", q: "Stadsbrouwerij Doetinchem Grutstraat", src: ["https://en.wikivoyage.org/wiki/Doetinchem"] },
-    { id: "villamondriaan", cat: "gor", area: "cevre", title: "Meet young Mondriaan in Winterswijk",
-      desc: "Long before his grids of red, yellow and blue, Piet Mondriaan grew up in this house in Winterswijk. Villa Mondriaan shows his early landscapes next to work by other artists.",
-      tip: "It is a short walk from Winterswijk station; afterwards cycle out into the hedged farmland that he painted.", q: "Villa Mondriaan Winterswijk", tags: ["rainy day"], src: ["https://nl.wikipedia.org/wiki/Villa_Mondriaan", "https://en.wikivoyage.org/wiki/Winterswijk"] },
-    { id: "berenschot", cat: "ye", area: "cevre", title: "Have lunch at Berenschot's watermill",
-      desc: "South of Winterswijk, a water mill from 1652 on the edge of a small nature reserve now houses a restaurant. Its wheel still turns on the stream outside.",
-      tip: "Cycle there from Winterswijk through the Achterhoek coulisse landscape of hedges and small fields.", q: "Berenschot's Watermolen Winterswijk", src: ["https://en.wikivoyage.org/wiki/Winterswijk", "https://en.wikivoyage.org/wiki/Achterhoek"] }
+    { id: "jachthut", cat: "ye", area: "cevre", title: "Eat pancakes at the Jachthut op den Hamert",
+      desc: "A pancake restaurant in a hunting lodge on the edge of the river dunes of De Hamert, near Wellerlooi in Noord-Limburg. It is the classic start and finish of walks through the Maasduinen.",
+      tip: "Earn your pancake first: do one of the marked dune loops that begin right outside, then sit down with muddy boots.", q: "Jachthut op den Hamert Wellerlooi", src: ["https://www.anwb.nl/wandelen/routes/parel-aan-de-maas"] },
+    { id: "hamert", cat: "dene", area: "cevre", title: "Walk the river dunes of De Hamert",
+      desc: "National Park De Maasduinen holds the longest belt of river dunes in the Netherlands. At Landgoed De Hamert, trails cross drifting sand, heath and fens, past a Bronze Age burial mound.",
+      tip: "Marked loops of different lengths start from the information board at the Jachthut; bus 83 between Venlo and Nijmegen stops at Wellerlooi.", q: "Landgoed De Hamert Wellerlooi", tags: ["free"], src: ["https://www.anwb.nl/wandelen/routes/parel-aan-de-maas", "https://nl.wikipedia.org/wiki/Nationaal_Park_De_Maasduinen"] },
+    { id: "grebbeberg", cat: "gor", area: "cevre", title: "Pay respects at the Grebbeberg war cemetery",
+      desc: "On the hill above Rhenen lie some 800 soldiers who fell in May 1940 defending the Grebbe line against the German invasion, many on the very spot where they fought.",
+      tip: "Walk on through the woods of the Grebbeberg for views over the Rhine floodplain.", q: "Militair Ereveld Grebbeberg Rhenen", tags: ["free"], src: ["https://en.wikivoyage.org/wiki/Rhenen"] },
+    { id: "cunerakerk", cat: "dene", area: "cevre", title: "Climb the Cunera tower in Rhenen",
+      desc: "The late Gothic Cunerakerk tower rises high above the Rhine town of Rhenen and the river landscape, with the Grebbeberg on one side and the Betuwe on the other.",
+      tip: "Buy tower tickets at the tourist office; the church itself is free to look into.", q: "Cunerakerk Rhenen", src: ["https://en.wikivoyage.org/wiki/Rhenen"] },
+    { id: "zutphen", cat: "gor", area: "cevre", title: "The chained library in Zutphen",
+      desc: "In the 16th-century Librije inside the Walburgiskerk, the books are still chained to the reading desks. One of the few chained libraries in Europe to survive in its original state.",
+      tip: "The Librije can only be visited with a guide or at set hours; check before you go.", q: "Librije Walburgiskerk Zutphen", tags: ["rainy day"] },
+    { id: "pelikaan", cat: "ye", area: "cevre", title: "Sip coffee at De Pelikaan in Zutphen",
+      desc: "De Pelikaan has been roasting coffee and selling tea since 1816 and is a royal warrant holder. Its old-fashioned shop has a small schenkerij where you drink the house blends with something sweet.",
+      tip: "Take a bag of a house blend home; Zutphen is about 45 minutes from Zwolle by train along the IJssel.", q: "De Pelikaan Pelikaanstraat Zutphen", src: ["https://www.de-pelikaan.nl/", "https://www.dutchnews.nl/2025/01/dutch-destinations-go-medieval-in-the-city-of-towers/"] },
+    { id: "cambrinus", cat: "ye", area: "cevre", title: "Drink a town beer at Cambrinus in Zutphen",
+      desc: "Hanseatic Zutphen had around forty breweries; Stadsbrouwerij Cambrinus in the heart of town is the one that survived, with a dark, medieval-feeling interior.",
+      tip: "Try the house brews after a walk past Zutphen's towers and hofjes.", q: "Stadsbrouwerij Cambrinus Zutphen", src: ["https://www.visithansaholland.com/hansa-towns/zutphen/"] },
+    { id: "zutphenhofjes", cat: "dene", area: "cevre", title: "Go hofje hunting in Zutphen",
+      desc: "Behind Zutphen's street fronts hide almshouse courtyards built for the elderly, poor and widowed, the oldest being the Oude Bornhof from 1320. Ruitershofje, Agnietenhof and Luthers Hofje are other finds.",
+      tip: "Courtyards are lived in: go quietly, and finish with the Martinetsingel walk along the old walls.", q: "Oude Bornhof Zutphen", tags: ["free"], src: ["https://www.dutchnews.nl/2025/01/dutch-destinations-go-medieval-in-the-city-of-towers/"] }
   ]
 };

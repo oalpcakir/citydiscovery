@@ -1,12 +1,13 @@
 // Quests for the Liège region.
 // cat: gor (see) | ye (eat & drink) | dene (do); area: a key of `areas`;
-// months: only for quests tied to certain months (1-12). To add a region, copy a file like this,
-// change the id, add a <script> line to index.html and re-run tools/build_regions.py.
+// months: only for quests tied to certain months (1-12). To add a region, add a hub to tools/hubs.json
+// and run tools/rebuild_regions.py and tools/reassign_quests.py.
+
 window.CITIES = window.CITIES || {};
 window.CITIES.luik = {
   id: "luik",
   name: "Liège",
-  subtitle: "& the Ardennes",
+  subtitle: "& the East Cantons",
   country: "Belgium",
   levels: ["Tourist", "Newcomer", "Curious", "Neighbourhood Regular", "Liégeois", "Vrai Tchantchès"],
   areas: {
@@ -17,27 +18,21 @@ window.CITIES.luik = {
     cevre: "Surroundings"
   },
   // Map view when the region opens (the main city) and quest positions [lat, lng].
-  bounds: [[50.615, 5.545], [50.660, 5.600]],
+  bounds: [[50.615, 5.545], [50.66, 5.6]],
   coords: {
-    perron: [50.6456, 5.5741], boulets: [50.6458, 5.5747], gaufre: [50.6463, 5.5752], peket: [50.6451, 5.5753],
-    batte: [50.6421, 5.5771], lacquemant: [50.6365, 5.5665],
-    bueren: [50.6478, 5.5771], nocturne: [50.6484, 5.5825], fonts: [50.6481, 5.5826],
-    tchantches: [50.6392, 5.5814], aout: [50.6398, 5.5845],
-    guillemins: [50.6244, 5.5666], boverie: [50.6282, 5.5765],
-    namur: [50.4597, 4.8630], couque: [50.2588, 4.9117], spa: [50.4923, 5.8655], durbuy: [50.3523, 5.4563],
-    fagnes: [50.5013, 6.0932], bouillon: [49.7933, 5.0647], han: [50.1209, 5.1926], blegny: [50.6862, 5.7235],
-    saintjacques: [50.6370, 5.5703], lucifer: [50.6406, 5.5718], grandcurtius: [50.6470, 5.5839],
-    viewallonne: [50.6471, 5.5759], impassecouronne: [50.6474, 5.5766], aquarium: [50.6388, 5.5787],
-    lequet: [50.6423, 5.5769], potaulait: [50.6401, 5.5738], olivettes: [50.6442, 5.5778],
-    brasseriec: [50.6481, 5.5776], saintpholien: [50.6437, 5.5866], simenon: [50.6405, 5.5844],
-    villagenoel: [50.6455, 5.5730], coteaux: [50.6508, 5.5814], citemiroir: [50.6431, 5.5677],
-    annevoie: [50.3450, 4.8447], freyr: [50.2263, 4.8887], huyrondia: [50.5186, 5.2383],
-    tombeaugeant: [49.8208, 5.0433], arlonroman: [49.6842, 5.8107], reinhardstein: [50.4525, 6.1022],
-    larochechateau: [50.1820, 5.5765], coo: [50.3936, 5.8761], bietrume: [50.4645, 4.8643],
-    jambonardenne: [50.1817, 5.5751], maitrank: [49.6828, 5.8128], tarteauriz: [50.5899, 5.8627],
-    orval: [49.6409, 5.3500], leffe: [50.2568, 4.9109], laetare: [50.3938, 5.9310],
-    redu: [50.0020, 5.1451], lessekayak: [50.1894, 5.0076], vennbahn: [50.6669, 6.1324],
-    ninglinspo: [50.4620, 5.7508], fetesnamur: [50.4641, 4.8605]
+    perron: [50.6456, 5.5741], fonts: [50.6481, 5.5826], tchantches: [50.6392, 5.5814],
+    guillemins: [50.6244, 5.5666], boverie: [50.6282, 5.5765], gaufre: [50.6463, 5.5752],
+    boulets: [50.6458, 5.5747], peket: [50.6451, 5.5753], lacquemant: [50.6365, 5.5665],
+    bueren: [50.6478, 5.5771], nocturne: [50.6484, 5.5825], batte: [50.6421, 5.5771],
+    aout: [50.6398, 5.5845], spa: [50.4923, 5.8655], fagnes: [50.5013, 6.0932],
+    blegny: [50.6862, 5.7235], saintjacques: [50.6370, 5.5703], lucifer: [50.6406, 5.5718],
+    grandcurtius: [50.6470, 5.5839], viewallonne: [50.6471, 5.5759], impassecouronne: [50.6474, 5.5766],
+    aquarium: [50.6388, 5.5787], lequet: [50.6423, 5.5769], potaulait: [50.6401, 5.5738],
+    olivettes: [50.6442, 5.5778], brasseriec: [50.6481, 5.5776], saintpholien: [50.6437, 5.5866],
+    simenon: [50.6405, 5.5844], villagenoel: [50.6455, 5.5730], coteaux: [50.6508, 5.5814],
+    citemiroir: [50.6431, 5.5677], huyrondia: [50.5186, 5.2383], reinhardstein: [50.4525, 6.1022],
+    coo: [50.3936, 5.8761], tarteauriz: [50.5899, 5.8627], laetare: [50.3938, 5.9310],
+    vennbahn: [50.6669, 6.1324], ninglinspo: [50.4620, 5.7508]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -48,7 +43,6 @@ window.CITIES.luik = {
     cevre: { icon: "🌲", name: "Ardennes Explorer" }
   },
   quests: [
-    // ───────────── SEE ─────────────
     { id: "perron", cat: "gor", area: "merkez", title: "Stop in front of Le Perron",
       desc: "The column rising above the fountain on Place du Marché is a symbol of liberty from the days when Liège was, for centuries, an independent state ruled by a prince-bishop. It is on the city's coat of arms too.",
       tip: "When Charles the Bold punished the city in 1468, he had the column pulled out and carried off to Bruges; also glance into the courtyard of the Prince-Bishops' Palace right behind it.", q: "Le Perron Place du Marché Liège", tags: ["free"] },
@@ -64,17 +58,6 @@ window.CITIES.luik = {
     { id: "boverie", cat: "gor", area: "guillemins", title: "Cross the footbridge to La Boverie",
       desc: "Leave the station and cross the Meuse on the 'La Belle Liégeoise' footbridge, and you find yourself on an island in the middle of the river, inside a park. The palace left over from the 1905 World's Fair houses the city's fine arts museum.",
       tip: "Even if you skip the museum, walk to the rose garden at the end of the park and out to the riverbank.", q: "La Boverie Liège", tags: ["free"] },
-    { id: "namur", cat: "gor", area: "cevre", title: "Look at two rivers from the Namur citadel",
-      desc: "The citadel on the rock where the Sambre meets the Meuse is among the largest in Europe. Because of its kilometres of underground galleries, Napoleon is said to have called it the 'termite mound of Europe'.",
-      tip: "Take the cable car up from the town centre and walk down; find the golden turtle statue on the ramparts.", q: "Citadelle de Namur" },
-    { id: "durbuy", cat: "gor", area: "cevre", title: "Get lost in the stone streets of Durbuy",
-      desc: "Durbuy, in a bend of the Ourthe river, calls itself 'the smallest city in the world' on the strength of the city title it received in the 14th century. A few cobbled streets, a castle and a giant rock curling above it.",
-      tip: "Very crowded on weekends; go on a weekday or in winter. Also stop by the park of topiary trees.", q: "Durbuy Vieille Ville" },
-    { id: "bouillon", cat: "gor", area: "cevre", title: "Walk the ramparts of Bouillon castle",
-      desc: "Built on a narrow bend of the Semois river, the castle belonged to Godefroy de Bouillon, leader of the First Crusade. To raise money for the expedition, he handed it over to the prince-bishop of Liège.",
-      tip: "In season there is a bird-of-prey show in the courtyard; see the whole castle from the hill across the town.", q: "Château de Bouillon" },
-
-    // ───────────── EAT & DRINK ─────────────
     { id: "gaufre", cat: "ye", area: "merkez", title: "Eat a hot Liège waffle",
       desc: "A real gaufre de Liège is made from a dense, yeasted dough; the big pearl sugar inside melts and caramelises on the iron. It is eaten by hand, with nothing on top.",
       tip: "Try the cinnamon one at Une Gaufrette Saperlipopette on Rue des Mineurs; if there is a queue, you're in the right place.", q: "Une Gaufrette Saperlipopette Liège" },
@@ -87,11 +70,6 @@ window.CITIES.luik = {
     { id: "lacquemant", cat: "ye", area: "merkez", title: "Eat a lacquemant at the Foire d'octobre",
       desc: "One of the country's oldest fairs sets up along Boulevard d'Avroy for weeks every autumn. The fair's treat is the lacquemant: a thin wafer split open and filled with orange-blossom syrup.",
       tip: "It runs from early October to mid-November. The syrup drips, so take extra napkins.", q: "Foire d'octobre Boulevard d'Avroy Liège", months: [10, 11] },
-    { id: "couque", cat: "ye", area: "cevre", title: "Buy a couque in Dinant",
-      desc: "Couque de Dinant is made of just flour and honey, shaped in carved wooden moulds, and is rock hard. You don't bite it: you break off small pieces and let them melt in your mouth.",
-      tip: "Look at the moulds in the window of Maison Jacobs on Rue Grande. Then head up to the house of Adolphe Sax, inventor of the saxophone, and the citadel on the cliff.", q: "Couques de Dinant Jacobs Dinant" },
-
-    // ───────────── DO ─────────────
     { id: "bueren", cat: "dene", area: "tepeler", title: "Climb the 374 steps of the Montagne de Bueren",
       desc: "Not a mountain but a staircase that shoots straight up to the sky: it was built in the 19th century so that soldiers at the citadel could get down to the city quickly. People still sit on both sides of the steps.",
       tip: "At the top turn left and come down through the terraces along the paths of the Coteaux de la Citadelle.", q: "Montagne de Bueren Liège", tags: ["free"] },
@@ -110,9 +88,6 @@ window.CITIES.luik = {
     { id: "fagnes", cat: "dene", area: "cevre", title: "Walk the boardwalk in the Hautes Fagnes",
       desc: "The roof of Belgium: peat bogs, mist and an empty plateau stretching to the horizon. The country's highest point, the Signal de Botrange, is at 694 metres, and wooden walkways cross the bog.",
       tip: "It is the first place to hold snow in winter. When there is a fire risk a red flag goes up and the trails close; check before setting out.", q: "Signal de Botrange", tags: ["free"] },
-    { id: "han", cat: "dene", area: "cevre", title: "Take the old tram to the Han caves",
-      desc: "At Han-sur-Lesse the river Lesse enters a hill, vanishes and comes out the other side; in between lies one of Europe's most impressive cave systems. A century-old tram leaving from the village takes you to the entrance.",
-      tip: "It is cool inside all year round, so bring a layer. Leave time for the wildlife park, which is visited on the same ticket.", q: "Grottes de Han Han-sur-Lesse", tags: ["rainy day"] },
     { id: "blegny", cat: "dene", area: "cevre", title: "Go down the mine at Blegny-Mine",
       desc: "It was coal that made Liège an industrial giant. The colliery at Blegny is one of the four Walloon mining sites on the UNESCO list, and one of the rare places where visitors can go down by cage into real galleries.",
       tip: "Tours are guided and timed, so book ahead. It is cool and damp underground; wear closed shoes.", q: "Blegny-Mine", tags: ["rainy day"] },
@@ -161,65 +136,26 @@ window.CITIES.luik = {
     { id: "citemiroir", cat: "dene", area: "merkez", title: "See a show in the old baths of La Cité Miroir",
       desc: "The former public baths of Sauvenière have become La Cité Miroir, a cultural centre for exhibitions, talks, film screenings and performances in a striking old bathhouse building.",
       tip: "Check the programme before you go; the Brasserie Sauvenière with its inner courtyard is just across the square.", q: "La Cité Miroir Place Xavier Neujean Liège", tags: ["rainy day"], src: ["https://www.lemagvoyage.fr/belgique/que-faire-liege-le-top-12-des-activites-incontournables/"] },
-    { id: "annevoie", cat: "gor", area: "cevre", title: "Watch the fountains play at the Jardins d'Annevoie",
-      desc: "Laid out from 1758 near the Meuse south of Namur, these water gardens run their cascades, jets and canals on spring water alone, fed by the same streams that once drove the family's forges.",
-      tip: "Between Namur and Dinant; combine it with Freÿr or Dinant the same day. The gardens are a summer-season outing.", q: "Jardins d'Annevoie Anhée", months: [4, 5, 6, 7, 8, 9, 10], src: ["https://fr.wikipedia.org/wiki/Jardins_d%27Annevoie"] },
-    { id: "freyr", cat: "gor", area: "cevre", title: "Watch climbers from the gardens of Freÿr",
-      desc: "On a bend of the Meuse south of Dinant, the Renaissance château of Freÿr and its 18th-century gardens, once visited by Louis XIV, face the limestone Rochers de Freÿr, Belgium's best-known climbing cliffs with hundreds of routes up to 120 metres.",
-      tip: "The château opens from spring to autumn, mostly Thursday to Sunday; bring binoculars to follow the climbers on the Al'Lègne face across the river.", q: "Château de Freÿr Hastière", months: [3, 4, 5, 6, 7, 8, 9, 10, 11], src: ["https://www.freyr.be/", "https://fr.wikipedia.org/wiki/Rochers_de_Freyr"] },
     { id: "huyrondia", cat: "gor", area: "cevre", title: "See Li Rondia in the collegiate church of Huy",
       desc: "The Collégiale Notre-Dame of Huy has the largest Gothic rose window in Belgium, known locally as Li Rondia and counted among the town's 'four wonders'. Its crypt keeps four gilded Mosan reliquaries from the 12th and 13th centuries.",
       tip: "Huy is a short train ride up the Meuse from Liège; after the church, climb to the citadel for the view over the river.", q: "Collégiale Notre-Dame de Huy", tags: ["rainy day"], src: ["https://fr.wikipedia.org/wiki/Coll%C3%A9giale_Notre-Dame_de_Huy"] },
-    { id: "tombeaugeant", cat: "gor", area: "cevre", title: "Look down on the Tombeau du Géant near Bouillon",
-      desc: "North of Bouillon, the Semois loops almost completely around a wooded hill said to be a giant's grave. The viewpoint above it is the most photographed valley in the Ardennes.",
-      tip: "Drive or hike up to the Botassart viewpoint; late afternoon light in autumn is the classic shot.", q: "Point de vue du Tombeau du Géant Botassart", tags: ["free"], src: ["https://en.wikivoyage.org/wiki/Bouillon"] },
-    { id: "arlonroman", cat: "gor", area: "cevre", title: "Meet the Romans in Arlon",
-      desc: "Arlon was already a town in Roman times, and its archaeological museum has one of the finest Gallo-Roman sections in the country. Outside, a Roman tower and a copy of a Jupiter column found in 1972 keep the story going.",
-      tip: "Afterwards climb up to the Saint-Donat church on the hilltop; its tower looks out over Belgium, Luxembourg and France.", q: "Musée Archéologique Arlon", tags: ["rainy day"], src: ["https://en.wikivoyage.org/wiki/Arlon"] },
     { id: "reinhardstein", cat: "gor", area: "cevre", title: "Hike to Reinhardstein castle and Belgium's highest waterfall",
       desc: "Near Ovifat in the Hautes Fagnes, a medieval castle perched over the Warche gorge was rebuilt from its ruins in the late 1960s. Close by, the Reinhardstein waterfall is billed as the highest in Belgium.",
       tip: "Park at Ovifat or by the Robertville dam and walk down through the forest; the path is steep and slippery after rain.", q: "Château de Reinhardstein Ovifat", src: ["https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Reinhardstein"] },
-    { id: "larochechateau", cat: "gor", area: "cevre", title: "Climb to the castle ruins of La Roche-en-Ardenne",
-      desc: "The feudal ruins on their rocky spur above the Ourthe stand where a Celtic hill fort once was, and dominate one of the prettiest little towns of the Ardennes.",
-      tip: "Keep time for the Battle of the Ardennes museum in town, and for the Celtic ramparts of Le Cheslé, a short hike away.", q: "Château de La Roche-en-Ardenne", src: ["https://en.wikivoyage.org/wiki/La_Roche-en-Ardenne"] },
     { id: "coo", cat: "gor", area: "cevre", title: "Hear the roar of the Cascade de Coo",
       desc: "The Amblève tumbles 15 metres at Coo, a waterfall partly man-made: in the 18th century the monks of Stavelot cut through a river bend to spare the village from floods.",
       tip: "Coo has its own train station; take the chairlift up the hill next to the falls for a view over the whole valley.", q: "Cascade de Coo Stavelot", tags: ["free"], src: ["https://fr.wikipedia.org/wiki/Cascade_de_Coo"] },
-    { id: "bietrume", cat: "ye", area: "cevre", title: "Chew a biétrumé in Namur",
-      desc: "Namur's own sweet is a soft caramel of cooked cream, butter and roasted hazelnuts, created in 1954 and named after Biétrumé, a legendary local prankster.",
-      tip: "Look for them at the Maison des Desserts on Rue Haute-Marcelle, then nibble them on the way up to the citadel.", q: "Maison des Desserts Rue Haute-Marcelle Namur", src: ["https://fr.wikipedia.org/wiki/Bi%C3%A9trum%C3%A9"] },
-    { id: "jambonardenne", cat: "ye", area: "cevre", title: "Buy jambon d'Ardenne in La Roche",
-      desc: "Ardennes ham, salted and smoked over wood, is the region's signature charcuterie. Boucherie Bouillon on the market square of La Roche-en-Ardenne has been making it, with dry-cured sausages, since 1955.",
-      tip: "Ask for a few slices cut thin and some sausage for a picnic by the Ourthe.", q: "Boucherie Bouillon Place du Marché 9 La Roche-en-Ardenne", src: ["https://en.wikivoyage.org/wiki/La_Roche-en-Ardenne"] },
-    { id: "maitrank", cat: "ye", area: "cevre", title: "Toast with Maitrank in Arlon",
-      desc: "Maitrank, 'the May drink', is white Moselle wine steeped with sweet woodruff, sugar and orange slices. Arlon celebrates it every year at the Fêtes du Maitrank, the penultimate weekend of May.",
-      tip: "Outside the festival, local bars and shops sell it in spring; drink it well chilled with a slice of orange.", q: "Place Léopold Arlon", months: [5], src: ["https://fr.wikipedia.org/wiki/Maitrank"] },
     { id: "tarteauriz", cat: "ye", area: "cevre", title: "Eat tarte au riz in Verviers",
       desc: "The creamy rice tart of the Liège region is claimed by Verviers, where the rice is slow-cooked in milk from the Herve plateau farms. Some bakers add a layer of crushed macaroon.",
       tip: "Buy a slice at Darcis on Rue Crapaurue, then walk it off at the Centre Touristique de la Laine et de la Mode, in an old wool factory.", q: "Darcis Rue Crapaurue Verviers", src: ["https://en.wikivoyage.org/wiki/Verviers", "https://fr.wikipedia.org/wiki/Tarte_au_riz"] },
-    { id: "orval", cat: "ye", area: "cevre", title: "Taste Orval beer and cheese at the abbey",
-      desc: "In a valley near the French border, the Trappist abbey of Orval brews one of the world's most distinctive beers and makes its own cheese. Next to the new abbey lie the romantic ruins of the medieval one and the spring where Countess Mathilde found her lost ring.",
-      tip: "Visit the ruins and the cellar museum first, then sit down for an Orval with cubes of the abbey's cheese, the classic local pairing.", q: "Abbaye d'Orval Villers-devant-Orval", src: ["https://fr.wikipedia.org/wiki/Abbaye_Notre-Dame_d%27Orval"] },
-    { id: "leffe", cat: "ye", area: "cevre", title: "Taste Leffe where it began in Dinant",
-      desc: "Leffe beer takes its name from the Abbaye Notre-Dame de Leffe on the edge of Dinant, home to a religious community since 1152. Maison Leffe, by the Meuse, tells the story of the beer's origins and ends with a tasting.",
-      tip: "Walk on to the abbey itself, a short way north along the river, to see the abbey church.", q: "Maison Leffe Charreau des Capucins Dinant", tags: ["rainy day"], src: ["https://en.wikivoyage.org/wiki/Dinant"] },
     { id: "laetare", cat: "dene", area: "cevre", title: "Get showered in confetti at the Laetare of Stavelot",
       desc: "On the fourth Sunday of Lent, hundreds of Blancs Moussis in white hoods and long red noses take over Stavelot, mocking a prince-abbot's 1502 ban on monks joining the carnival. Cannons blast tonnes of confetti into the crowd.",
       tip: "The big parade is on Sunday afternoon and ends with the Blancs Moussis' round dance on Place Saint-Remacle; expect confetti in your pockets for weeks.", q: "Place Saint-Remacle Stavelot", months: [3], tags: ["free"], src: ["https://fr.wikipedia.org/wiki/Laetare_de_Stavelot"] },
-    { id: "redu", cat: "dene", area: "cevre", title: "Browse the bookshops of Redu",
-      desc: "This tiny Ardennes village turned itself into Belgium's village of books, with around two dozen second-hand bookshops and kilometres of shelves. On the first Saturday of August the Nuit du Livre ends with fireworks.",
-      tip: "Pair it with the Euro Space Center in neighbouring Transinne for a 'books and space' day.", q: "Redu Village du Livre", tags: ["rainy day"], src: ["https://fr.wikipedia.org/wiki/Redu"] },
-    { id: "lessekayak", cat: "dene", area: "cevre", title: "Kayak down the Lesse to Anseremme",
-      desc: "The classic Ardennes summer outing: paddle down the Lesse from Houyet (21 km) or Gendron (12 km) to Anseremme near Dinant, through a quiet wooded valley.",
-      tip: "Leave the car at the finish and take the shuttle to the start. In dry spells the route can be shortened or closed, so check before you go.", q: "Kayaks Lesse Houyet", months: [5, 6, 7, 8, 9], src: ["https://fr.wikipedia.org/wiki/Lesse_(rivi%C3%A8re)"] },
     { id: "vennbahn", cat: "dene", area: "cevre", title: "Cycle the Vennbahn through the East Cantons",
       desc: "The old Fagnes railway from Aachen to Troisvierges is now a long cycle path through the German-speaking East Cantons, past Raeren, Monschau, Waimes and Saint-Vith. The tracks are Belgian territory, which created little German enclaves on one side.",
       tip: "Start at Raeren near Eupen and pedal south; on the stretch near Sourbrodt you can also try the Hautes Fagnes rail-bike.", q: "Vennbahn Raeren", tags: ["free"], src: ["https://fr.wikipedia.org/wiki/Vennbahn"] },
     { id: "ninglinspo", cat: "dene", area: "cevre", title: "Hop along the pools of the Ninglinspo",
       desc: "The wildest little valley in Belgium: the Ninglinspo stream drops through a series of clear rock pools with names like the Bain de Diane and the Bain de Vénus, crossed by small footbridges.",
-      tip: "Park at Sedoz near Nonceveux (Aywaille) and follow the GR 15; wear good shoes, as the rocks are slippery.", q: "Ninglinspo Nonceveux Aywaille", tags: ["free"], src: ["https://fr.wikipedia.org/wiki/Ninglinspo"] },
-    { id: "fetesnamur", cat: "dene", area: "cevre", title: "Watch the stilt fighters at the Fêtes de Wallonie in Namur",
-      desc: "On the third weekend of September Namur throws its biggest party, with concerts, péket and folklore. The highlight is the échasseurs, stilt-walkers who battle each other on wooden stilts, a Namur tradition.",
-      tip: "Catch the stilt fighters' entrance on Place Saint-Aubain, and try the 'route du péket' boat trip between the town's locks.", q: "Place Saint-Aubain Namur", months: [9], tags: ["free"], src: ["https://fr.wikipedia.org/wiki/F%C3%AAtes_de_Wallonie", "https://fr.wikivoyage.org/wiki/Namur"] }
+      tip: "Park at Sedoz near Nonceveux (Aywaille) and follow the GR 15; wear good shoes, as the rocks are slippery.", q: "Ninglinspo Nonceveux Aywaille", tags: ["free"], src: ["https://fr.wikipedia.org/wiki/Ninglinspo"] }
   ]
 };

@@ -1,7 +1,8 @@
 // Quests for the Den Haag region.
 // cat: gor (see) | ye (eat & drink) | dene (do); area: a key of `areas`;
-// months: only for quests tied to certain months (1-12). To add a region, copy a file like this,
-// change the id, add a <script> line to index.html and re-run tools/build_regions.py.
+// months: only for quests tied to certain months (1-12). To add a region, add a hub to tools/hubs.json
+// and run tools/rebuild_regions.py and tools/reassign_quests.py.
+
 window.CITIES = window.CITIES || {};
 window.CITIES.denhaag = {
   id: "denhaag",
@@ -17,35 +18,36 @@ window.CITIES.denhaag = {
     cevre: "Surroundings"
   },
   // Map view when the region opens (the main city) and quest positions [lat, lng].
-  bounds: [[52.040, 4.230], [52.118, 4.380]],
+  bounds: [[52.04, 4.23], [52.118, 4.38]],
   coords: {
-    hofvijver: [52.0808, 4.3120], mauritshuis: [52.0804, 4.3143], florencia: [52.0790, 4.3040], posthoorn: [52.0825, 4.3135],
-    prinsjesdag: [52.0808, 4.3070], vredespaleis: [52.0865, 4.2955], kunstmuseum: [52.0899, 4.2806], haagsemarkt: [52.0644, 4.2993],
-    japansetuin: [52.1003, 4.3336], haagsebos: [52.0912, 4.3352],
-    beeldenaanzee: [52.1106, 4.2776], simonis: [52.1008, 4.2641], vlaggetjesdag: [52.1012, 4.2625],
-    nieuwjaarsduik: [52.1158, 4.2805], surfles: [52.1036, 4.2656],
-    hortusleiden: [52.1562, 4.4838], hutspot: [52.1584, 4.4905], leidsekaas: [52.1591, 4.4928],
-    keukenhof: [52.2700, 4.5466], bollenvelden: [52.2695, 4.5426], voorlinden: [52.1193, 4.3472], duinen: [52.1617, 4.3493],
-    taffeh: [52.1583, 4.4858], trixleiden: [52.1647, 4.4733], burchtleiden: [52.1590, 4.4924],
-    molendevalk: [52.1644, 4.4867], muurgedichten: [52.1568, 4.4856], hofjesleiden: [52.1571, 4.4873],
-    oudesterrewacht: [52.1547, 4.4839], verguldekruik: [52.1616, 4.4864], cafevisscher: [52.1645, 4.4844],
-    zwartetulp: [52.2589, 4.5547], teylingen: [52.2311, 4.5192], duivenvoorde: [52.1113, 4.4174],
-    hofwijck: [52.0650, 4.3619], wittekerkkatwijk: [52.2025, 4.3925], neefies: [52.2078, 4.3980],
-    atlantikwall: [52.2541, 4.4389], spaceexpo: [52.2150, 4.4208], meijendelpannenkoek: [52.1285, 4.3335],
-    kaagseboer: [52.2145, 4.5587], kaagpont: [52.2190, 4.5585], snowworld: [52.0707, 4.4572],
-    avifauna: [52.1414, 4.6489], westlandsmuseum: [52.0092, 4.2464], sonnehoeck: [52.0244, 4.2497],
-    pilgrimsleiden: [52.1537, 4.4882], gevangenpoort: [52.0796, 4.3103], escherpaleis: [52.0834, 4.3143],
-    haagseharry: [52.0756, 4.3091], chinatownpoort: [52.0767, 4.3111], schuilkerk: [52.0794, 4.3062],
-    pulchri: [52.0819, 4.3119], panoramamesdag: [52.0850, 4.3044], hemelsgewelf: [52.0631, 4.2184],
-    abdijkerk: [52.0507, 4.2349], korenaer: [52.0502, 4.2363], oudscheveningen: [52.1064, 4.2733],
-    muzee: [52.1081, 4.2829], rosarium: [52.1048, 4.2903], louwman: [52.0994, 4.3514],
-    vankleef: [52.0733, 4.3084], dungelmann: [52.0788, 4.3090], fullmooncity: [52.0753, 4.3117],
-    cafesoof: [52.0767, 4.3068], tokofrederik: [52.0873, 4.3109], keratondamai: [52.0848, 4.2817],
-    addoel: [52.0688, 4.2901], waterkant: [52.1010, 4.2935], hetpuntje: [52.1260, 4.3002],
-    hessing: [52.0859, 4.3366], kompaan: [52.0670, 4.3463], paleistuin: [52.0810, 4.3043],
-    grotekerktoren: [52.0775, 4.3069], kloosterkerkbach: [52.0820, 4.3096], tramuseum: [52.0622, 4.3091],
-    vulkaan: [52.0777, 4.2362], pierreuzenrad: [52.1178, 4.2800], sinterklaasintocht: [52.1012, 4.2680],
-    zuiderhavenhoofd: [52.1005, 4.2590], scheveningsebosjes: [52.0932, 4.2939], binckhorststreetart: [52.0667, 4.3481]
+    hofvijver: [52.0808, 4.3120], mauritshuis: [52.0804, 4.3143], vredespaleis: [52.0865, 4.2955],
+    kunstmuseum: [52.0899, 4.2806], japansetuin: [52.1003, 4.3336], beeldenaanzee: [52.1106, 4.2776],
+    hortusleiden: [52.1562, 4.4838], keukenhof: [52.2700, 4.5466], voorlinden: [52.1193, 4.3472],
+    florencia: [52.0790, 4.3040], posthoorn: [52.0825, 4.3135], haagsemarkt: [52.0644, 4.2993],
+    simonis: [52.1008, 4.2641], hutspot: [52.1584, 4.4905], leidsekaas: [52.1591, 4.4928],
+    prinsjesdag: [52.0808, 4.3070], haagsebos: [52.0912, 4.3352], vlaggetjesdag: [52.1012, 4.2625],
+    nieuwjaarsduik: [52.1158, 4.2805], surfles: [52.1036, 4.2656], bollenvelden: [52.2695, 4.5426],
+    duinen: [52.1617, 4.3493], taffeh: [52.1583, 4.4858], trixleiden: [52.1647, 4.4733],
+    burchtleiden: [52.1590, 4.4924], molendevalk: [52.1644, 4.4867], muurgedichten: [52.1568, 4.4856],
+    hofjesleiden: [52.1571, 4.4873], oudesterrewacht: [52.1547, 4.4839], verguldekruik: [52.1616, 4.4864],
+    cafevisscher: [52.1645, 4.4844], zwartetulp: [52.2589, 4.5547], teylingen: [52.2311, 4.5192],
+    duivenvoorde: [52.1113, 4.4174], hofwijck: [52.0650, 4.3619], wittekerkkatwijk: [52.2025, 4.3925],
+    neefies: [52.2078, 4.3980], atlantikwall: [52.2541, 4.4389], spaceexpo: [52.2150, 4.4208],
+    meijendelpannenkoek: [52.1285, 4.3335], kaagseboer: [52.2145, 4.5587], kaagpont: [52.2190, 4.5585],
+    snowworld: [52.0707, 4.4572], avifauna: [52.1414, 4.6489], westlandsmuseum: [52.0092, 4.2464],
+    sonnehoeck: [52.0244, 4.2497], pilgrimsleiden: [52.1537, 4.4882], gevangenpoort: [52.0796, 4.3103],
+    escherpaleis: [52.0834, 4.3143], haagseharry: [52.0756, 4.3091], chinatownpoort: [52.0767, 4.3111],
+    schuilkerk: [52.0794, 4.3062], pulchri: [52.0819, 4.3119], panoramamesdag: [52.0850, 4.3044],
+    hemelsgewelf: [52.0631, 4.2184], abdijkerk: [52.0507, 4.2349], korenaer: [52.0502, 4.2363],
+    oudscheveningen: [52.1064, 4.2733], muzee: [52.1081, 4.2829], rosarium: [52.1048, 4.2903],
+    louwman: [52.0994, 4.3514], vankleef: [52.0733, 4.3084], dungelmann: [52.0788, 4.3090],
+    fullmooncity: [52.0753, 4.3117], cafesoof: [52.0767, 4.3068], tokofrederik: [52.0873, 4.3109],
+    keratondamai: [52.0848, 4.2817], addoel: [52.0688, 4.2901], waterkant: [52.1010, 4.2935],
+    hetpuntje: [52.1260, 4.3002], hessing: [52.0859, 4.3366], kompaan: [52.0670, 4.3463],
+    paleistuin: [52.0810, 4.3043], grotekerktoren: [52.0775, 4.3069], kloosterkerkbach: [52.0820, 4.3096],
+    tramuseum: [52.0622, 4.3091], vulkaan: [52.0777, 4.2362], pierreuzenrad: [52.1178, 4.2800],
+    sinterklaasintocht: [52.1012, 4.2680], zuiderhavenhoofd: [52.1005, 4.2590], scheveningsebosjes: [52.0932, 4.2939],
+    binckhorststreetart: [52.0667, 4.3481]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -56,7 +58,6 @@ window.CITIES.denhaag = {
     cevre: { icon: "🌷", name: "Surroundings Scout" }
   },
   quests: [
-    // SEE
     { id: "hofvijver", cat: "gor", area: "merkez", title: "Spot the Torentje from the Hofvijver",
       desc: "Look across the pond at the Binnenhof, where Dutch politics has been done for centuries. The little octagonal tower right at the water's edge is the Torentje, the prime ministers' traditional office.",
       tip: "The Binnenhof has been under restoration for a long time. The best view is from the Lange Vijverberg side, once the evening lights come on.", q: "Hofvijver Den Haag", tags: ["free"] },
@@ -84,8 +85,6 @@ window.CITIES.denhaag = {
     { id: "voorlinden", cat: "gor", area: "cevre", title: "Walk on the bottom of a pool at Voorlinden",
       desc: "A private contemporary art museum in the dune landscape of Wassenaar, flooded with natural daylight. In Leandro Erlich's 'Swimming Pool' you stay dry while standing under the water.",
       tip: "The garden and the dune walking path around the museum are included in your ticket too, so leave time if the weather is nice.", q: "Museum Voorlinden Wassenaar", tags: ["rainy day"] },
-
-    // EAT & DRINK
     { id: "florencia", cat: "ye", area: "merkez", title: "Ice cream and coffee at Florencia",
       desc: "The Italian ice cream parlour on Torenstraat has been Den Haag's meeting spot for generations. Ministers and students alike sit at the same plastic tables.",
       tip: "Decide what you want while you wait in line. Service is quick and impatient, and that is part of the tradition.", q: "Florencia Torenstraat Den Haag" },
@@ -104,8 +103,6 @@ window.CITIES.denhaag = {
     { id: "leidsekaas", cat: "ye", area: "cevre", title: "Buy cumin cheese at the Leiden market",
       desc: "Leidse kaas is a local cheese dotted with cumin seeds; the crossed keys on its rind come from the city's coat of arms. The market along the Nieuwe Rijn canal is one of the nicest in the country.",
       tip: "The market runs on Wednesday and Saturday. Grab your cheese and sit on one of the terrace boats on the canal.", q: "Markt Nieuwe Rijn Leiden" },
-
-    // DO
     { id: "prinsjesdag", cat: "dene", area: "merkez", title: "Wait for the royal carriage on Prinsjesdag",
       desc: "On the third Tuesday of September the King rides through the city in a horse-drawn carriage to read out the government's plans for the year. Hats, brass bands and the wave from the balcony of Paleis Noordeinde.",
       tip: "The route is announced in advance every year. For a good spot, head to the Lange Voorhout area early in the morning.", q: "Paleis Noordeinde Den Haag", months: [9], tags: ["free"] },

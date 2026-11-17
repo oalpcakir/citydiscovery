@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  var APP_VERSION = "0.10.0";
+  var APP_VERSION = "0.11.0";
   var STORE_KEY = "citydiscovery.v1";
   var CATS = {
     gor: { label: "See", icon: "👀", color: "#3b82f6" },
@@ -27,9 +27,21 @@
   }
   function save() {
     try { localStorage.setItem(STORE_KEY, JSON.stringify(store)); } catch (e) { toast("Could not save"); }
+    if (window.cdCloud && window.cdCloud.onLocalChange) window.cdCloud.onLocalChange();
   }
 
   var cities = window.CITIES || {};
+  // Quests that moved to another region keep their progress (see tools/reassign_quests.py and web/moved.js).
+  function migrateMoved() {
+    var M = window.MOVED || {}, n = 0;
+    Object.keys(store.done).forEach(function (k) {
+      var to = M[k];
+      if (to && !store.done[to]) { store.done[to] = store.done[k]; delete store.done[k]; n++; }
+    });
+    if (store.profile && store.profile.home && !cities[store.profile.home]) store.profile.home = "";
+    if (n) save();
+  }
+  migrateMoved();
   var cityId = cities[store.city] ? store.city : Object.keys(cities)[0];
   var city = cities[cityId];
   var ui = { tab: "map", cat: "all", area: "all", show: "todo", open: null };
@@ -706,7 +718,7 @@
   function setPhotoCount(key, n) {
     var r = store.done[key] || { at: 0 };
     if (n) r.photos = n; else delete r.photos;
-    if (!r.at && !r.note && !r.photos) delete store.done[key]; else store.done[key] = r;
+    r.u = Date.now(); store.done[key] = r;
     save();
   }
   function addPhotos(key, files) {
@@ -716,9 +728,9 @@
       if (!list.length) { toast("Up to " + MAX_PHOTOS + " photos per quest"); return; }
       toast("Saving photo…");
       return Promise.all(list.map(shrink)).then(function (blobs) {
-        return tx("readwrite", function (s) {
-          blobs.forEach(function (b, i) { s.put({ id: key + "@" + (Date.now() + i), key: key, at: Date.now() + i, blob: b }); });
-        }).then(function () {
+        var recs = blobs.map(function (b, i) { var t = Date.now() + i; return { id: key + "@" + t, key: key, at: t, blob: b }; });
+        return tx("readwrite", function (s) { recs.forEach(function (r) { s.put(r); }); }).then(function () {
+          if (window.cdCloud) recs.forEach(function (r) { window.cdCloud.photoAdded(r); });
           setPhotoCount(key, have.length + blobs.length);
           var gained = progress().xp - before;
           if (gained > 0) { toast("📸 +" + gained + " XP"); chime(false); buzz(25); } else toast("Photo saved");
@@ -730,6 +742,7 @@
   function deletePhoto(id, key) {
     tx("readwrite", function (s) { s.delete(id); }).then(function () { return photosFor(key); }).then(function (left) {
       if (urlCache[id]) { URL.revokeObjectURL(urlCache[id]); delete urlCache[id]; }
+      if (window.cdCloud) window.cdCloud.photoDeleted(id);
       setPhotoCount(key, left.length);
       toast("Photo removed");
       closeSheet();
@@ -1064,6 +1077,7 @@
     });
     Object.keys(city.areas).forEach(function (a) { html += meterRow(city.areas[a], stats(inArea(a)), ""); });
     html += '</div><h2>All regions</h2><div class="panel">' + regionRows() + '</div>';
+    html += '<h2>Account</h2><div class="panel" id="account">' + accountHtml() + '</div>';
     html += '<h2>Settings</h2><div class="panel"><div class="setrow"><span>Appearance</span><div class="seg">' +
       ["light", "dark", "auto"].map(function (m) {
         return '<button class="' + (t === m ? "on" : "") + '" data-theme-set="' + m + '">' + m[0].toUpperCase() + m.slice(1) + '</button>';
@@ -1094,6 +1108,77 @@
   function meterRow(label, s, cls) {
     return '<div class="row ' + cls + '"><div class="row-h"><span>' + esc(label) + '</span><span>' + s.done + ' / ' + s.total + '</span></div>' +
       bar(s.pct) + '</div>';
+  }
+
+  // ── Account (cloud save, see cloud.js) ─────────────────────
+  function ago(t) {
+    var s2 = Math.round((Date.now() - t) / 1000);
+    return s2 < 60 ? "just now" : s2 < 3600 ? Math.round(s2 / 60) + " min ago" : new Date(t).toLocaleString("en-GB", { hour: "2-digit", minute: "2-digit" });
+  }
+  function accountHtml() {
+    var C = window.cdCloud;
+    if (!C || !C.available) return '<div class="note" style="margin:0">Cloud save is coming soon. Until then your explorer lives on this device; use Backup below to move it.</div>';
+    if (!C.ready && !C.error) return '<div class="note" style="margin:0">Connecting…</div>';
+    var err = C.error ? '<p class="note err">' + esc(C.error) + '</p>' : "";
+    if (!C.user) {
+      return '<p class="note" style="margin:0 0 12px">Sign in to keep your explorer, progress and photos in the cloud and pick up on any device.</p>' +
+        '<button class="btn" data-act="auth">Sign in or create an account</button>' + err;
+    }
+    return '<div class="acct"><span class="acct-i">☁️</span><div class="grow"><b>' + esc(C.user.email || C.user.name || "Signed in") + '</b><small>' +
+      (C.busy ? "Syncing…" : C.lastSync ? "Saved to the cloud " + ago(C.lastSync) : "Not synced yet") + '</small></div></div>' + err +
+      '<div class="two" style="margin:12px 0 0"><button class="btn ghost" data-act="sync">Sync now</button><button class="btn plain" data-act="signout">Sign out</button></div>';
+  }
+  function openAuth(mode) {
+    var C = window.cdCloud, up = mode === "signup";
+    ui.authMode = up ? "signup" : "signin";
+    closeSheetSilently();
+    showSheet("auth", '<button class="x" data-act="close" aria-label="Close">✕</button>' +
+      '<div class="welcome">☁️</div><div class="cel-h">' + (up ? "Create your account" : "Welcome back") + '</div>' +
+      '<p class="note center" style="margin-top:-6px">Your explorer, progress and photos, safe in the cloud.</p>' +
+      (C.googleAvailable ? '<button class="btn ghost gbtn" data-act="auth-google"><b>G</b> Continue with Google</button><div class="or"><span>or with email</span></div>' : "") +
+      '<label class="lbl" for="aemail">Email</label><input id="aemail" class="inp" type="email" autocomplete="email" inputmode="email">' +
+      '<label class="lbl" for="apass">Password</label><input id="apass" class="inp" type="password" minlength="6" autocomplete="' + (up ? "new-password" : "current-password") + '">' +
+      '<p class="note err" id="aerr" hidden></p>' +
+      '<div class="actions"><button class="btn" data-act="auth-submit">' + (up ? "Create account" : "Sign in") + '</button>' +
+      '<button class="btn plain" data-act="auth-switch">' + (up ? "I already have an account" : "New here? Create an account") + '</button>' +
+      (up ? "" : '<button class="btn plain" data-act="auth-reset">Forgot your password?</button>') + '</div>', true);
+  }
+  function authError(msg) {
+    var el = document.getElementById("aerr");
+    if (el) { el.textContent = msg; el.hidden = !msg; }
+  }
+  function authBusy(on) {
+    [].forEach.call($sheet.querySelectorAll(".actions .btn, .gbtn"), function (b) { b.disabled = on; });
+  }
+  function authDo(promise, done) {
+    authBusy(true); authError("");
+    promise.then(function () { authBusy(false); done(); }, function (e) { authBusy(false); authError(e.message); });
+  }
+  window.cdApp = {
+    getStore: function () { return store; },
+    applyStore: function (s2) {
+      store = s2; store.done = store.done || {};
+      migrateMoved();
+      try { localStorage.setItem(STORE_KEY, JSON.stringify(store)); } catch (e) { /* ignore */ }
+      applyTheme(); applyAccent();
+      if ($sheet.hidden) render();
+    },
+    cloudChanged: function () {
+      var box = document.getElementById("account");
+      if (box) box.innerHTML = accountHtml();
+      var C = window.cdCloud;
+      if (C && C.user && !$sheet.hidden && $sheet.classList.contains("auth")) { closeSheet(); toast("Signed in as " + (C.user.email || C.user.name)); }
+    },
+    photos: { all: allPhotos, put: function (rec) { return tx("readwrite", function (st) { st.put(rec); }); } },
+    photosChanged: function () { fillMemories(); }
+  };
+  // Photos saved under a quest key that has since moved region follow it.
+  function migratePhotoKeys() {
+    var M = window.MOVED || {};
+    allPhotos().then(function (list) {
+      var stale = list.filter(function (ph) { return M[ph.key]; });
+      if (stale.length) tx("readwrite", function (st) { stale.forEach(function (ph) { ph.key = M[ph.key]; st.put(ph); }); });
+    }).catch(function () {});
   }
 
   // ── Profile editor (also the first-run onboarding) ─────────
@@ -1132,7 +1217,7 @@
     html += '<div class="actions"><button class="btn" data-act="save-profile" data-first="' + (first ? 1 : 0) + '">' + (first ? "Start exploring" : "Save") + '</button>' +
       (first ? '<button class="btn plain" data-act="skip-profile">Skip for now</button>' : '<button class="btn plain" data-act="close">Cancel</button>') + '</div>';
     closeSheetSilently();
-    showSheet("profile", html, true);
+    showSheet("editor", html, true);
   }
   function saveProfile(first) {
     var d = ui.draft || profile();
@@ -1140,6 +1225,7 @@
     d.name = d.name.trim().slice(0, 24);
     d.home = (document.getElementById("phome") || {}).value || d.home;
     var homeChanged = d.home && d.home !== profile().home;
+    d.updated = Date.now();
     store.profile = d;
     if (!store.profile.created) store.profile.created = Date.now();
     save();
@@ -1228,7 +1314,7 @@
     r = r || { at: 0 };
     if ((r.note || "") === note) return;
     r.note = note;
-    if (!r.at && !note && !r.photos) delete store.done[k]; else store.done[k] = r;
+    r.u = Date.now(); store.done[k] = r;
     save();
   }
   // Marks a quest done or not done. Returns what changed (null when undoing).
@@ -1239,7 +1325,7 @@
     var before = progress(), beforeBadges = earnedKeys(badges(c));
     var nowDone = !r.at;
     r.at = nowDone ? Date.now() : 0;
-    if (!r.at && !r.note && !r.photos) delete store.done[key]; else store.done[key] = r;
+    r.u = Date.now(); store.done[key] = r;
     save();
     if (!nowDone) { toast("Marked as not done"); return null; }
     var after = progress();
@@ -1394,9 +1480,26 @@
       }
       case "profile": openProfile(false); break;
       case "save-profile": saveProfile(t.dataset.first === "1"); break;
-      case "skip-profile": store.profile = profile(); store.profile.created = Date.now(); save(); closeSheet(); break;
+      case "skip-profile": store.profile = profile(); store.profile.created = store.profile.updated = Date.now(); save(); closeSheet(); break;
       case "photo-del": if (confirm("Delete this photo? This cannot be undone.")) deletePhoto(t.dataset.id, t.dataset.key); break;
       case "sound": store.sound = store.sound === false; save(); render(); if (store.sound) chime(false); break;
+      case "auth": openAuth("signin"); break;
+      case "auth-switch": openAuth(ui.authMode === "signup" ? "signin" : "signup"); break;
+      case "auth-submit": {
+        var em = document.getElementById("aemail").value.trim(), pw = document.getElementById("apass").value;
+        if (!em || !pw) { authError("Enter your email and a password."); break; }
+        authDo(ui.authMode === "signup" ? window.cdCloud.signUp(em, pw) : window.cdCloud.signIn(em, pw), function () {});
+        break;
+      }
+      case "auth-reset": {
+        var em2 = document.getElementById("aemail").value.trim();
+        if (!em2) { authError("Enter your email first, then tap this again."); break; }
+        authDo(window.cdCloud.resetPassword(em2), function () { authError(""); toast("Check your inbox for a reset link"); });
+        break;
+      }
+      case "auth-google": authDo(window.cdCloud.signInGoogle(), function () {}); break;
+      case "signout": window.cdCloud.signOut().then(function () { toast("Signed out. Your progress stays on this device."); render(); }); break;
+      case "sync": window.cdCloud.syncNow(); break;
       case "export": exportData(); break;
       case "import": importData(); break;
     }
@@ -1421,6 +1524,7 @@
   applyAccent();
   render();
   if (!store.profile) openProfile(true);
+  migratePhotoKeys();
 
   // The Android shell manages its own offline copy; the service worker is for browsers only.
   var inShell = navigator.userAgent.indexOf("CityDiscoveryShell") !== -1;

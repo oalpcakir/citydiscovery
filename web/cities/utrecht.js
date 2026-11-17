@@ -1,7 +1,8 @@
 // Quests for the Utrecht region.
 // cat: gor (see) | ye (eat & drink) | dene (do); area: a key of `areas`;
-// months: only for quests tied to certain months (1-12). To add a region, copy a file like this,
-// change the id, add a <script> line to index.html and re-run tools/build_regions.py.
+// months: only for quests tied to certain months (1-12). To add a region, add a hub to tools/hubs.json
+// and run tools/rebuild_regions.py and tools/reassign_quests.py.
+
 window.CITIES = window.CITIES || {};
 window.CITIES.utrecht = {
   id: "utrecht",
@@ -17,15 +18,15 @@ window.CITIES.utrecht = {
     cevre: "Surroundings"
   },
   // Map view when the region opens (the main city) and quest positions [lat, lng].
-  bounds: [[52.060, 5.030], [52.125, 5.185]],
+  bounds: [[52.06, 5.03], [52.125, 5.185]],
   coords: {
-    domtoren: [52.0907, 5.1213], pandhof: [52.0904, 5.1226], nijntje: [52.0957, 5.1165], trajectumlumen: [52.0922, 5.1196],
-    werfkelder: [52.0915, 5.1190], oudaen: [52.0931, 5.1172], broodjemario: [52.0922, 5.1171], nff: [52.0818, 5.1242],
-    schroderhuis: [52.0853, 5.1475], maliebaan: [52.0942, 5.1380],
-    kanaalstraat: [52.0918, 5.1015], hogewoerd: [52.0868, 5.0425],
-    amelisweerd: [52.0673, 5.1590], rhijnauwen: [52.0699, 5.1779],
-    dehaar: [52.1215, 4.9862], koppelpoort: [52.1590, 5.3853], drieringen: [52.1586, 5.3855], fortvechten: [52.0586, 5.1684],
-    raadhuishilversum: [52.2293, 5.1692], pyramide: [52.0904, 5.3428], vecht: [52.1722, 5.0038], heksenwaag: [52.0252, 4.8693],
+    pandhof: [52.0904, 5.1226], nijntje: [52.0957, 5.1165], schroderhuis: [52.0853, 5.1475],
+    hogewoerd: [52.0868, 5.0425], dehaar: [52.1215, 4.9862], koppelpoort: [52.1590, 5.3853],
+    fortvechten: [52.0586, 5.1684], raadhuishilversum: [52.2293, 5.1692], werfkelder: [52.0915, 5.1190],
+    oudaen: [52.0931, 5.1172], broodjemario: [52.0922, 5.1171], kanaalstraat: [52.0918, 5.1015],
+    rhijnauwen: [52.0699, 5.1779], drieringen: [52.1586, 5.3855], domtoren: [52.0907, 5.1213],
+    trajectumlumen: [52.0922, 5.1196], nff: [52.0818, 5.1242], maliebaan: [52.0942, 5.1380],
+    amelisweerd: [52.0673, 5.1590], pyramide: [52.0904, 5.3428], heksenwaag: [52.0252, 4.8693],
     oudehortus: [52.0847, 5.1264], speelklok: [52.0903, 5.1189], domunder: [52.0910, 5.1220],
     postkantoorneude: [52.0931, 5.1178], centraalmuseum: [52.0833, 5.1258], catharijneconvent: [52.0872, 5.1242],
     soestbergen: [52.0773, 5.1289], oudamelisweerdmuseum: [52.0674, 5.1696], molendester: [52.0897, 5.1006],
@@ -36,11 +37,10 @@ window.CITIES.utrecht = {
     sonnenborgh: [52.0854, 5.1293], festivaloudemuziek: [52.0914, 5.1244], leguesswho: [52.0928, 5.1130],
     werkspoorkwartier: [52.1051, 5.0797], kasteelamerongen: [51.9953, 5.4583], huisdoorn: [52.0308, 5.3446],
     mondriaanhuis: [52.1548, 5.3903], amersfoortsekei: [52.1527, 5.3867], armendepoth: [52.1591, 5.3938],
-    molenrijnenlek: [51.9714, 5.3494], grebbeberg: [51.9553, 5.6000], loenen: [52.2096, 5.0224],
-    zonnestraal: [52.2037, 5.1513], vuurscheboer: [52.1788, 5.2221], woerdenkaasmarkt: [52.0857, 4.8836],
-    monnickendam: [52.1537, 5.3925], mout: [52.2274, 5.1771], abrona: [52.0236, 4.8713],
-    leersumseveld: [52.0307, 5.4462], langejan: [52.1551, 5.3872], soesterduinen: [52.1462, 5.3008],
-    beeldengeluid: [52.2354, 5.1731], loosdrechtseplassen: [52.1866, 5.0485], cunerakerk: [51.9569, 5.5642]
+    molenrijnenlek: [51.9714, 5.3494], zonnestraal: [52.2037, 5.1513], vuurscheboer: [52.1788, 5.2221],
+    woerdenkaasmarkt: [52.0857, 4.8836], monnickendam: [52.1537, 5.3925], mout: [52.2274, 5.1771],
+    abrona: [52.0236, 4.8713], leersumseveld: [52.0307, 5.4462], langejan: [52.1551, 5.3872],
+    soesterduinen: [52.1462, 5.3008], beeldengeluid: [52.2354, 5.1731], loosdrechtseplassen: [52.1866, 5.0485]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -51,7 +51,6 @@ window.CITIES.utrecht = {
     cevre: { icon: "🏰", name: "Surroundings Scout" }
   },
   quests: [
-    // SEE
     { id: "pandhof", cat: "gor", area: "merkez", title: "Find the Dom's hidden courtyard, the Pandhof",
       desc: "A cloister garden with Gothic arcades, squeezed between the cathedral and the university building. A few steps from the crowds on Domplein, it holds a completely different kind of quiet, with a fountain and medicinal herbs in the middle.",
       tip: "The stone carvings in the arcade show scenes from the life of Saint Martin. And remember that the gap between the Dom Church and the tower is where the nave collapsed in the 1674 storm.", q: "Pandhof Domkerk Utrecht", tags: ["free"] },
@@ -76,8 +75,6 @@ window.CITIES.utrecht = {
     { id: "raadhuishilversum", cat: "gor", area: "cevre", title: "Dudok's town hall in Hilversum",
       desc: "Finished by Willem Dudok in 1931, the yellow-brick Raadhuis is a modernist classic that architects travel from all over the world to see. Its tower, reflected in the pond, is the symbol of the town.",
       tip: "Walk all the way around the building and look at it from every side. On certain days there are guided tours and tower climbs.", q: "Raadhuis Hilversum Dudok", tags: ["free"] },
-
-    // EAT & DRINK
     { id: "werfkelder", cat: "ye", area: "merkez", title: "Eat at water level, in a werfkelder",
       desc: "The two-level wharves of the Oudegracht are a structure found nowhere else in the world: the storage cellars of medieval merchants, under the street, are now restaurants and cafes. Your table sits right on the edge of the canal.",
       tip: "Take the stairs down to the wharf near Stadhuisbrug and pick a spot with a table by the water.", q: "Oudegracht werfkelders Utrecht" },
@@ -96,8 +93,6 @@ window.CITIES.utrecht = {
     { id: "drieringen", cat: "ye", area: "cevre", title: "Taste Amersfoort's city beer",
       desc: "Right next to the Koppelpoort, on the waterside, De Drie Ringen is Amersfoort's own brewery. In the Middle Ages the city was famous for its hundreds of breweries.",
       tip: "Ask for a tasting board and look at the view of the gate from the terrace.", q: "Stadsbrouwerij De Drie Ringen Amersfoort" },
-
-    // DO
     { id: "domtoren", cat: "dene", area: "merkez", title: "Climb the 465 steps of the Domtoren",
       desc: "At 112 metres, the Dom Tower is the tallest church tower in the Netherlands. For a long time it was an unwritten rule that no building in Utrecht could be taller than it.",
       tip: "You can only climb with a guided tour, so book your ticket in advance. In the open air you can see Amsterdam and Rotterdam.", q: "Domtoren Utrecht" },
@@ -116,9 +111,6 @@ window.CITIES.utrecht = {
     { id: "pyramide", cat: "dene", area: "cevre", title: "Climb the Pyramid of Austerlitz",
       desc: "In the middle of the Utrechtse Heuvelrug forests stands an earth pyramid that General Marmont had built in 1804 for Napoleon's soldiers, who were bursting with boredom.",
       tip: "The hilltop can be climbed in season. The forest paths around it are at their best in autumn.", q: "Pyramide van Austerlitz", months: [4, 5, 6, 7, 8, 9, 10] },
-    { id: "vecht", cat: "dene", area: "cevre", title: "Cycle village to village along the Vecht",
-      desc: "In the 17th and 18th centuries, wealthy Amsterdam merchants lined the Vecht with summer estates and waterside tea pavilions. Brooklyn in New York takes its name from Breukelen here.",
-      tip: "Follow the river from Utrecht through Oud-Zuilen, Maarssen and Breukelen all the way to Loenen; you can take the train back.", q: "Vechtbrug Breukelen", tags: ["free"] },
     { id: "heksenwaag", cat: "dene", area: "cevre", title: "Prove you're not a witch in Oudewater",
       desc: "In the years of the witch hunts, Oudewater's scales were famous for their honesty: nobody weighed here ever came out light enough to fly on a broomstick. Today you can be weighed and get your 'not a witch' certificate.",
       tip: "The museum may be closed in the winter months. Wander the town's streets too, which tell of its old rope-making past.", q: "Museum de Heksenwaag Oudewater", months: [4, 5, 6, 7, 8, 9, 10] },
@@ -215,12 +207,6 @@ window.CITIES.utrecht = {
     { id: "molenrijnenlek", cat: "gor", area: "cevre", title: "See Ruisdael's mill in Wijk bij Duurstede",
       desc: "Windmill Rijn en Lek stands on top of a 14th-century city gate, the only Dutch mill built on one. It is known as the Mill of Ruisdael after the famous painting of a mill in this town.",
       tip: "Volunteer millers usually grind on Wednesday and Saturday afternoons. In summer, cycle here from Utrecht along the Kromme Rijn.", q: "Molen Rijn en Lek Wijk bij Duurstede", tags: ["free"], src: ["https://nl.wikipedia.org/wiki/Rijn_en_Lek"] },
-    { id: "grebbeberg", cat: "gor", area: "cevre", title: "Pay respects at the Grebbeberg war cemetery",
-      desc: "On the hill above Rhenen lie some 800 soldiers who fell in May 1940 defending the Grebbe line against the German invasion, many on the very spot where they fought.",
-      tip: "Walk on through the woods of the Grebbeberg for views over the Rhine floodplain.", q: "Militair Ereveld Grebbeberg Rhenen", tags: ["free"], src: ["https://en.wikivoyage.org/wiki/Rhenen"] },
-    { id: "loenen", cat: "gor", area: "cevre", title: "Stroll the Dorpsstraat of Loenen aan de Vecht",
-      desc: "A protected village with 144 listed monuments, a long main street along the Vecht, country estates built by Amsterdam merchants and a church tower that leans about 80 cm.",
-      tip: "Get here by bike along the Vecht from Breukelen; the estates are best seen from the water side.", q: "Dorpsstraat Loenen aan de Vecht", tags: ["free"], src: ["https://nl.wikipedia.org/wiki/Loenen_aan_de_Vecht"] },
     { id: "zonnestraal", cat: "gor", area: "cevre", title: "Walk around Sanatorium Zonnestraal in Hilversum",
       desc: "A 1920s sanatorium of glass and white concrete in the woods south of Hilversum, a landmark of modernist architecture with a walking trail through the estate.",
       tip: "Follow the 4.5 km trail through Loosdrechtse Bos to see the buildings from every angle.", q: "Landgoed Zonnestraal Hilversum", tags: ["free"], src: ["https://en.wikivoyage.org/wiki/Hilversum"] },
@@ -253,9 +239,6 @@ window.CITIES.utrecht = {
       tip: "Try presenting the news or a weather report in the studios. It is a short walk from Hilversum Media Park station.", q: "Beeld en Geluid Hilversum", tags: ["rainy day"], src: ["https://en.wikivoyage.org/wiki/Hilversum"] },
     { id: "loosdrechtseplassen", cat: "dene", area: "cevre", title: "Get out on the water at the Loosdrechtse Plassen",
       desc: "These lakes were dug out by centuries of peat cutting until the strips of land between them washed away. Today they are a big playground for sailing, swimming and boating.",
-      tip: "Rent a whisper boat or sloop in Oud-Loosdrecht; the Vijfde Plas is the spot for swimming.", q: "Loosdrechtse Plassen", months: [5, 6, 7, 8, 9], src: ["https://nl.wikipedia.org/wiki/Loosdrechtse_Plassen"] },
-    { id: "cunerakerk", cat: "dene", area: "cevre", title: "Climb the Cunera tower in Rhenen",
-      desc: "The late Gothic Cunerakerk tower rises high above the Rhine town of Rhenen and the river landscape, with the Grebbeberg on one side and the Betuwe on the other.",
-      tip: "Buy tower tickets at the tourist office; the church itself is free to look into.", q: "Cunerakerk Rhenen", src: ["https://en.wikivoyage.org/wiki/Rhenen"] }
+      tip: "Rent a whisper boat or sloop in Oud-Loosdrecht; the Vijfde Plas is the spot for swimming.", q: "Loosdrechtse Plassen", months: [5, 6, 7, 8, 9], src: ["https://nl.wikipedia.org/wiki/Loosdrechtse_Plassen"] }
   ]
 };

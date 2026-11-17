@@ -1,12 +1,13 @@
 // Quests for the Groningen region.
 // cat: gor (see) | ye (eat & drink) | dene (do); area: a key of `areas`;
-// months: only for quests tied to certain months (1-12). To add a region, copy a file like this,
-// change the id, add a <script> line to index.html and re-run tools/build_regions.py.
+// months: only for quests tied to certain months (1-12). To add a region, add a hub to tools/hubs.json
+// and run tools/rebuild_regions.py and tools/reassign_quests.py.
+
 window.CITIES = window.CITIES || {};
 window.CITIES.groningen = {
   id: "groningen",
   name: "Groningen",
-  subtitle: "& the north",
+  subtitle: "& Drenthe",
   country: "Netherlands",
   levels: ["Tourist", "Newcomer", "Curious", "Local", "Stadjer", "Echte Stadjer"],
   areas: {
@@ -17,27 +18,21 @@ window.CITIES.groningen = {
     cevre: "Surroundings"
   },
   // Map view when the region opens (the main city) and quest positions [lat, lng].
-  bounds: [[53.195, 6.520], [53.240, 6.610]],
+  bounds: [[53.195, 6.52], [53.24, 6.61]],
   coords: {
-    martinitoren: [53.2194, 6.5682], forum: [53.2188, 6.5706], pepergasthuis: [53.2172, 6.5722], prinsentuin: [53.2215, 6.5693],
-    vismarkt: [53.2170, 6.5640], eierbal: [53.2183, 6.5718], martinus: [53.2162, 6.5732], bommenberend: [53.2187, 6.5672],
-    noorderplantsoen: [53.2240, 6.5560], noorderzon: [53.2228, 6.5568],
-    museum: [53.2123, 6.5660], station: [53.2107, 6.5645],
-    esns: [53.2134, 6.5745], euroborg: [53.2063, 6.5913],
-    wadlopen: [53.3987, 6.4535], schiermonnikoog: [53.4790, 6.1625], bourtange: [53.0066, 7.1920], hunebed: [52.9313, 6.7990],
-    oldehove: [53.2030, 5.7897], planetarium: [53.1873, 5.5438], zoutkamp: [53.3369, 6.2998], beerenburg: [53.0312, 5.6603],
+    martinitoren: [53.2194, 6.5682], pepergasthuis: [53.2172, 6.5722], museum: [53.2123, 6.5660],
+    station: [53.2107, 6.5645], bourtange: [53.0066, 7.1920], hunebed: [52.9313, 6.7990],
+    eierbal: [53.2183, 6.5718], vismarkt: [53.2170, 6.5640], prinsentuin: [53.2215, 6.5693],
+    martinus: [53.2162, 6.5732], zoutkamp: [53.3369, 6.2998], forum: [53.2188, 6.5706],
+    bommenberend: [53.2187, 6.5672], noorderplantsoen: [53.2240, 6.5560], noorderzon: [53.2228, 6.5568],
+    esns: [53.2134, 6.5745], euroborg: [53.2063, 6.5913], wadlopen: [53.3987, 6.4535],
     hogedera: [53.2180, 6.5598], wallhouse2: [53.1831, 6.5531], reitdiephaven: [53.2377, 6.5255],
     driegezusters: [53.2183, 6.5690], stockroom: [53.2165, 6.5688], baxbier: [53.2265, 6.5349],
     kroegvanklaas: [53.2106, 6.5752], graansilo: [53.2095, 6.5850], folkingestraat: [53.2160, 6.5665],
     hofjesroute: [53.2188, 6.5706], hoornseplas: [53.1768, 6.5516], stadspark: [53.2030, 6.5410],
-    suikertuin: [53.2150, 6.5330], princessehof: [53.2030, 5.7921], harlingenhaven: [53.1747, 5.4135],
-    hindeloopen: [52.9433, 5.3987], dokkum: [53.3270, 5.9985], orvelte: [52.8436, 6.6597],
-    westerbork: [52.9211, 6.5697], drentsmuseum: [52.9933, 6.5642], garnwerd: [53.3044, 6.4928],
-    oostum: [53.2910, 6.5180], bornrif: [53.4489, 5.6256], tantetil: [53.2158, 6.4087],
-    suikerbroodsneek: [53.0297, 5.6602], lauwersoogvis: [53.4084, 6.2000], lickebaert: [53.2964, 5.0731],
-    cranberryterschelling: [53.3600, 5.2160], blokhuispoort: [53.1998, 5.8010], kaatsen: [53.1866, 5.5381],
-    skutsjesilen: [53.0948, 5.8509], dwingelderveld: [52.8136, 6.4109], lauwersmeersterren: [53.3900, 6.2200],
-    oerol: [53.3600, 5.2150], vliehors: [53.2600, 4.9800]
+    suikertuin: [53.2150, 6.5330], orvelte: [52.8436, 6.6597], westerbork: [52.9211, 6.5697],
+    drentsmuseum: [52.9933, 6.5642], garnwerd: [53.3044, 6.4928], oostum: [53.2910, 6.5180],
+    tantetil: [53.2158, 6.4087], lauwersoogvis: [53.4084, 6.2000], lauwersmeersterren: [53.3900, 6.2200]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -48,7 +43,6 @@ window.CITIES.groningen = {
     cevre: { icon: "🦭", name: "Ommeland Explorer" }
   },
   quests: [
-    // ---------- SEE ----------
     { id: "martinitoren", cat: "gor", area: "merkez", title: "Climb the Martinitoren",
       desc: "Stadjers call the roughly 97-metre tower 'd'Olle Grieze' (the Old Grey One), and it's the symbol of the city. From the top you see just how flat the plain is that Groningen sits in the middle of.",
       tip: "The steps are narrow and there are many; check ticket and climbing times in advance, and pick a clear day.", q: "Martinitoren Groningen" },
@@ -67,14 +61,6 @@ window.CITIES.groningen = {
     { id: "hunebed", cat: "gor", area: "cevre", title: "The biggest hunebed in Borger",
       desc: "Drenthe's tombs of giant stones (hunebedden) are about five thousand years old, older than the pyramids. The largest in the Netherlands stands in Borger, right next to the Hunebedcentrum.",
       tip: "The stones themselves are outdoors; the museum part is good for a visit with kids.", q: "Hunebedcentrum Borger" },
-    { id: "oldehove", cat: "gor", area: "cevre", title: "Leeuwarden's leaning tower, the Oldehove",
-      desc: "The tower, left unfinished when it began to tilt during construction in the 16th century, is the symbol of the Frisian capital. The lean is visible to the naked eye, and it's slightly curved, too.",
-      tip: "In season you can climb to the top. Less than an hour by train from Groningen.", q: "Oldehove Leeuwarden" },
-    { id: "planetarium", cat: "gor", area: "cevre", title: "The solar system on the ceiling in Franeker",
-      desc: "In the 18th century, wool carder Eise Eisinga built a working model of the solar system on his living room ceiling. The world's oldest planetarium still in operation is now a UNESCO World Heritage Site.",
-      tip: "Don't leave without seeing the wooden gear mechanism in the attic. Franeker is one of the Elfsteden (Eleven Cities).", q: "Koninklijk Eise Eisinga Planetarium Franeker", tags: ["rainy day"] },
-
-    // ---------- EAT & DRINK ----------
     { id: "eierbal", cat: "ye", area: "merkez", title: "Eat an eierbal",
       desc: "A hard-boiled egg hidden inside a curry-flavoured ragout, rolled in breadcrumbs and deep-fried. Groningen's own snack; you almost never find it in the rest of the country.",
       tip: "Nearly every snackbar has it. Eating one around the Poelestraat after a night out is a Stadjer tradition.", q: "eierbal Groningen" },
@@ -90,11 +76,6 @@ window.CITIES.groningen = {
     { id: "zoutkamp", cat: "ye", area: "cevre", title: "Eat shrimp in Zoutkamp",
       desc: "An old fishing village that opened onto the sea before the Lauwerszee was closed off. The Wadden's small grey shrimp (Hollandse garnalen) are its trade; the old fishing boats in the harbour and the museum tell of those days.",
       tip: "Ask for a shrimp sandwich ('broodje garnalen'); then walk along the Reitdiep.", q: "Visserijmuseum Zoutkamp" },
-    { id: "beerenburg", cat: "ye", area: "cevre", title: "Taste Beerenburg in Sneek",
-      desc: "Friesland's herbal bitter, Beerenburg, has been sold at Weduwe Joustra in Sneek since the 19th century. The shop's old counter and barrels are still in place.",
-      tip: "Sneek's landmark, the Waterpoort, is a few minutes' walk away; during Sneekweek in early August the town fills with sailboats.", q: "Weduwe Joustra Sneek" },
-
-    // ---------- DO ----------
     { id: "forum", cat: "dene", area: "merkez", title: "Go up to the Forum's roof",
       desc: "The Forum, which brings a library, cinema and exhibition halls under one roof, is the city's new living room. Ride the escalators to the top and you're eye to eye with the Martinitoren.",
       tip: "The roof terrace is free; go up close to sunset.", q: "Forum Groningen", tags: ["free", "rainy day"] },
@@ -116,9 +97,6 @@ window.CITIES.groningen = {
     { id: "wadlopen", cat: "dene", area: "cevre", title: "Go mudflat walking on the Wadden",
       desc: "When the sea recedes, the floor of the Wadden Sea is exposed and you can walk through the mud with a guide. Wadlopen is a tradition unique to this coast; the Wadden Sea is a UNESCO World Heritage Site.",
       tip: "Guided tours only, from around Pieterburen. A change of clothes and old shoes that hold your ankles are a must.", q: "Wadloopcentrum Pieterburen", months: [5, 6, 7, 8, 9] },
-    { id: "schiermonnikoog", cat: "dene", area: "cevre", title: "Hop on a bike on Schiermonnikoog",
-      desc: "The smallest inhabited Wadden island is almost entirely national park. Visitors leave their cars on the mainland; on the island there are dunes, salt marshes and a very wide beach.",
-      tip: "The ferry leaves from Lauwersoog. Rent a bike on the island and pedal to the beach.", q: "Schiermonnikoog" },
     { id: "hogedera", cat: "gor", area: "merkez", title: "Frame the Hoge der A from the Vissersbrug",
       desc: "Old warehouses and merchant houses line this quiet canal, with the tower of the Der Aa-kerk rising behind them. It is the postcard view of old Groningen, and most visitors never wander this far west of the Grote Markt.",
       tip: "Stand on the Vissersbrug for the classic shot, then walk the full length of both the Hoge and the Lage der A.", q: "Hoge der A Groningen", tags: ["free"], src: ["https://www.opreismetco.nl/en/the-netherlands/things-to-do-in-groningen"] },
@@ -158,18 +136,6 @@ window.CITIES.groningen = {
     { id: "suikertuin", cat: "dene", area: "guney", title: "Hang out at the Suikertuin and the city beach",
       desc: "The old sugar factory grounds on the west side of the city have become a rough industrial playground with a festival terrace and a city beach next door.",
       tip: "A good place to start a summer evening; check what is on, as the terrain hosts regular events.", q: "De Suikertuin Groningen", months: [5, 6, 7, 8, 9], src: ["https://www.visitgroningen.nl/en/blogs/road-trip-north-groningen"] },
-    { id: "princessehof", cat: "gor", area: "cevre", title: "See the tiles of the Princessehof in Leeuwarden",
-      desc: "Leeuwarden's ceramics museum fills a small 17th-century palace with tiles, Chinese porcelain and modern ceramics. M.C. Escher was born in the middle house of the building.",
-      tip: "The courtyard café is a lovely break; the Oldehove tower is a five-minute walk away.", q: "Keramiekmuseum Princessehof Leeuwarden", tags: ["rainy day"], src: ["https://en.wikipedia.org/wiki/Keramiekmuseum_Princessehof", "https://www.roughguides.com/article/leeuwarden-the-coolest-dutch-city-youve-never-heard-of"] },
-    { id: "harlingenhaven", cat: "gor", area: "cevre", title: "Walk the old harbours of Harlingen",
-      desc: "Between the Noorderhaven and Zuiderhaven, gabled merchant houses from the 16th to 18th centuries look out on traditional sailing barges. Harlingen is still a working port with a fishing fleet and shipyard.",
-      tip: "Harlingen is the ferry port for Terschelling and Vlieland, so this makes a great stop before or after an island trip. Trains from Leeuwarden take about half an hour.", q: "Noorderhaven Harlingen", tags: ["free"], src: ["https://www.roughguides.com/destinations/europe/netherlands/north-and-the-frisian-islands/makkum", "https://www.dutchnews.nl/features/2019/07/11-cities-of-friesland/"] },
-    { id: "hindeloopen", cat: "gor", area: "cevre", title: "Discover painted Hindeloopen",
-      desc: "This tiny Elfsteden town on the IJsselmeer developed its own style of furniture painting, with flowers and curls on red, green or blue backgrounds, plus its own costumes. Cobbled lanes, wooden bridges and captains' houses complete the picture.",
-      tip: "Museum Hindeloopen shows the painting and costumes; the shops on the main street still sell painted pieces made in the old style.", q: "Museum Hindeloopen", src: ["https://www.roughguides.com/destinations/europe/netherlands/north-and-the-frisian-islands/makkum", "https://www.dutchnews.nl/features/2019/07/11-cities-of-friesland/"] },
-    { id: "dokkum", cat: "gor", area: "cevre", title: "Circle the ramparts of Dokkum",
-      desc: "The northernmost of the Eleven Cities still has its well-preserved bastions (bolwerken), crowned by two windmills, Zeldenrust and De Hoop. Saint Boniface was killed nearby in 754, and a chapel and park honour him.",
-      tip: "Walk the ring of the bolwerken, then visit the Bonifatius park. Buses run from Leeuwarden and Groningen.", q: "Molen Zeldenrust Dokkum", tags: ["free"], src: ["https://en.wikipedia.org/wiki/Dokkum", "https://www.dutchnews.nl/features/2019/07/11-cities-of-friesland/"] },
     { id: "orvelte", cat: "gor", area: "cevre", title: "Step back in time in Orvelte",
       desc: "A car-free Drenthe village kept as a living monument of old farm architecture, with Saxon farmhouses, cobbled lanes and craftspeople at work. The Bruntingerhof is said to be the oldest surviving farm in Drenthe.",
       tip: "Leave the car outside the village and take the horse-drawn tram; there is a market or event on many weekends.", q: "Orvelte", src: ["https://en.wikipedia.org/wiki/Orvelte", "https://www.opreismetco.nl/en/?p=72076"] },
@@ -185,44 +151,14 @@ window.CITIES.groningen = {
     { id: "oostum", cat: "gor", area: "cevre", title: "Find the little church of Oostum",
       desc: "A 13th-century church on a mound in the flat countryside, painted again and again by the expressionists of De Ploeg. It is the Groningen landscape in one picture.",
       tip: "It lies on stage 2 of the Pieterpad between Winsum and Groningen, a good walk or bike ride from the city.", q: "Kerk van Oostum", tags: ["free"], src: ["https://www.opreismetco.nl/en/the-netherlands/things-to-do-in-groningen"] },
-    { id: "bornrif", cat: "gor", area: "cevre", title: "Climb the striped lighthouse of Ameland",
-      desc: "The red-and-white Bornrif lighthouse near Hollum has stood since 1881 and is now a museum. From the balcony, after more than 230 steps, you see the whole island and on clear days its neighbours.",
-      tip: "Ferries to Ameland leave from Holwerd; rent a bike in Nes and cycle west to Hollum.", q: "Vuurtoren Ameland Hollum", src: ["https://nl.wikipedia.org/wiki/Bornrif_(vuurtoren)", "https://en.wikivoyage.org/wiki/Ameland"] },
     { id: "tantetil", cat: "ye", area: "cevre", title: "Eat poffertjes at Tante Til in Enumatil",
       desc: "A charming coffee and tea house in the Westerkwartier, known for warm homemade poffertjes with butter and brown sugar. A favourite stop on a drive or ride west of the city.",
       tip: "Combine it with the windmill in Noordhorn and the farm shop there on the way back.", q: "Tante Til Enumatil", src: ["https://www.visitgroningen.nl/en/blogs/road-trip-north-groningen"] },
-    { id: "suikerbroodsneek", cat: "ye", area: "cevre", title: "Buy Frisian suikerbrood in Sneek",
-      desc: "Fries suikerbrood is a soft bread packed with pearl sugar and cinnamon, and it tastes best fresh from a Frisian bakery. Bakkerij De Haan in Sneek is a local favourite, and also bakes oranjekoek.",
-      tip: "Eat a slice with butter, then walk to the Waterpoort, Sneek's water gate.", q: "Bakkerij De Haan Sneek", src: ["https://www.dutchnews.nl/features/2018/11/dutch-destinations-enjoy-suikerbrood-and-sailing-in-sneek/"] },
     { id: "lauwersoogvis", cat: "ye", area: "cevre", title: "Eat fresh fish in Lauwersoog harbour",
       desc: "Lauwersoog is the fishing harbour at the edge of the Lauwersmeer national park, where the catch from the Wadden and North Sea comes in. The fish market by the boats is the place for a fresh lekkerbekje or kibbeling.",
       tip: "Afterwards climb the dyke on the Strandweg for a 360 degree view over the sea and the national park.", q: "Haven Lauwersoog", src: ["https://www.visitgroningen.nl/en/blogs/road-trip-north-groningen"] },
-    { id: "lickebaert", cat: "ye", area: "cevre", title: "Eat poffertjes at De Lickebaert on Vlieland",
-      desc: "On car-free Vlieland the pancake house De Lickebaert on the Dorpsstraat is the classic stop for a plate of fluffy poffertjes with powdered sugar.",
-      tip: "Ferries to Vlieland leave from Harlingen; everyone on the island gets around by bike.", q: "De Lickebaert Vlieland", src: ["https://en.wikivoyage.org/wiki/Vlieland"] },
-    { id: "cranberryterschelling", cat: "ye", area: "cevre", title: "Taste Terschelling cranberries",
-      desc: "Cranberries grow wild in Terschelling's wet dune valleys, supposedly since a barrel washed ashore in 1845. Islanders turn them into chutney, cordial, wine and sweets you will hardly find on the mainland.",
-      tip: "Look for cranberry products in the shops around the Torenstraat in West-Terschelling, and order cranberry juice or cake in the island cafés.", q: "West-Terschelling", src: ["https://nl.wikipedia.org/wiki/Terschelling", "https://www.dutchnews.nl/features/2019/05/dutch-destinations-the-wadden-sea-island-of-terschelling"] },
-    { id: "blokhuispoort", cat: "dene", area: "cevre", title: "Roam the old prison of the Blokhuispoort in Leeuwarden",
-      desc: "Leeuwarden's former prison is now a cultural hub with the city library, studios, small shops, cafés and a hostel in the old cells. Walking its galleries and corridors is free.",
-      tip: "Spend the night at the Alibi Hostel if you want to sleep behind bars.", q: "Blokhuispoort Leeuwarden", tags: ["free", "rainy day"], src: ["https://www.roughguides.com/article/leeuwarden-the-coolest-dutch-city-youve-never-heard-of", "https://www.blokhuispoort.nl/"] },
-    { id: "kaatsen", cat: "dene", area: "cevre", title: "Watch kaatsen at the PC in Franeker",
-      desc: "Kaatsen is Friesland's own ball game, a kind of handball with tennis-like scoring. Its big tournament, the PC, has been played in Franeker since 1854 and calls itself the oldest regular sports tournament in the world.",
-      tip: "The whole town comes out for the PC in summer; check the date and combine it with the Eise Eisinga Planetarium.", q: "Sjûkelân Franeker", months: [7, 8], src: ["https://en.wikipedia.org/wiki/Kaatsen", "https://www.roughguides.com/destinations/europe/netherlands/north-and-the-frisian-islands/makkum"] },
-    { id: "skutsjesilen", cat: "dene", area: "cevre", title: "Cheer on the skûtsjes on the Frisian lakes",
-      desc: "Every summer the old Frisian cargo sailing boats, the skûtsjes, race across the Frisian lakes in a series of regattas that draws crowds to the shores. Friesland is built around its lakes, and this is when they come alive.",
-      tip: "Ask a tourist office for the race calendar; around Sneek and Grou you can watch from the shore or from a spectator boat.", q: "Pikmeer Grou", months: [7, 8], tags: ["free"], src: ["https://www.roughguides.com/destinations/europe/netherlands/north-and-the-frisian-islands/sloten"] },
-    { id: "dwingelderveld", cat: "dene", area: "cevre", title: "Hike the heath of the Dwingelderveld",
-      desc: "This Drenthe national park protects what is called the largest wet heathland in Western Europe, with fens, moorland and a flock of sheep keeping the heather short. In late summer the heath turns purple.",
-      tip: "Start at the visitor centre and follow the boardwalk routes; come in August or September for the blooming heather.", q: "Nationaal Park Dwingelderveld", tags: ["free"], src: ["https://en.wikipedia.org/wiki/Dwingelderveld_National_Park"] },
     { id: "lauwersmeersterren", cat: "dene", area: "cevre", title: "Stargaze in Lauwersmeer national park",
       desc: "Lauwersmeer is one of the darkest places in the Netherlands and an official Dark Sky Park. Viewing platforms (hemelplatforms) such as the Vlinderbalg let you lie back under a sky full of stars.",
-      tip: "Pick a clear, moonless night, give your eyes twenty minutes to adjust and bring a blanket; it gets cold by the water.", q: "Hemelplatform Vlinderbalg Lauwersoog", tags: ["free"], src: ["https://www.visitgroningen.nl/en/locations/province/nationaal-park-lauwersmeer/attractions-lauwersmeer-np"] },
-    { id: "oerol", cat: "dene", area: "cevre", title: "Cycle between shows at Oerol on Terschelling",
-      desc: "For ten days every June the whole island becomes a stage, with theatre in the dunes, barns, bunkers and on the beach. The name comes from the island word for 'everywhere'.",
-      tip: "Book your bed months ahead and bring or rent a bike; much of the street theatre is free.", q: "Oerol Terschelling", months: [6], src: ["https://en.wikipedia.org/wiki/Oerol", "https://www.dutchnews.nl/features/2019/05/dutch-destinations-the-wadden-sea-island-of-terschelling"] },
-    { id: "vliehors", cat: "dene", area: "cevre", title: "Ride the Vliehors Express on Vlieland",
-      desc: "A big off-road truck carries you across the Vliehors, a vast sand plain at the west end of Vlieland that feels like a desert. With luck you see seals on the way without getting on a boat.",
-      tip: "Tours leave from Het Posthuys; book ahead in summer.", q: "Het Posthuys Vlieland", src: ["https://en.wikivoyage.org/wiki/Vlieland"] }
+      tip: "Pick a clear, moonless night, give your eyes twenty minutes to adjust and bring a blanket; it gets cold by the water.", q: "Hemelplatform Vlinderbalg Lauwersoog", tags: ["free"], src: ["https://www.visitgroningen.nl/en/locations/province/nationaal-park-lauwersmeer/attractions-lauwersmeer-np"] }
   ]
 };

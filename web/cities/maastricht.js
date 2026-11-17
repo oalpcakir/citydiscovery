@@ -1,7 +1,8 @@
 // Quests for the Maastricht region.
 // cat: gor (see) | ye (eat & drink) | dene (do); area: a key of `areas`;
-// months: only for quests tied to certain months (1-12). To add a region, copy a file like this,
-// change the id, add a <script> line to index.html and re-run tools/build_regions.py.
+// months: only for quests tied to certain months (1-12). To add a region, add a hub to tools/hubs.json
+// and run tools/rebuild_regions.py and tools/reassign_quests.py.
+
 window.CITIES = window.CITIES || {};
 window.CITIES.maastricht = {
   id: "maastricht",
@@ -18,27 +19,25 @@ window.CITIES.maastricht = {
     cevre: "Surroundings"
   },
   // Map view when the region opens (the main city) and quest positions [lat, lng].
-  bounds: [[50.815, 5.650], [50.870, 5.730]],
+  bounds: [[50.815, 5.65], [50.87, 5.73]],
   coords: {
-    sintjan: [50.8488, 5.6869], dominicanen: [50.8500, 5.6897], vogelstruys: [50.8485, 5.6894],
-    carnaval: [50.8494, 5.6879], preuvenemint: [50.8490, 5.6886],
-    helpoort: [50.8454, 5.6958], bisschopsmolen: [50.8472, 5.6917], zoervleis: [50.8458, 5.6935],
-    servaasbrug: [50.8494, 5.6968], bonnefanten: [50.8424, 5.7022],
-    sphinxpassage: [50.8552, 5.6885], lumiere: [50.8560, 5.6900],
-    grotten: [50.8335, 5.6850], enci: [50.8242, 5.6825], apostelhoeve: [50.8255, 5.6680],
-    kerststad: [50.8624, 5.8287], cauberg: [50.8589, 5.8221], drielandenpunt: [50.7560, 6.0192],
-    gulpener: [50.8158, 5.8905], thorn: [51.1612, 5.8408], roermond: [51.1937, 5.9880], margraten: [50.8185, 5.8052],
-    kruisheren: [50.8486, 5.6839], sterrederzee: [50.8474, 5.6936], maastrichtmuseum: [50.8458, 5.7011],
-    frontenpark: [50.8572, 5.6853], lichtenberg: [50.8227, 5.6946], marreskitchen: [50.8518, 5.6858],
-    limburgwijn: [50.8484, 5.6908], marktmarkt: [50.8512, 5.6912], dezwaan: [50.8516, 5.6906],
-    bassin: [50.8560, 5.6907], neercanne: [50.8186, 5.6675], kazematten: [50.8434, 5.6805],
-    brouwerijbosch: [50.8485, 5.6994], maasboot: [50.8510, 5.6941], andrerieu: [50.8490, 5.6886],
-    hoensbroek: [50.9169, 5.9181], glaspaleis: [50.8878, 5.9792], rolduc: [50.8678, 6.0817],
-    wahlwiller: [50.8104, 5.9371], sittardmarkt: [50.9979, 5.8706], steyl: [51.3331, 6.1219],
-    venlostadhuis: [51.3704, 6.1690], epenvakwerk: [50.7757, 5.9145], hijgendhert: [50.7718, 5.9647],
-    asperges: [51.3713, 6.1690], alfabier: [50.9361, 5.8931], jachthut: [51.5390, 6.1530],
-    miljoenenlijn: [50.8337, 5.9810], hamert: [51.5192, 6.1743], kasteeltuinen: [51.4680, 6.1847],
-    steenkolenmijn: [50.8582, 5.8276], pinkpop: [50.8799, 6.0227], voerstreek: [50.7686, 5.8620]
+    dominicanen: [50.8500, 5.6897], helpoort: [50.8454, 5.6958], servaasbrug: [50.8494, 5.6968],
+    bonnefanten: [50.8424, 5.7022], sphinxpassage: [50.8552, 5.6885], thorn: [51.1612, 5.8408],
+    roermond: [51.1937, 5.9880], margraten: [50.8185, 5.8052], vogelstruys: [50.8485, 5.6894],
+    preuvenemint: [50.8490, 5.6886], bisschopsmolen: [50.8472, 5.6917], zoervleis: [50.8458, 5.6935],
+    apostelhoeve: [50.8255, 5.6680], gulpener: [50.8158, 5.8905], sintjan: [50.8488, 5.6869],
+    carnaval: [50.8494, 5.6879], lumiere: [50.8560, 5.6900], grotten: [50.8335, 5.6850],
+    enci: [50.8242, 5.6825], kerststad: [50.8624, 5.8287], cauberg: [50.8589, 5.8221],
+    drielandenpunt: [50.7560, 6.0192], kruisheren: [50.8486, 5.6839], sterrederzee: [50.8474, 5.6936],
+    maastrichtmuseum: [50.8458, 5.7011], frontenpark: [50.8572, 5.6853], lichtenberg: [50.8227, 5.6946],
+    marreskitchen: [50.8518, 5.6858], limburgwijn: [50.8484, 5.6908], marktmarkt: [50.8512, 5.6912],
+    dezwaan: [50.8516, 5.6906], bassin: [50.8560, 5.6907], neercanne: [50.8186, 5.6675],
+    kazematten: [50.8434, 5.6805], brouwerijbosch: [50.8485, 5.6994], maasboot: [50.8510, 5.6941],
+    andrerieu: [50.8490, 5.6886], hoensbroek: [50.9169, 5.9181], glaspaleis: [50.8878, 5.9792],
+    rolduc: [50.8678, 6.0817], wahlwiller: [50.8104, 5.9371], sittardmarkt: [50.9979, 5.8706],
+    epenvakwerk: [50.7757, 5.9145], hijgendhert: [50.7718, 5.9647], alfabier: [50.9361, 5.8931],
+    miljoenenlijn: [50.8337, 5.9810], steenkolenmijn: [50.8582, 5.8276], pinkpop: [50.8799, 6.0227],
+    voerstreek: [50.7686, 5.8620]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -50,7 +49,6 @@ window.CITIES.maastricht = {
     cevre: { icon: "🚵", name: "Heuvelland Explorer" }
   },
   quests: [
-    // SEE
     { id: "dominicanen", cat: "gor", area: "merkez", title: "Get lost in the bookshop inside the church",
       desc: "The 13th-century Dominican church is now Boekhandel Dominicanen: a three-storey steel bookcase rises under the Gothic vaults. A permanent fixture on lists of the world's most beautiful bookshops.",
       tip: "Go up to the top floor and see the ceiling frescoes at eye level. You can have coffee in the old choir section.", q: "Boekhandel Dominicanen Maastricht", tags: ["free", "rainy day"] },
@@ -75,8 +73,6 @@ window.CITIES.maastricht = {
     { id: "margraten", cat: "gor", area: "cevre", title: "Visit the American cemetery at Margraten",
       desc: "More than eight thousand soldiers lie in the only American military cemetery in the Netherlands. Every grave has been 'adopted' by a local family, and the duty is passed down from generation to generation.",
       tip: "The walls at the entrance carry the names of the missing; pick a quiet weekday morning.", q: "Netherlands American Cemetery Margraten", tags: ["free"] },
-
-    // EAT & DRINK
     { id: "vogelstruys", cat: "ye", area: "merkez", title: "Take a seat at In den Ouden Vogelstruys",
       desc: "This café on the corner of the Vrijthof is one of the city's oldest drinking spots. With its dim wooden interior, old photographs on the walls and regulars at the bar, it's Maastricht's living room.",
       tip: "Ask for a local beer with a portion of cheese or dry sausage on the side.", q: "In den Ouden Vogelstruys Maastricht", tags: ["rainy day"] },
@@ -95,8 +91,6 @@ window.CITIES.maastricht = {
     { id: "gulpener", cat: "ye", area: "cevre", title: "Drink the beer at the source in Gulpen",
       desc: "Gulpener is an independent family brewery that has been brewing in the same village since the 19th century, and it buys its barley and hops from farmers nearby.",
       tip: "Ask for a tasting board at BrouwLokaal next to the brewery; a great stop in the middle of a Heuvelland bike tour.", q: "Gulpener BrouwLokaal Gulpen" },
-
-    // DO
     { id: "sintjan", cat: "dene", area: "merkez", title: "Climb the red tower of Sint-Jan",
       desc: "The blood-red tower of Sint-Janskerk, the smaller of the two churches on the Vrijthof, is visible from all over town. At the end of the narrow stone stairs, Maastricht's rooftops, the Maas and the Sint-Pietersberg lie at your feet.",
       tip: "The tower is only open in season; check before you go. Visit the neighbouring Sint-Servaasbasiliek the same day.", q: "Sint-Janskerk Maastricht", months: [4, 5, 6, 7, 8, 9, 10] },
@@ -181,36 +175,18 @@ window.CITIES.maastricht = {
     { id: "sittardmarkt", cat: "gor", area: "cevre", title: "Walk the old fortress town of Sittard",
       desc: "Sittard's Markt, laid out around 1300, is ringed by half-timbered houses and terraces, with the 80-metre tower of the Grote Kerk rising behind it. Quiet lanes, monastery gardens and remains of the walls surround the centre.",
       tip: "Sittard station is a short walk from the Markt; follow the Kerkepad past the Sint-Michielskerk before sitting down on a terrace.", q: "Markt Sittard", tags: ["free"], src: ["https://www.anwb.nl/wandelen/routes/stadswandeling-sittard"] },
-    { id: "steyl", cat: "gor", area: "cevre", title: "Visit the mission village of Steyl near Venlo",
-      desc: "Steyl, on the Maas just south of Venlo, is a village of monasteries founded by Saint Arnold Janssen. Its Missiemuseum, barely changed since the early 1900s, is crammed with objects missionaries sent home from around the world.",
-      tip: "Wander the Jochumhof botanical garden too, then take the little ferry across the Maas to Baarlo.", q: "Missiemuseum Steyl", tags: ["rainy day"], src: ["https://nl.wikipedia.org/wiki/Steyl"] },
-    { id: "venlostadhuis", cat: "gor", area: "cevre", title: "Look up at the Renaissance stadhuis of Venlo",
-      desc: "Venlo's late 16th-century town hall stands in the middle of the Markt, its façade decorated with medallions of famous townspeople. Nearby Gasthuisstraat is one of the most medieval streets in the country.",
-      tip: "Afterwards find the bronze köpkes, little heads of local characters, along the Keizerstraat, known locally as Floddergats.", q: "Stadhuis Venlo", tags: ["free"], src: ["https://en.wikivoyage.org/wiki/Venlo", "https://www.invenlo.com/nl/en/discover-venlo/must-see/"] },
     { id: "epenvakwerk", cat: "gor", area: "cevre", title: "Spot half-timbered farms around Epen",
       desc: "The upper Geul valley around Epen, Mechelen and Cottessen is the most hilly and rural corner of the Netherlands, dotted with white half-timbered farmhouses, some from the 15th century. Locals call it the prettiest stretch of the Heuvelland.",
       tip: "Walk the lanes between Epen and Mechelen or up to the hamlet of Camerig for the best clusters of vakwerk houses.", q: "Epen", tags: ["free"], src: ["https://en.wikivoyage.org/wiki/South_Limburg", "https://www.27vakantiedagen.nl/?p=57759"] },
     { id: "hijgendhert", cat: "ye", area: "cevre", title: "Refuel at the 'mountain hut' in the Vijlenerbos",
       desc: "Boscafé 't Hijgend Hert, deep in the beech woods near Vijlen, calls itself the only mountain hut in the Netherlands. There has been a café here since 1933, and it now brews its own Hert beer.",
       tip: "Walk in from Vijlen or the parking area on the Epenerbaan; huge slices of vlaai are the reward.", q: "Boscafé 't Hijgend Hert Vijlen", src: ["https://www.boscafe.nl"] },
-    { id: "asperges", cat: "ye", area: "cevre", title: "Eat Limburg asparagus in season in Venlo",
-      desc: "The sandy soils of Noord-Limburg grow the region's famous white asparagus. In spring it appears on every menu and is sold from stalls along the country roads.",
-      tip: "Order it the classic way, with ham, egg and melted butter, or buy a bundle at the Venlo weekmarkt to cook yourself.", q: "Weekmarkt Venlo Nolensplein", months: [4, 5, 6], src: ["https://en.wikivoyage.org/wiki/Venlo"] },
     { id: "alfabier", cat: "ye", area: "cevre", title: "Taste Alfa beer at its brewery in Thull",
       desc: "Alfa is a small independent family brewery in the hamlet of Thull near Schinnen, and its beers have collected gold awards. A taste of Limburg brewing far from the big names.",
       tip: "Check the brewery website for tour days; a visit fits neatly into a bike ride between Valkenburg and Sittard.", q: "Alfa Brouwerij Thull Schinnen", src: ["https://www.visitmaastricht.com/en/blog/maastricht-s-rich-beer-culture", "https://en.wikivoyage.org/wiki/South_Limburg"] },
-    { id: "jachthut", cat: "ye", area: "cevre", title: "Eat pancakes at the Jachthut op den Hamert",
-      desc: "A pancake restaurant in a hunting lodge on the edge of the river dunes of De Hamert, near Wellerlooi in Noord-Limburg. It is the classic start and finish of walks through the Maasduinen.",
-      tip: "Earn your pancake first: do one of the marked dune loops that begin right outside, then sit down with muddy boots.", q: "Jachthut op den Hamert Wellerlooi", src: ["https://www.anwb.nl/wandelen/routes/parel-aan-de-maas"] },
     { id: "miljoenenlijn", cat: "dene", area: "cevre", title: "Ride the steam train on the Miljoenenlijn",
       desc: "The 'Million Line' got its name because its tunnels, cuttings and high embankments through the mining region cost a fortune in the 1930s. Volunteers now run steam and vintage trains between Kerkrade and Schin op Geul.",
       tip: "Start in Simpelveld, the railway's home base with its museum and old station; trains run mainly from spring to autumn.", q: "Station Simpelveld ZLSM", months: [3, 4, 5, 6, 7, 8, 9, 10], src: ["https://www.erih.net/i-want-to-go-there/site/de-miljoenenlijn-south-limburg-steam-train-company", "https://www.visitzuidlimburg.com/experience-zuid-limburg/attraction/miljoenenlijn-halteplaats-station-kerkrade/384505/"] },
-    { id: "hamert", cat: "dene", area: "cevre", title: "Walk the river dunes of De Hamert",
-      desc: "National Park De Maasduinen holds the longest belt of river dunes in the Netherlands. At Landgoed De Hamert, trails cross drifting sand, heath and fens, past a Bronze Age burial mound.",
-      tip: "Marked loops of different lengths start from the information board at the Jachthut; bus 83 between Venlo and Nijmegen stops at Wellerlooi.", q: "Landgoed De Hamert Wellerlooi", tags: ["free"], src: ["https://www.anwb.nl/wandelen/routes/parel-aan-de-maas", "https://nl.wikipedia.org/wiki/Nationaal_Park_De_Maasduinen"] },
-    { id: "kasteeltuinen", cat: "dene", area: "cevre", title: "Stroll the Kasteeltuinen of Arcen",
-      desc: "More than fifteen gardens, from Renaissance parterres to ponds and rose beds, are laid out around a 17th-century castle in the Maas village of Arcen. One of the most varied garden parks in Europe.",
-      tip: "Combine it with a walk through Arcen's old centre on the Maas; in late November the park hosts a Christmas fair.", q: "Kasteeltuinen Arcen", months: [4, 5, 6, 7, 8, 9, 10], src: ["https://www.kasteeltuinen.nl", "https://www.parkvakanties.nl/blog/algemeen/mooiste-plekken-noord-limburg"] },
     { id: "steenkolenmijn", cat: "dene", area: "cevre", title: "Go down the coal mine in Valkenburg",
       desc: "Since 1917 a former marl quarry under Valkenburg has been dressed up as a coal mine, filled with real machines from the Limburg pits that closed in the 1970s. Guides, some of them ex-miners, tell what life underground was like.",
       tip: "Tours leave every hour; it stays around 15 degrees below ground, so bring a layer.", q: "Steenkolenmijn Valkenburg", tags: ["rainy day"], src: ["https://nl.wikipedia.org/wiki/Steenkolenmijn_Valkenburg", "https://www.steenkolenmijn.nl"] },

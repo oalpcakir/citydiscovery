@@ -1,7 +1,8 @@
 // Quests for the Brugge region.
 // cat: gor (see) | ye (eat & drink) | dene (do); area: a key of `areas`;
-// months: only for quests tied to certain months (1-12). To add a region, copy a file like this,
-// change the id, add a <script> line to index.html and re-run tools/build_regions.py.
+// months: only for quests tied to certain months (1-12). To add a region, add a hub to tools/hubs.json
+// and run tools/rebuild_regions.py and tools/reassign_quests.py.
+
 window.CITIES = window.CITIES || {};
 window.CITIES.brugge = {
   id: "brugge",
@@ -17,15 +18,15 @@ window.CITIES.brugge = {
     cevre: "Surroundings"
   },
   // Map view when the region opens (the main city) and quest positions [lat, lng].
-  bounds: [[51.190, 3.200], [51.228, 3.250]],
+  bounds: [[51.19, 3.2], [51.228, 3.25]],
   coords: {
-    belfort: [51.2082, 3.2249], heiligbloed: [51.2083, 3.2266], processie: [51.2088, 3.2242], garre: [51.2084, 3.2258],
-    rozenhoedkaai: [51.2071, 3.2270], dumon: [51.2095, 3.2237],
-    begijnhof: [51.2012, 3.2227], halvemaan: [51.2026, 3.2243], madonna: [51.2047, 3.2244],
-    molens: [51.2166, 3.2387], vlissinghe: [51.2124, 3.2305], kant: [51.2127, 3.2339],
-    hanze: [51.2114, 3.2268], langerei: [51.2185, 3.2287],
-    damme: [51.2517, 3.2817], garnaal: [51.2325, 2.9225], kusttram: [51.2284, 2.9262], dehaan: [51.2729, 3.0343],
-    zwin: [51.3625, 3.3495], lastpost: [50.8520, 2.8911], westvleteren: [50.8957, 2.7213],
+    heiligbloed: [51.2083, 3.2266], rozenhoedkaai: [51.2071, 3.2270], begijnhof: [51.2012, 3.2227],
+    madonna: [51.2047, 3.2244], molens: [51.2166, 3.2387], hanze: [51.2114, 3.2268],
+    dehaan: [51.2729, 3.0343], garre: [51.2084, 3.2258], dumon: [51.2095, 3.2237],
+    halvemaan: [51.2026, 3.2243], vlissinghe: [51.2124, 3.2305], garnaal: [51.2325, 2.9225],
+    westvleteren: [50.8957, 2.7213], belfort: [51.2082, 3.2249], processie: [51.2088, 3.2242],
+    kant: [51.2127, 3.2339], langerei: [51.2185, 3.2287], damme: [51.2517, 3.2817],
+    kusttram: [51.2284, 2.9262], zwin: [51.3625, 3.3495], lastpost: [50.8520, 2.8911],
     groeninge: [51.2054, 3.2273], memling: [51.2040, 3.2238], stadhuis: [51.2078, 3.2264],
     godshuizen: [51.2031, 3.2252], brusk: [51.2052, 3.2264], smedenpoort: [51.2048, 3.2116],
     centralekerkhof: [51.1928, 3.2403], schuttersgilde: [51.2120, 3.2355], brugsbeertje: [51.2066, 3.2218],
@@ -34,12 +35,11 @@ window.CITIES.brugge = {
     augustijnenrei: [51.2133, 3.2249], coupure: [51.2087, 3.2327], concertgebouw: [51.2031, 3.2176],
     bierfestival: [51.2042, 3.2162], wintergloed: [51.2010, 3.2196], lissewege: [51.2942, 3.1990],
     raversyde: [51.2030, 2.8480], dodengang: [51.0468, 2.8436], vladslo: [51.0706, 2.9295],
-    kortrijkbegijnhof: [50.8275, 3.2683], tielthalle: [50.9993, 3.3268], blankenbergepier: [51.3202, 3.1373],
-    talbothouse: [50.8547, 2.7230], veurnemarkt: [51.0723, 2.6624], hopscheuten: [50.8553, 2.7264],
-    sintbernardus: [50.8419, 2.6386], rodenbach: [50.9468, 3.1375], dedolle: [51.0286, 2.9045],
-    tantemarie: [51.2503, 3.2812], vismijn: [51.1340, 2.7480], paardenvissers: [51.1380, 2.6780],
-    westhoekreserve: [51.0870, 2.5650], ieperwallen: [50.8466, 2.8858], kattenstoet: [50.8509, 2.8855],
-    ijzertoren: [51.0317, 2.8533]
+    tielthalle: [50.9993, 3.3268], blankenbergepier: [51.3202, 3.1373], talbothouse: [50.8547, 2.7230],
+    veurnemarkt: [51.0723, 2.6624], hopscheuten: [50.8553, 2.7264], sintbernardus: [50.8419, 2.6386],
+    rodenbach: [50.9468, 3.1375], dedolle: [51.0286, 2.9045], tantemarie: [51.2503, 3.2812],
+    vismijn: [51.1340, 2.7480], paardenvissers: [51.1380, 2.6780], westhoekreserve: [51.0870, 2.5650],
+    ieperwallen: [50.8466, 2.8858], kattenstoet: [50.8509, 2.8855], ijzertoren: [51.0317, 2.8533]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -50,7 +50,6 @@ window.CITIES.brugge = {
     cevre: { icon: "🌊", name: "Coast Explorer" }
   },
   quests: [
-    // ───────────── SEE ─────────────
     { id: "heiligbloed", cat: "gor", area: "merkez", title: "Visit both floors of the Basilica of the Holy Blood",
       desc: "The small basilica on the corner of the Burg square keeps a relic of holy blood believed to have been brought back from the Crusades. Below is a dim Romanesque chapel, above a colourful neo-Gothic hall.",
       tip: "Most visitors only go to the upper floor; step into the Sint-Basilius chapel downstairs too.", q: "Basiliek van het Heilig Bloed Brugge", tags: ["rainy day"] },
@@ -72,8 +71,6 @@ window.CITIES.brugge = {
     { id: "dehaan", cat: "gor", area: "cevre", title: "See the Belle Époque villas of De Haan",
       desc: "A rare town on the Belgian coast spared from high-rise apartments: white villas from the 1900s along winding streets, and a fairy-tale tram station. Einstein stayed here for months in 1933.",
       tip: "Get off the coast tram at the 'De Haan aan Zee' stop, wander the Concessie district and find the statue of Einstein sitting on a bench.", q: "Tramstation De Haan aan Zee", tags: ["free"] },
-
-    // ───────────── EAT & DRINK ─────────────
     { id: "garre", cat: "ye", area: "merkez", title: "Find the hidden alley to De Garre",
       desc: "At the end of one of the city's narrowest alleys, off Breidelstraat between the Markt and the Burg, you find Staminee De Garre. The house's own tripel is served only here, with a piece of cheese.",
       tip: "The beer is very strong; sit in the wooden gallery upstairs and take your time.", q: "Staminee De Garre Brugge", tags: ["rainy day"] },
@@ -92,8 +89,6 @@ window.CITIES.brugge = {
     { id: "westvleteren", cat: "ye", area: "cevre", title: "Drink a Westvleteren across from the abbey",
       desc: "The monks of Sint-Sixtus Abbey brew one of the most sought-after beers in the world, only as much as they need, and hardly distribute it at all. The place where you can drink it with no fuss is the In de Vrede café, right across from the abbey.",
       tip: "The café has closing days, so check ahead. For non-drivers: the 12 is the darkest and strongest.", q: "In de Vrede Westvleteren" },
-
-    // ───────────── DO ─────────────
     { id: "belfort", cat: "dene", area: "merkez", title: "Climb the 366 steps of the Belfort",
       desc: "The 83-metre bell tower on the Markt guarded the city's treasure and its charters in the Middle Ages. At the top, a 47-bell carillon and the rooftops of all of Bruges are waiting.",
       tip: "Tickets are timed and the staircase is narrow; book the first slot. Being on the square while the carillon plays is lovely too.", q: "Belfort Brugge" },
@@ -190,9 +185,6 @@ window.CITIES.brugge = {
     { id: "vladslo", cat: "gor", area: "cevre", title: "Stand before the Grieving Parents in Vladslo",
       desc: "In the German military cemetery at Vladslo near Diksmuide kneel Käthe Kollwitz's two stone figures, the Grieving Parents. Her own son Peter lies buried in front of them.",
       tip: "It is a quiet place in the woods; come by bike from Diksmuide and give yourself time there.", q: "Duitse Militaire Begraafplaats Vladslo", tags: ["free"], src: ["https://en.wikivoyage.org/wiki/Diksmuide", "https://en.wikivoyage.org/wiki/Ypres"] },
-    { id: "kortrijkbegijnhof", cat: "gor", area: "cevre", title: "Visit Kortrijk's Begijnhof and the Broeltorens",
-      desc: "Kortrijk's UNESCO-listed beguinage, founded in 1238, is a tiny walled world of 17th-century houses where the last beguine in the world lived until 2013. A few steps away, the two Broeltorens guard the river Leie.",
-      tip: "Look for the statue of Marcella Pattyn, the last beguine, then cross the Leie for the best view of the towers.", q: "Begijnhof Kortrijk", tags: ["free"], src: ["https://nl.wikipedia.org/wiki/Begijnhof_(Kortrijk)", "https://en.wikivoyage.org/wiki/Kortrijk"] },
     { id: "tielthalle", cat: "gor", area: "cevre", title: "See the Halletoren on Tielt's market square",
       desc: "Tielt's belfry rises out of the old cloth hall in the middle of the Markt and belongs to the UNESCO-listed belfries of Belgium and France. Around the town, walking and cycling routes pass old windmills.",
       tip: "Tielt is on the train line between Brugge and Kortrijk, so it is an easy stop on the way.", q: "Halletoren Tielt", tags: ["free"], src: ["https://en.wikipedia.org/wiki/Tielt"] },

@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  var APP_VERSION = "0.7.0";
+  var APP_VERSION = "0.8.0";
   var STORE_KEY = "citydiscovery.v1";
   var CATS = {
     gor: { label: "See", icon: "👀", color: "#3b82f6" },
@@ -76,21 +76,22 @@
     if (m) m.setAttribute("content", theme() === "dark" ? "#171c26" : "#f4f6fb");
   }
 
-  // ── Badges and points ──────────────────────────────────────
-  // Badges are never stored; they are recomputed from completed quests.
+  // ── Badges ─────────────────────────────────────────────────
+  // Badges and XP are never stored; they are recomputed from the completion log.
   var TIERS = [
-    { key: "bronze", label: "Bronze", pts: 25 },
-    { key: "silver", label: "Silver", pts: 50 },
-    { key: "gold", label: "Gold", pts: 100 }
+    { key: "bronze", label: "Bronze", xp: 100 },
+    { key: "silver", label: "Silver", xp: 200 },
+    { key: "gold", label: "Gold", xp: 400 }
   ];
-  var QUEST_PTS = 10, SPECIAL_PTS = 30;
+  var SPECIAL_XP = 150;
   var CAT_BADGES = {
     gor: { icon: "👀", name: "Sightseer" },
     ye: { icon: "🍴", name: "Foodie" },
     dene: { icon: "✨", name: "Adventurer" }
   };
+  function areaQuests(c, a) { return c.quests.filter(function (q) { return q.area === a; }); }
 
-  function badges() {
+  function badges(c) {
     var out = [];
     function tiered(id, group, meta, list, what) {
       var s = stats(list);
@@ -104,31 +105,37 @@
       out.push({ id: id, group: "Special", icon: icon, name: name, desc: desc, tier: have >= goal ? 1 : 0, max: 1,
         have: Math.min(have, goal), goal: goal });
     }
-    Object.keys(city.areas).forEach(function (a) {
-      var meta = (city.areaBadges && city.areaBadges[a]) || { icon: "📍", name: city.areas[a] };
-      tiered("area-" + a, "Areas", meta, inArea(a), city.areas[a] + " quests");
+    Object.keys(c.areas).forEach(function (a) {
+      var meta = (c.areaBadges && c.areaBadges[a]) || { icon: "📍", name: c.areas[a] };
+      tiered("area-" + a, "Areas", meta, areaQuests(c, a), c.areas[a] + " quests");
     });
-    Object.keys(CATS).forEach(function (c) {
-      tiered("cat-" + c, "Categories", CAT_BADGES[c], city.quests.filter(function (q) { return q.cat === c; }), CATS[c].label + " quests");
+    Object.keys(CATS).forEach(function (k) {
+      tiered("cat-" + k, "Categories", CAT_BADGES[k], c.quests.filter(function (q) { return q.cat === k; }), CATS[k].label + " quests");
     });
-    var done = city.quests.filter(isDone), perDay = {}, bestDay = 0;
+    var done = c.quests.filter(isDone), perDay = {}, bestDay = 0;
     done.forEach(function (q) {
       var d = new Date(rec(q).at).toDateString();
       perDay[d] = (perDay[d] || 0) + 1;
       if (perDay[d] > bestDay) bestDay = perDay[d];
     });
-    var areaKeys = Object.keys(city.areas);
+    var areaKeys = Object.keys(c.areas);
     var touched = areaKeys.filter(function (a) { return done.some(function (q) { return q.area === a; }); }).length;
-    var notes = city.quests.filter(function (q) { var r = rec(q); return r && r.note; }).length;
-    single("first", "👣", "First Steps", "Complete your first quest", done.length, 1);
-    single("ten", "🔟", "Warm-up", "Complete 10 quests", done.length, Math.min(10, city.quests.length));
-    single("half", "🧭", "Halfway There", "Complete half of all quests", done.length, Math.ceil(city.quests.length / 2));
+    var notes = c.quests.filter(function (q) { var r = rec(q); return r && r.note; }).length;
+    single("first", "👣", "First Steps", "Complete your first quest here", done.length, 1);
+    single("ten", "🔟", "Warm-up", "Complete 10 quests here", done.length, Math.min(10, c.quests.length));
+    single("half", "🧭", "Halfway There", "Complete half of all quests here", done.length, Math.ceil(c.quests.length / 2));
     single("everywhere", "🗺️", "All Corners", "Complete a quest in every area", touched, areaKeys.length);
     single("fullday", "⚡", "Packed Day", "Complete 3 quests in one day", bestDay, 3);
     single("season", "🍂", "Season Hunter", "Complete 3 seasonal quests", done.filter(function (q) { return q.months; }).length, 3);
     single("diary", "📓", "Diary Keeper", "Write notes on 5 quests", notes, 5);
-    single("all", "👑", city.levels[city.levels.length - 1], "Complete every quest", done.length, city.quests.length);
+    single("all", "👑", c.levels[c.levels.length - 1], "Complete every quest here", done.length, c.quests.length);
     return out;
+  }
+  function badgeXp(b) {
+    if (b.max === 1) return b.tier * SPECIAL_XP;
+    var x = 0;
+    for (var t = 0; t < b.tier; t++) x += TIERS[t].xp;
+    return x;
   }
   function earnedKeys(list) {
     var keys = {};
@@ -136,13 +143,76 @@
     return keys;
   }
   function tierLabel(b) { return !b.tier ? "Locked" : b.max === 1 ? "Unlocked" : TIERS[b.tier - 1].label; }
-  function points() {
-    var p = city.quests.filter(isDone).length * QUEST_PTS;
-    badges().forEach(function (b) {
-      if (b.max === 1) p += b.tier * SPECIAL_PTS;
-      else for (var t = 0; t < b.tier; t++) p += TIERS[t].pts;
+
+  // ── RPG progression ────────────────────────────────────────
+  // One hero across all regions. XP comes from quests (with bonuses) and badges; levels follow a curve.
+  var XP = { quest: 100, seasonal: 50, far: 50, area: 50, region: 150, journal: 25 };
+  var TITLES = [[1, "Wanderer", "🎒"], [3, "Explorer", "🧭"], [6, "Pathfinder", "🥾"], [10, "Trailblazer", "🔥"],
+    [15, "Navigator", "⛵"], [20, "Cartographer", "🗺️"], [30, "Voyager", "🚀"], [40, "Lorekeeper", "📜"],
+    [55, "Legend", "🏆"], [75, "Mythic Explorer", "🐉"]];
+  var ATTRS = [
+    { key: "gor", name: "Curiosity", icon: "👀", desc: "Grows with every sight you see" },
+    { key: "ye", name: "Appetite", icon: "🍴", desc: "Grows with every taste you try" },
+    { key: "dene", name: "Courage", icon: "✨", desc: "Grows with every experience" },
+    { key: "far", name: "Wanderlust", icon: "🧭", desc: "Grows with every trip beyond the city" }
+  ];
+  function xpForLevel(L) { return L <= 1 ? 0 : Math.round((120 * Math.pow(L - 1, 1.6)) / 10) * 10; }
+  function levelInfo(xp) {
+    var L = 1;
+    while (L < 99 && xpForLevel(L + 1) <= xp) L++;
+    var t = TITLES[0];
+    TITLES.forEach(function (x) { if (L >= x[0]) t = x; });
+    var lo = xpForLevel(L), hi = xpForLevel(L + 1);
+    return { level: L, title: t[1], icon: t[2], into: xp - lo, need: hi - lo, pct: Math.min(100, Math.round(((xp - lo) / (hi - lo)) * 100)) };
+  }
+  function attrInfo(x) {
+    var L = 1 + Math.floor(Math.sqrt(x / 60)), lo = 60 * (L - 1) * (L - 1), hi = 60 * L * L;
+    return { level: L, pct: Math.round(((x - lo) / (hi - lo)) * 100) };
+  }
+  function weekOf(t) { return Math.floor((t / 86400000 + 3) / 7); } // weeks start on Monday (UTC)
+  // Replays every completion in time order, so bonuses depend on what you had done before.
+  // With `previewKey`, that quest is added as if completed now (used to show the reward in advance).
+  function progress(previewKey) {
+    var log = [];
+    Object.keys(store.done).forEach(function (k) {
+      var r = store.done[k];
+      if (r && r.at && byKey[k]) log.push({ q: byKey[k], at: r.at, note: !!r.note });
     });
-    return p;
+    if (previewKey && byKey[previewKey] && !isDone(byKey[previewKey])) log.push({ q: byKey[previewKey], at: Date.now(), note: false, preview: true });
+    log.sort(function (a, b) { return a.at - b.at; });
+    var seenArea = {}, seenRegion = {}, weeks = {}, attr = { gor: 0, ye: 0, dene: 0, far: 0 }, xp = 0, gains = [];
+    log.forEach(function (e) {
+      var q = e.q, parts = [["Quest", XP.quest]];
+      if (q.months) parts.push(["Seasonal", XP.seasonal]);
+      if (q.area === "cevre") parts.push(["Day trip", XP.far]);
+      if (!seenRegion[q.cid]) { seenRegion[q.cid] = 1; parts.push(["New region", XP.region]); }
+      var ak = q.cid + "/" + q.area;
+      if (!seenArea[ak]) { seenArea[ak] = 1; parts.push(["New area", XP.area]); }
+      if (e.note) parts.push(["Journal", XP.journal]);
+      var w = weekOf(e.at), streak = 1;
+      weeks[w] = 1;
+      while (weeks[w - streak]) streak++;
+      var sum = parts.reduce(function (s, p) { return s + p[1]; }, 0);
+      if (streak > 1) {
+        var bonus = Math.round(sum * Math.min(0.5, 0.1 * (streak - 1)));
+        parts.push([streak + "-week streak", bonus]); sum += bonus;
+      }
+      xp += sum; attr[q.cat] += sum;
+      if (q.area === "cevre") attr.far += sum;
+      gains.push({ q: q, at: e.at, xp: sum, parts: parts, preview: !!e.preview });
+    });
+    var bxp = 0, earned = 0;
+    Object.keys(cities).forEach(function (id) {
+      badges(cities[id]).forEach(function (b) { bxp += badgeXp(b); earned += b.tier; });
+    });
+    var now = weekOf(Date.now()), streakNow = 0, start = weeks[now] ? now : weeks[now - 1] ? now - 1 : null;
+    if (start !== null) { streakNow = 1; while (weeks[start - streakNow]) streakNow++; }
+    var info = levelInfo(xp + bxp);
+    info.xp = xp + bxp; info.badgeXp = bxp; info.badges = earned; info.attr = attr; info.gains = gains;
+    info.streak = streakNow; info.thisWeek = !!weeks[now];
+    info.regions = Object.keys(seenRegion).length; info.areas = Object.keys(seenArea).length;
+    info.quests = log.filter(function (e) { return !e.preview; }).length;
+    return info;
   }
 
   // ── Region switching ───────────────────────────────────────
@@ -468,7 +538,7 @@
       });
       return;
     }
-    if (map.getZoom() < OVERVIEW_ZOOM + 1.5) {
+    if (map.getZoom() < OVERVIEW_ZOOM) {
       var r = map.queryRenderedFeatures(e.point, { layers: ["region-fill"] })[0];
       if (r) { setCity(r.properties.id, true); return; }
     }
@@ -477,7 +547,7 @@
   function onMapHover(e) {
     if (!mapReady) return;
     var onPin = map.queryRenderedFeatures(e.point, { layers: ["pins", "clusters", "region-badges"] }).length > 0;
-    var r = !onPin && map.getZoom() < OVERVIEW_ZOOM + 1.5 ? map.queryRenderedFeatures(e.point, { layers: ["region-fill"] })[0] : null;
+    var r = !onPin && map.getZoom() < OVERVIEW_ZOOM ? map.queryRenderedFeatures(e.point, { layers: ["region-fill"] })[0] : null;
     map.getCanvas().style.cursor = onPin || r ? "pointer" : "";
     map.setFilter("region-hover", ["==", ["get", "id"], r ? r.properties.id : ""]);
   }
@@ -488,10 +558,11 @@
     map.setFilter("region-cur", ["==", ["get", "id"], cityId]);
     refreshRegionBadges();
   }
-  function updateMap() {
+  // Only resize when the map container just became visible; resizing fires move events.
+  function updateMap(resize) {
     ensureMap();
     if (!map) return;
-    map.resize();
+    if (resize) map.resize();
     refreshMap();
   }
   function setSelected(q) {
@@ -564,6 +635,8 @@
       '<circle class="bar" cx="32" cy="32" r="26" stroke-dasharray="' + C.toFixed(1) +
       '" stroke-dashoffset="' + (C * (1 - pct / 100)).toFixed(1) + '"/></svg><span>' + pct + '%</span></div>';
   }
+  function bar(pct, cls) { return '<div class="meter' + (cls ? " " + cls : "") + '"><i style="width:' + pct + '%"></i></div>'; }
+  function fmt(n) { return Number(n).toLocaleString("en-GB"); }
   function chip(group, val, label, dot) {
     return '<button class="chip' + (ui[group] === val ? " on" : "") + '" data-f="' + group + '" data-v="' + val + '">' +
       (dot ? '<i class="dot" style="background:' + dot + '"></i>' : "") + label + '</button>';
@@ -589,21 +662,23 @@
   }
 
   function render() {
-    var onMap = ui.tab === "map";
+    var onMap = ui.tab === "map", wasHidden = $map.hidden;
     $map.hidden = !onMap;
-    var html = onMap ? renderMapUI() : ui.tab === "quests" ? renderQuests() : ui.tab === "badges" ? renderBadges() : renderProfile();
+    var html = onMap ? renderMapUI() : ui.tab === "quests" ? renderQuests() : ui.tab === "badges" ? renderBadges() : renderHero();
     html += '<nav class="tabs">' + tabBtn("map", "🗺️", "Map") + tabBtn("quests", "📋", "Quests") +
-      tabBtn("badges", "🏅", "Badges") + tabBtn("profile", "🏆", "Profile") + '</nav>';
+      tabBtn("badges", "🏅", "Badges") + tabBtn("hero", "🧙", "Hero") + '</nav>';
     $app.innerHTML = html;
     document.body.classList.toggle("on-map", onMap);
-    if (onMap) updateMap();
+    if (onMap) updateMap(wasHidden);
   }
 
   function renderMapUI() {
-    var s = stats(city.quests);
+    var s = stats(city.quests), p = progress();
     return '<div class="map-top">' +
-      '<div class="topcard glass"><div class="grow"><button class="tc-city" data-act="regions">' + esc(city.name) + ' <i>▾</i></button>' +
-        '<div class="tc-sub">' + s.done + ' / ' + s.total + ' quests · ' + points() + ' pts · ' + esc(levelFor(s.pct)) + '</div></div>' +
+      '<div class="topcard glass">' +
+        '<button class="lvl" data-tab="hero" aria-label="Your hero, level ' + p.level + '"><span>' + p.icon + '</span><b>' + p.level + '</b></button>' +
+        '<div class="grow"><button class="tc-city" data-act="regions">' + esc(city.name) + ' <i>▾</i></button>' +
+        '<div class="tc-sub">' + esc(p.title) + ' · ' + fmt(p.into) + ' / ' + fmt(p.need) + ' XP</div>' + bar(p.pct, "xp") + '</div>' +
         ring(s.pct) + '</div>' +
       '<div class="chips">' + catChips() + '</div>' +
       '<div class="chips">' + areaChips() + '</div>' +
@@ -628,8 +703,8 @@
     });
   }
   function renderQuests() {
-    var list = listQuests();
-    var html = head(city.name, list.length + " quests", true) +
+    var list = listQuests(), s = stats(city.quests);
+    var html = head(city.name, s.done + " of " + s.total + " quests done · showing " + list.length, true) +
       '<div class="filters"><div class="chips">' + catChips() + '</div><div class="chips">' + areaChips() + '</div>' +
       '<div class="chips">' + chip("show", "todo", "To do") + chip("show", "done", "Done") + chip("show", "all", "All") + '</div></div>' +
       '<div class="list">';
@@ -648,20 +723,20 @@
   }
 
   function renderBadges() {
-    var list = badges(), groups = [], got = 0, all = 0;
+    var list = badges(city), groups = [], got = 0, all = 0, bx = 0;
     list.forEach(function (b) {
-      got += b.tier; all += b.max;
+      got += b.tier; all += b.max; bx += badgeXp(b);
       if (groups.indexOf(b.group) === -1) groups.push(b.group);
     });
-    var html = head("Badges", "Complete areas and categories in " + city.name, true) + '<div class="section">' +
-      '<div class="panel score"><div><b>' + points() + '</b><span>points</span></div><div><b>' + got + ' / ' + all +
-      '</b><span>badges</span></div></div>';
+    var html = head("Badges", "Earn them in " + city.name + ". Every badge gives XP.", true) + '<div class="section">' +
+      '<div class="panel score"><div><b>' + got + ' / ' + all + '</b><span>badges</span></div><div><b>' + fmt(bx) +
+      '</b><span>XP from badges</span></div></div>';
     groups.forEach(function (g) {
       html += '<h2>' + esc(g) + '</h2><div class="badges">';
       list.filter(function (b) { return b.group === g; }).forEach(function (b) { html += badgeCard(b); });
       html += '</div>';
     });
-    return html + '<p class="note">Quest 10 pts · Bronze 25 · Silver 50 · Gold 100 · Special badge 30</p></div>';
+    return html + '<p class="note">Bronze +100 XP · Silver +200 · Gold +400 · Special +150</p></div>';
   }
   function badgeCard(b) {
     var cls = !b.tier ? "locked" : b.max === 1 ? "gold" : TIERS[b.tier - 1].key;
@@ -669,39 +744,58 @@
     if (b.max > 1) for (var i = 0; i < b.max; i++) stars += i < b.tier ? "★" : "☆";
     var full = b.tier === b.max;
     var pct = full ? 100 : Math.round((b.have / b.goal) * 100);
+    var next = b.max > 1 ? TIERS[b.tier] : { label: "Unlock", xp: SPECIAL_XP };
     return '<div class="bdg ' + cls + '"><div class="bi">' + b.icon + '</div>' +
       '<div class="bn">' + esc(b.name) + '</div>' +
       '<div class="bt">' + (stars ? stars + " " : "") + tierLabel(b) + '</div>' +
-      '<div class="bd">' + esc(b.desc) + '</div>' +
-      '<div class="meter"><i style="width:' + pct + '%"></i></div>' +
-      '<div class="bp">' + (full ? "Complete" : b.have + " / " + b.goal +
-        (b.max > 1 ? " · next: " + TIERS[b.tier].label : "")) + '</div></div>';
+      '<div class="bd">' + esc(b.desc) + '</div>' + bar(pct) +
+      '<div class="bp">' + (full ? "Complete" : b.have + " / " + b.goal + " · " + (b.max > 1 ? next.label + " " : "") + "+" + next.xp + " XP") + '</div></div>';
   }
 
-  function renderProfile() {
-    var s = stats(city.quests), t = store.theme || "light";
-    var html = head(city.name, (city.subtitle ? city.subtitle + " · " : "") + city.country, true) + '<div class="section">' +
-      '<div class="panel profile">' + ring(s.pct, true) + '<div class="grow"><div class="lv">' + esc(levelFor(s.pct)) + '</div>' +
-      '<div class="ls">' + s.done + ' / ' + s.total + ' quests · ' + points() + ' pts</div></div></div>' +
-      '<h2>Categories</h2><div class="panel">';
+  function renderHero() {
+    var p = progress(), s = stats(city.quests), t = store.theme || "light", nRegions = Object.keys(cities).length;
+    var next = Math.min(50, 10 * (p.thisWeek ? p.streak - 1 : p.streak));
+    var html = head("Your hero", "Every quest you complete, anywhere, earns XP") + '<div class="section">' +
+      '<div class="panel hero"><div class="avatar" style="--p:' + p.pct + '%"><span>' + p.icon + '</span></div>' +
+        '<div class="grow"><div class="lv">Level ' + p.level + '</div><div class="ttl">' + esc(p.title) + '</div>' + bar(p.pct, "xp") +
+        '<div class="ls">' + fmt(p.into) + ' / ' + fmt(p.need) + ' XP to level ' + (p.level + 1) + ' · ' + fmt(p.xp) + ' XP in total</div></div></div>' +
+      '<div class="streak' + (p.streak ? " on" : "") + '">' + (p.streak
+        ? "🔥 " + p.streak + "-week streak" + (next ? " · quests this week earn +" + next + "% XP" : "")
+        : "Complete a quest this week to start a streak. Every week in a row adds +10% XP, up to +50%.") + '</div>' +
+      '<div class="stats">' +
+        '<div class="stat"><b>' + p.quests + '</b><span>Quests</span></div>' +
+        '<div class="stat"><b>' + p.regions + '/' + nRegions + '</b><span>Regions</span></div>' +
+        '<div class="stat"><b>' + p.areas + '</b><span>Areas found</span></div>' +
+        '<div class="stat"><b>' + p.badges + '</b><span>Badges</span></div></div>' +
+      '<h2>Attributes</h2><div class="panel">';
+    ATTRS.forEach(function (a) {
+      var x = p.attr[a.key], ai = attrInfo(x);
+      html += '<div class="attr"><span class="ai">' + a.icon + '</span><div class="grow"><div class="an">' + a.name +
+        ' <span>Lv ' + ai.level + '</span></div><small>' + a.desc + ' · ' + fmt(x) + ' XP</small>' + bar(ai.pct) + '</div></div>';
+    });
+    html += '</div><h2>Recent XP</h2><div class="panel">';
+    var gains = p.gains.slice(-8).reverse();
+    if (!gains.length) html += '<div class="note" style="margin:0">No XP yet. Your first quest also earns New region and New area bonuses.</div>';
+    gains.forEach(function (g) {
+      html += '<div class="gain"><div class="grow"><b>' + esc(g.q.title) + '</b><small>' +
+        g.parts.map(function (x) { return esc(x[0]) + " +" + x[1]; }).join(" · ") + '</small></div><span>+' + g.xp + '</span></div>';
+    });
+    html += '</div><h2>How XP works</h2><div class="panel"><ul class="rules">' +
+      '<li>Quest +' + XP.quest + ', seasonal quest +' + XP.seasonal + ', day trip outside the city +' + XP.far + '</li>' +
+      '<li>First quest in a new region +' + XP.region + ', in a new area +' + XP.area + '</li>' +
+      '<li>A note in your journal +' + XP.journal + '</li>' +
+      '<li>Weekly streak: +10% per week in a row, up to +50%</li>' +
+      '<li>Badges: Bronze +100, Silver +200, Gold +400, Special +150</li></ul></div>';
+
+    html += '<h2>' + esc(city.name) + '</h2><div class="panel profile">' + ring(s.pct, true) + '<div class="grow"><div class="lvx">' +
+      esc(levelFor(s.pct)) + '</div><div class="ls">' + s.done + ' / ' + s.total + ' quests · ' +
+      (city.subtitle ? esc(city.subtitle) + ' · ' : '') + esc(city.country) + '</div></div></div><div class="panel" style="margin-top:10px">';
     Object.keys(CATS).forEach(function (c) {
       html += meterRow(CATS[c].icon + " " + CATS[c].label, stats(city.quests.filter(function (q) { return q.cat === c; })), c);
     });
-    html += '</div><h2>' + esc(city.name) + ' areas</h2><div class="panel">';
     Object.keys(city.areas).forEach(function (a) { html += meterRow(city.areas[a], stats(inArea(a)), ""); });
     html += '</div><h2>All regions</h2><div class="panel">' + regionRows() + '</div>';
-
-    var recent = city.quests.filter(isDone).sort(function (a, b) { return rec(b).at - rec(a).at; }).slice(0, 8);
-    html += '<h2>Recently done</h2><div class="panel">';
-    if (!recent.length) html += '<div class="note" style="margin:0">Nothing yet. Pick a quest for this weekend.</div>';
-    else {
-      html += '<div class="recent">';
-      recent.forEach(function (q) {
-        html += '<div><b>' + esc(q.title) + '</b><span>' + new Date(rec(q).at).toLocaleDateString("en-GB", { day: "numeric", month: "short" }) + '</span></div>';
-      });
-      html += '</div>';
-    }
-    html += '</div><h2>Appearance</h2><div class="panel"><div class="seg">' +
+    html += '<h2>Appearance</h2><div class="panel"><div class="seg">' +
       ["light", "dark", "auto"].map(function (m) {
         return '<button class="' + (t === m ? "on" : "") + '" data-theme-set="' + m + '">' + m[0].toUpperCase() + m.slice(1) + '</button>';
       }).join("") + '</div></div>';
@@ -717,8 +811,7 @@
       if (c.country !== last) { html += '<div class="rgroup">' + esc(c.country) + '</div>'; last = c.country; }
       html += '<button class="rrow' + (id === cityId ? " cur" : "") + '" data-city="' + id + '">' +
         '<i class="dot big" style="background:' + c.color + '"></i>' +
-        '<div class="grow"><div class="rn">' + esc(c.name) + ' <small>' + esc(c.subtitle || "") + '</small></div>' +
-        '<div class="meter"><i style="width:' + s.pct + '%"></i></div></div>' +
+        '<div class="grow"><div class="rn">' + esc(c.name) + ' <small>' + esc(c.subtitle || "") + '</small></div>' + bar(s.pct) + '</div>' +
         '<span class="rp">' + s.done + ' / ' + s.total + '</span></button>';
     });
     return html;
@@ -730,7 +823,7 @@
   }
   function meterRow(label, s, cls) {
     return '<div class="row ' + cls + '"><div class="row-h"><span>' + esc(label) + '</span><span>' + s.done + ' / ' + s.total + '</span></div>' +
-      '<div class="meter"><i style="width:' + s.pct + '%"></i></div></div>';
+      bar(s.pct) + '</div>';
   }
 
   // ── Quest card / sheet ─────────────────────────────────────
@@ -744,6 +837,7 @@
     $sheet.scrollTop = 0;
   }
   function closeSheetSilently() {
+    saveNote();
     ui.open = null; $sheet.hidden = true; $backdrop.hidden = true;
     document.body.classList.remove("card-open");
   }
@@ -751,9 +845,21 @@
     if (q.cid !== cityId) setCurrent(q.cid);
     openSheet(q.key);
   }
+  function rewardHtml(q) {
+    if (isDone(q)) {
+      var g = progress().gains.filter(function (x) { return x.q === q; })[0];
+      return g ? '<div class="reward done">✓ You earned +' + g.xp + ' XP here</div>' : "";
+    }
+    var pv = progress(q.key).gains.filter(function (x) { return x.preview; })[0];
+    if (!pv) return "";
+    return '<div class="reward"><b>+' + pv.xp + ' XP</b>' + pv.parts.slice(1).map(function (x) {
+      return '<span>' + esc(x[0]) + ' +' + x[1] + '</span>';
+    }).join("") + '</div>';
+  }
   function openSheet(key) {
     var q = byKey[key];
     if (!q) return;
+    if (ui.open && ui.open !== key) saveNote();
     ui.open = key;
     var c = cities[q.cid], r = rec(q) || {};
     var tags = (q.tags || []).slice();
@@ -763,7 +869,7 @@
       '<button class="x" data-act="close" aria-label="Close">✕</button>' +
       '<div class="sh"><span class="tile">' + CATS[q.cat].icon + '</span><div class="grow">' +
         '<span class="badge">' + CATS[q.cat].label + " · " + esc(c.areas[q.area]) + '</span>' +
-        '<h3>' + esc(q.title) + '</h3></div></div>' +
+        '<h3>' + esc(q.title) + '</h3></div></div>' + rewardHtml(q) +
       '<div class="two">' +
         '<button class="btn' + (isDone(q) ? " ghost" : "") + '" data-act="toggle-open">' + (isDone(q) ? "✓ Done · undo" : "✓ I did it!") + '</button>' +
         '<a class="btn ghost" href="' + maps + '" target="_blank" rel="noopener">Directions</a></div>' +
@@ -773,54 +879,72 @@
       (q.src && q.src.length ? '<p class="src">Sources: ' + q.src.map(function (u) {
         return '<a href="' + esc(u) + '" target="_blank" rel="noopener">' + esc(u.replace(/^https?:\/\/(www\.)?/, "").split("/")[0]) + '</a>';
       }).join(" · ") + '</p>' : "") +
-      '<label class="lbl" for="note">Your notes' + (r.at ? " · done on " + new Date(r.at).toLocaleDateString("en-GB") : "") + '</label>' +
+      '<label class="lbl" for="note">Journal' + (r.at ? " · done on " + new Date(r.at).toLocaleDateString("en-GB") : "") +
+        ' <small>(+' + XP.journal + ' XP once the quest is done)</small></label>' +
       '<textarea id="note" placeholder="How was it? Who came along?">' + esc(r.note || "") + '</textarea>' +
       (ui.tab !== "map" && ll(q) ? '<div class="actions"><button class="btn ghost" data-act="to-map">Show on map</button></div>' : ""));
     if (ui.tab === "map") { setSelected(q); focusQuest(q); }
   }
   function closeSheet() {
-    saveNote();
     closeSheetSilently();
     setSelected(null);
     render();
   }
   function saveNote() {
     var el = document.getElementById("note");
-    if (!el || !ui.open) return;
+    if (!el || !ui.open || $sheet.hidden) return;
     var k = ui.open, note = el.value.trim(), r = store.done[k];
     if (!r && !note) return;
     r = r || { at: 0 };
+    if ((r.note || "") === note) return;
     r.note = note;
     if (!r.at && !note) delete store.done[k]; else store.done[k] = r;
     save();
   }
-  // Returns newly earned badges (empty list if none).
+  // Marks a quest done or not done. Returns what was earned (null when undoing).
   function toggle(key) {
-    var r = store.done[key] || {};
-    var before = earnedKeys(badges());
+    var q = byKey[key];
+    if (!q) return null;
+    var c = cities[q.cid], r = store.done[key] || {};
+    var before = progress(), beforeBadges = earnedKeys(badges(c));
     var nowDone = !r.at;
     r.at = nowDone ? Date.now() : 0;
     if (!r.at && !r.note) delete store.done[key]; else store.done[key] = r;
     save();
-    if (!nowDone) return [];
-    var fresh = badges().filter(function (b) { return b.tier && !before[b.id + ":" + b.tier]; });
-    if (!fresh.length) {
-      var s = stats(city.quests);
-      toast("+" + QUEST_PTS + " pts · " + s.done + " / " + s.total);
-    }
-    return fresh;
+    if (!nowDone) return null;
+    var after = progress();
+    return {
+      gained: after.xp - before.xp,
+      fresh: badges(c).filter(function (b) { return b.tier && !beforeBadges[b.id + ":" + b.tier]; }),
+      level: after.level > before.level ? after : null,
+      newTitle: after.title !== before.title
+    };
   }
-  function celebrate(list) {
+  function reward(res) {
+    if (!res) return;
+    if (res.fresh.length || res.level) celebrate(res);
+    else toast("+" + res.gained + " XP");
+  }
+  function celebrate(res) {
     closeSheetSilently();
-    showSheet("celebrate", '<div class="cel-h">' + (list.length > 1 ? "New badges!" : "New badge!") + '</div>' +
-      list.map(function (b) {
-        var cls = b.max === 1 ? "gold" : TIERS[b.tier - 1].key;
-        var pts = b.max === 1 ? SPECIAL_PTS : TIERS[b.tier - 1].pts;
-        return '<div class="cel ' + cls + '"><div class="bi">' + b.icon + '</div><div><div class="bn">' + esc(b.name) +
-          (b.max > 1 ? " · " + TIERS[b.tier - 1].label : "") + '</div><div class="bd">' + esc(b.desc) + ' · +' + pts + ' pts</div></div></div>';
-      }).join("") +
+    var html = "";
+    if (res.level) {
+      html += '<div class="levelup"><div class="burst">' + res.level.icon + '</div><div class="cel-h">Level up!</div>' +
+        '<div class="lu">You reached level ' + res.level.level + (res.newTitle ? ' and earned the title <b>' + esc(res.level.title) + '</b>' : ' · ' + esc(res.level.title)) + '</div></div>';
+    }
+    if (res.fresh.length) {
+      html += '<div class="cel-h' + (res.level ? " small" : "") + '">' + (res.fresh.length > 1 ? "New badges!" : "New badge!") + '</div>' +
+        res.fresh.map(function (b) {
+          var cls = b.max === 1 ? "gold" : TIERS[b.tier - 1].key;
+          var xp = b.max === 1 ? SPECIAL_XP : TIERS[b.tier - 1].xp;
+          return '<div class="cel ' + cls + '"><div class="bi">' + b.icon + '</div><div><div class="bn">' + esc(b.name) +
+            (b.max > 1 ? " · " + TIERS[b.tier - 1].label : "") + '</div><div class="bd">' + esc(b.desc) + ' · +' + xp + ' XP</div></div></div>';
+        }).join("");
+    }
+    html += '<p class="note center">+' + res.gained + ' XP in total</p>' +
       '<div class="actions"><button class="btn" data-act="close">Awesome!</button>' +
-      '<button class="btn ghost" data-act="to-badges">See my badges</button></div>', true);
+      (res.level ? '<button class="btn ghost" data-act="to-hero">See my hero</button>' : '<button class="btn ghost" data-act="to-badges">See my badges</button>') + '</div>';
+    showSheet("celebrate", html, true);
   }
   function suggest() {
     var pool = city.quests.filter(function (q) { return !isDone(q) && inSeason(q); });
@@ -859,11 +983,10 @@
   document.addEventListener("click", function (e) {
     var t = e.target.closest("[data-toggle],[data-open],[data-f],[data-tab],[data-act],[data-city],[data-theme-set]");
     if (!t) { if (e.target === $backdrop) closeSheet(); return; }
-    var fresh;
+    var res;
     if (t.dataset.toggle) {
       e.stopPropagation();
-      fresh = toggle(t.dataset.toggle); render();
-      if (fresh.length) celebrate(fresh);
+      res = toggle(t.dataset.toggle); render(); reward(res);
       return;
     }
     if (t.dataset.themeSet) { store.theme = t.dataset.themeSet; save(); switchTheme(); render(); return; }
@@ -890,14 +1013,14 @@
       case "locate": locate(); break;
       case "close": closeSheet(); break;
       case "toggle-open":
-        saveNote(); fresh = toggle(ui.open); closeSheet();
-        if (fresh.length) celebrate(fresh);
+        saveNote(); res = toggle(ui.open); closeSheet(); reward(res);
         break;
       case "to-badges": closeSheet(); ui.tab = "badges"; render(); window.scrollTo(0, 0); break;
+      case "to-hero": closeSheet(); ui.tab = "hero"; render(); window.scrollTo(0, 0); break;
       case "to-map": {
         var q = byKey[ui.open];
         closeSheet(); ui.tab = "map"; ui.cat = "all"; ui.area = "all"; render();
-        if (q) { openSheet(q.key); }
+        if (q) openSheet(q.key);
         break;
       }
       case "export": exportData(); break;
@@ -907,6 +1030,7 @@
   // Android back button / Esc closes an open card (the Android shell calls this).
   window.cdBack = function () { if (!$sheet.hidden) { closeSheet(); return true; } return false; };
   document.addEventListener("keydown", function (e) { if (e.key === "Escape") window.cdBack(); });
+  window.addEventListener("pagehide", saveNote);
   window.cdMap = function () { return map; }; // for testing and debugging
   if (window.matchMedia) {
     var mq = window.matchMedia("(prefers-color-scheme: dark)");

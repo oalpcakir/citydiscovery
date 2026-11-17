@@ -1,6 +1,7 @@
-// Brüksel ve çevresi (Leuven, Waterloo, Tervuren, Hallerbos, Meise) görevleri.
-// cat: gor | ye | dene      area: areas listesindeki anahtarlardan biri
-// months: görev sadece belirli aylarda yapılabiliyorsa (1-12)
+// Quests for the Brussels region.
+// cat: gor (see) | ye (eat & drink) | dene (do); area: a key of `areas`;
+// months: only for quests tied to certain months (1-12). To add a region, copy a file like this,
+// change the id, add a <script> line to index.html and re-run tools/build_regions.py.
 window.CITIES = window.CITIES || {};
 window.CITIES.brussel = {
   id: "brussel",
@@ -16,7 +17,7 @@ window.CITIES.brussel = {
     laeken: "Laeken & Heysel",
     cevre: "Surroundings"
   },
-  // Haritanın ilk açılışta gösterdiği alan (şehir içi) ve görev konumları [enlem, boylam].
+  // Map view when the region opens (the main city) and quest positions [lat, lng].
   bounds: [[50.815, 4.310], [50.905, 4.410]],
   coords: {
     grandplace: [50.8467, 4.3525], pis: [50.8485, 4.3540], bd: [50.8453, 4.3503], dandoy: [50.8471, 4.3512],
@@ -28,7 +29,7 @@ window.CITIES.brussel = {
     leuven: [50.8789, 4.7012], oudemarkt: [50.8777, 4.7000], waterloo: [50.6785, 4.4048], tervuren: [50.8309, 4.5186],
     hallerbos: [50.7009, 4.2767], meise: [50.9285, 4.3280]
   },
-  // Bölge rozetleri: bölgedeki görevlerin 1/3'ü bronz, 2/3'ü gümüş, tamamı altın.
+  // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
     merkez: { icon: "🏛️", name: "Grand-Place Regular" },
     marolles: { icon: "🧺", name: "Marollien" },
@@ -38,7 +39,7 @@ window.CITIES.brussel = {
     cevre: { icon: "🌲", name: "Brabant Explorer" }
   },
   quests: [
-    // ---------- GÖRÜLECEK ----------
+    // ---------- SEE ----------
     { id: "grandplace", cat: "gor", area: "merkez", title: "Read the guild houses on the Grand-Place",
       desc: "After the French bombardment of 1695, the guilds rebuilt this square within a few years, and today it is a UNESCO World Heritage Site. Every house has a name and an emblem on top: a swan, a fox, a wheelbarrow.",
       tip: "Notice that the town hall tower is not centred; it sits off to one side of the doorway. In even-numbered years a flower carpet covers the square in August.", q: "Grand-Place Bruxelles", tags: ["free"] },
@@ -64,7 +65,7 @@ window.CITIES.brussel = {
       desc: "One of the largest botanic gardens in the world, set in a vast park around a castle. In the Plantenpaleis greenhouses you walk through climates from rainforest to desert.",
       tip: "The garden is big, so set aside half a day. Even on a rainy day the greenhouses and the castle are enough.", q: "Plantentuin Meise", tags: ["rainy day"] },
 
-    // ---------- YENİLECEK ----------
+    // ---------- EAT & DRINK ----------
     { id: "dandoy", cat: "ye", area: "merkez", title: "Tell a Brussels waffle from a Liège waffle",
       desc: "The Brussels waffle is rectangular, light and crisp; the Liège waffle is round-cornered, dense and studded with pearl sugar. Maison Dandoy, baking speculoos since 1829, makes both.",
       tip: "Skip the mountains of sauce at the tourist stalls: a real Brussels waffle is eaten with just powdered sugar.", q: "Maison Dandoy Rue au Beurre Bruxelles" },
@@ -87,7 +88,7 @@ window.CITIES.brussel = {
       desc: "All four sides of the Oude Markt square are lined with cafés and terraces, and Leuveners call it the longest bar in the world. Stella Artois is brewed in this town.",
       tip: "Come on a sunny late afternoon; outside the student term the square is noticeably calmer.", q: "Oude Markt Leuven" },
 
-    // ---------- DENEYİM ----------
+    // ---------- DO ----------
     { id: "pis", cat: "dene", area: "merkez", title: "Complete the peeing trio",
       desc: "Everyone knows Manneken Pis; his sister Jeanneke Pis hides in a dead-end alley, and the dog Zinneke Pis is tucked away on a pavement corner. Finding all three is a way to get to know the city's humour, which loves to poke fun at itself.",
       tip: "Jeanneke is in Impasse de la Fidélité; Zinneke is on Rue des Chartreux. Manneken's hundreds of costumes are in the little museum on Rue du Chêne.", q: "Jeanneke Pis Bruxelles", tags: ["free"] },

@@ -1,6 +1,7 @@
-// Den Haag ve çevresi görevleri.
-// cat: gor | ye | dene      area: areas listesindeki anahtarlardan biri
-// months: görev sadece belirli aylarda yapılabiliyorsa (1-12)
+// Quests for the Den Haag region.
+// cat: gor (see) | ye (eat & drink) | dene (do); area: a key of `areas`;
+// months: only for quests tied to certain months (1-12). To add a region, copy a file like this,
+// change the id, add a <script> line to index.html and re-run tools/build_regions.py.
 window.CITIES = window.CITIES || {};
 window.CITIES.denhaag = {
   id: "denhaag",
@@ -15,7 +16,7 @@ window.CITIES.denhaag = {
     dogu: "Haagse Bos & East",
     cevre: "Surroundings"
   },
-  // Haritanın ilk açılışta gösterdiği alan (şehir içi) ve görev konumları [enlem, boylam].
+  // Map view when the region opens (the main city) and quest positions [lat, lng].
   bounds: [[52.040, 4.230], [52.118, 4.380]],
   coords: {
     hofvijver: [52.0808, 4.3120], mauritshuis: [52.0804, 4.3143], florencia: [52.0790, 4.3040], posthoorn: [52.0825, 4.3135],
@@ -26,7 +27,7 @@ window.CITIES.denhaag = {
     hortusleiden: [52.1562, 4.4838], hutspot: [52.1584, 4.4905], leidsekaas: [52.1591, 4.4928],
     keukenhof: [52.2700, 4.5466], bollenvelden: [52.2695, 4.5426], voorlinden: [52.1193, 4.3472], duinen: [52.1617, 4.3493]
   },
-  // Bölge rozetleri: bölgedeki görevlerin 1/3'ü bronz, 2/3'ü gümüş, tamamı altın.
+  // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
     merkez: { icon: "🏛️", name: "Hofstad Wolf" },
     scheveningen: { icon: "🌊", name: "Scheveninger" },
@@ -35,7 +36,7 @@ window.CITIES.denhaag = {
     cevre: { icon: "🌷", name: "Surroundings Scout" }
   },
   quests: [
-    // GÖRÜLECEK
+    // SEE
     { id: "hofvijver", cat: "gor", area: "merkez", title: "Spot the Torentje from the Hofvijver",
       desc: "Look across the pond at the Binnenhof, where Dutch politics has been done for centuries. The little octagonal tower right at the water's edge is the Torentje, the prime ministers' traditional office.",
       tip: "The Binnenhof has been under restoration for a long time. The best view is from the Lange Vijverberg side, once the evening lights come on.", q: "Hofvijver Den Haag", tags: ["free"] },
@@ -64,7 +65,7 @@ window.CITIES.denhaag = {
       desc: "A private contemporary art museum in the dune landscape of Wassenaar, flooded with natural daylight. In Leandro Erlich's 'Swimming Pool' you stay dry while standing under the water.",
       tip: "The garden and the dune walking path around the museum are included in your ticket too, so leave time if the weather is nice.", q: "Museum Voorlinden Wassenaar", tags: ["rainy day"] },
 
-    // YENİLECEK
+    // EAT & DRINK
     { id: "florencia", cat: "ye", area: "merkez", title: "Ice cream and coffee at Florencia",
       desc: "The Italian ice cream parlour on Torenstraat has been Den Haag's meeting spot for generations. Ministers and students alike sit at the same plastic tables.",
       tip: "Decide what you want while you wait in line. Service is quick and impatient, and that is part of the tradition.", q: "Florencia Torenstraat Den Haag" },
@@ -84,7 +85,7 @@ window.CITIES.denhaag = {
       desc: "Leidse kaas is a local cheese dotted with cumin seeds; the crossed keys on its rind come from the city's coat of arms. The market along the Nieuwe Rijn canal is one of the nicest in the country.",
       tip: "The market runs on Wednesday and Saturday. Grab your cheese and sit on one of the terrace boats on the canal.", q: "Markt Nieuwe Rijn Leiden" },
 
-    // DENEYİM
+    // DO
     { id: "prinsjesdag", cat: "dene", area: "merkez", title: "Wait for the royal carriage on Prinsjesdag",
       desc: "On the third Tuesday of September the King rides through the city in a horse-drawn carriage to read out the government's plans for the year. Hats, brass bands and the wave from the balcony of Paleis Noordeinde.",
       tip: "The route is announced in advance every year. For a good spot, head to the Lange Voorhout area early in the morning.", q: "Paleis Noordeinde Den Haag", months: [9], tags: ["free"] },

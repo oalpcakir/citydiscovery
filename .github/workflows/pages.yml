@@ -1,5 +1,5 @@
-# web/ klasörünü her push'ta GitHub Pages'e yayınlar: uygulama güncellemesi = git push.
-name: Yayinla
+# Publishes the web/ folder to GitHub Pages on every push: updating the app = git push.
+name: Publish
 on:
   push:
     branches: [main]

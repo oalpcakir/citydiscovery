@@ -1,6 +1,7 @@
-// Amsterdam & surroundings quests.
-// cat: gor | ye | dene      area: one of the keys in the areas list
-// months: only set if the quest can be done in certain months only (1-12)
+// Quests for the Amsterdam region.
+// cat: gor (see) | ye (eat & drink) | dene (do); area: a key of `areas`;
+// months: only for quests tied to certain months (1-12). To add a region, copy a file like this,
+// change the id, add a <script> line to index.html and re-run tools/build_regions.py.
 window.CITIES = window.CITIES || {};
 window.CITIES.amsterdam = {
   id: "amsterdam",

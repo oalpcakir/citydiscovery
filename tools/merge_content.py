@@ -1,6 +1,6 @@
-"""Araştırma çıktısını (content/*.json) bir bölge dosyasına ekler.
-Kullanım: python tools/merge_content.py <bölge-id> content/a.json [content/b.json ...]
-JSON biçimi: { "new": [ {id, cat, area, title, desc, tip, q, ll:[lat,lng], months?, tags?, src?} ] }"""
+"""Adds research output (content/*.json) to a region file.
+Usage: python tools/merge_content.py <region-id> content/a.json [content/b.json ...]
+JSON format: { "new": [ {id, cat, area, title, desc, tip, q, ll:[lat,lng], months?, tags?, src?} ] }"""
 import io, json, re, sys
 
 city, files = sys.argv[1], sys.argv[2:]
@@ -27,11 +27,11 @@ for f in files:
         quests.append('    { id: %s, cat: %s, area: %s, title: %s,\n      desc: %s,\n      tip: %s, q: %s%s }' % (
             J(q["id"]), J(q["cat"]), J(q["area"]), J(q["title"]), J(q["desc"]), J(q.get("tip", "")), J(q["q"]), extra))
 
-# coords bloğunun sonuna ekle
+# append to the end of the coords block
 a = s.index("  coords: {"); b = s.index("\n  },", a)
 lines = ["    " + ", ".join(coords[i:i + 3]) for i in range(0, len(coords), 3)]
 s = s[:b].rstrip().rstrip(",") + ",\n" + ",\n".join(lines) + s[b:]
-# quests listesinin sonuna ekle
+# append to the end of the quests list
 e = s.rindex("\n  ]\n};")
 s = s[:e].rstrip().rstrip(",") + ",\n" + ",\n".join(quests) + s[e:]
 io.open(path, "w", encoding="utf-8", newline="\n").write(s)

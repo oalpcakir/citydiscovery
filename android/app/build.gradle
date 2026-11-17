@@ -2,7 +2,7 @@ plugins {
     id 'com.android.application'
 }
 
-// web/ klasörünü APK'ya gömer: internet yokken ve henüz önbellek yokken bu kopya açılır.
+// Bundles the web/ folder into the APK: this copy opens when there is no internet and nothing cached yet.
 def webAssets = layout.buildDirectory.dir("generated/webassets")
 def copyWeb = tasks.register("copyWebAssets", Copy) {
     from rootProject.file("../web")
@@ -17,8 +17,8 @@ android {
         applicationId "app.citydiscovery"
         minSdk 26
         targetSdk 34
-        versionCode 4
-        versionName "0.7.0"
+        versionCode 5
+        versionName "0.8.0"
         buildConfigField "String", "APP_URL", "\"${project.property('appUrl')}\""
     }
     buildFeatures { buildConfig true }

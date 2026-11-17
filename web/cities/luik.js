@@ -1,6 +1,7 @@
-// Liège ve Ardenler görevleri (Namur, Dinant, Spa, Durbuy, Hautes Fagnes, Bouillon, Han-sur-Lesse dahil).
-// cat: gor | ye | dene      area: areas listesindeki anahtarlardan biri
-// months: görev sadece belirli aylarda yapılabiliyorsa (1-12)
+// Quests for the Liège region.
+// cat: gor (see) | ye (eat & drink) | dene (do); area: a key of `areas`;
+// months: only for quests tied to certain months (1-12). To add a region, copy a file like this,
+// change the id, add a <script> line to index.html and re-run tools/build_regions.py.
 window.CITIES = window.CITIES || {};
 window.CITIES.luik = {
   id: "luik",
@@ -15,7 +16,7 @@ window.CITIES.luik = {
     guillemins: "Guillemins & Boverie",
     cevre: "Surroundings"
   },
-  // Haritanın ilk açılışta gösterdiği alan (şehir içi) ve görev konumları [enlem, boylam].
+  // Map view when the region opens (the main city) and quest positions [lat, lng].
   bounds: [[50.615, 5.545], [50.660, 5.600]],
   coords: {
     perron: [50.6456, 5.5741], boulets: [50.6458, 5.5747], gaufre: [50.6463, 5.5752], peket: [50.6451, 5.5753],
@@ -26,7 +27,7 @@ window.CITIES.luik = {
     namur: [50.4597, 4.8630], couque: [50.2588, 4.9117], spa: [50.4923, 5.8655], durbuy: [50.3523, 5.4563],
     fagnes: [50.5013, 6.0932], bouillon: [49.7933, 5.0647], han: [50.1209, 5.1926], blegny: [50.6862, 5.7235]
   },
-  // Bölge rozetleri: bölgedeki görevlerin 1/3'ü bronz, 2/3'ü gümüş, tamamı altın.
+  // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
     merkez: { icon: "🧇", name: "Cité Ardente" },
     tepeler: { icon: "🪜", name: "Bueren Conqueror" },
@@ -35,7 +36,7 @@ window.CITIES.luik = {
     cevre: { icon: "🌲", name: "Ardennes Explorer" }
   },
   quests: [
-    // ───────────── GÖRÜLECEK ─────────────
+    // ───────────── SEE ─────────────
     { id: "perron", cat: "gor", area: "merkez", title: "Stop in front of Le Perron",
       desc: "The column rising above the fountain on Place du Marché is a symbol of liberty from the days when Liège was, for centuries, an independent state ruled by a prince-bishop. It is on the city's coat of arms too.",
       tip: "When Charles the Bold punished the city in 1468, he had the column pulled out and carried off to Bruges; also glance into the courtyard of the Prince-Bishops' Palace right behind it.", q: "Le Perron Place du Marché Liège", tags: ["free"] },
@@ -61,7 +62,7 @@ window.CITIES.luik = {
       desc: "Built on a narrow bend of the Semois river, the castle belonged to Godefroy de Bouillon, leader of the First Crusade. To raise money for the expedition, he handed it over to the prince-bishop of Liège.",
       tip: "In season there is a bird-of-prey show in the courtyard; see the whole castle from the hill across the town.", q: "Château de Bouillon" },
 
-    // ───────────── YENİLECEK ─────────────
+    // ───────────── EAT & DRINK ─────────────
     { id: "gaufre", cat: "ye", area: "merkez", title: "Eat a hot Liège waffle",
       desc: "A real gaufre de Liège is made from a dense, yeasted dough; the big pearl sugar inside melts and caramelises on the iron. It is eaten by hand, with nothing on top.",
       tip: "Try the cinnamon one at Une Gaufrette Saperlipopette on Rue des Mineurs; if there is a queue, you're in the right place.", q: "Une Gaufrette Saperlipopette Liège" },
@@ -78,7 +79,7 @@ window.CITIES.luik = {
       desc: "Couque de Dinant is made of just flour and honey, shaped in carved wooden moulds, and is rock hard. You don't bite it: you break off small pieces and let them melt in your mouth.",
       tip: "Look at the moulds in the window of Maison Jacobs on Rue Grande. Then head up to the house of Adolphe Sax, inventor of the saxophone, and the citadel on the cliff.", q: "Couques de Dinant Jacobs Dinant" },
 
-    // ───────────── DENEYİM ─────────────
+    // ───────────── DO ─────────────
     { id: "bueren", cat: "dene", area: "tepeler", title: "Climb the 374 steps of the Montagne de Bueren",
       desc: "Not a mountain but a staircase that shoots straight up to the sky: it was built in the 19th century so that soldiers at the citadel could get down to the city quickly. People still sit on both sides of the steps.",
       tip: "At the top turn left and come down through the terraces along the paths of the Coteaux de la Citadelle.", q: "Montagne de Bueren Liège", tags: ["free"] },

@@ -2,8 +2,8 @@ package app.citydiscovery;
 
 import android.Manifest;
 import android.app.Activity;
-import android.content.pm.PackageManager;
 import android.content.Intent;
+import android.content.pm.PackageManager;
 import android.net.Uri;
 import android.os.Bundle;
 import android.webkit.GeolocationPermissions;
@@ -22,41 +22,45 @@ import java.io.FileOutputStream;
 import java.io.InputStream;
 import java.net.HttpURLConnection;
 import java.net.URL;
+import java.nio.charset.StandardCharsets;
 
 /**
- * İnce kabuk: içerik her açılışta APP_URL'den çekilir (anlık güncelleme).
- * Ağ yoksa son indirilen kopya, o da yoksa APK'ya gömülü kopya aynı adres altında sunulur;
- * böylece ilerleme (localStorage) her durumda aynı yerde kalır.
+ * Thin shell: the app is loaded from APP_URL on every launch, so publishing the website updates the app.
+ * Files are revalidated with ETags (a 304 reply serves the local copy, so nothing is re-downloaded).
+ * Offline, the last downloaded copy is served, and failing that the copy bundled in the APK, always under
+ * the same address so progress stored in localStorage stays in one place.
  */
 public class MainActivity extends Activity {
     private static final String BASE = BuildConfig.APP_URL;
     private static final long OFFLINE_BACKOFF_MS = 30_000;
+    private static final int REQ_LOCATION = 1;
 
     private WebView web;
     private File cacheDir;
     private volatile long offlineUntil = 0;
-    private static final int REQ_LOCATION = 1;
     private GeolocationPermissions.Callback pendingGeo;
     private String pendingGeoOrigin;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        // Önbellek sürüme bağlı: yeni APK kurulunca eski indirilenler gömülü kopyayı ezmesin.
+        // The cache is tied to the APK version so a newer bundled copy is never shadowed by older downloads.
         cacheDir = new File(getFilesDir(), "web-v" + BuildConfig.VERSION_CODE);
         cacheDir.mkdirs();
+        removeOldCaches();
 
         web = new WebView(this);
         WebSettings s = web.getSettings();
         s.setJavaScriptEnabled(true);
         s.setDomStorageEnabled(true);
-        s.setUserAgentString(s.getUserAgentString() + " CityDiscoveryShell/" + BuildConfig.VERSION_NAME);
         s.setGeolocationEnabled(true);
+        s.setUserAgentString(s.getUserAgentString() + " CityDiscoveryShell/" + BuildConfig.VERSION_NAME);
         web.setWebChromeClient(new WebChromeClient() {
-            // Haritadaki "konumum" düğmesi: Android konum izni yoksa önce onu iste.
+            // The map's "my location" button: ask for the Android permission first if needed.
             @Override
             public void onGeolocationPermissionsShowPrompt(String origin, GeolocationPermissions.Callback callback) {
-                if (!origin.startsWith(Uri.parse(BASE).getScheme() + "://" + Uri.parse(BASE).getHost())) {
+                Uri base = Uri.parse(BASE);
+                if (!origin.startsWith(base.getScheme() + "://" + base.getHost())) {
                     callback.invoke(origin, false, false);
                 } else if (checkSelfPermission(Manifest.permission.ACCESS_FINE_LOCATION) == PackageManager.PERMISSION_GRANTED) {
                     callback.invoke(origin, true, false);
@@ -73,6 +77,20 @@ public class MainActivity extends Activity {
 
         if (savedInstanceState == null) web.loadUrl(BASE);
         else web.restoreState(savedInstanceState);
+    }
+
+    private void removeOldCaches() {
+        File[] dirs = getFilesDir().listFiles();
+        if (dirs == null) return;
+        for (File d : dirs) {
+            if (d.isDirectory() && d.getName().startsWith("web-v") && !d.equals(cacheDir)) deleteTree(d);
+        }
+    }
+
+    private static void deleteTree(File f) {
+        File[] kids = f.listFiles();
+        if (kids != null) for (File k : kids) deleteTree(k);
+        f.delete();
     }
 
     @Override
@@ -105,7 +123,7 @@ public class MainActivity extends Activity {
             if (url.startsWith(BASE)) return false;
             try {
                 startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(url)));
-            } catch (Exception ignored) { /* açacak uygulama yok */ }
+            } catch (Exception ignored) { /* no app can open it */ }
             return true;
         }
 
@@ -135,21 +153,30 @@ public class MainActivity extends Activity {
 
     private byte[] fromNetwork(String path) {
         if (System.currentTimeMillis() < offlineUntil) return null;
+        File f = new File(cacheDir, path);
+        File tagFile = new File(f.getPath() + ".etag");
         HttpURLConnection c = null;
         try {
             c = (HttpURLConnection) new URL(BASE + path).openConnection();
             c.setConnectTimeout(4000);
-            c.setReadTimeout(6000);
+            c.setReadTimeout(8000);
             c.setUseCaches(false);
-            c.setRequestProperty("Cache-Control", "no-cache");
-            if (c.getResponseCode() != 200) return null; // ör. henüz yayınlanmamış: gömülü kopyaya düş
+            if (f.isFile() && tagFile.isFile()) c.setRequestProperty("If-None-Match", readText(tagFile));
+            int code = c.getResponseCode();
+            if (code == HttpURLConnection.HTTP_NOT_MODIFIED) return fromCache(path);
+            if (code != HttpURLConnection.HTTP_OK) return null; // e.g. not published yet: fall back to the bundled copy
             byte[] data = readAll(c.getInputStream());
-            File f = new File(cacheDir, path);
             File parent = f.getParentFile();
             if (parent != null) parent.mkdirs();
             File tmp = new File(f.getPath() + ".tmp");
             try (FileOutputStream out = new FileOutputStream(tmp)) { out.write(data); }
-            if (!tmp.renameTo(f)) tmp.delete();
+            if (!tmp.renameTo(f)) { f.delete(); if (!tmp.renameTo(f)) tmp.delete(); }
+            String etag = c.getHeaderField("ETag");
+            if (etag != null) {
+                try (FileOutputStream out = new FileOutputStream(tagFile)) { out.write(etag.getBytes(StandardCharsets.UTF_8)); }
+            } else {
+                tagFile.delete();
+            }
             return data;
         } catch (Exception e) {
             offlineUntil = System.currentTimeMillis() + OFFLINE_BACKOFF_MS;
@@ -167,6 +194,10 @@ public class MainActivity extends Activity {
 
     private byte[] fromAssets(String path) {
         try (InputStream in = getAssets().open("web/" + path)) { return readAll(in); } catch (Exception e) { return null; }
+    }
+
+    private static String readText(File f) throws java.io.IOException {
+        try (InputStream in = new FileInputStream(f)) { return new String(readAll(in), StandardCharsets.UTF_8).trim(); }
     }
 
     private static byte[] readAll(InputStream in) throws java.io.IOException {

@@ -1,6 +1,7 @@
-// Eindhoven ve Brabant görevleri.
-// cat: gor | ye | dene      area: areas listesindeki anahtarlardan biri
-// months: görev sadece belirli aylarda yapılabiliyorsa (1-12)
+// Quests for the Eindhoven region.
+// cat: gor (see) | ye (eat & drink) | dene (do); area: a key of `areas`;
+// months: only for quests tied to certain months (1-12). To add a region, copy a file like this,
+// change the id, add a <script> line to index.html and re-run tools/build_regions.py.
 window.CITIES = window.CITIES || {};
 window.CITIES.eindhoven = {
   id: "eindhoven",
@@ -15,7 +16,7 @@ window.CITIES.eindhoven = {
     guney: "South & West",
     cevre: "Surroundings"
   },
-  // Haritanın ilk açılışta gösterdiği alan (şehir içi) ve görev konumları [enlem, boylam].
+  // Map view when the region opens (the main city) and quest positions [lat, lng].
   bounds: [[51.405, 5.410], [51.480, 5.530]],
   coords: {
     philips: [51.4392, 5.4757], vanabbe: [51.4343, 5.4819], stratumseind: [51.4363, 5.4808], glow: [51.4380, 5.4797],
@@ -27,7 +28,7 @@ window.CITIES.eindhoven = {
     sintjan: [51.6879, 5.3083], bosschebol: [51.6904, 5.2958], efteling: [51.6500, 5.0480], duinen: [51.6450, 5.1150],
     nuenen: [51.4768, 5.5509], breda: [51.5903, 4.7785], lochal: [51.5613, 5.0861]
   },
-  // Bölge rozetleri: bölgedeki görevlerin 1/3'ü bronz, 2/3'ü gümüş, tamamı altın.
+  // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
     merkez: { icon: "💡", name: "Lichtstad Wolf" },
     strijp: { icon: "🏭", name: "Strijp Designer" },
@@ -36,7 +37,7 @@ window.CITIES.eindhoven = {
     cevre: { icon: "🎡", name: "Brabant Explorer" }
   },
   quests: [
-    // GÖRÜLECEK
+    // SEE
     { id: "philips", cat: "gor", area: "merkez", title: "Step into Philips's first lightbulb factory",
       desc: "Gerard Philips made his first lightbulbs in 1891 in this small factory on Emmasingel; this is where Eindhoven's change from a village into the 'Lichtstad' (City of Light) began. Today the building is the Philips Museum.",
       tip: "Start with the old production workshop at the entrance; this is where you'll see why half the city carries the Philips name.", q: "Philips Museum Eindhoven", tags: ["rainy day"] },
@@ -62,7 +63,7 @@ window.CITIES.eindhoven = {
       desc: "Right in the middle of the city is a courtyard where the noise cuts out once you pass the gate: small houses where devout women (beguines) lived for centuries, with a medicinal herb garden in the middle.",
       tip: "When you leave, walk through Valkenberg park towards the tower of the Grote Kerk.", q: "Begijnhof Breda", tags: ["free"] },
 
-    // YENİLECEK
+    // EAT & DRINK
     { id: "worstenbrood", cat: "ye", area: "merkez", title: "Eat a hot worstenbroodje",
       desc: "Soft bread wrapped around spiced minced meat is Brabant's best-loved snack and officially on the cultural heritage list. It is eaten fresh out of the oven, never cold.",
       tip: "Don't ask for mustard or ketchup: Brabanders eat it plain.", q: "Houben Worstenbrood Eindhoven" },
@@ -82,7 +83,7 @@ window.CITIES.eindhoven = {
       desc: "A fist-sized pastry ball filled with whipped cream and coated in dark chocolate, the symbol of Den Bosch. Everyone in town buys theirs at the Jan de Groot pastry shop near the station.",
       tip: "Don't bother with a fork and knife; eat it with your hands and a napkin. The queue at the door moves fast.", q: "Banketbakkerij Jan de Groot 's-Hertogenbosch" },
 
-    // DENEYİM
+    // DO
     { id: "glow", cat: "dene", area: "merkez", title: "Walk the light route at GLOW",
       desc: "Every November, for one week, buildings, churches and parks turn into light art installations. The most crowded celebration of the city's light identity.",
       tip: "The route changes every year and is free. It gets very busy on weekends; pick a weekday evening and dress warm.", q: "Catharinakerk Eindhoven", months: [11], tags: ["free"] },

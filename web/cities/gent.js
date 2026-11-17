@@ -1,6 +1,7 @@
-// Gent ve çevresi görevleri (Oudenaarde, Flaman Ardenleri, Laarne, Aalst, Leie boyu dahil).
-// cat: gor | ye | dene      area: areas listesindeki anahtarlardan biri
-// months: görev sadece belirli aylarda yapılabiliyorsa (1-12)
+// Quests for the Gent region.
+// cat: gor (see) | ye (eat & drink) | dene (do); area: a key of `areas`;
+// months: only for quests tied to certain months (1-12). To add a region, copy a file like this,
+// change the id, add a <script> line to index.html and re-run tools/build_regions.py.
 window.CITIES = window.CITIES || {};
 window.CITIES.gent = {
   id: "gent",
@@ -15,7 +16,7 @@ window.CITIES.gent = {
     dogu: "Portus Ganda",
     cevre: "Surroundings"
   },
-  // Haritanın ilk açılışta gösterdiği alan (şehir içi) ve görev konumları [enlem, boylam].
+  // Map view when the region opens (the main city) and quest positions [lat, lng].
   bounds: [[51.025, 3.690], [51.075, 3.760]],
   coords: {
     lamgods: [51.0530, 3.7272], gravensteen: [51.0573, 3.7206], werregaren: [51.0553, 3.7246], lantaarn: [51.0569, 3.7214],
@@ -26,7 +27,7 @@ window.CITIES.gent = {
     kwaremont: [50.7819, 3.5260], mattentaart: [50.7727, 3.8822], laarne: [51.0280, 3.8387], aalst: [50.9384, 4.0390],
     latem: [51.0056, 3.6032], liefmans: [50.8465, 3.6159]
   },
-  // Bölge rozetleri: bölgedeki görevlerin 1/3'ü bronz, 2/3'ü gümüş, tamamı altın.
+  // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
     merkez: { icon: "🏰", name: "Kuip Insider" },
     patershol: { icon: "🪢", name: "Stroppendrager" },
@@ -35,7 +36,7 @@ window.CITIES.gent = {
     cevre: { icon: "🚴", name: "Flandrien" }
   },
   quests: [
-    // ───────────── GÖRÜLECEK ─────────────
+    // ───────────── SEE ─────────────
     { id: "lamgods", cat: "gor", area: "merkez", title: "Find the missing panel of the Ghent Altarpiece",
       desc: "The 'Adoration of the Mystic Lamb' altarpiece, completed by the brothers Van Eyck in 1432, stands in the church it was made for, Sint-Baafskathedraal. The 'Just Judges' panel was stolen in 1934 and has never been found; what you see is a copy.",
       tip: "Tickets are timed, so book ahead. Look closely at the restored lamb's eyes, which gaze out like a human's.", q: "Sint-Baafskathedraal Gent", tags: ["rainy day"] },
@@ -61,7 +62,7 @@ window.CITIES.gent = {
       desc: "A few kilometres east of Ghent, a medieval castle surrounded by water: corner towers, a stone bridge and a famous silver collection inside.",
       tip: "The interior is open on limited days; if it's closed, the walk around the moat is worth it too.", q: "Kasteel van Laarne" },
 
-    // ───────────── YENİLECEK ─────────────
+    // ───────────── EAT & DRINK ─────────────
     { id: "neuzen", cat: "ye", area: "merkez", title: "Buy Gentse neuzen on the Groentenmarkt",
       desc: "Hard on the outside, runny inside, raspberry-flavoured purple cones: cuberdons, or in Ghent speak 'neuzekes' (little noses). They crystallise within a few weeks, so they can't be shipped far and must be eaten fresh.",
       tip: "The rivalry between the carts standing side by side on the square is known in the city as the 'nose war'. On the same square, also pick up the mustard drawn from the barrel at Tierenteyn-Verlent.", q: "Groentenmarkt Gent" },
@@ -84,7 +85,7 @@ window.CITIES.gent = {
       desc: "Oudenaarde's slightly sour dark beer, 'Oudenaards bruin', is a beer style in its own right. Liefmans, on the banks of the Schelde, has brewed it since the 17th century and still wraps its bottles in paper.",
       tip: "Visit the brewery by reservation; otherwise, ask for a Goudenband at a café on Oudenaarde's Markt and look at the Gothic town hall.", q: "Brouwerij Liefmans Oudenaarde" },
 
-    // ───────────── DENEYİM ─────────────
+    // ───────────── DO ─────────────
     { id: "graslei", cat: "dene", area: "merkez", title: "Sit on the quay at the Graslei",
       desc: "The Graslei, lined with medieval guild houses, and the Korenlei opposite were the city's old port. The moment Ghent folk see the sun, they sit here with their feet dangling over the quay.",
       tip: "Bring your own drink, and find the spot on Sint-Michielsbrug where all three towers appear in the same frame.", q: "Graslei Gent", tags: ["free"] },

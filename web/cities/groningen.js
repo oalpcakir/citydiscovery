@@ -1,6 +1,7 @@
-// Groningen ve kuzey (Friesland, Wadden kıyısı, Drenthe) görevleri.
-// cat: gor | ye | dene      area: areas listesindeki anahtarlardan biri
-// months: görev sadece belirli aylarda yapılabiliyorsa (1-12)
+// Quests for the Groningen region.
+// cat: gor (see) | ye (eat & drink) | dene (do); area: a key of `areas`;
+// months: only for quests tied to certain months (1-12). To add a region, copy a file like this,
+// change the id, add a <script> line to index.html and re-run tools/build_regions.py.
 window.CITIES = window.CITIES || {};
 window.CITIES.groningen = {
   id: "groningen",
@@ -15,7 +16,7 @@ window.CITIES.groningen = {
     dogu: "East & Oosterpoort",
     cevre: "Surroundings"
   },
-  // Haritanın ilk açılışta gösterdiği alan (şehir içi) ve görev konumları [enlem, boylam].
+  // Map view when the region opens (the main city) and quest positions [lat, lng].
   bounds: [[53.195, 6.520], [53.240, 6.610]],
   coords: {
     martinitoren: [53.2194, 6.5682], forum: [53.2188, 6.5706], pepergasthuis: [53.2172, 6.5722], prinsentuin: [53.2215, 6.5693],
@@ -26,7 +27,7 @@ window.CITIES.groningen = {
     wadlopen: [53.3987, 6.4535], schiermonnikoog: [53.4790, 6.1625], bourtange: [53.0066, 7.1920], hunebed: [52.9313, 6.7990],
     oldehove: [53.2030, 5.7897], planetarium: [53.1873, 5.5438], zoutkamp: [53.3369, 6.2998], beerenburg: [53.0312, 5.6603]
   },
-  // Bölge rozetleri: bölgedeki görevlerin 1/3'ü bronz, 2/3'ü gümüş, tamamı altın.
+  // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
     merkez: { icon: "🗼", name: "Martini Wolf" },
     kuzey: { icon: "🌳", name: "Plantsoen Wanderer" },
@@ -35,7 +36,7 @@ window.CITIES.groningen = {
     cevre: { icon: "🦭", name: "Ommeland Explorer" }
   },
   quests: [
-    // ---------- GÖRÜLECEK ----------
+    // ---------- SEE ----------
     { id: "martinitoren", cat: "gor", area: "merkez", title: "Climb the Martinitoren",
       desc: "Stadjers call the roughly 97-metre tower 'd'Olle Grieze' (the Old Grey One), and it's the symbol of the city. From the top you see just how flat the plain is that Groningen sits in the middle of.",
       tip: "The steps are narrow and there are many; check ticket and climbing times in advance, and pick a clear day.", q: "Martinitoren Groningen" },
@@ -61,7 +62,7 @@ window.CITIES.groningen = {
       desc: "In the 18th century, wool carder Eise Eisinga built a working model of the solar system on his living room ceiling. The world's oldest planetarium still in operation is now a UNESCO World Heritage Site.",
       tip: "Don't leave without seeing the wooden gear mechanism in the attic. Franeker is one of the Elfsteden (Eleven Cities).", q: "Koninklijk Eise Eisinga Planetarium Franeker", tags: ["rainy day"] },
 
-    // ---------- YENİLECEK ----------
+    // ---------- EAT & DRINK ----------
     { id: "eierbal", cat: "ye", area: "merkez", title: "Eat an eierbal",
       desc: "A hard-boiled egg hidden inside a curry-flavoured ragout, rolled in breadcrumbs and deep-fried. Groningen's own snack; you almost never find it in the rest of the country.",
       tip: "Nearly every snackbar has it. Eating one around the Poelestraat after a night out is a Stadjer tradition.", q: "eierbal Groningen" },
@@ -81,7 +82,7 @@ window.CITIES.groningen = {
       desc: "Friesland's herbal bitter, Beerenburg, has been sold at Weduwe Joustra in Sneek since the 19th century. The shop's old counter and barrels are still in place.",
       tip: "Sneek's landmark, the Waterpoort, is a few minutes' walk away; during Sneekweek in early August the town fills with sailboats.", q: "Weduwe Joustra Sneek" },
 
-    // ---------- DENEYİM ----------
+    // ---------- DO ----------
     { id: "forum", cat: "dene", area: "merkez", title: "Go up to the Forum's roof",
       desc: "The Forum, which brings a library, cinema and exhibition halls under one roof, is the city's new living room. Ride the escalators to the top and you're eye to eye with the Martinitoren.",
       tip: "The roof terrace is free; go up close to sunset.", q: "Forum Groningen", tags: ["free", "rainy day"] },

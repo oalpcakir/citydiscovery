@@ -1,6 +1,7 @@
-// Brugge ve sahil görevleri (Damme, Oostende, De Haan, Knokke/Zwin, Ieper ve Westhoek dahil).
-// cat: gor | ye | dene      area: areas listesindeki anahtarlardan biri
-// months: görev sadece belirli aylarda yapılabiliyorsa (1-12)
+// Quests for the Brugge region.
+// cat: gor (see) | ye (eat & drink) | dene (do); area: a key of `areas`;
+// months: only for quests tied to certain months (1-12). To add a region, copy a file like this,
+// change the id, add a <script> line to index.html and re-run tools/build_regions.py.
 window.CITIES = window.CITIES || {};
 window.CITIES.brugge = {
   id: "brugge",
@@ -15,7 +16,7 @@ window.CITIES.brugge = {
     kuzey: "Hanseatic quarter & Sint-Gillis",
     cevre: "Surroundings"
   },
-  // Haritanın ilk açılışta gösterdiği alan (şehir içi) ve görev konumları [enlem, boylam].
+  // Map view when the region opens (the main city) and quest positions [lat, lng].
   bounds: [[51.190, 3.200], [51.228, 3.250]],
   coords: {
     belfort: [51.2082, 3.2249], heiligbloed: [51.2083, 3.2266], processie: [51.2088, 3.2242], garre: [51.2084, 3.2258],
@@ -26,7 +27,7 @@ window.CITIES.brugge = {
     damme: [51.2517, 3.2817], garnaal: [51.2325, 2.9225], kusttram: [51.2284, 2.9262], dehaan: [51.2729, 3.0343],
     zwin: [51.3625, 3.3495], lastpost: [50.8520, 2.8911], westvleteren: [50.8957, 2.7213]
   },
-  // Bölge rozetleri: bölgedeki görevlerin 1/3'ü bronz, 2/3'ü gümüş, tamamı altın.
+  // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
     merkez: { icon: "🔔", name: "Belfry Keeper" },
     guney: { icon: "🦢", name: "Minnewater Swan" },
@@ -35,7 +36,7 @@ window.CITIES.brugge = {
     cevre: { icon: "🌊", name: "Coast Explorer" }
   },
   quests: [
-    // ───────────── GÖRÜLECEK ─────────────
+    // ───────────── SEE ─────────────
     { id: "heiligbloed", cat: "gor", area: "merkez", title: "Visit both floors of the Basilica of the Holy Blood",
       desc: "The small basilica on the corner of the Burg square keeps a relic of holy blood believed to have been brought back from the Crusades. Below is a dim Romanesque chapel, above a colourful neo-Gothic hall.",
       tip: "Most visitors only go to the upper floor; step into the Sint-Basilius chapel downstairs too.", q: "Basiliek van het Heilig Bloed Brugge", tags: ["rainy day"] },
@@ -58,7 +59,7 @@ window.CITIES.brugge = {
       desc: "A rare town on the Belgian coast spared from high-rise apartments: white villas from the 1900s along winding streets, and a fairy-tale tram station. Einstein stayed here for months in 1933.",
       tip: "Get off the coast tram at the 'De Haan aan Zee' stop, wander the Concessie district and find the statue of Einstein sitting on a bench.", q: "Tramstation De Haan aan Zee", tags: ["free"] },
 
-    // ───────────── YENİLECEK ─────────────
+    // ───────────── EAT & DRINK ─────────────
     { id: "garre", cat: "ye", area: "merkez", title: "Find the hidden alley to De Garre",
       desc: "At the end of one of the city's narrowest alleys, off Breidelstraat between the Markt and the Burg, you find Staminee De Garre. The house's own tripel is served only here, with a piece of cheese.",
       tip: "The beer is very strong; sit in the wooden gallery upstairs and take your time.", q: "Staminee De Garre Brugge", tags: ["rainy day"] },
@@ -78,7 +79,7 @@ window.CITIES.brugge = {
       desc: "The monks of Sint-Sixtus Abbey brew one of the most sought-after beers in the world, only as much as they need, and hardly distribute it at all. The place where you can drink it with no fuss is the In de Vrede café, right across from the abbey.",
       tip: "The café has closing days, so check ahead. For non-drivers: the 12 is the darkest and strongest.", q: "In de Vrede Westvleteren" },
 
-    // ───────────── DENEYİM ─────────────
+    // ───────────── DO ─────────────
     { id: "belfort", cat: "dene", area: "merkez", title: "Climb the 366 steps of the Belfort",
       desc: "The 83-metre bell tower on the Markt guarded the city's treasure and its charters in the Middle Ages. At the top, a 47-bell carillon and the rooftops of all of Bruges are waiting.",
       tip: "Tickets are timed and the staircase is narrow; book the first slot. Being on the square while the carillon plays is lovely too.", q: "Belfort Brugge" },

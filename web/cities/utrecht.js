@@ -1,6 +1,7 @@
-// Utrecht ve çevresi görevleri.
-// cat: gor | ye | dene      area: areas listesindeki anahtarlardan biri
-// months: görev sadece belirli aylarda yapılabiliyorsa (1-12)
+// Quests for the Utrecht region.
+// cat: gor (see) | ye (eat & drink) | dene (do); area: a key of `areas`;
+// months: only for quests tied to certain months (1-12). To add a region, copy a file like this,
+// change the id, add a <script> line to index.html and re-run tools/build_regions.py.
 window.CITIES = window.CITIES || {};
 window.CITIES.utrecht = {
   id: "utrecht",
@@ -15,7 +16,7 @@ window.CITIES.utrecht = {
     guney: "South & Amelisweerd",
     cevre: "Surroundings"
   },
-  // Haritanın ilk açılışta gösterdiği alan (şehir içi) ve görev konumları [enlem, boylam].
+  // Map view when the region opens (the main city) and quest positions [lat, lng].
   bounds: [[52.060, 5.030], [52.125, 5.185]],
   coords: {
     domtoren: [52.0907, 5.1213], pandhof: [52.0904, 5.1226], nijntje: [52.0957, 5.1165], trajectumlumen: [52.0922, 5.1196],
@@ -26,7 +27,7 @@ window.CITIES.utrecht = {
     dehaar: [52.1215, 4.9862], koppelpoort: [52.1589, 5.3838], drieringen: [52.1583, 5.3847], fortvechten: [52.0586, 5.1684],
     raadhuishilversum: [52.2290, 5.1672], pyramide: [52.0904, 5.3428], vecht: [52.1722, 5.0038], heksenwaag: [52.0252, 4.8693]
   },
-  // Bölge rozetleri: bölgedeki görevlerin 1/3'ü bronz, 2/3'ü gümüş, tamamı altın.
+  // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
     merkez: { icon: "⛪", name: "Dom Wolf" },
     dogu: { icon: "🟥", name: "Rietveld Fan" },
@@ -35,7 +36,7 @@ window.CITIES.utrecht = {
     cevre: { icon: "🏰", name: "Surroundings Scout" }
   },
   quests: [
-    // GÖRÜLECEK
+    // SEE
     { id: "pandhof", cat: "gor", area: "merkez", title: "Find the Dom's hidden courtyard, the Pandhof",
       desc: "A cloister garden with Gothic arcades, squeezed between the cathedral and the university building. A few steps from the crowds on Domplein, it holds a completely different kind of quiet, with a fountain and medicinal herbs in the middle.",
       tip: "The stone carvings in the arcade show scenes from the life of Saint Martin. And remember that the gap between the Dom Church and the tower is where the nave collapsed in the 1674 storm.", q: "Pandhof Domkerk Utrecht", tags: ["free"] },
@@ -61,7 +62,7 @@ window.CITIES.utrecht = {
       desc: "Finished by Willem Dudok in 1931, the yellow-brick Raadhuis is a modernist classic that architects travel from all over the world to see. Its tower, reflected in the pond, is the symbol of the town.",
       tip: "Walk all the way around the building and look at it from every side. On certain days there are guided tours and tower climbs.", q: "Raadhuis Hilversum Dudok", tags: ["free"] },
 
-    // YENİLECEK
+    // EAT & DRINK
     { id: "werfkelder", cat: "ye", area: "merkez", title: "Eat at water level, in a werfkelder",
       desc: "The two-level wharves of the Oudegracht are a structure found nowhere else in the world: the storage cellars of medieval merchants, under the street, are now restaurants and cafes. Your table sits right on the edge of the canal.",
       tip: "Take the stairs down to the wharf near Stadhuisbrug and pick a spot with a table by the water.", q: "Oudegracht werfkelders Utrecht" },
@@ -81,7 +82,7 @@ window.CITIES.utrecht = {
       desc: "Right next to the Koppelpoort, on the waterside, De Drie Ringen is Amersfoort's own brewery. In the Middle Ages the city was famous for its hundreds of breweries.",
       tip: "Ask for a tasting board and look at the view of the gate from the terrace.", q: "Stadsbrouwerij De Drie Ringen Amersfoort" },
 
-    // DENEYİM
+    // DO
     { id: "domtoren", cat: "dene", area: "merkez", title: "Climb the 465 steps of the Domtoren",
       desc: "At 112 metres, the Dom Tower is the tallest church tower in the Netherlands. For a long time it was an unwritten rule that no building in Utrecht could be taller than it.",
       tip: "You can only climb with a guided tour, so book your ticket in advance. In the open air you can see Amsterdam and Rotterdam.", q: "Domtoren Utrecht" },

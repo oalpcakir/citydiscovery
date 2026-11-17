@@ -1,6 +1,7 @@
-// Arnhem, Nijmegen ve Veluwe görevleri.
-// cat: gor | ye | dene      area: areas listesindeki anahtarlardan biri
-// months: görev sadece belirli aylarda yapılabiliyorsa (1-12)
+// Quests for the Arnhem & Nijmegen region.
+// cat: gor (see) | ye (eat & drink) | dene (do); area: a key of `areas`;
+// months: only for quests tied to certain months (1-12). To add a region, copy a file like this,
+// change the id, add a <script> line to index.html and re-run tools/build_regions.py.
 window.CITIES = window.CITIES || {};
 window.CITIES.arnhem = {
   id: "arnhem",
@@ -15,7 +16,7 @@ window.CITIES.arnhem = {
     waal: "Waal & Ooijpolder",
     cevre: "Surroundings"
   },
-  // Haritanın ilk açılışta gösterdiği alan (iki şehir birlikte) ve görev konumları [enlem, boylam].
+  // Map view when the region opens (both cities) and quest positions [lat, lng].
   bounds: [[51.815, 5.800], [52.020, 5.960]],
   coords: {
     eusebius: [51.9787, 5.9122], johnfrost: [51.9764, 5.9092], trolley: [51.9850, 5.8990], korenmarkt: [51.9825, 5.9043],
@@ -26,7 +27,7 @@ window.CITIES.arnhem = {
     kmm: [52.0953, 5.8169], hogeveluwe: [52.0795, 5.8355], hetloo: [52.2343, 5.9457], posbank: [52.0287, 6.0213],
     hartenstein: [51.9877, 5.8328], mosterd: [52.0118, 6.1375], waag: [52.0130, 6.1385]
   },
-  // Bölge rozetleri: bölgedeki görevlerin 1/3'ü bronz, 2/3'ü gümüş, tamamı altın.
+  // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
     arnhem: { icon: "🚎", name: "Trolley Rider" },
     sonsbeek: { icon: "🌳", name: "Sonsbeek Wanderer" },
@@ -35,7 +36,7 @@ window.CITIES.arnhem = {
     cevre: { icon: "🦌", name: "Veluwe Explorer" }
   },
   quests: [
-    // GÖRÜLECEK
+    // SEE
     { id: "johnfrost", cat: "gor", area: "arnhem", title: "Stand at the John Frostbrug",
       desc: "In September 1944, British paratroopers held the north end of this bridge over the Rhine for days; this is the bridge from the film 'A Bridge Too Far'. Today's bridge carries the name of John Frost, the officer who led the defence.",
       tip: "The Airborne at the Bridge info centre on the quay is free and looks straight at the bridge.", q: "Airborne at the Bridge Arnhem", tags: ["free"] },
@@ -61,7 +62,7 @@ window.CITIES.arnhem = {
       desc: "The villa that served as the British headquarters in the Battle of Arnhem is now the Airborne Museum. The basement relives the days of the siege with sound and light.",
       tip: "Walk over to the nearby Airborne cemetery too. Every September there are memorial ceremonies and the big Airborne march.", q: "Airborne Museum Hartenstein Oosterbeek", tags: ["rainy day"] },
 
-    // YENİLECEK
+    // EAT & DRINK
     { id: "korenmarkt", cat: "ye", area: "arnhem", title: "Spend an evening on the Korenmarkt",
       desc: "The old grain market square is the centre of Arnhem's nightlife: bars and terraces on all four sides. Students and retirees alike head here in the evening.",
       tip: "On a sunny day the terraces fill up early; peek into the craft beer cafés on the side streets too.", q: "Korenmarkt Arnhem" },
@@ -81,7 +82,7 @@ window.CITIES.arnhem = {
       desc: "Doesburg's Gothic weigh house with its stepped gables dates from the 15th century and counts as one of the oldest restaurants in the country. It's the right address for the local mustard soup.",
       tip: "Look at the old scales inside; then walk the town's main street all the way to the IJssel.", q: "Stadsbierhuys De Waag Doesburg" },
 
-    // DENEYİM
+    // DO
     { id: "eusebius", cat: "dene", area: "arnhem", title: "Step onto the glass balcony of the Eusebiuskerk",
       desc: "The church tower, destroyed in the Battle of Arnhem, was rebuilt after the war. Take the lift to the top and you step onto balconies that jut out past the tower, with glass floors.",
       tip: "Dare to look down: the square is right beneath you. In clear weather you can see the Rhine and the John Frost bridge.", q: "Eusebiuskerk Arnhem" },

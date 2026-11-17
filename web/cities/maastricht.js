@@ -1,6 +1,7 @@
-// Maastricht ve Limburg görevleri.
-// cat: gor | ye | dene      area: areas listesindeki anahtarlardan biri
-// months: görev sadece belirli aylarda yapılabiliyorsa (1-12)
+// Quests for the Maastricht region.
+// cat: gor (see) | ye (eat & drink) | dene (do); area: a key of `areas`;
+// months: only for quests tied to certain months (1-12). To add a region, copy a file like this,
+// change the id, add a <script> line to index.html and re-run tools/build_regions.py.
 window.CITIES = window.CITIES || {};
 window.CITIES.maastricht = {
   id: "maastricht",
@@ -16,7 +17,7 @@ window.CITIES.maastricht = {
     sintpieter: "Sint-Pieter & Jekerdal",
     cevre: "Surroundings"
   },
-  // Haritanın ilk açılışta gösterdiği alan (şehir içi) ve görev konumları [enlem, boylam].
+  // Map view when the region opens (the main city) and quest positions [lat, lng].
   bounds: [[50.815, 5.650], [50.870, 5.730]],
   coords: {
     sintjan: [50.8488, 5.6869], dominicanen: [50.8500, 5.6897], vogelstruys: [50.8485, 5.6894],
@@ -28,7 +29,7 @@ window.CITIES.maastricht = {
     kerststad: [50.8624, 5.8287], cauberg: [50.8589, 5.8221], drielandenpunt: [50.7560, 6.0192],
     gulpener: [50.8158, 5.8905], thorn: [51.1612, 5.8408], roermond: [51.1937, 5.9880], margraten: [50.8185, 5.8052]
   },
-  // Bölge rozetleri: bölgedeki görevlerin 1/3'ü bronz, 2/3'ü gümüş, tamamı altın.
+  // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
     merkez: { icon: "⛪", name: "Vrijthof Regular" },
     jeker: { icon: "🏰", name: "Wall Watcher" },
@@ -38,7 +39,7 @@ window.CITIES.maastricht = {
     cevre: { icon: "🚵", name: "Heuvelland Explorer" }
   },
   quests: [
-    // GÖRÜLECEK
+    // SEE
     { id: "dominicanen", cat: "gor", area: "merkez", title: "Get lost in the bookshop inside the church",
       desc: "The 13th-century Dominican church is now Boekhandel Dominicanen: a three-storey steel bookcase rises under the Gothic vaults. A permanent fixture on lists of the world's most beautiful bookshops.",
       tip: "Go up to the top floor and see the ceiling frescoes at eye level. You can have coffee in the old choir section.", q: "Boekhandel Dominicanen Maastricht", tags: ["free", "rainy day"] },
@@ -64,7 +65,7 @@ window.CITIES.maastricht = {
       desc: "More than eight thousand soldiers lie in the only American military cemetery in the Netherlands. Every grave has been 'adopted' by a local family, and the duty is passed down from generation to generation.",
       tip: "The walls at the entrance carry the names of the missing; pick a quiet weekday morning.", q: "Netherlands American Cemetery Margraten", tags: ["free"] },
 
-    // YENİLECEK
+    // EAT & DRINK
     { id: "vogelstruys", cat: "ye", area: "merkez", title: "Take a seat at In den Ouden Vogelstruys",
       desc: "This café on the corner of the Vrijthof is one of the city's oldest drinking spots. With its dim wooden interior, old photographs on the walls and regulars at the bar, it's Maastricht's living room.",
       tip: "Ask for a local beer with a portion of cheese or dry sausage on the side.", q: "In den Ouden Vogelstruys Maastricht", tags: ["rainy day"] },
@@ -84,7 +85,7 @@ window.CITIES.maastricht = {
       desc: "Gulpener is an independent family brewery that has been brewing in the same village since the 19th century, and it buys its barley and hops from farmers nearby.",
       tip: "Ask for a tasting board at BrouwLokaal next to the brewery; a great stop in the middle of a Heuvelland bike tour.", q: "Gulpener BrouwLokaal Gulpen" },
 
-    // DENEYİM
+    // DO
     { id: "sintjan", cat: "dene", area: "merkez", title: "Climb the red tower of Sint-Jan",
       desc: "The blood-red tower of Sint-Janskerk, the smaller of the two churches on the Vrijthof, is visible from all over town. At the end of the narrow stone stairs, Maastricht's rooftops, the Maas and the Sint-Pietersberg lie at your feet.",
       tip: "The tower is only open in season; check before you go. Visit the neighbouring Sint-Servaasbasiliek the same day.", q: "Sint-Janskerk Maastricht", months: [4, 5, 6, 7, 8, 9, 10] },

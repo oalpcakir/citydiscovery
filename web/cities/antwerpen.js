@@ -1,6 +1,7 @@
-// Antwerpen ve çevresi görevleri (Mechelen, Lier, liman ve Doel dahil).
-// cat: gor | ye | dene      area: areas listesindeki anahtarlardan biri
-// months: görev sadece belirli aylarda yapılabiliyorsa (1-12)
+// Quests for the Antwerpen region.
+// cat: gor (see) | ye (eat & drink) | dene (do); area: a key of `areas`;
+// months: only for quests tied to certain months (1-12). To add a region, copy a file like this,
+// change the id, add a <script> line to index.html and re-run tools/build_regions.py.
 window.CITIES = window.CITIES || {};
 window.CITIES.antwerpen = {
   id: "antwerpen",
@@ -15,7 +16,7 @@ window.CITIES.antwerpen = {
     istasyon: "Station & Zurenborg",
     cevre: "Surroundings"
   },
-  // Haritanın ilk açılışta gösterdiği alan (şehir içi) ve görev konumları [enlem, boylam].
+  // Map view when the region opens (the main city) and quest positions [lat, lng].
   bounds: [[51.175, 4.370], [51.246, 4.450]],
   coords: {
     kathedraal: [51.2203, 4.4014], vlaeykensgang: [51.2197, 4.4003], plantin: [51.2184, 4.3978], annatunnel: [51.2189, 4.3962],
@@ -26,7 +27,7 @@ window.CITIES.antwerpen = {
     romboutstoren: [51.0289, 4.4792], anker: [51.0327, 4.4728], zimmertoren: [51.1291, 4.5707], vlaaikes: [51.1313, 4.5697],
     doel: [51.3110, 4.2655], kalmthout: [51.3690, 4.4370]
   },
-  // Bölge rozetleri: bölgedeki görevlerin 1/3'ü bronz, 2/3'ü gümüş, tamamı altın.
+  // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
     merkez: { icon: "✋", name: "Brabo's Hand" },
     eilandje: { icon: "⚓", name: "Dock Captain" },
@@ -35,7 +36,7 @@ window.CITIES.antwerpen = {
     cevre: { icon: "🚲", name: "Surroundings Explorer" }
   },
   quests: [
-    // ───────────── GÖRÜLECEK ─────────────
+    // ───────────── SEE ─────────────
     { id: "kathedraal", cat: "gor", area: "merkez", title: "Face Rubens in the cathedral",
       desc: "The 123-metre tower of the Onze-Lieve-Vrouwekathedraal is the tallest church tower in the Benelux. Inside, Rubens' huge altarpieces still hang in the city where they were painted, in the places they were made for.",
       tip: "Look at the side panels of the 'Kruisafneming' (Descent from the Cross) too, and read the information boards to find out why the tower's twin was never finished.", q: "Onze-Lieve-Vrouwekathedraal Antwerpen", tags: ["rainy day"] },
@@ -67,7 +68,7 @@ window.CITIES.antwerpen = {
       desc: "In this polder village, emptied for decades because of port expansion, only a handful of people remain, and the walls of the abandoned houses are covered in street art. Behind it rise the cooling towers of the nuclear plant, and on the dyke stands a 17th-century windmill.",
       tip: "Don't enter the houses; some are still lived in. Climb up on the dyke and watch the container ships pass along the Schelde.", q: "Doel Beveren", tags: ["free"] },
 
-    // ───────────── YENİLECEK ─────────────
+    // ───────────── EAT & DRINK ─────────────
     { id: "handjes", cat: "ye", area: "merkez", title: "Eat Antwerpse handjes",
       desc: "Hand-shaped almond biscuits and chocolates are the city's official treat. The shape comes from the legend of Brabo, who cut off the giant's hand and threw it into the Schelde: the city's name is said to come from 'hand werpen' (hand throwing).",
       tip: "Philip's Biscuits on Korte Gasthuisstraat sells the biscuit version fresh; for the chocolate version, look to the chocolatiers nearby.", q: "Philip's Biscuits Korte Gasthuisstraat Antwerpen" },
@@ -84,7 +85,7 @@ window.CITIES.antwerpen = {
       desc: "This palm-sized, dark, spiced little tart is made only in Lier and is a well-known local speciality. The recipe is said to be a few centuries old.",
       tip: "Look for the 'Liers vlaaike' sign at the bakeries around the Grote Markt; it is best eaten warm with a coffee.", q: "Grote Markt Lier" },
 
-    // ───────────── DENEYİM ─────────────
+    // ───────────── DO ─────────────
     { id: "annatunnel", cat: "dene", area: "merkez", title: "Ride the wooden escalators under the Schelde",
       desc: "Opened in 1933, the Sint-Annatunnel carries pedestrians and cyclists across the river 30 metres underground. The original wooden escalators still run.",
       tip: "Enter at the building on Sint-Jansvliet and walk half a kilometre; on the Linkeroever side the city's best skyline awaits.", q: "Sint-Annatunnel Sint-Jansvliet Antwerpen", tags: ["free", "rainy day"] },

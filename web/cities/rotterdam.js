@@ -1,7 +1,7 @@
-// Rotterdam ve çevresi görevleri.
-// Yeni şehir eklemek için bu dosyayı kopyala, id'yi değiştir, index.html'e <script> satırı ekle.
-// cat: gor | ye | dene      area: areas listesindeki anahtarlardan biri
-// months: görev sadece belirli aylarda yapılabiliyorsa (1-12)
+// Quests for the Rotterdam region.
+// cat: gor (see) | ye (eat & drink) | dene (do); area: a key of `areas`;
+// months: only for quests tied to certain months (1-12). To add a region, copy a file like this,
+// change the id, add a <script> line to index.html and re-run tools/build_regions.py.
 window.CITIES = window.CITIES || {};
 window.CITIES.rotterdam = {
   id: "rotterdam",
@@ -17,7 +17,7 @@ window.CITIES.rotterdam = {
     dogu: "Kralingen",
     cevre: "Surroundings"
   },
-  // Haritanın ilk açılışta gösterdiği alan (şehir içi) ve görev konumları [enlem, boylam].
+  // Map view when the region opens (the main city) and quest positions [lat, lng].
   bounds: [[51.888, 4.415], [51.940, 4.530]],
   coords: {
     markthal: [51.9200, 4.4869], kubus: [51.9201, 4.4906], erasmus: [51.9096, 4.4855], depot: [51.9141, 4.4712],
@@ -42,7 +42,7 @@ window.CITIES.rotterdam = {
     hoekvanholland: [51.9870, 4.1055], maeslant: [51.9568, 4.1670], futureland: [51.9354, 3.9779],
     biesbosch: [51.8073, 4.7641], brielle: [51.9020, 4.1640], schiedammolens: [51.9150, 4.3960]
   },
-  // Bölge rozetleri: bölgedeki görevlerin 1/3'ü bronz, 2/3'ü gümüş, tamamı altın.
+  // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
     merkez: { icon: "🏙️", name: "Centre Lion" },
     kuzey: { icon: "🌉", name: "Noorderling" },
@@ -52,7 +52,7 @@ window.CITIES.rotterdam = {
     cevre: { icon: "🚲", name: "Surroundings Scout" }
   },
   quests: [
-    // ───────────── GÖRÜLECEK ─────────────
+    // ───────────── SEE ─────────────
     { id: "markthal", cat: "gor", area: "merkez", title: "Look up at the Markthal ceiling",
       desc: "The interior ceiling of this giant horseshoe-shaped market hall is covered by 'Hoorn des Overvloeds' (Horn of Plenty), counted among the largest artworks in the world. The apartment windows open onto the ceiling.",
       tip: "Take the escalator down: finds from medieval Rotterdam, uncovered during construction, are displayed in a showcase.", q: "Markthal Rotterdam", tags: ["free", "rainy day"] },
@@ -147,7 +147,7 @@ window.CITIES.rotterdam = {
       desc: "A quiet 19th-century arboretum in the middle of Kralingen. It makes you forget you are in the city.",
       tip: "Go in autumn for the leaf colours.", q: "Trompenburg Tuinen & Arboretum" },
 
-    // ───────────── YENİLECEK ─────────────
+    // ───────────── EAT & DRINK ─────────────
     { id: "kapsalon", cat: "ye", area: "bati", title: "Eat a kapsalon where it was born",
       desc: "Fries, doner meat, melted Gouda and salad: invented in Rotterdam in 2003 as the order of a customer at a hairdresser's (kapsalon) on Schiedamseweg, and it spread across the whole country.",
       tip: "The story began at El Aviva, Schiedamseweg.", q: "El Aviva Schiedamseweg Rotterdam" },
@@ -203,7 +203,7 @@ window.CITIES.rotterdam = {
       desc: "The home of both cheese and the stroopwafel. Tastings between the Gothic town hall on the square and the weigh house (Waag).",
       tip: "From April to August, a traditional cheese market runs on Thursday mornings.", q: "Goudse Waag Gouda" },
 
-    // ───────────── DENEYİM ─────────────
+    // ───────────── DO ─────────────
     { id: "watertaxi", cat: "dene", area: "merkez", title: "Cross the river by Watertaxi",
       desc: "The yellow-and-black speedboats are Rotterdam's most fun public transport. A few minutes' ride, and the city looks completely different from the water.",
       tip: "Leuvehaven to Hotel New York is the classic route.", q: "Watertaxi Rotterdam Leuvehaven" },
@@ -262,7 +262,7 @@ window.CITIES.rotterdam = {
       desc: "One weekend a year, the city's normally closed rooftops open to visitors. The best idea for a city of flat roofs.",
       tip: "Usually early June.", q: "Rotterdamse Dakendagen", months: [5, 6] },
 
-    // ───────────── ÇEVRE ─────────────
+    // ───────────── SURROUNDINGS ─────────────
     { id: "kinderdijk", cat: "dene", area: "cevre", title: "Kinderdijk by Waterbus",
       desc: "The 19 windmills from the 18th century are a UNESCO World Heritage Site. The loveliest way to get there is by river: take your bike on the Waterbus too.",
       tip: "It leaves from the Erasmus Bridge. To beat the crowds, take the first boat of the morning.", q: "Kinderdijk windmills" },

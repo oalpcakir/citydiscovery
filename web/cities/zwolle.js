@@ -1,6 +1,7 @@
-// Zwolle ve IJssel bölgesi (Hanze şehirleri, Giethoorn, Weerribben-Wieden) görevleri.
-// cat: gor | ye | dene      area: areas listesindeki anahtarlardan biri
-// months: görev sadece belirli aylarda yapılabiliyorsa (1-12)
+// Quests for the Zwolle region.
+// cat: gor (see) | ye (eat & drink) | dene (do); area: a key of `areas`;
+// months: only for quests tied to certain months (1-12). To add a region, copy a file like this,
+// change the id, add a <script> line to index.html and re-run tools/build_regions.py.
 window.CITIES = window.CITIES || {};
 window.CITIES.zwolle = {
   id: "zwolle",
@@ -15,7 +16,7 @@ window.CITIES.zwolle = {
     dogu: "East & Vecht",
     cevre: "Surroundings"
   },
-  // Haritanın ilk açılışta gösterdiği alan (şehir içi) ve görev konumları [enlem, boylam].
+  // Map view when the region opens (the main city) and quest positions [lat, lng].
   bounds: [[52.490, 6.055], [52.545, 6.140]],
   coords: {
     peperbus: [52.5117, 6.0917], fundatie: [52.5105, 6.0927], sassenpoort: [52.5097, 6.0957], glazenengel: [52.5123, 6.0940],
@@ -26,7 +27,7 @@ window.CITIES.zwolle = {
     kampen: [52.5591, 5.9161], zutphen: [52.1398, 6.1958], deventerkoek: [52.2517, 6.1603], dickens: [52.2520, 6.1632],
     hattem: [52.4746, 6.0713], urk: [52.6633, 5.6220], giethoorn: [52.7222, 6.0898], weerribben: [52.8065, 5.9285]
   },
-  // Bölge rozetleri: bölgedeki görevlerin 1/3'ü bronz, 2/3'ü gümüş, tamamı altın.
+  // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
     merkez: { icon: "🏰", name: "Hanze Wolf" },
     guney: { icon: "🏘️", name: "Assendorper" },
@@ -35,7 +36,7 @@ window.CITIES.zwolle = {
     cevre: { icon: "🛶", name: "Surroundings Explorer" }
   },
   quests: [
-    // ---------- GÖRÜLECEK ----------
+    // ---------- SEE ----------
     { id: "peperbus", cat: "gor", area: "merkez", title: "Climb the Peperbus",
       desc: "Everyone calls the tower of the Onze-Lieve-Vrouwe basilica the 'Peperbus' (pepper pot) because of the shape of its dome. From the top you can see the star-shaped city moat and the IJssel plain.",
       tip: "The tower isn't open every day; check the climbing days in advance.", q: "Peperbus Zwolle" },
@@ -61,7 +62,7 @@ window.CITIES.zwolle = {
       desc: "In the 16th-century Librije inside the Walburgiskerk, the books are still chained to the reading desks. One of the few chained libraries in Europe to survive in its original state.",
       tip: "The Librije can only be visited with a guide or at set hours; check before you go.", q: "Librije Walburgiskerk Zutphen", tags: ["rainy day"] },
 
-    // ---------- YENİLECEK ----------
+    // ---------- EAT & DRINK ----------
     { id: "balletjes", cat: "ye", area: "merkez", title: "Taste Zwolse balletjes",
       desc: "Pillow-shaped hard candies made by hand to the same recipe since the 19th century. The recipe is still secret and they're sold only at the Zwolse Balletjeshuis on the Grote Kerkplein.",
       tip: "Ask for the classic flavour; the shop's old counter and jars are worth a look too.", q: "Zwolse Balletjeshuis Zwolle" },
@@ -81,7 +82,7 @@ window.CITIES.zwolle = {
       desc: "Urk was an island until the sea around it was drained; its own dialect and fishing traditions are still alive. In the harbour you eat kibbeling or smoked fish, then walk to the lighthouse.",
       tip: "On Sundays the town is almost completely closed; go on another day.", q: "Haven Urk" },
 
-    // ---------- DENEYİM ----------
+    // ---------- DO ----------
     { id: "stadsgracht", cat: "dene", area: "merkez", title: "Go around the star moat by water",
       desc: "Zwolle's old town is ringed by a moat that keeps its star shape. Go the full circle by boat, canoe or SUP and you see the walls, the Sassenpoort and the houseboats on the Thorbeckegracht from the water.",
       tip: "Boat tours and rentals run from around the Rodetorenplein; they operate in the warm months.", q: "Rodetorenplein Zwolle", months: [4, 5, 6, 7, 8, 9, 10] },

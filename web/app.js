@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  var APP_VERSION = "0.6.0";
+  var APP_VERSION = "0.7.0";
   var STORE_KEY = "citydiscovery.v1";
   var CATS = {
     gor: { label: "See", icon: "👀", color: "#3b82f6" },
@@ -11,7 +11,7 @@
   var MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
   var STYLE_LIGHT = "https://tiles.openfreemap.org/styles/liberty";
   var STYLE_DARK = "https://tiles.openfreemap.org/styles/positron"; // lightness-inverted at load time
-  var REGION_COLORS = ["#f43f5e", "#f59e0b", "#22c55e", "#3b82f6", "#a855f7", "#14b8a6", "#ec4899",
+  var FALLBACK_COLORS = ["#f43f5e", "#f59e0b", "#22c55e", "#3b82f6", "#a855f7", "#14b8a6", "#ec4899",
     "#84cc16", "#6366f1", "#f97316", "#06b6d4", "#eab308", "#8b5cf6", "#10b981"];
   var OVERVIEW_ZOOM = 9.5; // below this the map shows whole regions instead of pins
 
@@ -37,7 +37,7 @@
   // All regions' quests in one list; each knows its region (cid) and storage key.
   var allQuests = [], byKey = {};
   Object.keys(cities).forEach(function (id, i) {
-    cities[id].color = REGION_COLORS[i % REGION_COLORS.length];
+    cities[id].color = (window.REGION_COLORS && window.REGION_COLORS[id]) || FALLBACK_COLORS[i % FALLBACK_COLORS.length];
     cities[id].quests.forEach(function (q) {
       q.cid = id; q.key = id + "/" + q.id;
       allQuests.push(q); byKey[q.key] = q;
@@ -164,7 +164,7 @@
 
   // ── Map ────────────────────────────────────────────────────
   var $map = document.getElementById("map");
-  var map = null, mapLoading = false, mapReady = false, meMarker = null, regionMarkers = {};
+  var map = null, mapLoading = false, mapReady = false, mePos = null, badgeCache = {};
   var REGIONS = window.REGIONS || {};
 
   function parseColor(s) {
@@ -268,19 +268,51 @@
     return g.getImageData(0, 0, S, S);
   }
 
+  function badgeImage(color, pct, cur) {
+    var S = 112, c = document.createElement("canvas");
+    c.width = c.height = S;
+    var g = c.getContext("2d"), m = S / 2, r = 36;
+    g.shadowColor = "rgba(15,23,42,.38)"; g.shadowBlur = 10; g.shadowOffsetY = 3;
+    g.beginPath(); g.arc(m, m, r + 9, 0, 7); g.fillStyle = cur ? color : "#ffffff"; g.fill();
+    g.shadowColor = "transparent";
+    g.beginPath(); g.arc(m, m, r + 2, 0, 7); g.fillStyle = "#ffffff"; g.fill();
+    g.lineWidth = 9; g.strokeStyle = "#e5e7eb";
+    g.beginPath(); g.arc(m, m, r - 6, 0, 7); g.stroke();
+    if (pct > 0) {
+      g.strokeStyle = color; g.lineCap = "round";
+      g.beginPath(); g.arc(m, m, r - 6, -Math.PI / 2, -Math.PI / 2 + Math.PI * 2 * Math.max(pct, 3) / 100); g.stroke();
+    }
+    g.fillStyle = "#0f172a"; g.textAlign = "center"; g.textBaseline = "middle";
+    g.font = "800 22px system-ui, -apple-system, 'Segoe UI', sans-serif";
+    g.fillText(pct + "%", m, m + 1);
+    return g.getImageData(0, 0, S, S);
+  }
+  // Regions are lists of polygons; a polygon is a list of rings (outer first), a ring is [[lat, lng], ...].
   function regionsGeo() {
     var feats = [];
     Object.keys(REGIONS).forEach(function (id) {
       if (!cities[id]) return;
       var s = cityStats(id);
-      REGIONS[id].forEach(function (ring) {
-        var pts = ring.map(function (p) { return [p[1], p[0]]; });
-        pts.push(pts[0]);
-        feats.push({ type: "Feature", geometry: { type: "Polygon", coordinates: [pts] },
-          properties: { id: id, name: cities[id].name, color: cities[id].color, op: 0.2 + 0.4 * s.pct / 100 } });
+      REGIONS[id].forEach(function (poly) {
+        var rings = poly.map(function (ring) {
+          var pts = ring.map(function (p) { return [p[1], p[0]]; });
+          pts.push(pts[0]);
+          return pts;
+        });
+        feats.push({ type: "Feature", geometry: { type: "Polygon", coordinates: rings },
+          properties: { id: id, name: cities[id].name, color: cities[id].color, op: 0.4 + 0.3 * s.pct / 100 } });
       });
     });
     return { type: "FeatureCollection", features: feats };
+  }
+  function badgePoints() {
+    return { type: "FeatureCollection", features: Object.keys(cities).map(function (id) {
+      return { type: "Feature", geometry: { type: "Point", coordinates: cityCenter(cities[id]) },
+        properties: { id: id, name: cities[id].name, img: "rb-" + id + (id === cityId ? "-cur" : "") } };
+    }) };
+  }
+  function meGeo() {
+    return { type: "FeatureCollection", features: mePos ? [{ type: "Feature", properties: {}, geometry: { type: "Point", coordinates: mePos } }] : [] };
   }
   function questsGeo() {
     var feats = [];
@@ -311,17 +343,20 @@
     map.getStyle().layers.some(function (l) { if (l.type === "symbol") { firstSymbol = l.id; return true; } });
     var ac = accent(), txt = theme() === "dark" ? "#f1f5f9" : "#0f172a", halo = theme() === "dark" ? "#171c26" : "#ffffff";
 
+    badgeCache = {};
     map.addSource("regions", { type: "geojson", data: regionsGeo() });
     map.addLayer({ id: "region-fill", type: "fill", source: "regions", paint: {
       "fill-color": ["get", "color"],
-      "fill-opacity": ["interpolate", ["linear"], ["zoom"], 7, ["get", "op"], 10, ["*", ["get", "op"], 0.35], 12.5, 0.03] } }, firstSymbol);
+      "fill-opacity": ["interpolate", ["linear"], ["zoom"], 6, ["get", "op"], 9.5, ["get", "op"], 11.5, ["*", ["get", "op"], 0.16], 13, 0.02] } }, firstSymbol);
     map.addLayer({ id: "region-hover", type: "fill", source: "regions", filter: ["==", ["get", "id"], ""], paint: {
-      "fill-color": ["get", "color"], "fill-opacity": 0.35 } }, firstSymbol);
-    map.addLayer({ id: "region-line", type: "line", source: "regions", paint: {
-      "line-color": ["get", "color"], "line-width": 1.6,
-      "line-opacity": ["interpolate", ["linear"], ["zoom"], 8, 0.9, 13, 0.3] } }, firstSymbol);
-    map.addLayer({ id: "region-cur", type: "line", source: "regions", filter: ["==", ["get", "id"], cityId], paint: {
-      "line-color": ["get", "color"], "line-width": 3.2, "line-opacity": 0.95 } }, firstSymbol);
+      "fill-color": ["get", "color"], "fill-opacity": 0.3 } }, firstSymbol);
+    map.addLayer({ id: "region-casing", type: "line", source: "regions", layout: { "line-join": "round" }, paint: {
+      "line-color": "#ffffff", "line-opacity": 0.9, "line-blur": 0.6,
+      "line-width": ["interpolate", ["linear"], ["zoom"], 6, 3.5, 12, 7] } }, firstSymbol);
+    map.addLayer({ id: "region-line", type: "line", source: "regions", layout: { "line-join": "round" }, paint: {
+      "line-color": ["get", "color"], "line-width": ["interpolate", ["linear"], ["zoom"], 6, 1.8, 12, 3] } }, firstSymbol);
+    map.addLayer({ id: "region-cur", type: "line", source: "regions", layout: { "line-join": "round" }, filter: ["==", ["get", "id"], cityId], paint: {
+      "line-color": ["get", "color"], "line-width": ["interpolate", ["linear"], ["zoom"], 6, 3.4, 12, 5.5] } }, firstSymbol);
 
     map.addSource("quests", { type: "geojson", data: questsGeo(), cluster: true, clusterMaxZoom: 13, clusterRadius: 46 });
     map.addLayer({ id: "done-glow", type: "circle", source: "quests", minzoom: 9,
@@ -344,24 +379,34 @@
     map.addSource("sel", { type: "geojson", data: { type: "FeatureCollection", features: [] } });
     map.addLayer({ id: "sel-ring", type: "circle", source: "sel", paint: {
       "circle-radius": 30, "circle-color": ac, "circle-opacity": 0.12, "circle-stroke-color": ac, "circle-stroke-width": 3 } });
+    map.addSource("region-points", { type: "geojson", data: badgePoints() });
+    map.addLayer({ id: "region-badges", type: "symbol", source: "region-points", maxzoom: OVERVIEW_ZOOM, layout: {
+      "icon-image": ["get", "img"], "icon-allow-overlap": true, "icon-ignore-placement": true,
+      "text-field": ["get", "name"], "text-font": ["Noto Sans Bold"], "text-size": 13, "text-anchor": "top", "text-offset": [0, 2.3],
+      "text-allow-overlap": true, "text-ignore-placement": true },
+      paint: { "text-color": "#0f172a", "text-halo-color": "#ffffff", "text-halo-width": 2.4 } });
+
+    map.addSource("me", { type: "geojson", data: meGeo() });
+    map.addLayer({ id: "me-halo", type: "circle", source: "me", paint: { "circle-radius": 22, "circle-color": "#2f7df6", "circle-opacity": 0.2 } });
+    map.addLayer({ id: "me-dot", type: "circle", source: "me", paint: {
+      "circle-radius": 8, "circle-color": "#2f7df6", "circle-stroke-color": "#ffffff", "circle-stroke-width": 3.5 } });
     mapReady = true;
     refreshMap();
   }
 
-  function createRegionMarkers() {
+  // Region bubbles are drawn by the map itself (not DOM markers), so they stay put however the map is tilted or rotated.
+  function refreshRegionBadges() {
     Object.keys(cities).forEach(function (id) {
-      var el = document.createElement("div");
-      el.className = "rb";
-      el.addEventListener("click", function (e) { e.stopPropagation(); setCity(id, true); });
-      regionMarkers[id] = { el: el, marker: new maplibregl.Marker({ element: el, anchor: "center" }).setLngLat(cityCenter(cities[id])).addTo(map) };
+      var pct = cityStats(id).pct;
+      [false, true].forEach(function (cur) {
+        var key = "rb-" + id + (cur ? "-cur" : ""), sig = pct + ":" + cities[id].color;
+        if (badgeCache[key] === sig) return;
+        var img = badgeImage(cities[id].color, pct, cur);
+        if (map.hasImage(key)) map.updateImage(key, img); else map.addImage(key, img, { pixelRatio: 2 });
+        badgeCache[key] = sig;
+      });
     });
-  }
-  function refreshRegionMarkers() {
-    Object.keys(regionMarkers).forEach(function (id) {
-      var s = cityStats(id), el = regionMarkers[id].el;
-      el.className = "rb" + (id === cityId ? " cur" : "");
-      el.innerHTML = '<b style="--p:' + s.pct + '%;--c:' + cities[id].color + '"><i>' + s.pct + '%</i></b><span>' + esc(cities[id].name) + '</span>';
-    });
+    map.getSource("region-points").setData(badgePoints());
   }
 
   function ensureMap() {
@@ -375,30 +420,31 @@
         bounds: [[city.bounds[0][1], city.bounds[0][0]], [city.bounds[1][1], city.bounds[1][0]]], fitBoundsOptions: { padding: pad }
       });
       map.addControl(new maplibregl.AttributionControl({ compact: true }), "bottom-left");
-      map.on("load", function () { setupOverlays(); createRegionMarkers(); refreshRegionMarkers(); onZoom(); });
-      map.on("zoom", onZoom);
+      map.on("load", setupOverlays);
       map.on("moveend", onMove);
       map.on("click", onMapClick);
       map.on("mousemove", onMapHover);
       map.on("error", function (e) { if (e && e.error && /Failed to fetch|NetworkError/i.test(String(e.error.message))) mapLoading = false; });
     }).catch(function () { mapLoading = false; toast("The map needs an internet connection"); });
   }
-  function onZoom() {
-    if (!map) return;
-    $map.classList.toggle("overview", map.getZoom() < OVERVIEW_ZOOM);
+  function inRing(ring, lng, lat) {
+    var inside = false;
+    for (var i = 0, j = ring.length - 1; i < ring.length; j = i++) {
+      var yi = ring[i][0], xi = ring[i][1], yj = ring[j][0], xj = ring[j][1];
+      if ((yi > lat) !== (yj > lat) && lng < ((xj - xi) * (lat - yi)) / (yj - yi) + xi) inside = !inside;
+    }
+    return inside;
   }
   function regionAt(lng, lat) {
     var found = null;
     Object.keys(REGIONS).some(function (id) {
-      return REGIONS[id].some(function (ring) {
-        var inside = false;
-        for (var i = 0, j = ring.length - 1; i < ring.length; j = i++) {
-          var yi = ring[i][0], xi = ring[i][1], yj = ring[j][0], xj = ring[j][1];
-          if ((yi > lat) !== (yj > lat) && lng < ((xj - xi) * (lat - yi)) / (yj - yi) + xi) inside = !inside;
-        }
-        if (inside) found = id;
-        return inside;
+      var hit = REGIONS[id].some(function (poly) {
+        if (!inRing(poly[0], lng, lat)) return false;
+        for (var h = 1; h < poly.length; h++) if (inRing(poly[h], lng, lat)) return false;
+        return true;
       });
+      if (hit) found = id;
+      return hit;
     });
     return found && cities[found] ? found : null;
   }
@@ -412,6 +458,8 @@
   }
   function onMapClick(e) {
     if (!mapReady) return;
+    var badge = map.queryRenderedFeatures(e.point, { layers: ["region-badges"] })[0];
+    if (badge) { setCity(badge.properties.id, true); return; }
     var hit = map.queryRenderedFeatures(e.point, { layers: ["pins", "clusters"] })[0];
     if (hit && hit.layer.id === "pins") { var q = byKey[hit.properties.key]; if (q) openQuest(q); return; }
     if (hit) {
@@ -428,7 +476,7 @@
   }
   function onMapHover(e) {
     if (!mapReady) return;
-    var onPin = map.queryRenderedFeatures(e.point, { layers: ["pins", "clusters"] }).length > 0;
+    var onPin = map.queryRenderedFeatures(e.point, { layers: ["pins", "clusters", "region-badges"] }).length > 0;
     var r = !onPin && map.getZoom() < OVERVIEW_ZOOM + 1.5 ? map.queryRenderedFeatures(e.point, { layers: ["region-fill"] })[0] : null;
     map.getCanvas().style.cursor = onPin || r ? "pointer" : "";
     map.setFilter("region-hover", ["==", ["get", "id"], r ? r.properties.id : ""]);
@@ -438,7 +486,7 @@
     map.getSource("quests").setData(questsGeo());
     map.getSource("regions").setData(regionsGeo());
     map.setFilter("region-cur", ["==", ["get", "id"], cityId]);
-    refreshRegionMarkers();
+    refreshRegionBadges();
   }
   function updateMap() {
     ensureMap();
@@ -487,11 +535,8 @@
     toast("Finding you…");
     navigator.geolocation.getCurrentPosition(function (pos) {
       var p = [pos.coords.longitude, pos.coords.latitude];
-      if (meMarker) meMarker.setLngLat(p);
-      else {
-        var el = document.createElement("div"); el.className = "me";
-        meMarker = new maplibregl.Marker({ element: el }).setLngLat(p).addTo(map);
-      }
+      mePos = p;
+      if (mapReady) map.getSource("me").setData(meGeo());
       map.flyTo({ center: p, zoom: Math.max(map.getZoom(), 15), duration: 1200 });
     }, function () { toast("Could not get your location. Check the location permission."); },
     { enableHighAccuracy: true, timeout: 10000, maximumAge: 30000 });

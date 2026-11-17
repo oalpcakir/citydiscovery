@@ -1,0 +1,153 @@
+"""Builds web/regions.js: region outlines made of REAL administrative units.
+
+Dutch municipalities (cartomap.github.io/nl, CBS data) and Belgian arrondissements (Eurostat NUTS-3)
+are assigned to the region whose quests they contain (or, if they have none, the nearest region in the
+same country), lightly smoothed, and merged. Region edges therefore follow real borders and coastlines.
+
+Usage (needs shapely and pillow):
+  python tools/build_regions.py <nl_gemeente.geojson> <nuts_10m.geojson> <web/cities dir> <out regions.js> [preview.png]
+"""
+import collections, glob, io, json, math, os, re, sys
+
+from shapely.geometry import Point, shape
+from shapely.ops import unary_union
+from shapely.strtree import STRtree
+from shapely.validation import make_valid
+
+nl_path, nuts_path, cities_dir, out_path = sys.argv[1:5]
+preview = sys.argv[5] if len(sys.argv) > 5 else None
+
+PALETTE = ["#ef4444", "#f97316", "#eab308", "#22c55e", "#14b8a6", "#06b6d4", "#3b82f6", "#6366f1", "#a855f7", "#ec4899"]
+COUNTRY = {}  # region id -> NL / BE (decided from where its own quests lie)
+
+
+def parse_city(path):
+    s = io.open(path, encoding="utf-8").read()
+    pts = [(float(a), float(b)) for _, a, b in re.findall(r"(\w+): \[(-?\d+\.\d+), (-?\d+\.\d+)\]", s)]
+    return pts
+
+
+# ── Units ────────────────────────────────────────────────
+units = []  # (country, name, geometry)
+for f in json.load(io.open(nl_path, encoding="utf-8"))["features"]:
+    units.append(("NL", f["properties"]["statnaam"], make_valid(shape(f["geometry"]))))
+for f in json.load(io.open(nuts_path, encoding="utf-8"))["features"]:
+    p = f["properties"]
+    if p["CNTR_CODE"] == "BE" and p["LEVL_CODE"] == 3:
+        units.append(("BE", p["NAME_LATN"], make_valid(shape(f["geometry"]))))
+
+# ── Quests ───────────────────────────────────────────────
+quests = {}  # region -> [Point(lng, lat)]
+for path in sorted(glob.glob(os.path.join(cities_dir, "*.js"))):
+    rid = os.path.basename(path)[:-3]
+    quests[rid] = [Point(lng, lat) for lat, lng in parse_city(path)]
+BE_REGIONS = {"brussel", "antwerpen", "gent", "brugge", "luik"}
+for rid in quests:
+    COUNTRY[rid] = "BE" if rid in BE_REGIONS else "NL"
+
+# ── Assignment ───────────────────────────────────────────
+assign, own = {}, set()
+for i, (c, name, g) in enumerate(units):
+    votes = collections.Counter()
+    for rid, pts in quests.items():
+        if COUNTRY[rid] != c: continue
+        votes[rid] = sum(1 for p in pts if g.contains(p))
+    votes = +votes
+    if votes:
+        assign[i] = votes.most_common(1)[0][0]; own.add(i)
+for i, (c, name, g) in enumerate(units):
+    if i in assign: continue
+    best, bd = None, 1e9
+    for rid, pts in quests.items():
+        if COUNTRY[rid] != c: continue
+        d = min(g.distance(p) for p in pts)
+        if d < bd: best, bd = rid, d
+    assign[i] = best
+
+# Smoothing: a unit without quests that is mostly surrounded by another region joins it.
+tree = STRtree([u[2].buffer(0.0005) for u in units])
+for _ in range(3):
+    changed = 0
+    for i, (c, name, g) in enumerate(units):
+        if i in own: continue
+        nb = [j for j in tree.query(g.buffer(0.0005)) if j != i and units[j][0] == c]
+        if len(nb) < 3: continue
+        cnt = collections.Counter(assign[j] for j in nb)
+        top, n = cnt.most_common(1)[0]
+        if top != assign[i] and n / len(nb) >= 0.6:
+            assign[i] = top; changed += 1
+    if not changed: break
+
+# ── Merge ────────────────────────────────────────────────
+shapes = {}
+for rid in quests:
+    geoms = [units[i][2] for i in assign if assign[i] == rid]
+    if not geoms: continue
+    u = unary_union(geoms).buffer(0.0004).buffer(-0.0004)  # close hairline gaps between units
+    u = u.simplify(0.0018, preserve_topology=True)
+    shapes[rid] = u
+
+
+def polys(g):
+    return list(g.geoms) if g.geom_type == "MultiPolygon" else [g]
+
+
+def ring(coords):
+    pts, last = [], None
+    for x, y in coords:
+        p = (round(y, 4), round(x, 4))  # [lat, lng]
+        if p != last: pts.append(list(p)); last = p
+    if len(pts) > 1 and pts[0] == pts[-1]: pts.pop()
+    return pts
+
+
+out = {}
+for rid, g in shapes.items():
+    out[rid] = []
+    for p in polys(g):
+        if p.area < 3e-5: continue
+        holes = list(p.interiors)
+        out[rid].append([ring(p.exterior.coords)] + [ring(h.coords) for h in holes if abs(h.convex_hull.area) > 3e-5])
+
+# ── Colours: neighbouring regions never share one ────────
+ids = sorted(shapes, key=lambda r: -shapes[r].area)
+adj = {r: set() for r in ids}
+for a in ids:
+    for b in ids:
+        if a < b and shapes[a].buffer(0.02).intersects(shapes[b]):
+            adj[a].add(b); adj[b].add(a)
+colors = {}
+for r in sorted(ids, key=lambda r: -len(adj[r])):
+    used = {colors[n] for n in adj[r] if n in colors}
+    free = [c for c in PALETTE if c not in used]
+    use_count = collections.Counter(colors.values())
+    colors[r] = min(free or PALETTE, key=lambda c: use_count[c])
+
+io.open(out_path, "w", encoding="utf-8", newline="\n").write(
+    "// Generated by tools/build_regions.py from real administrative boundaries (CBS municipalities, Eurostat NUTS-3).\n"
+    "// REGIONS[id] = polygons; polygon = rings (outer first, then holes); ring = [[lat, lng], ...]\n"
+    "window.REGIONS = " + json.dumps(out, separators=(",", ":")) + ";\n"
+    "window.REGION_COLORS = " + json.dumps(colors, separators=(",", ":")) + ";\n")
+
+# ── Report ───────────────────────────────────────────────
+print({r: (sum(len(p[0]) for p in out[r]), len(out[r])) for r in out}, os.path.getsize(out_path), "bytes")
+bad = 0
+for rid, pts in quests.items():
+    for p in pts:
+        if not shapes[rid].buffer(0.003).contains(p): bad += 1
+print("quests outside their own region:", bad, "of", sum(len(v) for v in quests.values()))
+
+if preview:
+    from PIL import Image, ImageDraw
+    W, H, west, east, south, north = 1100, 1000, 2.5, 7.3, 49.4, 53.7
+    kx = W / (east - west); ky = H / (north - south)
+    img = Image.new("RGB", (W, H), "#dbeafe"); d = ImageDraw.Draw(img)
+    pr = lambda lat, lng: ((lng - west) * kx, (north - lat) * ky)
+    for rid, plist in out.items():
+        for pol in plist:
+            d.polygon([pr(*p) for p in pol[0]], fill=colors[rid], outline="#ffffff")
+            for hole in pol[1:]: d.polygon([pr(*p) for p in hole], fill="#dbeafe", outline="#ffffff")
+    for rid, pts in quests.items():
+        for p in pts: d.ellipse([pr(p.y, p.x)[0] - 2, pr(p.y, p.x)[1] - 2, pr(p.y, p.x)[0] + 2, pr(p.y, p.x)[1] + 2], fill="#111827")
+        c = shapes[rid].representative_point(); x, y = pr(c.y, c.x); d.text((x - 20, y), rid, fill="#111827")
+    img.save(preview)

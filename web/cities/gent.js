@@ -20,11 +20,11 @@ window.CITIES.gent = {
   coords: {
     lamgods: [51.0530, 3.7272], gravensteen: [51.0573, 3.7206], werregaren: [51.0553, 3.7246], lantaarn: [51.0569, 3.7214],
     neuzen: [51.0558, 3.7223], graslei: [51.0546, 3.7208], feesten: [51.0566, 3.7283], dullegriet: [51.0569, 3.7262],
-    waterzooi: [51.0583, 3.7228], prinsenhof: [51.0600, 3.7172],
+    waterzooi: [51.0583, 3.7228], prinsenhof: [51.0583, 3.7168],
     stam: [51.0437, 3.7177], vooruit: [51.0478, 3.7277], kouter: [51.0503, 3.7241],
-    baafsabdij: [51.0560, 3.7372], vaneyck: [51.0545, 3.7352], gruut: [51.0572, 3.7350],
-    kwaremont: [50.7773, 3.5235], mattentaart: [50.7727, 3.8822], laarne: [51.0273, 3.8489], aalst: [50.9384, 4.0390],
-    latem: [51.0165, 3.6360], liefmans: [50.8512, 3.6165]
+    baafsabdij: [51.0539, 3.7363], vaneyck: [51.0545, 3.7352], gruut: [51.0575, 3.7302],
+    kwaremont: [50.7819, 3.5260], mattentaart: [50.7727, 3.8822], laarne: [51.0280, 3.8387], aalst: [50.9384, 4.0390],
+    latem: [51.0056, 3.6032], liefmans: [50.8465, 3.6159]
   },
   // Bölge rozetleri: bölgedeki görevlerin 1/3'ü bronz, 2/3'ü gümüş, tamamı altın.
   areaBadges: {

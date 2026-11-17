@@ -19,12 +19,12 @@ window.CITIES.luik = {
   bounds: [[50.615, 5.545], [50.660, 5.600]],
   coords: {
     perron: [50.6456, 5.5741], boulets: [50.6458, 5.5747], gaufre: [50.6463, 5.5752], peket: [50.6451, 5.5753],
-    batte: [50.6468, 5.5795], lacquemant: [50.6365, 5.5665],
-    bueren: [50.6478, 5.5771], nocturne: [50.6474, 5.5785], fonts: [50.6481, 5.5826],
-    tchantches: [50.6403, 5.5830], aout: [50.6398, 5.5845],
+    batte: [50.6421, 5.5771], lacquemant: [50.6365, 5.5665],
+    bueren: [50.6478, 5.5771], nocturne: [50.6484, 5.5825], fonts: [50.6481, 5.5826],
+    tchantches: [50.6392, 5.5814], aout: [50.6398, 5.5845],
     guillemins: [50.6244, 5.5666], boverie: [50.6282, 5.5765],
     namur: [50.4597, 4.8630], couque: [50.2588, 4.9117], spa: [50.4923, 5.8655], durbuy: [50.3523, 5.4563],
-    fagnes: [50.5013, 6.0932], bouillon: [49.7933, 5.0647], han: [50.1253, 5.1868], blegny: [50.6862, 5.7235]
+    fagnes: [50.5013, 6.0932], bouillon: [49.7933, 5.0647], han: [50.1209, 5.1926], blegny: [50.6862, 5.7235]
   },
   // Bölge rozetleri: bölgedeki görevlerin 1/3'ü bronz, 2/3'ü gümüş, tamamı altın.
   areaBadges: {

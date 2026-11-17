@@ -19,12 +19,12 @@ window.CITIES.denhaag = {
   bounds: [[52.040, 4.230], [52.118, 4.380]],
   coords: {
     hofvijver: [52.0808, 4.3120], mauritshuis: [52.0804, 4.3143], florencia: [52.0790, 4.3040], posthoorn: [52.0825, 4.3135],
-    prinsjesdag: [52.0808, 4.3070], vredespaleis: [52.0865, 4.2955], kunstmuseum: [52.0899, 4.2806], haagsemarkt: [52.0660, 4.2925],
-    japansetuin: [52.1025, 4.3280], haagsebos: [52.0905, 4.3385],
-    beeldenaanzee: [52.1118, 4.2790], simonis: [52.0990, 4.2660], vlaggetjesdag: [52.1012, 4.2625],
-    nieuwjaarsduik: [52.1158, 4.2805], surfles: [52.1085, 4.2715],
+    prinsjesdag: [52.0808, 4.3070], vredespaleis: [52.0865, 4.2955], kunstmuseum: [52.0899, 4.2806], haagsemarkt: [52.0644, 4.2993],
+    japansetuin: [52.1025, 4.3280], haagsebos: [52.0912, 4.3352],
+    beeldenaanzee: [52.1106, 4.2776], simonis: [52.1008, 4.2641], vlaggetjesdag: [52.1012, 4.2625],
+    nieuwjaarsduik: [52.1158, 4.2805], surfles: [52.1036, 4.2656],
     hortusleiden: [52.1562, 4.4838], hutspot: [52.1584, 4.4905], leidsekaas: [52.1591, 4.4928],
-    keukenhof: [52.2700, 4.5466], bollenvelden: [52.2800, 4.5420], voorlinden: [52.1190, 4.3535], duinen: [52.1617, 4.3493]
+    keukenhof: [52.2700, 4.5466], bollenvelden: [52.2695, 4.5426], voorlinden: [52.1193, 4.3472], duinen: [52.1617, 4.3493]
   },
   // Bölge rozetleri: bölgedeki görevlerin 1/3'ü bronz, 2/3'ü gümüş, tamamı altın.
   areaBadges: {

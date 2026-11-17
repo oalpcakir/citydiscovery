@@ -22,10 +22,10 @@ window.CITIES.eindhoven = {
     worstenbrood: [51.4395, 5.4790],
     strijps: [51.4472, 5.4585], veem: [51.4490, 5.4550], evoluon: [51.4434, 5.4470], ddw: [51.4484, 5.4571],
     psv: [51.4417, 5.4675],
-    kruisstraat: [51.4475, 5.4800], woenselmarkt: [51.4505, 5.4795],
-    watermolen: [51.4185, 5.4855], watt: [51.4353, 5.4865], hovenring: [51.4327, 5.4190],
+    kruisstraat: [51.4491, 5.4744], woenselmarkt: [51.4510, 5.4725],
+    watermolen: [51.4231, 5.4703], watt: [51.4353, 5.4865], hovenring: [51.4327, 5.4190],
     sintjan: [51.6879, 5.3083], bosschebol: [51.6904, 5.2958], efteling: [51.6500, 5.0480], duinen: [51.6450, 5.1150],
-    nuenen: [51.4745, 5.5512], breda: [51.5903, 4.7785], lochal: [51.5610, 5.0797]
+    nuenen: [51.4768, 5.5509], breda: [51.5903, 4.7785], lochal: [51.5613, 5.0861]
   },
   // Bölge rozetleri: bölgedeki görevlerin 1/3'ü bronz, 2/3'ü gümüş, tamamı altın.
   areaBadges: {

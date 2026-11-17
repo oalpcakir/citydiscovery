@@ -21,10 +21,10 @@ window.CITIES.amsterdam = {
   coords: {
     begijnhof: [52.3694, 4.8901], onslieveheer: [52.3751, 4.8993], wynand: [52.3723, 4.8952], vleminckx: [52.3683, 4.8903],
     prinsengrachtconcert: [52.3729, 4.8838], winkel43: [52.3797, 4.8859], karthuizerhof: [52.3790, 4.8822],
-    albertcuyp: [52.3558, 4.8935], rijkspassage: [52.3600, 4.8852], openluchttheater: [52.3579, 4.8672],
+    albertcuyp: [52.3558, 4.8935], rijkspassage: [52.3600, 4.8852], openluchttheater: [52.3584, 4.8711],
     brouwerijhetij: [52.3667, 4.9264], hortus: [52.3668, 4.9082], ndsm: [52.4012, 4.8925], eye: [52.3843, 4.9009],
     teylers: [52.3803, 4.6403], jopenkerk: [52.3812, 4.6297], zaanseschans: [52.4740, 4.8185], zandvoort: [52.3765, 4.5275],
-    marken: [52.4587, 5.1040], volendam: [52.4943, 5.0750], muiderslot: [52.3343, 5.0713], alkmaar: [52.6318, 4.7505]
+    marken: [52.4587, 5.1040], volendam: [52.4896, 5.0810], muiderslot: [52.3343, 5.0713], alkmaar: [52.6318, 4.7505]
   },
   // Bölge rozetleri: bölgedeki görevlerin 1/3'ü bronz, 2/3'ü gümüş, tamamı altın.
   areaBadges: {

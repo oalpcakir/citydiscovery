@@ -22,7 +22,7 @@ window.CITIES.antwerpen = {
     handjes: [51.2166, 4.4035], vogelenmarkt: [51.2146, 4.4085], waterbus: [51.2224, 4.3964],
     mas: [51.2289, 4.4048], havenhuis: [51.2416, 4.4072],
     kmska: [51.2087, 4.3946], bolleke: [51.1995, 4.4172], middelheim: [51.1821, 4.4128],
-    centraal: [51.2172, 4.4211], cogels: [51.2068, 4.4335], dageraad: [51.2113, 4.4322], kleinblatt: [51.2125, 4.4265],
+    centraal: [51.2172, 4.4211], cogels: [51.2046, 4.4332], dageraad: [51.2072, 4.4306], kleinblatt: [51.2125, 4.4265],
     romboutstoren: [51.0289, 4.4792], anker: [51.0327, 4.4728], zimmertoren: [51.1291, 4.5707], vlaaikes: [51.1313, 4.5697],
     doel: [51.3110, 4.2655], kalmthout: [51.3690, 4.4370]
   },

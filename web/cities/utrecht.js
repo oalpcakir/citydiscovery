@@ -19,12 +19,12 @@ window.CITIES.utrecht = {
   bounds: [[52.060, 5.030], [52.125, 5.185]],
   coords: {
     domtoren: [52.0907, 5.1213], pandhof: [52.0904, 5.1226], nijntje: [52.0957, 5.1165], trajectumlumen: [52.0922, 5.1196],
-    werfkelder: [52.0915, 5.1190], oudaen: [52.0931, 5.1172], broodjemario: [52.0937, 5.1181], nff: [52.0853, 5.1245],
-    schroderhuis: [52.0853, 5.1475], maliebaan: [52.0900, 5.1320],
+    werfkelder: [52.0915, 5.1190], oudaen: [52.0931, 5.1172], broodjemario: [52.0922, 5.1171], nff: [52.0853, 5.1245],
+    schroderhuis: [52.0853, 5.1475], maliebaan: [52.0942, 5.1380],
     kanaalstraat: [52.0918, 5.1015], hogewoerd: [52.0868, 5.0425],
-    amelisweerd: [52.0673, 5.1590], rhijnauwen: [52.0700, 5.1740],
-    dehaar: [52.1215, 4.9862], koppelpoort: [52.1589, 5.3838], drieringen: [52.1583, 5.3847], fortvechten: [52.0585, 5.1660],
-    raadhuishilversum: [52.2290, 5.1672], pyramide: [52.0995, 5.3350], vecht: [52.1722, 5.0038], heksenwaag: [52.0252, 4.8693]
+    amelisweerd: [52.0673, 5.1590], rhijnauwen: [52.0699, 5.1779],
+    dehaar: [52.1215, 4.9862], koppelpoort: [52.1589, 5.3838], drieringen: [52.1583, 5.3847], fortvechten: [52.0586, 5.1684],
+    raadhuishilversum: [52.2290, 5.1672], pyramide: [52.0904, 5.3428], vecht: [52.1722, 5.0038], heksenwaag: [52.0252, 4.8693]
   },
   // Bölge rozetleri: bölgedeki görevlerin 1/3'ü bronz, 2/3'ü gümüş, tamamı altın.
   areaBadges: {

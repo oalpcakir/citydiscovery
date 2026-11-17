@@ -24,9 +24,9 @@ window.CITIES.maastricht = {
     helpoort: [50.8454, 5.6958], bisschopsmolen: [50.8472, 5.6917], zoervleis: [50.8458, 5.6935],
     servaasbrug: [50.8494, 5.6968], bonnefanten: [50.8424, 5.7022],
     sphinxpassage: [50.8552, 5.6885], lumiere: [50.8560, 5.6900],
-    grotten: [50.8335, 5.6850], enci: [50.8230, 5.6860], apostelhoeve: [50.8255, 5.6680],
-    kerststad: [50.8647, 5.8290], cauberg: [50.8622, 5.8255], drielandenpunt: [50.7545, 6.0208],
-    gulpener: [50.8158, 5.8905], thorn: [51.1612, 5.8408], roermond: [51.1937, 5.9880], margraten: [50.8203, 5.8050]
+    grotten: [50.8335, 5.6850], enci: [50.8242, 5.6825], apostelhoeve: [50.8255, 5.6680],
+    kerststad: [50.8624, 5.8287], cauberg: [50.8589, 5.8221], drielandenpunt: [50.7560, 6.0192],
+    gulpener: [50.8158, 5.8905], thorn: [51.1612, 5.8408], roermond: [51.1937, 5.9880], margraten: [50.8185, 5.8052]
   },
   // Bölge rozetleri: bölgedeki görevlerin 1/3'ü bronz, 2/3'ü gümüş, tamamı altın.
   areaBadges: {

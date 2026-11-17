@@ -18,11 +18,11 @@ window.CITIES.arnhem = {
   // Haritanın ilk açılışta gösterdiği alan (iki şehir birlikte) ve görev konumları [enlem, boylam].
   bounds: [[51.815, 5.800], [52.020, 5.960]],
   coords: {
-    eusebius: [51.9787, 5.9122], johnfrost: [51.9757, 5.9118], trolley: [51.9850, 5.8990], korenmarkt: [51.9825, 5.9043],
-    museumarnhem: [51.9832, 5.8880],
-    waterval: [51.9930, 5.9005], openlucht: [52.0105, 5.9075], burgers: [52.0093, 5.8990],
-    valkhof: [51.8482, 5.8707], vierdaagse: [51.8385, 5.8600], hemel: [51.8481, 5.8641], blaauwehand: [51.8476, 5.8651],
-    oversteek: [51.8570, 5.8390], spiegelwaal: [51.8560, 5.8640], oortjeshekken: [51.8530, 5.9230],
+    eusebius: [51.9787, 5.9122], johnfrost: [51.9764, 5.9092], trolley: [51.9850, 5.8990], korenmarkt: [51.9825, 5.9043],
+    museumarnhem: [51.9855, 5.8922],
+    waterval: [51.9930, 5.9005], openlucht: [52.0107, 5.9107], burgers: [52.0093, 5.8990],
+    valkhof: [51.8482, 5.8707], vierdaagse: [51.8323, 5.8586], hemel: [51.8481, 5.8641], blaauwehand: [51.8476, 5.8651],
+    oversteek: [51.8591, 5.8419], spiegelwaal: [51.8561, 5.8556], oortjeshekken: [51.8632, 5.9335],
     kmm: [52.0953, 5.8169], hogeveluwe: [52.0795, 5.8355], hetloo: [52.2343, 5.9457], posbank: [52.0287, 6.0213],
     hartenstein: [51.9877, 5.8328], mosterd: [52.0118, 6.1375], waag: [52.0130, 6.1385]
   },

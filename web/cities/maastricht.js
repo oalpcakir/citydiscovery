@@ -29,16 +29,16 @@ window.CITIES.maastricht = {
     kerststad: [50.8624, 5.8287], cauberg: [50.8589, 5.8221], drielandenpunt: [50.7560, 6.0192],
     gulpener: [50.8158, 5.8905], thorn: [51.1612, 5.8408], roermond: [51.1937, 5.9880], margraten: [50.8185, 5.8052],
     kruisheren: [50.8486, 5.6839], sterrederzee: [50.8474, 5.6936], maastrichtmuseum: [50.8458, 5.7011],
-    frontenpark: [50.8549, 5.6819], lichtenberg: [50.8282, 5.6858], marreskitchen: [50.8526, 5.6876],
+    frontenpark: [50.8572, 5.6853], lichtenberg: [50.8227, 5.6946], marreskitchen: [50.8518, 5.6858],
     limburgwijn: [50.8484, 5.6908], marktmarkt: [50.8512, 5.6912], dezwaan: [50.8516, 5.6906],
-    bassin: [50.8560, 5.6907], neercanne: [50.8186, 5.6675], kazematten: [50.8455, 5.6802],
-    brouwerijbosch: [50.8485, 5.6994], maasboot: [50.8478, 5.6957], andrerieu: [50.8490, 5.6886],
+    bassin: [50.8560, 5.6907], neercanne: [50.8186, 5.6675], kazematten: [50.8434, 5.6805],
+    brouwerijbosch: [50.8485, 5.6994], maasboot: [50.8510, 5.6941], andrerieu: [50.8490, 5.6886],
     hoensbroek: [50.9169, 5.9181], glaspaleis: [50.8878, 5.9792], rolduc: [50.8678, 6.0817],
-    wahlwiller: [50.8104, 5.9371], sittardmarkt: [50.9988, 5.8686], steyl: [51.3331, 6.1219],
-    venlostadhuis: [51.3707, 6.1720], epenvakwerk: [50.7757, 5.9145], hijgendhert: [50.7690, 5.9760],
-    asperges: [51.3713, 6.1690], alfabier: [50.9385, 5.8815], jachthut: [51.5390, 6.1530],
-    miljoenenlijn: [50.8337, 5.9810], hamert: [51.5390, 6.1530], kasteeltuinen: [51.4757, 6.1817],
-    steenkolenmijn: [50.8564, 5.8256], pinkpop: [50.8960, 6.0450], voerstreek: [50.7700, 5.8640]
+    wahlwiller: [50.8104, 5.9371], sittardmarkt: [50.9979, 5.8706], steyl: [51.3331, 6.1219],
+    venlostadhuis: [51.3704, 6.1690], epenvakwerk: [50.7757, 5.9145], hijgendhert: [50.7718, 5.9647],
+    asperges: [51.3713, 6.1690], alfabier: [50.9361, 5.8931], jachthut: [51.5390, 6.1530],
+    miljoenenlijn: [50.8337, 5.9810], hamert: [51.5192, 6.1743], kasteeltuinen: [51.4680, 6.1847],
+    steenkolenmijn: [50.8582, 5.8276], pinkpop: [50.8799, 6.0227], voerstreek: [50.7686, 5.8620]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {

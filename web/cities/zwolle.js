@@ -26,17 +26,17 @@ window.CITIES.zwolle = {
     agnietenberg: [52.5365, 6.1265], pec: [52.5170, 6.1197],
     kampen: [52.5591, 5.9161], zutphen: [52.1398, 6.1958], deventerkoek: [52.2517, 6.1603], dickens: [52.2520, 6.1632],
     hattem: [52.4746, 6.0713], urk: [52.6633, 5.6220], giethoorn: [52.7222, 6.0898], weerribben: [52.8065, 5.9285],
-    bonami: [52.5121, 6.0914], vrouwenhuis: [52.5110, 6.0965], anno: [52.5113, 6.0960],
-    celehof: [52.5133, 6.0947], stadstorens: [52.5098, 6.0896], beugeltje: [52.5138, 6.0905],
-    refter: [52.5130, 6.0914], zaterdagmarkt: [52.5122, 6.0937], librijewinkel: [52.5150, 6.0948],
-    laarzenpad: [52.5203, 6.0582], streetartassendorp: [52.5040, 6.0990], anningahof: [52.5045, 6.1350],
+    bonami: [52.5225, 6.1214], vrouwenhuis: [52.5130, 6.0897], anno: [52.5129, 6.0909],
+    celehof: [52.5133, 6.0947], stadstorens: [52.5142, 6.0976], beugeltje: [52.5142, 6.0945],
+    refter: [52.5130, 6.0914], zaterdagmarkt: [52.5122, 6.0937], librijewinkel: [52.5156, 6.0979],
+    laarzenpad: [52.5211, 6.0280], streetartassendorp: [52.5065, 6.0993], anningahof: [52.5270, 6.1604],
     lebuinustoren: [52.2522, 6.1542], schokland: [52.6342, 5.7778], twickel: [52.2664, 6.7150],
-    rijksmuseumtwenthe: [52.2278, 6.8969], plechelmus: [52.3125, 6.9283], canadesebegraafplaats: [52.2836, 6.4173],
-    blokzijl: [52.7264, 5.9617], urkvissersmonument: [52.6607, 5.5962], stommevancampen: [52.5560, 5.9165],
-    pelikaan: [52.1393, 6.1937], cambrinus: [52.1383, 6.1967], chocoladehattem: [52.4757, 6.0688],
-    twentsebier: [52.2560, 6.7905], boekenmarkt: [52.2533, 6.1530], kamperkogge: [52.5605, 5.9195],
-    zutphenhofjes: [52.1412, 6.1970], vloggelen: [52.4073, 6.8994], paasvuurespelo: [52.3020, 6.4230],
-    corsovollenhove: [52.6808, 5.9530], sallandseheuvelrug: [52.3544, 6.4635], eerde: [52.5078, 6.3965]
+    rijksmuseumtwenthe: [52.2278, 6.8969], plechelmus: [52.3125, 6.9283], canadesebegraafplaats: [52.2995, 6.4280],
+    blokzijl: [52.7263, 5.9593], urkvissersmonument: [52.6626, 5.5929], stommevancampen: [52.5615, 5.9139],
+    pelikaan: [52.1395, 6.1983], cambrinus: [52.1383, 6.1967], chocoladehattem: [52.4757, 6.0688],
+    twentsebier: [52.2560, 6.7905], boekenmarkt: [52.2570, 6.1450], kamperkogge: [52.5628, 5.9102],
+    zutphenhofjes: [52.1412, 6.1970], vloggelen: [52.4081, 6.8973], paasvuurespelo: [52.3020, 6.4230],
+    corsovollenhove: [52.6807, 5.9491], sallandseheuvelrug: [52.3544, 6.4635], eerde: [52.4810, 6.4791]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {

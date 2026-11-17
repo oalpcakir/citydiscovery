@@ -26,18 +26,18 @@ window.CITIES.luik = {
     guillemins: [50.6244, 5.5666], boverie: [50.6282, 5.5765],
     namur: [50.4597, 4.8630], couque: [50.2588, 4.9117], spa: [50.4923, 5.8655], durbuy: [50.3523, 5.4563],
     fagnes: [50.5013, 6.0932], bouillon: [49.7933, 5.0647], han: [50.1209, 5.1926], blegny: [50.6862, 5.7235],
-    saintjacques: [50.6386, 5.5698], lucifer: [50.6406, 5.5718], grandcurtius: [50.6470, 5.5839],
+    saintjacques: [50.6370, 5.5703], lucifer: [50.6406, 5.5718], grandcurtius: [50.6470, 5.5839],
     viewallonne: [50.6471, 5.5759], impassecouronne: [50.6474, 5.5766], aquarium: [50.6388, 5.5787],
     lequet: [50.6423, 5.5769], potaulait: [50.6401, 5.5738], olivettes: [50.6442, 5.5778],
-    brasseriec: [50.6481, 5.5776], saintpholien: [50.6425, 5.5840], simenon: [50.6427, 5.5805],
-    villagenoel: [50.6455, 5.5730], coteaux: [50.6497, 5.5745], citemiroir: [50.6431, 5.5677],
-    annevoie: [50.3450, 4.8447], freyr: [50.2207, 4.8894], huyrondia: [50.5186, 5.2383],
+    brasseriec: [50.6481, 5.5776], saintpholien: [50.6437, 5.5866], simenon: [50.6405, 5.5844],
+    villagenoel: [50.6455, 5.5730], coteaux: [50.6508, 5.5814], citemiroir: [50.6431, 5.5677],
+    annevoie: [50.3450, 4.8447], freyr: [50.2263, 4.8887], huyrondia: [50.5186, 5.2383],
     tombeaugeant: [49.8208, 5.0433], arlonroman: [49.6842, 5.8107], reinhardstein: [50.4525, 6.1022],
-    larochechateau: [50.1820, 5.5765], coo: [50.3936, 5.8761], bietrume: [50.4627, 4.8650],
+    larochechateau: [50.1820, 5.5765], coo: [50.3936, 5.8761], bietrume: [50.4645, 4.8643],
     jambonardenne: [50.1817, 5.5751], maitrank: [49.6828, 5.8128], tarteauriz: [50.5899, 5.8627],
-    orval: [49.6397, 5.3489], leffe: [50.2568, 4.9109], laetare: [50.3938, 5.9310],
-    redu: [50.0075, 5.1603], lessekayak: [50.1904, 5.0050], vennbahn: [50.6740, 6.1153],
-    ninglinspo: [50.4683, 5.7425], fetesnamur: [50.4603, 4.8605]
+    orval: [49.6409, 5.3500], leffe: [50.2568, 4.9109], laetare: [50.3938, 5.9310],
+    redu: [50.0020, 5.1451], lessekayak: [50.1894, 5.0076], vennbahn: [50.6669, 6.1324],
+    ninglinspo: [50.4620, 5.7508], fetesnamur: [50.4641, 4.8605]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {

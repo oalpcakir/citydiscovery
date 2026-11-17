@@ -3,7 +3,20 @@
 Larger differences are usually a wrong match (a namesake elsewhere), so they are only listed for review.
 Usage: python tools/geoapply.py web/cities geo.txt [more.txt ...]
 """
-import io, re, sys
+import io, re, sys, time
+
+
+def write(path, text):
+    # OneDrive can lock a file for a moment while it syncs; retry a few times.
+    for attempt in range(8):
+        try:
+            with io.open(path, "w", encoding="utf-8", newline="\n") as f:
+                f.write(text)
+            return
+        except OSError:
+            time.sleep(0.5 * (attempt + 1))
+    raise OSError("could not write " + path)
+
 
 cities_dir, geo_files = sys.argv[1], sys.argv[2:]
 applied, review = 0, []
@@ -27,7 +40,7 @@ for gf in geo_files:
         s, n = re.subn(r"\b%s: \[-?\d+\.\d+, -?\d+\.\d+\]" % qid, "%s: [%.4f, %.4f]" % (qid, lat, lng), s)
         if n != 1:
             review.append("NOT-APPLIED " + line.strip()); continue
-        io.open(path, "w", encoding="utf-8", newline="\n").write(s)
+        write(path, s)
         applied += 1
 print("applied", applied)
 print("\n".join(review))

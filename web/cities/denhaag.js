@@ -35,7 +35,7 @@ window.CITIES.denhaag = {
     kaagseboer: [52.2145, 4.5587], kaagpont: [52.2190, 4.5585], snowworld: [52.0707, 4.4572],
     avifauna: [52.1414, 4.6489], westlandsmuseum: [52.0092, 4.2464], sonnehoeck: [52.0244, 4.2497],
     pilgrimsleiden: [52.1537, 4.4882], gevangenpoort: [52.0796, 4.3103], escherpaleis: [52.0834, 4.3143],
-    haagseharry: [52.0756, 4.3091], chinatownpoort: [52.0761, 4.3137], schuilkerk: [52.0794, 4.3062],
+    haagseharry: [52.0756, 4.3091], chinatownpoort: [52.0767, 4.3111], schuilkerk: [52.0794, 4.3062],
     pulchri: [52.0819, 4.3119], panoramamesdag: [52.0850, 4.3044], hemelsgewelf: [52.0631, 4.2184],
     abdijkerk: [52.0507, 4.2349], korenaer: [52.0502, 4.2363], oudscheveningen: [52.1064, 4.2733],
     muzee: [52.1081, 4.2829], rosarium: [52.1048, 4.2903], louwman: [52.0994, 4.3514],
@@ -44,8 +44,8 @@ window.CITIES.denhaag = {
     addoel: [52.0688, 4.2901], waterkant: [52.1010, 4.2935], hetpuntje: [52.1260, 4.3002],
     hessing: [52.0859, 4.3366], kompaan: [52.0670, 4.3463], paleistuin: [52.0810, 4.3043],
     grotekerktoren: [52.0775, 4.3069], kloosterkerkbach: [52.0820, 4.3096], tramuseum: [52.0622, 4.3091],
-    vulkaan: [52.0777, 4.2362], pierreuzenrad: [52.1150, 4.2805], sinterklaasintocht: [52.1012, 4.2680],
-    zuiderhavenhoofd: [52.1005, 4.2590], scheveningsebosjes: [52.0932, 4.2939], binckhorststreetart: [52.0684, 4.3457]
+    vulkaan: [52.0777, 4.2362], pierreuzenrad: [52.1178, 4.2800], sinterklaasintocht: [52.1012, 4.2680],
+    zuiderhavenhoofd: [52.1005, 4.2590], scheveningsebosjes: [52.0932, 4.2939], binckhorststreetart: [52.0667, 4.3481]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {

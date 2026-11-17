@@ -28,19 +28,19 @@ window.CITIES.utrecht = {
     raadhuishilversum: [52.2293, 5.1692], pyramide: [52.0904, 5.3428], vecht: [52.1722, 5.0038], heksenwaag: [52.0252, 4.8693],
     oudehortus: [52.0847, 5.1264], speelklok: [52.0903, 5.1189], domunder: [52.0910, 5.1220],
     postkantoorneude: [52.0931, 5.1178], centraalmuseum: [52.0833, 5.1258], catharijneconvent: [52.0872, 5.1242],
-    soestbergen: [52.0815, 5.1340], oudamelisweerdmuseum: [52.0720, 5.1590], molendester: [52.0897, 5.1006],
-    perronnegen: [52.0960, 5.0685], domtorentjes: [52.0913, 5.1207], olivier: [52.0905, 5.1170],
-    cafebelgie: [52.0896, 5.1214], oudemuntkelder: [52.0929, 5.1171], boot122: [52.1030, 5.0958],
+    soestbergen: [52.0773, 5.1289], oudamelisweerdmuseum: [52.0674, 5.1696], molendester: [52.0897, 5.1006],
+    perronnegen: [52.0978, 5.0682], domtorentjes: [52.0913, 5.1207], olivier: [52.0905, 5.1170],
+    cafebelgie: [52.0896, 5.1214], oudemuntkelder: [52.0929, 5.1171], boot122: [52.1003, 5.0828],
     leen: [52.0751, 5.1214], janprimus: [52.0860, 5.1430], koffieleute: [52.0898, 5.1080],
     skateparade: [52.0936, 5.1263], kanooudegracht: [52.0864, 5.1219], kanokrommerijn: [52.0822, 5.1558],
-    sonnenborgh: [52.0866, 5.1232], festivaloudemuziek: [52.0914, 5.1244], leguesswho: [52.0928, 5.1130],
-    werkspoorkwartier: [52.1043, 5.0952], kasteelamerongen: [51.9953, 5.4583], huisdoorn: [52.0314, 5.3386],
-    mondriaanhuis: [52.1548, 5.3903], amersfoortsekei: [52.1527, 5.3867], armendepoth: [52.1555, 5.3893],
+    sonnenborgh: [52.0854, 5.1293], festivaloudemuziek: [52.0914, 5.1244], leguesswho: [52.0928, 5.1130],
+    werkspoorkwartier: [52.1051, 5.0797], kasteelamerongen: [51.9953, 5.4583], huisdoorn: [52.0308, 5.3446],
+    mondriaanhuis: [52.1548, 5.3903], amersfoortsekei: [52.1527, 5.3867], armendepoth: [52.1591, 5.3938],
     molenrijnenlek: [51.9714, 5.3494], grebbeberg: [51.9553, 5.6000], loenen: [52.2096, 5.0224],
-    zonnestraal: [52.2007, 5.1531], vuurscheboer: [52.1772, 5.2272], woerdenkaasmarkt: [52.0857, 4.8836],
+    zonnestraal: [52.2037, 5.1513], vuurscheboer: [52.1788, 5.2221], woerdenkaasmarkt: [52.0857, 4.8836],
     monnickendam: [52.1537, 5.3925], mout: [52.2274, 5.1771], abrona: [52.0236, 4.8713],
-    leersumseveld: [52.0230, 5.4060], langejan: [52.1551, 5.3872], soesterduinen: [52.1531, 5.2969],
-    beeldengeluid: [52.2354, 5.1731], loosdrechtseplassen: [52.2000, 5.0667], cunerakerk: [51.9569, 5.5642]
+    leersumseveld: [52.0307, 5.4462], langejan: [52.1551, 5.3872], soesterduinen: [52.1462, 5.3008],
+    beeldengeluid: [52.2354, 5.1731], loosdrechtseplassen: [52.1866, 5.0485], cunerakerk: [51.9569, 5.5642]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {

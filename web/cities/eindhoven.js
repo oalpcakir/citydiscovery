@@ -28,17 +28,17 @@ window.CITIES.eindhoven = {
     sintjan: [51.6879, 5.3083], bosschebol: [51.6904, 5.2958], efteling: [51.6500, 5.0480], duinen: [51.6450, 5.1150],
     nuenen: [51.4768, 5.5509], breda: [51.5903, 4.7785], lochal: [51.5613, 5.0861],
     inkijkmuseum: [51.4417, 5.4844], blob: [51.4388, 5.4777], stationradio: [51.4430, 5.4812],
-    trudotoren: [51.4475, 5.4578], voltagalvani: [51.4510, 5.4660], dafmuseum: [51.4404, 5.4893],
-    gourmetmarket: [51.4378, 5.4766], intelligentia: [51.4480, 5.4572], pietheineek: [51.4460, 5.4490],
-    fifthnre: [51.4380, 5.4935], frankwoensel: [51.4532, 5.4625], sillywalks: [51.4447, 5.4862],
-    vonk: [51.4211, 5.4795], stadswandelpark: [51.4245, 5.4865], heusdenmolens: [51.7350, 5.1393],
-    kubushelmond: [51.4775, 5.6585], markiezenhof: [51.4955, 4.2905], jancunen: [51.7653, 5.5264],
-    eerselmarkt: [51.3542, 5.3097], tongerlohuys: [51.5320, 4.4630], blindwalls: [51.5890, 4.7760],
-    depont: [51.5640, 5.0790], latrappe: [51.5436, 5.1297], heusdenpannenkoek: [51.7333, 5.1385],
-    karvansara: [51.5520, 5.0950], noordkade: [51.6200, 5.5380], foodmarkettilburg: [51.5615, 5.0845],
+    trudotoren: [51.4475, 5.4578], voltagalvani: [51.4510, 5.4660], dafmuseum: [51.4373, 5.4906],
+    gourmetmarket: [51.4371, 5.4812], intelligentia: [51.4480, 5.4572], pietheineek: [51.4490, 5.4456],
+    fifthnre: [51.4380, 5.4935], frankwoensel: [51.4532, 5.4625], sillywalks: [51.4434, 5.4840],
+    vonk: [51.4211, 5.4795], stadswandelpark: [51.4263, 5.4825], heusdenmolens: [51.7350, 5.1393],
+    kubushelmond: [51.4775, 5.6585], markiezenhof: [51.4961, 4.2855], jancunen: [51.7653, 5.5264],
+    eerselmarkt: [51.3584, 5.3090], tongerlohuys: [51.5340, 4.4585], blindwalls: [51.5942, 4.7844],
+    depont: [51.5673, 5.0745], latrappe: [51.5436, 5.1297], heusdenpannenkoek: [51.7333, 5.1385],
+    karvansara: [51.5538, 5.1028], noordkade: [51.6149, 5.5299], foodmarkettilburg: [51.5615, 5.0845],
     oeteldonk: [51.6886, 5.3036], binnendieze: [51.6866, 5.3059], mozesbrug: [51.5289, 4.3011],
-    baarle: [51.4420, 4.9310], oisterwijkvennen: [51.5730, 5.2155], grootepeel: [51.3383, 5.7856],
-    biesbosch: [51.7070, 4.8035], vangoghfietspad: [51.4697, 5.5281]
+    baarle: [51.4420, 4.9310], oisterwijkvennen: [51.5730, 5.2155], grootepeel: [51.3258, 5.8016],
+    biesbosch: [51.7081, 4.8086], vangoghfietspad: [51.4697, 5.5281]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {

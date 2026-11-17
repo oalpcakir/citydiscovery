@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  var APP_VERSION = "0.3.0";
+  var APP_VERSION = "0.3.1";
   var STORE_KEY = "citydiscovery.v1";
   var CATS = {
     gor: { label: "Görülecek", icon: "👁️" },
@@ -138,15 +138,17 @@
 
   function ensureMap() {
     if (map || !window.L) return !!map;
-    var dark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
     map = L.map($map, { zoomControl: false, attributionControl: true, minZoom: 9, maxZoom: 18 });
     map.attributionControl.setPrefix(false);
-    L.tileLayer("https://{s}.basemaps.cartocdn.com/" + (dark ? "dark_all" : "light_all") + "/{z}/{x}/{y}{r}.png", {
-      subdomains: "abcd", maxZoom: 20,
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'
+    // Anahtar gerektirmeyen OpenStreetMap karoları; sade/koyu görünüm styles.css'teki filtreyle verilir.
+    L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      maxZoom: 19, className: "tiles",
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> katkıda bulunanlar'
     }).addTo(map);
     glowLayer = L.layerGroup().addTo(map);
     pinLayer = L.layerGroup().addTo(map);
+    // Uzaktan bakarken iğneler küçülür, yoksa merkezde üst üste biner.
+    map.on("zoomend", function () { $map.classList.toggle("far", map.getZoom() < 14); });
     map.fitBounds(city.bounds);
     return true;
   }
@@ -163,12 +165,12 @@
     mapQuests().forEach(function (q) {
       var done = isDone(q);
       // Tamamlanan yerlerin çevresi haritada renklenir.
-      if (done) L.circle(ll(q), { radius: 320, stroke: false, fillColor: accent, fillOpacity: 0.2, interactive: false }).addTo(glowLayer);
+      if (done) L.circle(ll(q), { radius: 320, stroke: false, fillColor: accent, fillOpacity: 0.3, interactive: false }).addTo(glowLayer);
       var icon = L.divIcon({
         className: "", iconSize: [34, 34], iconAnchor: [17, 17],
         html: '<div class="pin ' + q.cat + (done ? " done" : "") + (!done && !inSeason(q) ? " off" : "") + '">' + (done ? "✓" : CATS[q.cat].icon) + '</div>'
       });
-      L.marker(ll(q), { icon: icon, title: q.title, zIndexOffset: done ? 0 : 500 })
+      L.marker(ll(q), { icon: icon, title: q.title, zIndexOffset: done ? 500 : 0 })
         .on("click", function () { openSheet(q.id); })
         .addTo(pinLayer);
     });

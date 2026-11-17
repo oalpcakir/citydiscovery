@@ -47,6 +47,11 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
   z-index: 0; isolation: isolate; background: var(--bg);
 }
 .leaflet-container { font: inherit; background: var(--bg); }
+/* Harita altlığı sade dursun ki iğneler ve boyanan alanlar öne çıksın. */
+.tiles { filter: grayscale(.8) contrast(.92) brightness(1.04); }
+@media (prefers-color-scheme: dark) {
+  .tiles { filter: invert(1) hue-rotate(180deg) grayscale(.65) brightness(.85) contrast(.9); }
+}
 .leaflet-control-attribution { font-size: 10px; background: var(--glass) !important; color: var(--muted) !important; }
 .leaflet-control-attribution a { color: inherit !important; }
 .pin {
@@ -56,6 +61,8 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
 }
 .pin.done { background: var(--c); color: #fff; font-weight: 800; font-size: 17px; }
 .pin.off { opacity: .5; }
+.far .pin { transform: scale(.55); border-width: 4px; }
+.far .pin.done { transform: scale(.7); }
 .pin:active { transform: scale(1.15); }
 
 .map-top {

@@ -171,7 +171,7 @@
   var $sheet = document.getElementById("sheet");
   var $backdrop = document.getElementById("sheet-backdrop");
   var $toast = document.getElementById("toast");
-  var CC = { Netherlands: "nl", Belgium: "be" };
+  var CC = { Netherlands: "nl", Belgium: "be", Germany: "de", Luxembourg: "lu" };
 
   function ring(pct, big) {
     var C = 2 * Math.PI * 26;
@@ -421,18 +421,36 @@
     var C = window.cdCloud;
     if (C && C.user && store.lb && !C.board && C.loadBoard) C.loadBoard();
   }
+  // Regions without quests yet, counted per country name.
+  function soonCounts() {
+    var info = window.REGION_INFO || {}, names = window.COUNTRIES || {}, out = {};
+    Object.keys(info).forEach(function (id) {
+      if (cities[id] || !names[info[id].cc]) return;
+      var n = names[info[id].cc].name;
+      out[n] = (out[n] || 0) + 1;
+    });
+    return out;
+  }
   function regionRows() {
-    var html = "", last = null, cs = countryStats();
+    var html = "", last = null, cs = countryStats(), soon = soonCounts();
+    var soonRow = function (n) {
+      return soon[n] ? '<div class="rsoon">' + ic("calendar", "sm") + soon[n] + ' more ' + (soon[n] === 1 ? "region" : "regions") + ' coming soon</div>' : "";
+    };
     Object.keys(cities).forEach(function (id) {
       var c = cities[id], s = cityStats(id);
       if (c.country !== last) {
-        html += '<div class="rgroup">' + flagHtml(c.country) + esc(c.country) + ' <small>' + cs[c.country].started + ' / ' + cs[c.country].regions + ' regions started</small></div>';
+        if (last) html += soonRow(last);
+        html += '<div class="rgroup">' + flagHtml(c.country) + esc(c.country) + ' <small>' + cs[c.country].started + ' / ' + cs[c.country].regions + (cs[c.country].regions === 1 ? ' region' : ' regions') + ' started</small></div>';
         last = c.country;
       }
       html += '<button class="rrow' + (id === cityId ? " cur" : "") + '" data-city="' + id + '">' +
         '<i class="dot big" style="background:' + c.color + '"></i>' +
         '<div class="grow"><div class="rn">' + esc(c.name) + ' <small>' + esc(c.subtitle || "") + '</small></div>' + bar(s.pct) + '</div>' +
         '<span class="rp">' + s.done + ' / ' + s.total + '</span></button>';
+    });
+    if (last) html += soonRow(last);
+    Object.keys(soon).forEach(function (n) {
+      if (!cs[n]) html += '<div class="rgroup">' + flagHtml(n) + esc(n) + '</div>' + soonRow(n);
     });
     return html;
   }

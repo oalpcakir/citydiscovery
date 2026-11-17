@@ -11,7 +11,8 @@ ROOT = os.path.dirname(HERE)
 hubs = {k: v for k, v in json.load(io.open(os.path.join(HERE, "hubs.json"), encoding="utf-8")).items() if not k.startswith("_")}
 src = io.open(os.path.join(ROOT, "web", "regions.js"), encoding="utf-8").read()
 REG = json.loads(re.search(r"window\.REGIONS = (\{.*?\});\n", src, re.S).group(1))
-META = {"NL": {"name": "Netherlands", "label": [52.98, 6.02]}, "BE": {"name": "Belgium", "label": [50.02, 5.18]}}
+META = {"NL": {"name": "Netherlands", "label": [52.98, 6.02]}, "BE": {"name": "Belgium", "label": [50.02, 5.18]},
+        "DE": {"name": "Germany", "label": [51.15, 10.3]}, "LU": {"name": "Luxembourg", "label": [49.80, 6.10]}}
 
 out = {}
 for cc in sorted({v["country"] for v in hubs.values()}):

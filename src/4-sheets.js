@@ -273,7 +273,7 @@
     var of = function (type) { return UNLOCKS.filter(function (u) { return u.type === type; }); };
     var html = (first ? '<div class="welcome">' + ic("map-pin") + '</div>' : X) +
       '<div class="cel-h">' + (first ? "Welcome to City Disco" : "Your explorer") + '</div>' +
-      (first ? '<p class="note center" style="margin-top:-6px">Rediscover the Netherlands and Belgium one quest at a time. Earn XP, level up and unlock new looks.</p>' : "") +
+      (first ? '<p class="note center" style="margin-top:-6px">Rediscover where you live, one quest at a time. Earn XP, level up and unlock new looks.</p>' : "") +
       '<label class="lbl" for="pname">Explorer name</label><input id="pname" class="inp" maxlength="24" placeholder="e.g. Tulip Ranger" value="' + esc(pr.name) + '">' +
       '<label class="lbl">Avatar</label><div class="pick">' + of("avatar").map(function (u) {
         return pickBtn("avatar", u.value, '<span class="pe">' + u.value + '</span>', pr.avatar, lockAt(u));

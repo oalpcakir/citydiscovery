@@ -20,8 +20,9 @@ polys = {h: MultiPolygon([Polygon([(p[1], p[0]) for p in poly[0]], [[(p[1], p[0]
          for h, rings in REG.items()}
 ORDER = ["amsterdam", "rotterdam", "denhaag", "utrecht", "eindhoven", "denbosch", "breda", "arnhem", "maastricht",
          "zwolle", "enschede", "groningen", "leeuwarden", "middelburg",
-         "brussel", "antwerpen", "gent", "brugge", "luik", "leuven", "mons", "hasselt", "namur"]
-COUNTRY_NAME = {"NL": "Netherlands", "BE": "Belgium"}
+         "brussel", "antwerpen", "gent", "brugge", "luik", "leuven", "mons", "hasselt", "namur",
+         "luxembourg", "aachen", "koeln", "duesseldorf", "trier"]
+COUNTRY_NAME = {"NL": "Netherlands", "BE": "Belgium", "DE": "Germany", "LU": "Luxembourg"}
 
 cities = {}
 for p in glob.glob(os.path.join(ROOT, "web", "cities", "*.js")):
@@ -68,6 +69,9 @@ for cid in list(cities):
         inside = [h for h, mp in polys.items() if hubs[h]["country"] == country and mp.contains(pt)]
         target = inside[0] if inside else min((h for h in polys if hubs[h]["country"] == country), key=lambda h: polys[h].distance(pt))
         if target == cid:
+            continue
+        if target not in cities:  # that region has no quests yet: leave the quest where it is
+            print("  stays: %s/%s lies in %s, which has no quests yet" % (cid, q["id"], target))
             continue
         t = cities[target]
         nid, i = q["id"], 2

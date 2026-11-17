@@ -22,7 +22,7 @@ for path in sys.argv[1:]:
         if only and qid not in only:
             continue
         url = "https://nominatim.openstreetmap.org/search?" + urllib.parse.urlencode(
-            {"q": q, "format": "json", "limit": 1, "countrycodes": "nl,be"})
+            {"q": q, "format": "json", "limit": 1, "countrycodes": "nl,be,de,lu"})
         req = urllib.request.Request(url, headers={"User-Agent": "city-quest-coordinate-check/1.0"})
         try:
             res = json.load(urllib.request.urlopen(req, timeout=20))

@@ -42,6 +42,8 @@ body.on-map #app { max-width: none; padding: 0; }
 .flag { display: inline-block; width: 1.05em; height: .74em; border-radius: 3px; margin-right: .38em; vertical-align: -.04em; box-shadow: 0 0 0 1px rgba(15, 23, 42, .14); flex: none; }
 .fl-nl { background: linear-gradient(#ae1c28 0 33.4%, #fff 0 66.6%, #21468b 0); }
 .fl-be { background: linear-gradient(90deg, #111 0 33.4%, #fdda24 0 66.6%, #ef3340 0); }
+.fl-de { background: linear-gradient(#000 0 33.4%, #dd0000 0 66.6%, #ffce00 0); }
+.fl-lu { background: linear-gradient(#ef3340 0 33.4%, #fff 0 66.6%, #00a3e0 0); }
 .glass { background: var(--glass); -webkit-backdrop-filter: blur(16px) saturate(1.4); backdrop-filter: blur(16px) saturate(1.4); box-shadow: var(--shadow-sm); border: 1px solid color-mix(in srgb, var(--line) 70%, transparent); }
 .note { color: var(--muted); font-size: 13px; margin: 10px 0 0; }
 .note.flat { margin: 0; } .note.center { text-align: center; } .note.err { color: #dc2626; }
@@ -209,6 +211,7 @@ body.card-open .fab, body.card-open .mapctl { opacity: 0; pointer-events: none; 
 .gain b { font-size: 14px; display: block; } .gain small { color: var(--muted); font-size: 12px; } .gain > span { flex: none; font-weight: 800; color: var(--accent-ink); }
 .rules { margin: 0; padding-left: 18px; color: var(--muted); font-size: 13.5px; } .rules li { margin: 4px 0; }
 .rgroup { display: flex; align-items: center; font-size: 12px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); margin: 14px 0 6px; }
+.rsoon { display: flex; align-items: center; gap: 2px; padding: 10px 12px; margin: 2px 0 4px; border-radius: 12px; border: 1px dashed var(--line); color: var(--muted); font-size: 13px; font-weight: 600; }
 .rgroup:first-of-type { margin-top: 0; } .rgroup small { margin-left: auto; font-size: 11px; font-weight: 600; letter-spacing: 0; text-transform: none; }
 .rrow { display: flex; align-items: center; gap: 12px; width: 100%; text-align: left; padding: 10px 12px; border-radius: 14px; min-height: 52px; }
 .rrow.cur { background: var(--accent-soft); }

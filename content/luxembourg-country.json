@@ -1,0 +1,795 @@
+{
+ "new": [
+  {
+   "id": "lcviandencastle",
+   "cat": "gor",
+   "area": "eislek",
+   "title": "Storm the hilltop castle of Vianden",
+   "desc": "Perched on a rocky spur above the Our, Vianden Castle is one of the largest fortified castles west of the Rhine. It was sold off for its stones in 1820 and only rose again after the state took over in 1977.",
+   "tip": "Walk up the cobbled Grand-Rue from the river rather than driving; the castle is lit up after dark and looks best from the bridge over the Our.",
+   "q": "Vianden Castle",
+   "ll": [
+    49.935,
+    6.2028
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Vianden_Castle",
+    "https://en.wikivoyage.org/wiki/Vianden"
+   ]
+  },
+  {
+   "id": "lcvictorhugo",
+   "cat": "gor",
+   "area": "eislek",
+   "title": "Read Victor Hugo's exile notes in Vianden",
+   "desc": "The French writer stayed in Vianden several times, and the house where he lived by the river now holds his manuscripts, drawings and furnished rooms, with the castle framed in the window just as he saw it.",
+   "tip": "Audio guides come in English; afterwards look into the Gothic Trinitarian church and its quiet cloister a few minutes away.",
+   "q": "Maison de Victor Hugo, 37 rue de la Gare, Vianden",
+   "ll": [
+    49.9339,
+    6.2078
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Vianden"
+   ]
+  },
+  {
+   "id": "lcviandenchairlift",
+   "cat": "dene",
+   "area": "eislek",
+   "title": "Ride the Vianden chairlift above the castle",
+   "desc": "The old télésiège swings you out of the Our valley in about ten minutes to a ridge where the whole castle and town spread out below your feet.",
+   "tip": "Grab a drink on the terrace of the Buvette du Télésiège at the top, then walk back down through the forest paths that start right there.",
+   "q": "Télésiège Vianden",
+   "ll": [
+    49.9363,
+    6.2063
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Vianden"
+   ]
+  },
+  {
+   "id": "lcnessmoort",
+   "cat": "ye",
+   "area": "eislek",
+   "title": "Taste everything walnut at Vianden's nut fair",
+   "desc": "Every second Sunday of October Vianden fills its streets for the Nëssmoort, a walnut market with music and all kinds of walnut treats from the Our valley.",
+   "tip": "Come early: by midday the narrow Grand-Rue is packed, and the most popular stalls sell out first.",
+   "q": "Grand-Rue Vianden",
+   "ll": [
+    49.934,
+    6.205
+   ],
+   "months": [
+    10
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Vianden"
+   ]
+  },
+  {
+   "id": "lcfamilyofman",
+   "cat": "gor",
+   "area": "eislek",
+   "title": "See The Family of Man in Clervaux Castle",
+   "desc": "Edward Steichen's legendary 1955 photo show, 503 pictures by 273 photographers about what unites humanity, lives permanently in Clervaux Castle and sits on UNESCO's Memory of the World register.",
+   "tip": "Allow a good two hours; Steichen was born in Luxembourg, which is why the show ended up in this small Ardennes town.",
+   "q": "The Family of Man, Clervaux Castle",
+   "ll": [
+    50.0545,
+    6.0307
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Luxembourg_Ardennes",
+    "https://steichencollections.lu/en"
+   ]
+  },
+  {
+   "id": "lcclervauxabbey",
+   "cat": "gor",
+   "area": "eislek",
+   "title": "Listen to Gregorian chant at Clervaux Abbey",
+   "desc": "Above Clervaux the Benedictine Abbey of St Maurice and St Maurus belongs to the Solesmes congregation, the monks who revived Gregorian chant, and you can still hear them sing the offices.",
+   "tip": "Walk up through the woods from the town; attend a sung office in the abbey church and keep quiet, it is a working monastery.",
+   "q": "Abbaye Saint-Maurice Clervaux",
+   "ll": [
+    50.0571,
+    6.0223
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Clervaux_Abbey",
+    "https://en.wikivoyage.org/wiki/Clervaux"
+   ]
+  },
+  {
+   "id": "lceschsursure",
+   "cat": "gor",
+   "area": "eislek",
+   "title": "Climb the castle ruin of Esch-sur-Sûre",
+   "desc": "The village is wrapped almost completely by a hairpin meander of the Sûre, and its 10th-century castle ruin on the rock gives you a view over slate roofs and the river loop.",
+   "tip": "The ruin is open and lit up at night; pop into the Naturpark house in the village for local products from the Upper Sûre park.",
+   "q": "Château d'Esch-sur-Sûre",
+   "ll": [
+    49.9111,
+    5.9347
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Esch-sur-S%C3%BBre_Castle",
+    "https://www.takeyourbackpack.com/backpacking-in-luxembourg/visit-upper-sure/"
+   ]
+  },
+  {
+   "id": "lcuppersure",
+   "cat": "dene",
+   "area": "eislek",
+   "title": "Paddle on the Upper Sûre lake",
+   "desc": "Luxembourg's largest reservoir winds through wooded Ardennes valleys; because it supplies the country's drinking water, it stays remarkably clean and calm, with no motorboats.",
+   "tip": "Rent a kayak or SUP at Lultzhausen, the water-sports hub, and swim only at the marked beaches such as Insenborn; sunny summer weekends get busy.",
+   "q": "Lultzhausen, Lac de la Haute-Sûre",
+   "ll": [
+    49.9165,
+    5.8871
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "src": [
+    "https://www.visit-eislek.lu/place/lake-of-the-upper-sure",
+    "https://www.takeyourbackpack.com/backpacking-in-luxembourg/visit-upper-sure/"
+   ]
+  },
+  {
+   "id": "lcbourscheid",
+   "cat": "gor",
+   "area": "eislek",
+   "title": "Walk the walls of Bourscheid Castle",
+   "desc": "Some 150 metres above the Sûre, Bourscheid is a huge open-air ruin ringed by a wall with eleven towers, first recorded in 1095 and now one of the most dramatic castle silhouettes in the Ardennes.",
+   "tip": "For the postcard view, hike up to the Gringlee viewpoint on the Escapardenne Lee Trail opposite the castle.",
+   "q": "Bourscheid Castle",
+   "ll": [
+    49.9053,
+    6.0797
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Bourscheid_Castle",
+    "https://www.visit-eislek.lu/escapardenne/lee-trail"
+   ]
+  },
+  {
+   "id": "lcleetrail",
+   "cat": "dene",
+   "area": "eislek",
+   "title": "Hike a stage of the Escapardenne Lee Trail",
+   "desc": "This award-winning trail runs 52 km from Ettelbruck to Kautenbach over slate ridges locals call 'Lee', with views of Sûre meanders, Bourscheid castle and rock needles like God's Finger.",
+   "tip": "Stage 1 (Ettelbruck to Bourscheid-Moulin) is the toughest; trains run back from Ettelbruck and Kautenbach so you can do a single stage as a day hike.",
+   "q": "Ettelbruck railway station",
+   "ll": [
+    49.8473,
+    6.1046
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://www.visit-eislek.lu/escapardenne/lee-trail",
+    "https://ettelbruck.lu/visiteur/en/visiter/nature-et-randonnees/escapardenne-lee-trail/"
+   ]
+  },
+  {
+   "id": "lcmnhm",
+   "cat": "gor",
+   "area": "eislek",
+   "title": "Relive the Battle of the Bulge in Diekirch",
+   "desc": "Housed in an old brewery, the National Museum of Military History has life-size dioramas, including the night crossing of the Sauer by the US 5th Infantry Division in January 1945.",
+   "tip": "Its World War II collection is one of the finest in Western Europe; set aside a couple of hours and combine it with a stroll through Diekirch's pedestrian centre.",
+   "q": "Musée National d'Histoire Militaire Diekirch",
+   "ll": [
+    49.871,
+    6.1592
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/National_Museum_of_Military_History_(Luxembourg)"
+   ]
+  },
+  {
+   "id": "lcourdaller",
+   "cat": "ye",
+   "area": "eislek",
+   "title": "Try buckwheat beer at the Ourdall brewery in Heinerscheid",
+   "desc": "At the Cornelyshaff in the far north, the small Ourdaller brewery makes its beers the old way in front of visitors, including a rare beer brewed with Ardennes buckwheat.",
+   "tip": "Eat at the Cornelyshaff restaurant next door, which cooks with Éislek produce, and pick up local mustard and honey at the Ourdaller shop in nearby Kalborn.",
+   "q": "Cornelyshaff, 83 Haaptstrooss, Heinerscheid",
+   "ll": [
+    50.0955,
+    6.087
+   ],
+   "src": [
+    "https://www.visit-eislek.lu/place/the-ourdall-brewery-in-heinerscheid"
+   ]
+  },
+  {
+   "id": "lcwiltzbrewing",
+   "cat": "ye",
+   "area": "eislek",
+   "title": "Learn to brew in the stables of Wiltz Castle",
+   "desc": "Wiltz is home to the Simon family brewery, and the National Museum of the Art of Brewing in the old castle stables walks you from historic pub to hops, malt and an old tannery.",
+   "tip": "Ask the tourist office about the brewmaster courses, where you brew and taste your own beer on site.",
+   "q": "Musée National d'Art Brassicole, 35 rue du Château, Wiltz",
+   "ll": [
+    49.9658,
+    5.9347
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://www.visit-eislek.lu/offer/the-national-museum-of-the-art-of-brewing-museum-of-the-battle-of-the-bulge"
+   ]
+  },
+  {
+   "id": "lcbasilica",
+   "cat": "gor",
+   "area": "mullerthal",
+   "title": "Visit Saint Willibrord's tomb in Echternach",
+   "desc": "Luxembourg's oldest town grew around the abbey of the Northumbrian missionary Willibrord, who died here in 739. His tomb rests in the crypt of the basilica, next to a well said to cure skin ailments.",
+   "tip": "The crypt is free; afterwards cross to the Place du Marché to see the Gothic Denzelt guildhall.",
+   "q": "Basilica of Saint Willibrord, Echternach",
+   "ll": [
+    49.8134,
+    6.4217
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Echternach"
+   ]
+  },
+  {
+   "id": "lchoppingprocession",
+   "cat": "dene",
+   "area": "mullerthal",
+   "title": "Hop along in the Echternach dancing procession",
+   "desc": "On Whit Tuesday thousands of pilgrims hop side to side in rows, linked by white handkerchiefs, to an ancient jig-like tune all the way to Willibrord's tomb. It is on UNESCO's intangible heritage list.",
+   "tip": "The procession starts in the morning at the Sauer bridge; anyone can join a row, but arrive early to find a spot along the route.",
+   "q": "Echternach Sauer bridge",
+   "ll": [
+    49.8128,
+    6.4249
+   ],
+   "months": [
+    5,
+    6
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Dancing_procession_of_Echternach"
+   ]
+  },
+  {
+   "id": "lcmacarons",
+   "cat": "ye",
+   "area": "mullerthal",
+   "title": "Buy soft macarons in Echternach",
+   "desc": "Echternach's sweet speciality is the 'macaron mou', a soft almond biscuit far removed from the colourful Parisian kind, baked by the town's traditional pâtisseries.",
+   "tip": "Locals send you to Pâtisserie Zimmer or Pâtisserie Simon in the centre; buy a bag for the hike.",
+   "q": "Pâtisserie Zimmer Echternach",
+   "ll": [
+    49.8126,
+    6.4205
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Echternach"
+   ]
+  },
+  {
+   "id": "lcwolfsschlucht",
+   "cat": "dene",
+   "area": "mullerthal",
+   "title": "Squeeze through the Wolfsschlucht on the Mullerthal Trail",
+   "desc": "Just outside Echternach, the Wolf's Gorge is a sandstone chasm with cliffs up to 50 m high, the first wow moment on Route 2 of the 112 km Mullerthal Trail through 'Little Switzerland'.",
+   "tip": "Continue past the Trooskneppchen viewpoint to Berdorf to see the Huel Lee millstone quarry and the Perekop rock; stay on the marked paths, drops are easy to miss.",
+   "q": "Wolfsschlucht Echternach",
+   "ll": [
+    49.8063,
+    6.4167
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://en.tellerrandstories.de/wandern-in-luxemburg-muellerthal/",
+    "https://en.wikivoyage.org/wiki/Mullerthal"
+   ]
+  },
+  {
+   "id": "lcschiessentuempel",
+   "cat": "gor",
+   "area": "mullerthal",
+   "title": "Photograph the Schéissendëmpel waterfall",
+   "desc": "Under a little stone bridge the Black Ernz tumbles over mossy rocks in three small cascades; it is the most photographed spot in the Mullerthal.",
+   "tip": "On sunny weekends the bridge is crowded, so come early in the morning; it lies on Mullerthal Trail Route 2 near Müllerthal village.",
+   "q": "Schiessentümpel waterfall Mullerthal",
+   "ll": [
+    49.7994,
+    6.3304
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Mullerthal",
+    "https://en.wikivoyage.org/wiki/Echternach"
+   ]
+  },
+  {
+   "id": "lcbeaufort",
+   "cat": "gor",
+   "area": "mullerthal",
+   "title": "Explore the two castles of Beaufort",
+   "desc": "In Beaufort an 11th-century fortress ruin stands right next to the residence finished in 1649; the old castle was used as a quarry before being cleared and opened to visitors in 1928.",
+   "tip": "Combine the visit with a walk in the surrounding sandstone woods, which are part of the Mullerthal Trail network.",
+   "q": "Beaufort Castle Luxembourg",
+   "ll": [
+    49.8339,
+    6.2856
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Beaufort_Castle,_Luxembourg"
+   ]
+  },
+  {
+   "id": "lccassero",
+   "cat": "ye",
+   "area": "mullerthal",
+   "title": "Sip Cassero, the blackcurrant liqueur of Beaufort",
+   "desc": "Beaufort castle gives its name to Cassero, a local liqueur that is the classic souvenir of the Mullerthal.",
+   "tip": "Buy a bottle in Beaufort itself or at local produce shops such as the bakery in Consdorf.",
+   "q": "Beaufort, Mullerthal",
+   "ll": [
+    49.8352,
+    6.2885
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Mullerthal"
+   ]
+  },
+  {
+   "id": "lclarochette",
+   "cat": "gor",
+   "area": "mullerthal",
+   "title": "Look down on Larochette from its cliff-top castle",
+   "desc": "About 150 m above the White Ernz, the castle of Larochette is a jumble of separate manor houses and towers, once home to the flag bearers of the counts of Luxembourg.",
+   "tip": "Open from Easter to the end of October; the town below is also a stop on the Mullerthal Trail if you want to walk in.",
+   "q": "Larochette Castle",
+   "ll": [
+    49.7856,
+    6.2169
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Larochette_Castle",
+    "https://en.wikivoyage.org/wiki/Mullerthal"
+   ]
+  },
+  {
+   "id": "lcramborn",
+   "cat": "ye",
+   "area": "mullerthal",
+   "title": "Taste orchard cider at Ramborn in Born",
+   "desc": "Luxembourg's first cider maker presses only fresh fruit from old high-stem orchards along the Sûre, with perry from pear trees up to 250 years old.",
+   "tip": "Book a farm tour and tasting at the Cider Haff in Born, an easy bike ride along the Sûre from Echternach.",
+   "q": "Ramborn Cider Haff, 23 Duerfstrooss, Born",
+   "ll": [
+    49.7597,
+    6.5133
+   ],
+   "src": [
+    "https://www.ramborn.com/",
+    "https://en.tellerrandstories.de/wandern-in-luxemburg-muellerthal/"
+   ]
+  },
+  {
+   "id": "lcbernardmassard",
+   "cat": "ye",
+   "area": "mullerthal",
+   "title": "Tour the crémant cellars of Bernard-Massard in Grevenmacher",
+   "desc": "Luxembourg's leading family maker of traditional-method sparkling wine, five generations in, shows how crémant is made in its historic cellars before a tasting overlooking the Moselle.",
+   "tip": "Book tastings ahead by phone, as weddings and events often fill the house; the LuxembourgPass includes a cellar tour.",
+   "q": "Caves Bernard-Massard, 22 route du Vin, Grevenmacher",
+   "ll": [
+    49.6779,
+    6.4432
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://visitmoselle.lu/place/caves-bernard-massard"
+   ]
+  },
+  {
+   "id": "lcfriture",
+   "cat": "ye",
+   "area": "mullerthal",
+   "title": "Eat friture de la Moselle by the river in Grevenmacher",
+   "desc": "Friture de la Moselle, tiny fried river fish eaten with lemon and fries, is the Moselle's classic summer plate, and Bistro Quai serves it in a glass pavilion right on the water.",
+   "tip": "In summer there is a river beach and lounge terrace; in winter a chalet next door serves fondue. Wines come from the neighbouring cellars.",
+   "q": "Bistro Quai, 3 route du Vin, Grevenmacher",
+   "ll": [
+    49.6795,
+    6.4446
+   ],
+   "src": [
+    "https://paperjam.lu/article/produits-terroir-et-vue-plonge",
+    "https://paulinaontheroad.com/luxembourg-traditional-food/"
+   ]
+  },
+  {
+   "id": "lcwaimoart",
+   "cat": "ye",
+   "area": "mullerthal",
+   "title": "Taste the new vintage at the Grevenmacher Wäimoart",
+   "desc": "On the Friday after Easter, Moselle winemakers gather in Grevenmacher to pour their new wines and crémants: the first big wine date of the season in the valley.",
+   "tip": "Come back for the late-summer Drauwen- a Wäifest, the grape and wine festival with the crowning of the Wine Queen, parades and fireworks.",
+   "q": "Grevenmacher town centre",
+   "ll": [
+    49.6806,
+    6.441
+   ],
+   "months": [
+    3,
+    4
+   ],
+   "src": [
+    "https://www.visitmoselle.lu/wine-terroir/wine-events-traditions"
+   ]
+  },
+  {
+   "id": "lcschengen",
+   "cat": "gor",
+   "area": "mullerthal",
+   "title": "Stand where the Schengen Agreement was signed",
+   "desc": "Borderless travel in Europe was born in 1985 in this little wine village where Luxembourg, Germany and France meet on the Moselle; the European Museum tells the story.",
+   "tip": "The museum is on the riverfront; walk across the bridge and you are in Germany and France within minutes.",
+   "q": "European Museum Schengen",
+   "ll": [
+    49.4703,
+    6.3664
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Schengen,_Luxembourg",
+    "https://en.wikivoyage.org/wiki/Moselle_Valley_(Luxembourg)"
+   ]
+  },
+  {
+   "id": "lcmondorf",
+   "cat": "dene",
+   "area": "mullerthal",
+   "title": "Soak in the thermal water of Mondorf-les-Bains",
+   "desc": "Drilling for salt in the 1840s struck warm mineral water here, and Luxembourg's only spa town has been bathing ever since in a 36-hectare park with pavilions and an orangerie.",
+   "tip": "Take time for a stroll through the park and also step into St Michael's church, one of the finest Rococo interiors in the country.",
+   "q": "Mondorf Domaine Thermal",
+   "ll": [
+    49.5048,
+    6.2815
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Mondorf-les-Bains"
+   ]
+  },
+  {
+   "id": "lcbelval",
+   "cat": "gor",
+   "area": "minett",
+   "title": "Climb the blast furnace at Belval",
+   "desc": "Belval's last blast furnace went cold in 1997; two giants were kept and a whole new district with the university and the Rockhal grew around them, the symbol of the steel-making Minett.",
+   "tip": "Belval-Université station is right next door; check the Rockhal programme for a concert to round off the day.",
+   "q": "Hauts Fourneaux Belval, Esch-sur-Alzette",
+   "ll": [
+    49.5003,
+    5.9458
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Belval,_Luxembourg",
+    "https://www.visitminett.lu/"
+   ]
+  },
+  {
+   "id": "lcresistance",
+   "cat": "gor",
+   "area": "minett",
+   "title": "Face history at the Resistance Museum in Esch",
+   "desc": "Esch-sur-Alzette's National Resistance Museum covers the occupation of 1940 to 1945, the Luxembourgers who resisted and the fate of the country's Jews.",
+   "tip": "Entry is free; it is a short walk from Esch station and the shopping street Rue de l'Alzette.",
+   "q": "Musée National de la Résistance Esch-sur-Alzette",
+   "ll": [
+    49.4924,
+    5.976
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Esch-sur-Alzette"
+   ]
+  },
+  {
+   "id": "lcgaalgebierg",
+   "cat": "dene",
+   "area": "minett",
+   "title": "Walk up the Gaalgebierg to Esch's animal park",
+   "desc": "On the wooded hill above Esch, the Escher Déierepark mixes an animal park, playgrounds, a rose garden and a waterfall, a classic Sunday outing for southern families.",
+   "tip": "Follow on to the Brucherbierg and Lallengerbierg reserve nearby for butterflies, orchids and red earth.",
+   "q": "Escher Déierepark Gaalgebierg",
+   "ll": [
+    49.4833,
+    5.9859
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Esch-sur-Alzette",
+    "https://www.visitminett.lu/where-to-see-the-red-earth"
+   ]
+  },
+  {
+   "id": "lck116",
+   "cat": "ye",
+   "area": "minett",
+   "title": "Have dinner at Brasserie K116 in Esch",
+   "desc": "Set in a historic building on Rue de Luxembourg, K116 is a favourite brasserie for a proper meal in Luxembourg's second city.",
+   "tip": "Combine it with an evening at the nearby Kulturfabrik arts centre or a stroll through Esch's centre.",
+   "q": "Brasserie K116, 116 rue de Luxembourg, Esch-sur-Alzette",
+   "ll": [
+    49.4999,
+    5.9873
+   ],
+   "src": [
+    "https://www.visitminett.lu/travel-guide/eat-sleep",
+    "https://en.wikivoyage.org/wiki/Esch-sur-Alzette"
+   ]
+  },
+  {
+   "id": "lctrain1900",
+   "cat": "dene",
+   "area": "minett",
+   "title": "Ride the Train 1900 steam train to Fond-de-Gras",
+   "desc": "Old steam engines puff along the former 'Mining Line' of 1874 between Pétange and Fond-de-Gras, a preserved industrial hamlet with an old grocery and mine buildings.",
+   "tip": "Runs from May to the last Sunday of September; at Fond-de-Gras change onto the Minièresbunn mine train.",
+   "q": "Fond-de-Gras Train 1900",
+   "ll": [
+    49.5349,
+    5.8577
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Fond-de-Gras",
+    "https://en.wikivoyage.org/wiki/Esch-sur-Alzette"
+   ]
+  },
+  {
+   "id": "lcminieresbunn",
+   "cat": "dene",
+   "area": "minett",
+   "title": "Rattle through a mine tunnel on the Minièresbunn",
+   "desc": "This narrow-gauge mining train runs from Fond-de-Gras through abandoned iron ore galleries to Lasauvage, a workers' village with a forge dating from around 1625.",
+   "tip": "In Lasauvage visit the small museums on mining life before taking the train back.",
+   "q": "Minièresbunn Lasauvage",
+   "ll": [
+    49.5271,
+    5.838
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Esch-sur-Alzette",
+    "https://en.wikipedia.org/wiki/Fond-de-Gras"
+   ]
+  },
+  {
+   "id": "lcrumelange",
+   "cat": "dene",
+   "area": "minett",
+   "title": "Go 90 metres underground in the Rumelange iron mine",
+   "desc": "At the National Mining Museum a mine train takes you deep into the old Walert galleries to see the machines and conditions of Luxembourg's iron ore miners.",
+   "tip": "Tours must be booked; bring a warm layer, as the galleries are cool even in summer.",
+   "q": "Musée National des Mines de Fer, Rumelange",
+   "ll": [
+    49.4608,
+    6.0229
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Esch-sur-Alzette",
+    "https://mnm.lu/en/event/guided-tour-mine-train-on-booking-6/2025-07-17/"
+   ]
+  },
+  {
+   "id": "lcprenzebierg",
+   "cat": "dene",
+   "area": "minett",
+   "title": "Hike the red earth of the Prënzebierg",
+   "desc": "Old open-cast iron mines between Differdange and Pétange have turned into the Prënzebierg and Giele Botter nature reserve, with rust-red cliffs, ponds and rare plants.",
+   "tip": "Follow the short 'Giele Botter' geological route for the best red-rock views.",
+   "q": "Prënzebierg - Giele Botter, rue Titelberg, Differdange",
+   "ll": [
+    49.5395,
+    5.8735
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://www.visitminett.lu/where-to-see-the-red-earth"
+   ]
+  },
+  {
+   "id": "lcpomhouse",
+   "cat": "gor",
+   "area": "minett",
+   "title": "See photography in Dudelange's water tower",
+   "desc": "A restored steelworks water tower and pumping station, the Waassertuerm+Pomhouse, is the photo venue of the national audiovisual centre and home to Steichen's Depression-era show The Bitter Years.",
+   "tip": "Check what is on before you go, as the exhibitions rotate; the CNA's cinema is next door.",
+   "q": "Waassertuerm+Pomhouse, 1b rue du Centenaire, Dudelange",
+   "ll": [
+    49.4757,
+    6.0838
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://steichencollections.lu/en",
+    "https://en.wikipedia.org/wiki/Centre_national_de_l%27audiovisuel"
+   ]
+  },
+  {
+   "id": "lcparcmerveilleux",
+   "cat": "dene",
+   "area": "minett",
+   "title": "Bring the kids to the Parc Merveilleux in Bettembourg",
+   "desc": "Luxembourg's classic family park mixes fairy-tale scenes, exotic birds, a pony ranch and a miniature railway in a green park.",
+   "tip": "Open from Easter to early October; Bettembourg station is a short walk away.",
+   "q": "Parc Merveilleux Bettembourg",
+   "ll": [
+    49.5107,
+    6.1198
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Esch-sur-Alzette"
+   ]
+  },
+  {
+   "id": "lcbofferding",
+   "cat": "ye",
+   "area": "minett",
+   "title": "Tour the Bofferding brewery in Bascharage",
+   "desc": "The country's biggest and oldest brewery, the Brasserie Nationale, shows you brew kettles, maturing tanks and two centuries of brewing history, finishing with a tasting.",
+   "tip": "In summer there are walk-in tours on Saturday afternoons; otherwise book ahead. You can also try the BrauAtelier brewing course.",
+   "q": "Brasserie Nationale, 2 Boulevard J.F. Kennedy, Bascharage",
+   "ll": [
+    49.5683,
+    5.9107
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://www.visitminett.lu/tour/brasserie-bofferding"
+   ]
+  },
+  {
+   "id": "lcansembourg",
+   "cat": "gor",
+   "area": "minett",
+   "title": "Stroll the baroque gardens of Ansembourg",
+   "desc": "In the Valley of the Seven Castles, the New Castle of Ansembourg hides formal 18th-century gardens with statues, fountains and a grand staircase.",
+   "tip": "The gardens open daily; the medieval old castle of Ansembourg looks down from the hill opposite.",
+   "q": "New Castle of Ansembourg",
+   "ll": [
+    49.7003,
+    6.0458
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/New_Castle_of_Ansembourg"
+   ]
+  },
+  {
+   "id": "lcsevencastles",
+   "cat": "dene",
+   "area": "minett",
+   "title": "Hike or drive the Valley of the Seven Castles",
+   "desc": "The Eisch valley strings together Mersch, Schoenfels, Hollenfels, two castles at Ansembourg, Septfontaines and Koerich, a castle-spotting route through quiet woods.",
+   "tip": "Start in Mersch, which has a train station, and follow the valley footpath west; by car the whole route takes about an hour.",
+   "q": "Mersch Castle",
+   "ll": [
+    49.748,
+    6.106
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Valley_of_the_Seven_Castles"
+   ]
+  }
+ ]
+}

@@ -14,7 +14,7 @@ A map-first app for (re)discovering the Netherlands and Belgium through quests: 
 | `web/icons.js` | The interface icons (Lucide, ISC licence). |
 | `web/photos.js` | A cover photo per quest where a free one exists, from `tools/find_photos.py` (Wikipedia and Wikimedia Commons, with author and licence for the credit line). |
 | `web/cities/<region>.js` | Quests for one region: areas, badges, level titles, coordinates and the quests themselves. |
-| `web/regions.js` | Region outlines from `tools/rebuild_regions.py`: every Dutch municipality (CBS) and Belgian arrondissement (Eurostat NUTS-3) joins the hub city in `tools/hubs.json` that is fastest to reach by road (OSRM, cached in `tools/traveltimes.json`). Borders are fixed; content never moves them. |
+| `web/regions.js` | Region outlines from `tools/rebuild_regions.py`: every Dutch municipality (CBS) and every Belgian arrondissement, German district and Luxembourg (Eurostat NUTS-3, 1:3 million) joins the hub city in `tools/hubs.json` that is fastest to reach by road in the same country (OSRM, cached in `tools/traveltimes.json`). Borders are fixed; content never moves them. Hubs without a region file yet show on the map as "coming soon" (`REGION_INFO`). |
 | `web/vendor/` | MapLibre GL (vector map). Basemap tiles come from OpenFreeMap. |
 | `content/*.json` | Raw output of the sourced research per region (new quests with source links, and proposed fixes). |
 | `tools/` | `merge_content.py` adds research output to a region; `geocheck.py` + `geoapply.py` cross-check coordinates against OpenStreetMap; `rebuild_regions.py` regenerates the region outlines; `reassign_quests.py` moves quests to the region they fall in; `regions_io.py` reads and writes region files. |
@@ -34,4 +34,6 @@ XP comes from quests (100, plus bonuses for seasonal quests, day trips, the firs
 3. `python tools/geocheck.py web/cities/<region>.js > geo.txt` then `python tools/geoapply.py web/cities geo.txt`
 4. Run `tools/reassign_quests.py` (needs `shapely`) to move any quest that falls in another region; it records moves in `web/moved.js`.
    To add a region, add a hub to `tools/hubs.json`, run `tools/rebuild_regions.py`, then `tools/reassign_quests.py`.
-5. Commit and push; the site and the app update within a minute.
+   To fill a "coming soon" region, give its hub a `new` block (levels and areas) in `tools/hubs.json` and run `tools/reassign_quests.py`; it creates the empty region file.
+5. Run `python tools/find_photos.py` to look up cover photos for the new quests (it only looks up quests it has not seen before).
+6. Commit and push; the site and the app update within a minute.

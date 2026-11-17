@@ -1,0 +1,399 @@
+{
+  "new": [
+    {
+      "id": "lxbock", "cat": "gor", "area": "ville",
+      "title": "Crawl through the Bock casemates",
+      "desc": "The rocky Bock promontory is where Luxembourg began in 963, and beneath it runs a maze of 18th century galleries hacked out of the sandstone. Cannon loopholes open straight onto the Alzette valley, which makes it the most photogenic part of the UNESCO-listed fortress.",
+      "tip": "Bring a layer even in summer, as the tunnels stay cool, and leave over the Castle Bridge so you come out right at the start of the Corniche.",
+      "q": "Casemates du Bock, Luxembourg",
+      "ll": [49.6118, 6.1368],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikivoyage.org/wiki/Luxembourg_(city)", "https://luxembourg-city.com/en/attractions/sights"]
+    },
+    {
+      "id": "lxcorniche", "cat": "gor", "area": "ville",
+      "title": "Stroll the most beautiful balcony of Europe",
+      "desc": "The Chemin de la Corniche follows 17th century Spanish and French ramparts from the Bock to the Rondellen, high above the Grund. Writer Batty Weber gave it its famous nickname, and once you see the rooftops and the Rham plateau below, you will agree.",
+      "tip": "Walk it from the Bock end towards the Holy Ghost citadel late in the afternoon, when the low sun lights up the abbey and the river.",
+      "q": "Chemin de la Corniche, Luxembourg",
+      "ll": [49.6102, 6.1344],
+      "tags": ["free"],
+      "src": ["https://visitluxembourg.com/place/chemin-de-la-corniche"]
+    },
+    {
+      "id": "lxpetrussecasemates", "cat": "gor", "area": "ville",
+      "title": "Descend into the Pétrusse casemates",
+      "desc": "Older and quieter than the Bock tunnels, these Spanish era casemates under the Beck bastion once held a battery of more than fifty guns. Narrow staircases lead down through the rock towards the Pétrusse valley.",
+      "tip": "The entrance is a modest door on Place de la Constitution, right beside the Gëlle Fra; check the slot times online, as hours shift with the season.",
+      "q": "Casemates de la Pétrusse, Place de la Constitution, Luxembourg",
+      "ll": [49.6093, 6.1291],
+      "tags": ["rainy day"],
+      "src": ["https://www.visitluxembourg.com/place/petrusse-casemates"]
+    },
+    {
+      "id": "lxgellefra", "cat": "gor", "area": "ville",
+      "title": "Salute the Gëlle Fra",
+      "desc": "The gilded lady on her tall obelisk honours the Luxembourgers who volunteered in the World Wars and has become a national symbol of freedom. From her square you look straight across the Pétrusse valley to the Adolphe Bridge.",
+      "tip": "Stand at the railing behind the monument for the classic view of the bridge, the valley park and the old savings bank tower.",
+      "q": "Gëlle Fra, Place de la Constitution, Luxembourg",
+      "ll": [49.6096, 6.1298],
+      "tags": ["free"],
+      "src": ["https://luxembourg-city.com/en/attractions/sights", "https://en.wikivoyage.org/wiki/Luxembourg_(city)"]
+    },
+    {
+      "id": "lxpalace", "cat": "gor", "area": "ville",
+      "title": "Tour the Grand Ducal Palace in summer",
+      "desc": "The ornate facade on Rue du Marché-aux-Herbes was the city hall for two centuries before it became the Grand Duke's town residence. For a few summer weeks the state rooms open to guided tours.",
+      "tip": "Tours sell out fast, so book as soon as the summer slots are released; the rest of the year, catch the soldiers on guard at the sentry box.",
+      "q": "Palais grand-ducal, Luxembourg",
+      "ll": [49.6109, 6.1328],
+      "months": [7, 8, 9],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Grand_Ducal_Palace,_Luxembourg"]
+    },
+    {
+      "id": "lxcathedral", "cat": "gor", "area": "ville",
+      "title": "Find the grand dukes in the cathedral crypt",
+      "desc": "Notre-Dame began life as a Jesuit church in 1613, mixing late Gothic with Renaissance details, and is home to the city's patron, Our Lady of Consolation. Below the choir, the crypt holds the tombs of the grand ducal family and of John the Blind.",
+      "tip": "Enter from Boulevard Roosevelt, and look in the side cemetery for Lucien Wercollier's bronze The Political Prisoner, the national resistance memorial.",
+      "q": "Cathédrale Notre-Dame de Luxembourg",
+      "ll": [49.6097, 6.1316],
+      "tags": ["free", "rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Notre-Dame_Cathedral,_Luxembourg"]
+    },
+    {
+      "id": "lxneimenster", "cat": "gor", "area": "ville",
+      "title": "Wander the Neimënster abbey in the Grund",
+      "desc": "This riverside Benedictine abbey served as a prison until 1985, including for resistance fighters in the war. Today it is a cultural centre with concerts, exhibitions and a cloister full of Lucien Wercollier sculptures.",
+      "tip": "Walk through to the riverside terrace behind the abbey for a coffee with the Corniche towering over you.",
+      "q": "Neimënster, Luxembourg Grund",
+      "ll": [49.6103, 6.1364],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Neum%C3%BCnster_Abbey"]
+    },
+    {
+      "id": "lxsaintquirin", "cat": "gor", "area": "ville",
+      "title": "Find the chapel built into a cliff",
+      "desc": "The Saint Quirin chapel started as a natural cave in the Pétrusse valley and got its Gothic front in 1355, making it one of the oldest places of worship in the country. Its spring was long believed to heal skin and eye problems.",
+      "tip": "Follow Rue Saint-Quirin down into the valley; combine it with a walk along the renatured Pétrusse stream.",
+      "q": "Chapelle Saint-Quirin, Luxembourg",
+      "ll": [49.6076, 6.1338],
+      "tags": ["free"],
+      "src": ["https://luxembourg.public.lu/en/visit/activities/hidden-places-discovery-luxembourg.html"]
+    },
+    {
+      "id": "lxspanishturret", "cat": "gor", "area": "ville",
+      "title": "Climb to the hidden Spanish turret",
+      "desc": "One of nine surviving lookout turrets of the fortress sits out of sight above the Pfaffenthal, where guards once watched for spies and deserters. Most visitors never find it.",
+      "tip": "Take the steep path up the Pierre de Mansfeld alley behind the Hondhaus towards the old Obergrünewald fortress.",
+      "q": "Tour espagnole, Allée Pierre de Mansfeld, Luxembourg",
+      "ll": [49.6142, 6.1372],
+      "tags": ["free"],
+      "src": ["https://luxembourg.public.lu/en/visit/activities/hidden-places-discovery-luxembourg.html"]
+    },
+    {
+      "id": "lxpeiteronrou", "cat": "gor", "area": "ville",
+      "title": "Light a needle candle for Péiter Onrou",
+      "desc": "In a grotto in the Saint-Crépin rock sits a Christ-like statue of Péiter Onrou. Locals once stuck needles into candles here, an old superstition meant to bring a straying husband home.",
+      "tip": "Look for the steps where Rue du Glacis meets Côte d'Eich; the statue is a copy, as the original was stolen.",
+      "q": "Péiter Onrou, Côte d'Eich, Luxembourg",
+      "ll": [49.6167, 6.1283],
+      "tags": ["free"],
+      "src": ["https://luxembourg.public.lu/en/visit/activities/hidden-places-discovery-luxembourg.html"]
+    },
+    {
+      "id": "lxmudam", "cat": "gor", "area": "ville",
+      "title": "See modern art in I.M. Pei's Mudam",
+      "desc": "The Louvre pyramid architect designed this glass and limestone museum on the walls of Fort Thüngen, opened in 2006. Its collection spans Warhol, Nauman and Buren, but the light-filled Grand Hall is a show in itself.",
+      "tip": "Take the tram to Philharmonie/Mudam and walk through the Dräi Eechelen park; the museum café is a favourite lunch spot.",
+      "q": "Mudam, Kirchberg, Luxembourg",
+      "ll": [49.6171, 6.1399],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Mudam"]
+    },
+    {
+      "id": "lxdraieechelen", "cat": "gor", "area": "ville",
+      "title": "Count the three acorns of Fort Thüngen",
+      "desc": "The Dräi Eechelen museum sits in the restored keep of Fort Thüngen, whose three towers are crowned by stone acorns. Inside, models and maps tell the story of the fortress that earned Luxembourg the name Gibraltar of the North.",
+      "tip": "Combine it with Mudam next door and the sunset view over the old town from the park lawns.",
+      "q": "Musée Dräi Eechelen, Luxembourg",
+      "ll": [49.6165, 6.1392],
+      "tags": ["rainy day"],
+      "src": ["https://luxembourg-city.com/en/attractions/sights", "https://en.wikivoyage.org/wiki/Luxembourg_(city)"]
+    },
+    {
+      "id": "lxkirchbergmaze", "cat": "gor", "area": "ville",
+      "title": "Get lost in the Kirchberg maze",
+      "desc": "Landscape architect Peter Latz planted a triangular hedge maze in the Kirchberg central park. At its heart rises Dendrite, a five metre yellow sculpture by Michel de Broin with viewing platforms.",
+      "tip": "Find it between the Coque sports centre and the central park playground, close to Boulevard Kennedy; a second artwork is added every two years.",
+      "q": "Labyrinthe Kirchberg Central Park, Luxembourg",
+      "ll": [49.6243, 6.1490],
+      "tags": ["free"],
+      "src": ["https://luxembourg.public.lu/en/visit/activities/hidden-places-discovery-luxembourg.html"]
+    },
+    {
+      "id": "lxmnha", "cat": "gor", "area": "ville",
+      "title": "Dig through history at the MNHA",
+      "desc": "The National Museum of History and Art on the old Fish Market reaches deep into the rock, from Gallo-Roman finds and coins up to fine and decorative art. The permanent collections are free.",
+      "tip": "Start at the lowest archaeology floors cut into the bedrock and work your way up to the paintings.",
+      "q": "Musée national d'archéologie, d'histoire et d'art, Marché-aux-Poissons, Luxembourg",
+      "ll": [49.6119, 6.1331],
+      "tags": ["free", "rainy day"],
+      "src": ["https://en.wikivoyage.org/wiki/Luxembourg_(city)"]
+    },
+    {
+      "id": "lxvillavauban", "cat": "gor", "area": "ville",
+      "title": "Meet the Dutch masters at Villa Vauban",
+      "desc": "A villa in a park by Édouard André holds the city's art museum, built on three private bequests with works by Jan Steen, Gerrit Dou and Delacroix. It is calm, compact and rarely crowded.",
+      "tip": "Afterwards, cross into the Municipal Park and the Kinnekswiss lawn for a walk along the former glacis of the fortress.",
+      "q": "Villa Vauban, Luxembourg",
+      "ll": [49.6131, 6.1225],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Villa_Vauban"]
+    },
+    {
+      "id": "lxamericancemetery", "cat": "gor", "area": "ville",
+      "title": "Pay respects at Patton's grave in Hamm",
+      "desc": "Over five thousand American soldiers, many from the Battle of the Bulge, lie in neat rows at the Luxembourg American Cemetery. General George S. Patton rests at the front, facing his men.",
+      "tip": "It is on the eastern edge of the city near the airport; a bus gets you close, and the quiet is best early in the morning.",
+      "q": "Luxembourg American Cemetery and Memorial, Hamm",
+      "ll": [49.6117, 6.1856],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Luxembourg_American_Cemetery_and_Memorial"]
+    },
+    {
+      "id": "lxjudd", "cat": "ye", "area": "ville",
+      "title": "Order Judd mat Gaardebounen at Um Dierfgen",
+      "desc": "The national dish is smoked pork collar with broad beans in a creamy sauce, and this brasserie on Côte d'Eich serves it the way grandparents made it. The menu is a tour of Luxembourgish home cooking, from Kniddelen dumplings to Mettwurst.",
+      "tip": "It fills up quickly at dinner, so book; ask for a glass of Moselle Pinot Gris with your meal.",
+      "q": "Um Dierfgen, Côte d'Eich, Luxembourg",
+      "ll": [49.6131, 6.1303],
+      "src": ["https://luxtoday.lu/en/blog/traditional-food-national-cuisine-luxembourg", "https://stephentravels.com/daily-bread/um-dierfgen"]
+    },
+    {
+      "id": "lxbouneschlupp", "cat": "ye", "area": "ville",
+      "title": "Warm up with Bouneschlupp in Clausen",
+      "desc": "Mousel's Cantine has served Luxembourgish food in Clausen since 1825, and its Bouneschlupp is the real thing: green bean soup with potatoes, bacon and Mettwurst. Kneddelen and Rieslingspaschtéit are on the menu too.",
+      "tip": "Pair it with a Clausel beer, brewed a few doors away on the old Mousel brewery site.",
+      "q": "Mousel's Cantine, Montée de Clausen, Luxembourg",
+      "ll": [49.6135, 6.1431],
+      "tags": ["rainy day"],
+      "src": ["https://www.mouselscantine.lu/", "https://en.wikivoyage.org/wiki/Luxembourg_(city)"]
+    },
+    {
+      "id": "lxriesling", "cat": "ye", "area": "ville",
+      "title": "Taste the original Rieslingspaschtéit",
+      "desc": "The Riesling pie, pork and veal in pastry set in Riesling jelly, is said to have been invented in 1928 by Pierre Kaempff. His family's delicatessen Kaempff-Kohler still sells it, alongside fine cheeses.",
+      "tip": "Buy a slice to eat on a bench on Place Guillaume II, or a whole one in a box as a souvenir.",
+      "q": "Kaempff-Kohler, Place Guillaume II, Luxembourg",
+      "ll": [49.6105, 6.1302],
+      "src": ["https://www.luxembourg-city.com/en/about-luxembourg-city/meng-stad-my-city/details/discovering-sweet-and-savoury-delights-in-the-heart-of-the-city"]
+    },
+    {
+      "id": "lxbamkuch", "cat": "ye", "area": "ville",
+      "title": "Slice into a Bamkuch at Oberweis",
+      "desc": "Bamkuch, the ringed tree cake baked layer by layer on a spit, is the cake of Luxembourgish weddings and celebrations. Oberweis, a purveyor to the grand ducal court, is the name locals mention first.",
+      "tip": "Grab a coffee and a tartelette at the Grand-Rue shop and take a small Bamkuch home; it keeps for days.",
+      "q": "Oberweis, Grand-Rue, Luxembourg",
+      "ll": [49.6114, 6.1297],
+      "src": ["https://www.luxembourg-city.com/en/about-luxembourg-city/meng-stad-my-city/details/discovering-sweet-and-savoury-delights-in-the-heart-of-the-city"]
+    },
+    {
+      "id": "lxquetschentaart", "cat": "ye", "area": "ville",
+      "title": "Grab a Quetschentaart at Namur",
+      "desc": "When the damson plums ripen in late summer, every bakery fills its window with Quetschentaart, a plum tart. Namur, baking for over a century, is known for this and its Mummentaart apple tart.",
+      "tip": "The season is short, roughly August to October; the rest of the year try the frangipane brioche.",
+      "q": "Namur, Avenue de la Liberté, Luxembourg",
+      "ll": [49.6043, 6.1303],
+      "months": [8, 9, 10],
+      "src": ["https://www.luxembourg-city.com/en/about-luxembourg-city/meng-stad-my-city/details/discovering-sweet-and-savoury-delights-in-the-heart-of-the-city", "https://luxtoday.lu/en/blog/traditional-food-national-cuisine-luxembourg"]
+    },
+    {
+      "id": "lxgromperekichelcher", "cat": "ye", "area": "ville",
+      "title": "Eat Gromperekichelcher at the Chrëschtmaart",
+      "desc": "Crispy potato fritters with onion and parsley are the taste of every Luxembourgish fair, and the Christmas market on Place d'Armes is the classic place to queue for them.",
+      "tip": "Have them hot with apple sauce and a pinch of salt, and bring cash, as many chalets do not take cards.",
+      "q": "Place d'Armes, Luxembourg",
+      "ll": [49.6114, 6.1290],
+      "months": [11, 12, 1],
+      "src": ["https://chronicle.lu/category/things-to-see-do/58726-christmas-markets-winter-lights-of-luxembourg-city", "https://luxembourg.public.lu/en/society-and-culture/culinary-delights/gromperekichelcher.html"]
+    },
+    {
+      "id": "lxfouerfesch", "cat": "ye", "area": "ville",
+      "title": "Eat Fouerfësch at the Schueberfouer",
+      "desc": "Whiting fried in beer batter is the signature dish of the summer funfair, served with chips and a dry Moselle wine in the big fair restaurants. Locals plan at least one Fouer fish dinner a year.",
+      "tip": "Go for an early dinner on a weekday to get a table, and finish with grilled almonds for the walk home.",
+      "q": "Schueberfouer, Glacis, Luxembourg",
+      "ll": [49.6172, 6.1243],
+      "months": [8, 9],
+      "src": ["https://luxembourg.public.lu/en/society-and-culture/festivals-and-traditions/schueberfouer-luxembourg-fair.html"]
+    },
+    {
+      "id": "lxbigbeer", "cat": "ye", "area": "ville",
+      "title": "Drink a house beer at the Rives de Clausen",
+      "desc": "The old Mousel brewery buildings in Clausen are now the city's nightlife strip, and the Big Beer Company brews its own beer in the former machinery hall. Expect hearty food like schnitzel and Gromperekichelcher.",
+      "tip": "Walk down from the old town via the Montée de Clausen and stay on for the bars along the river.",
+      "q": "Big Beer Company, Rives de Clausen, Luxembourg",
+      "ll": [49.6131, 6.1445],
+      "src": ["https://luxtoday.lu/en/knowledge/best-bars-in-luxembourg", "https://www.visitluxembourg.com/gastronomy/big-beer-company"]
+    },
+    {
+      "id": "lxfrell", "cat": "ye", "area": "ville",
+      "title": "Try F'rell am Rèisleck in Kirchberg",
+      "desc": "Trout in a Riesling and cream sauce is a Moselle classic, and De Feierwon in Kirchberg cooks it in a modern style with organic, local produce.",
+      "tip": "Handy after a visit to Mudam or the Fort Thüngen museum, which are a short walk away.",
+      "q": "De Feierwon, Rue du Fort Niedergruenewald, Luxembourg",
+      "ll": [49.6198, 6.1436],
+      "src": ["https://luxtoday.lu/en/blog/traditional-food-national-cuisine-luxembourg"]
+    },
+    {
+      "id": "lxchocolatehouse", "cat": "ye", "area": "ville",
+      "title": "Stir a chocolate spoon opposite the palace",
+      "desc": "Chocolate House sits in one of the oldest buildings in town, facing the Grand Ducal Palace. You pick one of about a hundred chocolate spoons, from salted caramel to chili, and melt it into hot milk.",
+      "tip": "Share the oversized Petit Beurre Kuch; it is easily enough for two.",
+      "q": "Chocolate House Nathalie Bonn, Rue du Marché-aux-Herbes, Luxembourg",
+      "ll": [49.6110, 6.1325],
+      "tags": ["rainy day"],
+      "src": ["https://www.luxembourg-city.com/en/about-luxembourg-city/meng-stad-my-city/details/discovering-sweet-and-savoury-delights-in-the-heart-of-the-city"]
+    },
+    {
+      "id": "lxvinsfins", "cat": "ye", "area": "ville",
+      "title": "Sip wine by the river at Vins Fins",
+      "desc": "A small wine bar on Rue Münster in the Grund with a long list, a menu built on local and regional produce and a terrace below the cliffs. It is a good place to ask for a Luxembourgish Crémant or a Moselle Riesling.",
+      "tip": "Bottles can be bought to take home, so taste first and pick a favourite.",
+      "q": "Vins Fins, Rue Münster, Luxembourg",
+      "ll": [49.6094, 6.1371],
+      "src": ["https://luxtoday.lu/en/knowledge/best-bars-in-luxembourg"]
+    },
+    {
+      "id": "lxlealinster", "cat": "ye", "area": "ville",
+      "title": "Buy Léa Linster's madeleines",
+      "desc": "Luxembourg's star chef Léa Linster runs a small shop in the old town devoted to soft madeleines, in classic, chocolate and half-and-half versions.",
+      "tip": "Get a mixed bag and eat one warm on the spot; they make a light, easy-to-pack gift too.",
+      "q": "Léa Linster Délicatesses, Luxembourg",
+      "ll": [49.6113, 6.1323],
+      "src": ["https://www.luxembourg-city.com/en/about-luxembourg-city/meng-stad-my-city/details/discovering-sweet-and-savoury-delights-in-the-heart-of-the-city"]
+    },
+    {
+      "id": "lxwenzel", "cat": "dene", "area": "ville",
+      "title": "Walk 1,000 years on the Wenzel circuit",
+      "desc": "Named after Duke Wenceslas II, whose 14th century wall it follows, this steep route links the Bock, the Corniche, the Grund and the Rham plateau. It is the best way to understand how the fortress city fits together.",
+      "tip": "Pick up the route leaflet at the tourist office on Place Guillaume II, wear good shoes for the stairs, and ride the Grund lift back up.",
+      "q": "Luxembourg City Tourist Office, Place Guillaume II",
+      "ll": [49.6106, 6.1307],
+      "src": ["https://luxembourg-city.com/en/place/tour/wenzel-circular-walk"]
+    },
+    {
+      "id": "lxpfaffenthallift", "cat": "dene", "area": "ville",
+      "title": "Ride the glass lift down to Pfaffenthal",
+      "desc": "Since 2016 a panoramic elevator drops 60 metres from the upper town to the Pfaffenthal in seconds. The platform at the top has a glass floor section that looks straight down onto the rooftops and the Alzette.",
+      "tip": "It is free; at the bottom, cross the river and walk to the Pfaffenthal-Kirchberg station and funicular to continue up to Kirchberg.",
+      "q": "Ascenseur panoramique du Pfaffenthal, Luxembourg",
+      "ll": [49.6155, 6.1307],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Pfaffenthal_Panoramic_Elevator"]
+    },
+    {
+      "id": "lxfunicular", "cat": "dene", "area": "ville",
+      "title": "Ride the funicular and tram for free",
+      "desc": "Luxembourg was the first country to make all public transport free, in 2020, for residents and tourists alike. The funicular hauls you from the Pfaffenthal valley up to Kirchberg, where the tram glides past EU institutions.",
+      "tip": "No ticket needed for trains, trams and buses, except in first class; just carry ID in case of a check.",
+      "q": "Funiculaire Pfaffenthal-Kirchberg, Luxembourg",
+      "ll": [49.6190, 6.1335],
+      "tags": ["free", "rainy day"],
+      "src": ["https://luxembourg.public.lu/en/living/mobility/public-transport.html", "https://en.wikivoyage.org/wiki/Luxembourg_(city)"]
+    },
+    {
+      "id": "lxadolphe", "cat": "dene", "area": "ville",
+      "title": "Cross under the Adolphe Bridge",
+      "desc": "When it opened in 1903, the Adolphe Bridge had one of the largest stone arches in the world. Since 2018 a cycle and footbridge hangs beneath its deck, giving you a breezy walk over the Pétrusse valley.",
+      "tip": "Use it to get from the Ville Haute to the Gare quarter, and look down onto the valley park and skatepark below.",
+      "q": "Pont Adolphe, Luxembourg",
+      "ll": [49.6083, 6.1270],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Adolphe_Bridge"]
+    },
+    {
+      "id": "lxschueberfouer", "cat": "dene", "area": "ville",
+      "title": "Ride the rides at the Schueberfouer",
+      "desc": "Founded in 1340 by John the Blind as a cattle market, the Fouer now fills the Glacis with around 200 attractions for three weeks. On the opening Sunday, musicians in blue smocks lead sheep through town to the Hämmelsmarsch tune.",
+      "tip": "Come on a weekday afternoon to skip the crowds, and stay for the fireworks on the final evening.",
+      "q": "Schueberfouer, Glacis, Luxembourg",
+      "ll": [49.6169, 6.1237],
+      "months": [8, 9],
+      "src": ["https://luxembourg.public.lu/en/society-and-culture/festivals-and-traditions/schueberfouer-luxembourg-fair.html", "https://en.wikivoyage.org/wiki/Luxembourg_(city)"]
+    },
+    {
+      "id": "lxemaischen", "cat": "dene", "area": "ville",
+      "title": "Buy a Péckvillchen on Easter Monday",
+      "desc": "Every Easter Monday since at least 1827, the old town lanes around the Fish Market fill with potters for the Éimaischen. The star is the Péckvillchen, a clay bird whistle with a new design every year, traditionally swapped between lovers.",
+      "tip": "Collectors arrive at dawn for the year's model; later on, just follow the sound of whistling through the streets.",
+      "q": "Marché-aux-Poissons, Luxembourg",
+      "ll": [49.6116, 6.1335],
+      "months": [3, 4],
+      "tags": ["free"],
+      "src": ["https://www.luxembourg-city.com/en/place/tradition/eimaischen"]
+    },
+    {
+      "id": "lxstatermaart", "cat": "dene", "area": "ville",
+      "title": "Shop the Stater Maart on the Knuedler",
+      "desc": "On Wednesday and Saturday mornings around forty stalls fill Place Guillaume II, the square locals call the Knuedler, with regional produce, cheese, bread, meat and flowers.",
+      "tip": "Look for a tub of Kachkéis, the runny cooked cheese locals spread on bread with mustard.",
+      "q": "Place Guillaume II, Luxembourg",
+      "ll": [49.6103, 6.1305],
+      "tags": ["free"],
+      "src": ["https://luxembourg.public.lu/en/visit/activities/markets.html"]
+    },
+    {
+      "id": "lxglacismaart", "cat": "dene", "area": "ville",
+      "title": "Hunt for bargains at the Glacismaart",
+      "desc": "On the third Sunday of the month, the Glacis in Limpertsberg hosts the biggest market in the country, mixing fresh food, second-hand finds, textiles and snack stands.",
+      "tip": "There is no market in August, when the Schueberfouer takes over the Glacis; come early for the best second-hand pickings.",
+      "q": "Glacis, Limpertsberg, Luxembourg",
+      "ll": [49.6175, 6.1230],
+      "months": [3, 4, 5, 6, 7, 9, 10, 11],
+      "tags": ["free"],
+      "src": ["https://luxembourg.public.lu/en/visit/activities/markets.html"]
+    },
+    {
+      "id": "lxwanterpark", "cat": "dene", "area": "ville",
+      "title": "Skate on the Kinnekswiss",
+      "desc": "During the Winterlights season the big lawn of the Municipal Park becomes the Wanterpark, with an ice rink, food chalets and a giant illuminated heart. It is calmer than the old town markets.",
+      "tip": "Skates can be hired on site; afterwards, ride the Ferris wheel on Place de la Constitution for night views over the Pétrusse valley.",
+      "q": "Kinnekswiss, Parc municipal, Luxembourg",
+      "ll": [49.6117, 6.1240],
+      "months": [11, 12, 1],
+      "src": ["https://chronicle.lu/category/things-to-see-do/58726-christmas-markets-winter-lights-of-luxembourg-city"]
+    },
+    {
+      "id": "lxphilharmonie", "cat": "dene", "area": "ville",
+      "title": "Catch a concert at the Philharmonie",
+      "desc": "Christian de Portzamparc wrapped this Kirchberg concert hall in 823 white steel columns. It is home to the Luxembourg Philharmonic Orchestra and hosts jazz and world music as well as classical.",
+      "tip": "The tram stops right outside; even without a ticket, the column foyer is worth a look at dusk.",
+      "q": "Philharmonie Luxembourg, Place de l'Europe",
+      "ll": [49.6183, 6.1422],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Philharmonie_Luxembourg"]
+    },
+    {
+      "id": "lxpetrusseskate", "cat": "dene", "area": "ville",
+      "title": "Watch the skaters in the Pétrusse valley",
+      "desc": "The green Pétrusse valley cuts right through the city between the old town and the Gare quarter, and at its bottom lies a free, ultra modern skatepark under the arches of the Adolphe Bridge.",
+      "tip": "Bring your board or just sit on the grass; the valley path continues east towards the Saint Quirin chapel and the Grund.",
+      "q": "Skatepark Péitruss, Luxembourg",
+      "ll": [49.6078, 6.1278],
+      "tags": ["free"],
+      "src": ["https://luxembourg-city.com/en/attractions/sights"]
+    },
+    {
+      "id": "lxamtunnel", "cat": "dene", "area": "ville",
+      "title": "Walk through the Am Tunnel art gallery",
+      "desc": "Hidden under the Gare quarter, an old tunnel beneath the state savings bank headquarters has been turned into a free exhibition space for photography and contemporary art.",
+      "tip": "Enter through the bank building on Rue Sainte-Zithe on a weekday, then pop into the free Bank Museum on Place de Metz nearby.",
+      "q": "Am Tunnel, Rue Sainte-Zithe, Luxembourg",
+      "ll": [49.6064, 6.1283],
+      "tags": ["free", "rainy day"],
+      "src": ["https://en.wikivoyage.org/wiki/Luxembourg_(city)"]
+    }
+  ]
+}

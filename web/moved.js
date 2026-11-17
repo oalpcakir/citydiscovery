@@ -50,6 +50,7 @@ window.MOVED = {
 "brussel/villers": "namur/villers",
 "brussel/waterloo": "namur/waterloo",
 "denbosch/maashorst": "arnhem/maashorst",
+"duesseldorf/eschbachtalsperre": "koeln/eschbachtalsperre",
 "eindhoven/baarle": "breda/baarle",
 "eindhoven/biesbosch": "breda/biesbosch",
 "eindhoven/binnendieze": "denbosch/binnendieze",

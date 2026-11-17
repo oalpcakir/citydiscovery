@@ -1,6 +1,6 @@
 """Finds a free cover photo for each quest and writes web/photos.js.
 
-1. Searches Wikipedia (nl/en, plus fr for Belgium) for the quest's place name and accepts an article only if
+1. Searches Wikipedia (nl/en for the Netherlands, nl/fr/en for Belgium, de/en for Germany, fr/de/en for Luxembourg) for the quest's place name and accepts an article only if
    its coordinates lie within 400 m of the quest pin; the article's lead image (free licences only) is used.
 2. For "see" quests without a match, takes the nearest Wikimedia Commons photo within 90 m of the pin.
 Every photo keeps its author, licence and source page for the credit line. Results are cached in
@@ -29,12 +29,12 @@ last_call = [0.0]
 
 
 def api(host, params):
-    """One polite request at a time (about one a second); waits when Wikimedia says to slow down."""
+    """One polite request at a time (one every 3 s); when Wikimedia says to slow down, waits as long as it asks."""
     params.update({"action": "query", "format": "json", "formatversion": "2", "maxlag": "5"})
     url = "https://%s/w/api.php?%s" % (host, urllib.parse.urlencode(params))
-    for attempt in range(5):
+    for attempt in range(10):
         with lock:
-            wait = last_call[0] + 1.0 - time.time()
+            wait = last_call[0] + 3 - time.time()
             if wait > 0:
                 time.sleep(wait)
             last_call[0] = time.time()
@@ -44,7 +44,9 @@ def api(host, params):
                 return d
             time.sleep(5)
         except urllib.error.HTTPError as e:
-            time.sleep(min(300, int(e.headers.get("Retry-After") or 0) or 30 * (attempt + 1)))
+            if e.code != 429 and e.code < 500:
+                raise Failed(url)
+            time.sleep(int(e.headers.get("Retry-After") or 20) + 2)
         except Exception:
             time.sleep(3 * (attempt + 1))
     raise Failed(url)
@@ -60,16 +62,21 @@ def clean(s):
     return s[:60]
 
 
+def bare(url):
+    """Wikimedia adds tracking parameters (?utm_source=...) to its URLs; the app does not need them."""
+    return (url or "").split("?")[0]
+
+
 def info_to_photo(ii):
     if not ii or not ii.get("thumburl"):
         return None
-    if not re.search(r"\.jpe?g$", ii.get("url", ""), re.I):
+    if not re.search(r"\.jpe?g$", bare(ii.get("url")), re.I):
         return None
     meta = ii.get("extmetadata", {})
     lic = clean(meta.get("LicenseShortName", {}).get("value", ""))
     if not lic:
         return None
-    return [ii["thumburl"], clean(meta.get("Artist", {}).get("value", "")) or "Wikimedia Commons", lic, ii.get("descriptionurl", "")]
+    return [bare(ii["thumburl"]), clean(meta.get("Artist", {}).get("value", "")) or "Wikimedia Commons", lic, bare(ii.get("descriptionurl"))]
 
 
 def from_wikipedia(q, ll, langs):
@@ -106,7 +113,7 @@ def from_commons(ll):
 
 def work(job):
     key, q, ll, cat, country = job
-    langs = ["nl", "fr", "en"] if country == "Belgium" else ["nl", "en"]
+    langs = {"Belgium": ["nl", "fr", "en"], "Germany": ["de", "en"], "Luxembourg": ["fr", "de", "en"]}.get(country, ["nl", "en"])
     try:
         ph = from_wikipedia(q, ll, langs)
         if not ph and cat == "gor":

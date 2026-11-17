@@ -132,6 +132,9 @@
     g.fillText(pct + "%", m, m + 1);
     return g.getImageData(0, 0, S, S);
   }
+  // Tricolours: stripe direction, then the three colours.
+  var FLAGS = { NL: ["h", "#AE1C28", "#FFFFFF", "#21468B"], BE: ["v", "#111111", "#FDDA24", "#EF3340"],
+    DE: ["h", "#000000", "#DD0000", "#FFCE00"], LU: ["h", "#EF3340", "#FFFFFF", "#00A3E0"] };
   function flagImage(cc) {
     var W = 76, H = 52, c = document.createElement("canvas");
     c.width = W; c.height = H;
@@ -139,10 +142,10 @@
     g.shadowColor = "rgba(15,23,42,.35)"; g.shadowBlur = 6; g.shadowOffsetY = 2;
     g.fillStyle = "#fff"; g.fillRect(x - 2, y - 2, w + 4, h + 4);
     g.shadowColor = "transparent";
-    var cols = cc === "BE" ? ["#111111", "#FDDA24", "#EF3340"] : ["#AE1C28", "#FFFFFF", "#21468B"];
-    cols.forEach(function (col, i) {
+    var f = FLAGS[cc] || FLAGS.NL, vertical = f[0] === "v";
+    f.slice(1).forEach(function (col, i) {
       g.fillStyle = col;
-      if (cc === "BE") g.fillRect(x + (w / 3) * i, y, w / 3 + 1, h); else g.fillRect(x, y + (h / 3) * i, w, h / 3 + 1);
+      if (vertical) g.fillRect(x + (w / 3) * i, y, w / 3 + 1, h); else g.fillRect(x, y + (h / 3) * i, w, h / 3 + 1);
     });
     return g.getImageData(0, 0, W, H);
   }
@@ -164,20 +167,33 @@
   function fc(features) { return { type: "FeatureCollection", features: features }; }
   function point(p, props) { return { type: "Feature", properties: props || {}, geometry: { type: "Point", coordinates: [p[1], p[0]] } }; }
   // Regions are lists of polygons; a polygon is a list of rings (outer first), a ring is [[lat, lng], ...].
+  // Regions without quests yet ("coming soon") are drawn in quiet grey.
+  var SOON = window.REGION_INFO || {};
+  function isSoon(id) { return !cities[id] && !!SOON[id]; }
   function regionsGeo() {
     var feats = [];
     Object.keys(REGIONS).forEach(function (id) {
-      if (!cities[id]) return;
-      var s = cityStats(id), rp = regionPaint(cities[id].color, s.pct);
+      var props;
+      if (cities[id]) {
+        var s = cityStats(id), rp = regionPaint(cities[id].color, s.pct);
+        props = { id: id, color: cities[id].color, pct: s.pct, full: s.pct >= 100 ? 1 : 0, fill: rp.fill, fop: rp.fop, soon: 0 };
+      } else if (isSoon(id)) {
+        props = { id: id, color: "#94a3b8", pct: 0, full: 0, fill: "#cbd5e1", fop: 0.14, soon: 1 };
+      } else return;
       REGIONS[id].forEach(function (poly) {
         feats.push({ type: "Feature", geometry: { type: "Polygon", coordinates: poly.map(function (ring) {
           var pts = ring.map(function (p) { return [p[1], p[0]]; });
           pts.push(pts[0]);
           return pts;
-        }) }, properties: { id: id, color: cities[id].color, pct: s.pct, full: s.pct >= 100 ? 1 : 0, fill: rp.fill, fop: rp.fop } });
+        }) }, properties: props });
       });
     });
     return fc(feats);
+  }
+  function soonPoints() {
+    return fc(Object.keys(SOON).filter(isSoon).map(function (id) {
+      return point(SOON[id].at, { id: id, name: SOON[id].name });
+    }));
   }
   function countriesGeo(points) {
     var C = window.COUNTRIES || {}, feats = [];
@@ -222,7 +238,7 @@
         map.addImage(id, pinImage(c, m[1]), { pixelRatio: 2 });
       });
     });
-    ["NL", "BE"].forEach(function (cc) {
+    Object.keys(window.COUNTRIES || {}).forEach(function (cc) {
       if (map.hasImage("flag-" + cc)) map.removeImage("flag-" + cc);
       map.addImage("flag-" + cc, flagImage(cc), { pixelRatio: 2 });
     });
@@ -285,6 +301,11 @@
       "text-field": ["get", "name"], "text-font": ["Noto Sans Bold"], "text-size": 14, "text-letter-spacing": 0.18,
       "text-anchor": "top", "text-offset": [0, 0.3], "text-allow-overlap": true },
       paint: { "text-color": "#1e293b", "text-halo-color": "#ffffff", "text-halo-width": 2.6 } });
+    map.addSource("soon-points", { type: "geojson", data: soonPoints() });
+    map.addLayer({ id: "soon-labels", type: "symbol", source: "soon-points", minzoom: 6.3, maxzoom: OVERVIEW_ZOOM, layout: {
+      "text-field": ["format", ["get", "name"], {}, "\n", {}, "Coming soon", { "font-scale": 0.8 }],
+      "text-font": ["Noto Sans Bold"], "text-size": 12, "text-line-height": 1.15, "text-padding": 6 },
+      paint: { "text-color": dark ? "#94a3b8" : "#64748b", "text-halo-color": halo, "text-halo-width": 2 } });
     map.addSource("region-points", { type: "geojson", data: badgePoints() });
     map.addLayer({ id: "region-badges", type: "symbol", source: "region-points", maxzoom: OVERVIEW_ZOOM, layout: {
       "icon-image": ["get", "img"], "icon-allow-overlap": true, "icon-ignore-placement": true,
@@ -402,6 +423,7 @@
     }
     if (map.getZoom() < OVERVIEW_ZOOM) {
       var r = map.queryRenderedFeatures(e.point, { layers: ["region-fill"] })[0];
+      if (r && r.properties.soon) { toast(SOON[r.properties.id].name + ": quests coming soon"); return; }
       if (r) { setCity(r.properties.id, true); return; }
     }
     if (ui.open) closeSheet();
@@ -411,7 +433,7 @@
     var onPin = map.queryRenderedFeatures(e.point, { layers: ["pins", "clusters", "region-badges"] }).length > 0;
     var r = !onPin && map.getZoom() < OVERVIEW_ZOOM ? map.queryRenderedFeatures(e.point, { layers: ["region-fill"] })[0] : null;
     map.getCanvas().style.cursor = onPin || r ? "pointer" : "";
-    map.setFilter("region-hover", ["==", ["get", "id"], r ? r.properties.id : ""]);
+    map.setFilter("region-hover", ["==", ["get", "id"], r && !r.properties.soon ? r.properties.id : ""]);
   }
   function refreshMap() {
     if (!mapReady) return;

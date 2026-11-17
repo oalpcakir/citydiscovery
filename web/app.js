@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  var APP_VERSION = "0.9.0";
+  var APP_VERSION = "0.10.0";
   var STORE_KEY = "citydiscovery.v1";
   var CATS = {
     gor: { label: "See", icon: "👀", color: "#3b82f6" },
@@ -121,6 +121,7 @@
     var areaKeys = Object.keys(c.areas);
     var touched = areaKeys.filter(function (a) { return done.some(function (q) { return q.area === a; }); }).length;
     var notes = c.quests.filter(function (q) { var r = rec(q); return r && r.note; }).length;
+    var photos = c.quests.filter(function (q) { var r = rec(q); return r && r.photos; }).length;
     single("first", "👣", "First Steps", "Complete your first quest here", done.length, 1);
     single("ten", "🔟", "Warm-up", "Complete 10 quests here", done.length, Math.min(10, c.quests.length));
     single("half", "🧭", "Halfway There", "Complete half of all quests here", done.length, Math.ceil(c.quests.length / 2));
@@ -128,6 +129,7 @@
     single("fullday", "⚡", "Packed Day", "Complete 3 quests in one day", bestDay, 3);
     single("season", "🍂", "Season Hunter", "Complete 3 seasonal quests", done.filter(function (q) { return q.months; }).length, 3);
     single("diary", "📓", "Diary Keeper", "Write notes on 5 quests", notes, 5);
+    single("photog", "📸", "Photographer", "Add photos to 5 quests", photos, 5);
     single("all", "👑", c.levels[c.levels.length - 1], "Complete every quest here", done.length, c.quests.length);
     return out;
   }
@@ -144,9 +146,40 @@
   }
   function tierLabel(b) { return !b.tier ? "Locked" : b.max === 1 ? "Unlocked" : TIERS[b.tier - 1].label; }
 
+  // ── Explorer profile ───────────────────────────────────────
+  var CLASSES = {
+    scholar: { name: "Scholar", icon: "🏛️", desc: "+25% XP on See quests", cat: "gor" },
+    gourmand: { name: "Gourmand", icon: "🍴", desc: "+25% XP on Eat & drink quests", cat: "ye" },
+    daredevil: { name: "Daredevil", icon: "✨", desc: "+25% XP on Do quests", cat: "dene" },
+    nomad: { name: "Nomad", icon: "🧭", desc: "+25% XP on day trips outside the city", far: true }
+  };
+  // Things you unlock by levelling up. `value` is what gets equipped.
+  var UNLOCKS = [
+    { type: "avatar", value: "🎒", level: 1 }, { type: "avatar", value: "🚲", level: 1 },
+    { type: "avatar", value: "🌷", level: 1 }, { type: "avatar", value: "🧭", level: 1 },
+    { type: "avatar", value: "🧀", level: 3 }, { type: "avatar", value: "🦉", level: 5 },
+    { type: "avatar", value: "🦊", level: 8 }, { type: "avatar", value: "🦁", level: 12 },
+    { type: "avatar", value: "🐉", level: 20 }, { type: "avatar", value: "👑", level: 30 },
+    { type: "avatar", value: "🦄", level: 40 },
+    { type: "frame", value: "none", name: "Simple", level: 1 }, { type: "frame", value: "bronze", name: "Bronze", level: 4 },
+    { type: "frame", value: "silver", name: "Silver", level: 10 }, { type: "frame", value: "gold", name: "Gold", level: 18 },
+    { type: "frame", value: "aurora", name: "Aurora", level: 28 }, { type: "frame", value: "legend", name: "Legend", level: 45 },
+    { type: "accent", value: "mint", name: "Mint", color: "#0e9f6e", level: 1 }, { type: "accent", value: "ocean", name: "Ocean", color: "#0284c7", level: 3 },
+    { type: "accent", value: "sunset", name: "Sunset", color: "#ea580c", level: 7 }, { type: "accent", value: "berry", name: "Berry", color: "#db2777", level: 12 },
+    { type: "accent", value: "royal", name: "Royal", color: "#7c3aed", level: 18 }, { type: "accent", value: "gilded", name: "Gilded", color: "#b45309", level: 25 }
+  ];
+  function profile() {
+    var p = store.profile || {};
+    return { name: p.name || "", avatar: p.avatar || "🎒", cls: p.cls || "", frame: p.frame || "none",
+      accent: p.accent || "mint", title: p.title || "", home: p.home || "" };
+  }
+  function unlockLabel(u) {
+    return u.type === "avatar" ? u.value + " avatar" : u.type === "frame" ? u.name + " frame" : u.name + " colour";
+  }
+
   // ── RPG progression ────────────────────────────────────────
   // One hero across all regions. XP comes from quests (with bonuses) and badges; levels follow a curve.
-  var XP = { quest: 100, seasonal: 50, far: 50, area: 50, region: 150, journal: 25 };
+  var XP = { quest: 100, seasonal: 50, far: 50, area: 50, region: 150, journal: 25, photo: 25 };
   var TITLES = [[1, "Wanderer", "🎒"], [3, "Explorer", "🧭"], [6, "Pathfinder", "🥾"], [10, "Trailblazer", "🔥"],
     [15, "Navigator", "⛵"], [20, "Cartographer", "🗺️"], [30, "Voyager", "🚀"], [40, "Lorekeeper", "📜"],
     [55, "Legend", "🏆"], [75, "Mythic Explorer", "🐉"]];
@@ -173,12 +206,12 @@
   // Replays every completion in time order, so bonuses depend on what you had done before.
   // With `previewKey`, that quest is added as if completed now (used to show the reward in advance).
   function progress(previewKey) {
-    var log = [];
+    var log = [], cls = CLASSES[profile().cls];
     Object.keys(store.done).forEach(function (k) {
       var r = store.done[k];
-      if (r && r.at && byKey[k]) log.push({ q: byKey[k], at: r.at, note: !!r.note });
+      if (r && r.at && byKey[k]) log.push({ q: byKey[k], at: r.at, note: !!r.note, photos: r.photos || 0 });
     });
-    if (previewKey && byKey[previewKey] && !isDone(byKey[previewKey])) log.push({ q: byKey[previewKey], at: Date.now(), note: false, preview: true });
+    if (previewKey && byKey[previewKey] && !isDone(byKey[previewKey])) log.push({ q: byKey[previewKey], at: Date.now(), preview: true });
     log.sort(function (a, b) { return a.at - b.at; });
     var seenArea = {}, seenRegion = {}, weeks = {}, attr = { gor: 0, ye: 0, dene: 0, far: 0 }, xp = 0, gains = [];
     log.forEach(function (e) {
@@ -189,10 +222,15 @@
       var ak = q.cid + "/" + q.area;
       if (!seenArea[ak]) { seenArea[ak] = 1; parts.push(["New area", XP.area]); }
       if (e.note) parts.push(["Journal", XP.journal]);
+      if (e.photos) parts.push(["Snapshot", XP.photo]);
+      var sum = parts.reduce(function (s, p) { return s + p[1]; }, 0);
+      if (cls && (cls.cat ? q.cat === cls.cat : q.area === "cevre")) {
+        var cb = Math.round(sum * 0.25);
+        parts.push([cls.name + " class", cb]); sum += cb;
+      }
       var w = weekOf(e.at), streak = 1;
       weeks[w] = 1;
       while (weeks[w - streak]) streak++;
-      var sum = parts.reduce(function (s, p) { return s + p[1]; }, 0);
       if (streak > 1) {
         var bonus = Math.round(sum * Math.min(0.5, 0.1 * (streak - 1)));
         parts.push([streak + "-week streak", bonus]); sum += bonus;
@@ -460,6 +498,9 @@
     map.addLayer({ id: "me-halo", type: "circle", source: "me", paint: { "circle-radius": 22, "circle-color": "#2f7df6", "circle-opacity": 0.2 } });
     map.addLayer({ id: "me-dot", type: "circle", source: "me", paint: {
       "circle-radius": 8, "circle-color": "#2f7df6", "circle-stroke-color": "#ffffff", "circle-stroke-width": 3.5 } });
+    map.addSource("pulse", { type: "geojson", data: { type: "FeatureCollection", features: [] } });
+    map.addLayer({ id: "pulse", type: "circle", source: "pulse", paint: {
+      "circle-radius": 12, "circle-color": ac, "circle-opacity": 0, "circle-stroke-width": 0 } });
     mapReady = true;
     refreshMap();
   }
@@ -622,6 +663,212 @@
     });
   }
 
+  // ── Photos (IndexedDB; the store only keeps a count per quest) ──
+  var MAX_PHOTOS = 6, dbp = null, urlCache = {};
+  function db() {
+    if (dbp) return dbp;
+    dbp = new Promise(function (res, rej) {
+      if (!window.indexedDB) { rej(new Error("no indexedDB")); return; }
+      var r = indexedDB.open("citydiscovery", 1);
+      r.onupgradeneeded = function () { r.result.createObjectStore("photos", { keyPath: "id" }).createIndex("key", "key"); };
+      r.onsuccess = function () { res(r.result); };
+      r.onerror = function () { rej(r.error); };
+    });
+    return dbp;
+  }
+  function tx(mode, fn) {
+    return db().then(function (d) {
+      return new Promise(function (res, rej) {
+        var t = d.transaction("photos", mode), out = fn(t.objectStore("photos"));
+        t.oncomplete = function () { res(out && out.result !== undefined ? out.result : out); };
+        t.onerror = function () { rej(t.error); };
+      });
+    });
+  }
+  function photosFor(key) { return tx("readonly", function (s) { return s.index("key").getAll(key); }); }
+  function allPhotos() { return tx("readonly", function (s) { return s.getAll(); }).then(function (l) { return l.sort(function (a, b) { return b.at - a.at; }); }); }
+  function photoUrl(p) { return urlCache[p.id] || (urlCache[p.id] = URL.createObjectURL(p.blob)); }
+  // Shrinks a picked image to at most 1600px so photos stay small on the device.
+  function shrink(file) {
+    return new Promise(function (res, rej) {
+      var img = new Image(), u = URL.createObjectURL(file);
+      img.onload = function () {
+        var k = Math.min(1, 1600 / Math.max(img.width, img.height)), c = document.createElement("canvas");
+        c.width = Math.round(img.width * k); c.height = Math.round(img.height * k);
+        c.getContext("2d").drawImage(img, 0, 0, c.width, c.height);
+        URL.revokeObjectURL(u);
+        c.toBlob(function (b) { if (b) res(b); else rej(new Error("encode")); }, "image/jpeg", 0.84);
+      };
+      img.onerror = function () { URL.revokeObjectURL(u); rej(new Error("decode")); };
+      img.src = u;
+    });
+  }
+  function setPhotoCount(key, n) {
+    var r = store.done[key] || { at: 0 };
+    if (n) r.photos = n; else delete r.photos;
+    if (!r.at && !r.note && !r.photos) delete store.done[key]; else store.done[key] = r;
+    save();
+  }
+  function addPhotos(key, files) {
+    var before = progress().xp;
+    photosFor(key).then(function (have) {
+      var room = MAX_PHOTOS - have.length, list = [].slice.call(files, 0, Math.max(0, room));
+      if (!list.length) { toast("Up to " + MAX_PHOTOS + " photos per quest"); return; }
+      toast("Saving photo…");
+      return Promise.all(list.map(shrink)).then(function (blobs) {
+        return tx("readwrite", function (s) {
+          blobs.forEach(function (b, i) { s.put({ id: key + "@" + (Date.now() + i), key: key, at: Date.now() + i, blob: b }); });
+        }).then(function () {
+          setPhotoCount(key, have.length + blobs.length);
+          var gained = progress().xp - before;
+          if (gained > 0) { toast("📸 +" + gained + " XP"); chime(false); buzz(25); } else toast("Photo saved");
+          refreshAfterPhoto(key, gained, before);
+        });
+      });
+    }).catch(function () { toast("Could not save the photo"); });
+  }
+  function deletePhoto(id, key) {
+    tx("readwrite", function (s) { s.delete(id); }).then(function () { return photosFor(key); }).then(function (left) {
+      if (urlCache[id]) { URL.revokeObjectURL(urlCache[id]); delete urlCache[id]; }
+      setPhotoCount(key, left.length);
+      toast("Photo removed");
+      closeSheet();
+    });
+  }
+  function photoRow(key) {
+    return '<div class="photos" data-photos="' + esc(key) + '">' +
+      '<label class="ph-add"><input type="file" accept="image/*" multiple data-photo="' + esc(key) + '" hidden>' +
+      '<span class="ph-i">📸</span><span>Add photo<small>+' + XP.photo + ' XP for the first</small></span></label></div>';
+  }
+  function fillPhotos(root) {
+    [].forEach.call((root || document).querySelectorAll("[data-photos]"), function (box) {
+      photosFor(box.dataset.photos).then(function (list) {
+        list.sort(function (a, b) { return a.at - b.at; }).forEach(function (p) {
+          var b = document.createElement("button");
+          b.className = "ph"; b.dataset.photoId = p.id; b.dataset.photoKey = p.key;
+          b.style.backgroundImage = "url(" + photoUrl(p) + ")";
+          b.setAttribute("aria-label", "Open photo");
+          box.insertBefore(b, box.querySelector(".ph-add"));
+        });
+      }).catch(function () {});
+    });
+  }
+  function fillMemories() {
+    var box = document.getElementById("memories");
+    if (!box) return;
+    allPhotos().then(function (list) {
+      list = list.filter(function (p) { return byKey[p.key]; });
+      if (!list.length) { box.innerHTML = '<div class="note" style="margin:0">Photos you add to completed quests collect here.</div>'; return; }
+      box.innerHTML = '<div class="mem">' + list.slice(0, 9).map(function (p) {
+        return '<button class="ph big" data-photo-id="' + esc(p.id) + '" data-photo-key="' + esc(p.key) + '" style="background-image:url(' + photoUrl(p) + ')">' +
+          '<span>' + esc(byKey[p.key].title) + '</span></button>';
+      }).join("") + '</div>' + (list.length > 9 ? '<p class="note">+' + (list.length - 9) + ' more in your quests</p>' : "");
+    }).catch(function () { box.innerHTML = '<div class="note" style="margin:0">Photos are not available in this browser.</div>'; });
+  }
+  function openPhoto(id, key) {
+    var q = byKey[key];
+    photosFor(key).then(function (list) {
+      var p = list.filter(function (x) { return x.id === id; })[0];
+      if (!p) return;
+      closeSheetSilently();
+      showSheet("photo", '<button class="x" data-act="close" aria-label="Close">✕</button><img class="lb" src="' + photoUrl(p) + '" alt="">' +
+        '<div class="lb-t">' + esc(q ? q.title : "") + '</div><div class="note">' + new Date(p.at).toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric" }) + '</div>' +
+        '<div class="two" style="margin-top:12px"><button class="btn ghost" data-open="' + esc(key) + '">Open quest</button>' +
+        '<button class="btn plain danger" data-act="photo-del" data-id="' + esc(id) + '" data-key="' + esc(key) + '">Delete photo</button></div>', true);
+    });
+  }
+  function refreshAfterPhoto(key, gained, before) {
+    if ($sheet.hidden) return;
+    if ($sheet.classList.contains("complete")) {
+      var el = document.getElementById("qcxp");
+      if (el && gained > 0) countUp(el, +el.textContent, +el.textContent + gained, 600);
+      var box = $sheet.querySelector("[data-photos]");
+      if (box) { [].forEach.call(box.querySelectorAll(".ph"), function (n) { n.remove(); }); fillPhotos($sheet); }
+    } else if (ui.open === key) {
+      openSheet(key);
+    }
+  }
+
+  // ── Juice: sound, haptics, confetti, counters ──────────────
+  var actx = null;
+  function chime(big) {
+    if (store.sound === false) return;
+    try {
+      actx = actx || new (window.AudioContext || window.webkitAudioContext)();
+      var notes = big ? [523.25, 659.25, 783.99, 1046.5, 1318.5, 1567.98] : [659.25, 830.61, 987.77];
+      notes.forEach(function (f, i) {
+        var o = actx.createOscillator(), g = actx.createGain(), t = actx.currentTime + i * (big ? 0.08 : 0.07);
+        o.type = "triangle"; o.frequency.value = f;
+        g.gain.setValueAtTime(0.0001, t);
+        g.gain.exponentialRampToValueAtTime(0.16, t + 0.015);
+        g.gain.exponentialRampToValueAtTime(0.0001, t + (big ? 0.7 : 0.4));
+        o.connect(g); g.connect(actx.destination); o.start(t); o.stop(t + 0.8);
+      });
+    } catch (e) { /* audio is optional */ }
+  }
+  function buzz(p) { try { if (navigator.vibrate) navigator.vibrate(p); } catch (e) { /* optional */ } }
+  function reducedMotion() { return window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches; }
+  function confetti(big) {
+    if (reducedMotion()) return;
+    var c = document.createElement("canvas"), dpr = window.devicePixelRatio || 1;
+    c.className = "confetti"; document.body.appendChild(c);
+    var W = (c.width = innerWidth * dpr), H = (c.height = innerHeight * dpr), g = c.getContext("2d");
+    var cols = ["#8b5cf6", "#ec4899", "#f59e0b", "#10b981", "#3b82f6", "#ef4444", "#facc15"], P = [];
+    for (var i = 0; i < (big ? 240 : 130); i++) {
+      P.push({ x: W / 2 + (Math.random() - 0.5) * W * 0.2, y: H * 0.38, vx: (Math.random() - 0.5) * W * 0.028,
+        vy: -Math.random() * H * 0.028 - H * 0.008, s: (5 + Math.random() * 7) * dpr, r: Math.random() * 6,
+        vr: (Math.random() - 0.5) * 0.35, c: cols[i % cols.length] });
+    }
+    var t0 = performance.now(), life = big ? 3200 : 2400;
+    (function frame(t) {
+      var dt = t - t0;
+      g.clearRect(0, 0, W, H);
+      P.forEach(function (p) {
+        p.vy += H * 0.0008; p.x += p.vx; p.y += p.vy; p.vx *= 0.985; p.r += p.vr;
+        g.save(); g.translate(p.x, p.y); g.rotate(p.r); g.fillStyle = p.c;
+        g.globalAlpha = Math.max(0, 1 - dt / life); g.fillRect(-p.s / 2, -p.s / 4, p.s, p.s / 2); g.restore();
+      });
+      if (dt < life) requestAnimationFrame(frame); else c.remove();
+    })(t0);
+  }
+  function countUp(el, from, to, ms) {
+    if (!el) return;
+    var t0 = performance.now(), done = false;
+    (function f(t) {
+      if (done) return;
+      var k = Math.min(1, (t - t0) / ms), e = 1 - Math.pow(1 - k, 3);
+      el.textContent = Math.round(from + (to - from) * e);
+      if (k < 1) requestAnimationFrame(f); else done = true;
+    })(t0);
+    // Animation frames pause in background tabs; make sure the final number always lands.
+    setTimeout(function () { done = true; el.textContent = to; }, ms + 200);
+  }
+  // A ripple on the map where a quest was just completed.
+  function pulseAt(q) {
+    var p = q && ll(q);
+    if (!mapReady || !p || reducedMotion()) return;
+    map.getSource("pulse").setData({ type: "FeatureCollection", features: [{ type: "Feature", properties: {}, geometry: { type: "Point", coordinates: [p[1], p[0]] } }] });
+    var t0 = performance.now(), dur = 1400;
+    (function f(t) {
+      var k = ((t - t0) % (dur / 2)) / (dur / 2);
+      if (!mapReady || !map.getLayer("pulse")) return;
+      map.setPaintProperty("pulse", "circle-radius", 12 + 70 * k);
+      map.setPaintProperty("pulse", "circle-opacity", 0.5 * (1 - k));
+      if (t - t0 < dur) requestAnimationFrame(f);
+      else map.setPaintProperty("pulse", "circle-opacity", 0);
+    })(t0);
+  }
+  function applyAccent() {
+    document.documentElement.setAttribute("data-accent", profile().accent);
+    if (!mapReady) return;
+    var ac = accent();
+    map.setPaintProperty("clusters", "circle-color", ac);
+    map.setPaintProperty("done-glow", "circle-color", ac);
+    map.setPaintProperty("sel-ring", "circle-color", ac);
+    map.setPaintProperty("sel-ring", "circle-stroke-color", ac);
+    map.setPaintProperty("pulse", "circle-color", ac);
+  }
+
   // ── Rendering ──────────────────────────────────────────────
   var $app = document.getElementById("app");
   var $sheet = document.getElementById("sheet");
@@ -660,6 +907,10 @@
     return '<header class="head"><h1>' + (picker ? '<button data-act="regions">' + esc(title) + ' <i>▾</i></button>' : esc(title)) +
       '</h1><p>' + esc(sub) + '</p></header>';
   }
+  function heroTitle(p) {
+    var pr = profile();
+    return pr.title && TITLES.some(function (t) { return t[1] === pr.title && p.level >= t[0]; }) ? pr.title : p.title;
+  }
 
   function render() {
     var onMap = ui.tab === "map", wasHidden = $map.hidden;
@@ -670,15 +921,16 @@
     $app.innerHTML = html;
     document.body.classList.toggle("on-map", onMap);
     if (onMap) updateMap(wasHidden);
+    if (ui.tab === "hero") fillMemories();
   }
 
   function renderMapUI() {
-    var s = stats(city.quests), p = progress();
+    var s = stats(city.quests), p = progress(), pr = profile();
     return '<div class="map-top">' +
       '<div class="topcard glass">' +
-        '<button class="lvl" data-tab="hero" aria-label="Your hero, level ' + p.level + '"><span>' + p.icon + '</span><b>' + p.level + '</b></button>' +
+        '<button class="lvl fr-' + pr.frame + '" data-tab="hero" aria-label="Your hero, level ' + p.level + '"><span>' + pr.avatar + '</span><b>' + p.level + '</b></button>' +
         '<div class="grow"><button class="tc-city" data-act="regions">' + esc(city.name) + ' <i>▾</i></button>' +
-        '<div class="tc-sub">' + esc(p.title) + ' · ' + fmt(p.into) + ' / ' + fmt(p.need) + ' XP</div>' + bar(p.pct, "xp") + '</div>' +
+        '<div class="tc-sub">' + esc(heroTitle(p)) + ' · ' + fmt(p.into) + ' / ' + fmt(p.need) + ' XP</div>' + bar(p.pct, "xp") + '</div>' +
         ring(s.pct) + '</div>' +
       '<div class="chips">' + catChips() + '</div>' +
       '<div class="chips">' + areaChips() + '</div>' +
@@ -712,7 +964,9 @@
       html += '<div class="empty">' + (ui.show === "done" ? "Nothing completed yet. Pick your first one!" : "Nothing left in this filter 🎉") + '</div>';
     }
     list.forEach(function (q) {
-      var meta = city.areas[q.area] + (q.months ? " · " + (inSeason(q) ? "In season now" : "Season: " + seasonText(q)) : "");
+      var r = rec(q) || {};
+      var meta = city.areas[q.area] + (q.months ? " · " + (inSeason(q) ? "In season now" : "Season: " + seasonText(q)) : "") +
+        (r.photos ? " · 📸 " + r.photos : "");
       html += '<button class="card ' + q.cat + (isDone(q) ? " done" : "") + '" data-open="' + esc(q.key) + '">' +
         '<span class="tile">' + CATS[q.cat].icon + '</span>' +
         '<div class="body"><div class="t">' + esc(q.title) + '</div><div class="m">' + esc(meta) + '</div></div>' +
@@ -752,13 +1006,23 @@
       '<div class="bp">' + (full ? "Complete" : b.have + " / " + b.goal + " · " + (b.max > 1 ? next.label + " " : "") + "+" + next.xp + " XP") + '</div></div>';
   }
 
+  function unlockTile(u, lv) {
+    var locked = u.level > lv;
+    var face = u.type === "avatar" ? '<span class="uf">' + u.value + '</span>' :
+      u.type === "frame" ? '<span class="uf fr fr-' + u.value + '">' + profile().avatar + '</span>' :
+      '<span class="uf sw" style="background:' + u.color + '"></span>';
+    return '<div class="ut' + (locked ? " locked" : "") + '">' + face + '<small>' + (locked ? "Lv " + u.level : esc(u.name || "Avatar")) + '</small></div>';
+  }
   function renderHero() {
-    var p = progress(), s = stats(city.quests), t = store.theme || "light", nRegions = Object.keys(cities).length;
-    var next = Math.min(50, 10 * (p.thisWeek ? p.streak - 1 : p.streak));
+    var p = progress(), pr = profile(), s = stats(city.quests), t = store.theme || "light", nRegions = Object.keys(cities).length;
+    var next = Math.min(50, 10 * (p.thisWeek ? p.streak - 1 : p.streak)), cls = CLASSES[pr.cls];
+    var upcoming = UNLOCKS.filter(function (u) { return u.level > p.level; }).sort(function (a, b) { return a.level - b.level; });
     var html = head("Your hero", "Every quest you complete, anywhere, earns XP") + '<div class="section">' +
-      '<div class="panel hero"><div class="avatar" style="--p:' + p.pct + '%"><span>' + p.icon + '</span></div>' +
-        '<div class="grow"><div class="lv">Level ' + p.level + '</div><div class="ttl">' + esc(p.title) + '</div>' + bar(p.pct, "xp") +
-        '<div class="ls">' + fmt(p.into) + ' / ' + fmt(p.need) + ' XP to level ' + (p.level + 1) + ' · ' + fmt(p.xp) + ' XP in total</div></div></div>' +
+      '<div class="panel hero"><div class="avatar fr-' + pr.frame + '" style="--p:' + p.pct + '%"><span>' + pr.avatar + '</span></div>' +
+        '<div class="grow"><div class="lv">Level ' + p.level + (cls ? ' · ' + cls.icon + ' ' + cls.name : '') + '</div>' +
+        '<div class="ttl">' + esc(pr.name || "Explorer") + '</div><div class="sub">' + esc(heroTitle(p)) + '</div>' + bar(p.pct, "xp") +
+        '<div class="ls">' + fmt(p.into) + ' / ' + fmt(p.need) + ' XP to level ' + (p.level + 1) + ' · ' + fmt(p.xp) + ' XP in total</div></div>' +
+        '<button class="edit" data-act="profile" aria-label="Edit profile">✎</button></div>' +
       '<div class="streak' + (p.streak ? " on" : "") + '">' + (p.streak
         ? "🔥 " + p.streak + "-week streak" + (next ? " · quests this week earn +" + next + "% XP" : "")
         : "Complete a quest this week to start a streak. Every week in a row adds +10% XP, up to +50%.") + '</div>' +
@@ -767,6 +1031,11 @@
         '<div class="stat"><b>' + p.regions + '/' + nRegions + '</b><span>Regions</span></div>' +
         '<div class="stat"><b>' + p.areas + '</b><span>Areas found</span></div>' +
         '<div class="stat"><b>' + p.badges + '</b><span>Badges</span></div></div>' +
+      '<h2>Unlocks</h2><div class="panel">' +
+        (upcoming.length ? '<div class="nextu">Next at level ' + upcoming[0].level + ': <b>' + esc(unlockLabel(upcoming[0])) + '</b></div>' : '<div class="nextu">Everything unlocked. Legendary.</div>') +
+        '<div class="ugrid">' + UNLOCKS.map(function (u) { return unlockTile(u, p.level); }).join("") + '</div>' +
+        '<button class="btn ghost" data-act="profile" style="margin-top:12px">Customize your explorer</button></div>' +
+      '<h2>Memories</h2><div class="panel" id="memories"><div class="note" style="margin:0">Loading…</div></div>' +
       '<h2>Attributes</h2><div class="panel">';
     ATTRS.forEach(function (a) {
       var x = p.attr[a.key], ai = attrInfo(x);
@@ -783,10 +1052,10 @@
     html += '</div><h2>How XP works</h2><div class="panel"><ul class="rules">' +
       '<li>Quest +' + XP.quest + ', seasonal quest +' + XP.seasonal + ', day trip outside the city +' + XP.far + '</li>' +
       '<li>First quest in a new region +' + XP.region + ', in a new area +' + XP.area + '</li>' +
-      '<li>A note in your journal +' + XP.journal + '</li>' +
+      '<li>A journal note +' + XP.journal + ', a photo +' + XP.photo + '</li>' +
+      '<li>Your class: +25% on its kind of quest</li>' +
       '<li>Weekly streak: +10% per week in a row, up to +50%</li>' +
       '<li>Badges: Bronze +100, Silver +200, Gold +400, Special +150</li></ul></div>';
-
     html += '<h2>' + esc(city.name) + '</h2><div class="panel profile">' + ring(s.pct, true) + '<div class="grow"><div class="lvx">' +
       esc(levelFor(s.pct)) + '</div><div class="ls">' + s.done + ' / ' + s.total + ' quests · ' +
       (city.subtitle ? esc(city.subtitle) + ' · ' : '') + esc(city.country) + '</div></div></div><div class="panel" style="margin-top:10px">';
@@ -795,14 +1064,15 @@
     });
     Object.keys(city.areas).forEach(function (a) { html += meterRow(city.areas[a], stats(inArea(a)), ""); });
     html += '</div><h2>All regions</h2><div class="panel">' + regionRows() + '</div>';
-    html += '<h2>Appearance</h2><div class="panel"><div class="seg">' +
+    html += '<h2>Settings</h2><div class="panel"><div class="setrow"><span>Appearance</span><div class="seg">' +
       ["light", "dark", "auto"].map(function (m) {
         return '<button class="' + (t === m ? "on" : "") + '" data-theme-set="' + m + '">' + m[0].toUpperCase() + m.slice(1) + '</button>';
-      }).join("") + '</div></div>';
+      }).join("") + '</div></div>' +
+      '<div class="setrow"><span>Sounds</span><button class="switch' + (store.sound === false ? "" : " on") + '" data-act="sound" aria-label="Sounds"><i></i></button></div></div>';
     return html + '<h2>Backup</h2><div class="panel">' +
       '<button class="btn ghost" data-act="export">Copy progress to clipboard</button>' +
       '<button class="btn ghost" data-act="import">Restore from backup</button>' +
-      '<p class="note">Your progress is stored on this device only. Version ' + APP_VERSION + '</p></div></div>';
+      '<p class="note">Progress and photos are stored on this device only (the backup text does not include photos). Version ' + APP_VERSION + '</p></div></div>';
   }
   function regionRows() {
     var html = "", last = null;
@@ -826,6 +1096,59 @@
       bar(s.pct) + '</div>';
   }
 
+  // ── Profile editor (also the first-run onboarding) ─────────
+  function pickBtn(type, value, face, cur, lockedAt) {
+    return '<button class="pk' + (cur === value ? " on" : "") + (lockedAt ? " locked" : "") + '" data-pick="' + type + '" data-v="' + esc(value) + '"' +
+      (lockedAt ? ' disabled' : '') + '>' + face + (lockedAt ? '<small>Lv ' + lockedAt + '</small>' : '') + '</button>';
+  }
+  function openProfile(first) {
+    var pr = profile(), lv = progress().level;
+    ui.draft = JSON.parse(JSON.stringify(pr));
+    var lockAt = function (u) { return u.level > lv ? u.level : 0; };
+    var html = (first ? '<div class="welcome">🧭</div>' : "") +
+      '<div class="cel-h">' + (first ? "Create your explorer" : "Your explorer") + '</div>' +
+      (first ? '<p class="note center" style="margin-top:-6px">Complete quests to earn XP. Level up to unlock avatars, frames, colours and titles.</p>' : "") +
+      '<label class="lbl" for="pname">Explorer name</label><input id="pname" class="inp" maxlength="24" placeholder="e.g. Tulip Ranger" value="' + esc(pr.name) + '">' +
+      '<label class="lbl">Avatar</label><div class="pick">' + UNLOCKS.filter(function (u) { return u.type === "avatar"; }).map(function (u) {
+        return pickBtn("avatar", u.value, '<span class="pe">' + u.value + '</span>', pr.avatar, lockAt(u));
+      }).join("") + '</div>' +
+      '<label class="lbl">Class <small>(a bonus for your travel style)</small></label><div class="pick cls">' + Object.keys(CLASSES).map(function (k) {
+        var c = CLASSES[k];
+        return pickBtn("cls", k, '<span class="pe">' + c.icon + '</span><span class="pc"><b>' + c.name + '</b><small>' + c.desc + '</small></span>', pr.cls, 0);
+      }).join("") + '</div>' +
+      '<label class="lbl" for="phome">Home region</label><select id="phome" class="inp">' + Object.keys(cities).map(function (id) {
+        return '<option value="' + id + '"' + ((pr.home || cityId) === id ? " selected" : "") + '>' + esc(cities[id].name) + ' (' + esc(cities[id].country) + ')</option>';
+      }).join("") + '</select>';
+    if (!first) {
+      html += '<label class="lbl">Frame</label><div class="pick">' + UNLOCKS.filter(function (u) { return u.type === "frame"; }).map(function (u) {
+          return pickBtn("frame", u.value, '<span class="pe fr fr-' + u.value + '">' + pr.avatar + '</span><small class="pn">' + u.name + '</small>', pr.frame, lockAt(u));
+        }).join("") + '</div>' +
+        '<label class="lbl">Colour</label><div class="pick">' + UNLOCKS.filter(function (u) { return u.type === "accent"; }).map(function (u) {
+          return pickBtn("accent", u.value, '<span class="pe sw" style="background:' + u.color + '"></span><small class="pn">' + u.name + '</small>', pr.accent, lockAt(u));
+        }).join("") + '</div>' +
+        '<label class="lbl">Title</label><div class="pick">' + pickBtn("title", "", '<span class="pt">Automatic</span>', pr.title, 0) +
+        TITLES.map(function (t) { return pickBtn("title", t[1], '<span class="pt">' + t[2] + ' ' + t[1] + '</span>', pr.title, t[0] > lv ? t[0] : 0); }).join("") + '</div>';
+    }
+    html += '<div class="actions"><button class="btn" data-act="save-profile" data-first="' + (first ? 1 : 0) + '">' + (first ? "Start exploring" : "Save") + '</button>' +
+      (first ? '<button class="btn plain" data-act="skip-profile">Skip for now</button>' : '<button class="btn plain" data-act="close">Cancel</button>') + '</div>';
+    closeSheetSilently();
+    showSheet("profile", html, true);
+  }
+  function saveProfile(first) {
+    var d = ui.draft || profile();
+    d.name = (document.getElementById("pname") || {}).value || "";
+    d.name = d.name.trim().slice(0, 24);
+    d.home = (document.getElementById("phome") || {}).value || d.home;
+    var homeChanged = d.home && d.home !== profile().home;
+    store.profile = d;
+    if (!store.profile.created) store.profile.created = Date.now();
+    save();
+    applyAccent();
+    closeSheet();
+    if (first && homeChanged) setCity(d.home, true);
+    toast(first ? "Welcome, " + (d.name || "explorer") + "! Your first quest awaits." : "Profile saved");
+  }
+
   // ── Quest card / sheet ─────────────────────────────────────
   // On the map the card floats above the nav bar so the map stays usable; elsewhere it is a modal bottom sheet.
   function showSheet(cls, html, modal) {
@@ -835,6 +1158,7 @@
     $sheet.hidden = false; $backdrop.hidden = card;
     document.body.classList.toggle("card-open", card);
     $sheet.scrollTop = 0;
+    fillPhotos($sheet);
   }
   function closeSheetSilently() {
     saveNote();
@@ -861,7 +1185,7 @@
     if (!q) return;
     if (ui.open && ui.open !== key) saveNote();
     ui.open = key;
-    var c = cities[q.cid], r = rec(q) || {};
+    var c = cities[q.cid], r = rec(q) || {}, done = isDone(q);
     var tags = (q.tags || []).slice();
     if (q.months) tags.push("season: " + seasonText(q));
     var maps = "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(q.q || q.title + " " + c.name);
@@ -871,7 +1195,7 @@
         '<span class="badge">' + CATS[q.cat].label + " · " + esc(c.areas[q.area]) + '</span>' +
         '<h3>' + esc(q.title) + '</h3></div></div>' + rewardHtml(q) +
       '<div class="two">' +
-        '<button class="btn' + (isDone(q) ? " ghost" : "") + '" data-act="toggle-open">' + (isDone(q) ? "✓ Done · undo" : "✓ I did it!") + '</button>' +
+        '<button class="btn' + (done ? " ghost" : " go") + '" data-act="toggle-open">' + (done ? "✓ Done · undo" : "✓ I did it!") + '</button>' +
         '<a class="btn ghost" href="' + maps + '" target="_blank" rel="noopener">Directions</a></div>' +
       (tags.length ? '<div class="tags">' + tags.map(function (t) { return '<span class="tag">' + esc(t) + '</span>'; }).join("") + '</div>' : "") +
       '<p>' + esc(q.desc) + '</p>' +
@@ -879,6 +1203,7 @@
       (q.src && q.src.length ? '<p class="src">Sources: ' + q.src.map(function (u) {
         return '<a href="' + esc(u) + '" target="_blank" rel="noopener">' + esc(u.replace(/^https?:\/\/(www\.)?/, "").split("/")[0]) + '</a>';
       }).join(" · ") + '</p>' : "") +
+      (done ? '<label class="lbl">Memories</label>' + photoRow(q.key) : "") +
       '<label class="lbl" for="note">Journal' + (r.at ? " · done on " + new Date(r.at).toLocaleDateString("en-GB") : "") +
         ' <small>(+' + XP.journal + ' XP once the quest is done)</small></label>' +
       '<textarea id="note" placeholder="How was it? Who came along?">' + esc(r.note || "") + '</textarea>' +
@@ -889,6 +1214,11 @@
     closeSheetSilently();
     setSelected(null);
     render();
+    if (ui.lastDone) {
+      var q = byKey[ui.lastDone];
+      ui.lastDone = null;
+      if (ui.tab === "map") setTimeout(function () { pulseAt(q); }, 150);
+    }
   }
   function saveNote() {
     var el = document.getElementById("note");
@@ -898,10 +1228,10 @@
     r = r || { at: 0 };
     if ((r.note || "") === note) return;
     r.note = note;
-    if (!r.at && !note) delete store.done[k]; else store.done[k] = r;
+    if (!r.at && !note && !r.photos) delete store.done[k]; else store.done[k] = r;
     save();
   }
-  // Marks a quest done or not done. Returns what was earned (null when undoing).
+  // Marks a quest done or not done. Returns what changed (null when undoing).
   function toggle(key) {
     var q = byKey[key];
     if (!q) return null;
@@ -909,42 +1239,66 @@
     var before = progress(), beforeBadges = earnedKeys(badges(c));
     var nowDone = !r.at;
     r.at = nowDone ? Date.now() : 0;
-    if (!r.at && !r.note) delete store.done[key]; else store.done[key] = r;
+    if (!r.at && !r.note && !r.photos) delete store.done[key]; else store.done[key] = r;
     save();
-    if (!nowDone) return null;
+    if (!nowDone) { toast("Marked as not done"); return null; }
     var after = progress();
     return {
-      gained: after.xp - before.xp,
+      q: q, before: before, after: after, gained: after.xp - before.xp,
       fresh: badges(c).filter(function (b) { return b.tier && !beforeBadges[b.id + ":" + b.tier]; }),
-      level: after.level > before.level ? after : null,
-      newTitle: after.title !== before.title
+      unlocks: UNLOCKS.filter(function (u) { return u.level > before.level && u.level <= after.level; })
     };
   }
-  function reward(res) {
+  // The "quest complete" moment: confetti, a chime, a buzz, the XP counting up and the level bar filling.
+  function showComplete(res) {
     if (!res) return;
-    if (res.fresh.length || res.level) celebrate(res);
-    else toast("+" + res.gained + " XP");
-  }
-  function celebrate(res) {
-    closeSheetSilently();
-    var html = "";
-    if (res.level) {
-      html += '<div class="levelup"><div class="burst">' + res.level.icon + '</div><div class="cel-h">Level up!</div>' +
-        '<div class="lu">You reached level ' + res.level.level + (res.newTitle ? ' and earned the title <b>' + esc(res.level.title) + '</b>' : ' · ' + esc(res.level.title)) + '</div></div>';
+    var q = res.q, b = res.before, a = res.after, lu = a.level > b.level;
+    var g = a.gains.filter(function (x) { return x.q === q; })[0];
+    ui.lastDone = q.key;
+    var html = '<div class="qc">' +
+      '<div class="qc-badge ' + q.cat + '"><svg viewBox="0 0 52 52"><circle cx="26" cy="26" r="23"/><path d="M15 27l7.5 7.5L37 19"/></svg></div>' +
+      '<div class="qc-k">Quest complete</div><h3 class="qc-t">' + esc(q.title) + '</h3>' +
+      '<div class="qc-xp">+<b id="qcxp">0</b> XP</div>' +
+      '<div class="qc-parts">' + (g ? g.parts.map(function (p, i) {
+        return '<span style="animation-delay:' + (350 + i * 110) + 'ms">' + esc(p[0]) + ' +' + p[1] + '</span>';
+      }).join("") : "") + '</div>' +
+      '<div class="qc-lv"><span id="qclv">Lv ' + b.level + '</span><div class="meter xp"><i id="qcbar" style="width:' + b.pct + '%"></i></div><span id="qcnx">Lv ' + (b.level + 1) + '</span></div>';
+    if (lu) {
+      html += '<div class="levelup"><div class="burst">' + profile().avatar + '</div><div class="cel-h">Level ' + a.level + '!</div>' +
+        '<div class="lu">' + (a.title !== b.title ? 'New title: <b>' + esc(a.title) + '</b>' : esc(a.title)) + '</div>' +
+        (res.unlocks.length ? '<div class="unl">' + res.unlocks.map(function (u) { return '<span>🔓 ' + esc(unlockLabel(u)) + '</span>'; }).join("") + '</div>' : "") + '</div>';
     }
     if (res.fresh.length) {
-      html += '<div class="cel-h' + (res.level ? " small" : "") + '">' + (res.fresh.length > 1 ? "New badges!" : "New badge!") + '</div>' +
-        res.fresh.map(function (b) {
-          var cls = b.max === 1 ? "gold" : TIERS[b.tier - 1].key;
-          var xp = b.max === 1 ? SPECIAL_XP : TIERS[b.tier - 1].xp;
-          return '<div class="cel ' + cls + '"><div class="bi">' + b.icon + '</div><div><div class="bn">' + esc(b.name) +
-            (b.max > 1 ? " · " + TIERS[b.tier - 1].label : "") + '</div><div class="bd">' + esc(b.desc) + ' · +' + xp + ' XP</div></div></div>';
+      html += '<div class="cel-h small">' + (res.fresh.length > 1 ? "New badges!" : "New badge!") + '</div>' +
+        res.fresh.map(function (bd) {
+          var cls = bd.max === 1 ? "gold" : TIERS[bd.tier - 1].key;
+          var xp = bd.max === 1 ? SPECIAL_XP : TIERS[bd.tier - 1].xp;
+          return '<div class="cel ' + cls + '"><div class="bi">' + bd.icon + '</div><div><div class="bn">' + esc(bd.name) +
+            (bd.max > 1 ? " · " + TIERS[bd.tier - 1].label : "") + '</div><div class="bd">' + esc(bd.desc) + ' · +' + xp + ' XP</div></div></div>';
         }).join("");
     }
-    html += '<p class="note center">+' + res.gained + ' XP in total</p>' +
-      '<div class="actions"><button class="btn" data-act="close">Awesome!</button>' +
-      (res.level ? '<button class="btn ghost" data-act="to-hero">See my hero</button>' : '<button class="btn ghost" data-act="to-badges">See my badges</button>') + '</div>';
-    showSheet("celebrate", html, true);
+    html += '<div class="qc-mem"><div class="qc-k2">Capture the memory</div>' + photoRow(q.key) +
+      '<textarea id="note" placeholder="A line for your journal (+' + XP.journal + ' XP)">' + esc((rec(q) || {}).note || "") + '</textarea></div>' +
+      '<div class="actions"><button class="btn" data-act="close">Done</button>' +
+      (lu || res.unlocks.length ? '<button class="btn ghost" data-act="to-hero">See my hero</button>' : "") + '</div></div>';
+    closeSheetSilently();
+    showSheet("complete", html, true);
+    ui.open = q.key;
+    var big = lu || res.fresh.length > 0;
+    chime(big); buzz(lu ? [40, 60, 40, 60, 140] : [30, 50, 80]); confetti(lu);
+    countUp(document.getElementById("qcxp"), 0, res.gained, 1100);
+    var barEl = document.getElementById("qcbar");
+    setTimeout(function () {
+      if (!barEl) return;
+      if (!lu) { barEl.style.width = a.pct + "%"; return; }
+      barEl.style.width = "100%";
+      setTimeout(function () {
+        barEl.style.transition = "none"; barEl.style.width = "0%";
+        document.getElementById("qclv").textContent = "Lv " + a.level;
+        document.getElementById("qcnx").textContent = "Lv " + (a.level + 1);
+        requestAnimationFrame(function () { barEl.style.transition = ""; barEl.style.width = a.pct + "%"; });
+      }, 750);
+    }, 450);
   }
   function suggest() {
     var pool = city.quests.filter(function (q) { return !isDone(q) && inSeason(q); });
@@ -975,22 +1329,33 @@
       var s = JSON.parse(text);
       if (!s || typeof s.done !== "object") throw new Error("format");
       Object.keys(s.done).forEach(function (k) { store.done[k] = s.done[k]; });
-      save(); render(); toast("Backup restored");
+      if (s.profile && !store.profile) store.profile = s.profile;
+      save(); applyAccent(); render(); toast("Backup restored");
     } catch (e) { toast("Could not read the backup"); }
   }
 
   // ── Events ─────────────────────────────────────────────────
   document.addEventListener("click", function (e) {
-    var t = e.target.closest("[data-toggle],[data-open],[data-f],[data-tab],[data-act],[data-city],[data-theme-set]");
+    var t = e.target.closest("[data-toggle],[data-open],[data-f],[data-tab],[data-act],[data-city],[data-theme-set],[data-pick],[data-photo-id]");
     if (!t) { if (e.target === $backdrop) closeSheet(); return; }
-    var res;
     if (t.dataset.toggle) {
       e.stopPropagation();
-      res = toggle(t.dataset.toggle); render(); reward(res);
+      var res = toggle(t.dataset.toggle);
+      render();
+      showComplete(res);
+      return;
+    }
+    if (t.dataset.photoId) { openPhoto(t.dataset.photoId, t.dataset.photoKey); return; }
+    if (t.dataset.pick) {
+      if (t.disabled) return;
+      ui.draft = ui.draft || profile();
+      ui.draft[t.dataset.pick] = t.dataset.v;
+      [].forEach.call(t.parentNode.querySelectorAll(".pk"), function (n) { n.classList.remove("on"); });
+      t.classList.add("on");
       return;
     }
     if (t.dataset.themeSet) { store.theme = t.dataset.themeSet; save(); switchTheme(); render(); return; }
-    if (t.dataset.open) { openSheet(t.dataset.open); return; }
+    if (t.dataset.open) { closeSheetSilently(); openSheet(t.dataset.open); return; }
     if (t.dataset.city) {
       closeSheetSilently();
       ui.tab = "map";
@@ -1012,9 +1377,13 @@
       case "tilt": toggleTilt(); break;
       case "locate": locate(); break;
       case "close": closeSheet(); break;
-      case "toggle-open":
-        saveNote(); res = toggle(ui.open); closeSheet(); reward(res);
+      case "toggle-open": {
+        saveNote();
+        var r2 = toggle(ui.open);
+        closeSheet();
+        showComplete(r2);
         break;
+      }
       case "to-badges": closeSheet(); ui.tab = "badges"; render(); window.scrollTo(0, 0); break;
       case "to-hero": closeSheet(); ui.tab = "hero"; render(); window.scrollTo(0, 0); break;
       case "to-map": {
@@ -1023,9 +1392,19 @@
         if (q) openSheet(q.key);
         break;
       }
+      case "profile": openProfile(false); break;
+      case "save-profile": saveProfile(t.dataset.first === "1"); break;
+      case "skip-profile": store.profile = profile(); store.profile.created = Date.now(); save(); closeSheet(); break;
+      case "photo-del": if (confirm("Delete this photo? This cannot be undone.")) deletePhoto(t.dataset.id, t.dataset.key); break;
+      case "sound": store.sound = store.sound === false; save(); render(); if (store.sound) chime(false); break;
       case "export": exportData(); break;
       case "import": importData(); break;
     }
+  });
+  document.addEventListener("change", function (e) {
+    var key = e.target && e.target.dataset && e.target.dataset.photo;
+    // Copy the files first: clearing the input empties its live FileList.
+    if (key && e.target.files && e.target.files.length) { addPhotos(key, [].slice.call(e.target.files)); e.target.value = ""; }
   });
   // Android back button / Esc closes an open card (the Android shell calls this).
   window.cdBack = function () { if (!$sheet.hidden) { closeSheet(); return true; } return false; };
@@ -1039,7 +1418,9 @@
   }
 
   applyTheme();
+  applyAccent();
   render();
+  if (!store.profile) openProfile(true);
 
   // The Android shell manages its own offline copy; the service worker is for browsers only.
   var inShell = navigator.userAgent.indexOf("CityDiscoveryShell") !== -1;

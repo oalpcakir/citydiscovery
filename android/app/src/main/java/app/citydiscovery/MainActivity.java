@@ -7,6 +7,7 @@ import android.content.pm.PackageManager;
 import android.net.Uri;
 import android.os.Bundle;
 import android.webkit.GeolocationPermissions;
+import android.webkit.ValueCallback;
 import android.webkit.WebChromeClient;
 import android.webkit.WebResourceRequest;
 import android.webkit.WebResourceResponse;
@@ -34,6 +35,8 @@ public class MainActivity extends Activity {
     private static final String BASE = BuildConfig.APP_URL;
     private static final long OFFLINE_BACKOFF_MS = 30_000;
     private static final int REQ_LOCATION = 1;
+    private static final int REQ_FILE = 2;
+    private ValueCallback<Uri[]> fileCallback;
 
     private WebView web;
     private File cacheDir;
@@ -71,6 +74,22 @@ public class MainActivity extends Activity {
                         Manifest.permission.ACCESS_FINE_LOCATION, Manifest.permission.ACCESS_COARSE_LOCATION }, REQ_LOCATION);
                 }
             }
+
+            // "Add photo" on a quest: open the system picker (gallery, files, or camera apps that offer it).
+            @Override
+            public boolean onShowFileChooser(WebView view, ValueCallback<Uri[]> callback, FileChooserParams params) {
+                if (fileCallback != null) fileCallback.onReceiveValue(null);
+                fileCallback = callback;
+                try {
+                    Intent pick = params.createIntent();
+                    if (params.getMode() == FileChooserParams.MODE_OPEN_MULTIPLE) pick.putExtra(Intent.EXTRA_ALLOW_MULTIPLE, true);
+                    startActivityForResult(Intent.createChooser(pick, "Add a photo"), REQ_FILE);
+                    return true;
+                } catch (Exception e) {
+                    fileCallback = null;
+                    return false;
+                }
+            }
         });
         web.setWebViewClient(new Client());
         setContentView(web);
@@ -91,6 +110,24 @@ public class MainActivity extends Activity {
         File[] kids = f.listFiles();
         if (kids != null) for (File k : kids) deleteTree(k);
         f.delete();
+    }
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+        if (requestCode != REQ_FILE || fileCallback == null) return;
+        Uri[] result = null;
+        if (resultCode == RESULT_OK && data != null) {
+            if (data.getClipData() != null) {
+                int n = data.getClipData().getItemCount();
+                result = new Uri[n];
+                for (int i = 0; i < n; i++) result[i] = data.getClipData().getItemAt(i).getUri();
+            } else if (data.getData() != null) {
+                result = new Uri[] { data.getData() };
+            }
+        }
+        fileCallback.onReceiveValue(result);
+        fileCallback = null;
     }
 
     @Override

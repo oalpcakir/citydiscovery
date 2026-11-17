@@ -1,9 +1,9 @@
 {
-  "name": "Şehir Keşfi",
-  "short_name": "Şehir Keşfi",
+  "name": "City Discovery",
+  "short_name": "City Discovery",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#0b6b3a",
-  "theme_color": "#0b6b3a",
+  "background_color": "#0e9f6e",
+  "theme_color": "#0e9f6e",
   "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }]
 }

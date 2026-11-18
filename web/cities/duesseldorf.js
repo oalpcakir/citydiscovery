@@ -36,9 +36,8 @@ window.CITIES.duesseldorf = {
     roentgenmuseum: [51.1937, 7.2595], westlichsterpunkt: [51.0512, 5.8663], klingenmuseum: [51.2097, 7.0725],
     burgerbrezel: [51.1366, 7.1482], bergischekaffeetafel: [51.1379, 7.1523], wuppertalerbrauhaus: [51.2725, 7.2011],
     hutmacher: [51.2667, 7.1449], hardtterrassen: [51.2604, 7.1597], katzengold: [51.2558, 7.1364],
-    kaffeehaus1571: [51.1972, 6.6888], schwebebahn: [51.2556, 7.1467], legobruecke: [51.2675, 7.1608],
-    neanderthalmuseum: [51.2268, 6.9497], krickenbeckerseen: [51.3605, 6.2520], schuetzenfestneuss: [51.1981, 6.6930],
-    schwebefaehre: [51.1621, 7.1369]
+    schwebebahn: [51.2556, 7.1467], legobruecke: [51.2675, 7.1608], neanderthalmuseum: [51.2268, 6.9497],
+    krickenbeckerseen: [51.3605, 6.2520], schuetzenfestneuss: [51.1981, 6.6930], schwebefaehre: [51.1621, 7.1369]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -217,9 +216,6 @@ window.CITIES.duesseldorf = {
     { id: "katzengold", cat: "ye", area: "cevre", title: "Linger at Katzengold in the Luisenviertel",
       desc: "Wuppertal's Luisenviertel is a lively old-town quarter of small shops and cafés, and Katzengold is one of its best-known hangouts.",
       tip: "Afterwards climb the steps up to the Ölberg, the old workers' hill behind the quarter.", q: "Katzengold Wuppertal", src: ["https://en.wikivoyage.org/wiki/Wuppertal", "https://travel-du.de/en/18181/wuppertal-sights/"] },
-    { id: "kaffeehaus1571", cat: "ye", area: "cevre", title: "Eat cake in Neuss's oldest timber-framed house",
-      desc: "Kaffeehaus 1571 in Neuss serves homemade cakes and coffee inside the city's oldest half-timbered house, a short walk from the Quirinus-Münster.",
-      tip: "Pair it with a look into the late Romanesque Quirinus-Münster and the Obertor, the last of Neuss's medieval gates.", q: "Kaffeehaus 1571 Michaelstraße Neuss", src: ["https://en.wikivoyage.org/wiki/Neuss"] },
     { id: "schwebebahn", cat: "dene", area: "cevre", title: "Ride the Wuppertal Schwebebahn end to end",
       desc: "Since 1901 Wuppertal's suspension railway has hung upside down over the Wupper river, swaying past 20 stations over 13 kilometres, still part of everyday transport.",
       tip: "Sit at the very front or back for the view; a round trip from Vohwinkel to Oberbarmen takes about an hour.", q: "Schwebebahn Hauptbahnhof Wuppertal", tags: ["rainy day"], src: ["https://de.wikipedia.org/wiki/Wuppertaler_Schwebebahn", "https://travel-du.de/en/18181/wuppertal-sights/"] },

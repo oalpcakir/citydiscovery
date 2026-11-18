@@ -30,7 +30,7 @@ window.CITIES.aachen = {
     roteshausmonschau: [50.5562, 6.2420], kraftwerkheimbach: [50.6330, 6.4700], burgnideggen: [50.6900, 6.4787],
     mokkakirche: [50.6591, 6.4096], indemann: [50.8500, 6.3669], zitadellejuelich: [50.9256, 6.3601],
     burgstolberg: [50.7669, 6.2328], burgrode: [50.8669, 6.0900], toepfereilangerwehe: [50.8156, 6.3546],
-    senfmuehle: [50.5628, 6.2384], duetchenkaulard: [50.5555, 6.2413], vennbrocken: [50.5568, 6.2410],
+    senfmuehle: [50.5628, 6.2384], duetchenkaulard: [50.5555, 6.2413], vennbrocken: [50.5562, 6.2405],
     flammkuchenburg: [50.6331, 6.4800], mariawald: [50.6250, 6.4990], weihnachtsmarktmonschau: [50.5553, 6.2414],
     narzissenperlenbach: [50.5262, 6.2554], rurseeschiff: [50.6150, 6.3780], annakirmes: [50.7964, 6.4741],
     papiermuseum: [50.8008, 6.4794], blausteinsee: [50.8550, 6.2742]
@@ -166,7 +166,7 @@ window.CITIES.aachen = {
       tip: "The terrace looks straight onto the half-timbered square; arrive before midday on weekends.", q: "Café Kaulard, Markt 8, Monschau", src: ["https://en.wikivoyage.org/wiki/Monschau"] },
     { id: "vennbrocken", cat: "ye", area: "cevre", title: "Take home Monschauer Venn-Brocken",
       desc: "These square chocolates are shaped like the blocks of peat once cut on the High Fens above Monschau, a sweet souvenir sold in the old town.",
-      tip: "The Schokoladen Café on Stadtstraße is a good place to find them, along with a hot chocolate.", q: "Schokoladen Café, Stadtstraße 35, Monschau", src: ["https://en.wikivoyage.org/wiki/Monschau"] },
+      tip: "Café Kaulard on the Markt is known for its Monschauer Vennbrocken, so stop there for a box and a coffee.", q: "Café Kaulard, Markt 8, Monschau", src: ["https://en.wikivoyage.org/wiki/Monschau"] },
     { id: "flammkuchenburg", cat: "ye", area: "cevre", title: "Eat Flammkuchen in the courtyard of Burg Hengebach",
       desc: "Heimbach's castle dates back to around 1000 and now houses an art academy; in its courtyard the Flammkuchenburg bakes thin tarts for hikers and day-trippers.",
       tip: "Combine it with the Art Nouveau power station a short walk away along the Rur.", q: "Burg Hengebach, Heimbach", src: ["https://de.wikivoyage.org/wiki/Heimbach_(Eifel)"] },

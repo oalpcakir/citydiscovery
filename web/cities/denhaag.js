@@ -42,12 +42,11 @@ window.CITIES.denhaag = {
     oudscheveningen: [52.1064, 4.2733], muzee: [52.1081, 4.2829], rosarium: [52.1048, 4.2903],
     louwman: [52.0994, 4.3514], vankleef: [52.0733, 4.3084], dungelmann: [52.0788, 4.3090],
     fullmooncity: [52.0753, 4.3117], cafesoof: [52.0767, 4.3068], tokofrederik: [52.0873, 4.3109],
-    keratondamai: [52.0848, 4.2817], addoel: [52.0688, 4.2901], waterkant: [52.1010, 4.2935],
-    hetpuntje: [52.1260, 4.3002], hessing: [52.0859, 4.3366], kompaan: [52.0670, 4.3463],
-    paleistuin: [52.0810, 4.3043], grotekerktoren: [52.0775, 4.3069], kloosterkerkbach: [52.0820, 4.3096],
-    tramuseum: [52.0622, 4.3091], vulkaan: [52.0777, 4.2362], pierreuzenrad: [52.1178, 4.2800],
-    sinterklaasintocht: [52.1012, 4.2680], zuiderhavenhoofd: [52.1005, 4.2590], scheveningsebosjes: [52.0932, 4.2939],
-    binckhorststreetart: [52.0667, 4.3481]
+    keratondamai: [52.0848, 4.2817], waterkant: [52.1010, 4.2935], hetpuntje: [52.1260, 4.3002],
+    hessing: [52.0859, 4.3366], kompaan: [52.0670, 4.3463], paleistuin: [52.0810, 4.3043],
+    grotekerktoren: [52.0775, 4.3069], kloosterkerkbach: [52.0820, 4.3096], tramuseum: [52.0622, 4.3091],
+    vulkaan: [52.0777, 4.2362], pierreuzenrad: [52.1178, 4.2800], sinterklaasintocht: [52.1012, 4.2680],
+    zuiderhavenhoofd: [52.1005, 4.2590], scheveningsebosjes: [52.0932, 4.2939], binckhorststreetart: [52.0667, 4.3481]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -259,9 +258,6 @@ window.CITIES.denhaag = {
     { id: "keratondamai", cat: "ye", area: "bati", title: "Eat East Javanese at Keraton Damai",
       desc: "Near the Peace Palace, this Indonesian restaurant cooks East Javanese dishes the way the owners' mothers made them. Warm service, home-style flavours.",
       tip: "Combine it with an evening walk past the Peace Palace once the lights come on.", q: "Keraton Damai Groot Hertoginnelaan 57 Den Haag", src: ["https://denhaag.com/nl/tips/de-beste-indonesische-restaurants-en-tokos-volgens-haagse-locals"] },
-    { id: "addoel", cat: "ye", area: "bati", title: "Have roti at Tropisch Huis Addoel",
-      desc: "For more than four decades this family place near the Haagse Markt has been serving Surinamese food to the neighbourhood. It is a taste of the Schilderswijk and Transvaal at their most authentic.",
-      tip: "Pair it with a morning at the Haagse Markt, a few minutes' walk away.", q: "Tropisch Huis Addoel Paul Krugerplein 22 Den Haag", src: ["https://denhaag.com/en/the-hague-districts/schilderswijk"] },
     { id: "waterkant", cat: "ye", area: "scheveningen", title: "Pull yourself across to De Waterkant",
       desc: "This little tearoom hidden in Westbroekpark is reached by a hand-pulled ferry from the Haringkade. Scones, high tea and rowing boats for hire make it a summer favourite.",
       tip: "It only opens in the warm season, roughly from King's Day to Prinsjesdag.", q: "Theesalon De Waterkant Westbroekpark Den Haag", months: [4, 5, 6, 7, 8, 9], src: ["https://denhaag.com/nl/theeschenkerij-en-roeibotenverhuur-waterkant", "https://denhaag.com/en/hidden-gems-in-the-hague"] },

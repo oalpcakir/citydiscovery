@@ -49,7 +49,7 @@ window.CITIES.koeln = {
     kvolksgarten: [50.9212, 6.9474], kkebapland: [50.9516, 6.9145], khabibi: [50.9295, 6.9378],
     komakleinmann: [50.9298, 6.9387], kpuetz: [50.9330, 6.9390], kkiosk: [50.9367, 6.9358],
     keisengeln: [50.9637, 6.9528], kpetek: [50.9388, 7.0098], kmevlana: [50.9655, 7.0130],
-    kbootshaus: [50.8730, 7.0045], kquetsch: [50.8914, 6.9930], eschbachtalsperre: [51.1592, 7.2366]
+    kquetsch: [50.8914, 6.9930], eschbachtalsperre: [51.1592, 7.2366]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -337,9 +337,6 @@ window.CITIES.koeln = {
     { id: "kmevlana", cat: "ye", area: "veedel", title: "Eat grilled meat on Keupstraße",
       desc: "Mülheim's Keupstraße is lined with Turkish and Kurdish bakeries, jewellers and grill restaurants. Mevlana is a favourite for grilled dishes.",
       tip: "Walk the whole street before you choose; finish with tea and sweets at one of the pastry shops.", q: "Mevlana, Keupstraße 47, Köln", src: ["https://koeln.mitvergnuegen.com/2021/flaniervergnuegen-ein-spaziergang-durch-muelheim"] },
-    { id: "kbootshaus", cat: "ye", area: "veedel", title: "Eat Reibekuchen at the Sürther Bootshaus",
-      desc: "In quiet Sürth, the 'Côte da'Sürth' of Cologne, a boathouse terrace sits right on the Rhine. Mondays are for Reibekuchen, crispy potato fritters with apple sauce.",
-      tip: "Walk or cycle there along the river from Rodenkirchen; the Sürther Aue nature reserve lies just beyond.", q: "Sürther Bootshaus, Sürther Leinpfad 1, Köln", src: ["https://koeln.mitvergnuegen.com/2024/11-dinge-suerth/", "https://koeln.mitvergnuegen.com/2021/unterschaetzte-koelner-veedel/"] },
     { id: "kquetsch", cat: "ye", area: "veedel", title: "Have a Kölsch with Rhine view at Brauhaus Quetsch",
       desc: "On Rodenkirchen's main street, Brauhaus Quetsch has a beer garden looking out over the river and serves regional Brauhaus food.",
       tip: "On Sundays try the Bergische Waffeln, waffles with cherries and cream from the hills east of Cologne.", q: "Brauhaus Quetsch, Hauptstraße 7, Köln-Rodenkirchen", src: ["https://koeln.mitvergnuegen.com/2025/rodenkirchen/"] },

@@ -37,3 +37,7 @@ XP comes from quests (100, plus bonuses for seasonal quests, day trips, the firs
    To fill a "coming soon" region, give its hub a `new` block (levels and areas) in `tools/hubs.json` and run `tools/reassign_quests.py`; it creates the empty region file.
 5. Run `python tools/find_photos.py` to look up cover photos for the new quests (it only looks up quests it has not seen before).
 6. Commit and push; the site and the app update within a minute.
+
+## Keeping quests current
+
+`python tools/closedcheck.py > closed.txt` compares every eat & drink quest with OpenStreetMap (open, closed or no match nearby) and lists quests whose text mentions a year. The doubtful ones get checked by hand or by a researcher, and `python tools/apply_audit.py audit.json` removes the closed ones and applies text fixes (format in the script).

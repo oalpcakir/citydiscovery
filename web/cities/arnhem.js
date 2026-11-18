@@ -37,8 +37,8 @@ window.CITIES.arnhem = {
     buren: [51.9113, 5.3330], bronkhorst: [52.0761, 6.1791], huisbergh: [51.8745, 6.2412],
     willibrordabdij: [51.9514, 6.3675], walterbier: [51.9663, 6.2875], jachthut: [51.5390, 6.1530],
     hamert: [51.5192, 6.1743], grebbeberg: [51.9553, 5.6000], cunerakerk: [51.9569, 5.5642],
-    zutphen: [52.1398, 6.1958], pelikaan: [52.1395, 6.1983], cambrinus: [52.1383, 6.1967],
-    zutphenhofjes: [52.1412, 6.1970], maashorst: [51.6964, 5.6001]
+    zutphen: [52.1398, 6.1958], pelikaan: [52.1395, 6.1983], zutphenhofjes: [52.1412, 6.1970],
+    maashorst: [51.6964, 5.6001]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -127,9 +127,9 @@ window.CITIES.arnhem = {
     { id: "localsarnhem", cat: "ye", area: "arnhem", title: "Eat hyper-local at LOCALS",
       desc: "The restaurant in Hotel Haarhuis next to the station cooks with produce from the region and grows part of it in its own vertical farm. It is Arnhem's showcase for Gelderland flavours.",
       tip: "Finish with a drink at BLOU, the rooftop bar of the same hotel, for a view over the city.", q: "LOCALS Hotel Haarhuis Arnhem", src: ["https://aliciavalenski.substack.com/p/what-to-eat-drink-see-and-do-in-arnhem"] },
-    { id: "molenplaats", cat: "ye", area: "sonsbeek", title: "Buy bread from the Sonsbeek water mill",
-      desc: "At the edge of Sonsbeek park a working water mill still grinds grain, and the bakery beside it sells organic flour and baked goods made from it.",
-      tip: "Grab something warm and eat it on the grass by the mill pond before heading up into the park.", q: "Molenplaats Sonsbeek Arnhem", src: ["https://en.wikivoyage.org/wiki/Arnhem"] },
+    { id: "molenplaats", cat: "ye", area: "sonsbeek", title: "Visit the white water mill in Sonsbeek",
+      desc: "At the edge of Sonsbeek park stands De Witte Watermolen, a historic water mill now part of Natuurcentrum Arnhem. The Molenschuur next to it serves local and organic food and drinks.",
+      tip: "Have a drink at the Molenschuur by the mill pond, then walk up into the park towards the Belvédère.", q: "De Witte Watermolen Sonsbeek Arnhem", src: ["https://en.wikivoyage.org/wiki/Arnhem"] },
     { id: "watermuseum", cat: "dene", area: "sonsbeek", title: "Play with water at the Watermuseum",
       desc: "In a country that lives below sea level, this hands-on museum in Sonsbeek explains where water comes from and where it goes, sewers included. Lots of buttons, pumps and splashing.",
       tip: "Locals like the lawns outside for a picnic afterwards; it sits right next to the Sonsbeek water mill.", q: "Nederlands Watermuseum Arnhem", tags: ["rainy day"], src: ["https://en.wikivoyage.org/wiki/Arnhem", "https://aliciavalenski.substack.com/p/what-to-eat-drink-see-and-do-in-arnhem"] },
@@ -208,9 +208,6 @@ window.CITIES.arnhem = {
     { id: "pelikaan", cat: "ye", area: "cevre", title: "Sip coffee at De Pelikaan in Zutphen",
       desc: "De Pelikaan has been roasting coffee and selling tea since 1816 and is a royal warrant holder. Its old-fashioned shop has a small schenkerij where you drink the house blends with something sweet.",
       tip: "Take a bag of a house blend home; Zutphen is about 45 minutes from Zwolle by train along the IJssel.", q: "De Pelikaan Pelikaanstraat Zutphen", src: ["https://www.de-pelikaan.nl/", "https://www.dutchnews.nl/2025/01/dutch-destinations-go-medieval-in-the-city-of-towers/"] },
-    { id: "cambrinus", cat: "ye", area: "cevre", title: "Drink a town beer at Cambrinus in Zutphen",
-      desc: "Hanseatic Zutphen had around forty breweries; Stadsbrouwerij Cambrinus in the heart of town is the one that survived, with a dark, medieval-feeling interior.",
-      tip: "Try the house brews after a walk past Zutphen's towers and hofjes.", q: "Stadsbrouwerij Cambrinus Zutphen", src: ["https://www.visithansaholland.com/hansa-towns/zutphen/"] },
     { id: "zutphenhofjes", cat: "dene", area: "cevre", title: "Go hofje hunting in Zutphen",
       desc: "Behind Zutphen's street fronts hide almshouse courtyards built for the elderly, poor and widowed, the oldest being the Oude Bornhof from 1320. Ruitershofje, Agnietenhof and Luthers Hofje are other finds.",
       tip: "Courtyards are lived in: go quietly, and finish with the Martinetsingel walk along the old walls.", q: "Oude Bornhof Zutphen", tags: ["free"], src: ["https://www.dutchnews.nl/2025/01/dutch-destinations-go-medieval-in-the-city-of-towers/"] },

@@ -212,7 +212,7 @@ window.CITIES.brussel = {
       desc: "This little museum is filled with over 2,000 Belgian beer bottles, old brewing gear and a little tavern, and a tasting is part of the visit.",
       tip: "It only opens a couple of afternoons a week, so check the days before heading out.", q: "Musée de la Bière de Schaerbeek, Avenue Louis Bertrand 33, Schaerbeek", tags: ["rainy day"], src: ["https://en.wikivoyage.org/wiki/Brussels/Schaarbeek"] },
     { id: "chasseursmarket", cat: "ye", area: "avrupa", title: "Graze the Friday evening market at Chasseurs Ardennais",
-      desc: "Every Friday evening this little Schaerbeek square turns into a neighbourhood party, with food stalls, food trucks and mobile wine bars instead of vegetables.",
+      desc: "Every Friday from mid afternoon into the evening this little Schaerbeek square turns into a neighbourhood party, with food trucks and wine stalls next to the farmers, cheesemakers and bakers.",
       tip: "Come straight after work and bring a friend; it is a short walk from Square Ambiorix.", q: "Place des Chasseurs Ardennais, Schaerbeek", tags: ["free"], src: ["https://www.timeout.com/brussels/things-to-do/best-things-to-do-in-brussels"] },
     { id: "fritland", cat: "ye", area: "merkez", title: "Brave a mitraillette at Fritland",
       desc: "The mitraillette, a baguette stuffed with meat, frites and sauce, is Brussels' ultimate late-night snack, and this busy friterie near the Bourse is the classic place to try one.",

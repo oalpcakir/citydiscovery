@@ -30,8 +30,8 @@ window.CITIES.leeuwarden = {
     sloten: [52.8935, 5.6465], vrouwtjestavoren: [52.8861, 5.3584], jopiehuisman: [52.9808, 5.4447],
     brandaris: [53.3603, 5.2142], wieuwerdmummies: [53.1094, 5.6899], usheit: [53.0611, 5.5338],
     drabbelkoek: [53.0334, 5.6668], museumjoure: [52.9674, 5.7960], schoemrakker: [53.3591, 5.2147],
-    ambrosijn: [53.4793, 6.1605], wadlopen: [53.3684, 5.9051], fierljeppen: [53.0096, 5.6300],
-    fietselfsteden: [53.0621, 5.5233], thialf: [52.9390, 5.9424], paardenreddingboot: [53.4430, 5.6366]
+    wadlopen: [53.3684, 5.9051], fierljeppen: [53.0096, 5.6300], fietselfsteden: [53.0621, 5.5233],
+    thialf: [52.9390, 5.9424], paardenreddingboot: [53.4430, 5.6366]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -156,9 +156,6 @@ window.CITIES.leeuwarden = {
     { id: "schoemrakker", cat: "ye", area: "cevre", title: "Drink island beer brewed with Terschelling dune water",
       desc: "Behind restaurant Storm in West-Terschelling, the small Schoemrakker brewery makes its beer the traditional way with water from the island's dunes. You'll find it in cafés all over the island.",
       tip: "Order one with a meal at Storm on the Torenstraat, right next to the Brandaris.", q: "Restaurant Storm Torenstraat 27 West-Terschelling", src: ["https://www.vvvterschelling.com/companies/bierbrouwerij-schoemrakker"] },
-    { id: "ambrosijn", cat: "ye", area: "cevre", title: "Eat island flavours at Ambrosijn on Schiermonnikoog",
-      desc: "In the car-free village, Ambrosijn is a restaurant, ice cream parlour and small hotel in one, cooking with seasonal produce and seafood from around the island.",
-      tip: "Come for lunch and the shellfish broth, or just grab an ice cream on your bike ride through the village.", q: "Ambrosijn Langestreek 13 Schiermonnikoog", src: ["https://favorflav.com/en/new/the-best-food-on-the-wadden-islands/", "https://www.inyourpocket.com/groningen/Ambrosijn_129996v"] },
     { id: "wadlopen", cat: "dene", area: "cevre", title: "Walk across the Wadden Sea seabed from Holwerd",
       desc: "At low tide you can hike over the mudflats of the Wadden Sea, a UNESCO World Heritage Site, wading through channels toward Ameland or the sandbank of the Engelsmanplaat. With luck you see seals along the way.",
       tip: "Only go with a licensed guide; Holwerd and Paesens-Moddergat are the usual starting points, and old trainers and shorts are the right outfit.", q: "Holwerd", src: ["https://en.wikipedia.org/wiki/Wadlopen", "https://en.wikivoyage.org/wiki/Friesland"] },

@@ -155,7 +155,7 @@ window.CITIES.groningen = {
       desc: "A charming coffee and tea house in the Westerkwartier, known for warm homemade poffertjes with butter and brown sugar. A favourite stop on a drive or ride west of the city.",
       tip: "Combine it with the windmill in Noordhorn and the farm shop there on the way back.", q: "Tante Til Enumatil", src: ["https://www.visitgroningen.nl/en/blogs/road-trip-north-groningen"] },
     { id: "lauwersoogvis", cat: "ye", area: "cevre", title: "Eat fresh fish in Lauwersoog harbour",
-      desc: "Lauwersoog is the fishing harbour at the edge of the Lauwersmeer national park, where the catch from the Wadden and North Sea comes in. The fish market by the boats is the place for a fresh lekkerbekje or kibbeling.",
+      desc: "Lauwersoog is the fishing harbour at the edge of the Lauwersmeer national park, where the catch from the Wadden and North Sea comes in. The fish restaurants next to the auction buy straight from the boats, so it is the place for a fresh lekkerbekje or kibbeling.",
       tip: "Afterwards climb the dyke on the Strandweg for a 360 degree view over the sea and the national park.", q: "Haven Lauwersoog", src: ["https://www.visitgroningen.nl/en/blogs/road-trip-north-groningen"] },
     { id: "lauwersmeersterren", cat: "dene", area: "cevre", title: "Stargaze in Lauwersmeer national park",
       desc: "Lauwersmeer is one of the darkest places in the Netherlands and an official Dark Sky Park. Viewing platforms (hemelplatforms) such as the Vlinderbalg let you lie back under a sky full of stars.",

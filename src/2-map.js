@@ -223,7 +223,41 @@
     });
     return fc(feats);
   }
-  function lineOf(t) { return { type: "LineString", coordinates: t.quests.map(function (q) { return [ll(q)[1], ll(q)[0]]; }) }; }
+  // ── Walking routes for trails ──
+  // The real path along streets comes from the OpenStreetMap foot router (FOSSGIS) the first time a trail is shown,
+  // and is kept on this device. Until then a trail is drawn with straight lines and its distance is an estimate.
+  var ROUTE_KEY = "citydisco.routes.v1", routes = {}, routePending = {};
+  try { routes = JSON.parse(localStorage.getItem(ROUTE_KEY) || "{}") || {}; } catch (e) { routes = {}; }
+  function routeSig(t) { return t.quests.map(function (q) { return ll(q)[0].toFixed(4) + "," + ll(q)[1].toFixed(4); }).join(";"); }
+  function applyRoute(t) {
+    var r = routes[routeSig(t)];
+    if (!r) return false;
+    t.route = r.c; t.km = r.km; t.routed = true;
+    t.mins = Math.round((r.min + t.quests.length * 15) / 15) * 15;
+    return true;
+  }
+  trails.forEach(applyRoute);
+  function ensureRoute(t) {
+    if (!t || t.routed || routePending[t.id]) return Promise.resolve();
+    routePending[t.id] = true;
+    var path = t.quests.map(function (q) { return ll(q)[1].toFixed(5) + "," + ll(q)[0].toFixed(5); }).join(";");
+    return fetch("https://routing.openstreetmap.de/routed-foot/route/v1/driving/" + path + "?overview=full&geometries=geojson")
+      .then(function (r) { return r.json(); })
+      .then(function (d) {
+        var rt = d && d.code === "Ok" && d.routes && d.routes[0];
+        if (!rt) return;
+        routes[routeSig(t)] = { c: rt.geometry.coordinates.map(function (p) { return [Math.round(p[0] * 1e5) / 1e5, Math.round(p[1] * 1e5) / 1e5]; }),
+          km: Math.round(rt.distance / 100) / 10, min: Math.round(rt.duration / 60) };
+        try { localStorage.setItem(ROUTE_KEY, JSON.stringify(routes)); } catch (e) { /* storage full: keep it for this session */ }
+        applyRoute(t);
+        if (ui.tab === "map" && (ui.trail === t.id || ui.panel === "trails")) { refreshMap(); if ($sheet.hidden) render(); }
+      })
+      .catch(function () { /* offline or router busy: keep the straight lines */ });
+  }
+  function ensureRoutes(list) { // one at a time, to go easy on the free router
+    list.reduce(function (p, t) { return p.then(function () { return ensureRoute(t); }); }, Promise.resolve());
+  }
+  function lineOf(t) { return { type: "LineString", coordinates: t.route || t.quests.map(function (q) { return [ll(q)[1], ll(q)[0]]; }) }; }
   // The trail you follow, drawn solid with numbered stops.
   function trailGeo() {
     var t = ui.trail && trailById[ui.trail];
@@ -376,7 +410,13 @@
     if (map || mapState !== "idle") return;
     if (!window.maplibregl) { setMapState("failed"); return; }
     setMapState("loading");
-    var slow = setTimeout(function () { if (!mapReady) setMapState("failed"); }, 20000);
+    // Give up after 20 s, but not while the page is in the background (browsers pause drawing there).
+    var slow, giveUp = function () {
+      if (mapReady) return;
+      if (document.hidden) { slow = setTimeout(giveUp, 5000); return; }
+      setMapState("failed");
+    };
+    slow = setTimeout(giveUp, 20000);
     Promise.all([loadStyle(theme()), loadPinIcons()]).then(function (res) {
       map = new maplibregl.Map({
         container: $map, style: res[0], attributionControl: false, maxPitch: 65, minZoom: 5.5, maxZoom: 19,

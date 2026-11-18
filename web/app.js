@@ -2,7 +2,7 @@
 (function () {
   "use strict";
 
-  var APP_VERSION = "0.17.0";
+  var APP_VERSION = "0.17.1";
   var STORE_KEY = "citydiscovery.v1";
   var REPO = "https://github.com/oalpcakir/citydiscovery";
   var CATS = {
@@ -289,6 +289,8 @@
   function trailDone(t) { return t.quests.every(isDone); }
   function trailStats(t) { return stats(t.quests); }
   function trailNext(t) { return t.quests.filter(function (q) { return !isDone(q); })[0] || null; }
+  // Walking distance along streets once the route is known; until then an estimate, marked with "≈".
+  function trailKmText(t) { return (t.routed ? "" : "≈ ") + kmText(t.km) + " walk"; }
   function trailTime(t) { return t.mins >= 60 ? Math.floor(t.mins / 60) + " h" + (t.mins % 60 ? " " + (t.mins % 60) + " min" : "") : Math.max(10, t.mins) + " min"; }
 
   // ── Explorer profile ───────────────────────────────────────
@@ -671,7 +673,41 @@
     });
     return fc(feats);
   }
-  function lineOf(t) { return { type: "LineString", coordinates: t.quests.map(function (q) { return [ll(q)[1], ll(q)[0]]; }) }; }
+  // ── Walking routes for trails ──
+  // The real path along streets comes from the OpenStreetMap foot router (FOSSGIS) the first time a trail is shown,
+  // and is kept on this device. Until then a trail is drawn with straight lines and its distance is an estimate.
+  var ROUTE_KEY = "citydisco.routes.v1", routes = {}, routePending = {};
+  try { routes = JSON.parse(localStorage.getItem(ROUTE_KEY) || "{}") || {}; } catch (e) { routes = {}; }
+  function routeSig(t) { return t.quests.map(function (q) { return ll(q)[0].toFixed(4) + "," + ll(q)[1].toFixed(4); }).join(";"); }
+  function applyRoute(t) {
+    var r = routes[routeSig(t)];
+    if (!r) return false;
+    t.route = r.c; t.km = r.km; t.routed = true;
+    t.mins = Math.round((r.min + t.quests.length * 15) / 15) * 15;
+    return true;
+  }
+  trails.forEach(applyRoute);
+  function ensureRoute(t) {
+    if (!t || t.routed || routePending[t.id]) return Promise.resolve();
+    routePending[t.id] = true;
+    var path = t.quests.map(function (q) { return ll(q)[1].toFixed(5) + "," + ll(q)[0].toFixed(5); }).join(";");
+    return fetch("https://routing.openstreetmap.de/routed-foot/route/v1/driving/" + path + "?overview=full&geometries=geojson")
+      .then(function (r) { return r.json(); })
+      .then(function (d) {
+        var rt = d && d.code === "Ok" && d.routes && d.routes[0];
+        if (!rt) return;
+        routes[routeSig(t)] = { c: rt.geometry.coordinates.map(function (p) { return [Math.round(p[0] * 1e5) / 1e5, Math.round(p[1] * 1e5) / 1e5]; }),
+          km: Math.round(rt.distance / 100) / 10, min: Math.round(rt.duration / 60) };
+        try { localStorage.setItem(ROUTE_KEY, JSON.stringify(routes)); } catch (e) { /* storage full: keep it for this session */ }
+        applyRoute(t);
+        if (ui.tab === "map" && (ui.trail === t.id || ui.panel === "trails")) { refreshMap(); if ($sheet.hidden) render(); }
+      })
+      .catch(function () { /* offline or router busy: keep the straight lines */ });
+  }
+  function ensureRoutes(list) { // one at a time, to go easy on the free router
+    list.reduce(function (p, t) { return p.then(function () { return ensureRoute(t); }); }, Promise.resolve());
+  }
+  function lineOf(t) { return { type: "LineString", coordinates: t.route || t.quests.map(function (q) { return [ll(q)[1], ll(q)[0]]; }) }; }
   // The trail you follow, drawn solid with numbered stops.
   function trailGeo() {
     var t = ui.trail && trailById[ui.trail];
@@ -824,7 +860,13 @@
     if (map || mapState !== "idle") return;
     if (!window.maplibregl) { setMapState("failed"); return; }
     setMapState("loading");
-    var slow = setTimeout(function () { if (!mapReady) setMapState("failed"); }, 20000);
+    // Give up after 20 s, but not while the page is in the background (browsers pause drawing there).
+    var slow, giveUp = function () {
+      if (mapReady) return;
+      if (document.hidden) { slow = setTimeout(giveUp, 5000); return; }
+      setMapState("failed");
+    };
+    slow = setTimeout(giveUp, 20000);
     Promise.all([loadStyle(theme()), loadPinIcons()]).then(function (res) {
       map = new maplibregl.Map({
         container: $map, style: res[0], attributionControl: false, maxPitch: 65, minZoom: 5.5, maxZoom: 19,
@@ -1325,7 +1367,7 @@
   // ── Trails on the map ──
   function trailMeta(t) {
     var s = trailStats(t);
-    return t.quests.length + ' stops · ' + kmText(t.km) + ' · ' + trailTime(t) + (s.done ? ' · ' + s.done + '/' + s.total + ' done' : "");
+    return t.quests.length + ' stops · ' + trailKmText(t) + ' · ' + trailTime(t) + (s.done ? ' · ' + s.done + '/' + s.total + ' done' : "");
   }
   function trailPickHtml() {
     var list = trailsByCity[cityId] || [];
@@ -1523,7 +1565,7 @@
     var s = trailStats(t);
     return '<button class="card trail' + (s.done === s.total ? " done" : "") + '" data-trail="' + esc(t.id) + '">' +
       '<span class="tile acc">' + ic(t.icon) + '</span><div class="body"><div class="t">' + esc(t.name) + '</div>' +
-      '<div class="m">' + esc(t.sub) + '</div><div class="m">' + t.quests.length + ' stops · ' + kmText(t.km) + ' · ' + trailTime(t) + ' · ' + (s.done === s.total ? "Complete" : s.done + " / " + s.total + " done") + '</div>' + bar(s.pct) + '</div>' +
+      '<div class="m">' + esc(t.sub) + '</div><div class="m">' + t.quests.length + ' stops · ' + trailKmText(t) + ' · ' + trailTime(t) + ' · ' + (s.done === s.total ? "Complete" : s.done + " / " + s.total + " done") + '</div>' + bar(s.pct) + '</div>' +
       '<span class="xp">+' + TRAIL_XP + '</span></button>';
   }
   function renderQuests() {
@@ -1943,9 +1985,10 @@
     var t = trailById[id];
     if (!t) return;
     var s = trailStats(t);
+    ensureRoute(t);
     closeSheetSilently();
     showSheet("trailsheet", X + '<div class="sh"><span class="tile acc">' + ic(t.icon) + '</span><div class="grow">' +
-      '<span class="badge acc">Trail · ' + t.quests.length + ' stops · ' + kmText(t.km) + ' · ' + trailTime(t) + '</span><h3>' + esc(t.name) + '</h3></div></div>' +
+      '<span class="badge acc">Trail · ' + t.quests.length + ' stops · ' + trailKmText(t) + ' · ' + trailTime(t) + '</span><h3>' + esc(t.name) + '</h3></div></div>' +
       '<p>' + esc(t.sub) + '</p>' +
       '<div class="reward">' + (s.done === s.total ? '<b>Complete</b>' : '<b>+' + TRAIL_XP + ' XP</b><span>for finishing all ' + s.total + ' stops</span><span>' + s.done + ' / ' + s.total + ' done</span>') + '</div>' +
       '<div class="list flush">' + t.quests.map(function (q, i) { return questRow(q, { n: i + 1 }); }).join("") + '</div>' +
@@ -2155,6 +2198,7 @@
     if (!tr) return;
     closeSheetSilently(); endSearch();
     ui.trail = id; ui.panel = null; ui.tab = "map"; ui.cat = "all"; ui.area = "all";
+    ensureRoute(tr);
     if (tr.cid !== cityId) setCurrent(tr.cid); else render();
     setTimeout(function () { fitPoints(tr.quests.map(ll), 16); }, 60);
   }
@@ -2326,6 +2370,7 @@
         var opening = ui.panel !== "trails" || !!ui.trail;
         ui.trail = null; ui.panel = opening ? "trails" : null; ui.tab = "map"; render();
         var tl = trailsByCity[cityId] || [];
+        if (opening) ensureRoutes(tl);
         if (opening && tl.length) fitPoints([].concat.apply([], tl.map(function (x) { return x.quests.map(ll); })), 15);
         break;
       }

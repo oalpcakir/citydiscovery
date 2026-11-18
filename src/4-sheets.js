@@ -201,9 +201,10 @@
     var t = trailById[id];
     if (!t) return;
     var s = trailStats(t);
+    ensureRoute(t);
     closeSheetSilently();
     showSheet("trailsheet", X + '<div class="sh"><span class="tile acc">' + ic(t.icon) + '</span><div class="grow">' +
-      '<span class="badge acc">Trail · ' + t.quests.length + ' stops · ' + kmText(t.km) + ' · ' + trailTime(t) + '</span><h3>' + esc(t.name) + '</h3></div></div>' +
+      '<span class="badge acc">Trail · ' + t.quests.length + ' stops · ' + trailKmText(t) + ' · ' + trailTime(t) + '</span><h3>' + esc(t.name) + '</h3></div></div>' +
       '<p>' + esc(t.sub) + '</p>' +
       '<div class="reward">' + (s.done === s.total ? '<b>Complete</b>' : '<b>+' + TRAIL_XP + ' XP</b><span>for finishing all ' + s.total + ' stops</span><span>' + s.done + ' / ' + s.total + ' done</span>') + '</div>' +
       '<div class="list flush">' + t.quests.map(function (q, i) { return questRow(q, { n: i + 1 }); }).join("") + '</div>' +
@@ -413,6 +414,7 @@
     if (!tr) return;
     closeSheetSilently(); endSearch();
     ui.trail = id; ui.panel = null; ui.tab = "map"; ui.cat = "all"; ui.area = "all";
+    ensureRoute(tr);
     if (tr.cid !== cityId) setCurrent(tr.cid); else render();
     setTimeout(function () { fitPoints(tr.quests.map(ll), 16); }, 60);
   }
@@ -584,6 +586,7 @@
         var opening = ui.panel !== "trails" || !!ui.trail;
         ui.trail = null; ui.panel = opening ? "trails" : null; ui.tab = "map"; render();
         var tl = trailsByCity[cityId] || [];
+        if (opening) ensureRoutes(tl);
         if (opening && tl.length) fitPoints([].concat.apply([], tl.map(function (x) { return x.quests.map(ll); })), 15);
         break;
       }

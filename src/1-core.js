@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  var APP_VERSION = "0.17.0";
+  var APP_VERSION = "0.17.1";
   var STORE_KEY = "citydiscovery.v1";
   var REPO = "https://github.com/oalpcakir/citydiscovery";
   var CATS = {
@@ -288,6 +288,8 @@
   function trailDone(t) { return t.quests.every(isDone); }
   function trailStats(t) { return stats(t.quests); }
   function trailNext(t) { return t.quests.filter(function (q) { return !isDone(q); })[0] || null; }
+  // Walking distance along streets once the route is known; until then an estimate, marked with "≈".
+  function trailKmText(t) { return (t.routed ? "" : "≈ ") + kmText(t.km) + " walk"; }
   function trailTime(t) { return t.mins >= 60 ? Math.floor(t.mins / 60) + " h" + (t.mins % 60 ? " " + (t.mins % 60) + " min" : "") : Math.max(10, t.mins) + " min"; }
 
   // ── Explorer profile ───────────────────────────────────────

@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  var APP_VERSION = "0.15.0";
+  var APP_VERSION = "0.16.0";
   var STORE_KEY = "citydiscovery.v1";
   var REPO = "https://github.com/oalpcakir/citydiscovery";
   var CATS = {
@@ -81,7 +81,12 @@
   }
   function ll(q) { var c = cities[q.cid]; return c.coords && c.coords[q.id]; }
   function photoOf(q) { return PHOTOS[q.key] || null; }
-  function thumb(url, w) { return url.replace(/\/\d+px-/, "/" + w + "px-"); }
+  // Wikimedia only serves thumbnails in standard widths; ask for the smallest one at least w wide.
+  var THUMB_SIZES = [120, 250, 330, 500, 960];
+  function thumb(url, w) {
+    var s = THUMB_SIZES.filter(function (x) { return x >= w; })[0] || 960;
+    return url.replace(/\/\d+px-/, "/" + s + "px-");
+  }
   function km(a, b) {
     return Math.hypot((a[0] - b[0]) * 111.32, (a[1] - b[1]) * 111.32 * Math.cos((a[0] * Math.PI) / 180));
   }

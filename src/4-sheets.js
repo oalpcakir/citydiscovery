@@ -406,6 +406,16 @@
     else prompt("Copy this:", text);
   }
 
+  function endSearch() { ui.searchOpen = false; ui.sq = ""; }
+  function gotoRegion(id) {
+    endSearch(); closeSheetSilently(); ui.tab = "map";
+    if (cities[id]) { ui.trail = null; setCity(id, true); return; }
+    var info = (window.REGION_INFO || {})[id];
+    render();
+    if (map && info) map.flyTo({ center: [info.at[1], info.at[0]], zoom: 8.6, duration: 1400 });
+    if (info) toast(info.name + ": quests coming soon");
+  }
+
   // ── Account (cloud save, see cloud.js) ─────────────────────
   function openAuth(mode) {
     var C = window.cdCloud, up = mode === "signup";
@@ -497,7 +507,7 @@
   }
 
   // ── Events ─────────────────────────────────────────────────
-  var SEL = "[data-toggle],[data-open],[data-f],[data-tab],[data-act],[data-city],[data-theme-set],[data-pick],[data-photo-id],[data-qview],[data-trail]";
+  var SEL = "[data-goto-region],[data-goto-place],[data-toggle],[data-open],[data-f],[data-tab],[data-act],[data-city],[data-theme-set],[data-pick],[data-photo-id],[data-qview],[data-trail]";
   document.addEventListener("click", function (e) {
     var t = e.target.closest(SEL);
     if (document.getElementById("ctxmenu") && !(t && t.closest("#ctxmenu"))) closeCtx();
@@ -512,6 +522,14 @@
       return;
     }
     if (d.photoId) { openPhoto(d.photoId, d.photoKey); return; }
+    if (d.gotoRegion) { gotoRegion(d.gotoRegion); return; }
+    if (d.gotoPlace) {
+      var gp = d.gotoPlace.split(",").map(Number);
+      endSearch(); ui.tab = "map"; render();
+      if (map) map.flyTo({ center: [gp[1], gp[0]], zoom: gp[2], duration: 1400, essential: true });
+      setTimeout(function () { pulseAt([gp[0], gp[1]]); }, 1450);
+      return;
+    }
     if (d.pick) {
       if (t.disabled) return;
       ui.draft = ui.draft || profile();
@@ -523,7 +541,7 @@
     if (d.themeSet) { store.theme = d.themeSet; save(); switchTheme(); render(); return; }
     if (d.qview) { ui.qview = d.qview; render(); return; }
     if (d.trail) { ui.trailOpen = d.trail; openTrail(d.trail); return; }
-    if (d.open) { q = byKey[d.open]; closeSheetSilently(); if (q) openQuest(q); return; }
+    if (d.open) { q = byKey[d.open]; closeSheetSilently(); if (ui.searchOpen) endSearch(); if (q) openQuest(q); return; }
     if (d.city) { closeSheetSilently(); ui.tab = "map"; ui.trail = null; setCity(d.city, true); return; }
     if (d.f) {
       ui[d.f] = d.v; render();
@@ -585,11 +603,17 @@
       case "ctx-near": {
         closeCtx();
         var cid3 = regionAt(ui.ctx[1], ui.ctx[0]);
-        ui.pos = ui.ctx.slice(); ui.near = true; ui.q = ""; ui.qview = "all"; ui.tab = "quests";
+        ui.panel = "near"; ui.panelAt = ui.ctx.slice(); endSearch();
         if (cid3 && cid3 !== cityId) setCurrent(cid3); else render();
-        toast("Sorted by distance from that spot");
+        pulseAt(ui.panelAt);
         break;
       }
+      case "panel-close": ui.panel = null; render(); break;
+      case "search-open":
+        ui.searchOpen = true; ui.sq = ""; render();
+        setTimeout(function () { var el = document.getElementById("psearch"); if (el) el.focus(); }, 30);
+        break;
+      case "search-close": endSearch(); render(); break;
       case "ctx-dir": closeCtx(); window.open("https://www.google.com/maps/dir/?api=1&destination=" + ui.ctx[0].toFixed(5) + "," + ui.ctx[1].toFixed(5), "_blank", "noopener"); break;
       case "ctx-copy": {
         closeCtx();
@@ -639,6 +663,13 @@
     }
   });
   document.addEventListener("input", function (e) {
+    if (e.target.id === "psearch") {
+      ui.sq = e.target.value;
+      findPlaces(ui.sq);
+      var pr2 = document.getElementById("presults");
+      if (pr2) pr2.innerHTML = isWide() ? sideBodyHtml() : searchResultsHtml();
+      return;
+    }
     if (e.target.id !== "qsearch") return;
     ui.q = e.target.value;
     var box = document.getElementById("qlist");
@@ -656,6 +687,7 @@
   // Android back button / Esc: close an open card, then leave sub-pages (the Android shell calls this).
   window.cdBack = function () {
     if (document.getElementById("ctxmenu")) { closeCtx(); return true; }
+    if (ui.searchOpen || ui.sq) { endSearch(); render(); return true; }
     if (!$sheet.hidden) { closeSheet(); return true; }
     if (ui.pinMode) { recCancel(); return true; }
     if (ui.tab === "stats" || ui.tab === "settings") { ui.tab = "hero"; render(); return true; }
@@ -663,6 +695,15 @@
     return false;
   };
   window.addEventListener("pagehide", saveNote);
+  // Crossing the wide-screen width switches between the phone and the side-panel layout.
+  var lastWide = isWide();
+  function layoutCheck() {
+    if (isWide() === lastWide) return;
+    lastWide = isWide(); endSearch(); render();
+    if (map) setTimeout(function () { map.resize(); }, 50);
+  }
+  if (WIDE.addEventListener) WIDE.addEventListener("change", layoutCheck);
+  window.addEventListener("resize", layoutCheck);
   window.cdMap = function () { return map; }; // for testing and debugging
   if (window.matchMedia) {
     var mq = window.matchMedia("(prefers-color-scheme: dark)");

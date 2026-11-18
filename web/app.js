@@ -2,7 +2,7 @@
 (function () {
   "use strict";
 
-  var APP_VERSION = "0.15.0";
+  var APP_VERSION = "0.16.0";
   var STORE_KEY = "citydiscovery.v1";
   var REPO = "https://github.com/oalpcakir/citydiscovery";
   var CATS = {
@@ -82,7 +82,12 @@
   }
   function ll(q) { var c = cities[q.cid]; return c.coords && c.coords[q.id]; }
   function photoOf(q) { return PHOTOS[q.key] || null; }
-  function thumb(url, w) { return url.replace(/\/\d+px-/, "/" + w + "px-"); }
+  // Wikimedia only serves thumbnails in standard widths; ask for the smallest one at least w wide.
+  var THUMB_SIZES = [120, 250, 330, 500, 960];
+  function thumb(url, w) {
+    var s = THUMB_SIZES.filter(function (x) { return x >= w; })[0] || 960;
+    return url.replace(/\/\d+px-/, "/" + s + "px-");
+  }
   function km(a, b) {
     return Math.hypot((a[0] - b[0]) * 111.32, (a[1] - b[1]) * 111.32 * Math.cos((a[0] * Math.PI) / 180));
   }
@@ -1205,38 +1210,127 @@
   }
 
   // ── Map screen ─────────────────────────────────────────────
+  // Phones: the map fills the screen with floating controls. Wide screens (1024px+): a side panel holds the
+  // region card, search, filters and the quest list next to the map.
+  var WIDE = window.matchMedia ? window.matchMedia("(min-width: 1024px)") : { matches: false };
+  function isWide() { return WIDE.matches; }
+  function topcardHtml(glass) {
+    var s = stats(city.quests), p = progress(), pr = profile();
+    return '<div class="topcard' + (glass ? " glass" : "") + '">' +
+      '<button class="plain" data-tab="hero" aria-label="Your hero, level ' + p.level + '">' + avatarHtml(pr, p) + '</button>' +
+      '<div class="grow"><button class="tc-city" data-act="regions">' + flagHtml(city.country) + esc(city.name) + ' ' + ic("chevron-down", "sm") + '</button>' +
+      '<div class="tc-sub">' + esc(heroTitle(p)) + ' · ' + fmt(p.into) + ' / ' + fmt(p.need) + ' XP' +
+        (p.streak ? ' · <span class="fire">' + ic("flame", "sm") + p.streak + '</span>' : "") + '</div>' + bar(p.pct, "xp") + '</div>' +
+      (glass ? '<button class="tc-search" data-act="search-open" aria-label="Search places">' + ic("search") + '</button>' : "") +
+      ring(s.pct) + '</div>';
+  }
+  function searchBarHtml(closable) {
+    return '<label class="sbar' + (closable ? " glass" : "") + '">' + ic("search") +
+      '<input id="psearch" type="search" placeholder="Search a city, place or quest" autocomplete="off" value="' + esc(ui.sq || "") + '">' +
+      (closable ? '<button class="plain" data-act="search-close" aria-label="Close search">' + ic("x") + '</button>' : "") + '</label>';
+  }
+  // Quests closest to a spot (from every region), for "Quests near here".
+  function nearListHtml() {
+    var here = ui.panelAt;
+    var rows = allQuests.filter(ll).map(function (q) { return [q, km(here, ll(q))]; })
+      .sort(function (a, b) { return a[1] - b[1]; }).slice(0, 25);
+    return '<div class="ghead"><b>' + ic("locate-fixed", "sm") + 'Near this spot</b><button class="linkbtn" data-act="panel-close">Close</button></div>' +
+      '<div class="list flush">' + rows.map(function (x) { return questRow(x[0], { dist: x[1], region: x[0].cid !== cityId }); }).join("") + '</div>';
+  }
+  function sideBodyHtml() {
+    if ((ui.sq || "").trim()) return searchResultsHtml();
+    if (ui.panel === "near" && ui.panelAt) return nearListHtml();
+    return '<div class="chips">' + catChips() + '<i class="sep"></i>' + chip("show", "todo", "To do") + chip("show", "done", "Done") + chip("show", "all", "Both") + '</div>' +
+      '<div class="chips">' + areaChips() + '</div><div class="list flush">' + questListHtml() + '</div>';
+  }
+  function mapCtlHtml() {
+    return '<div class="mapctl">' +
+      '<button class="glass desk" data-act="zoom-in" aria-label="Zoom in">' + ic("plus") + '</button>' +
+      '<button class="glass desk" data-act="zoom-out" aria-label="Zoom out">' + ic("minus") + '</button>' +
+      '<button class="glass" data-act="locate" aria-label="My location">' + ic("locate-fixed") + '</button>' +
+      '<button class="glass" data-act="tilt" aria-label="Tilt the map">' + ic("box") + '</button>' +
+      '<button class="glass" data-act="overview" aria-label="All regions">' + ic("globe") + '</button>' +
+      '<button class="glass" data-act="suggest" aria-label="Surprise me">' + ic("dices") + '</button>' +
+      '<button class="glass rec" data-act="rec-start" aria-label="Suggest a place">' + ic("map-pin") + ic("plus", "mini") + '</button>' +
+      '</div>';
+  }
+  function fabHtml() {
+    var dq = dailyQuest();
+    return dq && !isDone(dq)
+      ? '<button class="fab" data-open="' + esc(dq.key) + '">' + ic("star") + '<span><small>Quest of the day · +' + XP.daily + ' XP' +
+        (seasonDaysLeft(dq) !== null ? ' · ' + leftText(seasonDaysLeft(dq)).toLowerCase() : "") + '</small>' + esc(dq.title) + '</span></button>'
+      : '<button class="fab done" data-act="suggest">' + ic("check") + '<span><small>Quest of the day done</small>Surprise me with another</span></button>';
+  }
   function renderMapUI() {
-    var s = stats(city.quests), p = progress(), pr = profile(), dq = dailyQuest();
-    var todo = dq && !isDone(dq);
+    var wide = isWide();
     document.body.classList.toggle("pinmode", !!ui.pinMode);
+    var side = wide ? '<aside class="side">' + topcardHtml(false) + searchBarHtml(false) + '<div id="presults" class="sidebody">' + sideBodyHtml() + '</div></aside>' : "";
     if (ui.pinMode) {
-      return mapStateHtml() + '<div class="pm-pin" aria-hidden="true">' + ic("map-pin") + '</div>' +
+      return side + mapStateHtml() + '<div class="pm-pin" aria-hidden="true">' + ic("map-pin") + '</div>' +
         '<div class="pm-bar glass"><div class="pm-t"><b>Suggest a place</b><span>Move the map (or tap) so the pin sits on the spot</span></div>' +
         '<div class="pm-btns"><button class="btn plain" data-act="rec-cancel">Cancel</button><button class="btn" data-act="rec-here">' + ic("check", "sm") + 'Use this spot</button></div></div>';
     }
-    return '<div class="map-top">' +
-      '<div class="topcard glass">' +
-        '<button class="plain" data-tab="hero" aria-label="Your hero, level ' + p.level + '">' + avatarHtml(pr, p) + '</button>' +
-        '<div class="grow"><button class="tc-city" data-act="regions">' + flagHtml(city.country) + esc(city.name) + ' ' + ic("chevron-down", "sm") + '</button>' +
-        '<div class="tc-sub">' + esc(heroTitle(p)) + ' · ' + fmt(p.into) + ' / ' + fmt(p.need) + ' XP' +
-          (p.streak ? ' · <span class="fire">' + ic("flame", "sm") + p.streak + '</span>' : "") + '</div>' + bar(p.pct, "xp") + '</div>' +
-        ring(s.pct) + '</div>' +
-      '<div class="chips">' + catChips() + '</div>' +
-      '<div class="chips area-row">' + areaChips() + '</div>' +
-      '</div>' + mapStateHtml() +
-      '<div class="mapctl">' +
-        '<button class="glass desk" data-act="zoom-in" aria-label="Zoom in">' + ic("plus") + '</button>' +
-        '<button class="glass desk" data-act="zoom-out" aria-label="Zoom out">' + ic("minus") + '</button>' +
-        '<button class="glass" data-act="locate" aria-label="My location">' + ic("locate-fixed") + '</button>' +
-        '<button class="glass" data-act="tilt" aria-label="Tilt the map">' + ic("box") + '</button>' +
-        '<button class="glass" data-act="overview" aria-label="All regions">' + ic("globe") + '</button>' +
-        '<button class="glass" data-act="suggest" aria-label="Surprise me">' + ic("dices") + '</button>' +
-        '<button class="glass rec" data-act="rec-start" aria-label="Suggest a place">' + ic("map-pin") + ic("plus", "mini") + '</button>' +
-      '</div>' +
-      (todo
-        ? '<button class="fab" data-open="' + esc(dq.key) + '">' + ic("star") + '<span><small>Quest of the day · +' + XP.daily + ' XP' +
-          (seasonDaysLeft(dq) !== null ? ' · ' + leftText(seasonDaysLeft(dq)).toLowerCase() : "") + '</small>' + esc(dq.title) + '</span></button>'
-        : '<button class="fab done" data-act="suggest">' + ic("check") + '<span><small>Quest of the day done</small>Surprise me with another</span></button>');
+    if (wide) return side + mapStateHtml() + mapCtlHtml() + fabHtml();
+    var top = ui.searchOpen
+      ? searchBarHtml(true) + '<div id="presults" class="sres glass">' + searchResultsHtml() + '</div>'
+      : topcardHtml(true) + '<div class="chips">' + catChips() + '</div><div class="chips area-row">' + areaChips() + '</div>';
+    var near = ui.panel === "near" && ui.panelAt && !ui.searchOpen ? '<div class="nearpanel glass">' + nearListHtml() + '</div>' : "";
+    return '<div class="map-top">' + top + '</div>' + mapStateHtml() + near + (near ? "" : mapCtlHtml() + fabHtml());
+  }
+
+  // ── Place search: regions, quests and (online) any town or address ──
+  function fold(s) { return (s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase(); }
+  var placeCache = {}, placeTimer = null;
+  function searchResultsHtml() {
+    var q = fold((ui.sq || "").trim());
+    if (!q) return '<div class="note flat sres-hint">Type a city, town, address or quest.</div>';
+    var html = "", info = window.REGION_INFO || {};
+    var regs = Object.keys(cities).concat(Object.keys(info).filter(function (id) { return !cities[id]; })).filter(function (id) {
+      var n = cities[id] ? cities[id].name + " " + (cities[id].subtitle || "") : info[id].name + " " + info[id].subtitle;
+      return fold(n).indexOf(q) !== -1;
+    }).slice(0, 5);
+    if (regs.length) {
+      html += '<div class="sgroup">Regions</div>' + regs.map(function (id) {
+        var c = cities[id], cc = c ? c.country : (window.COUNTRIES[info[id].cc] || {}).name;
+        return '<button class="srow" data-goto-region="' + id + '">' + flagHtml(cc) + '<span class="grow"><b>' + esc(c ? c.name : info[id].name) + '</b><small>' +
+          (c ? cityStats(id).total + " quests" : "Coming soon") + '</small></span></button>';
+      }).join("");
+    }
+    var qs = allQuests.filter(function (x) { return fold(x.title + " " + x.q).indexOf(q) !== -1; }).slice(0, 6);
+    if (qs.length) {
+      html += '<div class="sgroup">Quests</div>' + qs.map(function (x) {
+        return '<button class="srow" data-open="' + esc(x.key) + '"><span class="tile sm ' + x.cat + '">' + ic(CATS[x.cat].icon) + '</span><span class="grow"><b>' + esc(x.title) +
+          '</b><small>' + esc(cities[x.cid].name) + ' · ' + esc(cities[x.cid].areas[x.area]) + '</small></span></button>';
+      }).join("");
+    }
+    var places = placeCache[q];
+    html += '<div class="sgroup">Places</div>';
+    if (places === undefined) html += '<div class="note flat sres-hint">Searching the map…</div>';
+    else if (!places.length) html += '<div class="note flat sres-hint">No places found.</div>';
+    else html += places.map(function (p) {
+      return '<button class="srow" data-goto-place="' + p.lat + "," + p.lng + "," + p.zoom + '">' + ic("map-pin") + '<span class="grow"><b>' + esc(p.name) +
+        '</b><small>' + esc(p.sub) + '</small></span></button>';
+    }).join("");
+    return html;
+  }
+  // Towns and addresses come from Photon (OpenStreetMap search by Komoot), limited to our countries.
+  function findPlaces(raw) {
+    var q = fold(raw.trim());
+    clearTimeout(placeTimer);
+    if (q.length < 2 || placeCache[q] !== undefined) return;
+    placeTimer = setTimeout(function () {
+      var url = "https://photon.komoot.io/api/?limit=6&lang=en&bbox=-5.5,41.2,15.6,55.2&q=" + encodeURIComponent(raw.trim());
+      fetch(url).then(function (r) { return r.json(); }).then(function (d) {
+        var seen = {};
+        placeCache[q] = (d.features || []).map(function (f) {
+          var p = f.properties || {}, t = p.osm_value, c = f.geometry.coordinates;
+          var zoom = /^(country|state)$/.test(t) ? 7 : /^(city|county)$/.test(t) ? 11.5 : /^(town|municipality|borough)$/.test(t) ? 12.5 : /^(village|suburb|hamlet|neighbourhood|quarter)$/.test(t) ? 14 : 16;
+          return { name: p.name || p.street || raw, sub: [p.city && p.city !== p.name ? p.city : "", p.state, p.country].filter(Boolean).join(", "), lat: c[1], lng: c[0], zoom: zoom };
+        }).filter(function (p) { var k = p.name + "|" + p.sub; if (seen[k]) return false; seen[k] = 1; return true; });
+      }, function () { placeCache[q] = []; }).then(function () {
+        if (fold((ui.sq || "").trim()) === q) { var box = document.getElementById("presults"); if (box) box.innerHTML = searchResultsHtml(); }
+      });
+    }, 280);
   }
 
   // ── Quests screen ──────────────────────────────────────────
@@ -1512,7 +1606,7 @@
         '<p class="note">The backup text holds your progress and profile, not your photos. Signing in backs up everything.</p></div>' +
       '<h2>About</h2><div class="panel"><a class="btn ghost" target="_blank" rel="noopener" href="' + REPO + '/issues/new?title=' +
         encodeURIComponent("Feedback: ") + '">' + ic("triangle-alert") + 'Report a problem or idea</a>' +
-        '<p class="note">Map data © OpenStreetMap contributors, tiles by OpenFreeMap. Quest photos from Wikimedia Commons under free licences, credited on each quest. Icons by Lucide.</p></div></div>';
+        '<p class="note">Map data © OpenStreetMap contributors, tiles by OpenFreeMap, place search by Photon (Komoot). Quest photos from Wikimedia Commons under free licences, credited on each quest. Icons by Lucide.</p></div></div>';
   }
 
   // ── Sheets ─────────────────────────────────────────────────
@@ -1923,6 +2017,16 @@
     else prompt("Copy this:", text);
   }
 
+  function endSearch() { ui.searchOpen = false; ui.sq = ""; }
+  function gotoRegion(id) {
+    endSearch(); closeSheetSilently(); ui.tab = "map";
+    if (cities[id]) { ui.trail = null; setCity(id, true); return; }
+    var info = (window.REGION_INFO || {})[id];
+    render();
+    if (map && info) map.flyTo({ center: [info.at[1], info.at[0]], zoom: 8.6, duration: 1400 });
+    if (info) toast(info.name + ": quests coming soon");
+  }
+
   // ── Account (cloud save, see cloud.js) ─────────────────────
   function openAuth(mode) {
     var C = window.cdCloud, up = mode === "signup";
@@ -2014,7 +2118,7 @@
   }
 
   // ── Events ─────────────────────────────────────────────────
-  var SEL = "[data-toggle],[data-open],[data-f],[data-tab],[data-act],[data-city],[data-theme-set],[data-pick],[data-photo-id],[data-qview],[data-trail]";
+  var SEL = "[data-goto-region],[data-goto-place],[data-toggle],[data-open],[data-f],[data-tab],[data-act],[data-city],[data-theme-set],[data-pick],[data-photo-id],[data-qview],[data-trail]";
   document.addEventListener("click", function (e) {
     var t = e.target.closest(SEL);
     if (document.getElementById("ctxmenu") && !(t && t.closest("#ctxmenu"))) closeCtx();
@@ -2029,6 +2133,14 @@
       return;
     }
     if (d.photoId) { openPhoto(d.photoId, d.photoKey); return; }
+    if (d.gotoRegion) { gotoRegion(d.gotoRegion); return; }
+    if (d.gotoPlace) {
+      var gp = d.gotoPlace.split(",").map(Number);
+      endSearch(); ui.tab = "map"; render();
+      if (map) map.flyTo({ center: [gp[1], gp[0]], zoom: gp[2], duration: 1400, essential: true });
+      setTimeout(function () { pulseAt([gp[0], gp[1]]); }, 1450);
+      return;
+    }
     if (d.pick) {
       if (t.disabled) return;
       ui.draft = ui.draft || profile();
@@ -2040,7 +2152,7 @@
     if (d.themeSet) { store.theme = d.themeSet; save(); switchTheme(); render(); return; }
     if (d.qview) { ui.qview = d.qview; render(); return; }
     if (d.trail) { ui.trailOpen = d.trail; openTrail(d.trail); return; }
-    if (d.open) { q = byKey[d.open]; closeSheetSilently(); if (q) openQuest(q); return; }
+    if (d.open) { q = byKey[d.open]; closeSheetSilently(); if (ui.searchOpen) endSearch(); if (q) openQuest(q); return; }
     if (d.city) { closeSheetSilently(); ui.tab = "map"; ui.trail = null; setCity(d.city, true); return; }
     if (d.f) {
       ui[d.f] = d.v; render();
@@ -2102,11 +2214,17 @@
       case "ctx-near": {
         closeCtx();
         var cid3 = regionAt(ui.ctx[1], ui.ctx[0]);
-        ui.pos = ui.ctx.slice(); ui.near = true; ui.q = ""; ui.qview = "all"; ui.tab = "quests";
+        ui.panel = "near"; ui.panelAt = ui.ctx.slice(); endSearch();
         if (cid3 && cid3 !== cityId) setCurrent(cid3); else render();
-        toast("Sorted by distance from that spot");
+        pulseAt(ui.panelAt);
         break;
       }
+      case "panel-close": ui.panel = null; render(); break;
+      case "search-open":
+        ui.searchOpen = true; ui.sq = ""; render();
+        setTimeout(function () { var el = document.getElementById("psearch"); if (el) el.focus(); }, 30);
+        break;
+      case "search-close": endSearch(); render(); break;
       case "ctx-dir": closeCtx(); window.open("https://www.google.com/maps/dir/?api=1&destination=" + ui.ctx[0].toFixed(5) + "," + ui.ctx[1].toFixed(5), "_blank", "noopener"); break;
       case "ctx-copy": {
         closeCtx();
@@ -2156,6 +2274,13 @@
     }
   });
   document.addEventListener("input", function (e) {
+    if (e.target.id === "psearch") {
+      ui.sq = e.target.value;
+      findPlaces(ui.sq);
+      var pr2 = document.getElementById("presults");
+      if (pr2) pr2.innerHTML = isWide() ? sideBodyHtml() : searchResultsHtml();
+      return;
+    }
     if (e.target.id !== "qsearch") return;
     ui.q = e.target.value;
     var box = document.getElementById("qlist");
@@ -2173,6 +2298,7 @@
   // Android back button / Esc: close an open card, then leave sub-pages (the Android shell calls this).
   window.cdBack = function () {
     if (document.getElementById("ctxmenu")) { closeCtx(); return true; }
+    if (ui.searchOpen || ui.sq) { endSearch(); render(); return true; }
     if (!$sheet.hidden) { closeSheet(); return true; }
     if (ui.pinMode) { recCancel(); return true; }
     if (ui.tab === "stats" || ui.tab === "settings") { ui.tab = "hero"; render(); return true; }
@@ -2180,6 +2306,15 @@
     return false;
   };
   window.addEventListener("pagehide", saveNote);
+  // Crossing the wide-screen width switches between the phone and the side-panel layout.
+  var lastWide = isWide();
+  function layoutCheck() {
+    if (isWide() === lastWide) return;
+    lastWide = isWide(); endSearch(); render();
+    if (map) setTimeout(function () { map.resize(); }, 50);
+  }
+  if (WIDE.addEventListener) WIDE.addEventListener("change", layoutCheck);
+  window.addEventListener("resize", layoutCheck);
   window.cdMap = function () { return map; }; // for testing and debugging
   if (window.matchMedia) {
     var mq = window.matchMedia("(prefers-color-scheme: dark)");

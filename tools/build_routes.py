@@ -1,5 +1,10 @@
-"""Precomputes walking geometries for all trails so the live app makes zero external routing calls.
-Usage: python tools/build_routes.py
+"""Precomputes the walking path of every trail into web/routes.js, so the app does not ask the router live.
+Run after adding or moving quests: python tools/build_routes.py  (only trails whose stops changed are fetched;
+the rest come from tools/trail_routes_cache.json).
+
+build_trails() and best_route() mirror buildTrails() and bestRoute() in src/1-core.js. Keep them in step: a trail
+the two build differently gets no precomputed path and the app falls back to fetching it live.
+Paths are written with 4 decimals (about 10 m), plenty for drawing a line on the map and a third smaller.
 """
 import io, json, math, os, sys, time, urllib.request
 
@@ -148,7 +153,13 @@ def main():
             except Exception as e:
                 print(f"Warning: could not fetch {sig[:32]}: {e}")
         if sig in cache:
-            active[sig] = cache[sig]
+            r = cache[sig]
+            pts = []
+            for p in r["c"]:
+                p = [round(p[0], 4), round(p[1], 4)]
+                if not pts or p != pts[-1]:
+                    pts.append(p)
+            active[sig] = dict(r, c=pts)
 
     with io.open(CACHE_FILE, "w", encoding="utf-8", newline="\n") as f:
         json.dump(cache, f, separators=(",", ":"))

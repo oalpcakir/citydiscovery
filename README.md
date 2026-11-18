@@ -13,6 +13,7 @@ A map-first app for (re)discovering the Netherlands and Belgium through quests: 
 | `web/index.html`, `web/app.js`, `web/styles.css` | The page, the built app and its styles. |
 | `web/icons.js` | The interface icons (Lucide, ISC licence). |
 | `web/photos.js` | A cover photo per quest where a free one exists, from `tools/find_photos.py` (Wikipedia and Wikimedia Commons, with author and licence for the credit line). |
+| `web/routes.js` | The street path of every trail, precomputed by `tools/build_routes.py` (OpenStreetMap foot router, cached in `tools/trail_routes_cache.json`) so the app does not ask the router live. Its trail builder mirrors `buildTrails()` in `src/1-core.js`; keep the two in step. |
 | `web/cities/<region>.js` | Quests for one region: areas, badges, level titles, coordinates and the quests themselves. |
 | `web/regions.js` | Region outlines from `tools/rebuild_regions.py`: every Dutch municipality (CBS) and every Belgian arrondissement, German district and Luxembourg (Eurostat NUTS-3, 1:3 million) joins the hub city in `tools/hubs.json` that is fastest to reach by road in the same country (OSRM, cached in `tools/traveltimes.json`). Borders are fixed; content never moves them. Hubs without a region file yet show on the map as "coming soon" (`REGION_INFO`). |
 | `web/vendor/` | MapLibre GL (vector map). Basemap tiles come from OpenFreeMap. |
@@ -21,7 +22,7 @@ A map-first app for (re)discovering the Netherlands and Belgium through quests: 
 | `web/community.json`, `tools/community_stats.py` | Anonymous daily totals over signed-in explorers for Stats → Everyone and "Done by N explorers", rebuilt every night by `.github/workflows/community.yml`. Needs a one-time key: see [docs/community-stats.md](docs/community-stats.md). |
 | `web/cloud.js`, `web/firebase-config.js`, `firestore.rules` | Optional cloud save with Firebase (sign-in, sync of progress, profile and photos). Off until configured: see [docs/firebase-setup.md](docs/firebase-setup.md). |
 | `web/moved.js` | Quests that moved region (old key to new key); the app migrates saved progress and photos. |
-| `android/` | The Android shell (WebView, ETag-revalidated offline cache, location permission). |
+| `android/` | The Android shell (WebView, ETag-revalidated offline cache, location permission, native share sheet for the explorer card via `ShareProvider`). |
 | `.github/workflows/pages.yml` | Publishes `web/` to GitHub Pages on every push to `main`. |
 
 ## Progression
@@ -37,7 +38,8 @@ XP comes from quests (100, plus bonuses for seasonal quests, day trips, the firs
    To add a region, add a hub to `tools/hubs.json`, run `tools/rebuild_regions.py` (boundary files listed in its header) and `tools/build_countries.py`, then `tools/reassign_quests.py`.
    To fill a "coming soon" region, give its hub a `new` block (levels and areas) in `tools/hubs.json` and run `tools/reassign_quests.py`; it creates the empty region file.
 5. Run `python tools/find_photos.py` to look up cover photos for the new quests (it only looks up quests it has not seen before).
-6. Commit and push; the site and the app update within a minute.
+6. Run `python tools/build_routes.py` to precompute the street paths of new or changed trails.
+7. Commit and push; the site and the app update within a minute.
 
 ## Keeping quests current
 

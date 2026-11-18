@@ -232,6 +232,8 @@
   // Each region gets a highlights walk per city area, a food crawl, a rainy-day walk and "day out" walks for towns
   // in its surroundings. Stops are put in walking order; distances are straight lines times 1.3 (streets are not straight),
   // and the time adds about 15 minutes per stop.
+  // tools/build_routes.py repeats this trail-building logic in Python to precompute the street paths: keep the two in step,
+  // or changed trails fall back to asking the router live.
   var trails = [], trailsByCity = {}, trailById = {}, TRAIL_XP = 200;
   var TRAIL_COLORS = ["#e11d48", "#2563eb", "#16a34a", "#d97706", "#7c3aed", "#0891b2", "#db2777", "#65a30d"];
   function routeKm(list) {

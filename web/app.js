@@ -233,6 +233,8 @@
   // Each region gets a highlights walk per city area, a food crawl, a rainy-day walk and "day out" walks for towns
   // in its surroundings. Stops are put in walking order; distances are straight lines times 1.3 (streets are not straight),
   // and the time adds about 15 minutes per stop.
+  // tools/build_routes.py repeats this trail-building logic in Python to precompute the street paths: keep the two in step,
+  // or changed trails fall back to asking the router live.
   var trails = [], trailsByCity = {}, trailById = {}, TRAIL_XP = 200;
   var TRAIL_COLORS = ["#e11d48", "#2563eb", "#16a34a", "#d97706", "#7c3aed", "#0891b2", "#db2777", "#65a30d"];
   function routeKm(list) {
@@ -735,10 +737,15 @@
     return fc(feats);
   }
   // ── Walking routes for trails ──
-  // The real path along streets comes from the OpenStreetMap foot router (FOSSGIS) the first time a trail is shown,
-  // and is kept on this device. Until then a trail is drawn with straight lines and its distance is an estimate.
-  var ROUTE_KEY = "citydisco.routes.v1", routes = Object.assign({}, window.TRAIL_ROUTES || {}), routePending = {};
-  try { Object.assign(routes, JSON.parse(localStorage.getItem(ROUTE_KEY) || "{}") || {}); } catch (e) { /* ignore */ }
+  // The real paths along streets are precomputed by tools/build_routes.py into routes.js (window.TRAIL_ROUTES).
+  // A trail that is not in there (its stops changed since the last build) asks the OpenStreetMap foot router (FOSSGIS)
+  // the first time it is shown, and only those routes are kept on this device. Until then it is drawn with straight lines.
+  var ROUTE_KEY = "citydisco.routes.v1", BUILT = window.TRAIL_ROUTES || {}, localRoutes = {}, routePending = {};
+  try {
+    var saved = JSON.parse(localStorage.getItem(ROUTE_KEY) || "{}") || {};
+    Object.keys(saved).forEach(function (k) { if (!BUILT[k]) localRoutes[k] = saved[k]; }); // drop what routes.js now has
+  } catch (e) { /* ignore */ }
+  var routes = Object.assign({}, localRoutes, BUILT);
   function routeSig(t) { return t.quests.map(function (q) { return ll(q)[0].toFixed(4) + "," + ll(q)[1].toFixed(4); }).join(";"); }
   function applyRoute(t) {
     var r = routes[routeSig(t)];
@@ -757,9 +764,9 @@
       .then(function (d) {
         var rt = d && d.code === "Ok" && d.routes && d.routes[0];
         if (!rt) return;
-        routes[routeSig(t)] = { c: rt.geometry.coordinates.map(function (p) { return [Math.round(p[0] * 1e5) / 1e5, Math.round(p[1] * 1e5) / 1e5]; }),
+        routes[routeSig(t)] = localRoutes[routeSig(t)] = { c: rt.geometry.coordinates.map(function (p) { return [Math.round(p[0] * 1e5) / 1e5, Math.round(p[1] * 1e5) / 1e5]; }),
           km: Math.round(rt.distance / 100) / 10, min: Math.round(rt.duration / 60) };
-        try { localStorage.setItem(ROUTE_KEY, JSON.stringify(routes)); } catch (e) { /* storage full: keep it for this session */ }
+        try { localStorage.setItem(ROUTE_KEY, JSON.stringify(localRoutes)); } catch (e) { /* storage full: keep it for this session */ }
         applyRoute(t);
         if (ui.tab === "map" && (ui.trail === t.id || ui.panel === "trails")) { refreshMap(); if ($sheet.hidden) render(); }
       })

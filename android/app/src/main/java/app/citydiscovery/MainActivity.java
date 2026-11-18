@@ -2,6 +2,7 @@ package app.citydiscovery;
 
 import android.Manifest;
 import android.app.Activity;
+import android.content.ClipData;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.net.Uri;
@@ -16,6 +17,7 @@ import android.webkit.WebResourceResponse;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
+import android.widget.Toast;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
@@ -275,20 +277,22 @@ public class MainActivity extends Activity {
                 try {
                     String pureBase64 = base64DataUrl.contains(",") ? base64DataUrl.split(",", 2)[1] : base64DataUrl;
                     byte[] bytes = Base64.decode(pureBase64, Base64.DEFAULT);
-                    File shareDir = new File(getCacheDir(), "shared");
-                    shareDir.mkdirs();
-                    File imgFile = new File(shareDir, "city-disco-card.png");
+                    File imgFile = ShareProvider.cardFile(MainActivity.this);
+                    imgFile.getParentFile().mkdirs();
                     try (FileOutputStream fos = new FileOutputStream(imgFile)) {
                         fos.write(bytes);
                     }
-                    Uri uri = androidx.core.content.FileProvider.getUriForFile(
-                        MainActivity.this, getPackageName() + ".fileprovider", imgFile);
+                    Uri uri = ShareProvider.cardUri(MainActivity.this);
                     Intent intent = new Intent(Intent.ACTION_SEND);
                     intent.setType("image/png");
                     intent.putExtra(Intent.EXTRA_STREAM, uri);
+                    // The ClipData carries the read grant through the chooser to the app the player picks.
+                    intent.setClipData(ClipData.newRawUri(ShareProvider.FILE_NAME, uri));
                     intent.addFlags(Intent.FLAG_GRANT_READ_URI_PERMISSION);
                     startActivity(Intent.createChooser(intent, "Share your City Disco card"));
-                } catch (Exception ignored) { /* fallback to long-press in WebView */ }
+                } catch (Exception e) {
+                    Toast.makeText(MainActivity.this, "Could not open sharing. Please try again.", Toast.LENGTH_LONG).show();
+                }
             });
         }
     }

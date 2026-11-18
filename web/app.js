@@ -705,6 +705,22 @@
         rank: (id === cityId ? 0 : 100000) - st.pct * 100 - st.total });
     }));
   }
+  // Area names (Marais, Lund, Bornholm...) as quiet map labels, placed at the middle of each area's quests.
+  // "cevre" (the surroundings) is spread out, and an area named like its region adds nothing, so neither gets a label.
+  function areaLabelsGeo() {
+    var groups = {};
+    allQuests.forEach(function (q) {
+      var c = cities[q.cid], p = ll(q);
+      if (!p || q.area === "cevre" || !c.areas[q.area] || c.areas[q.area] === c.name) return;
+      (groups[q.cid + "/" + q.area] = groups[q.cid + "/" + q.area] || { name: c.areas[q.area], lat: [], lng: [] });
+      groups[q.cid + "/" + q.area].lat.push(p[0]); groups[q.cid + "/" + q.area].lng.push(p[1]);
+    });
+    var mid = function (a) { a.sort(function (x, y) { return x - y; }); return a[Math.floor(a.length / 2)]; };
+    return fc(Object.keys(groups).filter(function (k) { return groups[k].lat.length >= 3; }).map(function (k) {
+      var g = groups[k];
+      return point([mid(g.lat), mid(g.lng)], { name: g.name });
+    }));
+  }
   function questsGeo() {
     var feats = [];
     allQuests.forEach(function (q) {
@@ -828,6 +844,13 @@
     map.addLayer({ id: "pins", type: "symbol", source: "quests", minzoom: 9, filter: ["!", ["has", "point_count"]], layout: {
       "icon-image": ["get", "icon"], "icon-allow-overlap": true, "icon-ignore-placement": true,
       "icon-size": ["interpolate", ["linear"], ["zoom"], 9, 0.62, 14, 0.9, 17, 1.05] } });
+    // Area names sit beside the middle of their quests (where a cluster usually is), on whichever side is free.
+    map.addSource("area-labels", { type: "geojson", data: areaLabelsGeo() });
+    map.addLayer({ id: "area-labels", type: "symbol", source: "area-labels", minzoom: OVERVIEW_ZOOM, maxzoom: 14.6, layout: {
+      "text-field": ["upcase", ["get", "name"]], "text-font": ["Noto Sans Bold"], "text-letter-spacing": 0.14, "text-max-width": 9,
+      "text-size": ["interpolate", ["linear"], ["zoom"], 9.5, 11, 13, 13.5],
+      "text-variable-anchor": ["top", "bottom", "left", "right"], "text-radial-offset": 2.4, "text-padding": 6 },
+      paint: { "text-color": dark ? "#94a3b8" : "#64748b", "text-halo-color": halo, "text-halo-width": 2.2 } });
     map.addLayer({ id: "pin-labels", type: "symbol", source: "quests", minzoom: 14.6, filter: ["!", ["has", "point_count"]], layout: {
       "text-field": ["get", "title"], "text-font": ["Noto Sans Bold"], "text-size": 12, "text-max-width": 9,
       "text-anchor": "top", "text-offset": [0, 1.35], "text-optional": true },

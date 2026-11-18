@@ -30,7 +30,7 @@ XP comes from quests (100, plus bonuses for seasonal quests, day trips, the firs
 
 ## Adding content
 
-1. Research quests into `content/<region>.json` (format in `tools/merge_content.py`).
+1. Research quests into `content/<region>.json` (format in `tools/merge_content.py`). Size the research to the region's target from `python tools/targets.py` (60 to 300 quests by population and tourism; `--next` lists empty regions bordering filled ones).
 2. `python tools/merge_content.py <region> content/<region>.json`
 3. `python tools/geocheck.py web/cities/<region>.js > geo.txt` then `python tools/geoapply.py web/cities geo.txt`
 4. Run `tools/reassign_quests.py` (needs `shapely`) to move any quest that falls in another region; it records moves in `web/moved.js`.

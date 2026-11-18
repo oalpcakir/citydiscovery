@@ -113,7 +113,7 @@ def from_commons(ll):
 
 def work(job):
     key, q, ll, cat, country = job
-    langs = {"Belgium": ["nl", "fr", "en"], "Germany": ["de", "en"], "Luxembourg": ["fr", "de", "en"]}.get(country, ["nl", "en"])
+    langs = {"Belgium": ["nl", "fr", "en"], "Germany": ["de", "en"], "Luxembourg": ["fr", "de", "en"], "France": ["fr", "en"]}.get(country, ["nl", "en"])
     try:
         ph = from_wikipedia(q, ll, langs)
         if not ph and cat == "gor":

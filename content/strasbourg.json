@@ -1,0 +1,522 @@
+{
+  "new": [
+    {
+      "id": "astroclock", "cat": "gor", "area": "merkez",
+      "title": "Catch the apostles at the astronomical clock",
+      "desc": "Inside the cathedral stands a clock as tall as a house, rebuilt by Jean-Baptiste Schwilgué in 1842 inside a Renaissance case. Every quarter hour one of the four ages of life walks past Death, and once a day the twelve apostles parade before Christ while a mechanical rooster flaps and crows.",
+      "tip": "The big show runs on solar time, so it happens at half past noon rather than at twelve. Be at the south transept well ahead, as the queue forms early.",
+      "q": "Horloge astronomique, Cathédrale Notre-Dame de Strasbourg", "ll": [48.5816, 7.7513],
+      "tags": ["rainy day"],
+      "src": ["https://fr.wikipedia.org/wiki/Horloge_astronomique_de_Strasbourg", "https://www.france.fr/fr/article/que-faire-que-voir-strasbourg/"]
+    },
+    {
+      "id": "kammerzell", "cat": "gor", "area": "merkez",
+      "title": "Read the carvings on Maison Kammerzell",
+      "desc": "The most ornate half-timbered house in town was dressed up in 1589 by a cheese merchant, who had its beams carved with zodiac signs, the five senses, the ages of life and heroes like Caesar and Charlemagne. It is the textbook Alsatian Renaissance facade, right next to the cathedral.",
+      "tip": "Step inside for a drink to see the murals Léo Schnug painted in 1910. The kitchen is known for its choucroute with three fish.",
+      "q": "Maison Kammerzell Strasbourg", "ll": [48.5819, 7.7497],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Maison_Kammerzell", "https://en.wikivoyage.org/wiki/Strasbourg"]
+    },
+    {
+      "id": "petitefrancetanneurs", "cat": "gor", "area": "merkez",
+      "title": "Wander the tanners' lanes of Petite France",
+      "desc": "The postcard quarter of Strasbourg was once the smelly home of tanners, millers and fishermen. Look up along Rue du Bain-aux-Plantes: the open attics under the roofs were built to dry hides in the breeze.",
+      "tip": "The pretty name has an unromantic origin: a hospice here treated soldiers with syphilis, known as the French disease. Come before breakfast to have Place Benjamin-Zix to yourself.",
+      "q": "Maison des Tanneurs, Rue du Bain-aux-Plantes, Strasbourg", "ll": [48.5809, 7.7413],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Petite_France_(Strasbourg)", "https://www.france.fr/fr/article/que-faire-que-voir-strasbourg/"]
+    },
+    {
+      "id": "pontscouverts", "cat": "gor", "area": "merkez",
+      "title": "Cross the Ponts Couverts tower by tower",
+      "desc": "Three bridges and four square medieval towers guard the spot where the Ill splits into the canals of Petite France. The roofs that gave the bridges their name are long gone, but the name stuck.",
+      "tip": "Walk them towards evening, when the towers are lit and reflected in the water, then turn round for the view back to the cathedral spire.",
+      "q": "Ponts Couverts Strasbourg", "ll": [48.5802, 7.7394],
+      "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Strasbourg", "https://fr.wikipedia.org/wiki/Petite_France_(Strasbourg)"]
+    },
+    {
+      "id": "barragevauban", "cat": "gor", "area": "merkez",
+      "title": "Climb onto the roof of the Barrage Vauban",
+      "desc": "This 17th-century weir was built so the southern approach to the city could be flooded if an enemy came too close. Today its grassy roof terrace gives the classic panorama of the Ponts Couverts, Petite France and the cathedral in one line.",
+      "tip": "Walk through the covered gallery on the way: old statues and casts from the cathedral are stored behind the grilles.",
+      "q": "Barrage Vauban Strasbourg", "ll": [48.5796, 7.7380],
+      "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Strasbourg", "https://fr.wikipedia.org/wiki/Petite_France_(Strasbourg)"]
+    },
+    {
+      "id": "palaisrohan", "cat": "gor", "area": "merkez",
+      "title": "Tour the Palais Rohan, a small Versailles",
+      "desc": "The prince-bishops of Strasbourg built themselves a French palace on the riverbank, right beside the cathedral. It now houses three museums under one roof: fine arts, decorative arts with the bishops' state apartments, and archaeology in the basement.",
+      "tip": "Short on time? Pick the decorative arts museum for the apartments. The best view of the facade is from the opposite quay across the Ill.",
+      "q": "Palais Rohan Strasbourg", "ll": [48.5810, 7.7522],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikivoyage.org/wiki/Strasbourg", "https://www.france.fr/fr/article/que-faire-que-voir-strasbourg/"]
+    },
+    {
+      "id": "oeuvrenotredame", "cat": "gor", "area": "merkez",
+      "title": "Meet the cathedral's original statues up close",
+      "desc": "The Musée de l'Œuvre Notre-Dame keeps the medieval sculptures taken down from the cathedral, so you can look them in the eye instead of squinting from the square. It also holds the Christ head from Wissembourg, considered the oldest known figurative stained glass.",
+      "tip": "The museum sits in a cluster of old houses with a small Gothic garden. Combine it with the cathedral across the square.",
+      "q": "Musée de l'Œuvre Notre-Dame Strasbourg", "ll": [48.5808, 7.7514],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikivoyage.org/wiki/Strasbourg", "https://fr.wikipedia.org/wiki/Wissembourg"]
+    },
+    {
+      "id": "mamcs", "cat": "gor", "area": "merkez",
+      "title": "Walk the glass nave of the MAMCS",
+      "desc": "The museum of modern and contemporary art opened in 1998 on the riverbank facing the Barrage Vauban, built around a glass nave 25 metres high. The collection runs from Monet and Picasso to today.",
+      "tip": "Cross the Barrage Vauban from Petite France and you arrive at the door. The museum terrace looks back over the old town.",
+      "q": "Musée d'Art Moderne et Contemporain de Strasbourg", "ll": [48.5795, 7.7361],
+      "tags": ["rainy day"],
+      "src": ["https://www.france.fr/fr/article/que-faire-que-voir-strasbourg/", "https://en.wikivoyage.org/wiki/Strasbourg"]
+    },
+    {
+      "id": "tomiungerer", "cat": "gor", "area": "merkez",
+      "title": "Grin at the drawings in the Musée Tomi Ungerer",
+      "desc": "Strasbourg's most famous illustrator drew gentle children's books and savage satire with the same pen. This villa near Place de la République shows both sides, along with his toy collection.",
+      "tip": "The displays rotate several times a year, so it is worth a second visit. One section is clearly not meant for children.",
+      "q": "Musée Tomi Ungerer Strasbourg", "ll": [48.5857, 7.7551],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikivoyage.org/wiki/Strasbourg", "https://toploc.com/blog/france/visiter-le-bas-rhin"]
+    },
+    {
+      "id": "placerepublique", "cat": "gor", "area": "merkez",
+      "title": "Stand in the Kaiser's square in the Neustadt",
+      "desc": "After 1871 the German Empire built Strasbourg a whole new town, and Place de la République, the former Kaiserplatz, was its showpiece: the emperor's Palais du Rhin on one side, the national library and the old regional parliament on the others. The district joined the UNESCO list in 2017.",
+      "tip": "Continue along the avenue to the Palais Universitaire for the full imperial axis. Come in spring, when the magnolias on the square are in flower.",
+      "q": "Place de la République Strasbourg", "ll": [48.5873, 7.7540],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Neustadt_(Strasbourg)", "https://en.wikivoyage.org/wiki/Strasbourg"]
+    },
+    {
+      "id": "maisonegyptienne", "cat": "gor", "area": "merkez",
+      "title": "Find the Egyptian house in the Neustadt",
+      "desc": "On an ordinary residential street, a 1905 apartment block is covered with a painted pharaonic scene, half Art Nouveau and half fantasy Orient. It is the kind of thing you only notice if somebody tells you to look up.",
+      "tip": "It is a private building, so admire it from the pavement at 10 Rue du Général-Rapp. The surrounding streets are full of Jugendstil doorways and balconies.",
+      "q": "Maison égyptienne, 10 Rue du Général Rapp, Strasbourg", "ll": [48.5892, 7.7577],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Neustadt_(Strasbourg)", "https://www.france.fr/fr/article/que-faire-que-voir-strasbourg/"]
+    },
+    {
+      "id": "saintthomas", "cat": "gor", "area": "merkez",
+      "title": "See the marshal's tomb in Église Saint-Thomas",
+      "desc": "Known as the Protestant cathedral of Alsace, this hall church hides a theatrical Baroque mausoleum by Pigalle for the Maréchal de Saxe. Mozart praised its Silbermann organ in 1778, and Albert Schweitzer designed the choir organ.",
+      "tip": "Look for the carved Romanesque sarcophagus of Bishop Adeloch as well. Organ concerts are held here regularly, so check the notice at the door.",
+      "q": "Église Saint-Thomas Strasbourg", "ll": [48.5797, 7.7453],
+      "tags": ["free", "rainy day"],
+      "src": ["https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Thomas_de_Strasbourg"]
+    },
+    {
+      "id": "saintpierrelejeune", "cat": "gor", "area": "merkez",
+      "title": "Slip into the cloister of Saint-Pierre-le-Jeune",
+      "desc": "Behind a plain door near Place Kléber lies a cloister with galleries from the 11th century, one of the quietest corners of the centre. Inside the church, a rare surviving rood screen carries a Silbermann organ, and the walls are covered in painted processions.",
+      "tip": "Find the fresco of the nations of Europe riding towards the cross on the south aisle wall. There are two churches with this name; you want the Protestant one in the old town.",
+      "q": "Église Saint-Pierre-le-Jeune protestante Strasbourg", "ll": [48.5856, 7.7464],
+      "tags": ["free", "rainy day"],
+      "src": ["https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Pierre-le-Jeune_protestante_de_Strasbourg", "https://toploc.com/blog/france/visiter-le-bas-rhin"]
+    },
+    {
+      "id": "aubette1928", "cat": "gor", "area": "merkez",
+      "title": "Step into the Aubette 1928 dance hall",
+      "desc": "Upstairs in the long building on Place Kléber, Theo van Doesburg, Sophie Taeuber-Arp and Jean Arp turned a leisure complex into a walk-in abstract painting. Fans called it the Sistine Chapel of modern art, and the restored cinema-ballroom still looks startling.",
+      "tip": "Entry is free, but it only opens in the afternoon on certain days of the week, so check before you climb the stairs.",
+      "q": "Aubette 1928, Place Kléber, Strasbourg", "ll": [48.5839, 7.7457],
+      "tags": ["free", "rainy day"],
+      "src": ["https://fr.wikipedia.org/wiki/Aubette_(Strasbourg)"]
+    },
+    {
+      "id": "chateauvodou", "cat": "gor", "area": "merkez",
+      "title": "Visit the vodou museum in a water tower",
+      "desc": "An 1878 railway water tower behind the station holds what is presented as the largest collection of West African vodou objects in the world, gathered in Togo, Benin, Ghana and Nigeria. Strange, serious and unlike anything else in Alsace.",
+      "tip": "It opens in the afternoon and is run by an association. Locals recommend the special visits by torchlight when they are on.",
+      "q": "Château Vodou, 4 Rue de Koenigshoffen, Strasbourg", "ll": [48.5804, 7.7286],
+      "tags": ["rainy day"],
+      "src": ["https://fr.wikipedia.org/wiki/Ch%C3%A2teau_Vodou", "https://www.lebonbon.fr/strasbourg/les-tops-insolite/trucs-insolites-a-faire-au-moins-une-fois-dans-sa-vie-a-strasbourg"]
+    },
+    {
+      "id": "chezyvonne", "cat": "ye", "area": "merkez",
+      "title": "Order choucroute at Chez Yvonne",
+      "desc": "The winstub is Strasbourg's answer to the pub: wood panelling, checked cloths, shared tables and a jug of Alsace wine. Chez Yvonne, also called S'Burjerstuewel, is the most famous of them, and its choucroute garnie is the dish to judge all others by.",
+      "tip": "Book well ahead, especially in December. Weekday lunch is calmer, and you can ask for one of the small rooms upstairs.",
+      "q": "Chez Yvonne, 10 Rue du Sanglier, Strasbourg", "ll": [48.5828, 7.7495],
+      "src": ["https://doeatbetterexperience.com/fr/blog/meilleures-winstub-strasbourg/", "https://en.wikivoyage.org/wiki/Strasbourg"]
+    },
+    {
+      "id": "aupontcorbeau", "cat": "ye", "area": "merkez",
+      "title": "Share a jambonneau at Au Pont Corbeau",
+      "desc": "If the Michelin inspectors had to keep a single winstub in Strasbourg, they say it would probably be this one on the quay. Expect old-style presskopf (pork terrine), grilled ham knuckle on choucroute and a blueberry tart to finish.",
+      "tip": "It is small and loved by locals, so reserve. The quay outside leads straight to the old customs house and the cathedral.",
+      "q": "Au Pont Corbeau, 21 Quai Saint-Nicolas, Strasbourg", "ll": [48.5792, 7.7506],
+      "src": ["https://guide.michelin.com/fr/fr/best-of/les-meilleures-winstubs-a-strasbourg-et-dans-les-environs"]
+    },
+    {
+      "id": "leclouwinstub", "cat": "ye", "area": "merkez",
+      "title": "Squeeze into Le Clou for a winstub dinner",
+      "desc": "In a narrow lane a minute from the cathedral, Le Clou packs diners elbow to elbow under dark wood and painted panels. The braised pork knuckle is the house speciality, and portions are built for sharing.",
+      "tip": "Reservations are essential. Do not over-order: one main per person is already ambitious.",
+      "q": "Le Clou, 3 Rue du Chaudron, Strasbourg", "ll": [48.5823, 7.7486],
+      "src": ["https://doeatbetterexperience.com/fr/blog/meilleures-winstub-strasbourg/"]
+    },
+    {
+      "id": "binchstub", "cat": "ye", "area": "merkez",
+      "title": "Eat a farm tarte flambée at Binchstub",
+      "desc": "Tarte flambée, or flammekueche, is a paper-thin dough spread with cream, onions and bacon and blistered in a hot oven. Binchstub turned it into a local cult by naming the farm, mill and dairy behind each ingredient.",
+      "tip": "Order them one at a time and share, as Alsatians do. The house motto is that you never ask for a last one, only another one.",
+      "q": "Binchstub Broglie, 28 Impasse de l'Écrevisse, Strasbourg", "ll": [48.5845, 7.7502],
+      "src": ["https://binchstub.fr/"]
+    },
+    {
+      "id": "baeckeoffealsace", "cat": "ye", "area": "merkez",
+      "title": "Lift the lid on a baeckeoffe",
+      "desc": "Baeckeoffe means baker's oven: beef, lamb and pork marinated in white wine, layered with potatoes and onions and slow-cooked in a sealed earthenware terrine. Le Baeckeoffe d'Alsace in Petite France builds its whole menu around it, with versions that change through the year.",
+      "tip": "This is winter food and very filling, so skip the starter. The terrine it arrives in is the kind made by the potters of Soufflenheim.",
+      "q": "Le Baeckeoffe d'Alsace, 14 Rue des Moulins, Strasbourg", "ll": [48.5812, 7.7420],
+      "src": ["https://voyages.ideoz.fr/restaurant-strasbourg-cuisine-alsacienne-typique/"]
+    },
+    {
+      "id": "cavehospices", "cat": "ye", "area": "merkez",
+      "title": "Go down to the wine cellar under the hospital",
+      "desc": "Beneath the city hospital lies a cellar from 1395, lined with huge oak casks from the days when patients paid their bills in vineyards. One barrel holds a white wine from 1472 that has been served only a handful of times in five centuries.",
+      "tip": "Walk in through the hospital gate on Place de l'Hôpital and follow the signs. The Alsace wines aged here are sold on the spot, and the profits buy medical equipment.",
+      "q": "Cave historique des Hospices de Strasbourg", "ll": [48.5758, 7.7464],
+      "tags": ["free", "rainy day"],
+      "src": ["https://fr.wikipedia.org/wiki/Cave_historique_des_hospices_de_Strasbourg", "https://www.lebonbon.fr/strasbourg/les-tops-insolite/trucs-insolites-a-faire-au-moins-une-fois-dans-sa-vie-a-strasbourg"]
+    },
+    {
+      "id": "aubrasseur", "cat": "ye", "area": "merkez",
+      "title": "Drink a house beer at Au Brasseur",
+      "desc": "Alsace brews most of France's beer, and this brewpub has been making its own blonde, amber and brown on site since 1991. Students and regulars pair them with cheap tartes flambées at long tables.",
+      "tip": "The early evening happy hour is loud and packed. Come later if you want to hear your friends.",
+      "q": "Au Brasseur, 22 Rue des Veaux, Strasbourg", "ll": [48.5826, 7.7554],
+      "src": ["https://doeatbetterexperience.com/fr/blog/meilleurs-bars-a-biere-strasbourg/", "https://en.wikivoyage.org/wiki/Strasbourg"]
+    },
+    {
+      "id": "mulhauptkougelhopf", "cat": "ye", "area": "merkez",
+      "title": "Buy a fresh kougelhopf at Thierry Mulhaupt",
+      "desc": "Kougelhopf is the fluted Alsatian brioche with raisins and almonds, baked in a ridged earthenware mould. Pastry chef Thierry Mulhaupt is the local reference for it, and his shop also sells miniature ones.",
+      "tip": "Eat it the same day, as it dries out quickly. Stay away from the cellophane-wrapped versions in souvenir shops.",
+      "q": "Pâtisserie Thierry Mulhaupt, 18 Rue du Vieux-Marché-aux-Poissons, Strasbourg", "ll": [48.5803, 7.7497],
+      "src": ["https://doeatbetterexperience.com/blog/strasbourg-christmas-baking-bredele-kougelhopf/"]
+    },
+    {
+      "id": "naegelbredele", "cat": "ye", "area": "merkez",
+      "title": "Fill a bag with bredele at Maison Naegel",
+      "desc": "Bredele are the small Christmas biscuits every Alsatian family bakes by the tin: aniseed, cinnamon stars, butter shapes. At this bakery in the Carré d'Or you choose them by weight from the counter and build your own assortment.",
+      "tip": "Go when it opens in the morning. On Advent Saturdays the queue runs down Rue des Orfèvres.",
+      "q": "Maison Naegel, 9 Rue des Orfèvres, Strasbourg", "ll": [48.5826, 7.7499],
+      "months": [11, 12],
+      "src": ["https://doeatbetterexperience.com/blog/strasbourg-christmas-baking-bredele-kougelhopf/"]
+    },
+    {
+      "id": "hanssbretzel", "cat": "ye", "area": "merkez",
+      "title": "Grab a bretzel at Boulangerie Hanss",
+      "desc": "The Alsatian bretzel is soft, glossy brown and sprinkled with coarse salt, eaten as a snack at any hour. French food critic Gilles Pudlowski singled out the fine ones baked at this neighbourhood bakery, along with its sourdough loaves and kougelhopf.",
+      "tip": "Come in the morning, when the bretzels are fresh. The bakery closes on Saturday afternoon and Sunday.",
+      "q": "Boulangerie Hanss, 24 Rue Saint-Marc, Strasbourg", "ll": [48.5880, 7.7478],
+      "src": ["https://www.gillespudlowski.com/?p=253254"]
+    },
+    {
+      "id": "purgatoire", "cat": "ye", "area": "merkez",
+      "title": "Taste Alsace by the glass at Le Purgatoire",
+      "desc": "This wine bar in the Krutenau occupies a former chapel, and the bottles line the walls like books in an old library. With more than 150 wines, it is a good place to compare a Riesling, a Pinot Gris and a Gewurztraminer side by side.",
+      "tip": "Ask the sommeliers for their current favourites, as the selection keeps changing. On warm evenings the terrace on Place de Zurich fills up fast.",
+      "q": "Le Purgatoire, 34 Rue de Zurich, Strasbourg", "ll": [48.5796, 7.7586],
+      "src": ["https://www.lebonbon.fr/strasbourg/bars-a-vins/bar-a-vin-strasbourg-purgatoire/"]
+    },
+    {
+      "id": "cafebretelles", "cat": "ye", "area": "merkez",
+      "title": "Linger over coffee at Café Bretelles",
+      "desc": "The coffee shop Strasbourg locals name first: friendly, unhurried and proud of being local. One branch sits among the half-timbered houses of Petite France, the other in the Krutenau.",
+      "tip": "The local city guide's advice is to settle in for a few hours. The Petite France branch is a welcome break from the tourist terraces around it.",
+      "q": "Café Bretelles, 36 Rue du Bain-aux-Plantes, Strasbourg", "ll": [48.5806, 7.7408],
+      "src": ["https://www.cafe-bretelles.fr/", "https://www.lebonbon.fr/strasbourg/les-tops-insolite/trucs-insolites-a-faire-au-moins-une-fois-dans-sa-vie-a-strasbourg"]
+    },
+    {
+      "id": "aufonddujardin", "cat": "ye", "area": "merkez",
+      "title": "Take tea at Au Fond du Jardin",
+      "desc": "Behind the cathedral, a tiny tea room decorated like an eccentric English parlour serves tea with its own themed madeleines. It is one of the most unexpected addresses in town.",
+      "tip": "The tea room works by reservation only, in fixed afternoon sittings. Without a booking you can still buy madeleines and tea in the shop.",
+      "q": "Au Fond du Jardin, 6 Rue de la Râpe, Strasbourg", "ll": [48.5811, 7.7523],
+      "src": ["https://www.aufonddujardin.fr/", "https://www.lebonbon.fr/strasbourg/les-tops-insolite/trucs-insolites-a-faire-au-moins-une-fois-dans-sa-vie-a-strasbourg"]
+    },
+    {
+      "id": "cathedralplatform", "cat": "dene", "area": "merkez",
+      "title": "Climb the 330 steps of the cathedral",
+      "desc": "A spiral staircase leads up to the platform between the towers, 66 metres above the square, where the watchmen once lived. From here you see the rooftops of the Grande Île, the Vosges on one side and the Black Forest on the other.",
+      "tip": "The entrance is on the south side of the cathedral, not through the main door. Pick a clear day, and look for the names carved in the stone by visitors of past centuries.",
+      "q": "Plateforme de la Cathédrale Notre-Dame de Strasbourg", "ll": [48.5818, 7.7507],
+      "src": ["https://www.france.fr/fr/article/que-faire-que-voir-strasbourg/", "https://www.lebonbon.fr/strasbourg/les-tops-insolite/trucs-insolites-a-faire-au-moins-une-fois-dans-sa-vie-a-strasbourg"]
+    },
+    {
+      "id": "batorama", "cat": "dene", "area": "merkez",
+      "title": "Circle the Grande Île on a Batorama boat",
+      "desc": "Strasbourg's old town is an island, and the boat tour is the easiest way to understand it. The longer loops take about 70 minutes, the shorter ones 45, with boarding near the cathedral.",
+      "tip": "There are several colour-coded routes, so check which one you are buying. Boarding pontoons can change during works; look at your ticket before you walk down.",
+      "q": "Batorama, embarcadère Cathédrale, Place du Marché aux Poissons, Strasbourg", "ll": [48.5806, 7.7519],
+      "src": ["https://www.batorama.com/en", "https://en.wikivoyage.org/wiki/Strasbourg"]
+    },
+    {
+      "id": "christkindelsmaerik", "cat": "dene", "area": "merkez",
+      "title": "Stroll the Christkindelsmärik on Place Broglie",
+      "desc": "Strasbourg has held its Christmas market since 1570, which makes it one of the oldest in Europe. Around 300 wooden chalets spread over the squares of the old town, with Place Broglie as the historic heart.",
+      "tip": "Go on a weekday morning or late evening, as weekends are shoulder to shoulder. The city bans churros and paninis from the stalls, so eat local: gingerbread from Gertwiller, tarte flambée, choucroute.",
+      "q": "Christkindelsmärik, Place Broglie, Strasbourg", "ll": [48.5848, 7.7503],
+      "months": [11, 12], "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Christkindelsm%C3%A4rik", "https://www.france.fr/fr/article/que-faire-que-voir-strasbourg/"]
+    },
+    {
+      "id": "cathedralillumination", "cat": "dene", "area": "merkez",
+      "title": "Watch the summer light show on the cathedral",
+      "desc": "On July and August nights the cathedral becomes a screen for a free show of projections, light and sound. Half the city turns up with a picnic blanket.",
+      "tip": "It starts after dark and repeats until midnight. Arrive early for a spot on Place du Château, on the south side.",
+      "q": "Place du Château, Strasbourg", "ll": [48.5810, 7.7512],
+      "months": [7, 8], "tags": ["free"],
+      "src": ["https://www.jds.fr/manifestations/animations/illuminations-cathedrale-strasbourg-108611_A"]
+    },
+    {
+      "id": "bainsmunicipaux", "cat": "dene", "area": "merkez",
+      "title": "Swim under the dome of the Bains Municipaux",
+      "desc": "Fritz Beblo's public baths of 1908 are a listed monument where you can still swim: two pools under painted vaults, plus Roman baths, saunas and hammams. They reopened in 2021 after a careful restoration.",
+      "tip": "Bring a swimming cap and proper swimwear, as French pool rules apply. The Roman baths are ticketed separately from the pools.",
+      "q": "Bains municipaux de Strasbourg, 10 Boulevard de la Victoire", "ll": [48.5835, 7.7597],
+      "tags": ["rainy day"],
+      "src": ["https://fr.wikipedia.org/wiki/Bains_municipaux_de_Strasbourg", "https://www.france.fr/fr/article/que-faire-que-voir-strasbourg/"]
+    },
+    {
+      "id": "deuxrives", "cat": "dene", "area": "merkez",
+      "title": "Walk to the middle of the Rhine at Deux Rives",
+      "desc": "The Jardin des Deux Rives is a park shared by two countries, joined by Marc Mimram's footbridge over the Rhine. Its two decks meet at a platform in midstream, where you stand between France and Germany.",
+      "tip": "Take tram D to Port du Rhin, or cycle out from the centre. Locals come for the sunset over the river.",
+      "q": "Jardin des Deux Rives Strasbourg", "ll": [48.5693, 7.8005],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Jardin_des_Deux_Rives", "https://www.lebonbon.fr/strasbourg/les-tops-insolite/trucs-insolites-a-faire-au-moins-une-fois-dans-sa-vie-a-strasbourg"]
+    },
+    {
+      "id": "orangerie", "cat": "dene", "area": "merkez",
+      "title": "Row a boat and spot storks at the Orangerie",
+      "desc": "The city's oldest park faces the European institutions and is home to the white stork, symbol of Alsace, which nests on the roofs and treetops here. There is a lake with a waterfall where you can hire a rowing boat, and a pavilion named after Empress Joséphine.",
+      "tip": "Look up at the pollarded trees along the main paths to see the big stick nests. Spring is best, when the storks clatter their beaks.",
+      "q": "Parc de l'Orangerie Strasbourg", "ll": [48.5919, 7.7761],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Parc_de_l%27Orangerie", "https://www.lebonbon.fr/strasbourg/les-tops-insolite/trucs-insolites-a-faire-au-moins-une-fois-dans-sa-vie-a-strasbourg"]
+    },
+    {
+      "id": "parlementeuropeen", "cat": "dene", "area": "merkez",
+      "title": "Sit in the gallery of the European Parliament",
+      "desc": "Strasbourg is the official seat of the European Parliament, and anyone can visit the glass and steel building for free. Outside session weeks you tour the hemicycle with a multimedia guide; during the twelve yearly sessions you can watch the debates from the visitors' gallery.",
+      "tip": "Bring a physical passport or national ID card: photos, copies and driving licences are refused. Tram E stops in front.",
+      "q": "Parlement européen Strasbourg", "ll": [48.5974, 7.7688],
+      "tags": ["free", "rainy day"],
+      "src": ["https://visiting.europarl.europa.eu/en/visitor-offer/strasbourg/hemicycle", "https://en.wikivoyage.org/wiki/Strasbourg"]
+    },
+    {
+      "id": "planetarium", "cat": "dene", "area": "merkez",
+      "title": "Lie back under the dome of the Planétarium",
+      "desc": "The university's new planetarium opened in 2023 with a 15 metre dome and full 360 degree projection. It belongs to the Jardin des sciences, next to the historic observatory.",
+      "tip": "Shows are mostly in French and sell out during school holidays, so book ahead. The botanical garden is around the corner.",
+      "q": "Planétarium du Jardin des sciences, 27 Boulevard de la Victoire, Strasbourg", "ll": [48.5833, 7.7678],
+      "tags": ["rainy day"],
+      "src": ["https://fr.wikipedia.org/wiki/Plan%C3%A9tarium_de_Strasbourg", "https://www.france.fr/fr/article/que-faire-que-voir-strasbourg/"]
+    },
+    {
+      "id": "jardinbotanique", "cat": "dene", "area": "merkez",
+      "title": "Get lost in the university's Jardin botanique",
+      "desc": "Behind the Palais Universitaire, the university has tended this garden since 1884: 3.5 hectares with thousands of species and the dome of the old observatory rising above the trees. The twelve-sided Serre de Bary was built to grow giant water lilies.",
+      "tip": "Enter from Rue Goethe. It is a favourite reading spot for students, so bring a book and stay a while.",
+      "q": "Jardin botanique de l'Université de Strasbourg, 28 Rue Goethe", "ll": [48.5829, 7.7681],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Jardin_botanique_de_l%27universit%C3%A9_de_Strasbourg", "https://www.france.fr/fr/article/que-faire-que-voir-strasbourg/"]
+    },
+    {
+      "id": "levaisseau", "cat": "dene", "area": "merkez",
+      "title": "Let the kids loose at Le Vaisseau",
+      "desc": "This hands-on science centre is built for children from about 3 to 15: building sites, water channels, animals and experiments they are meant to touch. A reliable answer to a wet Alsatian afternoon.",
+      "tip": "It is just south-east of the centre, near the tram. Allow at least half a day, and there is a garden for sunny spells.",
+      "q": "Le Vaisseau, Strasbourg", "ll": [48.5729, 7.7722],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikivoyage.org/wiki/Strasbourg"]
+    },
+    {
+      "id": "racingmeinau", "cat": "dene", "area": "merkez",
+      "title": "Sing with the blue wall at a Racing match",
+      "desc": "Racing Club de Strasbourg has played at the Stade de la Meinau since 1914, and the city follows it with rare loyalty through good seasons and bad. The standing west stand, the Mur Bleu, sets the tone for the whole ground.",
+      "tip": "Take the tram to Krimmeri-Stade de la Meinau. Home games sell out, so buy tickets as soon as they are released.",
+      "q": "Stade de la Meinau Strasbourg", "ll": [48.5601, 7.7550],
+      "src": ["https://fr.wikipedia.org/wiki/Stade_de_la_Meinau", "https://en.wikivoyage.org/wiki/Strasbourg"]
+    },
+    {
+      "id": "obernaimarche", "cat": "gor", "area": "cevre",
+      "title": "Circle the market square of Obernai",
+      "desc": "Obernai, at the foot of Mont Sainte-Odile, is the Alsatian small town in concentrated form. Around its square stand a Renaissance corn hall with cattle heads on the gable, a 60 metre belfry called the Kappelturm and a well with six buckets from 1579.",
+      "tip": "Trains run from Strasbourg in about half an hour. Thursday is market day, and a walk along the old ramparts takes you away from the crowds.",
+      "q": "Place du Marché, Obernai", "ll": [48.4622, 7.4819],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Obernai", "https://www.enjoystrasbourg.com/10-places-to-visit-around-strasbourg/"]
+    },
+    {
+      "id": "montsainteodile", "cat": "gor", "area": "cevre",
+      "title": "Look over Alsace from Mont Sainte-Odile",
+      "desc": "The convent of the patron saint of Alsace sits on a sandstone cliff 764 metres up, above Ottrott. Pilgrims come for Odile's tomb and the small painted chapels; everyone else comes for the terrace, where the plain rolls out to the Black Forest.",
+      "tip": "Walk 15 minutes down to the spring that is said to heal the eyes. On very clear days the Alps show on the horizon.",
+      "q": "Mont Sainte-Odile, Ottrott", "ll": [48.4372, 7.4042],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Mont_Sainte-Odile", "https://www.enjoystrasbourg.com/10-places-to-visit-around-strasbourg/"]
+    },
+    {
+      "id": "murpaien", "cat": "dene", "area": "cevre",
+      "title": "Hike along the Mur Païen above Ottrott",
+      "desc": "A mysterious wall of some 300,000 stone blocks runs for about 11 kilometres through the forest around Mont Sainte-Odile, up to three metres high in places. Nobody agrees on who built it or when, which is half the pleasure of walking beside it.",
+      "tip": "Start from the convent car park and follow the marked loop; the northern section makes a good half-day. Wear proper shoes, as the path is rooty and slippery after rain.",
+      "q": "Mur païen, Mont Sainte-Odile, Ottrott", "ll": [48.4335, 7.4020],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Mont_Sainte-Odile", "https://en.wikivoyage.org/wiki/Alsace"]
+    },
+    {
+      "id": "hautkoenigsbourg", "cat": "gor", "area": "cevre",
+      "title": "Storm the Château du Haut-Kœnigsbourg",
+      "desc": "This pink sandstone fortress at 757 metres above Orschwiller was a ruin until Kaiser Wilhelm II had it rebuilt between 1901 and 1908 as it might have looked around 1500. Drawbridges, an armoury, a hall with an imperial eagle on the ceiling: it is the medieval castle of everyone's imagination.",
+      "tip": "Film fans will know the walls from Renoir's La Grande Illusion. Sélestat is the nearest station; check the castle website for the shuttle, and arrive at opening time in summer.",
+      "q": "Château du Haut-Kœnigsbourg, Orschwiller", "ll": [48.2495, 7.3444],
+      "src": ["https://fr.wikipedia.org/wiki/Ch%C3%A2teau_du_Haut-K%C5%93nigsbourg", "https://www.enjoystrasbourg.com/10-places-to-visit-around-strasbourg/"]
+    },
+    {
+      "id": "bibliothequehumaniste", "cat": "gor", "area": "cevre",
+      "title": "Open the Renaissance in Sélestat's humanist library",
+      "desc": "In 1547 the scholar Beatus Rhenanus, a friend of Erasmus, left his entire personal library to his home town of Sélestat. It survives intact, is listed in UNESCO's Memory of the World register, and has been shown since 2018 in a building redesigned by Rudy Ricciotti.",
+      "tip": "Sélestat is 20 minutes by train from Strasbourg. Afterwards walk to the two big churches, Romanesque Sainte-Foy and Gothic Saint-Georges, which stand a few steps apart.",
+      "q": "Bibliothèque humaniste de Sélestat", "ll": [48.2606, 7.4556],
+      "tags": ["rainy day"],
+      "src": ["https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_humaniste_de_S%C3%A9lestat", "https://toploc.com/blog/france/visiter-le-bas-rhin"]
+    },
+    {
+      "id": "struthof", "cat": "gor", "area": "cevre",
+      "title": "Pay your respects at the Struthof memorial",
+      "desc": "High in the Vosges at Natzwiller stood the only Nazi concentration camp on what is now French soil. The fences, barracks, the path the deportees climbed and a tall memorial remain, together with a museum on resistance and deportation across Europe.",
+      "tip": "It is a sombre visit and not for small children. You need a car, and it is cold and windy up here, so bring a jacket even in summer.",
+      "q": "Mémorial de Natzweiler-Struthof, Natzwiller", "ll": [48.4554, 7.2542],
+      "src": ["https://fr.wikipedia.org/wiki/Camp_de_concentration_de_Natzweiler-Struthof", "https://toploc.com/blog/france/visiter-le-bas-rhin"]
+    },
+    {
+      "id": "wissembourgabbatiale", "cat": "gor", "area": "cevre",
+      "title": "Find the giant Saint Christopher in Wissembourg",
+      "desc": "On the German border, Wissembourg has the largest Gothic church in Alsace after Strasbourg cathedral. Inside the abbey church of Saints-Pierre-et-Paul, a 14th-century fresco of Saint Christopher stands about 11 metres tall, and an unfinished cloister leads to a Romanesque chapel.",
+      "tip": "Follow the Lauter through town to the Maison du Sel with its huge sagging roof, then along the old ramparts. Regional trains run from Strasbourg via Haguenau.",
+      "q": "Abbatiale Saints-Pierre-et-Paul, Wissembourg", "ll": [49.0371, 7.9423],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Wissembourg", "https://www.francethisway.com/regions/bas-rhin-highlights.php"]
+    },
+    {
+      "id": "savernerohan", "cat": "gor", "area": "cevre",
+      "title": "Face the Château des Rohan in Saverne",
+      "desc": "The prince-bishops of Strasbourg kept their country residence in Saverne, and the red sandstone palace they left is out of all proportion to the small town around it. It houses the oldest municipal museum in Alsace, and its long garden front looks onto the canal harbour.",
+      "tip": "See the facade from the marina side, where boats on the Marne-Rhine canal moor in front of the palace. Saverne is a short train ride from Strasbourg.",
+      "q": "Château des Rohan, Saverne", "ll": [48.7422, 7.3634],
+      "src": ["https://fr.wikipedia.org/wiki/Ch%C3%A2teau_des_Rohan_(Saverne)", "https://toploc.com/blog/france/visiter-le-bas-rhin"]
+    },
+    {
+      "id": "hautbarr", "cat": "dene", "area": "cevre",
+      "title": "Climb to the Haut-Barr, the eye of Alsace",
+      "desc": "Perched on three sandstone rocks above Saverne, this ruined castle earned its nickname from a view that sweeps the whole plain. A footbridge known as the Pont du Diable links two of the rocks, and nearby stands a rebuilt tower of the Chappe optical telegraph.",
+      "tip": "It is about 2.5 kilometres uphill through the forest from Saverne, or a short drive. The telegraph tower has a small exhibition on how messages once flew from Paris to Strasbourg.",
+      "q": "Château du Haut-Barr, Saverne", "ll": [48.7250, 7.3386],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Ch%C3%A2teau_du_Haut-Barr", "https://toploc.com/blog/france/visiter-le-bas-rhin"]
+    },
+    {
+      "id": "andlauabbatiale", "cat": "gor", "area": "cevre",
+      "title": "Follow the bear to the abbey of Andlau",
+      "desc": "Legend says Empress Richarde founded her abbey in 880 on the spot where a she-bear was scratching the ground, and the nuns kept a live bear for centuries afterwards. The church in this wine village still has a carved Romanesque portal and frieze from around 1130.",
+      "tip": "Go down into the crypt, the oldest part of the church. Andlau is surrounded by grand cru vineyards, so plan a tasting afterwards.",
+      "q": "Abbatiale Saints-Pierre-et-Paul, Andlau", "ll": [48.3878, 7.4150],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Abbaye_d%27Andlau"]
+    },
+    {
+      "id": "betschdorfpoterie", "cat": "gor", "area": "cevre",
+      "title": "See grey and blue stoneware in Betschdorf",
+      "desc": "Since 1586 the potters of Betschdorf have made salt-glazed stoneware in an unmistakable grey with cobalt blue decoration. The pottery museum, in a half-timbered farmhouse from the early 18th century, shows jugs and crocks from three centuries, and a handful of workshops still fire in the old way.",
+      "tip": "The museum is seasonal, so check that it is open before you set out. The workshops along the main street sell directly; a pickling crock is the classic buy.",
+      "q": "Musée de la Poterie, 2 Rue de Kuhlendorf, Betschdorf", "ll": [48.8995, 7.9134],
+      "src": ["https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_la_poterie_de_Betschdorf", "https://fr.wikipedia.org/wiki/Betschdorf"]
+    },
+    {
+      "id": "soufflenheimpotiers", "cat": "dene", "area": "cevre",
+      "title": "Shop the potters' workshops of Soufflenheim",
+      "desc": "Every kougelhopf mould and baeckeoffe terrine in Alsace seems to come from this one village, where potters have dug clay from the Haguenau forest since the Middle Ages under a right granted by Emperor Barbarossa. About a dozen family workshops still line the main street.",
+      "tip": "Ask to see the workshop behind the shop, as most potters are happy to show you. Then climb the Oelberg to see a life-size Last Supper in terracotta.",
+      "q": "Soufflenheim", "ll": [48.8306, 7.9639],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Soufflenheim", "https://www.enjoystrasbourg.com/10-places-to-visit-around-strasbourg/"]
+    },
+    {
+      "id": "fleckenstein", "cat": "dene", "area": "cevre",
+      "title": "Explore the rock castle of Fleckenstein",
+      "desc": "Near Lembach in the northern Vosges, a 12th-century castle was half built and half carved into a narrow sandstone ridge shaped like a ship. You climb through stairways, chambers and a dungeon cut straight into the rock, and come out on top above an ocean of forest.",
+      "tip": "Children get a riddle trail through the castle. Keen walkers can add the four castles circuit, which crosses the border to the Wegelnburg in Germany.",
+      "q": "Château de Fleckenstein, Lembach", "ll": [49.0447, 7.7719],
+      "src": ["https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Fleckenstein", "https://en.wikivoyage.org/wiki/Alsace"]
+    },
+    {
+      "id": "groschenehaguenau", "cat": "dene", "area": "cevre",
+      "title": "Walk the holy forest at Haguenau's Gros Chêne",
+      "desc": "The forest of Haguenau is the largest in Alsace, once called the Holy Forest for the hermits who lived in it. Its best-loved spot is the Gros Chêne, where the trunk of an ancient oak that fell in 1913 stands beside a chapel, an inn and the start of many trails.",
+      "tip": "Families come for the playground and the easy botanical loop, and the inn has a terrace for afterwards. It is a short drive or bike ride east of Haguenau.",
+      "q": "Gros Chêne, Forêt de Haguenau", "ll": [48.8440, 7.8690],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/For%C3%AAt_de_Haguenau", "https://toploc.com/blog/france/visiter-le-bas-rhin"]
+    },
+    {
+      "id": "mittelbergheim", "cat": "ye", "area": "cevre",
+      "title": "Taste Zotzenberg wine in Mittelbergheim",
+      "desc": "Listed among the most beautiful villages of France, Mittelbergheim is all stone Renaissance winegrowers' houses, about eighty of them, with vines covering more than half the commune. Its grand cru hillside, the Zotzenberg, starts right behind the last houses.",
+      "tip": "Ring the bell at any estate with a sign out along Rue Principale and ask for the Sylvaner. An old wine press is displayed in the village.",
+      "q": "Mittelbergheim", "ll": [48.3967, 7.4425],
+      "src": ["https://fr.wikipedia.org/wiki/Mittelbergheim", "https://toploc.com/blog/france/visiter-le-bas-rhin"]
+    },
+    {
+      "id": "gertwillerpaindepices", "cat": "ye", "area": "cevre",
+      "title": "Follow your nose to Gertwiller's gingerbread",
+      "desc": "The village of Gertwiller, next to Barr, has baked pain d'épices since the 18th century and calls itself the gingerbread capital. Two makers remain: Lips, with a folk art museum above the bakery, and Fortwenger, with its Palais du pain d'épices.",
+      "tip": "Buy the soft iced tongues called langues glacées. In December both houses are mobbed; a weekday morning is far calmer.",
+      "q": "Musée du pain d'épices Lips, Gertwiller", "ll": [48.4117, 7.4686],
+      "tags": ["rainy day"],
+      "src": ["https://fr.wikipedia.org/wiki/Gertwiller", "https://fr.wikipedia.org/wiki/Christkindelsm%C3%A4rik"]
+    },
+    {
+      "id": "barrvendanges", "cat": "dene", "area": "cevre",
+      "title": "Join the harvest festival in Barr",
+      "desc": "Barr calls itself the wine capital of Alsace and sits under its own grand cru, the Kirchberg. On the first weekend of October the town celebrates the grape harvest with a parade, music and new wine in the streets.",
+      "tip": "Come by train from Strasbourg, since nobody should drive home from this one. On quieter days, see the 1641 town hall and the Folie Marco house museum.",
+      "q": "Hôtel de ville, Barr", "ll": [48.4078, 7.4494],
+      "months": [10], "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Barr_(Bas-Rhin)", "https://www.enjoystrasbourg.com/10-places-to-visit-around-strasbourg/"]
+    },
+    {
+      "id": "dambachlaville", "cat": "dene", "area": "cevre",
+      "title": "Walk through the gates of Dambach-la-Ville",
+      "desc": "The largest wine village in Alsace is still wrapped in 14th-century ramparts with three gate towers, and a Renaissance fountain topped by a bear stands on its square. Above the roofs, the granite slopes of the Frankstein grand cru rise to the chapel of Saint-Sébastien.",
+      "tip": "Walk up through the vines to the chapel and look for the ossuary behind it. Fit hikers can continue to the ruins of Bernstein castle.",
+      "q": "Dambach-la-Ville", "ll": [48.3247, 7.4281],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Dambach-la-Ville"]
+    },
+    {
+      "id": "winstubarnold", "cat": "ye", "area": "cevre",
+      "title": "Lunch above the vines at Winstub Arnold",
+      "desc": "Itterswiller is a single flowered street strung along a ridge of the wine route, and this winstub is its institution. The Michelin guide lists it for presskopf, choucroute and a baeckeoffe served in a cast-iron pot, with kougelhopf to finish.",
+      "tip": "Ask for a window table for the view over the vineyards. Book ahead on weekends and during the grape harvest.",
+      "q": "Winstub Arnold, 98 Route des Vins, Itterswiller", "ll": [48.3652, 7.4296],
+      "src": ["https://guide.michelin.com/fr/fr/best-of/les-meilleures-winstubs-a-strasbourg-et-dans-les-environs"]
+    },
+    {
+      "id": "pontdelazorn", "cat": "ye", "area": "cevre",
+      "title": "Eat tarte flambée by the Zorn in Weyersheim",
+      "desc": "Tarte flambée was born in the farm villages north of Strasbourg, and many locals drive out of town to eat it properly. The Auberge du Pont de la Zorn in Weyersheim is one of the best-known addresses, an inn with a winstub feel and a terrace on the river.",
+      "tip": "Tartes flambées are an evening affair here, ordered one after another for the table. Reserve, and ask for the terrace in summer.",
+      "q": "Auberge du Pont de la Zorn, 2 Rue de la République, Weyersheim", "ll": [48.7166, 7.8003],
+      "src": ["https://guide.michelin.com/fr/fr/grand-est/weyersheim/restaurant/auberge-du-pont-de-la-zorn"]
+    }
+  ]
+}

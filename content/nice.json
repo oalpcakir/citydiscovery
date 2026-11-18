@@ -1,0 +1,565 @@
+{
+  "new": [
+    {
+      "id": "promenadeanglais", "cat": "gor", "area": "merkez",
+      "title": "Claim a blue chair on the Promenade des Anglais",
+      "desc": "The seafront walk along the Baie des Anges is the city's signature sight, lined with Belle Époque hotels and the famous blue chairs facing the water.",
+      "tip": "Come early in the morning or at dusk, when locals jog, skate and stroll and the light on the bay is at its best.",
+      "q": "Promenade des Anglais, Nice", "ll": [43.6950, 7.2655], "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Nice", "https://cotedazurfrance.fr/decouvrir/les-villes-de-la-cote-dazur/nice/top-10-des-choses-a-voir-et-a-faire-a-nice"]
+    },
+    {
+      "id": "collinechateau", "cat": "gor", "area": "merkez",
+      "title": "Climb the Colline du Château for the big view",
+      "desc": "The castle is long gone, but the wooded hill between the old town and the port gives the classic panorama over the rooftops and the whole sweep of the bay.",
+      "tip": "Take the Art Deco lift at the end of the Quai des États-Unis if the stairs look steep, and note that the park shuts around sunset.",
+      "q": "Colline du Château, Nice", "ll": [43.6954, 7.2800], "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Nice", "https://cotedazurfrance.fr/decouvrir/les-villes-de-la-cote-dazur/nice/top-10-des-choses-a-voir-et-a-faire-a-nice"]
+    },
+    {
+      "id": "placemassena", "cat": "gor", "area": "merkez",
+      "title": "Watch the statues glow on Place Masséna",
+      "desc": "Nice's grand square is ringed by Sardinian red arcades, with the Fontaine du Soleil and its tall Apollo on one side. Seven figures by Jaume Plensa sit on poles high above the tram tracks and change colour after dark.",
+      "tip": "Come back at night: the lit figures are the whole point.",
+      "q": "Place Masséna, Nice", "ll": [43.6972, 7.2703], "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Place_Mass%C3%A9na"]
+    },
+    {
+      "id": "saintereparate", "cat": "gor", "area": "merkez",
+      "title": "Step inside the Cathédrale Sainte-Réparate",
+      "desc": "The baroque cathedral of Vieux Nice hides a lavish interior behind its façade on Place Rossetti, in the middle of the old town's maze of ochre lanes.",
+      "tip": "While you wander Vieux Nice, look up at the façades and peek into open courtyards for more baroque detail.",
+      "q": "Cathédrale Sainte-Réparate, Place Rossetti, Nice", "ll": [43.6971, 7.2757], "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Nice", "https://www.lasourisglobe-trotteuse.fr/lieux-insolites-nice/"]
+    },
+    {
+      "id": "cathedralerusse", "cat": "gor", "area": "merkez",
+      "title": "Find the onion domes of the Russian cathedral",
+      "desc": "The Cathédrale Saint-Nicolas, finished in 1912 with money from Tsar Nicholas II, is the largest Eastern Orthodox cathedral in Western Europe and a reminder of the Russian aristocracy that wintered in Nice.",
+      "tip": "It is a short walk west of the main railway station. Dress modestly, as it is a working church.",
+      "q": "Cathédrale Saint-Nicolas, Nice", "ll": [43.7039, 7.2539],
+      "src": ["https://en.wikipedia.org/wiki/Russian_Orthodox_Cathedral,_Nice"]
+    },
+    {
+      "id": "museechagall", "cat": "gor", "area": "merkez",
+      "title": "See Chagall's colours at the Musée Marc Chagall",
+      "desc": "A museum built around Chagall's large biblical paintings, with stained glass windows he made for the building itself.",
+      "tip": "It sits on the lower slope of Cimiez, so it combines well with the Matisse museum further up the hill.",
+      "q": "Musée National Marc Chagall, Nice", "ll": [43.7092, 7.2694], "tags": ["rainy day"],
+      "src": ["https://en.wikivoyage.org/wiki/Nice"]
+    },
+    {
+      "id": "museematisse", "cat": "gor", "area": "merkez",
+      "title": "Visit Matisse in his Genoese villa",
+      "desc": "The Musée Matisse shows paintings, drawings and sculptures by the artist who made Nice his home, inside a red 17th century Genoese villa in the olive grove of Cimiez.",
+      "tip": "Check the temporary exhibition before you go, and leave time for the Roman ruins next door.",
+      "q": "Musée Matisse, Nice", "ll": [43.7195, 7.2759], "tags": ["rainy day"],
+      "src": ["https://en.wikivoyage.org/wiki/Nice", "https://www.musee-matisse-nice.org/"]
+    },
+    {
+      "id": "cimiezjardins", "cat": "gor", "area": "merkez",
+      "title": "Find peace in the Cimiez monastery gardens",
+      "desc": "On the hill of Cimiez, a monastery garden full of flowers and old olive trees looks out over the city and the bay, next to the remains of a Roman arena.",
+      "tip": "The gardens, the Roman site and the Matisse museum are all a few steps apart, so make it a half day on the hill.",
+      "q": "Jardin du Monastère de Cimiez, Nice", "ll": [43.7197, 7.2787], "tags": ["free"],
+      "src": ["https://cotedazurfrance.fr/decouvrir/les-villes-de-la-cote-dazur/nice/top-10-des-choses-a-voir-et-a-faire-a-nice"]
+    },
+    {
+      "id": "palaislascaris", "cat": "gor", "area": "merkez",
+      "title": "Slip into the Palais Lascaris",
+      "desc": "A 17th century aristocratic palace squeezed into a narrow old town lane, now home to more than 500 historic musical instruments, one of the most important collections in France.",
+      "tip": "The entrance on Rue Droite is easy to walk past, so watch the house numbers.",
+      "q": "Palais Lascaris, Rue Droite, Nice", "ll": [43.6977, 7.2773], "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Palais_Lascaris"]
+    },
+    {
+      "id": "tetecarree", "cat": "gor", "area": "merkez",
+      "title": "Meet La Tête Carrée",
+      "desc": "A giant head whose top half is a cube: Sacha Sosno's sculpture is also a building, with library offices inside the block.",
+      "tip": "You cannot go in, so enjoy it from the gardens beside the Promenade du Paillon, where you get the full profile.",
+      "q": "La Tête Carrée, Nice", "ll": [43.7019, 7.2790], "tags": ["free"],
+      "src": ["https://www.lasourisglobe-trotteuse.fr/lieux-insolites-nice/"]
+    },
+    {
+      "id": "portlympia", "cat": "gor", "area": "merkez",
+      "title": "Stroll around Port Lympia",
+      "desc": "Colourful little boats, Italian style façades and a village mood make the old harbour feel far from the Promenade crowds. Look for the 1937 crane on the west quay, now a listed monument.",
+      "tip": "Free exhibitions are held in the former convict prison, the Galerie Lympia, at the end of the basin.",
+      "q": "Port Lympia, Nice", "ll": [43.6985, 7.2850], "tags": ["free"],
+      "src": ["https://cotedazurfrance.fr/decouvrir/les-villes-de-la-cote-dazur/nice/top-10-des-choses-a-voir-et-a-faire-a-nice", "https://www.lasourisglobe-trotteuse.fr/lieux-insolites-nice/"]
+    },
+    {
+      "id": "observatoirenice", "cat": "gor", "area": "merkez",
+      "title": "Go up to the Observatoire de Nice",
+      "desc": "On top of Mont Gros stands a 19th century observatory whose great dome was designed by Gustave Eiffel and its buildings by Charles Garnier, set in a large park high above the city.",
+      "tip": "Visits are guided, so book through the observatory before you go, and take a bus or car up the hill.",
+      "q": "Observatoire de Nice, Mont Gros", "ll": [43.7262, 7.2996],
+      "src": ["https://www.lasourisglobe-trotteuse.fr/lieux-insolites-nice/"]
+    },
+    {
+      "id": "cascadegairaut", "cat": "gor", "area": "merkez",
+      "title": "Find the Cascade de Gairaut",
+      "desc": "A 19th century folly built to celebrate the arrival of water from the Vésubie: an artificial waterfall, fake rock grottoes and a little alpine chalet in the northern hills. Niçois know it as a Sunday outing, visitors rarely do.",
+      "tip": "It is in a residential district well north of the centre, so go by bus or car and enjoy the view back over the city.",
+      "q": "Cascade de Gairaut, Nice", "ll": [43.7495, 7.2622], "tags": ["free"],
+      "src": ["https://www.lasourisglobe-trotteuse.fr/lieux-insolites-nice/"]
+    },
+    {
+      "id": "chezpipo", "cat": "ye", "area": "merkez",
+      "title": "Queue for socca at Chez Pipo",
+      "desc": "Socca is Nice on a plate: a thin chickpea flour pancake baked in a wood oven and served scorching hot. This spot behind the port has been the reference for a century.",
+      "tip": "Eat it with your fingers and plenty of black pepper, and expect to wait your turn.",
+      "q": "Chez Pipo, 13 Rue Bavastro, Nice", "ll": [43.7008, 7.2843],
+      "src": ["https://doeatbetterexperience.com/fr/blog/socca-pissaladiere-nice-guide-street-food/", "https://www.lasourisglobe-trotteuse.fr/ou-manger-a-nice-adresses/"]
+    },
+    {
+      "id": "cheztheresa", "cat": "ye", "area": "merkez",
+      "title": "Grab socca from Chez Theresa at the market",
+      "desc": "At this Cours Saleya stand, fresh trays of socca arrive every few minutes from the oven in the old town and are cut up on the spot.",
+      "tip": "Listen for the scrape of the spatula on the pan: that means a fresh batch. Bring cash.",
+      "q": "Chez Theresa, Cours Saleya, Nice", "ll": [43.6955, 7.2757],
+      "src": ["https://doeatbetterexperience.com/fr/blog/socca-pissaladiere-nice-guide-street-food/"]
+    },
+    {
+      "id": "kiosquetintin", "cat": "ye", "area": "merkez",
+      "title": "Eat a pan bagnat from Kiosque Tintin",
+      "desc": "A pan bagnat is a salade niçoise in a round loaf soaked with olive oil: tomato, radish, egg, olives, tuna or anchovies. This family kiosk in the Libération market district has been making a much loved one since 1990.",
+      "tip": "Never ask for mayonnaise or lettuce. Take it down to the sea and eat it there, as locals do.",
+      "q": "Kiosque Tintin, Place du Général de Gaulle, Nice", "ll": [43.7100, 7.2617],
+      "src": ["https://en.lebonbon.fr/nice/recipes/kiosk-tintin-nice-recipe-pan", "https://doeatbetterexperience.com/fr/blog/socca-pissaladiere-nice-guide-street-food/"]
+    },
+    {
+      "id": "abuteghinna", "cat": "ye", "area": "merkez",
+      "title": "Try pissaladière at A Buteghinna",
+      "desc": "Pissaladière is the Niçois onion tart, topped with slow cooked onions, anchovies and little black olives. This tiny old town shop carries the Cuisine Nissarde label for sticking to the real recipes.",
+      "tip": "There are only a few stools, so do as locals do and carry your slice to Place Rossetti.",
+      "q": "A Buteghinna, 11 Rue du Marché, Nice", "ll": [43.6975, 7.2752],
+      "src": ["https://doeatbetterexperience.com/fr/blog/socca-pissaladiere-nice-guide-street-food/"]
+    },
+    {
+      "id": "lesafari", "cat": "ye", "area": "merkez",
+      "title": "Order a real salade niçoise at Le Safari",
+      "desc": "The true salade niçoise is a raw affair: no green beans and no potatoes. Le Safari on the Cours Saleya holds the Cuisine Nissarde label, awarded to places that respect the traditional recipes.",
+      "tip": "Look for the Cuisine Nissarde sign elsewhere in town too: it is the quickest way to spot honest local cooking.",
+      "q": "Le Safari, Cours Saleya, Nice", "ll": [43.6957, 7.2765],
+      "src": ["https://www.explorenicecotedazur.com/sortir/restaurants/restaurants-cuisine-nissarde/", "https://www.lasourisglobe-trotteuse.fr/ou-manger-a-nice-adresses/"]
+    },
+    {
+      "id": "acchiardo", "cat": "ye", "area": "merkez",
+      "title": "Have a family dinner at Acchiardo",
+      "desc": "A long running family restaurant on Rue Droite for Niçois classics: a mixed plate of local starters, pissaladière and slow cooked dishes. It carries the Cuisine Nissarde label.",
+      "tip": "Book ahead and try the daube, the Niçois beef stew, which here comes with ravioli or gnocchi rather than potatoes.",
+      "q": "Restaurant Acchiardo, 38 Rue Droite, Nice", "ll": [43.6981, 7.2777],
+      "src": ["https://www.explorenicecotedazur.com/sortir/restaurants/restaurants-cuisine-nissarde/", "https://www.lasourisglobe-trotteuse.fr/ou-manger-a-nice-adresses/"]
+    },
+    {
+      "id": "fenocchio", "cat": "ye", "area": "merkez",
+      "title": "Pick a strange flavour at Fenocchio",
+      "desc": "The old town's famous ice cream maker on Place Rossetti offers around a hundred flavours, from the classics to some truly odd ones.",
+      "tip": "It closes for the winter, so this is a spring to autumn treat.",
+      "q": "Fenocchio, Place Rossetti, Nice", "ll": [43.6972, 7.2760], "months": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "src": ["https://en.wikivoyage.org/wiki/Nice", "https://www.lasourisglobe-trotteuse.fr/ou-manger-a-nice-adresses/"]
+    },
+    {
+      "id": "florianport", "cat": "ye", "area": "merkez",
+      "title": "Taste candied fruit at Confiserie Florian",
+      "desc": "A Nice confectioner founded in 1921, known for candied clementines, crystallised flowers and rose petal jam. The shop sits right on the port.",
+      "tip": "It is on Quai Papacino, an easy stop on a walk around Port Lympia.",
+      "q": "Confiserie Florian, 14 Quai Papacino, Nice", "ll": [43.6955, 7.2853],
+      "src": ["https://www.confiserieflorian.com/", "https://en.wikivoyage.org/wiki/Nice"]
+    },
+    {
+      "id": "cafedeturin", "cat": "ye", "area": "merkez",
+      "title": "Share a seafood platter at Café de Turin",
+      "desc": "Under the arcades of Place Garibaldi, this institution is where Nice comes for oysters and shellfish, to eat in or take away.",
+      "tip": "It is not cheap, so a dozen oysters and a glass of white at the counter is a good way to try it.",
+      "q": "Café de Turin, Place Garibaldi, Nice", "ll": [43.7009, 7.2797],
+      "src": ["https://www.lasourisglobe-trotteuse.fr/ou-manger-a-nice-adresses/"]
+    },
+    {
+      "id": "chateaudebellet", "cat": "ye", "area": "merkez",
+      "title": "Taste Bellet wine inside the city limits",
+      "desc": "Nice has its own tiny wine appellation in the western hills. Château de Bellet receives visitors in a deconsecrated chapel among the vines.",
+      "tip": "Tours and tastings are by arrangement, so reserve first. Rosé de Bellet is the classic match for socca.",
+      "q": "Château de Bellet, Chemin de Saquier, Nice", "ll": [43.7390, 7.2105],
+      "src": ["https://en.wikivoyage.org/wiki/Nice"]
+    },
+    {
+      "id": "courssaleya", "cat": "ye", "area": "merkez",
+      "title": "Graze through the Cours Saleya market",
+      "desc": "The soul of Vieux Nice: striped awnings, flower stalls that run all day and a fruit and vegetable market every morning except Monday.",
+      "tip": "Buy olives, cheese and fruit here and carry your picnic up the castle hill or down to the beach.",
+      "q": "Marché aux Fleurs, Cours Saleya, Nice", "ll": [43.6955, 7.2745], "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Nice", "https://cotedazurfrance.fr/decouvrir/les-villes-de-la-cote-dazur/nice/top-10-des-choses-a-voir-et-a-faire-a-nice"]
+    },
+    {
+      "id": "carnavalnice", "cat": "dene", "area": "merkez",
+      "title": "Catch flowers at the Carnaval de Nice",
+      "desc": "For about two weeks every February, giant floats roll between Place Masséna and the Promenade des Anglais. In the Batailles de Fleurs, costumed performers throw flowers from floats covered in blooms.",
+      "tip": "Flower battles are on Wednesday and Saturday afternoons. Book seats ahead on the carnival's own site.",
+      "q": "Carnaval de Nice, Place Masséna", "ll": [43.6965, 7.2698], "months": [2],
+      "src": ["https://www.explorenicecotedazur.com/en/event/carnaval-de-nice-batailles-de-fleurs/", "https://cotedazurfrance.fr/decouvrir/les-villes-de-la-cote-dazur/nice/top-10-des-choses-a-voir-et-a-faire-a-nice"]
+    },
+    {
+      "id": "cadransolaire", "cat": "dene", "area": "merkez",
+      "title": "Tell the time with your shadow at Rauba Capeù",
+      "desc": "On the windy corner between the port and the Promenade, a flat sundial is laid into the quay: you stand on it and your own shadow points to the solar time.",
+      "tip": "It only works in sunshine, which is rarely a problem here. The big #ILoveNice frame is a few steps away.",
+      "q": "Cadran solaire, Quai Rauba Capeu, Nice", "ll": [43.6935, 7.2812], "tags": ["free"],
+      "src": ["https://www.lasourisglobe-trotteuse.fr/lieux-insolites-nice/", "https://cotedazurfrance.fr/decouvrir/les-villes-de-la-cote-dazur/nice/top-10-des-choses-a-voir-et-a-faire-a-nice"]
+    },
+    {
+      "id": "promenadepaillon", "cat": "dene", "area": "merkez",
+      "title": "Cool off at the Promenade du Paillon water mirror",
+      "desc": "A green ribbon of parkland through the middle of the city, with playgrounds, picnic lawns and a wide water mirror whose jets are a joy on hot days.",
+      "tip": "Bring a change of clothes for children: nobody stays dry for long.",
+      "q": "Miroir d'eau, Promenade du Paillon, Nice", "ll": [43.6975, 7.2718], "tags": ["free"],
+      "src": ["https://cotedazurfrance.fr/decouvrir/les-villes-de-la-cote-dazur/nice/top-10-des-choses-a-voir-et-a-faire-a-nice"]
+    },
+    {
+      "id": "montalban", "cat": "dene", "area": "merkez",
+      "title": "Walk the pines of Mont Boron to Fort du Mont Alban",
+      "desc": "A pine covered hill with a fitness trail and picnic spots. At the top, the old fort gives a panorama that runs from Italy to the Estérel hills.",
+      "tip": "A city bus runs up to Mont Boron if you would rather keep your legs for the forest paths.",
+      "q": "Fort du Mont Alban, Nice", "ll": [43.7010, 7.3007], "tags": ["free"],
+      "src": ["https://cotedazurfrance.fr/decouvrir/les-villes-de-la-cote-dazur/nice/top-10-des-choses-a-voir-et-a-faire-a-nice", "https://en.wikivoyage.org/wiki/Nice"]
+    },
+    {
+      "id": "sentiercapdenice", "cat": "dene", "area": "merkez",
+      "title": "Follow the coastal path from Coco Beach",
+      "desc": "East of the port, a path cut into the rocks runs along the sea towards Cap de Nice. It is used mostly by locals who come to swim and sunbathe off the rocks.",
+      "tip": "Wear shoes with grip, and skip it when the sea is rough.",
+      "q": "Coco Beach, Nice", "ll": [43.6895, 7.2920], "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Nice"]
+    },
+    {
+      "id": "festindenissa", "cat": "dene", "area": "merkez",
+      "title": "Join Lu Festin de Nissa in Cimiez",
+      "desc": "The Fête des Mai is Nice's own spring festival: a family folk party held in May in the gardens of Cimiez, with traditional music and dancing and views over the city.",
+      "tip": "Go on a Sunday and take a picnic, like the Niçois families do.",
+      "q": "Jardin des Arènes de Cimiez, Nice", "ll": [43.7200, 7.2765], "months": [5], "tags": ["free"],
+      "src": ["https://cotedazurfrance.fr/decouvrir/les-villes-de-la-cote-dazur/nice/top-10-des-choses-a-voir-et-a-faire-a-nice"]
+    },
+    {
+      "id": "brocantesaleya", "cat": "dene", "area": "merkez",
+      "title": "Hunt for treasure at the Monday antiques market",
+      "desc": "On Mondays the flowers and vegetables leave the Cours Saleya and antique dealers take over with silver, posters, linen and bric-a-brac.",
+      "tip": "For more of the same on other days, head to the flea market and the antiques quarter around Rue Ségurane near the port.",
+      "q": "Cours Saleya, Nice", "ll": [43.6954, 7.2762], "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Nice", "https://www.lasourisglobe-trotteuse.fr/lieux-insolites-nice/"]
+    },
+    {
+      "id": "grottelazaret", "cat": "dene", "area": "merkez",
+      "title": "Go back 130,000 years at the Grotte du Lazaret",
+      "desc": "A prehistoric cave at the foot of Mont Boron where early humans camped, open to visitors only since 2017. The small museum explains the finds and works well with children.",
+      "tip": "It is at the end of Boulevard Franck Pilatte, just before the coastal path, and has a terrace with picnic tables.",
+      "q": "Grotte du Lazaret, Nice", "ll": [43.6904, 7.2942], "tags": ["rainy day"],
+      "src": ["https://www.lasourisglobe-trotteuse.fr/lieux-insolites-nice/"]
+    },
+    {
+      "id": "operanice", "cat": "dene", "area": "merkez",
+      "title": "Spend an evening at the Opéra de Nice",
+      "desc": "The city's opera house stands between the old town and the sea and stages opera, ballet, orchestral and chamber concerts through the season.",
+      "tip": "The programme is published in French only, so look up the title before you book.",
+      "q": "Opéra Nice Côte d'Azur, Rue Saint-François de Paule", "ll": [43.6955, 7.2725], "tags": ["rainy day"],
+      "src": ["https://en.wikivoyage.org/wiki/Nice"]
+    },
+    {
+      "id": "parcphoenix", "cat": "dene", "area": "merkez",
+      "title": "Get lost in the Parc Phoenix glasshouse",
+      "desc": "A botanical park at the western end of the Promenade with a huge tropical greenhouse and animals, popular with local families.",
+      "tip": "The free Musée des Arts Asiatiques stands at the edge of the same park, so combine the two.",
+      "q": "Parc Phoenix, Nice", "ll": [43.6687, 7.2150],
+      "src": ["https://en.wikivoyage.org/wiki/Nice"]
+    },
+    {
+      "id": "cryptenice", "cat": "dene", "area": "merkez",
+      "title": "Go underground in the archaeological crypt",
+      "desc": "When the tramway was dug, workers uncovered some five centuries of city fortifications. More than 2,000 square metres of walls, towers and bridges now lie hidden under the street between the old town and Place Garibaldi.",
+      "tip": "You can only go down on a guided visit, so reserve a slot in advance.",
+      "q": "Crypte archéologique de Nice, Place Jacques Toja", "ll": [43.7003, 7.2796], "tags": ["rainy day"],
+      "src": ["https://www.lasourisglobe-trotteuse.fr/lieux-insolites-nice/"]
+    },
+
+    {
+      "id": "picassoantibes", "cat": "gor", "area": "cevre",
+      "title": "See Picasso's seaside studio in Antibes",
+      "desc": "In 1946 Picasso worked for six months in the Château Grimaldi on the ramparts of old Antibes, and left the town the works he made there. The castle is now the Musée Picasso.",
+      "tip": "Do not miss the terrace, with sculptures set against the sea and a view to the Cap d'Antibes.",
+      "q": "Musée Picasso, Antibes", "ll": [43.5808, 7.1283], "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Mus%C3%A9e_Picasso_(Antibes)", "https://cotedazurfrance.fr/decouvrir/les-villes-de-la-cote-dazur/antibes-juan-les-pins/top-des-10-choses-a-voir-et-a-faire-a-antibes-juan-les-pins"]
+    },
+    {
+      "id": "lesuquet", "cat": "gor", "area": "cevre",
+      "title": "Climb Le Suquet above Cannes",
+      "desc": "Away from the Croisette, the old quarter of Cannes winds uphill through narrow lanes to the church of Notre-Dame d'Espérance and the old castle, with the best view over the bay and the port.",
+      "tip": "Go up towards the end of the day, then pick a table in the lanes on your way back down.",
+      "q": "Le Suquet, Cannes", "ll": [43.5510, 7.0104], "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Cannes"]
+    },
+    {
+      "id": "fortroyal", "cat": "gor", "area": "cevre",
+      "title": "Stand in the cell of the Man in the Iron Mask",
+      "desc": "On the Île Sainte-Marguerite, off Cannes, the 17th century Fort Royal held the mysterious masked prisoner from 1687 to 1698. His cell is part of the museum, along with Roman cisterns and shipwreck finds.",
+      "tip": "Ferries leave the old port of Cannes all year. After the fort, walk the pine and eucalyptus paths to a quiet cove.",
+      "q": "Fort Royal, Île Sainte-Marguerite, Cannes", "ll": [43.5247, 7.0452],
+      "src": ["https://en.wikipedia.org/wiki/%C3%8Ele_Sainte-Marguerite", "https://en.wikivoyage.org/wiki/Cannes"]
+    },
+    {
+      "id": "mipgrasse", "cat": "gor", "area": "cevre",
+      "title": "Follow your nose through the perfume museum in Grasse",
+      "desc": "The Musée International de la Parfumerie tells the whole story of scent, from raw materials to bottles, in a town house built against Grasse's medieval rampart.",
+      "tip": "The museum has its own gardens of perfume plants in nearby Mouans-Sartoux, best seen in late spring.",
+      "q": "Musée International de la Parfumerie, Grasse", "ll": [43.6583, 6.9219], "tags": ["rainy day"],
+      "src": ["https://cotedazurfrance.fr/offres/musee-international-de-la-parfumerie-grasse-fr-3001129/"]
+    },
+    {
+      "id": "jardinexotiqueeze", "cat": "gor", "area": "cevre",
+      "title": "Reach the cactus garden at the top of Èze",
+      "desc": "Èze is a stone village perched more than 400 metres above the sea. At its very top, a garden of cacti and succulents grows among the castle ruins, with a dizzying panorama of the coast.",
+      "tip": "Arrive early or late in the day: the lanes are narrow and fill up quickly.",
+      "q": "Jardin Exotique d'Èze", "ll": [43.7279, 7.3620],
+      "src": ["https://en.wikivoyage.org/wiki/%C3%88ze", "https://generationvoyage.fr/villages-perches-cote-azur/"]
+    },
+    {
+      "id": "chapellecocteau", "cat": "gor", "area": "cevre",
+      "title": "See Cocteau's fishermen's chapel in Villefranche",
+      "desc": "The little 16th century Chapelle Saint-Pierre on the quay of Villefranche-sur-Mer was covered in murals by Jean Cocteau in 1957, as a gift to the local fishermen.",
+      "tip": "Afterwards duck into the Rue Obscure, a covered medieval street running under the harbour houses.",
+      "q": "Chapelle Saint-Pierre, Villefranche-sur-Mer", "ll": [43.7037, 7.3118],
+      "src": ["https://en.wikipedia.org/wiki/Villefranche-sur-Mer", "https://www.lasourisglobe-trotteuse.fr/lieux-insolites-nice/"]
+    },
+    {
+      "id": "villaephrussi", "cat": "gor", "area": "cevre",
+      "title": "Wander the nine gardens of Villa Ephrussi",
+      "desc": "Baroness Béatrice de Rothschild built this pink palace on the narrow neck of Cap Ferrat between 1907 and 1912 and surrounded it with nine themed gardens, from Japanese to Florentine, with the sea on both sides.",
+      "tip": "Buses from Nice stop close by. The tea room in the villa is only open at weekends.",
+      "q": "Villa Ephrussi de Rothschild, Saint-Jean-Cap-Ferrat", "ll": [43.6967, 7.3285],
+      "src": ["https://en.wikipedia.org/wiki/Villa_Ephrussi_de_Rothschild", "https://www.villa-ephrussi.com/"]
+    },
+    {
+      "id": "sallemariages", "cat": "gor", "area": "cevre",
+      "title": "Peek into Cocteau's wedding room in Menton",
+      "desc": "Inside Menton's town hall, the Salle des Mariages was painted from floor to ceiling by Jean Cocteau in the 1950s. Couples still get married under his murals.",
+      "tip": "Ask at the town hall reception. The room is closed to visitors while a wedding is on.",
+      "q": "Salle des Mariages, Hôtel de Ville, Menton", "ll": [43.7757, 7.5017], "tags": ["rainy day"],
+      "src": ["https://en.wikivoyage.org/wiki/Menton", "https://en.wikipedia.org/wiki/Menton"]
+    },
+    {
+      "id": "fondationmaeght", "cat": "gor", "area": "cevre",
+      "title": "Walk Miró's labyrinth at the Fondation Maeght",
+      "desc": "On a pine hill above Saint-Paul-de-Vence, this 1964 foundation was built by Josep Lluís Sert with the artists themselves: a Miró labyrinth of sculptures, a Giacometti courtyard, a Chagall mosaic and a Braque pool.",
+      "tip": "It is a short uphill walk from the village. Give the gardens as much time as the galleries.",
+      "q": "Fondation Maeght, Saint-Paul-de-Vence", "ll": [43.7006, 7.1150],
+      "src": ["https://en.wikipedia.org/wiki/Fondation_Maeght"]
+    },
+    {
+      "id": "chapellematisse", "cat": "gor", "area": "cevre",
+      "title": "See the chapel Matisse called his masterpiece",
+      "desc": "Between 1947 and 1951 Henri Matisse designed every detail of the Chapelle du Rosaire in Vence, from the building to the vestments. The windows use only three colours: yellow, green and blue.",
+      "tip": "Opening times are limited and the chapel shuts for part of the late autumn, so check before making the trip.",
+      "q": "Chapelle du Rosaire, Vence", "ll": [43.7275, 7.1128],
+      "src": ["https://en.wikipedia.org/wiki/Chapelle_du_Rosaire_de_Vence", "https://en.wikivoyage.org/wiki/Vence"]
+    },
+    {
+      "id": "gourdon", "cat": "gor", "area": "cevre",
+      "title": "Look down from the eagle's nest of Gourdon",
+      "desc": "The tiny village of Gourdon sits on a cliff edge 760 metres above the Loup gorges. From the viewpoint by the church you take in some 80 kilometres of coast.",
+      "tip": "The castle is private and closed, so come for the view. Keen walkers can climb the old mule track, the Chemin du Paradis, from Le Bar-sur-Loup.",
+      "q": "Gourdon, Alpes-Maritimes", "ll": [43.7211, 6.9792], "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Gourdon_(Alpes-Maritimes)", "https://generationvoyage.fr/villages-perches-cote-azur/"]
+    },
+    {
+      "id": "tropheeauguste", "cat": "gor", "area": "cevre",
+      "title": "Salute Augustus at La Turbie",
+      "desc": "The Trophée d'Auguste was raised around 6 BC at the highest point of the Roman road to celebrate the emperor's victory over the Alpine tribes. Its partly rebuilt columns still tower over the village of La Turbie.",
+      "tip": "Walk on to the Tête de Chien viewpoint nearby for a view straight down onto the coast.",
+      "q": "Trophée d'Auguste, La Turbie", "ll": [43.7453, 7.4014],
+      "src": ["https://en.wikipedia.org/wiki/Trophy_of_Augustus", "https://en.wikivoyage.org/wiki/%C3%88ze"]
+    },
+    {
+      "id": "saorge", "cat": "gor", "area": "cevre",
+      "title": "Visit the cliffside monastery of Saorge",
+      "desc": "Saorge stacks its tall stone houses on a mountainside above the Roya valley. At the top, a Franciscan monastery founded in 1633 keeps a baroque church, a cloister frescoed with the life of Saint Francis and painted sundials.",
+      "tip": "The village is all steps and steep lanes with no cars, so wear good shoes.",
+      "q": "Monastère de Saorge", "ll": [43.9850, 7.5550],
+      "src": ["https://fr.wikipedia.org/wiki/Monast%C3%A8re_de_Saorge", "https://generationvoyage.fr/villages-perches-cote-azur/"]
+    },
+    {
+      "id": "sainteagnes", "cat": "gor", "area": "cevre",
+      "title": "Go up to Sainte-Agnès, high above Menton",
+      "desc": "Billed as the highest coastal village in Europe, Sainte-Agnès hangs above Menton with cobbled lanes, vaulted passages, a Maginot Line fort dug into the cliff and a medieval garden by the castle ruins.",
+      "tip": "It is only a few kilometres from the sea as the crow flies, but the road is long, narrow and winding. Take it slowly.",
+      "q": "Sainte-Agnès, Alpes-Maritimes", "ll": [43.8014, 7.4622], "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Sainte-Agn%C3%A8s_(Alpes-Maritimes)", "https://generationvoyage.fr/villages-perches-cote-azur/"]
+    },
+    {
+      "id": "mougins", "cat": "gor", "area": "cevre",
+      "title": "Spiral through the old village of Mougins",
+      "desc": "Mougins curls around its hilltop above Cannes like a snail shell. Picasso spent his last twelve years here, and chef Roger Vergé made the village a famous name in French cooking.",
+      "tip": "Enter by the Porte Sarrazine, the only surviving gate, and look into the photography centre on your way round.",
+      "q": "Mougins Village", "ll": [43.6008, 6.9956], "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Mougins"]
+    },
+    {
+      "id": "marcheprovencal", "cat": "ye", "area": "cevre",
+      "title": "Shop the Marché Provençal in Antibes",
+      "desc": "Under a 19th century iron hall in the old town, some fifty local producers sell vegetables, cheese, olives, charcuterie and flowers every morning except Monday.",
+      "tip": "Afterwards wander the flowery lanes of the Safranier quarter, a few minutes away.",
+      "q": "Marché Provençal, Cours Masséna, Antibes", "ll": [43.5812, 7.1270], "tags": ["free"],
+      "src": ["https://cotedazurfrance.fr/decouvrir/les-villes-de-la-cote-dazur/antibes-juan-les-pins/top-des-10-choses-a-voir-et-a-faire-a-antibes-juan-les-pins", "https://en.wikivoyage.org/wiki/Antibes"]
+    },
+    {
+      "id": "absinthebar", "cat": "ye", "area": "cevre",
+      "title": "Sip absinthe in a cellar in Antibes",
+      "desc": "Beside the covered market, stairs lead down to a vaulted basement bar that serves many kinds of absinthe the traditional way, with a piano player and a rack of silly hats for guests.",
+      "tip": "It opens in the evening and is tiny, so come early on piano nights at the end of the week.",
+      "q": "Absinthe Bar, 25 Cours Masséna, Antibes", "ll": [43.5810, 7.1273], "tags": ["rainy day"],
+      "src": ["https://en.wikivoyage.org/wiki/Antibes"]
+    },
+    {
+      "id": "abbayelerins", "cat": "ye", "area": "cevre",
+      "title": "Taste the monks' wine on Île Saint-Honorat",
+      "desc": "Monks have lived on this small island off Cannes since around 410. Today's Cistercian community tends vineyards and makes its own wine and liqueurs, sold at the abbey.",
+      "tip": "Take the boat from the old port of Cannes, and walk round the shore to the fortified monastery that stands in the sea.",
+      "q": "Abbaye de Lérins, Île Saint-Honorat, Cannes", "ll": [43.5064, 7.0475],
+      "src": ["https://en.wikipedia.org/wiki/L%C3%A9rins_Abbey", "https://en.wikivoyage.org/wiki/Cannes"]
+    },
+    {
+      "id": "plagesalis", "cat": "ye", "area": "cevre",
+      "title": "Eat a pan bagnat on the Plage de la Salis",
+      "desc": "A sandy beach at the foot of the Cap d'Antibes, looking back at the old town walls. Its kiosks sell pan bagnat, and locals bring their own picnic in the evening.",
+      "tip": "Stay for sunset, when the ramparts of old Antibes turn gold across the water.",
+      "q": "Plage de la Salis, Antibes", "ll": [43.5722, 7.1310],
+      "src": ["https://cotedazurfrance.fr/decouvrir/les-villes-de-la-cote-dazur/antibes-juan-les-pins/top-des-10-choses-a-voir-et-a-faire-a-antibes-juan-les-pins"]
+    },
+    {
+      "id": "hallesmenton", "cat": "ye", "area": "cevre",
+      "title": "Hunt for Menton lemons in the covered market",
+      "desc": "Menton's 1898 market hall by the old town holds some thirty stalls. Look for the local lemon: mild, fragrant, hand picked and protected by its own label.",
+      "tip": "Go in the morning. Real Menton lemons are sold with their label and often with leaves still attached.",
+      "q": "Marché des Halles, Menton", "ll": [43.7748, 7.5048],
+      "src": ["https://en.wikipedia.org/wiki/Menton", "https://www.france.fr/es/articulo/cote-azur-citron-menton/"]
+    },
+    {
+      "id": "colombedor", "cat": "ye", "area": "cevre",
+      "title": "Lunch at La Colombe d'Or in Saint-Paul-de-Vence",
+      "desc": "The inn at the gate of Saint-Paul-de-Vence is a legend of the Riviera: Picasso, Sartre and a long list of artists and writers were regulars here.",
+      "tip": "Tables are booked far ahead, especially on the terrace. If you cannot get one, watch the pétanque players on the square outside.",
+      "q": "La Colombe d'Or, Saint-Paul-de-Vence", "ll": [43.6990, 7.1213],
+      "src": ["https://en.wikipedia.org/wiki/Saint-Paul-de-Vence", "https://en.wikivoyage.org/wiki/Nice"]
+    },
+    {
+      "id": "hallesmercantour", "cat": "ye", "area": "cevre",
+      "title": "Stock up at Les Halles du Mercantour",
+      "desc": "In the mountain village of Saint-Martin-Vésubie, this butcher and delicatessen makes Niçois specialities to take away and holds the Cuisine Nissarde label.",
+      "tip": "A good stop for picnic supplies before a walk around the Boréon lake in the Mercantour.",
+      "q": "Les Halles du Mercantour, Saint-Martin-Vésubie", "ll": [44.0690, 7.2560],
+      "src": ["https://www.explorenicecotedazur.com/sortir/restaurants/restaurants-cuisine-nissarde/", "https://provence-alpes-cotedazur.com/en/get-inspired/the-most-beautiful-hilltop-villages-of-the-cote-dazur/"]
+    },
+    {
+      "id": "florianpontduloup", "cat": "ye", "area": "cevre",
+      "title": "Try crystallised violets in the Gorges du Loup",
+      "desc": "Confiserie Florian's workshop is tucked into the Loup gorges below Tourrettes-sur-Loup, the village of violets. It turns local flowers and fruit into crystallised violets, rose petals, flower jams and candied clementines.",
+      "tip": "Pair it with a walk through Tourrettes-sur-Loup, where violets are grown from autumn to early spring.",
+      "q": "Confiserie Florian, Pont-du-Loup", "ll": [43.7207, 6.9933],
+      "src": ["https://www.confiserieflorian.com/", "https://generationvoyage.fr/villages-perches-cote-azur/"]
+    },
+    {
+      "id": "moulinopio", "cat": "ye", "area": "cevre",
+      "title": "Taste olive oil at the Moulin d'Opio",
+      "desc": "In the countryside east of Grasse, this olive mill has been run by the same family for generations and presses the small local olives into oil.",
+      "tip": "Ask about a visit with tasting. The pressing season is in late autumn and winter.",
+      "q": "Moulin d'Opio, Route de Châteauneuf, Opio", "ll": [43.6685, 6.9835],
+      "src": ["https://en.wikivoyage.org/wiki/Grasse"]
+    },
+    {
+      "id": "tirepoil", "cat": "dene", "area": "cevre",
+      "title": "Walk the Tire-Poil path around Cap d'Antibes",
+      "desc": "An old customs officers' trail hugs the wild tip of the Cap d'Antibes, past coves, wind bent pines and the walls of grand villas, with views across the bay to Nice.",
+      "tip": "Start from the Plage de la Garoupe and allow about two hours there and back. The path is closed in bad weather.",
+      "q": "Sentier de Tire-Poil, Plage de la Garoupe, Antibes", "ll": [43.5540, 7.1365], "tags": ["free"],
+      "src": ["https://cotedazurfrance.fr/offres/sentier-du-littoral-au-cap-dantibes-tirepoil-antibes-fr-5377692/", "https://cotedazurfrance.fr/decouvrir/les-villes-de-la-cote-dazur/antibes-juan-les-pins/top-des-10-choses-a-voir-et-a-faire-a-antibes-juan-les-pins"]
+    },
+    {
+      "id": "atelierparfum", "cat": "dene", "area": "cevre",
+      "title": "Blend your own perfume in Grasse",
+      "desc": "Grasse is the world capital of perfume, and its historic houses Molinard, Galimard and Fragonard let you sit down at a perfumer's organ and compose a scent to take home.",
+      "tip": "Book the workshop ahead. Molinard and Galimard keep your formula on file so you can reorder it.",
+      "q": "Molinard, 60 Boulevard Victor Hugo, Grasse", "ll": [43.6555, 6.9172], "tags": ["rainy day"],
+      "src": ["https://cotedazurfrance.fr/a-faire/fleurs-et-parfums/vivre-lexperience-de-la-creation-de-parfum-a-grasse/", "https://en.wikivoyage.org/wiki/Grasse"]
+    },
+    {
+      "id": "cheminnietzsche", "cat": "dene", "area": "cevre",
+      "title": "Hike the Chemin de Nietzsche up to Èze",
+      "desc": "A steep, rocky path climbs from the seaside station of Èze-sur-Mer to the hilltop village. The philosopher is said to have walked it while working on his Zarathustra.",
+      "tip": "Allow about an hour and a half going up and wear proper shoes. Many people take the bus up and walk down instead.",
+      "q": "Chemin de Nietzsche, Èze-sur-Mer", "ll": [43.7220, 7.3567], "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/%C3%88ze", "https://www.lasourisglobe-trotteuse.fr/lieux-insolites-nice/"]
+    },
+    {
+      "id": "plagemarinieres", "cat": "dene", "area": "cevre",
+      "title": "Swim in the bay of Villefranche",
+      "desc": "The Plage des Marinières curves round the head of one of the most beautiful bays on the coast. Its coarse sand is kinder than the pebbles of Nice.",
+      "tip": "Come by train: the station is right above the beach and parking in summer is a headache.",
+      "q": "Plage des Marinières, Villefranche-sur-Mer", "ll": [43.7083, 7.3170], "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Villefranche-sur-Mer", "https://en.wikipedia.org/wiki/Villefranche-sur-Mer"]
+    },
+    {
+      "id": "capferratwalk", "cat": "dene", "area": "cevre",
+      "title": "Walk the shore of Cap Ferrat",
+      "desc": "The Promenade Maurice Rouvier follows the water's edge from Beaulieu-sur-Mer to the little port of Saint-Jean-Cap-Ferrat, past some of the most expensive villas in the world.",
+      "tip": "Carry on from the port to Paloma beach, under the cliffs, for a swim at the end.",
+      "q": "Promenade Maurice Rouvier, Saint-Jean-Cap-Ferrat", "ll": [43.6975, 7.3330], "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Saint-Jean-Cap-Ferrat"]
+    },
+    {
+      "id": "feteducitron", "cat": "dene", "area": "cevre",
+      "title": "See the citrus giants at Menton's Fête du Citron",
+      "desc": "Every February Menton builds towering sculptures and parade floats out of some 140 tonnes of lemons and oranges. The statues fill the Jardins Biovès and the floats roll along the seafront.",
+      "tip": "Parades are on Sundays, with some night parades in the week. Trains from Nice stop a short walk from the gardens.",
+      "q": "Jardins Biovès, Menton", "ll": [43.7765, 7.4975], "months": [2],
+      "src": ["https://fr.wikipedia.org/wiki/F%C3%AAte_du_Citron", "https://www.france.fr/es/articulo/cote-azur-citron-menton/"]
+    },
+    {
+      "id": "valleemerveilles", "cat": "dene", "area": "cevre",
+      "title": "Hike to the rock carvings of the Vallée des Merveilles",
+      "desc": "High in the Mercantour national park, around Mont Bégo, tens of thousands of prehistoric engravings of horned animals, weapons and figures are scattered over the rocks among lakes and alpine meadows.",
+      "tip": "From the Lac des Mesches above Saint-Dalmas-de-Tende it is about two and a half hours up. Some carvings can only be seen with an official guide.",
+      "q": "Lac des Mesches, Tende", "ll": [44.0560, 7.5130], "months": [6, 7, 8, 9, 10],
+      "src": ["https://provence-alpes-cotedazur.com/decouvrir/espaces-naturels/vallee-des-merveilles/"]
+    },
+    {
+      "id": "traindespignes", "cat": "dene", "area": "cevre",
+      "title": "Ride the Train des Pignes into the hills",
+      "desc": "A narrow gauge railway from the 1890s rattles from Nice up the Var valley to mountain villages such as Touët-sur-Var and Puget-Théniers, on its way to Digne-les-Bains.",
+      "tip": "Trains leave from the small Gare de Nice CP, not the main station. In summer a steam train runs on part of the line and needs a reservation.",
+      "q": "Gare de Puget-Théniers", "ll": [43.9553, 6.8947],
+      "src": ["https://en.wikipedia.org/wiki/Chemins_de_fer_de_Provence", "https://en.wikivoyage.org/wiki/Nice"]
+    },
+    {
+      "id": "sentiercorbusier", "cat": "dene", "area": "cevre",
+      "title": "Follow the Sentier Le Corbusier round Cap Martin",
+      "desc": "A coastal path circles the wooded headland of Cap Martin, between Menton and Monaco, with sea views and steps down to rocks for swimming. It passes the tiny holiday cabin Le Corbusier built for himself, now a UNESCO site.",
+      "tip": "The best stretch is between the cape and Roquebrune-Cap-Martin station, so plan your walk to end there.",
+      "q": "Sentier Le Corbusier, Roquebrune-Cap-Martin", "ll": [43.7560, 7.4750], "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Menton"]
+    },
+    {
+      "id": "baousaintjeannet", "cat": "dene", "area": "cevre",
+      "title": "Climb the Baou de Saint-Jeannet",
+      "desc": "The great limestone cliff above the village of Saint-Jeannet, near Vence, is a favourite local hike: about an hour to the top, with a view over the whole coast.",
+      "tip": "Start from the village of Saint-Jeannet, carry water and avoid the midday heat in summer.",
+      "q": "Baou de Saint-Jeannet", "ll": [43.7557, 7.1387], "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Vence"]
+    },
+    {
+      "id": "coarazecadrans", "cat": "dene", "area": "cevre",
+      "title": "Track down the sundials of Coaraze",
+      "desc": "In 1960 the mayor of this hill village north of Nice asked artists to design sundials for its walls. Jean Cocteau made one with lizards, and more have been added since.",
+      "tip": "Also find the Chapelle Bleue just outside the village, painted inside entirely in shades of blue.",
+      "q": "Coaraze", "ll": [43.8650, 7.2958], "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Coaraze", "https://provence-alpes-cotedazur.com/en/get-inspired/the-most-beautiful-hilltop-villages-of-the-cote-dazur/"]
+    }
+  ]
+}

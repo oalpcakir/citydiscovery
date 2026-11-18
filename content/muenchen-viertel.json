@@ -1,0 +1,478 @@
+{
+  "new": [
+    {
+      "id": "mvmonopteros", "cat": "gor", "area": "viertel",
+      "title": "Climb up to the Monopteros",
+      "desc": "This little Greek-style rotunda from 1836 sits on a man-made hillock in the Englischer Garten and gives you the park's best view of the Altstadt towers.",
+      "tip": "Come at sunset, when half of Schwabing spreads out on the slope below with a drink.",
+      "q": "Monopteros, Englischer Garten, München", "ll": [48.1499, 11.5909],
+      "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Munich/North"]
+    },
+    {
+      "id": "mvnymphenburg", "cat": "gor", "area": "viertel",
+      "title": "Find Ludwig I's beauties at Schloss Nymphenburg",
+      "desc": "The Wittelsbachs' baroque summer palace is the grandest in Munich, and one of its rooms is hung with portraits of the women King Ludwig I admired most.",
+      "tip": "The park behind the palace is free: walk west along the canal to the little pavilions Amalienburg, Badenburg and Pagodenburg. Tram 17 stops out front.",
+      "q": "Schloss Nymphenburg, München", "ll": [48.1582, 11.5033],
+      "src": ["https://en.wikivoyage.org/wiki/Munich/North"]
+    },
+    {
+      "id": "mvherzjesu", "cat": "gor", "area": "viertel",
+      "title": "Step inside the blue glass cube of Herz Jesu",
+      "desc": "Neuhausen's parish church, finished in 2000, is a huge box of blue glass whose entire front consists of two giant doors.",
+      "tip": "The big doors are only swung fully open on major holidays; on other days you slip in through a small door set into them.",
+      "q": "Herz-Jesu-Kirche, Lachnerstraße, München", "ll": [48.1562, 11.5289],
+      "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Munich/North"]
+    },
+    {
+      "id": "mvolympiaberg", "cat": "gor", "area": "viertel",
+      "title": "Watch the city from the Olympiaberg",
+      "desc": "The hill in the Olympiapark was piled up from wartime rubble and now looks over the tent roofs of the 1972 Games, the BMW tower and, on clear days, the Alps.",
+      "tip": "On open-air concert nights locals bring a picnic and listen to the stadium show from up here for nothing.",
+      "q": "Olympiaberg, Olympiapark, München", "ll": [48.1699, 11.5517],
+      "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Munich/North"]
+    },
+    {
+      "id": "mvbmwwelt", "cat": "gor", "area": "viertel",
+      "title": "Sit in the cars at BMW Welt",
+      "desc": "BMW's swirling glass-and-steel showroom next to the Olympiapark doubles as a free exhibition where you can climb into the newest models and watch buyers collect their cars.",
+      "tip": "The paid BMW Museum is just across the road if you want the history; take the U3 to Olympiazentrum.",
+      "q": "BMW Welt, München", "ll": [48.1772, 11.5562],
+      "tags": ["free", "rainy day"],
+      "src": ["https://en.wikivoyage.org/wiki/Munich/North"]
+    },
+    {
+      "id": "mvfriedensengel", "cat": "gor", "area": "viertel",
+      "title": "Look up at the golden Friedensengel",
+      "desc": "A gilded angel has stood on a tall column above the Isar since 1896, at the top of a terrace of fountains and steps on Prinzregentenstraße.",
+      "tip": "Walk on along the wooded Maximiliansanlagen on the river bank towards the Maximilianeum for one of the nicest strolls in Bogenhausen and Haidhausen.",
+      "q": "Friedensengel, München", "ll": [48.1414, 11.5969],
+      "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Munich/Haidhausen"]
+    },
+    {
+      "id": "mvbavaria", "cat": "gor", "area": "viertel",
+      "title": "Climb into the head of the Bavaria",
+      "desc": "The 18.5 metre bronze lady guarding the Theresienwiese is hollow: a narrow staircase leads to a tiny viewing platform inside her head.",
+      "tip": "It gets hot and cramped in there on summer afternoons, so go in the morning. U4 or U5 to Theresienwiese.",
+      "q": "Bavaria Statue, Theresienhöhe, München", "ll": [48.1306, 11.5458],
+      "months": [4, 5, 6, 7, 8, 9, 10],
+      "src": ["https://en.wikivoyage.org/wiki/Munich/Ludwigsvorstadt-Isarvorstadt"]
+    },
+    {
+      "id": "mvaltersuedfriedhof", "cat": "gor", "area": "viertel",
+      "title": "Wander the Alter Südfriedhof",
+      "desc": "Munich's old southern cemetery is now a hushed, overgrown park of ornate tombs where Fraunhofer, Liebig and the painter Spitzweg lie buried.",
+      "tip": "Enter from Thalkirchner Straße near Sendlinger Tor and walk the full length south; the Glockenbachviertel cafes are right outside the wall.",
+      "q": "Alter Südfriedhof, München", "ll": [48.1270, 11.5650],
+      "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Munich/Ludwigsvorstadt-Isarvorstadt"]
+    },
+    {
+      "id": "mvgaertnerplatz", "cat": "gor", "area": "viertel",
+      "title": "Join the evening crowd on Gärtnerplatz",
+      "desc": "This round, flower-filled square ringed by stately 1860s houses and the Gärtnerplatztheater is the living room of the Glockenbachviertel.",
+      "tip": "On warm evenings people simply sit around the flower beds with a drink from a nearby kiosk; the streets fanning out from the square are full of bars.",
+      "q": "Gärtnerplatz, München", "ll": [48.1317, 11.5760],
+      "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Munich/Ludwigsvorstadt-Isarvorstadt"]
+    },
+    {
+      "id": "mvwestpark", "cat": "gor", "area": "viertel",
+      "title": "Find the pagodas in the Westpark",
+      "desc": "Laid out for a garden show in 1983, Sendling's Westpark hides a cluster of East Asian gardens with temples and pagodas, plus a rose garden and a lake stage.",
+      "tip": "The Asian gardens are in the western half of the park; take the U6 to Westpark and follow the paths west.",
+      "q": "Westpark, München", "ll": [48.1230, 11.5180],
+      "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Munich/South-West"]
+    },
+    {
+      "id": "mvallianzarena", "cat": "gor", "area": "viertel",
+      "title": "See the Allianz Arena glow",
+      "desc": "FC Bayern's stadium in Fröttmaning looks like a giant inflatable boat by day and lights up in colour after dark.",
+      "tip": "Take the U6 to Fröttmaning. Stadium tours run on non-match days, and the grassy Fröttmaninger Berg next door gives a free view of the arena and, in clear weather, the Alps.",
+      "q": "Allianz Arena, München", "ll": [48.2188, 11.6247],
+      "src": ["https://en.wikivoyage.org/wiki/Munich/North"]
+    },
+    {
+      "id": "mvblutenburg", "cat": "gor", "area": "viertel",
+      "title": "Circle the moat of Schloss Blutenburg",
+      "desc": "A small 15th-century hunting castle with a late Gothic chapel sits on its own pond in Obermenzing, far from the tourist trail, and now houses the International Youth Library.",
+      "tip": "Take the S2 to Obermenzing and walk along the Würm. The grounds and sculpture park around the castle are free.",
+      "q": "Schloss Blutenburg, München", "ll": [48.1632, 11.4569],
+      "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Munich/South-West"]
+    },
+    {
+      "id": "mvrosengarten", "cat": "gor", "area": "viertel",
+      "title": "Smell the roses in the Untergiesing Rosengarten",
+      "desc": "Tucked behind a hedge near the Isar on Sachsenstraße, this is a quiet, hedged-in world of rose beds that most visitors never find.",
+      "tip": "It is at its best in June and July. Combine it with a walk along the river to the Flaucher.",
+      "q": "Rosengarten, Sachsenstraße, München", "ll": [48.1190, 11.5660],
+      "months": [6, 7, 8],
+      "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Munich/Haidhausen"]
+    },
+    {
+      "id": "mvpreysingstrasse", "cat": "gor", "area": "viertel",
+      "title": "Spot the Herbergshäusl on Preysingstraße",
+      "desc": "Haidhausen still feels like a village around Preysingstraße, where the tiny Üblacker-Häusl shows how day labourers lived before the district turned fashionable.",
+      "tip": "Start at Wiener Platz with its market huts and maypole and wander east; the Häusl is run by the Haidhausen-Museum and only opens for a few hours on some days.",
+      "q": "Üblacker-Häusl, Preysingstraße 58, München", "ll": [48.1319, 11.6027],
+      "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Munich/Haidhausen"]
+    },
+    {
+      "id": "mvchinesischerturm", "cat": "ye", "area": "viertel",
+      "title": "Order a Maß under the Chinesischer Turm",
+      "desc": "Munich's second-largest beer garden wraps around a wooden pagoda in the Englischer Garten, with a brass band playing from the tower on summer weekends.",
+      "tip": "Do it the classic way: a litre of beer, half a roast chicken and a giant Brezn. It is a short walk from U-Bahn Giselastraße.",
+      "q": "Biergarten am Chinesischen Turm, München", "ll": [48.1526, 11.5920],
+      "src": ["https://www.muenchen.de/en/restaurants/classic-beer-gardens-munich-you-need-visit", "https://en.wikivoyage.org/wiki/Munich/North"]
+    },
+    {
+      "id": "mvseehaus", "cat": "ye", "area": "viertel",
+      "title": "Eat Steckerlfisch at the Seehaus",
+      "desc": "The beer garden on the Kleinhesseloher See puts you right at the water's edge, watching swans and rowing boats over a beer and a grilled fish on a stick.",
+      "tip": "The lakeside tables go first, so come early on sunny days. Cycling through the park is easier than getting there by public transport.",
+      "q": "Seehaus im Englischen Garten, München", "ll": [48.1602, 11.5979],
+      "src": ["https://www.muenchen.de/en/restaurants/classic-beer-gardens-munich-you-need-visit", "https://muenchen.mitvergnuegen.com/2020/beste-biergaerten-muenchens-abstimmung/"]
+    },
+    {
+      "id": "mvaugustinerkeller", "cat": "ye", "area": "viertel",
+      "title": "Sit under the chestnuts at the Augustiner-Keller",
+      "desc": "First mentioned in 1812, this is the oldest beer garden in the city: about 5,000 seats under roughly a hundred chestnut trees, with Augustiner on tap.",
+      "tip": "It is a few minutes on foot from S-Bahn Hackerbrücke. Locals pair a Radler with half a Schweinshaxe.",
+      "q": "Augustiner-Keller, Arnulfstraße 52, München", "ll": [48.1437, 11.5519],
+      "src": ["https://www.muenchen.de/en/restaurants/classic-beer-gardens-munich-you-need-visit", "https://muenchen.mitvergnuegen.com/2020/beste-biergaerten-muenchens-abstimmung/"]
+    },
+    {
+      "id": "mvhirschgarten", "cat": "ye", "area": "viertel",
+      "title": "Bring your own Brotzeit to the Hirschgarten",
+      "desc": "With around 8,000 seats the Königlicher Hirschgarten is the biggest beer garden in Bavaria, and fallow deer still graze in an enclosure right beside the tables.",
+      "tip": "In the self-service area you may unpack your own food as long as you buy the drinks. It is a short walk from S-Bahn Laim; try the dark Radler.",
+      "q": "Königlicher Hirschgarten, München", "ll": [48.1496, 11.5111],
+      "src": ["https://www.muenchen.de/en/restaurants/classic-beer-gardens-munich-you-need-visit", "https://muenchen.mitvergnuegen.com/2020/beste-biergaerten-muenchens-abstimmung/"]
+    },
+    {
+      "id": "mvhofbraeukeller", "cat": "ye", "area": "viertel",
+      "title": "Have a beer at the Hofbräukeller on Wiener Platz",
+      "desc": "Haidhausen's neighbourhood beer garden is a manageable size, shaded by old chestnuts, and far more local than its famous cousin in the Altstadt.",
+      "tip": "Walk over from U-Bahn Max-Weber-Platz across Wiener Platz, and look out for the Flammkuchen stand later in the day.",
+      "q": "Hofbräukeller, Innere Wiener Straße 19, München", "ll": [48.1345, 11.5949],
+      "src": ["https://www.muenchen.de/en/restaurants/classic-beer-gardens-munich-you-need-visit", "https://muenchen.mitvergnuegen.com/2020/beste-biergaerten-muenchens-abstimmung/"]
+    },
+    {
+      "id": "mvnockherberg", "cat": "ye", "area": "viertel",
+      "title": "Taste Starkbier on the Nockherberg",
+      "desc": "The Paulaner brewery tavern on the hill above the Au is the home of Munich's strong beer season, when Salvator is tapped for about two and a half weeks from mid-March.",
+      "tip": "Outside Starkbier time the big chestnut garden is open like any other beer garden, and it is usually calmer than those in the centre.",
+      "q": "Paulaner am Nockherberg, Hochstraße 77, München", "ll": [48.1213, 11.5830],
+      "src": ["https://en.wikivoyage.org/wiki/Munich/Haidhausen", "https://www.muenchen.de/en/restaurants/classic-beer-gardens-munich-you-need-visit"]
+    },
+    {
+      "id": "mvalteutting", "cat": "ye", "area": "viertel",
+      "title": "Drink on a ship stranded on a bridge",
+      "desc": "The Alte Utting carried passengers across the Ammersee until 2016; now the steamer sits high and dry on a disused railway bridge in Sendling as a bar, stage and beer garden.",
+      "tip": "Take the U3 or U6 to Poccistraße or Implerstraße. Go before dusk to grab a seat on deck, then stay for the live music.",
+      "q": "Alte Utting, Lagerhausstraße 5, München", "ll": [48.1199, 11.5563],
+      "src": ["https://de.wikipedia.org/wiki/Alte_Utting", "https://en.wikivoyage.org/wiki/Munich/Ludwigsvorstadt-Isarvorstadt"]
+    },
+    {
+      "id": "mvelisabethmarkt", "cat": "ye", "area": "viertel",
+      "title": "Graze your way round the Elisabethmarkt",
+      "desc": "Schwabing's own small food market, founded in 1903, reopened in 2024 with new stalls and public roof terraces where nobody makes you buy anything.",
+      "tip": "Finish with a beer at the Wintergarten in the old Milchhäusl pavilion on the edge of the square, a beer garden that is mostly neighbours.",
+      "q": "Elisabethmarkt, Elisabethplatz, München", "ll": [48.1568, 11.5744],
+      "src": ["https://de.wikipedia.org/wiki/Elisabethmarkt", "https://en.wikivoyage.org/wiki/Munich/North"]
+    },
+    {
+      "id": "mvganswasser", "cat": "ye", "area": "viertel",
+      "title": "Have coffee at Gans am Wasser",
+      "desc": "A colourful, self-built cafe on the lake shore of the Westpark, loved by Sendling locals for cake by the water and the odd small concert.",
+      "tip": "It is at the eastern end of the park, a walk from Heimeranplatz station, and it is mainly a fair-weather place.",
+      "q": "Gans am Wasser, Westpark, München", "ll": [48.1249, 11.5305],
+      "src": ["https://en.wikivoyage.org/wiki/Munich/South-West"]
+    },
+    {
+      "id": "mvfraunhofer", "cat": "ye", "area": "viertel",
+      "title": "Eat Bavarian at the Fraunhofer",
+      "desc": "This wood-panelled Wirtshaus in the Glockenbachviertel has a tiny theatre and cinema in its back yard and was a favourite of film director Rainer Werner Fassbinder.",
+      "tip": "It only opens in the evening and fills up fast, so book or come early. U-Bahn Fraunhoferstraße is a minute away.",
+      "q": "Wirtshaus Fraunhofer, Fraunhoferstraße 9, München", "ll": [48.1308, 11.5725],
+      "src": ["https://en.wikivoyage.org/wiki/Munich/Ludwigsvorstadt-Isarvorstadt"]
+    },
+    {
+      "id": "mvgiesingerbraeu", "cat": "ye", "area": "viertel",
+      "title": "Try a Giesinger at the Bräustüberl",
+      "desc": "Giesinger Bräu started in a garage in 2006 and has grown into Munich's proudly local newcomer among the old breweries, with its tavern on the Giesinger Berg.",
+      "tip": "The Stüberl sits next to the Lutherkirche, a short uphill walk from U-Bahn Kolumbusplatz; peek into the towering Heilig-Kreuz-Kirche across the road while you are there.",
+      "q": "Giesinger Bräu, Martin-Luther-Straße 2, München", "ll": [48.1162, 11.5790],
+      "src": ["https://de.wikipedia.org/wiki/Giesinger_Bräu"]
+    },
+    {
+      "id": "mvoktoberfest", "cat": "dene", "area": "viertel",
+      "title": "Go to the Wiesn",
+      "desc": "For about sixteen days from late September the Theresienwiese turns into the Oktoberfest, the world's biggest beer festival, with brewery tents, fairground rides and half of Munich in Tracht.",
+      "tip": "Entry to the grounds and tents is free, but tents fill by early afternoon even midweek. Leave big bags at home and walk in from Goetheplatz to dodge the crush at Theresienwiese station.",
+      "q": "Theresienwiese, München", "ll": [48.1325, 11.5492],
+      "months": [9, 10],
+      "src": ["https://en.wikivoyage.org/wiki/Munich/Ludwigsvorstadt-Isarvorstadt"]
+    },
+    {
+      "id": "mvflaucher", "cat": "dene", "area": "viertel",
+      "title": "Spend a summer day at the Flaucher",
+      "desc": "South of the centre the Isar splits around gravel islands where Münchner swim, sunbathe and light barbecues as if the city were a mountain valley.",
+      "tip": "Take the U3 to Thalkirchen or Brudermühlstraße. If you did not bring food, the beer garden Zum Flaucher in the riverside woods serves Steckerlfisch.",
+      "q": "Flaucher, München", "ll": [48.1100, 11.5580],
+      "months": [5, 6, 7, 8, 9],
+      "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Munich/South-West", "https://muenchen.mitvergnuegen.com/2020/beste-biergaerten-muenchens-abstimmung/"]
+    },
+    {
+      "id": "mvruderboot", "cat": "dene", "area": "viertel",
+      "title": "Row a boat on the Kleinhesseloher See",
+      "desc": "The shallow lake in the middle of the Englischer Garten, dug in 1803, has three little islands to paddle around in a rented rowing or pedal boat.",
+      "tip": "The boat hire is next to the Seehaus beer garden on the eastern shore, so the reward is waiting when you get back.",
+      "q": "Kleinhesseloher See, München", "ll": [48.1597, 11.5965],
+      "months": [5, 6, 7, 8, 9],
+      "src": ["https://de.wikipedia.org/wiki/Kleinhesseloher_See", "https://muenchen.mitvergnuegen.com/2020/beste-biergaerten-muenchens-abstimmung/"]
+    },
+    {
+      "id": "mvvolksbad", "cat": "dene", "area": "viertel",
+      "title": "Swim in the Müller'sches Volksbad",
+      "desc": "Opened in 1901 as the most modern public bath of its day, this Jugendstil pool on the Isar still lets you do lengths under a stuccoed barrel vault.",
+      "tip": "Bring your own towel, and try the Roman-Irish steam bath if you have time. It is at the Ludwigsbrücke, a short walk from Isartor.",
+      "q": "Müller'sches Volksbad, Rosenheimer Straße 1, München", "ll": [48.1321, 11.5883],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Müllersches_Volksbad", "https://en.wikivoyage.org/wiki/Munich/Haidhausen"]
+    },
+    {
+      "id": "mvtollwood", "cat": "dene", "area": "viertel",
+      "title": "Roam the Tollwood summer festival",
+      "desc": "From mid-June to mid-July the southern Olympiapark fills with tents for concerts, theatre, craft stalls and food from around the world.",
+      "tip": "Wandering the grounds costs nothing; only the big tent concerts need tickets. In winter the festival returns on the Theresienwiese with a Christmas market.",
+      "q": "Tollwood Sommerfestival, Olympiapark Süd, München", "ll": [48.1668, 11.5493],
+      "months": [6, 7],
+      "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Munich/North"]
+    },
+    {
+      "id": "mvhellabrunn", "cat": "dene", "area": "viertel",
+      "title": "Visit Tierpark Hellabrunn",
+      "desc": "Munich's zoo spreads through the wooded Isar meadows in Thalkirchen, which makes a visit feel more like a riverside walk than a tour of cages.",
+      "tip": "The zoo is easiest to reach from the west bank: U3 to Thalkirchen, then over the footbridge. Combine it with the Flaucher next door.",
+      "q": "Tierpark Hellabrunn, München", "ll": [48.1007, 11.5513],
+      "src": ["https://en.wikivoyage.org/wiki/Munich/South-West", "https://en.wikivoyage.org/wiki/Munich/East"]
+    },
+    {
+      "id": "mvkocherlball", "cat": "dene", "area": "viertel",
+      "title": "Dance at dawn at the Kocherlball",
+      "desc": "On the third Sunday in July thousands gather at the Chinesischer Turm at six in the morning to waltz and polka in Tracht, reviving the ball of 19th-century cooks and servants.",
+      "tip": "People arrive in the dark with candles and picnic baskets to claim a table, and it is all over by mid-morning. Check the date, as bad weather can push it back.",
+      "q": "Chinesischer Turm, Englischer Garten, München", "ll": [48.1527, 11.5918],
+      "months": [7],
+      "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Munich/North", "https://www.muenchen.de/en/restaurants/classic-beer-gardens-munich-you-need-visit"]
+    },
+    {
+      "id": "mvauerdult", "cat": "dene", "area": "viertel",
+      "title": "Hunt for crockery at the Auer Dult",
+      "desc": "Three times a year, in spring, high summer and autumn, a traditional market and funfair sets up around the Mariahilfkirche in the Au, famous for its stalls of pots and tableware.",
+      "tip": "Check the dates before you go, as each Dult only runs for a short spell. The square is a short walk from the Isar and the Deutsches Museum.",
+      "q": "Mariahilfplatz, München", "ll": [48.1253, 11.5837],
+      "months": [5, 7, 8, 10],
+      "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Munich/Haidhausen"]
+    },
+    {
+      "id": "mvgruenwalder", "cat": "dene", "area": "viertel",
+      "title": "Watch the Löwen at the Grünwalder Stadion",
+      "desc": "While FC Bayern fills the arena up north, TSV 1860 plays in its old ground in the middle of Giesing, a tight stadium of about 15,000 where football is still a neighbourhood affair.",
+      "tip": "Take tram 15 or 25 to Tegernseer Landstraße and have a pre-match beer in one of the Giesing corner pubs.",
+      "q": "Städtisches Stadion an der Grünwalder Straße, München", "ll": [48.1107, 11.5745],
+      "src": ["https://en.wikivoyage.org/wiki/Munich/East", "https://en.wikivoyage.org/wiki/Munich/Haidhausen"]
+    },
+    {
+      "id": "mvcosima", "cat": "dene", "area": "viertel",
+      "title": "Ride the waves at the Cosimawellenbad",
+      "desc": "Bogenhausen's public pool is the only wave pool in Munich: once an hour the water rolls for a quarter of an hour and everyone piles in.",
+      "tip": "Take the U4 to Arabellapark. There is also a warm outdoor pool and a sauna for when the waves stop.",
+      "q": "Cosimawellenbad, Cosimastraße 5, München", "ll": [48.1548, 11.6289],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Cosimawellenbad", "https://en.wikivoyage.org/wiki/Munich/East"]
+    },
+    {
+      "id": "mvschleissheim", "cat": "gor", "area": "cevre",
+      "title": "Walk the baroque gardens of Schloss Schleißheim",
+      "desc": "In Oberschleißheim three Wittelsbach palaces line up along a canal: the Old Palace, the 300 metre long New Palace with its grand staircase, and little Lustheim on its round island.",
+      "tip": "Take the S1 to Oberschleißheim. The park, one of the few baroque gardens in Germany kept in its original form, is free, and the Schlosswirtschaft has a beer garden with a palace view.",
+      "q": "Neues Schloss Schleißheim, Oberschleißheim", "ll": [48.2486, 11.5683],
+      "src": ["https://en.wikipedia.org/wiki/Schleissheim_Palace", "https://en.wikivoyage.org/wiki/Munich/North"]
+    },
+    {
+      "id": "mvlinderhof", "cat": "gor", "area": "cevre",
+      "title": "Visit Ludwig II's Schloss Linderhof",
+      "desc": "The smallest of the fairy-tale king's palaces, hidden in a valley near Ettal, is the only one he saw finished and actually lived in.",
+      "tip": "Leave time for the park and its follies, which are only open in the warmer half of the year. Without a car, take the train to Oberammergau and the bus from there.",
+      "q": "Schloss Linderhof, Ettal", "ll": [47.5714, 10.9604],
+      "src": ["https://en.wikivoyage.org/wiki/Oberammergau"]
+    },
+    {
+      "id": "mvettal", "cat": "gor", "area": "cevre",
+      "title": "Stand under the dome of Kloster Ettal",
+      "desc": "A Benedictine abbey with a huge baroque domed church rises in a narrow Alpine valley; the monks still run a school and a brewery here.",
+      "tip": "Ettal is a few kilometres from Oberammergau, and a footpath of about 7 km links the two if you fancy walking it.",
+      "q": "Kloster Ettal, Ettal", "ll": [47.5697, 11.0948],
+      "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Oberammergau"]
+    },
+    {
+      "id": "mvoberammergau", "cat": "gor", "area": "cevre",
+      "title": "Read the painted houses of Oberammergau",
+      "desc": "The village of the once-a-decade Passion Play is an open-air picture book: house after house is covered in Lüftlmalerei, frescoes of saints and Bible scenes.",
+      "tip": "Trains from Munich run via Murnau, where you change to the little branch line; Oberammergau is the last stop. The Passion Play theatre gives tours in the summer months.",
+      "q": "Dorfstraße, Oberammergau", "ll": [47.5968, 11.0655],
+      "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Oberammergau"]
+    },
+    {
+      "id": "mvfreisingdom", "cat": "gor", "area": "cevre",
+      "title": "Climb the Domberg in Freising",
+      "desc": "Freising was a bishop's seat long before Munich existed, and its twin-towered cathedral on the hill hides a lavish interior and a crypt worth the descent.",
+      "tip": "From the hilltop you look across to Munich and the Alps. The S1 gets you here, but check you are in the Freising half of the train, as it splits for the airport.",
+      "q": "Freisinger Dom, Domberg, Freising", "ll": [48.3988, 11.7460],
+      "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Freising"]
+    },
+    {
+      "id": "mvbadtoelz", "cat": "gor", "area": "cevre",
+      "title": "Stroll down the Marktstraße in Bad Tölz",
+      "desc": "The sloping main street of this Isar town is lined with patrician houses covered in Lüftlmalerei and is almost entirely car-free.",
+      "tip": "Hourly trains run from Munich. Cross the Isar bridge and climb the Kalvarienberg for the view back over the old town; on 6 November the Leonhardifahrt procession of decorated horse wagons passes through.",
+      "q": "Marktstraße, Bad Tölz", "ll": [47.7610, 11.5617],
+      "tags": ["free"],
+      "src": ["https://de.wikivoyage.org/wiki/Bad_Tölz", "https://en.wikipedia.org/wiki/Bad_T%C3%B6lz"]
+    },
+    {
+      "id": "mvfuerstenfeld", "cat": "gor", "area": "cevre",
+      "title": "Gaze up in the Klosterkirche Fürstenfeld",
+      "desc": "The former Cistercian abbey church in Fürstenfeldbruck is a late baroque showpiece with ceiling frescoes by Cosmas Damian Asam, founded by a duke atoning for having his wife executed.",
+      "tip": "Take the S4 to Fürstenfeldbruck and walk over. The old farm buildings around the church are now a lively cultural centre with places to eat.",
+      "q": "Kloster Fürstenfeld, Fürstenfeldbruck", "ll": [48.1694, 11.2494],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/F%C3%BCrstenfeld_Abbey"]
+    },
+    {
+      "id": "mvmuehldorf", "cat": "gor", "area": "cevre",
+      "title": "Walk the long Stadtplatz in Mühldorf",
+      "desc": "Mühldorf am Inn belonged to the prince-archbishops of Salzburg until 1802, and its nearly 500 metre long square of pastel Inn-Salzach facades between two gate towers looks more Austrian than Bavarian.",
+      "tip": "Regional trains run from Munich. The eleven-day Volksfest starting on the last Friday in August is a far more local alternative to the Oktoberfest.",
+      "q": "Stadtplatz, Mühldorf am Inn", "ll": [48.2414, 12.5225],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Mühldorf_am_Inn", "https://en.wikipedia.org/wiki/M%C3%BChldorf"]
+    },
+    {
+      "id": "mvandechs", "cat": "ye", "area": "cevre",
+      "title": "Earn a monks' beer on the Heiliger Berg",
+      "desc": "Pilgrims have climbed the holy mountain of Andechs for centuries; today most come for the Benedictines' own beer, served beside the church where composer Carl Orff is buried.",
+      "tip": "Take the S8 to Herrsching and walk up through the woods, which makes the first sip taste better. The proceeds from the beer help fund the monks' charitable work.",
+      "q": "Kloster Andechs, Andechs", "ll": [47.9747, 11.1825],
+      "src": ["https://en.wikipedia.org/wiki/Andechs_Abbey"]
+    },
+    {
+      "id": "mvweihenstephan", "cat": "ye", "area": "cevre",
+      "title": "Drink at the Bräustüberl Weihenstephan",
+      "desc": "On a steep hill in Freising sits the Bavarian State Brewery Weihenstephan, with its own tavern and beer garden next door.",
+      "tip": "In the beer garden you may bring your own food if you buy the drinks. The brewery also runs tours with a tasting; book ahead.",
+      "q": "Bräustüberl Weihenstephan, Freising", "ll": [48.3957, 11.7286],
+      "src": ["https://en.wikivoyage.org/wiki/Freising"]
+    },
+    {
+      "id": "mvkugleralm", "cat": "ye", "area": "cevre",
+      "title": "Order a Radler at the Kugler Alm",
+      "desc": "Legend has it that landlord Franz Xaver Kugler invented the Radler here in Oberhaching in 1922, stretching his beer with lemonade for a horde of thirsty cyclists. Historians doubt it, but the beer garden still pours it proudly.",
+      "tip": "Do as the story says and cycle out from Munich through the Perlacher Forst; otherwise take the S-Bahn to Furth and walk.",
+      "q": "Kugler Alm, Linienstraße 93, Oberhaching", "ll": [48.0357, 11.5752],
+      "src": ["https://de.wikipedia.org/wiki/Kugler_Alm", "https://en.wikivoyage.org/wiki/Munich/East"]
+    },
+    {
+      "id": "mvwaldwirtschaft", "cat": "ye", "area": "cevre",
+      "title": "Listen to jazz at the Wawi",
+      "desc": "The Waldwirtschaft Großhesselohe in Pullach sits high above the Isar valley under old chestnuts, and instead of brass bands it has live jazz on a stage in the middle of the beer garden.",
+      "tip": "Take the S7 to Großhesselohe Isartalbahnhof and walk, or cycle out along the Isar. Try an Auszog'ne, the house doughnut.",
+      "q": "Waldwirtschaft Großhesselohe, Pullach", "ll": [48.0670, 11.5395],
+      "src": ["https://www.muenchen.de/en/restaurants/classic-beer-gardens-munich-you-need-visit", "https://en.wikivoyage.org/wiki/Munich/South-West"]
+    },
+    {
+      "id": "mvscheyern", "cat": "ye", "area": "cevre",
+      "title": "Taste abbey beer at Kloster Scheyern",
+      "desc": "The Benedictine abbey of Scheyern, cradle of the Wittelsbach dynasty near Pfaffenhofen, has brewed since at least 1119 in the heart of the Hallertau hop country.",
+      "tip": "Try the beer at the abbey's own tavern, then look into the church, which has guarded a relic of the True Cross since 1180. You need a car or a bus from Pfaffenhofen station.",
+      "q": "Kloster Scheyern, Scheyern", "ll": [48.5014, 11.4528],
+      "src": ["https://de.wikipedia.org/wiki/Kloster_Scheyern", "https://en.wikipedia.org/wiki/Scheyern_Abbey"]
+    },
+    {
+      "id": "mvschanzerrutschn", "cat": "ye", "area": "cevre",
+      "title": "Slide down to dinner in Ingolstadt",
+      "desc": "At the Schanzer Rutschn in Ingolstadt's old town you reach the cellar restaurant by whooshing down a wooden slide, then tuck into hearty Bavarian food.",
+      "tip": "It only opens in the evening. Come earlier to see the Asam church Maria de Victoria and the Kreuztor gate, both a short walk away.",
+      "q": "Schanzer Rutschn, Ingolstadt", "ll": [48.7628, 11.4223],
+      "src": ["https://en.wikivoyage.org/wiki/Ingolstadt"]
+    },
+    {
+      "id": "mvzugspitze", "cat": "dene", "area": "cevre",
+      "title": "Stand on top of Germany",
+      "desc": "At 2,962 metres the Zugspitze is the country's highest peak, and you can ride all the way up from Garmisch-Partenkirchen by cogwheel train and cable car.",
+      "tip": "Only go on a clear day and check the summit webcam first. The regional day ticket from Munich covers the train as far as Garmisch and Grainau, but not the mountain railway.",
+      "q": "Zugspitze, Grainau", "ll": [47.4212, 10.9863],
+      "src": ["https://en.wikivoyage.org/wiki/Garmisch-Partenkirchen"]
+    },
+    {
+      "id": "mvpartnachklamm", "cat": "dene", "area": "cevre",
+      "title": "Squeeze through the Partnachklamm",
+      "desc": "The Partnach has cut a gorge 700 metres long and up to 80 metres deep near Garmisch-Partenkirchen, and a path hewn into the rock leads right through the spray.",
+      "tip": "It is about half an hour on foot from the Olympic ski stadium to the entrance. Go early, and bring a rain jacket even in sunshine; in a hard winter the walls hang with ice.",
+      "q": "Partnachklamm, Garmisch-Partenkirchen", "ll": [47.4692, 11.1186],
+      "src": ["https://en.wikipedia.org/wiki/Partnach_Gorge", "https://en.wikivoyage.org/wiki/Garmisch-Partenkirchen"]
+    },
+    {
+      "id": "mvthermeerding", "cat": "dene", "area": "cevre",
+      "title": "Soak and slide at Therme Erding",
+      "desc": "Oil prospectors drilling in Erding in 1983 struck hot sulphur water instead; today it feeds one of Europe's biggest spa complexes, with palm-lined pools, a vast sauna world and twenty water slides.",
+      "tip": "Take the S2 to Altenerding and the bus or a walk from there. Weekends and school holidays are packed, so aim for a weekday.",
+      "q": "Therme Erding, Erding", "ll": [48.2903, 11.8867],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Therme_Erding"]
+    },
+    {
+      "id": "mvfilmstadt", "cat": "dene", "area": "cevre",
+      "title": "Walk through film sets at the Bavaria Filmstadt",
+      "desc": "At the working studios in Grünwald-Geiselgasteig a guided tour takes you through the submarine from Das Boot and past the luck dragon from The NeverEnding Story.",
+      "tip": "Tram 25 from Munich stops at Bavariafilmplatz. Tours are normally in German, so ask about English slots when you book.",
+      "q": "Bavaria Filmstadt, Grünwald", "ll": [48.0654, 11.5540],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Bavaria_Filmstadt", "https://en.wikivoyage.org/wiki/Munich/East"]
+    },
+    {
+      "id": "mvherzogstand", "cat": "dene", "area": "cevre",
+      "title": "Ride the Herzogstandbahn above the Walchensee",
+      "desc": "From the shore of the turquoise Walchensee a cable car lifts you in four minutes from 800 to 1,600 metres on the Herzogstand, high above the lake.",
+      "tip": "Take the train from Munich to Kochel and the bus on to the valley station. From the top it is a short hike to the summit, with the Kochelsee on one side and the Walchensee on the other.",
+      "q": "Herzogstandbahn Talstation, Walchensee", "ll": [47.5964, 11.3161],
+      "src": ["https://de.wikipedia.org/wiki/Herzogstandbahn"]
+    },
+    {
+      "id": "mvstarnbergschiff", "cat": "dene", "area": "cevre",
+      "title": "Take the boat across the Starnberger See",
+      "desc": "From spring to autumn the lake steamers set out from Starnberg and call at Possenhofen, Tutzing, Bernried and Berg, with the Alps lined up behind the southern shore.",
+      "tip": "The S6 stops right at the pier in Starnberg. Hop off at Berg and walk to Leoni past the Votivkapelle, the chapel above the spot where King Ludwig II drowned.",
+      "q": "Dampfersteg Starnberg, Starnberg", "ll": [47.9955, 11.3440],
+      "months": [4, 5, 6, 7, 8, 9, 10],
+      "src": ["https://www.seenschifffahrt.de/de/starnberger-see/", "https://en.wikivoyage.org/wiki/Starnberg"]
+    }
+  ]
+}

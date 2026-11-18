@@ -1,0 +1,364 @@
+{
+  "new": [
+    {
+      "id": "bmbrandenburgertor", "cat": "gor", "area": "mitte",
+      "title": "Walk through the Brandenburger Tor",
+      "desc": "The 1791 city gate stood sealed off in the death strip for 28 years and is now the symbol of a reunited Germany. Pariser Platz in front of it is lined with embassies and the Hotel Adlon.",
+      "tip": "Come at sunrise or late at night, when the square is almost empty and the gate is lit.",
+      "q": "Brandenburger Tor, Berlin", "ll": [52.5163, 13.3777], "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Berlin/Mitte"]
+    },
+    {
+      "id": "bmholocaustmahnmal", "cat": "gor", "area": "mitte",
+      "title": "Lose your bearings in the Holocaust memorial",
+      "desc": "A field of concrete blocks of different heights on gently rolling ground, with an underground information centre that tells the stories of murdered Jewish families. The deeper you walk in, the quieter and more disorienting it gets.",
+      "tip": "Walk through alone rather than as a group, then go down to the information centre below the south-east corner.",
+      "q": "Denkmal für die ermordeten Juden Europas, Berlin", "ll": [52.5139, 13.3789], "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Berlin/Mitte"]
+    },
+    {
+      "id": "bmbebelplatz", "cat": "gor", "area": "mitte",
+      "title": "Find the empty library under Bebelplatz",
+      "desc": "On this square students burned thousands of books in 1933. The memorial is a glass pane in the cobbles, looking down into a white underground room of empty shelves.",
+      "tip": "It is easy to miss by day. After dark the room glows from below and you spot it at once.",
+      "q": "Bebelplatz, Berlin", "ll": [52.5164, 13.3939], "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Berlin/Mitte"]
+    },
+    {
+      "id": "bmneuewache", "cat": "gor", "area": "mitte",
+      "title": "Stand in the silence of the Neue Wache",
+      "desc": "A former guardhouse on Unter den Linden that is now Germany's central memorial to the victims of war and tyranny. Inside there is nothing but a Käthe Kollwitz sculpture of a mother with her dead son under an open hole in the roof.",
+      "tip": "Go on a rainy or snowy day: the weather falls straight onto the sculpture, exactly as intended.",
+      "q": "Neue Wache, Unter den Linden, Berlin", "ll": [52.5175, 13.3956], "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Berlin/Mitte"]
+    },
+    {
+      "id": "bmgendarmenmarkt", "cat": "gor", "area": "mitte",
+      "title": "Take in the Gendarmenmarkt",
+      "desc": "Often called Berlin's most beautiful square: the Konzerthaus with its Schiller statue in the middle, flanked by the near-twin Deutscher Dom and Französischer Dom.",
+      "tip": "The Deutscher Dom holds a free exhibition on German parliamentary democracy, handy when it rains.",
+      "q": "Gendarmenmarkt, Berlin", "ll": [52.5137, 13.3927], "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Berlin/Mitte"]
+    },
+    {
+      "id": "bmnofretete", "cat": "gor", "area": "mitte",
+      "title": "Meet Nefertiti in the Neues Museum",
+      "desc": "The bust of the Egyptian queen has a room to herself in the Neues Museum on the Museumsinsel, alongside the Egyptian collection and the museum of pre- and early history.",
+      "tip": "Photos of the bust are not allowed, so take your time and just look. Weekday mornings are calmest.",
+      "q": "Neues Museum, Museumsinsel, Berlin", "ll": [52.5203, 13.3978], "tags": ["rainy day"],
+      "src": ["https://en.wikivoyage.org/wiki/Berlin/Mitte", "https://www.visitberlin.de/de/bezirke/mitte"]
+    },
+    {
+      "id": "bmbodemuseum", "cat": "gor", "area": "mitte",
+      "title": "Have the Bode-Museum almost to yourself",
+      "desc": "The domed museum at the tip of the Museumsinsel is the quiet one: sculpture, Byzantine art, works by Donatello and a huge coin cabinet, usually without the crowds of its neighbours.",
+      "tip": "Cross the Monbijoubrücke for the classic view of the dome rising out of the Spree.",
+      "q": "Bode-Museum, Berlin", "ll": [52.5219, 13.3947], "tags": ["rainy day"],
+      "src": ["https://www.1000thingsmagazine.com/de/a/2059857/guide-tipps-berlin-mitte/", "https://en.wikivoyage.org/wiki/Berlin/Mitte"]
+    },
+    {
+      "id": "bmweltzeituhr", "cat": "gor", "area": "mitte",
+      "title": "Meet someone under the Weltzeituhr",
+      "desc": "The 1969 World Clock on Alexanderplatz shows the time in cities around the globe and has been East Berlin's favourite meeting point ever since.",
+      "tip": "Find your home city on the rotating ring, then look up at the little model of the solar system on top.",
+      "q": "Weltzeituhr, Alexanderplatz, Berlin", "ll": [52.5212, 13.4133], "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Berlin/Mitte"]
+    },
+    {
+      "id": "bmnikolaiviertel", "cat": "gor", "area": "mitte",
+      "title": "Wander the lanes of the Nikolaiviertel",
+      "desc": "Berlin's medieval core around the twin-spired Nikolaikirche, the city's oldest church. Most of the quarter was rebuilt by East Germany in the 1980s, partly in prefab concrete dressed up as old town, which makes it a curiosity in its own right.",
+      "tip": "Look closely at the gabled houses: many are concrete slabs with historic trimmings. The Zille Museum on Propststraße shows old Berlin street life in cartoons.",
+      "q": "Nikolaiviertel, Berlin", "ll": [52.5168, 13.4070], "tags": ["free"],
+      "src": ["https://www.inyourpocket.com/germany/berlin/articles/mitte-in-the-middle", "https://en.wikivoyage.org/wiki/Berlin/Mitte"]
+    },
+    {
+      "id": "bmhackeschehoefe", "cat": "gor", "area": "mitte",
+      "title": "Thread through the Hackesche Höfe",
+      "desc": "Eight interlinked courtyards from 1907 full of shops, a cinema and a variety theatre. The first courtyard is the showpiece, with glazed tiles and coloured mosaics in industrial Art Nouveau style.",
+      "tip": "Enter from Rosenthaler Straße and leave through the back onto Sophienstraße, one of the prettiest streets in Mitte.",
+      "q": "Hackesche Höfe, Berlin", "ll": [52.5242, 13.4022], "tags": ["free"],
+      "src": ["https://www.inyourpocket.com/germany/berlin/articles/mitte-in-the-middle", "https://en.wikivoyage.org/wiki/Berlin/Mitte"]
+    },
+    {
+      "id": "bmottoweidt", "cat": "gor", "area": "mitte",
+      "title": "Step into Otto Weidt's workshop at Haus Schwarzenberg",
+      "desc": "Right next to the polished Hackesche Höfe lies an unrenovated, paint-splashed courtyard that shows what Mitte looked like after the Wall fell. Upstairs is the small museum in the brush workshop where Otto Weidt protected his blind and deaf Jewish workers during the 1940s.",
+      "tip": "The entrance at Rosenthaler Straße 39 looks like a scruffy alley. That is the one. Ask to see the hidden room at the back of the workshop.",
+      "q": "Museum Blindenwerkstatt Otto Weidt, Berlin", "ll": [52.5243, 13.4026], "tags": ["rainy day"],
+      "src": ["https://www.inyourpocket.com/germany/berlin/articles/mitte-in-the-middle"]
+    },
+    {
+      "id": "bmneuesynagoge", "cat": "gor", "area": "mitte",
+      "title": "Look up at the golden dome of the Neue Synagoge",
+      "desc": "The gilded Moorish dome on Oranienburger Straße belongs to a synagogue built in 1859 to 1866, once the largest in Germany. Today it houses a museum on Jewish life in Berlin.",
+      "tip": "The dome shines brightest in late afternoon light. Around the corner on Große Hamburger Straße is Berlin's oldest Jewish cemetery.",
+      "q": "Neue Synagoge, Oranienburger Straße, Berlin", "ll": [52.5247, 13.3944],
+      "src": ["https://en.wikivoyage.org/wiki/Berlin/Mitte"]
+    },
+    {
+      "id": "bmtraenenpalast", "cat": "gor", "area": "mitte",
+      "title": "Pass through the Tränenpalast",
+      "desc": "The glass pavilion at Friedrichstraße station was the departure hall for people leaving East Berlin for the West. So many goodbyes were said here that Berliners named it the Palace of Tears. It is now a museum on the everyday reality of the border.",
+      "tip": "Walk through one of the original passport control booths and notice the mirror above your head.",
+      "q": "Tränenpalast, Berlin", "ll": [52.5208, 13.3869], "tags": ["free", "rainy day"],
+      "src": ["https://en.wikivoyage.org/wiki/Berlin/Mitte"]
+    },
+    {
+      "id": "bmmauergedenkstaette", "cat": "gor", "area": "mitte",
+      "title": "See the death strip at Bernauer Straße",
+      "desc": "The Berlin Wall memorial stretches for well over a kilometre along the street where houses stood in the East and the pavement in the West. One section keeps the whole border layout: inner wall, patrol strip, watchtower and outer wall.",
+      "tip": "Climb the tower of the Documentation Center across the road. It is the only place where you look down on the preserved strip from above.",
+      "q": "Gedenkstätte Berliner Mauer, Bernauer Straße, Berlin", "ll": [52.5351, 13.3902], "tags": ["free"],
+      "src": ["https://www.stiftung-berliner-mauer.de/en/berlin-wall-memorial", "https://en.wikivoyage.org/wiki/Berlin/Mitte"]
+    },
+    {
+      "id": "bmversoehnungskapelle", "cat": "gor", "area": "mitte",
+      "title": "Visit the Kapelle der Versöhnung",
+      "desc": "A church once stood stranded in the middle of the border strip here until East Germany blew it up in 1985. On the same spot now stands a small oval chapel of rammed earth and wooden slats, part of the Wall memorial.",
+      "tip": "Walk around the outside too: the old church's rescued bells hang in a frame next to the chapel.",
+      "q": "Kapelle der Versöhnung, Bernauer Straße, Berlin", "ll": [52.5358, 13.3919], "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Berlin/Mitte"]
+    },
+    {
+      "id": "bmdorotheenfriedhof", "cat": "gor", "area": "mitte",
+      "title": "Find Brecht's grave in the Dorotheenstädtischer Friedhof",
+      "desc": "A leafy, walled cemetery off Chausseestraße that reads like a who's who of German thought: Hegel, Fichte, Schinkel, Heinrich Mann, Anna Seghers and Bertolt Brecht all lie here.",
+      "tip": "The entrance is next to the Brecht-Haus, where the playwright lived with a view of the graveyard. A board at the gate maps the famous graves.",
+      "q": "Dorotheenstädtischer Friedhof, Chausseestraße, Berlin", "ll": [52.5284, 13.3837], "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Dorotheenstadt_Cemetery"]
+    },
+    {
+      "id": "bmstabikulturwerk", "cat": "gor", "area": "mitte",
+      "title": "See a Gutenberg Bible at the Stabi Kulturwerk",
+      "desc": "The Staatsbibliothek on Unter den Linden shows its treasures in a free museum: rare books including a Gutenberg Bible and the score of Bach's Mass in B minor.",
+      "tip": "Hardly anyone knows it is there. Walk through the courtyard with the fountain and combine it with a coffee in the library café.",
+      "q": "Stabi Kulturwerk, Unter den Linden 8, Berlin", "ll": [52.5176, 13.3917], "tags": ["free", "rainy day"],
+      "src": ["https://www.visitberlin.de/de/blog/11-tipps-fuer-einen-tag-mitte"]
+    },
+    {
+      "id": "bmdesignpanoptikum", "cat": "gor", "area": "mitte",
+      "title": "Guess the gadgets at the Designpanoptikum",
+      "desc": "A surreal museum of thousands of odd industrial objects in the Nikolaiviertel: dentist chairs, prostheses, lamps, mannequins and an iron lung. Nothing is labelled, so you have to work out what each thing was for.",
+      "tip": "Let founder Vlad Korneev show you round if he is in. His explanations are half the experience. Check the website before you go, since opening times change.",
+      "q": "Designpanoptikum, Poststraße 7, Berlin", "ll": [52.5160, 13.4062], "tags": ["rainy day"],
+      "src": ["https://www.visitberlin.de/en/designpanopticon-museum-bizarre-objects"]
+    },
+    {
+      "id": "bmreichstagkuppel", "cat": "dene", "area": "mitte",
+      "title": "Spiral up the Reichstag dome",
+      "desc": "A ramp winds up through Norman Foster's glass dome on top of the German parliament, with the whole government quarter at your feet and the plenary chamber visible below.",
+      "tip": "Entry is free but only with advance registration on the Bundestag website. Book an evening slot on a weekday and bring your ID.",
+      "q": "Reichstagsgebäude, Platz der Republik, Berlin", "ll": [52.5186, 13.3762], "tags": ["free"],
+      "src": ["https://www.visitberlin.de/de/reichstag-in-berlin", "https://en.wikivoyage.org/wiki/Berlin/Mitte"]
+    },
+    {
+      "id": "bmfernsehturm", "cat": "dene", "area": "mitte",
+      "title": "Ride up the Fernsehturm",
+      "desc": "East Germany's 368 metre TV tower is still the tallest structure in the country. The viewing floor in the sphere looks out over the whole city, and one level up the restaurant slowly revolves.",
+      "tip": "Book a timed ticket online, otherwise you wait a long time. On sunny days look for the cross of light on the sphere, nicknamed the Pope's Revenge.",
+      "q": "Berliner Fernsehturm, Berlin", "ll": [52.5208, 13.4094],
+      "src": ["https://en.wikivoyage.org/wiki/Berlin/Mitte", "https://www.1000thingsmagazine.com/de/a/2059857/guide-tipps-berlin-mitte/"]
+    },
+    {
+      "id": "bmberlinerdom", "cat": "dene", "area": "mitte",
+      "title": "Climb the dome of the Berliner Dom",
+      "desc": "Berlin's Protestant cathedral on the Museumsinsel is pure imperial pomp inside, and a staircase leads up to an outdoor walkway around the dome.",
+      "tip": "The climb is a few hundred steps with no lift. The view over the Lustgarten and the Spree is best in the late afternoon.",
+      "q": "Berliner Dom, Berlin", "ll": [52.5192, 13.4011],
+      "src": ["https://en.wikivoyage.org/wiki/Berlin/Mitte"]
+    },
+    {
+      "id": "bmhumboldtforumdach", "cat": "dene", "area": "mitte",
+      "title": "Go up to the Humboldt Forum roof terrace",
+      "desc": "The rebuilt Berlin palace is now a museum of world cultures, and its roof terrace looks straight onto the Dom, the Museumsinsel and the Fernsehturm.",
+      "tip": "Locals come up just for a drink at the rooftop café and the view, and skip the exhibitions on sunny days.",
+      "q": "Humboldt Forum, Schloßplatz, Berlin", "ll": [52.5175, 13.4028],
+      "src": ["https://www.visitberlin.de/en/humboldt-forum", "https://www.1000thingsmagazine.com/de/a/2059857/guide-tipps-berlin-mitte/"]
+    },
+    {
+      "id": "bmmonsterkabinett", "cat": "dene", "area": "mitte",
+      "title": "Go underground at the Monsterkabinett",
+      "desc": "In a cellar under Haus Schwarzenberg, the artist group Dead Chickens runs a show of clanking mechanical monsters that calls itself a run-down amusement park with a life of its own.",
+      "tip": "The entrance is in the back courtyard at Rosenthaler Straße 39. It only opens on some evenings from midweek to Saturday, and it is loud and dark, so not for small children.",
+      "q": "Monsterkabinett, Rosenthaler Straße 39, Berlin", "ll": [52.5244, 13.4027], "tags": ["rainy day"],
+      "src": ["https://www.berlin.de/en/museums/10229641-3104050-monsterkabinett.en.html"]
+    },
+    {
+      "id": "bmsammlungboros", "cat": "dene", "area": "mitte",
+      "title": "Tour the art bunker of Sammlung Boros",
+      "desc": "A massive former Reichsbahn air raid bunker holds a private collection of contemporary art, with works by artists such as Olafur Eliasson and Wolfgang Tillmans. The collector's family lives in a penthouse on top.",
+      "tip": "You can only visit on a guided tour on extended weekends, and slots go weeks ahead. Book on the collection's website as soon as you know your dates.",
+      "q": "Sammlung Boros, Reinhardtstraße 20, Berlin", "ll": [52.5235, 13.3840], "tags": ["rainy day"],
+      "src": ["https://www.visitberlin.de/en/sammlung-boros"]
+    },
+    {
+      "id": "bmbabylon", "cat": "dene", "area": "mitte",
+      "title": "Watch a silent film at the Babylon",
+      "desc": "The 1920s cinema on Rosa-Luxemburg-Platz still has a working cinema organ and shows classics, silent films with live music, festivals and midnight movies at weekends.",
+      "tip": "Check the programme for silent film screenings with the organ or a live orchestra. Those are the nights to go.",
+      "q": "Kino Babylon, Rosa-Luxemburg-Straße 30, Berlin", "ll": [52.5259, 13.4114], "tags": ["rainy day"],
+      "src": ["https://www.1000thingsmagazine.com/de/a/2059857/guide-tipps-berlin-mitte/", "https://en.wikivoyage.org/wiki/Berlin/Mitte"]
+    },
+    {
+      "id": "bmmonbijou", "cat": "dene", "area": "mitte",
+      "title": "Spend a summer evening in the Monbijoupark",
+      "desc": "The strip of green on the Spree opposite the Bode-Museum turns into an open-air dance floor on warm evenings, and the wooden Monbijou-Theater stages Shakespeare and improv under the sky.",
+      "tip": "You do not need a partner or any skill to join the riverside dancing. Bring a drink and watch from the steps first.",
+      "q": "Monbijoupark, Berlin", "ll": [52.5229, 13.3966], "months": [5, 6, 7, 8, 9],
+      "src": ["https://www.1000thingsmagazine.com/de/a/2059857/guide-tipps-berlin-mitte/"]
+    },
+    {
+      "id": "bmbodeflohmarkt", "cat": "dene", "area": "mitte",
+      "title": "Browse the book and antiques market by the Bode-Museum",
+      "desc": "Every Saturday and Sunday stalls line the Kupfergraben opposite the Museumsinsel, selling old books, prints, records, GDR memorabilia and antiques.",
+      "tip": "It is more of a browse than a bargain hunt. Look for old Berlin postcards and maps, which make better souvenirs than anything at Checkpoint Charlie.",
+      "q": "Antik- und Buchmarkt am Bodemuseum, Am Kupfergraben, Berlin", "ll": [52.5218, 13.3934], "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Berlin/Mitte"]
+    },
+    {
+      "id": "bmdussmann", "cat": "dene", "area": "mitte",
+      "title": "Get lost in Dussmann das KulturKaufhaus",
+      "desc": "Several floors of books, sheet music, records and films on Friedrichstraße, with a large English bookshop of its own. Berliners treat it as a living room for rainy evenings.",
+      "tip": "It stays open late into the evening, which is rare in Germany. Head to the back of the building to find the tall vertical garden.",
+      "q": "Dussmann das KulturKaufhaus, Friedrichstraße 90, Berlin", "ll": [52.5184, 13.3890], "tags": ["free", "rainy day"],
+      "src": ["https://en.wikivoyage.org/wiki/Berlin/Mitte"]
+    },
+    {
+      "id": "bmchamaeleon", "cat": "dene", "area": "mitte",
+      "title": "See new circus at the Chamäleon",
+      "desc": "An Art Nouveau ballroom inside the Hackesche Höfe where international companies mix acrobatics, dance and theatre. You sit at small tables and drinks are served during the show.",
+      "tip": "Shows work without words, so no German is needed. Book a table near the front and arrive early for a drink.",
+      "q": "Chamäleon Theater, Rosenthaler Straße 40, Berlin", "ll": [52.5240, 13.4022], "tags": ["rainy day"],
+      "src": ["https://www.1000thingsmagazine.com/de/a/2042740/geheimtipps-fuer-die-hackeschen-hoefe/", "https://en.wikivoyage.org/wiki/Berlin/Mitte"]
+    },
+    {
+      "id": "bmpanoramapunkt", "cat": "dene", "area": "mitte",
+      "title": "Shoot up to the Panoramapunkt on Potsdamer Platz",
+      "desc": "The brick Kollhoff Tower has an open-air viewing terrace about 100 metres up, looking over what was a wasteland in the death strip until 1989 and across the Tiergarten to the Reichstag.",
+      "tip": "Before going up, find the remaining segments of the Wall standing on the square outside the station exit.",
+      "q": "Panoramapunkt, Potsdamer Platz 1, Berlin", "ll": [52.5092, 13.3750],
+      "src": ["https://en.wikivoyage.org/wiki/Berlin/Mitte"]
+    },
+    {
+      "id": "bmgeisterbahnhof", "cat": "dene", "area": "mitte",
+      "title": "Read up on ghost stations at Nordbahnhof",
+      "desc": "During the division, West Berlin trains rolled without stopping through dimly lit, guarded stations under East Berlin. An exhibition inside Nordbahnhof S-Bahn station, itself one of those ghost stations, tells the story.",
+      "tip": "It is in the station concourse, so you can see it on your way to the Wall memorial on Bernauer Straße, which starts right outside.",
+      "q": "S-Bahnhof Nordbahnhof, Berlin", "ll": [52.5320, 13.3885], "tags": ["free", "rainy day"],
+      "src": ["https://www.stiftung-berliner-mauer.de/en/berlin-wall-memorial/visit/exhibitions"]
+    },
+    {
+      "id": "bmcurry61", "cat": "ye", "area": "mitte",
+      "title": "Eat a Currywurst at Curry 61",
+      "desc": "A family-run stand near Hackescher Markt that is regularly named among the best in town: juicy sausage, tangy tomato sauce cooked fresh several times a day, a dusting of curry powder and crisp fries.",
+      "tip": "Order it ohne Darm (skinless), the East Berlin way. There is a vegan sausage too.",
+      "q": "Curry 61, Oranienburger Straße 6, Berlin", "ll": [52.5236, 13.4003],
+      "src": ["https://www.visitberlin.de/en/berlins-currywurst/district/mitte", "https://www.top10berlin.de/en/cat/eating-257/currywurst-stalls-1259/curry61-527"]
+    },
+    {
+      "id": "bmletzteinstanz", "cat": "ye", "area": "mitte",
+      "title": "Dine at Zur letzten Instanz, Berlin's oldest restaurant",
+      "desc": "This inn by the old city wall has been pouring drinks since 1621. Napoleon is said to have sat by the tiled stove, and the kitchen serves traditional Berlin cooking with regional produce.",
+      "tip": "Reserve ahead and ask for a table near the old stove. In summer there is a small beer garden, and from November the Martinsgans (roast goose) is on.",
+      "q": "Zur letzten Instanz, Waisenstraße 14, Berlin", "ll": [52.5173, 13.4138],
+      "src": ["https://de.wikipedia.org/wiki/Zur_letzten_Instanz", "https://www.zurletzteninstanz.com/"]
+    },
+    {
+      "id": "bmteestube", "cat": "ye", "area": "mitte",
+      "title": "Take off your shoes at the Tadshikische Teestube",
+      "desc": "A carved and carpeted tea room that began as Tajikistan's pavilion at a 1970s Leipzig trade fair. You sit on cushions at low tables for a samovar tea ceremony with jam, biscuits and rum raisins, or for pelmeni, blini and plov.",
+      "tip": "It hides in the Kunsthof courtyard at Oranienburger Straße 27. Reserve at weekends and wear decent socks.",
+      "q": "Tadshikische Teestube, Oranienburger Straße 27, Berlin", "ll": [52.5246, 13.3952], "tags": ["rainy day"],
+      "src": ["https://www.the-berliner.com/food/tadshikische-teestube-tadjik-tearoom-mitte-classic-neighbourhood-yurt/"]
+    },
+    {
+      "id": "bmrausch", "cat": "ye", "area": "mitte",
+      "title": "Drink hot chocolate at Rausch Schokoladenhaus",
+      "desc": "Three floors of chocolate on the corner of the Gendarmenmarkt, with hundreds of varieties in the shop and a café upstairs looking onto the square.",
+      "tip": "Even if you buy nothing, go in to see Berlin landmarks like the Brandenburger Tor and the Reichstag built out of chocolate.",
+      "q": "Rausch Schokoladenhaus, Charlottenstraße 60, Berlin", "ll": [52.5120, 13.3913], "tags": ["rainy day"],
+      "src": ["https://www.visitberlin.de/de/blog/11-tipps-fuer-einen-tag-mitte", "https://en.wikivoyage.org/wiki/Berlin/Mitte"]
+    },
+    {
+      "id": "bmstaendigevertretung", "cat": "ye", "area": "mitte",
+      "title": "Drink a Kölsch at the Ständige Vertretung",
+      "desc": "When the government moved from Bonn to Berlin, homesick Rhinelanders got their own pub on the Spree. The walls are plastered with political photos and the kitchen serves Rhenish food and Flammkuchen.",
+      "tip": "Kölsch comes in small glasses and keeps coming until you put your beer mat on top. Sit outside on Schiffbauerdamm in summer.",
+      "q": "Ständige Vertretung, Schiffbauerdamm 8, Berlin", "ll": [52.5212, 13.3855],
+      "src": ["https://en.wikivoyage.org/wiki/Berlin/Mitte"]
+    },
+    {
+      "id": "bmborchardt", "cat": "ye", "area": "mitte",
+      "title": "Order the Wiener Schnitzel at Borchardt",
+      "desc": "The high-ceilinged brasserie near the Gendarmenmarkt is where politicians and film people come to see and be seen. It is pricey and a bit full of itself, but the schnitzel is famous for a reason.",
+      "tip": "Reserve well ahead for dinner. Lunch is easier to get into and just as good for people watching.",
+      "q": "Borchardt, Französische Straße 47, Berlin", "ll": [52.5148, 13.3907],
+      "src": ["https://www.1000thingsmagazine.com/de/a/2059857/guide-tipps-berlin-mitte/"]
+    },
+    {
+      "id": "bmclaerchens", "cat": "ye", "area": "mitte",
+      "title": "Eat and dance at Clärchens Ballhaus",
+      "desc": "Berlin's last surviving dance hall of its kind opened in 1913 and kept going through two wars and the GDR. Since its renovation the restaurant Luna D'Oro serves playful German home cooking on the old dance floor, and the dancing has moved up to the listed Spiegelsaal.",
+      "tip": "Try retro dishes like Mettigel (a hedgehog of minced pork) and ask to peek into the mirrored hall upstairs if no event is on.",
+      "q": "Clärchens Ballhaus, Auguststraße 24, Berlin", "ll": [52.5269, 13.3967],
+      "src": ["https://de.wikipedia.org/wiki/Clärchens_Ballhaus", "https://www.1000thingsmagazine.com/de/a/2059857/guide-tipps-berlin-mitte/"]
+    },
+    {
+      "id": "bmzeitfuerbrot", "cat": "ye", "area": "mitte",
+      "title": "Queue for a Zimtschnecke at Zeit für Brot",
+      "desc": "An organic bakery on Alte Schönhauser Straße where you watch the bakers at work behind glass. The cinnamon buns, pulled warm from the oven all day, have a cult following.",
+      "tip": "Besides the classic, try the buns with seasonal fillings. Weekday mornings mean a much shorter queue than weekends.",
+      "q": "Zeit für Brot, Alte Schönhauser Straße 4, Berlin", "ll": [52.5273, 13.4098],
+      "src": ["https://www.visitberlin.de/en/blog/11-top-bakeries-berlin"]
+    },
+    {
+      "id": "bmthebarn", "cat": "ye", "area": "mitte",
+      "title": "Drink a filter coffee at The Barn",
+      "desc": "The tiny café on Auguststraße is where Berlin's speciality coffee scene took off, and its own roastery is now known far beyond the city.",
+      "tip": "Ask which single origin is on filter that day. Seats are few, so take your cup around the corner to Koppenplatz.",
+      "q": "The Barn Café, Auguststraße 58, Berlin", "ll": [52.5283, 13.3987],
+      "src": ["https://www.1000thingsmagazine.com/de/a/2059857/guide-tipps-berlin-mitte/"]
+    },
+    {
+      "id": "bmsofi", "cat": "ye", "area": "mitte",
+      "title": "Find the SOFI bakery in the Sophie-Gips-Höfe",
+      "desc": "A craft bakery tucked into a brick courtyard off Sophienstraße, the calmer and more stylish sister of the Hackesche Höfe next door. Bread and pastries are baked in full view.",
+      "tip": "Walk the whole passage from Sophienstraße 21 through to Gipsstraße and look for the art pieces on the courtyard walls.",
+      "q": "SOFI Bakery, Sophienstraße 21, Berlin", "ll": [52.5258, 13.4009],
+      "src": ["https://www.1000thingsmagazine.com/de/a/2059857/guide-tipps-berlin-mitte/"]
+    },
+    {
+      "id": "bmcafebravo", "cat": "ye", "area": "mitte",
+      "title": "Have coffee in the glass cube of Café Bravo",
+      "desc": "In the courtyard of the KW Institute for Contemporary Art sits a mirrored glass pavilion that works as a café. Local guides call it possibly the most beautiful museum café in the city.",
+      "tip": "You can walk into the courtyard at Auguststraße 69 without a ticket for the exhibitions.",
+      "q": "Café Bravo, KW Institute for Contemporary Art, Auguststraße 69, Berlin", "ll": [52.5270, 13.3947],
+      "src": ["https://www.1000thingsmagazine.com/de/a/2059857/guide-tipps-berlin-mitte/"]
+    },
+    {
+      "id": "bmcanal", "cat": "ye", "area": "mitte",
+      "title": "Grab an éclair at Canal",
+      "desc": "A small patisserie in the Hackesche Höfe that makes everything fresh each day: éclairs in the colder months and ice cream, including vegan flavours, when it is warm.",
+      "tip": "The raspberry pistachio éclair is the one people talk about. Éclairs sell out fast, so come early in the day.",
+      "q": "Canal, Rosenthaler Straße 40, Berlin", "ll": [52.5241, 13.4020],
+      "src": ["https://www.1000thingsmagazine.com/de/a/2042740/geheimtipps-fuer-die-hackeschen-hoefe/"]
+    },
+    {
+      "id": "bmmeinhausamsee", "cat": "ye", "area": "mitte",
+      "title": "Sink into a sofa at Mein Haus am See",
+      "desc": "A big, laid-back living room of a place at Rosenthaler Platz that is a café by day and turns into a lively bar in the evening. There is no lake in sight, whatever the name says.",
+      "tip": "Claim a spot on the stepped seating at the back, the best place to watch the room fill up as night falls.",
+      "q": "Mein Haus am See, Brunnenstraße 197, Berlin", "ll": [52.5300, 13.4011],
+      "src": ["https://berlinecho.de/berliner-bars-empfehlungen-cocktail-wein/"]
+    },
+    {
+      "id": "bmfrea", "cat": "ye", "area": "mitte",
+      "title": "Have a vegan breakfast at FREA Bakery",
+      "desc": "A fully plant-based bakery and café near Nordbahnhof with sourdough breads, sweet pastries, good coffee and a proper breakfast menu.",
+      "tip": "It is a few minutes' walk from the Wall memorial, so it makes a good stop before or after Bernauer Straße.",
+      "q": "FREA Bakery, Gartenstraße 9, Berlin", "ll": [52.5290, 13.3913],
+      "src": ["https://www.visitberlin.de/en/blog/11-top-bakeries-berlin", "https://www.1000thingsmagazine.com/de/a/2059857/guide-tipps-berlin-mitte/"]
+    }
+  ]
+}

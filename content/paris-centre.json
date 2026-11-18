@@ -1,0 +1,767 @@
+{
+ "new": [
+  {
+   "id": "pclouvre",
+   "cat": "gor",
+   "area": "centre",
+   "title": "Stand under the Louvre pyramid",
+   "desc": "The glass pyramid in the Cour Napoléon is the doorway to the world's most visited museum, home to the Mona Lisa, the Venus de Milo and several kilometres of galleries. Even without a ticket, the courtyard at dusk is one of the great Paris views.",
+   "tip": "Book a timed ticket ahead and try the entrance through the Carrousel du Louvre mall on rue de Rivoli, which is often calmer than the pyramid queue.",
+   "q": "Pyramide du Louvre, Paris",
+   "ll": [
+    48.8611,
+    2.3358
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Paris/1st_arrondissement"
+   ]
+  },
+  {
+   "id": "pcsaintechapelle",
+   "cat": "gor",
+   "area": "centre",
+   "title": "Be dazzled by the Sainte-Chapelle windows",
+   "desc": "The upper chapel of this 13th-century royal chapel is almost all stained glass, so the walls seem to dissolve into colour. It hides inside the law courts on the Île de la Cité.",
+   "tip": "Go on a sunny day, that is when the glass really glows. Expect a security check at the gate and reserve a slot in advance.",
+   "q": "Sainte-Chapelle, Paris",
+   "ll": [
+    48.8554,
+    2.345
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Paris/1st_arrondissement"
+   ]
+  },
+  {
+   "id": "pcnotredame",
+   "cat": "gor",
+   "area": "centre",
+   "title": "Step inside the reborn Notre-Dame",
+   "desc": "After the 2019 fire and five years of restoration the Gothic cathedral reopened at the end of 2024, with its stone cleaned to a pale glow nobody alive had seen before.",
+   "tip": "Entry is free but a booked time slot saves a long wait. On the square outside, look for the small bronze star of Point Zéro, from which all French road distances are measured.",
+   "q": "Cathédrale Notre-Dame de Paris",
+   "ll": [
+    48.853,
+    2.3498
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Paris/4th_arrondissement",
+    "https://fr.wikipedia.org/wiki/Point_z%C3%A9ro_des_routes_de_France"
+   ]
+  },
+  {
+   "id": "pcburen",
+   "cat": "gor",
+   "area": "centre",
+   "title": "Hop across the Colonnes de Buren",
+   "desc": "Daniel Buren's black and white striped columns fill the main courtyard of the Palais-Royal and caused a scandal when they arrived in the 1980s. Today they are the city's favourite playground for photos.",
+   "tip": "Walk on through the arcades into the Jardin du Palais-Royal behind, a quiet rectangle of lime trees and fountain chairs that many visitors never find.",
+   "q": "Colonnes de Buren, Palais-Royal, Paris",
+   "ll": [
+    48.8636,
+    2.3378
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Colonnes_de_Buren",
+    "https://en.wikivoyage.org/wiki/Paris/1st_arrondissement"
+   ]
+  },
+  {
+   "id": "pcvivienne",
+   "cat": "gor",
+   "area": "centre",
+   "title": "Stroll the mosaic floor of Galerie Vivienne",
+   "desc": "The best preserved of the Paris covered passages, with a swirling mosaic floor, a glass roof and a rotunda. Old bookshops, a wine merchant and elegant boutiques line the arcade.",
+   "tip": "It is private property that is open to walkers during the day, so come before the evening. Combine it with the Palais-Royal garden two minutes away.",
+   "q": "Galerie Vivienne, Paris",
+   "ll": [
+    48.8667,
+    2.3397
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Paris/2nd_arrondissement",
+    "https://fr.wikipedia.org/wiki/Galerie_Vivienne"
+   ]
+  },
+  {
+   "id": "pcvosges",
+   "cat": "gor",
+   "area": "centre",
+   "title": "Do a lap of the Place des Vosges arcades",
+   "desc": "The oldest planned square in Paris is a perfect red brick rectangle of 17th-century pavilions over vaulted arcades, with a lawn where the Marais comes to picnic.",
+   "tip": "Walk the full circuit under the arcades for galleries and buskers, then claim a patch of grass in the middle when the sun is out.",
+   "q": "Place des Vosges, Paris",
+   "ll": [
+    48.8556,
+    2.3656
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Paris/4th_arrondissement",
+    "https://en.wikipedia.org/wiki/Place_des_Vosges"
+   ]
+  },
+  {
+   "id": "pcsainteustache",
+   "cat": "gor",
+   "area": "centre",
+   "title": "Hear the great organ of Saint-Eustache",
+   "desc": "This huge church beside Les Halles has a Gothic skeleton dressed in Renaissance detail, and the largest church organ in France. It was the parish of the old central market traders.",
+   "tip": "Look for the colourful sculpture in a side chapel showing the market porters leaving Les Halles. Free organ recitals are often held on Sunday afternoons.",
+   "q": "Église Saint-Eustache, Paris",
+   "ll": [
+    48.8633,
+    2.345
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Paris/1st_arrondissement"
+   ]
+  },
+  {
+   "id": "pcstravinsky",
+   "cat": "gor",
+   "area": "centre",
+   "title": "Watch the Fontaine Stravinsky spin and spit",
+   "desc": "Jean Tinguely's black machines and Niki de Saint Phalle's bright creatures whirl and squirt water in a shallow basin, a 1983 tribute to the composer Stravinsky. It is pure joy on a square between a Gothic church and the Centre Pompidou.",
+   "tip": "The Centre Pompidou next door is closed for a long renovation, but the fountain and the giant street art murals around the square are still very much worth the detour.",
+   "q": "Fontaine Stravinsky, Paris",
+   "ll": [
+    48.8595,
+    2.3515
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Fontaine_Stravinsky",
+    "https://en.wikivoyage.org/wiki/Paris/4th_arrondissement"
+   ]
+  },
+  {
+   "id": "pcflamel",
+   "cat": "gor",
+   "area": "centre",
+   "title": "Find the house of Nicolas Flamel",
+   "desc": "The house at 51 rue de Montmorency was built for the scribe and legendary alchemist Nicolas Flamel in the early 1400s and is counted among the oldest houses in Paris. The carved stone front still carries its medieval inscription.",
+   "tip": "Step close to make out the angels and initials cut into the pillars. The ground floor is a restaurant, so you can also see it from the inside over dinner.",
+   "q": "Maison de Nicolas Flamel, 51 rue de Montmorency, Paris",
+   "ll": [
+    48.8636,
+    2.3531
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Maison_de_Nicolas_Flamel"
+   ]
+  },
+  {
+   "id": "pcvertgalant",
+   "cat": "gor",
+   "area": "centre",
+   "title": "Sit at the tip of the Île de la Cité",
+   "desc": "Square du Vert-Galant is the little tree-lined point at the western end of the island, down at water level below the Pont Neuf, which despite its name is the oldest bridge in Paris. The Seine splits around you and the Louvre lines the bank.",
+   "tip": "Take the stairs behind the statue of Henri IV on the Pont Neuf. Come at sunset, then wander back through the hushed triangle of Place Dauphine.",
+   "q": "Square du Vert-Galant, Paris",
+   "ll": [
+    48.8575,
+    2.34
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Square_du_Vert-Galant",
+    "https://fr.wikipedia.org/wiki/Pont_Neuf"
+   ]
+  },
+  {
+   "id": "pctoursaintjacques",
+   "cat": "gor",
+   "area": "centre",
+   "title": "Look up at the lonely Tour Saint-Jacques",
+   "desc": "This 52 metre Flamboyant Gothic tower is all that survives of a butchers' church torn down in 1797. It was a starting point for pilgrims walking to Santiago de Compostela.",
+   "tip": "The small garden at its foot is a handy bench stop between Châtelet and the Hôtel de Ville. Guided climbs to the top run in the warmer months and sell out fast.",
+   "q": "Tour Saint-Jacques, Paris",
+   "ll": [
+    48.858,
+    2.3489
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Paris/4th_arrondissement",
+    "https://en.wikipedia.org/wiki/Tour_Saint-Jacques"
+   ]
+  },
+  {
+   "id": "pcgrandcerf",
+   "cat": "gor",
+   "area": "centre",
+   "title": "Walk under the glass of Passage du Grand-Cerf",
+   "desc": "One of the tallest and airiest covered passages in Paris, with iron footbridges and a glass roof three floors up. The shops are small designers, jewellers and makers rather than chains.",
+   "tip": "It links rue Saint-Denis and rue Dussoubs, so use it as a shortcut on the way to rue Montorgueil. The gates are locked in the evening.",
+   "q": "Passage du Grand-Cerf, Paris",
+   "ll": [
+    48.8648,
+    2.3493
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Paris/2nd_arrondissement",
+    "https://fr.wikipedia.org/wiki/Passage_du_Grand-Cerf"
+   ]
+  },
+  {
+   "id": "pcjeansanspeur",
+   "cat": "gor",
+   "area": "centre",
+   "title": "Climb the medieval Tour Jean-sans-Peur",
+   "desc": "A fortified tower from around 1410, the last piece of the Paris palace of the Dukes of Burgundy, squeezed between school buildings on a busy street. Inside are small exhibitions on everyday medieval life.",
+   "tip": "Climb the spiral staircase to the top to see the stone vault carved as an oak tree. Opening days are limited, so check before you go.",
+   "q": "Tour Jean-sans-Peur, 20 rue Étienne Marcel, Paris",
+   "ll": [
+    48.8643,
+    2.3481
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Paris/2nd_arrondissement",
+    "https://en.wikipedia.org/wiki/Tour_Jean-sans-Peur"
+   ]
+  },
+  {
+   "id": "pcshoah",
+   "cat": "gor",
+   "area": "centre",
+   "title": "Read the names at the Mémorial de la Shoah",
+   "desc": "France's Holocaust museum and documentation centre stands at the edge of the old Jewish quarter. In the forecourt, the Wall of Names lists the Jews deported from France.",
+   "tip": "Entry is free. Allow time for the crypt and the permanent exhibition, and note that it is closed on Saturdays.",
+   "q": "Mémorial de la Shoah, 17 rue Geoffroy l'Asnier, Paris",
+   "ll": [
+    48.8548,
+    2.3562
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Paris/4th_arrondissement"
+   ]
+  },
+  {
+   "id": "pcsully",
+   "cat": "gor",
+   "area": "centre",
+   "title": "Slip through the Hôtel de Sully",
+   "desc": "A grand Marais mansion from the 1620s with a courtyard covered in sculpted figures of the seasons and the elements. Its garden is a locals' shortcut straight into the Place des Vosges.",
+   "tip": "Enter from 62 rue Saint-Antoine, cross both courtyards and leave by the small door in the far corner of the garden. You pop out under the arcades of the square.",
+   "q": "Hôtel de Sully, 62 rue Saint-Antoine, Paris",
+   "ll": [
+    48.8546,
+    2.3638
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Paris/4th_arrondissement",
+    "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_Sully"
+   ]
+  },
+  {
+   "id": "pcverododat",
+   "cat": "gor",
+   "area": "centre",
+   "title": "Time travel in Galerie Véro-Dodat",
+   "desc": "Opened in 1826 by two pork butchers, this narrow passage has a black and white chequered floor, dark wood shopfronts and painted ceilings that have barely changed. It is quieter and moodier than its famous neighbours.",
+   "tip": "Peer into the old-fashioned workshops, including the shoe repairer, and come on a weekday when the shops are open.",
+   "q": "Galerie Véro-Dodat, Paris",
+   "ll": [
+    48.8627,
+    2.3403
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Galerie_V%C3%A9ro-Dodat",
+    "https://en.wikivoyage.org/wiki/Paris/1st_arrondissement"
+   ]
+  },
+  {
+   "id": "pcasdufallafel",
+   "cat": "ye",
+   "area": "centre",
+   "title": "Queue for a pita at L'As du Fallafel",
+   "desc": "The most famous falafel in Paris comes from this kosher counter on rue des Rosiers, in the heart of the old Jewish quarter known as the Pletzl. The pita arrives overloaded with falafel, fried aubergine, cabbage and sauce.",
+   "tip": "The takeaway queue looks scary but moves fast. It shuts for Shabbat from Friday afternoon through Saturday, so pick another day.",
+   "q": "L'As du Fallafel, 34 rue des Rosiers, Paris",
+   "ll": [
+    48.8574,
+    2.3591
+   ],
+   "src": [
+    "https://www.myjewishlearning.com/the-nosher/the-best-jewish-food-in-the-pletzl-of-the-marais-in-paris/",
+    "https://fr.wikipedia.org/wiki/L%27As_du_Fallafel"
+   ]
+  },
+  {
+   "id": "pcflorencekahn",
+   "cat": "ye",
+   "area": "centre",
+   "title": "Order a pletzel sandwich at Florence Kahn",
+   "desc": "Behind a blue mosaic shopfront on the corner of rue des Écouffes, this Ashkenazi bakery and deli fills soft onion rolls called pletzels with pastrami, pickles and aubergine caviar. The counter is also stacked with challah, strudel and cheesecake.",
+   "tip": "Take your sandwich around the corner to the Jardin des Rosiers Joseph-Migneret, a hidden garden reached through a courtyard on rue des Rosiers.",
+   "q": "Florence Kahn, 24 rue des Écouffes, Paris",
+   "ll": [
+    48.8571,
+    2.3584
+   ],
+   "src": [
+    "https://www.myjewishlearning.com/the-nosher/the-best-jewish-food-in-the-pletzl-of-the-marais-in-paris/"
+   ]
+  },
+  {
+   "id": "pcfinkelsztajn",
+   "cat": "ye",
+   "area": "centre",
+   "title": "Grab a knish at the yellow shop",
+   "desc": "Sacha Finkelsztajn's bright yellow bakery, La Boutique Jaune, has been feeding rue des Rosiers with Yiddish classics since 1946. Think knishes, poppy seed cakes and thick slices of cheesecake.",
+   "tip": "Point at whatever looks good in the window and eat it on the go. It makes a perfect sweet second course after a falafel up the street.",
+   "q": "Sacha Finkelsztajn, 27 rue des Rosiers, Paris",
+   "ll": [
+    48.8572,
+    2.3587
+   ],
+   "src": [
+    "https://www.myjewishlearning.com/the-nosher/the-best-jewish-food-in-the-pletzl-of-the-marais-in-paris/"
+   ]
+  },
+  {
+   "id": "pcenfantsrouges",
+   "cat": "ye",
+   "area": "centre",
+   "title": "Eat your way around the Marché des Enfants Rouges",
+   "desc": "The oldest covered market in Paris dates from the early 1600s and is named after the red-clad children of a nearby orphanage. Today its stalls serve Moroccan couscous, Japanese bento, Italian plates and crêpes at shared tables.",
+   "tip": "Come on a weekday to avoid the lunchtime crush and do a full lap before choosing. The market is closed on Mondays.",
+   "q": "Marché des Enfants Rouges, 39 rue de Bretagne, Paris",
+   "ll": [
+    48.8628,
+    2.362
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/March%C3%A9_des_Enfants-Rouges"
+   ]
+  },
+  {
+   "id": "pcberthillon",
+   "cat": "ye",
+   "area": "centre",
+   "title": "Lick a Berthillon ice cream on Île Saint-Louis",
+   "desc": "Berthillon has been making intensely flavoured ice creams and sorbets on the island's main street for decades, and a cone here is a Paris ritual. Expect a queue at the window on any warm day.",
+   "tip": "If the line at the mother shop is too long, several cafés on the same street sell the same Berthillon scoops. Eat yours on the Pont Saint-Louis with the view of Notre-Dame.",
+   "q": "Berthillon, 31 rue Saint-Louis en l'Île, Paris",
+   "ll": [
+    48.8517,
+    2.3567
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Paris/4th_arrondissement",
+    "https://fr.wikipedia.org/wiki/Berthillon"
+   ]
+  },
+  {
+   "id": "pcangelina",
+   "cat": "ye",
+   "area": "centre",
+   "title": "Sip the thick hot chocolate at Angelina",
+   "desc": "This Belle Époque tea room under the rue de Rivoli arcades has been serving since 1903. It is famous for a hot chocolate almost too thick to pour and for the Mont-Blanc, a dome of meringue, cream and chestnut.",
+   "tip": "Queues for a table can be long. The takeaway counter sells the same chocolate and pastries, and the Tuileries garden is just across the road.",
+   "q": "Angelina, 226 rue de Rivoli, Paris",
+   "ll": [
+    48.8652,
+    2.3281
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Angelina_(salon_de_th%C3%A9)"
+   ]
+  },
+  {
+   "id": "pcstohrer",
+   "cat": "ye",
+   "area": "centre",
+   "title": "Taste a baba au rhum where it was born",
+   "desc": "Stohrer on rue Montorgueil was opened in 1730 by Louis XV's pastry chef and is the oldest pâtisserie in Paris. The baba au rhum is said to have been invented here, and the painted interior is a listed monument.",
+   "tip": "Besides the baba, try the puits d'amour, a caramelised cream-filled puff pastry. Look up at the ceiling paintings while you wait.",
+   "q": "Stohrer, 51 rue Montorgueil, Paris",
+   "ll": [
+    48.8652,
+    2.3468
+   ],
+   "src": [
+    "https://www.pariszigzag.fr/insolite/lieux-insolites/patisserie-stohrer-montorgueil/",
+    "https://en.wikipedia.org/wiki/La_Maison_Stohrer"
+   ]
+  },
+  {
+   "id": "pcsainteanne",
+   "cat": "ye",
+   "area": "centre",
+   "title": "Slurp noodles in Little Tokyo on rue Sainte-Anne",
+   "desc": "Since the 1990s the streets between the Palais-Royal and the Opéra have been the Japanese quarter of Paris, packed with ramen counters, udon bars, bento shops and bakeries. Parisians happily queue on the pavement here at lunchtime.",
+   "tip": "Higuma is the classic for ramen and gyoza. For dessert, cross to Aki Boulangerie for a melon pan or a matcha pastry, and come outside peak lunch hour to skip the lines.",
+   "q": "Rue Sainte-Anne, Paris",
+   "ll": [
+    48.8672,
+    2.336
+   ],
+   "src": [
+    "https://www.japan-experience.com/fr/preparer-voyage/savoir/avant-de-partir/rue-sainte-anne-quartier-japonais-paris",
+    "https://www.untappedcities.com/little-tokyo-the-history-of-rue-saint-anne/"
+   ]
+  },
+  {
+   "id": "pcfrenchie",
+   "cat": "ye",
+   "area": "centre",
+   "title": "Squeeze in at Frenchie Bar à Vins",
+   "desc": "Tiny rue du Nil in the Sentier has become a food lovers' street, and this lively wine bar is its heart. Sharing plates that punch well above their size come with a serious list of wines by the glass.",
+   "tip": "The room is small, so arrive right at opening or late in the evening. By day, browse the Terroirs d'Avenir grocers on the same street.",
+   "q": "Frenchie Bar à Vins, 6 rue du Nil, Paris",
+   "ll": [
+    48.8677,
+    2.3478
+   ],
+   "src": [
+    "https://www.timeout.com/paris/en/eating-drinking/pariss-best-wine-bars",
+    "https://en.wikivoyage.org/wiki/Paris/2nd_arrondissement"
+   ]
+  },
+  {
+   "id": "pcmariagefreres",
+   "cat": "ye",
+   "area": "centre",
+   "title": "Take tea at Mariage Frères",
+   "desc": "The Mariage brothers founded their tea house in 1854, and the Marais shop still feels colonial and hushed, with walls of black tins and staff in linen suits. The salon behind serves tea with pastries that are themselves scented with tea.",
+   "tip": "Ask to smell a few teas at the counter before you choose. The menu runs to hundreds of varieties, so tell the waiter what you like.",
+   "q": "Mariage Frères, 30 rue du Bourg-Tibourg, Paris",
+   "ll": [
+    48.8577,
+    2.3566
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Paris/4th_arrondissement",
+    "https://en.wikipedia.org/wiki/Mariage_Fr%C3%A8res"
+   ]
+  },
+  {
+   "id": "pcloir",
+   "cat": "ye",
+   "area": "centre",
+   "title": "Sink into a sofa at Le Loir dans la Théière",
+   "desc": "Named after the dormouse in the teapot from Alice in Wonderland, this tea room on rue des Rosiers is all mismatched armchairs, old posters and towering homemade cakes. Brunch here is a Marais weekend habit.",
+   "tip": "Choose your slice from the cake table as you walk in. The sky-high lemon meringue pie is the one everybody comes for.",
+   "q": "Le Loir dans la Théière, 3 rue des Rosiers, Paris",
+   "ll": [
+    48.8562,
+    2.361
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Paris/4th_arrondissement"
+   ]
+  },
+  {
+   "id": "pcjuveniles",
+   "cat": "ye",
+   "area": "centre",
+   "title": "Share a bottle at Juvéniles",
+   "desc": "A snug wine bistro near the Palais-Royal where bottles line the walls and the cooking has become as good as the cellar. It is a favourite for unusual and hard to find wines.",
+   "tip": "Reserve, as there are only a handful of tables. If you fall for a wine, you can buy a bottle to take home.",
+   "q": "Juvéniles, 47 rue de Richelieu, Paris",
+   "ll": [
+    48.8663,
+    2.3371
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Paris/1st_arrondissement"
+   ]
+  },
+  {
+   "id": "pccarnavalet",
+   "cat": "dene",
+   "area": "centre",
+   "title": "Walk through Paris history at the Musée Carnavalet",
+   "desc": "Two Marais mansions hold the story of the city in more than a hundred rooms, from Roman Lutetia to the Revolution and the Belle Époque. Highlights include old shop signs, Marcel Proust's bedroom and a complete Art Nouveau jewellery shop.",
+   "tip": "The permanent collection is free. Start with the gallery of painted shop signs on the ground floor and rest in the formal courtyard garden.",
+   "q": "Musée Carnavalet, 23 rue de Sévigné, Paris",
+   "ll": [
+    48.8575,
+    2.3622
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Paris/3rd_arrondissement",
+    "https://en.wikipedia.org/wiki/Mus%C3%A9e_Carnavalet"
+   ]
+  },
+  {
+   "id": "pcartsetmetiers",
+   "cat": "dene",
+   "area": "centre",
+   "title": "Marvel at inventions in the Musée des Arts et Métiers",
+   "desc": "France's museum of technology, founded in 1794, shows early calculators, steam cars, looms and flying machines. The finale is a medieval priory church where old aeroplanes hang above a Foucault pendulum.",
+   "tip": "Arrive by métro line 11 at Arts et Métiers, where the platform is clad in copper like a Jules Verne submarine.",
+   "q": "Musée des Arts et Métiers, 60 rue Réaumur, Paris",
+   "ll": [
+    48.8661,
+    2.3553
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Paris/3rd_arrondissement",
+    "https://en.wikipedia.org/wiki/Mus%C3%A9e_des_Arts_et_M%C3%A9tiers"
+   ]
+  },
+  {
+   "id": "pcmagie",
+   "cat": "dene",
+   "area": "centre",
+   "title": "Get fooled at the Musée de la Magie",
+   "desc": "In 16th-century cellars under a house in the Marais, a private museum shows off magicians' props, optical illusions and trick boxes. A live conjuring show is part of the visit.",
+   "tip": "It only opens on a few afternoons a week, so check the days first. It is a great rainy day stop with children.",
+   "q": "Musée de la Magie, 11 rue Saint-Paul, Paris",
+   "ll": [
+    48.8531,
+    2.3612
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Mus%C3%A9e_de_la_Magie"
+   ]
+  },
+  {
+   "id": "pc59rivoli",
+   "cat": "dene",
+   "area": "centre",
+   "title": "Wander the artist studios at 59 Rivoli",
+   "desc": "A former squat on the city's main shopping street, occupied by artists in 1999 and later legalised by the city. Six paint-splashed floors of open studios let you watch artists at work and chat with them.",
+   "tip": "Entry is free with a donation box. Follow the wildly painted spiral staircase to the top and work your way down.",
+   "q": "59 Rivoli, 59 rue de Rivoli, Paris",
+   "ll": [
+    48.8592,
+    2.3456
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/59_Rivoli"
+   ]
+  },
+  {
+   "id": "pctuileries",
+   "cat": "dene",
+   "area": "centre",
+   "title": "Pull up a green chair in the Tuileries",
+   "desc": "The formal garden between the Louvre and Place de la Concorde is the classic Paris promenade, with statues, clipped trees and round ponds. The loose green metal chairs are there for anyone to drag into the sun.",
+   "tip": "Grab a chair by the big octagonal pond at the Concorde end. In summer a funfair with a big wheel sets up along the rue de Rivoli side.",
+   "q": "Jardin des Tuileries, Paris",
+   "ll": [
+    48.8639,
+    2.3261
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Paris/1st_arrondissement"
+   ]
+  },
+  {
+   "id": "pcrivesdeseine",
+   "cat": "dene",
+   "area": "centre",
+   "title": "Walk the car-free quays of the Seine",
+   "desc": "The old riverside expressway on the Right Bank is now the Parc Rives de Seine, a long promenade for walkers, joggers and cyclists at water level. You pass under the old bridges with the islands right beside you.",
+   "tip": "Start below the Hôtel de Ville and walk west towards the Louvre. In July and August Paris Plages fills the quays with deckchairs, palms and games.",
+   "q": "Parc Rives de Seine, Paris",
+   "ll": [
+    48.8578,
+    2.3442
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Parc_Rives-de-Seine",
+    "https://fr.wikipedia.org/wiki/Paris_Plages"
+   ]
+  },
+  {
+   "id": "pcmarcheauxfleurs",
+   "cat": "dene",
+   "area": "centre",
+   "title": "Browse the flower market on the Île de la Cité",
+   "desc": "Under iron pavilions near Notre-Dame, the Marché aux fleurs Reine Elizabeth II has sold plants, orchids and garden bits since the 19th century. It is a leafy pause in the stony heart of the island.",
+   "tip": "It is at Place Louis Lépine, right by the Cité métro exit. Seed packets and small bulbs make light, cheap souvenirs.",
+   "q": "Marché aux fleurs Reine Elizabeth II, Paris",
+   "ll": [
+    48.8556,
+    2.3478
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Paris/4th_arrondissement"
+   ]
+  },
+  {
+   "id": "pcmontorgueil",
+   "cat": "dene",
+   "area": "centre",
+   "title": "Shop like a local on rue Montorgueil",
+   "desc": "This car-free market street runs north from Les Halles and is lined with cheesemongers, fishmongers, bakeries, florists and café terraces. Claude Monet painted it draped in flags in 1878.",
+   "tip": "Put together a picnic from the shops as you walk uphill. Late afternoon is best, when the whole neighbourhood is out buying dinner.",
+   "q": "Rue Montorgueil, Paris",
+   "ll": [
+    48.8642,
+    2.3466
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Paris/2nd_arrondissement",
+    "https://en.wikipedia.org/wiki/Rue_Montorgueil"
+   ]
+  },
+  {
+   "id": "pcvictorhugo",
+   "cat": "dene",
+   "area": "centre",
+   "title": "Visit Victor Hugo's flat on the Place des Vosges",
+   "desc": "The author of Les Misérables lived for sixteen years on the second floor of a corner pavilion of the square. The rooms recreate his life, including a wild Chinese-style salon he designed himself.",
+   "tip": "The permanent collection is free. The windows give a rare view down onto the Place des Vosges from above.",
+   "q": "Maison de Victor Hugo, 6 place des Vosges, Paris",
+   "ll": [
+    48.8547,
+    2.3661
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Paris/4th_arrondissement"
+   ]
+  },
+  {
+   "id": "pcbourse",
+   "cat": "dene",
+   "area": "centre",
+   "title": "Circle the rotunda of the Bourse de Commerce",
+   "desc": "The 18th-century grain exchange beside Les Halles reopened in 2021 as the Paris home of the Pinault Collection of contemporary art. A bare concrete cylinder now stands inside the old rotunda, under a painted and glazed dome.",
+   "tip": "Walk the ramp around the top of the concrete ring for a close look at the huge 19th-century mural of world trade.",
+   "q": "Bourse de Commerce Pinault Collection, Paris",
+   "ll": [
+    48.8627,
+    2.3428
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Paris/1st_arrondissement",
+    "https://en.wikipedia.org/wiki/Bourse_de_commerce_(Paris)"
+   ]
+  },
+  {
+   "id": "pcsaintpaul",
+   "cat": "dene",
+   "area": "centre",
+   "title": "Hunt for antiques in the Village Saint-Paul",
+   "desc": "A maze of linked courtyards hidden inside one Marais block, filled with antique dealers, design shops and little galleries. It feels like a village square that the traffic forgot.",
+   "tip": "Slip in through the archways on rue Saint-Paul. On the far side, along rue des Jardins-Saint-Paul, you can see a long surviving stretch of the medieval city wall of Philippe Auguste.",
+   "q": "Village Saint-Paul, Paris",
+   "ll": [
+    48.8535,
+    2.3606
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Village_Saint-Paul",
+    "https://fr.wikipedia.org/wiki/Enceinte_de_Philippe_Auguste"
+   ]
+  },
+  {
+   "id": "pcpanoramas",
+   "cat": "dene",
+   "area": "centre",
+   "title": "Rummage for stamps in Passage des Panoramas",
+   "desc": "The oldest covered passage in Paris opened around 1800 and was among the first places in the city lit by gas. Its narrow lanes are still home to stamp and postcard dealers, old engraved shop signs and a crowd of small restaurants.",
+   "tip": "Enter from boulevard Montmartre and explore the side galleries. Stay on for dinner, as the passage turns into one long dining room in the evening.",
+   "q": "Passage des Panoramas, Paris",
+   "ll": [
+    48.8711,
+    2.3417
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Passage_des_Panoramas",
+    "https://en.wikivoyage.org/wiki/Paris/2nd_arrondissement"
+   ]
+  }
+ ]
+}

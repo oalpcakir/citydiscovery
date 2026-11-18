@@ -1,0 +1,324 @@
+{
+  "new": [
+    {
+      "id": "hmrathaus", "cat": "gor", "area": "merkez",
+      "title": "Find the Hygieia fountain behind the Rathaus",
+      "desc": "Hamburg's neo-Renaissance Rathaus is the city's proudest building, and its inner courtyard hides a fountain to Hygieia, put up in memory of the cholera epidemic of 1892.",
+      "tip": "The courtyard between the Rathaus and the Börse is open to walk through, and guided tours of the grand halls start in the lobby.",
+      "q": "Hamburger Rathaus, Rathausmarkt 1, Hamburg", "ll": [53.5505, 9.9925], "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Hamburg/Neustadt-Altstadt", "https://www.timeout.com/hamburg/attractions/best-attractions-in-hamburg"]
+    },
+    {
+      "id": "hmchilehaus", "cat": "gor", "area": "merkez",
+      "title": "Stand under the prow of the Chilehaus",
+      "desc": "This 1920s brick office block comes to a point as sharp as a ship's bow and is the star of the UNESCO-listed Kontorhausviertel.",
+      "tip": "The famous angle is from the corner of Burchardstraße and Pumpen, at the eastern tip. Walk through the courtyards afterwards.",
+      "q": "Chilehaus, Fischertwiete, Hamburg", "ll": [53.5483, 10.0030], "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Hamburg/Neustadt-Altstadt"]
+    },
+    {
+      "id": "hmsprinkenhof", "cat": "gor", "area": "merkez",
+      "title": "Look up in the Sprinkenhof courtyard",
+      "desc": "Next door to the Chilehaus, the Sprinkenhof wraps its diamond-patterned brick and gilded ornaments around a courtyard that most visitors walk straight past.",
+      "tip": "Step into the middle of the courtyard and tilt your head back; the pattern only really works from below.",
+      "q": "Sprinkenhof, Burchardstraße, Hamburg", "ll": [53.5487, 10.0040], "tags": ["free"],
+      "src": ["https://viel-unterwegs.de/reiseziele/deutschland/hamburg/geheimtipps-unternehmungen/"]
+    },
+    {
+      "id": "hmdeichstrasse", "cat": "gor", "area": "merkez",
+      "title": "Wander Deichstraße down to the Nikolaifleet",
+      "desc": "The last row of old merchant houses in the Altstadt, with gabled fronts on the street and warehouse backs dropping straight into the canal where Hamburg's first harbour lay.",
+      "tip": "Slip through one of the narrow passages between the houses to reach the water, then cross Hohe Brücke for the postcard view of the backs.",
+      "q": "Deichstraße, Hamburg", "ll": [53.5457, 9.9871], "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Hamburg/Neustadt-Altstadt", "https://viel-unterwegs.de/reiseziele/deutschland/hamburg/geheimtipps-unternehmungen/"]
+    },
+    {
+      "id": "hmnikolai", "cat": "gor", "area": "merkez",
+      "title": "Ride the lift up the ruined spire of St. Nikolai",
+      "desc": "The church was bombed out in July 1943 and left as a memorial; only the blackened tower, still one of the tallest church spires anywhere, stands over the empty nave.",
+      "tip": "A glass lift takes you to a platform about 75 metres up, and the exhibition in the crypt explains what you are looking at.",
+      "q": "Mahnmal St. Nikolai, Willy-Brandt-Straße 60, Hamburg", "ll": [53.5475, 9.9906],
+      "src": ["https://en.wikipedia.org/wiki/St._Nicholas_Church,_Hamburg", "https://en.wikivoyage.org/wiki/Hamburg/Neustadt-Altstadt"]
+    },
+    {
+      "id": "hmkrameramt", "cat": "gor", "area": "merkez",
+      "title": "Squeeze into the Krameramtsstuben alley",
+      "desc": "A crooked lane of 17th-century timber-framed houses, built by the grocers' guild as rent-free homes for members' widows, tucked away a few steps from the Michel.",
+      "tip": "The entrance on Krayenkamp is easy to miss: look for the low archway opposite the church. Mornings are quietest.",
+      "q": "Krameramtsstuben, Krayenkamp 10, Hamburg", "ll": [53.5480, 9.9802], "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Krameramtsstuben", "https://en.wikivoyage.org/wiki/Hamburg/Neustadt-Altstadt"]
+    },
+    {
+      "id": "hmwasserschloss", "cat": "gor", "area": "merkez",
+      "title": "Catch the Wasserschloss from the Poggenmühlen-Brücke",
+      "desc": "The little turreted 'water castle' sits where two Speicherstadt canals meet, framed by red-brick warehouses on both sides. It is the most photographed view of the district.",
+      "tip": "Come at dusk when the warehouses are lit, and check the tide: at high water the reflections are at their best.",
+      "q": "Poggenmühlen-Brücke, Hamburg", "ll": [53.5461, 10.0021], "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Hamburg/Neustadt-Altstadt"]
+    },
+    {
+      "id": "hmelphiplaza", "cat": "gor", "area": "merkez",
+      "title": "Ride the Tube up to the Elbphilharmonie Plaza",
+      "desc": "A gently curving 82-metre escalator carries you through the old brick Kaispeicher to a public deck 37 metres up, with a walkway all the way round the building over harbour and city.",
+      "tip": "Book a time slot online to skip the queue. With a concert ticket you can go up from two hours before the performance.",
+      "q": "Elbphilharmonie Plaza, Platz der Deutschen Einheit, Hamburg", "ll": [53.5413, 9.9841],
+      "src": ["https://www.elbphilharmonie.de/en/plaza", "https://en.wikivoyage.org/wiki/Hamburg/Neustadt-Altstadt"]
+    },
+    {
+      "id": "hmkunsthalle", "cat": "gor", "area": "merkez",
+      "title": "Meet the Wanderer at the Kunsthalle",
+      "desc": "One of Germany's great art museums, covering some seven centuries, and home to Caspar David Friedrich's 'Wanderer above the Sea of Fog'.",
+      "tip": "The three buildings are linked underground. Start with the 19th-century rooms, then follow the tunnel to the white cube of the Galerie der Gegenwart.",
+      "q": "Hamburger Kunsthalle, Glockengießerwall 5, Hamburg", "ll": [53.5552, 10.0031], "tags": ["rainy day"],
+      "src": ["https://en.wikivoyage.org/wiki/Hamburg/Neustadt-Altstadt", "https://www.timeout.com/hamburg/attractions/best-attractions-in-hamburg"]
+    },
+    {
+      "id": "hmdeichtorhallen", "cat": "gor", "area": "merkez",
+      "title": "See what is on at the Deichtorhallen",
+      "desc": "Two iron-and-glass market halls from the early 1900s, now among Europe's largest exhibition spaces for contemporary art and photography.",
+      "tip": "Shows change completely every few months, so check the programme first. The bookshop is worth a browse even without a ticket.",
+      "q": "Deichtorhallen, Deichtorstraße 1-2, Hamburg", "ll": [53.5472, 10.0067], "tags": ["rainy day"],
+      "src": ["https://en.wikivoyage.org/wiki/Hamburg/Neustadt-Altstadt", "https://viel-unterwegs.de/reiseziele/deutschland/hamburg/geheimtipps-unternehmungen/"]
+    },
+    {
+      "id": "hmalsterschwaene", "cat": "gor", "area": "merkez",
+      "title": "Greet the Alster swans by the Alsterarkaden",
+      "desc": "Hamburg has fed its swans at public expense for more than 400 years and still employs an official Schwanenvater to look after them. Harming one has been punishable since 1664.",
+      "tip": "They gather on the Kleine Alster below the white arcades. In November the whole flock is rounded up here and taken by boat to winter quarters, returning in spring.",
+      "q": "Alsterarkaden, Hamburg", "ll": [53.5516, 9.9922], "months": [4, 5, 6, 7, 8, 9, 10], "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Alsterschw%C3%A4ne", "https://en.wikivoyage.org/wiki/Hamburg/Neustadt-Altstadt"]
+    },
+    {
+      "id": "hmu4station", "cat": "gor", "area": "merkez",
+      "title": "Watch the lights change at U HafenCity Universität",
+      "desc": "The U4 platform is lit by a row of huge hanging light boxes that slowly shift colour and mirror in the dark steel walls. It is more art installation than metro stop.",
+      "tip": "Ride one stop on from Überseequartier, which is worth a look too. At weekends the lights are sometimes set to music.",
+      "q": "U-Bahnhof HafenCity Universität, Hamburg", "ll": [53.5403, 10.0087], "tags": ["rainy day"],
+      "src": ["https://viel-unterwegs.de/reiseziele/deutschland/hamburg/geheimtipps-unternehmungen/"]
+    },
+    {
+      "id": "hmmaritim", "cat": "gor", "area": "merkez",
+      "title": "Climb the decks of the Maritimes Museum",
+      "desc": "A vast private collection of ship models, charts, uniforms and sea paintings fills a mighty brick warehouse in the HafenCity, one floor ('deck') per theme.",
+      "tip": "Take the lift to the top deck and work your way down. The miniature ship models in their thousands are near the top.",
+      "q": "Internationales Maritimes Museum Hamburg, Koreastraße 1", "ll": [53.5434, 9.9999], "tags": ["rainy day"],
+      "src": ["https://en.wikivoyage.org/wiki/Hamburg/Neustadt-Altstadt"]
+    },
+    {
+      "id": "hmkomponisten", "cat": "gor", "area": "merkez",
+      "title": "Visit Brahms and friends on Peterstraße",
+      "desc": "The KomponistenQuartier lines up small museums for Brahms, Telemann, C.P.E. Bach, Hasse, Mahler and the Mendelssohn siblings in a street of rebuilt Baroque townhouses.",
+      "tip": "Even without going in, Peterstraße is one of the prettiest streets in the Neustadt. Combine it with the Michel, a short walk downhill.",
+      "q": "KomponistenQuartier Hamburg, Peterstraße 29-39", "ll": [53.5512, 9.9769],
+      "src": ["https://en.wikipedia.org/wiki/Komponistenquartier_Hamburg"]
+    },
+    {
+      "id": "hmjapangarten", "cat": "gor", "area": "merkez",
+      "title": "Slow down in the Japanese garden",
+      "desc": "In the middle of Planten un Blomen, rocks, pines and still water surround a wooden teahouse on the lake. The park itself is free and loved more by locals than by tourists.",
+      "tip": "Go on a weekday morning for real quiet, then carry on to the rose garden and the Apothekergarten nearby.",
+      "q": "Japanischer Garten, Planten un Blomen, Hamburg", "ll": [53.5605, 9.9843], "tags": ["free"],
+      "src": ["https://viel-unterwegs.de/reiseziele/deutschland/hamburg/geheimtipps-unternehmungen/", "https://en.wikipedia.org/wiki/Planten_un_Blomen"]
+    },
+    {
+      "id": "hmbruecke10", "cat": "ye", "area": "merkez",
+      "title": "Eat a Fischbrötchen at Brücke 10",
+      "desc": "The little bistro at the far end of the Landungsbrücken pontoons turns up on nearly every list of the city's best fish rolls: Matjes, Bismarck herring or North Sea shrimp, with ships sliding past.",
+      "tip": "Grab a seat outside on the pontoon and watch your roll: the gulls here are professionals.",
+      "q": "Brücke 10, St. Pauli Landungsbrücken, Hamburg", "ll": [53.5454, 9.9662],
+      "src": ["https://www.hamburg-tourism.de/magazin/hamburgs-beste-fischbroetchen/", "https://www.hamburg-tourism.de/shoppen-geniessen/restaurants-cafes/bruecke-10/"]
+    },
+    {
+      "id": "hmmutterland", "cat": "ye", "area": "merkez",
+      "title": "Pick up a Franzbrötchen at Mutterland",
+      "desc": "Hamburg's own pastry is a squashed, sticky swirl of buttery dough, cinnamon and sugar. The Mutterland deli by the Hauptbahnhof bakes a good one and sells treats from small German producers.",
+      "tip": "It makes a far better station breakfast than the chains inside the concourse. The café at the back has tables.",
+      "q": "Mutterland Stammhaus, Ernst-Merck-Straße 9, Hamburg", "ll": [53.5546, 10.0085],
+      "src": ["https://www.hamburg-tourism.de/magazin/einfach-lecker-adressen-fuer-wirklich-gute-franzbroetchen/", "https://www.hamburg-tourism.de/magazin/das-geheimnis-der-franzbroetchen/"]
+    },
+    {
+      "id": "hmoldcommercial", "cat": "ye", "area": "merkez",
+      "title": "Brave a plate of Labskaus at the Old Commercial Room",
+      "desc": "The sailors' dish of mashed potato, corned beef and beetroot, topped with a fried egg and herring, looks alarming and tastes great. This mahogany-and-brass inn opposite the Michel has served it since 1795.",
+      "tip": "Reserve for the evening. If Labskaus is a step too far, the Pannfisch with mustard sauce is the other Hamburg classic.",
+      "q": "Old Commercial Room, Englische Planke 10, Hamburg", "ll": [53.5482, 9.9779],
+      "src": ["https://www.oldcommercialroom.de/", "https://www.hamburg-tourism.de/magazin/hamburger-kueche-gerichte-die-man-unbedingt-probieren-sollte/"]
+    },
+    {
+      "id": "hmoberhafen", "cat": "ye", "area": "merkez",
+      "title": "Eat a Frikadelle in the leaning Oberhafen-Kantine",
+      "desc": "A tiny brick dockers' canteen from 1925 that tides have tilted so far it looks ready to slide into the harbour. Inside it still serves Frikadellen, Labskaus and warm Rundstück.",
+      "tip": "It sits under the railway bridge behind the Deichtorhallen. There are only a few tables, so book ahead.",
+      "q": "Oberhafen-Kantine, Stockmeyerstraße 39, Hamburg", "ll": [53.5447, 10.0069],
+      "src": ["https://www.oberhafenkantine-hamburg.de/", "https://de.wikipedia.org/wiki/Oberhafenkantine"]
+    },
+    {
+      "id": "hmspeicherkaffee", "cat": "ye", "area": "merkez",
+      "title": "Drink coffee beside the roaster in the Speicherstadt",
+      "desc": "Hamburg grew rich on coffee, and at the Speicherstadt Kaffeerösterei the drums turn right in the café of an old warehouse, so you sip while the beans crackle next to you.",
+      "tip": "It gets packed after Miniatur Wunderland lets out next door. Come early, and ask for a filter coffee from the single-origin list.",
+      "q": "Speicherstadt Kaffeerösterei, Kehrwieder 5, Hamburg", "ll": [53.5440, 9.9877], "tags": ["rainy day"],
+      "src": ["https://www.hamburg-tourism.de/magazin/richtig-guter-kaffee-echte-kaffeeroestereien-in-hamburg/"]
+    },
+    {
+      "id": "hmpubliccoffee", "cat": "ye", "area": "merkez",
+      "title": "Order a hand brew at Public Coffee Roasters",
+      "desc": "A small Neustadt roastery café where the baristas happily talk you through the beans and brew by hand. There is no Wi-Fi on purpose: magazines and conversation instead.",
+      "tip": "Leave the laptop in your bag and buy a bag of beans to take home.",
+      "q": "Public Coffee Roasters, Wexstraße 28, Hamburg", "ll": [53.5513, 9.9817],
+      "src": ["https://www.hamburg-tourism.de/magazin/eat-drink-like-a-local-orte-wo-wahre-hamburger-essen-und-trinken/", "https://www.hamburg-tourism.de/magazin/richtig-guter-kaffee-echte-kaffeeroestereien-in-hamburg/"]
+    },
+    {
+      "id": "hmnordcoast", "cat": "ye", "area": "merkez",
+      "title": "Have breakfast at Nord Coast on Deichstraße",
+      "desc": "A speciality roastery inside one of the old merchant houses on Deichstraße, serious about where its beans come from and backing onto the Nikolaifleet.",
+      "tip": "Weekend queues are normal. Come on a weekday or right at opening for a table.",
+      "q": "Nord Coast Coffee Roastery, Deichstraße 9, Hamburg", "ll": [53.5472, 9.9874],
+      "src": ["https://www.hamburg-tourism.de/magazin/richtig-guter-kaffee-echte-kaffeeroestereien-in-hamburg/"]
+    },
+    {
+      "id": "hmgnosa", "cat": "ye", "area": "merkez",
+      "title": "Choose a slice of Torte at Café Gnosa",
+      "desc": "A St. Georg institution on Lange Reihe with a 1950s interior that has barely changed, a legendary cake counter and a long history as a meeting place of the gay community.",
+      "tip": "No reservations, so expect a short wait at weekend brunch. Locals swear by the Birnenrahmtorte (pear cream cake).",
+      "q": "Café Gnosa, Lange Reihe 93, Hamburg", "ll": [53.5588, 10.0128],
+      "src": ["https://www.hamburg-tourism.de/magazin/eat-drink-like-a-local-orte-wo-wahre-hamburger-essen-und-trinken/", "https://en.wikivoyage.org/wiki/Hamburg/East"]
+    },
+    {
+      "id": "hmkoppel", "cat": "ye", "area": "merkez",
+      "title": "Find the courtyard café in Koppel 66",
+      "desc": "A former machine factory in St. Georg now houses craft workshops for goldsmiths, bookbinders and instrument makers, with a vegetarian café on the ground floor and a leafy yard.",
+      "tip": "Walk through from Lange Reihe 75 and browse the studios before you sit down. The weekend breakfast menu is bigger.",
+      "q": "Café Koppel, Koppel 66, Hamburg", "ll": [53.5577, 10.0118],
+      "src": ["https://www.hamburg-tourism.de/das-ist-hamburg/stadtteile/st-georg/"]
+    },
+    {
+      "id": "hmcafeparis", "cat": "ye", "area": "merkez",
+      "title": "Lunch under the tiled dome of Café Paris",
+      "desc": "A buzzing French brasserie round the corner from the Rathaus, set in a former butchers' hall whose Art Nouveau tiled ceiling is worth the visit on its own.",
+      "tip": "The front room with the tiles is the one you want; upstairs is quieter. Go mid-afternoon to avoid the lunch rush.",
+      "q": "Café Paris, Rathausstraße 4, Hamburg", "ll": [53.5499, 9.9944],
+      "src": ["https://en.wikivoyage.org/wiki/Hamburg/Neustadt-Altstadt"]
+    },
+    {
+      "id": "hmportugiesen", "cat": "ye", "area": "merkez",
+      "title": "Order a Galão in the Portugiesenviertel",
+      "desc": "Portuguese and Spanish harbour workers settled the streets behind the Landungsbrücken, and Ditmar-Koel-Straße is still one long row of pastelarias, tapas bars and grilled-fish restaurants.",
+      "tip": "A Galão (milky coffee in a glass) with a pastel de nata on a pavement terrace is the classic order; evenings are for sardines.",
+      "q": "Ditmar-Koel-Straße, Hamburg", "ll": [53.5459, 9.9751],
+      "src": ["https://en.wikivoyage.org/wiki/Hamburg/Neustadt-Altstadt", "https://viel-unterwegs.de/reiseziele/deutschland/hamburg/geheimtipps-unternehmungen/"]
+    },
+    {
+      "id": "hmfleetschloesschen", "cat": "ye", "area": "merkez",
+      "title": "Squeeze into the Fleetschlösschen",
+      "desc": "A doll's-house-sized former customs and fire-watch hut on a Speicherstadt canal, now a snug café-bistro serving north German plates including Labskaus.",
+      "tip": "There are only a handful of tables inside. On a fine day the terrace by the water is the place to be.",
+      "q": "Fleetschlösschen, Brooktorkai 17, Hamburg", "ll": [53.5445, 9.9979],
+      "src": ["https://en.wikivoyage.org/wiki/Hamburg/Neustadt-Altstadt"]
+    },
+    {
+      "id": "hmelbtunnel", "cat": "dene", "area": "merkez",
+      "title": "Walk under the Elbe through the Alter Elbtunnel",
+      "desc": "Opened in 1911, the tiled twin tubes run 426 metres beneath the river, 24 metres down, reached by big cage lifts once built for horse carts and cars.",
+      "tip": "It is free on foot or by bike and open round the clock. Walk to the Steinwerder side for the best skyline view of the Landungsbrücken.",
+      "q": "Alter Elbtunnel, Bei den St. Pauli-Landungsbrücken, Hamburg", "ll": [53.5459, 9.9666], "tags": ["free", "rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Old_Elbe_Tunnel"]
+    },
+    {
+      "id": "hmfaehre62", "cat": "dene", "area": "merkez",
+      "title": "Take the harbour ferry instead of a cruise",
+      "desc": "The public ferry from the Landungsbrücken towards Finkenwerder gives you container cranes, docks and the Elbe beach for the cost of an ordinary transit ticket.",
+      "tip": "Line 62 leaves from Brücke 3. Head straight for the open top deck, and in winter look for the Glühwein on board.",
+      "q": "Landungsbrücken Brücke 3, Hamburg", "ll": [53.5456, 9.9703],
+      "src": ["https://viel-unterwegs.de/reiseziele/deutschland/hamburg/geheimtipps-unternehmungen/"]
+    },
+    {
+      "id": "hmminiatur", "cat": "dene", "area": "merkez",
+      "title": "Press every button at Miniatur Wunderland",
+      "desc": "The world's largest model railway fills a Speicherstadt warehouse with miniature Alps, Italy, Rio and a working airport where planes take off, while day turns to night every quarter of an hour.",
+      "tip": "Book a time slot well ahead; late evening slots are the calmest. Around 200 push buttons set off hidden scenes.",
+      "q": "Miniatur Wunderland, Kehrwieder 2, Hamburg", "ll": [53.5438, 9.9889], "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Miniatur_Wunderland", "https://en.wikivoyage.org/wiki/Hamburg/Neustadt-Altstadt"]
+    },
+    {
+      "id": "hmmichel", "cat": "dene", "area": "merkez",
+      "title": "Climb the Michel after dark",
+      "desc": "The copper-topped Baroque tower of St. Michaelis has guided ships up the Elbe for centuries. Its platform gives a full circle of harbour, Alster and city, and it reopens in the evening for night views.",
+      "tip": "Stairs or lift, your choice. On the way down, visit the crypt, and listen for the trumpeter who plays from the tower each day.",
+      "q": "Hauptkirche St. Michaelis, Englische Planke 1, Hamburg", "ll": [53.5483, 9.9789],
+      "src": ["https://www.hamburg.de/freizeit/aktivitaeten/geheimtipps", "https://en.wikivoyage.org/wiki/Hamburg/Neustadt-Altstadt"]
+    },
+    {
+      "id": "hmwasserlicht", "cat": "dene", "area": "merkez",
+      "title": "Picnic at the Wasserlichtkonzerte",
+      "desc": "On summer nights the fountains of the Parksee in Planten un Blomen dance in coloured light to live-played music, and half of Hamburg turns up with blankets.",
+      "tip": "It is free. Arrive well before dark to claim a patch of lawn facing the lake, and bring a jumper.",
+      "q": "Parksee, Planten un Blomen, Hamburg", "ll": [53.5609, 9.9820], "months": [5, 6, 7, 8, 9], "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Planten_un_Blomen", "https://viel-unterwegs.de/reiseziele/deutschland/hamburg/geheimtipps-unternehmungen/"]
+    },
+    {
+      "id": "hmeisarena", "cat": "dene", "area": "merkez",
+      "title": "Skate at the open-air rink in the Wallanlagen",
+      "desc": "Each winter the southern end of Planten un Blomen turns into a big outdoor ice rink among the trees of the old city ramparts, with the skyline behind.",
+      "tip": "Skates can be hired on site. Weekday evenings under the floodlights are far less crowded than weekend afternoons.",
+      "q": "EisArena Hamburg, Holstenwall 30", "ll": [53.5528, 9.9737], "months": [11, 12, 1, 2, 3],
+      "src": ["https://viel-unterwegs.de/reiseziele/deutschland/hamburg/geheimtipps-unternehmungen/", "https://en.wikivoyage.org/wiki/Hamburg/Neustadt-Altstadt"]
+    },
+    {
+      "id": "hmtiefbunker", "cat": "dene", "area": "merkez",
+      "title": "Go down into the bunker under the Hauptbahnhof",
+      "desc": "Beneath the station forecourt lies a three-storey shelter with more than 150 rooms, built in the war and refitted for the Cold War. Volunteers from Hamburger Unterwelten lead tours through it.",
+      "tip": "Tours sell out fast and can only be booked online. The way in is a floor hatch on the Steintorwall side; there is an English tour too.",
+      "q": "Tiefbunker Steintorwall, Hamburg Hauptbahnhof", "ll": [53.5522, 10.0050], "tags": ["rainy day"],
+      "src": ["https://www.hamburgerunterwelten.de/tiefbunker-hauptbahnhof.html", "https://viel-unterwegs.de/reiseziele/deutschland/hamburg/geheimtipps-unternehmungen/"]
+    },
+    {
+      "id": "hmdialog", "cat": "dene", "area": "merkez",
+      "title": "Find your way through Dialog im Dunkeln",
+      "desc": "In a Speicherstadt warehouse, blind and visually impaired guides lead you through everyday scenes in complete darkness: a park, a street crossing, a bar.",
+      "tip": "Tours run in small groups and must be booked ahead; ask for an English-language slot.",
+      "q": "Dialog im Dunkeln, Alter Wandrahm 4, Hamburg", "ll": [53.5463, 10.0014], "tags": ["rainy day"],
+      "src": ["https://en.wikivoyage.org/wiki/Hamburg/Neustadt-Altstadt"]
+    },
+    {
+      "id": "hmchocoversum", "cat": "dene", "area": "merkez",
+      "title": "Make your own chocolate bar at Chocoversum",
+      "desc": "Hamburg is Germany's cocoa port, and this guided tour in the Kontorhausviertel follows the bean from pod to bar, with tastings at every step and a bar you top yourself.",
+      "tip": "Visits are by guided tour only, so reserve a slot. English tours run less often than German ones.",
+      "q": "Chocoversum, Meßberg 1, Hamburg", "ll": [53.5477, 10.0022], "tags": ["rainy day"],
+      "src": ["https://en.wikivoyage.org/wiki/Hamburg/Neustadt-Altstadt"]
+    },
+    {
+      "id": "hmkaffeemuseum", "cat": "dene", "area": "merkez",
+      "title": "Join a tasting at the Kaffeemuseum Burg",
+      "desc": "In the vaults of a Speicherstadt warehouse, a coffee-trading family shows off old roasters, grinders and tins, with tours that end in a tasting and a roastery café upstairs.",
+      "tip": "The museum part is by guided tour; the café and shop are open to walk in.",
+      "q": "Kaffeemuseum Burg, St. Annenufer 2, Hamburg", "ll": [53.5447, 9.9968], "tags": ["rainy day"],
+      "src": ["https://www.hamburg-tourism.de/magazin/richtig-guter-kaffee-echte-kaffeeroestereien-in-hamburg/", "https://en.wikivoyage.org/wiki/Hamburg/Neustadt-Altstadt"]
+    },
+    {
+      "id": "hmlichterfahrt", "cat": "dene", "area": "merkez",
+      "title": "Take an evening Lichterfahrt through the Speicherstadt",
+      "desc": "After dark the low harbour barges (Barkassen) leave the Landungsbrücken and slip into the lit-up warehouse canals, then out past the glowing Elbphilharmonie and the container terminals.",
+      "tip": "Whether the boats can enter the Speicherstadt depends on the tide, so ask at the pontoon before you buy a ticket.",
+      "q": "St. Pauli Landungsbrücken, Hamburg", "ll": [53.5457, 9.9690],
+      "src": ["https://www.hamburg.de/freizeit/aktivitaeten/geheimtipps", "https://www.timeout.com/hamburg/attractions/best-attractions-in-hamburg"]
+    },
+    {
+      "id": "hmhansatheater", "cat": "dene", "area": "merkez",
+      "title": "Ring for a drink at the Hansa-Theater",
+      "desc": "Germany's classic Varieté stage has put on acrobats, jugglers and magicians since 1894, in a listed 1950s auditorium where every seat has a little table and a bell button for the waiter.",
+      "tip": "It is on Steindamm, five minutes from the Hauptbahnhof. Book early for weekend shows.",
+      "q": "Hansa-Theater, Steindamm 17, Hamburg", "ll": [53.5534, 10.0118], "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Hansa-Theater_(Hamburg)", "https://www.hamburg-tourism.de/das-ist-hamburg/stadtteile/st-georg/"]
+    },
+    {
+      "id": "hmcapsandiego", "cat": "dene", "area": "merkez",
+      "title": "Explore the Cap San Diego from bridge to engine room",
+      "desc": "This elegant 1960s freighter once ran to South America and is still kept seaworthy by volunteers. You can roam the bridge, cabins, holds and the huge engine room on your own.",
+      "tip": "She is moored at the Überseebrücke, between the Landungsbrücken and the Elbphilharmonie. A few times a year she actually sails, with passengers.",
+      "q": "Cap San Diego, Überseebrücke, Hamburg", "ll": [53.5432, 9.9763],
+      "src": ["https://en.wikivoyage.org/wiki/Hamburg/Neustadt-Altstadt"]
+    }
+  ]
+}

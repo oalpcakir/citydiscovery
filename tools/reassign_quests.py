@@ -21,8 +21,9 @@ polys = {h: MultiPolygon([Polygon([(p[1], p[0]) for p in poly[0]], [[(p[1], p[0]
 ORDER = ["amsterdam", "rotterdam", "denhaag", "utrecht", "eindhoven", "denbosch", "breda", "arnhem", "maastricht",
          "zwolle", "enschede", "groningen", "leeuwarden", "middelburg",
          "brussel", "antwerpen", "gent", "brugge", "luik", "leuven", "mons", "hasselt", "namur",
-         "luxembourg", "aachen", "koeln", "duesseldorf", "trier"]
-COUNTRY_NAME = {"NL": "Netherlands", "BE": "Belgium", "DE": "Germany", "LU": "Luxembourg"}
+         "luxembourg", "aachen", "koeln", "duesseldorf", "trier", "frankfurt", "hamburg", "berlin", "muenchen",
+         "paris", "lille", "strasbourg", "lyon", "nice"]
+COUNTRY_NAME = {"NL": "Netherlands", "BE": "Belgium", "DE": "Germany", "LU": "Luxembourg", "FR": "France"}
 
 cities = {}
 for p in glob.glob(os.path.join(ROOT, "web", "cities", "*.js")):

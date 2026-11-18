@@ -1,0 +1,1351 @@
+{
+ "new": [
+  {
+   "id": "longuetraboule",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Slip through the Longue Traboule",
+   "desc": "Traboules are the covered passages that cut straight through Lyon's buildings, and the longest one in Vieux Lyon crosses several courtyards between Rue Saint-Jean and Rue du Boeuf. Push the door and you are suddenly in a hushed Renaissance world of galleries and spiral stairs.",
+   "tip": "Start at 54 Rue Saint-Jean and come out at 27 Rue du Boeuf. People live here, so keep your voice down.",
+   "q": "Longue Traboule, 54 Rue Saint-Jean, Lyon",
+   "ll": [
+    45.7622,
+    4.8274
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "stjeanhorloge",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Watch the astronomical clock at Saint-Jean",
+   "desc": "Lyon's Gothic cathedral, seat of the Primate of the Gauls, hides a centuries-old astronomical clock in its north transept. Next door, an archaeological garden shows the remains of churches going back to the 4th century.",
+   "tip": "Entry is free but dress respectfully. Walk round the back to Rue de la Bombarde for the archaeological garden.",
+   "q": "Cathédrale Saint-Jean-Baptiste de Lyon",
+   "ll": [
+    45.7606,
+    4.8275
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "tourrose",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find the Tour Rose on Rue du Boeuf",
+   "desc": "Behind an ordinary door at number 16, the Maison du Crible opens onto a courtyard with a round, rose-coloured stair tower, one of the prettiest Renaissance corners of Vieux Lyon.",
+   "tip": "Rue du Boeuf is calmer than Rue Saint-Jean; combine this with the courtyard of the Maison du Chamarier at 37 Rue Saint-Jean.",
+   "q": "Maison du Crible, 16 Rue du Boeuf, Lyon",
+   "ll": [
+    45.7628,
+    4.8268
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "fourviere",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Take in the city from Fourvière",
+   "desc": "The white basilica on 'the hill that prays' is covered in mosaics inside, and the esplanade beside it gives the best panorama of Lyon, from the red roofs of Vieux Lyon to the towers of Part-Dieu.",
+   "tip": "Ride the funicular (the 'ficelle' to locals) up from Vieux Lyon station and walk back down. On very clear days look for Mont Blanc on the horizon.",
+   "q": "Basilique Notre-Dame de Fourvière",
+   "ll": [
+    45.7623,
+    4.8226
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Lyon",
+    "https://www.visiterlyon.com/decouvrir/lyon-comme-vous-l-aimez/100-insolite/lyon-et-ses-lieux-insolites"
+   ]
+  },
+  {
+   "id": "theatresromains",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Sit in the Roman theatres of Lugdunum",
+   "desc": "The great theatre and the smaller odeon on Fourvière hill are the most important remains of Lugdunum, capital of Roman Gaul. You can climb the stone tiers freely and look out over the modern city.",
+   "tip": "The Lugdunum museum is dug into the hillside right next to them and makes a good rainy-day follow-up.",
+   "q": "Théâtre antique de Fourvière, Lyon",
+   "ll": [
+    45.7594,
+    4.8199
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "courdesvoraces",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb the stairs of the Cour des Voraces",
+   "desc": "This Croix-Rousse traboule opens onto a monumental open staircase, eight storeys of stone built around 1840 and typical of canut (silk weaver) housing. It is named after the Voraces, weavers who rose up in 1848 and 1849.",
+   "tip": "Enter at 9 Place Colbert and come out on Montée Saint-Sébastien or at 29 Rue Imbert-Colomès.",
+   "q": "Cour des Voraces, 9 Place Colbert, Lyon",
+   "ll": [
+    45.7707,
+    4.8343
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://www.visiterlyon.com/decouvrir/lyon-comme-vous-l-aimez/100-insolite/lyon-et-ses-lieux-insolites",
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "murdescanuts",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Get fooled by the Mur des Canuts",
+   "desc": "A blank gable on the Croix-Rousse plateau was turned into a huge trompe-l'oeil of stairs, shopfronts and neighbours, telling the story of the silk workers' hill. The painted people look ready to walk off the wall.",
+   "tip": "It is on Boulevard des Canuts; metro C to Hénon is the closest stop.",
+   "q": "Mur des Canuts, Boulevard des Canuts, Lyon",
+   "ll": [
+    45.7779,
+    4.828
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "fresquelyonnais",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Spot famous faces on the Fresque des Lyonnais",
+   "desc": "On a corner by the Saône, a painted building has celebrated Lyonnais leaning from its balconies, from the Renaissance poet Louise Labé to chef Paul Bocuse standing in his restaurant doorway.",
+   "tip": "It is on Rue de la Martinière at the Saône quay. Count how many names you recognise before reading the panel.",
+   "q": "Fresque des Lyonnais, Rue de la Martinière, Lyon",
+   "ll": [
+    45.7681,
+    4.8279
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "terreaux",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Meet Bartholdi's horses on Place des Terreaux",
+   "desc": "The city's grand square sits between the 17th-century Hôtel de Ville and the Palais Saint-Pierre. Its fountain of four rearing horses is by Bartholdi, the sculptor of the Statue of Liberty.",
+   "tip": "Slip into the Palais Saint-Pierre: the cloister garden of the Musée des Beaux-Arts is a quiet place to sit.",
+   "q": "Place des Terreaux, Lyon",
+   "ll": [
+    45.7675,
+    4.8335
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "troisgaules",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Peer into the Amphithéâtre des Trois Gaules",
+   "desc": "Half hidden on the Croix-Rousse slopes, this is where delegates of the Gaulish nations once gathered, and where early Christian martyrs were put to death. Today it is a silent bowl of stone among apartment blocks.",
+   "tip": "You can only look in from the street on Rue Lucien Sportisse; pair it with the climb up Montée de la Grande Côte.",
+   "q": "Amphithéâtre des Trois Gaules, Lyon",
+   "ll": [
+    45.7706,
+    4.8306
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "confluences",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stand where the Rhône meets the Saône",
+   "desc": "The Musée des Confluences looks like a steel and glass spaceship landed on the very tip of the Presqu'île. Inside, science and myth are told side by side; outside, the two rivers finally merge.",
+   "tip": "Tram T1 stops at the door. Walk past the building to the point for the meeting of the waters.",
+   "q": "Musée des Confluences, Lyon",
+   "ll": [
+    45.7326,
+    4.818
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Lyon",
+    "https://www.visiterlyon.com/decouvrir/lyon-comme-vous-l-aimez/100-insolite/lyon-et-ses-lieux-insolites"
+   ]
+  },
+  {
+   "id": "cubeorange",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Hunt bold buildings on the Confluence docks",
+   "desc": "The old port on the Saône has become an architecture playground: the Cube Orange with a giant hole scooped out of it, the Monolithe designed by five firms, and La Sucrière, a 1930s sugar warehouse turned exhibition space.",
+   "tip": "Walk the quayside along Quai Rambaud from the shopping centre down to La Sucrière.",
+   "q": "Le Cube Orange, Quai Rambaud, Lyon",
+   "ll": [
+    45.7375,
+    4.8155
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://www.visiterlyon.com/decouvrir/lyon-comme-vous-l-aimez/100-insolite/lyon-et-ses-lieux-insolites"
+   ]
+  },
+  {
+   "id": "gratteciel",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Look up at the Gratte-Ciel of Villeurbanne",
+   "desc": "Between 1927 and 1934 mayor Lazare Goujon had a whole centre of stepped white towers built as modern social housing, inspired by American skyscrapers. It is still one of the rare 20th-century urban utopias people actually live in.",
+   "tip": "Metro A to Gratte-Ciel. Walk Avenue Henri Barbusse towards the town hall for the full perspective.",
+   "q": "Gratte-Ciel, Avenue Henri Barbusse, Villeurbanne",
+   "ll": [
+    45.7691,
+    4.8814
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://www.visiterlyon.com/decouvrir/lyon-comme-vous-l-aimez/100-insolite/lyon-et-ses-lieux-insolites",
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "tonygarnier",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk the open-air Tony Garnier museum",
+   "desc": "In the États-Unis district, 1920s workers' housing by architect Tony Garnier carries 25 giant murals on its gables, showing his ideal industrial city. It is a neighbourhood few visitors reach.",
+   "tip": "Tram T4 to États-Unis Musée Tony Garnier. The museum office also shows a recreated 1930s flat on guided tours.",
+   "q": "Musée urbain Tony Garnier, Lyon",
+   "ll": [
+    45.7335,
+    4.8628
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "rosamir",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Discover the Jardin Rosa Mir",
+   "desc": "Mason Jules Senis, a Spanish refugee, spent years covering a Croix-Rousse courtyard with columns of stones and shells in memory of his mother. The result feels like a pocket-sized Gaudí.",
+   "tip": "It is tucked behind 87 Grande Rue de la Croix-Rousse and only opens on certain days in the warmer months, so check before you go.",
+   "q": "Jardin Rosa Mir, Lyon",
+   "ll": [
+    45.7805,
+    4.8321
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://www.visiterlyon.com/decouvrir/lyon-comme-vous-l-aimez/100-insolite/lyon-et-ses-lieux-insolites",
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "hoteldieu",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Cross the courtyards of the Grand Hôtel-Dieu",
+   "desc": "For centuries this was Lyon's great hospital on the Rhône, crowned by a huge dome. It has been reborn as a string of courtyards with shops, cafés and a hotel that anyone can wander through.",
+   "tip": "Enter from Place de l'Hôpital and come out on the Rhône quay to see the long riverside facade.",
+   "q": "Grand Hôtel-Dieu, Lyon",
+   "ll": [
+    45.7583,
+    4.8364
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "miniaturecinema",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Shrink down at the Musée Miniature et Cinéma",
+   "desc": "In a 16th-century house on Rue Saint-Jean, miniaturist Dan Ohlmann shows more than a hundred uncannily real tiny scenes next to genuine film props, including the Alien queen.",
+   "tip": "Good for a wet afternoon; the film effects floors come first, the miniatures are the finale.",
+   "q": "Musée Miniature et Cinéma, Lyon",
+   "ll": [
+    45.7619,
+    4.8273
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://www.visiterlyon.com/decouvrir/lyon-comme-vous-l-aimez/100-insolite/lyon-et-ses-lieux-insolites",
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "saintbruno",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step into Baroque Saint-Bruno des Chartreux",
+   "desc": "Lyon's only Baroque church sits quietly on the western edge of the Croix-Rousse slopes, with a sumptuous interior that almost nobody expects from the plain outside.",
+   "tip": "It opens in the afternoon. Afterwards the nearby Jardin des Chartreux has a fine view over the Saône.",
+   "q": "Église Saint-Bruno des Chartreux, Lyon",
+   "ll": [
+    45.7711,
+    4.8224
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "ilebarbe",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Cross the footbridge to Île Barbe",
+   "desc": "An inhabited island in the Saône at the northern edge of the city, with the remains of a Romanesque abbey church and an 1827 suspension bridge. It feels like a village far from Lyon.",
+   "tip": "Come by bike or on foot along the Saône banks, or take a river cruise that turns around here.",
+   "q": "Île Barbe, Lyon",
+   "ll": [
+    45.7979,
+    4.8335
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "groscaillou",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Meet the Gros Caillou",
+   "desc": "A 24-tonne boulder carried from the Alps by a glacier was dug up in 1890 while tunnelling for a funicular and set on a pedestal. It became the mascot of the Croix-Rousse, with a view over the Rhône towards the Alps.",
+   "tip": "Locals just say 'le Gros Caill'. On a clear day look east for Mont Blanc.",
+   "q": "Gros Caillou, Lyon",
+   "ll": [
+    45.7747,
+    4.8353
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Gros_Caillou_(Lyon)"
+   ]
+  },
+  {
+   "id": "legaret",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat like 1920 at Le Garet",
+   "desc": "Open since 1920, with tiled floor, varnished wood and red banquettes, Le Garet is a bouchon that has hardly changed. This is the place for tripe, quenelles, andouillette and tête de veau without any fuss.",
+   "tip": "Book ahead. If cervelle de canut is on the board, finish with it: herbed fromage blanc named 'silk worker's brains'.",
+   "q": "Le Garet, 7 Rue du Garet, Lyon",
+   "ll": [
+    45.7672,
+    4.8362
+   ],
+   "src": [
+    "https://www.lebonbon.fr/lyon/les-tops-food-et-drink/les-meilleurs-bouchons-lyonnais/",
+    "https://lefooding.com/la-creme-de-la-creme/a-la-recherche-des-meilleurs-bouchons-lyonnais"
+   ]
+  },
+  {
+   "id": "cafefederations",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Squeeze into the Café des Fédérations",
+   "desc": "A Lyon institution on a discreet street near the Terreaux, serving a menu of Lyonnais classics that has barely moved in decades. Checked cloths, sausages overhead and plates that keep coming.",
+   "tip": "Come hungry and in a group; this is not the place for a light lunch.",
+   "q": "Café des Fédérations, 10 Rue Major Martin, Lyon",
+   "ll": [
+    45.7668,
+    4.8327
+   ],
+   "src": [
+    "https://www.lebonbon.fr/lyon/les-tops-food-et-drink/les-meilleurs-bouchons-lyonnais/"
+   ]
+  },
+  {
+   "id": "chezgeorges",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try tablier de sapeur at Chez Georges",
+   "desc": "Au Petit Bouchon Chez Georges is a tiny low-ceilinged room where you may share a table with strangers. It is known for tablier de sapeur (breaded, pan-fried tripe, the 'sapper's apron') and a rich praline tart.",
+   "tip": "Ask about the mâchon, the hearty morning meal of charcuterie and wine inherited from the silk workers.",
+   "q": "Au Petit Bouchon Chez Georges, 8 Rue du Garet, Lyon",
+   "ll": [
+    45.7671,
+    4.8363
+   ],
+   "src": [
+    "https://www.lebonbon.fr/lyon/les-tops-food-et-drink/les-meilleurs-bouchons-lyonnais/",
+    "https://lefooding.com/la-creme-de-la-creme/a-la-recherche-des-meilleurs-bouchons-lyonnais"
+   ]
+  },
+  {
+   "id": "danieletdenise",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste a champion's cooking at Daniel et Denise",
+   "desc": "Chef Joseph Viola, a Meilleur Ouvrier de France, runs this bouchon behind the Part-Dieu law courts as a temple of Lyonnais cooking, from pâté en croûte to quenelles.",
+   "tip": "The Rue de Créqui address is the original; it is a short walk from Les Halles Paul Bocuse.",
+   "q": "Daniel et Denise Créqui, 156 Rue de Créqui, Lyon",
+   "ll": [
+    45.76,
+    4.8478
+   ],
+   "src": [
+    "https://www.lebonbon.fr/lyon/les-tops-food-et-drink/les-meilleurs-bouchons-lyonnais/"
+   ]
+  },
+  {
+   "id": "lameuniere",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Share the wooden tables at La Meunière",
+   "desc": "A century-old institution on Rue Neuve where generations of regulars sit elbow to elbow. The kitchen keeps the classics but gives them a lighter, more generous modern touch.",
+   "tip": "Look out for the praline flan at dessert, a twist on the city's favourite pink sweet.",
+   "q": "La Meunière, 11 Rue Neuve, Lyon",
+   "ll": [
+    45.7655,
+    4.8355
+   ],
+   "src": [
+    "https://www.lebonbon.fr/lyon/les-tops-food-et-drink/les-meilleurs-bouchons-lyonnais/",
+    "https://lefooding.com/la-creme-de-la-creme/a-la-recherche-des-meilleurs-bouchons-lyonnais"
+   ]
+  },
+  {
+   "id": "merejean",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order the praline tart at La Mère Jean",
+   "desc": "On restaurant-lined Rue des Marronniers, La Mère Jean looks as if time stopped around 1950. Regulars come for the conviviality and for the tarte aux pralines, the shocking-pink Lyonnais dessert of crushed sugared almonds and cream.",
+   "tip": "Rue des Marronniers is just off Place Bellecour; reserve, the room is small.",
+   "q": "La Mère Jean, 5 Rue des Marronniers, Lyon",
+   "ll": [
+    45.7573,
+    4.8348
+   ],
+   "src": [
+    "https://www.lebonbon.fr/lyon/les-tops-food-et-drink/les-meilleurs-bouchons-lyonnais/"
+   ]
+  },
+  {
+   "id": "hallesbocuse",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Graze through Les Halles Paul Bocuse",
+   "desc": "The 'belly of Lyon': some sixty top traders under one roof, renamed after the chef who shopped here. Think Mère Richard's Saint-Marcellin cheese, Sibilia's charcuterie, Giraudet's quenelles and oyster bars for a mid-morning plate.",
+   "tip": "Go late morning and eat at a counter rather than just looking. It is a short walk from Part-Dieu station.",
+   "q": "Halles de Lyon Paul Bocuse",
+   "ll": [
+    45.7629,
+    4.8505
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Halles_de_Lyon-Paul_Bocuse",
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "praluline",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Tear into a Praluline from Pralus",
+   "desc": "The Praluline is a buttery brioche studded with pink pralines, invented by the chocolatier Pralus and now a Lyon obsession. The Vieux Lyon shop pulls them warm from the oven all day.",
+   "tip": "Buy a whole one and eat it by the Saône; it does not survive long in a bag.",
+   "q": "Pralus, 27 Rue Saint-Jean, Lyon",
+   "ll": [
+    45.7628,
+    4.8278
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "brasseriegeorges",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine under the Art Deco ceiling of Brasserie Georges",
+   "desc": "Founded in 1836 next to Perrache station, this is one of the biggest and oldest brasseries in France, a vast Art Deco hall serving choucroute and Lyonnais dishes with beer brewed for the house.",
+   "tip": "It does not feel cramped even when full, but expect to queue at peak times.",
+   "q": "Brasserie Georges, 30 Cours de Verdun, Lyon",
+   "ll": [
+    45.7483,
+    4.8283
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "marchestantoine",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Slurp oysters at the Saint-Antoine market",
+   "desc": "The city's finest outdoor food market stretches along the Saône quay opposite Vieux Lyon. Chefs shop here, and Lyonnais treat themselves to oysters and white wine standing at the stalls.",
+   "tip": "Sunday morning is the liveliest. Bring a bag for cheese, saucisson and a roast chicken.",
+   "q": "Marché Saint-Antoine, Quai Saint-Antoine, Lyon",
+   "ll": [
+    45.7605,
+    4.8312
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "marchecroixrousse",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Shop the Croix-Rousse market like a local",
+   "desc": "Every morning except Monday, stalls line the Boulevard de la Croix-Rousse for the better part of a kilometre. It is the neighbourhood's social hour as much as a market.",
+   "tip": "Finish with a coffee on a terrace by the metro, where half the plateau seems to meet.",
+   "q": "Marché de la Croix-Rousse, Boulevard de la Croix-Rousse, Lyon",
+   "ll": [
+    45.7749,
+    4.8315
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "nardone",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Queue for ice cream at Nardone",
+   "desc": "This glacier on the Saône quay in Vieux Lyon is a local landmark with dozens of flavours, including some unusual ones. The queue on a summer evening is part of the ritual.",
+   "tip": "Take your cone to the riverside wall opposite and watch the Presqu'île light up.",
+   "q": "Nardone René Glacier, Place Ennemond Fousseret, Lyon",
+   "ll": [
+    45.765,
+    4.8288
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Lyon",
+    "https://www.vanupied.com/lyon/bar-cafe-salon-de-the-a-lyon/de-l-autre-cote-du-pont-cafe-cooperatif-a-lyon-guillotiere.html"
+   ]
+  },
+  {
+   "id": "bahadourian",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Follow your nose into Bahadourian",
+   "desc": "In the multicultural Guillotière district, this big family grocery is piled with spices, olives, dried fruit and North African and Middle Eastern specialities. Lyon cooks have stocked up here for generations.",
+   "tip": "Explore the streets around Place Bahadourian afterwards; it is one of the most mixed corners of the city.",
+   "q": "Bahadourian, 20 Rue Villeroy, Lyon",
+   "ll": [
+    45.7565,
+    4.8445
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "coussindelyon",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Bite into a coussin de Lyon at Voisin",
+   "desc": "The coussin is a green marzipan 'cushion' filled with curaçao-scented chocolate ganache, created by chocolatier Voisin in the 1960s. Its shape recalls the silk cushion city leaders carried to Fourvière in a 1643 plague vow.",
+   "tip": "Voisin has several shops around the Presqu'île; the velvet cushion-shaped box makes an easy gift.",
+   "q": "Voisin chocolatier, Rue de la République, Lyon",
+   "ll": [
+    45.7627,
+    4.8358
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Coussin_de_Lyon"
+   ]
+  },
+  {
+   "id": "placesathonay",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have an apéro on Place Sathonay",
+   "desc": "A village square at the foot of the Croix-Rousse slopes, shaded by plane trees and ringed with café terraces. Wikivoyage lists a drink here among Lyon's off-the-beaten-path pleasures.",
+   "tip": "Late afternoon is best, when the pétanque players are out under the trees.",
+   "q": "Place Sathonay, Lyon",
+   "ll": [
+    45.7691,
+    4.8304
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Lyon",
+    "https://www.vanupied.com/lyon/bar-cafe-salon-de-the-a-lyon/de-l-autre-cote-du-pont-cafe-cooperatif-a-lyon-guillotiere.html"
+   ]
+  },
+  {
+   "id": "fetedeslumieres",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Light a lumignon for the Fête des Lumières",
+   "desc": "Around 8 December Lyon turns into one giant light show for four nights, drawing millions. It began in 1852, when residents spontaneously lit their windows for a new statue of the Virgin at Fourvière, and locals still put candles in glass holders on their sills.",
+   "tip": "The centre goes car-free and very crowded: wear warm shoes, start early in the evening and buy lumignons in any shop from late November.",
+   "q": "Place Bellecour, Lyon",
+   "ll": [
+    45.7578,
+    4.8322
+   ],
+   "months": [
+    12
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Festival_of_Lights_(Lyon)",
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "nuitsfourviere",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Spend a summer night at the Nuits de Fourvière",
+   "desc": "Each summer the Roman theatres become the stage for concerts, theatre and dance under the open sky, with the city glittering below.",
+   "tip": "Stone seats are hard and evenings cool down fast: bring a layer. Tickets for big names go quickly.",
+   "q": "Théâtre antique de Fourvière, Lyon",
+   "ll": [
+    45.7597,
+    4.8203
+   ],
+   "months": [
+    6,
+    7
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "toitsfourviere",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Climb onto the roofs of the basilica",
+   "desc": "A guided climb of 345 steps takes you through the carillon, onto the Saint-Michel terrace and up the observatory tower for a 360-degree view of Lyon that reaches Mont Blanc in clear weather.",
+   "tip": "Visits run on set days and need booking through the basilica; pick a clear afternoon.",
+   "q": "Basilique Notre-Dame de Fourvière, Lyon",
+   "ll": [
+    45.7624,
+    4.8224
+   ],
+   "src": [
+    "https://www.visiterlyon.com/decouvrir/lyon-comme-vous-l-aimez/100-insolite/lyon-et-ses-lieux-insolites",
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "lacteteor",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Row across the lake in Parc de la Tête d'Or",
+   "desc": "Lyon's great park wraps around a 16-hectare lake where you can rent rowing boats and pedalos from the landing stage. An underground passage even leads to the Île du Souvenir in the middle.",
+   "tip": "Enter by the gilded Porte des Enfants du Rhône; the boat hire is a few minutes' walk straight ahead.",
+   "q": "Parc de la Tête d'Or, Lyon",
+   "ll": [
+    45.7795,
+    4.854
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Parc_de_la_T%C3%AAte_d%27Or",
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "serresteteor",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Warm up in the Grandes Serres, then visit the free zoo",
+   "desc": "Inside the Tête d'Or park, 19th-century iron and glass greenhouses shelter tropical plants and giant Victoria water lilies. A few steps away is a zoo with an African plain, and like the rest of the park it costs nothing.",
+   "tip": "A local winter trick: the greenhouses are the warmest free spot in town.",
+   "q": "Grandes Serres du Parc de la Tête d'Or, Lyon",
+   "ll": [
+    45.777,
+    4.8555
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Parc_de_la_T%C3%AAte_d%27Or",
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "guignol",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Catch a Guignol puppet show",
+   "desc": "Guignol, the cheeky glove puppet who mocks the powerful, was born in Lyon two centuries ago and is still the city's mascot. The Théâtre le Guignol de Lyon in Vieux Lyon is the biggest stage devoted to him.",
+   "tip": "Shows are in French but slapstick travels well. In fine weather there is also an outdoor Guignol in the Tête d'Or park.",
+   "q": "Théâtre le Guignol de Lyon, 2 Rue Louis Carrand",
+   "ll": [
+    45.7657,
+    4.8278
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "bateausaone",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cruise the Saône past Vieux Lyon",
+   "desc": "Sightseeing boats leave from the Quai des Célestins and glide beneath the coloured facades of the old town, heading up to Île Barbe or down to the Confluence.",
+   "tip": "Evening departures at weekends show the lit-up quays; sit on the open deck if the weather allows.",
+   "q": "Les Bateaux Lyonnais, Quai des Célestins, Lyon",
+   "ll": [
+    45.7599,
+    4.8299
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "bergesdurhone",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk or cycle the Berges du Rhône",
+   "desc": "Five kilometres of riverside once used as a car park are now a promenade of lawns, steps and cycle lanes, with views of the Hôtel-Dieu dome and the Croix-Rousse.",
+   "tip": "Grab a Vélo'v share bike and ride north to Parc de la Tête d'Or; barge bars are moored along the way for a drink.",
+   "q": "Berges du Rhône, Quai Victor Augagneur, Lyon",
+   "ll": [
+    45.757,
+    4.8395
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "hotclub",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Go underground at the Hot Club de Lyon",
+   "desc": "One of the oldest jazz clubs in Europe has been swinging since 1948 in a vaulted cellar near the Terreaux, with live jazz several nights a week.",
+   "tip": "The cellar is small: arrive before the first set to get a seat.",
+   "q": "Hot Club de Lyon, 26 Rue Lanterne",
+   "ll": [
+    45.7656,
+    4.8319
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "institutlumiere",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "See a film where cinema was born",
+   "desc": "On Rue du Premier-Film, the Lumière brothers' villa is now a museum of their inventions, and the hangar of their factory, the set of the very first film, is a cinema where every seat carries a director's name. Each October the Festival Lumière takes over the city.",
+   "tip": "Metro D to Monplaisir-Lumière. In July and August there are free open-air classics on the square outside.",
+   "q": "Institut Lumière, Lyon",
+   "ll": [
+    45.7452,
+    4.8704
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Institut_Lumi%C3%A8re",
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "maisondescanuts",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Watch a Jacquard loom clatter at the Maison des Canuts",
+   "desc": "The canuts, Lyon's silk weavers, shaped the Croix-Rousse and its tall-windowed workshops. On a guided visit here a weaver works a hand-operated Jacquard loom in front of you and tells the story of the weavers' revolts.",
+   "tip": "Visits are guided, so check the times. The shop sells Lyon-woven silk scarves.",
+   "q": "Maison des Canuts, 10 Rue d'Ivry, Lyon",
+   "ll": [
+    45.7772,
+    4.8339
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Maison_des_Canuts"
+   ]
+  },
+  {
+   "id": "lesucre",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Dance on the roof of La Sucrière",
+   "desc": "Le Sucre is a club and cultural space on top of the 1930s sugar warehouse at Confluence, with the Saône flowing past below. It is a favourite of Lyon's electronic music crowd.",
+   "tip": "Check the programme: early evening rooftop sessions are an easy way in if clubbing until dawn is not your thing.",
+   "q": "Le Sucre, 50 Quai Rambaud, Lyon",
+   "ll": [
+    45.7369,
+    4.815
+   ],
+   "src": [
+    "https://www.visiterlyon.com/decouvrir/lyon-comme-vous-l-aimez/100-insolite/lyon-et-ses-lieux-insolites"
+   ]
+  },
+  {
+   "id": "jardinsrosaire",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk down from Fourvière through the Jardins du Rosaire",
+   "desc": "Instead of taking the funicular back, follow the garden paths and stairways that zigzag from the basilica down to Vieux Lyon, with the city framed between the trees.",
+   "tip": "The path starts just below the esplanade and drops you near Rue du Boeuf. Going down is much kinder than going up.",
+   "q": "Jardin du Rosaire, Lyon",
+   "ll": [
+    45.762,
+    4.8245
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "grandecote",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Climb the Montée de la Grande Côte",
+   "desc": "The old spine of the Croix-Rousse slopes is a steep street of Renaissance houses, workshops and little shops, ending in a terraced garden with a wide view over the roofs to Fourvière.",
+   "tip": "Start from the Terreaux and reward yourself with a drink on the plateau at the top.",
+   "q": "Montée de la Grande-Côte, Lyon",
+   "ll": [
+    45.7716,
+    4.8316
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "jardincuriosites",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Track down the Jardin des Curiosités",
+   "desc": "A small hidden garden in Saint-Just, a gift from Montréal, with surreal sculpted chairs facing one of the least crowded viewpoints over Lyon. Finding it is half the fun.",
+   "tip": "Take the funicular to Saint-Just and look for the passage at the end of Place de l'Abbé Larue. Go at sunset.",
+   "q": "Jardin des Curiosités, Lyon",
+   "ll": [
+    45.7551,
+    4.8221
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Lyon"
+   ]
+  },
+  {
+   "id": "oingt",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the tower of golden Oingt",
+   "desc": "Oingt is the showpiece of the Pierres Dorées, the Beaujolais villages built in ochre limestone that glows at sunset. Listed among the Plus Beaux Villages de France, it has a medieval gate, artisans' workshops, a mechanical music museum and a 12th-century tower with a 360-degree terrace.",
+   "tip": "About 35 km north-west of Lyon by car. In early December 'Oingt en crèches' fills the lanes with nativity scenes.",
+   "q": "Tour d'Oingt, Val d'Oingt",
+   "ll": [
+    45.9486,
+    4.5836
+   ],
+   "src": [
+    "https://www.routard.com/fr/mag/reportage/a/escapade-dans-le-beaujolais-entre-vignes-et-patrimoine",
+    "https://www.yonder.fr/destinations/72-heures-a/que-faire-beaujolais-week-end-bonnes-adresses"
+   ]
+  },
+  {
+   "id": "carrieresglay",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See where golden stone comes from at the Carrières de Glay",
+   "desc": "This former quarry near Saint-Germain-Nuelles, closed in 1947, is where the honey-coloured stone of the Pierres Dorées was cut. Panels explain the geology and the quarrymen's work, and it is part of the Beaujolais UNESCO Geopark.",
+   "tip": "Free and open all year. Stonecutters still work on site some days of the week.",
+   "q": "Carrières de Glay, Saint-Germain-Nuelles",
+   "ll": [
+    45.857,
+    4.608
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://www.routard.com/fr/mag/reportage/a/escapade-dans-le-beaujolais-entre-vignes-et-patrimoine",
+    "https://www.beaujolais-tourisme.com/en/les-incontournables.html"
+   ]
+  },
+  {
+   "id": "madonefleurie",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look over the crus from the Madone de Fleurie",
+   "desc": "A little chapel on a hilltop above Fleurie watches over one of the ten Beaujolais crus. From its terrace the vines roll down to the Saône valley, with the Alps on the horizon on clear days.",
+   "tip": "You can drive up, but the walk through the vines from Fleurie village is the point. Taste the cru in the village afterwards.",
+   "q": "Chapelle de la Madone, Fleurie",
+   "ll": [
+    46.193,
+    4.6862
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://www.routard.com/fr/mag/reportage/a/escapade-dans-le-beaujolais-entre-vignes-et-patrimoine",
+    "https://www.yonder.fr/destinations/72-heures-a/que-faire-beaujolais-week-end-bonnes-adresses"
+   ]
+  },
+  {
+   "id": "clochemerle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the real Clochemerle in Vaux-en-Beaujolais",
+   "desc": "Gabriel Chevallier's comic novel about a village torn apart by a public urinal was inspired by this hilltop wine village. Vaux plays along with a mural of the characters, the famous urinal and a small Chevallier museum.",
+   "tip": "In the hills west of Belleville. The village tasting cellar pours Beaujolais-Villages by the glass.",
+   "q": "Vaux-en-Beaujolais",
+   "ll": [
+    46.0553,
+    4.5964
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://www.routard.com/fr/mag/reportage/a/escapade-dans-le-beaujolais-entre-vignes-et-patrimoine",
+    "https://www.yonder.fr/destinations/72-heures-a/que-faire-beaujolais-week-end-bonnes-adresses"
+   ]
+  },
+  {
+   "id": "aqueducgier",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk along the Roman aqueduct at Chaponost",
+   "desc": "The Gier aqueduct carried water some 85 km to Roman Lugdunum. At the Plat de l'Air in Chaponost, 72 arches still march across the fields, the most spectacular surviving stretch.",
+   "tip": "Just south-west of Lyon and free to visit. The Monts du Lyonnais tourist office runs guided walks.",
+   "q": "Aqueduc romain du Gier, Plat de l'Air, Chaponost",
+   "ll": [
+    45.7217,
+    4.7603
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Aqueduct_of_the_Gier",
+    "https://en.wikivoyage.org/wiki/Ain"
+   ]
+  },
+  {
+   "id": "latourette",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Le Corbusier's Couvent de la Tourette",
+   "desc": "On a hillside at Éveux near L'Arbresle stands Le Corbusier's last major building, a raw concrete Dominican priory finished in 1960 and now on the UNESCO World Heritage list. Friars still live here.",
+   "tip": "Visits are guided and must be booked. You can also stay overnight in one of the monks' cells.",
+   "q": "Couvent Sainte-Marie de La Tourette, Éveux",
+   "ll": [
+    45.8194,
+    4.6225
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Sainte_Marie_de_La_Tourette"
+   ]
+  },
+  {
+   "id": "perouges",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Step back in time in Pérouges",
+   "desc": "A walled medieval village on a hill in the Ain, with cobbled lanes, a fortress church and the Place du Tilleul shaded by an ancient lime tree. It is so intact that swashbuckler films such as The Three Musketeers were shot here.",
+   "tip": "About 35 km north-east of Lyon; trains run to Meximieux-Pérouges, then it is a walk uphill. Wear flat shoes, the cobbles are rough.",
+   "q": "Place du Tilleul, Pérouges",
+   "ll": [
+    45.9036,
+    5.1797
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://ryo.co/en/articles/france/bourg-en-bresse/visit-ain-must-do-things/",
+    "https://en.wikipedia.org/wiki/P%C3%A9rouges"
+   ]
+  },
+  {
+   "id": "brou",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Admire the tombs at the Monastère royal de Brou",
+   "desc": "Margaret of Austria built this Flamboyant Gothic church in Bourg-en-Bresse between 1506 and 1532 as a tomb for her husband Philibert of Savoy. The lace-like marble tombs, the glazed tile roof and the cloisters make it one of France's great monuments.",
+   "tip": "Bourg-en-Bresse is about an hour from Lyon by train; the monastery is a walk or short bus ride from the centre. The ticket includes the art museum.",
+   "q": "Monastère royal de Brou, Bourg-en-Bresse",
+   "ll": [
+    46.1975,
+    5.2364
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Royal_Monastery_of_Brou",
+    "https://ryo.co/en/articles/france/bourg-en-bresse/visit-ain-must-do-things/"
+   ]
+  },
+  {
+   "id": "cellierjulienas",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Juliénas in a deconsecrated church",
+   "desc": "The Cellier de la Vieille Église in Juliénas is a tasting cellar set up in a church deconsecrated in 1868, with frescoes of Bacchus where the saints used to be. Local growers pour their cru at the counter.",
+   "tip": "Sunday is the liveliest day. Juliénas is at the northern tip of the Beaujolais, so combine it with Fleurie and Chénas.",
+   "q": "Cellier de la Vieille Église, Juliénas",
+   "ll": [
+    46.2374,
+    4.7105
+   ],
+   "src": [
+    "https://www.routard.com/fr/mag/reportage/a/escapade-dans-le-beaujolais-entre-vignes-et-patrimoine"
+   ]
+  },
+  {
+   "id": "maisonbeaujolais",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Compare all twelve appellations at La Maison des Beaujolais",
+   "desc": "Founded in 1952 at Belleville-en-Beaujolais, this restaurant, wine bar and shop stocks about 600 Beaujolais wines and serves traditional cooking in a room with an 18th-century fireplace. It is a crash course in the region in one stop.",
+   "tip": "Just off the A6 and near Belleville station. Ask for a tasting that contrasts a few crus, such as Morgon, Fleurie and Brouilly.",
+   "q": "La Maison des Beaujolais, Belleville-en-Beaujolais",
+   "ll": [
+    46.1235,
+    4.7385
+   ],
+   "src": [
+    "https://www.yonder.fr/destinations/72-heures-a/que-faire-beaujolais-week-end-bonnes-adresses",
+    "https://www.routard.com/fr/mag/reportage/a/escapade-dans-le-beaujolais-entre-vignes-et-patrimoine"
+   ]
+  },
+  {
+   "id": "galetteperouges",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat a warm galette de Pérouges",
+   "desc": "The village speciality is a thin, lemon-scented yeast tart covered with butter and sugar and served warm. Marie-Louise Thibaut made it famous after taking over the Hostellerie du Vieux Pérouges in 1912.",
+   "tip": "Several bakers in the lanes sell it by the slice; locals like it with a glass of sparkling Cerdon.",
+   "q": "Hostellerie du Vieux Pérouges",
+   "ll": [
+    45.9037,
+    5.1799
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Galette_de_P%C3%A9rouges",
+    "https://ryo.co/en/articles/france/bourg-en-bresse/visit-ain-must-do-things/"
+   ]
+  },
+  {
+   "id": "vonnas",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Make a pilgrimage to Georges Blanc's Vonnas",
+   "desc": "The Blanc family has cooked in this Bresse village for generations, and triple-starred chef Georges Blanc has turned its centre into a 'gourmet village' of restaurants and food shops. It is the place to taste poulet de Bresse, France's most prized chicken.",
+   "tip": "The family's more casual inn serves the Mère Blanc classics. Vonnas is between Mâcon and Bourg-en-Bresse and has a small station.",
+   "q": "Georges Blanc, Place du Marché, Vonnas",
+   "ll": [
+    46.2206,
+    4.99
+   ],
+   "src": [
+    "https://www.routard.com/fr/mag/idee-week-end/a/l-ain-avec-le-routard",
+    "https://en.wikivoyage.org/wiki/Ain"
+   ]
+  },
+  {
+   "id": "cerdon",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Sip pink, fizzy Cerdon in the Bugey",
+   "desc": "Cerdon is a low-alcohol sparkling rosé made by the ancestral method from gamay and poulsard on steep slopes around the village of the same name. It is gently sweet and locals drink it as an aperitif or with dessert.",
+   "tip": "Winegrowers in and around Cerdon village offer tastings; the hairpin road down into the valley is a view in itself.",
+   "q": "Cerdon, Ain",
+   "ll": [
+    46.0797,
+    5.4683
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Cerdon_(AOC)",
+    "https://ryo.co/en/articles/france/bourg-en-bresse/visit-ain-must-do-things/"
+   ]
+  },
+  {
+   "id": "nantua",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order quenelles sauce Nantua by the lake in Nantua",
+   "desc": "The crayfish butter sauce that Lyon pours over its pike quenelles takes its name from this small Haut-Bugey town on a glacial lake hemmed in by cliffs. Eating the dish at its source is a rite for food lovers.",
+   "tip": "Walk some of the path around the lake afterwards; there is a supervised beach in summer.",
+   "q": "Lac de Nantua, Nantua",
+   "ll": [
+    46.153,
+    5.6
+   ],
+   "src": [
+    "https://ryo.co/en/articles/france/bourg-en-bresse/visit-ain-must-do-things/",
+    "https://www.routard.com/fr/mag/idee-week-end/a/l-ain-avec-le-routard"
+   ]
+  },
+  {
+   "id": "montbrouilly",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike up Mont Brouilly",
+   "desc": "This 484 m hill gives its name to two Beaujolais crus. Trails climb through the vines and woods to the chapel of Notre-Dame-des-Raisins, 'Our Lady of the Grapes', and a geology viewpoint over the Saône plain.",
+   "tip": "Start from Saint-Lager; the woodland trail is an easy loop of about 3 km. Taste Côte de Brouilly at an estate on the way down.",
+   "q": "Mont Brouilly, Saint-Lager",
+   "ll": [
+    46.1203,
+    4.6347
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://www.routard.com/fr/mag/reportage/a/escapade-dans-le-beaujolais-entre-vignes-et-patrimoine",
+    "https://www.yonder.fr/destinations/72-heures-a/que-faire-beaujolais-week-end-bonnes-adresses"
+   ]
+  },
+  {
+   "id": "lacdessapins",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim in the natural pool at Lac des Sapins",
+   "desc": "In the fir-covered hills of the 'green Beaujolais' at Cublize, this lake has a huge biological swimming area filtered by plants instead of chlorine, plus a beach, paddle boards and treetop courses.",
+   "tip": "About an hour's drive north-west of Lyon. Out of season the path around the lake makes a peaceful walk.",
+   "q": "Lac des Sapins, Cublize",
+   "ll": [
+    46.03,
+    4.38
+   ],
+   "months": [
+    6,
+    7,
+    8
+   ],
+   "src": [
+    "https://www.yonder.fr/destinations/72-heures-a/que-faire-beaujolais-week-end-bonnes-adresses"
+   ]
+  },
+  {
+   "id": "villefranchecours",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Push open the hidden courtyards of Villefranche-sur-Saône",
+   "desc": "Behind the plain facades of the Rue Nationale, the capital of the Beaujolais hides more than a hundred Renaissance courtyards with galleries and stair towers. A marked 'Trésors Cachés' trail leads you through the ones that are open.",
+   "tip": "Twenty-five minutes by train from Lyon. Go on a market morning and visit the covered market too.",
+   "q": "Collégiale Notre-Dame-des-Marais, Villefranche-sur-Saône",
+   "ll": [
+    45.9892,
+    4.7186
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://www.yonder.fr/destinations/72-heures-a/que-faire-beaujolais-week-end-bonnes-adresses",
+    "https://www.beaujolais-tourisme.com/en/les-incontournables.html"
+   ]
+  },
+  {
+   "id": "parcdesoiseaux",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch the birds fly at the Parc des Oiseaux",
+   "desc": "Set among the thousand ponds of the Dombes at Villars-les-Dombes, this is one of Europe's biggest bird parks, with thousands of birds from every continent and a free-flight show.",
+   "tip": "Allow most of a day. Trains from Lyon stop at Villars-les-Dombes, a walk from the entrance; the park closes in winter.",
+   "q": "Parc des Oiseaux, Villars-les-Dombes",
+   "ll": [
+    45.9933,
+    5.0267
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "src": [
+    "https://ryo.co/en/articles/france/bourg-en-bresse/visit-ain-must-do-things/",
+    "https://www.routard.com/fr/mag/idee-week-end/a/l-ain-avec-le-routard"
+   ]
+  },
+  {
+   "id": "grandcolombier",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Reach the summit of the Grand Colombier",
+   "desc": "The 1,534 m giant of the Bugey gives a view over Lake Geneva, Lac du Bourget, the Rhône and the whole Mont Blanc range. Its road, with ramps above 20 percent, is a legend among cyclists.",
+   "tip": "Drive or ride up from Culoz or Artemare and walk the last stretch to the cross. Pick a clear day and bring a windproof layer.",
+   "q": "Grand Colombier, Ain",
+   "ll": [
+    45.9011,
+    5.7608
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Grand_Colombier_(Ain)",
+    "https://ryo.co/en/articles/france/bourg-en-bresse/visit-ain-must-do-things/"
+   ]
+  },
+  {
+   "id": "grottescerdon",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Go underground at the Grottes du Cerdon",
+   "desc": "At Labalme in the Bugey, a guided route follows an old underground river through a long cave system and out onto a balcony over the valley. Outside, a prehistory park lets children try fire-making and cave painting.",
+   "tip": "The cave stays around 12 degrees all year: take a jumper even in August.",
+   "q": "Grottes du Cerdon, Labalme",
+   "ll": [
+    46.09,
+    5.483
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "src": [
+    "https://ryo.co/en/articles/france/bourg-en-bresse/visit-ain-must-do-things/",
+    "https://www.routard.com/fr/mag/idee-week-end/a/l-ain-avec-le-routard"
+   ]
+  }
+ ]
+}

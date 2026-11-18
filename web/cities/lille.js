@@ -55,7 +55,7 @@ window.CITIES.lille = {
     aubaron: [50.3364, 3.7375], bonfermier: [50.3552, 3.5213], vertmont: [50.7930, 2.7035],
     doigtsjeanbart: [51.0321, 2.3769], beffroidunkerque: [51.0356, 2.3762], dunemarchand: [51.0731, 2.5042],
     foretmormal: [50.2069, 3.7375], mareagoriaux: [50.3949, 3.4329], terrilrieulay: [50.3767, 3.2510],
-    arkeos: [50.4096, 3.1275]
+    arkeos: [50.4096, 3.1275], platieroye: [51.0050, 2.0818]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -407,6 +407,9 @@ window.CITIES.lille = {
       tip: "Climb the heap for a view over the Scarpe valley and the mining basin, then walk the paths around the lake.", q: "Maison du Terril, Rieulay", tags: ["free"], src: ["https://fr.wikipedia.org/wiki/Maison_du_terril_de_Rieulay"] },
     { id: "arkeos", cat: "dene", area: "cevre", title: "Travel 200,000 years at Arkéos near Douai",
       desc: "Opened in 2014 on the banks of the Scarpe between Douai and Râches, Arkéos combines an archaeology museum with a park of reconstructed medieval dwellings. Films, models and hands-on displays trace life in the area from prehistory to the present, using finds from decades of digs in Douai.",
-      tip: "Cross the footbridge from the museum to the reconstruction park, where buildings are added year by year.", q: "Arkéos, Douai", tags: ["rainy day"], src: ["https://fr.wikipedia.org/wiki/Mus%C3%A9e_arch%C3%A9ologique_Ark%C3%A9os"] }
+      tip: "Cross the footbridge from the museum to the reconstruction park, where buildings are added year by year.", q: "Arkéos, Douai", tags: ["rainy day"], src: ["https://fr.wikipedia.org/wiki/Mus%C3%A9e_arch%C3%A9ologique_Ark%C3%A9os"] },
+    { id: "platieroye", cat: "dene", area: "cevre", title: "Watch migrating birds at the Platier d'Oye",
+      desc: "Between Calais and Dunkirk, the Platier d'Oye reserve protects 391 hectares of dunes, wet meadows and foreshore on the left bank of the Aa estuary. It was classified in 1987 because migrating birds stop here in great numbers on their way along the coast.",
+      tip: "Bring binoculars and something warm, as there is no shelter from the wind. Spring and autumn passage are the busiest times.", q: "Réserve naturelle nationale du Platier d'Oye, Oye-Plage", tags: ["free"], src: ["https://fr.wikipedia.org/wiki/Réserve_naturelle_nationale_du_Platier_d'Oye"] }
   ]
 };

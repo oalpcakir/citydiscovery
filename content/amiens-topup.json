@@ -1,0 +1,276 @@
+{
+  "new": [
+    {
+      "id": "brasseriejules",
+      "cat": "ye",
+      "area": "merkez",
+      "title": "Order a seafood platter at Brasserie Jules",
+      "desc": "A few steps from the station, this big traditional brasserie is picked by Gault&Millau as a safe bet with a wide menu. Oysters from Gillardeau and Saint-Vaast and seafood platters are the draw, next to steak tartare, a 5A andouillette and Bouchot mussels.",
+      "tip": "It serves lunch and dinner every day, with the kitchen open late in the evening. That makes it a good fallback on Sundays and Mondays, when much of Amiens is shut.",
+      "q": "Brasserie Jules, 18 Boulevard d'Alsace-Lorraine, Amiens",
+      "ll": [
+        49.892,
+        2.3078
+      ],
+      "src": [
+        "https://fr.gaultmillau.com/fr/restaurants/brasserie-jules"
+      ]
+    },
+    {
+      "id": "bourgeoisgateaubattu",
+      "cat": "ye",
+      "area": "cevre",
+      "title": "Buy a prize-winning gâteau battu in the Vimeu",
+      "desc": "Gâteau battu is the tall brioche of maritime Picardy, rich in egg yolks and butter and baked in a fluted mould shaped like a chef's hat. Xavier Bourgeois, baker in Friville-Escarbotin, won the gâteau battu competition in 2025, and Gault&Millau sends its readers to his shop for it.",
+      "tip": "Slice it thick for breakfast with jam, the way it is eaten here. The bakery is on the road between Abbeville and the cliffs at Ault and Mers-les-Bains.",
+      "q": "Boulangerie Bourgeois, 33 Rue Henri Barbusse, Friville-Escarbotin",
+      "ll": [
+        50.0894,
+        1.5481
+      ],
+      "src": [
+        "https://fr.gaultmillau.com/fr/artisans/boulangerie-bourgeois"
+      ]
+    },
+    {
+      "id": "fruitsrougesnoyon",
+      "cat": "ye",
+      "area": "cevre",
+      "title": "Taste your way round Noyon's red fruit market",
+      "desc": "On the first weekend of July, dozens of producers set up around Noyon cathedral for the Marché aux Fruits Rouges, held since 1989. Stalls sell strawberries, raspberries and currants along with honey, cider, cheese and jam, while troupes in medieval costume, musicians and jugglers move through the crowd.",
+      "tip": "Entry to the market is free. The sit-down meals are paid and need booking in advance.",
+      "q": "Place du Parvis, Noyon",
+      "ll": [
+        49.5822,
+        2.9998
+      ],
+      "tags": [
+        "free"
+      ],
+      "months": [
+        7
+      ],
+      "src": [
+        "https://www.festivalenfrance.com/festival/marche-medieval-aux-fruits-rouges-de-noyon"
+      ]
+    },
+    {
+      "id": "velocipede",
+      "cat": "ye",
+      "area": "cevre",
+      "title": "Eat local at Au Vélocipède in Saint-Valery",
+      "desc": "In the old upper town of Saint-Valery-sur-Somme, a guest house with five rooms furnished from flea markets also runs a small restaurant. Gault&Millau praises its local cooking and carefully sourced ingredients.",
+      "tip": "It is small, so reserve, especially at weekends. The medieval gates and ramparts of the old town are right outside for a walk afterwards.",
+      "q": "Au Vélocipède, 2 Rue du Puits Salé, Saint-Valery-sur-Somme",
+      "ll": [
+        50.1883,
+        1.6306
+      ],
+      "src": [
+        "https://fr.gaultmillau.com/fr/hotels/au-velocipede"
+      ]
+    },
+    {
+      "id": "rambures",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Circle the brick towers of Château de Rambures",
+      "desc": "Rambures is a 15th-century fortress built almost entirely of brick, on a square plan with a round tower at each corner, designed to stand up to cannon fire. It was spared from demolition under Louis XIII because Charles de Rambures had saved the life of Henri IV at the battle of Ivry in 1590.",
+      "tip": "The park has the Jardin Remarquable label and includes an arboretum and a rose garden planted on the old kitchen garden. June is the month for the roses.",
+      "q": "Château de Rambures",
+      "ll": [
+        49.9444,
+        1.7074
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Château_de_Rambures"
+      ]
+    },
+    {
+      "id": "saintvulfran",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Study the lacework front of Saint-Vulfran in Abbeville",
+      "desc": "Work on this collegiate church began in 1488, and its twin-towered facade is one of the richest pieces of Flamboyant Gothic in Picardy. On 20 May 1940 German shelling set Abbeville ablaze and the vaults fell in, leaving only the towers, the facade and the start of the nave. The church was restored and reopened for worship in 1998.",
+      "tip": "Stand back on the square to take in the whole front, then go close for the carved portals. The modern stained glass in the choir is by William Einstein.",
+      "q": "Collégiale Saint-Vulfran, Abbeville",
+      "ll": [
+        50.1048,
+        1.8319
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Collégiale_Saint-Vulfran_d'Abbeville"
+      ]
+    },
+    {
+      "id": "noyoncathedral",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Explore Noyon cathedral and its canons' quarter",
+      "desc": "Charlemagne was crowned in 768 in an earlier church on this spot. The present cathedral is one of the first of the Gothic age and still has its close around it: a 13th-century cloister and chapter house, the 16th-century library of the chapter and the canons' houses. Shelling in the First World War left it badly damaged and it took years to rebuild.",
+      "tip": "Look for the old chapter library, a timber-framed building beside the cathedral. Noyon is also the birthplace of John Calvin, who has a museum a short walk away.",
+      "q": "Cathédrale Notre-Dame de Noyon",
+      "ll": [
+        49.5821,
+        3.0006
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Cathédrale_Notre-Dame_de_Noyon"
+      ]
+    },
+    {
+      "id": "albertbasilica",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Look up at the Golden Virgin of Albert",
+      "desc": "The basilica of Notre-Dame de Brebières was built from 1885 to 1897 and crowned with a gilded Virgin and Child by the Amiens sculptor Albert Roze. A shell hit the dome in 1915 and left the statue hanging at an angle over the street. French and British soldiers said the war would end when she fell, and she came down in April 1918.",
+      "tip": "The church was rebuilt after the war and a new gilded Virgin stands on top. The Somme 1916 museum is in a tunnel that starts beside the basilica.",
+      "q": "Basilique Notre-Dame de Brebières, Albert",
+      "ll": [
+        50.0041,
+        2.6483
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Basilique_Notre-Dame_de_Brebières"
+      ]
+    },
+    {
+      "id": "chaalis",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Wander the ruins and rose garden of Chaalis Abbey",
+      "desc": "King Louis VI founded this Cistercian abbey in 1136 in what is now the forest of Ermenonville. Today the estate holds the ruins of the 13th-century abbey church, a chapel with Renaissance frescoes, a rose garden and the collections of Nélie Jacquemart, who left the house and its art to the Institut de France.",
+      "tip": "On the second weekend of June the park hosts the Journées de la Rose, a plant fair with around a hundred exhibitors. Any other day it is quiet.",
+      "q": "Abbaye de Chaalis, Fontaine-Chaalis",
+      "ll": [
+        49.1475,
+        2.6867
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Abbaye_de_Chaalis"
+      ]
+    },
+    {
+      "id": "stadelicorne",
+      "cat": "dene",
+      "area": "merkez",
+      "title": "Cheer on Amiens SC at the Stade de la Licorne",
+      "desc": "Amiens SC play at this stadium of about 12,000 seats, opened in 1999 in the Renancourt district. You cannot miss its tall transparent shell, designed to shield the stands from the wind. It is named after the unicorn that appears on the city's coat of arms and on the club badge.",
+      "tip": "The ground is on the western edge of town, so allow time to get out there before kick-off. Bring a warm layer for evening games in winter.",
+      "q": "Stade de la Licorne, Amiens",
+      "ll": [
+        49.894,
+        2.2635
+      ],
+      "months": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Stade_de_la_Licorne"
+      ]
+    },
+    {
+      "id": "hippodromechantilly",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Dress up for a June classic at Chantilly racecourse",
+      "desc": "Racing started here in 1834, on turf between the forest and the château. The Prix du Jockey Club has been run at Chantilly since 1836 and the Prix de Diane, for fillies, since 1843. Both are in June over 2,100 metres, finishing up a rising 600 metre straight with the Grandes Écuries as a backdrop.",
+      "tip": "For the Prix de Diane, hats are part of the fun and many people picnic on the lawns. There are race days through much of the year if you prefer a quiet afternoon.",
+      "q": "Hippodrome de Chantilly",
+      "ll": [
+        49.19,
+        2.4774
+      ],
+      "months": [
+        6
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Hippodrome_de_Chantilly",
+        "https://fr.wikipedia.org/wiki/Prix_du_Jockey_Club"
+      ]
+    },
+    {
+      "id": "jeannehachette",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Join the Fêtes Jeanne Hachette in Beauvais",
+      "desc": "In 1472 the people of Beauvais held their walls against the army of Charles the Bold, and a young woman remembered as Jeanne Hachette became the heroine of the siege. Every year on the last weekend of June the town marks it with parades in period costume. Her statue, put up in 1851, stands on the square that bears her name, facing the town hall.",
+      "tip": "The processions pass through the square, so find a place there early. Combine it with the cathedral, five minutes away on foot.",
+      "q": "Place Jeanne Hachette, Beauvais",
+      "ll": [
+        49.4305,
+        2.0821
+      ],
+      "tags": [
+        "free"
+      ],
+      "months": [
+        6
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Jeanne_Hachette"
+      ]
+    },
+    {
+      "id": "ptittrainhautesomme",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Ride the narrow-gauge train of the Haute Somme",
+      "desc": "Volunteers have run this little railway since 1971 on 7 km of 60 cm gauge track, first laid for the armies of the First World War and later used by the Dompierre sugar factory. The trip from Froissy to Dompierre and back takes about an hour and a half, and the station has a museum of military and industrial trains.",
+      "tip": "Trains usually run on Sundays and public holidays from April to the end of September, and daily in July and August. Check the calendar for the steam days.",
+      "q": "P'tit train de la Haute Somme, Froissy, La Neuville-lès-Bray",
+      "ll": [
+        49.9233,
+        2.7292
+      ],
+      "months": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/P'tit_train_de_la_Haute_Somme"
+      ]
+    },
+    {
+      "id": "beauxmonts",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Walk Napoleon's avenue to the Beaux Monts",
+      "desc": "Napoleon had this avenue cut through the forest of Compiègne for his young wife Marie-Louise, to give her a view like the one at Schönbrunn. It runs dead straight for 4 km from the palace gardens, some 60 metres wide, up to the hill of the Beaux Monts.",
+      "tip": "Start at the back of the palace park and walk or cycle the whole length. From the top you look straight back down the green corridor to the palace.",
+      "q": "Allée des Beaux-Monts, Compiègne",
+      "ll": [
+        49.4138,
+        2.8898
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Forêt_de_Compiègne"
+      ]
+    }
+  ]
+}

@@ -36,7 +36,11 @@ window.CITIES.oldenburg = {
     wattwandern: [53.6856, 7.3602], seehundstation: [53.6125, 7.1594], wattenmeerhaus: [53.5128, 8.1393],
     suedstrand: [53.5102, 8.1237], parkdergaerten: [53.2008, 7.9918], weisseflotte: [53.1848, 8.0148],
     hammersee: [53.6747, 6.9430], pferdebahn: [53.7695, 7.6890], badehaus: [53.7043, 7.1437],
-    thuelsfelder: [52.9194, 7.9414], upstalsboom: [53.4541, 7.4311], campenleuchtturm: [53.4057, 7.0156]
+    thuelsfelder: [52.9194, 7.9414], upstalsboom: [53.4541, 7.4311], campenleuchtturm: [53.4057, 7.0156],
+    pflhospital: [53.1428, 8.2075], elisabethannapalais: [53.1369, 8.2153], filmfestoldenburg: [53.1476, 8.2119],
+    bornhorstersee: [53.1835, 8.2656], klinkerburg: [53.1438, 8.2218], cafetencate: [53.5960, 7.2070],
+    hausdergetreuen: [53.5754, 7.9024], pestrup: [52.8747, 8.4494], evenburg: [53.2312, 7.4947],
+    schlossparkrastede: [53.2398, 8.2083]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -223,6 +227,36 @@ window.CITIES.oldenburg = {
       tip: "It is a short bike ride west of Aurich's centre and makes a peaceful detour.", q: "Upstalsboom, Aurich", tags: ["free"], src: ["https://de.wikipedia.org/wiki/Upstalsboom"] },
     { id: "campenleuchtturm", cat: "dene", area: "cevre", title: "Climb over 300 steps up Germany's tallest lighthouse",
       desc: "At 65.3 metres, the steel-frame lighthouse of Campen is the tallest in Germany and has guided ships to the Ems since 1891. A narrow spiral stair inside the central tube takes you to the top.",
-      tip: "It is open daily from mid-March to early November. There is a small bistro at the foot for a drink afterwards.", q: "Leuchtturm Campen, Krummhörn", months: [3, 4, 5, 6, 7, 8, 9, 10, 11], src: ["https://de.wikipedia.org/wiki/Leuchtturm_Campen", "https://www.leinetal24.de/niedersachsen/echter-kuestenriese-das-ist-der-hoechste-leuchtturm-auf-deutschem-festland-94432316.html"] }
+      tip: "It is open daily from mid-March to early November. There is a small bistro at the foot for a drink afterwards.", q: "Leuchtturm Campen, Krummhörn", months: [3, 4, 5, 6, 7, 8, 9, 10, 11], src: ["https://de.wikipedia.org/wiki/Leuchtturm_Campen", "https://www.leinetal24.de/niedersachsen/echter-kuestenriese-das-ist-der-hoechste-leuchtturm-auf-deutschem-festland-94432316.html"] },
+    { id: "pflhospital", cat: "gor", area: "merkez", title: "See the classicist hospital that became a library",
+      desc: "The Peter Friedrich Ludwigs Hospital on Peterstraße was built between 1838 and 1841 to a design by Heinrich Strack, with a facade in the calm classicist style the dukes brought to Oldenburg. Patients were treated here until 1984. Since 1992 the main building has housed the city library and an arts centre known simply as the PFL.",
+      tip: "Go inside, as the library is open to everyone. In autumn the PFL hosts KIBUM, the city's fair for children's books.", q: "Kulturzentrum PFL, Peterstraße 3, Oldenburg", tags: ["free", "rainy day"], src: ["https://de.wikipedia.org/wiki/Peter_Friedrich_Ludwigs_Hospital"] },
+    { id: "elisabethannapalais", cat: "gor", area: "merkez", title: "Spot the last palace of the grand dukes",
+      desc: "The Elisabeth-Anna-Palais was built from 1894 to 1896 for Friedrich August, who would become the last Grand Duke of Oldenburg. The red brick building borrows from the Weser Renaissance, and its corner tower with an onion dome answers the tower of the main palace nearby. After the monarchy ended in 1918 it passed to the state, and today it is the seat of the social court.",
+      tip: "It stands between the palace and the Augusteum, on the edge of the Schlossgarten. The best view is from the garden side.", q: "Elisabeth-Anna-Palais, Schloßwall 16, Oldenburg", tags: ["free"], src: ["https://de.wikipedia.org/wiki/Elisabeth-Anna-Palais"] },
+    { id: "filmfestoldenburg", cat: "dene", area: "merkez", title: "Catch an indie premiere at the Oldenburg film festival",
+      desc: "Since 1994 the Internationales Filmfest Oldenburg has shown independent films over five days in September. Around 50 features and 20 shorts are screened, more than half of them German and American productions, and visiting stars get a star on the city's Walk of Fame.",
+      tip: "Screenings are spread across cinemas and other venues in town, among them the Casablanca arthouse cinema. Single tickets go on sale shortly before the festival.", q: "Casablanca Kino, Johannisstraße 17, Oldenburg", months: [9], src: ["https://de.wikipedia.org/wiki/Internationales_Filmfest_Oldenburg", "https://www.filmfest-oldenburg.de"] },
+    { id: "bornhorstersee", cat: "dene", area: "merkez", title: "Swim at the Kleiner Bornhorster See",
+      desc: "This former gravel pit on the eastern edge of Oldenburg is almost perfectly round, covers 20 hectares and is up to 18 metres deep. It is an official bathing lake watched by lifeguards, with a sandy beach about 150 metres long on the western shore and plenty of grass to lie on.",
+      tip: "It is a flat bike ride of about half an hour from the centre. A walk around the lake is roughly two kilometres.", q: "Kleiner Bornhorster See, Oldenburg", months: [6, 7, 8], tags: ["free"], src: ["https://de.wikipedia.org/wiki/Kleiner_Bornhorster_See"] },
+    { id: "klinkerburg", cat: "ye", area: "merkez", title: "Dine at the Klinkerburg by the station",
+      desc: "The Klinkerburg on Bahnhofsplatz is one of Oldenburg's popular addresses for carefully cooked regional and seasonal dishes, with a lunch menu that changes every week. It sits at the main station, whose big entrance building has the only train shed of any station in Lower Saxony.",
+      tip: "Ask to see the Fürstensaal, the grand room used for celebrations. The weekday lunch menu is the cheaper way in.", q: "Klinkerburg, Bahnhofsplatz 12a, Oldenburg", src: ["https://www.klinkerburg.de", "https://en.wikivoyage.org/wiki/Oldenburg"] },
+    { id: "cafetencate", cat: "ye", area: "cevre", title: "Have tea and cake at Café ten Cate in Norden",
+      desc: "The ten Cate family has run this pastry shop and café in the middle of Norden since 1878, now in the sixth generation. Cakes and gateaux are lined up at the counter, and the house makes its own chocolates and blends its own teas.",
+      tip: "Take a window seat and watch the shopping street go by. Breakfast is served too, and the chocolates make an easy gift to carry home.", q: "Café ten Cate, Osterstraße 153, Norden", tags: ["rainy day"], src: ["https://www.cafe-ten-cate.de", "https://www.cafe-ten-cate.de/ueber-uns"] },
+    { id: "hausdergetreuen", cat: "ye", area: "cevre", title: "Eat at the brewery tap in Jever",
+      desc: "The Haus der Getreuen on Schlachtstraße is the official tap of the Jever brewery. A family of hosts serves North German brewhouse cooking made with regional produce, and the restaurant has been recommended by the Falstaff guide.",
+      tip: "Reserve a table online for the evening. It is a short walk from both the castle and the brewery.", q: "Haus der Getreuen, Schlachtstraße 1, Jever", src: ["https://www.hausdergetreuen.de"] },
+    { id: "pestrup", cat: "gor", area: "cevre", title: "Walk among 500 burial mounds at Pestrup",
+      desc: "South of Wildeshausen, more than 530 burial mounds lie scattered over a stretch of open heath. They date from about 900 to 200 BC and form the largest Bronze and Iron Age burial ground in northern central Europe. Most mounds are round, about a metre high and held a single urn.",
+      tip: "A flock of moorland sheep keeps the heath open. Come in late summer when the heather flowers, and stay on the paths.", q: "Pestruper Gräberfeld, Wildeshausen", tags: ["free"], src: ["https://de.wikipedia.org/wiki/Pestruper_Gr%C3%A4berfeld"] },
+    { id: "evenburg", cat: "gor", area: "cevre", title: "Stroll to the moated Evenburg in Leer",
+      desc: "The Evenburg in the Loga district of Leer began as a Baroque moated castle built for Colonel Erhard von Ehrentreuter and was later rebuilt in neo-Gothic style. The county of Leer bought it in 1975 and has restored it step by step, including the roofline and the star-pattern parquet of the ballroom.",
+      tip: "The castle stands on an island in a wide moat, surrounded by a park that is free to walk. There is a café in the outer court.", q: "Evenburg, Leer", src: ["https://de.wikipedia.org/wiki/Evenburg"] },
+    { id: "schlossparkrastede", cat: "dene", area: "cevre", title: "Walk the ducal park at Rastede",
+      desc: "Schloss Rastede was for a long time the summer home of the counts and grand dukes of Oldenburg and still belongs to the family, so the house itself is closed to visitors. The landscape park around it, laid out in the English style by Carl Ferdinand Bosse from 1784, is the reason to come. The Hirschtor, a gate crowned with stags, was added in 1870.",
+      tip: "Across the road the Erbprinzenpalais serves as the village's arts centre, with exhibitions and concerts. Rastede is one stop north of Oldenburg by train.", q: "Schlosspark Rastede", tags: ["free"], src: ["https://de.wikipedia.org/wiki/Schloss_Rastede"] }
   ]
 };

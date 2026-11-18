@@ -1,0 +1,106 @@
+{
+  "new": [
+    {
+      "id": "koenmuseum", "cat": "gor", "area": "merkez",
+      "title": "Rethink gender at KØN in the old town hall",
+      "desc": "KØN, Gender Museum Denmark, began life as the Women's Museum and fills the city's former town hall from 1857, right beside the cathedral. Its changing exhibitions dig into the cultural history of gender and how ideas about women and men have changed over time.",
+      "tip": "The café can be visited without a museum ticket and is a calm spot for lunch away from the shopping streets.",
+      "q": "KØN Gender Museum Denmark, Domkirkepladsen 5, Aarhus", "ll": [56.1572, 10.2114],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikivoyage.org/wiki/Aarhus", "https://www.visitaarhus.com/aarhus/eat-and-drink/cafes-aarhus"]
+    },
+    {
+      "id": "kunsthalaarhus", "cat": "gor", "area": "merkez",
+      "title": "See what's new at Kunsthal Aarhus",
+      "desc": "Kunsthal Aarhus has shown contemporary art in a building put up in 1917 for exactly that purpose. It sits on J.M. Mørks Gade by the green Mølleparken and the river, and entry is free.",
+      "tip": "It is closed on Mondays and stays open until 20:00 on Wednesdays, a good excuse for an evening visit before dinner in the centre.",
+      "q": "Kunsthal Aarhus, J.M. Mørks Gade 13, Aarhus", "ll": [56.1551, 10.2020],
+      "tags": ["free", "rainy day"],
+      "src": ["https://en.wikivoyage.org/wiki/Aarhus"]
+    },
+    {
+      "id": "mindeparken", "cat": "gor", "area": "merkez",
+      "title": "Look out over the bay from Mindeparken",
+      "desc": "The Memorial Park next to Marselisborg Palace was inaugurated by King Christian X in 1925. Its great limestone monument from 1934 carries the names of the 4,140 Danes killed in the First World War, and the lawns slope towards a wide view across the Bay of Aarhus.",
+      "tip": "A short ceremony is held at the monument every 11 November. On a summer evening, bring a blanket and stay for the light over the water.",
+      "q": "Mindeparken, Aarhus", "ll": [56.1294, 10.2072],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Mindeparken", "https://en.wikivoyage.org/wiki/Aarhus"]
+    },
+    {
+      "id": "brabrandso", "cat": "dene", "area": "merkez",
+      "title": "Follow the river path out to Brabrand Sø",
+      "desc": "Brabrandstien is a path of about 20 km that leads from the city centre along the Aarhus river out to Brabrand Sø and around it. Walkers, runners and cyclists share it, and the lake shore is a favourite picnic spot.",
+      "tip": "Swimming is not allowed in the lake, but you can get onto it by canoe. Cycle out one way and take a bus back if your legs give up.",
+      "q": "Brabrand Sø, Aarhus", "ll": [56.1440, 10.1266],
+      "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Aarhus"]
+    },
+    {
+      "id": "undermasken", "cat": "ye", "area": "merkez",
+      "title": "Have a nightcap among the masks at Under Masken",
+      "desc": "Café Under Masken on Bispegade, next to Hotel Royal, is an old-fashioned bar hung floor to ceiling with art and masks, including African carved masks, plus a large fish tank. It is open all year and draws a loyal, culture-minded crowd.",
+      "tip": "It is a proper old pub where smoking is still allowed inside, so it is not the place for a smoke-free evening.",
+      "q": "Under Masken, Bispegade 3, Aarhus", "ll": [56.1577, 10.2100],
+      "src": ["https://www.visitaarhus.com/aarhus-region/plan-your-trip/cafe-under-masken-gdk603581", "https://wanderlog.com/place/details/1828332"]
+    },
+    {
+      "id": "casablancaaarhus", "cat": "ye", "area": "merkez",
+      "title": "Linger over brunch at Café Casablanca",
+      "desc": "Casablanca on Rosensgade has been a brasserie, café and bar under one roof since 1981, which makes it one of the oldest café hangouts in town. It sits in the Latin Quarter a few steps from the cathedral.",
+      "tip": "Grab a table by the window and watch the Latin Quarter go by. It works as well for a late-night drink as for a slow weekend brunch.",
+      "q": "Café Casablanca, Rosensgade 12, Aarhus", "ll": [56.1576, 10.2113],
+      "src": ["https://www.visitdenmark.com/denmark/plan-your-trip/cafe-casablanca-gdk920332", "https://www.visitaarhus.com/aarhus/eat-and-drink/cafes-aarhus"]
+    },
+    {
+      "id": "petergift", "cat": "ye", "area": "merkez",
+      "title": "Eat a Danish lunch at Peter Gift in Frederiksbjerg",
+      "desc": "Peter Gift on M.P. Bruuns Gade got its liquor licence in 1906 and was run for decades by Lauritz Peter Hansen, whose nickname became the pub's name when it reopened in 1967. Inside there is wood panelling and a fireplace, and the lunch menu sticks to classic Danish dishes with a long list of beers.",
+      "tip": "Saturday lunch is the big draw, so book a table. From March to October the back courtyard under the hops is the place to sit.",
+      "q": "Peter Gift, M. P. Bruuns Gade 28, Aarhus", "ll": [56.1487, 10.2032],
+      "src": ["https://www.visitaarhus.com/aarhus-region/plan-your-trip/peter-gift-gdk920537", "https://beerwalk.dk/en/place/peter-poison/"]
+    },
+    {
+      "id": "havnensperle", "cat": "ye", "area": "merkez",
+      "title": "Tackle a bøfsandwich at Havnens Perle",
+      "desc": "Havnens Perle has been a grill bar on the Aarhus harbour since 1962 and is said to have served Jutland's first bøfsandwich, a beef patty in a bun drowned in brown gravy. It has been named Denmark's best bøfsandwich, and the menu still runs on old-school grill food.",
+      "tip": "Portions are generous, so come hungry. It opens early on weekdays, handy before a ferry out to the islands.",
+      "q": "Havnens Perle, Dagmar Petersens Gade 10, Aarhus", "ll": [56.1623, 10.2186],
+      "src": ["https://spiseguidenaarhus.dk/oversigt/havnens-perle/?pdf=181465", "https://scanmagazine.co.uk/?p=5729"]
+    },
+    {
+      "id": "restaurantdokken", "cat": "ye", "area": "cevre",
+      "title": "Dine on island produce at Restaurant Dokken in Ballen",
+      "desc": "Restaurant Dokken sits on the harbour at Ballen on Samsø's east coast and is one of the island's most popular places to eat. It serves classic Danish dishes made with local produce, with outdoor tables looking out over the boats and the sea.",
+      "tip": "It is a summer place, so check the opening dates before you cross. In high season a cosy bar and a small nightclub keep things going after dinner.",
+      "q": "Restaurant Dokken, Strandvejen 83, Ballen, Samsø", "ll": [55.8164, 10.6383],
+      "src": ["https://www.visitsamsoe.dk/en/spisesteder/restaurant-dokken/"]
+    },
+    {
+      "id": "lyngvigfyr", "cat": "gor", "area": "cevre",
+      "title": "Climb Lyngvig Fyr above the dunes of Holmsland Klit",
+      "desc": "Lyngvig Lighthouse was lit in 1906 on the narrow sand barrier between the North Sea and Ringkøbing Fjord, between Søndervig and Hvide Sande. The 38 m tower stands on a 17 m dune, and 228 steps in all take you to a balcony with the sea on one side and the fjord on the other.",
+      "tip": "The tower is open from about February to November. Go late in the day, then walk over the dune to the beach for sunset.",
+      "q": "Lyngvig Fyr", "ll": [56.0499, 8.1040],
+      "src": ["https://da.wikipedia.org/wiki/Lyngvig_Fyr", "https://www.opdagdanmark.dk/en/discover/lyngvig-fyr/"]
+    },
+    {
+      "id": "glasmuseet", "cat": "gor", "area": "cevre",
+      "title": "Watch glass being blown at Glasmuseet Ebeltoft",
+      "desc": "Glass artists Finn Lynggaard and Tchai Munch founded this museum of modern glass art in 1985 in Ebeltoft's old customs house by the water. A new wing with a hot shop was added in 2006, where glassblowers work in front of visitors.",
+      "tip": "Check the day's glassblowing times when you arrive. It combines nicely with Fregatten Jylland, which is moored a short walk away.",
+      "q": "Glasmuseet Ebeltoft, Strandvejen 8, Ebeltoft", "ll": [56.1972, 10.6739],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Glasmuseet_Ebeltoft"]
+    },
+    {
+      "id": "monstedkalkgruber", "cat": "dene", "area": "cevre",
+      "title": "Go underground in the Mønsted limestone mines",
+      "desc": "West of Viborg, local farmers dug limestone out of the hill at Mønsted for centuries, and quarrying went on until 1953, leaving a maze of chalk galleries. Today more than 10,000 bats spend the winter inside, and Arla matures cheese in tunnels that never get warmer than 8 °C.",
+      "tip": "Bring a warm layer even in July. The mines close for the winter, when the bats are left in peace, so check the season before you drive out.",
+      "q": "Mønsted Kalkgruber, Kalkværksvej 10, Mønsted", "ll": [56.4558, 9.1667],
+      "tags": ["rainy day"],
+      "src": ["https://www.monsted-kalkgruber.dk/", "https://da.wikipedia.org/wiki/Mønsted_Kalkgruber"]
+    }
+  ]
+}

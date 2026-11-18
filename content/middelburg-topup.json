@@ -1,0 +1,162 @@
+{
+  "new": [
+    {
+      "id": "drvkkery", "cat": "ye", "area": "merkez",
+      "title": "Have lunch among the books at De Drvkkery",
+      "desc": "On the Markt, diagonally opposite the town hall, De Drvkkery is a large bookshop with a café in the middle of it. You eat your sandwich or soup surrounded by shelves, and the tourist information desk of Middelburg is in the same building.",
+      "tip": "Pick up a book or a walking map first and read it over coffee. On Thursdays the weekly market is right outside the door.",
+      "q": "Markt 51, Middelburg", "ll": [51.4979, 3.6117],
+      "tags": ["rainy day"],
+      "src": ["https://www.zeeland.com/en/visit/3469_en/tourist-info-middelburg", "https://favorflav.com/en/new/24-hours-in-middelburg/"]
+    },
+    {
+      "id": "vliegendthert", "cat": "ye", "area": "merkez",
+      "title": "Taste wine in a patrician house at Vliegendt Hert",
+      "desc": "Vliegendt Hert is a wine bar, restaurant and wine merchant in a historic patrician house on the Dam, part of the listed complex known as the Paleis op de Dam. The shop fills the richly decorated show room with more than 500 wines, and tastings are held in the old vaulted cellar.",
+      "tip": "Sit in the sunny conservatory with a glass and a sharing board, and ask the staff for a recommendation.",
+      "q": "Vliegendt Hert, Dam 61, Middelburg", "ll": [51.5015, 3.6195],
+      "tags": ["rainy day"],
+      "src": ["https://www.vliegendthert.nl/", "https://favorflav.com/en/new/24-hours-in-middelburg/"]
+    },
+    {
+      "id": "honeypie", "cat": "ye", "area": "merkez",
+      "title": "Share a slice of cake at Honeypie",
+      "desc": "Honeypie is a small tearoom and bakery café on the canal at the edge of the old town, known for its homemade cakes in bright colours, good tea and sandwiches. It is a favourite for breakfast and for a long afternoon with something sweet.",
+      "tip": "It is closed on Mondays and it is small, so come early or outside lunchtime. The canal boats leave from the quay across the street.",
+      "q": "HoneyPie, Achter de Houttuinen 50, Middelburg", "ll": [51.4966, 3.6071],
+      "src": ["https://favorflav.com/en/new/24-hours-in-middelburg/", "https://happycow.net/reviews/honeypie-middelburg-188066"]
+    },
+    {
+      "id": "rondvaartmiddelburg", "cat": "dene", "area": "merkez",
+      "title": "Duck under the bridges on a canal boat in Middelburg",
+      "desc": "From spring to early November tour boats leave the quay at Achter de Houttuinen for a trip of about 45 minutes along the canals of Middelburg. The skipper tells the history of the trading city while you slide under a string of low bridges.",
+      "tip": "In the main season boats leave every half hour and you buy tickets at the kiosk on the quay. Go on a calm morning for the best reflections.",
+      "q": "Achter de Houttuinen 39, Middelburg", "ll": [51.4969, 3.6070],
+      "months": [4, 5, 6, 7, 8, 9, 10],
+      "src": ["https://www.rondvaartmiddelburg.nl/"]
+    },
+    {
+      "id": "bolwerken", "cat": "dene", "area": "merkez",
+      "title": "Walk the Bolwerken past windmill De Hoop",
+      "desc": "The bastions that guarded Middelburg from 1598 were turned into a park in the 1840s, in English landscape style to a design by Karel George Zocher. The result is a green walk of four kilometres along the moat around the old town, past two windmills and a Jewish cemetery.",
+      "tip": "Start at mill De Hoop on the Vlissings Bolwerk, built in 1735 and still turned by volunteer millers now and then. Information boards along the way explain what stood where.",
+      "q": "Molen De Hoop, Vlissingse Bolwerk, Middelburg", "ll": [51.4944, 3.6075],
+      "tags": ["free"],
+      "src": ["https://nl.wikipedia.org/wiki/Bolwerken_(Middelburg)", "https://nl.wikipedia.org/wiki/De_Hoop_(Middelburg)"]
+    },
+    {
+      "id": "kloveniersdoelen", "cat": "gor", "area": "merkez",
+      "title": "Count the wall anchors on the Kloveniersdoelen",
+      "desc": "The city's musketeers' guild, founded in 1509, got this hall and shooting range at the end of the Langeviele in 1611. Its Flemish Renaissance gable of brick and pale stone bands is held together by 36 ornamental wall anchors. Later it was a military hospital, and now it houses a cinema and a brasserie.",
+      "tip": "Walk through to the garden terrace behind the building for a drink away from the traffic.",
+      "q": "Kloveniersdoelen, Achter de Houttuinen, Middelburg", "ll": [51.4971, 3.6064],
+      "tags": ["free"],
+      "src": ["https://nl.wikipedia.org/wiki/Kloveniersdoelen_(Middelburg)", "https://www.zeeland.com/nl-nl/visit/2102_en/kloveniersdoelen"]
+    },
+    {
+      "id": "oostkerk", "cat": "gor", "area": "merkez",
+      "title": "Find the domed Oostkerk in the east of Middelburg",
+      "desc": "The octagonal, domed Oostkerk was built between 1648 and 1667 and was the first church in Middelburg built specially for Protestant worship. Regular services ended in 2017, but the Baroque dome still dominates the quiet eastern part of the old town.",
+      "tip": "The doors are not always open, so treat it as an outdoor sight. It is a five minute walk from the Abdij and close to the Bolwerken path.",
+      "q": "Oostkerk, Oostkerkplein, Middelburg", "ll": [51.5027, 3.6206],
+      "tags": ["free"],
+      "src": ["https://nl.wikipedia.org/wiki/Oostkerk_(Middelburg)"]
+    },
+    {
+      "id": "minimundi", "cat": "dene", "area": "merkez",
+      "title": "Tower over Walcheren in miniature at Mini Mundi",
+      "desc": "Miniatuur Walcheren was opened by Queen Juliana in 1954 as a three month show and never closed: the town halls, churches and harbours of the island rebuilt at scale 1:20. Since 2009 the models have been part of Mini Mundi, a family park on the edge of Middelburg with rides and a large indoor play hall.",
+      "tip": "Visit the real town hall and Lange Jan first, then find their miniature versions here. The indoor part makes it a safe bet with children on a wet day.",
+      "q": "Mini Mundi, Podium 35, Middelburg", "ll": [51.4804, 3.6320],
+      "tags": ["rainy day"],
+      "src": ["https://nl.wikipedia.org/wiki/Mini_Mundi", "https://www.minimundi.nl/"]
+    },
+    {
+      "id": "slotoostende", "cat": "ye", "area": "cevre",
+      "title": "Drink a house beer in the castle of Goes at Slot Oostende",
+      "desc": "Goes once had a castle in the middle of town, begun in the twelfth century and later owned by the Van Borssele family. One old hall and a tower survived inside later houses, and they have since been turned into a brewery, restaurant and hotel with its own beers on tap.",
+      "tip": "Book a brewery tour with a tasting if you want to see behind the scenes. Otherwise ask for the seasonal beer at the bar.",
+      "q": "Slot Oostende, Singelstraat 5, Goes", "ll": [51.5034, 3.8894],
+      "tags": ["rainy day"],
+      "src": ["https://www.slotoostende.nl/", "https://nl.wikipedia.org/wiki/Slot_Oostende"]
+    },
+    {
+      "id": "kleineschorre", "cat": "ye", "area": "cevre",
+      "title": "Taste Zeeland wine at De Kleine Schorre in Dreischor",
+      "desc": "On the clay of Schouwen-Duiveland, just outside the ring village of Dreischor, wine estate De Kleine Schorre grows grapes on the sea clay and makes its own Zeeland wines. The tasting room serves them by the glass with lunch, and there are tours of the vineyard and cellar.",
+      "tip": "The tasting room is closed on Mondays and takes a break in early winter. The farm shop next door sells the bottles from Monday to Saturday.",
+      "q": "Kleine Schorre, Zuiddijk 4, Dreischor", "ll": [51.6829, 3.9823],
+      "src": ["https://www.dekleineschorre.nl/", "https://proeflokaaldekleineschorre.nl/openingstijden"]
+    },
+    {
+      "id": "debiet", "cat": "ye", "area": "cevre",
+      "title": "Join the regulars at De Gekroonde Suikerbiet in Zierikzee",
+      "desc": "The Crowned Sugar Beet, De Biet to everyone in Zierikzee, has stood on the harbour since the 1870s and is named after the beet barges that once loaded here. It was voted best café in the Netherlands in 2017, and it still feels like a local pub that serves lunch, bar snacks and dinner.",
+      "tip": "It sits right on the Nieuwe Haven, so combine it with a walk along the harbour. On Friday and Saturday it stays open well past midnight.",
+      "q": "Café De Gekroonde Suikerbiet, Nieuwe Haven 141, Zierikzee", "ll": [51.6473, 3.9242],
+      "src": ["https://www.cafedebiet.nl/", "https://opschouwenduiveland.nl/en/locaties/325759232/cafe-de-gekroonde-suikerbiet"]
+    },
+    {
+      "id": "plompetoren", "cat": "gor", "area": "cevre",
+      "title": "Visit the Plompe Toren, last trace of a drowned village",
+      "desc": "This blunt church tower of 23 metres on the Oosterschelde dyke is all that remains of Koudekerke. The sea crept north, a new dyke was laid straight through the village in 1581 and the church was pulled down two years later. The tower was spared as a beacon for ships sailing to Antwerp.",
+      "tip": "The tower stands alone a few kilometres south of Burgh-Haamstede, so come by bike along the dyke. Stay for the evening light over the Oosterschelde.",
+      "q": "Plompe Toren, Plompetorenweg, Burgh-Haamstede", "ll": [51.6833, 3.7753],
+      "tags": ["free"],
+      "src": ["https://nl.wikipedia.org/wiki/Plompe_Toren_(Koudekerke)"]
+    },
+    {
+      "id": "zuidhavenpoort", "cat": "gor", "area": "cevre",
+      "title": "Hear the oldest carillon in the country at the Zuidhavenpoort",
+      "desc": "The Zuidhavenpoort guards the entrance to the old harbour of Zierikzee, with a brick core from about 1325 and four corner turrets that got their spires around 1500. In its little dome hangs a carillon cast in 1554, the oldest in the Netherlands, brought here from the old town hall.",
+      "tip": "Next to the gate stands the flood monument of 1970 by Ad Braat. Cross the bridge to the Noordhavenpoort to compare the two gates.",
+      "q": "Zuidhavenpoort, Zierikzee", "ll": [51.6476, 3.9259],
+      "tags": ["free"],
+      "src": ["https://nl.wikipedia.org/wiki/Zuidhavenpoort", "https://en.wikivoyage.org/wiki/Zierikzee"]
+    },
+    {
+      "id": "grotekerkveere", "cat": "gor", "area": "cevre",
+      "title": "Walk into the huge, hollow Grote Kerk of Veere",
+      "desc": "Veere began a church fit for a rich port in 1479, under the Flemish master builder Antoon Keldermans, but the heavy tower never rose above its first stage. A fire in 1686 took the roof, the British used the nave as a field hospital in 1809 and the French then built four wooden floors inside. It has also been a poorhouse, a warehouse and a shelter for cattle after the 1953 flood.",
+      "tip": "It is open from spring to autumn, daily in high summer and on fewer days around it. Take the audio tour and go up the tower for the view; the tower closes in autumn to protect hibernating bats.",
+      "q": "Grote Kerk, Oudestraat, Veere", "ll": [51.5472, 3.6675],
+      "months": [4, 5, 6, 7, 8, 9, 10],
+      "src": ["https://www.grotekerkveere.nl/tarieven-en-openingstijden", "https://nl.wikipedia.org/wiki/Grote_Kerk_(Veere)"]
+    },
+    {
+      "id": "sintbaafsaardenburg", "cat": "gor", "area": "cevre",
+      "title": "See painted medieval tombs in the Sint-Baafskerk of Aardenburg",
+      "desc": "Monks from Ghent founded a chapel here in 959, and the present church, begun after 1243, is the only major example of pure Scheldt Gothic in the Netherlands. In 1949 brick tombs from the fourteenth century were found under the floor, painted on the inside with the Virgin Mary and the Crucifixion, and several are now on show in the church.",
+      "tip": "Look for the grey Tournai stone in the walls, some of it reused from Roman buildings. Opening is mostly in the warmer months, so check before making a special trip.",
+      "q": "Sint-Baafskerk, Aardenburg", "ll": [51.2728, 3.4483],
+      "tags": ["free"],
+      "src": ["https://nl.wikipedia.org/wiki/Sint-Baafskerk_(Aardenburg)"]
+    },
+    {
+      "id": "manteling", "cat": "dene", "area": "cevre",
+      "title": "Walk the wind-bent oak woods of De Manteling",
+      "desc": "Between Domburg and the Veerse Gatdam, low oak woods with twisting trunks grow right behind the dunes, closer to the sea than almost anywhere else in Europe. They were planted in the eighteenth century to shelter country estates such as Westhove, a castle first recorded in 1277 that belonged to the abbey of Middelburg.",
+      "tip": "Start at Kasteel Westhove near Oostkapelle and follow the paths to the dunes and the beach. In early spring the estates are carpeted with snowdrops, wild tulips and wood anemones.",
+      "q": "Kasteel Westhove, Oostkapelle", "ll": [51.5685, 3.5178],
+      "tags": ["free"],
+      "src": ["https://nl.wikipedia.org/wiki/Manteling_van_Walcheren", "https://nl.wikipedia.org/wiki/Kasteel_Westhove"]
+    },
+    {
+      "id": "westerscheldeferry", "cat": "dene", "area": "cevre",
+      "title": "Take the ferry across the Westerschelde to Breskens",
+      "desc": "There has been a ferry between Vlissingen and Breskens since 1574. Car ferries stopped when the Westerschelde tunnel opened in 2003, but a fast boat for walkers and cyclists still crosses all year, straight through the shipping lane to Antwerp.",
+      "tip": "Take a bike: on the other side you are a short ride from the beach and the Breskens lighthouse. Tickets are a little cheaper online than at the terminal.",
+      "q": "Westerschelde Ferry, Westerhavenweg 2a, Vlissingen", "ll": [51.4442, 3.5967],
+      "src": ["https://www.westerscheldeferry.nl/", "https://nl.wikipedia.org/wiki/Westerschelde_Ferry"]
+    },
+    {
+      "id": "waterdunen", "cat": "dene", "area": "cevre",
+      "title": "Watch spoonbills from the hides of Waterdunen",
+      "desc": "West of Breskens, 350 hectares of farmland and a former campsite were turned into tidal nature: a culvert in the sea dyke lets the Westerschelde flow in and out over creeks, mudflats and islands. The area opened to visitors at the end of 2021, with hides and screens that bring you close to avocets, spoonbills and terns.",
+      "tip": "The bird route of 5.5 kilometres is the easiest of the three walking loops. Entry is free from sunrise to sunset, parking is paid, and dogs and bikes are not allowed inside.",
+      "q": "Waterdunen, Walendijk 9, Breskens", "ll": [51.4010, 3.4938],
+      "tags": ["free"],
+      "src": ["https://www.hetzeeuwselandschap.nl/natuurgebieden/waterdunen", "https://nl.wikipedia.org/wiki/Waterdunen_(natuur-_en_recreatiegebied)"]
+    }
+  ]
+}

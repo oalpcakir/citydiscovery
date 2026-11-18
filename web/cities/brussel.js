@@ -58,7 +58,7 @@ window.CITIES.brussel = {
     planetarium: [50.8933, 4.3374], laerbeek: [50.8847, 4.3011], hallebasilica: [50.7368, 4.2374],
     vilvoordetyndale: [50.9323, 4.4239], driefonteinenpark: [50.9174, 4.4058], oudbeersel: [50.7587, 4.3008],
     grotedorst: [50.8318, 4.1398], coloma: [50.7791, 4.2496], groenendaal: [50.7686, 4.4415],
-    floralia: [50.8737, 4.2626]
+    floralia: [50.8737, 4.2626], druifoverijse: [50.7724, 4.5374]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -405,6 +405,9 @@ window.CITIES.brussel = {
       tip: "Groenendaal has its own train station. From the museum, well-marked trails lead into the beech cathedral of the forest and around the ponds.", q: "Bosmuseum Jan van Ruusbroec, Duboislaan 2, Hoeilaart", src: ["https://en.wikipedia.org/wiki/Groenendael_Priory", "https://nl.wikipedia.org/wiki/Priorij_van_Groenendaal"] },
     { id: "floralia", cat: "dene", area: "cevre", title: "Wander a million tulips at Floralia in Groot-Bijgaarden",
       desc: "Every spring the park of the moated Groot-Bijgaarden castle is planted with more than a million bulbs for Floralia Brussels. Tulips, daffodils and hyacinths bloom in waves for about a month, from flower carpets under old trees to a colourful maze.",
-      tip: "It usually runs from early April to early May; go in mid-April for the peak of the tulips and arrive early on weekends.", q: "Kasteel van Groot-Bijgaarden, Isidoor Van Beverenstraat 5, Dilbeek", months: [4, 5], src: ["https://www.floralia-brussels.be/en", "https://nl.wikipedia.org/wiki/Kasteel_van_Groot-Bijgaarden"] }
+      tip: "It usually runs from early April to early May; go in mid-April for the peak of the tulips and arrive early on weekends.", q: "Kasteel van Groot-Bijgaarden, Isidoor Van Beverenstraat 5, Dilbeek", months: [4, 5], src: ["https://www.floralia-brussels.be/en", "https://nl.wikipedia.org/wiki/Kasteel_van_Groot-Bijgaarden"] },
+    { id: "druifoverijse", cat: "gor", area: "cevre", title: "Learn the story of the glass villages at Dru!f in Overijse",
+      desc: "The hills south-east of Brussels once held up to 35,000 greenhouses growing table grapes, which earned them the name of the glass villages. Dru!f, the visitor centre in the middle of Overijse, tells that story in an interactive exhibition and has its own café.",
+      tip: "Local table grapes are sold mainly from August to October, often straight from the few growers who are left. Check the opening hours with the town before you go.", q: "Bezoekerscentrum Dru!f, Waversesteenweg 2, Overijse", tags: ["rainy day"], src: ["https://streekproduct.be/weetjes/opening-bezoekerscentrum-druf", "https://www.vrt.be/vrtnws/en/2026/07/23/_table-grapes-from-flemish-brabant-are-world-class.consumer/"] }
   ]
 };

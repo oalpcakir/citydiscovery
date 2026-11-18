@@ -33,7 +33,10 @@ window.CITIES.aachen = {
     senfmuehle: [50.5628, 6.2384], duetchenkaulard: [50.5555, 6.2413], vennbrocken: [50.5562, 6.2405],
     flammkuchenburg: [50.6331, 6.4800], mariawald: [50.6250, 6.4990], weihnachtsmarktmonschau: [50.5553, 6.2414],
     narzissenperlenbach: [50.5262, 6.2554], rurseeschiff: [50.6150, 6.3780], annakirmes: [50.7964, 6.4741],
-    papiermuseum: [50.8008, 6.4794], blausteinsee: [50.8550, 6.2742]
+    papiermuseum: [50.8008, 6.4794], blausteinsee: [50.8550, 6.2742], amknipp: [50.7790, 6.0842],
+    postwagen: [50.7757, 6.0842], suermondtludwig: [50.7735, 6.0953], marschiertor: [50.7682, 6.0869],
+    dreilaenderpunkt: [50.7545, 6.0209], maassenkaffee: [50.5527, 6.2417], wochenmarktdueren: [50.8024, 6.4840],
+    burgmonschau: [50.5532, 6.2397]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -190,6 +193,30 @@ window.CITIES.aachen = {
       tip: "Paper-making for walk-in visitors is on Sunday afternoons; the Leopold-Hoesch-Museum for modern art is next door.", q: "Papiermuseum Düren, Wallstraße", tags: ["rainy day"], src: ["https://de.wikipedia.org/wiki/Papiermuseum_D%C3%BCren"] },
     { id: "blausteinsee", cat: "dene", area: "cevre", title: "Swim in a former lignite mine at the Blausteinsee",
       desc: "Eschweiler's lake filled a lignite pit from 1994 and is now a favourite for swimming, sailing and diving, with a sunken truck and an angel figure for divers.",
-      tip: "The bathing beach with food is on the western shore; sailing and surfing are on the open water.", q: "Blausteinsee, Eschweiler", src: ["https://de.wikipedia.org/wiki/Blausteinsee", "https://www.22places.com/aachen-travel-guide/"] }
+      tip: "The bathing beach with food is on the western shore; sailing and surfing are on the open water.", q: "Blausteinsee, Eschweiler", src: ["https://de.wikipedia.org/wiki/Blausteinsee", "https://www.22places.com/aachen-travel-guide/"] },
+    { id: "amknipp", cat: "ye", area: "merkez", title: "Eat under the beams at Am Knipp, an inn since 1698",
+      desc: "Am Knipp on Bergdriesch has been feeding Aachen since 1698, which makes it the oldest restaurant in town. Inside it still looks like an old Öcher pub, with dark beams and long tables for more than 200 guests, and regional cooking on the plates.",
+      tip: "It only opens in the evening, from 17:30, and stays shut on Monday and Tuesday. In summer ask for the beer garden under its open canopy, and book ahead at weekends.", q: "Am Knipp, Bergdriesch 3, Aachen", src: ["https://www.aachen-tourismus.de/en/aachen-entdecken/details/gastro/am-knipp/", "https://www.amknipp.de/"] },
+    { id: "postwagen", cat: "ye", area: "merkez", title: "Squeeze into the Postwagen on the corner of the Rathaus",
+      desc: "A little wooden house clings to the corner of the town hall right on the Markt. It once served as a post station and later became a restaurant, and today its 80 seats sit among old walls and warm wood, with down-to-earth regional dishes on the menu.",
+      tip: "Ask for a window seat looking onto the market square when you book. It is a good place to try Rhineland classics after a visit to the Coronation Hall next door.", q: "Krämerstraße 2, Aachen", src: ["https://charlie.aachen-tourismus.de/en/gastro/postwagen-zum-ratskeller"] },
+    { id: "suermondtludwig", cat: "gor", area: "merkez", title: "See Dürer prints in a Venetian-style villa",
+      desc: "The Suermondt-Ludwig-Museum was founded in 1883 and named after the industrialist and collector Barthold Suermondt. Since 1901 it has filled the Villa Cassalette, whose facade copies the Biblioteca Marciana in Venice, with painting and sculpture from the 12th to the 18th century, stained glass, and prints by Dürer, Rembrandt and Goya.",
+      tip: "It is closed on Mondays and only opens in the afternoon on Tuesdays and Wednesdays. The stained glass is easy to miss, so look for it before you leave.", q: "Suermondt-Ludwig-Museum, Wilhelmstraße 18, Aachen", tags: ["rainy day"], src: ["https://de.wikipedia.org/wiki/Suermondt-Ludwig-Museum", "https://suermondt-ludwig-museum.de/"] },
+    { id: "marschiertor", cat: "gor", area: "merkez", title: "Size up the mighty Marschiertor",
+      desc: "The southern gate of Aachen's outer wall was begun around 1257 and finished shortly after 1300, and it counts among the most powerful city gates still standing in Western Europe. Over the centuries it has been an arsenal, a storeroom, a homeless shelter and a youth hostel. Since 1964 the carnival guard Oecher Penn has had its headquarters inside.",
+      tip: "Walk through the passage and look back from Franzstraße to take in its full bulk. It is five minutes on foot from the main station, so it fits neatly at the start or end of a day.", q: "Marschiertor, Aachen", tags: ["free"], src: ["https://de.wikipedia.org/wiki/Marschiertor", "https://en.wikivoyage.org/wiki/Aachen"] },
+    { id: "dreilaenderpunkt", cat: "dene", area: "merkez", title: "Stand in three countries at the Dreiländerpunkt",
+      desc: "On the Vaalserberg, about 5 km from the centre of Aachen, Germany, the Netherlands and Belgium meet at a single point. From 1839 to 1919 a fourth territory touched here too, the tiny neutral zone of Moresnet. The hilltop is also the highest point of the European Netherlands at 322 metres.",
+      tip: "Walk up through the woods from Vaalserquartier rather than driving round to the Dutch car park. On top you can climb the Belgian Baudouin Tower or get lost in the hedge maze, which takes about 45 minutes to solve.", q: "Dreiländerpunkt, Vaals", tags: ["free"], src: ["https://de.wikipedia.org/wiki/Vaalserberg"] },
+    { id: "maassenkaffee", cat: "ye", area: "cevre", title: "Follow the smell of coffee to the Maassen roastery",
+      desc: "On Stadtstraße in Monschau the Maassen family has roasted coffee since 1862, when Wilhelm Maassen began refining the craft. His great-great-grandsons run the roasting house today, in the middle of the half-timbered old town.",
+      tip: "Step inside to buy a bag of freshly roasted beans to take home. Small groups can book a guided tour with a tasting by phone.", q: "Stadtstraße 24, Monschau", src: ["https://freizeitportal.staedteregion-aachen.de/en/a-caffee-roesterei-wilhelm-maassen-1", "https://en.wikivoyage.org/wiki/Monschau"] },
+    { id: "wochenmarktdueren", cat: "ye", area: "cevre", title: "Fill a basket at the Düren weekly market",
+      desc: "Three mornings a week the Marktplatz in the middle of Düren fills with market stalls. The Wochenmarkt runs on Tuesdays, Thursdays and Saturdays and is where the town does its shopping and its chatting.",
+      tip: "It starts at 7:00 from April to September and at 8:00 from October to March, and packs up at 13:30. Come before eleven for the best choice.", q: "Markt, Düren", src: ["https://www.dueren.de/kultur-tourismus/maerkte/wochenmarkt"] },
+    { id: "burgmonschau", cat: "gor", area: "cevre", title: "Climb to Burg Monschau above the slate roofs",
+      desc: "The castle above Monschau was first recorded in 1217 and was shelled and plundered by the troops of Emperor Charles V in 1543. In 1836 its owners took the roofs off to dodge a building tax and it fell into ruin, until the town bought it in 1900. The rebuilt main hall has been a youth hostel since 1929, and in 1971 Christo and Jeanne-Claude wrapped the castle in fabric.",
+      tip: "The steep climb from the old town is short and rewards you with a fine view over the Rur and the roofs. In summer the upper courtyard hosts open-air concerts, including the Monschau Klassik festival.", q: "Burg Monschau, Monschau", src: ["https://de.wikipedia.org/wiki/Burg_Monschau", "https://en.wikivoyage.org/wiki/Monschau"] }
   ]
 };

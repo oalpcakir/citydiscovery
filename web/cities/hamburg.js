@@ -72,7 +72,7 @@ window.CITIES.hamburg = {
     hccosmae: [53.6019, 9.4763], hcluehefaehre: [53.5730, 9.6333], hcglueckstadtfaehre: [53.7948, 9.4030],
     hcduene: [54.1847, 7.9122], hcwasserturm: [53.2467, 10.4130], hckalkberg: [53.2494, 10.3969],
     hchaseldorf: [53.6346, 9.5720], hckrautsand: [53.7516, 9.3912], hclopausee: [53.1313, 10.2301],
-    hcbluete: [53.5330, 9.6800]
+    hcbluete: [53.5330, 9.6800], schlossreinbek: [53.5073, 10.2539]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -569,6 +569,9 @@ window.CITIES.hamburg = {
       tip: "In August the village's traditional Heideblütenfest opens with a laser show over the lake, and a new heath queen is crowned. Bring a bike to explore the Lopau valley afterwards.", q: "Lopausee, Amelinghausen", months: [6, 7, 8], src: ["https://de.wikipedia.org/wiki/Lopausee", "https://www.amelinghausen.de"] },
     { id: "hcbluete", cat: "dene", area: "cevre", title: "Cycle through the Altes Land in blossom",
       desc: "The Altes Land covers 143 square kilometres of orchards, the largest connected fruit-growing area in northern Europe, and in spring millions of cherry and apple trees bloom white and pink. Jork celebrates with the Blütenfest, a parade through the village and the crowning of a blossom queen.",
-      tip: "Check the Blütenbarometer before you go, as bloom moves with the weather. The two marked Obstroute loops of about 36 kilometres follow the dykes past the farms.", q: "Marktplatz, Jork", months: [4, 5], tags: ["free"], src: ["https://www.hamburg.de/freizeit/ausfluege/altes-land-305594", "https://en.wikipedia.org/wiki/Altes_Land"] }
+      tip: "Check the Blütenbarometer before you go, as bloom moves with the weather. The two marked Obstroute loops of about 36 kilometres follow the dykes past the farms.", q: "Marktplatz, Jork", months: [4, 5], tags: ["free"], src: ["https://www.hamburg.de/freizeit/ausfluege/altes-land-305594", "https://en.wikipedia.org/wiki/Altes_Land"] },
+    { id: "schlossreinbek", cat: "gor", area: "cevre", title: "Tour Schloss Reinbek, a Dutch Renaissance palace",
+      desc: "Schloss Reinbek was built from 1572 to 1576 for Duke Adolf I of Schleswig-Holstein-Gottorf, with Dutch craftsmen on the site. The three brick wings with sandstone trim were restored between 1977 and 1987, and the palace is now the town's arts centre, with painted beam ceilings, exhibitions and concerts.",
+      tip: "The palace sits in a park of old trees on the mill pond. The attic, called the Krummspanner, holds changing exhibitions and a room on the town's history.", q: "Schloss Reinbek, Reinbek", tags: ["rainy day"], src: ["https://de.wikipedia.org/wiki/Schloss_Reinbek", "https://www.schloss-reinbek.de"] }
   ]
 };

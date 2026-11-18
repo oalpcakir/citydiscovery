@@ -33,7 +33,9 @@ window.CITIES.trier = {
     spiessbraten: [49.7050, 7.3279], kellerweihnachtsmarkt: [49.9510, 7.1170], perlauxerrois: [49.4733, 6.3926],
     baumwipfelpfad: [49.5045, 6.5382], cloefpfad: [49.4999, 6.5450], villaborg: [49.4968, 6.4582],
     teufelsschlucht: [49.8467, 6.4354], steinkaulenberg: [49.7292, 7.2873], manderscheidburgen: [50.0913, 6.8124],
-    meerfeldermaar: [50.0989, 6.7561], erbeskopf: [49.7295, 7.0890]
+    meerfeldermaar: [50.0989, 6.7561], erbeskopf: [49.7295, 7.0890], barbarathermen: [49.7501, 6.6303],
+    blesiusgarten: [49.7434, 6.6599], klostermachern: [49.9551, 7.0019], saeubrennerkirmes: [49.9860, 6.8871],
+    klausekastel: [49.5680, 6.5705], wolfsparkmerzig: [49.4727, 6.6429], burglandshut: [49.9112, 7.0746]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -190,6 +192,27 @@ window.CITIES.trier = {
       tip: "Detour to the Landesblick tower; in summer, cool off in Meerfeld's natural pool.", q: "Meerfelder Maar, Meerfeld", tags: ["free"], src: ["https://www.ich-geh-wandern.de/ums-meerfelder-maar-und-zum-aussichtsturm-landesblick"] },
     { id: "erbeskopf", cat: "dene", area: "cevre", title: "Climb the Windklang on the Erbeskopf",
       desc: "At 816 metres the Erbeskopf in the Hunsrück is the highest point in Rhineland-Palatinate. The walk-on Windklang sculpture and a wooden tower look out over the Hunsrück-Hochwald forests.",
-      tip: "In winter there are ski lifts here; in summer there is a toboggan run.", q: "Erbeskopf, Hilscheid", tags: ["free"], src: ["https://en.wikipedia.org/wiki/Erbeskopf"] }
+      tip: "In winter there are ski lifts here; in summer there is a toboggan run.", q: "Erbeskopf, Hilscheid", tags: ["free"], src: ["https://en.wikipedia.org/wiki/Erbeskopf"] },
+    { id: "barbarathermen", cat: "gor", area: "merkez", title: "Walk above the Barbarathermen, once Rome's second largest baths",
+      desc: "Built in the second half of the 2nd century, these baths covered about 42,500 square metres, which made them the largest north of the Alps and second in the whole empire only to Trajan's Baths in Rome. Later the ruins served as housing and as a quarry, and French troops blew up what was left in 1675. Since 2015 a walkway with information boards has led visitors across the site.",
+      tip: "Entry is free, which makes this the easiest of the UNESCO-listed Roman monuments to drop into. It is a short walk from the Römerbrücke, so combine the two.", q: "Barbarathermen, Trier", tags: ["free"], src: ["https://de.wikipedia.org/wiki/Barbarathermen", "https://en.wikivoyage.org/wiki/Trier"] },
+    { id: "blesiusgarten", cat: "ye", area: "merkez", title: "Drink house-brewed Kraft Bräu in Olewig",
+      desc: "In the wine village of Olewig, of all places, the family-run Blesius Garten brews its own beer. The house brewery is called Kraft Bräu, and its beers are poured in a rustic restaurant and in a large beer garden beside the country-house hotel.",
+      tip: "Walk here from the amphitheatre over the Weinkulturpfad and you will have earned the first glass. On weekdays it tends to open in the afternoon, at weekends from noon.", q: "Blesius Garten, Olewiger Straße 135, Trier", src: ["https://www.blesius-garten.de/", "https://en.wikivoyage.org/wiki/Trier"] },
+    { id: "klostermachern", cat: "ye", area: "cevre", title: "Order a monastery beer at Kloster Machern",
+      desc: "Cistercian nuns lived at Machern from around 1230 until the French dissolved the convent in 1802. Today the complex by the Zeltingen bridge houses a monastery brewery with its own brewpub, where the house beers are brewed on site. A museum under the same roof shows dolls and tin toys from 1850 to 1925 and about 200 icons.",
+      tip: "From March to December the brewpub opens every day from 11:00, but in January and February only from Friday to Sunday. It sits right on the Moselle opposite Zeltingen, so it makes a natural stop on a bike ride along the river.", q: "Kloster Machern", tags: ["rainy day"], src: ["https://www.brauhaus-kloster-machern.de/", "https://de.wikipedia.org/wiki/Kloster_Machern"] },
+    { id: "saeubrennerkirmes", cat: "ye", area: "cevre", title: "Eat spit-roast pork at Wittlich's Säubrennerkirmes",
+      desc: "Legend says Wittlich was once captured and burned because a sow ate the turnip that was bolting the town gate. Since 1950 the town has celebrated the story on the third weekend of August, roasting pigs on spits and selling the meat on the Marktplatz. Wine stalls and a music stage fill the square, with a funfair around the Viehmarktplatz.",
+      tip: "Head for the roast pork stand on the market square and add a glass of Moselle wine from one of the stalls. Evenings get very crowded, so come in the afternoon if you want a seat.", q: "Marktplatz, Wittlich", months: [8], src: ["https://de.wikipedia.org/wiki/S%C3%A4ubrennerkirmes"] },
+    { id: "klausekastel", cat: "gor", area: "cevre", title: "Visit the cliff-top hermitage at Kastel-Staadt",
+      desc: "Monks carved a hermitage into the sandstone cliff above the Saar in the 13th century. In 1834 and 1835 the Prussian architect Karl Friedrich Schinkel built a chapel on the ruins as a tomb for the blind King John of Bohemia, who fell at Crécy in 1346 and was laid to rest here in 1838. His remains went to Luxembourg in 1945, but the chapel and its wide view over the river valley are still there.",
+      tip: "Leave time to walk around the plateau for the views down to the Saar. Saarburg is a short drive away and pairs well with a visit.", q: "Klause, Kastel-Staadt", src: ["https://de.wikipedia.org/wiki/Klause_Kastel"] },
+    { id: "wolfsparkmerzig", cat: "dene", area: "cevre", title: "Walk among wolf packs in the Merzig forest",
+      desc: "The wolf researcher Werner Freund and his wife founded this park in the Kammerforst above Merzig in 1977 and studied hand-raised wolves here. Today the town runs the 8 hectare site, where more than 20 wolves from different parts of the world live in seven packs.",
+      tip: "The park is open daily from 9:00 to 17:00 and dogs are not allowed in. On the first Sunday of the month a free guided tour starts at 16:00 by the Arctic wolves.", q: "Wolfspark Werner Freund, Merzig", src: ["https://www.wolfspark-wernerfreund.de/", "https://de.wikipedia.org/wiki/Wolfspark_Werner_Freund"] },
+    { id: "burglandshut", cat: "dene", area: "cevre", title: "Hike up to Burg Landshut above Bernkastel",
+      desc: "The Archbishop of Trier, Heinrich von Finstingen, built this castle at the end of the 13th century on the foundations of a late Roman fort that guarded the supply route along the Moselle. An accidental fire destroyed it on 8 January 1692 and it was never rebuilt. The keep can still be climbed for a view over the bend of the river and the Moselle valley.",
+      tip: "The path up from the old town is steep but short. There is a restaurant inside the ruin, so you can reward yourself with a glass of Riesling at the top.", q: "Burg Landshut, Bernkastel-Kues", src: ["https://de.wikipedia.org/wiki/Burg_Landshut"] }
   ]
 };

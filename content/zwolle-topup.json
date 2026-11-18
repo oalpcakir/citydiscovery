@@ -1,0 +1,341 @@
+{
+  "new": [
+    {
+      "id": "davozwolle",
+      "cat": "ye",
+      "area": "merkez",
+      "title": "Work down the tap list at DAVO Zwolle",
+      "desc": "The Deventer craft brewery DAVO opened its third taproom in the heart of Zwolle, on the Grote Kerkplein, in 2020. Fifteen beers are on tap, with more in the fridge.",
+      "tip": "The current tap list is posted online, so you can pick before you go. The upstairs room can be hired for groups, so the ground floor is where to sit.",
+      "q": "DAVO Grote Kerkplein Zwolle",
+      "ll": [
+        52.5113,
+        6.0919
+      ],
+      "src": [
+        "https://davobieren.nl/proeflokalen/zwolle"
+      ]
+    },
+    {
+      "id": "deheksdeventer",
+      "cat": "ye",
+      "area": "cevre",
+      "title": "Order the house beer at De Heks in Deventer",
+      "desc": "Tucked behind the Waag in the old centre, De Heks is one of the oldest places to drink in Deventer, where an inn stood as early as the 1300s. Today it is a specialist beer café with 27 taps and more than a hundred bottles, mostly from Dutch brewers.",
+      "tip": "Ask for the Heks house beer, a pale ale. The room is small, so come early in the evening for a seat.",
+      "q": "De Heks Brink Deventer",
+      "ll": [
+        52.251,
+        6.1594
+      ],
+      "src": [
+        "https://www.deheks.nl",
+        "https://en.wikivoyage.org/wiki/Deventer"
+      ]
+    },
+    {
+      "id": "zalkerveer",
+      "cat": "ye",
+      "area": "cevre",
+      "title": "Eat apple pie at Theehuis Zalkerveer",
+      "desc": "At 's-Heerenbroek a small tea house sits beside the landing of the Zalkerveer, a little ferry for walkers and cyclists that crosses the IJssel to the village of Zalk. Cyclists on the ferry routes around Zwolle stop here for its well known apple pie and the river view.",
+      "tip": "The ferry runs daily from April to the end of October, from 10:00 to 18:00. In winter the tea house opens on weekdays only.",
+      "q": "Theehuis Zalkerveer 's-Heerenbroek",
+      "ll": [
+        52.5331,
+        6.0157
+      ],
+      "src": [
+        "https://zalkerveer.nl/",
+        "https://www.anwb.nl/fietsroutes/routes/pontjesroute-zwolle"
+      ]
+    },
+    {
+      "id": "smitspaviljoen",
+      "cat": "ye",
+      "area": "cevre",
+      "title": "Lunch on the water at Smit's Paviljoen",
+      "desc": "Smit's Paviljoen stands on the edge of the Bovenwijde, the lake beside Giethoorn. It is a restaurant with its own harbour, from which you sail straight onto the lake, and the menu runs from pancakes and lunch to high tea.",
+      "tip": "You can rent a whisper boat or a punt here as well, or order a picnic basket to take out on the water. The car park is further along the Binnenpad.",
+      "q": "Smit's Paviljoen Binnenpad Giethoorn",
+      "ll": [
+        52.7265,
+        6.0949
+      ],
+      "src": [
+        "https://www.smitspaviljoen.nl"
+      ]
+    },
+    {
+      "id": "herbergdeklomp",
+      "cat": "ye",
+      "area": "cevre",
+      "title": "Stop for lunch at Herberg de Klomp in Vilsteren",
+      "desc": "This inn is the meeting point of Vilsteren, a small village in the Vecht valley between Dalfsen and Ommen. The brasserie serves lunch from noon to four, inside or on the terrace, and the restaurant marks the seasons, with a game menu in autumn.",
+      "tip": "It is closed on Mondays. Go for a walk in the surrounding countryside first to earn your lunch.",
+      "q": "De Klomp Vilsterseweg Vilsteren",
+      "ll": [
+        52.5109,
+        6.3544
+      ],
+      "src": [
+        "https://herbergdeklomp.nl/"
+      ]
+    },
+    {
+      "id": "koornmarktspoort",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Find Kampen's oldest gate on the IJssel quay",
+      "desc": "The Koornmarktspoort is the oldest of Kampen's city gates. Its front looks out over the IJssel as part of the town's famous river front, while the back opens onto the Koornmarkt. It was once plastered white and has since been returned to its original look.",
+      "tip": "Walk the quay from here for the classic view of the river front, then go back through town past the other two gates.",
+      "q": "Koornmarktspoort Kampen",
+      "ll": [
+        52.5554,
+        5.9215
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Koornmarktspoort",
+        "https://en.wikivoyage.org/wiki/Kampen"
+      ]
+    },
+    {
+      "id": "ikonenmuseum",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "See Russian icons in a Kampen monastery",
+      "desc": "Since 2005 the dormitory and former sick room of an old Franciscan monastery in Kampen have housed one of the few museums in western Europe devoted to icons. The collection counts more than 2,000 icons, mainly Russian, shown over two floors with changing exhibitions.",
+      "tip": "It is a quiet, compact museum. Check the opening days before you travel.",
+      "q": "Ikonenmuseum Kampen",
+      "ll": [
+        52.5587,
+        5.9153
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Ikonenmuseum_Kampen"
+      ]
+    },
+    {
+      "id": "nijenhuis",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Roam the sculpture garden of Kasteel het Nijenhuis",
+      "desc": "This manor near Heino is the country location of Museum de Fundatie. The collector Dirk Hannema lived here from 1958 until 1984, and the garden around the house holds more than ninety sculptures from the 20th and 21st centuries.",
+      "tip": "Check the Fundatie website for opening days before setting off. It is a good cycling target from Zwolle through the Salland countryside.",
+      "q": "Kasteel het Nijenhuis Heino",
+      "ll": [
+        52.4165,
+        6.2135
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/Museum_de_Fundatie",
+        "https://museumdefundatie.nl/nl/bezoek-het-museum"
+      ]
+    },
+    {
+      "id": "rechteren",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Spot Kasteel Rechteren on its island",
+      "desc": "Kasteel Rechteren near Dalfsen stands on an island in a dead arm of the Vecht and is the only medieval castle in Overijssel to survive whole. The same family has owned it for centuries and descendants still live there.",
+      "tip": "The castle is private, so you look from the gate and the stone bridge. It makes a good stop on a bike ride along the Vecht from Zwolle to Dalfsen.",
+      "q": "Kasteel Rechteren Dalfsen",
+      "ll": [
+        52.4978,
+        6.2894
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Kasteel_Rechteren"
+      ]
+    },
+    {
+      "id": "waagdeventer",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Find the counterfeiters' kettle at the Deventer Waag",
+      "desc": "The late Gothic Waag on the Brink was built from 1528 to 1531 and is the oldest purpose built weigh house in the country. It leans about 80 centimetres, and for centuries a copper kettle from 1434 hung on its wall, in which forgers of coins were boiled.",
+      "tip": "Napoleonic soldiers shot holes in the kettle in 1813, and a replica now hangs outside. Museum De Waag inside covers the history of the city and is closed on Mondays.",
+      "q": "De Waag Brink Deventer",
+      "ll": [
+        52.2515,
+        6.16
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Waag_(Deventer)",
+        "https://en.wikivoyage.org/wiki/Deventer"
+      ]
+    },
+    {
+      "id": "holtencemetery",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Pay your respects at the Canadian cemetery in Holten",
+      "desc": "In the woods of the Holterberg lie 1,394 soldiers of the Second World War, 1,355 of them Canadians. The ground was given to the Canadian government, and the Commonwealth War Graves Commission maintains the cemetery.",
+      "tip": "The Natuurmuseum Holterberg is about 250 metres away, with places to eat around it, so the two combine well.",
+      "q": "Canadese Begraafplaats Holten",
+      "ll": [
+        52.2995,
+        6.428
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Holten_Canadian_War_Cemetery",
+        "https://nl.wikipedia.org/wiki/Natuurmuseum_Holterberg"
+      ]
+    },
+    {
+      "id": "bolwerksmolen",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Cross the IJssel to the Bolwerksmolen in Deventer",
+      "desc": "On the west bank of the IJssel, close to the Wilhelminabrug, stands a wind powered sawmill that has been a listed national monument since 1968. From this side of the river you also get the skyline of Deventer across the water.",
+      "tip": "The mill is usually open to visitors on working days from April to September. Walk over the bridge from the centre.",
+      "q": "Bolwerksmolen Deventer",
+      "ll": [
+        52.2467,
+        6.1542
+      ],
+      "months": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Bolwerksmolen",
+        "https://en.wikivoyage.org/wiki/Deventer"
+      ]
+    },
+    {
+      "id": "wijthmenerplas",
+      "cat": "dene",
+      "area": "dogu",
+      "title": "Take a swim in the Wijthmenerplas",
+      "desc": "This lake east of the city was created in the 1970s when sand was dug for roads and dykes. The water covers 22 hectares in a wooded recreation area of about fifty, with sandy beaches, lawns, showers and three swimming spots.",
+      "tip": "Entry is free. One stretch of the shore is set aside for naturists, so pick your beach accordingly.",
+      "q": "Wijthmenerplas Zwolle",
+      "ll": [
+        52.4967,
+        6.1542
+      ],
+      "tags": [
+        "free"
+      ],
+      "months": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Wijthmenerplas",
+        "https://zwemindex.nl/zwolle/recreatieplas"
+      ]
+    },
+    {
+      "id": "milligerplas",
+      "cat": "dene",
+      "area": "ijssel",
+      "title": "Hit the beach at the Milligerplas",
+      "desc": "The Milligerplas is the swimming lake of Stadshagen, the big district in the west of Zwolle. It has a sandy beach, lawns, play equipment and room for surfing, and the beach pavilion Milligers has a restaurant, a snack bar and a terrace.",
+      "tip": "Swimming is free. The pavilion is open every day, so you can stay on for a drink by the water.",
+      "q": "Milligerplas Zwolle",
+      "ll": [
+        52.5487,
+        6.0639
+      ],
+      "tags": [
+        "free"
+      ],
+      "months": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "src": [
+        "https://zwemindex.nl/zwolle/recreatieplas",
+        "https://milligers.nl/",
+        "https://en.visitzwolle.com/50553/districts-in-zwolle/"
+      ]
+    },
+    {
+      "id": "sallandseheuvelrug",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Walk the purple heath of the Sallandse Heuvelrug",
+      "desc": "This national park of about 35 square kilometres between Nijverdal and Holten is known for its rolling heath, which turns purple in late summer. It holds the last Dutch population of black grouse, and its highest point, the Koningsbelt, reaches 75 metres.",
+      "tip": "Start at the visitor centre along the main road in Nijverdal, which has an exhibition on the area and a public observatory.",
+      "q": "Buitencentrum Sallandse Heuvelrug Nijverdal",
+      "ll": [
+        52.3659,
+        6.4436
+      ],
+      "tags": [
+        "free"
+      ],
+      "months": [
+        8,
+        9
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/Sallandse_Heuvelrug_National_Park",
+        "https://nl.wikipedia.org/wiki/Holterberg"
+      ]
+    },
+    {
+      "id": "watertorensintjansklooster",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Climb the water tower above De Wieden",
+      "desc": "The water tower of Sint Jansklooster was built in 1931 and 1932 and stands 45.7 metres tall. It has been converted into a lookout over the Weerribben-Wieden national park, with windows facing Steenwijk, Emmeloord, Zwolle and Meppel.",
+      "tip": "Climbs are offered by Natuurmonumenten on set days, so check the agenda of the De Wieden visitor centre on the Beulakerpad before you go.",
+      "q": "Watertoren Sint Jansklooster",
+      "ll": [
+        52.676,
+        6.0125
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Watertoren_(Sint_Jansklooster)",
+        "https://www.natuurmonumenten.nl/natuurgebieden/de-wieden/bezoekerscentrum-de-wieden"
+      ]
+    },
+    {
+      "id": "lemelerberg",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Hike up the Lemelerberg for a Salland view",
+      "desc": "The Lemelerberg is a ridge pushed up by the ice, west of the village of Lemele near Ommen, and rises to more than 60 metres. The Archemerberg at its northern end is the highest part at 77.9 metres.",
+      "tip": "Combine both tops in one loop. The paths are sandy and hilly by Dutch standards, so wear proper shoes.",
+      "q": "Lemelerberg Lemele",
+      "ll": [
+        52.4587,
+        6.3973
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Lemelerberg"
+      ]
+    }
+  ]
+}

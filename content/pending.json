@@ -1,0 +1,88 @@
+{
+  "_comment": "Researched quests held back: not yet in any region file. See _note on each.",
+  "new": [
+    {
+      "id": "totenmaar",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Find the lonely chapel on the Totenmaar",
+      "desc": "The Weinfelder Maar near Daun is a volcanic crater lake 51 metres deep, formed about 30,000 years ago, and it is also known as the Totenmaar, the lake of the dead. A small chapel stands beside it, partly from the 14th century, which was the parish church of Weinfeld until plague emptied the village in the 16th century. Its graveyard is still used by nearby Schalkenmehren.",
+      "tip": "Walk the path around the lake, which is about 1.5 km, and go in the morning when it is quietest. There is no swimming here, so save that for the neighbouring Gemündener Maar.",
+      "q": "Weinfelder Kapelle, Schalkenmehren",
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://de.wikipedia.org/wiki/Weinfelder_Maar"
+      ],
+      "ll": [
+        50.179,
+        6.8492
+      ],
+      "_from": "trier",
+      "_note": "lies in Vulkaneifel (Koblenz region); add when Koblenz is filled"
+    },
+    {
+      "id": "wallenderborn",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Wait for the Brubbel to erupt in Wallenborn",
+      "desc": "The village of Wallenborn has one of only two active cold-water geysers in Germany. Roughly every 35 minutes the Wallender Born throws a column of water two to four metres into the air before it sinks back again. Locals simply call it the Brubbel.",
+      "tip": "If you arrive just after an eruption, you have about half an hour to wait, so bring a coffee. The height of the fountain varies with the groundwater level and the air pressure.",
+      "q": "Wallender Born, Wallenborn",
+      "src": [
+        "https://de.wikipedia.org/wiki/Wallender_Born"
+      ],
+      "ll": [
+        50.1537,
+        6.7203
+      ],
+      "_from": "trier",
+      "_note": "lies in Vulkaneifel (Koblenz region); add when Koblenz is filled"
+    },
+    {
+      "id": "gemuendenermaar",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Swim in a volcano at the Gemündener Maar",
+      "desc": "The smallest of the three Daun maars is a round crater lake about 300 metres across and up to 38 metres deep. Part of it is used as a summer lido, so you can swim in a volcanic crater that is about 30,000 years old.",
+      "tip": "It lies only 1.5 km south of Daun, so you can walk there from town. The Weinfelder Maar is the next crater along and makes a good walk once you have dried off.",
+      "q": "Gemündener Maar, Daun",
+      "months": [
+        6,
+        7,
+        8
+      ],
+      "src": [
+        "https://de.wikipedia.org/wiki/Gem%C3%BCndener_Maar"
+      ],
+      "ll": [
+        50.1783,
+        6.835
+      ],
+      "_from": "trier",
+      "_note": "lies in Vulkaneifel (Koblenz region); add when Koblenz is filled"
+    },
+    {
+      "id": "plompetoren",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Visit the Plompe Toren, last trace of a drowned village",
+      "desc": "This blunt church tower of 23 metres on the Oosterschelde dyke is all that remains of Koudekerke. The sea crept north, a new dyke was laid straight through the village in 1581 and the church was pulled down two years later. The tower was spared as a beacon for ships sailing to Antwerp.",
+      "tip": "The tower stands alone a few kilometres south of Burgh-Haamstede, so come by bike along the dyke. Stay for the evening light over the Oosterschelde.",
+      "q": "Plompe Toren, Plompetorenweg, Burgh-Haamstede",
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Plompe_Toren_(Koudekerke)"
+      ],
+      "ll": [
+        51.6833,
+        3.7753
+      ],
+      "_from": "middelburg",
+      "_note": "pin about 4 km off; confirm coordinates before adding"
+    }
+  ]
+}

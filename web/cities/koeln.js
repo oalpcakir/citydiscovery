@@ -59,7 +59,8 @@ window.CITIES.koeln = {
     kunkelbach: [50.9153, 6.9266], kcbensbergschloss: [50.9669, 7.1622], kctuchfabrik: [50.6491, 6.8233],
     kcvussem: [50.5648, 6.6685], kckakushoehle: [50.5450, 6.6600], kcdombach: [50.9949, 7.1536],
     kcgrubeguennersdorf: [50.5863, 6.6497], kczuelpichsee: [50.6779, 6.6559], kcbayarena: [51.0382, 7.0023],
-    kcclarenhof: [50.9380, 6.8116], kcprintenportz: [50.5548, 6.7640]
+    kcclarenhof: [50.9380, 6.8116], kcprintenportz: [50.5548, 6.7640], urftstaumauer: [50.6022, 6.4189],
+    wilderkermeter: [50.6151, 6.4382]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -442,6 +443,12 @@ window.CITIES.koeln = {
       tip: "Pick-your-own strawberries and flowers usually starts in late May or early June. The fresh-food box outside the shop is open around the clock.", q: "Gut Clarenhof, Frechen", src: ["https://www.koeln.de/leben/ll/hoflaeden-koeln-umgebung/gut-clarenhof/", "https://koeln.mitvergnuegen.com/2024/hofmaerkte/"] },
     { id: "kcprintenportz", cat: "ye", area: "cevre", title: "Taste Printen at Printenhaus Portz, Bad Münstereifel",
       desc: "Printen, the spiced gingerbread of the Rhineland, are the speciality of this café and shop by Bad Münstereifel's old town. Besides award-winning Printen it serves Eifel dishes, cakes and fine confectionery.",
-      tip: "Open daily from 10:00 to 18:00. Buy a bag to take home after your walk around the town walls.", q: "Printenhaus Portz, Bendenweg 22, Bad Münstereifel", src: ["https://www.eifel.info/en/gastro/printenhaus-portz-restaurantcafe"] }
+      tip: "Open daily from 10:00 to 18:00. Buy a bag to take home after your walk around the town walls.", q: "Printenhaus Portz, Bendenweg 22, Bad Münstereifel", src: ["https://www.eifel.info/en/gastro/printenhaus-portz-restaurantcafe"] },
+    { id: "urftstaumauer", cat: "dene", area: "cevre", title: "Walk or cycle to the Urft dam",
+      desc: "When it went into service in 1905 the Urft dam was the largest in Europe. Planned by the Aachen professor Otto Intze, the stone wall stands 58 metres tall and 226 metres long, and you can stroll across the top with the reservoir on one side and the drop on the other. Cars cannot drive up to it, which keeps the valley quiet.",
+      tip: "The lakeside path from the Paulushofdamm car park near Rurberg is the classic way in, and the Rursee boats also stop at the dam. The Urftseemauer inn at the northern end is the place for a break.", q: "Urftseemauer", tags: ["free"], src: ["https://de.wikipedia.org/wiki/Urfttalsperre"] },
+    { id: "wilderkermeter", cat: "dene", area: "cevre", title: "Let the forest run wild on the Kermeter",
+      desc: "The Kermeter ridge is the core of the Eifel national park and one of the largest unbroken broadleaf forests in the Rhineland, with beeches more than 200 years old. From the Kermeter car park on the L15 a 4.7 km network of gentle paths leads to the Hirschley viewpoint, about 475 metres up, with the Rursee below. The paths are barrier-free, with benches about every 250 metres.",
+      tip: "Add the Wilder Weg, a 1.5 km trail that starts on a wooden boardwalk and has ten hands-on stations about how a forest becomes wilderness again. Weekday mornings are the quietest.", q: "Wilder Kermeter", tags: ["free"], src: ["https://de.wikipedia.org/wiki/Kermeter"] }
   ]
 };

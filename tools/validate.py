@@ -50,7 +50,7 @@ def seg_dist(p, a, b):
 
 
 def edge_dist(cid, ll):
-    return min((seg_dist(ll, r[i - 1], r[i]) for poly in REG.get(cid, []) for r in [poly[0]] for i in range(len(r))), default=0)
+    return min((seg_dist(ll, r[i - 1], r[i]) for poly in REG.get(cid, []) for r in poly for i in range(len(r))), default=0)
 
 
 def words(s):

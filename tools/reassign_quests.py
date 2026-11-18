@@ -23,7 +23,8 @@ ORDER = ["amsterdam", "rotterdam", "denhaag", "utrecht", "eindhoven", "denbosch"
          "brussel", "antwerpen", "gent", "brugge", "luik", "leuven", "mons", "hasselt", "namur",
          "luxembourg", "aachen", "koeln", "duesseldorf", "trier", "frankfurt", "hamburg", "oldenburg", "bremen", "kiel", "luebeck", "berlin", "muenchen",
          "paris", "lille", "boulogne", "amiens", "reims", "strasbourg", "lyon", "nice",
-         "kobenhavn", "odense", "aarhus", "ribe", "aalborg", "malmo"]
+         "kobenhavn", "odense", "aarhus", "ribe", "aalborg", "malmo",
+         "versailles", "fontainebleau", "colmar", "mannheim", "mainz", "koblenz", "bonn", "kempten", "rosenheim", "potsdam"]
 COUNTRY_NAME = {"NL": "Netherlands", "BE": "Belgium", "DE": "Germany", "LU": "Luxembourg", "FR": "France", "DK": "Denmark", "SE": "Sweden"}
 
 cities = {}
@@ -32,7 +33,8 @@ for p in glob.glob(os.path.join(ROOT, "web", "cities", "*.js")):
 for h, v in hubs.items():
     if v.get("subtitle") and h in cities:
         cities[h]["subtitle"] = v["subtitle"]
-    if h not in cities and v.get("new"):
+    # a new region is created once its research exists (content/<hub>.json or content/<hub>-*.json)
+    if h not in cities and v.get("new") and (glob.glob(os.path.join(ROOT, "content", h + ".json")) or glob.glob(os.path.join(ROOT, "content", h + "-*.json"))):
         n = v["new"]
         lats = [p[0] for p in v["points"]]; lngs = [p[1] for p in v["points"]]
         cities[h] = {"id": h, "name": n["name"], "subtitle": n["subtitle"], "country": COUNTRY_NAME[v["country"]],

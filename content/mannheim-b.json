@@ -1,0 +1,1281 @@
+{
+ "new": [
+  {
+   "id": "hdcastle",
+   "cat": "gor",
+   "area": "heidelberg",
+   "title": "Explore the ruined Heidelberg Castle",
+   "desc": "The castle above the old town was the residence of the Electors Palatine and is counted among the most important Renaissance ruins north of the Alps. French troops destroyed it in 1689 and 1693, and a lightning fire in 1764 finished the job.",
+   "tip": "The castle grounds are free to enter, while the buildings need a ticket. Walk up from the Kornmarkt or ride the funicular, and come late in the day for soft light on the old town roofs.",
+   "q": "Heidelberg Castle, Schlosshof 1, Heidelberg",
+   "ll": [
+    49.41047,
+    8.7152
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Heidelberg_Castle",
+    "https://en.wikivoyage.org/wiki/Heidelberg"
+   ]
+  },
+  {
+   "id": "hdtun",
+   "cat": "gor",
+   "area": "heidelberg",
+   "title": "Peer into the Great Heidelberg Tun",
+   "desc": "The current barrel in the castle cellar dates from 1751 and now holds about 219,000 litres, down from 221,726 when it was new. A statue of the court jester Perkeo, said to have drunk huge amounts of wine, watches over it.",
+   "tip": "Entry is part of the castle ticket. Look for the legend of Perkeo's answer, Perche no, which gave him his name.",
+   "q": "Heidelberger Fass, Heidelberg Castle",
+   "ll": [
+    49.41035,
+    8.71574
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Heidelberger_Fass"
+   ]
+  },
+  {
+   "id": "hdapoth",
+   "cat": "gor",
+   "area": "heidelberg",
+   "title": "Visit the German Apothecary Museum in the castle",
+   "desc": "Spread over eleven rooms in the Ottheinrich Building, the Ludwig Building and the Apothecary Tower, it shows seven complete historic pharmacy interiors and a recreated alchemist laboratory. It also holds the world's largest collection of enamel-painted 18th-century glass.",
+   "tip": "The museum sits inside the castle grounds, so combine it with the castle ticket. It works well on a rainy day, and tours are offered in German and English.",
+   "q": "Deutsches Apotheken-Museum, Schloss Heidelberg",
+   "ll": [
+    49.41112,
+    8.71538
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Deutsches_Apotheken-Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hdtower",
+   "cat": "gor",
+   "area": "heidelberg",
+   "title": "Find the Blown-up Tower in the castle grounds",
+   "desc": "The Krautturm, also called the Gunpowder Tower, was blown up by French forces on 6 September 1693. The explosion split its massive wall open, and the shattered tower still stands as a symbol of the castle's destruction.",
+   "tip": "It is in the castle courtyard area, so you pass it on any castle visit. Stand in front of it and look at the split wall from the south.",
+   "q": "Gesprengter Turm, Schlosshof, Heidelberg",
+   "ll": [
+    49.4101,
+    8.71624
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Heidelberger_Schloss"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hdhortus",
+   "cat": "gor",
+   "area": "heidelberg",
+   "title": "Stroll the site of the Hortus Palatinus garden",
+   "desc": "After 1613 Elector Frederick V had a huge garden built into the hillside beside the castle, with help from Inigo Jones and Salomon de Caus. People of the time called it the eighth wonder of the world.",
+   "tip": "Today the grounds are a calm terraced park with views over the old town. Enter from the castle and go late afternoon.",
+   "q": "Schlossgarten, Heidelberg",
+   "ll": [
+    49.41112,
+    8.71854
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Heidelberger_Schloss"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hdbridge",
+   "cat": "gor",
+   "area": "heidelberg",
+   "title": "Cross the Old Bridge through its twin-towered gate",
+   "desc": "The Karl-Theodor-Brücke was built between 1786 and 1788 from red sandstone and has nine arches. The two towers of the bridge gate on the old town side are about 28 m high and incorporate parts of a 15th-century town wall.",
+   "tip": "Cross to the north bank for the postcard view of the castle and old town, especially at golden hour.",
+   "q": "Alte Brücke, Heidelberg",
+   "ll": [
+    49.41417,
+    8.70956
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Alte_Br%C3%BCcke_(Heidelberg)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hdmonkey",
+   "cat": "gor",
+   "area": "heidelberg",
+   "title": "Pose with the Bridge Monkey",
+   "desc": "A monkey holding a mirror has watched over the bridge since the early 17th century, and the current bronze version by Gernot Rumpf was unveiled in 1979. Its predecessor was lost when the bridge was blown up in 1689.",
+   "tip": "The monkey sits on the old town side by the bridge gate. Expect a queue of people taking photos.",
+   "q": "Brückenaffe, Am Brückentor, Heidelberg",
+   "ll": [
+    49.41331,
+    8.70948
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Alte_Br%C3%BCcke_(Heidelberg)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hdphilo",
+   "cat": "dene",
+   "area": "heidelberg",
+   "title": "Walk the Philosophenweg above the Neckar",
+   "desc": "This path of roughly two kilometres climbs steeply from Neuenheim up the Heiligenberg and looks across to the castle. Poets and thinkers such as Hölderlin, Eichendorff and Scheffel are said to have strolled here.",
+   "tip": "Take the Schlangenweg steps up from the Old Bridge and walk the level upper part. Go on a clear morning for the best view.",
+   "q": "Philosophenweg, Heidelberg",
+   "ll": [
+    49.415,
+    8.70028
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Philosophenweg_(Heidelberg)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hdsnake",
+   "cat": "dene",
+   "area": "heidelberg",
+   "title": "Climb the Schlangenweg steps",
+   "desc": "The Schlangenweg is a zigzagging, partly stepped path that starts at the Old Bridge and climbs the hillside to the Philosophenweg. Its name, snake path, comes from its bends.",
+   "tip": "Wear sturdy shoes, as the stone steps can be slippery after rain. It takes about 15 minutes to the top.",
+   "q": "Schlangenweg, Neuenheim, Heidelberg",
+   "ll": [
+    49.41714,
+    8.7083
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Philosophenweg_(Heidelberg)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hdphilosg",
+   "cat": "gor",
+   "area": "heidelberg",
+   "title": "Rest in the Philosophengärtchen",
+   "desc": "A small garden on the nearly level upper stretch of the Philosophenweg, past house number 21, with what the article calls the best view over the Neckar to the old town, castle and Königstuhl. A bust of Eichendorff stands on a platform with one of his poems engraved on its base.",
+   "tip": "Bring a book and a snack, there are no shops on the path. Evening light is lovely.",
+   "q": "Philosophengärtchen, Philosophenweg, Heidelberg",
+   "ll": [
+    49.41505,
+    8.70057
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Philosophenweg_(Heidelberg)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hdholy",
+   "cat": "gor",
+   "area": "heidelberg",
+   "title": "Climb the tower of Heiliggeistkirche",
+   "desc": "The Church of the Holy Spirit was built from 1398 to 1515, and an observation platform at about 38 m is open during visiting hours. In 1622 its Bibliotheca Palatina was given to the Pope as war booty.",
+   "tip": "Small shops are built between the buttresses of the church, so browse the bookshops and souvenirs after the climb.",
+   "q": "Heiliggeistkirche, Marktplatz, Heidelberg",
+   "ll": [
+    49.41222,
+    8.70944
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Heiliggeistkirche_(Heidelberg)"
+   ]
+  },
+  {
+   "id": "hdmarktcafe",
+   "cat": "ye",
+   "area": "heidelberg",
+   "title": "Sip a drink at the Marktplatz cafes",
+   "desc": "The cafes beside the Heiliggeistkirche are a popular spot for outdoor drinks and people-watching under the church's tower. The Marktplatz is the old town's main square.",
+   "tip": "Sit outdoors on a sunny afternoon and order a local beer or coffee.",
+   "q": "Marktplatz, Heidelberg",
+   "ll": [
+    49.41218,
+    8.71042
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Heidelberg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hdxmas",
+   "cat": "dene",
+   "area": "heidelberg",
+   "title": "Wander the Heidelberg Christmas Market",
+   "desc": "In December an outdoor Christmas market fills squares of the Altstadt, and the castle stands above the lights. It gets very busy.",
+   "tip": "Go on a weekday or early evening to avoid the crowds, and wear warm layers.",
+   "q": "Weihnachtsmarkt Heidelberg, Marktplatz",
+   "ll": [
+    49.4121,
+    8.7104
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Heidelberg"
+   ],
+   "months": [
+    11,
+    12
+   ]
+  },
+  {
+   "id": "hdritter",
+   "cat": "gor",
+   "area": "heidelberg",
+   "title": "Admire the facade of Haus zum Ritter",
+   "desc": "Built in 1592 for the cloth merchant Charles Belier, this late Renaissance house is the only civic building in Heidelberg to survive the great town fire of 1693. It is named after the knight sculpture at its top.",
+   "tip": "It stands directly opposite the Heiliggeistkirche on the Hauptstraße. Stand in the square for the best view of its decorated front.",
+   "q": "Haus zum Ritter, Hauptstraße 178, Heidelberg",
+   "ll": [
+    49.41162,
+    8.70928
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Haus_zum_Ritter_(Heidelberg)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hdjesuit",
+   "cat": "gor",
+   "area": "heidelberg",
+   "title": "Step inside the Jesuit Church",
+   "desc": "The foundation stone was laid in 1712 and the Baroque church was finished in 1759, with its tower added in 1868 to 1872. The bright white interior hides a crypt holding the grave of Elector Frederick I.",
+   "tip": "Free to enter outside services. The church is known for its organs, so check for concerts.",
+   "q": "Jesuitenkirche, Schulgasse, Heidelberg",
+   "ll": [
+    49.41091,
+    8.7077
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Jesuitenkirche_(Heidelberg)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hdolduni",
+   "cat": "gor",
+   "area": "heidelberg",
+   "title": "Tour the Old University and its Great Hall",
+   "desc": "Heidelberg University was founded in 1386 and is the oldest in Germany. The Baroque Old University was built from 1712 to 1728, and its Alte Aula was remodelled in neo-Renaissance style in 1886. The university museum there opened in 1996.",
+   "tip": "Entry to the museum is via Augustinergasse 2. The ticket includes the Student Prison.",
+   "q": "Alte Universität, Grabengasse 1, Heidelberg",
+   "ll": [
+    49.41131,
+    8.7062
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Alte_Universit%C3%A4t_(Heidelberg)",
+    "https://en.wikivoyage.org/wiki/Heidelberg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hdkarzer",
+   "cat": "gor",
+   "area": "heidelberg",
+   "title": "Read the walls of the Student Prison",
+   "desc": "Student detention was used for centuries, and these cells were still in use into the early 20th century. Inmates left painted inscriptions, one recording detention from 2 to 7 July 1901. It is visited together with the University Museum.",
+   "tip": "The entrance is at Augustinergasse 2, beside the university. Allow half an hour.",
+   "q": "Studentenkarzer, Augustinergasse 2, Heidelberg",
+   "ll": [
+    49.41127,
+    8.70639
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Studentenkarzer_(Heidelberg)"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hdlibrary",
+   "cat": "gor",
+   "area": "heidelberg",
+   "title": "Peek into the University Library",
+   "desc": "The main building by Josef Durm opened in 1905 and the library holds the Codex Manesse, a famous medieval songbook (Cod. Pal. germ. 848). A permanent display called Skriptorium shows medieval parchment, inks and writing tools.",
+   "tip": "Check opening times and exhibition status on the library's site before going.",
+   "q": "Universitätsbibliothek Heidelberg, Plöck 107-109",
+   "ll": [
+    49.40975,
+    8.70589
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Universit%C3%A4tsbibliothek_Heidelberg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hdkurpf",
+   "cat": "gor",
+   "area": "heidelberg",
+   "title": "Meet Homo heidelbergensis at the Kurpfälzisches Museum",
+   "desc": "The museum in the Palais Morass holds Tilman Riemenschneider's Twelve Apostles Altar from Bad Windsheim and a copy of the Mauer jaw, the type specimen of Homo heidelbergensis. Late 18th-century rooms show domestic life of the time.",
+   "tip": "It is entered from the Hauptstraße pedestrian zone. Allow 90 minutes, and check opening days as it is closed on Mondays.",
+   "q": "Kurpfälzisches Museum, Hauptstraße 97, Heidelberg",
+   "ll": [
+    49.41136,
+    8.70289
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kurpf%C3%A4lzisches_Museum_Heidelberg",
+    "https://en.wikivoyage.org/wiki/Heidelberg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hdpeter",
+   "cat": "gor",
+   "area": "heidelberg",
+   "title": "Visit the Peterskirche, the oldest church of the old town",
+   "desc": "The Peterskirche is the oldest church in Heidelberg's old town, first mentioned in 1196. It has been the official university church since 1896, and a Luther oak stands on its east side.",
+   "tip": "Look inside between lectures. The church stands on the Plöck, a quieter parallel street to the Hauptstraße.",
+   "q": "Peterskirche, Plöck, Heidelberg",
+   "ll": [
+    49.40931,
+    8.70606
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Peterskirche_(Heidelberg)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hdhaupt",
+   "cat": "dene",
+   "area": "heidelberg",
+   "title": "Stroll the Hauptstraße end to end",
+   "desc": "The Hauptstraße runs about 1.8 km from Bismarckplatz to the Karlstor and crosses the whole old town. It has been a pedestrian zone since 1978, apart from the stretch from Kornmarkt to Karlstor.",
+   "tip": "Walk it east in the morning, passing the Rathaus, the Heiliggeistkirche and Palais Morass, then double back along the quieter Plöck.",
+   "q": "Hauptstraße, Heidelberg",
+   "ll": [
+    49.40961,
+    8.6936
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Hauptstra%C3%9Fe_(Heidelberg)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hdkarlstor",
+   "cat": "gor",
+   "area": "heidelberg",
+   "title": "Pass through the Karlstor gate",
+   "desc": "The Karlstor was built from 1775 to 1781 by Nicolas de Pigage in the form of a Roman triumphal arch, with sculptures by Peter Simon Lamine. Citizens originally planned it as a thank-you gift to Elector Karl Theodor.",
+   "tip": "It marks the east end of the Hauptstraße. Take a photo and walk on toward the castle gardens.",
+   "q": "Karlstor, Heidelberg",
+   "ll": [
+    49.41416,
+    8.71806
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Karlstor_(Heidelberg)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hdknosel",
+   "cat": "ye",
+   "area": "heidelberg",
+   "title": "Taste a Studentenkuss at Café Knösel",
+   "desc": "Confectioner Fridolin Knösel created the Studentenkuss in 1863, a praline and nougat on a wafer coated in dark chocolate. It was packaged as a harmless gift so students could pass it to girls from the local boarding schools without chaperone trouble.",
+   "tip": "The chocolate shop is at Haspelgasse 16, next to the cafe. Buy a small box to take home.",
+   "q": "Chocolaterie Knösel, Haspelgasse 16, Heidelberg",
+   "ll": [
+    49.41255,
+    8.70901
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Studentenkuss",
+    "https://www.heidelberg24.de/heidelberg/studentenkuss-heidelberger-schokolade-infos-chocolaterie-knoesel-94460083.html"
+   ]
+  },
+  {
+   "id": "hdschnooke",
+   "cat": "ye",
+   "area": "heidelberg",
+   "title": "Raise a glass at Schnookeloch",
+   "desc": "This lively old tavern on the Haspelgasse dates from 1703 and is bound up with Heidelberg's history and its university. Students and visitors have been drinking in its wooden rooms for generations.",
+   "tip": "Order a beer and a hearty Baden dish. Opening hours differ between listings, so check before you go.",
+   "q": "Zum Schnookeloch, Haspelgasse 8, Heidelberg",
+   "ll": [
+    49.4129,
+    8.70872
+   ],
+   "src": [
+    "https://fodors.fodors.com/world/europe/germany/heidelberg-and-the-neckar-valley/restaurants/reviews/schnookeloch-140207"
+   ]
+  },
+  {
+   "id": "hdochsen",
+   "cat": "ye",
+   "area": "heidelberg",
+   "title": "Eat in the student tavern Zum Roten Ochsen",
+   "desc": "This tavern on the Hauptstraße was built in 1703 and 1724 as two houses, and the Spengel family has run it since 1839, now in the sixth generation. Its taproom keeps its original mugs and photos, and a pianist plays folk and student songs every evening.",
+   "tip": "Its website lists the kitchen as open Friday and Saturday evenings and otherwise by arrangement, so book ahead. Try the Mostbraten or Schäufele.",
+   "q": "Zum Roten Ochsen, Hauptstraße 217, Heidelberg",
+   "ll": [
+    49.41278,
+    8.71347
+   ],
+   "src": [
+    "https://www.roterochsen.de",
+    "https://de.wikipedia.org/wiki/Gasthaus_Zum_Roten_Ochsen_(Heidelberg)"
+   ]
+  },
+  {
+   "id": "hdvetter",
+   "cat": "ye",
+   "area": "heidelberg",
+   "title": "Drink house-brewed beer at Vetter's Brauhaus",
+   "desc": "Vetter's Alt Heidelberger Brauhaus on Steingasse brews its own beers and serves food, and is best known for the strong Vetter 33. It sits just off the Alte Brücke in the old town.",
+   "tip": "Try the house beers with a hearty plate. Evenings get busy, so book for groups.",
+   "q": "Vetter's Alt Heidelberger Brauhaus, Steingasse 9, Heidelberg",
+   "ll": [
+    49.41263,
+    8.70972
+   ],
+   "src": [
+    "https://www.brauhaus-vetter.de/en",
+    "https://en.wikivoyage.org/wiki/Heidelberg"
+   ]
+  },
+  {
+   "id": "hdkultur",
+   "cat": "ye",
+   "area": "heidelberg",
+   "title": "Taste local brews at the Kulturbrauerei",
+   "desc": "The Kulturbrauerei is a small brewery, restaurant and beer garden on the Leyergasse near the old town's east end. It pours its own beers and serves large portions of regional dishes.",
+   "tip": "Reach it by turning off the Hauptstraße at the Leyergasse. Check the website for hours as listings differ.",
+   "q": "Kulturbrauerei Heidelberg, Leyergasse 6",
+   "ll": [
+    49.41321,
+    8.71341
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Heidelberg",
+    "https://www.opentable.com/r/kulturbrauerei-heidelberg"
+   ]
+  },
+  {
+   "id": "hdschnitzel",
+   "cat": "ye",
+   "area": "heidelberg",
+   "title": "Eat Saumagen at Weinstube Schnitzelbank",
+   "desc": "A former cooperage in the old town turned into a candlelit wine tavern, serving Palatinate dishes such as Saumagen, liver dumplings and schnitzel with regional wines. It is tucked into a narrow lane off the Hauptstraße.",
+   "tip": "Hours are weekday evenings and longer at weekends, so check by phone. Reserve for Friday and Saturday.",
+   "q": "Weinstube Schnitzelbank, Bauamtsgasse 7, Heidelberg",
+   "ll": [
+    49.41147,
+    8.7024
+   ],
+   "src": [
+    "https://www.fodors.com/world/europe/germany/heidelberg-and-the-neckar-valley/restaurants/reviews/schnitzelbank-46056"
+   ]
+  },
+  {
+   "id": "hdnepomuk",
+   "cat": "ye",
+   "area": "heidelberg",
+   "title": "Dine at Wirtshaus zum Nepomuk",
+   "desc": "A traditional German tavern at the Old Bridge end of the old town serving regional dishes from the evening onward.",
+   "tip": "Open mainly evenings, with weekend lunch on some listings. Call ahead to book.",
+   "q": "Wirtshaus zum Nepomuk, Obere Neckarstraße 2, Heidelberg",
+   "ll": [
+    49.41314,
+    8.70989
+   ],
+   "src": [
+    "https://www.speisekarte.de/heidelberg-neckar/restaurant/wirtshaus_zum_nepomuk",
+    "https://www.heidelberg24.de/heidelberg/deutsche-kueche-heidelberg-besten-restaurants-trinken-essen-94316669.html"
+   ]
+  },
+  {
+   "id": "hdscharff",
+   "cat": "ye",
+   "area": "heidelberg",
+   "title": "Dine with a view at Scharffs Schlossweinstube",
+   "desc": "A splurge wine tavern inside Heidelberg Castle's Schlosshof, serving Baden and Palatinate wine with refined food. It offers a rare chance to dine in the castle itself.",
+   "tip": "Evening opening, mainly Thursday to Saturday, with reservations needed. Check hours before going.",
+   "q": "Scharffs Schlossweinstube, Schlosshof 1, Heidelberg",
+   "ll": [
+    49.41035,
+    8.71574
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Heidelberg",
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/heidelberg/scharffs-schlossweinstube-im-heidelberger-schloss/"
+   ]
+  },
+  {
+   "id": "hdmarstall",
+   "cat": "ye",
+   "area": "heidelberg",
+   "title": "Eat cheaply in the historic Marstall canteen",
+   "desc": "The old armoury, the Marstall, is now a university canteen open to the public, with cheap food and a beer garden in the courtyard. Eating among students is a classic Heidelberg experience.",
+   "tip": "The Zeughaus-Mensa closes at 21:00 and is closed on Sundays.",
+   "q": "Zeughaus-Mensa im Marstall, Marstallhof 3, Heidelberg",
+   "ll": [
+    49.41305,
+    8.70438
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Heidelberg"
+   ]
+  },
+  {
+   "id": "hdzoo",
+   "cat": "dene",
+   "area": "heidelberg",
+   "title": "Visit Heidelberg Zoo",
+   "desc": "The zoo in the west of Neuenheim covers 10.2 hectares and keeps over a hundred species, including gorillas, chimpanzees, Berber lions, brown bears and young Asian elephant bulls.",
+   "tip": "Go early when animals are active. It is a short tram ride from the old town.",
+   "q": "Zoo Heidelberg, Tiergartenstraße 3",
+   "ll": [
+    49.41426,
+    8.66245
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Zoo_Heidelberg"
+   ]
+  },
+  {
+   "id": "hdbotan",
+   "cat": "gor",
+   "area": "heidelberg",
+   "title": "Wander the University Botanical Garden",
+   "desc": "Greenhouses focus on succulents, orchids and bromeliads in this garden on the Neuenheimer Feld campus. Entry is free.",
+   "tip": "It is closed on Saturdays, so check the days. It is a short walk from the zoo.",
+   "q": "Botanischer Garten, Im Neuenheimer Feld 340, Heidelberg",
+   "ll": [
+    49.4148,
+    8.66778
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Heidelberg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hdtief",
+   "cat": "gor",
+   "area": "heidelberg",
+   "title": "Find the Tiefburg moated castle in Handschuhsheim",
+   "desc": "The Tiefburg is a small moated castle of at most the 13th century, with a water moat about 12 m wide fed by the Mühlbach, now filled in. Its remains include the vaults of a residential tower, and it now holds the local history archive of Handschuhsheim.",
+   "tip": "Come on a day with a village event in the courtyard, then have a coffee in the village centre.",
+   "q": "Tiefburg Handschuhsheim, An der Tiefburg, Heidelberg",
+   "ll": [
+    49.42815,
+    8.6862
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Tiefburg_(Handschuhsheim)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hdprinz",
+   "cat": "gor",
+   "area": "heidelberg",
+   "title": "Discover outsider art at the Prinzhorn Collection",
+   "desc": "The museum holds about 6,000 historical works by roughly 450 asylum inmates, mostly from around 1890 to 1933, greatly expanded by Hans Prinzhorn after World War I. Prinzhorn's book on the art became known as the Bible of the Surrealists.",
+   "tip": "It is inside the former lecture hall of the psychiatric clinic. Allow an hour, as the works can be intense.",
+   "q": "Sammlung Prinzhorn, Voßstraße 2, Heidelberg",
+   "ll": [
+    49.4098,
+    8.68875
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Sammlung_Prinzhorn"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hdpack",
+   "cat": "gor",
+   "area": "heidelberg",
+   "title": "Browse the German Packaging Museum",
+   "desc": "Tucked into the inner courtyard at Hauptstraße 22, the museum has over 1,000 items from Nivea tins and Coca-Cola bottles to Persil boxes and a cigarette tin made for the Titanic. It has existed since 1997.",
+   "tip": "A fun rainy-day stop at the west end of the Hauptstraße. Check opening hours on its website.",
+   "q": "Deutsches Verpackungs-Museum, Hauptstraße 22, Heidelberg",
+   "ll": [
+    49.40988,
+    8.69573
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Deutsches_Verpackungs-Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hdbergfr",
+   "cat": "gor",
+   "area": "heidelberg",
+   "title": "Stroll the Bergfriedhof cemetery",
+   "desc": "Opened in 1844 as the first municipally run cemetery in Heidelberg, it holds the graves of Max Weber, Robert Bunsen and Reich President Friedrich Ebert.",
+   "tip": "The main entrance is on Rohrbacher Straße. Walk it in the morning and keep voices low.",
+   "q": "Bergfriedhof, Rohrbacher Straße, Heidelberg",
+   "ll": [
+    49.3967,
+    8.69226
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Bergfriedhof_(Heidelberg)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hdboat",
+   "cat": "dene",
+   "area": "heidelberg",
+   "title": "Cruise the Neckar to the four castles",
+   "desc": "The Weisse Flotte runs river trips from Heidelberg, with the main cruise going to Neckarsteinach, the town of four castles. The round trip takes about three hours.",
+   "tip": "Boats leave from the landing near the Stadthalle at Neckarstaden. Check the timetable, as April and October have fewer departures.",
+   "q": "Weisse Flotte Heidelberg, Neckarstaden 25",
+   "ll": [
+    49.4129,
+    8.70133
+   ],
+   "src": [
+    "https://www.heidelberg-marketing.de/en/poi/weisse-flotte-hd"
+   ]
+  },
+  {
+   "id": "hdbahn",
+   "cat": "dene",
+   "area": "heidelberg",
+   "title": "Ride the funicular from the Kornmarkt",
+   "desc": "The lower section from Kornmarkt to Molkenkur opened in 1890, and the upper section to the Königstuhl in 1907, which is the oldest funicular in Baden-Württemberg. A middle station serves the castle.",
+   "tip": "Change trains at Molkenkur. Visit on a clear day for views across the Rhine plain.",
+   "q": "Bergbahn Kornmarkt, Heidelberg",
+   "ll": [
+    49.41187,
+    8.71154
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Heidelberger_Bergbahn"
+   ]
+  },
+  {
+   "id": "hdmolken",
+   "cat": "gor",
+   "area": "heidelberg",
+   "title": "Pause at Molkenkur above the castle",
+   "desc": "The Upper Castle here was destroyed in 1537 when a gunpowder store exploded. In 1851 the site was levelled for a whey-cure facility, and the city bought it in 1906. The funicular station is a protected monument.",
+   "tip": "Change funicular trains here on the way to the summit.",
+   "q": "Molkenkur, Heidelberg",
+   "ll": [
+    49.40703,
+    8.71283
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Molkenkur"
+   ]
+  },
+  {
+   "id": "hdkonig",
+   "cat": "gor",
+   "area": "heidelberg",
+   "title": "Reach the Königstuhl summit",
+   "desc": "The Königstuhl rises 568 m above Heidelberg and is the upper end of the funicular line, which has run since 1907. It offers views toward the Rhine plain.",
+   "tip": "Ride up and walk down by forest paths. On a clear day the view is far-reaching.",
+   "q": "Königstuhl, Heidelberg",
+   "ll": [
+    49.40266,
+    8.72979
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Heidelberg",
+    "https://de.wikipedia.org/wiki/Heidelberger_Bergbahn"
+   ]
+  },
+  {
+   "id": "hdhimmel",
+   "cat": "dene",
+   "area": "heidelberg",
+   "title": "Climb the Himmelsleiter staircase",
+   "desc": "The Himmelsleiter is a stairway of about 1,200 steps that climbs roughly 270 m up to the Königstuhl.",
+   "tip": "Allow an hour. Go up in good weather and ride the funicular back down.",
+   "q": "Himmelsleiter, Königstuhl, Heidelberg",
+   "ll": [
+    49.40631,
+    8.72346
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Heidelberg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hdastro",
+   "cat": "dene",
+   "area": "heidelberg",
+   "title": "Look up at the Haus der Astronomie",
+   "desc": "The Haus der Astronomie on the Königstuhl campus of the Max Planck Institute for Astronomy opened in December 2011. It offers public tours by registration, talks and a 100-seat auditorium that can work as a planetarium.",
+   "tip": "Register ahead for tours. Combine with a hike down from the summit.",
+   "q": "Haus der Astronomie, Königstuhl 17, Heidelberg",
+   "ll": [
+    49.39608,
+    8.72419
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Haus_der_Astronomie"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hdwolf",
+   "cat": "ye",
+   "area": "heidelberg",
+   "title": "Hike to the Wolfsbrunnen and dine at its restaurant",
+   "desc": "The Wolfsbrunnen is a protected fountain complex in Schlierbach, where legend says the seer Jetta was torn apart by wolves. The restaurant here, owned by the city since 1870, reopened after an extension, and a path links it to the castle.",
+   "tip": "Listings suggest it is open Wednesday to Sunday evenings, so call ahead. Walk the Schloss-Wolfsbrunnenweg from the castle.",
+   "q": "Restaurant Wolfsbrunnen, Wolfsbrunnensteige 15, Heidelberg",
+   "ll": [
+    49.41134,
+    8.7459
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Wolfsbrunnen_(Heidelberg)",
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/heidelberg/restaurant-wolfsbrunnen/"
+   ]
+  },
+  {
+   "id": "hdstift",
+   "cat": "gor",
+   "area": "heidelberg",
+   "title": "Walk out to Stift Neuburg abbey",
+   "desc": "Around 1130 a nobleman founded a monastery here, which joined the Benedictines in 1165. Benedictines from Beuron bought it back in 1926 and restored it. A monastery shop sells local products, and the monks offer guided tours.",
+   "tip": "It lies above the Neckar east of the old town. Check the shop and tour times first.",
+   "q": "Stift Neuburg, Ziegelhausen, Heidelberg",
+   "ll": [
+    49.4189,
+    8.7408
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Stift_Neuburg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hdthing",
+   "cat": "gor",
+   "area": "heidelberg",
+   "title": "Climb to the Thingstätte amphitheatre",
+   "desc": "This stone amphitheatre on the Heiligenberg was built in 1934 and 1935 for Nazi events and is now a protected monument. It was later used for concerts and, until 2017, for large unofficial Walpurgis Night gatherings.",
+   "tip": "The access path is steep and rough. Go in daylight and think about the history of the site.",
+   "q": "Thingstätte, Heiligenberg, Heidelberg",
+   "ll": [
+    49.42386,
+    8.70639
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Thingst%C3%A4tte_(Heidelberg)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hdheilig",
+   "cat": "dene",
+   "area": "heidelberg",
+   "title": "Hike the Heiligenberg to the Heiligenbergturm",
+   "desc": "The Heiligenberg, 439 m high, has the ruins of the Michaelskloster and the Stephanskloster and traces of a double Celtic ring wall about 5 km long. The Heiligenbergturm beside the Stephanskloster ruins was built from monastery stones and opened in 1885.",
+   "tip": "Allow two hours, and combine it with the Philosophenweg.",
+   "q": "Heiligenbergturm, Heiligenberg, Heidelberg",
+   "ll": [
+    49.41958,
+    8.70417
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Heiligenberg_(Heidelberg)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hdneck",
+   "cat": "dene",
+   "area": "heidelberg",
+   "title": "Picnic on the Neckarwiese",
+   "desc": "The Neckarwiese is the meadow on the north bank of the Neckar just west of Bismarckplatz, where locals bring their own grills and beer with a view of the castle.",
+   "tip": "Bring your own food and drink, and go on a warm evening.",
+   "q": "Neckarwiese, Heidelberg",
+   "ll": [
+    49.41318,
+    8.69415
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Heidelberg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hdsinti",
+   "cat": "gor",
+   "area": "heidelberg",
+   "title": "Visit the Sinti and Roma Documentation Centre",
+   "desc": "The German Documentation and Cultural Centre of German Sinti and Roma in the old town documents the history and culture of this minority.",
+   "tip": "Check opening days before going. It is small, so allow an hour.",
+   "q": "Dokumentations- und Kulturzentrum Deutscher Sinti und Roma, Bremeneckgasse 2, Heidelberg",
+   "ll": [
+    49.41076,
+    8.71081
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Heidelberg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hdtheater",
+   "cat": "dene",
+   "area": "heidelberg",
+   "title": "Catch a show at Theater Heidelberg",
+   "desc": "The Stadttheater on Theaterstraße is Heidelberg's large theatre for concerts, opera, dance and drama, and home to the city orchestra.",
+   "tip": "Check the programme for something in English or non-verbal, such as opera or dance.",
+   "q": "Theater und Orchester Heidelberg, Theaterstraße 10",
+   "ll": [
+    49.4105,
+    8.70357
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Heidelberg"
+   ]
+  },
+  {
+   "id": "wheschloss",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Weinheim Castle and its park",
+   "desc": "Weinheimer Schloss mixes styles, from a northwest wing of 1537 to a classicist south wing around 1780 and a neo-Gothic tower from 1868. Part of it has housed the town hall since 1926, and the Exotenwald begins right beside the park.",
+   "tip": "Stroll the park and then head into the old town.",
+   "q": "Schloss Weinheim, Obertorstraße, Weinheim",
+   "ll": [
+    49.5458,
+    8.6703
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Weinheimer_Schloss"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "whwindeck",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the keep of Burg Windeck",
+   "desc": "A castle was built here from about 1125 to 1130 to protect Lorsch Abbey's holdings. The 28 m keep has a viewing platform reached by 111 steps, with views to the Pfälzerwald and Donnersberg on clear days.",
+   "tip": "The climb from Weinheim takes about half an hour. Continue along the trail past the Wachenburg.",
+   "q": "Burg Windeck, Alter Burgweg 2, Weinheim",
+   "ll": [
+    49.54625,
+    8.67741
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Burg_Windeck_(Weinheim)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "whwach",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Wachenburg and its Burgschenke",
+   "desc": "Student corps built this Romanesque-revival hilltop castle between 1907 and 1928. The grounds, lookout platform and Burgschenke tavern are open to the public.",
+   "tip": "Walk up from Weinheim and check the tavern's opening hours, as listings differ.",
+   "q": "Wachenburg, Wachenbergstraße, Weinheim",
+   "ll": [
+    49.54951,
+    8.68554
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Wachenburg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "whexot",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Wander the Weinheim Exotenwald",
+   "desc": "Baron von Berckheim founded this 60-hectare arboretum in 1872, directly south of the castle park. Some of its trees are among the oldest of their exotic species in Germany, and three marked trails run through it.",
+   "tip": "It is a public forest area. Go in autumn for colour.",
+   "q": "Exotenwald Weinheim, Bodelschwinghstraße, Weinheim",
+   "ll": [
+    49.5408,
+    8.675
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Exotenwald_Weinheim"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "whschlosspark",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat at the Schlosspark Restaurant in Weinheim",
+   "desc": "The Schlosspark Restaurant on Obertorstraße is ranked among the most popular restaurants in Weinheim in user-based listings, beside the castle park.",
+   "tip": "Check the opening hours and book for evenings.",
+   "q": "Schlosspark Restaurant, Obertorstraße 9, Weinheim",
+   "ll": [
+    49.54576,
+    8.67056
+   ],
+   "src": [
+    "https://www.speisekarte.de/weinheim-bergstra%C3%9Fe/restaurant/schlosspark"
+   ]
+  },
+  {
+   "id": "ladenburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Meet Roman Lopodunum at the Lobdengau Museum",
+   "desc": "The museum sits in Ladenburg's former bishop's court of the prince-bishops of Worms. Its basement holds a Roman collection from Lopodunum, the Roman town that stood here.",
+   "tip": "Wander the old town afterwards. Check opening hours first.",
+   "q": "Lobdengau-Museum, Ladenburg",
+   "ll": [
+    49.47081,
+    8.6081
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Lobdengau-Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "benzmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the Carl Benz Automuseum in Ladenburg",
+   "desc": "This private museum shows about 80 vehicles of Benz and Mercedes-Benz, a replica of the 1886 Patent-Motorwagen and Benz's original tools. Benz bought land in Ladenburg in 1905 and founded C. Benz Söhne there in 1906.",
+   "tip": "Allow an hour and a half. Check the opening days first.",
+   "q": "Automuseum Dr. Carl Benz, Ilvesheimer Straße 26, Ladenburg",
+   "ll": [
+    49.4739,
+    8.5973
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Automuseum_Dr._Carl_Benz"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "strahlenburg",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat at the Strahlenburg ruin above Schriesheim",
+   "desc": "Conrad von Strahlenberg began the castle around 1235. A round keep of about 28 m and a Gothic palas wall survive, and a restaurant operates in the outer bailey, with views over the Rhine plain.",
+   "tip": "The grounds are closed outside the restaurant's hours. Hours listed in one local report are Tuesday to Sunday, with Monday closed, so check first.",
+   "q": "Strahlenburg, Strahlenberger Straße, Schriesheim",
+   "ll": [
+    49.47495,
+    8.66929
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Strahlenburg",
+    "https://www.heidelberg24.de/region/neue-gastronomie-strahlenburg-schriesheim-art-of-drinks-94487839.html"
+   ]
+  },
+  {
+   "id": "lorsch",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Carolingian gatehouse of Lorsch Abbey",
+   "desc": "The Torhalle dates to around 900 and was added to the UNESCO World Heritage list in 1991. Its facade shows red, beige and white stone patterns of hexagons and squares.",
+   "tip": "Visit the museum centre in the abbey grounds for context.",
+   "q": "Königshalle, Nibelungenstraße 32, Lorsch",
+   "ll": [
+    49.65395,
+    8.56892
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Torhalle_Lorsch"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "neckargem",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stroll Neckargemünd's old town",
+   "desc": "The Altes Rathaus, a former Lutheran church built in 1770 to 1771, now holds a museum on local history and Neckar shipping. The old town climbs the hillside from the point where the Elsenz joins the Neckar.",
+   "tip": "Walk the narrow Kleppergasse and photograph the river mouth from the Friedensbrücke.",
+   "q": "Altes Rathaus, Hauptstraße 25, Neckargemünd",
+   "ll": [
+    49.39317,
+    8.79936
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Neckargem%C3%BCnd"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "dilsberg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander the hilltop village of Dilsberg",
+   "desc": "Dilsberg's castle ruin sits on a ridge in a bend of the Neckar and was first mentioned in 1208. It has a well about 46 m deep and a 78 m tunnel, and Mark Twain described it in A Tramp Abroad.",
+   "tip": "Walk the village lanes, then explore the castle tunnel.",
+   "q": "Dilsberg, Neckargemünd",
+   "ll": [
+    49.39916,
+    8.83623
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Dilsberg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "neckarst",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the four castles of Neckarsteinach",
+   "desc": "Neckarsteinach is called the Vierburgenstadt, with Vorderburg, Mittelburg, Hinterburg and Schadeck castles. The Hinterburg and Schadeck ruins are freely accessible, while the Mittelburg is private and the Vorderburg houses forestry offices.",
+   "tip": "Walk the Burgenweg trail along the ridge.",
+   "q": "Vorderburg, Neckarsteinach",
+   "ll": [
+    49.40913,
+    8.83525
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Neckarsteinach"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hirschhorn",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Burg Hirschhorn on the Neckar",
+   "desc": "Johann von Hirschhorn founded the castle around 1260, and a Renaissance conversion gave it its final form. A hotel with a restaurant has operated in the Palas and Marstall since 1959.",
+   "tip": "Walk up from the village, and check restaurant opening times first.",
+   "q": "Burg Hirschhorn, Hirschhorn",
+   "ll": [
+    49.44924,
+    8.89834
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Burg_Hirschhorn"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "eberbach",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Find the medieval towers of Eberbach",
+   "desc": "Eberbach's old town wall keeps four towers, including the 15th-century Pulverturm at its northwest end, the blue-roofed Blauer Hut, the Haspelturm and the round Rosenturm, probably the oldest.",
+   "tip": "Walk the old town and then the Neckar promenade.",
+   "q": "Pulverturm, Zwingerstraße, Eberbach",
+   "ll": [
+    49.46248,
+    8.9835
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Eberbach"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sinsheim",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Marvel at the Technik Museum Sinsheim",
+   "desc": "The museum has both the Concorde and the Tupolev Tu-144, which it describes as the only place where both supersonic passenger aircraft are shown. It holds over 3,000 exhibits.",
+   "tip": "Allow most of a day. It works well on rainy days.",
+   "q": "Auto & Technik Museum Sinsheim, Museumsplatz 1",
+   "ll": [
+    49.23861,
+    8.89667
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Technik_Museum_Sinsheim"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mauer",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Homo heidelbergensis find site in Mauer",
+   "desc": "On 21 October 1907 sand digger Daniel Hartmann found a jaw about 609,000 years old in the Grafenrain sandpit. It is the type specimen of Homo heidelbergensis, and a memorial stone for Hartmann was unveiled in 1977 near the find spot.",
+   "tip": "The exact find spot was filled in during the 1930s and is now a nature reserve, so go for the memorial and the surrounding trail. The jaw itself is kept at Heidelberg University.",
+   "q": "Sandgrube am Grafenrain, Mauer",
+   "ll": [
+    49.34817,
+    8.79974
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Mauer_1"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "wieslochfuel",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Find the world's first filling station in Wiesloch",
+   "desc": "The Stadt-Apotheke in Wiesloch is described as the first filling station in the world, because Bertha Benz refilled her car's tank with ligroin there on 5 August 1888 during the first long-distance car trip.",
+   "tip": "Look at the pharmacy front on the Hauptstraße. The Bertha Benz Memorial Route passes through the town.",
+   "q": "Historische Stadt-Apotheke, Hauptstraße 96, Wiesloch",
+   "ll": [
+    49.29472,
+    8.69824
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Wiesloch"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "starkenburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb to the Starkenburg above Heppenheim",
+   "desc": "The Starkenburg was built in 1065 to protect Lorsch Abbey and withstood French sieges in 1688 and 1693. The 38 m keep, rebuilt in 1928 to 1930, has a glass-enclosed observation platform over the Bergstraße and Rhine plain.",
+   "tip": "The Burgschänke in the Küchenturm serves food. Walk up from Heppenheim town.",
+   "q": "Starkenburg, Heppenheim",
+   "ll": [
+    49.6461,
+    8.6486
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Starkenburg_(Burg)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "auerbach",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the towers of Auerbach Castle above Bensheim",
+   "desc": "The ruin stands on the Auerberg above Auerbach. The southern tower reopened to the public in 2007 and a metal staircase leads up the north tower, with a 360-degree panorama over the Rhine plain to the Pfälzerwald.",
+   "tip": "A medieval-themed restaurant has operated here since 1990. Check hours on its website.",
+   "q": "Auerbacher Schloss, Bensheim-Auerbach",
+   "ll": [
+    49.71096,
+    8.63797
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Auerbacher_Schloss"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "viniversum",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Bergstraße wine at the Viniversum",
+   "desc": "The Bergsträßer Winzer cooperative in Heppenheim opened its Viniversum Vinothek in 2015 as a showcase for the wines of the Hessische Bergstraße.",
+   "tip": "Check opening times on the winery's site, and book for group tastings.",
+   "q": "Bergsträßer Winzer eG, Darmstädter Straße, Heppenheim",
+   "ll": [
+    49.66341,
+    8.63642
+   ],
+   "src": [
+    "https://www.winesofgermany.com/our-regions/vinotheque/60/bergstr%C3%A4%C3%9Fer-winzer-eg-heppenheim"
+   ]
+  }
+ ]
+}

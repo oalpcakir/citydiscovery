@@ -157,6 +157,15 @@
       "q": "Waterdunen, Walendijk 9, Breskens", "ll": [51.4010, 3.4938],
       "tags": ["free"],
       "src": ["https://www.hetzeeuwselandschap.nl/natuurgebieden/waterdunen", "https://nl.wikipedia.org/wiki/Waterdunen_(natuur-_en_recreatiegebied)"]
+    },
+    {
+      "id": "plompetoren", "cat": "gor", "area": "cevre",
+      "title": "Visit the Plompe Toren, last trace of a drowned village",
+      "desc": "This blunt church tower of 23 metres on the Oosterschelde dyke is all that remains of Koudekerke. The sea crept north, a new dyke was laid straight through the village in 1581 and the church was pulled down two years later. The tower was spared as a beacon for ships sailing to Antwerp.",
+      "tip": "The tower stands alone a few kilometres south of Burgh-Haamstede, so come by bike along the dyke. Stay for the evening light over the Oosterschelde.",
+      "q": "Plompe Toren, Plompetorenweg, Burgh-Haamstede", "ll": [51.6833, 3.7753],
+      "tags": ["free"],
+      "src": ["https://nl.wikipedia.org/wiki/Plompe_Toren_(Koudekerke)"]
     }
   ]
 }

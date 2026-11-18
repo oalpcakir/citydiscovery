@@ -36,7 +36,7 @@ window.CITIES.middelburg = {
     oostkerk: [51.5027, 3.6206], minimundi: [51.4804, 3.6320], slotoostende: [51.5034, 3.8894],
     kleineschorre: [51.6829, 3.9823], debiet: [51.6473, 3.9242], zuidhavenpoort: [51.6476, 3.9259],
     grotekerkveere: [51.5472, 3.6675], sintbaafsaardenburg: [51.2728, 3.4483], manteling: [51.5685, 3.5178],
-    westerscheldeferry: [51.4442, 3.5967], waterdunen: [51.4010, 3.4938]
+    westerscheldeferry: [51.4442, 3.5967], waterdunen: [51.4010, 3.4938], plompetoren: [51.6833, 3.7753]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -220,6 +220,9 @@ window.CITIES.middelburg = {
       tip: "Take a bike: on the other side you are a short ride from the beach and the Breskens lighthouse. Tickets are a little cheaper online than at the terminal.", q: "Westerschelde Ferry, Westerhavenweg 2a, Vlissingen", src: ["https://www.westerscheldeferry.nl/", "https://nl.wikipedia.org/wiki/Westerschelde_Ferry"] },
     { id: "waterdunen", cat: "dene", area: "cevre", title: "Watch spoonbills from the hides of Waterdunen",
       desc: "West of Breskens, 350 hectares of farmland and a former campsite were turned into tidal nature: a culvert in the sea dyke lets the Westerschelde flow in and out over creeks, mudflats and islands. The area opened to visitors at the end of 2021, with hides and screens that bring you close to avocets, spoonbills and terns.",
-      tip: "The bird route of 5.5 kilometres is the easiest of the three walking loops. Entry is free from sunrise to sunset, parking is paid, and dogs and bikes are not allowed inside.", q: "Waterdunen, Walendijk 9, Breskens", tags: ["free"], src: ["https://www.hetzeeuwselandschap.nl/natuurgebieden/waterdunen", "https://nl.wikipedia.org/wiki/Waterdunen_(natuur-_en_recreatiegebied)"] }
+      tip: "The bird route of 5.5 kilometres is the easiest of the three walking loops. Entry is free from sunrise to sunset, parking is paid, and dogs and bikes are not allowed inside.", q: "Waterdunen, Walendijk 9, Breskens", tags: ["free"], src: ["https://www.hetzeeuwselandschap.nl/natuurgebieden/waterdunen", "https://nl.wikipedia.org/wiki/Waterdunen_(natuur-_en_recreatiegebied)"] },
+    { id: "plompetoren", cat: "gor", area: "cevre", title: "Visit the Plompe Toren, last trace of a drowned village",
+      desc: "This blunt church tower of 23 metres on the Oosterschelde dyke is all that remains of Koudekerke. The sea crept north, a new dyke was laid straight through the village in 1581 and the church was pulled down two years later. The tower was spared as a beacon for ships sailing to Antwerp.",
+      tip: "The tower stands alone a few kilometres south of Burgh-Haamstede, so come by bike along the dyke. Stay for the evening light over the Oosterschelde.", q: "Plompe Toren, Plompetorenweg, Burgh-Haamstede", tags: ["free"], src: ["https://nl.wikipedia.org/wiki/Plompe_Toren_(Koudekerke)"] }
   ]
 };

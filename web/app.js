@@ -1374,14 +1374,14 @@
   }
 
   function render() {
-    var onMap = ui.tab === "map", wasHidden = $map.hidden, heroish = /^(hero|stats|settings)$/.test(ui.tab);
+    var onMap = ui.tab === "map", wasHidden = $map.hidden, heroish = /^(hero|settings)$/.test(ui.tab);
     $map.hidden = !onMap;
     var views = { map: renderMapUI, quests: renderQuests, badges: renderBadges, hero: renderHero, stats: renderStats, settings: renderSettings };
     var tab = function (id, icon, label, on) {
       return '<button data-tab="' + id + '" class="' + (on ? "on" : "") + '">' + ic(icon) + '<span>' + label + '</span></button>';
     };
     $app.innerHTML = views[ui.tab]() + '<nav class="tabs">' + tab("map", "map", "Map", onMap) + tab("quests", "list-checks", "Quests", ui.tab === "quests") +
-      tab("badges", "award", "Badges", ui.tab === "badges") + tab("hero", "user-round", "Hero", heroish) + '</nav>';
+      tab("badges", "award", "Badges", ui.tab === "badges") + tab("stats", "chart-column", "Stats", ui.tab === "stats") + tab("hero", "user-round", "Hero", heroish) + '</nav>';
     document.body.classList.toggle("on-map", onMap);
     if (onMap) updateMap(wasHidden);
     if (ui.tab === "hero") fillMemories();
@@ -1699,8 +1699,7 @@
       html += '<button class="panel daily" data-open="' + esc(dq.key) + '">' + ic("star", "big") + '<div class="grow"><small>Quest of the day' +
         (isDone(dq) ? " · done" : " · +" + XP.daily + " XP bonus") + '</small><b>' + esc(dq.title) + '</b></div>' + ic(isDone(dq) ? "check" : "chevron-right") + '</button>';
     }
-    html += '<div class="two"><button class="btn ghost" data-tab="stats">' + ic("chart-column") + 'Stats</button>' +
-      '<button class="btn ghost" data-act="share">' + ic("share-2") + 'Share card</button></div>' +
+    html += '<button class="btn ghost" data-act="share" style="margin-top:10px">' + ic("share-2") + 'Share card</button>' +
       '<h2>Unlocks</h2><div class="panel">' +
         (upcoming.length ? '<div class="nextu">Next at level ' + upcoming[0].level + ': <b>' + esc(unlockLabel(upcoming[0])) + '</b></div>' : '<div class="nextu">Everything unlocked. Legendary.</div>') +
         '<div class="ugrid">' + UNLOCKS.map(function (u) { return unlockTile(u, p.level); }).join("") + '</div>' +
@@ -1833,7 +1832,7 @@
   }
 
   // ── Everyone: totals over all signed-in explorers, published once a day as community.json ──
-  // (tools/community_stats.py; it leaves out small counts, and everything until enough explorers have signed in)
+  // (tools/community_stats.py)
   var community = null;
   function loadCommunity() {
     if (community) return;
@@ -1893,12 +1892,12 @@
     html += '<h2>Countries</h2><div class="panel ranks">' + rankRows(topBy(ctry, 20).map(function (n) {
       return { n: ctry[n], attr: "", html: '<b>' + flagHtml(n) + esc(n) + '</b>' };
     }), "Country") + '</div>';
-    return html + '<p class="note center">Counts come from signed-in explorers, updated once a day. Small numbers are left out. You can leave yourself out in Settings.</p>';
+    return html + '<p class="note center">Counts come from signed-in explorers, updated once a day. You can leave yourself out in Settings.</p>';
   }
 
   function renderStats() {
     var p = progress(), s = stats(city.quests), cs = countryStats(), view = ui.statsView || "you";
-    var html = head("Stats", fmt(p.xp) + " XP across " + p.quests + (p.quests === 1 ? " quest" : " quests"), { back: true }) + '<div class="section">' +
+    var html = head("Stats", fmt(p.xp) + " XP across " + p.quests + (p.quests === 1 ? " quest" : " quests")) + '<div class="section">' +
       seg("data-stats-view", view, [["you", "You"], ["everyone", "Everyone"]]);
     if (view === "everyone") return html + renderEveryone() + '</div>';
     html += renderYou() + '<h2>Countries</h2><div class="countries">' +
@@ -2767,7 +2766,7 @@
     if (ui.searchOpen || ui.sq) { endSearch(); render(); return true; }
     if (!$sheet.hidden) { closeSheet(); return true; }
     if (ui.pinMode) { recCancel(); return true; }
-    if (ui.tab === "stats" || ui.tab === "settings") { ui.tab = "hero"; render(); return true; }
+    if (ui.tab === "settings") { ui.tab = "hero"; render(); return true; }
     if (ui.tab !== "map") { ui.tab = "map"; render(); return true; }
     return false;
   };

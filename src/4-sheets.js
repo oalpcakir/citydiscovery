@@ -788,7 +788,7 @@
     if (ui.searchOpen || ui.sq) { endSearch(); render(); return true; }
     if (!$sheet.hidden) { closeSheet(); return true; }
     if (ui.pinMode) { recCancel(); return true; }
-    if (ui.tab === "stats" || ui.tab === "settings") { ui.tab = "hero"; render(); return true; }
+    if (ui.tab === "settings") { ui.tab = "hero"; render(); return true; }
     if (ui.tab !== "map") { ui.tab = "map"; render(); return true; }
     return false;
   };

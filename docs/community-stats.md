@@ -17,7 +17,8 @@ so the site updates on its own. Until the key is set up, the job does nothing an
 
 - Only explorers who are signed in and have done at least one quest; anyone who turned off
   *Settings → Count me in the community rankings* (`profile.noStats`) is skipped.
-- Counts below 3 are dropped (`MIN_COUNT`), and nothing is published until 10 explorers take part (`MIN_EXPLORERS`).
+- `MIN_COUNT` (counts below it are dropped) and `MIN_EXPLORERS` (nothing is published below it) are both 1 for now.
+  Raise them once there are more explorers, so small counts can't point to one person.
 - "Trending" counts quests done in the last 30 days.
 
 Try it locally without writing anything: set `FIREBASE_SERVICE_ACCOUNT` to the key's JSON and run

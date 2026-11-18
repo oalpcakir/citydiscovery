@@ -23,12 +23,12 @@ window.CITIES.strasbourg = {
     placerepublique: [48.5873, 7.7540], maisonegyptienne: [48.5892, 7.7577], saintthomas: [48.5797, 7.7453],
     saintpierrelejeune: [48.5856, 7.7464], aubette1928: [48.5839, 7.7457], chateauvodou: [48.5804, 7.7286],
     chezyvonne: [48.5828, 7.7495], aupontcorbeau: [48.5792, 7.7506], leclouwinstub: [48.5823, 7.7486],
-    binchstub: [48.5845, 7.7502], baeckeoffealsace: [48.5812, 7.7420], cavehospices: [48.5758, 7.7464],
+    binchstub: [48.5845, 7.7502], baeckeoffealsace: [48.5812, 7.7420], cavehospices: [48.5768, 7.7484],
     aubrasseur: [48.5826, 7.7554], mulhauptkougelhopf: [48.5803, 7.7497], naegelbredele: [48.5826, 7.7499],
-    hanssbretzel: [48.5880, 7.7478], purgatoire: [48.5796, 7.7586], cafebretelles: [48.5806, 7.7408],
+    hanssbretzel: [48.5787, 7.7432], purgatoire: [48.5796, 7.7586], cafebretelles: [48.5806, 7.7408],
     aufonddujardin: [48.5811, 7.7523], cathedralplatform: [48.5818, 7.7507], batorama: [48.5806, 7.7519],
     christkindelsmaerik: [48.5848, 7.7503], cathedralillumination: [48.5810, 7.7512], bainsmunicipaux: [48.5835, 7.7597],
-    deuxrives: [48.5693, 7.8005], orangerie: [48.5919, 7.7761], parlementeuropeen: [48.5974, 7.7688],
+    deuxrives: [48.5676, 7.8003], orangerie: [48.5919, 7.7761], parlementeuropeen: [48.5974, 7.7688],
     planetarium: [48.5833, 7.7678], jardinbotanique: [48.5829, 7.7681], levaisseau: [48.5729, 7.7722],
     racingmeinau: [48.5601, 7.7550], obernaimarche: [48.4622, 7.4819], montsainteodile: [48.4372, 7.4042],
     murpaien: [48.4335, 7.4020], hautkoenigsbourg: [48.2495, 7.3444], bibliothequehumaniste: [48.2606, 7.4556],
@@ -36,7 +36,7 @@ window.CITIES.strasbourg = {
     hautbarr: [48.7250, 7.3386], andlauabbatiale: [48.3878, 7.4150], betschdorfpoterie: [48.8995, 7.9134],
     soufflenheimpotiers: [48.8306, 7.9639], fleckenstein: [49.0447, 7.7719], groschenehaguenau: [48.8440, 7.8690],
     mittelbergheim: [48.3967, 7.4425], gertwillerpaindepices: [48.4117, 7.4686], barrvendanges: [48.4078, 7.4494],
-    dambachlaville: [48.3247, 7.4281], winstubarnold: [48.3652, 7.4296], pontdelazorn: [48.7166, 7.8003]
+    dambachlaville: [48.3237, 7.4250], winstubarnold: [48.3652, 7.4296], pontdelazorn: [48.7166, 7.8003]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {

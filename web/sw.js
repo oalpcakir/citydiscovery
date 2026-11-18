@@ -1,5 +1,5 @@
 // Network first, cache as fallback: always the latest version when online, the last one fetched when offline.
-var CACHE = "citydiscovery-v15";
+var CACHE = "citydiscovery-v16";
 var CORE = ["./", "index.html", "styles.css", "app.js", "cloud.js", "icons.js", "photos.js", "firebase-config.js", "cities/amsterdam.js", "cities/rotterdam.js", "cities/denhaag.js", "cities/utrecht.js", "cities/eindhoven.js", "cities/denbosch.js", "cities/breda.js", "cities/arnhem.js", "cities/maastricht.js", "cities/zwolle.js", "cities/enschede.js", "cities/groningen.js", "cities/leeuwarden.js", "cities/middelburg.js", "cities/brussel.js", "cities/antwerpen.js", "cities/gent.js", "cities/brugge.js", "cities/luik.js", "cities/leuven.js", "cities/mons.js", "cities/hasselt.js", "cities/namur.js", "cities/luxembourg.js", "cities/aachen.js", "cities/koeln.js", "cities/duesseldorf.js", "cities/trier.js", "regions.js", "countries.js", "moved.js", "vendor/maplibre-gl.js", "vendor/maplibre-gl.css", "icon.svg", "manifest.webmanifest"];
 
 self.addEventListener("install", function (e) {

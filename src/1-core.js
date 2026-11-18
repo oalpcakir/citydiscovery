@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  var APP_VERSION = "0.16.0";
+  var APP_VERSION = "0.17.0";
   var STORE_KEY = "citydiscovery.v1";
   var REPO = "https://github.com/oalpcakir/citydiscovery";
   var CATS = {
@@ -191,36 +191,94 @@
   }
   function tierLabel(b) { return !b.tier ? "Locked" : b.max === 1 ? "Unlocked" : TIERS[b.tier - 1].label; }
 
-  // ── Trails: short walks through nearby quests, built from the quest data ──
+  // ── Trails: themed walks through nearby quests, built from the quest data ──
+  // Each region gets a highlights walk per city area, a food crawl, a rainy-day walk and "day out" walks for towns
+  // in its surroundings. Stops are put in walking order; distances are straight lines times 1.3 (streets are not straight),
+  // and the time adds about 15 minutes per stop.
   var trails = [], trailsByCity = {}, trailById = {}, TRAIL_XP = 200;
+  var TRAIL_COLORS = ["#e11d48", "#2563eb", "#16a34a", "#d97706", "#7c3aed", "#0891b2", "#db2777", "#65a30d"];
+  function routeKm(list) {
+    var t = 0;
+    for (var i = 1; i < list.length; i++) t += km(ll(list[i - 1]), ll(list[i]));
+    return t;
+  }
+  // Best short route through a pool: nearest-neighbour from several starts, then 2-opt to untangle it.
+  function bestRoute(pool, minStops, maxStops, maxKm) {
+    pool = pool.filter(ll);
+    if (pool.length < minStops) return null;
+    var best = null;
+    pool.slice(0, 24).forEach(function (start) {
+      var route = [start], total = 0;
+      while (route.length < maxStops) {
+        var last = route[route.length - 1], pick = null, pd = Infinity;
+        pool.forEach(function (q) {
+          if (route.indexOf(q) !== -1) return;
+          var d = km(ll(last), ll(q));
+          if (d < pd) { pd = d; pick = q; }
+        });
+        if (!pick || total + pd > maxKm) break;
+        route.push(pick); total += pd;
+      }
+      if (route.length < minStops) return;
+      var cats = {}; route.forEach(function (q) { cats[q.cat] = 1; });
+      var score = route.length * 10 + Object.keys(cats).length * 3 - total;
+      if (!best || score > best.score) best = { score: score, route: route };
+    });
+    if (!best) return null;
+    var r = best.route.slice(), improved = true;
+    while (improved) {
+      improved = false;
+      for (var i = 1; i < r.length - 1; i++) {
+        for (var j = i + 1; j < r.length; j++) {
+          var cand = r.slice(0, i).concat(r.slice(i, j + 1).reverse(), r.slice(j + 1));
+          if (routeKm(cand) < routeKm(r) - 0.01) { r = cand; improved = true; }
+        }
+      }
+    }
+    return r;
+  }
+  // The town a group of surrounding quests is in: the most common last word of their map names ("Burg Satzvey Mechernich").
+  function townOf(list) {
+    var count = {};
+    list.forEach(function (q) {
+      var w = (q.q || "").trim().split(/\s+/).pop();
+      if (w && /^[A-ZÀ-Ý]/.test(w)) count[w] = (count[w] || 0) + 1;
+    });
+    var top = Object.keys(count).sort(function (a, b) { return count[b] - count[a]; })[0];
+    return top && count[top] >= 2 ? top : null;
+  }
   (function buildTrails() {
     Object.keys(cities).forEach(function (id) {
-      var c = cities[id], list = [];
+      // Seasonal quests (events, markets) stay out: a trail should work on any day.
+      var c = cities[id], list = [], inCity = c.quests.filter(function (q) { return q.area !== "cevre" && ll(q) && !q.months; });
+      var add = function (key, icon, name, sub, route) {
+        if (!route) return;
+        if (list.some(function (t) { return t.quests.filter(function (q) { return route.indexOf(q) !== -1; }).length > route.length / 2; })) return; // mostly a repeat
+        list.push({ id: id + ":" + key, cid: id, icon: icon, name: name, sub: sub, quests: route });
+      };
       Object.keys(c.areas).forEach(function (a) {
         if (a === "cevre") return;
-        var qs = c.quests.filter(function (q) { return q.area === a && ll(q); });
-        if (qs.length < 4) return;
-        var cx = 0, cy = 0;
-        qs.forEach(function (q) { cx += ll(q)[0] / qs.length; cy += ll(q)[1] / qs.length; });
-        var picked = [qs.slice().sort(function (x, y) { return km(ll(x), [cx, cy]) - km(ll(y), [cx, cy]); })[0]];
-        while (picked.length < 5) {
-          var last = picked[picked.length - 1], best = null, bd = 1.2;
-          qs.forEach(function (q) {
-            if (picked.indexOf(q) !== -1) return;
-            var d = km(ll(last), ll(q));
-            if (d < bd) { bd = d; best = q; }
-          });
-          if (!best) break;
-          picked.push(best);
-        }
-        if (picked.length >= 4) list.push({ id: id + ":walk:" + a, cid: id, icon: "footprints", name: c.areas[a] + " walk", quests: picked });
+        var pool = inCity.filter(function (q) { return q.area === a && q.cat !== "ye"; });
+        add("walk:" + a, "footprints", c.areas[a] + " highlights", "The best sights and things to do in " + c.areas[a] + ", on foot", bestRoute(pool, 4, 7, 3.2));
       });
-      var ctr = cityCenter(c), food = c.quests.filter(function (q) { return q.cat === "ye" && q.area !== "cevre" && ll(q); })
-        .sort(function (x, y) { return km(ll(x), [ctr[1], ctr[0]]) - km(ll(y), [ctr[1], ctr[0]]); }).slice(0, 4);
-      if (food.length === 4) list.push({ id: id + ":taste", cid: id, icon: "utensils", name: "Taste of " + c.name, quests: food });
-      list.forEach(function (t) {
-        t.km = 0;
-        for (var i = 1; i < t.quests.length; i++) t.km += km(ll(t.quests[i - 1]), ll(t.quests[i]));
+      add("taste", "utensils", "Taste of " + c.name, "A food and drink crawl: local dishes, snacks and drinks",
+        bestRoute(inCity.filter(function (q) { return q.cat === "ye"; }), 4, 6, 3.5));
+      add("rain", "cloud", "Rainy day in " + c.name, "Indoor stops for a grey day",
+        bestRoute(inCity.filter(function (q) { return (q.tags || []).indexOf("rainy day") !== -1; }), 3, 5, 4));
+      // Day outs: towns in the surroundings with three or more quests close together
+      var rest = c.quests.filter(function (q) { return q.area === "cevre" && ll(q) && !q.months; }), groups = [];
+      rest.forEach(function (q) {
+        var g = groups.filter(function (g) { return g.some(function (x) { return km(ll(x), ll(q)) < 2.5; }); })[0];
+        if (g) g.push(q); else groups.push([q]);
+      });
+      groups.filter(function (g) { return g.length >= 3; }).sort(function (a, b) { return b.length - a.length; }).slice(0, 4).forEach(function (g, i) {
+        var town = townOf(g);
+        add("day:" + i, "map", town ? town + " day out" : "Day out: " + g[0].title, "A day trip: " + g.length + " quests close together" + (town ? " in and around " + town : ""), bestRoute(g, 3, 6, 6));
+      });
+      list.forEach(function (t, i) {
+        t.km = routeKm(t.quests) * 1.3;
+        t.mins = Math.round(((t.km / 4.5) * 60 + t.quests.length * 15) / 15) * 15; // walking plus about 15 minutes per stop
+        t.color = TRAIL_COLORS[i % TRAIL_COLORS.length];
         trailById[t.id] = t;
       });
       trailsByCity[id] = list;
@@ -229,6 +287,8 @@
   })();
   function trailDone(t) { return t.quests.every(isDone); }
   function trailStats(t) { return stats(t.quests); }
+  function trailNext(t) { return t.quests.filter(function (q) { return !isDone(q); })[0] || null; }
+  function trailTime(t) { return t.mins >= 60 ? Math.floor(t.mins / 60) + " h" + (t.mins % 60 ? " " + (t.mins % 60) + " min" : "") : Math.max(10, t.mins) + " min"; }
 
   // ── Explorer profile ───────────────────────────────────────
   var CLASSES = {

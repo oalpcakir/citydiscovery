@@ -203,10 +203,11 @@
     var s = trailStats(t);
     closeSheetSilently();
     showSheet("trailsheet", X + '<div class="sh"><span class="tile acc">' + ic(t.icon) + '</span><div class="grow">' +
-      '<span class="badge acc">Trail · ' + t.quests.length + ' stops · ' + kmText(t.km) + '</span><h3>' + esc(t.name) + '</h3></div></div>' +
+      '<span class="badge acc">Trail · ' + t.quests.length + ' stops · ' + kmText(t.km) + ' · ' + trailTime(t) + '</span><h3>' + esc(t.name) + '</h3></div></div>' +
+      '<p>' + esc(t.sub) + '</p>' +
       '<div class="reward">' + (s.done === s.total ? '<b>Complete</b>' : '<b>+' + TRAIL_XP + ' XP</b><span>for finishing all ' + s.total + ' stops</span><span>' + s.done + ' / ' + s.total + ' done</span>') + '</div>' +
       '<div class="list flush">' + t.quests.map(function (q, i) { return questRow(q, { n: i + 1 }); }).join("") + '</div>' +
-      '<div class="actions"><button class="btn" data-act="trail-map" data-id="' + esc(id) + '">' + ic("route") + 'Show the route on the map</button></div>', true);
+      '<div class="actions"><button class="btn" data-act="trail-map" data-id="' + esc(id) + '">' + ic("route") + 'Follow it on the map</button></div>', true);
   }
   function openRegions() {
     closeSheetSilently();
@@ -407,6 +408,14 @@
   }
 
   function endSearch() { ui.searchOpen = false; ui.sq = ""; }
+  function followTrail(id) {
+    var tr = trailById[id];
+    if (!tr) return;
+    closeSheetSilently(); endSearch();
+    ui.trail = id; ui.panel = null; ui.tab = "map"; ui.cat = "all"; ui.area = "all";
+    if (tr.cid !== cityId) setCurrent(tr.cid); else render();
+    setTimeout(function () { fitPoints(tr.quests.map(ll), 16); }, 60);
+  }
   function gotoRegion(id) {
     endSearch(); closeSheetSilently(); ui.tab = "map";
     if (cities[id]) { ui.trail = null; setCity(id, true); return; }
@@ -568,12 +577,14 @@
         closeSheet(); ui.tab = "map"; ui.cat = "all"; ui.area = "all"; render();
         if (q) openSheet(q.key);
         break;
-      case "trail-map": {
-        var tr = trailById[d.id];
-        closeSheetSilently(); ui.trail = d.id; ui.tab = "map"; ui.cat = "all"; ui.area = "all";
-        if (tr.cid !== cityId) setCurrent(tr.cid); else render();
-        setTimeout(function () { fitPoints(tr.quests.map(ll), 16); }, 60);
-        toast(tr.name + ": follow the dotted line");
+      case "trail-map": case "trail-follow": followTrail(d.id); break;
+      case "trail-end": ui.trail = null; render(); break;
+      case "trails": {
+        closeCtx(); endSearch();
+        var opening = ui.panel !== "trails" || !!ui.trail;
+        ui.trail = null; ui.panel = opening ? "trails" : null; ui.tab = "map"; render();
+        var tl = trailsByCity[cityId] || [];
+        if (opening && tl.length) fitPoints([].concat.apply([], tl.map(function (x) { return x.quests.map(ll); })), 15);
         break;
       }
       case "share": shareCard(); break;

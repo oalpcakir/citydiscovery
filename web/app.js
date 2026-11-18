@@ -2,7 +2,7 @@
 (function () {
   "use strict";
 
-  var APP_VERSION = "0.16.0";
+  var APP_VERSION = "0.17.0";
   var STORE_KEY = "citydiscovery.v1";
   var REPO = "https://github.com/oalpcakir/citydiscovery";
   var CATS = {
@@ -192,36 +192,94 @@
   }
   function tierLabel(b) { return !b.tier ? "Locked" : b.max === 1 ? "Unlocked" : TIERS[b.tier - 1].label; }
 
-  // ── Trails: short walks through nearby quests, built from the quest data ──
+  // ── Trails: themed walks through nearby quests, built from the quest data ──
+  // Each region gets a highlights walk per city area, a food crawl, a rainy-day walk and "day out" walks for towns
+  // in its surroundings. Stops are put in walking order; distances are straight lines times 1.3 (streets are not straight),
+  // and the time adds about 15 minutes per stop.
   var trails = [], trailsByCity = {}, trailById = {}, TRAIL_XP = 200;
+  var TRAIL_COLORS = ["#e11d48", "#2563eb", "#16a34a", "#d97706", "#7c3aed", "#0891b2", "#db2777", "#65a30d"];
+  function routeKm(list) {
+    var t = 0;
+    for (var i = 1; i < list.length; i++) t += km(ll(list[i - 1]), ll(list[i]));
+    return t;
+  }
+  // Best short route through a pool: nearest-neighbour from several starts, then 2-opt to untangle it.
+  function bestRoute(pool, minStops, maxStops, maxKm) {
+    pool = pool.filter(ll);
+    if (pool.length < minStops) return null;
+    var best = null;
+    pool.slice(0, 24).forEach(function (start) {
+      var route = [start], total = 0;
+      while (route.length < maxStops) {
+        var last = route[route.length - 1], pick = null, pd = Infinity;
+        pool.forEach(function (q) {
+          if (route.indexOf(q) !== -1) return;
+          var d = km(ll(last), ll(q));
+          if (d < pd) { pd = d; pick = q; }
+        });
+        if (!pick || total + pd > maxKm) break;
+        route.push(pick); total += pd;
+      }
+      if (route.length < minStops) return;
+      var cats = {}; route.forEach(function (q) { cats[q.cat] = 1; });
+      var score = route.length * 10 + Object.keys(cats).length * 3 - total;
+      if (!best || score > best.score) best = { score: score, route: route };
+    });
+    if (!best) return null;
+    var r = best.route.slice(), improved = true;
+    while (improved) {
+      improved = false;
+      for (var i = 1; i < r.length - 1; i++) {
+        for (var j = i + 1; j < r.length; j++) {
+          var cand = r.slice(0, i).concat(r.slice(i, j + 1).reverse(), r.slice(j + 1));
+          if (routeKm(cand) < routeKm(r) - 0.01) { r = cand; improved = true; }
+        }
+      }
+    }
+    return r;
+  }
+  // The town a group of surrounding quests is in: the most common last word of their map names ("Burg Satzvey Mechernich").
+  function townOf(list) {
+    var count = {};
+    list.forEach(function (q) {
+      var w = (q.q || "").trim().split(/\s+/).pop();
+      if (w && /^[A-ZÀ-Ý]/.test(w)) count[w] = (count[w] || 0) + 1;
+    });
+    var top = Object.keys(count).sort(function (a, b) { return count[b] - count[a]; })[0];
+    return top && count[top] >= 2 ? top : null;
+  }
   (function buildTrails() {
     Object.keys(cities).forEach(function (id) {
-      var c = cities[id], list = [];
+      // Seasonal quests (events, markets) stay out: a trail should work on any day.
+      var c = cities[id], list = [], inCity = c.quests.filter(function (q) { return q.area !== "cevre" && ll(q) && !q.months; });
+      var add = function (key, icon, name, sub, route) {
+        if (!route) return;
+        if (list.some(function (t) { return t.quests.filter(function (q) { return route.indexOf(q) !== -1; }).length > route.length / 2; })) return; // mostly a repeat
+        list.push({ id: id + ":" + key, cid: id, icon: icon, name: name, sub: sub, quests: route });
+      };
       Object.keys(c.areas).forEach(function (a) {
         if (a === "cevre") return;
-        var qs = c.quests.filter(function (q) { return q.area === a && ll(q); });
-        if (qs.length < 4) return;
-        var cx = 0, cy = 0;
-        qs.forEach(function (q) { cx += ll(q)[0] / qs.length; cy += ll(q)[1] / qs.length; });
-        var picked = [qs.slice().sort(function (x, y) { return km(ll(x), [cx, cy]) - km(ll(y), [cx, cy]); })[0]];
-        while (picked.length < 5) {
-          var last = picked[picked.length - 1], best = null, bd = 1.2;
-          qs.forEach(function (q) {
-            if (picked.indexOf(q) !== -1) return;
-            var d = km(ll(last), ll(q));
-            if (d < bd) { bd = d; best = q; }
-          });
-          if (!best) break;
-          picked.push(best);
-        }
-        if (picked.length >= 4) list.push({ id: id + ":walk:" + a, cid: id, icon: "footprints", name: c.areas[a] + " walk", quests: picked });
+        var pool = inCity.filter(function (q) { return q.area === a && q.cat !== "ye"; });
+        add("walk:" + a, "footprints", c.areas[a] + " highlights", "The best sights and things to do in " + c.areas[a] + ", on foot", bestRoute(pool, 4, 7, 3.2));
       });
-      var ctr = cityCenter(c), food = c.quests.filter(function (q) { return q.cat === "ye" && q.area !== "cevre" && ll(q); })
-        .sort(function (x, y) { return km(ll(x), [ctr[1], ctr[0]]) - km(ll(y), [ctr[1], ctr[0]]); }).slice(0, 4);
-      if (food.length === 4) list.push({ id: id + ":taste", cid: id, icon: "utensils", name: "Taste of " + c.name, quests: food });
-      list.forEach(function (t) {
-        t.km = 0;
-        for (var i = 1; i < t.quests.length; i++) t.km += km(ll(t.quests[i - 1]), ll(t.quests[i]));
+      add("taste", "utensils", "Taste of " + c.name, "A food and drink crawl: local dishes, snacks and drinks",
+        bestRoute(inCity.filter(function (q) { return q.cat === "ye"; }), 4, 6, 3.5));
+      add("rain", "cloud", "Rainy day in " + c.name, "Indoor stops for a grey day",
+        bestRoute(inCity.filter(function (q) { return (q.tags || []).indexOf("rainy day") !== -1; }), 3, 5, 4));
+      // Day outs: towns in the surroundings with three or more quests close together
+      var rest = c.quests.filter(function (q) { return q.area === "cevre" && ll(q) && !q.months; }), groups = [];
+      rest.forEach(function (q) {
+        var g = groups.filter(function (g) { return g.some(function (x) { return km(ll(x), ll(q)) < 2.5; }); })[0];
+        if (g) g.push(q); else groups.push([q]);
+      });
+      groups.filter(function (g) { return g.length >= 3; }).sort(function (a, b) { return b.length - a.length; }).slice(0, 4).forEach(function (g, i) {
+        var town = townOf(g);
+        add("day:" + i, "map", town ? town + " day out" : "Day out: " + g[0].title, "A day trip: " + g.length + " quests close together" + (town ? " in and around " + town : ""), bestRoute(g, 3, 6, 6));
+      });
+      list.forEach(function (t, i) {
+        t.km = routeKm(t.quests) * 1.3;
+        t.mins = Math.round(((t.km / 4.5) * 60 + t.quests.length * 15) / 15) * 15; // walking plus about 15 minutes per stop
+        t.color = TRAIL_COLORS[i % TRAIL_COLORS.length];
         trailById[t.id] = t;
       });
       trailsByCity[id] = list;
@@ -230,6 +288,8 @@
   })();
   function trailDone(t) { return t.quests.every(isDone); }
   function trailStats(t) { return stats(t.quests); }
+  function trailNext(t) { return t.quests.filter(function (q) { return !isDone(q); })[0] || null; }
+  function trailTime(t) { return t.mins >= 60 ? Math.floor(t.mins / 60) + " h" + (t.mins % 60 ? " " + (t.mins % 60) + " min" : "") : Math.max(10, t.mins) + " min"; }
 
   // ── Explorer profile ───────────────────────────────────────
   var CLASSES = {
@@ -611,10 +671,20 @@
     });
     return fc(feats);
   }
+  function lineOf(t) { return { type: "LineString", coordinates: t.quests.map(function (q) { return [ll(q)[1], ll(q)[0]]; }) }; }
+  // The trail you follow, drawn solid with numbered stops.
   function trailGeo() {
     var t = ui.trail && trailById[ui.trail];
-    if (!t) return fc([]);
-    return fc([{ type: "Feature", properties: {}, geometry: { type: "LineString", coordinates: t.quests.map(function (q) { return [ll(q)[1], ll(q)[0]]; }) } }]);
+    return fc(t ? [{ type: "Feature", properties: { color: t.color }, geometry: lineOf(t) }] : []);
+  }
+  function trailStopsGeo() {
+    var t = ui.trail && trailById[ui.trail];
+    return fc(t ? t.quests.map(function (q, i) { return point(ll(q), { n: String(i + 1), key: q.key, done: isDone(q) ? 1 : 0, color: t.color }); }) : []);
+  }
+  // While you pick a trail, every trail of the region is shown in its own colour.
+  function trailsAllGeo() {
+    if (ui.panel !== "trails" || ui.trail) return fc([]);
+    return fc((trailsByCity[cityId] || []).map(function (t) { return { type: "Feature", properties: { id: t.id, color: t.color }, geometry: lineOf(t) }; }));
   }
   function accent() { return getComputedStyle(document.documentElement).getPropertyValue("--accent").trim() || "#0e9f6e"; }
 
@@ -656,11 +726,13 @@
     map.addLayer({ id: "country-line", type: "line", source: "countries", layout: round,
       paint: { "line-color": "#1e293b", "line-opacity": 0.85, "line-dasharray": [3, 1.6], "line-width": zw(2.4, 3.6) } }, first);
 
+    var rnd = { "line-join": "round", "line-cap": "round" };
+    map.addSource("trails-all", { type: "geojson", data: trailsAllGeo() });
+    map.addLayer({ id: "trails-all-casing", type: "line", source: "trails-all", layout: rnd, paint: { "line-color": "#ffffff", "line-width": 9, "line-opacity": 0.9 } });
+    map.addLayer({ id: "trails-all-line", type: "line", source: "trails-all", layout: rnd, paint: { "line-color": ["get", "color"], "line-width": 5, "line-opacity": 0.9 } });
     map.addSource("trail", { type: "geojson", data: trailGeo() });
-    map.addLayer({ id: "trail-casing", type: "line", source: "trail", layout: { "line-join": "round", "line-cap": "round" },
-      paint: { "line-color": "#ffffff", "line-width": 8, "line-opacity": 0.9 } });
-    map.addLayer({ id: "trail-line", type: "line", source: "trail", layout: { "line-join": "round", "line-cap": "round" },
-      paint: { "line-color": ac, "line-width": 4, "line-dasharray": [0.2, 1.8] } });
+    map.addLayer({ id: "trail-casing", type: "line", source: "trail", layout: rnd, paint: { "line-color": "#ffffff", "line-width": 10, "line-opacity": 0.95 } });
+    map.addLayer({ id: "trail-line", type: "line", source: "trail", layout: rnd, paint: { "line-color": ["get", "color"], "line-width": 6 } });
 
     map.addSource("quests", { type: "geojson", data: questsGeo(), cluster: true, clusterMaxZoom: 13, clusterRadius: 46 });
     map.addLayer({ id: "done-glow", type: "circle", source: "quests", minzoom: 9,
@@ -680,6 +752,13 @@
       "text-anchor": "top", "text-offset": [0, 1.35], "text-optional": true },
       paint: { "text-color": txt, "text-halo-color": halo, "text-halo-width": 2 } });
 
+    map.addSource("trail-stops", { type: "geojson", data: trailStopsGeo() });
+    map.addLayer({ id: "trail-stops", type: "circle", source: "trail-stops", paint: {
+      "circle-radius": 13, "circle-color": ["case", ["==", ["get", "done"], 1], ["get", "color"], "#ffffff"],
+      "circle-stroke-color": ["get", "color"], "circle-stroke-width": 3.5 } });
+    map.addLayer({ id: "trail-stop-n", type: "symbol", source: "trail-stops", layout: {
+      "text-field": ["get", "n"], "text-font": ["Noto Sans Bold"], "text-size": 13, "text-allow-overlap": true, "text-ignore-placement": true },
+      paint: { "text-color": ["case", ["==", ["get", "done"], 1], "#ffffff", ["get", "color"]] } });
     map.addSource("sel", { type: "geojson", data: fc([]) });
     map.addLayer({ id: "sel-ring", type: "circle", source: "sel", paint: {
       "circle-radius": 30, "circle-color": ac, "circle-opacity": 0.12, "circle-stroke-color": ac, "circle-stroke-width": 3 } });
@@ -844,6 +923,10 @@
     if (ui.pinMode) { map.easeTo({ center: e.lngLat, duration: 400 }); return; } // tap to move the suggestion pin there
     var badge = map.queryRenderedFeatures(e.point, { layers: ["region-badges"] })[0];
     if (badge) { setCity(badge.properties.id, true); return; }
+    var stop = map.queryRenderedFeatures(e.point, { layers: ["trail-stops"] })[0];
+    if (stop && byKey[stop.properties.key]) { openQuest(byKey[stop.properties.key]); return; }
+    var tl = map.queryRenderedFeatures([[e.point.x - 6, e.point.y - 6], [e.point.x + 6, e.point.y + 6]], { layers: ["trails-all-line"] })[0];
+    if (tl) { followTrail(tl.properties.id); return; }
     var hit = map.queryRenderedFeatures(e.point, { layers: ["pins", "clusters"] })[0];
     if (hit && hit.layer.id === "pins") { var q = byKey[hit.properties.key]; if (q) openQuest(q); return; }
     if (hit) {
@@ -861,7 +944,7 @@
   }
   function onMapHover(e) {
     if (!mapReady) return;
-    var onPin = map.queryRenderedFeatures(e.point, { layers: ["pins", "clusters", "region-badges"] }).length > 0;
+    var onPin = map.queryRenderedFeatures(e.point, { layers: ["pins", "clusters", "region-badges", "trail-stops", "trails-all-line"] }).length > 0;
     var r = !onPin && map.getZoom() < OVERVIEW_ZOOM ? map.queryRenderedFeatures(e.point, { layers: ["region-fill"] })[0] : null;
     map.getCanvas().style.cursor = onPin || r ? "pointer" : "";
     map.setFilter("region-hover", ["==", ["get", "id"], r && !r.properties.soon ? r.properties.id : ""]);
@@ -871,6 +954,8 @@
     setSrc("quests", questsGeo());
     setSrc("regions", regionsGeo());
     setSrc("trail", trailGeo());
+    setSrc("trail-stops", trailStopsGeo());
+    setSrc("trails-all", trailsAllGeo());
     map.setFilter("region-cur", ["==", ["get", "id"], cityId]);
     refreshRegionBadges();
   }
@@ -950,7 +1035,7 @@
     if (!mapReady) return;
     var ac = accent();
     [["clusters", "circle-color"], ["done-glow", "circle-color"], ["sel-ring", "circle-color"], ["sel-ring", "circle-stroke-color"],
-      ["pulse", "circle-color"], ["trail-line", "line-color"]].forEach(function (x) { map.setPaintProperty(x[0], x[1], ac); });
+      ["pulse", "circle-color"]].forEach(function (x) { map.setPaintProperty(x[0], x[1], ac); });
   }
   // A ripple on the map where a quest was just completed.
   function pulseAt(q) { // a quest, or a plain [lat, lng]
@@ -1237,17 +1322,60 @@
     return '<div class="ghead"><b>' + ic("locate-fixed", "sm") + 'Near this spot</b><button class="linkbtn" data-act="panel-close">Close</button></div>' +
       '<div class="list flush">' + rows.map(function (x) { return questRow(x[0], { dist: x[1], region: x[0].cid !== cityId }); }).join("") + '</div>';
   }
+  // ── Trails on the map ──
+  function trailMeta(t) {
+    var s = trailStats(t);
+    return t.quests.length + ' stops · ' + kmText(t.km) + ' · ' + trailTime(t) + (s.done ? ' · ' + s.done + '/' + s.total + ' done' : "");
+  }
+  function trailPickHtml() {
+    var list = trailsByCity[cityId] || [];
+    return '<div class="ghead"><b>' + ic("route", "sm") + 'Trails in ' + esc(city.name) + '</b><button class="linkbtn" data-act="panel-close">Close</button></div>' +
+      (list.length ? '<p class="note flat">Tap a trail here or its line on the map. Finish every stop for +' + TRAIL_XP + ' XP.</p><div class="list flush">' +
+        list.map(function (t) {
+          var done = trailDone(t);
+          return '<button class="card tcard' + (done ? " done" : "") + '" data-act="trail-follow" data-id="' + esc(t.id) + '" style="--tc:' + t.color + '">' +
+            '<span class="tile" style="--c:' + t.color + '">' + ic(t.icon) + '</span><div class="body"><div class="t">' + esc(t.name) + '</div>' +
+            '<div class="m">' + esc(t.sub) + '</div><div class="m">' + trailMeta(t) + '</div></div><span class="xp">' + (done ? ic("check") : "+" + TRAIL_XP) + '</span></button>';
+        }).join("") + '</div>' : '<div class="empty">No trails in this region yet.</div>');
+  }
+  function trailStopsHtml(t) {
+    return '<div class="tb-stops">' + t.quests.map(function (q, i) {
+      return '<button class="tstop' + (isDone(q) ? " on" : "") + '" data-open="' + esc(q.key) + '" style="--tc:' + t.color + '" aria-label="Stop ' + (i + 1) + ': ' + esc(q.title) + '">' + (i + 1) + '</button>';
+    }).join('<i></i>') + '</div>';
+  }
+  function trailNextHtml(t) {
+    var next = trailNext(t);
+    return next ? '<button class="btn tb-next" data-open="' + esc(next.key) + '">' + ic("navigation", "sm") + 'Next stop: ' + esc(next.title) + '</button>'
+      : '<div class="reward done">' + ic("check", "sm") + 'Trail complete · +' + TRAIL_XP + ' XP</div>';
+  }
+  function trailBarHtml() {
+    var t = trailById[ui.trail];
+    return '<div class="trailbar glass" style="--tc:' + t.color + '"><div class="tb-h"><span class="tile sm" style="--c:' + t.color + '">' + ic(t.icon) + '</span>' +
+      '<div class="grow"><b>' + esc(t.name) + '</b><small>' + trailMeta(t) + '</small></div>' +
+      '<button class="hbtn" data-act="trail-end" aria-label="Stop following this trail">' + ic("x") + '</button></div>' + trailStopsHtml(t) + trailNextHtml(t) + '</div>';
+  }
+  function trailDetailHtml() {
+    var t = trailById[ui.trail];
+    return '<div class="ghead"><b>' + ic("route", "sm") + 'Following a trail</b><button class="linkbtn" data-act="trail-end">End</button></div>' +
+      '<div class="tdetail" style="--tc:' + t.color + '"><h3>' + esc(t.name) + '</h3><p class="note flat">' + esc(t.sub) + '</p><p class="note flat">' + trailMeta(t) + '</p>' +
+      trailStopsHtml(t) + trailNextHtml(t) + '</div>' +
+      '<div class="list flush">' + t.quests.map(function (q, i) { return questRow(q, { n: i + 1 }); }).join("") + '</div>';
+  }
   function sideBodyHtml() {
     if ((ui.sq || "").trim()) return searchResultsHtml();
+    if (ui.trail && trailById[ui.trail]) return trailDetailHtml();
+    if (ui.panel === "trails") return trailPickHtml();
     if (ui.panel === "near" && ui.panelAt) return nearListHtml();
-    return '<div class="chips">' + catChips() + '<i class="sep"></i>' + chip("show", "todo", "To do") + chip("show", "done", "Done") + chip("show", "all", "Both") + '</div>' +
+    return '<button class="btn ghost trailsbtn" data-act="trails">' + ic("route") + 'Trails in ' + esc(city.name) + ' <small>' + (trailsByCity[cityId] || []).length + '</small></button>' +
+      '<div class="chips">' + catChips() + '<i class="sep"></i>' + chip("show", "todo", "To do") + chip("show", "done", "Done") + chip("show", "all", "Both") + '</div>' +
       '<div class="chips">' + areaChips() + '</div><div class="list flush">' + questListHtml() + '</div>';
   }
   function mapCtlHtml() {
     return '<div class="mapctl">' +
       '<button class="glass desk" data-act="zoom-in" aria-label="Zoom in">' + ic("plus") + '</button>' +
       '<button class="glass desk" data-act="zoom-out" aria-label="Zoom out">' + ic("minus") + '</button>' +
-      '<button class="glass" data-act="locate" aria-label="My location">' + ic("locate-fixed") + '</button>' +
+      '<button class="glass keep" data-act="locate" aria-label="My location">' + ic("locate-fixed") + '</button>' +
+      '<button class="glass keep' + (ui.panel === "trails" || ui.trail ? " on" : "") + '" data-act="trails" aria-label="Trails">' + ic("route") + '</button>' +
       '<button class="glass" data-act="tilt" aria-label="Tilt the map">' + ic("box") + '</button>' +
       '<button class="glass" data-act="overview" aria-label="All regions">' + ic("globe") + '</button>' +
       '<button class="glass" data-act="suggest" aria-label="Surprise me">' + ic("dices") + '</button>' +
@@ -1270,12 +1398,15 @@
         '<div class="pm-bar glass"><div class="pm-t"><b>Suggest a place</b><span>Move the map (or tap) so the pin sits on the spot</span></div>' +
         '<div class="pm-btns"><button class="btn plain" data-act="rec-cancel">Cancel</button><button class="btn" data-act="rec-here">' + ic("check", "sm") + 'Use this spot</button></div></div>';
     }
-    if (wide) return side + mapStateHtml() + mapCtlHtml() + fabHtml();
+    if (wide) { document.body.classList.remove("has-bar"); return side + mapStateHtml() + mapCtlHtml() + (ui.trail ? "" : fabHtml()); }
     var top = ui.searchOpen
       ? searchBarHtml(true) + '<div id="presults" class="sres glass">' + searchResultsHtml() + '</div>'
       : topcardHtml(true) + '<div class="chips">' + catChips() + '</div><div class="chips area-row">' + areaChips() + '</div>';
-    var near = ui.panel === "near" && ui.panelAt && !ui.searchOpen ? '<div class="nearpanel glass">' + nearListHtml() + '</div>' : "";
-    return '<div class="map-top">' + top + '</div>' + mapStateHtml() + near + (near ? "" : mapCtlHtml() + fabHtml());
+    var bottom = ui.searchOpen ? "" : ui.trail && trailById[ui.trail] ? trailBarHtml()
+      : ui.panel === "trails" ? '<div class="nearpanel glass">' + trailPickHtml() + '</div>'
+      : ui.panel === "near" && ui.panelAt ? '<div class="nearpanel glass">' + nearListHtml() + '</div>' : "";
+    document.body.classList.toggle("has-bar", !!bottom);
+    return '<div class="map-top">' + top + '</div>' + mapStateHtml() + bottom + mapCtlHtml() + (bottom ? "" : fabHtml());
   }
 
   // ── Place search: regions, quests and (online) any town or address ──
@@ -1392,7 +1523,7 @@
     var s = trailStats(t);
     return '<button class="card trail' + (s.done === s.total ? " done" : "") + '" data-trail="' + esc(t.id) + '">' +
       '<span class="tile acc">' + ic(t.icon) + '</span><div class="body"><div class="t">' + esc(t.name) + '</div>' +
-      '<div class="m">' + t.quests.length + ' stops · ' + kmText(t.km) + ' · ' + (s.done === s.total ? "Complete" : s.done + " / " + s.total + " done") + '</div>' + bar(s.pct) + '</div>' +
+      '<div class="m">' + esc(t.sub) + '</div><div class="m">' + t.quests.length + ' stops · ' + kmText(t.km) + ' · ' + trailTime(t) + ' · ' + (s.done === s.total ? "Complete" : s.done + " / " + s.total + " done") + '</div>' + bar(s.pct) + '</div>' +
       '<span class="xp">+' + TRAIL_XP + '</span></button>';
   }
   function renderQuests() {
@@ -1814,10 +1945,11 @@
     var s = trailStats(t);
     closeSheetSilently();
     showSheet("trailsheet", X + '<div class="sh"><span class="tile acc">' + ic(t.icon) + '</span><div class="grow">' +
-      '<span class="badge acc">Trail · ' + t.quests.length + ' stops · ' + kmText(t.km) + '</span><h3>' + esc(t.name) + '</h3></div></div>' +
+      '<span class="badge acc">Trail · ' + t.quests.length + ' stops · ' + kmText(t.km) + ' · ' + trailTime(t) + '</span><h3>' + esc(t.name) + '</h3></div></div>' +
+      '<p>' + esc(t.sub) + '</p>' +
       '<div class="reward">' + (s.done === s.total ? '<b>Complete</b>' : '<b>+' + TRAIL_XP + ' XP</b><span>for finishing all ' + s.total + ' stops</span><span>' + s.done + ' / ' + s.total + ' done</span>') + '</div>' +
       '<div class="list flush">' + t.quests.map(function (q, i) { return questRow(q, { n: i + 1 }); }).join("") + '</div>' +
-      '<div class="actions"><button class="btn" data-act="trail-map" data-id="' + esc(id) + '">' + ic("route") + 'Show the route on the map</button></div>', true);
+      '<div class="actions"><button class="btn" data-act="trail-map" data-id="' + esc(id) + '">' + ic("route") + 'Follow it on the map</button></div>', true);
   }
   function openRegions() {
     closeSheetSilently();
@@ -2018,6 +2150,14 @@
   }
 
   function endSearch() { ui.searchOpen = false; ui.sq = ""; }
+  function followTrail(id) {
+    var tr = trailById[id];
+    if (!tr) return;
+    closeSheetSilently(); endSearch();
+    ui.trail = id; ui.panel = null; ui.tab = "map"; ui.cat = "all"; ui.area = "all";
+    if (tr.cid !== cityId) setCurrent(tr.cid); else render();
+    setTimeout(function () { fitPoints(tr.quests.map(ll), 16); }, 60);
+  }
   function gotoRegion(id) {
     endSearch(); closeSheetSilently(); ui.tab = "map";
     if (cities[id]) { ui.trail = null; setCity(id, true); return; }
@@ -2179,12 +2319,14 @@
         closeSheet(); ui.tab = "map"; ui.cat = "all"; ui.area = "all"; render();
         if (q) openSheet(q.key);
         break;
-      case "trail-map": {
-        var tr = trailById[d.id];
-        closeSheetSilently(); ui.trail = d.id; ui.tab = "map"; ui.cat = "all"; ui.area = "all";
-        if (tr.cid !== cityId) setCurrent(tr.cid); else render();
-        setTimeout(function () { fitPoints(tr.quests.map(ll), 16); }, 60);
-        toast(tr.name + ": follow the dotted line");
+      case "trail-map": case "trail-follow": followTrail(d.id); break;
+      case "trail-end": ui.trail = null; render(); break;
+      case "trails": {
+        closeCtx(); endSearch();
+        var opening = ui.panel !== "trails" || !!ui.trail;
+        ui.trail = null; ui.panel = opening ? "trails" : null; ui.tab = "map"; render();
+        var tl = trailsByCity[cityId] || [];
+        if (opening && tl.length) fitPoints([].concat.apply([], tl.map(function (x) { return x.quests.map(ll); })), 15);
         break;
       }
       case "share": shareCard(); break;

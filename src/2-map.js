@@ -223,10 +223,20 @@
     });
     return fc(feats);
   }
+  function lineOf(t) { return { type: "LineString", coordinates: t.quests.map(function (q) { return [ll(q)[1], ll(q)[0]]; }) }; }
+  // The trail you follow, drawn solid with numbered stops.
   function trailGeo() {
     var t = ui.trail && trailById[ui.trail];
-    if (!t) return fc([]);
-    return fc([{ type: "Feature", properties: {}, geometry: { type: "LineString", coordinates: t.quests.map(function (q) { return [ll(q)[1], ll(q)[0]]; }) } }]);
+    return fc(t ? [{ type: "Feature", properties: { color: t.color }, geometry: lineOf(t) }] : []);
+  }
+  function trailStopsGeo() {
+    var t = ui.trail && trailById[ui.trail];
+    return fc(t ? t.quests.map(function (q, i) { return point(ll(q), { n: String(i + 1), key: q.key, done: isDone(q) ? 1 : 0, color: t.color }); }) : []);
+  }
+  // While you pick a trail, every trail of the region is shown in its own colour.
+  function trailsAllGeo() {
+    if (ui.panel !== "trails" || ui.trail) return fc([]);
+    return fc((trailsByCity[cityId] || []).map(function (t) { return { type: "Feature", properties: { id: t.id, color: t.color }, geometry: lineOf(t) }; }));
   }
   function accent() { return getComputedStyle(document.documentElement).getPropertyValue("--accent").trim() || "#0e9f6e"; }
 
@@ -268,11 +278,13 @@
     map.addLayer({ id: "country-line", type: "line", source: "countries", layout: round,
       paint: { "line-color": "#1e293b", "line-opacity": 0.85, "line-dasharray": [3, 1.6], "line-width": zw(2.4, 3.6) } }, first);
 
+    var rnd = { "line-join": "round", "line-cap": "round" };
+    map.addSource("trails-all", { type: "geojson", data: trailsAllGeo() });
+    map.addLayer({ id: "trails-all-casing", type: "line", source: "trails-all", layout: rnd, paint: { "line-color": "#ffffff", "line-width": 9, "line-opacity": 0.9 } });
+    map.addLayer({ id: "trails-all-line", type: "line", source: "trails-all", layout: rnd, paint: { "line-color": ["get", "color"], "line-width": 5, "line-opacity": 0.9 } });
     map.addSource("trail", { type: "geojson", data: trailGeo() });
-    map.addLayer({ id: "trail-casing", type: "line", source: "trail", layout: { "line-join": "round", "line-cap": "round" },
-      paint: { "line-color": "#ffffff", "line-width": 8, "line-opacity": 0.9 } });
-    map.addLayer({ id: "trail-line", type: "line", source: "trail", layout: { "line-join": "round", "line-cap": "round" },
-      paint: { "line-color": ac, "line-width": 4, "line-dasharray": [0.2, 1.8] } });
+    map.addLayer({ id: "trail-casing", type: "line", source: "trail", layout: rnd, paint: { "line-color": "#ffffff", "line-width": 10, "line-opacity": 0.95 } });
+    map.addLayer({ id: "trail-line", type: "line", source: "trail", layout: rnd, paint: { "line-color": ["get", "color"], "line-width": 6 } });
 
     map.addSource("quests", { type: "geojson", data: questsGeo(), cluster: true, clusterMaxZoom: 13, clusterRadius: 46 });
     map.addLayer({ id: "done-glow", type: "circle", source: "quests", minzoom: 9,
@@ -292,6 +304,13 @@
       "text-anchor": "top", "text-offset": [0, 1.35], "text-optional": true },
       paint: { "text-color": txt, "text-halo-color": halo, "text-halo-width": 2 } });
 
+    map.addSource("trail-stops", { type: "geojson", data: trailStopsGeo() });
+    map.addLayer({ id: "trail-stops", type: "circle", source: "trail-stops", paint: {
+      "circle-radius": 13, "circle-color": ["case", ["==", ["get", "done"], 1], ["get", "color"], "#ffffff"],
+      "circle-stroke-color": ["get", "color"], "circle-stroke-width": 3.5 } });
+    map.addLayer({ id: "trail-stop-n", type: "symbol", source: "trail-stops", layout: {
+      "text-field": ["get", "n"], "text-font": ["Noto Sans Bold"], "text-size": 13, "text-allow-overlap": true, "text-ignore-placement": true },
+      paint: { "text-color": ["case", ["==", ["get", "done"], 1], "#ffffff", ["get", "color"]] } });
     map.addSource("sel", { type: "geojson", data: fc([]) });
     map.addLayer({ id: "sel-ring", type: "circle", source: "sel", paint: {
       "circle-radius": 30, "circle-color": ac, "circle-opacity": 0.12, "circle-stroke-color": ac, "circle-stroke-width": 3 } });
@@ -456,6 +475,10 @@
     if (ui.pinMode) { map.easeTo({ center: e.lngLat, duration: 400 }); return; } // tap to move the suggestion pin there
     var badge = map.queryRenderedFeatures(e.point, { layers: ["region-badges"] })[0];
     if (badge) { setCity(badge.properties.id, true); return; }
+    var stop = map.queryRenderedFeatures(e.point, { layers: ["trail-stops"] })[0];
+    if (stop && byKey[stop.properties.key]) { openQuest(byKey[stop.properties.key]); return; }
+    var tl = map.queryRenderedFeatures([[e.point.x - 6, e.point.y - 6], [e.point.x + 6, e.point.y + 6]], { layers: ["trails-all-line"] })[0];
+    if (tl) { followTrail(tl.properties.id); return; }
     var hit = map.queryRenderedFeatures(e.point, { layers: ["pins", "clusters"] })[0];
     if (hit && hit.layer.id === "pins") { var q = byKey[hit.properties.key]; if (q) openQuest(q); return; }
     if (hit) {
@@ -473,7 +496,7 @@
   }
   function onMapHover(e) {
     if (!mapReady) return;
-    var onPin = map.queryRenderedFeatures(e.point, { layers: ["pins", "clusters", "region-badges"] }).length > 0;
+    var onPin = map.queryRenderedFeatures(e.point, { layers: ["pins", "clusters", "region-badges", "trail-stops", "trails-all-line"] }).length > 0;
     var r = !onPin && map.getZoom() < OVERVIEW_ZOOM ? map.queryRenderedFeatures(e.point, { layers: ["region-fill"] })[0] : null;
     map.getCanvas().style.cursor = onPin || r ? "pointer" : "";
     map.setFilter("region-hover", ["==", ["get", "id"], r && !r.properties.soon ? r.properties.id : ""]);
@@ -483,6 +506,8 @@
     setSrc("quests", questsGeo());
     setSrc("regions", regionsGeo());
     setSrc("trail", trailGeo());
+    setSrc("trail-stops", trailStopsGeo());
+    setSrc("trails-all", trailsAllGeo());
     map.setFilter("region-cur", ["==", ["get", "id"], cityId]);
     refreshRegionBadges();
   }
@@ -562,7 +587,7 @@
     if (!mapReady) return;
     var ac = accent();
     [["clusters", "circle-color"], ["done-glow", "circle-color"], ["sel-ring", "circle-color"], ["sel-ring", "circle-stroke-color"],
-      ["pulse", "circle-color"], ["trail-line", "line-color"]].forEach(function (x) { map.setPaintProperty(x[0], x[1], ac); });
+      ["pulse", "circle-color"]].forEach(function (x) { map.setPaintProperty(x[0], x[1], ac); });
   }
   // A ripple on the map where a quest was just completed.
   function pulseAt(q) { // a quest, or a plain [lat, lng]

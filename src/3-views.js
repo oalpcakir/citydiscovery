@@ -268,17 +268,60 @@
     return '<div class="ghead"><b>' + ic("locate-fixed", "sm") + 'Near this spot</b><button class="linkbtn" data-act="panel-close">Close</button></div>' +
       '<div class="list flush">' + rows.map(function (x) { return questRow(x[0], { dist: x[1], region: x[0].cid !== cityId }); }).join("") + '</div>';
   }
+  // ── Trails on the map ──
+  function trailMeta(t) {
+    var s = trailStats(t);
+    return t.quests.length + ' stops · ' + kmText(t.km) + ' · ' + trailTime(t) + (s.done ? ' · ' + s.done + '/' + s.total + ' done' : "");
+  }
+  function trailPickHtml() {
+    var list = trailsByCity[cityId] || [];
+    return '<div class="ghead"><b>' + ic("route", "sm") + 'Trails in ' + esc(city.name) + '</b><button class="linkbtn" data-act="panel-close">Close</button></div>' +
+      (list.length ? '<p class="note flat">Tap a trail here or its line on the map. Finish every stop for +' + TRAIL_XP + ' XP.</p><div class="list flush">' +
+        list.map(function (t) {
+          var done = trailDone(t);
+          return '<button class="card tcard' + (done ? " done" : "") + '" data-act="trail-follow" data-id="' + esc(t.id) + '" style="--tc:' + t.color + '">' +
+            '<span class="tile" style="--c:' + t.color + '">' + ic(t.icon) + '</span><div class="body"><div class="t">' + esc(t.name) + '</div>' +
+            '<div class="m">' + esc(t.sub) + '</div><div class="m">' + trailMeta(t) + '</div></div><span class="xp">' + (done ? ic("check") : "+" + TRAIL_XP) + '</span></button>';
+        }).join("") + '</div>' : '<div class="empty">No trails in this region yet.</div>');
+  }
+  function trailStopsHtml(t) {
+    return '<div class="tb-stops">' + t.quests.map(function (q, i) {
+      return '<button class="tstop' + (isDone(q) ? " on" : "") + '" data-open="' + esc(q.key) + '" style="--tc:' + t.color + '" aria-label="Stop ' + (i + 1) + ': ' + esc(q.title) + '">' + (i + 1) + '</button>';
+    }).join('<i></i>') + '</div>';
+  }
+  function trailNextHtml(t) {
+    var next = trailNext(t);
+    return next ? '<button class="btn tb-next" data-open="' + esc(next.key) + '">' + ic("navigation", "sm") + 'Next stop: ' + esc(next.title) + '</button>'
+      : '<div class="reward done">' + ic("check", "sm") + 'Trail complete · +' + TRAIL_XP + ' XP</div>';
+  }
+  function trailBarHtml() {
+    var t = trailById[ui.trail];
+    return '<div class="trailbar glass" style="--tc:' + t.color + '"><div class="tb-h"><span class="tile sm" style="--c:' + t.color + '">' + ic(t.icon) + '</span>' +
+      '<div class="grow"><b>' + esc(t.name) + '</b><small>' + trailMeta(t) + '</small></div>' +
+      '<button class="hbtn" data-act="trail-end" aria-label="Stop following this trail">' + ic("x") + '</button></div>' + trailStopsHtml(t) + trailNextHtml(t) + '</div>';
+  }
+  function trailDetailHtml() {
+    var t = trailById[ui.trail];
+    return '<div class="ghead"><b>' + ic("route", "sm") + 'Following a trail</b><button class="linkbtn" data-act="trail-end">End</button></div>' +
+      '<div class="tdetail" style="--tc:' + t.color + '"><h3>' + esc(t.name) + '</h3><p class="note flat">' + esc(t.sub) + '</p><p class="note flat">' + trailMeta(t) + '</p>' +
+      trailStopsHtml(t) + trailNextHtml(t) + '</div>' +
+      '<div class="list flush">' + t.quests.map(function (q, i) { return questRow(q, { n: i + 1 }); }).join("") + '</div>';
+  }
   function sideBodyHtml() {
     if ((ui.sq || "").trim()) return searchResultsHtml();
+    if (ui.trail && trailById[ui.trail]) return trailDetailHtml();
+    if (ui.panel === "trails") return trailPickHtml();
     if (ui.panel === "near" && ui.panelAt) return nearListHtml();
-    return '<div class="chips">' + catChips() + '<i class="sep"></i>' + chip("show", "todo", "To do") + chip("show", "done", "Done") + chip("show", "all", "Both") + '</div>' +
+    return '<button class="btn ghost trailsbtn" data-act="trails">' + ic("route") + 'Trails in ' + esc(city.name) + ' <small>' + (trailsByCity[cityId] || []).length + '</small></button>' +
+      '<div class="chips">' + catChips() + '<i class="sep"></i>' + chip("show", "todo", "To do") + chip("show", "done", "Done") + chip("show", "all", "Both") + '</div>' +
       '<div class="chips">' + areaChips() + '</div><div class="list flush">' + questListHtml() + '</div>';
   }
   function mapCtlHtml() {
     return '<div class="mapctl">' +
       '<button class="glass desk" data-act="zoom-in" aria-label="Zoom in">' + ic("plus") + '</button>' +
       '<button class="glass desk" data-act="zoom-out" aria-label="Zoom out">' + ic("minus") + '</button>' +
-      '<button class="glass" data-act="locate" aria-label="My location">' + ic("locate-fixed") + '</button>' +
+      '<button class="glass keep" data-act="locate" aria-label="My location">' + ic("locate-fixed") + '</button>' +
+      '<button class="glass keep' + (ui.panel === "trails" || ui.trail ? " on" : "") + '" data-act="trails" aria-label="Trails">' + ic("route") + '</button>' +
       '<button class="glass" data-act="tilt" aria-label="Tilt the map">' + ic("box") + '</button>' +
       '<button class="glass" data-act="overview" aria-label="All regions">' + ic("globe") + '</button>' +
       '<button class="glass" data-act="suggest" aria-label="Surprise me">' + ic("dices") + '</button>' +
@@ -301,12 +344,15 @@
         '<div class="pm-bar glass"><div class="pm-t"><b>Suggest a place</b><span>Move the map (or tap) so the pin sits on the spot</span></div>' +
         '<div class="pm-btns"><button class="btn plain" data-act="rec-cancel">Cancel</button><button class="btn" data-act="rec-here">' + ic("check", "sm") + 'Use this spot</button></div></div>';
     }
-    if (wide) return side + mapStateHtml() + mapCtlHtml() + fabHtml();
+    if (wide) { document.body.classList.remove("has-bar"); return side + mapStateHtml() + mapCtlHtml() + (ui.trail ? "" : fabHtml()); }
     var top = ui.searchOpen
       ? searchBarHtml(true) + '<div id="presults" class="sres glass">' + searchResultsHtml() + '</div>'
       : topcardHtml(true) + '<div class="chips">' + catChips() + '</div><div class="chips area-row">' + areaChips() + '</div>';
-    var near = ui.panel === "near" && ui.panelAt && !ui.searchOpen ? '<div class="nearpanel glass">' + nearListHtml() + '</div>' : "";
-    return '<div class="map-top">' + top + '</div>' + mapStateHtml() + near + (near ? "" : mapCtlHtml() + fabHtml());
+    var bottom = ui.searchOpen ? "" : ui.trail && trailById[ui.trail] ? trailBarHtml()
+      : ui.panel === "trails" ? '<div class="nearpanel glass">' + trailPickHtml() + '</div>'
+      : ui.panel === "near" && ui.panelAt ? '<div class="nearpanel glass">' + nearListHtml() + '</div>' : "";
+    document.body.classList.toggle("has-bar", !!bottom);
+    return '<div class="map-top">' + top + '</div>' + mapStateHtml() + bottom + mapCtlHtml() + (bottom ? "" : fabHtml());
   }
 
   // ── Place search: regions, quests and (online) any town or address ──
@@ -423,7 +469,7 @@
     var s = trailStats(t);
     return '<button class="card trail' + (s.done === s.total ? " done" : "") + '" data-trail="' + esc(t.id) + '">' +
       '<span class="tile acc">' + ic(t.icon) + '</span><div class="body"><div class="t">' + esc(t.name) + '</div>' +
-      '<div class="m">' + t.quests.length + ' stops · ' + kmText(t.km) + ' · ' + (s.done === s.total ? "Complete" : s.done + " / " + s.total + " done") + '</div>' + bar(s.pct) + '</div>' +
+      '<div class="m">' + esc(t.sub) + '</div><div class="m">' + t.quests.length + ' stops · ' + kmText(t.km) + ' · ' + trailTime(t) + ' · ' + (s.done === s.total ? "Complete" : s.done + " / " + s.total + " done") + '</div>' + bar(s.pct) + '</div>' +
       '<span class="xp">+' + TRAIL_XP + '</span></button>';
   }
   function renderQuests() {

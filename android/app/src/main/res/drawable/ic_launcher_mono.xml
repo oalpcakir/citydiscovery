@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Single-colour version for Android 13+ themed icons: pin with the ball cut out, plus the spark. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <group android:pivotX="60" android:pivotY="52.5" android:scaleX="0.66" android:scaleY="0.66"
+        android:translateX="-6" android:translateY="1.5">
+        <path android:fillColor="#FFFFFF" android:fillType="evenOdd"
+            android:pathData="M54,90C46,79 30,66 30,47a24,24 0,0 1,48 0c0,19 -16,32 -24,43zM39,47a15,15 0,1 0,30 0a15,15 0,1 0,-30 0z" />
+        <path android:fillColor="#FFFFFF"
+            android:pathData="M80,15q1.6,8.4 10,10 -8.4,1.6 -10,10 -1.6,-8.4 -10,-10 8.4,-1.6 10,-10z" />
+    </group>
+</vector>

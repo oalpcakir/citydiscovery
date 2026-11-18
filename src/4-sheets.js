@@ -275,7 +275,7 @@
   // First run: one question (where are you?), then straight to the map. The explorer is set up after the first quest.
   function openWelcome() {
     closeSheetSilently();
-    showSheet("editor", '<div class="welcome">' + ic("map-pin") + '</div><div class="cel-h">Welcome to City Disco</div>' +
+    showSheet("editor", '<div class="welcome"><img src="icon.svg" alt=""></div><div class="cel-h">Welcome to City Disco</div>' +
       '<p class="note center" style="margin-top:-6px">Your city, your adventure. Find things to see, eat and do around you, tick them off and level up.</p>' +
       '<label class="lbl" for="whome">Where do you want to start?</label><select id="whome" class="inp">' + Object.keys(cities).map(function (id) {
         return '<option value="' + id + '"' + (cityId === id ? " selected" : "") + '>' + esc(cities[id].name) + ' (' + esc(cities[id].country) + ')</option>';
@@ -294,7 +294,7 @@
     ui.draft = JSON.parse(JSON.stringify(pr));
     var lockAt = function (u) { return u.level > lv ? u.level : 0; };
     var of = function (type) { return UNLOCKS.filter(function (u) { return u.type === type; }); };
-    var html = (first ? '<div class="welcome">' + ic("map-pin") + '</div>' : X) +
+    var html = (first ? '<div class="welcome"><img src="icon.svg" alt=""></div>' : X) +
       '<div class="cel-h">' + (first ? "Welcome to City Disco" : intro ? "First quest done!" : "Your explorer") + '</div>' +
       (intro ? '<p class="note center" style="margin-top:-6px">Now make your explorer yours: a name, a face and a class with its own XP bonus.</p>' : "") +
       (first ? '<p class="note center" style="margin-top:-6px">Rediscover where you live, one quest at a time. Earn XP, level up and unlock new looks.</p>' : "") +

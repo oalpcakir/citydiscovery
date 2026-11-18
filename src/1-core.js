@@ -5,9 +5,9 @@
   var STORE_KEY = "citydiscovery.v1";
   var REPO = "https://github.com/oalpcakir/citydiscovery";
   var CATS = {
-    gor: { label: "See", icon: "landmark", color: "#3b82f6" },
+    gor: { label: "See", icon: "landmark", color: "#2f7cf6" },
     ye: { label: "Eat & drink", icon: "utensils", color: "#f97316" },
-    dene: { label: "Do", icon: "sparkles", color: "#a855f7" }
+    dene: { label: "Do", icon: "sparkles", color: "#9b5cf6" }
   };
   var MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
   var STYLE_LIGHT = "https://tiles.openfreemap.org/styles/liberty";
@@ -119,7 +119,7 @@
   function applyTheme() {
     document.documentElement.setAttribute("data-theme", theme());
     var m = document.querySelector('meta[name="theme-color"]');
-    if (m) m.setAttribute("content", theme() === "dark" ? "#171c26" : "#f4f6fb");
+    if (m) m.setAttribute("content", theme() === "dark" ? "#141c21" : "#f4f7f5");
   }
   function dayKey(t) { var d = t ? new Date(t) : new Date(); return d.getFullYear() + "-" + (d.getMonth() + 1) + "-" + d.getDate(); }
 

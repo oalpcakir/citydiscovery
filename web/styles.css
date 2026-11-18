@@ -1,16 +1,23 @@
+/* City Disco brand tokens (Mirror Pin). Rules and reasons: docs/brand.md */
+@font-face { font-family: "Bricolage Grotesque"; font-style: normal; font-weight: 600 800; font-display: swap;
+  src: url("fonts/bricolage-grotesque-latin.woff2") format("woff2"); }
 :root {
-  --bg: #f4f6fb; --card: #ffffff; --glass: rgba(255, 255, 255, .86); --text: #0f172a; --muted: #64748b; --line: #e7ebf3;
-  --accent: #0e9f6e; --accent-ink: #047857; --accent-soft: #e2f6ee; --on-accent: #ffffff;
-  --gor: #3b82f6; --ye: #f97316; --dene: #a855f7;
-  --shadow: 0 1px 2px rgba(15, 23, 42, .05), 0 10px 28px rgba(15, 23, 42, .09);
-  --shadow-sm: 0 1px 2px rgba(15, 23, 42, .06), 0 4px 12px rgba(15, 23, 42, .07);
-  --grad: linear-gradient(90deg, var(--accent), color-mix(in srgb, var(--accent) 55%, #ffffff));
+  --bg: #f4f7f5; --card: #ffffff; --glass: rgba(255, 255, 255, .86); --text: #0f1f2e; --muted: #5a6b78; --line: #e2e9e5;
+  --accent: #0e9f6e; --accent-ink: #047857; --accent-soft: #dff5ec; --on-accent: #ffffff;
+  --spark: #ffc53d; --spark-ink: #9a6700; --spark-soft: #fff4d6;
+  --gor: #2f7cf6; --ye: #f97316; --dene: #9b5cf6;
+  --shadow: 0 1px 2px rgba(15, 31, 46, .05), 0 10px 28px rgba(15, 31, 46, .09);
+  --shadow-sm: 0 1px 2px rgba(15, 31, 46, .06), 0 4px 12px rgba(15, 31, 46, .07);
+  --grad: linear-gradient(90deg, var(--accent), color-mix(in srgb, var(--accent) 35%, var(--spark)));
+  --f-display: "Bricolage Grotesque", Inter, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --f-body: Inter, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
   --nav-h: 64px; --rail: 0px; --side: 0px;
 }
 :root[data-theme="dark"] {
-  --bg: #171c26; --card: #232a39; --glass: rgba(35, 42, 57, .88); --text: #f1f5f9; --muted: #a3afc2; --line: #333c50;
-  --accent: #34d399; --accent-ink: #6ee7b7; --accent-soft: #1e3b35; --on-accent: #052e22;
-  --gor: #60a5fa; --ye: #fb923c; --dene: #c084fc;
+  --bg: #141c21; --card: #1e2a31; --glass: rgba(30, 42, 49, .88); --text: #edf3f1; --muted: #9db0b8; --line: #2e3c45;
+  --accent: #34d399; --accent-ink: #6ee7b7; --accent-soft: #173a30; --on-accent: #052e22;
+  --spark: #ffd66b; --spark-ink: #ffd66b; --spark-soft: #3a3016;
+  --gor: #6aa5ff; --ye: #ffa15c; --dene: #b794ff;
   --shadow: 0 10px 28px rgba(0, 0, 0, .4); --shadow-sm: 0 4px 12px rgba(0, 0, 0, .35);
 }
 /* Colour themes you unlock */
@@ -27,7 +34,7 @@
 
 * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
 html, body { margin: 0; height: 100%; }
-body { background: var(--bg); color: var(--text); font: 16px/1.45 Inter, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; -webkit-font-smoothing: antialiased; }
+body { background: var(--bg); color: var(--text); font: 16px/1.45 var(--f-body); -webkit-font-smoothing: antialiased; }
 button, input, select, textarea { font: inherit; color: inherit; }
 button { background: none; border: 0; cursor: pointer; padding: 0; }
 a { color: var(--accent-ink); }
@@ -50,6 +57,8 @@ body.on-map #app { max-width: none; padding: 0; }
 .glass { background: var(--glass); -webkit-backdrop-filter: blur(16px) saturate(1.4); backdrop-filter: blur(16px) saturate(1.4); box-shadow: var(--shadow-sm); border: 1px solid color-mix(in srgb, var(--line) 70%, transparent); }
 .note { color: var(--muted); font-size: 13px; margin: 10px 0 0; }
 .note.flat { margin: 0; } .note.center { text-align: center; } .note.err { color: #dc2626; }
+
+.head h1, .section h2, #sheet h3, .tc-city, .hero .ttl, .profile .lvx, .cel-h, .qc-xp, .ring.big span { font-family: var(--f-display); }
 
 /* ── Buttons, chips, meters ──────────────────── */
 .btn { display: flex; align-items: center; justify-content: center; gap: 8px; width: 100%; min-height: 48px; padding: 12px 14px; border-radius: 16px;
@@ -319,7 +328,7 @@ textarea { min-height: 70px; resize: vertical; } .inp { min-height: 48px; }
 .qc-k2 { font-size: 13px; font-weight: 700; margin-bottom: 8px; } .qc-mem textarea { margin-top: 10px; background: var(--card); }
 
 /* Editor and sign-in */
-.welcome { text-align: center; margin: 6px 0 4px; color: var(--accent); animation: pop .6s ease-out; } .welcome .ic { width: 52px; height: 52px; }
+.welcome { text-align: center; margin: 6px 0 4px; color: var(--accent); animation: pop .6s ease-out; } .welcome .ic { width: 52px; height: 52px; } .welcome img { width: 64px; height: 64px; display: inline-block; filter: drop-shadow(0 6px 14px rgba(14, 159, 110, .25)); }
 .pick { display: flex; flex-wrap: wrap; gap: 8px; }
 .pk { min-width: 52px; min-height: 52px; padding: 8px; border-radius: 14px; background: var(--bg); border: 2px solid transparent; display: inline-flex; flex-direction: column; align-items: center; justify-content: center; gap: 3px; }
 .pk.on { border-color: var(--accent); background: var(--accent-soft); } .pk.locked { opacity: .45; cursor: not-allowed; }

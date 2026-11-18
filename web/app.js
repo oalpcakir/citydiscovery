@@ -6,9 +6,9 @@
   var STORE_KEY = "citydiscovery.v1";
   var REPO = "https://github.com/oalpcakir/citydiscovery";
   var CATS = {
-    gor: { label: "See", icon: "landmark", color: "#3b82f6" },
+    gor: { label: "See", icon: "landmark", color: "#2f7cf6" },
     ye: { label: "Eat & drink", icon: "utensils", color: "#f97316" },
-    dene: { label: "Do", icon: "sparkles", color: "#a855f7" }
+    dene: { label: "Do", icon: "sparkles", color: "#9b5cf6" }
   };
   var MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
   var STYLE_LIGHT = "https://tiles.openfreemap.org/styles/liberty";
@@ -120,7 +120,7 @@
   function applyTheme() {
     document.documentElement.setAttribute("data-theme", theme());
     var m = document.querySelector('meta[name="theme-color"]');
-    if (m) m.setAttribute("content", theme() === "dark" ? "#171c26" : "#f4f6fb");
+    if (m) m.setAttribute("content", theme() === "dark" ? "#141c21" : "#f4f7f5");
   }
   function dayKey(t) { var d = t ? new Date(t) : new Date(); return d.getFullYear() + "-" + (d.getMonth() + 1) + "-" + d.getDate(); }
 
@@ -2276,7 +2276,7 @@
   // First run: one question (where are you?), then straight to the map. The explorer is set up after the first quest.
   function openWelcome() {
     closeSheetSilently();
-    showSheet("editor", '<div class="welcome">' + ic("map-pin") + '</div><div class="cel-h">Welcome to City Disco</div>' +
+    showSheet("editor", '<div class="welcome"><img src="icon.svg" alt=""></div><div class="cel-h">Welcome to City Disco</div>' +
       '<p class="note center" style="margin-top:-6px">Your city, your adventure. Find things to see, eat and do around you, tick them off and level up.</p>' +
       '<label class="lbl" for="whome">Where do you want to start?</label><select id="whome" class="inp">' + Object.keys(cities).map(function (id) {
         return '<option value="' + id + '"' + (cityId === id ? " selected" : "") + '>' + esc(cities[id].name) + ' (' + esc(cities[id].country) + ')</option>';
@@ -2295,7 +2295,7 @@
     ui.draft = JSON.parse(JSON.stringify(pr));
     var lockAt = function (u) { return u.level > lv ? u.level : 0; };
     var of = function (type) { return UNLOCKS.filter(function (u) { return u.type === type; }); };
-    var html = (first ? '<div class="welcome">' + ic("map-pin") + '</div>' : X) +
+    var html = (first ? '<div class="welcome"><img src="icon.svg" alt=""></div>' : X) +
       '<div class="cel-h">' + (first ? "Welcome to City Disco" : intro ? "First quest done!" : "Your explorer") + '</div>' +
       (intro ? '<p class="note center" style="margin-top:-6px">Now make your explorer yours: a name, a face and a class with its own XP bonus.</p>' : "") +
       (first ? '<p class="note center" style="margin-top:-6px">Rediscover where you live, one quest at a time. Earn XP, level up and unlock new looks.</p>' : "") +

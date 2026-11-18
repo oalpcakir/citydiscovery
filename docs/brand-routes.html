@@ -1,0 +1,361 @@
+<title>City Disco Brand Routes</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Figtree:wght@500;700;800&family=Unbounded:wght@600;800&family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;700&display=swap">
+<style>
+/* Layout: one reading column for the shared brief, then three full-width route bands that each show the same specimen grid, so routes compare row by row. */
+:root {
+  --bg: #f3f5f7; --paper: #ffffff; --fg: #121820; --muted: #5d6877; --line: #e1e6ec; --pick: #0e9f6e;
+  --f-head: "Space Grotesk", "Segoe UI", system-ui, sans-serif;
+  --f-body: Inter, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --bg: #0f1419; --paper: #182029; --fg: #eef2f6; --muted: #9aa6b4; --line: #2a3542; --pick: #34d399; color-scheme: dark } }
+:root[data-theme="dark"] { --bg: #0f1419; --paper: #182029; --fg: #eef2f6; --muted: #9aa6b4; --line: #2a3542; --pick: #34d399; color-scheme: dark }
+
+body { background: var(--bg); color: var(--fg); font: 15px/1.55 var(--f-body); -webkit-font-smoothing: antialiased; }
+.wrap { max-width: 1120px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+header.wrap { padding-block: 48px 8px; }
+.eyebrow { font: 600 12px/1 var(--f-body); letter-spacing: .12em; text-transform: uppercase; color: var(--muted); }
+h1 { font: 700 clamp(30px, 5vw, 46px)/1.08 var(--f-head); margin: 10px 0 14px; text-wrap: balance; letter-spacing: -.02em; }
+h2 { font: 700 24px/1.2 var(--f-head); margin: 0; text-wrap: balance; letter-spacing: -.01em; }
+h3 { font: 600 12px/1 var(--f-body); letter-spacing: .1em; text-transform: uppercase; color: var(--muted); margin: 0 0 12px; }
+p { margin: 0; max-width: 65ch; }
+.lead { font-size: 17px; color: var(--muted); }
+
+.brief { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; padding-block: 28px 8px; }
+.brief > div { background: var(--paper); border: 1px solid var(--line); border-radius: 14px; padding: 18px; min-width: 0; }
+.brief ul { margin: 0; padding-left: 18px; } .brief li + li { margin-top: 4px; }
+.voice { display: grid; gap: 8px; }
+.voice div { display: grid; grid-template-columns: 52px 1fr; gap: 8px; align-items: baseline; font-size: 14px; }
+.voice b { font: 600 11px/1 var(--f-body); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.voice s { color: var(--muted); }
+
+nav.jump { display: flex; flex-wrap: wrap; gap: 8px; padding-block: 24px 0; }
+nav.jump a { text-decoration: none; color: var(--fg); background: var(--paper); border: 1px solid var(--line); border-radius: 999px; padding: 8px 14px; font-weight: 600; font-size: 14px; }
+nav.jump a:hover, nav.jump a:focus-visible { border-color: var(--fg); outline: none; }
+
+section.route { padding-block: 40px; border-top: 1px solid var(--line); margin-top: 40px; }
+.rhead { display: flex; flex-wrap: wrap; gap: 12px 20px; align-items: end; justify-content: space-between; margin-bottom: 20px; }
+.rhead p { color: var(--muted); margin-top: 6px; }
+.tag { display: inline-block; font: 700 11px/1 var(--f-body); letter-spacing: .08em; text-transform: uppercase; padding: 6px 9px; border-radius: 6px; background: var(--pick); color: var(--paper); margin-left: 8px; vertical-align: 4px; }
+
+.grid { display: grid; grid-template-columns: repeat(12, 1fr); gap: 16px; }
+.cell { background: var(--paper); border: 1px solid var(--line); border-radius: 14px; padding: 18px; min-width: 0; }
+.c4 { grid-column: span 4; } .c5 { grid-column: span 5; } .c7 { grid-column: span 7; } .c8 { grid-column: span 8; } .c12 { grid-column: span 12; }
+@media (max-width: 860px) { .c4, .c5, .c7, .c8 { grid-column: span 12; } }
+
+.icons { display: flex; gap: 18px; align-items: end; flex-wrap: wrap; }
+.icons figure { margin: 0; text-align: center; font-size: 12px; color: var(--muted); }
+.icons svg { display: block; margin: 0 auto 6px; border-radius: 22%; box-shadow: 0 1px 2px rgba(0,0,0,.08), 0 6px 16px rgba(0,0,0,.08); }
+.wm { min-height: 64px; display: flex; align-items: center; margin-top: 18px; padding-top: 16px; border-top: 1px dashed var(--line); }
+
+.sw { display: grid; grid-template-columns: repeat(auto-fill, minmax(92px, 1fr)); gap: 10px; }
+.sw div { font-size: 12px; line-height: 1.3; }
+.sw i { display: block; height: 44px; border-radius: 10px; margin-bottom: 6px; box-shadow: inset 0 0 0 1px rgba(0,0,0,.08); }
+.sw code { color: var(--muted); font-size: 11px; }
+
+.type .big { font-size: 34px; line-height: 1.05; margin-bottom: 8px; letter-spacing: -.01em; }
+.type .meta { font-size: 12px; color: var(--muted); margin-top: 10px; }
+
+/* Specimen phones: each route owns its own fixed palette, shown light and dark side by side */
+.phones { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+@media (max-width: 520px) { .phones { grid-template-columns: 1fr; } }
+.ph { border-radius: 22px; padding: 14px; background: var(--s-bg); color: var(--s-fg); font-family: var(--s-body); box-shadow: inset 0 0 0 1px var(--s-line); min-width: 0; }
+.ph .bar { display: flex; justify-content: space-between; align-items: center; font-size: 12px; color: var(--s-muted); margin-bottom: 10px; }
+.ph .lvl { display: flex; align-items: center; gap: 8px; }
+.ph .lvl b { font-family: var(--s-head); font-size: 15px; color: var(--s-fg); }
+.ph .xp { height: 6px; border-radius: 9px; background: var(--s-line); overflow: hidden; margin-bottom: 12px; }
+.ph .xp i { display: block; height: 100%; width: 64%; background: var(--s-xp); border-radius: 9px; }
+.q { background: var(--s-card); border-radius: 16px; padding: 12px; display: grid; gap: 8px; box-shadow: 0 1px 2px rgba(0,0,0,.06), 0 6px 16px rgba(0,0,0,.06); }
+.q + .q { margin-top: 8px; }
+.q .row { display: flex; justify-content: space-between; align-items: center; gap: 8px; }
+.q .t { font-family: var(--s-head); font-weight: 700; font-size: 15px; line-height: 1.25; }
+.q .a { font-size: 12px; color: var(--s-muted); }
+.cat { font-size: 11px; font-weight: 700; padding: 4px 8px; border-radius: 999px; color: var(--c); background: color-mix(in srgb, var(--c) 14%, transparent); }
+.pts { font-size: 12px; font-weight: 800; color: var(--s-acc-ink); background: var(--s-acc-soft); padding: 4px 8px; border-radius: 999px; white-space: nowrap; }
+.btnx { text-align: center; font-weight: 700; font-size: 13px; padding: 10px; border-radius: 12px; background: var(--s-acc); color: var(--s-on); }
+.badges { display: flex; gap: 8px; margin-top: 12px; }
+.badges svg { width: 40px; height: 40px; flex: none; }
+.msg { margin-top: 10px; font-size: 12.5px; color: var(--s-muted); }
+
+/* Route palettes */
+.rA { --s-head: "Bricolage Grotesque", var(--f-head); --s-body: Inter, system-ui, sans-serif; }
+.rA .lt { --s-bg: #f4f7f5; --s-card: #fff; --s-fg: #0f1f2e; --s-muted: #5a6b78; --s-line: #e2e9e5; --s-acc: #0e9f6e; --s-acc-ink: #047857; --s-acc-soft: #dff5ec; --s-on: #fff; --s-xp: linear-gradient(90deg, #0e9f6e, #ffc53d); }
+.rA .dk { --s-bg: #10181d; --s-card: #1a252c; --s-fg: #edf3f1; --s-muted: #98a9b2; --s-line: #29363e; --s-acc: #34d399; --s-acc-ink: #6ee7b7; --s-acc-soft: #173a30; --s-on: #052e22; --s-xp: linear-gradient(90deg, #34d399, #ffd66b); }
+.rB { --s-head: Figtree, var(--f-head); --s-body: Figtree, system-ui, sans-serif; }
+.rB .lt { --s-bg: #f4f6fa; --s-card: #fff; --s-fg: #14213d; --s-muted: #5b6680; --s-line: #e1e6f0; --s-acc: #2456e6; --s-acc-ink: #1a43b8; --s-acc-soft: #e3eafd; --s-on: #fff; --s-xp: linear-gradient(90deg, #2456e6 0 33%, #e8513a 0 66%, #16a34a 0); }
+.rB .dk { --s-bg: #0f1424; --s-card: #1a2136; --s-fg: #edf1fb; --s-muted: #9aa5c2; --s-line: #2a3350; --s-acc: #6b8cff; --s-acc-ink: #a5b8ff; --s-acc-soft: #1f2b55; --s-on: #0a1233; --s-xp: linear-gradient(90deg, #6b8cff 0 33%, #ff7a63 0 66%, #3ccf72 0); }
+.rC { --s-head: Unbounded, var(--f-head); --s-body: Inter, system-ui, sans-serif; }
+.rC .lt { --s-bg: #f6f7f9; --s-card: #fff; --s-fg: #1c1f24; --s-muted: #646b76; --s-line: #e4e7ec; --s-acc: #e5484d; --s-acc-ink: #c4282e; --s-acc-soft: #fde6e6; --s-on: #fff; --s-xp: linear-gradient(90deg, #0f766e, #e5484d); }
+.rC .dk { --s-bg: #141619; --s-card: #1f2328; --s-fg: #f1f2f4; --s-muted: #a0a7b2; --s-line: #30353d; --s-acc: #ff6b6f; --s-acc-ink: #ff9a9d; --s-acc-soft: #45201f; --s-on: #2b0909; --s-xp: linear-gradient(90deg, #2dd4bf, #ff6b6f); }
+.rC .q .t { font-size: 13px; font-weight: 600; letter-spacing: -.01em; }
+
+.cmp { overflow-x: auto; }
+table { width: 100%; border-collapse: collapse; font-size: 14px; min-width: 620px; }
+th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { font: 600 12px/1.2 var(--f-body); letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+td:first-child { font-weight: 600; white-space: nowrap; }
+.rec { background: var(--paper); border: 2px solid var(--pick); border-radius: 16px; padding: 22px; display: grid; gap: 10px; }
+.help { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 16px; padding-block: 16px 56px; }
+.help > div { background: var(--paper); border: 1px solid var(--line); border-radius: 14px; padding: 18px; min-width: 0; }
+.help b { display: block; margin-bottom: 4px; font-family: var(--f-head); font-size: 16px; }
+.help p { font-size: 14px; color: var(--muted); }
+:focus-visible { outline: 2px solid var(--pick); outline-offset: 2px; }
+</style>
+
+<header class="wrap">
+  <div class="eyebrow">City Disco · brand direction · step 1 of 3</div>
+  <h1>Three ways City Disco could look and sound</h1>
+  <p class="lead">One shared brief, then three concept routes shown on the same specimens: app icon, wordmark, palette, type, a quest card in light and dark, and badges. Pick one and the next step turns it into final assets for the app.</p>
+
+  <div class="brief">
+    <div>
+      <h3>Positioning</h3>
+      <p>For people who think they already know their city, and for weekend visitors who want more than a top-10 list: City Disco turns seven countries into a map you complete, one quest at a time. Unlike guidebooks it rewards doing; unlike review apps it tells you what to do next.</p>
+    </div>
+    <div>
+      <h3>Personality</h3>
+      <ul>
+        <li><b>Curious</b>: always one more street to try</li>
+        <li><b>Upbeat</b>: celebrates small wins, never nags</li>
+        <li><b>Local</b>: knows the waterzooi place, not the tourist trap</li>
+        <li><b>Clear</b>: the map comes first, decoration second</li>
+      </ul>
+    </div>
+    <div>
+      <h3>Tone of voice</h3>
+      <div class="voice">
+        <div><b>Do</b><span>Climb the Domtoren. 465 steps, best view in Utrecht.</span></div>
+        <div><b>Don't</b><s>Embark on an unforgettable journey to the iconic tower!</s></div>
+        <div><b>Do</b><span>Quest done. +40 XP, two to go for level 7.</span></div>
+        <div><b>Don't</b><s>Congratulations!!! You are amazing!!!</s></div>
+      </div>
+      <p style="font-size:13px;color:var(--muted);margin-top:10px">Short, second person, concrete numbers and names. Excitement comes from the fact, not the exclamation marks.</p>
+    </div>
+  </div>
+
+  <nav class="jump" aria-label="Routes">
+    <a href="#route-a">A · Mirror Pin</a>
+    <a href="#route-b">B · Transit Lines</a>
+    <a href="#route-c">C · City Stamps</a>
+    <a href="#compare">Compare and recommendation</a>
+  </nav>
+</header>
+
+<!-- ───────────── Route A ───────────── -->
+<section class="route wrap rA" id="route-a">
+  <div class="rhead">
+    <div>
+      <h2>A · Mirror Pin <span class="tag">Recommended</span></h2>
+      <p>Owns the pun in the name. A map pin whose head is a tiny disco ball: discovery plus a night out. Keeps the mint the app already has, adds a spark yellow for XP and rewards.</p>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="cell c5">
+      <h3>App icon and wordmark</h3>
+      <div class="icons">
+        <figure><svg width="96" height="96" viewBox="0 0 108 108" aria-label="Mirror Pin icon"><rect width="108" height="108" fill="#0e9f6e"/><path d="M54 90C46 79 30 66 30 47a24 24 0 0 1 48 0c0 19-16 32-24 43z" fill="#fff"/><circle cx="54" cy="47" r="15" fill="#0e9f6e"/><g fill="none" stroke="#fff" stroke-width="2.2"><ellipse cx="54" cy="47" rx="6.5" ry="15"/><path d="M39 47h30M41.6 39h24.8M41.6 55h24.8"/></g><path d="M44 36.5h6v6.2h-7.4a15 15 0 0 1 1.4-6.2z" fill="#ffc53d"/><path d="M80 15q1.6 8.4 10 10-8.4 1.6-10 10-1.6-8.4-10-10 8.4-1.6 10-10z" fill="#ffc53d"/></svg>96</figure>
+        <figure><svg width="56" height="56" viewBox="0 0 108 108"><rect width="108" height="108" fill="#0e9f6e"/><path d="M54 90C46 79 30 66 30 47a24 24 0 0 1 48 0c0 19-16 32-24 43z" fill="#fff"/><circle cx="54" cy="47" r="15" fill="#0e9f6e"/><g fill="none" stroke="#fff" stroke-width="2.6"><ellipse cx="54" cy="47" rx="6.5" ry="15"/><path d="M39 47h30M41.6 39h24.8M41.6 55h24.8"/></g><path d="M80 15q1.6 8.4 10 10-8.4 1.6-10 10-1.6-8.4-10-10 8.4-1.6 10-10z" fill="#ffc53d"/></svg>56</figure>
+        <figure><svg width="32" height="32" viewBox="0 0 108 108"><rect width="108" height="108" fill="#0e9f6e"/><path d="M54 90C46 79 30 66 30 47a24 24 0 0 1 48 0c0 19-16 32-24 43z" fill="#fff"/><circle cx="54" cy="47" r="14" fill="#0e9f6e"/><path d="M80 15q1.6 8.4 10 10-8.4 1.6-10 10-1.6-8.4-10-10 8.4-1.6 10-10z" fill="#ffc53d"/></svg>32</figure>
+        <figure><svg width="56" height="56" viewBox="0 0 108 108"><rect width="108" height="108" fill="#10181d"/><path d="M54 90C46 79 30 66 30 47a24 24 0 0 1 48 0c0 19-16 32-24 43z" fill="#34d399"/><circle cx="54" cy="47" r="15" fill="#10181d"/><g fill="none" stroke="#34d399" stroke-width="2.6"><ellipse cx="54" cy="47" rx="6.5" ry="15"/><path d="M39 47h30M41.6 39h24.8M41.6 55h24.8"/></g><path d="M80 15q1.6 8.4 10 10-8.4 1.6-10 10-1.6-8.4-10-10 8.4-1.6 10-10z" fill="#ffd66b"/></svg>dark</figure>
+      </div>
+      <div class="wm" style="font:800 34px/1 'Bricolage Grotesque',sans-serif;letter-spacing:-.03em;color:var(--fg)">city disco<svg width="18" height="18" viewBox="0 0 20 20" style="margin:-18px 0 0 3px" aria-hidden="true"><path d="M10 0q1.6 8.4 10 10-8.4 1.6-10 10-1.6-8.4-10-10 8.4-1.6 10-10z" fill="#ffc53d"/></svg></div>
+    </div>
+    <div class="cell c7">
+      <h3>Palette</h3>
+      <div class="sw">
+        <div><i style="background:#0e9f6e"></i>Mint<br><code>#0e9f6e</code></div>
+        <div><i style="background:#ffc53d"></i>Spark<br><code>#ffc53d</code></div>
+        <div><i style="background:#0f1f2e"></i>Night ink<br><code>#0f1f2e</code></div>
+        <div><i style="background:#f4f7f5"></i>Daylight<br><code>#f4f7f5</code></div>
+        <div><i style="background:#2f7cf6"></i>See<br><code>#2f7cf6</code></div>
+        <div><i style="background:#f97316"></i>Eat &amp; drink<br><code>#f97316</code></div>
+        <div><i style="background:#9b5cf6"></i>Do<br><code>#9b5cf6</code></div>
+        <div><i style="background:#10181d"></i>Dark ground<br><code>#10181d</code></div>
+      </div>
+      <div class="type" style="margin-top:18px">
+        <h3>Type</h3>
+        <div class="big" style="font-family:'Bricolage Grotesque',sans-serif;font-weight:800">Level 7 · Night Owl</div>
+        <div style="font-family:Inter,sans-serif">Inter for everything you read: quest text, stats, buttons, settings.</div>
+        <div class="meta">Bricolage Grotesque 800 for headings, levels and the wordmark · Inter 400–700 for body · both free (SIL Open Font License)</div>
+      </div>
+    </div>
+    <div class="cell c12">
+      <h3>In the app, light and dark</h3>
+      <div class="phones">
+        <div class="ph lt">
+          <div class="bar"><span class="lvl"><b>Level 7</b> Night Owl</span><span>1,840 / 2,200 XP</span></div>
+          <div class="xp"><i></i></div>
+          <div class="q"><div class="row"><span class="cat" style="--c:#2f7cf6">See</span><span class="pts">+40 XP</span></div><div class="t">Climb the Domtoren</div><div class="a">Utrecht · Binnenstad</div><div class="btnx">I did this</div></div>
+          <div class="q"><div class="row"><span class="cat" style="--c:#f97316">Eat &amp; drink</span><span class="pts">+25 XP</span></div><div class="t">Order waterzooi at the Vrijdagmarkt</div><div class="a">Gent · Centrum</div></div>
+          <div class="badges"><svg viewBox="0 0 40 40"><circle cx="20" cy="20" r="19" fill="#ffc53d"/><circle cx="20" cy="20" r="14" fill="#fff"/><path d="M20 10q1.2 6.6 8 8-6.8 1.4-8 8-1.2-6.6-8-8 6.8-1.4 8-8z" fill="#0e9f6e"/></svg><svg viewBox="0 0 40 40"><circle cx="20" cy="20" r="19" fill="#0e9f6e"/><circle cx="20" cy="20" r="14" fill="#fff"/><text x="20" y="25" text-anchor="middle" font-family="Bricolage Grotesque" font-weight="800" font-size="13" fill="#0e9f6e">50</text></svg><svg viewBox="0 0 40 40"><circle cx="20" cy="20" r="19" fill="#e2e9e5"/><circle cx="20" cy="20" r="14" fill="#fff"/><path d="M15 21h10v7H15zM17 21v-3a3 3 0 0 1 6 0v3" fill="none" stroke="#9aa9a2" stroke-width="2"/></svg></div>
+          <div class="msg">Quest done. +40 XP, two to go for level 8.</div>
+        </div>
+        <div class="ph dk">
+          <div class="bar"><span class="lvl"><b>Level 7</b> Night Owl</span><span>1,840 / 2,200 XP</span></div>
+          <div class="xp"><i></i></div>
+          <div class="q"><div class="row"><span class="cat" style="--c:#6aa5ff">See</span><span class="pts">+40 XP</span></div><div class="t">Climb the Domtoren</div><div class="a">Utrecht · Binnenstad</div><div class="btnx">I did this</div></div>
+          <div class="q"><div class="row"><span class="cat" style="--c:#ffa15c">Eat &amp; drink</span><span class="pts">+25 XP</span></div><div class="t">Order waterzooi at the Vrijdagmarkt</div><div class="a">Gent · Centrum</div></div>
+          <div class="badges"><svg viewBox="0 0 40 40"><circle cx="20" cy="20" r="19" fill="#ffd66b"/><circle cx="20" cy="20" r="14" fill="#1a252c"/><path d="M20 10q1.2 6.6 8 8-6.8 1.4-8 8-1.2-6.6-8-8 6.8-1.4 8-8z" fill="#34d399"/></svg><svg viewBox="0 0 40 40"><circle cx="20" cy="20" r="19" fill="#34d399"/><circle cx="20" cy="20" r="14" fill="#1a252c"/><text x="20" y="25" text-anchor="middle" font-family="Bricolage Grotesque" font-weight="800" font-size="13" fill="#34d399">50</text></svg><svg viewBox="0 0 40 40"><circle cx="20" cy="20" r="19" fill="#29363e"/><circle cx="20" cy="20" r="14" fill="#1a252c"/><path d="M15 21h10v7H15zM17 21v-3a3 3 0 0 1 6 0v3" fill="none" stroke="#6f818b" stroke-width="2"/></svg></div>
+          <div class="msg">Quest done. +40 XP, two to go for level 8.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ───────────── Route B ───────────── -->
+<section class="route wrap rB" id="route-b">
+  <div class="rhead">
+    <div>
+      <h2>B · Transit Lines</h2>
+      <p>Borrows from metro maps: See, Eat &amp; drink and Do are three coloured lines that meet at a stop, which is you. Calm, systematic, very at home next to a map. Cobalt replaces mint as the main colour.</p>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="cell c5">
+      <h3>App icon and wordmark</h3>
+      <div class="icons">
+        <figure><svg width="96" height="96" viewBox="0 0 108 108" aria-label="Transit Lines icon"><rect width="108" height="108" fill="#fff"/><g fill="none" stroke-width="10" stroke-linecap="round"><path d="M16 32h22q16 0 16 16v6" stroke="#2456e6"/><path d="M16 78h22q16 0 16-16v-8" stroke="#e8513a"/><path d="M92 26v12q0 16-16 16H54" stroke="#16a34a"/></g><circle cx="54" cy="54" r="11" fill="#fff" stroke="#14213d" stroke-width="6"/></svg>96</figure>
+        <figure><svg width="56" height="56" viewBox="0 0 108 108"><rect width="108" height="108" fill="#fff"/><g fill="none" stroke-width="12" stroke-linecap="round"><path d="M16 32h22q16 0 16 16v6" stroke="#2456e6"/><path d="M16 78h22q16 0 16-16v-8" stroke="#e8513a"/><path d="M92 26v12q0 16-16 16H54" stroke="#16a34a"/></g><circle cx="54" cy="54" r="12" fill="#fff" stroke="#14213d" stroke-width="7"/></svg>56</figure>
+        <figure><svg width="32" height="32" viewBox="0 0 108 108"><rect width="108" height="108" fill="#fff"/><g fill="none" stroke-width="14" stroke-linecap="round"><path d="M16 32h22q16 0 16 16v6" stroke="#2456e6"/><path d="M16 78h22q16 0 16-16v-8" stroke="#e8513a"/><path d="M92 26v12q0 16-16 16H54" stroke="#16a34a"/></g><circle cx="54" cy="54" r="13" fill="#fff" stroke="#14213d" stroke-width="8"/></svg>32</figure>
+        <figure><svg width="56" height="56" viewBox="0 0 108 108"><rect width="108" height="108" fill="#0f1424"/><g fill="none" stroke-width="12" stroke-linecap="round"><path d="M16 32h22q16 0 16 16v6" stroke="#6b8cff"/><path d="M16 78h22q16 0 16-16v-8" stroke="#ff7a63"/><path d="M92 26v12q0 16-16 16H54" stroke="#3ccf72"/></g><circle cx="54" cy="54" r="12" fill="#0f1424" stroke="#edf1fb" stroke-width="7"/></svg>dark</figure>
+      </div>
+      <div class="wm"><svg width="250" height="46" viewBox="0 0 250 46" aria-label="City Disco wordmark"><text x="0" y="30" font-family="Figtree" font-weight="800" font-size="32" fill="currentColor" style="color:var(--fg)" letter-spacing="-.5">City Disco</text><path d="M2 40h60M66 40h60M130 40h44" stroke-width="4" stroke-linecap="round" fill="none"/><path d="M2 40h56" stroke="#2456e6" stroke-width="4" stroke-linecap="round"/><path d="M66 40h56" stroke="#e8513a" stroke-width="4" stroke-linecap="round"/><path d="M130 40h40" stroke="#16a34a" stroke-width="4" stroke-linecap="round"/><circle cx="184" cy="40" r="5" fill="var(--paper)" stroke="currentColor" stroke-width="3" style="color:var(--fg)"/></svg></div>
+    </div>
+    <div class="cell c7">
+      <h3>Palette</h3>
+      <div class="sw">
+        <div><i style="background:#2456e6"></i>Cobalt<br><code>#2456e6</code></div>
+        <div><i style="background:#14213d"></i>Signal navy<br><code>#14213d</code></div>
+        <div><i style="background:#f4f6fa"></i>Platform<br><code>#f4f6fa</code></div>
+        <div><i style="background:#2456e6"></i>See line<br><code>#2456e6</code></div>
+        <div><i style="background:#e8513a"></i>Eat line<br><code>#e8513a</code></div>
+        <div><i style="background:#16a34a"></i>Do line<br><code>#16a34a</code></div>
+        <div><i style="background:#f5b301"></i>XP gold<br><code>#f5b301</code></div>
+        <div><i style="background:#0f1424"></i>Dark ground<br><code>#0f1424</code></div>
+      </div>
+      <div class="type" style="margin-top:18px">
+        <h3>Type</h3>
+        <div class="big" style="font-family:Figtree,sans-serif;font-weight:800">Level 7 · Night Owl</div>
+        <div style="font-family:Figtree,sans-serif">Figtree for everything: one friendly geometric family, like station signage.</div>
+        <div class="meta">Figtree 500–800 for headings and body · free (SIL Open Font License)</div>
+      </div>
+    </div>
+    <div class="cell c12">
+      <h3>In the app, light and dark</h3>
+      <div class="phones">
+        <div class="ph lt">
+          <div class="bar"><span class="lvl"><b>Level 7</b> Night Owl</span><span>1,840 / 2,200 XP</span></div>
+          <div class="xp"><i></i></div>
+          <div class="q"><div class="row"><span class="cat" style="--c:#2456e6">See</span><span class="pts">+40 XP</span></div><div class="t">Climb the Domtoren</div><div class="a">Utrecht · Binnenstad</div><div class="btnx">I did this</div></div>
+          <div class="q"><div class="row"><span class="cat" style="--c:#e8513a">Eat &amp; drink</span><span class="pts">+25 XP</span></div><div class="t">Order waterzooi at the Vrijdagmarkt</div><div class="a">Gent · Centrum</div></div>
+          <div class="badges"><svg viewBox="0 0 40 40"><rect x="1" y="1" width="38" height="38" rx="10" fill="#14213d"/><path d="M8 14h10q6 0 6 6v12" fill="none" stroke="#f5b301" stroke-width="4" stroke-linecap="round"/><circle cx="24" cy="20" r="4" fill="#14213d" stroke="#fff" stroke-width="2.5"/></svg><svg viewBox="0 0 40 40"><rect x="1" y="1" width="38" height="38" rx="10" fill="#2456e6"/><text x="20" y="26" text-anchor="middle" font-family="Figtree" font-weight="800" font-size="15" fill="#fff">50</text></svg><svg viewBox="0 0 40 40"><rect x="1" y="1" width="38" height="38" rx="10" fill="#e1e6f0"/><path d="M15 21h10v7H15zM17 21v-3a3 3 0 0 1 6 0v3" fill="none" stroke="#8d97ad" stroke-width="2"/></svg></div>
+          <div class="msg">Quest done. +40 XP, two to go for level 8.</div>
+        </div>
+        <div class="ph dk">
+          <div class="bar"><span class="lvl"><b>Level 7</b> Night Owl</span><span>1,840 / 2,200 XP</span></div>
+          <div class="xp"><i></i></div>
+          <div class="q"><div class="row"><span class="cat" style="--c:#6b8cff">See</span><span class="pts">+40 XP</span></div><div class="t">Climb the Domtoren</div><div class="a">Utrecht · Binnenstad</div><div class="btnx">I did this</div></div>
+          <div class="q"><div class="row"><span class="cat" style="--c:#ff7a63">Eat &amp; drink</span><span class="pts">+25 XP</span></div><div class="t">Order waterzooi at the Vrijdagmarkt</div><div class="a">Gent · Centrum</div></div>
+          <div class="badges"><svg viewBox="0 0 40 40"><rect x="1" y="1" width="38" height="38" rx="10" fill="#edf1fb"/><path d="M8 14h10q6 0 6 6v12" fill="none" stroke="#e0a200" stroke-width="4" stroke-linecap="round"/><circle cx="24" cy="20" r="4" fill="#edf1fb" stroke="#0f1424" stroke-width="2.5"/></svg><svg viewBox="0 0 40 40"><rect x="1" y="1" width="38" height="38" rx="10" fill="#6b8cff"/><text x="20" y="26" text-anchor="middle" font-family="Figtree" font-weight="800" font-size="15" fill="#0a1233">50</text></svg><svg viewBox="0 0 40 40"><rect x="1" y="1" width="38" height="38" rx="10" fill="#2a3350"/><path d="M15 21h10v7H15zM17 21v-3a3 3 0 0 1 6 0v3" fill="none" stroke="#6d7899" stroke-width="2"/></svg></div>
+          <div class="msg">Quest done. +40 XP, two to go for level 8.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ───────────── Route C ───────────── -->
+<section class="route wrap rC" id="route-c">
+  <div class="rhead">
+    <div>
+      <h2>C · City Stamps</h2>
+      <p>The collector's route: every finished quest is a stamp in a passport. Perforated edges, a bold tomato red with deep teal, and a wide display face. The loudest of the three, strongest on badges and sharing.</p>
+    </div>
+  </div>
+  <div class="grid">
+    <div class="cell c5">
+      <h3>App icon and wordmark</h3>
+      <div class="icons">
+        <figure><svg width="96" height="96" viewBox="0 0 108 108" aria-label="City Stamps icon"><defs><mask id="perf96"><rect width="108" height="108" fill="#fff"/><g fill="#000"><circle cx="14" cy="14" r="5"/><circle cx="34" cy="14" r="5"/><circle cx="54" cy="14" r="5"/><circle cx="74" cy="14" r="5"/><circle cx="94" cy="14" r="5"/><circle cx="14" cy="94" r="5"/><circle cx="34" cy="94" r="5"/><circle cx="54" cy="94" r="5"/><circle cx="74" cy="94" r="5"/><circle cx="94" cy="94" r="5"/><circle cx="14" cy="34" r="5"/><circle cx="14" cy="54" r="5"/><circle cx="14" cy="74" r="5"/><circle cx="94" cy="34" r="5"/><circle cx="94" cy="54" r="5"/><circle cx="94" cy="74" r="5"/></g></mask></defs><rect width="108" height="108" fill="#0f766e"/><rect x="14" y="14" width="80" height="80" fill="#e5484d" mask="url(#perf96)"/><rect x="26" y="26" width="56" height="56" rx="6" fill="none" stroke="#fff" stroke-width="2.5" stroke-dasharray="5 4"/><circle cx="54" cy="54" r="15" fill="#fff"/><path d="M47 54.5l5 5 9.5-10" fill="none" stroke="#e5484d" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/></svg>96</figure>
+        <figure><svg width="56" height="56" viewBox="0 0 108 108"><defs><mask id="perf56"><rect width="108" height="108" fill="#fff"/><g fill="#000"><circle cx="14" cy="14" r="6"/><circle cx="40.7" cy="14" r="6"/><circle cx="67.3" cy="14" r="6"/><circle cx="94" cy="14" r="6"/><circle cx="14" cy="94" r="6"/><circle cx="40.7" cy="94" r="6"/><circle cx="67.3" cy="94" r="6"/><circle cx="94" cy="94" r="6"/><circle cx="14" cy="40.7" r="6"/><circle cx="14" cy="67.3" r="6"/><circle cx="94" cy="40.7" r="6"/><circle cx="94" cy="67.3" r="6"/></g></mask></defs><rect width="108" height="108" fill="#0f766e"/><rect x="14" y="14" width="80" height="80" fill="#e5484d" mask="url(#perf56)"/><circle cx="54" cy="54" r="18" fill="#fff"/><path d="M45.5 54.5l6 6 11-12" fill="none" stroke="#e5484d" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/></svg>56</figure>
+        <figure><svg width="32" height="32" viewBox="0 0 108 108"><rect width="108" height="108" fill="#0f766e"/><rect x="14" y="14" width="80" height="80" rx="6" fill="#e5484d"/><circle cx="54" cy="54" r="20" fill="#fff"/><path d="M44.5 54.5l7 7 12-13" fill="none" stroke="#e5484d" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/></svg>32</figure>
+        <figure><svg width="56" height="56" viewBox="0 0 108 108"><rect width="108" height="108" fill="#141619"/><rect x="14" y="14" width="80" height="80" fill="#ff6b6f" mask="url(#perf56)"/><circle cx="54" cy="54" r="18" fill="#141619"/><path d="M45.5 54.5l6 6 11-12" fill="none" stroke="#ff6b6f" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/></svg>dark</figure>
+      </div>
+      <div class="wm"><span style="font:800 24px/1 Unbounded,sans-serif;letter-spacing:-.02em;color:#e5484d;border:3px solid #e5484d;border-radius:10px;padding:10px 14px;transform:rotate(-3deg);display:inline-block">CITY DISCO</span></div>
+    </div>
+    <div class="cell c7">
+      <h3>Palette</h3>
+      <div class="sw">
+        <div><i style="background:#e5484d"></i>Stamp red<br><code>#e5484d</code></div>
+        <div><i style="background:#0f766e"></i>Deep teal<br><code>#0f766e</code></div>
+        <div><i style="background:#1c1f24"></i>Ink<br><code>#1c1f24</code></div>
+        <div><i style="background:#f6f7f9"></i>Paper<br><code>#f6f7f9</code></div>
+        <div><i style="background:#2563eb"></i>See<br><code>#2563eb</code></div>
+        <div><i style="background:#d97706"></i>Eat &amp; drink<br><code>#d97706</code></div>
+        <div><i style="background:#0f766e"></i>Do<br><code>#0f766e</code></div>
+        <div><i style="background:#141619"></i>Dark ground<br><code>#141619</code></div>
+      </div>
+      <div class="type" style="margin-top:18px">
+        <h3>Type</h3>
+        <div class="big" style="font-family:Unbounded,sans-serif;font-weight:800;font-size:28px">Level 7 · Night Owl</div>
+        <div style="font-family:Inter,sans-serif">Inter for body text, Unbounded only for short loud words.</div>
+        <div class="meta">Unbounded 600–800 for headings and badges · Inter 400–700 for body · both free (SIL Open Font License)</div>
+      </div>
+    </div>
+    <div class="cell c12">
+      <h3>In the app, light and dark</h3>
+      <div class="phones">
+        <div class="ph lt">
+          <div class="bar"><span class="lvl"><b>Level 7</b> Night Owl</span><span>1,840 / 2,200 XP</span></div>
+          <div class="xp"><i></i></div>
+          <div class="q"><div class="row"><span class="cat" style="--c:#2563eb">See</span><span class="pts">+40 XP</span></div><div class="t">Climb the Domtoren</div><div class="a">Utrecht · Binnenstad</div><div class="btnx">I did this</div></div>
+          <div class="q"><div class="row"><span class="cat" style="--c:#d97706">Eat &amp; drink</span><span class="pts">+25 XP</span></div><div class="t">Order waterzooi at the Vrijdagmarkt</div><div class="a">Gent · Centrum</div></div>
+          <div class="badges"><svg viewBox="0 0 40 40"><rect x="3" y="3" width="34" height="34" fill="#e5484d" stroke="#e5484d" stroke-width="4" stroke-dasharray="2 3"/><text x="20" y="25" text-anchor="middle" font-family="Unbounded" font-weight="800" font-size="11" fill="#fff">GNT</text></svg><svg viewBox="0 0 40 40"><rect x="3" y="3" width="34" height="34" fill="#0f766e" stroke="#0f766e" stroke-width="4" stroke-dasharray="2 3"/><text x="20" y="25" text-anchor="middle" font-family="Unbounded" font-weight="800" font-size="12" fill="#fff">50</text></svg><svg viewBox="0 0 40 40"><rect x="3" y="3" width="34" height="34" fill="none" stroke="#c9ced6" stroke-width="2" stroke-dasharray="3 3"/><path d="M15 21h10v7H15zM17 21v-3a3 3 0 0 1 6 0v3" fill="none" stroke="#9aa1ad" stroke-width="2"/></svg></div>
+          <div class="msg">Stamped. +40 XP, two to go for level 8.</div>
+        </div>
+        <div class="ph dk">
+          <div class="bar"><span class="lvl"><b>Level 7</b> Night Owl</span><span>1,840 / 2,200 XP</span></div>
+          <div class="xp"><i></i></div>
+          <div class="q"><div class="row"><span class="cat" style="--c:#6aa5ff">See</span><span class="pts">+40 XP</span></div><div class="t">Climb the Domtoren</div><div class="a">Utrecht · Binnenstad</div><div class="btnx">I did this</div></div>
+          <div class="q"><div class="row"><span class="cat" style="--c:#fbbf24">Eat &amp; drink</span><span class="pts">+25 XP</span></div><div class="t">Order waterzooi at the Vrijdagmarkt</div><div class="a">Gent · Centrum</div></div>
+          <div class="badges"><svg viewBox="0 0 40 40"><rect x="3" y="3" width="34" height="34" fill="#ff6b6f" stroke="#ff6b6f" stroke-width="4" stroke-dasharray="2 3"/><text x="20" y="25" text-anchor="middle" font-family="Unbounded" font-weight="800" font-size="11" fill="#2b0909">GNT</text></svg><svg viewBox="0 0 40 40"><rect x="3" y="3" width="34" height="34" fill="#2dd4bf" stroke="#2dd4bf" stroke-width="4" stroke-dasharray="2 3"/><text x="20" y="25" text-anchor="middle" font-family="Unbounded" font-weight="800" font-size="12" fill="#042f2b">50</text></svg><svg viewBox="0 0 40 40"><rect x="3" y="3" width="34" height="34" fill="none" stroke="#3a4049" stroke-width="2" stroke-dasharray="3 3"/><path d="M15 21h10v7H15zM17 21v-3a3 3 0 0 1 6 0v3" fill="none" stroke="#6b7380" stroke-width="2"/></svg></div>
+          <div class="msg">Stamped. +40 XP, two to go for level 8.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ───────────── Compare ───────────── -->
+<section class="route wrap" id="compare">
+  <h2 style="margin-bottom:16px">Compare and recommendation</h2>
+  <div class="cell cmp" style="margin-bottom:16px">
+    <table>
+      <thead><tr><th></th><th>A · Mirror Pin</th><th>B · Transit Lines</th><th>C · City Stamps</th></tr></thead>
+      <tbody>
+        <tr><td>Feels like</td><td>Playful, a night out in your own city</td><td>Calm, systematic, a good map app</td><td>Loud, collectible, a travel journal</td></tr>
+        <tr><td>Uses the name</td><td>Yes, the disco ball is in the pin</td><td>No, the name stays plain</td><td>Partly, through collecting</td></tr>
+        <tr><td>Next to the map</td><td>Mint sits well on light map tiles</td><td>Best, it is map language</td><td>Red competes with map labels</td></tr>
+        <tr><td>Icon at 32 px</td><td>Clear pin with a spark</td><td>Lines blur together</td><td>Clear check, stamp edge lost</td></tr>
+        <tr><td>Change for users</td><td>Small: same mint, new mark and display font</td><td>Medium: new main colour</td><td>Large: new colours, louder type</td></tr>
+        <tr><td>Accent unlocks</td><td>Mint stays default; Ocean, Sunset, Berry, Royal, Gilded keep working</td><td>Cobalt becomes default; Ocean would need replacing</td><td>Red default clashes with Sunset and Berry</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="rec">
+    <h3 style="margin:0;color:var(--pick)">Recommendation: A · Mirror Pin</h3>
+    <p>It is the only route that makes the name memorable, it keeps the mint people already know, and the pin reads at every icon size from the launcher to the favicon. The spark yellow gives XP and rewards their own colour without touching the See / Eat &amp; drink / Do colours, so the map stays readable. Bricolage Grotesque adds character in headings while Inter keeps the dense screens calm.</p>
+    <p style="color:var(--muted)">If you prefer something quieter, B is the safe second choice. Elements can also be mixed, for example A's icon with B's line-style XP bar.</p>
+  </div>
+</section>
+
+<section class="wrap">
+  <h2 style="margin-top:8px">Outside help worth getting</h2>
+  <div class="help">
+    <div><b>Name and trademark check</b><p>Search “City Disco” in the EUIPO and Benelux (BOIP) trademark registers and on the Play Store before investing in the brand publicly. Bars and events use similar names; a clash in class 9 (apps) or 41 (entertainment) is what matters. Free to search yourself; a trademark attorney if you want to register.</p></div>
+    <div><b>A designer for one polish pass (optional)</b><p>The marks here are hand-built SVG and work in the app. If City Disco goes beyond a hobby, a few hours of a freelance logo designer refining the chosen mark (optical balance, small-size version, store graphics) is the best value spend.</p></div>
+    <div><b>Fonts and icons: nothing to buy</b><p>Bricolage Grotesque, Figtree, Unbounded and Inter are all SIL Open Font License, free for apps and web. Lucide icons are ISC licensed. No AI image tool is needed: every asset is vector.</p></div>
+  </div>
+</section>

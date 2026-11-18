@@ -16,7 +16,7 @@
   };
   if (!api.available) return;
 
-  var auth, fs, pushTimer = null;
+  var auth, fs, pushTimer = null, unsub = null, dirty = false, lastPull = 0, inflight = {};
   function app() { return window.cdApp; }
   function load(src) {
     return new Promise(function (res, rej) {
@@ -34,10 +34,19 @@
       api.ready = true;
       auth.onAuthStateChanged(function (u) {
         api.user = u ? { uid: u.uid, email: u.email || "", name: u.displayName || "" } : null;
-        if (u) syncNow(); else changed();
+        stopListening();
+        if (u) { syncNow(); listen(); } else changed();
       });
     })
     .catch(function (e) { api.error = e.message; changed(); });
+
+  // Leaving the app sends any change still waiting; coming back (or back online) catches up.
+  document.addEventListener("visibilitychange", function () {
+    if (document.visibilityState === "hidden") flush();
+    else if (api.user && Date.now() - lastPull > 30000) syncNow();
+  });
+  window.addEventListener("pagehide", flush);
+  window.addEventListener("online", function () { if (api.user) syncNow(); });
 
   function changed() { if (app()) app().cloudChanged(); }
   function friendly(e) {
@@ -94,31 +103,73 @@
   function userDoc() { return fs.collection("users").doc(api.user.uid); }
   function photoDoc(id) { return userDoc().collection("photos").doc(id.replace(/\//g, "~")); }
 
+  // Merges cloud data into this device; true when anything here changed.
+  function absorb(remote) {
+    if (!remote || !app()) return false;
+    var m = merge(app().getStore(), remote);
+    if (m.changed) app().applyStore(m.store);
+    return m.changed;
+  }
+
+  // ── Live updates: a change saved on another device arrives here within about a second ──
+  function listen() {
+    var uid = api.user.uid;
+    unsub = userDoc().onSnapshot(function (snap) {
+      if (!api.user || api.user.uid !== uid || snap.metadata.hasPendingWrites || !snap.exists) return;
+      var v = snap.data();
+      lastPull = Date.now();
+      if (v.data) absorb(JSON.parse(v.data));
+      syncPhotos(v.photoIds || [], v.photoGone || []).catch(function () {});
+    }, function (e) {
+      unsub = null; // the listener has stopped; coming back to the app starts a fresh sync
+      if (auth.currentUser) { api.error = friendly(e); changed(); }
+    });
+  }
+  function stopListening() { if (unsub) { unsub(); unsub = null; } }
+
   function syncNow() {
     if (!api.user || !app()) return Promise.resolve();
+    clearTimeout(pushTimer); pushTimer = null;
     api.busy = true; changed();
-    return userDoc().get().then(function (snap) {
-      var remote = snap.exists && snap.data().data ? JSON.parse(snap.data().data) : null;
-      var remoteIds = snap.exists ? (snap.data().photoIds || []) : [];
-      var m = merge(app().getStore(), remote);
-      if (m.changed) app().applyStore(m.store);
-      fs.collection("leaderboard").doc(api.user.uid).delete().catch(function () {}); // the leaderboard was retired
-      return push().then(function () { return syncPhotos(remoteIds); });
+    fs.collection("leaderboard").doc(api.user.uid).delete().catch(function () {}); // the leaderboard was retired
+    return push().then(function (r) {
+      if (!unsub && api.user) listen();
+      return syncPhotos(r.photoIds, r.photoGone);
     }).then(function () {
-      api.lastSync = Date.now(); api.error = "";
+      api.error = "";
     }).catch(function (e) {
       api.error = friendly(e);
     }).then(function () { api.busy = false; changed(); });
   }
+  // Reads the cloud copy, merges it with this device and writes the result in one transaction,
+  // so a device that has been away can never overwrite what another device saved meanwhile.
   function push() {
-    if (!api.user || !app()) return Promise.resolve();
-    return userDoc().set({ data: JSON.stringify(synced(app().getStore())), updated: firebase.firestore.FieldValue.serverTimestamp() }, { merge: true })
-      .then(function () { api.lastSync = Date.now(); });
+    if (!api.user || !app()) return Promise.resolve({ photoIds: [], photoGone: [] });
+    var ref = userDoc(), out = null;
+    dirty = false;
+    return fs.runTransaction(function (t) {
+      return t.get(ref).then(function (snap) {
+        var v = snap.exists ? snap.data() : {};
+        var m = merge(app().getStore(), v.data ? JSON.parse(v.data) : null), data = JSON.stringify(synced(m.store));
+        out = { store: m.store, changed: m.changed, photoIds: v.photoIds || [], photoGone: v.photoGone || [] };
+        if (data !== v.data) t.set(ref, { data: data, updated: firebase.firestore.FieldValue.serverTimestamp() }, { merge: true });
+      });
+    }).then(function () {
+      if (out.changed) absorb(out.store);
+      api.lastSync = lastPull = Date.now();
+      return out;
+    }, function (e) { dirty = true; throw e; });
   }
   function onLocalChange() {
     if (!api.user) return;
+    dirty = true;
     clearTimeout(pushTimer);
-    pushTimer = setTimeout(function () { push().then(changed).catch(function (e) { api.error = friendly(e); changed(); }); }, 1500);
+    pushTimer = setTimeout(flush, 1500);
+  }
+  function flush() {
+    clearTimeout(pushTimer); pushTimer = null;
+    if (!api.user || !dirty) return;
+    push().then(changed).catch(function (e) { api.error = friendly(e); changed(); });
   }
 
   // ── Place suggestions (reviewed by the admins in CD_ADMINS) ─
@@ -149,7 +200,7 @@
     return wrap(function () {
       if (!api.user) throw new Error("Sign in first.");
       var quiet = function (p) { return p.catch(function () {}); };
-      clearTimeout(pushTimer);
+      clearTimeout(pushTimer); stopListening();
       return userDoc().collection("photos").get().then(function (snap) {
         return Promise.all(snap.docs.map(function (d) { return d.ref.delete(); }));
       }).then(function () {
@@ -184,28 +235,60 @@
       return userDoc().set({ photoIds: firebase.firestore.FieldValue.arrayUnion(p.id) }, { merge: true });
     });
   }
-  function syncPhotos(remoteIds) {
-    return app().photos.all().then(function (local) {
-      var localIds = {}, remote = {};
-      local.forEach(function (p) { localIds[p.id] = p; });
-      remoteIds.forEach(function (id) { remote[id] = 1; });
-      var ups = local.filter(function (p) { return !remote[p.id]; }).map(upload);
-      var downs = remoteIds.filter(function (id) { return !localIds[id]; }).map(function (id) {
-        return photoDoc(id).get().then(function (d) {
-          if (!d.exists) return;
-          var v = d.data(), bin = atob(v.data), arr = new Uint8Array(bin.length);
-          for (var i = 0; i < bin.length; i++) arr[i] = bin.charCodeAt(i);
-          return app().photos.put({ id: id, key: v.key, at: v.at, blob: new Blob([arr], { type: "image/jpeg" }) });
-        });
-      });
-      return Promise.all(ups.concat(downs)).then(function () { if (downs.length) app().photosChanged(); });
+  // One upload or download per photo at a time (live updates and a sync can ask for the same photo).
+  function once(id, fn) {
+    if (inflight[id]) return inflight[id];
+    var p = inflight[id] = fn();
+    var done = function () { delete inflight[id]; };
+    p.then(done, done);
+    return p;
+  }
+  // Deleted photos are listed in photoGone, so other devices remove their copy instead of uploading it again.
+  function dropLocal(ids) {
+    if (!ids.length || !window.indexedDB) return Promise.resolve();
+    return new Promise(function (res) {
+      var r = indexedDB.open("citydiscovery", 1); // the app's photo database (see the photo code in the app)
+      r.onsuccess = function () {
+        var d = r.result, t;
+        try { t = d.transaction("photos", "readwrite"); } catch (e) { d.close(); res(); return; }
+        ids.forEach(function (id) { t.objectStore("photos").delete(id); });
+        t.oncomplete = t.onerror = t.onabort = function () { d.close(); res(); };
+      };
+      r.onerror = function () { res(); };
     });
   }
-  function photoAdded(p) { if (api.user) upload(p).catch(function (e) { api.error = friendly(e); changed(); }); }
+  function syncPhotos(remoteIds, gone) {
+    return app().photos.all().then(function (local) {
+      var localIds = {}, remote = {}, isGone = {};
+      local.forEach(function (p) { localIds[p.id] = p; });
+      remoteIds.forEach(function (id) { remote[id] = 1; });
+      (gone || []).forEach(function (id) { isGone[id] = 1; });
+      var ups = local.filter(function (p) { return !remote[p.id] && !isGone[p.id]; })
+        .map(function (p) { return once(p.id, function () { return upload(p); }); });
+      var drops = local.filter(function (p) { return isGone[p.id]; }).map(function (p) { return p.id; });
+      var downs = remoteIds.filter(function (id) { return !localIds[id] && !isGone[id]; }).map(function (id) {
+        return once(id, function () {
+          return photoDoc(id).get().then(function (d) {
+            if (!d.exists) return;
+            var v = d.data(), bin = atob(v.data), arr = new Uint8Array(bin.length);
+            for (var i = 0; i < bin.length; i++) arr[i] = bin.charCodeAt(i);
+            return app().photos.put({ id: id, key: v.key, at: v.at, blob: new Blob([arr], { type: "image/jpeg" }) });
+          });
+        });
+      });
+      return Promise.all(ups.concat(downs, [dropLocal(drops)])).then(function () {
+        if (downs.length || drops.length) app().photosChanged();
+      });
+    });
+  }
+  function photoAdded(p) {
+    if (api.user) once(p.id, function () { return upload(p); }).catch(function (e) { api.error = friendly(e); changed(); });
+  }
   function photoDeleted(id) {
     if (!api.user) return;
-    photoDoc(id).delete().then(function () {
-      return userDoc().set({ photoIds: firebase.firestore.FieldValue.arrayRemove(id) }, { merge: true });
-    }).catch(function (e) { api.error = friendly(e); changed(); });
+    var F = firebase.firestore.FieldValue;
+    userDoc().set({ photoIds: F.arrayRemove(id), photoGone: F.arrayUnion(id) }, { merge: true })
+      .then(function () { return photoDoc(id).delete(); })
+      .catch(function (e) { api.error = friendly(e); changed(); });
   }
 })();

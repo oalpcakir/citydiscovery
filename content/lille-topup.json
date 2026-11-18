@@ -1,0 +1,830 @@
+{
+  "new": [
+    {
+      "id": "portegand",
+      "cat": "gor",
+      "area": "merkez",
+      "title": "Walk through the Porte de Gand into Vieux-Lille",
+      "desc": "Built around 1620 by the master masons Pierre Raoul and Jean Le Mestre when Lille's walls were extended under Spanish rule, this brick gate was first called the Porte de la Magdeleine and only took its present name after the Revolution. Vauban kept it and added outworks, and its surroundings are the only gate fortifications in Lille that partly survive.",
+      "tip": "Look at both faces: the country side still shows the slots for the drawbridge arms, the town side has patterned two-tone brick. The two side arches were only cut in 1875 to let traffic and the tram through.",
+      "q": "Porte de Gand, Lille",
+      "ll": [
+        50.6438,
+        3.0679
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Porte_de_Gand"
+      ]
+    },
+    {
+      "id": "maisoncoilliot",
+      "cat": "gor",
+      "area": "merkez",
+      "title": "Find Hector Guimard's Art Nouveau Maison Coilliot",
+      "desc": "The architect of the Paris metro entrances designed this house at 14 Rue de Fleurus between 1898 and 1900 for Louis Coilliot, a ceramics dealer who wanted a facade that worked as an advert for enamelled lava. Green lava panels frame the asymmetric front under a wooden gable, with a shop below and living quarters above.",
+      "tip": "It is a private building, so admire it from the pavement. The Palais des Beaux-Arts and the République-Beaux-Arts metro are a few minutes away.",
+      "q": "14 Rue de Fleurus, Lille",
+      "ll": [
+        50.627,
+        3.0602
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Maison_Coilliot"
+      ]
+    },
+    {
+      "id": "lilleflandres",
+      "cat": "gor",
+      "area": "merkez",
+      "title": "Spot the old Paris station front at Lille-Flandres",
+      "desc": "The stone facade of Lille's main station first stood in Paris as the 1846 front of the Gare du Nord, designed by Léonce Reynaud. When Paris built a bigger station, the railway company took it down and rebuilt it here, adding a storey and a clock pediment to please the Lillois, and it opened in 1867.",
+      "tip": "Step back across the square to see the whole frontage. Today it is the biggest regional TER station in France outside Paris.",
+      "q": "Gare de Lille-Flandres",
+      "ll": [
+        50.6365,
+        3.0703
+      ],
+      "tags": [
+        "free",
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Gare_de_Lille-Flandres"
+      ]
+    },
+    {
+      "id": "nobletour",
+      "cat": "gor",
+      "area": "merkez",
+      "title": "Pay your respects at the Noble Tour, Lille's last medieval tower",
+      "desc": "Philip the Bold, Duke of Burgundy, ordered this tower in 1402 and it took twenty years to build. With walls about three metres thick, it was one of 65 towers on the medieval ramparts and is the only one still standing. Since the war it has been the Nord's memorial to the Resistance and Deportation, inaugurated by de Gaulle in 1959.",
+      "tip": "It stands near the Lille Grand Palais metro station. Inside rests an urn of ashes from the death camps, with a sculpture by André Bizette-Lindet honouring the victims.",
+      "q": "Noble Tour, Lille",
+      "ll": [
+        50.6308,
+        3.0742
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Noble_Tour"
+      ]
+    },
+    {
+      "id": "saintecatherine",
+      "cat": "gor",
+      "area": "merkez",
+      "title": "Look for Rubens' saint in the church of Sainte-Catherine",
+      "desc": "This Vieux-Lille church is a Flemish hall church, with three naves of equal height and width side by side. Around 1615 a local official, Jean de Seur, gave it Rubens' Martyrdom of Saint Catherine for the high altar; the original now hangs in the Palais des Beaux-Arts and a quality reproduction has taken its place.",
+      "tip": "Opening times are limited, so check before you go or come around a service. Then see the real Rubens at the Palais des Beaux-Arts.",
+      "q": "Église Sainte-Catherine, Lille",
+      "ll": [
+        50.6393,
+        3.0568
+      ],
+      "tags": [
+        "free",
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/%C3%89glise_Sainte-Catherine_de_Lille"
+      ]
+    },
+    {
+      "id": "museeterroir",
+      "cat": "gor",
+      "area": "merkez",
+      "title": "Step into 19th-century farm life at the Musée du Terroir",
+      "desc": "In Annappes, part of Villeneuve-d'Ascq, a square-courtyard farm dated 1720, the Ferme Delporte, has housed a museum of rural life since 1974. Its rooms recreate a kitchen, bedroom, school, laundry and dairy, along with the workshops of the blacksmith, saddler and clog-maker.",
+      "tip": "Come on an open day, when volunteers bake brown sugar waffles and demonstrate old trades. Check the calendar first, as it is not open every day.",
+      "q": "Musée du Terroir, Villeneuve-d'Ascq",
+      "ll": [
+        50.6278,
+        3.152
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Mus%C3%A9e_du_Terroir_de_Villeneuve-d%27Ascq"
+      ]
+    },
+    {
+      "id": "lefresnoy",
+      "cat": "gor",
+      "area": "merkez",
+      "title": "See the old dance halls under Le Fresnoy's giant roof",
+      "desc": "From 1905 to 1984 Le Fresnoy in Tourcoing was a popular entertainment complex with a 1,000-seat cinema, a ballroom and a roller rink. Architect Bernard Tschumi turned it into France's national studio for contemporary arts, opened in 1997, by sheltering the old tiled buildings under one huge 100 by 80 metre roof.",
+      "tip": "Its yearly Panorama show presents more than 50 new films, videos and installations by the studio's artists, and its two cinemas run a programme open to all.",
+      "q": "Le Fresnoy, Tourcoing",
+      "ll": [
+        50.6999,
+        3.1553
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Le_Fresnoy_-_Studio_national_des_arts_contemporains"
+      ]
+    },
+    {
+      "id": "friteriemestre",
+      "cat": "ye",
+      "area": "merkez",
+      "title": "Eat beef-fat fries at Friterie Mestré in Wazemmes",
+      "desc": "Aurèle Mestré opened this friterie on Rue Gambetta in 2022 to revive the traditional northern chip shop, frying in beef fat and making everything on site. In 2023 it won the 'frite authentique' category at the first world fries championship, held on the Grand'Place of Arras.",
+      "tip": "Taste the fries with just salt first, then try a sauce. The Wazemmes market is a short walk away.",
+      "q": "Friterie Mestré, 305 Rue Léon Gambetta, Lille",
+      "ll": [
+        50.6277,
+        3.0506
+      ],
+      "src": [
+        "https://www.lebonbon.fr/lille/pepites/lille-vraie-friterie-typique-nord-quartier-gambetta/",
+        "https://www.lebonbon.fr/lille/actu/champion-du-monde-frite-lillois-mestre/"
+      ]
+    },
+    {
+      "id": "pavedelille",
+      "cat": "ye",
+      "area": "merkez",
+      "title": "Try a Pavé de Lille at Pierre Thorez's bakery",
+      "desc": "Pierre Thorez's bakery Au Pavé des Flandres on Rue Gambetta is named after its signature cake, the Pavé de Lille, a chocolate cake wrapped in almond paste. Gault&Millau also praises its naturally leavened bread, its pastries and its waffles.",
+      "tip": "Take a pavé home as a gift; it travels better than a cream cake. Pick up a sourdough loaf while you are there.",
+      "q": "Au Pavé des Flandres, 390 Rue Léon Gambetta, Lille",
+      "ll": [
+        50.6266,
+        3.0477
+      ],
+      "src": [
+        "https://fr.gaultmillau.com/artisans/pierre-thorez-au-pave-des-flandres"
+      ]
+    },
+    {
+      "id": "brasseriefivescail",
+      "cat": "ye",
+      "area": "merkez",
+      "title": "Drink beer brewed in the old Fives Cail works",
+      "desc": "The Fives Cail site in the Fives district was once a vast engineering works. One of its brick and steel halls now houses Brasserie Fives Cail, an independent craft brewery that brews its permanent beers on site and serves food under the industrial roof, with concerts and events through the year.",
+      "tip": "Take metro line 1 to Marbrerie. It opens in the late afternoon, so come for an after-work pint.",
+      "q": "Brasserie Fives Cail, 22 Place des Ouvriers, Lille",
+      "ll": [
+        50.6276,
+        3.0919
+      ],
+      "src": [
+        "https://en.lilletourism.com/offers/brasserie-fives-cail-lille-en-4735207",
+        "https://tablejourney.com/neighborhood/lille/fives/"
+      ]
+    },
+    {
+      "id": "brasseriecambier",
+      "cat": "ye",
+      "area": "merkez",
+      "title": "Taste craft beer at the Brasserie Cambier in Croix",
+      "desc": "This urban craft brewery on Rue Jean Monnet in Croix set out to bring beer making close to the people who drink it. Its bar sits beside the brewhouse, and its tours explain how beer is brewed and how to taste it.",
+      "tip": "The bar opens Wednesday to Saturday, from late afternoon on weekdays. Book a tour ahead and check current hours on its website.",
+      "q": "Brasserie Cambier, 251 Rue Jean Monnet, Croix",
+      "ll": [
+        50.6802,
+        3.1412
+      ],
+      "src": [
+        "https://en.lilletourism.com/offers/brasserie-cambier-croix-en-4582475"
+      ]
+    },
+    {
+      "id": "bloempot",
+      "cat": "ye",
+      "area": "merkez",
+      "title": "Eat Flemish produce Florent Ladeyn's way at Bloempot",
+      "desc": "On Rue des Bouchers in Vieux-Lille, chef Florent Ladeyn cooks almost only regional produce in a relaxed, tavern-like room. Gault&Millau rates it 14.5 out of 20 and names it a Chef's Table.",
+      "tip": "The lunch menu is the most affordable way in. It is closed on Sundays and Mondays, so book for Tuesday to Saturday.",
+      "q": "Bloempot, 22 Rue des Bouchers, Lille",
+      "ll": [
+        50.6381,
+        3.0583
+      ],
+      "src": [
+        "https://fr.gaultmillau.com/en/restaurants/bloempot"
+      ]
+    },
+    {
+      "id": "lacapsule",
+      "cat": "ye",
+      "area": "merkez",
+      "title": "Work your way through the 28 taps at La Capsule",
+      "desc": "Tucked into Rue des Trois Mollettes in Vieux-Lille, La Capsule has been a craft beer bar since 2008, pouring from 28 taps.",
+      "tip": "Ask the staff for something brewed nearby; the tap list changes often.",
+      "q": "La Capsule, 25 Rue des Trois Mollettes, Lille",
+      "ll": [
+        50.6405,
+        3.0602
+      ],
+      "src": [
+        "https://tablejourney.com/neighborhood/lille/vieux-lille/"
+      ]
+    },
+    {
+      "id": "marchesebastopol",
+      "cat": "ye",
+      "area": "merkez",
+      "title": "Shop with the locals at the Sébastopol market",
+      "desc": "Twice a week Place Sébastopol fills with a market of farm producers alongside stalls cooking pizza and food from around the world. It is calmer than Wazemmes and very much a neighbourhood affair.",
+      "tip": "It runs on Wednesday and Saturday mornings until about 2 pm.",
+      "q": "Place Sébastopol, Lille",
+      "ll": [
+        50.629,
+        3.0576
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://tablejourney.com/france/lille/markets/",
+        "https://en.lilletourism.com/explore/hello-gastronomie/market-appointments/"
+      ]
+    },
+    {
+      "id": "marchepellevoisin",
+      "cat": "ye",
+      "area": "merkez",
+      "title": "Buy from the farmers at the Saint-Maurice Pellevoisin market",
+      "desc": "On Wednesday mornings the forecourt of the church of Notre-Dame de Pellevoisin hosts the market of the Saint-Maurice Pellevoisin district, with farm producers, a fishmonger and cheese.",
+      "tip": "Come before noon; the stalls pack up around 2 pm.",
+      "q": "Notre-Dame de Pellevoisin, Lille",
+      "ll": [
+        50.6501,
+        3.0913
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://tablejourney.com/france/lille/markets/",
+        "https://en.lilletourism.com/explore/hello-gastronomie/market-appointments/"
+      ]
+    },
+    {
+      "id": "garestsauveur",
+      "cat": "dene",
+      "area": "merkez",
+      "title": "Hang out at the Gare Saint-Sauveur",
+      "desc": "This freight station opened in 1865 and closed in 2003. For Lille 3000 in 2009 two of its halls were reborn: one holds a bar-restaurant, the Bistrot de St So, and a cinema, while the 5,000 square metre second hall hosts exhibitions and events.",
+      "tip": "Check the Lille 3000 programme for what is on, and stay for a drink at the Bistrot de St So.",
+      "q": "Gare Saint-Sauveur, Lille",
+      "ll": [
+        50.6272,
+        3.0724
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Gare_de_Lille-Saint-Sauveur"
+      ]
+    },
+    {
+      "id": "louchedor",
+      "cat": "dene",
+      "area": "merkez",
+      "title": "Taste the soups of the Louche d'Or on 1 May in Wazemmes",
+      "desc": "Every 1 May since 2001, teams of cooks set up their pots in the streets of Wazemmes around Place de la Nouvelle-Aventure and Rue des Sarrazins. Visitors taste the soups, a jury and the public award golden, silver and bronze ladles, and children compete in their own Mini Louche d'Or, all to the sound of brass bands and street shows.",
+      "tip": "Entry is free. The hub is the Maison Folie Wazemmes, a former textile mill turned arts venue for Lille 2004, run by the organisers the rest of the year.",
+      "q": "Maison Folie Wazemmes, 70 Rue des Sarrazins, Lille",
+      "ll": [
+        50.625,
+        3.0482
+      ],
+      "tags": [
+        "free"
+      ],
+      "months": [
+        5
+      ],
+      "src": [
+        "https://www.festivalenfrance.com/festival/la-louche-dor",
+        "https://fr.wikipedia.org/wiki/Maison_folie_de_Wazemmes"
+      ]
+    },
+    {
+      "id": "tramwaymongy",
+      "cat": "dene",
+      "area": "merkez",
+      "title": "Ride the Mongy tram up the Grand Boulevard",
+      "desc": "Opened in 1909 together with the Grand Boulevard it runs along, Lille's tram is nicknamed the Mongy after its creator Alfred Mongy. Its 17.5 km Y-shaped line runs from Lille to the Croisé-Laroche junction in Marcq-en-Barœul, then splits for Roubaix and Tourcoing, and it is one of the few French tramways never to have been scrapped.",
+      "tip": "Board underground at Lille-Flandres and grab a window seat once the tram surfaces on the boulevard. Get off at Croisé-Laroche for the racecourse.",
+      "q": "Croisé-Laroche, Marcq-en-Barœul",
+      "ll": [
+        50.6647,
+        3.102
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Tramway_du_Grand_Boulevard"
+      ]
+    },
+    {
+      "id": "parcheron",
+      "cat": "dene",
+      "area": "merkez",
+      "title": "Walk or cycle around the Lac du Héron",
+      "desc": "Villeneuve-d'Ascq's Parc du Héron covers 110 hectares of water and green space around a big lake, and 73 hectares east of the lake form a regional nature reserve. Overlooking it is the Colline des Marchenelles, a 40 m hill made from the earth dug out for the lakes and planted with woodland in the early 1980s.",
+      "tip": "Bring binoculars for the water birds on the reserve side. The 17th-century hunting lodge and the Asnapio archaeological park are both within the park.",
+      "q": "Lac du Héron, Villeneuve-d'Ascq",
+      "ll": [
+        50.6346,
+        3.171
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Parc_du_H%C3%A9ron"
+      ]
+    },
+    {
+      "id": "asnapio",
+      "cat": "dene",
+      "area": "merkez",
+      "title": "Time-travel through rebuilt houses at Asnapio",
+      "desc": "Excavations for the new town of Villeneuve-d'Ascq in the 1970s turned up prehistoric and Gaulish remains, which inspired this archaeological park, created in 1988 and opened in 2001. Its full-size reconstructions of dwellings run from the Upper Palaeolithic to the Middle Ages, built with the techniques of each period.",
+      "tip": "Its name is the Carolingian form of Annappes. Check the calendar for demonstration days, when you can watch the old crafts in action.",
+      "q": "Parc archéologique Asnapio, Villeneuve-d'Ascq",
+      "ll": [
+        50.6364,
+        3.1569
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Parc_arch%C3%A9ologique_Asnapio"
+      ]
+    },
+    {
+      "id": "hippodromemarcq",
+      "cat": "dene",
+      "area": "merkez",
+      "title": "Place a bet at the Croisé-Laroche racecourse",
+      "desc": "Designed by Jean Papet and opened on 15 March 1931, Marcq-en-Barœul's racecourse hosts trotting and flat racing on two tracks. It once even saw the finish of Paris-Roubaix in 1935 and 1936, and stages of the Tour de France. Since 2004 it has carried the name of former mayor Serge Charles.",
+      "tip": "Check the race calendar before you go; the Croisé-Laroche tram stop is right by the gates.",
+      "q": "Hippodrome Serge-Charles, Marcq-en-Barœul",
+      "ll": [
+        50.6672,
+        3.0931
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Hippodrome_Serge-Charles"
+      ]
+    },
+    {
+      "id": "carillontourcoing",
+      "cat": "dene",
+      "area": "merkez",
+      "title": "Climb to the 62 bells of Saint-Christophe in Tourcoing",
+      "desc": "The 80 m tower of Tourcoing's church of Saint-Christophe hides a spiral staircase of 255 steps leading to a carillon museum. Above it hang 62 bells, including a 6 tonne bourdon, and a view over the whole metropole.",
+      "tip": "Tower visits run on set dates, so ask the Tourcoing tourist office before you go. The MUba museum is a few steps away.",
+      "q": "Église Saint-Christophe, Tourcoing",
+      "ll": [
+        50.7221,
+        3.1599
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Christophe_de_Tourcoing"
+      ]
+    },
+    {
+      "id": "parcdeule",
+      "cat": "dene",
+      "area": "merkez",
+      "title": "Get lost in the green of the Parc de la Deûle",
+      "desc": "South-west of Lille, this 400 hectare park along the upper Deûle was created to protect the water catchments that supply the metropole. Its landscaping by Jacques Simon's team won France's landscape prize in 2006 and the Council of Europe Landscape Award in 2009.",
+      "tip": "In Santes, a wooden boardwalk crosses the 'nature retrouvée' area on a former dredging dump; bring a bike to link the different sectors.",
+      "q": "Parc de la Deûle, Santes",
+      "ll": [
+        50.5779,
+        2.9698
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Parc_de_la_De%C3%BBle"
+      ]
+    },
+    {
+      "id": "maisonfoliemoulins",
+      "cat": "dene",
+      "area": "merkez",
+      "title": "Catch a show in the old brewery of the Maison Folie Moulins",
+      "desc": "In the Moulins district, an 18th-century brewery that closed in 1934 was renovated for Lille 2004 and reopened as a cultural venue. Around its two courtyards it hosts concerts, shows, exhibitions and film screenings, and since 2014 shares a hall with the Flow centre for urban cultures.",
+      "tip": "Check the programme online; many exhibitions are free. Take the metro to Porte d'Arras.",
+      "q": "Maison Folie Moulins, Rue d'Arras, Lille",
+      "ll": [
+        50.6231,
+        3.0681
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Maison_folie_de_Moulins"
+      ]
+    },
+    {
+      "id": "forumbavay",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Walk the Roman forum of Bavay",
+      "desc": "Bavay was Bagacum, capital of the Nervii tribe, and its forum, built in two phases between the 1st and late 2nd centuries AD, is one of the largest known in the Roman world at more than 2.5 hectares. In late Antiquity it was turned into a fortress. The site museum tells the story, and since 2022 a 6,400 square metre steel canopy shelters the vaulted cryptoporticus.",
+      "tip": "Start in the museum to make sense of the ruins, then walk along the cryptoporticus under the new roof.",
+      "q": "Forum antique de Bavay",
+      "ll": [
+        50.2986,
+        3.7911
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Forum_antique_de_Bavay"
+      ]
+    },
+    {
+      "id": "abbayevaucelles",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Trace the giant church of the Abbaye de Vaucelles",
+      "desc": "Saint Bernard himself founded this Cistercian abbey in 1131 in the Scheldt valley, about 13 km south-west of Cambrai. It once had the largest Cistercian abbey church in the world; the church is gone, but its outline is marked on the ground, and the abbey was dissolved in 1790.",
+      "tip": "Leave time for the medieval garden on the site. Check opening days before driving out.",
+      "q": "Abbaye de Vaucelles, Les Rues-des-Vignes",
+      "ll": [
+        50.0768,
+        3.2229
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Abbaye_de_Vaucelles"
+      ]
+    },
+    {
+      "id": "museevalenciennes",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Meet Carpeaux and Watteau in Valenciennes' fine arts museum",
+      "desc": "Valenciennes gave France two great artists, the painter Antoine Watteau and the sculptor Jean-Baptiste Carpeaux, and both are at the heart of this museum, which grew out of the city's 18th-century art academy. Its grand building by Paul Dusart opened in 1909 and also holds strong 17th-century Flemish painting, from Jan Brueghel the Elder to Van Dyck and Jordaens.",
+      "tip": "Head for the central Carpeaux hall first; its sculptures and plasters fill one of the finest rooms.",
+      "q": "Musée des Beaux-Arts, Valenciennes",
+      "ll": [
+        50.3576,
+        3.5308
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_Arts_et_de_l%27Arch%C3%A9ologie_de_Valenciennes"
+      ]
+    },
+    {
+      "id": "leughenaer",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Hear the legend of the Leughenaer, Dunkirk's Liar's Tower",
+      "desc": "Built around 1450, this 30 m octagonal brick tower is the oldest monument in Dunkirk; in 1814 it was raised to hold a lighthouse lantern. Its Flemish name means 'liar', after a legend that locals sent false signals from the top to wreck ships on the sandbanks.",
+      "tip": "It stands by the port basins, a short walk from the port museum and the tall ship Duchesse Anne.",
+      "q": "Tour du Leughenaer, Dunkerque",
+      "ll": [
+        51.0402,
+        2.3786
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Tour_du_Leughenaer"
+      ]
+    },
+    {
+      "id": "pharegravelines",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "See the black and white spiral lighthouse of Gravelines",
+      "desc": "Lit in 1843 at Petit-Fort-Philippe, at the mouth of the Aa, this 29 m lighthouse was painted with its black spiral in 1931 and 1932, which earned it the nickname 'Black and White'. It went dark in 1985 when its last keeper, Maurice Bienaimé, retired, and the town has owned it since 2004.",
+      "tip": "Combine it with a walk along the channel to the beach of Petit-Fort-Philippe. Ask the Gravelines tourist office whether the 116 steps to the top are open for visits.",
+      "q": "Phare de Gravelines, Petit-Fort-Philippe",
+      "ll": [
+        51.0039,
+        2.1092
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Phare_de_Gravelines"
+      ]
+    },
+    {
+      "id": "ecomuseefourmies",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "See the looms run at the textile museum in Fourmies",
+      "desc": "The Écomusée de l'Avesnois occupies the Prouvost-Masurel worsted spinning mill, which worked from 1874 to 1978. Over 2,500 square metres, its machines, many still in working order, follow wool from fleece to finished cloth, while other rooms recreate the daily life of mill workers around 1900. The écomusée was named European Museum of the Year in 1990.",
+      "tip": "Time your visit for a machine demonstration. Its sister site in nearby Trélon is a glassworks museum with live glassblowing.",
+      "q": "Musée du Textile et de la Vie sociale, Fourmies",
+      "ll": [
+        50.0176,
+        4.0428
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/%C3%89comus%C3%A9e_de_l%27Avesnois_%C3%A0_Fourmies"
+      ]
+    },
+    {
+      "id": "museebailleul",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Explore the cabinet of curiosities at the Musée Benoît-De-Puydt",
+      "desc": "Bailleul's museum was founded in 1859 with the bequest of Benoît De Puydt, a court clerk and voracious collector of Chinese and Japanese porcelain, Delft and local faience, lace, furniture and Flemish paintings. Rebuilt after the First World War, it shows treasures such as The Extraction of the Stone of Madness by Herri met de Bles.",
+      "tip": "Do not miss the room of Flemish folklore and the works of Bailleul-born painter Pharaon de Winter. The belfry is a few minutes' walk away.",
+      "q": "Musée Benoît-De-Puydt, Bailleul",
+      "ll": [
+        50.7347,
+        2.7344
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Beno%C3%AEt-De-Puydt_de_Bailleul"
+      ]
+    },
+    {
+      "id": "museehazebrouck",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Meet the giants of Hazebrouck in the Augustinian convent",
+      "desc": "Since 1927 Hazebrouck's museum has occupied a former Augustinian convent from 1616, with the stepped and scrolled gables typical of late Flemish Renaissance. It mixes Flemish and French paintings with a reconstructed Flemish kitchen and the town's processional giants, including Roland, the oldest of them.",
+      "tip": "Look for the giant family of Tisje Tasje and Toria, the town's processional giants.",
+      "q": "Musée des Augustins, Hazebrouck",
+      "ll": [
+        50.7213,
+        2.5343
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_Augustins_d%27Hazebrouck"
+      ]
+    },
+    {
+      "id": "noordmeulen",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "See the Noordmeulen, a windmill dated 1127, in Hondschoote",
+      "desc": "On the edge of Hondschoote, this wooden post mill turns its whole body on a single pivot, and a beam carries the date 1127, which would make it one of the oldest windmills in Europe. Millers carved their names and dates into its timbers; it stopped turning in 1959 and was restored in 1988 after the town bought it.",
+      "tip": "Go on to the Spinnewyn mill, rebuilt in 1993 where its predecessor was felled during the 1793 Battle of Hondschoote.",
+      "q": "Noordmeulen, Hondschoote",
+      "ll": [
+        50.9847,
+        2.5806
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Hondschoote"
+      ]
+    },
+    {
+      "id": "montdescats",
+      "cat": "ye",
+      "area": "cevre",
+      "title": "Buy Trappist cheese at the abbey of the Mont des Cats",
+      "desc": "Trappist monks have lived on the Mont des Cats near Godewaersvelde since 1826. Their dairy makes the mild washed-rind Mont des Cats cheese, whose sales provide most of the abbey's income, and since 2011 the abbey also has a Trappist beer of its own, brewed for it at Chimay.",
+      "tip": "Pick up cheese and beer at the abbey shop, then walk round the hilltop for the views over the Flemish plain. Keep voices low near the church during services.",
+      "q": "Abbaye du Mont des Cats, Godewaersvelde",
+      "ll": [
+        50.785,
+        2.6643
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Abbaye_du_Mont-des-Cats"
+      ]
+    },
+    {
+      "id": "troismonts",
+      "cat": "ye",
+      "area": "cevre",
+      "title": "Order a 3 Monts in the village where it is brewed",
+      "desc": "Rémy Ricour founded a brewery in Saint-Sylvestre-Cappel in 1920, and in 1985 his family launched 3 Monts, a strong golden bière de garde named after the three hills around the village: the Mont des Récollets, Mont Cassel and the Mont des Cats. The brewery took the beer's name in 2019 and is still run by the founder's descendants.",
+      "tip": "Drink it with a carbonade in one of the estaminets of nearby Cassel, with the hills on the label in view.",
+      "q": "Brasserie 3 Monts, Saint-Sylvestre-Cappel",
+      "ll": [
+        50.7779,
+        2.5522
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Brasserie_de_Saint-Sylvestre"
+      ]
+    },
+    {
+      "id": "choulette",
+      "cat": "ye",
+      "area": "cevre",
+      "title": "Taste bière de garde at La Choulette in Hordain",
+      "desc": "A cooper, Isly Dubois, founded this village brewery in 1885. Rebuilt after shelling in the First World War, it took the name La Choulette in 1986 and returned to top-fermented beers in the old farmhouse style. Under the shop, the former lagering cellar holds a small museum of machines and tools from the region's vanished breweries.",
+      "tip": "Visit the shop for the full range and ask to see the cellar museum.",
+      "q": "Brasserie La Choulette, Hordain",
+      "ll": [
+        50.2602,
+        3.3128
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Brasserie_La_Choulette"
+      ]
+    },
+    {
+      "id": "aubaron",
+      "cat": "ye",
+      "area": "cevre",
+      "title": "Eat grills cooked in a brewing vat at Au Baron in Gussignies",
+      "desc": "In 1973 Alain Bailleux, from a line of brewers going back to 1879, bought the village café Au Baron near the Belgian border and turned it into a restaurant, where meat is grilled in an old brewing vessel. In 1989 he and his father opened their own brewery with the Saison Saint-Médard, and the next generation still runs both.",
+      "tip": "Book at weekends, and leave room for a bottle of the house beers to take home.",
+      "q": "Brasserie Au Baron, Gussignies",
+      "ll": [
+        50.3364,
+        3.7375
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Brasserie_Au_Baron"
+      ]
+    },
+    {
+      "id": "bonfermier",
+      "cat": "ye",
+      "area": "cevre",
+      "title": "Try Lucullus tongue at the Auberge du Bon Fermier",
+      "desc": "This coaching inn on Rue de Famars in Valenciennes occupies a building about five centuries old; its dining room, a former stable, keeps cobbles, a big fireplace and solid wooden tables. The kitchen serves spit-roasted meats, snails and the local Lucullus, smoked beef tongue layered with foie gras, a speciality invented in Valenciennes in the 1930s.",
+      "tip": "It is open every day for lunch and dinner. Order the Lucullus as a starter with hot toast.",
+      "q": "Auberge du Bon Fermier, 64 Rue de Famars, Valenciennes",
+      "ll": [
+        50.3552,
+        3.5213
+      ],
+      "src": [
+        "https://fr.gaultmillau.com/en/restaurant/auberge-du-bon-fermier",
+        "https://fr.wikipedia.org/wiki/Lucullus_de_Valenciennes"
+      ]
+    },
+    {
+      "id": "vertmont",
+      "cat": "ye",
+      "area": "cevre",
+      "title": "Eat maroilles fries at the Auberge du Vert Mont",
+      "desc": "On the slopes of the Mont Noir in Boeschepe, chef Florent Ladeyn holds a Michelin star for strictly local, seasonal cooking over embers, served in a beamed country dining room with views of the Monts de Flandre. The main offer is a single seasonal menu for the whole table, and its maroilles fries are close to legendary.",
+      "tip": "It is open Tuesday to Saturday; book well ahead, especially for weekend lunch.",
+      "q": "Auberge du Vert Mont, Boeschepe",
+      "ll": [
+        50.793,
+        2.7035
+      ],
+      "src": [
+        "https://guide.michelin.com/fr/en/hauts-de-france/boeschepe/restaurant/auberge-du-vert-mont"
+      ]
+    },
+    {
+      "id": "doigtsjeanbart",
+      "cat": "ye",
+      "area": "cevre",
+      "title": "Taste the Doigts de Jean Bart in Dunkirk",
+      "desc": "Dunkirk's sweet souvenir is named after its famous privateer: the 'fingers of Jean Bart', bars of almond, coffee and chocolate sold in boxes of five or ten. They are the speciality of the pâtisserie Aux Doigts de Jean Bart, run by Jean-Daniel Vandewalle, which also makes pastries and chocolates with Valrhona couverture.",
+      "tip": "The shop on Rue du Sud has a corner to eat in. Check opening hours, as it usually stays shut early in the week.",
+      "q": "Aux Doigts de Jean Bart, 6 Rue du Sud, Dunkerque",
+      "ll": [
+        51.0321,
+        2.3769
+      ],
+      "src": [
+        "https://fr.gaultmillau.com/fr/artisans/aux-doigts-de-jean-bart",
+        "https://www.dunkirk-tourism.com/touristic_sheet/aux-doigts-de-jean-bart-dunkerque-en-2899350"
+      ]
+    },
+    {
+      "id": "beffroidunkerque",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Climb Dunkirk's belfry to the bourdon Jean Bart",
+      "desc": "Dunkirk's 58 m brick belfry began as a watchtower and became the bell tower of the church of Saint-Éloi in the 15th century, though the two now stand apart. It is a UNESCO World Heritage site and holds a carillon of 48 bells from 1962, led by the 5 tonne bourdon Jean Bart, which still rings over the town.",
+      "tip": "A narrow spiral staircase leads to the top and a panoramic view of the port and the sea; ask at the tourist office for visit times.",
+      "q": "Beffroi de Dunkerque",
+      "ll": [
+        51.0356,
+        2.3762
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Beffroi_de_Dunkerque"
+      ]
+    },
+    {
+      "id": "dunemarchand",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Wander the wild Dune Marchand near the Belgian border",
+      "desc": "Protected as a national nature reserve since 1974 and enlarged to 113 hectares in 2024, the Dune Marchand between Zuydcoote and Bray-Dunes keeps a stretch of wild Flemish dunes by the North Sea. It shelters 162 species of vertebrates, including the natterjack toad, and some 140 species of birds.",
+      "tip": "Access is free on the marked paths only; the reserve's reception point is at the Ferme Nord in Zuydcoote.",
+      "q": "Dune Marchand, Zuydcoote",
+      "ll": [
+        51.0731,
+        2.5042
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/R%C3%A9serve_naturelle_nationale_de_la_dune_Marchand"
+      ]
+    },
+    {
+      "id": "foretmormal",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Lose yourself in the Forêt de Mormal",
+      "desc": "At 9,163 hectares, Mormal is the largest forest in the Nord, a state forest of oak, beech and hornbeam between Le Quesnoy and the Sambre. Almost completely felled during the First World War, it has grown back and is the only forest in the department with red deer.",
+      "tip": "Start from the village of Locquignol, right in the middle of the forest, and take a map: the long straight rides all look alike.",
+      "q": "Forêt de Mormal, Locquignol",
+      "ll": [
+        50.2069,
+        3.7375
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/For%C3%AAt_de_Mormal"
+      ]
+    },
+    {
+      "id": "mareagoriaux",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Climb the slag heap above the Mare à Goriaux",
+      "desc": "Mining subsidence from 1916 opened three ponds in the forest of Raismes-Saint-Amand-Wallers that merged by 1930 into a 90 hectare lake, no deeper than 1.3 m. Lying at the foot of spoil heap number 171, it has been a biological reserve since 1982 and is now rich in water birds and pioneer plants.",
+      "tip": "Walk up the heap for the view over the lake and the forest. The Trouée d'Arenberg cobbles are just a few kilometres away.",
+      "q": "Mare à Goriaux, Raismes",
+      "ll": [
+        50.3949,
+        3.4329
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Mare_%C3%A0_Goriaux"
+      ]
+    },
+    {
+      "id": "terrilrieulay",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Hike up the slag heap lake park of Rieulay",
+      "desc": "Spoil heap 144 at Rieulay grew from 1911 until its pit closed in 1970. When its rock was later reprocessed, the diggers broke into the water table and created a lake, and the black hill has since become the Argales leisure park, with the Maison du Terril explaining the history and nature of the heaps.",
+      "tip": "Climb the heap for a view over the Scarpe valley and the mining basin, then walk the paths around the lake.",
+      "q": "Maison du Terril, Rieulay",
+      "ll": [
+        50.3767,
+        3.251
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Maison_du_terril_de_Rieulay"
+      ]
+    },
+    {
+      "id": "arkeos",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Travel 200,000 years at Arkéos near Douai",
+      "desc": "Opened in 2014 on the banks of the Scarpe between Douai and Râches, Arkéos combines an archaeology museum with a park of reconstructed medieval dwellings. Films, models and hands-on displays trace life in the area from prehistory to the present, using finds from decades of digs in Douai.",
+      "tip": "Cross the footbridge from the museum to the reconstruction park, where buildings are added year by year.",
+      "q": "Arkéos, Douai",
+      "ll": [
+        50.4092,
+        3.1299
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Mus%C3%A9e_arch%C3%A9ologique_Ark%C3%A9os"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "new": [
+    {
+      "id": "kmariakapitol", "cat": "gor", "area": "innenstadt",
+      "title": "Find the carved wooden door of St. Maria im Kapitol",
+      "desc": "The largest of Cologne's twelve Romanesque churches stands where a Roman temple once was, and tradition credits its founding to Plektrudis, wife of Pippin the Middle. Its three-apse choir is the oldest of its kind on the Lower Rhine, and in the south aisle hangs a carved wooden door from around 1050 to 1065, with 26 panels telling the life of Jesus.",
+      "tip": "Look for Plektrudis's Romanesque tomb slab in the north aisle. The church sits in a quiet pocket just off the busy Heumarkt, so it is an easy calm detour.",
+      "q": "St. Maria im Kapitol, Köln", "ll": [50.9346, 6.9586],
+      "tags": ["free", "rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/St._Maria_im_Kapitol"]
+    },
+    {
+      "id": "kkunibert", "cat": "gor", "area": "innenstadt",
+      "title": "See 800-year-old glass in St. Kunibert by the Rhine",
+      "desc": "Consecrated in 1247, St. Kunibert is the youngest of Cologne's great Romanesque churches and stands right by the river north of the Dom. Its choir still has original stained glass from around 1230, saved because it was stored away during the Second World War, showing the legends of Saint Kunibert and Saint Clement.",
+      "tip": "In the crypt is the Kunibertspütz, a well that legend says babies came from; until the 19th century women hoping for a child drank its water. Pair it with a walk along the Rhine promenade.",
+      "q": "St. Kunibert, Köln", "ll": [50.9468, 6.9626],
+      "tags": ["free", "rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/St._Kunibert_(K%C3%B6ln)"]
+    },
+    {
+      "id": "krautenstrauch", "cat": "gor", "area": "innenstadt",
+      "title": "Stand under the rice granary in the Rautenstrauch-Joest-Museum",
+      "desc": "Cologne's museum of world cultures is the only municipal ethnology museum in North Rhine-Westphalia and reopened in a new building near the Neumarkt in 2010. Its biggest exhibit greets you in the foyer: a carved rice granary from Sulawesi, more than 7.5 metres tall.",
+      "tip": "The permanent show is arranged by themes like ritual, adornment and death rather than by continent, so give yourself two hours. The same building houses the Schnütgen Museum of medieval art next door.",
+      "q": "Rautenstrauch-Joest-Museum, Cäcilienstraße, Köln", "ll": [50.9346, 6.9505],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Rautenstrauch-Joest-Museum"]
+    },
+    {
+      "id": "kreichard", "cat": "ye", "area": "innenstadt",
+      "title": "Have cake on the Dom terrace at Café Reichard",
+      "desc": "Georg Reichard opened his café in 1855 on Hohe Straße and moved it to Unter Fettenhennen in 1905, where its terrace looks straight at the cathedral's west front. The counter holds dozens of cakes baked fresh each day, plus Baumkuchen and handmade pralines.",
+      "tip": "The terrace has around 360 seats but still fills at weekend lunchtime; come for a late breakfast instead. The weekend breakfast buffet runs until 11:30.",
+      "q": "Café Reichard, Unter Fettenhennen 11, Köln", "ll": [50.9410, 6.9559],
+      "src": ["http://www.cafe-reichard.de/index.html"]
+    },
+    {
+      "id": "kschreckenskammer", "cat": "ye", "area": "innenstadt",
+      "title": "Drink house Kölsch at the Schreckenskammer",
+      "desc": "Opposite St. Ursula, the Brauhaus zur Schreckenskammer serves its own Schreckenskammer Kölsch and serves hearty Rhineland brewhouse food. Records of taverns on this spot go back to the 15th century, and the house reopened in 1960 after wartime destruction.",
+      "tip": "It is a few minutes from the station yet mostly full of locals, especially after work. Book by phone at weekends, as reservations are taken by telephone only.",
+      "q": "Brauhaus zur Schreckenskammer, Ursulagartenstraße 11, Köln", "ll": [50.9459, 6.9536],
+      "src": ["https://www.cologne-tourism.com/food-drink/gastronomy/schreckenskammer", "https://www.speisekarte.de/k%C3%B6ln/restaurant/gaststaette_schreckenskammer"]
+    },
+    {
+      "id": "ksalonschmitz", "cat": "ye", "area": "innenstadt",
+      "title": "Start the day with espresso at Salon Schmitz",
+      "desc": "On Aachener Straße at the edge of the Belgisches Viertel, Salon Schmitz is the neighbourhood's living room: a first espresso with the paper in the morning, lunch and cake at midday, drinks at the counter in the evening. It is part of a small family of places that includes the Metzgerei Schmitz deli.",
+      "tip": "Look at the walls: the café also hosts art exhibitions. From here the boutiques and bars of the Belgian Quarter are a short stroll.",
+      "q": "Salon Schmitz, Aachener Straße 28, Köln", "ll": [50.9366, 6.9362],
+      "src": ["https://www.salonschmitz.com/"]
+    },
+    {
+      "id": "kstadtgarten", "cat": "ye", "area": "innenstadt",
+      "title": "Take a Kölsch under the trees in the Stadtgarten beer garden",
+      "desc": "Laid out in 1827 and 1828, the Stadtgarten is Cologne's first modern park. Its concert house, run since 1986 by a jazz initiative born among music students, stages more than 400 shows a year, and its leafy beer garden is a favourite of the Belgian Quarter crowd.",
+      "tip": "On summer evenings grab a table early, then check if there is a gig in the club afterwards. It is a short walk from Hans-Böckler-Platz station.",
+      "q": "Stadtgarten, Venloer Straße 40, Köln", "ll": [50.9430, 6.9352],
+      "months": [5, 6, 7, 8, 9],
+      "src": ["https://de.wikipedia.org/wiki/Stadtgarten_(K%C3%B6ln)"]
+    },
+    {
+      "id": "kphilharmonie", "cat": "dene", "area": "innenstadt",
+      "title": "Hear a concert deep under the Kölner Philharmonie",
+      "desc": "Opened in 1986, the Philharmonie is a round, amphitheatre-like hall buried beneath the Heinrich-Böll-Platz between the Dom and the Rhine. It is home to the Gürzenich Orchestra and the WDR orchestras and hosts jazz and pop as well as classical music.",
+      "tip": "During concerts, staff close the square above so footsteps do not disturb the hall. Check the programme for jazz and pop nights if classical is not your thing.",
+      "q": "Kölner Philharmonie, Bischofsgartenstraße 1, Köln", "ll": [50.9406, 6.9603],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/K%C3%B6lner_Philharmonie"]
+    },
+    {
+      "id": "krheinboulevard", "cat": "gor", "area": "veedel",
+      "title": "Sit on the Rheinboulevard steps facing the Dom",
+      "desc": "In Deutz, broad stone steps run down to the Rhine right opposite the old town, and they are the city's favourite free grandstand. From here you see the Dom, Groß St. Martin and the Hohenzollern bridge in one frame, with barges sliding past.",
+      "tip": "Come at sunset with a bottle of Kölsch from a kiosk, when the old town turns gold. It is the best place to watch fireworks over the river too.",
+      "q": "Rheinboulevard, Köln-Deutz", "ll": [50.9383, 6.9690],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Kastell_Divitia"]
+    },
+    {
+      "id": "kstammheim", "cat": "gor", "area": "veedel",
+      "title": "Find sculptures in the Stammheim castle park",
+      "desc": "On the right bank north of Mülheim, the Schlosspark Stammheim is an English landscape garden laid out by Maximilian Friedrich Weyhe around 1830. Since 2002 a volunteer initiative has filled it with modern sculptures, many of them permanent, set among old trees on the Rhine bank.",
+      "tip": "Walk out to the Stammheimer Ufer dike path for a wide Rhine view. It is a quiet alternative to the busier riverside parks in town.",
+      "q": "Schlosspark Stammheim, Köln", "ll": [50.9867, 6.9831],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Schlosspark_Stammheim"]
+    },
+    {
+      "id": "kengelbert", "cat": "gor", "area": "veedel",
+      "title": "See the 'lemon squeezer' church of St. Engelbert in Riehl",
+      "desc": "Dominikus Böhm built St. Engelbert in 1930 to 1932 as a round church with eight parabolic walls, a radical design for its time. Locals soon nicknamed it the Zitronenpresse, the lemon squeezer, and its bell tower stands apart from the church.",
+      "tip": "It is on the Riehler Gürtel, a short walk from the zoo and the cable car, so you can add it to a Riehl day.",
+      "q": "St. Engelbert, Riehler Gürtel, Köln", "ll": [50.9655, 6.9744],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/St._Engelbert_(K%C3%B6ln)"]
+    },
+    {
+      "id": "kzoo", "cat": "dene", "area": "veedel",
+      "title": "Watch the hippos underwater in the Kölner Zoo",
+      "desc": "Cologne's zoo in Riehl keeps around 12,000 animals of more than 750 species. Highlights include the Hippodom, where you can watch hippos and crocodiles through glass, the large elephant park and the rainforest house.",
+      "tip": "The zoo is open every day of the year, but animal houses close 30 minutes before the gates. Combine it with a cable car ride over the Rhine from just outside.",
+      "q": "Kölner Zoo, Riehler Straße 173, Köln", "ll": [50.9583, 6.9733],
+      "src": ["https://www.koelnerzoo.de/", "https://de.wikipedia.org/wiki/K%C3%B6lner_Zoo"]
+    },
+    {
+      "id": "kclaudius", "cat": "dene", "area": "veedel",
+      "title": "Soak in thermal water at the Claudius Therme",
+      "desc": "In the Rheinpark in Deutz, the Claudius Therme is fed by a natural thermal mineral spring. There are a dozen indoor and outdoor pools plus eight saunas, and the panorama sauna looks across to the Dom.",
+      "tip": "Open daily until midnight, with last entry at 22:30, so it works well after a long day of sightseeing. Weekday mornings are quietest.",
+      "q": "Claudius Therme, Sachsenbergstraße 1, Köln", "ll": [50.9510, 6.9797],
+      "tags": ["rainy day"],
+      "src": ["https://www.claudius-therme.de/"]
+    },
+    {
+      "id": "kdecksteiner", "cat": "dene", "area": "veedel",
+      "title": "Row a boat on the Decksteiner Weiher",
+      "desc": "This long lake in the outer green belt was dug between 1927 and 1929 on the old fortress ring and designed as a rowing course. Joggers, walkers and families circle it all year, and rowing and pedal boats are hired near the Haus am See restaurant at the north-west end.",
+      "tip": "Loop round the lake and on through the green belt; the FC Köln training grounds are just next door if you want to watch a session.",
+      "q": "Decksteiner Weiher, Köln", "ll": [50.9081, 6.8972],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Decksteiner_Weiher"]
+    },
+    {
+      "id": "kgroov", "cat": "dene", "area": "veedel",
+      "title": "Spend a lazy afternoon on the Groov in Zündorf",
+      "desc": "The Groov in Porz-Zündorf is an old Rhine island whose side arm once served as a natural harbour. Since the 1970s it has been a leisure park with lawns, a boating pond, minigolf, a marina and beer gardens around the little market square.",
+      "tip": "In summer a small ferry crosses daily to Köln-Weiß on the other bank, handy for a cycling loop along both sides of the Rhine.",
+      "q": "Groov, Köln-Zündorf", "ll": [50.8708, 7.0417],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Groov"]
+    },
+    {
+      "id": "kfcstadion", "cat": "dene", "area": "veedel",
+      "title": "Sing along with the FC crowd at the RheinEnergieStadion",
+      "desc": "1. FC Köln plays its home games in Müngersdorf, in a stadium of around 50,000 seats. Before kick-off the whole ground sings the club anthem, and the live goat mascot Hennes watches from the sidelines.",
+      "tip": "Tickets sell out fast, so plan ahead. Tram line 1 runs out to the stadium; arrive early to hear the anthem.",
+      "q": "RheinEnergieStadion, Köln", "ll": [50.9335, 6.8751],
+      "src": ["https://de.wikipedia.org/wiki/Rheinenergiestadion"]
+    },
+    {
+      "id": "kscholzen", "cat": "ye", "area": "veedel",
+      "title": "Eat Rhineland classics at Haus Scholzen in Ehrenfeld",
+      "desc": "On Venloer Straße, the Scholzen family has run this restaurant for more than a century, now in the fourth generation. The menu follows the seasons, with game and porcini in autumn and roast goose from November, alongside dishes like Himmel un Ääd.",
+      "tip": "It is a calm, old-school contrast to Ehrenfeld's street food scene. Book ahead in goose season.",
+      "q": "Haus Scholzen, Venloer Straße 236, Köln", "ll": [50.9473, 6.9232],
+      "src": ["https://www.koeln.de/leben/ll/beliebte-restaurants-in-koeln-ehrenfeld/haus-scholzen", "https://www.cologne-tourism.com/delight-diversity/gastronomy/detail/haus-scholzen"]
+    },
+    {
+      "id": "kgoldekappes", "cat": "ye", "area": "veedel",
+      "title": "Order Reibekuchen at Em Golde Kappes in Nippes",
+      "desc": "Opened in 1913 on Neusser Straße, Em Golde Kappes takes its name from the cabbage that Nippes once grew, and the building is a listed monument. Today it is run by Früh and is the neighbourhood's classic Kölsch house.",
+      "tip": "Monday is Reibekuchen day and Wednesday is ribs day. Trams 12 and 15 stop at Florastraße right outside.",
+      "q": "Em Golde Kappes, Neusser Straße 295, Köln", "ll": [50.9650, 6.9534],
+      "src": ["https://www.koeln.de/tourismus/ll/koelner-lokale-mit-koelscher-und-rheinischer-kueche/em-golde-kappes", "https://www.kuladig.de/Objektansicht/Drucken/KLD-339929"]
+    },
+    {
+      "id": "kbrauwelt", "cat": "ye", "area": "veedel",
+      "title": "Drink in the old ice cellar of the Brauwelt in Kalk",
+      "desc": "The former Sünner brewery on Kalker Hauptstraße is Cologne's oldest brewery and distillery site, now run as the Brauwelt by the Malzmühle family. The brewhouse sits in the high brick vaults of the old ice cellar, and beers and spirits are still made on site.",
+      "tip": "In summer the beer garden opens behind the brewery. Kalk-Kapelle station on lines 1 and 9 is a few steps away.",
+      "q": "Brauwelt Köln, Kalker Hauptstraße 260, Köln", "ll": [50.9391, 7.0112],
+      "src": ["https://koeln.mitvergnuegen.com/2022/brauwelt-koeln/", "https://www.cologne-tourism.com/food-drink/gastronomy/brauwelt"]
+    },
+    {
+      "id": "kunkelbach", "cat": "ye", "area": "veedel",
+      "title": "Settle in at Haus Unkelbach in Sülz",
+      "desc": "On Luxemburger Straße, Haus Unkelbach is the traditional Kölsch house of Sülz and Klettenberg, recognisable by its greenish bullseye-glass windows. It serves brewhouse classics and even has a vegan section on the menu.",
+      "tip": "It gets busy, so reserve for dinner. In good weather ask for a terrace table.",
+      "q": "Haus Unkelbach, Luxemburger Straße 260, Köln", "ll": [50.9153, 6.9266],
+      "src": ["https://koeln.mitvergnuegen.com/2024/bars-kneipen-suelz/", "https://www.opentable.co.uk/r/haus-unkelbach-cologne-2"]
+    },
+    {
+      "id": "kcbensbergschloss", "cat": "gor", "area": "cevre",
+      "title": "Look down the axis to the Dom from Schloss Bensberg",
+      "desc": "Elector Johann Wilhelm, known as Jan Wellem, began this Baroque hunting palace in 1703 to plans by Count Matteo d'Alberti. Its central axis points precisely at Cologne Cathedral, about 14 kilometres away, and today it is a grand hotel.",
+      "tip": "Stand in the forecourt on a clear day to pick out the Dom's spires on the horizon. Walk down to the old town of Bensberg afterwards.",
+      "q": "Schloss Bensberg, Bergisch Gladbach", "ll": [50.9669, 7.1622],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Schloss_Bensberg"]
+    },
+    {
+      "id": "kctuchfabrik", "cat": "gor", "area": "cevre",
+      "title": "Step into a cloth mill frozen in 1961 at Tuchfabrik Müller",
+      "desc": "When the Müller wool mill in Euskirchen-Kuchenheim ran out of orders in 1961, the owner simply locked up, hoping to restart. It sat untouched for two decades and is now an LVR industrial museum, with around 60 original machines left exactly as on the last working day.",
+      "tip": "Time your visit for a demonstration, when the steam engine, carding machine and looms run again. Cloth woven here is sold in the shop.",
+      "q": "LVR-Industriemuseum Tuchfabrik Müller, Euskirchen", "ll": [50.6491, 6.8233],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Tuchfabrik_M%C3%BCller"]
+    },
+    {
+      "id": "kcvussem", "cat": "gor", "area": "cevre",
+      "title": "Walk under the Roman aqueduct bridge at Vussem",
+      "desc": "Near Mechernich-Vussem, a partly rebuilt bridge of the Roman Eifel aqueduct crosses a side valley of the Veybach. The original was about 80 metres long and up to 10 metres high and carried water towards Roman Cologne in the 1st century AD.",
+      "tip": "It is a station on the Römerkanal-Wanderweg, so you can follow the old water line on foot for a stretch.",
+      "q": "Aquäduktbrücke Vussem, Mechernich", "ll": [50.5648, 6.6685],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Aqu%C3%A4duktbr%C3%BCcke_Vussem"]
+    },
+    {
+      "id": "kckakushoehle", "cat": "gor", "area": "cevre",
+      "title": "Climb into the Kakushöhle, a Stone Age cave",
+      "desc": "Near Mechernich-Dreimühlen, a tufa rock up to 18 metres high hides a cave whose main chamber is 15 metres high. Neanderthals, Ice Age reindeer hunters, Celts and Romans all left traces here, and legend says a robber giant named Kakus lived inside.",
+      "tip": "Entry is free. A loop path climbs to the plateau above the rock, and there is a café by the car park.",
+      "q": "Kakushöhle, Mechernich", "ll": [50.5450, 6.6600],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Kakush%C3%B6hle"]
+    },
+    {
+      "id": "kcdombach", "cat": "dene", "area": "cevre",
+      "title": "Scoop your own sheet of paper at the Alte Dombach mill",
+      "desc": "On the Strunde stream in Bergisch Gladbach, a paper mill worked from the early 17th century until around 1900 and later belonged to the Zanders paper company. As an LVR industrial museum it shows papermaking from hand moulds to a giant 1889 paper machine.",
+      "tip": "In the old mill building you can form a sheet by hand yourself. The museum has a café for afterwards.",
+      "q": "Papiermühle Alte Dombach, Bergisch Gladbach", "ll": [50.9949, 7.1536],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Papiermuseum_Alte_Dombach"]
+    },
+    {
+      "id": "kcgrubeguennersdorf", "cat": "dene", "area": "cevre",
+      "title": "Go underground in the Mechernich lead mine",
+      "desc": "Mechernich lived from ore mining for some 2,000 years, and the Grube Günnersdorf was the last lead mine in the Eifel when it closed in 1957. Today it is a visitor mine and museum, with guided tours into the old galleries.",
+      "tip": "The mine can only be entered on a guided tour, usually at 14:00 Tuesday to Saturday and also at 11:00 on Sundays. Bring a jacket, as it is cool underground.",
+      "q": "Bergbaumuseum Grube Günnersdorf, Bleibergstraße 6, Mechernich", "ll": [50.5863, 6.6497],
+      "tags": ["rainy day"],
+      "src": ["https://www.eifel.info/en/pois/bergbaumuseum-und-besucherbergwerk-grube-guennersdorf", "https://nordeifel-tourismus.de/en/culture-time/museums/mechernich-mining-museum"]
+    },
+    {
+      "id": "kczuelpichsee", "cat": "dene", "area": "cevre",
+      "title": "Swim from the beach at Zülpich's Seepark",
+      "desc": "The Wassersportsee Zülpich is a flooded lignite pit of about 85 hectares, famous for steady winds that bring out windsurfers and sailors. For the 2014 garden show it gained a lakeside promenade, park and a supervised sandy beach.",
+      "tip": "Bathing is supervised only in summer. Rent a board at the surf school or just walk the promenade to the old Roman town centre.",
+      "q": "Seepark Zülpich", "ll": [50.6779, 6.6559],
+      "months": [6, 7, 8],
+      "src": ["https://de.wikipedia.org/wiki/Wassersportsee_Z%C3%BClpich"]
+    },
+    {
+      "id": "kcbayarena", "cat": "dene", "area": "cevre",
+      "title": "Watch Bayer 04 at the BayArena, Leverkusen",
+      "desc": "The BayArena opened in 1958 as the Ulrich-Haberland-Stadion and was rebuilt in 2009 into a compact arena of about 30,000 seats. It is home to Bayer 04 Leverkusen, the Bundesliga club founded by workers of the Bayer company.",
+      "tip": "The stadium is a short walk from Leverkusen-Mitte station, about 15 minutes from Köln Hbf by train. Arrive early to soak up the atmosphere.",
+      "q": "BayArena, Bismarckstraße 122, Leverkusen", "ll": [51.0382, 7.0023],
+      "src": ["https://de.wikipedia.org/wiki/BayArena"]
+    },
+    {
+      "id": "kcclarenhof", "cat": "ye", "area": "cevre",
+      "title": "Have farm cake and pick strawberries at Gut Clarenhof, Frechen",
+      "desc": "On the western edge of Cologne, this family farm has an organic market garden, a farm shop and a café serving home-baked cakes, with Flammkuchen at weekends. The farm kitchen makes its own preserves from the fields' produce.",
+      "tip": "Pick-your-own strawberries and flowers usually starts in late May or early June. The fresh-food box outside the shop is open around the clock.",
+      "q": "Gut Clarenhof, Frechen", "ll": [50.9380, 6.8116],
+      "src": ["https://www.koeln.de/leben/ll/hoflaeden-koeln-umgebung/gut-clarenhof/", "https://koeln.mitvergnuegen.com/2024/hofmaerkte/"]
+    },
+    {
+      "id": "kcprintenportz", "cat": "ye", "area": "cevre",
+      "title": "Taste Printen at Printenhaus Portz, Bad Münstereifel",
+      "desc": "Printen, the spiced gingerbread of the Rhineland, are the speciality of this café and shop by Bad Münstereifel's old town. Besides award-winning Printen it serves Eifel dishes, cakes and fine confectionery.",
+      "tip": "Open daily from 10:00 to 18:00. Buy a bag to take home after your walk around the town walls.",
+      "q": "Printenhaus Portz, Bendenweg 22, Bad Münstereifel", "ll": [50.5548, 6.7640],
+      "src": ["https://www.eifel.info/en/gastro/printenhaus-portz-restaurantcafe"]
+    }
+  ]
+}

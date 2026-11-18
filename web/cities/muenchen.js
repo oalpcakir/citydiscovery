@@ -60,7 +60,7 @@ window.CITIES.muenchen = {
     mmadventsspektakel: [48.1434, 11.5761], mmzamanand: [48.1475, 11.5800], mvkaefer: [48.1406, 11.6021],
     mvtantris: [48.1699, 11.5882], mvaumeister: [48.1856, 11.6204], mvhirschau: [48.1621, 11.6025],
     mvtaxisgarten: [48.1631, 11.5324], mvwirtshausau: [48.1290, 11.5866], mvgrossmarkthalle: [48.1186, 11.5534],
-    mvbraeustuben: [48.1392, 11.5456], mvreichenbachkiosk: [48.1289, 11.5788], mvvillastuck: [48.1405, 11.5995],
+    mvbraeustuben: [48.1392, 11.5456], mvreichenbachkiosk: [48.1276, 11.5761], mvvillastuck: [48.1405, 11.5995],
     mvfuenfkontinente: [48.1376, 11.5857], mvkrippen: [48.1432, 11.5910], mvheiligkreuz: [48.1164, 11.5778],
     mvwalkingman: [48.1564, 11.5844], mvverkehrszentrum: [48.1328, 11.5433], mvbogenhausenfriedhof: [48.1479, 11.6015],
     mvolydorf: [48.1792, 11.5523], mvalpinesmuseum: [48.1353, 11.5891], mvdantebad: [48.1669, 11.5310],

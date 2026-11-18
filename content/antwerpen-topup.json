@@ -1,0 +1,934 @@
+{
+  "new": [
+    {
+      "id": "brabofontein",
+      "cat": "gor",
+      "area": "merkez",
+      "title": "Watch Brabo throw the giant's hand on the Grote Markt",
+      "desc": "Jef Lambeaux's bronze fountain from 1887 shows Silvius Brabo, the city's legendary founder, hurling the severed hand of the giant Druon Antigoon into the Schelde. It stands in front of the Renaissance Stadhuis, surrounded by the gabled guild houses of the Grote Markt.",
+      "tip": "Walk around the base: the giant lies slumped among the rocks, and mermaids and sea creatures spout water below. Come back after dark, when the facades are lit.",
+      "q": "Brabofontein Grote Markt Antwerpen",
+      "ll": [
+        51.2212,
+        4.3997
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/Brabo_Fountain"
+      ]
+    },
+    {
+      "id": "sintjacobskerk",
+      "cat": "gor",
+      "area": "merkez",
+      "title": "Find Rubens' grave in Sint-Jacobskerk",
+      "desc": "This Brabantine Gothic church was built on the site of a hostel for pilgrims to Santiago de Compostela and is still on their route. Inside are 24 altars, marble sculpture by Antwerp masters and paintings by Rubens, Jordaens and Maerten de Vos.",
+      "tip": "Rubens is buried in his own family chapel behind the high altar, beneath a painting he made for it. Check the opening hours before you go, as they are limited.",
+      "q": "Sint-Jacobskerk Lange Nieuwstraat Antwerpen",
+      "ll": [
+        51.2202,
+        4.4106
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/St._James%27_Church,_Antwerp"
+      ]
+    },
+    {
+      "id": "carolusborromeus",
+      "cat": "gor",
+      "area": "merkez",
+      "title": "Step into the Jesuit church on Hendrik Conscienceplein",
+      "desc": "Built from 1615 to 1621 as the Jesuit church of Antwerp, Sint-Carolus Borromeus has a showpiece Baroque facade on one of the city's prettiest squares. Rubens designed 39 ceiling paintings for it, all lost when lightning set the church on fire in 1718.",
+      "tip": "Look for the Lady Chapel, which survived the fire with its marble intact. Afterwards sit on the square, a car-free pocket of calm a few steps from the Meir.",
+      "q": "Sint-Carolus Borromeuskerk Hendrik Conscienceplein Antwerpen",
+      "ll": [
+        51.2211,
+        4.4045
+      ],
+      "tags": [
+        "free",
+        "rainy day"
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/St._Charles_Borromeo_Church,_Antwerp"
+      ]
+    },
+    {
+      "id": "momu",
+      "cat": "gor",
+      "area": "merkez",
+      "title": "See why Antwerp is a fashion city at MoMu",
+      "desc": "The fashion museum on Nationalestraat tells the story of the Antwerp Six and the designers who came out of the city's Academy, drawing on a large collection of clothes and textiles. Exhibitions change, and the building sits in the heart of the Sint-Andries fashion quarter.",
+      "tip": "MoMu is closed on Mondays and free on the first Tuesday of the month. Afterwards browse the designer shops on Nationalestraat and Kammenstraat.",
+      "q": "MoMu Nationalestraat 28 Antwerpen",
+      "ll": [
+        51.2173,
+        4.3996
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://www.momu.be/en/visitor-information"
+      ]
+    },
+    {
+      "id": "diva",
+      "cat": "gor",
+      "area": "merkez",
+      "title": "Get dazzled at DIVA, the diamond and silver museum",
+      "desc": "DIVA on the Suikerrui shows how jewellery, silver and diamonds were made, collected and traded in Antwerp, the diamond capital of the world. The museum also has a working goldsmiths' studio and changing jewellery exhibitions.",
+      "tip": "It is a good rainy-day pairing with the Ruien tour, which starts a few doors away on the same street.",
+      "q": "DIVA Suikerrui 17 Antwerpen",
+      "ll": [
+        51.2211,
+        4.3983
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://divamuseum.be/"
+      ]
+    },
+    {
+      "id": "kulminator",
+      "cat": "ye",
+      "area": "merkez",
+      "title": "Ask for a vintage beer at Kulminator",
+      "desc": "This small café on Vleminckveld is one of the most famous beer bars in Belgium, with a list of hundreds of bottles, including aged vintages kept in its cellar. It is quiet and calm, with classical music rather than loud chatter.",
+      "tip": "Ask the owners for a beer that has been laid down for a few years and compare it with a fresh one. Opening hours are short and irregular, so check before you go.",
+      "q": "Kulminator Vleminckveld Antwerpen",
+      "ll": [
+        51.2145,
+        4.4033
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://theeuropeanbarguide.com/kulminator-antwerp/"
+      ]
+    },
+    {
+      "id": "quintenmatsijs",
+      "cat": "ye",
+      "area": "merkez",
+      "title": "Drink at Quinten Matsijs, Antwerp's oldest café",
+      "desc": "On a cobbled lane near the cathedral, this café has been pouring beer since 1565, only a year younger than the city hall. Oak beams, leaded windows and heavy wooden tables make it look like an old Flemish painting.",
+      "tip": "Order a bolleke with a plate of spicy sausage, and ask the regulars about 'De Ton', the traditional bar game.",
+      "q": "Quinten Matsijs Moriaanstraat 17 Antwerpen",
+      "ll": [
+        51.2214,
+        4.4036
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://www.brusselstimes.com/hidden-belgium/1401576/hidden-belgium-the-oldest-bar-in-antwerp",
+        "https://www.vrt.be/vrtnws/nl/2022/11/06/4500-tal-antwerpenaren-stemmen-op-hun-favoriete-bruine-kroeg-ter"
+      ]
+    },
+    {
+      "id": "chocolateline",
+      "cat": "ye",
+      "area": "merkez",
+      "title": "Buy daring pralines in a palace at The Chocolate Line",
+      "desc": "Dominique Persoone, the chocolatier known for wild flavour pairings, runs his Antwerp shop in two 18th-century rooms of the Paleis op de Meir, a royal palace once used by Napoleon's brother. The sales room still has its painted walls.",
+      "tip": "Pick a mix of classic pralines and one or two of the stranger flavours; the shop staff will tell you which ones are the house favourites.",
+      "q": "The Chocolate Line Meir 50 Antwerpen",
+      "ll": [
+        51.2178,
+        4.4087
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://www.brusselstimes.com/318836/hidden-belgium-the-most-beautiful-chocolate-shop-in-belgium"
+      ]
+    },
+    {
+      "id": "quitefrankly",
+      "cat": "ye",
+      "area": "merkez",
+      "title": "Tackle the pastrami reuben at Quite Frankly",
+      "desc": "A lunch-only deli on Minderbroedersrui that cures its own beef brisket pastrami and piles it into a reuben with provolone. Service is quick and the sandwiches are big enough to replace dinner.",
+      "tip": "Go before the office lunch rush around noon, and take your sandwich to the Sint-Pauluskerk quarter for a walk afterwards.",
+      "q": "Quite Frankly Minderbroedersrui 52 Antwerpen",
+      "ll": [
+        51.2219,
+        4.4047
+      ],
+      "src": [
+        "https://www.theinfatuation.com/antwerp/guides/best-restaurants-antwerp"
+      ]
+    },
+    {
+      "id": "vrijdagmarkt",
+      "cat": "dene",
+      "area": "merkez",
+      "title": "Bid on old treasures at the Vrijdagmarkt auction",
+      "desc": "Every Friday morning, the square in front of the Plantin-Moretus museum turns into an open-air auction of second-hand furniture and household goods, a tradition here since 1549. A statue of Saint Catherine, patron of the old second-hand dealers, watches from the pump in the middle.",
+      "tip": "Come early to look over the lots before the bidding starts; even if you buy nothing, watching the auctioneer work the crowd is the show.",
+      "q": "Vrijdagmarkt Antwerpen",
+      "ll": [
+        51.2183,
+        4.3986
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Vrijdagmarkt_(Antwerpen)"
+      ]
+    },
+    {
+      "id": "wolffoodmarket",
+      "cat": "ye",
+      "area": "eilandje",
+      "title": "Graze the kiosks of WOLF in the Felix Pakhuis",
+      "desc": "WOLF is a sharing food market on the ground floor of the Sint-Felixpakhuis, a huge 1860s warehouse on the Willemdok that also holds the city archive. Ten food kiosks and three bars share one big hall with long tables and a terrace.",
+      "tip": "Split up, order from different kiosks and meet back at one table. Before or after, climb the stairs to see the archive's reading room in the old warehouse.",
+      "q": "WOLF Sharing Food Market Godefriduskaai 30 Antwerpen",
+      "ll": [
+        51.2277,
+        4.4079
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://www.wolf.be/",
+        "https://tablejourney.com/neighborhood/antwerp/eilandje/",
+        "https://nl.wikipedia.org/wiki/Sint-Felixpakhuis"
+      ]
+    },
+    {
+      "id": "seefbier",
+      "cat": "ye",
+      "area": "eilandje",
+      "title": "Taste the revived Seef beer at its harbour brewery",
+      "desc": "Seef was Antwerp's everyday beer until it vanished in the 20th century; the Antwerpse Brouw Compagnie brought the cloudy buckwheat and oat recipe back in 2012, and it won gold at the World Beer Cup in 2023. The brewery's taproom on Indiëstraat has an industrial bar and a big courtyard.",
+      "tip": "Sit in the courtyard on a summer evening, when there is often live music; try the Super Cadix lager as well as the Seef.",
+      "q": "Seef Antwerpse Brouw Compagnie Indiëstraat 21 Antwerpen",
+      "ll": [
+        51.2346,
+        4.4108
+      ],
+      "src": [
+        "https://go-eat-do.com/2026/08/seef-beer-belgian-beer/",
+        "https://tablejourney.com/neighborhood/antwerp/eilandje/"
+      ]
+    },
+    {
+      "id": "pomphuis",
+      "cat": "ye",
+      "area": "eilandje",
+      "title": "Dine inside the old pumping station Het Pomphuis",
+      "desc": "Het Pomphuis is a brasserie set in the former pumping station of the dry docks at the far end of Eilandje, with a lofty industrial hall and a lookout tower beside it. The kitchen is French-Belgian with plenty of seafood.",
+      "tip": "Book a table by the window for the view over the docks, and walk out to the old dry docks next door before dinner.",
+      "q": "Het Pomphuis Siberiastraat Antwerpen",
+      "ll": [
+        51.2416,
+        4.4085
+      ],
+      "src": [
+        "https://www.enprimeurclub.com/restaurants/het-pomphuis-antwerp-restaurant",
+        "https://www.engelvoelkers.com/be/en/resources/regional/antwerp-is-a-foodie-destination-these-5-prestigious-restaurants-are-the-proof"
+      ]
+    },
+    {
+      "id": "bistrotdunord",
+      "cat": "ye",
+      "area": "eilandje",
+      "title": "Eat classic French cooking at Bistrot du Nord",
+      "desc": "A Michelin-starred bistro on Lange Dijkstraat, just east of Eilandje, where chef Michaël Rewers serves classic French bistro recipes without fuss.",
+      "tip": "Book well ahead, especially for weekend evenings, and leave room for the classic desserts.",
+      "q": "Bistrot du Nord Lange Dijkstraat 36 Antwerpen",
+      "ll": [
+        51.2276,
+        4.4187
+      ],
+      "src": [
+        "https://tablejourney.com/neighborhood/antwerp/eilandje/"
+      ]
+    },
+    {
+      "id": "bonapartedok",
+      "cat": "gor",
+      "area": "eilandje",
+      "title": "Stand on the quay of Napoleon's Bonapartedok",
+      "desc": "Antwerp's oldest dock was dug in 1811 on Napoleon's orders, when he saw the port as a loaded pistol aimed at England. Today the 7-hectare basin next to the MAS is a mooring for old sailing ships, lighters and laid-up boats.",
+      "tip": "Look for the granite obelisk from 1903 on the Oostendekaai, then cross the little Nassaubrug to the Willemdok, which was dug at the same time.",
+      "q": "Bonapartedok Antwerpen",
+      "ll": [
+        51.2287,
+        4.4032
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Bonapartedok"
+      ]
+    },
+    {
+      "id": "lillo",
+      "cat": "gor",
+      "area": "eilandje",
+      "title": "Visit Lillo, the fort village swallowed by the port",
+      "desc": "Fort Lillo was built in 1578 to defend Antwerp against the Spanish, and its little walled village is all that survives of Lillo after the surrounding polder was cleared for the port in the 1950s. About 40 people still live here, around a neo-Gothic church, a polder museum and a tidal harbour where boats sit on the mud at low water.",
+      "tip": "Come by DeWaterbus from Antwerp in summer, and walk the dyke to the Galgeschoor salt marsh to watch birds against a backdrop of container cranes.",
+      "q": "Lillo-Fort Antwerpen",
+      "ll": [
+        51.3045,
+        4.29
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Fort_Lillo",
+        "https://nl.wikipedia.org/wiki/Lillo_(Antwerpen)"
+      ]
+    },
+    {
+      "id": "flandriahaven",
+      "cat": "dene",
+      "area": "eilandje",
+      "title": "See the giant port from the deck of a Flandria cruise",
+      "desc": "Rederij Flandria's port cruises head out from Eilandje past docks, locks, container terminals and the ships of Europe's second-largest port. The standard trip lasts about two hours.",
+      "tip": "Boarding is at the Asiadok; check the sailing schedule online, as tours do not run every day outside the summer season.",
+      "q": "Flandria Asiadok Antwerpen",
+      "ll": [
+        51.2362,
+        4.4188
+      ],
+      "src": [
+        "https://flandria.nu/"
+      ]
+    },
+    {
+      "id": "waterpoort",
+      "cat": "gor",
+      "area": "zuid",
+      "title": "Walk through the wandering Waterpoort",
+      "desc": "This Baroque gate was built in 1624 as a triumphal arch for King Philip IV, with a design long attributed to Rubens. It first stood by the river on the Vlasmarkt, was moved twice and finally rebuilt in 1936 on the Gillisplaats, earning it the nickname 'de wandelende poort', the walking gate.",
+      "tip": "Combine it with FOMU right across the street, and look at the river god and the Spanish coat of arms carved on top.",
+      "q": "Waterpoort Gillisplaats Antwerpen",
+      "ll": [
+        51.208,
+        4.3888
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Waterpoort_(Antwerpen)"
+      ]
+    },
+    {
+      "id": "fomu",
+      "cat": "gor",
+      "area": "zuid",
+      "title": "Spend an afternoon at FOMU, the photo museum",
+      "desc": "Antwerp's photography museum fills a 1911 concrete warehouse on the Waalse Kaai and holds around three million images and objects, including about 8,000 cameras. Exhibitions range from historic photography to big contemporary shows.",
+      "tip": "Give yourself two hours, then cross the street to the Waterpoort and walk on through the new Zuidpark on the old filled-in docks.",
+      "q": "FOMU Waalse Kaai 47 Antwerpen",
+      "ll": [
+        51.209,
+        4.3876
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Fotomuseum_Antwerpen",
+        "https://nl.wikipedia.org/wiki/Zuiderdokken"
+      ]
+    },
+    {
+      "id": "huisguiette",
+      "cat": "gor",
+      "area": "zuid",
+      "title": "Find Le Corbusier's only house in Belgium",
+      "desc": "In 1926 Le Corbusier designed a white studio house in Wilrijk for the painter René Guiette, known as Les Peupliers. Since 2016 it has been part of the UNESCO World Heritage listing of the architect's work.",
+      "tip": "It is a private home, so look from the street only. Cycle on to the Middelheim sculpture park, a few minutes away.",
+      "q": "Maison Guiette Populierenlaan 32 Wilrijk",
+      "ll": [
+        51.1837,
+        4.3933
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/Maison_Guiette"
+      ]
+    },
+    {
+      "id": "ciros",
+      "cat": "ye",
+      "area": "zuid",
+      "title": "Order steak and fries at Ciro's",
+      "desc": "Ciro's on the Amerikalei has served Belgian brasserie classics since 1962 in a nostalgic interior that has barely changed. The steak with its house sauce is the reason people come, along with vol-au-vent and a dame blanche for dessert.",
+      "tip": "Book ahead and note it is closed on Mondays and Tuesdays; on Saturdays it only opens for dinner.",
+      "q": "Ciro's Amerikalei 6 Antwerpen",
+      "ll": [
+        51.2091,
+        4.4021
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://guide.michelin.com/en/antwerpen/be-antwerpen/restaurant/ciro-s"
+      ]
+    },
+    {
+      "id": "bakkeraldo",
+      "cat": "ye",
+      "area": "istasyon",
+      "title": "Queue for pastries at Bakker Aldo",
+      "desc": "Aldo Neri learned his trade at Domestic, the bakery of Dôme, and now bakes slow-fermented sourdough and pastries on Lange Leemstraat in Zurenborg. The spinach-feta pastries and the cream cheese and blackberry bun are the favourites.",
+      "tip": "This shop opens from Saturday to Tuesday; the second branch in the old centre opens Friday to Sunday.",
+      "q": "Bakker Aldo Lange Leemstraat 388 Antwerpen",
+      "ll": [
+        51.2031,
+        4.4279
+      ],
+      "src": [
+        "https://www.theinfatuation.com/antwerp/guides/best-restaurants-antwerp"
+      ]
+    },
+    {
+      "id": "lejohn",
+      "cat": "ye",
+      "area": "zuid",
+      "title": "Book a date night at Le John",
+      "desc": "A cosy neo-bistro on Kasteelpleinstraat with an Italian-leaning seasonal menu: think pumpkin tortellini, Angus steak with pepper sauce and crispy fries, and olive oil gelato to finish.",
+      "tip": "Reserve through the restaurant's website and ask for a table in the softly lit back room.",
+      "q": "Le John Kasteelpleinstraat 25 Antwerpen",
+      "ll": [
+        51.211,
+        4.4016
+      ],
+      "src": [
+        "https://www.theinfatuation.com/antwerp/guides/best-restaurants-antwerp"
+      ]
+    },
+    {
+      "id": "desingel",
+      "cat": "dene",
+      "area": "zuid",
+      "title": "Catch a concert or dance show at deSingel",
+      "desc": "deSingel on the Desguinlei is the city's big arts centre for music, dance, theatre and architecture, sharing its modernist building with the Royal Conservatoire and the Flemish Architecture Institute.",
+      "tip": "Look for the architecture exhibitions, which are often free, and check the programme for lunchtime concerts by conservatoire students.",
+      "q": "deSingel Desguinlei 25 Antwerpen",
+      "ll": [
+        51.1932,
+        4.403
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/DeSingel"
+      ]
+    },
+    {
+      "id": "hobokensepolder",
+      "cat": "dene",
+      "area": "zuid",
+      "title": "Walk the wild Hobokense Polder",
+      "desc": "Between Hoboken and the Schelde lies a 170-hectare nature reserve of reed beds, willow scrub and wet grassland, part of the Scheldt Valley National Park. Former industrial ground and dredging sites have been left to nature since the 1990s.",
+      "tip": "Follow the marked walking loops and bring boots after rain; the dyke along the river has big views of ships heading to and from the port.",
+      "q": "Hobokense Polder Hoboken",
+      "ll": [
+        51.1905,
+        4.346
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Hobokense_Polder"
+      ]
+    },
+    {
+      "id": "chinatown",
+      "cat": "gor",
+      "area": "istasyon",
+      "title": "Walk through the Pagoda Gate into Chinatown",
+      "desc": "Van Wesenbekestraat, a few steps from Centraal station, has been the heart of Antwerp's Chinese community since after the Second World War. A traditional paifang gate was built at its southern entrance in 2010, and two stone lions guard the ends of the street.",
+      "tip": "Browse Sun Wah, a vast Asian supermarket, and stay for a bowl of noodles; the street is now as much pan-Asian as Chinese.",
+      "q": "Chinatown Van Wesenbekestraat Antwerpen",
+      "ll": [
+        51.2199,
+        4.4208
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/Chinatown,_Antwerp"
+      ]
+    },
+    {
+      "id": "stampemuseum",
+      "cat": "gor",
+      "area": "istasyon",
+      "title": "Meet the vintage biplanes of the Stampe museum",
+      "desc": "At Antwerp's little airport in Deurne, volunteers keep a museum about Stampe & Vertongen, the local factory whose training biplanes taught generations of pilots to fly, along with other historic aircraft and memorabilia.",
+      "tip": "It opens only on weekend afternoons and closes in July, August, December and January.",
+      "q": "Museum Stampe & Vertongen Luchthavenlei Deurne",
+      "ll": [
+        51.1896,
+        4.452
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "months": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "src": [
+        "https://www.stampe.be/en-gb/contacten"
+      ]
+    },
+    {
+      "id": "farine",
+      "cat": "ye",
+      "area": "istasyon",
+      "title": "Grab warm msemmen at Bakkerij Farine",
+      "desc": "Since 1998 this Moroccan and Belgian bakery on the Turnhoutsebaan in Borgerhout has been the go-to for msemmen, the flaky layered flatbread, and honey-soaked baklava. It is takeaway only: order at the counter and eat on the street.",
+      "tip": "Expect a short queue on weekend mornings; get a msemmen with honey and keep walking down the Turnhoutsebaan, Antwerp's most multicultural shopping street.",
+      "q": "Bakkerij Farine Turnhoutsebaan 256 Borgerhout",
+      "ll": [
+        51.2138,
+        4.4391
+      ],
+      "src": [
+        "https://www.theinfatuation.com/antwerp/guides/best-restaurants-antwerp"
+      ]
+    },
+    {
+      "id": "nishifu",
+      "cat": "ye",
+      "area": "istasyon",
+      "title": "Brave the Sichuan heat at Ni Shifu",
+      "desc": "A Sichuan restaurant near Centraal station that is busy every night of the week, serving shrimp dumplings, crispy chilli chicken, fish ball noodle soup and beef fried rice.",
+      "tip": "Booking is essential, even on a Monday. Order a few dishes to share and ask for the spice level to be adjusted if you are unsure.",
+      "q": "Ni Shifu Breydelstraat 8 Antwerpen",
+      "ll": [
+        51.2189,
+        4.4193
+      ],
+      "src": [
+        "https://www.theinfatuation.com/antwerp/guides/best-restaurants-antwerp"
+      ]
+    },
+    {
+      "id": "saltandmint",
+      "cat": "ye",
+      "area": "istasyon",
+      "title": "Brunch around the world at Salt & Mint",
+      "desc": "On Draakstraat in Zurenborg, Salt & Mint serves breakfast and brunch platters inspired by Turkey, Persia and Morocco, with msemmen, honey, bastilla and fresh mint tea.",
+      "tip": "Book for groups; on Sundays the tables spill onto the back terrace. Walk to the Cogels-Osylei afterwards.",
+      "q": "Salt & Mint Draakstraat 21 Antwerpen",
+      "ll": [
+        51.2064,
+        4.4313
+      ],
+      "src": [
+        "https://www.theinfatuation.com/antwerp/guides/best-restaurants-antwerp"
+      ]
+    },
+    {
+      "id": "stadspark",
+      "cat": "dene",
+      "area": "istasyon",
+      "title": "Loop the lake in the Stadspark",
+      "desc": "The 14-hectare triangular Stadspark was laid out on the site of an old fortification, and its pond is crossed by a bridge designed by Édouard Keilig in the late 1860s. Joggers, families and picnickers fill it on sunny days.",
+      "tip": "Start at the Van Eycklei side and cross the bridge over the pond; the playgrounds make it a good stop with children.",
+      "q": "Stadspark Antwerpen",
+      "ll": [
+        51.2122,
+        4.4147
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Stadspark_(Antwerpen)"
+      ]
+    },
+    {
+      "id": "elisabethzaal",
+      "cat": "dene",
+      "area": "istasyon",
+      "title": "Hear the orchestra at the Koningin Elisabethzaal",
+      "desc": "Right next to Centraal station and the zoo, the Koningin Elisabethzaal is Antwerp's main concert hall, rebuilt with excellent acoustics and home to the Antwerp Symphony Orchestra.",
+      "tip": "Look for lunchtime or matinee concerts for an affordable first visit, and arrive by train: the hall is a two-minute walk from the platforms.",
+      "q": "Koningin Elisabethzaal Koningin Astridplein Antwerpen",
+      "ll": [
+        51.2181,
+        4.4223
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Koningin_Elisabethzaal"
+      ]
+    },
+    {
+      "id": "afasdome",
+      "cat": "dene",
+      "area": "istasyon",
+      "title": "Join 20,000 fans at the old Sportpaleis",
+      "desc": "Opened in 1933 for track cycling, the Sportpaleis, now called AFAS Dome, is one of the biggest indoor arenas in Europe with room for over 23,000 people. It hosts world-famous pop acts, sports finals and big Flemish shows.",
+      "tip": "Take the premetro to Sport station, which stops right at the arena, and arrive early as security queues can be long.",
+      "q": "AFAS Dome Schijnpoortweg 119 Antwerpen",
+      "ll": [
+        51.2311,
+        4.4413
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/Sportpaleis"
+      ]
+    },
+    {
+      "id": "hofvanbusleyden",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Step into Burgundian Mechelen at Hof van Busleyden",
+      "desc": "Hieronymus van Busleyden, a humanist friend of Erasmus, had this Renaissance city palace built from 1503 to 1507 by Rombout II Keldermans. It is now the museum about Mechelen's golden age as capital of the Burgundian Netherlands.",
+      "tip": "Leave time for the inner garden and courtyard, and combine it with the Sint-Romboutstoren a few minutes' walk away.",
+      "q": "Hof van Busleyden Mechelen",
+      "ll": [
+        51.0311,
+        4.4825
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/Hof_van_Busleyden",
+        "https://www.visitmechelen.be/en/highlights"
+      ]
+    },
+    {
+      "id": "breendonk",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Face the past at Fort Breendonk",
+      "desc": "Built as a Belgian army fort from 1906 to 1913, Breendonk became an SS prison camp from 1940 to 1944 for resistance fighters, political prisoners and Jews. The dormitories, forced labour sites, torture room and execution ground are preserved as a national memorial.",
+      "tip": "The visit is intense, so give it at least two hours. It is near Willebroek, a short drive or bus ride from Mechelen.",
+      "q": "Fort Breendonk Brandstraat 57 Willebroek",
+      "ll": [
+        51.0565,
+        4.3413
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/Fort_Breendonk",
+        "https://www.breendonk.be/en"
+      ]
+    },
+    {
+      "id": "sintgummarus",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "See the royal windows of Sint-Gummarus in Lier",
+      "desc": "Lier's great Brabantine Gothic church took from 1378 to 1540 to build. In the choir are five royal stained-glass windows from 1519, given by Emperor Maximilian, among the best-preserved Renaissance glass in the Low Countries; one shows Joanna of Castile, who married Philip the Fair in Lier.",
+      "tip": "Stand under the 16th-century rood screen and look back at the light coming through the choir windows on a sunny morning. Locals call the tower the 'Peperbus', the pepper pot.",
+      "q": "Sint-Gummaruskerk Kardinaal Mercierplein Lier",
+      "ll": [
+        51.13,
+        4.5746
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Sint-Gummaruskerk_(Lier)"
+      ]
+    },
+    {
+      "id": "hoogstratenkerk",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Look up at the 105-metre tower of Hoogstraten",
+      "desc": "The Sint-Katharinakerk was built from 1525 to 1550 by Rombout II Keldermans in red Kempen brick, its tower rising to about 105 metres. German troops blew the tower up in 1944; it was rebuilt to the original plan, and the stained glass from 1531, hidden in a crypt during the war, went back in place.",
+      "tip": "Inside, study the carved late Gothic choir stalls; then stroll the long tree-lined Vrijheid, the main street, to the town's small Begijnhof.",
+      "q": "Sint-Catharinakerk Vrijheid Hoogstraten",
+      "ll": [
+        51.4009,
+        4.7619
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Sint-Catharinakerk_(Hoogstraten)"
+      ]
+    },
+    {
+      "id": "liefkenshoek",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Explore Fort Liefkenshoek between the port docks",
+      "desc": "Begun in 1579 across the Schelde from Fort Lillo, this fort once controlled shipping to Antwerp and collected tolls. Later a quarantine hospital and a navy depot, it was restored in 2023 with a new footbridge and a visitor centre, and now stands isolated among the port's container terminals.",
+      "tip": "Arrive in summer by DeWaterbus, which links the fort with Lillo and Antwerp, and walk the ramparts for the contrast of old fort and giant ships.",
+      "q": "Fort Liefkenshoek Kallo",
+      "ll": [
+        51.2944,
+        4.2856
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Fort_Liefkenshoek"
+      ]
+    },
+    {
+      "id": "rupelmonde",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Visit Mercator's birthplace at Rupelmonde",
+      "desc": "The little Schelde village of Rupelmonde, where the cartographer Gerardus Mercator was born in 1512, has a working tide mill, restored in 1997, and the Graventoren, a 19th-century tower built from the stones of the vanished counts' castle. A statue of Mercator stands in the centre.",
+      "tip": "Walk along the river dyke at high and low tide to see how much the Schelde rises and falls; Sint-Niklaas and its Mercator museum are a short ride away.",
+      "q": "Graventoren Rupelmonde",
+      "ll": [
+        51.1262,
+        4.2928
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Rupelmonde"
+      ]
+    },
+    {
+      "id": "kasteeldursel",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Wander the gardens of Kasteel d'Ursel in Hingene",
+      "desc": "For more than 350 years this castle in Bornem was the summer home of the dukes of Ursel, remodelled in the 1760s into its neoclassical form. Its English landscape garden with an arboretum leads down to De Notelaer, a hunting pavilion on the Schelde.",
+      "tip": "The park is open to the public; check the castle's calendar for guided tours of the interiors and concerts in the halls.",
+      "q": "Kasteel d'Ursel Wolfgang d'Urselstraat 9 Hingene",
+      "ll": [
+        51.1048,
+        4.2715
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Kasteel_d%27Ursel",
+        "https://www.kasteeldursel.be/"
+      ]
+    },
+    {
+      "id": "speelgoedmuseum",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Play your way through the Speelgoedmuseum in Mechelen",
+      "desc": "Mechelen's toy museum covers 3,400 square metres of old and new toys, from dolls and tin trains to board games, and many of them can be played with. Since 2024 it has been in a new home on Koning Albertplein, opposite the station.",
+      "tip": "It is a perfect rainy-day stop with children, and a handy start or finish to a day in Mechelen by train.",
+      "q": "Speelgoedmuseum Koning Albertplein Mechelen",
+      "ll": [
+        51.0162,
+        4.4829
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Speelgoedmuseum_Mechelen",
+        "https://www.visitmechelen.be/en/highlights"
+      ]
+    },
+    {
+      "id": "planckendael",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Go from continent to continent at Planckendael",
+      "desc": "The 46-hectare animal park in Muizen, run by the same society as Antwerp Zoo, opened to the public in 1960. Asian elephants, Indian rhinos, bonobos, koalas and a walk-through Africa lodge with giraffes are spread across green grounds around a castle.",
+      "tip": "Plan a full day and bring a picnic; arrive at opening time to see the animals at their most active.",
+      "q": "ZOO Planckendael Muizen Mechelen",
+      "ll": [
+        51.0014,
+        4.5164
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/ZOO_Planckendael"
+      ]
+    },
+    {
+      "id": "baarlehertog",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Hop between countries in Baarle-Hertog",
+      "desc": "Baarle-Hertog is made of 22 Belgian exclaves scattered inside the Netherlands, with Dutch enclaves inside some of them, so the border zigzags through streets, shops and even houses. Crosses on the pavement mark the line.",
+      "tip": "Follow the white crosses with B and NL on the ground; at Loveren one front door carries two house numbers, one Belgian and one Dutch.",
+      "q": "Baarle-Hertog",
+      "ll": [
+        51.4384,
+        4.9317
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/Baarle-Hertog"
+      ]
+    },
+    {
+      "id": "zilvermeer",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Swim off the white sand at the Zilvermeer",
+      "desc": "The Zilvermeer in Mol is a 157-hectare provincial recreation domain on the edge of the old silver sand quarries. Its swimming pond has a white-sand beach and is cleaned by a natural purification system.",
+      "tip": "Go on a weekday in summer to avoid the crowds; there is also a separate lake for watersports and diving.",
+      "q": "Provinciaal Recreatiedomein Zilvermeer Mol",
+      "ll": [
+        51.2194,
+        5.1643
+      ],
+      "months": [
+        6,
+        7,
+        8
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Zilvermeer_(Mol)"
+      ]
+    },
+    {
+      "id": "deschorre",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Climb the clay pit hills of De Schorre in Boom",
+      "desc": "Boom's brick industry dug out these clay pits, now a 75-hectare provincial park with steep slopes, ponds, a skate park and mountain bike trails. In summer it is the stage for the Tomorrowland festival, and some of the festival's art stays behind.",
+      "tip": "Visit outside June to mid-August, when parts of the park close for the festival; look for the old excavators left on the slopes.",
+      "q": "Provinciaal Domein De Schorre Boom",
+      "ll": [
+        51.0898,
+        4.3843
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/De_Schorre"
+      ]
+    },
+    {
+      "id": "bobbejaanland",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Ride the rollercoasters at Bobbejaanland",
+      "desc": "The Flemish singer Bobbejaan Schoepen drained a marsh in Lichtaart and opened a park there at the end of 1961. Today it is one of Belgium's big amusement parks, with eight rollercoasters, water rides and shows.",
+      "tip": "Buy tickets online for a lower price and check the calendar, as the park closes in the winter months.",
+      "q": "Bobbejaanland Olensteenweg Lichtaart",
+      "ll": [
+        51.201,
+        4.9035
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/Bobbejaanland"
+      ]
+    },
+    {
+      "id": "arboretumkalmthout",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "See witch hazels bloom in winter at Arboretum Kalmthout",
+      "desc": "Started as a nursery in 1856, the 13.5-hectare Arboretum Kalmthout holds what is described as the largest witch hazel collection in Europe, plus hundreds of rhododendrons and trees with brilliant autumn colour.",
+      "tip": "Come in January or February for the spidery yellow and red witch hazel flowers, or in October for the autumn leaves, and combine it with a walk on the Kalmthoutse Heide.",
+      "q": "Arboretum Kalmthout",
+      "ll": [
+        51.3931,
+        4.464
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Arboretum_Kalmthout"
+      ]
+    },
+    {
+      "id": "duvel",
+      "cat": "ye",
+      "area": "cevre",
+      "title": "Drink a Duvel at the brewery in Breendonk",
+      "desc": "Duvel Moortgat has brewed in Breendonk since 1871. Its golden strong ale was first sold as Victory Ale after the First World War, until a drinker called it 'a real devil', 'nen echten duvel' in dialect, and the name stuck.",
+      "tip": "Book a brewery tour online, or simply drop into Café Depot Duvel, the brewery tap, which opens on Fridays and Saturdays.",
+      "q": "Duvel Moortgat Breendonk Puurs-Sint-Amands",
+      "ll": [
+        51.042,
+        4.3287
+      ],
+      "src": [
+        "https://duvel.com/en/visit-duvel",
+        "https://en.wikipedia.org/wiki/Duvel_Moortgat_Brewery"
+      ]
+    },
+    {
+      "id": "stillengenieter",
+      "cat": "ye",
+      "area": "cevre",
+      "title": "Sip a rare Trappist at Den Stillen Genieter in Mechelen",
+      "desc": "The 'quiet enjoyer' is a beer café in the centre of Mechelen with more than 300 beers, from local Mechelen brews to rare Trappists, served to a soundtrack of classical music.",
+      "tip": "It is mainly an evening café; ask for a Mechelen beer you have never heard of, and come early on weekends to get a seat.",
+      "q": "Den Stillen Genieter Nauwstraat 9 Mechelen",
+      "ll": [
+        51.0263,
+        4.4772
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://theeuropeanbarguide.com/den-stillen-genieter-mechelen-%f0%9f%87%a7%f0%9f%87%aa/"
+      ]
+    },
+    {
+      "id": "vismarktmechelen",
+      "cat": "ye",
+      "area": "cevre",
+      "title": "Join the terraces on Mechelen's Vismarkt",
+      "desc": "The old fish market on the Dijle is now Mechelen's liveliest square for eating and drinking, lined with cafés, wine bars and restaurants whose terraces fill up on warm evenings.",
+      "tip": "Walk out along the Dijle afterwards to the Haverwerf and its painted facades, especially pretty at sunset.",
+      "q": "Vismarkt Mechelen",
+      "ll": [
+        51.0265,
+        4.4767
+      ],
+      "src": [
+        "https://www.visitmechelen.be/en/highlights"
+      ]
+    }
+  ]
+}

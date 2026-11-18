@@ -1,0 +1,267 @@
+{
+  "new": [
+    {
+      "id": "stsymphorien", "cat": "gor", "area": "mons",
+      "title": "Pay your respects at Saint-Symphorien military cemetery",
+      "desc": "German and Commonwealth soldiers lie side by side in this wooded former quarry, because landowner Jean Houzeau de Lehaie gave the land on condition that both sides be honoured equally. Among the 513 graves are John Parr, traditionally the first British soldier killed in 1914, and George Lawrence Price, the last Commonwealth soldier killed in the war. It is part of the UNESCO listing of Western Front memorial sites.",
+      "tip": "Parr and Price face each other across the lawn; look for them near the entrance path. Bring a bike or take the bus from Mons, as it is about 5 km east of the centre.",
+      "q": "St Symphorien Military Cemetery", "ll": [50.4322, 4.0106],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/St_Symphorien_Military_Cemetery"]
+    },
+    {
+      "id": "museedudoudou", "cat": "gor", "area": "mons",
+      "title": "Relive the Lumeçon at the Musée du Doudou",
+      "desc": "Tucked into the Jardin du Mayeur behind the town hall, this museum in the former Mont de Piété is devoted to the Ducasse, the Trinity Sunday festival that UNESCO recognised in 2005, from the procession of the Car d'Or to the Lumeçon, the fight between Saint George and the dragon on the Grand-Place.",
+      "tip": "Come out of season if you missed the real thing, then say hello to the Ropieur fountain, the cheeky boy statue in the same garden.",
+      "q": "Musée du Doudou Mons", "ll": [50.4558, 3.9513],
+      "tags": ["rainy day"],
+      "src": ["https://www.visitmons.be/en/sites-and-museums/doudou-museum-897246", "https://en.wikivoyage.org/wiki/Mons"]
+    },
+    {
+      "id": "artothequemons", "cat": "gor", "area": "mons",
+      "title": "Go backstage at the Artothèque, Mons' museum storehouse",
+      "desc": "The former Ursulines chapel now holds the city's reserve collections, around 50,000 works, in a contemporary conversion. Guided tours show how paintings and objects are stored, restored and studied, and touchscreens on the storage units let you browse what is hidden away.",
+      "tip": "Visits are guided, about an hour long, and must be booked ahead through VisitMons; groups are capped at 20.",
+      "q": "Artothèque Rue Claude de Bettignies Mons", "ll": [50.4543, 3.9453],
+      "tags": ["rainy day"],
+      "src": ["https://visitwallonia.com/en-gb/119/blog/wallonia-art-everywhere/mons-artotheque-mons-discover-what-happens-in-museums-backstage/13701", "https://www.visitmons.be/en/sports-and-leisure/guided-tour-artotheque-397148"]
+    },
+    {
+      "id": "excelsiormons", "cat": "ye", "area": "mons",
+      "title": "Lunch under Art Deco glass at L'Excelsior",
+      "desc": "This brasserie on the Grand-Place has been serving for over a century, with green banquettes, flower-shaped lamps and pastel Art Deco stained glass. The kitchen sticks to Mons classics such as pork chop in a creamy mushroom and bacon sauce with homemade fries, plus a daily special and house steak tartare.",
+      "tip": "It opens daily from mid-morning, so it also works for a coffee and a Belgian beer while the square fills up.",
+      "q": "L'Excelsior 29 Grand-Place Mons", "ll": [50.4542, 3.9518],
+      "src": ["https://www.visitmons.be/en/restaurants/lexcelsior-686844"]
+    },
+    {
+      "id": "cervoisemons", "cat": "ye", "area": "mons",
+      "title": "Pick from 170 beers on the terrace of La Cervoise",
+      "desc": "La Cervoise faces the fountain on the Grand-Place with a sunny terrace and a list of more than 170 beers, including local and craft brews from around Hainaut. The food leans towards meat, grilled at the table on a hot stone.",
+      "tip": "Ask for something brewed in Hainaut rather than the big national names.",
+      "q": "La Cervoise Grand-Place Mons", "ll": [50.4545, 3.9518],
+      "src": ["https://www.visitmons.be/en/restaurants/la-cervoise-048603"]
+    },
+    {
+      "id": "coeurenneige", "cat": "dene", "area": "mons",
+      "title": "Skate and sip mulled wine at Mons Cœur en Neige",
+      "desc": "Every December Mons turns into a winter village spread over three squares: chalets on the Grand-Place, an ice rink ringed by a small market on Place Léopold, and lights over the Marché aux Herbes. A little train links the three sites.",
+      "tip": "Place Léopold is right opposite the station, so start with a skate there and walk uphill to the Grand-Place as the lights come on.",
+      "q": "Place Léopold Mons", "ll": [50.4537, 3.9433],
+      "months": [12, 1],
+      "src": ["https://www.visitmons.be/en/agenda/mons-coeur-en-neige-place-leopold-ice-rink-and-christmas-market-738364", "https://visitmons.co.uk/agenda/christmas-magic-in-mons-and-in-the-region/mons-coeur-en-neige-christmas-market"]
+    },
+    {
+      "id": "sparkoh", "cat": "dene", "area": "mons",
+      "title": "Play with science on an old pithead at SparkOH!",
+      "desc": "SparkOH! in Frameries is a hands-on science park built on the Crachet colliery, which closed in 1960. It opened in 2000 as the PASS and took its new name in 2021, and now welcomes more than 100,000 visitors a year.",
+      "tip": "Leave time for the trail up the Terril du Crachet slag heap, which starts right behind the park and gives a wide view over the Borinage.",
+      "q": "SparkOH! Frameries", "ll": [50.4186, 3.9013],
+      "tags": ["rainy day"],
+      "src": ["https://www.lalibre.be/regions/hainaut/2021/09/25/frameries-le-pass-devient-le-sparkoh-GDJRYJB3XRFFRF7T35MBAF5EOI/", "https://www.visitmons.be/en/sites-and-museums/terril-du-crachet-629632"]
+    },
+    {
+      "id": "grandlarge", "cat": "dene", "area": "mons",
+      "title": "Walk the shores of the Grand Large marina",
+      "desc": "Just north of the centre in Nimy, the Grand Large is a lake of about 40 hectares joining the Canal du Centre and the Nimy-Blaton-Péronnes canal. Its marina holds over 150 boats and the Royal Club Nautique Mons-Borinage sails from here.",
+      "tip": "Swimming is not allowed, but the loop around the water is an easy, flat walk or ride; end with a drink at the club house terrace.",
+      "q": "Grand Large Mons", "ll": [50.4714, 3.9361],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Grand_Large", "https://visitmons.co.uk/see-do/top-sights/10-top-reasons-to-fall-in-love-with-mons/mons-with-the-family/get-some-air/visit-the-grand-large-lake-of-the-marina"]
+    },
+    {
+      "id": "mbacharleroi", "cat": "gor", "area": "charleroi",
+      "title": "See Charleroi's painters in the old Defeld stables",
+      "desc": "The Musée des Beaux-Arts reopened in 2022 inside the 1887 Defeld stables on Boulevard Mayence, next to the signal tower designed by Jean Nouvel. The collection tells the story of art in the Pays Noir, from François-Joseph Navez to Pierre Paulus and Magritte, with new room given to women artists.",
+      "tip": "The permanent rooms are upstairs and temporary shows on the ground floor; it is closed on Mondays.",
+      "q": "Musée des Beaux-Arts Boulevard Mayence Charleroi", "ll": [50.4137, 4.4428],
+      "tags": ["rainy day"],
+      "src": ["https://charleroi-museum.be/en/museum-of-fine-arts/", "https://en.wikivoyage.org/wiki/Charleroi"]
+    },
+    {
+      "id": "passagebourse", "cat": "gor", "area": "charleroi",
+      "title": "Follow the curve of the Passage de la Bourse",
+      "desc": "Built around 1890 on the site of a Capuchin convent, this neoclassical shopping arcade once led to the city's commodity exchange. It is one of the very few covered galleries in Belgium that bends, and it has been a protected site since 1990.",
+      "tip": "Enter from the lower town side and look up at the glass-block vault, which replaced the lost original glass roof.",
+      "q": "Passage de la Bourse Charleroi", "ll": [50.4073, 4.4405],
+      "tags": ["free", "rainy day"],
+      "src": ["https://belgiqueinsolite.com/en/guide/passage-de-la-bourse/", "https://www.dhnet.be/regions/charleroi/2023/10/01/bar-a-chats-a-livres-a-baskets-a-plantes-ou-a-vin-ou-boire-un-verre-a-charleroi-dans-une-atmosphere-insolite-et-unique-2C46N67JOJHGBFGHE4LVYT42CI/"]
+    },
+    {
+      "id": "trazegnies", "cat": "gor", "area": "charleroi",
+      "title": "Explore the Romanesque cellars of Château de Trazegnies",
+      "desc": "West of Charleroi, this castle keeps rare 11th-century Romanesque cellars and a 13th-century gatehouse beneath a Louis XIII facade added after a fire in 1554. Left in ruins by the 1920s, it was saved by a volunteer association, and a plane tree nearly 300 years old shades the inner courtyard.",
+      "tip": "Opening days are limited and the castle is passing to the commune of Courcelles, so check visiting times before you set off.",
+      "q": "Château de Trazegnies Courcelles", "ll": [50.4614, 4.3306],
+      "src": ["https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Trazegnies"]
+    },
+    {
+      "id": "chezduche", "cat": "ye", "area": "charleroi",
+      "title": "Eat like a Carolo at Chez Duche",
+      "desc": "A neighbourhood restaurant in the Ville Basse since 1993, Chez Duche serves generous traditional plates: horse rib steak with homemade fries, a big cassoulet with confit duck and a seasonal vegetable waterzooi. The Michelin Guide lists it as a place to eat like a local.",
+      "tip": "Hours are mostly daytime: it is open from breakfast to late afternoon in midweek, with dinner only on Friday and Saturday.",
+      "q": "Chez Duche Avenue de Waterloo 5 Charleroi", "ll": [50.4144, 4.4476],
+      "src": ["https://guide.michelin.com/ca/fr/hainaut/charleroi/restaurant/chez-duche"]
+    },
+    {
+      "id": "carolocat", "cat": "ye", "area": "charleroi",
+      "title": "Have cake with the cats at the Carolo Cat",
+      "desc": "Charleroi's cat bar serves homemade pastries and lunches while resident cats wander between the tables. The cats come through a partnership with the local SPA, and visitors can adopt them.",
+      "tip": "It opens Tuesday to Saturday from 11am; the first-Sunday brunch must be booked ahead.",
+      "q": "Le Carolo Cat Rue de Marcinelle 46 Charleroi", "ll": [50.4065, 4.4445],
+      "tags": ["rainy day"],
+      "src": ["https://www.cm-tourisme.be/en/a/carolo-cat"]
+    },
+    {
+      "id": "madeleinejumet", "cat": "dene", "area": "charleroi",
+      "title": "March with the soldiers of the Madeleine in Jumet",
+      "desc": "On the Sunday closest to 22 July, hundreds of marchers in Napoleonic uniforms escort the statue of Mary Magdalene on a long procession from the chapel of Heigne, a tradition more than six centuries old. It is one of the Marches of Entre-Sambre-et-Meuse on UNESCO's intangible heritage list.",
+      "tip": "Be at the Heigne chapel early for the morning departure, then catch the loud volleys of musket fire as the procession returns around lunchtime.",
+      "q": "Chapelle Notre-Dame d'Heigne Jumet", "ll": [50.4460, 4.4062],
+      "tags": ["free"], "months": [7],
+      "src": ["https://cm-tourisme.be/en/a/marche-de-la-madeleine", "https://visitwallonia.com/en-gb/content/madeleine-folkloric-march-jumet"]
+    },
+    {
+      "id": "quai10", "cat": "dene", "area": "charleroi",
+      "title": "Catch a film or a video game session at Quai10",
+      "desc": "On the Sambre quays, Quai10 combines an arthouse cinema, a video game space and a brasserie under one roof. Films are often shown in their original version with French subtitles, and nights like Ciné manette mix cinema and gaming.",
+      "tip": "Check the programme for VO.ST.FR screenings if your French is shaky, and eat at the brasserie before the film.",
+      "q": "Quai 10 Quai Arthur Rimbaud Charleroi", "ll": [50.4063, 4.4410],
+      "tags": ["rainy day"],
+      "src": ["https://www.quai10.be/"]
+    },
+    {
+      "id": "rockerill", "cat": "dene", "area": "charleroi",
+      "title": "Hear punk or techno in the old forges at the Rockerill",
+      "desc": "The Rockerill has filled the halls of the former La Providence forges in Marchienne-au-Pont with gigs for about twenty years. Punk and garage bands play the small concert hall while the huge forge hall hosts techno nights, exhibitions and an annual festival.",
+      "tip": "Check the line-up online; the industrial setting alone is worth a night out even if you do not know the bands.",
+      "q": "Le Rockerill Rue de la Providence Marchienne-au-Pont", "ll": [50.4132, 4.4050],
+      "src": ["https://visitwallonia.com/en-gb/content/rockerill-industrial-site-turned-alternative-cultural-space", "https://www.dhnet.be/regions/charleroi/2025/08/05/la-culture-a-charleroi-de-a-a-z-aujourdhui-r-comme-rockerill-SDDXPSMIIFG35IC4XWFGPF36QA/"]
+    },
+    {
+      "id": "tournaibelfry", "cat": "dene", "area": "cevre",
+      "title": "Climb 257 steps up Belgium's oldest belfry in Tournai",
+      "desc": "Begun around 1188, the 72-metre belfry on Tournai's Grand-Place is the oldest in Belgium and part of the UNESCO listing of belfries. It served as a prison until 1827, and its carillon dates back to 1535.",
+      "tip": "The second balcony, after 142 steps, already gives a 360 degree view over the cathedral's five towers. There is no lift, and it is closed on Mondays.",
+      "q": "Beffroi de Tournai", "ll": [50.6056, 3.3881],
+      "src": ["https://en.wikipedia.org/wiki/Belfry_of_Tournai", "https://www.elle.be/fr/476786-que-faire-a-tournai-nos-idees-pour-decouvrir-la-ville.html"]
+    },
+    {
+      "id": "pontdestrous", "cat": "gor", "area": "cevre",
+      "title": "Watch barges slip through Tournai's Pont des Trous",
+      "desc": "This Gothic water gate of 1281 to 1304 guarded the Scheldt where it entered the medieval city, with towers on both banks. Its arches were dismantled and raised between 2019 and 2023 so larger barges could pass, after years of fierce debate between the city and heritage defenders.",
+      "tip": "Walk the riverside quays from the town centre at sunset, when the stone arches glow and the towers reflect in the water.",
+      "q": "Pont des Trous Tournai", "ll": [50.6131, 3.3839],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Pont_des_Trous"]
+    },
+    {
+      "id": "mariemont", "cat": "gor", "area": "cevre",
+      "title": "Find Egypt and Tournai porcelain at the Musée royal de Mariemont",
+      "desc": "Industrialist Raoul Warocqué left his collection to the Belgian state in 1917, and it now fills a modernist museum in the middle of his estate at Morlanwelz. Expect Egyptian, Greek and Roman antiquities, art from the Far East and a large collection of Tournai porcelain, all surrounded by a landscaped park full of old trees.",
+      "tip": "The park is free and open all year, but dogs are not allowed as it is a bird reserve. Pack a picnic and walk the arboretum before or after the museum.",
+      "q": "Musée royal de Mariemont Morlanwelz", "ll": [50.4678, 4.2328],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Royal_Museum_of_Mariemont", "https://www.info-lux.com/domaine-de-mariemont-morlanwelz/"]
+    },
+    {
+      "id": "boisduluc", "cat": "gor", "area": "cevre",
+      "title": "Walk the miners' squares of Bois-du-Luc",
+      "desc": "Between 1838 and 1853 the Bois-du-Luc coal company built 162 workers' houses in four neat blocks around its pits, with its own church, hospital, schools and shops. Mining stopped in 1973, and the site is now a museum and one of Wallonia's four UNESCO mining sites.",
+      "tip": "Wander the streets of the Carrés freely, then visit the pithead buildings with the museum. Bus 37 runs from La Louvière-Sud station.",
+      "q": "Musée de la Mine et du Développement Durable Bois-du-Luc", "ll": [50.4703, 4.1500],
+      "src": ["https://fr.wikipedia.org/wiki/Bois-du-Luc", "https://www.boisdulucmmdd.be/"]
+    },
+    {
+      "id": "chimaycastle", "cat": "gor", "area": "cevre",
+      "title": "Peek into the princes' theatre at Château de Chimay",
+      "desc": "Still the home of the princes of Chimay, the castle was rebuilt after a fire in 1935 and hides a jewel of a rococo theatre for about 200 people. Cherubini composed his Messe de Chimay here in 1808 and the singer Maria Malibran performed in 1829.",
+      "tip": "Visits run seasonally with fewer days in winter, so check the times before driving down. The old town and its collegiate church are a short stroll away.",
+      "q": "Château de Chimay", "ll": [50.0481, 4.3119],
+      "src": ["https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Chimay", "https://cm-tourisme.be/en/a/chimay-princes-castle"]
+    },
+    {
+      "id": "ronquieres", "cat": "dene", "area": "cevre",
+      "title": "Watch boats ride a giant bathtub at the Ronquières inclined plane",
+      "desc": "Opened in 1968 on the Brussels-Charleroi canal, the inclined plane lifts boats 68 metres over 1.4 km in two huge water-filled tanks on rails, each 91 metres long. A tall tower at the top end looks over the whole structure.",
+      "tip": "Seen from the canal towpath it is free; for the full experience book one of the cruises that ride the tank itself.",
+      "q": "Plan incliné de Ronquières", "ll": [50.5978, 4.2217],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Ronqui%C3%A8res_inclined_plane", "https://www.erih.net/i-want-to-go-there/site/ronquieres-inclined-plane"]
+    },
+    {
+      "id": "philippevillesouterrains", "cat": "dene", "area": "cevre",
+      "title": "Go underground in the tunnels of Philippeville",
+      "desc": "Philippeville was laid out in 1555 as a star-shaped fortress town, and beneath it run the old countermine galleries dug to defend its walls. Guided tours now cover around 1.2 km of passages, starting with a film on the history of the town.",
+      "tip": "Tours leave from the Place d'Armes mainly in July and August and must be booked in advance with the tourist office. Bring a warm layer.",
+      "q": "Place d'Armes Philippeville", "ll": [50.1962, 4.5435],
+      "tags": ["rainy day"],
+      "src": ["https://www.cm-tourisme.be/en/a/underground-passages-of-philippeville", "https://showcaves.com/english/be/subterranea/Philippeville.html"]
+    },
+    {
+      "id": "aubechies", "cat": "dene", "area": "cevre",
+      "title": "Time travel through reconstructed houses at the Aubechies Archéosite",
+      "desc": "Near Beloeil, this open-air site rebuilds full-size dwellings from the Neolithic, Bronze and Iron Ages, plus a Gallo-Roman temple, villa and portico. A small museum on ancient beliefs shows a bronze Mars found nearby at Blicquy.",
+      "tip": "Come for the Celtival at the end of June or the experimental archaeology weekend in late August, when re-enactors cook, forge and weave on site.",
+      "q": "Archéosite d'Aubechies", "ll": [50.5753, 3.6761],
+      "src": ["https://fr.wikipedia.org/wiki/Arch%C3%A9osite_d%27Aubechies"]
+    },
+    {
+      "id": "virelles", "cat": "dene", "area": "cevre",
+      "title": "Step into the reedbeds at the Lac de Virelles nature reserve",
+      "desc": "Just outside Chimay, the lake of Virelles is a nature reserve of about 130 hectares managed with the support of Natagora and WWF. From the Aquascope visitor centre, paths lead past reedbeds, alder swamp and open water, and guided walks with the warden explain each habitat.",
+      "tip": "Walk across the Moses wall, a sunken path that lets you step into the lake with dry feet.",
+      "q": "Aquascope Virelles", "ll": [50.0693, 4.3456],
+      "src": ["https://aquascope.be/en", "https://www.visorando.com/randonnee-grand-tour-de-l-etang-de-virelles/"]
+    },
+    {
+      "id": "binchoise", "cat": "ye", "area": "cevre",
+      "title": "Drink a Bière des Ours in Binche's old malt house",
+      "desc": "La Binchoise brewery restaurant sits in a converted malt house at the foot of Binche's medieval ramparts, with a bar upstairs in the old malting kiln. The kitchen cooks seasonal dishes with the house beers, among them the award-winning Bière des Ours.",
+      "tip": "On a fine day ask for the shaded patio on the Parc de l'Académie side, then walk the ramparts afterwards. Closed Monday and Tuesday.",
+      "q": "La Binchoise Faubourg Saint-Paul Binche", "ll": [50.4081, 4.1664],
+      "src": ["https://www.brasserielabinchoise.be/en/restaurant", "https://en.wikipedia.org/wiki/La_Binchoise"]
+    },
+    {
+      "id": "dubuissonpipaix", "cat": "ye", "area": "cevre",
+      "title": "Taste a 12% Bush in the farm brewery at Pipaix",
+      "desc": "The Dubuisson family has been brewing in Pipaix since 1769, and it presents itself as the oldest family brewery in Wallonia. Its Bush Ambrée, first brewed in 1933, is one of Belgium's strongest beers, and the site has its Trolls and Bush tavern and a Beerstorium museum.",
+      "tip": "Guided tours run on Saturday afternoons and must be booked online; the tavern is the easier drop-in option.",
+      "q": "Brasserie Dubuisson Pipaix", "ll": [50.5760, 3.5559],
+      "src": ["https://discover.dubuisson.com/en/brewery-visit/", "https://en.wikipedia.org/wiki/Dubuisson_Brewery"]
+    },
+    {
+      "id": "blaugies", "cat": "ye", "area": "cevre",
+      "title": "Buy a spelt Saison at the Blaugies family brewery",
+      "desc": "On the French border near Dour, the Carlier family has brewed unfiltered, bottle-conditioned farmhouse beers since 1988. Their Saison d'Épeautre, brewed with spelt, is a cult beer among saison lovers far beyond Belgium.",
+      "tip": "The shop has short afternoon hours, so check before you go, and cross the road to the family's restaurant, Le Fourquet, for dishes cooked with the beer.",
+      "q": "Brasserie de Blaugies Dour", "ll": [50.3583, 3.8437],
+      "src": ["https://brasseriedeblaugies.com/en", "https://www.cirkwi.com/fr/point-interet/1513794-brasserie-de-blaugies"]
+    },
+    {
+      "id": "goliathirchonwelz", "cat": "ye", "area": "cevre",
+      "title": "Sip a Goliath brewed in a castle near Ath",
+      "desc": "The Brasserie des Légendes brews in the medieval Castel d'Irchonwelz, restored by the Delcoigne family from 1997. Its Gouyasse and Goliath beers are named after the giants who dance at the Ducasse d'Ath.",
+      "tip": "The shop and tastings are on weekdays; book a guided visit with tasting if you want to see the brew house inside the castle.",
+      "q": "Château d'Irchonwelz Ath", "ll": [50.6206, 3.7580],
+      "src": ["https://www.brasseriedeslegendes.be/en/", "https://walloniabelgiumtourism.co.uk/content/brasserie-des-legendes"]
+    },
+    {
+      "id": "fagnes", "cat": "ye", "area": "cevre",
+      "title": "Drink a Super des Fagnes beside the brewing tanks at Mariembourg",
+      "desc": "Brasserie des Fagnes brews in a building that held a brewery as early as 1858 and was revived in 1998. The big tavern sits right beside the shining tanks, with a free self-guided brewery and small beer museum, and serves regional dishes alongside the blonde, brown and cherry Fagnes beers.",
+      "tip": "Combine it with a ride on the Trois Vallées steam train, which leaves from nearby Mariembourg station.",
+      "q": "Brasserie des Fagnes Couvin", "ll": [50.0837, 4.5233],
+      "src": ["https://visitwallonia.com/en-gb/content/brasserie-des-fagnes-mariembourg", "https://www.cm-tourisme.be/en/a/brasserie-des-fagnes-3"]
+    },
+    {
+      "id": "escaveche", "cat": "ye", "area": "cevre",
+      "title": "Taste escavèche, the Spanish fish pickle of Chimay country",
+      "desc": "Escavèche is fish, once eel and now often trout or pike, preserved in a jellied vinegar sauce with onions, a recipe traced back to the Spanish garrisons of the 16th century. Escavèche de Chimay has had EU protected status since 2021, and the Escavir family business in Olloy-sur-Viroin makes it to a family recipe, with a sales counter and tastings.",
+      "tip": "Call ahead before driving to Olloy. It is eaten cold, usually with fries and a local beer.",
+      "q": "Escavir Rue Jean Chot Olloy-sur-Viroin", "ll": [50.0732, 4.6036],
+      "src": ["https://visitwallonia.com/en-gb/3/i-love/food-and-drink/walloon-producers/homemade-escaveche-at-la-madeleine-escavir/11061", "https://focusonbelgium.be/en/lifestyle/escaveche-de-chimay-protected-culinary-dish"]
+    }
+  ]
+}

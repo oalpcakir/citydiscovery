@@ -22,7 +22,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 nl_path, nuts_path, nuts_fine_path = sys.argv[1:4]
 preview = sys.argv[4] if len(sys.argv) > 4 else None
-FINE = ("DK", "SE224")  # units (by NUTS id prefix) taken from the 1:1 million file: Denmark, Skåne
+FINE = ("DK", "SE224", "DEF0C")  # units (by NUTS id prefix) taken from the 1:1 million file: Denmark, Skåne, Schleswig-Flensburg (the Schlei)
 hubs = {k: v for k, v in json.load(io.open(os.path.join(HERE, "hubs.json"), encoding="utf-8")).items() if not k.startswith("_")}
 cache_path = os.path.join(HERE, "traveltimes.json")
 cache = json.load(io.open(cache_path, encoding="utf-8")) if os.path.exists(cache_path) else {}

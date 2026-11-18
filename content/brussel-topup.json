@@ -1,0 +1,407 @@
+{
+  "new": [
+    {
+      "id": "gudule", "cat": "gor", "area": "merkez",
+      "title": "Look up into the white nave of Saint-Michel-et-Gudule",
+      "desc": "Brussels' Gothic cathedral took roughly three centuries to build, from the early 13th century to the start of the 16th, and its twin towers still dominate the hillside between the upper and lower town. It is dedicated to the city's two patron saints and is where Belgian royal weddings and state funerals are held.",
+      "tip": "Entry to the nave is free; the small crypt and treasury cost a few euros. Come in the late afternoon when the sun lights the great west window.",
+      "q": "Cathédrale Saints-Michel-et-Gudule, Bruxelles", "ll": [50.8478, 4.3601],
+      "tags": ["free", "rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Cathedral_of_St._Michael_and_St._Gudula"]
+    },
+    {
+      "id": "galeriessthubert", "cat": "gor", "area": "merkez",
+      "title": "Stroll under the glass roof of the Galeries Saint-Hubert",
+      "desc": "Opened by King Leopold I in 1847, Jean-Pierre Cluysenaar's arcade is one of the oldest covered shopping galleries in Europe: about 213 metres of King's, Queen's and Princes' galleries under an arched glass roof on a fine iron frame. Victor Hugo and Baudelaire met at the café that is now the Taverne du Passage.",
+      "tip": "Look for the 1939 Cinéma Galeries and the Théâtre des Galeries along the way. Early on a Sunday morning you have the whole passage to yourself.",
+      "q": "Galeries Royales Saint-Hubert, Bruxelles", "ll": [50.8473, 4.3546],
+      "tags": ["free", "rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Galeries_Royales_Saint-Hubert", "https://en.wikivoyage.org/wiki/Brussels/Centre"]
+    },
+    {
+      "id": "magrittemuseum", "cat": "gor", "area": "merkez",
+      "title": "Get lost in bowler hats at the Magritte Museum",
+      "desc": "Part of the Royal Museums of Fine Arts on Place Royale, the Magritte Museum holds the world's largest collection of René Magritte's work, from early posters and ads to his famous surrealist canvases. Floors climb chronologically through his life, with letters, photos and films alongside the paintings.",
+      "tip": "Book a timed ticket online for weekends. Start at the top floor and work down, and leave time for the Fin-de-Siècle Museum in the same building.",
+      "q": "Musée Magritte Museum, Place Royale, Bruxelles", "ll": [50.8424, 4.3588],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Magritte_Museum", "https://en.wikivoyage.org/wiki/Brussels/Pentagon"]
+    },
+    {
+      "id": "comicstripcentre", "cat": "gor", "area": "merkez",
+      "title": "Meet Tintin and the Smurfs at the Comic Strip Center",
+      "desc": "Belgium's comics museum fills the Waucquez textile warehouse that Victor Horta designed in 1906, a bright Art Nouveau hall of glass and iron. Since 1989 it has told the story of the ninth art, from Hergé and Peyo to today's graphic novels, with original boards and a big reading library.",
+      "tip": "Take a coffee in the Horta brasserie off the entrance hall, then follow the comic strip murals around the centre.",
+      "q": "Centre Belge de la Bande Dessinée, Rue des Sables 20, Bruxelles", "ll": [50.8512, 4.3601],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Belgian_Comic_Strip_Center"]
+    },
+    {
+      "id": "palaisroyal", "cat": "dene", "area": "merkez",
+      "title": "Walk through the Royal Palace during its summer opening",
+      "desc": "The King does not live here, but he works here, and the State Rooms open to the public for free each summer, usually from just after the 21 July national day until early September. The highlight is the Hall of Mirrors, whose ceiling Jan Fabre covered with more than a million shimmering jewel beetle wing cases.",
+      "tip": "Expect a short security queue at the gate on Place des Palais. Walk across the Parc de Bruxelles afterwards to the Parliament at the other end.",
+      "q": "Palais Royal de Bruxelles, Place des Palais", "ll": [50.8419, 4.3624],
+      "tags": ["free"], "months": [7, 8, 9],
+      "src": ["https://en.wikipedia.org/wiki/Royal_Palace_of_Brussels"]
+    },
+    {
+      "id": "imaige", "cat": "ye", "area": "merkez",
+      "title": "Find the hidden alley bar À l'Imaige de Nostre-Dame",
+      "desc": "At the end of a narrow lane off the Rue du Marché aux Herbes hides one of Brussels' oldest bars, in a house from 1664 that survived the French bombardment of the city and has served drinks since 1884. Two small rooms of worn benches, battered tables and odd paintings feel unchanged for a century.",
+      "tip": "Watch for the small sign over the alley entrance a few steps from the Grand-Place. Each Belgian beer arrives in its own matching glass.",
+      "q": "A l'Imaige de Nostre-Dame, Impasse des Cadeaux, Bruxelles", "ll": [50.8479, 4.3523],
+      "tags": ["rainy day"],
+      "src": ["https://www.brusselstimes.com/2207291/hidden-belgium-a-limaige-nostre-dame", "https://www.visit.brussels/en/visitors/what-to-do/time-travel-in-brussels-bars"]
+    },
+    {
+      "id": "cirio", "cat": "ye", "area": "merkez",
+      "title": "Order a half en half at Le Cirio",
+      "desc": "Opened in 1886 by Italian grocer Francesco Cirio beside the Bourse, this café keeps its Belle Époque wood, brass and mirrors, and both building and facade are protected heritage. The house drink is the half en half, a mix of sparkling and white wine.",
+      "tip": "Older regulars hold court in the daytime and a younger crowd drifts in from early evening. Do not skip a look at the original tiled toilets.",
+      "q": "Le Cirio, Rue de la Bourse 18, Bruxelles", "ll": [50.8483, 4.3507],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Le_Cirio", "https://en.wikivoyage.org/wiki/Brussels/Centre"]
+    },
+    {
+      "id": "archiduc", "cat": "ye", "area": "merkez",
+      "title": "Catch a weekend jazz set at L'Archiduc",
+      "desc": "This Art Deco bar on Rue Antoine Dansaert dates from 1937, with a curved counter, a statue of a woman at a fountain and a round revolving entrance with wrought iron doors. It has been a jazz haunt since the 1950s and stays open late into the night.",
+      "tip": "Jazz sets run on Saturday and Sunday from 5 pm to 7 pm, and the bar opens daily from 4 pm.",
+      "q": "L'Archiduc, Rue Antoine Dansaert 6, Bruxelles", "ll": [50.8494, 4.3477],
+      "tags": ["rainy day"],
+      "src": ["https://archiduc.com/", "https://www.visit.brussels/en/visitors/what-to-do/time-travel-in-brussels-bars"]
+    },
+    {
+      "id": "becasse", "cat": "ye", "area": "merkez",
+      "title": "Drink lambic from a jug at À la Bécasse",
+      "desc": "Down a corridor off Rue de Tabora, this old tavern of long wooden tables specialises in the beers of the Brussels region: lambic, kriek and its own sweetened white lambic. It is one of the few places in the centre where lambic is still the main act.",
+      "tip": "The entrance at number 11 is easy to miss, so look carefully. Order a jug to share with friends.",
+      "q": "A la Bécasse, Rue de Tabora 11, Bruxelles", "ll": [50.8482, 4.3514],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikivoyage.org/wiki/Brussels/Centre", "https://www.visit.brussels/en/visitors/what-to-do/time-travel-in-brussels-bars"]
+    },
+    {
+      "id": "poechenellekelder", "cat": "ye", "area": "merkez",
+      "title": "Have a beer among the puppets at the Poechenellekelder",
+      "desc": "Right across the street from Manneken Pis, this brown café is crammed with marionettes, folk figures and curios hanging from the ceiling; its name means puppet cellar in Brussels dialect. Locals swear by it as an escape from the souvenir shops outside.",
+      "tip": "Grab a window table to watch the crowds around the statue. The beer list is long and well chosen, with Brussels lambics among the Trappists.",
+      "q": "Poechenellekelder, Rue du Chêne 5, Bruxelles", "ll": [50.8447, 4.3500],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikivoyage.org/wiki/Brussels/Centre"]
+    },
+    {
+      "id": "chapelle", "cat": "gor", "area": "marolles",
+      "title": "Find Bruegel's grave in the Notre-Dame de la Chapelle",
+      "desc": "This church on the edge of the Marolles mixes a Romanesque choir with a Gothic nave and a Baroque bell tower. Pieter Bruegel the Elder married here in 1563 and lies buried inside, remembered with a memorial set up by his son.",
+      "tip": "The church is usually open in the daytime and free. Walk on down Rue Haute and Rue Blaes into the Marolles afterwards.",
+      "q": "Église Notre-Dame de la Chapelle, Bruxelles", "ll": [50.8415, 4.3511],
+      "tags": ["free", "rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Church_of_Our_Lady_of_the_Chapel"]
+    },
+    {
+      "id": "portedehal", "cat": "gor", "area": "marolles",
+      "title": "Climb the last gate of the old city wall at the Porte de Hal",
+      "desc": "This 14th-century fortified gate is the only survivor of Brussels' second city wall, saved because it served as a prison and later turned into a romantic neo-Gothic castle. Today it is a museum of armour and city history, with a spiral staircase and a rooftop walkway.",
+      "tip": "Go straight up to the battlements for a view over Saint-Gilles and the Marolles. The surrounding park is a nice picnic stop.",
+      "q": "Porte de Hal, Boulevard du Midi, Bruxelles", "ll": [50.8330, 4.3449],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Halle_Gate"]
+    },
+    {
+      "id": "forestabbey", "cat": "gor", "area": "marolles",
+      "title": "Wander the courtyards of the old Forest Abbey",
+      "desc": "Benedictine nuns ran this abbey in Forest from 1105 for nearly 700 years, until a fire in 1764 and abolition in 1796. Its elegant 18th-century outbuildings around a big courtyard now belong to the municipality and house a cultural centre, with a garden behind.",
+      "tip": "Next door stands the church of Saint-Denis; then walk ten minutes up to Duden Park. Check the cultural centre's programme for exhibitions and summer events.",
+      "q": "Abbaye de Forest, Place Saint-Denis, Forest", "ll": [50.8105, 4.3166],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Forest_Abbey", "https://en.wikivoyage.org/wiki/Brussels/South"]
+    },
+    {
+      "id": "duden", "cat": "dene", "area": "marolles",
+      "title": "Hike up and down the slopes of Duden Park",
+      "desc": "Duden Park in Forest is a 24-hectare wooded hillside with a 45-metre drop, more like a forest than a city park. Union Saint-Gilloise's stadium sits at its lowest corner, and Forest Park joins it to the north.",
+      "tip": "Climb to the top for a breather among the beeches; the lower paths get busy on Union match days.",
+      "q": "Parc Duden, Forest", "ll": [50.8169, 4.3311],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Duden_Park"]
+    },
+    {
+      "id": "anderlechtmatch", "cat": "dene", "area": "marolles",
+      "title": "Sing along with RSC Anderlecht at Lotto Park",
+      "desc": "Belgium's most decorated football club plays at the Constant Vanden Stock stadium, known as Lotto Park, on the edge of Astrid Park in Anderlecht. The ground has held about 21,500 since it was modernised, and once hosted a Euro 1972 semi-final.",
+      "tip": "Metro line 5 to Saint-Guidon leaves you a few minutes' walk away. Buy tickets through the club's site well ahead for the derby against Club Brugge or Standard.",
+      "q": "Lotto Park, Avenue Théo Verbeeck 2, Anderlecht", "ll": [50.8342, 4.2983],
+      "src": ["https://en.wikipedia.org/wiki/Constant_Vanden_Stock_Stadium"]
+    },
+    {
+      "id": "midimarket", "cat": "ye", "area": "marolles",
+      "title": "Shop and snack at the Sunday Midi market",
+      "desc": "Every Sunday morning the streets beside the Gare du Midi fill with one of the biggest open-air markets in Europe, with mountains of fruit, olives, spices, fish and Mediterranean and North African food. Stallholders call out bargains in a dozen languages.",
+      "tip": "Go early for the best produce or around closing time at about 1 pm for the cheapest boxes. Grab a msemen or a mint tea from the stalls on the way round.",
+      "q": "Marché du Midi, Esplanade de l'Europe, Saint-Gilles", "ll": [50.8385, 4.3399],
+      "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Brussels/Molenbeek_and_surroundings"]
+    },
+    {
+      "id": "cinquantenaire", "cat": "dene", "area": "avrupa",
+      "title": "Climb the triumphal arch of the Cinquantenaire",
+      "desc": "Leopold II's great park was laid out for the 1880 celebration of Belgium's 50th anniversary, and its triumphal arcade was finished in 1905. The Royal Museum of the Armed Forces in the north wing lets you up onto the arch's terrace for a sweeping view down Rue de la Loi.",
+      "tip": "The terrace is reached through the military museum, so check its hours and buy a ticket there. Autoworld and the Art & History Museum fill the other wings for rainy days.",
+      "q": "Arcade du Cinquantenaire, Parc du Cinquantenaire, Bruxelles", "ll": [50.8403, 4.3926],
+      "src": ["https://en.wikipedia.org/wiki/Cinquantenaire", "https://en.wikipedia.org/wiki/Royal_Museum_of_the_Armed_Forces_and_Military_History", "https://en.wikivoyage.org/wiki/Brussels/European_Quarter"]
+    },
+    {
+      "id": "houseeuhistory", "cat": "gor", "area": "avrupa",
+      "title": "Walk through a century of Europe at the House of European History",
+      "desc": "Set up by the European Parliament and opened in 2017, this museum fills the former Eastman Dental Hospital in Parc Léopold. Six floors trace how Europe got here, from the 19th century through two world wars, the Iron Curtain and the EU.",
+      "tip": "Entry is free and a tablet guide works in all EU languages. Afterwards, walk through Parc Léopold with its pond and old science institute buildings.",
+      "q": "House of European History, Rue Belliard 135, Bruxelles", "ll": [50.8400, 4.3786],
+      "tags": ["free", "rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/House_of_European_History", "https://en.wikivoyage.org/wiki/Brussels/European_Quarter"]
+    },
+    {
+      "id": "iguanodons", "cat": "gor", "area": "avrupa",
+      "title": "Stand among the Iguanodons at the Natural Sciences museum",
+      "desc": "The Dinosaur Hall here is the world's largest museum hall devoted entirely to dinosaurs. Its stars are around 30 Iguanodon skeletons dug out of a coal mine in Bernissart in 1878, and the museum also keeps the Ishango bone, an ancient counting tool from Congo.",
+      "tip": "Kids love the hands-on galleries; come on a weekday morning to avoid school groups. The museum is on Rue Vautier, a short walk from the European Parliament.",
+      "q": "Muséum des Sciences naturelles, Rue Vautier 29, Bruxelles", "ll": [50.8370, 4.3772],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Royal_Belgian_Institute_of_Natural_Sciences", "https://en.wikivoyage.org/wiki/Brussels/European_Quarter"]
+    },
+    {
+      "id": "botanique", "cat": "gor", "area": "avrupa",
+      "title": "Sit in the terraced gardens below Le Botanique",
+      "desc": "The big neoclassical orangery of the old National Botanic Garden became a cultural centre and concert venue in 1984, after the garden itself moved to Meise. The terraced gardens in front, with ponds and statues, are now a public park on the edge of Saint-Josse.",
+      "tip": "Check the programme for gigs in the Orangerie and the Rotonde, especially during the Nuits Botanique festival in spring.",
+      "q": "Le Botanique, Rue Royale 236, Saint-Josse-ten-Noode", "ll": [50.8547, 4.3653],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Le_Botanique"]
+    },
+    {
+      "id": "woluwepark", "cat": "dene", "area": "avrupa",
+      "title": "Circle the cascading lakes of Woluwe Park",
+      "desc": "Leopold II wanted a grand park along his new Avenue de Tervueren, and Élie Lainé finished it in 1899. Its roughly 65 hectares of lawns and trees surround three artificial lakes that step down a slope of more than 30 metres, fed by the Bemel stream.",
+      "tip": "Tram 44 to Tervuren runs right past it; on sunny weekends locals bring picnics and the lakeside paths fill with joggers and kids feeding ducks.",
+      "q": "Parc de Woluwe, Woluwe-Saint-Pierre", "ll": [50.8287, 4.4295],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Parc_de_Woluwe", "https://en.wikivoyage.org/wiki/Brussels/Woluwe"]
+    },
+    {
+      "id": "massart", "cat": "dene", "area": "avrupa",
+      "title": "Explore the teaching garden of Jardin Massart",
+      "desc": "Founded in 1922 by botanist Jean Massart on old farmland beside the Rouge-Cloître priory, this five-hectare ULB garden grows nearly 2,000 species. There is an arboretum, a wetland, an old orchard of apple varieties and one of the country's richest medicinal plant collections.",
+      "tip": "Check opening hours on the university's site before you go. It makes a perfect pair with the Rouge-Cloître ponds and the Sonian Forest next door.",
+      "q": "Jardin botanique Jean Massart, Chaussée de Wavre 1850, Auderghem", "ll": [50.8139, 4.4381],
+      "src": ["https://fr.wikipedia.org/wiki/Jardin_botanique_Jean_Massart", "https://en.wikivoyage.org/wiki/Brussels/Sonian_Forest"]
+    },
+    {
+      "id": "zinneke", "cat": "ye", "area": "avrupa",
+      "title": "Choose from 69 kinds of mussels at Le Zinneke",
+      "desc": "Perched on the heights of Schaerbeek since 1956, Le Zinneke on Place de la Patrie is a mussel specialist with dozens of preparations on the menu, all made with mussels delivered daily from Zeeland. It is a neighbourhood favourite far from the tourist streets.",
+      "tip": "It is closed on Mondays and Tuesdays and the dining room fills up, so reserve for weekend evenings.",
+      "q": "Le Zinneke, Place de la Patrie 26, Schaerbeek", "ll": [50.8568, 4.3914],
+      "src": ["https://www.lezinneke.be", "https://en.wikivoyage.org/wiki/Brussels/Schaarbeek"]
+    },
+    {
+      "id": "cambreabbey", "cat": "gor", "area": "ixelles",
+      "title": "Wander the terraced gardens of La Cambre Abbey",
+      "desc": "Ixelles grew up around this Cistercian abbey founded in 1201 in the Maelbeek valley. The 18th-century buildings around formal French gardens now house the National Geographic Institute and the famous La Cambre art school, while the church is still a parish run by Norbertine canons.",
+      "tip": "Enter from Avenue Louise and walk down the terraces; continue to the Ixelles ponds or into the Bois de la Cambre.",
+      "q": "Abbaye de la Cambre, Ixelles", "ll": [50.8189, 4.3742],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/La_Cambre_Abbey"]
+    },
+    {
+      "id": "villaempain", "cat": "gor", "area": "ixelles",
+      "title": "Admire the Art Deco luxury of Villa Empain",
+      "desc": "Michel Polak built this villa between 1930 and 1934 for Baron Louis Empain, with polished granite facades, marble, bronze and a long swimming pool in the garden. It is one of the finest Art Deco houses in Brussels and now hosts art exhibitions run by the Boghossian Foundation.",
+      "tip": "Visits are tied to the current exhibition, so check what is on. Avenue Franklin Roosevelt around it is lined with more grand interwar villas.",
+      "q": "Villa Empain, Avenue Franklin Roosevelt 67, Bruxelles", "ll": [50.8075, 4.3842],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Villa_Empain", "https://en.wikivoyage.org/wiki/Brussels/Woluwe"]
+    },
+    {
+      "id": "belga", "cat": "ye", "area": "ixelles",
+      "title": "Take a terrace seat at Café Belga on Place Flagey",
+      "desc": "Café Belga fills the ground floor of the Flagey building, the 1930s Art Deco broadcasting house nicknamed the packet boat for its ship-like shape. It is the living room of Ixelles, packed with laptops by day and with a lively crowd spilling onto the square at night.",
+      "tip": "The terrace catches the evening sun, so come for an apéro. Check the Flagey programme for a concert or film afterwards.",
+      "q": "Café Belga, Place Eugène Flagey 18, Ixelles", "ll": [50.8270, 4.3726],
+      "src": ["https://tablejourney.com/belgium/brussels/cafes/cafe-belga/", "https://en.wikivoyage.org/wiki/Brussels/Woluwe"]
+    },
+    {
+      "id": "matonge", "cat": "ye", "area": "ixelles",
+      "title": "Eat your way through Matonge",
+      "desc": "Named after a lively district of Kinshasa, Matonge around Porte de Namur has been the heart of Brussels' Congolese community since the 1960s. Its galleries and the pedestrian Rue Longue Vie are lined with African snack bars, hair salons, wax fabric shops and grocers selling plantain and cassava.",
+      "tip": "Try moambe chicken or grilled fish with pondu at a Rue Longue Vie snack bar. Look for Chéri Samba's big mural at the Porte de Namur end.",
+      "q": "Rue Longue Vie, Ixelles", "ll": [50.8364, 4.3632],
+      "src": ["https://en.wikivoyage.org/wiki/Brussels/Matonge", "https://en.wikipedia.org/wiki/Matong%C3%A9_(Ixelles)"]
+    },
+    {
+      "id": "unionstgilles", "cat": "ye", "area": "ixelles",
+      "title": "Join the regulars at the Brasserie de l'Union",
+      "desc": "On the Parvis de Saint-Gilles, this old-fashioned brasserie keeps its wooden chairs, tables and big wooden bar, and the crowd mirrors the whole mixed neighbourhood. Prices stay low and nobody is in a hurry.",
+      "tip": "Sunday afternoons are the time to come. The terrace looks straight onto the church and square.",
+      "q": "Brasserie de l'Union, Parvis de Saint-Gilles 55, Saint-Gilles", "ll": [50.8307, 4.3461],
+      "src": ["https://en.wikivoyage.org/wiki/Brussels/Molenbeek_and_surroundings"]
+    },
+    {
+      "id": "friteriebarriere", "cat": "ye", "area": "ixelles",
+      "title": "Read the walls while you wait at the Friterie de la Barrière",
+      "desc": "This fritkot near the Barrière de Saint-Gilles fries golden, crispy chips the classic Belgian way, twice. Its outside walls are plastered with press clippings and old articles, turning the queue into a small museum of frites culture.",
+      "tip": "Order a medium cone with andalouse or samouraï sauce and eat it on a bench at the Barrière roundabout.",
+      "q": "Friterie de la Barrière, Rue du Parc, Saint-Gilles", "ll": [50.8266, 4.3429],
+      "src": ["https://en.wikivoyage.org/wiki/Brussels/Molenbeek_and_surroundings"]
+    },
+    {
+      "id": "wolvendael", "cat": "dene", "area": "ixelles",
+      "title": "Roll down the hillsides of Wolvendael Park in Uccle",
+      "desc": "This 14.5-hectare park grew out of the grounds of an 18th-century neoclassical country house, and its steep lawns and old trees make it Uccle's favourite green space. It sits close to the Van Buuren gardens and the Dieweg cemetery.",
+      "tip": "Enter from Avenue De Fré and bring a picnic for the big sloping lawns.",
+      "q": "Parc de Wolvendael, Uccle", "ll": [50.7989, 4.3450],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Wolvendael_Park"]
+    },
+    {
+      "id": "forestersmonument", "cat": "dene", "area": "ixelles",
+      "title": "Walk to the menhirs of the Foresters' Monument",
+      "desc": "Deep in the Sonian Forest stands a circle of 11 standing stones, one for each forester who died in the First World War. The rough stones were cut in a quarry at Wéris in the Belgian Ardennes and carry the names and villages of the fallen.",
+      "tip": "It is a quiet walk among towering beeches; combine it with the Boitsfort ponds and the neolithic site nearby on a half-day loop.",
+      "q": "Monument aux Forestiers, Forêt de Soignes", "ll": [50.7704, 4.4042],
+      "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Brussels/Sonian_Forest"]
+    },
+    {
+      "id": "garemaritime", "cat": "ye", "area": "laeken",
+      "title": "Graze the food hall in the Gare Maritime",
+      "desc": "Built from 1902 and opened in 1907 as a freight station on the canal, the Gare Maritime at Tour & Taxis is a 40,000 m² hall of steel and glass. Since reopening in 2020 it has become a covered neighbourhood of wooden pavilions, indoor gardens and a food market of local stalls.",
+      "tip": "Come on a rainy weekend for lunch and a wander; the new Tour & Taxis park starts right outside.",
+      "q": "Gare Maritime, Tour & Taxis, Bruxelles", "ll": [50.8660, 4.3462],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Tour_%26_Taxis", "https://www.tour-taxis.com/en/gare-maritime"]
+    },
+    {
+      "id": "tourtaxispark", "cat": "dene", "area": "laeken",
+      "title": "Walk the old railway yard turned Tour & Taxis park",
+      "desc": "Where freight trains once shunted, the rails were pulled up from 2013 to make a nine-hectare park, hailed as the largest new park in Brussels since Leopold II. Long lawns, wetlands and paths link the canal side to the north of the city.",
+      "tip": "Start at the Gare Maritime and walk up the park to the human rights obelisk; it is lovely at sunset.",
+      "q": "Parc de Tour & Taxis, Bruxelles", "ll": [50.8693, 4.3441],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Tour_%26_Taxis"]
+    },
+    {
+      "id": "designmuseum", "cat": "gor", "area": "laeken",
+      "title": "See the plastic dreams of the Design Museum Brussels",
+      "desc": "Next to the Atomium, this museum opened in 2015 as ADAM and took its current name in 2020. Its core is Philippe Decelle's collection of more than 1,100 plastic design pieces by names like Verner Panton, Eero Aarnio and Joe Colombo.",
+      "tip": "Pair it with the Atomium on a combined ticket. Half the space is for temporary shows, so check what is on.",
+      "q": "Design Museum Brussels, Place de Belgique 1, Laeken", "ll": [50.8976, 4.3416],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Design_Museum_Brussels", "https://en.wikivoyage.org/wiki/Brussels/Heysel"]
+    },
+    {
+      "id": "planetarium", "cat": "gor", "area": "laeken",
+      "title": "Lie back under the dome of the Brussels Planetarium",
+      "desc": "Run by the Royal Observatory of Belgium, the planetarium at Heysel goes back to the Alberteum built for the 1935 World's Fair; the present building opened in 1976. Since 2021 laser projectors show more than 100,000 celestial objects across the dome.",
+      "tip": "Shows rotate between languages, so check the schedule for one in English. It is a short walk from the Atomium.",
+      "q": "Planetarium, Avenue de Bouchout 10, Bruxelles", "ll": [50.8933, 4.3374],
+      "tags": ["rainy day"],
+      "src": ["https://fr.wikipedia.org/wiki/Plan%C3%A9tarium_de_Bruxelles", "https://en.wikivoyage.org/wiki/Brussels/Heysel"]
+    },
+    {
+      "id": "laerbeek", "cat": "dene", "area": "laeken",
+      "title": "Walk the beech wood of Laerbeek and stop at its chalet",
+      "desc": "The Bois du Laerbeek in Jette is a 34-hectare beech wood replanted by monks of the nearby Dieleghem abbey, now a nature reserve with springs, wild garlic and wood anemones in spring. At its edge stands a Norman-style chalet from 1908 that has been a café-restaurant since 1991.",
+      "tip": "Come in April when the wild garlic carpets the slopes, then warm up with a drink on the chalet terrace.",
+      "q": "Chalet du Laerbeek, Avenue du Laerbeek 145, Jette", "ll": [50.8847, 4.3011],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Bois_du_Laerbeek"]
+    },
+    {
+      "id": "hallebasilica", "cat": "gor", "area": "cevre",
+      "title": "Visit the Black Madonna in Halle's basilica",
+      "desc": "Halle's Gothic basilica of Saint Martin, built between 1341 and 1467 in white sandstone, has drawn pilgrims for centuries to its Black Madonna from around 1250. Look for the brass baptismal font of 1446 and the cannonballs under the tower from a failed siege of 1489.",
+      "tip": "The train from Brussels-Midi takes about 15 minutes. In spring, combine it with the bluebells of the Hallerbos.",
+      "q": "Sint-Martinusbasiliek, Grote Markt, Halle", "ll": [50.7368, 4.2374],
+      "tags": ["free", "rainy day"],
+      "src": ["https://nl.wikipedia.org/wiki/Sint-Martinusbasiliek_(Halle)"]
+    },
+    {
+      "id": "africamuseum", "cat": "gor", "area": "cevre",
+      "title": "Face colonial history at the AfricaMuseum in Tervuren",
+      "desc": "Built for Leopold II's colonial propaganda, the palace-like Royal Museum for Central Africa reopened in 2018 after a long renovation that reworked its message. Its collections of art, natural history and archives from Central Africa now sit alongside a critical look at Belgium's colonial past.",
+      "tip": "Tram 44 from Montgomery takes you through the Sonian Forest edge right to the door. Leave time for the park outside.",
+      "q": "AfricaMuseum, Leuvensesteenweg 13, Tervuren", "ll": [50.8306, 4.5179],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Royal_Museum_for_Central_Africa", "https://en.wikivoyage.org/wiki/Tervuren"]
+    },
+    {
+      "id": "tervurenpark", "cat": "dene", "area": "cevre",
+      "title": "Stroll the long canals of Tervuren Park",
+      "desc": "Behind the AfricaMuseum spreads a former ducal hunting estate of French gardens, long ornamental canals, ponds and woods. The Palace of the Colonies from the 1897 World's Fair and Tom Frantzen's playful Bandundu water fountain are on the way.",
+      "tip": "Walk the length of the Grand Canal and back for an easy hour; the Spanish House bistro in the park is handy for a break.",
+      "q": "Park van Tervuren", "ll": [50.8254, 4.5276],
+      "tags": ["free"],
+      "src": ["https://nl.wikipedia.org/wiki/Park_van_Tervuren", "https://en.wikivoyage.org/wiki/Tervuren"]
+    },
+    {
+      "id": "vilvoordetyndale", "cat": "gor", "area": "cevre",
+      "title": "Remember William Tyndale in Vilvoorde",
+      "desc": "William Tyndale, whose translation shaped the English Bible, was imprisoned in Vilvoorde castle and executed here in 1536. A monument and small park to him stand near the old town, a few minutes from the Gothic Church of Our Lady on Heldenplein.",
+      "tip": "Vilvoorde is ten minutes by train from Brussels-Nord. Walk on to the Domein Drie Fonteinen park across the canal.",
+      "q": "William Tyndale monument, Vilvoorde", "ll": [50.9323, 4.4239],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/William_Tyndale", "https://en.wikivoyage.org/wiki/Vilvoorde"]
+    },
+    {
+      "id": "driefonteinenpark", "cat": "dene", "area": "cevre",
+      "title": "Explore the landscape park of Drie Fonteinen",
+      "desc": "One of Belgium's oldest landscape parks, Domein Drie Fonteinen in Vilvoorde began as banker Jean Joseph Walckiers' English garden in 1778. Its 50 hectares hold a French garden modelled on Versailles, a sandstone grotto bridge, ice cellars and a Japanese garden made with sister city Komatsu.",
+      "tip": "The old orangery now houses a restaurant. Do not confuse this park with the 3 Fonteinen lambic brewery in Beersel.",
+      "q": "Domein Drie Fonteinen, Vilvoorde", "ll": [50.9174, 4.4058],
+      "tags": ["free"],
+      "src": ["https://nl.wikipedia.org/wiki/Domein_Drie_Fonteinen", "https://en.wikivoyage.org/wiki/Vilvoorde"]
+    },
+    {
+      "id": "oudbeersel", "cat": "ye", "area": "cevre",
+      "title": "Share a bottle of geuze at the Oud Beersel tasting room",
+      "desc": "Oud Beersel has been blending lambic just south of Brussels since 1882. Its bierhuis has a big round communal table where you share bottles of Oude Geuze and Oude Kriek, plus experimental lambics such as one infused with elderflower.",
+      "tip": "Guided tours run on Saturdays in Dutch, English or French; book ahead. Beersel castle is a short walk away.",
+      "q": "Oud Beersel, Laarheidestraat 230, Beersel", "ll": [50.7587, 4.3008],
+      "src": ["https://www.oudbeersel.com", "https://en.wikipedia.org/wiki/Oud_Beersel"]
+    },
+    {
+      "id": "grotedorst", "cat": "ye", "area": "cevre",
+      "title": "Go for Sunday lambic at In de Verzekering tegen de Grote Dorst",
+      "desc": "The café with the longest name and the shortest opening hours, the Insurance against the Great Thirst, sits in an 1842 building opposite the church in tiny Eizeringen in the Pajottenland. It pours a huge choice of lambic, geuze and kriek to cyclists and beer lovers.",
+      "tip": "It usually opens only on Sundays and holidays, so check the website before making the trip. Pair it with a bike ride through the Pajottenland or a visit to Gaasbeek castle.",
+      "q": "In de Verzekering tegen de Grote Dorst, Frans Baetensstraat 45, Eizeringen", "ll": [50.8318, 4.1398],
+      "src": ["https://www.dorst.be", "https://nl.wikipedia.org/wiki/In_de_Verzekering_tegen_de_Grote_Dorst"]
+    },
+    {
+      "id": "coloma", "cat": "dene", "area": "cevre",
+      "title": "Smell 3,000 kinds of roses at the Coloma rose garden",
+      "desc": "Around moated Coloma castle in Sint-Pieters-Leeuw lies a rose garden of more than 3,000 varieties from 25 countries, laid out in themed sections. The castle itself, restored by the municipality, now houses the local cultural centre.",
+      "tip": "Come in June or early July when most roses are in full bloom. There is a wooden play forest for kids on the estate.",
+      "q": "Rosarium Kasteel Coloma, Sint-Pieters-Leeuw", "ll": [50.7791, 4.2496],
+      "months": [6, 7, 8, 9],
+      "src": ["https://nl.wikipedia.org/wiki/Kasteel_Coloma"]
+    },
+    {
+      "id": "groenendaal", "cat": "gor", "area": "cevre",
+      "title": "Start a Sonian Forest walk at the Groenendaal priory",
+      "desc": "In the 14th century the mystic Jan van Ruusbroec founded a community of canons in the middle of the Sonian Forest at Groenendaal, in Hoeilaart. The priory's old barn now houses the Bosmuseum Jan van Ruusbroec, a small museum about the forest, its trees and its history.",
+      "tip": "Groenendaal has its own train station. From the museum, well-marked trails lead into the beech cathedral of the forest and around the ponds.",
+      "q": "Bosmuseum Jan van Ruusbroec, Duboislaan 2, Hoeilaart", "ll": [50.7686, 4.4415],
+      "src": ["https://en.wikipedia.org/wiki/Groenendael_Priory", "https://nl.wikipedia.org/wiki/Priorij_van_Groenendaal"]
+    },
+    {
+      "id": "floralia", "cat": "dene", "area": "cevre",
+      "title": "Wander a million tulips at Floralia in Groot-Bijgaarden",
+      "desc": "Every spring the park of the moated Groot-Bijgaarden castle is planted with more than a million bulbs for Floralia Brussels. Tulips, daffodils and hyacinths bloom in waves for about a month, from flower carpets under old trees to a colourful maze.",
+      "tip": "It usually runs from early April to early May; go in mid-April for the peak of the tulips and arrive early on weekends.",
+      "q": "Kasteel van Groot-Bijgaarden, Isidoor Van Beverenstraat 5, Dilbeek", "ll": [50.8737, 4.2626],
+      "months": [4, 5],
+      "src": ["https://www.floralia-brussels.be/en", "https://nl.wikipedia.org/wiki/Kasteel_van_Groot-Bijgaarden"]
+    }
+  ]
+}

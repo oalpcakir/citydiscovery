@@ -1,0 +1,298 @@
+{
+  "new": [
+    {
+      "id": "baest", "cat": "ye", "area": "merkez",
+      "title": "Share a wood-fired pizza and cured meats at Bæst",
+      "desc": "Bæst on Guldbergsgade in Nørrebro bakes its pizzas in a wood-fired oven and makes its own charcuterie from Danish pork, alongside fresh hand-stretched cheeses. It is one of the places that put Copenhagen on the map for serious, organic Italian-style cooking.",
+      "tip": "Start with a board of the house salumi and cheese to share before the pizzas. Walk-ins are welcome, but book online for weekend evenings.",
+      "q": "Bæst, Guldbergsgade 29, København", "ll": [55.6917, 12.5560],
+      "src": ["https://www.baest.dk/"]
+    },
+    {
+      "id": "cafeintime", "cat": "ye", "area": "merkez",
+      "title": "Have a nightcap by the grand piano at Café Intime",
+      "desc": "This tiny bar on Allégade in Frederiksberg has been pouring drinks since the early 1920s, when it opened as the wine restaurant Intime. A pianist plays the grand piano every evening, and on Sundays a small jazz band squeezes in.",
+      "tip": "It opens at four in the afternoon and stays open until two, so it works for an early drink after Frederiksberg Gardens or a last one after dinner. Seats near the piano go first.",
+      "q": "Café Intime, Allégade 25, Frederiksberg", "ll": [55.6771, 12.5321],
+      "tags": ["rainy day"],
+      "src": ["https://www.cafeintime.dk/", "https://en.wikivoyage.org/wiki/Copenhagen/Frederiksberg"]
+    },
+    {
+      "id": "kaffesalonen", "cat": "ye", "area": "merkez",
+      "title": "Brunch on the floating jetty of Kaffesalonen",
+      "desc": "Kaffesalonen sits on Peblinge Dossering, right on the edge of the Lakes between Nørrebro and the city. Besides the café itself it runs Bådebroen, a jetty out on the water where you can eat smørrebrød or have a drink with swans and rowing boats drifting past.",
+      "tip": "Come for breakfast or brunch on a sunny morning before the jetty fills up. In the evening it turns into a relaxed spot for a glass of wine at sunset.",
+      "q": "Kaffesalonen, Peblinge Dossering 6, København", "ll": [55.6867, 12.5617],
+      "src": ["https://www.kaffesalonen.com/"]
+    },
+    {
+      "id": "lidkoeb", "cat": "ye", "area": "merkez",
+      "title": "Climb to the attic whisky bar at Lidkøb",
+      "desc": "Lidkøb is a cocktail bar hidden in a courtyard off Vesterbrogade, spread over three floors of an old house. The top floor is a snug attic whisky bar with leather sofas and an open fireplace, reached by a steep staircase.",
+      "tip": "Look for the passage at Vesterbrogade 72B, as there is no sign on the main street. The attic bar only opens on Friday and Saturday nights.",
+      "q": "Lidkøb, Vesterbrogade 72B, København", "ll": [55.6733, 12.5518],
+      "src": ["https://www.lidkoeb.dk/", "https://en.wikivoyage.org/wiki/Copenhagen/Vesterbro"]
+    },
+    {
+      "id": "baadudlejningen", "cat": "ye", "area": "merkez",
+      "title": "Eat by the canal at Christianshavns Bådudlejning & Café",
+      "desc": "On Overgaden Neden Vandet, right on Christianshavn's canal, this little boat rental doubles as a café and restaurant serving lunch and dinner every day. In summer the tables sit on the water among the moored boats, and in the colder months a cosy winter hut takes over.",
+      "tip": "Book a table for a sunny evening, as the waterside seats are some of the most sought after in Christianshavn. You can rent a small boat here too if you want to explore the canals first.",
+      "q": "Christianshavns Bådudlejning, Overgaden Neden Vandet 29, København", "ll": [55.6728, 12.5912],
+      "src": ["https://www.baadudlejningen.dk/", "https://en.wikivoyage.org/wiki/Copenhagen/Christianshavn"]
+    },
+    {
+      "id": "cafebopa", "cat": "ye", "area": "merkez",
+      "title": "Do brunch like an Østerbro local at Café Bopa",
+      "desc": "Café Bopa fills a former coaching inn from 1885 on Bopa Plads, a leafy square in the heart of Østerbro, and has carried its name since 1997. The bistro kitchen leans towards southern Europe with Nordic touches, and on weekends DJs take over after dinner.",
+      "tip": "In summer, grab a table out on the square or ask for the hidden courtyard garden. It is a handy stop before a match or concert at Parken.",
+      "q": "Café Bopa, Løgstørgade 8, København", "ll": [55.7051, 12.5813],
+      "src": ["https://www.cafebopa.dk/", "https://en.wikivoyage.org/wiki/Copenhagen/%C3%98sterbro"]
+    },
+    {
+      "id": "labanchina", "cat": "ye", "area": "merkez",
+      "title": "Swim off the pier, then lunch at La Banchina",
+      "desc": "La Banchina is a small harbourside café on Refshaleøen with organic, mostly pescatarian food, good coffee and natural wine. It has its own swimming dock and a little sauna, so many guests jump in the harbour before they eat.",
+      "tip": "Bring swimwear even out of season: winter bathers come for the sauna and a cold dip. Opening hours change with the seasons, so check the website before you cycle out.",
+      "q": "La Banchina, Refshalevej 141, København", "ll": [55.6893, 12.6109],
+      "src": ["https://www.labanchina.dk/"]
+    },
+    {
+      "id": "medicalmuseion", "cat": "gor", "area": "merkez",
+      "title": "Sit in the anatomy theatre of Medical Museion",
+      "desc": "Medical Museion occupies the Royal Surgical Academy on Bredgade, which opened in 1787 and trained doctors until 1942. Its centrepiece is the round auditorium by Peter Meyn, modelled on the European anatomical theatres where bodies were once dissected in front of students.",
+      "tip": "The collection of medical oddities is not for the squeamish, so think before bringing small children. Combine it with Designmuseum Danmark a few doors along Bredgade.",
+      "q": "Medicinsk Museion, Bredgade 62, København", "ll": [55.6860, 12.5919],
+      "tags": ["rainy day"],
+      "src": ["https://da.wikipedia.org/wiki/Medicinsk_Museion", "https://en.wikivoyage.org/wiki/Copenhagen/Indre_By"]
+    },
+    {
+      "id": "jewishmuseum", "cat": "gor", "area": "merkez",
+      "title": "Walk the tilting floors of the Danish Jewish Museum",
+      "desc": "Daniel Libeskind fitted this museum into Christian IV's old royal boat house behind the Royal Library, and it opened in 2004. The corridors trace the Hebrew word Mitzvah, good deed, a nod to the 1943 rescue of Danish Jews across the Sound, and the sloping floors keep you slightly off balance.",
+      "tip": "Enter from the Royal Library garden, a quiet spot in itself. The museum is small, so pair it with the Black Diamond next door.",
+      "q": "Dansk Jødisk Museum, Proviantpassagen 6, København", "ll": [55.6742, 12.5822],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Danish_Jewish_Museum"]
+    },
+    {
+      "id": "teatermuseet", "cat": "gor", "area": "merkez",
+      "title": "Peek into the royal box of the old Court Theatre",
+      "desc": "Above the Royal Stables at Christiansborg hides a red box theatre that opened in 1767 and was rebuilt in Biedermeier style in 1842. It closed under new fire rules in 1881, and since 1922 it has housed the Theatre Museum, with costumes, set models and the stage itself.",
+      "tip": "Step out onto the stage and look back at the tiers of boxes. Check the programme, as readings and small concerts are still held in the auditorium.",
+      "q": "Teatermuseet i Hofteatret, Christiansborg, København", "ll": [55.6748, 12.5786],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Theatre_Museum_in_the_Court_Theatre"]
+    },
+    {
+      "id": "bakkehuset", "cat": "gor", "area": "merkez",
+      "title": "Visit the Golden Age salon at Bakkehuset",
+      "desc": "This low farmhouse on Rahbeks Allé was an inn on the road to Roskilde before Knud Lyne Rahbek and his wife Kamma made it the meeting place of Denmark's Golden Age writers. It has been a museum of memorial rooms since 1925, and Kamma's garden was one of the first English-style gardens in the country.",
+      "tip": "Take your time in the garden, which feels like the countryside in the middle of Frederiksberg. Check the opening hours on the museum website before you go, as they are limited.",
+      "q": "Bakkehusmuseet, Rahbeks Allé 23, Frederiksberg", "ll": [55.6682, 12.5320],
+      "src": ["https://en.wikipedia.org/wiki/Bakkehuset", "https://en.wikivoyage.org/wiki/Copenhagen/Frederiksberg"]
+    },
+    {
+      "id": "brumleby", "cat": "gor", "area": "merkez",
+      "title": "Wander the ochre and white rows of Brumleby",
+      "desc": "After the cholera epidemic of 1853 killed about 5,000 Copenhageners, doctors pushed for healthy workers' housing, and Brumleby in Østerbro was the result. Designed by M. G. Bindesbøll and finished in 1872, its long two-tone rows with green gardens are still lived in today.",
+      "tip": "It is a residential area, so keep your voice down. It sits right by Fælledparken and Parken, easy to add to an Østerbro walk.",
+      "q": "Brumleby, København", "ll": [55.7016, 12.5756],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Brumleby", "https://en.wikivoyage.org/wiki/Copenhagen/%C3%98sterbro"]
+    },
+    {
+      "id": "copenhagencontemporary", "cat": "gor", "area": "merkez",
+      "title": "Lose yourself in light art at Copenhagen Contemporary",
+      "desc": "Copenhagen Contemporary fills an old industrial hall on Refshaleøen with huge installations, film and performance art. James Turrell's walk-in light work Aftershock is one of the big draws.",
+      "tip": "Go on a Thursday, when it stays open until nine. The queue for Aftershock can close early on busy days, so head there first.",
+      "q": "Copenhagen Contemporary, Refshalevej 173A, København", "ll": [55.6931, 12.6134],
+      "tags": ["rainy day"],
+      "src": ["https://copenhagencontemporary.org/en/visit/", "https://en.wikivoyage.org/wiki/Copenhagen/Christianshavn"]
+    },
+    {
+      "id": "christianshavnsvold", "cat": "dene", "area": "merkez",
+      "title": "Walk the green ramparts of Christianshavn",
+      "desc": "Christian IV fortified Christianshavn in the early 1600s, and its earthen ramparts, moat and twelve bastions still curve around the district. The southern half is a public park, while the northern half runs into Christiania. On Løvens Bastion stands Lille Mølle, one of only two surviving windmills from the old fortifications.",
+      "tip": "Start by Lille Mølle near Torvegade and follow the path north along the moat. The paths are unlit, so go in daylight.",
+      "q": "Lille Mølle, Christianshavns Voldgade, København", "ll": [55.6715, 12.5963],
+      "tags": ["free"],
+      "src": ["https://da.wikipedia.org/wiki/Christianshavns_Vold", "https://da.wikipedia.org/wiki/Lille_M%C3%B8lle"]
+    },
+    {
+      "id": "vestrekirkegaard", "cat": "dene", "area": "merkez",
+      "title": "Find Carl Nielsen in Denmark's largest cemetery",
+      "desc": "Vestre Kirkegård opened in 1870 and covers 54 hectares, the largest cemetery in Denmark. Its avenues, groves and two lakes hide the graves of composer Carl Nielsen, painter Vilhelm Hammershøi, explorer Knud Rasmussen and Edvard Eriksen, who sculpted the Little Mermaid.",
+      "tip": "Locals use it as a quiet park for walks and runs, but keep it respectful. Pick up a map at the entrance, as the grounds are big enough to get lost in.",
+      "q": "Vestre Kirkegård, København", "ll": [55.6565, 12.5303],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Vestre_Cemetery,_Copenhagen"]
+    },
+    {
+      "id": "faelledparken", "cat": "dene", "area": "merkez",
+      "title": "Watch the skaters in Fælledparken's big bowl",
+      "desc": "Fælledparken was laid out between 1906 and 1914 by Edvard Glæsel and is Østerbro's big lawn for football, picnics and the 1 May rally. Its skatepark, rebuilt in 2011, covers about 4,500 square metres of bowls, ramps and street obstacles and is one of the largest in Northern Europe.",
+      "tip": "Bring a board or just sit on the edge and watch on a summer evening. Café Pavillonen in the park is good for a coffee afterwards.",
+      "q": "Fælledparken Skatepark, København", "ll": [55.6997, 12.5700],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/F%C3%A6lledparken"]
+    },
+    {
+      "id": "cinemateket", "cat": "dene", "area": "merkez",
+      "title": "Catch a classic film at Cinemateket",
+      "desc": "The Danish Film Institute's own cinema has been in Filmhuset on Gothersgade since 1997. Its three screens show film classics, themed series and quality films that rarely reach ordinary cinemas, and the building also holds a film library, a bookshop and a café.",
+      "tip": "Check the programme for films with English subtitles. In summer the open-air screen on the roof is a fine way to end an evening.",
+      "q": "Cinemateket, Gothersgade 55, København", "ll": [55.6831, 12.5786],
+      "tags": ["rainy day"],
+      "src": ["https://www.dfi.dk/cinemateket", "https://en.wikipedia.org/wiki/Danish_Film_Institute"]
+    },
+    {
+      "id": "frbsvommehal", "cat": "dene", "area": "merkez",
+      "title": "Swim under the mosaics of Frederiksberg Svømmehal",
+      "desc": "Frederiksberg's public pool was built between 1931 and 1934 by A. S. Lauritzen in crisp functionalist style. Vilhelm Lundstrøm's mosaics decorate the corners of the main hall, and a 105 metre indoor water slide keeps the children busy.",
+      "tip": "Go on a weekday morning for calmer lanes. Check the timetable first, as parts of the pool are booked for clubs and schools.",
+      "q": "Frederiksberg Svømmehal, Helgesvej 29, Frederiksberg", "ll": [55.6846, 12.5323],
+      "tags": ["rainy day"],
+      "src": ["https://da.wikipedia.org/wiki/Frederiksberg_Sv%C3%B8mmehal", "https://en.wikivoyage.org/wiki/Copenhagen/Frederiksberg"]
+    },
+    {
+      "id": "blaaplanet", "cat": "gor", "area": "cevre",
+      "title": "Walk through the shark tunnel at Den Blå Planet",
+      "desc": "Denmark's national aquarium opened in Kastrup in 2013 in a 3XN building shaped like a whirlpool seen from above. The 4 million litre Ocean tank holds hammerhead sharks and has a 16 metre tunnel, and the Rainforest has a school of about 3,000 piranhas.",
+      "tip": "Book tickets online and come early on weekends and school holidays. The metro to Kastrup station gets you within a short walk.",
+      "q": "Den Blå Planet, Jacob Fortlingsvej 1, Kastrup", "ll": [55.6380, 12.6560],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/National_Aquarium_Denmark", "https://en.wikivoyage.org/wiki/Copenhagen/Amager"]
+    },
+    {
+      "id": "kastrupsobad", "cat": "dene", "area": "cevre",
+      "title": "Dive off the wooden snail of Kastrup Søbad",
+      "desc": "Out on a long pier off Kastrup beach curls a round wooden bathing structure nicknamed the Snail, designed by White Architects and built in 2004 to 2005. The circular wooden wall shelters the bathers from the wind, and the decks are made for swimming and sunbathing.",
+      "tip": "Come at sunset, when the low light warms the wooden walls. The metro to Kastrup station is a short walk away.",
+      "q": "Kastrup Søbad, Kastrup", "ll": [55.6459, 12.6475],
+      "months": [5, 6, 7, 8, 9],
+      "src": ["https://da.wikipedia.org/wiki/Kastrup_Strandpark"]
+    },
+    {
+      "id": "ordrupgaard", "cat": "gor", "area": "cevre",
+      "title": "See Impressionists and Hammershøi at Ordrupgaard",
+      "desc": "Ordrupgaard is an art museum in a manor near Dyrehaven with French Impressionists and Danish Golden Age and later painters such as Hammershøi. Zaha Hadid added a sweeping wing in 2005, Snøhetta a largely underground one in 2021, and next door you can step inside Finn Juhl's own house from 1942.",
+      "tip": "Do not skip the Finn Juhl house: his furniture is shown in the home he designed it for. The garden is free to wander and a nice walk on to Dyrehaven.",
+      "q": "Ordrupgaard, Vilvordevej 110, Charlottenlund", "ll": [55.7671, 12.5630],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Ordrupgaard", "https://en.wikivoyage.org/wiki/Copenhagen/Northern_suburbs"]
+    },
+    {
+      "id": "experimentarium", "cat": "dene", "area": "cevre",
+      "title": "Play scientist for a day at Experimentarium",
+      "desc": "Experimentarium in Hellerup is Denmark's big hands-on science centre, spread over three floors and a rooftop. Exhibits range from the human body and soap bubbles to light labyrinths and a trading port, built for touching, testing and building.",
+      "tip": "Plan three to four hours and come right at opening to beat school groups. The interactive rooftop is only open from spring to autumn.",
+      "q": "Experimentarium, Tuborg Havnevej 7, Hellerup", "ll": [55.7267, 12.5801],
+      "tags": ["rainy day"],
+      "src": ["https://www.experimentarium.dk/en/", "https://en.wikivoyage.org/wiki/Copenhagen/Northern_suburbs"]
+    },
+    {
+      "id": "nybrokro", "cat": "ye", "area": "cevre",
+      "title": "Eat smørrebrød at Nybro Kro by Mølleåen",
+      "desc": "Nybro Kro has served guests at Nybro, between Furesø and Lyngby Sø, since at least 1912, first as Nybro Café and from 1937 under its current name. The menu sticks to Danish classics: smørrebrød, fried plaice, pariserbøf and wiener schnitzel.",
+      "tip": "Rent a canoe at the boat hire next door and paddle the river before lunch. The inn is open every day from noon.",
+      "q": "Nybro Kro, Nybrovej 376, Kongens Lyngby", "ll": [55.7741, 12.4697],
+      "src": ["https://www.nybrokro.dk/", "https://www.nybrokro.dk/kroens-historie"]
+    },
+    {
+      "id": "vaerftetsmadmarked", "cat": "ye", "area": "cevre",
+      "title": "Graze the stalls of Værftets Madmarked in Helsingør",
+      "desc": "Helsingør's old shipyard now holds a street food market with around fifteen stalls, from ramen and sushi to tacos, fish and burgers. It is a short walk from Kronborg and the Maritime Museum.",
+      "tip": "It is open Thursday to Sunday only, so plan your Helsingør trip around that. The bar stays open an hour after the food stalls close.",
+      "q": "Værftets Madmarked, Ny Kronborgvej 2, Helsingør", "ll": [56.0383, 12.6146],
+      "src": ["https://www.vaerftetsmadmarked.dk/"]
+    },
+    {
+      "id": "dragsholm", "cat": "ye", "area": "cevre",
+      "title": "Dine on Lammefjord produce at Dragsholm Slot",
+      "desc": "Dragsholm Castle in Odsherred has more than 800 years of history, and the Earl of Bothwell, husband of Mary, Queen of Scots, was once its prisoner. Today it is a hotel with a Michelin-starred restaurant that cooks with vegetables from the fertile Lammefjord soils and herbs from the nearby forest and coast.",
+      "tip": "The castle bistro is a cheaper way in than the tasting menu. Ask staff about the castle ghosts, said to include Bothwell himself.",
+      "q": "Dragsholm Slot, Dragsholm Allé, Hørve", "ll": [55.7710, 11.3903],
+      "src": ["https://www.dragsholm-slot.dk/", "https://en.wikipedia.org/wiki/Dragsholm_Castle"]
+    },
+    {
+      "id": "holmegaardvaerk", "cat": "gor", "area": "cevre",
+      "title": "Watch glass being blown at Holmegaard Værk",
+      "desc": "The Holmegaard glassworks near Fensmark started production in 1825 and made Danish classics such as the ship's glass and the Provence bowl. Since 2020 the old works has been a museum with tens of thousands of pieces on shelves seven metres high, and glassblowers still work in the hot shop.",
+      "tip": "Time your visit for when the glassblowers are working. You can also book a session to make a piece of your own.",
+      "q": "Holmegaard Værk, Fensmark", "ll": [55.2844, 11.8208],
+      "tags": ["rainy day"],
+      "src": ["https://museerne.dk/pages/holmegaard-vaerk", "https://da.wikipedia.org/wiki/Holmegaard_Glasv%C3%A6rk"]
+    },
+    {
+      "id": "gavno", "cat": "gor", "area": "cevre",
+      "title": "See Denmark's biggest tulip festival at Gavnø",
+      "desc": "Gavnø, on a small island near Næstved, began as a convent founded by Queen Margaret I and was rebuilt as a rococo manor in the 1750s. Its halls hold thousands of paintings and antiques, and every April and May the castle park blooms with Denmark's largest tulip festival.",
+      "tip": "The season usually opens in mid April. Come on a weekday to have the tulip beds and the old rose garden more to yourself.",
+      "q": "Gavnø Slot, Gavnø 2, Næstved", "ll": [55.1889, 11.7252],
+      "months": [4, 5],
+      "src": ["https://gavnoe.com/", "https://en.wikipedia.org/wiki/Gavn%C3%B8"]
+    },
+    {
+      "id": "marielyst", "cat": "dene", "area": "cevre",
+      "title": "Spend a summer day on Marielyst's white sand",
+      "desc": "Marielyst on the Baltic coast of Falster is one of Denmark's favourite beach resorts, with about 6,000 holiday homes behind a long, child-friendly beach of fine white sand. A footpath runs along roughly 20 km of shore.",
+      "tip": "The beach south of town towards Bøtø is quieter than the stretch by the main street. The shallow water warms up early in summer.",
+      "q": "Bøtø Strand, Marielyst", "ll": [54.6850, 11.9682],
+      "tags": ["free"], "months": [6, 7, 8],
+      "src": ["https://en.wikipedia.org/wiki/Marielyst"]
+    },
+    {
+      "id": "olskerkirke", "cat": "gor", "area": "bornholm",
+      "title": "Climb the hill to Olsker, the tallest round church",
+      "desc": "Olsker's whitewashed round church was built in the 12th century on a hilltop about 112 metres above sea level, and it is the tallest of Bornholm's four round churches. It has three storeys, with openings in the top one once used to shoot at attackers.",
+      "tip": "It is about 4 km south of Allinge, an easy cycle. Look out to sea from the churchyard on a clear day.",
+      "q": "Olsker Kirke, Bornholm", "ll": [55.2360, 14.8004],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Olsker_Church"]
+    },
+    {
+      "id": "olufhost", "cat": "gor", "area": "bornholm",
+      "title": "See Bornholm through Oluf Høst's eyes in Gudhjem",
+      "desc": "Painter Oluf Høst, born in Svaneke in 1884, spent much of his life in the house Norresân in Gudhjem, painting the farm Bognemark again and again. His home has been a museum since 1998, showing his work where it was made, with a garden studio and café.",
+      "tip": "The museum is open from March to October. Ask for the English audio guide, then walk down to Gudhjem harbour afterwards.",
+      "q": "Oluf Høst Museet, Løkkegade 35, Gudhjem", "ll": [55.2137, 14.9665],
+      "tags": ["rainy day"],
+      "src": ["https://www.ohmus.dk/", "https://en.wikivoyage.org/wiki/Gudhjem"]
+    },
+    {
+      "id": "middelaldercenter", "cat": "dene", "area": "bornholm",
+      "title": "Try archery at Bornholms Middelaldercenter",
+      "desc": "Near Østerlars, the Medieval Centre recreates Bornholm life in the 1300s with historic houses, a manor farm, craftspeople and animals. Visitors can shoot a bow, join the daily activities and go on a treasure hunt.",
+      "tip": "Combine it with Østerlars round church just up the road. Check the opening calendar, as the centre is seasonal.",
+      "q": "Bornholms Middelaldercenter, Stangevej 1, Gudhjem", "ll": [55.1744, 14.9547],
+      "src": ["https://bornholmsmiddelaldercenter.dk/"]
+    },
+    {
+      "id": "paradisbakkerne", "cat": "dene", "area": "bornholm",
+      "title": "Hike the rift valleys of Paradisbakkerne",
+      "desc": "Northwest of Nexø, Paradisbakkerne is a rocky, forested granite landscape cut by narrow rift valleys with near vertical walls, small lakes and marshes. A dense network of trails leads over hills up to 113 metres high, with glacial boulders left by the last ice age.",
+      "tip": "The trails are open from sunrise to sunset. Wear proper shoes, as the paths are rocky and can be slippery after rain.",
+      "q": "Paradisbakkerne, Bornholm", "ll": [55.1000, 15.0833],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Paradisbakkerne", "https://da.wikipedia.org/wiki/Paradisbakkerne"]
+    },
+    {
+      "id": "nordbornholmsrogeri", "cat": "ye", "area": "bornholm",
+      "title": "Eat smoked fish by the sea at Nordbornholms Røgeri",
+      "desc": "Right on the rocky shore at Kæmpestranden just outside Allinge, this smokehouse runs a restaurant and a fish shop side by side, with fish smoked on site.",
+      "tip": "It is seasonal and usually reopens in spring. Pick up smoked herring from the shop for a picnic on the rocks.",
+      "q": "Nordbornholms Røgeri, Kæmpestranden 2, Allinge", "ll": [55.2759, 14.8053],
+      "src": ["https://nbr.dk/"]
+    },
+    {
+      "id": "kadeau", "cat": "ye", "area": "bornholm",
+      "title": "Book a summer dinner at Kadeau on Sømarken beach",
+      "desc": "Kadeau's island restaurant sits by Sømarken beach on Bornholm's south coast near Pedersker, the summer sister of Kadeau in Copenhagen. Dinner is served in the summer months only, built on Bornholm produce.",
+      "tip": "Book well ahead and plan for a long evening. Arrive early to walk on the beach right below the restaurant.",
+      "q": "Kadeau Bornholm, Baunevej 18, Pedersker", "ll": [55.0045, 14.9690],
+      "months": [5, 6, 7, 8, 9],
+      "src": ["https://kadeau.dk/"]
+    }
+  ]
+}

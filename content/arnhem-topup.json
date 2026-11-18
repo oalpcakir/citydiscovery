@@ -1,0 +1,611 @@
+{
+  "new": [
+    {
+      "id": "duivelshuis",
+      "cat": "gor",
+      "area": "arnhem",
+      "title": "Spot the satyrs on the Duivelshuis",
+      "desc": "This 16th-century town castle on Koningstraat is known as the Devil's House because of the satyr figures on its facade. It was the home of the warlord Maarten van Rossum and today holds the office of Arnhem's mayor.",
+      "tip": "Look closely at the carved figures on the front; the house is a two-minute walk from the Eusebiuskerk and the Walburgiskerk.",
+      "q": "Duivelshuis, Koningstraat, Arnhem",
+      "ll": [
+        51.9789,
+        5.9108
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Duivelshuis_(Arnhem)",
+        "https://en.wikivoyage.org/wiki/Arnhem"
+      ]
+    },
+    {
+      "id": "walburgiskerk",
+      "cat": "gor",
+      "area": "arnhem",
+      "title": "Find Arnhem's oldest church, the Walburgiskerk",
+      "desc": "The Sint-Walburgiskerk, with its distinctive pair of towers on the west front, is the oldest church building still standing in Arnhem. It was built on the grounds of the old count's court, once the residence of Count Reinald I of Guelders, and today hosts exhibitions and concerts rather than services.",
+      "tip": "Check what is on before you go, as the doors are mostly open for events; the twin towers look best from Sint Walburgisplein.",
+      "q": "Sint-Walburgiskerk, Sint Walburgisplein, Arnhem",
+      "ll": [
+        51.9791,
+        5.9136
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Sint-Walburgiskerk_(Arnhem)",
+        "https://en.wikivoyage.org/wiki/Arnhem"
+      ]
+    },
+    {
+      "id": "moortgat",
+      "cat": "ye",
+      "area": "arnhem",
+      "title": "Settle into the brown café 't Moortgat",
+      "desc": "Café 't Moortgat on Ruiterstraat is a small, old-fashioned brown café that beer lovers have relied on for years. It pours around a dozen draught beers and keeps a long list of bottles, much of it Belgian and craft.",
+      "tip": "Ask the bar for a tip from the bottle list; it is just a few steps from Jansplein, so it pairs well with a drink at 't Taphuys.",
+      "q": "Café 't Moortgat, Ruiterstraat 35, Arnhem",
+      "ll": [
+        51.9826,
+        5.9086
+      ],
+      "src": [
+        "https://en.wikivoyage.org/wiki/Arnhem"
+      ]
+    },
+    {
+      "id": "focusfilm",
+      "cat": "dene",
+      "area": "arnhem",
+      "title": "Catch an art-house film at Focus",
+      "desc": "Focus Filmtheater is Arnhem's film house, showing a wider and more adventurous programme than the multiplexes. It stands on Audrey Hepburnplein, the square named after the actress who spent her teenage war years in Arnhem.",
+      "tip": "Films in other languages run with Dutch subtitles, so pick English-language titles; the Korenmarkt bars are around the corner for afterwards.",
+      "q": "Focus Filmtheater Arnhem, Audrey Hepburnplein",
+      "ll": [
+        51.9825,
+        5.9045
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://en.wikivoyage.org/wiki/Arnhem"
+      ]
+    },
+    {
+      "id": "meinerswijk",
+      "cat": "dene",
+      "area": "arnhem",
+      "title": "Cross the Rhine to the Meinerswijk floodplains",
+      "desc": "Right across the river from the old centre, Stadsblokken-Meinerswijk is a wide floodplain of meadows and ponds where locals walk, cycle and picnic. People have lived here since Roman times, and the little hamlet of De Praets still sits in the middle.",
+      "tip": "Walk over the Nelson Mandelabrug and turn west along the dyke; the view back to the Eusebius tower and the John Frost bridge is the classic Arnhem skyline.",
+      "q": "Stadsblokken-Meinerswijk, Arnhem",
+      "ll": [
+        51.9706,
+        5.8831
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Stadsblokken-Meinerswijk",
+        "https://en.wikivoyage.org/wiki/Arnhem"
+      ]
+    },
+    {
+      "id": "belvedere",
+      "cat": "gor",
+      "area": "sonsbeek",
+      "title": "Climb the Belvédère tower in Sonsbeek",
+      "desc": "Baron Van Heeckeren, then owner of Sonsbeek, built this lookout tower on the Ruyterenberg between 1824 and 1826. Because it stands on one of the highest points in the park, its top reaches about as high as the Eusebiuskerk tower, with views over the city and far beyond.",
+      "tip": "The tower opens on a limited schedule, mostly on Sunday afternoons with a tower guide; ask at the park visitor centre by the Witte Watermolen, and peek into the old ice cellar nearby too.",
+      "q": "Belvédère, Park Sonsbeek, Arnhem",
+      "ll": [
+        51.9933,
+        5.9073
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Belv%C3%A9d%C3%A8re_(Arnhem)"
+      ]
+    },
+    {
+      "id": "molendekroon",
+      "cat": "gor",
+      "area": "sonsbeek",
+      "title": "Find the windmill in the middle of Klarendal",
+      "desc": "Molen De Kroon is the pride of the working-class Klarendal district: a windmill that was moved here from the Amsterdamseweg in 1870 and still works today. It rises among the rowhouses, a surprising sight just north-east of the centre.",
+      "tip": "Volunteers run the mill on set days, when you can usually go inside. Combine it with the fashion shops lower down the Klarendalseweg.",
+      "q": "Molen De Kroon, Klarendal, Arnhem",
+      "ll": [
+        51.9876,
+        5.9179
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Klarendal",
+        "https://en.wikivoyage.org/wiki/Arnhem"
+      ]
+    },
+    {
+      "id": "modekwartier",
+      "cat": "dene",
+      "area": "sonsbeek",
+      "title": "Shop young designers in the Modekwartier",
+      "desc": "Arnhem is home to the ArtEZ art school, whose fashion alumni include Viktor & Rolf. Since 2008 the lower Klarendalseweg has been the Modekwartier, where run-down shopfronts became studios and boutiques of designers who often sell straight from their own workroom.",
+      "tip": "Go on a Thursday to Saturday afternoon, when most ateliers are open; many makers are happy to talk about their work.",
+      "q": "Klarendalseweg, Arnhem",
+      "ll": [
+        51.9866,
+        5.916
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Klarendal",
+        "https://www.regioarnhem.com/nl/ontdek/mode-en-design"
+      ]
+    },
+    {
+      "id": "klarenbeek",
+      "cat": "dene",
+      "area": "sonsbeek",
+      "title": "Walk the steep woods of Park Klarenbeek",
+      "desc": "While Sonsbeek draws the crowds, neighbouring Park Klarenbeek is a quiet forested park with surprisingly steep slopes on the edge of the Veluwe ridge. Locals use it for running and dog walks, and the Klarenbeek open-air pool on Hommelseweg is a summer favourite.",
+      "tip": "The open-air pool opens roughly from April to August; on hot days come early in the morning.",
+      "q": "Park Klarenbeek, Arnhem",
+      "ll": [
+        51.9985,
+        5.9248
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://en.wikivoyage.org/wiki/Arnhem"
+      ]
+    },
+    {
+      "id": "valkhofmuseum",
+      "cat": "gor",
+      "area": "nijmegen",
+      "title": "See Roman Nijmegen at the renewed Valkhof Museum",
+      "desc": "The Valkhof Museum brings together the archaeology of the Roman frontier, cultural history and contemporary art, with a strong focus on the Limes, the Roman border that became UNESCO World Heritage in 2021. After a long renovation it reopened in June 2026 in its glass building on Kelfkensbos.",
+      "tip": "Pair it with the Valkhof park right behind it; the walk ends at the Belvédère tower in the Hunnerpark with a view over the Waal.",
+      "q": "Valkhof Museum, Kelfkensbos 59, Nijmegen",
+      "ll": [
+        51.8466,
+        5.8714
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Valkhof_Museum",
+        "https://parametric-architecture.com/uns-renews-nijmegens-valkhof-museum/",
+        "https://en.wikivoyage.org/wiki/Nijmegen"
+      ]
+    },
+    {
+      "id": "langehezelstraat",
+      "cat": "gor",
+      "area": "nijmegen",
+      "title": "Wander the Lange Hezelstraat",
+      "desc": "Lange Hezelstraat runs along the edge between the upper and lower town, lined with independent shops, cafés and old facades. Its eastern continuation is the Stikke Hezelstraat, where 'stikke' is local dialect for steep, a name that only became official in 1910.",
+      "tip": "Walk it from the Grote Markt side, then climb the Stikke Hezelstraat for a sense of how hilly the old city is.",
+      "q": "Lange Hezelstraat, Nijmegen",
+      "ll": [
+        51.8481,
+        5.8586
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Lange_Hezelstraat"
+      ]
+    },
+    {
+      "id": "waagh",
+      "cat": "ye",
+      "area": "nijmegen",
+      "title": "Have lunch in the old weigh house De Waagh",
+      "desc": "The Renaissance weigh house on the Grote Markt was built in 1612, when merchants had to have their goods weighed and pay tax on the weight. It survived wartime bombing, and since 1977 it has been a town café and restaurant.",
+      "tip": "Take a table on the terrace facing the market for people watching, then look up at the facade from across the square.",
+      "q": "De Waagh, Grote Markt 26, Nijmegen",
+      "ll": [
+        51.8475,
+        5.8646
+      ],
+      "src": [
+        "https://en.visitnijmegen.com/locations/359159036/de-waagh-stadscafe-en-restaurant",
+        "https://en.visitnijmegen.com/to-see-do/food-drinks"
+      ]
+    },
+    {
+      "id": "daen",
+      "cat": "ye",
+      "area": "nijmegen",
+      "title": "Share a board of bites at Café Daen",
+      "desc": "Café Daen fills De Oude Laeckenhal, a monumental cloth hall built around 1600 on the Grote Markt. It is known for its craft beer list and the 'Daenplanken', boards of small dishes with meat, fish or vegetarian bites.",
+      "tip": "It is closed early in the week and opens Thursday to Sunday; the heated terrace works well into autumn.",
+      "q": "Café Daen, Grote Markt 23, Nijmegen",
+      "ll": [
+        51.8478,
+        5.8634
+      ],
+      "src": [
+        "https://en.visitnijmegen.com/locations/2626561210/cafe-daen",
+        "https://en.visitnijmegen.com/to-see-do/food-drinks"
+      ]
+    },
+    {
+      "id": "doornroosje",
+      "cat": "dene",
+      "area": "nijmegen",
+      "title": "Catch a gig at Doornroosje",
+      "desc": "Doornroosje, Roosje to locals, is Nijmegen's big pop venue next to the station, with rock, electronic, hip hop and techno nights. Its smaller sister venue Merleyn on Hertogstraat books more intimate shows.",
+      "tip": "Check the programme a few weeks ahead, as popular shows sell out; the club nights run late at weekends.",
+      "q": "Doornroosje, Stationsplein 11, Nijmegen",
+      "ll": [
+        51.8442,
+        5.8539
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://en.wikivoyage.org/wiki/Nijmegen"
+      ]
+    },
+    {
+      "id": "waalbrug",
+      "cat": "gor",
+      "area": "waal",
+      "title": "Walk across the Waalbrug",
+      "desc": "The great steel arch of the Waalbrug was begun in 1931 and opened five years later. In September 1944 it was captured intact during Operation Market Garden, and today it still carries traffic straight into the old town.",
+      "tip": "Walk it on the pavement for the best view of the Valkhof hill and the Waalkade; De Oversteek is two kilometres downstream if you want to loop back.",
+      "q": "Waalbrug, Nijmegen",
+      "ll": [
+        51.8515,
+        5.8711
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Waalbrug_Nijmegen"
+      ]
+    },
+    {
+      "id": "persingen",
+      "cat": "gor",
+      "area": "waal",
+      "title": "Visit Persingen, one of the smallest church villages",
+      "desc": "Persingen in the Ooijpolder has fewer than a hundred residents, yet keeps its own late-Gothic church, in a parish first mentioned in 1333. South of the church, a grassy mound marks where Huis Persingen stood until it burned in 1613 and its ruins washed away in floods.",
+      "tip": "The church is now used for exhibitions and weddings, so it is not always open; the polder roads around it are perfect for cycling.",
+      "q": "Persingen, Berg en Dal",
+      "ll": [
+        51.8412,
+        5.918
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Persingen"
+      ]
+    },
+    {
+      "id": "thornschemolen",
+      "cat": "ye",
+      "area": "waal",
+      "title": "Eat pancakes from mill flour at the Thornsche Molen",
+      "desc": "The windmill near Persingen was destroyed in the Second World War and rebuilt in 2015; since 2016 it grinds flour again, which the restaurant at its foot uses for its pancakes. Inside is a small exhibition on the mill, the war along the border and floods in the Ooijpolder.",
+      "tip": "Sit on the terrace for the view over the hills of Beek and into Germany; it is an easy stop on a cycling loop through the polder.",
+      "q": "De Thornsche Molen, Thornsestraat 20, Persingen",
+      "ll": [
+        51.8382,
+        5.9607
+      ],
+      "src": [
+        "https://en.visitnijmegen.com/locations/325759232/restaurant-de-thornsche-molen"
+      ]
+    },
+    {
+      "id": "duivelsberg",
+      "cat": "ye",
+      "area": "waal",
+      "title": "Eat pancakes in the woods at De Duivelsberg",
+      "desc": "In the forest of the Duivelsberg nature reserve, on the hills above the Ooijpolder, this old inn has served pancakes from the same family recipe for nearly fifty years. Checked tablecloths and antiques fill the dining room.",
+      "tip": "Several walks through the reserve start and end here; families can do the Roekoe-tocht trail with questions and small tasks.",
+      "q": "Pannenkoekenrestaurant De Duivelsberg, Berg en Dal",
+      "ll": [
+        51.8147,
+        5.941
+      ],
+      "src": [
+        "https://www.kidsproof.nl/nijmegen/uitje/pannenkoekenrestaurant-de-duivelsberg-de-duivelsberg",
+        "https://en.visitnijmegen.com/to-see-do/food-drinks"
+      ]
+    },
+    {
+      "id": "millingerwaard",
+      "cat": "dene",
+      "area": "waal",
+      "title": "Walk the wild floodplain of the Millingerwaard",
+      "desc": "The Millingerwaard near Kekerdom is about 400 hectares of riverside wilderness on the Waal, part of the Gelderse Poort. Staatsbosbeheer lets nature take its course here, so you walk through marsh, scrub and floodplain forest, crossing a side channel on dams when the water is low.",
+      "tip": "Wear boots; after high water some paths and crossings are flooded, so check the river level before you go.",
+      "q": "Millingerwaard, Kekerdom",
+      "ll": [
+        51.8744,
+        6.0097
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Millingerwaard"
+      ]
+    },
+    {
+      "id": "fortpannerden",
+      "cat": "dene",
+      "area": "waal",
+      "title": "Explore Fort Pannerden where the Rhine splits",
+      "desc": "Built between 1869 and 1872, this fort guards the point where the Rhine divides into the Waal and the Pannerdens Kanaal. Squatters occupied it in 2000 and retook it after a 2006 eviction, then agreed to hand it over for restoration; it reopened to the public in 2016.",
+      "tip": "Guided tours run through the day and are included in the ticket, or take the audio tour; book ahead at busy times and check opening days, which are limited in winter.",
+      "q": "Fort Pannerden, Waaldijk 1, Doornenburg",
+      "ll": [
+        51.8808,
+        6.0272
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Fort_Pannerden",
+        "https://www.fijnuit.nl/2505/fort-pannerden"
+      ]
+    },
+    {
+      "id": "doornenburg",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Cross the bridge into Kasteel Doornenburg",
+      "desc": "One of the largest and best-preserved castles in the country, Doornenburg has an outer bailey with a chapel and farm, linked to the main keep by a narrow wooden bridge. A British bombing raid wrecked it in March 1945 and rebuilding took until 1968; it starred as 'Oldenstein' in the 1968 TV series Floris.",
+      "tip": "Reserve tickets online; Fort Pannerden is a short bike ride away, so you can do both in one day.",
+      "q": "Kasteel Doornenburg",
+      "ll": [
+        51.8936,
+        5.9989
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Kasteel_Doornenburg",
+        "https://www.kasteeldoornenburg.nl/"
+      ]
+    },
+    {
+      "id": "rosendael",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Dodge the trick fountains at Kasteel Rosendael",
+      "desc": "Rosendael in Rozendaal, first mentioned in 1314, has the largest tower of its kind in the Netherlands, with walls up to four metres thick. Its park is full of follies: shell galleries, a cascade, a tea pavilion and the Bedriegertjes, hidden fountains that soak unsuspecting visitors.",
+      "tip": "Guided castle tours run Tuesday to Saturday, and on Sunday afternoons you can walk the rooms yourself; the castle café is open most days.",
+      "q": "Kasteel Rosendael, Rozendaal",
+      "ll": [
+        52.0094,
+        5.9644
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Kasteel_Rosendael",
+        "https://www.glk.nl/rosendael"
+      ]
+    },
+    {
+      "id": "vrijheidsmuseum",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Learn the border's war story at the Vrijheidsmuseum",
+      "desc": "In the hills outside Groesbeek, the Vrijheidsmuseum tells the story of the Second World War and the liberation of the Dutch-German border region in 1944 and 1945. Formerly the Nationaal Bevrijdingsmuseum, it moved into a new building in 2019 and also looks at freedom and unfreedom today.",
+      "tip": "Set aside at least half a day; the Canadian war cemetery outside Groesbeek is a short drive away.",
+      "q": "Vrijheidsmuseum, Wylerbaan 4, Groesbeek",
+      "ll": [
+        51.7856,
+        5.9369
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Vrijheidsmuseum"
+      ]
+    },
+    {
+      "id": "apenheul",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Meet free-roaming monkeys at Apenheul",
+      "desc": "Apenheul in the woods of Apeldoorn keeps more than 300 primates of over 30 species in natural-looking habitats with hardly any bars or fences. Several species roam freely among visitors, while gorillas, bonobos and orangutans live on islands surrounded by moats.",
+      "tip": "It is a seasonal park that closes in winter, so check the dates; arrive at opening time to see the apes at their most active.",
+      "q": "Apenheul, J.C. Wilslaan 21, Apeldoorn",
+      "ll": [
+        52.2153,
+        5.9187
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Apenheul",
+        "https://en.wikivoyage.org/wiki/Apeldoorn"
+      ]
+    },
+    {
+      "id": "ginkelseheide",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Walk the Ginkelse Heide drop zone",
+      "desc": "On 17 September 1944 Allied paratroopers landed on this heath near Ede at the start of the Battle of Arnhem. Today a flock of about 160 sheep grazes among the heather and woods, and the landings are commemorated here every September.",
+      "tip": "Visit in late August or early September for the blooming heather; the sheepfold area is also where locals fly kites.",
+      "q": "Ginkelse Heide, Ede",
+      "ll": [
+        52.0306,
+        5.7256
+      ],
+      "tags": [
+        "free"
+      ],
+      "months": [
+        8,
+        9
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Ginkelse_Heide"
+      ]
+    },
+    {
+      "id": "loenensewaterval",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "See the biggest waterfall drop in the country at Loenen",
+      "desc": "Just outside Loenen on the edge of the Veluwe, the man-made Grote Waterval has the largest height difference of any waterfall in the Netherlands. It is a modest cascade by mountain standards, but a real surprise in a flat land.",
+      "tip": "Combine it with the smaller Kleine Waterval nearby and the Ereveld Loenen war cemetery, both a short walk or bike ride away.",
+      "q": "Loenense Waterval, Loenen",
+      "ll": [
+        52.1333,
+        6.0066
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Loenen_(Apeldoorn)",
+        "https://en.wikivoyage.org/wiki/Apeldoorn"
+      ]
+    },
+    {
+      "id": "delocht",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Step into an old Limburg village at De Locht",
+      "desc": "Museumdorp De Locht in Melderslo, opened in 1990, recreates rural life in North Limburg between about 1850 and 1950. Separate pavilions tell the story of asparagus and mushroom growing and early greenhouses, and you can look into a smithy, a saddlery and a clog maker's workshop.",
+      "tip": "Have coffee with a slice of vlaai in Restaurant De Hoeve; the museum closes for a few weeks from mid-November when it turns into a Sinterklaas village.",
+      "q": "Museumdorp De Locht, Broekhuizerdijk 16d, Melderslo",
+      "ll": [
+        51.4624,
+        6.0904
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Museum_De_Locht",
+        "https://delocht.nl/"
+      ]
+    },
+    {
+      "id": "hackfort",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Walk the Hackfort estate near Vorden",
+      "desc": "Kasteel Hackfort, built in the 14th century and rebuilt after Spanish troops largely destroyed it in 1586, sits at the heart of a 735-hectare estate of woods, meadows and lanes. Natuurmonumenten became sole owner in 1981, and a historic watermill still stands beside the castle.",
+      "tip": "Vorden has more castles than any other Achterhoek village; use Hackfort as the start of a cycling loop past the others.",
+      "q": "Kasteel Hackfort, Baakseweg, Vorden",
+      "ll": [
+        52.1002,
+        6.2767
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://nl.wikipedia.org/wiki/Kasteel_Hackfort",
+        "https://en.wikivoyage.org/wiki/Achterhoek"
+      ]
+    },
+    {
+      "id": "echoput",
+      "cat": "ye",
+      "area": "cevre",
+      "title": "Dine on Veluwe game at De Echoput",
+      "desc": "The Klosse family opened a tearoom in the royal forests near Apeldoorn in 1955, and it grew into one of the country's best-known game restaurants. Today it has a Grand Bistro and the Michelin-starred Wild Atelier, both built around game from the surrounding woods.",
+      "tip": "Book ahead, especially in the autumn game season; the historic echo well that gave the place its name is right next door.",
+      "q": "De Echoput, Amersfoortseweg 86, Hoog Soeren",
+      "ll": [
+        52.233,
+        5.8777
+      ],
+      "src": [
+        "https://www.echoput.nl/",
+        "https://en.wikivoyage.org/wiki/Apeldoorn"
+      ]
+    },
+    {
+      "id": "deplack",
+      "cat": "ye",
+      "area": "cevre",
+      "title": "Sip local wine at Wijngaard de Plack",
+      "desc": "At the foot of the Reichswald near Groesbeek, a family farm founded in 1845 turned to poultry in 1970 and planted vines in 2006. Its guest restaurant serves Dutch dishes looking out over the hilly countryside.",
+      "tip": "It is open Wednesday, Saturday and Sunday from late morning; Groesbeek has more vineyards on its slopes, so cycle between them.",
+      "q": "Wijngaard de Plack, Ketelstraat 36, Groesbeek",
+      "ll": [
+        51.7743,
+        5.9742
+      ],
+      "src": [
+        "https://en.visitnijmegen.com/locations/4156120877/wijngaard-de-plack"
+      ]
+    },
+    {
+      "id": "zwaantje",
+      "cat": "ye",
+      "area": "cevre",
+      "title": "Warm up by the fire at Herberg 't Zwaantje",
+      "desc": "This inn sits in the woods between Mook and Groesbeek, close to the heath of the Mookerheide. It has a café with an open fire, a terrace facing the trees and a kitchen with regional Dutch dishes.",
+      "tip": "Walk the Mookerheide first and come in for coffee or dinner; it is closed on Mondays.",
+      "q": "Herberg 't Zwaantje, Groesbeekseweg 106, Mook",
+      "ll": [
+        51.7642,
+        5.9072
+      ],
+      "src": [
+        "https://en.visitnijmegen.com/locations/3667900646/herberg-restaurant-t-zwaantje"
+      ]
+    },
+    {
+      "id": "beken",
+      "cat": "ye",
+      "area": "cevre",
+      "title": "Have an organic lunch at Boscafé de Beken",
+      "desc": "Tucked in the green near Renkum, Boscafé de Beken works with organic and fair-trade products, from coffee to bread. When the harvest allows, vegetables come from its own kitchen garden.",
+      "tip": "It makes a good stop on a walk through the brook valleys and estates around Renkum.",
+      "q": "Boscafé de Beken, Nieuwe Keijenbergseweg 174, Renkum",
+      "ll": [
+        51.9871,
+        5.7304
+      ],
+      "src": [
+        "https://www.regioarnhem.com/nl/veluwezoom/artikelen/boscafes"
+      ]
+    },
+    {
+      "id": "carolinahoeve",
+      "cat": "ye",
+      "area": "cevre",
+      "title": "Stop for cake at the Carolinahoeve",
+      "desc": "This farm from 1851 lies in the middle of Veluwezoom National Park, near the Onzalige Bossen and the Hagenau estate. Walkers, cyclists and riders drop in for coffee and cake, a toastie or a drink.",
+      "tip": "Reach it on foot or by bike from De Steeg; it sits on the quiet side of the park, away from the Posbank crowds.",
+      "q": "De Carolinahoeve, De Steeg",
+      "ll": [
+        52.0421,
+        6.0546
+      ],
+      "src": [
+        "https://www.regioarnhem.com/nl/veluwezoom/artikelen/boscafes"
+      ]
+    }
+  ]
+}

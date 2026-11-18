@@ -30,7 +30,7 @@ window.CITIES.leuven = {
     kortenbergabdij: [50.8857, 4.5385], kasteelhorst: [50.9325, 4.8310], tiensetoteman: [50.8077, 4.9372],
     petrushoeve: [50.9230, 4.9560], adeptwinksele: [50.8979, 4.6424], hoftendormaal: [50.9468, 4.6247],
     zoetwater: [50.8229, 4.6610], wijngaardberg: [50.9526, 4.7632], plasrotselaar: [50.9600, 4.7120],
-    kaarskensprocessie: [50.9803, 4.9783], bietenroute: [50.8072, 4.9381]
+    kaarskensprocessie: [50.9803, 4.9783], bietenroute: [50.8072, 4.9381], tervurenpark: [50.8254, 4.5276]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -160,6 +160,9 @@ window.CITIES.leuven = {
       tip: "Arrive before dusk to find a spot along the route around the basilica square.", q: "Basiliek Scherpenheuvel", months: [11], tags: ["free"], src: ["https://en.wikipedia.org/wiki/Basilica_of_Our_Lady_of_Scherpenheuvel"] },
     { id: "bietenroute", cat: "dene", area: "cevre", title: "Cycle from sugar town Tienen to beer village Hoegaarden",
       desc: "The 58 km Bieten & genieten route rolls through open beet fields, sunken lanes and orchards via Linter and Landen, with five food stops on the way.",
-      tip: "Start at the tourist point on Tienen's Grote Markt; go in April when the orchards blossom.", q: "Grote Markt Tienen", src: ["https://toerisme.tienen.be/happen-en-trappen-door-het-hageland"] }
+      tip: "Start at the tourist point on Tienen's Grote Markt; go in April when the orchards blossom.", q: "Grote Markt Tienen", src: ["https://toerisme.tienen.be/happen-en-trappen-door-het-hageland"] },
+    { id: "tervurenpark", cat: "dene", area: "cevre", title: "Stroll the long canals of Tervuren Park",
+      desc: "Behind the AfricaMuseum spreads a former ducal hunting estate of French gardens, long ornamental canals, ponds and woods. The Palace of the Colonies from the 1897 World's Fair and Tom Frantzen's playful Bandundu water fountain are on the way.",
+      tip: "Walk the length of the Grand Canal and back for an easy hour; the Spanish House bistro in the park is handy for a break.", q: "Park van Tervuren", tags: ["free"], src: ["https://nl.wikipedia.org/wiki/Park_van_Tervuren", "https://en.wikivoyage.org/wiki/Tervuren"] }
   ]
 };

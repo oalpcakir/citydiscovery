@@ -1,0 +1,264 @@
+{
+  "new": [
+    {
+      "id": "paleisopdedam", "cat": "gor", "area": "merkez",
+      "title": "Walk across the world map in the Royal Palace on the Dam",
+      "desc": "The palace on the Dam was built from 1648 as Amsterdam's city hall, designed by Jacob van Campen and resting on 13,659 wooden piles. It only became a royal palace in 1808 under Louis Bonaparte, and the king still uses it for state visits and receptions.",
+      "tip": "In the vast Citizens' Hall, look down: maps of the two hemispheres and the night sky are inlaid in the marble floor. The palace closes for royal events, so check the opening days before you go.",
+      "q": "Koninklijk Paleis Amsterdam", "ll": [52.3731, 4.8913],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Royal_Palace_of_Amsterdam", "https://www.paleisamsterdam.nl/en/"]
+    },
+    {
+      "id": "holtkamp", "cat": "ye", "area": "merkez",
+      "title": "Queue for a croquette at Patisserie Holtkamp",
+      "desc": "A pastry shop has stood at Vijzelgracht 15 since 1886, and the Holtkamp family has run it since 1969. The art deco shop measures just 16 square metres, yet its veal and shrimp croquettes are famous across the city, and the cakes and chocolates are just as serious.",
+      "tip": "There is no seating, so take your croquettes to a bench by the canal. Expect a short queue around lunchtime and on Saturdays.",
+      "q": "Patisserie Holtkamp Vijzelgracht 15 Amsterdam", "ll": [52.3617, 4.8918],
+      "src": ["https://www.iamsterdam.com/en/see-and-do/restaurant-and-bars/best-cake-shops-in-amsterdam", "https://www.nhnieuws.nl/nieuws/340596/krokettenlegende-en-banketbakker-cees-holtkamp-geridderd"]
+    },
+    {
+      "id": "rembrandthuis", "cat": "dene", "area": "merkez",
+      "title": "Step into Rembrandt's studio at the Rembrandthuis",
+      "desc": "Rembrandt bought this house on the Jodenbreestraat in 1639 for 13,000 guilders and lived and worked here until bankruptcy forced its sale in 1658. The rooms were refurnished using the inventory drawn up during his bankruptcy, and the museum holds an almost complete set of his etchings.",
+      "tip": "Head upstairs to the light-filled studio and the cabinet of curiosities, and look for the original copper etching plates in the etching cabinet.",
+      "q": "Museum Het Rembrandthuis Jodenbreestraat 4 Amsterdam", "ll": [52.3694, 4.9013],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Rembrandt_House_Museum"]
+    },
+    {
+      "id": "annefrankhuis", "cat": "gor", "area": "jordaan",
+      "title": "Pass the bookcase into the Secret Annex at the Anne Frank House",
+      "desc": "Behind a movable bookcase at Prinsengracht 263, Anne Frank and seven others hid from 1942 until their arrest in 1944. The rooms where she wrote her diary have been a museum since 1960, and they are left empty, as Otto Frank wished.",
+      "tip": "Tickets are only sold online, never at the door. Every Tuesday at 10:00 the tickets for six weeks later are released, and they go fast.",
+      "q": "Anne Frank Huis Prinsengracht 263 Amsterdam", "ll": [52.3752, 4.8841],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Anne_Frank_House", "https://www.annefrank.org/en/museum/tickets/"]
+    },
+    {
+      "id": "westerkerk", "cat": "gor", "area": "jordaan",
+      "title": "Look for Rembrandt's memorial in the Westerkerk",
+      "desc": "Hendrick de Keyser designed this Renaissance church, which opened in 1631. Its 87 metre tower, crowned with the blue imperial crown of Maximilian I, is the tallest church tower in the city, and Rembrandt was buried here in 1669 in a grave nobody can locate any more.",
+      "tip": "Entry is free on weekday afternoons. The tower cannot be climbed for now because of restoration, but its carillon is the only one in Amsterdam that chimes around the clock.",
+      "q": "Westerkerk Amsterdam", "ll": [52.3745, 4.8840],
+      "tags": ["free", "rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Westerkerk", "https://www.westerkerk.nl/bezoek-de-westerkerk-amsterdam/"]
+    },
+    {
+      "id": "papeneiland", "cat": "ye", "area": "jordaan",
+      "title": "Have apple pie at Café 't Papeneiland",
+      "desc": "This brown café has stood on the corner of the Prinsengracht and the Brouwersgracht since 1642. The name, Papists' Island, recalls the Catholics who worshipped in secret nearby, and regulars will tell you about a tunnel that once ran under the canal.",
+      "tip": "Order the apple pie with whipped cream and try to get the window table looking down the Brouwersgracht, one of the prettiest canal views in the city.",
+      "q": "Café 't Papeneiland Prinsengracht 2 Amsterdam", "ll": [52.3805, 4.8880],
+      "src": ["https://papeneiland.nl/"]
+    },
+    {
+      "id": "moeders", "cat": "ye", "area": "jordaan",
+      "title": "Eat stamppot under the mothers' photos at Moeders",
+      "desc": "Moeders, Dutch for mothers, serves the kind of traditional Dutch comfort food mothers cook, such as stamppot. Its walls are covered with framed photos of guests' mothers, and plates are deliberately mismatched.",
+      "tip": "Bring a photo of your own mother and it may end up on the wall. Book ahead for dinner, the place fills up every night.",
+      "q": "Moeders Rozengracht 251 Amsterdam", "ll": [52.3718, 4.8750],
+      "src": ["https://moeders.com/en/contact", "https://moeders.com/uploads/Moeders_Drankkaart_2026_buiten.pdf"]
+    },
+    {
+      "id": "vangoghmuseum", "cat": "gor", "area": "zuid",
+      "title": "Meet the sunflowers at the Van Gogh Museum",
+      "desc": "Since 1973 this museum on the Museumplein has held the world's largest Van Gogh collection: about 200 paintings, 400 drawings and 700 letters. The main building is by Gerrit Rietveld, and the oval wing for exhibitions was added by Kisho Kurokawa in 1999.",
+      "tip": "Buy a timed ticket online in advance. Late afternoon slots tend to be calmer than the mornings.",
+      "q": "Van Gogh Museum Amsterdam", "ll": [52.3584, 4.8811],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Van_Gogh_Museum"]
+    },
+    {
+      "id": "sarphatipark", "cat": "dene", "area": "zuid",
+      "title": "Picnic in the Sarphatipark like a Pijp local",
+      "desc": "This small English-style park in the middle of De Pijp is named after Samuel Sarphati, the doctor and city planner who shaped 19th-century Amsterdam. During the occupation it was renamed Bollandpark because Sarphati was Jewish, and the old name came back in 1945.",
+      "tip": "Pick up cheese, bread and fruit at the Albert Cuyp market two streets away, then claim a patch of grass by the pond.",
+      "q": "Sarphatipark Amsterdam", "ll": [52.3544, 4.8964],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Sarphatipark"]
+    },
+    {
+      "id": "heinekenexperience", "cat": "dene", "area": "zuid",
+      "title": "Tour Heineken's first brewery on the Stadhouderskade",
+      "desc": "Heineken started brewing in this building in 1867 and kept going until 1988, when production moved out of the city. Today the old brewery is an interactive museum over four floors, with the copper brewing kettles, the brewing process and a tasting at the end.",
+      "tip": "Book a time slot online to skip the queue at the door. Weekday mornings are the quietest.",
+      "q": "Heineken Experience Stadhouderskade 78 Amsterdam", "ll": [52.3578, 4.8918],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Heineken_Experience"]
+    },
+    {
+      "id": "loetje", "cat": "ye", "area": "zuid",
+      "title": "Dip white bread in the steak jus at Café Loetje",
+      "desc": "Loetje is the Amsterdam name for a steak served in a pool of buttery jus with soft white bread for mopping it up. The café on the Johannes Vermeerstraat, a short walk behind the Museumplein, is the classic place to order it.",
+      "tip": "Ask for the steak rare and order fries on the side. In summer the terrace on the quiet street is a nice break after the museums.",
+      "q": "Café Loetje Johannes Vermeerstraat 52 Amsterdam", "ll": [52.3544, 4.8843],
+      "src": ["https://www.loetje.nl/en/locations", "https://www.loetje.nl/en/locations/amsterdam-de-pijp"]
+    },
+    {
+      "id": "artis", "cat": "dene", "area": "oost",
+      "title": "Spend a day among animals and old buildings at Artis",
+      "desc": "Founded in 1838, Artis is the oldest zoo in the Netherlands and one of the oldest still running in the world. Besides the animals it has a planetarium, an 1882 aquarium building, Micropia, a museum about microbes, and leafy paths through the Plantage.",
+      "tip": "Go early on a weekday, and save Micropia and the aquarium for when it rains.",
+      "q": "Artis Plantage Kerklaan 38 Amsterdam", "ll": [52.3665, 4.9127],
+      "src": ["https://en.wikipedia.org/wiki/Artis_(zoo)"]
+    },
+    {
+      "id": "hartogs", "cat": "ye", "area": "oost",
+      "title": "Buy wholemeal bread at Hartog's bakery",
+      "desc": "Hartog's has baked bread since 1896 and grinds its own wheat into wholemeal flour, with no additives. Amsterdammers queue on the Wibautstraat for the loaves in paper bags, and the shop keeps its old-fashioned interior.",
+      "tip": "Try the apple and cinnamon buns as well as the bread. Come early on Saturday before the best loaves sell out.",
+      "q": "Hartog's Volkoren Wibautstraat 77 Amsterdam", "ll": [52.3568, 4.9111],
+      "src": ["https://www.volkshotel.nl/blog/hotspots/mireilles-tip-hartogs-bakery"]
+    },
+    {
+      "id": "portugesesynagoge", "cat": "gor", "area": "oost",
+      "title": "See the candlelit Portuguese Synagogue",
+      "desc": "Opened in 1675, this huge synagogue was built for the Sephardic Jews who had fled Spain and Portugal. The main hall has no electricity: two great chandeliers with about 1,000 candles light it, and the floor is still covered in fine sand.",
+      "tip": "One ticket from the Jewish Cultural Quarter covers the synagogue, the Jewish Museum across the road and more, so plan a full afternoon.",
+      "q": "Portugese Synagoge Mr. Visserplein 3 Amsterdam", "ll": [52.3675, 4.9054],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Esnoga"]
+    },
+    {
+      "id": "durgerdam", "cat": "gor", "area": "noord",
+      "title": "Cycle out to the dike village of Durgerdam",
+      "desc": "Durgerdam grew in a bend of the sea dike built after the St. Elisabeth flood of 1421, and its row of dike houses now looks out over the IJmeer. The small building with a clock tower from 1687, De Kapel, served as a school and town hall rather than a church.",
+      "tip": "It is about half an hour by bike from Amsterdam Centraal via the ferry and Schellingwoude. Bring a sandwich and sit on the dike to watch the sailing boats.",
+      "q": "Durgerdam Amsterdam", "ll": [52.3779, 4.9905],
+      "tags": ["free"],
+      "src": ["https://nl.wikipedia.org/wiki/Durgerdam"]
+    },
+    {
+      "id": "ransdorp", "cat": "gor", "area": "noord",
+      "title": "Find the unfinished tower of Ransdorp in the meadows",
+      "desc": "This 32 metre church tower rises over a tiny village in the polders of Amsterdam Noord. It was built between 1502 and 1542, but the money ran out and the spire was never added, which is why it has a flat top.",
+      "tip": "Combine it with Durgerdam on a bike loop through Landelijk Noord. The tower sometimes opens for climbing, for instance on the yearly Open Toren Dag in June.",
+      "q": "Toren van Ransdorp", "ll": [52.3929, 4.9935],
+      "tags": ["free"],
+      "src": ["https://nl.wikipedia.org/wiki/Ransdorp", "https://www.laagholland.com/en/locations/4034660067/ransdorper-tower", "https://www.amsterdamsights.com/events/open-toren-dag.html"]
+    },
+    {
+      "id": "noorderparkbad", "cat": "dene", "area": "noord",
+      "title": "Swim outdoors at the Noorderparkbad",
+      "desc": "On the edge of the Noorderpark, this swimming complex opened in 2015 with an award-winning indoor pool and an outdoor area with pools. It replaced the Floraparkbad of 1975 on the same spot and is a summer favourite of families from Noord.",
+      "tip": "Afterwards walk through the Noorderpark to the cafés along the canal. Check the outdoor pool's season and hours before you go, as they depend on the weather.",
+      "q": "Noorderparkbad Amsterdam", "ll": [52.3976, 4.9187],
+      "months": [6, 7, 8],
+      "src": ["https://nl.wikipedia.org/wiki/Noorderparkbad"]
+    },
+    {
+      "id": "hangar", "cat": "ye", "area": "noord",
+      "title": "Have lunch on the waterside deck at Hangar",
+      "desc": "Hangar is a restaurant in an old round-roofed hangar on the water in the industrial part of Noord, with an open kitchen and a central bar. In summer the big wooden deck over the water fills up, and in winter the hall is warm and cosy.",
+      "tip": "Come for a long lunch on a sunny day and grab a spot at the edge of the deck. It is an easy bike ride east along the water from the ferries at Amsterdam Centraal.",
+      "q": "Hangar Aambeeldstraat 36 Amsterdam", "ll": [52.3837, 4.9309],
+      "src": ["https://www.bartsboekje.com/en/hangar-amsterdam/", "https://www.iamsterdam.com/en/whats-on/calendar/eating-and-drinking/restaurants/hangar"]
+    },
+    {
+      "id": "landmarkt", "cat": "ye", "area": "noord",
+      "title": "Shop for farm food and eat lunch at Landmarkt",
+      "desc": "On the dike at Schellingwoude, Landmarkt is a big fresh food market hall stocked by farmers, growers, butchers, fishmongers and bakers from the region. Its restaurant, Aan Tafel, cooks lunch with what is sold in the hall.",
+      "tip": "The restaurant serves from noon until 17:00, so make it a lunch stop on a bike ride to Durgerdam.",
+      "q": "Landmarkt Schellingwouderdijk 339 Amsterdam", "ll": [52.3809, 4.9683],
+      "src": ["https://www.landmarkt.nl/"]
+    },
+    {
+      "id": "westergasfabriek", "cat": "gor", "area": "bati",
+      "title": "Wander the brick halls of the Westergasfabriek",
+      "desc": "This gasworks was finished in 1885, mostly designed by Isaac Gosschalk in Dutch Neo-Renaissance style, and stopped producing gas in 1967. Its nineteen surviving buildings are national monuments and, since 2003, a cultural park with cinemas, restaurants, studios and festivals.",
+      "tip": "Walk around the round gasholder from 1902 and then cut through the Westerpark. On many Sundays there is a market or event on the grounds.",
+      "q": "Westergasfabriek Amsterdam", "ll": [52.3867, 4.8708],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Westergasfabriek"]
+    },
+    {
+      "id": "tenkatemarkt", "cat": "ye", "area": "bati",
+      "title": "Snack your way down the Ten Katemarkt",
+      "desc": "The Ten Katemarkt is the everyday neighbourhood market of Oud-West, running along the Ten Katestraat from Monday to Saturday. It is smaller and more local than the Albert Cuyp, with stalls for fish, cheese, fruit, vegetables and flowers.",
+      "tip": "Graze from the stalls and finish at De Hallen at the end of the street. The market is closed on Sundays.",
+      "q": "Ten Katemarkt Amsterdam", "ll": [52.3667, 4.8670],
+      "tags": ["free"],
+      "src": ["https://www.tenkatemarkt.nl/"]
+    },
+    {
+      "id": "sloterstrand", "cat": "dene", "area": "bati",
+      "title": "Swim from the beach at the Sloterplas",
+      "desc": "The Sloterplas lake was dug between 1948 and 1956 as the green heart of the new western garden suburbs, and it is up to about 38 metres deep. On its northwest shore lies a sandy beach, named Sloterstrand in 2017.",
+      "tip": "Come on a hot weekday evening when the beach is calmer. People also sail, canoe and run the path around the lake, which hosts the Sloterplasloop every October.",
+      "q": "Sloterstrand Amsterdam", "ll": [52.3717, 4.8230],
+      "tags": ["free"], "months": [6, 7, 8],
+      "src": ["https://nl.wikipedia.org/wiki/Sloterplas"]
+    },
+    {
+      "id": "brettenpad", "cat": "dene", "area": "bati",
+      "title": "Walk or cycle the green Brettenpad out of the city",
+      "desc": "The Brettenpad is a path of about 7.7 kilometres that runs from the Westerpark past Sloterdijk and along the Lange Bretten nature area to the western harbour. From there the route continues towards Halfweg and Haarlem.",
+      "tip": "Start in the Westerpark and look out for herons and reed birds along the ditches. It is a quiet way to leave the city by bike.",
+      "q": "Brettenpad Amsterdam", "ll": [52.3857, 4.8576],
+      "tags": ["free"],
+      "src": ["https://nl.wikipedia.org/wiki/Brettenpad"]
+    },
+    {
+      "id": "kasteelradboud", "cat": "gor", "area": "cevre",
+      "title": "Explore Kasteel Radboud by the Medemblik harbour",
+      "desc": "Count Floris V of Holland built this stronghold around 1288 to keep the rebellious West Frisians in check. The castle on the harbour of Medemblik is now a museum with an audio tour about Floris, his wife Beatrijs and the struggle for West Friesland.",
+      "tip": "The castle is closed on Mondays, Tuesdays and Thursdays. Arrive by the steam tram from Hoorn for a full day out.",
+      "q": "Kasteel Radboud Medemblik", "ll": [52.7724, 5.1131],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Radboud_Castle", "https://www.kasteelradboud.nl/"]
+    },
+    {
+      "id": "marinemuseum", "cat": "gor", "area": "cevre",
+      "title": "Climb aboard a submarine at the Marinemuseum in Den Helder",
+      "desc": "The Dutch navy museum sits on the old Willemsoord naval dockyard in Den Helder. You can go aboard the submarine Tonijn, the ram ship Schorpioen from 1868 and the minesweeper Abraham Crijnssen from 1937.",
+      "tip": "Squeeze through the submarine first, before the queue builds. Combine it with the ferry to Texel, which leaves from Den Helder.",
+      "q": "Marinemuseum Hoofdgracht 3 Den Helder", "ll": [52.9638, 4.7717],
+      "tags": ["rainy day"],
+      "src": ["https://nl.wikipedia.org/wiki/Marinemuseum_(Den_Helder)"]
+    },
+    {
+      "id": "kranenburgh", "cat": "gor", "area": "cevre",
+      "title": "See the Bergen School painters at Museum Kranenburgh",
+      "desc": "In a neoclassical villa from 1882 in the artists' village of Bergen, Museum Kranenburgh shows the Bergense School, with painters such as Charley Toorop and Leo Gestel. A modern wing from 2013 and a sculpture garden surround the old house.",
+      "tip": "Walk on to the village centre afterwards, then cycle through the dunes to Bergen aan Zee for a sunset.",
+      "q": "Museum Kranenburgh Hoflaan 26 Bergen", "ll": [52.6682, 4.6952],
+      "tags": ["rainy day"],
+      "src": ["https://nl.wikipedia.org/wiki/Museum_Kranenburgh"]
+    },
+    {
+      "id": "ijmuidenzeesluis", "cat": "gor", "area": "cevre",
+      "title": "Watch ships in the giant sea lock at IJmuiden",
+      "desc": "The sea lock at IJmuiden, opened in 2022 by King Willem-Alexander, is 500 metres long and 70 metres wide and counts among the largest locks in the world. It lets the biggest ships sail between the North Sea and the port of Amsterdam.",
+      "tip": "Combine it with fish at the IJmuiden harbour. Watching a huge ship being lifted or lowered takes patience, so allow some time.",
+      "q": "Zeesluis IJmuiden", "ll": [52.4664, 4.6129],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/IJmuiden_sea_lock"]
+    },
+    {
+      "id": "wezenspyk", "cat": "ye", "area": "cevre",
+      "title": "Taste Texel sheep cheese at Kaasboerderij Wezenspyk",
+      "desc": "This cheese farm outside Den Burg makes Texel farmhouse cheese from cow, sheep and goat milk, including a beer cheese that has won awards. You can taste in the farm shop and watch the cheese being made the traditional way.",
+      "tip": "Follow the landscape path behind the farm to the small Sheep Museum about Texel sheep farming. Open daily, from 11:00 on Sundays.",
+      "q": "Kaasboerderij Wezenspyk Hoornderweg 29 Den Burg Texel", "ll": [53.0333, 4.7883],
+      "src": ["https://texel.net/en/company/kaasboerderij-wezenspyk/", "https://www.dagjeweg.nl/tip/13547/Kaasboerderij-Wezenspyk"]
+    },
+    {
+      "id": "brinkmann", "cat": "ye", "area": "cevre",
+      "title": "Have coffee behind stained glass at Grand Café Brinkmann",
+      "desc": "The Brinkmann family opened a café in Haarlem in 1879 and has been on the Grote Markt since 1881; the current building dates from 1902. Its stained-glass windows look out on the Grote Kerk across the square.",
+      "tip": "Take a seat on the big terrace in the afternoon sun, or inside by the windows in winter. It is open from breakfast to dinner.",
+      "q": "Grand Café Brinkmann Grote Markt 13 Haarlem", "ll": [52.3817, 4.6362],
+      "src": ["https://monumentenregister.cultureelerfgoed.nl/monumenten/pdf/513376", "https://www.fodors.com/world/europe/netherlands/the-randstad/restaurants/reviews/grand-cafe-brinkmann-4620729"]
+    },
+    {
+      "id": "thijssepark", "cat": "dene", "area": "cevre",
+      "title": "Wander the wild garden of the Thijssepark in Amstelveen",
+      "desc": "The Jac. P. Thijssepark is a heempark: a long, narrow garden planted to show Dutch native plants in their natural settings, from heath to marsh. Work began in 1940 and the park was declared a national monument in 2011.",
+      "tip": "Enter from the Prins Bernhardlaan and follow the winding paths. Spring and early summer bring the most flowers, and the Amsterdamse Bos is right next door.",
+      "q": "Jac. P. Thijssepark Amstelveen", "ll": [52.3164, 4.8431],
+      "tags": ["free"],
+      "src": ["https://nl.wikipedia.org/wiki/Jac._P._Thijssepark"]
+    }
+  ]
+}

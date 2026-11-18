@@ -75,6 +75,9 @@ def match(q, region_words, items):
     # Town names never count as a match ("bell foundry in Saarburg" must not get a photo of Saarburg).
     region_words = region_words | TOWNS
     want = set(norm(q["q"]) + norm(q["title"])) - STOP - region_words
+    # The place's main name: the first distinctive word of its map name. A match must contain it, so a venue does
+    # not get the photo of the street or square it stands on.
+    main = [w for w in norm(q["q"]) if w not in STOP and w not in region_words]
     best = None
     for it in items:
         d = dist(ll, it["ll"])
@@ -82,7 +85,7 @@ def match(q, region_words, items):
             continue
         for lbl in it["labels"]:
             toks = [t for t in norm(lbl) if t not in STOP and t not in region_words]
-            if not toks:
+            if not toks or not main or main[0] not in norm(lbl):
                 continue
             hit = sum(1 for t in toks if t in want)
             score = hit / len(toks)

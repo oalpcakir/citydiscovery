@@ -2,7 +2,7 @@
 (function () {
   "use strict";
 
-  var APP_VERSION = "0.14.0";
+  var APP_VERSION = "0.15.0";
   var STORE_KEY = "citydiscovery.v1";
   var REPO = "https://github.com/oalpcakir/citydiscovery";
   var CATS = {
@@ -66,6 +66,20 @@
   function isDone(q) { var r = rec(q); return !!(r && r.at); }
   function isSaved(q) { return (store.saved || {})[q.key] > 0; }
   function inSeason(q) { return !q.months || q.months.indexOf(new Date().getMonth() + 1) !== -1; }
+  // Days until a seasonal quest's current season ends (its run of consecutive months), or null when it has no season now.
+  function seasonDaysLeft(q) {
+    if (!q.months || q.months.length >= 12 || !inSeason(q)) return null;
+    var now = new Date(), y = now.getFullYear(), m = now.getMonth(); // m: 0-11
+    for (var i = 0; i < 11 && q.months.indexOf(((m + 1) % 12) + 1) !== -1; i++) { m++; if (m > 11) { m = 0; y++; } }
+    var end = new Date(y, m + 1, 1); // the first day after the season
+    return Math.max(1, Math.ceil((end - now) / 86400000));
+  }
+  function leftText(d) { return d <= 1 ? "Last day" : d <= 7 ? "Last " + d + " days" : d + " days left"; }
+  // Seasonal quests you can do right now, the ones ending soonest first.
+  function seasonalNow(list) {
+    return list.filter(function (q) { return seasonDaysLeft(q) !== null && !isDone(q); })
+      .sort(function (a, b) { return seasonDaysLeft(a) - seasonDaysLeft(b); });
+  }
   function ll(q) { var c = cities[q.cid]; return c.coords && c.coords[q.id]; }
   function photoOf(q) { return PHOTOS[q.key] || null; }
   function thumb(url, w) { return url.replace(/\/\d+px-/, "/" + w + "px-"); }
@@ -245,12 +259,19 @@
 
   // ── Quest of the day ───────────────────────────────────────
   // The same quest all day: picked from your home region by the date, skipping ones you finished earlier.
+  // A seasonal quest whose season ends within three weeks gets priority, so it is not missed.
   function dailyQuest() {
     var home = cities[profile().home] || city;
-    var pool = home.quests.filter(function (q) { return inSeason(q) && q.area !== "cevre"; });
-    if (!pool.length) pool = home.quests;
     var seed = 0, s = dayKey() + home.id;
     for (var i = 0; i < s.length; i++) seed = (seed * 31 + s.charCodeAt(i)) >>> 0;
+    // (done today still counts, so the quest of the day stays the same after you finish it)
+    var ending = home.quests.filter(function (q) {
+      var d = seasonDaysLeft(q), r = rec(q);
+      return d !== null && d <= 21 && (!r || !r.at || r.d === dayKey());
+    }).sort(function (a, b) { return a.id < b.id ? -1 : 1; });
+    if (ending.length) return ending[seed % ending.length];
+    var pool = home.quests.filter(function (q) { return inSeason(q) && q.area !== "cevre"; });
+    if (!pool.length) pool = home.quests;
     for (var n = 0; n < pool.length; n++) {
       var q = pool[(seed + n) % pool.length], r = rec(q);
       if (!r || !r.at || r.d === dayKey()) return q;
@@ -496,7 +517,7 @@
   }
   // Tricolours: stripe direction, then the three colours.
   var FLAGS = { NL: ["h", "#AE1C28", "#FFFFFF", "#21468B"], BE: ["v", "#111111", "#FDDA24", "#EF3340"],
-    DE: ["h", "#000000", "#DD0000", "#FFCE00"], LU: ["h", "#EF3340", "#FFFFFF", "#00A3E0"] };
+    DE: ["h", "#000000", "#DD0000", "#FFCE00"], LU: ["h", "#EF3340", "#FFFFFF", "#00A3E0"], FR: ["v", "#002395", "#FFFFFF", "#ED2939"] };
   function flagImage(cc) {
     var W = 76, H = 52, c = document.createElement("canvas");
     c.width = W; c.height = H;
@@ -731,7 +752,43 @@
       map.on("moveend", onMove);
       map.on("click", onMapClick);
       map.on("mousemove", onMapHover);
+      // Right-click (desktop) or long-press (touch) opens the map menu.
+      map.on("contextmenu", function (e) { e.preventDefault(); openCtx(e.lngLat, e.originalEvent); });
+      var press = null;
+      map.on("touchstart", function (e) {
+        clearTimeout(press && press.t);
+        if (e.points.length !== 1) { press = null; return; }
+        var p0 = e.point, ll0 = e.lngLat, oe = e.originalEvent.touches[0];
+        press = { p: p0, t: setTimeout(function () { press = null; if (navigator.vibrate) navigator.vibrate(12); openCtx(ll0, { clientX: oe.clientX, clientY: oe.clientY }); }, 550) };
+      });
+      map.on("touchmove", function (e) { if (press && (Math.abs(e.point.x - press.p.x) > 10 || Math.abs(e.point.y - press.p.y) > 10)) { clearTimeout(press.t); press = null; } });
+      map.on("touchend", function () { if (press) { clearTimeout(press.t); press = null; } });
+      map.on("movestart", function (e) { if (e.originalEvent) closeCtx(); });
     }).catch(function () { clearTimeout(slow); setMapState("failed"); });
+  }
+  // ── Map menu (right-click / long-press) ──
+  function openCtx(lngLat, at) {
+    if (ui.pinMode) return;
+    closeCtx();
+    var id = regionAnyAt(lngLat.lng, lngLat.lat), lat = lngLat.lat.toFixed(5), lng = lngLat.lng.toFixed(5);
+    ui.ctx = [lngLat.lat, lngLat.lng];
+    var where = id ? esc(regionName(id)) + (cities[id] ? "" : " · coming soon") : "Outside our regions";
+    var el = document.createElement("div");
+    el.id = "ctxmenu"; el.className = "ctxmenu glass"; el.setAttribute("role", "menu");
+    el.innerHTML = '<div class="cx-h"><b>' + where + '</b><small>' + lat + ', ' + lng + '</small></div>' +
+      '<button role="menuitem" data-act="ctx-suggest">' + ic("map-pin") + 'Suggest a place here</button>' +
+      (id && cities[id] ? '<button role="menuitem" data-act="ctx-near">' + ic("list-checks") + 'Quests near here</button>' : "") +
+      '<button role="menuitem" data-act="ctx-dir">' + ic("navigation") + 'Directions to here</button>' +
+      '<button role="menuitem" data-act="ctx-copy">' + ic("copy") + 'Copy coordinates</button>' +
+      (map.getZoom() < 15 ? '<button role="menuitem" data-act="ctx-zoom">' + ic("plus") + 'Zoom in here</button>' : "");
+    document.body.appendChild(el);
+    var w = el.offsetWidth, h = el.offsetHeight, x = at && at.clientX !== undefined ? at.clientX : innerWidth / 2, y = at && at.clientY !== undefined ? at.clientY : innerHeight / 2;
+    el.style.left = Math.max(8, Math.min(x, innerWidth - w - 8)) + "px";
+    el.style.top = Math.max(8, Math.min(y, innerHeight - h - 8)) + "px";
+  }
+  function closeCtx() {
+    var el = document.getElementById("ctxmenu");
+    if (el) el.remove();
   }
   function retryMap() {
     if (map && !mapReady) { try { map.remove(); } catch (e) { /* ignore */ } map = null; }
@@ -751,6 +808,11 @@
     return inside;
   }
   function regionAt(lng, lat) {
+    var found = regionAnyAt(lng, lat);
+    return found && cities[found] ? found : null;
+  }
+  // Any region (also "coming soon" ones) that contains the point.
+  function regionAnyAt(lng, lat) {
     var found = null;
     Object.keys(REGIONS).some(function (id) {
       var hit = REGIONS[id].some(function (poly) {
@@ -761,10 +823,11 @@
       if (hit) found = id;
       return hit;
     });
-    return found && cities[found] ? found : null;
+    return found;
   }
+  function regionName(id) { return cities[id] ? cities[id].name : SOON[id] ? SOON[id].name : ""; }
   function onMove() {
-    if (ui.tab !== "map" || !mapReady) return;
+    if (ui.tab !== "map" || !mapReady || ui.pinMode) return;
     // Panning into another region switches to it (not while a quest card is open).
     if (map.getZoom() >= OVERVIEW_ZOOM && !ui.open) {
       var c = map.getCenter(), id = regionAt(c.lng, c.lat);
@@ -773,6 +836,7 @@
   }
   function onMapClick(e) {
     if (!mapReady) return;
+    if (ui.pinMode) { map.easeTo({ center: e.lngLat, duration: 400 }); return; } // tap to move the suggestion pin there
     var badge = map.queryRenderedFeatures(e.point, { layers: ["region-badges"] })[0];
     if (badge) { setCity(badge.properties.id, true); return; }
     var hit = map.queryRenderedFeatures(e.point, { layers: ["pins", "clusters"] })[0];
@@ -884,8 +948,8 @@
       ["pulse", "circle-color"], ["trail-line", "line-color"]].forEach(function (x) { map.setPaintProperty(x[0], x[1], ac); });
   }
   // A ripple on the map where a quest was just completed.
-  function pulseAt(q) {
-    var p = q && ll(q);
+  function pulseAt(q) { // a quest, or a plain [lat, lng]
+    var p = Array.isArray(q) ? q : q && ll(q);
     if (!mapReady || !p || reducedMotion()) return;
     setSrc("pulse", fc([point(p)]));
     var t0 = performance.now(), dur = 1400;
@@ -1071,7 +1135,7 @@
   var $sheet = document.getElementById("sheet");
   var $backdrop = document.getElementById("sheet-backdrop");
   var $toast = document.getElementById("toast");
-  var CC = { Netherlands: "nl", Belgium: "be", Germany: "de", Luxembourg: "lu" };
+  var CC = { Netherlands: "nl", Belgium: "be", Germany: "de", Luxembourg: "lu", France: "fr" };
 
   function ring(pct, big) {
     var C = 2 * Math.PI * 26;
@@ -1144,6 +1208,12 @@
   function renderMapUI() {
     var s = stats(city.quests), p = progress(), pr = profile(), dq = dailyQuest();
     var todo = dq && !isDone(dq);
+    document.body.classList.toggle("pinmode", !!ui.pinMode);
+    if (ui.pinMode) {
+      return mapStateHtml() + '<div class="pm-pin" aria-hidden="true">' + ic("map-pin") + '</div>' +
+        '<div class="pm-bar glass"><div class="pm-t"><b>Suggest a place</b><span>Move the map (or tap) so the pin sits on the spot</span></div>' +
+        '<div class="pm-btns"><button class="btn plain" data-act="rec-cancel">Cancel</button><button class="btn" data-act="rec-here">' + ic("check", "sm") + 'Use this spot</button></div></div>';
+    }
     return '<div class="map-top">' +
       '<div class="topcard glass">' +
         '<button class="plain" data-tab="hero" aria-label="Your hero, level ' + p.level + '">' + avatarHtml(pr, p) + '</button>' +
@@ -1161,9 +1231,11 @@
         '<button class="glass" data-act="tilt" aria-label="Tilt the map">' + ic("box") + '</button>' +
         '<button class="glass" data-act="overview" aria-label="All regions">' + ic("globe") + '</button>' +
         '<button class="glass" data-act="suggest" aria-label="Surprise me">' + ic("dices") + '</button>' +
+        '<button class="glass rec" data-act="rec-start" aria-label="Suggest a place">' + ic("map-pin") + ic("plus", "mini") + '</button>' +
       '</div>' +
       (todo
-        ? '<button class="fab" data-open="' + esc(dq.key) + '">' + ic("star") + '<span><small>Quest of the day · +' + XP.daily + ' XP</small>' + esc(dq.title) + '</span></button>'
+        ? '<button class="fab" data-open="' + esc(dq.key) + '">' + ic("star") + '<span><small>Quest of the day · +' + XP.daily + ' XP' +
+          (seasonDaysLeft(dq) !== null ? ' · ' + leftText(seasonDaysLeft(dq)).toLowerCase() : "") + '</small>' + esc(dq.title) + '</span></button>'
         : '<button class="fab done" data-act="suggest">' + ic("check") + '<span><small>Quest of the day done</small>Surprise me with another</span></button>');
   }
 
@@ -1174,7 +1246,9 @@
     if (o.region) bits.push(esc(c.name));
     bits.push(esc(c.areas[q.area]));
     if (o.dist !== undefined) bits.push(kmText(o.dist));
-    if (q.months) bits.push(inSeason(q) ? "In season" : "Season: " + seasonText(q));
+    var left = seasonDaysLeft(q);
+    if (q.months) bits.push(left !== null ? '<span class="season' + (left <= 14 ? " soon" : "") + '">' + ic("calendar", "sm") + (done ? "In season" : leftText(left)) + '</span>'
+      : inSeason(q) ? "In season" : "Season: " + seasonText(q));
     if (r.photos) bits.push(ic("camera", "sm") + r.photos);
     return '<div class="card ' + q.cat + (done ? " done" : "") + '" data-open="' + esc(q.key) + '" role="button" tabindex="0">' +
       (o.n ? '<span class="num">' + o.n + '</span>' : "") +
@@ -1201,12 +1275,24 @@
         .map(function (x) { return questRow(x[0], { dist: x[1] }); }).join("");
     }
     if (needle) return list.map(function (q) { return questRow(q); }).join("");
-    return Object.keys(city.areas).map(function (a) {
+    return seasonStrip() + Object.keys(city.areas).map(function (a) {
       var part = list.filter(function (q) { return q.area === a; });
       if (!part.length) return "";
       var s = stats(inArea(a));
       return '<div class="ghead"><b>' + esc(city.areas[a]) + '</b><span>' + s.done + ' / ' + s.total + '</span></div>' + part.map(function (q) { return questRow(q); }).join("");
     }).join("");
+  }
+  // Seasonal quests open right now, soonest ending first: "do it before it's gone".
+  function seasonStrip() {
+    var list = seasonalNow(city.quests).filter(function (q) { return ui.cat === "all" || q.cat === ui.cat; });
+    if (!list.length || ui.show === "done") return "";
+    return '<div class="ghead"><b>' + ic("calendar", "sm") + 'In season now</b><span>do them before they end</span></div><div class="sstrip">' +
+      list.slice(0, 10).map(function (q) {
+        var d = seasonDaysLeft(q), ph = photoOf(q);
+        return '<button class="scard ' + q.cat + '" data-open="' + esc(q.key) + '">' +
+          (ph ? '<img alt="" loading="lazy" src="' + esc(thumb(ph[0], 240)) + '">' : '<span class="tile">' + ic(CATS[q.cat].icon) + '</span>') +
+          '<span class="sleft' + (d <= 14 ? " soon" : "") + '">' + leftText(d) + '</span><b>' + esc(q.title) + '</b></button>';
+      }).join("") + '</div>';
   }
   function trailCard(t) {
     var s = trailStats(t);
@@ -1334,7 +1420,7 @@
   function regionRows() {
     var html = "", last = null, cs = countryStats(), soon = soonCounts();
     var soonRow = function (n) {
-      return soon[n] ? '<div class="rsoon">' + ic("calendar", "sm") + soon[n] + ' more ' + (soon[n] === 1 ? "region" : "regions") + ' coming soon</div>' : "";
+      return soon[n] ? '<div class="rsoon">' + ic("calendar", "sm") + soon[n] + (cs[n] ? " more " : " ") + (soon[n] === 1 ? "region" : "regions") + ' coming soon</div>' : "";
     };
     Object.keys(cities).forEach(function (id) {
       var c = cities[id], s = cityStats(id);
@@ -1418,6 +1504,9 @@
       '<h2>Preferences</h2><div class="panel"><div class="setrow"><span>Appearance</span>' +
         seg("data-theme-set", t, [["light", "Light"], ["dark", "Dark"], ["auto", "Auto"]]) + '</div>' +
         switchHtml("sound", store.sound !== false, "Sounds") + switchHtml("lb-toggle", !!store.lb, "Show me on the leaderboard") + '</div>' +
+      '<h2>Suggestions</h2><div class="panel"><button class="btn ghost" data-act="rec-start">' + ic("map-pin") + 'Suggest a place</button>' +
+        '<button class="btn ghost" data-act="rec-mine">' + ic("list-checks") + 'Your suggestions</button>' +
+        (isAdmin() ? '<button class="btn" data-act="rec-review">' + ic("star") + 'Review suggestions</button>' : "") + '</div>' +
       '<h2>Backup</h2><div class="panel"><button class="btn ghost" data-act="export">' + ic("copy") + 'Copy progress to clipboard</button>' +
         '<button class="btn ghost" data-act="import">' + ic("download") + 'Restore from backup</button>' +
         '<p class="note">The backup text holds your progress and profile, not your photos. Signing in backs up everything.</p></div>' +
@@ -1476,7 +1565,7 @@
     ui.open = key;
     var c = cities[q.cid], r = rec(q) || {}, done = isDone(q), ph = photoOf(q), saved = isSaved(q);
     var tags = (q.tags || []).slice();
-    if (q.months) tags.push("season: " + seasonText(q));
+    if (q.months) tags.push(seasonDaysLeft(q) !== null && !done ? "season ends: " + leftText(seasonDaysLeft(q)).toLowerCase() : "season: " + seasonText(q));
     var maps = "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(q.q || q.title + " " + c.name);
     var report = REPO + "/issues/new?title=" + encodeURIComponent("Quest problem: " + q.title) + "&body=" +
       encodeURIComponent("Quest: " + q.key + "\n\nWhat is wrong (closed, moved, wrong pin, wrong info)?\n");
@@ -1740,6 +1829,100 @@
     toast(first ? "Welcome, " + (d.name || "explorer") + "! Your first quest awaits." : "Profile saved");
   }
 
+  // ── Suggest a place: pin it on the map, describe it, send it for review ──
+  function isAdmin() {
+    var C = window.cdCloud;
+    return !!(C && C.user && (window.CD_ADMINS || []).indexOf(C.user.uid) !== -1);
+  }
+  function recStart() {
+    closeSheetSilently();
+    ui.tab = "map"; ui.pinMode = true; render();
+    ensureMap();
+    if (map && map.getZoom() < 13) map.easeTo({ zoom: 14, duration: 700 });
+  }
+  function recCancel() { ui.pinMode = false; render(); }
+  function recHere() {
+    if (!mapReady) { toast("Wait for the map to load"); return; }
+    var c = map.getCenter();
+    ui.recDraft = { ll: [Math.round(c.lat * 1e5) / 1e5, Math.round(c.lng * 1e5) / 1e5], region: regionAnyAt(c.lng, c.lat) || "", cat: (ui.recDraft || {}).cat || "gor" };
+    ui.pinMode = false; render();
+    openRecForm();
+  }
+  function openRecForm() {
+    var d = ui.recDraft, C = window.cdCloud, signed = C && C.user;
+    var where = d.region ? esc(regionName(d.region)) : "Outside our regions";
+    showSheet("recform", X + '<div class="welcome">' + ic("map-pin") + '</div><div class="cel-h">Suggest a place</div>' +
+      '<p class="note center" style="margin-top:-6px">' + where + ' · ' + d.ll[0].toFixed(4) + ', ' + d.ll[1].toFixed(4) +
+        ' · <button class="linkbtn" data-act="rec-start">Move the pin</button></p>' +
+      '<label class="lbl" for="rplace">What is it?</label><input id="rplace" class="inp" maxlength="80" placeholder="Name of the place, dish or event" value="' + esc(d.place || "") + '">' +
+      '<label class="lbl">Kind of quest</label><div class="chips wrap">' + Object.keys(CATS).map(function (k) {
+        return '<button class="chip' + (d.cat === k ? " on" : "") + '" data-act="rec-cat" data-v="' + k + '"><i class="dot" style="background:' + CATS[k].color + '"></i>' + CATS[k].label + '</button>';
+      }).join("") + '</div>' +
+      '<label class="lbl" for="rwhy">Why should people go?</label><textarea id="rwhy" class="inp" rows="4" maxlength="600" placeholder="What makes it special, and a tip if you have one">' + esc(d.why || "") + '</textarea>' +
+      '<p class="note err" id="rerr" hidden></p>' +
+      '<div class="actions">' + (signed ? '<button class="btn" data-act="rec-send">' + ic("share-2") + 'Send suggestion</button>'
+        : '<p class="note center">Sign in to send suggestions, so we can tell you when yours becomes a quest.</p><button class="btn" data-act="rec-auth">Sign in</button>') +
+      '</div><p class="note center">We check every suggestion before it becomes a quest.</p>', true);
+  }
+  function recKeepSafe() { if (ui.recDraft && document.getElementById("rplace")) recKeep(); }
+  function recKeep() {
+    var p = document.getElementById("rplace"), w = document.getElementById("rwhy");
+    if (p) ui.recDraft.place = p.value;
+    if (w) ui.recDraft.why = w.value;
+  }
+  function recSend() {
+    recKeep();
+    var d = ui.recDraft, err = document.getElementById("rerr"), btn = $sheet.querySelector('[data-act="rec-send"]');
+    var fail = function (m) { err.textContent = m; err.hidden = false; };
+    if (!(d.place || "").trim()) return fail("Give the place a name.");
+    if ((d.why || "").trim().length < 10) return fail("Tell us in a sentence why it is worth a visit.");
+    btn.disabled = true;
+    window.cdCloud.suggest({ place: d.place.trim(), cat: d.cat, why: d.why.trim(), ll: d.ll, region: d.region, by: profile().name || "Explorer" })
+      .then(function () {
+        ui.recDraft = null; closeSheet(); chime(false); toast("Thanks! Your suggestion is on its way");
+      }, function (e) { btn.disabled = false; fail(e.message); });
+  }
+  var REC_STATUS = { "new": "Waiting for review", accepted: "Accepted: coming as a quest", rejected: "Not this time", added: "Added as a quest" };
+  function recList(mine) {
+    var C = window.cdCloud;
+    if (!C || !C.user) { openAuth("signin"); return; }
+    closeSheetSilently();
+    showSheet("recs", X + '<div class="cel-h">' + (mine ? "Your suggestions" : "Review suggestions") + '</div><div id="reclist"><div class="note center">Loading…</div></div>', true);
+    (mine ? C.mySuggestions() : C.allSuggestions()).then(function (list) {
+      var box = document.getElementById("reclist");
+      if (!box) return;
+      ui.recs = list;
+      box.innerHTML = !list.length ? '<div class="empty">' + (mine ? "You have not suggested anything yet. Tap the pin button on the map to start." : "No suggestions yet.") + '</div>' :
+        list.map(function (s) {
+          return '<div class="recrow ' + s.cat + '"><div class="grow"><b>' + esc(s.place) + '</b><small>' + esc(CATS[s.cat] ? CATS[s.cat].label : s.cat) + ' · ' +
+            esc(regionName(s.region) || "outside our regions") + (mine ? "" : " · by " + esc(s.by || "Explorer")) + '</small><p>' + esc(s.why) + '</p>' +
+            '<span class="rstat ' + s.status + '">' + esc(REC_STATUS[s.status] || s.status) + '</span></div>' +
+            '<div class="recbtns"><button class="hbtn" data-act="rec-show" data-id="' + esc(s.id) + '" aria-label="Show on map">' + ic("map") + '</button>' +
+            (mine ? "" : '<button class="hbtn" data-act="rec-set" data-id="' + esc(s.id) + '" data-v="accepted" aria-label="Accept">' + ic("check") + '</button>' +
+              '<button class="hbtn" data-act="rec-set" data-id="' + esc(s.id) + '" data-v="rejected" aria-label="Reject">' + ic("x") + '</button>') + '</div></div>';
+        }).join("") + (mine ? "" : '<button class="btn ghost" data-act="rec-export">' + ic("copy") + 'Copy accepted suggestions</button>' +
+          '<p class="note">Paste the copied text to Claude to turn accepted suggestions into quests.</p>');
+    }, function (e) {
+      var box = document.getElementById("reclist");
+      if (box) box.innerHTML = '<div class="note err">' + esc(e.message) + '</div>';
+    });
+  }
+  function recShow(id) {
+    var s = (ui.recs || []).filter(function (x) { return x.id === id; })[0];
+    if (!s) return;
+    closeSheet(); ui.tab = "map"; render();
+    setTimeout(function () { if (map) map.easeTo({ center: [s.ll[1], s.ll[0]], zoom: 16, duration: 900 }); setTimeout(function () { pulseAt(s.ll); }, 950); }, 80);
+  }
+  function recExport() {
+    var acc = (ui.recs || []).filter(function (s) { return s.status === "accepted"; }).map(function (s) {
+      return { id: s.id, place: s.place, cat: s.cat, why: s.why, ll: s.ll, region: s.region, by: s.by };
+    });
+    if (!acc.length) { toast("Accept a suggestion first"); return; }
+    var text = JSON.stringify({ suggestions: acc }, null, 1);
+    if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(text).then(function () { toast("Copied " + acc.length + " suggestions"); }, function () { prompt("Copy this:", text); });
+    else prompt("Copy this:", text);
+  }
+
   // ── Account (cloud save, see cloud.js) ─────────────────────
   function openAuth(mode) {
     var C = window.cdCloud, up = mode === "signup";
@@ -1783,7 +1966,10 @@
       var C = window.cdCloud, box = document.getElementById("account"), board = document.getElementById("board");
       if (box) box.innerHTML = accountHtml();
       if (board) { board.innerHTML = boardHtml(); loadBoard(); }
-      if (C && C.user && !$sheet.hidden && $sheet.classList.contains("auth")) { closeSheet(); toast("Signed in as " + (C.user.email || C.user.name)); }
+      if (C && C.user && !$sheet.hidden && $sheet.classList.contains("auth")) {
+        closeSheet(); toast("Signed in as " + (C.user.email || C.user.name));
+        if (ui.recDraft && ui.recDraft.ll) openRecForm(); // back to the suggestion you were writing
+      }
     },
     photos: { all: allPhotos, put: function (rec2) { return tx("readwrite", function (st) { st.put(rec2); }); } },
     photosChanged: function () { fillMemories(); }
@@ -1831,6 +2017,7 @@
   var SEL = "[data-toggle],[data-open],[data-f],[data-tab],[data-act],[data-city],[data-theme-set],[data-pick],[data-photo-id],[data-qview],[data-trail]";
   document.addEventListener("click", function (e) {
     var t = e.target.closest(SEL);
+    if (document.getElementById("ctxmenu") && !(t && t.closest("#ctxmenu"))) closeCtx();
     if (!t) { if (e.target === $backdrop) closeSheet(); return; }
     var d = t.dataset, res, q;
     if (d.toggle) {
@@ -1860,7 +2047,7 @@
       if (ui.tab === "map" && d.f === "area") flyToArea();
       return;
     }
-    if (d.tab) { closeSheetSilently(); ui.tab = d.tab; render(); window.scrollTo(0, 0); return; }
+    if (d.tab) { closeSheetSilently(); ui.pinMode = false; ui.tab = d.tab; render(); window.scrollTo(0, 0); return; }
     switch (d.act) {
       case "suggest": suggest(); break;
       case "regions": openRegions(); break;
@@ -1905,6 +2092,48 @@
         save(); render();
         if (store.lb && window.cdCloud && !window.cdCloud.user) toast("Sign in to appear on the leaderboard");
         break;
+      case "ctx-suggest": {
+        closeCtx();
+        var cid2 = regionAnyAt(ui.ctx[1], ui.ctx[0]) || "";
+        ui.recDraft = { ll: [Math.round(ui.ctx[0] * 1e5) / 1e5, Math.round(ui.ctx[1] * 1e5) / 1e5], region: cid2, cat: "gor" };
+        openRecForm();
+        break;
+      }
+      case "ctx-near": {
+        closeCtx();
+        var cid3 = regionAt(ui.ctx[1], ui.ctx[0]);
+        ui.pos = ui.ctx.slice(); ui.near = true; ui.q = ""; ui.qview = "all"; ui.tab = "quests";
+        if (cid3 && cid3 !== cityId) setCurrent(cid3); else render();
+        toast("Sorted by distance from that spot");
+        break;
+      }
+      case "ctx-dir": closeCtx(); window.open("https://www.google.com/maps/dir/?api=1&destination=" + ui.ctx[0].toFixed(5) + "," + ui.ctx[1].toFixed(5), "_blank", "noopener"); break;
+      case "ctx-copy": {
+        closeCtx();
+        var txt = ui.ctx[0].toFixed(5) + ", " + ui.ctx[1].toFixed(5);
+        if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(txt).then(function () { toast("Copied " + txt); }, function () { prompt("Copy this:", txt); });
+        else prompt("Copy this:", txt);
+        break;
+      }
+      case "ctx-zoom": closeCtx(); if (map) map.easeTo({ center: [ui.ctx[1], ui.ctx[0]], zoom: Math.max(map.getZoom() + 2, 15), duration: 700 }); break;
+      case "rec-start": recKeepSafe(); recStart(); break;
+      case "rec-cancel": recCancel(); break;
+      case "rec-here": recHere(); break;
+      case "rec-cat":
+        recKeep(); ui.recDraft.cat = d.v;
+        [].forEach.call(t.parentNode.querySelectorAll(".chip"), function (n) { n.classList.toggle("on", n === t); });
+        break;
+      case "rec-send": recSend(); break;
+      case "rec-auth": recKeep(); openAuth("signin"); break;
+      case "rec-mine": recList(true); break;
+      case "rec-review": recList(false); break;
+      case "rec-show": recShow(d.id); break;
+      case "rec-set":
+        t.disabled = true;
+        window.cdCloud.setSuggestion(d.id, d.v).then(function () { toast(d.v === "accepted" ? "Accepted" : "Rejected"); recList(false); },
+          function (e) { t.disabled = false; toast(e.message); });
+        break;
+      case "rec-export": recExport(); break;
       case "auth": openAuth("signin"); break;
       case "auth-switch": openAuth(ui.authMode === "signup" ? "signin" : "signup"); break;
       case "auth-submit": {
@@ -1943,7 +2172,9 @@
   });
   // Android back button / Esc: close an open card, then leave sub-pages (the Android shell calls this).
   window.cdBack = function () {
+    if (document.getElementById("ctxmenu")) { closeCtx(); return true; }
     if (!$sheet.hidden) { closeSheet(); return true; }
+    if (ui.pinMode) { recCancel(); return true; }
     if (ui.tab === "stats" || ui.tab === "settings") { ui.tab = "hero"; render(); return true; }
     if (ui.tab !== "map") { ui.tab = "map"; render(); return true; }
     return false;

@@ -171,7 +171,7 @@
   var $sheet = document.getElementById("sheet");
   var $backdrop = document.getElementById("sheet-backdrop");
   var $toast = document.getElementById("toast");
-  var CC = { Netherlands: "nl", Belgium: "be", Germany: "de", Luxembourg: "lu" };
+  var CC = { Netherlands: "nl", Belgium: "be", Germany: "de", Luxembourg: "lu", France: "fr" };
 
   function ring(pct, big) {
     var C = 2 * Math.PI * 26;
@@ -244,6 +244,12 @@
   function renderMapUI() {
     var s = stats(city.quests), p = progress(), pr = profile(), dq = dailyQuest();
     var todo = dq && !isDone(dq);
+    document.body.classList.toggle("pinmode", !!ui.pinMode);
+    if (ui.pinMode) {
+      return mapStateHtml() + '<div class="pm-pin" aria-hidden="true">' + ic("map-pin") + '</div>' +
+        '<div class="pm-bar glass"><div class="pm-t"><b>Suggest a place</b><span>Move the map (or tap) so the pin sits on the spot</span></div>' +
+        '<div class="pm-btns"><button class="btn plain" data-act="rec-cancel">Cancel</button><button class="btn" data-act="rec-here">' + ic("check", "sm") + 'Use this spot</button></div></div>';
+    }
     return '<div class="map-top">' +
       '<div class="topcard glass">' +
         '<button class="plain" data-tab="hero" aria-label="Your hero, level ' + p.level + '">' + avatarHtml(pr, p) + '</button>' +
@@ -261,9 +267,11 @@
         '<button class="glass" data-act="tilt" aria-label="Tilt the map">' + ic("box") + '</button>' +
         '<button class="glass" data-act="overview" aria-label="All regions">' + ic("globe") + '</button>' +
         '<button class="glass" data-act="suggest" aria-label="Surprise me">' + ic("dices") + '</button>' +
+        '<button class="glass rec" data-act="rec-start" aria-label="Suggest a place">' + ic("map-pin") + ic("plus", "mini") + '</button>' +
       '</div>' +
       (todo
-        ? '<button class="fab" data-open="' + esc(dq.key) + '">' + ic("star") + '<span><small>Quest of the day · +' + XP.daily + ' XP</small>' + esc(dq.title) + '</span></button>'
+        ? '<button class="fab" data-open="' + esc(dq.key) + '">' + ic("star") + '<span><small>Quest of the day · +' + XP.daily + ' XP' +
+          (seasonDaysLeft(dq) !== null ? ' · ' + leftText(seasonDaysLeft(dq)).toLowerCase() : "") + '</small>' + esc(dq.title) + '</span></button>'
         : '<button class="fab done" data-act="suggest">' + ic("check") + '<span><small>Quest of the day done</small>Surprise me with another</span></button>');
   }
 
@@ -274,7 +282,9 @@
     if (o.region) bits.push(esc(c.name));
     bits.push(esc(c.areas[q.area]));
     if (o.dist !== undefined) bits.push(kmText(o.dist));
-    if (q.months) bits.push(inSeason(q) ? "In season" : "Season: " + seasonText(q));
+    var left = seasonDaysLeft(q);
+    if (q.months) bits.push(left !== null ? '<span class="season' + (left <= 14 ? " soon" : "") + '">' + ic("calendar", "sm") + (done ? "In season" : leftText(left)) + '</span>'
+      : inSeason(q) ? "In season" : "Season: " + seasonText(q));
     if (r.photos) bits.push(ic("camera", "sm") + r.photos);
     return '<div class="card ' + q.cat + (done ? " done" : "") + '" data-open="' + esc(q.key) + '" role="button" tabindex="0">' +
       (o.n ? '<span class="num">' + o.n + '</span>' : "") +
@@ -301,12 +311,24 @@
         .map(function (x) { return questRow(x[0], { dist: x[1] }); }).join("");
     }
     if (needle) return list.map(function (q) { return questRow(q); }).join("");
-    return Object.keys(city.areas).map(function (a) {
+    return seasonStrip() + Object.keys(city.areas).map(function (a) {
       var part = list.filter(function (q) { return q.area === a; });
       if (!part.length) return "";
       var s = stats(inArea(a));
       return '<div class="ghead"><b>' + esc(city.areas[a]) + '</b><span>' + s.done + ' / ' + s.total + '</span></div>' + part.map(function (q) { return questRow(q); }).join("");
     }).join("");
+  }
+  // Seasonal quests open right now, soonest ending first: "do it before it's gone".
+  function seasonStrip() {
+    var list = seasonalNow(city.quests).filter(function (q) { return ui.cat === "all" || q.cat === ui.cat; });
+    if (!list.length || ui.show === "done") return "";
+    return '<div class="ghead"><b>' + ic("calendar", "sm") + 'In season now</b><span>do them before they end</span></div><div class="sstrip">' +
+      list.slice(0, 10).map(function (q) {
+        var d = seasonDaysLeft(q), ph = photoOf(q);
+        return '<button class="scard ' + q.cat + '" data-open="' + esc(q.key) + '">' +
+          (ph ? '<img alt="" loading="lazy" src="' + esc(thumb(ph[0], 240)) + '">' : '<span class="tile">' + ic(CATS[q.cat].icon) + '</span>') +
+          '<span class="sleft' + (d <= 14 ? " soon" : "") + '">' + leftText(d) + '</span><b>' + esc(q.title) + '</b></button>';
+      }).join("") + '</div>';
   }
   function trailCard(t) {
     var s = trailStats(t);
@@ -434,7 +456,7 @@
   function regionRows() {
     var html = "", last = null, cs = countryStats(), soon = soonCounts();
     var soonRow = function (n) {
-      return soon[n] ? '<div class="rsoon">' + ic("calendar", "sm") + soon[n] + ' more ' + (soon[n] === 1 ? "region" : "regions") + ' coming soon</div>' : "";
+      return soon[n] ? '<div class="rsoon">' + ic("calendar", "sm") + soon[n] + (cs[n] ? " more " : " ") + (soon[n] === 1 ? "region" : "regions") + ' coming soon</div>' : "";
     };
     Object.keys(cities).forEach(function (id) {
       var c = cities[id], s = cityStats(id);
@@ -518,6 +540,9 @@
       '<h2>Preferences</h2><div class="panel"><div class="setrow"><span>Appearance</span>' +
         seg("data-theme-set", t, [["light", "Light"], ["dark", "Dark"], ["auto", "Auto"]]) + '</div>' +
         switchHtml("sound", store.sound !== false, "Sounds") + switchHtml("lb-toggle", !!store.lb, "Show me on the leaderboard") + '</div>' +
+      '<h2>Suggestions</h2><div class="panel"><button class="btn ghost" data-act="rec-start">' + ic("map-pin") + 'Suggest a place</button>' +
+        '<button class="btn ghost" data-act="rec-mine">' + ic("list-checks") + 'Your suggestions</button>' +
+        (isAdmin() ? '<button class="btn" data-act="rec-review">' + ic("star") + 'Review suggestions</button>' : "") + '</div>' +
       '<h2>Backup</h2><div class="panel"><button class="btn ghost" data-act="export">' + ic("copy") + 'Copy progress to clipboard</button>' +
         '<button class="btn ghost" data-act="import">' + ic("download") + 'Restore from backup</button>' +
         '<p class="note">The backup text holds your progress and profile, not your photos. Signing in backs up everything.</p></div>' +

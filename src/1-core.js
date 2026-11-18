@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  var APP_VERSION = "0.14.0";
+  var APP_VERSION = "0.15.0";
   var STORE_KEY = "citydiscovery.v1";
   var REPO = "https://github.com/oalpcakir/citydiscovery";
   var CATS = {
@@ -65,6 +65,20 @@
   function isDone(q) { var r = rec(q); return !!(r && r.at); }
   function isSaved(q) { return (store.saved || {})[q.key] > 0; }
   function inSeason(q) { return !q.months || q.months.indexOf(new Date().getMonth() + 1) !== -1; }
+  // Days until a seasonal quest's current season ends (its run of consecutive months), or null when it has no season now.
+  function seasonDaysLeft(q) {
+    if (!q.months || q.months.length >= 12 || !inSeason(q)) return null;
+    var now = new Date(), y = now.getFullYear(), m = now.getMonth(); // m: 0-11
+    for (var i = 0; i < 11 && q.months.indexOf(((m + 1) % 12) + 1) !== -1; i++) { m++; if (m > 11) { m = 0; y++; } }
+    var end = new Date(y, m + 1, 1); // the first day after the season
+    return Math.max(1, Math.ceil((end - now) / 86400000));
+  }
+  function leftText(d) { return d <= 1 ? "Last day" : d <= 7 ? "Last " + d + " days" : d + " days left"; }
+  // Seasonal quests you can do right now, the ones ending soonest first.
+  function seasonalNow(list) {
+    return list.filter(function (q) { return seasonDaysLeft(q) !== null && !isDone(q); })
+      .sort(function (a, b) { return seasonDaysLeft(a) - seasonDaysLeft(b); });
+  }
   function ll(q) { var c = cities[q.cid]; return c.coords && c.coords[q.id]; }
   function photoOf(q) { return PHOTOS[q.key] || null; }
   function thumb(url, w) { return url.replace(/\/\d+px-/, "/" + w + "px-"); }
@@ -244,12 +258,19 @@
 
   // ── Quest of the day ───────────────────────────────────────
   // The same quest all day: picked from your home region by the date, skipping ones you finished earlier.
+  // A seasonal quest whose season ends within three weeks gets priority, so it is not missed.
   function dailyQuest() {
     var home = cities[profile().home] || city;
-    var pool = home.quests.filter(function (q) { return inSeason(q) && q.area !== "cevre"; });
-    if (!pool.length) pool = home.quests;
     var seed = 0, s = dayKey() + home.id;
     for (var i = 0; i < s.length; i++) seed = (seed * 31 + s.charCodeAt(i)) >>> 0;
+    // (done today still counts, so the quest of the day stays the same after you finish it)
+    var ending = home.quests.filter(function (q) {
+      var d = seasonDaysLeft(q), r = rec(q);
+      return d !== null && d <= 21 && (!r || !r.at || r.d === dayKey());
+    }).sort(function (a, b) { return a.id < b.id ? -1 : 1; });
+    if (ending.length) return ending[seed % ending.length];
+    var pool = home.quests.filter(function (q) { return inSeason(q) && q.area !== "cevre"; });
+    if (!pool.length) pool = home.quests;
     for (var n = 0; n < pool.length; n++) {
       var q = pool[(seed + n) % pool.length], r = rec(q);
       if (!r || !r.at || r.d === dayKey()) return q;

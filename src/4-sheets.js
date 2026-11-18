@@ -48,7 +48,7 @@
     ui.open = key;
     var c = cities[q.cid], r = rec(q) || {}, done = isDone(q), ph = photoOf(q), saved = isSaved(q);
     var tags = (q.tags || []).slice();
-    if (q.months) tags.push("season: " + seasonText(q));
+    if (q.months) tags.push(seasonDaysLeft(q) !== null && !done ? "season ends: " + leftText(seasonDaysLeft(q)).toLowerCase() : "season: " + seasonText(q));
     var maps = "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(q.q || q.title + " " + c.name);
     var report = REPO + "/issues/new?title=" + encodeURIComponent("Quest problem: " + q.title) + "&body=" +
       encodeURIComponent("Quest: " + q.key + "\n\nWhat is wrong (closed, moved, wrong pin, wrong info)?\n");
@@ -312,6 +312,100 @@
     toast(first ? "Welcome, " + (d.name || "explorer") + "! Your first quest awaits." : "Profile saved");
   }
 
+  // ── Suggest a place: pin it on the map, describe it, send it for review ──
+  function isAdmin() {
+    var C = window.cdCloud;
+    return !!(C && C.user && (window.CD_ADMINS || []).indexOf(C.user.uid) !== -1);
+  }
+  function recStart() {
+    closeSheetSilently();
+    ui.tab = "map"; ui.pinMode = true; render();
+    ensureMap();
+    if (map && map.getZoom() < 13) map.easeTo({ zoom: 14, duration: 700 });
+  }
+  function recCancel() { ui.pinMode = false; render(); }
+  function recHere() {
+    if (!mapReady) { toast("Wait for the map to load"); return; }
+    var c = map.getCenter();
+    ui.recDraft = { ll: [Math.round(c.lat * 1e5) / 1e5, Math.round(c.lng * 1e5) / 1e5], region: regionAnyAt(c.lng, c.lat) || "", cat: (ui.recDraft || {}).cat || "gor" };
+    ui.pinMode = false; render();
+    openRecForm();
+  }
+  function openRecForm() {
+    var d = ui.recDraft, C = window.cdCloud, signed = C && C.user;
+    var where = d.region ? esc(regionName(d.region)) : "Outside our regions";
+    showSheet("recform", X + '<div class="welcome">' + ic("map-pin") + '</div><div class="cel-h">Suggest a place</div>' +
+      '<p class="note center" style="margin-top:-6px">' + where + ' · ' + d.ll[0].toFixed(4) + ', ' + d.ll[1].toFixed(4) +
+        ' · <button class="linkbtn" data-act="rec-start">Move the pin</button></p>' +
+      '<label class="lbl" for="rplace">What is it?</label><input id="rplace" class="inp" maxlength="80" placeholder="Name of the place, dish or event" value="' + esc(d.place || "") + '">' +
+      '<label class="lbl">Kind of quest</label><div class="chips wrap">' + Object.keys(CATS).map(function (k) {
+        return '<button class="chip' + (d.cat === k ? " on" : "") + '" data-act="rec-cat" data-v="' + k + '"><i class="dot" style="background:' + CATS[k].color + '"></i>' + CATS[k].label + '</button>';
+      }).join("") + '</div>' +
+      '<label class="lbl" for="rwhy">Why should people go?</label><textarea id="rwhy" class="inp" rows="4" maxlength="600" placeholder="What makes it special, and a tip if you have one">' + esc(d.why || "") + '</textarea>' +
+      '<p class="note err" id="rerr" hidden></p>' +
+      '<div class="actions">' + (signed ? '<button class="btn" data-act="rec-send">' + ic("share-2") + 'Send suggestion</button>'
+        : '<p class="note center">Sign in to send suggestions, so we can tell you when yours becomes a quest.</p><button class="btn" data-act="rec-auth">Sign in</button>') +
+      '</div><p class="note center">We check every suggestion before it becomes a quest.</p>', true);
+  }
+  function recKeepSafe() { if (ui.recDraft && document.getElementById("rplace")) recKeep(); }
+  function recKeep() {
+    var p = document.getElementById("rplace"), w = document.getElementById("rwhy");
+    if (p) ui.recDraft.place = p.value;
+    if (w) ui.recDraft.why = w.value;
+  }
+  function recSend() {
+    recKeep();
+    var d = ui.recDraft, err = document.getElementById("rerr"), btn = $sheet.querySelector('[data-act="rec-send"]');
+    var fail = function (m) { err.textContent = m; err.hidden = false; };
+    if (!(d.place || "").trim()) return fail("Give the place a name.");
+    if ((d.why || "").trim().length < 10) return fail("Tell us in a sentence why it is worth a visit.");
+    btn.disabled = true;
+    window.cdCloud.suggest({ place: d.place.trim(), cat: d.cat, why: d.why.trim(), ll: d.ll, region: d.region, by: profile().name || "Explorer" })
+      .then(function () {
+        ui.recDraft = null; closeSheet(); chime(false); toast("Thanks! Your suggestion is on its way");
+      }, function (e) { btn.disabled = false; fail(e.message); });
+  }
+  var REC_STATUS = { "new": "Waiting for review", accepted: "Accepted: coming as a quest", rejected: "Not this time", added: "Added as a quest" };
+  function recList(mine) {
+    var C = window.cdCloud;
+    if (!C || !C.user) { openAuth("signin"); return; }
+    closeSheetSilently();
+    showSheet("recs", X + '<div class="cel-h">' + (mine ? "Your suggestions" : "Review suggestions") + '</div><div id="reclist"><div class="note center">Loading…</div></div>', true);
+    (mine ? C.mySuggestions() : C.allSuggestions()).then(function (list) {
+      var box = document.getElementById("reclist");
+      if (!box) return;
+      ui.recs = list;
+      box.innerHTML = !list.length ? '<div class="empty">' + (mine ? "You have not suggested anything yet. Tap the pin button on the map to start." : "No suggestions yet.") + '</div>' :
+        list.map(function (s) {
+          return '<div class="recrow ' + s.cat + '"><div class="grow"><b>' + esc(s.place) + '</b><small>' + esc(CATS[s.cat] ? CATS[s.cat].label : s.cat) + ' · ' +
+            esc(regionName(s.region) || "outside our regions") + (mine ? "" : " · by " + esc(s.by || "Explorer")) + '</small><p>' + esc(s.why) + '</p>' +
+            '<span class="rstat ' + s.status + '">' + esc(REC_STATUS[s.status] || s.status) + '</span></div>' +
+            '<div class="recbtns"><button class="hbtn" data-act="rec-show" data-id="' + esc(s.id) + '" aria-label="Show on map">' + ic("map") + '</button>' +
+            (mine ? "" : '<button class="hbtn" data-act="rec-set" data-id="' + esc(s.id) + '" data-v="accepted" aria-label="Accept">' + ic("check") + '</button>' +
+              '<button class="hbtn" data-act="rec-set" data-id="' + esc(s.id) + '" data-v="rejected" aria-label="Reject">' + ic("x") + '</button>') + '</div></div>';
+        }).join("") + (mine ? "" : '<button class="btn ghost" data-act="rec-export">' + ic("copy") + 'Copy accepted suggestions</button>' +
+          '<p class="note">Paste the copied text to Claude to turn accepted suggestions into quests.</p>');
+    }, function (e) {
+      var box = document.getElementById("reclist");
+      if (box) box.innerHTML = '<div class="note err">' + esc(e.message) + '</div>';
+    });
+  }
+  function recShow(id) {
+    var s = (ui.recs || []).filter(function (x) { return x.id === id; })[0];
+    if (!s) return;
+    closeSheet(); ui.tab = "map"; render();
+    setTimeout(function () { if (map) map.easeTo({ center: [s.ll[1], s.ll[0]], zoom: 16, duration: 900 }); setTimeout(function () { pulseAt(s.ll); }, 950); }, 80);
+  }
+  function recExport() {
+    var acc = (ui.recs || []).filter(function (s) { return s.status === "accepted"; }).map(function (s) {
+      return { id: s.id, place: s.place, cat: s.cat, why: s.why, ll: s.ll, region: s.region, by: s.by };
+    });
+    if (!acc.length) { toast("Accept a suggestion first"); return; }
+    var text = JSON.stringify({ suggestions: acc }, null, 1);
+    if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(text).then(function () { toast("Copied " + acc.length + " suggestions"); }, function () { prompt("Copy this:", text); });
+    else prompt("Copy this:", text);
+  }
+
   // ── Account (cloud save, see cloud.js) ─────────────────────
   function openAuth(mode) {
     var C = window.cdCloud, up = mode === "signup";
@@ -355,7 +449,10 @@
       var C = window.cdCloud, box = document.getElementById("account"), board = document.getElementById("board");
       if (box) box.innerHTML = accountHtml();
       if (board) { board.innerHTML = boardHtml(); loadBoard(); }
-      if (C && C.user && !$sheet.hidden && $sheet.classList.contains("auth")) { closeSheet(); toast("Signed in as " + (C.user.email || C.user.name)); }
+      if (C && C.user && !$sheet.hidden && $sheet.classList.contains("auth")) {
+        closeSheet(); toast("Signed in as " + (C.user.email || C.user.name));
+        if (ui.recDraft && ui.recDraft.ll) openRecForm(); // back to the suggestion you were writing
+      }
     },
     photos: { all: allPhotos, put: function (rec2) { return tx("readwrite", function (st) { st.put(rec2); }); } },
     photosChanged: function () { fillMemories(); }
@@ -403,6 +500,7 @@
   var SEL = "[data-toggle],[data-open],[data-f],[data-tab],[data-act],[data-city],[data-theme-set],[data-pick],[data-photo-id],[data-qview],[data-trail]";
   document.addEventListener("click", function (e) {
     var t = e.target.closest(SEL);
+    if (document.getElementById("ctxmenu") && !(t && t.closest("#ctxmenu"))) closeCtx();
     if (!t) { if (e.target === $backdrop) closeSheet(); return; }
     var d = t.dataset, res, q;
     if (d.toggle) {
@@ -432,7 +530,7 @@
       if (ui.tab === "map" && d.f === "area") flyToArea();
       return;
     }
-    if (d.tab) { closeSheetSilently(); ui.tab = d.tab; render(); window.scrollTo(0, 0); return; }
+    if (d.tab) { closeSheetSilently(); ui.pinMode = false; ui.tab = d.tab; render(); window.scrollTo(0, 0); return; }
     switch (d.act) {
       case "suggest": suggest(); break;
       case "regions": openRegions(); break;
@@ -477,6 +575,48 @@
         save(); render();
         if (store.lb && window.cdCloud && !window.cdCloud.user) toast("Sign in to appear on the leaderboard");
         break;
+      case "ctx-suggest": {
+        closeCtx();
+        var cid2 = regionAnyAt(ui.ctx[1], ui.ctx[0]) || "";
+        ui.recDraft = { ll: [Math.round(ui.ctx[0] * 1e5) / 1e5, Math.round(ui.ctx[1] * 1e5) / 1e5], region: cid2, cat: "gor" };
+        openRecForm();
+        break;
+      }
+      case "ctx-near": {
+        closeCtx();
+        var cid3 = regionAt(ui.ctx[1], ui.ctx[0]);
+        ui.pos = ui.ctx.slice(); ui.near = true; ui.q = ""; ui.qview = "all"; ui.tab = "quests";
+        if (cid3 && cid3 !== cityId) setCurrent(cid3); else render();
+        toast("Sorted by distance from that spot");
+        break;
+      }
+      case "ctx-dir": closeCtx(); window.open("https://www.google.com/maps/dir/?api=1&destination=" + ui.ctx[0].toFixed(5) + "," + ui.ctx[1].toFixed(5), "_blank", "noopener"); break;
+      case "ctx-copy": {
+        closeCtx();
+        var txt = ui.ctx[0].toFixed(5) + ", " + ui.ctx[1].toFixed(5);
+        if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(txt).then(function () { toast("Copied " + txt); }, function () { prompt("Copy this:", txt); });
+        else prompt("Copy this:", txt);
+        break;
+      }
+      case "ctx-zoom": closeCtx(); if (map) map.easeTo({ center: [ui.ctx[1], ui.ctx[0]], zoom: Math.max(map.getZoom() + 2, 15), duration: 700 }); break;
+      case "rec-start": recKeepSafe(); recStart(); break;
+      case "rec-cancel": recCancel(); break;
+      case "rec-here": recHere(); break;
+      case "rec-cat":
+        recKeep(); ui.recDraft.cat = d.v;
+        [].forEach.call(t.parentNode.querySelectorAll(".chip"), function (n) { n.classList.toggle("on", n === t); });
+        break;
+      case "rec-send": recSend(); break;
+      case "rec-auth": recKeep(); openAuth("signin"); break;
+      case "rec-mine": recList(true); break;
+      case "rec-review": recList(false); break;
+      case "rec-show": recShow(d.id); break;
+      case "rec-set":
+        t.disabled = true;
+        window.cdCloud.setSuggestion(d.id, d.v).then(function () { toast(d.v === "accepted" ? "Accepted" : "Rejected"); recList(false); },
+          function (e) { t.disabled = false; toast(e.message); });
+        break;
+      case "rec-export": recExport(); break;
       case "auth": openAuth("signin"); break;
       case "auth-switch": openAuth(ui.authMode === "signup" ? "signin" : "signup"); break;
       case "auth-submit": {
@@ -515,7 +655,9 @@
   });
   // Android back button / Esc: close an open card, then leave sub-pages (the Android shell calls this).
   window.cdBack = function () {
+    if (document.getElementById("ctxmenu")) { closeCtx(); return true; }
     if (!$sheet.hidden) { closeSheet(); return true; }
+    if (ui.pinMode) { recCancel(); return true; }
     if (ui.tab === "stats" || ui.tab === "settings") { ui.tab = "hero"; render(); return true; }
     if (ui.tab !== "map") { ui.tab = "map"; render(); return true; }
     return false;

@@ -134,7 +134,7 @@
   }
   // Tricolours: stripe direction, then the three colours.
   var FLAGS = { NL: ["h", "#AE1C28", "#FFFFFF", "#21468B"], BE: ["v", "#111111", "#FDDA24", "#EF3340"],
-    DE: ["h", "#000000", "#DD0000", "#FFCE00"], LU: ["h", "#EF3340", "#FFFFFF", "#00A3E0"] };
+    DE: ["h", "#000000", "#DD0000", "#FFCE00"], LU: ["h", "#EF3340", "#FFFFFF", "#00A3E0"], FR: ["v", "#002395", "#FFFFFF", "#ED2939"] };
   function flagImage(cc) {
     var W = 76, H = 52, c = document.createElement("canvas");
     c.width = W; c.height = H;
@@ -369,7 +369,43 @@
       map.on("moveend", onMove);
       map.on("click", onMapClick);
       map.on("mousemove", onMapHover);
+      // Right-click (desktop) or long-press (touch) opens the map menu.
+      map.on("contextmenu", function (e) { e.preventDefault(); openCtx(e.lngLat, e.originalEvent); });
+      var press = null;
+      map.on("touchstart", function (e) {
+        clearTimeout(press && press.t);
+        if (e.points.length !== 1) { press = null; return; }
+        var p0 = e.point, ll0 = e.lngLat, oe = e.originalEvent.touches[0];
+        press = { p: p0, t: setTimeout(function () { press = null; if (navigator.vibrate) navigator.vibrate(12); openCtx(ll0, { clientX: oe.clientX, clientY: oe.clientY }); }, 550) };
+      });
+      map.on("touchmove", function (e) { if (press && (Math.abs(e.point.x - press.p.x) > 10 || Math.abs(e.point.y - press.p.y) > 10)) { clearTimeout(press.t); press = null; } });
+      map.on("touchend", function () { if (press) { clearTimeout(press.t); press = null; } });
+      map.on("movestart", function (e) { if (e.originalEvent) closeCtx(); });
     }).catch(function () { clearTimeout(slow); setMapState("failed"); });
+  }
+  // ── Map menu (right-click / long-press) ──
+  function openCtx(lngLat, at) {
+    if (ui.pinMode) return;
+    closeCtx();
+    var id = regionAnyAt(lngLat.lng, lngLat.lat), lat = lngLat.lat.toFixed(5), lng = lngLat.lng.toFixed(5);
+    ui.ctx = [lngLat.lat, lngLat.lng];
+    var where = id ? esc(regionName(id)) + (cities[id] ? "" : " · coming soon") : "Outside our regions";
+    var el = document.createElement("div");
+    el.id = "ctxmenu"; el.className = "ctxmenu glass"; el.setAttribute("role", "menu");
+    el.innerHTML = '<div class="cx-h"><b>' + where + '</b><small>' + lat + ', ' + lng + '</small></div>' +
+      '<button role="menuitem" data-act="ctx-suggest">' + ic("map-pin") + 'Suggest a place here</button>' +
+      (id && cities[id] ? '<button role="menuitem" data-act="ctx-near">' + ic("list-checks") + 'Quests near here</button>' : "") +
+      '<button role="menuitem" data-act="ctx-dir">' + ic("navigation") + 'Directions to here</button>' +
+      '<button role="menuitem" data-act="ctx-copy">' + ic("copy") + 'Copy coordinates</button>' +
+      (map.getZoom() < 15 ? '<button role="menuitem" data-act="ctx-zoom">' + ic("plus") + 'Zoom in here</button>' : "");
+    document.body.appendChild(el);
+    var w = el.offsetWidth, h = el.offsetHeight, x = at && at.clientX !== undefined ? at.clientX : innerWidth / 2, y = at && at.clientY !== undefined ? at.clientY : innerHeight / 2;
+    el.style.left = Math.max(8, Math.min(x, innerWidth - w - 8)) + "px";
+    el.style.top = Math.max(8, Math.min(y, innerHeight - h - 8)) + "px";
+  }
+  function closeCtx() {
+    var el = document.getElementById("ctxmenu");
+    if (el) el.remove();
   }
   function retryMap() {
     if (map && !mapReady) { try { map.remove(); } catch (e) { /* ignore */ } map = null; }
@@ -389,6 +425,11 @@
     return inside;
   }
   function regionAt(lng, lat) {
+    var found = regionAnyAt(lng, lat);
+    return found && cities[found] ? found : null;
+  }
+  // Any region (also "coming soon" ones) that contains the point.
+  function regionAnyAt(lng, lat) {
     var found = null;
     Object.keys(REGIONS).some(function (id) {
       var hit = REGIONS[id].some(function (poly) {
@@ -399,10 +440,11 @@
       if (hit) found = id;
       return hit;
     });
-    return found && cities[found] ? found : null;
+    return found;
   }
+  function regionName(id) { return cities[id] ? cities[id].name : SOON[id] ? SOON[id].name : ""; }
   function onMove() {
-    if (ui.tab !== "map" || !mapReady) return;
+    if (ui.tab !== "map" || !mapReady || ui.pinMode) return;
     // Panning into another region switches to it (not while a quest card is open).
     if (map.getZoom() >= OVERVIEW_ZOOM && !ui.open) {
       var c = map.getCenter(), id = regionAt(c.lng, c.lat);
@@ -411,6 +453,7 @@
   }
   function onMapClick(e) {
     if (!mapReady) return;
+    if (ui.pinMode) { map.easeTo({ center: e.lngLat, duration: 400 }); return; } // tap to move the suggestion pin there
     var badge = map.queryRenderedFeatures(e.point, { layers: ["region-badges"] })[0];
     if (badge) { setCity(badge.properties.id, true); return; }
     var hit = map.queryRenderedFeatures(e.point, { layers: ["pins", "clusters"] })[0];
@@ -522,8 +565,8 @@
       ["pulse", "circle-color"], ["trail-line", "line-color"]].forEach(function (x) { map.setPaintProperty(x[0], x[1], ac); });
   }
   // A ripple on the map where a quest was just completed.
-  function pulseAt(q) {
-    var p = q && ll(q);
+  function pulseAt(q) { // a quest, or a plain [lat, lng]
+    var p = Array.isArray(q) ? q : q && ll(q);
     if (!mapReady || !p || reducedMotion()) return;
     setSrc("pulse", fc([point(p)]));
     var t0 = performance.now(), dur = 1400;

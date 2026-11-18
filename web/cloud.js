@@ -12,7 +12,8 @@
     available: !!(cfg && cfg.apiKey), ready: false, user: null, busy: false, lastSync: 0, error: "", board: null, boardError: "",
     googleAvailable: !inShell, // Google blocks its sign-in inside embedded Android WebViews
     signIn: signIn, signUp: signUp, resetPassword: resetPassword, signInGoogle: signInGoogle, signOut: signOut,
-    syncNow: syncNow, onLocalChange: onLocalChange, photoAdded: photoAdded, photoDeleted: photoDeleted, loadBoard: loadBoard
+    syncNow: syncNow, onLocalChange: onLocalChange, photoAdded: photoAdded, photoDeleted: photoDeleted, loadBoard: loadBoard,
+    suggest: suggest, mySuggestions: mySuggestions, allSuggestions: allSuggestions, setSuggestion: setSuggestion
   };
   if (!api.available) return;
 
@@ -129,6 +130,29 @@
       api.boardError = "";
       changed();
     }).catch(function (e) { api.boardError = friendly(e); api.board = []; changed(); });
+  }
+
+  // ── Place suggestions (reviewed by the admins in CD_ADMINS) ─
+  // suggestions/{id} { uid, by, place, cat, why, ll: [lat, lng], region, status: new|accepted|rejected|added, created }
+  function suggest(s) {
+    return wrap(function () {
+      if (!api.user) throw new Error("Sign in first.");
+      return fs.collection("suggestions").add({ uid: api.user.uid, by: s.by, place: s.place, cat: s.cat, why: s.why, ll: s.ll,
+        region: s.region || "", status: "new", created: firebase.firestore.FieldValue.serverTimestamp() });
+    });
+  }
+  function listOf(snap) {
+    return snap.docs.map(function (d) { var v = d.data(); v.id = d.id; v.at = v.created && v.created.toMillis ? v.created.toMillis() : 0; return v; })
+      .sort(function (a, b) { return (a.status === "new" ? 0 : 1) - (b.status === "new" ? 0 : 1) || b.at - a.at; });
+  }
+  function mySuggestions() {
+    return wrap(function () { return fs.collection("suggestions").where("uid", "==", api.user.uid).get().then(listOf); });
+  }
+  function allSuggestions() {
+    return wrap(function () { return fs.collection("suggestions").get().then(listOf); });
+  }
+  function setSuggestion(id, status) {
+    return wrap(function () { return fs.collection("suggestions").doc(id).update({ status: status }); });
   }
 
   // ── Photos: compressed copies, one document each ─────────

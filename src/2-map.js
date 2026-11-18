@@ -250,8 +250,8 @@
   // ── Walking routes for trails ──
   // The real path along streets comes from the OpenStreetMap foot router (FOSSGIS) the first time a trail is shown,
   // and is kept on this device. Until then a trail is drawn with straight lines and its distance is an estimate.
-  var ROUTE_KEY = "citydisco.routes.v1", routes = {}, routePending = {};
-  try { routes = JSON.parse(localStorage.getItem(ROUTE_KEY) || "{}") || {}; } catch (e) { routes = {}; }
+  var ROUTE_KEY = "citydisco.routes.v1", routes = Object.assign({}, window.TRAIL_ROUTES || {}), routePending = {};
+  try { Object.assign(routes, JSON.parse(localStorage.getItem(ROUTE_KEY) || "{}") || {}); } catch (e) { /* ignore */ }
   function routeSig(t) { return t.quests.map(function (q) { return ll(q)[0].toFixed(4) + "," + ll(q)[1].toFixed(4); }).join(";"); }
   function applyRoute(t) {
     var r = routes[routeSig(t)];

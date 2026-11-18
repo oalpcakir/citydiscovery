@@ -2,7 +2,7 @@
 (function () {
   "use strict";
 
-  var APP_VERSION = "0.19.0";
+  var APP_VERSION = "0.19.1";
   var STORE_KEY = "citydiscovery.v1";
   var REPO = "https://github.com/oalpcakir/citydiscovery";
   var CATS = {
@@ -737,8 +737,8 @@
   // ── Walking routes for trails ──
   // The real path along streets comes from the OpenStreetMap foot router (FOSSGIS) the first time a trail is shown,
   // and is kept on this device. Until then a trail is drawn with straight lines and its distance is an estimate.
-  var ROUTE_KEY = "citydisco.routes.v1", routes = {}, routePending = {};
-  try { routes = JSON.parse(localStorage.getItem(ROUTE_KEY) || "{}") || {}; } catch (e) { routes = {}; }
+  var ROUTE_KEY = "citydisco.routes.v1", routes = Object.assign({}, window.TRAIL_ROUTES || {}), routePending = {};
+  try { Object.assign(routes, JSON.parse(localStorage.getItem(ROUTE_KEY) || "{}") || {}); } catch (e) { /* ignore */ }
   function routeSig(t) { return t.quests.map(function (q) { return ll(q)[0].toFixed(4) + "," + ll(q)[1].toFixed(4); }).join(";"); }
   function applyRoute(t) {
     var r = routes[routeSig(t)];
@@ -2259,12 +2259,13 @@
       if (!blob) return;
       ui.shareBlob = blob;
       var url = URL.createObjectURL(blob);
-      var can = !!(navigator.canShare && navigator.canShare({ files: [new File([blob], "city-disco.png", { type: "image/png" })] }));
+      var hasNativeShare = !!(window.CityDiscoAndroid && window.CityDiscoAndroid.shareImage);
+      var can = hasNativeShare || !!(navigator.canShare && navigator.canShare({ files: [new File([blob], "city-disco.png", { type: "image/png" })] }));
       closeSheetSilently();
       showSheet("share", X + '<div class="cel-h">Your explorer card</div><img class="lb sharecard" src="' + url + '" alt="Your explorer card">' +
         '<div class="actions">' + (can ? '<button class="btn" data-act="share-send">' + ic("share-2") + 'Share</button>' : "") +
         '<a class="btn ghost" href="' + url + '" download="city-disco.png">' + ic("download") + 'Save image</a>' +
-        '<p class="note center">On Android, press and hold the picture to save or share it.</p></div>', true);
+        (hasNativeShare ? '' : '<p class="note center">On Android, press and hold the picture to save or share it.</p>') + '</div>', true);
     }, "image/png");
   }
 
@@ -2660,7 +2661,11 @@
         break;
       case "share": shareCard(); break;
       case "share-send":
-        if (ui.shareBlob && navigator.share) {
+        if (ui.shareBlob && window.CityDiscoAndroid && window.CityDiscoAndroid.shareImage) {
+          var rd = new FileReader();
+          rd.onload = function () { window.CityDiscoAndroid.shareImage(rd.result); };
+          rd.readAsDataURL(ui.shareBlob);
+        } else if (ui.shareBlob && navigator.share) {
           navigator.share({ files: [new File([ui.shareBlob], "city-disco.png", { type: "image/png" })], title: "My City Disco explorer" }).catch(function () {});
         }
         break;

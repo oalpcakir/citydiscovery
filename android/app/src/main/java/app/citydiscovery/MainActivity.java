@@ -6,6 +6,8 @@ import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.net.Uri;
 import android.os.Bundle;
+import android.util.Base64;
+import android.webkit.JavascriptInterface;
 import android.webkit.GeolocationPermissions;
 import android.webkit.ValueCallback;
 import android.webkit.WebChromeClient;
@@ -92,6 +94,7 @@ public class MainActivity extends Activity {
             }
         });
         web.setWebViewClient(new Client());
+        web.addJavascriptInterface(new ShareBridge(), "CityDiscoAndroid");
         setContentView(web);
 
         if (savedInstanceState == null) web.loadUrl(BASE);
@@ -263,5 +266,30 @@ public class MainActivity extends Activity {
         if (p.endsWith(".jpg") || p.endsWith(".jpeg")) return "image/jpeg";
         if (p.endsWith(".webp")) return "image/webp";
         return "application/octet-stream";
+    }
+
+    private class ShareBridge {
+        @JavascriptInterface
+        public void shareImage(final String base64DataUrl) {
+            runOnUiThread(() -> {
+                try {
+                    String pureBase64 = base64DataUrl.contains(",") ? base64DataUrl.split(",", 2)[1] : base64DataUrl;
+                    byte[] bytes = Base64.decode(pureBase64, Base64.DEFAULT);
+                    File shareDir = new File(getCacheDir(), "shared");
+                    shareDir.mkdirs();
+                    File imgFile = new File(shareDir, "city-disco-card.png");
+                    try (FileOutputStream fos = new FileOutputStream(imgFile)) {
+                        fos.write(bytes);
+                    }
+                    Uri uri = androidx.core.content.FileProvider.getUriForFile(
+                        MainActivity.this, getPackageName() + ".fileprovider", imgFile);
+                    Intent intent = new Intent(Intent.ACTION_SEND);
+                    intent.setType("image/png");
+                    intent.putExtra(Intent.EXTRA_STREAM, uri);
+                    intent.addFlags(Intent.FLAG_GRANT_READ_URI_PERMISSION);
+                    startActivity(Intent.createChooser(intent, "Share your City Disco card"));
+                } catch (Exception ignored) { /* fallback to long-press in WebView */ }
+            });
+        }
     }
 }

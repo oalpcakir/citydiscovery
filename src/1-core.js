@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  var APP_VERSION = "0.19.0";
+  var APP_VERSION = "0.19.1";
   var STORE_KEY = "citydiscovery.v1";
   var REPO = "https://github.com/oalpcakir/citydiscovery";
   var CATS = {

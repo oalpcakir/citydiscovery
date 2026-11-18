@@ -32,7 +32,7 @@ window.CITIES.potsdam = {
     kongsnaes: [52.4149, 13.0844], cafematschke: [52.4095, 13.0606], drachenhaus: [52.4062, 13.0215],
     alexandrowkahaus1: [52.4110, 13.0572], loftrooftop: [52.4004, 13.0568], meierei: [52.4219, 13.0697],
     fabrikcafe: [52.4026, 13.0749], derbutt: [52.4013, 13.0556], plantagenklause: [52.3926, 13.1033],
-    annaamalia: [52.3615, 13.0076], filmpark: [52.3865, 13.1171], weisseflotte: [52.3928, 13.0627],
+    annaamalia: [52.3615, 13.0076], filmpark: [52.3865, 13.1171], weisseflotte: [52.3937, 13.0609],
     biosphaere: [52.4187, 13.0496], neuergarten: [52.4154, 13.0694], freundschaftsinsel: [52.3950, 13.0647],
     nikolaisaal: [52.3981, 13.0554], thalia: [52.3919, 13.0953], faehrekiewitt: [52.3883, 13.0395],
     hansotto: [52.4031, 13.0753], babelsbergpark: [52.4031, 13.0866], einsteinhaus: [52.3500, 13.0141],

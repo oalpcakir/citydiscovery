@@ -602,6 +602,7 @@
       navigator.geolocation.getCurrentPosition(function (pos) {
         mePos = [pos.coords.longitude, pos.coords.latitude];
         ui.pos = [pos.coords.latitude, pos.coords.longitude];
+        ui.acc = pos.coords.accuracy || 0; // metres
         if (mapReady) setSrc("me", fc([point(ui.pos)]));
         res(ui.pos);
       }, rej, { enableHighAccuracy: true, timeout: 10000, maximumAge: 30000 });

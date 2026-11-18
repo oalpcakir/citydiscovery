@@ -1,18 +1,17 @@
 // Cloud save with Firebase: sign-in (email + password everywhere, Google on the web), sync of progress,
-// profile and photos to Firestore, and the opt-in leaderboard. Does nothing until web/firebase-config.js has a config.
+// profile and photos to Firestore, and place suggestions. Does nothing until web/firebase-config.js has a config.
 // Data layout:  users/{uid}             { data: "<JSON of the synced store>", photoIds: [...], updated }
 //               users/{uid}/photos/{id} { key, at, data: "<base64 JPEG>" }
-//               leaderboard/{uid}       { name, avatar, title, level, xp, quests, regions, updated }  (only if you join)
 (function () {
   "use strict";
   var SDK = "https://www.gstatic.com/firebasejs/10.12.2/";
   var cfg = window.FIREBASE_CONFIG;
   var inShell = navigator.userAgent.indexOf("CityDiscoveryShell") !== -1;
   var api = window.cdCloud = {
-    available: !!(cfg && cfg.apiKey), ready: false, user: null, busy: false, lastSync: 0, error: "", board: null, boardError: "",
+    available: !!(cfg && cfg.apiKey), ready: false, user: null, busy: false, lastSync: 0, error: "",
     googleAvailable: !inShell, // Google blocks its sign-in inside embedded Android WebViews
     signIn: signIn, signUp: signUp, resetPassword: resetPassword, signInGoogle: signInGoogle, signOut: signOut,
-    syncNow: syncNow, onLocalChange: onLocalChange, photoAdded: photoAdded, photoDeleted: photoDeleted, loadBoard: loadBoard,
+    syncNow: syncNow, onLocalChange: onLocalChange, photoAdded: photoAdded, photoDeleted: photoDeleted, deleteAccount: deleteAccount,
     suggest: suggest, mySuggestions: mySuggestions, allSuggestions: allSuggestions, setSuggestion: setSuggestion
   };
   if (!api.available) return;
@@ -35,7 +34,6 @@
       api.ready = true;
       auth.onAuthStateChanged(function (u) {
         api.user = u ? { uid: u.uid, email: u.email || "", name: u.displayName || "" } : null;
-        api.board = null;
         if (u) syncNow(); else changed();
       });
     })
@@ -56,6 +54,7 @@
       "auth/network-request-failed": "No connection. Check your internet and try again.",
       "auth/popup-closed-by-user": "Sign-in window closed before finishing.",
       "auth/operation-not-allowed": "This sign-in method isn't enabled in Firebase yet.",
+      "auth/requires-recent-login": "For safety, sign out, sign in again and then repeat this.",
       "permission-denied": "The cloud refused this request. Try signing out and in again."
     };
     if (c.indexOf("auth/api-key-not-valid") === 0) return "Cloud save isn't set up correctly yet (the Firebase API key is invalid).";
@@ -82,10 +81,16 @@
       if (Math.abs(remote.saved[k]) > Math.abs(out.saved[k] || 0)) { out.saved[k] = remote.saved[k]; touched = true; }
     });
     if (remote.profile && (!out.profile || (remote.profile.updated || 0) > (out.profile.updated || 0))) { out.profile = remote.profile; touched = true; }
-    ["theme", "sound", "lb"].forEach(function (k) { if (out[k] === undefined && remote[k] !== undefined) { out[k] = remote[k]; touched = true; } });
+    // Kept badge tiers and bonus XP only ever go up (see "Earned stays earned" in the app).
+    Object.keys(remote.kept || {}).forEach(function (k) {
+      out.kept = out.kept || {};
+      if (remote.kept[k] > (out.kept[k] || 0)) { out.kept[k] = remote.kept[k]; touched = true; }
+    });
+    if ((remote.bonus || 0) > (out.bonus || 0)) { out.bonus = remote.bonus; touched = true; }
+    ["theme", "sound"].forEach(function (k) { if (out[k] === undefined && remote[k] !== undefined) { out[k] = remote[k]; touched = true; } });
     return { store: out, changed: touched };
   }
-  function synced(s) { return { done: s.done || {}, saved: s.saved || {}, profile: s.profile || null, theme: s.theme, sound: s.sound, lb: s.lb }; }
+  function synced(s) { return { done: s.done || {}, saved: s.saved || {}, profile: s.profile || null, theme: s.theme, sound: s.sound, kept: s.kept || {}, bonus: s.bonus || 0 }; }
   function userDoc() { return fs.collection("users").doc(api.user.uid); }
   function photoDoc(id) { return userDoc().collection("photos").doc(id.replace(/\//g, "~")); }
 
@@ -97,6 +102,7 @@
       var remoteIds = snap.exists ? (snap.data().photoIds || []) : [];
       var m = merge(app().getStore(), remote);
       if (m.changed) app().applyStore(m.store);
+      fs.collection("leaderboard").doc(api.user.uid).delete().catch(function () {}); // the leaderboard was retired
       return push().then(function () { return syncPhotos(remoteIds); });
     }).then(function () {
       api.lastSync = Date.now(); api.error = "";
@@ -107,7 +113,7 @@
   function push() {
     if (!api.user || !app()) return Promise.resolve();
     return userDoc().set({ data: JSON.stringify(synced(app().getStore())), updated: firebase.firestore.FieldValue.serverTimestamp() }, { merge: true })
-      .then(function () { api.lastSync = Date.now(); return publishScore(); });
+      .then(function () { api.lastSync = Date.now(); });
   }
   function onLocalChange() {
     if (!api.user) return;
@@ -115,29 +121,12 @@
     pushTimer = setTimeout(function () { push().then(changed).catch(function (e) { api.error = friendly(e); changed(); }); }, 1500);
   }
 
-  // ── Leaderboard (opt-in) ─────────────────────────────────
-  function publishScore() {
-    var score = app().getScore(), doc = fs.collection("leaderboard").doc(api.user.uid);
-    return (score ? doc.set(score) : doc.delete()).then(function () {
-      if (score) return loadBoard();
-      api.board = null;
-    }).catch(function (e) { api.boardError = friendly(e); });
-  }
-  function loadBoard() {
-    if (!api.user) return Promise.resolve();
-    return fs.collection("leaderboard").orderBy("xp", "desc").limit(25).get().then(function (snap) {
-      api.board = snap.docs.map(function (d) { var v = d.data(); v.uid = d.id; return v; });
-      api.boardError = "";
-      changed();
-    }).catch(function (e) { api.boardError = friendly(e); api.board = []; changed(); });
-  }
-
   // ── Place suggestions (reviewed by the admins in CD_ADMINS) ─
   // suggestions/{id} { uid, by, place, cat, why, ll: [lat, lng], region, status: new|accepted|rejected|added, created }
   function suggest(s) {
     return wrap(function () {
       if (!api.user) throw new Error("Sign in first.");
-      return fs.collection("suggestions").add({ uid: api.user.uid, by: s.by, place: s.place, cat: s.cat, why: s.why, ll: s.ll,
+      return fs.collection("suggestions").add({ uid: api.user.uid, kind: s.kind || "place", quest: s.quest || "", by: s.by, place: s.place, cat: s.cat, why: s.why, ll: s.ll,
         region: s.region || "", status: "new", created: firebase.firestore.FieldValue.serverTimestamp() });
     });
   }
@@ -153,6 +142,24 @@
   }
   function setSuggestion(id, status) {
     return wrap(function () { return fs.collection("suggestions").doc(id).update({ status: status }); });
+  }
+
+  // ── Delete the account and everything stored for it in the cloud ──
+  function deleteAccount() {
+    return wrap(function () {
+      if (!api.user) throw new Error("Sign in first.");
+      var quiet = function (p) { return p.catch(function () {}); };
+      clearTimeout(pushTimer);
+      return userDoc().collection("photos").get().then(function (snap) {
+        return Promise.all(snap.docs.map(function (d) { return d.ref.delete(); }));
+      }).then(function () {
+        return quiet(fs.collection("suggestions").where("uid", "==", api.user.uid).get().then(function (snap) {
+          return Promise.all(snap.docs.map(function (d) { return d.ref.delete(); }));
+        }));
+      }).then(function () { return quiet(fs.collection("leaderboard").doc(api.user.uid).delete()); }) // entries from the retired leaderboard
+        .then(function () { return userDoc().delete(); })
+        .then(function () { return auth.currentUser.delete(); });
+    });
   }
 
   // ── Photos: compressed copies, one document each ─────────

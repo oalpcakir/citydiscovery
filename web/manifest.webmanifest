@@ -1,9 +1,16 @@
 {
   "name": "City Disco",
   "short_name": "City Disco",
+  "description": "Your city, your adventure: quests to see, eat and do, on a map you complete.",
   "start_url": "./",
+  "scope": "./",
   "display": "standalone",
-  "background_color": "#0e9f6e",
-  "theme_color": "#0e9f6e",
-  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+  "background_color": "#0b6b3a",
+  "theme_color": "#0b6b3a",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
 }

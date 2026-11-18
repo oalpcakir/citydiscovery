@@ -237,7 +237,7 @@
       tab("badges", "award", "Badges", ui.tab === "badges") + tab("hero", "user-round", "Hero", heroish) + '</nav>';
     document.body.classList.toggle("on-map", onMap);
     if (onMap) updateMap(wasHidden);
-    if (ui.tab === "hero") { fillMemories(); loadBoard(); }
+    if (ui.tab === "hero") fillMemories();
   }
 
   // ── Map screen ─────────────────────────────────────────────
@@ -554,29 +554,8 @@
         (upcoming.length ? '<div class="nextu">Next at level ' + upcoming[0].level + ': <b>' + esc(unlockLabel(upcoming[0])) + '</b></div>' : '<div class="nextu">Everything unlocked. Legendary.</div>') +
         '<div class="ugrid">' + UNLOCKS.map(function (u) { return unlockTile(u, p.level); }).join("") + '</div>' +
         '<button class="btn ghost" data-act="profile" style="margin-top:12px">Customize your explorer</button></div>' +
-      '<h2>Memories</h2><div class="panel" id="memories"><div class="note flat">Loading…</div></div>' +
-      '<h2>Leaderboard</h2><div class="panel" id="board">' + boardHtml() + '</div></div>';
+      '<h2>Memories</h2><div class="panel" id="memories"><div class="note flat">Loading…</div></div></div>';
     return html;
-  }
-  function boardHtml() {
-    var C = window.cdCloud;
-    if (!C || !C.available) return '<div class="note flat">The leaderboard needs cloud save, which is not available right now.</div>';
-    if (!C.user) return '<p class="note flat" style="margin-bottom:12px">See how you compare with other explorers.</p><button class="btn ghost" data-act="auth">Sign in to join</button>';
-    if (!store.lb) {
-      return '<p class="note flat" style="margin-bottom:12px">Join to compare levels with other explorers. Only your explorer name, avatar, level and totals are shown, never your email.</p>' +
-        '<button class="btn" data-act="lb-on">Join the leaderboard</button>';
-    }
-    if (C.boardError) return '<div class="note flat err">' + esc(C.boardError) + '</div>';
-    if (!C.board) return '<div class="note flat">Loading…</div>';
-    return C.board.map(function (e, i) {
-      return '<div class="lbrow' + (e.uid === C.user.uid ? " me" : "") + '"><span class="rank">' + (i + 1) + '</span><span class="lba">' + esc(e.avatar || "🎒") + '</span>' +
-        '<div class="grow"><b>' + esc(e.name || "Explorer") + '</b><small>' + esc(e.title || "") + ' · ' + (e.quests || 0) + ' quests</small></div>' +
-        '<span class="lbx"><b>Lv ' + (e.level || 1) + '</b><small>' + fmt(e.xp || 0) + ' XP</small></span></div>';
-    }).join("") || '<div class="note flat">Nobody here yet. You are the first!</div>';
-  }
-  function loadBoard() {
-    var C = window.cdCloud;
-    if (C && C.user && store.lb && !C.board && C.loadBoard) C.loadBoard();
   }
   // Regions without quests yet, counted per country name.
   function soonCounts() {
@@ -663,7 +642,8 @@
     return '<div class="acct">' + ic("cloud", "big") + '<div class="grow"><b>' + esc(C.user.email || C.user.name || "Signed in") + '</b><small>' +
       (C.busy ? "Syncing…" : C.lastSync ? "Saved to the cloud " + ago(C.lastSync) : "Not synced yet") + '</small></div></div>' + err +
       '<div class="two" style="margin:12px 0 0"><button class="btn ghost" data-act="sync">' + ic("refresh-cw") + 'Sync now</button>' +
-      '<button class="btn plain" data-act="signout">Sign out</button></div>';
+      '<button class="btn plain" data-act="signout">Sign out</button></div>' +
+      '<button class="btn plain danger" data-act="account-delete">Delete my account</button>';
   }
   function switchHtml(act, on, label) {
     return '<div class="setrow"><span>' + label + '</span><button class="switch' + (on ? " on" : "") + '" data-act="' + act + '" role="switch" aria-checked="' + !!on + '" aria-label="' + label + '"><i></i></button></div>';
@@ -674,15 +654,15 @@
       '<h2 class="first">Account</h2><div class="panel" id="account">' + accountHtml() + '</div>' +
       '<h2>Preferences</h2><div class="panel"><div class="setrow"><span>Appearance</span>' +
         seg("data-theme-set", t, [["light", "Light"], ["dark", "Dark"], ["auto", "Auto"]]) + '</div>' +
-        switchHtml("sound", store.sound !== false, "Sounds") + switchHtml("lb-toggle", !!store.lb, "Show me on the leaderboard") + '</div>' +
+        switchHtml("sound", store.sound !== false, "Sounds") + '</div>' +
       '<h2>Suggestions</h2><div class="panel"><button class="btn ghost" data-act="rec-start">' + ic("map-pin") + 'Suggest a place</button>' +
         '<button class="btn ghost" data-act="rec-mine">' + ic("list-checks") + 'Your suggestions</button>' +
         (isAdmin() ? '<button class="btn" data-act="rec-review">' + ic("star") + 'Review suggestions</button>' : "") + '</div>' +
       '<h2>Backup</h2><div class="panel"><button class="btn ghost" data-act="export">' + ic("copy") + 'Copy progress to clipboard</button>' +
         '<button class="btn ghost" data-act="import">' + ic("download") + 'Restore from backup</button>' +
         '<p class="note">The backup text holds your progress and profile, not your photos. Signing in backs up everything.</p></div>' +
-      '<h2>About</h2><div class="panel"><a class="btn ghost" target="_blank" rel="noopener" href="' + REPO + '/issues/new?title=' +
-        encodeURIComponent("Feedback: ") + '">' + ic("triangle-alert") + 'Report a problem or idea</a>' +
+      '<h2>About</h2><div class="panel"><button class="btn ghost" data-act="feedback">' + ic("triangle-alert") + 'Send feedback or report a problem</button>' +
+        '<a class="btn ghost" href="privacy.html" target="_blank" rel="noopener">' + ic("lock") + 'Privacy</a>' +
         '<p class="note">Map data © OpenStreetMap contributors, tiles by OpenFreeMap, place search by Photon (Komoot). Quest photos from Wikimedia Commons under free licences, credited on each quest. Icons by Lucide.</p></div></div>';
   }
 

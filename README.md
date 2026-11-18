@@ -40,4 +40,7 @@ XP comes from quests (100, plus bonuses for seasonal quests, day trips, the firs
 
 ## Keeping quests current
 
+`python tools/validate.py` checks the quest data for mistakes a machine can find (missing fields, unknown areas, pins outside their region, duplicate ids, malformed photo entries); run it before publishing content.
+
+
 `python tools/closedcheck.py > closed.txt` compares every eat & drink quest with OpenStreetMap (open, closed or no match nearby) and lists quests whose text mentions a year. The doubtful ones get checked by hand or by a researcher, and `python tools/apply_audit.py audit.json` removes the closed ones and applies text fixes (format in the script).

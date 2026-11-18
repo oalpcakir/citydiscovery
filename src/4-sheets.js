@@ -7,6 +7,7 @@
     $sheet.hidden = false; $backdrop.hidden = card;
     document.body.classList.toggle("card-open", card);
     $sheet.scrollTop = 0;
+    if (!card) { $sheet.setAttribute("tabindex", "-1"); try { $sheet.focus({ preventScroll: true }); } catch (e) { /* older browsers */ } }
     fillPhotos($sheet);
   }
   function closeSheetSilently() {
@@ -50,17 +51,17 @@
     var tags = (q.tags || []).slice();
     if (q.months) tags.push(seasonDaysLeft(q) !== null && !done ? "season ends: " + leftText(seasonDaysLeft(q)).toLowerCase() : "season: " + seasonText(q));
     var maps = "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(q.q || q.title + " " + c.name);
-    var report = REPO + "/issues/new?title=" + encodeURIComponent("Quest problem: " + q.title) + "&body=" +
-      encodeURIComponent("Quest: " + q.key + "\n\nWhat is wrong (closed, moved, wrong pin, wrong info)?\n");
     showSheet(q.cat + (ph ? " hasph" : ""), X +
       (ph ? '<div class="cover" style="background-image:url(' + esc(ph[0]) + ')"><a href="' + esc(ph[3]) + '" target="_blank" rel="noopener">Photo: ' +
         esc(ph[1]) + ' · ' + esc(ph[2]) + '</a></div>' : "") +
       '<div class="sh"><span class="tile">' + ic(CATS[q.cat].icon) + '</span><div class="grow">' +
         '<span class="badge">' + CATS[q.cat].label + " · " + esc(c.areas[q.area]) + '</span>' +
         '<h3>' + esc(q.title) + '</h3></div></div>' + rewardHtml(q) +
-      '<div class="two">' +
-        '<button class="btn' + (done ? " ghost" : " go") + '" data-act="toggle-open">' + ic("check") + (done ? "Done · undo" : "I did it!") + '</button>' +
-        '<a class="btn ghost" href="' + maps + '" target="_blank" rel="noopener">' + ic("navigation") + 'Directions</a></div>' +
+      '<div class="two">' + (done
+        ? '<button class="btn ghost" data-act="toggle-open">' + ic("check") + 'Done · undo</button>' +
+          '<a class="btn ghost" href="' + maps + '" target="_blank" rel="noopener">' + ic("navigation") + 'Directions</a>'
+        : '<a class="btn" href="' + maps + '" target="_blank" rel="noopener">' + ic("navigation") + 'Directions</a>' +
+          '<button class="btn ghost" data-act="toggle-open">' + ic("check") + 'I did it!</button>') + '</div>' +
       '<div class="two">' +
         (done ? "" : '<button class="btn soft" data-act="checkin">' + ic("map-pin") + 'Check in +' + XP.checkin + '</button>') +
         '<button class="btn soft' + (saved ? " on" : "") + '" data-act="save-quest">' + ic("bookmark") + (saved ? "Saved" : "Save for later") + '</button></div>' +
@@ -73,7 +74,8 @@
       '<textarea id="note" placeholder="How was it? Who came along?">' + esc(r.note || "") + '</textarea>' +
       '<div class="foot">' +
         (ui.tab !== "map" && ll(q) ? '<button data-act="to-map">' + ic("map", "sm") + 'Show on map</button>' : "") +
-        '<a href="' + report + '" target="_blank" rel="noopener">' + ic("triangle-alert", "sm") + 'Report a problem</a>' +
+        '<button data-act="share-quest">' + ic("share-2", "sm") + 'Share</button>' +
+        '<button data-act="report">' + ic("triangle-alert", "sm") + 'Report a problem</button>' +
         (q.src && q.src.length ? '<span>Sources: ' + q.src.map(function (u) {
           return '<a href="' + esc(u) + '" target="_blank" rel="noopener">' + esc(u.replace(/^https?:\/\/(www\.)?/, "").split("/")[0]) + '</a>';
         }).join(", ") + '</span>' : "") + '</div>');
@@ -126,7 +128,8 @@
     toast("Checking where you are…");
     whereAmI().then(function (p) {
       var d = km(p, ll(q));
-      if (d > 0.25) { toast("You are " + kmText(d) + " away. Get within 250 m to check in."); return; }
+      var slack = Math.min(ui.acc || 0, 200) / 1000; // a weak signal should not fail you
+      if (d > 0.25 + slack) { toast("You are " + kmText(d) + " away. Get within 250 m to check in."); return; }
       saveNote();
       var res = toggle(key, { v: true });
       closeSheet();
@@ -268,13 +271,31 @@
     return '<button class="pk' + (cur === value ? " on" : "") + (lockedAt ? " locked" : "") + '" data-pick="' + type + '" data-v="' + esc(value) + '"' +
       (lockedAt ? ' disabled' : '') + '>' + face + (lockedAt ? '<small>Lv ' + lockedAt + '</small>' : '') + '</button>';
   }
-  function openProfile(first) {
+  // First run: one question (where are you?), then straight to the map. The explorer is set up after the first quest.
+  function openWelcome() {
+    closeSheetSilently();
+    showSheet("editor", '<div class="welcome">' + ic("map-pin") + '</div><div class="cel-h">Welcome to City Disco</div>' +
+      '<p class="note center" style="margin-top:-6px">Your city, your adventure. Find things to see, eat and do around you, tick them off and level up.</p>' +
+      '<label class="lbl" for="whome">Where do you want to start?</label><select id="whome" class="inp">' + Object.keys(cities).map(function (id) {
+        return '<option value="' + id + '"' + (cityId === id ? " selected" : "") + '>' + esc(cities[id].name) + ' (' + esc(cities[id].country) + ')</option>';
+      }).join("") + '</select>' +
+      '<div class="actions"><button class="btn" data-act="welcome-go">Start exploring</button></div>' +
+      '<p class="note center">No account needed. Your progress is saved on this device. <a href="privacy.html" target="_blank" rel="noopener">Privacy</a></p>', true);
+  }
+  function startFresh(home) {
+    store.profile = profile();
+    store.profile.home = home || cityId; store.profile.setup = 0;
+    store.profile.created = store.profile.updated = Date.now();
+    save();
+  }
+  function openProfile(first, intro) {
     var pr = profile(), lv = progress().level;
     ui.draft = JSON.parse(JSON.stringify(pr));
     var lockAt = function (u) { return u.level > lv ? u.level : 0; };
     var of = function (type) { return UNLOCKS.filter(function (u) { return u.type === type; }); };
     var html = (first ? '<div class="welcome">' + ic("map-pin") + '</div>' : X) +
-      '<div class="cel-h">' + (first ? "Welcome to City Disco" : "Your explorer") + '</div>' +
+      '<div class="cel-h">' + (first ? "Welcome to City Disco" : intro ? "First quest done!" : "Your explorer") + '</div>' +
+      (intro ? '<p class="note center" style="margin-top:-6px">Now make your explorer yours: a name, a face and a class with its own XP bonus.</p>' : "") +
       (first ? '<p class="note center" style="margin-top:-6px">Rediscover where you live, one quest at a time. Earn XP, level up and unlock new looks.</p>' : "") +
       '<label class="lbl" for="pname">Explorer name</label><input id="pname" class="inp" maxlength="24" placeholder="e.g. Tulip Ranger" value="' + esc(pr.name) + '">' +
       '<label class="lbl">Avatar</label><div class="pick">' + of("avatar").map(function (u) {
@@ -305,7 +326,7 @@
     d.name = ((document.getElementById("pname") || {}).value || "").trim().slice(0, 24);
     d.home = (document.getElementById("phome") || {}).value || d.home;
     d.created = (store.profile && store.profile.created) || Date.now();
-    d.updated = Date.now();
+    d.updated = Date.now(); d.setup = 1;
     store.profile = d;
     save();
     applyAccent();
@@ -367,6 +388,38 @@
         ui.recDraft = null; closeSheet(); chime(false); toast("Thanks! Your suggestion is on its way");
       }, function (e) { btn.disabled = false; fail(e.message); });
   }
+  // ── Report a problem / feedback (lands in the same review list as suggestions) ──
+  var REASONS = ["It has closed", "It moved", "The pin is in the wrong place", "The description is wrong", "Something else"];
+  function openReport(key) {
+    var q = key && byKey[key], C = window.cdCloud, signed = C && C.user;
+    ui.report = { key: q ? q.key : "" };
+    closeSheetSilently();
+    showSheet("recform", X + '<div class="welcome">' + ic("triangle-alert") + '</div><div class="cel-h">' + (q ? "Report a problem" : "Send feedback") + '</div>' +
+      (q ? '<p class="note center" style="margin-top:-6px">' + esc(q.title) + '</p><label class="lbl" for="rreason">What is wrong?</label><select id="rreason" class="inp">' +
+        REASONS.map(function (r) { return '<option>' + r + '</option>'; }).join("") + '</select>' : "") +
+      '<label class="lbl" for="rtext">' + (q ? "Details" : "Your message") + '</label><textarea id="rtext" class="inp" rows="4" maxlength="500" placeholder="' +
+        (q ? "What did you find when you were there?" : "An idea, a bug, anything") + '"></textarea>' +
+      '<p class="note err" id="rerr" hidden></p><div class="actions">' +
+      (signed ? '<button class="btn" data-act="report-send">Send</button>'
+        : '<p class="note center">Sign in to send this, so we can get back to you.</p><button class="btn" data-act="auth">Sign in</button>') + '</div>', true);
+  }
+  function sendReport() {
+    var q = byKey[ui.report.key], text = (document.getElementById("rtext").value || "").trim(), err = document.getElementById("rerr");
+    var reason = q ? document.getElementById("rreason").value : "Feedback", btn = $sheet.querySelector('[data-act="report-send"]');
+    if (!q && text.length < 5) { err.textContent = "Write a few words first."; err.hidden = false; return; }
+    btn.disabled = true;
+    window.cdCloud.suggest({ kind: q ? "report" : "feedback", quest: q ? q.key : "", place: (q ? q.title : "Feedback").slice(0, 80), cat: q ? q.cat : "gor",
+      why: (reason + (text ? ": " + text : "")).slice(0, 600), ll: q && ll(q) ? ll(q) : [0, 0], region: q ? q.cid : "", by: profile().name || "Explorer" })
+      .then(function () { closeSheet(); toast("Thanks! We will look into it"); }, function (e) { btn.disabled = false; err.textContent = e.message; err.hidden = false; });
+  }
+  function shareQuest(key) {
+    var q = byKey[key];
+    if (!q) return;
+    var url = location.origin + location.pathname + "#q=" + encodeURIComponent(q.key);
+    if (navigator.share) { navigator.share({ title: q.title, text: q.title + " · City Disco", url: url }).catch(function () {}); return; }
+    if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(url).then(function () { toast("Link copied"); }, function () { prompt("Copy this link:", url); });
+    else prompt("Copy this link:", url);
+  }
   var REC_STATUS = { "new": "Waiting for review", accepted: "Accepted: coming as a quest", rejected: "Not this time", added: "Added as a quest" };
   function recList(mine) {
     var C = window.cdCloud;
@@ -379,7 +432,8 @@
       ui.recs = list;
       box.innerHTML = !list.length ? '<div class="empty">' + (mine ? "You have not suggested anything yet. Tap the pin button on the map to start." : "No suggestions yet.") + '</div>' :
         list.map(function (s) {
-          return '<div class="recrow ' + s.cat + '"><div class="grow"><b>' + esc(s.place) + '</b><small>' + esc(CATS[s.cat] ? CATS[s.cat].label : s.cat) + ' · ' +
+          return '<div class="recrow ' + s.cat + '"><div class="grow"><b>' + esc(s.place) + '</b><small>' +
+            (s.kind === "report" ? "Problem report" : s.kind === "feedback" ? "Feedback" : esc(CATS[s.cat] ? CATS[s.cat].label : s.cat)) + ' · ' +
             esc(regionName(s.region) || "outside our regions") + (mine ? "" : " · by " + esc(s.by || "Explorer")) + '</small><p>' + esc(s.why) + '</p>' +
             '<span class="rstat ' + s.status + '">' + esc(REC_STATUS[s.status] || s.status) + '</span></div>' +
             '<div class="recbtns"><button class="hbtn" data-act="rec-show" data-id="' + esc(s.id) + '" aria-label="Show on map">' + ic("map") + '</button>' +
@@ -460,16 +514,9 @@
       applyTheme(); applyAccent();
       if ($sheet.hidden) render();
     },
-    // What the leaderboard shows about you (null when you have not joined).
-    getScore: function () {
-      if (!store.lb) return null;
-      var p = progress(), pr = profile();
-      return { name: pr.name || "Explorer", avatar: pr.avatar, title: heroTitle(p), level: p.level, xp: p.xp, quests: p.quests, regions: p.regions, updated: Date.now() };
-    },
     cloudChanged: function () {
-      var C = window.cdCloud, box = document.getElementById("account"), board = document.getElementById("board");
+      var C = window.cdCloud, box = document.getElementById("account");
       if (box) box.innerHTML = accountHtml();
-      if (board) { board.innerHTML = boardHtml(); loadBoard(); }
       if (C && C.user && !$sheet.hidden && $sheet.classList.contains("auth")) {
         closeSheet(); toast("Signed in as " + (C.user.email || C.user.name));
         if (ui.recDraft && ui.recDraft.ll) openRecForm(); // back to the suggestion you were writing
@@ -570,7 +617,11 @@
       case "locate": locate(); break;
       case "near": nearMe(); break;
       case "map-retry": retryMap(); break;
-      case "close": closeSheet(); break;
+      case "close":
+        closeSheet();
+        // After the first finished quest: time to make the explorer yours.
+        if (store.profile && store.profile.setup === 0 && progress().quests >= 1) { store.profile.setup = 1; save(); openProfile(false, true); }
+        break;
       case "toggle-open": saveNote(); res = toggle(ui.open); closeSheet(); showComplete(res); break;
       case "checkin": checkIn(ui.open); break;
       case "save-quest": q = ui.open; saveNote(); toggleSaved(q); openSheet(q); break;
@@ -598,14 +649,22 @@
         break;
       case "profile": openProfile(false); break;
       case "save-profile": saveProfile(d.first === "1"); break;
-      case "skip-profile": store.profile = profile(); store.profile.created = store.profile.updated = Date.now(); save(); closeSheet(); break;
+      case "skip-profile": startFresh(); closeSheet(); break;
       case "photo-del": if (confirm("Delete this photo? This cannot be undone.")) deletePhoto(d.id, d.key); break;
       case "sound": store.sound = store.sound === false; save(); render(); if (store.sound) chime(false); break;
-      case "lb-on": case "lb-toggle":
-        store.lb = d.act === "lb-on" ? true : !store.lb;
-        if (window.cdCloud) window.cdCloud.board = null;
-        save(); render();
-        if (store.lb && window.cdCloud && !window.cdCloud.user) toast("Sign in to appear on the leaderboard");
+      case "welcome-go": {
+        var wh = (document.getElementById("whome") || {}).value;
+        startFresh(wh); closeSheet(); if (wh) setCity(wh, true);
+        break;
+      }
+      case "report": saveNote(); openReport(ui.open); break;
+      case "feedback": openReport(null); break;
+      case "report-send": sendReport(); break;
+      case "share-quest": shareQuest(ui.open); break;
+      case "account-delete":
+        if (!confirm("Delete your account? Your cloud save, cloud photos and suggestions are removed for good. Progress on this device stays.")) break;
+        t.disabled = true;
+        window.cdCloud.deleteAccount().then(function () { toast("Account deleted"); render(); }, function (e) { t.disabled = false; toast(e.message); });
         break;
       case "ctx-suggest": {
         closeCtx();
@@ -695,6 +754,15 @@
     if (key && e.target.files && e.target.files.length) { addPhotos(key, [].slice.call(e.target.files)); e.target.value = ""; }
   });
   document.addEventListener("keydown", function (e) {
+    if (e.key === "Tab" && !$sheet.hidden && !$backdrop.hidden) {
+      var f = [].filter.call($sheet.querySelectorAll('button, a[href], input, select, textarea'), function (n) { return !n.disabled && n.offsetParent !== null; });
+      if (f.length) {
+        var first = f[0], last = f[f.length - 1];
+        if (!$sheet.contains(document.activeElement)) { e.preventDefault(); first.focus(); }
+        else if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last.focus(); }
+        else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
+      }
+    }
     if (e.key === "Escape") window.cdBack();
     if ((e.key === "Enter" || e.key === " ") && e.target.classList && e.target.classList.contains("card") && e.target.dataset.open) { e.preventDefault(); e.target.click(); }
   });
@@ -727,11 +795,26 @@
   applyTheme();
   applyAccent();
   render();
-  if (!store.profile) openProfile(true);
+  keepEarned();
+  // A shared link (#q=<region>/<quest>) opens that quest; a first-time visitor lands on it directly.
+  var linked = byKey[decodeURIComponent((location.hash.match(/[#&]q=([^&]+)/) || [])[1] || "")];
+  if (linked) {
+    if (!store.profile) startFresh(linked.cid);
+    setTimeout(function () { openQuest(linked); }, 50);
+    try { history.replaceState(null, "", location.pathname + location.search); } catch (e) { /* keep the hash */ }
+  } else if (!store.profile) openWelcome();
   migratePhotoKeys();
 
   // The Android shell manages its own offline copy; the service worker is for browsers only.
   var inShell = navigator.userAgent.indexOf("CityDiscoveryShell") !== -1;
+  // Browser back button: close the open card or panel first, like the Android back button. (The shell calls cdBack itself.)
+  if (!inShell && window.history && history.pushState) {
+    history.replaceState({ cd: "base" }, "");
+    history.pushState({ cd: "app" }, "");
+    window.addEventListener("popstate", function () {
+      if (window.cdBack()) history.pushState({ cd: "app" }, ""); else history.back();
+    });
+  }
   if (!inShell && "serviceWorker" in navigator && location.protocol === "https:") {
     navigator.serviceWorker.register("sw.js").catch(function () {});
   }

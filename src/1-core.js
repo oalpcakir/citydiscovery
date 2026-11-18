@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  var APP_VERSION = "0.17.1";
+  var APP_VERSION = "0.18.0";
   var STORE_KEY = "citydiscovery.v1";
   var REPO = "https://github.com/oalpcakir/citydiscovery";
   var CATS = {
@@ -18,7 +18,8 @@
   var PHOTOS = window.PHOTOS || {};
 
   // ── Persistent state ───────────────────────────────────────
-  // { city, theme, sound, lb, profile, saved: { key: ±ms }, done: { "<region>/<quest>": { at, note, photos, v, d, u } } }
+  // { city, theme, sound, profile, saved: { key: ±ms }, done: { "<region>/<quest>": { at, note, photos, v, d, u } },
+  //   kept: { "<region>:<badge>": tier }, bonus: xp }  (kept and bonus: see "Earned stays earned" below)
   var store = load();
   function load() {
     try {
@@ -28,6 +29,7 @@
     return { city: null, done: {} };
   }
   function save() {
+    snapshotEarned();
     try { localStorage.setItem(STORE_KEY, JSON.stringify(store)); } catch (e) { toast("Could not save"); }
     if (window.cdCloud && window.cdCloud.onLocalChange) window.cdCloud.onLocalChange();
   }
@@ -142,12 +144,14 @@
       var goals = [Math.max(1, Math.ceil(s.total / 3)), Math.max(1, Math.ceil((s.total * 2) / 3)), s.total];
       var tier = 0;
       goals.forEach(function (g) { if (s.total && s.done >= g) tier++; });
+      tier = Math.max(tier, keptTier(c.id, id));
       out.push({ id: id, group: group, icon: meta.icon, name: meta.name, desc: what, tier: tier, max: 3,
         have: s.done, goal: tier < 3 ? goals[tier] : s.total });
     }
     function single(id, icon, name, desc, have, goal) {
-      out.push({ id: id, group: "Special", icon: icon, name: name, desc: desc, tier: have >= goal ? 1 : 0, max: 1,
-        have: Math.min(have, goal), goal: goal });
+      var got = have >= goal || keptTier(c.id, id) > 0;
+      out.push({ id: id, group: "Special", icon: icon, name: name, desc: desc, tier: got ? 1 : 0, max: 1,
+        have: got ? goal : Math.min(have, goal), goal: goal });
     }
     Object.keys(c.areas).forEach(function (a) {
       var meta = (c.areaBadges && c.areaBadges[a]) || { icon: "📍", name: c.areas[a] };
@@ -177,6 +181,39 @@
     single("trail", "🥾", "Trailblazer", "Finish a trail here", (trailsByCity[c.id] || []).filter(trailDone).length, 1);
     single("all", "👑", c.levels[c.levels.length - 1], "Complete every quest here", done.length, c.quests.length);
     return out;
+  }
+  // ── Earned stays earned ──
+  // Badge tiers depend on how many quests a region has, and quests get added or retired. So that an update never takes
+  // a badge or XP away: while the quest list is unchanged we remember what you have (store.earned, store.xpLast); when
+  // the app starts with a changed quest list, those become a floor (store.kept for badges, store.bonus for XP).
+  function keptTier(cid, id) { return (store.kept && store.kept[cid + ":" + id]) || 0; }
+  function contentSig() {
+    var s = 0, str = Object.keys(cities).map(function (id) { return id + cities[id].quests.length; }).join(",");
+    for (var i = 0; i < str.length; i++) s = (s * 31 + str.charCodeAt(i)) >>> 0;
+    return String(s);
+  }
+  var snapshotting = false;
+  function snapshotEarned() {
+    if (snapshotting || typeof progress !== "function") return;
+    snapshotting = true;
+    try {
+      var earned = {};
+      Object.keys(cities).forEach(function (id) {
+        badges(cities[id]).forEach(function (b) { if (b.tier) earned[id + ":" + b.id] = b.tier; });
+      });
+      store.earned = earned; store.sig = contentSig();
+      store.xpLast = progress().xp - (store.bonus || 0);
+    } finally { snapshotting = false; }
+  }
+  function keepEarned() { // run once at start
+    if (store.sig && store.sig !== contentSig()) {
+      store.kept = store.kept || {};
+      Object.keys(store.earned || {}).forEach(function (k) { store.kept[k] = Math.max(store.kept[k] || 0, store.earned[k]); });
+      var now = progress().xp - (store.bonus || 0);
+      if (store.xpLast > now) store.bonus = (store.bonus || 0) + (store.xpLast - now);
+    }
+    snapshotEarned();
+    try { localStorage.setItem(STORE_KEY, JSON.stringify(store)); } catch (e) { /* ignore */ }
   }
   function badgeXp(b) {
     if (b.max === 1) return b.tier * SPECIAL_XP;
@@ -418,7 +455,7 @@
     var tdone = trails.filter(trailDone).length;
     var now = weekOf(Date.now()), streakNow = 0, start = weeks[now] ? now : weeks[now - 1] ? now - 1 : null;
     if (start !== null) { streakNow = 1; while (weeks[start - streakNow]) streakNow++; }
-    var total = xp + bxp + tdone * TRAIL_XP, info = levelInfo(total);
+    var total = xp + bxp + tdone * TRAIL_XP + (store.bonus || 0), info = levelInfo(total);
     info.xp = total; info.badgeXp = bxp; info.badges = earned; info.attr = attr; info.gains = gains; info.trails = tdone;
     info.streak = streakNow; info.thisWeek = !!weeks[now];
     info.regions = Object.keys(seenRegion).length; info.areas = Object.keys(seenArea).length;

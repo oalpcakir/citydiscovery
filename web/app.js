@@ -2,7 +2,7 @@
 (function () {
   "use strict";
 
-  var APP_VERSION = "0.18.0";
+  var APP_VERSION = "0.19.0";
   var STORE_KEY = "citydiscovery.v1";
   var REPO = "https://github.com/oalpcakir/citydiscovery";
   var CATS = {
@@ -355,7 +355,7 @@
   function profile() {
     var p = store.profile || {};
     return { name: p.name || "", avatar: p.avatar || "🎒", cls: p.cls || "", frame: p.frame || "none",
-      accent: p.accent || "mint", title: p.title || "", home: p.home || "" };
+      accent: p.accent || "mint", title: p.title || "", home: p.home || "", noStats: !!p.noStats };
   }
   function unlockLabel(u) {
     return u.type === "avatar" ? u.value + " avatar" : u.type === "frame" ? u.name + " frame" : u.name + " colour";
@@ -713,6 +713,7 @@
       if (ui.cat !== "all" && q.cat !== ui.cat) return;
       if (ui.area !== "all" && (q.cid !== cityId || q.area !== ui.area)) return;
       var done = isDone(q);
+      if (ui.myMap && !done) return; // "My map": only the places you have done
       feats.push(point(p, { key: q.key, done: done ? 1 : 0, title: q.title, icon: "pin-" + q.cat + (done ? "-done" : inSeason(q) ? "" : "-off") }));
     });
     return fc(feats);
@@ -1476,6 +1477,10 @@
   }
   function fabHtml() {
     var dq = dailyQuest();
+    if (ui.myMap) {
+      var n = allQuests.filter(isDone).length;
+      return '<button class="fab done" data-act="my-map-end">' + ic("x") + '<span><small>My map · ' + fmt(n) + (n === 1 ? " place" : " places") + ' you have done</small>Show all quests</span></button>';
+    }
     return dq && !isDone(dq)
       ? '<button class="fab" data-open="' + esc(dq.key) + '">' + ic("star") + '<span><small>Quest of the day · +' + XP.daily + ' XP' +
         (seasonDaysLeft(dq) !== null ? ' · ' + leftText(seasonDaysLeft(dq)).toLowerCase() : "") + '</small>' + esc(dq.title) + '</span></button>'
@@ -1736,9 +1741,167 @@
     });
     return html;
   }
+  // ── Your travels: totals, furthest points and records, all from the completion log ──
+  function dms(v, pos, neg) {
+    var a = Math.abs(v), d = Math.floor(a), m = Math.round((a - d) * 60);
+    if (m === 60) { d++; m = 0; }
+    return d + "° " + m + "′ " + (v >= 0 ? pos : neg);
+  }
+  function travelStats() {
+    var done = allQuests.filter(isDone), regs = {}, ctry = {}, areas = {}, cats = { gor: 0, ye: 0, dene: 0 };
+    var ext = {}, days = {}, weeks = {}, first = null, notes = 0, photos = 0, checkins = 0, areaTotal = 0;
+    Object.keys(cities).forEach(function (id) { areaTotal += Object.keys(cities[id].areas).length; });
+    done.forEach(function (q) {
+      var r = rec(q), p = ll(q), dk = dayKey(r.at);
+      regs[q.cid] = (regs[q.cid] || 0) + 1; ctry[cities[q.cid].country] = 1; areas[q.cid + "/" + q.area] = 1; cats[q.cat]++;
+      if (p) {
+        if (!ext.n || p[0] > ll(ext.n)[0]) ext.n = q;
+        if (!ext.s || p[0] < ll(ext.s)[0]) ext.s = q;
+        if (!ext.e || p[1] > ll(ext.e)[1]) ext.e = q;
+        if (!ext.w || p[1] < ll(ext.w)[1]) ext.w = q;
+      }
+      days[dk] = days[dk] || { n: 0, at: r.at }; days[dk].n++;
+      weeks[weekOf(r.at)] = 1;
+      if (!first || r.at < rec(first).at) first = q;
+      if (r.note) notes++;
+      if (r.photos) photos++;
+      if (r.v) checkins++;
+    });
+    var best = null, top = null, run = 0, longest = 0;
+    Object.keys(days).forEach(function (k) { if (!best || days[k].n > best.n) best = days[k]; });
+    Object.keys(regs).forEach(function (id) { if (!top || regs[id] > regs[top]) top = id; });
+    Object.keys(weeks).map(Number).sort(function (a, b) { return a - b; }).forEach(function (w, i, a) {
+      run = i && a[i - 1] === w - 1 ? run + 1 : 1;
+      if (run > longest) longest = run;
+    });
+    return { done: done, regs: regs, ctry: ctry, areas: Object.keys(areas).length, areaTotal: areaTotal, cats: cats, ext: ext,
+      first: first, best: best, top: top, longest: longest, days: Object.keys(days).length, notes: notes, photos: photos, checkins: checkins };
+  }
+  function pctOf(a, b) { return b ? Math.round((a / b) * 100) : 0; }
+  function countLine(label, a, b) {
+    return '<div class="tl"><span>' + label + '</span><b>' + fmt(a) + '</b><small>/ ' + fmt(b) + ' (' + pctOf(a, b) + '%)</small></div>';
+  }
+  function extRow(dir, q) {
+    if (!q) return "";
+    var p = ll(q), c = cities[q.cid];
+    return '<button class="ext" data-open="' + esc(q.key) + '"><span class="ed">' + dir + '</span><div class="grow"><b>' + flagHtml(c.country) + esc(q.title) + '</b>' +
+      '<small>' + esc(c.name) + ' · ' + dms(p[0], "N", "S") + ', ' + dms(p[1], "E", "W") + '</small></div>' + ic("chevron-right", "sm") + '</button>';
+  }
+  function dateText(t) { return new Date(t).toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" }); }
+  function yearRecap(t) {
+    var y = new Date().getFullYear(), list = t.done.filter(function (q) { return new Date(rec(q).at).getFullYear() === y; });
+    if (!list.length) return "";
+    var per = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], regs = {}, cats = { gor: 0, ye: 0, dene: 0 }, newRegs = 0;
+    list.forEach(function (q) { per[new Date(rec(q).at).getMonth()]++; regs[q.cid] = 1; cats[q.cat]++; });
+    Object.keys(regs).forEach(function (id) { // a region counts as new when its first quest was done this year
+      var firstHere = t.done.filter(function (q) { return q.cid === id; }).reduce(function (m, q) { return Math.min(m, rec(q).at); }, Infinity);
+      if (new Date(firstHere).getFullYear() === y) newRegs++;
+    });
+    var max = Math.max.apply(null, per), peak = per.indexOf(max), topCat = Object.keys(cats).sort(function (a, b) { return cats[b] - cats[a]; })[0];
+    return '<h2>Your ' + y + '</h2><div class="panel"><div class="yr-n"><div><b>' + list.length + '</b><span>quests</span></div>' +
+      '<div><b>' + Object.keys(regs).length + '</b><span>regions</span></div><div><b>' + newRegs + '</b><span>new regions</span></div></div>' +
+      '<div class="months">' + per.map(function (n, i) {
+        return '<div class="mo' + (i === peak ? " pk" : "") + '"><i style="height:' + (max ? Math.max(n ? 8 : 0, Math.round((n / max) * 100)) : 0) + '%"></i><small>' + MONTHS[i][0] + '</small></div>';
+      }).join("") + '</div><p class="note flat">Busiest month: <b>' + MONTHS[peak] + '</b> (' + max + ') · mostly ' + ic(CATS[topCat].icon, "sm") + '<b>' + CATS[topCat].label + '</b></p></div>';
+  }
+  function renderYou() {
+    var t = travelStats(), C = window.COUNTRIES || {}, soon = soonCounts(), regTotal = Object.keys(cities).length;
+    Object.keys(soon).forEach(function (n) { regTotal += soon[n]; });
+    var ctryNames = Object.keys(C).map(function (cc) { return C[cc].name; });
+    var html = '<div class="panel travel"><div class="tv-h">' + avatarHtml(profile(), null, "lg") + '<div class="grow"><b>' + esc(profile().name || "Explorer") + '</b>' +
+      '<small>Places visited: <em>' + fmt(t.done.length) + '</em></small></div>' +
+      '<button class="btn soft sm" data-act="my-map">' + ic("map", "sm") + 'My map</button></div>' +
+      countLine("Quests", t.done.length, allQuests.length) +
+      countLine("Regions", Object.keys(t.regs).length, regTotal) +
+      countLine("Countries", Object.keys(t.ctry).length, ctryNames.length) +
+      countLine("Areas", t.areas, t.areaTotal) +
+      '<div class="flags">' + ctryNames.map(function (n) { return '<span class="fg' + (t.ctry[n] ? " on" : "") + '" title="' + esc(n) + '">' + flagHtml(n) + '</span>'; }).join("") + '</div>' +
+      '<div class="cats3">' + Object.keys(CATS).map(function (c) {
+        var tot = allQuests.filter(function (q) { return q.cat === c; }).length;
+        return '<div class="' + c + '">' + ic(CATS[c].icon, "sm") + '<b>' + t.cats[c] + '</b><small>' + CATS[c].label + '</small>' + bar(pctOf(t.cats[c], tot)) + '</div>';
+      }).join("") + '</div></div>';
+    if (!t.done.length) return html + '<div class="note">Complete your first quest to see your furthest points and records here.</div>';
+    html += '<h2>Furthest points</h2><div class="panel exts">' + extRow("N", t.ext.n) + extRow("S", t.ext.s) + extRow("E", t.ext.e) + extRow("W", t.ext.w) + '</div>';
+    html += '<h2>Records</h2><div class="panel recs">' +
+      '<div><small>Explorer since</small><b>' + dateText(rec(t.first).at) + '</b><span>' + esc(t.first.title) + '</span></div>' +
+      '<div><small>Busiest day</small><b>' + t.best.n + (t.best.n === 1 ? " quest" : " quests") + '</b><span>' + dateText(t.best.at) + '</span></div>' +
+      '<div><small>Longest streak</small><b>' + t.longest + (t.longest === 1 ? " week" : " weeks") + '</b><span>in a row</span></div>' +
+      '<div><small>Most explored</small><b>' + flagHtml(cities[t.top].country) + esc(cities[t.top].name) + '</b><span>' + t.regs[t.top] + ' quests</span></div>' +
+      '<div><small>Days out</small><b>' + t.days + '</b><span>with a quest</span></div>' +
+      '<div><small>Journal</small><b>' + t.notes + ' notes</b><span>' + t.photos + ' with photos · ' + t.checkins + ' check-ins</span></div></div>';
+    return html + yearRecap(t);
+  }
+
+  // ── Everyone: totals over all signed-in explorers, published once a day as community.json ──
+  // (tools/community_stats.py; it leaves out small counts, and everything until enough explorers have signed in)
+  var community = null;
+  function loadCommunity() {
+    if (community) return;
+    community = { loading: true };
+    fetch("community.json", { cache: "no-cache" }).then(function (r) { return r.ok ? r.json() : {}; }).catch(function () { return {}; }).then(function (d) {
+      community = d || {};
+      if (ui.tab === "stats" && ui.statsView === "everyone" && $sheet.hidden) render();
+    });
+  }
+  loadCommunity();
+  function doneBy(key) { return (community && community.quests && community.quests[key]) || 0; }
+  function rankRows(items, label) { // items: [{ n, html, attr }] sorted by n; equal counts share a rank
+    var rank = 0;
+    return '<div class="rk-h"><span>#</span><span class="grow">' + label + '</span><span>Explorers</span></div>' + items.map(function (x, i) {
+      if (!i || x.n !== items[i - 1].n) rank = i + 1;
+      return '<button class="rk" ' + x.attr + '><span class="rkn">' + rank + '.</span><div class="grow">' + x.html + '</div><span class="rc">' + fmt(x.n) + '</span></button>';
+    }).join("");
+  }
+  function topBy(counts, n) {
+    return Object.keys(counts || {}).filter(function (k) { return counts[k] > 0; }).sort(function (a, b) { return counts[b] - counts[a] || (a < b ? -1 : 1); }).slice(0, n);
+  }
+  function questItem(k, counts) {
+    var q = byKey[k], c = cities[q.cid];
+    return { n: counts[k], attr: 'data-open="' + esc(k) + '"', html: '<b>' + ic(CATS[q.cat].icon, "sm") + esc(q.title) + '</b><small>' + flagHtml(c.country) + esc(c.name) + '</small>' };
+  }
+  function renderEveryone() {
+    if (!community || community.loading) { loadCommunity(); return '<div class="note">Loading…</div>'; }
+    if (!community.explorers) {
+      return '<div class="empty">' + ic("users", "big") + '<b>Rankings are on their way</b><p>Once enough explorers have signed in, this shows the most explored regions, the most loved quests and hidden gems. Updated once a day.</p></div>';
+    }
+    var cat = ui.evCat || "all", Q = community.quests || {}, R = community.recent || {};
+    var inCat = function (counts) { var o = {}; Object.keys(counts).forEach(function (k) { var q = byKey[k]; if (q && (cat === "all" || q.cat === cat)) o[k] = counts[k]; }); return o; };
+    var regs = {}; Object.keys(community.regions || {}).forEach(function (id) { if (cities[id]) regs[id] = community.regions[id]; });
+    var html = '<p class="note flat center">' + fmt(community.explorers) + ' explorers · updated ' + dateText(community.updated) + '</p>';
+    html += '<h2>Most explored regions</h2><div class="panel ranks">' + rankRows(topBy(regs, 25).map(function (id) {
+      var c = cities[id];
+      return { n: regs[id], attr: 'data-city="' + id + '"', html: '<b>' + flagHtml(c.country) + esc(c.name) + '</b><small>' + esc(c.subtitle || c.country) + '</small>' };
+    }), "Region") + '</div>';
+    html += '<h2>Most loved quests</h2><div class="chips">' + [["all", "All"]].concat(Object.keys(CATS).map(function (c) { return [c, CATS[c].label]; })).map(function (x) {
+      return '<button class="chip' + (cat === x[0] ? " on" : "") + '" data-ev-cat="' + x[0] + '">' + x[1] + '</button>';
+    }).join("") + '</div>';
+    var qc = inCat(Q), top = topBy(qc, 25);
+    html += '<div class="panel ranks">' + (top.length ? rankRows(top.map(function (k) { return questItem(k, qc); }), "Quest") : '<div class="note flat">No quests here yet.</div>') + '</div>';
+    var rc = inCat(R), trend = topBy(rc, 10);
+    if (trend.length) html += '<h2>Trending this month</h2><div class="panel ranks">' + rankRows(trend.map(function (k) { return questItem(k, rc); }), "Quest") + '</div>';
+    // Hidden gems: quests with a photo in the regions people explore most, that hardly anyone has done yet.
+    var dk = dayKey(), mix = function (q) { // a different order every day
+      var s = 0, str = q.key + dk;
+      for (var i = 0; i < str.length; i++) s = (s * 31 + str.charCodeAt(i)) >>> 0;
+      return s;
+    };
+    var gems = allQuests.filter(function (q) {
+      return regs[q.cid] && !Q[q.key] && photoOf(q) && !isDone(q) && (cat === "all" || q.cat === cat);
+    }).sort(function (a, b) { return mix(a) - mix(b); }).slice(0, 8);
+    if (gems.length) html += '<h2>Hidden gems</h2><p class="note flat">Few explorers have found these yet.</p><div class="list">' + gems.map(function (q) { return questRow(q); }).join("") + '</div>';
+    var ctry = community.countries || {};
+    html += '<h2>Countries</h2><div class="panel ranks">' + rankRows(topBy(ctry, 20).map(function (n) {
+      return { n: ctry[n], attr: "", html: '<b>' + flagHtml(n) + esc(n) + '</b>' };
+    }), "Country") + '</div>';
+    return html + '<p class="note center">Counts come from signed-in explorers, updated once a day. Small numbers are left out. You can leave yourself out in Settings.</p>';
+  }
+
   function renderStats() {
-    var p = progress(), s = stats(city.quests), cs = countryStats();
-    var html = head("Stats", fmt(p.xp) + " XP across " + p.quests + (p.quests === 1 ? " quest" : " quests"), { back: true }) + '<div class="section"><div class="countries">' +
+    var p = progress(), s = stats(city.quests), cs = countryStats(), view = ui.statsView || "you";
+    var html = head("Stats", fmt(p.xp) + " XP across " + p.quests + (p.quests === 1 ? " quest" : " quests"), { back: true }) + '<div class="section">' +
+      seg("data-stats-view", view, [["you", "You"], ["everyone", "Everyone"]]);
+    if (view === "everyone") return html + renderEveryone() + '</div>';
+    html += renderYou() + '<h2>Countries</h2><div class="countries">' +
       Object.keys(cs).map(function (n) {
         var o = cs[n], pct = o.total ? Math.round((o.done / o.total) * 100) : 0;
         return '<div class="ctry"><div class="ctry-h">' + flagHtml(n) + '<b>' + esc(n) + '</b><span>' + pct + '%</span></div>' + bar(pct) +
@@ -1800,7 +1963,9 @@
       '<h2 class="first">Account</h2><div class="panel" id="account">' + accountHtml() + '</div>' +
       '<h2>Preferences</h2><div class="panel"><div class="setrow"><span>Appearance</span>' +
         seg("data-theme-set", t, [["light", "Light"], ["dark", "Dark"], ["auto", "Auto"]]) + '</div>' +
-        switchHtml("sound", store.sound !== false, "Sounds") + '</div>' +
+        switchHtml("sound", store.sound !== false, "Sounds") +
+        switchHtml("stats-optin", !(store.profile && store.profile.noStats), "Count me in the community rankings") +
+        '<p class="note">When you are signed in, the quests you have done are added to anonymous daily totals ("Done by 120 explorers"). Your name and account are never shown.</p></div>' +
       '<h2>Suggestions</h2><div class="panel"><button class="btn ghost" data-act="rec-start">' + ic("map-pin") + 'Suggest a place</button>' +
         '<button class="btn ghost" data-act="rec-mine">' + ic("list-checks") + 'Your suggestions</button>' +
         (isAdmin() ? '<button class="btn" data-act="rec-review">' + ic("star") + 'Review suggestions</button>' : "") + '</div>' +
@@ -1870,7 +2035,8 @@
         esc(ph[1]) + ' · ' + esc(ph[2]) + '</a></div>' : "") +
       '<div class="sh"><span class="tile">' + ic(CATS[q.cat].icon) + '</span><div class="grow">' +
         '<span class="badge">' + CATS[q.cat].label + " · " + esc(c.areas[q.area]) + '</span>' +
-        '<h3>' + esc(q.title) + '</h3></div></div>' + rewardHtml(q) +
+        '<h3>' + esc(q.title) + '</h3>' + (doneBy(q.key) ? '<small class="doneby">' + ic("users", "sm") + 'Done by ' + fmt(doneBy(q.key)) + ' explorers</small>' : "") +
+        '</div></div>' + rewardHtml(q) +
       '<div class="two">' + (done
         ? '<button class="btn ghost" data-act="toggle-open">' + ic("check") + 'Done · undo</button>' +
           '<a class="btn ghost" href="' + maps + '" target="_blank" rel="noopener">' + ic("navigation") + 'Directions</a>'
@@ -2379,7 +2545,7 @@
   }
 
   // ── Events ─────────────────────────────────────────────────
-  var SEL = "[data-goto-region],[data-goto-place],[data-toggle],[data-open],[data-f],[data-tab],[data-act],[data-city],[data-theme-set],[data-pick],[data-photo-id],[data-qview],[data-trail]";
+  var SEL = "[data-goto-region],[data-goto-place],[data-toggle],[data-open],[data-f],[data-tab],[data-act],[data-city],[data-theme-set],[data-pick],[data-photo-id],[data-qview],[data-trail],[data-stats-view],[data-ev-cat]";
   document.addEventListener("click", function (e) {
     var t = e.target.closest(SEL);
     if (document.getElementById("ctxmenu") && !(t && t.closest("#ctxmenu"))) closeCtx();
@@ -2412,6 +2578,8 @@
     }
     if (d.themeSet) { store.theme = d.themeSet; save(); switchTheme(); render(); return; }
     if (d.qview) { ui.qview = d.qview; render(); return; }
+    if (d.statsView) { ui.statsView = d.statsView; render(); return; }
+    if (d.evCat) { ui.evCat = d.evCat; render(); return; }
     if (d.trail) { ui.trailOpen = d.trail; openTrail(d.trail); return; }
     if (d.open) { q = byKey[d.open]; closeSheetSilently(); if (ui.searchOpen) endSearch(); if (q) openQuest(q); return; }
     if (d.city) { closeSheetSilently(); ui.tab = "map"; ui.trail = null; setCity(d.city, true); return; }
@@ -2455,6 +2623,19 @@
         if (opening && tl.length) fitPoints([].concat.apply([], tl.map(function (x) { return x.quests.map(ll); })), 15);
         break;
       }
+      case "my-map": {
+        var pts = allQuests.filter(isDone).map(ll).filter(Boolean);
+        closeSheetSilently(); ui.myMap = true; ui.trail = null; ui.panel = null; ui.cat = "all"; ui.area = "all"; ui.tab = "map"; render();
+        if (pts.length) setTimeout(function () { fitPoints(pts, 12); }, 60);
+        break;
+      }
+      case "my-map-end": ui.myMap = false; render(); break;
+      case "stats-optin":
+        store.profile = store.profile || {};
+        store.profile.noStats = !store.profile.noStats;
+        store.profile.updated = Date.now(); // so the choice wins when devices merge
+        save(); render();
+        break;
       case "share": shareCard(); break;
       case "share-send":
         if (ui.shareBlob && navigator.share) {

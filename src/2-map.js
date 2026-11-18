@@ -226,6 +226,7 @@
       if (ui.cat !== "all" && q.cat !== ui.cat) return;
       if (ui.area !== "all" && (q.cid !== cityId || q.area !== ui.area)) return;
       var done = isDone(q);
+      if (ui.myMap && !done) return; // "My map": only the places you have done
       feats.push(point(p, { key: q.key, done: done ? 1 : 0, title: q.title, icon: "pin-" + q.cat + (done ? "-done" : inSeason(q) ? "" : "-off") }));
     });
     return fc(feats);

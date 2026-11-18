@@ -18,6 +18,7 @@ A map-first app for (re)discovering the Netherlands and Belgium through quests: 
 | `web/vendor/` | MapLibre GL (vector map). Basemap tiles come from OpenFreeMap. |
 | `content/*.json` | Raw output of the sourced research per region (new quests with source links, and proposed fixes). |
 | `tools/` | `merge_content.py` adds research output to a region; `geocheck.py` + `geoapply.py` cross-check coordinates against OpenStreetMap; `rebuild_regions.py` regenerates the region outlines; `reassign_quests.py` moves quests to the region they fall in; `regions_io.py` reads and writes region files. |
+| `web/community.json`, `tools/community_stats.py` | Anonymous daily totals over signed-in explorers for Stats → Everyone and "Done by N explorers", rebuilt every night by `.github/workflows/community.yml`. Needs a one-time key: see [docs/community-stats.md](docs/community-stats.md). |
 | `web/cloud.js`, `web/firebase-config.js`, `firestore.rules` | Optional cloud save with Firebase (sign-in, sync of progress, profile and photos). Off until configured: see [docs/firebase-setup.md](docs/firebase-setup.md). |
 | `web/moved.js` | Quests that moved region (old key to new key); the app migrates saved progress and photos. |
 | `android/` | The Android shell (WebView, ETag-revalidated offline cache, location permission). |

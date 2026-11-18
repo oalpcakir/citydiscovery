@@ -5,6 +5,10 @@ on:
     branches: [main]
     paths: ["web/**", ".github/workflows/pages.yml"]
   workflow_dispatch:
+  # A push made by another workflow does not start this one, so it also runs after the daily community stats.
+  workflow_run:
+    workflows: ["Community stats"]
+    types: [completed]
 permissions:
   contents: read
   pages: write

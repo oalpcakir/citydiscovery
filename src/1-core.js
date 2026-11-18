@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  var APP_VERSION = "0.18.0";
+  var APP_VERSION = "0.19.0";
   var STORE_KEY = "citydiscovery.v1";
   var REPO = "https://github.com/oalpcakir/citydiscovery";
   var CATS = {
@@ -354,7 +354,7 @@
   function profile() {
     var p = store.profile || {};
     return { name: p.name || "", avatar: p.avatar || "🎒", cls: p.cls || "", frame: p.frame || "none",
-      accent: p.accent || "mint", title: p.title || "", home: p.home || "" };
+      accent: p.accent || "mint", title: p.title || "", home: p.home || "", noStats: !!p.noStats };
   }
   function unlockLabel(u) {
     return u.type === "avatar" ? u.value + " avatar" : u.type === "frame" ? u.name + " frame" : u.name + " colour";

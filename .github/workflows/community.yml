@@ -1,0 +1,31 @@
+# Once a day: rebuild web/community.json (anonymous totals for the Stats → Everyone screen) and commit it when it changed.
+# The Publish workflow runs after this one, so the site picks up the new file. Setup: docs/community-stats.md.
+name: Community stats
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: community-stats
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install firebase-admin==6.5.0
+      - run: python tools/community_stats.py
+        env:
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+      - name: Commit the new totals
+        run: |
+          if git diff --quiet -- web/community.json && [ -z "$(git ls-files --others -- web/community.json)" ]; then echo "No change"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add web/community.json
+          git commit -m "Community stats for $(date -u +%F)"
+          git push

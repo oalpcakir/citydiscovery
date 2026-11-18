@@ -56,7 +56,8 @@
         esc(ph[1]) + ' · ' + esc(ph[2]) + '</a></div>' : "") +
       '<div class="sh"><span class="tile">' + ic(CATS[q.cat].icon) + '</span><div class="grow">' +
         '<span class="badge">' + CATS[q.cat].label + " · " + esc(c.areas[q.area]) + '</span>' +
-        '<h3>' + esc(q.title) + '</h3></div></div>' + rewardHtml(q) +
+        '<h3>' + esc(q.title) + '</h3>' + (doneBy(q.key) ? '<small class="doneby">' + ic("users", "sm") + 'Done by ' + fmt(doneBy(q.key)) + ' explorers</small>' : "") +
+        '</div></div>' + rewardHtml(q) +
       '<div class="two">' + (done
         ? '<button class="btn ghost" data-act="toggle-open">' + ic("check") + 'Done · undo</button>' +
           '<a class="btn ghost" href="' + maps + '" target="_blank" rel="noopener">' + ic("navigation") + 'Directions</a>'
@@ -565,7 +566,7 @@
   }
 
   // ── Events ─────────────────────────────────────────────────
-  var SEL = "[data-goto-region],[data-goto-place],[data-toggle],[data-open],[data-f],[data-tab],[data-act],[data-city],[data-theme-set],[data-pick],[data-photo-id],[data-qview],[data-trail]";
+  var SEL = "[data-goto-region],[data-goto-place],[data-toggle],[data-open],[data-f],[data-tab],[data-act],[data-city],[data-theme-set],[data-pick],[data-photo-id],[data-qview],[data-trail],[data-stats-view],[data-ev-cat]";
   document.addEventListener("click", function (e) {
     var t = e.target.closest(SEL);
     if (document.getElementById("ctxmenu") && !(t && t.closest("#ctxmenu"))) closeCtx();
@@ -598,6 +599,8 @@
     }
     if (d.themeSet) { store.theme = d.themeSet; save(); switchTheme(); render(); return; }
     if (d.qview) { ui.qview = d.qview; render(); return; }
+    if (d.statsView) { ui.statsView = d.statsView; render(); return; }
+    if (d.evCat) { ui.evCat = d.evCat; render(); return; }
     if (d.trail) { ui.trailOpen = d.trail; openTrail(d.trail); return; }
     if (d.open) { q = byKey[d.open]; closeSheetSilently(); if (ui.searchOpen) endSearch(); if (q) openQuest(q); return; }
     if (d.city) { closeSheetSilently(); ui.tab = "map"; ui.trail = null; setCity(d.city, true); return; }
@@ -641,6 +644,19 @@
         if (opening && tl.length) fitPoints([].concat.apply([], tl.map(function (x) { return x.quests.map(ll); })), 15);
         break;
       }
+      case "my-map": {
+        var pts = allQuests.filter(isDone).map(ll).filter(Boolean);
+        closeSheetSilently(); ui.myMap = true; ui.trail = null; ui.panel = null; ui.cat = "all"; ui.area = "all"; ui.tab = "map"; render();
+        if (pts.length) setTimeout(function () { fitPoints(pts, 12); }, 60);
+        break;
+      }
+      case "my-map-end": ui.myMap = false; render(); break;
+      case "stats-optin":
+        store.profile = store.profile || {};
+        store.profile.noStats = !store.profile.noStats;
+        store.profile.updated = Date.now(); // so the choice wins when devices merge
+        save(); render();
+        break;
       case "share": shareCard(); break;
       case "share-send":
         if (ui.shareBlob && navigator.share) {

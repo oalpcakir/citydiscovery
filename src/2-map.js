@@ -132,9 +132,10 @@
     g.fillText(pct + "%", m, m + 1);
     return g.getImageData(0, 0, S, S);
   }
-  // Tricolours: stripe direction, then the three colours.
+  // Tricolours: stripe direction, then the three colours. "x": a Nordic cross (field, then cross colour).
   var FLAGS = { NL: ["h", "#AE1C28", "#FFFFFF", "#21468B"], BE: ["v", "#111111", "#FDDA24", "#EF3340"],
-    DE: ["h", "#000000", "#DD0000", "#FFCE00"], LU: ["h", "#EF3340", "#FFFFFF", "#00A3E0"], FR: ["v", "#002395", "#FFFFFF", "#ED2939"] };
+    DE: ["h", "#000000", "#DD0000", "#FFCE00"], LU: ["h", "#EF3340", "#FFFFFF", "#00A3E0"], FR: ["v", "#002395", "#FFFFFF", "#ED2939"],
+    DK: ["x", "#C8102E", "#FFFFFF"] };
   function flagImage(cc) {
     var W = 76, H = 52, c = document.createElement("canvas");
     c.width = W; c.height = H;
@@ -143,6 +144,11 @@
     g.fillStyle = "#fff"; g.fillRect(x - 2, y - 2, w + 4, h + 4);
     g.shadowColor = "transparent";
     var f = FLAGS[cc] || FLAGS.NL, vertical = f[0] === "v";
+    if (f[0] === "x") { // Danish proportions: the cross bar is 4/28 of the height, its upright starts at 12/37 of the width
+      g.fillStyle = f[1]; g.fillRect(x, y, w, h);
+      g.fillStyle = f[2]; g.fillRect(x + w * 12 / 37, y, w * 4 / 37, h); g.fillRect(x, y + h * 12 / 28, w, h * 4 / 28);
+      return g.getImageData(0, 0, W, H);
+    }
     f.slice(1).forEach(function (col, i) {
       g.fillStyle = col;
       if (vertical) g.fillRect(x + (w / 3) * i, y, w / 3 + 1, h); else g.fillRect(x, y + (h / 3) * i, w, h / 3 + 1);

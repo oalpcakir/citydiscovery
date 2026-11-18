@@ -1,0 +1,706 @@
+{
+  "new": [
+    {
+      "id": "rosenborg", "cat": "gor", "area": "merkez",
+      "title": "See the crown jewels in the vaults of Rosenborg",
+      "desc": "Christian IV began this Dutch Renaissance castle in 1606 as a summer house outside the city walls. Downstairs the treasury holds the Danish crown jewels and regalia, and upstairs the Knights' Hall keeps the coronation thrones, guarded by three life-size silver lions.",
+      "tip": "Book a timed ticket in summer, as the narrow rooms fill quickly. Head straight for the basement treasury first, before the tour groups arrive.",
+      "q": "Rosenborg Slot, København", "ll": [55.6857, 12.5774],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Rosenborg_Castle", "https://en.wikivoyage.org/wiki/Copenhagen"]
+    },
+    {
+      "id": "amalienborg", "cat": "gor", "area": "merkez",
+      "title": "Watch the guard change at Amalienborg",
+      "desc": "Four identical rococo palaces by Nicolai Eigtved face an octagonal square, with Jacques Saly's equestrian statue of Frederik V in the middle. The royal family still lives here, and every day at noon the Royal Life Guards change watch after marching from Rosenborg in their bearskin hats.",
+      "tip": "Join the march as it leaves Rosenborg at about 11:30 and walk with the guards through the old streets. Look down Frederiksgade for the perfect line between the Marble Church and the Opera across the water.",
+      "q": "Amalienborg Slotsplads, København", "ll": [55.6840, 12.5932],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Amalienborg", "https://en.wikivoyage.org/wiki/Copenhagen"]
+    },
+    {
+      "id": "christiansborgtower", "cat": "gor", "area": "merkez",
+      "title": "Climb Christiansborg's tower for free city views",
+      "desc": "At 106 metres, the tower of Christiansborg Palace is the tallest in Copenhagen, and it has been open to the public since 2014 at no charge. The palace below houses the Danish Parliament, the Supreme Court and the Prime Minister's office, all on one islet.",
+      "tip": "Expect a short security check at the entrance on Prins Jørgens Gård. The lift does the climbing, so it is an easy win for families.",
+      "q": "Christiansborg Slot, København", "ll": [55.6760, 12.5803],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Christiansborg_Palace", "https://en.wikivoyage.org/wiki/Copenhagen"]
+    },
+    {
+      "id": "rundetaarn", "cat": "gor", "area": "merkez",
+      "title": "Walk the spiral ramp up the Round Tower",
+      "desc": "Christian IV built Rundetårn between 1637 and 1642 as an observatory, and it is still the oldest working observatory in Europe. There are no stairs: a wide spiral ramp winds up seven and a half turns, and in 1716 Tsar Peter the Great is said to have ridden up it on horseback.",
+      "tip": "Halfway up, step into the old university library hall, which hosts free changing exhibitions. On winter evenings the telescope is often open for stargazing.",
+      "q": "Rundetårn, København", "ll": [55.6814, 12.5758],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Rundet%C3%A5rn", "https://en.wikivoyage.org/wiki/Copenhagen"]
+    },
+    {
+      "id": "vorfrelserspire", "cat": "gor", "area": "merkez",
+      "title": "Brave the outside staircase of Our Saviour's spire",
+      "desc": "The black and gold corkscrew spire of Vor Frelsers Kirke was added by Lauritz de Thurah in 1752. About 400 steps lead to the top, and the last 150 wind around the outside of the spire, narrowing until there is barely room for one person.",
+      "tip": "The spire closes in strong wind, rain or ice, so pick a calm day. Go at opening time to avoid queues on the narrow outer steps.",
+      "q": "Vor Frelsers Kirke, København", "ll": [55.6729, 12.5943],
+      "src": ["https://en.wikipedia.org/wiki/Church_of_Our_Saviour,_Copenhagen", "https://en.wikivoyage.org/wiki/Copenhagen"]
+    },
+    {
+      "id": "marmorkirken", "cat": "gor", "area": "merkez",
+      "title": "Look up into the dome of the Marble Church",
+      "desc": "Frederik's Church was begun in 1749 as the centrepiece of Frederiksstaden, stalled for over a century for lack of money and was finally finished in 1894 with funds from the financier C.F. Tietgen. Its green copper dome, about 31 metres across, is the largest church dome in Scandinavia.",
+      "tip": "Entry to the church is free. Guided climbs up to the dome gallery run at set times and sell out on summer weekends.",
+      "q": "Marmorkirken, København", "ll": [55.6850, 12.5896],
+      "tags": ["free", "rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Frederik%27s_Church", "https://en.wikivoyage.org/wiki/Copenhagen"]
+    },
+    {
+      "id": "littlemermaid", "cat": "gor", "area": "merkez",
+      "title": "Say hello to the Little Mermaid on Langelinie",
+      "desc": "Edvard Eriksen's bronze of Hans Christian Andersen's heroine has sat on her rock since 1913, a gift to the city from brewer Carl Jacobsen. She is only 1.25 metres tall, and her face was modelled on the ballerina Ellen Price.",
+      "tip": "Come before 9 or after the tour buses leave in the evening. Combine her with Kastellet and the Gefion Fountain, which are a few minutes' walk away.",
+      "q": "Den lille Havfrue, København", "ll": [55.6929, 12.5993],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/The_Little_Mermaid_(statue)", "https://en.wikivoyage.org/wiki/Copenhagen"]
+    },
+    {
+      "id": "kastellet", "cat": "gor", "area": "merkez",
+      "title": "Walk the ramparts of the star fortress Kastellet",
+      "desc": "Kastellet is one of the best preserved star fortresses in Northern Europe, begun under Christian IV and rebuilt in the 1660s. It is still an active military area, with red barracks rows, a church and an 1847 windmill inside the moats.",
+      "tip": "The grassy ramparts make a loop of about 2 km with views of the harbour. The gates close at night, so plan an evening walk before dark.",
+      "q": "Kastellet, København", "ll": [55.6914, 12.5937],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Kastellet,_Copenhagen", "https://en.wikivoyage.org/wiki/Copenhagen"]
+    },
+    {
+      "id": "gefion", "cat": "gor", "area": "merkez",
+      "title": "Find the goddess ploughing Zealand at Gefion Fountain",
+      "desc": "Anders Bundgaard's fountain of 1908 shows the Norse goddess Gefion driving four oxen, her sons, to plough the island of Zealand out of Sweden. It was a gift from the Carlsberg Foundation and is the largest monument in Copenhagen.",
+      "tip": "Locals toss coins into the basin for luck. Climb the steps beside it up to St. Alban's Church for a nice angle on the whole scene.",
+      "q": "Gefionspringvandet, København", "ll": [55.6893, 12.5976],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Gefion_Fountain"]
+    },
+    {
+      "id": "glyptotek", "cat": "gor", "area": "merkez",
+      "title": "Sit under the palms of the Glyptotek's Winter Garden",
+      "desc": "Brewer Carl Jacobsen built Ny Carlsberg Glyptotek to share his art collection, and it opened in 1897. It holds ancient Egyptian, Greek and Roman sculpture, one of the largest Rodin collections outside France and a strong set of French paintings, around a glass-domed palm garden.",
+      "tip": "The Winter Garden café is a lovely place to rest between galleries. Climb to the roof terrace for a view over Tivoli.",
+      "q": "Ny Carlsberg Glyptotek, København", "ll": [55.6725, 12.5718],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Ny_Carlsberg_Glyptotek", "https://en.wikivoyage.org/wiki/Copenhagen"]
+    },
+    {
+      "id": "smk", "cat": "gor", "area": "merkez",
+      "title": "Meet the Danish Golden Age painters at SMK",
+      "desc": "Statens Museum for Kunst is Denmark's national gallery, set in an 1896 building joined by a white modern extension in 1998. It is the place to see the Danish Golden Age painters alongside Matisse, Mantegna and Rubens.",
+      "tip": "Visitors under 18 get in free. The glass hall between the old and new wings looks straight out over the park and the lake of Østre Anlæg.",
+      "q": "Statens Museum for Kunst, København", "ll": [55.6888, 12.5784],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/National_Gallery_of_Denmark", "https://en.wikivoyage.org/wiki/Copenhagen"]
+    },
+    {
+      "id": "designmuseum", "cat": "gor", "area": "merkez",
+      "title": "Sit with the classic Danish chairs at Designmuseum",
+      "desc": "Designmuseum Danmark fills the rococo wings of the former Frederiks Hospital from 1757. It reopened in June 2022 after a major renovation, and its long gallery of chairs traces Danish furniture design from Kaare Klint to Arne Jacobsen and Hans J. Wegner.",
+      "tip": "The garden courtyard and café are a calm escape from busy Bredgade. The museum shop is one of the best places in town for design books.",
+      "q": "Designmuseum Danmark, København", "ll": [55.6864, 12.5944],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Designmuseum_Danmark", "https://designmuseum.dk/en/exhibition/reopening-in-june-2022/"]
+    },
+    {
+      "id": "nationalmuseet", "cat": "gor", "area": "merkez",
+      "title": "Meet the Egtved Girl at the National Museum",
+      "desc": "Denmark's largest museum of cultural history sits in the Prince's Palace near Christiansborg. Its prehistory galleries hold the Bronze Age Sun Chariot, the 3,400-year-old burial of the Egtved Girl and the silver Gundestrup Cauldron.",
+      "tip": "The prehistory rooms on the ground floor are the highlight, so start there. The coin and medal galleries are closed for renovation, so do not plan around them.",
+      "q": "Nationalmuseet, Ny Vestergade, København", "ll": [55.6747, 12.5744],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/National_Museum_of_Denmark", "https://en.natmus.dk/museums-and-palaces/the-national-museum-of-denmark/opening-hours"]
+    },
+    {
+      "id": "assistens", "cat": "gor", "area": "merkez",
+      "title": "Find Hans Christian Andersen's grave in Assistens",
+      "desc": "Opened in 1760, Assistens Kirkegård in Nørrebro is the resting place of Hans Christian Andersen, Søren Kierkegaard and the physicist Niels Bohr. Today it doubles as a leafy park where locals read, cycle and picnic between the old graves.",
+      "tip": "Pick up a map at the main gate on Kapelvej, as the famous graves are spread out. Picnics are fine, but keep it quiet around the graves.",
+      "q": "Assistens Kirkegård, København", "ll": [55.6909, 12.5494],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Assistens_Cemetery_(Copenhagen)", "https://en.wikivoyage.org/wiki/Copenhagen"]
+    },
+    {
+      "id": "superkilen", "cat": "gor", "area": "merkez",
+      "title": "Spot objects from 60 countries in Superkilen park",
+      "desc": "This long urban park in Nørrebro was designed by BIG, Topotek 1 and the art group Superflex and opened in 2012. It celebrates one of Denmark's most diverse neighbourhoods with over 100 objects from around 60 countries, from a Moroccan fountain to a Japanese octopus slide, spread over a red square, a black market and a green park.",
+      "tip": "Start at the bright red square by Nørrebrogade and walk north. The white lines of the black square make great photos from the bridge above.",
+      "q": "Superkilen, København", "ll": [55.6997, 12.5424],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Superkilen", "https://dac.dk/en/"]
+    },
+    {
+      "id": "grundtvigskirke", "cat": "gor", "area": "merkez",
+      "title": "Stand inside the brick organ of Grundtvig's Church",
+      "desc": "Peder Vilhelm Jensen-Klint designed this expressionist church to look like a giant organ, and it was built between 1921 and 1940 from about six million yellow bricks. His son Kaare Klint finished the work and designed the chairs inside.",
+      "tip": "It is in Bispebjerg, about 5 km north of the centre, so combine it with a bike ride. Check the opening hours before going, as services and concerts close it to visitors.",
+      "q": "Grundtvigs Kirke, København", "ll": [55.7166, 12.5339],
+      "tags": ["free", "rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Grundtvig%27s_Church"]
+    },
+    {
+      "id": "cisternerne", "cat": "gor", "area": "merkez",
+      "title": "Descend into the old water reservoir of Cisternerne",
+      "desc": "Under the lawns of Søndermarken lies a vaulted underground reservoir built in the 1850s to supply Copenhagen with drinking water. Today the dark, damp halls with dripping stalactites host one large art installation per season.",
+      "tip": "The season runs from spring to the end of November, then it closes for winter. Bring a warm layer: it is cool and humid down there all year.",
+      "q": "Cisternerne, Frederiksberg", "ll": [55.6696, 12.5242],
+      "tags": ["rainy day"], "months": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "src": ["https://frederiksbergmuseerne.dk/en/cisternerne/", "https://kbhmuseer.dk/en/museum/cisternerne-2/"]
+    },
+    {
+      "id": "blox", "cat": "gor", "area": "merkez",
+      "title": "Explore Danish architecture at BLOX on the harbour",
+      "desc": "This glassy stack by Rem Koolhaas's office OMA opened in 2018 and straddles a busy road on the harbour front. It houses the Danish Architecture Centre, whose exhibitions explain why Copenhagen looks and works the way it does.",
+      "tip": "The playground and the harbour steps outside are free. Visit the Danish Architecture Centre shop for books on Nordic design.",
+      "q": "BLOX, København", "ll": [55.6720, 12.5792],
+      "tags": ["rainy day"],
+      "src": ["https://dac.dk/en/", "https://en.wikipedia.org/wiki/Office_for_Metropolitan_Architecture"]
+    },
+    {
+      "id": "blackdiamond", "cat": "gor", "area": "merkez",
+      "title": "Watch the harbour from inside the Black Diamond",
+      "desc": "The Royal Danish Library's waterfront extension by Schmidt Hammer Lassen opened in 1999, clad in polished black granite from Zimbabwe. Inside, a tall glass atrium looks onto the harbour, and bridges link it to the old 1906 library behind.",
+      "tip": "Entry to the building is free. Walk through to the old reading room and the quiet Library Garden behind it.",
+      "q": "Den Sorte Diamant, København", "ll": [55.6735, 12.5829],
+      "tags": ["free", "rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Black_Diamond_(library)", "https://en.wikivoyage.org/wiki/Copenhagen"]
+    },
+    {
+      "id": "christiania", "cat": "gor", "area": "merkez",
+      "title": "Wander the self-built homes of Freetown Christiania",
+      "desc": "Squatters moved into an empty military barracks in Christianshavn in 1971 and declared a free town, with its own rules and hand-built houses along the old ramparts. In 2024 residents had the cobbles of Pusher Street dug up to fight the cannabis trade that had taken over it.",
+      "tip": "Ask before taking any photos of people, and respect the no-running rule. The lakeside paths behind the main area are the most peaceful part.",
+      "q": "Pusher Street, Christiania, København", "ll": [55.6734, 12.6000],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Freetown_Christiania", "https://en.wikivoyage.org/wiki/Copenhagen/Christianshavn"]
+    },
+    {
+      "id": "nyhavn", "cat": "gor", "area": "merkez",
+      "title": "Stroll the painted houses of Nyhavn",
+      "desc": "Christian V had this canal dug in 1670 to 1673 to bring ships into the heart of the city. Hans Christian Andersen lived at three addresses along it, at No. 20, 67 and 18, and old wooden ships still moor along the quay.",
+      "tip": "The sunny north side is packed with expensive terraces, so do as locals do and sit on the quay with a drink. Early morning gives the best photos.",
+      "q": "Nyhavn, København", "ll": [55.6798, 12.5909],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Nyhavn", "https://en.wikivoyage.org/wiki/Copenhagen"]
+    },
+    {
+      "id": "frederiksberghave", "cat": "gor", "area": "merkez",
+      "title": "Spot the zoo's elephants from Frederiksberg Gardens",
+      "desc": "Frederiksberg Palace crowns the hill above a romantic landscape garden with canals, a Chinese pavilion and old trees. From the paths near the zoo you can look into the elephant enclosure designed by Norman Foster.",
+      "tip": "Bring a picnic and join the locals on the lawns. The palace houses the Royal Danish Military Academy and opens for guided tours on certain weekends only.",
+      "q": "Frederiksberg Slot, Frederiksberg", "ll": [55.6718, 12.5248],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Frederiksberg_Gardens", "https://en.wikipedia.org/wiki/Frederiksberg_Palace"]
+    },
+    {
+      "id": "thorvaldsens", "cat": "gor", "area": "merkez",
+      "title": "Admire the painted halls of Thorvaldsens Museum",
+      "desc": "Opened in 1848, this was the first purpose-built museum in Denmark, made to hold the work of the sculptor Bertel Thorvaldsen. M.G. Bindesbøll painted its halls in deep reds, blues and yellows, and Thorvaldsen himself is buried in the courtyard.",
+      "tip": "Look at the frieze on the outside wall, which shows the sculptor's triumphant return to Copenhagen in 1838. The museum is compact, so an hour is enough.",
+      "q": "Thorvaldsens Museum, København", "ll": [55.6768, 12.5788],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Thorvaldsens_Museum", "https://en.wikivoyage.org/wiki/Copenhagen"]
+    },
+    {
+      "id": "davidssamling", "cat": "gor", "area": "merkez",
+      "title": "Discover Islamic art for free at the David Collection",
+      "desc": "The lawyer C.L. David left his town house and collection to the public, and today it holds one of the largest collections of Islamic art in Western Europe, along with European 18th-century furniture and Danish Golden Age paintings.",
+      "tip": "Entry is free, so drop in for even half an hour. It sits on Kronprinsessegade facing the King's Garden.",
+      "q": "Davids Samling, København", "ll": [55.6843, 12.5824],
+      "tags": ["free", "rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/David_Collection", "https://en.wikivoyage.org/wiki/Copenhagen"]
+    },
+    {
+      "id": "palmhouse", "cat": "gor", "area": "merkez",
+      "title": "Climb the spiral stairs of the Botanical Garden Palm House",
+      "desc": "The Botanical Garden covers about 10 hectares of the old city ramparts, with a lake from the former moat. Its centrepiece is the glass and cast-iron Palm House of 1874, paid for by Carlsberg founder J.C. Jacobsen, where a spiral staircase leads to a walkway under the roof.",
+      "tip": "The garden itself is free. On a cold day the warm, humid Palm House is the perfect place to thaw out.",
+      "q": "Palmehuset, Botanisk Have, København", "ll": [55.6875, 12.5730],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/University_of_Copenhagen_Botanical_Garden", "https://en.wikivoyage.org/wiki/Copenhagen"]
+    },
+    {
+      "id": "operaen", "cat": "gor", "area": "merkez",
+      "title": "Take in the Opera House across the harbour",
+      "desc": "Henning Larsen's opera house on Holmen opened in 2005, a gift to the nation from shipping magnate A.P. Møller's foundation. It sits on a line with Amalienborg and the Marble Church across the water, under a huge flat roof that juts out over the harbour.",
+      "tip": "The harbour bus stops right outside. Check the programme for guided tours of the building if you are not catching a performance.",
+      "q": "Operaen, København", "ll": [55.6820, 12.6007],
+      "src": ["https://en.wikipedia.org/wiki/Copenhagen_Opera_House"]
+    },
+    {
+      "id": "raadhus", "cat": "gor", "area": "merkez",
+      "title": "See Jens Olsen's World Clock in City Hall",
+      "desc": "Martin Nyrop's red brick City Hall was finished in 1905, and its tower rises 105.6 metres over Rådhuspladsen. Inside, Jens Olsen's astronomical World Clock, started in 1955, tracks time, planets and calendars with remarkable precision.",
+      "tip": "Entering the hall and seeing the clock is free on weekdays. Guided tours climb the tower for a view over Tivoli.",
+      "q": "Københavns Rådhus, København", "ll": [55.6753, 12.5698],
+      "tags": ["free", "rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Copenhagen_City_Hall", "https://en.wikipedia.org/wiki/Jens_Olsen%27s_World_Clock"]
+    },
+    {
+      "id": "hirschsprung", "cat": "gor", "area": "merkez",
+      "title": "Linger over Skagen painters at the Hirschsprung",
+      "desc": "Tobacco manufacturer Heinrich Hirschsprung collected Danish art of his own time and gave it to the nation. Since 1911 it has hung in a small temple-like building in the park of Østre Anlæg, with intimate rooms of Golden Age and Skagen paintings.",
+      "tip": "It is right behind SMK, so the two make an easy pair. The rooms are small, which means you can see it all in about an hour.",
+      "q": "Den Hirschsprungske Samling, København", "ll": [55.6899, 12.5775],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Hirschsprung_Collection", "https://www.hirschsprung.dk/en/plan-your-visit"]
+    },
+    {
+      "id": "arbejdermuseet", "cat": "gor", "area": "merkez",
+      "title": "Step into old Copenhagen homes at the Workers Museum",
+      "desc": "Arbejdermuseet occupies a workers' assembly hall from 1879 near Israels Plads, said to be the oldest in Europe. Its exhibitions tell how ordinary Danish families lived and worked from the late 1800s onwards, through recreated homes, workshops and a 1950s coffee bar.",
+      "tip": "The listed basement restaurant, Café & Ølhalle, serves a traditional Danish lunch. It is a five-minute walk from Torvehallerne.",
+      "q": "Arbejdermuseet, Rømersgade, København", "ll": [55.6848, 12.5704],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/The_Workers_Museum", "https://en.wikivoyage.org/wiki/Copenhagen"]
+    },
+    {
+      "id": "vorfruekirke", "cat": "gor", "area": "merkez",
+      "title": "Meet Thorvaldsen's Christ in Copenhagen Cathedral",
+      "desc": "The cathedral of Copenhagen was rebuilt by C.F. Hansen in a cool neoclassical style after the British bombardment of 1807. Bertel Thorvaldsen's marble Christus stands at the altar with the Twelve Apostles along the nave, and Crown Prince Frederik and Mary married here in 2004.",
+      "tip": "Entry is free. It sits on Frue Plads by the University, a short walk from Strøget.",
+      "q": "Vor Frue Kirke, København", "ll": [55.6794, 12.5727],
+      "tags": ["free", "rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Copenhagen_Cathedral"]
+    },
+    {
+      "id": "nyboder", "cat": "gor", "area": "merkez",
+      "title": "Walk the yellow sailors' rows of Nyboder",
+      "desc": "Christian IV began building these terraced houses in 1631 to keep navy families close to the fleet. The long ochre rows with their red roofs still house naval personnel and their families today.",
+      "tip": "Walk along Sankt Pauls Gade and Krokodillegade. Be discreet, as these are homes, not a museum.",
+      "q": "Nyboder, København", "ll": [55.6892, 12.5868],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Nyboder"]
+    },
+    {
+      "id": "cirkelbroen", "cat": "gor", "area": "merkez",
+      "title": "Zigzag across Olafur Eliasson's Circle Bridge",
+      "desc": "This footbridge over the mouth of Christianshavn Canal opened in 2015 and was designed by artist Olafur Eliasson. It is made of five round platforms with masts and cables, a nod to the sailing ships that once filled the harbour.",
+      "tip": "The bridge forces you to slow down and wander, which is the point. Cross it as part of a harbour loop from Nyhavn to Islands Brygge.",
+      "q": "Cirkelbroen, København", "ll": [55.6724, 12.5837],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Circle_Bridge"]
+    },
+    {
+      "id": "elefantporten", "cat": "gor", "area": "merkez",
+      "title": "Walk under the stone elephants of the Carlsberg gate",
+      "desc": "The Elephant Gate of 1901 is the most famous entrance to the old Carlsberg brewery, carried by four life-size granite elephants. The brewery has moved out and the area is now the new Carlsberg Byen district, but the historic buildings have been kept.",
+      "tip": "Look for the Latin motto above the arch, which means let us work for the fatherland. Combine it with a visit to Home of Carlsberg nearby.",
+      "q": "Elefantporten, København", "ll": [55.6673, 12.5322],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Elephant_Gate", "https://carlsbergbyen.dk/en/shop/shops-in-the-carlsberg-city-district/home-of-carlsberg"]
+    },
+    {
+      "id": "schonnemann", "cat": "ye", "area": "merkez",
+      "title": "Eat smørrebrød with snaps at Schønnemann",
+      "desc": "Schønnemann has served open sandwiches since 1877 and has been in its low-ceilinged cellar on Hauser Plads since 1901. It is a lunch-only place, famous for herring, liver pâté and a long list of snaps.",
+      "tip": "Book ahead, as tables go days in advance. Order the herring first, then move on to fish and meat, as Danes do.",
+      "q": "Restaurant Schønnemann, Hauser Plads, København", "ll": [55.6828, 12.5760],
+      "src": ["https://www.restaurantschonnemann.dk/en/history/", "https://www.visitcopenhagen.com/copenhagen/planning/schonnemann-gdk412669"]
+    },
+    {
+      "id": "aamanns", "cat": "ye", "area": "merkez",
+      "title": "Try modern smørrebrød at Aamanns 1921",
+      "desc": "Adam Aamann opened his first deli in Østerbro in 2006 and helped make smørrebrød fashionable again. His flagship restaurant in the city centre is listed in the Michelin Guide for its carefully built open sandwiches on homemade rye.",
+      "tip": "Go for lunch and choose three or four pieces per person. Pair them with a Danish beer or a glass of snaps.",
+      "q": "Aamanns 1921, Niels Hemmingsens Gade, København", "ll": [55.6802, 12.5759],
+      "src": ["https://aamanns.dk/en/restaurant/aamanns-1921/", "https://guide.michelin.com/gb/en/capital-region/copenhagen/restaurant/aamanns-1921"]
+    },
+    {
+      "id": "torvehallerne", "cat": "ye", "area": "merkez",
+      "title": "Graze through the glass halls of Torvehallerne",
+      "desc": "Two glass market halls on Israels Plads opened in 2011 on the site of the city's old vegetable market. Around 60 stalls sell everything from fish and cheese to smørrebrød, coffee and tacos.",
+      "tip": "Come at lunchtime on a weekday to try several small dishes. The outdoor fruit and flower stalls between the halls are open in good weather.",
+      "q": "Torvehallerne, København", "ll": [55.6839, 12.5696],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Israels_Plads", "https://en.wikivoyage.org/wiki/Copenhagen"]
+    },
+    {
+      "id": "reffen", "cat": "ye", "area": "merkez",
+      "title": "Feast at the waterfront stalls of Reffen",
+      "desc": "Reffen opened in 2018 on Refshaleøen, in the old shipyard area, as the successor to the street food market on Papirøen. Dozens of stalls in containers serve food from around the world, with deck chairs and sunsets over the water.",
+      "tip": "Reffen closes for the winter and reopens in spring, so check the season dates first. Take the harbour bus to Refshaleøen and arrive early on summer evenings for a seat by the water.",
+      "q": "Reffen, Refshalevej, København", "ll": [55.6932, 12.6098],
+      "months": [3, 4, 5, 6, 7, 8, 9],
+      "src": ["https://reffen.dk/en", "https://cphpost.dk/?p=96234"]
+    },
+    {
+      "id": "hartbageri", "cat": "ye", "area": "merkez",
+      "title": "Queue for sourdough and buns at Hart Bageri",
+      "desc": "American baker Richard Hart, formerly head baker at Tartine in San Francisco, opened this bakery on Gammel Kongevej in 2018 with support from Noma's René Redzepi. It quickly became a reference for sourdough and cardamom buns.",
+      "tip": "Come early in the morning before the best pastries sell out. Take your bun to the Frederiksberg lakes a few minutes away.",
+      "q": "Hart Bageri, Gammel Kongevej, Frederiksberg", "ll": [55.6754, 12.5455],
+      "src": ["https://www.smart-travelling.net/en/locations/hart-bageri", "https://andershusa.com/?p=27419"]
+    },
+    {
+      "id": "lagkagehuset", "cat": "ye", "area": "merkez",
+      "title": "Have a Danish at the original Lagkagehuset",
+      "desc": "The bakery chain known abroad as Ole & Steen began here on Torvegade at Christianshavns Torv in 1991, when Ole Kristoffersen opened his first shop. The name means layer cake house, after the stacked look of the building.",
+      "tip": "Try a cinnamon social, the pull-apart cinnamon slab sold by the piece. Eat it by the canal at Christianshavn.",
+      "q": "Lagkagehuset, Torvegade, København", "ll": [55.6725, 12.5916],
+      "src": ["https://oleandsteen.us/ole-and-steen-company-history", "https://www.falstaff.com/en/cafes/lagkagehuset-christianshavn"]
+    },
+    {
+      "id": "dophotdog", "cat": "ye", "area": "merkez",
+      "title": "Grab an organic hot dog by the Round Tower",
+      "desc": "The hot dog stand, or pølsevogn, is a Danish institution, and DØP gave it an organic twist when it opened on Købmagergade in 2009. Sausages come in wholegrain buns with homemade toppings, and there is a vegetarian option.",
+      "tip": "Order a ristet hotdog with everything: remoulade, mustard, ketchup, raw and fried onions and pickles. Expect a short queue at lunchtime.",
+      "q": "DØP, Købmagergade 52, København", "ll": [55.6813, 12.5759],
+      "src": ["https://www.visitcopenhagen.com/copenhagen/planning/dop-gdk412735", "https://www.visitcopenhagen.com/copenhagen/eat-drink/legendary-tale-hotdogs-denmark"]
+    },
+    {
+      "id": "mikkeller", "cat": "ye", "area": "merkez",
+      "title": "Taste craft beer in the first Mikkeller bar",
+      "desc": "Mikkeller started as a gypsy brewer without its own brewery and grew into one of the best-known craft beer names in the world. Its very first bar is a small cellar on Viktoriagade in Vesterbro, with a rotating board of taps.",
+      "tip": "Ask for small pours to try several beers. Staff are happy to explain the list.",
+      "q": "Mikkeller Bar, Viktoriagade, København", "ll": [55.6720, 12.5575],
+      "src": ["https://www.mikkeller.com/locations/mikkeller-viktoriagade", "https://www.visitcopenhagen.com/copenhagen/planning/mikkeller-bar-gdk436646"]
+    },
+    {
+      "id": "homeofcarlsberg", "cat": "ye", "area": "merkez",
+      "title": "Sip a beer at the old brewery, Home of Carlsberg",
+      "desc": "Home of Carlsberg reopened in December 2023 in the historic brewery buildings after a five-year redesign. You can visit the old cellars and the stables with the brewery's Jutland horses, and the visit ends with a beer.",
+      "tip": "Walk in through the Elephant Gate to see the old brewery district first. Book online on summer weekends.",
+      "q": "Home of Carlsberg, Gamle Carlsberg Vej, København", "ll": [55.6646, 12.5303],
+      "tags": ["rainy day"],
+      "src": ["https://homeofcarlsberg.com/plan-your-visit", "https://www.esmmagazine.com/drinks/carlsbergs-draught-horses-return-home-as-copenhagen-visitor-centre-reopens-255861"]
+    },
+    {
+      "id": "laglace", "cat": "ye", "area": "merkez",
+      "title": "Order a sportskage at Conditori La Glace",
+      "desc": "Nicolaus Henningsen opened his confectionery on Skoubogade in 1870, and there has been a patisserie here ever since. The house speciality is the sportskage, a cake of macaroon base, nougat cream and caramelised choux puffs.",
+      "tip": "Ask for a hot chocolate with whipped cream on the side. December is the busiest month, so come mid-afternoon on a weekday.",
+      "q": "Conditori La Glace, Skoubogade, København", "ll": [55.6786, 12.5736],
+      "tags": ["rainy day"],
+      "src": ["https://laglace.dk/en/the-history/", "https://www.visitcopenhagen.com/copenhagen/planning/conditori-la-glace-gdk507403"]
+    },
+    {
+      "id": "sanktpeders", "cat": "ye", "area": "merkez",
+      "title": "Eat a Wednesday snail at Sankt Peders Bageri",
+      "desc": "Sankt Peders Bageri in the Latin Quarter claims to be Copenhagen's oldest bakery, with roots going back to 1652. On Wednesdays it sells thousands of onsdagssnegle, big cinnamon snails at a special price.",
+      "tip": "Go on a Wednesday morning, when the snails are fresh from the oven. Bring cash or card, but not much time: the queue moves fast.",
+      "q": "Sankt Peders Bageri, København", "ll": [55.6791, 12.5691],
+      "src": ["https://www.visitdenmark.com/denmark/explore/sankt-peders-bageri-gdk703530", "https://www.falstaff.com/en/cafes/skt-peders-bageri"]
+    },
+    {
+      "id": "lafontaine", "cat": "ye", "area": "merkez",
+      "title": "Have a late drink at the La Fontaine jazz bar",
+      "desc": "La Fontaine on Kompagnistræde is the oldest jazz venue in Copenhagen, a tiny bar where musicians have jammed since the 1950s. Live bands play on weekends, and late-night jam sessions draw players after their own gigs.",
+      "tip": "Music starts late, so come after 22:00. It is small, so arrive early for a seat near the band.",
+      "q": "La Fontaine, Kompagnistræde, København", "ll": [55.6774, 12.5762],
+      "tags": ["rainy day"],
+      "src": ["https://www.visitcopenhagen.com/copenhagen/planning/la-fontaine-gdk506535", "https://jazz.dk/en/vinterjazz-2025/venues/11758"]
+    },
+    {
+      "id": "coffeecollective", "cat": "ye", "area": "merkez",
+      "title": "Drink a pour-over at Coffee Collective",
+      "desc": "Coffee Collective started roasting in 2007 and opened its first café on Jægersborggade in 2008, helping launch Copenhagen's speciality coffee scene. In 2017 it moved to a bigger corner space at number 57 on the same street.",
+      "tip": "Ask the barista which filter coffee is tasting best that day. Then walk the rest of Jægersborggade, lined with small shops and bakeries.",
+      "q": "Coffee Collective, Jægersborggade 57, København", "ll": [55.6937, 12.5423],
+      "src": ["https://www.visitcopenhagen.com/copenhagen/planning/coffee-collective-gdk816124", "https://andershusa.com/the-coffee-collective-jaegersborggade-espresso-soft-serve-copenhagen-denmark/"]
+    },
+    {
+      "id": "warpigs", "cat": "ye", "area": "merkez",
+      "title": "Pair Texas barbecue with house beer at Warpigs",
+      "desc": "Warpigs is a brewpub run by Mikkeller and the American brewery 3 Floyds, set in a former slaughterhouse in the Meatpacking District. It brews its own beers on site and serves Texas-style barbecue by weight.",
+      "tip": "Order brisket and a mix of sides to share at the long tables. Come early on Friday and Saturday nights.",
+      "q": "Warpigs, Flæsketorvet, København", "ll": [55.6685, 12.5600],
+      "src": ["https://www.goodbeerhunting.com/blog/2017/3/21/just-like-witches-warpigs-brewpub-in-copenhagen-denmark", "https://www.visitcopenhagen.com/copenhagen/eat-drink/bars-and-nightlife/copenhagen-centre-craft-beer"]
+    },
+    {
+      "id": "cafepetersborg", "cat": "ye", "area": "merkez",
+      "title": "Lunch on smørrebrød at old Café Petersborg",
+      "desc": "Café Petersborg on Bredgade dates back to 1746 and is one of the oldest restaurants in the city. Its traditional lunch menu offers a huge choice of smørrebrød, from herring to warm liver pâté with bacon.",
+      "tip": "It is a few minutes from Amalienborg and the Marble Church, so plan lunch around your sightseeing.",
+      "q": "Café Petersborg, Bredgade, København", "ll": [55.6874, 12.5930],
+      "src": ["https://www.visitcopenhagen.com/copenhagen/planning/cafe-petersborg-gdk435772"]
+    },
+    {
+      "id": "hviids", "cat": "ye", "area": "merkez",
+      "title": "Drink gløgg at Hviids Vinstue, open since 1723",
+      "desc": "Hviids Vinstue on Kongens Nytorv has poured drinks since 1723, making it one of the oldest bars in Copenhagen. It is especially famous for its gløgg, the spiced Christmas wine it has served since 1954.",
+      "tip": "Gløgg season starts on 11 November at 11:00, when the cellar is packed. Order it with æbleskiver, round apple pancakes dusted with sugar.",
+      "q": "Hviids Vinstue, Kongens Nytorv, København", "ll": [55.6798, 12.5847],
+      "tags": ["rainy day"],
+      "src": ["https://cphpost.dk/2016-10-04/business-education/surviving-300-years-of-great-fires-world-wars-and-sloshed-sailors"]
+    },
+    {
+      "id": "grod", "cat": "ye", "area": "merkez",
+      "title": "Warm up with a bowl at porridge bar Grød",
+      "desc": "Grød opened in 2011 on Jægersborggade as the world's first porridge restaurant. It serves oatmeal, risotto-style grains and congee with seasonal toppings, from breakfast to dinner.",
+      "tip": "Try the oatmeal with apple compote, roasted almonds and dulce de leche. Perfect for a cold morning before Assistens Cemetery.",
+      "q": "Grød, Jægersborggade, København", "ll": [55.6936, 12.5429],
+      "src": ["https://www.groed.com/en/restaurants/noerrebro-jaegersborggade", "https://www.visitcopenhagen.com/copenhagen/planning/grod-gdk560597"]
+    },
+    {
+      "id": "juno", "cat": "ye", "area": "merkez",
+      "title": "Line up for a cardamom bun at Juno the Bakery",
+      "desc": "Former Noma pastry chef Emil Glaser opened Juno in Østerbro in 2017. Its cardamom bun, a twisted knot rich in spice, is one of the most talked-about pastries in the city.",
+      "tip": "Arrive before 09:30 at weekends, as the buns sell out. It is closed on Mondays and Tuesdays.",
+      "q": "Juno the Bakery, Århusgade, København", "ll": [55.7062, 12.5818],
+      "src": ["https://andershusa.com/best-bakeries-copenhagen/", "https://indagare.com/restaurant/juno-the-bakery"]
+    },
+    {
+      "id": "gasolinegrill", "cat": "ye", "area": "merkez",
+      "title": "Eat a burger at a petrol station with Gasoline Grill",
+      "desc": "Gasoline Grill started in a working petrol station on Landgreven, near Kongens Nytorv, and is often named the best burger in Copenhagen. The menu is short: a few organic burgers and fries, made until the meat runs out.",
+      "tip": "It is takeaway and standing room, so take your burger to the King's Garden nearby. Go early, as it can sell out.",
+      "q": "Gasoline Grill, Landgreven, København", "ll": [55.6832, 12.5852],
+      "src": ["https://andershusa.com/review-gasoline-grill-the-best-burger-in-copenhagen-denmark/", "https://www.visitcopenhagen.com/copenhagen/planning/gasoline-grill-gdk1091685"]
+    },
+    {
+      "id": "paludan", "cat": "ye", "area": "merkez",
+      "title": "Read among old books at Paludan Bogcafé",
+      "desc": "This book café on Fiolstræde in the Latin Quarter is lined with second-hand books, close to the University. Students come to study over coffee and cheap lunches under the shelves.",
+      "tip": "Grab a book from the shelves while you wait for your food. The upstairs tables are quieter.",
+      "q": "Paludan Bog & Café, Fiolstræde, København", "ll": [55.6804, 12.5733],
+      "tags": ["rainy day"],
+      "src": ["https://www.visitcopenhagen.com/copenhagen/planning/paludan-bogcafe-gdk695540"]
+    },
+    {
+      "id": "vedstranden10", "cat": "ye", "area": "merkez",
+      "title": "Ask what is open at wine bar Ved Stranden 10",
+      "desc": "This wine bar and shop faces Christiansborg across the canal, in a set of homely rooms with Danish design furniture. There is no fixed wine list: staff tell you which bottles are open, mostly natural and biodynamic wines.",
+      "tip": "Grab a seat by the window for the canal view. On Wednesdays there is an informal tasting from 17:00.",
+      "q": "Ved Stranden 10, København", "ll": [55.6773, 12.5816],
+      "src": ["https://www.visitcopenhagen.com/ved-stranden-10-gdk818517", "https://starwinelist.com/wine-place/ved-stranden-10"]
+    },
+    {
+      "id": "fiskebaren", "cat": "ye", "area": "merkez",
+      "title": "Slurp Danish oysters at Kødbyens Fiskebar",
+      "desc": "This seafood restaurant sits in a white-tiled former butcher's hall in the Meatpacking District. It is listed in the Michelin Guide and known for oysters, fresh Nordic fish and a big wine list.",
+      "tip": "Sit at the bar for oysters and a glass of wine without a full dinner. Book ahead on weekends.",
+      "q": "Kødbyens Fiskebar, Flæsketorvet, København", "ll": [55.6679, 12.5593],
+      "src": ["https://www.visitcopenhagen.com/copenhagen/planning/kodbyens-fiskebar-gdk510829", "https://guide.michelin.com/no/en/capital-region/copenhagen/restaurant/kodbyens-fiskebar"]
+    },
+    {
+      "id": "lillebakery", "cat": "ye", "area": "merkez",
+      "title": "Have breakfast at Lille Bakery on Refshaleøen",
+      "desc": "Lille Bakery bakes sourdough bread, cinnamon buns and filled doughnuts in a former industrial building on Refshaleøen. Its long communal tables fill with locals on weekend mornings.",
+      "tip": "It is open Wednesday to Sunday only. Combine it with a morning at CopenHot or a walk around the island.",
+      "q": "Lille Bakery, Refshalevej, København", "ll": [55.6901, 12.6131],
+      "src": ["https://www.visitdenmark.com/denmark/plan-your-trip/lille-bakery-gdk1109976", "https://www.smart-travelling.net/en/locations/lille-bakery"]
+    },
+    {
+      "id": "andersenmaillard", "cat": "ye", "area": "merkez",
+      "title": "Try a glazed croissant at Andersen & Maillard",
+      "desc": "This roastery, bakery and coffee bar on Nørrebrogade roasts its own beans and bakes on site from the early hours. Its glazed croissants and kouign-amann have made it one of the most popular cafés in Nørrebro.",
+      "tip": "Arrive before 11:00 for the full pastry case. Sit at the window to watch the bike traffic on Nørrebrogade.",
+      "q": "Andersen & Maillard, Nørrebrogade 62, København", "ll": [55.6904, 12.5550],
+      "src": ["https://www.visitcopenhagen.com/copenhagen/planning/andersen-maillard-gdk1111199", "https://www.falstaff.com/en/cafes/andersen-maillard"]
+    },
+    {
+      "id": "tivoli", "cat": "dene", "area": "merkez",
+      "title": "Ride the 1914 wooden roller coaster in Tivoli",
+      "desc": "Tivoli Gardens opened in 1843 and is one of the oldest amusement parks in the world. Its wooden roller coaster, Rutschebanen, dates from 1914 and still runs with a brakeman riding along on every train.",
+      "tip": "Stay until dark, when thousands of lights come on. From mid-November to early January the park turns into a huge Christmas market.",
+      "q": "Tivoli, København", "ll": [55.6734, 12.5692],
+      "src": ["https://en.wikipedia.org/wiki/Tivoli_Gardens", "https://en.wikivoyage.org/wiki/Copenhagen"]
+    },
+    {
+      "id": "islandsbryggebath", "cat": "dene", "area": "merkez",
+      "title": "Swim in the harbour at Islands Brygge bath",
+      "desc": "Havnebadet Islands Brygge opened in 2002 as the first harbour bath in Copenhagen, made possible by years of cleaning up the harbour water. It has pools for children and adults and diving towers, and it is free.",
+      "tip": "Lifeguards are on duty in the summer season. Spread out on the lawns of Islands Brygge park afterwards, like half the city does on sunny days.",
+      "q": "Havnebadet Islands Brygge, København", "ll": [55.6685, 12.5775],
+      "tags": ["free"], "months": [6, 7, 8],
+      "src": ["https://en.wikipedia.org/wiki/Copenhagen_Harbour_Baths", "https://www.visitcopenhagen.com/copenhagen/8-refreshing-baths-beaches"]
+    },
+    {
+      "id": "kalvebodbolge", "cat": "dene", "area": "merkez",
+      "title": "Walk the wooden waves of Kalvebod Bølge",
+      "desc": "Kalvebod Bølge is a wooden boardwalk that rises and falls in waves over the harbour along Kalvebod Brygge, completed in 2013. It turned a dull stretch of office quay into a place to sit, swim and launch kayaks.",
+      "tip": "Bring a drink at sunset and sit on the high point of a wave. Winter swimmers use the ladders here all year.",
+      "q": "Kalvebod Bølge, København", "ll": [55.6689, 12.5751],
+      "tags": ["free"],
+      "src": ["https://www.wonderfulcopenhagen.com/wonderful-copenhagen/international-press/international-press/winter-bathing-copenhagen", "https://www.visitcopenhagen.com/copenhagen/8-refreshing-baths-beaches"]
+    },
+    {
+      "id": "canaltour", "cat": "dene", "area": "merkez",
+      "title": "See the city from a canal boat at Gammel Strand",
+      "desc": "The classic one-hour canal tour glides under low bridges past Christiansborg, Nyhavn, the Opera and the Little Mermaid. Stromma boats leave from Ved Stranden by Gammel Strand as well as from Nyhavn.",
+      "tip": "The Gammel Strand departure is usually less crowded than Nyhavn. Sit on the open deck but keep your head down under the bridges.",
+      "q": "Ved Stranden 26, København", "ll": [55.6776, 12.5782],
+      "src": ["https://www.stromma.com/en-dk/copenhagen/sightseeing/sightseeing-by-boat/grand-tour/", "https://www.scandlines.com/inspiration/denmark/copenhagen/canal-tour-copenhagen/"]
+    },
+    {
+      "id": "goboat", "cat": "dene", "area": "merkez",
+      "title": "Captain your own picnic boat with GoBoat",
+      "desc": "GoBoat rents small solar-powered boats with a picnic table in the middle from Islands Brygge. No licence is needed, and you can steer yourself through the harbour and the canals of Christianshavn.",
+      "tip": "Bring your own food and drinks to eat on board. Book an evening slot in summer for the golden light on the water.",
+      "q": "GoBoat, Islands Brygge, København", "ll": [55.6691, 12.5786],
+      "src": ["https://www.visitcopenhagen.com/node/1079", "https://en.wikivoyage.org/wiki/Copenhagen"]
+    },
+    {
+      "id": "cykelslangen", "cat": "dene", "area": "merkez",
+      "title": "Cycle the orange curves of the Bicycle Snake",
+      "desc": "Cykelslangen is a bright orange bike bridge that winds above the harbour quay from Kalvebod Brygge to the Bryggebroen bridge. Opened in 2014, it has become a symbol of Copenhagen's bike culture.",
+      "tip": "Rent a bike and ride it towards Islands Brygge, then follow the harbour circle. Bikes only: walkers use the quay below.",
+      "q": "Cykelslangen, København", "ll": [55.6626, 12.5635],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Cykelslangen"]
+    },
+    {
+      "id": "copenhill", "cat": "dene", "area": "merkez",
+      "title": "Ski down the roof of a power plant at CopenHill",
+      "desc": "CopenHill is a waste-to-energy plant designed by BIG with a dry ski slope of about 450 metres on its roof, opened in 2019. The building also has one of the world's tallest climbing walls and a hiking trail up to a rooftop bar.",
+      "tip": "The hiking trail to the top is free, so you can enjoy the view without skiing. Book ski and climbing sessions online in advance.",
+      "q": "CopenHill, København", "ll": [55.6849, 12.6211],
+      "src": ["https://en.wikipedia.org/wiki/Amager_Bakke", "https://dac.dk/en/magazine/places/amager-bakke-a-ski-slope-on-waste---copenhill-133"]
+    },
+    {
+      "id": "kayakrepublic", "cat": "dene", "area": "merkez",
+      "title": "Paddle the canals with Kayak Republic",
+      "desc": "Kayak Republic rents kayaks and runs guided tours from its base by Knippelsbro. Routes take you through the historic canals, past houseboats and along the edge of Christiania.",
+      "tip": "Beginners should join a guided tour first. Watch out for canal boats, which have right of way.",
+      "q": "Børskaj 12, København", "ll": [55.6754, 12.5868],
+      "src": ["https://www.visitcopenhagen.com/copenhagen/planning/kayak-republic-gdk807643", "https://kayakbar.dk/kajak/"]
+    },
+    {
+      "id": "distortion", "cat": "dene", "area": "merkez",
+      "title": "Dance in the streets of Vesterbro at Distortion",
+      "desc": "Since 1998 Distortion has turned Copenhagen into an open-air party for a few days in early June. Free street parties fill the neighbourhoods of Vesterbro and Nørrebro, and a ticketed finale called Distortion Ø takes place on Refshaleøen.",
+      "tip": "The street parties are free but packed. Check the programme for the day of the Vesterbro party and come in the afternoon before it gets too crowded.",
+      "q": "Istedgade, København", "ll": [55.6684, 12.5506],
+      "tags": ["free"], "months": [6],
+      "src": ["https://cphdistortion.dk/about", "https://www.courthousenews.com/denmarks-biggest-street-party-is-back/"]
+    },
+    {
+      "id": "jazzfestival", "cat": "dene", "area": "merkez",
+      "title": "Catch a set at Jazzhus Montmartre during Jazz Festival",
+      "desc": "Every July the Copenhagen Jazz Festival fills the city with concerts for ten days, starting on the first Friday of the month, many of them free. Jazzhus Montmartre is the club where American jazz legends played in the 1960s, and it is one of the festival's key stages.",
+      "tip": "Montmartre runs concerts all year, so you can come outside the festival too. During the festival, pick up the printed programme and follow the free outdoor stages.",
+      "q": "Jazzhus Montmartre, København", "ll": [55.6820, 12.5825],
+      "months": [7],
+      "src": ["https://www.copenhagentourism.org/copenhagen-jazz-festival/", "https://en.wikipedia.org/wiki/Jazzhus_Montmartre"]
+    },
+    {
+      "id": "hojbrojul", "cat": "dene", "area": "merkez",
+      "title": "Browse the Christmas stalls on Højbro Plads",
+      "desc": "In the weeks before Christmas, Højbro Plads beside the statue of Bishop Absalon fills with wooden stalls selling gifts, gløgg and æbleskiver. In 2026 a new market runs here from 14 November to 20 December, with stalls from Denmark, Greenland and the Faroe Islands.",
+      "tip": "Entry is free. Combine it with Tivoli's Christmas market and the lights along Strøget in the same evening.",
+      "q": "Højbro Plads, København", "ll": [55.6784, 12.5799],
+      "tags": ["free"], "months": [11, 12],
+      "src": ["https://www.european-traveler.com/n24/visit-the-best-christmas-markets-julemarkeder-in-copenhagen/", "https://www.storyhunt.io/en/articles/copenhagen-christmas-guide-2026"]
+    },
+    {
+      "id": "copenhot", "cat": "dene", "area": "merkez",
+      "title": "Soak in a wood-fired hot tub at CopenHot",
+      "desc": "CopenHot on Refshaleøen has wood-fired hot tubs at about 40 degrees, saunas and cold plunge tubs right on the harbour. You can book a private tub or join a shared sauna session.",
+      "tip": "Book ahead, especially at weekends. Winter is the best time, when the contrast between the hot water and the cold air is strongest.",
+      "q": "CopenHot, Refshalevej, København", "ll": [55.6908, 12.6239],
+      "src": ["https://www.visitcopenhagen.com/copenhagen/planning/copenhot-gdk1088478", "https://www.strawberryhotels.com/blog/denmark/spa-swimming-spots-copenhagen/"]
+    },
+    {
+      "id": "amagerstrand", "cat": "dene", "area": "merkez",
+      "title": "Spend a beach day at Amager Strandpark",
+      "desc": "Amager Strandpark is a man-made island beach opened in 2005, with a long sandy shore facing the Øresund and a calm lagoon behind it. On clear days you can see the Øresund Bridge and the wind turbines offshore.",
+      "tip": "Take the metro to Øresund, Amager Strand or Femøren station. The lagoon side is shallow and warm, good for children.",
+      "q": "Amager Strandpark, København", "ll": [55.6566, 12.6453],
+      "tags": ["free"], "months": [6, 7, 8],
+      "src": ["https://en.wikipedia.org/wiki/Amager_Strandpark", "https://www.visitcopenhagen.com/copenhagen/8-refreshing-baths-beaches"]
+    },
+    {
+      "id": "thelakes", "cat": "dene", "area": "merkez",
+      "title": "Join the locals on Dronning Louises Bro",
+      "desc": "The three lakes, Sankt Jørgens Sø, Peblinge Sø and Sortedams Sø, curve along the edge of the old city. A walk or run around them is roughly 6 km, and Queen Louise's Bridge in the middle is where young Copenhageners gather on summer evenings.",
+      "tip": "Grab a drink and sit on the bridge railing at sunset. In the morning the path is busy with runners, so walk on the inside.",
+      "q": "Dronning Louises Bro, København", "ll": [55.6867, 12.5638],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/The_Lakes,_Copenhagen", "https://en.wikipedia.org/wiki/Dronning_Louises_Bro"]
+    },
+    {
+      "id": "kongenshave", "cat": "dene", "area": "merkez",
+      "title": "Picnic on the lawns of the King's Garden",
+      "desc": "Kongens Have was laid out by Christian IV in the early 1600s around Rosenborg Castle and is the oldest royal garden in Denmark. Its long avenues, rose garden and a statue of Hans Christian Andersen make it the favourite picnic lawn of the city centre.",
+      "tip": "Pick up food from Torvehallerne on the way. There are free puppet shows for children in summer.",
+      "q": "Kongens Have, København", "ll": [55.6851, 12.5800],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Rosenborg_Castle_Gardens", "https://en.wikivoyage.org/wiki/Copenhagen"]
+    },
+    {
+      "id": "bastardcafe", "cat": "dene", "area": "merkez",
+      "title": "Play board games at Bastard Café",
+      "desc": "Bastard Café opened in 2014 as the first board game café in Denmark, on the ground floor of the culture house Huset. It has thousands of games and volunteer game gurus who explain the rules.",
+      "tip": "Book a table for evenings and weekends. Ask a guru for a short game if you have only an hour.",
+      "q": "Bastard Café, Rådhusstræde, København", "ll": [55.6765, 12.5750],
+      "tags": ["rainy day"],
+      "src": ["https://bastardcafe.dk/", "https://www.visitcopenhagen.com/copenhagen/planning/bastard-cafe-gdk1083952"]
+    },
+    {
+      "id": "zoo", "cat": "dene", "area": "merkez",
+      "title": "Visit Norman Foster's elephant house at the Zoo",
+      "desc": "Copenhagen Zoo was founded in 1859 and is one of the oldest zoos in Europe. Its glass-domed Elephant House was designed by Norman Foster, and the zoo spreads across both sides of Roskildevej next to Frederiksberg Gardens.",
+      "tip": "Buy tickets online to skip the queue. Look into the elephant enclosure from Frederiksberg Gardens next door for a free preview.",
+      "q": "Zoologisk Have København, Frederiksberg", "ll": [55.6729, 12.5210],
+      "src": ["https://en.wikipedia.org/wiki/Copenhagen_Zoo"]
+    },
+    {
+      "id": "planetarium", "cat": "dene", "area": "merkez",
+      "title": "Lie back under the dome of the Planetarium",
+      "desc": "The Tycho Brahe Planetarium opened in 1989 on the edge of Sankt Jørgens Sø, named after the Danish astronomer. Its dome cinema shows films about space and nature on a giant curved screen.",
+      "tip": "Check which films have English sound before you buy a ticket. It is a good plan for a rainy afternoon with children.",
+      "q": "Tycho Brahe Planetarium, København", "ll": [55.6745, 12.5582],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Tycho_Brahe_Planetarium"]
+    },
+    {
+      "id": "konditaget", "cat": "dene", "area": "merkez",
+      "title": "Play on the rooftop of Konditaget Lüders",
+      "desc": "In Nordhavn, JAJA Architects topped a parking garage with a public playground and fitness park 24 metres up, finished in 2016. A red stair climbs the green facade to swings, trampolines and views across the harbour.",
+      "tip": "It is free and open to everyone. Combine it with a swim at Sandkaj nearby.",
+      "q": "Konditaget Lüders, København", "ll": [55.7076, 12.5984],
+      "tags": ["free"],
+      "src": ["https://dac.dk/en/magazine/places/konditaget-luders-a-roof-just-for-fun-239", "https://jaja.archi/project/konditaget-luders/"]
+    },
+    {
+      "id": "vega", "cat": "dene", "area": "merkez",
+      "title": "See a concert at VEGA in Vesterbro",
+      "desc": "VEGA is a music venue in Folkets Hus, built in 1956 to a design by Vilhelm Lauritzen, the architect of Copenhagen's old airport terminal. It reopened as a music centre in 1996, with a large hall for about 1,150 people and a smaller one for about 500.",
+      "tip": "Check the programme on the website, as big names sell out fast. The smaller hall is the place to catch rising Danish acts up close.",
+      "q": "Vega, Enghavevej, København", "ll": [55.6680, 12.5442],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Vega,_Copenhagen"]
+    },
+    {
+      "id": "svanemolle", "cat": "dene", "area": "merkez",
+      "title": "Take a dip at Svanemølle Beach",
+      "desc": "Svanemøllestranden in Østerbro is a city beach opened in 2016, with sand, a pier and a jetty for swimming. It is one of the closest beaches to the city centre.",
+      "tip": "Take the S-train to Svanemøllen station. Swim from the end of the pier, where the water is deeper.",
+      "q": "Svanemølle Strand, København", "ll": [55.7202, 12.5837],
+      "tags": ["free"], "months": [6, 7, 8],
+      "src": ["https://www.visitcopenhagen.com/copenhagen/8-refreshing-baths-beaches"]
+    },
+    {
+      "id": "stroget", "cat": "dene", "area": "merkez",
+      "title": "Walk Strøget from the Caritas Well",
+      "desc": "Strøget became a pedestrian zone in 1962 and is about 1.1 km long, from Rådhuspladsen to Kongens Nytorv. Halfway, on Gammeltorv, stands the Caritas Well of 1608, built by Christian IV, where golden balls dance on the jets on the monarch's birthday.",
+      "tip": "Detour into the side streets of the Latin Quarter, which are quieter and more charming. Shops get very busy on Saturday afternoons.",
+      "q": "Caritasbrønden, Gammeltorv, København", "ll": [55.6781, 12.5723],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Str%C3%B8get", "https://en.wikipedia.org/wiki/Caritas_Well"]
+    },
+    {
+      "id": "sandkaj", "cat": "dene", "area": "merkez",
+      "title": "Go for a winter dip at the Sandkaj bathing zone",
+      "desc": "Sandkaj in the new Nordhavn district is a free bathing zone along a wooden boardwalk, used by swimmers all year. In winter it becomes a favourite spot for the Danish habit of cold-water bathing.",
+      "tip": "There are no lifeguards, so swim only inside the marked area. Bring a towel and a warm drink for after.",
+      "q": "Sandkaj, Nordhavn, København", "ll": [55.7066, 12.5977],
+      "tags": ["free"],
+      "src": ["https://www.visitcopenhagen.com/copenhagen/planning/sandkaj-harbour-bath-gdk1110377", "https://m.dk/en/travel-with-the-metro/explore-copenhagen/urban-highlights/take-the-metro-for-refreshing-dips-in-the-citys-harbour-baths/"]
+    },
+    {
+      "id": "parken", "cat": "dene", "area": "merkez",
+      "title": "Cheer on FC København at Parken",
+      "desc": "Parken, the Danish national stadium in Østerbro, opened in 1992 and seats about 38,000 for football. It is home to F.C. Copenhagen and the Danish national team, and has a retractable roof.",
+      "tip": "Buy tickets online for league matches. Walk through Fælledparken before the game to soak up the atmosphere.",
+      "q": "Parken, Øster Allé, København", "ll": [55.7025, 12.5722],
+      "src": ["https://en.wikipedia.org/wiki/Parken_Stadium"]
+    }
+  ]
+}

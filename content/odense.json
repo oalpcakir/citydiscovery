@@ -1,0 +1,501 @@
+{
+  "new": [
+    {
+      "id": "hcahus", "cat": "gor", "area": "merkez",
+      "title": "Step into Andersen's world at H.C. Andersens Hus",
+      "desc": "The museum by Japanese architect Kengo Kuma lies mostly underground, with timber pavilions and a garden built around the small yellow corner house where Hans Christian Andersen is thought to have been born in 1805. His life and tales are told through immersive rooms, and the Ville Vau play world is made for children.",
+      "tip": "Pick up the audio guide, which tells his life as a drama in five languages. Book a time slot online in summer and on rainy weekends.",
+      "q": "H.C. Andersens Hus, Bangs Boder, Odense", "ll": [55.3984, 10.3907],
+      "tags": ["rainy day"],
+      "src": ["https://hcandersenshus.dk/en/", "https://en.wikipedia.org/wiki/Hans_Christian_Andersen_Museum"]
+    },
+    {
+      "id": "hcabarndom", "cat": "gor", "area": "merkez",
+      "title": "Peek into Andersen's tiny childhood home",
+      "desc": "In this little yellow half-timbered house on Munkemøllestræde the young Andersen grew up with his shoemaker father and washerwoman mother. The family lived here in very cramped rooms until he set off for Copenhagen as a teenager to seek his fortune.",
+      "tip": "It is a five minute walk from H.C. Andersens Hus and run by the same museum, so do both on the same day.",
+      "q": "H.C. Andersens Barndomshjem, Munkemøllestræde, Odense", "ll": [55.3945, 10.3873],
+      "tags": ["rainy day"],
+      "src": ["https://hcandersenshus.dk/en/", "https://en.wikipedia.org/wiki/Hans_Christian_Andersen_Museum"]
+    },
+    {
+      "id": "domkirke", "cat": "gor", "area": "merkez",
+      "title": "Meet a Viking-age king in the cathedral crypt",
+      "desc": "Odense Cathedral, a fine piece of Brick Gothic, is named after King Canute IV, killed in Odense in 1086 and later made a saint. His skeleton and that of his brother Benedict are on display in the crypt, where the foundations of an older travertine church can also be seen.",
+      "tip": "Entry is free. Upstairs, take time over the huge gilded altarpiece before heading down to the crypt.",
+      "q": "Sankt Knuds Kirke, Klosterbakken, Odense", "ll": [55.3954, 10.3890],
+      "tags": ["free", "rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/St._Canute%27s_Cathedral", "https://www.visitodense.com/tourist/what-do/hans-christian-andersen/footsteps-hans-christian-andersen"]
+    },
+    {
+      "id": "brandts", "cat": "gor", "area": "merkez",
+      "title": "See art and photography in an old cloth mill",
+      "desc": "Brandts Klædefabrik was once a large textile factory on the edge of the old town. Its red brick buildings now house Brandts, Odense's museum of art and visual culture, with Danish art, photography and changing exhibitions.",
+      "tip": "Around the museum the old factory yard is full of cafés and a grassy slope where locals sit in the sun. Combine a visit with lunch in Brandts Passage.",
+      "q": "Brandts, Brandts Torv, Odense", "ll": [55.3961, 10.3808],
+      "tags": ["rainy day"],
+      "src": ["https://da.wikipedia.org/wiki/Brandts_Kl%C3%A6defabrik", "https://en.wikivoyage.org/wiki/Funen"]
+    },
+    {
+      "id": "fynskelandsby", "cat": "gor", "area": "merkez",
+      "title": "Walk through a 19th-century Funen village",
+      "desc": "Den Fynske Landsby is an open-air museum where farms and houses from villages across Funen were moved and rebuilt to show rural life in the 1800s. Red Danish cows, Frederiksborg horses, piebald pigs and brown Danish hens live in the stalls and meadows, and in summer costumed staff do the daily chores.",
+      "tip": "The village opens from Easter to autumn and on Christmas weekends. The river boat from Munke Mose stops a 15 minute walk away, a lovely way to arrive.",
+      "q": "Den Fynske Landsby, Sejerskovvej 20, Odense", "ll": [55.3654, 10.3835],
+      "src": ["https://www.visitfyn.com/fyn/experiences/fyn-village", "https://www.visitodense.com/odense-aafart-river-cruise-gdk612962"]
+    },
+    {
+      "id": "carlnielsen", "cat": "gor", "area": "merkez",
+      "title": "Listen to Carl Nielsen's music come alive",
+      "desc": "Denmark's great composer Carl Nielsen grew up in rural Funen, and his museum sits beside Odense Concert Hall. Reopened in June 2023, it treats the music itself as the main exhibit, and in 2024 it won the European Museum Academy's Micheletti Award.",
+      "tip": "Check the concert hall programme too: a museum visit before an evening concert next door makes a fine pairing.",
+      "q": "Carl Nielsen Museet, Claus Bergs Gade, Odense", "ll": [55.3996, 10.3919],
+      "tags": ["rainy day"],
+      "src": ["https://www.visitodense.com/press/carl-nielsen-museum-wins", "https://en.wikipedia.org/wiki/Carl_Nielsen_Museum"]
+    },
+    {
+      "id": "tidmuseum", "cat": "gor", "area": "merkez",
+      "title": "Travel through Funen's past at TID",
+      "desc": "TID, the museum for Odense, fills a whole block of the old town around Møntergården, a red half-timbered merchant's house. Exhibitions range from Funen in prehistory to medieval and Renaissance Odense, and the old almshouses along Møntestræde tell how the town's poor lived.",
+      "tip": "Families should head for the children's museum in the 19th-century buildings opposite the shop, with hands-on play exhibitions.",
+      "q": "TID Museum for Odense, Møntestræde, Odense", "ll": [55.3983, 10.3938],
+      "tags": ["rainy day"],
+      "src": ["https://da.wikipedia.org/wiki/TID_-_Museum_for_Odense", "https://hcandersenshus.dk/en/"]
+    },
+    {
+      "id": "jernbanemuseum", "cat": "gor", "area": "merkez",
+      "title": "Climb aboard old trains at the Railway Museum",
+      "desc": "Denmark's national railway museum fills a former engine shed beside Odense station and is the largest railway museum in Scandinavia. Around 50 locomotives and carriages stand on 20 tracks, including the steam engine that pulled King Frederik IX's funeral train and a 1950s Lyntog express.",
+      "tip": "In school holidays a steam train runs on a short stretch of track. It is a two minute walk from the station, handy while waiting for a train.",
+      "q": "Danmarks Jernbanemuseum, Odense", "ll": [55.4028, 10.3860],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Danish_Railway_Museum"]
+    },
+    {
+      "id": "eventyrhaven", "cat": "gor", "area": "merkez",
+      "title": "Greet Andersen's statue in the Fairy Tale Garden",
+      "desc": "Eventyrhaven is a 2.8 hectare riverside park right behind the cathedral, laid out in the 1940s by landscape architect C.Th. Sørensen. Paths and little bridges follow the Odense Å, and a statue of Hans Christian Andersen watches over the lawns.",
+      "tip": "Bring a coffee from the old town and sit by the water. The park is on the Andersen footprint trail, so you will pass it if you follow the footsteps.",
+      "q": "Eventyrhaven, Odense", "ll": [55.3951, 10.3898],
+      "tags": ["free"],
+      "src": ["https://da.wikipedia.org/wiki/Eventyrhaven", "https://www.visitodense.com/tourist/what-do/hans-christian-andersen/footsteps-hans-christian-andersen"]
+    },
+    {
+      "id": "vaskeplads", "cat": "gor", "area": "merkez",
+      "title": "Find the spot where Andersen's mother washed clothes",
+      "desc": "On the bank of the Odense Å a small marked site recalls where Andersen's mother, a washerwoman, stood in the river doing other people's laundry. Andersen later turned her hard life into the tale She Was Good for Nothing.",
+      "tip": "It sits on the Andersen footprint route, a few steps from the Fairy Tale Garden. Stop here before his childhood home to feel how poor the family was.",
+      "q": "Vaskeplads for H.C. Andersens mor, Odense", "ll": [55.3960, 10.3927],
+      "tags": ["free"],
+      "src": ["https://www.visitodense.com/tourist/what-do/hans-christian-andersen/footsteps-hans-christian-andersen"]
+    },
+    {
+      "id": "sankthans", "cat": "gor", "area": "merkez",
+      "title": "Visit the church where Andersen was baptised",
+      "desc": "Sankt Hans Kirke on Nørregade began as the church of a Knights Hospitaller monastery and holds an impressive collection of noble tombstones. Andersen's baptism was confirmed here in 1805, and the altarpiece frames a Gethsemane painting by Carl Bloch from 1879.",
+      "tip": "Odense Slot, the old monastery turned seat of power, stands right next door, so see both together.",
+      "q": "Sankt Hans Kirke, Nørregade, Odense", "ll": [55.3992, 10.3876],
+      "tags": ["free"],
+      "src": ["https://da.wikipedia.org/wiki/Sankt_Hans_Kirke_(Odense)", "https://da.wikipedia.org/wiki/Odense_Slot"]
+    },
+    {
+      "id": "odenseslot", "cat": "gor", "area": "merkez",
+      "title": "Stroll Kongens Have past Odense Slot",
+      "desc": "Odense Slot grew out of a medieval monastery of the Knights Hospitaller and has been the town's administrative centre since the Reformation, home to royal officials, governors and today the municipality. Its garden, Kongens Have, is a public park right opposite the railway station.",
+      "tip": "The palace is offices, so enjoy it from the garden. It makes a perfect first stop after arriving by train.",
+      "q": "Odense Slot, Kongens Have, Odense", "ll": [55.3990, 10.3866],
+      "tags": ["free"],
+      "src": ["https://da.wikipedia.org/wiki/Odense_Slot", "https://www.visitodense.com/tourist/what-do/hans-christian-andersen/footsteps-hans-christian-andersen"]
+    },
+    {
+      "id": "gamlekro", "cat": "ye", "area": "merkez",
+      "title": "Eat Danish classics at Den Gamle Kro",
+      "desc": "Den Gamle Kro occupies a half-timbered property on Overgade dating back to 1683. Its glass-roofed courtyard, hung with flowers between the old timber frames, is the setting for smørrebrød, pariserbøf and other Danish inn dishes made from scratch.",
+      "tip": "Ask for a table in the covered courtyard, which feels like eating outdoors whatever the weather. Lunch is the best value.",
+      "q": "Den Gamle Kro, Overgade 23, Odense", "ll": [55.3973, 10.3919],
+      "tags": ["rainy day"],
+      "src": ["https://www.visitodense.com/den-gamle-kro-old-inn-gdk1126700", "https://visitodense.com/tourist/eat-drink/classic-danish-cuisine"]
+    },
+    {
+      "id": "underlindetraeet", "cat": "ye", "area": "merkez",
+      "title": "Dine by candlelight Under the Linden Tree",
+      "desc": "Under Lindetræet is a fine dining restaurant in a house from 1771 just behind H.C. Andersens Hus, and it has served guests since 1965. The cooking is seasonal and Danish, served in cosy rooms with antique furniture.",
+      "tip": "Dinner is Tuesday to Saturday, with brunch at weekends. Book ahead, as the rooms are small.",
+      "q": "Under Lindetræet, Ramsherred 2, Odense", "ll": [55.3988, 10.3909],
+      "src": ["https://www.visitdenmark.it/danimarca/pianifica-il-viaggio/under-lindetraeet-under-linden-tree-gdk612973"]
+    },
+    {
+      "id": "groenttorvet", "cat": "ye", "area": "merkez",
+      "title": "Have a Sunday jazz lunch at Grønttorvet",
+      "desc": "This corner pub on Sortebrødre Torv has been a public meeting place since 1872, when its first owner ran a kind of inn. It is named after the produce market held on the square on Wednesdays and Saturdays since 1952, and serves traditional Danish lunch with music and Sunday jazz.",
+      "tip": "Come on a market morning and join the locals for a beer between the stalls. Reserve for Sunday lunch.",
+      "q": "Grønttorvet, Sortebrødre Torv 9, Odense", "ll": [55.3983, 10.3927],
+      "src": ["https://www.visitodense.com/gronttorvet-traditional-lunch-and-pub-gdk613091"]
+    },
+    {
+      "id": "carlslund", "cat": "ye", "area": "merkez",
+      "title": "Order the famous omelette at Carlslund",
+      "desc": "Carlslund is a thatched restaurant in the Fruens Bøge woods, built in 1871 and named after the son of the chamberlain who owned the forest. After a fire in 2015 it was rebuilt almost exactly as before, and it is best known for its omelette with crisp pork strips, a Funen classic.",
+      "tip": "Walk or cycle there along the river from the centre, or take the river boat to Fruens Bøge. Sit outside under the trees in summer.",
+      "q": "Restaurant Carlslund, Fruens Bøge Skov 7, Odense", "ll": [55.3696, 10.3785],
+      "src": ["https://www.visitodense.com/restaurant-carlslund-gdk1090872", "https://en.wikivoyage.org/wiki/Funen"]
+    },
+    {
+      "id": "stormspakhus", "cat": "ye", "area": "merkez",
+      "title": "Graze the stalls at Storms Pakhus",
+      "desc": "Storms Pakhus is a street food market in a raw 3,000 square metre warehouse on Odense harbour. Around 24 food stalls and six bars share the hall, with a mission to support independent cooks working with Funen food traditions.",
+      "tip": "Go as a group and order from several stalls to share. On Friday and Saturday the bars stay open until 1 am, and many events inside are free.",
+      "q": "Storms Pakhus, Seebladsgade 21B, Odense", "ll": [55.4043, 10.3827],
+      "tags": ["rainy day"],
+      "src": ["https://www.visitodense.com/storms-pakhus-odense-streetfood-gdk1091547"]
+    },
+    {
+      "id": "cafedeilig", "cat": "ye", "area": "merkez",
+      "title": "Lunch on smørrebrød in Andersen's garden",
+      "desc": "Café Deilig sits in one of Kengo Kuma's timber pavilions at H.C. Andersens Hus, with tall glass walls opening onto the museum garden. It serves brunch, open sandwiches and cakes, and holds a Danish organic kitchen label.",
+      "tip": "Grab a garden table on a sunny day. It is the easiest lunch stop between the museum and the old town lanes.",
+      "q": "Café Deilig, H.C. Andersen Haven 3, Odense", "ll": [55.3981, 10.3899],
+      "src": ["https://www.visitodense.com/cafe-deilig-cafe-lovely-gdk1131912"]
+    },
+    {
+      "id": "carlsenskvarter", "cat": "ye", "area": "merkez",
+      "title": "Sip a beer under a pharmacy's glass ceiling",
+      "desc": "Carlsens Kvarter is a cosy brown pub, open since 1972, in an 1898 building that was once a pharmacy and still has its original opal glass ceiling. It is known for a long list of Danish and foreign speciality beers and has imported Belgian Trappist beer since 1997.",
+      "tip": "Service is at the table, so sit down and ask the staff for a local Funen beer. It is a short walk south of the centre.",
+      "q": "Carlsens Kvarter, Hunderupvej 19, Odense", "ll": [55.3908, 10.3883],
+      "tags": ["rainy day"],
+      "src": ["https://www.visitodense.com/carlsens-kvarter-beer-bar-gdk1081705", "https://www.visitodense.com/tourist/eat-drink/explore-local-beer-bars"]
+    },
+    {
+      "id": "olufbager", "cat": "ye", "area": "merkez",
+      "title": "Dine in a 1586 merchant's yard at Oluf Bagers Gaard",
+      "desc": "The building was raised in 1586 by the colourful Odense merchant Oluf Bager, and in 1772 the first edition of the newspaper Fyens Stiftstidende was printed here. Today guests eat Nordic food with French touches in the old horse stable, where the stalls and stone floor survive.",
+      "tip": "Enter through the cobbled courtyard from Hans Jensens Stræde. In good weather ask for a table out in the yard.",
+      "q": "Oluf Bagers Gaard, Nørregade 29, Odense", "ll": [55.3982, 10.3886],
+      "src": ["https://www.visitodense.com/restaurant-oluf-bagers-gaard-gdk612901"]
+    },
+    {
+      "id": "nordatlanten", "cat": "ye", "area": "merkez",
+      "title": "Taste the North Atlantic at Nordatlanten",
+      "desc": "Restaurant Nordatlanten is part of the Nordatlantisk Hus cultural centre on Odense harbour. The kitchen cooks with ingredients from the North Atlantic countries, like Icelandic lamb, sea buckthorn and angelica, and buys its fish at Danish auctions.",
+      "tip": "The weekend brunch buffet with smoked Greenland halibut, Icelandic salmon and skyr is the easiest way in. Walk it off along the harbour afterwards.",
+      "q": "Restaurant Nordatlanten, Nordatlantisk Promenade 1, Odense", "ll": [55.4078, 10.3800],
+      "src": ["https://www.visitodense.com/restaurant-nordatlanten-gdk907087"]
+    },
+    {
+      "id": "aafart", "cat": "dene", "area": "merkez",
+      "title": "Glide up the Odense Å on an electric riverboat",
+      "desc": "From Munke Mose, the river boats wind upstream past Odense Zoo to the Fruens Bøge woods, and since 2023 they run on near-silent electric power. The round trip takes about an hour, and the ticket is valid all day.",
+      "tip": "You may hop off at the zoo on the way out but not on the return, because of the current. Bringing a picnic on board is allowed.",
+      "q": "Odense Aafart, Filosofgangen 30, Odense", "ll": [55.3921, 10.3807],
+      "months": [4, 5, 6, 7, 8, 9, 10],
+      "src": ["https://www.visitodense.com/odense-aafart-river-cruise-gdk612962"]
+    },
+    {
+      "id": "odensezoo", "cat": "dene", "area": "merkez",
+      "title": "Watch manatees and penguins at Odense Zoo",
+      "desc": "Odense Zoo opened in 1930 with two apes, a peacock and a handful of other animals, and now keeps species from giraffes and Siberian tigers to red pandas. Its Oceanium, opened in 2001, follows South American wildlife from the Amazon to Antarctica, with West Indian manatees and penguins.",
+      "tip": "Arrive by the river boat from Munke Mose, which stops right at the zoo. In 2013 it was named best zoo in Europe in its size category.",
+      "q": "Odense Zoo, Odense", "ll": [55.3771, 10.3736],
+      "src": ["https://en.wikipedia.org/wiki/Odense_Zoo"]
+    },
+    {
+      "id": "havnebad", "cat": "dene", "area": "merkez",
+      "title": "Take a free dip at the harbour bath",
+      "desc": "Odense's harbour bath is shaped like a ship with a deck and cabin, and swimming is free all year. The water is at least 20°C in summer and the large sauna runs at 85°C, so winter bathers come too.",
+      "tip": "Bring a towel to sit on in the sauna. It is closed on 25 December and 1 January, and outside food is not allowed.",
+      "q": "Odense Havnebad, Gamle Havnekaj 3, Odense", "ll": [55.4070, 10.3825],
+      "tags": ["free"],
+      "src": ["https://www.visitodense.com/odense-harbour-bath-go-free-swim-gdk1080932", "https://visitodense.com/tourist/what-do/swimming-pools-and-outdoor-baths"]
+    },
+    {
+      "id": "fodspor", "cat": "dene", "area": "merkez",
+      "title": "Follow Andersen's footprints through the old town",
+      "desc": "Footprints set in the pavement mark a route of just under 2.5 kilometres through the places that shaped Hans Christian Andersen. It runs from his birthplace through the old quarter and down to the river, past the cathedral and the city hall on Flakhaven.",
+      "tip": "Starting at his birthplace by H.C. Andersens Hus keeps the story in order. Allow about an hour with stops.",
+      "q": "Flakhaven, Odense", "ll": [55.3959, 10.3882],
+      "tags": ["free"],
+      "src": ["https://www.visitodense.com/tourist/what-do/hans-christian-andersen/footsteps-hans-christian-andersen"]
+    },
+    {
+      "id": "julemarked", "cat": "dene", "area": "merkez",
+      "title": "Warm up at the H.C. Andersen Christmas Market",
+      "desc": "From the last weekend of November through the first two weekends of December, Sortebrødre Torv in the old town fills with Christmas stalls. Expect carriage rides, roasted almonds and the fairy tale mood the city is known for.",
+      "tip": "Visit at dusk when the half-timbered houses around the square light up. Other small Odense markets serve æbleskiver and gløgg in the same weeks.",
+      "q": "Sortebrødre Torv, Odense", "ll": [55.3984, 10.3922],
+      "tags": ["free"],
+      "months": [11, 12],
+      "src": ["https://www.visitodense.com/tourist/events/christmas-markets-in-odense"]
+    },
+    {
+      "id": "dexter", "cat": "dene", "area": "merkez",
+      "title": "Catch live jazz at Musikhuset Dexter",
+      "desc": "Dexter on Vindegade is Odense's home of jazz, an intimate club stage that hosts several concerts a week. The programme runs from local bands to touring international names.",
+      "tip": "Check the calendar and buy tickets online for weekend gigs. It is a short walk from Brandts and the old town restaurants.",
+      "q": "Jazzhus Dexter, Vindegade 65, Odense", "ll": [55.3974, 10.3795],
+      "tags": ["rainy day"],
+      "src": ["https://www.dexter.dk/", "https://en.wikivoyage.org/wiki/Funen"]
+    },
+    {
+      "id": "munkemose", "cat": "dene", "area": "merkez",
+      "title": "Picnic on the lawns of Munke Mose",
+      "desc": "Munke Mose is a riverside park on the Odense Å just south of the old town, with open lawns and paths along the water. It is also where the river boats and rental canoes set off upstream.",
+      "tip": "Buy picnic food in town and claim a spot by the water on a summer evening. Combine it with the boat trip or a walk to the Fairy Tale Garden.",
+      "q": "Munke Mose, Odense", "ll": [55.3908, 10.3833],
+      "tags": ["free"],
+      "src": ["https://www.visitodense.com/odense-aafart-river-cruise-gdk612962", "https://www.visitdenmark.se/danmark/planera-resan/rent-canoe-odense-river-gdk1100307"]
+    },
+    {
+      "id": "egeskov", "cat": "gor", "area": "cevre",
+      "title": "Cross the moat to Egeskov's water castle",
+      "desc": "Egeskov is Denmark's best preserved Renaissance water castle, built in 1554 by Frands Brockenhuus on oak piles in a small lake. Legend says a whole oak forest went into the foundations, giving the place its name, which means oak forest.",
+      "tip": "Plan most of a day: beyond the castle there are big gardens, a large maze and a Veteran Museum of old vehicles. On November and early December weekends a Christmas market fills the grounds.",
+      "q": "Egeskov Slot, Kværndrup", "ll": [55.1762, 10.4902],
+      "src": ["https://en.wikipedia.org/wiki/Egeskov_Castle", "https://www.egeskov.dk/en/"]
+    },
+    {
+      "id": "faaborgmuseum", "cat": "gor", "area": "cevre",
+      "title": "Meet the Funen Painters at Faaborg Museum",
+      "desc": "Canned goods maker Mads Rasmussen founded this museum in 1910 with his painter friends, the Fynboerne, among them Peter Hansen, Fritz Syberg and Johannes Larsen. The collection centres on their art from 1885 to 1925, along with sculpture and furniture.",
+      "tip": "Look closely at the Funen landscapes, then go and see the same light for yourself on the harbour. The old town gate Vesterport is a short walk away.",
+      "q": "Faaborg Museum, Grønnegade, Faaborg", "ll": [55.0945, 10.2478],
+      "tags": ["rainy day"],
+      "src": ["https://da.wikipedia.org/wiki/Faaborg_Museum"]
+    },
+    {
+      "id": "valdemarsslot", "cat": "gor", "area": "cevre",
+      "title": "See modern art inside Valdemars Slot",
+      "desc": "Christian IV had this grand manor built on Tåsinge between 1639 and 1644 for his son Valdemar Christian, who never lived in it. In 1678 it was given to naval hero Niels Juel after his victory at the Battle of Køge, and today its rooms and grounds host summer seasons of contemporary art, music and performance.",
+      "tip": "The art season runs from May to mid-September. Arrive from Svendborg on the veteran boat Helge for the full experience.",
+      "q": "Valdemars Slot, Tåsinge", "ll": [55.0223, 10.6531],
+      "months": [5, 6, 7, 8, 9],
+      "src": ["https://en.wikipedia.org/wiki/Valdemar%27s_Castle", "https://www.valdemarsslot.dk/"]
+    },
+    {
+      "id": "aeroeskoebing", "cat": "gor", "area": "cevre",
+      "title": "Wander the cobbled lanes of Ærøskøbing",
+      "desc": "Ærøskøbing's official founding year is 1250, and the town grew on trade and shipping, leaving rows of small, brightly painted houses along cobbled streets. The church dates from 1756 to 1758, and the harbour lies sheltered behind the islet of Dejrø.",
+      "tip": "Take the ferry from Svendborg and stay at least one night, as the town is magical once the day visitors leave.",
+      "q": "Ærøskøbing, Ærø", "ll": [54.8881, 10.4111],
+      "tags": ["free"],
+      "src": ["https://da.wikipedia.org/wiki/%C3%86r%C3%B8sk%C3%B8bing", "https://en.wikivoyage.org/wiki/%C3%86r%C3%B8"]
+    },
+    {
+      "id": "marstalmuseum", "cat": "gor", "area": "cevre",
+      "title": "Explore Marstal's seafaring past",
+      "desc": "Marstal Søfartsmuseum was founded in 1929 and fills five buildings and 37 rooms with the history of this sailing town. It holds more than 200 ship models, over 130 ships in bottles, hundreds of ship portraits and real cabins and a wheelhouse taken from old vessels.",
+      "tip": "Under 18s enter free. Afterwards walk along the harbour, where wooden ships are still repaired.",
+      "q": "Marstal Søfartsmuseum, Prinsensgade 1, Marstal", "ll": [54.8541, 10.5211],
+      "tags": ["rainy day"],
+      "src": ["https://da.wikipedia.org/wiki/Marstal_S%C3%B8fartsmuseum", "https://en.wikivoyage.org/wiki/%C3%86r%C3%B8"]
+    },
+    {
+      "id": "ladby", "cat": "gor", "area": "cevre",
+      "title": "Stand beside Denmark's only Viking ship grave",
+      "desc": "Near Kerteminde lies the only ship burial from the Viking Age found in Denmark, dated to the early 10th century. The grave is preserved at the very spot where it was discovered, and it was found full of grave goods and sacrificed animals.",
+      "tip": "The museum also looks after Ladby-Dragen, a full-size replica of the ship. Pair the visit with Kerteminde harbour, ten minutes away.",
+      "q": "Vikingemuseet Ladby, Vikingevej 123, Kerteminde", "ll": [55.4435, 10.6169],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Ladby_ship", "https://vikingemuseetladby.dk/en/"]
+    },
+    {
+      "id": "johanneslarsen", "cat": "gor", "area": "cevre",
+      "title": "Visit painter Johannes Larsen's home in Kerteminde",
+      "desc": "Johannes and Alhed Larsen built this large artists' home and studio on Møllebakken in 1901, with 16 guest beds for the painters who gathered around them. Designed by Ulrik Plesner, it opened as a museum in 1986.",
+      "tip": "Larsen is best known for his birds, so look for them in the paintings. Walk up past the windmill on the hill for a view over Kerteminde.",
+      "q": "Johannes Larsen Museet, Møllebakken, Kerteminde", "ll": [55.4561, 10.6613],
+      "tags": ["rainy day"],
+      "src": ["https://da.wikipedia.org/wiki/Johannes_Larsen_Museet"]
+    },
+    {
+      "id": "langelandsfort", "cat": "gor", "area": "cevre",
+      "title": "Go underground at the Cold War fort on Langeland",
+      "desc": "Langelandsfortet was built in 1953 to watch and, in wartime, block Warsaw Pact ships in the Langeland Belt, and the navy manned it until 1993. Today you can go down into a gun bunker with its 150 mm cannon and into the operations bunker with radar screens and plotting tables.",
+      "tip": "The museum opens from April to October. Combine it with the wild southern tip of Langeland near Bagenkop.",
+      "q": "Langelandsfort, Vognsbjergvej 4B, Bagenkop", "ll": [54.7529, 10.7159],
+      "months": [4, 5, 6, 7, 8, 9, 10],
+      "src": ["https://da.wikipedia.org/wiki/Langelandsfortet", "https://en.wikivoyage.org/wiki/Langeland"]
+    },
+    {
+      "id": "kalekomoelle", "cat": "gor", "area": "cevre",
+      "title": "Find Denmark's oldest watermill at Kaleko",
+      "desc": "Kaleko Mølle, just east of Faaborg, is Denmark's oldest preserved watermill for grinding grain, with its oldest building from around 1600. It worked until 1912, became a museum in 1917 and was a film set for the much-loved TV Christmas calendar Nissebanden.",
+      "tip": "Entry is free. A small café with outdoor tables opens from June to August beside the millpond.",
+      "q": "Kaleko Mølle, Faaborg", "ll": [55.0994, 10.2671],
+      "tags": ["free"],
+      "src": ["https://da.wikipedia.org/wiki/Kaleko_M%C3%B8lle"]
+    },
+    {
+      "id": "troense", "cat": "gor", "area": "cevre",
+      "title": "Stroll the skippers' village of Troense",
+      "desc": "Troense on Tåsinge looks out over Svendborgsund from a sheltered natural harbour. In 1750 Niels Juel of Valdemars Slot had houses built along Grønnegade with long, narrow gardens behind them, laid out for growing fruit.",
+      "tip": "Walk Grønnegade end to end, then follow the shore about two kilometres to Valdemars Slot.",
+      "q": "Troense, Tåsinge", "ll": [55.0343, 10.6409],
+      "tags": ["free"],
+      "src": ["https://da.wikipedia.org/wiki/Troense", "https://www.visitdenmark.com/denmark/plan-your-trip/tasinge-orchard-gdk1137690"]
+    },
+    {
+      "id": "clay", "cat": "gor", "area": "cevre",
+      "title": "Admire porcelain treasures at CLAY in Middelfart",
+      "desc": "CLAY Keramikmuseum Danmark is a museum of ceramic art, craft and design in the Grimmerhus villa in Middelfart. Since 2011 it has held the Royal Copenhagen Museum collection, with works from the Royal Porcelain Factory, Bing & Grøndahl and Aluminia.",
+      "tip": "Stroll the sculpture park outside afterwards, with views over the Little Belt.",
+      "q": "CLAY Keramikmuseum Danmark, Kongebrovej 42, Middelfart", "ll": [55.5079, 9.7203],
+      "tags": ["rainy day"],
+      "src": ["https://da.wikipedia.org/wiki/CLAY_Keramikmuseum_Danmark", "https://en.wikivoyage.org/wiki/Middelfart"]
+    },
+    {
+      "id": "naturama", "cat": "gor", "area": "cevre",
+      "title": "Come face to face with whales at Naturama",
+      "desc": "Naturama in Svendborg opened in 1935 as the Zoological Museum and moved into a new 4,200 square metre exhibition building in 2005. It shows a large collection of animals from the Nordic countries and the Arctic, including whales, polar bears, foxes and owls.",
+      "tip": "Under 18s enter free, which makes it an easy rainy day with children. Its biologists also study the rare hazel dormouse that lives in south Funen.",
+      "q": "Naturama, Dronningemaen 30, Svendborg", "ll": [55.0639, 10.6076],
+      "tags": ["rainy day"],
+      "src": ["https://da.wikipedia.org/wiki/Naturama", "https://en.wikivoyage.org/wiki/Svendborg"]
+    },
+    {
+      "id": "faaborgrogeri", "cat": "ye", "area": "cevre",
+      "title": "Eat smoked fish on the quay at Faaborg Røgeri",
+      "desc": "Faaborg Røgeri Café sits right on the quay of Faaborg harbour and serves fish from its own smokehouse every day. Expect hot-smoked salmon, marinated herring and homemade tuna salad, with views over the South Funen Archipelago.",
+      "tip": "Order a picnic basket with sandwiches and take it on an island ferry. There is an ice cream kiosk for dessert.",
+      "q": "Faaborg Røgeri Café, Vestkaj 3, Faaborg", "ll": [55.0950, 10.2377],
+      "src": ["https://www.visitfaaborg.com/faaborg-rogeri-cafe-gdk613784"]
+    },
+    {
+      "id": "vesterportbageri", "cat": "ye", "area": "cevre",
+      "title": "Taste award-winning brunsviger in Faaborg",
+      "desc": "Brunsviger, a soft yeast cake soaked in melted brown sugar and butter, is called Funen's national dish. Vesterports Bageri, beside Faaborg's old town gate, has been voted the best bakery on Funen and the islands.",
+      "tip": "Eat it fresh and still sticky with a coffee in the café, and buy an extra slice for the road.",
+      "q": "Vesterports Bageri, Vestergade 6, Faaborg", "ll": [55.0964, 10.2410],
+      "src": ["https://www.visitfaaborg.com/vesterport-bageri-og-cafe-gdk1136284", "https://visitfyn.com/fyn/experiences/three-specialities-fyn"]
+    },
+    {
+      "id": "rudolfmathis", "cat": "ye", "area": "cevre",
+      "title": "Feast on seafood at Rudolf Mathis in Kerteminde",
+      "desc": "Rudolf Mathis is a seafood restaurant at the harbour entrance in Kerteminde, with windows over the water. The menu changes with the best fish and shellfish of the day, much of it from the surrounding waters.",
+      "tip": "It is closed on Sundays and Mondays, so plan around that. In summer book the waterside terrace for sunset.",
+      "q": "Restaurant Rudolf Mathis, Dosseringen 13, Kerteminde", "ll": [55.4485, 10.6600],
+      "src": ["https://www.visitkerteminde.com/ln-int/restaurant-rudolf-mathis-gdk613541", "https://en.wikivoyage.org/wiki/Funen"]
+    },
+    {
+      "id": "juhlsrogeri", "cat": "ye", "area": "cevre",
+      "title": "Buy smoked fish straight from Juhl's smokehouse",
+      "desc": "J. Chr. Juhl's Røgeri on Kerteminde harbour smokes fish over an open fire in old-fashioned smoke ovens, without additives. It is the place to buy a warm, golden piece of fish to eat by the water.",
+      "tip": "It opens early on weekdays, from 6 am to 1 pm, so come for a fishy breakfast. Bring rye bread and find a harbour bench.",
+      "q": "Juhls Røgeri, Dosseringen 35, Kerteminde", "ll": [55.4488, 10.6634],
+      "src": ["https://www.visitdenmark.com/denmark/plan-your-trip/j-chr-juhls-rogeri-smokehouse-gdk1143133"]
+    },
+    {
+      "id": "nybro", "cat": "ye", "area": "cevre",
+      "title": "Taste fresh apple juice at Nybro orchard",
+      "desc": "Nybro Frugtplantage is an orchard near Kerteminde that presses its own apple juice, also blended with blackcurrant or elderflower. The farm shop sells seasonal fruit from its own trees along with jams and honey.",
+      "tip": "In season you can pick your own fruit. Cycle out from Kerteminde, as the farm welcomes cyclists and hikers.",
+      "q": "Nybro Frugtplantage, Lille Salbyvej 54, Mesinge", "ll": [55.4893, 10.6397],
+      "src": ["https://www.visitodense.com/tourist/what-do/gastro/farm-shops-fyn", "https://www.visitkerteminde.com/ln-int/nybro-frugtplantage-gdk734211"]
+    },
+    {
+      "id": "aerobryggeri", "cat": "ye", "area": "cevre",
+      "title": "Sample island beer at Ærø Bryggeri",
+      "desc": "The brewery in Store Rise on Ærø reopened in 2004 under the name Rise Bryggeri and now brews as Ærø Bryggeri. Its shop looks straight into the brewhouse and stocks the full range along with local delicacies.",
+      "tip": "The beer parlour serves draught beer and lunch mainly in July and August. Book a tasting with a tour in summer.",
+      "q": "Ærø Bryggeri, Vandværksvej 5, Store Rise", "ll": [54.8511, 10.3963],
+      "src": ["https://www.visitaeroe.com/aero/explore/bryggeributik-brewery-shop-gdk1117478"]
+    },
+    {
+      "id": "refsvindinge", "cat": "ye", "area": "cevre",
+      "title": "Toast Ale No. 16 at Bryggeriet Refsvindinge",
+      "desc": "This small farm brewery near Ørbæk dates back to 1885 and is one of the best known microbreweries in Denmark. Its Ale No. 16 is credited with starting the Danish beer revolution in the mid-1990s.",
+      "tip": "Door sales run from April to September with short hours, so check before driving out.",
+      "q": "Bryggeriet Refsvindinge, Nyborgvej 80, Ørbæk", "ll": [55.2906, 10.7024],
+      "src": ["https://www.visitnyborg.com/nyborg/plan-your-trip/bryggeriet-refsvindinge-brewery-gdk613301"]
+    },
+    {
+      "id": "hvidedame", "cat": "ye", "area": "cevre",
+      "title": "Dine at Den Hvide Dame at Hindsgavl Castle",
+      "desc": "Den Hvide Dame, the White Lady, is the restaurant at Hindsgavl Slot, a manor from 1784 on a peninsula west of Middelfart. Some vegetables come from the castle's own garden, and menus range from a light lunch to six courses.",
+      "tip": "Walk in the Hindsgavl nature park first to build an appetite.",
+      "q": "Den Hvide Dame, Hindsgavl Allé 7, Middelfart", "ll": [55.5050, 9.6889],
+      "src": ["https://en.wikivoyage.org/wiki/Middelfart", "https://da.wikipedia.org/wiki/Hindsgavl_Slot"]
+    },
+    {
+      "id": "bridgewalking", "cat": "dene", "area": "cevre",
+      "title": "Walk on top of the Old Little Belt Bridge",
+      "desc": "Bridgewalking Lillebælt takes you up onto the arches of the 1935 bridge between Funen and Jutland, 60 metres above the sea. The guided tour lasts about two hours including safety briefing and harness.",
+      "tip": "Tours run daily from April to October and at weekends in winter. Watch the water below, as harbour porpoises are often seen in the Little Belt.",
+      "q": "Hindsgavl Naturcenter, Galsklintvej 2, Middelfart", "ll": [55.5116, 9.7002],
+      "src": ["https://bridgewalking.dk/en/", "https://en.wikivoyage.org/wiki/Middelfart"]
+    },
+    {
+      "id": "fjordbaelt", "cat": "dene", "area": "cevre",
+      "title": "Watch porpoise training at Fjord&Bælt",
+      "desc": "Fjord&Bælt opened in 1997 at the mouth of Kerteminde Fjord and is one of the few places in the world that keeps harbour porpoises. It doubles as a research centre for marine mammals with the University of Southern Denmark, and seals and porpoises are trained in front of visitors every day.",
+      "tip": "Plan around the training sessions, which start at 11 am. The harbour smokehouses are a short walk away for lunch.",
+      "q": "Fjord&Bælt, Margrethes Plads 1, Kerteminde", "ll": [55.4502, 10.6612],
+      "tags": ["rainy day"],
+      "src": ["https://da.wikipedia.org/wiki/Fjord%26B%C3%A6lt", "https://www.fjordbaelt.dk/en/"]
+    },
+    {
+      "id": "svanninge", "cat": "dene", "area": "cevre",
+      "title": "Hike the Funen Alps at Svanninge Bakker",
+      "desc": "Svanninge Bakker is about 280 hectares of sandy hills, woods and open slopes between Faaborg and Arreskov Sø, often called the Funen Alps. Faaborg Museum's founder Mads Rasmussen bought part of it in 1910 to keep the views open, and a lookout tower from 1935 holds an exhibition on the area.",
+      "tip": "Climb the tower for views to the archipelago. The paths are steep by Danish standards, so wear proper shoes.",
+      "q": "Svanninge Bakker, Faaborg", "ll": [55.1270, 10.2499],
+      "tags": ["free"],
+      "src": ["https://da.wikipedia.org/wiki/Svanninge_Bakker"]
+    },
+    {
+      "id": "oehavsstien", "cat": "dene", "area": "cevre",
+      "title": "Walk a stage of the Archipelago Trail",
+      "desc": "Øhavsstien runs from Lundeborg on east Funen across south Funen to Falsled, with branches over Tåsinge to Langeland and via Faaborg to Ærø. The first stage leaves Lundeborg along the beach and through Purreskoven to the manor Hesselagergård.",
+      "tip": "Start at Lundeborg harbour and walk as far as you like, then return by bus or taxi. Shelters along the way allow overnight hikes.",
+      "q": "Lundeborg Havn, Lundeborg", "ll": [55.1387, 10.7864],
+      "tags": ["free"],
+      "src": ["https://da.wikipedia.org/wiki/%C3%98havsstien"]
+    },
+    {
+      "id": "fynshoved", "cat": "dene", "area": "cevre",
+      "title": "Hike to the tip of Fyns Hoved",
+      "desc": "Fyns Hoved is Funen's northernmost point, dividing the Kattegat from the Great Belt, and its grassland, cliffs and lagoons are protected nature. The many stone walls date from 1810, when village farmers divided the land, and painters like Johannes Larsen came here for the light.",
+      "tip": "Follow the path out to the cape and back past the natural harbour Korshavn. Thousands of migrating birds rest here in spring and autumn.",
+      "q": "Fyns Hoved, Hindsholm", "ll": [55.6206, 10.5910],
+      "tags": ["free"],
+      "src": ["https://da.wikipedia.org/wiki/Fyns_Hoved"]
+    },
+    {
+      "id": "hindsgavldyrehave", "cat": "dene", "area": "cevre",
+      "title": "Roam the nature park at Hindsgavl",
+      "desc": "The Hindsgavl peninsula west of Middelfart was a royal hunting ground in the Middle Ages, and a castle here hosted a truce meeting of the Danish and Norwegian kings in 1295. Today the nature park around Hindsgavl Slot has woods, meadows and coast along Fænø Sund.",
+      "tip": "Look for the grassy mound of the medieval castle near the manor. There is a shelter site if you want to sleep out.",
+      "q": "Naturparken Hindsgavl Dyrehave, Middelfart", "ll": [55.5085, 9.6926],
+      "tags": ["free"],
+      "src": ["https://da.wikipedia.org/wiki/Hindsgavl_Slot", "https://en.wikivoyage.org/wiki/Middelfart"]
+    },
+    {
+      "id": "voderupklint", "cat": "dene", "area": "cevre",
+      "title": "Walk down the giant steps of Voderup Klint",
+      "desc": "On Ærø's south coast a 33 metre high cliff drops to the sea in huge grassy terraces, created by landslides over a slippery layer of ancient clay. The 3.5 kilometre stretch has been protected since 1957, and cattle graze it in summer.",
+      "tip": "Come late in the day when the low sun picks out the terraces. The paths are steep, so take care after rain.",
+      "q": "Voderup Klint, Ærø", "ll": [54.8660, 10.3347],
+      "tags": ["free"],
+      "src": ["https://da.wikipedia.org/wiki/Voderup_Klint"]
+    },
+    {
+      "id": "helge", "cat": "dene", "area": "cevre",
+      "title": "Cruise Svendborgsund on the veteran boat Helge",
+      "desc": "The old tour boat Helge sails from Svendborg through the narrow, wooded Svendborgsund to Tåsinge and Valdemars Slot. The trip to the castle takes about an hour, past skipper villages and moored wooden ships.",
+      "tip": "It runs from mid-May to mid-September. Go one way by boat and walk back via Troense.",
+      "q": "Sundfarten Helge, Jessens Mole, Svendborg", "ll": [55.0596, 10.6148],
+      "months": [5, 6, 7, 8, 9],
+      "src": ["https://en.wikivoyage.org/wiki/Svendborg"]
+    },
+    {
+      "id": "erikshale", "cat": "dene", "area": "cevre",
+      "title": "Swim from the beach huts at Eriks Hale",
+      "desc": "Eriks Hale is a sand spit southeast of Marstal, with a sandy beach, stone groynes and a row of small, picturesque bathing huts along the Baltic shore. A path leads out to an old lime kiln on Frederiksholmen, used until 1924.",
+      "tip": "Bring a towel and a picnic, as there is little here but beach. Walk out to the lime kiln at sunset.",
+      "q": "Eriks Hale, Marstal", "ll": [54.8438, 10.5206],
+      "tags": ["free"],
+      "months": [6, 7, 8],
+      "src": ["https://da.wikipedia.org/wiki/Eriks_Hale", "https://en.wikivoyage.org/wiki/%C3%86r%C3%B8"]
+    }
+  ]
+}

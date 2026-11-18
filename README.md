@@ -33,7 +33,7 @@ XP comes from quests (100, plus bonuses for seasonal quests, day trips, the firs
 2. `python tools/merge_content.py <region> content/<region>.json`
 3. `python tools/geocheck.py web/cities/<region>.js > geo.txt` then `python tools/geoapply.py web/cities geo.txt`
 4. Run `tools/reassign_quests.py` (needs `shapely`) to move any quest that falls in another region; it records moves in `web/moved.js`.
-   To add a region, add a hub to `tools/hubs.json`, run `tools/rebuild_regions.py`, then `tools/reassign_quests.py`.
+   To add a region, add a hub to `tools/hubs.json`, run `tools/rebuild_regions.py` (boundary files listed in its header) and `tools/build_countries.py`, then `tools/reassign_quests.py`.
    To fill a "coming soon" region, give its hub a `new` block (levels and areas) in `tools/hubs.json` and run `tools/reassign_quests.py`; it creates the empty region file.
 5. Run `python tools/find_photos.py` to look up cover photos for the new quests (it only looks up quests it has not seen before).
 6. Commit and push; the site and the app update within a minute.

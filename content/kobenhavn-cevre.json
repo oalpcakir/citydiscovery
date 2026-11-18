@@ -1,0 +1,481 @@
+{
+  "new": [
+    {
+      "id": "kronborg", "cat": "gor", "area": "cevre",
+      "title": "Walk the ramparts of Hamlet's castle at Kronborg",
+      "desc": "Kronborg guards the narrowest point of the Øresund, where for centuries every passing ship paid the Sound Dues to the Danish king. Shakespeare set Hamlet here as Elsinore, and the Renaissance castle has been a UNESCO World Heritage Site since 2000.",
+      "tip": "Go down into the dark casemates to find the stone statue of Holger Danske, said to wake when Denmark is in danger. In summer, actors stage scenes from Hamlet in the courtyard.",
+      "q": "Kronborg, Helsingør", "ll": [56.0391, 12.6212],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Kronborg"]
+    },
+    {
+      "id": "sofartsmuseet", "cat": "gor", "area": "cevre",
+      "title": "Go below deck at the museum built inside a dry dock",
+      "desc": "The Maritime Museum of Denmark sits underground around an old shipyard dry dock, with bridges zigzagging across the empty basin. Designed by BIG and opened in 2013, it tells 600 years of Danish seafaring, from the Sound Dues to tattoos and container giants.",
+      "tip": "Combine it with Kronborg next door on the same day. Look down into the dock from the street before you go in, it is the best view of the building.",
+      "q": "M/S Museet for Søfart, Helsingør", "ll": [56.0389, 12.6163],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/M/S_Maritime_Museum_of_Denmark"]
+    },
+    {
+      "id": "louisiana", "cat": "gor", "area": "cevre",
+      "title": "Look across to Sweden from Louisiana's sculpture park",
+      "desc": "Louisiana opened in 1958 in a villa above the Øresund at Humlebæk, and its low glass corridors lead through gardens dotted with Calder, Moore and Giacometti. It is one of the most visited art museums in Scandinavia, with big rotating exhibitions of modern and contemporary art.",
+      "tip": "Bring lunch time into the plan: the café terrace looks straight out over the water to Sweden. The train from Copenhagen to Humlebæk takes about 35 minutes, then it is a 10 minute walk.",
+      "q": "Louisiana Museum of Modern Art, Humlebæk", "ll": [55.9694, 12.5432],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Louisiana_Museum_of_Modern_Art"]
+    },
+    {
+      "id": "frederiksborg", "cat": "gor", "area": "cevre",
+      "title": "Cross the lake to Frederiksborg Castle",
+      "desc": "Christian IV built this Renaissance palace on three islets in the castle lake at Hillerød in the early 1600s. After a fire in 1859 it was rebuilt with help from brewer J.C. Jacobsen of Carlsberg and now houses the Museum of National History, with hundreds of royal portraits.",
+      "tip": "Don't miss the chapel, where Danish kings were crowned and where the 1610 Compenius organ is still played. Then walk out to the baroque garden for the classic view back to the castle.",
+      "q": "Frederiksborg Slot, Hillerød", "ll": [55.9351, 12.3017],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Frederiksborg_Castle"]
+    },
+    {
+      "id": "fredensborg", "cat": "gor", "area": "cevre",
+      "title": "Stroll the royal gardens of Fredensborg Palace",
+      "desc": "Fredensborg is the royal family's favourite residence in spring and autumn, a baroque palace built in the 1720s on the shore of Esrum Sø. Its large park is open to everyone and hides Nordmandsdalen, a valley ringed with sculptures of Norwegian and Faroese farmers and fishermen.",
+      "tip": "The palace interior can only be seen on guided tours in July, when the family is away. When the King is in residence, the changing of the guard happens at noon.",
+      "q": "Fredensborg Slot", "ll": [55.9822, 12.3951],
+      "tags": ["free"],
+      "src": ["https://da.wikipedia.org/wiki/Fredensborg_Slot"]
+    },
+    {
+      "id": "eremitage", "cat": "gor", "area": "cevre",
+      "title": "Spot deer around the Hermitage hunting lodge",
+      "desc": "The Hermitage is a white baroque hunting lodge built for Christian VI in the 1730s on a hilltop in Jægersborg Dyrehave. The deer park around it is home to around 2,000 red, fallow and sika deer, and the lodge with its plain open lawn is part of a UNESCO listed hunting landscape.",
+      "tip": "Come at dusk in autumn to hear the stags roar during the rut. Hire a bike or walk in from Klampenborg station, as cars are not allowed in the park.",
+      "q": "Eremitageslottet, Klampenborg", "ll": [55.7952, 12.5715],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Hermitage_Hunting_Lodge", "https://en.wikipedia.org/wiki/J%C3%A6gersborg_Dyrehave"]
+    },
+    {
+      "id": "arken", "cat": "gor", "area": "cevre",
+      "title": "Explore the ship-shaped Arken on Køge Bay",
+      "desc": "Arken Museum of Contemporary Art opened in 1996 in a building shaped like a stranded ship, set among the dunes and lagoons of Ishøj beach park. Its collection includes works by Damien Hirst and Olafur Eliasson, alongside large temporary exhibitions.",
+      "tip": "Walk out along the beach park afterwards, the coast is wild and quiet considering how close it is to the city. Bus 128 runs from Ishøj station.",
+      "q": "Arken, Ishøj", "ll": [55.6062, 12.3874],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Arken_Museum_of_Modern_Art"]
+    },
+    {
+      "id": "karenblixen", "cat": "gor", "area": "cevre",
+      "title": "Visit Karen Blixen's home at Rungstedlund",
+      "desc": "The author of Out of Africa was born at Rungstedlund in 1885 and returned here after her years in Kenya to write. The house is kept much as she left it, with her flower arrangements recreated, and the garden is a bird sanctuary.",
+      "tip": "Walk up through the garden to Ewald's Hill, where she is buried under a large beech tree. The museum is a short walk from Rungsted Kyst station.",
+      "q": "Karen Blixen Museet, Rungsted", "ll": [55.8833, 12.5434],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Rungstedlund"]
+    },
+    {
+      "id": "dragor", "cat": "gor", "area": "cevre",
+      "title": "Get lost in the yellow lanes of old Dragør",
+      "desc": "Dragør was a skipper and fishing town at the southern tip of Amager, and its old centre is a maze of cobbled lanes lined with yellow houses and red tiled roofs. The whole old town is protected, and the harbour still has fishing boats and a small museum.",
+      "tip": "Take bus 350S from Copenhagen and wander without a map. Planes landing at the airport just to the north are part of the soundtrack.",
+      "q": "Dragør Gamle Havn", "ll": [55.5941, 12.6788],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Drag%C3%B8r"]
+    },
+    {
+      "id": "esrumkloster", "cat": "gor", "area": "cevre",
+      "title": "Step into the Cistercian past at Esrum Kloster",
+      "desc": "Esrum Abbey was founded in 1151 and grew into one of the richest Cistercian houses in Denmark before the Reformation. Only one wing survives, now a museum about monastic life, next to the working mill farm Esrum Møllegård.",
+      "tip": "Combine it with the forest of Gribskov and Esrum Sø, which lie right alongside. The monastery garden grows medicinal herbs the monks would have used.",
+      "q": "Esrum Kloster", "ll": [56.0476, 12.3779],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Esrum_Abbey"]
+    },
+    {
+      "id": "roskildedom", "cat": "gor", "area": "cevre",
+      "title": "Meet forty Danish kings and queens in Roskilde Cathedral",
+      "desc": "Roskilde Cathedral was the first Gothic cathedral built of brick in Scandinavia and has been the burial church of Danish monarchs for centuries. Around 40 kings and queens rest here, and it became a UNESCO World Heritage Site in 1995.",
+      "tip": "Look for the pillar where royal visitors, including Peter the Great, marked their height. Above the entrance a 15th century clock shows St George fighting the dragon on the hour.",
+      "q": "Roskilde Domkirke", "ll": [55.6426, 12.0804],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Roskilde_Cathedral"]
+    },
+    {
+      "id": "vikingeskibe", "cat": "gor", "area": "cevre",
+      "title": "See five real Viking ships at Roskilde",
+      "desc": "Around 1070, five ships were deliberately sunk at Skuldelev to block the fjord against raiders. They were raised in 1962 and now stand in a hall with a glass wall onto Roskilde Fjord, while the harbour outside keeps sailing reconstructions built with Viking tools.",
+      "tip": "In summer you can book a trip to row and sail one of the replica boats on the fjord. Check the boatyard, where shipwrights work on new reconstructions.",
+      "q": "Vikingeskibsmuseet, Roskilde", "ll": [55.6509, 12.0815],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Viking_Ship_Museum_(Roskilde)"]
+    },
+    {
+      "id": "trelleborg", "cat": "gor", "area": "cevre",
+      "title": "Stand inside the perfect circle of Trelleborg",
+      "desc": "Harald Bluetooth had this Viking ring fortress built around 980, with a round rampart split into four exact quarters, each holding longhouses. Since 2023 it has been part of the UNESCO listing of Viking Age ring fortresses.",
+      "tip": "Climb onto the rampart to see the geometry clearly, then visit the reconstructed longhouse outside. In summer there is a Viking camp with crafts and archery.",
+      "q": "Trelleborg, Slagelse", "ll": [55.3941, 11.2653],
+      "src": ["https://en.wikipedia.org/wiki/Trelleborg_(Slagelse)"]
+    },
+    {
+      "id": "sorokloster", "cat": "gor", "area": "cevre",
+      "title": "Find Absalon's tomb in Sorø Klosterkirke",
+      "desc": "This red brick church of a 12th century Cistercian abbey is one of the largest in Denmark. Bishop Absalon, founder of Copenhagen, is buried behind the altar, and so is the playwright Ludvig Holberg.",
+      "tip": "Afterwards walk down through the grounds of Sorø Academy to the lake, which is lovely for an evening stroll.",
+      "q": "Sorø Klosterkirke", "ll": [55.4301, 11.5566],
+      "tags": ["free", "rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Sor%C3%B8_Abbey"]
+    },
+    {
+      "id": "koge", "cat": "gor", "area": "cevre",
+      "title": "Hunt for half-timbered houses in old Køge",
+      "desc": "Køge's market square is surrounded by one of the best preserved medieval street plans in Denmark, with hundreds of old timber framed houses. Kirkestræde 20, dated 1527, is often called the oldest dated half-timbered house in the country.",
+      "tip": "Walk Kirkestræde and Smedegade for the best houses, then continue to the harbour. The train from Copenhagen takes about 35 minutes.",
+      "q": "Køge Torv", "ll": [55.4564, 12.1819],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/K%C3%B8ge"]
+    },
+    {
+      "id": "gasetarnet", "cat": "gor", "area": "cevre",
+      "title": "Look up at the golden goose of Gåsetårnet",
+      "desc": "The Goose Tower in Vordingborg is the last standing tower of Valdemar Atterdag's royal castle and the best preserved medieval secular building in Denmark. Legend says the king put a golden goose on top to mock the Hanseatic towns as cackling geese.",
+      "tip": "The ruins around it now hold Danmarks Borgcenter, a museum about medieval castles. Climb the tower for views over the sound towards Masnedø and Falster.",
+      "q": "Gåsetårnet, Vordingborg", "ll": [55.0072, 11.9125],
+      "src": ["https://da.wikipedia.org/wiki/G%C3%A5set%C3%A5rnet"]
+    },
+    {
+      "id": "fanefjord", "cat": "gor", "area": "cevre",
+      "title": "Read the painted ceilings of Fanefjord Kirke",
+      "desc": "This country church on Møn is covered with frescoes painted around 1500 by the Elmelunde Master, a picture bible for villagers who could not read. Scenes of saints, devils and everyday life fill almost every vault.",
+      "tip": "Close by is Grønsalen, a long barrow from the Stone Age with 145 stones around it. The church stands on its own on a hill above the water, good for photos.",
+      "q": "Fanefjord Kirke", "ll": [54.9013, 12.1512],
+      "tags": ["free", "rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Fanefjord_Church"]
+    },
+    {
+      "id": "sollerodkro", "cat": "ye", "area": "cevre",
+      "title": "Dine at the thatched Søllerød Kro",
+      "desc": "Søllerød Kro is a thatched country inn from 1677 beside a village pond north of Copenhagen. Its kitchen holds a Michelin star and is known for classic French technique with Danish produce.",
+      "tip": "Lunch is the more relaxed and better value way to try it. Book well ahead for weekends.",
+      "q": "Søllerød Kro", "ll": [55.8137, 12.4952],
+      "src": ["https://www.soelleroed-kro.dk/en/kroen", "https://guide.michelin.com/no/en/capital-region/copenhagen/restaurant/sollerod-kro"]
+    },
+    {
+      "id": "peterlieps", "cat": "ye", "area": "cevre",
+      "title": "Eat smørrebrød at Peter Lieps Hus in the deer park",
+      "desc": "This thatched house deep in Jægersborg Dyrehave has fed walkers and riders for generations. The kitchen serves classic smørrebrød with seasonal toppings, and the terrace looks out over the forest.",
+      "tip": "There is no parking at the house, so walk in from Klampenborg station or the Bakken car park. It is a natural lunch stop on the way to the Hermitage.",
+      "q": "Peter Lieps Hus, Klampenborg", "ll": [55.7776, 12.5770],
+      "src": ["https://www.visitdenmark.com/denmark/plan-your-trip/peter-lieps-hus-gdk1141568", "https://scanmagazine.co.uk/peter-lieps-hus/"]
+    },
+    {
+      "id": "rodecottage", "cat": "ye", "area": "cevre",
+      "title": "Book a seasonal dinner at Den Røde Cottage",
+      "desc": "Den Røde Cottage is a red wooden house at the edge of Dyrehaven, just above Bellevue and the Øresund. Its menus follow the seasons and the forest, and it sits in the top Masters level of the 2026 White Guide.",
+      "tip": "Its little sister Den Gule Cottage, a few steps away, is the more casual option for lunch. Klampenborg station is about ten minutes away on foot.",
+      "q": "Den Røde Cottage, Strandvejen 550, Klampenborg", "ll": [55.7830, 12.5907],
+      "src": ["https://www.visitdenmark.com/denmark/plan-your-trip/den-rode-cottage-gdk491436", "https://www.enprimeurclub.com/lists/2026-white-guide-denmark-restaurants-masters-level"]
+    },
+    {
+      "id": "brostraedeis", "cat": "ye", "area": "cevre",
+      "title": "Queue for a waffle cone at Brostræde Is",
+      "desc": "Helsingør's original ice cream parlour has been making its own ice cream in a side street near the harbour since the 1920s. The family recipe is kept secret, and nougat and vanilla in a fresh waffle are the classics.",
+      "tip": "Expect a line on sunny days, it moves quickly. Ask for whipped cream and jam on top, the old Danish way.",
+      "q": "Brostræde, Helsingør", "ll": [56.0345, 12.6140],
+      "src": ["https://www.visitdenmark.com/denmark/plan-your-trip/brostraede-is-gdk620760"]
+    },
+    {
+      "id": "adamsensfisk", "cat": "ye", "area": "cevre",
+      "title": "Eat fish on the pier at Adamsens Fisk, Gilleleje",
+      "desc": "Gilleleje is Zealand's biggest fishing harbour, and Adamsens Fisk has sold the catch here since 1965. Next to the fish shop, the red house serves fried fish, fish soup and smørrebrød to eat on benches by the boats.",
+      "tip": "Come in the morning to see the boats land their fish. The red house also has a sushi bar and a garden over the harbour.",
+      "q": "Adamsens Fisk, Gilleleje", "ll": [56.1267, 12.3083],
+      "src": ["https://www.visitdenmark.com/denmark/plan-your-trip/adamsens-fisk-gdk619317", "https://visitnorthzealand.com/north-sealand/cities/top-5-fish-restaurants-gilleleje"]
+    },
+    {
+      "id": "skipperhuset", "cat": "ye", "area": "cevre",
+      "title": "Lunch by the lake at Skipperhuset, Fredensborg",
+      "desc": "Skipperhuset is a cluster of old royal buildings on the shore of Esrum Sø inside the Fredensborg palace gardens, including an 18th century boathouse. The dining room was once the royal laundry and the kitchen serves modern Danish food.",
+      "tip": "The tour boat on Esrum Sø leaves from right outside in summer. Check opening hours before you go, as evenings are mainly a summer thing.",
+      "q": "Skipperhuset, Fredensborg", "ll": [55.9804, 12.3815],
+      "src": ["https://www.visitdenmark.com/denmark/plan-your-trip/restaurant-skipperhuset-gdk1081568", "https://www.visitcopenhagen.com/copenhagen/day-trips/skipperhuset-look-inside-royal-laundry-room-turned-contemporary-bistro"]
+    },
+    {
+      "id": "storebors", "cat": "ye", "area": "cevre",
+      "title": "Eat by the fjord at Store Børs in Roskilde",
+      "desc": "Store Børs sits on Roskilde harbour looking out over the fjord, a few minutes from the Viking Ship Museum. The kitchen cooks seasonal Nordic dishes with a focus on fish and local produce.",
+      "tip": "Ask for a table by the window around sunset, when the light over Roskilde Fjord is at its best.",
+      "q": "Store Børs, Havnevej, Roskilde", "ll": [55.6496, 12.0769],
+      "src": ["https://www.falstaff.com/en/restaurants/restaurant-store-bors", "https://www.opdagdanmark.dk/en/guide/roskilde/spisesteder/"]
+    },
+    {
+      "id": "dragorrogeri", "cat": "ye", "area": "cevre",
+      "title": "Try smoked herring at Dragør Røgeri",
+      "desc": "Dragør's smokehouse sits right in the old harbour and sells smoked salmon, eel and herring along with fresh fish. Its terrace serves fried plaice with chips and fish cakes.",
+      "tip": "It closes for the winter and keeps shorter hours in spring and autumn, so this is a summer quest.",
+      "q": "Dragør Røgeri", "ll": [55.5934, 12.6770],
+      "months": [4, 5, 6, 7, 8, 9],
+      "src": ["https://www.visitdenmark.com/denmark/plan-your-trip/dragor-rogeri-gdk1141593", "https://www.visitdragor.com/dragor/explorer-dragor/dragor-smokehouse-gdk1113721"]
+    },
+    {
+      "id": "rorvigfisk", "cat": "ye", "area": "cevre",
+      "title": "Have smoked fish on Rørvig harbour",
+      "desc": "Rørvig is an old fishing and ferry town at the mouth of the Isefjord in Odsherred. Rørvig Fisk & Røgeri runs a smokehouse and fish restaurant on the harbour with views across the fjord.",
+      "tip": "Walk off lunch on the heath and dunes of Skansehage, just east of the harbour.",
+      "q": "Rørvig Fisk & Røgeri, Toldbodvej, Rørvig", "ll": [55.9448, 11.7665],
+      "src": ["https://www.visitodsherred.com/tourist/explore/rorvig-fisk-rogeri-gdk1117924", "https://en.wikipedia.org/wiki/R%C3%B8rvig"]
+    },
+    {
+      "id": "frederiksminde", "cat": "ye", "area": "cevre",
+      "title": "Treat yourself at Frederiksminde in Præstø",
+      "desc": "Hotel Frederiksminde overlooks the fjord in the small town of Præstø in South Zealand. Its restaurant has held a Michelin star since 2016, plus a Green Star for its sustainable approach.",
+      "tip": "Stay the night in the hotel to make the trip worthwhile, Præstø is about an hour south of Copenhagen by car.",
+      "q": "Frederiksminde, Præstø", "ll": [55.1242, 12.0488],
+      "src": ["https://frederiksminde.com/uk", "https://www.visitdenmark.com/denmark/plan-your-trip/frederiksminde-michelin-restaurant-in-praesto-gdk638664"]
+    },
+    {
+      "id": "krenkerup", "cat": "ye", "area": "cevre",
+      "title": "Taste award-winning beer at Krenkerup on Lolland",
+      "desc": "Krenkerup brewery is on an old manor estate outside Sakskøbing, beside a moated castle from 1631. Its beers have won several gold medals at the European Beer Star, and the brewpub serves them fresh from the tap with a light lunch.",
+      "tip": "Book a guided brewery tour if you want to see the brewhouse, and check opening times first, as they vary by season.",
+      "q": "Krenkerup, Sakskøbing", "ll": [54.7771, 11.6700],
+      "src": ["https://www.visitdenmark.com/denmark/plan-your-trip/krenkerup-brewery-brewpub-gdk736112"]
+    },
+    {
+      "id": "bakken", "cat": "dene", "area": "cevre",
+      "title": "Ride the wooden coaster at Bakken",
+      "desc": "Dyrehavsbakken claims to be the oldest operating amusement park in the world, with roots in 1583, when people came to a spring in the forest. Entry is free, and its 1932 wooden roller coaster Rutschebanen still runs.",
+      "tip": "The season runs from late March to the end of August. Klampenborg station is a ten minute walk away.",
+      "q": "Dyrehavsbakken, Klampenborg", "ll": [55.7758, 12.5748],
+      "tags": ["free"],
+      "months": [3, 4, 5, 6, 7, 8],
+      "src": ["https://en.wikipedia.org/wiki/Dyrehavsbakken"]
+    },
+    {
+      "id": "bellevue", "cat": "dene", "area": "cevre",
+      "title": "Swim at Arne Jacobsen's Bellevue beach",
+      "desc": "Bellevue is the beach where Copenhageners have gone swimming since the 1930s, when Arne Jacobsen designed its striped lifeguard towers and the white buildings around it. The water is shallow, clean and sheltered by the Øresund.",
+      "tip": "Go on a weekday morning in summer before the crowds arrive, and walk on into Dyrehaven afterwards.",
+      "q": "Bellevue Strand, Klampenborg", "ll": [55.7772, 12.5920],
+      "tags": ["free"],
+      "months": [6, 7, 8],
+      "src": ["https://en.wikipedia.org/wiki/Bellevue_Beach"]
+    },
+    {
+      "id": "frilandsmuseet", "cat": "dene", "area": "cevre",
+      "title": "Wander between old farms at Frilandsmuseet",
+      "desc": "Frilandsmuseet in Kongens Lyngby is one of the oldest open air museums in the world, with more than 50 farms, mills and houses moved here from across Denmark. Animals of old breeds graze between the buildings.",
+      "tip": "Bring a picnic, the grounds are big enough for a full day. The museum is open in the warm half of the year, so check dates before you go.",
+      "q": "Frilandsmuseet, Kongens Lyngby", "ll": [55.7882, 12.4943],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Frilandsmuseet"]
+    },
+    {
+      "id": "troldeskoven", "cat": "dene", "area": "cevre",
+      "title": "Walk among the twisted trees of Troldeskoven",
+      "desc": "The Troll Forest in Tisvilde Hegn is a patch of pines bent into strange shapes by the sea wind. The whole forest was planted in the 18th century to stop sand drift that had buried farms around Tisvildeleje.",
+      "tip": "Start from the beach car park at Tisvildeleje and follow the trail markers. Finish with a swim at Tisvildeleje beach.",
+      "q": "Troldeskoven, Tisvilde Hegn", "ll": [56.0419, 12.0351],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Tisvildeleje", "https://da.wikipedia.org/wiki/Tisvilde_Hegn"]
+    },
+    {
+      "id": "roskildefestival", "cat": "dene", "area": "cevre",
+      "title": "Dance in front of the Orange Stage at Roskilde Festival",
+      "desc": "Roskilde Festival has been held since 1971 and is one of the largest music festivals in Europe, run as a non-profit that gives its surplus to charity. The orange canopy stage is its icon, and around 130,000 people fill the fields south of Roskilde.",
+      "tip": "The festival runs over eight days at the turn of June and July, with warm-up days before the main stages open. Buy tickets early and pack for rain.",
+      "q": "Roskilde Festival", "ll": [55.6217, 12.0767],
+      "months": [6, 7],
+      "src": ["https://en.wikipedia.org/wiki/Roskilde_Festival"]
+    },
+    {
+      "id": "sagnlandet", "cat": "dene", "area": "cevre",
+      "title": "Live like an Iron Age farmer at Sagnlandet Lejre",
+      "desc": "Land of Legends at Lejre is an open air experimental archaeology centre founded in 1964. You can step into reconstructed Stone Age, Iron Age and Viking houses, paddle a dugout canoe and grind grain by hand.",
+      "tip": "Kids love it, but adults get just as hooked. Lejre was the seat of legendary Danish kings, so combine it with the Viking hall site in Gammel Lejre nearby.",
+      "q": "Sagnlandet Lejre", "ll": [55.6179, 11.9455],
+      "src": ["https://da.wikipedia.org/wiki/Sagnlandet_Lejre"]
+    },
+    {
+      "id": "stevnsklint", "cat": "dene", "area": "cevre",
+      "title": "Touch the dinosaur extinction layer at Stevns Klint",
+      "desc": "The chalk cliff of Stevns Klint shows the thin grey fish clay that marks the asteroid impact which ended the age of the dinosaurs, and it became a UNESCO World Heritage Site in 2014. At Højerup the sea has eaten the cliff so far that part of the old church fell into the water in 1928.",
+      "tip": "Take the steps down from Højerup Gamle Kirke to the beach to see the layer up close, and walk along the cliff path for the views.",
+      "q": "Højerup Gamle Kirke", "ll": [55.2791, 12.4458],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Stevns_Klint"]
+    },
+    {
+      "id": "stevnsfort", "cat": "dene", "area": "cevre",
+      "title": "Go deep into the Cold War at Stevnsfort",
+      "desc": "Stevnsfort was dug into the chalk of Stevns Klint during the Cold War to guard the entrance to the Baltic with heavy guns and missiles. Today the Cold War Museum takes visitors through its long tunnels deep under the cliff.",
+      "tip": "Tunnel tours are guided and the rock stays cool all year, so bring a jumper even in summer.",
+      "q": "Koldkrigsmuseum Stevnsfort", "ll": [55.2642, 12.4113],
+      "tags": ["rainy day"],
+      "src": ["https://da.wikipedia.org/wiki/Koldkrigsmuseum_Stevnsfort"]
+    },
+    {
+      "id": "campadventure", "cat": "dene", "area": "cevre",
+      "title": "Spiral above the treetops on the Forest Tower",
+      "desc": "The Forest Tower at Camp Adventure near Rønnede is a 45 metre hourglass shaped tower with a 650 metre ramp winding up through the forest. The top platform is 140 metres above sea level, the highest accessible point on Zealand.",
+      "tip": "It is fully step free, so prams and wheelchairs can go all the way up. Plan about two hours, including the treetop walk.",
+      "q": "Camp Adventure, Rønnede", "ll": [55.2567, 11.9776],
+      "src": ["https://www.campadventure.dk/en/skovtaarnet/"]
+    },
+    {
+      "id": "monsklint", "cat": "dene", "area": "cevre",
+      "title": "Climb down the 500 steps to the foot of Møns Klint",
+      "desc": "The white chalk cliffs of Møns Klint rise up to 128 metres above the Baltic, full of fossils from a Cretaceous sea. The GeoCenter at the top explains how the cliffs formed, and the Maglevandstrappen stairs lead straight down to the beach.",
+      "tip": "Walk the beach and climb back up a different staircase to make a loop. Hunt for belemnites and sea urchin fossils in the pebbles.",
+      "q": "GeoCenter Møns Klint", "ll": [54.9661, 12.5483],
+      "src": ["https://en.wikipedia.org/wiki/M%C3%B8ns_Klint", "https://en.wikipedia.org/wiki/GeoCenter_M%C3%B8ns_Klint"]
+    },
+    {
+      "id": "knuthenborg", "cat": "dene", "area": "cevre",
+      "title": "Drive among giraffes at Knuthenborg Safari Park",
+      "desc": "Knuthenborg on Lolland is the largest safari park in Northern Europe, laid out in the English landscape park of an old manor estate. You drive your own car past zebras, rhinos, giraffes and antelopes, then walk to the tigers and monkeys.",
+      "tip": "The park opens in the warmer months only. Arrive at opening time to see the animals at their most active.",
+      "q": "Knuthenborg Safaripark", "ll": [54.8233, 11.5017],
+      "src": ["https://en.wikipedia.org/wiki/Knuthenborg_Safaripark"]
+    },
+    {
+      "id": "middelaldercentret", "cat": "dene", "area": "cevre",
+      "title": "Watch a trebuchet fire at Middelaldercentret",
+      "desc": "Middelaldercentret outside Nykøbing Falster is a living reconstruction of a market town from around 1400, with craftsmen, a harbour with cogs and real working siege engines. Knights joust in summer.",
+      "tip": "Check the day's programme at the gate so you catch the trebuchet shots and the tournament.",
+      "q": "Middelaldercentret, Nykøbing Falster", "ll": [54.7763, 11.8406],
+      "src": ["https://en.wikipedia.org/wiki/Middelaldercentret"]
+    },
+    {
+      "id": "hammershus", "cat": "gor", "area": "bornholm",
+      "title": "Climb the ruins of Hammershus above the sea",
+      "desc": "Hammershus is the largest castle ruin in Northern Europe, built in the 13th century on a cliff 74 metres above the Baltic. The archbishops of Lund, Lübeck and the Danish crown fought over it for centuries, and in 1658 the islanders freed themselves from Swedish rule here.",
+      "tip": "The visitor centre cut into the hillside has a terrace with the best overview of the ruin. Walk down to the coast path towards the Hammeren lighthouse afterwards.",
+      "q": "Hammershus, Allinge", "ll": [55.2709, 14.7552],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Hammershus"]
+    },
+    {
+      "id": "osterlars", "cat": "gor", "area": "bornholm",
+      "title": "Climb into the fortified round church of Østerlars",
+      "desc": "Østerlars is the largest of Bornholm's four round churches, built around 1160 with walls thick enough to double as a refuge from pirates. Its upper floors were used as a lookout and storage, and wall paintings from about 1350 survive in the centre.",
+      "tip": "Climb the narrow stairs to the defence gallery under the roof. The Bornholm Medieval Centre is just down the road.",
+      "q": "Østerlars Kirke", "ll": [55.1715, 14.9617],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/%C3%98sterlars_Church"]
+    },
+    {
+      "id": "nylars", "cat": "gor", "area": "bornholm",
+      "title": "Read the Creation story in Nylars round church",
+      "desc": "Nylars is the most solidly built of Bornholm's four round churches, a three storey defensive tower with walls up to two metres thick. Around its central pillar runs a frieze of 13th century frescoes, the oldest on the island, showing the Creation and the fall from Paradise.",
+      "tip": "The paintings were hidden under whitewash until 1882, so they are remarkably fresh. The church is a short detour from the road between Rønne and Aakirkeby.",
+      "q": "Nylars Kirke, Bornholm", "ll": [55.0740, 14.8150],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Nylars_Church"]
+    },
+    {
+      "id": "kunstmuseum", "cat": "gor", "area": "bornholm",
+      "title": "See island light on canvas at Bornholms Kunstmuseum",
+      "desc": "Bornholm's Art Museum stands above the cliffs of Helligdomsklipperne, a long white building with a stream running through it and windows framing the sea. It shows the Bornholm painters, such as Oluf Høst, who were drawn to the island's light.",
+      "tip": "Pair it with the cliff walk below the museum. The building is worth it even if you only stay for the views.",
+      "q": "Bornholms Kunstmuseum", "ll": [55.2235, 14.8938],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Bornholm_Art_Museum"]
+    },
+    {
+      "id": "svanekevandtarn", "cat": "gor", "area": "bornholm",
+      "title": "Find Jørn Utzon's first water tower in Svaneke",
+      "desc": "Before the Sydney Opera House, Jørn Utzon designed this three legged water tower for Svaneke, inspired by old navigation marks. It was completed in the early 1950s and was given a fresh coat of real coal tar during its 2023 renovation.",
+      "tip": "Walk on down into Svaneke, Denmark's smallest market town, with its ochre houses and harbour of rocks.",
+      "q": "Svaneke Vandtårn", "ll": [55.1406, 15.1336],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Svaneke_water_tower", "https://bornholm.info/en/svaneke-vandtaarn/"]
+    },
+    {
+      "id": "christianso", "cat": "gor", "area": "bornholm",
+      "title": "Take the boat to the fortress island of Christiansø",
+      "desc": "Christiansø is the main island of Ertholmene, Denmark's easternmost point, turned into a naval fortress in 1684. Fewer than 100 people live among the granite walls, towers and gardens, and there are no cars.",
+      "tip": "Boats leave from Gudhjem and the crossing takes about an hour. Bring binoculars for the guillemots and eiders on Græsholm next door.",
+      "q": "Christiansø", "ll": [55.3205, 15.1892],
+      "src": ["https://en.wikipedia.org/wiki/Ertholmene"]
+    },
+    {
+      "id": "solovergudhjem", "cat": "ye", "area": "bornholm",
+      "title": "Eat a Sol over Gudhjem at Gudhjem Røgeri",
+      "desc": "Bornholm's first smokehouse opened in Gudhjem in 1866, and the harbourside Gudhjem Røgeri is still the place to eat Sol over Gudhjem. It is smoked herring on rye bread with a raw egg yolk as the sun, chives and radishes.",
+      "tip": "Tables cannot be booked, so come before the lunch rush. Sit outside and watch the white chimneys smoke.",
+      "q": "Gudhjem Røgeri", "ll": [55.2138, 14.9693],
+      "src": ["https://bornholm.info/en/gudhjem-roegeri/", "https://www.visitdenmark.com/denmark/plan-your-trip/gudhjem-rogeri-gdk614605"]
+    },
+    {
+      "id": "haslerogeri", "cat": "ye", "area": "bornholm",
+      "title": "Watch herring smoked the old way at Hasle Røgeri",
+      "desc": "Hasle Røgeri is the last smokehouse on Bornholm where fish are still smoked the traditional way, over alder wood in open chimneys. Grab smoked herring and fish cakes in the shop and eat them on the terrace by the water.",
+      "tip": "Ask for warm herring straight from the chimney. The nearby beach is good for a sunset after.",
+      "q": "Hasle Røgeri", "ll": [55.1798, 14.7032],
+      "src": ["https://www.visitdenmark.com/denmark/plan-your-trip/hasle-rogeri-gdk614890", "https://bornholm.info/en/bornholm-smokehouses/"]
+    },
+    {
+      "id": "hallegaard", "cat": "ye", "area": "bornholm",
+      "title": "Grab a farm hot dog at Hallegård",
+      "desc": "Hallegård near Østermarie makes around 30 kinds of sausage and charcuterie, some smoked in old brick ovens, and supplies top restaurants across Denmark. The farm shop and summer café serve its famous hot dog.",
+      "tip": "Follow the Gårdbutik signs off Svanekevej. Opening times vary outside summer, so check first.",
+      "q": "Aspevej 3, Østermarie", "ll": [55.1174, 15.0604],
+      "src": ["https://www.visitdenmark.com/denmark/plan-your-trip/hallegaard-bornholm-gdk614813", "https://bornholm.info/en/?p=5237"]
+    },
+    {
+      "id": "svanekebryghus", "cat": "ye", "area": "bornholm",
+      "title": "Drink organic beer at Svaneke Bryghus",
+      "desc": "Svaneke Bryghus started as a pub brewery in 2000 in an old merchant's yard on the main square, and all its beer is organic. The copper brew kettle stands in the restaurant, which pours the full range and cooks with it.",
+      "tip": "Order the tasting board to try several beers. It is open all year, handy on a grey day.",
+      "q": "Svaneke Bryghus", "ll": [55.1361, 15.1406],
+      "tags": ["rainy day"],
+      "src": ["https://bornholm.info/en/svaneke-bryghus-restaurant/", "https://www.visitdenmark.com/denmark/explore/svaneke-bryghus-restaurant-gdk614576"]
+    },
+    {
+      "id": "bolcheriet", "cat": "ye", "area": "bornholm",
+      "title": "Watch boiled sweets being pulled at Bolcheriet",
+      "desc": "Bornholm's oldest candy workshop sits in a merchant's yard from 1740 on Svaneke's square. The sugar mass is boiled over an open fire and pulled on a hook by hand, which makes the sweets light and airy, and you can watch the whole process in the shop.",
+      "tip": "Ask for a taste while the sweets are still warm. A bag makes a good present from the island.",
+      "q": "Bolcheriet, Svaneke", "ll": [55.1363, 15.1408],
+      "tags": ["free", "rainy day"],
+      "src": ["https://www.visitdenmark.com/denmark/plan-your-trip/bolcheriet-gdk614666", "https://bornholm.info/en/?p=5284"]
+    },
+    {
+      "id": "helligdomsklipperne", "cat": "dene", "area": "bornholm",
+      "title": "Hike the granite cliffs of Helligdomsklipperne",
+      "desc": "The Sanctuary Rocks north of Gudhjem rise 22 metres from the sea in towers and grottoes of granite. Pilgrims once came to the holy spring Rø Helligkilde here on midsummer night.",
+      "tip": "Take the coast path from Gudhjem or come by boat in summer to see the grottoes from the water. Wear proper shoes on the slippery rocks.",
+      "q": "Helligdomsklipperne", "ll": [55.2251, 14.8974],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Helligdomsklipperne"]
+    },
+    {
+      "id": "jonskapel", "cat": "dene", "area": "bornholm",
+      "title": "Climb down to the sea stack of Jons Kapel",
+      "desc": "Jons Kapel is a tall granite rock on the west coast, where legend says a monk named Jon preached to the islanders from a ledge. A steep wooden staircase leads down the cliffs to the rocks by the sea.",
+      "tip": "Walk the cliff path north towards Hammershus for one of the best coastal walks on the island.",
+      "q": "Jons Kapel, Bornholm", "ll": [55.2331, 14.7204],
+      "tags": ["free"],
+      "src": ["https://da.wikipedia.org/wiki/Jons_Kapel"]
+    },
+    {
+      "id": "ekkodalen", "cat": "dene", "area": "bornholm",
+      "title": "Shout for the echo in Ekkodalen",
+      "desc": "Ekkodalen in the forest of Almindingen is part of the longest rift valley in Denmark, with steep rock walls on both sides. Stand on the marked spot and shout towards the cliff to hear your voice come back.",
+      "tip": "Climb on to Rytterknægten, the highest point on Bornholm, for the view from the Kongemindet tower.",
+      "q": "Ekkodalen, Almindingen", "ll": [55.1075, 14.8987],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Ekkodalen"]
+    },
+    {
+      "id": "dueodde", "cat": "dene", "area": "bornholm",
+      "title": "Sink your feet into the fine sand of Dueodde",
+      "desc": "Dueodde at Bornholm's southern tip is the island's largest beach, with powder fine white sand and dunes up to 12 metres high backed by pine forest planted against sand drift. The water stays shallow for about 100 metres, ideal for children.",
+      "tip": "Climb Dueodde lighthouse, the tallest on Bornholm, for the view, then walk a few minutes away from the main path to have a stretch of beach to yourself.",
+      "q": "Dueodde Fyr", "ll": [54.9918, 15.0743],
+      "tags": ["free"],
+      "months": [6, 7, 8],
+      "src": ["https://en.wikipedia.org/wiki/Dueodde"]
+    }
+  ]
+}

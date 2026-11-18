@@ -1,0 +1,517 @@
+{
+  "new": [
+    {
+      "id": "ribedomkirke", "cat": "gor", "area": "merkez",
+      "title": "Climb the Commoners' Tower of Ribe Cathedral",
+      "desc": "Ribe Domkirke was begun in the early 1100s in tufa stone shipped in from Germany, as the marshland around Ribe had no building stone of its own. Its massive Borgertårnet, the Commoners' Tower, was completed in 1333 and rebuilt about ten metres lower after a partial collapse in 1594. Inside, the apse glows with mosaics and frescoes that COBRA painter Carl-Henning Pedersen made in the 1980s.",
+      "tip": "The tower climb is steep and narrow but rewards you with a view over the red roofs and out across the marsh to the Wadden Sea. Inside, look for the mark showing how high the great storm flood of 1634 reached.",
+      "q": "Ribe Domkirke, Torvet, Ribe", "ll": [55.3281, 8.7615],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Ribe_Cathedral", "https://www.vadehavskysten.com/ribe-esbjerg-fano/experience-ribe/well-preserved-medieval-town"]
+    },
+    {
+      "id": "ribenattevaegter", "cat": "dene", "area": "merkez",
+      "title": "Follow the night watchman through Ribe",
+      "desc": "Ribe had night watchmen from the 14th century until 1902, calling out the hours, watching for fire and raising the alarm at floods. Since 1935 the tradition has lived on as a free evening walk, with the watchman in his old uniform carrying a lantern and a spiked morning star, singing the old verses and telling tales of witches, floods and fires.",
+      "tip": "The walk starts on Torvet in front of Hotel Dagmar, every evening from May to October. Check the exact time at the tourist office, arrive a few minutes early and stay close so you can hear the stories between songs.",
+      "q": "Torvet, Ribe", "ll": [55.3281, 8.7616],
+      "tags": ["free"],
+      "months": [5, 6, 7, 8, 9, 10],
+      "src": ["https://www.vadehavskysten.com/ribe-esbjerg-fano/experience-ribe/night-watchmans-tradition", "https://www.visitdenmark.com/denmark/plan-your-trip/the-night-watchmans-rounds-in-ribe-gdk928760"]
+    },
+    {
+      "id": "ribevikingecenter", "cat": "dene", "area": "merkez",
+      "title": "Step into Viking life at Ribe VikingeCenter",
+      "desc": "This living open-air museum south of town rebuilds Viking-age Ribe, from a market place of around 710 to a harbour town, a town of 825 and a fortress of 980. There is a reconstruction of Ansgar's church, the first church in Denmark, and Hviding Farm, a farmstead from 980 with animals and a Viking kitchen.",
+      "tip": "The centre is open from late April to October. Little Midgard and the mythology playground keep small children busy, so give yourself at least three hours.",
+      "q": "Ribe VikingeCenter, Roagervej, Ribe", "ll": [55.3099, 8.7662],
+      "months": [4, 5, 6, 7, 8, 9, 10],
+      "src": ["https://www.ribevikingecenter.dk/en/nyheder", "https://en.wikivoyage.org/wiki/Ribe"]
+    },
+    {
+      "id": "ribesvikinger", "cat": "gor", "area": "merkez",
+      "title": "Meet the real Vikings at Museet Ribes Vikinger",
+      "desc": "Archaeologists have found traces of a trading place in Ribe from the early 700s, and this museum tells that story with finds from the excavations. A full-size reconstruction of the Viking market street and a medieval cathedral scene sit alongside beads, combs and coins from the town's beginnings.",
+      "tip": "Pair it with the VikingeCenter: the museum shows the original objects, the centre shows how people used them. It is open all year, which makes it a good bet on a wet day.",
+      "q": "Museet Ribes Vikinger, Odins Plads, Ribe", "ll": [55.3281, 8.7686],
+      "tags": ["rainy day"],
+      "src": ["https://ribesvikinger.dk/en/plan-your-visit/", "https://en.wikipedia.org/wiki/Ribe"]
+    },
+    {
+      "id": "kammerslusen", "cat": "gor", "area": "merkez",
+      "title": "Walk the dike out to Kammerslusen",
+      "desc": "Kammerslusen is the lock where Ribe Å meets the Wadden Sea, built in 1912 together with the Ribe dike so that ships could still reach town while the marsh behind stayed dry. From the dike you look over salt meadows full of birds on one side and the open tidal flats on the other.",
+      "tip": "Cycle or walk out along the river from Ribe, about six kilometres through the marsh. Bring binoculars: geese, waders and in spring and autumn starlings gather here in big numbers.",
+      "q": "Kammerslusen, Ribe", "ll": [55.3278, 8.6871],
+      "tags": ["free"],
+      "src": ["https://lex.dk/Kammerslusen", "https://www.vadehavskysten.com/ribe-esbjerg-fano/experience-ribe/canoeing"]
+    },
+    {
+      "id": "hoteldagmar", "cat": "ye", "area": "merkez",
+      "title": "Dine at Hotel Dagmar, Denmark's oldest hotel",
+      "desc": "Facing the cathedral on Torvet, Hotel Dagmar dates from 1581 and calls itself the oldest hotel in Denmark. Its restaurant serves classic Danish dishes in rooms with painted ceilings and antiques, while the cellar bar Vægterkælderen is cosier and cheaper.",
+      "tip": "Time dinner so you step out of the door just as the night watchman begins his round on the square outside.",
+      "q": "Hotel Dagmar, Torvet, Ribe", "ll": [55.3283, 8.7627],
+      "src": ["https://www.vadehavskysten.com/ribe-esbjerg-fano/eat-and-sleep/eat-ribe", "https://en.wikivoyage.org/wiki/Ribe"]
+    },
+    {
+      "id": "stormflodssoejle", "cat": "gor", "area": "merkez",
+      "title": "Measure the floods at the Stormflodssøjle",
+      "desc": "On the old harbour quay at Skibbroen stands a wooden flood column marked with the high water of past storm surges. The top ring, a little over six metres above normal water level, shows the flood of 1634, when thousands drowned along this coast.",
+      "tip": "Stand next to it and look up: the 1634 water would have been far above your head. The flat-bottomed old sailing ship Johanne Dan, built for the shallow river, is usually moored at the same quay.",
+      "q": "Stormflodssøjlen, Skibbroen, Ribe", "ll": [55.3298, 8.7622],
+      "tags": ["free"],
+      "src": ["https://www.visitdenmark.com/denmark/plan-your-trip/flood-column-in-ribe-gdk633954", "https://en.wikipedia.org/wiki/Ribe"]
+    },
+    {
+      "id": "ribekunstmuseum", "cat": "gor", "area": "merkez",
+      "title": "See Danish Golden Age art at Ribe Kunstmuseum",
+      "desc": "Housed in a merchant's villa by the river, Ribe Kunstmuseum holds a fine collection of Danish art with paintings from the Golden Age and by the Skagen painters. Temporary exhibitions bring in contemporary artists.",
+      "tip": "Have coffee in the museum café, which looks out on the garden running down to Ribe Å and has a summer terrace.",
+      "q": "Ribe Kunstmuseum, Sct. Nicolaj Gade, Ribe", "ll": [55.3292, 8.7676],
+      "tags": ["rainy day"],
+      "src": ["https://www.ribekunstmuseum.dk/en/visit/practical-information", "https://www.vadehavskysten.com/ribe-esbjerg-fano/eat-and-sleep/eat-ribe"]
+    },
+    {
+      "id": "ribegamleraadhus", "cat": "gor", "area": "merkez",
+      "title": "Admire Ribe's old town hall on Von Støckens Plads",
+      "desc": "Two medieval stone houses on this site are mentioned in 1496, and the town bought the building in 1708 to use as its town hall, a role it kept until 2007. Its stepped brick gables make it one of the oldest town hall buildings in Denmark, and the town's historic collection inside includes the night watchmen's spiked morning stars.",
+      "tip": "It is only occasionally open to visitors, so ask at the tourist office on Torvet. From outside it is free to admire at any time.",
+      "q": "Det Gamle Rådhus, Ribe", "ll": [55.3277, 8.7627],
+      "tags": ["free"],
+      "src": ["https://da.wikipedia.org/wiki/Ribe_gamle_R%C3%A5dhus", "https://en.wikivoyage.org/wiki/Ribe", "https://www.vadehavskysten.com/ribe-esbjerg-fano/experience-ribe/night-watchmans-tradition"]
+    },
+    {
+      "id": "catharinae", "cat": "gor", "area": "merkez",
+      "title": "Find the quiet cloister of St Catherine's Priory",
+      "desc": "Dominican friars ran a priory in Ribe from 1228 until the Reformation in 1536, and Sankt Catharinæ Kirke with its cloister is the most complete surviving medieval monastery complex in Denmark. The vaulted cloister garden is a calm green square just steps from the busy streets.",
+      "tip": "Step through the church into the cloister garden, the quietest spot in town on a busy summer day.",
+      "q": "Sankt Catharinæ Kirke, Klostergade, Ribe", "ll": [55.3272, 8.765],
+      "tags": ["free"],
+      "src": ["https://en.wikivoyage.org/wiki/Ribe"]
+    },
+    {
+      "id": "riberhus", "cat": "gor", "area": "merkez",
+      "title": "Climb the mound of Riberhus castle",
+      "desc": "Only an eight-metre grassy mound ringed by moats remains of Riberhus, the royal castle built by King Erik V around the 1260s. On top stands Anne Marie Carl-Nielsen's bronze statue of Queen Dagmar, unveiled in 1913; old Danish ballads say the beloved queen died here.",
+      "tip": "The mound is a lovely spot for a picnic at sunset, with a view over the marsh. It is open at all hours and free.",
+      "q": "Riberhus Slotsbanke, Ribe", "ll": [55.3308, 8.7564],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Riberhus", "https://en.wikipedia.org/wiki/Ribe"]
+    },
+    {
+      "id": "fiskergade", "cat": "dene", "area": "merkez",
+      "title": "Get lost in Fiskergade and Puggaardsgade",
+      "desc": "Ribe has more than a hundred listed houses, and the crooked lanes north of the cathedral show them at their best. Fiskergade and Puggaardsgade are lined with leaning half-timbered houses, hollyhocks and cobbles that have barely changed in centuries.",
+      "tip": "Go early in the morning or after dinner, when the day trippers have left, and finish down by the river at Skibbroen.",
+      "q": "Fiskergade, Ribe", "ll": [55.3294, 8.762],
+      "tags": ["free"],
+      "src": ["https://www.vadehavskysten.com/ribe-esbjerg-fano/experience-ribe/well-preserved-medieval-town", "https://en.wikivoyage.org/wiki/Ribe"]
+    },
+    {
+      "id": "saelhunden", "cat": "ye", "area": "merkez",
+      "title": "Try bakskuld by the river at Sælhunden",
+      "desc": "Sælhunden sits in a listed house about 400 years old on the Skibbroen quay. The menu leans on fish, including bakskuld, the dried and smoked dab that is a speciality of this coast.",
+      "tip": "In summer ask for a table outside by the river or in the courtyard. Bakskuld is salty and smoky, so pair it with rye bread and a cold beer.",
+      "q": "Restaurant Sælhunden, Skibbroen, Ribe", "ll": [55.3296, 8.7622],
+      "src": ["https://www.visitdenmark.com/denmark/plan-your-trip/restaurant-saelhunden-in-ribe-gdk632472", "https://www.vadehavskysten.com/ribe-esbjerg-fano/eat-and-sleep/eat-ribe"]
+    },
+    {
+      "id": "quedensgaard", "cat": "ye", "area": "merkez",
+      "title": "Have coffee in the courtyard of Quedens Gaard",
+      "desc": "Quedens Gaard is an old merchant's farmstead near the cathedral, and its café and small shop fill the timbered rooms and the rose garden behind. It is the most atmospheric place in town for coffee and homemade cake.",
+      "tip": "On a sunny day head straight through to the garden terrace at the back.",
+      "q": "Quedens Gaard, Overdammen, Ribe", "ll": [55.3288, 8.7633],
+      "src": ["https://www.visitdenmark.com/denmark/plan-your-trip/quedens-gaard-gdk1141722", "https://www.vadehavskysten.com/ribe-esbjerg-fano/eat-and-sleep/eat-ribe"]
+    },
+    {
+      "id": "weisstue", "cat": "ye", "area": "merkez",
+      "title": "Eat Danish classics at the old inn Weis Stue",
+      "desc": "Weis Stue is a crooked half-timbered inn on Torvet whose house dates back to about 1600, making it one of the oldest inns in Denmark. Low ceilings, small panelled rooms and a menu of classic Danish food make it feel like a living museum.",
+      "tip": "Book ahead for dinner in summer. The inn also has a handful of rooms if you want to wake up next to the cathedral.",
+      "q": "Weis Stue, Torvet, Ribe", "ll": [55.3285, 8.7622],
+      "src": ["https://www.visitdenmark.com/denmark/plan-your-trip/weis-stue-restaurant-and-inn-gdk1131002", "https://www.vadehavskysten.com/ribe-esbjerg-fano/eat-and-sleep/eat-ribe"]
+    },
+    {
+      "id": "menatsea", "cat": "gor", "area": "cevre",
+      "title": "Stand beneath the giants of Men at Sea",
+      "desc": "Four white seated men, nine metres tall, stare out over the sea at Sædding beach just north of Esbjerg. Svend Wiig Hansen's sculpture Mennesket ved Havet was unveiled in 1995 for the city's centenary and has become the symbol of Esbjerg.",
+      "tip": "Come at sunset, when the figures glow against the sky, and combine it with the Fisheries and Maritime Museum just across the road.",
+      "q": "Mennesket ved Havet, Esbjerg", "ll": [55.4878, 8.4111],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Men_at_Sea", "https://en.wikivoyage.org/wiki/Esbjerg"]
+    },
+    {
+      "id": "fimus", "cat": "gor", "area": "cevre",
+      "title": "Watch the seals at the Fisheries and Maritime Museum",
+      "desc": "Esbjerg's Fiskeri- og Søfartsmuseet tells the story of Danish fishing and shipping, with a full fishing village from the 1950s, old cutters and a big outdoor area by the shore. Its sealarium holds half a million litres of seawater and is home to grey and harbour seals.",
+      "tip": "Ask at the desk for the seal feeding time, the highlight for children. The museum café MS Smag looks out over the water.",
+      "q": "Fiskeri- og Søfartsmuseet, Tarphagevej, Esbjerg", "ll": [55.4901, 8.4107],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Fisheries_and_Maritime_Museum,_Esbjerg", "https://fimus.dk/en/annual-pass/"]
+    },
+    {
+      "id": "sonderho", "cat": "gor", "area": "cevre",
+      "title": "Wander the thatched lanes of Sønderho",
+      "desc": "Sønderho at the southern tip of Fanø was in the 19th century the leading home port of sailing ships on the Jutland west coast. Its low thatched cottages, nearly all with their gables turned east and west, sit in small gardens along winding lanes, watched over by the white village church and an old windmill.",
+      "tip": "Leave the car at the edge of the village and wander the lanes towards the dunes. Step inside the church to see the ship models hung by seafaring families.",
+      "q": "Sønderho Kirke, Fanø", "ll": [55.3497, 8.4667],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/S%C3%B8nderho", "https://visitfanoe.dk/en/eat-drink/"]
+    },
+    {
+      "id": "mogeltonder", "cat": "gor", "area": "cevre",
+      "title": "Stroll Slotsgaden to Schackenborg Castle",
+      "desc": "Møgeltønder's main street, Slotsgaden, is lined with lime trees and 18th-century houses and runs from the village church up to Schackenborg Castle. The castle was the home of Prince Joachim until 2014 and now belongs to a foundation that opens parts of it to visitors.",
+      "tip": "Parts of the castle and its park open to visitors in season, so check before you go, then walk down the street to the old village church.",
+      "q": "Schackenborg Slot, Møgeltønder", "ll": [54.9428, 8.8089],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/M%C3%B8gelt%C3%B8nder"]
+    },
+    {
+      "id": "jelling", "cat": "gor", "area": "cevre",
+      "title": "Read Denmark's birth certificate at Jelling",
+      "desc": "Two runestones from the 10th century stand between giant burial mounds at Jelling. King Gorm raised the smaller one for his wife Thyra; his son Harald Bluetooth raised the larger one, which claims he won all of Denmark and Norway and made the Danes Christian. The stones, mounds and church have been a UNESCO World Heritage Site since 1994.",
+      "tip": "Climb one of the mounds for a view over the whole royal site, then head into the Kongernes Jelling museum next door to see how it looked a thousand years ago.",
+      "q": "Jellingstenene, Gormsgade, Jelling", "ll": [55.7566, 9.4196],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Jelling_stones"]
+    },
+    {
+      "id": "koldinghus", "cat": "gor", "area": "cevre",
+      "title": "Climb the ruin-turned-museum of Koldinghus",
+      "desc": "Koldinghus began as a 13th-century border fortress and grew into a royal castle where Christian IV added the Giant's Tower. In 1808 Spanish soldiers quartered here were blamed for a fire that left it a ruin, and between 1976 and 1993 architects Inger and Johannes Exner wove new wood and steel into the old walls, winning a Europa Nostra award.",
+      "tip": "Go up to the roof of the Giant's Tower for a view over Kolding and the fjord. The museum inside covers Danish silver, ceramics and art.",
+      "q": "Koldinghus, Kolding", "ll": [55.4915, 9.4743],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Koldinghus"]
+    },
+    {
+      "id": "trapholt", "cat": "gor", "area": "cevre",
+      "title": "Sit in Arne Jacobsen's summer house at Trapholt",
+      "desc": "Trapholt is a museum of modern art and design above Kolding Fjord, opened in 1988. It holds more than 500 chairs from the 20th century, the largest such collection in Denmark, and in the garden stands Arne Jacobsen's Kubeflex, a modular summer house he designed in 1969-70 that never went into production.",
+      "tip": "Allow time for the park, which slopes down to the water and is dotted with sculptures.",
+      "q": "Trapholt, Æblehaven, Kolding", "ll": [55.4994, 9.5322],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Trapholt"]
+    },
+    {
+      "id": "christiansfeld", "cat": "gor", "area": "cevre",
+      "title": "Walk the Moravian town of Christiansfeld",
+      "desc": "Christiansfeld was founded in 1773 by the Moravian Church, with permission from King Christian VII, and its plain yellow-brick houses are laid out around a square in a strict grid. The church hall is Denmark's largest without supporting columns, lit by chandeliers from 1777, and the whole town became a UNESCO World Heritage Site in 2015.",
+      "tip": "Do not miss God's Acre, the cemetery where men and women lie in separate sections under identical flat stones, a sign that all are equal in death.",
+      "q": "Brødremenighedens Kirke, Christiansfeld", "ll": [55.3557, 9.4809],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Christiansfeld", "https://destinationtrekantomraadet.com/christiansfeld-unesco-world-heritage"]
+    },
+    {
+      "id": "haderslevdom", "cat": "gor", "area": "cevre",
+      "title": "Look up into the tall Gothic choir of Haderslev Cathedral",
+      "desc": "Vor Frue Kirke in Haderslev was rebuilt between 1420 and 1440 into one of the most striking Gothic churches in Jutland, with a soaring, light-filled choir. Haderslev was an early centre of the Danish Reformation, introduced here by Duke Christian in 1526, and the church became a cathedral only in 1922.",
+      "tip": "Look for the 14 Gothic alabaster saints and the baptismal font, the few medieval fittings that survived a fire in 1627.",
+      "q": "Haderslev Domkirke, Haderslev", "ll": [55.2498, 9.4875],
+      "tags": ["free", "rainy day"],
+      "src": ["https://lex.dk/Haderslev_Domkirke_(Vor_Frue_Kirke)", "https://en.wikipedia.org/wiki/Haderslev"]
+    },
+    {
+      "id": "sonderborgslot", "cat": "gor", "area": "cevre",
+      "title": "Explore Sønderborg Castle by the sound",
+      "desc": "Sønderborg Castle grew from a tower built around 1158 into a royal residence where the deposed King Christian II was held prisoner from 1532 to 1549. Its chapel, built in 1568-70 for Queen Dorothea, is one of the oldest preserved Lutheran royal chapels in Europe, and the museum covers the history of Schleswig from the wars of 1848 and 1864 to reunification in 1920.",
+      "tip": "In July the castle courtyard hosts free tilting-at-the-ring shows on Tuesday afternoons, a taste of the town's big ring-riding festival.",
+      "q": "Sønderborg Slot, Sønderborg", "ll": [54.9069, 9.7839],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/S%C3%B8nderborg_Castle"]
+    },
+    {
+      "id": "dybbolmolle", "cat": "gor", "area": "cevre",
+      "title": "Stand on the battlefield at Dybbøl Mølle",
+      "desc": "The white windmill on Dybbøl Banke is a Danish national symbol: it was shot to pieces in the wars of 1848-50 and again on 18 April 1864, when Prussian troops stormed the Danish redoubts here, and each time it was rebuilt. The hill is dotted with memorial stones and the remains of the trenches.",
+      "tip": "The hill and memorials are free to wander at any time. The Historiecenter next door is closed for renovation until the end of May 2027, so check before planning a visit inside.",
+      "q": "Dybbøl Mølle, Sønderborg", "ll": [54.9069, 9.758],
+      "tags": ["free"],
+      "src": ["https://1864.dk/en/?p=2671", "https://lex.dk/Dybb%C3%B8l"]
+    },
+    {
+      "id": "graastenhave", "cat": "gor", "area": "cevre",
+      "title": "Stroll the royal gardens of Gråsten Palace",
+      "desc": "Gråsten Palace has been the summer residence of the Danish royal family since 1935, and the Rococo main building dates from 1759 after a fire. The palace garden, with winding paths, lakes, woodland and flower beds shaped by Queen Ingrid and Queen Margrethe II, is open to the public all year except when the royal family is in residence.",
+      "tip": "The garden usually closes from late June to mid-August while the royals stay. The Royal Kitchen Garden stays open even then, and please keep off the lawns.",
+      "q": "Gråsten Slot, Gråsten", "ll": [54.9257, 9.5948],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Gr%C3%A5sten_Palace", "https://www.visitdenmark.se/danmark/planera-resan/graasten-palace-garden-gdk611356"]
+    },
+    {
+      "id": "blaavandfyr", "cat": "gor", "area": "cevre",
+      "title": "Climb Blåvandshuk Lighthouse at Denmark's western tip",
+      "desc": "Blåvandshuk is the westernmost point of Denmark, and its square 39-metre lighthouse from 1900 stands on a dune so the light reaches about 20 nautical miles out to sea. From the top you look over Horns Rev, the reef where the North Sea and Wadden Sea meet, and its offshore wind farm.",
+      "tip": "Because the tower stands on a dune, its top is about 55 metres above the sea. Go on a clear day and combine it with the Tirpitz museum a few kilometres east.",
+      "q": "Blåvandshuk Fyr, Blåvand", "ll": [55.5578, 8.0833],
+      "src": ["https://en.wikipedia.org/wiki/Bl%C3%A5vand_Lighthouse", "https://www.visitdenmark.com/denmark/plan-your-trip/blavandshuk-lighthouse-gdk609953"]
+    },
+    {
+      "id": "tirpitz", "cat": "gor", "area": "cevre",
+      "title": "Enter the dunes at the Tirpitz museum",
+      "desc": "Bjarke Ingels Group cut this museum into the dunes beside an unfinished German gun bunker from 1944, part of the Atlantic Wall. Opened in 2017, it holds four exhibitions, including the largest amber collection in Denmark and stories of 20,000 years of west coast history.",
+      "tip": "Walk through the old bunker too: inside the gun turret a glass reconstruction shows the huge 38 cm guns that were never installed.",
+      "q": "Tirpitz, Tirpitzvej, Blåvand", "ll": [55.5509, 8.1721],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Tirpitz_Museum_(Denmark)"]
+    },
+    {
+      "id": "fredericiavolde", "cat": "gor", "area": "cevre",
+      "title": "Walk the ramparts of Fredericia",
+      "desc": "Fredericia was founded in the 1650s as a fortress town, and its earthen ramparts still wrap around the old centre in a green ring several kilometres long. On 6 July 1849 Danish troops broke out through these gates to lift a siege, and the Landsoldaten statue of 1858 by H. W. Bissen, honouring an ordinary soldier, marks the victory.",
+      "tip": "Walk the top of the ramparts for views of the Little Belt. Around 5 and 6 July the town marks the battle with ceremonies and festivities.",
+      "q": "Landsoldaten, Fredericia", "ll": [55.5675, 9.7534],
+      "tags": ["free"],
+      "src": ["https://www.visitdenmark.com/denmark/plan-your-trip/the-valiant-soldier-statue-gdk609044", "https://en.wikipedia.org/wiki/Fredericia"]
+    },
+    {
+      "id": "bolgen", "cat": "gor", "area": "cevre",
+      "title": "Photograph the Wave on Vejle Fjord",
+      "desc": "Bølgen, the Wave, is a row of white apartment buildings by Henning Larsen Architects whose roofs rise and fall like waves along the harbour. The design nods to the hills around Vejle Fjord and to Jørn Utzon's Sydney Opera House, and it won a LEAF Award in 2010.",
+      "tip": "The best view is from across the water on the harbour promenade, ideally in late afternoon light. It is a private residence, so admire it from outside.",
+      "q": "Bølgen, Vejle", "ll": [55.7095, 9.5564],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/The_Wave_(Vejle)", "https://www.visitvejle.com/ln-int/bolgen-gdk724987"]
+    },
+    {
+      "id": "vejlevindmolle", "cat": "gor", "area": "cevre",
+      "title": "Climb the hill to Vejle Windmill",
+      "desc": "Vejle's white Dutch windmill stands in Mølleparken on the slope above the town centre, with a view down over the rooftops to the fjord. Inside, a small exhibition covers the history of the mill and milling in the Vejle area, and the local art society shows work here.",
+      "tip": "Entry is free. Opening hours are limited outside summer, but the park and the view are always there.",
+      "q": "Vejle Vindmølle, Mølleparken, Vejle", "ll": [55.6997, 9.5307],
+      "tags": ["free"],
+      "src": ["https://www.visitdenmark.com/denmark/plan-your-trip/vejle-windmill-gdk720810"]
+    },
+    {
+      "id": "kaffebord", "cat": "ye", "area": "cevre",
+      "title": "Brave a Sønderjysk kaffebord at Den Gamle Kro",
+      "desc": "The South Jutland coffee table is a marathon of cakes: seven soft kinds, then layer cakes, then at least seven kinds of small biscuits. It flourished after 1864, when Danish-minded people under Prussian rule met in assembly halls without a licence for spirits and served coffee and homemade baking instead. Den Gamle Kro in Gråsten has served food since 1747 and lays out the original spread on selected dates.",
+      "tip": "Book well ahead, as the kaffebord dates sell out. Pace yourself and save room for striftort and brødtorte, local specialities.",
+      "q": "Den Gamle Kro, Slotsgade, Gråsten", "ll": [54.9222, 9.595],
+      "src": ["https://www.visitdenmark.com/denmark/plan-your-trip/den-gamle-kro-grasten-gdk611067", "https://da.wikipedia.org/wiki/S%C3%B8nderjysk_kaffebord"]
+    },
+    {
+      "id": "honningkager", "cat": "ye", "area": "cevre",
+      "title": "Buy Christiansfeld honey cakes at Xocolatl",
+      "desc": "Christiansfeld's bakers have made honningkager, heart-shaped honey cakes, for over two centuries, using a recipe from 1783 that is still kept secret. The dough of honey and flour is left to mature before baking, and the cakes are filled or glazed with chocolate.",
+      "tip": "Xocolatl at Lindegade 36 bakes honey cakes daily alongside its chocolate. Try one with apricot filling and take a box home, as they keep well.",
+      "q": "Lindegade 36, Christiansfeld", "ll": [55.3554, 9.4836],
+      "src": ["https://en.wikipedia.org/wiki/Christiansfeld", "https://lex.dk/honningkage", "https://www.visitdenmark.it/danimarca/pianifica-il-viaggio/xocolatl-gingerbread-and-chocolate-christiansfeld-gdk1080489"]
+    },
+    {
+      "id": "oysters", "cat": "ye", "area": "cevre",
+      "title": "Pick and slurp wild oysters on Rømø",
+      "desc": "Pacific oysters have spread across the Wadden Sea, and at low tide guides lead groups out from Havneby on Rømø to big oyster banks about a kilometre onto the mudflats. You pick them yourself, learn to open them and eat them fresh from the sea.",
+      "tip": "Wear rubber boots and gloves and book a guided tour, since tours run only at low tide. Some operators finish with oysters cooked at a restaurant afterwards.",
+      "q": "Kommandørkaj, Havneby, Rømø", "ll": [55.0876, 8.565],
+      "src": ["https://romo-tonder.dk/en/aktiviteter/oestersafari/", "https://www.visitdenmark.com/denmark/plan-your-trip/oystersafari-sort-safari-gdk1090949"]
+    },
+    {
+      "id": "fanobryghus", "cat": "ye", "area": "cevre",
+      "title": "Taste Denmark's westernmost brewery on Fanø",
+      "desc": "Fanø Bryghus in Nordby brews everything from German-style lagers to barrel-aged stouts and pours 17 beers on tap in its brewer's bar. It is a short walk from the ferry and a good first stop on the island.",
+      "tip": "Ask for a tasting paddle. In March the brewery hosts a strong beer festival with Danish and foreign brewers.",
+      "q": "Fanø Bryghus, Nordby, Fanø", "ll": [55.439, 8.3952],
+      "src": ["https://www.visitdenmark.com/denmark/plan-your-trip/fano-bryghus-local-danish-brewery-gdk1121651", "https://vadehavskysten.com/ribe-esbjerg-fano/eat-and-sleep/eat-fano"]
+    },
+    {
+      "id": "sonderhokro", "cat": "ye", "area": "cevre",
+      "title": "Dine at Sønderho Kro, a thatched inn from 1722",
+      "desc": "Sønderho Kro has welcomed guests since 1722 and is one of the oldest and best-preserved inns in Denmark. Under its thatched roof the kitchen cooks with island produce such as Fanø lamb and fish from the surrounding sea, and it is listed in the White Guide.",
+      "tip": "Book dinner in advance and arrive early for a walk around the village first. The inn also hosts lunchtime folk music concerts.",
+      "q": "Sønderho Kro, Kropladsen, Fanø", "ll": [55.3477, 8.4723],
+      "src": ["https://www.visitdenmark.com/denmark/plan-your-trip/sonderho-kro-anno-1722-gdk609992", "https://vadehavskysten.com/ribe-esbjerg-fano/eat-and-sleep/eat-fano"]
+    },
+    {
+      "id": "fanokrogaard", "cat": "ye", "area": "cevre",
+      "title": "Eat by the water at Fanø Krogaard",
+      "desc": "Fanø Krogaard is a historic inn right by the ferry harbour in Nordby, facing the Wadden Sea and Esbjerg across the water. Its restaurant cooks familiar dishes with local and organic ingredients, such as Fanø salmon and meat from island farms.",
+      "tip": "Grab a table by the window or on the terrace and watch the ferries come and go.",
+      "q": "Fanø Krogaard, Nordby, Fanø", "ll": [55.4479, 8.4065],
+      "src": ["https://www.visitdenmark.com/denmark/plan-your-trip/fano-krogaard-gdk1137522", "https://vadehavskysten.com/ribe-esbjerg-fano/eat-and-sleep/eat-fano"]
+    },
+    {
+      "id": "slotskro", "cat": "ye", "area": "cevre",
+      "title": "Have dinner at Schackenborg Slotskro",
+      "desc": "The royal castle inn of Møgeltønder dates from 1687 and stands at the castle end of Slotsgaden. It is a stylish hotel restaurant today, known for seasonal Danish cooking and a wine list recognised by Star Wine List.",
+      "tip": "Book ahead and walk the lime-lined Slotsgaden before dinner.",
+      "q": "Schackenborg Slotskro, Slotsgaden, Møgeltønder", "ll": [54.942, 8.8077],
+      "src": ["https://romo-tonder.dk/en/findmad/schackenborg-slotskro/", "https://starwinelist.com/wine-place/schackenborg-slotskro"]
+    },
+    {
+      "id": "ottoanis", "cat": "ye", "area": "cevre",
+      "title": "Eat Rømø shrimp at Otto & Ani's Fisk",
+      "desc": "Down by the harbour in Havneby, Otto & Ani's has been a combined fish shop and restaurant since the 1990s. It smokes its own fish, makes its own fish cakes and serves the local Rømø shrimp.",
+      "tip": "Order at the counter and eat outside watching the fishing boats. Opening hours are seasonal, so lunch is the safest bet.",
+      "q": "Otto & Ani's Fisk, Havnepladsen, Havneby, Rømø", "ll": [55.0866, 8.5652],
+      "src": ["https://www.visitdenmark.com/denmark/plan-your-trip/otto-anis-fish-romo-gdk610959", "https://romo-tonder.dk/en/roemoe-rejer/"]
+    },
+    {
+      "id": "titrinned", "cat": "ye", "area": "cevre",
+      "title": "Treat yourself to Ti Trin Ned in Fredericia",
+      "desc": "Chef Michael Nørtoft's Ti Trin Ned holds a Michelin star for creative cooking focused on fish and vegetables. The restaurant sits in Fredericia's former harbour area, Kanalbyen, with a view over the Little Belt.",
+      "tip": "Book weeks ahead and consider the juice pairing, which is as inventive as the food.",
+      "q": "Ti Trin Ned, Toldkammeret, Fredericia", "ll": [55.5599, 9.7547],
+      "src": ["https://guide.michelin.com/en/southern-denmark/fredericia/restaurant/ti-trin-ned", "https://www.visitdenmark.com/denmark/plan-your-trip/ti-trin-ned-michelin-starred-restaurant-gdk608944"]
+    },
+    {
+      "id": "esbjergbryghus", "cat": "ye", "area": "cevre",
+      "title": "Drink local beer in an old smithy at Esbjerg Bryghus",
+      "desc": "Esbjerg Bryghus opened in 2021 in a former blacksmith's workshop near the pedestrian street. Its taproom has 18 taps with its own beers and guests from Denmark and abroad, plus a sunny courtyard and a shop with more than 100 beers.",
+      "tip": "Check the programme for concerts and quiz nights, when the place is at its liveliest.",
+      "q": "Esbjerg Bryghus, Jyllandsgade, Esbjerg", "ll": [55.4661, 8.4468],
+      "src": ["https://www.visitdenmark.com/denmark/plan-your-trip/esbjerg-brewery-brewery-beer-bar-and-shop-gdk1131243"]
+    },
+    {
+      "id": "syttende", "cat": "ye", "area": "cevre",
+      "title": "Dine 17 floors up at Syttende in Sønderborg",
+      "desc": "On the 17th floor of the Alsik hotel, Syttende won the first Michelin star in Southern Jutland in 2021. Dinner is a long tasting menu of around 15 courses that follows the seasons, with views over Sønderborg and Als Sund.",
+      "tip": "Book a table for sunset, when the light over the water is at its best.",
+      "q": "Alsik, Nørre Havnegade, Sønderborg", "ll": [54.9145, 9.783],
+      "src": ["https://www.visitdenmark.com/denmark/plan-your-trip/restaurant-syttende-in-sonderborg-gdk1114440", "https://guide.michelin.com/lv/en/southern-denmark/sonderborg/restaurant/syttende"]
+    },
+    {
+      "id": "mandobus", "cat": "dene", "area": "cevre",
+      "title": "Ride the tractor bus across the seabed to Mandø",
+      "desc": "Mandø can be reached only at low tide, along a gravel road over the seabed that floods twice a day. For more than 30 years Mandøbussen, a trailer bus pulled by a tractor, has carried visitors from Vester Vedsted across the Wadden Sea to the island in about 40 minutes.",
+      "tip": "Departures change daily with the tide, so book online and check the timetable. Do not drive the ebb road yourself without knowing the tide times.",
+      "q": "Mandøbussen, Okholmvej, Vester Vedsted", "ll": [55.2965, 8.6699],
+      "src": ["https://www.visitdenmark.com/denmark/plan-your-trip/mandobussen-tractor-bus-mando-gdk610493", "https://www.vadehavskysten.com/ribe-esbjerg-fano/experience-the-wadden-sea/transportation"]
+    },
+    {
+      "id": "blacksun", "cat": "dene", "area": "cevre",
+      "title": "Watch the Black Sun starling murmuration",
+      "desc": "In spring and autumn up to a million starlings gather over the Wadden Sea marshes before roosting, swirling into huge dark clouds that can blot out the setting sun. Danes call it Sort Sol, the Black Sun, and it usually lasts 30 to 45 minutes around sunset.",
+      "tip": "The Wadden Sea Centre at Vester Vedsted runs guided Black Sun tours by bus, and guides know where the birds are roosting that evening. Tours may be cancelled at short notice if the weather is bad or the flocks have moved.",
+      "q": "Vadehavscentret, Vester Vedsted", "ll": [55.2956, 8.6691],
+      "months": [3, 4, 9, 10],
+      "src": ["https://eng.nationalparkvadehavet.dk/experience-the-wadden-sea/animal-and-bird-life/black-sun", "https://www.vadehavskysten.com/ribe-esbjerg-fano/experience-wadden-sea/black-sun-and-other-bird-trips"]
+    },
+    {
+      "id": "lakolk", "cat": "dene", "area": "cevre",
+      "title": "Drive onto the beach at Lakolk on Rømø",
+      "desc": "Rømø's west coast is one vast sand plain, and at Lakolk you can drive your car right down towards the water. The beach is up to several kilometres wide at low tide, with room for kite buggies, kite surfers and long walks.",
+      "tip": "Stick to the marked tracks so you don't get stuck in soft sand, and watch the tide if you park near the water.",
+      "q": "Lakolk Strand, Rømø", "ll": [55.1516, 8.4813],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Lakolk", "https://eng.nationalparkvadehavet.dk/experience-the-wadden-sea/wadden-sea-beaches"]
+    },
+    {
+      "id": "fanokite", "cat": "dene", "area": "cevre",
+      "title": "Watch giant kites at the Fanø kite festival",
+      "desc": "Every June kite flyers from around the world gather on Rindby Strand for the Fanø International Kite Fliers Meeting, filling the sky with dragons, octopuses and whales. It is one of the biggest kite gatherings in the world.",
+      "tip": "Bring your own kite: the wide, hard-packed beach is good for flying all year round, festival or not.",
+      "q": "Rindby Strand, Fanø", "ll": [55.4154, 8.3759],
+      "tags": ["free"],
+      "months": [6],
+      "src": ["https://visitfanoe.dk/en/fanoe-the-island-of-kites/", "https://www.visitdenmark.com/denmark/explore/fano-internationale-dragefestival-gdk975870"]
+    },
+    {
+      "id": "legoland", "cat": "dene", "area": "cevre",
+      "title": "Marvel at Miniland in LEGOLAND Billund",
+      "desc": "The first LEGOLAND opened in Billund on 7 June 1968. Its heart is Miniland, where Danish towns and world landmarks are rebuilt at 1:20 scale from more than 20 million bricks, surrounded by rides and themed areas for all ages.",
+      "tip": "Buy tickets online and head to the popular rides first thing. The park runs from March to December and is closed in January and February.",
+      "q": "Legoland Billund", "ll": [55.7359, 9.1268],
+      "months": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "src": ["https://en.wikipedia.org/wiki/Legoland_Billund_Resort"]
+    },
+    {
+      "id": "legohouse", "cat": "dene", "area": "cevre",
+      "title": "Build your own creation at LEGO House",
+      "desc": "LEGO House, designed by Bjarke Ingels Group and opened in 2017, looks like 21 giant white bricks stacked on top of each other. Inside, a 15-metre Tree of Creativity made from more than six million bricks rises through the building, surrounded by play zones and a gallery of fan-built masterpieces.",
+      "tip": "The public square and roof terraces are free to visit. At the MINI CHEF restaurant you order with bricks and robots deliver your meal.",
+      "q": "LEGO House, Ole Kirks Plads, Billund", "ll": [55.7307, 9.115],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Lego_House_(Billund)"]
+    },
+    {
+      "id": "lalandia", "cat": "dene", "area": "cevre",
+      "title": "Splash in the tropical Aquadome at Lalandia Billund",
+      "desc": "Lalandia Billund, opened in 2009 next to LEGOLAND, is a holiday resort built around the Aquadome, at 10,000 square metres the largest water park in Scandinavia. Slides like the Tornado, where four people spin down in a dinghy, and the 102-metre Twister keep it busy all year.",
+      "tip": "Go on a weekday outside school holidays for shorter slide queues, and combine it with LEGOLAND next door.",
+      "q": "Lalandia, Billund", "ll": [55.7328, 9.1383],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Lalandia"]
+    },
+    {
+      "id": "givskud", "cat": "dene", "area": "cevre",
+      "title": "Drive through the lion park at Givskud Zoo",
+      "desc": "Givskud Zoo opened in 1969 as Løveparken, a lion park, and you can still drive your own car among the lions. Today the safari park covers 65 hectares with more than 70 species, including elephants, white rhinos and a gorilla family in a two-hectare enclosure.",
+      "tip": "Keep the windows closed in the lion area, then park and walk the rest of the zoo. The zoo is about 20 km northwest of Vejle.",
+      "q": "Givskud Zoo, Givskud", "ll": [55.8085, 9.3517],
+      "src": ["https://en.wikipedia.org/wiki/Givskud_Zoo"]
+    },
+    {
+      "id": "gendarmstien", "cat": "dene", "area": "cevre",
+      "title": "Hike a stretch of the Gendarmstien",
+      "desc": "The Gendarme Path follows the route the border gendarmes patrolled on foot from 1920 to 1958, about 84 km along the coast of Flensburg Fjord from Padborg to Skovby on Als. It was the first walking route in Denmark certified as a Leading Quality Trail, with forests, beaches and views across the water to Germany.",
+      "tip": "The trail is signposted in both directions, so it is easy to walk just a section, such as the roughly 15 km from Padborg to Sønderhav. Pack a swimsuit for the fjord.",
+      "q": "Gendarmstien, Padborg", "ll": [54.8172, 9.3638],
+      "tags": ["free"],
+      "src": ["https://www.visitdenmark.se/danmark/planera-resan/gendarme-path-gdk611136"]
+    },
+    {
+      "id": "tonderfestival", "cat": "dene", "area": "cevre",
+      "title": "Sing along at Tønder Festival",
+      "desc": "Tønder Festival in late August is Denmark's oldest folk and roots music festival and one of the best known in Europe. Four days of folk, Americana, country and Celtic music fill the Open Air stage and the late-night Bolero tent, and the 2026 edition brought names like Emmylou Harris and Daniel Lanois to this small marsh town.",
+      "tip": "Tickets sell out, so buy early. Between concerts, wander Tønder's old town with its carved doorways.",
+      "q": "Festivalpladsen, Tønder", "ll": [54.9284, 8.8658],
+      "months": [8],
+      "src": ["https://www.visitdenmark.com/denmark/plan-your-trip/tonder-festival-gdk1090132", "https://tf.dk/en/news/the-full-schedule-is-ready"]
+    },
+    {
+      "id": "geografiskhave", "cat": "dene", "area": "cevre",
+      "title": "Travel the world in Kolding's Geografisk Have",
+      "desc": "Nurseryman Aksel Olsen started this garden in 1917, and today about 3,000 plant species grow here arranged by where they come from, so you wander from Asia to the Americas in an afternoon. The first bamboo in Denmark was brought here from China in 1921.",
+      "tip": "Don't miss the bamboo grove and the rose garden in early summer. There is an entrance fee, and the garden is run by Kolding Municipality.",
+      "q": "Geografisk Have, Kolding", "ll": [55.4726, 9.4929],
+      "src": ["https://lex.dk/Geografisk_Have", "https://www.visitdenmark.com/denmark/plan-your-trip/geografisk-have-kolding-beautiful-botanical-garden-for-the-whole-family-in-kolding-gdk651786"]
+    },
+    {
+      "id": "universe", "cat": "dene", "area": "cevre",
+      "title": "Experiment at Universe science park on Als",
+      "desc": "Universe at Nordborg is a science park built next to the Danfoss headquarters, where children and adults learn by doing: building, testing, climbing and racing. The season opens in late March.",
+      "tip": "Plan a full day and bring a change of clothes, as some of the activities involve water.",
+      "q": "Universe, Sønderborg", "ll": [55.0411, 9.8104],
+      "months": [3, 4, 5, 6, 7, 8, 9, 10],
+      "src": ["https://www.visitdenmark.com/denmark/plan-your-trip/universe-science-park-gdk611426", "https://universe.dk/en/experiences/events/season-opening-2026/"]
+    },
+    {
+      "id": "hjerting", "cat": "dene", "area": "cevre",
+      "title": "Take a seaside walk on Hjerting Strand",
+      "desc": "Hjerting began as a fishing village and the port for Varde, shipping cattle to England before Esbjerg's harbour was built. Today it is the city's favourite beach, a strip of reddish sand on the bay of Ho Bugt where the Skallingen peninsula keeps the water calm.",
+      "tip": "Walk south along the shore towards Sædding and finish at the Men at Sea statues, about 4 km away.",
+      "q": "Hjerting Strand, Esbjerg", "ll": [55.5216, 8.3548],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Hjerting", "https://en.wikivoyage.org/wiki/Esbjerg"]
+    },
+    {
+      "id": "ringriding", "cat": "dene", "area": "cevre",
+      "title": "Watch riders tilt at the ring in Sønderborg",
+      "desc": "Ring riding is the great summer sport of South Jutland: riders at full gallop try to spear a small ring hanging over the track. Sønderborg's tilting festival every July brings hundreds of riders, a parade through town and several days of fairground fun.",
+      "tip": "If you miss the festival, the castle courtyard hosts free tilting-at-the-ring shows on Tuesday afternoons in July.",
+      "q": "Ringriderpladsen, Sønderborg", "ll": [54.9065, 9.7951],
+      "months": [7],
+      "src": ["https://www.visitdenmark.com/denmark/plan-your-trip/historic-tilting-at-the-ring-in-sonderborg-gdk611362", "https://www.visitdenmark.com/denmark/plan-your-trip/combined-town-and-tilting-festival-tour-gdk611151"]
+    },
+    {
+      "id": "fanoferry", "cat": "dene", "area": "cevre",
+      "title": "Hop on the short ferry from Esbjerg to Fanø",
+      "desc": "FanøFærgen is the only passenger ferry from Esbjerg, and it reaches Nordby on Fanø in a little over ten minutes. From the deck you look back at the harbour cranes of Esbjerg and ahead to the low island with its dunes.",
+      "tip": "Take bikes rather than a car: the island is flat, and cycling from Nordby to Sønderho along the dunes is a classic day out.",
+      "q": "FanøFærgen, Esbjerg", "ll": [55.4613, 8.441],
+      "src": ["https://en.wikivoyage.org/wiki/Esbjerg", "https://vadehavskysten.com/ribe-esbjerg-fano/eat-and-sleep/eat-fano"]
+    },
+    {
+      "id": "mogeltonderkirke", "cat": "gor", "area": "cevre",
+      "title": "Hear the oldest organ in Denmark at Møgeltønder Church",
+      "desc": "Møgeltønder Church, begun around 1180, is one of the largest village churches in South Jutland. The Schack counts owned it from 1661 to 1970 and filled it with a richly painted interior, a Gothic altarpiece and what is said to be the oldest church organ in Denmark.",
+      "tip": "Prince Joachim and Princess Marie married here in 2008. Walk from the church up the lime-lined Slotsgaden to Schackenborg Castle.",
+      "q": "Møgeltønder Kirke, Møgeltønder", "ll": [54.9403, 8.804],
+      "tags": ["free", "rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/M%C3%B8gelt%C3%B8nder"]
+    }
+  ]
+}

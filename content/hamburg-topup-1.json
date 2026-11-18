@@ -1,0 +1,385 @@
+{
+  "new": [
+    {
+      "id": "hmjacobi", "cat": "gor", "area": "merkez",
+      "title": "Hear the Arp Schnitger organ in St. Jacobi",
+      "desc": "St. Jacobi is the easternmost of Hamburg's five main churches and one of the few medieval buildings left in the city centre after the war. Its great treasure is the Baroque organ Arp Schnitger finished in 1693, one of the most important historic organs in the world.",
+      "tip": "Look out for the regular organ recitals and lunchtime music; hearing the organ live is the whole point. The church is a short walk from Mönckebergstraße but feels a world away from the shopping crowds.",
+      "q": "Hauptkirche St. Jacobi, Jakobikirchhof, Hamburg", "ll": [53.5504, 10.0007],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Hauptkirche_Sankt_Jacobi"]
+    },
+    {
+      "id": "hmkatharinen", "cat": "gor", "area": "merkez",
+      "title": "Visit St. Katharinen, the sailors' church",
+      "desc": "Facing the Speicherstadt across the canal, St. Katharinen is known as the church of seafarers because it sits so close to the port. The base of its tower dates from the 13th century and is said to be the oldest structure in Hamburg still used for its original purpose.",
+      "tip": "Look up at the green spire crowned in gold: local legend links the gold to the treasure of the pirate Klaus Störtebeker. Combine it with a stroll over the bridges into the Speicherstadt.",
+      "q": "Hauptkirche St. Katharinen, Katharinenkirchhof, Hamburg", "ll": [53.5460, 9.9944],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Hauptkirche_Sankt_Katharinen"]
+    },
+    {
+      "id": "hmspeicherstadtmuseum", "cat": "gor", "area": "merkez",
+      "title": "Smell coffee and tea sacks at the Speicherstadtmuseum",
+      "desc": "This small museum fills the ground floor of warehouse block L, built in 1888, where the original riveted wrought iron frame still holds up the ceiling. Sacks, crates, scales and tools show how quartermen once sampled and stored coffee, tea, cocoa and spices in the world's largest historic warehouse district.",
+      "tip": "It is on Am Sandtorkai, a few doors from Miniatur Wunderland, so pop in while you wait for your slot there. The museum also runs tea and coffee tastings now and then.",
+      "q": "Speicherstadtmuseum, Am Sandtorkai 36, Hamburg", "ll": [53.5431, 9.9875],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Speicherstadtmuseum", "https://de.wikipedia.org/wiki/Speicherstadt"]
+    },
+    {
+      "id": "hmmkg", "cat": "gor", "area": "merkez",
+      "title": "Browse design history at the Museum für Kunst und Gewerbe",
+      "desc": "Founded in 1877, the MKG next to the Hauptbahnhof holds more than 600,000 objects, from antiquities and Asian art to furniture, fashion, posters and modern design. It is one of the great decorative arts museums in the German speaking world.",
+      "tip": "Leave time for the Art Nouveau rooms, one of the museum's strong points. It is right by the station, so it makes a good first or last stop on a rainy day.",
+      "q": "Museum für Kunst und Gewerbe, Steintorplatz, Hamburg", "ll": [53.5513, 10.0093],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Museum_f%C3%BCr_Kunst_und_Gewerbe_Hamburg"]
+    },
+    {
+      "id": "hmhannoverscherbf", "cat": "gor", "area": "merkez",
+      "title": "Pause at the memorial of the Hannoverscher Bahnhof",
+      "desc": "Between 1940 and 1945 thousands of Jews, Sinti and Roma were deported from Hamburg from the Hannoverscher Bahnhof, a station that no longer exists. The denk.mal Hannoverscher Bahnhof in the Lohsepark marks the spot, with a line of the old platform and panels listing the names of those sent away.",
+      "tip": "Walk the length of the former track bed through the park in silence; the scale of the name panels makes the point. The Lohsepark around it is the largest green space in HafenCity.",
+      "q": "denk.mal Hannoverscher Bahnhof, Lohseplatz, Hamburg", "ll": [53.5421, 10.0069],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Lohsepark", "https://de.wikipedia.org/wiki/Denk.mal_Hannoverscher_Bahnhof"]
+    },
+    {
+      "id": "hmmellinpassage", "cat": "gor", "area": "merkez",
+      "title": "Look up at the painted ceiling of the Mellin-Passage",
+      "desc": "Hidden in the Alsterarkaden block, the Mellin-Passage is the oldest shopping arcade in Hamburg. Its Art Nouveau wall and ceiling paintings, reminiscent of Alfons Mucha, were rediscovered by chance during repairs after a fire on New Year's Eve 1989.",
+      "tip": "Enter from Neuer Wall 13 and walk through slowly, head tilted back. It takes two minutes and is free.",
+      "q": "Mellin-Passage, Neuer Wall, Hamburg", "ll": [53.5521, 9.9923],
+      "tags": ["free", "rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Alsterarkaden"]
+    },
+    {
+      "id": "hmbaakenpark", "cat": "gor", "area": "merkez",
+      "title": "Climb the little hill in the Baakenpark",
+      "desc": "The Baakenpark is a 1.6 hectare park built on an artificial peninsula in the Baakenhafen basin, at the eastern end of HafenCity. Its grassy summit gives a wide view of the cranes, the new quarter and the Elbe bridges.",
+      "tip": "Come at sunset with a drink and sit on the slope facing west. Few visitors make it this far east, so it is mostly locals and their kids.",
+      "q": "Baakenpark, Baakenallee, Hamburg", "ll": [53.5380, 10.0147],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Baakenpark"]
+    },
+    {
+      "id": "hmbismarck", "cat": "gor", "area": "merkez",
+      "title": "Stand at the feet of the giant Bismarck in the Alter Elbpark",
+      "desc": "Germany's largest Bismarck monument rises 34.3 metres above the Alter Elbpark, built between 1901 and 1906 by architect Emil Schaudt and sculptor Hugo Lederer. It shows Bismarck as a Roland, the medieval symbol of a free city, and is visible from far out on the harbour.",
+      "tip": "Walk on to the Stintfang terrace just south of it for a classic view down over the Landungsbrücken.",
+      "q": "Bismarck-Denkmal, Alter Elbpark, Hamburg", "ll": [53.5487, 9.9720],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Bismarck-Denkmal_(Hamburg)", "https://de.wikipedia.org/wiki/Alter_Elbpark"]
+    },
+    {
+      "id": "hmdanielwischer", "cat": "ye", "area": "merkez",
+      "title": "Eat fish and chips Hamburg style at Daniel Wischer",
+      "desc": "Daniel Wischer has been frying fish in Hamburg since 1924 and is a family run institution for battered fish, potato salad and fried potatoes. The branch on Große Johannisstraße sits just behind the Rathaus.",
+      "tip": "Order the classic Backfisch with potato salad and keep it simple. It is a quick, good value lunch in a part of town full of expensive options.",
+      "q": "Daniel Wischer, Große Johannisstraße 3, Hamburg", "ll": [53.5498, 9.9931],
+      "src": ["https://www.hamburg-tourism.de/shoppen-geniessen/restaurants-cafes/daniel-wischer", "https://tripaligner.com/countries/germany-22/destinations/hamburg-6354/places/daniel-wischer-at-the-town-hall-10175425"]
+    },
+    {
+      "id": "hmtibreizh", "cat": "ye", "area": "merkez",
+      "title": "Order a galette and cider at Ti Breizh",
+      "desc": "Ti Breizh has served Breton buckwheat galettes and sweet crêpes in an old merchant's house on Deichstraße since 1998. The back windows look straight onto the Nikolaifleet canal.",
+      "tip": "Drink the cider from a bowl as they do in Brittany. Book ahead for evenings, as the tables fill up with locals.",
+      "q": "Ti Breizh, Deichstraße 39, Hamburg", "ll": [53.5457, 9.9871],
+      "src": ["https://25hours-hotels.com/hamburg/neighbourhood/ti-breizh/", "https://www.fodors.com/world/europe/germany/hamburg/restaurants/reviews/ti-breizh-160453240"]
+    },
+    {
+      "id": "hmgroeninger", "cat": "ye", "area": "merkez",
+      "title": "Tap your own beer at the Gröninger brewery",
+      "desc": "The Gröninger Privatbrauerei brews its own Pils on site in historic cellars on Willy-Brandt-Straße and is one of the city's oldest brewpub locations. Hearty North German food such as pork knuckle comes with beer drawn from wooden casks.",
+      "tip": "Come hungry and with friends: portions are huge and the long tables are built for groups. Check opening days first, as it does not open every day.",
+      "q": "Gröninger Privatbrauerei, Willy-Brandt-Straße 47, Hamburg", "ll": [53.5472, 9.9962],
+      "tags": ["rainy day"],
+      "src": ["https://www.groeninger-hamburg.de/english/", "https://www.hamburg-tourism.de/shoppen-geniessen/restaurants-cafes/groeninger-privatbrauerei/"]
+    },
+    {
+      "id": "hmlelion", "cat": "ye", "area": "merkez",
+      "title": "Ring the bell for a Gin Basil Smash at Le Lion",
+      "desc": "Behind an unmarked door on Rathausstraße, Le Lion is the bar where Jörg Meyer created the Gin Basil Smash in 2008, now a modern classic poured around the world. It has long featured among the world's best bars.",
+      "tip": "Ring the bell and wait to be seated, and reserve on weekends. Order the Smash at least once, then let the bartenders steer you.",
+      "q": "Le Lion, Rathausstraße 3, Hamburg", "ll": [53.5502, 9.9946],
+      "src": ["https://www.hamburg-tourism.de/shoppen-geniessen/szene-nachtleben/le-lion-bar/", "https://punchdrink.com/articles/how-gin-basil-smash-became-modern-classic-cocktail-recipe-le-lion/"]
+    },
+    {
+      "id": "hmhobenkoek", "cat": "ye", "area": "merkez",
+      "title": "Shop regional at the Hobenköök market hall",
+      "desc": "In an old warehouse in the Oberhafen quarter, Hobenköök combines a market hall full of produce from farms around Hamburg with a restaurant cooking from the same shelves. The name is Low German for harbour kitchen.",
+      "tip": "Come for a weekend brunch, then buy cheese, bread and smoked fish to take home. The Oberhafen bridges and creative studios around it are worth a wander.",
+      "q": "Hobenköök, Stockmeyerstraße 43, Hamburg", "ll": [53.5433, 10.0078],
+      "src": ["https://www.hamburg-tourism.de/magazin/aus-der-markthalle-auf-den-teller-zu-gast-in-der-hobenkoeoek/", "https://www.cremeguides.com/en/hamburg/hobenkoeoek-food-hall-and-restaurant/"]
+    },
+    {
+      "id": "hmpetriturm", "cat": "dene", "area": "merkez",
+      "title": "Climb the 544 steps of St. Petri's tower",
+      "desc": "St. Petri is the oldest of Hamburg's five main churches, and its 132 metre tower can be climbed by 544 steps to a height of 123 metres. Small porthole windows near the top frame views over the Rathaus, the Alster and the port.",
+      "tip": "It is steep and narrow near the top, so wear flat shoes. Locals swear by this climb over the Michel because it is cheaper and much quieter.",
+      "q": "Hauptkirche St. Petri, Bei der Petrikirche, Hamburg", "ll": [53.5503, 9.9967],
+      "src": ["https://de.wikipedia.org/wiki/Hauptkirche_Sankt_Petri"]
+    },
+    {
+      "id": "hmalsterdampfer", "cat": "dene", "area": "merkez",
+      "title": "Cruise the Alster from the Jungfernstieg pier",
+      "desc": "Alster boats leave the Jungfernstieg for round trips across the Binnenalster and Außenalster and up the leafy canals past grand villas. Hamburgers still call them Alsterdampfer, although the St. Georg is the only one still under steam.",
+      "tip": "The canal tours show a side of the city that the lake trip misses. In summer, sit on the open deck at the back.",
+      "q": "Anleger Jungfernstieg, Hamburg", "ll": [53.5537, 9.9929],
+      "src": ["https://de.wikipedia.org/wiki/Alsterdampfer"]
+    },
+    {
+      "id": "hmohnsorg", "cat": "dene", "area": "merkez",
+      "title": "See a play in Low German at the Ohnsorg Theater",
+      "desc": "The Ohnsorg Theater has staged plays in Plattdeutsch, the Low German of the north, for generations, and its productions were broadcast on national television for decades. Since 2011 it has played in the Bieberhaus by the Hauptbahnhof.",
+      "tip": "Comedies are the easiest way in: even without much German the timing carries you. Some productions are also staged in standard German.",
+      "q": "Ohnsorg Theater, Heidi-Kabel-Platz 1, Hamburg", "ll": [53.5545, 10.0071],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Ohnsorg-Theater"]
+    },
+    {
+      "id": "hmweihnachtsmarkt", "cat": "dene", "area": "merkez",
+      "title": "Watch Santa fly over the Rathausmarkt Christmas market",
+      "desc": "The historic Christmas market in front of the Rathaus, run by Circus Roncalli, is the best known of the city's many Advent markets. Its wooden huts are grouped into themed lanes, and a Santa with sleigh and reindeer glides over the stalls on a high wire.",
+      "tip": "The flying Santa goes over daily at 4, 6 and 8 pm. Come on a weekday afternoon to avoid the worst of the crowds.",
+      "q": "Rathausmarkt, Hamburg", "ll": [53.5509, 9.9929],
+      "months": [11, 12],
+      "src": ["https://de.wikipedia.org/wiki/Hamburger_Weihnachtsm%C3%A4rkte"]
+    },
+    {
+      "id": "hmhafengeburtstag", "cat": "dene", "area": "merkez",
+      "title": "Join the harbour's birthday party in May",
+      "desc": "Every May since 1977, Hamburg throws a birthday party for its port, which by tradition was founded on 7 May 1189. For a long weekend the riverfront from the Landungsbrücken to HafenCity fills with tall ships, a parade of vessels and food stalls.",
+      "tip": "The parades of ships at the start and end are the highlights; grab a spot on the Landungsbrücken pontoons early.",
+      "q": "St. Pauli Landungsbrücken, Hamburg", "ll": [53.5457, 9.9690],
+      "months": [5],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Hafengeburtstag"]
+    },
+    {
+      "id": "hmlaeiszhalle", "cat": "dene", "area": "merkez",
+      "title": "Catch a concert in the neo-Baroque Laeiszhalle",
+      "desc": "Opened in 1908 as the most modern concert hall in Germany, the Laeiszhalle was paid for by the Laeisz shipping family. The great hall seats around 2,000 and is home to the Symphoniker Hamburg.",
+      "tip": "Tickets here are usually far easier to get than at the Elbphilharmonie.",
+      "q": "Laeiszhalle, Johannes-Brahms-Platz, Hamburg", "ll": [53.5561, 9.9811],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Laeiszhalle"]
+    },
+    {
+      "id": "hvsuellberg", "cat": "gor", "area": "viertel",
+      "title": "Look out over the Elbe from the Süllberg",
+      "desc": "At 74.6 metres, the Süllberg in Blankenese is one of the highest points in Hamburg, and locals call it the city's own hill. Castles stood on its summit twice; today a hotel and restaurant occupy the top, with a wide view over the Elbe and the passing container ships.",
+      "tip": "Walk up through the steep lanes from the Blankenese shore rather than taking the bus. The views from the paths just below the summit are free.",
+      "q": "Süllberg, Blankenese, Hamburg", "ll": [53.5594, 9.8012],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/S%C3%BCllberg_(Hamburg)"]
+    },
+    {
+      "id": "hvhirschpark", "cat": "gor", "area": "viertel",
+      "title": "Walk under the old trees of the Hirschpark",
+      "desc": "This 24.5 hectare landscape garden in Nienstedten was the country estate of merchant Cesar Godeffroy from 1786. Beech woods, huge rhododendrons and a sycamore maple of about 270 years surround the thatched Witthüs, where the writer Hans Henny Jahnn lived.",
+      "tip": "Come in late May when the rhododendrons are in flower, then continue down the slope to the Elbe beach path.",
+      "q": "Hirschpark, Elbchaussee, Hamburg", "ll": [53.5580, 9.8239],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Hirschpark_(Hamburg)"]
+    },
+    {
+      "id": "hvsternwarte", "cat": "gor", "area": "viertel",
+      "title": "Explore the domes of the Bergedorf observatory",
+      "desc": "The Hamburger Sternwarte has stood on the Gojenberg in Bergedorf since 1909, its domes spread through a wooded park. It was here that Bernhard Schmidt invented the Schmidt telescope in 1930, and the Great Refractor with its 60 cm lens is still used for public stargazing.",
+      "tip": "The park is open daily and has a planet path with signs. Check the visitor centre's programme for guided tours and evening observations.",
+      "q": "Hamburger Sternwarte, Gojenbergsweg 112, Hamburg", "ll": [53.4805, 10.2406],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Hamburger_Sternwarte"]
+    },
+    {
+      "id": "hvmuseumarbeit", "cat": "gor", "area": "viertel",
+      "title": "Set type by hand at the Museum der Arbeit",
+      "desc": "In a former rubber comb factory on the Osterbekkanal in Barmbek, this museum tells the story of work and everyday life over the last 150 years. In the courtyard stands TRUDE, the 14.2 metre cutting wheel that bored the new Elbe tunnel.",
+      "tip": "Time your visit for a demonstration in the printing workshop, where the historic presses and typesetting machines still run.",
+      "q": "Museum der Arbeit, Wiesendamm 3, Hamburg", "ll": [53.5859, 10.0456],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Museum_der_Arbeit"]
+    },
+    {
+      "id": "hvriekhaus", "cat": "gor", "area": "viertel",
+      "title": "Step into a Vierlande farmhouse at the Rieck Haus",
+      "desc": "On the dike at Curslack, the Rieck Haus is an open-air museum built around a farmhouse whose timber frame dates to about 1532. A cottage garden, an open hay barn, a bakehouse and a small wooden drainage windmill show how farmers lived in the Vierlande marshes.",
+      "tip": "Combine it with a bike ride along the dikes of the Vierlande, Hamburg's flower and vegetable garden. Check seasonal opening times before you go.",
+      "q": "Rieck Haus, Curslacker Deich 284, Hamburg", "ll": [53.4593, 10.2145],
+      "src": ["https://de.wikipedia.org/wiki/Rieck-Haus"]
+    },
+    {
+      "id": "hvbornplatz", "cat": "gor", "area": "viertel",
+      "title": "Trace the lost synagogue on Joseph-Carlebach-Platz",
+      "desc": "The Bornplatz Synagogue, consecrated in 1906, was one of the largest in Germany until it was wrecked in November 1938 and demolished. Since 1988 a floor mosaic by Margrit Kahl traces its outline and vaulted ceiling on the square in the Grindel quarter.",
+      "tip": "Stand in the middle and look at the pattern: it mirrors the ceiling that once rose above you. The Talmud Tora school building next door is again a Jewish school.",
+      "q": "Joseph-Carlebach-Platz, Hamburg", "ll": [53.5681, 9.9832],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Bornplatzsynagoge"]
+    },
+    {
+      "id": "hvjohanna", "cat": "gor", "area": "viertel",
+      "title": "Find the windmill Johanna in rural Wilhelmsburg",
+      "desc": "Windmill Johanna has stood on a dike in Wilhelmsburg in its present form since 1875, and a mill has been recorded on the spot since 1585. It ground grain until 1960 and is kept by a local association together with the half-timbered miller's house and a bakehouse.",
+      "tip": "Visit on the German Mill Day on Whit Monday or on one of the open café days, when you can go inside.",
+      "q": "Windmühle Johanna, Bei der Windmühle, Hamburg", "ll": [53.4998, 10.0232],
+      "src": ["https://de.wikipedia.org/wiki/Windm%C3%BChle_Johanna"]
+    },
+    {
+      "id": "hvenergiebunker", "cat": "gor", "area": "viertel",
+      "title": "Take in the port from the Energiebunker terrace",
+      "desc": "This Second World War flak tower in Wilhelmsburg was gutted by explosives in 1947 and rebuilt for the 2013 International Building Exhibition as a green power plant. Solar panels and a huge heat store now supply thousands of homes, and a terrace at 30 metres looks over the island and the port.",
+      "tip": "Go on a clear afternoon for views right across to the city skyline. Check opening times of the terrace and café before setting out.",
+      "q": "Energiebunker Wilhelmsburg, Neuhöfer Straße 7, Hamburg", "ll": [53.5100, 9.9899],
+      "src": ["https://de.wikipedia.org/wiki/Hamburger_Flakt%C3%BCrme"]
+    },
+    {
+      "id": "hvmercado", "cat": "gor", "area": "viertel",
+      "title": "Read the names at the Mercado in Ottensen",
+      "desc": "The Mercado shopping centre opened in 1995 on the site of Ottensen's Jewish cemetery, used from 1663 to 1934. After protests, the chief rabbi of Jerusalem ruled that the graves must stay untouched, so the building was raised on a concrete slab and plaques by the stairs list some 4,500 people buried below.",
+      "tip": "The plaques are by the stairway to the lower floor. Afterwards, walk on to the old Ottensen streets around Spritzenplatz.",
+      "q": "Mercado, Ottenser Hauptstraße 10, Hamburg", "ll": [53.5529, 9.9321],
+      "tags": ["free", "rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/J%C3%BCdischer_Friedhof_Ottensen"]
+    },
+    {
+      "id": "hverikaseck", "cat": "ye", "area": "viertel",
+      "title": "Eat a schnitzel at dawn at Erika's Eck",
+      "desc": "Erika's Eck in the Schanze has kept odd hours for decades, opening in the evening and serving until the next afternoon. The prices were once meant for workers at the nearby slaughterhouse; today clubbers and night owls share tables over enormous schnitzels.",
+      "tip": "The plate is huge, so share or skip lunch. Be polite and patient: staff are old school and it gets packed in the early evening.",
+      "q": "Erika's Eck, Sternstraße 98, Hamburg", "ll": [53.5611, 9.9676],
+      "src": ["https://www.timeout.com/hamburg/restaurants/erikas-eck", "https://www.tripexpert.com/hamburg/restaurants/erikas-eck"]
+    },
+    {
+      "id": "hvsilbersack", "cat": "ye", "area": "viertel",
+      "title": "Sing along to Schlager at Zum Silbersack",
+      "desc": "Zum Silbersack has been a St. Pauli corner pub since 1949, run for six decades by landlady Erna Thomsen. When she died in 2012 the neighbourhood rallied to keep it open, and it is still all cheap Astra, schnapps and 1950s hits on the jukebox.",
+      "tip": "Bring cash. It fills up late, so drop in after midnight when the whole Kiez seems to pass through.",
+      "q": "Zum Silbersack, Silbersackstraße 9, Hamburg", "ll": [53.5489, 9.9600],
+      "src": ["https://de.wikipedia.org/wiki/Zum_Silbersack", "https://www.hamburg-tourism.de/shoppen-geniessen/szene-nachtleben/zum-silbersack"]
+    },
+    {
+      "id": "hvhaifischbar", "cat": "ye", "area": "viertel",
+      "title": "Have a beer with sailors at the Haifischbar",
+      "desc": "On Große Elbstraße by the old fishing port, the Haifischbar has been a maritime pub since the 1960s, known from film, radio and television. It once was a sailors' haunt and still draws a mixed crowd with fish dishes and live music.",
+      "tip": "Pair it with a Sunday Fischmarkt visit, as it is a few minutes' walk west along the river.",
+      "q": "Haifischbar, Große Elbstraße 128, Hamburg", "ll": [53.5445, 9.9459],
+      "src": ["https://www.hamburg-tourism.de/sehen-erleben/hamburg-maritim/grosse-elbstrasse", "https://selection-magazin.de/en/shark-bar/"]
+    },
+    {
+      "id": "hvfischereihafen", "cat": "ye", "area": "viertel",
+      "title": "Treat yourself at the Fischereihafen Restaurant",
+      "desc": "Right on the harbour at Große Elbstraße, the Fischereihafen Restaurant is one of Hamburg's classic addresses for fish, from oysters to eel with scrambled eggs. Big windows and a terrace look over the river traffic.",
+      "tip": "The lunch menu is the best value way in. Ask for a window table when you book.",
+      "q": "Fischereihafen Restaurant, Große Elbstraße 143, Hamburg", "ll": [53.5445, 9.9359],
+      "src": ["https://www.fischereihafenrestaurant.de/"]
+    },
+    {
+      "id": "hvrindermarkthalle", "cat": "ye", "area": "viertel",
+      "title": "Graze the stalls of the Rindermarkthalle",
+      "desc": "Built in 1950 and 1951 as the cattle market hall of the Hamburg slaughterhouse, this listed brick building on the Heiligengeistfeld reopened in 2014 as a market hall. Beside supermarkets, about 3,500 square metres of stalls and food counters are run mostly by local traders.",
+      "tip": "Look for the ceramic reliefs of cattle trading on the front stairways. It is a handy cheap lunch before a match at the Millerntor next door.",
+      "q": "Rindermarkthalle St. Pauli, Neuer Kamp 31, Hamburg", "ll": [53.5564, 9.9663],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Rindermarkthalle_St._Pauli"]
+    },
+    {
+      "id": "hvlindtner", "cat": "ye", "area": "viertel",
+      "title": "Choose a cake at Konditorei Lindtner in Eppendorf",
+      "desc": "Lindtner on Eppendorfer Landstraße is a family run Konditorei that has made cakes, tortes, pralines and petits fours by hand for around 75 years. It is a favourite stop for Eppendorf locals after a stroll through the neighbourhood.",
+      "tip": "Go on a weekend afternoon for the full coffee and cake ritual, and take a box of pralines home.",
+      "q": "Konditorei Lindtner, Eppendorfer Landstraße 88, Hamburg", "ll": [53.5911, 9.9882],
+      "src": ["https://www.hamburg-magazin.de/artikel/konditorei-caf%C3%A9-lindtner", "https://www.lindtner.com/"]
+    },
+    {
+      "id": "hvleonar", "cat": "ye", "area": "viertel",
+      "title": "Have a Levantine breakfast at Café Leonar",
+      "desc": "Café Leonar has been part of the Grindel quarter, the historic heart of Jewish Hamburg, since 2008. The menu leans Levantine, with breakfasts, a weekly changing lunch, cakes and evening dishes.",
+      "tip": "Combine it with the Synagogue Monument on Joseph-Carlebach-Platz, a two minute walk away. It is not a kosher restaurant.",
+      "q": "Café Leonar, Grindelhof 59, Hamburg", "ll": [53.5698, 9.9841],
+      "src": ["https://www.cafeleonar.de/"]
+    },
+    {
+      "id": "hvelbgold", "cat": "ye", "area": "viertel",
+      "title": "Drink coffee where Elbgold roasts it",
+      "desc": "Elbgold has roasted direct-trade specialty coffee in Hamburg since 2004, and its flagship café sits in the old slaughterhouse grounds on Lagerstraße in the Schanze.",
+      "tip": "Ask for a filter coffee of the week and buy fresh beans to go. It opens at 7:30 on weekdays, ideal before work or a market morning.",
+      "q": "Elbgold, Lagerstraße 34c, Hamburg", "ll": [53.5632, 9.9669],
+      "src": ["https://www.elbgold.com/"]
+    },
+    {
+      "id": "hvliteraturhauscafe", "cat": "ye", "area": "viertel",
+      "title": "Take coffee in the Literaturhaus salon on the Alster",
+      "desc": "The Literaturhaus Hamburg has filled a historic villa at Schwanenwik on the Außenalster since 1989. Alongside readings and a bookshop, the ground floor houses the Literaturhauscafé.",
+      "tip": "Follow your coffee with a walk along the Alster shore just across the road. Check the evening programme in case a reading is on.",
+      "q": "Literaturhaus, Schwanenwik 38, Hamburg", "ll": [53.5681, 10.0167],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Literaturhaus_Hamburg"]
+    },
+    {
+      "id": "hvpieper", "cat": "dene", "area": "viertel",
+      "title": "Go sailing on the Außenalster with Segelschule Pieper",
+      "desc": "The 164 hectare Außenalster in the middle of the city is Hamburg's sailing lake, dotted with small dinghies on any windy summer day. Segelschule Pieper at the Atlanticsteg rents boats in season and offers taster sails for beginners.",
+      "tip": "No experience? Book a taster sail with a skipper. Rentals close for the season in autumn.",
+      "q": "Segelschule Pieper, An der Alster, Hamburg", "ll": [53.5581, 10.0043],
+      "months": [4, 5, 6, 7, 8, 9, 10],
+      "src": ["https://www.segelschule-pieper.de/", "https://de.wikipedia.org/wiki/Au%C3%9Fenalster"]
+    },
+    {
+      "id": "hvalsterlauf", "cat": "dene", "area": "viertel",
+      "title": "Run or walk the 7.4 km loop around the Außenalster",
+      "desc": "The path around the Außenalster runs almost entirely along the water for 7.4 kilometres, marked every half kilometre for runners. It passes the meadows of the Alstervorland, villas, rowing clubs and some of the best skyline views in town.",
+      "tip": "Go anticlockwise from the Alstervorland in the early morning, when the water is calm and the light is soft.",
+      "q": "Alstervorland, Hamburg", "ll": [53.5737, 10.0010],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Au%C3%9Fenalster"]
+    },
+    {
+      "id": "hvkampnagel", "cat": "dene", "area": "viertel",
+      "title": "See something new at Kampnagel",
+      "desc": "Kampnagel is a former machine factory in Winterhude, founded in 1865, whose halls have been used since 1982 for contemporary theatre, dance and performance. It is one of Europe's leading venues for international independent stage work.",
+      "tip": "The summer festival in August is the best time to go, with a busy outdoor bar between the halls.",
+      "q": "Kampnagel, Jarrestraße 20, Hamburg", "ll": [53.5833, 10.0217],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Kampnagel"]
+    },
+    {
+      "id": "hvfabrik", "cat": "dene", "area": "viertel",
+      "title": "Catch a gig at the Fabrik in Ottensen",
+      "desc": "Since 1971 the Fabrik, a former factory hall in Ottensen, has been a cultural centre for concerts, readings, theatre and youth work. The galleries around the hall make even sold out shows feel close.",
+      "tip": "Check the programme for jazz, world music and singer-songwriter evenings, which suit the room best.",
+      "q": "Fabrik, Barnerstraße 36, Hamburg", "ll": [53.5567, 9.9292],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Fabrik_(Hamburg)"]
+    },
+    {
+      "id": "hvenergieberg", "cat": "dene", "area": "viertel",
+      "title": "Walk the Horizontweg on the Energieberg Georgswerder",
+      "desc": "A 40 metre hill of waste in Wilhelmsburg was capped and turned into the Energieberg for the 2013 International Building Exhibition. A 900 metre ring path runs just below the summit among wind turbines, with views over the port and city.",
+      "tip": "It is open from April to October, Tuesday to Sunday, and closes in winter because ice can fall from the rotor blades. Start at the information centre at the foot of the hill.",
+      "q": "Energieberg Georgswerder, Fiskalische Straße 2, Hamburg", "ll": [53.5131, 10.0291],
+      "months": [4, 5, 6, 7, 8, 9, 10],
+      "src": ["https://de.wikipedia.org/wiki/Deponie_Georgswerder"]
+    },
+    {
+      "id": "hvpanoptikum", "cat": "dene", "area": "viertel",
+      "title": "Meet the wax figures at the Panoptikum",
+      "desc": "On the Spielbudenplatz, the Panoptikum is Germany's oldest and largest wax museum, with more than 120 figures from politics, show business and Hamburg history.",
+      "tip": "It is open daily and makes a fun rainy hour before the Kiez wakes up in the evening.",
+      "q": "Panoptikum, Spielbudenplatz 3, Hamburg", "ll": [53.5494, 9.9666],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Panoptikum_Hamburg", "https://www.panoptikum.de/"]
+    },
+    {
+      "id": "hvtivoli", "cat": "dene", "area": "viertel",
+      "title": "Laugh through a show at Schmidts Tivoli",
+      "desc": "Co-founded by Corny Littmann, the Schmidt theatres on the Spielbudenplatz run without public money and are known for musicals, cabaret and comedy with a St. Pauli wink. Schmidts Tivoli is the biggest of the three stages, with 620 seats.",
+      "tip": "Book a table seat for the full cabaret feel, with drinks served during the show.",
+      "q": "Schmidts Tivoli, Spielbudenplatz 27, Hamburg", "ll": [53.5491, 9.9633],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Schmidt_Theater"]
+    }
+  ]
+}

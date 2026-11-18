@@ -1,0 +1,861 @@
+{
+  "new": [
+    {
+      "id": "pcconciergerie",
+      "cat": "gor",
+      "area": "centre",
+      "title": "Walk the Gothic halls of the Conciergerie",
+      "desc": "The Conciergerie is what survives of the medieval royal palace on the Île de la Cité, later turned into a prison. During the Revolution it held prisoners before the guillotine, Marie-Antoinette among them, and the vaulted Salle des Gens d'Armes is one of the largest Gothic halls left in Europe.",
+      "tip": "Look up at the corner tower on the Quai de l'Horloge: its gilded clock was the first public clock in Paris. A combined ticket with the Sainte-Chapelle next door saves money.",
+      "q": "Conciergerie, Boulevard du Palais, Paris",
+      "ll": [
+        48.8559,
+        2.346
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/Conciergerie"
+      ]
+    },
+    {
+      "id": "pcplacedauphine",
+      "cat": "gor",
+      "area": "centre",
+      "title": "Find the quiet triangle of Place Dauphine",
+      "desc": "Laid out from 1607 under Henri IV and named after the young dauphin, the future Louis XIII, this triangular square hides just behind the Pont Neuf. André Breton called it the sex of Paris in his novel Nadja, and Yves Montand and Simone Signoret lived at number 15.",
+      "tip": "Come on a warm evening when locals play pétanque under the chestnut trees, then take a terrace seat at one of the small restaurants along the edge.",
+      "q": "Place Dauphine, Paris",
+      "ll": [
+        48.8564,
+        2.3427
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Place_Dauphine"
+      ]
+    },
+    {
+      "id": "pcpicasso",
+      "cat": "gor",
+      "area": "centre",
+      "title": "Meet Picasso in a Marais mansion",
+      "desc": "The Musée national Picasso-Paris fills the Hôtel Salé, a 17th century mansion built for a collector of the salt tax, hence its nickname. Its collection came largely from the artist's own estate and covers every period of his work, from paintings and sculpture to ceramics and sketches.",
+      "tip": "Do not skip the grand stone staircase and the top floor under the roof beams. The café on the upper level opens onto a small garden terrace.",
+      "q": "Musée national Picasso-Paris, 5 rue de Thorigny, Paris",
+      "ll": [
+        48.8599,
+        2.3621
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/Mus%C3%A9e_Picasso"
+      ]
+    },
+    {
+      "id": "pccognacqjay",
+      "cat": "gor",
+      "area": "centre",
+      "title": "Step into the 18th century at the Musée Cognacq-Jay",
+      "desc": "Ernest Cognacq and Marie-Louise Jaÿ, the couple who founded the Samaritaine department store, collected 18th century art and left it to the city. It is shown in the Hôtel de Donon, a Marais mansion, with paintings, pastels, porcelain and tiny jewelled snuffboxes.",
+      "tip": "The permanent collection is free, like the other City of Paris museums. Pair it with the little Jardin Lazare-Rachline next door.",
+      "q": "Musée Cognacq-Jay, 8 rue Elzévir, Paris",
+      "ll": [
+        48.8581,
+        2.3617
+      ],
+      "tags": [
+        "free",
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Cognacq-Jay"
+      ]
+    },
+    {
+      "id": "pcsalleovale",
+      "cat": "gor",
+      "area": "centre",
+      "title": "Read under the glass dome of the Salle Ovale",
+      "desc": "The Richelieu site of the national library reopened after a long renovation, and its great oval reading room, lit by a glass ceiling, is now open to anyone without a library card. The building also houses a museum of treasures from the library's collections.",
+      "tip": "Bring a book or just sit at the long wooden tables for a while; there is no ticket for the reading room. The garden on the Rue Vivienne side is a quiet lunch spot.",
+      "q": "Bibliothèque nationale de France, site Richelieu, 58 rue de Richelieu, Paris",
+      "ll": [
+        48.8673,
+        2.3382
+      ],
+      "tags": [
+        "free",
+        "rainy day"
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/Biblioth%C3%A8que_nationale_de_France"
+      ]
+    },
+    {
+      "id": "pchoteldesens",
+      "cat": "gor",
+      "area": "centre",
+      "title": "Spot the cannonball in the Hôtel de Sens",
+      "desc": "Built between 1495 and 1519 for the archbishops of Sens, this turreted Flamboyant Gothic house is one of the last great medieval homes in Paris. A cannonball fired during the July Revolution of 1830 is still lodged in the facade, with the date carved below it.",
+      "tip": "The formal garden behind it is free to wander. Inside is the Bibliothèque Forney, a library of posters and decorative arts that often runs small exhibitions.",
+      "q": "Hôtel de Sens, 1 rue du Figuier, Paris",
+      "ll": [
+        48.8535,
+        2.3588
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_Sens"
+      ]
+    },
+    {
+      "id": "pcdeportation",
+      "cat": "gor",
+      "area": "centre",
+      "title": "Pause at the Mémorial des Martyrs de la Déportation",
+      "desc": "At the eastern tip of the Île de la Cité, architect Georges-Henri Pingusson sank a memorial below street level, opened by de Gaulle in 1962. A narrow corridor lined with 200,000 glass rods remembers the people deported from France, beside the tomb of an unknown deportee.",
+      "tip": "Entry is free and it is easy to miss: look for the steps going down at the end of the garden behind Notre-Dame. Keep voices low inside.",
+      "q": "Mémorial des Martyrs de la Déportation, Paris",
+      "ll": [
+        48.8517,
+        2.3524
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/M%C3%A9morial_des_martyrs_de_la_D%C3%A9portation"
+      ]
+    },
+    {
+      "id": "pcfondationcartier",
+      "cat": "gor",
+      "area": "centre",
+      "title": "See contemporary art in the new Fondation Cartier",
+      "desc": "In October 2025 the Fondation Cartier moved into the old Louvre des Antiquaires building opposite the Louvre. Jean Nouvel opened up its long colonnaded facade so you can see through from Rue de Rivoli to Rue Saint-Honoré, and five moving platforms reshape the galleries for each show.",
+      "tip": "It stays open until 10pm on Tuesdays, the calmest time to go. Book online for big exhibitions.",
+      "q": "Fondation Cartier pour l'art contemporain, 2 place du Palais-Royal, Paris",
+      "ll": [
+        48.8621,
+        2.3382
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Fondation_Cartier_pour_l%27art_contemporain",
+        "https://www.richemont.com/news-media/press-releases-news/fondation-cartier-pour-l-art-contemporain-opens-its-doors-to-the-public/"
+      ]
+    },
+    {
+      "id": "pcchassenature",
+      "cat": "gor",
+      "area": "centre",
+      "title": "Explore the curiosity cabinet of the Musée de la Chasse",
+      "desc": "Set in the Hôtel de Guénégaud by François Mansart and its neighbour, this museum about people and animals feels like a collector's eccentric home. There are life-size stuffed deer and wolves, Rubens and Chardin paintings, royal hunting guns and witty contemporary art tucked between them.",
+      "tip": "Open the little drawers and cabinets: many hide surprises. It is a good rainy afternoon for children who find art museums dull.",
+      "q": "Musée de la Chasse et de la Nature, 62 rue des Archives, Paris",
+      "ll": [
+        48.8613,
+        2.3588
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_la_Chasse_et_de_la_Nature",
+        "https://www.sortiraparis.com/lieux/51720-musee-de-la-chasse-et-de-la-nature"
+      ]
+    },
+    {
+      "id": "pcbreizhcafe",
+      "cat": "ye",
+      "area": "centre",
+      "title": "Eat a buckwheat galette at Breizh Café",
+      "desc": "Breton chef Bertrand Larcher opened his first crêperie in Tokyo and brought the idea back to the Marais, where Breizh Café helped make the galette fashionable again. The batter is made with organic Breton buckwheat, and the cider list is long.",
+      "tip": "Book or come early, as the small room fills fast. Next door, the épicerie sells their salted butter caramel and cider to take home.",
+      "q": "Breizh Café, 109 rue Vieille du Temple, Paris",
+      "ll": [
+        48.8606,
+        2.3618
+      ],
+      "src": [
+        "https://www.breizhcafe.com/"
+      ]
+    },
+    {
+      "id": "pcchezjanou",
+      "cat": "ye",
+      "area": "centre",
+      "title": "Get a taste of Provence at Chez Janou",
+      "desc": "A short walk from the Place des Vosges, this bistro serves Provençal cooking in a tiled room and on a corner terrace. It is known for a very long list of pastis and for chocolate mousse served from a huge bowl.",
+      "tip": "Reserve for dinner, especially for the terrace. Ask about the pastis menu at the bar while you wait.",
+      "q": "Chez Janou, 2 rue Roger Verlomme, Paris",
+      "ll": [
+        48.8567,
+        2.3672
+      ],
+      "src": [
+        "https://www.chezjanou.com/"
+      ]
+    },
+    {
+      "id": "pcbenoit",
+      "cat": "ye",
+      "area": "centre",
+      "title": "Dine at Benoit, a bistro since 1912",
+      "desc": "Near the Hôtel de Ville, Benoit has served classic Paris bistro cooking since 1912 behind its brass, velvet and etched glass. Now run by Alain Ducasse's group, it keeps to the old repertoire, from boudin to beef cheek Rossini and game in season.",
+      "tip": "The set lunch is far kinder on the wallet than dinner. Book ahead.",
+      "q": "Benoit, 20 rue Saint-Martin, Paris",
+      "ll": [
+        48.8584,
+        2.3501
+      ],
+      "src": [
+        "https://www.benoit-paris.com/"
+      ]
+    },
+    {
+      "id": "pcpieddecochon",
+      "cat": "ye",
+      "area": "centre",
+      "title": "Have a late onion soup at Au Pied de Cochon",
+      "desc": "Opened in 1947 when Les Halles was still the city's wholesale food market, this brasserie fed market porters, butchers and night owls. It still serves French onion soup and grilled pig's trotters late into the night.",
+      "tip": "Go after a show or a late night out, as Parisians do. The onion soup is the thing to order.",
+      "q": "Au Pied de Cochon, 6 rue Coquillière, Paris",
+      "ll": [
+        48.8635,
+        2.3438
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/Au_Pied_de_Cochon"
+      ]
+    },
+    {
+      "id": "pcharrys",
+      "cat": "ye",
+      "area": "centre",
+      "title": "Order a Bloody Mary at Harry's New York Bar",
+      "desc": "Harry's has poured drinks at 5 rue Daunou since 1911 and claims to have invented the Bloody Mary, the French 75 and the Sidecar. The wood-panelled bar is lined with college pennants, and George Gershwin is said to have worked on An American in Paris at the piano.",
+      "tip": "Tell a taxi driver Sank Roo Doe Noo, as the bar's old adverts suggested. Go early in the evening for a stool at the counter.",
+      "q": "Harry's New York Bar, 5 rue Daunou, Paris",
+      "ll": [
+        48.8692,
+        2.3322
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/Harry%27s_New_York_Bar"
+      ]
+    },
+    {
+      "id": "pcverlet",
+      "cat": "ye",
+      "area": "centre",
+      "title": "Sip a fresh roast at Café Verlet",
+      "desc": "Café Verlet has been roasting and selling coffee on Rue Saint-Honoré since the late 19th century. Sacks and jars of beans line the shop, and a small wooden room upstairs serves coffee, tea and simple pastries.",
+      "tip": "Ask for a recommendation and buy a bag of freshly roasted beans to take home. It gets busy around lunchtime.",
+      "q": "Café Verlet, 256 rue Saint-Honoré, Paris",
+      "ll": [
+        48.8641,
+        2.3338
+      ],
+      "src": [
+        "https://www.cafesverlet.com/"
+      ]
+    },
+    {
+      "id": "pcgenin",
+      "cat": "ye",
+      "area": "centre",
+      "title": "Taste the caramels of Jacques Genin",
+      "desc": "Chocolatier Jacques Genin makes his chocolates in a workshop in the Marais and is famous for soft caramels, including mango and passion fruit, and for intensely fruity pâtes de fruits. The shop on Rue de Turenne is a sleek, quiet place to choose them.",
+      "tip": "Caramels are sold by weight, so you can mix flavours. Buy a few to eat on the way and a box to take home.",
+      "q": "Jacques Genin, 133 rue de Turenne, Paris",
+      "ll": [
+        48.8645,
+        2.3646
+      ],
+      "src": [
+        "https://www.jacquesgenin.fr/"
+      ]
+    },
+    {
+      "id": "pcwillis",
+      "cat": "ye",
+      "area": "centre",
+      "title": "Drink Rhône wines at Willi's Wine Bar",
+      "desc": "Opened in 1980 near the Palais-Royal, Willi's was one of the first wine bars in Paris to pour good wines by the glass, with a soft spot for the Rhône valley. Every year it commissions an artist to design a new poster, and the collection covers the walls.",
+      "tip": "Sit at the long bar for a glass and a plate, or book a table in the back for a proper meal. It closes on Sundays.",
+      "q": "Willi's Wine Bar, 13 rue des Petits-Champs, Paris",
+      "ll": [
+        48.8663,
+        2.3383
+      ],
+      "src": [
+        "https://www.timeout.fr/paris/restaurants/willis-wine-bar",
+        "https://fr.gaultmillau.com/en/restaurants/willi-s-wine-bar"
+      ]
+    },
+    {
+      "id": "pcdehillerin",
+      "cat": "dene",
+      "area": "centre",
+      "title": "Browse the copper pans at E. Dehillerin",
+      "desc": "Since 1820 this cookware shop near Les Halles has supplied professional chefs, and Julia Child shopped here while learning to cook in Paris. The creaky wooden shelves are stacked with copper pots, knives, moulds and tools you did not know existed.",
+      "tip": "Prices are written in a code on the labels, so ask the staff. A small pastry mould makes a light souvenir.",
+      "q": "E. Dehillerin, 18 rue Coquillière, Paris",
+      "ll": [
+        48.8641,
+        2.3424
+      ],
+      "src": [
+        "https://www.e-dehillerin.fr/"
+      ]
+    },
+    {
+      "id": "pcgrandrex",
+      "cat": "dene",
+      "area": "centre",
+      "title": "Watch a film under the stars of Le Grand Rex",
+      "desc": "Opened in 1932, the Grand Rex is an Art Deco cinema whose main hall seats about 2,700 people. Its walls are painted like a Mediterranean town and the ceiling is a starry night sky.",
+      "tip": "At Christmas the main hall puts on its water show before the holiday film, a tradition since 1954. Check whether a film is shown in the Grande Salle before booking.",
+      "q": "Le Grand Rex, 1 boulevard Poissonnière, Paris",
+      "ll": [
+        48.8705,
+        2.3476
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Le_Grand_Rex"
+      ]
+    },
+    {
+      "id": "pccomediefrancaise",
+      "cat": "dene",
+      "area": "centre",
+      "title": "See a play at the Comédie-Française",
+      "desc": "Founded in 1680 under Louis XIV, the Comédie-Française is the oldest active theatre company in the world and still plays Molière in its Salle Richelieu next to the Palais-Royal. The armchair Molière sat in during his last performance is kept in the building.",
+      "tip": "Plays are in French, but a Molière comedy is lively enough to follow. Look out for cheap restricted-view seats released shortly before the show.",
+      "q": "Comédie-Française, Place Colette, Paris",
+      "ll": [
+        48.8634,
+        2.3364
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/Com%C3%A9die-Fran%C3%A7aise"
+      ]
+    },
+    {
+      "id": "pcrosiersgarden",
+      "cat": "dene",
+      "area": "centre",
+      "title": "Slip into the hidden Jardin des Rosiers",
+      "desc": "Behind a porch on Rue des Rosiers, a chain of courtyards opens into a quiet garden that runs through to Rue des Francs-Bourgeois. It is named after Joseph Migneret, a local school headmaster who hid Jewish children during the Occupation.",
+      "tip": "It is the perfect place to eat a falafel from the street outside in peace. Look for the entrance at 10 rue des Rosiers.",
+      "q": "Jardin des Rosiers Joseph-Migneret, 10 rue des Rosiers, Paris",
+      "ll": [
+        48.8573,
+        2.3603
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Jardin_des_Rosiers_%E2%80%93_Joseph-Migneret"
+      ]
+    },
+    {
+      "id": "pcsquaretemple",
+      "cat": "dene",
+      "area": "centre",
+      "title": "Picnic by the pond in the Square du Temple",
+      "desc": "This leafy square stands where the fortress of the Knights Templar once was; Louis XVI and his family were imprisoned in its tower in 1792. Today it is a neighbourhood park with a pond, ducks, a bandstand and playgrounds, renamed in honour of Elie Wiesel.",
+      "tip": "Pick up lunch at the Marché des Enfants Rouges a few streets away and eat it on a bench here.",
+      "q": "Square du Temple - Elie Wiesel, Paris",
+      "ll": [
+        48.8645,
+        2.3603
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Square_du_Temple_-_Elie-Wiesel"
+      ]
+    },
+    {
+      "id": "pcsuzanneberlioux",
+      "cat": "dene",
+      "area": "centre",
+      "title": "Swim laps under Les Halles",
+      "desc": "Three floors below the Forum des Halles, the Piscine Suzanne-Berlioux has a 50 metre pool with eight lanes, rare in central Paris. It is a favourite with serious lap swimmers who work nearby.",
+      "tip": "Swim caps are required and trunks must be tight fitting, as in all Paris pools. Avoid lunch hour, when office workers fill the lanes.",
+      "q": "Piscine Suzanne Berlioux, Forum des Halles, Paris",
+      "ll": [
+        48.8625,
+        2.3439
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Piscine_Suzanne-Berlioux"
+      ]
+    },
+    {
+      "id": "pcforumimages",
+      "cat": "dene",
+      "area": "centre",
+      "title": "Watch Paris on screen at the Forum des Images",
+      "desc": "The Forum des Images is the city's film centre, with cinemas inside the Forum des Halles and an archive of thousands of films set in or about Paris. It runs themed cycles, festivals and talks all year.",
+      "tip": "Tickets are cheaper than in commercial cinemas. Check the programme for films shot in the streets you have been exploring.",
+      "q": "Forum des Images, 2 rue du Cinéma, Paris",
+      "ll": [
+        48.8624,
+        2.3452
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://www.forumdesimages.fr/"
+      ]
+    },
+    {
+      "id": "prevolution",
+      "cat": "gor",
+      "area": "rivegauche",
+      "title": "Meet the animal parade in the Grande Galerie de l'Évolution",
+      "desc": "In the Jardin des Plantes, a 19th century iron and glass gallery holds a great procession of stuffed African animals marching across the ground floor, with whale skeletons overhead. The gallery reopened in 1994 as the centrepiece of the Natural History Museum.",
+      "tip": "Upstairs, the room of endangered and extinct species is the most moving part. Weekday mornings are calmest.",
+      "q": "Grande Galerie de l'Évolution, 36 rue Geoffroy-Saint-Hilaire, Paris",
+      "ll": [
+        48.8421,
+        2.3562
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/Grande_galerie_de_l%27%C3%89volution"
+      ]
+    },
+    {
+      "id": "primarabe",
+      "cat": "gor",
+      "area": "rivegauche",
+      "title": "Look out from the Institut du monde arabe roof",
+      "desc": "Jean Nouvel's glass building, opened in 1987, has a south facade of metal panels inspired by Arab mashrabiya screens, designed to open and close like camera lenses. The ninth floor terrace gives one of the best free views over the Seine and Notre-Dame.",
+      "tip": "Take the lift to the top floor; the terrace is free to visit when the building is open. The museum below covers the Arab world from antiquity to today.",
+      "q": "Institut du monde arabe, 1 rue des Fossés Saint-Bernard, Paris",
+      "ll": [
+        48.8489,
+        2.3572
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/Arab_World_Institute"
+      ]
+    },
+    {
+      "id": "prsaintetienne",
+      "cat": "gor",
+      "area": "rivegauche",
+      "title": "See the last rood screen in Paris at Saint-Étienne-du-Mont",
+      "desc": "Behind the Panthéon, this church has the only surviving jubé in Paris, a stone rood screen from the 16th century with spiral stairs that climb like lace. Blaise Pascal and Jean Racine are buried here, and the shrine of Sainte Geneviève, patron saint of Paris, is kept inside.",
+      "tip": "The steps outside are where Owen Wilson waits for the midnight car in Midnight in Paris. Entry is free.",
+      "q": "Église Saint-Étienne-du-Mont, Place Sainte-Geneviève, Paris",
+      "ll": [
+        48.8465,
+        2.3481
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-%C3%89tienne-du-Mont"
+      ]
+    },
+    {
+      "id": "prviviani",
+      "cat": "gor",
+      "area": "rivegauche",
+      "title": "Visit the oldest tree in Paris in Square René-Viviani",
+      "desc": "This small square facing Notre-Dame is home to a black locust planted in 1601 by the botanist Jean Robin, who introduced the species to France. It is considered the oldest tree in the city and leans on concrete supports beside the ancient church of Saint-Julien-le-Pauvre.",
+      "tip": "Come in late spring when the tree flowers. The benches give a lovely view of Notre-Dame across the river.",
+      "q": "Square René-Viviani, Paris",
+      "ll": [
+        48.8521,
+        2.3475
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Square_Ren%C3%A9-Viviani"
+      ]
+    },
+    {
+      "id": "prsaintgermainpres",
+      "cat": "gor",
+      "area": "rivegauche",
+      "title": "See the painted nave of Saint-Germain-des-Prés",
+      "desc": "The oldest church in Paris began as a Benedictine abbey, and its bell tower dates from around the year 1000. A long restoration brought back the deep blue, red and gold paintwork of its 19th century nave and choir.",
+      "tip": "Entry is free. Look for the tomb of René Descartes in a side chapel, then step into the small Square Laurent-Prache next door.",
+      "q": "Église Saint-Germain-des-Prés, Paris",
+      "ll": [
+        48.8538,
+        2.3339
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/Saint-Germain-des-Pr%C3%A9s_(abbey)"
+      ]
+    },
+    {
+      "id": "prgobelins",
+      "cat": "gor",
+      "area": "rivegauche",
+      "title": "Discover the tapestry world of the Gobelins",
+      "desc": "The Gobelin family of dyers settled on the river Bièvre in the 15th century, and Colbert grouped the royal workshops here in 1662. The Manufacture still weaves tapestries for public buildings today, and the Galerie des Gobelins shows exhibitions from the national furniture collections.",
+      "tip": "Book a guided tour of the workshops to watch weavers working on looms, a rare sight.",
+      "q": "Galerie des Gobelins, 42 avenue des Gobelins, Paris",
+      "ll": [
+        48.835,
+        2.3527
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Manufacture_des_Gobelins"
+      ]
+    },
+    {
+      "id": "prbnf",
+      "cat": "gor",
+      "area": "rivegauche",
+      "title": "Stand between the glass towers of the BnF",
+      "desc": "Dominique Perrault's national library, opened in 1996, has four L-shaped glass towers designed to look like open books around a wooden esplanade. In the middle, a sunken forest of pines grows in a courtyard that visitors can only look down into.",
+      "tip": "Cross the Passerelle Simone-de-Beauvoir to Parc de Bercy afterwards. The esplanade can be slippery when wet.",
+      "q": "Bibliothèque François-Mitterrand, Quai François-Mauriac, Paris",
+      "ll": [
+        48.8336,
+        2.3758
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/Biblioth%C3%A8que_nationale_de_France"
+      ]
+    },
+    {
+      "id": "prliberation",
+      "cat": "gor",
+      "area": "rivegauche",
+      "title": "Go down into the Resistance bunker at Denfert",
+      "desc": "The Musée de la Libération de Paris opened on 25 August 2019 in the toll pavilions Ledoux designed in 1787 on Place Denfert-Rochereau. It tells the story of the Occupation and the liberation of the city, and lets you go down into the shelter where Colonel Rol-Tanguy ran the uprising in August 1944.",
+      "tip": "The permanent collection is free. Visits to the underground command post are in small groups, so book a slot ahead. It sits opposite the Catacombs entrance.",
+      "q": "Musée de la Libération de Paris, 4 avenue du Colonel Henri Rol-Tanguy, Paris",
+      "ll": [
+        48.8341,
+        2.3317
+      ],
+      "tags": [
+        "free",
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_la_Lib%C3%A9ration_de_Paris"
+      ]
+    },
+    {
+      "id": "prmontparnassecem",
+      "cat": "gor",
+      "area": "rivegauche",
+      "title": "Wander the Cimetière du Montparnasse",
+      "desc": "Opened in 1824, this calm cemetery is the resting place of Jean-Paul Sartre and Simone de Beauvoir, Charles Baudelaire, Samuel Beckett and Serge Gainsbourg, whose grave is covered in metro tickets and notes. Brancusi's sculpture The Kiss marks a grave in the northern corner.",
+      "tip": "Pick up a map at the main entrance on Boulevard Edgar-Quinet. It is far quieter than Père Lachaise.",
+      "q": "Cimetière du Montparnasse, 3 boulevard Edgar-Quinet, Paris",
+      "ll": [
+        48.838,
+        2.3271
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/Montparnasse_Cemetery"
+      ]
+    },
+    {
+      "id": "przadkine",
+      "cat": "gor",
+      "area": "rivegauche",
+      "title": "Find Zadkine's hidden house and garden",
+      "desc": "Down an alley off Rue d'Assas, the sculptor Ossip Zadkine lived and worked from 1928 until his death. His house, studio and small garden are now a free museum, with wooden and bronze figures among the trees.",
+      "tip": "Combine it with the Jardin du Luxembourg, a few minutes away. The garden is a peaceful place to sit.",
+      "q": "Musée Zadkine, 100 bis rue d'Assas, Paris",
+      "ll": [
+        48.8428,
+        2.3338
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/Mus%C3%A9e_Zadkine"
+      ]
+    },
+    {
+      "id": "prgrandeepicerie",
+      "cat": "ye",
+      "area": "rivegauche",
+      "title": "Graze the aisles of La Grande Épicerie",
+      "desc": "The food hall of the Bon Marché department store is one of the finest in Paris, with cheese, charcuterie, pastry and bakery counters and shelves of fine products from France and beyond. It is where Left Bank locals pick up special treats.",
+      "tip": "Head to the bakery and prepared foods counters for a picnic. The wall of bottled waters and the jam aisle are worth a look.",
+      "q": "La Grande Épicerie de Paris, 38 rue de Sèvres, Paris",
+      "ll": [
+        48.85,
+        2.3233
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/Le_Bon_March%C3%A9"
+      ]
+    },
+    {
+      "id": "prpolidor",
+      "cat": "ye",
+      "area": "rivegauche",
+      "title": "Eat old-school French at Polidor",
+      "desc": "This crèmerie turned restaurant on Rue Monsieur-le-Prince dates back to the 19th century and fed James Joyce and Ernest Hemingway. Woody Allen filmed the scene in Midnight in Paris where Gil meets Hemingway in its dining room.",
+      "tip": "Expect shared tables and simple classics like bœuf bourguignon and tarte Tatin at fair prices.",
+      "q": "Polidor, 41 rue Monsieur-le-Prince, Paris",
+      "ll": [
+        48.8498,
+        2.3401
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Polidor_(restaurant)"
+      ]
+    },
+    {
+      "id": "prcloserie",
+      "cat": "ye",
+      "area": "rivegauche",
+      "title": "Have a drink at La Closerie des Lilas",
+      "desc": "At the corner of Boulevard du Montparnasse and Avenue de l'Observatoire, the Closerie has hosted Hemingway, Fitzgerald, Picasso, Modigliani, Sartre and Beckett. Fitzgerald had Hemingway read his manuscript of The Great Gatsby here.",
+      "tip": "A drink at the bar or on the leafy terrace is the affordable way in. Small brass plates on the bar mark where famous regulars sat.",
+      "q": "La Closerie des Lilas, 171 boulevard du Montparnasse, Paris",
+      "ll": [
+        48.8401,
+        2.3361
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/La_Closerie_des_Lilas"
+      ]
+    },
+    {
+      "id": "prlaurentdubois",
+      "cat": "ye",
+      "area": "rivegauche",
+      "title": "Choose cheese at Laurent Dubois on Place Maubert",
+      "desc": "Laurent Dubois holds the title of Meilleur Ouvrier de France for cheese, and his shop by Place Maubert ages its own wheels in cellars below. Hundreds of French cheeses are on display, from runny Brie to his famous Comté.",
+      "tip": "Tell them when you will eat it and they will pick cheeses at the right ripeness. Come on a market day at Maubert for bread and fruit too.",
+      "q": "Fromagerie Laurent Dubois, 47 ter boulevard Saint-Germain, Paris",
+      "ll": [
+        48.8498,
+        2.3484
+      ],
+      "src": [
+        "https://www.fromageslaurentdubois.fr/"
+      ]
+    },
+    {
+      "id": "prpierreherme",
+      "cat": "ye",
+      "area": "rivegauche",
+      "title": "Try an Ispahan at Pierre Hermé",
+      "desc": "Pastry chef Pierre Hermé's shop on Rue Bonaparte is where many Parisians first tasted his macarons. His signature Ispahan combines rose, lychee and raspberry and appears as a macaron, a cake and more.",
+      "tip": "There is usually a queue on weekends; weekday mornings are faster. Macarons keep a day or two in their box.",
+      "q": "Pierre Hermé, 72 rue Bonaparte, Paris",
+      "ll": [
+        48.8515,
+        2.3328
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/Pierre_Herm%C3%A9"
+      ]
+    },
+    {
+      "id": "pramijean",
+      "cat": "ye",
+      "area": "rivegauche",
+      "title": "Share the rice pudding at L'Ami Jean",
+      "desc": "A loud, cheerful Basque-leaning bistro near the Invalides, run by chef Stéphane Jégo and listed as a Michelin Bib Gourmand. The meal ends with his famous rice pudding, served in a big bowl to share with caramel and nuts.",
+      "tip": "Book well ahead and come hungry. Even if you are full, order the rice pudding.",
+      "q": "L'Ami Jean, 27 rue Malar, Paris",
+      "ll": [
+        48.8603,
+        2.306
+      ],
+      "src": [
+        "https://guide.michelin.com/ch/fr/ile-de-france/paris/restaurant/l-ami-jean",
+        "https://fr.gaultmillau.com/fr/news/ou-manger-un-bon-riz-au-lait"
+      ]
+    },
+    {
+      "id": "prruedaguerre",
+      "cat": "ye",
+      "area": "rivegauche",
+      "title": "Do your food shopping on Rue Daguerre",
+      "desc": "The pedestrian end of Rue Daguerre in the 14th is a village street of cheesemongers, butchers, bakers and fruit stalls with café terraces. Agnès Varda lived at number 86 from 1951 until her death and filmed its shopkeepers in her 1975 documentary Daguerréotypes.",
+      "tip": "Saturday and Sunday mornings are the liveliest. It is a short walk from the Catacombs, good for lunch after the visit.",
+      "q": "Rue Daguerre, Paris",
+      "ll": [
+        48.8337,
+        2.3303
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Rue_Daguerre"
+      ]
+    },
+    {
+      "id": "prmenagerie",
+      "cat": "dene",
+      "area": "rivegauche",
+      "title": "Visit the red pandas at the Ménagerie",
+      "desc": "Opened in 1794 inside the Jardin des Plantes, the Ménagerie is one of the oldest zoos in the world. It focuses on smaller animals such as red pandas, orangutans, snow leopards and rare birds, in old pavilions among the trees.",
+      "tip": "Combine it with the Grande Galerie de l'Évolution and the big greenhouses in the same garden for a full day.",
+      "q": "Ménagerie du Jardin des Plantes, Paris",
+      "ll": [
+        48.8454,
+        2.3606
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/M%C3%A9nagerie_du_Jardin_des_Plantes"
+      ]
+    },
+    {
+      "id": "prtinorossi",
+      "cat": "dene",
+      "area": "rivegauche",
+      "title": "Dance tango by the Seine in the Jardin Tino-Rossi",
+      "desc": "On summer evenings, the small stone amphitheatres of the Jardin Tino-Rossi along Quai Saint-Bernard become open-air dance floors for tango, salsa and swing. The garden also holds an open-air sculpture museum.",
+      "tip": "Come after 8pm on a warm evening; beginners are welcome and watching is free too.",
+      "q": "Jardin Tino-Rossi, Quai Saint-Bernard, Paris",
+      "ll": [
+        48.8484,
+        2.3598
+      ],
+      "tags": [
+        "free"
+      ],
+      "months": [
+        6,
+        7,
+        8
+      ],
+      "src": [
+        "https://www.sortiraparis.com/en/bar-nightlife/articles/296010-where-can-you-dance-for-free-outdoors-this-summer-in-paris"
+      ]
+    },
+    {
+      "id": "prbouquinistes",
+      "cat": "dene",
+      "area": "rivegauche",
+      "title": "Browse the green boxes of the bouquinistes",
+      "desc": "Along the parapets of the Seine, the bouquinistes have sold second-hand books, old magazines, posters and prints from green metal boxes for centuries. The Left Bank stretch along Quai des Grands-Augustins and Quai de Montebello is one of the best.",
+      "tip": "Stalls open roughly late morning to sunset, weather permitting. Old Paris postcards and maps make cheap, light souvenirs.",
+      "q": "Quai des Grands-Augustins, Paris",
+      "ll": [
+        48.854,
+        2.342
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Bouquinistes_de_Paris",
+        "https://en.wikipedia.org/wiki/Bouquiniste"
+      ]
+    },
+    {
+      "id": "prchampo",
+      "cat": "dene",
+      "area": "rivegauche",
+      "title": "Catch a classic at Le Champo",
+      "desc": "Since 1938 Le Champo has shown films on the corner of Rue des Écoles and Rue Champollion, in the heart of the Latin Quarter's cluster of tiny repertory cinemas. It screens classics and restored films, a favourite of film students for generations.",
+      "tip": "Look out for themed retrospectives and late-night marathon screenings.",
+      "q": "Le Champo, 51 rue des Écoles, Paris",
+      "ll": [
+        48.85,
+        2.3431
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/Le_Champo"
+      ]
+    },
+    {
+      "id": "prballon",
+      "cat": "dene",
+      "area": "rivegauche",
+      "title": "Rise above Paris in the Ballon de Paris",
+      "desc": "In Parc André-Citroën, a huge tethered helium balloon lifts up to 30 passengers about 150 metres into the air for a ten minute ride. Its colours change to show the city's air quality.",
+      "tip": "Flights depend on the wind, so check the live status before you go. You cannot book; just turn up.",
+      "q": "Ballon de Paris, Parc André Citroën, Paris",
+      "ll": [
+        48.8414,
+        2.274
+      ],
+      "src": [
+        "https://ballondeparis.com/",
+        "https://www.offi.fr/a-travers-paris/ballon-eutelsat-1514.html"
+      ]
+    },
+    {
+      "id": "pregouts",
+      "cat": "dene",
+      "area": "rivegauche",
+      "title": "Go underground at the Musée des Égouts",
+      "desc": "By the Pont de l'Alma, a staircase leads down into a working section of the Paris sewers. The museum explains how the city's water and waste have been handled since the Middle Ages and how Haussmann's engineer Belgrand built the modern network.",
+      "tip": "It is open Tuesday to Sunday, closed in early January. The smell is milder than you might fear.",
+      "q": "Musée des Égouts de Paris, Pont de l'Alma, Paris",
+      "ll": [
+        48.8627,
+        2.3026
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://musee-egouts.paris.fr/",
+        "https://www.paris.fr/lieux/musee-des-egouts-de-paris-5059"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "new": [
+    {
+      "id": "saintromaingal", "cat": "gor", "area": "cevre",
+      "title": "Walk through a Roman neighbourhood at Saint-Romain-en-Gal",
+      "desc": "Across the Rhône from Vienne lay a whole Roman quarter of houses, shops, baths and craft workshops, excavated from the 1960s. The museum opened in 1996 right above the ruins and shows models of ancient Vienne and its river port, frescoes and big floor mosaics, including the one from the House of the God Ocean.",
+      "tip": "Do the indoor galleries first, then walk the excavated streets with the layout fresh in your head. It is a good plan for a wet day, since most of the treasures are under cover.",
+      "q": "Musée gallo-romain, Saint-Romain-en-Gal", "ll": [45.5297, 4.8711],
+      "tags": ["rainy day"],
+      "src": ["https://fr.wikipedia.org/wiki/Mus%C3%A9e_gallo-romain_de_Saint-Romain-en-Gal"]
+    },
+    {
+      "id": "etoilesgivors", "cat": "gor", "area": "cevre",
+      "title": "Explore the star-shaped housing of Les Étoiles in Givors",
+      "desc": "From 1974 the architect Jean Renaudie rebuilt old Givors as a hillside of pointed, star-shaped blocks with 270 homes plus shops, a library, a nursery and a theatre. The blocks are built into the hillside to give each flat its own angles and views, and the ensemble carries France's label for remarkable 20th century architecture.",
+      "tip": "It is lived-in social housing, so stick to the public walkways and keep voices down. Start in the town centre and simply wander up the stairs.",
+      "q": "Les Étoiles, Givors", "ll": [45.5815, 4.7730],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Jean_Renaudie", "https://fr.wikipedia.org/wiki/Givors"]
+    },
+    {
+      "id": "sallesprieure", "cat": "gor", "area": "cevre",
+      "title": "Sit in the cloister of the countess-canonesses at Salles",
+      "desc": "Cluniac monks founded a priory in Salles in the 10th century, and from 1301 it housed nuns who over time became wealthy canonesses with the title of countesses. What survives is a Romanesque church in golden stone with a Flamboyant Gothic porch, one gallery of the cloister and a 15th century chapter house with wall paintings.",
+      "tip": "Legend has it that guests of a later hotel here played boules in the cloister courtyard. Combine it with the twisting road up to the Beaujolais villages above.",
+      "q": "Prieuré, Salles-Arbuissonnas-en-Beaujolais", "ll": [46.0415, 4.6349],
+      "src": ["https://fr.wikipedia.org/wiki/Salles-Arbuissonnas-en-Beaujolais"]
+    },
+    {
+      "id": "chatillonhalles", "cat": "gor", "area": "cevre",
+      "title": "Shop under the giant wooden halles of Châtillon-sur-Chalaronne",
+      "desc": "The covered market of this Dombes town is 80 metres long and 10 metres high, rebuilt in the 17th century after a fire with help from the Grande Mademoiselle. Around it run half-timbered houses, flowery bridges over the Chalaronne and the house where Saint Vincent de Paul lived as parish priest in 1617.",
+      "tip": "Come on Saturday morning, when the fresh produce market fills the halles. In summer the town is covered in flowers, hydrangeas especially.",
+      "q": "Place des Halles, Châtillon-sur-Chalaronne", "ll": [46.1187, 4.9570],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Ch%C3%A2tillon-sur-Chalaronne"]
+    },
+    {
+      "id": "arsbasilique", "cat": "gor", "area": "cevre",
+      "title": "Visit the village of the Curé d'Ars",
+      "desc": "Jean-Marie Vianney was parish priest of this small Dombes village and became the patron saint of all parish priests. The basilica Pierre Bossan began in 1862 wraps around the old church, which is kept just as he knew it, and holds his body; his presbytery and the chapel with his heart are open too.",
+      "tip": "Even if you are not on pilgrimage, the presbytery where he lived is a moving little visit. On 4 August the village holds its big feast with a procession.",
+      "q": "Basilique d'Ars, Ars-sur-Formans", "ll": [45.9924, 4.8229],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Ars-sur-Formans"]
+    },
+    {
+      "id": "ambronay", "cat": "gor", "area": "cevre",
+      "title": "Hear early music in the abbey of Ambronay",
+      "desc": "A Benedictine abbey founded around 797 by Barnard, an officer of Charlemagne, still dominates this Bugey village with its 13th century church and a 15th century cloister and chapter house. Since 1980 it has hosted one of France's leading festivals of early and baroque music, and today it is a cultural centre that trains young baroque ensembles.",
+      "tip": "The festival usually runs from late September into October, and concerts in the abbey church sell out early. Outside festival time, ask about guided visits of the cloister.",
+      "q": "Abbaye d'Ambronay, Ambronay", "ll": [46.0067, 5.3617],
+      "months": [9, 10],
+      "src": ["https://fr.wikipedia.org/wiki/Abbaye_Notre-Dame_d%27Ambronay", "https://fr.wikipedia.org/wiki/Festival_d%27Ambronay", "https://www.ambronay.org"]
+    },
+    {
+      "id": "chateauvoltaire", "cat": "gor", "area": "cevre",
+      "title": "Call on Voltaire at his château in Ferney",
+      "desc": "Voltaire bought this estate on the Geneva border in 1758 and lived here for twenty years; by his death in 1778 the village had grown to 1,500 people. The State bought the house with its furniture in 1999, and after a full restoration it reopened in 2018 with his rooms, portraits of Catherine the Great and Frederick the Great, and a landscaped park.",
+      "tip": "Leave time for the park and the yearly exhibition, which opens extra rooms. Ferney is a short bus ride from Geneva, which makes it an easy half day.",
+      "q": "Château de Voltaire, Ferney-Voltaire", "ll": [46.2574, 6.1036],
+      "tags": ["rainy day"],
+      "src": ["https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Voltaire"]
+    },
+    {
+      "id": "ternand", "cat": "gor", "area": "cevre",
+      "title": "Circle the ramparts of hilltop Ternand",
+      "desc": "The archbishops of Lyon made this Azergues village a stronghold, and the ruins of their 12th century castle, wrecked by Huguenot troops in 1562, still crown the hill. The church keeps Carolingian frescoes, and a path along the old fortifications loops right round the village with views over the valley.",
+      "tip": "Park below and walk up; the lanes are narrow and the climb is short. It pairs well with Oingt a few kilometres away for a day in the Pierres Dorées.",
+      "q": "Église, Ternand", "ll": [45.9440, 4.5294],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Ternand"]
+    },
+    {
+      "id": "planons", "cat": "gor", "area": "cevre",
+      "title": "Step into a Bresse farmhouse at Les Planons",
+      "desc": "This farm in the Bresse bocage was lived in from 1490 to 1992, and its five buildings around a square yard were among the first farms in the Ain to be listed as a historic monument, in 1938. Now called the Domaine des Saveurs, it tells everyday life and food in the Bresse from the 18th century to today, set in a park of more than 20 hectares.",
+      "tip": "Allow time for the big park as well as the farm buildings, and plan a picnic on fine days.",
+      "q": "Domaine des Saveurs - Les Planons, Saint-Cyr-sur-Menthon", "ll": [46.2826, 4.9843],
+      "tags": ["rainy day"],
+      "src": ["https://fr.wikipedia.org/wiki/Domaine_des_Saveurs_-_Les_Planons"]
+    },
+    {
+      "id": "allymes", "cat": "gor", "area": "cevre",
+      "title": "Climb to the frontier castle of Les Allymes",
+      "desc": "Built between 1312 and 1318 by the Dauphin of Viennois to face the Count of Savoy's castle on the next hill, Les Allymes is a textbook medieval fort with a square keep and a round tower joined by curtain walls. It overlooks the plain of the Ain from the slopes above Ambérieu-en-Bugey and is open all year with exhibitions.",
+      "tip": "Walk the curtain walls for the view over the Ain plain. The ruins of the rival Luisandre castle sit on the summit above, a short hike away.",
+      "q": "Château des Allymes, Ambérieu-en-Bugey", "ll": [45.9736, 5.4102],
+      "src": ["https://fr.wikipedia.org/wiki/Ch%C3%A2teau_des_Allymes"]
+    },
+    {
+      "id": "trevouxparlement", "cat": "gor", "area": "cevre",
+      "title": "See where tiny Dombes had its own parliament in Trévoux",
+      "desc": "Trévoux, on a steep bank of the Saône, was capital of the sovereign principality of Dombes, whose parliament moved here in 1696 and sat in a palace whose courtroom is decorated with themes of Justice and Peace. The town also printed the famous Dictionnaire de Trévoux and was once the world capital of diamond wire-drawing dies.",
+      "tip": "Climb to the castle ruins at the top of town for a view over the Saône, the Beaujolais and the Monts d'Or. The tourist office has a small display on the diamond die trade.",
+      "q": "Ancien Parlement de Dombes, Trévoux", "ll": [45.9407, 4.7766],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Tr%C3%A9voux"]
+    },
+    {
+      "id": "bocusecollonges", "cat": "ye", "area": "cevre",
+      "title": "Dine at Paul Bocuse's Auberge in Collonges",
+      "desc": "On the Saône just north of Lyon, the pistachio green and raspberry pink Auberge du Pont de Collonges is the restaurant Paul Bocuse ran for decades and the cradle of modern French cuisine. The kitchen still serves his classics, such as Bresse chicken cooked in a pig's bladder and sea bass in pastry.",
+      "tip": "It opens Wednesday to Sunday for lunch and dinner and books up well ahead. Lunch is the easier slot to get, and the dining rooms are worth seeing in daylight.",
+      "q": "Paul Bocuse, 40 Rue de la Plage, Collonges-au-Mont-d'Or", "ll": [45.8156, 4.8475],
+      "src": ["https://www.bocuse.fr", "https://fr.wikipedia.org/wiki/L%27Auberge_du_Pont_de_Collonges"]
+    },
+    {
+      "id": "caveaumorgon", "cat": "ye", "area": "cevre",
+      "title": "Taste Morgon in the cellars of Château de Fontcrenne",
+      "desc": "Morgon is the Beaujolais cru that ages like Burgundy, and the growers' caveau sits in the cellars of the Château de Fontcrenne in Villié-Morgon. Ask for a bottle from the Côte du Py, a hill of blue volcanic stone just south of the village that gives the most structured wines of the appellation.",
+      "tip": "Compare a young Morgon with one a few years older to see why locals say a wine 'morgonne' as it matures. Then drive up the Côte du Py for the view.",
+      "q": "Caveau de Morgon, Villié-Morgon", "ll": [46.1610, 4.6795],
+      "src": ["https://fr.wikipedia.org/wiki/Morgon_(AOC)"]
+    },
+    {
+      "id": "chaize", "cat": "ye", "area": "cevre",
+      "title": "Taste Brouilly at the Château de la Chaize",
+      "desc": "The largest wine château in the Beaujolais was built in 1674 to 1676 to plans by Jules Hardouin-Mansart, with French gardens designed by Le Nôtre, on the slopes of the Brouilly. Its wine is made in a listed 17th century vat house and aged in a cellar 108 metres long.",
+      "tip": "Visits are guided and must be booked by phone; they cover the gardens, the vat house and the long cellar and finish with a tasting of three wines.",
+      "q": "Château de la Chaize, Odenas", "ll": [46.0897, 4.6336],
+      "src": ["https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_la_Chaize_(Odenas)", "https://www.chateaudelachaize.fr"]
+    },
+    {
+      "id": "sarmentelles", "cat": "ye", "area": "cevre",
+      "title": "Toast the new Beaujolais at the Sarmentelles in Beaujeu",
+      "desc": "Beaujolais nouveau goes on sale on the third Thursday of November, and since 1988 the old capital of the Beaujolais has launched it with the Sarmentelles. On the eve, a torchlit parade with burning vine shoots ends on the Place de l'Hôtel de Ville, where the first barrel is tapped late at night before a street dance.",
+      "tip": "Buy the tasting trail pass with its glass and work through all twelve Beaujolais appellations in the town centre. Dinners and the opening ceremony sell out, so book those early.",
+      "q": "Place de l'Hôtel de Ville, Beaujeu", "ll": [46.1547, 4.5870],
+      "months": [11],
+      "src": ["https://sarmentelles.fr/", "https://fr.wikipedia.org/wiki/Beaujolais_nouveau"]
+    },
+    {
+      "id": "glorieuses", "cat": "ye", "area": "cevre",
+      "title": "Admire the prize birds at the Glorieuses de Bresse",
+      "desc": "Every December since 1862, Bresse farmers bring their finest capons, poulardes and chickens to contests in Bourg-en-Bresse, Montrevel and Pont-de-Vaux. The birds, the only French poultry with its own appellation, are judged on their white feathers, blue legs and fattening, and are shown tightly wrapped in fine cloth.",
+      "tip": "In Bourg the free Glorieuse fills the covered market on the Champ de Foire for a day before Christmas, and the farmers sell straight after judging. Bring a cool bag if you want a festive bird.",
+      "q": "Champ de Foire, Bourg-en-Bresse", "ll": [46.2074, 5.2298],
+      "months": [12],
+      "src": ["https://fr.wikipedia.org/wiki/Glorieuses_de_Bresse", "https://www.bourgenbressedestinations.fr/offres/glorieuses-a-bourg-en-bresse-la-celebre-volaille-se-raconte-bourg-en-bresse-fr-3327268/", "https://fr.wikipedia.org/wiki/Volaille_de_Bresse"]
+    },
+    {
+      "id": "bleudegex", "cat": "ye", "area": "cevre",
+      "title": "Buy a wedge of bleu de Gex in the Valserine valley",
+      "desc": "Bleu de Gex is a mild raw-milk blue from the high Jura, stamped 'Gex' on its crust, and only a handful of dairies make it. The fromagerie in Chézery-Forens, a valley village ringed by the highest summits of the Jura, makes both bleu de Gex and Comté, and can be visited.",
+      "tip": "Its best season runs from early summer into autumn after two months of ageing. Combine it with a drive up the Valserine valley.",
+      "q": "Fromagerie de Chézery, Chézery-Forens", "ll": [46.2198, 5.8657],
+      "src": ["https://fr.wikipedia.org/wiki/Ch%C3%A9zery-Forens", "https://fr.wikipedia.org/wiki/Bleu_de_Gex_Haut-Jura"]
+    },
+    {
+      "id": "ampuisvins", "cat": "ye", "area": "cevre",
+      "title": "Taste Côte-Rôtie at the Ampuis wine market",
+      "desc": "Ampuis is the capital of Côte-Rôtie, a syrah grown on terraces so steep that some hold only a few vines, split between the Côte Brune and the Côte Blonde. Since 1928 the village has held a wine market each January where around forty growers pour their wines over four days.",
+      "tip": "Outside January, walk up the terraces behind the village for the view over the Rhône. Legend says the two slopes are named after a lord's two daughters, one dark and one fair.",
+      "q": "Ampuis", "ll": [45.4899, 4.8103],
+      "months": [1],
+      "src": ["https://fr.wikipedia.org/wiki/C%C3%B4te-r%C3%B4tie_(AOC)", "https://fr.wikipedia.org/wiki/Ampuis"]
+    },
+    {
+      "id": "condrieurigotte", "cat": "ye", "area": "cevre",
+      "title": "Pair a rigotte with a glass of Condrieu",
+      "desc": "The riverside town of Condrieu gives its name to two local treasures: a white wine made only from viognier on narrow terraces called chayées, and the rigotte, a small raw goat's milk cheese from the Pilat hills with its own protected name since 2009.",
+      "tip": "The rigotte is best young and creamy, eaten with bread and a glass of the apricot-scented white. Look for both in the shops and cafés around the old town square.",
+      "q": "Place du Marché, Condrieu", "ll": [45.4631, 4.7662],
+      "src": ["https://fr.wikipedia.org/wiki/Rigotte_de_Condrieu", "https://fr.wikipedia.org/wiki/Condrieu_(AOC)"]
+    },
+    {
+      "id": "montcindre", "cat": "dene", "area": "cevre",
+      "title": "Hike up Mont Cindre to the hermitage chapel",
+      "desc": "Mont Cindre, 470 metres high in the Monts d'Or above Saint-Cyr, is topped by a 14th century hermitage chapel. Beside it a hermit, Émile Damidot known as Frère François, built a strange rock garden of grottoes and little constructions.",
+      "tip": "The garden itself opens only rarely, but you can see much of it from the chapel. Go up on foot from the village of Saint-Cyr and come down via the neighbouring summits of the Monts d'Or.",
+      "q": "Mont Cindre, Saint-Cyr-au-Mont-d'Or", "ll": [45.8253, 4.8214],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Mont_Cindre", "https://fr.wikipedia.org/wiki/Saint-Cyr-au-Mont-d%27Or"]
+    },
+    {
+      "id": "lacroixlaval", "cat": "dene", "area": "cevre",
+      "title": "Spend a lazy Sunday in the Parc de Lacroix-Laval",
+      "desc": "This 115 hectare estate in Marcy-l'Étoile, at the foot of the Monts du Lyonnais, mixes woods and meadows around a château. It opened to the public in 1985 and is a favourite western escape for Lyon families, with a botanical trail through its trees.",
+      "tip": "The tram-train stops at Casino-Lacroix-Laval station, so you can come without a car. Bring a ball and a picnic; the big lawns fill on sunny weekends.",
+      "q": "Parc de Lacroix-Laval, Marcy-l'Étoile", "ll": [45.7875, 4.7216],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Parc_de_Lacroix-Laval"]
+    },
+    {
+      "id": "fortecluse", "cat": "dene", "area": "cevre",
+      "title": "Climb the rock stairs of Fort l'Écluse",
+      "desc": "Fort l'Écluse guards the narrow gorge where the Rhône leaves the Geneva basin, wedged between the river and the Grand Crêt d'Eau. A gallery hewn into the rock links the lower fort to the upper one, and you can climb its hundreds of steps to terraces with a dizzy view of the river below.",
+      "tip": "The lower fort opens on June and September weekends and daily in July and August; outside those times visits are by guided booking only. Wear proper shoes for the stairs.",
+      "q": "Fort l'Écluse, Léaz", "ll": [46.1208, 5.8928],
+      "months": [6, 7, 8, 9],
+      "src": ["https://fr.wikipedia.org/wiki/Fort_l%27%C3%89cluse"]
+    },
+    {
+      "id": "lacgenin", "cat": "dene", "area": "cevre",
+      "title": "Walk around Lac Genin, the little Canada of the Bugey",
+      "desc": "Hidden in fir and spruce forest at 850 metres above Oyonnax, Lac Genin is a small lake of about 8 hectares, up to 24 metres deep. It has been a protected site since 1935, and its dark water and conifers earned it the nickname of the little Canada of the Haut-Bugey.",
+      "tip": "The loop around the shore is an easy hour. Come on a weekday morning in summer, as the lakeside meadows get busy on hot weekends.",
+      "q": "Lac Genin, Charix", "ll": [46.2203, 5.6975],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Lac_Genin"]
+    },
+    {
+      "id": "faucille", "cat": "dene", "area": "cevre",
+      "title": "Drive up to the Col de la Faucille for Mont Blanc",
+      "desc": "This Jura pass at 1,320 metres links Gex to the high plateaus, and owes its name to the sickle shape it makes seen from Lake Geneva. On the way up from Gex the road passes the Napoléon fountain and opens onto a straight view of Mont Blanc above the lake.",
+      "tip": "Stop at the small Pailly car park, about 1.7 km below the pass on the Gex side, where the view of Mont Blanc is clearest. Mornings are usually sharper before haze builds over the lake.",
+      "q": "Col de la Faucille", "ll": [46.3689, 6.0200],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Col_de_la_Faucille"]
+    },
+    {
+      "id": "signalstandre", "cat": "dene", "area": "cevre",
+      "title": "Hike to the Signal de Saint-André in the Monts du Lyonnais",
+      "desc": "At 934 metres this is the second highest point of the Monts du Lyonnais, about 20 km west of Lyon. Its name comes from the survey marker that César-François Cassini set here around 1744 while mapping France, and the stone still stands.",
+      "tip": "Look for the old Cassini marker by the summit. Walk up through the farmland and woods from Saint-André-la-Côte for a quiet half day far from the city crowds.",
+      "q": "Signal de Saint-André, Saint-André-la-Côte", "ll": [45.6383, 4.5933],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Signal_de_Saint-Andr%C3%A9"]
+    },
+    {
+      "id": "dombesetangs", "cat": "dene", "area": "cevre",
+      "title": "Cycle between the ponds of the Dombes",
+      "desc": "The Dombes plateau holds more than a thousand ponds, most dug by monks from the 12th century and still farmed for carp: every few years a pond is drained, fished and sown with crops before being refilled. In the middle of them stands the Abbaye Notre-Dame des Dombes, founded by Trappists in 1863 to help drain the marshes and now home to the Chemin Neuf community.",
+      "tip": "Bring binoculars: the ponds are a Ramsar wetland with over 130 nesting bird species. Stop at the abbey shop for its Musculine sweets.",
+      "q": "Abbaye Notre-Dame des Dombes, Le Plantay", "ll": [46.0382, 5.0964],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Dombes", "https://fr.wikipedia.org/wiki/Abbaye_Notre-Dame-des-Dombes"]
+    }
+  ]
+}

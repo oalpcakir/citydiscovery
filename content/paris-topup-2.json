@@ -1,0 +1,462 @@
+{
+  "new": [
+    {
+      "id": "pnaligre", "cat": "ye", "area": "nord",
+      "title": "Shop the stalls and the covered hall at Aligre",
+      "desc": "Place d'Aligre holds two markets in one: cheap fruit and vegetable stalls out in the open, and the Marché Beauvau, a covered hall from 1843 with a central fountain and counters for meat, fish and cheese. A market was first authorised here by Louis XVI in 1777, and the hall is a listed historic monument.",
+      "tip": "Come in the morning from Tuesday to Sunday, as everything is closed on Mondays. The stallholders cut prices loudly as noon approaches.",
+      "q": "Marché Beauvau, Place d'Aligre, Paris", "ll": [48.8489, 2.3780],
+      "src": ["https://fr.wikipedia.org/wiki/March%C3%A9_Beauvau"]
+    },
+    {
+      "id": "pnmarchebastille", "cat": "ye", "area": "nord",
+      "title": "Graze the long Bastille market on a Sunday",
+      "desc": "Twice a week the wide central strip of Boulevard Richard-Lenoir fills with one of the longest open-air markets in Paris, running north from the Bastille. The strip is so wide because it covers the Canal Saint-Martin, which was vaulted over in 1859 and 1860 and still flows underneath.",
+      "tip": "It runs on Thursday and Sunday mornings, and Sunday is the lively one. Start at the Bastille end and work your way up, eating as you go.",
+      "q": "Marché Bastille, Boulevard Richard-Lenoir, Paris", "ll": [48.8548, 2.3699],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Boulevard_Richard-Lenoir"]
+    },
+    {
+      "id": "pnruemartyrs", "cat": "ye", "area": "nord",
+      "title": "Eat your way up the rue des Martyrs",
+      "desc": "This sloping street of almost 900 metres climbs from the 9th towards Montmartre, the way said to lead to where Saint Denis and his companions were martyred. Its lower half is one of the busiest food streets in Paris, packed with bakers, cheese shops, greengrocers and pastry shops, while the top end has old cabarets like the former Divan Japonais at number 75.",
+      "tip": "Start at Notre-Dame-de-Lorette and walk uphill on a Saturday morning, buying a picnic piece by piece. It ends near the Abbesses, so you can keep climbing to the Butte.",
+      "q": "Rue des Martyrs, Paris", "ll": [48.8811, 2.3400],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Rue_des_Martyrs"]
+    },
+    {
+      "id": "pngaudard", "cat": "ye", "area": "nord",
+      "title": "Pick a Mont-Blanc at Sébastien Gaudard",
+      "desc": "Sébastien Gaudard carries on a pastry tradition his father started in Lorraine in the 1960s, and his shop on rue des Martyrs sells classic French cakes done carefully: Mont-Blanc, lemon tart, tropézienne and merveilleux. There are also macarons de Nancy, chocolate bars and old-fashioned sweets.",
+      "tip": "It is open every day from 10am. Buy a cake to eat later on the steps of the Sacré-Cœur, a 15-minute climb away.",
+      "q": "Sébastien Gaudard, 22 rue des Martyrs, Paris", "ll": [48.8781, 2.3397],
+      "src": ["https://www.sebastiengaudard.com/"]
+    },
+    {
+      "id": "pngrenierpain", "cat": "ye", "area": "nord",
+      "title": "Buy a prize-winning baguette on rue des Abbesses",
+      "desc": "Every year Paris names the best traditional baguette in the city, and the winner supplies the Élysée Palace for a year. Baker Djibril Bodian of Le Grenier à Pain at 38 rue des Abbesses has won twice, in 2010 and 2015, and the 18th has produced more winners than any other arrondissement.",
+      "tip": "Ask for a tradition, not a plain baguette, and get it bien cuite if you like a dark crust. Another past winner, Au Levain d'Antan, is a few doors down at number 6.",
+      "q": "Le Grenier à Pain, 38 rue des Abbesses, Paris", "ll": [48.8853, 2.3367],
+      "src": ["https://fr.wikipedia.org/wiki/Grand_prix_de_la_baguette_de_tradition_fran%C3%A7aise_de_la_ville_de_Paris", "https://www.legrenierapain.com/boutiques-et-artisans-le-grenier-a-pain"]
+    },
+    {
+      "id": "pnbouillonpigalle", "cat": "ye", "area": "nord",
+      "title": "Eat a cheap French classic at Bouillon Pigalle",
+      "desc": "Opened in 2017, Bouillon Pigalle revived the old Parisian bouillon idea: a huge, noisy room serving traditional dishes like eggs mayonnaise, leeks vinaigrette and sausage with mash at very low prices. It serves non-stop from noon to midnight, every day.",
+      "tip": "It now takes bookings, even for one, which saves you the queue on the boulevard. Mid-afternoon is the quietest time to walk in.",
+      "q": "Bouillon Pigalle, 22 boulevard de Clichy, Paris", "ll": [48.8826, 2.3374],
+      "src": ["https://www.bouillonlesite.com/"]
+    },
+    {
+      "id": "pnbouillonjulien", "cat": "ye", "area": "nord",
+      "title": "Dine in the Art Nouveau room of Bouillon Julien",
+      "desc": "Founded in 1906 on rue du Faubourg Saint-Denis, Bouillon Julien is one of the most beautiful dining rooms in Paris, with carved mahogany, painted glass panels of women and flowers, and a vast mirrored hall. Its motto promises everything is beautiful, good and cheap.",
+      "tip": "Book online for dinner, as the room fills up fast. Ask for a table in the middle to take in the whole decor.",
+      "q": "Bouillon Julien, 16 rue du Faubourg Saint-Denis, Paris", "ll": [48.8705, 2.3532],
+      "src": ["https://www.bouillon-julien.com/"]
+    },
+    {
+      "id": "pnholybelly", "cat": "ye", "area": "nord",
+      "title": "Have pancakes for breakfast at Holybelly",
+      "desc": "Holybelly opened in 2013 near the Canal Saint-Martin and helped start the Paris craze for proper breakfast and specialty coffee. Its stacks of pancakes, eggs with sides and daily specials draw a queue every morning.",
+      "tip": "It is open daily from 9am to 5pm, with last food orders at 4pm. Arrive at opening on a weekday to avoid the long weekend wait.",
+      "q": "Holybelly, 5 rue Lucien Sampaix, Paris", "ll": [48.8710, 2.3598],
+      "src": ["https://holybellycafe.com/"]
+    },
+    {
+      "id": "pntenbelles", "cat": "ye", "area": "nord",
+      "title": "Grab a coffee at Ten Belles by the canal",
+      "desc": "A small café a few steps from the Canal Saint-Martin, Ten Belles roasts its own coffee and bakes its own sourdough. Their house espresso blend is called Le Mixtape, and the sandwiches and pastries come from their own bakery in the 11th.",
+      "tip": "Take your coffee to go and drink it on the iron footbridges over the canal. Seating inside is very limited, so weekday mornings are best.",
+      "q": "Ten Belles, 10 rue de la Grange aux Belles, Paris", "ll": [48.8735, 2.3647],
+      "src": ["https://www.tenbelles.com/"]
+    },
+    {
+      "id": "pngroundcontrol", "cat": "ye", "area": "nord",
+      "title": "Share street food in the halls of Ground Control",
+      "desc": "Behind the Gare de Lyon, Ground Control turned old railway halls into a big indoor and outdoor food court with counters from many cuisines, bars, shops, exhibitions and talks. It is a relaxed place for groups who all want something different.",
+      "tip": "It opens Wednesday to Sunday from noon and is closed early in the week. Check the programme before going, as there are often free events and DJ sets.",
+      "q": "Ground Control, 81 rue du Charolais, Paris", "ll": [48.8433, 2.3813],
+      "src": ["https://www.groundcontrolparis.com/"]
+    },
+    {
+      "id": "pnperchoir", "cat": "ye", "area": "nord",
+      "title": "Watch the sun set from Le Perchoir in Ménilmontant",
+      "desc": "On the seventh floor of an industrial building in the 11th, Le Perchoir was one of the first rooftop bars in Paris. Its terrace has vines, tomato plants and cushions, with views over the chimney pots to the Sacré-Cœur.",
+      "tip": "It is open Wednesday to Saturday from 6pm. Book a spot on the terrace, which opens three weeks ahead, or come right at opening.",
+      "q": "Le Perchoir, 14 rue Crespin du Gast, Paris", "ll": [48.8654, 2.3820],
+      "src": ["https://leperchoir.fr/location/le-perchoir-menilmontant/"]
+    },
+    {
+      "id": "pnchateaubriand", "cat": "ye", "area": "nord",
+      "title": "Try the set menu at Le Chateaubriand",
+      "desc": "Chef Iñaki Aizpitarte made this old bistro on avenue Parmentier one of the places that defined the bistronomy movement, serving a single, inventive tasting menu at dinner in a plain room with a zinc bar. Natural wine flows freely.",
+      "tip": "Book ahead online, as the small room fills every night. Its sister wine bar Le Dauphin is just next door.",
+      "q": "Le Chateaubriand, 129 avenue Parmentier, Paris", "ll": [48.8693, 2.3713],
+      "src": ["https://lechateaubriand.net/"]
+    },
+    {
+      "id": "pnstquentin", "cat": "ye", "area": "nord",
+      "title": "Do your shopping in the Marché Saint-Quentin",
+      "desc": "Built in 1866 of pink brick with green cast-iron arches, the Marché Saint-Quentin is the largest covered market in Paris that still trades every day except Monday. Inside are butchers, fishmongers, cheese and wine counters and small places to eat.",
+      "tip": "It is two minutes from the Gare de l'Est and the Gare du Nord, so it is a good place for train food. Sunday it closes at lunchtime.",
+      "q": "Marché Saint-Quentin, 85 bis boulevard de Magenta, Paris", "ll": [48.8769, 2.3550],
+      "tags": ["rainy day"],
+      "src": ["https://fr.wikipedia.org/wiki/March%C3%A9_Saint-Quentin"]
+    },
+    {
+      "id": "pncafedelapaix", "cat": "ye", "area": "nord",
+      "title": "Take a coffee on the terrace of the Café de la Paix",
+      "desc": "Opened in 1862 on the corner of Place de l'Opéra, the Café de la Paix has listed Second Empire decor and was a haunt of Tchaikovsky, Massenet, Zola and Maupassant. Its terrace faces the Palais Garnier.",
+      "tip": "A coffee or a hot chocolate at the terrace is the affordable way in. Come after an evening at the opera for the full nineteenth-century feel.",
+      "q": "Café de la Paix, 5 place de l'Opéra, Paris", "ll": [48.8708, 2.3317],
+      "src": ["https://fr.wikipedia.org/wiki/Caf%C3%A9_de_la_Paix_(Paris)"]
+    },
+    {
+      "id": "pnmarchechapelle", "cat": "ye", "area": "nord",
+      "title": "Shop like a local at the Marché de la Chapelle",
+      "desc": "Known locally as the Marché de l'Olive, this iron covered market was built between 1883 and 1885 by Auguste-Joseph Magne on the model of Baltard's old Halles. It is a real neighbourhood market far from the tourist trail.",
+      "tip": "It is open Tuesday to Sunday, with a long break in the afternoon on weekdays. Pair it with a walk to the nearby Jardin d'Éole.",
+      "q": "Marché de la Chapelle, rue de l'Olive, Paris", "ll": [48.8910, 2.3615],
+      "tags": ["rainy day"],
+      "src": ["https://fr.wikipedia.org/wiki/March%C3%A9_de_la_Chapelle"]
+    },
+    {
+      "id": "pnmarchebelleville", "cat": "ye", "area": "nord",
+      "title": "Brave the crowds at the Belleville market",
+      "desc": "Twice a week the central strip of Boulevard de Belleville turns into one of the cheapest and busiest markets in Paris, with traders calling out prices for fruit, spices, herbs and fish. It reflects the mix of the neighbourhood, with North African, Chinese and French stalls side by side.",
+      "tip": "It runs on Tuesday and Friday mornings. Afterwards, walk up rue de Belleville for Chinese bakeries and Tunisian pastries.",
+      "q": "Marché Belleville, Boulevard de Belleville, Paris", "ll": [48.8699, 2.3794],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Boulevard_de_Belleville"]
+    },
+    {
+      "id": "pnruedejean", "cat": "ye", "area": "nord",
+      "title": "Explore the African food stalls of Château-Rouge",
+      "desc": "Rue Dejean is a tiny street of about 70 metres in the Goutte d'Or, packed with stalls and shops selling West and Central African produce: plantains, cassava, yams, chillies, dried and fresh fish. The surrounding Château-Rouge streets form the liveliest African market quarter in Paris.",
+      "tip": "Saturday morning is the busiest and most fun time. Go with an open mind and ask the vendors how to cook what you buy.",
+      "q": "Rue Dejean, Paris", "ll": [48.8873, 2.3506],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Rue_Dejean"]
+    },
+    {
+      "id": "pnmuseemontmartre", "cat": "gor", "area": "nord",
+      "title": "Visit Suzanne Valadon's studio at the Musée de Montmartre",
+      "desc": "Set in some of the oldest houses on the Butte, the Musée de Montmartre tells the story of the artists' village. You can see the recreated studio flat where Suzanne Valadon lived with her son Maurice Utrillo from 1912, and the gardens look out over the Montmartre vineyard.",
+      "tip": "It is open every day from 10am. Have a drink at the Café Renoir in the garden, one of the quietest corners of Montmartre.",
+      "q": "Musée de Montmartre, 12 rue Cortot, Paris", "ll": [48.8880, 2.3406],
+      "tags": ["rainy day"],
+      "src": ["https://www.museedemontmartre.fr/"]
+    },
+    {
+      "id": "pnbateaulavoir", "cat": "gor", "area": "nord",
+      "title": "Find the Bateau-Lavoir where Cubism began",
+      "desc": "In this ramshackle studio building on Place Émile-Goudeau, Picasso lived from 1904 to 1909 and unveiled Les Demoiselles d'Avignon in 1907. The poet Max Jacob is said to have named it after its single water tap. It burned down in 1970 and was rebuilt in 1978 as 25 studios that artists still use.",
+      "tip": "The building is not open, but the shop window at 11 bis on the square tells its story. The little square with its Wallace fountain is a perfect spot to sit.",
+      "q": "Bateau-Lavoir, 13 place Émile-Goudeau, Paris", "ll": [48.8861, 2.3376],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Bateau-Lavoir"]
+    },
+    {
+      "id": "pnjetaime", "cat": "gor", "area": "nord",
+      "title": "Find your language on the wall of I love yous",
+      "desc": "In the little Square Jehan-Rictus by the Abbesses metro, a wall of 612 dark blue enamelled lava tiles carries the words I love you 311 times in about 250 languages, including in Braille. It was made by Frédéric Baron, Claire Kito and Daniel Boulogne and unveiled in 2000.",
+      "tip": "Look for the red splashes across the tiles: they are pieces of a broken heart. Come early before the tour groups arrive.",
+      "q": "Le mur des je t'aime, Square Jehan-Rictus, Paris", "ll": [48.8848, 2.3385],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Mur_des_je_t%27aime"]
+    },
+    {
+      "id": "pncimmontmartre", "cat": "gor", "area": "nord",
+      "title": "Walk among the famous graves of Montmartre cemetery",
+      "desc": "Opened in 1825 in an old quarry, the Montmartre cemetery covers about 11 hectares and is crossed overhead by an iron road bridge from 1888. Dalida's tomb is the most visited and most flowered, and Stendhal, Degas, Truffaut and Nijinsky are also buried here.",
+      "tip": "Enter from avenue Rachel, below the bridge, and pick up the map at the gate. Autumn, with the leaves turning, is the most beautiful time.",
+      "q": "Cimetière de Montmartre, 20 avenue Rachel, Paris", "ll": [48.8878, 2.3303],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Cimeti%C3%A8re_de_Montmartre"]
+    },
+    {
+      "id": "pnmoulins", "cat": "gor", "area": "nord",
+      "title": "Spot the last windmills of Montmartre",
+      "desc": "Montmartre once had dozens of windmills. Two survive on rue Lepic: the Radet, which stands on top of a restaurant at the corner of rue Girardon, and the Blute-Fin, hidden in a private garden. Between them stood the dance hall Renoir painted in 1876 in his Bal du moulin de la Galette.",
+      "tip": "The Radet is best seen from the corner of rue Lepic and rue Girardon. Walk down rue Lepic afterwards for the village feel.",
+      "q": "Moulin Radet, rue Lepic, Paris", "ll": [48.8874, 2.3371],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Moulin_de_la_Galette"]
+    },
+    {
+      "id": "pntertre", "cat": "gor", "area": "nord",
+      "title": "Have your portrait drawn on the Place du Tertre",
+      "desc": "This little square at about 130 metres up was laid out in 1635 and was the centre of the village of Montmartre until Paris swallowed it in 1860. The city divides it into small pitches of one square metre for painters and portrait artists, who pay a yearly fee to work there.",
+      "tip": "Agree on the price before the artist starts drawing. Come early in the morning to see the painters setting up without the crowds.",
+      "q": "Place du Tertre, Paris", "ll": [48.8865, 2.3408],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Place_du_Tertre"]
+    },
+    {
+      "id": "pnstjeanabbesses", "cat": "gor", "area": "nord",
+      "title": "Look at the brick church of Saint-Jean de Montmartre",
+      "desc": "Facing the Abbesses metro, this church by Anatole de Baudot, built from 1894 to 1904, was one of the first buildings with a reinforced cement frame, an ancestor of reinforced concrete. Its red brick facade is studded with turquoise ceramics by Alexandre Bigot.",
+      "tip": "Step inside for the slender Art Nouveau interior. Then take the Abbesses metro exit with Guimard's glass canopy across the square.",
+      "q": "Église Saint-Jean de Montmartre, 19 rue des Abbesses, Paris", "ll": [48.8842, 2.3379],
+      "tags": ["free", "rainy day"],
+      "src": ["https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Jean-de-Montmartre"]
+    },
+    {
+      "id": "pngustavemoreau", "cat": "gor", "area": "nord",
+      "title": "Climb the spiral staircase in Gustave Moreau's studio",
+      "desc": "The Symbolist painter Gustave Moreau turned his family house in the Nouvelle Athènes into his own museum, and its two upper floors are huge studios hung floor to ceiling with his paintings and drawings. A beautiful spiral staircase links the two.",
+      "tip": "It is closed on Tuesdays and very busy on the first Sunday of the month. Your ticket also gets you into the Musée Jean-Jacques Henner within a week.",
+      "q": "Musée Gustave Moreau, 14 rue de La Rochefoucauld, Paris", "ll": [48.8779, 2.3345],
+      "tags": ["rainy day"],
+      "src": ["https://musee-moreau.fr/"]
+    },
+    {
+      "id": "pnlafayettedome", "cat": "gor", "area": "nord",
+      "title": "Look up at the stained glass dome of Galeries Lafayette",
+      "desc": "The department store on Boulevard Haussmann has an Art Nouveau dome inaugurated in 1912, rising 43 metres with neo-Byzantine stained glass by Jacques Gruber and balconies by Louis Majorelle. The top floor terrace gives a free view over the Opéra roof towards the Eiffel Tower.",
+      "tip": "Go up the escalators to the roof terrace before shopping. For the best photo of the dome, stand on the upper balconies rather than the ground floor.",
+      "q": "Galeries Lafayette Haussmann, 40 boulevard Haussmann, Paris", "ll": [48.8737, 2.3322],
+      "tags": ["free", "rainy day"],
+      "src": ["https://fr.wikipedia.org/wiki/Galeries_Lafayette_Haussmann"]
+    },
+    {
+      "id": "pnsquareorleans", "cat": "gor", "area": "nord",
+      "title": "Find Chopin's hidden courtyard, the Square d'Orléans",
+      "desc": "Behind a gate on rue Taitbout lies a quiet courtyard of neoclassical houses built in the 1830s by the English architect Edward Cresy, on the model of London squares. Chopin lived at number 9, George Sand at number 5 from 1842 to 1847, and Alexandre Dumas threw a famous costume ball at number 3.",
+      "tip": "It is a private residence, so enter quietly through the gate at 80 rue Taitbout during the day. The Musée de la Vie Romantique, linked to Sand, is a short walk away.",
+      "q": "Square d'Orléans, 80 rue Taitbout, Paris", "ll": [48.8775, 2.3361],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Square_d%27Orl%C3%A9ans"]
+    },
+    {
+      "id": "pnportestdenis", "cat": "gor", "area": "nord",
+      "title": "Stand under the triumphal arch of the Porte Saint-Denis",
+      "desc": "This 25-metre arch was put up in 1672 and 1673 by François Blondel to celebrate Louis XIV's victories on the Rhine and at Maastricht, whose sieges are carved on its sides. It stands where a gate in the old city walls once let travellers in from the north.",
+      "tip": "Cross to the middle of the boulevard for the best view. The rue du Faubourg Saint-Denis behind it is one of the best food streets in the city.",
+      "q": "Porte Saint-Denis, Paris", "ll": [48.8699, 2.3525],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Porte_Saint-Denis"]
+    },
+    {
+      "id": "pnhopitalstlouis", "cat": "gor", "area": "nord",
+      "title": "Find the brick cloister of the Hôpital Saint-Louis",
+      "desc": "Henri IV founded this hospital in 1607 to isolate plague victims outside the city. Its original heart is a square courtyard about 120 metres on each side, ringed by brick and stone buildings like a cloister, in the same style as the Place des Vosges.",
+      "tip": "Look for the old quadrangle off rue Bichat and walk around its garden quietly, as it is still a working hospital. It is a calm break from the busy canal nearby.",
+      "q": "Hôpital Saint-Louis, rue Bichat, Paris", "ll": [48.8730, 2.3695],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/H%C3%B4pital_Saint-Louis_(Paris)"]
+    },
+    {
+      "id": "pncolonnejuillet", "cat": "gor", "area": "nord",
+      "title": "Go down into the crypt of the Colonne de Juillet",
+      "desc": "The 50-metre column in the middle of Place de la Bastille does not remember 1789 but the July Revolution of 1830; it is topped by Auguste Dumont's gilded Génie de la Liberté holding a torch and broken chains. Hundreds of victims of the 1830 and 1848 revolutions lie in the vault below.",
+      "tip": "Since the restoration finished in 2021, guided visits take you into the crypt, though the climb to the top stays closed. Book through the Centre des monuments nationaux.",
+      "q": "Colonne de Juillet, Place de la Bastille, Paris", "ll": [48.8532, 2.3691],
+      "src": ["https://fr.wikipedia.org/wiki/Colonne_de_Juillet"]
+    },
+    {
+      "id": "pnviaducarts", "cat": "gor", "area": "nord",
+      "title": "Peer into the workshops of the Viaduc des Arts",
+      "desc": "Under the old railway viaduct of avenue Daumesnil, built in 1859 for the Vincennes line, about sixty brick arches have been turned into glass-fronted workshops. Around forty craftspeople work here, from furniture makers and restorers to designers.",
+      "tip": "Walk along the avenue at street level, then climb any staircase to return above on the Coulée Verte. Weekday afternoons are when most workshops are open.",
+      "q": "Viaduc des Arts, avenue Daumesnil, Paris", "ll": [48.8463, 2.3779],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Viaduc_des_Arts"]
+    },
+    {
+      "id": "pnruecremieux", "cat": "gor", "area": "nord",
+      "title": "Stroll down the painted houses of rue Crémieux",
+      "desc": "This pedestrian street of only 144 metres near the Gare de Lyon is lined with small two-storey houses painted in bright pastel colours, unlike anything else in Paris. A ceramic plaque at number 8 marks how high the water rose in the great flood of 1910.",
+      "tip": "Residents live here and have complained about crowds, so keep your voice down and avoid photo shoots on doorsteps. Early on a weekday is calmest.",
+      "q": "Rue Crémieux, Paris", "ll": [48.8470, 2.3711],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Rue_Cr%C3%A9mieux"]
+    },
+    {
+      "id": "pnjardintropical", "cat": "gor", "area": "nord",
+      "title": "Wander the overgrown pavilions of the Jardin tropical",
+      "desc": "At the eastern edge of the Bois de Vincennes, this garden began in 1899 as a testing ground for colonial crops, and in 1907 it hosted a colonial exhibition now remembered as a human zoo. Its Chinese gate, Indochinese temple and half-ruined pavilions make it one of the strangest and most thought-provoking places in Paris.",
+      "tip": "The only entrance is on avenue de la Belle-Gabrielle, about 400 metres from Nogent-sur-Marne RER station. Read the information panels, which tell the uncomfortable history honestly.",
+      "q": "Jardin d'agronomie tropicale René-Dumont, Paris", "ll": [48.8340, 2.4672],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Jardin_d%27agronomie_tropicale_de_Paris"]
+    },
+    {
+      "id": "pnrotonde", "cat": "gor", "area": "nord",
+      "title": "Admire Ledoux's tollhouse, the Rotonde de la Villette",
+      "desc": "Built from 1784 to 1788 by Claude-Nicolas Ledoux, this round neoclassical pavilion was a toll office on the wall of the Farmers General, where taxes on goods entering Paris were collected. It is one of the few survivors of the wall and now houses a restaurant facing the Bassin de la Villette.",
+      "tip": "Admire it from the steps of the Place de la Bataille-de-Stalingrad, then walk along the basin. In warm weather locals play pétanque on the gravel nearby.",
+      "q": "Rotonde de la Villette, Place de la Bataille-de-Stalingrad, Paris", "ll": [48.8835, 2.3695],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Rotonde_de_la_Villette"]
+    },
+    {
+      "id": "pncarrebaudouin", "cat": "gor", "area": "nord",
+      "title": "See a free photo show at the Pavillon Carré de Baudouin",
+      "desc": "This 18th-century pleasure house in Ménilmontant got its Palladian facade with four columns in 1770, and the Goncourt brothers spent part of their childhood here. Since 2007 it has been a cultural centre run by the 20th arrondissement, known for free photography exhibitions.",
+      "tip": "Entry is free; check what is on before you go. The garden behind, and the street art on its wall, are worth a look too.",
+      "q": "Pavillon Carré de Baudouin, 121 rue de Ménilmontant, Paris", "ll": [48.8701, 2.3940],
+      "tags": ["free", "rainy day"],
+      "src": ["https://fr.wikipedia.org/wiki/Pavillon_Carr%C3%A9_de_Baudouin", "https://www.pavilloncarredebaudouin.fr/"]
+    },
+    {
+      "id": "pncharonne", "cat": "gor", "area": "nord",
+      "title": "Find the village church of Saint-Germain-de-Charonne",
+      "desc": "Perched on a little rise in the 20th, this church dates in part from the 12th century and still looks like a country church. It is one of only two churches in Paris still surrounded by its old graveyard, the other being Saint-Pierre de Montmartre.",
+      "tip": "Film fans may recognise it from the wedding scene at the end of Les Tontons flingueurs. Climb the steps from rue de Bagnolet to Place Saint-Blaise, the old village square.",
+      "q": "Église Saint-Germain de Charonne, 4 place Saint-Blaise, Paris", "ll": [48.8602, 2.4037],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Germain_de_Charonne"]
+    },
+    {
+      "id": "pnaquarium", "cat": "dene", "area": "nord",
+      "title": "Visit the tropical aquarium in the Palais de la Porte Dorée",
+      "desc": "In the basement of the Art Deco Palais de la Porte Dorée, built for the 1931 colonial exhibition, lies a tropical aquarium with more than 350 species in over 80 habitats. Upstairs, the building houses the national museum of immigration history.",
+      "tip": "Take a look at the carved facade outside and the grand reception hall upstairs before going down to the fish. Weekends it stays open until 7pm.",
+      "q": "Aquarium tropical, Palais de la Porte Dorée, 293 avenue Daumesnil, Paris", "ll": [48.8353, 2.4094],
+      "tags": ["rainy day"],
+      "src": ["https://www.aquarium-tropical.fr/", "https://www.palais-portedoree.fr/"]
+    },
+    {
+      "id": "pnatelierlumieres", "cat": "dene", "area": "nord",
+      "title": "Step into a moving painting at the Atelier des Lumières",
+      "desc": "Inside a 19th-century iron foundry founded in 1835, the Atelier des Lumières projects huge digital art shows onto every wall and floor, set to music. Shows change regularly and cover painters, the ocean and even concerts.",
+      "tip": "Book a time slot online. Sit on the floor in the main hall to see the whole cycle, which loops so you can stay for a second round.",
+      "q": "Atelier des Lumières, 38 rue Saint-Maur, Paris", "ll": [48.8619, 2.3809],
+      "tags": ["rainy day"],
+      "src": ["https://www.atelier-lumieres.com/"]
+    },
+    {
+      "id": "pncinematheque", "cat": "dene", "area": "nord",
+      "title": "Catch a classic film at the Cinémathèque française",
+      "desc": "Founded in 1936 with Henri Langlois as its driving force, the Cinémathèque française moved in 2005 into Frank Gehry's twisted building at Bercy. It screens films every day and has a museum of cinema with Georges Méliès items, magic lanterns and costumes.",
+      "tip": "Tickets for screenings are cheap, and the retrospectives are excellent. The Parc de Bercy across the street is good for a walk before the film.",
+      "q": "Cinémathèque française, 51 rue de Bercy, Paris", "ll": [48.8370, 2.3826],
+      "tags": ["rainy day"],
+      "src": ["https://fr.wikipedia.org/wiki/Cin%C3%A9math%C3%A8que_fran%C3%A7aise"]
+    },
+    {
+      "id": "pnparcfloral", "cat": "dene", "area": "nord",
+      "title": "Spend a summer afternoon in the Parc Floral",
+      "desc": "In the Bois de Vincennes beside the château, the Parc Floral is 35 hectares of themed gardens, ponds, pine woods and playgrounds. In summer it hosts open-air concerts and festivals on its lawns, making it a favourite family escape.",
+      "tip": "Check the programme for summer weekend concerts, which locals attend with a picnic. Bring a blanket and come by metro line 1 to Château de Vincennes.",
+      "q": "Parc floral de Paris, Bois de Vincennes, Paris", "ll": [48.8396, 2.4394],
+      "src": ["https://www.parcfloraldeparis.com/"]
+    },
+    {
+      "id": "pnzoo", "cat": "dene", "area": "nord",
+      "title": "See the giraffes at the Paris zoo in Vincennes",
+      "desc": "The Parc zoologique de Paris in the Bois de Vincennes has more than 3,000 animals of 272 species across 14 hectares, grouped by region of the world. Its tall artificial rock, the Grand Rocher, has been a landmark of the east of Paris since the 1930s.",
+      "tip": "Check the programme on the zoo's website for feeding sessions and family days. On Sundays from April to November there are extra activities for children.",
+      "q": "Parc zoologique de Paris, avenue Daumesnil, Paris", "ll": [48.8319, 2.4184],
+      "src": ["https://www.parczoologiquedeparis.fr/"]
+    },
+    {
+      "id": "pnmuseemusique", "cat": "dene", "area": "nord",
+      "title": "Hear a concert at the Philharmonie de Paris",
+      "desc": "Jean Nouvel's shimmering hill of a building opened in 2015 at the edge of the Parc de la Villette, with a main hall seating 2,400 around the orchestra. Next door, the Cité de la musique holds the Musée de la musique, with centuries of instruments.",
+      "tip": "Look out for cheaper tickets for under-28s and for weekend family concerts. Arrive early to explore the instrument collection in the Musée de la musique.",
+      "q": "Philharmonie de Paris, 221 avenue Jean-Jaurès, Paris", "ll": [48.8916, 2.3941],
+      "tags": ["rainy day"],
+      "src": ["https://fr.wikipedia.org/wiki/Philharmonie_de_Paris", "https://philharmoniedeparis.fr/"]
+    },
+    {
+      "id": "pncitesciences", "cat": "dene", "area": "nord",
+      "title": "Play scientist at the Cité des sciences",
+      "desc": "Europe's largest science museum fills a giant former slaughterhouse auction hall in the Parc de la Villette, with interactive exhibitions, a planetarium and a children's science city. Outside, the mirrored sphere of La Géode reflects the sky.",
+      "tip": "Book the Cité des enfants slots in advance for younger children. Allow half a day, and combine it with the park's themed gardens.",
+      "q": "Cité des sciences et de l'industrie, 30 avenue Corentin-Cariou, Paris", "ll": [48.8958, 2.3880],
+      "tags": ["rainy day"],
+      "src": ["https://www.cite-sciences.fr/"]
+    },
+    {
+      "id": "pncentquatre", "cat": "dene", "area": "nord",
+      "title": "Watch dancers rehearse at the Centquatre",
+      "desc": "The Centquatre is a huge iron and glass hall in the 19th, run by the City of Paris as an arts centre. Its covered halls are open to everyone and fill with young dancers, jugglers and actors rehearsing, alongside exhibitions, cafés and a charity shop.",
+      "tip": "The halls are free from noon to 7pm, Tuesday to Sunday. Come on a weekend afternoon for the most people practising.",
+      "q": "Le Centquatre, 5 rue Curial, Paris", "ll": [48.8900, 2.3707],
+      "tags": ["free", "rainy day"],
+      "src": ["https://www.104.fr/"]
+    },
+    {
+      "id": "pnbellevilloise", "cat": "dene", "area": "nord",
+      "title": "Catch a show at La Bellevilloise",
+      "desc": "La Bellevilloise began in 1877 as a workers' cooperative selling direct from producer to consumer, and its building on rue Boyer was its Maison du peuple. Reopened in 2006, it is now one of the main independent venues of east Paris, with concerts, club nights, exhibitions and a café.",
+      "tip": "Check the programme online, as many events are cheap or free. The building is a short walk from Père Lachaise and Ménilmontant.",
+      "q": "La Bellevilloise, 19 rue Boyer, Paris", "ll": [48.8683, 2.3920],
+      "src": ["https://fr.wikipedia.org/wiki/La_Bellevilloise", "https://www.labellevilloise.com/"]
+    },
+    {
+      "id": "pnlapinagile", "cat": "dene", "area": "nord",
+      "title": "Sing along with old chansons at the Lapin Agile",
+      "desc": "This pink cottage on rue des Saules was a hangout for Picasso, Apollinaire and Max Jacob when Frédé ran it in the early 1900s. Its name comes from André Gill's sign of a rabbit jumping out of a pot. The evening veillées of French songs and poems still go on today.",
+      "tip": "Shows run Tuesday, Thursday, Friday and Saturday from 9pm, and your ticket includes a drink. Book ahead and bring cash for extra drinks.",
+      "q": "Au Lapin Agile, 22 rue des Saules, Paris", "ll": [48.8886, 2.3400],
+      "src": ["https://fr.wikipedia.org/wiki/Au_Lapin_agile", "https://au-lapin-agile.com/"]
+    },
+    {
+      "id": "pncirquehiver", "cat": "dene", "area": "nord",
+      "title": "See a circus under the roof of the Cirque d'Hiver",
+      "desc": "The polygonal Cirque d'Hiver was designed by Jacques Hittorff and opened in 1852, and in 1859 Léotard performed the first flying trapeze act here. It is still run by the Bouglione circus family and stages a new show each season.",
+      "tip": "Even without a ticket, walk around the outside to see the painted frieze of horsemen. The Bouglione family also runs guided visits on some days.",
+      "q": "Cirque d'Hiver, 110 rue Amelot, Paris", "ll": [48.8635, 2.3676],
+      "tags": ["rainy day"],
+      "src": ["https://www.cirquedhiver.com/"]
+    },
+    {
+      "id": "pngrevin", "cat": "dene", "area": "nord",
+      "title": "Meet the wax figures at the Musée Grévin",
+      "desc": "Open since 1882 on Boulevard Montmartre, the Musée Grévin has more than 250 wax figures of famous people, from French history to film stars and athletes. Its older rooms, including a little theatre and a hall of mirrors, are as much fun as the figures.",
+      "tip": "Book a time slot online, as you can only enter within 30 minutes of it. Pair it with a walk through Passage Jouffroy right next door.",
+      "q": "Musée Grévin, 10 boulevard Montmartre, Paris", "ll": [48.8718, 2.3421],
+      "tags": ["rainy day"],
+      "src": ["https://www.grevin-paris.com/"]
+    },
+    {
+      "id": "pnvallerey", "cat": "dene", "area": "nord",
+      "title": "Swim in the 1924 Olympic pool, Georges-Vallerey",
+      "desc": "Built for the 1924 Paris Olympics, where Johnny Weissmuller swam in the freestyle final, the Georges-Vallerey pool near the Porte des Lilas has a 50-metre basin under a glass roof. It was renovated again in 2024 and served as a training pool for those Games.",
+      "tip": "Check the City of Paris pool timetable before you go, as public hours vary by day. Swim caps are required.",
+      "q": "Piscine Georges-Vallerey, 148 avenue Gambetta, Paris", "ll": [48.8755, 2.4067],
+      "tags": ["rainy day"],
+      "src": ["https://fr.wikipedia.org/wiki/Piscine_Georges-Vallerey"]
+    },
+    {
+      "id": "pnpointephemere", "cat": "dene", "area": "nord",
+      "title": "Go to a gig at Point Éphémère on the canal",
+      "desc": "Set in a 1920s brick building that was once a building materials depot on the Quai de Valmy, Point Éphémère opened in 2004 as a concert hall, gallery and artists' studios. It is a favourite of the canal crowd for indie gigs and club nights.",
+      "tip": "On warm evenings people sit with a drink by the water outside. Check the programme online, as many gigs sell out.",
+      "q": "Point Éphémère, 200 quai de Valmy, Paris", "ll": [48.8814, 2.3685],
+      "src": ["https://fr.wikipedia.org/wiki/Point_%C3%89ph%C3%A9m%C3%A8re", "https://www.pointephemere.org/"]
+    },
+    {
+      "id": "pnhasardludique", "cat": "dene", "area": "nord",
+      "title": "Brunch or dance at Le Hasard Ludique",
+      "desc": "Le Hasard Ludique is a cultural venue in a former station of the Petite Ceinture railway on avenue de Saint-Ouen. It hosts concerts, club nights, tango balls, markets and a Sunday brunch, with a bar and canteen open through the day.",
+      "tip": "Sunday brunch runs from 11:30am. Look for the old railway trench next to the station, now part of the Petite Ceinture walk.",
+      "q": "Le Hasard Ludique, 128 avenue de Saint-Ouen, Paris", "ll": [48.8957, 2.3287],
+      "src": ["https://www.lehasardludique.paris/"]
+    },
+    {
+      "id": "pnbercyvillage", "cat": "dene", "area": "nord",
+      "title": "Stroll among the old wine warehouses of Bercy Village",
+      "desc": "Bercy was once the largest wine market in the world, and the Cour Saint-Émilion is a surviving lane of its stone wine cellars from around 1880, now shops, bars and restaurants. Old rail tracks still run through the cobbles where barrels once rolled.",
+      "tip": "Combine it with the Parc de Bercy next door and the Simone-de-Beauvoir footbridge to the Bibliothèque nationale. Evenings are lively, with a big cinema at one end.",
+      "q": "Cour Saint-Émilion, Bercy Village, Paris", "ll": [48.8331, 2.3865],
+      "tags": ["free"],
+      "src": ["https://fr.wikipedia.org/wiki/Cour_Saint-%C3%89milion", "https://www.bercyvillage.com/"]
+    },
+    {
+      "id": "pnmoulinrouge", "cat": "dene", "area": "nord",
+      "title": "See the cancan at the Moulin Rouge",
+      "desc": "The red windmill on Boulevard de Clichy has been part of Paris nightlife since 1889, when Toulouse-Lautrec painted its dancers. Today's revue, Féerie, features a troupe of about 80 performers, feathers, sequins and the famous French cancan.",
+      "tip": "The late show without dinner is the cheapest way in. Even if you skip the show, the windmill lit up at night is a classic Pigalle sight.",
+      "q": "Moulin Rouge, 82 boulevard de Clichy, Paris", "ll": [48.8841, 2.3324],
+      "src": ["https://www.moulinrouge.fr/"]
+    }
+  ]
+}

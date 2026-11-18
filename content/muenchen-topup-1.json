@@ -1,0 +1,393 @@
+{
+  "new": [
+    {
+      "id": "mmkreutzkamm", "cat": "ye", "area": "merkez",
+      "title": "Buy Baumkuchen at Café Kreutzkamm",
+      "desc": "This confectioner was founded in Dresden in 1825 and reopened on Maffeistraße after the family moved west around 1950. A short walk from Marienplatz, the family still turns out the house specialities: layered Baumkuchen and Dresden-style Stollen.",
+      "tip": "It is closed on Sundays, so plan a weekday or Saturday stop. A second branch sits in the Maxburg on Pacellistraße near Stachus.",
+      "q": "Kreutzkamm, Maffeistraße 4, München", "ll": [48.1396, 11.5753],
+      "src": ["https://orte.muenchen.de/1264681.html", "https://mesprestiges.com/en/munich/places/konditorei-kreutzkamm", "https://www.in-muenchen.de/?p=1104418"]
+    },
+    {
+      "id": "mmschumanns", "cat": "ye", "area": "merkez",
+      "title": "Order a classic cocktail at Schumann's",
+      "desc": "Charles Schumann opened his American Bar on Maximilianstraße in 1982, and the bar later moved to the Hofgarten side of Odeonsplatz. By day it works as a refined canteen, and around midnight it turns into one of Germany's best-known cocktail bars.",
+      "tip": "It is closed on Saturdays and opens only in the evening on Sundays. Upstairs, the small Les Fleurs du Mal was named American Bar of the Year in the Falstaff Bar Guide.",
+      "q": "Schumann's, Odeonsplatz 7, München", "ll": [48.1439, 11.5786],
+      "src": ["https://schumanns.de/en/schumanns-bar.html", "https://www.timeout.com/munich/bars-and-pubs/schumanns-bar", "https://www.meininger.de/gastronomie/im-fokus-charles-schumann"]
+    },
+    {
+      "id": "mmzumfranziskaner", "cat": "ye", "area": "merkez",
+      "title": "Have a Frühschoppen at Zum Franziskaner",
+      "desc": "Between the Residenz and the Theatinerstraße shopping street, this big traditional tavern serves Löwenbräu with Bavarian classics such as Leberkäs and Weißwurst. It is known for its own Franziskaner mustard.",
+      "tip": "Come for the Frühschoppen, the late-morning combo of white sausages or Leberkäs, a pretzel and a drink. It opens at 10 every day.",
+      "q": "Zum Franziskaner, Residenzstraße 9, München", "ll": [48.1393, 11.5772],
+      "src": ["https://www.zum-franziskaner.de/"]
+    },
+    {
+      "id": "mmandechserdom", "cat": "ye", "area": "merkez",
+      "title": "Drink Andechser beer in the shadow of the Frauenkirche",
+      "desc": "On Frauenplatz, right on the south side of the Frauenkirche, this tavern pours the beers of the Andechs abbey brewery, so you can taste the Holy Mountain's beer without the trip. Outside tables look straight up at the cathedral's twin towers.",
+      "tip": "The kitchen runs all day from 10 until 22:30, handy after a late museum visit. In good weather ask for a table outside facing the church.",
+      "q": "Andechser am Dom, Frauenplatz 7, München", "ll": [48.1382, 11.5738],
+      "src": ["https://www.andechser-am-dom.de/"]
+    },
+    {
+      "id": "mmloewenbraeukeller", "cat": "ye", "area": "merkez",
+      "title": "Sit by the stone lion at the Löwenbräukeller",
+      "desc": "Albert Schmidt designed this beer palace on Stiglmaierplatz, which opened in 1883 and was rebuilt after wartime bombing. Beer is no longer brewed here, but the tavern, the chestnut-shaded self-service beer garden and the resting lion on the terrace, designed around 1900 by Wilhelm von Rümann, keep the old Löwenbräu spirit alive.",
+      "tip": "In late winter it hosts one of the city's big strong-beer festivals. Hungry groups order the Löwenbräukeller Reindl, a pan of pork knuckle, sausages, fillet and schnitzel charged per person.",
+      "q": "Löwenbräukeller, Nymphenburger Straße 2, München", "ll": [48.1481, 11.5582],
+      "src": ["https://de.wikipedia.org/wiki/L%C3%B6wenbr%C3%A4ukeller", "https://www.in-muenchen.de/gastro/wirtshaus-bayerische-kuche/loewenbraeukeller", "https://loewenbraeukeller.com/en/house-events/strong-beer-festival.html"]
+    },
+    {
+      "id": "mmballabeni", "cat": "ye", "area": "merkez",
+      "title": "Queue for ice cream at Ballabeni",
+      "desc": "Ballabeni has made ice cream in Munich since 2006, and its shop on the corner of Theresienstraße and Türkenstraße draws a line on most summer evenings. Flavours change often, and all the sorbets are vegan.",
+      "tip": "It sits between the Pinakotheken and Museum Brandhorst, an easy reward after a museum. To skip the queue, try the workshop shop on Seidlstraße.",
+      "q": "Ballabeni Icecream, Theresienstraße 46, München", "ll": [48.1484, 11.5746],
+      "src": ["https://www.in-muenchen.de/?p=1105150", "https://munich.travel/en/topics/eat-drink/ice-ice-baby"]
+    },
+    {
+      "id": "mmmaxemanuel", "cat": "ye", "area": "merkez",
+      "title": "Find the hidden beer garden of the Max Emanuel Brauerei",
+      "desc": "This Maxvorstadt tavern on Adalbertstraße opened in 1880, once housed the cabaret Katakombe and reopened in 2022 after renovation. Hidden from the street behind it, a self-service beer garden for about 500 people sits under chestnut trees more than a century old, with Löwenbräu served in chilled mugs.",
+      "tip": "The garden has its own entrance on Nordendstraße and only opens in dry, warm weather. In winter a covered lane is set up for Eisstock, Bavarian curling.",
+      "q": "Max-Emanuel-Brauerei, Adalbertstraße 33, München", "ll": [48.1524, 11.5762],
+      "src": ["https://www.in-muenchen.de/?p=1101601", "https://www.muenchenwiki.de/wiki/Max_Emanuel_Brauerei"]
+    },
+    {
+      "id": "mmbuergersaal", "cat": "gor", "area": "merkez",
+      "title": "Visit Rupert Mayer's grave in the Bürgersaal",
+      "desc": "Behind a modest facade on the Neuhauser Straße shopping street, Giovanni Antonio Viscardi built this hall for a Marian congregation in 1709 and 1710. In the crypt-like lower church lies the Jesuit Rupert Mayer, who preached against the Nazis; he was beatified in 1987 and his grave draws a steady stream of visitors.",
+      "tip": "Climb to the upper church to see Ignaz Günther's rococo guardian angel group of 1763, under the organ gallery.",
+      "q": "Bürgersaalkirche, Neuhauser Straße, München", "ll": [48.1390, 11.5682],
+      "tags": ["free", "rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/B%C3%BCrgersaalkirche"]
+    },
+    {
+      "id": "mmoheljakob", "cat": "gor", "area": "merkez",
+      "title": "Stand before the stone and glass of Ohel Jakob",
+      "desc": "Munich's main synagogue opened on St.-Jakobs-Platz on 9 November 2006, 68 years after the November pogrom. Architects Wandel Hoefer Lorch set a glass cube, the tent of its Hebrew name, on a base of rough travertine; inside, cedar panelling and golden psalms surround seating for 550.",
+      "tip": "The square also holds the Jewish Museum and the community centre. A memorial to more than 4,000 murdered Munich Jews lines the underground passage between the synagogue and the centre.",
+      "q": "Ohel Jakob, Sankt-Jakobs-Platz, München", "ll": [48.1345, 11.5727],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Ohel_Jakob_synagogue_(Munich)"]
+    },
+    {
+      "id": "mmjuedischesmuseum", "cat": "gor", "area": "merkez",
+      "title": "Hear Munich's Jewish voices in the Jüdisches Museum",
+      "desc": "Opened in 2007 across the square from the synagogue, the Jewish Museum spreads over three floors linked by a single straight staircase. The permanent show Stimmen, Orte, Zeiten (Voices, Places, Times) on the lower level tells Munich's Jewish history up to the present day.",
+      "tip": "Pair it with a look at the synagogue's exterior; the museum, synagogue and community centre were designed as one ensemble.",
+      "q": "Jüdisches Museum München, Sankt-Jakobs-Platz 16, München", "ll": [48.1343, 11.5723],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/J%C3%BCdisches_Museum_M%C3%BCnchen"]
+    },
+    {
+      "id": "mmalterhof", "cat": "gor", "area": "merkez",
+      "title": "Look for the monkey tower in the Alter Hof",
+      "desc": "This courtyard was Munich's first castle and, under Ludwig the Bavarian, the first fixed residence of a Wittelsbach emperor. Legend says a monkey from the ducal menagerie snatched the infant Ludwig and only gave him back after long coaxing, which is why the tower is still called the Affenturm. Look up at the Gothic oriel with two rows of Wittelsbach coats of arms.",
+      "tip": "In the vaulted Gothic cellar, the free exhibition on the Münchner Kaiserburg tells the castle's story. It is open Monday to Saturday from 10 to 18.",
+      "q": "Alter Hof, Burgstraße, München", "ll": [48.1380, 11.5781],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Alter_Hof_(M%C3%BCnchen)"]
+    },
+    {
+      "id": "mmsiegestor", "cat": "gor", "area": "merkez",
+      "title": "Read the peace inscription on the Siegestor",
+      "desc": "Ludwig I had Friedrich von Gärtner model this triumphal arch on Rome's Arch of Constantine; it was finished in 1850 and is crowned by Bavaria driving a chariot pulled by four lions. After war damage it was only partly restored, and the south side now reads Dem Sieg geweiht, vom Krieg zerstört, zum Frieden mahnend: dedicated to victory, destroyed by war, urging peace.",
+      "tip": "The arch marks the point where Ludwigstraße becomes Leopoldstraße and Schwabing begins. Approach from the university side to read the inscription.",
+      "q": "Siegestor, München", "ll": [48.1522, 11.5819],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Siegestor"]
+    },
+    {
+      "id": "mmaegyptischekunst", "cat": "gor", "area": "merkez",
+      "title": "Descend into the Egyptian Museum",
+      "desc": "Opposite the Alte Pinakothek, a 17 metre concrete wall like a temple pylon marks the entrance to the State Museum of Egyptian Art, opened here in 2013 to designs by Peter Böhm. A long ramp leads underground to galleries holding a head probably of Pharaoh Khufu, the coffin mask of Queen Satdjehuti and a glass cup of Thutmose III, the oldest securely datable glass vessel.",
+      "tip": "All the galleries are below ground, so it is a fine pick on a grey day. The building is shared with the HFF film school.",
+      "q": "Staatliches Museum Ägyptischer Kunst, Gabelsbergerstraße 35, München", "ll": [48.1470, 11.5683],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Staatliches_Museum_%C3%84gyptischer_Kunst"]
+    },
+    {
+      "id": "mmbrandhorst", "cat": "gor", "area": "merkez",
+      "title": "Watch the colours shift on Museum Brandhorst",
+      "desc": "Sauerbruch Hutton wrapped this 2009 museum in 36,000 ceramic rods in 23 colours, so the facade changes as you walk past. Inside, a room was built for Cy Twombly's twelve-painting Lepanto cycle, and the collection holds more than a hundred works by Andy Warhol.",
+      "tip": "Walk the full length of the facade along Theresienstraße to see the colours change, then cross the road for an ice cream at Ballabeni.",
+      "q": "Museum Brandhorst, Theresienstraße 35a, München", "ll": [48.1481, 11.5741],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Museum_Brandhorst"]
+    },
+    {
+      "id": "mmpalaeontologie", "cat": "gor", "area": "merkez",
+      "title": "Meet the Munich Archaeopteryx",
+      "desc": "In a former arts and crafts school on Richard-Wagner-Straße, the Palaeontological Museum shows the Munich specimen of Archaeopteryx, the feathered link between dinosaurs and birds. Around it stand a Triceratops skull, a giant deer, a cave bear and a sabre-toothed cat.",
+      "tip": "Entry is free. It is open on weekdays and on the first Sunday of the month, but closed on Saturdays.",
+      "q": "Paläontologisches Museum München, Richard-Wagner-Straße 10, München", "ll": [48.1476, 11.5636],
+      "tags": ["free", "rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Pal%C3%A4ontologisches_Museum_M%C3%BCnchen", "https://www.muenchen.de/sehenswuerdigkeiten/museen/palaeontologisches-museum"]
+    },
+    {
+      "id": "mmfuenfhoefe", "cat": "dene", "area": "merkez",
+      "title": "Wander the hidden courtyards of the Fünf Höfe",
+      "desc": "Herzog & de Meuron opened up an old bank block between Theatinerstraße and Kardinal-Faulhaber-Straße into a chain of linked courtyards, finished in 2001 and 2003. Look for Tita Giese's hanging gardens in the Salvatorpassage, the glittering glass mosaics in the Prannerpassage and Ólafur Elíasson's steel-mesh sphere in the Viscardihof.",
+      "tip": "It makes a covered short cut on rainy days, and the Kunsthalle inside stages big temporary exhibitions.",
+      "q": "Fünf Höfe, Theatinerstraße, München", "ll": [48.1409, 11.5761],
+      "tags": ["free", "rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/F%C3%BCnf_H%C3%B6fe"]
+    },
+    {
+      "id": "mmtheatinerfilm", "cat": "dene", "area": "merkez",
+      "title": "Catch an arthouse film at the Theatiner",
+      "desc": "Opened in 1957 on Theatinerstraße, this 164-seat cinema is one of the city's arthouse institutions, showing many films in their original language with subtitles. It is the Munich home of the French Film Week every November.",
+      "tip": "Screenings marked OmU are original version with German subtitles. Check the programme on theatiner-film.de before you go.",
+      "q": "Theatiner Filmkunst, Theatinerstraße 32, München", "ll": [48.1409, 11.5770],
+      "tags": ["rainy day"],
+      "src": ["https://www.in-muenchen.de/kino/theater/theatiner-film.html", "https://www.in-muenchen.de/?p=1106525"]
+    },
+    {
+      "id": "mmeiszauber", "cat": "dene", "area": "merkez",
+      "title": "Skate on the Stachus at the Münchner Eiszauber",
+      "desc": "Every winter Karlsplatz, which locals call the Stachus, becomes a 750 square metre ice rink, the largest mobile one in the city. It usually runs from November into early January, with skate rental and evening ice parties.",
+      "tip": "Tickets are sold in time blocks, and daytime slots are calmer. The nickname Stachus comes from an 18th-century innkeeper, Eustachius Föderl.",
+      "q": "Karlsplatz, München", "ll": [48.1392, 11.5658],
+      "months": [11, 12, 1],
+      "src": ["https://www.muenchen.de/en/sights/munich-eiszauber-ice-skating-stachus", "https://de.wikipedia.org/wiki/Karlsplatz_(M%C3%BCnchen)"]
+    },
+    {
+      "id": "mmadventsspektakel", "cat": "dene", "area": "merkez",
+      "title": "Drink hot mead at the medieval Christmas market",
+      "desc": "Since 2005 Wittelsbacherplatz has hosted a medieval-themed Christmas market, with wooden stalls selling crafts, food and drink in historical style. On Advent weekends a cultural programme adds medieval entertainment.",
+      "tip": "Order a mug of hot Met, honey wine, instead of the usual Glühwein. It is a short walk from Odeonsplatz and calmer than Marienplatz.",
+      "q": "Wittelsbacherplatz, München", "ll": [48.1434, 11.5761],
+      "months": [11, 12],
+      "tags": ["free"],
+      "src": ["https://www.muenchen.de/veranstaltungen/freizeit/weihnachtsmarkt-christkindlmarkt/muenchner-adventsspektakel"]
+    },
+    {
+      "id": "mmzamanand", "cat": "dene", "area": "merkez",
+      "title": "Walk a car-free Ludwigstraße at the Zamanand festival",
+      "desc": "Twice a year, usually on a weekend in June and another in September, Ludwigstraße between Odeonsplatz and the Siegestor closes to all traffic for Zamanand, the successor of the Streetlife Festival. The grand boulevard fills with stages, stalls and crowds, and admission is free.",
+      "tip": "The same weekends Corso Leopold runs on Leopoldstraße beyond the Siegestor, so keep walking north into Schwabing.",
+      "q": "Ludwigstraße, München", "ll": [48.1475, 11.5800],
+      "months": [6, 9],
+      "tags": ["free"],
+      "src": ["https://www.in-muenchen.de/?p=978254", "https://www.muenchen.de/veranstaltungen/feste-festivals/corso-leopold"]
+    },
+    {
+      "id": "mvkaefer", "cat": "ye", "area": "viertel",
+      "title": "Browse the delicatessen at Käfer",
+      "desc": "Elsa and Paul Käfer opened a grocery in 1930 and moved to Prinzregentenstraße 73 in Bogenhausen in 1933, where the flagship still stands. It is Munich's best-known fine food hall, and the Käfer-Schänke restaurant in the same building, opened in 1970, has 19 individually designed private Stuben.",
+      "tip": "Stock up on picnic supplies here, then walk down to the Friedensengel and the Isar. Käfer also runs one of the most sought-after tents at the Oktoberfest.",
+      "q": "Feinkost Käfer, Prinzregentenstraße 73, München", "ll": [48.1406, 11.6021],
+      "src": ["https://de.wikipedia.org/wiki/Feinkost_K%C3%A4fer"]
+    },
+    {
+      "id": "mvtantris", "cat": "ye", "area": "viertel",
+      "title": "Dine in the 1970s temple of Tantris",
+      "desc": "Opened in Schwabing in 1971, Tantris put Munich on the gourmet map: Eckart Witzigmann, Heinz Winkler and Hans Haas cooked here, and it won three Michelin stars in 1981. Justus Dahinden's brutalist building, with Bruno Weber's concrete sculptures at the entrance, is a design icon in itself.",
+      "tip": "Since 2021 there are two restaurants, the main Tantris and Tantris DNA with the house classics. A drink at the bar is the easiest way to see the interior.",
+      "q": "Tantris, Johann-Fichte-Straße 7, München", "ll": [48.1699, 11.5882],
+      "src": ["https://de.wikipedia.org/wiki/Tantris"]
+    },
+    {
+      "id": "mvaumeister", "cat": "ye", "area": "viertel",
+      "title": "Cycle to the Aumeister at the top of the Englischer Garten",
+      "desc": "At the far northern end of the Englischer Garten, the Aumeister was built in 1810 and 1811 as the house of the royal hunt master and later became an inn. Its self-service beer garden seats around 3,000 under chestnuts, with Hofbräu on tap and Steckerlfisch, fish grilled on a stick.",
+      "tip": "Ride north through the park from the Kleinhesseloher See; the nearest U-Bahn stop is Studentenstadt. The restaurant is worth a visit outside beer garden season too.",
+      "q": "Aumeister, Sondermeierstraße 1, München", "ll": [48.1856, 11.6204],
+      "src": ["https://de.wikipedia.org/wiki/Aumeister", "https://www.muenchen.de/en/restaurants/aumeister-munich-all-about-beer-garden-north-city"]
+    },
+    {
+      "id": "mvhirschau", "cat": "ye", "area": "viertel",
+      "title": "Catch live music at the Hirschau beer garden",
+      "desc": "In the northern Englischer Garten, the Hirschau serves freshly tapped Löwenbräu in a garden that Mit Vergnügen München named the city's most beautiful beer garden in 2020. From April to September bands play its stage on Thursdays, Fridays, Sundays and holidays, from rock and salsa to Bavarian brass.",
+      "tip": "Children get a big adventure playground with a zipline and a pirate ship. It only opens in dry, sunny weather, so call ahead if the sky looks doubtful.",
+      "q": "Hirschau, Gyßlingstraße 15, München", "ll": [48.1621, 11.6025],
+      "src": ["https://www.die-hirschau.de/"]
+    },
+    {
+      "id": "mvtaxisgarten", "cat": "ye", "area": "viertel",
+      "title": "Order an Ochsensemmel in the Taxisgarten",
+      "desc": "Hidden in the quiet villa quarter of Gern, the Taxisgarten seats more than 1,000 under old chestnut trees and pours Hofbräu from the cask. Its signature is the Ochsensemmel, a roast beef roll with sauce from the ox roastery, and there is a vegan version too.",
+      "tip": "Take the U1 to Gern. It is a true neighbourhood beer garden, with a playground under the trees, and opens from noon on weekdays and 11 at weekends when the weather is good.",
+      "q": "Taxisgarten, Taxisstraße 12, München", "ll": [48.1631, 11.5324],
+      "src": ["https://www.in-muenchen.de/?p=1104090"]
+    },
+    {
+      "id": "mvwirtshausau", "cat": "ye", "area": "viertel",
+      "title": "Eat dumplings at the Wirtshaus in der Au",
+      "desc": "In a building from 1901 in the old Au quarter, this inn has been run by Florian Oberndorfer since 1993 and is Munich's address for Knödel. The menu offers several meatless dumplings, from spinach to organic cheese, and you can order a trio to taste them side by side.",
+      "tip": "The house runs dumpling cooking classes several times a year. It is a short walk from the Museum Lichtspiele and the Isar.",
+      "q": "Wirtshaus in der Au, Lilienstraße 51, München", "ll": [48.1290, 11.5866],
+      "src": ["https://www.in-muenchen.de/gastro/wirtshaus-bayerische-kuche/wirtshaus-in-der-au", "https://spottedbylocals.com/munich/wirtshaus-in-der-au"]
+    },
+    {
+      "id": "mvgrossmarkthalle", "cat": "ye", "area": "viertel",
+      "title": "Have a Weißwurst breakfast at the Großmarkthalle",
+      "desc": "Next to Munich's wholesale market in Sendling, the Gaststätte Großmarkthalle has fed market traders for over a century, and many locals say it serves the best Weißwurst in town. The listed building and early opening hours give it a real working-Munich feel.",
+      "tip": "Come early: it opens around 6:30 on weekdays and closes in the afternoon, and Weißwurst is traditionally eaten before noon. Take the U3 or U6 to Implerstraße.",
+      "q": "Gaststätte Großmarkthalle, Kochelseestraße 13, München", "ll": [48.1186, 11.5534],
+      "src": ["https://www.timeout.com/munich/restaurants/gaststaette-grossmarkt", "https://www.muenchenwiki.de/wiki/Gastst%C3%A4tte_Gro%C3%9Fmarkthalle", "https://muenchen.mitvergnuegen.com/2026/weisswurst-essen-muenchen/"]
+    },
+    {
+      "id": "mvbraeustuben", "cat": "ye", "area": "viertel",
+      "title": "Drink Augustiner right next to the brewery",
+      "desc": "Augustiner, the city's oldest brewery still in business, moved to Landsberger Straße in the Westend in 1884, and the Augustiner Bräustuben sit right beside it. The beer comes from wooden barrels next door, and the hearty Bavarian food draws a mostly local crowd.",
+      "tip": "From 10 to 13 the Zwickel Frühschoppen offers Weißwurst, Wiener or a pretzel with Obazda for a couple of euros. It is open daily from 10 until midnight.",
+      "q": "Augustiner Bräustuben, Landsberger Straße 19, München", "ll": [48.1392, 11.5456],
+      "src": ["https://www.braeustuben.de/", "https://de.wikipedia.org/wiki/Augustiner-Br%C3%A4u"]
+    },
+    {
+      "id": "mvreichenbachkiosk", "cat": "ye", "area": "viertel",
+      "title": "Grab a late beer at the Reichenbach bridge kiosk",
+      "desc": "The kiosk at the Reichenbachbrücke, on Fraunhoferstraße where the Glockenbachviertel meets the Isar, has stood here for over a century and has cult status. It closes for only about an hour a day, and on warm nights the queue for its wide beer selection stretches along the pavement.",
+      "tip": "Take your bottle down to the river banks below the bridge, the classic Munich summer evening. Expect a wait on weekend nights.",
+      "q": "Fraunhoferstraße 46, München", "ll": [48.1289, 11.5788],
+      "src": ["https://www.platzl.de/en/magazine/detail/munichs-famous-reichenbach-bridge-kiosk", "https://www.muenchen.de/en/sights/reichenbachbrucke", "https://www.mux.de/Kiosk-Reichenbachbruecke"]
+    },
+    {
+      "id": "mvvillastuck", "cat": "gor", "area": "viertel",
+      "title": "Step into the painter-prince's Villa Stuck",
+      "desc": "Franz von Stuck designed this villa on Prinzregentenstraße in the late 1890s as his home, studio and total work of art, with dark, richly decorated reception rooms. It is now a city museum, reopened in May 2026 after renovation, showing Stuck's rooms alongside contemporary exhibitions.",
+      "tip": "Check the programme before you go, as the shows in the Neues Atelier change several times a year.",
+      "q": "Museum Villa Stuck, Prinzregentenstraße 60, München", "ll": [48.1405, 11.5995],
+      "tags": ["rainy day"],
+      "src": ["https://www.muenchen.de/aktuell/museen/villa-stuck-feiert-am-14-mai-wiedereroeffnung", "https://www.muenchen.de/en/node/139239"]
+    },
+    {
+      "id": "mvfuenfkontinente", "cat": "gor", "area": "viertel",
+      "title": "See the world's oldest kayak at Museum Fünf Kontinente",
+      "desc": "Founded in 1862, this was the first ethnological museum in Germany, housed since the 1920s in Eduard Riedel's grand building on Maximilianstraße. Its more than 160,000 objects include Benin bronzes, Yoruba veranda posts and the oldest surviving kayak in the world, dated to 1577.",
+      "tip": "Afterwards walk on down Maximilianstraße to the Isar bridges and the Maximilianeum.",
+      "q": "Museum Fünf Kontinente, Maximilianstraße 42, München", "ll": [48.1376, 11.5857],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Museum_F%C3%BCnf_Kontinente"]
+    },
+    {
+      "id": "mvkrippen", "cat": "gor", "area": "viertel",
+      "title": "Admire the nativity scenes in the Bayerisches Nationalmuseum",
+      "desc": "Gabriel von Seidl's palace of a museum on Prinzregentenstraße opened in 1900 and holds the world's most important group of Tilman Riemenschneider carvings. Its crib collection, donated by banker Max Schmederer, is considered the largest and finest anywhere, with Alpine and Italian nativity scenes from the 18th to the 20th century.",
+      "tip": "Come in Advent, when the cribs feel most at home. The medieval halls reopened in spring 2026 after years of closure.",
+      "q": "Bayerisches Nationalmuseum, Prinzregentenstraße 3, München", "ll": [48.1432, 11.5910],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Bayerisches_Nationalmuseum", "https://www.muenchen.de/sehenswuerdigkeiten/museen/aktuell/wiedereroeffnung-mittelalter-saele-bayerisches-nationalmuseum"]
+    },
+    {
+      "id": "mvheiligkreuz", "cat": "gor", "area": "viertel",
+      "title": "Look up at Heilig Kreuz on the Giesinger Berg",
+      "desc": "Built from 1866 to 1886 to designs by Georg von Dollmann, this neo-Gothic church stands at the top of the Giesing slope. Its 95 metre tower reaches higher above sea level than the Frauenkirche, the highest church tower point in the city, and its outline appears in the logo of the nearby Giesinger Bräu.",
+      "tip": "Combine it with a beer at Giesinger Bräu a few streets away, and look back at the tower from the slope below.",
+      "q": "Heilig Kreuz, Ichostraße, München", "ll": [48.1164, 11.5778],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Heilig_Kreuz_(Giesing)"]
+    },
+    {
+      "id": "mvwalkingman", "cat": "gor", "area": "viertel",
+      "title": "Stand at the feet of the Walking Man",
+      "desc": "Jonathan Borofsky's 17 metre white figure has been striding along Leopoldstraße in Schwabing since 1995. Weighing 16 tonnes, it stands beside the Munich Re offices and has become a landmark of the boulevard.",
+      "tip": "Stand right at its feet and look up for the full scale. It is a short walk north of the Siegestor on the way to Münchner Freiheit.",
+      "q": "Walking Man, Leopoldstraße, München", "ll": [48.1564, 11.5844],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Walking_Man_(Borofsky)"]
+    },
+    {
+      "id": "mvverkehrszentrum", "cat": "gor", "area": "viertel",
+      "title": "Explore transport history at the Verkehrszentrum",
+      "desc": "The Deutsches Museum's transport branch fills three exhibition halls from 1908 on the Theresienhöhe with about 275 locomotives, cars, motorbikes, bicycles and carriages. Highlights include the first Benz motor car, the streamlined Rumpler Tropfenwagen and a reconstructed station platform with period trains.",
+      "tip": "Children love the S-Bahn simulator and the tube slide. Afterwards stroll through the Bavariapark next door.",
+      "q": "Deutsches Museum Verkehrszentrum, Am Bavariapark 5, München", "ll": [48.1328, 11.5433],
+      "tags": ["rainy day"],
+      "src": ["https://www.muenchen.de/en/sights/museums/deutsches-museum-verkehrszentrum", "https://www.deutsches-museum.de/en/verkehrszentrum/visit/opening-hours"]
+    },
+    {
+      "id": "mvbogenhausenfriedhof", "cat": "gor", "area": "viertel",
+      "title": "Find Kästner and Fassbinder in the Bogenhausen churchyard",
+      "desc": "Beside the late baroque church of St. Georg on Bogenhauser Kirchplatz lies one of Munich's smallest cemeteries, with only around 200 graves. Writer Erich Kästner, film director Rainer Werner Fassbinder and actress Liesl Karlstadt are buried here.",
+      "tip": "It sits on the high bank above the Isar near the Friedensengel. It is still an active parish cemetery, so visit quietly.",
+      "q": "Friedhof Bogenhausen, Bogenhauser Kirchplatz, München", "ll": [48.1479, 11.6015],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Friedhof_Bogenhausen"]
+    },
+    {
+      "id": "mvolydorf", "cat": "gor", "area": "viertel",
+      "title": "Stroll past the painted bungalows of the Olympic Village",
+      "desc": "In the southern part of the 1972 Olympic Village, where female athletes once stayed, more than 1,000 tiny student bungalows line car-free lanes. Residents may paint their own facades, so almost every little concrete house carries its own mural.",
+      "tip": "These are people's homes, so look but keep to the paths. The memorial site for the 1972 Olympic attack lies just south of the village.",
+      "q": "Studentenviertel Olympisches Dorf, Connollystraße, München", "ll": [48.1792, 11.5523],
+      "tags": ["free"],
+      "src": ["https://olympiapark.muenchen.de/en/olympiapark/olympisches-dorf.html", "https://de.wikipedia.org/wiki/Olympisches_Dorf_(M%C3%BCnchen)", "https://studierendenwerk-muenchen-oberbayern.de/fileadmin/studierendenwerk-muenchen-oberbayern/bereiche/wohnen/wohnheime/00_dateien/richtlinie_bungalows_english.pdf"]
+    },
+    {
+      "id": "mvalpinesmuseum", "cat": "gor", "area": "viertel",
+      "title": "Visit the Alpine Museum on the Praterinsel",
+      "desc": "On the Praterinsel in the middle of the Isar, the German Alpine Club's museum reopened in 2024 after a three-year rebuild. The new permanent exhibition Darum Berge explores why people are drawn to the mountains, and the redesigned garden opened in 2025.",
+      "tip": "It is open Tuesday to Sunday from 10 to 18. Afterwards follow the river paths along the island and the Isar banks.",
+      "q": "Alpines Museum, Praterinsel 5, München", "ll": [48.1353, 11.5891],
+      "tags": ["rainy day"],
+      "src": ["https://www.alpenverein.de/verband/presse/pressemeldungen/moderner-offener-barrierefreier-alpines-museum-in-muenchen-oeffnet-wieder", "https://www.alpenverein.de/museum/english"]
+    },
+    {
+      "id": "mvdantebad", "cat": "dene", "area": "viertel",
+      "title": "Swim outdoors in winter at the Dantebad",
+      "desc": "Opened in 1913 and the venue for Olympic water polo in 1972, the Dantebad in Neuhausen is the only Munich pool where you can swim lengths outdoors all winter. Its 50 metre pool is heated to about 30 degrees, so steam rises off the water on frosty days.",
+      "tip": "Go after dark when the pool is lit and the air is cold. Check hours and prices on the SWM website, as they change between seasons.",
+      "q": "Dantebad, München", "ll": [48.1669, 11.5310],
+      "src": ["https://de.wikipedia.org/wiki/Dantebad", "https://www.swm.de/privatkunden/m-baeder/schwimmen/hallenbaeder/dante-winter-warmfreibad.html"]
+    },
+    {
+      "id": "mvprinzregentenstadion", "cat": "dene", "area": "viertel",
+      "title": "Skate under the open sky at the Prinzregentenstadion",
+      "desc": "When it opened in December 1933, the Prinzregentenstadion in Bogenhausen was the first open-air artificial ice rink in southern Germany. Every winter it still draws tens of thousands of skaters, and lanes for Eisstockschießen, Bavarian curling, can be booked too.",
+      "tip": "The season usually starts in November once it is cold enough for stable ice. Groups should book an Eisstock lane ahead.",
+      "q": "Prinzregentenstadion, Prinzregentenstraße 80, München", "ll": [48.1394, 11.6036],
+      "months": [11, 12, 1, 2],
+      "src": ["https://de.wikipedia.org/wiki/Prinzregentenstadion", "https://www.swm.de/privatkunden/m-baeder/eislaufen"]
+    },
+    {
+      "id": "mvrockyhorror", "cat": "dene", "area": "viertel",
+      "title": "Do the Time Warp at the Museum Lichtspiele",
+      "desc": "Opened in 1910, the Museum Lichtspiele by the Isar is Munich's oldest cinema still running. The Rocky Horror Picture Show had its German premiere here in 1977 and has played every Friday and Saturday night since, in the red plush Saal 2.",
+      "tip": "Shows start at 23:00, so make a night of it with dinner in the Au first. The cinema also screens many films in original version.",
+      "q": "Museum Lichtspiele, Lilienstraße 2, München", "ll": [48.1310, 11.5875],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Museum_Lichtspiele", "https://www.munich.travel/en/pois/arts-culture/museum-lichtspiele"]
+    },
+    {
+      "id": "mvunterfahrt", "cat": "dene", "area": "viertel",
+      "title": "Join the Sunday jam at the Jazzclub Unterfahrt",
+      "desc": "Since 1998 the Unterfahrt has filled the vaulted cellars of the former Unionsbrauerei in Haidhausen, with concerts on most nights. On Sunday evenings an open jam session gives local players and visiting musicians the stage.",
+      "tip": "Musicians can bring an instrument; motivated beginners are welcome. Check unterfahrt.de, as hosts and times change.",
+      "q": "Jazzclub Unterfahrt, Einsteinstraße 42, München", "ll": [48.1354, 11.6009],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Jazzclub_Unterfahrt", "https://www.in-muenchen.de/?p=1105239"]
+    },
+    {
+      "id": "mvtheatron", "cat": "dene", "area": "viertel",
+      "title": "Hear free open-air concerts at the Theatron",
+      "desc": "Every August the stone amphitheatre on the shore of the Olympiasee hosts the Theatron MusikSommer, about three weeks of free concerts by mostly young bands. You sit on the steps with the lake in front and the Olympiapark all around.",
+      "tip": "Concerts usually start at 19:00; arrive early for a good spot on the steps. Food and drinks are sold on site.",
+      "q": "Theatron, Olympiapark, München", "ll": [48.1731, 11.5506],
+      "months": [7, 8],
+      "tags": ["free"],
+      "src": ["https://www.muenchen.de/veranstaltungen/freizeit/feste-festivals/theatron-musiksommer-2026"]
+    },
+    {
+      "id": "mvumadum", "cat": "dene", "area": "viertel",
+      "title": "Ride the Umadum wheel over the Werksviertel",
+      "desc": "In the Werksviertel creative quarter by the Ostbahnhof stands Umadum, about 78 metres tall and listed by Guinness as the largest transportable Ferris wheel in the world. One slow turn takes half an hour, with wide views over the city.",
+      "tip": "It is usually closed on Mondays, and strong wind can stop it at short notice. Afterwards explore the street art and bars of the Werksviertel.",
+      "q": "Umadum, Werksviertel, München", "ll": [48.1249, 11.6069],
+      "src": ["https://www.muenchen.de/sehenswuerdigkeiten/aussichtspunkte/umadum-muenchen"]
+    },
+    {
+      "id": "mvbahnwaerterthiel", "cat": "dene", "area": "viertel",
+      "title": "Explore the old U-Bahn cars of Bahnwärter Thiel",
+      "desc": "On the old Südbahnhof grounds in the Schlachthofviertel, Bahnwärter Thiel has turned decommissioned Munich U-Bahn cars, a crane with a disco ball, old gondolas and a railway carriage into a cultural playground. Concerts, club nights, flea markets and puppet shows fill the calendar.",
+      "tip": "In Advent the free Mondscheinexpress winter festival runs here with comedy, concerts and markets.",
+      "q": "Bahnwärter Thiel, Tumblingerstraße 45, München", "ll": [48.1222, 11.5551],
+      "src": ["https://www.muenchen.de/veranstaltungen/veranstaltungsorte/bahnwaerter-thiel", "https://www.in-muenchen.de/?p=1095762"]
+    }
+  ]
+}

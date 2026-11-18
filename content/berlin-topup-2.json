@@ -1,0 +1,969 @@
+{
+  "new": [
+    {
+      "id": "bojuedischesmuseum",
+      "cat": "gor",
+      "area": "ost",
+      "title": "Walk over the fallen leaves in the Jüdisches Museum",
+      "desc": "Daniel Libeskind's zigzag building, opened in 2001, connects to the baroque Kollegienhaus only underground and is cut through by tall empty voids. In the Memory Void, Menashe Kadishman's Shalekhet covers the floor with 10,000 steel faces that clank as you step on them.",
+      "tip": "Do the underground axes and the tilted Garden of Exile before the main exhibition, they set the tone. Allow at least three hours.",
+      "q": "Jüdisches Museum Berlin, Lindenstraße 9-14, Berlin",
+      "ll": [
+        52.5022,
+        13.3951
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/Jewish_Museum_Berlin"
+      ]
+    },
+    {
+      "id": "botechnikmuseum",
+      "cat": "gor",
+      "area": "ost",
+      "title": "Spot the Raisin Bomber on the Technikmuseum roof",
+      "desc": "The German Museum of Technology fills a former freight yard of the Anhalter Bahnhof, including two historic locomotive roundhouses packed with engines. A US C-47 'Rosinenbomber' from the Berlin Airlift is mounted on the roof, and inside you find a replica of Konrad Zuse's Z1 computer and the Cessna that Mathias Rust landed on Red Square.",
+      "tip": "The railway sheds alone take an afternoon. The hands-on Science Center Spectrum next door is included in the ticket and is a lifesaver with kids.",
+      "q": "Deutsches Technikmuseum, Trebbiner Straße 9, Berlin",
+      "ll": [
+        52.4972,
+        13.3759
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/German_Museum_of_Technology"
+      ]
+    },
+    {
+      "id": "boriehmershofgarten",
+      "cat": "gor",
+      "area": "ost",
+      "title": "Slip through the gateway into Riehmers Hofgarten",
+      "desc": "Behind a grand arch on Yorckstraße, builder Wilhelm Riehmer created a private tree-lined lane running right through the block to Hagelberger Straße. The ornate Gründerzeit houses around it hold about 300 flats and are one of the finest late 19th century ensembles in Kreuzberg.",
+      "tip": "Enter from Yorckstraße opposite the old district hall and leave by Hagelberger Straße. It is a lived-in courtyard, so keep your voice down.",
+      "q": "Riehmers Hofgarten, Yorckstraße, Berlin",
+      "ll": [
+        52.4925,
+        13.3843
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://de.wikipedia.org/wiki/Yorckstra%C3%9Fe"
+      ]
+    },
+    {
+      "id": "bohohenschoenhausen",
+      "cat": "gor",
+      "area": "ost",
+      "title": "Tour the Stasi prison at Hohenschönhausen with a former inmate",
+      "desc": "This was first a Soviet special camp in 1945, then the Soviet secret police's remand prison with windowless basement cells known as the U-Boot, and from 1951 to 1989 the central Stasi remand prison. Many of the guides were held here themselves as political prisoners.",
+      "tip": "You can only see the cells on a guided tour, so book ahead online. Tram M5 or M6 to Freienwalder Straße gets you close.",
+      "q": "Gedenkstätte Berlin-Hohenschönhausen, Genslerstraße 66, Berlin",
+      "ll": [
+        52.5417,
+        13.5014
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://de.wikipedia.org/wiki/Gedenkst%C3%A4tte_Berlin-Hohensch%C3%B6nhausen"
+      ]
+    },
+    {
+      "id": "bokarlshorst",
+      "cat": "gor",
+      "area": "ost",
+      "title": "Stand in the hall where the war in Europe ended",
+      "desc": "In this former officers' mess in Karlshorst the German armed forces signed their unconditional surrender on the night of 8 May 1945. The hall is kept in its original state, and Soviet tanks and guns stand outside on the grounds.",
+      "tip": "Entry is free. Pair it with a walk through the villa streets of Karlshorst, a quiet corner most visitors never see.",
+      "q": "Museum Berlin-Karlshorst, Zwieseler Straße 4, Berlin",
+      "ll": [
+        52.4861,
+        13.5398
+      ],
+      "tags": [
+        "free",
+        "rainy day"
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/German-Russian_Museum_Berlin-Karlshorst"
+      ]
+    },
+    {
+      "id": "boschlosskoepenick",
+      "cat": "gor",
+      "area": "ost",
+      "title": "Visit the water palace of Köpenick on its island",
+      "desc": "A baroque palace on an island in the Dahme, rebuilt from 1677 on the site of a hunting lodge and a Slavic castle. In 1730 Crown Prince Frederick and his friend Katte were court-martialled here, and today it holds the Kunstgewerbemuseum's collection of Renaissance to Rococo interiors.",
+      "tip": "Walk round the palace park to the tip of the island for the view up the Dahme, then cross into the old town.",
+      "q": "Schloss Köpenick, Schloßinsel 1, Berlin",
+      "ll": [
+        52.4439,
+        13.5727
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/K%C3%B6penick_Palace"
+      ]
+    },
+    {
+      "id": "bohauptmannkoepenick",
+      "cat": "gor",
+      "area": "ost",
+      "title": "Meet the Captain of Köpenick at the town hall",
+      "desc": "On 16 October 1906 the shoemaker Wilhelm Voigt put on a captain's uniform, took command of a squad of soldiers and occupied this town hall, arresting the mayor and walking off with over 4,000 marks. A bronze statue of him now stands at the brick Rathaus.",
+      "tip": "Have your photo taken with him, then step into the courtyard and the old town lanes behind it.",
+      "q": "Rathaus Köpenick, Alt-Köpenick 21, Berlin",
+      "ll": [
+        52.4454,
+        13.5752
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/Captain_of_K%C3%B6penick"
+      ]
+    },
+    {
+      "id": "bohufeisensiedlung",
+      "cat": "gor",
+      "area": "ost",
+      "title": "Walk the Horseshoe Estate in Britz",
+      "desc": "Bruno Taut and Martin Wagner built this estate from 1925, with a 350 metre long horseshoe of flats curving around an Ice Age pond. Strong colours on facades, doors and windows were part of the plan, and since 2008 it is one of Berlin's UNESCO-listed modernist housing estates.",
+      "tip": "Come in spring when the gardens inside the horseshoe are in bloom, and wander the terraced streets around it too.",
+      "q": "Hufeisensiedlung, Fritz-Reuter-Allee, Berlin",
+      "ll": [
+        52.448,
+        13.4482
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/Hufeisensiedlung"
+      ]
+    },
+    {
+      "id": "bosehitlik",
+      "cat": "gor",
+      "area": "ost",
+      "title": "Look up at the domes of the Şehitlik Mosque",
+      "desc": "Built between 1999 and 2005 in the style of classical Ottoman architecture, with a main dome over 21 metres high and two slim minarets. It stands next to the Turkish cemetery, laid out in 1866 as a burial ground for Ottoman diplomats.",
+      "tip": "Visitors are welcome outside prayer times; dress modestly and take your shoes off. It sits on Columbiadamm at the edge of Tempelhofer Feld.",
+      "q": "Şehitlik-Moschee, Columbiadamm 128, Berlin",
+      "ll": [
+        52.4815,
+        13.4097
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://de.wikipedia.org/wiki/%C5%9Eehitlik-Moschee"
+      ]
+    },
+    {
+      "id": "bomarzahnermuehle",
+      "cat": "gor",
+      "area": "ost",
+      "title": "See flour ground by wind at the Marzahn mill",
+      "desc": "On the green of old Marzahn village, surrounded by prefab towers, stands a working post mill built in 1994 by a Dutch millwright. With good wind it can grind up to a tonne of rye or wheat a day.",
+      "tip": "Check the mill's open days for a guided look inside. The old village with its church and cobbles makes a surprising contrast to the high-rises.",
+      "q": "Bockwindmühle Marzahn, Hinter der Mühle 4, Berlin",
+      "ll": [
+        52.544,
+        13.5635
+      ],
+      "src": [
+        "https://de.wikipedia.org/wiki/Bockwindm%C3%BChle_Marzahn"
+      ]
+    },
+    {
+      "id": "boschlossbiesdorf",
+      "cat": "gor",
+      "area": "ost",
+      "title": "See an art show in Schloss Biesdorf",
+      "desc": "This Italianate tower villa from 1868 belonged to the Siemens family before it burned out in 1945. Fully rebuilt and reopened in 2016, it is now a municipal gallery with a café, set in a park laid out at the same time as the house.",
+      "tip": "Combine it with a walk in the park; U5 Elsterwerdaer Platz is a few minutes away.",
+      "q": "Schloss Biesdorf, Alt-Biesdorf 55, Berlin",
+      "ll": [
+        52.5098,
+        13.5577
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://de.wikipedia.org/wiki/Schloss_Biesdorf"
+      ]
+    },
+    {
+      "id": "bohallescherfriedhof",
+      "cat": "gor",
+      "area": "ost",
+      "title": "Find Mendelssohn's grave by the Hallesches Tor",
+      "desc": "The six cemeteries in front of the old Halle Gate have been used since the 18th century. Felix Mendelssohn Bartholdy and Rahel Varnhagen lie in one, E.T.A. Hoffmann and Adelbert von Chamisso in another, among overgrown family tombs.",
+      "tip": "Enter from Mehringdamm 21 or Zossener Straße. It is a peaceful break from the Mehringdamm traffic and the queues at the snack bars.",
+      "q": "Friedhöfe vor dem Halleschen Tor, Mehringdamm 21, Berlin",
+      "ll": [
+        52.4952,
+        13.3905
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://de.wikipedia.org/wiki/Friedh%C3%B6fe_vor_dem_Halleschen_Tor"
+      ]
+    },
+    {
+      "id": "boindustriesalon",
+      "cat": "gor",
+      "area": "ost",
+      "title": "Learn how Schöneweide became Elektropolis",
+      "desc": "Oberschöneweide was one of Berlin's great electrical industry districts, from AEG to the East German tube and transformer works. The Industriesalon, a small museum run by an association, shows machines for making electron tubes and some 50,000 photographs of the factories.",
+      "tip": "Join one of their walking tours through the brick factory halls along the Spree, many now turned into studios and offices.",
+      "q": "Industriesalon Schöneweide, Reinbeckstraße 10, Berlin",
+      "ll": [
+        52.4602,
+        13.519
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://de.wikipedia.org/wiki/Industriesalon_Sch%C3%B6neweide"
+      ]
+    },
+    {
+      "id": "bokindl",
+      "cat": "gor",
+      "area": "ost",
+      "title": "See contemporary art in the old Kindl brewery",
+      "desc": "The brick buildings of the former Kindl brewery in Neukölln now house KINDL, a centre for contemporary art. The tall Kesselhaus, the old boiler house, is given over to one huge installation at a time.",
+      "tip": "It opens Wednesday to Sunday from noon. The café and beer garden on the site are worth a stop even without a ticket.",
+      "q": "KINDL Zentrum für zeitgenössische Kunst, Am Sudhaus 3, Berlin",
+      "ll": [
+        52.4795,
+        13.4313
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://www.kindl-berlin.de"
+      ]
+    },
+    {
+      "id": "bohasir",
+      "cat": "ye",
+      "area": "ost",
+      "title": "Eat a Döner at Hasir on Adalbertstraße",
+      "desc": "Hasir's founder Mehmet Aygün said he started serving Döner in bread in Kreuzberg in 1971, one of several rival claims to having invented the Berlin classic. The family business now runs several branches, with its Kreuzberg home on Adalbertstraße.",
+      "tip": "Sit down for an İskender if you want more than a sandwich. The bread is baked on the premises.",
+      "q": "Hasir, Adalbertstraße 10, Berlin",
+      "ll": [
+        52.5009,
+        13.4192
+      ],
+      "src": [
+        "https://visitberlin.de/en/hasir",
+        "https://www.the-berliner.com/berlin/hasir-titanic-hunger/"
+      ]
+    },
+    {
+      "id": "boazzam",
+      "cat": "ye",
+      "area": "ost",
+      "title": "Scoop up hummus at Azzam on Sonnenallee",
+      "desc": "Sonnenallee is Berlin's Arab high street, and this plain Lebanese place is where many locals go for hummus, warm with fava beans or meat, with a stack of flatbread. Portions are large and prices low.",
+      "tip": "It gets packed at lunchtime and on weekends; tables turn quickly. In summer you can sit on benches outside.",
+      "q": "Azzam, Sonnenallee 54, Berlin",
+      "ll": [
+        52.485,
+        13.4328
+      ],
+      "src": [
+        "https://www.visitberlin.de/en/azzam",
+        "https://www.zuckerjagdwurst.com/en/posts/berlin-guide/10-best-falafel-humus-spots-in-berlin"
+      ]
+    },
+    {
+      "id": "bomaxundmoritz",
+      "cat": "ye",
+      "area": "ost",
+      "title": "Order Königsberger Klopse at Max und Moritz",
+      "desc": "This listed old Berlin inn on Oranienstraße has been serving since 1902, under tiled walls, Art Nouveau details and reliefs of Wilhelm Busch's two rascals. The kitchen sticks to Prussian classics such as meatballs in caper sauce and beef roulades.",
+      "tip": "It opens in the evening only, from 6 pm. Book at weekends.",
+      "q": "Max und Moritz, Oranienstraße 162, Berlin",
+      "ll": [
+        52.5026,
+        13.414
+      ],
+      "src": [
+        "https://www.maxundmoritzberlin.de",
+        "https://www.top10berlin.de/de/cat/essen-267/berliner-restaurants-407/wirtshaus-max-und-moritz-79"
+      ]
+    },
+    {
+      "id": "boyorckschloesschen",
+      "cat": "ye",
+      "area": "ost",
+      "title": "Hear live jazz at the Yorckschlösschen",
+      "desc": "A corner pub on Yorckstraße that opened in 1885 as a Viennese café and has long been a Kreuzberg institution for jazz, blues and soul. Bands play from Wednesday to Saturday evening, and the hat goes round for the musicians.",
+      "tip": "Come an hour early if you want to eat and get a table. The suggested contribution for the band is 5 to 10 euros.",
+      "q": "Yorckschlösschen, Yorckstraße 15, Berlin",
+      "ll": [
+        52.4936,
+        13.3823
+      ],
+      "src": [
+        "https://www.yorckschloesschen.de",
+        "https://www.berliner-zeitung.de/article/das-yorckschloesschen-feiert-30-jaehriges-jubilaeum-inhaber-olaf-daehmlow-fing-dort-als-putzkraft-an-ein-freund-der-kaschemme-771862"
+      ]
+    },
+    {
+      "id": "boclubdervisionaere",
+      "cat": "ye",
+      "area": "ost",
+      "title": "Drink on the planks at Club der Visionaere",
+      "desc": "A wooden deck and an old boathouse under a willow on the Flutgraben canal, where people lounge with a drink by day and electronic music plays into the night. It is one of Berlin's best-loved summer spots by the water.",
+      "tip": "Open in the warm months only. Come on a weekday afternoon for a calmer drink before the dance crowd arrives.",
+      "q": "Club der Visionaere, Am Flutgraben 1, Berlin",
+      "ll": [
+        52.4968,
+        13.4505
+      ],
+      "months": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "src": [
+        "https://visitberlin.de/en/club-der-visionare"
+      ]
+    },
+    {
+      "id": "bofiveelephant",
+      "cat": "ye",
+      "area": "ost",
+      "title": "Have cheesecake and coffee at Five Elephant",
+      "desc": "Five Elephant opened its first café in December 2010 on a quiet dead-end stretch of Reichenberger Straße and roasts its own beans nearby. Its creamy cheesecake has a cult following across the city.",
+      "tip": "Arrive early at weekends, the cheesecake often runs out by the afternoon.",
+      "q": "Five Elephant, Reichenberger Straße 101, Berlin",
+      "ll": [
+        52.4934,
+        13.4383
+      ],
+      "src": [
+        "https://www.fiveelephant.com"
+      ]
+    },
+    {
+      "id": "bocaferix",
+      "cat": "ye",
+      "area": "ost",
+      "title": "Have Sunday brunch in the courtyard of Café Rix",
+      "desc": "Hidden in a courtyard off busy Karl-Marx-Straße, Café Rix sits in a building whose story starts with a salon and dance hall of 1876. The restored rooms have gilded stucco and big mirrors, and the courtyard terrace fills up on sunny days.",
+      "tip": "Book for Sunday brunch. The Heimathafen theatre uses the old ballroom in the same building if you want to make an evening of it.",
+      "q": "Café Rix, Karl-Marx-Straße 141, Berlin",
+      "ll": [
+        52.4771,
+        13.4397
+      ],
+      "src": [
+        "https://www.caferix.de",
+        "https://www.berlin.de/tourismus-neukoelln/entdecken/artikel.1153651.php"
+      ]
+    },
+    {
+      "id": "bohenne",
+      "cat": "ye",
+      "area": "ost",
+      "title": "Eat half a chicken at Henne",
+      "desc": "This Alt-Berliner Wirtshaus by the former course of the Wall is more than a hundred years old and does essentially one thing: crisp fried chicken, with potato or cabbage salad and a beer. The dark wood interior has barely changed.",
+      "tip": "Reserve, as it is often full, and don't come hoping for a long menu.",
+      "q": "Henne Alt-Berliner Wirtshaus, Leuschnerdamm 25, Berlin",
+      "ll": [
+        52.5042,
+        13.4178
+      ],
+      "src": [
+        "https://www.henne-berlin.de"
+      ]
+    },
+    {
+      "id": "bobarcomis",
+      "cat": "ye",
+      "area": "ost",
+      "title": "Have a bagel and cake at Barcomi's",
+      "desc": "Barcomi's has been baking American style in Kreuzberg since 1994, roasting its own coffee and selling cheesecake, cupcakes and bagels in a courtyard off Bergmannstraße. It was one of the first proper coffee houses of the new Berlin.",
+      "tip": "Look for the passage into the courtyard at Bergmannstraße 21. Weekend breakfast gets busy.",
+      "q": "Barcomi's, Bergmannstraße 21, Berlin",
+      "ll": [
+        52.489,
+        13.3934
+      ],
+      "src": [
+        "https://www.barcomis.de"
+      ]
+    },
+    {
+      "id": "bomarheineke",
+      "cat": "ye",
+      "area": "ost",
+      "title": "Graze through the Marheineke Markthalle",
+      "desc": "One of Berlin's old covered market halls, in the heart of the Bergmannkiez. Around 3,000 square metres of stalls sell cheese, fish, bread, regional organic produce and snacks from around the world.",
+      "tip": "Go at lunchtime and eat at the counters inside, then walk on to Chamissoplatz with its gas lamps.",
+      "q": "Marheineke Markthalle, Marheinekeplatz 15, Berlin",
+      "ll": [
+        52.4893,
+        13.3947
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://www.visitberlin.de/en/marheineke-markthalle"
+      ]
+    },
+    {
+      "id": "bohafenkueche",
+      "cat": "ye",
+      "area": "ost",
+      "title": "Eat by the boats at the Hafenküche in Rummelsburg",
+      "desc": "A restaurant at the marina on the Rummelsburger Bucht, where the Spree widens into a bay lined with houseboats. Weekday lunches are served in the canteen, and on fine days the Spreedeck looks over the water.",
+      "tip": "Walk there along the shore path from S-Bahn Rummelsburg; the bay is lovely at sunset.",
+      "q": "Hafenküche, Zur Alten Flussbadeanstalt 5, Berlin",
+      "ll": [
+        52.4914,
+        13.489
+      ],
+      "src": [
+        "https://www.hafenkueche.de"
+      ]
+    },
+    {
+      "id": "boruderfaehre",
+      "cat": "dene",
+      "area": "ost",
+      "title": "Get rowed across the Spree on the F24 ferry",
+      "desc": "One of Berlin's public transport lines is a ferry rowed by hand: the F24 crosses the Müggelspree between the old fishing village of Rahnsdorf and the Spreewiesen meadows in about five minutes. A normal BVG ticket is valid.",
+      "tip": "It only runs in the warmer months and not every day, so check the BVG timetable before you go. Combine it with a walk around the Müggelsee.",
+      "q": "Kruggasse, Rahnsdorf, Berlin",
+      "ll": [
+        52.4301,
+        13.6888
+      ],
+      "months": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "src": [
+        "https://www.bvg.de/de/verbindungen/linienuebersicht/f24"
+      ]
+    },
+    {
+      "id": "bofreiluftkinokreuzberg",
+      "cat": "dene",
+      "area": "ost",
+      "title": "Watch a film under the stars at Freiluftkino Kreuzberg",
+      "desc": "Every summer this open-air cinema sets up in the courtyard of the former Bethanien hospital on Mariannenplatz. Many films are shown in English or with subtitles.",
+      "tip": "Bring a blanket, it cools down after sunset. Screenings start when it gets dark, so later in high summer.",
+      "q": "Freiluftkino Kreuzberg, Mariannenplatz 2, Berlin",
+      "ll": [
+        52.5041,
+        13.4235
+      ],
+      "months": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "src": [
+        "https://www.freiluftkino-kreuzberg.de"
+      ]
+    },
+    {
+      "id": "botierpark",
+      "cat": "dene",
+      "area": "ost",
+      "title": "Spend a day in the Tierpark Friedrichsfelde",
+      "desc": "East Berlin opened this zoo in 1955 in the park of Schloss Friedrichsfelde, and at 160 hectares it is the largest landscape zoo in Europe. Highlights include the rainforest hall in the old Alfred-Brehm-Haus and the Himalaya landscape with snow leopards.",
+      "tip": "It is far too big for one visit, so pick a route. The baroque Schloss inside the grounds hosts concerts.",
+      "q": "Tierpark Berlin, Am Tierpark 125, Berlin",
+      "ll": [
+        52.5003,
+        13.5325
+      ],
+      "src": [
+        "https://de.wikipedia.org/wiki/Tierpark_Berlin"
+      ]
+    },
+    {
+      "id": "bomueggelturm",
+      "cat": "dene",
+      "area": "ost",
+      "title": "Climb the Müggelturm for a view over the lakes",
+      "desc": "This 30 metre tower on the Müggelberge was built in 1961 by students of the Weißensee art school after the old wooden tower burned down. From the top, up 126 steps, you look across the Müggelsee and the forests of Köpenick.",
+      "tip": "Climb the staircase up from the Teufelssee rather than driving to the car park. The hill staircases are closed in winter.",
+      "q": "Müggelturm, Berlin",
+      "ll": [
+        52.4173,
+        13.6251
+      ],
+      "src": [
+        "https://de.wikipedia.org/wiki/M%C3%BCggelturm"
+      ]
+    },
+    {
+      "id": "bogleisdreieck",
+      "cat": "dene",
+      "area": "ost",
+      "title": "Skate, play or picnic in Park am Gleisdreieck",
+      "desc": "On the former freight yards of the Anhalter and Potsdamer stations, this park opened in stages from 2011, with old tracks and signal boxes left among the grass. Elevated U-Bahn trains rumble across on viaducts while people play basketball, skate and lie in the meadows.",
+      "tip": "Start at the Ostpark beside the Technikmuseum and cross to the Westpark for beach volleyball and sunset.",
+      "q": "Park am Gleisdreieck, Ostpark, Berlin",
+      "ll": [
+        52.495,
+        13.3763
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://de.wikipedia.org/wiki/Park_am_Gleisdreieck"
+      ]
+    },
+    {
+      "id": "boprinzenbad",
+      "cat": "dene",
+      "area": "ost",
+      "title": "Swim lengths in the Prinzenbad",
+      "desc": "Kreuzberg's open-air pool opened in 1956 and has two 50 metre pools plus a huge pool for non-swimmers, with room for 9,000 bathers a day. It is a slice of the whole neighbourhood in summer, and a chapter of Sven Regener's novel Herr Lehmann is set here.",
+      "tip": "Go at opening time for empty lanes; on hot afternoons the lawn is packed.",
+      "q": "Sommerbad Kreuzberg, Prinzenstraße 113, Berlin",
+      "ll": [
+        52.4974,
+        13.4037
+      ],
+      "months": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "src": [
+        "https://de.wikipedia.org/wiki/Sommerbad_Kreuzberg"
+      ]
+    },
+    {
+      "id": "bobritzergarten",
+      "cat": "dene",
+      "area": "ost",
+      "title": "Catch the tulips in the Britzer Garten",
+      "desc": "Created for the 1985 federal garden show, this park of nearly 90 hectares has a large lake, a working windmill and a little park railway. Each spring the Tulipan show fills the beds with tulips.",
+      "tip": "Come in April or early May for the tulips. There is an entrance fee.",
+      "q": "Britzer Garten, Sangerhauser Weg 1, Berlin",
+      "ll": [
+        52.4338,
+        13.4173
+      ],
+      "months": [
+        4,
+        5
+      ],
+      "src": [
+        "https://de.wikipedia.org/wiki/Britzer_Garten"
+      ]
+    },
+    {
+      "id": "boufafabrik",
+      "cat": "dene",
+      "area": "ost",
+      "title": "Catch a show at the ufaFabrik in Tempelhof",
+      "desc": "In 1979 a group of young people occupied the old UFA film copying plant and turned it into a community with theatre, cabaret, variety, a café, an organic bakery and a children's farm. About 40 people still live on the site under its green roofs.",
+      "tip": "Even without a show, wander the grounds, see the animals and buy bread from the bakery. U6 Ullsteinstraße is close by.",
+      "q": "ufaFabrik, Viktoriastraße 10, Berlin",
+      "ll": [
+        52.4541,
+        13.3817
+      ],
+      "src": [
+        "https://de.wikipedia.org/wiki/UfaFabrik"
+      ]
+    },
+    {
+      "id": "boparkeisenbahn",
+      "cat": "dene",
+      "area": "ost",
+      "title": "Ride the children's railway in the Wuhlheide",
+      "desc": "The Parkeisenbahn opened in 1956 as East Berlin's Pioneer railway and still runs on a 7.5 km narrow-gauge line through the forest. Children and teenagers work as conductors, signallers and train leaders.",
+      "tip": "It runs from spring to autumn, mostly at weekends; start at the Hauptbahnhof by the FEZ.",
+      "q": "Parkeisenbahn Wuhlheide Hauptbahnhof, An der Wuhlheide 189, Berlin",
+      "ll": [
+        52.4581,
+        13.5434
+      ],
+      "months": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "src": [
+        "https://de.wikipedia.org/wiki/Berliner_Parkeisenbahn"
+      ]
+    },
+    {
+      "id": "boneukoellneroper",
+      "cat": "dene",
+      "area": "ost",
+      "title": "See new music theatre at the Neuköllner Oper",
+      "desc": "Founded in 1977, the Neuköllner Oper plays in an old ballroom on Karl-Marx-Straße and stages musical theatre somewhere between opera, musical and play. Productions often deal with life in the city today.",
+      "tip": "Tickets are much cheaper than at the big houses. Have dinner in the side streets of the Körnerkiez first.",
+      "q": "Neuköllner Oper, Karl-Marx-Straße 131-133, Berlin",
+      "ll": [
+        52.4776,
+        13.4393
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://de.wikipedia.org/wiki/Neuk%C3%B6llner_Oper"
+      ]
+    },
+    {
+      "id": "bwbrechtbuckow",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Visit Brecht's summer house in Buckow",
+      "desc": "Bertolt Brecht and Helene Weigel spent summers from 1952 at this villa on the Schermützelsee in the Märkische Schweiz, where Brecht wrote the Buckower Elegien in 1953. The boathouse displays the cart from the 1949 Berlin production of Mother Courage.",
+      "tip": "Pair the visit with a walk around the lake and the wooded hills of the Märkische Schweiz nature park.",
+      "q": "Brecht-Weigel-Haus, Bertolt-Brecht-Straße 30, Buckow",
+      "ll": [
+        52.5677,
+        14.063
+      ],
+      "src": [
+        "https://de.wikipedia.org/wiki/Brecht-Weigel-Haus"
+      ]
+    },
+    {
+      "id": "bwseelowerhoehen",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Look out over the Oderbruch from the Seelow Heights",
+      "desc": "In April 1945 the Red Army fought one of the bloodiest battles of the war here on its way to Berlin. A Soviet soldier statue from 1945 stands above the graves of thousands of soldiers, and the museum's permanent exhibition was renewed in 2012.",
+      "tip": "From the edge of the heights the flat Oderbruch stretches to the Polish border, which makes the scale of the battle clear.",
+      "q": "Gedenkstätte Seelower Höhen, Küstriner Straße 28a, Seelow",
+      "ll": [
+        52.5349,
+        14.3957
+      ],
+      "src": [
+        "https://de.wikipedia.org/wiki/Gedenkst%C3%A4tte_Seelower_H%C3%B6hen"
+      ]
+    },
+    {
+      "id": "bwschlossoranienburg",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Tour Schloss Oranienburg, the Mark's oldest baroque palace",
+      "desc": "Louise Henriette of Orange had a Dutch-style palace built here on the Havel from 1651, later expanded with a porcelain gallery. After use as a factory, a teachers' college and barracks, it was restored and has been a museum since 2001.",
+      "tip": "Walk through the palace park afterwards. Oranienburg is at the end of S-Bahn line S1.",
+      "q": "Schloss Oranienburg, Schloßplatz 1, Oranienburg",
+      "ll": [
+        52.7547,
+        13.2367
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://de.wikipedia.org/wiki/Schloss_Oranienburg"
+      ]
+    },
+    {
+      "id": "bwburgbeeskow",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Cross the moat into Burg Beeskow",
+      "desc": "A medieval moated castle on the Spree, first mentioned in 1316 and later a bishops' residence. It now houses a regional museum, a music museum and an archive of around 23,000 works of East German art.",
+      "tip": "Beeskow's old town is a short walk away, and the Spree here is good for canoeing.",
+      "q": "Burg Beeskow, Frankfurter Straße 23, Beeskow",
+      "ll": [
+        52.1705,
+        14.2522
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://de.wikipedia.org/wiki/Burg_Beeskow"
+      ]
+    },
+    {
+      "id": "bweisenhuettenstadt",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Step into East German everyday life in Eisenhüttenstadt",
+      "desc": "Eisenhüttenstadt was built from 1951 as East Germany's first planned socialist city. In a former crèche in the centre, the museum Utopie und Alltag holds about 170,000 everyday objects from the GDR, from furniture to packaging.",
+      "tip": "Walk the wide boulevards and residential courtyards around the museum, they are a monument in themselves.",
+      "q": "Museum Utopie und Alltag, Erich-Weinert-Allee 3, Eisenhüttenstadt",
+      "ll": [
+        52.1424,
+        14.6311
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://de.wikipedia.org/wiki/Dokumentationszentrum_Alltagskultur_der_DDR"
+      ]
+    },
+    {
+      "id": "bwprenzlau",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "See the brick lace gable of St. Marien in Prenzlau",
+      "desc": "Prenzlau's Marienkirche is a high point of North German brick Gothic, with an east gable of red and black glazed tracery. Burned out in 1945, it has been rebuilt since 1970, and 234 steps lead up the north tower.",
+      "tip": "Climb the tower for a view over the Uckersee and the rolling Uckermark.",
+      "q": "St. Marien, Prenzlau",
+      "ll": [
+        53.3136,
+        13.8566
+      ],
+      "src": [
+        "https://de.wikipedia.org/wiki/Marienkirche_(Prenzlau)"
+      ]
+    },
+    {
+      "id": "bwbernau",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Walk Bernau's town wall to the Steintor",
+      "desc": "Bernau still has about 1.3 km of its medieval wall, which helped the townspeople fight off a Hussite attack in 1432. The Steintor is the only one of its three gates to survive, joined to the Hunger Tower, and the executioner's house by the wall belongs to the local museum.",
+      "tip": "Look inside St. Marien for the winged altar from the Cranach school. The Hussitenfest fills the old town for three days each year.",
+      "q": "Steintor, Hussitenstraße 1, Bernau bei Berlin",
+      "ll": [
+        52.6786,
+        13.5919
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://de.wikipedia.org/wiki/Bernau_bei_Berlin",
+        "https://en.wikipedia.org/wiki/Bernau_bei_Berlin"
+      ]
+    },
+    {
+      "id": "bwkremmen",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Wander among the barns of Kremmen",
+      "desc": "After several town fires, the elector ordered in the 17th century that Kremmen's barns be built outside the walls. About 40 of the original 70 survive, making this the largest historic barn quarter in Germany.",
+      "tip": "Come on the first weekend of September for the harvest festival held among the barns.",
+      "q": "Scheunenviertel, Kremmen",
+      "ll": [
+        52.7571,
+        13.0288
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://de.wikipedia.org/wiki/Kremmen"
+      ]
+    },
+    {
+      "id": "bwtempelgarten",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Find the Apollo temple in Neuruppin's Tempelgarten",
+      "desc": "As crown prince, Frederick the Great kept a garden here, and in 1735 Knobelsdorff built him a round pavilion known as the Apollo temple. In the 1850s a merchant added a Moorish villa and a gardener's house with a minaret.",
+      "tip": "Then walk down to the Ruppiner See and Fontane's statue; Neuruppin is the writer's birthplace.",
+      "q": "Tempelgarten, Präsidentenstraße 64, Neuruppin",
+      "ll": [
+        52.9255,
+        12.8012
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://de.wikipedia.org/wiki/Neuruppin"
+      ]
+    },
+    {
+      "id": "bwspritzkuchen",
+      "cat": "ye",
+      "area": "cevre",
+      "title": "Eat an Eberswalder Spritzkuchen where it began",
+      "desc": "Confectioner Gustav Zietemann opened his shop in Eberswalde in 1832 and sold fried choux rings that became famous as Eberswalder Spritzkuchen. From 1842 he supplied them to the railway station, where a bronze statue of him now stands.",
+      "tip": "Local bakeries still sell them fresh; eat one on the spot, they are best warm.",
+      "q": "Eberswalde Hauptbahnhof, Eberswalde",
+      "ll": [
+        52.8339,
+        13.7971
+      ],
+      "src": [
+        "https://de.wikipedia.org/wiki/Eberswalde"
+      ]
+    },
+    {
+      "id": "bwgutkerkow",
+      "cat": "ye",
+      "area": "cevre",
+      "title": "Shop for Angus beef at Gut Kerkow",
+      "desc": "An organic farm near Angermünde where Black Angus cattle graze the Uckermark pastures and are butchered on site. The farm shop is open daily, even on Sundays, and the manor house rents holiday flats.",
+      "tip": "Bring a cool bag. The sausages and burger patties are the easiest things to take home.",
+      "q": "Gut Kerkow, Angermünde",
+      "ll": [
+        53.0354,
+        13.9872
+      ],
+      "src": [
+        "https://www.gut-kerkow.de"
+      ]
+    },
+    {
+      "id": "bwwildparkschorfheide",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "See wolves and wild horses in the Wildpark Schorfheide",
+      "desc": "A 105 hectare wildlife park near Groß Schönebeck in the Schorfheide-Chorin biosphere reserve. Wolves, bison, elk, lynx and Przewalski's horses live in large forest enclosures.",
+      "tip": "Walk the whole loop for the best chance of seeing the wolves; check the feeding times at the entrance.",
+      "q": "Wildpark Schorfheide, Prenzlauer Straße 16, Schorfheide",
+      "ll": [
+        52.9199,
+        13.5594
+      ],
+      "src": [
+        "https://de.wikipedia.org/wiki/Wildpark_Schorfheide"
+      ]
+    },
+    {
+      "id": "bwmarkgrafensteine",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Hike to the giant Markgrafensteine",
+      "desc": "In the Rauen hills lie two granite boulders carried from Sweden by Ice Age glaciers, the largest in Brandenburg. In 1827 the huge granite bowl that now stands in Berlin's Lustgarten was cut from the bigger one.",
+      "tip": "Walk up from Rauen through the pine forest; the boulders are a popular, signposted day trip.",
+      "q": "Großer Markgrafenstein, Rauen",
+      "ll": [
+        52.3195,
+        14.0352
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://de.wikipedia.org/wiki/Markgrafensteine"
+      ]
+    },
+    {
+      "id": "bwgrumsin",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Hike the UNESCO beech forest of Grumsin",
+      "desc": "Since 2011 the Grumsin beech forest near Angermünde has been part of the UNESCO world heritage site of ancient beech forests in Europe. Around 590 hectares of old beeches grow over hilly ice-age terrain with moors and small lakes.",
+      "tip": "Start from Altkünkendorf and stay on marked paths; it is spectacular in fresh May green and October gold.",
+      "q": "Altkünkendorf, Angermünde",
+      "ll": [
+        53.0082,
+        13.8768
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://de.wikipedia.org/wiki/Grumsiner_Forst"
+      ]
+    },
+    {
+      "id": "bwliepnitzsee",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Swim in the clear water of the Liepnitzsee",
+      "desc": "This forest lake north of Berlin is one of the cleanest in Brandenburg, with visibility of up to five metres. A small seasonal ferry runs to the wooded island of Großer Werder.",
+      "tip": "The Waldbad on the north shore has facilities; for quieter swims follow the shore path to a bay of your own.",
+      "q": "Waldbad Liepnitzsee, Wandlitz",
+      "ll": [
+        52.7475,
+        13.4945
+      ],
+      "months": [
+        6,
+        7,
+        8
+      ],
+      "src": [
+        "https://de.wikipedia.org/wiki/Liepnitzsee"
+      ]
+    },
+    {
+      "id": "bwstadtbruecke",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Walk across the Oder into Poland",
+      "desc": "The Stadtbrücke links Frankfurt (Oder) with Słubice on the Polish bank. About 70 percent of the bridge is on Polish territory, as the border follows the river's navigation channel.",
+      "tip": "Cross for coffee or lunch in Słubice and walk back at sunset for the view of the Frankfurt skyline.",
+      "q": "Stadtbrücke, Frankfurt (Oder)",
+      "ll": [
+        52.3478,
+        14.5555
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://de.wikipedia.org/wiki/Stadtbr%C3%BCcke_Frankfurt_(Oder)"
+      ]
+    },
+    {
+      "id": "bwtemplin",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Circle Templin inside its complete town wall",
+      "desc": "Templin's medieval wall is fully preserved, about 1,735 metres long and up to 7 metres high, with three gates and 50 of its original 54 half-round towers. A path runs all the way round.",
+      "tip": "Start at the Prenzlauer Tor and allow about an hour for the full loop.",
+      "q": "Prenzlauer Tor, Templin",
+      "ll": [
+        53.1206,
+        13.5035
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://de.wikipedia.org/wiki/Templin",
+        "https://en.wikipedia.org/wiki/Templin"
+      ]
+    }
+  ]
+}

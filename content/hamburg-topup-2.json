@@ -1,0 +1,254 @@
+{
+  "new": [
+    {
+      "id": "hcmatthies", "cat": "ye", "area": "cevre",
+      "title": "Eat a slice of fruit tart at Obsthof Matthies in Jork",
+      "desc": "This family fruit farm on the Elbe dyke in Jork is run by the fourth generation of fruit growers. Its café serves breakfast every day and a long counter of homemade cakes and tortes, and the farm shop sells its own fruit, jams, fruit brandies and liqueurs.",
+      "tip": "Sundays and public holidays bring a brunch, so book ahead in blossom and harvest season. Walk up onto the dyke afterwards to watch the ships on the Elbe.",
+      "q": "Obsthof Matthies, Am Elbdeich 31, Jork", "ll": [53.5448, 9.6753],
+      "src": ["https://www.hamburg-tourism.de/sehen-erleben/veranstaltungen/veranstaltungsorte/obsthof-matthies/"]
+    },
+    {
+      "id": "hcrothenhusen", "cat": "ye", "area": "cevre",
+      "title": "Have lunch at the Fährhaus Rothenhusen on the Ratzeburger See",
+      "desc": "At the northern tip of the Ratzeburger See, where the Wakenitz river sets off towards Lübeck, the old ferry house is now a café and restaurant with a waterside terrace. The kitchen leans on fresh fish, regional game and organic produce, and the cakes come from the Uter confectionery in Ratzeburg.",
+      "tip": "It is closed early in the week and keeps short hours, so check before you cycle out. The boat landing is right next door.",
+      "q": "Fährhaus Rothenhusen, Rothenhusener Weg 1, Groß Sarau", "ll": [53.7801, 10.7660],
+      "src": ["https://www.herzogtum-lauenburg.de/en/gastro/restaurant-faehrhaus-rothenhusen"]
+    },
+    {
+      "id": "hcseehofratzeburg", "cat": "ye", "area": "cevre",
+      "title": "Take coffee and Torte by the Küchensee at Der Seehof",
+      "desc": "The hotel Der Seehof sits on the shore of the Küchensee, one of the four lakes around Ratzeburg's island old town. Its Hofcafé is known for house-baked tortes and cakes, served on a terrace looking across the water to the island.",
+      "tip": "Cake is served from the early afternoon. Walk over the Lüneburger Damm onto the island afterwards to work it off.",
+      "q": "Der Seehof, Lüneburger Damm 1, Ratzeburg", "ll": [53.6990, 10.7641],
+      "src": ["https://herzogtum-lauenburg.de/fileadmin/Mediendatenbank/HLMS/Dokumente/Lbg_Teller_2025_low.pdf"]
+    },
+    {
+      "id": "hcbuecherstube", "cat": "ye", "area": "cevre",
+      "title": "Read over coffee at the Bücherstube am Fleth in Glückstadt",
+      "desc": "On Glückstadt's canal harbour, the Fleth, a bookshop doubles as a café where you can browse, sit among the shelves and art, and drink your coffee. It has been a small cultural meeting place in town for more than twenty years.",
+      "tip": "Bring something back from the shelves to read by the Fleth. The Detlefsen-Museum is a few doors along the same street.",
+      "q": "Bücherstube am Fleth, Am Fleth 30, Glückstadt", "ll": [53.7886, 9.4217],
+      "tags": ["rainy day"],
+      "src": ["https://glueckstadt-tourismus.de/en/cafes-and-tea-shops/"]
+    },
+    {
+      "id": "hcloescher", "cat": "ye", "area": "cevre",
+      "title": "Choose from fifty cakes at Löschers Hofcafé on the Elbe dyke",
+      "desc": "This farm café sits right on the Elbe dyke in Hoopte near Winsen, with a view of the river. In season it bakes more than fifty kinds of cakes and tarts every day, many with strawberries, raspberries and blueberries from its own fields, and in winter the kitchen serves kale from the Winsener Marsch.",
+      "tip": "It is closed on Mondays and between Christmas and New Year. In summer, take your plate up to the roof terrace.",
+      "q": "Löschers Hofcafé, Hoopter Elbdeich 77, Winsen (Luhe)", "ll": [53.4000, 10.1584],
+      "src": ["https://pages.destination.one/en/erlebnis-elbe/wlan/detail/Gastro/g_100043484/hofcaf-l-scher"]
+    },
+    {
+      "id": "hcrotentore", "cat": "ye", "area": "cevre",
+      "title": "Order Heidschnucke roast at Zum Roten Tore in Lüneburg",
+      "desc": "Heidschnucke, the horned sheep that keep the heath open, is the region's signature meat, and this restaurant in a historic house just outside Lüneburg's old town makes the roast its house speciality. Inside are antique furniture and wall paintings of old Lüneburg, and the wild boar goulash comes out of a 400-year-old pot.",
+      "tip": "It is open every day from late morning, with a lunch menu Monday to Saturday. In good weather sit in the garden.",
+      "q": "Zum Roten Tore, Vor dem Roten Tore 3, Lüneburg", "ll": [53.2441, 10.4119],
+      "src": ["https://www.lueneburger-heide.de/lueneburg/restaurants/5294/restaurant-zum-roten-tore.html"]
+    },
+    {
+      "id": "hcschroedersgarten", "cat": "ye", "area": "cevre",
+      "title": "Drink a cold beer on the Ilmenau at Schröders Garten",
+      "desc": "Lüneburg's riverside beer garden has been pouring since 1996 in a leafy spot on the Ilmenau, just south of the old town. There is room for around 250 people, a playground for children, and coffee as well as draught beer.",
+      "tip": "Opening depends on the weather: from midday on weekdays and from 10 at weekends. Come on a warm evening when students fill the benches.",
+      "q": "Schröders Garten, Vor dem Roten Tore 72, Lüneburg", "ll": [53.2448, 10.4164],
+      "months": [5, 6, 7, 8, 9],
+      "src": ["https://www.hamburg-tourism.de/sehen-erleben/veranstaltungen/veranstaltungsorte/schroeders-garten/", "https://www.lueneburger-heide.de/stadt/restaurants"]
+    },
+    {
+      "id": "hcratskellerstade", "cat": "ye", "area": "cevre",
+      "title": "Dine in the vaulted Ratskeller under Stade's town hall",
+      "desc": "Beneath Stade's town hall on Hökerstraße lies a medieval vaulted cellar that now serves hearty North German home cooking. It is a cosy, brick-arched room in the middle of the old town.",
+      "tip": "Book for the evening at weekends. Walk down Hökerstraße to the old harbour afterwards for the lights on the water.",
+      "q": "Ratskeller Stade, Hökerstraße 10, Stade", "ll": [53.6016, 9.4761],
+      "tags": ["rainy day"],
+      "src": ["https://freizeitmonster.de/blog/restaurants-stade"]
+    },
+    {
+      "id": "hcklosterluene", "cat": "gor", "area": "cevre",
+      "title": "See the nuns' embroidery at Kloster Lüne",
+      "desc": "Founded in 1172 and rebuilt in brick Gothic after a fire in 1380, Kloster Lüne is still a Protestant women's convent on the edge of Lüneburg. Its cloister, church and dormitory survive, and a museum shows the sacred textiles the nuns embroidered over the centuries.",
+      "tip": "Public tours run from April to October; in winter only booked groups get in. The convent café is a quiet place for coffee after the visit.",
+      "q": "Kloster Lüne, Am Domänenhof, Lüneburg", "ll": [53.2595, 10.4221],
+      "tags": ["rainy day"],
+      "src": ["https://www.kloster-luene.de", "https://de.wikipedia.org/wiki/Kloster_L%C3%BCne"]
+    },
+    {
+      "id": "hcjohannis", "cat": "gor", "area": "cevre",
+      "title": "Spot the lean of St. Johannis spire on Am Sande",
+      "desc": "Lüneburg's oldest church is a five-aisled brick hall built between 1289 and 1470 at the end of the square Am Sande. Its tower, 108.7 metres tall, is the second highest in Lower Saxony and visibly leans off true.",
+      "tip": "Look along the tower from the far end of Am Sande to see the tilt best. Inside, the great organ is the one Georg Böhm played when the young Bach was a pupil in town.",
+      "q": "St. Johannis, Am Sande, Lüneburg", "ll": [53.2478, 10.4129],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/St._Johannis_(L%C3%BCneburg)"]
+    },
+    {
+      "id": "hcrathauslueneburg", "cat": "gor", "area": "cevre",
+      "title": "Tour the halls of Lüneburg's medieval Rathaus",
+      "desc": "Begun around 1230 and extended for centuries, Lüneburg's town hall is the largest medieval town hall in northern Germany, with 259 rooms behind a Baroque facade finished in 1720. Guided tours lead through the court arcade, the painted Fürstensaal and the panelled Große Ratsstube.",
+      "tip": "The interiors can only be seen on a guided tour, so check the times at the tourist office on the market. Listen for the carillon of Meissen porcelain bells on the facade.",
+      "q": "Rathaus Lüneburg, Am Markt 1, Lüneburg", "ll": [53.2503, 10.4069],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Rathaus_L%C3%BCneburg"]
+    },
+    {
+      "id": "hcbossard", "cat": "gor", "area": "cevre",
+      "title": "Enter the art temple of the Kunststätte Bossard",
+      "desc": "Between 1911 and 1950 the sculptor Johann Michael Bossard and his wife Jutta built a complete artwork on three hectares of heath near Jesteburg: houses, a garden and an expressionist Kunsttempel where architecture, painting and sculpture merge. The Eddasaal inside is painted from floor to ceiling.",
+      "tip": "It is open Tuesday to Sunday, until 6 pm in summer and 4 pm in winter. The courtyard café closes for a winter break.",
+      "q": "Kunststätte Bossard, Bossardweg 95, Jesteburg", "ll": [53.2824, 9.9414],
+      "tags": ["rainy day"],
+      "src": ["https://www.bossard.de", "https://de.wikipedia.org/wiki/Kunstst%C3%A4tte_Bossard"]
+    },
+    {
+      "id": "hckiekeberg", "cat": "gor", "area": "cevre",
+      "title": "Walk from farmhouse to fifties street at the Kiekeberg",
+      "desc": "In the Harburg Hills, the Freilichtmuseum am Kiekeberg gathers more than 40 historic buildings and gardens from the heath and the Elbe marshes, from the 17th to the 20th century. Old breeds such as Bunte Bentheimer pigs roam the grounds, and the Königsberger Straße recreates post-war life with a 1950s petrol station and a 1970s prefab house.",
+      "tip": "The museum is open Tuesday to Sunday. Its Christmas craft market at the end of November is one of the best-loved in the area.",
+      "q": "Freilichtmuseum am Kiekeberg, Rosengarten", "ll": [53.4391, 9.9040],
+      "src": ["https://www.kiekeberg-museum.de", "https://de.wikipedia.org/wiki/Freilichtmuseum_am_Kiekeberg"]
+    },
+    {
+      "id": "hcebstorf", "cat": "gor", "area": "cevre",
+      "title": "Find Jerusalem at the centre of the Ebstorf world map",
+      "desc": "Ebstorf convent kept the largest medieval world map ever found: 30 sheets of parchment sewn into a circle about 3.6 metres wide, with Jerusalem at the centre and over 2,300 pictures and texts. The original burned in 1943, and a full-size replica hangs in the convent today.",
+      "tip": "The convent is still home to a Protestant women's community and is shown on guided tours, mostly in the warmer months. Allow time to read the map: strange peoples and beasts crowd the edges of the world.",
+      "q": "Kloster Ebstorf, Kirchplatz 12, Ebstorf", "ll": [53.0306, 10.4121],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Ebstorfer_Weltkarte", "https://de.wikipedia.org/wiki/Kloster_Ebstorf"]
+    },
+    {
+      "id": "hchoesseringen", "cat": "gor", "area": "cevre",
+      "title": "Watch the smith at work in Museumsdorf Hösseringen",
+      "desc": "Since 1975 villagers from around Uelzen have rebuilt about 30 historic heath buildings on 13 hectares at Hösseringen, around the old Landtagsplatz where the regional assembly once met. A smithy, sawmill, bakery and the Brümmerhof farmhouse show how people lived and worked in the Lüneburg Heath.",
+      "tip": "The season runs from mid-March to early November and closes with a craft market. Come on a demonstration day when the bakery oven is fired.",
+      "q": "Museumsdorf Hösseringen, Suderburg", "ll": [52.8439, 10.4067],
+      "src": ["https://www.museumsdorf-hoesseringen.de", "https://de.wikipedia.org/wiki/Museumsdorf_H%C3%B6sseringen"]
+    },
+    {
+      "id": "hcdetlefsen", "cat": "gor", "area": "cevre",
+      "title": "Learn Glückstadt's whaling past in the Brockdorff-Palais",
+      "desc": "The Brockdorff-Palais was built during the Thirty Years' War for Christian von Pentz, the commander who held Glückstadt against Wallenstein in 1627 and 1628. Today it houses the Detlefsen-Museum, with collections on the Danish royal town, its whalers and its history as a town of religious tolerance.",
+      "tip": "It opens in the afternoons, Tuesday to Sunday from March to December and on fewer days in January and February. Then walk along the Fleth to see the merchant houses of the old harbour.",
+      "q": "Detlefsen-Museum, Am Fleth 43, Glückstadt", "ll": [53.7890, 9.4219],
+      "tags": ["rainy day"],
+      "src": ["https://www.detlefsen-museum.de", "https://de.wikipedia.org/wiki/Brockdorff-Palais"]
+    },
+    {
+      "id": "hcrosarium", "cat": "gor", "area": "cevre",
+      "title": "Smell the roses in the Rosarium Uetersen",
+      "desc": "Uetersen held its first rose show in 1909, and in 1913 the town laid out a rose garden that grew into one of the oldest and largest rosariums in northern Germany. Paths wind between beds of old and modern varieties in the middle of this small rose-growing town.",
+      "tip": "Peak bloom is from mid-June into July, with a second flush in late summer. Go early in the morning when the scent is strongest and the paths are empty.",
+      "q": "Rosarium Uetersen", "ll": [53.6838, 9.6698],
+      "tags": ["free"], "months": [6, 7, 8, 9],
+      "src": ["https://de.wikipedia.org/wiki/Rosarium_Uetersen"]
+    },
+    {
+      "id": "hcpaulweber", "cat": "gor", "area": "cevre",
+      "title": "Meet A. Paul Weber's biting cartoons in Ratzeburg",
+      "desc": "Next to Ratzeburg cathedral, a 17th-century house on the Domsee has held the complete graphic work of A. Paul Weber since 1973. His satirical lithographs range from cheerful to dark, and the museum also shows his book illustrations, ex libris and landscapes.",
+      "tip": "Ask about the lithography workshops, where you can print on the museum's stone press. A digital tour on the website is a good primer.",
+      "q": "A. Paul Weber-Museum, Domhof 5, Ratzeburg", "ll": [53.7017, 10.7754],
+      "tags": ["rainy day"],
+      "src": ["https://apaulwebermuseum.de/"]
+    },
+    {
+      "id": "hchogendiek", "cat": "gor", "area": "cevre",
+      "title": "Cross the white Hogendiekbrück over the Lühe",
+      "desc": "In Steinkirchen a white Dutch-style drawbridge for walkers spans the little river Lühe, one of the best-loved pictures of the Altes Land. The orchard country around was drained and settled by Dutch colonists from 1113 onwards.",
+      "tip": "Step into St. Martini et Nicolai church in Steinkirchen to see its famous Arp Schnitger organ. The bus stop Mittelnkirchen, Hogendiekbrücke is right by the bridge.",
+      "q": "Hogendiekbrück, Steinkirchen", "ll": [53.5660, 9.6124],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Steinkirchen_(Altes_Land)", "https://en.wikipedia.org/wiki/Altes_Land"]
+    },
+    {
+      "id": "hccosmae", "cat": "gor", "area": "cevre",
+      "title": "Climb into the brick nave of St. Cosmae in Stade",
+      "desc": "Stade's main church, dedicated to the doctor saints Cosmas and Damian, is a cross-shaped brick building grown from the 13th to the 17th century, crowned by a Baroque tower hood that dominates the old town skyline. Inside stands a celebrated Baroque organ that the young Arp Schnitger helped finish.",
+      "tip": "Look up at the tower from the old harbour, a two-minute walk away. Organ concerts are the best way to hear the Schnitger sound, so check the church notices.",
+      "q": "St. Cosmae et Damiani, Stade", "ll": [53.6019, 9.4763],
+      "tags": ["free", "rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/St._Cosmae_et_Damiani_(Stade)"]
+    },
+    {
+      "id": "hcluehefaehre", "cat": "dene", "area": "cevre",
+      "title": "Cross the Elbe on the Lühe-Schulau ferry",
+      "desc": "A ferry has crossed the lower Elbe here since the Middle Ages, when cattle drovers took herds from Jutland towards Holland without passing through Hamburg. Today a small ferry links Grünendeich in the Altes Land with Wedel in about 25 minutes, bikes welcome.",
+      "tip": "There are only a few crossings a day and just two on some weekdays, and the single boat has had breakdowns, so check the timetable first. Ride over with a bike and loop back through the orchards.",
+      "q": "Lühe-Schulau-Fähre, Fährstraße 1, Grünendeich", "ll": [53.5730, 9.6333],
+      "src": ["https://www.luehe-schulau-faehre.de", "https://de.wikipedia.org/wiki/L%C3%BChe-Schulau-F%C3%A4hre"]
+    },
+    {
+      "id": "hcglueckstadtfaehre", "cat": "dene", "area": "cevre",
+      "title": "Ride the Glückstadt to Wischhafen ferry over the Elbe",
+      "desc": "Every day of the year, ferries shuttle across the wide lower Elbe between Glückstadt in Holstein and Wischhafen in Lower Saxony, roughly every half hour. The crossing takes 20 to 25 minutes, long enough to watch container ships slide past on their way to Hamburg.",
+      "tip": "Bring a bike: from Wischhafen it is a short ride to the beaches of Krautsand. Stand at the rail on the upstream side for the best ship views.",
+      "q": "Fähranleger Glückstadt", "ll": [53.7948, 9.4030],
+      "src": ["https://www.frs-elbfaehre.de/"]
+    },
+    {
+      "id": "hcduene", "cat": "dene", "area": "cevre",
+      "title": "Swim off the Düne and meet Helgoland's seals",
+      "desc": "Helgoland's flat little neighbour island, the Düne, lies about a kilometre east of the red cliffs and is ringed by white sand. The south beach is calm and good for families, the north beach gets surf, and grey seals and harbour seals haul out on the shore.",
+      "tip": "The small Witte Kliff ferry crosses from the main island all day. Keep well back from the seals, never get between them and the sea, and leave the dog behind: pets are not allowed.",
+      "q": "Düne, Helgoland", "ll": [54.1847, 7.9122],
+      "src": ["https://www.helgoland.de/erleben/duene/", "https://de.wikipedia.org/wiki/D%C3%BCne_(Insel)"]
+    },
+    {
+      "id": "hcwasserturm", "cat": "dene", "area": "cevre",
+      "title": "Look over Lüneburg's roofs from the Wasserturm",
+      "desc": "Lüneburg's water tower went up between 1905 and 1907, styled after a medieval city gate in Stendal. It no longer holds water but has a viewing platform 56 metres up with a view over the brick gables and out to the heath.",
+      "tip": "It is open daily from 10 to 6, and students give tours on Saturday mornings. Look out for the full-moon evenings and concerts held up top.",
+      "q": "Wasserturm Lüneburg", "ll": [53.2467, 10.4130],
+      "src": ["https://www.wasserturm.net", "https://de.wikipedia.org/wiki/Wasserturm_L%C3%BCneburg"]
+    },
+    {
+      "id": "hckalkberg", "cat": "dene", "area": "cevre",
+      "title": "Climb the Kalkberg, Lüneburg's hill of gypsum",
+      "desc": "The Kalkberg is the tip of the salt dome that made Lüneburg rich: gypsum laid down by the Zechstein sea about 250 million years ago and pushed up from the deep by the rising salt. Once crowned by a castle and quarried for building mortar, it is now a small nature reserve with a view over the west of town.",
+      "tip": "Paths lead up from the streets around the foot of the hill. Sunset is the best time, when the old town glows to the east.",
+      "q": "Kalkberg, Lüneburg", "ll": [53.2494, 10.3969],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/L%C3%BCneburger_Kalkberg"]
+    },
+    {
+      "id": "hchaseldorf", "cat": "dene", "area": "cevre",
+      "title": "Walk the dyke along the Haseldorfer Binnenelbe",
+      "desc": "Between Wedel and the mouth of the Pinnau, some 2,160 hectares of reeds, tidal channels and Elbe foreshore are protected as one of the largest nature reserves in Schleswig-Holstein. The dyke above the Haseldorfer Binnenelbe makes a raised path with wide views over the marsh and its birds.",
+      "tip": "Start from Haseldorf's little harbour and stay on the dyke and marked paths inside the reserve. Spring and autumn bring the biggest flocks of geese.",
+      "q": "Hafen Haseldorf", "ll": [53.6346, 9.5720],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Haseldorfer_Binnenelbe_mit_Elbvorland"]
+    },
+    {
+      "id": "hckrautsand", "cat": "dene", "area": "cevre",
+      "title": "Spend a beach day on the Elbe island of Krautsand",
+      "desc": "Krautsand is an island grown together from several Elbe sandbanks on the Lower Saxony bank, reached by a short bridge from Drochtersen. Its sandy shore faces the shipping lane, so giant container ships glide past almost close enough to wave at.",
+      "tip": "Currents and ship wakes are strong, so paddle rather than swim far out and keep children close. The Elbinsel cycle route from the Altes Land runs along the island.",
+      "q": "Krautsand, Drochtersen", "ll": [53.7516, 9.3912],
+      "tags": ["free"], "months": [6, 7, 8],
+      "src": ["https://de.wikipedia.org/wiki/Krautsand_(Insel)", "https://www.hamburg.de/freizeit/ausfluege/altes-land-305594"]
+    },
+    {
+      "id": "hclopausee", "cat": "dene", "area": "cevre",
+      "title": "Swim in the Lopausee at Amelinghausen",
+      "desc": "Since 1973 a dam has held back the little Lopau east of Amelinghausen to form a 12 hectare lake in the heath. It has a bathing beach, a swimming pontoon, pedal boats and a 2 kilometre path around the shore.",
+      "tip": "In August the village's traditional Heideblütenfest opens with a laser show over the lake, and a new heath queen is crowned. Bring a bike to explore the Lopau valley afterwards.",
+      "q": "Lopausee, Amelinghausen", "ll": [53.1313, 10.2301],
+      "months": [6, 7, 8],
+      "src": ["https://de.wikipedia.org/wiki/Lopausee", "https://www.amelinghausen.de"]
+    },
+    {
+      "id": "hcbluete", "cat": "dene", "area": "cevre",
+      "title": "Cycle through the Altes Land in blossom",
+      "desc": "The Altes Land covers 143 square kilometres of orchards, the largest connected fruit-growing area in northern Europe, and in spring millions of cherry and apple trees bloom white and pink. Jork celebrates with the Blütenfest, a parade through the village and the crowning of a blossom queen.",
+      "tip": "Check the Blütenbarometer before you go, as bloom moves with the weather. The two marked Obstroute loops of about 36 kilometres follow the dykes past the farms.",
+      "q": "Marktplatz, Jork", "ll": [53.5330, 9.6800],
+      "tags": ["free"], "months": [4, 5],
+      "src": ["https://www.hamburg.de/freizeit/ausfluege/altes-land-305594", "https://en.wikipedia.org/wiki/Altes_Land"]
+    }
+  ]
+}

@@ -78,7 +78,10 @@ window.CITIES.versailles = {
     vcvilpert: [48.6972, 1.7702], vclouareux: [48.5917, 1.9024], vcclos: [48.6082, 2.0304],
     vcnoue: [48.6439, 1.9514], vccoq: [48.8717, 2.1235], vccasa: [48.9541, 1.9981],
     vctroishameaux: [48.6876, 2.0184], vcparenthese: [48.8650, 2.1210], vcmaisonlouv: [48.8729, 2.1221],
-    vcbistrotours: [48.7766, 1.8071], vchoudanpoule: [48.7914, 1.6025], vchoudanfair: [48.7905, 1.6009]
+    vcbistrotours: [48.7766, 1.8071], vchoudanpoule: [48.7914, 1.6025], vchoudanfair: [48.7905, 1.6009],
+    vtroisoleil: [48.8072, 2.1293], vtauxcolonnes: [48.8067, 2.1284], sgpatrickroger: [48.8961, 2.0918],
+    sglegac: [48.8979, 2.0883], vclouvetier: [48.6461, 1.8607], vcelan: [48.6423, 1.9658],
+    vcchasseur: [48.7833, 1.7736]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -635,6 +638,27 @@ window.CITIES.versailles = {
       tip: "Ask for local poultry or pâté at the town's shops and restaurants.", q: "Houdan town centre, Houdan", src: ["https://fr.wikipedia.org/wiki/Houdan"] },
     { id: "vchoudanfair", cat: "dene", area: "cevre", title: "Join the Foire Saint-Matthieu in Houdan",
       desc: "Houdan's Foire Saint-Matthieu is held the last weekend of September and dates back to 1065, making it one of Europe's oldest fairs. In 1777 Louis XVI extended it to several days.",
-      tip: "Check the dates for the last weekend of September.", q: "Houdan town centre, Houdan", months: [9], src: ["https://fr.wikipedia.org/wiki/Houdan"] }
+      tip: "Check the dates for the last weekend of September.", q: "Houdan town centre, Houdan", months: [9], src: ["https://fr.wikipedia.org/wiki/Houdan"] },
+    { id: "vtroisoleil", cat: "ye", area: "merkez", title: "Buy royal chocolates at Au Roi Soleil",
+      desc: "This chocolate and confectionery shop has stood on rue de la Paroisse since 1953, and plays on the tradition begun when Louis XIV brought chocolate to the court of Versailles. Pralines, ganaches and unusual flavours sit beside sugared almonds and a corner of fine tableware.",
+      tip: "Open Tuesday to Saturday, closed for lunch only between 13:00 and 14:00. It is a short walk from the Notre-Dame market, so pair the two.", q: "Au Roi Soleil, 46 rue de la Paroisse, Versailles", src: ["https://www.auroisoleil.com/fr/", "https://www.destination-yvelines.fr/artisans-chocolatiers-yvelines/"] },
+    { id: "vtauxcolonnes", cat: "ye", area: "merkez", title: "Pick handmade sweets at Aux Colonnes",
+      desc: "Aux Colonnes is a former tea room and chocolate shop that has traded at 14 rue Hoche since 1912, run by the Merienne family. Chocolates and confections are made by hand in a workshop open to the shop.",
+      tip: "Go on a weekday morning for the freshest selection. It is a few minutes from the Notre-Dame market and the Chateau.", q: "Aux Colonnes, 14 rue Hoche, Versailles", src: ["https://www.destination-yvelines.fr/artisans-chocolatiers-yvelines/"] },
+    { id: "sgpatrickroger", cat: "ye", area: "saintgermain", title: "Taste a Meilleur Ouvrier chocolate at Patrick Roger",
+      desc: "Patrick Roger won the Meilleur Ouvrier de France title in chocolate in 2000 and the World Chocolate Cup in 1994. His Saint-Germain shop on rue de Paris sells sculpted, intensely flavoured bonbons and bars.",
+      tip: "Buy a small box of pralines to eat on the walk to the Terrace. Rue de Paris is a few minutes from the RER station.", q: "Patrick Roger Chocolatier, 2 rue de Paris, Saint-Germain-en-Laye", src: ["https://www.destination-yvelines.fr/artisans-chocolatiers-yvelines/"] },
+    { id: "sglegac", cat: "ye", area: "saintgermain", title: "Try Pascal Le Gac's chocolates on rue de Pologne",
+      desc: "Pascal Le Gac has run his chocolate shop in Saint-Germain-en-Laye since 2008 and is named among the ten best chocolatiers by the Club des croqueurs de chocolat.",
+      tip: "Ask for his signature pralines and ganaches. The shop is a short stroll from the chateau and the market.", q: "Pascal Le Gac Chocolatier, 61 rue de Pologne, Saint-Germain-en-Laye", src: ["https://www.destination-yvelines.fr/artisans-chocolatiers-yvelines/"] },
+    { id: "vclouvetier", cat: "ye", area: "cevre", title: "Order seafood at the Auberge du Louvetier",
+      desc: "This Rambouillet restaurant specialises in fish, shellfish and crustaceans, in a calm setting near the forest on the way to the Chevreuse valley. There is a fireplace in the dining room in winter and a covered terrace in warmer months.",
+      tip: "Open daily for lunch and dinner but with several closed slots (Monday all day), so check the hours and book. Menus start around 28 euros.", q: "Auberge du Louvetier, 19 rue de l'Etang de la Tour, Rambouillet", src: ["https://www.aubergedulouvetier.com/", "https://www.parc-naturel-chevreuse.fr/voir-faire/manger-les-tables-du-terroir/restaurants"] },
+    { id: "vcelan", cat: "ye", area: "cevre", title: "Dine on village classics at the Auberge de l'Elan",
+      desc: "This village inn at La Celle-les-Bordes sits between the Rambouillet forest and the Chevreuse valley and holds the Maitre Restaurateur label. Its signatures are calf's head and sauteed sweetbreads in a morel sauce, cooked with local, seasonal produce.",
+      tip: "Open Thursday to Saturday and Sunday lunch only, and booking is required. There is public parking across the street.", q: "Auberge de l'Elan, 5 rue du Village, La Celle-les-Bordes", src: ["https://www.parc-naturel-chevreuse.fr/auberge-de-lelan"] },
+    { id: "vcchasseur", cat: "ye", area: "cevre", title: "Lunch at the Auberge du Chasseur in Grosrouvre",
+      desc: "A country house in the centre of Grosrouvre, at the edge of the Rambouillet forest, with a garden and a shaded terrace. It serves traditional and creative cooking from local seasonal products and holds Gault et Millau and Maitre Restaurateur labels.",
+      tip: "Open Tuesday to Saturday for lunch and dinner and Sunday for lunch. Reserve ahead; it also has a wine shop.", q: "Auberge du Chasseur, 1 route de la Surie, Grosrouvre", src: ["https://www.parc-naturel-chevreuse.fr/lauberge-du-chasseur"] }
   ]
 };

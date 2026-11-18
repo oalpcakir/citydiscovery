@@ -1,0 +1,1615 @@
+{
+ "new": [
+  {
+   "id": "petitevenise",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Wander the canals of Petite Venise",
+   "desc": "Petite Venise is a quarter of the Krutenau where the Lauch river forms canals lined with colourful half-timbered houses, mostly built between the 14th and 18th centuries. It began as medieval market-gardening land on former marshland, and growers brought vegetables to market by flat-bottomed barge.",
+   "tip": "Go early in the morning or at dusk, when the day trippers are gone. The bridge on rue de Turenne is the classic viewpoint, especially after dark.",
+   "q": "Petite Venise, Quai de la Poissonnerie, Colmar",
+   "ll": [
+    48.07402,
+    7.35761
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Petite_Venise_de_Colmar"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "lauchboat",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Glide along the Lauch in a flat-bottomed boat",
+   "desc": "Traditional flat-bottomed boats run trips on the Lauch between the covered market and the old market-garden areas, now a green residential zone. They are the same kind of barge that growers once used to carry vegetables into town.",
+   "tip": "Boats set off near the covered market in Petite Venise. Take a trip in the morning when it is quieter and the light on the facades is soft.",
+   "q": "Promenade en barque, Rue de la Herse, Colmar",
+   "ll": [
+    48.07319,
+    7.35741
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Petite_Venise_de_Colmar"
+   ]
+  },
+  {
+   "id": "unterlinden",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Face the Isenheim Altarpiece at Unterlinden",
+   "desc": "Matthias Grünewald painted the Isenheim Altarpiece between 1512 and 1516 for the Antonine commandery at Issenheim, with sculpture attributed to Nicolas de Haguenau. It is the masterpiece of the Musée Unterlinden, housed in a former Dominican convent with a 13th-century Gothic cloister, plus a Herzog & de Meuron extension that also shows Monet, Renoir and Picasso.",
+   "tip": "Visit on a rainy afternoon and book a ticket if you can. Allow at least two hours and see the altarpiece first, before the crowds build.",
+   "q": "Musée Unterlinden, Rue d'Unterlinden, Colmar",
+   "ll": [
+    48.07984,
+    7.35553
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Unterlinden",
+    "https://fr.wikipedia.org/wiki/Retable_d%27Issenheim"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "maisondestetes",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Count the 106 faces of the Maison des Têtes",
+   "desc": "Merchant Anton Burger had this Renaissance house built in 1609, and its facade carries 106 grotesque masks that give it its name. A small cooper figure by Auguste Bartholdi sits on the gable, and the building has been a restaurant since 1898.",
+   "tip": "Stand across the street on rue des Têtes to see the whole facade and the cooper on top. The best details are above the first floor.",
+   "q": "Maison des Têtes, Rue des Têtes, Colmar",
+   "ll": [
+    48.0786,
+    7.35549
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Maison_des_T%C3%AAtes_de_Colmar"
+   ]
+  },
+  {
+   "id": "maisonpfister",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the painted oriel of Maison Pfister",
+   "desc": "A hatter from Besançon, Ludwig Scherer, built this house in 1537 from yellow Rouffach sandstone and timber. It has a two-storey corner oriel, an octagonal staircase turret and a wooden gallery, with paintings of emperors, evangelists and allegories added in 1577.",
+   "tip": "It stands on rue des Marchands, so it fits neatly into a walk with the Bartholdi museum. Morning light shows the paintwork best.",
+   "q": "Maison Pfister, Rue des Marchands, Colmar",
+   "ll": [
+    48.07667,
+    7.35833
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Maison_Pfister"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "koifhus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step into the Koïfhus, Colmar's oldest public building",
+   "desc": "The Koïfhus, or Ancienne Douane, was a customs house whose ground floor stored goods and levied duties on trade. Its upper hall hosted the Décapole, a federation of ten Alsatian imperial cities, and its roof is covered in glazed tiles.",
+   "tip": "Walk around the back for the Schwendi fountain and the canal. The square is lovely in the evening.",
+   "q": "Koïfhus (Ancienne Douane), Place de l'Ancienne Douane, Colmar",
+   "ll": [
+    48.07585,
+    7.3591
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Ko%C3%AFfhus"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stmartin",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Look up at Saint-Martin collegiate church",
+   "desc": "Rebuilding of the church began in 1234 and ran until about 1365, producing one of the largest Gothic churches in the Haut-Rhin. Its single 71 m tower was never matched by the planned second one, and the nave is about 78 m long. The grand organ case dates from 1755 and was made by Johann Andreas Silbermann.",
+   "tip": "Look at the central portal, with the Adoration of the Magi and the Last Judgment. A quiet weekday morning gives the best interior light.",
+   "q": "Collégiale Saint-Martin, Place de la Cathédrale, Colmar",
+   "ll": [
+    48.07722,
+    7.35833
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Coll%C3%A9giale_Saint-Martin_de_Colmar"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "dominicains",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Seek Schongauer's Virgin of the Rose Bush",
+   "desc": "In the choir of the Dominican church hangs Martin Schongauer's 1473 painting of the Virgin and Child in a rose arbour, with birds and two crowning angels. The church was begun in 1289, has 14th-century stained glass, and was a grain hall before returning to worship in 1898.",
+   "tip": "Check opening hours at the door, as the church can close at midday. Stay a few minutes to find the birds in the foliage.",
+   "q": "Église des Dominicains, Place des Dominicains, Colmar",
+   "ll": [
+    48.07869,
+    7.35666
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Couvent_des_Dominicains_de_Colmar",
+    "https://fr.wikipedia.org/wiki/La_Vierge_au_buisson_de_roses_(Schongauer)"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bartholdimuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Meet the sculptor of Liberty at the Bartholdi Museum",
+   "desc": "The museum occupies the house at 30 rue des Marchands where Auguste Bartholdi was born. Over three levels it shows sculptures, paintings, drawings and models, and the courtyard holds his 1902 bronze group Les Grands Soutiens du monde.",
+   "tip": "Look for the preparatory models for his Lion of Belfort. Combine with Maison Pfister, just a few doors away.",
+   "q": "Musée Bartholdi, 30 Rue des Marchands, Colmar",
+   "ll": [
+    48.07668,
+    7.35773
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Bartholdi"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "schwendifountain",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find Schwendi with his vine behind the Koïfhus",
+   "desc": "Bartholdi designed this 1898 bronze of Lazarus von Schwendi, an imperial general and lord of the Hohlandsbourg. He holds a vine plant, said by legend to be the Tokay grape he brought back from Hungary, though Alsace's local Tokay is actually Pinot gris.",
+   "tip": "The statue was turned in 1954 to face the Koïfhus. It makes a good photo from the canal side.",
+   "q": "Fontaine Schwendi, Place de l'Ancienne Douane, Colmar",
+   "ll": [
+    48.07588,
+    7.35955
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Fontaine_Schwendi"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "roesselmann",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Spot Bartholdi's fountain of provost Roesselmann",
+   "desc": "This white stone fountain of 1888 shows Jean Roesselmann, the Colmar provost who died defending the Porte de Bâle in 1262 against the bishop of Strasbourg. Its face is said to be that of mayor Peyerimhoff, who resisted annexation after 1871, and four bronze fish spout water below.",
+   "tip": "It stands on the little Place des Six-Montagnes-Noires in Petite Venise. Pair it with a walk along the canal.",
+   "q": "Fontaine Roesselmann, Place des Six-Montagnes-Noires, Colmar",
+   "ll": [
+    48.07399,
+    7.35671
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Fontaine_Roesselmann"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "champdemars",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Picnic at Champ-de-Mars beneath Admiral Bruat",
+   "desc": "Colmar's central public park has wide lawns and, at its centre, a fountain topped by the statue of Admiral Bruat, raised in 1864 and built by Bartholdi.",
+   "tip": "Bring bakery treats from the old town and sit on the grass. It is a good rest stop after the Bartholdi trail.",
+   "q": "Champ-de-Mars, Colmar",
+   "ll": [
+    48.07561,
+    7.35281
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Champ-de-Mars_(Colmar)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "tanneurs",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Stroll the Quartier des Tanneurs",
+   "desc": "The tanners' quarter takes its name from the craftsmen who dried hides at the windows of tall half-timbered houses with open roofs. A restoration programme from 1968 to 1974 saved the 17th- and 18th-century buildings and exposed their timber frames.",
+   "tip": "Wander the narrow streets in the evening, when the quarter is calm and the houses glow.",
+   "q": "Quartier des Tanneurs, Rue des Tanneurs, Colmar",
+   "ll": [
+    48.07561,
+    7.35933
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Quartier_des_tanneurs_de_Colmar"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "quaipoisson",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the old fishmongers' quay in the Krutenau",
+   "desc": "Growers once tied up their vegetable barges along the quai de la Poissonnerie at the foot of the covered market. The natural history museum has a second entrance on the same quay.",
+   "tip": "Walk it from the covered market toward Petite Venise. It is much quieter early in the morning.",
+   "q": "Quai de la Poissonnerie, Colmar",
+   "ll": [
+    48.07426,
+    7.35983
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Petite_Venise_de_Colmar",
+    "https://fr.wikipedia.org/wiki/Mus%C3%A9e_d%27histoire_naturelle_et_d%27ethnographie_de_Colmar"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "marchecouvert",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Graze the covered market on the Lauch",
+   "desc": "The covered market was built in 1865 by architect Louis-Michel Boltz beside the Lauch, where market gardeners used to moor their boats at its foot. About twenty traders sell produce and regional food, Tuesday to Saturday.",
+   "tip": "Go for a Saturday morning browse and assemble a picnic of cheese, charcuterie and bread.",
+   "q": "Marché couvert, Rue Saint-Jean, Colmar",
+   "ll": [
+    48.07465,
+    7.35975
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/March%C3%A9_couvert_de_Colmar"
+   ]
+  },
+  {
+   "id": "noeldominicains",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sip vin chaud at the Place des Dominicains market",
+   "desc": "Colmar's Christmas market spreads across five central squares, including Place des Dominicains, with about 200 chalets. It opens on the first Advent weekend and runs to the end of December, selling vin chaud and bredele biscuits.",
+   "tip": "Go on a weekday afternoon to avoid weekend crowds. Try the bredele and mulled wine, then step into the Dominican church next door.",
+   "q": "Place des Dominicains, Colmar",
+   "ll": [
+    48.07819,
+    7.35693
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/March%C3%A9_de_No%C3%ABl_de_Colmar"
+   ],
+   "months": [
+    11,
+    12
+   ]
+  },
+  {
+   "id": "noelpetitevenise",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Warm up at the Petite Venise Christmas market",
+   "desc": "One of the five Christmas market squares is Place des Six-Montagnes-Noires, beside the Roesselmann fountain in the canal district. Wooden chalets sell vin chaud and bredele while the half-timbered houses glow around the water.",
+   "tip": "Visit at dusk for the lights, then walk the rue de Turenne bridge for the reflections.",
+   "q": "Place des Six-Montagnes-Noires, Colmar",
+   "ll": [
+    48.07405,
+    7.35665
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/March%C3%A9_de_No%C3%ABl_de_Colmar"
+   ],
+   "months": [
+    11,
+    12
+   ]
+  },
+  {
+   "id": "museejouet",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Play at the Musée du Jouet",
+   "desc": "This toy museum opened in 1993 in a former neighbourhood cinema and shows more than 1,000 toys and games from the 19th century to today, over three levels.",
+   "tip": "A fine rainy-day stop for families, and a nostalgic one for adults.",
+   "q": "Musée du Jouet, Colmar",
+   "ll": [
+    48.07956,
+    7.36231
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Mus%C3%A9e_du_jouet_de_Colmar"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "museumhistnat",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Meet a Theban mummy at the natural history museum",
+   "desc": "The Colmar natural history and ethnography museum holds the mummy of Nesy-Khonsou-Pakhered from Thebes, brought here in 1836. Its bird collection includes the extinct passenger pigeon and the critically endangered kakapo.",
+   "tip": "Allow an hour. It is at 11 rue de Turenne, steps from Petite Venise, so it pairs well with a rainy-day canal walk.",
+   "q": "Musée d'histoire naturelle, 11 Rue de Turenne, Colmar",
+   "ll": [
+    48.07342,
+    7.35894
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Mus%C3%A9e_d%27histoire_naturelle_et_d%27ethnographie_de_Colmar"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "stmatthieu",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Hear the acoustics of Saint-Matthieu church",
+   "desc": "Saint-Matthieu is the former Franciscan church, later a Protestant church, and a listed monument. Its remarkable acoustics host an international music festival every year.",
+   "tip": "Look for concert posters at the door, and peek inside if it is open.",
+   "q": "Église Saint-Matthieu, Colmar",
+   "ll": [
+    48.0772,
+    7.3606
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Matthieu_de_Colmar"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "conseilsouverain",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Look up at the Conseil Souverain palace",
+   "desc": "Built between 1764 and 1771, this pink sandstone palace housed the Conseil souverain d'Alsace, the region's highest court, which settled in Colmar in 1698. A royal emblem and an allegory of Justice crown its pediment, and the building still houses the local court.",
+   "tip": "A quick stop in the old town. Look at the pediment and the two vaulted chapels left from the Augustinian convent.",
+   "q": "Palais du Conseil souverain d'Alsace, Colmar",
+   "ll": [
+    48.0757,
+    7.35811
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Palais_du_Conseil_souverain_d%27Alsace"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "maisonadolph",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find the 14th-century Gothic Maison Adolph",
+   "desc": "Maison Adolph stands at 16 place de la Cathédrale and is probably from around 1350, with pointed-arch windows that echo the church opposite. A well dated 1592 at its base has a bracket topped with two lion heads.",
+   "tip": "Stand on the cathedral square to compare it with the church. It is a nice view from a terrace.",
+   "q": "Maison Adolph, 16 Place de la Cathédrale, Colmar",
+   "ll": [
+    48.077,
+    7.35817
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Maison_Adolph"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "zumkragen",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Spot the draper on Maison zum Kragen",
+   "desc": "This half-timbered house at 9 rue des Marchands was built by Claus Sattmann, collapsed in 1586, and has a carved corner post dated 1609 showing a draper with a measuring rod. A narrow alley beside it links the cathedral square and rue des Marchands.",
+   "tip": "Photograph the corner post, then take the narrow passage beside it to the cathedral square.",
+   "q": "Maison zum Kragen, 9 Rue des Marchands, Colmar",
+   "ll": [
+    48.0768,
+    7.35808
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Maison_zum_Kragen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mannekenpis",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find Colmar's little Manneken-Pis",
+   "desc": "Colmar has its own copy of Brussels' Manneken-Pis, a quirky detail tucked away in the old centre.",
+   "tip": "It is close to Petite Venise, so add it to a canal walk.",
+   "q": "Manneken-Pis, Colmar",
+   "ll": [
+    48.07582,
+    7.35817
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Manneken-Pis_de_Colmar"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "garecolmar",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Arrive at Colmar's imperial-era railway station",
+   "desc": "The first Colmar station opened in 1840 on the Strasbourg to Basel line, and the present building was inaugurated in 1907 under the German administration of Alsace.",
+   "tip": "If you arrive by train, pause for the facade before heading into town. It is about a 15-minute walk to the old centre.",
+   "q": "Gare de Colmar, Colmar",
+   "ll": [
+    48.07251,
+    7.34657
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Gare_de_Colmar"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bainsmunicipaux",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Peek into the old Unterlinden municipal baths",
+   "desc": "Built from 1903 to 1906 by architect Ulysse Bertsch, these public baths opened on 26 June 1906 as the Unterlinden Bad. They closed in 2003, and since 2015 they are an annex of the Unterlinden museum with the tourist office on the ground floor.",
+   "tip": "Pop into the tourist office for a map and look at the building around it. It is next to the Unterlinden museum.",
+   "q": "Anciens Bains municipaux, Rue des Unterlinden, Colmar",
+   "ll": [
+    48.08036,
+    7.35557
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Bains_municipaux_de_Colmar"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "foirevins",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste Alsace wines at the Foire aux Vins",
+   "desc": "Held at the Parc des Expositions for ten days over the last two weekends of July, this fair blends a trade show, a showcase of Alsace wines and an eclectic music festival. It is the third largest trade fair in France after Paris and Marseille.",
+   "tip": "Check the dates before travelling, and use a bus or taxi rather than driving.",
+   "q": "Parc des Expositions, Avenue de la Foire aux Vins, Colmar",
+   "ll": [
+    48.09721,
+    7.35648
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Foire_aux_vins_d%27Alsace"
+   ],
+   "months": [
+    7
+   ]
+  },
+  {
+   "id": "lasoi",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order flammekueche at La Soi",
+   "desc": "La Soi is a winstub on rue des Marchands, described by Lonely Planet as in the best Alsatian tradition and known for its flammekueche. Guides say it may serve one of the best versions in Colmar.",
+   "tip": "Go early or book, as it fills up in the evening. Pair the tarte flambée with an Alsace Pinot gris.",
+   "q": "La Soi, Rue des Marchands, Colmar",
+   "ll": [
+    48.07633,
+    7.35846
+   ],
+   "src": [
+    "https://www-lonelyplanet-com-57e2.imagizer.com/france/colmar/restaurants/la-soi/a/poi-eat/1588788/1003135",
+    "https://usebounce.com/guides/colmar/best-street-food-colmar"
+   ]
+  },
+  {
+   "id": "koifhusrestaurant",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat baeckeoffe at Winstub Au Koïfhus",
+   "desc": "This traditional Alsatian winstub at 2 place de l'Ancienne Douane faces the Koïfhus, the city's oldest building. It is known for baeckeoffe and sauerkraut, and has a summer terrace seating 60 and the Maître Restaurateur label.",
+   "tip": "Book a terrace table in summer and arrive hungry. Baeckeoffe is a hearty dish, so skip the starter.",
+   "q": "Au Koïfhus, 2 Place de l'Ancienne Douane, Colmar",
+   "ll": [
+    48.07598,
+    7.35967
+   ],
+   "src": [
+    "https://wineroute.alsace/235000025-restaurant-au-koifhus"
+   ]
+  },
+  {
+   "id": "gilg",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Buy a kougelhopf at Pâtisserie Gilg",
+   "desc": "Pâtisserie Gilg is a well-known pastry shop at 60 Grand Rue. Gault&Millau lists its range as including pain d'épices, kougelhopf, brioche alsacienne and savarin.",
+   "tip": "Buy a small kougelhopf for the road and eat it the same day.",
+   "q": "Pâtisserie Gilg, 60 Grand Rue, Colmar",
+   "ll": [
+    48.07531,
+    7.35766
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/artisans/patisserie-gilg-shop",
+    "https://tourismattractions.net/france/best-pastry-shops-for-kougelhopf-in-colmar"
+   ]
+  },
+  {
+   "id": "brenner",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Share a flammekueche at Wistub Brenner",
+   "desc": "Wistub Brenner is a winstub on rue de la Poissonnerie in Petite Venise. One food guide says its version sets the standard for flammekueche in Colmar.",
+   "tip": "Book ahead, and aim for an early lunch since winstub kitchens often close by 13:30. Order a glass of Riesling with it.",
+   "q": "Wistub Brenner, Rue de la Poissonnerie, Colmar",
+   "ll": [
+    48.0739,
+    7.35779
+   ],
+   "src": [
+    "https://doeatbetterexperience.com/blog/colmar-winstub-where-locals-eat/"
+   ]
+  },
+  {
+   "id": "winstubcygne",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Duck into Winstub Le Cygne",
+   "desc": "Frommer's calls Winstub Le Cygne one of the best winstubs in town, tucked away on a side street. Another guide notes it also serves its own flammekueche.",
+   "tip": "Reserve a table, as small winstubs fill fast.",
+   "q": "Winstub Le Cygne, Rue Édouard Richard, Colmar",
+   "ll": [
+    48.08006,
+    7.35069
+   ],
+   "src": [
+    "https://www.frommers.com/destinations/colmar/restaurants/winstub-le-cygne/",
+    "https://usebounce.com/guides/colmar/best-street-food-colmar"
+   ]
+  },
+  {
+   "id": "tempsverre",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Build a tasting slate at Au Temps d'un Verre",
+   "desc": "This cosy wine bar at 36 rue Vauban offers tastings of Alsace wines and others, including selected grands crus. You can compose a slate from charcuterie, cheeses, tartines and sweets, with wine by the glass.",
+   "tip": "Open in the evening, Wednesday to Sunday. Ask for local Alsace pairings.",
+   "q": "Au Temps d'un Verre, 36 Rue Vauban, Colmar",
+   "ll": [
+    48.07903,
+    7.36182
+   ],
+   "src": [
+    "https://www.explore-grandest.com/?p=74079"
+   ]
+  },
+  {
+   "id": "biscuiterie",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Stock up on bredele at the Maison Alsacienne de Biscuiterie",
+   "desc": "The shop at 16 rue des Boulangers sells bredele Christmas biscuits, spice cakes made to an old local method, beerawecka and kougelhopf. It calls its traditional kougelhopf the pride of its Colmar bakery.",
+   "tip": "Pick up a small bag of mixed biscuits for the train.",
+   "q": "Maison Alsacienne de Biscuiterie, 16 Rue des Boulangers, Colmar",
+   "ll": [
+    48.07814,
+    7.35486
+   ],
+   "src": [
+    "https://www.tourisme-colmar.com/en/eat-drink/selection-of-shops/local-products/F235010688_maison-alsacienne-de-biscuiterie-colmar",
+    "https://maison-alsacienne-biscuiterie.com/en/content/12-biscuiterie-boulangers-colmar"
+   ]
+  },
+  {
+   "id": "winstubpv",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Settle into the Winstub de la Petite Venise",
+   "desc": "This casual winstub at 4 rue de la Poissonnerie, in the canal district, is listed by Gault&Millau. It serves Alsatian classics.",
+   "tip": "Pair a dish like choucroûte with a Riesling, and book ahead for evenings.",
+   "q": "Winstub de la Petite Venise, 4 Rue de la Poissonnerie, Colmar",
+   "ll": [
+    48.074,
+    7.358
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/en/restaurants/winstub-de-la-petite-venise"
+   ]
+  },
+  {
+   "id": "citedutrain",
+   "cat": "dene",
+   "area": "mulhouse",
+   "title": "Climb aboard the Cité du Train",
+   "desc": "Opened in 1971 and renamed in 2005, the Cité du Train is called the largest railway museum in Europe, with more than 100 locomotives, wagons and coaches. You can ride a miniature train or a steam-powered Decauville, and crawl under a steam locomotive to see its workings.",
+   "tip": "Allow half a day. Look for the 1844 Buddicom locomotive St-Pierre, one of the earliest pieces.",
+   "q": "Cité du Train, Mulhouse",
+   "ll": [
+    47.75056,
+    7.29389
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Cit%C3%A9_du_train"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "citeauto",
+   "cat": "dene",
+   "area": "mulhouse",
+   "title": "See two Bugatti Royales at the Cité de l'Automobile",
+   "desc": "The Schlumpf brothers secretly gathered a car collection, later housed in a former textile spinning mill built in 1880. Discovered in 1977, it opened to the public in 1982 and now holds more than 500 cars, including two of the six Bugatti Royales.",
+   "tip": "Allow two to three hours. Look for Ettore Bugatti's personal Coupé Napoléon.",
+   "q": "Cité de l'Automobile, Mulhouse",
+   "ll": [
+    47.76083,
+    7.32861
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Mus%C3%A9e_national_de_l%27Automobile"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "impression",
+   "cat": "gor",
+   "area": "mulhouse",
+   "title": "See printed fabrics at the Musée de l'Impression sur Étoffes",
+   "desc": "The museum occupies a building commissioned by the Société industrielle de Mulhouse and holds around six million fabric samples. It displays indiennes, 19th-century copper-roller printing machines and pattern books from the 1920s.",
+   "tip": "Allow a couple of hours. It is a fine rainy-day visit.",
+   "q": "Musée de l'Impression sur Étoffes, Mulhouse",
+   "ll": [
+    47.74509,
+    7.3446
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_l%27impression_sur_%C3%A9toffes"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hoteldeville",
+   "cat": "gor",
+   "area": "mulhouse",
+   "title": "Admire the painted town hall on Place de la Réunion",
+   "desc": "Rebuilt in 1552 to 1553 after a fire, Mulhouse's Rhenish Renaissance town hall has a facade painted red and gold, with trompe-l'œil decor from 1698. A replica of the Klapperstein, the stone of gossips used to punish slanderers, hangs on its side, and the town's historical museum is inside.",
+   "tip": "Look for the Klapperstein on the right side. The 12 kg original is displayed in the museum.",
+   "q": "Hôtel de ville, Place de la Réunion, Mulhouse",
+   "ll": [
+    47.7466,
+    7.3393
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_ville_de_Mulhouse"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "templestetienne",
+   "cat": "gor",
+   "area": "mulhouse",
+   "title": "Gaze up the 97 m spire of Temple Saint-Étienne",
+   "desc": "Built from 1859 to 1866 to neo-Gothic plans by Jean-Baptiste Schacre, the temple's spire rises 97 m, the tallest in Haut-Rhin and the tallest Protestant steeple in France. Inside are 14th-century stained-glass windows saved from the earlier church, with David and Goliath among the scenes.",
+   "tip": "Look inside for the old glass. It is on Place de la Réunion beside the town hall.",
+   "q": "Temple Saint-Étienne, Place de la Réunion, Mulhouse",
+   "ll": [
+    47.74722,
+    7.33889
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Temple_Saint-%C3%89tienne_de_Mulhouse"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "zoomulhouse",
+   "cat": "dene",
+   "area": "mulhouse",
+   "title": "Roam the zoo and botanical garden on the Rebberg",
+   "desc": "Founded in 1868 as a people's park by industrialists, the 25-hectare zoo shelters Siberian tigers, snow leopards, okapis and polar foxes. The botanical garden holds about 3,500 plant varieties and the national jardin remarquable label.",
+   "tip": "Allow half a day. Visit in spring when the irises and peonies bloom.",
+   "q": "Parc zoologique et botanique, Mulhouse",
+   "ll": [
+    47.7347,
+    7.35039
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Parc_zoologique_et_botanique_de_Mulhouse"
+   ]
+  },
+  {
+   "id": "belvedere",
+   "cat": "dene",
+   "area": "mulhouse",
+   "title": "Climb the Tour du Belvédère above the Rebberg",
+   "desc": "The Rebberg takes its name from German words for vine and hill, as the slopes were once vineyards before becoming a district of villas for the Protestant industrial elite. A 20 m metal tower here is open to the public and offers a panoramic view of the region.",
+   "tip": "Go on a clear day for the best view.",
+   "q": "Tour du Belvédère, Rebberg, Mulhouse",
+   "ll": [
+    47.72917,
+    7.34389
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Rebberg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "motoco",
+   "cat": "gor",
+   "area": "mulhouse",
+   "title": "Visit the artists of Motoco on the DMC site",
+   "desc": "Motoco occupies Building 75 on the former DMC thread works site and houses between 120 and 140 resident artists and craftspeople. The DMC company, Dollfus-Mieg, was founded in Mulhouse in 1746, and this industrial wasteland has been reinvented as a creative district.",
+   "tip": "Check the website for open days and exhibitions, as most studios are private.",
+   "q": "Motoco, 11 Rue des Brodeuses, Mulhouse",
+   "ll": [
+    47.74908,
+    7.31574
+   ],
+   "src": [
+    "https://www.mulhouse.fr/wp-content/uploads/2025/09/Ville-de-Mulhouse-CP-La-Ville-poursuit-la-reconversion-de-ses-friches-industrielles.pdf",
+    "https://fr.wikipedia.org/wiki/Dollfus-Mieg_et_Compagnie"
+   ]
+  },
+  {
+   "id": "kunsthalle",
+   "cat": "gor",
+   "area": "mulhouse",
+   "title": "Browse free contemporary art at La Kunsthalle",
+   "desc": "La Kunsthalle is a contemporary art centre of national interest, run by the city and housed in the former foundry building shared with the University of Haute-Alsace. It has about 700 sqm of gallery space for temporary exhibitions, and entry is free.",
+   "tip": "Opening days vary, with closure on Monday and Tuesday. Check the current show before going.",
+   "q": "La Kunsthalle, 16 Rue de la Fonderie, Mulhouse",
+   "ll": [
+    47.73915,
+    7.3319
+   ],
+   "src": [
+    "https://musees-mulhouse.fr/en/museums/la-kunsthalle-mulhouse/"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "electropolis",
+   "cat": "gor",
+   "area": "mulhouse",
+   "title": "Meet the 170-tonne steam engine at Electropolis",
+   "desc": "Electropolis is a 4,000 sqm museum of electricity and household appliances. Its centrepiece is a 1901 Sulzer-BBC steam engine, 170 tonnes and about 15 m long, which powered the DMC mill from 1901 to 1947. It holds over 12,000 objects, including an Edison phonograph.",
+   "tip": "It is next to the Cité du Train, so combine the two in one day.",
+   "q": "Musée Electropolis, Rue du Pâturage, Mulhouse",
+   "ll": [
+    47.74905,
+    7.29516
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Electropolis"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "tourdiable",
+   "cat": "gor",
+   "area": "mulhouse",
+   "title": "Find the Tour du Diable, once a witch prison",
+   "desc": "This fortifiéd tower is a remnant of Mulhouse's old wall, dating to around 1222. In the 15th century it held people accused of witchcraft, which gave it its name, and it has been a listed monument since 1929.",
+   "tip": "It stands among university buildings, so it is a quick stop on a walk through the upper town.",
+   "q": "Tour du Diable, Rue de la Tour du Diable, Mulhouse",
+   "ll": [
+    47.74348,
+    7.33067
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Tour_du_Diable"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "beauxarts",
+   "cat": "gor",
+   "area": "mulhouse",
+   "title": "Look for Brueghel at the Musée des Beaux-Arts",
+   "desc": "Founded in 1864, the museum is in the 18th-century Villa Steinbach on place Guillaume-Tell. It has European paintings from the late Middle Ages to now, including Pieter Brueghel the Younger's skating scene and works by Bouguereau and Courbet, plus a room for Mulhouse-born painter Jean-Jacques Henner.",
+   "tip": "Allow an hour and head straight for the Brueghel. Check opening days.",
+   "q": "Musée des Beaux-Arts, 4 Place Guillaume-Tell, Mulhouse",
+   "ll": [
+    47.7458,
+    7.33837
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_Beaux-Arts_de_Mulhouse"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "citeouvriere",
+   "cat": "gor",
+   "area": "mulhouse",
+   "title": "Walk the first workers' city, the Cité Ouvriere",
+   "desc": "The Société mulhousienne des cités ouvrières was founded in 1853 on the initiative of Jean Dollfus. It built semi-detached houses with gardens, called le carré mulhousien, and a rent-to-own scheme let workers become owners over fifteen years.",
+   "tip": "Take a short wander around the Cour de Lorraine area to see the surviving streets.",
+   "q": "Société mulhousienne des cités ouvrières, Mulhouse",
+   "ll": [
+    47.74322,
+    7.33486
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_mulhousienne_des_cit%C3%A9s_ouvri%C3%A8res"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "noelmulhouse",
+   "cat": "ye",
+   "area": "mulhouse",
+   "title": "Wander Mulhouse's fabric-draped Christmas market",
+   "desc": "The market on Place de la Réunion fronts the Temple Saint-Étienne and the town hall. Each year the city creates a new Christmas fabric, a practice since 1998, which is draped on facades and used to dress the chalets, echoing the textile heritage.",
+   "tip": "Visit on a weekday daytime when the narrow streets are quieter. Check the opening dates.",
+   "q": "Place de la Réunion, Mulhouse",
+   "ll": [
+    47.7466,
+    7.3393
+   ],
+   "src": [
+    "https://www.christmas.alsace/mulhouse-christmas-market/",
+    "https://www.mulhouse.fr/wp-content/uploads/2025/03/DOSSIER-PRESSE-NOEL-2024.pdf"
+   ],
+   "months": [
+    11,
+    12
+   ]
+  },
+  {
+   "id": "sauwadala",
+   "cat": "ye",
+   "area": "mulhouse",
+   "title": "Eat choucroûte at Zum Säuwadala",
+   "desc": "Zum Säuwadala is a traditional Alsatian winstub at 13 rue de l'Arsenal. Reviewers praise its choucroûte en croûte and its bière flambée, and it is often full.",
+   "tip": "Book ahead. One reviewer notes the choucroûte must be ordered 24 to 48 hours in advance.",
+   "q": "Zum Säuwadala, 13 Rue de l'Arsenal, Mulhouse",
+   "ll": [
+    47.74666,
+    7.3341
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/1193852/restaurant-zum-sauwadala"
+   ]
+  },
+  {
+   "id": "winstubfactory",
+   "cat": "ye",
+   "area": "mulhouse",
+   "title": "Try rösti and tarte flambée at Winstub Factory",
+   "desc": "Winstub Factory at Place de la Victoire is a more modern take on a winstub. Its menu includes crisp tarte flambée, spätzle and a rösti burger.",
+   "tip": "Go for a casual lunch and order the tarte flambée to share.",
+   "q": "Winstub Factory, 5 Place de la Victoire, Mulhouse",
+   "ll": [
+    47.74754,
+    7.33985
+   ],
+   "src": [
+    "https://rankeat.fr/restaurants/winstub-factory-mulhouse"
+   ]
+  },
+  {
+   "id": "vieuxcouvent",
+   "cat": "ye",
+   "area": "mulhouse",
+   "title": "Dine at the family-run Caves du Vieux Couvent",
+   "desc": "Aux Caves du Vieux Couvent is a family-run winstub-style cellar at 23 rue du Vieux Couvent, run by the same family for about thirty years according to a regional guide.",
+   "tip": "It is closed on Mondays, Wednesday evenings and Sunday evenings, so check before going.",
+   "q": "Aux Caves du Vieux Couvent, Rue du Couvent, Mulhouse",
+   "ll": [
+    47.74874,
+    7.33547
+   ],
+   "src": [
+    "https://www.gillespudlowski.com/?p=155029"
+   ]
+  },
+  {
+   "id": "husser",
+   "cat": "ye",
+   "area": "mulhouse",
+   "title": "Taste pastries at Dany Husser",
+   "desc": "Dany Husser is a pâtissier-chocolatier at 15 rue de la Moselle. One listing describes its historic know-how and says it uses no industrial products.",
+   "tip": "Pick up chocolates for a gift and a pastry for a stroll.",
+   "q": "Dany Husser, 15 Rue de la Moselle, Mulhouse",
+   "ll": [
+    47.74857,
+    7.34022
+   ],
+   "src": [
+    "https://mapstr.com/place/fIfYTWGxMEg"
+   ]
+  },
+  {
+   "id": "cafemozart",
+   "cat": "ye",
+   "area": "mulhouse",
+   "title": "Take tea at Café Mozart on the main square",
+   "desc": "Café Mozart is a salon de thé at 25 place de la Réunion with a terrace facing the town hall and the Temple Saint-Étienne.",
+   "tip": "Take a terrace seat for the view of the painted town hall.",
+   "q": "Café Mozart, 25 Place de la Réunion, Mulhouse",
+   "ll": [
+    47.74663,
+    7.33827
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/1232769/caf%C3%A9-mozart"
+   ]
+  },
+  {
+   "id": "tilvist",
+   "cat": "ye",
+   "area": "mulhouse",
+   "title": "Stop at Tilvist for coffee and shopping",
+   "desc": "Tilvist at 23 rue de la Moselle combines a cafe, a tea room and a shop, according to Mapstr.",
+   "tip": "Good for a coffee break while browsing the shop.",
+   "q": "Tilvist, 23 Rue de la Moselle, Mulhouse",
+   "ll": [
+    47.74903,
+    7.34083
+   ],
+   "src": [
+    "https://mapstr.com/place/a7XwBjDxBXg"
+   ]
+  },
+  {
+   "id": "eguisheim",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Circle the lanes of Eguisheim",
+   "desc": "Eguisheim has been listed among Les Plus Beaux Villages de France since 2003, with half-timbered houses on rue des Remparts and two grands crus, Eichberg and Pfersigberg. It is the presumed birthplace of Bruno of Eguisheim-Dagsbourg, who became Pope Leo IX.",
+   "tip": "Come early before tour groups and walk the lanes slowly.",
+   "q": "Eguisheim village centre, Eguisheim",
+   "ll": [
+    48.04361,
+    7.30667
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Eguisheim"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "chateausaintleon",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stand in the octagon of Château Saint-Léon",
+   "desc": "The surviving wall of the Eguisheim castle forms a near-regular octagon of about 13 m per side. A neo-Romanesque chapel consecrated in 1894 has a statue of Saint Leo IX above its entrance, though the claim that he was born here is disputed.",
+   "tip": "The chapel is generally open to visitors.",
+   "q": "Château Saint-Léon, Place du Château, Eguisheim",
+   "ll": [
+    48.04264,
+    7.30608
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_Saint-L%C3%A9on_d%27%C3%89guisheim"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "wolfberger",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste free crémant at Wolfberger in Eguisheim",
+   "desc": "Founded as a cooperative in 1902, the Eguisheim cellar is one of the oldest in Alsace and is known for its crémants, with around twenty cuvées. A discovery area has a scent table, and tastings are free for individuals.",
+   "tip": "The cellar is at 6 Grand'Rue. Check current hours before going.",
+   "q": "Wolfberger, 6 Grand'Rue, Eguisheim",
+   "ll": [
+    48.04208,
+    7.31008
+   ],
+   "src": [
+    "https://www.tourisme-eguisheim-rouffach.com/EN/Cave-Vinicole-WOLFBERGER-f253001003.html"
+   ]
+  },
+  {
+   "id": "riquewihr",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stroll Riquewihr, the village that escaped the war",
+   "desc": "Riquewihr escaped Second World War destruction thanks to its cul-de-sac position, and many 16th-century houses survive. The Schoenenbourg hill shelters it from northern winds, and it is listed among the Plus Beaux Villages de France.",
+   "tip": "Visit early or late, as the main street crowds by midday.",
+   "q": "Riquewihr village centre, Riquewihr",
+   "ll": [
+    48.16722,
+    7.29778
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Riquewihr"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "dolder",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb to the Dolder tower in Riquewihr",
+   "desc": "The Dolder was built in 1291 as the upper town gate and has a 25 m belfry. It now houses the local museum of folk art and tradition.",
+   "tip": "Check opening dates before climbing. It is on the main street.",
+   "q": "Dolder, Rue du Général de Gaulle, Riquewihr",
+   "ll": [
+    48.1672,
+    7.29563
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Riquewihr"
+   ]
+  },
+  {
+   "id": "hugel",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Riesling at Famille Hugel in Riquewihr",
+   "desc": "Hugel is a family wine house that traces its origins to 1639, when Swiss-born Hans Ulrich Hugel settled in Riquewihr. A small tasting room sits in the old Maison Hugel in the village centre, and the Schoenenbourg site gives its best Riesling.",
+   "tip": "Book a tasting in advance. Try the Classic Riesling.",
+   "q": "Famille Hugel, 1 Rue de la 1ère Armee, Riquewihr",
+   "ll": [
+    48.16685,
+    7.29745
+   ],
+   "src": [
+    "https://www.decanter.com/wine/producer-profiles/producer-profile-hugel-265129/2",
+    "https://schiller-wine.blogspot.com/2018/01/tour-and-tasting-at-hugel-in-riquewhir.html"
+   ]
+  },
+  {
+   "id": "kaysersbergbridge",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Cross the fortifiéd bridge at Kaysersberg",
+   "desc": "The fortifiéd bridge over the Weiss was built in 1514 and has loopholes along its parapets and a chapel in the middle with a polychrome Virgin. Kaysersberg won the Village préféré des Français TV programme in 2017.",
+   "tip": "Visit in the early morning when the bridge is quiet.",
+   "q": "Pont fortifié, Kaysersberg",
+   "ll": [
+    48.13994,
+    7.26073
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Kaysersberg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kaysersbergcastle",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Climb to the Kaysersberg castle ruin",
+   "desc": "The ruined Schlossberg castle sits on a granite ridge and dominates the town's north-western ramparts.",
+   "tip": "Wear sturdy shoes and go in the late afternoon for the light.",
+   "q": "Château de Kaysersberg, Kaysersberg",
+   "ll": [
+    48.14031,
+    7.26231
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Kaysersberg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "schweitzer",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the birthplace of Albert Schweitzer",
+   "desc": "The museum is built around the former Protestant presbytery where Albert Schweitzer was born on 14 January 1875. It shows photographs, documents and personal souvenirs about his Lambaréné hospital in Gabon, along with Gabonese masks, instruments and a pirogue.",
+   "tip": "Allow an hour and check opening days.",
+   "q": "Musée Albert Schweitzer, Kaysersberg",
+   "ll": [
+    48.14083,
+    7.25896
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Mus%C3%A9e_Albert-Schweitzer_(Kaysersberg)"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "chambard",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at Le Chambard in Kaysersberg",
+   "desc": "Le Chambard is a hotel-restaurant at 13 rue du Général de Gaulle in Kaysersberg, whose winstub is cited in a food guide to the wine villages.",
+   "tip": "Book ahead, as the winstub is small.",
+   "q": "Le Chambard, 13 Rue du Général de Gaulle, Kaysersberg",
+   "ll": [
+    48.1388,
+    7.26554
+   ],
+   "src": [
+    "https://doeatbetterexperience.com/blog/alsace-wine-villages-food-guide/"
+   ]
+  },
+  {
+   "id": "kientzheim",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Taste wine history in Kientzheim's castle museum",
+   "desc": "The wine museum of Alsace opened in 1980 in the premises of the Confrerie Saint-Étienne, in the Schwendi castle. The village has a grimacing 15th-century Porte Basse, and Lazarus von Schwendi, said to have brought pinot gris from Hungary, is buried in the village church.",
+   "tip": "Check opening days, and wander the ramparts afterwards.",
+   "q": "Château de Lupfen-Schwendi, Kientzheim",
+   "ll": [
+    48.13721,
+    7.28654
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Kientzheim"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "turckheimnight",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Follow the night watchman through Turckheim",
+   "desc": "Turckheim's night watchman walks his round at 22:00 from 1 May to 31 October, on the first three Saturdays of Advent and at midnight on 31 December. The tradition recalls a 13th-century fire watch, and the town has three gates, Porte de France, Porte du Brand and Porte de Munster.",
+   "tip": "Arrive a few minutes early near the town hall.",
+   "q": "Hôtel de ville, Turckheim",
+   "ll": [
+    48.0874,
+    7.27794
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Turckheim"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    12
+   ]
+  },
+  {
+   "id": "pochecolmar",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Relive the Colmar Pocket in Turckheim's war museum",
+   "desc": "This museum in a vaulted cellar of an 18th-century presbytery covers the winter fighting of 1944 to 1945 in the Colmar Pocket. A 105 mm American howitzer stands in the courtyard, and the museum was inaugurated on 11 November 1993.",
+   "tip": "Allow an hour and check opening hours.",
+   "q": "Musée mémorial des combats de la poche de Colmar, Turckheim",
+   "ll": [
+    48.08842,
+    7.27671
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Mus%C3%A9e_m%C3%A9morial_des_combats_de_la_poche_de_Colmar"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ribeauvilletour",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Pass through the Tour des Bouchers in Ribeauvillé",
+   "desc": "The Tour des Bouchers is a medieval gate tower in Ribeauvillé's fortifiéd walls. The town is known for its grand cru whites, and the Pfifferdaj festival of minstrels is held on the first Sunday of September.",
+   "tip": "Walk the main street at dawn for quiet.",
+   "q": "Tour des Bouchers, Ribeauvillé",
+   "ll": [
+    48.19528,
+    7.31856
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Metzgerturm_(Ribeauvill%C3%A9)",
+    "https://fr.wikipedia.org/wiki/Ribeauvill%C3%A9"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "threecastles",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike to the three castles above Ribeauvillé",
+   "desc": "Saint-Ulrich, Girsberg and Haut-Ribeaupierre form a trio of ruined castles above the town. The group has been listed as historic monuments since 1841 and 1930.",
+   "tip": "Start from the town and allow a few hours for the climb.",
+   "q": "Château de Saint-Ulrich, Ribeauvillé",
+   "ll": [
+    48.2027,
+    7.3052
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Saint-Ulrich"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hunawihr",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Meet otters and storks at NaturOparc in Hunawihr",
+   "desc": "The NaturOparc is a breeding and reintroduction centre for the European otter on a 5-hectare site, and its name includes the storks it also cares for. The village's Saint-Jacques fortifiéd church has been shared by Catholics and Protestants since 1687.",
+   "tip": "Hunawihr is also a Plus Beau Village, so leave time to walk around the church.",
+   "q": "NaturOparc, Hunawihr",
+   "ll": [
+    48.17999,
+    7.32264
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Hunawihr"
+   ]
+  },
+  {
+   "id": "bergheim",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the ramparts of Bergheim",
+   "desc": "Bergheim is described as a completely fortifiéd town with surviving towers and walls. Two wars and the plague in the 17th and 18th centuries wiped out the population, and immigrants from across Europe resettled it.",
+   "tip": "Walk the ramparts and the Upper Gate on a quiet afternoon.",
+   "q": "Fortifications de Bergheim, Bergheim",
+   "ll": [
+    48.2059,
+    7.35898
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Bergheim,_Haut-Rhin"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hohlandsbourg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Hike up to the Hohlandsbourg castle",
+   "desc": "Begun in 1279, the Hohlandsbourg was bought in 1563 by Lazarus von Schwendi and modernised for artillery. It was dismantled in 1637, and from its 640 m ridge near Colmar the view reaches as far as Basel on clear days.",
+   "tip": "Check the castle's visiting hours, and bring a layer for the wind.",
+   "q": "Château du Hohlandsbourg, Wintzenheim",
+   "ll": [
+    48.06,
+    7.26917
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_du_Hohlandsbourg"
+   ]
+  },
+  {
+   "id": "maisonfromage",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Munster cheese at the Maison du Fromage",
+   "desc": "The Maison du Fromage in Gunsbach has a film about the marcaires, a visit to the cowshed, a guided production demonstration, and a tasting of three cheeses with wine or syrup. Visits run in French, German and English, and a restaurant serves homemade food.",
+   "tip": "Visit in the morning and stay for lunch at the restaurant.",
+   "q": "Maison du Fromage, 23 Rue de Munster, Gunsbach",
+   "ll": [
+    48.04565,
+    7.16697
+   ],
+   "src": [
+    "https://maisondufromage-munster.com/en_GB/groupes"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "frankenthal",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat a marcaire lunch at the Frankenthal marcairerie",
+   "desc": "Marcairies are farm inns in the Vosges that still serve the marcaire meal, with Munster cheese as a centrepiece. The Marcairerie du Frankenthal sits beneath the Hohneck and serves traditional food in season.",
+   "tip": "Go for lunch in the hiking season, and check opening dates.",
+   "q": "Marcairerie du Frankenthal, Stosswihr",
+   "ll": [
+    48.0433,
+    7.02131
+   ],
+   "src": [
+    "https://www.explore-grandest.com/?p=147727",
+    "https://vallee-munster.eu/?p=11439"
+   ]
+  },
+  {
+   "id": "hohrod",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Visit a Munster cheese farm at Hohrod",
+   "desc": "Ferme Versant du Soleil in Hohrod offers a farmer-led look at Munster cheese making, with guided visits listed for individuals on Tuesdays and Thursdays at 10 a.m.",
+   "tip": "Check the current schedule with the tourist office before going.",
+   "q": "Ferme Versant du Soleil, Hohrod",
+   "ll": [
+    48.05207,
+    7.12263
+   ],
+   "src": [
+    "https://tourisme-colmar.com/en/component/joomlei/F231001924_cheese-factory-ferme-versant-du-soleil-hohrod"
+   ]
+  },
+  {
+   "id": "lacnoir",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk around the glacial Lac Noir",
+   "desc": "Lac Noir is a morainic glacial lake of about 14 hectares and 45 m depth in a glacial cirque ringed by granite cliffs. Lac Blanc lies about 1 km upstream and is roughly three times larger.",
+   "tip": "Bring layers, as mountain weather changes fast.",
+   "q": "Lac Noir, Orbey",
+   "ll": [
+    48.1131,
+    7.09697
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Lac_Noir_(Haut-Rhin)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "grandballon",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Reach the top of the Vosges at Grand Ballon",
+   "desc": "At 1,424 m, the Grand Ballon is the highest summit of the Vosges massif. On clear days from October to May, the Mont Blanc massif is visible from about 229 km away.",
+   "tip": "Go on a clear day and bring a jacket.",
+   "q": "Grand Ballon, Route des Crêtes",
+   "ll": [
+    47.90083,
+    7.09806
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Grand_Ballon"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hwk",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the Hartmannswillerkopf battlefield",
+   "desc": "At 957 m, this summit saw fierce fighting in 1915, and French soldiers called it the man-eater. The national monument at Silberloch pass has statues by Antoine Bourdelle, and about 45 km of trenches are preserved, with a Franco-German Historial.",
+   "tip": "Allow half a day and wear good shoes.",
+   "q": "Hartmannswillerkopf, Vieil-Armand, Wattwiller",
+   "ll": [
+    47.8611,
+    7.1611
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Hartmannswillerkopf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "thann",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look up at Thann's collegiate church",
+   "desc": "The Saint-Thiébaut collegiate church has a 78 m tower and a west portal with about 150 carved scenes. Its choir stalls, dated after 1492, are called the finest in Alsace.",
+   "tip": "Visit the portal in good light.",
+   "q": "Collégiale Saint-Thiébaut, Thann",
+   "ll": [
+    47.81107,
+    7.10157
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Coll%C3%A9giale_Saint-Thi%C3%A9baut_de_Thann"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ecomusee",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Explore the Écomusée d'Alsace village",
+   "desc": "The Écomusée d'Alsace in Ungersheim is an open-air museum of about 80 historic rural buildings from across Alsace, and claims to be the largest in France.",
+   "tip": "Allow a full day, and check seasonal opening.",
+   "q": "Écomusée d'Alsace, Ungersheim",
+   "ll": [
+    47.8527,
+    7.2859
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/%C3%89comus%C3%A9e_d%27Alsace"
+   ]
+  },
+  {
+   "id": "neufbrisach",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk Vauban's ideal city of Neuf-Brisach",
+   "desc": "Vauban planned Neuf-Brisach for Louis XIV, with work beginning in 1698 within an octagonal fortification and a regular grid of streets. It was added to the UNESCO list in 2008 and finished by Cormontaigne after Vauban died in 1707.",
+   "tip": "Walk the ramparts and the central square.",
+   "q": "Neuf-Brisach",
+   "ll": [
+    48.01889,
+    7.52917
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Neuf-Brisach"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ensisheim",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Europe's first recorded meteorite in Ensisheim",
+   "desc": "The Ensisheim meteorite fell on the town in 1492 and is the first meteorite recorded and documented in Europe. It is kept in the Musée de la Régence, in the Renaissance palace begun in 1535, once the capital of the Austrian territories in Upper Alsace.",
+   "tip": "Check the museum's opening days.",
+   "q": "Musée de la Régence, Ensisheim",
+   "ll": [
+    47.8654,
+    7.35204
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Ancien_Palais_de_la_R%C3%A9gence_d%27Ensisheim"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "guebwiller",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the Dominicans' church in Guebwiller",
+   "desc": "The Dominicans bought Guebwiller's former customs house in 1294, and the church nave was begun in 1306. Painted layers on its rood screen date from the late 14th century, and the site has been a cultural centre since 2013.",
+   "tip": "Check the programme for concerts and exhibitions.",
+   "q": "Les Dominicains de Haute-Alsace, Guebwiller",
+   "ll": [
+    47.908,
+    7.21407
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Couvent_des_Dominicains_de_Guebwiller"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "murbach",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Marvel at Murbach's Romanesque abbey church",
+   "desc": "The abbey of Murbach was founded in 727 by Count Eberhard of Eguisheim and is a masterpiece of Rhenish Romanesque art. In 1228 its abbot became a prince of the Holy Roman Empire, and the church became the parish church in 1765.",
+   "tip": "Come on a quiet morning for the setting.",
+   "q": "Abbaye de Murbach, Murbach",
+   "ll": [
+    47.92333,
+    7.15791
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Abbaye_de_Murbach"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rouffach",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Spot the stork nest on Rouffach's Witches' Tower",
+   "desc": "The Tour des Sorcières has a round 13th-century base and square 14th and 15th-century upper floors. It served as a prison for centuries, named after women accused of witchcraft, and is topped with a stork nest.",
+   "tip": "Combine it with a walk through the old town.",
+   "q": "Tour des Sorcières, Rouffach",
+   "ll": [
+    47.9556,
+    7.29964
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Tour_des_Sorci%C3%A8res_(Rouffach)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rixheim",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See panoramic wallpapers at the Rixheim museum",
+   "desc": "The wallpaper museum occupies a wing of the former Teutonic Knights' commandery. It displays eight permanent panoramic wallpapers, including Les vues d'Amérique du Nord, a copy of which was placed in the White House in 1961 and 1962.",
+   "tip": "Allow an hour.",
+   "q": "Musée du papier peint, Rixheim",
+   "ll": [
+    47.74413,
+    7.39742
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Mus%C3%A9e_du_papier_peint_de_Rixheim"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "carpefrite",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Crunch fried carp in the Sundgau",
+   "desc": "Fried carp is a Sundgau speciality, with steaks or fillets coated in semolina and deep-fried. The Routes de la Carpe Frite association, founded in 1975, links around twenty restaurants, and Au Chaudron in Vieux-Ferrette lists carpe frite as a featured dish.",
+   "tip": "Book ahead and eat the carp with your fingers.",
+   "q": "Au Chaudron, Place de l'Ancienne Forge, Vieux-Ferrette",
+   "ll": [
+    47.50329,
+    7.30162
+   ],
+   "src": [
+    "https://www.sundgau-sud-alsace.fr/en/restore/or-eat-fried-carp/",
+    "https://fr.gaultmillau.com/fr/restaurants/au-chaudron"
+   ]
+  }
+ ]
+}

@@ -121,7 +121,7 @@
     g.beginPath(); g.arc(m, m, r + 9, 0, 7); g.fillStyle = pct >= 100 ? "#f59e0b" : cur ? color : "#ffffff"; g.fill();
     g.shadowColor = "transparent";
     g.beginPath(); g.arc(m, m, r + 2, 0, 7); g.fillStyle = "#ffffff"; g.fill();
-    g.lineWidth = 9; g.strokeStyle = "#e5e7eb";
+    g.lineWidth = 9; g.strokeStyle = mixHex("#ffffff", color, 0.3);
     g.beginPath(); g.arc(m, m, r - 6, 0, 7); g.stroke();
     if (pct > 0) {
       g.strokeStyle = color; g.lineCap = "round";
@@ -150,7 +150,7 @@
     return g.getImageData(0, 0, W, H);
   }
 
-  // Completion colour: unexplored regions sit under grey "fog"; the more you complete, the more vivid their colour.
+  // Completion colour: unexplored regions show a light tint of their own colour; the more you complete, the more vivid it gets.
   function mixHex(a, b, t) {
     var x = parseInt(a.slice(1), 16), y = parseInt(b.slice(1), 16), out = "#";
     [16, 8, 0].forEach(function (sh) {
@@ -160,9 +160,8 @@
     return out;
   }
   function regionPaint(color, pct) {
-    if (!pct) return { fill: "#94a3b8", fop: 0.2 };
-    var k = Math.pow(pct / 100, 0.7);
-    return { fill: mixHex("#e2e8f0", color, 0.35 + 0.65 * k), fop: 0.24 + 0.4 * k };
+    var k = Math.pow((pct || 0) / 100, 0.7);
+    return { fill: mixHex("#e2e8f0", color, 0.55 + 0.45 * k), fop: 0.22 + 0.4 * k };
   }
   function fc(features) { return { type: "FeatureCollection", features: features }; }
   function point(p, props) { return { type: "Feature", properties: props || {}, geometry: { type: "Point", coordinates: [p[1], p[0]] } }; }
@@ -208,7 +207,8 @@
   function badgePoints() {
     return fc(Object.keys(cities).map(function (id) {
       var st = cityStats(id), c = cityCenter(cities[id]);
-      return point([c[1], c[0]], { id: id, name: cities[id].name, count: st.done + " / " + st.total, img: "rb-" + id + (id === cityId ? "-cur" : "") });
+      return point([c[1], c[0]], { id: id, name: cities[id].name, count: st.done + " / " + st.total, img: "rb-" + id + (id === cityId ? "-cur" : ""),
+        rank: (id === cityId ? 0 : 100000) - st.pct * 100 - st.total });
     }));
   }
   function questsGeo() {
@@ -299,9 +299,9 @@
     map.addLayer({ id: "region-hover", type: "fill", source: "regions", filter: ["==", ["get", "id"], ""],
       paint: { "fill-color": ["get", "color"], "fill-opacity": 0.3 } }, first);
     map.addLayer({ id: "region-casing", type: "line", source: "regions", layout: round,
-      paint: { "line-color": "#ffffff", "line-opacity": 0.9, "line-blur": 0.6, "line-width": zw(3.5, 7) } }, first);
+      paint: { "line-color": "#ffffff", "line-opacity": 0.9, "line-blur": 0.6, "line-width": zw(3, 7) } }, first);
     map.addLayer({ id: "region-line", type: "line", source: "regions", layout: round,
-      paint: { "line-color": ["get", "color"], "line-opacity": ["case", [">", ["get", "pct"], 0], 1, 0.55], "line-width": zw(1.8, 3) } }, first);
+      paint: { "line-color": ["get", "color"], "line-opacity": ["case", [">", ["get", "pct"], 0], 1, 0.85], "line-width": zw(2.2, 3) } }, first);
     map.addLayer({ id: "region-gold", type: "line", source: "regions", filter: ["==", ["get", "full"], 1], layout: round,
       paint: { "line-color": "#f59e0b", "line-blur": 0.5, "line-width": zw(4, 7) } }, first);
     map.addLayer({ id: "region-cur", type: "line", source: "regions", layout: round, filter: ["==", ["get", "id"], cityId],
@@ -350,9 +350,9 @@
       "circle-radius": 30, "circle-color": ac, "circle-opacity": 0.12, "circle-stroke-color": ac, "circle-stroke-width": 3 } });
     map.addSource("country-points", { type: "geojson", data: countriesGeo(true) });
     map.addLayer({ id: "country-labels", type: "symbol", source: "country-points", maxzoom: 8.8, layout: {
-      "icon-image": ["concat", "flag-", ["get", "cc"]], "icon-anchor": "bottom", "icon-allow-overlap": true,
+      "icon-image": ["concat", "flag-", ["get", "cc"]], "icon-anchor": "bottom", "icon-padding": 4,
       "text-field": ["get", "name"], "text-font": ["Noto Sans Bold"], "text-size": 14, "text-letter-spacing": 0.18,
-      "text-anchor": "top", "text-offset": [0, 0.3], "text-allow-overlap": true },
+      "text-anchor": "top", "text-offset": [0, 0.3], "text-padding": 4 },
       paint: { "text-color": "#1e293b", "text-halo-color": "#ffffff", "text-halo-width": 2.6 } });
     map.addSource("soon-points", { type: "geojson", data: soonPoints() });
     map.addLayer({ id: "soon-labels", type: "symbol", source: "soon-points", minzoom: 6.3, maxzoom: OVERVIEW_ZOOM, layout: {
@@ -360,11 +360,16 @@
       "text-font": ["Noto Sans Bold"], "text-size": 12, "text-line-height": 1.15, "text-padding": 6 },
       paint: { "text-color": dark ? "#94a3b8" : "#64748b", "text-halo-color": halo, "text-halo-width": 2 } });
     map.addSource("region-points", { type: "geojson", data: badgePoints() });
+    // Zoomed out, bubbles shrink and take turns: the current region first, then those with the most progress and quests.
+    // A name that does not fit is left out rather than drawn over its neighbours.
+    var zs = function (a, b, c) { return ["interpolate", ["linear"], ["zoom"], 5, a, 7.5, b, 9, c]; };
     map.addLayer({ id: "region-badges", type: "symbol", source: "region-points", maxzoom: OVERVIEW_ZOOM, layout: {
-      "icon-image": ["get", "img"], "icon-allow-overlap": true, "icon-ignore-placement": true,
+      "icon-image": ["get", "img"], "icon-size": zs(0.55, 0.78, 1), "icon-padding": 1,
+      "symbol-sort-key": ["get", "rank"],
       "text-field": ["format", ["get", "name"], {}, "\n", {}, ["get", "count"], { "font-scale": 0.85, "text-color": "#475569" }],
-      "text-font": ["Noto Sans Bold"], "text-size": 13, "text-anchor": "top", "text-offset": [0, 2.3], "text-line-height": 1.15,
-      "text-allow-overlap": true, "text-ignore-placement": true },
+      "text-font": ["Noto Sans Bold"], "text-size": zs(11, 12, 13), "text-anchor": "top",
+      "text-offset": zs(["literal", [0, 1.45]], ["literal", [0, 1.85]], ["literal", [0, 2.3]]), "text-line-height": 1.15,
+      "text-optional": true, "text-padding": 3 },
       paint: { "text-color": "#0f172a", "text-halo-color": "#ffffff", "text-halo-width": 2.4 } });
     map.addSource("me", { type: "geojson", data: fc(mePos ? [point([mePos[1], mePos[0]])] : []) });
     map.addLayer({ id: "me-halo", type: "circle", source: "me", paint: { "circle-radius": 22, "circle-color": "#2f7df6", "circle-opacity": 0.2 } });

@@ -22,7 +22,7 @@ ORDER = ["amsterdam", "rotterdam", "denhaag", "utrecht", "eindhoven", "denbosch"
          "zwolle", "enschede", "groningen", "leeuwarden", "middelburg",
          "brussel", "antwerpen", "gent", "brugge", "luik", "leuven", "mons", "hasselt", "namur",
          "luxembourg", "aachen", "koeln", "duesseldorf", "trier", "frankfurt", "hamburg", "berlin", "muenchen",
-         "paris", "lille", "strasbourg", "lyon", "nice"]
+         "paris", "lille", "boulogne", "amiens", "reims", "strasbourg", "lyon", "nice"]
 COUNTRY_NAME = {"NL": "Netherlands", "BE": "Belgium", "DE": "Germany", "LU": "Luxembourg", "FR": "France"}
 
 cities = {}

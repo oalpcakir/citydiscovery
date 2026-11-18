@@ -1,0 +1,1296 @@
+{
+  "new": [
+    {
+      "id": "vieillebourse",
+      "cat": "gor",
+      "area": "merkez",
+      "title": "Browse the old books in the Vieille Bourse courtyard",
+      "desc": "Lille's Old Exchange was built in 1653, when the city still belonged to Spain, as a square of identical Flemish merchants' houses wrapped around an arcaded courtyard. Today the arcades are taken over by second-hand booksellers, flower sellers and chess players.",
+      "tip": "Walk all four sides of the arcade, then exit on the Place du Théâtre side to see the Opera and the Chamber of Commerce belfry together.",
+      "q": "Vieille Bourse, Lille",
+      "ll": [
+        50.637,
+        3.0643
+      ],
+      "tags": [
+        "free",
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Vieille_Bourse",
+        "https://en.wikipedia.org/wiki/Vieille_Bourse"
+      ]
+    },
+    {
+      "id": "deesse",
+      "cat": "gor",
+      "area": "merkez",
+      "title": "Stand under the Goddess on Lille's Grand'Place",
+      "desc": "The column in the middle of the main square was unveiled in 1845 to honour the Lillois who held out against the Austrian siege of 1792. The bronze goddess by Théophile Bra holds the linstock used to fire cannons and points to the mayor's famous refusal to surrender, carved on the base.",
+      "tip": "Officially this is Place du Général-de-Gaulle, but everyone calls it the Grand'Place. In the Christmas season a big Ferris wheel goes up right next to the column.",
+      "q": "Colonne de la Déesse, Lille",
+      "ll": [
+        50.6369,
+        3.0634
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Colonne_de_la_D%C3%A9esse",
+        "https://fr.wikipedia.org/wiki/Place_du_G%C3%A9n%C3%A9ral-de-Gaulle_(Lille)"
+      ]
+    },
+    {
+      "id": "treille",
+      "cat": "gor",
+      "area": "merkez",
+      "title": "See the marble front of Notre-Dame-de-la-Treille",
+      "desc": "Lille's cathedral took almost 150 years to finish: the first stone was laid in 1854 and the west front was only completed in 1999. That modern facade, designed by Pierre-Louis Carlier with engineer Peter Rice, is a curtain of 110 slabs of Portuguese marble just 28 mm thick, with a rose window by the painter Ladislas Kijno.",
+      "tip": "Step inside on a bright day: seen from within, the thin marble lets the daylight through and glows warm orange.",
+      "q": "Cathédrale Notre-Dame-de-la-Treille, Lille",
+      "ll": [
+        50.64,
+        3.0625
+      ],
+      "tags": [
+        "free",
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_Notre-Dame-de-la-Treille",
+        "https://en.wikipedia.org/wiki/Lille_Cathedral"
+      ]
+    },
+    {
+      "id": "pbalille",
+      "cat": "gor",
+      "area": "merkez",
+      "title": "Meet Goya and Vauban's model towns at the Palais des Beaux-Arts",
+      "desc": "One of the largest art museums in France fills a grand 1892 palace on Place de la République. Upstairs hang Rubens, Van Dyck and Goya's pair Les Jeunes and Les Vieilles; in the basement wait 15 huge 18th-century relief models of fortified towns, built at a scale of 1 to 600 for the kings of France.",
+      "tip": "Head down to the relief maps first, as many visitors miss them.",
+      "q": "Palais des Beaux-Arts, Lille",
+      "ll": [
+        50.6305,
+        3.0628
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Palais_des_Beaux-Arts_de_Lille",
+        "https://en.wikipedia.org/wiki/Palais_des_Beaux-Arts_de_Lille"
+      ]
+    },
+    {
+      "id": "hospicecomtesse",
+      "cat": "gor",
+      "area": "merkez",
+      "title": "Step into the medieval Hospice Comtesse",
+      "desc": "Jeanne of Constantinople, Countess of Flanders, founded a hospital here in 1237 on the grounds of her own palace. The buildings you see today date mostly from the 17th century and now hold a museum of Flemish paintings, furniture and everyday life on Rue de la Monnaie, one of the oldest streets in Lille.",
+      "tip": "The museum is closed on Tuesdays and opens only in the afternoon on Mondays. Afterwards, wander the rest of Rue de la Monnaie for its 17th-century shopfronts.",
+      "q": "Hospice Comtesse, Lille",
+      "ll": [
+        50.6412,
+        3.0632
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Hospice_Comtesse",
+        "https://fr.wikipedia.org/wiki/Rue_de_la_Monnaie_(Lille)",
+        "https://mhc.lille.fr/en/node/1413"
+      ]
+    },
+    {
+      "id": "degaullenatale",
+      "cat": "gor",
+      "area": "merkez",
+      "title": "Visit the house where Charles de Gaulle was born",
+      "desc": "Charles de Gaulle was born on 22 November 1890 at 9 Rue Princesse, the home of his maternal grandparents, a family of textile industrialists. The house opened as a museum in 1983 and shows the bourgeois Lille interior of his childhood along with souvenirs of his life.",
+      "tip": "He was baptised the same day at the Église Saint-André, a few minutes' walk away on Rue Royale, so pair the two.",
+      "q": "Maison natale de Charles de Gaulle, Lille",
+      "ll": [
+        50.6458,
+        3.0588
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Maison_natale_de_Charles_de_Gaulle"
+      ]
+    },
+    {
+      "id": "citadelle",
+      "cat": "gor",
+      "area": "merkez",
+      "title": "Walk around Vauban's 'queen of citadels'",
+      "desc": "Right after Louis XIV took Lille, Vauban built this pentagonal star fort between 1667 and 1670 and called it the queen of citadels. It is still an active army base, so you cannot go inside, but its moats, brick ramparts and the wooded Bois de Boulogne around it make Lille's favourite green escape.",
+      "tip": "Follow the paths along the outer moats and the Deûle canal. The zoo and a small funfair for children sit on the same loop.",
+      "q": "Citadelle de Lille",
+      "ll": [
+        50.6412,
+        3.0445
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Citadelle_de_Lille",
+        "https://en.wikipedia.org/wiki/Citadel_of_Lille"
+      ]
+    },
+    {
+      "id": "palaisrihour",
+      "cat": "gor",
+      "area": "merkez",
+      "title": "Find the Burgundian palace on Place Rihour",
+      "desc": "Behind the cafés of Place Rihour stands the last fragment of a palace built in the 15th century by the Valois Dukes of Burgundy, then the real masters of Flanders. The brick and stone wing with its Gothic windows was listed as a historic monument as early as 1875.",
+      "tip": "Admire it from the middle of Place Rihour, then continue to the Grand'Place two minutes away.",
+      "q": "Palais Rihour, Lille",
+      "ll": [
+        50.6355,
+        3.0621
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Palais_Rihour"
+      ]
+    },
+    {
+      "id": "portedeparis",
+      "cat": "gor",
+      "area": "merkez",
+      "title": "Pass under Louis XIV's triumphal Porte de Paris",
+      "desc": "This city gate was rebuilt at the end of the 17th century as a triumphal arch celebrating the victories of Louis XIV, who had captured Lille in 1667. Also known as the Porte des Malades, it was listed as a historic monument in 1875.",
+      "tip": "It stands on a roundabout right opposite the city hall belfry, so tick off both in one stop.",
+      "q": "Porte de Paris, Lille",
+      "ll": [
+        50.6297,
+        3.0688
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Porte_de_Paris_(Lille)"
+      ]
+    },
+    {
+      "id": "saintmaurice",
+      "cat": "gor",
+      "area": "merkez",
+      "title": "Look up inside the hall church of Saint-Maurice",
+      "desc": "Begun at the end of the 14th century and only finished in the 19th, Saint-Maurice is a Flemish hall church: its naves all rise to the same height, creating a forest of slim pillars. It has been a listed monument since 1840.",
+      "tip": "It is two minutes from Lille-Flandres station, a calm stop if you have time before a train.",
+      "q": "Église Saint-Maurice, Lille",
+      "ll": [
+        50.6359,
+        3.0676
+      ],
+      "tags": [
+        "free",
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Maurice_de_Lille"
+      ]
+    },
+    {
+      "id": "operalille",
+      "cat": "gor",
+      "area": "merkez",
+      "title": "Admire Apollo and the Muses atop the Lille Opera",
+      "desc": "Louis-Marie Cordonnier's opera house was begun in 1907, finished by the German occupiers during the First World War and officially opened in 1923. On the roofline Hippolyte Lefèbvre's group shows Apollo surrounded by the nine Muses, and inside waits a red and gold Italian-style hall of 1,138 seats.",
+      "tip": "The best free view is from the Place du Théâtre at night, when the facade is lit. Seats for the opera and ballet sell fast, so book early if you want to see the hall.",
+      "q": "Opéra de Lille",
+      "ll": [
+        50.6377,
+        3.0653
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Op%C3%A9ra_de_Lille"
+      ]
+    },
+    {
+      "id": "piscine",
+      "cat": "gor",
+      "area": "merkez",
+      "title": "See art around the pool of La Piscine in Roubaix",
+      "desc": "Roubaix's Art Deco swimming baths, built by Albert Baert between 1927 and 1932, now hold the city's museum of art and industry. Sculptures line the old pool under a huge sunburst stained-glass window, and the former changing cubicles display textiles, ceramics and fashion.",
+      "tip": "Méert from Lille runs the tea room inside, so finish with a vanilla waffle.",
+      "q": "La Piscine, Roubaix",
+      "ll": [
+        50.6925,
+        3.1679
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/La_Piscine_(mus%C3%A9e)"
+      ]
+    },
+    {
+      "id": "villacavrois",
+      "cat": "gor",
+      "area": "merkez",
+      "title": "Tour Mallet-Stevens' modernist Villa Cavrois",
+      "desc": "Textile industrialist Paul Cavrois asked Robert Mallet-Stevens for a modern château, and the architect delivered this long horizontal villa in Croix, inaugurated in 1932 at a family wedding. Restored to its original state after decades of neglect, it is a masterpiece of 1930s design down to the bathrooms and furniture.",
+      "tip": "Leave time for the garden side, where a long reflecting pool mirrors the whole facade.",
+      "q": "Villa Cavrois, Croix",
+      "ll": [
+        50.6667,
+        3.164
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Villa_Cavrois",
+        "https://en.wikipedia.org/wiki/Villa_Cavrois"
+      ]
+    },
+    {
+      "id": "lam",
+      "cat": "gor",
+      "area": "merkez",
+      "title": "Discover modern and outsider art at the LaM",
+      "desc": "Set in a park in Villeneuve-d'Ascq, the LaM is the only museum in Europe to show modern art, contemporary art and art brut side by side. Its core is the Dutilleul and Masurel collection of Picasso, Braque, Léger and Modigliani, joined in 1999 by one of France's great collections of outsider art.",
+      "tip": "The art brut wing added in 2010 is the most surprising part, start there. The park around the museum is free to wander and dotted with large sculptures.",
+      "q": "LaM, Villeneuve-d'Ascq",
+      "ll": [
+        50.6376,
+        3.1507
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Lille_M%C3%A9tropole_Mus%C3%A9e_d%27Art_moderne,_d%27Art_contemporain_et_d%27Art_brut"
+      ]
+    },
+    {
+      "id": "roubaixhdv",
+      "cat": "gor",
+      "area": "merkez",
+      "title": "See Roubaix's town hall by the architect of the Gare d'Orsay",
+      "desc": "Roubaix grew rich on wool and cotton, and between 1907 and 1911 it hired Victor Laloux, the architect of the Gare d'Orsay in Paris, to build a town hall to match. The grand stone palace faces the church of Saint-Martin across the Grand-Place.",
+      "tip": "Take metro line 2 to Roubaix Grand-Place; La Piscine museum is a short walk away.",
+      "q": "Hôtel de Ville, Roubaix",
+      "ll": [
+        50.6909,
+        3.1741
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/H%C3%B4tel_de_ville_de_Roubaix"
+      ]
+    },
+    {
+      "id": "muba",
+      "cat": "gor",
+      "area": "merkez",
+      "title": "Explore the MUba fine arts museum in Tourcoing",
+      "desc": "Tourcoing's fine arts museum occupies the Hôtel Roussel-Defontaine, a Napoleon III mansion from 1866 enlarged in 1930. Since 2009 it carries the name of Eugène Leroy, the Tourcoing-born painter of thickly layered canvases, and it likes to hang old masters next to contemporary works.",
+      "tip": "It is right beside Tourcoing town hall; check the programme, as temporary shows change the hang completely.",
+      "q": "MUba Eugène Leroy, Tourcoing",
+      "ll": [
+        50.7233,
+        3.162
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/MUba_Eug%C3%A8ne-Leroy"
+      ]
+    },
+    {
+      "id": "meert",
+      "cat": "ye",
+      "area": "merkez",
+      "title": "Taste a vanilla waffle at Méert, Lille since 1761",
+      "desc": "Founded in 1761, Méert is Lille's most famous pastry house, still at 27 Rue Esquermoise behind a shopfront that is a listed monument. Its speciality is the thin, oval gaufre fourrée, filled with a soft paste of sugar and Madagascar vanilla.",
+      "tip": "Buy a box to take away, as the waffles keep for a few days. The tea room behind the shop is worth a look for its decor alone.",
+      "q": "Méert, 27 Rue Esquermoise, Lille",
+      "ll": [
+        50.6377,
+        3.0619
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Maison_M%C3%A9ert"
+      ]
+    },
+    {
+      "id": "cafemeo",
+      "cat": "ye",
+      "area": "merkez",
+      "title": "Sip coffee at Méo, the Grand'Place roaster",
+      "desc": "Méo has been roasting coffee in Lille since 1928 and has grown into France's largest independent roaster. Its shop on the corner of the Grand'Place still sells beans by weight and pours espresso at the counter.",
+      "tip": "Drink it standing at the bar like the regulars, then take home a bag of the house blend ground to order.",
+      "q": "Cafés Méo, Place du Général de Gaulle, Lille",
+      "ll": [
+        50.6364,
+        3.0633
+      ],
+      "src": [
+        "https://fr.gaultmillau.com/fr/artisans/cafes-meo",
+        "https://www.lagazettefrance.fr/article/meo-l-epicerie-fine-devenue-premiere-torrefactrice-independante-de-france"
+      ]
+    },
+    {
+      "id": "philippeolivier",
+      "cat": "ye",
+      "area": "merkez",
+      "title": "Pick up maroilles at Philippe Olivier",
+      "desc": "This family of cheese agers, in the trade for more than a century, has a shop a few steps from the Grand'Place and ripens part of its stock in its own cellars. It is the place to try the cheeses of the north: maroilles, the spicy boulette d'Avesnes and the pungent Vieux-Lille.",
+      "tip": "Ask for a taste before you buy the Vieux-Lille, a maroilles aged in brine that locals call 'puant macéré', the macerated stinker.",
+      "q": "Philippe Olivier, 3 Rue du Curé Saint-Étienne, Lille",
+      "ll": [
+        50.638,
+        3.0621
+      ],
+      "src": [
+        "https://fr.gaultmillau.com/fr/artisans/fromagerie-philippe-olivier-lille",
+        "https://en.lebonbon.fr/lille/tops-food-and-drink/cheese-shop/"
+      ]
+    },
+    {
+      "id": "trijsel",
+      "cat": "ye",
+      "area": "merkez",
+      "title": "Eat potjevleesch at the estaminet 't Rijsel",
+      "desc": "'t Rijsel is the Flemish name of Lille, and this cosy estaminet on Rue de Gand serves the dishes of French Flanders: potjevleesch, carbonade flamande and welsh. Gault&Millau calls it one of the most authentic tables in the city.",
+      "tip": "Book two or three days ahead for dinner, especially at weekends, as Rue de Gand fills up fast.",
+      "q": "Estaminet 't Rijsel, 25 Rue de Gand, Lille",
+      "ll": [
+        50.6421,
+        3.0659
+      ],
+      "src": [
+        "https://en.wikivoyage.org/wiki/Lille",
+        "https://fr.gaultmillau.com/en/restaurants/l-estaminet-t-rijsel"
+      ]
+    },
+    {
+      "id": "vieuxdelavieille",
+      "cat": "ye",
+      "area": "merkez",
+      "title": "Order carbonade at Au Vieux de la Vieille",
+      "desc": "This traditional estaminet in the pedestrian lanes of Vieux-Lille serves the classics: carbonade flamande, potjevleesch and andouillette, washed down with regional beers on tap.",
+      "tip": "On fine days ask for a table outside on the tiny Place aux Oignons, one of the prettiest corners of the old town.",
+      "q": "Au Vieux de la Vieille, Rue des Vieux Murs, Lille",
+      "ll": [
+        50.6409,
+        3.0614
+      ],
+      "src": [
+        "https://fr.gaultmillau.com/en/restaurant/au-vieux-de-la-vieille"
+      ]
+    },
+    {
+      "id": "merveilleux",
+      "cat": "ye",
+      "area": "merkez",
+      "title": "Try a merveilleux where Aux Merveilleux de Fred began",
+      "desc": "The merveilleux is a Flemish cake of meringue layered with whipped cream and rolled in chocolate shavings. Aux Merveilleux de Fred started in Lille in 1997 and now has shops across the world, all baking in full view of the street.",
+      "tip": "Pair a small merveilleux with a slice of cramique, the raisin brioche they bake in the same shop.",
+      "q": "Aux Merveilleux de Fred, Rue de la Monnaie, Lille",
+      "ll": [
+        50.6413,
+        3.0622
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Aux_Merveilleux_de_Fred"
+      ]
+    },
+    {
+      "id": "brasserieandre",
+      "cat": "ye",
+      "area": "merkez",
+      "title": "Tackle a welsh at Brasserie André",
+      "desc": "Brasserie André has served Lille from Rue de Béthune for about a century and is known for its welsh: bread and ham soaked in beer and buried under melted cheddar, a dish the north adopted from Wales and made its own. It shares the menu with brasserie classics and seafood.",
+      "tip": "A welsh is a full meal on its own, often topped with a fried egg, so skip the starter.",
+      "q": "Brasserie André, 71 Rue de Béthune, Lille",
+      "ll": [
+        50.6333,
+        3.063
+      ],
+      "src": [
+        "https://fr.gaultmillau.com/en/restaurants/la-brasserie-andre",
+        "https://fr.wikipedia.org/wiki/Welsh_(plat)"
+      ]
+    },
+    {
+      "id": "bierbuik",
+      "cat": "ye",
+      "area": "merkez",
+      "title": "Drink house-brewed beer at Bierbuik",
+      "desc": "Chef Florent Ladeyn's estaminet on Rue Royale brews its own beer on site, using hops from the Mont des Cats. Downstairs is a lively brewpub counter, upstairs the Bloemeke dining room serves a fixed Flemish menu.",
+      "tip": "The order to make is frites with maroilles sauce at the downstairs counter.",
+      "q": "Bierbuik, 19 Rue Royale, Lille",
+      "ll": [
+        50.6394,
+        3.0582
+      ],
+      "src": [
+        "https://en.wikivoyage.org/wiki/Lille",
+        "https://fr.gaultmillau.com/en/restaurants/bierbuik"
+      ]
+    },
+    {
+      "id": "chicoree",
+      "cat": "ye",
+      "area": "merkez",
+      "title": "Eat late at La Chicorée on Place Rihour",
+      "desc": "La Chicorée has been feeding Lille since 1903 and spreads its regional brasserie cooking over three floors on Place Rihour. It keeps serving from breakfast until deep into the night, which makes it the classic stop after a night out.",
+      "tip": "Come here when everything else is closed: the kitchen keeps going long after midnight, later still at weekends.",
+      "q": "La Chicorée, 15 Place Rihour, Lille",
+      "ll": [
+        50.6359,
+        3.0633
+      ],
+      "src": [
+        "https://en.wikivoyage.org/wiki/Lille",
+        "https://en.lilletourism.com/get-out/the-best-addresses/restaurants/la-chicoree-lille-en-4431628/"
+      ]
+    },
+    {
+      "id": "celestin",
+      "cat": "ye",
+      "area": "merkez",
+      "title": "Tour the Célestin microbrewery in Vieux-Lille",
+      "desc": "Célestin has brewed in the heart of Vieux-Lille since 2014. Its one-hour tour shows the brewhouse on Rue Jean-Jacques Rousseau and ends with a tasting of three beers, and its beer shop on Rue Esquermoise stocks the full range.",
+      "tip": "Booking is required; English tours are available on request.",
+      "q": "Célestin, 19 Rue Jean-Jacques Rousseau, Lille",
+      "ll": [
+        50.6393,
+        3.0593
+      ],
+      "src": [
+        "https://en.wikivoyage.org/wiki/Lille",
+        "https://en.lilletourism.com/offers/brasserie-celestin-lille-en-4697986"
+      ]
+    },
+    {
+      "id": "braderie",
+      "cat": "dene",
+      "area": "merkez",
+      "title": "Hunt for treasure at the Braderie de Lille",
+      "desc": "On the first weekend of September Lille turns into Europe's biggest flea market: more than two million visitors and about 50 km of stalls over 34 non-stop hours. Its roots go back to a fair recorded in 1127.",
+      "tip": "Go early on Saturday morning for the best finds. Restaurants compete to build the biggest pile of empty mussel shells outside their doors, so have moules-frites at least once.",
+      "q": "Place du Général de Gaulle, Lille",
+      "ll": [
+        50.6371,
+        3.0628
+      ],
+      "tags": [
+        "free"
+      ],
+      "months": [
+        9
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Braderie_de_Lille",
+        "https://en.wikivoyage.org/wiki/Lille"
+      ]
+    },
+    {
+      "id": "beffroilille",
+      "cat": "dene",
+      "area": "merkez",
+      "title": "Climb Lille's belfry, the tallest town hall tower in Europe",
+      "desc": "The 104 m belfry of the city hall was finished in 1932 by Émile Dubuisson in a mix of Art Deco and Flemish styles, and it has been a UNESCO World Heritage site since 2005. Since 2010 visitors can go up for a 360 degree view over the whole metropole.",
+      "tip": "There are about 400 steps but a lift does the hard work. At the foot of the tower look for the giants Lydéric and Phinaert, carved straight into the concrete.",
+      "q": "Beffroi de l'Hôtel de Ville de Lille",
+      "ll": [
+        50.6306,
+        3.0698
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Beffroi_de_l%27h%C3%B4tel_de_ville_de_Lille"
+      ]
+    },
+    {
+      "id": "wazemmes",
+      "cat": "dene",
+      "area": "merkez",
+      "title": "Join the Sunday crowd at the Wazemmes market",
+      "desc": "Every Sunday morning more than 400 stalls surround the brick market hall of Wazemmes, one of the largest markets in France, selling everything from cheese and spices to fabric and junk. Smaller markets run on Tuesday and Thursday mornings, and the covered hall is open all week except Monday.",
+      "tip": "Arrive before 11 am to beat the crush, then join the locals for a drink in the cafés around Place de la Nouvelle-Aventure.",
+      "q": "Halles de Wazemmes, Lille",
+      "ll": [
+        50.6267,
+        3.0493
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/March%C3%A9_de_Wazemmes"
+      ]
+    },
+    {
+      "id": "noellille",
+      "cat": "dene",
+      "area": "merkez",
+      "title": "Warm up at the Lille Christmas market",
+      "desc": "From late November to the end of December, about 90 wooden chalets fill Place Rihour with crafts, mulled wine and northern sweets. Next door on the Grand'Place, a big Ferris wheel lifts you over the lit-up square.",
+      "tip": "Weekday evenings are much calmer than Saturdays. Entry to the market is free; the wheel is paid.",
+      "q": "Place Rihour, Lille",
+      "ll": [
+        50.6358,
+        3.063
+      ],
+      "tags": [
+        "free"
+      ],
+      "months": [
+        11,
+        12
+      ],
+      "src": [
+        "https://en.wikivoyage.org/wiki/Lille",
+        "https://www.pariszigzag.fr/?p=275034"
+      ]
+    },
+    {
+      "id": "velodromeroubaix",
+      "cat": "dene",
+      "area": "merkez",
+      "title": "See the Paris-Roubaix finish at the Roubaix velodrome",
+      "desc": "Opened in 1936, this open-air velodrome is where Paris-Roubaix, the toughest one-day bike race of all, ends after a lap and a half of the track. The riders then wash off the mud in the famous concrete shower cubicles, each one marked with the name of a past winner.",
+      "tip": "Race day is a Sunday in April; the rest of the year the showers can be seen on guided visits, so ask the Roubaix tourist office.",
+      "q": "Vélodrome André Pétrieux, Roubaix",
+      "ll": [
+        50.6781,
+        3.2052
+      ],
+      "months": [
+        4
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/V%C3%A9lodrome_Andr%C3%A9-P%C3%A9trieux",
+        "https://www.roubaixtourisme.com/en/avoir/the-velodrome/"
+      ]
+    },
+    {
+      "id": "losc",
+      "cat": "dene",
+      "area": "merkez",
+      "title": "Cheer for LOSC at the Stade Pierre-Mauroy",
+      "desc": "Lille's football club plays in a 50,000-seat stadium that opened in 2012 with a roof that closes in 30 minutes. Half the pitch can even lift and slide over the other half to turn the bowl into an indoor arena for concerts and basketball.",
+      "tip": "Take metro line 1 to 4 Cantons and walk, or park at Les Prés on line 2 and use the shuttle.",
+      "q": "Stade Pierre-Mauroy",
+      "ll": [
+        50.612,
+        3.1306
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Stade_Pierre-Mauroy",
+        "https://en.wikivoyage.org/wiki/Lille"
+      ]
+    },
+    {
+      "id": "zoolille",
+      "cat": "dene",
+      "area": "merkez",
+      "title": "Visit the zoo at the foot of the Citadelle",
+      "desc": "Opened in 1950 in the Bois de Boulogne park, Lille's zoo houses more than 350 animals of 77 species on 3.5 hectares. It was free until 2016 and is still very cheap, which makes it one of the most visited zoos in France.",
+      "tip": "Combine it with a walk around the Citadelle moats next door.",
+      "q": "Parc zoologique de Lille",
+      "ll": [
+        50.6379,
+        3.046
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Parc_zoologique_de_Lille"
+      ]
+    },
+    {
+      "id": "jardinplantes",
+      "cat": "dene",
+      "area": "merkez",
+      "title": "Escape to the tropics in the Jardin des Plantes",
+      "desc": "Lille's botanical garden in the south of the city is a listed park of lawns and fine trees, crowned by a concrete and glass tropical greenhouse. It is a peaceful counterpoint to the busy centre.",
+      "tip": "Take the metro to Porte de Douai and walk down Rue Louise Michel. Come on a grey winter day for the warmth of the greenhouse.",
+      "q": "Jardin des Plantes, Lille",
+      "ll": [
+        50.6149,
+        3.0674
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Jardin_des_plantes_de_Lille"
+      ]
+    },
+    {
+      "id": "metroval",
+      "cat": "dene",
+      "area": "merkez",
+      "title": "Ride up front on the world's first driverless VAL metro",
+      "desc": "Lille's metro, opened by François Mitterrand in 1983, was the first in the world to use the automatic VAL system invented at the local university. With no driver's cab, you can sit at the very front window and watch the tunnel rush at you.",
+      "tip": "Board at a terminus to be sure of the front seat; line 1 to Villeneuve-d'Ascq also takes you to the LaM and the stadium.",
+      "q": "Gare Lille-Flandres, Lille",
+      "ll": [
+        50.6367,
+        3.07
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/M%C3%A9tro_de_Lille"
+      ]
+    },
+    {
+      "id": "manufacture",
+      "cat": "dene",
+      "area": "merkez",
+      "title": "Hear the looms clatter at La Manufacture in Roubaix",
+      "desc": "In the former Craye weaving mill, this museum of textile memory keeps around 20 machines, including 12 looms ranging from the oldest models to late 20th-century ones. Guided tours set some of them running, so you hear the racket that once filled Roubaix.",
+      "tip": "Go on a demonstration day, usually at weekends, and check the timetable before you set off.",
+      "q": "La Manufacture, 29 Avenue Julien Lagache, Roubaix",
+      "ll": [
+        50.683,
+        3.1959
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://en.lilletourism.com/explore/hello-culture/museums-and-cultural-venues/all-cultural-sites/la-manufacture-musee-de-de-la-memoire-et-de-la-creation-textile-roubaix-en-4432226"
+      ]
+    },
+    {
+      "id": "museemoulins",
+      "cat": "dene",
+      "area": "merkez",
+      "title": "Climb into the windmills of Villeneuve-d'Ascq",
+      "desc": "The Musée des Moulins gathers two 18th-century windmills, a flour mill and the Olieux oil mill, plus a water-powered hammer and a collection of mill machinery. The guided visit takes about an hour and lets you inside the mills.",
+      "tip": "Ideal with children; check opening days, which are limited outside school holidays.",
+      "q": "Musée des Moulins, Villeneuve-d'Ascq",
+      "ll": [
+        50.6375,
+        3.1452
+      ],
+      "src": [
+        "https://www.lonelyplanet.fr/poi/lille-villeneusedascqlilleeqj-des-moulins",
+        "https://pop.culture.gouv.fr/notice/merimee/PA59000228"
+      ]
+    },
+    {
+      "id": "barbieux",
+      "cat": "dene",
+      "area": "merkez",
+      "title": "Stroll the long lawns of Parc Barbieux",
+      "desc": "Roubaix's great park stretches for 1.5 km and 34 hectares between Roubaix and Croix, with lakes, bridges and more than 60 species of trees. It was laid out in the English style in the 19th century, when the textile barons built their mansions along its edges.",
+      "tip": "Combine it with Villa Cavrois, which is a short walk away in Croix.",
+      "q": "Parc Barbieux, Roubaix",
+      "ll": [
+        50.6778,
+        3.162
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Parc_Barbieux"
+      ]
+    },
+    {
+      "id": "conditionpublique",
+      "cat": "dene",
+      "area": "merkez",
+      "title": "Catch a show at La Condition Publique in Roubaix",
+      "desc": "This vast brick building, where wool was once tested and conditioned, is now a cultural venue run by the city, the metropole and the region. It hosts concerts, exhibitions, parties and workshops under its huge roofs and along its covered inner street.",
+      "tip": "Check the programme before going: weekend events and the summer season are when it is at its liveliest.",
+      "q": "La Condition Publique, Roubaix",
+      "ll": [
+        50.6906,
+        3.1895
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/La_Condition_publique"
+      ]
+    },
+    {
+      "id": "dunkerque1940",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Relive Operation Dynamo at the Dunkerque 1940 museum",
+      "desc": "Bastion 32, built in 1874 for coastal defence, was the command post of Admiral Abrial during the evacuation of Dunkirk in May and June 1940. Its vaulted rooms now tell the story of the battle and of the hundreds of thousands of Allied soldiers taken off the beaches, with maps, uniforms, weapons and vehicles.",
+      "tip": "Afterwards walk to the Malo beach, where the troops waited in long lines for the boats.",
+      "q": "Musée Dunkerque 1940, Dunkerque",
+      "ll": [
+        51.0461,
+        2.3815
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://www.dunkirk-tourism.com/touristic_sheet/dunkirk-1940-museum-dunkerque-en-2831039/",
+        "https://www.liberationroute.com/pois/1800"
+      ]
+    },
+    {
+      "id": "laac",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "See postwar art in the white LAAC in Dunkirk",
+      "desc": "Jean Willerval's white-tiled museum opened in 1982 to house a collection started by engineer Gilbert Delaine, who persuaded artists to donate works to the city. It now holds more than 1,500 pieces, mainly from 1945 to 1980, and is surrounded by a sculpture garden with 19 works.",
+      "tip": "Walk through the sculpture garden before going in; the museum is close to the port and the Malo seafront.",
+      "q": "LAAC, Dunkerque",
+      "ll": [
+        51.046,
+        2.3826
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Lieu_d%27art_et_action_contemporaine_de_Dunkerque"
+      ]
+    },
+    {
+      "id": "museeportuaire",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Board the tall ship Duchesse Anne at Dunkirk's port museum",
+      "desc": "Housed in an 1868 tobacco warehouse, Dunkirk's port museum was started by former dockers who saved the tools of their trade. Moored outside are its floating exhibits, including the three-masted Duchesse Anne, built in 1901 as a German training ship, and the Sandettié lightship.",
+      "tip": "The ships are visited on guided tours at set times outside school holidays, so check the schedule when you buy your ticket.",
+      "q": "Musée portuaire, 9 Quai de la Citadelle, Dunkerque",
+      "ll": [
+        51.0379,
+        2.3718
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Mus%C3%A9e_maritime_et_portuaire_de_Dunkerque",
+        "https://www.ot-hautsdeflandre.fr/en/what-to-do-what-to-see/museums/dunkirk-harbour-museums"
+      ]
+    },
+    {
+      "id": "montcassel",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Catch the view from the windmill on Mont Cassel",
+      "desc": "Cassel sits on a 176 m hill, the highest of the Monts de Flandre, with views across the flat Flemish plain. Marshal Foch had his headquarters here in the First World War, and on the summit turns the Kasteelmeulen, a wooden post mill first built in Arnèke and rebuilt on the hilltop.",
+      "tip": "Cassel was voted France's favourite village in 2018, so come early on summer weekends. The mill opens inside only on certain days, ask at the tourist office.",
+      "q": "Kasteel Meulen, Cassel",
+      "ll": [
+        50.8015,
+        2.4836
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/Cassel,_Nord",
+        "https://fr.wikipedia.org/wiki/Mont_Cassel",
+        "https://www.france.fr/en/northern-france/article/france-a-la-carte-time-to-discover-cassel"
+      ]
+    },
+    {
+      "id": "museeflandre",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Explore Flemish art at the Musée de Flandre in Cassel",
+      "desc": "The department's museum of Flemish art occupies the Hôtel de la Noble Cour, whose facade mixes Flemish building with Italian Renaissance details. Reopened in 2010 after 13 years of work, it displays about 6,000 pieces as dialogues between old masters, folk art and contemporary works.",
+      "tip": "It is right on the main square, so combine it with lunch in one of Cassel's estaminets.",
+      "q": "Musée de Flandre, Cassel",
+      "ll": [
+        50.7996,
+        2.4862
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_Flandre"
+      ]
+    },
+    {
+      "id": "bergues",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Walk the ramparts of Bergues, Flanders' other Bruges",
+      "desc": "Bergues is a canal town ringed by Vauban's fortifications, whose sluices could flood the marshy plain around it. Its belfry, dynamited by retreating German troops in 1944, was rebuilt between 1958 and 1961 and rings its 50 bells for the Monday market. The town became famous in 2008 as the setting of the film Bienvenue chez les Ch'tis.",
+      "tip": "Follow the path along the ramparts and canals for the best views, then look for the film's locations around the main square.",
+      "q": "Beffroi de Bergues",
+      "ll": [
+        50.968,
+        2.4327
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Bergues",
+        "https://fr.wikipedia.org/wiki/Beffroi_de_Bergues",
+        "https://en.wikipedia.org/wiki/Bergues"
+      ]
+    },
+    {
+      "id": "chartreuse",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Visit Douai's fine arts in a former charterhouse",
+      "desc": "Douai's Musée de la Chartreuse is set in the buildings of a former Carthusian monastery and a Renaissance mansion around peaceful cloisters. Its collections, gathered since the Revolution, count more than 10,000 works, with a strong showing of Flemish and Dutch painting.",
+      "tip": "Do not skip the cloister garden, a quiet place to sit between rooms.",
+      "q": "Musée de la Chartreuse, Douai",
+      "ll": [
+        50.3746,
+        3.0757
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_la_Chartreuse",
+        "https://en.wikipedia.org/wiki/Mus%C3%A9e_de_la_Chartreuse_de_Douai"
+      ]
+    },
+    {
+      "id": "cambraitank",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Meet Deborah, the tank of the Battle of Cambrai",
+      "desc": "On 20 November 1917 the British Mark IV tank D51 Deborah was knocked out in the village of Flesquières during the first mass tank attack in history. Buried after the battle, she was dug up in 1998 by a local enthusiast and now rests in the Cambrai Tank 1917 museum, opened in 2017.",
+      "tip": "Five of her crew lie in the Flesquières Hill British Cemetery right next door; pay them a visit.",
+      "q": "Cambrai Tank 1917, Flesquières",
+      "ll": [
+        50.1247,
+        3.1244
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://www.westernfrontassociation.com/world-war-i-articles/the-crew-of-deborah",
+        "https://thegoodlifefrance.com/cambrai-tank-1917-museum-cambrai-france/"
+      ]
+    },
+    {
+      "id": "lequesnoy",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Follow the New Zealanders up the walls of Le Quesnoy",
+      "desc": "Le Quesnoy keeps one of the best preserved ring of ramparts in the north, built from the 16th to the 18th century. On 4 November 1918 soldiers of the New Zealand Division climbed these walls on a single ladder and freed the town, an event remembered by a memorial unveiled in 1923 and a New Zealand Liberation Museum opened in 2023.",
+      "tip": "Start at the museum, then walk the rampart paths around the moats and ponds to the memorial set into the walls where the New Zealanders climbed.",
+      "q": "New Zealand Liberation Museum, Le Quesnoy",
+      "ll": [
+        50.2484,
+        3.6354
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/Le_Quesnoy",
+        "https://nzhistory.govt.nz/war/le-quesnoy/the-liberation-of-le-quesnoy",
+        "https://fr.wikipedia.org/wiki/Enceinte_du_Quesnoy"
+      ]
+    },
+    {
+      "id": "lewarde",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Go down the mine at the Centre Historique Minier in Lewarde",
+      "desc": "The Delloye pit at Lewarde stopped working in 1971 and reopened in 1984 as the mining museum of the northern coalfield. Reconstructed galleries trace how coal was dug in the north, from the first shafts to the machines of the 1980s, inside the real pithead buildings.",
+      "tip": "Allow at least half a day and dress warmly for the galleries.",
+      "q": "Centre Historique Minier, Lewarde",
+      "ll": [
+        50.3318,
+        3.1722
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Centre_historique_minier_de_Lewarde"
+      ]
+    },
+    {
+      "id": "gravelines",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Discover prints in Gravelines' fortified arsenal",
+      "desc": "Gravelines is a star-shaped fortified town at the mouth of the Aa. In its arsenal, a bastion reshaped by Vauban, the Musée du Dessin et de l'Estampe originale is the only museum in France devoted to printmaking, with about 22,000 prints shown partly in a powder magazine from 1742.",
+      "tip": "The museum opens in the afternoon and closes on Tuesdays. Afterwards walk along the ramparts and moats that still ring the old town.",
+      "q": "Musée du Dessin et de l'Estampe originale, Gravelines",
+      "ll": [
+        50.9861,
+        2.1235
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/Gravelines",
+        "https://ville-gravelines.fr/printpdf/gravelines-pratique/les-annuaires/les-equipements/le-musee-du-dessin-et-de-lestampe-originale"
+      ]
+    },
+    {
+      "id": "touranand",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Gaze up at the abbey tower of Saint-Amand-les-Eaux",
+      "desc": "Saint-Amand Abbey, founded in the 7th century, was one of the great centres of learning of the Carolingian world. Rebuilt in Flemish Baroque style in the 17th century under abbot Nicolas Du Bois, it was demolished after the Revolution, and only the towering west front of the church and the 1632 gatehouse survive.",
+      "tip": "The tower houses the town museum and can be visited; the gatehouse next to it once served as town hall.",
+      "q": "Tour abbatiale, Saint-Amand-les-Eaux",
+      "ll": [
+        50.449,
+        3.4287
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Abbaye_de_Saint-Amand",
+        "https://en.wikipedia.org/wiki/Saint-Amand-les-Eaux"
+      ]
+    },
+    {
+      "id": "musverre",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "See contemporary glass at the MusVerre in Sars-Poteries",
+      "desc": "Sars-Poteries once had glassworks employing 800 people, and after hours the workers made small pieces for themselves called bousillés. A museum founded in 1967 to show them grew into France's most important public collection of contemporary glass, now in a building of Hainaut blue stone opened in 2016.",
+      "tip": "Ask about the bousillés room first: these humble after-work pieces are the heart of the story.",
+      "q": "MusVerre, Sars-Poteries",
+      "ll": [
+        50.1665,
+        4.0312
+      ],
+      "tags": [
+        "rainy day"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Mus%C3%A9e_du_verre_de_Sars-Poteries"
+      ]
+    },
+    {
+      "id": "fortdesdunes",
+      "cat": "gor",
+      "area": "cevre",
+      "title": "Explore the Fort des Dunes in Leffrinckoucke",
+      "desc": "Hidden in the dunes east of Dunkirk, this fort was built from 1878 to 1880 after France's defeat by Prussia. It saw no fighting in the First World War but played a part at both the start and the end of the Second, during the 1940 evacuation and the long siege of Dunkirk in 1944 and 1945.",
+      "tip": "It opens from March to early November and closes on Mondays. Combine it with a walk on the dune paths and the beach right behind it.",
+      "q": "Fort des Dunes, Leffrinckoucke",
+      "ll": [
+        51.0535,
+        2.447
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Fort_des_Dunes",
+        "https://en.wikipedia.org/wiki/Fort_des_Dunes"
+      ]
+    },
+    {
+      "id": "carnavaldunkerque",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Catch a herring at the Dunkirk Carnival",
+      "desc": "From January to early spring, Dunkirk's bands march through the streets behind their drum major, thousands of revellers in feathered hats and borrowed skirts singing old fishermen's songs. The climax is the Sunday of the Trois Joyeuses, when the mayor throws smoked herrings from the town hall balcony, a custom since 1967, before the final rigodon on Place Jean-Bart.",
+      "tip": "Wear old clothes, keep your elbows in when the chahut surges forward, and buy a programme of the bals and bands from the tourist office.",
+      "q": "Hôtel de Ville, Dunkerque",
+      "ll": [
+        51.0377,
+        2.3767
+      ],
+      "tags": [
+        "free"
+      ],
+      "months": [
+        1,
+        2,
+        3
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Carnaval_de_Dunkerque",
+        "https://ulysse.com/news/carnaval-dunkerque-2026-guide-complet"
+      ]
+    },
+    {
+      "id": "malo",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Walk the seafront Digue at Malo-les-Bains",
+      "desc": "Malo-les-Bains, a seaside resort founded in the late 19th century and part of Dunkirk since 1970, lines its wide sandy beach with a long promenade of Belle Époque villas. This is also where Allied troops waited to be evacuated in 1940.",
+      "tip": "Come at low tide, when the beach is enormous, and finish with a waffle or ice cream on the Digue.",
+      "q": "Digue de Mer, Malo-les-Bains, Dunkerque",
+      "ll": [
+        51.0513,
+        2.4045
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Malo-les-Bains"
+      ]
+    },
+    {
+      "id": "pharerisban",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Climb the Risban lighthouse in Dunkirk",
+      "desc": "Lit since 1843, the 63 m Risban lighthouse is the tallest port lighthouse of its class in France and still guides ships into Dunkirk. A climb up its spiral stairs ends with a 360 degree view over the port, the beaches and the North Sea.",
+      "tip": "Opening days are limited, so check with the Dunkirk tourist office before going.",
+      "q": "Phare du Risban, Dunkerque",
+      "ll": [
+        51.0489,
+        2.3644
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Phare_de_Dunkerque",
+        "https://dunkirk-tourism.com/touristic_sheet/risban-lighthouse-dunkerque-en-2899361"
+      ]
+    },
+    {
+      "id": "beffroidouai",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Climb the Gothic belfry of Douai and hear its 62 bells",
+      "desc": "Douai's Gothic belfry, a UNESCO World Heritage site, rises over the town hall and holds a carillon of 62 bells. Guided tours climb the roughly 195 steps past the bell chamber to the view from the top.",
+      "tip": "Visits are guided only, with tickets from the Douai tourist office. In early July the town's giant Gayant and his family parade through the streets below.",
+      "q": "Beffroi de Douai",
+      "ll": [
+        50.3679,
+        3.0807
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Beffroi_de_Douai",
+        "https://www.sncf-connect.com/article/escapade-en-train-douai"
+      ]
+    },
+    {
+      "id": "trouearenberg",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Walk the cobbles of the Trouée d'Arenberg",
+      "desc": "This 2.3 km dead-straight cobbled lane through the forest of Raismes-Saint-Amand-Wallers is the most feared sector of Paris-Roubaix, rated five stars for difficulty. It starts beside the Arenberg mine, whose three headframes are part of the UNESCO-listed mining basin.",
+      "tip": "Walk or ride on the smooth path alongside the cobbles; they are slippery and brutal for normal bikes. In April, come on race day to watch the riders.",
+      "q": "Trouée d'Arenberg, Wallers",
+      "ll": [
+        50.3968,
+        3.4152
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Trou%C3%A9e_d%27Arenberg",
+        "https://fr.wikipedia.org/wiki/Fosse_Arenberg"
+      ]
+    },
+    {
+      "id": "valjoly",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Spend a day on the lake at ValJoly",
+      "desc": "The 180 hectare lake of ValJoly was created around 1970 by damming the Helpe Majeure in the wooded Avesnois, a couple of kilometres from Belgium. Today it is a leisure resort with a nautical base, and its shores are a protected Natura 2000 area.",
+      "tip": "Bring walking shoes: paths follow much of the 19 km shoreline. Summer weekends get busy.",
+      "q": "Station touristique du ValJoly, Eppe-Sauvage",
+      "ll": [
+        50.1192,
+        4.135
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Val-Joly",
+        "https://en.wikipedia.org/wiki/Lac_du_Val-Joly"
+      ]
+    },
+    {
+      "id": "montnoir",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Hike Mont Noir and Marguerite Yourcenar's childhood park",
+      "desc": "Mont Noir, a 152 m hill on the Belgian border, takes its name from its dark pine woods. The writer Marguerite Yourcenar spent part of her childhood here, and the family estate is now an eight-hectare departmental park whose villa hosts a residence for writers.",
+      "tip": "Forest trails start from the park; the Tour de France climbed the hill on its opening stage in 2025.",
+      "q": "Parc Marguerite Yourcenar, Saint-Jans-Cappel",
+      "ll": [
+        50.7801,
+        2.7311
+      ],
+      "tags": [
+        "free"
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Mont_Noir"
+      ]
+    },
+    {
+      "id": "zoomaubeuge",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Visit the zoo in Maubeuge's Vauban ramparts",
+      "desc": "Opened in 1955 in the centre of Maubeuge, this 7 hectare zoo is set against the town's 17th-century Vauban fortifications. It keeps more than 300 animals of 70 species, including rare Sri Lankan leopards, Asiatic lions and Sumatran tigers.",
+      "tip": "Walk part of the ramparts before or after; the zoo sits right at their foot.",
+      "q": "Zoo de Maubeuge",
+      "ll": [
+        50.2785,
+        3.968
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Zoo_de_Maubeuge"
+      ]
+    },
+    {
+      "id": "beffroibailleul",
+      "cat": "dene",
+      "area": "cevre",
+      "title": "Climb the belfry of Bailleul for a view of the Flemish hills",
+      "desc": "Bailleul's 62 m belfry, a UNESCO World Heritage site, holds a carillon of 35 bells. The guided climb starts in the Gothic hall and ends on the walkway more than 40 m up, with a view across the Monts de Flandre and the Lys plain.",
+      "tip": "Book at the tourist office opposite the town hall, usually a day ahead.",
+      "q": "Beffroi de Bailleul",
+      "ll": [
+        50.7397,
+        2.7344
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Beffroi_de_Bailleul",
+        "https://www.ter.sncf.com/hauts-de-france/decouvrir-la-region/ter-de-culture/le-beffroi-de-bailleul"
+      ]
+    },
+    {
+      "id": "kasteelhof",
+      "cat": "ye",
+      "area": "cevre",
+      "title": "Eat at 't Kasteelhof, the highest estaminet in Flanders",
+      "desc": "Next to the windmill on the summit of Mont Cassel, this estaminet claims the title of the highest in Flanders. It serves carbonade, potjevleesch and tarte flamande, along with Kassels Bier, a house beer you can only drink here.",
+      "tip": "Ask for a table by the window for the view over the plain. It opens Thursday to Sunday, so plan around that.",
+      "q": "'t Kasteelhof, 8 Rue Saint-Nicolas, Cassel",
+      "ll": [
+        50.8012,
+        2.4834
+      ],
+      "src": [
+        "https://fr.gaultmillau.com/en/restaurants/t-kasteelhof-restaurant",
+        "https://www.lonelyplanet.com/france/cassel/restaurants/t-kasteelhof/a/poi-eat/1279241/1316974"
+      ]
+    },
+    {
+      "id": "bruegel",
+      "cat": "ye",
+      "area": "cevre",
+      "title": "Dine in a house from 1597 at Le Bruegel in Bergues",
+      "desc": "Le Bruegel occupies one of the oldest houses in Bergues, dated 1597, and holds the Estaminets Flamands label for its traditional atmosphere. Flemish dishes are cooked over a wood fire in a dining room straight out of a Bruegel painting.",
+      "tip": "Book at weekends, when visitors on the trail of the Ch'tis film fill the town.",
+      "q": "Le Bruegel, 1 Rue du Marché aux Fromages, Bergues",
+      "ll": [
+        50.9705,
+        2.4301
+      ],
+      "src": [
+        "https://ot-hautsdeflandre.fr/en/prepare-your-stay/restaurants/taverns-estaminets/le-bruegel",
+        "https://fr.gaultmillau.com/fr/restaurants/taverne-bruegel"
+      ]
+    },
+    {
+      "id": "thiriez",
+      "cat": "ye",
+      "area": "cevre",
+      "title": "Taste farmhouse ales at Brasserie Thiriez",
+      "desc": "Daniel Thiriez founded his brewery in 1996 in the buildings of an old farm brewery in Esquelbecq that had made beer until 1945. Its blond Étoile du Nord, sold in the United States as Thiriez Extra, is one of the best-known French farmhouse ales abroad.",
+      "tip": "Tours of about an hour with a tasting are by appointment; the shop is open through the week. Esquelbecq's moated castle is a short walk away.",
+      "q": "Brasserie Thiriez, Esquelbecq",
+      "ll": [
+        50.885,
+        2.4329
+      ],
+      "src": [
+        "https://fr.wikipedia.org/wiki/Brasserie_Thiriez",
+        "https://www.ot-hautsdeflandre.fr/en/discover-the-hauts-de-flandre/traditions-and-terroir/local-products/thiriez-brewery"
+      ]
+    },
+    {
+      "id": "betisescambrai",
+      "cat": "ye",
+      "area": "cevre",
+      "title": "Buy Bêtises de Cambrai at the Afchain confectionery",
+      "desc": "Legend says the Bêtise was born around 1830 when an apprentice botched a batch of boiled sweets, a mistake, or bêtise, that turned into a mint candy with a stripe of caramel. Afchain and Despinoy still argue over who invented it, and Afchain won the right to call itself the inventor in court in 1889.",
+      "tip": "Group factory visits run from a walkway above the workshops on weekday mornings by booking; individual visitors can simply buy the classic mint tin at the shop.",
+      "q": "Afchain, Les Bêtises de Cambrai, Cambrai",
+      "ll": [
+        50.1743,
+        3.2146
+      ],
+      "src": [
+        "https://en.wikipedia.org/wiki/B%C3%AAtise_de_Cambrai",
+        "https://fr.wikipedia.org/wiki/B%C3%AAtise_de_Cambrai",
+        "https://www.guide-tourisme-france.com/VISITER/confiserie-afchain--cambrai-10100.htm"
+      ]
+    },
+    {
+      "id": "blauwershof",
+      "cat": "ye",
+      "area": "cevre",
+      "title": "Play old Flemish games at Het Blauwershof",
+      "desc": "This estaminet in Godewaersvelde, a former forge and travellers' halt said to have sheltered smugglers, keeps a collection of traditional Flemish table games, from the spinning-top table to the frog toss and billard Nicolas. Carbonade and local beers keep the games going.",
+      "tip": "Ask the staff to explain the rules of each game. The village sits at the foot of the Mont des Cats, a good walk before lunch.",
+      "q": "Het Blauwershof, 9 Rue d'Eecke, Godewaersvelde",
+      "ll": [
+        50.7929,
+        2.6426
+      ],
+      "src": [
+        "https://fr.gaultmillau.com/en/restaurants/blauwershof",
+        "https://www.gillespudlowski.com/37588/restaurants/godewaersvelde-het-blauwershof"
+      ]
+    },
+    {
+      "id": "estaminetflamand",
+      "cat": "ye",
+      "area": "cevre",
+      "title": "Try potjevleesch in Dunkirk at the Estaminet Flamand",
+      "desc": "Potjevleesch, 'meat in a little pot', is chicken, rabbit, pork and veal set cold in a lightly vinegared jelly, a dish some trace to the Dunkirk area. The Estaminet Flamand in the town centre serves it the traditional way with chips, alongside carbonade.",
+      "tip": "Eat it with hot chips: the heat melts the jelly, which is the whole point.",
+      "q": "Estaminet Flamand, 6 Rue des Fusiliers Marins, Dunkerque",
+      "ll": [
+        51.0323,
+        2.3721
+      ],
+      "src": [
+        "https://fr.gaultmillau.com/fr/restaurants/estaminet-flamand",
+        "https://fr.wikipedia.org/wiki/Potjevleesch"
+      ]
+    },
+    {
+      "id": "pontdesloups",
+      "cat": "ye",
+      "area": "cevre",
+      "title": "Buy farmhouse maroilles at the Ferme du Pont des Loups",
+      "desc": "Maroilles, a washed-rind cheese named after the abbey village of Maroilles and protected by an AOC since 1976, is the pride of the Avesnois. At this farm in Saint-Aubin it is made from the raw milk of the farm's own cows, along with boulette d'Avesnes and maroilles flamiche, sold in the shop next to the dairy.",
+      "tip": "The shop is open on weekdays, Saturday mornings and Sunday afternoons; ask about guided visits with tasting.",
+      "q": "Ferme du Pont des Loups, Saint-Aubin",
+      "ll": [
+        50.164,
+        3.9008
+      ],
+      "src": [
+        "https://fr.gaultmillau.com/fr/artisans/ferme-du-pont-des-loups",
+        "https://fr.wikipedia.org/wiki/Maroilles_(fromage)"
+      ]
+    }
+  ]
+}

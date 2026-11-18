@@ -1,5 +1,4 @@
 {
-  "_comment": "Researched quests held back: not yet in any region file. See _note on each.",
   "new": [
     {
       "id": "totenmaar",
@@ -18,9 +17,7 @@
       "ll": [
         50.179,
         6.8492
-      ],
-      "_from": "trier",
-      "_note": "lies in Vulkaneifel (Koblenz region); add when Koblenz is filled"
+      ]
     },
     {
       "id": "wallenderborn",
@@ -36,9 +33,7 @@
       "ll": [
         50.1537,
         6.7203
-      ],
-      "_from": "trier",
-      "_note": "lies in Vulkaneifel (Koblenz region); add when Koblenz is filled"
+      ]
     },
     {
       "id": "gemuendenermaar",
@@ -59,9 +54,7 @@
       "ll": [
         50.1783,
         6.835
-      ],
-      "_from": "trier",
-      "_note": "lies in Vulkaneifel (Koblenz region); add when Koblenz is filled"
+      ]
     }
   ]
 }

@@ -1,0 +1,1040 @@
+{
+ "new": [
+  {
+   "id": "neuschwanstein",
+   "cat": "gor",
+   "area": "fuessen",
+   "title": "Tour Neuschwanstein, Ludwig II's fairytale castle",
+   "desc": "Built from 1869 to 1892 for King Ludwig II to plans by Eduard Riedel, this Neo-Romanesque castle was modelled on medieval knights' castles. Its throne hall, bedroom and Singers' Hall are the highlights, and it draws over a million visitors a year.",
+   "tip": "Entry is by timed ticket, so book ahead. Walk up from the village or take the shuttle bus, and keep time for the view from the Marienbrücke.",
+   "q": "Schloss Neuschwanstein, Neuschwansteinstraße 20, Schwangau",
+   "ll": [
+    47.55758,
+    10.7497
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Neuschwanstein"
+   ]
+  },
+  {
+   "id": "hohenschwangau",
+   "cat": "gor",
+   "area": "fuessen",
+   "title": "Visit Hohenschwangau, the castle Ludwig grew up in",
+   "desc": "Crown Prince Maximilian bought the ruined castle in 1832 and rebuilt it in neo-Gothic style, and his son Ludwig II later redecorated it to his taste. It stands directly opposite Neuschwanstein.",
+   "tip": "Tours are guided and timed, so book a slot. It is a short, steep walk up from the village below.",
+   "q": "Schloss Hohenschwangau, Alpseestraße 30, Schwangau",
+   "ll": [
+    47.55565,
+    10.7367
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Hohenschwangau"
+   ]
+  },
+  {
+   "id": "kingsmuseum",
+   "cat": "gor",
+   "area": "fuessen",
+   "title": "Trace the Wittelsbach kings at the Museum of the Bavarian Kings",
+   "desc": "The museum in Hohenschwangau tells the story of the Wittelsbach royal family from its beginnings to the present day. It sits on the Alpseestraße between the village and the two castles.",
+   "tip": "A good rainy-day stop before or after the castles. Check the opening hours and ticket options on arrival.",
+   "q": "Museum der bayerischen Könige, Alpseestraße 27, Hohenschwangau",
+   "ll": [
+    47.55355,
+    10.73625
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Museum_der_bayerischen_Könige"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "alpseefuessen",
+   "cat": "gor",
+   "area": "fuessen",
+   "title": "Walk the shore of the Alpsee below the castles",
+   "desc": "The Alpsee covers 88 hectares and has a shoreline of 4.7 km at the foot of the Säuling. It is regarded as one of the cleanest lakes in Germany and is used for swimming in summer.",
+   "tip": "The lakeside loop is flat and easy. Go early in the day, before the castle crowds arrive.",
+   "q": "Alpsee, Hohenschwangau, Schwangau",
+   "ll": [
+    47.55111,
+    10.72361
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Alpsee"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "schwansee",
+   "cat": "gor",
+   "area": "fuessen",
+   "title": "Find the quiet Schwansee next to the royal castles",
+   "desc": "The Schwansee is first mentioned in writing in 1332 and lies just 400 m north of the Alpsee. In the 19th century it became part of the park landscape of Hohenschwangau, and it is a protected landscape area today.",
+   "tip": "Much quieter than the Alpsee. Combine it with a stroll through the surrounding meadows and moors.",
+   "q": "Schwansee, Schwangau",
+   "ll": [
+    47.55733,
+    10.71971
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schwansee"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hohesschlossfuessen",
+   "cat": "gor",
+   "area": "fuessen",
+   "title": "Climb to the Hohes Schloss above Füssen",
+   "desc": "This late Gothic castle of the Augsburg prince-bishops is one of the best preserved medieval castles in Bavaria. It stands on the hill where a Roman fort, Foetibus, once stood, and its facades carry illusion paintings that fake stonework.",
+   "tip": "It houses state gallery collections and a wall walk. Opening hours are shorter in winter and it is usually closed on Mondays, so check first.",
+   "q": "Hohes Schloss, Magnusplatz 10, Füssen",
+   "ll": [
+    47.56716,
+    10.69815
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Hohes_Schloss_Füssen",
+    "https://de.wikivoyage.org/wiki/Füssen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mangfuessen",
+   "cat": "gor",
+   "area": "fuessen",
+   "title": "Step inside the basilica of St. Mang",
+   "desc": "St. Mang was the church of a Benedictine monastery whose origins go back to the 8th century and the monk Magnus. It has been the town parish church since the monastery was dissolved in the early 19th century, and a stretch of town wall runs from its west choir up to the castle.",
+   "tip": "The baroque monastery buildings next door house the city museum. Magnusplatz in front is a good spot for a pause.",
+   "q": "Basilika St. Mang, Magnusplatz, Füssen",
+   "ll": [
+    47.56635,
+    10.69893
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/St._Mang_(Füssen)",
+    "https://www.fuessen.de/en/old-town/"
+   ]
+  },
+  {
+   "id": "citymuseum",
+   "cat": "gor",
+   "area": "fuessen",
+   "title": "Meet the Dance of Death at the Füssen city museum",
+   "desc": "The museum in the former St. Mang monastery covers town history, the monastery and the lute and violin making of Füssen. In its Anna chapel is a Dance of Death painted from 1602, the oldest surviving one in Bavaria, and you can also see the monastery's baroque state rooms.",
+   "tip": "Open Tuesday to Sunday in summer and fewer days in winter, so check ahead. A perfect rainy-day stop.",
+   "q": "Museum der Stadt Füssen, Lechhalde 3, Füssen",
+   "ll": [
+    47.56659,
+    10.69945
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Museum_der_Stadt_Füssen",
+    "https://de.wikipedia.org/wiki/Füssener_Totentanz",
+    "https://de.wikivoyage.org/wiki/Füssen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "spitalkirche",
+   "cat": "gor",
+   "area": "fuessen",
+   "title": "Spot the painted facade of the Spitalkirche",
+   "desc": "The former hospital church of the Holy Spirit was built in the 18th century in Rococo style and has a richly painted facade. It is tucked among the old town lanes near the monastery.",
+   "tip": "Look up at the facade first, then peek inside if it is open.",
+   "q": "Spitalkirche Heilig Geist, Spitalgasse 2, Füssen",
+   "ll": [
+    47.56624,
+    10.70035
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Spitalkirche_Heilig_Geist_(Füssen)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "franzblick",
+   "cat": "gor",
+   "area": "fuessen",
+   "title": "Take in the Quaglio view from Franziskanerplatz",
+   "desc": "From Franziskanerplatz you look over the town rooftops toward the Hohes Schloss and St. Mang, a view named after the painter and master builder Domenico Quaglio, who painted it in the 19th century. The church of St. Stephan on the square can be visited, but the monastery itself is not open to the public.",
+   "tip": "Come late in the afternoon when the light warms the castle walls. Free and always open.",
+   "q": "Franziskanerplatz, Füssen",
+   "ll": [
+    47.56741,
+    10.7031
+   ],
+   "src": [
+    "https://www.fuessen.de/en/old-town/",
+    "https://de.wikivoyage.org/wiki/Füssen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kalvarienberg",
+   "cat": "gor",
+   "area": "fuessen",
+   "title": "Climb the Kalvarienberg Way of the Cross",
+   "desc": "This calvary and Way of the Cross was laid out in the 19th century on the former Hutlerberg, with a climb of about 150 m. Wikivoyage calls it one of the finest calvary complexes in southern Germany, with an all-round view.",
+   "tip": "The path starts at the Liebfrauenkirche. Wear proper shoes, and go in clear weather for the view.",
+   "q": "Kalvarienberg, Füssen",
+   "ll": [
+    47.56185,
+    10.70435
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kalvarienberg_in_Füssen",
+    "https://de.wikivoyage.org/wiki/Füssen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "lechfall",
+   "cat": "gor",
+   "area": "fuessen",
+   "title": "Watch the Lechfall thunder into its gorge",
+   "desc": "The Lechfall is an 8 m high weir built in 1784 to 1787 together with a diversion tunnel for hydropower, and it was sold as a waterfall from the start. The Lech then drops into a gorge 150 m long and about 20 m deep, cut after the last Ice Age.",
+   "tip": "Cross the King-Max-Steg footbridge for the best view. Spring meltwater makes it loudest.",
+   "q": "Lechfall, Füssen",
+   "ll": [
+    47.56177,
+    10.69481
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Lechfall_(Füssen)",
+    "https://de.wikivoyage.org/wiki/Füssen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "krippkirche",
+   "cat": "gor",
+   "area": "fuessen",
+   "title": "Find the hidden Krippkirche on Reichenstraße",
+   "desc": "St. Nikolaus, known as the Krippkirche after its altarpiece showing a nativity scene, is squeezed into the row of houses at Reichenstraße 31. The Jesuits who arrived in 1611 first turned a stable on the spot into a chapel, and the baroque church followed in the early 18th century.",
+   "tip": "Easy to walk past. Look for the narrow church front opposite the Schrannengasse.",
+   "q": "St. Nikolaus (Krippkirche), Reichenstraße 31, Füssen",
+   "ll": [
+    47.56902,
+    10.69979
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/St._Nikolaus_(Füssen)",
+    "https://de.wikivoyage.org/wiki/Füssen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "lautenmacher",
+   "cat": "gor",
+   "area": "fuessen",
+   "title": "Find the Lautenmacherbrunnen and Füssen's lute-making past",
+   "desc": "The Lautenmacherbrunnen on the Brotmarkt commemorates the lute and violin making that made Füssen known. The town's instrument-making history is told in more detail in the city museum nearby.",
+   "tip": "Combine it with a visit to the museum in the old monastery, a few minutes away.",
+   "q": "Lautenmacherbrunnen, Brotmarkt, Füssen",
+   "ll": [
+    47.56719,
+    10.70032
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Füssen",
+    "https://de.wikipedia.org/wiki/Museum_der_Stadt_Füssen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "reichenstrasse",
+   "cat": "gor",
+   "area": "fuessen",
+   "title": "Stroll the Reichenstraße to the castle",
+   "desc": "Reichenstraße is the pedestrian heart of Füssen, lined with cafés, shops and painted house facades. The Hohes Schloss is in view at almost every step.",
+   "tip": "Walk it end to end in the morning, then loop back by the Lech.",
+   "q": "Reichenstraße, Füssen",
+   "ll": [
+    47.5686,
+    10.69987
+   ],
+   "src": [
+    "https://www.fuessen.de/en/old-town/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "luitpold",
+   "cat": "gor",
+   "area": "fuessen",
+   "title": "Pause at the Luitpold monument",
+   "desc": "The monument at Prinzregentenplatz was put up in 1902 to honour Prince Regent Luitpold. It stands at the station end of the old town, so it is a natural meeting point.",
+   "tip": "Use it as the starting point for a walk into the old town along Reichenstraße.",
+   "q": "Luitpolddenkmal, Prinzregentenplatz, Füssen",
+   "ll": [
+    47.5697,
+    10.69954
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Füssen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "forggenboat",
+   "cat": "dene",
+   "area": "fuessen",
+   "title": "Cruise the Forggensee from the Füssen harbour",
+   "desc": "The Forggensee is a reservoir up to 12 km long and 3 km wide that first filled in 1954, drowning parts of five municipalities. Round trips leave from the Bootshafen in Füssen in the summer season.",
+   "tip": "Boats run only in the summer season, roughly June to mid-October, so check the timetable. The lake reaches its normal level in mid-June.",
+   "q": "Anlegestelle Bootshafen Füssen, Weidachstraße 86, Füssen",
+   "ll": [
+    47.58096,
+    10.70878
+   ],
+   "src": [
+    "https://www.forggensee-schifffahrt.de",
+    "https://de.wikipedia.org/wiki/Forggensee"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "ziegelwies",
+   "cat": "dene",
+   "area": "fuessen",
+   "title": "Walk the treetops at the Walderlebniszentrum Ziegelwies",
+   "desc": "Opened in 2002 on a former border station, this forest centre is the only cross-border one in Bavaria and covers about 30 hectares of riverside and mountain forest. A canopy walk is the only part that charges admission.",
+   "tip": "Combine it with the Alpenrosenweg, which leads on to Hohenschwangau. Good with children.",
+   "q": "Walderlebniszentrum Ziegelwies, Tiroler Straße, Füssen",
+   "ll": [
+    47.55781,
+    10.6928
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Walderlebniszentrum_Ziegelwies",
+    "https://de.wikivoyage.org/wiki/Füssen"
+   ]
+  },
+  {
+   "id": "mittersee",
+   "cat": "dene",
+   "area": "fuessen",
+   "title": "Swim at the free Mittersee",
+   "desc": "The Mittersee in Bad Faulenbach is a free public bathing spot, while the nearby Obersee has a paid outdoor pool. Wikivoyage notes that swimming in the nearby gypsum pits is forbidden.",
+   "tip": "Bring a towel and stay in the marked bathing area. Best on a warm summer afternoon.",
+   "q": "Mittersee, Bad Faulenbach, Füssen",
+   "ll": [
+    47.56239,
+    10.68179
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Füssen"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "obersee",
+   "cat": "dene",
+   "area": "fuessen",
+   "title": "Take a dip in the Freibad Obersee",
+   "desc": "The outdoor bathing area on the Obersee in Bad Faulenbach is paid, unlike the free Mittersee nearby. It sits on the Faulenbach lakes just west of Füssen.",
+   "tip": "Pick a sunny day in summer and check the opening times before you go.",
+   "q": "Freibad Obersee, Alatseestraße, Füssen",
+   "ll": [
+    47.56276,
+    10.67917
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Füssen"
+   ],
+   "months": [
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "franziskaner",
+   "cat": "ye",
+   "area": "fuessen",
+   "title": "Order Kaiserschmarrn at Zum Franziskaner",
+   "desc": "This restaurant at Kemptener Straße 1 serves regional cooking with seating on a terrace, and reviewers single out its Kaiserschmarrn. It opens for breakfast, lunch and dinner and is closed on Wednesdays.",
+   "tip": "Reserve for dinner in high season. Closed Wednesdays.",
+   "q": "Zum Franziskaner, Kemptener Straße 1, Füssen",
+   "ll": [
+    47.56762,
+    10.69707
+   ],
+   "src": [
+    "https://www.swipein.restaurant/en/restaurant/zum-franziskaner-fussen-bayern"
+   ]
+  },
+  {
+   "id": "krone",
+   "cat": "ye",
+   "area": "fuessen",
+   "title": "Eat Kässpätzle at the Gasthof Krone",
+   "desc": "Gasthof Krone on Schrannengasse serves Swabian and Bavarian dishes in the old town, and a local guide lists its Kässpätzle as a must-try. It has a terrace and pours regional beer and wine.",
+   "tip": "Closed Wednesday and Friday. Pair the cheese noodles with a local beer.",
+   "q": "Gasthof Krone, Schrannengasse 17, Füssen",
+   "ll": [
+    47.56858,
+    10.70124
+   ],
+   "src": [
+    "https://www.swipein.restaurant/en/restaurant/gasthof-krone-fussen-bayern"
+   ]
+  },
+  {
+   "id": "hechten",
+   "cat": "ye",
+   "area": "fuessen",
+   "title": "Try the Kaiserschmarrn at Zum Hechten",
+   "desc": "Zum Hechten is an old town hotel and restaurant at Ritterstraße 6, in a restored 17th-century building near the Hohes Schloss. Its casual Bavarian restaurant is known for Kaiserschmarrn, plus Schweinebraten and Käsespätzle.",
+   "tip": "Come after sightseeing in the old town. Share the Kaiserschmarrn, as portions are big.",
+   "q": "Zum Hechten, Ritterstraße 6, Füssen",
+   "ll": [
+    47.56781,
+    10.6985
+   ],
+   "src": [
+    "https://www.swipein.restaurant/en/restaurant/zum-hechten-altstadthotel-restaurant-fussen"
+   ]
+  },
+  {
+   "id": "stadtcafe",
+   "cat": "ye",
+   "area": "fuessen",
+   "title": "Have breakfast at the Stadtcafé on Reichenstraße",
+   "desc": "The Stadtcafé at Reichenstraße 5 offers coffee, cake and a generous breakfast in a cosy setting right on the main pedestrian street. It has a terrace and takeaway.",
+   "tip": "Grab a window or terrace seat and watch the old town wake up.",
+   "q": "Stadtcafé, Reichenstraße 5, Füssen",
+   "ll": [
+    47.56789,
+    10.6993
+   ],
+   "src": [
+    "https://freizeitmonster.de/blog/cafes-fuessen"
+   ]
+  },
+  {
+   "id": "baumgarten",
+   "cat": "ye",
+   "area": "fuessen",
+   "title": "Sit in the walled courtyard of Bio Café Baumgarten",
+   "desc": "This organic café at Magnusplatz 6 serves vegetarian and vegan crêpes, baked goods and cake. Its special feature is a walled inner courtyard right below the monastery.",
+   "tip": "Perfect for a break after St. Mang. Sit in the courtyard when it is sunny.",
+   "q": "Bio Café Baumgarten, Magnusplatz 6, Füssen",
+   "ll": [
+    47.56709,
+    10.69931
+   ],
+   "src": [
+    "https://freizeitmonster.de/blog/cafes-fuessen"
+   ]
+  },
+  {
+   "id": "werkgeplauder",
+   "cat": "ye",
+   "area": "fuessen",
+   "title": "Linger at the Ladencafé Werkgeplauder",
+   "desc": "This shop-café on Hiebelerstraße serves coffee specialities, homemade cake and a hearty breakfast, with views of the comings and goings outside. It sits a little west of the old town centre.",
+   "tip": "A good escape from the busiest streets. Order a slice of the homemade cake.",
+   "q": "Café Werkgeplauder, Hiebelerstraße 17, Füssen",
+   "ll": [
+    47.5724,
+    10.67442
+   ],
+   "src": [
+    "https://freizeitmonster.de/blog/cafes-fuessen"
+   ]
+  },
+  {
+   "id": "olivenbauer",
+   "cat": "ye",
+   "area": "fuessen",
+   "title": "Dine in the beer garden at Beim Olivenbauer",
+   "desc": "Beim Olivenbauer on Ottostraße serves Mediterranean and regional cooking with vegetarian and vegan dishes, and has a beer garden. It is a relaxed alternative to the classic inns.",
+   "tip": "A good pick if your group wants more than schnitzel. Check opening times on the day.",
+   "q": "Beim Olivenbauer, Ottostraße 7, Füssen",
+   "ll": [
+    47.56806,
+    10.69566
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Füssen"
+   ]
+  },
+  {
+   "id": "steakhaus",
+   "cat": "ye",
+   "area": "fuessen",
+   "title": "Eat steak right at the Lechfall",
+   "desc": "Steakhaus Füssen sits at Tiroler Straße 31, directly beside the Lechfall. It opens in the afternoon and evening, so you can combine a waterfall walk with dinner.",
+   "tip": "Walk the King-Max-Steg first, then eat. Opening hours vary by weekday, so check.",
+   "q": "Steakhaus Füssen, Tiroler Straße 31, Füssen",
+   "ll": [
+    47.56168,
+    10.69583
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Füssen"
+   ]
+  },
+  {
+   "id": "kurcafe",
+   "cat": "ye",
+   "area": "fuessen",
+   "title": "Take cake at the Konditorei Kurcafé",
+   "desc": "The Konditorei Kurcafé on Prinzregentenplatz is a traditional pastry café close to the station end of the old town, serving coffee and cake.",
+   "tip": "Handy for a break just before or after your train. Check the hours online.",
+   "q": "Konditorei Kurcafé, Prinzregentenplatz 4, Füssen",
+   "ll": [
+    47.56982,
+    10.69966
+   ],
+   "src": [
+    "https://speisekarte.menu/restaurants/fuessen/kurcafe-4"
+   ]
+  },
+  {
+   "id": "riwa",
+   "cat": "ye",
+   "area": "fuessen",
+   "title": "Settle in at RIWA Bar & Restaurant",
+   "desc": "RIWA is the bar and restaurant of Hotel Sonne on Prinzregentenplatz, open every day from morning until midnight. It is a handy all-day option in the centre.",
+   "tip": "Good for a late dinner when many kitchens have closed.",
+   "q": "RIWA Bar & Restaurant, Prinzregentenplatz 1, Füssen",
+   "ll": [
+    47.56951,
+    10.69981
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Füssen"
+   ]
+  },
+  {
+   "id": "falkenstein",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Hike to Germany's highest castle ruin, Falkenstein",
+   "desc": "Burg Falkenstein sits on the 1,268 m Falkenstein ridge above Pfronten, right on the Austrian border. It is the highest castle in Germany, and researchers read its exposed spot as a statement of power against Bavaria.",
+   "tip": "The hike starts in the Pfronten valley and takes a few hours. Bring layers and check the weather.",
+   "q": "Burgruine Falkenstein, Pfronten",
+   "ll": [
+    47.57,
+    10.59167
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Burg_Falkenstein_(Pfronten)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hohenfreyberg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the twin ruins of Hohenfreyberg and Eisenberg",
+   "desc": "These two ruins face each other on a rocky ridge about 4 km north of Pfronten. Hohenfreyberg was abandoned and burned in the Thirty Years War, and was carefully stabilised from 1995 to 2006.",
+   "tip": "Follow the Burgweg path to both. The walk is short and the setting is in front of the Tannheimer Berge.",
+   "q": "Burgruine Hohenfreyberg, Burgweg, Eisenberg",
+   "ll": [
+    47.61387,
+    10.58767
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Burg_Hohenfreyberg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "alpspitzbahn",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Alpspitzbahn above Nesselwang",
+   "desc": "The cable car runs in two sections from Nesselwang at 911 m via a mid station to 1,500 m, just below the Alpspitz (1,575 m) and the Edelsberg (1,629 m). The lower section was built in 2006 and carries walkers, skiers and sledgers.",
+   "tip": "Good for an easy summit walk or a winter sled run. Check the lift's season before you go.",
+   "q": "Alpspitzbahn Talstation, Nesselwang",
+   "ll": [
+    47.61776,
+    10.4974
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Alpspitzbahn_Nesselwang"
+   ]
+  },
+  {
+   "id": "nesselpost",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink house beer at the Brauerei-Gasthof Post",
+   "desc": "This brewery inn on Hauptstraße has been run by the Meyer family since 1883, and the Post was first documented in 1650 and served as a royal Bavarian post station. The beer comes from the Brau-Manufactur Allgäu, and Nesselwang once had five breweries.",
+   "tip": "Ask for the beer list and a pairing suggestion. The inn also has a small brewing museum.",
+   "q": "Brauerei-Gasthof Hotel Post, Hauptstraße 25, Nesselwang",
+   "ll": [
+    47.62195,
+    10.49929
+   ],
+   "src": [
+    "https://www.about-drinks.com/bierkultur-in-nesselwang-mit-auszeichnung/"
+   ]
+  },
+  {
+   "id": "fuenfknopf",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb to the Fünfknopfturm in Kaufbeuren",
+   "desc": "Built in 1420 as part of the town wall, the tower is Kaufbeuren's landmark and once held the town fire watch. A shield on its east facade from 1917 is studded with 5,387 nails, and the watchman's room was lived in until spring 2014.",
+   "tip": "Find it on Afraberg and wander the old town wall nearby. There is a café right next door.",
+   "q": "Fünfknopfturm, Afraberg 9, Kaufbeuren",
+   "ll": [
+    47.87944,
+    10.61722
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Fünfknopfturm_(Kaufbeuren)",
+    "https://de.wikivoyage.org/wiki/Kaufbeuren"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "blasius",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the late Gothic St. Blasius church",
+   "desc": "St. Blasius stands beside the north-western corner tower of the old town fortification, high above the old town. It is first mentioned in 1319 and counts as one of the most important medieval monuments in Swabia.",
+   "tip": "Take the short climb up Blasiusberg. Opening hours are limited, so check first.",
+   "q": "St. Blasius, Blasiusberg 13, Kaufbeuren",
+   "ll": [
+    47.8812,
+    10.61694
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/St._Blasius_(Kaufbeuren)"
+   ]
+  },
+  {
+   "id": "stmartin",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Step into the Gothic St. Martin in Kaufbeuren",
+   "desc": "The Catholic town parish church of St. Martin on Kirchplatz was converted to Gothic style between 1438 and 1443. It anchors the old town of Kaufbeuren.",
+   "tip": "Combine it with a walk along Kaiser-Max-Straße.",
+   "q": "St. Martin, Kirchplatz 9, Kaufbeuren",
+   "ll": [
+    47.88021,
+    10.62087
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Kaufbeuren"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stadtmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Browse the Kaufbeuren Stadtmuseum",
+   "desc": "The city museum was founded in 1879 and is one of the oldest city history museums in Bavarian Swabia. Since 2013 it shows its permanent exhibition over four floors of a historic old town building.",
+   "tip": "A good rainy-day option. Check the opening days before going.",
+   "q": "Stadtmuseum, Kaisergäßchen 12, Kaufbeuren",
+   "ll": [
+    47.87974,
+    10.61932
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Stadtmuseum_Kaufbeuren"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "weberhaus",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have coffee and cake at Café Weberhaus",
+   "desc": "Café Weberhaus is a Konditorei at Kaiser-Max-Straße 22 in the old town, open Monday to Saturday and on Sunday afternoons. It is a classic cake stop on the main street.",
+   "tip": "Go mid-afternoon for the full cake counter.",
+   "q": "Café Weberhaus, Kaiser-Max-Straße 22, Kaufbeuren",
+   "ll": [
+    47.87961,
+    10.62084
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Kaufbeuren"
+   ]
+  },
+  {
+   "id": "cafefk",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Climb to the Café am Fünfknopfturm",
+   "desc": "This café at Afraberg 7 sits right beside the town's landmark tower. It keeps late hours on most days, opening in the afternoon and closing around 1 a.m. from Tuesday to Friday.",
+   "tip": "A good stop after the tower. Check the opening hours, which start in the afternoon on weekdays.",
+   "q": "Cafe am Fünfknopfturm, Afraberg 7, Kaufbeuren",
+   "ll": [
+    47.87923,
+    10.61753
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Kaufbeuren"
+   ]
+  },
+  {
+   "id": "haering",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat at the Gaststätte Zum Häring",
+   "desc": "Zum Häring is an inn at Kemptener Tor 9 on the edge of the old town. It opens Tuesday to Sunday for lunch and dinner.",
+   "tip": "Go for lunch and then walk through the old town gate.",
+   "q": "Gaststätte Zum Häring, Kemptener Tor 9, Kaufbeuren",
+   "ll": [
+    47.88175,
+    10.61665
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Kaufbeuren"
+   ]
+  },
+  {
+   "id": "isergebirge",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Learn the Gablonz jewellery story at the Isergebirgs-Museum",
+   "desc": "The museum in the Gablonzer Haus in Neugablonz opened in 2000. It tells the story of the Iser Mountains and of the expellees who built the costume jewellery town of Neugablonz after the war.",
+   "tip": "Open Tuesday to Sunday afternoons. A rainy-day stop that pairs well with the Gablonz exhibition.",
+   "q": "Isergebirgs-Museum, Bürgerplatz 1, Kaufbeuren-Neugablonz",
+   "ll": [
+    47.91387,
+    10.63719
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Isergebirgs_Museum_Neugablonz",
+    "https://de.wikivoyage.org/wiki/Kaufbeuren"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "gablonz",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the glass jewellery at the Gablonzer Industrie exhibition",
+   "desc": "This free exhibition on Neue Zeile in Neugablonz shows how costume jewellery is made and the variety of the local firms. Neugablonz grew from 1946 on the site of a former munitions factory, settled by people expelled from Gablonz.",
+   "tip": "Weekday opening hours are short, so check them before you go.",
+   "q": "Erlebnisausstellung der Gablonzer Industrie, Neue Zeile 11, Kaufbeuren-Neugablonz",
+   "ll": [
+    47.90757,
+    10.6325
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Kaufbeuren",
+    "https://de.wikipedia.org/wiki/Neugablonz"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "amarkt",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Take cake at Café am Markt in Neugablonz",
+   "desc": "This Konditorei at Neuer Markt 8 is the café on the main square of Neugablonz, the district founded after the war by expellees from Gablonz. It is open daily including Sunday afternoon.",
+   "tip": "Pair it with a visit to the jewellery exhibition nearby.",
+   "q": "Café am Markt, Neuer Markt 8, Kaufbeuren-Neugablonz",
+   "ll": [
+    47.91356,
+    10.63551
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Kaufbeuren"
+   ]
+  },
+  {
+   "id": "marktoberdorf",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the Schloss and linden avenue in Marktoberdorf",
+   "desc": "The former hunting lodge and summer residence of the Augsburg prince-bishops stands by the baroque St. Martin church. An 18th-century linden avenue, the Kurfürstenallee, runs 2 km to a viewpoint, and the garden hides an underground concert hall.",
+   "tip": "Walk the avenue on a clear day. Combine with the church next door.",
+   "q": "Schloss Marktoberdorf, Marktoberdorf",
+   "ll": [
+    47.77974,
+    10.62199
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Marktoberdorf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "wieskirche",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Gaze at the Wieskirche, a Rococo masterpiece",
+   "desc": "This pilgrimage church was finished in 1754 by the brothers Johann Baptist and Dominikus Zimmermann and has been a UNESCO World Heritage site since 1983. It grew out of a pilgrimage to a statue of the Scourged Saviour made in 1730.",
+   "tip": "Come early or late to avoid tour groups. Look up at the ceiling.",
+   "q": "Wieskirche, Wies 12, Steingaden",
+   "ll": [
+    47.68058,
+    10.90035
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Wieskirche"
+   ]
+  },
+  {
+   "id": "marienbruecke",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Cross the Marienbrücke for the Neuschwanstein view",
+   "desc": "The bridge spans the Pöllat gorge right behind Neuschwanstein. A wooden riding bridge was built in 1845 under King Max II, and in 1866 Ludwig II had it replaced with a slim iron design by Heinrich Gerber, built by Cramer-Klett of Nuremberg.",
+   "tip": "Queues form at peak times and the bridge can be closed in bad weather. Go early.",
+   "q": "Marienbrücke, Hohenschwangau, Schwangau",
+   "ll": [
+    47.55495,
+    10.7494
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Marienbrücke_(Neuschwanstein)"
+   ]
+  },
+  {
+   "id": "tegelberg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Tegelbergbahn up above Schwangau",
+   "desc": "The cable car is 2,146 m long and lifts two cabins of up to 44 people over 892 m to the Tegelberg. It is a good way up the mountain above the royal castles without a long hike.",
+   "tip": "Pick a clear day for the ride and check the timetable.",
+   "q": "Tegelbergbahn, Tegelbergstraße 33, Schwangau",
+   "ll": [
+    47.56823,
+    10.75624
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Tegelbergbahn"
+   ]
+  },
+  {
+   "id": "bannwaldsee",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk or swim at the Bannwaldsee",
+   "desc": "The Bannwaldsee covers 2.28 square km and lies 4.5 km north-east of Füssen. Much of its shore is natural reed bed, with a campsite and bathing area in the south-east.",
+   "tip": "Best in summer. Use the quiet reed shore for a walk and the south-east for a swim.",
+   "q": "Bannwaldsee, Schwangau",
+   "ll": [
+    47.6006,
+    10.7775
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Bannwaldsee"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "irsee",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the monastery of Irsee",
+   "desc": "Kloster Irsee was a Benedictine abbey founded in 1182 by monks from Isny. Today it is a conference, education and cultural centre of the Swabian district, near Kaufbeuren.",
+   "tip": "Walk the grounds and look at the church. Check for concerts or events.",
+   "q": "Kloster Irsee, Klosterring 4, Irsee",
+   "ll": [
+    47.91007,
+    10.57445
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kloster_Irsee"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hopferau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the neo-Gothic Schloss Hopferau",
+   "desc": "The building dates back to 1468, when Sigmund von Freyberg of Eisenberg had a house built. In 1830 to 1840 it was rebuilt in neo-Gothic style under Domenico Quaglio, and its 1504 chapel serves as the village church.",
+   "tip": "The castle is a private building, so admire it from outside and visit the village church.",
+   "q": "Schloss Hopferau, Hopferau",
+   "ll": [
+    47.61375,
+    10.63314
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Hopferau"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "aggenstein",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike up the Aggenstein from Pfronten",
+   "desc": "The Aggenstein reaches 1,986 m in the Tannheimer Berge on the German-Austrian border. One route to the summit starts from the Breitenbergbahn valley station in Pfronten.",
+   "tip": "Strong hikers only. Check the weather and mountain hut openings before you start.",
+   "q": "Aggenstein, Pfronten",
+   "ll": [
+    47.53694,
+    10.55806
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Aggenstein"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "forggensee",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Circle the Forggensee on foot or by bike",
+   "desc": "The Forggensee is Germany's largest reservoir by surface at 15.2 square km, and the fifth largest lake in Bavaria. It was created by damming the Lech at Roßhaupten.",
+   "tip": "The water is lowered in winter, so go in summer when the lake is full.",
+   "q": "Forggensee, Roßhaupten",
+   "ll": [
+    47.6166,
+    10.7425
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Forggensee"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "babel",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Watch cheese being made at the Walder Käskuche",
+   "desc": "The Berghof family in Wald runs an open dairy that has made cheese from the farm's own milk since autumn 2010. Visitors can watch cheesemaking and brewing, and there is a Bräustüberl and a farm shop.",
+   "tip": "The farm's pigs are fed whey from the dairy. Check opening hours before you visit.",
+   "q": "Walder Käskuche, Nesselwanger Straße 44, Wald",
+   "ll": [
+    47.71685,
+    10.55559
+   ],
+   "src": [
+    "https://www.walder-kaeskuche.de"
+   ]
+  },
+  {
+   "id": "fischerhuette",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat fresh fish at the Fischerhütte in Hopfen am See",
+   "desc": "The Fischerhütte on Uferstraße in Hopfen am See is open daily from late morning to evening and focuses on local fish. It has a terrace in a cosy lakeside village setting.",
+   "tip": "Book a terrace table in summer.",
+   "q": "Fischerhütte, Uferstraße 16, Hopfen am See",
+   "ll": [
+    47.60673,
+    10.68083
+   ],
+   "src": [
+    "https://www.swipein.restaurant/en/restaurant/fischerhutte-fussen-bayern",
+    "https://de.wikipedia.org/wiki/Hopfen_am_See"
+   ]
+  },
+  {
+   "id": "hopfensee",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Relax at the Seepark on the Hopfensee",
+   "desc": "The Seepark in Hopfen am See offers an Alpine panorama, a Kneipp island and windsurfing on the Hopfensee. The lake lies about 4 km north-west of Füssen, with the ruin of Burg Hopfen on a hill above the village.",
+   "tip": "Best on a warm summer day. Bring a towel, and try the Kneipp island to cool your feet.",
+   "q": "Seepark Hopfensee, Hopfen am See",
+   "ll": [
+    47.60083,
+    10.67111
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Füssen",
+    "https://de.wikipedia.org/wiki/Hopfen_am_See"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8
+   ]
+  }
+ ]
+}

@@ -1,0 +1,435 @@
+{
+  "new": [
+    {
+      "id": "turningtorso", "cat": "gor", "area": "merkez",
+      "title": "Stand at the foot of the twisting Turning Torso",
+      "desc": "Santiago Calatrava based this 190 metre tower on his own marble sculpture of a twisting human body. Nine stacked blocks of five floors each turn a little further, so the top is rotated a full 90 degrees from the base. It was finished in 2005 and has 54 floors.",
+      "tip": "There is no public viewing deck, so enjoy it from outside. The best angle is from the small Ankarparken lake just south, where the tower reflects in the water.",
+      "q": "Turning Torso, Malmö", "ll": [55.6133, 12.9763],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Turning_Torso", "https://www.visitmalmo.se/en/tourist-attractions-in-malmo/"]
+    },
+    {
+      "id": "malmohus", "cat": "gor", "area": "merkez",
+      "title": "Cross the moat into Malmöhus castle",
+      "desc": "Malmöhus is called the oldest preserved Renaissance castle in the Nordic countries, built between 1526 and 1539 when Malmö was Danish. Mary Queen of Scots' husband, the Earl of Bothwell, was held prisoner here from 1567 to 1573, and the castle served as a prison until 1914. Today it houses Malmö museum.",
+      "tip": "A lift replacement runs until spring 2027, so a few rooms are closed; check malmo.se before you go. Visitors up to age 19 get in free.",
+      "q": "Malmöhus slott, Malmö", "ll": [55.6048, 12.9871],
+      "tags": ["rainy day"],
+      "src": ["https://sv.wikipedia.org/wiki/Malm%C3%B6hus", "https://malmo.se/Uppleva-och-gora/Konst-och-museer/Malmo-museum/Besok-Malmo-museum/Oppettider-och-entreavgifter.html"]
+    },
+    {
+      "id": "ubatu3", "cat": "gor", "area": "merkez",
+      "title": "Squeeze through submarine U3 at the Maritime House",
+      "desc": "Teknikens och sjöfartens hus, the technology and maritime branch of Malmö museum, keeps a real Swedish navy submarine on its ground floor. You can climb inside U3 and walk through its cramped bunks and control room, then move on to old cars, aircraft and steam engines.",
+      "tip": "A day ticket for this house alone is 60 kronor and under 20s go free. From September to May it is closed on Mondays outside school holidays.",
+      "q": "Teknikens och sjöfartens hus, Malmöhusvägen, Malmö", "ll": [55.6048, 12.9828],
+      "tags": ["rainy day"],
+      "src": ["https://malmo.se/Uppleva-och-gora/Besoksmal/Malmo-Museer/Utstallningar/Teknikens-och-Sjofartens-hus/Ubaten-U3.html", "https://malmo.se/Uppleva-och-gora/Konst-och-museer/Malmo-museum/Besok-Malmo-museum/Oppettider-och-entreavgifter.html"]
+    },
+    {
+      "id": "stortorgetmalmo", "cat": "gor", "area": "merkez",
+      "title": "Circle the king on horseback on Stortorget",
+      "desc": "Malmö's great square was cleared from 1538 on the site of a demolished monastery, and the town hall on its east side was ready in 1546. In the middle rides Karl X Gustav, the king who won Skåne for Sweden, cast for the 1896 exhibition. Around the edges stand Kockska huset and the old Lejonet pharmacy.",
+      "tip": "Step into the Lejonet pharmacy for its carved wooden interior, then walk thirty seconds southwest and you are on Lilla Torg.",
+      "q": "Stortorget, Malmö", "ll": [55.6062, 13.0002],
+      "tags": ["free"],
+      "src": ["https://sv.wikipedia.org/wiki/Stortorget,_Malm%C3%B6", "https://sv.wikipedia.org/wiki/Malm%C3%B6_r%C3%A5dhus"]
+    },
+    {
+      "id": "lillatorgmalmo", "cat": "gor", "area": "merkez",
+      "title": "Linger among the old houses of Lilla Torg",
+      "desc": "This cobbled square was filled in during the 1590s as a market where townswomen bought meat, fish and bread. A brick market hall covered it from 1903 until 1968, when it was torn down and the square returned to its old size. Today half-timbered and painted houses frame café and restaurant terraces.",
+      "tip": "Heaters and blankets keep the terraces going well beyond summer. For a quieter look, come before 10 in the morning when only the pigeons and delivery bikes are about.",
+      "q": "Lilla Torg, Malmö", "ll": [55.6052, 12.9987],
+      "tags": ["free"],
+      "src": ["https://sv.wikipedia.org/wiki/Lilla_torg,_Malm%C3%B6", "https://www.visitmalmo.se/en/tourist-attractions-in-malmo/"]
+    },
+    {
+      "id": "formdesigncenter", "cat": "gor", "area": "merkez",
+      "title": "Browse Scandinavian design at Form/Design Center",
+      "desc": "Behind Lilla Torg hides Hedmanska gården, a half-timbered merchant's yard from the 1590s. It now holds Form/Design Center, which puts on changing exhibitions of architecture, design and crafts, and has a shop of Nordic objects and a small café.",
+      "tip": "It is open Tuesday to Saturday from 11 to 17. The courtyard itself is worth the detour even if you skip the exhibitions.",
+      "q": "Form/Design Center, Lilla Torg 9, Malmö", "ll": [55.6045, 12.9992],
+      "tags": ["free", "rainy day"],
+      "src": ["https://formdesigncenter.com/en/", "https://sv.wikipedia.org/wiki/Lilla_torg,_Malm%C3%B6"]
+    },
+    {
+      "id": "stpetrimalmo", "cat": "gor", "area": "merkez",
+      "title": "Find medieval paintings in St. Petri's Merchants' Chapel",
+      "desc": "Sankt Petri, consecrated early in the 1300s, is Malmö's oldest building and a fine example of Baltic brick Gothic, modelled on a church in Copenhagen. The rest of the interior was whitewashed after the Reformation, but the Krämarkapellet, the Merchants' Chapel, still shows the painted vaults and walls the way the church once looked.",
+      "tip": "Let your eyes adjust in the chapel to pick out the faces and saints on the vaults. Entry is free.",
+      "q": "S:t Petri kyrka, Göran Olsgatan, Malmö", "ll": [55.6069, 13.0034],
+      "tags": ["free", "rainy day"],
+      "src": ["https://sv.wikipedia.org/wiki/Sankt_Petri_kyrka,_Malm%C3%B6", "https://www.visitmalmo.se/en/tourist-attractions-in-malmo/"]
+    },
+    {
+      "id": "modernamalmo", "cat": "gor", "area": "merkez",
+      "title": "See modern art in an old power station at Moderna Museet",
+      "desc": "Moderna Museet's Malmö branch fills an electricity plant built in 1901, later the Rooseum art centre, and opened in 2009. Its bright orange perforated annex by Tham & Videgård makes it easy to spot. Shows draw on one of Europe's top collections of 20th century art.",
+      "tip": "Entry is 50 kronor and free for anyone 25 or under. Thursdays it stays open until 19.",
+      "q": "Moderna Museet Malmö, Ola Billgrens plats, Malmö", "ll": [55.6046, 13.0096],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Moderna_Museet_Malm%C3%B6", "https://www.modernamuseet.se/malmo/en/visit/"]
+    },
+    {
+      "id": "malmokonsthall", "cat": "gor", "area": "merkez",
+      "title": "Wander the luminous halls of Malmö Konsthall",
+      "desc": "Opened in 1975, Malmö Konsthall is one of Europe's larger halls for contemporary art. Architect Klas Anshelm took inspiration from Brâncuși's Paris studio and gave it one huge open floor lit through the roof.",
+      "tip": "There is no collection, only changing shows, so check what is on. The restaurant SMAK under the same roof makes a good lunch stop.",
+      "q": "Malmö Konsthall, S:t Johannesgatan 7, Malmö", "ll": [55.5953, 12.9992],
+      "tags": ["free", "rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Malm%C3%B6_Konsthall", "https://en.wikivoyage.org/wiki/Malm%C3%B6"]
+    },
+    {
+      "id": "stadsbiblioteket", "cat": "gor", "area": "merkez",
+      "title": "Read by the glass wall of the Calendar of Light",
+      "desc": "Malmö City Library pairs an old museum building called Slottet with the Calendar of Light, a glass hall by Danish architect Henning Larsen opened in 1997. Its tall windows face Slottsparken, so you read with the trees right beside you.",
+      "tip": "Anyone can walk in and sit down. On grey days the upper floors of the glass hall are one of the brightest indoor spots in town.",
+      "q": "Malmö stadsbibliotek, Kung Oscars väg, Malmö", "ll": [55.6005, 12.9940],
+      "tags": ["free", "rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Malm%C3%B6_City_Library"]
+    },
+    {
+      "id": "oresundsbronview", "cat": "gor", "area": "merkez",
+      "title": "Watch the Öresund Bridge from Sundspromenaden",
+      "desc": "From the seafront promenade in Västra Hamnen you look straight out at the bridge to Denmark, opened in 2000. It carries a motorway and a railway across the strait, then dives into a 4 km tunnel near Copenhagen so it does not get in the way of the airport.",
+      "tip": "Sit on the wide wooden steps at Daniaparken at sunset, when the sun drops behind the bridge. On clear days you can make out Copenhagen.",
+      "q": "Daniaparken, Västra Hamnen, Malmö", "ll": [55.6140, 12.9717],
+      "tags": ["free"],
+      "src": ["https://www.visitmalmo.se/en/tourist-attractions-in-malmo/", "https://en.wikivoyage.org/wiki/Malm%C3%B6"]
+    },
+    {
+      "id": "stjohanneskyrka", "cat": "gor", "area": "merkez",
+      "title": "Count the roses in Sankt Johannes church",
+      "desc": "Built from 1903 to 1907 by Axel Anderberg, this red brick church near Triangeln is Malmö's showpiece of Art Nouveau. Roses are carved into stone and wood and painted all through the interior, which is why locals call it the church of roses.",
+      "tip": "Look for the tower set off in a corner rather than over the entrance. Malmö Konsthall is a two minute walk away.",
+      "q": "S:t Johannes kyrka, Malmö", "ll": [55.5942, 13.0018],
+      "tags": ["free"],
+      "src": ["https://sv.wikipedia.org/wiki/Sankt_Johannes_kyrka,_Malm%C3%B6"]
+    },
+    {
+      "id": "slottsmollan", "cat": "gor", "area": "merkez",
+      "title": "Find the last windmill inside the canals",
+      "desc": "Slottsmöllan, a Dutch-style windmill from 1851, stands on the remains of a bastion beside Malmöhus. A mill has stood here since 1663, and this is the only windmill left inside Malmö's canal ring.",
+      "tip": "It sits at the corner of Slottsparken, so pair it with a walk round the park. It looks best in late afternoon light, seen from the canal side.",
+      "q": "Slottsmöllan, Malmöhusvägen, Malmö", "ll": [55.6031, 12.9861],
+      "tags": ["free"],
+      "src": ["https://sv.wikipedia.org/wiki/Slottsm%C3%B6llan,_Malm%C3%B6"]
+    },
+    {
+      "id": "davidshallstorg", "cat": "gor", "area": "merkez",
+      "title": "Browse the boutiques around Davidshallstorg",
+      "desc": "This small square is framed by 1920s apartment houses, and the lanes around it are full of vintage shops, design and fashion boutiques and craft studios. It is the calmer, more local side of Malmö shopping.",
+      "tip": "Saturdays are liveliest. Wander down Davidshallsgatan and Kristianstadsgatan, where most independent shops are.",
+      "q": "Davidshallstorg, Malmö", "ll": [55.5991, 12.9984],
+      "tags": ["free"],
+      "src": ["https://www.visitmalmo.se/en/tourist-attractions-in-malmo/", "https://en.wikivoyage.org/wiki/Malm%C3%B6"]
+    },
+    {
+      "id": "hollandia", "cat": "ye", "area": "merkez",
+      "title": "Take fika on red velvet at Konditori Hollandia",
+      "desc": "Malmö's oldest konditori has served cakes on Södra Förstadsgatan since 1903. Chandeliers and red velvet chairs set the tone, and the name comes from Dutch furniture brought in during the 1950s.",
+      "tip": "Order one of the classic cream cakes from the counter with your coffee. Weekend afternoons are busiest, so come in the morning for a window table.",
+      "q": "Konditori Hollandia, Södra Förstadsgatan 8, Malmö", "ll": [55.6002, 13.0012],
+      "tags": ["rainy day"],
+      "src": ["https://visitsweden.com/where-to-go/southern-sweden/malmo/cafes-malmo/", "https://theculturetrip.com/europe/sweden/articles/the-best-cafes-and-coffee-shops-in-malmo"]
+    },
+    {
+      "id": "malmosaluhall", "cat": "ye", "area": "merkez",
+      "title": "Graze your way through Malmö Saluhall",
+      "desc": "Malmö's food hall opened in November 2016 in Godsmagasinet, a railway goods shed by the station that had stood empty since the 1950s. Around twenty vendors include a fishmonger, butcher, bakery and cheese counter, plus stalls for falafel, pizza and Korean street food.",
+      "tip": "On Friday evenings a DJ turns it into an after-work spot. It is a five minute walk from Malmö C, handy before a train.",
+      "q": "Malmö Saluhall, Gibraltargatan 6, Malmö", "ll": [55.6078, 12.9909],
+      "tags": ["rainy day"],
+      "src": ["https://www.malmosaluhall.se/", "https://andershusa.com/malmo-saluhall-sweden-food-market-hall/"]
+    },
+    {
+      "id": "jallajalla", "cat": "ye", "area": "merkez",
+      "title": "Eat a Malmö falafel roll at Jalla Jalla",
+      "desc": "Lebanese newcomers brought falafel to Malmö in the 1980s, and it became the city's own fast food, cheap, vegetarian and sold on almost every corner. Jalla Jalla on Bergsgatan near Möllan is one of the long-running spots locals argue is the best.",
+      "tip": "Order a large roll with mixed sauce, mild, hot and garlic together, the way regulars do. Pickled turnips are worth saying yes to.",
+      "q": "Jalla Jalla, Bergsgatan 16, Malmö", "ll": [55.5948, 13.0089],
+      "src": ["https://www.vice.com/en/article/falafel-is-more-than-just-fast-food-for-swedes-in-malmo/", "https://en.wikivoyage.org/wiki/Malm%C3%B6"]
+    },
+    {
+      "id": "fiskehoddorna", "cat": "ye", "area": "merkez",
+      "title": "Buy the day's catch at the Fiskehoddorna fish huts",
+      "desc": "These little wooden fishermen's huts were saved by Malmö museum and moved to Banérskajen in 1956, when the old fishing harbour was cleared. They are now protected, and a few still sell fresh fish from local boats out of glass counters along the quay.",
+      "tip": "Come in the morning, as the fish sells out. In summer a small restaurant opens by the huts for fish lunches by the water.",
+      "q": "Fiskehoddorna, Banérskajen, Malmö", "ll": [55.6052, 12.9838],
+      "src": ["https://malmo.se/Uppleva-och-gora/Arkitektur-och-kulturarv/Kulturarv-Malmo/Platser-och-byggnader/Fiskehoddorna.html", "https://www.scandinaviastandard.com/eating-at-the-classic-fishing-huts-of-malmo"]
+    },
+    {
+      "id": "mollevangstorget", "cat": "ye", "area": "merkez",
+      "title": "Shop the fruit stalls of Möllevångstorget",
+      "desc": "Möllan, laid out in 1904 to 1906, has hosted a daily fruit and vegetable market for 120 years. In the middle stands Axel Ebbe's statue Arbetets ära, the honour of labour, unveiled in 1931 as a tribute to the working-class district around it.",
+      "tip": "Prices drop as stalls pack up in the late afternoon. In the evening the bars around the square are among the cheapest in central Malmö.",
+      "q": "Möllevångstorget, Malmö", "ll": [55.5916, 13.0081],
+      "tags": ["free"],
+      "src": ["https://sv.wikipedia.org/wiki/M%C3%B6llev%C3%A5ngstorget", "https://sv.wikipedia.org/wiki/Arbetets_%C3%A4ra"]
+    },
+    {
+      "id": "malmobrewing", "cat": "ye", "area": "merkez",
+      "title": "Taste local brews at Malmö Brewing Co's taproom",
+      "desc": "Brewing in Malmö since 2010, Malmö Brewing Co runs a big taproom on Bergsgatan in the Möllan area. Its own beers pour alongside guest taps from Sweden and abroad.",
+      "tip": "Ask the bar staff which beers are brewed in house. It opens at 16 on weekdays and noon on Saturdays, and stays open late at weekends.",
+      "q": "Malmö Brewing Co Taproom, Bergsgatan 33, Malmö", "ll": [55.5934, 13.0076],
+      "tags": ["rainy day"],
+      "src": ["https://malmobrewing.com/", "https://thatsup.co.uk/malmo/bar/malmo-brewing-co-taproom/"]
+    },
+    {
+      "id": "lillakafferosteriet", "cat": "ye", "area": "merkez",
+      "title": "Sip fresh roasted coffee at Lilla Kafferosteriet",
+      "desc": "This micro roastery and café fills a 17th century house in the old town. It was named best coffee bar at the Malmö Gastronomy Award 2022 and also supplies the coffee at Moderna Museet's café.",
+      "tip": "Bags of freshly roasted beans make an easy souvenir, and the roastery also runs coffee tasting courses.",
+      "q": "Lilla Kafferosteriet, Baltzarsgatan 24, Malmö", "ll": [55.6045, 13.0029],
+      "src": ["https://visitsweden.com/where-to-go/southern-sweden/malmo/cafes-malmo/", "http://shop.lillakafferosteriet.se/"]
+    },
+    {
+      "id": "slottstradgardskafe", "cat": "ye", "area": "merkez",
+      "title": "Have lunch among the beds of Slottsträdgården",
+      "desc": "Slottsträdgården is an organic garden open all year next to Malmöhus, with vegetables, herbs and flowers grown in small plots. Its café cooks with what grows around it and has been named café of the year more than once.",
+      "tip": "Summer is the season for it, when tables spread out among the plants. Walk through the garden before you eat to see what is on your plate.",
+      "q": "Slottsträdgårdens Kafé, Malmöhusvägen 8, Malmö", "ll": [55.6038, 12.9892],
+      "src": ["https://www.visitmalmo.se/en/eat/", "https://visitsweden.com/where-to-go/southern-sweden/malmo/cafes-malmo/"]
+    },
+    {
+      "id": "johanp", "cat": "ye", "area": "merkez",
+      "title": "Order seafood at Johan P by Lilla Torg",
+      "desc": "Johan P has made fish and seafood its whole identity since 1982, a short step from Lilla Torg. Its own fish shop sells the same catch over the counter, and the restaurant has a champagne list of over 400 bottles.",
+      "tip": "Lunch is the better value. If you only want to take home some fish or shrimp, the shop opens at 10 Monday to Saturday and at noon on Sundays.",
+      "q": "Johan P, Hjulhamnsgatan 5, Malmö", "ll": [55.6042, 12.9989],
+      "src": ["https://www.johanp.nu/", "https://www.visitmalmo.se/en/eat/"]
+    },
+    {
+      "id": "ruthsmalmo", "cat": "ye", "area": "merkez",
+      "title": "Start the day with sourdough at Ruths",
+      "desc": "Ruths is a bakery and restaurant in the old town that runs from breakfast to late dinner. Its sourdough bread comes with every dish, and loaves and pastries are sold to take away.",
+      "tip": "It opens at 7:30 on weekdays, which makes it one of the best breakfast spots near Stortorget. Grab a cardamom bun for later.",
+      "q": "Ruths, Mäster Johansgatan 11, Malmö", "ll": [55.6062, 12.9977],
+      "src": ["https://ruthsmalmo.se/", "https://visitsweden.com/where-to-go/southern-sweden/malmo/cafes-malmo/"]
+    },
+    {
+      "id": "kallbadhus", "cat": "dene", "area": "merkez",
+      "title": "Sweat in the sauna and jump in the sea at Kallis",
+      "desc": "Ribersborgs kallbadhus is a wooden bathhouse on a pier off Ribersborg beach, moved here in 1898 and rebuilt after a storm in 1902. Men and women have separate sides, each with a wood-fired sauna, and you dip straight into the Öresund from the ladders. Locals keep coming all winter.",
+      "tip": "Bathing is nude on the single-sex sides; on the first Monday of each month the whole house is mixed. Bring your own towel and sandals.",
+      "q": "Ribersborgs kallbadhus, Limhamnsvägen, Malmö", "ll": [55.6052, 12.9654],
+      "src": ["https://sv.wikipedia.org/wiki/Ribersborgs_kallbadhus", "https://www.ribersborgskallbadhus.se/"]
+    },
+    {
+      "id": "ribersborgbeach", "cat": "dene", "area": "merkez",
+      "title": "Spend a beach day on Ribban",
+      "desc": "Ribersborgsstranden, Ribban to locals, is a long sandy beach just a couple of kilometres from the centre, with the Turning Torso at one end. The city tops up the sand every spring, and a cycle and footpath runs the whole length.",
+      "tip": "The water stays shallow far out, so walk out to the bathing jetties for a proper swim. Bring a picnic and stay for the sunset over the water.",
+      "q": "Ribersborgsstranden, Malmö", "ll": [55.6024, 12.9605],
+      "tags": ["free"], "months": [6, 7, 8],
+      "src": ["https://sv.wikipedia.org/wiki/Ribersborgsstranden", "https://en.wikivoyage.org/wiki/Malm%C3%B6"]
+    },
+    {
+      "id": "scaniabadet", "cat": "dene", "area": "merkez",
+      "title": "Swim from the deck at Scaniabadet",
+      "desc": "At the tip of Västra Hamnen, Scaniaparken has a long wooden sun deck with bathing jetties dropping straight into deep sea water. It is a favourite sunset spot, with the sun going down over the Öresund.",
+      "tip": "The water is deep and can have currents, so it suits confident swimmers. Come mid-morning in summer before the afternoon crowds.",
+      "q": "Scaniabadet, Scaniaparken, Malmö", "ll": [55.6177, 12.9768],
+      "tags": ["free"], "months": [6, 7, 8],
+      "src": ["https://malmo.se/Uppleva-och-gora/Bada-och-simma/Strander-och-badplatser/Scaniabadet.html", "https://www.swedentips.se/?p=2571"]
+    },
+    {
+      "id": "kungsparken", "cat": "dene", "area": "merkez",
+      "title": "Stroll Kungsparken and Slottsparken by the canal",
+      "desc": "Kungsparken, opened in 1872 on the castle's old fortification ground, is Malmö's oldest park, laid out in the romantic English style. A cast-iron fountain from 1882 sits at its heart, and a canal separates it from Slottsparken, so the two make one green loop.",
+      "tip": "Look for the little artificial grotto near the fountain, then cross a footbridge over the canal into Slottsparken.",
+      "q": "Kungsparken, Malmö", "ll": [55.6031, 12.9917],
+      "tags": ["free"],
+      "src": ["https://sv.wikipedia.org/wiki/Kungsparken,_Malm%C3%B6", "https://www.visitmalmo.se/en/tourist-attractions-in-malmo/"]
+    },
+    {
+      "id": "pildammsparken", "cat": "dene", "area": "merkez",
+      "title": "Walk the reservoir loop in Pildammsparken",
+      "desc": "Malmö's largest park covers about 45 hectares around the old Pildammarna reservoirs, dug as the town's water supply in the 1500s. It was laid out on the grounds of the 1914 Baltic Exhibition, whose royal pavilion survives as Margaretapaviljongen.",
+      "tip": "The path around the water is about 1.5 km. Picnic on Tallriken, the round lawn some 165 metres across.",
+      "q": "Pildammsparken, Malmö", "ll": [55.5906, 12.9921],
+      "tags": ["free"],
+      "src": ["https://sv.wikipedia.org/wiki/Pildammsparken", "https://www.visitmalmo.se/en/tourist-attractions-in-malmo/"]
+    },
+    {
+      "id": "folketsparkmalmo", "cat": "dene", "area": "merkez",
+      "title": "Play mini golf and spot snakes in Folkets Park",
+      "desc": "The labour movement took over this park in 1891, making it the oldest people's park created by a popular movement. It still mixes mini golf, playgrounds, a reptile house and the onion-domed Moriska Paviljongen, which hosts concerts and club nights.",
+      "tip": "Entry to the park is free. Summer evenings bring outdoor gigs, and winter brings an ice rink.",
+      "q": "Folkets park, Malmö", "ll": [55.5935, 13.0138],
+      "tags": ["free"],
+      "src": ["https://sv.wikipedia.org/wiki/Folkets_park,_Malm%C3%B6", "https://www.visitmalmo.se/en/tourist-attractions-in-malmo/"]
+    },
+    {
+      "id": "malmofestivalen", "cat": "dene", "area": "merkez",
+      "title": "Join the free crowds at Malmöfestivalen",
+      "desc": "For eight days each August the centre turns into one big free festival, with over 1,000 events on about 20 stages, food stalls from all over the world and fairground rides. It runs for a week in mid August and draws more than a million visits.",
+      "tip": "Everything is free except the rides. Download the programme a week ahead, as the big evening concerts fill up fast.",
+      "q": "Gustav Adolfs torg, Malmö", "ll": [55.6027, 13.0004],
+      "tags": ["free"], "months": [8],
+      "src": ["https://www.visitmalmo.se/en/nyhet/global-stars-local-culture-and-free-concerts-mal/", "https://en.wikivoyage.org/wiki/Malm%C3%B6"]
+    },
+    {
+      "id": "malmolive", "cat": "dene", "area": "merkez",
+      "title": "Hear Malmö Symphony Orchestra at Malmö Live",
+      "desc": "Malmö Live opened in August 2015 by the station, combining a concert hall, a hotel and a congress centre in one sharp-edged complex. Its main hall is home to the Malmö Symphony Orchestra.",
+      "tip": "Check the programme for shorter early evening concerts. After the show, ride up to the 25th floor restaurant in the same building for the view.",
+      "q": "Malmö Live Konserthus, Dag Hammarskjölds torg 4, Malmö", "ll": [55.6074, 12.9936],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikivoyage.org/wiki/Malm%C3%B6", "https://www.visitmalmo.se/en/eat/"]
+    },
+    {
+      "id": "malmoopera", "cat": "dene", "area": "merkez",
+      "title": "See a show at Malmö Opera",
+      "desc": "Malmö Opera opened in 1944 as the city theatre, a grey marble temple of functionalism with a huge stage built for big productions. Today it stages opera, musicals, dance and concerts.",
+      "tip": "Book a seat in the upper circle for the best value. The Operagrillen restaurant inside serves lunch Tuesday to Friday.",
+      "q": "Malmö Opera, Östra Rönneholmsvägen 20, Malmö", "ll": [55.5961, 12.9957],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikivoyage.org/wiki/Malm%C3%B6", "https://www.visitmalmo.se/en/eat/"]
+    },
+    {
+      "id": "malmoff", "cat": "dene", "area": "merkez",
+      "title": "Sing along with Malmö FF at Eleda Stadion",
+      "desc": "Malmö FF, Sweden's most successful football club, plays at Eleda Stadion next to Pildammsparken. The stadium holds around 22,500 and the sky-blue home end makes a lot of noise.",
+      "tip": "The Allsvenskan season runs from spring to early November. Buy tickets online well ahead for big matches.",
+      "q": "Eleda Stadion, Malmö", "ll": [55.5837, 12.9877],
+      "months": [4, 5, 6, 7, 8, 9, 10, 11],
+      "src": ["https://en.wikivoyage.org/wiki/Malm%C3%B6"]
+    },
+    {
+      "id": "lunddomclock", "cat": "gor", "area": "lund",
+      "title": "Watch the Three Kings parade on Lund's astronomical clock",
+      "desc": "Horologium mirabile Lundense was built around 1424 and restored to working order in 1923. When it plays, two knights clash swords, a door opens and the Three Kings and their servants file past the Virgin Mary while a tiny hidden organ plays In dulci jubilo. Its calendar runs until 2123.",
+      "tip": "It plays at 12 and 15 Monday to Saturday, and at 13 and 15 on Sundays. Arrive ten minutes early to get a spot in front.",
+      "q": "Lunds domkyrka, Kyrkogatan, Lund", "ll": [55.7043, 13.1926],
+      "tags": ["free", "rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Lund_astronomical_clock", "https://www.svenskakyrkan.se/lund/lundsdomkyrka/3-det-astronomiska-uret"]
+    },
+    {
+      "id": "lundcrypt", "cat": "gor", "area": "lund",
+      "title": "Meet the giant Finn in the cathedral crypt",
+      "desc": "The crypt is the oldest part of Lund Cathedral, its main altar consecrated in 1123, and has barely changed since. Legend says the giant Finn built the church, and when he was not paid he tried to pull it down and was turned to stone. A figure hugging one of the pillars is said to be him.",
+      "tip": "The crypt is reached by stairs below the choir and is dim, so give your eyes a minute. Entry to the cathedral is free.",
+      "q": "Lunds domkyrka, Kyrkogatan, Lund", "ll": [55.7041, 13.1941],
+      "tags": ["free", "rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Lund_Cathedral", "https://www.touristinformationlund.se/attractions/cathedral/"]
+    },
+    {
+      "id": "lundagard", "cat": "gor", "area": "lund",
+      "title": "Cross the student heart of Lund in Lundagård",
+      "desc": "Lundagård is the park at the heart of university Lund, between the cathedral and the main university building. In it stands Kungshuset, built in 1578 to 1584 for the Danish king's governor and the university's first home until 1882. Nearby, six Viking runestones circle a little hill raised in 1868.",
+      "tip": "Come in May when the lilacs bloom around the park. Students crisscross it on bikes all day, so keep to the paths.",
+      "q": "Lundagård, Lund", "ll": [55.7051, 13.1943],
+      "tags": ["free"],
+      "src": ["https://sv.wikipedia.org/wiki/Kungshuset,_Lund", "https://www.touristinformationlund.se/attractions/viking-age/lund/rune-stones/the-runestone-hillock/"]
+    },
+    {
+      "id": "lunduniversitet", "cat": "gor", "area": "lund",
+      "title": "Spot the sphinxes on Lund University's main building",
+      "desc": "Helgo Zettervall's white main building opened in 1882, inspired by ancient Greek temples, with four sphinxes on the roof. The current sphinxes went up in October 2024. Indoors is closed for a long renovation, but the facade is the real sight.",
+      "tip": "By the fountain in front, look for a joke plaque marking the meridian of the academic quarter hour, a nod to lectures starting 15 minutes past.",
+      "q": "Universitetshuset, Paradisgatan, Lund", "ll": [55.7058, 13.1932],
+      "tags": ["free"],
+      "src": ["https://www.touristinformationlund.se/attractions/university-main-building/", "https://www.touristinformationlund.se/attractions/most-amusing/"]
+    },
+    {
+      "id": "skissernas", "cat": "gor", "area": "lund",
+      "title": "See how public art begins at Skissernas Museum",
+      "desc": "Founded in 1934 by art historian Ragnar Josephson, this museum collects sketches, models and competition entries for public art, more than 30,000 of them. Studies by Matisse, Diego Rivera and Henry Moore show how famous works took shape.",
+      "tip": "Admission is free on Thursday evenings. The restaurant På Skissernas in the building is good for lunch.",
+      "q": "Skissernas museum, Finngatan 2, Lund", "ll": [55.7078, 13.1983],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Skissernas_museum", "https://skissernasmuseum.se/en/"]
+    },
+    {
+      "id": "drottenruin", "cat": "gor", "area": "lund",
+      "title": "Descend to the Drotten church ruin",
+      "desc": "Under a modern building at Kattesund lie the stone foundations of Drotten, one of Lund's earliest churches, uncovered in digs in the 1980s. Models show the wooden churches that stood here before it, and graves from the church are on display.",
+      "tip": "The basement museum is unstaffed and free, open when the office or restaurant upstairs is open. It is closed on Sundays.",
+      "q": "Drottens kyrkoruin, Kattesund, Lund", "ll": [55.7022, 13.1915],
+      "tags": ["free", "rainy day"],
+      "src": ["https://www.touristinformationlund.se/attractions/viking-age/lund/drotten-church-ruin/"]
+    },
+    {
+      "id": "lundsaluhall", "cat": "ye", "area": "lund",
+      "title": "Pick up Lund sausages at Saluhallen",
+      "desc": "Lund's market hall opened in 1909 to get the meat and fish trade off the street. The older part still has butchers, fishmongers and cheese counters, and a newer wing has small restaurants. Look for Knake and Lunna Melle, the local sausages.",
+      "tip": "Open weekdays 10 to 18 and Saturdays 10 to 15. Come at lunchtime, when the eateries fill with students and staff.",
+      "q": "Saluhallen, Mårtenstorget, Lund", "ll": [55.7017, 13.1946],
+      "tags": ["rainy day"],
+      "src": ["https://www.touristinformationlund.se/attractions/lund-market-hall/", "https://kulturportallund.se/en/saluhallen-market-hall/"]
+    },
+    {
+      "id": "martenstorget", "cat": "ye", "area": "lund",
+      "title": "Buy berries at the Mårtenstorget market",
+      "desc": "Mårtenstorget opened in the 1840s as a cattle market called Oxtorget. Fruit and vegetables moved here in 1909, and the stalls still trade six days a week.",
+      "tip": "Market hours are Monday to Saturday from 6:30 to 16. Fridays and Saturdays in summer are busiest, with Skåne strawberries in June and July.",
+      "q": "Mårtenstorget, Lund", "ll": [55.7018, 13.1961],
+      "tags": ["free"],
+      "src": ["https://www.touristinformationlund.se/attractions/lund-market-places/"]
+    },
+    {
+      "id": "ramklints", "cat": "ye", "area": "lund",
+      "title": "Have a semla at Ramklints konditori",
+      "desc": "Ramklints on Mårtenstorget is one of Lund's old-school konditori, with baking traditions going back to the 1930s. It is the place to go for classic Swedish cakes, cinnamon buns and, around Lent, the cream-filled semla.",
+      "tip": "Semla season runs from January to Easter. The rest of the year, try a cardamom bun.",
+      "q": "Ramklints, Mårtenstorget 10, Lund", "ll": [55.7013, 13.1965],
+      "src": ["https://visitlund.se/en/to-do-in-lund/guides/cinnamon-and-cardamom-buns", "https://thatsup.co.uk/sweden/cafe/ramklints-konditori-lund/"]
+    },
+    {
+      "id": "grandhotellund", "cat": "ye", "area": "lund",
+      "title": "Dine in style at Lund's Grand Hotel",
+      "desc": "The Grand Hotel on Bantorget was inaugurated in 1899 and has drawn a large academic crowd since the 1910s. Its restaurant serves classic and regional Swedish dishes, and the Gambrinus bar offers a lighter menu.",
+      "tip": "Lunch is the affordable way in. In summer the outdoor terrace is a good spot for a glass of wine and an open sandwich.",
+      "q": "Grand Hotel, Bantorget 1, Lund", "ll": [55.7038, 13.1892],
+      "tags": ["rainy day"],
+      "src": ["https://sv.wikipedia.org/wiki/Grand_Hotel,_Lund", "https://en.wikivoyage.org/wiki/Lund"]
+    },
+    {
+      "id": "broderjakobs", "cat": "ye", "area": "lund",
+      "title": "Grab a bun from the stone oven at Broder Jakobs",
+      "desc": "This stone-oven bakery on Klostergatan, until recently called St. Jakobs, is a staple of Lund fika. It is known for sourdough loaves, buns and pastries baked on site.",
+      "tip": "Take your bun to Lundagård, five minutes away. The morning bake sells out first, so go early for the best choice.",
+      "q": "Broder Jakobs, Klostergatan 9, Lund", "ll": [55.7040, 13.1902],
+      "src": ["https://visitlund.se/en/to-do-in-lund/guides/cinnamon-and-cardamom-buns", "https://thatch.co/places/161565/broder-jakobs-stenugnsbageri"]
+    },
+    {
+      "id": "kulturenlund", "cat": "dene", "area": "lund",
+      "title": "Step into old Skåne at the Kulturen open-air museum",
+      "desc": "Founded in 1882, Kulturen opened one of the world's oldest open-air museums in 1892, filling two city blocks beside the cathedral with houses moved here from across southern Sweden. You can wander from a Skåne farmhouse with an enclosed courtyard to a timbered merchant's house and student lodgings.",
+      "tip": "Opening hours are shorter in winter, so check before you go. The late November Christmas fair adds glögg and hot food.",
+      "q": "Kulturen, Tegnérsplatsen, Lund", "ll": [55.7048, 13.1973],
+      "src": ["https://en.wikipedia.org/wiki/Kulturen", "https://www.kulturen.com/en/"]
+    },
+    {
+      "id": "botanlund", "cat": "dene", "area": "lund",
+      "title": "Wander the Botanical Garden of Lund University",
+      "desc": "Laid out between 1862 and 1867, the university's botanical garden covers about 8 hectares just east of the centre and grows around 7,000 kinds of plants. It is free and open from early morning to evening every day of the year.",
+      "tip": "The greenhouses are closed for a rebuild, so enjoy the outdoor beds and trees. It is the quietest green spot in town for a picnic.",
+      "q": "Botaniska trädgården, Östra Vallgatan 20, Lund", "ll": [55.7042, 13.2028],
+      "tags": ["free"],
+      "src": ["https://sv.wikipedia.org/wiki/Botaniska_tr%C3%A4dg%C3%A5rden_i_Lund", "https://en.wikivoyage.org/wiki/Lund"]
+    },
+    {
+      "id": "valborglund", "cat": "dene", "area": "lund",
+      "title": "Welcome spring with students on April 30 in Stadsparken",
+      "desc": "On Valborg, the last day of April, around 30,000 people picnic in Lund's City Park from early morning, in what is often called Sweden's largest spontaneous party. In the late afternoon students put on their white caps at Tegnérsplatsen, and the evening ends with songs to spring.",
+      "tip": "Glass bottles and furniture are banned in the park. On May 1 at 18, the Student Singers greet spring from the university steps.",
+      "q": "Stadsparken, Lund", "ll": [55.6984, 13.1856],
+      "tags": ["free"], "months": [4],
+      "src": ["https://www.touristinformationlund.se/attractions/aprillast/"]
+    },
+    {
+      "id": "nasoteket", "cat": "dene", "area": "lund",
+      "title": "Find famous noses at the Nasoteket",
+      "desc": "In Café Athen inside the student union building hangs a collection of more than 220 plaster casts of the noses of famous people, from politicians to an astronaut. Comedian Hans Alfredson came up with it, and it was dedicated in 1987. A sneeze collection was added in 2025.",
+      "tip": "It is free and open on weekdays during university terms. Press the button by the showcase to hear the sneezes.",
+      "q": "AF-borgen, Sandgatan 2, Lund", "ll": [55.7052, 13.1959],
+      "tags": ["free", "rainy day"],
+      "src": ["https://www.touristinformationlund.se/attractions/most-amusing/"]
+    }
+  ]
+}

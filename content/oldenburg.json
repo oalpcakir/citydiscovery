@@ -1,0 +1,530 @@
+{
+  "new": [
+    {
+      "id": "schlossoldenburg", "cat": "gor", "area": "merkez",
+      "title": "Walk through the counts' Renaissance palace",
+      "desc": "Count Anton Günther had Andrea Spezza build this palace from 1607 on the site of a medieval moated castle, and later dukes and grand dukes kept adding to it. Since 1921 it has housed the Landesmuseum Kunst & Kultur, with highlights like the Marble Hall and the Idyll Room.",
+      "tip": "The museum is reworking its permanent exhibition in the palace, so check online which rooms are open. The Augusteum and Prinzenpalais across the road belong to the same museum.",
+      "q": "Schloss Oldenburg, Schloßplatz, Oldenburg", "ll": [53.1376, 8.2164],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Schloss_Oldenburg", "https://www.oldenburg-tourismus.de/oldenburg-entdecken/sehenswuerdigkeiten"]
+    },
+    {
+      "id": "lappan", "cat": "gor", "area": "merkez",
+      "title": "Find the Lappan, the tower that was patched on",
+      "desc": "This 35 metre brick tower was added to the Chapel of the Holy Spirit in 1467 and 1468, and its name comes from the Low German word for patched on. It was one of the few buildings to survive the great town fire of 1676 and is the city's best known landmark.",
+      "tip": "The Oldenburg-Info tourist office sits right inside, so pick up a map here and start your old town walk down the Lange Straße.",
+      "q": "Lappan, Lange Straße, Oldenburg", "ll": [53.1430, 8.2134],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Lappan", "https://www.oldenburg-tourismus.de/oldenburg-entdecken/sehenswuerdigkeiten"]
+    },
+    {
+      "id": "lambertikirche", "cat": "gor", "area": "merkez",
+      "title": "Step from Gothic into a round temple at St. Lamberti",
+      "desc": "Outside, the city's oldest church wears a neo-Gothic coat with four corner towers and an 86 metre main spire, the tallest structure in Oldenburg. Inside comes the surprise: a bright classicist rotunda that feels more like a Roman temple than a Lutheran church.",
+      "tip": "It is on the market square, so pair it with the Degodehaus and the triangular Altes Rathaus right next door.",
+      "q": "Lambertikirche, Markt, Oldenburg", "ll": [53.1385, 8.2144],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Lambertikirche_(Oldenburg)", "https://www.oldenburg-tourismus.de/oldenburg-entdecken/sehenswuerdigkeiten"]
+    },
+    {
+      "id": "degodehaus", "cat": "gor", "area": "merkez",
+      "title": "Spot the 1502 beam on the Degodehaus",
+      "desc": "This half-timbered merchant's house on the market square is the oldest surviving building in Oldenburg and outlasted the great fire of 1676. It was built in 1502, as a dated beam on the gable shows, and got its present look between 1616 and 1618.",
+      "tip": "Look up for the date on the gable beam, then turn round: the Altes Rathaus opposite was built on a triangular plot in 1886.",
+      "q": "Degodehaus, Markt 24, Oldenburg", "ll": [53.1392, 8.2137],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Degodehaus_(Oldenburg)", "https://de.wikipedia.org/wiki/Altes_Rathaus_(Oldenburg)"]
+    },
+    {
+      "id": "horstjanssen", "cat": "gor", "area": "merkez",
+      "title": "Get lost in Horst Janssen's drawings and etchings",
+      "desc": "Oldenburg's museum for the restless draughtsman and etcher Horst Janssen opened in 2000 with 1,800 sheets from a Hamburg collection. The permanent show, reworked in 2020, explains his printmaking techniques, and the upper floors host three or four special exhibitions a year.",
+      "tip": "It shares its entrance with the Stadtmuseum, which reopened in a new building. Both are usually open Tuesday to Sunday, 10 am to 6 pm.",
+      "q": "Horst-Janssen-Museum, Am Stadtmuseum, Oldenburg", "ll": [53.1445, 8.2147],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Horst-Janssen-Museum", "https://stadtmuseum-oldenburg.de/"]
+    },
+    {
+      "id": "medienkunst", "cat": "gor", "area": "merkez",
+      "title": "See video and net art at the Haus für Medienkunst",
+      "desc": "Formerly known as the Edith-Russ-Haus, this villa shows changing exhibitions of video, computer and internet art and hosts artists in residence for weeks at a time. It dropped its founder's name after research in 2024 revealed her problematic past in the Nazi era.",
+      "tip": "Entry is free on the first Sunday of each month. It is open Tuesday to Friday from 2 pm and weekends from 11 am, but closes between exhibitions.",
+      "q": "Haus für Medienkunst, Katharinenstraße 23, Oldenburg", "ll": [53.1436, 8.2086],
+      "tags": ["rainy day"],
+      "src": ["https://hausmedienkunst.de/en/", "https://en.wikipedia.org/wiki/Edith-Russ-Haus"]
+    },
+    {
+      "id": "prinzenpalais", "cat": "gor", "area": "merkez",
+      "title": "Meet the modern masters in the Prinzenpalais",
+      "desc": "Duke Peter Friedrich Ludwig had this classicist palace built from 1821 to 1826 for his orphaned grandsons, two Russian princes, by Schinkel's pupil Heinrich Carl Slevogt. Today it holds the Landesmuseum's Galerie Neue Meister, with painting from the 19th and 20th centuries.",
+      "tip": "It faces the palace across the road, so you can combine it with the Schloss and the Augusteum in one museum afternoon.",
+      "q": "Prinzenpalais, Damm 1, Oldenburg", "ll": [53.1363, 8.2175],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Prinzenpalais_(Oldenburg)", "https://www.niedersachsen-tourism.com/poi/prinzenpalais-oldenburg"]
+    },
+    {
+      "id": "augusteum", "cat": "gor", "area": "merkez",
+      "title": "Look at old masters in the 1867 Augusteum",
+      "desc": "Finished in 1867, the Augusteum was one of the first purpose-built public museums in northern Germany, a gift of Grand Duke Nikolaus Friedrich Peter. It now houses the Galerie Alte Meister, with Dutch, Italian, German and French painting from the 15th to the 18th century.",
+      "tip": "The Augusteum also stages contemporary shows, so check the Landesmuseum programme before you go.",
+      "q": "Augusteum, Elisabethstraße 1, Oldenburg", "ll": [53.1362, 8.2166],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Augusteum_(Oldenburg)"]
+    },
+    {
+      "id": "gertrudenkirchhof", "cat": "gor", "area": "merkez",
+      "title": "Find the ducal mausoleum in the Gertrudenkirchhof",
+      "desc": "This walled cemetery north of the old town dates from the Middle Ages, when it served a hospital for the incurably sick outside the gates. It holds the mausoleum of the ducal family and the Gertrudenkapelle, the only late medieval church building left in the city.",
+      "tip": "Read the Bible verse carved into the sandstone right of the 1649 gateway, then wander the old graves under the trees.",
+      "q": "Gertrudenfriedhof, Oldenburg", "ll": [53.1484, 8.2148],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Gertrudenfriedhof_(Oldenburg)"]
+    },
+    {
+      "id": "pulverturm", "cat": "gor", "area": "merkez",
+      "title": "Visit the Pulverturm, last piece of the town walls",
+      "desc": "This squat round tower from 1529 is the only building left of Oldenburg's fortifications. The Danes stored gunpowder here while the town was their fortress, and from 1765 to about 1900 it served as the palace's ice cellar.",
+      "tip": "Its domed room hosts small exhibitions and events, and it sits right between the palace and the Schlossgarten, so it is an easy stop on a stroll.",
+      "q": "Pulverturm, Schloßwall, Oldenburg", "ll": [53.1377, 8.2140],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Pulverturm_(Oldenburg)", "https://www.oldenburg-tourismus.de/oldenburg-entdecken/sehenswuerdigkeiten"]
+    },
+    {
+      "id": "kramermarkt", "cat": "dene", "area": "merkez",
+      "title": "Ride the rides at the 400-year-old Kramermarkt",
+      "desc": "Oldenburg's big autumn fair goes back to 1608 and runs for ten days from late September or early October. It opens with a parade through town and draws up to 1.5 million visitors to the fairground by the Weser-Ems-Hallen.",
+      "tip": "The parade fills the city centre on the opening weekend. For the rides themselves, weekday afternoons are far less crowded.",
+      "q": "Weser-Ems-Halle, Europaplatz, Oldenburg", "ll": [53.1490, 8.2262],
+      "months": [9, 10],
+      "src": ["https://de.wikivoyage.org/wiki/Oldenburg_(Niedersachsen)", "https://www.festivalsindeutschland.de/festival/oldenburger-kramermarkt"]
+    },
+    {
+      "id": "staatstheater", "cat": "dene", "area": "merkez",
+      "title": "Catch a show, maybe in Low German, at the Staatstheater",
+      "desc": "Oldenburg's oldest theatre runs seven divisions: opera and musicals, drama, dance, concerts, youth theatre, an experimental branch and plays in Low German. The Low German stage works with the theatre and performs only in Plattdeutsch.",
+      "tip": "Even without German, an opera, dance or concert night works fine. The grand house is on the Theaterwall, a short walk from the Lappan.",
+      "q": "Oldenburgisches Staatstheater, Theaterwall, Oldenburg", "ll": [53.1391, 8.2098],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Oldenburgisches_Staatstheater", "https://www.oldenburg-tourismus.de/oldenburg-entdecken/sehenswuerdigkeiten"]
+    },
+    {
+      "id": "botanischergarten", "cat": "dene", "area": "merkez",
+      "title": "Wander from moorland to the tropics in the Botanic Garden",
+      "desc": "The university's 3.7 hectare garden began in 1882 as a teaching garden. You walk through moor and heath, an alpine garden, a Mediterranean section, a tropical house and a succulent house with about 300 plants, plus more than 1,000 species of northwest German flora.",
+      "tip": "Go in from the Philosophenweg. Its scientists even run a breeding project for the local kale variety, the Oldenburger Palme.",
+      "q": "Botanischer Garten Oldenburg, Philosophenweg 41, Oldenburg", "ll": [53.1475, 8.1980],
+      "src": ["https://de.wikipedia.org/wiki/Botanischer_Garten_Oldenburg", "https://www.tageskarte.io/gastronomie/detail/oldenburg-feiert-den-gruenkohl.html"]
+    },
+    {
+      "id": "schlossgarten", "cat": "dene", "area": "merkez",
+      "title": "Stroll the duke's English garden behind the palace",
+      "desc": "Duke Peter Friedrich Ludwig bought meadows next to his palace in 1803 and 1805 and had his court gardener lay out this 16 hectare English landscape park. It is a protected garden monument with a rose garden, lawns, ponds and old trees.",
+      "tip": "The long-distance Jadeweg trail runs right through it, marked with a white J on black, if you fancy following it a little way.",
+      "q": "Schlossgarten, Gartenstraße, Oldenburg", "ll": [53.1344, 8.2117],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Schlossgarten_(Oldenburg)", "https://www.oldenburg-tourismus.de/oldenburg-entdecken/sehenswuerdigkeiten"]
+    },
+    {
+      "id": "everstenholz", "cat": "dene", "area": "merkez",
+      "title": "Follow the star-shaped paths of the Eversten Holz",
+      "desc": "This 23 hectare wood was the hunting ground of the counts of Oldenburg from 1428 to 1667. In the 1770s it was turned into a baroque park with paths radiating like a star, and many of the oaks you see today were planted then.",
+      "tip": "It is a ten-minute walk west of the Schlossgarten, so you can link both for a long green loop.",
+      "q": "Eversten Holz, Oldenburg", "ll": [53.1361, 8.2005],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Eversten_Holz"]
+    },
+    {
+      "id": "hallogruenkohl", "cat": "ye", "area": "merkez",
+      "title": "Open kale season at the Hallo Grünkohl festival",
+      "desc": "On the first Sunday of November, Oldenburg kicks off its kale season with long tables on the Rathausmarkt. You can try Grünkohl the classic way or as a vegan dish, burger, smoothie or even the green Ols beer called Grüner Anton.",
+      "tip": "The fun starts around noon. Kale is nicknamed the Oldenburger Palme here, so do not be confused if you see palm trees on the signs.",
+      "q": "Rathausmarkt, Oldenburg", "ll": [53.1389, 8.2149],
+      "months": [11],
+      "src": ["https://www.tageskarte.io/gastronomie/detail/oldenburg-feiert-den-gruenkohl.html", "https://www.niedersachsen-tourism.com/event/hallo-gruenkohl"]
+    },
+    {
+      "id": "ratskellergruenkohl", "cat": "ye", "area": "merkez",
+      "title": "Eat Grünkohl with Pinkel under the town hall vaults",
+      "desc": "The Ratskeller sits in the historic vaults beneath the Altes Rathaus and serves Oldenburger Grünkohl with Pinkel, Kochwurst and Kasseler, plus mustard and fried potatoes. Pinkel is a smoky, coarse grain sausage you will hardly find outside this corner of Germany.",
+      "tip": "There is a vegan kale too. In winter, Kohlfahrt groups fill the tables, so book ahead for weekend evenings.",
+      "q": "Ratskeller Oldenburg, Markt 1, Oldenburg", "ll": [53.1390, 8.2142],
+      "months": [11, 12, 1, 2],
+      "src": ["https://www.speisekarte.de/oldenburg-oldenburg/restaurant/ratskeller_mit_ratsstuebchen/speisekarte", "https://www.kohltourhauptstadt.de/", "https://de.wikipedia.org/wiki/Pinkel"]
+    },
+    {
+      "id": "olsbrauhaus", "cat": "ye", "area": "merkez",
+      "title": "Drink a local Ols beer at the harbour brewpub",
+      "desc": "Oldenburg's own brewery runs its brewhouse at the old city harbour, with up to 20 taps. Try the house Pilsener, Naturtrüb, Dunkel or Kellerbier, alongside hearty food cooked with the beer.",
+      "tip": "On weekends it opens at 9 am for breakfast. The brewery also runs tastings with a brewery tour at its Brauwerkstatt in the Rosenstraße.",
+      "q": "Ols Brauhaus am Hafen, Stau 34, Oldenburg", "ll": [53.1407, 8.2213],
+      "src": ["https://ols-brauerei.de/ols-brauhaus/", "https://www.mvp.de/niedersachsen/veranstaltungen/ols-biertasting-inkl-brauereifuehrung-ols-brauwerkstatt-oldenburg-oldenburg/"]
+    },
+    {
+      "id": "pferdemarktmarkt", "cat": "ye", "area": "merkez",
+      "title": "Shop the farmers' stalls at the Pferdemarkt market",
+      "desc": "Three times a week, on Tuesday, Thursday and Saturday, Oldenburg's weekly market sets up on the Pferdemarkt and the Rathausmarkt. It is where locals stock up on regional produce, and in winter on fresh kale.",
+      "tip": "Saturday morning is the liveliest. Come early for the best choice.",
+      "q": "Pferdemarkt, Oldenburg", "ll": [53.1468, 8.2130],
+      "src": ["https://www.oldenburg.de/fileadmin/oldenburg/Benutzer/Dateien/22_Rechtsamt/7.33-ab_20260701.pdf"]
+    },
+    {
+      "id": "lambertimarkt", "cat": "ye", "area": "merkez",
+      "title": "Sip mulled wine at the Lamberti Christmas market",
+      "desc": "From the Tuesday before the first Sunday of Advent until 22 December, about 110 decorated huts line the way from the Rathausmarkt past St. Lamberti to the Schlossplatz. Entry is free, and the burning Feuerzangenbowle is a ritual not to miss.",
+      "tip": "There is also a separate Scandinavian-style Christmas village on the Waffenplatz, a few minutes away, if you want a second round.",
+      "q": "Schloßplatz, Oldenburg", "ll": [53.1382, 8.2158],
+      "months": [11, 12],
+      "tags": ["free"],
+      "src": ["https://www.festivalsindeutschland.de/festival/lamberti-markt-oldenburg-weihnachtsmarkt", "https://www.niedersachsen-tourism.com/event/lamberti-markt-oldenburg"]
+    },
+    {
+      "id": "etzhornerkrug", "cat": "ye", "area": "merkez",
+      "title": "End a Kohlfahrt with kale at the Etzhorner Krug",
+      "desc": "For over 150 years, Oldenburgers have celebrated winter with a Kohlfahrt: a walk with a handcart of drinks and games like Boßeln, ending in a country inn over plates of kale. Oldenburg calls itself the nation's Kohlfahrt capital, and the Etzhorner Krug is one of the classic inns where the walk ends.",
+      "tip": "Kohlfahrten are group affairs booked months ahead. Check the Kohltourhauptstadt website for public Kohlfahrt dates, and leave room for the schnapps.",
+      "q": "Etzhorner Krug, Butjadinger Straße 341, Oldenburg", "ll": [53.1868, 8.2429],
+      "months": [11, 12, 1, 2],
+      "src": ["https://www.kohltourhauptstadt.de/"]
+    },
+    {
+      "id": "wallstrasse", "cat": "ye", "area": "merkez",
+      "title": "Bar-hop along the Wallstraße pub mile",
+      "desc": "The short Wallstraße between the Lappan and the Waffenplatz is Oldenburg's pub mile, lined with bars and bistros, some with live music. It is where the student city goes out after dark.",
+      "tip": "It is busiest on weekend nights and during the city festival in late August.",
+      "q": "Wallstraße, Oldenburg", "ll": [53.1424, 8.2117],
+      "src": ["https://de.wikivoyage.org/wiki/Oldenburg_(Niedersachsen)"]
+    },
+
+    {
+      "id": "greetsielmills", "cat": "gor", "area": "cevre",
+      "title": "Photograph Greetsiel's twin windmills",
+      "desc": "Two Dutch-style windmills stand about 130 metres apart at the edge of Greetsiel and have become the village's symbol. The green western mill dates in its current form from 1856, the red eastern one, Schoof's mill, from 1706.",
+      "tip": "The red mill can be visited inside. Step back along the road into the village to fit both mills into one photo.",
+      "q": "Greetsieler Zwillingsmühlen, Greetsiel, Krummhörn", "ll": [53.4977, 7.0998],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Greetsieler_Zwillingsm%C3%BChlen"]
+    },
+    {
+      "id": "pilsumlighthouse", "cat": "gor", "area": "cevre",
+      "title": "Walk the dyke to the striped Pilsum lighthouse",
+      "desc": "The little red and yellow tower on the North Sea dyke near Pilsum was finished in 1890 to guide ships up the Ems to Emden. It is one of the best known landmarks of East Frisia, made even more famous by the comedian Otto Waalkes, who lived in it in one of his films.",
+      "tip": "It is a pleasant walk or bike ride along the dyke from Greetsiel. The local Nationalpark-Haus runs guided visits inside.",
+      "q": "Pilsumer Leuchtturm, Krummhörn", "ll": [53.4979, 7.0457],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Pilsumer_Leuchtturm", "https://www.niedersachsen-tourism.com/event/fuehrung-pilsumer-leuchtturm-vom-nationalpark-haus"]
+    },
+    {
+      "id": "kunsthalleemden", "cat": "gor", "area": "cevre",
+      "title": "See German Expressionists at the Kunsthalle Emden",
+      "desc": "Stern magazine founder Henri Nannen gave his hometown this art museum in 1986, later enlarged by a gift from Munich gallerist Otto van de Loo. Its collection of about 1,700 works is strong on Expressionism and modern art, housed in local red brick by the water.",
+      "tip": "Check the programme before you go: the special exhibitions change a few times a year and often bring big names to this small town.",
+      "q": "Kunsthalle Emden, Hinter dem Rahmen, Emden", "ll": [53.3699, 7.2032],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Kunsthalle_Emden", "https://www.festivalsindeutschland.de/festival/kunsthalle-emden-40-jahre-jubilaeumsprogramm-2026"]
+    },
+    {
+      "id": "ottohuus", "cat": "gor", "area": "cevre",
+      "title": "Laugh your way through Dat Otto Huus",
+      "desc": "Comedian Otto Waalkes was born in Emden in 1948, and this small museum in the town centre is devoted to his life and his famous Ottifants. It has displays, a shop and a tiny cinema on the top floor.",
+      "tip": "It is a quick, fun stop of under an hour, two minutes from the Ratsdelft harbour in the middle of town.",
+      "q": "Dat Otto Huus, Große Straße 1, Emden", "ll": [53.3667, 7.2052],
+      "tags": ["rainy day"],
+      "src": ["https://www.niedersachsen-tourism.com/poi/dat-otto-huus", "https://de.wikipedia.org/wiki/Otto_Waalkes"]
+    },
+    {
+      "id": "ludgerikirche", "cat": "gor", "area": "cevre",
+      "title": "Hear the Arp Schnitger organ in Norden's Ludgerikirche",
+      "desc": "About 80 metres long, St. Ludgeri is the largest surviving medieval church in East Frisia, with a soaring Gothic choir finished around 1455 and a bell tower standing apart across the street. Inside is a great organ built by Arp Schnitger between 1686 and 1692, one of the most important baroque organs in Europe.",
+      "tip": "Look out for organ recitals, especially in the summer season, to hear the instrument at full power.",
+      "q": "Ludgerikirche, Am Markt, Norden", "ll": [53.5953, 7.2036],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Ludgeri-Kirche_(Norden)", "https://en.wikipedia.org/wiki/Organ_of_St._Ludgeri_in_Norden"]
+    },
+    {
+      "id": "teemuseumnorden", "cat": "gor", "area": "cevre",
+      "title": "Learn why East Frisians drink the most tea",
+      "desc": "The Ostfriesisches Teemuseum in Norden's old town hall explains how tea became the region's ritual drink, with rock sugar and cream poured in a cloud. You see the classic East Frisian Rose porcelain, learn how the Echte Ostfriesische Mischung is blended and compare tea cultures from China to Russia.",
+      "tip": "The museum runs a guided tea hour as part of some tours. From November to February it opens only on weekends.",
+      "q": "Ostfriesisches Teemuseum, Am Markt 36, Norden", "ll": [53.5947, 7.2025],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Ostfriesisches_Teemuseum", "https://www.teemuseum.de/"]
+    },
+    {
+      "id": "schlossjever", "cat": "gor", "area": "cevre",
+      "title": "Explore the chieftains' castle of Jever",
+      "desc": "Jever grew around a fortress of the Frisian chieftains, first built around 1370 by Edo Wiemken the Elder and rebuilt as a residence in later centuries. It is the town's most important secular building and today houses the Schlossmuseum.",
+      "tip": "The castle is a five-minute walk from the Jever brewery, so you can combine history and a beer tasting in one afternoon.",
+      "q": "Schloss Jever, Schloßplatz, Jever", "ll": [53.5721, 7.9028],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Schloss_Jever"]
+    },
+    {
+      "id": "marinemuseum", "cat": "gor", "area": "cevre",
+      "title": "Climb aboard warships at the Deutsches Marinemuseum",
+      "desc": "Germany's naval museum has told the story of the German navy since 1848 in a former torpedo workshop of the imperial shipyard since 1998. Next to it, a 3,000 square metre outdoor area holds real ships you can go aboard.",
+      "tip": "Allow at least two hours. The Kaiser-Wilhelm-Brücke and the Südstrand promenade are right next door.",
+      "q": "Deutsches Marinemuseum, Südstrand 125, Wilhelmshaven", "ll": [53.5133, 8.1403],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Deutsches_Marinemuseum"]
+    },
+    {
+      "id": "kwbruecke", "cat": "gor", "area": "cevre",
+      "title": "Cross the Kaiser-Wilhelm-Brücke swing bridge",
+      "desc": "Built from 1905 to 1907, this riveted steel swing bridge is Wilhelmshaven's landmark. It is 159 metres long, and its two halves can each swing 90 degrees to let ships into the harbour.",
+      "tip": "Walk across on foot and keep going to the Südstrand promenade, the best place for a view back at the bridge.",
+      "q": "Kaiser-Wilhelm-Brücke, Wilhelmshaven", "ll": [53.5136, 8.1353],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Kaiser-Wilhelm-Br%C3%BCcke_(Wilhelmshaven)"]
+    },
+    {
+      "id": "haussamson", "cat": "gor", "area": "cevre",
+      "title": "Peek into a merchant's home at Haus Samson in Leer",
+      "desc": "This listed house in Leer's old town has a gabled facade dated 1643 in front of a core from 1570. Upstairs, a private museum shows how wealthy East Frisian families lived, while a wine shop occupies the ground floor.",
+      "tip": "Continue down to the harbour and the historic town hall on the Rathausstraße, and finish at the Bünting tea museum around the corner.",
+      "q": "Haus Samson, Rathausstraße, Leer", "ll": [53.2271, 7.4511],
+      "src": ["https://de.wikipedia.org/wiki/Haus_Samson"]
+    },
+    {
+      "id": "marienhafe", "cat": "gor", "area": "cevre",
+      "title": "Climb the Störtebeker tower in Marienhafe",
+      "desc": "Marienhafe's 13th century church was once the largest in East Frisia, as big as Osnabrück cathedral, until much of it was pulled down in 1829. Legend says the pirate Klaus Störtebeker hid out here around 1400, and the tower holds a small museum room named after him.",
+      "tip": "Opening hours of the tower are limited, so check with the parish or the tourist office before you go up.",
+      "q": "Marienkirche, Marienhafe", "ll": [53.5227, 7.2724],
+      "src": ["https://de.wikipedia.org/wiki/Marienkirche_(Marienhafe)"]
+    },
+    {
+      "id": "museumsdorf", "cat": "gor", "area": "cevre",
+      "title": "Wander through old farmsteads at Museumsdorf Cloppenburg",
+      "desc": "Founded in 1922, this is one of Germany's oldest open-air museums, with farmhouses, mills and workshops moved here from all over Lower Saxony. Around 280,000 people visit each year.",
+      "tip": "Plan half a day and wear sturdy shoes, as the site is large and many paths are unpaved.",
+      "q": "Museumsdorf Cloppenburg, Bether Straße 6, Cloppenburg", "ll": [52.8496, 8.0559],
+      "src": ["https://de.wikipedia.org/wiki/Museumsdorf_Cloppenburg"]
+    },
+    {
+      "id": "sielhafen", "cat": "gor", "area": "cevre",
+      "title": "Step back into a 19th century harbour in Carolinensiel",
+      "desc": "Carolinensiel was founded in 1730 as a harbour village where the Harle meets the sea. The Deutsches Sielhafenmuseum, opened in 1984, tells the story of these sluice harbours in four listed buildings around the museum harbour, where old sailing ships still lie.",
+      "tip": "Start in the Groot Hus of 1840 on the harbour, then walk the two kilometres along the Harle to Harlesiel and the sea.",
+      "q": "Deutsches Sielhafenmuseum, Am Hafen Ost, Carolinensiel, Wittmund", "ll": [53.6911, 7.8028],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Deutsches_Sielhafenmuseum_Carolinensiel", "https://de.wikipedia.org/wiki/Carolinensiel"]
+    },
+    {
+      "id": "borkumleuchtturm", "cat": "gor", "area": "cevre",
+      "title": "Climb Borkum's big lighthouse for the island view",
+      "desc": "After the old lighthouse burned, the new one went up in 1879 in under five months, in the middle of Borkum town. It is one of three lighthouses on the island and the one you can climb.",
+      "tip": "It is open daily from April to October. Clear, windy days give you views across the dunes to the open sea.",
+      "q": "Neuer Leuchtturm, Strandstraße, Borkum", "ll": [53.5888, 6.6621],
+      "months": [4, 5, 6, 7, 8, 9, 10],
+      "src": ["https://de.wikipedia.org/wiki/Neuer_Leuchtturm_Borkum"]
+    },
+    {
+      "id": "langeoogwasserturm", "cat": "gor", "area": "cevre",
+      "title": "Find Langeoog's water tower on the dunes",
+      "desc": "Langeoog's symbol is not a lighthouse but a water tower, built in 1909 on the ten metre high Kaap dunes at the end of the main street. The 18 metre tower once secured fresh water for the growing seaside resort.",
+      "tip": "Climb the steps up the dune for a view over the car-free village and on to the beach, which starts just beyond.",
+      "q": "Wasserturm, Langeoog", "ll": [53.7473, 7.4764],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Wasserturm_Langeoog"]
+    },
+    {
+      "id": "klosterhude", "cat": "gor", "area": "cevre",
+      "title": "Wander the brick ruins of Hude Abbey",
+      "desc": "Cistercian monks founded this abbey in a quiet stream valley in 1232. The towering ruin of the brick church still stands in the woods, one of the most atmospheric medieval sites between Bremen and Oldenburg.",
+      "tip": "Come in late afternoon light, when the brick glows red against the trees.",
+      "q": "Klosterruine Hude, Hude", "ll": [53.1170, 8.4491],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Kloster_Hude"]
+    },
+    {
+      "id": "fedderwardersiel", "cat": "gor", "area": "cevre",
+      "title": "Watch the crab cutters in Fedderwardersiel",
+      "desc": "Fedderwardersiel is the only fishing harbour on the Butjadingen peninsula, and shrimp cutters still land their catch here on the Weser estuary. Every summer the harbour hosts a crab cutter regatta with shrimp-peeling contests.",
+      "tip": "The regatta is usually held around the turn of July and August. Time your visit for the incoming tide, when the boats return.",
+      "q": "Fedderwardersiel, Butjadingen", "ll": [53.5964, 8.3550],
+      "tags": ["free"],
+      "src": ["https://www.niedersachsen-tourism.com/poi/krabbenkutterhafen-fedderwardersiel", "https://www.niedersachsen-tourism.com/event/krabben-kutterregatta-2026"]
+    },
+    {
+      "id": "greetsielkrabben", "cat": "ye", "area": "cevre",
+      "title": "Eat a Krabbenbrötchen by Greetsiel's cutter harbour",
+      "desc": "Greetsiel's harbour is home to one of the largest shrimp cutter fleets in East Frisia, roughly 20 to 27 boats. Brown North Sea shrimp, landed here and piled into a soft bread roll, is the snack to have on the quay.",
+      "tip": "Come when the cutters return with the tide. The Kutterkorso boat parade in summer is the year's big harbour event.",
+      "q": "Hafen, Greetsiel, Krummhörn", "ll": [53.5016, 7.0912],
+      "src": ["https://de.wikipedia.org/wiki/Greetsiel", "https://www.leinetal24.de/niedersachsen/greetsiel-krabbenkutter-flotte-fang-schleuse-nordsee-92843891.html"]
+    },
+    {
+      "id": "buntingtee", "cat": "ye", "area": "cevre",
+      "title": "Join an East Frisian tea ceremony at Bünting",
+      "desc": "Next to the headquarters of the old Leer tea merchant Bünting, this museum covers tea growing, blending and the history of tea in East Frisia over two floors. Its tea ceremony shows the ritual properly: rock sugar crackling in the cup, cream added but never stirred, three cups as a polite minimum.",
+      "tip": "Book the ceremony with tea tasting if you want to compare blends. The museum is closed on Mondays from January to April.",
+      "q": "Bünting TeeMuseum, Brunnenstraße 33, Leer", "ll": [53.2292, 7.4511],
+      "tags": ["rainy day"],
+      "src": ["https://www.niedersachsen-tourism.com/poi/buenting-teemuseum-leer"]
+    },
+    {
+      "id": "zwischenahneraal", "cat": "ye", "area": "cevre",
+      "title": "Try smoked eel and the Löffeltrunk at the Spieker",
+      "desc": "Smoked eel is the Ammerland's famous treat, washed down with a local schnapps drunk from a pewter spoon in a ritual called the Löffeltrunk, with host and guests trading lines of a toast. The Spieker, a historic farmhouse inn by the open-air museum, still serves it the old-fashioned way.",
+      "tip": "The schnapps is also used to rinse your fingers after the eel, so do not drink every drop.",
+      "q": "Spieker, Am Hogen Hagen 4, Bad Zwischenahn", "ll": [53.1838, 8.0146],
+      "src": ["https://www.schlemmer-atlas.de/restaurants/deutschland/bad-zwischenahn/spieker-gaststaette-ammerlaender-landhaus/", "https://de.wikipedia.org/wiki/Bad_Zwischenahn"]
+    },
+    {
+      "id": "dangastrhabarber", "cat": "ye", "area": "cevre",
+      "title": "Have the famous rhubarb cake at the Kurhaus Dangast",
+      "desc": "Ulrike Tapken first baked her rhubarb cake here in 1976, and word of mouth made it a legend along the coast. The listed Kurhaus, a meeting place since 1800, looks straight out over the Jadebusen and is still run by the same family.",
+      "tip": "Payment is cash only, and the house takes a winter break in late autumn, so check before driving out.",
+      "q": "Kurhaus Dangast, An der Rennweide 46, Varel", "ll": [53.4470, 8.1114],
+      "src": ["https://www.niedersachsen-tourism.com/gastro/dangast-kurhaus-dangast", "https://www.leinetal24.de/niedersachsen/nordsee-spezialitaet-feiert-geburtstag-dieser-kuchen-ist-kult-94326509.html"]
+    },
+    {
+      "id": "jeverbrauerei", "cat": "ye", "area": "cevre",
+      "title": "Tour the Jever brewery and taste the famously bitter Pils",
+      "desc": "Diedrich König founded the Friesisches Brauhaus zu Jever in 1848, and its dry, hoppy Pilsener became one of Germany's best known beers. Guided tours start in the historic brewery museum and end with a tasting.",
+      "tip": "Tours take about two hours and often sell out, so book online. The route has stairs and is not step-free.",
+      "q": "Friesisches Brauhaus zu Jever, Elisabethufer 18, Jever", "ll": [53.5755, 7.9018],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Jever_(Bier)", "https://www.mvp.de/niedersachsen/veranstaltungen/jever-brauereifuehrung-2026-friesisches-brauhaus-zu-jever-21-07/"]
+    },
+    {
+      "id": "cafepudding", "cat": "ye", "area": "cevre",
+      "title": "Have cake on the Pudding dune on Wangerooge",
+      "desc": "Café Pudding opened in 1949 on top of a round dune at the end of Wangerooge's main street, right above the beach. Islanders always walked round the dune, so it was nicknamed the Pudding, and the café became an island landmark.",
+      "tip": "Grab a window seat for the sea view. It is typically closed early in the week, so check opening days first.",
+      "q": "Café Pudding, Zedeliusstraße 49, Wangerooge", "ll": [53.7932, 7.9001],
+      "src": ["https://de.wikipedia.org/wiki/Caf%C3%A9_Pudding"]
+    },
+    {
+      "id": "milchbar", "cat": "ye", "area": "cevre",
+      "title": "Watch the sunset from Norderney's Milchbar",
+      "desc": "This almost fully glazed café and bar sits right on Norderney's beach promenade with lounge chairs facing the sea. It serves homemade cakes and small dishes by day and cocktails to a chilled soundtrack in the evening.",
+      "tip": "Arrive before sunset to get a terrace seat facing the sea.",
+      "q": "Milchbar, Damenpfad 33, Norderney", "ll": [53.7082, 7.1387],
+      "src": ["https://www.schlemmer-atlas.de/restaurants/deutschland/norderney/milchbar-norderney/"]
+    },
+    {
+      "id": "neuharlingersiel", "cat": "ye", "area": "cevre",
+      "title": "Eat fresh fish by the cutters of Neuharlingersiel",
+      "desc": "Neuharlingersiel's small harbour is lined with brightly painted shrimp cutters and is also the ferry port for Spiekeroog. Fish restaurants and stalls around the basin sell shrimp and fish fresh off the boats.",
+      "tip": "Take your fish roll to the harbour wall and watch the Spiekeroog ferry come in.",
+      "q": "Hafen, Neuharlingersiel", "ll": [53.7006, 7.7038],
+      "src": ["https://de.wikipedia.org/wiki/Neuharlingersiel"]
+    },
+    {
+      "id": "emdermatjes", "cat": "ye", "area": "cevre",
+      "title": "Taste the new season's herring at the Emder Matjestage",
+      "desc": "Every year in late May or June, Emden celebrates the first young herring of the season around the Ratsdelft harbour, with traditional ships moored in the middle of town. The festival has run for more than three decades and includes a fun run through the town centre.",
+      "tip": "Try matjes the local way, on brown bread with onions.",
+      "q": "Ratsdelft, Emden", "ll": [53.3651, 7.2065],
+      "months": [5, 6],
+      "src": ["https://www.niedersachsen-tourism.com/event/emder-matjestage-und-traditionsschifftreffen", "https://www.festivalsindeutschland.de/festival/35-emder-matjestage-und-traditionsschifftreffen"]
+    },
+    {
+      "id": "wattwandern", "cat": "dene", "area": "cevre",
+      "title": "Walk across the seabed to Baltrum with a mudflat guide",
+      "desc": "At low tide only about seven kilometres of Wadden Sea, a UNESCO World Heritage Site, separate the mainland at Neßmersiel from Baltrum, the smallest inhabited East Frisian island. A licensed guide leads you barefoot across the flats in about two and a half hours, and you return by ferry.",
+      "tip": "Never cross without a guide, as the tide comes in fast. Groups meet at the northern end of the harbour car park in Neßmersiel.",
+      "q": "Neßmersiel Hafen, Dornum", "ll": [53.6856, 7.3602],
+      "src": ["https://www.niedersachsen-tourism.com/event/wattwanderung-nach-baltrum", "https://de.wikipedia.org/wiki/Baltrum"]
+    },
+    {
+      "id": "seehundstation", "cat": "dene", "area": "cevre",
+      "title": "Meet rescued seal pups at the Norddeich seal station",
+      "desc": "Lower Saxony's only officially recognised marine mammal rescue station raises between 80 and 180 orphaned seals a year and releases them back into the Wadden Sea. Visitors can watch the young seals from viewing areas and learn about the national park.",
+      "tip": "Summer is pup season, when the pools are fullest. If you find a seal pup on a beach, keep away and call the station.",
+      "q": "Seehundstation Norddeich, Dörper Weg 24, Norden", "ll": [53.6125, 7.1594],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Seehundstation_Norddeich"]
+    },
+    {
+      "id": "wattenmeerhaus", "cat": "dene", "area": "cevre",
+      "title": "Stand under a sperm whale at the Wattenmeer visitor centre",
+      "desc": "Wilhelmshaven's UNESCO World Heritage Wadden Sea visitor centre explains the tidal flats, salt marshes and their wildlife through hands-on exhibits. The star is the complete skeleton of a sperm whale.",
+      "tip": "Come here before or after a walk on the Südstrand, it is a few steps from the promenade.",
+      "q": "Wattenmeer Besucherzentrum, Südstrand 110b, Wilhelmshaven", "ll": [53.5128, 8.1393],
+      "tags": ["rainy day"],
+      "src": ["https://www.niedersachsen-tourism.com/poi/unesco-weltnaturerbe-wattenmeer-besucherzentrum-wilhelmshaven", "https://whichmuseum.co.uk/museum/unesco-weltnaturerbe-wattenmeer-besucherzentrum-wilhelmshaven-28305"]
+    },
+    {
+      "id": "suedstrand", "cat": "dene", "area": "cevre",
+      "title": "Stroll the Südstrand promenade on the Jadebusen",
+      "desc": "Wilhelmshaven's beach faces south onto the Jadebusen, an unusual direction on the North Sea coast. A 1.5 kilometre raised promenade with cafés runs above the sand, the town's holiday centre.",
+      "tip": "Bring a jacket even in summer. At low tide the water retreats far out, at high tide it laps right up to the steps.",
+      "q": "Südstrand, Wilhelmshaven", "ll": [53.5102, 8.1237],
+      "tags": ["free"],
+      "src": ["https://www.travelbook.de/ziele/staedte/ausflug-nach-wilhelmshaven-tipps", "https://freizeitmonster.de/blog/straende-wilhelmshaven"]
+    },
+    {
+      "id": "parkdergaerten", "cat": "dene", "area": "cevre",
+      "title": "Get garden ideas at the Park der Gärten",
+      "desc": "Germany's largest show garden park covers 14 hectares in Rostrup by the Zwischenahner Meer, with 46 model gardens laid out by around 140 nurseries from across Lower Saxony. Tens of thousands of seasonal flowers fill 27 beds through the year.",
+      "tip": "The Ammerland is famous for rhododendrons, so come in May when they are in full bloom.",
+      "q": "Park der Gärten, Elmendorfer Straße, Bad Zwischenahn", "ll": [53.2008, 7.9918],
+      "src": ["https://de.wikipedia.org/wiki/Park_der_G%C3%A4rten"]
+    },
+    {
+      "id": "weisseflotte", "cat": "dene", "area": "cevre",
+      "title": "Cruise the Zwischenahner Meer with the Weiße Flotte",
+      "desc": "The Zwischenahner Meer is one of the largest lakes in Lower Saxony, and the Weiße Flotte runs sightseeing cruises on it. A round trip takes about an hour, stopping at Rostrup and Dreibergen.",
+      "tip": "Boats sail in every season, though in winter only from the Bad Zwischenahn pier. You can take your bike along to ride back.",
+      "q": "Weisse Flotte, Am Hogen Hagen, Bad Zwischenahn", "ll": [53.1848, 8.0148],
+      "src": ["https://www.bad-zwischenahn-touristik.de/en/poi/weisse-flotte", "https://www.niedersachsen-tourism.com/poi/weisse-flotte"]
+    },
+    {
+      "id": "hammersee", "cat": "dene", "area": "cevre",
+      "title": "Cycle car-free Juist to the Hammersee",
+      "desc": "Juist is the longest East Frisian island at 17 kilometres and has no cars. In its western third lies the Hammersee, the largest freshwater lake on any North Sea island, formed when a storm flood broke through in 1932.",
+      "tip": "Rent a bike in the village and ride out past Loog, then come back along the beach at low tide.",
+      "q": "Hammersee, Juist", "ll": [53.6747, 6.9430],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Hammersee_(Juist)", "https://de.wikipedia.org/wiki/Juist"]
+    },
+    {
+      "id": "pferdebahn", "cat": "dene", "area": "cevre",
+      "title": "Ride Germany's last horse-drawn railway on Spiekeroog",
+      "desc": "Spiekeroog's island railway first ran with horses in 1885, and since the line closed in 1981 a museum horse tram has kept the tradition alive. It runs from the old station to the Westend, and since 2025 again to the old rescue station.",
+      "tip": "It operates in season from about April to October, weather permitting, and the return trip leaves 45 minutes later.",
+      "q": "Bahnhof Historische Pferdebahn, Spiekeroog", "ll": [53.7695, 7.6890],
+      "months": [4, 5, 6, 7, 8, 9, 10],
+      "src": ["https://de.wikipedia.org/wiki/Inselbahn_Spiekeroog", "https://tourispo.de/attraktion/museums-pferdebahn-spiekeroog_preise-und-oeffnungszeiten.html"]
+    },
+    {
+      "id": "badehaus", "cat": "dene", "area": "cevre",
+      "title": "Warm up in seawater at Norderney's bade:haus",
+      "desc": "Opened in 2005 in a Bauhaus-style building that once held Europe's oldest seawater wave pool, the bade:haus is Germany's largest thalasso centre. It offers heated seawater pools, saunas and spa treatments.",
+      "tip": "Perfect for a grey, windy day, and only a few steps from the beach promenade.",
+      "q": "bade:haus, Am Kurplatz 2, Norderney", "ll": [53.7043, 7.1437],
+      "tags": ["rainy day"],
+      "src": ["https://www.niedersachsen-tourism.com/poi/badehaus-norderney", "https://web.de/magazine/reise/norderney-insel-gegensaetze-32366726"]
+    },
+    {
+      "id": "thuelsfelder", "cat": "dene", "area": "cevre",
+      "title": "Walk or cycle around the Thülsfelder Talsperre",
+      "desc": "Built between 1924 and 1927 to stop floods on the Soeste, this reservoir between Cloppenburg and Friesoythe is the only dam lake in the Lower Saxony lowlands. Today its shores of woods, heath and beaches are a favourite for walks, swims and bike rides.",
+      "tip": "The flat paths around the shore make an easy bike ride, and the sandy beaches are popular for a summer swim.",
+      "q": "Thülsfelder Talsperre, Garrel", "ll": [52.9194, 7.9414],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Th%C3%BClsfelder_Talsperre"]
+    },
+    {
+      "id": "upstalsboom", "cat": "dene", "area": "cevre",
+      "title": "Stand where the free Frisians met at the Upstalsboom",
+      "desc": "In the 13th and 14th centuries, envoys from the Frisian lands met on this mound west of Aurich to settle laws and speak with one voice, in the era called Frisian Freedom. A stone pyramid from 1833 marks the spot.",
+      "tip": "It is a short bike ride west of Aurich's centre and makes a peaceful detour.",
+      "q": "Upstalsboom, Aurich", "ll": [53.4541, 7.4311],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Upstalsboom"]
+    },
+    {
+      "id": "campenleuchtturm", "cat": "dene", "area": "cevre",
+      "title": "Climb over 300 steps up Germany's tallest lighthouse",
+      "desc": "At 65.3 metres, the steel-frame lighthouse of Campen is the tallest in Germany and has guided ships to the Ems since 1891. A narrow spiral stair inside the central tube takes you to the top.",
+      "tip": "It is open daily from mid-March to early November. There is a small bistro at the foot for a drink afterwards.",
+      "q": "Leuchtturm Campen, Krummhörn", "ll": [53.4057, 7.0156],
+      "months": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "src": ["https://de.wikipedia.org/wiki/Leuchtturm_Campen", "https://www.leinetal24.de/niedersachsen/echter-kuestenriese-das-ist-der-hoechste-leuchtturm-auf-deutschem-festland-94432316.html"]
+    }
+  ]
+}

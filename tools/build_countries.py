@@ -13,7 +13,8 @@ src = io.open(os.path.join(ROOT, "web", "regions.js"), encoding="utf-8").read()
 REG = json.loads(re.search(r"window\.REGIONS = (\{.*?\});\n", src, re.S).group(1))
 META = {"NL": {"name": "Netherlands", "label": [52.98, 6.02]}, "BE": {"name": "Belgium", "label": [50.02, 5.18]},
         "DE": {"name": "Germany", "label": [51.15, 10.3]}, "LU": {"name": "Luxembourg", "label": [49.80, 6.10]},
-        "FR": {"name": "France", "label": [46.9, 2.6]}, "DK": {"name": "Denmark", "label": [56.25, 9.2]}}
+        "FR": {"name": "France", "label": [46.9, 2.6]}, "DK": {"name": "Denmark", "label": [56.25, 9.2]},
+        "SE": {"name": "Sweden", "label": [61.2, 14.9]}}
 
 out = {}
 for cc in sorted({v["country"] for v in hubs.values()}):

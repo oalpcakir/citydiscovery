@@ -1,0 +1,522 @@
+{
+  "new": [
+    {
+      "id": "bremenrathaus", "cat": "gor", "area": "merkez",
+      "title": "Tour the UNESCO-listed Town Hall on the Marktplatz",
+      "desc": "Bremen's Town Hall was built as a Gothic hall in 1405 to 1410 and later given its showy Weser Renaissance facade in the early 1600s. Together with the Roland in front of it, it has been a UNESCO World Heritage Site since 2004. Inside, the Upper Hall still has model ships hanging from the ceiling.",
+      "tip": "The interior can only be seen on a guided tour, which runs several times a day unless the Senate is using the rooms. Book at the tourist office, as tours fill up in summer.",
+      "q": "Bremer Rathaus, Am Markt, Bremen", "ll": [53.0761, 8.8081],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Bremer_Rathaus", "https://en.wikivoyage.org/wiki/Bremen"]
+    },
+    {
+      "id": "bremenroland", "cat": "gor", "area": "merkez",
+      "title": "Measure yourself against the stone Roland",
+      "desc": "The stone knight on the Marktplatz has stood guard since 1404 as a symbol of the city's freedom and market rights. At about five and a half metres it is one of the largest Roland statues in Germany, and it shares the UNESCO listing with the Town Hall. Legend says Bremen stays free as long as Roland keeps watching.",
+      "tip": "The distance between his knees is said to be the old Bremen ell, the town's official unit of length. Look for the small crouching figure between his feet too.",
+      "q": "Bremer Roland, Marktplatz, Bremen", "ll": [53.0759, 8.8073],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Bremer_Roland", "https://en.wikivoyage.org/wiki/Bremen"]
+    },
+    {
+      "id": "stadtmusikanten", "cat": "gor", "area": "merkez",
+      "title": "Rub the donkey's legs at the Town Musicians statue",
+      "desc": "Gerhard Marcks made this bronze of the donkey, dog, cat and rooster from the Grimm fairy tale in 1953. It stands beside the west side of the Town Hall, and the donkey's front legs shine gold from all the hands that touch them.",
+      "tip": "Hold both of the donkey's legs at once and make a wish, as locals tell visitors to. Come early in the morning to get a photo without a queue.",
+      "q": "Die Bremer Stadtmusikanten, Unser Lieben Frauen Kirchhof, Bremen", "ll": [53.0762, 8.8075],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Bremer_Stadtmusikanten", "https://en.wikivoyage.org/wiki/Bremen"]
+    },
+    {
+      "id": "bremerloch", "cat": "dene", "area": "merkez",
+      "title": "Drop a coin in the Bremer Loch and hear the animals",
+      "desc": "Set into the pavement of the Marktplatz beside the parliament building is a round lid with a slot. Drop in a coin and the hole answers with the bray, bark, meow or crow of one of the Town Musicians, recorded by Radio Bremen in 2007. All the money goes to a local charity that supports small social projects.",
+      "tip": "Kids love trying a few coins to collect all four animals. It sits at the corner of the Haus der Bürgerschaft facing the cathedral.",
+      "q": "Bremer Loch, Am Markt, Bremen", "ll": [53.0757, 8.8076],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Bremer_Loch"]
+    },
+    {
+      "id": "bremendom", "cat": "gor", "area": "merkez",
+      "title": "Climb St. Petri Dom and meet the Bleikeller mummies",
+      "desc": "Bremen's cathedral has stood on this spot for over 1,200 years, and its twin towers dominate the old town. In a side building lies the Bleikeller, where eight naturally mummified bodies from the 17th and 18th centuries have been on show since 1984. They were found around 1698 by organ builder Arp Schnitger's journeymen.",
+      "tip": "Entry to the church is free; the tower climb, cathedral museum and Bleikeller charge a small fee. The Bleikeller is open only from April to October.",
+      "q": "St. Petri Dom, Am Dom, Bremen", "ll": [53.0755, 8.8091],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Bleikeller", "https://en.wikivoyage.org/wiki/Bremen"]
+    },
+    {
+      "id": "glockenspielbremen", "cat": "gor", "area": "merkez",
+      "title": "Wait for the porcelain bells of Böttcherstraße",
+      "desc": "Coffee merchant Ludwig Roselius turned this short lane into a brick Art Deco showpiece in the 1920s and 30s. Between two gables hang 30 bells of Meissen porcelain, and when they play, a tower turns to show ten carved panels of ocean crossers from Leif Eriksson and Columbus to Charles Lindbergh.",
+      "tip": "From April to December the bells ring every hour from 12:00 to 18:00; from January to March only at 12, 15 and 18. They switch off in frost, so don't wait in vain on icy days.",
+      "q": "Haus des Glockenspiels, Böttcherstraße, Bremen", "ll": [53.0749, 8.8057],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Haus_des_Glockenspiels", "https://en.wikivoyage.org/wiki/Bremen"]
+    },
+    {
+      "id": "schnoor", "cat": "gor", "area": "merkez",
+      "title": "Get lost in the tiny lanes of the Schnoor",
+      "desc": "The Schnoor is Bremen's oldest quarter, a knot of narrow alleys and small houses from the 15th to 18th centuries that once housed fishermen and boatmen. Its name comes from the old word for string, because the houses are lined up like beads on a cord.",
+      "tip": "Some lanes are barely shoulder wide. Visit after the shops close in the evening, when the lanterns come on and the day trippers are gone.",
+      "q": "Schnoor, Bremen", "ll": [53.0728, 8.8097],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Schnoor", "https://en.wikivoyage.org/wiki/Bremen"]
+    },
+    {
+      "id": "kunsthallebremen", "cat": "gor", "area": "merkez",
+      "title": "See Monet and Van Gogh at the Kunsthalle",
+      "desc": "The Kunsthalle on the old ramparts is run by a citizens' art association founded in 1823. Its collection runs from old masters to the present, with highlights such as Monet's Camille and Van Gogh's Poppy Field, whose purchase in 1911 caused a famous row among German artists.",
+      "tip": "Combine it with the Gerhard-Marcks-Haus next door, which shows the sculptor of the Town Musicians statue.",
+      "q": "Kunsthalle Bremen, Am Wall 207, Bremen", "ll": [53.0728, 8.8136],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Kunsthalle_Bremen", "https://en.wikivoyage.org/wiki/Bremen"]
+    },
+    {
+      "id": "ueberseemuseum", "cat": "gor", "area": "merkez",
+      "title": "Travel the world in the Übersee-Museum",
+      "desc": "Right next to the main station, this museum of nature, cultures and trade has been open since 1896 and fills its glass-roofed halls with collections from Asia, Africa, the Americas and Oceania. Its new Pacific exhibition, The Blue Continent, won a German Design Award in 2026.",
+      "tip": "It is the perfect rainy hour before a train. The museum is closed on Mondays.",
+      "q": "Übersee-Museum, Bahnhofsplatz 13, Bremen", "ll": [53.0833, 8.8106],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/%C3%9Cbersee-Museum_Bremen", "https://www.uebersee-museum.de/en/"]
+    },
+    {
+      "id": "fockemuseum", "cat": "gor", "area": "merkez",
+      "title": "Look the original Roland in the eye at the Focke-Museum",
+      "desc": "Bremen's state museum of art and cultural history tells the city's story from the Middle Ages to today. Among its treasures is the original stone head of the Roland, and old farmhouses and a granary stand in the surrounding park.",
+      "tip": "It is in leafy Schwachhausen, a short tram ride from the centre. Leave time for the park buildings, which many visitors miss.",
+      "q": "Focke-Museum, Schwachhauser Heerstraße 240, Bremen", "ll": [53.0925, 8.8642],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Focke-Museum", "https://en.wikivoyage.org/wiki/Bremen"]
+    },
+    {
+      "id": "hafenmuseum", "cat": "gor", "area": "merkez",
+      "title": "Explore Bremen's port history in Speicher XI",
+      "desc": "The Hafenmuseum fills part of Speicher XI, a huge brick warehouse from the early 1900s in the Überseestadt, the former port turned new quarter. It shows how Bremen dug its way to the sea and how coffee, cotton and tobacco were handled by the dockers.",
+      "tip": "Open Tuesday to Sunday from 11:00 to 18:00. Afterwards walk along the Europahafen quay, lined with restaurants and new architecture.",
+      "q": "Hafenmuseum Speicher XI, Am Speicher XI 1, Bremen", "ll": [53.0967, 8.7713],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikivoyage.org/wiki/Bremen", "https://museeninbremen.de/?p=405"]
+    },
+    {
+      "id": "rhododendronpark", "cat": "gor", "area": "merkez",
+      "title": "Walk through the Rhododendron-Park in full bloom",
+      "desc": "This park in Horn-Lehe holds one of the largest rhododendron and azalea collections in the world. At its edge, the botanika greenhouse takes you through Asian mountain landscapes where many of these plants come from.",
+      "tip": "Peak bloom is usually in May. The park itself is free; only the botanika charges admission.",
+      "q": "Rhododendron-Park, Bremen", "ll": [53.0917, 8.8861],
+      "tags": ["free"], "months": [5],
+      "src": ["https://de.wikipedia.org/wiki/Rhododendron-Park_Bremen"]
+    },
+    {
+      "id": "schlachte", "cat": "gor", "area": "merkez",
+      "title": "Stroll the Schlachte along the Weser",
+      "desc": "The Schlachte was Bremen's medieval harbour, where cargo was unloaded from river boats. Today it is a riverside promenade lined with beer gardens, old ships and the brick St. Martini church, and in Advent it hosts the Schlachte-Zauber market.",
+      "tip": "Come at sunset on a warm evening, when the terraces are full and the light falls across the river onto the Teerhof.",
+      "q": "Schlachte, Bremen", "ll": [53.0761, 8.8022],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Schlachte_(Bremen)", "https://en.wikivoyage.org/wiki/Bremen"]
+    },
+    {
+      "id": "wallanlagen", "cat": "dene", "area": "merkez",
+      "title": "Walk the zigzag moat of the Wallanlagen",
+      "desc": "When Bremen tore down its ramparts, it turned them into an English landscape park between 1802 and 1811. The park still follows the zigzag line of the old moat around the old town, and it is often called the first public park in Germany created by a citizens' parliament.",
+      "tip": "Follow the water from the Weser at the Osterdeich to the windmill near Herdentor; it is a lovely green shortcut between museums.",
+      "q": "Wallanlagen, Bremen", "ll": [53.0789, 8.8108],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Bremer_Wallanlagen"]
+    },
+    {
+      "id": "universumbremen", "cat": "dene", "area": "merkez",
+      "title": "Get hands-on at the Universum science centre",
+      "desc": "The silver building near the university, often compared to a giant whale or mussel, opened in 2000. Inside, hundreds of interactive stations let you test your senses, feel an earthquake and explore the human body, the earth and space.",
+      "tip": "Plan at least three hours. Afterwards walk to the Stadtwaldsee, about a kilometre away, for a swim or a stroll.",
+      "q": "Universum Bremen, Wiener Straße 1a, Bremen", "ll": [53.1067, 8.8450],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Universum_Bremen", "https://en.wikivoyage.org/wiki/Bremen"]
+    },
+    {
+      "id": "becksbrewery", "cat": "dene", "area": "merkez",
+      "title": "Take the Beck's brewery tour across the river",
+      "desc": "Beck's has been brewed on the Weser since the 1870s. The tour leads through the museum, the brewhouse, the malt silos and the huge fermentation tanks, and ends with a tasting of fresh beer.",
+      "tip": "Tours start at the visitor centre on Am Deich and must be booked ahead through Bremen tourism.",
+      "q": "Beck's und Haake-Beck Besucherzentrum, Am Deich 18, Bremen", "ll": [53.0782, 8.7904],
+      "src": ["https://www.bremen.eu/becks-brewery", "https://en.wikivoyage.org/wiki/Bremen"]
+    },
+    {
+      "id": "harbourcruise", "cat": "dene", "area": "merkez",
+      "title": "Cruise into the harbour from the Schlachte",
+      "desc": "Hal över's harbour cruise runs from the old town along the Schlachte and the Überseestadt into the working port, past warehouses, cranes and container ships. The round trip takes about an hour and a quarter.",
+      "tip": "Sit on the open deck for the best views of Speicher XI and the grain silos. Boats board at the Martini pier below St. Martini church.",
+      "q": "Martinianleger, Weserpromenade, Bremen", "ll": [53.0741, 8.8041],
+      "months": [4, 5, 6, 7, 8, 9, 10],
+      "src": ["https://www.hal-oever.de/media/83/4b/3c/1776505011/hal-oever-fahrplan-2026.pdf", "https://www.bremen.eu/tourism/sights/maritime-bremen/ships-on-the-weser"]
+    },
+    {
+      "id": "buergerpark", "cat": "dene", "area": "merkez",
+      "title": "Row across the lakes of the Bürgerpark",
+      "desc": "Laid out from 1866 behind the main station, the Bürgerpark is still run by a citizens' association that pays for it largely through donations. With the adjoining city forest it forms a huge green space of meadows, lakes and old trees.",
+      "tip": "Rent a rowing boat at the Emmasee and stop for cake at the Emma am See café afterwards. There is mini golf too.",
+      "q": "Emma am See, Bürgerpark, Bremen", "ll": [53.0934, 8.8260],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/B%C3%BCrgerpark_(Bremen)", "https://en.wikivoyage.org/wiki/Bremen"]
+    },
+    {
+      "id": "freimarkt", "cat": "dene", "area": "merkez",
+      "title": "Shout Ischa Freimaak at Bremen's Freimarkt",
+      "desc": "One of Germany's oldest fairs, the Freimarkt goes back to a market privilege from 1035. For 17 days every October the Bürgerweide behind the station fills with rides, beer tents and food stalls, while a smaller historic market sets up around the Town Hall.",
+      "tip": "Don't miss the big Freimarkt parade through the city on the middle Saturday. Entry to the fairground is free.",
+      "q": "Bürgerweide, Bremen", "ll": [53.0872, 8.8133],
+      "tags": ["free"], "months": [10],
+      "src": ["https://de.wikipedia.org/wiki/Bremer_Freimarkt", "https://www.festivalsindeutschland.de/festival/bremer-freimarkt"]
+    },
+    {
+      "id": "weihnachtsmarktbremen", "cat": "dene", "area": "merkez",
+      "title": "Drink mulled wine at the Christmas market and Schlachte-Zauber",
+      "desc": "From late November to 23 December, around 170 stalls fill the Marktplatz, Liebfrauenkirchhof and Domshof under the Town Hall's gables. Down by the river, the Schlachte-Zauber adds a medieval-themed market along the Weser promenade.",
+      "tip": "Try a Bremer Klaben, the local Christmas stollen, and walk down to the Schlachte after dark when the ships are lit.",
+      "q": "Domshof, Bremen", "ll": [53.0764, 8.8095],
+      "tags": ["free"], "months": [11, 12],
+      "src": ["https://de.wikipedia.org/wiki/Bremer_Weihnachtsmarkt", "https://www.festivalsindeutschland.de/festival/schlachte-zauber-bremen"]
+    },
+    {
+      "id": "weserstadion", "cat": "dene", "area": "merkez",
+      "title": "Feel the Werder spirit at the Weserstadion",
+      "desc": "Werder Bremen's riverside stadium sits right on the Weser in the Peterswerder district. The club museum, the Wuseum, tells Werder's story from its founding in 1899, and guided tours take you into the dressing rooms and players' tunnel.",
+      "tip": "Walk there along the Osterdeich from the Viertel, as fans do on match days. Stadium tours need booking ahead.",
+      "q": "Weserstadion, Franz-Böhmert-Straße, Bremen", "ll": [53.0664, 8.8377],
+      "src": ["https://de.wikipedia.org/wiki/Weserstadion", "https://www.bremen.eu/wuseum"]
+    },
+    {
+      "id": "viertelbremen", "cat": "dene", "area": "merkez",
+      "title": "Bar-hop through Das Viertel",
+      "desc": "Ostertorsteinweg and Vor dem Steintor form the Viertel, Bremen's alternative heart, with old townhouses, small cinemas, bars, vintage shops and student cafés. The Theater am Goetheplatz and the Kunsthalle are just around the corner.",
+      "tip": "Start on Ostertorsteinweg in the early evening and work your way east; the Sielwall crossing is the hub of Bremen nightlife.",
+      "q": "Ostertorsteinweg, Bremen", "ll": [53.0728, 8.8231],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Ostertorsteinweg", "https://en.wikivoyage.org/wiki/Bremen"]
+    },
+    {
+      "id": "ratskeller", "cat": "ye", "area": "merkez",
+      "title": "Taste German wine in the 600-year-old Ratskeller",
+      "desc": "Wine has been served in the cellar under the Town Hall since 1405. The Ratskeller offers around 650 wines, all of them German, and in its Rosekeller rests a Rüdesheimer from 1653 that only the cellar master and the mayor may taste.",
+      "tip": "Ask to peek into the vaulted side cellars with their giant painted casks. Wilhelm Hauff wrote a novella about a night spent down here.",
+      "q": "Bremer Ratskeller, Am Markt, Bremen", "ll": [53.0761, 8.8074],
+      "src": ["https://de.wikipedia.org/wiki/Bremer_Ratskeller", "https://en.wikivoyage.org/wiki/Bremen"]
+    },
+    {
+      "id": "schuettinger", "cat": "ye", "area": "merkez",
+      "title": "Order house beer and Knipp at Schüttinger",
+      "desc": "Opened in 1990 just off Böttcherstraße, Schüttinger was Bremen's first modern brewpub, and the copper kettles still brew unfiltered beer in the room. The kitchen serves northern classics like Knipp, a fried oat and pork sausage, and Labskaus.",
+      "tip": "Ask for the Elbe-Weser platter if you want to try several local dishes at once.",
+      "q": "Schüttinger Gasthausbrauerei, Hinter dem Schütting 12, Bremen", "ll": [53.0749, 8.8066],
+      "src": ["https://bremen-city.de/en/cityguide/schuettinger-gasthausbrauerei", "https://en.wikivoyage.org/wiki/Bremen"]
+    },
+    {
+      "id": "kniggecafe", "cat": "ye", "area": "merkez",
+      "title": "Have coffee and cake at Konditorei Knigge",
+      "desc": "This family confectioner has been in business since 1889 and is now run by the fourth generation. It is a classic Bremen coffee house in a city that grew rich on the coffee trade, known for its cakes, pralines and breakfasts.",
+      "tip": "The Sögestraße door is for takeaway; for a table, use the café entrance on Carl-Ronning-Straße.",
+      "q": "Konditorei Knigge, Sögestraße 42, Bremen", "ll": [53.0779, 8.8077],
+      "src": ["https://www.bremen-city.de/en/cityguide/konditorei-cafe-knigge", "https://en.wikivoyage.org/wiki/Bremen"]
+    },
+    {
+      "id": "bremerkluten", "cat": "ye", "area": "merkez",
+      "title": "Bite into Bremer Kluten in the Schnoor",
+      "desc": "Bremer Kluten are sticks of peppermint fondant dipped in dark chocolate, a sweet the city has made for generations. The Konditorei Café im Schnoor sells them alongside other local treats such as Babbeler candy sticks and Klaben fruit loaf.",
+      "tip": "Kluten travel well, so buy a box as an edible souvenir rather than a fridge magnet.",
+      "q": "Konditorei Café im Schnoor, Marterburg 32, Bremen", "ll": [53.0724, 8.8102],
+      "src": ["https://bremen-city.de/en/cityguide/konditorei-cafe-im-schnoor", "https://bremen.eu/souvenir-shopping"]
+    },
+    {
+      "id": "teestuebchen", "cat": "ye", "area": "merkez",
+      "title": "Take afternoon tea in the Teestübchen im Schnoor",
+      "desc": "Tea runs deep in northern Germany, and this little tea room fills a 17th-century house in the heart of the Schnoor. It serves loose-leaf teas with homemade cakes and scones.",
+      "tip": "Order the East Frisian way: rock candy in the cup, tea poured over, a spoon of cream on top, and don't stir. It is closed on Tuesdays.",
+      "q": "Teestübchen, Wüstestätte 1, Bremen", "ll": [53.0725, 8.8096],
+      "src": ["https://wfb-bremen.de/en/page/bremen-invest/tea-traditions", "https://unique-atlantic.de/en/hotel-bremen/explore/cafes"]
+    },
+    {
+      "id": "kohlundpinkel", "cat": "ye", "area": "merkez",
+      "title": "Eat Kohl und Pinkel at the Kleiner Olymp",
+      "desc": "Kale with Pinkel, a smoky grain sausage, is Bremen's winter ritual, eaten after a Kohlfahrt walk from October to February. The Kleiner Olymp, an old inn spread over three floors at the edge of the Schnoor, serves it alongside other hearty dishes like Speckscholle.",
+      "tip": "Locals say the kale is only good after the first frost. Book at weekends in season, when Kohlfahrt groups pack the rooms.",
+      "q": "Kleiner Olymp, Hinter der Holzpforte 20, Bremen", "ll": [53.0723, 8.8094],
+      "months": [10, 11, 12, 1, 2],
+      "src": ["https://www.schlemmer-atlas.de/restaurants/deutschland/bremen/kleiner-olymp/", "https://bremen.eu/life-in-bremen/bremen-cuisine"]
+    },
+    {
+      "id": "pannekoekschip", "cat": "ye", "area": "merkez",
+      "title": "Eat pancakes on a frigate at the Schlachte",
+      "desc": "The Admiral Nelson, a replica frigate moored at the Schlachte since 2001, is a Dutch-style pancake restaurant. Savoury and sweet pancakes come out of the galley below deck while the Weser flows past the portholes.",
+      "tip": "It is a hit with children, so book ahead for weekend lunch.",
+      "q": "Pannekoekschip Admiral Nelson, Schlachte, Bremen", "ll": [53.0752, 8.8028],
+      "src": ["https://bremen-city.de/en/cityguide/pannekoekschip-admiral-nelson", "https://bremen.eu/tourism/sights/maritime-bremen/ships-on-the-weser"]
+    },
+    {
+      "id": "cafesand", "cat": "ye", "area": "merkez",
+      "title": "Take the little ferry to Café Sand on the river beach",
+      "desc": "Café Sand sits on a sandy Weser beach on the Stadtwerder, facing the old town across the water. It serves down-to-earth food like currywurst and schnitzel all year, plus seasonal dishes such as Kohl und Pinkel.",
+      "tip": "Cross on the Sielwall ferry from the Osterdeich, Bremen's shortest boat ride, which runs daily from March to October.",
+      "q": "Café Sand, Strandweg 106, Bremen", "ll": [53.0670, 8.8216],
+      "src": ["https://www.hal-oever.de/en/Sielwall-Ferry", "https://www.bremen.eu/tourism/sights/maritime-bremen/weser-ferries"]
+    },
+    {
+      "id": "muehleamwall", "cat": "ye", "area": "merkez",
+      "title": "Eat Labskaus inside the windmill on the ramparts",
+      "desc": "The Herdentorswallmühle, a Dutch-style gallery windmill from 1833, ground grain until 1947 and still turns its sails over the Wallanlagen. Its lower floors now house a café-restaurant serving Bremen dishes such as Labskaus and Knipp.",
+      "tip": "Locals call it the Kaffeemühle, the coffee grinder. Grab a terrace table by the moat on a sunny day.",
+      "q": "Mühle am Wall, Am Wall 212, Bremen", "ll": [53.0802, 8.8069],
+      "src": ["https://de.wikipedia.org/wiki/Herdentorswallm%C3%BChle", "https://bremen.eu/tourism/sights/the-mill-in-the-wallanlagen"]
+    },
+    {
+      "id": "kuhsiel", "cat": "ye", "area": "merkez",
+      "title": "Cycle out to Landhaus Kuhsiel on the Wümme dike",
+      "desc": "The Blockland is a flat green farm landscape inside the city limits, crossed by dikes and ditches. Landhaus Kuhsiel sits right on the Wümmedeich and serves regional cooking to cyclists on one of the few stops along the river path.",
+      "tip": "Rent a bike in the city and ride out past the Universum and the Unisee; the round trip is an easy flat afternoon.",
+      "q": "Landhaus Kuhsiel, Oberblockland 2, Bremen", "ll": [53.1302, 8.8642],
+      "src": ["https://bremen.eu/life-in-bremen/parks-in-bremen/the-wuemmedeich", "https://en.wikivoyage.org/wiki/Bremen"]
+    },
+    {
+      "id": "auswandererhaus", "cat": "gor", "area": "cevre",
+      "title": "Follow an emigrant's journey at the Deutsches Auswandererhaus",
+      "desc": "From the 1830s on, Bremerhaven was continental Europe's biggest emigration port, and this museum on the very quay tells the story. With a boarding pass you follow a real person from the crowded pier through the ship decks to Ellis Island. It was named European Museum of the Year in 2007.",
+      "tip": "Allow at least three hours. The museum also has a family research centre if your own ancestors left from here.",
+      "q": "Deutsches Auswandererhaus, Columbusstraße 65, Bremerhaven", "ll": [53.5453, 8.5742],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Deutsches_Auswandererhaus", "https://en.wikipedia.org/wiki/German_Emigration_Center"]
+    },
+    {
+      "id": "bremerkogge", "cat": "gor", "area": "cevre",
+      "title": "Stand beside the Bremen Cog at the Maritime Museum",
+      "desc": "The Deutsches Schifffahrtsmuseum's star is the Bremen Cog, a Hanseatic merchant ship from around 1380 found in the Weser mud in 1962. It is the best-preserved cog in the world and has its own hall.",
+      "tip": "From March to early November the museum is open daily; in winter it closes on Mondays and Tuesdays. The museum ships in the harbour outside can only be boarded in summer.",
+      "q": "Deutsches Schifffahrtsmuseum, Hans-Scharoun-Platz 1, Bremerhaven", "ll": [53.5401, 8.5770],
+      "tags": ["rainy day"],
+      "src": ["https://www.dsm.museum/en/information", "https://en.wikipedia.org/wiki/German_Maritime_Museum"]
+    },
+    {
+      "id": "klimahaus", "cat": "dene", "area": "cevre",
+      "title": "Travel around the world along 8 degrees east in the Klimahaus",
+      "desc": "Opened in 2009, the Klimahaus sends you on a journey along the longitude of Bremerhaven, through the real climates of places like the Swiss Alps, Niger, Cameroon, Antarctica, Samoa and Alaska. You feel the heat, cold and humidity of each stop.",
+      "tip": "Dress in layers: you go from desert heat to icy cold within minutes. Arrive early on rainy weekends, when it gets very busy.",
+      "q": "Klimahaus Bremerhaven 8° Ost, Am Längengrad 8, Bremerhaven", "ll": [53.5434, 8.5744],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Klimahaus_Bremerhaven_8%C2%B0_Ost", "https://de.wikivoyage.org/wiki/Bremerhaven"]
+    },
+    {
+      "id": "zooammeer", "cat": "dene", "area": "cevre",
+      "title": "Watch polar bears swim at the Zoo am Meer",
+      "desc": "This compact zoo sits right on the Weser dike and specialises in northern and water animals such as polar bears, seals, gannets and Humboldt penguins. It began in 1928 as the Tiergrotten and reopened after a full rebuild in 2004.",
+      "tip": "Head for the underwater windows, where you can watch the polar bears dive at eye level.",
+      "q": "Zoo am Meer, Bremerhaven", "ll": [53.5447, 8.5703],
+      "src": ["https://de.wikipedia.org/wiki/Zoo_am_Meer", "https://de.wikivoyage.org/wiki/Bremerhaven"]
+    },
+    {
+      "id": "sailcity", "cat": "dene", "area": "cevre",
+      "title": "Ride up the Sail City tower for a view over the Havenwelten",
+      "desc": "The sail-shaped Atlantic Hotel Sail City is Bremerhaven's landmark, and its viewing deck on the 20th and 21st floors sits about 86 metres up. From there you look over the old and new harbours, the Weser and the container terminal.",
+      "tip": "The deck is open year-round for a small fee. Go on a clear late afternoon to see huge container ships heading out to sea.",
+      "q": "Atlantic Hotel Sail City, Am Strom 1, Bremerhaven", "ll": [53.5429, 8.5737],
+      "src": ["https://de.wikivoyage.org/wiki/Bremerhaven", "https://de.wikipedia.org/wiki/Atlantic_Hotel_Sail_City"]
+    },
+    {
+      "id": "natusch", "cat": "ye", "area": "cevre",
+      "title": "Dine on fresh North Sea fish at Natusch",
+      "desc": "Natusch has been serving fish on the quay of Bremerhaven's fishing port for around 70 years. The maritime dining rooms are known for classic fish dishes and an original Labskaus.",
+      "tip": "It is the special-occasion choice in the fishing port; book ahead for dinner.",
+      "q": "Natusch, Am Fischbahnhof 1, Bremerhaven", "ll": [53.5217, 8.5807],
+      "src": ["https://www.schlemmer-atlas.de/restaurants/deutschland/bremerhaven/natusch-fischereihafen-restaurant/"]
+    },
+    {
+      "id": "frankesmokehouse", "cat": "ye", "area": "cevre",
+      "title": "Buy smoked fish from the old ovens in the Fischereihafen",
+      "desc": "The Schaufenster Fischereihafen turned old fish-packing halls into a strip of restaurants and shops. Fischräucherei Franke still smokes fish the traditional way in coal-fired ovens, and Fischbrötchen are sold at counters all along the quay.",
+      "tip": "Buy warm smoked mackerel or eel and eat it on a bench by the water.",
+      "q": "Fischräucherei Franke, Am Pumpwerk 2, Bremerhaven", "ll": [53.5214, 8.5874],
+      "src": ["https://bremerhaven.de/en/tourism/architecture-monuments/city-history/fishery-harbors/shop-window-fishery-harbor.59240.html", "https://de.wikivoyage.org/wiki/Bremerhaven"]
+    },
+    {
+      "id": "kugelbake", "cat": "gor", "area": "cevre",
+      "title": "Stand where the Elbe meets the North Sea at the Kugelbake",
+      "desc": "This 28-metre wooden beacon marks the official point where the Elbe ends and the North Sea begins, close to the northernmost tip of Lower Saxony. A first beacon stood here from around 1703, and it has been on Cuxhaven's coat of arms since 1913.",
+      "tip": "Walk out along the dike at sunset, when the beacon turns into a silhouette against the sea and ships slide past.",
+      "q": "Kugelbake, Cuxhaven", "ll": [53.8918, 8.6872],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Kugelbake", "https://de.wikivoyage.org/wiki/Cuxhaven"]
+    },
+    {
+      "id": "alteliebe", "cat": "gor", "area": "cevre",
+      "title": "Watch the giants of the Elbe from the Alte Liebe",
+      "desc": "The Alte Liebe was first built in 1733 by sinking three old ships to protect the harbour, and since 1982 it has been a two-level viewing platform. Huge container ships pass close by on their way to and from Hamburg.",
+      "tip": "From April to October, volunteers announce each passing ship over loudspeakers from 10:00 to 19:00, with its name, size and home port.",
+      "q": "Alte Liebe, Cuxhaven", "ll": [53.8727, 8.7107],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Alte_Liebe_(Cuxhaven)", "https://de.wikivoyage.org/wiki/Cuxhaven"]
+    },
+    {
+      "id": "ritzebuettel", "cat": "gor", "area": "cevre",
+      "title": "Explore Schloss Ritzebüttel, Hamburg's outpost by the sea",
+      "desc": "The brick tower at the core of this small castle dates from around 1340. For over 500 years after 1394 it housed the governors Hamburg sent to rule Cuxhaven, which only became part of Prussia in 1937. The moated park around it has a Swiss-style teahouse from 1847.",
+      "tip": "The castle is in the town centre, a short walk from the Nordersteinstraße shops, and makes a calm break from the beach.",
+      "q": "Schloss Ritzebüttel, Cuxhaven", "ll": [53.8571, 8.6984],
+      "src": ["https://de.wikipedia.org/wiki/Schloss_Ritzeb%C3%BCttel", "https://de.wikivoyage.org/wiki/Cuxhaven"]
+    },
+    {
+      "id": "wattwagen", "cat": "dene", "area": "cevre",
+      "title": "Ride a horse-drawn Wattwagen across the seabed to Neuwerk",
+      "desc": "At low tide, horse-drawn carts roll from Cuxhaven across the mudflats of the Wadden Sea National Park to the island of Neuwerk, about ten kilometres out. The trip takes around four hours with a short stay on the island.",
+      "tip": "Departure times follow the tides, so book with an operator in Duhnen or Sahlenburg a day or two ahead. Bring a windproof jacket, even in summer.",
+      "q": "Sahlenburger Strand, Cuxhaven", "ll": [53.8612, 8.5913],
+      "months": [4, 5, 6, 7, 8, 9, 10],
+      "src": ["https://www.hamburg-travel.com/see-explore/maritime-hamburg/wattwagenfahrt-nach-neuwerk/?L=0", "https://de.wikivoyage.org/wiki/Neuwerk"]
+    },
+    {
+      "id": "duhnenstrand", "cat": "dene", "area": "cevre",
+      "title": "Rent a beach chair on Duhnen's sandy beach",
+      "desc": "Cuxhaven's sandy beach stretches about four kilometres from the Kugelbake to Duhnen, lined with the region's classic wicker beach chairs. The tide here pulls far out, so swimming is only possible around high tide.",
+      "tip": "Check the tide table before you go: the best swimming window is an hour either side of high water.",
+      "q": "Duhnen Strand, Cuxhaven", "ll": [53.8874, 8.6454],
+      "tags": ["free"], "months": [5, 6, 7, 8, 9],
+      "src": ["https://de.wikivoyage.org/wiki/Cuxhaven"]
+    },
+    {
+      "id": "cuxfischereihafen", "cat": "ye", "area": "cevre",
+      "title": "Eat fish in the Fischereihafen Restaurant in Cuxhaven",
+      "desc": "Near the old fishing port and marina, this long-established seafood restaurant has maritime rooms lit by Tiffany glass and a sheltered terrace. The menu leans on fresh North Sea fish and crab soup.",
+      "tip": "It is closed on Tuesdays; reserve in high season.",
+      "q": "Fischereihafen Restaurant, Neufelder Straße 11, Cuxhaven", "ll": [53.8616, 8.7067],
+      "src": ["https://de.wikivoyage.org/wiki/Cuxhaven", "https://freizeitmonster.de/gastronomie/restaurants/fischereihafen-restaurant-und-lloyds-263337"]
+    },
+    {
+      "id": "otterndorf", "cat": "gor", "area": "cevre",
+      "title": "Wander Otterndorf's old town to the Kranichhaus",
+      "desc": "Otterndorf is a small Elbe town of half-timbered houses, many with brick patterns called witches' brooms meant to keep evil away. The Kranichhaus, with a Baroque crane gable from 1764, holds the museum of the old Land Hadeln.",
+      "tip": "Come on a Friday morning for the market in front of St. Severi church, whose 1740s organ is one of the finest Baroque organs in the region.",
+      "q": "Kranichhaus, Reichenstraße 3, Otterndorf", "ll": [53.8077, 8.9011],
+      "src": ["https://de.wikipedia.org/wiki/Otterndorf"]
+    },
+    {
+      "id": "barkenhoff", "cat": "gor", "area": "cevre",
+      "title": "Visit Heinrich Vogeler's dreamy Barkenhoff",
+      "desc": "Painter Heinrich Vogeler bought this farmhouse in Worpswede in 1895 and turned it into an Art Nouveau home where Rainer Maria Rilke and Paula Modersohn-Becker were guests. After the First World War it became a commune. Today it is the Heinrich Vogeler Museum.",
+      "tip": "Open daily from 10:00 to 18:00. Buy the combined ticket for Worpswede's museums if you plan to see more than two.",
+      "q": "Barkenhoff, Ostendorfer Straße 10, Worpswede", "ll": [53.2157, 8.9317],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Barkenhoff", "https://de.wikivoyage.org/wiki/Worpswede"]
+    },
+    {
+      "id": "grossekunstschau", "cat": "gor", "area": "cevre",
+      "title": "See the first Worpswede painters in the Große Kunstschau",
+      "desc": "Bernhard Hoetger built this expressionist brick exhibition hall with its domed rotunda in 1927. It shows the first generation of Worpswede artists, including Paula Modersohn-Becker, Otto Modersohn and Fritz Mackensen, plus Hoetger's own work.",
+      "tip": "Kaffee Worpswede, Hoetger's quirky café, is right next door for a break.",
+      "q": "Große Kunstschau, Lindenallee 5, Worpswede", "ll": [53.2197, 8.9282],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Gro%C3%9Fe_Kunstschau_Worpswede", "https://de.wikivoyage.org/wiki/Worpswede"]
+    },
+    {
+      "id": "niedersachsenstein", "cat": "gor", "area": "cevre",
+      "title": "Find Hoetger's Niedersachsenstein on the Weyerberg",
+      "desc": "On the slope of the Weyerberg, Worpswede's 54-metre sand hill, stands an 18-metre brick monument by Bernhard Hoetger, finished in 1922 for the region's fallen of the First World War. Its expressionist form looks like a giant bird rising from the trees.",
+      "tip": "Climb on to the top of the Weyerberg for the wide view over the Teufelsmoor; the walk from the village takes about 20 minutes.",
+      "q": "Niedersachsenstein, Am Thiergarten, Worpswede", "ll": [53.2141, 8.9198],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Niedersachsenstein", "https://de.wikivoyage.org/wiki/Worpswede"]
+    },
+    {
+      "id": "kaffeeworpswede", "cat": "ye", "area": "cevre",
+      "title": "Have cake in Kaffee Worpswede, the crooked café",
+      "desc": "Bernhard Hoetger designed this café next to the Große Kunstschau in the 1920s, and it has served coffee ever since. Locals call it Kaffee Verrückt, the crazy café, because you will struggle to find a right angle anywhere inside.",
+      "tip": "Ask for a table in the main room to see the twisted beams and windows up close.",
+      "q": "Kaffee Worpswede, Worpswede", "ll": [53.2202, 8.9282],
+      "src": ["https://de.wikipedia.org/wiki/Kaffee_Worpswede", "https://maps.adac.de/poi/kaffee-worpswede-worpswede"]
+    },
+    {
+      "id": "worpswedebahnhof", "cat": "ye", "area": "cevre",
+      "title": "Lunch in Heinrich Vogeler's railway station",
+      "desc": "Worpswede's little station was designed by Heinrich Vogeler in 1910, down to its colours and details. Today it houses a restaurant, café and summer garden serving modern German cooking.",
+      "tip": "On summer weekends the historic Moorexpress train stops here, so you can arrive the old-fashioned way.",
+      "q": "Restaurant Worpsweder Bahnhof, Bahnhofstraße 17, Worpswede", "ll": [53.2265, 8.9156],
+      "src": ["https://de.wikivoyage.org/wiki/Worpswede", "https://web.destination.one/en/gastro/restaurant-worpsweder-bahnhof"]
+    },
+    {
+      "id": "torfkahn", "cat": "dene", "area": "cevre",
+      "title": "Glide down the Hamme on a peat barge",
+      "desc": "For almost two centuries, black oak barges with brown sails were the only way to move peat out of the Teufelsmoor to Bremen. Replicas now carry up to 20 passengers along the Hamme from the Hammehafen at Neu Helgoland near Worpswede.",
+      "tip": "Trips run from May to October and must be booked ahead; the sunrise and evening runs are the most atmospheric.",
+      "q": "Hammehafen, Hammeweg, Worpswede", "ll": [53.2269, 8.8884],
+      "months": [5, 6, 7, 8, 9, 10],
+      "src": ["https://www.niedersachsen-tourism.com/poi/worpsweder-torfschifffahrt", "https://de.wikivoyage.org/wiki/Worpswede"]
+    },
+    {
+      "id": "tietjenshuette", "cat": "ye", "area": "cevre",
+      "title": "Eat by the river at Tietjens Hütte",
+      "desc": "This old inn on the Hamme near Osterholz-Scharmbeck dates from the days of the peat boatmen, and its rustic Moordiele room still recalls them. The big summer terrace looks straight onto the river, and the kitchen serves seasonal regional dishes.",
+      "tip": "It is open Wednesday to Sunday. Arrive by bike along the Hamme or by peat barge for the full Teufelsmoor experience.",
+      "q": "Tietjens Hütte, Osterholz-Scharmbeck", "ll": [53.2042, 8.8191],
+      "src": ["https://web.destination.one/en/gastro/restaurant-tietjens-huette", "https://de.wikivoyage.org/wiki/Worpswede"]
+    },
+    {
+      "id": "modersohnmuseum", "cat": "gor", "area": "cevre",
+      "title": "See Fischerhude through Otto Modersohn's eyes",
+      "desc": "Fischerhude is a thatched village spread over the arms of the Wümme, and painter Otto Modersohn settled here in 1908. The museum dedicated to him stands in the meadows he painted for decades, at the end of the lane In der Bredenau.",
+      "tip": "Open daily from 10:00 to 18:00. In winter and spring the flooded Wümme meadows around the museum look just like his paintings.",
+      "q": "Otto-Modersohn-Museum, In der Bredenau 95, Ottersberg", "ll": [53.1129, 9.0833],
+      "tags": ["rainy day"],
+      "src": ["https://www.otto-modersohn-museum.de/visit", "https://en.wikipedia.org/wiki/Fischerhude"]
+    },
+    {
+      "id": "rilkehauscafe", "cat": "ye", "area": "cevre",
+      "title": "Take tea in the Rilke-Haus in Fischerhude",
+      "desc": "This café occupies the former home and studio of sculptor Clara Rilke-Westhoff, Rainer Maria Rilke's wife. Much of the house has been kept in its original state, and the garden looks towards the river.",
+      "tip": "It is on the way to the Otto Modersohn Museum, so stop here after your visit for apple or nut cake.",
+      "q": "Café im Rilke-Haus, In der Bredenau 81, Ottersberg", "ll": [53.1137, 9.0773],
+      "src": ["https://bremen-sehenswert.de/english/fischerhude2.htm", "https://www.leinetal24.de/niedersachsen/von-experten-gekuert-die-besten-cafe-in-niedersachsen-und-bremen-2025-93564873.html"]
+    },
+    {
+      "id": "verdendom", "cat": "gor", "area": "cevre",
+      "title": "Step into Verden's Gothic cathedral",
+      "desc": "A bishop's church stood in Verden from the 9th century. The present Gothic hall church was begun in 1290 and finished around 1490, and its choir with an ambulatory of equal height is considered the earliest of its kind in German architecture. Look for the carved oak clergy seat from around 1323.",
+      "tip": "Outside, search the wall for the stone figure of a sexton stuck in the masonry, a local favourite.",
+      "q": "Dom zu Verden, Verden (Aller)", "ll": [52.9170, 9.2289],
+      "tags": ["free", "rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Verdener_Dom"]
+    },
+    {
+      "id": "pferdemuseum", "cat": "dene", "area": "cevre",
+      "title": "Get to know horses at the Deutsches Pferdemuseum",
+      "desc": "Verden calls itself the horse town, and this is Germany's oldest horse museum. Since 2000 it has filled a former cavalry barracks with 1,400 square metres on the history and uses of horses, from saddles to the story of Clever Hans.",
+      "tip": "Closed on Mondays. Check Verden's event calendar, as the town hosts big Hanoverian horse auctions and shows through the year.",
+      "q": "Deutsches Pferdemuseum, Verden (Aller)", "ll": [52.9227, 9.2349],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Deutsches_Pferdemuseum", "https://www.niedersachsen-tourism.com/poi/deutsches-pferdemuseum"]
+    },
+    {
+      "id": "nordwolle", "cat": "gor", "area": "cevre",
+      "title": "Walk through the wool mill that shook Germany's banks",
+      "desc": "The Nordwolle wool combing mill in Delmenhorst, founded in 1884, once employed up to 4,500 people. Its spectacular collapse in 1931 triggered the German banking crisis. Since 1996 the Nordwestdeutsches Museum für IndustrieKultur has filled the old turbine house, nicknamed the cathedral of labour.",
+      "tip": "Walk around the whole brick factory site afterwards: the mill buildings, workers' houses and water tower make up a rare intact industrial town.",
+      "q": "Fabrikmuseum Nordwolle, Delmenhorst", "ll": [53.0546, 8.6391],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Nordwolle"]
+    },
+    {
+      "id": "duemmer", "cat": "dene", "area": "cevre",
+      "title": "Cycle the 27-kilometre loop around the Dümmer",
+      "desc": "The Dümmer is Lower Saxony's second-largest lake but at most 1.4 metres deep, a shallow remnant of the last ice age. Sailors love it, and its reeds form an EU bird reserve. The Dümmer-Rund-Tour circles the whole lake for walkers and cyclists.",
+      "tip": "Start in Lembruch, where the Dümmer-Museum explains the lake's Stone Age settlers and wildlife. Bring binoculars for the wet meadows on the eastern shore.",
+      "q": "Dümmer-Museum, Lembruch", "ll": [52.5211, 8.3636],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/D%C3%BCmmer"]
+    },
+    {
+      "id": "tisterbauernmoor", "cat": "dene", "area": "cevre",
+      "title": "Watch thousands of cranes rest in the Tister Bauernmoor",
+      "desc": "This raised bog near Tiste in the Rotenburg district is one of the region's largest nature reserves. In late autumn several thousand cranes stop here on their way south, and an observation tower in the middle gives a view over the moor.",
+      "tip": "Go at dusk in October or November, when the cranes fly in to roost with loud trumpeting calls. The little Moorbahn railway runs crane-watching trips in season.",
+      "q": "Tister Bauernmoor, Tiste", "ll": [53.2674, 9.5792],
+      "tags": ["free"], "months": [10, 11],
+      "src": ["https://en.wikipedia.org/wiki/Tiste_Bauernmoor", "https://www.niedersachsen-tourism.com/poi/tister-bauernmoor-nature-reserve"]
+    }
+  ]
+}

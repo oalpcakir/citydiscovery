@@ -171,7 +171,7 @@
   var $sheet = document.getElementById("sheet");
   var $backdrop = document.getElementById("sheet-backdrop");
   var $toast = document.getElementById("toast");
-  var CC = { Netherlands: "nl", Belgium: "be", Germany: "de", Luxembourg: "lu", France: "fr", Denmark: "dk" };
+  var CC = { Netherlands: "nl", Belgium: "be", Germany: "de", Luxembourg: "lu", France: "fr", Denmark: "dk", Sweden: "se" };
 
   function ring(pct, big) {
     var C = 2 * Math.PI * 26;
@@ -396,7 +396,7 @@
     clearTimeout(placeTimer);
     if (q.length < 2 || placeCache[q] !== undefined) return;
     placeTimer = setTimeout(function () {
-      var url = "https://photon.komoot.io/api/?limit=6&lang=en&bbox=-5.5,41.2,15.6,57.9&q=" + encodeURIComponent(raw.trim());
+      var url = "https://photon.komoot.io/api/?limit=6&lang=en&bbox=-5.5,41.2,24.5,69.2&q=" + encodeURIComponent(raw.trim());
       fetch(url).then(function (r) { return r.json(); }).then(function (d) {
         var seen = {};
         placeCache[q] = (d.features || []).map(function (f) {

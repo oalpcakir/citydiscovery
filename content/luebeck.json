@@ -1,0 +1,526 @@
+{
+  "new": [
+    {
+      "id": "holstentor", "cat": "gor", "area": "merkez",
+      "title": "Walk through the leaning Holstentor",
+      "desc": "Lübeck's landmark gate was finished in 1478 and is one of only two city gates left from the old fortifications. Its twin towers have visibly sunk into the soft ground, and inside a museum tells the story of the city's Hanseatic trade.",
+      "tip": "Read the gold inscription Concordia domi foris pax on the field side, then cross the bridge for the classic photo with the Salzspeicher behind you.",
+      "q": "Holstentor, Lübeck", "ll": [53.8663, 10.6796],
+      "src": ["https://de.wikipedia.org/wiki/Holstentor"]
+    },
+    {
+      "id": "salzspeicher", "cat": "gor", "area": "merkez",
+      "title": "Find Count Orlok's house at the Salzspeicher",
+      "desc": "Six brick warehouses from the 16th to 18th centuries line the Upper Trave beside the Holstentor. They once stored salt from Lüneburg, shipped across the Baltic and the backbone of Lübeck's wealth, and part of the row played the vampire's home in the 1922 film Nosferatu.",
+      "tip": "The best view is from across the Trave on the Holstentor side, especially in late afternoon light when the gables glow red.",
+      "q": "Salzspeicher, Lübeck", "ll": [53.8659, 10.6802],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Salzspeicher"]
+    },
+    {
+      "id": "marienkirche", "cat": "gor", "area": "merkez",
+      "title": "Meet the devil and the fallen bells of St. Mary's",
+      "desc": "Built between 1265 and 1352, St. Marien has the tallest brick vault in the world at 38.5 metres and became the model for some 70 Baltic churches. The bells that crashed down in the 1942 air raid still lie shattered on the floor of the south tower.",
+      "tip": "Outside the main door sits a small bronze devil from local legend; rubbing his horns is said to bring luck. Inside, look for the astronomical clock rebuilt after the war.",
+      "q": "St. Marien, Lübeck", "ll": [53.8677, 10.6850],
+      "tags": ["rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/St._Mary%27s_Church,_L%C3%BCbeck"]
+    },
+    {
+      "id": "rathaus", "cat": "gor", "area": "merkez",
+      "title": "Tour the Rathaus, a Brick Gothic town hall",
+      "desc": "Lübeck's town hall is one of the best known buildings of Brick Gothic and one of the largest medieval town halls in Germany. Its black glazed bricks, wind holes in the show walls and Renaissance staircase on Breite Straße tell of centuries of Hanseatic pride.",
+      "tip": "Join a guided tour to see the council rooms inside, then walk through the arcades to the market square.",
+      "q": "Rathaus Lübeck, Markt", "ll": [53.8670, 10.6855],
+      "src": ["https://de.wikipedia.org/wiki/L%C3%BCbecker_Rathaus"]
+    },
+    {
+      "id": "grasshaus", "cat": "gor", "area": "merkez",
+      "title": "See the drawings of Günter Grass",
+      "desc": "Opened in 2002, the Günter Grass-Haus shows the Nobel laureate as a writer, graphic artist and sculptor, who spent his later years near Lübeck. Manuscripts, etchings and bronzes sit side by side with his famous tin drum.",
+      "tip": "Leave time for the small sculpture garden behind the house, a quiet corner in the middle of the old town.",
+      "q": "Günter Grass-Haus, Glockengießerstraße, Lübeck", "ll": [53.8694, 10.6900],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/G%C3%BCnter-Grass-Haus"]
+    },
+    {
+      "id": "willybrandthaus", "cat": "gor", "area": "merkez",
+      "title": "Follow Willy Brandt's life at his memorial house",
+      "desc": "Willy Brandt was born in Lübeck in 1913 and went on to become Chancellor and win the Nobel Peace Prize. The memorial house on Königstraße traces his life from exile to the Ostpolitik with films, photos and documents.",
+      "tip": "Admission is free, and the multimedia exhibition fits neatly between the Grass-Haus and the Katharinen quarter just steps away.",
+      "q": "Willy-Brandt-Haus, Königstraße, Lübeck", "ll": [53.8697, 10.6894],
+      "tags": ["free", "rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Willy-Brandt-Haus_L%C3%BCbeck"]
+    },
+    {
+      "id": "hansemuseum", "cat": "gor", "area": "merkez",
+      "title": "Time travel through the Hanseatic League",
+      "desc": "The European Hansemuseum opened in 2015 and tells the story of the Hanseatic League through life-size scenes, from the trading posts of Novgorod and Bruges to the Lübeck council. It shares its site with the medieval Burgkloster, a former Dominican friary.",
+      "tip": "Allow at least two hours; your ticket card lets you pick a theme to follow through the rooms. The café terrace looks over the Trave.",
+      "q": "Europäisches Hansemuseum, An der Untertrave, Lübeck", "ll": [53.8739, 10.6895],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Europ%C3%A4isches_Hansemuseum"]
+    },
+    {
+      "id": "heiligengeist", "cat": "gor", "area": "merkez",
+      "title": "Peek into the tiny cabins of Heiligen-Geist-Hospital",
+      "desc": "Completed in 1286, this hospital on the Koberg is one of the oldest social institutions in the world. In the long hall behind the church, rows of small wooden chambers were built in the 1800s to give elderly residents some privacy.",
+      "tip": "In Advent the hall hosts an arts and crafts Christmas market, a lovely place to warm up.",
+      "q": "Heiligen-Geist-Hospital, Koberg, Lübeck", "ll": [53.8713, 10.6898],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Heiligen-Geist-Hospital_(L%C3%BCbeck)"]
+    },
+    {
+      "id": "dom", "cat": "gor", "area": "merkez",
+      "title": "Stand under Bernt Notke's cross in Lübeck Cathedral",
+      "desc": "Henry the Lion founded the cathedral in 1173, making it the first large brick church on the Baltic, and at almost 132 metres it is one of the longest. Its huge triumphal cross was carved by Bernt Notke in 1477.",
+      "tip": "Come at the quiet southern end of the old town and walk back along the Mühlenteich pond for a view of the twin spires.",
+      "q": "Lübecker Dom, Lübeck", "ll": [53.8607, 10.6858],
+      "tags": ["free", "rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/L%C3%BCbecker_Dom"]
+    },
+    {
+      "id": "burgtor", "cat": "gor", "area": "merkez",
+      "title": "Pass through the Burgtor, the northern gate",
+      "desc": "Built in 1444 in late Gothic style, the Burgtor is the northern of the four old city gates and, with the Holstentor, the only one still standing. It takes its name from the castle that once stood above the Trave and became the Burgkloster in 1227.",
+      "tip": "Few visitors make it this far north, so it is an easy photo without crowds. Combine it with the Hansemuseum next door.",
+      "q": "Burgtor, Lübeck", "ll": [53.8740, 10.6912],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Burgtor_(L%C3%BCbeck)"]
+    },
+    {
+      "id": "jakobikirche", "cat": "gor", "area": "merkez",
+      "title": "Remember the Pamir in the sailors' church",
+      "desc": "St. Jakobi was consecrated in 1334 as the church of seafarers and fishermen. In its north tower chapel lies lifeboat 2 of the sailing ship Pamir, which sank in a hurricane off the Azores in 1957; the chapel is now a national memorial for civil seafaring.",
+      "tip": "Afterwards cross Breite Straße to the Schiffergesellschaft, the old guild house of the same skippers.",
+      "q": "St. Jakobi, Lübeck", "ll": [53.8712, 10.6887],
+      "tags": ["free", "rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/St_James%27_Church,_L%C3%BCbeck", "https://www.luebeck-tourismus.de/poi/st-jakobi"]
+    },
+    {
+      "id": "stannen", "cat": "gor", "area": "merkez",
+      "title": "See Memling's altar in the St. Annen convent",
+      "desc": "The Museumsquartier St. Annen fills a former convent with medieval church art, including a large collection of carved altarpieces. Its star piece is Hans Memling's Passion altar of 1491, made for Lübeck Cathedral.",
+      "tip": "The modern Kunsthalle St. Annen shares the ticket, so you can mix Gothic and contemporary art in one visit.",
+      "q": "Museumsquartier St. Annen, St.-Annen-Straße, Lübeck", "ll": [53.8628, 10.6891],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Museumsquartier_St._Annen"]
+    },
+    {
+      "id": "fuechtingshof", "cat": "gor", "area": "merkez",
+      "title": "Slip into the hidden Füchtingshof courtyard",
+      "desc": "Behind a baroque portal on Glockengießerstraße lies a long courtyard of small houses, founded with the legacy of merchant Johann Füchting for widows of merchants and skippers. It is the finest of Lübeck's Gänge und Höfe, the hidden lanes that once housed the city's poor.",
+      "tip": "People still live here, so visit quietly during the opening hours posted at the gate. Glandorps Gang a few doors down is another lovely one.",
+      "q": "Füchtingshof, Glockengießerstraße, Lübeck", "ll": [53.8696, 10.6909],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Johann_F%C3%BCchting"]
+    },
+    {
+      "id": "museumshafen", "cat": "gor", "area": "merkez",
+      "title": "Admire the old sailing ships of the Museumshafen",
+      "desc": "Along the Untertrave at the northwestern edge of the old town, historic Baltic cargo sailers, a dredger and a tug lie moored as a floating museum. In winter, when the old-timers are laid up, the inner harbour is at its fullest.",
+      "tip": "Walk the quay from the Musik- und Kongresshalle towards the old swing bridge at the Engelsgrube; it is free and especially pretty at dusk.",
+      "q": "Museumshafen, An der Untertrave, Lübeck", "ll": [53.8720, 10.6818],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Museumshafen_L%C3%BCbeck"]
+    },
+    {
+      "id": "petersgrube", "cat": "gor", "area": "merkez",
+      "title": "Climb the gabled Große Petersgrube",
+      "desc": "This steep lane running down from St. Petri to the Trave is one of the most harmonious streets in the World Heritage old town. Its stepped and curved gables span several centuries of Lübeck architecture.",
+      "tip": "Listen as you walk: the houses belong to the Lübeck music academy, and practice sessions often drift out of the windows.",
+      "q": "Große Petersgrube, Lübeck", "ll": [53.8652, 10.6825],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Gro%C3%9Fe_Petersgrube"]
+    },
+    {
+      "id": "niederegger", "cat": "ye", "area": "merkez",
+      "title": "Taste marzipan at Café Niederegger",
+      "desc": "Niederegger has made Lübeck marzipan since 1806 and its flagship café faces the Rathaus on Breite Straße. Lübeck marzipan is a protected regional product, and Niederegger is known for using a high share of almonds.",
+      "tip": "Order the marzipan nut cake upstairs, then visit the free Marzipan-Salon museum on the top floor with its life-size marzipan figures.",
+      "q": "Café Niederegger, Breite Straße, Lübeck", "ll": [53.8665, 10.6858],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Niederegger", "https://en.wikipedia.org/wiki/L%C3%BCbeck_Marzipan"]
+    },
+    {
+      "id": "schiffergesellschaft", "cat": "ye", "area": "merkez",
+      "title": "Dine at the skippers' guild in the Schiffergesellschaft",
+      "desc": "The Lübeck skippers' guild was founded in 1401 as the Brotherhood of St. Nicholas, and its 16th century guild house is now a restaurant. Ship models hang from the ceiling over long wooden tables where Hanseatic captains once sat.",
+      "tip": "Ask for a glass of Lübeck Rotspon with your fish. The cosy Gotteskeller in the cellar is good for a drink later in the evening.",
+      "q": "Schiffergesellschaft, Breite Straße 2, Lübeck", "ll": [53.8712, 10.6881],
+      "tags": ["rainy day"],
+      "src": ["https://www.visit-luebeck.com/gastro/boatmen-s-society", "https://www.speisekarte.de/l%C3%BCbeck/restaurant/haus_der_schiffergesellschaft/speisekarte"]
+    },
+    {
+      "id": "ratskellerrotspon", "cat": "ye", "area": "merkez",
+      "title": "Sip Rotspon in the Ratskeller",
+      "desc": "Rotspon is French red wine shipped to Lübeck in the barrel and left to mature in the city's cool cellars. The vaulted Ratskeller under the town hall still pours it, including its own house Rotspon.",
+      "tip": "Order a small glass first and compare it with the house version; both are on the menu by the glass.",
+      "q": "Ratskeller zu Lübeck, Markt", "ll": [53.8668, 10.6851],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikipedia.org/wiki/Rotspon", "https://www.speisekarte.de/l%C3%BCbeck/restaurant/ratskeller_zu_luebeck/speisekarte"]
+    },
+    {
+      "id": "brauberger", "cat": "ye", "area": "merkez",
+      "title": "Drink unfiltered beer in the Brauberger cellar",
+      "desc": "The Brauberger brews its own unfiltered beer on Alfstraße, under a vaulted cellar said to date back to 1225. The copper brewing kettle stands right in the dining room.",
+      "tip": "Hearty North German plates come in big portions, so share. It gets lively at night, so book ahead at weekends.",
+      "q": "Brauberger, Alfstraße 36, Lübeck", "ll": [53.8683, 10.6810],
+      "tags": ["rainy day"],
+      "src": ["https://visit-luebeck.com/gastro/brauberger"]
+    },
+    {
+      "id": "fangfrisch", "cat": "ye", "area": "merkez",
+      "title": "Eat a fish roll at Fangfrisch on the Untertrave",
+      "desc": "This relaxed fish restaurant on the Untertrave, five minutes from the Holstentor, has held a Michelin Plate. Its fish rolls pair fish landed in Travemünde with Lübeck bread rolls.",
+      "tip": "Take your roll down to the water steps on the Untertrave for sunset over the harbour.",
+      "q": "Fangfrisch, An der Untertrave 51, Lübeck", "ll": [53.8722, 10.6836],
+      "src": ["https://guide.michelin.com/en/schleswig-holstein/lubeck/restaurant/fangfrisch"]
+    },
+    {
+      "id": "wullenwever", "cat": "ye", "area": "merkez",
+      "title": "Treat yourself to dinner at Wullenwever",
+      "desc": "Wullenwever on the Beckergrube was the first fine dining restaurant in the old town and holds a Michelin star. Roy Petermann shaped it for a quarter of a century before handing the kitchen to his son Jean-Luc.",
+      "tip": "It serves a set menu of three or five courses in the evenings only; reserve well ahead and ask for the courtyard in summer.",
+      "q": "Wullenwever, Beckergrube 71, Lübeck", "ll": [53.8696, 10.6822],
+      "src": ["https://www.falstaff.com/en/restaurants/wullenwever-luebeck", "https://visit-luebeck.com/gastro/restaurant-wullenwever"]
+    },
+    {
+      "id": "affenbrot", "cat": "ye", "area": "merkez",
+      "title": "Have a veggie lunch at Café Affenbrot",
+      "desc": "Café Affenbrot on Kanalstraße has been a fixture of Lübeck's vegetarian scene since 1983. It sits on the eastern edge of the old town, by the canal and close to the Wakenitz.",
+      "tip": "Popular for weekend breakfast, so come early or late. It is a natural stop before or after a canoe trip on the Wakenitz.",
+      "q": "Café Affenbrot, Kanalstraße 70, Lübeck", "ll": [53.8692, 10.6951],
+      "src": ["https://visit-luebeck.com/gastro/cafe-affenbrot"]
+    },
+    {
+      "id": "uter", "cat": "ye", "area": "merkez",
+      "title": "Try a pastry at UTER Konditoreibar",
+      "desc": "This pastry bar fills one of the historic houses on Fleischhauerstraße, one of the old town's liveliest streets for independent shops and cafés. Cakes, tarts and light meals are served in a relaxed setting.",
+      "tip": "Grab a window seat and a slice of tart after browsing Fleischhauerstraße and Hüxstraße.",
+      "q": "UTER Konditoreibar, Fleischhauerstraße 62, Lübeck", "ll": [53.8663, 10.6903],
+      "src": ["https://www.visit-luebeck.com/gastro/uter"]
+    },
+    {
+      "id": "petritower", "cat": "dene", "area": "merkez",
+      "title": "Ride up St. Petri for the best view of Lübeck",
+      "desc": "St. Petri was first mentioned in 1170 and today has no congregation, serving for exhibitions and events instead. A lift takes you to a viewing platform about 50 metres up the tower, with all seven spires of the old town around you.",
+      "tip": "Go before sunset for warm light on the Holstentor and Salzspeicher. The platform stays open into the evening, unlike most church towers.",
+      "q": "St. Petri, Petrikirchhof, Lübeck", "ll": [53.8658, 10.6828],
+      "src": ["https://en.wikipedia.org/wiki/St_Peter%27s_Church,_L%C3%BCbeck", "https://de.wikivoyage.org/wiki/L%C3%BCbeck"]
+    },
+    {
+      "id": "boattrip", "cat": "dene", "area": "merkez",
+      "title": "Circle the old town island by boat",
+      "desc": "Lübeck's old town sits on an island ringed by the Trave and canals, and boat tours of about an hour loop all the way round it. You glide past the Salzspeicher, the harbour, the Hansemuseum and leafy canal banks.",
+      "tip": "Several operators run the trip from landings by the Holstentor and the Untertrave. Sit on the open deck but bring a layer, as it gets breezy.",
+      "q": "Holstenbrücke, Lübeck", "ll": [53.8662, 10.6806],
+      "src": ["https://luebeck-tourismus.de/fileadmin/Mediendatenbank/Luebeck/Dokumente/luebeck-erlebnisflyer-2024-de.pdf"]
+    },
+    {
+      "id": "weihnachtsmarkt", "cat": "dene", "area": "merkez",
+      "title": "Wander Lübeck's Christmas markets",
+      "desc": "Lübeck calls itself the Christmas city of the North, with themed markets spread across the old town from late November to the end of December. The main market fills the square by the Rathaus, a medieval market sits on the St. Marien churchyard, and a maritime one sets up on the Koberg.",
+      "tip": "Hop between markets on foot; they are all within ten minutes of each other. Try warm mulled Rotspon instead of ordinary Glühwein.",
+      "q": "Markt, Lübeck", "ll": [53.8664, 10.6849],
+      "months": [11, 12],
+      "tags": ["free"],
+      "src": ["https://www.hamburg-tourism.de/sehen-erleben/veranstaltungen/veranstaltungskalender/luebecker-weihnachtsmarkt-5/", "https://visit-luebeck.com/culture/christmas-city-of-the-north/christmas-markets/maritime-christmas-market"]
+    },
+    {
+      "id": "falkenwiese", "cat": "dene", "area": "merkez",
+      "title": "Swim in the Wakenitz at Naturbad Falkenwiese",
+      "desc": "The Wakenitz, nicknamed the Amazon of the North for its green, overgrown banks, flows right past the eastern edge of the old town. At Naturbad Falkenwiese you can swim in the river itself, a short walk from the city centre.",
+      "tip": "Go on a warm weekday morning to have the jetty almost to yourself.",
+      "q": "Naturbad Falkenwiese, Wakenitzufer, Lübeck", "ll": [53.8696, 10.7045],
+      "months": [6, 7, 8],
+      "src": ["https://www.visit-luebeck.com/water/wakenitz", "https://de.wikivoyage.org/wiki/L%C3%BCbeck"]
+    },
+    {
+      "id": "wakenitzcanoe", "cat": "dene", "area": "merkez",
+      "title": "Paddle a canoe up the Wakenitz",
+      "desc": "From the edge of the old town the Wakenitz winds through reeds and alder woods towards the Ratzeburger See, one of the wildest rivers in northern Germany. Kanu-Center Lübeck on Falkenstraße rents out canoes and kayaks.",
+      "tip": "Paddle upstream first while you are fresh, and look out for kingfishers along the quieter stretches.",
+      "q": "Kanu-Center Lübeck, Falkenstraße, Lübeck", "ll": [53.8724, 10.6978],
+      "src": ["https://www.visit-luebeck.com/old-town/poi/kanu-center-luebeck", "https://www.visit-luebeck.com/water/wakenitz"]
+    },
+    {
+      "id": "filmtage", "cat": "dene", "area": "merkez",
+      "title": "Catch a film at the Nordic Film Days",
+      "desc": "Every November Lübeck hosts the Nordische Filmtage, a festival devoted to cinema from Scandinavia and the Baltic countries. It runs for five days in early November, with the CineStar Stadthalle among the main venues.",
+      "tip": "Many screenings include talks with the directors. Book popular evening shows online once the programme comes out in mid October.",
+      "q": "CineStar Filmpalast Stadthalle, Mühlenbrücke, Lübeck", "ll": [53.8604, 10.6904],
+      "months": [11],
+      "tags": ["rainy day"],
+      "src": ["https://www.visit-luebeck.com/culture/nordic-film-days"]
+    },
+    {
+      "id": "huexstrasse", "cat": "dene", "area": "merkez",
+      "title": "Browse the little shops of Hüxstraße",
+      "desc": "Hüxstraße and neighbouring Fleischhauerstraße are lined with owner-run boutiques, design shops and cafés in historic gabled houses. It is the old town's favourite street for a slow afternoon stroll.",
+      "tip": "Start near the Markt end and work your way down towards the Wakenitz side, stopping for coffee halfway.",
+      "q": "Hüxstraße, Lübeck", "ll": [53.8658, 10.6892],
+      "tags": ["free"],
+      "src": ["https://de.wikivoyage.org/wiki/L%C3%BCbeck"]
+    },
+    {
+      "id": "wallanlagen", "cat": "dene", "area": "merkez",
+      "title": "Stroll the old ramparts of the Wallanlagen",
+      "desc": "The Wallanlagen are Lübeck's largest and oldest park, laid out on the former city fortifications west of the old town. Shady paths run along the water with views back to the spires.",
+      "tip": "Start at the Holstentor and walk south towards the Dom for a green loop away from the shopping streets.",
+      "q": "Wallanlagen, Lübeck", "ll": [53.8598, 10.6810],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Wallanlagen_(L%C3%BCbeck)"]
+    },
+    {
+      "id": "shmf", "cat": "dene", "area": "merkez",
+      "title": "Hear a summer concert at the Musik- und Kongresshalle",
+      "desc": "Each summer the Schleswig-Holstein Musik Festival brings orchestras and soloists to venues across the state, and Lübeck's Musik- und Kongresshalle on the Trave is its main stage in the city. The hall is also home to the Lübeck Philharmonic.",
+      "tip": "Tickets for big names go fast, so book when the programme is published in spring. Walk over to the Museumshafen at the interval.",
+      "q": "Musik- und Kongresshalle, Willy-Brandt-Allee, Lübeck", "ll": [53.8694, 10.6780],
+      "months": [7, 8],
+      "tags": ["rainy day"],
+      "src": ["https://de.wikivoyage.org/wiki/L%C3%BCbeck"]
+    },
+    {
+      "id": "passat", "cat": "gor", "area": "cevre",
+      "title": "Board the Passat, a Cape Horn windjammer",
+      "desc": "The Passat is a four-masted steel barque built in 1911 for the Hamburg shipping line F. Laeisz, one of the famous Flying P-Liners. One of the last surviving windjammers, she has been moored at Travemünde's Priwall since 1960.",
+      "tip": "Take the little Priwall ferry across from Travemünde and check the opening season before you go; the ship is a museum mainly in the warmer months.",
+      "q": "Museumsschiff Passat, Priwallpromenade, Travemünde", "ll": [53.9580, 10.8809],
+      "src": ["https://en.wikipedia.org/wiki/Passat_(ship)", "https://de.wikipedia.org/wiki/Passat_(Schiff,_1911)"]
+    },
+    {
+      "id": "leuchtturmtravemuende", "cat": "gor", "area": "cevre",
+      "title": "Visit the old lighthouse of Travemünde",
+      "desc": "Travemünde's red brick lighthouse took its present form in 1827 and stands 31 metres tall. It no longer guides ships but, with the Passat, it is the town's landmark and now holds a small museum.",
+      "tip": "Climb up for a view over the beach and the Trave mouth, then walk the Strandpromenade towards the Brodten cliffs.",
+      "q": "Alter Leuchtturm Travemünde, Am Leuchtenfeld", "ll": [53.9606, 10.8793],
+      "src": ["https://de.wikipedia.org/wiki/Leuchtturm_Travem%C3%BCnde"]
+    },
+    {
+      "id": "schlosseutin", "cat": "gor", "area": "cevre",
+      "title": "Explore Eutin Castle and its lakeside gardens",
+      "desc": "Eutin Castle grew from a medieval fortress into a four-winged residence over several centuries and is among the most important courtly buildings in Schleswig-Holstein. Its landscape garden runs down to the Großer Eutiner See.",
+      "tip": "The open-air Eutiner Festspiele on the lake stage paused in 2026, so check whether a summer season is on before planning around it. The garden walk is lovely in any season.",
+      "q": "Eutiner Schloss, Eutin", "ll": [54.1378, 10.6200],
+      "src": ["https://de.wikipedia.org/wiki/Eutiner_Schloss"]
+    },
+    {
+      "id": "schlossahrensburg", "cat": "gor", "area": "cevre",
+      "title": "See the white Renaissance castle of Ahrensburg",
+      "desc": "Schloss Ahrensburg is a small moated manor house and one of the main works of Renaissance architecture in Schleswig-Holstein. The grounds also include the former estate chapel with its Gottesbuden, almshouses built alongside it.",
+      "tip": "Ahrensburg is on the train line between Lübeck and Hamburg, and the castle is a pleasant walk through the park from the station.",
+      "q": "Schloss Ahrensburg, Lübecker Straße, Ahrensburg", "ll": [53.6802, 10.2404],
+      "src": ["https://de.wikipedia.org/wiki/Schloss_Ahrensburg"]
+    },
+    {
+      "id": "wallmuseum", "cat": "gor", "area": "cevre",
+      "title": "Step into a Slavic village at the Oldenburger Wallmuseum",
+      "desc": "The Oldenburger Wall is the remains of Starigard, a Slavic stronghold and one of the most important archaeological sites in Schleswig-Holstein. Next to it, the Wallmuseum has rebuilt early medieval houses, boats and workshops of a Slavic settlement.",
+      "tip": "The grounds are closed from November to late March. Climb the rampart itself for a view over the town.",
+      "q": "Oldenburger Wallmuseum, Professor-Struve-Weg, Oldenburg in Holstein", "ll": [54.2976, 10.8828],
+      "months": [4, 5, 6, 7, 8, 9, 10],
+      "src": ["https://de.wikipedia.org/wiki/Oldenburger_Wall", "https://www.oldenburger-wallmuseum.de/"]
+    },
+    {
+      "id": "graswarder", "cat": "gor", "area": "cevre",
+      "title": "Watch birds on the Graswarder spit",
+      "desc": "The Graswarder near Heiligenhafen is a former island that has grown into a peninsula of gravel and salt meadows. It is a nature reserve for nesting seabirds, with a row of historic villas at its base.",
+      "tip": "Stay on the marked paths during breeding season and bring binoculars; the observation tower gives the best view of the colonies.",
+      "q": "Graswarder, Heiligenhafen", "ll": [54.3792, 11.0083],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Graswarder"]
+    },
+    {
+      "id": "fehmarnsundbridge", "cat": "gor", "area": "cevre",
+      "title": "Cross the coat hanger bridge to Fehmarn",
+      "desc": "Opened in 1963, the Fehmarnsund Bridge carries road and rail from the mainland at Großenbrode to the island of Fehmarn. Its arched profile earned it the nickname Kleiderbügel, the coat hanger, and it became a symbol of the region.",
+      "tip": "For the best photo, walk along the beach on the Fehmarn side near the bridge foot at sunset.",
+      "q": "Fehmarnsundbrücke", "ll": [54.4000, 11.1117],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Fehmarnsundbr%C3%BCcke", "https://en.wikipedia.org/wiki/Fehmarn_Sound_Bridge"]
+    },
+    {
+      "id": "cismar", "cat": "gor", "area": "cevre",
+      "title": "Discover the abbey of Cismar",
+      "desc": "From 1245 to 1561 Cismar near Grömitz was a Benedictine abbey, and its red brick church still holds a remarkable carved medieval altar. In summer the State Museum of Schleswig-Holstein uses the monastery for art exhibitions.",
+      "tip": "Check the exhibition dates before you go, and pair the visit with a beach afternoon in Grömitz, ten minutes away.",
+      "q": "Kloster Cismar, Bäderstraße, Grömitz", "ll": [54.1901, 10.9860],
+      "src": ["https://de.wikipedia.org/wiki/Kloster_Cismar"]
+    },
+    {
+      "id": "pagodenspeicher", "cat": "gor", "area": "cevre",
+      "title": "Spot the Pagodenspeicher in Neustadt in Holstein",
+      "desc": "This former grain warehouse on Neustadt's inner harbour got its name from a roof shape that recalls an Asian pagoda. With the medieval Kremper Tor it is the town's landmark.",
+      "tip": "Walk on from the Pagodenspeicher to the Kremper Tor gate and finish at the harbour for a drink.",
+      "q": "Pagodenspeicher, Neustadt in Holstein", "ll": [54.1072, 10.8106],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Pagodenspeicher"]
+    },
+    {
+      "id": "nikolaiburg", "cat": "gor", "area": "cevre",
+      "title": "Step into St. Nikolai in Burg auf Fehmarn",
+      "desc": "St. Nikolai is a three-aisled Gothic hall church in Burg, the island's main town. Its massive brick tower rises over the market streets and the flat farmland of Fehmarn.",
+      "tip": "Combine it with a stroll through Burg's small old town, then drive ten minutes south to the harbour at Burgstaaken.",
+      "q": "St. Nikolai, Breite Straße, Burg auf Fehmarn", "ll": [54.4360, 11.1960],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/St._Nikolai_(Burg_auf_Fehmarn)"]
+    },
+    {
+      "id": "brennermoor", "cat": "gor", "area": "cevre",
+      "title": "Walk the salt marsh of the Brenner Moor",
+      "desc": "The Brenner Moor in Bad Oldesloe is the largest inland salt marsh in Schleswig-Holstein, fed by salty springs in the Trave valley. Plants usually found on the coast grow here far from the sea.",
+      "tip": "Follow the boardwalks and the information boards from the Am Brennermoor parking area; good boots help after rain.",
+      "q": "Naturschutzgebiet Brenner Moor, Bad Oldesloe", "ll": [53.8171, 10.3526],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Brenner_Moor"]
+    },
+    {
+      "id": "hermannshoehe", "cat": "ye", "area": "cevre",
+      "title": "Have lunch on the cliffs at Hermannshöhe",
+      "desc": "High on the Brodten cliffs between Travemünde and Niendorf, Hermannshöhe serves regional Holstein cooking such as cod, plaice and Labskaus. The terrace looks straight out over the Lübeck Bay.",
+      "tip": "Walk here along the cliff path from Travemünde and reward yourself with coffee and cake on the terrace.",
+      "q": "Hermannshöhe, Brodten, Travemünde", "ll": [53.9874, 10.8738],
+      "src": ["https://www.visit-luebeck.com/old-town/gastro/hermannshoehe-adventure-cafe-owya45ve"]
+    },
+    {
+      "id": "kluevershafen", "cat": "ye", "area": "cevre",
+      "title": "Grab a smoked fish roll at Niendorf harbour",
+      "desc": "Niendorf's small harbour still sends out fishing boats early each morning, and Klüver's smokehouse by the quay turns the catch into fish rolls and smoked fish. Matjes, Bismarck herring and smoked eel are the classics.",
+      "tip": "Eat your roll on the harbour wall watching the cutters come in, and keep an eye on the gulls.",
+      "q": "Klüvers Hafenräucherei, Strandstraße, Niendorf, Timmendorfer Strand", "ll": [53.9925, 10.8135],
+      "src": ["https://www.speisekarte.de/timmendorfer-strand/restaurant/kluevers_hafenraeucherei/speisekarte", "https://www.travelbook.de/news/auf-erkundungstour-in-der-luebecker-bucht"]
+    },
+    {
+      "id": "fischkombuese", "cat": "ye", "area": "cevre",
+      "title": "Eat fish at Travemünde's fishing harbour",
+      "desc": "The Fischkombüse is a rustic restaurant right at Travemünde's fishing harbour, known for generous fish plates and views of the Trave. Ships to Scandinavia glide past as you eat.",
+      "tip": "It is open daily; pair your fish with a glass of white wine and sit outside to watch the ferries.",
+      "q": "Fischkombüse, Fischereihafen, Travemünde", "ll": [53.9554, 10.8634],
+      "src": ["https://www.visit-luebeck.com/old-town/gastro/fish-galley-rkdi6km4"]
+    },
+    {
+      "id": "fischhalle", "cat": "ye", "area": "cevre",
+      "title": "Queue for fish at the Heiligenhafen Fischhalle",
+      "desc": "Heiligenhafen tops rankings of German fish roll towns, and the Fischhalle right on the harbour is a favourite meeting point for fish lovers. You order at the counter and eat with a view of the boats.",
+      "tip": "Heiligenhafen is home to one of Europe's largest deep sea angling fleets; come at lunchtime when the anglers return.",
+      "q": "Fischhalle, Am Hafen, Heiligenhafen", "ll": [54.3733, 10.9839],
+      "src": ["https://www.kurz-mal-weg.de/reisemagazin/reise-trends/die-besten-fischbroetchen-staedte", "https://www.swipein.restaurant/en/restaurant/treffpunkt-fischhalle-heiligenhafen-schleswig-hols"]
+    },
+    {
+      "id": "burgstaaken", "cat": "ye", "area": "cevre",
+      "title": "Buy fresh fish at Burgstaaken harbour",
+      "desc": "Burgstaaken is Fehmarn's fishing harbour, where the boats come in each morning with their catch. Stalls along the quay sell fish rolls, and smoked fish is a local speciality.",
+      "tip": "Come in the morning to see the boats unload, then eat your fish roll on the quay.",
+      "q": "Hafen Burgstaaken, Fehmarn", "ll": [54.4224, 11.1903],
+      "src": ["https://www.lopesan.com/blog/en/baltic-sea-gastronomy/"]
+    },
+    {
+      "id": "brauhauseutin", "cat": "ye", "area": "cevre",
+      "title": "Try a Rotbier at Brauhaus Eutin",
+      "desc": "On Eutin's market square, the family-run Brauhaus brews its own beers under the St. Michaelis Bräu name, including an unfiltered Pils and a dark Eutiner Rotbier. You can sit in the winter garden or the beer garden.",
+      "tip": "Stop here after the castle gardens; the market square is a five-minute walk away.",
+      "q": "Brauhaus Eutin, Markt 11, Eutin", "ll": [54.1367, 10.6168],
+      "src": ["https://untappd.com/b/brauhaus-eutin-eutiner-rotbier/198253", "https://patto1ro.home.xs4all.nl/schlbrew.htm"]
+    },
+    {
+      "id": "kluevernneustadt", "cat": "ye", "area": "cevre",
+      "title": "Drink a house beer at Klüvers Brauhaus in Neustadt",
+      "desc": "In 1993 the Klüver family turned an old fish shed on Neustadt's harbour into a restaurant, and it now brews its own unfiltered beer. The menu leans on North German fish dishes.",
+      "tip": "Grab a table on the harbour terrace and order the beer flight to try the house brews.",
+      "q": "Klüvers Brauhaus, Schiffbrücke, Neustadt in Holstein", "ll": [54.1061, 10.8114],
+      "src": ["https://www.speisekarte.de/neustadt-in-holstein/restaurant/kluevers_brauhaus", "https://www.livetheworld.com/activities/germany/kluvers-brauhaus"]
+    },
+    {
+      "id": "travemuenderwoche", "cat": "dene", "area": "cevre",
+      "title": "Watch the regattas of the Travemünder Woche",
+      "desc": "Held since 1889, the Travemünder Woche is one of the world's big sailing regattas, held over ten days in the second half of July with more than a dozen international titles at stake. Along the promenade it turns into a seaside festival with music and food stands.",
+      "tip": "Watching from the shore and entry to the festival are free; the busiest days are the weekends.",
+      "q": "Strandpromenade, Travemünde", "ll": [53.9644, 10.8808],
+      "months": [7],
+      "tags": ["free"],
+      "src": ["https://www.travemuender-woche.com/en/festival/frequently-asked-questions/", "https://www.yacht.de/en/regatta/races/travemuende-week-2026-17-international-titles-and-ten-days-of-baltic-sea-spectacle/"]
+    },
+    {
+      "id": "fuenfseenfahrt", "cat": "dene", "area": "cevre",
+      "title": "Cruise five lakes on the Fünf-Seen-Fahrt",
+      "desc": "From Malente, the boat of the Fünf-Seen-Fahrt links the Dieksee, Langensee, Behlersee, Höftsee and Edebergsee in the wooded Holsteinische Schweiz. The round trip takes about two hours.",
+      "tip": "From May to September boats leave the Diekseepromenade on the hour; in July and August there are also evening trips.",
+      "q": "Diekseepromenade, Malente", "ll": [54.1648, 10.5473],
+      "months": [4, 5, 6, 7, 8, 9, 10],
+      "src": ["https://www.5-seen-fahrt.de/anlegestellen", "https://www.holsteinischeschweiz.de/fileadmin/Mediendatenbank/TZHS/Service/Prospekte/pdf/2026-Ortsflyer-Malente-Web.pdf"]
+    },
+    {
+      "id": "hansapark", "cat": "dene", "area": "cevre",
+      "title": "Ride the coasters at Hansa-Park by the sea",
+      "desc": "In Sierksdorf, Hansa-Park calls itself Germany's only theme park by the sea, with more than 125 attractions on 46 hectares. Its headline ride is the Kärnan coaster, set in a tall copy of a Swedish castle tower.",
+      "tip": "The park is seasonal, roughly spring to autumn; arrive at opening and head for the big coasters first.",
+      "q": "Hansa-Park, Sierksdorf", "ll": [54.0769, 10.7800],
+      "months": [4, 5, 6, 7, 8, 9, 10],
+      "src": ["https://de.wikipedia.org/wiki/Hansa-Park", "https://www.hansapark.de/"]
+    },
+    {
+      "id": "kitefehmarn", "cat": "dene", "area": "cevre",
+      "title": "Learn to kitesurf on Fehmarn",
+      "desc": "Fehmarn is one of Germany's top kite and windsurf islands, with wind from almost every direction. Wulfener Hals on the south coast is a classic spot with standing depth water, and Gold near the bridge is a favourite for beginners.",
+      "tip": "Book a lesson with a local school, which will pick the right beach for the day's wind and keep you out of the nature reserves.",
+      "q": "Wulfener Hals, Fehmarn", "ll": [54.4050, 11.1777],
+      "months": [5, 6, 7, 8, 9],
+      "src": ["https://www.surf-magazin.de/en/spots-and-areas/baltic-sea/fehmarn-guide-the-best-windsurfing-spots-on-fehmarn/", "https://www.kitemana.com/info/blog/kitesurfing-spots-in-germany-1577"]
+    },
+    {
+      "id": "tauchgondel", "cat": "dene", "area": "cevre",
+      "title": "Dive under the Baltic in the Grömitz diving gondola",
+      "desc": "At the end of Grömitz's 398 metre pier, a diving gondola lowers visitors about four metres below the surface. Through the windows you see the Baltic seabed, with fish, crabs and seaweed.",
+      "tip": "Calm, sunny days give the clearest water. The walk out along the pier is worth it on its own.",
+      "q": "Tauchgondel, Seebrücke Grömitz", "ll": [54.1413, 10.9659],
+      "tags": ["rainy day"],
+      "src": ["https://www.travelbook.de/attraktionen/tauchgondeln-an-der-deutschen-ostsee"]
+    },
+    {
+      "id": "brodtenersteilufer", "cat": "dene", "area": "cevre",
+      "title": "Hike the Brodten cliffs from Travemünde to Niendorf",
+      "desc": "The Brodtener Ufer is a steep coastal cliff more than four kilometres long between Travemünde and Niendorf. A path runs along the top, with wide views over the Lübeck Bay and the beach below.",
+      "tip": "Walk one way and take the bus back. Stay back from the edge, as the cliff keeps crumbling.",
+      "q": "Brodtener Steilufer, Travemünde", "ll": [53.9822, 10.8811],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Brodtener_Ufer"]
+    },
+    {
+      "id": "sealife", "cat": "dene", "area": "cevre",
+      "title": "See Baltic sea life at Sea Life Timmendorfer Strand",
+      "desc": "On the promenade of Timmendorfer Strand, the Sea Life aquarium shows the fish of the Baltic alongside tropical tanks. An eight metre underwater tunnel takes you beneath sharks, rays and a green sea turtle.",
+      "tip": "A good rainy day plan with kids; online tickets are cheaper than at the door.",
+      "q": "Sea Life, Kurpromenade 5, Timmendorfer Strand", "ll": [53.9988, 10.7832],
+      "tags": ["rainy day"],
+      "src": ["https://www.visitsealife.com/timmendorfer-strand/en/whats-inside/areas/tropical-ocean/"]
+    },
+    {
+      "id": "fluegge", "cat": "dene", "area": "cevre",
+      "title": "Climb the Flügge lighthouse on Fehmarn",
+      "desc": "The Flügge lighthouse in southwest Fehmarn is about 37 metres tall, and 162 steps lead to its gallery. The view reaches over the Krummsteert spit and the Fehmarnsund Bridge to Heiligenhafen.",
+      "tip": "Open April to October except Mondays. Cars are not allowed at the tower, so walk the 1.5 kilometres from the car park at Hof Flügge.",
+      "q": "Leuchtturm Flügge, Fehmarn", "ll": [54.4409, 11.0177],
+      "months": [4, 5, 6, 7, 8, 9, 10],
+      "src": ["https://de.wikipedia.org/wiki/Leuchtturm_Fl%C3%BCgge", "https://fehmarn.de/en/poi/leuchtturm-fluegge"]
+    },
+    {
+      "id": "seebrueckeheiligenhafen", "cat": "dene", "area": "cevre",
+      "title": "Stroll out on the Heiligenhafen pier",
+      "desc": "Heiligenhafen's pier reaches out from the Steinwarder beach into the Baltic. From the end you look back over the beach and the Graswarder and across the water to Fehmarn.",
+      "tip": "Come for sunset, then walk back along the beach promenade to the harbour for fish.",
+      "q": "Seebrücke Heiligenhafen", "ll": [54.3811, 10.9787],
+      "tags": ["free"],
+      "src": ["https://de.wikipedia.org/wiki/Seebr%C3%BCcke_Heiligenhafen"]
+    },
+    {
+      "id": "priwallfaehre", "cat": "dene", "area": "cevre",
+      "title": "Hop on the Priwall ferry to the quiet beach",
+      "desc": "The Priwall ferry crosses the Trave mouth from Travemünde in a few minutes. On the far side the Priwall peninsula, cut off by the inner German border until 1990, has a natural Baltic beach that grows wilder towards Mecklenburg.",
+      "tip": "Bring a bike or walk; the Passat and the beach are both within easy reach of the ferry landing.",
+      "q": "Priwallfähre, Travemünde", "ll": [53.9549, 10.8707],
+      "src": ["https://www.swhl.de/en/mobil/flotte/faehrdaten/", "https://de.wikivoyage.org/wiki/Travem%C3%BCnde"]
+    }
+  ]
+}

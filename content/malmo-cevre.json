@@ -1,0 +1,262 @@
+{
+  "new": [
+    {
+      "id": "alesstenar", "cat": "gor", "area": "cevre",
+      "title": "Stand inside the stone ship of Ales stenar",
+      "desc": "On a grassy ridge above the Baltic at Kåseberga, 59 boulders form the outline of a ship 67 metres long, one of the largest stone ships in Scandinavia. Carbon dating points to around 550 AD, the end of the Nordic Iron Age, and some stones weigh up to five tonnes. One theory holds that the ship lines up with the sunset at midsummer and the sunrise at midwinter.",
+      "tip": "Park by Kåseberga harbour and take the steep path up the hill, about ten minutes on foot. Come at sunset, when the low light makes the stones glow and the day trippers have gone.",
+      "q": "Ales stenar, Kåseberga", "ll": [55.3825, 14.0542],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Ale%27s_Stones", "https://sv.wikipedia.org/wiki/K%C3%A5seberga"]
+    },
+    {
+      "id": "glimmingehus", "cat": "gor", "area": "cevre",
+      "title": "Hunt for murder holes at Glimmingehus",
+      "desc": "Danish knight Jens Holgersen Ulfstand built this stone keep between 1499 and 1506 with the German master mason Adam van Düren, and it is often called the best preserved medieval castle in Scandinavia. It was built to frighten intruders, with false doors, dead end corridors and murder holes for pouring hot pitch on attackers. The Swedish National Heritage Board runs it today.",
+      "tip": "The main season with daily guided tours is summer, but the castle also opens for medieval Christmas and Lucia events in December, so check glimmingehus.se before you go. The courtyard café is a good stop afterwards.",
+      "q": "Glimmingehus, Hammenhög", "ll": [55.5008, 14.2308],
+      "src": ["https://en.wikipedia.org/wiki/Glimmingehus", "http://glimmingehus.se/"]
+    },
+    {
+      "id": "kullensfyr", "cat": "gor", "area": "cevre",
+      "title": "Walk to Kullen lighthouse at the tip of Kullaberg",
+      "desc": "At the very end of the Kullaberg peninsula, where the Öresund opens into the Kattegat, a light has burned since 1561. The current tower was first lit in 1900 and stands 78 metres above the sea, making it the highest and most powerful sea lighthouse in Sweden, with a range of 27.5 nautical miles. Naturum Kullaberg next to it explains the reserve's cliffs, caves and sea life.",
+      "tip": "Leave the car in Mölle and walk the coastal path out to the lighthouse for the best views, about an hour each way. Naturum is open daily from May to October and has a touch pool with starfish.",
+      "q": "Kullens fyr, Mölle", "ll": [56.3010, 12.4515],
+      "tags": ["free"],
+      "src": ["https://sv.wikipedia.org/wiki/Kullens_fyr", "https://www.kullabergsnatur.se/"]
+    },
+    {
+      "id": "nimis", "cat": "gor", "area": "cevre",
+      "title": "Climb through the driftwood towers of Nimis",
+      "desc": "In 1980 artist Lars Vilks began nailing driftwood together in a hidden cove on Kullaberg, and Nimis grew into a maze of towers and tunnels more than 100 metres long, held together by over 160,000 nails. Next to it stands Arx, a book of concrete and stone. Vilks declared the site the micronation of Ladonia, which still has thousands of online citizens.",
+      "tip": "There are no official signs: park near Himmelstorp and follow the small yellow N marks painted along the steep path down to the shore, about 20 minutes. Wear proper shoes, climb at your own risk and keep children close on the upper towers.",
+      "q": "Nimis, Kullaberg, Höganäs", "ll": [56.2876, 12.5394],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Nimis_(artwork)", "https://sv.wikipedia.org/wiki/Nimis"]
+    },
+    {
+      "id": "karnan", "cat": "gor", "area": "cevre",
+      "title": "Climb Kärnan for a view across to Denmark",
+      "desc": "This 35 metre brick keep is the last remnant of the medieval Danish fortress that, together with Kronborg across the water, controlled shipping through the Öresund. Dendrochronology dates its core to the 1310s, and the walls are 4.5 metres thick at the base. From the top you look straight over the strait to Helsingør.",
+      "tip": "Walk up the grand Terrasstrapporna steps from Stortorget to reach it. On a clear day you can pick out the Turning Torso and the Öresund Bridge through the binoculars at the top.",
+      "q": "Kärnan, Helsingborg", "ll": [56.0483, 12.6975],
+      "src": ["https://en.wikipedia.org/wiki/K%C3%A4rnan", "https://sv.wikipedia.org/wiki/K%C3%A4rnan"]
+    },
+    {
+      "id": "sofiero", "cat": "gor", "area": "cevre",
+      "title": "See the royal rhododendrons bloom at Sofiero",
+      "desc": "Sofiero began as a farm bought by Prince Oscar and Sophia of Nassau in 1864 and became a royal summer palace above the Öresund. Gustaf VI Adolf received it as a wedding gift in 1905 and spent decades creating the rhododendron garden, which now has almost 500 varieties. When he died in 1973 he left the estate to the city of Helsingborg.",
+      "tip": "Time your visit for mid May to mid June, when more than 10,000 rhododendron bushes are in flower. The café terrace looks straight over the water to Denmark.",
+      "q": "Sofiero slott, Helsingborg", "ll": [56.0839, 12.6597],
+      "src": ["https://en.wikipedia.org/wiki/Sofiero", "https://www.svt.se/nyheter/lokalt/helsingborg/fargsprakande-rhododendron-lockar-tusentals-till-sofiero"]
+    },
+    {
+      "id": "fredriksdal", "cat": "gor", "area": "cevre",
+      "title": "Step back in time at Fredriksdal open-air museum",
+      "desc": "Fredriksdal grew from a country estate whose manor house was built in 1787 and opened to the public as an open-air museum in 1923. Its 36 hectares hold old farmsteads, a town quarter of houses moved from central Helsingborg, heritage breeds of farm animals and a baroque hedge theatre. The French and English parks, kitchen garden and botanical garden make it a lovely place to wander.",
+      "tip": "The park is open daily and entry is free, but many of the old houses only open in summer. In early December the museum hosts a Christmas event among the old houses.",
+      "q": "Fredriksdal museer och trädgårdar, Helsingborg", "ll": [56.0559, 12.7096],
+      "src": ["https://sv.wikipedia.org/wiki/Fredriksdal_museer_och_tr%C3%A4dg%C3%A5rdar", "https://fredriksdal.se/"]
+    },
+    {
+      "id": "landskronacitadel", "cat": "gor", "area": "cevre",
+      "title": "Cross the moats of Landskrona Citadel",
+      "desc": "Christian III of Denmark built this fortress between 1549 and 1559, and its double ring of wide moats is one of the largest and best preserved in Europe. Over the centuries it served as a castle, a prison for life sentences and a women's prison. Today you can only see inside the castle on a guided tour.",
+      "tip": "The castle opens with guided tours from mid June to mid August, with one tour a day in English. Walk the moat paths around the walls any time of year.",
+      "q": "Landskrona citadell, Landskrona", "ll": [55.8731, 12.8225],
+      "months": [6, 7, 8],
+      "src": ["https://en.wikipedia.org/wiki/Landskrona_Citadel", "https://ilandskrona.se/en/visit/culture/fascinating-history-at-landskrona-citadel/"]
+    },
+    {
+      "id": "tychobrahe", "cat": "gor", "area": "cevre",
+      "title": "Cycle Ven to Tycho Brahe's observatory",
+      "desc": "On the little island of Ven, astronomer Tycho Brahe built his observatory Uraniborg from 1576, and later the underground observatory Stjärneborg, where he mapped the stars before the telescope existed. Uraniborg was destroyed after his death, but the museum, the restored Renaissance garden and Stjärneborg tell the story. His work here began in 1576.",
+      "tip": "Take the ferry from Landskrona and rent a bike by the harbour; the island is small and the museum sits right in the middle. It is open daily from May to August and on September weekends, with free 45 minute guided tours.",
+      "q": "Tycho Brahe-museet, Ven", "ll": [55.9077, 12.6954],
+      "months": [5, 6, 7, 8, 9],
+      "src": ["https://en.wikipedia.org/wiki/Uraniborg", "https://ilandskrona.se/en/visit/ven/the-tycho-brahe-museum"]
+    },
+    {
+      "id": "ystadtornvaktare", "cat": "gor", "area": "cevre",
+      "title": "Listen for the night watchman's horn in Ystad",
+      "desc": "Since 1748 a watchman has climbed the tower of Sankta Maria kyrka every evening to blow a horn out over Ystad's rooftops. At quarter past the hour he blows once in each direction, at half past twice and on the hour four times. The church itself, at the heart of the old town of cobbled lanes and half-timbered houses, dates back to the 13th century.",
+      "tip": "From September to May he starts at 21:15, and in summer at 20:15, and plays until midnight. Stand in the quiet churchyard below on a still evening to hear the horn best.",
+      "q": "Sankta Maria kyrka, Ystad", "ll": [55.4292, 13.8186],
+      "tags": ["free"],
+      "src": ["https://www.svenskakyrkan.se/ystad/tornvaktaren-i-sta-maria-kyrka", "https://www.svenskakyrkan.se/ystad/sta-maria-kyrka"]
+    },
+    {
+      "id": "wanaskonst", "cat": "gor", "area": "cevre",
+      "title": "Find art in the woods at Wanås sculpture park",
+      "desc": "In the beech forest around Wanås castle in northeastern Skåne, international artists have created site specific works for decades, and dozens of them now hide among the trees. Look for Yoko Ono's Wish Trees for Wanås, where visitors tie their wishes to the branches. Indoor exhibitions change each season.",
+      "tip": "The outdoor park is open every day, but some artworks and the indoor shows close in winter, so spring to autumn is best. The castle is a private home, but the café serves lunch on a terrace.",
+      "q": "Wanås Konst, Knislinge", "ll": [56.1860, 14.0454],
+      "src": ["https://wanaskonst.se/en/visit/", "https://sv.wikipedia.org/wiki/Van%C3%A5s_slott"]
+    },
+    {
+      "id": "bosjokloster", "cat": "gor", "area": "cevre",
+      "title": "Stroll the gardens of Bosjökloster by Lake Ringsjön",
+      "desc": "Bosjökloster was founded as a Benedictine nunnery in 1080 on a spit of land in Lake Ringsjön. After the Reformation it became a noble estate, and the Bonde family has owned it since 1908. Today visitors come for the rose garden, the old park and the lakeside setting.",
+      "tip": "The castle gardens and the garden café open from May to September, and summer art exhibitions fill the rooms. Bring a picnic to the shore of Ringsjön afterwards.",
+      "q": "Bosjökloster, Höör", "ll": [55.8772, 13.5186],
+      "months": [5, 6, 7, 8, 9],
+      "src": ["https://en.wikipedia.org/wiki/Bosj%C3%B6kloster", "https://www.bosjokloster.se/en/visitor-info"]
+    },
+    {
+      "id": "kasebergafisk", "cat": "ye", "area": "cevre",
+      "title": "Eat smoked fish by the harbour at Kåseberga Fisk",
+      "desc": "Down by the little fishing harbour below Ales stenar, this family smokehouse has been smoking fish over alder wood for decades. The counter is full of hot smoked salmon, mackerel, eel and herring, plus around 20 kinds of pickled herring, all made on site. Kåseberga had 24 full time fishermen in 1858 and still feels like a working fishing village.",
+      "tip": "Buy a warm smoked fish with potato salad and eat it on the benches by the water. In summer they also fire up a barbecue and open a bar.",
+      "q": "Kåseberga Fisk, Ales väg, Kåseberga", "ll": [55.3829, 14.0617],
+      "src": ["https://scanmagazine.co.uk/kaseberga-fisk/", "https://osterlen.se/en/kaseberga-fish/"]
+    },
+    {
+      "id": "olofviktors", "cat": "ye", "area": "cevre",
+      "title": "Have carrot cake in the courtyard at Olof Viktors",
+      "desc": "This farm bakery and café in Glemmingebro is one of the best known fika stops in Skåne, with bread baked in a wood fired oven and cakes made from scratch. The carrot cake, with its thick soft frosting, is the house legend, and the shop sells crispbread, kavring rye bread, jams and juices. Falstaff's Nordic coffee guide gave it 91 points for 2026.",
+      "tip": "Summer weekends get very busy; arrive when they open at 8:00 to get a table in the courtyard. Check opening days before you go, as they close some weekdays outside summer.",
+      "q": "Olof Viktors, Österlenvägen 86, Glemmingebro", "ll": [55.4343, 14.0018],
+      "src": ["https://osterlen.se/en/olof-viktors/", "https://www.falstaff.com/en/cafes/olof-viktors-cafe"]
+    },
+    {
+      "id": "kiviksmusteri", "cat": "ye", "area": "cevre",
+      "title": "Taste apple juice and cider at Kiviks Musteri",
+      "desc": "Ivar Åkesson started pressing juice here in 1935, and the family owned business, now in its fourth generation, is the best known name in Swedish apples. The shop lets you taste juices and ciders before you buy, and Bistro Kärnhuset serves lunch from local produce. Äpplets Hus, a free exhibition, covers apple history and how juice is made.",
+      "tip": "Visit in late September, when the orchards are heavy with fruit and the apple market runs nearby. Pick up a bottle of the seasonal art cider as a souvenir.",
+      "q": "Kiviks Musteri, Karakåsvägen 45, Kivik", "ll": [55.6735, 14.2690],
+      "src": ["https://sv.wikipedia.org/wiki/Kiviks_musteri", "https://osterlen.se/en/kiviksmusteri/"]
+    },
+    {
+      "id": "skanorfiskrogeri", "cat": "ye", "area": "cevre",
+      "title": "Order fish soup at Skanörs Fiskrögeri",
+      "desc": "The white smokehouse chimneys by Skanör harbour mark this seafood restaurant and deli, a summer institution on the Falsterbo peninsula. The fish soup and shrimp sandwiches are the classics, and the deli sells smoked fish to take to the beach. Skanör itself was a medieval herring market town, once one of the richest trading places in the Baltic.",
+      "tip": "It is seasonal, roughly April to September, and in July expect to queue for 15 to 20 minutes. Take your deli picnic over the dunes to Skanör's long white beach.",
+      "q": "Skanörs Fiskrögeri, Hamnvägen, Skanör", "ll": [55.4159, 12.8315],
+      "months": [4, 5, 6, 7, 8, 9],
+      "src": ["https://en.wikipedia.org/wiki/Skan%C3%B6r", "https://falsterbostay.pages.dev/en/area-guide/restaurants/"]
+    },
+    {
+      "id": "flickornalundgren", "cat": "ye", "area": "cevre",
+      "title": "Take fika in the garden of Flickorna Lundgren",
+      "desc": "In 1938 the Lundgren sisters opened a café in their family's fisherman's cottage from 1732 at Skäret, on the Kullaberg peninsula. Crown Prince Gustaf Adolf became a regular after 1945 and brought plants for the garden in exchange for vanilla hearts. The garden café still serves cakes, pastries and traditional dishes such as äggakaka.",
+      "tip": "The café opens from April to September, plus a few weekends before Christmas. On a sunny day, take your tray out into the garden; if it rains, the large greenhouse has about 100 seats.",
+      "q": "Flickorna Lundgren, Skäretvägen 19, Skäret", "ll": [56.2600, 12.6142],
+      "months": [4, 5, 6, 7, 8, 9],
+      "src": ["https://en.wikipedia.org/wiki/Flickorna_Lundgren", "https://www.flickornalundgren.se/"]
+    },
+    {
+      "id": "ebbasfik", "cat": "ye", "area": "cevre",
+      "title": "Order an Elvis Burger at Ebbas Fik",
+      "desc": "Every detail in this Helsingborg café is from the 1950s, down to the coffee spoons, the vinyl chairs and the 1959 AMI jukebox playing 45s. The menu runs from open sandwiches and baked potatoes to more than 40 kinds of home baked cookies. The Elvis Burger is a giant burger made to the King's own recipe, and the café was named Helsingborg's café of the year in 2019.",
+      "tip": "Come hungry, and leave room for a cookie with your coffee. It is on the quiet older end of Bruksgatan, a short walk from Kärnan.",
+      "q": "Ebbas Fik, Bruksgatan 20, Helsingborg", "ll": [56.0450, 12.6964],
+      "tags": ["rainy day"],
+      "src": ["https://www.ebbasfik.se/", "https://thatsup.co.uk/helsingborg/cafe/ebbas-fik/"]
+    },
+    {
+      "id": "spiritofhven", "cat": "ye", "area": "cevre",
+      "title": "Sip island whisky at Spirit of Hven",
+      "desc": "On the island of Ven, the Backafallsbyn hotel opened its own distillery in 2008 and now makes whisky, gin, vodka and aquavit, often named after Tycho Brahe and the stars. Its first whisky, Urania, was released in 2012 in just 4,444 bottles. The whisky bar has been named one of the best in Sweden.",
+      "tip": "Book a tasting with a guided distillery tour, and stay for dinner from Skåne produce. Check the last ferry back to Landskrona before you order another dram.",
+      "q": "Spirit of Hven, Norreborgsvägen, Ven", "ll": [55.9163, 12.6955],
+      "src": ["https://www.hven.com/", "https://sv.wikipedia.org/wiki/Spirit_of_Hven"]
+    },
+    {
+      "id": "kullabergsvingard", "cat": "ye", "area": "cevre",
+      "title": "Taste Swedish wine at Kullabergs Vingård",
+      "desc": "The first vines went into the ground here in 2006, and the vineyard on the Kullaberg peninsula has grown to about 22 hectares. It grows fungus resistant grapes such as Solaris, Souvignier gris and Rondo. The mild sea climate of northwest Skåne makes it one of Sweden's leading wine estates, with a cellar door shop on the estate.",
+      "tip": "Guided tours with tasting run on Saturday afternoons until the end of November, and the wine bar Skänken is open daily in summer. Book ahead.",
+      "q": "Kullabergs Vingård, Lyckerisvägen 52, Höganäs", "ll": [56.2570, 12.5399],
+      "src": ["https://en.wikipedia.org/wiki/Kullabergs_Vineyard", "https://www.kullabergs.se/"]
+    },
+    {
+      "id": "brosarpsgastis", "cat": "ye", "area": "cevre",
+      "title": "Eat äggakaka at Brösarps Gästgifveri",
+      "desc": "There has been an inn in Brösarp, at the gateway to Österlen, since 1684. The kitchen is known for classic Skåne dishes such as äggakaka, a thick oven baked egg pancake served with fried pork and lingonberries. Apples, cider and must come from orchards in nearby Kivik and Maglehem.",
+      "tip": "Work up an appetite first with a walk over the rolling grassy hills of Brösarps backar just outside. The inn also has a spa with indoor and outdoor pools.",
+      "q": "Brösarps Gästgifveri, Albovägen 21, Brösarp", "ll": [55.7255, 14.1040],
+      "src": ["https://visitskane.com/food-drinks/traditional-food-and-inns-skane", "https://osterlen.se/en/brosarp-gastgifveri-spa/"]
+    },
+    {
+      "id": "stenshuvud", "cat": "dene", "area": "cevre",
+      "title": "Hike up Stenshuvud for a view of the Baltic",
+      "desc": "Stenshuvud became a national park in 1986 and packs hornbeam forest, heath, meadows and a sandy beach into less than four square kilometres. The northern peak rises 97 metres straight from the sea, and on clear days Bornholm shows as a blue shadow on the horizon. Hazel dormice and European tree frogs live here.",
+      "tip": "Start at naturum by the car park and take the trail up the hill, then come down to the beach for a swim. Cattle graze parts of the park from mid May to mid November, so close the gates behind you.",
+      "q": "naturum Stenshuvud, Kivik", "ll": [55.6562, 14.2687],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Stenshuvud_National_Park", "https://www.sverigesnationalparker.se/en/choose-park---list/stenshuvud-national-park/"]
+    },
+    {
+      "id": "appelmarknaden", "cat": "dene", "area": "cevre",
+      "title": "See the giant apple picture at Kivik's apple market",
+      "desc": "Every autumn Österlen celebrates the harvest with Äppelmarknaden, where artists lay out a huge picture made from tens of thousands of apples. Recently it has been held at Svabesholms Kungsgård outside Kivik, with tens of thousands of apples placed by hand. The opening weekend brings music, food stalls and a market.",
+      "tip": "The market runs for about two weeks from mid to late September. Weekdays are cheaper and calmer than the opening weekend, and parking is free.",
+      "q": "Svabesholms Kungsgård, Kivik", "ll": [55.6594, 14.2329],
+      "months": [9, 10],
+      "src": ["https://hurbra.se/?p=26555", "https://scanmagazine.co.uk/apple-market/"]
+    },
+    {
+      "id": "sandhammaren", "cat": "dene", "area": "cevre",
+      "title": "Walk the white dunes of Sandhammaren",
+      "desc": "East of Ystad, Sandhammaren is a wide beach of fine white sand backed by pine forest and high dunes, often called one of the most beautiful beaches in Sweden. Its lighthouse has warned ships off the shoals since the 19th century. The area is a nature reserve.",
+      "tip": "The currents off the point can be strong, so swim only in calm weather and stay close to shore. Bring a picnic, as there are few kiosks.",
+      "q": "Sandhammaren, Ystad", "ll": [55.3855, 14.1974],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/Sandhammaren"]
+    },
+    {
+      "id": "falsterbobirds", "cat": "dene", "area": "cevre",
+      "title": "Watch the autumn bird migration at Falsterbo",
+      "desc": "Falsterbo is the southwestern tip of Sweden, and every autumn millions of birds funnel down the peninsula before crossing the sea. At Nabben, the point just beyond the lighthouse and the golf course, thousands of swallows, wagtails, finches and pipits can pass in a single morning, while honey buzzards and sparrowhawks sail overhead. Falsterbo Bird Observatory has ringed and counted the migrants here for decades.",
+      "tip": "Go at dawn in September or early October, ideally on a southwest wind. Later in the morning, move inland to Ljungen heath, where the raptors rise on the warm air.",
+      "q": "Falsterbo fyr, Falsterbo", "ll": [55.3837, 12.8164],
+      "tags": ["free"],
+      "months": [9, 10],
+      "src": ["https://www.birdingplaces.eu/birdingplaces/sweden/falsterbo"]
+    },
+    {
+      "id": "helsingorferry", "cat": "dene", "area": "cevre",
+      "title": "Hop the 20 minute ferry from Helsingborg to Denmark",
+      "desc": "Only about 4 kilometres of water separate Helsingborg from Helsingør, and car ferries cross around the clock, more than 70 times a day each way. It is one of the busiest international ferry routes in the world. On the way you sail past Kronborg, Hamlet's castle, guarding the Danish shore.",
+      "tip": "Ferries leave from Knutpunkten, right next to the train station, and foot passengers just walk on. Grab a seat on the outside deck for the best view of both castles.",
+      "q": "Knutpunkten, Helsingborg", "ll": [56.0436, 12.6941],
+      "src": ["https://en.wikipedia.org/wiki/HH_Ferry_route"]
+    },
+    {
+      "id": "hovshallar", "cat": "dene", "area": "cevre",
+      "title": "Scramble over the red cliffs of Hovs Hallar",
+      "desc": "On the Bjäre peninsula, a 1.5 kilometre stretch of red gneiss cliffs drops into the sea, with caves and sea stacks up to 30 metres high. Ingmar Bergman filmed the opening of The Seventh Seal here, the famous chess game between the knight and Death. Trails lead along the clifftops and down to the boulder beaches.",
+      "tip": "Wear sturdy shoes, as the rocks are steep and slippery when wet. The hotel restaurant by the car park looks out over Laholm Bay.",
+      "q": "Hovs hallar, Båstad", "ll": [56.4700, 12.7075],
+      "tags": ["free"],
+      "src": ["https://sv.wikipedia.org/wiki/Hovs_hallar"]
+    },
+    {
+      "id": "kopparhatten", "cat": "dene", "area": "cevre",
+      "title": "Look over the beech canyons from Kopparhatten",
+      "desc": "Söderåsen National Park, founded in 2001, protects deep beech forest on a ridge cut by ravines up to 90 metres deep. Kopparhatten, about 200 metres high, is the park's highest and most famous viewpoint, looking out over the Skäralid valley. The Kopparhattsrundan loop is an easy 4 kilometre walk.",
+      "tip": "Start at naturum Söderåsen in Skäralid, but note the car park fills up on weekends. Autumn, when the beeches turn copper and gold, is the most beautiful time.",
+      "q": "Kopparhatten, Söderåsen", "ll": [56.0347, 13.2385],
+      "tags": ["free"],
+      "src": ["https://en.wikipedia.org/wiki/S%C3%B6der%C3%A5sen_National_Park", "https://www.naturkartan.se/sv/skane-lan/kopparhattsrundan"]
+    },
+    {
+      "id": "vattenriket", "cat": "dene", "area": "cevre",
+      "title": "Spot cranes and otters from naturum Vattenriket",
+      "desc": "Kristianstads Vattenrike is a wetland biosphere reserve along the Helge å, and it holds Sweden's lowest point, 2.41 metres below sea level. Its visitor centre, naturum Vattenriket, opened in 2010 as an angular wooden building standing on stilts in the water. Entry is free, and Bistro Årum on the upper floor has a rooftop terrace over the wet meadows.",
+      "tip": "Ask the staff where the cranes and otters have been seen lately. The 1.8 kilometre Tivolirundan trail starts right outside and is easy with children.",
+      "q": "naturum Vattenriket, Kristianstad", "ll": [56.0286, 14.1472],
+      "tags": ["free", "rainy day"],
+      "src": ["https://en.wikipedia.org/wiki/Kristianstads_Vattenrike_Biosphere_Reserve", "https://www.vattenriket.kristianstad.se/naturum/"]
+    },
+    {
+      "id": "skanesdjurpark", "cat": "dene", "area": "cevre",
+      "title": "Meet Nordic wildlife at Skånes Djurpark",
+      "desc": "Opened in 1953 in the forests outside Höör, Skånes Djurpark specialises in Nordic animals, with around 100 species and some 900 animals. Wolves, bears, lynx, elk and red deer live in large forest enclosures. The Expedition UPP walkway lets you look down on the deer from the treetops.",
+      "tip": "Plan a full day with children, as the paths are long. There are barbecue spots in the park if you bring your own food.",
+      "q": "Skånes Djurpark, Höör", "ll": [55.9637, 13.5310],
+      "src": ["https://en.wikipedia.org/wiki/Sk%C3%A5nes_Djurpark", "https://www.skanesdjurpark.se/"]
+    }
+  ]
+}

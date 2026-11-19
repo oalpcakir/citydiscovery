@@ -1,0 +1,574 @@
+{
+ "new": [
+  {
+   "id": "maziunderground",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore Mazı Underground City",
+   "desc": "A Roman-Byzantine underground settlement in the Bağırsakdere valley, known in antiquity as Mataza. It has four entrances leading to a central hall, a rolling-stone door, stables, a church and wine cellars where grapes were dropped down chimneys.",
+   "tip": "Far quieter than Kaymaklı or Derinkuyu; two of its levels are open. Allow about an hour and go by car or taxi, as there is no public transport.",
+   "q": "Mazı Yeraltı Şehri, Mazı Köyü, Ürgüp, Nevşehir",
+   "ll": [
+    38.46999,
+    34.83891
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Maz%C4%B1_Underground_City",
+    "https://showcaves.com/english/tr/subterranea/Mazi.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "tatlarinunderground",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Go down into Tatlarin Underground City",
+   "desc": "A Byzantine-era underground city on a hill locals call the Castle, near Tatlarin village north of Acıgöl. It was found in 1975 and opened to visitors in 1991; a 15 m tunnel serves as the entrance, and the corridors have defensive pit traps and unusually even toilets.",
+   "tip": "Only two levels are open and crowds are rare. Opening hours vary by season, so check locally before the drive.",
+   "q": "Tatlarin Yeraltı Şehri, Tatlarin, Acıgöl, Nevşehir",
+   "ll": [
+    38.63704,
+    34.48223
+   ],
+   "src": [
+    "https://showcaves.com/english/tr/subterranea/Tatlarin.html",
+    "https://www.turkishmuseums.com/museum/detail/2210-nevsehir-tatlarin-underground-city/2210/4"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "cemilchurch",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Holy Cross Church in Cemil village",
+   "desc": "A Greek Orthodox church consecrated in 1882 under Archpriest Paisios at the entrance of Cemil, a stone-built village on the Soğanlı road that keeps its Ottoman-era Greek houses.",
+   "tip": "The church is often locked, so ask in the village for the key holder. Combine it with a walk through the old lanes.",
+   "q": "Cemil Kilisesi, Cemil Köyü, Ürgüp, Nevşehir",
+   "ll": [
+    38.52419,
+    34.93892
+   ],
+   "src": [
+    "https://wowcappadocia.com/cemil-church.html",
+    "https://www.lonelyplanet.com/points-of-interest/cemil-church/1285164"
+   ]
+  },
+  {
+   "id": "aiosvasilios",
+   "cat": "gor",
+   "area": "goreme",
+   "title": "Visit Aios Vasilios Church in Mustafapaşa",
+   "desc": "A Greek Orthodox church of the former Sinasos, one of the Ürgüp area monuments listed by the Ministry of Culture and Tourism. Mustafapaşa kept its grand 19th-century Greek mansions and several churches after the 1924 population exchange.",
+   "tip": "Fits easily with the Konstantinos and Eleni church and the doll museum in the same village. Check at the village for opening times.",
+   "q": "Aios Vasilios Kilisesi, Mustafapaşa, Ürgüp, Nevşehir",
+   "ll": [
+    38.5686,
+    34.8956
+   ],
+   "src": [
+    "https://Www.Wikipedia.org/wiki/Mustafapa%C5%9Fa,_Nev%C5%9Fehir",
+    "https://www.ktb.gov.tr/EN-36267/where-to-visit.html"
+   ]
+  },
+  {
+   "id": "pancarlikkilise",
+   "cat": "gor",
+   "area": "goreme",
+   "title": "Study the frescoes of Pancarlık Church",
+   "desc": "A rock-cut church in Pancarlık Valley by the Ürgüp-Mustafapaşa road, part of a monastic settlement used for centuries. Its green and red frescoes date to the late 9th-10th century, and the Museum Pass does not apply.",
+   "tip": "Small entrance fee paid on site. Morning light is best for the frescoes; take a torch for the corners.",
+   "q": "Pancarlık Kilisesi, Pancarlık Vadisi, Ürgüp, Nevşehir",
+   "ll": [
+    38.61427,
+    34.89261
+   ],
+   "src": [
+    "https://www.discovercappadocia.com/place/pancarlik-church",
+    "https://cappadociahistory.com/blog/pancarlik"
+   ]
+  },
+  {
+   "id": "yesilozteodor",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Find St. Theodore Church at Yeşilöz",
+   "desc": "A T-shaped rock church with a large apse built in the name of St. Theodore in Yeşilöz village, about 10 km southeast of Ürgüp. It is one of the Ürgüp-area monuments listed by the Ministry and sits in a landscape of rose-coloured tuff.",
+   "tip": "Remote and rarely visited; go by car and ask in the village if the door is locked.",
+   "q": "Aziz Theodore Kilisesi, Yeşilöz, Ürgüp, Nevşehir",
+   "ll": [
+    38.54728,
+    34.99008
+   ],
+   "src": [
+    "https://www.discovercappadocia.com/place/st-theodore-church",
+    "https://kureansiklopedi.com/tr/cocuk-detay/aziz-theodore-kilisesi-50366"
+   ]
+  },
+  {
+   "id": "sobesos",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the ruins of ancient Sobesos",
+   "desc": "A Late Antique city near Şahinefendi village, a bishopric centre under Leo VI, with a rock-cut Forty Martyrs church and mosaic floors. Excavations by the Ministry of Culture continue; the site dates from the 4th to the 10th century.",
+   "tip": "Admission has been free but signage is minimal. Reach it by car along the Damsa stream.",
+   "q": "Sobesos Antik Kenti, Şahinefendi Köyü, Ürgüp, Nevşehir",
+   "ll": [
+    38.439,
+    34.964
+   ],
+   "src": [
+    "https://kureansiklopedi.com/tr/detay/sobesos-antik-kenti-810fe",
+    "https://www.discovercappadocia.com/place/sobesos-ancient-city"
+   ]
+  },
+  {
+   "id": "kizilkilisivrihisar",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Red Church at Sivrihisar",
+   "desc": "A partially ruined cross-plan church of volcanic stone near Sivrihisar village on the Güzelyurt-Niğde road, dated between the 5th and 7th centuries. It has been on the World Monuments Watch since 2008 and was restored with international funding.",
+   "tip": "Standing alone in the fields, it is best in late afternoon light. About 8 km out of Güzelyurt.",
+   "q": "Kızıl Kilise, Sivrihisar, Güzelyurt, Aksaray",
+   "ll": [
+    38.25983,
+    34.42849
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/K%C4%B1z%C4%B1l_Kilise",
+    "https://wmf.org/node/16028"
+   ]
+  },
+  {
+   "id": "yaprakhisarkoy",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander Yaprakhisar village and its cave churches",
+   "desc": "A small village at the southern end of the Ihlara Valley whose name means Leaf Castle, with rock-cut family churches and tombs in the cliffs above. It is a common start for walks to Ihlara and the base of the Ziga springs.",
+   "tip": "Combine with the valley path to Ihlara, a half-day walk. Few services, so carry water.",
+   "q": "Yaprakhisar Köyü, Güzelyurt, Aksaray",
+   "ll": [
+    38.27695,
+    34.26791
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Yaprakhisar,_G%C3%BCzelyurt",
+    "https://turkeyfromtheinside.com/?p=2198"
+   ]
+  },
+  {
+   "id": "asikpasaturbesi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Aşık Paşa Mausoleum in Kırşehir",
+   "desc": "The 14th-century tomb of the Sufi poet Aşık Paşa, who died in 1332, standing on a hill in the city centre. It is part of the Kırşehir heritage of Ahi Evran and the bards.",
+   "tip": "Free to visit. Pair it with the Neşet Ertaş culture house and the Cacabey observatory.",
+   "q": "Âşık Paşa Türbesi, Kırşehir Merkez, Kırşehir",
+   "ll": [
+    39.15423,
+    34.17039
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/A%C5%9F%C4%B1k_Pasha_Mausoleum",
+    "https://kureansiklopedi.com/tr/detay/asik-pasa-turbesi"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "nesetertaskulturevi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Hear the legacy of Neşet Ertaş in Kırşehir",
+   "desc": "A museum-style culture house in the city centre honouring the bozlak master Neşet Ertaş, with a dedicated room and an android figure of the musician. Kırşehir is a UNESCO-recognised music city.",
+   "tip": "Combine with the open-air Neşet Ertaş Türkü Bahçesi. Check opening days beforehand.",
+   "q": "Neşet Ertaş Gönül Sultanları Kültür Evi, Atatürk Caddesi, Kırşehir Merkez, Kırşehir",
+   "ll": [
+    39.1458,
+    34.164
+   ],
+   "src": [
+    "https://kureansiklopedi.com/tr/detay/neset-ertas-gonul-sultanlari-kultur-evi-cbb32"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "okuzmehmetpasa",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander Öküz Mehmet Pasha Caravanserai in Ulukışla",
+   "desc": "An Ottoman külliye built in 1615-16 by a grand vizier who wintered here en route to Persia; locals called it the Great Barracks, which became the town's name. Restored in 2011, it holds an arasta bazaar, courtyard, mosque and hamam.",
+   "tip": "Now a working market and government offices. About 150 m north of the D750 highway.",
+   "q": "Öküz Mehmet Paşa Külliyesi, Ulukışla, Niğde",
+   "ll": [
+    37.54673,
+    34.48233
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/%c3%96k%c3%bcz_Mehmet_Pasha_Complex",
+    "https://turkeyfromtheinside.com/?p=4204"
+   ]
+  },
+  {
+   "id": "sultanhankayseri",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore Sultan Han on the Kayseri-Sivas road",
+   "desc": "A Seljuk caravanserai built 1232-1237 under Alaeddin Keykubad I, about 47 km northeast of Kayseri. Wikipedia calls it the second largest in Turkey; the courtyard has a free-standing mosque and the covered hall is richly carved.",
+   "tip": "Allow 45 minutes. Reach it by car along the Sivas road.",
+   "q": "Sultan Hanı, Tuzhisar, Sarıoğlan, Kayseri",
+   "ll": [
+    38.97292,
+    35.89528
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Sultan_Han_(Kayseri)",
+    "https://www.lonelyplanet.com/points-of-interest/sultan-han/1250330"
+   ]
+  },
+  {
+   "id": "karatayhan",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stop at Karatay Han on the Malatya road",
+   "desc": "A Seljuk caravanserai started under Keykubad I and finished in 1241 by the vizier Celaleddin Karatay, who added the courtyard and a mausoleum. It lies on the old road from Kayseri to Malatya.",
+   "tip": "Short roadside stop; ask about the key if the door is shut.",
+   "q": "Karatay Han, Karadayı Köyü, Kayseri",
+   "ll": [
+    38.64401,
+    35.93546
+   ],
+   "src": [
+    "https://aroundus.com/p/9645691-karatay-han",
+    "https://sites.courtauld.ac.uk/crossingfrontiers/crossing-frontiers/turkey/kayseri/karatay-han/"
+   ]
+  },
+  {
+   "id": "alayhan",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stop at the Seljuk Alay Han near Aksaray",
+   "desc": "A caravanserai on the Aksaray-Nevşehir road in Alayhanı village, linked to Kılıç Arslan II (1155-1192) and once called Pervane Han. It is among the earliest Seljuk hans and is split by the modern road; restoration began in 2008 and found the remains of a külliye.",
+   "tip": "Easy roadside stop between Aksaray and Cappadocia.",
+   "q": "Alay Hanı, Alayhanı, Aksaray Merkez, Aksaray",
+   "ll": [
+    38.51888,
+    34.35465
+   ],
+   "src": [
+    "https://www.wikipedia.org/wiki/Alayhan%C4%B1,_Aksaray",
+    "https://www.ancient-history-sites.com/?p=109004"
+   ]
+  },
+  {
+   "id": "nigdemuzesi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Hittite and Roman finds at Niğde Museum",
+   "desc": "A museum in the city centre with six halls of finds from Tyana (Kemerhisar) and Köşk Höyük, spanning Hittite, Hellenistic, Roman and Byzantine periods. Its current building was assigned in 2001.",
+   "tip": "A good rainy-day stop next to the Akmedrese. Check the current admission.",
+   "q": "Niğde Müzesi, Merkez, Niğde",
+   "ll": [
+    37.9859,
+    34.71648
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ni%C4%9Fde_Archaeological_Museum",
+    "https://kureansiklopedi.com/tr/detay/nigde-muzesi-5db8e"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "aksaraymuzesi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Meet the Aksaray stele and mummies at Aksaray Museum",
+   "desc": "An archaeology museum, renovated in 2014 with a chronological layout, home to the Late Hittite Aksaray stele with Luwian text and Byzantine-era mummies including cats. Its first collection began in the Zinciriye Medrese in 1969.",
+   "tip": "Entry is free for some visitor groups; about an hour is enough. Konya Caddesi, city centre.",
+   "q": "Aksaray Müzesi, Konya Caddesi, Aksaray Merkez, Aksaray",
+   "ll": [
+    38.36111,
+    33.99361
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Aksaray_Museum",
+    "https://hurriyetdailynews.com/aksaray-museum-home-to-cappadocia-history-65024"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nevsehirmuzesi",
+   "cat": "gor",
+   "area": "goreme",
+   "title": "Browse the Nevşehir Museum collection",
+   "desc": "A provincial archaeology and ethnography museum founded in 1967 in the Damat İbrahim Paşa complex and housed in the Kültür Sitesi since 1987. It displays finds from Cappadocian sites and local crafts.",
+   "tip": "Pair with the Kurşunlu Mosque and Nevşehir Castle in town.",
+   "q": "Nevşehir Müzesi, Merkez, Nevşehir",
+   "ll": [
+    38.62806,
+    34.725
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Nev%C5%9Fehir_Museum",
+    "https://turkishmuseums.kprod.kultur.gov.tr/museum/detail/2200-nevsehir-museum/2200/4"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nevsehirkalesi",
+   "cat": "gor",
+   "area": "goreme",
+   "title": "Climb Nevşehir Castle above the old town",
+   "desc": "A basalt-hill fortress in the old settlement, of Seljuk origin and repaired by Damat İbrahim Paşa, the grand vizier who made Nevşehir a city in the 1720s. The hilltop looks over the town and the Kurşunlu Mosque below.",
+   "tip": "Free and best at sunset. Park in the old town and walk up.",
+   "q": "Nevşehir Kalesi, Merkez, Nevşehir",
+   "ll": [
+    38.61989,
+    34.71301
+   ],
+   "src": [
+    "https://castles.nl/nevsehir-castle",
+    "https://www.enuygun.com/bilgi/nevsehir-de-gezilecek-yerler-1/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "buyukakten",
+   "cat": "gor",
+   "area": "goreme",
+   "title": "Tour the Büyükakten Underground House Museum in Ürgüp",
+   "desc": "A cave house museum in Ürgüp that opened in 2018, showing how a family lived inside the rock with stables, kitchens and storage rooms below ground.",
+   "tip": "Small museum, about 45 minutes; good in rain or heat.",
+   "q": "Büyükakten Yeraltı Evi Müzesi, Kılıçarslan Sokak No:22, Temenni Mahallesi, Ürgüp, Nevşehir",
+   "ll": [
+    38.63176,
+    34.91089
+   ],
+   "src": [
+    "https://showcaves.com/english/tr/subterranea/BuyukaktenMuseum.html",
+    "https://wanderlog.com/place/details/2060583/ürgüp-büyükakten-yeraltı-evi"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bebekmuzesi",
+   "cat": "gor",
+   "area": "goreme",
+   "title": "See 3,200 dolls at the Cappadocia Art and History Museum",
+   "desc": "A restored mansion in Mustafapaşa, bought in 2001 by doll artist Sibel Radiye Gül, displays about 3,200 folkloric dolls from around 80 countries along with local historical objects.",
+   "tip": "Allow 45 minutes. Close to the Greek churches of Mustafapaşa.",
+   "q": "Kapadokya Sanat ve Tarih Müzesi, Mustafapaşa, Ürgüp, Nevşehir",
+   "ll": [
+    38.5675,
+    34.894
+   ],
+   "src": [
+    "https://hurriyetdailynews.com/dolls-reflect-culture-of-countries-at-cappadocia-museum-168741",
+    "https://discovercappadocia.com/place/cappadocia-art-and-history-museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "manastirvadisi",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Monastery Valley at Güzelyurt",
+   "desc": "A 4-5 km valley east of Güzelyurt, formerly Gelveri, with dozens of rock-cut churches and monasteries linked to Gregory of Nazianzus. It is a quiet alternative to Ihlara.",
+   "tip": "Wear sturdy shoes; allow 2-3 hours.",
+   "q": "Manastır Vadisi, Güzelyurt, Aksaray",
+   "ll": [
+    38.27084,
+    34.36757
+   ],
+   "src": [
+    "https://kureansiklopedi.com/tr/detay/manastir-vadisi-08404",
+    "https://en.wikipedia.org/wiki/G%C3%BCzelyurt"
+   ]
+  },
+  {
+   "id": "zigathermal",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Soak in the Ziga hot springs near Ihlara",
+   "desc": "Thermal springs 1.5-2 km east of Yaprakhisar village, rising along the Ziga fault at 46-51 degrees C and used by hotels in the area, including Kapadokus Thermal.",
+   "tip": "Good after a day in the Ihlara Valley. Check hotel day-visit rules.",
+   "q": "Ziga Kaplıcaları, Yaprakhisar, Güzelyurt, Aksaray",
+   "ll": [
+    38.2995,
+    34.286
+   ],
+   "src": [
+    "https://kureansiklopedi.com/tr/detay/ziga-kaplicalari-a28d0"
+   ]
+  },
+  {
+   "id": "sarikayaroma",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Bathe in the 2,000-year-old Roman bath at Sarıkaya",
+   "desc": "Basilica Therma, also called Kral Kızı Hamamı, is a mid-2nd-century Roman bath in Sarıkaya, Yozgat, on UNESCO's tentative list since 2018. The pool is fed by a 45 degree C spring.",
+   "tip": "Visitors can bathe in the pool all year. Take a swimsuit.",
+   "q": "Basilica Therma Roma Hamamı, Kaplıca Mahallesi, Sarıkaya, Yozgat",
+   "ll": [
+    39.49492,
+    35.37631
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Basilica_Therma"
+   ]
+  },
+  {
+   "id": "kozaklithermal",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Take a thermal bath at Kozaklı",
+   "desc": "Kozaklı, north of Nevşehir, is a spa town with hot springs and a cluster of thermal hotels with pools, Turkish baths and mud baths.",
+   "tip": "Day passes are offered at larger hotels such as Kozaklı Grand Thermal. Prices vary, so call ahead.",
+   "q": "Kozaklı Kaplıcaları, Kozaklı, Nevşehir",
+   "ll": [
+    39.21474,
+    34.85321
+   ],
+   "src": [
+    "https://www.hotspringsguides.com/hot-springs/kozakli-thermal-springs-turkey",
+    "https://ktb.gov.tr/EN-99318/nevsehir.html"
+   ]
+  },
+  {
+   "id": "termekirsehir",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Soak at Terme Thermal Baths in Kırşehir",
+   "desc": "Terme spring in Kuşdilli, about 1 km from the city centre, has 12 wells with water at 30-57 degrees C and heats about 1,800 buildings. Hotels such as Grand Hotel Terme have separate thermal pools and hammams.",
+   "tip": "Open all year; the baths suit cold months.",
+   "q": "Terme Kaplıcası, Kuşdilli Mahallesi, Kırşehir Merkez, Kırşehir",
+   "ll": [
+    39.138,
+    34.186
+   ],
+   "src": [
+    "https://kureansiklopedi.com/tr/detay/terme-kaplicasi-d73b0"
+   ]
+  },
+  {
+   "id": "kizilirmakgondol",
+   "cat": "dene",
+   "area": "goreme",
+   "title": "Glide down the Kızılırmak by gondola in Avanos",
+   "desc": "Short gondola rides of 15-20 minutes on the calm stretch of Türkiye's longest river, passing under the Asma Bridge to a small island.",
+   "tip": "Evening light is calmest. Boats start near the bridge in Avanos.",
+   "q": "Kızılırmak, Asma Köprü, Avanos, Nevşehir",
+   "ll": [
+    38.71498,
+    34.83505
+   ],
+   "src": [
+    "https://www.hurriyetdailynews.com/cappadocia-visitors-enjoy-gondola-rides-on-kizilirmak-225506",
+    "https://www.ntv.com.tr/galeri/seyahat/turkiyenin-en-uzun-nehri-kizilirmakta-gondol-turu-ile-keyifli-dakikalar,yaHwmj-3yEymmBlzCcDV7Q"
+   ]
+  },
+  {
+   "id": "zincidere",
+   "cat": "dene",
+   "area": "kayseri",
+   "title": "Walk the trails of Zincidere above Talas",
+   "desc": "A nature valley in Talas district, Kayseri, with walking paths, a recreation area and a dam; local news report record crowds on holidays.",
+   "tip": "Best in spring and autumn. Check route and conditions with Talas Municipality.",
+   "q": "Zincidere, Talas, Kayseri",
+   "ll": [
+    38.64472,
+    35.58306
+   ],
+   "src": [
+    "https://www.gazetebirlik.com/yasam/220-bin-kisi-bayrami-orada-karsiladi-zincidere-doga-tutkunlarinin-bulusma-noktasi-oldu/1006991",
+    "https://mahalleportal.com/en/zincidere-talas-kayseri"
+   ]
+  },
+  {
+   "id": "erciyesbikepark",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the downhill trails of Erciyes Bike Park",
+   "desc": "Türkiye's first dedicated downhill bike park, on Erciyes above Tekir Yaylası at about 2,200 m, with 16 trails listed on Trailforks. It opened its 2021 season and hosts summer races.",
+   "tip": "Summer only; confirm operation and rentals with the ski resort before going.",
+   "q": "Erciyes Bike Park, Tekir Yaylası, Erciyes Bulvarı, Develi, Kayseri",
+   "ll": [
+    38.53921,
+    35.52776
+   ],
+   "src": [
+    "https://www.singletracks.com/bike-trails/erciyes-bike-park",
+    "https://www.trailforks.com/event/1771"
+   ]
+  },
+  {
+   "id": "cobanini",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike from Tekir Yaylası to Çoban İni on Erciyes",
+   "desc": "A mountain walk on Erciyes's east side from the ski centre at about 2,150 m to the Çoban İni camp, about 3 hours on foot, and the start of summit routes.",
+   "tip": "Summer is best; take layers and plenty of water.",
+   "q": "Erciyes Kayak Merkezi, Tekir Yaylası, Develi, Kayseri",
+   "ll": [
+    38.55872,
+    35.4778
+   ],
+   "src": [
+    "https://www.ktb.gov.tr/EN-99413/kayseri---mount-erciyes.html",
+    "https://blog.komoot.de/guide/35563/hiking-in-kayseri"
+   ]
+  },
+  {
+   "id": "emlivadisi",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Trek the Emli Valley in the Aladağlar",
+   "desc": "The classic base for Aladağlar climbing in Çamardı district, Niğde, with routes towards Demirkazık and over passes to Yedigöller. No public transport reaches the valley.",
+   "tip": "Best June to August; hire a car or taxi from Çamardı.",
+   "q": "Emli Vadisi, Çukurbağ, Çamardı, Niğde",
+   "ll": [
+    37.7665,
+    35.12056
+   ],
+   "src": [
+    "https://www.memurlar.net/haber/947447/dagcilarin-merkezi-emli-vadisi.html",
+    "https://atamanhotel.com/emli.html"
+   ]
+  },
+  {
+   "id": "yedigoller",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Trek to Yedigöller in the Aladağlar",
+   "desc": "Seven glacial lakes on a plateau at about 3,100 m in Aladağlar National Park, reached in 6-7 hours on foot from Ulupınar through the Hacer forest. Camping sites exist at Sarımemedin Yurdu and Yedigöller.",
+   "tip": "June to September only. Carry full camping or day equipment.",
+   "q": "Yedigöller, Hacer, Yahyalı, Kayseri",
+   "ll": [
+    37.81306,
+    35.22164
+   ],
+   "src": [
+    "https://wikipedia.com/wiki/Alada%C4%9Flar_National_Park",
+    "https://goturkiye.com/walking/aladaglar-national-park"
+   ]
+  }
+ ]
+}

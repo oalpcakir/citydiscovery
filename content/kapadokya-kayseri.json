@@ -1,0 +1,684 @@
+{
+ "new": [
+  {
+   "id": "kayserikalesi",
+   "cat": "gor",
+   "area": "kayseri",
+   "title": "Walk around Kayseri Citadel in black volcanic stone",
+   "desc": "The citadel in the middle of the city was built under Emperor Justinian in the 6th century and rebuilt by the Seljuks in the 13th century. It is made of dark Erciyes tuff and is the largest surviving part of the old defences.",
+   "tip": "Free to walk around; the inner courtyard is easiest in the evening when the walls are lit. It sits beside Cumhuriyet Meydanı, so combine it with the Kapalı Çarşı.",
+   "q": "Kayseri Kalesi, Cumhuriyet, Melikgazi, Kayseri",
+   "ll": [
+    38.72106,
+    35.48847
+   ],
+   "src": [
+    "https://turkeytravelplanner.com/go/CentralAnatolia/Kayseri/see/index.html",
+    "https://www.kayseri.bel.tr/uploads/kesfet/kultur-yolu/kultur_yolu_en.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hunathatun",
+   "cat": "gor",
+   "area": "kayseri",
+   "title": "Explore the Mahperi Hunat Hatun complex and its working hamam",
+   "desc": "A Seljuk complex of the 1230s built for Mahperi Hunat Hatun, wife of Sultan Alaeddin Keykubad. It holds a mosque, a medrese with a shady courtyard now used as a cafe, a tomb and a hamam that is still open.",
+   "tip": "Have tea in the medrese courtyard. The hamam has separate men's and women's sections.",
+   "q": "Mahperi Hunat Hatun Külliyesi, Cumhuriyet, Melikgazi, Kayseri",
+   "ll": [
+    38.72087,
+    35.49102
+   ],
+   "src": [
+    "https://en.wikipedia.com/wiki/Hunat_Hatun_Complex",
+    "https://www.lonelyplanet.com/turkey/kayseri/attractions/mahperi-hunat-hatun-complex/a/poi-sig/1082090/360876"
+   ],
+   "tags": []
+  },
+  {
+   "id": "gevhernesibe",
+   "cat": "gor",
+   "area": "kayseri",
+   "title": "Visit the Gevher Nesibe Medical Museum, a 1206 Seljuk hospital",
+   "desc": "Built between 1204 and 1206 for Princess Gevher Nesibe, this complex of a hospital (darüşşifa) and a medrese is often called the oldest surviving medical institution in the world. Today it is the Seljuk Civilisation Museum (Çifte Medrese) showing old treatments, including music therapy.",
+   "tip": "Allow an hour; the twin courtyards are the highlight. It is a short walk from the citadel.",
+   "q": "Gevher Nesibe Tıp Tarihi Müzesi, Gevher Nesibe, Melikgazi, Kayseri",
+   "ll": [
+    38.7241,
+    35.48417
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/%C3%87ifte_Medrese",
+    "https://www.dailysabah.com/feature/2017/12/16/13th-century-complex-offers-a-glimpse-of-seljuk-architecture-medical-practices"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "donerkumbet",
+   "cat": "gor",
+   "area": "kayseri",
+   "title": "Circle the Döner Kümbet, the \"rotating\" Seljuk tomb",
+   "desc": "The Döner Kümbet (Şah Cihan Hatun Tomb) is a 13th-century Seljuk mausoleum. The repeating motifs on its conical cap make it appear to rotate as you walk round it.",
+   "tip": "Free to view from outside; best in low evening light. Close to the Hunat Hatun and Gevher Nesibe complexes.",
+   "q": "Döner Kümbet, Gevher Nesibe, Melikgazi, Kayseri",
+   "ll": [
+    38.71411,
+    35.49575
+   ],
+   "src": [
+    "https://turkeytravelplanner.com/?p=5640",
+    "https://www.kayseri.bel.tr/uploads/kesfet/kultur-yolu/kultur_yolu_en.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "vezirhan",
+   "cat": "gor",
+   "area": "kayseri",
+   "title": "Step into Vezir Han and the Bedesten of old Kayseri",
+   "desc": "Vezir Han is an Ottoman caravanserai near the Ulu Cami, and the covered Bedesten next to it is one of the historic market buildings of Kayseri. Both are part of the old trading centre.",
+   "tip": "Mornings are quietest. Craft and souvenir stalls open from about 9:00.",
+   "q": "Vezir Han, Cumhuriyet, Melikgazi, Kayseri",
+   "ll": [
+    38.72006,
+    35.48631
+   ],
+   "src": [
+    "https://turkeytravelplanner.com/go/CentralAnatolia/Kayseri/see/index.html",
+    "https://www.kayseri.bel.tr/uploads/kesfet/kultur-yolu/kultur_yolu_en.pdf"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ataturkevikayseri",
+   "cat": "gor",
+   "area": "kayseri",
+   "title": "Visit the Atatürk House where he stayed in December 1919",
+   "desc": "A 19th-century stone mansion where Mustafa Kemal Atatürk stayed on his way to the Sivas Congress in December 1919. It is now a small museum with period rooms.",
+   "tip": "Free entry. It is close to the Güpgüpoğlu Konağı, so visit both together.",
+   "q": "Atatürk Evi, Tacettin Veli, Melikgazi, Kayseri",
+   "ll": [
+    38.71917,
+    35.49043
+   ],
+   "src": [
+    "https://turkeytravelplanner.com/go/CentralAnatolia/Kayseri/see/index.html"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "gupgupoglu",
+   "cat": "gor",
+   "area": "kayseri",
+   "title": "Tour the Güpgüpoğlu Konağı ethnography museum",
+   "desc": "One of the oldest and best preserved Kayseri houses, begun in the early 15th century. It now serves as the Ethnography Museum, showing the selamlık (guest quarters) and haremlik (family quarters) with period furnishings.",
+   "tip": "Closed Mondays in most seasons; check hours locally. The courtyard is the best part.",
+   "q": "Güpgüpoğlu Konağı Etnografya Müzesi, Tacettin Veli, Melikgazi, Kayseri",
+   "ll": [
+    38.71858,
+    35.49112
+   ],
+   "src": [
+    "https://turkeytravelplanner.com/go/CentralAnatolia/Kayseri/see/index.html",
+    "https://www.lonelyplanet.com/points-of-interest/historic-kayseri-neighbourhood/1538762"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "sahabiye",
+   "cat": "gor",
+   "area": "kayseri",
+   "title": "See the Sahabiye Medresesi, a 1267 Seljuk college",
+   "desc": "The Sahabiye Medrese was built in 1267-68 by the vizier Sahip Ata Fahreddin Ali. Its square plan and carved stone portal on the main square are typical late Seljuk work.",
+   "tip": "Free to look at from the square. Several craft shops now operate inside.",
+   "q": "Sahabiye Medresesi, Cumhuriyet Meydanı, Melikgazi, Kayseri",
+   "ll": [
+    38.72344,
+    35.48699
+   ],
+   "src": [
+    "https://dergipark.org.tr/en/download/article-file/627518",
+    "https://melikgazi.bel.tr/en/our-history"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "surpkrikor",
+   "cat": "gor",
+   "area": "kayseri",
+   "title": "Visit the Surp Krikor Lusavoriç Armenian church",
+   "desc": "One of the best preserved Armenian churches in Türkiye, dedicated to St Gregory the Illuminator and rebuilt in 1834. It still holds services a couple of times a year.",
+   "tip": "Usually locked outside service days; ask at the tourist office or nearby shops for the key. Photograph the exterior in any case.",
+   "q": "Surp Krikor Lusavoriç Kilisesi, Tacettin Veli, Melikgazi, Kayseri",
+   "ll": [
+    38.71179,
+    35.48427
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/turkey/kayseri/attractions/surup-krikor-lusavoric-kilise/a/poi-sig/1250283/360876",
+    "https://wowcappadocia.com/surp-krikor-lusavoric-armenian-church.html"
+   ],
+   "tags": []
+  },
+  {
+   "id": "agirnassinan",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Find Mimar Sinan's birthplace in Ağırnas",
+   "desc": "Ağırnas is the village where the great Ottoman architect Mimar Sinan was born around 1490 and lived until about 22. His house, probably 15th century, has been restored as a small museum.",
+   "tip": "About 25 km from the city centre; go by car or dolmuş. A guide often opens the house, and the village is nicest on a spring afternoon.",
+   "q": "Mimar Sinan Evi, Ağırnas Mahallesi, Melikgazi, Kayseri",
+   "ll": [
+    38.81541,
+    35.71425
+   ],
+   "src": [
+    "https://www.istiklal.com.tr/foto-galeri/mimar-sinanin-dogdugu-muze-ev-2021de-70-bin-ziyaretciyi-agirladi-928004h"
+   ],
+   "tags": []
+  },
+  {
+   "id": "agirnasprokopios",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander the stone lanes and St Procopius church of Ağırnas",
+   "desc": "Ağırnas has old stone houses, an underground city, a former linseed-oil workshop and the Church of St Procopius from 1857, restored as a cultural centre. The village was historically Greek Orthodox and Turkish.",
+   "tip": "Walk the lanes after seeing Sinan's house. There are few services, so bring water.",
+   "q": "Aya Prokopios Kilisesi, Ağırnas Mahallesi, Melikgazi, Kayseri",
+   "ll": [
+    38.657,
+    35.3735
+   ],
+   "src": [
+    "https://www.cnnturk.com/seyahat/turkiye/mimar-sinanin-memleketi-agirnas-kasabasi-631674"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kultepekanis",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stand on the mound of Kültepe, ancient Kaniş",
+   "desc": "Kültepe was Kaniş (Nesa), a major Assyrian trading colony (karum) around 1900 BC. Thousands of cuneiform clay tablets found here are among the earliest written records in Anatolia.",
+   "tip": "About 20 km northeast of Kayseri; take a taxi or dolmuş. Many finds are in the Kayseri and Ankara museums, so read up first.",
+   "q": "Kültepe Kaniş-Karum Ören Yeri, Karahöyük, Kocasinan, Kayseri",
+   "ll": [
+    38.85065,
+    35.63464
+   ],
+   "src": [
+    "https://goturkiye.com/kayseri/see",
+    "https://turkeytravelplanner.com/?p=5640"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ulucamikayseri",
+   "cat": "gor",
+   "area": "kayseri",
+   "title": "Visit Kayseri Ulu Cami, the 12th-century Great Mosque",
+   "desc": "Begun by the Danishmend rulers in the 12th century and completed under the Seljuks, Kayseri's Ulu Cami is one of the oldest great mosques in Anatolia. It stands at the heart of the old city near the citadel.",
+   "tip": "Dress modestly and avoid prayer times, particularly Friday midday.",
+   "q": "Kayseri Ulu Camii, Cumhuriyet, Melikgazi, Kayseri",
+   "ll": [
+    38.72005,
+    35.48572
+   ],
+   "src": [
+    "https://melikgazi.bel.tr/en/our-history"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kapuzbasi",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Trek to the Kapuzbaşı waterfalls in Aladağlar National Park",
+   "desc": "Seven falls drop between 30 and 70 metres in the mountains of Yahyalı district. They are among Türkiye's most powerful waterfalls by flow.",
+   "tip": "Plan a full day from Kayseri, roughly 75 km of road beyond Yahyalı. Best in late spring when the flow is highest; roads can be closed in winter.",
+   "q": "Kapuzbaşı Şelaleleri, Yahyalı, Kayseri",
+   "ll": [
+    37.81589,
+    35.37804
+   ],
+   "src": [
+    "https://www.ntv.com.tr/yasam/kayserideki-kapuzbasi-selaleleri-yogun-ilgi-goruyor-1700291"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "erciyesski",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ski the slopes of Erciyes, Central Anatolia's big mountain",
+   "desc": "Erciyes Ski Resort sits on the flank of the 3,917 m volcano, 20 to 25 minutes from the city, with high-speed chairlifts and runs for all levels. Its season is long, usually December to April.",
+   "tip": "Rent gear at the base and take the shuttle from Kayseri. Weekdays are quietest.",
+   "q": "Erciyes Kayak Merkezi, Tekir Yaylası, Develi, Kayseri",
+   "ll": [
+    38.55872,
+    35.4778
+   ],
+   "src": [
+    "https://goturkiye.com/skiing/erciyes",
+    "https://www.dailysabah.com/travel/2019/01/05/cappadocia-mt-erciyes-turkeys-hottest-winter-destinations"
+   ],
+   "tags": [],
+   "months": [
+    12,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "erciyessummit",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Climb Mount Erciyes (3,917 m) in summer",
+   "desc": "Erciyes is the highest peak of Central Anatolia, a dormant stratovolcano. The summer ridge route starts around 2,600 m and has loose volcanic rock, taking about 8 hours round trip.",
+   "tip": "Go July to September only; start before dawn and check weather. A local guide is advised for the crest route.",
+   "q": "Erciyes Dağı Zirve Yolu, Tekir Yaylası, Develi, Kayseri",
+   "ll": [
+    38.54055,
+    35.52705
+   ],
+   "src": [
+    "https://www.ktb.gov.tr/EN-99413/kayseri---mount-erciyes.html"
+   ],
+   "tags": [],
+   "months": [
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "sultansazligi",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch flamingos at the Sultan Sazlığı bird reserve",
+   "desc": "This wetland national park lies where the Develi, Yahyalı and Yeşilhisar districts meet. It hosts more than 250 bird species, including greater flamingos and purple swamphens.",
+   "tip": "Spring (April to June) and autumn migration are best. There are observation towers and a small bird museum; bring binoculars.",
+   "q": "Sultan Sazlığı Milli Parkı, Yeşilhisar, Kayseri",
+   "ll": [
+    38.32246,
+    35.2829
+   ],
+   "src": [
+    "https://www.ktb.gov.tr/EN-99906/kayseri---sultansazligi-nature-reserve.html"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    3,
+    4,
+    5,
+    6,
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "id": "kayseritramtalas",
+   "cat": "dene",
+   "area": "kayseri",
+   "title": "Ride the tram from Cumhuriyet Meydanı up to Eski Talas",
+   "desc": "The Kayseri tram runs from the main square towards Talas. Eski Talas is a hillside district of old stone mansions once owned by Greek and Armenian merchants, now with cafes and cultural houses.",
+   "tip": "Get off at the Talas stops and walk uphill; the Yaman Dede art house is a good stop.",
+   "q": "Eski Talas, Talas, Kayseri",
+   "ll": [
+    38.68935,
+    35.5643
+   ],
+   "src": [
+    "https://turkeyfromtheinside.com/?p=2047",
+    "https://wanderlog.com/place/details/11363393/yaman-dede-culture-and-art-house"
+   ],
+   "tags": []
+  },
+  {
+   "id": "kapalicarsi",
+   "cat": "dene",
+   "area": "kayseri",
+   "title": "Shop pastırma and sucuk in the 800-year-old Kapalı Çarşı",
+   "desc": "Kayseri's covered bazaar has traded for around 800 years, and families have run shops there for generations. Kayseri pastırma and sucuk have EU geographical indication status and are the main buy.",
+   "tip": "Ask to taste a slice before buying; shops will vacuum-pack for travel.",
+   "q": "Kapalı Çarşı, Cumhuriyet, Melikgazi, Kayseri",
+   "ll": [
+    38.72058,
+    35.48722
+   ],
+   "src": [
+    "https://www.haberler.com/uc-kusaktir-pastirmacilikla-ugrasiyorlar-12337759-haberi/",
+    "https://www.flypgs.com/en/city-guide/shopping-in-kayseri-best-souvenirs-to-buy"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bunyancarpet",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Look at hand-woven carpets in Bünyan",
+   "desc": "Bünyan, about 40 km east of Kayseri, is known for its hand-woven wool and silk carpets and its historic stone bridges. Weaving workshops and shops sell Bünyan rugs.",
+   "tip": "Visit on a weekday when shops are open; ask for a loom demonstration.",
+   "q": "Bünyan Halı Çarşısı, Bünyan, Kayseri",
+   "ll": [
+    38.8533,
+    35.8636
+   ],
+   "src": [
+    "https://enuygun.com/bilgi/kayseri-de-gezilecek-yerler-1",
+    "https://wanderlog.com/tp/88946/kayseri-province-trip-planner"
+   ],
+   "tags": []
+  },
+  {
+   "id": "elmacioglucarsi",
+   "cat": "ye",
+   "area": "kayseri",
+   "title": "Eat yağlama and Kayseri mantı at Elmacıoğlu İskender",
+   "desc": "A well known Kayseri restaurant for İskender, yağlama, mantı and yaprak sarma. The Çarşı branch is on Millet Caddesi beside Cumhuriyet Meydanı.",
+   "tip": "Order the yağlama or İskender; the Çarşı branch is the handiest after the bazaar.",
+   "q": "Elmacıoğlu İskender, Millet Caddesi No:5, Cumhuriyet, Melikgazi, Kayseri",
+   "ll": [
+    38.72014,
+    35.50146
+   ],
+   "src": [
+    "https://uk.trip.com/restaurant/trkiye/kayseri/detail/elmacioglu-iskender-19825815"
+   ],
+   "tags": []
+  },
+  {
+   "id": "hayrullahpastirma",
+   "cat": "ye",
+   "area": "kayseri",
+   "title": "Taste pastırma and sucuk at Pastırmacı Hayrullah, since 1934",
+   "desc": "A shop on Cumhuriyet Meydanı that has made Kayseri pastırma and sucuk by traditional methods since 1934. It is a long-standing address for locals and visitors.",
+   "tip": "Try kağıtta pastırma (pastırma baked in paper) or buy sliced pastırma to take home.",
+   "q": "Pastırmacı Hayrullah, Cumhuriyet Meydanı, Melikgazi, Kayseri",
+   "ll": [
+    38.724,
+    35.4884
+   ],
+   "src": [
+    "https://www.posta.com.tr/kayseri-yeme-icme-kayseri-de-nerede-ne-yenir-haber-fotograf-1402856-10,"
+   ],
+   "tags": []
+  },
+  {
+   "id": "alametifarika",
+   "cat": "ye",
+   "area": "kayseri",
+   "title": "Have tepsi mantısı in the restored konak Alamet-i Farika",
+   "desc": "A restaurant in a restored historic mansion on Setenönü Caddesi in the old city. Known for yağlama, Kayseri mantısı and tepsi mantısı, plus a big village breakfast.",
+   "tip": "Book ahead, especially at weekends. Order tepsi mantısı (baked, crisp mantı).",
+   "q": "Alamet-i Farika Restaurant, Deliklitaş Caddesi, Talas Caddesi, Melikgazi, Kayseri",
+   "ll": [
+    38.7203,
+    35.483
+   ],
+   "src": [
+    "https://app.wanderlog.com/place/details/2818934"
+   ],
+   "tags": []
+  },
+  {
+   "id": "bagdatpoctandir",
+   "cat": "ye",
+   "area": "kayseri",
+   "title": "Eat pöç tandır and nevzine at Bağdat Pöç Tandır",
+   "desc": "A restaurant near the old bazaar serving pöç kebabı, a Kayseri tandır-style meat dish, and the local dessert nevzine, made with walnuts and molasses.",
+   "tip": "Go early; it can sell out by mid-afternoon, so phone ahead if possible.",
+   "q": "Bağdat Pöç Tandır, Vatan Caddesi, Kiçikapı, Melikgazi, Kayseri",
+   "ll": [
+    38.7181,
+    35.4875
+   ],
+   "src": [
+    "https://www.bizevdeyokuz.com/kayseri-ne-yenir-nerede-yenir/",
+    "https://wanderlog.com/place/details/1925282/bağdat-pöç-tandir"
+   ],
+   "tags": []
+  },
+  {
+   "id": "kayserimutfagi",
+   "cat": "ye",
+   "area": "kayseri",
+   "title": "Try classic el mantısı at Kayseri Mutfağı",
+   "desc": "A restaurant focused on Kayseri mantısı in several forms, from tiny hand-made mantı to tepsi mantısı, plus yağlama.",
+   "tip": "Start with classic mantı with yoghurt and sumac butter, then compare the tepsi version.",
+   "q": "Kayseri Mutfağı, Alpaslan, Orgeneral Eşref Bitlis Bulvarı, Melikgazi, Kayseri",
+   "ll": [
+    38.72816,
+    35.49158
+   ],
+   "src": [
+    "https://yemek.com/kayseride-manti-nerede-yenir/",
+    "https://yemek.com/kayseride-en-guzel-yaglama-nerede-yenir/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "mutfaksanatlari",
+   "cat": "ye",
+   "area": "kayseri",
+   "title": "Sample piruhi and tepsi mantısı at Mutfak Sanatları Merkezi",
+   "desc": "A municipal culinary centre-restaurant in Erenköy serving classic Kayseri mantı, tepsi mantı, piruhi and other regional dishes.",
+   "tip": "A good spot to compare several mantı styles in one sitting.",
+   "q": "Mutfak Sanatları Merkezi, Recep Tayyip Erdoğan Millet Bahçesi, Melikgazi, Kayseri",
+   "ll": [
+    38.7172,
+    35.507
+   ],
+   "src": [
+    "https://www.dha.com.tr/foto-galeri/kayseri-mutfaginin-yoresel-lezzetlerini-msm-isimli-robot-tasiyor-2720808"
+   ],
+   "tags": []
+  },
+  {
+   "id": "basyazici",
+   "cat": "ye",
+   "area": "kayseri",
+   "title": "Start the day with yağlama and sucuk içi at Başyazıcı",
+   "desc": "A mantı and yağlama house attached to a pastırma and sucuk maker in Kocasinan, open from 07:00. The menu includes mantı, yağlama, tost, sucuk içi and meze.",
+   "tip": "Good for a savoury breakfast: yağlama with a glass of ayran.",
+   "q": "Başyazıcı Mantı Yağlama Evi, Şeker Mahallesi, Osman Kavuncu Bulvarı 6107. Sokak No:1, Kocasinan, Kayseri",
+   "ll": [
+    38.745,
+    35.47
+   ],
+   "src": [
+    "https://yemek.com/kayseride-en-guzel-yaglama-nerede-yenir/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "kirkkasik",
+   "cat": "ye",
+   "area": "kayseri",
+   "title": "Eat thin-dough mantı at Kırk Kaşık Mantı Evi in Talas",
+   "desc": "A small mantı house in Talas known for classic mantı, tepsi mantı and yağlama. Reviews praise the thin dough and the yoghurt served separately.",
+   "tip": "Order classic mantı first; the name refers to the traditional forty spoonfuls per bowl.",
+   "q": "Kırk Kaşık Mantı Evi, Bahçelievler Caddesi No:4/D, Bahçelievler, Talas, Kayseri",
+   "ll": [
+    38.699,
+    35.526
+   ],
+   "src": [
+    "https://yemek.com/kayseride-manti-nerede-yenir/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "gubate",
+   "cat": "ye",
+   "area": "kayseri",
+   "title": "Taste Kayseri and Circassian dishes at Gubate",
+   "desc": "A Talas restaurant combining Kayseri and Çerkes cuisine: mantı, tepsi mantısı, patatesli psihalive and kıymalı gurize.",
+   "tip": "Weekend breakfast is crowded; arrive early or book.",
+   "q": "Gubate Restaurant, Mevlana, Mehmet Akif Ersoy Caddesi, Talas, Kayseri",
+   "ll": [
+    38.70097,
+    35.55307
+   ],
+   "src": [
+    "https://yemek.com/kayseride-manti-nerede-yenir/",
+    "https://yolcu360.com/blog/kayseride-ne-yenir/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "yaglamanti",
+   "cat": "ye",
+   "area": "kayseri",
+   "title": "Order kurşun aşı soup and yağlama at YağlaMantı",
+   "desc": "A Talas restaurant built around yağlama and mantı, also known for tepsi mantısı, yağ mantısı, içli köfte and kurşun aşı çorbası.",
+   "tip": "Share a mixed plate of mantı and yağlama with a bowl of the soup.",
+   "q": "YağlaMantı, Mehmet Akif Ersoy Caddesi 26/D, Mevlana, Talas, Kayseri",
+   "ll": [
+    38.6985,
+    35.541
+   ],
+   "src": [
+    "https://yemek.com/kayseride-en-guzel-yaglama-nerede-yenir/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "dostlarmanti",
+   "cat": "ye",
+   "area": "kayseri",
+   "title": "Share a plate of Kayseri mantı at Dostlar Mantı Evi",
+   "desc": "A small mantı house in Talas listed on Wanderlog for Kayseri-style mantı. Talas is the old hillside district east of the centre, known for its mantı houses.",
+   "tip": "Ask for yoghurt and sumac on the side and go before the lunch rush.",
+   "q": "Dostlar Mantı Evi, Talas, Kayseri",
+   "ll": [
+    38.6935,
+    35.534
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/11648076/dostlar-mantı-evi"
+   ]
+  },
+  {
+   "id": "bereketcivikli",
+   "cat": "ye",
+   "area": "kayseri",
+   "title": "Eat Develi cıvıklısı at Bereket Develi Cıvıklısı",
+   "desc": "Cıvıklı is a Develi speciality, a stew of lamb, tomatoes and peppers cooked with flour and served with bread. Bereket in Gültepe is cited as one of the best-known places for it.",
+   "tip": "Order cıvıklı with bread and ayran for lunch.",
+   "q": "Bereket Develi Cıvıklısı, Gültepe Mahallesi, Şehit Üsteğmen Mustafa Şimşek Caddesi, Melikgazi, Kayseri",
+   "ll": [
+    38.737,
+    35.515
+   ],
+   "src": [
+    "https://www.bizevdeyokuz.com/kayseri-ne-yenir-nerede-yenir/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "divanpastirma",
+   "cat": "ye",
+   "area": "kayseri",
+   "title": "Buy pastırma at Divan Pastırma ve Sucuk",
+   "desc": "A highly rated pastırma and sucuk shop (about 4.7 on Google) recommended for quality Kayseri pastırma.",
+   "tip": "Ask for sliced pastırma and a piece of sucuk; they pack for travel.",
+   "q": "Divan Pastırma ve Sucuk, Mevlevi Caddesi 23/C, Cumhuriyet Mahallesi, Melikgazi, Kayseri",
+   "ll": [
+    38.725,
+    35.49
+   ],
+   "src": [
+    "https://wanderlog.com/list/geoCategory/1638003"
+   ],
+   "tags": []
+  },
+  {
+   "id": "cemennevzine",
+   "cat": "ye",
+   "area": "kayseri",
+   "title": "Finish with nevzine dessert at Çemen's",
+   "desc": "Çemen's is listed as a place for nevzine, the Kayseri walnut and molasses sweet, and for tepsi mantısı, tandır böreği and çemenli ekmek.",
+   "tip": "Nevzine is dense and sweet; share one portion with tea.",
+   "q": "Çemen's Gurme ve Mutfak, Mehmet Akif Ersoy Caddesi, Mevlana, Talas, Kayseri",
+   "ll": [
+    38.699,
+    35.5405
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/2695849/çemens-gurme-ve-mutfak"
+   ],
+   "tags": []
+  },
+  {
+   "id": "kafesinan",
+   "cat": "ye",
+   "area": "kayseri",
+   "title": "Have breakfast and yağlama in the garden of Kafe Sinan",
+   "desc": "A municipal cafe in Kocasinan with a large garden, affordable everyday dishes, breakfast, desserts, yaprak sarma and yağlama, with gluten-free options.",
+   "tip": "Good value for a sit-down breakfast away from the centre.",
+   "q": "Kafe Sinan, Barbaros, 3305. Sokak, Kocasinan, Kayseri",
+   "ll": [
+    38.74103,
+    35.47393
+   ],
+   "src": [
+    "https://yolcu360.com/blog/kayseride-ne-yenir/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "lezzetmantitalas",
+   "cat": "ye",
+   "area": "kayseri",
+   "title": "Try tepsi mantısı at Lezzet Mantı Evi in Talas",
+   "desc": "A Talas mantı restaurant rated 4.9 from nearly 600 votes on Restaurant Guru. It serves the classic Kayseri mantı and related dishes.",
+   "tip": "Order a portion to share and eat it with yoghurt and chilli butter.",
+   "q": "Lezzet Mantı Evi, Talas, Kayseri",
+   "ll": [
+    38.695,
+    35.533
+   ],
+   "src": [
+    "https://es.restaurantguru.com/Talas"
+   ]
+  }
+ ]
+}

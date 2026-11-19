@@ -1,0 +1,868 @@
+{
+ "new": [
+  {
+   "id": "bursaulucami",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Count the twenty domes of the Ulu Cami",
+   "desc": "Bursa's Grand Mosque was ordered by Sultan Bayezid I after his 1396 victory at Nicopolis and finished around 1399. Twenty domes on twelve pillars cover the prayer hall, and tradition says Emir Sultan persuaded the sultan to build one big mosque instead of twenty small ones.",
+   "tip": "Free to enter outside prayer times; cover your shoulders and knees. Look for the huge calligraphy panels and the covered ablution fountain inside the hall.",
+   "q": "Ulu Cami, Ulu Mahallesi, Atatürk Caddesi, Osmangazi, Bursa",
+   "ll": [
+    40.18413,
+    29.0628
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Grand_Mosque_of_Bursa",
+    "https://bursa.com.tr/en/mekan/the-grand-mosque-40"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bursakozahan",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Wander the silk courtyard of Koza Han",
+   "desc": "Koza Han, the Silk Cocoon Inn, was built in the 1490s on the order of Bayezid II and was for centuries the centre of Bursa's cocoon trade. A small mescit stands on a fountain in the middle of the courtyard, ringed by two floors of arcades.",
+   "tip": "Silk scarves and Bursa towels are sold upstairs, and the ground-floor courtyard has tea tables. Come in the morning before tour groups.",
+   "q": "Koza Han, Ulu Mahallesi, Atatürk Caddesi, Osmangazi, Bursa",
+   "ll": [
+    40.18455,
+    29.06455
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Koza_Han",
+    "https://hurriyetdailynews.com/bursas-koza-han-a-center-for-silk-trade-19158"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bursayesilcami",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the blue and green tiles of Yeşil Cami and Türbe",
+   "desc": "The Yeşil complex was built for Sultan Mehmed I from about 1419 and is credited to the architect Hacı İvaz Pasha. The mosque is famed for its early Ottoman tilework, and the neighbouring Green Tomb holds Mehmed I and several of his children under turquoise tiles.",
+   "tip": "Free entry; the tomb sits on a terrace just uphill from the mosque. Pair it with the museum in the former medrese next door.",
+   "q": "Yeşil Cami ve Türbesi, Yeşil Mahallesi, Yıldırım, Bursa",
+   "ll": [
+    40.18147,
+    29.07491
+   ],
+   "src": [
+    "https://www.bursa.com.tr/en/mekan/cakiraga-turkish-bath-418/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bursaemirsultan",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit Emir Sultan Mosque on its hillside",
+   "desc": "Emir Sultan, a Bukhara scholar and son-in-law of Bayezid I, lies in an octagonal tomb beside the mosque that bears his name. The building was rebuilt after earthquakes, in 1804 and again in the 1860s, in a Baroque-influenced style unusual for Bursa.",
+   "tip": "Locals come at dusk for the view over the Bursa plain from the terrace. Free entry; dress modestly.",
+   "q": "Emir Sultan Camii, Emirsultan Mahallesi, Yıldırım, Bursa",
+   "ll": [
+    40.18111,
+    29.08104
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Emir_Sultan_Mosque",
+    "https://visitbursa.org/mekanlar/emir-sultan-kulliyesi-615"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bursamuradiye",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk among the sultans' tombs at Muradiye",
+   "desc": "Murad II commissioned the Muradiye complex in the 1420s; it holds a mosque, medrese, bath and a garden of twelve tombs where dozens of Ottoman family members rest. Murad II is buried under an open dome, and the tombs of Şehzade Mustafa and Mahidevran Hatun have Iznik tile panels.",
+   "tip": "Entry to the tombs is free. A quiet corner of the city, with tea gardens and old wooden houses in the streets around.",
+   "q": "Muradiye Külliyesi, Muradiye Mahallesi, Osmangazi, Bursa",
+   "ll": [
+    40.19203,
+    29.04472
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Muradiye_Complex",
+    "https://bursa.com.tr/en/mekan/muradiye-murad-ii-complex-102"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bursatophane",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Pay respects at the tombs of Osman and Orhan Gazi",
+   "desc": "The founder of the Ottoman dynasty and his son Orhan are buried side by side in Tophane Park, on the old citadel hill. The clock tower beside them dates from 1905, and the terraces give a wide view of Bursa and Uludağ.",
+   "tip": "Free; remove shoes inside the tombs and cover your head if you wish. Go late afternoon for the light on the plain.",
+   "q": "Osman Gazi ve Orhan Gazi Türbeleri, Tophane Parkı, Osmangazi, Bursa",
+   "ll": [
+    40.18662,
+    29.05755
+   ],
+   "src": [
+    "https://www.advantour.com/turkey/bursa/osman-gazi-and-orhan-gazi-tombs.htm",
+    "https://thebestofbursa.com/tophane-clock-tower/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bursairgandi",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Browse the craft shops on Irgandı Bridge",
+   "desc": "This bridge over the Gökdere was built in 1442 by a merchant named Müslihiddin and carries rows of shops on its deck. After a 2004 restoration it houses craft workshops selling ceramics, jewellery and wood carving.",
+   "tip": "Walk the bridge in the evening when the lights come on, then have tea in the small gardens by the river.",
+   "q": "Irgandı Köprüsü, Setbaşı, Osmangazi, Bursa",
+   "ll": [
+    40.18192,
+    29.07085
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Irgand%C4%B1_Bridge",
+    "https://bursa.com.tr/en/mekan/irgandi-bridge-275"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bursakentmuzesi",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Trace Bursa's story in the City Museum",
+   "desc": "The Bursa City Museum occupies the former courthouse, finished in 1926, and tells the city's history in chronological galleries. It has a large city model and figures of the early sultans.",
+   "tip": "Closed on Mondays; allow about an hour. Good on a rainy day, and a short walk from Heykel.",
+   "q": "Bursa Kent Müzesi, Hocaalizade, Kültür Sokak, Osmangazi, Bursa",
+   "ll": [
+    40.18239,
+    29.06644
+   ],
+   "src": [
+    "https://bursa.com.tr/en/mekan/bursa-city-museum-240",
+    "https://www.advantour.com/turkey/bursa/city-museum.htm"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bursapanorama1326",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Enter the 1326 conquest at Panorama 1326",
+   "desc": "This museum under a 42 m dome opened in November 2018 and shows the Ottoman conquest of Bursa in 1326 as a full-circle panorama with sound and light. The municipality built it as one of the largest panoramic museums in the world.",
+   "tip": "Indoors, so good in bad weather; check opening hours and ticket price on the Bursa tourism site before going.",
+   "q": "Panorama 1326 Bursa Fetih Müzesi, Osmangazi, Bursa",
+   "ll": [
+    40.18642,
+    29.07516
+   ],
+   "src": [
+    "https://bursa.com.tr/en/mekan/panorama-1326-bursa-conquest-museum-253",
+    "https://visitbursa.org/mekanlar/panorama-1326-bursa-fetih-muzesi-253"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bursaturkislammuze",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Museum of Turkish and Islamic Art",
+   "desc": "The museum fills the Yeşil Medrese built by Mehmed I, with a courtyard pool and cells around it. Its 1,200 or so objects from the 13th to 20th centuries include Ottoman manuscripts, ceramics, textiles and a Mamluk-era Quran.",
+   "tip": "Combine with the Yeşil Cami just across the lane; closed Mondays.",
+   "q": "Türk İslam Eserleri Müzesi, Yeşil Medrese, Yeşil Mahallesi, Yıldırım, Bursa",
+   "ll": [
+    40.18158,
+    29.07311
+   ],
+   "src": [
+    "https://www.wikiwand.com/en/articles/Bursa_Museum_of_Turkish_and_Islamic_Art",
+    "https://turkishmuseums.kprod.kultur.gov.tr/museum/detail/2015-bursa-turkish-and-islamic-arts-museum/2015/4"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bursatofasmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See Anatolian carriages at the Tofaş Museum",
+   "desc": "Opened in 2002 by the carmaker Tofaş, this museum in Umurbey follows the wheel from ox carts to modern cars, including an Ottoman tulumbacı fire cart. It sits in a group of restored historic buildings, one of them a hamam used as an art gallery.",
+   "tip": "Free entry; open Tuesday to Sunday, closed Mondays.",
+   "q": "Tofaş Bursa Anadolu Arabaları Müzesi, Umurbey, Yıldırım, Bursa",
+   "ll": [
+    40.17651,
+    29.07103
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Tofa%C5%9F_Museum_of_Cars_and_Anatolian_Carriages",
+    "https://www.advantour.com/turkey/bursa/tofas-anadolu-arabalari-muzesi.htm"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bursaorhangazicami",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step into Orhan Gazi Mosque, the first Ottoman külliye",
+   "desc": "Built in 1339-40 by Orhan I, this is generally counted as the first Ottoman külliye. It was the nucleus around which the bazaar and the hans grew.",
+   "tip": "It sits in the middle of the bazaar next to Emir Han; free entry, and easy to combine with Koza Han.",
+   "q": "Orhan Gazi Camii, Hocaalizade, Osmangazi, Bursa",
+   "ll": [
+    40.18397,
+    29.06411
+   ],
+   "src": [
+    "https://next.archnet.org/sites/1912",
+    "https://islamansiklopedisi.org.tr/orhan-gazi-kulliyesi"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bursayildirimkulliye",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb to the Yıldırım Bayezid Complex",
+   "desc": "Bayezid I built this complex on a hill between 1390 and 1395, with a mosque in reverse-T plan, a medrese, a hamam and his tomb from 1406. The second minaret was never built, and the original was lost in the 1855 earthquake.",
+   "tip": "Free; the hill gives views across the valley to the Ulu Cami. Do not confuse it with the Ulu Cami in the centre.",
+   "q": "Yıldırım Camii, Yıldırım Mahallesi, Yıldırım, Bursa",
+   "ll": [
+    40.18751,
+    29.08243
+   ],
+   "src": [
+    "https://www.archnet.org/sites/1905",
+    "https://islamansiklopedisi.org.tr/yildirim-kulliyesi"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bursahudavendigar",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Hüdavendigar Mosque in Çekirge",
+   "desc": "Murad I began this complex in Çekirge in the 1360s, and its endowment deed dates to 1385. A mosque with an upper-storey medrese, it is one of the earliest Ottoman complexes in the city.",
+   "tip": "Free; combine with a soak in the Çekirge baths and a walk through the thermal district.",
+   "q": "Hüdavendigar Camii, Çekirge, Osmangazi, Bursa",
+   "ll": [
+    40.20286,
+    29.00482
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/H%C3%BCdavendigar_Mosque",
+    "https://archnet.org/sites/1909"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bursaataturkhouse",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Tour the Atatürk House Museum",
+   "desc": "This 1895 house across from Kültürpark was bought by the city and presented to Atatürk on his January 1923 visit. It still holds mostly the original furnishings from his stays in the 1920s and 1930s.",
+   "tip": "Combine with a stroll in Kültürpark; check opening days, as many Bursa museums close on Mondays.",
+   "q": "Atatürk Evi Müzesi, Atatürk Caddesi, Osmangazi, Bursa",
+   "ll": [
+    40.19513,
+    29.03987
+   ],
+   "src": [
+    "https://turkishmuseums.com/museum/detail/2011-bursa-ataturk-evi-muzesi/2011/4",
+    "https://www.lonelyplanet.com/points-of-interest/atatuerk-house/474292"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bursaarchaeology",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Bursa Archaeology Museum in Kültürpark",
+   "desc": "The museum moved into a purpose-built building in Kültürpark in 1972 and reopened in 2013 after restoration. Its collections cover the region from prehistoric times to the Byzantine era, including finds from ancient Bithynia.",
+   "tip": "Closed on Mondays; the fee is low. A good rainy-day stop inside the park.",
+   "q": "Bursa Arkeoloji Müzesi, Kültürpark, Osmangazi, Bursa",
+   "ll": [
+    40.1959,
+    29.0412
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Bursa_Archaeological_Museum",
+    "https://turkishmuseums.com/museum/detail/2010-bursa-archaeology-museum/2010/4"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bursakaragozmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Meet Karagöz and Hacivat at their museum",
+   "desc": "Bursa claims the origin of the Karagöz and Hacivat shadow-play pair, and the municipality opened a museum for them in 2007 on Çekirge Street. It shows puppets, Ottoman newspapers and ephemera, and hosts free shadow-play shows.",
+   "tip": "Free entry; closed Mondays. Ask about the show times before you go.",
+   "q": "Karagöz Müzesi, Çekirge Caddesi, Osmangazi, Bursa",
+   "ll": [
+    40.20178,
+    29.0274
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Bursa_Karag%C3%B6z_Museum",
+    "https://bursa.com.tr/en/mekan/karagoz-museum-241"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bursamevlevihane",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the restored Bursa Mevlevi Lodge",
+   "desc": "The Mevlevi lodge in the Hisar area dates to 1611-15 and was closed in 1925. Restored and reopened in autumn 2023, it has a semahane for whirling ceremonies and a museum of Mevlevi culture in the old kitchen.",
+   "tip": "Ask the municipality about sema ceremony dates; it is a few minutes' walk from Tophane.",
+   "q": "Bursa Mevlevihanesi ve Müzesi, Hisar, Osmangazi, Bursa",
+   "ll": [
+    40.1848,
+    29.0543
+   ],
+   "src": [
+    "https://www.ensonhaber.com/bursa-mevlevihanesi-ve-muzesi-torenle-acildi-73960-h1139843"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bursamerinos",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Tour the Merinos Textile Industry Museum",
+   "desc": "The former Merinos wool factory, opened in the 1930s, was restored as a culture centre and houses Turkey's first textile industry museum. The complex also has an energy museum in the old power plant and a large park.",
+   "tip": "Take the Bursaray to Merinos station; the park is free to wander. Check museum hours before visiting.",
+   "q": "Merinos Tekstil Sanayi Müzesi, Merinos Atatürk Kültür ve Kongre Merkezi, Osmangazi, Bursa",
+   "ll": [
+    40.19969,
+    29.05157
+   ],
+   "src": [
+    "https://www.bursa.com.tr/en/mekan/merinos-textile-industry-museum-243/",
+    "https://hurriyetdailynews.com/turkeys-first-textile-industry-museum-to-open-in-bursa-6167"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bursacumalikizik",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk the lanes of Cumalıkızık village",
+   "desc": "This Ottoman village in Yıldırım is part of the 2014 UNESCO listing of Bursa and Cumalıkızık. Around 270 historic houses line cobbled lanes, three storeys high with stone ground floors, and many are still lived in.",
+   "tip": "Go early on a weekday to avoid the Sunday crowds; minibuses run from the centre in about 20 minutes.",
+   "q": "Cumalıkızık Köyü, Yıldırım, Bursa",
+   "ll": [
+    40.17635,
+    29.17227
+   ],
+   "src": [
+    "https://www.advantour.com/turkey/bursa/cumalikizik.htm",
+    "https://www.dailysabah.com/travel/2019/03/09/cumalikizik-a-700-year-old-ottoman-village"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bursaiskenderunlu",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat the original İskender at Kebapçı İskender",
+   "desc": "The house of İskender, said to have created the dish in 1867, still serves it on Ünlü Caddesi. Thin slices of döner come on pide with tomato sauce, melted butter and yoghurt.",
+   "tip": "Expect a queue at lunch; order the standard İskender and ask for extra butter on the side.",
+   "q": "Kebapçı İskender, Ünlü Caddesi No:7, Kayhan, Osmangazi, Bursa",
+   "ll": [
+    40.18246,
+    29.06868
+   ],
+   "src": [
+    "https://iskenderiskenderoglu.com.tr/our-history",
+    "https://bursa.ktb.gov.tr/EN-207649/bursa-kebab.html"
+   ]
+  },
+  {
+   "id": "bursaiskenderefendi",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine in the İskender Efendi Konağı mansion",
+   "desc": "Run by relatives of İskender Efendi, this restaurant stands beside the Botanical Park in a rebuilt Ottoman mansion on the site of his former house. It also holds a small museum about the kebab.",
+   "tip": "Best on a weekend afternoon combined with the Botanical Park and the zoo next door.",
+   "q": "İskender Efendi Konağı, Soğanlı, Osmangazi, Bursa",
+   "ll": [
+    40.21845,
+    29.04141
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/1121178/iskender-efendi-konağı",
+    "https://thebestofbursa.com/iskender-bursas-meat-treat/"
+   ]
+  },
+  {
+   "id": "bursayesilpidelikofte",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order pideli köfte at Yeşil Pideli Köfte",
+   "desc": "Pideli köfte, grilled meatballs on pide with tomato sauce and yoghurt, was born in the Kayhan bazaar and got geographical-indication status in 2021. Yeşil Pideli Köfte has served it since 1970.",
+   "tip": "Ask for it with the grilled pepper and tomato; lunchtime is busy.",
+   "q": "Mahir Usta Yeşil Pideli Köfte, Kayhan Çarşısı D:43, Osmangazi, Bursa",
+   "ll": [
+    40.1836,
+    29.0644
+   ],
+   "src": [
+    "https://yemek.com/bursa-mekanlari/",
+    "https://nomadicniko.com/2019/10/30/bursa-where-to-eat/"
+   ]
+  },
+  {
+   "id": "bursayucehunkar",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Bursa kebab with a view at Yüce Hünkar",
+   "desc": "Yüce Hünkar has served Bursa-style döner for about 50 years from a spot above the city. Reviewers praise the valley view alongside the İskender.",
+   "tip": "Come before sunset for the terrace; the address should be checked on a map.",
+   "q": "Yüce Hünkar Bursa Kebapçısı, Akyokuş Caddesi No:17, Yeşil, Yıldırım, Bursa",
+   "ll": [
+    40.1825,
+    29.0745
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/1151982/yüce-hünkar"
+   ]
+  },
+  {
+   "id": "bursaabdalsimit",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Queue for simit at Abdal Simit Fırını",
+   "desc": "This stone-oven bakery at Tuzpazarı, tied by name to the dervish Abdal Mehmet whose tomb is opposite, sells crisp Bursa simit and tahinli pide. Reviews mention long queues from morning to closing.",
+   "tip": "Takeaway only; eat the tahinli pide while it is warm, ideally for breakfast.",
+   "q": "Abdal Simit Fırını, Tuzpazarı, Abdal Caddesi, Osmangazi, Bursa",
+   "ll": [
+    40.18713,
+    29.068
+   ],
+   "src": [
+    "https://www.gzt.com/seyahat/bursada-her-gidisimde-ayni-durak-abdal-simit-firini-3806394",
+    "https://wanderlog.com/place/details/1175531/abdal-simit-fırını"
+   ]
+  },
+  {
+   "id": "bursatasfirin",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste tahinli pide at Tarihi Taş Fırın",
+   "desc": "A wood-fired stone oven on Abdal Meydanı bakes tahinli pide and simit; the product has a geographical indication that requires such an oven. Abdal Meydanı fills with locals at Ramadan suhoor.",
+   "tip": "Best at breakfast with Turkish tea; Abdal Caddesi No:37.",
+   "q": "Tarihi Taş Fırın, Abdal Caddesi No:37, Tuzpazarı, Osmangazi, Bursa",
+   "ll": [
+    40.1839,
+    29.0578
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/1560928/tarihi-ta%C5%9F-firin-g%C3%BCrsel-kavan"
+   ]
+  },
+  {
+   "id": "bursakafkas",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Buy kestane şekeri at Kafkas",
+   "desc": "Candied chestnuts were first made in Bursa's Şekerciler Çarşısı in the early 1900s, and the product got a geographical indication in 2021. Kafkas is among the long-established makers with a shop on Atatürk Caddesi.",
+   "tip": "Buy a half-kilo box to take home; ask for a taste first.",
+   "q": "Kafkas Şekerleme, Atatürk Caddesi No:86, Osmangazi, Bursa",
+   "ll": [
+    40.19145,
+    29.08469
+   ],
+   "src": [
+    "https://www-lonelyplanet-com-57e2.imagizer.com/turkey/bursa/shopping/kafkas/a/poi-sho/1248249/360872",
+    "https://beta.kulturportali.gov.tr/turkiye/bursa/neyenir/kestane-sekeri"
+   ]
+  },
+  {
+   "id": "bursakardelen",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try kestane şekeri at Kardelen on Cumhuriyet Caddesi",
+   "desc": "Kardelen is a Bursa chestnut-candy maker with a branch at Cumhuriyet Caddesi 140. Bursa kestane şekeri has had geographical-indication status since 2021.",
+   "tip": "Ask for glazed (glase) chestnuts or the plain candied kind; good gifts.",
+   "q": "Kardelen Kestane Şekeri, Cumhuriyet Caddesi No:140, Reyhan, Osmangazi, Bursa",
+   "ll": [
+    40.189,
+    29.056
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/8771568/kardelen-kestane-%C5%9Fekeri"
+   ]
+  },
+  {
+   "id": "bursaacidayicantik",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat hot cantık at Acı Dayı Cantık Salonu",
+   "desc": "Cantık is a round, thin Bursa pide with minced meat baked in a domed stone oven with beech wood; it has been registered with a geographical indication. Acı Dayı sits in the old Kayhan quarter.",
+   "tip": "Eat each piece within minutes of leaving the oven; arrive before evening, as the last ones sell out early.",
+   "q": "Acı Dayı Pide ve Cantık Salonu, Kayhan Boğazı Sokak No:11, Kayhan, Osmangazi, Bursa",
+   "ll": [
+    40.1842,
+    29.063
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/1560920/acı-dayı-pide-ve-cantık-salonu"
+   ]
+  },
+  {
+   "id": "bursahuseyinusta",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try Bursa kebab at Kebapçı Hüseyin Usta",
+   "desc": "A long-running kebab house on Tuzpazarı Sokak a few steps from the old bazaar, listed among the best-rated places for Bursa döner. A good alternative to the big names.",
+   "tip": "Order the Bursa kebab; lunch is the busiest time.",
+   "q": "Kebapçı Hüseyin Usta, Tuzpazarı Sokak 16/B, Alacamescit, Osmangazi, Bursa",
+   "ll": [
+    40.19347,
+    28.9924
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/1560911/kebapçı-hüseyin-usta"
+   ]
+  },
+  {
+   "id": "bursacemalcemil",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order Uludağ kebab at Cemal Cemil Usta",
+   "desc": "Cemal Cemil Usta Uludağ Kebapçısı serves Bursa's Uludağ-style kebab close to the Ulu Cami, in the Ulu quarter.",
+   "tip": "Come for lunch and ask what the house version of the kebab includes.",
+   "q": "Cemal Cemil Usta Uludağ Kebapçısı, Şirin Sokak No:12, Ulu Mahallesi, Osmangazi, Bursa",
+   "ll": [
+    40.19666,
+    29.06119
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/1560911/kebapçı-hüseyin-usta",
+    "https://wanderlog.com/list/geoCategory/551732"
+   ]
+  },
+  {
+   "id": "bursahaciarifcumali",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have a village breakfast at Hacı Arif'in Osmanlı Sofrası",
+   "desc": "This restaurant in Cumalıkızık serves a spread of cheeses, olives, eggs, jams and village bread in a setting of 700-year-old houses. Many homes in the village serve breakfasts in their courtyards.",
+   "tip": "Sunday is the traditional breakfast day and gets crowded; a weekday is calmer.",
+   "q": "Hacı Arif'in Osmanlı Sofrası, Cumalıkızık Köyü, Yıldırım, Bursa",
+   "ll": [
+    40.1904,
+    29.1486
+   ],
+   "src": [
+    "https://app.wanderlog.com/place/details/412628"
+   ]
+  },
+  {
+   "id": "bursatasevcumali",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat gözleme at Taş Ev Kahvaltı & Gözleme",
+   "desc": "A stone-house breakfast place in the Cumalıkızık lanes serving a mixed plate of cheese, jams, olives, molasses and honey plus fresh gözleme.",
+   "tip": "Order a gözleme with your plate; weekends are busy.",
+   "q": "Taş Ev Kahvaltı & Gözleme, Cumalıkızık, Yıldırım, Bursa",
+   "ll": [
+    40.175,
+    29.17272
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/4376931/taş-ev-kahvaltı--gözleme",
+    "https://www.bursa.com.tr/en/mekan/have-a-village-breakfast-702/"
+   ]
+  },
+  {
+   "id": "bursakapalicarsi",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Bedesten and Kapalı Çarşı",
+   "desc": "The old covered bazaar grew around Orhan's complex and the Bedesten, now the jewellers' market, with the Geyve Han beside it built by Hacı İvaz Pasha in the early 15th century. Hans surround it, selling silk, towels, copperware and gold.",
+   "tip": "Go in the morning; bargain gently and look into the courtyards of the neighbouring hans.",
+   "q": "Bursa Kapalı Çarşı ve Bedesten, Ulu Mahallesi, Osmangazi, Bursa",
+   "ll": [
+    40.1844,
+    29.064
+   ],
+   "src": [
+    "https://www.bursa.com.tr/en/mekan/kayhan-bazaar-139/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bursaeskikaplica",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Soak in the Eski Kaplıca baths in Çekirge",
+   "desc": "Eski Kaplıca is Bursa's oldest and most famous thermal bath, built over springs on Roman and Byzantine foundations, with men's and women's sections reputedly from the reigns of Murad I and Bayezid II.",
+   "tip": "Bring a swimsuit and towel if needed; check the opening days and the men's and women's hours first.",
+   "q": "Eski Kaplıca Hamamı, Çekirge Meydanı, Çekirge, Osmangazi, Bursa",
+   "ll": [
+    40.20243,
+    29.02341
+   ],
+   "src": [
+    "https://bursa.com.tr/en/mekan/eski-hot-spring-400",
+    "https://thebestofbursa.com/historic-eski-kaplica-hamami-turkish-bath-in-bursa/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bursayenikaplica",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Bathe at the Yeni Kaplıca thermal baths",
+   "desc": "Yeni Kaplıca on Yeni Kaplıca Caddesi in Çekirge is counted among the most typical monuments of Turkish bath architecture and also has a hotel. The springs come from the slopes of Uludağ.",
+   "tip": "Check opening times and the day for each gender before you go; the facility also runs as a hotel.",
+   "q": "Yeni Kaplıca, Yeni Kaplıca Caddesi 6, Çekirge, Osmangazi, Bursa",
+   "ll": [
+    40.19891,
+    29.03861
+   ],
+   "src": [
+    "https://bursa.com.tr/en/mekan/yeni-thermal-spring-403",
+    "https://www.archnet.org/sites/1915"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bursakukurtlu",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Try the Kükürtlü sulphur springs",
+   "desc": "Kükürtlü is one of Bursa's oldest thermal springs and is split into men's and women's baths; Bursa's tourism site records its history from the time of Murad I. Hotels such as Kervansaray Termal draw on 44-degree water.",
+   "tip": "Check which facility is open to day visitors; the baths are good for rheumatism.",
+   "q": "Kükürtlü Kaplıcası, Kükürtlü, Osmangazi, Bursa",
+   "ll": [
+    40.20473,
+    29.02748
+   ],
+   "src": [
+    "https://www.bursa.com.tr/en/mekan/kukurtlu-thermal-spring-401/",
+    "https://www.enuygun.com/otel/kervansaray-termal-hotel-113947/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bursateleferik",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Ride the Bursa Teleferik up Uludağ",
+   "desc": "The gondola starts at Teferrüç station in Yıldırım and climbs about 8 km through Kadıyayla and Sarıalan to the hotel zone on Uludağ at 1,870 m. Eight-seat cabins make the ride roughly 20-30 minutes one way.",
+   "tip": "Hours are about 10:00 to 18:00 but change with weather; check bursateleferik.com.tr. Wear layers, as it is cold on top.",
+   "q": "Bursa Teleferik Teferrüç İstasyonu, Piremir Sokak, Yıldırım, Bursa",
+   "ll": [
+    40.17116,
+    29.0833
+   ],
+   "src": [
+    "https://en.wikipedia.com/wiki/Bursa_Uluda%C4%9F_Gondola",
+    "https://bursa.com.tr/en/sayfa/cable-car-21"
+   ]
+  },
+  {
+   "id": "bursakulturpark",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Stroll through Kültürpark",
+   "desc": "Kültürpark opened in 1955 as Bursa's first large planned green space. It holds the archaeology museum, an amphitheatre and an amusement park, and hosts the Bursa Festival.",
+   "tip": "Free entry to the park; good for a late afternoon walk or a picnic.",
+   "q": "Kültürpark, Osmangazi, Bursa",
+   "ll": [
+    40.20031,
+    29.04065
+   ],
+   "src": [
+    "https://thebestofbursa.com/bursa-kulturpark-good-family-fun/",
+    "https://www.bursa.com.tr/en/mekan/kulturpark-292/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bursabotanikpark",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the Soğanlı Botanical Park",
+   "desc": "The park opened in 1998 on about 400 dönüm with Japanese, English and French gardens and thousands of trees. It lies beside the zoo in Soğanlı.",
+   "tip": "Minibuses leave from Kent Meydanı; autumn colours are good. Free entry.",
+   "q": "Soğanlı Botanik Parkı, Soğanlı, Osmangazi, Bursa",
+   "ll": [
+    40.22028,
+    29.03791
+   ],
+   "src": [
+    "https://beta.kulturportali.gov.tr/turkiye/bursa/gezilecekyer/soganli-botanik-park-bursa",
+    "https://www.bursa.com.tr/en/mekan/botanic-park-293/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bursazoo",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Visit the animals at Bursa Zoo",
+   "desc": "The zoo next to the Botanical Park opened in 1998 and holds around 1,000 animals of 138 species, run by the metropolitan municipality.",
+   "tip": "Winter hours are shorter, roughly 09:30 to 17:00; ticket sales end an hour before closing.",
+   "q": "Bursa Hayvanat Bahçesi, Soğanlı, 2. Nilüfer Caddesi No:260, Osmangazi, Bursa",
+   "ll": [
+    40.21937,
+    29.04623
+   ],
+   "src": [
+    "https://www.bursa.com.tr/en/mekan/bursa-zoo-530/",
+    "https://www.dailysabah.com/turkiye/bursa-zoo-hosts-around-1000-animals-from-138-species/news"
+   ]
+  },
+  {
+   "id": "bursahudavendigarpark",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk along the Nilüfer creek in Hüdavendigar City Park",
+   "desc": "This park of about 510,000 m2 spreads along both banks of the Nilüfer creek west of Çekirge and is considered Bursa's largest city park, with paths and cafés.",
+   "tip": "Free; combine with Çekirge's thermal baths.",
+   "q": "Hüdavendigar Kent Parkı, Nilüfer, Bursa",
+   "ll": [
+    40.19979,
+    28.9998
+   ],
+   "src": [
+    "https://www.bursa.com.tr/en/mekan/hudavendigar-city-park-291/",
+    "https://wanderlog.com/place/details/1035420/hudavendigar-city-park"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bursakentormani",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk or bike in Atatürk City Forest",
+   "desc": "A forest park behind the Odunluk quarter in Nilüfer with a picnic area, a parquet road and walking and cycling paths of several kilometres.",
+   "tip": "Free; it is quiet on weekdays and busy for picnics on weekends.",
+   "q": "Atatürk Kent Ormanı, Odunluk, Nilüfer, Bursa",
+   "ll": [
+    40.18501,
+    28.98917
+   ],
+   "src": [
+    "https://www.bursa.com.tr/en/mekan/ataturk-city-forest-74/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bursapodyumpark",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Spend an evening in Podyum Park, Nilüfer",
+   "desc": "A lively park in Nilüfer's Cumhuriyet quarter with a walking track, a skate park and cafés around it.",
+   "tip": "Free; best at sunset.",
+   "q": "Podyum Park, Cumhuriyet Mahallesi, Nilüfer, Bursa",
+   "ll": [
+    40.226,
+    28.97188
+   ],
+   "src": [
+    "https://thebestofbursa.com/podyum-park-bursa-an-eclectic-lively-oasis-in-nilufer/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bursademirtaspasahamam",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Take a traditional hamam at Demirtaşpaşa",
+   "desc": "The Demirtaşpaşa Hamamı dates from 1390 and is open every day to locals and tourists, with the classic sequence of hot room, scrub and foam wash.",
+   "tip": "Check separate men's and women's hours; bring a swimsuit or ask for pestemal.",
+   "q": "Demirtaşpaşa Hamamı, Demirtaş, Osmangazi, Bursa",
+   "ll": [
+    40.18831,
+    29.07121
+   ],
+   "src": [
+    "https://hurriyetdailynews.com/turkeys-famous-demirtaspasa-hamam-welcomes-tourists-40678"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bursacakiraga",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Relax at Çakıraga Hamamı",
+   "desc": "Çakıraga Turkish Bath is one of the old city baths listed on the Bursa tourism site, offering a traditional hamam experience.",
+   "tip": "Check hours and opening days before going; evenings are quiet.",
+   "q": "Çakır Ağa Hamamı, Cemal Nadir Caddesi, Osmangazi, Bursa",
+   "ll": [
+    40.18397,
+    29.05922
+   ],
+   "src": [
+    "https://www.bursa.com.tr/en/mekan/cakiraga-turkish-bath-418/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  }
+ ]
+}

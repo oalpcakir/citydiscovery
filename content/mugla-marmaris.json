@@ -1,0 +1,848 @@
+{
+ "new": [
+  {
+   "id": "marmariscastle",
+   "cat": "gor",
+   "area": "marmaris",
+   "title": "Climb Marmaris Castle and its small museum",
+   "desc": "The castle above the harbour was rebuilt by Süleyman the Magnificent in 1522 as a gathering point for his Rhodes campaign. Inside, the Marmaris Museum has amphorae, tombstones and lamps from Knidos, Datça and nearby sites.",
+   "tip": "Go in the morning before the heat; views over the marina are best late afternoon. Check the current museum hours at the ticket desk.",
+   "q": "Marmaris Kalesi ve Müzesi, Kemeraltı Mahallesi, Marmaris, Muğla",
+   "ll": [
+    36.8504,
+    28.273
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Marmaris_Castle"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "marmarisoldtown",
+   "cat": "gor",
+   "area": "marmaris",
+   "title": "Wander the lanes of Marmaris old town below the castle",
+   "desc": "The whitewashed lanes of Hisaraltı Street climb toward the castle, lined with Ottoman-era stone houses turned into cafés and craft shops. It is the quiet counterpart to the harbour front.",
+   "tip": "Come in the evening when the lanes cool and the lamps come on; bring comfortable shoes for the cobbles.",
+   "q": "Hisaraltı Caddesi, Kemeraltı Mahallesi, Marmaris, Muğla",
+   "ll": [
+    36.8498,
+    28.274
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Marmaris"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "knidos",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stand in the ancient port city of Knidos at Datça's tip",
+   "desc": "Knidos was a Dorian city of Caria at the western tip of the Datça peninsula, famous for Praxiteles' Aphrodite statue in a circular temple. Remains include the round temple, theatre, two harbours and mosaics.",
+   "tip": "The drive from Datça takes about 45 minutes; go early or late and bring water, as there is little shade.",
+   "q": "Knidos Antik Kenti, Yazıköy Mahallesi, Datça, Muğla",
+   "ll": [
+    36.68583,
+    27.37417
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Cnidus"
+   ]
+  },
+  {
+   "id": "kaunos",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Kaunos and its cliff-cut rock tombs from the river",
+   "desc": "Kaunos was a Carian harbour city whose temple-fronted rock tombs, mostly 4th century BC, face Dalyan across the river. The ancient city itself has a theatre, Roman baths and a harbour that silted up.",
+   "tip": "Boats from Dalyan stop at the site; the tombs are best photographed from the water in the morning light.",
+   "q": "Kaunos Antik Kenti, Dalyan Mahallesi, Ortaca, Muğla",
+   "ll": [
+    36.8308,
+    28.6193
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Kaunos"
+   ]
+  },
+  {
+   "id": "stratonikeia",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the ghost village among Stratonikeia's ruins",
+   "desc": "Stratonikeia in Eskihisar is a Hellenistic and Roman city where villagers lived among the ruins until the 2000s. A colonnaded street, a theatre, gymnasium and bouleuterion stand beside abandoned Ottoman houses and a mosque.",
+   "tip": "Allow two hours and wear sun protection; the site is large and open, with a museum at the entrance.",
+   "q": "Stratonikeia Antik Kenti, Eskihisar Mahallesi, Yatağan, Muğla",
+   "ll": [
+    37.309,
+    28.0801
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Stratonicea_in_Caria"
+   ]
+  },
+  {
+   "id": "lagina",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Hecate sanctuary at Lagina",
+   "desc": "Lagina was the sacred site of the goddess Hecate, linked to Stratonikeia by a Sacred Way along which the kleidos pompe procession ran. Excavations since 2016 have been uncovering its monumental temple and propylon.",
+   "tip": "Combine with Stratonikeia in one half day; ask about site access, as excavation seasons affect visits.",
+   "q": "Lagina Hekate Tapınağı, Turgut Mahallesi, Yatağan, Muğla",
+   "ll": [
+    37.3729,
+    28.1159
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Lagina"
+   ]
+  },
+  {
+   "id": "sedirisland",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Cruise to Sedir Island (Cleopatra Beach) and ancient Kedrai",
+   "desc": "The island in the Gulf of Gökova was the Carian city of Kedrai and is a protected archaeological site with a theatre, plus a beach of golden sand. Legend says Mark Antony shipped the sand from Egypt for Cleopatra.",
+   "tip": "Day boats leave from Marmaris, Akyaka and Gökova; swim in summer and remember removing sand is illegal.",
+   "q": "Sedir Adası İskelesi, Akyaka Mahallesi, Ula, Muğla",
+   "ll": [
+    37.0495,
+    28.3212
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Cedrae"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "muglaoldtown",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stroll Muğla's Konakaltı old quarter and its chimneys",
+   "desc": "Around 400 registered 18th and 19th century houses survive in Muğla's old quarter, with whitewashed walls and distinctive chimneys. Lanes such as Konakaltı and Saburhane Street are lined with restored mansions and craft shops.",
+   "tip": "Visit in the morning; the pedestrian lanes are quiet outside weekends.",
+   "q": "Konakaltı, Saburhane Caddesi, Muğla Merkez, Muğla",
+   "ll": [
+    37.21766,
+    28.36853
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/points-of-interest/old-town/1249736",
+    "https://en.wikipedia.org/wiki/Mu%C4%9Fla"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kursunlumosque",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the lead-domed Kurşunlu Mosque in Muğla",
+   "desc": "Built around 1494 under Ottoman rule, the mosque takes its name from its lead-covered dome. It is one of the oldest Ottoman monuments of Muğla's old town.",
+   "tip": "Remove shoes and dress modestly; outside prayer times visitors are usually welcome.",
+   "q": "Kurşunlu Camii, Saburhane Caddesi, Muğla Merkez, Muğla",
+   "ll": [
+    37.21675,
+    28.36461
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Mu%C4%9Fla"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "muglaulucami",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Step inside the Ulu Mosque of Muğla",
+   "desc": "The Great Mosque of Muğla was built in 1344 under the Menteşe beys, making it one of the oldest buildings in town. It sits at the heart of the old quarter.",
+   "tip": "Combine with the Konakaltı lanes; avoid prayer times.",
+   "q": "Ulu Camii, Muğla Merkez, Muğla",
+   "ll": [
+    37.21907,
+    28.36533
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Mu%C4%9Fla"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "muglamuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the old prison turned Muğla Museum",
+   "desc": "The Muğla Museum occupies a 19th century building that served as a prison in Ottoman times. Its collections come from Stratonikeia, Kaunos, Knidos and other sites of the province.",
+   "tip": "Allow an hour; it is indoors, so good for a hot afternoon.",
+   "q": "Muğla Müzesi, Muğla Merkez, Muğla",
+   "ll": [
+    37.21742,
+    28.36856
+   ],
+   "src": [
+    "https://theculturetrip.com/europe/turkey/articles/the-best-museums-to-visit-in-mugla"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "akyakahouses",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Admire the Akyaka-style houses by Nail Çakırhan",
+   "desc": "Poet and self-taught architect Nail Çakırhan, born in Ula in 1910, designed his own house in Akyaka and won the Aga Khan Award in 1983. The red-tiled, carved-wood houses of Akyaka follow the traditional Ula style he revived.",
+   "tip": "Wander the streets behind the Azmak river; the Çakırhan house is a private home, so view from outside.",
+   "q": "Nail Çakırhan Evi, Akyaka Mahallesi, Ula, Muğla",
+   "ll": [
+    37.056,
+    28.33
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Nail_%C3%87ak%C4%B1rhan"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "loryma",
+   "cat": "gor",
+   "area": "marmaris",
+   "title": "Hike up to the walls of ancient Loryma",
+   "desc": "Loryma is a Carian fortified harbour on Bozukkale at the south-west end of the Bozburun peninsula, founded around the 7th century BC. Its walls and fortress sit above a sheltered bay.",
+   "tip": "Reach it by boat from Bozburun or Selimiye, or by a rough track; take water.",
+   "q": "Loryma Antik Kenti, Bozukkale, Bozburun Mahallesi, Marmaris, Muğla",
+   "ll": [
+    36.556,
+    28.012
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Loryma"
+   ]
+  },
+  {
+   "id": "amos",
+   "cat": "gor",
+   "area": "marmaris",
+   "title": "Climb to the hilltop ruins of Amos above Turunç",
+   "desc": "Amos was a Hellenistic city from around the 3rd century BC, with a theatre, temples and walls on a hill above the bay. It is a protected archaeological site with long sea views.",
+   "tip": "Visit in the cooler morning; the walk up is steep.",
+   "q": "Amos Antik Kenti, Turunç Mahallesi, Marmaris, Muğla",
+   "ll": [
+    36.7887,
+    28.241
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Amos,_Caria"
+   ]
+  },
+  {
+   "id": "eskidatca",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander old Datça's stone houses and bright doors",
+   "desc": "Eski Datça is the old village north of the modern town, with stone houses, narrow streets and brightly painted doors. Many houses now hold small cafés, shops and meyhanes.",
+   "tip": "Park outside the centre in summer, as parking is tight; evenings are most atmospheric.",
+   "q": "Eski Datça, Datça, Muğla",
+   "ll": [
+    36.73912,
+    27.66497
+   ],
+   "src": [
+    "https://nomadicniko.com/2013/11/20/eski-datca",
+    "https://www.haberturk.com/htgastro/lezzetli-hatlar/eski-datca-nin-en-populer-mekanlari-3882172"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "selimiyevillage",
+   "cat": "gor",
+   "area": "marmaris",
+   "title": "Stroll the harbour village of Selimiye",
+   "desc": "Selimiye is a quiet Bozburun-peninsula village known for its harbour, boatbuilding heritage and nearby ruins. Boats can moor alongside the waterfront cafes.",
+   "tip": "Evenings suit the harbour; combine with Bozburun by road.",
+   "q": "Selimiye Limanı, Selimiye Mahallesi, Marmaris, Muğla",
+   "ll": [
+    36.70593,
+    28.09509
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Selimiye,_Marmaris"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "iztuzubeach",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim at İztuzu turtle beach",
+   "desc": "İztuzu is a roughly 4.5 km sandbar beach near Dalyan, protected since 1988 and a major loggerhead nesting site. Nests are caged and access is limited at night during nesting.",
+   "tip": "Go in the morning; follow rules on umbrellas and the evening closure.",
+   "q": "İztuzu Plajı, Dalyan, Ortaca, Muğla",
+   "ll": [
+    36.78835,
+    28.62502
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Iztuzu",
+    "https://www.hurriyetdailynews.com/iztuzu-hosts-mediterraneans-first-caretta-caretta-nests-221926"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "dalyanriverboat",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Take a boat down the Dalyan river reed channels",
+   "desc": "Wooden boats glide from Dalyan through the reed-lined delta to Kaunos, the mud baths and İztuzu. Blue crabs, turtles and cliffside tombs appear on the way.",
+   "tip": "Book at the quay in Dalyan; trips are common April to October.",
+   "q": "Dalyan İskelesi, Dalyan, Ortaca, Muğla",
+   "ll": [
+    36.83502,
+    28.64239
+   ],
+   "src": [
+    "https://www.frommers.com/destinations/dalyan-and-kaunos/things-to-do/"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "sultaniyemudbath",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Soak in Sultaniye's mud baths and thermal pools",
+   "desc": "On the shore of Lake Köyceğiz, Sultaniye has sulphur springs at 39 to 42 degrees C and mud baths. It is often combined with a Dalyan boat trip.",
+   "tip": "Expect a strong sulphur smell; wear old swimwear.",
+   "q": "Sultaniye Kaplıcaları, Toparlar Mahallesi, Köyceğiz, Muğla",
+   "ll": [
+    36.87371,
+    28.60262
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/K%C3%B6yce%C4%9Fiz"
+   ]
+  },
+  {
+   "id": "kumlubukbeach",
+   "cat": "dene",
+   "area": "marmaris",
+   "title": "Swim and hike at Kumlubük bay",
+   "desc": "Kumlubük is considered the most beautiful beach on the Bozburun peninsula, reached by road via Turunç and Bayır. Trekking trails start behind the bay.",
+   "tip": "Plan a full day; bring cash for the beach club.",
+   "q": "Kumlubük Plajı, Turunç, Marmaris, Muğla",
+   "ll": [
+    36.75188,
+    28.26029
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Kumluk%C3%BCb"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "kizkumuorhaniye",
+   "cat": "dene",
+   "area": "marmaris",
+   "title": "Wade along the Kızkumu sandbar at Orhaniye",
+   "desc": "Kızkumu stretches roughly 600 metres into Hisarönü bay as a shallow sandbar. The legend ties its name to the daughter of the king of Bybassos.",
+   "tip": "Dolmuş minibuses run from Marmaris; go midweek in summer.",
+   "q": "Kızkumu Plajı, Orhaniye, Marmaris, Muğla",
+   "ll": [
+    36.75746,
+    28.13003
+   ],
+   "src": [
+    "https://www.nomads-travel-guide.com/places/orhaniye-and-kizkumu-beach",
+    "https://www.ntv.com.tr/turkiye/galeri-yerli-ve-yabanci-turistin-gozdesi-kizkumu-plaji,a2LyspA_502vhIK35Q2Dvw"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "turuncbeach",
+   "cat": "dene",
+   "area": "marmaris",
+   "title": "Spend a beach day in Turunç",
+   "desc": "Turunç is a pine-backed bay with a beach, small restaurants and boat connections to Marmaris and Amos. Reached by road via Bayır.",
+   "tip": "Water taxis run in summer; arrive before noon.",
+   "q": "Turunç Plajı, Turunç, Marmaris, Muğla",
+   "ll": [
+    36.7764,
+    28.24863
+   ],
+   "src": [
+    "https://turkeytravelplanner.com/go/med/bozburun/orhaniye/index.html"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "palamutbuku",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim in the long bay of Palamutbükü",
+   "desc": "Palamutbükü on the Datça peninsula is known for a long pebbly beach and calm water, and is somewhat more upmarket than Ovabükü.",
+   "tip": "Visit early in the summer to avoid crowds.",
+   "q": "Palamutbükü Plajı, Datça, Muğla",
+   "ll": [
+    36.67378,
+    27.508
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Dat%C3%A7a"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "ovabuku",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim at Ovabükü in Mesudiye",
+   "desc": "Ovabükü is the main beach of Mesudiye on the south shore of the Datça peninsula, with a long cove and cafés.",
+   "tip": "Combine with the Archaeological and Folklore Museum nearby.",
+   "q": "Ovabükü Plajı, Mesudiye Mahallesi, Datça, Muğla",
+   "ll": [
+    36.68075,
+    27.55928
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Dat%C3%A7a"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "azmakspring",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Float or kayak the cold Azmak river at Akyaka",
+   "desc": "The Azmak is a short, spring-fed river flowing into the Gulf of Gökova at Akyaka, lined with reeds and riverside restaurants. Locals paddle and swim in the cold water.",
+   "tip": "Rent kayaks along the bank; summer midday is hot.",
+   "q": "Azmak Nehri, Akyaka, Ula, Muğla",
+   "ll": [
+    37.05523,
+    28.33734
+   ],
+   "src": [
+    "https://www.enuygun.com/bilgi/tum-detaylariyla-akyaka-gezi-rehberi/",
+    "https://www.excursionmania.com/ttd/4113/akyaka-river-blg-4113"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "akyakakite",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Try kitesurfing on Akyaka's windy bay",
+   "desc": "Akyaka is known for afternoon winds in the Gulf of Gökova, which suits kitesurfing and windsurfing.",
+   "tip": "Schools rent kit; best May to September.",
+   "q": "Akyaka Plajı, Akyaka, Ula, Muğla",
+   "ll": [
+    37.05133,
+    28.32382
+   ],
+   "src": [
+    "https://www.oggusto.com/seyahat/gokova-korfezinin-sakli-nefesi-akyaka-rehberi"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "datcaalmondblossom",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the almond blossoms of the Datça peninsula",
+   "desc": "Datça's hillside terraces have almond groves that bloom white and pink in late winter. Almonds and honey are the peninsula's agricultural signatures.",
+   "tip": "Drive the road between Datça and Reşadiye in late February.",
+   "q": "Datça Bademlik Bölgesi, Reşadiye, Datça, Muğla",
+   "ll": [
+    36.752,
+    27.615
+   ],
+   "src": [
+    "https://wikipedia.com/wiki/Dat%C3%A7a",
+    "https://nomadicniko.com/datca/"
+   ],
+   "months": [
+    2,
+    3
+   ]
+  },
+  {
+   "id": "marmarismarina",
+   "cat": "dene",
+   "area": "marmaris",
+   "title": "Walk the Marmaris marina and waterfront at sunset",
+   "desc": "Marmaris Yacht Marina is one of the biggest on the Turkish coast, with a waterfront promenade beneath the castle hill.",
+   "tip": "Go at golden hour and finish with fish nearby.",
+   "q": "Marmaris Yacht Marina, Marmaris, Muğla",
+   "ll": [
+    36.81945,
+    28.30774
+   ],
+   "src": [
+    "https://goturkiye.com/marmaris/see"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "marmarisbazaar",
+   "cat": "dene",
+   "area": "marmaris",
+   "title": "Browse the Marmaris bazaar for spices, olive soap and honey",
+   "desc": "The old bazaar next to the harbour sells spices, olive-oil soap, honey and textiles.",
+   "tip": "Bargain politely; weekdays are calmer.",
+   "q": "Marmaris Çarşısı, Kemeraltı Mahallesi, Marmaris, Muğla",
+   "ll": [
+    36.85225,
+    28.27427
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Marmaris"
+   ]
+  },
+  {
+   "id": "koycegizlake",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Stroll the Köyceğiz lakeside promenade",
+   "desc": "Köyceğiz is a lakeside town where tree-lined promenades face Lake Köyceğiz, with boat trips to Sultaniye and Dalyan.",
+   "tip": "Sunset suits the promenade; mosquitoes are worst at dusk, so use repellent.",
+   "q": "Köyceğiz Göl Kenarı Parkı, Cumhuriyet Mahallesi, Köyceğiz, Muğla",
+   "ll": [
+    36.9665,
+    28.6862
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/K%C3%B6yce%C4%9Fiz"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hisaronusunset",
+   "cat": "dene",
+   "area": "marmaris",
+   "title": "Watch the sunset at Hisarönü beach",
+   "desc": "Hisarönü beach is ringed by palms and pines and is one of the sunset spots of the Marmaris area.",
+   "tip": "Arrive an hour before sunset.",
+   "q": "Hisarönü Plajı, Hisarönü, Marmaris, Muğla",
+   "ll": [
+    36.81702,
+    28.13682
+   ],
+   "src": [
+    "https://turkeytravelplanner.com/go/med/bozburun/orhaniye/index.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "oltaakyaka",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat fresh fish at Olta beside the Azmak",
+   "desc": "Olta sits among the reeds on the Azmak in Akyaka, serving fish, seafood and mezes.",
+   "tip": "Ask for the fish of the day.",
+   "q": "Olta Balık Restaurant, İnişdibi Caddesi No:46, Akyaka Mahallesi, Ula, Muğla",
+   "ll": [
+    37.0511,
+    28.3304
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/2697133/olta-balık-restaurant"
+   ]
+  },
+  {
+   "id": "kordonakyaka",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order meze and fish at Kordon on the Azmak",
+   "desc": "Kordon is a riverside restaurant on Yaşar Aytaç Sokak in Akyaka, serving meze and fish.",
+   "tip": "Try the cold meze with rakı.",
+   "q": "Kordon Restaurant, Yaşar Aytaç Sokak 26, Akyaka, Ula, Muğla",
+   "ll": [
+    37.05248,
+    28.32844
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/210471/azmak-nehri-restaurantları"
+   ]
+  },
+  {
+   "id": "kordondalyan",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat river fish at Kordon in Dalyan",
+   "desc": "Kordon Restaurant has been on the Dalyan riverfront since 1987, known for fresh fish.",
+   "tip": "Book a riverside table for sunset.",
+   "q": "Kordon Restoran, Dalyan Merkez, Ortaca, Muğla",
+   "ll": [
+    36.8336,
+    28.64109
+   ],
+   "src": [
+    "https://wanderlog.com/list/geoMap/10784/dalyan-map"
+   ]
+  },
+  {
+   "id": "yalicapkini",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine among turtles at Yalıçapkını",
+   "desc": "Yalıçapkını is on the river near Dalyan where diners can spot turtles from the tables.",
+   "tip": "Ask for a table close to the water.",
+   "q": "Yalıçapkını Restoran, Dalyan, Ortaca, Muğla",
+   "ll": [
+    36.81476,
+    28.63594
+   ],
+   "src": [
+    "https://www.holidayhypermarket.co.uk/?p=142657"
+   ]
+  },
+  {
+   "id": "kekikdatca",
+   "cat": "ye",
+   "area": "marmaris",
+   "title": "Taste bademli ezme at Kekik in Datça",
+   "desc": "Kekik Restaurant on Atatürk Caddesi in Datça serves Aegean meze including an almond-flavoured Cretan-style spread.",
+   "tip": "Order several meze to share.",
+   "q": "Kekik Restaurant, Atatürk Caddesi No:72, İskele Mahallesi, Datça, Muğla",
+   "ll": [
+    36.7261,
+    27.6843
+   ],
+   "src": [
+    "https://www.fodors.com/world/europe/turkey/the-turquoise-coast/places/datca-peninsula/restaurants",
+    "https://yemek.com/datca-mekanlari-nerede-yenir/"
+   ]
+  },
+  {
+   "id": "saklibahce",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have breakfast facing the Kaunos tombs at Saklı Bahçe",
+   "desc": "Saklı Bahçe Kahvaltı ve Çay Bahçesi is a riverside garden in Dalyan with views of the rock tombs.",
+   "tip": "Go mid-morning for a long Turkish breakfast.",
+   "q": "Saklı Bahçe Kahvaltı ve Çay Bahçesi, Dalyan, Ortaca, Muğla",
+   "ll": [
+    36.83047,
+    28.63863
+   ],
+   "src": [
+    "https://www.holidayhypermarket.co.uk/?p=142657"
+   ]
+  },
+  {
+   "id": "balikcimdalyan",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat meze and fish at Balıkçım in Dalyan",
+   "desc": "Balıkçım the Fisherman is a relaxed restaurant on a side street, popular with locals.",
+   "tip": "Choose a fish from the display.",
+   "q": "Balıkçım, Kbid Çarşısı 1, Dalyan Mahallesi, Ortaca, Muğla",
+   "ll": [
+    36.8368,
+    28.646
+   ],
+   "src": [
+    "https://fodors.fodors.com/world/europe/turkey/the-turquoise-coast/restaurants/reviews/balikcim-the-fisherman-s753084"
+   ]
+  },
+  {
+   "id": "zaferinyeri",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Muğla köfte at Zafer'in Yeri",
+   "desc": "A grill house making only Muğla köfte, served over fried bread with onion salad.",
+   "tip": "Go at lunch; köfte can run out by evening.",
+   "q": "Meşhur Muğla Köftecisi Zafer'in Yeri, Muğla Merkez, Menteşe, Muğla",
+   "ll": [
+    37.2144,
+    28.3668
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/10675988/meshur-mugla-koftecisi-zaferin-yeri"
+   ]
+  },
+  {
+   "id": "cavusunyeri",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try Muğla kebab at Çavuşun Yeri",
+   "desc": "Çavuşun Yeri is a named place for Muğla kebab and köfte, per local food guides.",
+   "tip": "Try the kebab with Muğla köfte.",
+   "q": "Çavuşun Yeri Meşhur Muğla Kebabı ve Köftesi, Muğla Merkez, Menteşe, Muğla",
+   "ll": [
+    37.2133,
+    28.3645
+   ],
+   "src": [
+    "https://www.enuygun.com/bilgi/mugla-da-ne-yenir/"
+   ]
+  },
+  {
+   "id": "denizbalik",
+   "cat": "ye",
+   "area": "marmaris",
+   "title": "Order calamari and shrimp at Deniz Balık in Marmaris",
+   "desc": "Deniz Balık Yöresel Lezzetler is a family-run restaurant praised for calamari and fried shrimp.",
+   "tip": "Order the calamari.",
+   "q": "Deniz Balık Yöresel Lezzetler, Marmaris, Muğla",
+   "ll": [
+    36.8518,
+    28.2704
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/1555835/deniz-bal%C4%B1k-restaurant"
+   ]
+  },
+  {
+   "id": "turgutreisbalik",
+   "cat": "ye",
+   "area": "marmaris",
+   "title": "Book a table at Turgut Reis Balık in Marmaris",
+   "desc": "A fish restaurant locals call among the best in Marmaris for fresh fish at reasonable prices.",
+   "tip": "Reserve ahead.",
+   "q": "Turgut Reis Balık Restaurant, Marmaris, Muğla",
+   "ll": [
+    36.8547,
+    28.2736
+   ],
+   "src": [
+    "https://www.airbnb.com/things-to-do/places/2796752"
+   ]
+  },
+  {
+   "id": "eskimeyhanedatca",
+   "cat": "ye",
+   "area": "marmaris",
+   "title": "Sit at Eski Meyhane in old Datça",
+   "desc": "Eski Meyhane at Osman Karaca Sokak in Eski Datça serves dishes with local fresh produce.",
+   "tip": "Go in the evening.",
+   "q": "Eski Meyhane, Osman Karaca Sokak 1, Eski Datça, Datça, Muğla",
+   "ll": [
+    36.72509,
+    27.68571
+   ],
+   "src": [
+    "https://www.bizevdeyokuz.com/datca-restoranlar/"
+   ]
+  },
+  {
+   "id": "culinariumdatca",
+   "cat": "ye",
+   "area": "marmaris",
+   "title": "Dine at Culinarium on Datça harbour",
+   "desc": "Culinarium is a seaside restaurant by the harbour, founded by a German woman who settled in Datça.",
+   "tip": "Book a sunset table.",
+   "q": "Culinarium, 64. Sokak No:20, İskele Mahallesi, Datça, Muğla",
+   "ll": [
+    36.724,
+    27.685
+   ],
+   "src": [
+    "https://www.fodors.com/world/europe/turkey/the-turquoise-coast/places/datca-peninsula/restaurants",
+    "https://de.restaurantguru.com/Culinarium-Datca"
+   ]
+  },
+  {
+   "id": "tekinustadondurma",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste almond-honey ice cream at Tekin Usta in Datça",
+   "desc": "Tekin Usta Dondurma is known for ice cream with honey and almond.",
+   "tip": "Visit after dinner.",
+   "q": "Tekin Usta Dondurma, Kumluk Yolu No:50/A, İskele Mahallesi, Datça, Muğla",
+   "ll": [
+    37.05186,
+    28.3249
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/3014759/tekin-usta-100-keçi-sütü-dondurma",
+    "https://au.trip.com/restaurant/t%C3%BCrkiye/datca/detail/Tekin%20Usta%20Dondurma-43515980"
+   ]
+  }
+ ]
+}

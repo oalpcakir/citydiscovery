@@ -1,0 +1,988 @@
+{
+ "new": [
+  {
+   "id": "phaselis",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander the three harbours of ancient Phaselis",
+   "desc": "Phaselis was founded by Rhodian colonists around 690 BC and had three harbours, an aqueduct and a Roman agora in a pine forest by the sea. It later became a pirate haunt and a Byzantine port before decline.",
+   "tip": "Come early or late to avoid tour buses; bring swimwear for the beaches inside the site.",
+   "q": "Phaselis Antik Kenti, Tekirova, Kemer, Antalya",
+   "ll": [
+    36.52281,
+    30.55274
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Phaselis",
+    "https://en.wikivoyage.org/wiki/Kemer"
+   ]
+  },
+  {
+   "id": "kemermarina",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Stroll Kemer Marina at sunset",
+   "desc": "Kemer Marina is a yacht harbour with space for around 320 boats, set below pine-covered mountains. The promenade is lined with cafés and shops, and boats leave from here for coastal cruises.",
+   "tip": "Sunset gives the best light on the Beydağları peaks behind; evenings are busiest.",
+   "q": "Kemer Marina, Merkez, Kemer, Antalya",
+   "ll": [
+    36.60093,
+    30.57176
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Kemer",
+    "https://kemer-antalya.com/places-to-visit-and-see-in-kemer-antalya"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "moonlightbeach",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim at Moonlight Beach and Park in Kemer",
+   "desc": "Moonlight Beach is a pebble beach just west of Kemer Marina, framed by hills and a landscaped park rather than hotel blocks. Entry to the beach is free.",
+   "tip": "Swimming season runs late spring to October; go early for a sunbed.",
+   "q": "Ayışığı Plajı ve Parkı, Yalı Caddesi No:16, Merkez Mahallesi, Kemer, Antalya",
+   "ll": [
+    36.602,
+    30.5575
+   ],
+   "src": [
+    "https://antalya.com.tr/en/discovery/nature/bays-beaches/ayisigi-beach",
+    "https://antalya.tc/explore/parks-plazas/moonlight-park-kemer"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "goynukcanyon",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Göynük Canyon and cool off in its river",
+   "desc": "Göynük Canyon is a narrow limestone gorge in the Beydağları foothills, about 13-15 km from Kemer, with walkways along a clear river. Kayaking is a popular activity here.",
+   "tip": "Open daily roughly 09:00-17:30; bring water shoes and a swimsuit in summer.",
+   "q": "Göynük Kanyonu, Göynük, Kemer, Antalya",
+   "ll": [
+    36.66413,
+    30.5601
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Kemer",
+    "https://kemer-antalya.com/places-to-visit-and-see-in-kemer-antalya"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "olymposteleferik",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Olympos Teleferik up Tahtalı to 2,365 m",
+   "desc": "This Doppelmayr-Garaventa cable car climbs from 726 m to the summit of Tahtalı Dağı (Lycian Olympus) in about 10 minutes, in two 80-passenger cabins. The top gives views over the Gulf of Antalya and the Taurus range.",
+   "tip": "Runs roughly 10:00-17:00 weather permitting; it is much colder at the top, so take a jacket.",
+   "q": "Olympos Teleferik, Tekirova, Kemer, Antalya",
+   "ll": [
+    36.54088,
+    30.48687
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Olympos_Aerial_Tram",
+    "https://en.wikipedia.org/wiki/Lycian_Olympus"
+   ]
+  },
+  {
+   "id": "olymposancientcity",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the ruins of ancient Olympos by the river",
+   "desc": "Olympos was a Lycian city that later became a pirate stronghold and Roman port; its ruins of tombs, a theatre and a basilica lie in a wooded stream valley beside the beach. The Lycian Way passes straight through the site.",
+   "tip": "A national park ticket covers entry; walk through to the beach at the end of the valley.",
+   "q": "Olympos Antik Kenti, Olimpos, Kumluca, Antalya",
+   "ll": [
+    36.39611,
+    30.4725
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Olympos_(Lycia)",
+    "https://turkeytravelplanner.com/go/med/olimpos/index.html"
+   ]
+  },
+  {
+   "id": "chimaerayanartas",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the eternal flames of Yanartaş (Chimaera) at night",
+   "desc": "Natural methane vents burn on the slopes of Mount Olympos, a phenomenon recorded since antiquity and linked to the myth of the Chimaera monster. The flames are best seen after dark.",
+   "tip": "Allow a 15-30 minute uphill walk from the car park; bring a torch and sturdy shoes.",
+   "q": "Yanartaş (Chimaera), Çıralı, Kemer, Antalya",
+   "ll": [
+    36.43147,
+    30.456
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/points-of-interest/chimaera/1249442",
+    "https://www.kemer.bel.tr/en/historical-places/yanartas.html"
+   ]
+  },
+  {
+   "id": "ciralibeach",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim on Çıralı beach, a loggerhead turtle nesting site",
+   "desc": "Çıralı is a long pebble beach in a quiet village of orange groves and pensions, set apart from the busier Olympos area. It lies within Beydağları Coastal National Park.",
+   "tip": "Swim May to October; keep the shoreline dark at night in nesting season.",
+   "q": "Çıralı Plajı, Çıralı, Kemer, Antalya",
+   "ll": [
+    36.40851,
+    30.48013
+   ],
+   "src": [
+    "https://turkeytravelplanner.com/go/med/olimpos/index.html",
+    "https://www.roughguides.com/turkey/turquoise-coast/coast-olympos/"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "kadirsbullbar",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink at the Bull Bar of Kadir's Tree Houses in Olympos",
+   "desc": "Kadir's is a long-running backpacker treehouse camp in the Olympos valley with restaurants, a rooftop terrace, a fire pit and the Bull Bar nightclub. It is the main social hub of the Olympos treehouse scene.",
+   "tip": "Evening meals are included for guests but non-guests can drink at the bars; expect a young crowd in summer.",
+   "q": "Kadir's Tree Houses, Olimpos, Kumluca, Antalya",
+   "ll": [
+    36.38735,
+    30.4584
+   ],
+   "src": [
+    "https://www.expedia.ae/Kumluca-Hotels-Kadirs-Tree-Houses.h6081950.Hotel-Information",
+    "https://vagobond.substack.com/p/the-fully-integrated-backpacker-treehouse-resort-kadirs-treehouses"
+   ]
+  },
+  {
+   "id": "yorukcirali",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat gözleme and mantı at Yörük Restaurant in Çıralı",
+   "desc": "A restaurant just after the bridge into Çıralı, praised by Lonely Planet for Turkish food cooked in an open kitchen: gözleme, pide and mantı.",
+   "tip": "Order the gözleme straight from the griddle; a good lunch before the Chimaera walk.",
+   "q": "Yörük Restaurant, Çıralı, Kemer, Antalya",
+   "ll": [
+    36.40399,
+    30.47351
+   ],
+   "src": [
+    "https://www-lonelyplanet-com-57e2.imagizer.com/turkey/cirali/restaurants/yoeruk-restaurant/a/poi-eat/1540621/1324680"
+   ]
+  },
+  {
+   "id": "ciraligozleme",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have gözleme from the organic garden at Çıralı Gözleme",
+   "desc": "A family-run restaurant in Çıralı where the vegetables come from the owners' own organic garden and greenhouse, and gözleme is made to order.",
+   "tip": "Cheap and quick; ask for the seasonal vegetable filling.",
+   "q": "Çıralı Gözleme, Çıralı, Kemer, Antalya",
+   "ll": [
+    36.40559,
+    30.47617
+   ],
+   "src": [
+    "https://wanderlog.com/list/geoCategory/202205/where-to-eat-the-best-restaurants-in-cirali",
+    "https://de.airbnb.lu/things-to-do/places/1685354"
+   ]
+  },
+  {
+   "id": "ceylancirali",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try home-style Turkish dishes at Ceylan in Çıralı",
+   "desc": "Ceylan Restaurant & Bar is a sit-down place in Çıralı that reviewers describe as one of few spots serving authentic Turkish home cooking rather than tourist menus.",
+   "tip": "Ask for the daily home-cooked dishes; reservations are not usually needed.",
+   "q": "Ceylan Restaurant, Çıralı, Kemer, Antalya",
+   "ll": [
+    36.40448,
+    30.47414
+   ],
+   "src": [
+    "https://wanderlog.com/list/geoCategory/202205/where-to-eat-the-best-restaurants-in-cirali"
+   ]
+  },
+  {
+   "id": "botanikulupinar",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Catch your own trout at Botanik Restaurant in Ulupınar",
+   "desc": "Ulupınar, near the Chimaera, is known for stream-side trout restaurants, and Botanik lets guests net a trout from the pool and have it fried to order.",
+   "tip": "Pair it with a Chimaera visit; avoid the mountain road after dark if you are not driving.",
+   "q": "Botanik Restaurant, Ulupınar, Kemer, Antalya",
+   "ll": [
+    36.45008,
+    30.43689
+   ],
+   "src": [
+    "https://yandex.com/maps/org/botanik_restaurant/1098492872/",
+    "https://antalyatouristinformation.com/food/restaurants"
+   ]
+  },
+  {
+   "id": "adrasanbeach",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Take a boat from Adrasan to Suluada island",
+   "desc": "Adrasan is a sheltered bay below the Musa mountains; boats run from its harbour to Suluada island, 2 km offshore near Cape Gelidonya, for swimming in clear water.",
+   "tip": "Boats run roughly April to October; book at the harbour in the morning.",
+   "q": "Adrasan Limanı, Adrasan, Kumluca, Antalya",
+   "ll": [
+    36.33033,
+    30.43251
+   ],
+   "src": [
+    "https://adrasan.akdeniz.edu.tr/en/places_to_visit",
+    "https://www.roughguides.com/destinations/europe/turkey/turquoise-coast/coast-olympos"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "lycianwayadrasan",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Lycian Way from Adrasan to Olympos",
+   "desc": "This stage of the Lycian Way runs from Adrasan over the Musa mountains and down through the ruins of Olympos to Çıralı, about 15.5 km by Trekopedia's figures.",
+   "tip": "Start early; carry plenty of water and avoid midsummer midday heat.",
+   "q": "Adrasan, Kumluca, Antalya",
+   "ll": [
+    36.33033,
+    30.43251
+   ],
+   "src": [
+    "https://trekopedia.com/adrasan-cirali-48/",
+    "https://en.wikipedia.org/wiki/Lycian_Way"
+   ],
+   "months": [
+    3,
+    4,
+    5,
+    10,
+    11
+   ]
+  },
+  {
+   "id": "lycianwaygelidonya",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Lycian Way from Karaöz to Gelidonya",
+   "desc": "The Karaöz to Adrasan leg is a long, rugged coastal stage that passes the Gelidonya lighthouse, standing on the southernmost point of ancient Lycia.",
+   "tip": "A demanding day; start early, carry water and check the trail with locals.",
+   "q": "Karaöz, Kumluca, Antalya",
+   "ll": [
+    36.28039,
+    30.41151
+   ],
+   "src": [
+    "https://trekopedia.com/karaoz-adrasan-47/",
+    "https://en.wikipedia.org/wiki/Lycian_Way"
+   ],
+   "months": [
+    3,
+    4,
+    5,
+    10,
+    11
+   ]
+  },
+  {
+   "id": "gelidonyalighthouse",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Reach the Cape Gelidonya lighthouse",
+   "desc": "Cape Gelidonya is the southernmost headland of ancient Lycia, topped by a lighthouse. A Bronze Age shipwreck found offshore was excavated here in 1960, one of the first underwater archaeological digs.",
+   "tip": "Reached by the Lycian Way or boat; road access is rough, so go on foot or with a local guide.",
+   "q": "Gelidonya Feneri, Kumluca, Antalya",
+   "ll": [
+    36.21917,
+    30.40969
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Cape_Gelidonya",
+    "https://en.wikipedia.org/wiki/Lycian_Way"
+   ]
+  },
+  {
+   "id": "mavikentbeach",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Spend a day at Mavikent beach in Kumluca",
+   "desc": "Kumluca is Turkey's major greenhouse district, producing tomatoes, peppers and citrus along the coast below the Beydağları; Mavikent beach has a calmer, local feel.",
+   "tip": "Best in spring; a car helps.",
+   "q": "Mavikent Plajı, Mavikent, Kumluca, Antalya",
+   "ll": [
+    36.31446,
+    30.34781
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Kumluca",
+    "https://en.wikivoyage.org/wiki/Kemer"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "arykanda",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the terraces of Arykanda",
+   "desc": "Arykanda is a Lycian hill city on terraces in the Beydağları with a theatre, stadium, baths and an agora, founded by the 4th century BC. It is considered among the best-preserved sites in Lycia.",
+   "tip": "About 30 km inland from the Finike D400 junction; go in the morning in summer.",
+   "q": "Arykanda Antik Kenti, Arif, Finike, Antalya",
+   "ll": [
+    36.51358,
+    30.05864
+   ],
+   "src": [
+    "https://travel.sygic.com/en/poi/arykanda-historic-site-poi:7406",
+    "https://ktb.gov.tr/EN-36133/finike.html"
+   ]
+  },
+  {
+   "id": "limyra",
+   "cat": "gor",
+   "area": "likya",
+   "title": "See the rock tombs and mausoleum of Limyra",
+   "desc": "Limyra was a Lycian capital with more than 400 rock tombs, many inscribed in the Lycian language, and the mausoleum of king Perikle. Excavations began in 1970.",
+   "tip": "Quiet and little visited; a taxi from Finike is easiest.",
+   "q": "Limyra Antik Kenti, Turunçova, Finike, Antalya",
+   "ll": [
+    36.34283,
+    30.17052
+   ],
+   "src": [
+    "https://www.pata.org/go-turkiye/limyra-ancient-city",
+    "https://en.wikipedia.org/wiki/Limyra"
+   ]
+  },
+  {
+   "id": "nesalibalik",
+   "cat": "ye",
+   "area": "likya",
+   "title": "Eat fish soup and fried squid at Neşeli Balık in Finike",
+   "desc": "Regarded as Finike's best fish restaurant, in a historic stone building in the back streets, known for fish soup, fried squid and balık ekmek.",
+   "tip": "Try the fish soup first; lunch is quieter than dinner.",
+   "q": "Neşeli Balık, Finike Merkez, Finike, Antalya",
+   "ll": [
+    36.2971,
+    30.14425
+   ],
+   "src": [
+    "https://www.fodors.com/world/europe/turkey/the-turquoise-coast/places/finike-and-arycanda/restaurants"
+   ]
+  },
+  {
+   "id": "neselibalikfinike",
+   "cat": "ye",
+   "area": "likya",
+   "title": "Eat fresh fish at Neşeli Balık on Finike's Atatürk Caddesi",
+   "desc": "Neşeli Balık is a well-reviewed seafood restaurant on Atatürk Caddesi, Finike's main eating street running north from the marina. Its menu covers fish and seafood alongside salads and grills.",
+   "tip": "Book ahead for dinner in summer and check hours, which run roughly from morning to about 22:30.",
+   "q": "Neşeli Balık, Atatürk Caddesi No:49, Finike, Antalya",
+   "ll": [
+    36.2972,
+    30.1461
+   ],
+   "src": [
+    "https://es.restaurantguru.com/NeSeLi-Balik-Finike-4"
+   ]
+  },
+  {
+   "id": "altinsofrafinike",
+   "cat": "ye",
+   "area": "likya",
+   "title": "Taste olive-oil-and-salt grills at Altın Sofra in Finike",
+   "desc": "Altın Sofra is a Finike restaurant where the chef grills meat and chicken using only olive oil and salt.",
+   "tip": "Order the grills; ask about Finike oranges for dessert in season.",
+   "q": "Altın Sofra, Finike Merkez, Finike, Antalya",
+   "ll": [
+    36.299,
+    30.145
+   ],
+   "src": [
+    "https://www.fodors.com/world/europe/turkey/the-turquoise-coast/places/finike-and-arycanda/restaurants"
+   ]
+  },
+  {
+   "id": "stnicholasdemre",
+   "cat": "gor",
+   "area": "likya",
+   "title": "Visit the Church of St Nicholas in Demre",
+   "desc": "The church of the 4th-century bishop of Myra, the original Santa Claus, has Byzantine frescoes and mosaics; the main structure dates mostly from the 5th century or later. His relics were taken to Bari in 1087.",
+   "tip": "A museum ticket applies; go early to avoid tour groups.",
+   "q": "Aziz Nikolaos Kilisesi, Demre, Antalya",
+   "ll": [
+    36.24467,
+    29.98543
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/turkey/demre/attractions/church-of-st-nicholas/a/poi-sig/1249328/1319736",
+    "https://en.wikipedia.org/wiki/Myra"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "myrarocktombs",
+   "cat": "gor",
+   "area": "likya",
+   "title": "See the Lycian rock tombs and theatre of Myra",
+   "desc": "Myra has two necropolises of temple-fronted tombs carved into cliff faces, with over 100 rock tombs, plus a large Roman theatre at their foot.",
+   "tip": "Visit the river necropolis first, then the theatre; go in the morning light.",
+   "q": "Myra Antik Kenti, Demre, Antalya",
+   "ll": [
+    36.2595,
+    29.9855
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Myra",
+    "https://www.lycianmonuments.com/?p=1842"
+   ]
+  },
+  {
+   "id": "andriake",
+   "cat": "gor",
+   "area": "likya",
+   "title": "Explore the Roman harbour granary of Andriake",
+   "desc": "Andriake was Myra's port until silt blocked its entrance. The site has a granary built under Hadrian, now a museum, and port remains by a river mouth.",
+   "tip": "Combine with a seafood lunch at Çayağzı.",
+   "q": "Andriake Antik Limanı, Çayağzı, Demre, Antalya",
+   "ll": [
+    36.22639,
+    29.95639
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Andriake",
+    "https://en.wikipedia.org/wiki/Myra"
+   ]
+  },
+  {
+   "id": "memedimbalik",
+   "cat": "ye",
+   "area": "likya",
+   "title": "Eat grilled sea bass and blue crab at Memedim Balık in Demre",
+   "desc": "A basic, authentic eatery by the lagoon in Demre known for grilled fish and the local blue crab.",
+   "tip": "Pick the grilled sea bass; the blue crab has little meat.",
+   "q": "Memedim Balık Restoran, Çayağzı, Demre, Antalya",
+   "ll": [
+    36.229,
+    29.925
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/2738241/memedim-balk-restoran"
+   ]
+  },
+  {
+   "id": "kekovaboat",
+   "cat": "dene",
+   "area": "likya",
+   "title": "Take a boat trip to Kekova's sunken city from Üçağız",
+   "desc": "Day boats leave Üçağız harbour for the sunken Lycian ruins around Kekova island, with a swim stop at Aquarium Bay and a visit to Kaleköy. Swimming among the ruins is prohibited.",
+   "tip": "Boats leave around 10:30; book the day before; Tersane Bay is the swimming spot.",
+   "q": "Üçağız Limanı, Üçağız, Demre, Antalya",
+   "ll": [
+    36.19807,
+    29.848
+   ],
+   "src": [
+    "https://www.dailysabah.com/life/travel/following-traces-of-a-sunken-city-on-the-isle-of-antalyas-kekova",
+    "https://en.wikipedia.org/wiki/Kekova"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "simenacastle",
+   "cat": "gor",
+   "area": "likya",
+   "title": "Climb to Simena castle at Kaleköy",
+   "desc": "Kaleköy, ancient Simena, is the only Mediterranean village in Turkey without road access; a small castle and Lycian sarcophagi stand above the bay.",
+   "tip": "Arrive by boat from Üçağız and climb to the castle for the view over the sunken ruins.",
+   "q": "Simena Kalesi, Kaleköy, Demre, Antalya",
+   "ll": [
+    36.19016,
+    29.85979
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Simena",
+    "https://www.dailysabah.com/life/travel/following-traces-of-a-sunken-city-on-the-isle-of-antalyas-kekova"
+   ]
+  },
+  {
+   "id": "kingstombkas",
+   "cat": "gor",
+   "area": "likya",
+   "title": "See the Lycian King's Tomb at the top of Uzun Çarşı in Kaş",
+   "desc": "This 4th-century BC Lycian sarcophagus on a high base, also called the Lion Tomb, stands at the top of Uzun Çarşı, a steep cobbled lane of old Greek houses.",
+   "tip": "Walk up Uzun Çarşı and visit at dusk.",
+   "q": "Kral Mezarı (Aslanlı Lahit), Uzun Çarşı Sokak, Kaş, Antalya",
+   "ll": [
+    36.20197,
+    29.64232
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/222504/kral-mezarı",
+    "https://www.trip.com/travel-guide/attraction/kas/lion-tomb-58273162/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "antiphellostheatre",
+   "cat": "gor",
+   "area": "likya",
+   "title": "Watch the sunset from the Antiphellos theatre in Kaş",
+   "desc": "This small Hellenistic theatre dates from the 1st century BC, restored in 2008, with seating for about 4,000 and sea views from the top rows.",
+   "tip": "About 500 m west of the main square; free to enter.",
+   "q": "Antiphellos Antik Tiyatrosu, Kaş, Antalya",
+   "ll": [
+    36.19999,
+    29.63495
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/points-of-interest/antiphellos-theatre/1264133",
+    "https://timeout.com/turkiye/attractions/the-antiphellos-amphitheatre"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kasmeisferry",
+   "cat": "dene",
+   "area": "likya",
+   "title": "Take the ferry from Kaş to Greek Meis (Kastellorizo)",
+   "desc": "Daily ferries cross to the Greek island of Meis in about 20-25 minutes in summer, a day trip with passport control.",
+   "tip": "Bring your passport and book the day before so the operator can process immigration paperwork.",
+   "q": "Kaş Limanı, Kaş, Antalya",
+   "ll": [
+    36.19785,
+    29.64181
+   ],
+   "src": [
+    "https://www.ferryhopper.com/tr/ferry-routes/direct/kas-kastellorizo"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "kasdiving",
+   "cat": "dene",
+   "area": "likya",
+   "title": "Dive the reefs and wrecks around Kaş",
+   "desc": "Kaş is Turkey's best-known diving base, with a cluster of dive centres and underwater sites around the nearby islands.",
+   "tip": "Choose a licensed centre; dives run in the warm months.",
+   "q": "Kaş Yat Limanı, Kaş, Antalya",
+   "ll": [
+    36.19785,
+    29.64181
+   ],
+   "src": [
+    "https://turkeytravelplanner.com/go/med/kas/index.html",
+    "https://www.advantour.com/turkey/kas.htm"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "bilokma",
+   "cat": "ye",
+   "area": "likya",
+   "title": "Start the day with breakfast and mezes at Bi Lokma in Kaş",
+   "desc": "A family-run all-day restaurant in central Kaş, open 08:30 to midnight, praised for breakfast, mezes and manti.",
+   "tip": "They rarely take reservations, so arrive early at weekends.",
+   "q": "Bi'Lokma, Uğur Mumcu Caddesi 21, Kaş, Antalya",
+   "ll": [
+    36.20205,
+    29.63695
+   ],
+   "src": [
+    "https://tr.foursquare.com/v/bilokma/4e00f4f8d4c0836163da2e03",
+    "https://www.staysbyme.com/a-locals-guide-to-the-best-cafes-and-restaurants-in-kas-antalya-turkiye/"
+   ]
+  },
+  {
+   "id": "smileyskas",
+   "cat": "ye",
+   "area": "likya",
+   "title": "Try saç kavurma at Smiley's in Kaş",
+   "desc": "A seafood restaurant in Kaş, where reviewers single out the saç kavurma. Prices are mid to high.",
+   "tip": "Compare prices before ordering fish by weight.",
+   "q": "Smiley's Restaurant, Kaş Merkez, Kaş, Antalya",
+   "ll": [
+    36.19882,
+    29.6399
+   ],
+   "src": [
+    "https://wanderlog.com/list/geoCategory/37030/most-famous-restaurants-in-kas"
+   ]
+  },
+  {
+   "id": "sardunyakas",
+   "cat": "ye",
+   "area": "likya",
+   "title": "Have dessert and traditional food at Sardunya in Kaş",
+   "desc": "Sardunya is a family-run traditional Turkish restaurant and café in Kaş, noted for desserts and cosy atmosphere.",
+   "tip": "Good for an after-dinner dessert and tea.",
+   "q": "Sardunya Restaurant, Kaş Merkez, Kaş, Antalya",
+   "ll": [
+    36.199,
+    29.63801
+   ],
+   "src": [
+    "https://www.tripadvisor.com.au/Restaurant_Review-g297965-d2679410-Reviews-Sardunya_Restaurant-Kas_Turkish_Mediterranean_Coast.html",
+    "https://www.staysbyme.com/a-locals-guide-to-the-best-cafes-and-restaurants-in-kas-antalya-turkiye/"
+   ]
+  },
+  {
+   "id": "buyukcakil",
+   "cat": "dene",
+   "area": "likya",
+   "title": "Swim at Büyük Çakıl Beach in Kaş",
+   "desc": "A pebble beach on the east side of Kaş, reached on foot from the old town, with sea views toward Meis.",
+   "tip": "Take shoes for the pebbles; summer weekends are busy.",
+   "q": "Büyük Çakıl Plajı, Kaş, Antalya",
+   "ll": [
+    36.19175,
+    29.65172
+   ],
+   "src": [
+    "https://www.hostelworld.com/blog/?p=1303057",
+    "https://turkeytravelplanner.com/go/med/kas/index.html"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "kaputas",
+   "cat": "dene",
+   "area": "likya",
+   "title": "Swim at Kaputaş beach below the cliff road",
+   "desc": "Kaputaş is a small sandy beach in a narrow gorge reached by steps from the Kaş-Kalkan road, 15-21 km from Kaş.",
+   "tip": "Arrive early; the steps are steep and it is crowded in July and August.",
+   "q": "Kaputaş Plajı, Kaş-Kalkan Yolu, Kaş, Antalya",
+   "ll": [
+    36.22839,
+    29.45002
+   ],
+   "src": [
+    "https://www.hostelworld.com/blog/?p=1303057",
+    "https://turkeytravelplanner.com/go/med/kas/index.html"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "kalkanoldtown",
+   "cat": "gor",
+   "area": "likya",
+   "title": "Wander Kalkan's old town and harbour",
+   "desc": "Kalkan's old Greek houses and narrow lanes climb above a small harbour, with rooftop restaurants and sea views.",
+   "tip": "Go at sunset and walk down to the harbour for dinner.",
+   "q": "Kalkan Eski Şehir, Kalkan, Kaş, Antalya",
+   "ll": [
+    36.27031,
+    29.41212
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Kalkan",
+    "https://www.simpsontravel.com/our-blog/what-to-do/things-to-do-in-kalkan"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "triokalkan",
+   "cat": "ye",
+   "area": "likya",
+   "title": "Dine at Trio on Kalkan harbour",
+   "desc": "Trio is a harbour restaurant serving Turkish, Mediterranean and international dishes, rated around 4.1 on Google.",
+   "tip": "Book a harbour-view table for sunset.",
+   "q": "Trio Restaurant, Kalkan Limanı, Kalkan, Kaş, Antalya",
+   "ll": [
+    36.26292,
+    29.41462
+   ],
+   "src": [
+    "https://wanderlog.com/list/geoCategory/199178/where-to-eat-best-restaurants-in-kalkan"
+   ]
+  },
+  {
+   "id": "kalamakikalkan",
+   "cat": "ye",
+   "area": "likya",
+   "title": "Dine on meze at Kalamaki in Kalkan's old town",
+   "desc": "Kalamaki is a casually stylish restaurant-bar in Kalkan's old town, serving meze, fusion and traditional Turkish dishes. Fodor's lists it among the area's recommended places.",
+   "tip": "Come at sunset for a table with a view and reserve in high season.",
+   "q": "Kalamaki Restaurant, Kalkan, Kaş, Antalya",
+   "ll": [
+    36.265,
+    29.414
+   ],
+   "src": [
+    "https://www.fodors.com/world/europe/turkey/the-turquoise-coast/restaurants/reviews/kalamaki-s853528"
+   ]
+  },
+  {
+   "id": "mabeynkalkan",
+   "cat": "ye",
+   "area": "likya",
+   "title": "Eat tender kebabs at Mabeyn in Kalkan",
+   "desc": "Mabeyn is a Kalkan restaurant praised by reviewers for smoky, tender kebabs.",
+   "tip": "Order the mixed grill.",
+   "q": "Mabeyn Ocakbaşı, Kalkan, Kaş, Antalya",
+   "ll": [
+    36.2645,
+    29.415
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/3106006/mabeyn-ocakbaşı"
+   ]
+  },
+  {
+   "id": "pataracity",
+   "cat": "gor",
+   "area": "likya",
+   "title": "Walk Patara's ancient city and theatre",
+   "desc": "Patara was the main port of Lycia, with a restored bouleuterion, a large theatre, Roman baths and the oldest known lighthouse.",
+   "tip": "Wear a hat; there is little shade.",
+   "q": "Patara Antik Kenti, Gelemiş, Kaş, Antalya",
+   "ll": [
+    36.27467,
+    29.31728
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Patara_(Lycia)",
+    "https://www.simpsontravel.com/our-blog/what-to-do/things-to-do-in-kalkan"
+   ]
+  },
+  {
+   "id": "patarabeach",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the long dunes of Patara beach",
+   "desc": "Patara beach is a 12 km stretch of sand, among the longest in Turkey, and a loggerhead turtle nesting site.",
+   "tip": "Swim May to October; closed after dark in nesting season.",
+   "q": "Patara Plajı, Gelemiş, Kaş, Antalya",
+   "ll": [
+    36.27161,
+    29.28959
+   ],
+   "src": [
+    "https://www.simpsontravel.com/our-blog/what-to-do/things-to-do-in-kalkan",
+    "https://en.wikipedia.org/wiki/Patara_(Lycia)"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "xanthos",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Lycian tombs and theatre of Xanthos",
+   "desc": "Xanthos was the capital of ancient Lycia; UNESCO listed the site with Letoon. Some relics were removed to the British Museum in the 19th century.",
+   "tip": "Pair with Letoon and Saklıkent on one day.",
+   "q": "Xanthos Antik Kenti, Kınık, Seydikemer, Muğla",
+   "ll": [
+    36.35611,
+    29.31861
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Xanthos",
+    "https://www.simpsontravel.com/our-blog/what-to-do/things-to-do-in-kalkan"
+   ]
+  },
+  {
+   "id": "letoon",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Letoon sanctuary near Xanthos",
+   "desc": "Letoon was the federal sanctuary of Lycia, with foundations of three temples to Leto, Apollo and Artemis. UNESCO World Heritage.",
+   "tip": "Often flooded in spring; visit in summer.",
+   "q": "Letoon Antik Kenti, Kumluova, Seydikemer, Muğla",
+   "ll": [
+    36.33194,
+    29.28972
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Letoon"
+   ]
+  },
+  {
+   "id": "saklikent",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Wade through Saklıkent Gorge",
+   "desc": "Saklıkent is an 18 km gorge up to 300 m deep with an icy river; visitors walk the floor, with rafting and canyoning available.",
+   "tip": "Wear water shoes and bring a change of clothes.",
+   "q": "Saklıkent Kanyonu, Saklıkent, Seydikemer, Muğla",
+   "ll": [
+    36.4735,
+    29.40408
+   ],
+   "src": [
+    "https://www.simpsontravel.com/our-blog/what-to-do/things-to-do-in-kalkan",
+    "https://en.wikipedia.org/wiki/Saklıkent_Gorge"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "yesilgol",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Seek out Yeşil Göl and Uçarsu waterfall above Gömbe",
+   "desc": "Yeşil Göl (Green Lake) and Uçarsu Waterfall lie on Akdağ above Gömbe, a highland of cedars and apple orchards at about 1,200 m.",
+   "tip": "Highland roads; best from late spring to autumn.",
+   "q": "Uçarsu Şelalesi ve Yeşil Göl, Gömbe, Kaş, Antalya",
+   "ll": [
+    36.613,
+    29.592
+   ],
+   "src": [
+    "https://antalya.com.tr/en/discovery/nature/waterfalls/ucarsu-waterfall",
+    "https://fethiyetimes.com/a-trip-to-yesil-gol-and-ucarsu-selalesi-near-gombe-akdag/"
+   ]
+  },
+  {
+   "id": "elmalitown",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander Elmalı, Turkey's apple town",
+   "desc": "Elmalı produces about 12 percent of Turkey's apples and is known for leblebi roasted chickpeas, with a cedar research forest nearby.",
+   "tip": "Visit in autumn for the apple harvest.",
+   "q": "Elmalı Çarşı, Elmalı, Antalya",
+   "ll": [
+    36.73838,
+    29.91836
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Elmal%C4%B1",
+    "https://www.turkeyfromtheinside.com/?p=801"
+   ]
+  },
+  {
+   "id": "kascukurbag",
+   "cat": "dene",
+   "area": "likya",
+   "title": "Walk the Çukurbağ peninsula at sunset",
+   "desc": "The wooded Çukurbağ peninsula west of Kaş has coastal paths, small coves and sunset views over Meis.",
+   "tip": "Walk from the Antiphellos theatre side; take water.",
+   "q": "Çukurbağ Yarımadası, Kaş, Antalya",
+   "ll": [
+    36.19452,
+    29.60218
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Kaş",
+    "https://turkeytravelplanner.com/go/med/kas/index.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

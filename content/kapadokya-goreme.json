@@ -1,0 +1,694 @@
+{
+ "new": [
+  {
+   "id": "goremeopenair",
+   "cat": "gor",
+   "area": "goreme",
+   "title": "Wander the rock-cut churches of Göreme Open-Air Museum",
+   "desc": "A UNESCO-listed monastic complex of rock-cut churches, chapels and refectories, with 10th to 13th century frescoes. The Dark Church (Karanlık Kilise) keeps the best-preserved colours thanks to its tiny windows.",
+   "tip": "Arrive at opening to beat the tour groups; the Dark Church needs a separate ticket. Allow about two hours.",
+   "q": "Göreme Açık Hava Müzesi, Göreme, Nevşehir",
+   "ll": [
+    38.64014,
+    34.84538
+   ],
+   "src": [
+    "https://www.turkisharchaeonews.net/museum/g%C3%B6reme-open-air-museum",
+    "https://turkeytravelplanner.com/go/CentralAnatolia/Cappadocia/goreme/GoremeValley.html"
+   ]
+  },
+  {
+   "id": "tokalikilise",
+   "cat": "gor",
+   "area": "goreme",
+   "title": "See the frescoes of Tokalı Church",
+   "desc": "Tokalı Kilise is the largest rock-cut church of the Göreme valley, with a barrel-vaulted old church and a newer nave painted in vivid blue and red. It stands just below the open-air museum complex.",
+   "tip": "Check whether it is covered by the Open-Air Museum ticket; visit early or late in the day.",
+   "q": "Tokalı Kilise, Göreme Açık Hava Müzesi, Göreme, Nevşehir",
+   "ll": [
+    38.6411,
+    34.84467
+   ],
+   "src": [
+    "https://expedia.ie/Tokali-Church-Goreme.d553248634340909088.Attraction",
+    "https://turkeytravelplanner.com/go/CentralAnatolia/Cappadocia/goreme/GoremeValley.html"
+   ]
+  },
+  {
+   "id": "uchisarcastle",
+   "cat": "gor",
+   "area": "goreme",
+   "title": "Climb Uçhisar Castle for the highest view in Cappadocia",
+   "desc": "A huge volcanic rock pierced by tunnels and rooms, the highest point of the region. From the top the view runs from Göreme and Pigeon Valley to Mount Erciyes.",
+   "tip": "Go at sunset when the light turns the valleys orange; there is an entrance fee and steep stairs.",
+   "q": "Uçhisar Kalesi, Uçhisar, Nevşehir",
+   "ll": [
+    38.63044,
+    34.80532
+   ],
+   "src": [
+    "https://goturkiye.com/cappadocia/see-cappadocia",
+    "https://www.planetware.com:443/tourist-attractions-/cappadocia-tr-nv-c.htm"
+   ]
+  },
+  {
+   "id": "ortahisarcastle",
+   "cat": "gor",
+   "area": "goreme",
+   "title": "Explore the rock fortress of Ortahisar",
+   "desc": "Ortahisar Castle is a large natural rock used as a fortress and later as a food store, since the cool interior kept lemons and potatoes fresh. A stairway leads to a rooftop viewpoint over the village.",
+   "tip": "Less crowded than Uçhisar; combine with the Rose Valley viewpoint nearby.",
+   "q": "Ortahisar Kalesi, Ortahisar, Ürgüp, Nevşehir",
+   "ll": [
+    38.62038,
+    34.86445
+   ],
+   "src": [
+    "https://destinationlesstravel.com/where-to-stay-in-cappadocia-turkey/",
+    "https://www.travelplusstyle.com/?p=1476"
+   ]
+  },
+  {
+   "id": "cavusinchurch",
+   "cat": "gor",
+   "area": "goreme",
+   "title": "Visit the cave church of Çavuşin",
+   "desc": "Çavuşin Church (Church of St John the Baptist) is an early rock church with frescoes in a cliff above the old abandoned village. The old village of cave houses lies beside it.",
+   "tip": "Short climb from the main road; walk through the abandoned village for sunset views.",
+   "q": "Çavuşin Kilisesi, Çavuşin, Göreme, Nevşehir",
+   "ll": [
+    38.67358,
+    34.83993
+   ],
+   "src": [
+    "https://www.travelplusstyle.com/?p=1476",
+    "https://roughguides.com/turkey/cappadocia"
+   ]
+  },
+  {
+   "id": "pasabag",
+   "cat": "gor",
+   "area": "goreme",
+   "title": "Walk among the mushroom chimneys of Paşabağ",
+   "desc": "Paşabağ (Monks Valley) has the region's best triple-capped fairy chimneys and was used by hermit monks for seclusion. The site is a short walk from the road.",
+   "tip": "Ticket is shared with Zelve; early morning or sunset gives the best light.",
+   "q": "Paşabağ Müzesi, Zelve Yolu, Çavuşin, Avanos, Nevşehir",
+   "ll": [
+    38.6785,
+    34.881
+   ],
+   "src": [
+    "https://www.turkishmuseums.com/museum/detail/2211-nevsehir-zelve-pasabaglari-orenyeri/2211/4"
+   ]
+  },
+  {
+   "id": "zelveopenair",
+   "cat": "gor",
+   "area": "goreme",
+   "title": "Explore the abandoned cave village of Zelve",
+   "desc": "Zelve is a valley of abandoned cave dwellings, churches and a rock mill, inhabited until the 1950s when erosion forced the move to Yeni Zelve. It is a short drive from Avanos.",
+   "tip": "Some churches are closed; bring good shoes. The ticket is shared with Paşabağ.",
+   "q": "Zelve Açık Hava Müzesi, Zelve, Avanos, Nevşehir",
+   "ll": [
+    38.66574,
+    34.86529
+   ],
+   "src": [
+    "https://www.turkisharchaeonews.net/content/avanos",
+    "https://www.travelplusstyle.com/?p=1476"
+   ]
+  },
+  {
+   "id": "devrentvalley",
+   "cat": "gor",
+   "area": "goreme",
+   "title": "Spot animal shapes in Devrent (Imagination) Valley",
+   "desc": "Devrent Valley is full of tall cone-shaped chimneys that people say resemble camels and other animals, the best known being the Camel rock. It can be seen from a roadside parking area.",
+   "tip": "Free and uncrowded; it fits well between Paşabağ and Avanos.",
+   "q": "Devrent Vadisi, Çavuşin, Avanos, Nevşehir",
+   "ll": [
+    38.67508,
+    34.88434
+   ],
+   "src": [
+    "https://destinationlesstravel.com/where-to-stay-in-cappadocia-turkey/",
+    "https://www.travelplusstyle.com/?p=1476"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "temennihill",
+   "cat": "gor",
+   "area": "goreme",
+   "title": "Make a wish on Temenni Hill above Ürgüp",
+   "desc": "Temenni Hill (Wishing Hill) is the highest point in Ürgüp and has a panorama over the town and, on clear days, towards Mount Erciyes. Rock tombs and a small museum house are on the slopes.",
+   "tip": "Easy walk from the main square; visit at sunset.",
+   "q": "Temenni Tepesi, Ürgüp, Nevşehir",
+   "ll": [
+    38.6322,
+    34.9068
+   ],
+   "src": [
+    "https://www.ktb.gov.tr/EN-36075/where-to-visit.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gurayceramicmuseum",
+   "cat": "gor",
+   "area": "goreme",
+   "title": "Descend into the Güray Ceramic Museum in Avanos",
+   "desc": "A museum carved beneath the rocks of Avanos, displaying ceramics from different periods of Cappadocia's pottery tradition. It belongs to the Güray family workshop.",
+   "tip": "Combine with a pottery demonstration.",
+   "q": "Güray Seramik Müzesi, Avanos, Nevşehir",
+   "ll": [
+    38.70999,
+    34.83468
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/turkey/avanos/attractions/guray-ceramic-museum/a/poi-sig/1494322/360874"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "lovevalley",
+   "cat": "gor",
+   "area": "goreme",
+   "title": "Look over the rock chimneys of Love Valley",
+   "desc": "Love Valley (Aşıklar Vadisi) is a short valley of tall phallus-shaped tuff chimneys between Göreme and Çavuşin. Its viewpoint can be reached by car or on foot.",
+   "tip": "Walk it from Göreme for free; bring water and sturdy shoes.",
+   "q": "Aşıklar Vadisi, Göreme, Nevşehir",
+   "ll": [
+    38.6634,
+    34.8296
+   ],
+   "src": [
+    "https://www.travelplusstyle.com/?p=1476",
+    "https://turkeytravelplanner.com/go/CentralAnatolia/Cappadocia/hiking.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "goremesunsetpoint",
+   "cat": "gor",
+   "area": "goreme",
+   "title": "Watch the sun go down at Göreme Sunset Point",
+   "desc": "A hilltop terrace above Göreme town facing the valleys and fairy chimneys. It is the nearest viewpoint to the village and is busy at dusk.",
+   "tip": "Arrive 45 minutes before sunset; free to enter.",
+   "q": "Göreme Sunset View Point, Göreme, Nevşehir",
+   "ll": [
+    38.6398,
+    34.83105
+   ],
+   "src": [
+    "https://twowanderingsoles.com/blog/things-to-do-in-cappadocia-turkey",
+    "https://www.lonelyplanet.com/articles/top-things-to-do-in-cappadocia"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "dibekgoreme",
+   "cat": "ye",
+   "area": "goreme",
+   "title": "Eat testi kebabı at Dibek in Göreme",
+   "desc": "Dibek is a restored stone house in central Göreme known for traditional Cappadocian dishes, notably testi kebabı, meat and vegetables sealed in a clay pot and broken open at the table.",
+   "tip": "Ask for the testi kebabı in advance, as it takes time to cook.",
+   "q": "Dibek Restaurant, Göreme, Nevşehir",
+   "ll": [
+    38.6435,
+    34.8285
+   ],
+   "src": [
+    "https://culinarybackstreets.com/?p=11047",
+    "https://theculturetrip.com/europe/turkey/articles/the-10-best-restaurants-in-goreme"
+   ]
+  },
+  {
+   "id": "setengoreme",
+   "cat": "ye",
+   "area": "goreme",
+   "title": "Try clay-pot kebab at Seten Anatolian Cuisine",
+   "desc": "Seten opened in 2010 around an arched courtyard and serves Anatolian dishes, with a signature pottery kebab prepared on the spot. It is a more polished option in Göreme.",
+   "tip": "Book a table on the terrace for sunset views.",
+   "q": "Seten Anatolian Cuisine, Göreme, Nevşehir",
+   "ll": [
+    38.64136,
+    34.82589
+   ],
+   "src": [
+    "https://vigotours.com/blog/detail/best-restaurants-in-cappadocia-guide-2025",
+    "https://wanderlog.com/list/geoCategory/1501360"
+   ]
+  },
+  {
+   "id": "topdeckcave",
+   "cat": "ye",
+   "area": "goreme",
+   "title": "Dine in an old cave stable at Topdeck Cave Restaurant",
+   "desc": "Topdeck Cave Restaurant occupies a restored cave stable in Göreme and is among its most consistently rated restaurants. Pottery kebab and lamb dishes are on the menu.",
+   "tip": "Book ahead in high season; try the pottery kebab.",
+   "q": "Topdeck Cave Restaurant, Göreme, Nevşehir",
+   "ll": [
+    38.6422,
+    34.8288
+   ],
+   "src": [
+    "https://cappadocia4u.com/best-restaurants-in-cappadocia",
+    "https://wanderlog.com/list/geoCategory/1501360"
+   ]
+  },
+  {
+   "id": "pumpkingoreme",
+   "cat": "ye",
+   "area": "goreme",
+   "title": "Taste the kebab at Pumpkin Göreme",
+   "desc": "Pumpkin Göreme is known for its lanterns made from colourful gourds and for affordable kebabs. It is a casual place in the old centre of Göreme.",
+   "tip": "Visit in the evening when the lanterns are lit.",
+   "q": "Pumpkin Göreme Restaurant, Göreme, Nevşehir",
+   "ll": [
+    38.64299,
+    34.83026
+   ],
+   "src": [
+    "https://wanderlog.com/list/geoCategory/1501360",
+    "https://theculturetrip.com/europe/turkey/articles/the-10-best-restaurants-in-goreme"
+   ]
+  },
+  {
+   "id": "sedefgoreme",
+   "cat": "ye",
+   "area": "goreme",
+   "title": "Order the lamb kebab at Sedef Restaurant",
+   "desc": "Sedef is a Göreme restaurant serving a Turkish and international menu, with a signature lamb kebab.",
+   "tip": "Reserve on busy nights.",
+   "q": "Sedef Restaurant, Göreme, Nevşehir",
+   "ll": [
+    38.64372,
+    34.83097
+   ],
+   "src": [
+    "https://wanderlog.com/list/geoCategory/1501360"
+   ]
+  },
+  {
+   "id": "nazarborek",
+   "cat": "ye",
+   "area": "goreme",
+   "title": "Eat apple börek at Nazar Börek",
+   "desc": "Nazar Börek in Göreme serves savoury and sweet böreks, with its elma böreği (apple pastry) singled out by guides. It is a quick breakfast or lunch stop.",
+   "tip": "Go before noon; prices are low.",
+   "q": "Nazar Börek, Göreme, Nevşehir",
+   "ll": [
+    38.64409,
+    34.82245
+   ],
+   "src": [
+    "https://wanderlog.com/list/geoCategory/1501360"
+   ]
+  },
+  {
+   "id": "zeytinurgup",
+   "cat": "ye",
+   "area": "goreme",
+   "title": "Eat home cooking at Zeytin Café in Ürgüp",
+   "desc": "Zeytin Café & Ev Yemekleri is a small Ürgüp restaurant cited by Culinary Backstreets for a local-favourite testi kebabı, alongside clay-pot beans and mantı.",
+   "tip": "Ask whether the testi kebabı needs pre-ordering.",
+   "q": "Zeytin Cafe & Ev Yemekleri, Atatürk Bulvarı No:31, İmran Mahallesi, Ürgüp, Nevşehir",
+   "ll": [
+    38.6313,
+    34.9116
+   ],
+   "src": [
+    "https://culinarybackstreets.com/?p=11047"
+   ]
+  },
+  {
+   "id": "dimriturgup",
+   "cat": "ye",
+   "area": "goreme",
+   "title": "Break open a pottery kebab at Dimrit Restaurant",
+   "desc": "Dimrit is an Ürgüp restaurant in the town centre known for its pottery kebab and Anatolian dishes.",
+   "tip": "Book ahead for the pottery kebab.",
+   "q": "Dimrit Restaurant, Ürgüp, Nevşehir",
+   "ll": [
+    38.63316,
+    34.9048
+   ],
+   "src": [
+    "https://vigotours.com/blog/detail/best-restaurants-in-cappadocia-guide-2025",
+    "https://turkeytravelplanner.com/go/CentralAnatolia/Cappadocia/urgup/index.html"
+   ]
+  },
+  {
+   "id": "ehlikeyf",
+   "cat": "ye",
+   "area": "goreme",
+   "title": "Dine under Temenni Hill at Ehlikeyf",
+   "desc": "Ehlikeyf stands on the west end of Atatürk Bulvarı in Ürgüp, its dining room overlooking Wishing Hill, with live music most evenings from 20:30.",
+   "tip": "Try the Cappadocian specialities and local wine.",
+   "q": "Ehlikeyf Restaurant, Atatürk Bulvarı, Ürgüp, Nevşehir",
+   "ll": [
+    38.6309,
+    34.9082
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/2694226"
+   ]
+  },
+  {
+   "id": "sofraurgup",
+   "cat": "ye",
+   "area": "goreme",
+   "title": "Eat well-priced Turkish dishes at Sofra in Ürgüp",
+   "desc": "Sofra is on Atatürk Bulvarı near the main square and is praised by Wikivoyage for cooking that is good value for money. Sit indoors, as the street is busy.",
+   "tip": "Choose the daily stews and kebabs.",
+   "q": "Sofra Restaurant, Atatürk Bulvarı, Ürgüp, Nevşehir",
+   "ll": [
+    38.6315,
+    34.9113
+   ],
+   "src": [
+    "https://kwx.liehendr.com/content/wikivoyage_en_all_maxi_2025-02/A/Urgup",
+    "https://turkeytravelplanner.com/go/CentralAnatolia/Cappadocia/urgup/index.html"
+   ]
+  },
+  {
+   "id": "bizimevavanos",
+   "cat": "ye",
+   "area": "goreme",
+   "title": "Have lunch in the stone house of Bizim Ev",
+   "desc": "Bizim Ev is a restored old stone house in Avanos serving reliable Turkish dishes at fair prices, popular with groups. It is tucked away from the main road.",
+   "tip": "Try the pottery kebab or a lamb stew.",
+   "q": "Bizim Ev, Avanos, Nevşehir",
+   "ll": [
+    38.71795,
+    34.8435
+   ],
+   "src": [
+    "https://fodors.fodors.com/world/europe/turkey/cappadocia-and-central-turkey/restaurants/reviews/bizim-ev-164663580"
+   ]
+  },
+  {
+   "id": "dayininyeri",
+   "cat": "ye",
+   "area": "goreme",
+   "title": "Eat kebabs at Dayının Yeri in Avanos",
+   "desc": "Dayının Yeri is a kebab restaurant near the bridge on the road from Göreme to Avanos, highly regarded for its grilled meats.",
+   "tip": "Pair it with a pottery stop in the afternoon.",
+   "q": "Dayının Yeri, Avanos, Nevşehir",
+   "ll": [
+    38.71425,
+    34.84517
+   ],
+   "src": [
+    "https://wanderlog.com/list/geoCategory/369104",
+    "https://www.chasingthedonkey.com/guide-itinerary-for-avanos-cappadocia-turkey/"
+   ]
+  },
+  {
+   "id": "houseofmemories",
+   "cat": "ye",
+   "area": "goreme",
+   "title": "Eat testi kebabı at House of Memories in Uçhisar",
+   "desc": "House of Memories is a restaurant in Uçhisar that Turkish bloggers rate among the best places for testi kebabı in Cappadocia.",
+   "tip": "Reserve and order the pot kebab early.",
+   "q": "House of Memories Restaurant, Uçhisar, Nevşehir",
+   "ll": [
+    38.6297,
+    34.80628
+   ],
+   "src": [
+    "https://www.bizevdeyokuz.com/en/?p=42110"
+   ]
+  },
+  {
+   "id": "lilauchisar",
+   "cat": "ye",
+   "area": "goreme",
+   "title": "Have sunset drinks on Lil'a's terrace in Uçhisar",
+   "desc": "Lil'a, part of the Museum Hotel, has a terrace that overlooks Uçhisar, with a view that is especially good at sunset. It serves contemporary Turkish dishes.",
+   "tip": "Book for sunset; prices are high.",
+   "q": "Lil'a Restaurant, Museum Hotel, Tekelli Mahallesi No:1, Uçhisar, Nevşehir",
+   "ll": [
+    38.6291,
+    34.8035
+   ],
+   "src": [
+    "https://guide.michelin.com/en/nevsehir/nevsehir-merkez_2821449/restaurant/lil-a-restaurant"
+   ]
+  },
+  {
+   "id": "sekiuchisar",
+   "cat": "ye",
+   "area": "goreme",
+   "title": "Taste local dishes with a view at Seki Restaurant",
+   "desc": "Seki Restaurant in Uçhisar serves local Cappadocian cuisine with a wide view of the valleys.",
+   "tip": "Try it at lunch for the view.",
+   "q": "Seki Restaurant, Uçhisar, Nevşehir",
+   "ll": [
+    38.6287,
+    34.8051
+   ],
+   "src": [
+    "https://wanderlog.com/list/geoCategory/369104"
+   ]
+  },
+  {
+   "id": "millocal",
+   "cat": "ye",
+   "area": "goreme",
+   "title": "Dine beneath the fortress at Millocal",
+   "desc": "Millocal is a newer restaurant-bar in Uçhisar sitting just under the castle, listed among the viewpoint restaurants of Cappadocia.",
+   "tip": "Go at dusk for views of the lit castle.",
+   "q": "Millocal, Uçhisar, Nevşehir",
+   "ll": [
+    38.63074,
+    34.80058
+   ],
+   "src": [
+    "https://guide.michelin.com/us/en/article/travel/turkyie-cappadocia-restaurants-with-breathtaking-views"
+   ]
+  },
+  {
+   "id": "royalballoon",
+   "cat": "dene",
+   "area": "goreme",
+   "title": "Fly with Royal Balloon over the valleys",
+   "desc": "Royal Balloon has operated in Cappadocia since 2010, with a maximum of 20 passengers per flight and breakfast served at its Göreme base. Flights lift off at dawn over the Göreme valleys.",
+   "tip": "Book weeks ahead; flights depend on wind and can be cancelled.",
+   "q": "Royal Balloon, Avcılar Mahallesi, Göreme, Nevşehir",
+   "ll": [
+    38.64848,
+    34.83337
+   ],
+   "src": [
+    "https://turkeytravelplanner.com/special/balloon/best_balloons.html",
+    "https://turkeytravelplanner.com/special/balloon/royal_balloon.html"
+   ]
+  },
+  {
+   "id": "butterflyballoons",
+   "cat": "dene",
+   "area": "goreme",
+   "title": "Float at dawn with Butterfly Balloons",
+   "desc": "Butterfly Balloons is a Göreme operator whose pilots hold commercial licences and which is part owned by the owner of the Kelebek Hotel.",
+   "tip": "Book months ahead for summer.",
+   "q": "Butterfly Balloons, Göreme, Nevşehir",
+   "ll": [
+    38.64627,
+    34.82555
+   ],
+   "src": [
+    "https://turkeytravelplanner.com/special/balloon/butterfly_balloons.html",
+    "https://turkeytravelplanner.com/special/balloon/best_balloons.html"
+   ]
+  },
+  {
+   "id": "kapadokyaballoons",
+   "cat": "dene",
+   "area": "goreme",
+   "title": "Take off with Kapadokya Balloons",
+   "desc": "Kapadokya Balloons is described as the oldest and largest balloon company in Cappadocia, flying since 1991 from Göreme.",
+   "tip": "Dawn departures; hotel transfer is usual.",
+   "q": "Kapadokya Balloons, Göreme, Nevşehir",
+   "ll": [
+    38.64509,
+    34.82856
+   ],
+   "src": [
+    "https://turkeytravelplanner.com/special/balloon/best_balloons.html",
+    "https://fodors.fodors.com/world/europe/turkey/cappadocia-and-central-turkey/experiences/ballooning-in-cappadocia-117331260"
+   ]
+  },
+  {
+   "id": "chezgalip",
+   "cat": "dene",
+   "area": "goreme",
+   "title": "Throw a pot at Chez Galip pottery and hair museum",
+   "desc": "Chez Galip is the best-known pottery workshop in Avanos, working red clay from the Kızılırmak river. Its cave-like cellar holds the hair museum with locks from thousands of women.",
+   "tip": "Join a short wheel-throwing session; open 10:00 to 20:00.",
+   "q": "Chez Galip Saç Müzesi, Kızılırmak Caddesi 401. Sokak No:91, Yeni Mahalle, Avanos, Nevşehir",
+   "ll": [
+    38.7157,
+    34.8465
+   ],
+   "src": [
+    "https://whichmuseum.com/museum/chez-galip-avanos-ilce-merkezi-24746"
+   ]
+  },
+  {
+   "id": "kayaseramik",
+   "cat": "dene",
+   "area": "goreme",
+   "title": "Watch red clay turned at Kaya Seramik",
+   "desc": "Kaya Seramik House is a pottery workshop and shop near Avanos, making ceramics from the red clay of the Kızılırmak.",
+   "tip": "Ask for a demonstration or a wheel lesson.",
+   "q": "Kaya Seramik, Avanos, Nevşehir",
+   "ll": [
+    38.70991,
+    34.83462
+   ],
+   "src": [
+    "https://www.frommers.com/destinations/cappadocia-and-the-interior/shopping"
+   ]
+  },
+  {
+   "id": "avanosriver",
+   "cat": "dene",
+   "area": "goreme",
+   "title": "Stroll the Kızılırmak riverside in Avanos",
+   "desc": "The Kızılırmak (Red River), Turkey's longest, runs through Avanos and its red clay feeds the town's pottery industry. A riverside walk crosses the bridge to the potters' quarter.",
+   "tip": "Best in the late afternoon.",
+   "q": "Avanos Köprüsü, Kızılırmak, Avanos, Nevşehir",
+   "ll": [
+    38.7172,
+    34.8465
+   ],
+   "src": [
+    "https://www.enuygun.com/bilgi/avanos-ta-gezilecek-yerler/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "turasanwinery",
+   "cat": "dene",
+   "area": "goreme",
+   "title": "Taste Cappadocian wines at Turasan Winery",
+   "desc": "Turasan has a shop and tasting bar at its bottling facility on Tevfik Fikret Caddesi in Ürgüp and offers tasting tours of vineyard and cellar.",
+   "tip": "Open daily; book a tour with four tastings.",
+   "q": "Turasan Şarapçılık, Tevfik Fikret Caddesi, Ürgüp, Nevşehir",
+   "ll": [
+    38.63316,
+    34.90423
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/turkey/cappadocia-kapadokya/urgup/attractions/turasan-winery/a/poi-sig/474806/360877",
+    "https://www.frommers.com/destinations/cappadocia-and-the-interior/attractions/vineyards"
+   ]
+  },
+  {
+   "id": "kocabagwinery",
+   "cat": "dene",
+   "area": "goreme",
+   "title": "Sip Cappadocian wine at Kocabağ Winery",
+   "desc": "Kocabağ is a pioneer of commercial Cappadocian wine, with tastings and vineyard visits near Ürgüp and Uçhisar.",
+   "tip": "Check which tasting room is open before you go.",
+   "q": "Kocabağ Şarap Evi, Tevfik Fikret Caddesi, Ürgüp, Nevşehir",
+   "ll": [
+    38.63232,
+    34.79687
+   ],
+   "src": [
+    "https://turkeytravelplanner.com/wine/kocabag.html"
+   ]
+  },
+  {
+   "id": "pigeonvalleywalk",
+   "cat": "dene",
+   "area": "goreme",
+   "title": "Hike Pigeon Valley from Uçhisar to Göreme",
+   "desc": "A trail follows Güvercinlik Valley between Uçhisar and Göreme, past rock dovecotes cut in the cliffs. It takes about two hours.",
+   "tip": "Start at the Uçhisar viewpoint and finish in Göreme; carry water.",
+   "q": "Güvercinlik Vadisi, Uçhisar, Nevşehir",
+   "ll": [
+    38.63038,
+    34.81307
+   ],
+   "src": [
+    "https://turkeytravelplanner.com/go/CentralAnatolia/Cappadocia/hiking.html",
+    "https://www.travelplusstyle.com/?p=1476"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rosevalleysunset",
+   "cat": "dene",
+   "area": "goreme",
+   "title": "Hike Rose Valley to the panoramic viewpoint",
+   "desc": "The Güllüdere trails link the Panoramic Viewpoint near Ortahisar with Çavuşin, through rose-coloured rock. The hike is best at sunset.",
+   "tip": "Allow 2 to 3 hours; wear solid shoes.",
+   "q": "Güllüdere Vadisi, Çavuşin, Nevşehir",
+   "ll": [
+    38.65108,
+    34.85618
+   ],
+   "src": [
+    "https://turkeytravelplanner.com/go/CentralAnatolia/Cappadocia/hiking.html",
+    "https://www.travelplusstyle.com/?p=1476"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kizilcukursunset",
+   "cat": "dene",
+   "area": "goreme",
+   "title": "Catch sunset over Red Valley (Kızılçukur)",
+   "desc": "Red Valley, near Çavuşin and Ortahisar, glows crimson as the sun sets. A viewpoint above the ravine is a standard sunset stop.",
+   "tip": "Arrive early; free.",
+   "q": "Kızılçukur Vadisi, Çavuşin, Nevşehir",
+   "ll": [
+    38.65099,
+    34.85359
+   ],
+   "src": [
+    "https://www.travelplusstyle.com/?p=1476",
+    "https://turkeytravelplanner.com/go/CentralAnatolia/Cappadocia/hiking.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "katpatukaranch",
+   "cat": "dene",
+   "area": "goreme",
+   "title": "Ride at Katpatuka Horses Ranch in Çavuşin",
+   "desc": "A family-run horse ranch in Çavuşin that leads rides through the surrounding valleys. Sunset and morning rides are available.",
+   "tip": "Book ahead and say how experienced you are so they match the horse.",
+   "q": "Katpatuka Horses Ranch, Çavuşin, Avanos, Nevşehir",
+   "ll": [
+    38.6745,
+    34.842
+   ],
+   "src": [
+    "https://theguide.tab.travel/fzyvz/katpatuka-horses-ranch-cappadocia/"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,790 @@
+{
+ "new": [
+  {
+   "id": "bursatophaneclock",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb to Tophane Park for the clock tower and city view",
+   "desc": "Tophane Park sits inside the old citadel walls above the city. Its six-storey, 33 m clock tower dates from 1905 and a ledge at the north end looks over the Bursa plain and the Uludağ foothills.",
+   "tip": "Come in the late afternoon and take tea at the park cafés. Free to enter.",
+   "q": "Tophane Saat Kulesi, Tophane Parkı, Osmangazi, Bursa",
+   "ll": [
+    40.18662,
+    29.05751
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Tophane_Clock_Tower",
+    "https://nomadicniko.com/turkey/bursa/castle"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bursaimperialgate",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk through the Imperial Gate of Bursa's citadel walls",
+   "desc": "Saltanat Kapısı, the Imperial Gate, was the main gate of pre-Ottoman and early Ottoman Bursa, restored by Sultan Mehmed I in 1418. The surviving walls of the citadel run around the Hisar quarter.",
+   "tip": "Follow the walls clockwise toward Tahtakale and Yerkapı gates. Free and always open.",
+   "q": "Saltanat Kapısı, Hisar, Osmangazi, Bursa",
+   "ll": [
+    40.1861,
+    29.0588
+   ],
+   "src": [
+    "https://www.bursa.com.tr/en/mekan/sultanate-gate-189/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bursazindankapi",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Dungeon Gate museum on the castle walls",
+   "desc": "The Zindan Kapı, a prison until the late 19th century, reopened in 2021 as a free museum built into the citadel walls. It lies at the end of Kalebahçe Street, where locals have built homes against the ramparts.",
+   "tip": "Pair it with a walk along Kalebahçe Sokak. Check opening days before going.",
+   "q": "Zindan Kapı, Kalebahçe Sokak, Hisar, Osmangazi, Bursa",
+   "ll": [
+    40.1833,
+    29.0552
+   ],
+   "src": [
+    "https://www.bursa.com.tr/en/mekan/the-dungeon-gate-288/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bursakavaklicami",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find the old plane tree at Kavaklı Mosque in Hisar",
+   "desc": "The Kavaklı Mosque on Kavaklı Avenue dates from the reign of Murad I and is known for a plane tree thought to be among the oldest in Bursa. It stands among medreses and tombs in the walled Hisar quarter.",
+   "tip": "Continue downhill to the Üftade Mosque and the Yerkapı Gate. Free.",
+   "q": "Kavaklı Camii, Kavaklı Mahallesi, Osmangazi, Bursa",
+   "ll": [
+    40.22187,
+    29.10796
+   ],
+   "src": [
+    "https://www.visitbursa.org/mekanlar/kavakli-cami-276"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bursaottomanhouse",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step inside the Ottoman House Museum near Muradiye",
+   "desc": "A 17th-century Bursa house beside the Muradiye complex, furnished as a family home. It is believed to stand on the site of the palace of Sultan Murad II.",
+   "tip": "Combine it with the Muradiye tombs next door and confirm opening hours.",
+   "q": "Osmanlı Evi Müzesi, Muradiye Mahallesi, Osmangazi, Bursa",
+   "ll": [
+    40.1914,
+    29.04574
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Museum_of_Ottoman_House",
+    "https://artessere.com/bursa-ottoman-house-museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bursauluumay",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See Ottoman costumes and jewellery at the Uluumay Museum",
+   "desc": "The museum opened on 18 September 2004 in the Şair Ahmet Paşa Medrese in Muradiye. It shows the private collection of Esat Uluumay, with traditional Ottoman-era garments and about 400 pieces of jewellery from Bursa and the region.",
+   "tip": "Allow an hour and check current opening hours.",
+   "q": "Uluumay Osmanlı Halk Kıyafetleri ve Takıları Müzesi, Muradiye, Osmangazi, Bursa",
+   "ll": [
+    40.19185,
+    29.04586
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/4027457/uluumay-vakfı-osmanlı-halk-kıyafetleri-ve-takılar-müzesi",
+    "https://nomadicniko.com/2023/10/29/muradiye-bursa"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bursaemirhan",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Sip tea in the courtyard of Emir Han",
+   "desc": "Emir Han is a caravanserai built for Orhan Gazi's complex and described as the first city khan in Anatolian Turkish architecture. Its courtyard tea garden has an old fountain and a view of the Ulu Cami.",
+   "tip": "Sit by the central pool near the back entrance by the Ulu Cami and order a tea.",
+   "q": "Emir Han, Ulu Mahallesi, Osmangazi, Bursa",
+   "ll": [
+    40.18395,
+    29.0635
+   ],
+   "src": [
+    "https://www.bursa.com.tr/en/mekan/emir-khan-112",
+    "https://islamansiklopedisi.org.tr/emir-hani"
+   ]
+  },
+  {
+   "id": "yenisehirsinanpasha",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Sinan Pasha complex in Yenişehir",
+   "desc": "The Ottoman complex in Yenişehir centres on the Sinan Paşa mosque and caravanserai, one of several Ottoman monuments in a district that also has the Saray and Çifte hamams.",
+   "tip": "Stop here on the way between Bursa and Bilecik. Check what is open before going.",
+   "q": "Sinanpaşa Külliyesi, Namazgâh Caddesi No:1, Yeni Mahalle, Yenişehir, Bursa",
+   "ll": [
+    40.2649,
+    29.634
+   ],
+   "src": [
+    "https://www.bursa.com.tr/en/mekan/sinanpasha-ottoman-complex-yenisehir-548/"
+   ]
+  },
+  {
+   "id": "yarhisarorhancami",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Orhan Gazi's 14th-century mosque at Yarhisar",
+   "desc": "Orhan Bey built a complex at Yarhisar in 1339-1340, in his father's homeland, with a mosque, medrese, hamam and inn; the mosque and fountain are still in use. A village clock tower stands nearby.",
+   "tip": "Combine it with the Cennet Kanyonu valley nearby. Dress modestly.",
+   "q": "Orhan Gazi Camii, Yarhisar, Yenişehir, Bursa",
+   "ll": [
+    40.31,
+    29.72
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Yeni%C5%9Fehir,_Bursa"
+   ]
+  },
+  {
+   "id": "bursahealthmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore the Dr. Ceyhun İrgil Health Museum in Nilüfer",
+   "desc": "The museum opened in 2024 and holds the collection of the former Bursa Health History Museum, which closed in 2020. It traces the history of medicine in the city.",
+   "tip": "Check opening hours first as it is a newer museum.",
+   "q": "Dr. Ceyhun İrgil Sağlık Müzesi, Nilüfer, Bursa",
+   "ll": [
+    40.214,
+    28.978
+   ],
+   "src": [
+    "https://visitbursa.org/mekanlar/dr-ceyhun-irgil-saglik-muzesi-1823"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "kestelkalesi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Find the Roman fortress that gave Kestel its name",
+   "desc": "The town of Kestel is named after a fortress, Kastel, built in the Roman period. Its remains overlook the district east of Bursa.",
+   "tip": "Check local access before climbing; the site is little developed.",
+   "q": "Kestel Kalesi, Kestel, Bursa",
+   "ll": [
+    40.20172,
+    29.21563
+   ],
+   "src": [
+    "https://www.enuygun.com/bilgi/bursa-da-gunubirlik-gezilecek-yerler/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kursunlumanastir",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look for the Kurşunlu Monastery on the Gemlik coast",
+   "desc": "Kurşunlu Manastırı is listed among the sights of the Gemlik Gulf coast, near the village and beach of Kurşunlu.",
+   "tip": "Pair it with a swim at Kurşunlu beach in summer.",
+   "q": "Aziz Aberkios Manastırı (Kurşunlu Manastırı), Kurşunlu, Gemlik, Bursa",
+   "ll": [
+    40.3617,
+    29.0264
+   ],
+   "src": [
+    "https://www.bursa.com.tr/en/mekan/kursunlu-hagios-aberkios-monastery-481/",
+    "https://en.wikipedia.org/wiki/St._Aberkios_Monastery"
+   ]
+  },
+  {
+   "id": "bursamavidukkan",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat İskender at the blue-fronted Kebapçı İskender",
+   "desc": "The Mavi Dükkan on Atatürk Caddesi is run by grandchildren of İskender Efendi, the cook credited with inventing the dish in 1867. Thin-sliced döner on pide is covered with tomato sauce and melted butter.",
+   "tip": "Go before noon at weekends; the sütlü kadayıf makes a good finish.",
+   "q": "Kebapçı İskender Mavi Dükkan, Atatürk Caddesi No:60, Orhanbey, Osmangazi, Bursa",
+   "ll": [
+    40.1841,
+    29.0605
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/2336516/mavi-dükkan-bursa-kebapçısı"
+   ]
+  },
+  {
+   "id": "bursahuseyinustakebap",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order İskender at Kebapçı Hüseyin Usta",
+   "desc": "A small İskender house on Tuzpazarı Caddesi in the old bazaar quarter, serving thin-sliced döner on pide with tomato sauce and butter, plus pides.",
+   "tip": "Reviewers mention free dessert and ayran with the meal. It is close to Koza Han, so combine it with the bazaar.",
+   "q": "Kebapçı Hüseyin Usta, Tuz Pazarı Caddesi 16/B, Alacamescit, Osmangazi, Bursa",
+   "ll": [
+    40.18403,
+    29.06671
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/1560911/kebapçı-hüseyin-usta"
+   ]
+  },
+  {
+   "id": "bursakebapcitamer",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try İskender at Kebapçı Tamer in Nilüfer",
+   "desc": "A Nilüfer İskender house on İzmir Yolu with free valet parking and vegetarian and gluten-free options, including rye-bread döner.",
+   "tip": "Handy if you are staying on the Nilüfer side of the city.",
+   "q": "Kebapçı Tamer, İzmir Yolu Caddesi No:102/3, İhsaniye, Nilüfer, Bursa",
+   "ll": [
+    40.19347,
+    28.9924
+   ],
+   "src": [
+    "https://yemek.com/bursada-iskender-nerede-yenir/"
+   ]
+  },
+  {
+   "id": "bursabeylerkebap",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Share Bursa kebab dishes at Beyler Kebap",
+   "desc": "A group-friendly kebab house on Gümüşçeken Caddesi, with a menu that includes pideli köfte for sharing.",
+   "tip": "Order a few dishes to share.",
+   "q": "Beyler Kebap, Gümüşçeken Caddesi No:3, Orhanbey, Osmangazi, Bursa",
+   "ll": [
+    40.18344,
+    29.06552
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/2709691/beyler-kebap"
+   ]
+  },
+  {
+   "id": "bursakebapciidris",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order only pideli köfte at Kebapçı İdris in Kayhan",
+   "desc": "A Kayhan shop that serves a single dish, pideli köfte, named after İdris Usta with origins in 1937.",
+   "tip": "Take it with ayran; expect a short wait at lunch.",
+   "q": "Kebapçı İdris, Kayhan Caddesi, Kayhan Mahallesi, Osmangazi, Bursa",
+   "ll": [
+    40.1835,
+    29.063
+   ],
+   "src": [
+    "https://www.oggusto.com/gastronomi/turkiye/bursanin-en-iyi-mekanlari"
+   ]
+  },
+  {
+   "id": "bursakayhankoftecisi",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Kayhan köfte at Kayhan Köftecisi",
+   "desc": "A pideli köfte house founded in 1999 in a small shop in Kayhan Çarşısı, with a branch around Eker Meydanı in Nilüfer.",
+   "tip": "A mixed order is the usual advice.",
+   "q": "Kayhan Köftecisi, Eker Meydanı, Nilüfer, Bursa",
+   "ll": [
+    40.20301,
+    28.99119
+   ],
+   "src": [
+    "https://www.oggusto.com/gastronomi/turkiye/bursanin-en-iyi-mekanlari",
+    "https://www.hurriyet.com.tr/lezizz/yazarlar/ali-mirac-asik/bursada-bir-gunde-neler-yenir-41694199"
+   ]
+  },
+  {
+   "id": "bursainancfirini",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Buy tahanlı bread at Tarihi İnanç Fırını",
+   "desc": "A bakery on II. Murat Caddesi near Muradiye, about 65 years old, known for Bursa tahanlı and sourdough bread.",
+   "tip": "Buy a tahanlı loaf and eat it by the Muradiye tombs.",
+   "q": "Tarihi İnanç Fırını, II. Murat Caddesi, Muradiye, Osmangazi, Bursa",
+   "ll": [
+    40.1906,
+    29.0482
+   ],
+   "src": [
+    "https://www.oggusto.com/gastronomi/turkiye/bursanin-en-iyi-mekanlari"
+   ]
+  },
+  {
+   "id": "bursapasto",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste sourdough and chestnut sugar at Pasto",
+   "desc": "A bakery-café on Hancı Caddesi making sourdough and hop-flower-yeast bread, chestnut sugar, pastries and cheesecake.",
+   "tip": "Good for a coffee and pastry break.",
+   "q": "Pasto, Hancı Caddesi No:6, Akpınar, Osmangazi, Bursa",
+   "ll": [
+    40.24135,
+    28.97494
+   ],
+   "src": [
+    "https://de.restaurantguru.com/Pasto-Bursa-3"
+   ]
+  },
+  {
+   "id": "bursarumelikardesler",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Ottoman home cooking at Rumeli Kardeşler Sofrası",
+   "desc": "A restaurant on Vardar Caddesi with a daily-changing menu of Ottoman and Bursa dishes, including chestnut mountain kebab and sour cherry lamb stew.",
+   "tip": "Ask for the day's specials.",
+   "q": "Rumeli Kardeşler Sofrası, Vardar Caddesi No:36, Gülbahçe, Osmangazi, Bursa",
+   "ll": [
+    40.192,
+    29.07
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/1553922/rumeli-kardeşler-sofrası"
+   ]
+  },
+  {
+   "id": "bursahayatlokantasi",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have lamb tandır at Hayat Lokantası",
+   "desc": "A family lokanta open since 1947 serving lamb tandır, beef kavurma, chickpea and artichoke dishes, and süt helvası.",
+   "tip": "Go at lunch for the full counter.",
+   "q": "Hayat Lokantası, Stadyum Caddesi, Santral Garaj, Osmangazi, Bursa",
+   "ll": [
+    40.20094,
+    29.04966
+   ],
+   "src": [
+    "https://www.oggusto.com/gastronomi/turkiye/bursanin-en-iyi-mekanlari"
+   ]
+  },
+  {
+   "id": "bursapidecioglu",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat cantık pide at Pidecioğlu",
+   "desc": "A pide house serving cantık, small pide with cheese, minced meat or diced meat, plus tomato soup and sahan köftesi.",
+   "tip": "Try the mixed cantık.",
+   "q": "Pidecioğlu, Geçit 1. Gürbüz Sokak, Belen 3 Sitesi No:57, Geçit, Osmangazi, Bursa",
+   "ll": [
+    40.195,
+    29.051
+   ],
+   "src": [
+    "https://de.restaurantguru.com/Pidecioglu-Bursa"
+   ]
+  },
+  {
+   "id": "bursaizzetefendi",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste oven-baked sütlaç at Tarihi İzzet Efendi",
+   "desc": "A historic dessert shop on 1. Hamam Sokak known for oven-baked sütlaç, kazandibi, tavuk göğsü and süt helvası, with the house 'Dinamit' recipe.",
+   "tip": "Come in the afternoon.",
+   "q": "Tarihi İzzet Efendi Tatlıları, 1. Hamam Sokak No:2, Alacamescit, Osmangazi, Bursa",
+   "ll": [
+    40.182,
+    29.0654
+   ],
+   "src": [
+    "https://yemek.com/bursanin-en-iyi-tatlicilari/"
+   ]
+  },
+  {
+   "id": "bursamuhallebici",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order muhallebi at Tarihi Bursa Muhallebicisi",
+   "desc": "A pudding shop on Cumhuriyet Caddesi serving muhallebi in many flavours, kazandibi, tavuk göğsü and supangle.",
+   "tip": "A good stop on a walk up Cumhuriyet Caddesi.",
+   "q": "Tarihi Bursa Muhallebicisi, Cumhuriyet Caddesi No:74, Osmangazi, Bursa",
+   "ll": [
+    40.20176,
+    29.02343
+   ],
+   "src": [
+    "https://yemek.com/bursanin-en-iyi-tatlicilari/"
+   ]
+  },
+  {
+   "id": "bursasengul",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Buy baklava at Şengüloğlu Baklava Beşevler",
+   "desc": "A Nilüfer baklava shop with yeşil burma, şöbiyet, cold baklava, börek and güllaç.",
+   "tip": "Take a box of mixed baklava to go.",
+   "q": "Şengüloğlu Baklava, Yıldırım Caddesi No:7/B, Konak, Nilüfer, Bursa",
+   "ll": [
+    40.20193,
+    29.0237
+   ],
+   "src": [
+    "https://yemek.com/bursanin-en-iyi-tatlicilari/"
+   ]
+  },
+  {
+   "id": "bursaulus",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste chestnut sugar at Ulus Pastanesi by the Ulu Cami",
+   "desc": "A historic pastry shop on Atatürk Caddesi near the Ulu Cami known for chestnut sugar, Marşal Pasta and Anjelika jam.",
+   "tip": "Buy gifts to go.",
+   "q": "Ulus Pastanesi, Atatürk Caddesi, Osmangazi, Bursa",
+   "ll": [
+    40.1835,
+    29.0609
+   ],
+   "src": [
+    "https://www.oggusto.com/gastronomi/turkiye/bursanin-en-iyi-mekanlari"
+   ]
+  },
+  {
+   "id": "bursazennup",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine on Anatolian and Ottoman dishes at Zennup 1884",
+   "desc": "A research-driven restaurant at Eker Meydan with an Anatolian, Ottoman and Mesopotamian menu, including Seljuk-style tandır and chestnut rice.",
+   "tip": "Book ahead for dinner.",
+   "q": "Zennup 1884, Lefkoşe Caddesi, Eker Meydan AVM, Çamlıca, Nilüfer, Bursa",
+   "ll": [
+    40.20312,
+    28.99137
+   ],
+   "src": [
+    "https://www.oggusto.com/gastronomi/turkiye/bursanin-en-iyi-mekanlari"
+   ]
+  },
+  {
+   "id": "mudanya21masa",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Reserve one of the 21 tables at 21 Masa",
+   "desc": "A small restaurant in Bademli with 21 tables, house-made bread and tableware, and modern Anatolian cooking such as lamb fillet and Bursa kebab.",
+   "tip": "Reserve ahead; it is small.",
+   "q": "21 Masa, Aydoğdu Sokak, Belen 2 Sitesi No:2, Bademli, Mudanya, Bursa",
+   "ll": [
+    40.373,
+    28.902
+   ],
+   "src": [
+    "https://joinpearl.co/restaurants/bursa/21-masa"
+   ]
+  },
+  {
+   "id": "mudanyabademlikasabali",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Grill lamb at Bademli Kasabı Ali Izgara Salonu",
+   "desc": "A butcher-grill restaurant at the entrance of Bademli village serving grilled meatballs, chops, lamb skewers and slow-cooked lamb shank.",
+   "tip": "Order the lamb shank tandır early in the day as it can sell out. Bademli is on the old Mudanya road.",
+   "q": "Bademli Kasabı Ali Izgara Salonu, Eski Mudanya Caddesi No:24, Çağrışan, Bademli, Mudanya, Bursa",
+   "ll": [
+    40.28462,
+    28.93108
+   ],
+   "src": [
+    "https://www.enprimeurclub.com/restaurants/bademli-kasab-ali-izgara-salonu-bursa-restaurant-0kbrmtskls"
+   ]
+  },
+  {
+   "id": "bursamimoza",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink rakı at Restoran Mimoza meyhane",
+   "desc": "A meyhane on Mudanya Caddesi in Osmangazi, open daily from noon to 2 am.",
+   "tip": "Go in the evening.",
+   "q": "Restoran Mimoza, Mudanya Caddesi No:93D, Osmangazi, Bursa",
+   "ll": [
+    40.204,
+    29.021
+   ],
+   "src": [
+    "https://yandex.com.tr/maps/org/mimoza/217483628731/"
+   ]
+  },
+  {
+   "id": "bursakahyaoglu",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste pistachio baklava at Kahyaoğlu",
+   "desc": "A sweet shop on 1. Çınar Caddesi known for pistachio baklava, şöbiyet and homemade lemonade.",
+   "tip": "Try the şöbiyet.",
+   "q": "Kahyaoğlu, 1. Çınar Caddesi No:24/B, Koğukçınar, Osmangazi, Bursa",
+   "ll": [
+    40.193,
+    29.067
+   ],
+   "src": [
+    "https://yemek.com/bursanin-en-iyi-tatlicilari/"
+   ]
+  },
+  {
+   "id": "bursaulku",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat profiteroles at Ülkü Pastanesi in İhsaniye",
+   "desc": "A Nilüfer pastry shop with profiterole, keşkül, kazandibi, éclairs and chestnut cake.",
+   "tip": "Take away a box.",
+   "q": "Ülkü Pastanesi, Barbaros Caddesi, Çilek Sokak No:4/A, İhsaniye, Nilüfer, Bursa",
+   "ll": [
+    40.21255,
+    28.9815
+   ],
+   "src": [
+    "https://yemek.com/bursanin-en-iyi-tatlicilari/"
+   ]
+  },
+  {
+   "id": "bursamalina",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try pastel de nata at Malina Bakery",
+   "desc": "A bakery in Beşevler with pastel de nata, pistachio tart, San Sebastian cheesecake and almond croissants.",
+   "tip": "Arrive early for croissants.",
+   "q": "Malina Bakery, Beşevler Caddesi No:29/A, Konak, Nilüfer, Bursa",
+   "ll": [
+    40.2215,
+    28.974
+   ],
+   "src": [
+    "https://yemek.com/bursanin-en-iyi-tatlicilari/"
+   ]
+  },
+  {
+   "id": "bursafistikbeyi",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Buy baklava at Fıstıkbeyi Baklava",
+   "desc": "A baklava shop at Eker İş Merkezi selling pistachio baklava, şöbiyet and havuç dilimi.",
+   "tip": "Good for gifts.",
+   "q": "Fıstıkbeyi Baklava, Lefkoşe Caddesi, Eker İş Merkezi A Blok No:19/A-H, Odunluk, Nilüfer, Bursa",
+   "ll": [
+    40.2195,
+    28.9555
+   ],
+   "src": [
+    "https://yemek.com/bursanin-en-iyi-tatlicilari/"
+   ]
+  },
+  {
+   "id": "bursahackayhanfsm",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Finish with muhallebi at Hacı Kayhan Tatlıları",
+   "desc": "A dessert shop on FSM Bulvarı with muhallebi, kazandibi, trileçe and Belgian chocolate profiterole.",
+   "tip": "Evening dessert stop.",
+   "q": "Hacı Kayhan Tatlıları FSM, FSM Bulvarı, Bulvar Diamond A Blok No:86/45, Esentepe, Nilüfer, Bursa",
+   "ll": [
+    40.223,
+    28.945
+   ],
+   "src": [
+    "https://yemek.com/bursanin-en-iyi-tatlicilari/"
+   ]
+  },
+  {
+   "id": "bursatimsaharena",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Watch Bursaspor at Timsah Arena",
+   "desc": "The Bursaspor stadium opened in 2015 with a crocodile-shaped green roof. It holds about 43,000 and sits near Acemler metro station.",
+   "tip": "Buy tickets on Passo; check which league Bursaspor plays in.",
+   "q": "Timsah Arena, Acemler, Nilüfer, Bursa",
+   "ll": [
+    40.20447,
+    28.97942
+   ],
+   "src": [
+    "https://en.wikipedia.com/wiki/Timsah_Arena",
+    "https://iticket.com.tr/en/venues/timsah-arena"
+   ]
+  },
+  {
+   "id": "bursacelikpalas",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Soak at the Çelik Palas thermal spa",
+   "desc": "A historic hotel on Çekirge Caddesi whose spa has a sauna, hamam and a pool filled with natural thermal water; day visitors are accepted.",
+   "tip": "Private family baths cost extra; check prices.",
+   "q": "Çelik Palas Termal, Çekirge Caddesi, Osmangazi, Bursa",
+   "ll": [
+    40.19598,
+    29.03895
+   ],
+   "src": [
+    "https://www.enuygun.com/otel/hotel-celik-palas-convention-center-thermal-spa-28093/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bursamuradiyehamam",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Bathe in the Muradiye Hamam",
+   "desc": "A historic hamam listed among Bursa's Ottoman baths in the Muradiye quarter.",
+   "tip": "Check opening hours first.",
+   "q": "Muradiye Hamamı, Muradiye, Osmangazi, Bursa",
+   "ll": [
+    40.19018,
+    29.04533
+   ],
+   "src": [
+    "https://www.tatilbudur.com/blog/bursada-gezilecek-yerler/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bursadagyenice",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Picnic at Dağyenice Pond in Nilüfer",
+   "desc": "A pond at 510 m about 19 km from the city with picnic areas and an outdoor day facility nearby.",
+   "tip": "Bring food and go on weekdays.",
+   "q": "Dağyenice Göleti, Nilüfer, Bursa",
+   "ll": [
+    40.25706,
+    28.85636
+   ],
+   "src": [
+    "https://www.visitbursa.org/mekanlar/dagyenice-goleti-70"
+   ]
+  },
+  {
+   "id": "kestelsaitabat",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike to Saitabat Waterfall in Kestel",
+   "desc": "A waterfall in Kestel, east of Bursa, listed among the best-known falls of the region.",
+   "tip": "Visit in spring when the flow is strongest.",
+   "q": "Saitabat Şelalesi, Saitabat, Kestel, Bursa",
+   "ll": [
+    40.14743,
+    29.22499
+   ],
+   "src": [
+    "https://bursa.com.tr/en/mekan/saitabat-waterfall-16",
+    "https://en.wikipedia.org/wiki/Saitabat,_Kestel"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "keleskocayayla",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Camp and walk at Kocayayla above Keles",
+   "desc": "A plateau on the south face of Uludağ at 1,225 m, 4 km from Keles, with a camping and caravan facility.",
+   "tip": "Cooler than the plain in summer.",
+   "q": "Kocayayla Mesire Alanı, Keles, Bursa",
+   "ll": [
+    39.902,
+    29.223
+   ],
+   "src": [
+    "https://visitbursa.org/mekanlar/kocayayla-60"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "buyukorhangorecik",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Visit Görecik Plateau above Büyükorhan",
+   "desc": "A plateau at 1,055 m, 4 km from Büyükorhan and 92 km from Bursa, host of the Turkmen and Yörük Festival every August.",
+   "tip": "Best in August for the festival.",
+   "q": "Görecik Yaylası, Büyükorhan, Bursa",
+   "ll": [
+    39.76051,
+    28.85487
+   ],
+   "src": [
+    "https://www.bursa.com.tr/en/mekan/gorecik-upland-plateau-63/"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "yenisehircennet",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Trek Cennet Kanyonu near Günece",
+   "desc": "A canyon of about 6 km between the villages of Yarhisar and Günece with waterfalls and pools; a hard route to be done with an experienced guide.",
+   "tip": "Go only with a guide and in the dry season.",
+   "q": "Cennet Kanyonu, Günece, Yenişehir, Bursa",
+   "ll": [
+    40.29,
+    29.75
+   ],
+   "src": [
+    "https://www.bursa.com.tr/en/mekan/gunece-cennet-canyon-25/"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "kursunlubeach",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim on the Kurşunlu coast",
+   "desc": "Kurşunlu Sahili is a coastal strip on the Gemlik Gulf listed among Bursa day trips.",
+   "tip": "Go in summer.",
+   "q": "Kurşunlu Halk Plajı, Kurşunlu, Gemlik, Bursa",
+   "ll": [
+    40.36,
+    29.02111
+   ],
+   "src": [
+    "https://sandee.com/turkey/bursa/kursunlu/kursunlu-halk-plaji",
+    "https://en.wikipedia.org/wiki/Kur%C5%9Funlu,_Gemlik"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  }
+ ]
+}

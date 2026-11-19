@@ -1,0 +1,863 @@
+{
+ "new": [
+  {
+   "id": "amyntastomb",
+   "cat": "gor",
+   "area": "fethiye",
+   "title": "Climb to the Lycian Tomb of Amyntas above Fethiye",
+   "desc": "An Ionic temple facade carved into a sheer cliff around 350 BC for Amyntas, son of Hermapias, one of the best-known rock tombs of ancient Telmessos. A cluster of smaller tombs sits around it, and 300-odd steps lead up from the old town.",
+   "tip": "Go late afternoon for the light over the harbour and bay. Wear shoes with grip; the steps are steep and a small entry fee applies.",
+   "q": "Amyntas Kaya Mezarları, Kaya Mah., Fethiye, Muğla",
+   "ll": [
+    36.61869,
+    29.11814
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Tomb_of_Amyntas",
+    "https://www.lonelyplanet.com/points-of-interest/tomb-of-amyntas/470922"
+   ]
+  },
+  {
+   "id": "telmessostheatre",
+   "cat": "gor",
+   "area": "fethiye",
+   "title": "See the Telmessos Roman theatre behind the harbour",
+   "desc": "A Hellenistic-Roman theatre of ancient Telmessos with a capacity of roughly 5,000 to 6,000, rediscovered in 1993 in the middle of modern Fethiye. Restoration of the seating has been going on for years.",
+   "tip": "Free to view from the street, with access depending on restoration work. Combine it with the nearby harbour walk.",
+   "q": "Telmessos Antik Tiyatrosu, Cumhuriyet Mah., Fethiye, Muğla",
+   "ll": [
+    36.62095,
+    29.10582
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/points-of-interest/roman-theatre/1263627",
+    "https://pleiades.stoa.org/places/458747378"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "fethiyecastle",
+   "cat": "gor",
+   "area": "fethiye",
+   "title": "Walk up to the Crusader castle above Fethiye",
+   "desc": "Fethiye Kalesi was given its main form by the Knights of St John of Rhodes in the 15th century, on older foundations, and passed to the Ottomans after 1522. Parts are still under archaeological study.",
+   "tip": "Reach it on foot through the lanes above Paspatur. Come at sunset for views over the bay and the islands.",
+   "q": "Fethiye Kalesi, Cumhuriyet Mah., Fethiye, Muğla",
+   "ll": [
+    36.61824,
+    29.11297
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/points-of-interest/crusader-fortress/470914",
+    "https://www.medgulets.com/sailing-guides/turkey/fethiye/fethiye-castle"
+   ]
+  },
+  {
+   "id": "fethiyemuzesi",
+   "cat": "gor",
+   "area": "fethiye",
+   "title": "Read the Letoon trilingual stele in Fethiye Museum",
+   "desc": "The museum holds finds from Telmessos and Lycian sites, including the Letoon trilingual stele of 337 BC with Lycian, Greek and Aramaic text, the key to deciphering the Lycian language.",
+   "tip": "Admission has been free in recent guides, with labels in English and Turkish. Allow about an hour.",
+   "q": "Fethiye Müzesi, Kesikkapı Sokak, Fethiye, Muğla",
+   "ll": [
+    36.623,
+    29.11699
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/points-of-interest/fethiye-museum/470916",
+    "https://en.wikipedia.org/wiki/Letoon_trilingual"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "paspaturcarsisi",
+   "cat": "gor",
+   "area": "fethiye",
+   "title": "Wander the Paspatur old bazaar lanes",
+   "desc": "Paspatur is Fethiye's old quarter and bazaar, a grid of cobbled lanes with restored houses and wooden bay windows, plus spice, honey, carpet and souvenir shops. Lycian tombs and the Telmessos theatre sit just above it.",
+   "tip": "Evenings are livelier, when the cafes and bars fill. Bargaining is normal in the shops.",
+   "q": "Paspatur Çarşısı, Cumhuriyet Mah., Fethiye, Muğla",
+   "ll": [
+    36.62117,
+    29.10857
+   ],
+   "src": [
+    "https://www.turkeysforlife.com/2025/06/fethiye-old-town-paspatur.html",
+    "https://www.aaa.com/tripcanvas/attraction/fethiye-old-town-paspatur-VA12612"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kayakoy",
+   "cat": "gor",
+   "area": "fethiye",
+   "title": "Explore the abandoned Greek village of Kayaköy",
+   "desc": "Kayaköy, Greek Levissi, was home to thousands of Greek Orthodox villagers until the 1923 population exchange. Roofless stone houses climb the hillside, with two churches, the Kataponagia and the Taxiarchis, still standing.",
+   "tip": "A small entry fee applies. Go early or late in July and August, and wear sturdy shoes for the slopes.",
+   "q": "Kayaköy Terk Edilmiş Rum Köyü, Kayaköy, Fethiye, Muğla",
+   "ll": [
+    36.575,
+    29.09111
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/points-of-interest/kayakoy-levissi-abandoned-village/1248441",
+    "https://atlasobscura.com/places/kayakoy-turkey"
+   ]
+  },
+  {
+   "id": "butterflyvalley",
+   "cat": "gor",
+   "area": "fethiye",
+   "title": "Reach Butterfly Valley by boat from Ölüdeniz",
+   "desc": "Kelebekler Vadisi is a narrow canyon ending in a small beach under cliffs, known for its many butterfly species and a waterfall. It is reached by boat from Ölüdeniz or by a steep footpath from Faralya.",
+   "tip": "Butterflies are most numerous in summer; check that they have hatched before going. Take water shoes for the waterfall walk.",
+   "q": "Kelebekler Vadisi, Faralya, Fethiye, Muğla",
+   "ll": [
+    36.49747,
+    29.12717
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Butterfly_Valley,_Fethiye",
+    "https://theculturetrip.com/europe/turkey/articles/this-butterfly-valley-is-one-of-turkeys-hidden-treasures"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "tlosancientcity",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore Tlos and the Bellerophon tomb",
+   "desc": "Tlos is one of the oldest Lycian cities, mentioned in Hittite texts as Dalawa. Its acropolis carries rock tombs including the Bellerophon tomb with a relief of the hero on Pegasus, plus a Roman theatre, stadium and a 19th-century Ottoman mansion.",
+   "tip": "Visit early in the morning. A pleasant combination with the trout restaurants of Yaka.",
+   "q": "Tlos Antik Kenti, Yaka Mah., Seydikemer, Muğla",
+   "ll": [
+    36.55254,
+    29.42079
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Tlos",
+    "https://www.lycianmonuments.com/tlos/"
+   ]
+  },
+  {
+   "id": "pinara",
+   "cat": "gor",
+   "area": "fethiye",
+   "title": "Find the rock tombs of Pınara at the foot of Babadağ",
+   "desc": "Pınara, known locally as Minare, was one of the six leading cities of the Lycian League. A sheer round cliff is honeycombed with rock-cut tombs, and a Roman-era theatre lies below.",
+   "tip": "The site is remote, about 45 km from Fethiye, so go by car or tour. Bring water and sun protection, as there are few facilities.",
+   "q": "Pınara Antik Kenti, Minare Mah., Seydikemer, Muğla",
+   "ll": [
+    36.48861,
+    29.25194
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Pinara",
+    "https://fethiyetimes.com/?p=20842"
+   ]
+  },
+  {
+   "id": "sidyma",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look for tombs and a theatre at Sidyma village",
+   "desc": "Sidyma, in today's village of Dodurga, was a Lycian city on the slope of Mount Cragus, with sarcophagi, temple remains and a theatre among the houses. There are no ticket booths, fences or official facilities.",
+   "tip": "Reached by car via Seydikemer, about an hour from Fethiye. Ask villagers for the theatre.",
+   "q": "Sidyma Antik Kenti, Dodurga, Seydikemer, Muğla",
+   "ll": [
+    36.41025,
+    29.19169
+   ],
+   "src": [
+    "https://www.lycianmonuments.com/sidyma/",
+    "https://wikipedia.com/wiki/Sidyma"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "cadyanda",
+   "cat": "gor",
+   "area": "fethiye",
+   "title": "Climb to ancient Kadyanda above Yeşilüzümlü",
+   "desc": "Kadyanda was a Lycian hill city with polygonal walls, cisterns, a small stadium and a theatre with a view toward Fethiye. The site is about 25 km from the town.",
+   "tip": "Minibuses run to Yeşilüzümlü; walk up from the village. Late afternoon is cooler.",
+   "q": "Kadyanda Antik Kenti, Yeşilüzümlü, Fethiye, Muğla",
+   "ll": [
+    36.6921,
+    29.2383
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Cadyanda",
+    "https://goturkiye.com/villages/uzumlu"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gemilerisland",
+   "cat": "gor",
+   "area": "fethiye",
+   "title": "Visit St Nicholas (Gemiler) Island and its Byzantine churches",
+   "desc": "Gemiler, also called St Nicholas Island, has the ruins of several churches built between the 4th and 7th centuries, one of which tradition links to the original tomb of St Nicholas. It is reached only by boat.",
+   "tip": "Boats leave from the Ölüdeniz area, and the crossing takes about 30 minutes. Walk the ruins in the morning before the tour boats arrive; best May to October.",
+   "q": "Gemiler Adası, Ölüdeniz, Fethiye, Muğla",
+   "ll": [
+    36.55328,
+    29.06989
+   ],
+   "src": [
+    "https://goturkiye.com/fethiye/gemile-island",
+    "https://www.limancepte.com/en/blog/gemiler-island-st-nicholas-guide/"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "kizilada",
+   "cat": "gor",
+   "area": "fethiye",
+   "title": "Swim at red-sanded Kızılada from Fethiye harbour",
+   "desc": "Kızılada, the Red Island, is a standard stop on boat trips from Fethiye, known for its reddish sand and cliffs and underwater caves. Other stops include Flat Island, Yassıcalar and Aquarium Bay.",
+   "tip": "Daily boats leave from the harbour around 10:30 and include lunch. Season runs May to October; the route changes with the wind.",
+   "q": "Fethiye Limanı, Cumhuriyet Mah., Fethiye, Muğla",
+   "ll": [
+    36.62199,
+    29.10546
+   ],
+   "src": [
+    "https://www.fethiyetours.com/tour/12-islands-boat-tour/",
+    "https://www.klook.com/activity/95761-fethiye-island-sailing-tour/"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "bedrirahmibay",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Find Bedri Rahmi's fish on a rock in Göcek",
+   "desc": "The painter Bedri Rahmi Eyüboğlu visited this bay in 1974 and painted a large fish on a rock with six animal figures hidden in it. The bay, formerly called Taşyaka, is reached only by sea and has a spring.",
+   "tip": "Reached by boat from Göcek on day trips; early morning is quietest. Season runs May to October.",
+   "q": "Göcek Belediye İskelesi, Göcek, Fethiye, Muğla",
+   "ll": [
+    36.76013,
+    28.95451
+   ],
+   "src": [
+    "https://www.limancepte.com/en/blog/gocek-bedri-rahmi-bay-guide/",
+    "https://yatkiralama.com/en/gocek/bedri-rahmi-bay"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "cleopatrahamambay",
+   "cat": "gor",
+   "area": "fethiye",
+   "title": "Swim over the sunken ruins of Cleopatra's Hamam Bay",
+   "desc": "Hamam Bay near Göcek has the underwater ruins of a bathhouse. The link to Cleopatra is a local tradition, and the old hot spring is probably gone.",
+   "tip": "Boat access only, usually on Göcek boat tours. Best May to October, and early in the day.",
+   "q": "Göcek Limanı, Göcek, Fethiye, Muğla",
+   "ll": [
+    36.72717,
+    28.9425
+   ],
+   "src": [
+    "https://www.limancepte.com/en/blog/gocek-cleopatra-bath-sunken-ruins/",
+    "https://www.yachtcharterfleet.com/turkey/see-and-do/landmark/cleopatras-bath-hammam-bay.htm"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "oludenizlagoon",
+   "cat": "gor",
+   "area": "fethiye",
+   "title": "See the Blue Lagoon at Ölüdeniz Nature Park",
+   "desc": "The Blue Lagoon is a protected sheltered lagoon in Ölüdeniz Nature Park, entered at Kumburnu on the bay's far end, and the Belcekız Blue Flag beach lies outside it. Paragliders from Babadağ land over it.",
+   "tip": "Entry to the nature park is paid, in cash. In July and August arrive before 10:00.",
+   "q": "Ölüdeniz Tabiat Parkı, Ölüdeniz, Fethiye, Muğla",
+   "ll": [
+    36.54945,
+    29.11156
+   ],
+   "src": [
+    "https://www.beachatlas.com/oludeniz-beach-guide-2026-a-jewel-on-turkey-s-turquoise-coast-1793198447787",
+    "https://en.wikipedia.com/wiki/Oludeniz"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "belcekizbeach",
+   "cat": "dene",
+   "area": "fethiye",
+   "title": "Swim at Belcekız Beach on the Ölüdeniz promenade",
+   "desc": "Belcekız is the public Blue Flag beach on Ölüdeniz's waterfront, of sand and pebbles, facing the open sea. It is free to enter, unlike the nature park beaches.",
+   "tip": "Swimming season runs May to October. Sun beds are paid; the promenade behind has many cafes.",
+   "q": "Belcekız Plajı, Ölüdeniz, Fethiye, Muğla",
+   "ll": [
+    36.54524,
+    29.12324
+   ],
+   "src": [
+    "https://www.beachatlas.com/oludeniz-beach-guide-2026-a-jewel-on-turkey-s-turquoise-coast-1793198447787",
+    "https://www.propertyturkey.com/about-turkey/about-fethiye/oludeniz-beach"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "babadagteleferik",
+   "cat": "dene",
+   "area": "fethiye",
+   "title": "Ride the Babadağ cable car to the summit",
+   "desc": "The Babadağ cable car opened on 1 June 2021 and rises from Ölüdeniz in about 15 minutes to a top station with sky walk platforms and restaurants. The top is about 1,900 m in summer and 1,200 m in winter.",
+   "tip": "Rides stop in strong wind. Go in the morning for clear views, and take a jacket for the summit.",
+   "q": "Babadağ Teleferik, Ölüdeniz, Fethiye, Muğla",
+   "ll": [
+    36.56177,
+    29.13305
+   ],
+   "src": [
+    "https://www.dailysabah.com/turkey/turkiyes-babadag-takes-off-as-top-paragliding-hub/news/amp",
+    "https://www.holidify.com/places/oludeniz/babadag-cable-car-sightseeing-1268305.html"
+   ]
+  },
+  {
+   "id": "oludenizparagliding",
+   "cat": "dene",
+   "area": "fethiye",
+   "title": "Fly a tandem paraglide from Babadağ to Ölüdeniz",
+   "desc": "Tandem flights launch from Babadağ and glide down to the Ölüdeniz coast over the Blue Lagoon. The site is known for reliable thermals and is one of the busiest in the world.",
+   "tip": "Operators run transfers from Fethiye and Ölüdeniz. Best conditions are May to October, mornings.",
+   "q": "Babadağ Yamaç Paraşütü Kalkış Noktası, Ölüdeniz, Fethiye, Muğla",
+   "ll": [
+    36.53911,
+    29.16967
+   ],
+   "src": [
+    "https://www.dailysabah.com/turkey/turkiyes-babadag-takes-off-as-top-paragliding-hub/news/amp",
+    "https://www.peek.com/babada-views-paragliding-over-ldeniz/a08kmx88"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "kabakbay",
+   "cat": "dene",
+   "area": "fethiye",
+   "title": "Hike down to Kabak Bay from Faralya",
+   "desc": "Kabak Bay is a small pebble beach below the cliffs, in a protected valley on the Lycian Way. The path from Faralya takes about 2 to 3 hours and 4.8 km.",
+   "tip": "The last stretch of road is rough. Best from May to October; carry water.",
+   "q": "Kabak Koyu, Faralya, Fethiye, Muğla",
+   "ll": [
+    36.4632,
+    29.12685
+   ],
+   "src": [
+    "https://goturkiye.com/blog/kabak-bay",
+    "https://trekopedia.com/id89-kabak/"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "lycianwaystart",
+   "cat": "dene",
+   "area": "fethiye",
+   "title": "Start the Lycian Way at the Ovacık trailhead",
+   "desc": "The official western start of the 540 km Lycian Way is in Ovacık, just where the road leaves for Ölüdeniz. The first stage runs to Faralya, about 12.8 km with 765 m of ascent.",
+   "tip": "Take a dolmuş and tell the driver 'Likya Yolu'. Spring and autumn are best for walking.",
+   "q": "Likya Yolu Başlangıcı, Ovacık Mahallesi, Fethiye, Muğla",
+   "ll": [
+    36.54732,
+    29.13432
+   ],
+   "src": [
+    "https://trekopedia.com/id84-ovacik/",
+    "https://Www.Wikipedia.org/wiki/Lycian_Way"
+   ],
+   "months": [
+    3,
+    4,
+    5,
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "id": "kayakoyoludenizhike",
+   "cat": "dene",
+   "area": "fethiye",
+   "title": "Walk from Kayaköy over the ridge to Ölüdeniz",
+   "desc": "A popular trail runs from Kayaköy to Belcekız, with a view of Ölüdeniz Bay from the ridge. It follows old village paths from the ruined Greek village.",
+   "tip": "Start in the morning in summer. About two hours; wear closed shoes.",
+   "q": "Kayaköy Yürüyüş Yolu, Kayaköy, Fethiye, Muğla",
+   "ll": [
+    36.57498,
+    29.05367
+   ],
+   "src": [
+    "https://www.komoot.com/highlight/4000441",
+    "https://www.lonelyplanet.com/points-of-interest/kayakoy-levissi-abandoned-village/1248441"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "twelveislandsgocek",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Take the 12 Islands boat trip from Göcek",
+   "desc": "Full-day cruises from Göcek visit the bays and islets of the gulf, with swim stops at Yassıca Islands, Bedri Rahmi Bay and Tersane Island. The route usually has about five main swim stops, not twelve.",
+   "tip": "Costs include lunch; the season is May to October. Confirm the departure point with the operator, as Göcek and Fethiye both depart.",
+   "q": "Göcek Marina, Göcek, Fethiye, Muğla",
+   "ll": [
+    36.7546,
+    28.9396
+   ],
+   "src": [
+    "https://www.fethiyetours.com/tour/12-islands-boat-tour/",
+    "https://www.jet2holidays.com/things-to-do/dalaman-area/twelve-islands-cruise"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "gocekmarina",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Stroll the Göcek waterfront among the yachts",
+   "desc": "Göcek is a yachting town in a deep bay with several marinas, including Skopea Marina and D-Marin, and one of the most popular sailing bases of the Turkish coast.",
+   "tip": "Come at sunset for the harbour and a table by the water. It is about 30 minutes from Fethiye.",
+   "q": "Göcek Sahil, Göcek, Fethiye, Muğla",
+   "ll": [
+    36.754,
+    28.9386
+   ],
+   "src": [
+    "https://www.wikipedia.org/wiki/G%C3%B6cek,_Fethiye",
+    "https://fethiyetimes.com/?p=5890"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "calisbeach",
+   "cat": "dene",
+   "area": "fethiye",
+   "title": "Watch the sunset from Çalış Beach",
+   "desc": "Çalış is a long west-facing beach north of Fethiye with a promenade of bars and restaurants, and views of Knights Island across the bay.",
+   "tip": "Dolmuşes run from Fethiye every few minutes. Swim May to October; evenings fill up.",
+   "q": "Çalış Plajı, Çalış, Fethiye, Muğla",
+   "ll": [
+    36.66701,
+    29.10545
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/points-of-interest/calis-beach/1280163",
+    "https://www.turkeysforlife.com/calis-beach-fethiye-turkey.html"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "fethiyehamam",
+   "cat": "dene",
+   "area": "fethiye",
+   "title": "Steam in the 16th-century Old Turkish Bath of Fethiye",
+   "desc": "The Tarihi Fethiye Hamamı in Paspatur dates to the 16th century and is open to men and women, with massage and oil options.",
+   "tip": "Choose the traditional scrub and foam wash. Optional oil massages cost extra.",
+   "q": "Tarihi Fethiye Hamamı, Cumhuriyet Cad., Fethiye, Muğla",
+   "ll": [
+    36.62374,
+    29.11336
+   ],
+   "src": [
+    "https://www.turkeysforlife.com/2010/08/fethiyes-old-turkish-bath-hamam.html",
+    "https://www.holidify.com/places/fethiye/fethiye-turkish-bath-sightseeing-1266513.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "fethiyesalipazari",
+   "cat": "dene",
+   "area": "fethiye",
+   "title": "Browse the big Tuesday market beside the stadium",
+   "desc": "The Fethiye Tuesday market is the area's largest weekly open-air market, with produce, dairy and clothes, textiles, ceramics and more. A smaller village market runs on Fridays.",
+   "tip": "Go early to avoid crowds; bargaining is expected. Walk from the centre in 10 to 15 minutes.",
+   "q": "Fethiye Salı Pazarı, Karagözler, Fethiye, Muğla",
+   "ll": [
+    36.62398,
+    29.12054
+   ],
+   "src": [
+    "https://www.turkeysforlife.com/2011/06/celebration-of-fethiye-market.html",
+    "https://holidify.com/places/fethiye/fethiye-market-sightseeing-1266511.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "goceksundaymarket",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Shop at the Göcek Sunday market",
+   "desc": "The weekly Sunday market in Göcek sells fruit and vegetables, clothing, homewares and jewellery, and many operators run boat trips from Fethiye to it.",
+   "tip": "Sunday only; arrive in the morning. It is about 30 minutes from Fethiye by dolmuş.",
+   "q": "Göcek Pazar Yeri, Göcek, Fethiye, Muğla",
+   "ll": [
+    36.75771,
+    28.94104
+   ],
+   "src": [
+    "https://blog.medgulets.com/turkey/gocek/gocek-local-market",
+    "https://www.turkeysforlife.com/2025/04/gocek-fethiye-day-out.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sarsalabay",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim in the clear water of Sarsala Bay",
+   "desc": "Sarsala Bay on the Dalaman coast has a pebbly municipal beach with a restaurant and clear, calm water. Small Sarsala is a popular boat anchorage.",
+   "tip": "A per-car entry fee applies. Arrive early on weekends and swim May to October.",
+   "q": "Sarsala Koyu, Dalaman, Muğla",
+   "ll": [
+    36.65897,
+    28.85274
+   ],
+   "src": [
+    "https://www.coastguidetr.com/en/koy/101209/sarsala-koyu"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "fethiyemartyrsmonument",
+   "cat": "dene",
+   "area": "fethiye",
+   "title": "Stroll to the Martyrs' Monument on the Fethiye waterfront",
+   "desc": "The Martyrs' Monument is a landmark of Fethiye's waterfront promenade beside the marina, with gulets moored along the quay. The promenade continues towards Çalış Beach.",
+   "tip": "Walk it in the early evening when the heat drops.",
+   "q": "Şehitler Anıtı, Karagözler Mahallesi, Fethiye, Muğla",
+   "ll": [
+    36.621,
+    29.1145
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/turkey/mediterranean-coast/fethiye/attractions/martyrs-monument/a/poi-sig/1313658/360893"
+   ]
+  },
+  {
+   "id": "fethiyebalikpazari",
+   "cat": "ye",
+   "area": "fethiye",
+   "title": "Pick your own fish at the Fethiye fish market",
+   "desc": "Buy fish from the market stalls and have a surrounding restaurant cook it, with meze and salads added for a charge. A long-standing Fethiye ritual in the old town.",
+   "tip": "Agree the cooking fee before ordering and have the fish weighed.",
+   "q": "Fethiye Balık Pazarı, Çarşı Mah., Fethiye, Muğla",
+   "ll": [
+    36.62104,
+    29.11158
+   ],
+   "src": [
+    "https://fodors.fodors.com/world/europe/turkey/the-turquoise-coast/restaurants/reviews/fethiye-fish-market-484421",
+    "https://www.jet2holidays.com/poi/dalaman-area/restaurants-around-the-old-towns-fish-market"
+   ]
+  },
+  {
+   "id": "hilmirestaurant",
+   "cat": "ye",
+   "area": "fethiye",
+   "title": "Order octopus salad at Hilmi in the fish market",
+   "desc": "Hilmi, established in 1935, sits in a corner of the fish market and is known for its octopus salad and shrimp casserole. It is smarter than many market restaurants.",
+   "tip": "You can eat without buying from the fishmongers. Book ahead in summer.",
+   "q": "Hilmi Restaurant, Balık Pazarı, Fethiye, Muğla",
+   "ll": [
+    36.63333,
+    29.1199
+   ],
+   "src": [
+    "https://fodors.fodors.com/world/europe/turkey/the-turquoise-coast/restaurants/reviews/fethiye-fish-market-484421",
+    "https://www.lonelyplanet.com/turkey/mediterranean-coast/fethiye/restaurants"
+   ]
+  },
+  {
+   "id": "oztokluocakbasi",
+   "cat": "ye",
+   "area": "fethiye",
+   "title": "Eat grilled fish at Öztoklu in the fish market",
+   "desc": "Öztoklu is named by Fodor's with Hilmi as a reliable restaurant around the Fethiye fish market, cooking fish bought at the stalls.",
+   "tip": "Choose a whole fish by weight and ask for the cooking fee first.",
+   "q": "Öztoklu Restaurant, Balık Pazarı, Fethiye, Muğla",
+   "ll": [
+    36.62117,
+    29.11185
+   ],
+   "src": [
+    "https://fodors.fodors.com/world/europe/turkey/the-turquoise-coast/restaurants/reviews/fethiye-fish-market-484421"
+   ]
+  },
+  {
+   "id": "megrilokantasi",
+   "cat": "ye",
+   "area": "fethiye",
+   "title": "Have home-style Turkish dishes at Meğri Lokantası",
+   "desc": "Meğri Lokantası is an authentic lokanta in Fethiye's old town with a range of Turkish dishes cooked each day, distinct from the nearby Meğri Restaurant.",
+   "tip": "Point at the dishes in the counter. A good value lunch.",
+   "q": "Meğri Lokantası, Çarşı Mah., Fethiye, Muğla",
+   "ll": [
+    36.62086,
+    29.10905
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/turkey/mediterranean-coast/fethiye/restaurants"
+   ]
+  },
+  {
+   "id": "cinbalkayakoy",
+   "cat": "ye",
+   "area": "fethiye",
+   "title": "Grill kebab at Cin Bal in Kayaköy",
+   "desc": "Cin Bal is a local-recommended barbecue restaurant in the old village of Kayaköy, serving fresh grilled meat.",
+   "tip": "Come in the evening after seeing the ruins. Prices in older guides are out of date.",
+   "q": "Cin Bal Kebap Salonu, Kayaköy, Fethiye, Muğla",
+   "ll": [
+    36.5915,
+    29.0892
+   ],
+   "src": [
+    "https://journeum.com/dst/Asia/Turkey/Mediterranean Turkey/Lycia/Kayaköy/Eat"
+   ]
+  },
+  {
+   "id": "bulentinyeri",
+   "cat": "ye",
+   "area": "fethiye",
+   "title": "Eat gözleme at Bülent'in Yeri with a view of Kayaköy",
+   "desc": "Bülent'in Yeri is a roadside gözleme place on the edge of Kayaköy, serving stuffed flatbread with views over the ruins.",
+   "tip": "Try the cheese and spinach gözleme with ayran. Open daily in season.",
+   "q": "Bülent'in Yeri Gözleme, Kayaköy, Fethiye, Muğla",
+   "ll": [
+    36.5918,
+    29.0936
+   ],
+   "src": [
+    "https://www.turkeysforlife.com/2013/01/kayakoy-bulentin-yeri-gozleme.html"
+   ]
+  },
+  {
+   "id": "mezegigocek",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine on meze at Mezegi in Göcek marina",
+   "desc": "Mezegi sits in Göcek marina, with Turkish and Mediterranean cooking and a Michelin Guide listing, overlooking the yachts and mountains.",
+   "tip": "Order a spread of cold meze first. Reserve for summer evenings.",
+   "q": "Mezegi, Port Marina Küme Evler No:12, D-Marin Göcek, Fethiye, Muğla",
+   "ll": [
+    36.755,
+    28.9398
+   ],
+   "src": [
+    "https://guide.michelin.com/en/mugla/fethiye_2806867/restaurant/mezegi"
+   ]
+  },
+  {
+   "id": "ahmagocek",
+   "cat": "ye",
+   "area": "fethiye",
+   "title": "Book a grill dinner at Ahma on Günlüklü Bay",
+   "desc": "Ahma is a Turkish grill restaurant on a private bay near Göcek, listed with a Relais and Châteaux award in 2025.",
+   "tip": "Expensive; book ahead. Many guests arrive by boat.",
+   "q": "Ahma Göcek Restaurant, Günlüklü Koyu, Göcek, Fethiye, Muğla",
+   "ll": [
+    36.73115,
+    28.96514
+   ],
+   "src": [
+    "https://joinpearl.co/restaurants/ahma-gocek-restaurant",
+    "https://www.enprimeurclub.com/turkey/gocek"
+   ]
+  },
+  {
+   "id": "westcafegocek",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat seafood at West Cafe in Göcek",
+   "desc": "West Cafe is one of Göcek's busiest restaurants, with many reviews, praised for its fresh fish and relaxed setting on the main street.",
+   "tip": "Go early or book in high season. Try the local stuffed mullet, kefal dolma.",
+   "q": "West Cafe, Göcek, Fethiye, Muğla",
+   "ll": [
+    36.75433,
+    28.94129
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/4108391/göcek-alaturka-cafe--restaurant",
+    "https://goturkiye.com/gocek/taste"
+   ]
+  },
+  {
+   "id": "mehmetirmakkofte",
+   "cat": "ye",
+   "area": "fethiye",
+   "title": "Order köfte at Köfteci Mehmet Irmak in Hisarönü",
+   "desc": "A budget köfte restaurant in Hisarönü praised by reviewers for generous portions and authentic Turkish food, in a resort area mostly serving international menus.",
+   "tip": "A cheap lunch before or after a Lycian Way walk.",
+   "q": "Köfteci Mehmet Irmak, Hisarönü, Fethiye, Muğla",
+   "ll": [
+    36.5865,
+    29.1309
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/1787216"
+   ]
+  },
+  {
+   "id": "cincafegozleme",
+   "cat": "ye",
+   "area": "fethiye",
+   "title": "Try honey gözleme at Cin Cafe in Ölüdeniz",
+   "desc": "Cin Cafe Restaurant and Gözleme is a cosy eatery popular with locals and visitors, with one reviewer singling out the ballı (honey) gözleme.",
+   "tip": "Combine with a beach morning. Gözleme is cheap and quick.",
+   "q": "Cin Cafe Restaurant & Gözleme, Ölüdeniz, Fethiye, Muğla",
+   "ll": [
+    36.552,
+    29.118
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/3088227/cin-cafe-restaurant--gözleme"
+   ]
+  },
+  {
+   "id": "yakaparkalabalik",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Pick a trout at Yaka Park in the Xanthos Valley",
+   "desc": "Yaka Park is a trout farm and restaurant above Tlos, where guests choose their fish from the pools under pines. It is cooler than the coast in summer.",
+   "tip": "Combine with a visit to Tlos. Order the trout grilled or baked.",
+   "q": "Yaka Park, Yaka Köyü, Seydikemer, Muğla",
+   "ll": [
+    36.55309,
+    29.42071
+   ],
+   "src": [
+    "https://www.frommers.com/destinations/fethiye-and-oludeniz/attractions/yaka-park",
+    "https://www.propertyturkey.com/about-turkey/about-fethiye/tickling-trout-at-yaka-park-fethiye?type=amp"
+   ]
+  },
+  {
+   "id": "georgescalis",
+   "cat": "ye",
+   "area": "fethiye",
+   "title": "Have dinner at Georges for the Çalış sunset",
+   "desc": "Georges is a restaurant on the Çalış beach promenade, recommended for its food and sunset view across the bay.",
+   "tip": "Book a table by the water for sunset in summer.",
+   "q": "George's Restaurant, 1332 Sokak No:52, Çalış Plajı, Foça Mahallesi, Fethiye, Muğla",
+   "ll": [
+    36.6685,
+    29.0926
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/3082542/georges-grill-steak-house",
+    "https://m.booking.com/hotel/tr/george-39-s-boutique.en-gb.html"
+   ]
+  }
+ ]
+}

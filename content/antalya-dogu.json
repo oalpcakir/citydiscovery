@@ -1,0 +1,877 @@
+{
+ "new": [
+  {
+   "id": "aspendostheatre",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Sit in the best-preserved Roman theatre at Aspendos",
+   "desc": "Built in the 2nd century CE by the local architect Zeno under Marcus Aurelius, the theatre seated about 15,000 and still stages the Aspendos Opera and Ballet Festival. Its stage building and acoustics survive almost intact.",
+   "tip": "Go early in the day to beat tour buses; bring water as there is little shade. Check the festival calendar for June to July evening performances.",
+   "q": "Aspendos Antik Tiyatrosu, Belkıs, Serik, Antalya",
+   "ll": [
+    36.93896,
+    31.17219
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Aspendos",
+    "https://www.pata.org/go-turkiye/aspendos-ancient-city"
+   ]
+  },
+  {
+   "id": "aspendosaqueduct",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Follow the Roman aqueduct of Aspendos",
+   "desc": "The Roman aqueduct of Aspendos brought water from the hills to the city and is one of the best-preserved ancient waterways in the region. Its siphon towers show Roman hydraulic engineering.",
+   "tip": "Reached by a short drive from the theatre; best in morning or late afternoon light. Free to see.",
+   "q": "Aspendos Su Kemeri, Belkıs, Serik, Antalya",
+   "ll": [
+    36.94832,
+    31.16753
+   ],
+   "src": [
+    "https://www.pata.org/go-turkiye/aspendos-ancient-city"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "selge",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb through the mountain city of Selge",
+   "desc": "Selge was a Pisidian city of around 20,000 people, now scattered among the houses of Altınkaya village in the Taurus. Its theatre and temple remains sit high above the Köprülü valley.",
+   "tip": "The road is steep and winding, so allow 1.5 hours from the coast; many 4x4 tours combine it with the canyon.",
+   "q": "Selge Antik Kenti, Altınkaya, Manavgat, Antalya",
+   "ll": [
+    37.22944,
+    31.12722
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Selge"
+   ]
+  },
+  {
+   "id": "sillyon",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the hilltop ruins of Sillyon",
+   "desc": "Sillyon is a fortified plateau city that held out against Alexander the Great, with a Hellenistic gate, stadium and a monumental building on the cliff. A landslide split part of its edge.",
+   "tip": "Wear sturdy shoes; the site is lightly visited and has few facilities.",
+   "q": "Sillyon Antik Kenti, Yanköy, Aksu, Antalya",
+   "ll": [
+    36.9925,
+    30.98972
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Sillyon"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sidetheatre",
+   "cat": "gor",
+   "area": "alanya",
+   "title": "Climb the Roman theatre of Side",
+   "desc": "Built in the 2nd century AD, Side's theatre held up to 20,000 spectators and stands on arched vaults rather than a hillside. It overlooks the old town and the sea.",
+   "tip": "Open daily with a ticket; late afternoon gives the best light.",
+   "q": "Side Antik Tiyatro, Selimiye, Manavgat, Antalya",
+   "ll": [
+    36.7678,
+    31.3895
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Side,_Turkey",
+    "https://www.pata.org/go-turkiye/side-ancient-city"
+   ]
+  },
+  {
+   "id": "sidetempleapollo",
+   "cat": "gor",
+   "area": "alanya",
+   "title": "Watch the sunset at the Temple of Apollo in Side",
+   "desc": "Five columns of the 2nd-century Temple of Apollo stand on the peninsula edge next to a smaller temple of Athena. It is Side's most photographed spot.",
+   "tip": "Arrive about an hour before sunset; the site is free and lit in the evening.",
+   "q": "Apollon Tapınağı, Side, Manavgat, Antalya",
+   "ll": [
+    36.76419,
+    31.38671
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Side,_Turkey",
+    "https://www.pata.org/go-turkiye/side-ancient-city"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sidemuseum",
+   "cat": "gor",
+   "area": "alanya",
+   "title": "See Roman statues in Side's bathhouse museum",
+   "desc": "The Side Museum occupies a restored Roman bath and shows statues, sarcophagi and reliefs found at the city. The statuary of the Three Graces is a highlight.",
+   "tip": "Cool and indoors, good for midday heat.",
+   "q": "Side Müzesi, Selimiye, Manavgat, Antalya",
+   "ll": [
+    36.76907,
+    31.391
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Side,_Turkey",
+    "https://www.pata.org/go-turkiye/side-ancient-city"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "sidegate",
+   "cat": "gor",
+   "area": "alanya",
+   "title": "Walk through the monumental gate and nymphaeum of Side",
+   "desc": "The Hellenistic main gate and the Vespasian Monument (nymphaeum) mark the entrance to the old city and its colonnaded street. Walls run on both sides.",
+   "tip": "Free to see; the old-town street begins just inside.",
+   "q": "Side Şehir Kapısı, Selimiye, Manavgat, Antalya",
+   "ll": [
+    36.7706,
+    31.3897
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Side,_Turkey"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "manavgatwaterfall",
+   "cat": "gor",
+   "area": "alanya",
+   "title": "See the Manavgat Waterfall on the Manavgat River",
+   "desc": "The broad, low waterfall sits a few kilometres north of Manavgat town and is a classic day stop. Riverside gardens and restaurants surround it.",
+   "tip": "Minibuses marked Şelale run from the main street; summer is crowded, so go in the morning.",
+   "q": "Manavgat Şelalesi, Manavgat, Antalya",
+   "ll": [
+    36.81354,
+    31.45444
+   ],
+   "src": [
+    "https://www.airbnb.com.pa/things-to-do/places/3069306"
+   ]
+  },
+  {
+   "id": "alanyakalesi",
+   "cat": "gor",
+   "area": "alanya",
+   "title": "Walk the Seljuk walls of Alanya Castle",
+   "desc": "Alaaddin Keykubad I rebuilt the fortress in the 13th century on a peninsula, with about 6 km of walls and the Ehmedek section and Akşebe mausoleum. It has long views over the coast.",
+   "tip": "Take the cable car or bus up; sunset is best. Wear good shoes.",
+   "q": "Alanya Kalesi, İçkale, Alanya, Antalya",
+   "ll": [
+    36.53311,
+    31.99056
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Alanya_Castle",
+    "https://www.ktb.gov.tr/EN-36067/where-to-visit.html"
+   ]
+  },
+  {
+   "id": "kizilkule",
+   "cat": "gor",
+   "area": "alanya",
+   "title": "Climb the octagonal Red Tower of Alanya",
+   "desc": "Built in 1226 by order of Alaeddin Keykubad I, the five-storey Kızıl Kule guarded the harbour and shipyard and now holds an ethnographic museum.",
+   "tip": "Ticket covers the tower, Tersane and Damlataş Cave on one combination.",
+   "q": "Kızıl Kule, Tophane, Alanya, Antalya",
+   "ll": [
+    36.53639,
+    31.99825
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Red_Tower_(Alanya)",
+    "https://www.historyhit.com/locations/kizilkule/"
+   ]
+  },
+  {
+   "id": "alanyatersane",
+   "cat": "gor",
+   "area": "alanya",
+   "title": "See the only Seljuk shipyard left in Turkey",
+   "desc": "Finished in 1228, the Alanya Tersane has five arched bays where galleys were built into the 13th century. It is now an open-air museum beside the harbour.",
+   "tip": "Combine with the Red Tower; allow 30 minutes.",
+   "q": "Alanya Tersanesi, Tophane, Alanya, Antalya",
+   "ll": [
+    36.53464,
+    31.99746
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Alanya_Shipyard"
+   ]
+  },
+  {
+   "id": "damlatascave",
+   "cat": "gor",
+   "area": "alanya",
+   "title": "Breathe in the stalactites of Damlataş Cave",
+   "desc": "Discovered in 1948 during harbour construction, the cave has dripstone formations and a steady temperature and high humidity, used for treating asthma. It is next to the harbour.",
+   "tip": "Open daily; allow 20 minutes.",
+   "q": "Damlataş Mağarası, Müftüler, Alanya, Antalya",
+   "ll": [
+    36.54187,
+    31.98879
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/turkey/mediterranean-coast/alanya/attractions/damlatas-cave/a/poi-sig/1005264/360890"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "dimcave",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Descend into Dim Cave under Cebel-i Reis",
+   "desc": "About 360 m of illuminated passages run through stalactites and pasta-like stalactites that are still forming. The cave has been open since 1998.",
+   "tip": "Ticket prices change; the cave is 12 km east of Alanya and cool year-round.",
+   "q": "Dim Mağarası, Kestel, Alanya, Antalya",
+   "ll": [
+    36.53916,
+    32.10979
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Dim_Cave"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "alarahan",
+   "cat": "gor",
+   "area": "alanya",
+   "title": "Wander Alara Han caravanserai and the castle above",
+   "desc": "Alaeddin Keykubad I built the Alara Han in 1231 to 1232 on the Silk Road beside the Alara stream, with a castle on the hill behind it.",
+   "tip": "Free; the castle climb takes about 40 minutes.",
+   "q": "Alara Han, Alarahan Mahallesi, Alanya, Antalya",
+   "ll": [
+    36.78279,
+    31.88521
+   ],
+   "src": [
+    "https://antalya.com.tr/en/discovery/history/historical-places/alara-han-and-castle",
+    "https://antalyatouristinformation.com/things-to-do/history/alara-han"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sapaderecanyon",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the boardwalk through Sapadere Canyon",
+   "desc": "A 750 m walkway leads through a canyon of up to 400 m depth to a waterfall and a pot-like pool. It opened to visitors after a 2008 project.",
+   "tip": "Cool in summer; about 40 km from Alanya, so take a tour or taxi.",
+   "q": "Sapadere Kanyonu, Sapadere, Alanya, Antalya",
+   "ll": [
+    36.52802,
+    32.31284
+   ],
+   "src": [
+    "https://visitalanya.com/?p=5449"
+   ]
+  },
+  {
+   "id": "alanyaataturkhouse",
+   "cat": "gor",
+   "area": "alanya",
+   "title": "Step into the Atatürk House Museum in Alanya",
+   "desc": "A typical Alanya house where Atatürk stayed on 18 February 1935 became a museum in 1987 and shows rooms and domestic items.",
+   "tip": "Entry free; hours change by season, so check before going.",
+   "q": "Atatürk Evi Müzesi, Hacet Mahallesi, Alanya, Antalya",
+   "ll": [
+    36.54908,
+    31.99982
+   ],
+   "src": [
+    "https://www.ktb.gov.tr/EN-103962/antalya---alanya-ataturk-house-museum.html"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "alanyamuseum",
+   "cat": "gor",
+   "area": "alanya",
+   "title": "See Hellenistic and Roman finds at Alanya Museum",
+   "desc": "The Alanya Archaeological Museum has archaeological and ethnographic sections with Hellenistic, Roman and Byzantine objects.",
+   "tip": "Indoors; good for midday heat.",
+   "q": "Alanya Arkeoloji Müzesi, Hacet Mahallesi, Alanya, Antalya",
+   "ll": [
+    36.54394,
+    31.98891
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Alanya_Archaeological_Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "selinus",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore Roman Selinus in Gazipaşa",
+   "desc": "Selinus is the ancient city where emperor Trajan died in 117 AD; the cenotaph and the remains of the lower city are visible in Gazipaşa town.",
+   "tip": "Free; combine with a stop at the Gazipaşa bazaar.",
+   "q": "Selinus Antik Kenti, Gazipaşa, Antalya",
+   "ll": [
+    36.25827,
+    32.28296
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Selinus_(Cilicia)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "antiochiaadcragum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the cliff-top city Antiochia ad Cragum",
+   "desc": "This Roman Cilician city has a restored colonnaded street, a theatre and a large bath, and excavation is ongoing. It sits above the sea east of Gazipaşa.",
+   "tip": "Check opening dates; there is little shade, so go early.",
+   "q": "Antiochia ad Cragum, Güneyköy, Gazipaşa, Antalya",
+   "ll": [
+    36.15402,
+    32.42875
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Antiochia_ad_Cragum"
+   ]
+  },
+  {
+   "id": "koprulurafting",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Raft the Köprüçay through Köprülü Canyon",
+   "desc": "The 14 km course has about ten rapids through a pine-lined national park gorge, with no experience needed. Tours include equipment and instruction.",
+   "tip": "Season runs April to October; book ahead in July and August.",
+   "q": "Köprülü Kanyon Milli Parkı, Bellibaşı, Manavgat, Antalya",
+   "ll": [
+    37.26915,
+    31.14469
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/K%C3%B6pr%C3%BCl%C3%BC_Canyon_National_Park"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "oymapinarboat",
+   "cat": "dene",
+   "area": "alanya",
+   "title": "Cruise the green water of Oymapınar Lake",
+   "desc": "Boat tours run on the reservoir behind the Oymapınar dam into the Green Canyon, with swimming stops from a platform and a lakeside lunch.",
+   "tip": "Tours leave from the dam area and are bookable from Side or Alanya.",
+   "q": "Oymapınar Barajı, Manavgat, Antalya",
+   "ll": [
+    36.9079,
+    31.53108
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Oymap%C4%B1nar_Dam"
+   ]
+  },
+  {
+   "id": "manavgatcruise",
+   "cat": "dene",
+   "area": "alanya",
+   "title": "Take a boat cruise on the Manavgat River",
+   "desc": "River boats go from the Manavgat quays through reed banks to the coast, passing the waterfall and fish restaurants.",
+   "tip": "Check departure times at the quay; summer weekends fill up.",
+   "q": "Manavgat Nehri İskelesi, Manavgat, Antalya",
+   "ll": [
+    36.78631,
+    31.44797
+   ],
+   "src": [
+    "https://guides.travel.sygic.com/production/en/Manavgat"
+   ]
+  },
+  {
+   "id": "cleopatrabeach",
+   "cat": "dene",
+   "area": "alanya",
+   "title": "Swim at Cleopatra Beach below Alanya Castle",
+   "desc": "A long sandy beach on the west side of the castle peninsula, said in legend to have been given to Cleopatra by Mark Antony.",
+   "tip": "Peak season is crowded; the cable car and bus go to the castle.",
+   "q": "Kleopatra Plajı, Alanya, Antalya",
+   "ll": [
+    36.5483,
+    31.97999
+   ],
+   "src": [
+    "https://www.jet2holidays.com/things-to-do/antalya-area/alanya-fortress"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "alanyacablecar",
+   "cat": "dene",
+   "area": "alanya",
+   "title": "Ride the Alanya Teleferik to the castle",
+   "desc": "The cable car runs from Cleopatra Beach up to the Ehmedek section of Alanya Castle, saving the long climb.",
+   "tip": "Take it at the end of the day for views; walk down if you want.",
+   "q": "Alanya Teleferik, Cleopatra Beach, Alanya, Antalya",
+   "ll": [
+    36.54076,
+    31.99013
+   ],
+   "src": [
+    "https://www.tui.co.uk/things-to-do/alanya/alanya-teleferik-to-alanya-castle-tickets-441110/"
+   ]
+  },
+  {
+   "id": "alanyapirateboat",
+   "cat": "dene",
+   "area": "alanya",
+   "title": "Take a pirate boat trip from Alanya harbour",
+   "desc": "Wooden boats leave the harbour for the Red Tower and sea caves, with lunch and swim stops.",
+   "tip": "Book at the harbour pier; summer is best.",
+   "q": "Alanya Limanı, Alanya, Antalya",
+   "ll": [
+    36.5395,
+    32.0043
+   ],
+   "src": [
+    "https://www.musement.com/us/alanya/alanya-teleferik-to-alanya-castle-tickets-441110"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "sidebeach",
+   "cat": "dene",
+   "area": "alanya",
+   "title": "Swim at the sandy beaches of Side",
+   "desc": "Long sandy beaches either side of the Side peninsula slope gently into the Mediterranean.",
+   "tip": "Best from May to October; sunbed rental is common.",
+   "q": "Side Plajı, Side, Manavgat, Antalya",
+   "ll": [
+    36.76644,
+    31.38922
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Side,_Turkey"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "kadriyebeach",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Spend a day at Kadriye Beach Park",
+   "desc": "Kadriye was Turkey's first golf resort and also has the first beach park. The coast has wide sand and park facilities.",
+   "tip": "Easy from Belek; summer is busy.",
+   "q": "Kadriye Plajı, Kadriye, Serik, Antalya",
+   "ll": [
+    36.86997,
+    31.00475
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Kadriye",
+    "https://en.wikipedia.com/wiki/Belek"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "incekumbeach",
+   "cat": "dene",
+   "area": "alanya",
+   "title": "Relax on İncekum Beach near Okurcalar",
+   "desc": "İncekum is a quiet resort area with a pine forest and a long beach west of Alanya.",
+   "tip": "Pine shade makes it cooler than the town beaches.",
+   "q": "İncekum Plajı, Avsallar, Alanya, Antalya",
+   "ll": [
+    36.63526,
+    31.74984
+   ],
+   "src": [
+    "https://www.expedia.com/cn/Incekum.dx6054870"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "kargicakbeach",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim at Kargıcak beach",
+   "desc": "Kargıcak has small beige pebbles and a quiet beachfront, east of Alanya.",
+   "tip": "Quieter than Alanya town; go in summer.",
+   "q": "Kargıcak Plajı, Kargıcak, Alanya, Antalya",
+   "ll": [
+    36.543,
+    32.156
+   ],
+   "src": [
+    "https://visitalanya.com/?p=5449"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "sidesunsetwalk",
+   "cat": "dene",
+   "area": "alanya",
+   "title": "Walk the Side peninsula promenade at sunset",
+   "desc": "The harbour and peninsula path passes ancient walls and cafes toward the Temple of Apollo as the sun goes down.",
+   "tip": "Free; start at the harbour at dusk.",
+   "q": "Side Limanı, Side, Manavgat, Antalya",
+   "ll": [
+    36.76644,
+    31.38922
+   ],
+   "src": [
+    "https://www.jet2holidays.com/things-to-do/antalya-area/side-harbour"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "balabanalanya",
+   "cat": "ye",
+   "area": "alanya",
+   "title": "Eat grilled fish at Balaban Restaurant, Alanya",
+   "desc": "Balaban is a long-running restaurant known for grilled fish and lentil soup.",
+   "tip": "Order the fish of the day with lentil soup.",
+   "q": "Balaban Restaurant, Alanya, Antalya",
+   "ll": [
+    36.5394,
+    32.0016
+   ],
+   "src": [
+    "https://www.tripadvisor.co.nz/Restaurant_Review-g297961-d8588757-Reviews-Balaban_Restaurant-Alanya_Turkish_Mediterranean_Coast.html"
+   ]
+  },
+  {
+   "id": "ravzaalanya",
+   "cat": "ye",
+   "area": "alanya",
+   "title": "Eat traditional Turkish dishes at Ravza, Alanya",
+   "desc": "Ravza serves Turkish and Middle Eastern home cooking at moderate prices.",
+   "tip": "Pick from the counter of the day.",
+   "q": "Ravza Restaurant, Alanya, Antalya",
+   "ll": [
+    36.54194,
+    32.00035
+   ],
+   "src": [
+    "https://vigotours.com/blog/detail/best-restaurants-in-alanya-top-20-dining-spots-1"
+   ]
+  },
+  {
+   "id": "deryalokantasi",
+   "cat": "ye",
+   "area": "alanya",
+   "title": "Have a lokanta lunch at Derya Lokantası",
+   "desc": "A local favourite for home-style Turkish meals.",
+   "tip": "Lunch crowds fill up around 1 pm.",
+   "q": "Derya Lokantası, Alanya, Antalya",
+   "ll": [
+    36.5463,
+    31.98818
+   ],
+   "src": [
+    "https://vigotours.com/blog/detail/best-restaurants-in-alanya-top-20-dining-spots-1"
+   ]
+  },
+  {
+   "id": "vankahvaltibahcesi",
+   "cat": "ye",
+   "area": "alanya",
+   "title": "Order a Turkish breakfast at Van Kahvaltı Bahçesi",
+   "desc": "The breakfast garden serves a generous serpme kahvaltı with Van-style cheese and honey at fair prices.",
+   "tip": "Go before 11 am.",
+   "q": "Van Kahvaltı Bahçesi, Türkmenbaşı Caddesi No:7, Kızlar Pınarı, Alanya, Antalya",
+   "ll": [
+    36.5476,
+    32.0038
+   ],
+   "src": [
+    "https://yemek.com/alanya-kahvalti-mekanlari/"
+   ]
+  },
+  {
+   "id": "muhtarinyeri",
+   "cat": "ye",
+   "area": "alanya",
+   "title": "Order serpme breakfast at Muhtarın Yeri",
+   "desc": "The place is known for fresh, high-quality serpme kahvaltı with a view.",
+   "tip": "Share the spread between two.",
+   "q": "Muhtarın Yeri, Alanya, Antalya",
+   "ll": [
+    36.53188,
+    31.99179
+   ],
+   "src": [
+    "https://wanderlog.com/list/geoCategory/10226"
+   ]
+  },
+  {
+   "id": "zeytindali",
+   "cat": "ye",
+   "area": "alanya",
+   "title": "Eat fried-bread pişi for breakfast at Cafe Zeytin Dalı",
+   "desc": "Reviewers praise the freshly made pişi and the harbour views at this cafe.",
+   "tip": "Prices are on the high side.",
+   "q": "Cafe Zeytin Dalı, Alanya, Antalya",
+   "ll": [
+    36.53691,
+    31.99642
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/1329350/cafe-zeytin-dalı"
+   ]
+  },
+  {
+   "id": "zencefilalanya",
+   "cat": "ye",
+   "area": "alanya",
+   "title": "Have a hilltop breakfast at Zencefil Café",
+   "desc": "A hill cafe with breads, jams, cheeses, olives and views over the town.",
+   "tip": "Go for sunset coffee too.",
+   "q": "Zencefil Café Restaurant, Köşk Yolu Sokak 15, Büyükhasbahçe, Alanya, Antalya",
+   "ll": [
+    36.5452,
+    32.0085
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/1329343/zencefil-caf-restaurant"
+   ]
+  },
+  {
+   "id": "tepemountain",
+   "cat": "ye",
+   "area": "alanya",
+   "title": "Eat village breakfast at Tepe Mountain",
+   "desc": "A quiet panoramic cafe with a simple menu of traditional Turkish kahvaltı and coffee.",
+   "tip": "Go in the morning.",
+   "q": "Tepe Mountain Cafe, Alanya, Antalya",
+   "ll": [
+    36.547,
+    32.012
+   ],
+   "src": [
+    "https://2base.com/en/stories/alanya-cafe-turkish-breakfast-coffee-view-mediterranean-sea-turkey"
+   ]
+  },
+  {
+   "id": "vitamincafe",
+   "cat": "ye",
+   "area": "alanya",
+   "title": "Try gözleme and village breakfast at Vitamin Cafe",
+   "desc": "Vitamin Cafe in Şekerhane serves gözleme, mantı and village breakfast for two.",
+   "tip": "Share a village breakfast.",
+   "q": "Vitamin Cafe Gözleme Mantı Kahvaltı, Şekerhane, Alanya, Antalya",
+   "ll": [
+    36.5495,
+    32.005
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/11992285/vitamin-cafe-gözleme-mantı-kahvalti"
+   ]
+  },
+  {
+   "id": "mezzagurme",
+   "cat": "ye",
+   "area": "alanya",
+   "title": "Eat breakfast at Mezza Gurme in Alanya",
+   "desc": "Reviewers call it the best breakfast in Alanya.",
+   "tip": "Weekend mornings are busy.",
+   "q": "Mezza Gurme, Alanya, Antalya",
+   "ll": [
+    36.54013,
+    32.0393
+   ],
+   "src": [
+    "https://teletype.in/@obavsedela/best-breakfast-alanya"
+   ]
+  },
+  {
+   "id": "aphroditeside",
+   "cat": "ye",
+   "area": "alanya",
+   "title": "Eat swordfish and calamari at Aphrodite, Side",
+   "desc": "Aphrodite Restaurant overlooks Side harbour and is known for fresh seafood.",
+   "tip": "Book a harbour-view table at sunset.",
+   "q": "Aphrodite Restaurant, Liman, Side, Manavgat, Antalya",
+   "ll": [
+    36.76615,
+    31.38568
+   ],
+   "src": [
+    "https://vigotours.com/blog/detail/taste-explore-best-restaurants-and-tours-in-side"
+   ]
+  },
+  {
+   "id": "orfozside",
+   "cat": "ye",
+   "area": "alanya",
+   "title": "Dine on fish at Orfoz, Side harbour",
+   "desc": "Orfoz sits at the water with views over the bay and a high-end seafood menu.",
+   "tip": "Reserve ahead in summer.",
+   "q": "Orfoz Restaurant, Side Limanı, Side, Manavgat, Antalya",
+   "ll": [
+    36.7665,
+    31.38537
+   ],
+   "src": [
+    "https://www.fodors.com/world/europe/turkey/the-turquoise-coast/restaurants/upscale"
+   ]
+  },
+  {
+   "id": "meshursidebalik",
+   "cat": "ye",
+   "area": "alanya",
+   "title": "Eat the day's catch at Meşhur Side Balıkçısı",
+   "desc": "Reviewers call it the best fish restaurant in Side and Manavgat.",
+   "tip": "Choose your fish from the counter.",
+   "q": "Meşhur Side Balıkçısı, Side, Manavgat, Antalya",
+   "ll": [
+    36.77407,
+    31.39478
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/2694132/meşhur-side-balıkçısı--karadeniz-balıkçısı--balıkevi"
+   ]
+  },
+  {
+   "id": "kucukselale",
+   "cat": "ye",
+   "area": "alanya",
+   "title": "Eat fried trout at Küçük Şelale beside the Manavgat River",
+   "desc": "One of the oldest restaurants in Manavgat sits directly on the river and serves fried trout and kavurma.",
+   "tip": "Sit by the water.",
+   "q": "Küçük Şelale Restaurant, Küçük Şelale Mevkii No:27, Manavgat, Antalya",
+   "ll": [
+    36.8008,
+    31.4429
+   ],
+   "src": [
+    "https://www.airbnb.com.pa/things-to-do/places/3069306"
+   ]
+  },
+  {
+   "id": "dimpinarbasi",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat river trout at Dimçayı Pınarbaşı",
+   "desc": "The restaurant is on the banks of the Dim stream and serves trout from its own farm.",
+   "tip": "Take bus 10 from Alanya.",
+   "q": "Dimçayı Pınarbaşı Restaurant, Baraj Yolu Caddesi, Alanya, Antalya",
+   "ll": [
+    36.54779,
+    32.13181
+   ],
+   "src": [
+    "https://www.hurriyet.com.tr/lezizz/yazarlar/sertac-virancik/alanyada-3-enfes-restoran-41868108"
+   ]
+  },
+  {
+   "id": "dimcaglar",
+   "cat": "ye",
+   "area": "alanya",
+   "title": "Eat gözleme and trout at Dimçayı Çağlar Piknik",
+   "desc": "A riverside picnic restaurant on the Dim stream with tables by the water.",
+   "tip": "Cash helps; summer is busy.",
+   "q": "Dimçayı Çağlar Piknik, Dimçayı, Alanya, Antalya",
+   "ll": [
+    36.5935,
+    32.1048
+   ],
+   "src": [
+    "https://www.komoot.com/highlight/7526603"
+   ]
+  },
+  {
+   "id": "dimdoganay",
+   "cat": "ye",
+   "area": "alanya",
+   "title": "Eat kebab and trout at Doğanay Piknik, Dim Çayı",
+   "desc": "Doğanay Piknik serves trout and kebabs on the Dim river.",
+   "tip": "Ask for a table in the stream.",
+   "q": "Doğanay Piknik, Dimçayı, Alanya, Antalya",
+   "ll": [
+    36.6,
+    32.106
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/12140708/doğanay-piknik-alanya"
+   ]
+  }
+ ]
+}

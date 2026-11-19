@@ -1,0 +1,694 @@
+{
+ "new": [
+  {
+   "id": "elnazar",
+   "cat": "gor",
+   "area": "goreme",
+   "title": "Find the frescoes of El Nazar Church near Göreme",
+   "desc": "El Nazar Church (Church of the Evil Eye) is a rock-cut church of about the 10th century, standing near the start of the Zemi Valley trail. Its restored frescoes and carved interior are among the finest outside the Open-Air Museum.",
+   "tip": "Quiet early in the morning or late afternoon; it is a short walk from the museum road and has a small entrance fee.",
+   "q": "El Nazar Kilisesi, Zemi Vadisi, Göreme, Nevşehir",
+   "ll": [
+    38.639,
+    34.8388
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/turkey/cappadocia-kapadokya/goreme/attractions/el-nazar-kilise/a/poi-sig/470966/360875"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hallacmanastiri",
+   "cat": "gor",
+   "area": "goreme",
+   "title": "Explore the courtyard of Hallaç Monastery in Ortahisar",
+   "desc": "Hallaç Monastery is a large rock-cut complex north-east of Ortahisar with a three-sided courtyard, big halls and a spacious cave church, carved in one campaign in the 11th century. Its original purpose is still debated.",
+   "tip": "Walk up from Ortahisar village; bring a torch for the dark halls.",
+   "q": "Hallaç Manastırı, Ortahisar, Ürgüp, Nevşehir",
+   "ll": [
+    38.63259,
+    34.87042
+   ],
+   "src": [
+    "https://wowcappadocia.com/hallac-hospital-monastery.html"
+   ]
+  },
+  {
+   "id": "altikapili",
+   "cat": "gor",
+   "area": "goreme",
+   "title": "See the carved Altıkapılı Türbe in Ürgüp",
+   "desc": "The Altıkapılı Tomb in Ürgüp is a Seljuk-period tomb known for its carved stonework. It stands in the town and is easy to combine with a walk through old Ürgüp.",
+   "tip": "Open in daytime hours; free to look at from outside.",
+   "q": "Altıkapılı Türbe, Ürgüp Merkez, Ürgüp, Nevşehir",
+   "ll": [
+    38.6308,
+    34.912
+   ],
+   "src": [
+    "https://www.nonprod.lonelyplanet.com/points-of-interest/altikapili-tuerbe/1264150"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "uchguzeller",
+   "cat": "gor",
+   "area": "goreme",
+   "title": "Photograph the Üç Güzeller fairy chimneys",
+   "desc": "Üç Güzeller, the Three Beauties, are three tall tuff fairy chimneys beside the road between Ürgüp and Göreme, with a small one standing between two big ones. They are among the most photographed formations in Cappadocia.",
+   "tip": "Free to visit; best in morning light with a tea from the roadside stalls.",
+   "q": "Üç Güzeller Peribacaları, Ürgüp-Göreme yolu, Ürgüp, Nevşehir",
+   "ll": [
+    38.63547,
+    34.89036
+   ],
+   "src": [
+    "https://www.tatilbudur.com/blog/?p=14181"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sarica",
+   "cat": "gor",
+   "area": "goreme",
+   "title": "Climb up to the rock churches of Sarıca Valley",
+   "desc": "Sarıca Church sits in the Kepez Valley near Ürgüp, with churches carved into isolated volcanic cones in an open valley. The site is unattended and free; church 3 has been restored but stays locked.",
+   "tip": "Wear good shoes for the short scramble and go in daylight.",
+   "q": "Sarıca Kilisesi, Kepez Vadisi, Ürgüp, Nevşehir",
+   "ll": [
+    38.60918,
+    34.89579
+   ],
+   "src": [
+    "https://cappadociahistory.com/post/sarıca-church"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "keslik",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander the cave monastery of Keşlik",
+   "desc": "Keşlik Monastery is a rock-cut monastic complex near Cemilköy and Mustafapaşa with two churches (St Michael and St Stephen), a large refectory hall and a sacred spring. It was in use until the 1924 population exchange.",
+   "tip": "Reach it by a short track off the Mustafapaşa road; a torch helps inside.",
+   "q": "Keşlik Manastırı, Cemilköy, Ürgüp, Nevşehir",
+   "ll": [
+    38.5144,
+    34.94236
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ke%C5%9Flik_Monastery"
+   ]
+  },
+  {
+   "id": "taskinpasa",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Admire the portal of the Taşkınpaşa Madrasa",
+   "desc": "The Taşkınpaşa complex dates to the Karamanid period around 1350 and is known for the tall carved portal of its madrasa. Two Seljuk-era tombs stand beside the mosque in the village.",
+   "tip": "On the Ürgüp to Soğanlı road, so pair it with a Soğanlı visit; the mosque is usually closed.",
+   "q": "Taşkınpaşa Medresesi, Taşkınpaşa Köyü, Ürgüp, Nevşehir",
+   "ll": [
+    38.49538,
+    34.94989
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/turkey/cappadocia-kapadokya/attractions/taskinpasa-mosque/a/poi-sig/1494684/360873",
+    "https://www.discovercappadocia.com/place/taskinpasa-madrasah"
+   ]
+  },
+  {
+   "id": "sobesos",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Dig into Sobesos, Cappadocia's Roman city",
+   "desc": "Sobesos, found in 2002 near Şahinefendi village, is the only ancient Roman city identified so far in Cappadocia, with a Byzantine layer of about the sixth century. Excavations are still going on.",
+   "tip": "Check access with the local museum first as excavation areas can be closed.",
+   "q": "Sobesos Antik Kenti, Şahinefendi, Ürgüp, Nevşehir",
+   "ll": [
+    38.54,
+    34.98
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Sobessos"
+   ]
+  },
+  {
+   "id": "kayseriarkeoloji",
+   "cat": "gor",
+   "area": "kayseri",
+   "title": "Meet the Hittite finds of Kayseri Archaeology Museum",
+   "desc": "Open since 1969, Kayseri Archaeology Museum shows finds from prehistory to the Ottoman era, including material from nearby Kültepe-Kaniş. It sits beside the citadel in the old centre.",
+   "tip": "Check opening hours before going as sources differ.",
+   "q": "Kayseri Arkeoloji Müzesi, Kümeevler, Melikgazi, Kayseri",
+   "ll": [
+    38.72106,
+    35.48847
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Kayseri_Archaeology_Museum",
+    "https://kulturenvanteri.com/en/yer/kayseri-arkeoloji-muzesi/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hacikilic",
+   "cat": "gor",
+   "area": "kayseri",
+   "title": "See the Hacı Kılıç Mosque and Madrasa complex",
+   "desc": "Hacı Kılıç Mosque and Madrasa are historic buildings in central Kayseri listed in the provincial tourism inventory. They show the city's tradition of black volcanic stonework.",
+   "tip": "Free to look at from outside; combine with the citadel area.",
+   "q": "Hacı Kılıç Camii, Melikgazi, Kayseri",
+   "ll": [
+    38.72672,
+    35.48451
+   ],
+   "src": [
+    "https://kayseri.ktb.gov.tr/Eklenti/6632,kayseri-turizm-envanteri--sonpdf.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "koskmedrese",
+   "cat": "gor",
+   "area": "kayseri",
+   "title": "Find Köşk Medrese in the old centre of Kayseri",
+   "desc": "Köşk Medrese is a historic madrasa in Kayseri's core, listed in the provincial tourism inventory near the citadel and Hunat Hatun area.",
+   "tip": "Easy to include on a walk between the citadel and Cumhuriyet Square.",
+   "q": "Köşk Medrese, Melikgazi, Kayseri",
+   "ll": [
+    38.71668,
+    35.51055
+   ],
+   "src": [
+    "https://kayseri.ktb.gov.tr/Eklenti/6632,kayseri-turizm-envanteri--sonpdf.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "cacabey",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look up at the stars of Cacabey Madrasa in Kırşehir",
+   "desc": "Cacabey Madrasa was completed in 1272-73 for the governor Nureddin Cibril bin Caca Bey and is known as an early centre of astronomy teaching with an observatory. It was restored by 2023 and is used as a mosque.",
+   "tip": "Visit together with the nearby Ahi Evran complex.",
+   "q": "Cacabey Medresesi, Kırşehir Merkez, Kırşehir",
+   "ll": [
+    39.14513,
+    34.16147
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Cacabey_Madrasa"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hudavent",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Study the carvings of Hüdavent Hatun Tomb in Niğde",
+   "desc": "Hüdavent Hatun Tomb was built in 1312 for the daughter of the Seljuk sultan Kilij Arslan IV. It is famous for its rich vegetal and animal reliefs.",
+   "tip": "Free and quick to see; combine with the other Niğde Seljuk monuments.",
+   "q": "Hüdavent Hatun Türbesi, Niğde Merkez, Niğde",
+   "ll": [
+    37.97237,
+    34.67587
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Hudavent_Hatun_Tomb"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "elai",
+   "cat": "ye",
+   "area": "goreme",
+   "title": "Dine on the terrace of Elai under Uçhisar Castle",
+   "desc": "Elai began as a village café and is now one of Cappadocia's most praised restaurants, with white tablecloths and a terrace below Uçhisar Castle looking over Pigeon and Rose valleys.",
+   "tip": "Book a table for sunset; try the Anatolian lamb dishes.",
+   "q": "Elai Restaurant, Uçhisar, Nevşehir",
+   "ll": [
+    38.62892,
+    34.80553
+   ],
+   "src": [
+    "https://turkeytravelplanner.com/go/CentralAnatolia/Cappadocia/uchisar/rests/elai.html"
+   ]
+  },
+  {
+   "id": "antepsofrasi",
+   "cat": "ye",
+   "area": "goreme",
+   "title": "Break a clay pot of testi kebab at Antep Sofrası in Ürgüp",
+   "desc": "Ürgüp Antep Sofrası Testi Kebap & Pide is a grill known for testi kebab, the meat-and-vegetable stew cooked in a sealed clay jug that is cracked open at the table.",
+   "tip": "Order the testi kebab ahead if you can; it is open late.",
+   "q": "Ürgüp Antep Sofrası Testi Kebap & Pide, Ürgüp, Nevşehir",
+   "ll": [
+    38.6312,
+    34.9128
+   ],
+   "src": [
+    "https://de.restaurantguru.com/Uergup"
+   ]
+  },
+  {
+   "id": "tandirhouse",
+   "cat": "ye",
+   "area": "goreme",
+   "title": "Eat slow-cooked tandır lamb at Tandır House in Ürgüp",
+   "desc": "Tandır House Restaurant in Ürgüp's Dereler quarter is built around tandır dishes, lamb cooked slowly in a pit oven until it falls from the bone.",
+   "tip": "Go for dinner and ask for the tandır with rice.",
+   "q": "Tandır House Restaurant, Dereler Sokak 18, Dereler, Ürgüp, Nevşehir",
+   "ll": [
+    38.6214,
+    34.85971
+   ],
+   "src": [
+    "https://yemek.com/urgup-yemek-yerleri/"
+   ]
+  },
+  {
+   "id": "hezenortahisar",
+   "cat": "ye",
+   "area": "goreme",
+   "title": "Dine in a cave at Hezen Restaurant in Ortahisar",
+   "desc": "Hezen Restaurant in Ortahisar serves Central Anatolian cooking in a cave-carved dining room below the castle.",
+   "tip": "Book ahead in season; the cave room is the best seat.",
+   "q": "Hezen Restaurant, Tahirbey Sokak, Esentepe, Ortahisar, Ürgüp, Nevşehir",
+   "ll": [
+    38.62175,
+    34.86299
+   ],
+   "src": [
+    "https://www.enprimeurclub.com/restaurants/hezen-restaurant-urgup-restaurant"
+   ]
+  },
+  {
+   "id": "babayanevi",
+   "cat": "ye",
+   "area": "goreme",
+   "title": "Taste the village cooking of Babayan Evi in Ortahisar",
+   "desc": "Babayan Evi Restaurant is listed in the Michelin Guide, serving regional Cappadocian dishes in a restored stone house in the Ortahisar quarter.",
+   "tip": "Reserve for dinner and ask for the seasonal local dishes.",
+   "q": "Babayan Evi Restaurant, Ortahisar, Ürgüp, Nevşehir",
+   "ll": [
+    38.60005,
+    34.84702
+   ],
+   "src": [
+    "https://guide.michelin.com/tr/tr/nevsehir/urgup_2827493/restaurant/babayan-evi-restaurant"
+   ]
+  },
+  {
+   "id": "gorkunderebreakfast",
+   "cat": "ye",
+   "area": "goreme",
+   "title": "Have a Turkish breakfast at Görkündere Cafe in Göreme",
+   "desc": "Görkündere Cafe Breakfast, a short walk from the main street, serves a spread of Turkish breakfast with organic produce, on a terrace facing the fairy chimneys.",
+   "tip": "Come before 10:30 for the full spread; service can be slow.",
+   "q": "Görkündere Cafe Breakfast, Göreme, Nevşehir",
+   "ll": [
+    38.6428,
+    34.827
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/379736"
+   ]
+  },
+  {
+   "id": "cafesafak",
+   "cat": "ye",
+   "area": "goreme",
+   "title": "Start the day at Cafe Şafak in Göreme",
+   "desc": "Cafe Şafak is a popular breakfast and coffee stop in Göreme, known for Turkish omelette, çılbır eggs, lentil soup and daily specials.",
+   "tip": "Try the çılbır at breakfast or the soup at lunch.",
+   "q": "Cafe Şafak, Göreme, Nevşehir",
+   "ll": [
+    38.64355,
+    34.83127
+   ],
+   "src": [
+    "https://wanderlog.com/list/geoCategory/1809147/best-foods-to-try-in-goreme"
+   ]
+  },
+  {
+   "id": "karsibucak",
+   "cat": "ye",
+   "area": "goreme",
+   "title": "Eat a village breakfast at Karşı Bucak in Göreme",
+   "desc": "Karşı Bucak Kahvaltı Cafe is a Turkish breakfast place with many small plates and a view, set a little off the main streets.",
+   "tip": "Reviewers mention a low price per person; arrive in the morning.",
+   "q": "Karşı Bucak Kahvaltı Cafe, Karamızrak Sokak, Göreme, Nevşehir",
+   "ll": [
+    38.6439,
+    34.8301
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/3271031"
+   ]
+  },
+  {
+   "id": "mariasbreakfast",
+   "cat": "ye",
+   "area": "goreme",
+   "title": "Enjoy the buffet breakfast at Maria's in Göreme",
+   "desc": "Maria's Breakfast Göreme offers a Turkish buffet breakfast with Turkish coffee and views, a favourite for a slow start after the balloon flights.",
+   "tip": "Prices are listed in lira per person; go early in high season.",
+   "q": "Maria's Breakfast, Göreme, Nevşehir",
+   "ll": [
+    38.64448,
+    34.82313
+   ],
+   "src": [
+    "https://wanderlog.com/list/geoCategory/1809147/best-foods-to-try-in-goreme"
+   ]
+  },
+  {
+   "id": "ziggys",
+   "cat": "ye",
+   "area": "goreme",
+   "title": "Watch Ürgüp from the terraces of Ziggy's Cafe",
+   "desc": "Ziggy's Shoppe & Cafe in Ürgüp is known for three outdoor terraces with views over the old town, serving light meals and drinks.",
+   "tip": "Choose a terrace table at sunset.",
+   "q": "Ziggy's Shoppe & Cafe, Tevfik Fikret Caddesi No:24, Yunak Mahallesi, Ürgüp, Nevşehir",
+   "ll": [
+    38.6325,
+    34.9115
+   ],
+   "src": [
+    "https://turkeytravelplanner.com/go/CentralAnatolia/Cappadocia/urgup/rests/ziggys.html"
+   ]
+  },
+  {
+   "id": "kasiklamanti",
+   "cat": "ye",
+   "area": "kayseri",
+   "title": "Taste tiny Kayseri mantı at Kaşıkla",
+   "desc": "Kaşıkla serves Kayseri mantı, the dumplings so small that about 40 fit on one spoon, finished with garlic yogurt and hot butter-and-paprika sauce.",
+   "tip": "Order the classic mantı with sumac and chili butter.",
+   "q": "Kaşıkla Mantı, Kayseri",
+   "ll": [
+    38.72064,
+    35.48784
+   ],
+   "src": [
+    "https://www.flypgs.com/sehir-rehberi/kayseride-nerede-ne-yenir"
+   ]
+  },
+  {
+   "id": "lezzetcivikli",
+   "cat": "ye",
+   "area": "kayseri",
+   "title": "Eat a crisp Develi cıvıklısı at Lezzet Develi Cıvıklısı",
+   "desc": "Cıvıklı is the thin Develi flatbread topped with minced meat, a Kayseri breakfast staple, baked fresh at this well-regarded bakery in the city.",
+   "tip": "Eat it hot at breakfast with ayran.",
+   "q": "Lezzet Develi Cıvıklısı, Tuna Caddesi No:12/B, Erciyesevler, Kocasinan, Kayseri",
+   "ll": [
+    38.725,
+    35.49
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/10624287/lezzet-develi-c%C4%B1v%C4%B1kl%C4%B1s%C4%B1"
+   ]
+  },
+  {
+   "id": "agalarkonagi",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try çullama and madımak at Ağalar Konağı in Kırşehir",
+   "desc": "Ağalar Konağı is a Kırşehir restaurant recommended for local dishes such as çullama, a labour-intensive guest and wedding dish, and madımak.",
+   "tip": "Ask for the çullama and keşkef.",
+   "q": "Ağalar Konağı, Kırşehir Merkez, Kırşehir",
+   "ll": [
+    39.15708,
+    34.16243
+   ],
+   "src": [
+    "https://www.cnnturk.com/seyahat/kirsehirin-neyi-meshur-kirsehirin-en-meshur-yemekleri-ve-alinabilecek-hediyelikler-2096954"
+   ]
+  },
+  {
+   "id": "kardeslerrestoran",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat the house meat at Kardeşler Restoran in Aksaray",
+   "desc": "Kardeşler Restoran in Aksaray city is a large Michelin Guide listed restaurant where meat is the house speciality.",
+   "tip": "Good lunch stop between Ihlara and Sultanhanı.",
+   "q": "Kardeşler Restoran, Aksaray Merkez, Aksaray",
+   "ll": [
+    38.36443,
+    34.01271
+   ],
+   "src": [
+    "https://guide.michelin.com/en/aksaray/aksaray-merkez_2810363/restaurant/kardesler-restoran"
+   ]
+  },
+  {
+   "id": "zemivalley",
+   "cat": "dene",
+   "area": "goreme",
+   "title": "Hike the Zemi Valley loop from Göreme",
+   "desc": "Zemi Valley is a roughly 6 km loop of 2-3 hours starting between the Open-Air Museum and the Tourist Hotel, through tuff canyons and past El Nazar Church. It can finish on the Nevşehir-Ürgüp road near Uçhisar.",
+   "tip": "Start early to avoid crowds and carry water.",
+   "q": "Zemi Vadisi, Göreme, Nevşehir",
+   "ll": [
+    38.65572,
+    34.84681
+   ],
+   "src": [
+    "https://sailingstonetravel.com/hiking-cappadocia-zemi-valley-cavusin-castle/",
+    "https://turkeytravelplanner.com/go/CentralAnatolia/Cappadocia/hiking.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "meskendir",
+   "cat": "dene",
+   "area": "goreme",
+   "title": "Walk the Meskendir Valley to Red and Rose valleys",
+   "desc": "Meskendir is the valley between Göreme and Red Valley, signposted towards El Nazar Church. It is the start of the Göreme, Meskendir, Red, Rose and Sword valley loop.",
+   "tip": "Follow the signs south up the valley; allow 3-4 hours for the full loop.",
+   "q": "Meskendir Vadisi, Göreme, Nevşehir",
+   "ll": [
+    38.64537,
+    34.85292
+   ],
+   "src": [
+    "https://sailingstonetravel.com/hiking-cappadocia-goreme-meskendir-red-rose-sword-valleys/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kilicilar",
+   "cat": "dene",
+   "area": "goreme",
+   "title": "Hike Sword Valley (Kılıçlar Vadisi) above Göreme",
+   "desc": "Sword Valley is a short route of about 3 km and one hour, named for its sword-like rocks. The trailhead is just up the Ortahisar road from the Open-Air Museum, in a protected area.",
+   "tip": "Combine it with Rose and Red valleys for a 13 km loop.",
+   "q": "Kılıçlar Vadisi, Göreme, Nevşehir",
+   "ll": [
+    38.64561,
+    34.84416
+   ],
+   "src": [
+    "https://www.komoot.com/highlight/6001230",
+    "https://cappadocia4u.com/swords-valley-cappadocia"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "aktepe",
+   "cat": "dene",
+   "area": "goreme",
+   "title": "Watch sunset from Aktepe Hill over Kızılçukur",
+   "desc": "Aktepe Hill is a popular sunset spot in Cappadocia, looking over the russet folds of Kızılçukur Valley.",
+   "tip": "Arrive early to get a spot; it fills up at sunset.",
+   "q": "Aktepe Gün Batımı Noktası, Göreme Tarihi Milli Parkı, Göreme, Nevşehir",
+   "ll": [
+    38.6525,
+    34.825
+   ],
+   "src": [
+    "https://www.gaiagps.com/hike/poi/turkey/nevsehir/göreme-historical-national-park/aktepe-hill-sunset-point/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "saruhansema",
+   "cat": "dene",
+   "area": "goreme",
+   "title": "Watch a whirling dervish Sema in Saruhan Caravanserai",
+   "desc": "The 13th-century Saruhan caravanserai near Avanos on the Kızılırmak is the main venue for the nightly Mevlevi Sema ceremony of the whirling dervishes, about 45 minutes long.",
+   "tip": "Doors open around 6:30 pm; filming is usually only allowed in the last minutes.",
+   "q": "Saruhan Kervansarayı, Avanos, Nevşehir",
+   "ll": [
+    38.7094,
+    34.9198
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Saruhan"
+   ]
+  },
+  {
+   "id": "mahzenwine",
+   "cat": "dene",
+   "area": "goreme",
+   "title": "Browse small-winery wines at Mahzen Şarap Evi",
+   "desc": "Mahzen Şarap Evi is a small family-run wine house tucked behind Ürgüp's old hammam, gathering bottles from small Cappadocian producers: dry, medium-dry and sweet wines plus fruit wines. It is a short walk from Efendi Wine House.",
+   "tip": "Tasting policy varies, so ask before sitting down; combine with a stroll through old Ürgüp.",
+   "q": "Mahzen Şarap Evi, İstiklal Caddesi No:22, Ürgüp, Nevşehir",
+   "ll": [
+    38.6318,
+    34.9122
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/159918/mahzen-şarap-evi"
+   ]
+  },
+  {
+   "id": "ailanpawine",
+   "cat": "dene",
+   "area": "goreme",
+   "title": "Taste Cappadocian wines at Ailanpa Wine House",
+   "desc": "Ailanpa Wine House is an Ürgüp wine bar listed by Lonely Planet where local boutique wines are poured by the glass.",
+   "tip": "Go in the evening and ask for a tasting flight.",
+   "q": "Ailanpa Şarap Evi, Ürgüp, Nevşehir",
+   "ll": [
+    38.63003,
+    34.90933
+   ],
+   "src": [
+    "https://www.lonelyplanetitalia.it/destinazioni/turchia/uerguep/cosa-fare"
+   ]
+  },
+  {
+   "id": "salkimwine",
+   "cat": "dene",
+   "area": "goreme",
+   "title": "Sip wine with a valley view at Salkım Şarap Evi in Avanos",
+   "desc": "Salkım Şarap Evi on Edip Akbayram Sokak in Avanos is a cosy wine bar with a terrace over the valleys, pairing local wines with cheese and snacks.",
+   "tip": "Choose a terrace table at sunset.",
+   "q": "Salkım Şarap Evi, Edip Akbayram Sokak, Avanos, Nevşehir",
+   "ll": [
+    38.72016,
+    34.84759
+   ],
+   "src": [
+    "https://tripventura.com/blogs/cappadocia/cappadocia-wineries"
+   ]
+  },
+  {
+   "id": "elishamam",
+   "cat": "dene",
+   "area": "goreme",
+   "title": "Steam and scrub at Elis Hamam in Göreme",
+   "desc": "Elis Hamam on Belediye Caddesi is a Turkish bath with marble halls, sauna and foam massage, used as a meeting point for Cappadocia hammam packages.",
+   "tip": "Packages run one to two hours; check whether transfers are included.",
+   "q": "Elis Hamam, Belediye Caddesi, Göreme, Nevşehir",
+   "ll": [
+    38.6432,
+    34.8292
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/G%C3%B6reme",
+    "https://us.trip.com/things-to-do/detail/101794334"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "narligol",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the rim of the crater lake Narlıgöl",
+   "desc": "Narlıgöl is a crater lake on the Aksaray-Niğde border near Güzelyurt, with a warm spring near the shore and thermal facilities being developed.",
+   "tip": "Combine with Ihlara or Güzelyurt.",
+   "q": "Narlıgöl, Güzelyurt, Aksaray",
+   "ll": [
+    38.35324,
+    34.46141
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Lake_Nar"
+   ]
+  },
+  {
+   "id": "tuzgolu",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch flamingos and salt flats at Tuz Gölü near Aksaray",
+   "desc": "Tuz Gölü is Turkey's second-largest lake, about 57 km north-west of Aksaray, producing around 40 percent of the country's salt, with flamingos and sunset colours.",
+   "tip": "Best in summer when the shore is dry and white; avoid mid-day heat.",
+   "q": "Tuz Gölü, Eskil, Aksaray",
+   "ll": [
+    38.42115,
+    33.50177
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Lake_Tuz"
+   ]
+  },
+  {
+   "id": "alidagi",
+   "cat": "dene",
+   "area": "kayseri",
+   "title": "Fly a tandem paraglide off Ali Dağı near Kayseri",
+   "desc": "Ali Dağı in Talas, 15 minutes from Kayseri, is an established paragliding site that hosted the 2004 World Paragliding Championship and offers tandem flights.",
+   "tip": "Check the wind and book with a local club.",
+   "q": "Ali Dağı Yamaç Paraşütü Alanı, Talas, Kayseri",
+   "ll": [
+    38.66786,
+    35.54625
+   ],
+   "src": [
+    "https://www.birgun.net/haber/ali-dagi-yamac-parasutu-sampiyonasi-basladi-171557"
+   ]
+  },
+  {
+   "id": "kiranardi",
+   "cat": "dene",
+   "area": "kayseri",
+   "title": "Stroll through Kıranardı City Forest in Kayseri",
+   "desc": "Kıranardı Kent Ormanı is a city forest in Kayseri used for picnics, jogging and light walks.",
+   "tip": "Good for a morning walk away from the old centre.",
+   "q": "Kıranardı Kent Ormanı, Yayla Yolu Caddesi, Melikgazi, Kayseri",
+   "ll": [
+    38.762,
+    35.493
+   ],
+   "src": [
+    "https://enuygun.com/bilgi/kayseri-de-gezilecek-yerler-1"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

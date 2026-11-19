@@ -1,0 +1,628 @@
+{
+ "new": [
+  {
+   "id": "sumelamanastiri",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb to Sümela Monastery on its cliff face",
+   "desc": "A Greek Orthodox monastery clinging to a cliff about 1,200 m above sea level in the Altındere valley, dedicated to the Virgin Mary and traditionally dated to the 4th century. Its rock-cut chapel and frescoed walls drew pilgrims for centuries until 1923.",
+   "tip": "Go early to beat the coach groups and check the site is open before driving up, as restoration work has closed parts of it at times.",
+   "q": "Sümela Manastırı, Altındere Vadisi Milli Parkı, Maçka, Trabzon",
+   "ll": [
+    40.69083,
+    39.65861
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Sumela_Monastery"
+   ]
+  },
+  {
+   "id": "vazelonmanastiri",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Find the ruined Vazelon Monastery in the forest",
+   "desc": "A ruined Byzantine monastery near Maçka that Justinian I is said to have repaired in 565. Chapels, multi-storey rooms and traces of frescoes survive; the community left in 1923.",
+   "tip": "The approach is a forest walk; wear proper shoes and ask in Maçka for current access.",
+   "q": "Vazelon Manastırı, Maçka, Trabzon",
+   "ll": [
+    40.75982,
+    39.53006
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Vazelon_Monastery"
+   ]
+  },
+  {
+   "id": "uzungol",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Uzungöl, the landslide lake among the pines",
+   "desc": "A lake at about 1,250 m in Çaykara that formed when a landslide dammed a stream. Its shore is lined with wooden houses and trout restaurants, with forested peaks above.",
+   "tip": "Sunrise and weekdays are far quieter than summer weekends; the loop path around the lake takes about an hour.",
+   "q": "Uzungöl, Çaykara, Trabzon",
+   "ll": [
+    40.61913,
+    40.29481
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Uzung%C3%B6l",
+    "https://www.ktb.gov.tr/EN-99398/trabzon-highlands.html"
+   ]
+  },
+  {
+   "id": "giresunkalesi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk up to Giresun Castle for the city and island view",
+   "desc": "A hilltop castle site above Giresun with remains of old walls, a war-hero tomb and a wooded picnic area. From the summit you can see Giresun Island offshore.",
+   "tip": "Reach it on foot or by car from the centre; late afternoon gives the best light over the sea.",
+   "q": "Giresun Kalesi, Kapu, Giresun Merkez, Giresun",
+   "ll": [
+    40.92148,
+    38.39072
+   ],
+   "src": [
+    "https://goturkiye.com/giresun/see"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "zeytinlikevleri",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the old stone houses of Zeytinlik",
+   "desc": "Zeytinlik, once called Gogora, is Giresun's historic quarter of stone and timber houses built in the 19th century by Greek and Turkish families. It is a protected urban conservation area with about 80 registered houses.",
+   "tip": "Combine it with the nearby museum; the lanes are steep, so wear flat shoes.",
+   "q": "Zeytinlik Mahallesi, Giresun Merkez, Giresun",
+   "ll": [
+    40.91944,
+    38.39389
+   ],
+   "src": [
+    "https://tr.wikipedia.org/wiki/Giresun_M%C3%BCzesi"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "giresunmuzesi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Giresun Museum in the former Gogora church",
+   "desc": "The museum occupies a Greek Orthodox church of the 1850s-60s and has been a museum since 1988, with archaeological and ethnographic finds from the region.",
+   "tip": "Check opening hours at the entrance as they change seasonally; it is a short walk from the castle slope.",
+   "q": "Giresun Müzesi, Zeytinlik, Giresun Merkez, Giresun",
+   "ll": [
+    40.91763,
+    38.38415
+   ],
+   "src": [
+    "https://turkishmuseums.com/museum/detail/2053-giresun-muzesi/2053/4",
+    "https://kureansiklopedi.com/tr/detay/giresun-muzesi-e7b5f"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "seyhkeramettin",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the 17th-century Şeyh Keramettin Mosque",
+   "desc": "A stone mosque on Gazi Street in central Giresun built in the early 17th century, with a wooden ceiling and a two-storey wooden gallery. A 1642 tax register already mentions it and the tomb beside it.",
+   "tip": "Step in outside prayer times and look up at the wooden ceiling and gallery. Dress modestly.",
+   "q": "Şeyh Keramettin Camii, Gazi Caddesi, Giresun Merkez, Giresun",
+   "ll": [
+    40.91694,
+    38.38639
+   ],
+   "src": [
+    "https://tr.wikipedia.org/wiki/%C5%9Eeyh_Keramettin_Camii"
+   ]
+  },
+  {
+   "id": "tirebolukalesi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore Tirebolu Castle on its seaside peninsula",
+   "desc": "A castle on a headland above Tirebolu's harbour with a small chapel, a mosque remnant and Ottoman tombstones. Tirebolu grew from the ancient Tripolis, a Milesian trading colony.",
+   "tip": "Pair it with a fish or pide lunch in the town; the hill gives views of the Harşit estuary.",
+   "q": "Tirebolu Kalesi, Tirebolu, Giresun",
+   "ll": [
+    41.00755,
+    38.82119
+   ],
+   "src": [
+    "https://goturkiye.com/giresun/see",
+    "https://en.wikipedia.org/wiki/Tirebolu"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "eynesilkalesi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Eynesil Castle on its rocky peninsula",
+   "desc": "A small coastal castle on a rock outcrop with a water cistern and a reported former church. It sits right on the sea road between Giresun and Trabzon.",
+   "tip": "A short stop from the coast highway; take care on the rocks near the sea.",
+   "q": "Eynesil Kalesi, Eynesil, Giresun",
+   "ll": [
+    41.07888,
+    39.1633
+   ],
+   "src": [
+    "https://goturkiye.com/giresun/see"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "andozkalesi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb to Andoz Castle above Espiye",
+   "desc": "A small hilltop castle with walls and towers overlooking the sea and the Espiye valley.",
+   "tip": "Allow a short uphill walk; combine with Espiye's pide houses.",
+   "q": "Andoz Kalesi, Espiye, Giresun",
+   "ll": [
+    40.93943,
+    38.69233
+   ],
+   "src": [
+    "https://goturkiye.com/giresun/see"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sebinkarahisarkalesi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Scale the cliff-top fortress of Şebinkarahisar",
+   "desc": "A castle perched on a steep cliff above the town, with cisterns, rock-cut tombs and walls following the rock edge. The name Karahisar means black fortress.",
+   "tip": "Allow an hour; the steps are steep and exposed.",
+   "q": "Şebinkarahisar Kalesi, Şebinkarahisar, Giresun",
+   "ll": [
+    40.28476,
+    38.42911
+   ],
+   "src": [
+    "https://goturkiye.com/giresun/see"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "karacamagarasi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Descend into Karaca Cave's dripstone halls",
+   "desc": "A show cave in Cebeli village, Torul, found in 1983 and opened to visitors in 1996. About 105 m long, it has stalactites, stalagmites, columns and travertine pools in white to deep blue.",
+   "tip": "Open roughly mid-April to mid-November; it is cool inside, so bring a layer.",
+   "q": "Karaca Mağarası, Cebeli Köyü, Torul, Gümüşhane",
+   "ll": [
+    40.54417,
+    39.40278
+   ],
+   "src": [
+    "https://tr.wikipedia.org/wiki/Karaca_Ma%C4%9Faras%C4%B1",
+    "https://yolcu360.com/blog/gumushane-gezilecek-yerler/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "torulcamterasi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Step out on the Torul glass terrace",
+   "desc": "A 90 sq m glass platform about 240 m above the valley beside Torul Castle, built 2016-2018. The fortress is attributed to Genoese-era builders and was taken by the Ottomans in 1479.",
+   "tip": "Not for those afraid of heights; weekends in summer bring queues.",
+   "q": "Torul Kalesi, Torul, Gümüşhane",
+   "ll": [
+    40.55587,
+    39.29794
+   ],
+   "src": [
+    "https://tr.wikipedia.org/wiki/Torul_Kalesi"
+   ]
+  },
+  {
+   "id": "santaharabeleri",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander the abandoned Greek village of Santa",
+   "desc": "A 17th-century Greek settlement in Dumanlı village near Gümüşhane, with stone houses and churches left empty after the 1923 population exchange.",
+   "tip": "Free open-air site; the track is rough in places, so wear sturdy shoes.",
+   "q": "Santa Köyü, Dumanlı, Gümüşhane Merkez, Gümüşhane",
+   "ll": [
+    40.67306,
+    39.79889
+   ],
+   "src": [
+    "https://tr.wikipedia.org/wiki/Santa_Harabeleri"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ikizevlerkentmuzesi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour Gümüşhane's İkizevler city museum",
+   "desc": "A museum in two joined historic mansions of the Süleymaniye quarter, showing ethnographic displays of old Gümüşhane life.",
+   "tip": "Check hours; fits well with a walk through the surrounding old quarter.",
+   "q": "İkizevler Kent Müzesi, Süleymaniye, Gümüşhane Merkez, Gümüşhane",
+   "ll": [
+    40.4575,
+    39.4455
+   ],
+   "src": [
+    "https://artessere.com/gumushane-ikizevler-city-museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "limnigolu",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Picnic at Limni Gölü among pine and fir",
+   "desc": "A lake in a nature park in Torul close to Zigana, ringed by pine and fir forest.",
+   "tip": "An entrance fee applies; visit in summer, as snow can block the road for months.",
+   "q": "Limni Gölü, Zigana, Torul, Gümüşhane",
+   "ll": [
+    40.61002,
+    39.40543
+   ],
+   "src": [
+    "https://tr.wikipedia.org/wiki/Limni_G%C3%B6l%C3%BC"
+   ]
+  },
+  {
+   "id": "seragolu",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Spend an afternoon at Sera Lake",
+   "desc": "A small freshwater lake of about 14 hectares near Akçaabat with carp and barbel, plus crayfish introduced later. Fishing is allowed and there is a camping and picnic area.",
+   "tip": "Reach it by the Akçaabat road and a short gravel stretch; bring food, as facilities are basic.",
+   "q": "Sera Gölü, Akçaabat, Trabzon",
+   "ll": [
+    40.98528,
+    39.61472
+   ],
+   "src": [
+    "https://tr.wikipedia.org/wiki/Sera_G%C3%B6l%C3%BC",
+    "https://www.ktb.gov.tr/EN-99398/trabzon-highlands.html"
+   ]
+  },
+  {
+   "id": "altinderehike",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Altındere valley trails",
+   "desc": "Altındere Valley National Park, declared in 1987, protects forested gorges and streams around Sümela Monastery, with walking paths and a forest road along the stream.",
+   "tip": "Start from the park entrance below Sümela; trails are wet after rain.",
+   "q": "Altındere Vadisi Milli Parkı, Maçka, Trabzon",
+   "ll": [
+    40.70089,
+    39.6604
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Alt%C4%B1ndere_Valley_National_Park"
+   ]
+  },
+  {
+   "id": "ziganaski",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ski the slopes of Zigana winter sports centre",
+   "desc": "A winter sports centre at about 2,050 m on the Torul boundary, declared in 1991 and the only ski resort of the eastern Black Sea. It has a short chairlift and two runs of roughly 600-800 m.",
+   "tip": "Season depends on snow, usually from December; check conditions before driving up.",
+   "q": "Zigana Kayak Merkezi, Zigana, Torul, Gümüşhane",
+   "ll": [
+    40.6421,
+    39.40351
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Zigana_Pass"
+   ],
+   "months": [
+    12,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "uzungolparagliding",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Fly a tandem paraglide over Uzungöl",
+   "desc": "Tandem flights launch from the slopes of Lustra plateau at around 2,000 m, with views of the lake, the plateaus and the Haldizen valley.",
+   "tip": "Book with a licensed operator in Uzungöl; flights depend on wind and weather.",
+   "q": "Lustra Yaylası, Uzungöl, Çaykara, Trabzon",
+   "ll": [
+    40.619,
+    40.335
+   ],
+   "src": [
+    "https://tr.wikipedia.org/wiki/Uzung%C3%B6l"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "hidirnebiyaylasi",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Join the Hıdırnebi plateau festival",
+   "desc": "Hıdırnebi plateau at about 1,742 m above Akçaabat hosts a summer festival around 20-22 July, with a mineral spring nearby.",
+   "tip": "Dates shift by year; the access road leaves the Akçaabat-Düzköy road.",
+   "q": "Hıdırnebi Yaylası, Akçaabat, Trabzon",
+   "ll": [
+    40.95629,
+    39.43445
+   ],
+   "src": [
+    "https://www.ktb.gov.tr/EN-99398/trabzon-highlands.html",
+    "https://www.haberturk.com/trabzon-haberleri/70038412-zirvedeki-doga-harikasi-hidirnebi-yaylasi"
+   ],
+   "months": [
+    7
+   ]
+  },
+  {
+   "id": "kadirgayaylasi",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Go to the Kadırga Festival on the treeless summit",
+   "desc": "Kadırga plateau near Tonya, at the meeting point of several districts, hosts the region's best-known yayla festival each July, drawing very large crowds.",
+   "tip": "Dates vary by year; arrive early as roads fill up.",
+   "q": "Kadırga Yaylası, Tonya, Trabzon",
+   "ll": [
+    40.72207,
+    39.33357
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Kadirga_Festival",
+    "https://www.ktb.gov.tr/EN-99398/trabzon-highlands.html"
+   ],
+   "months": [
+    7
+   ]
+  },
+  {
+   "id": "kumbetyaylasi",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Spend a day on Kümbet Plateau",
+   "desc": "A highland above Dereli at roughly 1,700-1,900 m, known for flowers, forest, guesthouses and a Friday bazaar, with a major July festival.",
+   "tip": "Dolmuş serve it in summer; the festival is around the second weekend of July.",
+   "q": "Kümbet Yaylası, Dereli, Giresun",
+   "ll": [
+    40.54637,
+    38.4384
+   ],
+   "src": [
+    "https://tr.wikipedia.org/wiki/K%C3%BCmbet_Yaylas%C4%B1"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "giresunisland",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Take a boat to Giresun Island",
+   "desc": "Giresun Island, ancient Aretias, lies about 1.6 km offshore with ruins of walls and a monastery. Greeks reportedly held out here against the Ottomans until 1468.",
+   "tip": "Boats leave from Giresun harbour in season.",
+   "q": "Giresun Limanı, Giresun Merkez, Giresun",
+   "ll": [
+    40.9196,
+    38.393
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Giresun_Island"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "surmenekama",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch a Sürmene kama knife being made",
+   "desc": "Sürmene knives and kamas have been forged in the town since at least Byzantine times; kama maker Cengizhan Alpaslan, third generation, works in the Soğuksu quarter and says a kama passes through some 72 steps.",
+   "tip": "Call ahead, as only a handful of masters remain; beware imitations sold online.",
+   "q": "Soğuksu, Sürmene, Trabzon",
+   "ll": [
+    40.90708,
+    40.13417
+   ],
+   "src": [
+    "https://www.gazetevatan.com/galeri/surmenede-talep-var-ama-yapacak-usta-yok-son-usta-kazancini-acikladi-3-tane-yapinca-6-bin-tl-kazaniyorum-2340377"
+   ]
+  },
+  {
+   "id": "orumcekormanlari",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Örümcek Forest of centuries-old firs",
+   "desc": "A forest in Yeşilköy village, Kürtün, with fir and spruce trees over 400 years old, best from May to October.",
+   "tip": "Distances are long from the coast; go in summer.",
+   "q": "Örümcek Ormanı, Yeşilköy, Kürtün, Gümüşhane",
+   "ll": [
+    40.73,
+    39.14
+   ],
+   "src": [
+    "https://tr.wikipedia.org/wiki/K%C3%BCrt%C3%BCn"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "tuncsutlac",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat baked Hamsiköy sütlaç in its home village",
+   "desc": "Hamsiköy sütlacı, baked rice pudding from the Maçka highland, received a geographical indication in 2017. Tunç Sütlaç in the village centre is praised for its sugar-rice balance.",
+   "tip": "The balcony is small; visit off-peak.",
+   "q": "Tunç Sütlaç, Hamsiköy, Maçka, Trabzon",
+   "ll": [
+    40.61,
+    39.53
+   ],
+   "src": [
+    "https://yemek.com/trabzonda-hamsikoy-sutlaci-nerede-yenir/"
+   ]
+  },
+  {
+   "id": "taslikrestaurant",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try sac kavurma at Hamsiköy Taşlık",
+   "desc": "A family restaurant in Çıralı, Hamsiköy, serving sac kavurma, kuru fasulye and pilaf.",
+   "tip": "Order the sac kavurma, then sütlaç only if you have room.",
+   "q": "Hamsiköy Taşlık Restaurant, Çıralı, Hamsiköy, Maçka, Trabzon",
+   "ll": [
+    40.605,
+    39.52
+   ],
+   "src": [
+    "https://yemek.com/trabzonda-hamsikoy-sutlaci-nerede-yenir/"
+   ]
+  },
+  {
+   "id": "garibinyeri",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat hazelnut sütlaç at Garibin Yeri in Maçka",
+   "desc": "A dessert place opposite the Sümela Otel on Atatürk Caddesi serving Hamsiköy sütlaç with hazelnuts, open late.",
+   "tip": "Handy for those not driving up to Hamsiköy.",
+   "q": "Hamsiköy Sütlacı Maçka Garibin Yeri, Atatürk Caddesi, Merkez, Maçka, Trabzon",
+   "ll": [
+    40.81283,
+    39.61167
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/7558949"
+   ]
+  },
+  {
+   "id": "salimkafe",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat kuymak and a Black Sea breakfast at Salim Kafe",
+   "desc": "A lakeside café on Manzara Caddesi in Uzungöl with hanging egg chairs and swings. Reviewers praise its serpme breakfast and kuymak.",
+   "tip": "Come in the morning for the breakfast spread. It is busy at weekends, so arrive early.",
+   "q": "Salim Kafe, Manzara Caddesi No:42, Uzungöl, Çaykara, Trabzon",
+   "ll": [
+    40.62013,
+    40.27734
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/7371571"
+   ]
+  },
+  {
+   "id": "turhanlarpide",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order Giresun yağlısı pide at Turhanlar",
+   "desc": "A pide house on Bekirpaşa Caddesi known for the classic Giresun yağlısı, a butter-rich pide, plus kıymalı and kuşbaşılı versions.",
+   "tip": "Go at lunch for fresh pide from the oven.",
+   "q": "Turhanlar Pide, Bekirpaşa Caddesi No:12, Kapu, Giresun Merkez, Giresun",
+   "ll": [
+    40.91753,
+    38.38741
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/3218231"
+   ]
+  },
+  {
+   "id": "goresahilpide",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat buttery Görele pide at Sahil Pide",
+   "desc": "A wood-fired pide house on Görele's seafront known for its closed kıymalı pide topped with an egg and plenty of butter.",
+   "tip": "Start with the kıymalı kapalı.",
+   "q": "Sahil Pide Salonu, Dr. Erdem Dülger Bulvarı, Hendekbaşı, Görele, Giresun",
+   "ll": [
+    41.03228,
+    39.00487
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/2820217"
+   ]
+  },
+  {
+   "id": "telkadayifci",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat tel kadayıf at Meşhur Tel Kadayıfçı",
+   "desc": "A Giresun sweet shop on Fatih Caddesi making tel kadayıf, a dessert of the hazelnut country.",
+   "tip": "Pair with Turkish tea in the afternoon.",
+   "q": "Meşhur Tel Kadayıfçı, Fatih Caddesi No:21/B, Giresun Merkez, Giresun",
+   "ll": [
+    40.9145,
+    38.3875
+   ],
+   "src": [
+    "https://uk.trip.com/travel-guide/foods/Giresun-50105-restaurant/Meshur%20Tel%20Kadayifci-19827356"
+   ]
+  },
+  {
+   "id": "atackonagi",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try Ardasa siron kebab at Ataç Konağı",
+   "desc": "Ardasa siron kebabı, a Gümüşhane dish combining meat with siron, a traditional bakery product, is served at Ataç Konağı.",
+   "tip": "Book ahead on weekends.",
+   "q": "Ataç Konağı, Gümüşhane Merkez, Gümüşhane",
+   "ll": [
+    40.46182,
+    39.47243
+   ],
+   "src": [
+    "https://www.ntv.com.tr/galeri/seyahat/gumushanenin-yeni-lezzeti-ardasa-siron-kebabi,AxwFt3n8L0mdQDBsVMJ_Vg",
+    "https://de.restaurantguru.com/Gumushane"
+   ]
+  }
+ ]
+}

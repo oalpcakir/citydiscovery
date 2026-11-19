@@ -1952,28 +1952,48 @@
     });
     return out;
   }
-  function regionRows() {
-    var html = "", last = null, cs = countryStats(), soon = soonCounts();
-    var soonRow = function (n) {
-      return soon[n] ? '<div class="rsoon">' + ic("calendar", "sm") + soon[n] + (cs[n] ? " more " : " ") + (soon[n] === 1 ? "region" : "regions") + ' coming soon</div>' : "";
-    };
-    Object.keys(cities).forEach(function (id) {
-      var c = cities[id], s = cityStats(id);
-      if (c.country !== last) {
-        if (last) html += soonRow(last);
-        html += '<div class="rgroup">' + flagHtml(c.country) + esc(c.country) + ' <small>' + cs[c.country].started + ' / ' + cs[c.country].regions + (cs[c.country].regions === 1 ? ' region' : ' regions') + ' started</small></div>';
-        last = c.country;
-      }
-      html += '<button class="rrow' + (id === cityId ? " cur" : "") + '" data-city="' + id + '">' +
-        '<i class="dot big" style="background:' + c.color + '"></i>' +
-        '<div class="grow"><div class="rn">' + esc(c.name) + ' <small>' + esc(c.subtitle || "") + '</small></div>' + bar(s.pct) + '</div>' +
-        '<span class="rp">' + s.done + ' / ' + s.total + '</span></button>';
+  // Every region, one collapsible section per country (never repeated, whatever order the region files load in).
+  // Your current country comes first, then countries you have explored most. With o.search the picker gets a filter box.
+  function regionRows(o) {
+    o = o || {};
+    var cs = countryStats(), info = window.REGION_INFO || {}, names = window.COUNTRIES || {}, byC = {}, soonByC = {};
+    Object.keys(cities).forEach(function (id) { (byC[cities[id].country] = byC[cities[id].country] || []).push(id); });
+    Object.keys(info).forEach(function (id) {
+      if (cities[id] || !names[info[id].cc]) return;
+      var n = names[info[id].cc].name;
+      (soonByC[n] = soonByC[n] || []).push(info[id].name);
     });
-    if (last) html += soonRow(last);
-    Object.keys(soon).forEach(function (n) {
-      if (!cs[n]) html += '<div class="rgroup">' + flagHtml(n) + esc(n) + '</div>' + soonRow(n);
+    var countries = Object.keys(byC).concat(Object.keys(soonByC).filter(function (n) { return !byC[n]; }));
+    var done = function (n) { return cs[n] ? cs[n].done : 0; };
+    countries.sort(function (a, b) {
+      return (b === city.country) - (a === city.country) || done(b) - done(a) || a.localeCompare(b);
     });
-    return html;
+    var regTotal = Object.keys(cities).length, soonTotal = 0;
+    Object.keys(soonByC).forEach(function (n) { soonTotal += soonByC[n].length; });
+    var html = o.search ? '<label class="search rsearch">' + ic("search") + '<input id="rsearch" type="search" placeholder="Find a region or country" autocomplete="off"></label>' +
+      '<p class="note flat center">' + regTotal + ' regions in ' + Object.keys(byC).length + ' countries · ' + soonTotal + ' more coming soon</p>' : "";
+    countries.forEach(function (n) {
+      var ids = (byC[n] || []).slice().sort(function (a, b) { return cities[a].name.localeCompare(cities[b].name); });
+      var s = cs[n] || { regions: 0, started: 0, done: 0, total: 0 }, pct = s.total ? Math.round((s.done / s.total) * 100) : 0;
+      var soon = (soonByC[n] || []).sort(function (a, b) { return a.localeCompare(b); });
+      var open = n === city.country || s.started > 0;
+      html += '<details class="cgroup" data-search="' + esc(fold(n)) + '"' + (open ? " open" : "") + '><summary>' +
+        '<span class="cg-flag">' + flagHtml(n) + '</span><span class="grow"><b>' + esc(n) + '</b><small>' +
+        (ids.length ? s.started + ' / ' + ids.length + (ids.length === 1 ? ' region' : ' regions') + ' started' : 'Coming soon') +
+        (soon.length && ids.length ? ' · ' + soon.length + ' coming soon' : "") + '</small></span>' +
+        (ids.length ? '<span class="cg-pct">' + pct + '%</span>' : "") + ic("chevron-down", "sm") + '</summary>' +
+        '<div class="cg-body">' + ids.map(function (id) {
+          var c = cities[id], st = cityStats(id);
+          return '<button class="rrow' + (id === cityId ? " cur" : "") + (st.done ? " started" : "") + '" data-city="' + id + '" data-search="' + esc(fold(c.name + " " + (c.subtitle || "") + " " + n)) + '">' +
+            '<i class="dot big" style="background:' + c.color + '"></i>' +
+            '<div class="grow"><div class="rn">' + esc(c.name) + ' <small>' + esc(c.subtitle || "") + '</small></div>' + bar(st.pct) + '</div>' +
+            '<span class="rp">' + (id === cityId ? '<em>Here</em>' : "") + st.done + ' / ' + st.total + '</span></button>';
+        }).join("") +
+        (soon.length ? '<div class="rsoon" data-search="' + esc(fold(soon.join(" ") + " " + n)) + '">' + ic("calendar", "sm") +
+          '<div><b>' + (ids.length ? soon.length + " more coming soon" : soon.length + (soon.length === 1 ? " region" : " regions") + " coming soon") + '</b>' +
+          '<span>' + soon.map(esc).join(" · ") + '</span></div></div>' : "") + '</div></details>';
+    });
+    return html + (o.search ? '<div class="empty rnone" hidden>No region matches that name yet.</div>' : "");
   }
   // ── Your travels: totals, furthest points and records, all from the completion log ──
   function dms(v, pos, neg) {
@@ -2448,9 +2468,25 @@
       '<div class="list flush">' + t.quests.map(function (q, i) { return questRow(q, { n: i + 1 }); }).join("") + '</div>' +
       '<div class="actions"><button class="btn" data-act="trail-map" data-id="' + esc(id) + '">' + ic("route") + 'Follow it on the map</button></div>', true);
   }
+  // The picker's filter box: shows matching regions (and coming-soon lines), opens the countries that have a match.
+  function filterRegions(v) {
+    var q = fold(v.trim()), any = false;
+    [].forEach.call($sheet.querySelectorAll(".cgroup"), function (g) {
+      var countryHit = q && g.dataset.search.indexOf(q) !== -1, hits = 0;
+      [].forEach.call(g.querySelectorAll("[data-search]"), function (r) {
+        var on = !q || countryHit || r.dataset.search.indexOf(q) !== -1;
+        r.hidden = !on; if (on) hits++;
+      });
+      g.hidden = q && !hits;
+      if (q && hits) g.open = true;
+      if (hits) any = true;
+    });
+    var none = $sheet.querySelector(".rnone");
+    if (none) none.hidden = any;
+  }
   function openRegions() {
     closeSheetSilently();
-    showSheet("regions", X + '<div class="cel-h">Choose a region</div>' + regionRows(), true);
+    showSheet("regions", X + '<div class="cel-h">Choose a region</div>' + regionRows({ search: true }), true);
   }
   function openPhoto(id, key) {
     var q = byKey[key];
@@ -2993,6 +3029,7 @@
     }
   });
   document.addEventListener("input", function (e) {
+    if (e.target.id === "rsearch") { filterRegions(e.target.value); return; }
     if (e.target.id === "psearch") {
       ui.sq = e.target.value;
       findPlaces(ui.sq);

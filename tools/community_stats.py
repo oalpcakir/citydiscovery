@@ -50,7 +50,7 @@ def tally(saves, countries, moved, now_ms):
             continue
         done = {}
         for key, rec in (s.get("done") or {}).items():
-            if not isinstance(rec, dict) or not rec.get("at") or "/dish:" in key:  # must-eat dishes are not quests
+            if not isinstance(rec, dict) or not rec.get("at") or "/dish:" in key or "/card:" in key:  # must-eat dishes and treasure cards are not quests
                 continue
             key = moved.get(key, key)
             if key.split("/")[0] in countries:

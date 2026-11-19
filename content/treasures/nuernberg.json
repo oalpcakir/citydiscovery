@@ -1,0 +1,46 @@
+{
+ "picks": [
+  "nukaiserburg",
+  "nuplonlein",
+  "nuduererhaus",
+  "nurathausturm",
+  "nudinkelsbuehlmuenster"
+ ],
+ "cards": {
+  "nukaiserburg": {
+   "name": "Kaiserburg",
+   "art": "castle",
+   "slogan": "Where every emperor came to stay, high above the red roofs.",
+   "line": "The Sinwell Tower takes its name from Middle High German 'sinwell', meaning perfectly round; only it and the Imperial Chapel came through 1945 intact.",
+   "source": "https://en.wikipedia.org/wiki/Nuremberg_Castle"
+  },
+  "nuplonlein": {
+   "name": "Plönlein",
+   "art": "canalhouses",
+   "slogan": "Two roads, two towers, one very photographed fork.",
+   "line": "On 31 March 1945 bombs destroyed about 275 of Rothenburg's houses; roughly 265 were rebuilt, which is why the old town still looks whole.",
+   "source": "https://en.wikipedia.org/wiki/Rothenburg_ob_der_Tauber"
+  },
+  "nuduererhaus": {
+   "name": "Albrecht Dürer's House",
+   "art": "museum",
+   "slogan": "The painter's own address, steps from the castle hill.",
+   "line": "Albrecht Dürer lived and worked in this house from 1509 until his death in 1528.",
+   "source": "https://en.wikipedia.org/wiki/Albrecht_D%C3%BCrer%27s_House"
+  },
+  "nurathausturm": {
+   "name": "Rothenburg Town Hall Tower",
+   "art": "tower",
+   "slogan": "Climb the narrow stairs for the best view of the Tauber roofs.",
+   "line": "The Gothic back of the town hall dates from 1250; the Renaissance front was begun in 1572.",
+   "source": "https://en.wikipedia.org/wiki/Rothenburg_ob_der_Tauber"
+  },
+  "nudinkelsbuehlmuenster": {
+   "name": "St. George's Minster, Dinkelsbühl",
+   "art": "church",
+   "slogan": "A late Gothic hall of light inside an unbroken ring of walls.",
+   "line": "Dinkelsbühl is one of only four German towns, with Rothenburg, Nördlingen and Berching, whose city walls are completely intact.",
+   "source": "https://en.wikipedia.org/wiki/Dinkelsb%C3%BChl"
+  }
+ }
+}

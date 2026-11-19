@@ -1,0 +1,8 @@
+{"picks": ["hdcastle","hdbridge","speyerdom","schloss","wasserturm"],
+ "cards": {
+ "hdcastle": {"name":"Heidelberg Castle","art":"castle","slogan":"Red sandstone ruin watching over the Neckar and the old town.","line":"A ruin must be rightly situated, to be effective. This one could not have been better placed.","by":"Mark Twain, A Tramp Abroad, 1880","source":"https://americanliterature.com/author/mark-twain/book/a-tramp-abroad/appendix-b-heidelberg-castle"},
+ "hdbridge": {"name":"Old Bridge","art":"bridge","slogan":"Twin towers, sandstone arches and a monkey with a mirror.","line":"Completed in 1788 by Elector Charles Theodore, this 200-metre sandstone bridge is the ninth built on the same spot.","source":"https://en.wikipedia.org/wiki/Old_Bridge_(Heidelberg)"},
+ "speyerdom": {"name":"Speyer Cathedral","art":"church","slogan":"A thousand years of emperors sleeping under one Romanesque roof.","line":"Begun in 1030, it holds the largest Romanesque columned crypt in Europe and the graves of eight German kings and emperors.","source":"https://en.wikipedia.org/wiki/Speyer_Cathedral"},
+ "schloss": {"name":"Mannheim Palace","art":"palace","slogan":"A 450-metre Baroque facade that now hosts lectures.","line":"Begun in 1720 with a budget of 300,000 Gulden, it ended up costing about 2 million; today it is home to the University of Mannheim.","source":"https://en.wikipedia.org/wiki/Mannheim_Palace"},
+ "wasserturm": {"name":"Wasserturm","art":"tower","slogan":"Mannheim's 60-metre water tower, crowned by a copper Amphitrite.","line":"Gustav Halmhuber won the 1885 design competition for it at age 23, beating 74 other architects.","source":"https://de.wikipedia.org/wiki/Wasserturm_(Mannheim)"}
+ }}

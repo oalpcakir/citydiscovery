@@ -1,0 +1,1165 @@
+{
+ "new": [
+  {
+   "id": "pilatuskulm",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stand on Pilatus Kulm above Lake Lucerne",
+   "desc": "Pilatus Kulm is the summit plateau between the Esel and Oberhaupt peaks at about 2,100 m, reached by cableway or cogwheel train. The Oberhaupt viewpoint is a short walk from the mountain station.",
+   "tip": "Go on a clear morning for the alpine panorama. The Alpnachstad railway runs only May to November; the Kriens cableway serves the winter months.",
+   "q": "Pilatus Kulm, Hergiswil, Nidwalden",
+   "ll": [
+    46.98511,
+    8.25356
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Mount_Pilatus",
+    "https://pilatus.ch/en/discover/cogwheel-railway"
+   ]
+  },
+  {
+   "id": "pilatusbahn",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Pilatus cogwheel railway from Alpnachstad",
+   "desc": "The Pilatus Railway opened in 1889 and has a maximum gradient of 48%, making it the steepest cogwheel railway in the world. Engineer Eduard Locher laid the rack on its side so the cogwheels cannot climb out. New railcars entered service in June 2023.",
+   "tip": "Runs May to November only. Combine it with a lake steamer to Alpnachstad and return by the cableway via Kriens.",
+   "q": "Pilatusbahn Talstation, Alpnachstad",
+   "ll": [
+    46.9506,
+    8.2733
+   ],
+   "src": [
+    "https://pilatus.ch/en/discover/cogwheel-railway",
+    "https://www.asme.org/about-asme/who-we-are/engineering-history/landmarks/220-pilatusbahn"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "id": "sempachkapelle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Sempach Battle Chapel",
+   "desc": "The Schlachtkapelle St. Jakob marks the Confederates' victory over the Habsburg army on 9 July 1386, where Duke Leopold III is said to have fallen. Inside is a large mural of the battle and behind it a bone house.",
+   "tip": "The annual Schlachtjahrzeit is held on the last Saturday of June. Walk or cycle from Sempach town along the road to Hildisrieden.",
+   "q": "Schlachtkapelle Sempach, Sempach, Luzern",
+   "ll": [
+    47.14605,
+    8.21223
+   ],
+   "src": [
+    "https://hls-dhs-dss.ch/de/articles/008871/",
+    "https://www.luzern.com/en/highlights/hopping/small-town/sempach"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sursee",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander Sursee's old town to the late-Gothic Rathaus",
+   "desc": "Sursee's town hall was built 1539 to 1545 and has a stepped gable, a stair tower and a sundial on its facade. The old town also has the 17th-century Untertor and St. Georg church, and more than half of the municipality's 30 fountains.",
+   "tip": "Guided town tours start at the Rathaus; a fountain trail is also signposted. The Sure river flows openly through town.",
+   "q": "Rathaus Sursee, Marktgasse, Sursee",
+   "ll": [
+    47.17146,
+    8.10674
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Sursee",
+    "https://www.luzern.com/de/highlights/hopping/kleinstadt/sursee"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "marbachegg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Marbachegg gondola into the Entlebuch Biosphere",
+   "desc": "The gondola climbs from Marbach to Marbachegg at roughly 1,500 m inside the UNESCO Biosphere Entlebuch. On top are a mountain inn, walking and snowshoe trails and the 3.9 km Clientis Flowtrail for bikers.",
+   "tip": "Check marbachegg.ch for seasonal operation. Paragliders take off near the summit station.",
+   "q": "Marbachegg Gondelbahn Talstation, Marbach LU",
+   "ll": [
+    46.85,
+    7.89551
+   ],
+   "src": [
+    "https://www.luzern.com/de/tour/marbach-sidenmoos-marbachegg",
+    "https://www.biosphaere.ch/en/detail/poitype/outdooractivetour/poi/clientis-flowtrail-marbachegg/"
+   ]
+  },
+  {
+   "id": "beromuenster",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the Beromünster collegiate church and Stiftsbezirk",
+   "desc": "The Chorherrenstift St. Michael has a history of more than a thousand years; the church is dated to 1036 and was baroquised in the 18th century. Helias Helye printed the first dated book in Switzerland here in 1470.",
+   "tip": "The church is dedicated to St Michael, feast day 29 September. The Stifttheater is part of the precinct.",
+   "q": "Stift St. Michael, Stiftsbezirk, Beromünster",
+   "ll": [
+    47.20592,
+    8.19007
+   ],
+   "src": [
+    "https://hls-dhs-dss.ch/de/articles/012007",
+    "https://www.luzern.com/en/poi/collegiate-church-of-st-michael-beromuenster"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "heidegg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour Schloss Heidegg and its rose garden",
+   "desc": "Schloss Heidegg in Gelfingen in the Seetal is a historic castle with a museum and a rose garden. It is open April to end of October, Tue to Fri afternoons and Sat/Sun from 10:00.",
+   "tip": "Confirm hours on heidegg.ch; the rose garden has longer daily opening hours. The castle can be combined with a lake walk on the Baldeggersee.",
+   "q": "Schloss Heidegg, Gelfingen, Hitzkirch",
+   "ll": [
+    47.21667,
+    8.27311
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/heidegg-castle/",
+    "https://www.luzern.com/de/poi/schloss-heidegg"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "amreinwillisau",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste original Willisauer Ringli at Café Amrein",
+   "desc": "Café Amrein says Heinrich Maurer invented the Willisauer Ringli in 1848 in this house and that the family acquired the recipe in 1920. The crisp ring-shaped biscuits are still baked in the founding house.",
+   "tip": "Buy a bag of Ringli with a coffee and chocolate. HUG also has a Ringli shop in Willisau with a production window.",
+   "q": "Café Amrein Chocolatier, Willisau",
+   "ll": [
+    47.12074,
+    7.99071
+   ],
+   "src": [
+    "https://www.luzern.com/de/gastro/cafe-amrein-chocolatier-willisau",
+    "https://www.luzern.com/de/package/willisauer-ringli-betriebsbesichtigung"
+   ]
+  },
+  {
+   "id": "vogelwarte",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Vogelwarte visitor centre on Lake Sempach",
+   "desc": "The Swiss Ornithological Institute's Besuchszentrum at Luzernerstrasse 6 in Sempach is a clay building on the lakeshore with exhibitions on birds and bird migration. A ranger on site talks about migration.",
+   "tip": "Nearest stop is Sempach Stadt, Vogelwarte. Check vogelwarte.ch for hours and ticket prices.",
+   "q": "Besuchszentrum Schweizerische Vogelwarte, Luzernerstrasse 6, Sempach",
+   "ll": [
+    47.12778,
+    8.19243
+   ],
+   "src": [
+    "https://www.luzern.com/de/poi/besuchszentrum-schweizerische-vogelwarte",
+    "https://www.srf.ch/news/zentralschweiz-nur-mit-ausgestopften-voegeln-konnten-wir-nicht-mehr-begeistern"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "sturban",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the former Cistercian abbey of St. Urban",
+   "desc": "The Cistercian abbey of St. Urban at Pfaffnau was dissolved by the liberal cantonal government in April 1848. Its baroque choir stalls were sold off; the Gottfried Keller Foundation has aimed to return the choir to its original place.",
+   "tip": "Visit the former abbey church and grounds; check access times locally as the site is used by other institutions.",
+   "q": "Kloster St. Urban, Pfaffnau",
+   "ll": [
+    47.23069,
+    7.83959
+   ],
+   "src": [
+    "https://hls-dhs-dss.ch/de/articles/012146/2011-01-21/",
+    "https://en.wikipedia.org/wiki/Abbey_of_St._Urban"
+   ]
+  },
+  {
+   "id": "rothornsoerenberg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike above Sörenberg from the Rothornbahn",
+   "desc": "The Sörenberg Rothornbahn lifts walkers to the Brienzer Rothorn area in the Entlebuch Biosphere. A 3.9 km culinary loop passes Berghaus Eisee and Berghaus Rothorn Kulm, and a harder Steinbock trek is also signposted.",
+   "tip": "Take the train to Schüpfheim, then the post bus to Sörenberg Rothornbahn. The Steinbock route is for those without vertigo.",
+   "q": "Rothornbahn Talstation, Sörenberg",
+   "ll": [
+    46.81712,
+    8.0405
+   ],
+   "src": [
+    "https://www.luzern.com/de/tour/kulinariktour-rothorn",
+    "https://www.luzern.com/de/tour/steinbock-trek-tageswanderung"
+   ]
+  },
+  {
+   "id": "sempacherhof",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Sempachersee fish fillets at Gasthaus Sempacherhof",
+   "desc": "The Sempacherhof at Sempach-Station serves classic menus including lake fish fillets from Lake Sempach, a house favourite. It has a garden terrace and is closed at weekends.",
+   "tip": "Check opening days before going; it is open Monday to Friday. Order the Sempachersee fillets.",
+   "q": "Gasthaus Sempacherhof, Sempach Station",
+   "ll": [
+    47.11638,
+    8.1962
+   ],
+   "src": [
+    "https://www.luzern.com/de/gastro/sempacherhof",
+    "https://www.myswitzerland.com/en-gb/experiences/food-wine/restaurant/gasthaus-sempacherhof/"
+   ]
+  },
+  {
+   "id": "stanserhorn",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Stanserhorn funicular and open-top CabriO",
+   "desc": "From Stans (450 m) a historic funicular climbs to Kälti, where the CabriO cableway continues to the summit station at about 1,850 m. The whole ascent takes around 25 minutes and the line runs April to November.",
+   "tip": "The valley station is five minutes on foot from Stans station. The CabriO has an open upper deck.",
+   "q": "Stanserhornbahn Talstation, Stansstaderstrasse 19, Stans",
+   "ll": [
+    46.95855,
+    8.36352
+   ],
+   "src": [
+    "https://www.luzern.com/de/poi/stanserhorn",
+    "https://en.wikipedia.com/wiki/Stanserhorn"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "id": "hammetschwand",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Ride the Hammetschwand Lift on the Bürgenstock",
+   "desc": "The Hammetschwand Lift opened in 1905 and rises about 153 m to a viewpoint at roughly 1,132 m, billed as Europe's highest outdoor elevator. The Felsenweg leads 2.2 km from it to the Bürgenstock Resort.",
+   "tip": "Seasonal and weather dependent. The viewing platform is free; only the ride is charged.",
+   "q": "Hammetschwand-Lift, Bürgenstock, Ennetbürgen",
+   "ll": [
+    47.00094,
+    8.39635
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Hammetschwand_Elevator",
+    "https://www.myswitzerland.com/en-ch/experiences/hammetschwand-lift-and-felsenweg-path/"
+   ]
+  },
+  {
+   "id": "titliscliffwalk",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Cross the Titlis Cliff Walk above Engelberg",
+   "desc": "Reached by the Titlis Xpress gondola and the rotating Rotair cabin, the Cliff Walk is a suspension bridge about one metre wide and over 100 m long at the Titlis summit area (about 3,020 m). It is included with a return ticket.",
+   "tip": "It closes in bad weather without refund. The summit is being redeveloped with a new summit station by 2029, so check services.",
+   "q": "Titlis Bergstation, Engelberg",
+   "ll": [
+    46.77637,
+    8.43346
+   ],
+   "src": [
+    "https://www.titlis.ch/en/destinations/titlis?id=2",
+    "https://swissactivities.com/en-ch/the-titlis-cliff-walk"
+   ]
+  },
+  {
+   "id": "klosterkaeserei",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Watch cheese made at the Engelberg monastery dairy",
+   "desc": "The Schaukäserei Engelberg is a show dairy inside the baroque abbey buildings, billed as the only one in a Swiss monastery. Cheesemaking can be watched from 10:00 to 15:00, and a café serves fondue and raclette in cold months.",
+   "tip": "Entry is free; Sunday tours at 10:30 cost CHF 10. Check hours at schaukaeserei-engelberg.ch.",
+   "q": "Schaukäserei Kloster Engelberg, Engelberg",
+   "ll": [
+    46.82021,
+    8.41033
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-id/experiences/engelberg-monastery-show-dairy/",
+    "https://www.freizeit.ch/freizeit/23065/kaserei-engelberg"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "klosterengelberg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Admire the baroque Engelberg Abbey church",
+   "desc": "The Benedictine abbey was founded in 1120; the present baroque complex dates from 1730 to 1737 after a fire in 1729. Its main organ, built by Friedrich Goll in 1876-77, is considered the largest in Switzerland.",
+   "tip": "Join a guided tour of the church and baroque hall. Free organ concerts run in summer (Engelberger Orgelsommer).",
+   "q": "Kloster Engelberg, Engelberg",
+   "ll": [
+    46.82021,
+    8.41033
+   ],
+   "src": [
+    "https://data.geo.admin.ch/ch.babs.kulturgueter/PDF/kgs_04247_gsk-d.pdf",
+    "https://www.luzern.com/de/event/engelberger-orgelsommer"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "landenberg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the Landenberg above Sarnen",
+   "desc": "The Landenberg hill carries the ruins of a castle and the historic Landsgemeindeplatz where the Obwalden assembly met from 1646 until it was abolished in 1998. The site was renovated in 1895.",
+   "tip": "A circular hike starts in Sarnen. The cantonal council's year still opens here with a church service.",
+   "q": "Landenberg, Sarnen",
+   "ll": [
+    46.89672,
+    8.24396
+   ],
+   "src": [
+    "https://hls-dhs-dss.ch/de/articles/000746",
+    "https://www.luzern.com/de/poi/burg-landenberg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "melchseefrutt",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the lakes of Melchsee-Frutt",
+   "desc": "The cable car from Stöckalp reaches Melchsee-Frutt at 1,933 m in about 15 to 20 minutes and runs year-round. Trails lead past Melchsee and Tannensee, and in summer a small Frutt train runs hourly.",
+   "tip": "Winter walkers can follow the cleared trail to Tannalp. Check frutt.ch for current times.",
+   "q": "Melchsee-Frutt Bergstation",
+   "ll": [
+    46.77591,
+    8.26917
+   ],
+   "src": [
+    "https://www.luzern.com/de/package/genusswanderung-melchsee-frutt",
+    "https://wegwandern.ch/wanderung/winterwanderung-melchsee-frutt-tannalp-winterwandern/"
+   ]
+  },
+  {
+   "id": "flueeliranft",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Follow Brother Klaus at Flüeli-Ranft",
+   "desc": "Flüeli-Ranft is the birthplace of Niklaus von Flüe; his birth house is one of the oldest wooden houses in Switzerland. The Weg der Visionen, about 3.4 km, runs from his birthplace to his grave in the Sachseln pilgrimage church.",
+   "tip": "The loop to the Ranft chapels takes about 2.5 hours. The Stans to Sachseln Bruder-Klausen-Weg is nearly six hours.",
+   "q": "Geburtshaus Bruder Klaus, Flüeli-Ranft, Sachseln",
+   "ll": [
+    46.87163,
+    8.26755
+   ],
+   "src": [
+    "https://www.luzern.com/de/tour/weg-der-visionen",
+    "https://unterwegs.sob.ch/en/service-providers/bruder-klaus-geburtshaus"
+   ]
+  },
+  {
+   "id": "glasi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Watch glassblowers at Glasi Hergiswil",
+   "desc": "Glasi Hergiswil is a working glassworks on Lake Lucerne with a viewing gallery above the furnace and the Vom Feuer geformt museum. Visitors can blow their own glass ball for a fee.",
+   "tip": "Open Mon to Fri 9:00 to 17:00 and Sat to 16:00; check glasi.ch. It is three minutes from Hergiswil station.",
+   "q": "Glasi Hergiswil, Seestrasse 12, Hergiswil",
+   "ll": [
+    46.98195,
+    8.31157
+   ],
+   "src": [
+    "https://www.glasi.ch/en/seeing/the-vom-feuer-geformt-formed-by-fire-museum/",
+    "https://www.luzern.com/de/poi/glasi-hergiswil"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "winkelried",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Winkelried monument in Stans",
+   "desc": "The marble Winkelried monument on the Stans Rathausplatz recalls the legendary sacrifice of Arnold von Winkelried at Sempach in 1386. The Dorfplatz around it was rebuilt after the fire of 1713.",
+   "tip": "Combine it with the Nidwalden Museum's Winkelriedhaus and the parish church of St. Peter and Paul.",
+   "q": "Winkelrieddenkmal, Dorfplatz, Stans",
+   "ll": [
+    46.95648,
+    8.36577
+   ],
+   "src": [
+    "https://www.luzern.com/de/highlights/hopping/kleinstadt/stans",
+    "https://www.luzern.com/en/poi/winkelried-house"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "molkistans",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Stanser Fladä and Weisser Stanser at Molki Stans",
+   "desc": "Molki Stans on Schmiedgasse makes cheese and milk products; the Stanser Fladä is especially popular. In 2022 its sheep's-milk Weisser Stanser won first place at the Swiss Cheese Award.",
+   "tip": "Buy cheese to take away. It is in the centre of Stans.",
+   "q": "Molki Stans, Schmiedgasse, Stans",
+   "ll": [
+    46.95624,
+    8.36785
+   ],
+   "src": [
+    "https://villa-honegg.ch/en/sustainability/partner/molki-stans/"
+   ]
+  },
+  {
+   "id": "fluonalp",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Giswil Älplermagronen at Alpbeizli Fluonalp",
+   "desc": "The Alpbeizli and Käserei Fluonalp above Giswil serves its own Giswil Älplermagronen, plus cheesecake and coffee with Cheli schnapps. Visitors can see cheesemaking by prior registration.",
+   "tip": "Reached on foot from Giswil; book if you want to see the dairy.",
+   "q": "Alpbeizli Fluonalp, Giswil",
+   "ll": [
+    46.80465,
+    8.12135
+   ],
+   "src": [
+    "https://www.obwalden-tourismus.ch/en/detail/poitype/outdooractivepoi/poi/alpbeizli-und-kaeserei-fluonalp/"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "langis",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order Älplermagronen at Berghotel Langis",
+   "desc": "The Berghotel Langis sits in the Sarnen recreation area above the fog line and serves down-to-earth dishes such as Älplermagronen and fondue.",
+   "tip": "Call ahead for opening times, especially in winter.",
+   "q": "Berghotel Langis, Glaubenberg, Sarnen",
+   "ll": [
+    46.8934,
+    8.12645
+   ],
+   "src": [
+    "https://www.biosphaere.ch/en/gastro/berghotel-langis"
+   ]
+  },
+  {
+   "id": "rigivitznau",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Vitznau-Rigi cogwheel railway to Rigi Kulm",
+   "desc": "The Vitznau-Rigi railway opened on 21 May 1871 and is Europe's first mountain railway; it reached Rigi Kulm (1,752 m) in 1873. It uses Niklaus Riggenbach's rack system and is still sometimes steam-hauled.",
+   "tip": "The ride takes about half an hour. Take the boat to Vitznau and return via Arth-Goldau for a loop.",
+   "q": "Vitznau-Rigi-Bahn, Bahnhof Vitznau",
+   "ll": [
+    47.00977,
+    8.48324
+   ],
+   "src": [
+    "https://www.rigi.ch/en/about-us/history/history-of-the-first-mountain-railway-of-europe",
+    "https://en.wikipedia.org/wiki/Rigi"
+   ]
+  },
+  {
+   "id": "rigimineralbad",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Soak in the Mineralbad & Spa Rigi Kaltbad",
+   "desc": "The Mario Botta-designed Mineralbad & Spa at Rigi Kaltbad (about 1,450 m) uses mineral water from the Drei-Schwestern-Brunnen heated to about 35 °C. Bathing here goes back about 600 years, with a first bath chapel in 1545.",
+   "tip": "The village is car-free: arrive by cogwheel train from Vitznau or the cable car from Weggis.",
+   "q": "Mineralbad & Spa Rigi Kaltbad, Rigi Kaltbad",
+   "ll": [
+    47.04374,
+    8.46563
+   ],
+   "src": [
+    "https://www.luzern.com/de/poi/mineralbad-rigi",
+    "https://www.aqua-spa-resorts.ch/en/mineralbad-spa-rigi-kaltbad"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bundesbriefmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the 1291 Federal Charter in Schwyz",
+   "desc": "The Bundesbriefmuseum at Bahnhofstrasse 20 opened in 1936 and shows the 32 cm parchment of early August 1291, an alliance of Uri, Schwyz and Unterwalden. A collection of flags and displays on the Rütli oath and Tell round out the visit.",
+   "tip": "Open roughly Tue to Sun 10:00 to 17:00; confirm at bundesbrief.ch. Modest entry fee.",
+   "q": "Bundesbriefmuseum, Bahnhofstrasse 20, Schwyz",
+   "ll": [
+    47.02211,
+    8.6487
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Museum_of_the_Swiss_Charters_of_Confederation",
+    "https://www.luzern.com/de/poi/bundesbriefmuseum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "forumschwyz",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Learn how Switzerland began at Forum Schweizer Geschichte",
+   "desc": "The Forum is the central-Switzerland seat of the Swiss National Museum and opened in 1995. Its permanent show Entstehung Schweiz covers the medieval formation of the Confederacy through an interactive route.",
+   "tip": "Closed Mondays; a free Forum Schwyz app provides an audio guide. Parking is at Parkhaus Hofmatt.",
+   "q": "Forum Schweizer Geschichte Schwyz, Zeughausstrasse 5, Schwyz",
+   "ll": [
+    47.02135,
+    8.65162
+   ],
+   "src": [
+    "https://www.luzern.com/de/poi/forum-schweizer-geschichte-schwyz",
+    "https://www.myswitzerland.com/en/experiences/forum-swiss-history/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "einsiedeln",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Einsiedeln Abbey and the Black Madonna",
+   "desc": "The Benedictine abbey was founded in 934 where St Meinrad lived as a hermit. The baroque church dates from the early 18th century and the Gnadenkapelle holds the late-Gothic Black Madonna.",
+   "tip": "The Salve Regina is sung daily at 16:30 in the Gnadenkapelle. The Stiftsbibliothek is only open on guided tours.",
+   "q": "Kloster Einsiedeln, Klosterplatz, Einsiedeln",
+   "ll": [
+    47.12678,
+    8.75234
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Einsiedeln_Abbey",
+    "https://www.freizeit.ch/freizeit/14123/kloster-und-barock-kirche-einsiedeln"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "stoosbahn",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Stoosbahn, the steepest funicular in the world",
+   "desc": "The Stoosbahn opened in December 2017, climbs from Schwyz to the car-free village of Stoos at up to a 110% gradient and replaced a cable car dating from 1933. The ride takes four to seven minutes.",
+   "tip": "From Stoos, chairlifts continue to the Fronalpstock summit with Lake Lucerne views.",
+   "q": "Stoosbahn Talstation, Schlattli, Schwyz",
+   "ll": [
+    46.99124,
+    8.67339
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/stoosbahnthe-steepest-funicular-railway-in-the-world",
+    "https://switzerlanding.com/stoos-funicular/"
+   ]
+  },
+  {
+   "id": "hochybrig",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the 7-Egg-Weg at Hoch-Ybrig",
+   "desc": "From Weglosen the cable car runs to Seebli and a chairlift reaches Chli Sternen. The 7-Egg-Weg ridge walk leads from Seebli via Spirstock, Sternenegg and Ibergeregg to Holzegg.",
+   "tip": "The summer season runs from early July to end of October. Postbus from Einsiedeln to Weglosen.",
+   "q": "Luftseilbahn Weglosen-Seebli, Weglosen, Unteriberg",
+   "ll": [
+    47.0157,
+    8.79934
+   ],
+   "src": [
+    "https://www.luzern.com/de/poi/luftseilbahn-weglosen-seebli-hoch-ybrig",
+    "https://www.zuerich.com/de/node/179650"
+   ],
+   "months": [
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "tierparkgoldau",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Meet native wildlife at Natur- und Tierpark Goldau",
+   "desc": "The 42-hectare park lies on land buried by the Rossberg landslide of 2 September 1806, which killed 457 people. It keeps over 100 native species and runs a bearded-vulture breeding programme; the Erlebnishalle covers the landslide.",
+   "tip": "Boulders from the slide are scattered through the park. Located by Arth-Goldau station.",
+   "q": "Natur- und Tierpark Goldau, Parkstrasse 40, Goldau",
+   "ll": [
+    47.05133,
+    8.5531
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Natur-_und_Tierpark_Goldau",
+    "https://www.museums.ch/de/museumsbesuch/museen/museen/erlebnishalle-goldauer-bergsturz-2046.html"
+   ]
+  },
+  {
+   "id": "grossermythen",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Climb the Grosse Mythen",
+   "desc": "The trail to the Grosse Mythen rises in 47 hairpins to the summit; the Mythenhaus restaurant stands at 1,898 m. It takes about two hours from Holzegg or three from Brunni.",
+   "tip": "Take water as there is no refreshment between Holzegg and the summit. The Brunni-Holzegg cable car saves about an hour.",
+   "q": "Mythenhaus, Grosser Mythen, Alpthal",
+   "ll": [
+    47.0309,
+    8.6972
+   ],
+   "src": [
+    "https://www.luzern.com/de/tour/mythenweg-rotenflue-grosser-mythen-rotenflue",
+    "https://wegwandern.ch/wp-content/uploads/2023/04/Grosser-Mythen.pdf"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "hoelloch",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Explore the Hölloch cave in Muotathal",
+   "desc": "The Hölloch is one of the largest caves in the world with over 200 km explored. Tours start at the Hölloch Center in Stalden; the short tour covers the first 700 m of the developed section in about two hours.",
+   "tip": "Book via hoelloch.ch; longer expeditions and a cave-raclette tour also exist.",
+   "q": "Hölloch Center, Stalden 14, Muotathal",
+   "ll": [
+    46.97666,
+    8.7853
+   ],
+   "src": [
+    "https://www.freizeit.ch/freizeit/14163/holloch",
+    "https://www.swissactivities.com/hoelloch-hoehle-muotathal/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "schwanau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Take the ferry to Schwanau island on Lauerzersee",
+   "desc": "The island holds a castle ruin from the 12th or 13th century, a chapel set up in 1684 and a restaurant added in a 2012 renovation. It is owned by the canton of Schwyz and lies in Lauerz municipality.",
+   "tip": "A small ferry runs from Lauerz. Hermits lived on the island in the 17th century.",
+   "q": "Insel Schwanau, Lauerzersee, Lauerz",
+   "ll": [
+    47.03253,
+    8.59794
+   ],
+   "src": [
+    "https://hls-dhs-dss.ch/de/articles/007422/",
+    "https://www.burgenwelt.org/schweiz/schwanau/burgenwelt-schwanau-schweiz.pdf"
+   ]
+  },
+  {
+   "id": "gersau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the old town hall of the Republic of Gersau",
+   "desc": "The Ortsmuseum opened in 1984 in the 1745 town hall of the free republic of Gersau, once the smallest republic in the world. A room covers silk production and the museum also shows Strindberg's stay.",
+   "tip": "Entry is free by donation; opening hours are limited, so check first. The Chefi prison displays Stradivari instruments.",
+   "q": "Ortsmuseum Gersau, Dorfstrasse 14, Gersau",
+   "ll": [
+    46.9948,
+    8.5251
+   ],
+   "src": [
+    "https://www.rigi.ch/en/attractions/village-museum-5902a39367",
+    "https://www.museums.ch/de/museumsbesuch/museen/museen/ortsmuseum-gersau-2039.html"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "weggisrigi",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Weggis cable car to Rigi Kaltbad",
+   "desc": "The aerial cableway climbs about 1,000 m in roughly 10 minutes from Weggis to Rigi Kaltbad at 1,433 m. Weggis is known for its mild microclimate and palm-lined lakefront.",
+   "tip": "Rail pass holders ride free. Change at Kaltbad to the cogwheel train for Rigi Kulm.",
+   "q": "Luftseilbahn Weggis-Rigi Kaltbad, Weggis",
+   "ll": [
+    47.03872,
+    8.45286
+   ],
+   "src": [
+    "https://www.luzern.com/de/poi/luftseilbahn-weggis-rigi-kaltbad",
+    "https://www.rigi.ch/en/inform/arrival/arrival-parking-weggis"
+   ]
+  },
+  {
+   "id": "goldapfel",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Buy a Schafbock at the Goldapfel gingerbread bakery",
+   "desc": "Goldapfel in Einsiedeln is called the oldest Schafbock and gingerbread bakery in Switzerland, with the Oechslin family baking since 1724. The Schafbock is a round honey cake with a lying sheep, once pilgrim food. A free Lebkuchen museum sits at Kronenstrasse 1.",
+   "tip": "Museum entry is free during shop hours. Buy a Schafbock as a souvenir after the abbey.",
+   "q": "Goldapfel Lebkuchen, Kronenstrasse 1, Einsiedeln",
+   "ll": [
+    47.1278,
+    8.7464
+   ],
+   "src": [
+    "https://www.luzern.com/de/blog/zu-besuch-in-der-einsiedler-spezialitaeten-baeckerei-goldapfel",
+    "https://www.museums.ch/de/museumsbesuch/museen/museen/lebkuchenmuseum-goldapfel-4365.html"
+   ]
+  },
+  {
+   "id": "schwyzhauptplatz",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk Schwyz Hauptplatz and the Ital Reding house",
+   "desc": "The Hauptplatz is dominated by the Rathaus, with 19th-century Morgarten murals, and the late-baroque St. Martin church; both were rebuilt after the 1642 fire. Nearby is the early 17th-century Ital-Reding-Haus and the 1287 Haus Bethlehem.",
+   "tip": "Combine with the Bundesbriefmuseum and Forum Schweizer Geschichte in one day.",
+   "q": "Hauptplatz, Schwyz",
+   "ll": [
+    47.0205,
+    8.6527
+   ],
+   "src": [
+    "https://hls-dhs-dss.ch/de/articles/000736",
+    "https://www.luzern.com/de/tour/dorfrundgang-schwyz"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rigikulmhotel",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at Rigi Kulm-Hotel on the summit",
+   "desc": "The hotel at Rigi Kulm has been family-run since 1949 and its first mountain inn dates to 1816. It has an à la carte restaurant with seasonal regional dishes and a self-service restaurant.",
+   "tip": "Reach it by cogwheel train from Vitznau or Goldau; arrive early for sunset.",
+   "q": "Rigi Kulm-Hotel, Rigi Kulm",
+   "ll": [
+    47.0562,
+    8.4854
+   ],
+   "src": [
+    "https://www.rigi.ch/en/gastronomy/rigi-kulm-hotel-6f82542f31",
+    "https://unterwegs.sob.ch/en/service-providers/rigi-kulm-hotel"
+   ]
+  },
+  {
+   "id": "rosengartenluzern",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink Einsiedler beer from Brauerei Rosengarten",
+   "desc": "Brauerei Rosengarten in Einsiedeln was founded in 1872, is family-owned and is the only survivor of 11 breweries once in the canton of Schwyz. Its range includes Alpenbier Bio and Einsiedler Weizen.",
+   "tip": "Look for it on tap in Einsiedeln restaurants after visiting the abbey.",
+   "q": "Brauerei Rosengarten, Spitalstrasse 14, Einsiedeln",
+   "ll": [
+    47.1267,
+    8.749
+   ],
+   "src": [
+    "https://www.beertasting.com/en/beers/rosengarten-alpenbier-bio",
+    "https://www.bov.ch/beer/rosengarten.pdf"
+   ]
+  },
+  {
+   "id": "parkvitznau",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine lakeside at Park Hotel Vitznau Seeterrasse",
+   "desc": "The Seeterrasse is a lakeside pavilion directly on the shore of Lake Lucerne next to the jetty at Seestrasse 18, with barbecue specialties and a fine wine cellar. The hotel's Focus restaurant serves a tasting menu.",
+   "tip": "Book ahead in season. A high-end option; the Vitznau-Rigi railway starts nearby.",
+   "q": "Park Hotel Vitznau, Seestrasse 18, Vitznau",
+   "ll": [
+    47.01501,
+    8.47798
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/park-hotel-vitznau-restaurant-seeterrasse/"
+   ]
+  },
+  {
+   "id": "ruetli",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stand on the Rütli meadow",
+   "desc": "The Rütli is the traditional site of the 1291 oath of Uri, Schwyz and Unterwalden, often called the cradle of Switzerland. The meadow belongs to the Confederation and is reachable only on foot or by boat.",
+   "tip": "Take a boat from Brunnen (about 10 minutes) or Flüelen, or walk about an hour from Seelisberg via the Treib funicular.",
+   "q": "Rütli, Seelisberg",
+   "ll": [
+    46.96944,
+    8.59235
+   ],
+   "src": [
+    "https://www.myswitzerland.com/de-ch/reiseziele/ruetli-ruetliwiese/",
+    "https://www.luzern.com/de/blog/auf-aussichtsreichen-wegen-zur-geschichte"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "telldenkmal",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Tell monument in Altdorf",
+   "desc": "Richard Kissling's bronze of Tell and his son Walter was unveiled on 28 August 1895 on the Rathausplatz at the foot of the old Türmli tower. The apple is not depicted.",
+   "tip": "Altdorf is the traditional setting of the apple shot; Bürglen, Tell's reputed home, is close.",
+   "q": "Telldenkmal, Rathausplatz, Altdorf UR",
+   "ll": [
+    46.88177,
+    8.64396
+   ],
+   "src": [
+    "https://www.luzern.com/de/poi/telldenkmal",
+    "https://www.swissinfo.ch/eng/a-new-image/251972"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "tellskapelle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Tellskapelle on the Tellsplatte",
+   "desc": "The chapel on the shore of Lake Lucerne at Sisikon commemorates Tell's leap from Gessler's boat. The present building dates from 1879 and has Ernst Stückelberg frescoes finished by 1882.",
+   "tip": "Reach it by boat or about two hours on foot from Flüelen. A national procession is held here.",
+   "q": "Tellskapelle, Tellsplatte, Sisikon",
+   "ll": [
+    46.93265,
+    8.61183
+   ],
+   "src": [
+    "https://hls-dhs-dss.ch/de/articles/008795/",
+    "https://www.myswitzerland.com/en/experiences/tells-chapel"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "teufelsbruecke",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Cross the Teufelsbrücke in the Schöllenen Gorge",
+   "desc": "The current Teufelsbrücke was built between 1820 and 1830, replacing a bridge damaged in the 1799 fighting. Behind the restaurant, a rock-cut monument built by Russia in 1898 honours General Suvorov's soldiers.",
+   "tip": "The devil painted above the bridge is by Heinrich Danioth, 1950. The Schöllenen walk runs from Andermatt to Göschenen.",
+   "q": "Teufelsbrücke, Schöllenenschlucht, Andermatt",
+   "ll": [
+    46.64736,
+    8.59029
+   ],
+   "src": [
+    "https://www.myswitzerland.com/de/erlebnisse/schoellenenschlucht-und-teufelsbruecke/",
+    "https://andermatt-sedrun-disentis.ch/en/stories/schoellenenschlucht"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "furkadampf",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Furka mountain steam railway from Realp",
+   "desc": "The Dampfbahn Furka-Bergstrecke runs steam trains from Realp over the Furka summit to Oberwald. The season is roughly mid-June to late September, with trains Thursday to Sunday.",
+   "tip": "Check dfb.ch for the timetable as it is set each season.",
+   "q": "Dampfbahn Furka-Bergstrecke, Bahnhof Realp",
+   "ll": [
+    46.5958,
+    8.50233
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-ie/experiences/furka-steam-railway/",
+    "https://www.timeout.com/switzerland/travel/furka-mountain-steam-locomotive"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "gotthardpass",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Reach the Gotthard Pass summit",
+   "desc": "The pass at 2,106 m links Hospental in Uri with Airolo in Ticino. On top are a historic hospice documented from 1237, the national Gotthard museum and the Sasso San Gottardo fortress; the Tremola road on the Ticino side has 24 hairpins.",
+   "tip": "The pass is usually open May to October; check road status first.",
+   "q": "Gotthardpass Hospiz, Gotthardpass",
+   "ll": [
+    46.5594,
+    8.5608
+   ],
+   "src": [
+    "https://www.myswitzerland.com/de/erlebnisse/st-gotthard-pass-nostalgie-tremola/",
+    "https://en.wikipedia.org/wiki/Gotthard_Pass"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "eggberge",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Flüelen cable car to Eggberge",
+   "desc": "The Luftseilbahn Flüelen-Eggberge climbs from Flüelen; the valley station is about 15 minutes from the station. From the top, the Wildheupfad runs about 7 km to Oberaxen and the Schächentaler Höhenweg continues toward the Klausen Pass.",
+   "tip": "The Wildheupfad is rated T3 and risky when wet. Berggasthaus Eggberge is at the top.",
+   "q": "Luftseilbahn Flüelen-Eggberge, Flüelerstrasse 132, Altdorf",
+   "ll": [
+    46.89754,
+    8.63606
+   ],
+   "src": [
+    "https://www.luzern.com/de/poi/luftseilbahn-flueelen-eggberge",
+    "https://www.myswitzerland.com/de/erlebnisse/route/wildheupfad/"
+   ]
+  },
+  {
+   "id": "schuetzenmatt",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Uri specialities under the chestnut at Schützenmatt",
+   "desc": "Restaurant Schützenmatt at Hellgasse 1 in Altdorf is a Swiss Red Cross integration project serving traditional Uri specialities under a large chestnut tree.",
+   "tip": "Open Wednesday to Sunday; ask for the Uri dish of the day.",
+   "q": "Restaurant Schützenmatt, Hellgasse 1, Altdorf",
+   "ll": [
+    46.88116,
+    8.64537
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/restaurant-schuetzenmatt/",
+    "https://www.luzern.com/en/gastro/restaurant-schuetzenmatt"
+   ]
+  },
+  {
+   "id": "gemsstock",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Gemsstock cable car above Andermatt",
+   "desc": "The Gemsstock aerial tramway runs in two sections to the summit at 2,962 m, which the operator bills as central Switzerland's widest panorama, over 600 peaks. It does not run in summer.",
+   "tip": "Winter operation only; check the lift status. Experienced skiers use it for freeride.",
+   "q": "Gemsstock Bergbahn Gurschen, Andermatt",
+   "ll": [
+    46.63186,
+    8.59166
+   ],
+   "src": [
+    "https://www.andermatt-sedrun-disentis.ch/en/service-providers/bergbahn-andermattsedrun-sport-ag-gemsstock",
+    "https://www.skiresort.info/ski-resort/gemsstock-andermatt/test-result/summary"
+   ],
+   "months": [
+    12,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "zytturm",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb to the Zytturm clock tower in Zug",
+   "desc": "The Zytturm on Kolinplatz is a 52 m tower with an astronomical clock in the old town. Opposite it is a fountain honouring Wolfgang Kolin, the Swiss standard-bearer at the 1422 defeat by Milan.",
+   "tip": "City old-town walks start at Kolinplatz and include Burg Zug.",
+   "q": "Zytturm, Kolinplatz, Zug",
+   "ll": [
+    47.1663,
+    8.5158
+   ],
+   "src": [
+    "https://www.zug-tourismus.ch/en/tours/walk/walk-through-old-town-zug",
+    "https://en.wikipedia.org/wiki/Zytturm,_Zug"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "burgzug",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Burg Zug and its museum",
+   "desc": "Burg Zug is a circular medieval castle that housed Kyburg and Habsburg governors and now holds the town's history museum. It is a short walk up Kirchenstrasse from the old town.",
+   "tip": "Combine with a coffee on the Landsgemeindeplatz overlooking the lake.",
+   "q": "Museum Burg Zug, Kirchenstrasse 11, Zug",
+   "ll": [
+    47.16513,
+    8.51669
+   ],
+   "src": [
+    "https://switzerlandisyours.com/E/guide/zentral_schweiz/thetownofzug.html",
+    "https://www.zug-tourismus.ch/en/tours/walk/walk-through-old-town-zug"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "zugerberg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Zugerbergbahn funicular to the Zugerberg",
+   "desc": "The 1,280 m funicular from Schönegg climbs 366 m to the Zugerberg and opened in spring 1907. The mountain offers lake and Alpine views, walks and a sledging run in winter.",
+   "tip": "Single fares are low-cost; check current prices. Sunset is a favourite time.",
+   "q": "Zugerbergbahn Talstation Schönegg, Zug",
+   "ll": [
+    47.15137,
+    8.52109
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Zugerbergbahn",
+    "https://www.zug-tourismus.ch/en/poi/public-space/view-zugerberg-city-zug/"
+   ]
+  },
+  {
+   "id": "hoellgrotten",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk through the Höllgrotten stalactite caves",
+   "desc": "The Höllgrotten in the Lorzentobel near Baar were found in the late 19th century during tuff quarrying; the Dom in 1863, the Zauberschloss in 1892 and the Bärenhöhle in 1902. The self-guided tour takes about 45 minutes with LED lighting.",
+   "tip": "Bus Zug-Menzingen to Tobelbrücke, then about 25 minutes on foot. Check opening season.",
+   "q": "Höllgrotten, Lorzendamm 28, Baar",
+   "ll": [
+    47.18892,
+    8.55789
+   ],
+   "src": [
+    "https://www.zuerich.com/de/besuchen/natur/hoellgrotten-baar",
+    "https://www.freizeit.ch/freizeit/14176/hollgrotten"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "speckkirsch",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Zuger Kirschtorte at Confiserie Speck",
+   "desc": "Confiserie Speck has made Zuger Kirschtorte since 1895 and its café dates to 1945; in 2020 it baked a 241 kg, 4 m record cake. Visitors can watch a cake being made on a cherry-cake tour.",
+   "tip": "Book the cherry cake tour via Zug Tourismus. Speck's version is lighter than Treichler's.",
+   "q": "Confiserie Speck, Zug",
+   "ll": [
+    47.17248,
+    8.5149
+   ],
+   "src": [
+    "https://www.zuerich.com/en/visit/restaurants/confiserie-speck",
+    "https://www.zug-tourismus.ch/en/poi/poi-and-infrastructure/cherry-cake-tour-confiserie-speck/"
+   ]
+  },
+  {
+   "id": "treichler",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste the original Kirschtorte at Confiserie Treichler",
+   "desc": "Confiserie Treichler is often credited as the house that invented the Zuger Kirschtorte and offers an old-town tour. Its cake is described as the more heavily kirsch-soaked of the two famous versions.",
+   "tip": "Pair a slice with a walk on the lakefront. A tour with a visit is listed by Zug Tourismus.",
+   "q": "Confiserie Treichler, Zug",
+   "ll": [
+    47.17248,
+    8.5149
+   ],
+   "src": [
+    "https://www.zug-tourismus.ch/en/poi/old-town-tour-visit-confiserie-treichler/",
+    "https://www.zuerich.com/en/visit/restaurants/confiserie-speck"
+   ]
+  },
+  {
+   "id": "kunsthauszug",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Viennese Modernism at Kunsthaus Zug",
+   "desc": "Kunsthaus Zug at Dorfstrasse 27 holds the Stiftung Sammlung Kamm, said to be the largest collection of Viennese Modernism outside Austria, with Klimt, Schiele and Kokoschka. Swiss Surrealism and Zug art are other focuses.",
+   "tip": "Open Tue to Fri 12:00 to 18:00, weekends from 10:00, closed Monday.",
+   "q": "Kunsthaus Zug, Dorfstrasse 27, Zug",
+   "ll": [
+    47.16496,
+    8.51738
+   ],
+   "src": [
+    "https://www.museums.ch/de/museumsbesuch/museen/museen/kunsthaus-zug-2457.html",
+    "https://www.myswitzerland.com/en/experiences/kunsthaus-zug/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "zugersee",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cruise Lake Zug on a Zugersee Schifffahrt boat",
+   "desc": "The Zugersee Schifffahrt has run steamers since 1852 and offers hop-on hop-off trips and a Zug to Arth route of about an hour; the Rigi can be combined with a cruise.",
+   "tip": "Walk the Seepromenade at sunset first. Timetables vary by season.",
+   "q": "Zugersee Schifffahrt, Landungssteg, Zug",
+   "ll": [
+    47.165,
+    8.5165
+   ],
+   "src": [
+    "https://www.zugersee-schifffahrt.ch/en/about-us/our-history/",
+    "https://www.zug-tourismus.ch/en/poi/transport-system/lake-zug-boat-trip"
+   ]
+  }
+ ]
+}

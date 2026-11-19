@@ -1,0 +1,1015 @@
+{
+ "new": [
+  {
+   "id": "technorama",
+   "cat": "gor",
+   "area": "winterthur",
+   "title": "Try 500 experiments at the Technorama",
+   "desc": "Switzerland's only science centre, opened in 1982 in Oberwinterthur, has more than 500 hands-on experiment stations on three floors. It drew a record 364,286 visitors in 2023.",
+   "tip": "Allow half a day; bus 5 from Winterthur station stops at the door. Adult tickets were about CHF 33, so check technorama.ch.",
+   "q": "Swiss Science Center Technorama, Technoramastrasse 1, Oberwinterthur, Winterthur",
+   "ll": [
+    47.5338,
+    8.757
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Technorama_(museum)",
+    "https://www.zuerich.com/en/visit/culture/technorama-winterthur-the-only-science-center-in-switzerland"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "kyburg",
+   "cat": "gor",
+   "area": "winterthur",
+   "title": "Explore Kyburg castle above the Töss valley",
+   "desc": "Kyburg is one of the largest and best-preserved medieval castles in the canton of Zürich, once the seat of the Counts of Kyburg and later the Habsburgs. Today it houses a museum with armoury, chapel and castle rooms.",
+   "tip": "Open daily except Monday, usually 10:00 to 17:30 in season; confirm the winter break on schlosskyburg.ch. Walk up from Kyburg village or combine with the Eschenberg hike.",
+   "q": "Schloss Kyburg, Kyburg, 8314 Kyburg",
+   "ll": [
+    47.45833,
+    8.74372
+   ],
+   "src": [
+    "https://www.zuerich.com/de/besuchen/sehenswuerdigkeiten/museum-schloss-kyburg",
+    "https://www.myswitzerland.com/en/experiences/kyburg-castle-museum"
+   ]
+  },
+  {
+   "id": "fotomuseum",
+   "cat": "gor",
+   "area": "winterthur",
+   "title": "See contemporary photography at Fotomuseum Winterthur",
+   "desc": "Fotomuseum Winterthur shows contemporary photography in a building at Grüzenstrasse 44, opposite the Fotostiftung Schweiz at No. 45, together forming a photo centre. Exhibitions change several times a year.",
+   "tip": "Open Tuesday to Sunday, Wednesday until 20:00; Monday closed. Bus 2 towards Seen to the stop Fotozentrum.",
+   "q": "Fotomuseum Winterthur, Grüzenstrasse 44, 8400 Winterthur",
+   "ll": [
+    47.49625,
+    8.73894
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/fotomuseum-winterthur",
+    "https://fotostiftung.ch/en/visit/general-information/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "reinhartstadtgarten",
+   "cat": "gor",
+   "area": "winterthur",
+   "title": "Visit the Oskar Reinhart collection at the Stadtgarten",
+   "desc": "Opened in 1951 as Switzerland's first private museum, the building on Stadthausstrasse 6 holds about 600 works by German, Swiss and Austrian artists from the 18th to 20th century, including Hodler, Caspar David Friedrich and Spitzweg. It has been part of Kunst Museum Winterthur since 2017.",
+   "tip": "Open Tuesday to Sunday 10:00 to 17:00, Thursday until 20:00. Check kmw.ch, because the entrance area was being remodelled.",
+   "q": "Kunst Museum Winterthur Reinhart am Stadtgarten, Stadthausstrasse 6, 8400 Winterthur",
+   "ll": [
+    47.50049,
+    8.729
+   ],
+   "src": [
+    "https://www.kmw.ch/en/about-us/portrait-reinhart-am-stadtgarten/",
+    "https://www.zuerich.com/en/visit/culture/kunst-museum-winterthur-reinhart-am-stadtgarten"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "schlosshegi",
+   "cat": "gor",
+   "area": "winterthur",
+   "title": "Visit moated Schloss Hegi in Oberwinterthur",
+   "desc": "Hegi Castle is a medieval castle owned by the city of Winterthur since 1947 and used as a youth hostel until 2000. It now operates as a museum of everyday and residential culture in eastern Switzerland, run by volunteers since 2010.",
+   "tip": "Open May to October on weekends only (Saturday afternoon, Sunday from 10:00). Postbus 680 to Schlossacker, then walk 10 to 15 minutes.",
+   "q": "Schloss Hegi, Hegifeldstrasse 125, 8409 Winterthur",
+   "ll": [
+    47.50893,
+    8.77127
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Hegi_Castle",
+    "https://www.zuerich.com/en/visit/nature/hegi-castle"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "stadtkirche",
+   "cat": "gor",
+   "area": "winterthur",
+   "title": "Climb the Stadtkirche tower for old town views",
+   "desc": "The Stadtkirche dominates Winterthur's old town, with its oldest parts dating from the 13th century. A guided tour climbs 208 steep steps to the north tower platform at about 50 metres.",
+   "tip": "The tower is reached on guided tours, for example the House of Winterthur old town and tower combination from the station tourist office; book ahead.",
+   "q": "Stadtkirche Winterthur, Kirchplatz, 8400 Winterthur",
+   "ll": [
+    47.49898,
+    8.7287
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/events/altstadt-mit-kirchturm/",
+    "https://www.winterthur-glossar.ch/mpdf/createPDF/stadtkirche"
+   ]
+  },
+  {
+   "id": "villaflora",
+   "cat": "gor",
+   "area": "winterthur",
+   "title": "Step into the Art Nouveau Villa Flora",
+   "desc": "Villa Flora dates from 1846 and was remodelled in Art Nouveau style in 1908 as home of Hedy and Arthur Hahnloser-Bühler. It shows their French Impressionist and Post-Impressionist collection and reopened on 22 March 2024.",
+   "tip": "Open Tuesday to Sunday 10:00 to 17:00, Wednesday until 20:00. A combined ticket covers all Kunst Museum Winterthur sites.",
+   "q": "Kunst Museum Winterthur Villa Flora, Tösstalstrasse 44, 8400 Winterthur",
+   "ll": [
+    47.49645,
+    8.73529
+   ],
+   "src": [
+    "https://www.museums.ch/de/museumsbesuch/museen/museen/kunst-museum-winterthur-villa-flora-6384.html",
+    "https://www.myswitzerland.com/en/experiences/villa-flora-hahnloser-collection/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "gewerbemuseum",
+   "cat": "gor",
+   "area": "winterthur",
+   "title": "Discover design at the Gewerbemuseum Winterthur",
+   "desc": "The museum of applied arts and design was founded in 1874 and has stood on Kirchplatz 14, opposite the Stadtkirche, since 1929. It marked its 150th anniversary in 2025 and runs a Materials Laboratory.",
+   "tip": "Open Tuesday to Sunday 10:00 to 17:00, Thursday until 20:00; admission about CHF 12. Exhibitions change, so check gewerbemuseum.ch.",
+   "q": "Gewerbemuseum Winterthur, Kirchplatz 14, 8400 Winterthur",
+   "ll": [
+    47.5001,
+    8.7285
+   ],
+   "src": [
+    "https://gewerbemuseum.ch/en",
+    "https://www.museums.ch/de/museumsbesuch/museen/museen/gewerbemuseum-winterthur-2404.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "marktgasse",
+   "cat": "gor",
+   "area": "winterthur",
+   "title": "Stroll the Marktgasse, the old town's 'Schluuch'",
+   "desc": "Marktgasse is the pedestrian spine of the old town, running from Untertor to Obertor along what goes back to a Roman road. Locals call it the 'Schluuch'. Nearby are Semper's Stadthaus and Donald Judd's fountains in Steinberggasse.",
+   "tip": "Best in the morning or on Saturday when the market runs at Obertor. Cafés and boutiques line the street.",
+   "q": "Marktgasse, Altstadt, 8400 Winterthur",
+   "ll": [
+    47.49965,
+    8.7279
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Winterthur",
+    "https://www.zuerich.com/de/node/391814"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "eschenbergturm",
+   "cat": "gor",
+   "area": "winterthur",
+   "title": "Climb the Eschenbergturm, Switzerland's oldest steel tower",
+   "desc": "This steel lattice lookout of about 30 metres was opened on 25 August 1889 and is described as the oldest accessible steel lattice tower in Switzerland. It was renovated in 1989 and 2017, and views reach from the Alps to the Black Forest on clear days.",
+   "tip": "About 15 minutes' walk from the Bruderhaus car park; it combines well with the wildlife park.",
+   "q": "Eschenbergturm, Eschenberg, 8400 Winterthur",
+   "ll": [
+    47.48108,
+    8.73489
+   ],
+   "src": [
+    "https://www.winterthur-glossar.ch/mpdf/createPDF/eschenbergturm",
+    "https://www.myswitzerland.com/en-au/experiences/eschenberg-tower/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sulzerareal",
+   "cat": "gor",
+   "area": "winterthur",
+   "title": "Walk the former Sulzer industrial area, Stadtmitte",
+   "desc": "The Sulzer-Areal southwest of the station was the site of Gebrüder Sulzer's works, founded in 1834, and covers about 150,000 square metres. After heavy industry left in the late 1980s it became a mixed quarter with the Superblock office building, used by the city administration and AXA.",
+   "tip": "Free to wander; look at the converted halls and the Superblock on the Zürcherstrasse side. Five minutes from the station.",
+   "q": "Sulzer Areal Stadtmitte, Zürcherstrasse, 8400 Winterthur",
+   "ll": [
+    47.4964,
+    8.7196
+   ],
+   "src": [
+    "https://dewiki.de/Lexikon/Sulzer-Areal",
+    "https://www.winterthur-glossar.ch/mpdf/createPDF/superblock"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rosengartenzuerich",
+   "cat": "gor",
+   "area": "winterthur",
+   "title": "Look over the old town from the Rosengarten",
+   "desc": "The rose park on the Heiligberg, steps from the old town, has about 300 rose varieties and a view over the Altstadt. The city glossary dates the redesign to 1964, for Winterthur's 700th anniversary.",
+   "tip": "Roses peak in June; entry is free. Walk up from the old town in about ten minutes.",
+   "q": "Rosengarten, Hochwachtstrasse, 8400 Winterthur",
+   "ll": [
+    47.51491,
+    8.69843
+   ],
+   "src": [
+    "https://www.winterthur-glossar.ch/mpdf/createPDF/rosengarten",
+    "https://www.myswitzerland.com/en/experiences/rosengarten-rose-garden/"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "wildparkbruderhaus",
+   "cat": "dene",
+   "area": "winterthur",
+   "title": "Spot wolves and lynx at Wildpark Bruderhaus",
+   "desc": "The free wildlife park on the Eschenberg was established in 1890 and is one of the oldest in Switzerland. It keeps Przewalski horses, mouflon, red deer, wisent and sika deer, a wolf pack and lynx.",
+   "tip": "Open around the clock and free of charge; there is a playground and a restaurant on site. Walk from Winterthur or take the bus.",
+   "q": "Wildpark Bruderhaus, Bruderhausstrasse, 8400 Winterthur",
+   "ll": [
+    47.47722,
+    8.72616
+   ],
+   "src": [
+    "https://www.zuerich.com/en/visit/nature/bruderhaus-wildlife-park",
+    "https://www.freizeit.ch/freizeit/14588/wildpark-bruderhaus-in-winterthur"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "geiselweid",
+   "cat": "dene",
+   "area": "winterthur",
+   "title": "Swim a 50 m lane at Freibad Geiselweid",
+   "desc": "Opened in 1911, Geiselweid was one of the first open-air pools in Switzerland. It has a heated 50 m Olympic pool, a natural bathing section and a teaching pool with a current channel, renovated in 2007 to 2009.",
+   "tip": "Open in summer only; check hours on badi-info.ch. A short walk from the station.",
+   "q": "Freibad Geiselweid, Geiselweidstrasse, 8400 Winterthur",
+   "ll": [
+    47.49939,
+    8.74415
+   ],
+   "src": [
+    "https://www.winterthur-glossar.ch/mpdf/createPDF/hallenbad-geiselweid",
+    "https://www.badi-info.ch/zh/winterthur-geiselweid.html"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "schwimmbadtoess",
+   "cat": "dene",
+   "area": "winterthur",
+   "title": "Cool off at the Schwimmbad Töss",
+   "desc": "Opened in 1970 as Winterthur's fifth and last public open-air pool, designed by Knecht & Habegger. It has a 50 m pool, diving board, wave slide and sauna area.",
+   "tip": "Served by bus 5; open in summer, see badi-info.ch for hours.",
+   "q": "Schwimmbad Töss, Töss, 8406 Winterthur",
+   "ll": [
+    47.4845,
+    8.706
+   ],
+   "src": [
+    "https://www.winterthur-glossar.ch/mpdf/createPDF/schwimmbad-toess",
+    "https://www.badi-info.ch/zh/winterthur-toess.html"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "samstigmaert",
+   "cat": "dene",
+   "area": "winterthur",
+   "title": "Browse the Saturday Samstigmärt at Obertor",
+   "desc": "The city's Saturday market near the Obertor sells food and regional products from stalls at the top of the old town. The 2025 schedule ran from 29 March to 29 November, 9:00 to 14:00.",
+   "tip": "Hours may change in 2026; check the city market plan on stadt.winterthur.ch. Come before noon for the best choice.",
+   "q": "Obertor, Marktgasse, 8400 Winterthur",
+   "ll": [
+    47.50002,
+    8.73221
+   ],
+   "src": [
+    "https://www.zuerich.com/de/besuchen/shopping/wochenmaerkte-winterthur",
+    "https://stadt.winterthur.ch/themen/leben-in-winterthur/sicherheit/nutzung-oeffentlicher-raum/maerkte/ftw-simplelayout-filelistingblock/terminplan-der-maerkte-in-winterthur-2025.pdf"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "id": "musikkollegium",
+   "cat": "dene",
+   "area": "winterthur",
+   "title": "Hear the Musikkollegium in the Stadthaus hall",
+   "desc": "The Stadthaus concert hall at Stadthausstrasse 4a is home to the Musikkollegium Winterthur and seats about 900. It is a listed building co-owned by the city and the orchestra, with acoustic work in 2003 to 2004 and 2009.",
+   "tip": "Subscription concerts run through the season (for example March and May 2027); book via musikkollegium.ch.",
+   "q": "Stadthaus Winterthur, Stadthausstrasse 4a, 8400 Winterthur",
+   "ll": [
+    47.4996,
+    8.7241
+   ],
+   "src": [
+    "https://kahle.be/en/ref/stadthausWinterthur-.html",
+    "https://442hz.com/en/ensembles/Musikkollegium_Winterthur/shop/event/173504/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "kyburgeschenberg",
+   "cat": "dene",
+   "area": "winterthur",
+   "title": "Hike from Kyburg over the Eschenberg to Winterthur",
+   "desc": "This easy T1 hike of about 8.8 km and 2h15 starts at Kyburg village and passes the castle, a forest and boulder trail, the Wildpark Bruderhaus and the Eschenbergturm before dropping into the old town.",
+   "tip": "Take the bus to Kyburg and finish at Winterthur station; bring food or stop at the Bruderhaus restaurant.",
+   "q": "Kyburg, Dorf, 8314 Kyburg",
+   "ll": [
+    47.45751,
+    8.74414
+   ],
+   "src": [
+    "https://wegwandern.ch/wanderung/kyburg-eschenberg-bruderhaus-winterthur-wanderung-wandern/",
+    "https://www.zvv.ch/de/freizeit-und-events/freizeitkarte/wandern/wanderung-zum-wildpark-bruderhaus-am-eschenberg.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "brauhauswinterthur",
+   "cat": "ye",
+   "area": "winterthur",
+   "title": "Drink house-brewed beer at the Brauhaus Winterthur",
+   "desc": "Brauhaus Winterthur at Neumarkt 7 to 11 serves mostly beers brewed on site, with a cosy beer garden. It is one of the central places for a pint in the old town.",
+   "tip": "Order the house lager or a seasonal beer; the garden fills up on summer evenings.",
+   "q": "Brauhaus Winterthur, Neumarkt 7, 8400 Winterthur",
+   "ll": [
+    47.5011,
+    8.7269
+   ],
+   "src": [
+    "https://www.swipein.restaurant/en/restaurant/brauhaus-winterthur-winterthur-zurich",
+    "https://wanderlog.com/place/details/2865554/brauhaus-winterthur"
+   ]
+  },
+  {
+   "id": "schlosswuelflingen",
+   "cat": "ye",
+   "area": "winterthur",
+   "title": "Dine in the 1640s Schloss Wülflingen",
+   "desc": "Built by the Escher family in 1644 to 1647 and now a restaurant, Schloss Wülflingen is a heritage site of national significance and one of the best-preserved private country seats of its kind. The Genossenschaft Schloss Wülflingen bought it in 1906.",
+   "tip": "Opening days are limited (lunch and dinner on several weekdays); reserve and check the current listing.",
+   "q": "Restaurant Schloss Wülflingen, Wülflingerstrasse 214, 8408 Winterthur",
+   "ll": [
+    47.51134,
+    8.6995
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/W%C3%BClflingen_Castle",
+    "https://www.myswitzerland.com/en-ca/experiences/food-wine/restaurant/restaurant-schloss-wuelflingen-1/"
+   ]
+  },
+  {
+   "id": "fredi",
+   "cat": "ye",
+   "area": "winterthur",
+   "title": "Eat hand-made pasta and Geschnetzeltes at Fredi",
+   "desc": "Restaurant Fredi is a living-room-style restaurant listed by Falstaff for hand-made pasta and meat classics, including Zürcher Geschnetzeltes.",
+   "tip": "Open from 11:00, later on Thursday to Saturday; reserve for dinner.",
+   "q": "Restaurant Fredi, Stadthausstrasse 119, 8400 Winterthur",
+   "ll": [
+    47.49975,
+    8.72649
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-us/experiences/food-wine/restaurant/restaurant-fredi/",
+    "https://www.falstaff.com/ch/restaurants/fredi"
+   ]
+  },
+  {
+   "id": "lokalwinterthur",
+   "cat": "ye",
+   "area": "winterthur",
+   "title": "Have a drink at Lokal, restaurant, gallery and bar",
+   "desc": "Lokal fills a former factory space with art exhibitions, concerts, restored furniture and a bar that serves drinks and snacks from the local area.",
+   "tip": "Open Monday to Saturday from 9:00 to 23:00; look for concerts and exhibitions on the programme.",
+   "q": "Lokal Winterthur, Zeughausstrasse 52, 8400 Winterthur",
+   "ll": [
+    47.5043,
+    8.7212
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-ae/experiences/food-wine/restaurant/lokal-winterthur/",
+    "https://www.barnews.ch/en/bars-lokale/lokal-winterthur/2712/"
+   ]
+  },
+  {
+   "id": "kafisatz",
+   "cat": "ye",
+   "area": "winterthur",
+   "title": "Sip coffee by day and aperitifs at Kafisatz",
+   "desc": "Kafisatz is a café-bar at Spitalgasse 1 in the old town, serving coffee in the morning and aperitifs in the evening.",
+   "tip": "Good for a quick coffee on a Marktgasse walk; check hours before going.",
+   "q": "Kafisatz, Spitalgasse 1, 8400 Winterthur",
+   "ll": [
+    47.5002,
+    8.7272
+   ],
+   "src": [
+    "https://www.enprimeurclub.com/restaurants/kafisatz-winterthur-restaurant"
+   ]
+  },
+  {
+   "id": "euelbraeu",
+   "cat": "ye",
+   "area": "winterthur",
+   "title": "Taste organic Euelbräu beer from Wülflingen",
+   "desc": "Euelbräu is a family-run Winterthur brewery making organic beers at In der Euelwies 7a in Wülflingen, and its trade profile lists a bar among its offerings.",
+   "tip": "Public opening hours are unclear, so check euelbraeu.ch or call before visiting; the beer is also sold locally.",
+   "q": "Euelbräu, In der Euelwies 7a, 8408 Winterthur",
+   "ll": [
+    47.50585,
+    8.67787
+   ],
+   "src": [
+    "https://winterthur-glossar.ch/mpdf/createPDF/euelbraeu",
+    "https://www.igeho.ch/en/c/the-organic-brewery-that-started-with-a-bet.40128"
+   ]
+  },
+  {
+   "id": "schlosshalde",
+   "cat": "ye",
+   "area": "winterthur",
+   "title": "Eat at the Gasthaus Schlosshalde below Mörsburg",
+   "desc": "This guesthouse near medieval Mörsburg castle sits among forest, meadows and vineyards about 7 km from the city centre. Its foundations may date from around 1500 and it also acts as a school and cultural centre.",
+   "tip": "Restaurant open Wednesday to Saturday; call 052 233 78 78 to confirm.",
+   "q": "Gasthaus Schlosshalde, Mörsburgstrasse 36, 8404 Winterthur",
+   "ll": [
+    47.54007,
+    8.76791
+   ],
+   "src": [
+    "https://www.winterthur-glossar.ch/mpdf/createPDF/wirtschaft-zur-schlosshalde-moersburg",
+    "https://www.myswitzerland.com/en-us/experiences/food-wine/restaurant/gasthaus-schlosshalde/"
+   ]
+  },
+  {
+   "id": "munot",
+   "cat": "gor",
+   "area": "schaffhausen",
+   "title": "Climb the Munot fortress above Schaffhausen",
+   "desc": "The round Munot fortress above the old town is Schaffhausen's landmark, with a rooftop terrace and casemates. Access is free and listings give 9:00 to 17:00.",
+   "tip": "Walk up the Munotstieg; check munot.ch for hours, as sources differ.",
+   "q": "Festung Munot, Munotstieg 17, 8200 Schaffhausen",
+   "ll": [
+    47.69915,
+    8.63493
+   ],
+   "src": [
+    "https://www.alpen-guide.de/reisefuehrer/poi/munot-schaffhausen",
+    "https://www.freizeit.ch/freizeit/14187/munot-schaffhausen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rheinfall",
+   "cat": "gor",
+   "area": "schaffhausen",
+   "title": "Feel the spray at the Rhine Falls from Neuhausen",
+   "desc": "The Rhine Falls between Neuhausen and Laufen-Uhwiesen are Europe's largest waterfall by volume. The Rheinfallbecken by Schlössli Wörth is free and open round the clock.",
+   "tip": "Take the Neuhausen Rheinfall station lift down; go early or in the evening to avoid tour buses.",
+   "q": "Rheinfall, Rheinfallquai, 8212 Neuhausen am Rheinfall",
+   "ll": [
+    47.67801,
+    8.61192
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-ca/experiences/the-rhine-falls/",
+    "https://rheinfall.ch/en/inform/opening-hours-prices/map"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "schlosslaufen",
+   "cat": "gor",
+   "area": "schaffhausen",
+   "title": "Stand over the falls at the Känzeli of Schloss Laufen",
+   "desc": "Schloss Laufen on the south bank has a visitor centre, a glass lift and walkways to the Känzeli platform, which sits directly above the falls. Admission to the castle, Historama and panorama path was about CHF 5.",
+   "tip": "Open daily; check hours on schlosslaufen.ch. The castle is on the Zürich side of the border.",
+   "q": "Schloss Laufen am Rheinfall, 8447 Dachsen",
+   "ll": [
+    47.67649,
+    8.61404
+   ],
+   "src": [
+    "https://www.zuerich.com/de/besuchen/natur/schloss-laufen-das-1000-jaehrige-schloss-am-rheinfall",
+    "https://www.lonelyplanet.com/switzerland/rheinfall/attractions/schloss-laufen-am-rheinfall/a/poi-sig/1500773/1329138"
+   ]
+  },
+  {
+   "id": "steinrathausplatz",
+   "cat": "gor",
+   "area": "schaffhausen",
+   "title": "Admire the painted houses of Stein am Rhein's Rathausplatz",
+   "desc": "The Rathausplatz is the showpiece of the medieval old town, framed by Gothic and Renaissance houses with painted facades. The town hall dates from about 1539, and Alois Carigiet painted one house around 1956.",
+   "tip": "Free to wander; visit early morning before day trippers arrive.",
+   "q": "Rathausplatz, 8260 Stein am Rhein",
+   "ll": [
+    47.6594,
+    8.8576
+   ],
+   "src": [
+    "https://www.alpen-guide.de/reisefuehrer/poi/rathausplatz-stein-am-rhein-stein-am-rhein",
+    "https://www.freizeit.ch/freizeit/24012/stein-am-rhein"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "klostersanktgeorgen",
+   "cat": "gor",
+   "area": "schaffhausen",
+   "title": "Walk the cloister of Kloster St. Georgen",
+   "desc": "The former Benedictine abbey at Fischmarkt 3 has a late-Gothic cloister and a painted hall commissioned by the last abbot, David von Winkelsheim. It was dissolved in 1525 and has belonged to the Swiss Confederation since 1926.",
+   "tip": "Open April to October, Tuesday to Sunday, about CHF 5. Ten minutes on foot from the station.",
+   "q": "Museum Kloster Sankt Georgen, Fischmarkt 3, 8260 Stein am Rhein",
+   "ll": [
+    47.65847,
+    8.86024
+   ],
+   "src": [
+    "https://www.museums.ch/de/museumsbesuch/museen/museen/museum-kloster-sankt-georgen-2339.html",
+    "https://www.myswitzerland.com/en/experiences/museum-kloster-sankt-georgen/"
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "lindwurm",
+   "cat": "gor",
+   "area": "schaffhausen",
+   "title": "Step into 1850 at Museum Lindwurm",
+   "desc": "The museum at Understadt 18 fills a medieval house, with roots in the 13th century, as a bourgeois household and farm of about 1850. It has presented domestic life since 1993 over roughly 1,500 square metres.",
+   "tip": "Open spring to autumn; adults about CHF 5. Check museum-lindwurm.ch for days.",
+   "q": "Museum Lindwurm, Understadt 18, 8260 Stein am Rhein",
+   "ll": [
+    47.66057,
+    8.85831
+   ],
+   "src": [
+    "https://www.museums.ch/de/museumsbesuch/museen/museen/museum-lindwurm-2340.html",
+    "https://www.myswitzerland.com/en-ca/experiences/museum-lindwurm/"
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "months": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "allerheiligen",
+   "cat": "gor",
+   "area": "schaffhausen",
+   "title": "Visit the Museum zu Allerheiligen",
+   "desc": "The museum occupies much of the former Benedictine monastery in the old town. The main entrance is on Klosterstrasse 16, and the former market scale of the Fronwagturm is among its objects.",
+   "tip": "Check allerheiligen.ch for current hours. Five minutes from the station.",
+   "q": "Museum zu Allerheiligen, Klosterstrasse 16, 8200 Schaffhausen",
+   "ll": [
+    47.69489,
+    8.63588
+   ],
+   "src": [
+    "https://www.museums.ch/de/museumsbesuch/museen/museen/museum-zu-allerheiligen-schaffhausen-2285.html",
+    "https://www.freizeit.ch/freizeit/14599/museum-zu-allerheiligen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "muensterschaffhausen",
+   "cat": "gor",
+   "area": "schaffhausen",
+   "title": "See the Münster, cloister and Schiller bell",
+   "desc": "The Romanesque Münster was built between 1090 and 1105; the monastery was dissolved with the Reformation in 1529. The cloister is Switzerland's largest freely accessible one, and the 1486 bell with the inscription 'Vivos voco' inspired Schiller's poem.",
+   "tip": "Münster, cloister and herb garden are open free in the daytime.",
+   "q": "Münster Allerheiligen, Münsterplatz, 8200 Schaffhausen",
+   "ll": [
+    47.69529,
+    8.63642
+   ],
+   "src": [
+    "https://www.alpen-guide.de/reisefuehrer/poi/muenster-schaffhausen",
+    "https://www.srf.ch/radio-srf-musikwelle/glocken-der-heimat/glocken-der-heimat-schaffhausen-muenster-allerheiligen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hauszumritter",
+   "cat": "gor",
+   "area": "schaffhausen",
+   "title": "Look up at the Haus zum Ritter frescoes",
+   "desc": "The house at Vordergasse 65 has a core from 1492, extended in 1566 by Ritter Hans von Waldkirch. Tobias Stimmer's 1568 to 1570 frescoes were Renaissance masterpieces; the present facade is Carl Roesch's 1938 to 1943 reconstruction.",
+   "tip": "Free from the street; the originals are shown in the Museum zu Allerheiligen.",
+   "q": "Haus zum Ritter, Vordergasse 65, 8200 Schaffhausen",
+   "ll": [
+    47.69621,
+    8.6349
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-il/experiences/haus-zum-ritter/",
+    "https://www.swiss-spectator.ch/fassadenmalerei-in-schaffhausen/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "fronwagturm",
+   "cat": "gor",
+   "area": "schaffhausen",
+   "title": "Check the 1564 astronomical clock on the Fronwagturm",
+   "desc": "The tower on Fronwagplatz carries a clock by Joachim Habrecht from 1564 that shows hours, weekdays and the moon's path. The tower collapsed in 1746 and was rebuilt in 1747 with the neighbouring Herrenstube.",
+   "tip": "Free from the square; the Landsknecht fountain stands nearby.",
+   "q": "Fronwagturm, Fronwagplatz, 8200 Schaffhausen",
+   "ll": [
+    47.6968,
+    8.6339
+   ],
+   "src": [
+    "https://www.komoot.com/highlight/6192582",
+    "https://www.burgenwelt.org/schweiz/fronwagturm/burgenwelt-fronwagturm-schweiz.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "iwcmuseum",
+   "cat": "gor",
+   "area": "schaffhausen",
+   "title": "Tour the IWC watch museum in the factory",
+   "desc": "The IWC Museum sits in the brand's main factory on the Rhine, Baumgartenstrasse 15, near the old town. IWC lists Tuesday to Friday 9:00 to 17:30 and Saturday 9:00 to 15:30.",
+   "tip": "Closed Sunday and Monday; prices vary by listing, so check iwc.com.",
+   "q": "IWC Museum, Baumgartenstrasse 15, 8200 Schaffhausen",
+   "ll": [
+    47.69438,
+    8.63691
+   ],
+   "src": [
+    "https://www.iwc.com/en/company/museum.html",
+    "https://www.museums.ch/de/museumsbesuch/museen/museen/iwc-museum-2651.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "gipsmuseum",
+   "cat": "gor",
+   "area": "schaffhausen",
+   "title": "Enter the Schleitheim gypsum mine and museum",
+   "desc": "The Gipsmuseum documents the geology of the Wutach valley and gypsum mining in Schleitheim, in front of the last accessible gypsum mine in the region. The volunteer association Verein Gipsmuseum Schleitheim runs it.",
+   "tip": "Flüelistrasse 25, Oberwiesen; bus 21 from Schaffhausen. Confirm hours on 052 632 40 10.",
+   "q": "Gipsmuseum Gipsbergwerk, Flüelistrasse 25, 8226 Schleitheim",
+   "ll": [
+    47.74871,
+    8.46086
+   ],
+   "src": [
+    "https://www.museums.ch/de/museumsbesuch/museen/museen/gipsmuseum-gipsbergwerk-schleitheim-2289.html",
+    "https://freizeitmonster.de/aktivitaeten/orte/gipsmuseum-schleitheim-352681"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bergkirchehallau",
+   "cat": "gor",
+   "area": "schaffhausen",
+   "title": "Visit the hilltop Bergkirche St. Moritz in Hallau",
+   "desc": "The late-Gothic church of 1491 stands on a rock above Hallau, visible across the Klettgau, near an Alamannic cemetery and the ruins of the village of Atlingen.",
+   "tip": "Free; combine with a walk through the Blauburgunder vineyards.",
+   "q": "Bergkirche St. Moritz, 8215 Hallau",
+   "ll": [
+    47.70243,
+    8.46108
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Hallau",
+    "https://hls-dhs-dss.ch/de/articles/001289"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hohenklingen",
+   "cat": "ye",
+   "area": "schaffhausen",
+   "title": "Dine on the terrace of Burg Hohenklingen",
+   "desc": "The castle above Stein am Rhein houses a Swiss and French restaurant with a terrace over the old town and the Rhine, reached by a roughly 30 minute marked footpath.",
+   "tip": "Hours vary by listing; reserve and check burghohenklingen.com. Parking is in front of the castle.",
+   "q": "Burg Hohenklingen, Hohenklingenstrasse 1, 8260 Stein am Rhein",
+   "ll": [
+    47.66684,
+    8.85807
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-th/experiences/food-wine/restaurant/restaurant-burg-hohenklingen/",
+    "https://www.freizeit.ch/freizeit/14601/burg-hohenklingen"
+   ]
+  },
+  {
+   "id": "reberzungen",
+   "cat": "ye",
+   "area": "schaffhausen",
+   "title": "Buy Schaffhauserzungen at Café Reber",
+   "desc": "Konditorei-Confiserie Reber at Vordergasse 21 invented the Schaffhauser Zungen, an oval almond-hazelnut biscuit with buttercream filling, protected since 1902 according to its history.",
+   "tip": "Take a box home and try the hot chocolate; a branch is in the station.",
+   "q": "Konditorei Café Reber, Vordergasse 21, 8200 Schaffhausen",
+   "ll": [
+    47.6964,
+    8.6342
+   ],
+   "src": [
+    "https://cuisinehelvetica.com/2019/10/22/schaffhauserzungen/",
+    "https://www.tripadvisor.in/Restaurant_Review-g188071-d12748835-Reviews-Cafe_Reber-Schaffhausen.html"
+   ]
+  },
+  {
+   "id": "bergtrotte",
+   "cat": "ye",
+   "area": "schaffhausen",
+   "title": "Taste Bölletünne and Pinot Noir at the Bergtrotte",
+   "desc": "The restaurant in a historic wine press at Trottenweg 38 in Osterfingen has roots from 1584 and offers tastings of 64 Blauburgunderland wines. Falstaff noted its Schaffhauser onion quiche, the Bölletünne.",
+   "tip": "Open Thursday to Sunday; reserve for fondue evenings and wine dinners.",
+   "q": "Bergtrotte Osterfingen, Trottenweg 38, 8218 Osterfingen",
+   "ll": [
+    47.66417,
+    8.48405
+   ],
+   "src": [
+    "https://www.falstaff.com/en/restaurants/bergtrotte-osterfingen-osterfingen",
+    "https://www.bodensee.eu/en/bergtrotte-osterfingen_poi2151"
+   ]
+  },
+  {
+   "id": "gerberstube",
+   "cat": "ye",
+   "area": "schaffhausen",
+   "title": "Eat Italian in the guildhall of the Gerberstube",
+   "desc": "Bindella's osteria occupies a historic old town guildhall painted by Schaffhausen artist André Rawyler and serves pasta and fish; Gault&Millau awards 13 points.",
+   "tip": "Closed Sunday and Monday; reserve at weekends.",
+   "q": "Gerberstube Osteria, Bachstrasse 8, 8200 Schaffhausen",
+   "ll": [
+    47.69609,
+    8.63851
+   ],
+   "src": [
+    "https://bindella.ch/en/restaurants/gerberstube-osteria",
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/restaurant-gerberstube/"
+   ]
+  },
+  {
+   "id": "gueterhof",
+   "cat": "ye",
+   "area": "schaffhausen",
+   "title": "Have a drink on the Güterhof Rhine terrace",
+   "desc": "The Güterhof at Freier Platz 10 is a former Rhine shipping warehouse that now combines bar, café, restaurant and sushi bar with a riverfront terrace.",
+   "tip": "Seasonal Swiss dishes and grill; check hours before going.",
+   "q": "Güterhof Restaurant, Freier Platz 10, 8200 Schaffhausen",
+   "ll": [
+    47.69552,
+    8.64126
+   ],
+   "src": [
+    "https://www.bodensee.de/erleben/restaurants-bodensee/restaurant-gueterhof-schaffhausen",
+    "https://www.myswitzerland.com/en-us/experiences/food-wine/restaurant/gueterhof-restaurant-1/"
+   ]
+  },
+  {
+   "id": "schlosslaufenrestaurant",
+   "cat": "ye",
+   "area": "schaffhausen",
+   "title": "Book a tasting menu above the Rhine Falls",
+   "desc": "Restaurant Schloss Laufen offers light lunches and creative evening menus with three to five courses and wine pairing, plus Sunday brunch, with a terrace facing the falls.",
+   "tip": "Reserve ahead; hours conflict by listing, so confirm on schlosslaufen.ch or 052 659 67 67.",
+   "q": "Restaurant Schloss Laufen am Rheinfall, 8447 Dachsen",
+   "ll": [
+    47.67587,
+    8.6145
+   ],
+   "src": [
+    "https://www.bodensee.de/erleben/restaurants-bodensee/restaurant-schloss-laufen",
+    "https://www.zuerich.com/de/besuchen/restaurants/restaurant-schloss-laufen"
+   ]
+  },
+  {
+   "id": "ziegelhuette",
+   "cat": "ye",
+   "area": "schaffhausen",
+   "title": "Try Swiss regional dishes at the Gasthof Ziegelhütte",
+   "desc": "The inn at Längenbergstrasse 2 stands at the gateway to the Randen recreation area, with Swiss regional cuisine, a garden restaurant and a children's playground.",
+   "tip": "Open roughly 9:00 to 23:00 Monday to Saturday; call 052 533 10 20 to book.",
+   "q": "Gasthof Ziegelhütte, Längenbergstrasse 2, 8200 Schaffhausen",
+   "ll": [
+    47.7276,
+    8.62868
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/gasthof-ziegelhuette/",
+    "https://guidle.com/en/restaurants/schaffhausen/gasthof-ziegelhuette_Aa3gBjL"
+   ]
+  },
+  {
+   "id": "rhybadi",
+   "cat": "dene",
+   "area": "schaffhausen",
+   "title": "Swim in the historic Rhybadi river bath",
+   "desc": "The Rheinbad below the old town has several basins filled with Rhine water, including the former women's bath, the Spitz. It is listed as a regional cultural property (B list).",
+   "tip": "Open in summer; the Rhine is cold, so check badi-info.ch.",
+   "q": "Rheinbad Rhybadi, Rheinuferstrasse, 8200 Schaffhausen",
+   "ll": [
+    47.7,
+    8.6442
+   ],
+   "src": [
+    "https://www.badi-info.ch/zh/schaffhausen-rheinbad.html",
+    "https://www.wildopenwater.com/swimspot/schaffhausen-rheinbad-rhybadi-schaffhausen-schaffhausen-switzerland"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "urhschiff",
+   "cat": "dene",
+   "area": "schaffhausen",
+   "title": "Cruise the Rhine from Schaffhausen to Stein am Rhein",
+   "desc": "The URh ships run from the Schifflände at Freier Platz 8 down the High Rhine to Stein am Rhein, billed as one of Europe's loveliest river trips. Services run April to October.",
+   "tip": "Check urh.ch for the timetable and low-water notices.",
+   "q": "Schifffahrtsgesellschaft Untersee und Rhein, Freier Platz 8, 8200 Schaffhausen",
+   "ll": [
+    47.69583,
+    8.641
+   ],
+   "src": [
+    "https://www.urh.ch/en/rundfahrten",
+    "https://www.myswitzerland.com/en/experiences/river-cruise-to-stein-am-rhein/"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "felsenfahrt",
+   "cat": "dene",
+   "area": "schaffhausen",
+   "title": "Ride the boat to the rock in the Rhine Falls",
+   "desc": "Boats leave from the Rheinfallquai in Neuhausen on the Felsenfahrt to the central rock, where steps lead to a viewing platform. The trip takes about 30 minutes.",
+   "tip": "Boats run April to October, weather permitting; prices vary by operator.",
+   "q": "Schifffahrt am Rheinfall, Rheinfallquai 30, 8212 Neuhausen am Rheinfall",
+   "ll": [
+    47.67801,
+    8.61192
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-th/experiences/schifffahrt-am-rheinfall/",
+    "https://www.guidle.com/en/excursions/neuhausen/boat-trips-at-the-rhine-falls_AqTTXVG"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "randenturm",
+   "cat": "dene",
+   "area": "schaffhausen",
+   "title": "Hike to the Schleitheimer Randenturm on the Randen",
+   "desc": "The Randen ridge has several lookout towers; the Schleitheimer Randenturm at 896 m has 100 steps and views to the Appenzell and Glarus regions. Routes from Schleitheim pass the Randenburg ruin.",
+   "tip": "Allow a half-day; a free Randenbus links Hemmental in the hiking season.",
+   "q": "Schleitheimer Randenturm, Randen, 8226 Schleitheim",
+   "ll": [
+    47.75136,
+    8.53875
+   ],
+   "src": [
+    "https://www.bergfex.com/sommer/ostschweiz/touren/wanderung/238944,schleitheimer-randenturm/",
+    "https://www.srf.ch/radio-srf-1/outdoor-reporter/wanderung-des-monats-februar-turmhopping-auf-dem-randen-im-nordoestlichsten-zipfel-der-schweiz"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "klettgauweg",
+   "cat": "dene",
+   "area": "schaffhausen",
+   "title": "Walk the Klettgau vineyards from Hallau",
+   "desc": "The Klettgau-Rhein-Weg starts in Hallau, the largest wine-growing town in German-speaking Switzerland and capital of Blauburgunder, and climbs to the Siblinger Randenhaus: 19 km in the first stage.",
+   "tip": "Take the train to Wilchingen-Hallau; shorter vineyard loops exist. Best in autumn.",
+   "q": "Hallau, Klettgau-Rhein-Weg, 8215 Hallau",
+   "ll": [
+    47.69775,
+    8.45984
+   ],
+   "src": [
+    "https://www.myswitzerland.com/de/erlebnisse/route/klettgau-rhein-weg-34_01/",
+    "https://www.swisswine.com/en/swiss-wine-regions/german-speaking-switzerland-wine-region/schaffhausen-en"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

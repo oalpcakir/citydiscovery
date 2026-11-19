@@ -1,0 +1,983 @@
+{
+ "new": [
+  {
+   "id": "kapellbruecke",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Cross the Kapellbrücke and its Wasserturm",
+   "desc": "The Kapellbrücke is a covered wooden footbridge over the Reuss, dated to around 1360 and often called the oldest surviving covered wooden bridge in Europe. The octagonal Wasserturm beside it is older, from about 1290 to 1300, and served as a prison, treasury and lighthouse. A fire on 18 August 1993 destroyed much of the bridge, which was rebuilt within about eight months.",
+   "tip": "Walk it early morning or after dark when the crowds thin. Free, open at all times.",
+   "q": "Kapellbrücke, Kapellplatz, 6003 Luzern",
+   "ll": [
+    47.05155,
+    8.3074
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Chapel_Bridge",
+    "https://www.luzern.com/de/poi/kapellbruecke"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "spreuerbruecke",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Read the Dance of Death on the Spreuerbrücke",
+   "desc": "The Spreuerbrücke is Lucerne's second surviving covered wooden bridge. Its gables hold Kaspar Meglinger's Totentanz cycle, painted in the early 17th century, showing death visiting people of every rank. The name comes from the chaff (Spreu) that millers were allowed to dump into the Reuss here.",
+   "tip": "Quieter than the Kapellbrücke; the chapel in the middle is worth a look. Free.",
+   "q": "Spreuerbrücke, Mühlenplatz, 6004 Luzern",
+   "ll": [
+    47.05198,
+    8.30187
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Spreuer_Bridge",
+    "https://www.luzern.com/de/poi/spreuerbruecke"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "loewendenkmal",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the dying Lion Monument carved into the rock",
+   "desc": "The Lion Monument is a rock relief of a wounded lion, designed by Bertel Thorvaldsen and carved by Lukas Ahorn in 1820-21. It commemorates the Swiss Guards who died defending the French royal family at the Tuileries on 10 August 1792. Around 1.4 million people visit each year.",
+   "tip": "Come early in the day for photos without crowds. Free, at all times.",
+   "q": "Löwendenkmal, Denkmalstrasse 4, 6006 Luzern",
+   "ll": [
+    47.05866,
+    8.31067
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Lion_Monument",
+    "https://www.luzern.com/de/poi/loewendenkmal"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gletschergarten",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore the Ice Age at the Gletschergarten",
+   "desc": "The Gletschergarten is a museum and park next to the Lion Monument, built around glacial potholes uncovered in the 19th century. It shows the Ice Age landscape of Lucerne and the region's history. Guided tours are also possible on request.",
+   "tip": "Open year round, roughly 10-18 in summer and 10-17 in winter; check gletschergarten.ch.",
+   "q": "Gletschergarten Luzern, Denkmalstrasse 4, 6006 Luzern",
+   "ll": [
+    47.05835,
+    8.31155
+   ],
+   "src": [
+    "https://gletschergarten.ch/en/",
+    "https://www.luzern.com/de/poi/gletschergarten"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "museggmauer",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk the Museggmauer and climb its towers",
+   "desc": "The Museggmauer is Lucerne's medieval city wall with nine surviving towers. The Schirmerturm (about 1420) and Zytturm (about 1442) can be climbed. The Zytturm holds the oldest tower clock in central Switzerland and an exhibition of historic tower clocks.",
+   "tip": "Towers are usually open from April to early November; the wall walk gives rooftop views over the old town. Check luzern.com for current times.",
+   "q": "Museggmauer, Musegghalde, 6004 Luzern",
+   "ll": [
+    47.05514,
+    8.30719
+   ],
+   "src": [
+    "https://www.luzern.com/de/poi/museggmauer",
+    "https://www.myswitzerland.com/en/experiences/musegg-wall"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "jesuitenkirche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step into the Baroque Jesuitenkirche by the Reuss",
+   "desc": "The Jesuitenkirche is described as the first major Baroque church in Switzerland. Its foundation stone was laid in 1666 and it was consecrated in 1677, with the twin towers added only in the 19th century. It is known for its stucco, high altar and organ.",
+   "tip": "Right by the station; entry is free. Dress modestly.",
+   "q": "Jesuitenkirche, Bahnhofstrasse 11a, 6003 Luzern",
+   "ll": [
+    47.0503,
+    8.3052
+   ],
+   "src": [
+    "https://www.luzern.com/de/poi/jesuitenkirche",
+    "https://hls-dhs-dss.ch/articles/011718"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hofkirche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Hear the Hofkirche organ in St. Leodegar",
+   "desc": "The Hofkirche St. Leodegar is Lucerne's main church, rebuilt after a fire in 1633. Its organ has about 7,000 pipes, with a prospectus from 1640. The church hosts Orgelgewitter midday concerts, where a rain machine from 1862 can be heard.",
+   "tip": "Check luzern.com for organ concerts. The church is free to visit.",
+   "q": "Hofkirche St. Leodegar, St.-Leodegar-Strasse 6, 6006 Luzern",
+   "ll": [
+    47.0556,
+    8.31408
+   ],
+   "src": [
+    "https://www.luzern.com/de/poi/hofkirche",
+    "https://luzern.com/en/highlights/sights/church-of-st-leodegar"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "kkl",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the KKL by Jean Nouvel on the lakefront",
+   "desc": "The Kultur- und Kongresszentrum Luzern (KKL) was designed by Jean Nouvel with acoustician Russell Johnson. The concert hall opened in 1998 and the complex was completed in 2000. Its huge cantilevered roof stretches over a pool beside the lake.",
+   "tip": "Public guided tours of about an hour (from CHF 20) must be booked; check luzern.com.",
+   "q": "KKL Luzern, Europaplatz 1, 6005 Luzern",
+   "ll": [
+    47.05045,
+    8.31225
+   ],
+   "src": [
+    "https://www.luzern.com/de/poi/kkl",
+    "https://en.wikipedia.org/wiki/Lucerne_Culture_and_Congress_Centre"
+   ]
+  },
+  {
+   "id": "verkehrshaus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Spend a day at the Swiss Museum of Transport",
+   "desc": "The Verkehrshaus was founded in 1959 and shows trains, cars, ships, aircraft and communication technology. It also includes the Hans Erni Museum, a planetarium, the Swiss Chocolate Adventure and a film theatre. It is among the most visited museums in Switzerland.",
+   "tip": "Adult entry about CHF 37; planetarium and extras are CHF 18 each. Reach it by bus, train (Verkehrshaus stop) or boat.",
+   "q": "Verkehrshaus der Schweiz, Haldenstrasse 44, 6006 Luzern",
+   "ll": [
+    47.0536,
+    8.3364
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Swiss_Museum_of_Transport",
+    "https://www.verkehrshaus.ch/en/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rosengart",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See Picasso and Klee at the Sammlung Rosengart",
+   "desc": "The Sammlung Rosengart grew from the private collection of art dealer Siegfried Rosengart and his daughter Angela. It holds works by Picasso, including five portraits of Angela, and about 125 works by Paul Klee. It also shows Miro, Chagall, Braque and Matisse.",
+   "tip": "Open daily, roughly 10-18 from April to October and 11-17 otherwise; check the museum's site.",
+   "q": "Museum Sammlung Rosengart, Pilatusstrasse 10, 6003 Luzern",
+   "ll": [
+    47.04968,
+    8.30732
+   ],
+   "src": [
+    "https://www.luzern.com/de/poi/museum-sammlung-rosengart",
+    "https://www.myswitzerland.com/en/experiences/museum-sammlung-rosengart"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "wagnermuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit Wagner's lakeside villa in Tribschen",
+   "desc": "Richard Wagner rented the Tribschen manor from 1866 to 1872 and completed parts of Die Meistersinger there. The house became a museum in 1933 and is set in a lakeside park. The Érard piano is a highlight.",
+   "tip": "Open Tuesday to Sunday 11-17 from April to November, closed in winter. Walk from the centre in about 30 minutes or take a boat in summer.",
+   "q": "Richard Wagner Museum, Richard-Wagner-Weg 27, 6005 Luzern",
+   "ll": [
+    47.04239,
+    8.32904
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Villa_Tribschen",
+    "https://www.myswitzerland.com/en/experiences/richard-wagner-museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bourbaki",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Be surrounded by the 1881 Bourbaki Panorama",
+   "desc": "The Bourbaki Panorama is a circular painting by Edouard Castres from 1881 showing the French Bourbaki army interned in Switzerland in the winter of 1871. About 10 metres high, it was moved to Lucerne from Geneva. The building now also houses a cinema and the city library.",
+   "tip": "Open roughly 10-18 from April to October; adult entry about CHF 15.",
+   "q": "Bourbaki Panorama, Löwenplatz 11, 6004 Luzern",
+   "ll": [
+    47.05618,
+    8.3107
+   ],
+   "src": [
+    "https://www.luzern.com/de/poi/bourbaki-panorama",
+    "https://www.bourbakipanorama.ch/en/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rathauskornmarkt",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the Renaissance Rathaus on the Kornmarkt",
+   "desc": "The Rathaus am Kornmarkt was built from 1602 to 1606 to plans by Anton Isenmann in Italian Renaissance style, topped with a deep farmhouse-style roof. The ground-floor Kornschütte once served as a grain market and is now used for exhibitions and concerts.",
+   "tip": "Free to see from the square; the Kornschütte hosts events and exhibitions.",
+   "q": "Rathaus am Kornmarkt, Kornmarkt 3, 6003 Luzern",
+   "ll": [
+    47.05203,
+    8.306
+   ],
+   "src": [
+    "https://www.luzern.com/de/poi/das-rathaus-am-kornmarkt",
+    "https://worldcitytrail.com/2025/01/04/rathaus-stadt-lucerne/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "weinmarkt",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stand on the Weinmarkt where the oath was sworn",
+   "desc": "The Weinmarkt is an old town square that was a fish market until the mid-16th century. Tradition says Lucerne swore its alliance with Uri, Schwyz and Unterwalden here in 1332. The late-Gothic fountain here dates from 1481; the original is in the Historical Museum.",
+   "tip": "Combine with the Hirschenplatz and Kapellplatz squares for painted facades. Free.",
+   "q": "Weinmarkt, 6004 Luzern",
+   "ll": [
+    47.05165,
+    8.30575
+   ],
+   "src": [
+    "https://www.luzern.com/de/poi/weinmarkt",
+    "https://www.luzern.com/de/poi/malerische-altstadtplaetze"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "historischesmuseumluzern",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Tour the former arsenal at the Historisches Museum",
+   "desc": "The Historisches Museum Luzern occupies the city armoury (Zeughaus) from the 1560s and opened as a museum on 23 May 1986. About 3,000 objects include flags, weapons and uniforms of the city and canton. A combined ticket also covers the Natur-Museum.",
+   "tip": "Open Tuesday to Sunday 10-17; closed Mondays. Combined adult ticket about CHF 12.",
+   "q": "Historisches Museum Luzern, Pfistergasse 24, 6003 Luzern",
+   "ll": [
+    47.053,
+    8.3036
+   ],
+   "src": [
+    "https://www.swiss-spectator.ch/museums/historical-museum-lucerne/",
+    "https://www.myswitzerland.com/en/experiences/historisches-museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "naturmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Meet local wildlife at the Natur-Museum Luzern",
+   "desc": "The Natur-Museum stands on Kasernenplatz beside the Reuss and the Spreuerbrücke, in a building from 1976 that opened in 1978. It shows Central Switzerland's nature in changing exhibitions. It is part of Museum Luzern.",
+   "tip": "Open Tuesday to Sunday 10-17; check museumluzern.ch for the current exhibition. Combined ticket with the Historical Museum.",
+   "q": "Natur-Museum Luzern, Kasernenplatz 6, 6003 Luzern",
+   "ll": [
+    47.05171,
+    8.30097
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Natur-Museum_Luzern",
+    "https://www.museumluzern.ch/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "peterskapelle",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find Lucerne's oldest church, the Peterskapelle",
+   "desc": "The Peterskapelle on Kapellplatz is considered the oldest church in Lucerne, with origins in the 12th century. The present building dates from the 18th century and gave the Kapellbrücke its name. It is used for services and cultural events including Lucerne Festival.",
+   "tip": "Often open during the day; free.",
+   "q": "Peterskapelle, Kapellplatz, 6003 Luzern",
+   "ll": [
+    47.05152,
+    8.3067
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/st-peterskapelle-st-peters-chapel",
+    "https://www.lucernefestival.ch/en/venue/198"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "franziskanerkirche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Look up at the pulpit of the Franziskanerkirche",
+   "desc": "The Franziskanerkirche was built in the 13th century by the Franciscans, who stayed in Lucerne until 1838. A Gothic church with later Renaissance and Baroque features, it has one of the most richly decorated pulpits in Switzerland. It was restored from 1986 to 1988.",
+   "tip": "Free entry; a quiet stop away from the main crowds.",
+   "q": "Franziskanerkirche, Franziskanerplatz, 6003 Luzern",
+   "ll": [
+    47.04968,
+    8.30346
+   ],
+   "src": [
+    "https://www.luzern.com/de/poi/franziskanerkirche",
+    "https://www.luzern.com/de/highlights/sehenswuerdigkeiten/die-franziskanerkirche/"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "reusswehr",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Watch the Reuss weir that controls the lake level",
+   "desc": "The Reusswehr (Nadelwehr) was built from 1859 to 1861 and regulates the level of Lake Lucerne. It is a monument of technical history and was enlarged in 2009 to 2011, raising outflow by a third. The best view is from the Spreuerbrücke.",
+   "tip": "Look upstream from the Spreuerbrücke; free.",
+   "q": "Nadelwehr Reusswehr, Reuss, 6004 Luzern",
+   "ll": [
+    47.05166,
+    8.30273
+   ],
+   "src": [
+    "https://www.luzern.com/de/poi/reusswehr",
+    "https://luzern.com/en/poi/needle-dam"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "guetsch",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Ride the Gütschbahn to the Gütsch viewpoint",
+   "desc": "The Gütsch is a hill above Lucerne with the Château Gütsch hotel and a short funicular that runs in about 100 seconds. The terrace looks over the city, lake and mountains. A marked hike leads on through the forest to Sonnenberg and Kriens.",
+   "tip": "A one-way funicular ticket costs about CHF 3. Go at sunset for the best light.",
+   "q": "Château Gütsch, Kanonenstrasse 1, 6003 Luzern",
+   "ll": [
+    47.05167,
+    8.29492
+   ],
+   "src": [
+    "https://www.luzern.com/de/poi/guetsch",
+    "https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/G%C3%BCtschbahn"
+   ]
+  },
+  {
+   "id": "dietschiberg",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk up the Dietschiberg for the city view",
+   "desc": "The Dietschiberg is a viewpoint above the lake east of the city, with a restaurant and views of Lucerne, Pilatus and the surrounding mountains. A tourism route runs from Schwanenplatz via Haldenstrasse up to the hill and the Schloss Utenberg viewpoint.",
+   "tip": "Buses 6 and 8 take about 10 minutes from the centre. Allow a few hours for the walk.",
+   "q": "Dietschiberg, Dietschibergstrasse, 6006 Luzern",
+   "ll": [
+    47.06439,
+    8.339
+   ],
+   "src": [
+    "https://www.luzern.com/en/tour/via-meggen-to-dietschiberg",
+    "https://www.alpen-guide.de/reisefuehrer/poi/dietschiberg-luzern"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "lido",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Swim at the Strandbad Lido on the lake",
+   "desc": "The Strandbad Lido is a lakeside beach next to the Verkehrshaus, along the Luzerner Seeuferweg. It offers swimming in Lake Lucerne and views towards the mountains. Sources disagree whether entry is free or about CHF 8, so check before going.",
+   "tip": "Summer only; combine with a walk along the lake path from the centre.",
+   "q": "Strandbad Lido Luzern, Lidostrasse 6a, 6006 Luzern",
+   "ll": [
+    47.04982,
+    8.33601
+   ],
+   "src": [
+    "https://www.luzern.com/de/poi/lido-luzern",
+    "https://www.myswitzerland.com/en/experiences/lucerne-lido"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "seebad",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Dip into the lake at the Seebad on the Nationalquai",
+   "desc": "The Seebad Luzern is an old lakeside bathing house on the Nationalquai with a swimming area, restaurant and bar. It is just a short walk from the station. Entry is charged during swimming hours.",
+   "tip": "Adults about CHF 6 to 8; cheaper lunch and evening entry. Open in summer until about 20:00.",
+   "q": "Seebad Luzern, Nationalquai 3, 6002 Luzern",
+   "ll": [
+    47.05459,
+    8.31864
+   ],
+   "src": [
+    "https://www.luzern.com/de/poi/seebad-luzern",
+    "https://www.badi-info.ch/lu/luzern-seebad.html"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "ufschoetti",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Lounge on the free beach at the Ufschötti",
+   "desc": "The Ufschötti is a public lakeside park with lawns and a sandy beach of almost 200 metres in the Tribschen-Langensand district. There is a kiosk and beach bar in summer. Entry is free.",
+   "tip": "A few minutes south of the station; dogs must be on a leash.",
+   "q": "Ufschötti, Alpenquai, 6005 Luzern",
+   "ll": [
+    47.04639,
+    8.31953
+   ],
+   "src": [
+    "https://www.luzern.com/de/poi/ufschoetti-luzern",
+    "https://www.badi-info.ch/lu/strandbad-aufschuette.html"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "sgvschiff",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Board a steamer on the lake in front of the station",
+   "desc": "The Lake Lucerne Navigation Company (SGV) runs 21 ships, including five historic paddle steamers, from piers directly in front of Lucerne station. The flagship paddle steamer Stadt Luzern has served since 1928. Boats call at the lake towns and in summer at the Richard-Wagner-Museum stop.",
+   "tip": "Check the timetable at lakelucerne.ch; a day pass covers many routes.",
+   "q": "SGV Schifffahrt Luzern, Anlegestellen Bahnhofquai, 6002 Luzern",
+   "ll": [
+    47.0508,
+    8.3098
+   ],
+   "src": [
+    "https://www.luzern.com/de/poi/schifffahrten-auf-dem-vierwaldstaettersee",
+    "https://en.wikipedia.org/wiki/Lake_Lucerne_Navigation_Company"
+   ]
+  },
+  {
+   "id": "pedalo",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Rent a pedalo at Schwanenplatz",
+   "desc": "A pedalo and small-boat rental runs at Schwanenplatz and is described as operating since 1863. The small motorboats take up to eight people and need no licence. It lets you see the old town and quays from the water.",
+   "tip": "Open in summer; ask the operator for prices and hours.",
+   "q": "Pedalo Luzern, Schwanenplatz, 6002 Luzern",
+   "ll": [
+    47.05317,
+    8.3094
+   ],
+   "src": [
+    "https://www.luzern.com/de/poi/pedalo-luzern",
+    "https://www.luzern.com/de/highlights/der-see/pedalo-mieten/"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "reusszopf",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cool off at the Reusszopf on the river Reuss",
+   "desc": "The Reusszopf is a bathing bay on the Reuss, about 50 metres long with a shallow area, and a playground beside the Nordpol summer bar. The city has signposted the entry point at Sentimatt and the exit. There is no lifeguard and the current can be strong.",
+   "tip": "Only for confident swimmers; check river conditions and the city's river map first.",
+   "q": "Reusszopf, Reussbühl, 6015 Luzern",
+   "ll": [
+    47.06621,
+    8.28259
+   ],
+   "src": [
+    "https://www.badi-info.ch/lu/luzern-reusszopf.html",
+    "https://www.inyourpocket.com/switzerland/lucerne/venues/floating-down-the-river-reuss"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "wochenmarkt",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Wochenmarkt along the Reuss",
+   "desc": "Lucerne's weekly market runs on Tuesdays and Saturdays on both banks of the Reuss, selling regional produce, cheese and bread. Stalls line the Rathausquai, Unter der Egg and Bahnhofstrasse. A fish market also runs under the Egg on some days.",
+   "tip": "Hours vary by source, roughly 6-12 or 7-12; go in the morning.",
+   "q": "Wochenmarkt Rathausquai, 6003 Luzern",
+   "ll": [
+    47.0519,
+    8.3063
+   ],
+   "src": [
+    "https://www.luzern.com/de/poi/wochenmarkt-weekly-market",
+    "https://www.luzern.com/de/stadt/erleben/shopping/maerkte-in-luzern"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stadtkeller",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Join the folklore dinner show at the Stadtkeller",
+   "desc": "The Stadtkeller on Sternenplatz stages a Swiss folklore show with alphorn, cowbells, flag-waving and yodelling. It runs mainly April to October with a dinner and show. Concerts take place in winter.",
+   "tip": "Book ahead; the evening runs about 2.5 hours. Dinner prices have been around CHF 72-85.",
+   "q": "Stadtkeller, Sternenplatz 3, 6004 Luzern",
+   "ll": [
+    47.05295,
+    8.30717
+   ],
+   "src": [
+    "https://www.luzern.com/en/gastro/restaurant-stadtkeller",
+    "https://www.inyourpocket.com/stadtkeller_125207v"
+   ]
+  },
+  {
+   "id": "seepromenade",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Stroll the Nationalquai and Seepromenade",
+   "desc": "Lucerne's lake promenade runs from Schweizerhofquai past the Kurplatz and its music pavilion along the Nationalquai, lined with two rows of chestnut trees. It continues past the Seebad and the KKL towards the Verkehrshaus and Lido. It takes about 50 minutes from the station to Seeburg.",
+   "tip": "Brass band concerts at the pavilion on Tuesday and Friday 20:15 and Sunday 10:15 from May to September.",
+   "q": "Nationalquai, 6002 Luzern",
+   "ll": [
+    47.05442,
+    8.31244
+   ],
+   "src": [
+    "https://www.luzern.com/de/poi/luzerner-seepromenade",
+    "https://www.alpen-guide.de/reisefuehrer/poi/nationalquai-luzern"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "alpenquai",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk from Alpenquai to the Tribschenhorn",
+   "desc": "A footpath leads from the city along the Alpenquai to the Tribschen area in about half an hour. A lakeside path circles the Tribschenhorn, and a playground sits beside the Tribschen beach and boat landing. It passes the Richard Wagner Museum.",
+   "tip": "Combine with the Wagner museum; buses 6, 7, 8 and 21 return from Wartegg.",
+   "q": "Alpenquai, 6005 Luzern",
+   "ll": [
+    47.04676,
+    8.31759
+   ],
+   "src": [
+    "https://www.luzern.com/de/poi/spielplatz-richard-wagner-museum-strand-luzern",
+    "https://www.stadtluzern.ch/_doc/4878688"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "fasnachtluzern",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Join the Luzerner Fasnacht at the Urknall",
+   "desc": "Lucerne carnival starts on Schmutziger Donnerstag at 5 am on Kapellplatz with the Urknall. At 14:00 the Fritschi parade of the Safran guild moves through the city. Further parades follow on Güdismontag and Güdisdienstag.",
+   "tip": "Dates vary each year (4 February 2027 for the start); check the Luzern Tourismus calendar.",
+   "q": "Kapellplatz, 6003 Luzern",
+   "ll": [
+    47.0514,
+    8.307
+   ],
+   "src": [
+    "https://www.luzern.com/de/highlights/fasnacht-in-luzern/",
+    "https://www.luzern.com/de/event/luzerner-fasnacht"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    2
+   ]
+  },
+  {
+   "id": "lucernefestival",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Hear a concert at Lucerne Festival in the KKL",
+   "desc": "The Lucerne Festival Summer Festival is centred on the KKL, with over 100 events in August and September. Some events take place in churches, museums and on Europaplatz. The 2026 edition ran 13 August to 13 September.",
+   "tip": "Book tickets well ahead at lucernefestival.ch.",
+   "q": "KKL Luzern, Europaplatz 1, 6005 Luzern",
+   "ll": [
+    47.0501,
+    8.313
+   ],
+   "src": [
+    "https://en.wikipedia.com/wiki/Lucerne_Festival",
+    "https://www.myswitzerland.com/en-ch/experiences/events/lucerne-festival-in-summer/"
+   ],
+   "months": [
+    8,
+    9
+   ]
+  },
+  {
+   "id": "neustadtwalk",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Follow the Neustadt walking route",
+   "desc": "The Hirschmatt-Neustadt is the most urban quarter of Lucerne, with small shops, galleries, bars and cinemas. A self-guided walking route of about 1.8 km has 14 stations from the Lucerne Theatre or Chapel Bridge to the Helvetiagärtli. Many venues have garden terraces.",
+   "tip": "Look for the Saturday market at the Helvetiagärtli; allow an hour.",
+   "q": "Helvetiagärtli, Neustadt, 6003 Luzern",
+   "ll": [
+    47.0487,
+    8.3033
+   ],
+   "src": [
+    "https://www.luzern.com/de/tour/neustadt-walking-route",
+    "https://www.luzern.com/de/highlights/die-stadt/hirschmatt-neustadt/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "taube",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Swiss classics at Wirtshaus Taube on the Reuss",
+   "desc": "Wirtshaus Taube sits on the Reuss with a terrace facing the Chapel Bridge, serving Swiss cuisine in an inn that traces its traditional cooking back to the 1770s. Its site shows the traditional Lucerne Pastetli.",
+   "tip": "Open daily 11:30-23:30; ask for the Luzerner Pastetli and book the terrace.",
+   "q": "Wirtshaus Taube, Burgerstrasse 3, 6003 Luzern",
+   "ll": [
+    47.05072,
+    8.30311
+   ],
+   "src": [
+    "https://www.luzern.com/en/gastro/wirtshaus-taube",
+    "https://www.myswitzerland.com/en-ch/experiences/food-wine/restaurant/wirtshaus-zur-taube/"
+   ]
+  },
+  {
+   "id": "pfistern",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try fondue at the Zunfthaus Pfistern",
+   "desc": "The Zunfthausrestaurant Pfistern is a guild house at Kornmarkt 4, said to date from 1578, with a sun terrace on the Reuss facing the Kapellbrücke. The guild of bakers and millers was founded in 1408. Swiss and Mediterranean dishes are served, with fondue and raclette specialities.",
+   "tip": "Open from morning to midnight; there is a daily lunch menu.",
+   "q": "Zunfthausrestaurant Pfistern, Kornmarkt 4, 6003 Luzern",
+   "ll": [
+    47.0518,
+    8.30582
+   ],
+   "src": [
+    "https://www.luzern.com/de/gastro/zunfthausrestaurant-pfistern",
+    "https://www.myswitzerland.com/en-gb/experiences/food-wine/restaurant/zunftrestaurant-pfistern/"
+   ]
+  },
+  {
+   "id": "galliker",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order Luzerner Chügelipastete at Wirtshaus Galliker",
+   "desc": "Wirtshaus Galliker has been run by the Galliker family for four generations and dates to about 1856. The menu centres on Lucerne home cooking, including Luzerner Kügelipastetli, pot-au-feu and Markbein. It is rated highly by guests for its portions and historic feel.",
+   "tip": "Open Tuesday to Saturday for lunch and dinner; book ahead.",
+   "q": "Wirtshaus Galliker, Schützenstrasse 1, 6003 Luzern",
+   "ll": [
+    47.05096,
+    8.3008
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/wirtshaus-galliker/",
+    "https://fodors.fodors.com/world/europe/switzerland/luzern-and-central-switzerland/restaurants/reviews/galliker-466940"
+   ]
+  },
+  {
+   "id": "oldswisshouse",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Watch Wiener Schnitzel finished at the Old Swiss House",
+   "desc": "The Old Swiss House is in a half-timbered house from 1858 near the Lion Monument and became a restaurant in 1931. Its signature dish is a Wiener Schnitzel of veal prepared at the table. It is listed in the Michelin Guide.",
+   "tip": "Reserve; open Tuesday to Saturday for lunch and dinner.",
+   "q": "Old Swiss House, Löwenplatz 4, 6004 Luzern",
+   "ll": [
+    47.05733,
+    8.31118
+   ],
+   "src": [
+    "https://guide.michelin.com/en/luzern-region/luzern/restaurant/old-swiss-house",
+    "https://www.frommers.com/destinations/lucerne/restaurants/old-swiss-house/"
+   ]
+  },
+  {
+   "id": "bachmann",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste Luzerner Lebkuchen at Confiserie Bachmann",
+   "desc": "Confiserie Bachmann's flagship at Schwanenplatz is a family-owned confectioner of about 120 years. It has a Chocolate World with a flowing chocolate wall and a café. The Luzerner Lebkuchen is made with cream and concentrated pear juice from Central Switzerland.",
+   "tip": "Open daily, longer hours at weekends; check confiserie.ch.",
+   "q": "Confiserie Bachmann, Schwanenplatz 7, 6004 Luzern",
+   "ll": [
+    47.05376,
+    8.30863
+   ],
+   "src": [
+    "https://www.luzern.com/en/poi/confiserie-bachmann",
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/confiserie-bachmann-schwanenplatz/"
+   ]
+  },
+  {
+   "id": "rathausbrauerei",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink house-brewed beer at the Rathaus Brauerei",
+   "desc": "The Rathaus Brauerei brews its own beer at Unter der Egg, brewed with Pilatus spring water to the 1516 purity law, with seasonal specials. Time Out highlights the Ratskellertopf, a slow-cooked beef shoulder dish, and the Isenegger Buurebrat sausage. A terrace sits on the Reuss.",
+   "tip": "Order the naturtrüb beer by the pitcher; open most days from 10.",
+   "q": "Rathaus Brauerei, Unter der Egg 2, 6004 Luzern",
+   "ll": [
+    47.05225,
+    8.30545
+   ],
+   "src": [
+    "https://www.luzern.com/en/gastro/restaurant-rathaus-brauerei",
+    "https://timeout.com/switzerland/restaurants/rathaus-brauerei"
+   ]
+  },
+  {
+   "id": "schiff",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Ächti Lozärner Chögelipastete at Restaurant Schiff",
+   "desc": "Restaurant Schiff at Unter der Egg lists the Ächti Lozärner Chögelipastete, a vol-au-vent with veal ragout, on its menus. The street sits on the Reuss in the old town. It also serves Zurich-style sliced veal.",
+   "tip": "Open from 10 until midnight on most days; Sunday has shorter hours.",
+   "q": "Restaurant Schiff, Unter der Egg 8, 6004 Luzern",
+   "ll": [
+    47.05235,
+    8.3051
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/restaurant-schiff-1/"
+   ]
+  },
+  {
+   "id": "wildenmann",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try Luzerner Chügelipastete in the Burgerstube",
+   "desc": "The Burgerstube of Hotel Wilden Mann keeps its 1908 neo-Gothic look with dark wood and bottle-glass windows. Its house specialty is the Luzerner Chügelipastete with vegetables and sultanas soaked in cognac. It is listed in the Michelin Guide.",
+   "tip": "Open Monday to Saturday for lunch and dinner; closed Sundays.",
+   "q": "Burgerstube Hotel Wilden Mann, Bahnhofstrasse 30, 6003 Luzern",
+   "ll": [
+    47.05085,
+    8.3059
+   ],
+   "src": [
+    "https://www.luzern.com/en/gastro/burgerstube-wild-man",
+    "https://www.myswitzerland.com/en-au/experiences/food-wine/restaurant/hotel-wilden-mann-burgerstube/"
+   ]
+  },
+  {
+   "id": "rebstock",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Finish with Vogelheu at the Rebstock Hofstube",
+   "desc": "The Rebstock Hofstube sits at the foot of the Hofkirche in a medieval winegrower's house. Switzerland Tourism lists rösti and Chügelipastetli among its signature dishes. The dessert Vogelheu is batter-fried croissants dusted with sugar and cinnamon.",
+   "tip": "Open daily from morning; a short walk from the Hofkirche.",
+   "q": "Hotel Rebstock Restaurant Hofstube, St.-Leodegar-Strasse 3, 6006 Luzern",
+   "ll": [
+    47.0524,
+    8.3108
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/hotel-rebstock-restaurant-bar/",
+    "https://fodors.fodors.com/world/europe/switzerland/luzern-and-central-switzerland/restaurants/reviews/rebstockhofstube-466858"
+   ]
+  },
+  {
+   "id": "heini",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have cake at Café Heini on Bahnhofplatz",
+   "desc": "Café Heini is a family-run café and Konditorei on Bahnhofplatz, a Lucerne family business since 1957. It is known for a wide variety of tortes. It serves breakfast, coffee and small meals.",
+   "tip": "Open daily, around 7:00 on weekdays; busy at peak times.",
+   "q": "Café Heini Bahnhofplatz, Bahnhofplatz 3, 6003 Luzern",
+   "ll": [
+    47.0501,
+    8.3099
+   ],
+   "src": [
+    "https://www.luzern.com/de/gastro/cafe-heini-bahnhofplatz",
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/heini-conditorei-bahnhofplatz-luzern/"
+   ]
+  },
+  {
+   "id": "reussfaehre",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine on the Reuss bank at Wirtshaus Reussfähre",
+   "desc": "Wirtshaus Reussfähre serves traditional Swiss food on a terrace on the banks of the Reuss, within about 10 minutes' walk of the centre. The price is listed as medium. It is open Tuesday to Saturday.",
+   "tip": "Closed Sunday and Monday; good in summer on the terrace.",
+   "q": "Wirtshaus Reussfähre, Sentimattstrasse 14, 6003 Luzern",
+   "ll": [
+    47.05475,
+    8.29339
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/wirtshaus-reussfaehre/"
+   ]
+  },
+  {
+   "id": "balances",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine on the Reuss terrace at Hotel des Balances",
+   "desc": "The restaurant of Hotel des Balances on the Weinmarkt has a riverside terrace seating about 96 with views of the Kapellbrücke. Michelin lists it with classic and Mediterranean cuisine, and the chef holds 14 Gault Millau points. The hotel has 56 rooms.",
+   "tip": "Open daily; the terrace is seasonal. Book for dinner.",
+   "q": "Hotel des Balances, Weinmarkt, 6004 Luzern",
+   "ll": [
+    47.0518,
+    8.306
+   ],
+   "src": [
+    "https://www.luzern.com/de/gastro/restaurant-balances",
+    "https://guide.michelin.com/en/luzern-region/luzern/restaurant/des-balances"
+   ]
+  },
+  {
+   "id": "nordpol",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have a drink at the Nordpol summer bar",
+   "desc": "Nordpol is a summer bar at the Reusszopf focused on regional and homemade food and drinks, set beside a beach, playground and BBQ area. It donates CHF 12,000 a year to Wasser für Wasser projects. The season runs April to October.",
+   "tip": "Open from late morning in good weather; bus 2 to Reussbühl Schiff.",
+   "q": "Nordpol, Reusszopf, Reussbühl, 6015 Luzern",
+   "ll": [
+    47.06517,
+    8.28464
+   ],
+   "src": [
+    "https://luzern.com/en/gastro/nordpol",
+    "https://wfw.ch/en/switzerland/projects/further/nordpol"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "barmettler",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Buy fondue cheese at Chäs Barmettler",
+   "desc": "Chäs Barmettler is a family-run cheese shop in the old town, noted since 1972 for Swiss cheese. It sells its own fondue mixes to make at home, raclette cheese and sheep and buffalo milk products. The Barmettler cheese is also used in 20 fondue variations on a Lucerne boat restaurant.",
+   "tip": "Check opening times locally; pick up Sbrinz, a Central Swiss cheese.",
+   "q": "Chäs Barmettler, Hertensteinstrasse 2, 6004 Luzern",
+   "ll": [
+    47.05571,
+    8.31027
+   ],
+   "src": [
+    "https://www.inyourpocket.com/Switzerland/lucerne/venues/chas-barmettler",
+    "https://www.luzern.com/de/highlights/herzenstipps-aus-luzern/winterzeit-ist-fonduezeit"
+   ]
+  },
+  {
+   "id": "hemingway",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sip rum at the Hemingway Rum Lounge",
+   "desc": "The Hemingway Rum Lounge in the Art Deco Hotel Montana is a rum and cigar bar with over 60 rums and a dark green ceiling. The hotel is a 1910 building on a hill above the lake. It is a smoking venue and also has a rooftop beach bar.",
+   "tip": "Opens from about 17:00; later on Friday and Saturday.",
+   "q": "Hemingway Rum Lounge, Adligenswilerstrasse 22, 6002 Luzern",
+   "ll": [
+    47.0535,
+    8.3172
+   ],
+   "src": [
+    "https://www.hotel-montana.ch/en/restaurants-bar/hemingway-rum-cigar-lounge",
+    "https://www.barnews.ch/en/bars-lokale/louis-bar-hemingway-rum-lounge/13060/"
+   ]
+  },
+  {
+   "id": "tacuba",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Start the day with brunch at Café Tacuba Neustadt",
+   "desc": "Café Tacuba Neustadt is a specialty coffee café on Hirschmattstrasse with home-roasted beans and a long breakfast and brunch menu. It sits in the Hirschmatt-Neustadt quarter. It is a local counterpart to the old town cafés.",
+   "tip": "Go for weekend brunch; open hours vary.",
+   "q": "Café Tacuba Neustadt, Hirschmattstrasse, 6003 Luzern",
+   "ll": [
+    47.0475,
+    8.30721
+   ],
+   "src": [
+    "https://www.luzern.com/en/gastro/cafe-tacuba-neustadt"
+   ]
+  }
+ ]
+}

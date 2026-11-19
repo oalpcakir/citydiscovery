@@ -1,0 +1,420 @@
+{
+ "new": [
+  {
+   "id": "castelgrande",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the walls of Castelgrande in Bellinzona",
+   "desc": "Castelgrande is the largest of the three Castles of Bellinzona, inscribed as UNESCO World Heritage in 2000. Its south-wing museum, restored by Aurelio Galfetti between 1980 and 1991, traces 6,500 years of human presence on the hill.",
+   "tip": "Listed daily 10:00 to 18:00; a lift runs from the old town.",
+   "q": "Castelgrande, Salita al Castelgrande, Bellinzona",
+   "ll": [
+    46.1936,
+    9.0215
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-us/experiences/the-fortress-of-bellinzona/",
+    "https://www.bellinzonaevalli.ch/en/discover/castles.html"
+   ]
+  },
+  {
+   "id": "sassocorbaro",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb to Sasso Corbaro above Bellinzona",
+   "desc": "Sasso Corbaro, built in 1479, is the highest of the three Bellinzona castles, about 230 m above town. It looks north up the Riviera and south to the Lake Maggiore basin. Osteria Sasso Corbaro serves Ticinese dishes.",
+   "tip": "Open 10:00 to 18:00 from late March to early November; only courtyards in winter. Walk up from Montebello or take bus 4.",
+   "q": "Castello di Sasso Corbaro, Bellinzona",
+   "ll": [
+    46.18812,
+    9.03013
+   ],
+   "src": [
+    "https://www.ticino.ch/en/commons/details/The-Castle-of-Sasso-Corbaro/2797.html",
+    "https://www.wikipedia.com/wiki/Sasso_Corbaro"
+   ]
+  },
+  {
+   "id": "montegeneroso",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the cog railway to Monte Generoso",
+   "desc": "The Ferrovia Monte Generoso is Ticino's only cog railway, running about 9 km from Capolago to the 1,704 m summit in roughly 40 minutes. At the top stands Mario Botta's Fiore di Pietra building with restaurant and event space.",
+   "tip": "Boats run from Lugano to Capolago; check montegeneroso.ch for timetables, as service is seasonal.",
+   "q": "Fiore di Pietra, Monte Generoso Vetta",
+   "ll": [
+    45.92818,
+    9.0188
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/monte-generoso/",
+    "https://www.luganoregion.com/en/commons/details/Monte-Generoso-architecture-and-nature/150897.html"
+   ]
+  },
+  {
+   "id": "processionimendrisio",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch the Easter processions in Mendrisio",
+   "desc": "On Holy Thursday and Good Friday evenings the historic Borgo is lit by illuminated 'trasparenti' lanterns for the Processioni storiche, a tradition of about four centuries, on Switzerland's list of living traditions. In 2023 an estimated 25,000 people attended.",
+   "tip": "Held only at Easter (dates vary); arrive early and consider the guided visits advertised by Mendrisiotto Turismo.",
+   "q": "Borgo di Mendrisio, Mendrisio",
+   "ll": [
+    45.87025,
+    8.98734
+   ],
+   "src": [
+    "https://www.ticino.ch/it/inspirations/stories/processions.html",
+    "https://www.rsi.ch/news/ticino-e-grigioni-e-insubria/Trasparenti-fuori-dai-depositi-10257476.html"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    3,
+    4
+   ]
+  },
+  {
+   "id": "parcoscherrer",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stroll the lakeside Parco Scherrer in Morcote",
+   "desc": "Parco Scherrer is a subtropical garden on Lake Lugano, shaped by textile merchant Scherrer from 1930 until his death in 1956 and left to Morcote in 1965. It combines Mediterranean and Asian sections with sculptures and monument replicas.",
+   "tip": "Best in spring for azaleas and camellias; seasonal hours (roughly mid-March to October). Entry price varies by listing.",
+   "q": "Parco Scherrer, Morcote",
+   "ll": [
+    45.92394,
+    8.91094
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/parco-scherrer",
+    "https://grandigiardini.it/lang_EN/giardini-scheda.php?id=200"
+   ],
+   "months": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "swissminiatur",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "See Switzerland in miniature at Swissminiatur",
+   "desc": "Opened in 1959 on the shore of Lake Lugano at Melide, Swissminiatur displays scale models of Swiss landmarks and trains. The 2026 season added a model of the Sessa gold mine and a TILO FLIRT train.",
+   "tip": "Open daily until 8 November 2026, 09:00 to 18:00; check swissminiatur.ch for the reduced off-season.",
+   "q": "Swissminiatur, Via Cantonale, Melide",
+   "ll": [
+    45.95362,
+    8.95075
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/swissminiatur",
+    "https://www.tilo.ch/en/news/2026/swissminiatur/"
+   ],
+   "months": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "id": "parcosangrato",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk through Parco San Grato in Carona",
+   "desc": "The botanical park on the hillside above Lugano covers about 200,000 m2 and holds the largest collection of azaleas, rhododendrons and conifers in the Insubria region, with five themed trails. Admission is free.",
+   "tip": "Peak bloom is April and May; take bus 434 from Lugano.",
+   "q": "Parco San Grato, Carona",
+   "ll": [
+    45.94998,
+    8.93114
+   ],
+   "src": [
+    "https://www.ticino.ch/en/commons/details/San-Grato-Park-Carona/94113.html",
+    "https://www.myswitzerland.com/en/experiences/parco-san-grato/"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "museofossilimeride",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Meet 240-million-year-old reptiles in Meride",
+   "desc": "The fossil museum in Meride, remodelled by Mario Botta and opened on 13 October 2012, shows animals and plants from the UNESCO Monte San Giorgio, with AR and VR animations on four floors. A 2.5 m Ticinosuchus reconstruction greets visitors in the village.",
+   "tip": "Closed Mondays; open about 09:00 to 17:00 otherwise.",
+   "q": "Museo dei fossili del Monte San Giorgio, Via Bernardo Peyer 9, Meride",
+   "ll": [
+    45.89056,
+    8.95318
+   ],
+   "src": [
+    "https://www.ticino.ch/commons/details/Museo-dei-fossili-del-Monte-San-Giorgio/2778.html",
+    "https://www.myswitzerland.com/en/experiences/museo-dei-fossili-di-meride/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mevmcabbio",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the open-air museum of the Valle di Muggio",
+   "desc": "The Museo etnografico della Valle di Muggio, founded in 1980 with its seat in 17th-century Casa Cantoni in Cabbio (opened 2003), works as an open-air museum with restored sites such as the Bruzella mill and the nevère snow cellars on Monte Generoso.",
+   "tip": "Start at Casa Cantoni; one listing gave 14:00 to 17:00 daily, so confirm by phone +41 91 690 20 38.",
+   "q": "Museo etnografico della Valle di Muggio, Casa Cantoni, Cabbio",
+   "ll": [
+    45.89835,
+    9.04622
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-gb/experiences/museo-etnografico-paesaggio-antropico/",
+    "https://www.ticino.ch/it/commons/details/Museo-etnografico-della-Valle-di-Muggio-MEVM-/2764.html"
+   ]
+  },
+  {
+   "id": "cascataforoglio",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Foroglio waterfall in Valle Bavona",
+   "desc": "The Cascata di Foroglio drops about 100 m in the Valle Bavona beside the hamlet of Foroglio, and the area was reportedly used for Leni Riefenstahl's 1932 film Das blaue Licht.",
+   "tip": "From Bignasco take the bus or drive 6.6 km up the Bavona; the valley has little electricity or services.",
+   "q": "Cascata di Foroglio, Foroglio, Valle Bavona",
+   "ll": [
+    46.37096,
+    8.54455
+   ],
+   "src": [
+    "https://www.ticino.ch/it/inspirations/experiences/waterfall-foroglio.html",
+    "https://swissfamilyfun.com/foroglio-waterfall/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "laforoglio",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat polenta and codighe at La Froda in Foroglio",
+   "desc": "La Froda, in operation since 1928, is the only place to eat in Foroglio, with a terrace facing the waterfall. The menu leans on Maggia valley cheese, polenta, codighe sausages and salami.",
+   "tip": "Busy in season; there is no electricity in the valley. Bring a layer for the evenings.",
+   "q": "Ristorante La Froda, Foroglio, Valle Bavona",
+   "ll": [
+    46.37367,
+    8.54744
+   ],
+   "src": [
+    "https://www.blick.ch/life/reisen/ch/tessin/ausflugs-tipp-fuers-tessin-la-froda-eine-eindrueckliche-szenerie-id3034961.html",
+    "https://www.komoot.com/highlight/777246"
+   ]
+  },
+  {
+   "id": "boscogurin",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Bosco Gurin, Ticino's German-speaking Walser village",
+   "desc": "Bosco Gurin at about 1,506 m is the highest village in Ticino and the only German-speaking one, founded by Walser settlers. Its Walserhaus museum, opened in 1938, is the canton's oldest ethnographic museum.",
+   "tip": "Museum hours vary (about 13:30 to 16:00, April to October); check walserhaus.ch or call +41 91 754 18 19.",
+   "q": "Museo Walserhaus, Bosco Gurin",
+   "ll": [
+    46.31721,
+    8.48998
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Museum_Walserhaus",
+    "https://www.ticino.ch/en/commons/details/Walsermuseum/2763.html"
+   ]
+  },
+  {
+   "id": "dazigrande",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stop at the old customs house Dazio Grande",
+   "desc": "Dazio Grande in Rodi-Fiesso is a former customs house dating from 1561, built where the gorge formed a border with Milanese territory. Today it houses a restaurant, rooms and a gorge exhibit, near the Piottino gorge on the ViaGottardo trail.",
+   "tip": "Walk the ViaGottardo into the gorge from here.",
+   "q": "Dazio Grande, Rodi-Fiesso",
+   "ll": [
+    46.48862,
+    8.74698
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Rodi_(Prato_Leventina)",
+    "https://www.myswitzerland.com/en/experiences/route/viagottardo-7_13/"
+   ]
+  },
+  {
+   "id": "sassosangottardo",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Tour the secret fortress Sasso San Gottardo",
+   "desc": "Sasso San Gottardo is a former Swiss fortification inside the mountain at the Gotthard Pass, in the Airolo area; it opened as a museum on 25 August 2012 after ceasing combat use in 1998, with an inclined lift called Metro del Sasso.",
+   "tip": "2025 tickets: CHF 20 small tour, CHF 25 large tour. Season roughly June to October; check sasso-sangottardo.ch.",
+   "q": "Sasso San Gottardo, Passo del San Gottardo, Airolo",
+   "ll": [
+    46.5587,
+    8.56631
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/fondazione-sasso-san-gottardo",
+    "https://www.radissonhotels.com/en-us/destination/switzerland/airolo/sasso-san-gottardo"
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "mercatobellinzona",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Browse the Saturday market in Bellinzona",
+   "desc": "The Saturday market fills the old town year-round with seasonal fruit, vegetables, local cheese and bread, as well as crafts. Many bars and restaurants offer a Market Menu.",
+   "tip": "Runs about 07:30 to 13:00 on Saturdays; weekly guided tours start at Piazza Collegiata.",
+   "q": "Piazza Nosetto, Bellinzona",
+   "ll": [
+    46.19103,
+    9.02252
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/bellinzona-saturday-market",
+    "https://www.luganoregion.com/en/commons/details/The-market-of-Bellinzona/2895.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ritompiora",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the funicular up to Lago Ritom",
+   "desc": "The Ritom funicular climbs from Piotta (1,010 m) to Piora (1,796 m) with a gradient up to 87.8%, among the steepest in the world. Lago Ritom is a reservoir about a 15 to 20 minute walk away, and a 12 km loop leads to Lago Cadagno.",
+   "tip": "Runs roughly May to October; the Rifugio Ristorante Lago Ritom is open in the same months.",
+   "q": "Funicolare Ritom, Piotta",
+   "ll": [
+    46.51747,
+    8.67478
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ritom_funicular",
+    "https://www.myswitzerland.com/en/experiences/ritom-piora-funicular-railway/"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "luzzonewall",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Climb or walk around the Luzzone dam in Blenio",
+   "desc": "The Luzzone dam (completed 1963, about 225 m high) carries the highest artificial climbing wall in the world, with more than 600 holds, open roughly May to October. An easy loop of about 6.4 km goes around the lake.",
+   "tip": "Climbing is possible May to October; walkers can do the lake loop. Access from Olivone.",
+   "q": "Diga del Luzzone, Olivone, Valle di Blenio",
+   "ll": [
+    46.56295,
+    8.96346
+   ],
+   "src": [
+    "https://www.thecrag.com/de/klettern/switzerland/diga-del-luzzone",
+    "https://wikiwand.com/en/Luzzone_Dam"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "locandaorico",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at the starred Locanda Orico in Bellinzona",
+   "desc": "Locanda Orico, run by chef Lorenzo Albrici, sits at the foot of the Castelgrande hill and is cited for a Michelin star and 16 Gault & Millau points.",
+   "tip": "Open Tuesday to Saturday; reserve ahead, +41 91 825 15 18.",
+   "q": "Locanda Orico, Via Orico 13, Bellinzona",
+   "ll": [
+    46.19214,
+    9.01905
+   ],
+   "src": [
+    "https://www.ticino.ch/it/restaurants/details/Locanda-Orico/74427.html",
+    "https://www.myswitzerland.com/en-au/experiences/food-wine/restaurant/ristorante-locanda-orico/"
+   ]
+  },
+  {
+   "id": "anticogrottoticino",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat in a grotto at Antico Grotto Ticino, Mendrisio",
+   "desc": "The Antico Grotto Ticino stands on Via delle Cantine in Mendrisio's village centre, in the traditional grotto setting of stone cellars.",
+   "tip": "Closed days vary; confirm hours with the restaurant.",
+   "q": "Antico Grotto Ticino, Via delle Cantine, Mendrisio",
+   "ll": [
+    45.87901,
+    8.98673
+   ],
+   "src": [
+    "https://www.luganoregion.com/en/restaurants/details/Antico-Grotto-Ticino/75916.html",
+    "https://www.mendrisiottoturismo.ch/en/restaurants/details/Antico-Grotto-Ticino/75916.html"
+   ]
+  },
+  {
+   "id": "cantinamendrisio",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Merlot at the Cantina Sociale di Mendrisio",
+   "desc": "The Cantina Sociale di Mendrisio, founded in 1949, is the only wine cooperative in Ticino and produces wines exclusively from Ticino, mainly Merlot, including a white Merlot. Its Tenuta Montalbano covers about 20 to 25 hectares.",
+   "tip": "Visitors are welcome at Via Giorgio Bernasconi 22; call ahead for tasting hours.",
+   "q": "Cantina Sociale Mendrisio, Via Giorgio Bernasconi 22, Mendrisio",
+   "ll": [
+    45.86703,
+    8.9771
+   ],
+   "src": [
+    "https://www.luganoregion.com/en/commons/details/Cantina-Sociale-Mendrisio/2575.html",
+    "https://www.falstaff.com/en/wineries/cantina-sociale-mendrisio"
+   ]
+  }
+ ]
+}

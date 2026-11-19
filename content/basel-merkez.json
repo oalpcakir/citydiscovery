@@ -1,0 +1,991 @@
+{
+ "new": [
+  {
+   "id": "baslermuenster",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the red-sandstone Basler Münster",
+   "desc": "The Münster is mostly late Gothic, built on a Romanesque church damaged in the 1356 earthquake, with 15th-century twin towers. Its Romanesque Galluspforte portal, the crypt and the tomb of the humanist Erasmus are the highlights.",
+   "tip": "Opening hours vary by season and event, so check baslermuenster.ch first. The crypt has its own, shorter hours.",
+   "q": "Basler Münster, Münsterplatz 9, Basel",
+   "ll": [
+    47.55658,
+    7.59255
+   ],
+   "src": [
+    "https://www.traveldojo.com/basel-minster",
+    "https://karlbarth.unibas.ch/?p=189"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "baslerpfalz",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Take in the Rhine view from the Pfalz terrace",
+   "desc": "The Pfalz is the terrace behind the Münster, set on a cliff above the Rhine. It looks across the river to Kleinbasel and along the water, and the terrace is reachable at any hour.",
+   "tip": "Come at sunset or early morning when it is quiet. From the Pfalz a lift and stairs lead down to the Münsterfähre landing.",
+   "q": "Pfalz, Münsterplatz, Basel",
+   "ll": [
+    47.55625,
+    7.59345
+   ],
+   "src": [
+    "https://www.kupi.com/en/explore/switzerland/basel/basler-pfalz",
+    "https://www.european-traveler.com/switzerland/see-the-basler-munster-minster-in-basel/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "baslerrathaus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step into the red Rathaus courtyard on Marktplatz",
+   "desc": "The Basler Rathaus at Marktplatz 9 is the seat of the canton's government and parliament. Its red facade and painted courtyard are among the city's best known sights, and the Grossratssaal is considered the most remarkable room.",
+   "tip": "The courtyard is usually accessible on weekdays; guided tours of the interior are offered by the canton. Combine it with the weekday market on the square.",
+   "q": "Rathaus Basel, Marktplatz 9, Basel",
+   "ll": [
+    47.55843,
+    7.58797
+   ],
+   "src": [
+    "https://www.bs.ch/regierungsrat/staatskanzlei/rathaus/das-basler-rathaus-erleben",
+    "https://www.basel.com/de/attraktionen/rathaus-b156f9326f"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "spalentor",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the medieval Spalentor gate",
+   "desc": "The Spalentor is one of three surviving medieval city gates of Basel, built around 1398-1400 after the earthquake of 1356. A forward gate was added during the Burgundian Wars and the portcullises can still be seen.",
+   "tip": "Best seen from the Spalenvorstadt side; the stone shield-bearers are copies, the originals are in the Historisches Museum. Trams 3, 6, 8 and 15 stop at Spalentor.",
+   "q": "Spalentor, Spalenvorstadt, Basel",
+   "ll": [
+    47.55795,
+    7.58145
+   ],
+   "src": [
+    "https://www.bs.ch/en/node/36364",
+    "https://www.basel.com/de/attraktionen/spalentor-5d4a9f3ff6"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kunstmuseumbasel",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See Holbein and Picasso at the Kunstmuseum Basel",
+   "desc": "The Kunstmuseum Basel holds the world's largest collection of works by the Holbein family, including Hans Holbein the Younger's Dead Christ in the Tomb. The museum spans old masters to modern and contemporary art across the main building and the new building.",
+   "tip": "Open Tuesday to Sunday, later on Wednesday evenings; Monday is closed. Check the site for current tickets and free-entry passes.",
+   "q": "Kunstmuseum Basel, St. Alban-Graben 16, Basel",
+   "ll": [
+    47.55393,
+    7.59445
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-gb/experiences/kunstmuseum-basel/",
+    "https://www.museenbasel.ch/en/institution/index.php?id=78"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "fondationbeyeler",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Spend an afternoon at Fondation Beyeler in Riehen",
+   "desc": "The Fondation Beyeler is a private museum at Baselstrasse 101 in Riehen, showing modern and contemporary art in a building in a park. It is one of Switzerland's most visited art museums.",
+   "tip": "Open daily 10-18, Wednesday until 20 h, with online booking recommended. Tram 6 to Riehen Fondation Beyeler stops at the door.",
+   "q": "Fondation Beyeler, Baselstrasse 101, Riehen",
+   "ll": [
+    47.58805,
+    7.65099
+   ],
+   "src": [
+    "https://www.fondationbeyeler.ch/en/museum",
+    "https://www.myswitzerland.com/en-ie/experiences/fondation-beyeler/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "museumtinguely",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Watch the machines move at Museum Tinguely",
+   "desc": "Museum Tinguely, at Paul Sacher-Anlage 1 beside the Rhine, holds the world's largest collection of Jean Tinguely's kinetic works. It sits in a building by Mario Botta, with changing exhibitions as well.",
+   "tip": "Open Tuesday to Sunday 11-18, Thursday until 21 h, closed Monday. Rhine swimmers can climb out nearby.",
+   "q": "Museum Tinguely, Paul Sacher-Anlage 1, Basel",
+   "ll": [
+    47.55922,
+    7.6123
+   ],
+   "src": [
+    "https://www.tinguely.ch/en/information/admission/tickets.html",
+    "https://www.timeout.com/switzerland/museums/museum-tinguely"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mittlerebruecke",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk across the Mittlere Brücke and its Käppelijoch",
+   "desc": "The Mittlere Brücke stands on the oldest Rhine crossing between Lake Constance and the North Sea, with a first bridge documented in the 1220s. Midway across stands the Käppelijoch, a small chapel on the central pier; the current bridge dates from 1903-1905.",
+   "tip": "The best views are looking upstream towards the Münster at dusk. Trams 6, 8 and 11 cross the bridge.",
+   "q": "Mittlere Brücke, Basel",
+   "ll": [
+    47.56015,
+    7.58973
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Middle_Bridge,_Basel",
+    "https://www.basel.com/en/attractions/mittlere-bruecke-b37cf289fc"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "antikenmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Meet Egypt, Greece and Rome at the Antikenmuseum",
+   "desc": "The Antikenmuseum Basel und Sammlung Ludwig shows Egyptian, Greek, Etruscan and Roman art in several historic buildings at St. Alban-Graben. Peter and Irene Ludwig's collection of antiquities came to Basel in the early 1980s.",
+   "tip": "Opening days and late openings change, so check antikenmuseumbasel.ch. It is next door to the Kunstmuseum, so the two combine well.",
+   "q": "Antikenmuseum Basel, St. Alban-Graben 5, Basel",
+   "ll": [
+    47.55436,
+    7.59314
+   ],
+   "src": [
+    "https://www.museums.ch/de/museumsbesuch/museen/museen/antikenmuseum-basel-und-sammlung-ludwig-1893.html",
+    "https://www.basel.com/en/attractions/antikenmuseum-basel-und-sammlung-ludwig-87cfd06e63"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "historischesmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Tour Basel's history inside the Barfüsserkirche",
+   "desc": "The Historisches Museum Basel's main site is the former Franciscan church on Barfüsserplatz, with city history from the Celts to modern times. It also keeps the original Spalentor shield-bearers and the original Käppelijoch from the Rhine bridge.",
+   "tip": "Open Tuesday to Sunday 10-17, closed Monday. The Christmas market spreads around the museum in Advent.",
+   "q": "Historisches Museum Basel, Barfüsserplatz 7, Basel",
+   "ll": [
+    47.55401,
+    7.59102
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/basel-historical-museum/",
+    "https://myartguides.com/artspaces/museums/basel/historisches-museum-basel-barfusserkirche/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "museumderkulturen",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore global cultures at Museum der Kulturen",
+   "desc": "The Museum der Kulturen at Münsterplatz 20 is Basel's ethnographic museum. An annex also holds a permanent exhibition on the Basel Carnival.",
+   "tip": "Open Tuesday to Sunday 10-17, with free entry on the first Sunday of the month. The carnival annex has separate hours.",
+   "q": "Museum der Kulturen Basel, Münsterplatz 20, Basel",
+   "ll": [
+    47.5568,
+    7.5912
+   ],
+   "src": [
+    "https://www.mkb.ch/en/ihr-besuch.html",
+    "https://www.basel.com/en/attractions/museum-der-kulturen-basel-d467ac0fa6"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rochetower",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See Roche Tower, once Switzerland's tallest building",
+   "desc": "The Roche Tower (Bau 1) is a 178 m, 41-storey tower by Herzog & de Meuron on the Roche site in Kleinbasel. Completed in 2015, it overtook Zürich's Prime Tower as Switzerland's tallest building.",
+   "tip": "It is a private company site, so it is seen from the outside, for example from the Rhine promenade or Wettsteinbrücke. Tram 2 to Basel Badischer Bahnhof side or bus 38 pass nearby.",
+   "q": "Roche Bau 1, Grenzacherstrasse 124, Basel",
+   "ll": [
+    47.55882,
+    7.60777
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Roche_Tower",
+    "https://www.swissinfo.ch/eng/culture/cornerstone-laid-for-tallest-swiss-building/32661462"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "papiermuehle",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Make paper at the Basler Papiermühle",
+   "desc": "The Swiss Museum of Paper, Writing and Printing occupies a medieval mill on the St. Alban canal, where paper has been produced since 1453. Visitors can see papermaking, typesetting and printing demonstrated in working workshops.",
+   "tip": "Open Tuesday to Sunday afternoons, with Monday closed; check baslerpapiermuehle.ch for current hours. Tram 3 to St. Alban-Tor or tram 2 to Kunstmuseum.",
+   "q": "Basler Papiermühle, St. Alban-Tal 37, Basel",
+   "ll": [
+    47.55466,
+    7.60346
+   ],
+   "src": [
+    "https://www.baslerpapiermuehle.ch/en/about/",
+    "https://www.museums.ch/de/museumsbesuch/museen/museen/basler-papiermuehle-1895.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "fasnachtsbrunnen",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Watch Tinguely's Fasnachtsbrunnen splash on Theaterplatz",
+   "desc": "Jean Tinguely's Fasnachtsbrunnen (1975-1977) stands where the stage of the old city theatre once was. Motor-driven scrap-iron figures spray water around the basin, and ice sculptures form on them in winter.",
+   "tip": "The fountain is switched off for cleaning on Wednesday mornings. It sits right by the Theater Basel and the Elisabethenkirche.",
+   "q": "Tinguely-Brunnen, Theaterplatz, Basel",
+   "ll": [
+    47.55365,
+    7.5896
+   ],
+   "src": [
+    "https://www.basel.com/en/attractions/tinguely-fountain-6259537a82",
+    "https://www.alpen-guide.de/reisefuehrer/poi/fasnachtsbrunnen-basel"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "botanischergarten",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Wander the Botanischer Garten and its Victoria house",
+   "desc": "The University of Basel's botanical garden near Schönbeinstrasse holds thousands of plant species. Its Victoria House, built in 1898 for the giant Amazon water lily, is the historic centrepiece beside a newer tropical house.",
+   "tip": "Check botgarten.unibas.ch for hours and for when the greenhouses are open. Tram 3 to Spalentor or Universitätsspital.",
+   "q": "Botanischer Garten der Universität Basel, Schönbeinstrasse 6, Basel",
+   "ll": [
+    47.5602,
+    7.5817
+   ],
+   "src": [
+    "https://botgarten.unibas.ch/en/garden/greenhouses/victoria-greenhouse/",
+    "https://www.unibas.ch/de/Universitaet/Administration-Services/Generalsekretariat/Archive-Sammlungen/Wissenschaftliche-Sammlungen/Alphabetisch-sortiert/Botanischer-Garten-der-Universitaet-Basel.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kunsthallebasel",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Catch the next show at Kunsthalle Basel",
+   "desc": "The Kunsthalle Basel was opened in 1872 in a building by Johann Jakob Stehlin and shows contemporary art. It staged early shows of artists such as Rosemarie Trockel, Jeff Wall and Pipilotti Rist.",
+   "tip": "Exhibitions change several times a year, so check kunsthallebasel.ch. The restaurant in the same building has a garden under chestnut trees.",
+   "q": "Kunsthalle Basel, Steinenberg 7, Basel",
+   "ll": [
+    47.55314,
+    7.59076
+   ],
+   "src": [
+    "https://www.museums.ch/de/museumsbesuch/museen/museen/kunsthalle-basel-2515.html",
+    "https://www.basel.com/de/attraktionen/kunsthalle-basel-c4ea0bbbac"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "elisabethenkirche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb the tower of the Elisabethenkirche",
+   "desc": "The Elisabethenkirche is a neo-Gothic church from 1857-1864 next to Theater Basel, run as an ecumenical open church and considered Switzerland's first city church. Its tower, 72 m high and open to the public, is taller than the Münster's.",
+   "tip": "Check offenekirche.ch for opening and tower times. The stairs are narrow and there is a small fee.",
+   "q": "Elisabethenkirche, Elisabethenstrasse 14, Basel",
+   "ll": [
+    47.5529,
+    7.5901
+   ],
+   "src": [
+    "https://www.basel.com/en/Media/Attractions/Open-church-of-St.-Elisabeth-Elisabethenkirche",
+    "https://www.myswitzerland.com/en/experiences/open-church-elisabeth/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "pharmaziemuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Browse old apothecary lore at the Pharmaziemuseum",
+   "desc": "The University of Basel's Pharmaziemuseum in the house Zum Sessel at Totengässlein 3 opened in 1925. It holds one of the largest historical collections on pharmacy in Europe.",
+   "tip": "Open Tuesday to Sunday 10-17. It is a short walk from the Marktplatz and the Spalenberg.",
+   "q": "Pharmaziemuseum der Universität Basel, Totengässlein 3, Basel",
+   "ll": [
+    47.55855,
+    7.58634
+   ],
+   "src": [
+    "https://www.swiss-spectator.ch/museums/pharmaziemuseum-universitaet-basel/",
+    "https://www.myswitzerland.com/ja/experiences/the-pharmacy-museum-universitaet-basel/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "wenkenpark",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stroll the Wenkenpark gardens in Riehen",
+   "desc": "The Wenkenpark lies between Riehen and Bettingen with old trees, ponds and garden areas around the Old and New Wenkenhof. The park is public and the French garden and English park with Richard Serra sculptures can be visited on Sundays.",
+   "tip": "The mansion interiors are not open, but the park is free. The Reithalle Wenkenhof has a café on site.",
+   "q": "Wenkenpark, Bettingerstrasse, Riehen",
+   "ll": [
+    47.57579,
+    7.65357
+   ],
+   "src": [
+    "https://www.swiss-spectator.ch/der-wenkenhof-und-der-englische-park-in-riehen/",
+    "https://www.myswitzerland.com/en/experiences/villa-wenkenhof/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kleinesklingental",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find the cathedral dragons at Museum Kleines Klingental",
+   "desc": "The museum occupies the original medieval buildings of the Dominican convent Klingental on the Kleinbasel Rhine bank. Its best known holdings are medieval sandstone sculptures from the Münster and a 17th-century city model.",
+   "tip": "Hours are limited and mainly on afternoons and Sundays, so check museenbasel.ch first. It sits a short walk from the Mittlere Brücke along the Unterer Rheinweg.",
+   "q": "Museum Kleines Klingental, Unterer Rheinweg 26, Basel",
+   "ll": [
+    47.5621,
+    7.58963
+   ],
+   "src": [
+    "https://www.swiss-spectator.ch/museums/klingental-monastery-museum/",
+    "https://www.myswitzerland.com/en/experiences/museum-kleines-klingental/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "muensterfaehre",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cross the Rhine on the cable-drawn Münsterfähre Leu",
+   "desc": "The Münsterfähre Leu is one of four Rhine ferries with no motor, pulled across by the current on a cable. It links the Münster terrace with Kleinbasel between the Wettstein and Mittlere bridges.",
+   "tip": "Fares are small, about CHF 1.60-2.00 for adults; service stops at high water. Winter hours are shorter.",
+   "q": "Münsterfähre Leu, Rheinsprung, Basel",
+   "ll": [
+    47.5565,
+    7.59385
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Basler_Fähren"
+   ]
+  },
+  {
+   "id": "klingentalfaehre",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Ride the Vogel Gryff Klingentalfähre at dusk",
+   "desc": "The Vogel Gryff ferry crosses between the Mittlere Brücke and the Johanniterbrücke, landing near the Klingental convent. Like all Basel Fähri it runs by current on a cable, with the ferryman steering.",
+   "tip": "Service depends on the Rhine water level. Pair it with a drink at a Kleinbasel buvette.",
+   "q": "Klingentalfähre Vogel Gryff, Unterer Rheinweg, Basel",
+   "ll": [
+    47.56266,
+    7.58847
+   ],
+   "src": [
+    "https://www.basel.com/en/activities-excursions/ferries",
+    "https://ferryman.ca/fm/ch01_basel_rhine/basel_rhine.php"
+   ]
+  },
+  {
+   "id": "rheinschwimmen",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Float down the Rhine with a Wickelfisch",
+   "desc": "Swimming downstream through the old town is a Basel summer ritual. The usual entry is at Schaffhauserrheinweg 93 near Museum Tinguely, exiting at marked points on the Kleinbasel bank before the Dreirosenbrücke.",
+   "tip": "Use a Wickelfisch dry bag, rented at the tourist office June to September, and watch for ships. Never swim outside the marked entries and exits; the Rheinhafen and weirs are off-limits.",
+   "q": "Schaffhauserrheinweg 93, Basel",
+   "ll": [
+    47.55739,
+    7.60366
+   ],
+   "src": [
+    "https://www.basel.com/en/activities-excursions/swimming-rhine",
+    "https://www.basel.com/en/activities-excursions/swimming-rhine/wickelfisch"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "herbstmesse",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Ride the Herbstmesse on the Münsterplatz",
+   "desc": "The Basler Herbstmesse is Switzerland's oldest and largest fair, held for about two weeks from late October. It spreads over seven sites including Münsterplatz, Barfüsserplatz, Petersplatz, Kasernenareal and Messeplatz.",
+   "tip": "Petersplatz is the quieter site with the Hääfelimäärt pottery market. Try roasted chestnuts and Mässmogge candy.",
+   "q": "Münsterplatz, Basel",
+   "ll": [
+    47.557,
+    7.5923
+   ],
+   "src": [
+    "https://www.bs.ch/veranstaltungen/basler-herbstmesse",
+    "https://www.basel.com/de/veranstaltungen/herbstmesse"
+   ],
+   "months": [
+    10,
+    11
+   ]
+  },
+  {
+   "id": "weihnachtsmarkt",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Basler Weihnachtsmarkt at Barfüsserplatz",
+   "desc": "The Basel Christmas market fills Barfüsserplatz and Münsterplatz in Advent, with wooden stalls selling crafts, Läckerli and mulled wine. The Barfüsserplatz site sits in front of the Historisches Museum.",
+   "tip": "In 2026 it runs 26 November to 23 December, daily 11-20:30, with shorter hours on the last day. The Märliwald on Münsterplatz is for children.",
+   "q": "Barfüsserplatz, Basel",
+   "ll": [
+    47.55455,
+    7.5888
+   ],
+   "src": [
+    "https://www.bs.ch/weihnachtsmarkt",
+    "https://www.basel.com/de/veranstaltungen/weihnachten/weihnachtsmarkt"
+   ],
+   "months": [
+    11,
+    12
+   ]
+  },
+  {
+   "id": "fasnacht",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Join the Morgestraich at 4 a.m. on Fasnacht Monday",
+   "desc": "The Basler Fasnacht begins on the Monday after Ash Wednesday at exactly 4:00 a.m. with the Morgestraich, when the city lights go out and cliques march with lanterns and piccolos. The carnival lasts three days; the next edition is 15 to 17 February 2027.",
+   "tip": "Mehlsuppe, onion tart and cheese tart (Zwiebelwäie, Kääswäie) are the traditional carnival foods. Bring warm clothes and expect crowds in the old town.",
+   "q": "Marktplatz, Basel",
+   "ll": [
+    47.5586,
+    7.588
+   ],
+   "src": [
+    "https://www.basel.com/de/veranstaltungen/basler-fasnacht",
+    "https://en.wikipedia.org/wiki/Carnival_of_Basel"
+   ],
+   "months": [
+    2,
+    3
+   ]
+  },
+  {
+   "id": "baseltattoo",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Hear the pipes at the Basel Tattoo on the Kasernenareal",
+   "desc": "The Basel Tattoo is a military-music festival held every July on the Kasernenareal in Kleinbasel, with massed pipe bands in the arena. The 2026 edition was the 20th, running 17 to 25 July.",
+   "tip": "Tattoo Street around the arena is free to enter without a show ticket. The parade through the city centre is held on the first Saturday.",
+   "q": "Kasernenareal, Klybeckstrasse 1b, Basel",
+   "ll": [
+    47.56282,
+    7.59079
+   ],
+   "src": [
+    "https://www.bs.ch/veranstaltungen/basel-tattoo",
+    "https://www.nume.ch/basel-tattoo-2026-20-jahre-royale-garden-weltmeister/"
+   ],
+   "months": [
+    7
+   ]
+  },
+  {
+   "id": "zoobasel",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Spend a day at Zoo Basel (Zolli)",
+   "desc": "Zoo Basel on Binningerstrasse, known locally as Zolli, is one of Switzerland's oldest zoos and is open 365 days a year. It is a short tram ride from the old town.",
+   "tip": "Hours vary by season, roughly 8 to 17:30 in winter and to 18:30 in summer. Check zoobasel.ch for special evenings.",
+   "q": "Zoo Basel, Binningerstrasse 40, Basel",
+   "ll": [
+    47.5469,
+    7.57792
+   ],
+   "src": [
+    "https://zoobasel.ch/en/zoobesuch",
+    "https://en.wikipedia.org/wiki/Zoo_Basel"
+   ]
+  },
+  {
+   "id": "dreilaendereck",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Stand at the Dreiländereck where three countries meet",
+   "desc": "The Dreiländereck monument in Kleinhüningen marks the meeting point of Switzerland, France and Germany on the Rhine. A rocket-shaped monument with three flags stands on a Swiss point of land, next to the Rhine port.",
+   "tip": "Combine it with a walk along the Rhine and the nearby Dreiländerbrücke to Weil am Rhein and Huningue. Tram 8 runs to Kleinhüningen.",
+   "q": "Dreiländereck, Westquaistrasse, Basel",
+   "ll": [
+    47.58662,
+    7.58866
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Dreil%C3%A4ndereck_(Basel)",
+    "https://atlasobscura.com/places/dreilandereck-switzerland-france-germany"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "artbasel",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Visit Art Basel at Messe Basel in June",
+   "desc": "Art Basel is the major international contemporary art fair, held each June at Messe Basel, with the Liste satellite fair alongside. In 2026 the public days were 18 to 21 June.",
+   "tip": "Tickets are best booked online in advance. During the fair, galleries and museums in town hold extra openings.",
+   "q": "Messe Basel, Messeplatz 21, Basel",
+   "ll": [
+    47.56431,
+    7.59972
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/events/art-basel/",
+    "https://www.myswitzerland.com/en/experiences/events/liste-art-fair-basel/"
+   ],
+   "months": [
+    6
+   ]
+  },
+  {
+   "id": "rheinbadstjohann",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Swim at Rheinbad St. Johann in a wooden bathhouse",
+   "desc": "The Rheinbad St. Johann at St. Johanns-Rheinweg 50 is a traditional wooden Rhine bathhouse near the Johanniterbrücke, with a pool for non-swimmers. It is open in the summer season from May to September, weather permitting.",
+   "tip": "Entry is about CHF 6; check rhybeli.ch for hours. Outside the season the site runs a sauna on the Rhine.",
+   "q": "Rheinbad St. Johann, St. Johanns-Rheinweg 50, Basel",
+   "ll": [
+    47.5649,
+    7.58413
+   ],
+   "src": [
+    "https://www.alpen-guide.de/reisefuehrer/poi/rheinbad-st-johann-basel",
+    "https://www.timeout.com/switzerland/sport-and-fitness/rheinbad-st-johann"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "rheinbadbreite",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cool off at Rheinbad Breite on the St. Alban Rheinweg",
+   "desc": "The Rheinbad Breite (Rhybadhysli Breiti) was built in 1898 as the city's fourth municipal Rhine bath. It sits on the Grossbasel bank upstream of the old town and is open in the summer season.",
+   "tip": "Entry is about CHF 5 and opening hours depend on the weather; check before going.",
+   "q": "Rheinbad Breite, St. Alban-Rheinweg 195, Basel",
+   "ll": [
+    47.5563,
+    7.61077
+   ],
+   "src": [
+    "https://www.badi-info.ch/bs/breite.html",
+    "https://www.alpen-guide.de/reisefuehrer/poi/rheinbad-st-johann-basel"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "muksriehen",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Play with old toys at MUKS in Riehen",
+   "desc": "The MUKS (Museum Kultur & Spiel) at Baselstrasse 34 in Riehen shows toys, dolls, model railways and tin figures from 1780 to 1950, plus the village and vineyard museum. It is housed in the former mansion of Basel mayor Johann Rudolf Wettstein.",
+   "tip": "Opening days vary and Tuesday is closed; check the museum site. Tram 6 to Riehen Dorf.",
+   "q": "MUKS Museum Kultur & Spiel, Baselstrasse 34, Riehen",
+   "ll": [
+    47.58408,
+    7.64939
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/riehen-toy-museum/",
+    "https://www.museenbasel.ch/en/museen/muks-museum-kultur-amp-spiel-riehen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "muensterturm",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Climb the Münster towers for an old-town panorama",
+   "desc": "Both towers on the Münster's west facade, the Georgsturm and the Martinsturm, can be climbed, about 240 to 250 narrow steps. A viewing platform at around 50 m looks over the Rhine and the roofs of Basel.",
+   "tip": "Buy tickets at the Münster kiosk; the climb is steep and not suited to those afraid of heights or tight spaces. Check baslermuenster.ch for times.",
+   "q": "Basler Münster, Münsterplatz 9, Basel",
+   "ll": [
+    47.5565,
+    7.5923
+   ],
+   "src": [
+    "https://www.alpen-guide.de/reisefuehrer/poi/basler-muenster-basel",
+    "https://www.european-traveler.com/switzerland/see-the-basler-munster-minster-in-basel/"
+   ]
+  },
+  {
+   "id": "spielzeugwelten",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Visit the teddy bears at Spielzeug Welten Museum",
+   "desc": "The Spielzeug Welten Museum at Steinenvorstadt 1 opened in 1998 and spreads over four floors. Its holdings include over 2500 teddy bears, including Steiff bears from 1904, dolls, doll houses and carousels.",
+   "tip": "Check the museum site for hours; December is open daily. All floors are wheelchair accessible.",
+   "q": "Spielzeug Welten Museum Basel, Steinenvorstadt 1, Basel",
+   "ll": [
+    47.55399,
+    7.58909
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/basel-toy-world-museum/",
+    "https://www.basel.com/en/attractions/spielzeug-welten-museum-basel-db9134c7be"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "laeckerlihuus",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Buy original Basler Läckerli at Läckerli Huus",
+   "desc": "The Läckerli Huus main shop at Gerbergasse 57 offers the largest selection of Basler Läckerli, the honey, almond, hazelnut and candied peel biscuit tied to Basel's spice trade. It also sells Rahmtäfeli and Flûtes de Bâle.",
+   "tip": "Try the classic Läckerli and a Flûte de Bâle. Tins make good gifts.",
+   "q": "Läckerli Huus, Gerbergasse 57, Basel",
+   "ll": [
+    47.54641,
+    7.58877
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/L%C3%A4ckerli_Huus",
+    "https://www.basel.com/en/attractions/laeckerli-huus-dc7d81d62f"
+   ]
+  },
+  {
+   "id": "jakobsleckerly",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste Jakob's Basler Leckerly at the Spalenberg shop",
+   "desc": "Jakob's Basler Leckerly has been making the biscuit since 1753, and is one of Switzerland's oldest companies. The city shop is at Spalenberg 26, with the factory and a larger shop at St. Johanns-Vorstadt 47.",
+   "tip": "Factory tours with a packing workshop exist (book ahead, around CHF 30). Buy the classic Basler Leckerly tin.",
+   "q": "Jakob's Basler Leckerly, Spalenberg 26, Basel",
+   "ll": [
+    47.56474,
+    7.58324
+   ],
+   "src": [
+    "https://baslerleckerly.ch/en/about-us/",
+    "https://www.basel.com/en/attractions/jakobs-basler-leckerly-96698fc02c"
+   ]
+  },
+  {
+   "id": "bachmanngerbergasse",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sample Läckerli and pastries at Confiserie Bachmann",
+   "desc": "The Confiserie Bachmann on Gerbergasse 51 is a traditional café and confectionery that has operated since 1942, baking and making chocolates on site. It is one of the places listed for fresh Basler Läckerli.",
+   "tip": "Try the Läckerli or a Brunsli at Christmas. Reviews rate the chocolates higher than some baked goods.",
+   "q": "Confiserie Bachmann, Gerbergasse 51, Basel",
+   "ll": [
+    47.54816,
+    7.58939
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-ca/experiences/food-wine/restaurant/confiserie-bachmann/",
+    "https://www.basel.com/en/restaurants-nightlife/confiserie-bachmann-gerbergasse-3812791835"
+   ]
+  },
+  {
+   "id": "oetlingerbuvette",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Grill your own sausage at the Oetlinger Buvette",
+   "desc": "The Oetlinger Buvette on the Kleinbasel Rhine promenade serves coffee, drinks, beer and snacks, with a large public grill where guests cook their own food. It is run by Eva Wenger and Simon Baudenbacher, whose lease was renewed in 2021.",
+   "tip": "Bring something to grill and sit on the river steps. It is a summer spot, open from spring, so check conditions first.",
+   "q": "Oetlinger Buvette, Unterer Rheinweg, Basel",
+   "ll": [
+    47.56707,
+    7.58652
+   ],
+   "src": [
+    "https://www.basel.com/en/basel-inspires/summer/buvettes",
+    "https://www.bs.ch/medienmitteilungen/bvd/2021-bekannte-und-neue-gesichter-fuer-basler-buvetten"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "dreirosenbuvette",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sip a frosé at the Dreirosen Buvette",
+   "desc": "The Dreirosen Buvette is a summer bar on the Rhine in Kleinbasel next to the Dreirosenanlage park, run since 2022 by the team of the SMUK cocktail bar. It serves frosé, panini with homemade hummus and antipasti, and has a free public grill.",
+   "tip": "A good finish for Rhine swimmers who exit near the Dreirosenbrücke.",
+   "q": "Buvette Dreirosen, Unterer Rheinweg, Basel",
+   "ll": [
+    47.56949,
+    7.58636
+   ],
+   "src": [
+    "https://www.basel.com/en/magazine/basel-as-a-world-of-culinary-pleasure/dreirosen-buvette",
+    "https://www.bs.ch/medienmitteilungen/bvd/2022-die-grillsaison-den-buvetten-oetlinger-und-dreirosen-ist-eroeffnet"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "saintlouisbuvette",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order hummus and a cold drink at Saint Louis Buvette",
+   "desc": "The Saint Louis Buvette is a Rhine-side summer bar at the St. Johanns-Rheinweg on the Grossbasel bank. The city extended its lease in 2026 and it gets a new wooden building.",
+   "tip": "Reviewers praise the hummus and the cold drinks. It is seasonal, so confirm it is open.",
+   "q": "Saint Louis Buvette, St. Johanns-Rheinweg, Basel",
+   "ll": [
+    47.5682,
+    7.5831
+   ],
+   "src": [
+    "https://www.bs.ch/medienmitteilungen/bvd/2026-saint-louis-buvette-bleibt",
+    "https://wanderlog.com/place/details/3706880/saint-louis-buvette"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "faehriboedeli",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat pinsa under chestnut trees at the Fähribödeli",
+   "desc": "The Fähribödeli sits under chestnut trees on the St. Alban-Rheinweg, serving pinsa and ice cream by the Rhine. It is next to the landing of the St. Alban ferry Wild Maa.",
+   "tip": "Come for a lunch or an after-work beer. The ferry sometimes pauses at low water, so check its status.",
+   "q": "Fähribödeli, St. Alban-Rheinweg, Basel",
+   "ll": [
+    47.55705,
+    7.59261
+   ],
+   "src": [
+    "https://www.basel.com/de/basel-inspiriert/sommer/buvetten",
+    "https://www.basel.com/en/activities-excursions/ferries"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "fischerstube",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink Ueli beer at Brauerei Fischerstube",
+   "desc": "Brauerei Fischerstube at Rheingasse 45 in Kleinbasel has brewed Ueli beer on the premises since 1974, and the brewing is visible from the restaurant. A beer garden sits above the brewery and the Ueli-Brau-Bar at Rheingasse 43 pours guest beers.",
+   "tip": "Try a Ueli beer with a hearty Swiss dish. Brewery tours can be booked with uelibier.ch.",
+   "q": "Brauerei Fischerstube, Rheingasse 45, Basel",
+   "ll": [
+    47.56,
+    7.5926
+   ],
+   "src": [
+    "https://www.falstaff.com/en/restaurants/brauerei-fischerstube-basel",
+    "https://www.myswitzerland.com/en/experiences/tour-of-the-fischerstube-brewery"
+   ]
+  },
+  {
+   "id": "goldenersternen",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine at the Gasthof zum Goldenen Sternen, Basel's oldest inn",
+   "desc": "The Gasthof zum Goldenen Sternen at St. Alban-Rheinweg 70 is generally described as Basel's oldest inn, first mentioned in the 14th century. The building was moved stone by stone in the 1960s-70s and rebuilt at its present Rhine-side site.",
+   "tip": "Hours are not confirmed here; check sternen-basel.ch before going. The St. Alban quarter nearby is good for a stroll.",
+   "q": "Gasthof zum Goldenen Sternen, St. Alban-Rheinweg 70, Basel",
+   "ll": [
+    47.5543,
+    7.6031
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Gasthof_zum_Goldenen_Sternen",
+    "https://www.basel.com/en/restaurants-nightlife/gasthof-zum-goldenen-sternen-9d70c16cb7"
+   ]
+  },
+  {
+   "id": "markthallebasel",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Graze the stalls at the Markthalle Basel",
+   "desc": "The Markthalle at Steinentorberg 20 opened as a market hall in 1929 and was converted into a food hall and cultural venue in 2013. Stalls, food trucks and bars sit under the domed hall, with concerts and events in the evening.",
+   "tip": "Come hungry and pick from several stalls. Check altemarkthalle.ch for events.",
+   "q": "Markthalle Basel, Steinentorberg 20, Basel",
+   "ll": [
+    47.54927,
+    7.58718
+   ],
+   "src": [
+    "https://www.basel.com/en/attractions/markthalle-a0a003e730",
+    "https://www.myswitzerland.com/en-nz/experiences/market-hall-basel"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "safranzunft",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Swiss classics in the guildhouse Safran Zunft",
+   "desc": "The Safran Zunft at Gerbergasse 11 is a guild house in the old town, described as Basel's largest, with a guild about 700 years old. The menu is modern and seasonal, with traditional classics and fondue.",
+   "tip": "Hours differ across listings; call +41 61 269 94 94 or check safran-zunft.ch. Book for dinner.",
+   "q": "Restaurant Safran Zunft, Gerbergasse 11, Basel",
+   "ll": [
+    47.557,
+    7.5873
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-ch/experiences/food-wine/restaurant/restaurant-safran-zunft-1/",
+    "https://www.basel.com/de/restaurants-nachtleben/restaurant-safran-zunft-976696b41b"
+   ]
+  },
+  {
+   "id": "schluesselzunft",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Lunch in the glass-domed courtyard of the Schlüsselzunft",
+   "desc": "The Schlüsselzunft at Freie Strasse 25 sits in the Haus zum Schlüssel, described as the city's oldest guild house, dating to 1306. The courtyard under a glass dome holds a bistro, alongside a gourmet restaurant.",
+   "tip": "Check schluesselzunft.ch for current opening hours and booking. Good for a bistro lunch on the main shopping street.",
+   "q": "Restaurant Schlüsselzunft, Freie Strasse 25, Basel",
+   "ll": [
+    47.55717,
+    7.58926
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/restaurant-zunftstube/",
+    "https://www.basel.com/en/restaurants-nightlife/schluesselzunft-bdcf9fbb81"
+   ]
+  },
+  {
+   "id": "restaurantkunsthalle",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order fondue at the Restaurant Kunsthalle",
+   "desc": "The Restaurant Kunsthalle at Steinenberg 7 combines a brasserie and a more refined restaurant, beside the Kunsthalle. The Fondue Stübli opens in winter and the garden has large chestnut trees for summer seating.",
+   "tip": "Try fondue in winter or a drink in the chestnut garden in summer. It is closed Sundays per most listings.",
+   "q": "Restaurant Kunsthalle, Steinenberg 7, Basel",
+   "ll": [
+    47.55367,
+    7.59099
+   ],
+   "src": [
+    "https://www.basel.com/de/restaurants-nachtleben/kunsthalle-817620cfac",
+    "https://www.myswitzerland.com/fr-ch/decouvrir/a-manger-a-boire/restaurant/restaurant-kunsthalle-fondue-stuebli/"
+   ]
+  },
+  {
+   "id": "volkshausbasel",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Join the Fasnacht brasserie at Volkshaus Basel",
+   "desc": "The Volkshaus Basel at Rebgasse 12-14 in Kleinbasel has been a gastronomy and events institution since 1925, with brasserie, bar, beer garden and hotel. During the three days of Fasnacht it runs a dedicated brasserie from 15 to 22 h.",
+   "tip": "Fasnacht food such as Mehlsuppe is the tradition during those days, but check the menu. Outside carnival, the brasserie serves Mediterranean classics.",
+   "q": "Volkshaus Basel, Rebgasse 12-14, Basel",
+   "ll": [
+    47.56,
+    7.5933
+   ],
+   "src": [
+    "https://volkshaus-basel.ch/en/fasnacht-im-volkshaus-basel",
+    "https://www.basel.com/en/restaurants-nightlife/brasserie-und-bar-volkshaus-basel-4d721c5c0c"
+   ]
+  },
+  {
+   "id": "kaffee1777",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have a flat white at 1777 Kaffee in the Schmiedenhof",
+   "desc": "1777 Kaffee is a café-bar in Basel's old town at Im Schmiedenhof 10, serving freshly brewed coffee from the partner roastery Haenowitz & Page.",
+   "tip": "Hours are not confirmed here; check before going. It sits just off the Spalenberg.",
+   "q": "1777 Kaffee, Im Schmiedenhof 10, Basel",
+   "ll": [
+    47.54444,
+    7.5891
+   ],
+   "src": [
+    "https://tripaligner.com/countries/switzerland-14/destinations/basel-7179/places/1777-kaffee-restaurant-bar-8280352"
+   ]
+  }
+ ]
+}

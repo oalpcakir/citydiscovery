@@ -1,0 +1,862 @@
+{
+ "new": [
+  {
+   "id": "jetdeau",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Watch the Jet d'Eau shoot 140 metres over the lake",
+   "desc": "Geneva's emblem is a fountain at the end of the Eaux-Vives jetty, throwing about 500 litres of lake water per second up to roughly 140 metres. The first jet dates to 1886 as a hydraulic safety valve; the current pumping station was installed in 1951.",
+   "tip": "Walk out along the Jetée des Eaux-Vives for the spray, or see it from the Quai Gustave-Ador. The jet can be switched off in strong wind or frost.",
+   "q": "Jet d'Eau, Quai Gustave-Ador, Genève",
+   "ll": [
+    46.20567,
+    6.1575
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Jet_d'eau",
+    "https://www.geneve.com/en/see-do/attractions/the-jet-deau"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stpierre",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb the towers of St. Pierre Cathedral",
+   "desc": "The Protestant cathedral of the Old Town was Calvin's church during the Reformation. Climbing about 157 steps in the towers gives views over the Old Town, the lake, the Jet d'Eau and the Alps.",
+   "tip": "Tower access closes 30 minutes before the building; check hours and the ticket price (about 7 CHF). Combined tickets also cover the archaeological site.",
+   "q": "Cathédrale Saint-Pierre, Cour de Saint-Pierre, Genève",
+   "ll": [
+    46.20111,
+    6.14811
+   ],
+   "src": [
+    "https://www.geneve.com/en/attractions/towers-of-stpeters-cathedral",
+    "https://www.myswitzerland.com/en/experiences/saint-pierre-cathedral-geneva/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "maisontavel",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step inside Maison Tavel, Geneva's oldest house",
+   "desc": "The oldest preserved private residence in Geneva has been the Museum of urban history and daily life since 1986. Its attic holds the Relief Magnin, a large model of Geneva as it looked in 1850.",
+   "tip": "Open 11:00 to 18:00, closed Mondays; permanent exhibition is free. Combine with the cathedral just up the street.",
+   "q": "Maison Tavel, Rue du Puits-Saint-Pierre 6, Genève",
+   "ll": [
+    46.20153,
+    6.14773
+   ],
+   "src": [
+    "https://www.geneve.ch/maison-tavel",
+    "https://www.museums.ch/fr/visite-au-musee/musees/musees/maison-tavel-(mah)-2026.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bourgdefour",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Linger on Place du Bourg-de-Four",
+   "desc": "Widely called the heart and oldest square of the Old Town, it stands on the site of the Roman forum and hosted medieval markets and fairs. Today it is ringed by cafés, with a fountain and the Palais de Justice nearby.",
+   "tip": "Sit on a café terrace in the late afternoon; the square is quiet in the early morning.",
+   "q": "Place du Bourg-de-Four, Genève",
+   "ll": [
+    46.20083,
+    6.14833
+   ],
+   "src": [
+    "https://www.geneve.com/en/attractions/place-du-bourg-de-four"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "reformationwall",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Meet Calvin and Knox at the Reformation Wall",
+   "desc": "This 100-metre monument in Parc des Bastions was unveiled in 1909 for Calvin's 400th birthday. Statues of Calvin, Farel, Théodore de Bèze and John Knox flank the motto Post Tenebras Lux.",
+   "tip": "Always accessible and free. Combine with the giant chessboards in the park and the University buildings.",
+   "q": "Mur des Réformateurs, Promenade des Bastions, Genève",
+   "ll": [
+    46.20019,
+    6.14578
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Reformation_Wall",
+    "https://www.geneve.ch/en/reformation-wall"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "flowerclock",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Check the time at the Flower Clock",
+   "desc": "The Horloge fleurie in the Jardin Anglais was laid out in 1955 and is 5 metres across, with a 2.5-metre second hand. The plantings change with the season, and it is among the most photographed sights in Geneva.",
+   "tip": "Free and open day and night; the Jet d'Eau is a short stroll along the quay.",
+   "q": "Horloge fleurie, Quai du Général-Guisan 28, Genève",
+   "ll": [
+    46.20418,
+    6.15098
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/L%27horloge_fleurie",
+    "https://www.geneve.ch/en/jardin-anglais"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "brokenchair",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Broken Chair opposite the UN",
+   "desc": "This 12-metre wooden chair with a shattered leg stands on Place des Nations as a monument against landmines. It was installed in 1997 by Handicap International, designed by Daniel Berset, and was meant to stay only three months.",
+   "tip": "Free, 15 to 30 minutes. Early morning avoids tour buses.",
+   "q": "Broken Chair, Place des Nations, Genève",
+   "ll": [
+    46.2228,
+    6.13885
+   ],
+   "src": [
+    "https://www.geneve.ch/broken-chair",
+    "https://www.traveldojo.com/broken-chair"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "palaisnations",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Tour the Palais des Nations",
+   "desc": "The UN's European headquarters houses the Assembly Hall and the Council Chamber in a vast park. Guided tours show the meeting rooms and the art given by member states.",
+   "tip": "Book guided tours in advance, often weeks ahead, and bring photo ID.",
+   "q": "Palais des Nations, Avenue de la Paix 14, Genève",
+   "ll": [
+    46.22667,
+    6.14083
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/headquarters-of-the-un-in-europe/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "redcrossmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Discover humanitarian history at the Red Cross Museum",
+   "desc": "The museum next to the ICRC headquarters presents the history and current challenges of humanitarian action. It preserves over 30,000 objects, including Henry Dunant's 1901 Nobel Peace Prize medal and a major collection of humanitarian posters.",
+   "tip": "Open 10:00 to 17:00; adult ticket about 15 CHF. Funding was secured in 2025 after a closure threat, but confirm opening before visiting.",
+   "q": "Musée international de la Croix-Rouge et du Croissant-Rouge, Avenue de la Paix 17, Genève",
+   "ll": [
+    46.2277,
+    6.1356
+   ],
+   "src": [
+    "https://redcrossmuseum.ch/about",
+    "https://en.wikipedia.org/wiki/International_Red_Cross_and_Red_Crescent_Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "patekmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire timepieces at the Patek Philippe Museum",
+   "desc": "Opened in 2001 in a former workshop in Plainpalais, it shows antique watches, enamels and automata from the 16th century and Patek Philippe's own watches since 1839. A library holds more than 8,000 volumes on timekeeping.",
+   "tip": "Open Tuesday to Saturday (afternoons, Saturday from 10:00); about 10 CHF. Check hours first.",
+   "q": "Patek Philippe Museum, Rue des Vieux-Grenadiers 7, Genève",
+   "ll": [
+    46.1984,
+    6.13827
+   ],
+   "src": [
+    "https://www.patek.com/en/museum/the-patek-philippe-museum",
+    "https://www.myswitzerland.com/en/experiences/patek-philippe-museum/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mah",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Wander the Musée d'Art et d'Histoire",
+   "desc": "Designed by Marc Camoletti and opened in 1910, MAH is among the largest museums in Switzerland, with about 650,000 objects across archaeology, fine arts and applied arts. Only a small part is on permanent display.",
+   "tip": "Entry is pay-what-you-wish (suggested 5 to 20 CHF). Thursday evening opening is later; confirm hours.",
+   "q": "Musée d'art et d'histoire, Rue Charles-Galland 2, Genève",
+   "ll": [
+    46.20039,
+    6.15228
+   ],
+   "src": [
+    "https://www.museums.ch/fr/visite-au-musee/musees/musees/musee-dart-et-dhistoire-de-geneve-(mah)-2030.html",
+    "https://www.geneve.com/en/attractions/detail/museum-of-art-and-history"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ariana",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See glass and ceramics at the Musée Ariana",
+   "desc": "The Swiss museum of ceramics and glass sits in a building of 1877 to 1884 created by Gustave Revilliod, named after his mother. It holds more than 20,000 objects spanning 1,200 years.",
+   "tip": "Free for permanent collections. Open Tuesday to Sunday; the park outside is pleasant.",
+   "q": "Musée Ariana, Avenue de la Paix 10, Genève",
+   "ll": [
+    46.22541,
+    6.13883
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Mus%C3%A9e_Ariana",
+    "https://www.myswitzerland.com/en/experiences/musee-ariana-1/"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "jardinbotanique",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stroll the Conservatoire et Jardin botaniques",
+   "desc": "Founded in 1817 by botanist de Candolle and moved to its lakeside site in 1904, it has greenhouses and one of the world's largest herbaria. Two historic mansions, La Console and Le Chêne, stand in the grounds.",
+   "tip": "Entry to the garden and greenhouses is free; free guided tours from April to November need online booking.",
+   "q": "Conservatoire et Jardin botaniques, Chemin de l'Impératrice 1, Chambésy",
+   "ll": [
+    46.22934,
+    6.1475
+   ],
+   "src": [
+    "https://www.montsdugenevois.com/en/offers/conservatoire-et-jardin-botaniques-geneve-en-4757827",
+    "https://www.routard.com/fr/guide/europe/suisse/geneve/jardin-botanique"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rosegarden",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Smell the roses in Parc La Grange",
+   "desc": "The rose garden, created in 1946 on 12,000 square metres, grew about 12,000 roses in 150 varieties. It hosted the Concours international de roses nouvelles from 1947 until 2015 and was renovated in 2020 and 2021.",
+   "tip": "Best in June when roses peak. Free entry; the lawn above gives lake views.",
+   "q": "Roseraie du Parc La Grange, Quai Gustave-Ador, Genève",
+   "ll": [
+    46.2057,
+    6.1638
+   ],
+   "src": [
+    "https://www.geneve.ch/jardin-roses-parc-grange",
+    "https://www.swissinfo.ch/eng/geneva-says-it-with-flowers/1531398"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "cernsciencegateway",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore the CERN Science Gateway in Meyrin",
+   "desc": "Designed by Renzo Piano and opened in 2023, it has free hands-on exhibitions such as Discover CERN, Our Universe and Quantum World. Two pavilions span the Route de Meyrin.",
+   "tip": "Exhibitions are free; guided lab tours must be booked in advance.",
+   "q": "CERN Science Gateway, Esplanade des Particules 1, Meyrin",
+   "ll": [
+    46.2343,
+    6.0556
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-ie/experiences/cities-culture/stories/cern-science-gateway/",
+    "https://home.cern/fr/cern-science-gateway-interactive-exhibitions-everyone/"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hermancevillage",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Wander medieval Hermance on the lakeshore",
+   "desc": "The village 12 km north-east of the city was fortified from 1247. Its round tower of 1337 to 1338 and parts of the walls remain, and it joined the canton of Geneva in 1816.",
+   "tip": "Reach it by bus in about 25 minutes. Combine with the lakeside beach.",
+   "q": "Tour de Hermance, Hermance",
+   "ll": [
+    46.30081,
+    6.24556
+   ],
+   "src": [
+    "https://www.geneve.com/en/attractions/hermance-village",
+    "https://hls-dhs-dss.ch/fr/articles/002907"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "carougeoldtown",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore Carouge's Sardinian old town",
+   "desc": "South of the Arve, Carouge was planned by Turin architects for the King of Sardinia in the 18th century. Italian-style squares, courtyards and artisan workshops fill the grid of streets.",
+   "tip": "Wander on weekday afternoons for open ateliers; tram 12 from the centre.",
+   "q": "Place de Sardaigne, Carouge",
+   "ll": [
+    46.18378,
+    6.14031
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/carouge-geneve/",
+    "https://geneva.info/carouge"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "cafesoleil",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat fondue at the Café du Soleil",
+   "desc": "This Petit-Saconnex café, said to be about 400 years old, is considered a benchmark for Geneva fondue. It serves it with Gruyère from La Roche; the classic moitié-moitié was around 29 CHF.",
+   "tip": "Book ahead; fondue is best in the cold season and the terrace faces the temple.",
+   "q": "Café du Soleil, Place du Petit-Saconnex 6, Genève",
+   "ll": [
+    46.22324,
+    6.12767
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/cafe-du-soleil/",
+    "https://www.geneve.com/en/restaurants/le-cafe-du-soleil"
+   ]
+  },
+  {
+   "id": "lesarmures",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order fondue at Les Armures in the Old Town",
+   "desc": "A tavern in a historic Old Town house, it is known for its half-and-half fondue of Vacherin and Gruyère and for raclette. It has a summer terrace.",
+   "tip": "Open daily; budget CHF 25 to 40. Reserve for evenings.",
+   "q": "Restaurant Les Armures, Rue du Puits-Saint-Pierre 1, Genève",
+   "ll": [
+    46.2013,
+    6.14728
+   ],
+   "src": [
+    "https://www.timeout.com/switzerland/restaurants-and-cafes/les-armures",
+    "https://geneve.com/en/restaurants/restaurant-les-armures"
+   ]
+  },
+  {
+   "id": "durhone",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste Geneva chocolate at Du Rhône",
+   "desc": "Du Rhône is a chocolatier founded in 1875, known for hand-made pralines and truffles. Its shop is listed on Rue de la Confédération (some listings give other addresses).",
+   "tip": "Phone ahead to confirm the shop address and hours.",
+   "q": "Du Rhône Chocolatier, Rue de la Confédération 3, Genève",
+   "ll": [
+    46.20245,
+    6.15475
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-au/experiences/chocolate-tasting/",
+    "https://www.geneve.com/es/restaurants/du-rhone-chocolatier"
+   ]
+  },
+  {
+   "id": "buvettebains",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dip into winter fondue at La Buvette des Bains",
+   "desc": "At the end of the long wooden pier of the Bains des Pâquis, this restaurant serves a crémant fondue in the evenings, with views over the lake. It is independent from the baths.",
+   "tip": "Reserve; fondue is served in the cold months from 18:00. The baths charge a small entry fee.",
+   "q": "La Buvette des Bains, Quai du Mont-Blanc 30, Genève",
+   "ll": [
+    46.21025,
+    6.15408
+   ],
+   "src": [
+    "https://www.timeout.com/switzerland/restaurants-and-cafes/la-buvette-des-bains",
+    "https://aubp.ch/en/restaurant"
+   ],
+   "months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "cafedeparis",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat the butter-sauce entrecôte at Café de Paris",
+   "desc": "Chef Boubier opened it in 1930 serving one dish: entrecôte with a secret butter sauce, a green salad and fries, which inspired many imitators.",
+   "tip": "Expect queues at peak times; it opens daily from 08:30.",
+   "q": "Café de Paris, Rue du Mont-Blanc 26, Genève",
+   "ll": [
+    46.20897,
+    6.14394
+   ],
+   "src": [
+    "https://assets.atlasobscura.com/places/cafe-de-paris",
+    "https://www.geneve.com/fr/restaurants/chez-boubier-cafe-de-paris"
+   ]
+  },
+  {
+   "id": "petitcarougeois",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sip wine at Le Petit Carougeois",
+   "desc": "A bistro on Rue Saint-Joseph in Carouge with comfort cooking and a curated wine list.",
+   "tip": "Open lunch and dinner Tuesday to Saturday; book dinner.",
+   "q": "Le Petit Carougeois, Rue Saint-Joseph 6, Carouge",
+   "ll": [
+    46.22317,
+    6.12811
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-ch/experiences/food-wine/restaurant/le-petit-carougeois/"
+   ]
+  },
+  {
+   "id": "liondor",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine at the Bistrot du Lion d'Or in Carouge",
+   "desc": "A classic French bistro in a hotel dating from 1750, with a garden terrace. Listed by the Michelin Guide.",
+   "tip": "Reserve a garden table in summer.",
+   "q": "Bistrot du Lion d'Or, Rue Ancienne 53, Carouge",
+   "ll": [
+    46.18046,
+    6.14033
+   ],
+   "src": [
+    "https://guide.michelin.com/ae-az/en/geneve-region/carouge/restaurant/le-bistrot-le-lion-d-or",
+    "https://www.enprimeurclub.com/restaurants/bistrot-du-lion-dor"
+   ]
+  },
+  {
+   "id": "cafenegociants",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have lunch at the Café des Négociants",
+   "desc": "A Carouge bistro in the style of Lyon's bouchons, serving hearty traditional dishes.",
+   "tip": "Go at lunch for the daily menu.",
+   "q": "Café des Négociants, Rue de la Filature 29, Carouge",
+   "ll": [
+    46.18567,
+    6.14028
+   ],
+   "src": [
+    "https://timeout.com/switzerland/restaurants-and-cafes/cafe-des-negociants",
+    "https://www.geneve.com/fr/restaurants/cafe-des-negociants"
+   ]
+  },
+  {
+   "id": "cafepapon",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Take a terrace seat at Café Papon",
+   "desc": "This Old Town café beside the Town Hall traces back to 1808, when lemonade maker Antoine Papon founded it. It serves a seasonal local menu with a sunny terrace next to the Treille bench.",
+   "tip": "Open Monday to Saturday; a good stop after the cathedral.",
+   "q": "Café Papon, Rue Henri-Fazy 1, Genève",
+   "ll": [
+    46.201,
+    6.1465
+   ],
+   "src": [
+    "https://timeout.com/switzerland/restaurants-and-cafes/cafe-papon",
+    "https://wanderlog.com/place/details/1166859"
+   ]
+  },
+  {
+   "id": "chezmacousine",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat roast chicken at Chez Ma Cousine",
+   "desc": "A Bourg-de-Four spot known for roast chicken with rustic potatoes and salads at low prices. Bookings are not accepted.",
+   "tip": "Arrive outside peak hours; mains are CHF 15 to 20.",
+   "q": "Chez Ma Cousine, Place du Bourg-de-Four 6, Genève",
+   "ll": [
+    46.20077,
+    6.14843
+   ],
+   "src": [
+    "https://www.geneve.com/en/restaurants/chez-ma-cousine-vieille-ville",
+    "https://timeout.com/switzerland/restaurants-and-cafes/chez-ma-cousine"
+   ]
+  },
+  {
+   "id": "cafebourgdefour",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order the plat du jour at Café du Bourg-de-Four",
+   "desc": "A classic café-bar on the Old Town square, known for daily set lunches at good value.",
+   "tip": "Sit outside on the square in good weather.",
+   "q": "Café du Bourg-de-Four, Place du Bourg-de-Four 13, Genève",
+   "ll": [
+    46.20055,
+    6.14835
+   ],
+   "src": [
+    "https://www-lonelyplanet-com-6c06.imagizer.com/switzerland/geneva/restaurants/cafe-du-bourg-de-four/a/poi-eat/1574665/360817"
+   ]
+  },
+  {
+   "id": "cavegeneve",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste Geneva wines at La Cave de Genève in Satigny",
+   "desc": "Satigny is home to La Cave de Genève, the canton's main cooperative, which offers a sampler of local styles. Geneva is Switzerland's third-largest wine region with about 1,500 hectares of vines.",
+   "tip": "Check tasting hours and book groups in advance.",
+   "q": "La Cave de Genève, Satigny",
+   "ll": [
+    46.20781,
+    6.02764
+   ],
+   "src": [
+    "https://wideworldofwine.co/2025/10/30/switzerland-2025-part-3-geneva-rive-droite-dardagny/",
+    "https://www.geneve.com/en/see-do/through-the-seasons/geneva-in-autumn/discovering-genevas-vineyards"
+   ]
+  },
+  {
+   "id": "domainecharmes",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Visit the organic Domaine des Charmes in Satigny",
+   "desc": "An organic winery in 17th-century stone buildings on the Peissy hillside, with tastings in the cellar.",
+   "tip": "Make an appointment before going.",
+   "q": "Domaine des Charmes, Peissy, Satigny",
+   "ll": [
+    46.21355,
+    6.02295
+   ],
+   "src": [
+    "https://www.enprimeurclub.com/wineries/domaine-des-charmes-satigny"
+   ]
+  },
+  {
+   "id": "domaineroche",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste at Domaine de la Roche 1859 in Dardagny",
+   "desc": "A small estate of 13 hectares across Dardagny, Russin and Satigny, with cave tastings and possible outdoor sessions. Dardagny is often treated as the go-to village for Geneva wine.",
+   "tip": "Book a tasting ahead; combine with a village walk.",
+   "q": "Domaine de la Roche 1859, Dardagny",
+   "ll": [
+    46.1906,
+    5.998
+   ],
+   "src": [
+    "https://www.enprimeurclub.com/wineries/domaine-de-la-roche-1859-dardagny"
+   ]
+  },
+  {
+   "id": "paquisswim",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Swim in the lake at the Bains des Pâquis",
+   "desc": "Built in the 1930s, these public baths on a pier offer lake swimming, a beach and a restaurant, run in a community spirit after a 1987 campaign against modernisation.",
+   "tip": "Small entry fee; arrive early on hot days.",
+   "q": "Bains des Pâquis, Quai du Mont-Blanc 30, Genève",
+   "ll": [
+    46.21036,
+    6.15419
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-ie/experiences/bains-des-paquis-1/",
+    "https://www.geneve.com/en/explore-the-city/baignade"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "paquiswinter",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Do a winter sauna and lake plunge at the Bains des Pâquis",
+   "desc": "In winter the baths host a hammam and sauna, with swimmers plunging into the lake whatever the weather, finishing with fondue at the Buvette.",
+   "tip": "Winter hours are about 09:00 to 21:30; the hammam costs around CHF 20.",
+   "q": "Bains des Pâquis, Quai du Mont-Blanc 30, Genève",
+   "ll": [
+    46.21036,
+    6.15419
+   ],
+   "src": [
+    "https://monocle.com/design/geneva-bains-des-paquis-public-baths/",
+    "https://www.timeout.com/switzerland/things-to-do/bains-des-paquis"
+   ],
+   "months": [
+    11,
+    12,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "mouettes",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cross the harbour on a Mouette boat",
+   "desc": "The yellow Mouettes Genevoises water-buses have run since 1897 and cross between the Pâquis and the Eaux-Vives in about 4 minutes. They are part of the Unireso fare network.",
+   "tip": "Boats run roughly every 10 minutes on line M2; check the timetable.",
+   "q": "Mouettes Genevoises, Pâquis, Quai du Mont-Blanc, Genève",
+   "ll": [
+    46.20963,
+    6.15127
+   ],
+   "src": [
+    "https://torpille.ch/listing/mouettes-genevoises/",
+    "https://geneva.info/lake-boats"
+   ]
+  },
+  {
+   "id": "cgncruise",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cruise Lake Geneva on a Belle Époque steamer",
+   "desc": "CGN runs paddle steamers on the lake; the Geneva Grand Tour lasts about two hours and passes the Jet d'Eau, the Palais des Nations and lakeside villas.",
+   "tip": "Tickets and timetable at cgn.ch; check which steamer sails.",
+   "q": "Embarcadère Jardin Anglais CGN, Quai du Mont-Blanc, Genève",
+   "ll": [
+    46.2063,
+    6.15
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-us/experiences/steam-cruises-on-lake-geneva/",
+    "https://www.swissactivities.com/en-ch/excursions/lac-leman/geneva-grand-tour-boat/"
+   ]
+  },
+  {
+   "id": "plainpalaisflea",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Hunt for treasures at the Plainpalais flea market",
+   "desc": "Every Wednesday and Saturday, and the first Sunday of each month, the Plaine de Plainpalais fills with about 300 stalls, a tradition since 1970.",
+   "tip": "Saturday has the best vintage selection; opens from 06:30.",
+   "q": "Plaine de Plainpalais, Avenue du Mail, Genève",
+   "ll": [
+    46.1995,
+    6.1404
+   ],
+   "src": [
+    "https://www.geneve.com/en/attractions/detail/flea-market-of-plainpalais"
+   ]
+  },
+  {
+   "id": "carougemarket",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Carouge market on Place du Marché",
+   "desc": "The market on the square sells fruit, cheese, honey, bread, flowers and wine on Wednesday and Saturday mornings.",
+   "tip": "Go early; Saturday is crowded near noon.",
+   "q": "Place du Marché, Carouge",
+   "ll": [
+    46.18412,
+    6.14082
+   ],
+   "src": [
+    "https://www.geneve.com/en/attractions/detail/carouge-market",
+    "https://timeout.com/switzerland/shopping/carouge-market"
+   ]
+  },
+  {
+   "id": "rivemarket",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Shop at the Marché de Rive",
+   "desc": "The large food market on Boulevard Helvétique, beside the indoor Halle de Rive, is described as the biggest food market in Geneva.",
+   "tip": "Days vary by source; check the city schedule before going.",
+   "q": "Marché de Rive, Boulevard Helvétique, Genève",
+   "ll": [
+    46.202,
+    6.1549
+   ],
+   "src": [
+    "https://theculturetrip.com/europe/switzerland/articles/the-5-best-markets-in-geneva-shopping-in-switzerland",
+    "https://www.expatexchange.com/ctryguide/22941/104/Switzerland/Living-in-Geneva-Best-Markets-in-Geneva"
+   ]
+  },
+  {
+   "id": "escaladefest",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Join the Escalade festival in December",
+   "desc": "The festival marks the failed Savoyard attack of 1602. It features a historical procession, the legend of Mère Royaume's soup pot, and the breaking of chocolate marmites. The 2026 edition runs 11 to 13 December.",
+   "tip": "The big procession is on Sunday; dress warm for the Old Town streets.",
+   "q": "Place de la Taconnerie, Vieille Ville, Genève",
+   "ll": [
+    46.20098,
+    6.14808
+   ],
+   "src": [
+    "https://www.geneve.com/en/see-do/history-culture/fete-de-lescalade",
+    "https://www.myswitzerland.com/en/experiences/food-wine/marmite-de-lescalade-choc-pot/"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    12
+   ]
+  },
+  {
+   "id": "escaladerace",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Run the Course de l'Escalade through the Old Town",
+   "desc": "The 2025 edition drew more than 57,000 runners. Routes start in the Old Town and finish in Parc des Bastions; a costumed Course de la Marmite runs on Saturday evening.",
+   "tip": "Register online ahead; the next edition is early December 2026.",
+   "q": "Parc des Bastions, Promenade des Bastions, Genève",
+   "ll": [
+    46.20005,
+    6.1447
+   ],
+   "src": [
+    "https://www.geneve.com/en/events/47e-course-de-lescalade",
+    "https://www.iamexpat.ch/lifestyle/expat-events-festivals/escalade-races"
+   ],
+   "months": [
+    12
+   ]
+  },
+  {
+   "id": "genevaplage",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Spend a day at Genève-Plage",
+   "desc": "This lakeside leisure complex in Cologny, inaugurated in 1932, has a large swimming basin, paddling pool, toboggan, lawns and a restaurant. The season runs May to September.",
+   "tip": "Adults pay about 7 CHF; a hammam spa is next door.",
+   "q": "Genève-Plage, Quai de Cologny, Cologny",
+   "ll": [
+    46.21402,
+    6.17302
+   ],
+   "src": [
+    "https://www.geneve.com/en/attractions/detail/bain-bleu-hammam-spa-geneve-plage",
+    "https://torpille.ch/listing/geneve-plage/"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "babyplage",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Swim at the free Baby-Plage",
+   "desc": "A free sand-and-grass beach on the Eaux-Vives side with a play area for children, open all year.",
+   "tip": "Swimming in summer only; bring a towel.",
+   "q": "Baby-Plage, Quai Gustave-Ador, Genève",
+   "ll": [
+    46.20848,
+    6.16288
+   ],
+   "src": [
+    "https://www.geneve.ch/en/baby-plage",
+    "https://www.geneve.com/en/attractions/baby-beach"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "hermancebeach",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Swim at Hermance beach",
+   "desc": "The village's lakeside beach is popular for swimming and a starting point for cycling routes.",
+   "tip": "Buses connect from Geneva; best on summer afternoons.",
+   "q": "Plage de Hermance, Hermance",
+   "ll": [
+    46.30362,
+    6.24083
+   ],
+   "src": [
+    "https://www.geneve.com/en/attractions/hermance-beach"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "bainbleu",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Relax in the Bain Bleu hammam and spa",
+   "desc": "A bathing complex next to Genève-Plage with indoor and outdoor pools and steam baths.",
+   "tip": "Check hours and price on the spa's site.",
+   "q": "Bain Bleu Hammam & Spa, Quai de Cologny, Cologny",
+   "ll": [
+    46.21316,
+    6.17354
+   ],
+   "src": [
+    "https://www.geneve.com/en/attractions/detail/bain-bleu-hammam-spa-geneve-plage"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  }
+ ]
+}

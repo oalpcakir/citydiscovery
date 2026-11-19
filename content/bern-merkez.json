@@ -1,0 +1,909 @@
+{
+ "new": [
+  {
+   "id": "zytglogge",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Watch the Zytglogge astronomical clock strike the hour",
+   "desc": "The Zytglogge is a clock tower at the end of Kramgasse, built c. 1218-20 as the western gate of the early city. Its astronomical clock dates to 1530 and its figures perform four minutes before each hour.",
+   "tip": "Arrive about five minutes before the hour for the figure show. Guided tower tours of the clockwork run from the tourist office.",
+   "q": "Zytglogge, Kramgasse, Altstadt, Bern",
+   "ll": [
+    46.94809,
+    7.44744
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Zytglogge",
+    "https://www.swissinfo.ch/eng/swiss-oddities/zytglogge-the-mechanical-heart-of-the-city-of-bern/89600982"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bernermuenster",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb the Berner Münster tower for views over the Aare loop",
+   "desc": "The late Gothic Münster St. Vinzenz is Switzerland's largest church and its tower is the tallest in the country. The climb has 254 steps to the first terrace and 344 to the higher one, with views over the Old Town and the Alps.",
+   "tip": "Church entry is free, the tower costs a small fee. Last ascent is at 16:30; check winter hours at bernermuenster.ch.",
+   "q": "Berner Münster, Münsterplatz 1, Altstadt, Bern",
+   "ll": [
+    46.947,
+    7.45125
+   ],
+   "src": [
+    "https://www.bernermuenster.ch/besuchen/oeffnungszeiten",
+    "https://www.alpen-guide.de/reisefuehrer/poi/muensterturm-bern"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bundeshaus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Tour the Bundeshaus, Switzerland's Federal Palace",
+   "desc": "The Bundeshaus houses the Swiss parliament and government, completed in 1902 in neo-Renaissance style. Free guided tours of about an hour run in English, German, French and Italian outside session weeks.",
+   "tip": "Book on parlament.ch ahead and bring ID; arrive 20 minutes early for the security check. Tours are not offered in every week.",
+   "q": "Bundeshaus, Bundesplatz, Bern",
+   "ll": [
+    46.94661,
+    7.44436
+   ],
+   "src": [
+    "https://www.parlament.ch/de/services/besuch-im-bundeshaus",
+    "https://hls-dhs-dss.ch/de/articles/011007/2010-05-07/"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "einsteinhaus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step into Einstein's flat at Kramgasse 49",
+   "desc": "Albert Einstein lived on the second floor of this Old Town house with his family from 1903 to 1905, the period of his light quantum paper and special relativity. The flat is furnished in period style and runs as a small museum.",
+   "tip": "Climb the stairs, there is no lift. Hours vary by season and the museum closes for part of the winter, so check einstein-bern.ch.",
+   "q": "Einsteinhaus, Kramgasse 49, Altstadt, Bern",
+   "ll": [
+    46.94797,
+    7.44932
+   ],
+   "src": [
+    "https://www.museums.ch/de/museumsbesuch/museen/museen/einstein-haus-2890.html",
+    "https://www.myswitzerland.com/en-se/experiences/einstein-house/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "zentrumpaulklee",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore the Zentrum Paul Klee in Renzo Piano's wave building",
+   "desc": "The museum east of the centre holds about 4,000 works by Paul Klee, who grew up in Bern. Renzo Piano's three steel-and-glass waves rise out of the Schosshalde hillside landscape.",
+   "tip": "Take bus 12 from the station to the terminus. Open Tuesday to Sunday, 10:00-17:00.",
+   "q": "Zentrum Paul Klee, Monument im Fruchtland 3, Bern",
+   "ll": [
+    46.94835,
+    7.47493
+   ],
+   "src": [
+    "https://www.zpk.org/en/node/383",
+    "https://www.museum.de/en/museen/zentrum-paul-klee"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "kunstmuseumbern",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See Hodler and Klee at the Kunstmuseum Bern",
+   "desc": "Founded in 1879, the Kunstmuseum has over 3,000 paintings and sculptures from the late Middle Ages to today, with strong holdings of Ferdinand Hodler, Paul Klee and Picasso. Hodler's Die Nacht (1889-90) is among the highlights.",
+   "tip": "Open Wednesday to Sunday from 10:00 and later on Tuesdays. Five minutes on foot from the station.",
+   "q": "Kunstmuseum Bern, Hodlerstrasse 8-12, Bern",
+   "ll": [
+    46.95121,
+    7.4431
+   ],
+   "src": [
+    "https://guide.kunstmuseumbern.ch/en/sammlung",
+    "https://www.museums.ch/de/museumsbesuch/museen/museen/kunstmuseum-bern-2503.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bhmeinstein",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Meet Einstein and the Middle Ages at the Bernisches Historisches Museum",
+   "desc": "The museum in Kirchenfeld opened in 1894 in a castle-like building and holds around 500,000 objects. It also hosts the permanent Einstein Museum on the physicist's life and the relativity theory he developed in Bern.",
+   "tip": "Tickets are about CHF 16, CHF 18 with the Einstein Museum. Tram 6, 7 or 8 to Helvetiaplatz.",
+   "q": "Bernisches Historisches Museum, Helvetiaplatz 5, Bern",
+   "ll": [
+    46.94285,
+    7.45035
+   ],
+   "src": [
+    "https://www.museums.ch/de/museumsbesuch/museen/museen/bernisches-historisches-museum-einstein-museum-1923.html",
+    "https://EN.wikipedia.com/wiki/Bern_Historical_Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "naturhistorisches",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk through the historic dioramas of the Naturhistorisches Museum",
+   "desc": "Housed on Bernastrasse since 1936, the museum shows over 160 historic dioramas, from Alpine meadows to the African savanna. The building was erected to display animals shot on East African safaris in 1923-24.",
+   "tip": "Adults pay about CHF 12. It is next to the Kirchenfeld museums, so combine it with the historical museum.",
+   "q": "Naturhistorisches Museum Bern, Bernastrasse 15, Bern",
+   "ll": [
+    46.94193,
+    7.44945
+   ],
+   "src": [
+    "https://www.nmbe.ch/en/exhibitions/animals-of-africa",
+    "https://en.Wikipedia.com/wiki/Natural_History_Museum_Bern"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rosengarten",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Look over the Old Town from the Rosengarten",
+   "desc": "The Rosengarten is a hilltop park east of the Old Town, known for the classic view of the Aare loop and the Münster. The city is planning a renovation of the park, so some areas may change.",
+   "tip": "Come near sunset for the view. It is a short uphill walk from the Bärenpark.",
+   "q": "Rosengarten, Alter Aargauerstalden, Bern",
+   "ll": [
+    46.95121,
+    7.4608
+   ],
+   "src": [
+    "https://www.bern.com/en/detail/the-rose-garden",
+    "https://www.bern.ch/themen/freizeit-und-sport/grunanlagen/parkanlagen/rosengarten/downloads-1/rosengarten-brosch.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "baerenpark",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the bears at the BärenPark by the Aare",
+   "desc": "The BärenPark opened in 2009 on the Aare slope next to the Nydegg Bridge, replacing the old Bärengraben pit. The bears are Bern's heraldic animal, and entry is free.",
+   "tip": "Open all year; the bears are most active in the morning. Walk down from the Nydegg Bridge.",
+   "q": "BärenPark, Grosser Muristalden 6, Bern",
+   "ll": [
+    46.94755,
+    7.46
+   ],
+   "src": [
+    "https://tierpark-bern.ch/en/?p=39113",
+    "https://switzerlanding.com/bear-park-bern/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kindlifresser",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find the Kindlifresserbrunnen, Bern's child-eater fountain",
+   "desc": "Hans Gieng carved this fountain on Kornhausplatz in 1545-46, replacing a 15th-century wooden one. The ogre devouring children is of disputed meaning, and a newer panel nearby discusses the antisemitism debate.",
+   "tip": "One of many figure fountains on the Old Town main streets. Read the panel on site for context.",
+   "q": "Kindlifresserbrunnen, Kornhausplatz, Altstadt, Bern",
+   "ll": [
+    46.94836,
+    7.4463
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Kindlifresserbrunnen",
+    "https://www.srf.ch/news/schweiz/neue-erklaertafel-wer-ist-der-kindlifresser-auf-dem-beruehmten-brunnen-in-bern"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kaefigturm",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step inside the Käfigturm at the Polit-Forum Bern",
+   "desc": "The Käfigturm, once a city gate and later a prison, now houses the Polit-Forum, a democracy exhibition space. In 2026 it hosts the exhibition Macht und Heimat on federalism.",
+   "tip": "Open Tuesday to Friday 10:00-18:00 and Saturday 10:00-16:00, with free entry to most events.",
+   "q": "Käfigturm, Marktgasse 67, Altstadt, Bern",
+   "ll": [
+    46.94876,
+    7.44432
+   ],
+   "src": [
+    "https://www.openhouse-bern.org/en/programm/kaefigturm",
+    "https://bern.com/en/detail/prison-tower"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "museumkommunikation",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Test interactive exhibits at the Museum für Kommunikation",
+   "desc": "Founded in 1907 as the Swiss Post museum, this is the only Swiss museum devoted solely to communication. It won the Council of Europe Museum Prize in 2019.",
+   "tip": "Adults about CHF 15. Open Tuesday to Sunday 10:00-17:00; tram 6, 7 or 8 to Helvetiaplatz.",
+   "q": "Museum für Kommunikation, Helvetiastrasse 16, Bern",
+   "ll": [
+    46.94183,
+    7.45025
+   ],
+   "src": [
+    "https://www.museums.ch/de/museumsbesuch/museen/museen/museum-fuer-kommunikation-musee-de-la-communication-1926.html",
+    "https://www.myswitzerland.com/en/experiences/the-museum-of-communication/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "botanischergartenbern",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Wander the Botanischer Garten above the Aare",
+   "desc": "The University of Bern's botanical garden at Altenbergrain has over 6,000 species across more than two hectares and six glasshouses. The current site dates from 1862.",
+   "tip": "Free to enter according to the listing; check botanischergarten.ch for glasshouse hours. It sits next to the Lorraine bridge.",
+   "q": "Botanischer Garten der Universität Bern, Altenbergrain 21, Bern",
+   "ll": [
+    46.95273,
+    7.44487
+   ],
+   "src": [
+    "https://www.museums.ch/de/museumsbesuch/museen/museen/botanischer-garten-der-universitaet-bern-1924.html",
+    "https://www.myfarm.ch/en/botanischer-garten-der-universitaet-bern_AeKd2gE"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rathaus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the late Gothic Rathaus on Rathausplatz",
+   "desc": "The Bern Town Hall was built around 1406-1415 and is the seat of the cantonal government and parliament. It marked its 600th anniversary in 2017.",
+   "tip": "Visit for the exterior and double staircase; interior access is limited to events and open days.",
+   "q": "Rathaus des Kantons Bern, Rathausplatz 2, Altstadt, Bern",
+   "ll": [
+    46.94828,
+    7.45103
+   ],
+   "src": [
+    "https://www.wikipedia.com/wiki/Bern_Town_Hall",
+    "https://structurae.net/de/bauwerke/rathaus-von-bern"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "nydegg",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Cross the Nydeggbrücke to the Nydegg church and Untertor",
+   "desc": "The Nydeggbrücke, built 1840-44, links the eastern Old Town with the Aare slope. The Nydeggkirche at its end stands on the site of the Zähringer castle founded in 1191.",
+   "tip": "Best photographed from the Bärenpark side or the Untertorbrücke. Combine with a stop at the BärenPark.",
+   "q": "Nydeggkirche, Nydeggstalden, Altstadt, Bern",
+   "ll": [
+    46.94848,
+    7.4585
+   ],
+   "src": [
+    "https://www.wikipedia.com/wiki/Nydeggbr%C3%BCcke",
+    "https://wikipedia.com/wiki/Nydeggkirche"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "heiliggeistkirche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Duck into the baroque Heiliggeistkirche opposite the station",
+   "desc": "The Reformed Church of the Holy Spirit on Spitalgasse was built 1726-29 and is a heritage site of national significance. It stands on the site of the old hospital church.",
+   "tip": "Check opening times locally; it is also used for concerts and open-church events.",
+   "q": "Heiliggeistkirche, Spitalgasse 44, Bern",
+   "ll": [
+    46.9485,
+    7.4409
+   ],
+   "src": [
+    "https://en.wikipedia.com/wiki/Church_of_the_Holy_Ghost,_Bern",
+    "https://www.myswitzerland.com/en-au/experiences/heiliggeistkirche-holy-spirit-church/"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "tramdepot",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink the house-brewed beer at the Altes Tramdepot",
+   "desc": "A former tram depot at the BärenPark now holds a restaurant with a brewery run in copper vats in the middle of the room. It has a large beer garden above the Aare with views over the Old Town.",
+   "tip": "Try the house lagers or a seasonal brew with a Bernese plate. Open daily from 11:00.",
+   "q": "Altes Tramdepot, Grosser Muristalden 6, Bern",
+   "ll": [
+    46.94775,
+    7.4599
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/altes-tramdepot/",
+    "https://www.bern.com/en/detail/restaurant-altes-tramdepot"
+   ]
+  },
+  {
+   "id": "harmonie",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order cheese fondue at Restaurant Harmonie",
+   "desc": "Harmonie on Hotelgasse is one of the oldest traditional restaurants near the Zytglogge. It is known for its cheese fondue and classic Swiss dishes.",
+   "tip": "Book ahead in winter and confirm days off, as listings differ. Expect it to be pricey.",
+   "q": "Restaurant Harmonie, Hotelgasse 3, Altstadt, Bern",
+   "ll": [
+    46.9485,
+    7.44705
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/restaurant-harmonie/",
+    "https://www.myfarm.ch/en/plants/harmonie-bern_Ac2Vi5M"
+   ]
+  },
+  {
+   "id": "pyri",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have a coffee or evening drink at Café des Pyrénées",
+   "desc": "Locals call it the Pyri: a lively café-bar on Kornhausplatz beside the Kindlifresser fountain, open from morning until after midnight.",
+   "tip": "Good for a morning coffee or an evening beer on the square. Sunday opening is from noon.",
+   "q": "Café des Pyrénées, Kornhausplatz 17, Altstadt, Bern",
+   "ll": [
+    46.9482,
+    7.4463
+   ],
+   "src": [
+    "https://bern.com/en/detail/the-pyri-cafe-des-pyrenees",
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/restaurant-cafe-des-pyrenees"
+   ]
+  },
+  {
+   "id": "dellacasa",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat the Berner Platte at Restaurant Della Casa",
+   "desc": "Della Casa on Schauplatzgasse, known locally as the Delli, has run since 1892 as successor to the Café Frick. The Berner Platte is a hearty mix of pork, tongue, bacon and sausage served on sauerkraut.",
+   "tip": "Reserve, especially for the upstairs room. Open Monday to Friday and Saturday evening.",
+   "q": "Restaurant Della Casa, Schauplatzgasse 16, Altstadt, Bern",
+   "ll": [
+    46.948,
+    7.4435
+   ],
+   "src": [
+    "https://bern.com/en/detail/restaurant-della-casa",
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/restaurant-della-casa-1/"
+   ]
+  },
+  {
+   "id": "eichenberger",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Buy a Berner Haselnusslebkuchen at Confiserie Eichenberger",
+   "desc": "Eichenberger's house specialty is the Bernese hazelnut gingerbread made with hazelnuts and honey and decorated by hand with a bear. The Old Town shop on Kramgasse sells it all year.",
+   "tip": "Buy a bear-decorated Lebkuchen to take home. There are several branches, including Bahnhofplatz.",
+   "q": "Confiserie Eichenberger, Kramgasse 57, Altstadt, Bern",
+   "ll": [
+    46.949,
+    7.44035
+   ],
+   "src": [
+    "https://bern.com/en/detail/confiserie-eichenberger",
+    "https://en.wikipedia.com/wiki/Berner_Haselnusslebkuchen"
+   ]
+  },
+  {
+   "id": "schwellenmaetteli",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine over the Aare at the Schwellenmätteli",
+   "desc": "The Schwellenmätteli restaurants sit directly on the Aare with a terrace pavilion over the water and a view of the Old Town. The kitchen offers Mediterranean and Asian fish and seafood, and there is a fondue hut in winter.",
+   "tip": "Go on a warm evening for the terrace. Tram 6, 7 or 8 or bus 19; confirm hours on schwellenmaetteli.ch.",
+   "q": "Schwellenmätteli, Dalmaziquai 11, Bern",
+   "ll": [
+    46.94494,
+    7.4493
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-il/experiences/food-wine/restaurant/schwellenmaetteli-restaurants/",
+    "https://www.bern.com/en/detail/restaurant-schwellenmaetteli-bi"
+   ]
+  },
+  {
+   "id": "cafekairo",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Catch a concert and a falafel at Café Kairo",
+   "desc": "Café Kairo in the Lorraine district is a mix of café, bar and small restaurant with regular indie concerts and a small menu of falafel and burgers.",
+   "tip": "Cash only, per one guide. Check the concert programme at cafe-kairo.ch.",
+   "q": "Café Kairo, Dammweg 43, Lorraine, Bern",
+   "ll": [
+    46.9587,
+    7.44641
+   ],
+   "src": [
+    "https://spinach.guide/venues/cafe-kairo-109779/",
+    "https://wanderlog.com/place/details/2232652/café-kairo"
+   ]
+  },
+  {
+   "id": "brasserielorraine",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat organic at the cooperative Brasserie Lorraine",
+   "desc": "This cooperative has run for over 30 years in the Lorraine district, serving regional organic ingredients with at least one vegan dish daily. It has a garden under old chestnut trees and a Sunday brunch buffet.",
+   "tip": "Try the vegetarian lunch special or Sunday brunch. Check hours as listings conflict.",
+   "q": "Brasserie Lorraine, Quartiergasse 17, Lorraine, Bern",
+   "ll": [
+    46.95798,
+    7.44561
+   ],
+   "src": [
+    "https://spinach.guide/venues/brasserie-lorraine-109769/",
+    "https://www.happycow.net/reviews/brasserie-lorraine-bern-40853"
+   ]
+  },
+  {
+   "id": "gelateriamarzili",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Get seasonal gelato from Gelateria di Berna after a Marzili swim",
+   "desc": "Gelateria di Berna makes fruit-led ice cream with organic local ingredients and changes flavours with the season. Bern Tourism points to the Marzili branch as the stop after the Aareschwumm.",
+   "tip": "Go in summer. Branches elsewhere in Bern are listed on its own site.",
+   "q": "Gelateria di Berna, Marzilistrasse 32, Bern",
+   "ll": [
+    46.96047,
+    7.45421
+   ],
+   "src": [
+    "https://prod.bern.com/en/news/stories-and-recommendations/our-favourite-gelato-shops-in-and-around-bern",
+    "https://wanderlog.com/place/details/1358478/gelateria-di-berna"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "kornhauskeller",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat in the vaulted Kornhauskeller",
+   "desc": "The Kornhauskeller is a Bindella restaurant, opened in 1998, in the vaulted cellar of the 1711-18 baroque Kornhaus. The menu offers Swiss specialities and Bernese classics.",
+   "tip": "Reserve for dinner; there is also a bar upstairs. Look at the painted pillars.",
+   "q": "Kornhauskeller, Kornhausplatz 18, Altstadt, Bern",
+   "ll": [
+    46.9486,
+    7.4469
+   ],
+   "src": [
+    "https://bern.com/en/detail/restaurant-kornhauskeller",
+    "https://atlasobscura.com/places/kornhauskeller-restaurant"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "aeussererstand",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine at the traditional Restaurant zum Äusseren Stand",
+   "desc": "A traditional restaurant on Zeughausgasse run by chef Fabio Toffolon and listed as gourmet dining. It is open for lunch Tuesday to Friday and dinner Tuesday to Saturday.",
+   "tip": "Reserve; it is a more upscale option in the upper Old Town.",
+   "q": "Restaurant zum Äusseren Stand, Zeughausgasse 17, Bern",
+   "ll": [
+    46.94875,
+    7.44591
+   ],
+   "src": [
+    "https://bern.com/en/detail/restaurant-zum-aeusseren-stand-bern",
+    "https://www.myfarm.ch/en/restaurant-zum-aeusseren-stand_AqHDSaP"
+   ]
+  },
+  {
+   "id": "chaeschaeuer",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat fondue in the ChäsChäuer cheese cellar",
+   "desc": "The ChäsChäuer is a small cellar restaurant beneath the Chäsbueb cheese shop on Kramgasse. It serves fondue and raclette from a choice of about 250 cheeses, with a Saturday cheese brunch.",
+   "tip": "Reserve, as it is very small. A gin fondue is named as a speciality in one review.",
+   "q": "ChäsChäuer, Kramgasse 83, Altstadt, Bern",
+   "ll": [
+    46.94815,
+    7.4483
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/chaeschaeuer/"
+   ]
+  },
+  {
+   "id": "rosengartenrestaurant",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have fondue on the veranda at Restaurant Rosengarten",
+   "desc": "The restaurant at the park entrance has panoramic windows and a large terrace over the Old Town. A fondue veranda with a fireplace runs from October to February.",
+   "tip": "Reserve a veranda table for fondue in winter. Seasonal Swiss and Mediterranean dishes the rest of the year.",
+   "q": "Restaurant Rosengarten, Alter Aargauerstalden 31b, Bern",
+   "ll": [
+    46.9518,
+    7.4617
+   ],
+   "src": [
+    "https://www.bern.com/en/detail/restaurant-rosengarten",
+    "https://www.discovergermany.com/restaurant-rosengarten-oct-2018/"
+   ]
+  },
+  {
+   "id": "kleineschanze",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sip a drink at Park Café Kleine Schanze",
+   "desc": "The Kleine Schanze is a former fortification turned park beside the Bundeshaus. The Park Café reopened on 8 July 2024 with about 250 outdoor seats and views of the Bundeshaus and, on clear days, the Alps.",
+   "tip": "Seasonal and weather-dependent; the weekend brunch is popular.",
+   "q": "Park Café Kleine Schanze, Kleine Schanze, Bern",
+   "ll": [
+    46.94604,
+    7.44099
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-sg/experiences/food-wine/restaurant/kleine-schanze-park-cafe-und-restaurant",
+    "https://www.guidle.com/en/restaurants/bern/kleine-schanze-park-cafe-und-restaurant_AD21hfr"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "marzilibad",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Swim at the Marzilibad on the Aare",
+   "desc": "The Marzilibad is a riverside pool that the city calls Switzerland's most visited river bath. Strong swimmers also swim in the Aare itself, and a channel leads into the pool.",
+   "tip": "River swimming is for confident swimmers only and at your own risk; avoid it when the river is high or brown.",
+   "q": "Marzilibad, Marzilistrasse 29, Bern",
+   "ll": [
+    46.9411,
+    7.4452
+   ],
+   "src": [
+    "https://www.myswitzerland.com/de/erlebnisse/schwimmbad-marzili/",
+    "https://www.bls.ch/en/freizeit-und-ferien/ausfluege/badeplatz-aare-freibad-marzili"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "aareschwimmen",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Float down the Aare from Eichholz to Marzili",
+   "desc": "The classic Aareschwumm starts near Camping Eichholz and drifts about an hour to the Marzili, at up to three metres per second. The Schönausteg gives a midway exit.",
+   "tip": "Bring a waterproof bag and check the river level; swimming is discouraged above 250 m3/s. Take the Marzilibähnli back up.",
+   "q": "Camping Eichholz, Strandweg, Wabern, Bern",
+   "ll": [
+    46.93297,
+    7.45456
+   ],
+   "src": [
+    "https://www.freizeit.ch/freizeit/20577/aareschwimmen-die-lieblingsstrecken-der-berner",
+    "https://www.bern.com/en/things-to-do/activities/aareswimming"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "lorrainebad",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cool off at the historic Lorrainebad",
+   "desc": "Built in 1892, the Lorrainebad is one of Switzerland's oldest river baths and the smallest of Bern's outdoor pools. Entry is free; a renovation is planned that may close it in summer 2027.",
+   "tip": "Opens at 10:00 in season. It is also the end point of the Altenbergsteg-to-Lorraine Aare swim.",
+   "q": "Lorrainebad, Lorrainebrücke, Bern",
+   "ll": [
+    46.95909,
+    7.44249
+   ],
+   "src": [
+    "https://www.freizeit.ch/freizeit/20566/lorrainebad-bern",
+    "https://www.freizeit.ch/freizeit/20584/die-vier-berner-flussbader"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "gurten",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Ride the Gurtenbahn to the Gurten summit",
+   "desc": "The Gurten is Bern's local mountain at 858 m, reached since 1899 by a funicular from Wabern. At the top are a 25 m lookout tower, a park, restaurants and walking routes.",
+   "tip": "Take tram 9 or S3/S31 to Wabern. The loop walk down to Wabern takes about an hour.",
+   "q": "Gurten Kulm, Gurten, Wabern, Bern",
+   "ll": [
+    46.9186,
+    7.4388
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Gurten_(mountain)",
+    "https://www.myswitzerland.com/en/experiences/gurten-views-over-berne-and-the-alps/"
+   ]
+  },
+  {
+   "id": "tierparkbern",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Visit the animals at Tierpark Dählhölzli",
+   "desc": "The Dählhölzli is Bern's zoo on the Aare, with about 3,000 animals of 236 species on 15 hectares. It is separate from the free BärenPark.",
+   "tip": "Paid entry; check prices at tierpark-bern.ch. It links to Elfenau by a riverside walk.",
+   "q": "Tierpark Dählhölzli, Tierparkweg 1, Bern",
+   "ll": [
+    46.93361,
+    7.44824
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Tierpark_D%C3%A4hlh%C3%B6lzli",
+    "https://tierpark-bern.ch/en/?p=38557"
+   ]
+  },
+  {
+   "id": "marzilibahn",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Ride the Marzilibahn, Europe's shortest funicular",
+   "desc": "The Marzilibahn climbs about 105 m and 32 m of height between Marzili and the Bundesterrasse near the Bundeshaus. It opened on 18 July 1885.",
+   "tip": "Part of the Libero fare network. Use it to return after a Marzili swim.",
+   "q": "Marzilibahn, Bundesgasse, Bern",
+   "ll": [
+    46.9456,
+    7.4443
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Marzili_Funicular",
+    "https://www.marzilibahn.ch/assets/files/marzilibahn.ch-Technische_Daten.pdf"
+   ]
+  },
+  {
+   "id": "gemuesemarkt",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Tuesday and Saturday Märit in the Old Town",
+   "desc": "Bern's weekly produce market runs on Tuesday and Saturday mornings around Bärenplatz, Bundesplatz and the lanes toward Münstergasse. In December it gives way to the Christmas market.",
+   "tip": "Go early for the best stalls; confirm seasonal hours on bern.ch.",
+   "q": "Gemüsemarkt, Bärenplatz, Altstadt, Bern",
+   "ll": [
+    46.9485,
+    7.4439
+   ],
+   "src": [
+    "https://bern.com/en/detail/produce-market",
+    "https://bern.com/en/news/stories-and-recommendations/berns-farmers-markets"
+   ]
+  },
+  {
+   "id": "wankdorf",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Tour Stadion Wankdorf, home of BSC Young Boys",
+   "desc": "The Stadion Wankdorf holds 32,000 seated spectators and was built on the site of the old stadium that hosted the 1954 World Cup final. Public tours run via the club.",
+   "tip": "Book through events.bscyb.ch; dates are limited.",
+   "q": "Stadion Wankdorf, Papiermühlestrasse 71, Bern",
+   "ll": [
+    46.9634,
+    7.4648
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/events/oeffentliche-stadionfuehrung/",
+    "https://EN.wikipedia.com/wiki/Stade_de_Suisse"
+   ]
+  },
+  {
+   "id": "postfinancearena",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Watch SC Bern ice hockey at the PostFinance Arena",
+   "desc": "The PostFinance Arena is the home of SC Bern and the largest ice stadium in Switzerland, with over 17,000 capacity.",
+   "tip": "Get tickets via scb.ch; fixtures run in the winter season.",
+   "q": "PostFinance Arena, Mingerstrasse 12, Bern",
+   "ll": [
+    46.95851,
+    7.46859
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/postfinance-arena/",
+    "https://en.Wikipedia.com/wiki/PostFinance_Arena"
+   ],
+   "months": [
+    9,
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "dampfzentrale",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "See a gig or performance at the Dampfzentrale",
+   "desc": "The Dampfzentrale on Marzilistrasse is a former steam plant used as a venue for contemporary music, dance and performance, including the Full Of Lava festival in November 2026.",
+   "tip": "Check the programme at dampfzentrale.ch.",
+   "q": "Dampfzentrale Bern, Marzilistrasse 47, Bern",
+   "ll": [
+    46.94074,
+    7.44421
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/dampfzentrale",
+    "https://www.guidle.com/de/veranstaltungen/alternativ/bern/full-of-lava-2026_A1xcXMv"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "elfenau",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Stroll the Elfenaupark and the Green Aare Walk",
+   "desc": "The Elfenau is a park on the Aare south-east of the centre, first mentioned in 1285 as Klostergut Brunnadern, with lawns, a playground and a café. The Green Aare Walk links it with Marzili, the BärenPark and the botanical garden.",
+   "tip": "Walk along the Aare from the Dählhölzli, about 20 minutes.",
+   "q": "Elfenaupark, Elfenauweg, Bern",
+   "ll": [
+    46.9367,
+    7.46664
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/elfenau-park/",
+    "https://famigros.migros.ch/de/ausfluege-und-freizeit/ausflugsziele/elfenau-bern"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bundesplatzwasserspiel",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk through the 26 fountains on Bundesplatz",
+   "desc": "The Bundesplatz water feature has 26 fountains standing for the 26 cantons, running from spring to autumn. In October 2026 it was switched off until spring 2027.",
+   "tip": "Operates in the warm season only; not on market days.",
+   "q": "Bundesplatz, Bern",
+   "ll": [
+    46.9475,
+    7.4441
+   ],
+   "src": [
+    "https://www.plattformj.ch/artikel/247725/",
+    "https://www.myswitzerland.com/en-in/experiences/bundesplatz-parliament-square/"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "weyermannshaus",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Swim the 50 m pool at Freibad Weyermannshaus",
+   "desc": "Freibad Weyermannshaus is a large free outdoor pool with a 50 m basin, a jumping tower and a slide. An indoor pool and an ice rink are next door.",
+   "tip": "Entry is free; check the address and hours on bern.ch. The wave pool is at Ka-We-De, not here.",
+   "q": "Freibad Weyermannshaus, Stöckackerstrasse 9, Bern",
+   "ll": [
+    46.94786,
+    7.40512
+   ],
+   "src": [
+    "https://www.badi-info.ch/be/weyermannshaus.html",
+    "https://www.freizeit.ch/freizeit/20834/freibad-weyermannshaus"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "lauben",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the Old Town's six kilometres of Lauben",
+   "desc": "Bern's Old Town has about six kilometres of covered sandstone arcades, part of the 1983 UNESCO World Heritage site. They line shops, cellar bars and fountains.",
+   "tip": "Walk from the Käfigturm to the Zytglogge and on down Kramgasse. It is dry in any weather.",
+   "q": "Marktgasse, Altstadt, Bern",
+   "ll": [
+    46.94818,
+    7.44394
+   ],
+   "src": [
+    "https://www.bergwelten.com/a/unesco-altstadt-von-bern",
+    "https://www.freizeit.ch/freizeit/14497/historische-altstadt-in-bern"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  }
+ ]
+}

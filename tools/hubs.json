@@ -1,7 +1,7 @@
 {
   "_comment": "Hub cities. Every municipality (NL) / arrondissement (BE) / district (DE, LU) / canton (CH) / province (TR) joins the hub you reach fastest by road in the same country. 'points' are where travel times are measured from (two for twin-city regions). 'new' holds the metadata used to create a region file the first time. 'name' and 'subtitle' label regions that have no quests yet.",
   "_targets": "Quest target per region: 60 + 35 per million inhabitants above the first million, plus 'visit' (tourism bonus: 100 for Paris, 50 for major international destinations, 25 for other well-visited regions), kept between 60 and 300. See tools/targets.py.",
-  "_overrides": {"_why": "Units whose fastest hub by a few minutes is not where people would naturally start from.", "NL:GM0400": "amsterdam", "NL:GM0448": "amsterdam", "DE:DEA18": "duesseldorf", "DE:DE722": "frankfurt", "FR:FRI15": "biarritz", "DK:DK050": "aalborg", "FR:FR105": "paris", "CH:CH063": "luzern"},
+  "_overrides": {"_why": "Units whose fastest hub by a few minutes is not where people would naturally start from.", "NL:GM0400": "amsterdam", "NL:GM0448": "amsterdam", "DE:DEA18": "duesseldorf", "DE:DE722": "frankfurt", "FR:FRI15": "biarritz", "DK:DK050": "aalborg", "FR:FR105": "paris", "CH:CH063": "luzern", "TR:TR213": "canakkale"},
   "amsterdam": {"country": "NL", "visit": 50, "points": [[52.3731, 4.8922]]},
   "rotterdam": {"country": "NL", "visit": 25, "points": [[51.9225, 4.4792]]},
   "denhaag": {"country": "NL", "visit": 25, "points": [[52.0786, 4.2989]]},

@@ -1,0 +1,655 @@
+{
+ "new": [
+  {
+   "id": "augustaraurica",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the open-air Roman city of Augusta Raurica",
+   "desc": "Augusta Raurica in Augst is the Roman city of the Raurici, with monuments, a museum and a Roman house spread over a large archaeological park. The open grounds, the protected monuments and the animal park are free to enter.",
+   "tip": "Open daily 10:00-17:00 except 24, 25, 31 December and 1 January. The Roman festival weekends in autumn are free.",
+   "q": "Augusta Raurica, Giebenacherstrasse 17, Augst",
+   "ll": [
+    47.53283,
+    7.72183
+   ],
+   "src": [
+    "https://www.myswitzerland.com/de/erlebnisse/augusta-raurica-die-roemerstadt/",
+    "https://www.augustaraurica.ch/en/experience/experience-independently"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "roemerhausaugst",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Step inside the Römerhaus and museum in Augst",
+   "desc": "The Römerhaus opened in 1955 and was a model for later Roman house reconstructions in Europe. It shows a furnished 2nd to 3rd century dwelling with a dining room and everyday objects visitors may touch.",
+   "tip": "Museum and Römerhaus cost CHF 8 (CHF 6 reduced); the grounds and the animal park next door are free.",
+   "q": "Römermuseum und Römerhaus, Giebenacherstrasse 17, Augst",
+   "ll": [
+    47.53403,
+    7.7214
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Römermuseum_Augst"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "roemertheateraugst",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Sit in the Roman theatre of Augusta Raurica",
+   "desc": "The Roman theatre in Augst once held up to 10,000 spectators and is described as the best-preserved ancient open-air stage north of the Alps. Today it seats about 2,000 and hosts concerts.",
+   "tip": "Free to look around during the day; check augustaraurica.ch for concerts and the Roman festival dates.",
+   "q": "Römertheater Augusta Raurica, Giebenacherstrasse, Augst",
+   "ll": [
+    47.53395,
+    7.72155
+   ],
+   "src": [
+    "https://www.swiss-spectator.ch/deutsch-roemische-theater-und-amphitheater-in-der-schweiz/",
+    "https://www.myswitzerland.com/en-ca/experiences/events/apocalyptica-augusta-raurica-live-in-concert/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "liestaltoerli",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Pass through the Törli gate in Liestal's old town",
+   "desc": "The Obertor, known as the Törli, is the landmark of Liestal's old town and closes off the Rathausstrasse. Basel renewed it around 1398/99, and inside it holds a Gothic room from that building phase.",
+   "tip": "Combine it with a walk down Rathausstrasse to the town hall; Liestal Tourismus offers old-town tours. Carnival's Chienbäse fire parade runs through here.",
+   "q": "Törli Obertor, Rathausstrasse, Liestal",
+   "ll": [
+    47.48315,
+    7.73555
+   ],
+   "src": [
+    "https://www.archaeologie.bl.ch/uploads/files/website/2022_Liestal-Torli.pdf",
+    "https://www.swiss-spectator.ch/deutsch-liestal-und-das-torli/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "museumblliestal",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore Baselbiet history at Museum.BL in Liestal",
+   "desc": "Museum.BL at Zeughausplatz 28 covers the canton's nature and history, with a permanent exhibition Wildes Baselbiet and a section on the silk ribbon trade. Its special exhibition Fix it! on the history of repair is extended to 3 January 2027.",
+   "tip": "Tuesday to Friday 09:00-16:00, weekends 10:00-17:00; free on the first Sunday of the month. It closes for about 18 months from 2028.",
+   "q": "Museum.BL, Zeughausplatz 28, Liestal",
+   "ll": [
+    47.485,
+    7.7341
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/museumbl/",
+    "https://www.museums.ch/de/museumsbesuch/museen/museen/museum-bl-2124.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "arlesheimdom",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Silbermann organ in Arlesheim Cathedral",
+   "desc": "The Dom von Arlesheim was built 1679 to 1681 and remodelled in Rococo style in 1759 to 1761. It holds the 1761 organ by Johann Andreas Silbermann, the only nearly complete and playable Silbermann organ in Switzerland.",
+   "tip": "Check for organ concerts; the church is a short walk from the Ermitage and the Gasthof zum Ochsen.",
+   "q": "Dom Arlesheim, Domplatz, Arlesheim",
+   "ll": [
+    47.49233,
+    7.6199
+   ],
+   "src": [
+    "https://hls-dhs-dss.ch/de/articles/044898",
+    "https://www.basel.com/en/attractions/dom-and-ermitage-arlesheim-070b2cff01"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ermitagearlesheim",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Stroll the Ermitage landscape garden in Arlesheim",
+   "desc": "Opened in 1785, the Ermitage is Switzerland's largest English-style landscape garden, with grottoes, a hermit's cell, a mill and the Birseck castle ruin. It was nearly destroyed in 1792/93 and rebuilt in 1812.",
+   "tip": "The garden is free. The Birseck ruin is open Wednesday and Sunday 14:00-17:00 from Easter to end of October.",
+   "q": "Ermitage Arlesheim, Ermitagestrasse, Arlesheim",
+   "ll": [
+    47.49457,
+    7.61963
+   ],
+   "src": [
+    "https://www.freizeit.ch/freizeit/14740/ermitage-arlesheim",
+    "https://www.archaeologie.bl.ch/uploads/files/website/2021_Arlesheim_Ermitage_web.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "burgreichenstein",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Spot Burg Reichenstein above Arlesheim",
+   "desc": "Reichenstein was the upper of the four castles on the Birseck ridge, first mentioned in 1239 and renamed around 1250 after the Reich family. A foundation has run it since 1972 and it is a cultural property of national importance.",
+   "tip": "The castle is private and not open to the public, so admire it from the footpaths on the ridge, ideally on the way back from the Ermitage.",
+   "q": "Burg Reichenstein, Reichenstein Weg 40, Arlesheim",
+   "ll": [
+    47.4968,
+    7.62896
+   ],
+   "src": [
+    "https://hls-dhs-dss.ch/de/articles/011140",
+    "https://www.basel.com/en/attractions/burg-reichenstein-95f30967d6"
+   ]
+  },
+  {
+   "id": "farnsburgruine",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb to the restored Farnsburg ruin near Ormalingen",
+   "desc": "The Farnsburg was built in the 14th century by the Counts of Thierstein and burned in 1798, ending its time as a fortress. The canton restored the ruin comprehensively from 2019 to 2023 and added audio stations.",
+   "tip": "A stroller-friendly castle walk exists from the Landgasthof; combine the ruin with lunch at the inn.",
+   "q": "Ruine Farnsburg, Farnsburgweg, Ormalingen",
+   "ll": [
+    47.49303,
+    7.87038
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Farnsburg_Castle",
+    "https://www.baselland-tourismus.ch/en/poi/burgentour-zur-ruine-farnsburg-mit-kinderwagen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "wasserfallenbahn",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Wasserfallen gondola from Reigoldswil",
+   "desc": "The Luftseilbahn Reigoldswil-Wasserfallen has run since 1956 and got a panoramic gondola in 2006. At the top are Jura hiking trails, a rope park with a 150 m zipline over the pond, and scooters for the ride down.",
+   "tip": "Walk about ten minutes from the top station to the mountain inn; confirm operating times with the cable car at +41 61 941 18 20.",
+   "q": "Luftseilbahn Reigoldswil-Wasserfallen, Reigoldswil",
+   "ll": [
+    47.38191,
+    7.69816
+   ],
+   "src": [
+    "https://www.basel.com/en/attractions/reigoldswil-wasserfallen-cable-car-b0dd7c5431",
+    "https://www.myswitzerland.com/en-th/experiences/wasserfallen-in-the-basel-area/"
+   ]
+  },
+  {
+   "id": "sissacherflue",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike up to the Sissacherflue lookout",
+   "desc": "The Sissacherflue rises to about 700 m above Sissach and is a popular viewpoint with a ruin on the plateau used since the Stone Age. Routes lead up from Sissach station or from Hersberg via the Farnsburg.",
+   "tip": "Bus 106 from Sissach station reaches the Sissacherfluh stop, about 10 minutes from the top; the round trip on foot is roughly 8.6 km from the station.",
+   "q": "Sissacherflue, Sissach",
+   "ll": [
+    47.48,
+    7.81703
+   ],
+   "src": [
+    "https://www.freizeit.ch/freizeit/14747/aussichtsplattform-und-burgruine-sissacherfluh",
+    "https://www.archaeologie.bl.ch/uploads/files/website/2024_Sissach_Fluh_web.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "waldenburgerbahn",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Waldenburgerbahn from Liestal to Waldenburg",
+   "desc": "The 13.1 km line opened on 30 October 1880 and links Liestal with Waldenburg via Bubendorf, Hölstein, Niederdorf and Oberdorf. It was rebuilt as a metre-gauge line in 2020 to 2022 and has been part of Baselland Transport since 2016.",
+   "tip": "Boards at Liestal station next to the SBB trains; get off at Bubendorf to walk up to Schloss Wildenstein.",
+   "q": "Waldenburgerbahn, Bahnhof Waldenburg",
+   "ll": [
+    47.3768,
+    7.7593
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/waldenburgerbahn/"
+   ]
+  },
+  {
+   "id": "wartenbergmuttenz",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike through the three Wartenberg castle ruins",
+   "desc": "Three castles stand on the Wartenberg hill above Muttenz: the large Vorderer, the Mittlerer with its residential tower, and the Hinterer with a round keep. All were abandoned in the 15th century and the Münch family sold them to Basel in 1517.",
+   "tip": "The Mittlerer Wartenberg is lit at night; an audio leporello guide from Archäologie Baselland covers the site.",
+   "q": "Wartenberg Burgruinen, Wartenbergstrasse, Muttenz",
+   "ll": [
+    47.51893,
+    7.65476
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Wartenberg_(Muttenz)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "schlosswildenstein",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Schloss Wildenstein above Bubendorf",
+   "desc": "Schloss Wildenstein was founded by the Eptingen family in the second half of the 13th century and destroyed in 1334. Basel acquired it around 1500 and the canton bought it in 1995; it is a heritage site of national significance.",
+   "tip": "Free guided tours run on Mother's Day and the first Sunday of each month from June to October. Bus 70 or 71 from Liestal to Bubendorf Steingasse, then about 35 minutes on foot.",
+   "q": "Schloss Wildenstein, Wildensteinerstrasse, Bubendorf",
+   "ll": [
+    47.43022,
+    7.73598
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Wildenstein_Castle_(Bubendorf)",
+    "https://www.baselland.ch/politik-und-behorden/direktionen/bau-und-umweltschutzdirektion/raumplanung/denkmalpflege/inventare/kantonales-inventar-der-geschuetzten-kulturdenkmaeler/bubendorf/schloss-wildenstein"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "landgasthoffarnsburg",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Lunch at the Landgasthof Farnsburg in Ormalingen",
+   "desc": "A traditional country inn on the Farnsberg ridge with regional cuisine and a terrace, completely renovated in 2019. It sits by the Farnsburg ruin and is open all year.",
+   "tip": "Try the seasonal regional dishes after the castle walk; call +41 61 843 77 77 to reserve.",
+   "q": "Landgasthof Farnsburg, Farnsburgweg 194, Ormalingen",
+   "ll": [
+    47.49143,
+    7.87221
+   ],
+   "src": [
+    "https://www.guidle.com/en/excursions/ormalingen/landgasthof-farnsburg_AYZqagR"
+   ]
+  },
+  {
+   "id": "hinterewasserfallen",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order fondue at Berggasthaus Hintere Wasserfallen",
+   "desc": "A rustic mountain inn about ten minutes' walk from the Wasserfallen gondola top station. It serves Buure-Zmorge, regional dishes, fondue and raclette and offers dormitory and B&B rooms.",
+   "tip": "Fondue and raclette are the classics after a walk; check opening days in the off-season.",
+   "q": "Berggasthaus Hintere Wasserfallen, Oberbiel 62, Reigoldswil",
+   "ll": [
+    47.37152,
+    7.70274
+   ],
+   "src": [
+    "https://www.basel.com/en/attractions/reigoldswil-wasserfallen-cable-car-b0dd7c5431",
+    "https://www.myswitzerland.com/en-th/experiences/wasserfallen-in-the-basel-area/"
+   ]
+  },
+  {
+   "id": "bottmingenbrasserie",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at the moated Schloss Bottmingen",
+   "desc": "Schloss Bottmingen is a moated castle that has been a restaurant since 1888 and belongs to the canton since 1955. It houses the gourmet restaurant Louis with classic French cuisine and the casual Brasserie du Château.",
+   "tip": "Brasserie du Château is the easier, cheaper choice; both are usually closed on Mondays. Reserve on 061 421 15 15.",
+   "q": "Schloss Bottmingen, Schlossgasse 9, Bottmingen",
+   "ll": [
+    47.524,
+    7.5719
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/restaurant-schloss-bottmingen/",
+    "https://www.falstaff.com/en/restaurants/gourmet-louis-bottmingen"
+   ]
+  },
+  {
+   "id": "ochsenarlesheim",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat regional at Gasthof zum Ochsen in Arlesheim",
+   "desc": "A hotel-restaurant on Ermitagestrasse serving regional cooking, about three minutes from the Dom and six from the Ermitage. It is listed as a Switzerland Tourism recommended restaurant.",
+   "tip": "Lunch runs 11:30-14:30 and dinner from 18:00; the place makes a good stop before or after the Ermitage walk. Call +41 61 706 52 00.",
+   "q": "Gasthof zum Ochsen, Ermitagestrasse 16, 4144 Arlesheim",
+   "ll": [
+    47.4939,
+    7.6197
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/gasthof-zum-ochsen/"
+   ]
+  },
+  {
+   "id": "delemontvieilleville",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander Delémont's old town to Place de la Liberté",
+   "desc": "Delémont's old town is a rectangle on a terrace with two long streets, and Rue du 23-Juin leads to the château, the church and the Hôtel de Ville. The Baroque Hôtel de Ville was built by Giovanni Gaspare Bagnato in 1742 to 1745, beside a 16th-century fountain.",
+   "tip": "Free to stroll; guided old-town tours end on the Place de la Liberté.",
+   "q": "Place de la Liberté, Delémont",
+   "ll": [
+    47.365,
+    7.344
+   ],
+   "src": [
+    "https://www.alpen-guide.de/reisefuehrer/poi/hotel-de-ville-delemont",
+    "https://www.j3l.ch/en/P45115"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mjahdelemont",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Musée jurassien d'art et d'histoire in Delémont",
+   "desc": "Founded in 1909 by Abbé Arthur Daucourt and housed in the old town since 1922, the museum covers Jura's geology, history and watchmaking industry. It holds the world's oldest crosier, that of Saint Germain from the 7th century.",
+   "tip": "Open Tuesday to Friday 14:00-17:00, weekends 11:00-18:00 per listings; check mjah.ch.",
+   "q": "Musée jurassien d'art et d'histoire, Rue du 23-Juin 52, Delémont",
+   "ll": [
+    47.3649,
+    7.3429
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Mus%C3%A9e_jurassien_d%27art_et_d%27histoire",
+    "https://mjah.ch/e/musee/historique"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "vorbourgdelemont",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk up to the Chapelle du Vorbourg above Delémont",
+   "desc": "Notre-Dame du Vorbourg stands on a rocky spur north of Delémont and is an old pilgrimage site; tradition dates the former castle chapel to 1049. An earthquake destroyed the first building in 1356.",
+   "tip": "A loop from Delémont is about 7.5 km with 260 m of climbing; the traditional Vorbourg week brings daily masses.",
+   "q": "Chapelle Notre-Dame du Vorbourg, Delémont",
+   "ll": [
+    47.37983,
+    7.3568
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Château_du_Vorbourg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "chateauporrentruy",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the Tour du Réfous at Château de Porrentruy",
+   "desc": "The Réfous Tower is the former keep of Porrentruy castle, dating to about 1271 and the oldest part of the complex. The courtyard and tower are open daily 8:00-18:00 and the top gives a 360 degree panorama.",
+   "tip": "Free entry; combine with the old town below and the Porte de France.",
+   "q": "Château de Porrentruy, Rue du Château, Porrentruy",
+   "ll": [
+    47.41943,
+    7.0726
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Château_de_Porrentruy"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "portedefrance",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Pass the Porte de France to the Hôtel-Dieu museum",
+   "desc": "The Porte de France is the only surviving one of Porrentruy's medieval city gates, rebuilt in 1563 and refurbished in 1744. The Musée de l'Hôtel-Dieu at Grand-Rue 5 occupies the old hospital in the old town, built around 1765.",
+   "tip": "A heritage trail links the Jardin botanique sundials, Église Saint-Pierre, the gate and the museum.",
+   "q": "Musée de l'Hôtel-Dieu, Grand-Rue 5, Porrentruy",
+   "ll": [
+    47.41662,
+    7.07548
+   ],
+   "src": [
+    "https://www.museums.ch/fr/visite-au-musee/musees/musees/musee-de-lhotel-dieu-2218.html",
+    "https://swiss-spectator.ch/?p=10252"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "stursannecollegiale",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Cross the Doubs bridge to Saint-Ursanne's collegiate church",
+   "desc": "Saint-Ursanne's Romanesque collegiate church dates mainly from the 12th century and has a Burgundian south portal. Its cloister was rebuilt around 1380 and houses the lapidary museum, and the four-arch bridge over the Doubs (1728-29) carries a 1973 copy of the Saint John Nepomuk statue.",
+   "tip": "Walk the medieval town gate to gate in an hour; the lapidary museum is in the cloister.",
+   "q": "Collégiale Saint-Ursanne, Rue du 23-Juin, Saint-Ursanne",
+   "ll": [
+    47.36708,
+    7.15451
+   ],
+   "src": [
+    "https://torpille.ch/listing/collegiale-de-st-ursanne/",
+    "https://www.myswitzerland.com/fr/destinations/st-ursanne-clos-du-doubs/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stursannecanoe",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Paddle the Doubs by canoe from Saint-Ursanne",
+   "desc": "Le Clip and Flot Nature run canoe and kayak descents on the Doubs; Le Clip meets next to the collégiale and offers a guided descent of about 3 hours with a bus transfer. Boating on the Doubs is allowed from 1 March to 1 October.",
+   "tip": "Descents run from Easter to October at around CHF 59 per adult with Le Clip (prices vary by source); book ahead.",
+   "q": "Le Clip canoë kayak, Place du Mai 1, 2882 Saint-Ursanne",
+   "ll": [
+    47.3645,
+    7.1535
+   ],
+   "src": [
+    "https://torpille.ch/listing/canoe-kayak-le-clip/"
+   ]
+  },
+  {
+   "id": "marcheconcours",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Join the Marché-Concours horse festival in Saignelégier",
+   "desc": "The national Franches-Montagnes horse market and show dates to 1897 and became a national event in 1923. It runs on the second weekend of August with races, riding competitions and stalls along the main street, drawing 45,000 to 50,000 visitors.",
+   "tip": "Held the second weekend of August; book trains and lodging well ahead.",
+   "q": "Marché-Concours, Saignelégier",
+   "ll": [
+    47.25501,
+    6.99811
+   ],
+   "src": [
+    "https://www.swissinfo.ch/fre/plus-de-50-000-visiteurs-%C3%A0-la-f%C3%AAte-du-cheval-%C3%A0-saignel%C3%A9gier-ju/42373292",
+    "https://www.guidle.com/de/veranstaltungen/saignelegier/marche-concours_ATU65wm"
+   ],
+   "months": [
+    8
+   ]
+  },
+  {
+   "id": "etangdelagruere",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Circle the Étang de la Gruère peat bog",
+   "desc": "The Étang de la Gruère sits in a protected peat bog on the Franches-Montagnes plateau at about 1000 m. The pond was dammed in the 17th century and the peat beneath it dates from around 12,000 years ago.",
+   "tip": "The loop on bridges and boardwalks is about 2.8 km (an hour); keep to the marked paths. Start at the Moulin de la Gruère bus stop.",
+   "q": "Étang de la Gruère, Les Breuleux",
+   "ll": [
+    47.23895,
+    7.04573
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/destinations/etang-de-la-gruere",
+    "https://torpille.ch/listing/etang-de-la-gruere/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "reclere",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Tour the Réclère caves and Préhisto-Parc",
+   "desc": "The Grottes de Réclère were found in 1886 and opened to visitors in 1890, with stalactites and stalagmites at 7 degrees. The Préhisto-Parc beside them has a 2 km forest trail with 45 life-size prehistoric animals.",
+   "tip": "Caves are visited by one-hour guided tour; a combined ticket was about CHF 15 per listings. Bus from Porrentruy toward Damvant stops at Réclère, Les Grottes.",
+   "q": "Grottes de Réclère et Préhisto-Parc, Route des Grottes 78C, Réclère",
+   "ll": [
+    47.35897,
+    6.91426
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-au/experiences/reclere-grottos-and-prehisto-park/",
+    "https://showcaves.com/english/ch/showcaves/Reclere.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "cjjuratrain",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Chemins de fer du Jura across the Franches-Montagnes",
+   "desc": "The metre-gauge line from Glovelier to Saignelégier and La Chaux-de-Fonds is operated by the Chemins de fer du Jura. Heritage steam trains of the volunteer group La Traction also run on selected dates from Pré-Petitjean.",
+   "tip": "Take the line to Saignelégier for the cheese dairy and brewery; check CJ timetables for current service.",
+   "q": "Gare de Saignelégier, Saignelégier",
+   "ll": [
+    47.25465,
+    6.99412
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Pr%C3%A9-Petitjean_railway_station",
+    "https://torpille.ch/listing/train-la-chaux-de-fonds-glovelier/"
+   ]
+  },
+  {
+   "id": "overgersajoie",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Taste Damassine at Ô Vergers d'Ajoie in Porrentruy",
+   "desc": "The Swiss museum of fruit and distillation has a multisensory exhibition with tastings of the region's best products, including the Damassine AOP plum brandy. The Sentier de la Damassine leads there from Porrentruy station.",
+   "tip": "Open Tuesday to Sunday 10:00-18:00, closed Monday; adult ticket about CHF 10. Ask for Damassine AOP in the tasting.",
+   "q": "Ô Vergers d'Ajoie, Combe Bruequelin 27, Porrentruy",
+   "ll": [
+    47.42802,
+    7.09036
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/musee-suisse-des-fruits-et-de-la-distillation/",
+    "https://www.freizeit.ch/freizeit/21660/museum-o-vergers-d-ajoie"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "maisonwenger",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Splurge on Jura produce at Maison Wenger in Le Noirmont",
+   "desc": "The former Georges Wenger restaurant at Rue de la Gare 2 reopened as Maison Wenger in 2018 under chef Jérémy Desbraux. The seasonal cooking draws on regional Jura ingredients and has a terrace.",
+   "tip": "Open Wednesday to Sunday; book on 032 957 66 33. Ask for the seasonal menu built on Jura products.",
+   "q": "Maison Wenger, Rue de la Gare 2, Le Noirmont",
+   "ll": [
+    47.22382,
+    6.95707
+   ],
+   "src": [
+    "https://www.letemps.ch/lifestyle/premier-service-prometteur-maison-wenger-noirmont",
+    "https://www.myswitzerland.com/en-ch/experiences/food-wine/restaurant/restaurant-georges-wenger-1/"
+   ]
+  },
+  {
+   "id": "couronnestursanne",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order Doubs trout at the Hôtel de la Couronne, Saint-Ursanne",
+   "desc": "A brasserie and restaurant on Rue du 23-Juin serving traditional cooking. Listed specialities are trout from the fish tank, sot-l'y-laisse, beef tartare, veal kidneys and house-made Saint-Martin.",
+   "tip": "Order the trout; the terrace has a petanque pitch. Call +41 32 461 35 67 to confirm hours.",
+   "q": "Hôtel-Restaurant de la Couronne, Rue du 23-Juin 3, Saint-Ursanne",
+   "ll": [
+    47.36585,
+    7.1558
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/hotel-restaurant-de-la-couronne-1/",
+    "https://www.j3l.ch/en/P46339/hotel-restaurant-de-la-couronne"
+   ]
+  },
+  {
+   "id": "moutonporrentruy",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try the tasting menu at Auberge du Mouton in Porrentruy",
+   "desc": "An inn at Rue du Cygne 1 that changed owners and chef and now offers a tasting menu, with a vegetarian version and a wine list that sometimes features natural wines. The menu uses seasonal and regional ingredients and is renewed four times a year.",
+   "tip": "Open mainly Tuesday to Saturday evenings; reserve on +41 32 535 83 57.",
+   "q": "Auberge du Mouton, Rue du Cygne 1, Porrentruy",
+   "ll": [
+    47.4152,
+    7.0745
+   ],
+   "src": [
+    "https://gaultmillau.ch/fr/restaurants/auberge-du-mouton-33417",
+    "https://www.myswitzerland.com/en-ca/experiences/food-wine/restaurant/restaurant-auberge-du-mouton/"
+   ]
+  },
+  {
+   "id": "bfmsaignelegier",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink Abbaye de Saint Bon-Chien from BFM in Saignelégier",
+   "desc": "Brasserie des Franches-Montagnes was founded in 1997 by Jérôme Rebetez. Its flagship Abbaye de Saint Bon-Chien is a dark, sour, barrel-aged ale named after the brewery cat and aged about 12 months in oak.",
+   "tip": "Brewery at Chemin des Buissons 8; phone 032 951 26 26 before visiting, as tasting access is not confirmed.",
+   "q": "Brasserie des Franches-Montagnes, Chemin des Buissons 8, Saignelégier",
+   "ll": [
+    47.25419,
+    7.00248
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/BFM_(brewery)",
+    "https://brasseriebfm.ch/en/pages/the-brewery"
+   ]
+  },
+  {
+   "id": "fromageriesaignelegier",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Tête de Moine AOP at the Fromagerie de Saignelégier",
+   "desc": "The Fromagerie de Saignelégier at Chemin du Finage 19 offers guided visits with cheese-making demonstrations and a Tête de Moine tasting. Tête de Moine AOP is made in only a handful of dairies.",
+   "tip": "Visit and tasting with drinks was CHF 12 for adults; write to visites@tdm-saignelegier.ch or call +41 32 952 42 20.",
+   "q": "Fromagerie de Saignelégier, Chemin du Finage 19, Saignelégier",
+   "ll": [
+    47.26131,
+    7.00531
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/cheese-dairy-of-saignelegier/",
+    "https://tetedemoine.ch/en/visits"
+   ]
+  }
+ ]
+}

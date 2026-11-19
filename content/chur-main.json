@@ -1,0 +1,1189 @@
+{
+ "new": [
+  {
+   "id": "churkathedrale",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the cathedral on the bishop's Hof",
+   "desc": "The Kathedrale St. Mariä Himmelfahrt is the seat of the Diocese of Chur, one of the oldest in the Alps (a bishop is documented from 451). The present late Romanesque pillar basilica was consecrated in 1272 and holds a late Gothic high altar of 1492 and carved choir stalls.",
+   "tip": "Free entry, open daily; the Domschatzmuseum in the bishop's palace opposite shows the treasury. Combine it with the climb up to the Hof from the old town.",
+   "q": "Kathedrale St. Mariä Himmelfahrt, Hof, Chur",
+   "ll": [
+    46.84765,
+    9.53544
+   ],
+   "src": [
+    "https://www.graubuenden.ch/de/ausflugsziele/kathedrale-sankt-mariae-himmelfahrt",
+    "https://wikiwand.com/de/articles/Kathedrale_St._Maria_Himmelfahrt_(Chur)"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "churbischofsschloss",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Bishop's Palace and its treasury museum",
+   "desc": "The Bischöfliches Schloss on the Hof goes back to the late Roman fort and was given its baroque form in the 18th century under Bishop Joseph Benedikt von Rost. It is a heritage site of national importance, restored in stages since 2012, and the Domschatzmuseum opened inside it in 2019.",
+   "tip": "The courtyard of the Hof is open to walk through; check the Domschatzmuseum hours before going.",
+   "q": "Bischöfliches Schloss, Hof, Chur",
+   "ll": [
+    46.84836,
+    9.535
+   ],
+   "src": [
+    "https://www.graubuenden.ch/de/ausflugsziele/bischoefliches-schloss-hof",
+    "https://hls-dhs-dss.ch/de/articles/001581"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "churraetischesmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Trace Graubünden's history at the Rätisches Museum",
+   "desc": "The museum fills a baroque patrician house of 1675 between St. Martin's church and the cathedral. Its collection of more than 100,000 objects covers Graubünden from prehistory to the present, with about a tenth on show at a time.",
+   "tip": "Open Tuesday to Sunday 10 to 17, closed Monday. Hofstrasse 1 is the public entrance.",
+   "q": "Rätisches Museum, Hofstrasse 1, Chur",
+   "ll": [
+    46.84813,
+    9.5336
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/rhaetian-museum/",
+    "https://portacultura.gr.ch/home-en/institutions/ratisches-museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "churkunstmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Compare Villa Planta and the Barozzi Veiga extension",
+   "desc": "The Bündner Kunstmuseum, founded in 1919, occupies the neoclassical Villa Planta (1874 to 1876, restored 1987 to 1989 by Peter Zumthor and partners) and an extension by Barozzi Veiga that opened in 2016. The two buildings are linked underground.",
+   "tip": "Open Tuesday to Sunday 10 to 17, until 20:00 on Thursdays, closed Monday. It is a short walk from the railway station.",
+   "q": "Bündner Kunstmuseum, Bahnhofstrasse 35, Chur",
+   "ll": [
+    46.85127,
+    9.53231
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/B%C3%BCndner_Kunstmuseum",
+    "https://kunstmuseum.gr.ch/en/museum/Seiten/start.aspx"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "churnaturmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Meet Graubünden's wildlife at the Naturmuseum",
+   "desc": "The Bündner Naturmuseum has stood on Masanserstrasse since 1981 in a building by Bruno Giacometti. Four floors cover the flora, fauna and geology of the canton, with changing special exhibitions.",
+   "tip": "Open Tuesday to Sunday 10 to 17. A good rainy-day stop, especially with children.",
+   "q": "Bündner Naturmuseum, Masanserstrasse 31, Chur",
+   "ll": [
+    46.85417,
+    9.53427
+   ],
+   "src": [
+    "https://portacultura.gr.ch/home-en/institutions/bundner-naturmuseum/",
+    "https://www.chur.graubuenden.ch/en/attractions/bundner-naturmuseum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "churstmartin",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire Giacometti's windows in St. Martin's church",
+   "desc": "St. Martin's is the largest Reformed church in Graubünden. Tradition dates a first church to the late 8th century; it was rebuilt after the town fire of 1464 and finished in 1535. The south windows are by Augusto Giacometti (1919), and the square outside has a fountain of 1716.",
+   "tip": "Visit around midday when light enters the stained glass; the church is usually open to visitors in daytime.",
+   "q": "Kirche St. Martin, St. Martinsplatz, Chur",
+   "ll": [
+    46.8499,
+    9.53262
+   ],
+   "src": [
+    "https://www.graubuenden.ch/de/ausflugsziele/kirche-st-martin-5",
+    "https://www.waymarking.com/waymarks/WMP201_Martinskirche_Chur_GR_Switzerland"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "churrathaus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk past the late medieval Rathaus",
+   "desc": "The Rathaus on Poststrasse is a complex of late medieval buildings between Reichsgasse and Poststrasse, with interiors from several epochs. It anchors a walk through the car-free old town of what is often called Switzerland's oldest town.",
+   "tip": "Interior visits are limited, so check with Chur Tourismus; the exterior and surrounding lanes are free any time.",
+   "q": "Rathaus, Poststrasse 33, Chur",
+   "ll": [
+    46.8491,
+    9.5324
+   ],
+   "src": [
+    "https://chur.graubuenden.ch/en/attractions/town-hall-city-of-chur",
+    "https://www.graubuenden.ch/de/ausflugsziele/altstadt-chur"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "churobertor",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Enter the old town through the Obertor",
+   "desc": "The Obertor is a landmark of Chur and a remnant of the medieval town fortifications, guarding the bridge over the Plessur. Beyond it begins the Obere Gasse, once the main road between Germany and Italy and now lined with small shops and cafés.",
+   "tip": "Come on a Saturday morning in season, when the market fills the Obere Gasse.",
+   "q": "Obertor, Obere Gasse, Chur",
+   "ll": [
+    46.84807,
+    9.52961
+   ],
+   "src": [
+    "https://www.graubuenden.ch/de/ausflugsziele/obertor",
+    "https://www.lonelyplanet.com/points-of-interest/obertor/1439387"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "churnikolaikloster",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find the Dominican remains at St. Nikolai and the Malteserturm",
+   "desc": "The Altes Kloster St. Nikolai was founded as a Dominican monastery, with its foundation stone laid in 1288 and conventual buildings finished by 1299. The nearby Malteserturm is one of the few surviving sections of Chur's medieval walls, once known as the Pulverturm.",
+   "tip": "Both are listed on the official Chur city map; the Welschdörfli quarter beside them also has marked Roman excavations.",
+   "q": "Altes Kloster St. Nikolai, Chur",
+   "ll": [
+    46.8501,
+    9.5301
+   ],
+   "src": [
+    "https://www.graubuenden.ch/en/attractions/maltese-tower",
+    "https://www.chur.graubuenden.ch/sites/chur/files/2023-03/stadtplan_chur_englisch.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "churbrambruesch",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Ride the Brambrüesch cable car above Chur",
+   "desc": "The Brambrüeschbahn lifts you about 1,000 m from Chur's valley station on Kasernenstrasse to the town's local mountain Brambrüesch, with views over the Rhine valley. Hiking, a bike park and a winter ski and toboggan area start from the top.",
+   "tip": "City bus line 1 from the station reaches the valley station in about three minutes. Check the timetable: a replacement lift is planned for 2026/27.",
+   "q": "Chur Bergbahnen Brambrüesch Talstation, Kasernenstrasse 15, Chur",
+   "ll": [
+    46.8495,
+    9.542
+   ],
+   "src": [
+    "https://www.graubuenden.ch/de/ausflugsziele/chur-bergbahnen-hausberg-brambrueesch",
+    "https://www.graubuenden.ch/de/aktivitaeten/winter/skifahren/skigebiete/chur-brambrueesch"
+   ]
+  },
+  {
+   "id": "churkaenzeli",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Hike from Brambrüesch down to the Känzeli viewpoint",
+   "desc": "The Genusswanderung from Brambrüesch to the Känzeli middle station is about 5.4 km and roughly 1 hour 15 minutes of walking. Shortly before the Känzeli the view opens up over Chur and the Churer Rheintal.",
+   "tip": "Ride up with the gondola, walk down and continue by cable car from the Känzeli. Best from late spring to autumn.",
+   "q": "Känzeli Mittelstation, Brambrüesch, Chur",
+   "ll": [
+    46.83393,
+    9.52097
+   ],
+   "src": [
+    "https://www.graubuenden.ch/de/touren/brambrueesch-kaenzeli-genusswanderung",
+    "https://www.chur.graubuenden.ch/sites/chur/files/2021-04/brambrueesch_sommer_broschuere.pdf"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "churalpenbikepark",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Ride the Alpenbikepark on Brambrüesch",
+   "desc": "The Alpenbikepark Chur has five downhill trails graded blue, red and black, plus a beginner drop zone, served directly by the Brambrüesch cable car. The track dates back to 2009 when it was built for the Swiss downhill championships.",
+   "tip": "Summer season runs roughly May to the start of November; bring protective gear and check the next season's hours.",
+   "q": "Alpenbikepark Chur, Brambrüesch, Chur",
+   "ll": [
+    46.838,
+    9.558
+   ],
+   "src": [
+    "https://www.graubuenden.ch/de/ausflugsziele/alpenbikepark-chur",
+    "https://www.redbull.com/ch-de/alpenbikepark-chur-alle-infos"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "churschlitteln",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Toboggan the Brambrüesch to Känzeli run",
+   "desc": "The Schlittelplausch at Brambrüesch is a 4 to 5 km toboggan run with about 400 m of descent to the Känzeli, rated medium difficulty. A Saturday night run is offered in the colder months.",
+   "tip": "Sledges can be rented at the top station against a deposit; operating dates depend on snow, so check Chur Bergbahnen.",
+   "q": "Brambrüesch Schlittelweg, Chur",
+   "ll": [
+    46.82181,
+    9.51428
+   ],
+   "src": [
+    "https://www.freizeit.ch/freizeit/18844/schlittelplausch-in-brambruesch",
+    "https://www.graubuenden.ch/de/touren/brambrueesch-kaenzeli-schlittelweg"
+   ],
+   "months": [
+    12,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "churaltstadtfuehrung",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Join the public old town walking tour",
+   "desc": "Chur Tourismus runs a public guided walk through the old town that ends at the cathedral, with Saturday tours from 10:00 to 12:00 and Wednesday tours from April to October. It covers the oldest town in Switzerland, with themed variants such as culinary and dark-history tours.",
+   "tip": "Book online or at the tourist office, Bahnhofstrasse 32; confirm the current price on the booking page.",
+   "q": "Chur Tourismus, Bahnhofstrasse 32, Chur",
+   "ll": [
+    46.8531,
+    9.5296
+   ],
+   "src": [
+    "https://www.graubuenden.ch/de/buchen/angebote/oeffentliche-altstadtfuehrung-chur",
+    "https://chur.graubuenden.ch/en/plan-book-guided-tours-city-walks"
+   ]
+  },
+  {
+   "id": "churwochenmarkt",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Saturday farmers' market",
+   "desc": "From May to October the Churer Wochenmarkt fills the Obere Gasse and Untere Gasse with farm products, with Ochsenplatz as another market spot in the old town. A flea market, the Gänggelimarkt, runs on the first Saturday of the month on the Arcas.",
+   "tip": "Stalls are open about 8 to 12; arrive early for the best produce and Bündner cheese.",
+   "q": "Obere Gasse, Chur",
+   "ll": [
+    46.8485,
+    9.5329
+   ],
+   "src": [
+    "https://chur.graubuenden.ch/node/236",
+    "https://www.graubuenden.ch/de/ausflugsziele/churer-altstadt"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "churcalandabrewery",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Tour the Calanda brewery",
+   "desc": "Calanda Bräu is Graubünden's brewery in Chur. Chur Tourismus offers public tours of about 1.5 hours at Kasernenstrasse 36 that end with tastings, for visitors aged 18 and over.",
+   "tip": "Closed shoes are required and tours run only with enough sign-ups on selected dates, so book through Chur Tourismus.",
+   "q": "Calanda Brauerei, Kasernenstrasse 36, Chur",
+   "ll": [
+    46.84788,
+    9.5236
+   ],
+   "src": [
+    "https://www.chur.graubuenden.ch/en/overview-events/offentliche-fuhrung-calanda-brauerei",
+    "https://en.wikipedia.org/wiki/Calanda_Br%C3%A4u"
+   ]
+  },
+  {
+   "id": "churmerzworkshop",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Bake a Bündner Nusstorte at the Merz workshop",
+   "desc": "Merz Rossboden runs a two-hour workshop on the handcrafted making, ingredients and history of the Bündner Nusstorte, including a tasting and a tour of the bakery. It can be booked in German or English.",
+   "tip": "Sessions are scheduled a few times a year, so ask Merz for the next date; cancel free up to 48 hours before.",
+   "q": "Merz Rossboden, Rossbodenstrasse 51, Chur",
+   "ll": [
+    46.85384,
+    9.50483
+   ],
+   "src": [
+    "https://www.graubuenden.ch/sites/graubuenden/files/2025-10/Nusstorten_Workshop_Merz.pdf",
+    "https://www.graubuenden.ch/de/gastronomie/merz-rossboden-chur"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "churalbulatrain",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Board the Rhaetian Railway to St. Moritz at Chur station",
+   "desc": "Chur is the departure point of the Rhätische Bahn trains to Disentis, Klosters, Scuol-Tarasp and St. Moritz. The line to St. Moritz crosses the UNESCO-listed Albula section with its spiral tunnels and viaducts, and the Bernina Express starts here too.",
+   "tip": "Timetables and seat reservations for the panorama trains are on rhb.ch; sit on the right side climbing towards Filisur.",
+   "q": "Bahnhof Chur, Bahnhofplatz, Chur",
+   "ll": [
+    46.8535,
+    9.5287
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/adventure-rides-aboard-the-rhaetian-railway-bernina-express/",
+    "https://www.chur.graubuenden.ch/en/node/341"
+   ]
+  },
+  {
+   "id": "churstern",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat the Bündner trilogy at Hotel Stern",
+   "desc": "Veltliner Weinstuben zum Stern on Reichsgasse serves a traditional Bündner menu in its Bündner Stube, rated 13 points by Gault&Millau. Specialities include Capuns, Maluns, Pizzoccheri neri, Pizokel, barley soup and braised beef.",
+   "tip": "Order the Bündner Trilogie of Capuns, Maluns and Pizokel; reserve for dinner as hours vary.",
+   "q": "Hotel Stern Bündner Stube, Reichsgasse 11, Chur",
+   "ll": [
+    46.8488,
+    9.5321
+   ],
+   "src": [
+    "https://gaultmillau.ch/restaurants/hotel-stern-chur-18743",
+    "https://www.graubuenden.ch/de/gastronomie/restaurant-veltliner-weinstuben-zum-stern"
+   ]
+  },
+  {
+   "id": "churrebleuten",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine at the guild house Zunfthaus zur Rebleuten",
+   "desc": "The Zunfthaus zur Rebleuten stands on Pfisterplatz in the old town, with a building dating to 1483 and rebuilt in 1682 after fires. The restaurant cooks Swiss and Bündner dishes from regional products and holds 12 Gault&Millau points.",
+   "tip": "Hours vary by source (rest days listed as Tuesday and Wednesday), so book ahead on +41 81 255 11 44.",
+   "q": "Zunfthaus zur Rebleuten, Pfisterplatz 1, Chur",
+   "ll": [
+    46.8492,
+    9.532
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-my/experiences/food-wine/restaurant/zunfthaus-zur-rebleuten/",
+    "https://www.graubuenden.ch/de/gastronomie/gilde-restaurant-zunfthaus-zur-rebleuten"
+   ]
+  },
+  {
+   "id": "churfranziskaner",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try Bündner specialities in the Franziskaner Arvenstube",
+   "desc": "The Franziskaner on Untere Gasse offers home-style cooking with Graubünden specialities in a cosy pine-panelled Arvenstube, plus a separate room for cheese fondue and raclette.",
+   "tip": "A casual option for fondue or raclette after sightseeing; check current opening hours first.",
+   "q": "Franziskaner Restaurant am Ochsenplatz, Untere Gasse 29, Chur",
+   "ll": [
+    46.84833,
+    9.52984
+   ],
+   "src": [
+    "https://www.graubuenden.ch/de/gastronomie/franziskaner-restaurant-am-ochsenplatz",
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/hotel-franziskaner/"
+   ]
+  },
+  {
+   "id": "churgansplatz",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Swiss and Bündner classics at Gasthaus Gansplatz",
+   "desc": "Gasthaus Gansplatz serves Swiss and Bündner classics near the Gansplatz in the old town, on Goldgasse.",
+   "tip": "Choose a Bündner classic such as Capuns or Pizokel; confirm hours before going.",
+   "q": "Gasthaus Gansplatz, Goldgasse 22, Chur",
+   "ll": [
+    46.84807,
+    9.53055
+   ],
+   "src": [
+    "https://www.graubuenden.ch/de/ausflugsziele/gasthaus-gansplatz"
+   ]
+  },
+  {
+   "id": "churbuehler",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste Pfirsichsteine at Bühler's Zuckerbäckerei",
+   "desc": "Bühler's on Untere Gasse is described as the oldest production site of Chur's baking and confectionery trade; the house zum Ochsen was bought for a bakery in 1806. It is known for Bündner Pfirsichsteine (original Hürsch since 1887) and the Alpine City cake.",
+   "tip": "Open Tuesday to Friday 7:30 to 18:30 and Saturday to 17:00, closed Sunday and Monday.",
+   "q": "Bühler's Zuckerbäckerei, Untere Gasse 32, Chur",
+   "ll": [
+    46.84821,
+    9.52967
+   ],
+   "src": [
+    "https://www.graubuenden.ch/de/gastronomie/buehlers-zuckerbaeckerei",
+    "https://www.myswitzerland.com/en/planning/about-switzerland/organisation/buehlers-zuckerbaeckerei/"
+   ]
+  },
+  {
+   "id": "churmerzcafe",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have coffee and pralines at Café Merz",
+   "desc": "The Merz café on Bahnhofstrasse combines a coffee shop, bakery, confectionery and take-away on one floor, with a praline bar as a recent highlight. Merz is a Chur family business known for its Bündner Nusstorte.",
+   "tip": "Take a slice of Nusstorte to go; the café is a short walk from the station.",
+   "q": "Café Merz, Bahnhofstrasse 22, Chur",
+   "ll": [
+    46.85384,
+    9.50483
+   ],
+   "src": [
+    "https://www.graubuenden.ch/de/gastronomie/cafe-merz-bahnhofstrasse-chur"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "churgwerder",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Buy Churer and Bündner specialities at Gwerder",
+   "desc": "Bäckerei-Konditorei Gwerder focuses on Churer and Bündner specialities, open Monday to Friday 6 to 18:30 and Saturday 7 to 16.",
+   "tip": "Ask for the local pastries and Nusstorte; it is outside the old town on Ringstrasse.",
+   "q": "Bäckerei Konditorei Gwerder, Ringstrasse 73, Chur",
+   "ll": [
+    46.85821,
+    9.53719
+   ],
+   "src": [
+    "https://www.graubuenden.ch/de/gastronomie/baeckerei-konditorei-gwerder"
+   ]
+  },
+  {
+   "id": "stmoritzsegantini",
+   "cat": "gor",
+   "area": "engadin",
+   "title": "See Segantini's Alpine triptych in his museum",
+   "desc": "The Segantini Museum opened in 1908, built by Nicolaus Hartmann as a memorial to the painter Giovanni Segantini, and holds the most comprehensive collection of his work. Its centrepiece is the Alpine triptych in the domed hall.",
+   "tip": "Open Tuesday to Sunday 11 to 17 in season (roughly late May to mid-October); about 10 minutes on foot from the centre or by bus 2.",
+   "q": "Segantini Museum, Via Somplaz 30, St. Moritz",
+   "ll": [
+    46.4927,
+    9.83331
+   ],
+   "src": [
+    "https://www.stmoritz.com/en/directory/culture/museums/segantini-museum",
+    "https://www.myswitzerland.com/en/experiences/segantini-museum"
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "stmoritzschieferturm",
+   "cat": "gor",
+   "area": "engadin",
+   "title": "Photograph the Leaning Tower of St. Moritz",
+   "desc": "The Schiefer Turm is the remnant of the old St. Mauritius church, about 33 m high and leaning around 5.5 degrees, more than Pisa. The church was demolished in the 1890s; the nearby Mauritiusquelle is linked to the Forum Paracelsus.",
+   "tip": "Free, always visible in the village centre; dates in the sources differ, so rely on the on-site signs.",
+   "q": "Schiefer Turm, Via Maistra, St. Moritz",
+   "ll": [
+    46.49974,
+    9.84132
+   ],
+   "src": [
+    "https://www.engadin.stmoritz.ch/winter/en/sightseeing/schiefer-turm/",
+    "https://www.graubuenden.ch/en/attractions/the-leaning-tower-0"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stmoritzengadinermuseum",
+   "cat": "gor",
+   "area": "engadin",
+   "title": "Step into Engadine parlours at the Museum Engiadinais",
+   "desc": "The Engadiner Museum was built in 1905 by Nicolaus Hartmann in the style of a traditional Engadine house. Founder Riet Campell collected whole parlours, furniture and household items covering living culture from about the 15th to the 19th century.",
+   "tip": "Open roughly Thursday to Sunday 11 to 17 in summer and winter seasons; bus 601 stops at St. Moritz Bad, Via Aruons.",
+   "q": "Museum Engiadinais, Via dal Bagn 39, St. Moritz",
+   "ll": [
+    46.49396,
+    9.83528
+   ],
+   "src": [
+    "https://portacultura.gr.ch/home-en/institutions/museum-engiadinais",
+    "https://graubuenden.ch/en/attractions/museum-engiadinais"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "stmoritzhanselmann",
+   "cat": "ye",
+   "area": "engadin",
+   "title": "Taste Engadiner Nusstorte at Hanselmann",
+   "desc": "Café-Konditorei Hanselmann on Via Maistra sells bread, Engadiner Nusstorten and pralines behind a well-known sgraffito facade. It has an Art Nouveau-style interior and is a long-standing St. Moritz coffee house.",
+   "tip": "Buy a Nusstorte as a souvenir; opening hours listed are around 7:30 to 19:00 but check in the low season.",
+   "q": "Hanselmann Café Konditorei, Via Maistra 8, St. Moritz",
+   "ll": [
+    46.49766,
+    9.83914
+   ],
+   "src": [
+    "https://www.graubuenden.ch/de/gastronomie/kaffeehaus-hanselmann",
+    "https://engadin.ch/en/shopping/confiserie-hanselmann"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "stmoritzchesaveglia",
+   "cat": "ye",
+   "area": "engadin",
+   "title": "Eat a truffle pizza in the Chesa Veglia hayloft",
+   "desc": "The Pizzeria Heuboden sits in the old hayloft of Chesa Veglia, the oldest farmhouse in St. Moritz, built in 1685. Its best-known pizza is the Dama Bianca with Taleggio, Parmesan and truffle on a tomato-free base.",
+   "tip": "Summer evening hours are listed from 18:30 and the venue closes seasonally, so reserve and confirm dates.",
+   "q": "Chesa Veglia Pizzeria Heuboden, Via Veglia 2, St. Moritz",
+   "ll": [
+    46.49905,
+    9.8406
+   ],
+   "src": [
+    "https://www.graubuenden.ch/de/gastronomie/chesa-veglia-pizzeria-heuboden",
+    "https://www.stmoritz.com/en/directory/restaurants/chesa-veglia-pizzeria-heuboden"
+   ]
+  },
+  {
+   "id": "stmoritzcorviglia",
+   "cat": "dene",
+   "area": "engadin",
+   "title": "Ride the funicular to Corviglia and Piz Nair",
+   "desc": "The St. Moritz to Corviglia funicular climbs from 1,848 m to 2,489 m with a change at Chantarella, and at Corviglia an aerial tramway continues to the Piz Nair summit at about 3,030 m. The municipality of St. Moritz acquired both lines in 1938.",
+   "tip": "Departures run every 15 to 20 minutes depending on season; check the current timetable and clear weather before going to Piz Nair.",
+   "q": "Standseilbahn St. Moritz Corviglia, Via Stredas, St. Moritz",
+   "ll": [
+    46.49875,
+    9.83778
+   ],
+   "src": [
+    "https://www.wikipedia.org/wiki/St._Moritz%E2%80%93Corviglia_Funicular",
+    "https://www.myswitzerland.com/en-au/experiences/piz-nair"
+   ]
+  },
+  {
+   "id": "stmoritzcrestarun",
+   "cat": "dene",
+   "area": "engadin",
+   "title": "Watch the Cresta Run at St. Moritz",
+   "desc": "The Cresta Run is a natural-ice skeleton track in use since 1884, owned and maintained by the St. Moritz Tobogganing Club. It is open from late December to early March.",
+   "tip": "Riding is organised through the St. Moritz Tobogganing Club (temporary membership with a set number of runs, own insurance); spectators watch from the track side.",
+   "q": "Cresta Run, Via Cresta, St. Moritz",
+   "ll": [
+    46.5009,
+    9.84269
+   ],
+   "src": [
+    "https://www.engadin.stmoritz.ch/winter/en/sightseeing/cresta-run/",
+    "https://en.wikipedia.org/wiki/Cresta_Run"
+   ],
+   "months": [
+    12,
+    1,
+    2
+   ]
+  },
+  {
+   "id": "celerinabobrun",
+   "cat": "dene",
+   "area": "engadin",
+   "title": "See the Olympia Bob Run St. Moritz-Celerina",
+   "desc": "The Olympia Bobrun opened in 1904 and is the oldest bobsleigh run still in use, and the only natural-ice track, rebuilt by hand each winter from snow and water. A bobsleigh museum is in Celerina.",
+   "tip": "Winter season only; check the season programme at olympia-bobrun.ch for guest rides and the museum's limited hours.",
+   "q": "Olympia Bobrun, Celerina",
+   "ll": [
+    46.50379,
+    9.84965
+   ],
+   "src": [
+    "https://olympia-bobrun.ch/portfolio-item/museums/",
+    "https://www.stmoritz.com/en/olympia-bob-run/"
+   ],
+   "months": [
+    12,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "stmoritzlejdastaz",
+   "cat": "dene",
+   "area": "engadin",
+   "title": "Walk to Lej da Staz and swim from the old changing huts",
+   "desc": "Lej da Staz (Stazersee) is a small forest lake near St. Moritz with nostalgic changing cabins and a jetty for swimming. A 4.6 km walk from St. Moritz via the Meierei to Celerina or Pontresina takes about 1 hour 15 minutes.",
+   "tip": "Water is cold even in July; return from Celerina or Pontresina by train or bus.",
+   "q": "Lej da Staz, St. Moritz",
+   "ll": [
+    46.49723,
+    9.87129
+   ],
+   "src": [
+    "https://www.graubuenden.ch/de/touren/stazer-see",
+    "https://swissfamilyfun.com/stazersee-st-moritz-lake-walk/"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "muottasmuragl",
+   "cat": "dene",
+   "area": "engadin",
+   "title": "Take the funicular up to Muottas Muragl",
+   "desc": "The Muottas Muragl funicular runs from Punt Muragl near Samedan at 1,740 m to 2,445 m in about ten minutes, over the Upper Engadine lakes. At the top are a Romantik hotel, a panoramic restaurant and the start of the Philosophenweg and Panoramaweg trails.",
+   "tip": "A panorama swing is at the valley station; in winter a 4.5 km toboggan run leads down.",
+   "q": "Muottas Muragl Bahn, Punt Muragl 3, Samedan",
+   "ll": [
+    46.52176,
+    9.90314
+   ],
+   "src": [
+    "https://www.wikipedia.org/wiki/Muottas-Muragl-Bahn",
+    "https://www.graubuenden.ch/de/ausflugsziele/muottas-muragl"
+   ]
+  },
+  {
+   "id": "samedanlaagers",
+   "cat": "ye",
+   "area": "engadin",
+   "title": "Buy the Pultorte at Laagers in Samedan",
+   "desc": "Laagers bakery in Samedan is described by National Geographic as perhaps the most revered source of the Engadiner Nusstorte. It also makes a Pultorte following the historical recipe of Engadine confectioners.",
+   "tip": "Take a whole torte home; check shop hours as the listing is for Plazzet 22.",
+   "q": "Bäckerei Konditorei Laagers, Plazzet 22, Samedan",
+   "ll": [
+    46.5335,
+    9.8778
+   ],
+   "src": [
+    "https://www.nationalgeographic.com/travel/article/engadin-nut-tart",
+    "https://www.graubuenden.ch/en/attractions/bakery-pastry-shop-laagers-samedan"
+   ]
+  },
+  {
+   "id": "pontresinamuseumalpin",
+   "cat": "gor",
+   "area": "engadin",
+   "title": "Learn about alpinism at the Museum Alpin",
+   "desc": "The Museum Alpin in Pontresina is housed in the Chesa Delnon, an Engadine house of 1716. It covers mountaineering, regional fauna and minerals and household culture, and holds the library of the Swiss Alpine Club's Bernina section.",
+   "tip": "Opening hours are seasonal (winter 2026 listing: Monday to Saturday 15:30 to 18:00); confirm before visiting.",
+   "q": "Museum Alpin, Via Maistra 199, Pontresina",
+   "ll": [
+    46.48949,
+    9.90584
+   ],
+   "src": [
+    "https://portacultura.gr.ch/home-en/institutions/museum-alpin/",
+    "https://www.graubuenden.ch/de/ausflugsziele/museum-alpin"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "pontresinaalplanguard",
+   "cat": "dene",
+   "area": "engadin",
+   "title": "Ride the chairlift to Alp Languard",
+   "desc": "Bergrestaurant Alp Languard at about 2,326 m is reached by chairlift from Pontresina or on foot in around 1.5 hours. It is the start of the Piz Languard summit hike and of the Panoramaweg to Muottas Muragl via the Segantini hut.",
+   "tip": "Open daily 9 to 17 from early June to late October, weather permitting.",
+   "q": "Bergrestaurant Alp Languard, Languard 3, Pontresina",
+   "ll": [
+    46.48774,
+    9.92204
+   ],
+   "src": [
+    "https://www.graubuenden.ch/de/gastronomie/bergrestaurant-alp-languard",
+    "https://www.pontresina.ch/en/guide/restaurants-bars/mountain-restaurant-alp-languard"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "diavolezza",
+   "cat": "dene",
+   "area": "engadin",
+   "title": "Ride the Diavolezza cable car to 2,978 m",
+   "desc": "The Diavolezza cable car climbs from the Bernina road to about 2,978 m with a view of Piz Bernina, Piz Palü and the Pers and Morteratsch glaciers. The Berghaus has a restaurant and a panorama terrace, and a glacier trail leads to the Pers glacier.",
+   "tip": "Pair it with the Morteratsch glacier walk; check operating dates at corvatsch-diavolezza.ch.",
+   "q": "Diavolezza Bergbahn Talstation, Berninapass, Pontresina",
+   "ll": [
+    46.41758,
+    9.96457
+   ],
+   "src": [
+    "https://www.myswitzerland.com/de/erlebnisse/diavolezza-ueber-den-gletschern/",
+    "https://www.pontresina.ch/en/guide/mountains-and-valleys/the-diavolezza-and-the-lagalb"
+   ]
+  },
+  {
+   "id": "morteratschglacier",
+   "cat": "dene",
+   "area": "engadin",
+   "title": "Walk the Morteratsch glacier trail",
+   "desc": "The Gletscherweg Morteratsch starts at Morteratsch railway station and reaches the glacier tongue in about 50 minutes. Sixteen information stations explain the glacier's retreat and the life in its foreland, with views of the Bernina group.",
+   "tip": "Easy and family-friendly; return the same way and refuel at Hotel Restaurant Morteratsch. Winter route is marked as number 314.",
+   "q": "Bahnhof Morteratsch, Pontresina",
+   "ll": [
+    46.45074,
+    9.94043
+   ],
+   "src": [
+    "https://www.graubuenden.ch/de/touren/aussichtsweg-morteratschgletscher",
+    "https://www.freizeit.ch/freizeit/18949/gletscherweg-morteratsch"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "valroseg",
+   "cat": "dene",
+   "area": "engadin",
+   "title": "Go by horse-drawn omnibus into Val Roseg",
+   "desc": "Val Roseg is a car-free valley starting at Pontresina; a scheduled horse-drawn omnibus runs to Hotel Restaurant Roseg Gletscher, known for its dessert buffet. The walk from Pontresina station is about 7 km, via Acla Colani and the alps Prüma and Seguonda.",
+   "tip": "Later departures need booking at least four hours ahead; the valley is also a winter walking trail.",
+   "q": "Hotel Restaurant Roseg Gletscher, Val Roseg, Pontresina",
+   "ll": [
+    46.43762,
+    9.86627
+   ],
+   "src": [
+    "https://engadin.ch/en/sport/wohlis-kutschenfahrten",
+    "https://www.myswitzerland.com/en-gb/experiences/food-wine/restaurant/hotel-restaurant-roseg-gletscher/"
+   ]
+  },
+  {
+   "id": "berninaospizio",
+   "cat": "gor",
+   "area": "engadin",
+   "title": "Walk from Ospizio Bernina to Alp Grüm",
+   "desc": "The Bernina pass plateau at about 2,250 m has Lago Bianco at its centre, with the Ospizio Bernina and the highest station of the Rhaetian Railway at about 2,310 m. A roughly 2-hour walk follows the lake and the Sassal Mason viewpoint down to Alp Grüm with views of Piz Palü and the Lagh da Palü.",
+   "tip": "Alp Grüm can be reached only by train or on foot; its restaurant has a sun terrace. Take the Bernina line back.",
+   "q": "Ospizio Bernina, Berninapass, Poschiavo",
+   "ll": [
+    46.40876,
+    10.01986
+   ],
+   "src": [
+    "https://www.graubuenden.ch/de/touren/ospizio-bernina-alp-gruem",
+    "https://engadin.ch/en/bernina-glaciers/connoisseurs/alp-gruem"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "silsfextal",
+   "cat": "dene",
+   "area": "engadin",
+   "title": "Wander the Val Fex by foot or horse carriage",
+   "desc": "The Fextal is a car-free side valley of Sils Maria with the hamlets Platta, Crasta, La Motta and Curtins. Walking to Fex Platta takes 30 to 40 minutes and to Fex Curtins one and a half to two hours, with a summer carriage service back.",
+   "tip": "A winter walking trail to Fex Crasta is open December to March (about 2 hours return).",
+   "q": "Val Fex, Sils Maria",
+   "ll": [
+    46.43048,
+    9.76412
+   ],
+   "src": [
+    "https://www.graubuenden.ch/de/touren/sils-val-fex",
+    "https://wegwandern.ch/wp-content/uploads/2018/02/Wanderung-Fextal-Val-Fex-Sils-Maria%E2%80%93MuottOta%E2%80%93Hotel-Fex%E2%80%93Sils.pdf"
+   ]
+  },
+  {
+   "id": "silsnietzsche",
+   "cat": "gor",
+   "area": "engadin",
+   "title": "Visit Nietzsche's summer lodging in Sils Maria",
+   "desc": "Friedrich Nietzsche spent seven summers in Sils Maria from 1881, renting a room in the Durisch family house on Via da Marias. A foundation bought the house in 1959 and the museum shows his life and work, plus his death mask.",
+   "tip": "Open Tuesday to Sunday 15 to 18 mid-December to mid-April and mid-June to mid-October; closed Monday.",
+   "q": "Nietzsche-Haus, Via da Marias 67, Sils Maria",
+   "ll": [
+    46.42884,
+    9.76485
+   ],
+   "src": [
+    "https://portacultura.gr.ch/home-en/institutions/nietzsche-haus/",
+    "https://www.sils.ch/en/guide/sils-in-the-engadin/sights/culture-architecture/nietzsche-house-1"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "silschaste",
+   "cat": "dene",
+   "area": "engadin",
+   "title": "Circle the Chasté peninsula on Lake Sils",
+   "desc": "The loop from Sils is about 4.4 km and 1 hour 10 minutes, crossing the Sils plain and following a trail around the forested peninsula with benches and fire pits. The Nietzsche memorial stone at the southern tip looks across the lake to Piz da la Margna.",
+   "tip": "Best from June to October; no winter trail is groomed on the peninsula. A summer lake boat line also calls at Chastè.",
+   "q": "Halbinsel Chastè, Sils Maria",
+   "ll": [
+    46.4275,
+    9.7845
+   ],
+   "src": [
+    "https://www.graubuenden.ch/de/touren/sils-halbinsel-chaste-sils",
+    "https://www.sils.ch/en/guide/sils-in-the-engadin/sights/culture-architecture/nietzsche-memorial-stone-on-the-chaste-peninsula"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "silvaplanawindsurf",
+   "cat": "dene",
+   "area": "engadin",
+   "title": "Windsurf or kite on Lake Silvaplana",
+   "desc": "The thermal Maloja wind usually sets in near midday at 10 to 20 knots and funnels over Lake Silvaplana, making it a major windsurfing and kitesurfing spot. Lessons including foil and wing-foil are offered at stations at Silvaplana and Sils.",
+   "tip": "Water is only 14 to 16 degrees C in summer, so bring a wetsuit; best from June to September, with beginners often preferred at Sils.",
+   "q": "Windsurf Sportzentrum Mulets, Silvaplana",
+   "ll": [
+    46.45667,
+    9.79514
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/lake-silvaplana-a-kitesurfing-gem/",
+    "https://kitejungle.com/kite-places/switzerland/silvaplana-silvaplanersee"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "corvatsch",
+   "cat": "dene",
+   "area": "engadin",
+   "title": "Ride up to Corvatsch at 3,303 m",
+   "desc": "The Corvatsch cable car runs from Surlej near Silvaplana via the Murtèl middle station to a top station at 3,303 m, the highest mountain station in Graubünden, about 150 m below the peak. A panorama restaurant faces the Bernina glaciers.",
+   "tip": "Mild altitude effects are possible; dress warmly and check operating times at corvatsch-diavolezza.ch.",
+   "q": "Corvatschbahn Talstation, Surlej, Silvaplana",
+   "ll": [
+    46.45515,
+    9.81421
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-us/experiences/piz-corvatsch-and-furtschellas/",
+    "https://remontees-mecaniques.net/bdd/reportage-tph100-corvatschbahn-ii-leitner-2267.html"
+   ]
+  },
+  {
+   "id": "malojagletschermuehlen",
+   "cat": "gor",
+   "area": "engadin",
+   "title": "Explore the glacial potholes and Torre Belvedere in Maloja",
+   "desc": "Maloja has Europe's largest concentration of glacial potholes, 36 large and small ones, discovered in 1882 while the Torre Belvedere was being built for Count de Renesse. The tower now has a Pro Natura exhibition on the landscape history of Maloja.",
+   "tip": "The potholes are closed in winter, when a winter path leads only to the tower; the circular walk starts at Maloja Posta.",
+   "q": "Torre Belvedere, Maloja",
+   "ll": [
+    46.40146,
+    9.69078
+   ],
+   "src": [
+    "https://www.graubuenden.ch/en/tours/glacial-mills-park",
+    "https://www.graubuenden.ch/de/ausflugsziele/torre-belvedere"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "zuozchesaplanta",
+   "cat": "gor",
+   "area": "engadin",
+   "title": "Tour Zuoz's historic centre and Chesa Planta",
+   "desc": "Zuoz's village centre is rich in sgraffito houses, and Chesa Planta, built in 1595 by the von Salis family and enlarged into a twin house in 1760, is a museum of living culture. A walk can start at the Bear Fountain on the village square past the Planta houses.",
+   "tip": "The village is free to walk, but Chesa Planta opens only at set times, with guided tours of the Kulturarchiv Oberengadin on selected dates.",
+   "q": "Chesa Planta, Zuoz",
+   "ll": [
+    46.60221,
+    9.95921
+   ],
+   "src": [
+    "https://www.engadin.stmoritz.ch/fr/museen/chesa-planta-museum/",
+    "https://www.graubuenden.ch/en/attractions/historic-village-centre"
+   ]
+  },
+  {
+   "id": "zuozcruschetta",
+   "cat": "ye",
+   "area": "engadin",
+   "title": "Eat capuns and barley soup at Restaurant Cruschetta",
+   "desc": "Restaurant Cruschetta on Stradun in Zuoz is open daily and lists Bündner classics such as capuns, pizzoccheri and barley soup on the menu.",
+   "tip": "Check menu and opening hours before visiting, as listings differ by season.",
+   "q": "Restaurant Cruschetta, Stradun 88a, Zuoz",
+   "ll": [
+    46.60198,
+    9.95956
+   ],
+   "src": [
+    "https://graubuenden.ch/en/gastronomy/restaurant-cruschetta"
+   ]
+  },
+  {
+   "id": "schanfvaltrupchun",
+   "cat": "dene",
+   "area": "engadin",
+   "title": "Watch red deer in Val Trupchun",
+   "desc": "The Val Trupchun loop from S-chanf is about 13.6 km and 3 hours 45 minutes inside the Swiss National Park, with rest areas at Val Mela and Alp Trupchun for watching red deer, ibex and marmots. The deer rut runs from about mid-September to mid-October.",
+   "tip": "Bring binoculars and stay on marked trails; the Express Parc Naziunal bus can shorten the walk, and the park runs guided hikes on Thursdays.",
+   "q": "Val Trupchun, S-chanf",
+   "ll": [
+    46.60656,
+    10.04046
+   ],
+   "src": [
+    "https://www.graubuenden.ch/de/touren/rundwanderung-val-trupchun-schweizerischen-nationalpark",
+    "https://wegwandern.ch/wanderung/val-trupchun-schweizer-nationalpark-s-chanf-alp-trupchun-varusch-wandern-wanderung/"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "zernezparkcentre",
+   "cat": "gor",
+   "area": "engadin",
+   "title": "Explore the Swiss National Park centre in Zernez",
+   "desc": "The Nationalparkzentrum at Urtatsch 2 in Zernez has the permanent exhibition Wildnis im Zentrum, about 800 square metres with an audio guide in five languages, plus changing special exhibitions. It is the gateway to the Swiss National Park.",
+   "tip": "2026 season listed as 9 March to 25 October, daily 8:30 to 18:00; check nationalpark.ch for current hours.",
+   "q": "Nationalparkzentrum, Urtatsch 2, Zernez",
+   "ll": [
+    46.6994,
+    10.0958
+   ],
+   "src": [
+    "https://portacultura.gr.ch/home-en/institutions/nationalparkzentrum-zernez",
+    "https://www.myswitzerland.com/en-gb/experiences/events/zernez-national-park-centre/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "suschmuseum",
+   "cat": "gor",
+   "area": "engadin",
+   "title": "See contemporary art at Muzeum Susch",
+   "desc": "Muzeum Susch opened on 2 January 2019 in the grounds of a former medieval monastery and was founded by Grażyna Kulczyk. It focuses on women artists of the 1960s to 1980s with site-specific installations.",
+   "tip": "Open about Thursday to Sunday 11 to 17 with a winter break (2 November to 11 December in 2026); check muzeumsusch.ch.",
+   "q": "Muzeum Susch, Surpunt 78, Susch",
+   "ll": [
+    46.75054,
+    10.08136
+   ],
+   "src": [
+    "https://www.muzeumsusch.ch/e/muzeum-susch.html",
+    "https://www.graubuenden.ch/en/attractions/muzeum-susch-art-stations-foundation-ch"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "guardavillage",
+   "cat": "gor",
+   "area": "engadin",
+   "title": "Stroll through Guarda, the village of Schellen-Ursli",
+   "desc": "Guarda won the Wakkerpreis in 1975 for its sgraffito-decorated Engadine houses. It is the village of the children's book Schellen-Ursli by Selina Chönz, illustrated by Alois Carigiet in 1945, with a themed trail and a self-guided audio walk of 3.8 km.",
+   "tip": "The free audio walk takes about an hour; Chalandamarz is celebrated in March.",
+   "q": "Guarda, Scuol",
+   "ll": [
+    46.77538,
+    10.15189
+   ],
+   "src": [
+    "https://www.graubuenden.ch/de/touren/dorfrundgang-guarda",
+    "https://www.myswitzerland.com/de/reiseziele/guarda/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ardezsteinsberg",
+   "cat": "gor",
+   "area": "engadin",
+   "title": "Climb to the Steinsberg castle ruin in Ardez",
+   "desc": "The Steinsberg ruin stands on a rocky hill at the edge of Ardez, burned in the Swabian War of 1499 and never rebuilt, though its tower still stands. Ardez is a model Romansh village with well-kept sgraffito houses, first recorded around 840.",
+   "tip": "The ruin is free and open at all times and gives a good view over the village.",
+   "q": "Ruine Steinsberg, Ardez",
+   "ll": [
+    46.77433,
+    10.20501
+   ],
+   "src": [
+    "https://www.graubuenden.ch/de/ausflugsziele/schlossruine-steinsberg-ardez",
+    "https://myswitzerland.com/en-sg/experiences/steinsberg-castle-ruins"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "tarasp",
+   "cat": "gor",
+   "area": "engadin",
+   "title": "Join a guided tour of Tarasp Castle",
+   "desc": "Schloss Tarasp has been in private ownership since 2016 and can only be visited on a guided tour, with online registration. Tours run all year, daily in summer except Mondays, in German with audio guides in other languages.",
+   "tip": "Adults CHF 15; tickets at the courtyard counter, arrive a few minutes early. Not suitable for wheelchairs, strollers or dogs.",
+   "q": "Schloss Tarasp, Tarasp",
+   "ll": [
+    46.77894,
+    10.26172
+   ],
+   "src": [
+    "https://www.freizeit.ch/freizeit/14209/schloss-tarasp",
+    "https://www.graubuenden.ch/de/veranstaltungen/fuehrung-schloss-tarasp"
+   ]
+  },
+  {
+   "id": "scuolbogn",
+   "cat": "dene",
+   "area": "engadin",
+   "title": "Soak in the Bogn Engiadina mineral baths in Scuol",
+   "desc": "Bogn Engiadina opened in 1993 and is fed by Scuol's mineral springs. It has pools, a sauna landscape and a Roman-Irish bath, a timed ritual of alternating steam and cold-water stages, under a dome by the artist Steivan Liun Könz.",
+   "tip": "The Roman-Irish bath needs a reserved time slot and is for adults only; photography is banned in the sauna. Check prices at bognengiadina.ch.",
+   "q": "Bogn Engiadina Scuol, Via dals B'gns, Scuol",
+   "ll": [
+    46.79852,
+    10.30238
+   ],
+   "src": [
+    "https://www.graubuenden.ch/de/ausflugsziele/mineralbad-bogn-engiadina",
+    "https://engadin.com/bognengiadina"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "scuolmottanaluns",
+   "cat": "dene",
+   "area": "engadin",
+   "title": "Take the gondola to Motta Naluns above Scuol",
+   "desc": "An eight-seater gondola runs from beside Scuol-Tarasp station up to Motta Naluns at 2,146 m. Summer routes lead to Alp Clünas, Alp Laret and Ftan, with a barrier-free route back via Ftan, and Bergrestaurant La Motta is at the station.",
+   "tip": "Summer service runs roughly late May to early November, about 8:30 to 17:00; check bergbahnen-scuol.ch.",
+   "q": "Motta Naluns Bergbahnen, Scuol",
+   "ll": [
+    46.81117,
+    10.27262
+   ],
+   "src": [
+    "https://www.graubuenden.ch/de/ausflugsziele/motta-naluns",
+    "https://www.graubuenden.ch/de/touren/motta-naluns-alp-cluenas-alp-laret-ftan-scuol"
+   ]
+  },
+  {
+   "id": "scuolcantieni",
+   "cat": "ye",
+   "area": "engadin",
+   "title": "Buy Cantieni's Nusstorte and Birnbrot in Scuol",
+   "desc": "The Pastizaria Cafè Cantieni in Scuol makes a traditional Nusstorte and fine Birnbrot (pear bread), both Engadine specialities.",
+   "tip": "Take a Birnbrot as a snack for walking; confirm shop hours locally.",
+   "q": "Pastizaria Café Cantieni, Scuol",
+   "ll": [
+    46.7967,
+    10.3044
+   ],
+   "src": [
+    "https://www.graubuenden.ch/de/gastronomie/furino-furners-pastiziers-sa-pastizaria-cafe-cantieni"
+   ]
+  },
+  {
+   "id": "scuolconrad",
+   "cat": "ye",
+   "area": "engadin",
+   "title": "Order capuns and pizokel at Restaurant Conrad",
+   "desc": "Restaurant Conrad in Scuol serves Bündner specialities such as capuns and pizokel alongside international dishes, with game on the menu in autumn.",
+   "tip": "Autumn is the season for game dishes; confirm opening times before visiting.",
+   "q": "Restaurant Conrad, Scuol",
+   "ll": [
+    46.7959,
+    10.30027
+   ],
+   "src": [
+    "https://www.graubuenden.ch/de/gastronomie/restaurant-conrad",
+    "https://engadin.com/en/activities-experiences/culinary-pleasures/restaurants-lower-engadin/restaurant-conrad"
+   ]
+  }
+ ]
+}

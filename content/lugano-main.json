@@ -1,0 +1,1329 @@
+{
+ "new": [
+  {
+   "id": "luganovianassa",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Stroll the arcades of Via Nassa",
+   "desc": "Via Nassa is the pedestrian shopping street of Lugano's old town, running under arcades from the lakefront towards Piazza della Riforma. It is lined with boutiques, jewellers, bookshops and cafes.",
+   "tip": "Shops close around 18:30 on weekdays, 17:00 on Saturdays and are mostly shut on Sundays.",
+   "q": "Via Nassa, Lugano",
+   "ll": [
+    46.00181,
+    8.94956
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-au/experiences/via-nassa/",
+    "https://www.ticino.ch/en/commons/details/Via-Nassa/1151.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "luganoriforma",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Sit on Piazza della Riforma, Lugano's living room",
+   "desc": "Piazza della Riforma is the main square of Lugano, framed by the neoclassical Municipio and pastel arcaded houses. It hosts markets, concerts and the Christmas programme.",
+   "tip": "Come on a Tuesday or Friday morning when market stalls fill the old town, and have a coffee at one of the terraces.",
+   "q": "Piazza della Riforma, Lugano",
+   "ll": [
+    46.00363,
+    8.95164
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/points-of-interest/piazza-della-riforma/1500665",
+    "https://luganoeventi.ch/en/services/markets-in-lugano/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "luganolac",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit LAC and the MASI art museum on the lake",
+   "desc": "LAC Lugano Arte e Cultura opened on 12 September 2015 on Piazza Bernardino Luini as a centre for music, theatre and visual arts. It houses the Museo d'arte della Svizzera italiana (MASI) with a floor of collection and two floors of temporary exhibitions.",
+   "tip": "MASI is closed on Mondays; Thursday evenings stay open until 20:00. The piazza in front is free and faces the lake.",
+   "q": "LAC Lugano Arte e Cultura, Piazza Bernardino Luini 6, Lugano",
+   "ll": [
+    45.99948,
+    8.94808
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Lugano_Arte_e_Cultura",
+    "https://www.luganolac.ch/en/lac/about/architettura"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "luganoparcociani",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk through Parco Ciani on the lakeshore",
+   "desc": "Parco Ciani (Parco Civico) is a 63,000 square metre lakeside park with Villa Ciani, the Palazzo dei Congressi and the Giardino dei Giusti, created in 2018. The city bought the estate in 1912.",
+   "tip": "Entry is free; it is a 15 minute walk from the station and good for a picnic by the water.",
+   "q": "Parco Ciani, Viale Carlo Cattaneo, Lugano",
+   "ll": [
+    46.0048,
+    8.96
+   ],
+   "src": [
+    "https://www.luganoregion.com/en/commons/details/85874",
+    "https://www.myswitzerland.com/en-us/experiences/parco-civico-ciani/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "luganoangioli",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See Luini's Crucifixion in Santa Maria degli Angioli",
+   "desc": "The church of Santa Maria degli Angioli was built from 1499 to 1515 for the Franciscans. Its nave wall holds Bernardino Luini's huge fresco of the Passion and Crucifixion, painted around 1529, plus a Last Supper.",
+   "tip": "Entry is free, and the church stands beside LAC on Piazza Luini; dress modestly and avoid service times.",
+   "q": "Chiesa di Santa Maria degli Angioli, Piazza Bernardino Luini 1, Lugano",
+   "ll": [
+    45.99998,
+    8.94904
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/the-madonna-degli-angioli-church",
+    "https://www.lonelyplanet.com/points-of-interest/chiesa-di-santa-maria-degli-angioli/1116498"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "luganobrefunicolare",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Ride the Monte Brè funicular from Cassarate",
+   "desc": "The Monte Brè funicular climbs from Cassarate via Suvigliana to the summit at 933 m in two sections. It has run since the early 20th century and opens to wide views over the lake and the Alps.",
+   "tip": "Check the season (roughly March to early January) and the long winter maintenance break; the lower section runs every 15 minutes.",
+   "q": "Funicolare Monte Brè, Cassarate, Lugano",
+   "ll": [
+    46.01136,
+    8.98127
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Monte_Br%C3%A8_funicular",
+    "https://www.lugano.ch/en/vivere-lugano/muoversi-lugano/trasporti-pubblici/funicolari/"
+   ]
+  },
+  {
+   "id": "luganosansalvatore",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Ride the funicular up Monte San Salvatore",
+   "desc": "The Monte San Salvatore funicular opened in 1890 and climbs about 600 m from Paradiso in two sections. The summit at roughly 912 m gives a 360 degree view of Lugano, the lake and the Italian enclave of Campione.",
+   "tip": "Departures are about every 30 minutes; the summit also has a museum and a restaurant, and the funicular runs into the evening in summer.",
+   "q": "Funicolare Monte San Salvatore, Via delle Scuole 7, Paradiso, Lugano",
+   "ll": [
+    45.99035,
+    8.94539
+   ],
+   "src": [
+    "https://www.montesansalvatore.ch/en/funicular/",
+    "https://en.wikipedia.org/wiki/Monte_San_Salvatore_funicular"
+   ]
+  },
+  {
+   "id": "luganogandria",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Wander the lanes of Gandria by the lake",
+   "desc": "Gandria is a former fishing and smuggling village on the northern shore of Lake Lugano, now part of Lugano. Its colourful houses stack up steep stairs and alleys, and it can be reached only by boat or on foot until a road arrived in 1935.",
+   "tip": "Arrive by boat from Lugano (about 20 minutes) and walk back on the Olive Grove Trail.",
+   "q": "Gandria, Lugano",
+   "ll": [
+    46.00574,
+    9.00278
+   ],
+   "src": [
+    "https://www.luganoregion.com/en/commons/details/Gandria-a-picturesque-fishing-village-by-the-lake/150895.html",
+    "https://en.wikipedia.org/wiki/Gandria"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "luganosentiero",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Hike the Olive Grove Trail to Gandria",
+   "desc": "The Sentiero dell'Olivo runs about 3.5 km between Castagnola and Gandria through olive groves with 18 information boards on olive growing. It takes roughly an hour to 90 minutes.",
+   "tip": "Best in spring or autumn and in the morning; there are stairs, and bus 2 returns you to Lugano.",
+   "q": "Sentiero dell'Olivo, San Domenico, Castagnola, Lugano",
+   "ll": [
+    46.0061,
+    8.9838
+   ],
+   "src": [
+    "https://www.luganoregion.com/en/theme-trail/details/The-Olive-Grove-Trail/58645146.html",
+    "https://www.myswitzerland.com/en/experiences/olive-tree-trail/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "luganoheleneum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Wander the Art Nouveau park of Villa Heleneum",
+   "desc": "Villa Heleneum in Castagnola was built in 1930-34 for Hélène Bieber on the model of the Petit Trianon at Versailles. The lakeside park was laid out in Art Nouveau style in 1931, and the villa hosts the Museum of Cultures in temporary shows.",
+   "tip": "The park is open daily and free; from 12 November 2026 to 17 January 2027 the villa hosts the exhibition 40 Years of MUSEC.",
+   "q": "Villa Heleneum, Via Cortivo 26, Castagnola, Lugano",
+   "ll": [
+    46.00066,
+    8.98285
+   ],
+   "src": [
+    "https://musec.ch/en/il-museo/Sede/La-Villa.html",
+    "https://www.lugano.ch/en/vivere-lugano/cultura-e-tempo-libero/parchi-aree-gioco/parco-villa-heleneum/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "luganolido",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Swim at the Lido di Lugano",
+   "desc": "The Lido di Lugano, open since 1928, combines lakeside bathing with several pools, a diving pool and a sandy lake beach next to the Cassarate river mouth. In the cold season a balloon cover heats the pools.",
+   "tip": "The 2026 season ran from 1 May to 20 September; take care with currents near the river mouth.",
+   "q": "Lido di Lugano, Via Lido, Cassarate, Lugano",
+   "ll": [
+    46.00471,
+    8.96332
+   ],
+   "src": [
+    "https://www.lugano.ch/en/vivere-lugano/cultura-e-tempo-libero/lidi-e-piscine/lido-lugano/",
+    "https://luganoregion.com/en/commons/details/Lido-di-Lugano/1501.html"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "luganocattedrale",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the Renaissance facade of San Lorenzo",
+   "desc": "The Cathedral of San Lorenzo, seat of the Bishop of Lugano, has early medieval origins and was rebuilt in the late 15th century with a Renaissance facade completed in 1517. Its baroque interior has frescoes and a baptismal font dated 1430.",
+   "tip": "Entry is free; a long restoration ended in 2017. It sits above the old town on Via Cattedrale.",
+   "q": "Cattedrale di San Lorenzo, Via Cattedrale, Lugano",
+   "ll": [
+    46.00463,
+    8.94858
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Lugano_Cathedral",
+    "https://www.luganoregion.com/en/commons/details/Cathedral-of-S-Lorenzo/2681.html"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "luganogrottosalute",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat in the plane-tree shade at Grotto della Salute",
+   "desc": "Grotto della Salute in Massagno, just above Lugano, has three terraces under century-old plane trees and a more formal classic dining room. It is listed in Gault&Millau and Michelin guides.",
+   "tip": "Closed on Sundays; book for dinner and ask for the Ticino classics such as polenta or risotto.",
+   "q": "Grotto della Salute, Via Madonna della Salute 2a, Massagno",
+   "ll": [
+    46.01147,
+    8.94387
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/grotto-della-salute/",
+    "https://www.luganoregion.com/en/restaurants/details/Grotto-della-Salute/75885.html"
+   ]
+  },
+  {
+   "id": "luganogrottoteresa",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Reach Grotto Teresa by boat for polenta and braised beef",
+   "desc": "Grotto Teresa sits on the lakeshore at Cantine di Gandria, in the old wine cellars used by smugglers. Its kitchen serves Ticino dishes such as braised beef with polenta, risotto, gnocchi and grilled meats.",
+   "tip": "Open daily from early May to early October, about 11:30 to 21:00; reach it by boat or a short trail from the Customs Museum.",
+   "q": "Grotto Teresa, Cantine di Gandria, Lugano",
+   "ll": [
+    45.99821,
+    9.01709
+   ],
+   "src": [
+    "https://www.ticino.ch/en/restaurants/details/Grotto-Teresa/74939.html",
+    "https://www.luganoregion.com/en/commons/details/Grotto-Teresa/151032.html"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "luganoboschetto",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste wood-fired seafood at Locanda del Boschetto",
+   "desc": "Locanda del Boschetto in Cassarate has operated since 1993 and is run by chef Antonio Ferraro. It specialises in seafood, with fish and crustaceans cooked on a hot stone over a wood fire.",
+   "tip": "Prices are around the Swiss average; call ahead on +41 91 994 24 93 as opening hours vary.",
+   "q": "Locanda del Boschetto, Via al Boschetto 8, Lugano",
+   "ll": [
+    45.98967,
+    8.93911
+   ],
+   "src": [
+    "https://luganoregion.com/en/restaurants/details/Locanda-del-Boschetto/75584.html",
+    "https://search.ch/tel/lugano/via-al-boschetto-8/locanda-del-boschetto.en.html"
+   ]
+  },
+  {
+   "id": "luganodogane",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Swiss Customs Museum at Cantine di Gandria",
+   "desc": "The Swiss Customs Museum stands on the Italian border at Cantine di Gandria in a former guard post. Exhibitions cover smuggling history, border guards' lives and CITES-protected species.",
+   "tip": "Open roughly late March to late October and reached by boat or foot; admission was free at last check.",
+   "q": "Museo doganale svizzero, Cantine di Gandria, Lugano",
+   "ll": [
+    45.99937,
+    9.02101
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Swiss_Customs_Museum",
+    "https://lugano.ch/en/vivere-lugano/cultura-e-tempo-libero/musei/museo-dogane"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "luganobattello",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cruise Lake Lugano on a Navigazione boat",
+   "desc": "The Societa Navigazione del Lago di Lugano runs scheduled routes from the landing stage at Lugano-Centrale to Gandria, Morcote and other lake villages. The short run to Gandria takes about 20 minutes, and the Lugano-Morcote trip is considered the most scenic.",
+   "tip": "From late May to early September there is a Thursday to Saturday evening grotto tour; regular services are covered by the Swiss Travel Pass.",
+   "q": "Società Navigazione del Lago di Lugano, Riva Giocondo Albertolli, Lugano",
+   "ll": [
+    46.00573,
+    8.96519
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/lake-lugano-cruises",
+    "https://www.lakelugano.ch/en/homepage"
+   ],
+   "months": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "luganoreali",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See MASI's historic seat at Palazzo Reali",
+   "desc": "Palazzo Reali on Via Canova, with origins in the mid-15th century, was donated to the canton by engineer Secondo Reali and opened as the cantonal art museum in 1987. A renovation finished in 2019, and it now shows collection pieces and temporary exhibitions as the second MASI venue.",
+   "tip": "A MASI ticket covers both venues; Palazzo Reali only was CHF 8 at last listing. Closed Mondays.",
+   "q": "Palazzo Reali MASI, Via Canova 10, Lugano",
+   "ll": [
+    46.00415,
+    8.95338
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/museo-darte-della-svizzera-italiana-masi-lugano-palazzo-reali",
+    "https://www.museums.ch/it/visita-al-museo/musei/musei/museo-drarte-della-svizzera-italiana-(masi-lugano)-palazzo-reali-2136.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "luganostorianaturale",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find the fossils of Monte San Giorgio at the Natural History Museum",
+   "desc": "The Museo cantonale di storia naturale, founded in 1874, sits beside Parco Ciani. It is known for the Triassic reptile fossils of Monte San Giorgio and a large section on fungi.",
+   "tip": "Admission is free; open Tuesday to Saturday 09:00-12:00 and 14:00-17:00.",
+   "q": "Museo cantonale di storia naturale, Viale Carlo Cattaneo 4, Lugano",
+   "ll": [
+    46.0041,
+    8.9615
+   ],
+   "src": [
+    "https://www.lugano.ch/en/vivere-lugano/cultura-e-tempo-libero/musei/museo-cantonale-storia-naturale/",
+    "https://www.ticino.ch/en/commons/details/Museo-cantonale-di-storia-naturale-Lugano/2755.html"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "luganobrevillage",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore the village of Brè and its Path of Art",
+   "desc": "Brè sits at about 800 m on the slope of Monte Brè and was reachable only on foot or by mule until a road opened in 1912. It keeps its Ticino stone-house character, a wash fountain and a trail of artworks by around 20 artists.",
+   "tip": "Take the funicular to the summit and walk down, or use bus 12.",
+   "q": "Brè sopra Lugano, Lugano",
+   "ll": [
+    46.01148,
+    8.99682
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Br%C3%A8",
+    "https://www.myswitzerland.com/en-us/experiences/monte-bre"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "luganovettasansalvatore",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine on the terrace at Vetta San Salvatore",
+   "desc": "Ristorante Vetta San Salvatore at 912 m on the mountain's summit has an open-air terrace and panoramic veranda seating over 200. Menus lean Mediterranean with seasonal ingredients, and it offers evening openings from May to September.",
+   "tip": "Go up by funicular for sunset and book a terrace table.",
+   "q": "Ristorante Vetta San Salvatore, Monte San Salvatore, Paradiso, Lugano",
+   "ll": [
+    45.97653,
+    8.94584
+   ],
+   "src": [
+    "https://luganoregion.com/en/restaurants/details/Ristorante-Vetta-San-Salvatore/76420.html",
+    "https://www.ticino.ch/en/restaurants/details/Ristorante-Vetta-San-Salvatore/76420.html"
+   ]
+  },
+  {
+   "id": "luganotassino",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Picnic with a lake view in Parco del Tassino",
+   "desc": "Parco del Tassino is a hillside park above Lugano station, once the hunting preserve of the Enderlin family. Its sunny slope holds roses, magnolias and Japanese dogwoods, with a picnic area and a playground.",
+   "tip": "Entry is free and the park is about a 10 minute walk from the station.",
+   "q": "Parco Tassino, Via Tassino, Lugano",
+   "ll": [
+    46.00114,
+    8.94508
+   ],
+   "src": [
+    "https://www.luganoregion.com/en/commons/details/Parco-Tassino/85877.html",
+    "https://lugano.ch/en/vivere-lugano/cultura-e-tempo-libero/parchi-aree-gioco/parco-tassino"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "luganocantinone",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Pair Ticino wines with dinner at Ristorante Cantinone",
+   "desc": "Ristorante Cantinone on Piazza Cioccaro in the historic centre is built around wine, with a bistro-style lower floor and a more formal upper level. The menu mixes Mediterranean and Ticinese dishes.",
+   "tip": "Ask for a Merlot del Ticino by the glass; reviews are mixed, so book and check current hours.",
+   "q": "Ristorante Cantinone, Piazza Cioccaro 8, Lugano",
+   "ll": [
+    46.0056,
+    8.9496
+   ],
+   "src": [
+    "https://www.luganoregion.com/en/restaurants/details/Ristorante-Cantinone/75389.html",
+    "https://www.ticino.ch/en/restaurants/details/Cantinone/75389.html"
+   ]
+  },
+  {
+   "id": "luganodescanso",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try lasagne and risotto at Grotto Descanso",
+   "desc": "Grotto Descanso is among the Cantine di Gandria, accessible only by boat. Reviewers praise its lasagne, and the kitchen has served risotto with luganighetta, Lugano's sausage.",
+   "tip": "Reached by lake ferry; phone +41 91 922 80 71 to confirm opening days.",
+   "q": "Grotto Descanso, Cantine di Gandria, Lugano",
+   "ll": [
+    45.99844,
+    9.01788
+   ],
+   "src": [
+    "https://www.luganoregion.com/en/restaurants/details/Grotto-Descanso/74940.html",
+    "https://www.ticino.ch/en/restaurants/details/Grotto-Descanso/74940.html"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "luganoporto",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine under the plane trees at Antica Osteria del Porto",
+   "desc": "Antica Osteria del Porto stands at the mouth of the Cassarate river opposite Parco Ciani, in an early 20th century building that was once a public weighbridge. Its lakeside terrace sits under three century-old plane trees.",
+   "tip": "Seasonal Ticino menu such as veal tonnato; reserve for the terrace in summer.",
+   "q": "Antica Osteria del Porto, Via Foce 9, Lugano",
+   "ll": [
+    46.00339,
+    8.9617
+   ],
+   "src": [
+    "https://luganoregion.com/en/restaurants/details/Antica-Osteria-del-Porto/74695.html",
+    "https://www.ticino.ch/it/restaurants/details/Antica-Osteria-del-Porto/74695.html"
+   ]
+  },
+  {
+   "id": "luganoschmid",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Wilhelm Schmid Museum in Brè",
+   "desc": "The Wilhelm Schmid Museum occupies the Brè house where the Aargau painter (1892-1971) lived. Over a thousand paintings and drawings passed to the city under his will.",
+   "tip": "Open weekend afternoons 14:00-17:00 in season (about April to October), free admission; get there by funicular.",
+   "q": "Museo Wilhelm Schmid, Scalinata Cantèr 10, Brè, Lugano",
+   "ll": [
+    46.01136,
+    8.99791
+   ],
+   "src": [
+    "https://www.lugano.ch/en/vivere-lugano/cultura-e-tempo-libero/musei/museo-wilhelm-schmid/",
+    "https://www.ticino.ch/en/commons/details/Museum-Wilhelm-Schmid/3070.html"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "luganovanini",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have ice cream and pastry at Vanini on Piazza Riforma",
+   "desc": "Vanini, whose brand dates to 1871 as Pasticceria San Carlo, has stood on Piazza Riforma since 1939. It sells chocolate, pastries and homemade ice cream.",
+   "tip": "Sit on the piazza with a gelato or coffee; the shop opens at 08:00.",
+   "q": "Vanini 1871 Dolce e Caffè, Piazza della Riforma, Lugano",
+   "ll": [
+    46.0054,
+    8.952
+   ],
+   "src": [
+    "https://www.luganoregion.com/en/commons/details/Vanini-1871-Dolce-e-caff%C3%A8-/150402.html"
+   ]
+  },
+  {
+   "id": "luganoboglia",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Hike from Monte Brè up to Monte Boglia",
+   "desc": "The hike from the Monte Brè summit station (933 m) climbs to the 1,516 m summit of Monte Boglia, rated T2, with views of the lake. It takes about two to three hours up.",
+   "tip": "Bring water as there is little on the way; a loop can return via Alpe Bolla to Brè.",
+   "q": "Monte Brè, Brè sopra Lugano, Lugano",
+   "ll": [
+    46.00919,
+    8.98615
+   ],
+   "src": [
+    "https://www.luganoregion.com/en/hike/details/The-mountain-that-dominates/45464837.html",
+    "https://www.inalto.org/en/reports/hiking/monte-boglia-da-bre"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "luganosanrocco",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Carlo Carlone vault of San Rocco",
+   "desc": "The church of San Rocco dates from the end of the 16th century, with a neo-baroque facade of 1909. Inside are 17th century frescoes and vault paintings by Carlo Carlone dated 1760.",
+   "tip": "Entry is free; it is right by the weekly market area.",
+   "q": "Chiesa di San Rocco, Piazza San Rocco, Lugano",
+   "ll": [
+    46.0063,
+    8.9538
+   ],
+   "src": [
+    "https://www.luganoregion.com/en/commons/details/Chiesa-di-S-Rocco/2683.html"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "luganosanmichele",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Look over the gulf from Parco San Michele",
+   "desc": "Parco San Michele in Castagnola covers about 12,000 square metres with a chapel, a rustic cottage and stone sculptures. A terrace behind the chapel has views over the gulf, the lakefront and Monte San Salvatore.",
+   "tip": "Free and open all year; it is about five minutes on foot from the Monte Brè funicular's intermediate stop.",
+   "q": "Parco San Michele, Castagnola, Lugano",
+   "ll": [
+    46.00465,
+    8.97354
+   ],
+   "src": [
+    "https://www.luganoregion.com/en/detail/id/3340/parco-san-michele",
+    "https://www.myswitzerland.com/en/experiences/parco-san-michele-san-michele-park/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "luganogandriese",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat lakeside at Locanda Gandriese in Gandria",
+   "desc": "Locanda Gandriese is in Gandria's old centre, with an outdoor terrace over Lake Lugano and Italian-Mediterranean cooking.",
+   "tip": "Arrive by boat and keep room for a Merlot del Ticino with the view.",
+   "q": "Locanda Gandriese, Gandria, Lugano",
+   "ll": [
+    46.00522,
+    9.00269
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/991359/locanda-gandriese"
+   ]
+  },
+  {
+   "id": "luganobucce",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine at Ristorante Le Bucce di Gandria",
+   "desc": "Ristorante Le Bucce di Gandria is a family-run restaurant in the village of Gandria on the lake.",
+   "tip": "Combine it with the Olive Grove Trail and boat back to Lugano.",
+   "q": "Ristorante Le Bucce di Gandria, Gandria, Lugano",
+   "ll": [
+    46.00594,
+    9.00224
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/991361/ristorante-le-bucce-di-gandria",
+    "https://www.swipein.restaurant/en/restaurant/ristorante-le-bucce-di-gandria-lugano-tessin"
+   ]
+  },
+  {
+   "id": "luganomulino",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order luganighetta and polenta at Grotto al Mulino",
+   "desc": "Grotto al Mulino is a traditional Ticino grotto in the Lugano area where reviewers describe polenta, spare ribs and luganighetta, the local sausage.",
+   "tip": "Booking is recommended as it can fill up; check the exact address and hours before going.",
+   "q": "Grotto al Mulino, Via Ramello 3, Lugano",
+   "ll": [
+    46.013,
+    8.958
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/3093201/grotto-al-mulino",
+    "https://www.swipein.restaurant/en/restaurant/grotto-al-mulino-lugano-tessin"
+   ]
+  },
+  {
+   "id": "luganolungolago",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the lakefront promenade to the Belvedere garden",
+   "desc": "The Lugano lakeshore promenade starts at the small Guglielmo Tell terrace by Parco Ciani and passes the city's historic buildings. About halfway lies the Belvedere garden of roughly 11,000 square metres, opposite LAC.",
+   "tip": "Free and best at sunset; in summer chalets on Riva Albertolli serve drinks.",
+   "q": "Giardino Belvedere, Riva Paradiso, Lugano",
+   "ll": [
+    46.00333,
+    8.95275
+   ],
+   "src": [
+    "https://www.luganoregion.com/en/commons/details/Giardino-Belvedere-e-lungolago-di-Lugano/138077.html",
+    "https://www.lugano.ch/en/news/20250611-lugano-riviera/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "luganomercato",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Tuesday and Friday food market",
+   "desc": "Lugano's food and flower market takes place twice a week in the centre, mainly between Via Carducci, Piazza San Rocco and Via Canova, with small farmers selling local produce directly.",
+   "tip": "Held Tuesday and Friday 07:30-14:30; the layout can change in the Christmas season.",
+   "q": "Mercato di Lugano, Piazza San Rocco, Lugano",
+   "ll": [
+    46.02802,
+    8.96689
+   ],
+   "src": [
+    "https://www.lugano.ch/en/vivere-lugano/cultura-e-tempo-libero/mercati-mercatini/mercato-alimentare/",
+    "https://luganoeventi.ch/en/services/markets-in-lugano/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "locarnomadonnasasso",
+   "cat": "gor",
+   "area": "locarno",
+   "title": "Climb to the Madonna del Sasso sanctuary",
+   "desc": "The Madonna del Sasso in Orselina grew from a 1480 apparition to the Franciscan Bartolomeo Piatti; the church was consecrated in 1487. It stands about 370 m high with a 1792 altar and works by Bramantino and Antonio Ciseri.",
+   "tip": "Walk the Via Crucis in about 20 minutes or take the funicular; a small museum opens April to October except Mondays.",
+   "q": "Santuario Madonna del Sasso, Via Santuario 2, Orselina",
+   "ll": [
+    46.17519,
+    8.79397
+   ],
+   "src": [
+    "https://www.ticino.ch/en/commons/details/Sacred-Mount-Madonna-del-Sasso/2693.html",
+    "https://en.wikipedia.org/wiki/Madonna_del_Sasso,_Switzerland"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "locarnofunicolare",
+   "cat": "dene",
+   "area": "locarno",
+   "title": "Ride the Locarno-Madonna del Sasso funicular",
+   "desc": "The funicular opened in 1906 and links Locarno with the sanctuary and Orselina, stopping at Muralto Belvedere on a 30 percent incline. The top station is at about 372 m.",
+   "tip": "Runs every 15 minutes in summer and every 30 in winter; it connects with the Cardada cable car.",
+   "q": "Funicolare Locarno - Madonna del Sasso, Via Ramogna, Locarno",
+   "ll": [
+    46.17519,
+    8.79397
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Locarno%E2%80%93Madonna_del_Sasso_funicular",
+    "https://shop.ascona-locarno.com/en/products/funicolare-locarno-madonna-del-sasso"
+   ]
+  },
+  {
+   "id": "locarnocardada",
+   "cat": "dene",
+   "area": "locarno",
+   "title": "Take the cable car to Cardada and Cimetta",
+   "desc": "The Orselina-Cardada cable car rises from 395 m to 1,340 m in about five minutes, in cabins and stations redesigned by Mario Botta in 2000. A chairlift continues to Cimetta at 1,670 m with views over Lake Maggiore.",
+   "tip": "The cable car season for 2026 ran to 8 November so check 2027 dates; return fare Locarno to Cimetta was about CHF 47.",
+   "q": "Funivia Orselina-Cardada, Via Cardada, Orselina",
+   "ll": [
+    46.18329,
+    8.78695
+   ],
+   "src": [
+    "https://www.cardada.ch/en/cardada-cimetta/cable-car",
+    "https://unterwegs.sob.ch/en/service-providers/funivia-orselina-cardada"
+   ]
+  },
+  {
+   "id": "locarnopiazzagrande",
+   "cat": "gor",
+   "area": "locarno",
+   "title": "Stand on Piazza Grande, home of the Locarno Film Festival",
+   "desc": "Piazza Grande is Locarno's arcaded Renaissance square, where the Locarno Film Festival screens films in the open for up to 8,000 viewers each night in August. Livio Vacchini developed the festival project for the square in 1971.",
+   "tip": "The festival runs each August; outside it, the square has cafes and markets.",
+   "q": "Piazza Grande, Locarno",
+   "ll": [
+    46.16922,
+    8.79497
+   ],
+   "src": [
+    "https://locarnofestival.ch/festival/venues/piazza-grande.html",
+    "https://www.ticino.ch/en/events/details/Locarno-Festival/10056"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "locarnocastello",
+   "cat": "gor",
+   "area": "locarno",
+   "title": "Explore Castello Visconteo and its Roman glass",
+   "desc": "Castello Visconteo houses the civic and archaeological museum, famous for its Roman glass and finds from the late Bronze Age to the early Middle Ages. It was the seat of the regional governors from 1513 to 1798 and holds a display on the 1925 Locarno Treaty.",
+   "tip": "Adult entry was CHF 7; open Tuesday to Sunday roughly April to October.",
+   "q": "Castello Visconteo, Piazza Castello 2, Locarno",
+   "ll": [
+    46.1677,
+    8.7943
+   ],
+   "src": [
+    "https://en.wikipedia.com/wiki/Visconti_Castle_(Locarno)",
+    "https://www.myswitzerland.com/en/experiences/museo-civico-e-archeologico/"
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "locarnobrissago",
+   "cat": "gor",
+   "area": "locarno",
+   "title": "Visit the botanical garden of the Brissago Islands",
+   "desc": "Isola Grande, the larger Brissago island, holds the cantonal botanical garden of about 2.5 hectares with over 1,500 subtropical species. Baroness Antoinette de Saint Léger bought the islands in 1885, and the canton opened the garden in 1950.",
+   "tip": "Reach it by boat from Ascona (about 15 minutes) or Locarno; the 2026 season ran 18 March to 8 November.",
+   "q": "Isole di Brissago, Lago Maggiore, Ronco sopra Ascona",
+   "ll": [
+    46.13206,
+    8.73518
+   ],
+   "src": [
+    "https://en.wikipedia.com/wiki/Brissago_Islands",
+    "https://www.myswitzerland.com/en-ie/experiences/island-splendour-isole-di-brissago/"
+   ],
+   "months": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "locarnopontesalti",
+   "cat": "gor",
+   "area": "locarno",
+   "title": "See the Ponte dei Salti in Lavertezzo",
+   "desc": "The Ponte dei Salti is a two-arch stone bridge over the green Verzasca river at Lavertezzo, dating to the 17th century on a medieval crossing and rebuilt in 1960 after partial destruction in 1868. It is called the Roman bridge but is not antique.",
+   "tip": "Bus 321 from Locarno takes about half an hour; never swim in high water.",
+   "q": "Ponte dei Salti, Lavertezzo",
+   "ll": [
+    46.26001,
+    8.83592
+   ],
+   "src": [
+    "https://www.ticino.ch/it/commons/details/Ponte-dei-salti/2707.html",
+    "https://www.myswitzerland.com/en-ca/experiences/ponte-dei-salti-steeped-in-history/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "locarnodiga",
+   "cat": "dene",
+   "area": "locarno",
+   "title": "Jump from the Verzasca Dam like James Bond",
+   "desc": "The 220 m Contra (Verzasca) Dam is the arch dam where Bond bungee-jumps in the opening of GoldenEye (1995). An operator offers jumps, with more than 10,000 made.",
+   "tip": "Jumps run in the afternoons from April to October and need booking; spectators watch for free from the dam.",
+   "q": "Diga della Verzasca, Contra, Tenero-Contra",
+   "ll": [
+    46.19625,
+    8.84701
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Contra_Dam",
+    "https://www.trekking.ch/007-classic-jump/?lang=en"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "locarnocorippo",
+   "cat": "gor",
+   "area": "locarno",
+   "title": "Wander through Corippo, the tiny stone village",
+   "desc": "Corippo in the Verzasca valley was Switzerland's smallest municipality, with about nine residents in 2019, before merging into Verzasca in 2020. Its granite and slate houses are a listed ensemble, and the village is being developed as a scattered hotel.",
+   "tip": "It sits near Lago di Vogorno, 12 km from Locarno; respect that people live here.",
+   "q": "Corippo, Verzasca",
+   "ll": [
+    46.23585,
+    8.84102
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Corippo",
+    "https://www.swissinfo.ch/eng/albergo-diffuso_turning-switzerland-s-tiniest-municipality-into-a-hotel/43393508"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "locarnosonogno",
+   "cat": "gor",
+   "area": "locarno",
+   "title": "Visit the Museo di Val Verzasca in Sonogno",
+   "desc": "Sonogno is the last village on the Verzasca valley road. The Museo di Val Verzasca in the former Casa Genardini shows a 3D valley model and an exhibition on child labour, and starts an ethnographic trail.",
+   "tip": "Open about May to October, Tuesday to Sunday 11:00-16:00; adults CHF 7.",
+   "q": "Museo di Val Verzasca, Sonogno, Verzasca",
+   "ll": [
+    46.35021,
+    8.78654
+   ],
+   "src": [
+    "https://www.ticino.ch/en/commons/details/Museum-of-the-Verzasca-Valley/2788.html",
+    "https://www.ascona-locarno.com/en/commons/details/Hamlet-of-Sonogno/2722"
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "locarnopontebrolla",
+   "cat": "dene",
+   "area": "locarno",
+   "title": "See the Maggia gorge at Ponte Brolla",
+   "desc": "At Ponte Brolla the Maggia cuts through a gorge with white rock and glacial potholes, visible from the Centovalli train. Canyoning tours use a slot about 20 m deep and 600 m long.",
+   "tip": "Spring snowmelt gives the strongest current; the swimming spots are safer at low water.",
+   "q": "Orrido di Ponte Brolla, Ponte Brolla, Terre di Pedemonte",
+   "ll": [
+    46.18767,
+    8.75437
+   ],
+   "src": [
+    "https://www.vigezzinacentovalli.com/en/localita/lago-maggiore/ponte-brolla/orrido-e-marmitte.html",
+    "https://www.opencanyon.org/en/canyon/250d5813-e6a5-4219-a184-8ca43d9eae8e"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "locarnomaggiachiesa",
+   "cat": "gor",
+   "area": "locarno",
+   "title": "See the frescoes of Santa Maria delle Grazie in Maggia",
+   "desc": "The church of Santa Maria delle Grazie at Campagna in Maggia was built around the end of the 15th century around a votive chapel, with a 16th century fresco cycle, votive panels and a coffered wooden ceiling. It is a Swiss heritage site of national significance.",
+   "tip": "Check access in advance as it is a small rural church.",
+   "q": "Chiesa di Santa Maria delle Grazie, Campagna, Maggia",
+   "ll": [
+    46.24076,
+    8.71382
+   ],
+   "src": [
+    "https://ascona-locarno.com/en/commons/details/Chiesa-di-S-Maria-delle-Grazie/3478",
+    "https://www.ticino.ch/en/commons/details/Gli-affreschi-della-chiesa-di-S-Maria-delle-Grazie/3479.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "locarnoavegno",
+   "cat": "dene",
+   "area": "locarno",
+   "title": "Walk the Wakker Prize village of Avegno",
+   "desc": "Avegno, in the lower Maggia valley about 8 km from Locarno, won the Wakker Prize in 1982 for preserving its village. A signposted village walk passes its stone houses and hamlets such as Lüdínt and Vinzótt.",
+   "tip": "Reach it from Locarno by bus; the walk is short and easy.",
+   "q": "Avegno, Avegno Gordevio",
+   "ll": [
+    46.20314,
+    8.74615
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-ch/experiences/avegno-village-walk",
+    "https://en.wikipedia.org/wiki/Avegno_Gordevio"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "locarnogambarogno",
+   "cat": "gor",
+   "area": "locarno",
+   "title": "Smell the magnolias at the Gambarogno botanical park",
+   "desc": "The Parco botanico del Gambarogno, on a terrace between Piazzogna and Vairano, covers about 2 hectares dating to the 1950s. It is known for camellias and magnolias and a significant citrus collection.",
+   "tip": "Entry is about CHF 8 (free under 15); open from 08:00 to dusk, best in spring.",
+   "q": "Parco botanico del Gambarogno, Via Parco Botanico 21, San Nazzaro",
+   "ll": [
+    46.13428,
+    8.8202
+   ],
+   "src": [
+    "https://www.ticino.ch/en/commons/details/Parco-botanico-del-Gambarogno/85680.html",
+    "https://www.ascona-locarno.com/commons/details/Parco-botanico-del-Gambarogno/85680"
+   ]
+  },
+  {
+   "id": "locarnodaenzo",
+   "cat": "ye",
+   "area": "locarno",
+   "title": "Eat at Ristorante da Enzo ai Grotti, Ponte Brolla",
+   "desc": "Ristorante da Enzo is a grotto-style restaurant in Ponte Brolla recommended by Switzerland Tourism, serving Mediterranean-leaning dishes near the Maggia gorge.",
+   "tip": "Combine it with a gorge walk; open for lunch and dinner, check days.",
+   "q": "Ristorante da Enzo ai Grotti, Ponte Brolla, Terre di Pedemonte",
+   "ll": [
+    46.18864,
+    8.75389
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-gb/experiences/food-wine/restaurant/ristorante-da-enzo-1/"
+   ]
+  },
+  {
+   "id": "locarnotreterre",
+   "cat": "ye",
+   "area": "locarno",
+   "title": "Eat above the ravine at T3E Tre Terre in Ponte Brolla",
+   "desc": "Hotel and restaurant Tre Terre (T3E) on Via Vecchia Stazione has rooms overlooking the Maggia ravine. It is recommended by Switzerland Tourism.",
+   "tip": "Ask about the risotto, a local favourite at Ponte Brolla; book ahead.",
+   "q": "Ristorante T3E Tre Terre, Via Vecchia Stazione 2, Ponte Brolla",
+   "ll": [
+    46.18698,
+    8.75369
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/t3e-terre/"
+   ]
+  },
+  {
+   "id": "locarnomonteverita",
+   "cat": "gor",
+   "area": "locarno",
+   "title": "Discover utopian Monte Verità above Ascona",
+   "desc": "Monte Verità was a utopian community from 1900, and Casa Anatta has been a museum since 1981. It houses Harald Szeemann's 1978 installation, and the Elisarion pavilion holds Elisar von Kupffer's circular painting of 1923.",
+   "tip": "Full ticket CHF 12, or CHF 15 combined with the Elisarion; the 2026 season ended 8 November.",
+   "q": "Monte Verità, Via Collina 84, Ascona",
+   "ll": [
+    46.15829,
+    8.76303
+   ],
+   "src": [
+    "https://www.ticino.ch/en/commons/details/Casa-Anatta-Museum/145482.html",
+    "https://www.ascona-locarno.com/en/commons/details/Museums-Monte-Verit%C3%A0/2752"
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "locarnoasconapiazza",
+   "cat": "dene",
+   "area": "locarno",
+   "title": "Stroll Ascona's lakefront piazza and old borgo",
+   "desc": "Piazza Giuseppe Motta is Ascona's long, car-free lakeside square, lined with pastel houses and cafes. The old borgo behind has narrow lanes with galleries and boutiques.",
+   "tip": "Eat one block inland for better value than on the waterfront.",
+   "q": "Piazza Giuseppe Motta, Ascona",
+   "ll": [
+    46.1547,
+    8.7685
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-se/destinations/ascona/",
+    "https://www.tour-switzerland.ch/destinations/ascona/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "locarnomuseoascona",
+   "cat": "gor",
+   "area": "locarno",
+   "title": "See Klee and Werefkin at Ascona's modern art museum",
+   "desc": "The Museo Comunale d'Arte Moderna Ascona occupies a late 16th century building on Via Borgo. Its collection, begun in 1922, includes Paul Klee, Hans Arp, Ben Nicholson and Marianne Werefkin.",
+   "tip": "Adult entry CHF 10; closed Mondays and check reopening dates at museoascona.ch.",
+   "q": "Museo comunale d'arte moderna, Via Borgo 34, Ascona",
+   "ll": [
+    46.1553,
+    8.7688
+   ],
+   "src": [
+    "https://www.museums.ch/it/visita-al-museo/musei/musei/museo-comunale-darte-moderna-ascona-1875.html",
+    "https://www.myswitzerland.com/en/experiences/museo-comunale-darte-moderna/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "locarnolido",
+   "cat": "dene",
+   "area": "locarno",
+   "title": "Swim and slide at Lido Locarno",
+   "desc": "Lido Locarno has eight indoor and outdoor pools from 16 to 50 m, a thermal pool, four slides including Switzerland's first looping slide, and a lake beach with a diving area.",
+   "tip": "Outdoor pools and lake run mainly in summer; adults were about CHF 18 with slides.",
+   "q": "Lido Locarno, Via Respini 11, Locarno",
+   "ll": [
+    46.162,
+    8.8038
+   ],
+   "src": [
+    "https://www.ascona-locarno.com/commons/details/Lido-Locarno/1494",
+    "https://www.illagomaggiore.com/poi/the-locarno-lido/"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "locarnosanvittore",
+   "cat": "gor",
+   "area": "locarno",
+   "title": "See the Romanesque San Vittore in Muralto",
+   "desc": "San Vittore in Muralto is a Romanesque collegiate church, with a 1090-1100 granite building over a 5th/6th century church on a Roman villa, with a crypt, three apses and a 1467 apse fresco.",
+   "tip": "The bell tower's upper part was only finished in 1932; check opening times.",
+   "q": "Chiesa di San Vittore, Muralto",
+   "ll": [
+    46.1728,
+    8.80514
+   ],
+   "src": [
+    "https://www.ascona-locarno.com/en/commons/details/Chiesa-di-S-Vittore/13148",
+    "https://hls-dhs-dss.ch/it/articles/002115/"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "locarnochiesanuova",
+   "cat": "gor",
+   "area": "locarno",
+   "title": "Admire the baroque Chiesa Nuova",
+   "desc": "The Chiesa Nuova (Santa Maria Assunta) on Via Cittadella was built around 1630 by Cristoforo Orelli. Its facade shows a large stucco St Christopher, and the baroque interior is dense with stucco and cherubs.",
+   "tip": "Entry is free; it sits in the upper old town.",
+   "q": "Chiesa Nuova, Via Cittadella, Locarno",
+   "ll": [
+    46.16951,
+    8.79369
+   ],
+   "src": [
+    "https://www.illagomaggiore.com/poi/the-new-church/",
+    "https://www.ticino.ch/de/commons/details/Kirche-Santa-Maria-Assunta-oder-Chiesa-Nuova/3480.html"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "locarnosantantonio",
+   "cat": "gor",
+   "area": "locarno",
+   "title": "See the Cristo Morto in Sant'Antonio Abate",
+   "desc": "The church of Sant'Antonio Abate on its cobbled piazza dates from the 17th century and was rebuilt after a roof collapse in 1863. It is best known for its altar of the Cristo Morto.",
+   "tip": "Free to enter; the square has a granite fountain.",
+   "q": "Chiesa di Sant'Antonio, Piazza Sant'Antonio, Locarno",
+   "ll": [
+    46.16976,
+    8.79104
+   ],
+   "src": [
+    "https://fodors.fodors.com/world/europe/switzerland/ticino/things-to-do/sights/reviews/chiesa-di-santantonio-466900"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "locarnocentovalli",
+   "cat": "dene",
+   "area": "locarno",
+   "title": "Ride the Centovalli railway to Domodossola",
+   "desc": "The Domodossola-Locarno metre-gauge line covers 52 km with 83 bridges and 31 tunnels, about 20 km in Switzerland. The journey takes roughly two hours.",
+   "tip": "Operated by FART year-round; the Vigezzo Vision panoramic train has big windows; you can get off at Ponte Brolla.",
+   "q": "Stazione FART, Via Stazione, Muralto",
+   "ll": [
+    46.17233,
+    8.80021
+   ],
+   "src": [
+    "https://www.ascona-locarno.com/en/commons/details/Vigezzina-Centovalli-Railway/1068",
+    "https://www.illagomaggiore.com/poi/the-vigezzina-centovalli-train/"
+   ]
+  },
+  {
+   "id": "locarnoverzascawalk",
+   "cat": "dene",
+   "area": "locarno",
+   "title": "Walk the Verzasca river trail from Lavertezzo to Brione",
+   "desc": "The Lavertezzo-Brione walk crosses the Ponte dei Salti and follows the green Verzasca. The Sentiero Verzasca (SwitzerlandMobility 74) runs from Sonogno to Lavertezzo in 14 km.",
+   "tip": "Bus links make short sections easy; swimming is possible but caution is needed.",
+   "q": "Lavertezzo Paese, Lavertezzo, Verzasca",
+   "ll": [
+    46.25853,
+    8.83943
+   ],
+   "src": [
+    "https://ascona-locarno.com/en/hike/details/Lavertezzo-Brione-Verzasca/43157907",
+    "https://www.myswitzerland.com/en-us/experiences/route/sentiero-verzasca-74_01/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "locarnocentenario",
+   "cat": "ye",
+   "area": "locarno",
+   "title": "Book Osteria del Centenario on the Locarno lakefront",
+   "desc": "Osteria del Centenario is a lakefront restaurant in Locarno led by a chef with his own philosophy and often cited among the area's best.",
+   "tip": "Reservations recommended; lunch service can be slow.",
+   "q": "Osteria del Centenario, Lungolago Giuseppe Motta, Locarno",
+   "ll": [
+    46.17184,
+    8.80303
+   ],
+   "src": [
+    "https://ascona-locarno.com/restaurants/details/Osteria-del-Centenario/75654"
+   ]
+  },
+  {
+   "id": "locarnochiara",
+   "cat": "ye",
+   "area": "locarno",
+   "title": "Climb to Osteria Chiara for osso buco and saffron risotto",
+   "desc": "Osteria Chiara in Muralto is a grotto-style place up a flight of steps, known for homemade pasta and meat dishes such as osso buco with saffron risotto.",
+   "tip": "Book ahead in season.",
+   "q": "Osteria Chiara, Muralto, Locarno",
+   "ll": [
+    46.17189,
+    8.8061
+   ],
+   "src": [
+    "https://www-lonelyplanet-com-57e2.imagizer.com/switzerland/ticino/locarno/restaurants/osteria-chiara/a/poi-eat/493494/360827"
+   ]
+  },
+  {
+   "id": "locarnoaerodromo",
+   "cat": "ye",
+   "area": "locarno",
+   "title": "Dine at Ristorante Aerodromo da Nani in Ascona",
+   "desc": "Ristorante Aerodromo da Nani is on Via Aerodromo in Ascona and serves classic Swiss and Ticino cooking; the name recalls the airfield where no plane has landed since 1997.",
+   "tip": "Smart-casual dress; check hours on swipein.restaurant or the restaurant.",
+   "q": "Ristorante Aerodromo da Nani, Via Aerodromo 3, Ascona",
+   "ll": [
+    46.1618,
+    8.7789
+   ],
+   "src": [
+    "https://www.alpen-guide.de/reisefuehrer/poi/da-nani-aerodromo-ascona",
+    "https://www.falstaff.com/it/listings/i-migliori-ristoranti-a-6612-ascona-1"
+   ]
+  },
+  {
+   "id": "locarnopontile",
+   "cat": "ye",
+   "area": "locarno",
+   "title": "Eat by the water at Ristorante Al Pontile, Ascona",
+   "desc": "Ristorante Al Pontile is recommended by Switzerland Tourism in Ascona.",
+   "tip": "Check hours and menus before going.",
+   "q": "Ristorante Al Pontile, Piazza Giuseppe Motta, Ascona",
+   "ll": [
+    46.1544,
+    8.7682
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/ristorante-al-pontile/"
+   ]
+  },
+  {
+   "id": "locarnobattello",
+   "cat": "dene",
+   "area": "locarno",
+   "title": "Take a lake boat from Locarno to Ascona and the Brissago Islands",
+   "desc": "Navigazione Lago Maggiore, part of SNL, runs boats from Locarno via Ascona and the Isole di Brissago to Brissago. The crossing from Ascona to the islands takes 15 minutes.",
+   "tip": "Timetables run late March to late October; check lakelocarno.ch.",
+   "q": "Debarcadero Locarno, Lungolago Giuseppe Motta, Locarno",
+   "ll": [
+    46.17007,
+    8.80112
+   ],
+   "src": [
+    "https://www.ticino.ch/it/commons/details/Navigazione-Lago-Maggiore-NLM/92074.html",
+    "https://www.swissactivities.com/fr-ch/lago-maggiore/billet-de-navigation-locarno-port-de-brissago/"
+   ],
+   "months": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  }
+ ]
+}

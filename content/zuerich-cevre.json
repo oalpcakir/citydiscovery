@@ -1,0 +1,945 @@
+{
+ "new": [
+  {
+   "id": "greifenseeschloss",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore Greifensee Castle and its pile-dwelling exhibit",
+   "desc": "Schloss Greifensee is a castle in the lakeside town of Greifensee, probably built by the House of Rapperswil and now a heritage site of national significance. The adjoining town hall shows finds from the Bronze Age Greifensee-Böschen settlement, part of the UNESCO pile dwellings.",
+   "tip": "Run by the Stiftung Schloss Greifensee, which offers castle tours and open-garden days. Check schlossgreifensee.ch for opening times.",
+   "q": "Schloss Greifensee, Im Städtli, Greifensee",
+   "ll": [
+    47.36505,
+    8.67561
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Greifensee_Castle"
+   ]
+  },
+  {
+   "id": "eglisauoldtown",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stroll the half-timbered old town of Eglisau on the Rhine",
+   "desc": "Eglisau is a small town founded in the 13th century on the Rhine, once a river crossing and seat of Zürich's regional governors. Its old town is known for half-timbered houses and old wine-growing tradition.",
+   "tip": "A Friday market runs in the old town. The S9 and S36 reach Eglisau in about 31 minutes from Zürich HB.",
+   "q": "Altstadt Eglisau, Eglisau",
+   "ll": [
+    47.5764,
+    8.5172
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Eglisau",
+    "https://www.zvv.ch/de/freizeit-und-events/freizeittipps/entdecken-und-erleben/eglisau.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "regensbergstaedtli",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the tower of Regensberg above the Unterland",
+   "desc": "Regensberg was founded around 1245 by Lütold V. of Regensberg on a spur of the Lägern, with a castle and a small town. The restored tower can be climbed for a view over the whole Zürcher Unterland and holds a small history exhibition.",
+   "tip": "Tower entry is about CHF 1, the courtyard is free. Take the S5 to Dielsdorf, then bus 593.",
+   "q": "Schloss Regensberg, Oberburg, Regensberg",
+   "ll": [
+    47.4835,
+    8.4365
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Regensberg_Castle",
+    "https://www.zuerich.com/de/besuchen/sehenswuerdigkeiten/schloss-regensberg"
+   ]
+  },
+  {
+   "id": "klosterrheinau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Cross the bridge to Rheinau Abbey on its Rhine island",
+   "desc": "Rheinau Abbey was a Benedictine monastery founded around 778 and dissolved in 1862, standing on an island in a bend of the High Rhine. The church was rebuilt in Baroque style in the 18th century, and part of the complex now works as a music rehearsal island.",
+   "tip": "The island is reached by a bridge and the grounds can be walked freely. Combine it with the walk from Dachsen to Schloss Laufen.",
+   "q": "Klosterinsel Rheinau, Rheinau",
+   "ll": [
+    47.64303,
+    8.60705
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Rheinau_Abbey",
+    "https://de.wikivoyage.org/wiki/Rheinau_ZH"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kyburgmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour Kyburg Castle, the oldest castle museum in Switzerland",
+   "desc": "Kyburg stands about 150 metres above the Töss and is described as the best-preserved feudal castle in north-eastern Switzerland. The Habsburgs acquired it in 1264, Zürich bought it in 1424, and bailiffs ruled from it until 1798; the museum opened in 1865.",
+   "tip": "Closed on Mondays, open 10:00 to 17:30 otherwise per listings; confirm on schlosskyburg.ch. Children can follow a dragon hunt.",
+   "q": "Museum Schloss Kyburg, Schloss 1, Kyburg",
+   "ll": [
+    47.4588,
+    8.7368
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/kyburg-castle-museum",
+    "https://www.museums.ch/de/museumsbesuch/museen/museen/museum-schloss-kyburg-2097.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "lindthome",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Lindt Home of Chocolate in Kilchberg",
+   "desc": "The Lindt Home of Chocolate by Christ & Gantenbein opened in 2020 next to the Lindt & Sprüngli headquarters in Kilchberg. It has a 1,500 m2 exhibition, a chocolate fountain over 9 metres high, a large shop and a café.",
+   "tip": "Book a time slot in advance. Kilchberg is in zone 150 for ZVV tickets; boats also run from Bürkliplatz.",
+   "q": "Lindt Home of Chocolate, Schokoladenplatz 1, Kilchberg",
+   "ll": [
+    47.31847,
+    8.5509
+   ],
+   "src": [
+    "https://www.zuerich.com/en/visit/culture/lindt-home-of-chocolate",
+    "https://en.wikipedia.org/wiki/Lindt_Home_of_Chocolate"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "flugwaffenmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Swiss Air Force planes at the Flieger Flab Museum",
+   "desc": "The museum on Dübendorf Air Base shows about 40 aircraft and helicopters, including a Messerschmitt Bf 109, a P-51 Mustang and the Swiss-built FFA P-16, plus air-defence systems. The collection was founded in 1972, with halls added in 1988 and 2002.",
+   "tip": "Adults pay about CHF 15. Check airforcecenter.ch for hours and the exact address.",
+   "q": "Flieger Flab Museum, Überlandstrasse, Dübendorf",
+   "ll": [
+    47.3975,
+    8.63212
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Flieger_Flab_Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "fahrrestaurant",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat at Zu den zwei Raben beside Kloster Fahr",
+   "desc": "The restaurant at the Benedictine convent of Kloster Fahr serves regional, seasonal cooking and wine from the convent's own vineyard and cellar. Fahr is an Aargau exclave surrounded by Unterengstringen in canton Zürich.",
+   "tip": "Listed Wednesday to Friday 10:00-14:00 and weekends 10:00-18:00; check ahead. The farm shop and garden are next door.",
+   "q": "Restaurant zu den zwei Raben, Kloster Fahr, Unterengstringen",
+   "ll": [
+    47.40848,
+    8.43971
+   ],
+   "src": [
+    "https://www.myswitzerland.com/de/erlebnisse/essen-trinken/restaurant/zu-den-zwei-raben/",
+    "https://en.wikipedia.org/wiki/Fahr_Abbey"
+   ]
+  },
+  {
+   "id": "hirschenegliau",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine on Rhine fish at Gasthof Hirschen in Eglisau",
+   "desc": "The Romantik Hotel Gasthof Hirschen is a historic inn on the Rhine in Eglisau with a restaurant and bistro serving regional classics, including fish and venison.",
+   "tip": "Open Wednesday to Sunday, closed Monday and Tuesday; reserve for dinner. Combine with a walk in the old town.",
+   "q": "Romantik Hotel Gasthof Hirschen, Untergass 28, Eglisau",
+   "ll": [
+    47.5759,
+    8.5164
+   ],
+   "src": [
+    "https://www.romantikhotels.com/en/hotels/romantik-hotel-gasthof-hirschen/",
+    "https://www.myswitzerland.com/en-id/experiences/food-wine/restaurant/romantik-hotel-gasthof-hirschen-bistro"
+   ]
+  },
+  {
+   "id": "schiffellikon",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order perch fillets at Gasthaus zum Schiff in Ellikon",
+   "desc": "Gasthaus zum Schiff in Ellikon am Rhein is listed with Swiss classics including perch fillets meunière, in a village on the Rhine just upstream of Eglisau.",
+   "tip": "Perch fillets (Eglifilets) are the dish to try. Confirm opening days before going.",
+   "q": "Gasthaus zum Schiff, Ellikon am Rhein",
+   "ll": [
+    47.60524,
+    8.59675
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-gb/experiences/food-wine/restaurant/gasthaus-zum-schiff/"
+   ]
+  },
+  {
+   "id": "bachtelkulm",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike up the Bachtel for the Zürcher Oberland panorama",
+   "desc": "The Bachtel is a 1,115 m hill in the Zürcher Oberland with a summit tower and restaurant. The original tower collapsed in a storm in 1890, and the usual loop from Hinwil covers about 9 km with 420 m of ascent.",
+   "tip": "Allow about three hours for the loop from Hinwil. The panorama restaurant was reported closed for renovation, with a beer garden at the tower, so check before relying on food.",
+   "q": "Bachtel Kulm, Bachtelstrasse, Hinwil",
+   "ll": [
+    47.29409,
+    8.88583
+   ],
+   "src": [
+    "https://www.zvv.ch/de/freizeit-und-events/freizeittipps/wandern/wanderung-auf-den-bachtel.html",
+    "https://www.freizeit.ch/freizeit/14098/bachtel-kulm"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "wildparklangenberg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch bears, lynx and wolves at Wildnispark Langenberg",
+   "desc": "The Tierpark Langenberg above Langnau am Albis opened in 1869 and shows native and formerly native animals such as brown bears, lynx, wolves, elk and wild boar in near-natural enclosures. It is run together with the Sihlwald reserve.",
+   "tip": "The eastern enclosures are freely accessible; parking costs about CHF 15. Take the S4 to Wildpark-Höfli.",
+   "q": "Wildnispark Zürich Langenberg, Wildparkstrasse 21, Langnau am Albis",
+   "ll": [
+    47.2992,
+    8.52879
+   ],
+   "src": [
+    "https://www.zuerich.com/de/besuchen/natur/wildnispark-zuerich-langenberg",
+    "https://wiki.riteme.site/wiki/Langenberg_Wildlife_Park"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sihlwaldwalk",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk through the Sihlwald, Zürich's largest forest reserve",
+   "desc": "The Sihlwald is a natural forest reserve, the largest in canton Zürich, which received the federal Naturerlebnispark label in 2009. Left to itself, it is developing towards a beech forest with old trees and plenty of deadwood; the visitor centre sits in a former sawmill.",
+   "tip": "Take the S4 to Sihlwald. The visitor centre is open Fridays to Sundays 13:00-17:00 in season, grounds year-round.",
+   "q": "Wildnispark Zürich Sihlwald, Alte Sihltalstrasse 13, Sihlwald",
+   "ll": [
+    47.25187,
+    8.55794
+   ],
+   "src": [
+    "https://www.zuerich.com/en/visit/culture/sihlwald-exhibition-at-wildnispark-zurich",
+    "https://www.myswitzerland.com/de-ch/reiseziele/wildnispark-zuerich-sihlwald/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "pfaeffikerseerobenhausen",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Pfäffikersee shore to the Robenhausen pile dwellings",
+   "desc": "Robenhausen on the Pfäffikersee is a UNESCO World Heritage pile-dwelling site, found in 1858 by Jakob Messikommer. A lakeside loop of about 7 to 9 km passes the protected Robenhauser Ried reeds and the Pfahlbauweg information stations.",
+   "tip": "The flat loop takes roughly two hours. Distances vary by source, so check a map.",
+   "q": "Robenhausen, Pfäffikersee, Wetzikon",
+   "ll": [
+    47.32932,
+    8.78538
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Wetzikon-Robenhausen",
+    "https://www.myswitzerland.com/en/experiences/route/pfaeffikersee-rundweg/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "juckerpumpkin",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Visit the pumpkin exhibition at Jucker Farm Seegräben",
+   "desc": "The Jucker Farm has held a pumpkin exhibition since 1997 and is known as Switzerland's biggest pumpkin festival. Because of overtourism it now charges admission and runs for about four weeks, in 2026 from 19 September to 25 October.",
+   "tip": "Take the S14 to Aathal, then a 20-minute walk or the seasonal shuttle. Check juckerfarm.ch for prices.",
+   "q": "Jucker Farm Juckerhof, Seegräben",
+   "ll": [
+    47.34386,
+    8.77289
+   ],
+   "src": [
+    "https://freizeit.sbb.ch/de/stories/kulinarik-volksfeste-kuerbisausstellung",
+    "https://www.freizeit.ch/freizeit/15819/jucker-farm"
+   ],
+   "months": [
+    9,
+    10
+   ]
+  },
+  {
+   "id": "pfannenstielhochwacht",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Climb the Pfannenstiel Hochwacht tower above Lake Zürich",
+   "desc": "The Pfannenstiel Hochwacht tower was built in 1893 on the Bachtel, dismantled in 1985 and rebuilt on the Pfannenstiel in 1992. Its platform, at 30 to 35 metres depending on the source, gives a 360-degree panorama; a restaurant stands beside it.",
+   "tip": "A popular hike runs from Forch over the Pfannenstiel (853 m) to Meilen, about 11 km. Bus stop Meilen, Vorderer Pfannenstiel.",
+   "q": "Hochwacht Pfannenstiel, Egg / Meilen",
+   "ll": [
+    47.28986,
+    8.67579
+   ],
+   "src": [
+    "https://swissfamilyfun.com/pfannenstiel-tower/",
+    "https://www.zvv.ch/de/freizeit-und-events/freizeittipps/wandern/forch-meilen.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "dvzosteam",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride a steam train with the DVZO from Bauma",
+   "desc": "The Dampfbahn-Verein Zürcher Oberland runs heritage trains between Hinwil and Bauma on the former Uerikon-Bauma line, normally steam-hauled. The association was founded in 1969 and has run scheduled museum trips since 1978.",
+   "tip": "Check the DVZO timetable, which operates on selected days. The association is based at Bahnhofstrasse 12 in Bauma.",
+   "q": "Bahnhof Bauma, Bahnhofstrasse, Bauma",
+   "ll": [
+    47.36882,
+    8.87821
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Uerikon%E2%80%93Bauma_railway",
+    "https://wikipedia.com/wiki/DVZO"
+   ]
+  },
+  {
+   "id": "halbinselau",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the vineyards of the Au peninsula on Lake Zürich",
+   "desc": "The Au peninsula has meadows, woods, vineyards and a small lake, the Ausee, with winegrowing documented since 1484. The Horgen to Wädenswil lakeshore path runs about 8.5 km over the peninsula.",
+   "tip": "Landgasthof Halbinsel Au is the refreshment stop. Lido and boat services run in summer only.",
+   "q": "Halbinsel Au, Austrasse, Au ZH",
+   "ll": [
+    47.24921,
+    8.64654
+   ],
+   "src": [
+    "https://www.zuerich.com/de/besuchen/natur/halbinsel-au",
+    "https://en.wikipedia.org/wiki/Au_Peninsula"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "albishorn",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Albis ridge to the Albishorn viewpoint",
+   "desc": "The Albishorn is a viewpoint on the Albis ridge, reached in about 1 hour 20 minutes from the Albispass. The Albishorn restaurant is open year-round, making it a dependable stop.",
+   "tip": "The full walk from Albispass to Hausen am Albis takes about two hours and is marked yellow.",
+   "q": "Albishorn, Hausen am Albis",
+   "ll": [
+    47.2509,
+    8.54458
+   ],
+   "src": [
+    "https://wegwandern.ch/wp-content/uploads/2023/04/Albispasshohe–Albishorn–Hausen.pdf",
+    "https://www.wildnispark.ch/en/explore-offers/discover-it-for-yourself/attractions/offer-detail/albispass-albishorn-sihlwald-1814"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "lenzburgcastle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Lenzburg Castle and its dungeon",
+   "desc": "Schloss Lenzburg is a hilltop castle above Lenzburg and part of Museum Aargau, with 1,000 years of castle history and 17th-century prison cells. In 1911 it went to James Ellsworth, and in 1956 to the canton and town.",
+   "tip": "Closed Mondays, usually 10:00-17:00. There is a children's museum and a dragon cave, plus a bistro.",
+   "q": "Schloss Lenzburg, Lenzburg",
+   "ll": [
+    47.38727,
+    8.18524
+   ],
+   "src": [
+    "https://www.myswitzerland.com/ja/experiences/lenzburg-castle-schloss-lenzburg/",
+    "https://www.museums.ch/de/museumsbesuch/museen/museen/schloss-lenzburg-museum-aargau-2119.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "habsburgcastle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb to Habsburg Castle, the Habsburg family seat",
+   "desc": "Schloss Habsburg in Habsburg, run by Museum Aargau, tells the dynasty's story along an audio route, the Habsburger Königsweg. Parts of the ruined front castle can be visited, and the tower holds an exhibition. Admission is free.",
+   "tip": "Open Tuesday to Sunday 10:00-17:00 until 1 November 2026. The castle restaurant has a sunny terrace over Aargau.",
+   "q": "Schloss Habsburg, Schlossgasse 30, Habsburg",
+   "ll": [
+    47.46256,
+    8.1807
+   ],
+   "src": [
+    "https://ag.ch/de/themen/kultur-sport/kultur/museum-aargau/schloss-habsburg",
+    "https://www.myswitzerland.com/en-sg/experiences/food-wine/restaurant/schlossrestaurant-habsburg/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hallwylcastle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the moated Hallwyl Castle at Seengen",
+   "desc": "Schloss Hallwyl is a moated castle on two islands in the Aabach, just north of Lake Hallwil, and one of Switzerland's most important water castles. Walther von Hallwyl bought it in 1874, and it passed to the canton as a gift in 1993.",
+   "tip": "Run by Museum Aargau, open Tuesday to Sunday in season. Take the bus from Lenzburg to Seengen, Schloss Hallwyl.",
+   "q": "Schloss Hallwyl, Seengen",
+   "ll": [
+    47.32325,
+    8.19381
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Hallwyl_Castle",
+    "https://www.freizeit.ch/freizeit/14206/schloss-hallwyl"
+   ]
+  },
+  {
+   "id": "vindonissa",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the Roman amphitheatre at Vindonissa in Windisch",
+   "desc": "The Legionärspfad covers the Roman legionary camp of Vindonissa, the only one on Swiss territory. Its amphitheatre is the oldest in Switzerland, first of wood under the 13th legion and rebuilt in stone by the 21st; excavations began in 1897.",
+   "tip": "The amphitheatre can be visited without museum admission. The trail is open April to November.",
+   "q": "Amphitheater Vindonissa, Königsfelderstrasse, Windisch",
+   "ll": [
+    47.4768,
+    8.2139
+   ],
+   "src": [
+    "https://www.museumaargau.ch/en/legionary-trail/roman-sites/amphitheatre-amphitheatrum",
+    "https://www.museums.ch/de/museumsbesuch/museen/museen/legionaerspfad-vindonissa-museum-aargau-2653.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "fortyseven",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Soak in 47 degree spring water at Fortyseven in Baden",
+   "desc": "Fortyseven is a thermal spa designed by Mario Botta in Baden's Bäder quarter, named after the 47 degree spring water, said to be the most mineral-rich in Switzerland. It has indoor and outdoor pools and several saunas.",
+   "tip": "Open daily, usually 8:00 to 22:00; walk under 10 minutes from the station or take bus 3 to Grosse Bäder.",
+   "q": "Fortyseven Wellness-Therme, Grosse Bäder 1, Baden",
+   "ll": [
+    47.48104,
+    8.3124
+   ],
+   "src": [
+    "https://www.fortyseven.ch/en/arrival",
+    "https://www.myswitzerland.com/en-ae/experiences/fortyseven-thermal-wellness-spa/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "badenstadtturm",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Admire the Stadtturm and wooden bridge in Baden",
+   "desc": "The Stadtturm guards the entrance to the old town of Baden, about 56 metres high, and served as the district jail from 1846 to 1984. A covered wooden bridge links the old town to the Landvogteischloss across the Limmat.",
+   "tip": "The tower interior is only open on city tours by Info Baden. The old town and bridge are free to walk.",
+   "q": "Stadtturm, Baden",
+   "ll": [
+    47.47323,
+    8.30789
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/points-of-interest/stadtturm/1574906",
+    "https://waymarking.com/waymarks/wmNQP2_Stadtturm_Baden_AG_Switzerland"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "wettingenkloster",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander the Cistercian monastery peninsula in Wettingen",
+   "desc": "Wettingen Abbey was founded in 1227 by Heinrich II of Rapperswil and is considered the best-preserved Cistercian monastery in Switzerland, with a 13th-century church and cloister glass. Since April 2022 it belongs to Museum Aargau.",
+   "tip": "Guided tours and exhibitions on faith, power and knowledge are offered; check museumaargau.ch.",
+   "q": "Klosterhalbinsel Wettingen, Klosterstrasse 10, Wettingen",
+   "ll": [
+    47.45553,
+    8.3173
+   ],
+   "src": [
+    "https://www.ag.ch/de/themen/kultur-sport/kultur/museum-aargau/klosterhalbinsel-wettingen/geschichte",
+    "https://www.museums.ch/de/museumsbesuch/museen/museen/klosterhalbinsel-wettingen-museum-aargau-3480.html"
+   ]
+  },
+  {
+   "id": "oberesturmaarau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look up at the Oberer Turm in Aarau's old town",
+   "desc": "The Oberer Turm on Rathausgasse is a landmark of Aarau's old town, dating from the 12th to 13th century, raised to about 62 metres around 1530 and given a pointed roof and clock. The old town has around 70 painted gables.",
+   "tip": "Walk Rathausgasse under the tower, then continue to the Kunsthaus.",
+   "q": "Oberer Turm, Rathausgasse, Aarau",
+   "ll": [
+    47.392,
+    8.0444
+   ],
+   "src": [
+    "https://www.ag.ch/denkmalpflege/suche/detail.aspx?ID=1160",
+    "https://www.waymarking.com/waymarks/WMX573_Oberer_Turm_Aarau_AG_Switzerland"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bremgarten",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Cross the covered wooden bridge over the Reuss in Bremgarten",
+   "desc": "Bremgarten is a historic small town in the Freiamt on a bend of the Reuss. The wooden bridge, about 100 metres long and half covered, dates from 1544-1549 with the timber renewed in 1953.",
+   "tip": "The old town can be walked in an hour; a 1911 railway bridge frames the river front.",
+   "q": "Reussbrücke, Bremgarten AG",
+   "ll": [
+    47.35016,
+    8.34032
+   ],
+   "src": [
+    "https://www.ag.ch/denkmalpflege/suche/detail.aspx?ID=21258"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "klostermuri",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the octagonal abbey church of Muri",
+   "desc": "Kloster Muri is a former Benedictine abbey built around the octagonal Baroque church of St. Martin, described as the largest central-plan church in Switzerland. The cloister has Renaissance donor panels from 1554, and the Loretto chapel crypt holds the hearts of the last Austrian imperial couple.",
+   "tip": "The church is open daily; cloister tickets are sold at the Muri visitor centre.",
+   "q": "Klosterkirche Muri, Klosterstrasse, Muri AG",
+   "ll": [
+    47.27533,
+    8.33792
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-nz/experiences/muri-abbey-and-the-habsburg-burial-place/",
+    "https://www.museums.ch/de/museumsbesuch/museen/museen/klosterkirche-muri-mit-kreuzgang-2697.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "festungaarburg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Join a guided tour of Aarburg Fortress",
+   "desc": "Festung Aarburg above the Aare is the only preserved early modern fortification in Switzerland and has housed the cantonal youth home since 1893. The interior can only be seen on guided tours.",
+   "tip": "Public tours run roughly April to mid-October on Saturdays at 14:00 per listings; confirm with the canton.",
+   "q": "Festung Aarburg, Städtchen, Aarburg",
+   "ll": [
+    47.32174,
+    7.90157
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Aarburg_Castle",
+    "https://www.ag.ch/de/themen/recht-justiz/strafvollzug/jugendheim-aarburg/besichtigungen-oeffentliche-historische-festungsrundgaenge"
+   ]
+  },
+  {
+   "id": "wildeggbarockgarten",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stroll the baroque garden of Schloss Wildegg",
+   "desc": "Schloss Wildegg, part of Museum Aargau, is a castle estate with a baroque garden, rose garden, vineyard and farm buildings. The 3,300 m2 garden grows old ProSpecieRara varieties, and a ProSpecieRara seedling market is held here.",
+   "tip": "Open Tuesday to Sunday 10:00-17:00 from April to 1 November 2026. Garden tours cost extra.",
+   "q": "Schloss Wildegg, Möriken-Wildegg",
+   "ll": [
+    47.42075,
+    8.17044
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/wildegg-castle-the-baroque-castle-and-garden-experience/",
+    "https://www.freizeit.ch/freizeit/14210/schloss-wildegg"
+   ]
+  },
+  {
+   "id": "feldschloesschenbrauwelt",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Taste beer at the Feldschlösschen Brauwelt",
+   "desc": "The Brauwelt visitor centre opened on 30 September 2021 at the Feldschlösschen brewery in Rheinfelden. It offers an interactive look at brewing, a workshop and a digital tap system with 25 taps.",
+   "tip": "Public tours with a tasting cost about CHF 20 and must be booked; listed Wednesday to Saturday 11:00-17:00.",
+   "q": "Brauwelt Feldschlösschen, Feldschlösschenstrasse 32, Rheinfelden",
+   "ll": [
+    47.54691,
+    7.78562
+   ],
+   "src": [
+    "https://www.feldschloesschen.swiss/en/experience-feldschloesschen/visit-us/",
+    "https://www.freizeit.ch/freizeit/18665/brauerei-feldschlosschen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "zofingenaltstadt",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk Zofingen's old town, the largest in Aargau",
+   "desc": "Zofingen has the largest preserved old town in Aargau, with a ring-shaped plan once enclosed by a wall and moat. The Niklaus-Thut-Platz has a fountain, the town hall and late Gothic and Baroque buildings, and the Pulverturm dates from 1361-1363.",
+   "tip": "The old town is right by the station. The Museum Zofingen is the oldest museum in the canton.",
+   "q": "Niklaus-Thut-Platz, Zofingen",
+   "ll": [
+    47.288,
+    7.9456
+   ],
+   "src": [
+    "https://www.ag.ch/de/themen/planen-bauen/raumentwicklung/baukultur-im-aargau/oeffentliche-raeume-orte-der-begegnung/plaetze-strassen-und-gruenanlagen/altstadt-zofingen",
+    "https://www.ag.ch/denkmalpflege/suche/detail.aspx?ID=27366"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "laufenburgaargau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore Laufenburg, the Rhine town with a Wakker Prize",
+   "desc": "Laufenburg clings to the Schlossberg on a bend of the Rhine and received the Wakker Prize in 1985 for preserving its old town. The Habsburgs took the Schlossberg in 1173; only the tower remains, with a view over the old town and Jura hills.",
+   "tip": "The town was split in 1801 into Swiss and German halves; walk across the Rhine bridge to the German side.",
+   "q": "Altstadt Laufenburg, Laufenburg AG",
+   "ll": [
+    47.5602,
+    8.061
+   ],
+   "src": [
+    "https://www.myswitzerland.com/de/reiseziele/laufenburg/",
+    "https://en.wikipedia.org/wiki/Laufenburg,_Aargau"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stapferhaus",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Step into an immersive show at the Stapferhaus Lenzburg",
+   "desc": "The Stapferhaus stages large experiential exhibitions on social questions and since 2018 has occupied a new building by Pool Architekten beside Lenzburg station. FAKE opened there in 2018, and Hauptsache gesund drew 82,500 visitors before being extended.",
+   "tip": "Check stapferhaus.ch for the current exhibition; it is a few steps from the station.",
+   "q": "Stapferhaus, Bahnhofstrasse 49, Lenzburg",
+   "ll": [
+    47.39043,
+    8.16997
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Stapferhaus",
+    "https://stapferhaus.ch/en/about-us"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "beinwilstrandbad",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim at Strandbad Beinwil am See on Lake Hallwil",
+   "desc": "The lido on Lake Hallwil has a beach, 1 and 3 metre boards, a diving platform in the lake and a small slide. It is reached about 700 metres from the station or by Hallwilersee boats.",
+   "tip": "Summer only; parking is limited and paid. Boats run April to October.",
+   "q": "Strandbad Beinwil am See, Staadmattstrasse, Beinwil am See",
+   "ll": [
+    47.2705,
+    8.20934
+   ],
+   "src": [
+    "https://www.luzern.com/de/poi/strandbad-beinwil-am-see",
+    "https://www.badi-info.ch/a/beinwil-strandbad.html"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "aargauerkunsthaus",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Swiss art at the Aargauer Kunsthaus in Aarau",
+   "desc": "The Aargauer Kunsthaus holds one of the most comprehensive public collections of recent Swiss art, in a glass and concrete building by Herzog & de Meuron. Künstliche Kreativität runs until 10 January 2027.",
+   "tip": "Adults pay CHF 17, under-16s are free. Roughly 10 minutes on foot from the station.",
+   "q": "Aargauer Kunsthaus, Aargauerplatz, Aarau",
+   "ll": [
+    47.39002,
+    8.04474
+   ],
+   "src": [
+    "https://www.museums.ch/de/museumsbesuch/museen/museen/aargauer-kunsthaus-1851.html",
+    "https://www.lonelyplanet.com/switzerland/aarau/attractions/aargauer-kunsthaus/a/poi-sig/1426241/1314877"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "oberstadtbaden",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat French bistro classics at Restaurant Oberstadt in Baden",
+   "desc": "Restaurant Oberstadt combines an Art Nouveau interior with historical murals and slow-food cooking. Its brasserie serves French bistro classics such as moules frites.",
+   "tip": "A short walk from Bahnhofplatz. Reserve for weekends.",
+   "q": "Restaurant Oberstadt, Baden",
+   "ll": [
+    47.46997,
+    8.3044
+   ],
+   "src": [
+    "https://www.americanexpress.ch/en/rewards/selects/latest-partners/restaurant-oberstadt",
+    "https://falstaff.com/en/listings/classic-traditional-cuisine-restaurants-in-kanton-aargau"
+   ]
+  },
+  {
+   "id": "seerosemeisterschwanden",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine on Lake Hallwil at Restaurant Seerose",
+   "desc": "Restaurant Seerose sits in the Seerose Resort & Spa on the shore of Lake Hallwil, with 14 Gault Millau points and seasonal, regional cooking with international influences. It has a large Mediterranean terrace.",
+   "tip": "Open daily; reserve a terrace table in summer. Hours vary, see seerose.ch.",
+   "q": "Restaurant Seerose, Seerosenstrasse 1, Meisterschwanden",
+   "ll": [
+    47.28408,
+    8.22532
+   ],
+   "src": [
+    "https://www.luzern.com/en/gastro/restaurant-seerose",
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/seerose-resort-spa-restaurant-seerose/"
+   ]
+  },
+  {
+   "id": "kloentalersee",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk around Klöntalersee beneath the Glärnisch",
+   "desc": "The Klöntalersee near Glarus can be circled in about four hours, with a gorge, waterfalls and lake views, though the northern road side is busy in summer. Shorter loops start at Auli, about 6 km in under two hours.",
+   "tip": "A bus at the end of the lake returns you to the start or down to Glarus. Summer swimming is popular.",
+   "q": "Klöntalersee, Glarus",
+   "ll": [
+    47.02784,
+    8.98649
+   ],
+   "src": [
+    "https://www.myswitzerland.com/de/reiseziele/kloentalersee/",
+    "https://www.freizeit.ch/freizeit/14211/wanderung-klontalersee"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "braunwaldgondola",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride up car-free Braunwald and take the Grotzenbüel gondola",
+   "desc": "Braunwald is a car-free alpine village reached by the Linthal-Braunwald funicular. From it the Hüttenberg-Grotzenbüel gondola, from 1990 the first group circulating cable car in Switzerland, climbs towards the Ortstock area.",
+   "tip": "See braunwald.ch for operating times. Ortstock (2,717 m) is a T3 summit route.",
+   "q": "Standseilbahn Linthal-Braunwald, Linthal",
+   "ll": [
+    46.92832,
+    9.00194
+   ],
+   "src": [
+    "https://www.swissactivities.com/ru-ru/nb/detail/bd5e4a8a-8302-4a22-beb1-0caf3da1c396/",
+    "https://en.wikipedia.org/wiki/Ortstock"
+   ]
+  },
+  {
+   "id": "martinslochelm",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Spot the Martinsloch rock window above Elm",
+   "desc": "The Martinsloch is a hole in the Tschingelhörner above Elm in the Tektonikarena Sardona UNESCO area. Around 13-14 March and 1-2 October, sunlight passes through it onto Elm's church for about five minutes.",
+   "tip": "The next autumn sun event is listed for 29-30 September 2026. The Elm-Ämpächli gondola runs 23 May to 1 November 2026.",
+   "q": "Kirche Elm, Elm GL",
+   "ll": [
+    46.91859,
+    9.17202
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-us/experiences/martins-hole-sunwindow-in-a-rock/",
+    "https://unesco-sardona.ch/en/erlebnis/martins-hole-and-tschingelhoerner"
+   ],
+   "months": [
+    3,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "freulerpalast",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the Freulerpalast, Glarus's cantonal museum in Näfels",
+   "desc": "Colonel Kaspar Freuler had the palace built in 1642-48, and the municipality bought it in 1840. It holds the Museum des Landes Glarus, covering history, textiles, alpine farming, military and sport.",
+   "tip": "Open Tuesday to Sunday 10:00-17:00, April to October; adults about CHF 10-12.",
+   "q": "Freulerpalast, Im Dorf 19, Näfels",
+   "ll": [
+    47.09917,
+    9.06333
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/museum-des-landes-glarus/",
+    "https://www.swiss-spectator.ch/museums/museum-freulerpalast"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "geskaschabziger",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch Schabziger cheese made at Geska in Glarus",
+   "desc": "Geska AG in Glarus is the only factory that makes Glarner Schabziger, an herb cheese with a tradition of about 550 years. Guided tours show production and can include white wine.",
+   "tip": "Tours are for booked groups, listed at CHF 150 per tour; ask info@geska.ch.",
+   "q": "Geska AG, Ygrubenstrasse 14, Glarus",
+   "ll": [
+    47.04512,
+    9.06872
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-id/experiences/guided-schabziger-tours-in-glarus/",
+    "https://www.beobachter.ch/ernahrung/lebensmittel/spezialitat-was-fur-ein-kase"
+   ]
+  },
+  {
+   "id": "kunsthausglarus",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Kunsthaus Glarus in the Volksgarten",
+   "desc": "The Kunsthaus Glarus, by Hans Leuzinger, opened in 1952 among the trees of Glarus's Volksgarten. It is the canton's only major art institution and shows younger artists rarely seen in Swiss institutions.",
+   "tip": "Wednesday to Friday 12:00-18:00, weekends 11:00-17:00; adults CHF 10.",
+   "q": "Kunsthaus Glarus, Im Volksgarten 3, Glarus",
+   "ll": [
+    47.03867,
+    9.07152
+   ],
+   "src": [
+    "https://www.kunsthausglarus.ch/en/information/",
+    "https://kunsthausglarus.ch/en/institution/architektur"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "pantenbruecke",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike to the Pantenbrücke over the Linth gorge",
+   "desc": "The Pantenbrücke is a double stone arch bridge over the Linth gorge south of Tierfehd; a first bridge is said to date from 1457, and the lower bridge from 1853-54. It is about 30 minutes' walk from Tierfehd.",
+   "tip": "Season April to November. Never enter the riverbed: hydropower can cause sudden flooding.",
+   "q": "Pantenbrücke, Linthal",
+   "ll": [
+    46.86892,
+    8.98188
+   ],
+   "src": [
+    "https://glarnerland.ch/en/map/detail-poi/pantenbrucke--id--civ_s9t_uadfvtat-eatq-eujd-jhee-jcsvtaeshfcf.html",
+    "https://www.myswitzerland.com/en/experiences/linth-gorge/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "zaunplatzglarus",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stand on the Zaunplatz, home of the Glarus Landsgemeinde",
+   "desc": "The Zaunplatz, also called Landsgemeindeplatz, is framed by 18th-century house facades and hosts the canton's open-air assembly, held on the first Sunday in May. Voting is by show of hands.",
+   "tip": "The Landsgemeinde draws crowds in early May; other days the square hosts markets and shows.",
+   "q": "Zaunplatz, Glarus",
+   "ll": [
+    47.03845,
+    9.06792
+   ],
+   "src": [
+    "https://glarnerland.ch/en/landsgemeinde.html",
+    "https://landsgemeinde.gl.ch/node/13"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ortstockhaus",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Glarner specialties at Berggasthaus Ortstockhaus",
+   "desc": "Berggasthaus Ortstockhaus at 1,772 m on the Braunwaldalp serves regional specialties, fondue and homemade cakes, with a sun terrace among the Ortstock and Eggstöcken. It also offers rooms in a historic building.",
+   "tip": "The 2026 summer season is listed mid-June to mid-October; phone 055 533 59 31 first.",
+   "q": "Bergrestaurant Ortstockhaus, Braunwaldalp, Braunwald",
+   "ll": [
+    46.94812,
+    8.97659
+   ],
+   "src": [
+    "https://glarnerland.ch/en/map/detail-poi/mountain-restaurant-ortstockhaus--id--foo_s9t_duavecau-fbej-etec-ifbr-bqcttsargajg.html",
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/bergrestaurant-ortstockhaus-1772m/"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "limmernsee",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Linth-Limmern funicular to the Limmernsee dam",
+   "desc": "The Linth-Limmern power stations are owned 85% by Axpo and 15% by the canton, and a funicular links Tierfehd to the Limmern plant. The Limmernsee arch dam is 146 metres high and the lake holds 92 million cubic metres, while the Muttsee dam above is the highest-lying in Europe.",
+   "tip": "Check axpo.com for visitor access and cableway operation, which is seasonal.",
+   "q": "Tierfehd, Linthal",
+   "ll": [
+    46.8783,
+    8.98521
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Linth%E2%80%93Limmern_Power_Stations",
+    "https://www.axpo.com/ch/en/energy/generation-and-distribution/hydropower/pumpspeicherwerk-limmern.html"
+   ]
+  }
+ ]
+}

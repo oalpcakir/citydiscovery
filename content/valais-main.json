@@ -1,0 +1,1361 @@
+{
+ "new": [
+  {
+   "id": "valerecastle",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb to Valère castle and the Valais History Museum",
+   "desc": "The fortified church-castle of Valère crowns a rocky hill above Sion. Its former canons' buildings house the Musée d'histoire du Valais, founded in 1883 and renovated in 2008, including the Petit-Chasseur Neolithic stelae.",
+   "tip": "Walk up from the old town via Rue des Châteaux; the museum is closed on Mondays and hours vary by season.",
+   "q": "Château de Valère, Rue des Châteaux, Sion",
+   "ll": [
+    46.23392,
+    7.36421
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Val%C3%A8re_Basilica",
+    "https://www.myswitzerland.com/en/experiences/musee-dhistoire-du-valais-geschichtsmuseum-wallis-1/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "valerebasilica",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Hear the world's oldest playable organ in Valère basilica",
+   "desc": "The fortified basilica of Valère holds an organ dated to about 1435, often described as the oldest playable organ in the world, plus a carved rood screen and a treasury with Byzantine textiles.",
+   "tip": "Check the summer organ festival programme for concerts; entry to the basilica follows the castle hours.",
+   "q": "Basilique de Valère, Rue des Châteaux, Sion",
+   "ll": [
+    46.2338,
+    7.36469
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Val%C3%A8re_Basilica",
+    "https://fsspx.news/fr/news/suisse-le-joyau-du-jube-valere-16432"
+   ]
+  },
+  {
+   "id": "tourbillon",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore the ruins of Tourbillon castle for the view",
+   "desc": "Tourbillon was built around 1297-1308 under Bishop Boniface de Challant and left as a ruin after fire. A foundation has maintained the site since 1999 and entry is free.",
+   "tip": "Steep 10-20 minute walk from the station; the interior is closed roughly mid-November to mid-March, though the hill can still be climbed.",
+   "q": "Château de Tourbillon, Rue des Châteaux 14, Sion",
+   "ll": [
+    46.23646,
+    7.36689
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Tourbillon_Castle",
+    "https://tourbillon.ch/english/history"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "glarier",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit Notre-Dame du Glarier cathedral and its Lombard tower",
+   "desc": "Sion's Roman Catholic cathedral is dominated by a 12th-century Romanesque tower in the Lombard style, while the rest of the church is late Gothic.",
+   "tip": "Combine with the nearby Église Saint-Théodule; entry is free during opening hours.",
+   "q": "Cathédrale Notre-Dame du Glarier, Place de la Cathédrale, Sion",
+   "ll": [
+    46.23275,
+    7.36045
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Sion_Cathedral",
+    "https://www.swiss-spectator.ch/la-cathedrale-notre-dame-du-glarier-et-leglise-saint-theodore/"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "stheodule",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step inside the Flamboyant Gothic Saint-Théodule church",
+   "desc": "The Église Saint-Théodule was built in 1514-1516 in Flamboyant Gothic style just south of the cathedral. Roman baths and earlier remains lie beneath it.",
+   "tip": "Pair it with the cathedral visit; both are in the old town.",
+   "q": "Église Saint-Théodule, Rue de la Dixence, Sion",
+   "ll": [
+    46.23353,
+    7.35895
+   ],
+   "src": [
+    "https://wikipedia.com/wiki/Church_of_St._Th%C3%A9odule,_Sion",
+    "https://hls-dhs-dss.ch/fr/articles/002802"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "supersaxo",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the Renaissance halls of Maison Supersaxo",
+   "desc": "Georges Supersaxo built this house between 1487 and 1505. It is known for a great hall with a 1505 ceiling carved by Jacobinus de Malacrida and a staircase decorated with stucco and paintings.",
+   "tip": "Free admission is listed during office hours on weekdays; an exhibition of Sion city models is on the same floor.",
+   "q": "Maison Supersaxo, Rue de Conthey 7, Sion",
+   "ll": [
+    46.2332,
+    7.35992
+   ],
+   "src": [
+    "https://data.geo.admin.ch/ch.babs.kulturgueter/PDF/KGS_07042_GSK-f.pdf",
+    "https://www.alpen-guide.de/reisefuehrer/poi/maison-supersaxo-sion"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hoteldeville",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Spot the astronomical clock of the Hôtel de Ville",
+   "desc": "Sion's town hall on Rue du Grand-Pont dates from 1657-65. Its clock was first installed in 1667-68 and the present mechanism dates from 1902.",
+   "tip": "Best seen on a stroll along the Grand-Pont, the old town's main street.",
+   "q": "Hôtel de Ville, Rue du Grand-Pont 12, Sion",
+   "ll": [
+    46.23275,
+    7.35955
+   ],
+   "src": [
+    "https://wikipedia.com/wiki/Sion_astronomical_clock",
+    "https://api3.geo.admin.ch/featureattachments/ch.babs.kulturgueter/PDF/KGS_07040_GSK-f.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "museenature",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See Valais wildlife at the Musée de la nature",
+   "desc": "The cantonal Musée de la nature du Valais sits on Rue des Châteaux in Sion and presents the natural history of the canton.",
+   "tip": "Open Tuesday to Sunday per listings; the cantonal museums in Sion are free on the first Sunday of each month.",
+   "q": "Musée de la nature du Valais, Rue des Châteaux 12, Sion",
+   "ll": [
+    46.2343,
+    7.36195
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/musee-de-la-nature-du-valais-naturmuseum-wallis",
+    "https://www.museums.ch/fr/visite-au-musee/musees/musees/musee-de-la-nature-du-valais-naturmuseum-wallis-2315.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "museeart",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Tour the Musée d'art du Valais in two castles",
+   "desc": "The Musée d'art du Valais occupies the Vidomnat and Majorie castles on Place de la Majorie. The Majorie holds contemporary works.",
+   "tip": "Closed Mondays per the museum guide; free on the first Sunday of the month.",
+   "q": "Musée d'art du Valais, Place de la Majorie 15, Sion",
+   "ll": [
+    46.23412,
+    7.36112
+   ],
+   "src": [
+    "https://www.museums.ch/fr/visite-au-musee/musees/musees/musee-dart-du-valais-kunstmuseum-wallis-2316.html",
+    "https://www.myswitzerland.com/en-in/experiences/musee-dart-du-valais-kunstmuseum-wallis/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "montorge",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Circle the Lac de Montorge and its Maison de la Nature",
+   "desc": "A small protected lake above Sion with white water lilies and breeding toads. The Maison de la Nature on its shore began as an ice store and has staged free nature exhibitions since 1989.",
+   "tip": "The lake loop is about 1.3 km; the Maison is closed in winter and open limited hours in spring.",
+   "q": "Lac de Montorge, Rue St-Guérin 3, Sion",
+   "ll": [
+    46.23188,
+    7.342
+   ],
+   "src": [
+    "https://torpille.ch/listing/lac-de-montorge/",
+    "https://www.museums.ch/fr/visite-au-musee/musees/musees/maison-de-la-nature-montorge-4416.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "saintleonard",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Glide across the Saint-Léonard underground lake",
+   "desc": "A guided boat ride of about 30 minutes crosses what is billed as Europe's largest natural navigable underground lake, around 300 m long. Boat trips have run since 1949.",
+   "tip": "Booking is required and the site is closed in winter; an adult ticket was listed at CHF 12.",
+   "q": "Lac souterrain de Saint-Léonard, Saint-Léonard",
+   "ll": [
+    46.25693,
+    7.4259
+   ],
+   "src": [
+    "https://en.wikipedia.com/wiki/Saint-L%C3%A9onard_underground_lake",
+    "https://torpille.ch/listing/lac-souterrain-de-saint-leonard/"
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "torrentneuf",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Hike the Bisse du Torrent-Neuf above Savièse",
+   "desc": "This irrigation channel was agreed in 1430 and restored from 2005. The trail follows the water along cliffs and across suspended footbridges.",
+   "tip": "Not passable under snow and can be vertiginous; no entry fee. Bus from Sion station to Saint-Germain.",
+   "q": "Bisse du Torrent-Neuf, Savièse",
+   "ll": [
+    46.26339,
+    7.32556
+   ],
+   "src": [
+    "https://www.valais.ch/en/activities/hiking/bisses/bisse-du-torrent-neuf",
+    "https://www.valais.ch/en/activities/hiking/footbridge/footbridges-of-the-bisse-du-torrent-neuf"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "clavau",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the Bisse de Clavau through the Sion vineyards",
+   "desc": "Built in 1453, this bisse irrigates the vineyards of Ayent, Grimisuat and Sion. Its dry-stone walls rank among Europe's highest mortarless walls and it forms part of the Chemin du Vignoble.",
+   "tip": "Start at Sion station and climb through the old town; winegrowers' houses invite a tasting stop.",
+   "q": "Bisse de Clavau, Sion",
+   "ll": [
+    46.24994,
+    7.38576
+   ],
+   "src": [
+    "https://www.valais.ch/fr/explorer/activites/randonnees/bisses/bisse-de-clavau",
+    "https://torpille.ch/listing/bisse-de-clavau/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "longeborgne",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Climb to the cliff hermitage of Longeborgne",
+   "desc": "The Ermitage Notre-Dame de Longeborgne is a sanctuary built into a cliff in the Borgne gorge above Bramois, with two rock-cut chapels. A path of about 700 m with a stations-of-the-cross route leads up.",
+   "tip": "The climb from the road takes about twenty minutes and is steep through forest.",
+   "q": "Ermitage de Longeborgne, Bramois, Sion",
+   "ll": [
+    46.22404,
+    7.40909
+   ],
+   "src": [
+    "https://torpille.ch/listing/ermitage-de-longeborgne/",
+    "https://copray.ch/en/Switzerland/church/notre-dame-de-longeborgne-bramois-3948"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "marchesion",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Friday market in Sion's old town",
+   "desc": "The old town hosts a weekly market on Fridays from about 8:00 to 14:00, with Valais produce and local specialities.",
+   "tip": "Arrive before midday for the best choice; try rye bread and local cheese.",
+   "q": "Marché de la vieille ville, Rue du Grand-Pont, Sion",
+   "ll": [
+    46.23215,
+    7.3597
+   ],
+   "src": [
+    "https://www.valais.ch/fr/savourer/activites/experiences-autour-du-terroir/marches-locaux/marche-de-la-vieille-ville",
+    "https://www.loisirs.ch/activite/marche-de-la-vieille-ville-de-sion/"
+   ]
+  },
+  {
+   "id": "marchenoel",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Wander the Sion Christmas market on Place du Midi",
+   "desc": "Sion's Christmas market takes place around Place du Midi and the Espace des Remparts during the festive season.",
+   "tip": "Saturdays have special hours; check dates for the current year.",
+   "q": "Marché de Noël, Place du Midi, Sion",
+   "ll": [
+    46.2306,
+    7.3589
+   ],
+   "src": [
+    "https://www.loisirs.ch/agenda/marche-de-noel-de-sion/"
+   ],
+   "months": [
+    11,
+    12
+   ]
+  },
+  {
+   "id": "germanier",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste Amigne de Vétroz at Domaine Jean-René Germanier",
+   "desc": "The Vétroz estate offers a cellar visit with tasting of Valais wines, including its Amigne 2 Abeilles and the noble-rot Amigne dessert wine Mitis.",
+   "tip": "A 1h30 visit with regional platter is listed from about CHF 25; reserve ahead.",
+   "q": "Cave Jean-René Germanier, Route Cantonale 291, Vétroz",
+   "ll": [
+    46.21608,
+    7.25981
+   ],
+   "src": [
+    "https://www.valais.ch/fr/savourer/activites/oenotourisme/degustation-de-vins/cave-jean-rene-germanier",
+    "https://swisswinevalais.ch/en/taste/wineries/domaine-jean-rene-germanier"
+   ]
+  },
+  {
+   "id": "provins",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste Valais wines at Provins beneath Tourbillon",
+   "desc": "Provins, the Valais winegrowers' cooperative based in Sion, runs a Tourbillon estate experience with vineyard visit, tasting and meal at the foot of the castle hill.",
+   "tip": "The package runs June to October, Tuesday to Saturday, by reservation, from about CHF 159.",
+   "q": "Provins Valais, Sion",
+   "ll": [
+    46.22652,
+    7.36164
+   ],
+   "src": [
+    "https://www.valais.ch/fr/savourer/activites/oenotourisme/experiences-autour-du-vin/delices-a-tourbillon",
+    "https://www.hachette-vins.com/guide-vins/producteurs/17250/provins"
+   ]
+  },
+  {
+   "id": "gilliard",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sip Fendant Les Murettes at Maison Gilliard",
+   "desc": "Maison Gilliard, founded in 1885, is among Valais's oldest wine houses; its Fendant Les Murettes dates from 1921 and is one of its emblematic wines. It offers cellar visits with tasting.",
+   "tip": "Book the cellar visit in advance via the Valais tourism page.",
+   "q": "Maison Gilliard, Sion",
+   "ll": [
+    46.2332,
+    7.35992
+   ],
+   "src": [
+    "https://www.valais.ch/fr/shop/activites/maison-gilliard-visite-de-cave-et-degustation",
+    "https://old.lesvinsduvalais.ch/en/encaveur/maison-gilliard/"
+   ]
+  },
+  {
+   "id": "vieuxvalais",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Share a three-cheese raclette at Restaurant Vieux-Valais",
+   "desc": "A Saveurs du Valais restaurant in the old town, known for almost a century for its cheese fondue. Raclette with three cheeses is served every day alongside a traditional Valais plate.",
+   "tip": "Book for dinner; opening days vary, so check Monday and Sunday.",
+   "q": "Restaurant Vieux-Valais, Rue de St-Théodule 3, Sion",
+   "ll": [
+    46.23255,
+    7.3603
+   ],
+   "src": [
+    "https://www.valais.ch/en/activities/gastronomy-local-products/restaurants-saveurs-du-valais/vieux-valais",
+    "https://www.myswitzerland.com/en-us/experiences/food-wine/restaurant/restaurant-vieux-valais-1/"
+   ]
+  },
+  {
+   "id": "pinte",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order cheese croûtes at La Pinte Contheysanne",
+   "desc": "A historic café-restaurant in operation since 1944, known for raclette, cheese croûtes and mayen plates. A fondue for one person is on offer and there is a shaded terrace in summer.",
+   "tip": "Closed Sundays; book ahead at weekends.",
+   "q": "Pinte Contheysanne, Rue de Conthey 10, Sion",
+   "ll": [
+    46.23338,
+    7.35986
+   ],
+   "src": [
+    "https://rankeat.fr/restaurants/pinte-contheysanne-sion",
+    "https://www.swipein.restaurant/en/restaurant/pinte-contheysanne-sion-wallis"
+   ]
+  },
+  {
+   "id": "montdorge",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine on lobster with a Sion view at Relais du Mont d'Orge",
+   "desc": "A Michelin-listed restaurant whose terrace has one of the finest views of Sion; the chef Bernard Ricou trained under Paul Bocuse and lobster is almost always on the menu.",
+   "tip": "Opening days differ between sources, so phone ahead; the terrace suits lunch.",
+   "q": "Relais du Mont d'Orge, Route du Sanetsch 99, Sion",
+   "ll": [
+    46.23472,
+    7.34009
+   ],
+   "src": [
+    "https://guide.michelin.com/ca/fr/wallis/sion/restaurant/relais-du-mont-d-orge",
+    "https://www.enprimeurclub.com/restaurants/relais-du-mont-dorge-sion-restaurant"
+   ]
+  },
+  {
+   "id": "coqenpate",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat a seasonal menu in the Supersaxo house at Le Coq en Pâte",
+   "desc": "A restaurant inside the Maison Supersaxo in the old town serving Swiss and regional dishes, with a menu that changes every two months and the house red of the same name.",
+   "tip": "Open Tuesday to Saturday lunch and dinner; closed early July and over New Year.",
+   "q": "Le Coq en Pâte, Passage Supersaxo 1, Sion",
+   "ll": [
+    46.23315,
+    7.36008
+   ],
+   "src": [
+    "https://meetings.myswitzerland.com/en/restaurant/le-coq-en-pate/",
+    "https://www.fodors.com/world/europe/switzerland/valais/places/sion/restaurants"
+   ]
+  },
+  {
+   "id": "verreapied",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste local wines by the decilitre at Le Verre à Pied",
+   "desc": "A wine bar open since 1999 with wines from 18 Sion winemakers and over 150 labels; each week a different producer is featured with eight wines poured by the decilitre.",
+   "tip": "Wines can be bought to take away at cellar price.",
+   "q": "Le Verre à Pied, Rue du Grand-Pont 29, Sion",
+   "ll": [
+    46.2351,
+    7.36037
+   ],
+   "src": [
+    "https://www.valais.ch/fr/savourer/activites/oenotourisme/degustation-de-vins/verre-a-pied",
+    "https://www.myswitzerland.com/en-nz/experiences/food-wine/restaurant/oenothek-le-verre-a-pied/"
+   ]
+  },
+  {
+   "id": "winebus",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Hop between Sion cellars on the Saturday Wine Bus",
+   "desc": "Every Saturday of the year a bus links partner cellars between Sion and Saint-Léonard, with around 10 cellars and 50 wines to taste. It departs from Le Verre à Pied.",
+   "tip": "The ticket was listed at CHF 39 and is refunded on a purchase of 12 bottles.",
+   "q": "Le Verre à Pied (Wine Bus départ), Rue du Grand-Pont 29, Sion",
+   "ll": [
+    46.23195,
+    7.3596
+   ],
+   "src": [
+    "https://www.valais.ch/fr/shop/activites/wine-bus-sion",
+    "https://www.loisirs.ch/winebus"
+   ]
+  },
+  {
+   "id": "zenhausern",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Pick homemade pastries at Zenhäusern on Place du Midi",
+   "desc": "A Sion pâtisserie-café at Place du Midi 33 described as offering numerous homemade pastries.",
+   "tip": "Good for a coffee stop in the town centre; check hours locally.",
+   "q": "Zenhäusern, Place du Midi 33, Sion",
+   "ll": [
+    46.22143,
+    7.36961
+   ],
+   "src": [
+    "https://www.gillespudlowski.com/304906/restaurants/sion-les-saveurs-bon-enfant-de-zenhausern"
+   ]
+  },
+  {
+   "id": "soie",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb to the gate of the Château de la Soie in Savièse",
+   "desc": "Only the monumental gate remains of this fortress built around 1200 by the Bishop of Sion. It was burned in 1417 and its stones were reused in village houses and vineyard walls.",
+   "tip": "A steep winding path leads up; wear sturdy shoes.",
+   "q": "Château de la Soie, Savièse",
+   "ll": [
+    46.24353,
+    7.32685
+   ],
+   "src": [
+    "https://wikipedia.com/wiki/Seta_Castle",
+    "https://www.vs.ch/web/magazine/w/en-visite-%C3%A0-savi%C3%A8se"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "conthey",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the medieval castle ruins and church of Conthey",
+   "desc": "Conthey has the ruins of the Savoyard counts' castle, taken in 1258 and burned after the 1475 Battle of La Planta, plus the Romanesque Saint-Séverin church and the only surviving medieval gate.",
+   "tip": "The commune publishes a medieval trail flyer; the ruins sit east of the Bourg.",
+   "q": "Château de Conthey, Conthey",
+   "ll": [
+    46.21599,
+    7.30459
+   ],
+   "src": [
+    "https://conthey.ch/files/1Chateaudescomtes.pdf",
+    "https://hls-dhs-dss.ch/fr/articles/002672"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "amigne",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Stroll the Promenade de l'Amigne through Vétroz vines",
+   "desc": "An educational vineyard trail of about 2.5 km with panels on the Amigne grape, soils and wildlife, inaugurated in 2005 in the home village of the grape.",
+   "tip": "Takes about 50 minutes; start at the church in Vétroz, reached by bus 331.",
+   "q": "Promenade de l'Amigne, Place du Four, Vétroz",
+   "ll": [
+    46.22764,
+    7.28088
+   ],
+   "src": [
+    "https://www.postauto.ch/fr/offres-de-loisirs/idees-d-excursions/coteaux-du-soleil",
+    "https://www.conthey.ch/files/CarteBalade_Coteaux.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "iles",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Swim and play at the Domaine des Îles by the Rhône",
+   "desc": "A free leisure area west of Sion with a swimming lake, beach volleyball, climbing wall and tennis, open 07:00 to midnight.",
+   "tip": "Reach it by Car postal from Sion station or by bike along the Rhône.",
+   "q": "Domaine des Îles, Route des Îles, Sion",
+   "ll": [
+    46.21262,
+    7.32826
+   ],
+   "src": [
+    "https://www.badi-info.ch/a/sion_domaine_iles.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gornergratbahn",
+   "cat": "dene",
+   "area": "zermatt",
+   "title": "Ride the Gornergrat rack railway to 3089 m",
+   "desc": "The Gornergrat Bahn climbs from Zermatt (1604 m) to the highest open-air station in Europe in about 33 minutes, passing views of the Matterhorn and 28 other 4000 m peaks.",
+   "tip": "Trains run all year about every 24 minutes; sit on the right going up for the Matterhorn.",
+   "q": "Gornergratbahn Talstation, Bahnhofplatz, Zermatt",
+   "ll": [
+    46.02398,
+    7.74857
+   ],
+   "src": [
+    "https://www.gornergratbahn.ch/en/about-the-gornergrat-bahn/",
+    "https://zermatt.swiss/p/talstation-gornergrat-bahn-01tVj000005DoH9IAK"
+   ]
+  },
+  {
+   "id": "gornergratkulm",
+   "cat": "gor",
+   "area": "zermatt",
+   "title": "Take in the 4000 m panorama from Gornergrat summit",
+   "desc": "The summit station at 3089 m looks over the Gorner Glacier and the Valais 4000 m peaks including Monte Rosa, with the 3100 Kulmhotel Gornergrat beside it.",
+   "tip": "Go early on clear days; the altitude can cause breathlessness.",
+   "q": "Gornergrat Kulm, Zermatt",
+   "ll": [
+    45.98345,
+    7.78358
+   ],
+   "src": [
+    "https://zermatt.swiss/p/gornergrat-bergbahnstation-01tVj000005DgEhIAK",
+    "https://wikipedia.com/wiki/Gornergrat"
+   ]
+  },
+  {
+   "id": "riffelberg",
+   "cat": "ye",
+   "area": "zermatt",
+   "title": "Eat a Walliser Teller at Riffelhaus 1853, Riffelberg",
+   "desc": "The Riffelhaus opened in the 1850s and hosted famous 19th-century climbers. Its restaurant serves mountain cuisine including Walliser Teller and Heusuppe.",
+   "tip": "Reached only by the Gornergrat railway (about 23 minutes).",
+   "q": "Riffelhaus 1853, Riffelberg, Zermatt",
+   "ll": [
+    45.99325,
+    7.75306
+   ],
+   "src": [
+    "https://www.gornergrat.ch/en/stories/restaurants-riffelberg",
+    "https://zermatt.swiss/en/p/riffelberg-mountain-station-01tVj000005DpBYIA0"
+   ]
+  },
+  {
+   "id": "riffelsee",
+   "cat": "gor",
+   "area": "zermatt",
+   "title": "Find the Matterhorn mirrored in the Riffelsee",
+   "desc": "A small lake near Rotenboden station whose calm surface reflects the Matterhorn, clearest in early morning or evening.",
+   "tip": "About 10 minutes' walk from Rotenboden station; the Rotenboden-Riffelsee-Riffelberg walk is about an hour.",
+   "q": "Riffelsee, Rotenboden, Zermatt",
+   "ll": [
+    45.98336,
+    7.76205
+   ],
+   "src": [
+    "https://zermatt.swiss/p/riffelsee-01tVj000005DnxqIAC",
+    "https://www.wandernundmehr.at/faq/wie-besuche-ich-den-riffelsee"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "glacierparadise",
+   "cat": "gor",
+   "area": "zermatt",
+   "title": "Ride to Matterhorn Glacier Paradise at 3883 m",
+   "desc": "The Klein Matterhorn summit station is the highest cable-car station in Europe, reached by cable cars via Furi and Trockener Steg in roughly 40 to 45 minutes.",
+   "tip": "Open all year, with elevators to the viewing platform occasionally closed for maintenance.",
+   "q": "Matterhorn Glacier Paradise, Klein Matterhorn, Zermatt",
+   "ll": [
+    45.9373,
+    7.7297
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-ie/experiences/matterhorn-glacier-ride/",
+    "https://old.matterhornparadise.ch/en/News/Media-Corner/Matterhorn-Alpine-Crossing/Matterhorn-Alpine-Crossing_old/Media-kit/The-highest-cable-car-station-in-the-Alps"
+   ]
+  },
+  {
+   "id": "glacierpalace",
+   "cat": "gor",
+   "area": "zermatt",
+   "title": "Walk through the Glacier Palace ice grotto",
+   "desc": "An ice tunnel about 15 m below the glacier surface leads to a palace with sculptures, an ice slide and an optional exit through a real crevasse, billed as the highest natural glacier palace in the world.",
+   "tip": "Temperatures stay below freezing, so wear warm layers.",
+   "q": "Glacier Palace, Klein Matterhorn, Zermatt",
+   "ll": [
+    45.95499,
+    7.72528
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/the-highest-natural-glacier-palace-in-the-world-on-the-klein-matterhorn/",
+    "https://showcaves.com/english/ch/subterranea/KleinMatterhorn.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "gandegg",
+   "cat": "ye",
+   "area": "zermatt",
+   "title": "Warm up with Rösti at the Gandegg hut at 3030 m",
+   "desc": "A staffed hut built in 1885 above Trockener Steg, between the Matterhorn and the Breithorn, serving dried-meat platters, cheese on toast, Rösti and fondue.",
+   "tip": "About 30 minutes' walk from Trockener Steg in summer; on the ski area in winter. Check opening dates at gandegg.ch.",
+   "q": "Gandegghütte, Trockener Steg, Zermatt",
+   "ll": [
+    45.96414,
+    7.72565
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Gandegg_Hut",
+    "https://www.bergwelten.com/h/gandegghuette-ob-zermatt"
+   ]
+  },
+  {
+   "id": "matterhornexpress",
+   "cat": "dene",
+   "area": "zermatt",
+   "title": "Glide up on the Matterhorn Express gondola",
+   "desc": "An eight-seat gondola runs from Zermatt via Furi and Schwarzsee to Trockener Steg at 2939 m, crossing 44 pylons.",
+   "tip": "Connect to Schwarzsee in about 20 minutes; check the season for the Furi to Trockener Steg tramway.",
+   "q": "Matterhorn Express Talstation, Zermatt",
+   "ll": [
+    46.00816,
+    7.73731
+   ],
+   "src": [
+    "https://shop.matterhornparadise.ch/en/Book/MEX-cabins",
+    "https://www.myswissalps.com/matterhorn"
+   ]
+  },
+  {
+   "id": "schwarzsee",
+   "cat": "gor",
+   "area": "zermatt",
+   "title": "Visit Schwarzsee and its chapel Maria zum Schnee",
+   "desc": "A dark lake at about 2550 m below the Matterhorn with an early-18th-century chapel, patron feast on 5 August with outdoor Mass.",
+   "tip": "The chapel is closed in winter; the key is kept at the Schwarzsee restaurant.",
+   "q": "Schwarzsee, Kapelle Maria zum Schnee, Zermatt",
+   "ll": [
+    45.99077,
+    7.70682
+   ],
+   "src": [
+    "https://zermatt.swiss/p/kapelle-schwarzsee-maria-zum-schnee-01tVj000005DoyjIAC",
+    "https://www.wikipedia.org/wiki/Schwarzsee_(Zermatt)"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "hornlihutte",
+   "cat": "dene",
+   "area": "zermatt",
+   "title": "Hike to the Hörnlihütte, Matterhorn base camp",
+   "desc": "A T3 trail from Schwarzsee (2583 m) leads past secured and exposed sections to the Hörnlihütte at 3260 m, start of the normal Matterhorn route.",
+   "tip": "Allow 2 to 3 hours up; the hut is open roughly July to mid-September.",
+   "q": "Hörnlihütte, Matterhorn, Zermatt",
+   "ll": [
+    45.9822,
+    7.67701
+   ],
+   "src": [
+    "https://zermatt.swiss/p/wanderung-zur-hoernlihuette-zermatters-01tVj000004sJoIIAU",
+    "https://www.bergwelten.com/h/hoernlihuette"
+   ],
+   "months": [
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "sunnegga",
+   "cat": "dene",
+   "area": "zermatt",
+   "title": "Ride the Sunnegga funicular to the sun terrace",
+   "desc": "The underground funicular climbs from Zermatt (1599 m) to Sunnegga (2288 m) in about 4.5 minutes, the gateway to Leisee, Findeln and Blauherd.",
+   "tip": "Start of the combined funicular and gondola route to Blauherd and Rothorn.",
+   "q": "Sunnegga Express Talstation, Zermatt",
+   "ll": [
+    46.02251,
+    7.75173
+   ],
+   "src": [
+    "https://www.wikipedia.org/wiki/SunneggaExpress",
+    "https://zermatt.swiss/Media/Attraktionen/Sunnegga"
+   ]
+  },
+  {
+   "id": "leisee",
+   "cat": "dene",
+   "area": "zermatt",
+   "title": "Swim and picnic at Leisee, home of the Wolli park",
+   "desc": "A lake near Sunnegga that mirrors the Matterhorn, with a bathing beach, barbecue areas and the Wolli Adventure Park.",
+   "tip": "Reach it by the Leisee shuttle in about 3 minutes or on foot in 10.",
+   "q": "Leisee, Sunnegga, Zermatt",
+   "ll": [
+    46.01497,
+    7.77268
+   ],
+   "src": [
+    "https://zermatt.swiss/en/p/wollis-adventure-park-at-sunnegga-01tVj000005DmVNIA0",
+    "https://www.myswitzerland.com/en/experiences/wolli-park-for-beginners-at-sunnegga"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "blauherd",
+   "cat": "gor",
+   "area": "zermatt",
+   "title": "Look at the Matterhorn from Blauherd at 2571 m",
+   "desc": "The Blauherd gondola station is a Matterhorn vantage point and the link to the Rothorn tramway and the Stellisee trails.",
+   "tip": "Gondola from Sunnegga in summer; a combined chairlift in winter.",
+   "q": "Blauherd Bergstation, Zermatt",
+   "ll": [
+    46.01705,
+    7.78527
+   ],
+   "src": [
+    "https://ci.zermatt.swiss/en/p/blauherd-mountain-station-01tFT000002N6RlYAK",
+    "https://old.matterhornparadise.ch/en/Experience/Peaks/Blauherd"
+   ]
+  },
+  {
+   "id": "rothorn",
+   "cat": "gor",
+   "area": "zermatt",
+   "title": "Reach the Rothorn summit at 3103 m",
+   "desc": "An aerial tramway from Blauherd reaches the Rothorn station at 3103 m for a wide panorama said to show the most attractive side of the Matterhorn.",
+   "tip": "Check the operating season on zermatt.swiss as the lift closes at times.",
+   "q": "Rothorn Bergstation, Zermatt",
+   "ll": [
+    46.02101,
+    7.79778
+   ],
+   "src": [
+    "https://zermatt.swiss/en/Media/Attractions/Rothorn",
+    "https://www.myswitzerland.com/en-gb/experiences/sunnegga-rothorn/"
+   ]
+  },
+  {
+   "id": "fiveseeweg",
+   "cat": "dene",
+   "area": "zermatt",
+   "title": "Walk the 5-Seenweg past five Matterhorn lakes",
+   "desc": "The 5-Lakes Trail links Stellisee, Grindjisee, Grünsee, Moosjisee and Leisee, about 10 km from Blauherd to Sunnegga.",
+   "tip": "Allow 2.5 to 3 hours; Stellisee has the best Matterhorn reflection.",
+   "q": "5-Seenweg, Blauherd, Zermatt",
+   "ll": [
+    46.0028,
+    7.7905
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/route/5-seenweg-zermatt/",
+    "https://light.zermatt.ch/en/Media/Planning-hikes-tours/5-Lakes-Walk-Nr.-11"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "murmelweg",
+   "cat": "dene",
+   "area": "zermatt",
+   "title": "Spot marmots on the Murmelweg from Blauherd",
+   "desc": "Marmot Trail No. 8 runs Blauherd, Stellisee, Sunnegga for about 3.8 km, with wooden sculptures and five observation posts.",
+   "tip": "Takes about 1h10; best June to September.",
+   "q": "Murmelweg, Blauherd, Zermatt",
+   "ll": [
+    46.0028,
+    7.7905
+   ],
+   "src": [
+    "https://zermatt.swiss/en/p/marmot-trail-nr-8-01tVj000005EvjdIAC",
+    "https://matterhornparadise.ch/en/experience/hiking/marmot-trail"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "findlerhof",
+   "cat": "ye",
+   "area": "zermatt",
+   "title": "Order Rösti at Findlerhof in Findeln",
+   "desc": "A Findeln mountain restaurant with 14 Gault Millau points serving Swiss and Italian dishes, including lamb fillet with Rösti and Rösti with mountain cheese and egg.",
+   "tip": "Sits on the ski slope; reach it on foot from Sunnegga.",
+   "q": "Restaurant Findlerhof, Findeln, Zermatt",
+   "ll": [
+    46.01094,
+    7.76435
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/restaurant-findlerhof-franz-heidi",
+    "https://www.guidle.com/en/restaurants/zermatt/restaurant-findlerhof-franz-und-heidi_A5yrrRC"
+   ]
+  },
+  {
+   "id": "chezvrony",
+   "cat": "ye",
+   "area": "zermatt",
+   "title": "Try farm cheese and Eringer beef at Chez Vrony",
+   "desc": "A family mountain restaurant at 2130 m in Findeln producing its own cheese and meat from ten cows grazing the Findeln pastures; fondue and raclette on request.",
+   "tip": "Open daily 11:30 to 16:00; 15 to 20 minutes' walk from Sunnegga.",
+   "q": "Chez Vrony, Findeln, Zermatt",
+   "ll": [
+    46.01176,
+    7.76751
+   ],
+   "src": [
+    "https://zermatt.swiss/en/ztm/zermatt-tourism-meets/chez-vrony",
+    "https://www.valais.ch/de/geniessen/aktivitaeten/gastronomie/restaurants-walliser-genuss/chez-vrony"
+   ]
+  },
+  {
+   "id": "adlerhitta",
+   "cat": "ye",
+   "area": "zermatt",
+   "title": "Taste the Walliser Teller at Adler Hitta",
+   "desc": "A mountain restaurant at about 2200 m between the Matterhorn and Adlerhorn, run since 1978, with house-made Walliser Teller and Älplermagronen.",
+   "tip": "Winter reopening listed for 5 December 2026; confirm at adler-hitta.ch.",
+   "q": "Adler Hitta, Findeln, Zermatt",
+   "ll": [
+    46.0128,
+    7.76299
+   ],
+   "src": [
+    "https://zermatt.swiss/en/ztm/zermatt-tourism-meets/adler-hitta",
+    "https://zermatt.swiss/p/adler-hitta-01tVj000005DosFIAS"
+   ]
+  },
+  {
+   "id": "zumsee",
+   "cat": "ye",
+   "area": "zermatt",
+   "title": "Walk down to Zum See for fondue chinoise",
+   "desc": "A Gault Millau-rated mountain restaurant in the hamlet of Zum See, about 40 minutes' walk from Zermatt.",
+   "tip": "Fondue chinoise is offered in the winter season; phone to book.",
+   "q": "Restaurant Zum See, Zum See 24, Zermatt",
+   "ll": [
+    46.00656,
+    7.73191
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/restaurant-zum-see/",
+    "https://zermatt.swiss/p/zum-see-01tVj000005DkevIAC"
+   ]
+  },
+  {
+   "id": "fluhalp",
+   "cat": "ye",
+   "area": "zermatt",
+   "title": "Lunch on the Fluhalp terrace facing the Matterhorn",
+   "desc": "A mountain restaurant at 2606 m with a large sun terrace looking at the Matterhorn, near the Stellisee, with overnight rooms in summer.",
+   "tip": "Check hours as listings vary; phone +41 27 967 25 97.",
+   "q": "Bergrestaurant Fluhalp, Zermatt",
+   "ll": [
+    46.01273,
+    7.81093
+   ],
+   "src": [
+    "https://zermatt.swiss/p/fluhalp-01tVj000005DkjnIAC",
+    "https://www.bergwelten.com/h/restaurant-fluhalp-zermatt"
+   ]
+  },
+  {
+   "id": "findlerweg",
+   "cat": "dene",
+   "area": "zermatt",
+   "title": "Follow the Findeln gourmet trail back to Zermatt",
+   "desc": "The Findlerweg No. 49 runs downhill from Sunnegga past Leisee and Findeln to Winkelmatten, about 3.9 km, passing several Gault Millau-listed restaurants.",
+   "tip": "Allow about 1h10; reserve a table in Findeln first.",
+   "q": "Findlerweg, Sunnegga, Zermatt",
+   "ll": [
+    46.0129,
+    7.7719
+   ],
+   "src": [
+    "https://zermatt.swiss/en/p/findlerweg-no-49-01tVj00000HvJlhIAF",
+    "https://shop.matterhornparadise.ch/en/Experience/Top-Experiences/Findeln-Gourmet-trail"
+   ]
+  },
+  {
+   "id": "stafelalp",
+   "cat": "ye",
+   "area": "zermatt",
+   "title": "Reach Stafelalp at the foot of the Matterhorn",
+   "desc": "A mountain restaurant at 2200 m with 13 Gault Millau points, rebuilt after a fire on 13 April 2018 and known for lamb dishes.",
+   "tip": "Walk the Matterhorn trail from Zermatt or Schwarzsee; it closes in bad weather.",
+   "q": "Bergrestaurant Stafelalp, Zermatt",
+   "ll": [
+    46.00395,
+    7.68756
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/bergrestaurant-stafelalp/",
+    "https://zermatt.swiss/en/p/stafelalp-2200m-01tVj000005DqQvIAK"
+   ]
+  },
+  {
+   "id": "jaegerstube",
+   "cat": "ye",
+   "area": "zermatt",
+   "title": "Try Käseschnitte at the Jägerstube in Zmutt",
+   "desc": "A restaurant in the hamlet of Zmutt, about 1h40 from Zermatt, with a terrace and a Käseschnitte praised as among the best in the valley.",
+   "tip": "Zermatt to Zmutt is about 4.3 km; check seasonal opening.",
+   "q": "Restaurant Jägerstube, Zmutt 36, Zermatt",
+   "ll": [
+    45.9995,
+    7.7145
+   ],
+   "src": [
+    "https://zermatt.swiss/p/weiler-zmutt-01tVj000005DpjNIAS",
+    "https://www.matterhornchalets.com/2021/04/07/best-mountain-restaurants-in-zermatt/"
+   ]
+  },
+  {
+   "id": "gornerschlucht",
+   "cat": "gor",
+   "area": "zermatt",
+   "title": "Cross the Gorner gorge on wooden walkways",
+   "desc": "Wooden walkways and galleries run through rock about 220 million years old, with a suspension bridge about 90 m up. The gorge has been open since 1886-1887.",
+   "tip": "A 15 to 20 minute walk from the village; entry was listed at CHF 5.",
+   "q": "Gornerschlucht, Zermatt",
+   "ll": [
+    46.0083,
+    7.73865
+   ],
+   "src": [
+    "https://zermatt.swiss/Media/Attraktionen/Gornerschlucht",
+    "https://showcaves.com/english/ch/gorges/Gorner.html"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "hinterdorf",
+   "cat": "gor",
+   "area": "zermatt",
+   "title": "Wander the Hinterdorf among old Walser barns",
+   "desc": "More than 30 Upper Valais Stadel and Speicher stand on stone pillars, many about 500 years old, one documented to 1383.",
+   "tip": "Free to wander; the area is next to the Inderbinen fountain.",
+   "q": "Hinterdorf, Zermatt",
+   "ll": [
+    46.02085,
+    7.74761
+   ],
+   "src": [
+    "https://zermatt.swiss/p/photopoint-alter-dorfteil-01tVj000005DpoLIAS",
+    "https://www.matterhornchalets.com/2022/12/22/the-stadel-all-you-need-to-know-about-zermatts-historical-buildings/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "matterhornmuseum",
+   "cat": "gor",
+   "area": "zermatt",
+   "title": "Descend into Zermatlantis at the Matterhorn Museum",
+   "desc": "An underground museum beside the church recreates old Zermatt and shows the torn rope from the 1865 first ascent.",
+   "tip": "Adults CHF 12 per listing; opening hours vary, check zermatt.swiss.",
+   "q": "Matterhorn Museum Zermatlantis, Kirchplatz 11, Zermatt",
+   "ll": [
+    46.01977,
+    7.74646
+   ],
+   "src": [
+    "https://zermatt.swiss/p/matterhorn-museum-zermatlantis-01tVj000005DjZ9IAK",
+    "https://www.museums.ch/de/museumsbesuch/museen/museen/matterhorn-museum-zermatlantis-2418.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "kirchbruecke",
+   "cat": "gor",
+   "area": "zermatt",
+   "title": "Catch the Matterhorn from the Kirchbrücke at dawn",
+   "desc": "The bridge over the Matter Vispa is Zermatt's best-known viewpoint, where photographers wait for first light on the summit.",
+   "tip": "Short walk from the station; go early in summer.",
+   "q": "Kirchbrücke, Zermatt",
+   "ll": [
+    46.0192,
+    7.7483
+   ],
+   "src": [
+    "https://zermatt.swiss/p/photopoint-kirchbruecke-01tVj000005Dpl7IAC",
+    "https://www.locationscout.net/switzerland/54581-matterhorn-from-kirchbruecke-zermatt"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stmauritius",
+   "cat": "gor",
+   "area": "zermatt",
+   "title": "Visit the mountaineers' cemetery by St. Mauritius",
+   "desc": "The church grounds hold graves of climbers killed in the mountains, including Matterhorn first-ascent figures, and a grave of the unknown climber.",
+   "tip": "Free; the parish church records go back to 1285.",
+   "q": "Pfarrkirche St. Mauritius, Kirchplatz, Zermatt",
+   "ll": [
+    46.01949,
+    7.74653
+   ],
+   "src": [
+    "https://zermatt.swiss/p/bergsteigerfriedhof-01tVj000005Dpl5IAC",
+    "https://zermatt.swiss/en/p/parish-church-of-st-mauritius-zermatt-01tVj000005DoqaIAC"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "whymper",
+   "cat": "ye",
+   "area": "zermatt",
+   "title": "Dip bread into cheese fondue at Whymper-Stube",
+   "desc": "The Whymper-Stube beneath Hotel Monte Rosa is named after Matterhorn first-ascent climber Edward Whymper and serves cheese fondue and raclette from a traditional oven dating from 1888.",
+   "tip": "Open daily 12:00 to 21:30 per listing; phone +41 27 967 22 96.",
+   "q": "Whymper-Stube, Bahnhofstrasse 80, Zermatt",
+   "ll": [
+    46.0199,
+    7.7471
+   ],
+   "src": [
+    "https://zermatt.swiss/p/whymper-stube-01tVj000005Dka7IAC",
+    "https://www.monterosazermatt.ch/en/restaurants-bars/whymper-stube/"
+   ]
+  },
+  {
+   "id": "dupont",
+   "cat": "ye",
+   "area": "zermatt",
+   "title": "Eat Rösti at Du Pont, Zermatt's oldest inn",
+   "desc": "Billed as the oldest Wirtschaft in Zermatt, serving Valais specialities such as cheese fondue, raclette and Rösti.",
+   "tip": "Terrace in summer; reviewers praise the Rösti.",
+   "q": "Restaurant Du Pont, Oberdorfstrasse 7, Zermatt",
+   "ll": [
+    46.01911,
+    7.74574
+   ],
+   "src": [
+    "https://zermatt.swiss/en/p/du-pont-aelteste-wirtschaft-in-zermatt-01tVj000005DpxwIAC"
+   ]
+  },
+  {
+   "id": "elsies",
+   "cat": "ye",
+   "area": "zermatt",
+   "title": "Order an Irish coffee at Elsie's Wine and Champagne Bar",
+   "desc": "A bar on Kirchplatz known for champagne, oysters and its Irish coffee, open from 16:00 daily.",
+   "tip": "Late afternoon is the classic time for the Irish coffee.",
+   "q": "Elsie's Bar, Kirchplatz 16, Zermatt",
+   "ll": [
+    46.0196,
+    7.7476
+   ],
+   "src": [
+    "https://zermatt.swiss/en/p/elsie-01tVj000005DmtcIAC",
+    "https://www.myswitzerland.com/cs/zazitky/jidlo-a-vino/restaurace-1/elsies-wine-champagne-bar/"
+   ]
+  },
+  {
+   "id": "fuchs",
+   "cat": "ye",
+   "area": "zermatt",
+   "title": "Start the day at Bäckerei Fuchs on Bahnhofstrasse",
+   "desc": "A family bakery operating since 1965 with a bistro-cafe upstairs, selling fresh bread, croissants and cakes from about 7:00.",
+   "tip": "Bahnhofstrasse 28 has the bistro; a second shop is at number 72.",
+   "q": "Bäckerei Fuchs, Bahnhofstrasse 28, Zermatt",
+   "ll": [
+    46.02244,
+    7.7507
+   ],
+   "src": [
+    "https://zermatt.swiss/p/baeckerei-fuchs-bahnhofstr-28-01tVj000005Dn6cIAC"
+   ]
+  },
+  {
+   "id": "walliserkanne",
+   "cat": "ye",
+   "area": "zermatt",
+   "title": "Sample the Walliser Teller at Walliserkanne",
+   "desc": "A restaurant on Bahnhofstrasse with regional dishes including raclette, fondue and Walliser Teller.",
+   "tip": "Reviewers find it good but pricey.",
+   "q": "Restaurant Walliserkanne, Bahnhofstrasse 32, Zermatt",
+   "ll": [
+    46.02184,
+    7.74703
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-ca/experiences/food-wine/restaurant/restaurant-walliserkanne",
+    "https://tripaligner.com/countries/switzerland-14/destinations/zermatt-6105/places/walliserkanne-697915"
+   ]
+  },
+  {
+   "id": "eisbahn",
+   "cat": "dene",
+   "area": "zermatt",
+   "title": "Skate at the Zermatt ice rink in the village",
+   "desc": "An artificial and natural ice rink in the village centre offers free skating from November to mid-March, shared with the EHC Zermatt hockey club.",
+   "tip": "Check the occupancy schedule first.",
+   "q": "Eisbahn Zermatt, Hofmattstrasse, Zermatt",
+   "ll": [
+    46.0178,
+    7.7495
+   ],
+   "src": [
+    "https://zermatt.swiss/p/eishockey-01tVj000005DjisIAC"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    11,
+    12,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "gleitschirm",
+   "cat": "dene",
+   "area": "zermatt",
+   "title": "Fly tandem by paraglider over the Matterhorn",
+   "desc": "Operators such as FlyZermatt offer tandem flights from launch sites like Rothorn, Gornergrat and Riffelberg; the site is chosen on the day by wind and weather.",
+   "tip": "Prices start around CHF 190 for a short flight; book ahead.",
+   "q": "FlyZermatt Paragliding, Bahnhofplatz, Zermatt",
+   "ll": [
+    46.02053,
+    7.74887
+   ],
+   "src": [
+    "https://zermatt.swiss/p/flyzermatt-paragliding-01tVj000005DqafIAC",
+    "https://zermatt.swiss/p/tandemflug-the-adventurer-01tVj000004sJxqIAE"
+   ]
+  },
+  {
+   "id": "riffelalptram",
+   "cat": "dene",
+   "area": "zermatt",
+   "title": "Ride the Riffelalp tram, Europe's highest",
+   "desc": "The Riffelalp tram links the Riffelalp station on the Gornergrat line to the Riffelalp Resort at 2222 m and has run since 13 July 1899, relaunched in 2001.",
+   "tip": "Listed as reopening 18 June 2027; confirm before travel.",
+   "q": "Riffelalp tram, Riffelalp, Zermatt",
+   "ll": [
+    45.9965,
+    7.7545
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Riffelalp_tram",
+    "https://www.riffelalp.com/en/the-resort/riffelalp-tram/"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "kuonenbridge",
+   "cat": "dene",
+   "area": "zermatt",
+   "title": "Cross the Charles Kuonen suspension bridge near Randa",
+   "desc": "Opened on 29 July 2017, the 494 m footbridge on the Europaweg is the longest pedestrian suspension bridge in Switzerland and the Alps, rising 85 m above the Grabengufer gorge.",
+   "tip": "Free, open May to October and closed in thunderstorms; about 2 to 2.5 hours' walk from Randa.",
+   "q": "Charles Kuonen Hängebrücke, Randa",
+   "ll": [
+    46.10113,
+    7.802
+   ],
+   "src": [
+    "https://zermatt.swiss/p/laengste-fussgaenger-haengebruecke-der-alpen-01tVj000005DqkNIAS",
+    "https://www.wikipedia.org/wiki/Charles_Kuonen_Bridge"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "randaexhibit",
+   "cat": "gor",
+   "area": "zermatt",
+   "title": "Learn about the 1991 Randa rockslides",
+   "desc": "A photo exhibition in a converted parish barn next to Randa church documents the April and May 1991 rockslides, about 30 million cubic metres of rock.",
+   "tip": "Call the Randa tourist office on +41 27 967 16 77 for hours.",
+   "q": "Ausstellung Bergsturz Randa, Randa",
+   "ll": [
+    46.11145,
+    7.78028
+   ],
+   "src": [
+    "https://zermatt.swiss/p/ausstellung-bergsturz-randa-01tVj000005EuqkIAC",
+    "https://www.wikipedia.org/wiki/Randa_rockslides"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "taeschterminal",
+   "cat": "dene",
+   "area": "zermatt",
+   "title": "Take the Täsch shuttle train to Zermatt",
+   "desc": "From the Matterhorn Terminal station in Täsch, shuttle trains reach central Zermatt in about 12 minutes every 20 minutes.",
+   "tip": "The terminal has 2100 covered parking spaces; cars cannot go on to Zermatt.",
+   "q": "Matterhorn Terminal Täsch, Täsch",
+   "ll": [
+    46.06894,
+    7.7753
+   ],
+   "src": [
+    "https://zermatt.swiss/p/bahnhof-taesch-01tVj000005DjNvIAK",
+    "https://www.matterhorngotthardbahn.ch/en/winter/access/matterhorn-terminal-taesch/"
+   ]
+  }
+ ]
+}

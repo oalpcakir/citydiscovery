@@ -1,0 +1,520 @@
+{
+ "new": [
+  {
+   "id": "chateaunyon",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Discover Nyon porcelain in the lakeside castle",
+   "desc": "The castle of Nyon dates to the 12th century and was bought by the town in 1804. It houses the museum of local history and the famous Nyon porcelain made between 1781 and 1813, displayed in rooms overlooking the lake.",
+   "tip": "One ticket also covers the Roman Museum and the Lake Museum and is valid for 12 months. Entry is free on the first Sunday of each month.",
+   "q": "Château de Nyon, Place du Château, Nyon",
+   "ll": [
+    46.38305,
+    6.23975
+   ],
+   "src": [
+    "https://chateaudenyon.ch/en/page/the-museum-7",
+    "https://www.museums.ch/fr/visite-au-musee/musees/musees/chateau-de-nyon-4268.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "romainmotier",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the Cluniac abbey church of Romainmôtier",
+   "desc": "The Romanesque abbey church of Romainmôtier, begun around 990-1030, is a copy of the second church of Cluny and one of the key Cluniac buildings in Switzerland. The village around it is listed among the most beautiful villages of Switzerland and lies on the Via Francigena.",
+   "tip": "Visit freely or with the free app; check for concerts, which are held regularly in the church. Combine with a stroll through the village lanes and the Orbe river gorge.",
+   "q": "Abbatiale de Romainmôtier, Chemin Derrière-l'Eglise, Romainmôtier",
+   "ll": [
+    46.69378,
+    6.46245
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/abbey-church-romainmotier",
+    "https://myvaud.ch/en/G2563"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "avenches",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stand in the Roman amphitheatre of Aventicum at Avenches",
+   "desc": "Avenches was Aventicum, the capital of the Roman Helvetii, with a 16,000-seat amphitheatre, a theatre and a 5.5 km town wall. The Roman Museum has been housed since 1838 in the medieval tower built on the amphitheatre.",
+   "tip": "The museum stays open while the amphitheatre is being renovated; check opening hours on aventicum.org. Walk on to the Cigognier column and the Roman theatre.",
+   "q": "Musée romain d'Avenches, Place de l'Amphithéâtre, Avenches",
+   "ll": [
+    46.88103,
+    7.04256
+   ],
+   "src": [
+    "https://www.vaud.ch/en/tourism/activites/musee-romain-davenches",
+    "https://www.myswitzerland.com/en/experiences/aventicum-helvetians-and-romans/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "grandsoncastle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour Grandson Castle on Lake Neuchâtel",
+   "desc": "Grandson castle is a major medieval fortress on Lake Neuchâtel, linked to the 1476 battle of Grandson against Charles the Bold. The permanent exhibition covers 1,000 years of history over 15 rooms, and the cellars hold a car collection started in 1960 by George Filipinetti.",
+   "tip": "Winter hours are 11:00 to 17:00, closed Tuesdays, so confirm before going. The old town of Grandson and its lakeside are a short walk away.",
+   "q": "Château de Grandson, Place du Château 1, Grandson",
+   "ll": [
+    46.80962,
+    6.6471
+   ],
+   "src": [
+    "https://www.museums.ch/fr/visite-au-musee/musees/musees/chateau-de-grandson-2051.html",
+    "https://www.myswitzerland.com/en/experiences/le-chateau-de-grandson/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "payerneabbey",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the largest Romanesque church in Switzerland at Payerne",
+   "desc": "The abbey church of Payerne is the largest Romanesque church in Switzerland and a Cluniac foundation linked to Queen Bertha and Queen Adelaide. It reopened in July 2020 after more than ten years of restoration, with a signposted route of 20 stations through architecture, sculpture and murals.",
+   "tip": "Reception is in the college building beside the church; an audioguide visit costs about CHF 16. Check abbatiale-payerne.ch for opening hours.",
+   "q": "Abbatiale de Payerne, Place du Marché 3, Payerne",
+   "ll": [
+    46.82001,
+    6.93733
+   ],
+   "src": [
+    "https://www.museums.ch/fr/visite-au-musee/musees/musees/site-de-labbatiale-de-payerne-2212.html",
+    "https://fribourg.ch/fr/estavayer-payerne/architecture-et-monuments/labbatiale/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "coppetchateau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Madame de Staël's Château de Coppet",
+   "desc": "Coppet castle is tied to the banker Jacques Necker and his daughter Germaine de Staël, whose literary circle met here around 1800. It still belongs to the family's descendants, and its rooms keep their 18th and 19th century furniture and paintings.",
+   "tip": "Open from April to October and visited by guided tour only; reserve by emailing visites@chateaudecoppet.ch. The station is about 300 m away, 5 minutes from Geneva Cornavin.",
+   "q": "Château de Coppet, Grand-Rue, Coppet",
+   "ll": [
+    46.31713,
+    6.19206
+   ],
+   "src": [
+    "https://www.museums.ch/fr/visite-au-musee/musees/musees/chateau-de-coppet-1984.html",
+    "https://www.vaud.ch/en/tourism/activites/coppet-castle"
+   ],
+   "tags": []
+  },
+  {
+   "id": "chateauaigle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb Aigle Castle among the vineyards",
+   "desc": "Aigle castle has stood in the middle of a renowned vineyard since the end of the 12th century. It houses the Musée de la vigne, du vin et de l'étiquette, with permanent exhibitions on viticulture, and a label collection in the Maison de la Dîme opposite.",
+   "tip": "Check opening hours at chateauaigle.ch (shorter in winter). Finish with a tasting in one of the Chablais wine cellars.",
+   "q": "Château d'Aigle, Place du Château 1, Aigle",
+   "ll": [
+    46.315,
+    6.97629
+   ],
+   "src": [
+    "https://www.museums.ch/fr/visite-au-musee/musees/musees/musee-de-la-vigne-du-vin-et-de-letiquette-1859.html",
+    "https://www.myswitzerland.com/en/experiences/musee-de-la-vigne-et-du-vin-1/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "crestjussy",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Château du Crest estate in Jussy",
+   "desc": "Château du Crest in Jussy is a fortified estate built in the 13th century, destroyed in the 16th and rebuilt in the early 17th century. It now houses the Crest Collection, a museum devoted to the painters of Geneva, and a wine estate.",
+   "tip": "The museum is listed as open Wednesdays and Saturdays, 10:00 to 17:00; tastings have separate hours, so check geneve.com first. The estate is on a regional cycling route.",
+   "q": "Château du Crest, Chemin du Crest 1, Jussy",
+   "ll": [
+    46.23566,
+    6.25688
+   ],
+   "src": [
+    "https://www.geneve.com/en/attractions/the-crest-collection",
+    "https://en.wikipedia.org/wiki/Crest_Castle"
+   ],
+   "tags": []
+  },
+  {
+   "id": "espacehorloger",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Trace the Vallée de Joux watchmaking story at Espace Horloger",
+   "desc": "The Espace Horloger opened in 1996 in a former factory in Le Sentier, once the Zénith works and LeCoultre's from 1927. It is the only public watchmaking museum in the canton and presents the valley as the birthplace of the great watch complications.",
+   "tip": "Open Tuesday to Sunday, 10:00 to 17:00, closed Mondays. Pair it with the Lac de Joux walk or skating.",
+   "q": "Espace Horloger, Grand-Rue 2, Le Sentier",
+   "ll": [
+    46.6041,
+    6.22723
+   ],
+   "src": [
+    "https://www.museums.ch/fr/visite-au-musee/musees/musees/espace-horloger-vallee-de-joux-2474.html",
+    "https://www.myswitzerland.com/en/experiences/espace-horloger-vallee-de-joux/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "prangins",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour Château de Prangins and its historic vegetable garden",
+   "desc": "The château is an 1730s mansion near Nyon that became the French-speaking branch of the Swiss National Museum in 1998. The permanent exhibition 'La Suisse' covers 18th and 19th century Swiss history, and the park holds what is described as the largest historic vegetable garden in Switzerland.",
+   "tip": "Open Tuesday to Sunday, 10:00 to 17:00. The potager and the Promenade des Lumières are free; take bus 805 or 811 from Nyon station.",
+   "q": "Château de Prangins, Avenue Général Guiguer 3, Prangins",
+   "ll": [
+    46.39417,
+    6.25198
+   ],
+   "src": [
+    "https://www.vaud.ch/en/tourism/activites/swiss-national-museum-chateau-de-prangins/",
+    "https://www.museums.ch/fr/visite-au-musee/musees/musees/chateau-de-prangins-musee-national-suisse-2497.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ondesaphorin",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Lavaux chasselas at the Auberge de l'Onde",
+   "desc": "The Auberge de l'Onde is a historic house in the wine village of Saint-Saphorin with a brasserie and rotisserie downstairs and a fine-dining room upstairs. Its sommelier is known for Swiss wines, especially chasselas from Lavaux.",
+   "tip": "Open Wednesday to Sunday; closed Monday and Tuesday. Reserve for the upstairs room.",
+   "q": "Auberge de l'Onde, Chemin Neuf 2, Saint-Saphorin (Lavaux)",
+   "ll": [
+    46.47326,
+    6.79602
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/auberge-de-londe/",
+    "https://www.myvaud.ch/en/P4950"
+   ],
+   "tags": []
+  },
+  {
+   "id": "etivazcheese",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste L'Etivaz AOP cheese in its cellars",
+   "desc": "L'Etivaz AOP is an alpine cheese made over wood fires in mountain chalets in summer and matured 5 to 13 months in the village cellars, which hold up to 30,000 wheels. The Maison de l'Etivaz offers a film, guided cellar tours and tastings.",
+   "tip": "Guided visits and tastings are by reservation on etivaz-aop.ch; a self-guided film visit is cheaper. Pass d'Enhaut holders pay a reduced entry.",
+   "q": "Maison de l'Etivaz, L'Etivaz",
+   "ll": [
+    46.42376,
+    7.14508
+   ],
+   "src": [
+    "https://www.vaud.ch/en/tourism/activites/cheese-cellars-of-letivaz-aop",
+    "https://www.myvaud.ch/en/F1158"
+   ],
+   "tags": []
+  },
+  {
+   "id": "aubergehermance",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat lake perch fillets at the Auberge d'Hermance",
+   "desc": "The Auberge d'Hermance occupies a restored manor house in the centre of Hermance, the Geneva lakeshore village. The kitchen serves classic dishes such as perch fillets, in the conservatory or on the terrace.",
+   "tip": "Order the filets de perche with a Geneva white wine. Reserve ahead for terrace tables in summer.",
+   "q": "L'Auberge d'Hermance, Rue du Midi 12, Hermance",
+   "ll": [
+    46.30205,
+    6.24376
+   ],
+   "src": [
+    "https://www.falstaff.com/en/restaurants/lauberge-dhermance-hermance",
+    "https://www.geneve.com/en/hotels/hotel-auberge-dhermance"
+   ],
+   "tags": []
+  },
+  {
+   "id": "crissierhotelville",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Splurge at the Restaurant de l'Hôtel de Ville in Crissier",
+   "desc": "This Crissier restaurant is a classic of French fine dining, holding three Michelin stars and 19 GaultMillau points. Franck Giovannini has led the kitchen since 2016, following the Girardet era that made the address famous.",
+   "tip": "Book weeks ahead; lunch menus are the more affordable way in. It is reachable by bus from Lausanne.",
+   "q": "Restaurant de l'Hôtel de Ville, Rue d'Yverdon 1, Crissier",
+   "ll": [
+    46.5542,
+    6.57667
+   ],
+   "src": [
+    "https://guide.michelin.com/gb/en/vaud/crissier/restaurant/restaurant-de-l-hotel-de-ville",
+    "https://www.vaud.ch/en/tourism/activites/restaurant-de-lhotel-de-ville"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ermitageravet",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at L'Ermitage des Ravet in Vufflens-le-Château",
+   "desc": "L'Ermitage des Ravet is the fine-dining restaurant and guest house run by Relais & Châteaux Grand Chef Bernard Ravet with his son and daughter. It sits in the village below Vufflens castle, near Morges.",
+   "tip": "Check ravet.ch for closing days and reserve in advance. Rooms start around CHF 250.",
+   "q": "L'Ermitage des Ravet, Route du Village 26, Vufflens-le-Château",
+   "ll": [
+    46.5502,
+    6.5124
+   ],
+   "src": [
+    "https://www.gillespudlowski.com/96491/restaurants/vuifflens-le-chateau-un-ermite-nomme-ravet",
+    "https://brguide.com/restaurants/lermitage-des-ravet"
+   ],
+   "tags": []
+  },
+  {
+   "id": "domainebovy",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Lavaux wines in the Bovy family cellar at Chexbres",
+   "desc": "The Bovy family has made wine in Chexbres for over a century, farming 8 hectares with Saint-Saphorin as the main appellation. The guided visit includes the old cellar with oak casks decorated by Maurice Bovy and four small pours, the first taken straight from the barrel.",
+   "tip": "Weekday tastings run about an hour from CHF 18; book by phone or via Lausanne Tourisme. The terrace looks over the Lavaux terraces.",
+   "q": "Domaine Bovy, Rue du Bourg-de-Plaît 15, Chexbres",
+   "ll": [
+    46.4796,
+    6.7788
+   ],
+   "src": [
+    "https://www.lausanne-tourisme.ch/fr/offre/degustation-de-vin-et-visite-dune-cave-centenaire/",
+    "https://www.hachette-vins.com/guide-vins/producteurs/35050/domaine-bovy/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "vignobledore",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Lunch among the vines at Le Vignoble Doré in Russin",
+   "desc": "Le Vignoble Doré is a café-restaurant in Russin, a vineyard village in the Geneva countryside, serving seasonal dishes. It is well rated by diners, with a score around 9.2 out of 10 on TheFork-based reviews.",
+   "tip": "Open Wednesday to Sunday; hours vary between listings, so call +41 22 754 11 13. A good stop on a cycle ride through the Mandement vineyards.",
+   "q": "Café-Restaurant Vignoble Doré, Route du Mandement 332, Russin",
+   "ll": [
+    46.1882,
+    6.01345
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/le-vignoble-dore",
+    "https://geneveterroir.ch/en/node/3021"
+   ],
+   "tags": []
+  },
+  {
+   "id": "aubergeraisin",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat in the 15th-century Auberge du Raisin in Cully",
+   "desc": "The Auberge du Raisin occupies a solid 15th-century building on the town hall square of Cully, in the Lavaux wine region. It is a long-standing address for local wines and regional cooking.",
+   "tip": "Open Tuesday to Saturday for lunch and dinner. Pair it with a visit to the Cully cellars.",
+   "q": "Auberge du Raisin, Place de l'Hôtel-de-Ville 1, Cully",
+   "ll": [
+    46.48834,
+    6.73089
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-gb/experiences/food-wine/restaurant/lauberge-du-raisin/",
+    "https://www.gillespudlowski.com/219444/restaurants/cully-jean-jacques-gauer-aubergiste-sincere"
+   ],
+   "tags": []
+  },
+  {
+   "id": "glacier3000",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cross the Peak Walk by Tissot at Glacier 3000",
+   "desc": "The Peak Walk is a 107 m suspension bridge at 2,971 m linking two peaks, billed as the only one in the world to do so. It sits on the Glacier 3000 summit above Les Diablerets with views from the Eiger to Mont Blanc and the Matterhorn.",
+   "tip": "Access is included with the lift ticket from Col du Pillon; the bridge may close in bad weather. Dress warmly, it is cold at 3,000 m.",
+   "q": "Glacier 3000, Peak Walk, Scex Rouge, Les Diablerets",
+   "ll": [
+    46.35424,
+    7.20548
+   ],
+   "src": [
+    "https://www.glacier3000.ch/en/activities/peak-walk-by-tissot",
+    "https://www.vaud.ch/en/tourism/activites/peak-walk-by-tissot-glacier-3000"
+   ],
+   "tags": []
+  },
+  {
+   "id": "rochersnaye",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the cog railway to Rochers-de-Naye",
+   "desc": "The MOB cog railway climbs from Montreux through Glion and Caux to Rochers-de-Naye at about 2,042 m in around 50 minutes. The summit has views over Lake Geneva and the Alps, hikes, and the Marmot Paradise and La Rambertia alpine garden.",
+   "tip": "Trains run year-round but with reduced winter service; the Marmot Paradise is a summer attraction. Swiss Travel Pass covers part of the line.",
+   "q": "Rochers-de-Naye, Caux, Montreux",
+   "ll": [
+    46.43184,
+    6.97882
+   ],
+   "src": [
+    "https://lausanne-tourisme.ch/en/explore/rochers-de-naye",
+    "https://www.myswitzerland.com/en/experiences/trains-in-the-swiss-riviera-region"
+   ],
+   "tags": [],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "leysintoboggan",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Slide down the ice channels at Leysin Tobogganing Park",
+   "desc": "The Tobogganing Park in Leysin is described as the largest snowtubing park in Switzerland, with riders sliding on inner tubes down icy channels. It was invented by bobsleigh champion Silvio Giobellina.",
+   "tip": "Buy tickets online to avoid queues or sold-out sessions. A deer park sits behind the site.",
+   "q": "Tobogganing Park Leysin, Chemin des Feuilles, Leysin",
+   "ll": [
+    46.34101,
+    7.02131
+   ],
+   "src": [
+    "https://www.myvaud.ch/en/G4391",
+    "https://www.alpesvaudoises.ch/en/products/tobogganing-park-leysin-standard"
+   ],
+   "tags": [],
+   "months": [
+    12,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "blonaychamby",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride a steam train on the Blonay-Chamby museum railway",
+   "desc": "The Blonay-Chamby Museum Railway is a volunteer-run heritage line on a 3 km narrow-gauge track built in 1902, running vintage steam and electric trains. The museum holds over 70 items of rolling stock.",
+   "tip": "Trains run on Saturdays and Sundays from May to October (2026 season: 4 May to 26 October). Take the train to Vevey, then change for Blonay.",
+   "q": "Chemin de fer-musée Blonay-Chamby, Gare de Blonay, Blonay",
+   "ll": [
+    46.44944,
+    6.91337
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Blonay%E2%80%93Chamby_Museum_Railway",
+    "https://www.vaud.ch/en/tourism/activites/blonay-chamby-railway-museum"
+   ],
+   "tags": [],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "lacdejoux",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Skate or walk around frozen Lac de Joux",
+   "desc": "In cold winters the 9.5 square kilometre Lac de Joux freezes into an immense natural ice rink, busiest at Le Pont, L'Abbaye and Le Rocheray in Le Sentier. In summer the same shores suit sailing and a 23 km circular hike.",
+   "tip": "Skate rental is available in Le Sentier and Le Pont; freezing depends on the weather, so check conditions first. In July and August a boat service runs from Le Pont.",
+   "q": "Lac de Joux, Le Pont",
+   "ll": [
+    46.66694,
+    6.32974
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/winter-delight-on-the-lac-de-joux/",
+    "https://www.vaud.ch/en/tourism/activites/frozen-lakes-in-the-vallee-de-joux"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "balloonchateaudoex",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Fly a hot air balloon at the Château-d'Œx festival",
+   "desc": "Château-d'Œx is the Alpine ballooning capital, hosting an international hot air balloon festival every January. The 46th edition saw some 350 flights, and passenger flights last roughly one to one and a half hours.",
+   "tip": "The 2027 festival is listed for 23 to 31 January; flights are weather-dependent and bookable at festivaldeballons.ch. Expect adult fares around CHF 350.",
+   "q": "Festival International de Ballons, Route de Saanen 2, Château-d'Œx",
+   "ll": [
+    46.4704,
+    7.12754
+   ],
+   "src": [
+    "https://www.festivaldeballons.ch/en/aboutus",
+    "https://www.swissinfo.ch/eng/various/more-than-45000-visitors-at-the-balloon-festival-in-ch%c3%a2teau-doex-vd/90872470"
+   ],
+   "tags": [],
+   "months": [
+    1
+   ]
+  },
+  {
+   "id": "cgnsteamer",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cruise Lake Geneva on a Belle Époque paddle steamer",
+   "desc": "CGN runs a fleet of eight Belle Époque paddle boats, five steam and three diesel-electric, on Lake Geneva. Day excursions call at Nyon, Rolle, Morges, Montreux, Yvoire and Evian.",
+   "tip": "Swiss rail passes are valid on CGN boats. Check cgn.ch for the current timetable, and book the gourmet lunch cruises ahead.",
+   "q": "CGN embarcadère de Nyon, Quai des Alpes, Nyon",
+   "ll": [
+    46.3821,
+    6.2406
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/lake-geneva-cruises",
+    "https://www.cgn.ch/en/background"
+   ],
+   "tags": [],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "arboretumaubonne",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Wander the Arboretum du Vallon de l'Aubonne",
+   "desc": "The Arboretum covers roughly 200 hectares and holds more than 3,000 varieties of trees and shrubs from temperate regions, including a North American sequoia forest and a Japanese section. A small Wood Museum sits within the grounds.",
+   "tip": "Reception is open Tuesday to Sunday, 10:00 to 18:00 from April to October; walking routes run 1 to 3 km. Spring brings cherry and magnolia blossom.",
+   "q": "Arboretum du Vallon de l'Aubonne, Chemin de Plan 92, Aubonne",
+   "ll": [
+    46.50809,
+    6.37074
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-il/experiences/arboretum-in-the-aubonne-valley/",
+    "https://www.vaud.ch/en/tourism/activites/arboretum-of-the-aubonne-vale"
+   ],
+   "tags": []
+  }
+ ]
+}

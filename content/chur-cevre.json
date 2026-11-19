@@ -1,0 +1,479 @@
+{
+ "new": [
+  {
+   "id": "schatzalp",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Ride the funicular up to Schatzalp above Davos",
+   "desc": "The Art Nouveau Schatzalp opened in 1900 as a luxury sanatorium and is widely held to be the setting of Thomas Mann's The Magic Mountain (1924). A four-minute funicular from Davos Platz climbs about 300 m to the hotel, which has been preserved largely intact. Beside it lies the Alpinum Schatzalp, Graubünden's only private recognised botanical garden with over 5,000 alpine plants.",
+   "tip": "Take the Schatzalpbahn from Davos Platz and walk through the Alpinum in summer. The toboggan run is open in winter.",
+   "q": "Berghotel Schatzalp, Schatzalpstrasse, Davos Platz",
+   "ll": [
+    46.80126,
+    9.81409
+   ],
+   "src": [
+    "https://www.schatzalp.ch/en/?p=433",
+    "https://www.myswitzerland.com/en-gb/accommodations/hotel-schatzalp-davos/"
+   ]
+  },
+  {
+   "id": "kirchnermuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Kirchner paintings in Davos",
+   "desc": "The Kirchner Museum Davos, designed by Gigon/Guyer and opened in 1992, holds the world's largest collection of works by Ernst Ludwig Kirchner, who lived near Davos from 1918 until his death in 1938. The core of the collection was donated by the art dealer Roman Norbert Ketterer.",
+   "tip": "Closed on Mondays; check current hours and prices on the museum site. Combine with a walk along the Promenade.",
+   "q": "Kirchner Museum Davos, Ernst Ludwig Kirchner Platz, Davos Platz",
+   "ll": [
+    46.80014,
+    9.82669
+   ],
+   "src": [
+    "https://www.davos.ch/en/discover/art-culture/museums/kirchner-museum-davos",
+    "https://www.museums.ch/de/museumsbesuch/museen/museen/kirchner-museum-davos-1989.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "weissfluhjoch",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Ride the Parsenn funicular to Weissfluhjoch",
+   "desc": "The Parsennbahn runs from Davos Dorf to Weissfluhjoch at 2,665 m, with views over Davos, the Davosersee and the Landwasser valley. A further ride leads to Weissfluhgipfel at 2,844 m, the highest point of the Davos Klosters mountains, with a panorama restaurant. In summer the Felsenweg and Höhenweg trails start here.",
+   "tip": "Go up in the morning for clear views. A return ticket cost around CHF 46 to 49 in 2024; confirm current prices on davos.ch.",
+   "q": "Weissfluhjoch, Parsennbahn, Davos Dorf",
+   "ll": [
+    46.83293,
+    9.80582
+   ],
+   "src": [
+    "https://www.davos.ch/en/experience/culinary-nightlife/mountain-restaurants/berghaus-weissfluhgipfel",
+    "https://www.graubuenden.ch/de/touren/weissfluhjoch-felsenweg-strelapass-gross-schiahorn-hoehenweg"
+   ]
+  },
+  {
+   "id": "viamala",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Descend into the Viamala gorge near Thusis",
+   "desc": "The Viamala is a deep gorge of the Hinterrhein between Thusis and Zillis, long a feared stretch of the old trade route over the Splügen and San Bernardino passes. A staircase dating from 1903 leads down from the visitor centre, and hiking trails run about 8 km between Thusis and Zillis.",
+   "tip": "The staircase and visitor centre were reported closed after storm damage and normally open April to October, so check status first; the Thusis to Zillis trails stay open.",
+   "q": "Viamala-Schlucht Besucherzentrum, Via Mala, Thusis",
+   "ll": [
+    46.6629,
+    9.4489
+   ],
+   "src": [
+    "https://www.graubuenden.ch/de/ausflugsziele/viamala-schlucht",
+    "https://www.graubuenden.ch/en/attractions/viamala-besucherzentrum"
+   ]
+  },
+  {
+   "id": "spluegen",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander the Walser lanes of Splügen",
+   "desc": "Splügen is a historic pass village in the Rheinwald with one of the best-preserved old centres in Graubünden, with narrow lanes, Walser houses and stately palazzi. It won the Wakker Prize in 1995, and the Splügen Pass road to Italy (2,113 m) was built in 1818-1823.",
+   "tip": "Look for the Rheinwald local history museum in the municipal building; the Via Spluga starts here.",
+   "q": "Splügen, Rheinwald, Graubünden",
+   "ll": [
+    46.54172,
+    9.32262
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Spl%C3%BCgen_GR",
+    "https://www.myswitzerland.com/en-us/destinations/spluegenrheinwald/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "poschiavopalazzi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Admire the Spanish quarter of Poschiavo",
+   "desc": "On the southern edge of Poschiavo's Borgo, the Via dei Palazzi is lined with Venetian-style villas built in the second half of the 19th century by emigrant confectioners who returned from Spain and elsewhere. The main square, Piazza da Cumün, is framed by patrician houses and the late Gothic church of San Vittore.",
+   "tip": "Walk about ten minutes south of the station; pair it with the main square and a coffee.",
+   "q": "Via dei Palazzi, Poschiavo",
+   "ll": [
+    46.3206,
+    10.0599
+   ],
+   "src": [
+    "https://www.graubuenden.ch/it/mete-delle-escursioni/via-di-palazz",
+    "https://www.myswitzerland.com/en-us/destinations/poschiavo/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "soglio",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look over the Bregaglia from Soglio",
+   "desc": "Soglio is a stone village high above Val Bregaglia, with the Sciora peaks opposite and chestnut groves below, among the largest in Europe between Soglio, Bondo and Castasegna. The baroque Palazzo Salis, built in the 17th century and a guesthouse since 1876, anchors the village.",
+   "tip": "Come in October for the chestnut festival season; the village is small and best on foot.",
+   "q": "Soglio, Bregaglia, Graubünden",
+   "ll": [
+    46.34207,
+    9.53988
+   ],
+   "src": [
+    "https://www.graubuenden.ch/en/attractions/mountain-villages/soglio",
+    "https://www.bregaglia.ch/en/our-pearls/our-villages/soglio"
+   ]
+  },
+  {
+   "id": "muestair",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the UNESCO convent of St. Johann in Müstair",
+   "desc": "The Benedictine convent of St. Johann was founded around 775 and has been a UNESCO World Heritage Site since 1983. Nuns still live there, and the museum in the Planta tower shows finds and treasures from 1,200 years of history.",
+   "tip": "Hours differ by season (roughly 09:00 to 17:00 May to October, shorter in winter); entry about CHF 12.",
+   "q": "Chloster Son Jon, Plaz Grond, Müstair",
+   "ll": [
+    46.6297,
+    10.4486
+   ],
+   "src": [
+    "https://www.val-muestair.ch/en/st-johann-monastery",
+    "https://www.graubuenden.ch/de/ausflugsziele/kloster-st-johann-0"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "landwasserviadukt",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Landwasser Viaduct at Filisur",
+   "desc": "The Landwasser Viaduct on the Albula line carries Rhaetian Railway trains 65 m above the Landwasser valley on slender stone piers, around 136 m long. It forms part of the UNESCO-listed Albula and Bernina railway landscape (2008) and trains cross at least hourly.",
+   "tip": "Walk from Filisur station to the Hennings or Acatos viewing platforms, about 50 minutes, or take the Viaduktshuttle to Schmitten.",
+   "q": "Landwasserviadukt, Filisur, Graubünden",
+   "ll": [
+    46.67924,
+    9.67613
+   ],
+   "src": [
+    "https://www.myswitzerland.com/de/erlebnisse/landwasserviadukt-der-rhb/",
+    "https://www.graubuenden.ch/de/touren/landwasserviadukt-weg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "brusiokreisviadukt",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Watch trains loop the Brusio spiral viaduct",
+   "desc": "The nine-arched Kreisviadukt Brusio was opened on 1 July 1908 on the Bernina line, letting trains gain height in a full circle. It is used by the Bernina Express and is part of the UNESCO-listed Albula and Bernina railway landscape.",
+   "tip": "Stand beside the viaduct to watch trains complete the loop. Brusio is reached by Bernina line or Postauto from Tirano and Poschiavo.",
+   "q": "Kreisviadukt, Brusio, Graubünden",
+   "ll": [
+    46.2537,
+    10.12788
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Brusio_spiral_viaduct",
+    "https://www.myswitzerland.com/de/erlebnisse/die-bahn-dreht-sich-im-kreise/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "zillisdecke",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Study the painted ceiling of St. Martin in Zillis",
+   "desc": "The Romanesque church of St. Martin has a ceiling of 153 painted wooden panels dated by dendrochronology to shortly after 1114, showing scenes from the life of Christ and of St. Martin. The panel order was reassembled in 1939-40. A permanent exhibition on the ceiling stands on the main street.",
+   "tip": "Combine with the Viamala gorge, which starts in the same area. Use the exhibition to see the panels at eye level.",
+   "q": "Kirche St. Martin, Zillis, Graubünden",
+   "ll": [
+    46.63529,
+    9.44039
+   ],
+   "src": [
+    "https://www.graubuenden.ch/de/ausflugsziele/kirche-st-martin-1",
+    "https://www.museums.ch/de/museumsbesuch/museen/museen/ausstellung-kirche-zillis-2421.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mesoccocastle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb to Mesocco Castle in the Misox",
+   "desc": "Castello di Mesocco is described as Graubünden's most important fortress. The von Sax family held it for about four centuries before the Three Leagues ordered its demolition in 1526; it was excavated in 1925-26 and restored in 1986-90. The Romanesque church of Santa Maria del Castello at its foot has well-preserved frescoes.",
+   "tip": "Open all year; allow a couple of hours. A 1.5-hour trail leads from Mesocco to Soazza via the ruin.",
+   "q": "Castello di Mesocco, Mesocco, Graubünden",
+   "ll": [
+    46.3802,
+    9.23263
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Mesocco_Castle",
+    "https://www.myswitzerland.com/en-us/experiences/castle-ruin-mesocco/"
+   ]
+  },
+  {
+   "id": "disentisabbey",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Benedictine abbey of Disentis",
+   "desc": "The abbey of Disentis/Mustér was founded around the year 700 and is among the oldest in Switzerland. Its museum covers 1,300 years of abbey history and the nature and culture of the Surselva, with liturgical objects from around 1200 and early medieval stucco fragments.",
+   "tip": "Museum hours and prices vary by listing; check with the museum before travelling.",
+   "q": "Kloster Disentis, Via Claustra 1, Disentis/Mustér",
+   "ll": [
+    46.7067,
+    8.85525
+   ],
+   "src": [
+    "https://www.graubuenden.ch/de/ausflugsziele/benediktinerkloster-disentis",
+    "https://hls-dhs-dss.ch/de/articles/011490/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "weisshornarosa",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Take the Weisshorn cable car above Arosa",
+   "desc": "The Arosa Weisshorn cable car has run to the 2,653 m summit since 1956 from beside Arosa station. The summit panorama covers more than 400 peaks, and the 360° Panoramarestaurant designed by Tilla Theus sits at the top.",
+   "tip": "Check summit restaurant hours on arosabergbahnen.com before going.",
+   "q": "Weisshornbahn Talstation, Arosa",
+   "ll": [
+    46.78928,
+    9.63916
+   ],
+   "src": [
+    "https://www.graubuenden.ch/de/ausflugsziele/weisshorn",
+    "https://www.myswitzerland.com/en-th/experiences/food-wine/restaurant/360-panoramarestaurant-weisshorngipfel/"
+   ]
+  },
+  {
+   "id": "rothornlenzerheide",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Ride up the Parpaner Rothorn from Lenzerheide",
+   "desc": "From Lenzerheide a gondola and then a cable car climb the Parpaner Rothorn to about 2,861 m, roughly 20 minutes in all. On clear days the view takes in more than 1,000 peaks and looks down over Lenzerheide and the Heidsee. A panorama restaurant sits at the top.",
+   "tip": "Choose a clear morning; confirm lift times on arosalenzerheide.swiss.",
+   "q": "Rothornbahn Talstation, Lenzerheide",
+   "ll": [
+    46.7262,
+    9.5538
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/parpaner-rothorn/",
+    "https://arosalenzerheide.swiss/Panoramarestaurant-Rothorngipfel_isd_125618"
+   ]
+  },
+  {
+   "id": "ruinaulta",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Ruinaulta Rhine Gorge from Versam",
+   "desc": "The Ruinaulta, nicknamed the Swiss Grand Canyon, is a gorge of the Vorderrhein created by a prehistoric rockslide. The most scenic stage runs from Valendas to Versam along the river past floodplain forests and white pebble beaches. There is no hiking path between Versam and Trin, which is a conservation area.",
+   "tip": "Use the Rhaetian Railway for connections; a Ruinaulta day ticket covers train and Postauto. Timetable changes in 2025 affect Versam to Trin trains.",
+   "q": "Bahnhof Versam-Safien, Versam",
+   "ll": [
+    46.80729,
+    9.31034
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-us/experiences/rhine-gorge-ruinaulta/",
+    "https://www.graubuenden.ch/en/tours/rhine-gorge-from-ilanz-to-versam-into-the-heart-of-the-rhine-gorge"
+   ]
+  },
+  {
+   "id": "thermevals",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Bathe in Zumthor's 7132 Therme in Vals",
+   "desc": "The 7132 Therme is a thermal bath built into the hillside of Vals in Graubünden, designed by Peter Zumthor with local Valser quartzite. The baths are open to external visitors daily, with an online reservation required.",
+   "tip": "Book at 7132.com in advance; day entry was around CHF 80 for adults. Hours are about 11:00 to 20:00 (Monday and Tuesday until 18:00).",
+   "q": "7132 Therme, Poststrasse, Vals",
+   "ll": [
+    46.622,
+    9.18127
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/7132-therme/",
+    "https://www.graubuenden.ch/en/attractions/7132-therme"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "caumasee",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim in the turquoise Caumasee at Flims",
+   "desc": "The Caumasee (Lag la Cauma) is a lake in the Flimser forest at about 1,000 m, reached from Flims Waldhaus by a free funicular. It has a fenced bathing area on the north side and the Ustria La Cauma restaurant.",
+   "tip": "The funicular only runs while the restaurant is open. Non-swimmers pay about CHF 5 for terrace access.",
+   "q": "Caumasee, Flims Waldhaus",
+   "ll": [
+    46.82509,
+    9.29047
+   ],
+   "src": [
+    "https://www.flimslaax.com/en/outdoor-activities/mountain-lakes/lake-cauma",
+    "https://app.graubuenden.ch/en/caumasee"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "cassonsflims",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Cassons ridge above Flims",
+   "desc": "The FlemX gondola reaches the Cassons station at about 2,500 m, from where a one-hour circular trail leads to the viewpoint Crap la Tgina and a longer route crosses the Cassonsgrat and Flimserstein. The Flimserstein ridge is part of the UNESCO Tectonic Arena Sardona.",
+   "tip": "Hike in summer; platforms such as Il Spir overlook the Rhine Gorge.",
+   "q": "Cassons, Flims Laax Falera",
+   "ll": [
+    46.87059,
+    9.26049
+   ],
+   "src": [
+    "https://www.graubuenden.ch/en/tours/loop-trail-cassons-crap-la-tgina",
+    "https://www.flimslaax.com/en/crap-da-flem-gondola"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "bahnerlebnisweg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Albula railway trail from Preda to Bergün",
+   "desc": "The Bahnerlebnisweg Albula follows the UNESCO-listed Albula line from Preda (1,789 m) down to Bergün (1,373 m), about 6.5 to 7 km, with a short steep climb near the Rugnux spiral tunnel. It continues to Filisur.",
+   "tip": "Take the Rhaetian Railway up to Preda and walk down; allow about 2 hours. The Bahnmuseum Albula in Bergün is closed 23 Nov to 10 Dec 2026.",
+   "q": "Bahnhof Bergün, Bergün Filisur",
+   "ll": [
+    46.6315,
+    9.7465
+   ],
+   "src": [
+    "https://www.graubuenden.ch/de/touren/bahnerlebnisweg-albula",
+    "https://www.myswitzerland.com/ko/experiences/albula-railway-museum/"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "albriciposchiavo",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat pizzoccheri at Ristorante Albrici in Poschiavo",
+   "desc": "Hotel Albrici stands on Poschiavo's main square, and its restaurant serves Italian and local dishes. One reviewer was served pizzoccheri with local red wine in its historic setting.",
+   "tip": "Confirm pizzoccheri is on the menu by calling +41 81 844 01 73; the restaurant lists daily hours from 07:00.",
+   "q": "Ristorante Albrici, Via da Mez 18, Poschiavo",
+   "ll": [
+    46.32629,
+    10.05802
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-id/experiences/food-wine/restaurant/hotel-albrici-ristorante-albrici/",
+    "https://wanderlog.com/place/details/10634865"
+   ]
+  },
+  {
+   "id": "palazzosalis",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine in the historic Palazzo Salis in Soglio",
+   "desc": "Hotel Palazzo Salis is a family-owned baroque mansion (Historic Hotel of the Year 1998) with a historic restaurant and a summer garden terrace facing the Sciora peaks. Lunch and dinner are served in season.",
+   "tip": "Reserve; seasonal hours (roughly April to October). Phone +41 81 822 12 08.",
+   "q": "Hotel Palazzo Salis, Plazza 2, Soglio",
+   "ll": [
+    46.34213,
+    9.53966
+   ],
+   "src": [
+    "https://app.graubuenden.ch/en/hotel-palazzo-salis",
+    "https://www.myswitzerland.com/en-gb/accommodations/hotel-palazzo-salis/"
+   ]
+  },
+  {
+   "id": "bodenhausspluegen",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try the Bodenhaus platter in Splügen",
+   "desc": "Hotel Bodenhaus, built in 1722 and a hotel since 1822, is one of Graubünden's oldest. Its restaurant uses regional produce; the Bodenhaus platter has Grisons meat, salsiz, air-dried ham and mountain cheese.",
+   "tip": "Order the platter; the building in the village centre was once a post office and inn.",
+   "q": "Hotel Bodenhaus, Bodaplatz 2, Splügen",
+   "ll": [
+    46.55352,
+    9.32418
+   ],
+   "src": [
+    "https://graubuenden.ch/en/gastronomy/hotel-bodenhaus",
+    "https://www.komoot.com/highlight/4771423"
+   ]
+  },
+  {
+   "id": "weberdavos",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have cake at Weber bakery-café in Davos Dorf",
+   "desc": "Weber Bäckerei-Konditorei Café Bar Restaurant on the Promenade offers a large selection of homemade cakes and café specialities, with home-style cooking from 11:00.",
+   "tip": "Hours listed roughly 06:00 to 19:00; ask whether Bündner Nusstorte is available, as sources do not confirm it.",
+   "q": "Weber Bäckerei Konditorei, Promenade 148, Davos Dorf",
+   "ll": [
+    46.80782,
+    9.83839
+   ],
+   "src": [
+    "https://www.davos.ch/en/experience/culinary-nightlife/restaurants/weber-baeckerei-konditorei-cafe-bar-restaurant",
+    "https://www.suedostschweiz.ch/schweiz-und-welt/beste-baeckerei-graubuendens-in-davos-948043"
+   ]
+  },
+  {
+   "id": "chalavainamuestair",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at Hotel Chasa Chalavaina in Müstair",
+   "desc": "The inn is first mentioned in 1254, and its name recalls the 1499 Battle of the Calven, for which Grisons captains held a war council here. The kitchen follows a nose-to-tail concept with fresh garden ingredients.",
+   "tip": "Restaurant closed Sunday and Monday evenings; bar open summer only. Phone +41 81 858 54 68.",
+   "q": "Hotel Chasa Chalavaina, Plaz Grond 24, Müstair",
+   "ll": [
+    46.6296,
+    10.4496
+   ],
+   "src": [
+    "https://www.graubuenden.ch/en/gastronomy/hotel-chasa-chalavaina",
+    "https://www.val-muestair.ch/en/hotel-chasa-chalavaina-0"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1207 @@
+{
+ "new": [
+  {
+   "id": "thuncastle",
+   "cat": "gor",
+   "area": "oberland",
+   "title": "Climb the keep of Thun Castle for the town view",
+   "desc": "Thun Castle crowns the Schlossberg above the old town. Its keep houses a historical museum that has operated since 1888, and the tower gives views over the roofs, the Aare and the lake.",
+   "tip": "Check hours first: the museum is open daily in spring and summer but only Sundays 1 to 4 pm from November to January.",
+   "q": "Schloss Thun, Schlossberg 1, 3600 Thun",
+   "ll": [
+    46.75992,
+    7.62972
+   ],
+   "src": [
+    "https://schlossthun.ch/en/",
+    "https://www.myswitzerland.com/en-ie/experiences/thun-castle/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "spiezcastle",
+   "cat": "gor",
+   "area": "oberland",
+   "title": "Explore Spiez Castle and its lakeside church",
+   "desc": "Schloss Spiez is a medieval castle on a hill above Lake Thun. Its museum covers about 1,300 years of local history, with rooms from the 13th to 18th centuries and a tower viewing platform.",
+   "tip": "Church and gardens are free; the museum is open roughly Good Friday to mid-October, Tuesday to Sunday.",
+   "q": "Schloss Spiez, Schlossstrasse 16, 3700 Spiez",
+   "ll": [
+    46.68938,
+    7.68747
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/spiez-castle-museum",
+    "https://dieschweizerschloesser.ch.hulk.mesch.ch/en/our-castles/spiez-castle"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "oberhofencastle",
+   "cat": "gor",
+   "area": "oberland",
+   "title": "Stroll the gardens of Oberhofen Castle on the lake",
+   "desc": "Schloss Oberhofen stands right on the shore of Lake Thun, with a medieval keep, a 15th-century palace and a 19th-century lake tower. It is a living museum with rooms furnished in styles from the 16th to 19th centuries, set in a large park.",
+   "tip": "Park is free to enter; the museum runs from mid-May to mid-October (about 11 am to 5 pm). The boat landing is beside the castle.",
+   "q": "Schloss Oberhofen, Staatsstrasse 2, 3653 Oberhofen am Thunersee",
+   "ll": [
+    46.72968,
+    7.66857
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Oberhofen_Castle",
+    "https://www.myswitzerland.com/en-ch/experiences/oberhofen-castle-living-museum-and-park/"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "beatuscaves",
+   "cat": "gor",
+   "area": "oberland",
+   "title": "Walk the St. Beatus Caves and the dragon legend",
+   "desc": "Show caves on Lake Thun in the Niederhorn massif, with over a kilometre of lit walkways, a cave museum and a legend of a dragon driven out by the monk Beatus in the 6th century.",
+   "tip": "Guided tours last about 75 minutes. Open seasonally, so confirm dates at beatushoehlen.ch. There is a restaurant at the entrance.",
+   "q": "St. Beatus-Höhlen, Beatushöhlen-Strasse, 3800 Sundlauenen",
+   "ll": [
+    46.68467,
+    7.78231
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/st-beatus-caves-sundlauenen/",
+    "https://showcaves.com/english/ch/showcaves/Beatus.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "staubbach",
+   "cat": "gor",
+   "area": "oberland",
+   "title": "See the 297 m Staubbach Falls in Lauterbrunnen",
+   "desc": "Staubbach Falls drops 297 metres, one of the highest free-falling waterfalls in Europe, right by Lauterbrunnen village. The name means dust creek and the falls are said to have inspired Goethe.",
+   "tip": "About five minutes on foot from the station. The Staubbach gallery behind the falls is open May to October; in winter the falls can freeze.",
+   "q": "Staubbachfall, Lauterbrunnen",
+   "ll": [
+    46.58978,
+    7.90543
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Staubbach_Falls",
+    "https://www.jungfrau.ch/en-gb/lauterbrunnen/staubbach-falls/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "truemmelbach",
+   "cat": "gor",
+   "area": "oberland",
+   "title": "Follow the glacier waterfalls inside Trümmelbach Falls",
+   "desc": "Ten glacier-fed waterfalls thunder inside the rock of the Lauterbrunnen valley, reached by a tunnel lift and walkways. The falls carry meltwater from the Eiger, Mönch and Jungfrau.",
+   "tip": "Open early April to early November, daily 9 am to 5 pm (July and August from 8:30 am to 6 pm). Wear a jacket for the spray.",
+   "q": "Trümmelbachfälle, Trümmelbachstrasse, 3822 Lauterbrunnen",
+   "ll": [
+    46.57001,
+    7.91321
+   ],
+   "src": [
+    "https://truemmelbachfaelle.ch/e/",
+    "https://jungfrauregion.swiss/en/summer/see-and-do/excursions/trip-destinations/truemmelbach-waterfalls"
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "id": "giessbachfalls",
+   "cat": "gor",
+   "area": "oberland",
+   "title": "Ride the 1879 Giessbach funicular to the falls",
+   "desc": "The Giessbach Falls cascade down 14 steps above Lake Brienz, and a path leads behind the water. The Giessbachbahn, running since 1879, is one of Europe's oldest funiculars and a mechanical engineering landmark.",
+   "tip": "Take the boat to the Giessbach landing and ride the funicular up to the Grandhotel. Service is mainly April to October.",
+   "q": "Giessbachfälle, Giessbachbahn, 3855 Brienz",
+   "ll": [
+    46.73355,
+    8.02382
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/giessbach-funicular-railway/",
+    "https://en.wikipedia.org/wiki/Giessbach_Funicular"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "ballenberg",
+   "cat": "gor",
+   "area": "oberland",
+   "title": "Wander the historic houses of Ballenberg",
+   "desc": "Ballenberg is the Swiss open-air museum near Brienz, with farmhouses and workshops moved from all regions of the country, plus traditional crafts and farm animals.",
+   "tip": "Open mid-April to late October or early November, 10 am to 5 pm. Allow a full day and use the two entrances at Hofstetten and Brienz.",
+   "q": "Freilichtmuseum Ballenberg, Museumstrasse 131, 3858 Hofstetten bei Brienz",
+   "ll": [
+    46.7487,
+    8.0804
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-ch/experiences/open-air-museum-ballenberg/",
+    "https://ballenberg.ch/en/about-us/museum/"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "aareschlucht",
+   "cat": "gor",
+   "area": "oberland",
+   "title": "Walk the walkways of the Aare Gorge",
+   "desc": "The Aare cut a limestone gorge near Meiringen, and a walkway clings to the rock face with tunnels and galleries. The gorge has two entrances, west and east.",
+   "tip": "Open about April to early November, daily from 8:30 am; the west entrance opens earlier than the east.",
+   "q": "Aareschlucht West, Aareschlucht, 3860 Meiringen",
+   "ll": [
+    46.72127,
+    8.1986
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/aare-gorge/",
+    "https://alpen-paesse.ch/en/accommodation-and-experiences/aareschlucht"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "reichenbach",
+   "cat": "gor",
+   "area": "oberland",
+   "title": "Ride the Reichenbach funicular to Holmes's falls",
+   "desc": "The Reichenbach Falls tumble about 110 metres above Meiringen and are where Conan Doyle's 1893 story The Final Problem has Holmes and Moriarty fall. The funicular has climbed to the falls since 1899.",
+   "tip": "The funicular runs seasonally (roughly May to October); a combined ticket with the Sherlock Holmes Museum is sold. Hiking up from the valley is also possible.",
+   "q": "Reichenbachfall-Bahn, Willigen, 3860 Meiringen",
+   "ll": [
+    46.71912,
+    8.18741
+   ],
+   "src": [
+    "https://grimselwelt.ch/en/railways/reichenbachfall-bahn",
+    "https://en.wikipedia.org/wiki/Reichenbach_Falls"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "oeschinensee",
+   "cat": "gor",
+   "area": "oberland",
+   "title": "Visit Oeschinensee by gondola from Kandersteg",
+   "desc": "Oeschinensee is a high-alpine lake at about 1,578 m beneath the Blüemlisalp massif. The gondola from Kandersteg reaches a mountain station, from where a walk of about 30 minutes leads down to the shore.",
+   "tip": "Book the gondola time slot online in summer. A summer toboggan run sits next to the upper station and rowboats are for hire.",
+   "q": "Oeschinensee, Kandersteg",
+   "ll": [
+    46.4987,
+    7.727
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Oeschinen_Lake",
+    "https://www.myswitzerland.com/en-ca/experiences/gondola-to-lake-oeschinen"
+   ]
+  },
+  {
+   "id": "jungfraujoch",
+   "cat": "gor",
+   "area": "oberland",
+   "title": "Ride the Jungfrau railway to the Top of Europe",
+   "desc": "The Jungfraujoch saddle at 3,454 m is reached by train through the Eiger and Mönch. The site includes the Sphinx observatory at 3,571 m, completed in 1937, with a viewing deck.",
+   "tip": "Book early and check the webcam; fog can ruin the view. Tickets are expensive, and Swiss and Jungfrau passes give discounts.",
+   "q": "Jungfraujoch Top of Europe, Jungfraujoch, 3801 Grindelwald",
+   "ll": [
+    46.5475,
+    7.9854
+   ],
+   "src": [
+    "https://www.jungfrau.ch/en-gb/jungfraujoch-top-of-europe/sphinx-observation-deck",
+    "https://www.jungfrau.ch/en-gb/discover-top-of-europe/sphinx-cutting-edge-research-for-the-world"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "schilthorn",
+   "cat": "gor",
+   "area": "oberland",
+   "title": "Ride to Piz Gloria on the Schilthorn",
+   "desc": "The Schilthorn summit (2,970 m) holds the revolving restaurant Piz Gloria, used in the 1969 James Bond film On Her Majesty's Secret Service. Cable cars run from Stechelberg through Mürren and Birg, including the world's steepest section.",
+   "tip": "Open all year; check weather first. A return from Mürren costs less than from Stechelberg, and the Bond World exhibition is at the top.",
+   "q": "Schilthorn Piz Gloria, Schilthorn, 3825 Mürren",
+   "ll": [
+    46.5586,
+    7.835
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-ie/experiences/up-the-piz-gloria-onboard-a-record-breaking-cableway/",
+    "https://www.interlaken.ch/en/experiences/poi/schilthorn-gondola-cable-car"
+   ]
+  },
+  {
+   "id": "gletscherschlucht",
+   "cat": "gor",
+   "area": "oberland",
+   "title": "Cross the Glacier Canyon boardwalks near Grindelwald",
+   "desc": "The Gletscherschlucht is a gorge cut by meltwater from the Lower Grindelwald Glacier, with a walkway about 1 km long through rock galleries and tunnels. A crystal museum and cafe are at the exit.",
+   "tip": "Open about May to November, usually from around 9:30 am. Bus 122 from Grindelwald station goes to the entrance.",
+   "q": "Gletscherschlucht Grindelwald, Gletscherschlucht 1, 3818 Grindelwald",
+   "ll": [
+    46.611,
+    8.05029
+   ],
+   "src": [
+    "https://outdoor.ch/en/outdoor-experience/glacier-canyon-grindelwald",
+    "https://showcaves.com/english/ch/gorges/Gletscher.html"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "id": "harderkulm",
+   "cat": "gor",
+   "area": "oberland",
+   "title": "Step onto the Two Lakes Bridge at Harder Kulm",
+   "desc": "The Harder funicular climbs 755 m from Interlaken Ost in about ten minutes. At the top the glazed Zwei-Seen-Steg platform looks over lakes Thun and Brienz and the Eiger, Mönch and Jungfrau.",
+   "tip": "Funicular runs from April to end of November (2026: 3 April to 29 November), with evening trips in summer.",
+   "q": "Harder Kulm, Harderkulm, 3800 Interlaken",
+   "ll": [
+    46.6993,
+    7.8539
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-ch/experiences/harder-kulm/",
+    "https://www.interlaken.ch/en/experiences/poi/harder-funicular-railway"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "id": "iseltwald",
+   "cat": "gor",
+   "area": "oberland",
+   "title": "Photograph Seeburg castle on the Iseltwald peninsula",
+   "desc": "Iseltwald is a small village on Lake Brienz, known for Seeburg, a lakeside castle on a peninsula. It is viewed from the water or from paths such as the Farnihubel viewpoint, as it is not open to visitors.",
+   "tip": "Reach it by lake boat from Interlaken or Brienz, or walk the shore path from Giessbach.",
+   "q": "Schloss Seeburg, Seeburg, 3807 Iseltwald",
+   "ll": [
+    46.71321,
+    7.96587
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-ch/destinations/iseltwald/",
+    "https://interlaken.ch/en/destinations/lake-brienz/boenigen-iseltwald"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sherlockmuseum",
+   "cat": "gor",
+   "area": "oberland",
+   "title": "Visit the Sherlock Holmes Museum in Meiringen",
+   "desc": "The small museum on Conan Doyle Place opened in 1991 and shows Victorian-era items and a replica of the 221B Baker Street sitting room. A statue of Holmes stands outside.",
+   "tip": "Opening hours are reduced outside May to October; check sherlockholmes.ch. Combined tickets with the funicular exist.",
+   "q": "Sherlock Holmes Museum, Conan Doyle Place, 3860 Meiringen",
+   "ll": [
+    46.72694,
+    8.18735
+   ],
+   "src": [
+    "https://sherlockholmes.ch/en/Info/Museum",
+    "https://www.myswitzerland.com/en/experiences/sherlock-holmes-museum/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "engstligenfaelle",
+   "cat": "gor",
+   "area": "oberland",
+   "title": "See the Engstligen Falls above Adelboden",
+   "desc": "The Engstligen Falls drop about 600 m and are described as the second-highest waterfall in Switzerland. The cable car to Engstligenalp passes the falls, and the plateau above has mountain restaurants.",
+   "tip": "Walking from Adelboden takes about 1.5 hours. The plateau is also a winter destination.",
+   "q": "Engstligenfälle, Engstligenalp, 3715 Adelboden",
+   "ll": [
+    46.45229,
+    7.56176
+   ],
+   "src": [
+    "https://maps.adac.de/poi/engstligenfaelle",
+    "https://www.alpen-guide.de/reisefuehrer/poi/engstligenalp-adelboden"
+   ]
+  },
+  {
+   "id": "blausee",
+   "cat": "gor",
+   "area": "oberland",
+   "title": "Walk through Blausee nature park and its trout ponds",
+   "desc": "Blausee is a small clear lake in a car-free park of about 20 hectares near Kandersteg, with an organic trout farm, forest paths and a lakeside restaurant serving the trout.",
+   "tip": "Entry fee includes the trout ponds. Check blausee.ch for hours, as parts close for maintenance in winter.",
+   "q": "Blausee, Blausee-Mitholz, 3717 Kandergrund",
+   "ll": [
+    46.53306,
+    7.66563
+   ],
+   "src": [
+    "https://www.blausee.ch/en/welcome/",
+    "https://www.myswitzerland.com/en-ie/destinations/blausee/"
+   ]
+  },
+  {
+   "id": "thunoldtown",
+   "cat": "gor",
+   "area": "oberland",
+   "title": "Walk Thun's two-level Obere Hauptgasse",
+   "desc": "Thun's old town has a main street with raised pavements on two levels, shops on the upper tier and views up to the castle. Rathausplatz, the historic centre, hosts a Saturday market.",
+   "tip": "Continue to Mühleplatz for restaurants and bars, and go up the covered stairs to the castle.",
+   "q": "Obere Hauptgasse, 3600 Thun",
+   "ll": [
+    46.7587,
+    7.6277
+   ],
+   "src": [
+    "https://www.brienzersee.ch/en/experiences/poi/thun-old-town",
+    "https://www.myswitzerland.com/ru/experiences/old-town-of-thun/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "brienzwoodcarving",
+   "cat": "gor",
+   "area": "oberland",
+   "title": "Visit Brienz, Switzerland's woodcarving capital",
+   "desc": "The village on Lake Brienz is home to Switzerland's only woodcarving school, founded in 1884, and the Swiss Woodcarving Museum, founded in 2009. Visitors can watch students at work in the showroom.",
+   "tip": "The museum is open Wednesday to Sunday afternoons from about May to October, and the school showroom has its own hours.",
+   "q": "Museum der Holzbildhauerei, Brienz BE, 3855 Brienz",
+   "ll": [
+    46.75441,
+    8.03365
+   ],
+   "src": [
+    "https://museum-holzbildhauerei.ch/en/?p=1529",
+    "https://interlaken.ch/en/experiences/poi/the-school-of-woodcarving-showroom"
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "sigriswilbridge",
+   "cat": "gor",
+   "area": "oberland",
+   "title": "Cross the Sigriswil Panoramabrücke over Gummischlucht",
+   "desc": "A 340 m steel suspension bridge spans the 182 m deep Gummi gorge between Sigriswil and Aeschlen, with views of Lake Thun and the Eiger, Mönch and Jungfrau.",
+   "tip": "Open all year, with a modest day fee. Bus 25 runs from Thun station to Sigriswil.",
+   "q": "Panoramabrücke Sigriswil, 3655 Sigriswil",
+   "ll": [
+    46.71839,
+    7.70724
+   ],
+   "src": [
+    "https://www.thunersee.ch/en/experiences/poi/sigriswil-panoramic-bridge",
+    "https://madeinbern.com/en/angebote/sigriswil-suspension-bridge"
+   ]
+  },
+  {
+   "id": "schadau",
+   "cat": "gor",
+   "area": "oberland",
+   "title": "See the Thun-Panorama of 1814 at Schadaupark",
+   "desc": "Schloss Schadau (1846 to 1854, Gothic Revival) stands in a park on Lake Thun. Next to it a rotunda houses the 38 m Thun-Panorama painted by Marquard Wocher in 1809 to 1814, regarded as the oldest surviving panorama painting.",
+   "tip": "The park is free; check thun-panorama.com for museum hours.",
+   "q": "Schadaupark, Seestrasse 45, 3600 Thun",
+   "ll": [
+    46.74618,
+    7.63566
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Schadau_Castle",
+    "https://www.interlaken.swiss/erlebnisse/poi/schloss-schadau"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hohematte",
+   "cat": "gor",
+   "area": "oberland",
+   "title": "Look at the Jungfrau from Interlaken's Höhematte",
+   "desc": "The Höhematte is the central meadow of Interlaken between Höheweg and Jungfraustrasse, protected since 1864, and the main landing field for paragliders with a classic view of the Jungfrau.",
+   "tip": "Walk along the Höheweg promenade past the Victoria-Jungfrau hotel for the best view.",
+   "q": "Höhematte, Höheweg, 3800 Interlaken",
+   "ll": [
+    46.68624,
+    7.85826
+   ],
+   "src": [
+    "https://www.myswitzerland.com/pt/interesses/photo-spot-hoehematte-interlaken/",
+    "https://www.interlaken.swiss/en/experiences/poi/hoeheweg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "blumlisalp",
+   "cat": "dene",
+   "area": "oberland",
+   "title": "Cruise Lake Thun on the paddle steamer Blümlisalp",
+   "desc": "The Blümlisalp, built in 1906, is a paddle steamer that BLS runs on Lake Thun between April and October after a restoration that brought it back in 1992.",
+   "tip": "Boats leave from the Thun jetty; check the BLS timetable, since the steamer does not sail every day.",
+   "q": "BLS Schifffahrt, Lachenweg 19, 3600 Thun",
+   "ll": [
+    46.7555,
+    7.6325
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Blümlisalp_(Schiff)"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "rothornbahn",
+   "cat": "dene",
+   "area": "oberland",
+   "title": "Ride the steam cog railway up the Brienzer Rothorn",
+   "desc": "The Brienz Rothorn Railway has run since 1892 and is a steam rack railway of about 7.6 km, climbing for about an hour past eight tunnels to the summit area at 2,244 m.",
+   "tip": "The 2026 season ran 6 June to 25 October; book a seat guarantee in summer as trains can sell out.",
+   "q": "Brienz Rothorn Bahn, Hauptstrasse, 3855 Brienz",
+   "ll": [
+    46.75502,
+    8.03846
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Brienz_Rothorn_Railway",
+    "https://www.brienzersee.ch/en/experiences/poi/brienz-rothorn-railway"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "firstcliffwalk",
+   "cat": "dene",
+   "area": "oberland",
+   "title": "Step out on the First Cliff Walk above Grindelwald",
+   "desc": "A cliffside walkway at around 2,166 m on First, reached by gondola from Grindelwald, with a viewing platform over a drop. Next door the First Flyer zipline runs 800 m to Schreckfeld.",
+   "tip": "The cliff walk is free once you hold a gondola ticket; the gondola ride takes about 25 minutes.",
+   "q": "First Cliff Walk by Tissot, First, 3818 Grindelwald",
+   "ll": [
+    46.66,
+    8.0525
+   ],
+   "src": [
+    "https://www.jungfrau.ch/en-gb/grindelwald-first/first-cliff-walk-by-tissot/",
+    "https://www.myswitzerland.com/en/experiences/grindelwald-first/"
+   ]
+  },
+  {
+   "id": "bachalpsee",
+   "cat": "dene",
+   "area": "oberland",
+   "title": "Hike from First to the Bachalpsee mirror lake",
+   "desc": "An easy, mostly flat walk of about an hour each way from the First gondola station to the Bachalpsee, a lake at 2,265 m.",
+   "tip": "Buy a gondola ticket to First. The path continues to the Faulhorn for a longer day.",
+   "q": "Bachalpsee, First, 3818 Grindelwald",
+   "ll": [
+    46.66958,
+    8.02095
+   ],
+   "src": [
+    "https://www.brienzersee.ch/en/experiences/tour/first-bachalpsee-first",
+    "https://fullsuitcase.com/BACHALPSEE/"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "schynigeplatte",
+   "cat": "dene",
+   "area": "oberland",
+   "title": "Ride the 1893 cog railway to Schynige Platte",
+   "desc": "A cog railway has run from Wilderswil to Schynige Platte since 1893, taking about 52 minutes. At the top an alpine botanical garden shows around 600 species.",
+   "tip": "Runs about late May to October; check the timetable.",
+   "q": "Schynige Platte, 3812 Wilderswil",
+   "ll": [
+    46.65107,
+    7.90955
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Schynige_Platte_Railway",
+    "https://en.wikipedia.org/wiki/Schynige_Platte_Alpine_Garden"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "mannlichen",
+   "cat": "dene",
+   "area": "oberland",
+   "title": "Walk the Männlichen to Kleine Scheidegg panorama trail",
+   "desc": "A ridge path of about 4.5 to 6 km with views of the Eiger, Mönch and Jungfrau. It is mostly easy and downhill, and the Wengernalp Railway can take you from Kleine Scheidegg back to Wengen.",
+   "tip": "Take the Wengen to Männlichen cable car. Allow about 1.5 hours.",
+   "q": "Männlichen, 3823 Wengen",
+   "ll": [
+    46.61316,
+    7.94095
+   ],
+   "src": [
+    "https://www.interlaken.ch/en/experiences/tour/from-maennlichen-to-kleine-scheidegg",
+    "https://www.earthtrekkers.com/mannlichen-to-kleine-scheidegg-panorama-trail/"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "faulhorn",
+   "cat": "dene",
+   "area": "oberland",
+   "title": "Hike the Faulhornweg from Schynige Platte to First",
+   "desc": "A long day hike of about 15 to 16 km and 6 hours via the Faulhorn summit at 2,680 m, with views of Lake Thun and Lake Brienz, passing Bachalpsee before ending at First.",
+   "tip": "Hike in summer and check trail conditions. You can split it with a night at the Faulhorn hotel.",
+   "q": "Faulhorn, 3818 Grindelwald",
+   "ll": [
+    46.67432,
+    7.99914
+   ],
+   "src": [
+    "https://brienzersee.ch/en/experiences/tour/schynige-platte-faulhorn-first",
+    "https://earthtrekkers.com/hike-schynige-platte-to-faulhorn-to-first-switzerland"
+   ],
+   "months": [
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "niesen",
+   "cat": "dene",
+   "area": "oberland",
+   "title": "Ride the Niesenbahn funicular to the Niesen summit",
+   "desc": "The Niesenbahn climbs 3.5 km in two sections from Mülenen to Niesen Kulm at 2,336 m, opened in 1910, and takes about 30 minutes in total.",
+   "tip": "Runs daily from end of April to mid-November. The valley station is 4 minutes from Mülenen station.",
+   "q": "Niesenbahn, Mülenen, 3711 Mülenen",
+   "ll": [
+    46.63942,
+    7.69021
+   ],
+   "src": [
+    "https://niesen.ch/en/niesenbahn",
+    "https://en.wikipedia.org/wiki/Niesenbahn"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "id": "allmendhubel",
+   "cat": "dene",
+   "area": "oberland",
+   "title": "Take the Allmendhubel funicular and flower trail",
+   "desc": "A four-minute funicular from Mürren to a 1,907 m viewpoint with a flower trail and a children's playground. The flower trail runs about 2 km back down to Mürren.",
+   "tip": "Operates in summer from about mid-June to mid-October, with revision breaks, so check before going.",
+   "q": "Allmendhubelbahn, 3825 Mürren",
+   "ll": [
+    46.56238,
+    7.89081
+   ],
+   "src": [
+    "https://www.interlaken.ch/en/experiences/poi/funicular-railway-muerren-allmendhubel",
+    "https://unterwegs.sob.ch/en/tour/muerren-allmendhubel-with-flower-trail-1h"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "niederhorn",
+   "cat": "dene",
+   "area": "oberland",
+   "title": "Ride up to the Niederhorn above Lake Thun",
+   "desc": "A funicular from Beatenbucht to Beatenberg and a cable car carry visitors to the Niederhorn summit with a panorama of the Eiger, Mönch and Jungfrau and lake views.",
+   "tip": "The funicular runs all year; the cable car is seasonal, and one listing notes a technical suspension, so check niederhorn.ch.",
+   "q": "Niederhornbahn, 3803 Beatenberg",
+   "ll": [
+    46.7,
+    7.785
+   ],
+   "src": [
+    "https://www.interlaken.ch/en/experiences/poi/niederhorn-gondola-cable-car",
+    "https://www.thunersee.ch/en/experiences/poi/niederhorn-gondola-cable-car"
+   ]
+  },
+  {
+   "id": "paragliding",
+   "cat": "dene",
+   "area": "oberland",
+   "title": "Fly a tandem paraglider over Interlaken",
+   "desc": "Skywings runs tandem flights from Beatenberg, landing in Interlaken, with pickup from town included. No experience is needed.",
+   "tip": "Weight limits of about 80 to 90 kg apply, and flights are year-round but weather dependent.",
+   "q": "Skywings Paragliding, Höheweg 56, 3800 Interlaken",
+   "ll": [
+    46.68836,
+    7.86191
+   ],
+   "src": [
+    "https://www.interlaken.swiss/en/experiences/poi/skywings-paragliding",
+    "https://www.brienzersee.ch/en/experiences/poi/skywings-paragliding"
+   ]
+  },
+  {
+   "id": "brienzerseeboat",
+   "cat": "dene",
+   "area": "oberland",
+   "title": "Take a lake boat from Interlaken Ost to Giessbach and Iseltwald",
+   "desc": "Boats on Lake Brienz run from Interlaken Ost past Iseltwald and the Giessbach Falls to Brienz, calling at Oberried and Niederried.",
+   "tip": "Season is about mid-April to mid-October. Day passes are sold, and you can hop off at Giessbach or Iseltwald.",
+   "q": "Schiffsteg Interlaken Ost, 3800 Interlaken",
+   "ll": [
+    46.69045,
+    7.869
+   ],
+   "src": [
+    "https://www.brienzersee.ch/en/experiences/lakes-waterfalls/lake-brienz/cruises-on-lake-brienz",
+    "https://jungfrauregion.swiss/en/map/detail/lake-cruise-on-lake-brienz-e23e0dfd-85ac-4c8c-a08d-7dd76cd8f165.html"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "gelmerbahn",
+   "cat": "dene",
+   "area": "oberland",
+   "title": "Ride the Gelmerbahn, Europe's steepest open funicular",
+   "desc": "The Gelmerbahn climbs from Handeck to the Gelmersee at about 1,850 m, with a maximum gradient of 106 percent and a rattling 12-minute ride.",
+   "tip": "The season is about May to October. Buy tickets online; dam access was restricted in summer 2026.",
+   "q": "Gelmerbahn, Handeck, 3862 Innertkirchen",
+   "ll": [
+    46.61374,
+    8.30994
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/gelmerbahn-funicular-railway",
+    "https://www.grimselwelt.ch/en/transport-lift/gelmer"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "gasterntal",
+   "cat": "dene",
+   "area": "oberland",
+   "title": "Hike the Gasterntal from Kandersteg",
+   "desc": "The Gasterntal is a wild glacial valley south of Kandersteg, walked from Sunnbüel to Selden along the Kander. The easy version is about 8.9 km in 3 hours.",
+   "tip": "The bus from Selden to Kandersteg runs June to October and must be reserved. Hotel Waldhaus and Berghotel Gasterntal are on the way.",
+   "q": "Gasterntal, Sunnbüel, 3718 Kandersteg",
+   "ll": [
+    46.44468,
+    7.72668
+   ],
+   "src": [
+    "https://www.interlaken.ch/en/experiences/tour/gasterntal-valley-hike-with-an-impressive-mountain-backdrop",
+    "https://www.kisc.ch/node/247"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "simmenfaelle",
+   "cat": "dene",
+   "area": "oberland",
+   "title": "Walk the valley path from Lenk to the Simmen Falls",
+   "desc": "A level walk of about 5.3 km (about 1 hour 20 minutes) leads from Lenk to the Simmenfälle, where the Simme river cascades. The Seven Springs are a nearby karst spring on longer routes.",
+   "tip": "The official season is June to October. Buses return to Lenk.",
+   "q": "Simmenfälle, 3775 Lenk",
+   "ll": [
+    46.42681,
+    7.4762
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-ie/experiences/seven-springs-and-the-simmen-falls/",
+    "https://lenk-simmental.ch/en/experiences-tours/touren-detailseite/detail/along-the-valley-floor-from-lenk-to-the-simmen-falls"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "schwaebis",
+   "cat": "dene",
+   "area": "oberland",
+   "title": "Swim at the Schwäbis river pool on the Aare",
+   "desc": "The Schwäbis is Thun's river pool, with bathing since 1884, separate swimmer and non-swimmer areas, a slide and a sandpit. Rafting and float trips to Bern start here.",
+   "tip": "Open daily May to September. The current is strong, so only confident swimmers should go in the main river.",
+   "q": "Flussbad Schwäbis, Thun",
+   "ll": [
+    46.76172,
+    7.62394
+   ],
+   "src": [
+    "https://www.thunersee.ch/en/experiences/poi/schwaebis-river-pool",
+    "https://www.brienzersee.ch/en/experiences/poi/schwaebis-river-pool"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "eigertrail",
+   "cat": "dene",
+   "area": "oberland",
+   "title": "Hike the Eiger Trail below the north face",
+   "desc": "A gravel path of about 6 km along the foot of the Eiger north face between Eigergletscher and Alpiglen, rated moderate, with a short uphill section. The north face was first climbed in 1938.",
+   "tip": "Reach Eigergletscher by train and finish at Alpiglen. Bring food and water as there is none between.",
+   "q": "Eigergletscher, 3818 Grindelwald",
+   "ll": [
+    46.5748,
+    7.97486
+   ],
+   "src": [
+    "https://www.jungfrau.ch/en-gb/eiger-trail/",
+    "https://www.thunersee.ch/en/experiences/tour/on-the-eigertrail-eiger-north-face-up-close"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "lauberhorn",
+   "cat": "dene",
+   "area": "oberland",
+   "title": "Watch the Lauberhorn downhill at the Hundschopf in Wengen",
+   "desc": "The Lauberhorn races in Wengen began in 1930 and the downhill is 4.48 km, the longest on the World Cup circuit. The Hundschopf is a jump about a third of the way down.",
+   "tip": "Held in mid-January. Wengen is car-free, reached by train from Lauterbrunnen.",
+   "q": "Hundschopf, Lauberhorn, 3823 Wengen",
+   "ll": [
+    46.57841,
+    7.93861
+   ],
+   "src": [
+    "https://www.lauberhorn.ch/en/home-of-legends/article/hund-schopf-oder-hunds-chopf/",
+    "https://en.wikipedia.org/wiki/Lauberhorn_ski_races"
+   ],
+   "months": [
+    1
+   ]
+  },
+  {
+   "id": "gstaadpromenade",
+   "cat": "dene",
+   "area": "oberland",
+   "title": "Walk the Gstaad Promenade and village loop",
+   "desc": "The Promenade is Gstaad's short pedestrian street, with a village loop past the Gstaad Palace and the 1905 railway viaduct and on through Mettlenwald.",
+   "tip": "The loop takes about an hour. Guided village tours run on Fridays at 10 am.",
+   "q": "Promenade, 3780 Gstaad",
+   "ll": [
+    46.47358,
+    7.28648
+   ],
+   "src": [
+    "https://www.gstaad.ch/en/plan-book/tour/detail/gstaad-village-loop",
+    "https://www.myswitzerland.com/en-in/experiences/events/guided-village-tour-of-gstaad/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "schuh",
+   "cat": "ye",
+   "area": "oberland",
+   "title": "Order house torte and pralines at Grand Café Schuh",
+   "desc": "Grand Café Restaurant Schuh on the Höheweg is a confiserie, café and restaurant that has sold chocolate and coffee since 1818 and serves Swiss dishes, fondue and pastries.",
+   "tip": "Take a slice of torte or pralines with coffee on the large terrace; open daily, later on weekdays.",
+   "q": "Grand Café Restaurant Schuh, Höheweg 56, 3800 Interlaken",
+   "ll": [
+    46.68547,
+    7.85671
+   ],
+   "src": [
+    "https://interlaken.ch/en/gastro/grand-caf-restaurant-schuh",
+    "https://int-meetings.myswitzerland.com/en/restaurant/grand-cafe-restaurant-schuh"
+   ]
+  },
+  {
+   "id": "ruedihus",
+   "cat": "ye",
+   "area": "oberland",
+   "title": "Eat raclette in the 18th-century Landgasthof Ruedihus",
+   "desc": "A restored 18th-century chalet inn on the edge of Kandersteg, with painted panelling, serving regional dishes such as raclette and fondue.",
+   "tip": "Opposite the Waldhotel Doldenhorn; book ahead for dinner.",
+   "q": "Landgasthof Ruedihus, Kandersteg",
+   "ll": [
+    46.48748,
+    7.66724
+   ],
+   "src": [
+    "https://greatsmallhotels.com/kandersteg-boutique-hotels/landgasthof-ruedihus",
+    "https://www.myswitzerland.com/en-il/accommodations/landgasthof-ruedihus/"
+   ]
+  },
+  {
+   "id": "giessbachelisa",
+   "cat": "ye",
+   "area": "oberland",
+   "title": "Eat Lake Brienz fish at Elisa at Giessbach",
+   "desc": "The Grandhotel Giessbach's bistro Elisa serves fish from Lake Brienz and vegetables from the hotel's 2 hectare garden, on a terrace above the lake and falls.",
+   "tip": "Open spring to autumn, lunch and dinner. Reach it by boat and funicular.",
+   "q": "Elisa Bistro & Terrasse, Grandhotel Giessbach, 3855 Brienz",
+   "ll": [
+    46.73533,
+    8.02354
+   ],
+   "src": [
+    "https://guide.michelin.com/en/bern-region/brienz/restaurant/elisa-bistro-terrasse",
+    "https://www.myswitzerland.com/en-sg/experiences/food-wine/restaurant/elisa-bistro-terrasse"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "fromagerie",
+   "cat": "ye",
+   "area": "oberland",
+   "title": "Have cheese fondue at La Fromagerie in Gstaad Palace",
+   "desc": "The fondue restaurant of the Gstaad Palace sits in a bunker where a Swiss bank stored gold in the Second World War, and is the hotel's most popular restaurant.",
+   "tip": "Reserve ahead; it is an upmarket hotel experience.",
+   "q": "La Fromagerie, Gstaad Palace, Palacestrasse 28, 3780 Gstaad",
+   "ll": [
+    46.4728,
+    7.2778
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/gstaad-palace-la-fromagerie/",
+    "https://www.gstaad.ch/en/winter/discover-explore/enjoying-the-alps/cuisine"
+   ]
+  },
+  {
+   "id": "steinmann",
+   "cat": "ye",
+   "area": "oberland",
+   "title": "Buy Thunfischli almond cakes at Confiserie Steinmann",
+   "desc": "Confiserie Tea Room Steinmann in Thun's Bälliz has made hand-decorated truffles and pastries since 1920 and serves coffee creations and lunch. Local guides point to the Thunfischli and Thunerli as local sweets.",
+   "tip": "Closed on Sundays per one listing.",
+   "q": "Confiserie Tea Room Steinmann, Bälliz 37, 3600 Thun",
+   "ll": [
+    46.7579,
+    7.6285
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/confiserie-steinmann/"
+   ]
+  },
+  {
+   "id": "scheideggroestizza",
+   "cat": "ye",
+   "area": "oberland",
+   "title": "Order the Röstizza at Kleine Scheidegg",
+   "desc": "The Bergrestaurant Kleine Scheidegg at 2,061 m has a terrace facing the Eiger, Mönch and Jungfrau. Its signature dish is the Röstizza, a rösti pizza.",
+   "tip": "Reach it by Wengernalp or Jungfrau Railway; the terrace is best in sun.",
+   "q": "Bergrestaurant Kleine Scheidegg, Kleine Scheidegg, 3801 Grindelwald",
+   "ll": [
+    46.5855,
+    7.9612
+   ],
+   "src": [
+    "https://www.jungfrau.ch/en-gb/food-drink/kleine-scheidegg-mountain-restaurant/",
+    "https://www.jungfrau.ch/en-gb/kleine-scheidegg/kleine-scheidegg-mountain-restaurant/"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ]
+  },
+  {
+   "id": "staegerstuebli",
+   "cat": "ye",
+   "area": "oberland",
+   "title": "Eat fondue at the Stägerstübli in Mürren",
+   "desc": "A cosy chalet restaurant in Mürren, a locals' haunt, with a terrace, serving Swiss dishes, fondue and raclette.",
+   "tip": "Warm kitchen from about 11:30 to 20:30.",
+   "q": "Restaurant Stägerstübli, 3825 Mürren",
+   "ll": [
+    46.5598,
+    7.89431
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/restaurant-staegerstuebli/",
+    "https://jungfrauregion.swiss/en/map/detail/stagerstubli-7e48d872-8e97-4332-84be-4ad508707313.html"
+   ]
+  },
+  {
+   "id": "loewenbrienz",
+   "cat": "ye",
+   "area": "oberland",
+   "title": "Try lake fish at Seerestaurant Löwen in Brienz",
+   "desc": "A lakeside restaurant in Brienz with about 70 indoor seats and a 110-seat terrace, listing fish specialties among its dishes.",
+   "tip": "Closed from mid-October to mid-March except for the Brienz Christmas market.",
+   "q": "Seerestaurant Löwen, Hauptstrasse, 3855 Brienz",
+   "ll": [
+    46.75557,
+    8.02555
+   ],
+   "src": [
+    "https://www.brienzersee.ch/en/gastro/seerestaurant-loewen",
+    "https://www.myswitzerland.com/en-us/experiences/food-wine/restaurant/hotel-restaurant-brienzerburli-und-loewen/"
+   ],
+   "months": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ]
+  },
+  {
+   "id": "schadaurestaurant",
+   "cat": "ye",
+   "area": "oberland",
+   "title": "Dine on the terrace of Schloss Schadau in Thun",
+   "desc": "The restaurant of Schloss Schadau serves modern French-Mediterranean dishes with a lake-view terrace in Schadaupark, in a Gothic Revival castle.",
+   "tip": "Open from morning to late evening; book for dinner.",
+   "q": "Schloss Schadau Restaurant, Seestrasse 45, 3600 Thun",
+   "ll": [
+    46.74608,
+    7.63739
+   ],
+   "src": [
+    "https://www.interlaken.ch/en/gastro/schloss-schadau-restaurant-thun",
+    "https://www.freizeit.ch/freizeit/19911/schloss-schadau-am-thunersee"
+   ]
+  },
+  {
+   "id": "rugenbrau",
+   "cat": "ye",
+   "area": "oberland",
+   "title": "Taste local beer at the Rugenbräu brewery in Matten",
+   "desc": "Rugenbräu is the Interlaken-area brewery in Matten, offering brewery and distillery tours and supplying the Hüsi Pub in town.",
+   "tip": "Tours may require advance booking and may be in German; check first.",
+   "q": "Rugenbräu AG, Wagnerenstrasse 40, 3800 Matten bei Interlaken",
+   "ll": [
+    46.67075,
+    7.85474
+   ],
+   "src": [
+    "https://www.beertasting.com/en/brewery/rugenbrau-interlaken",
+    "https://www.freizeit.ch/freizeit/19863/brauereibesichtigung-rugenbrau"
+   ]
+  },
+  {
+   "id": "petitchalet",
+   "cat": "ye",
+   "area": "oberland",
+   "title": "Order truffle fondue at Le Petit Chalet in Gstaad",
+   "desc": "A small old-fashioned fondue spot in the gardens of Le Grand Bellevue, known for truffle fondue, goat cheese fondue and raclette.",
+   "tip": "Book ahead in winter.",
+   "q": "Le Petit Chalet, Le Grand Bellevue, Untergstaadstrasse 17, 3780 Gstaad",
+   "ll": [
+    46.4757,
+    7.281
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-ch/experiences/food-wine/restaurant/le-grand-bellevue-le-petit-chalet/"
+   ]
+  },
+  {
+   "id": "alpiglenrosti",
+   "cat": "ye",
+   "area": "oberland",
+   "title": "Eat bratwurst with rösti at Berghaus Alpiglen",
+   "desc": "Berghaus Alpiglen sits directly beneath the Eiger north face and serves homemade bratwurst with rösti, with a children's playground.",
+   "tip": "Reach it by Wengernalp railway and combine with the Eiger Trail.",
+   "q": "Berghaus Alpiglen, Alpiglen, 3818 Grindelwald",
+   "ll": [
+    46.60041,
+    8.00384
+   ],
+   "src": [
+    "https://www.rexby.com/swissfamilyfun/ttd/mountain-restaurant-with-eiger-views",
+    "https://www.myswitzerland.com/en-gb/experiences/food-wine/restaurant-choice-search/-/grindelwald/"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  }
+ ]
+}

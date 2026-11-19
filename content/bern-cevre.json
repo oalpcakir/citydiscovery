@@ -1,0 +1,822 @@
+{
+ "new": [
+  {
+   "id": "fribourgcathedral",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the tower of Fribourg's Saint-Nicolas cathedral",
+   "desc": "The Gothic Cathédrale Saint-Nicolas has a 74 m tower reached by 365 steps, with a panorama over the old town and the Sarine gorge. Inside are the stained-glass windows by Józef Mehoffer and a famous organ.",
+   "tip": "The tower is open from 1 March to 30 November; tickets are sold at the Info Point Bourg, rue des Épouses 8. The last climb is 30 minutes before closing.",
+   "q": "Cathédrale Saint-Nicolas, Rue des Chanoines, 1700 Fribourg",
+   "ll": [
+    46.8067,
+    7.16225
+   ],
+   "src": [
+    "https://fribourg.ch/fr/fribourg/visites/la-tour-de-la-cathedrale/",
+    "https://fribourg.ch/fr/fribourg/visites/cathedrale-st-nicolas/"
+   ]
+  },
+  {
+   "id": "pontdeberne",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Cross the covered wooden Pont de Berne into the Auge",
+   "desc": "The Pont de Berne dates from the 13th century and is the last covered wooden bridge of Fribourg's lower town. It leads over the Sarine into the medieval Auge quarter.",
+   "tip": "Walk it in the morning or at dusk and continue to the Place du Petit-Saint-Jean. The funicular links the lower town with the upper town.",
+   "q": "Pont de Berne, Basse-Ville, 1700 Fribourg",
+   "ll": [
+    46.80429,
+    7.169
+   ],
+   "src": [
+    "https://fribourg.ch/fr/fribourg/architecture-et-monuments/pont-de-berne",
+    "https://fribourg.ch/fr/fribourg/architecture-et-monuments/la-basse-ville/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "funiculairefribourg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the wastewater-powered funicular in Fribourg",
+   "desc": "The Neuveville–Saint-Pierre funicular opened on 4 February 1899 and uses wastewater from the upper town as its counterweight. It is listed in Switzerland's inventory of cultural property and run by TPF.",
+   "tip": "The line closes for a few weeks each autumn for maintenance. It is covered by the local public transport tickets.",
+   "q": "Funiculaire Neuveville-St-Pierre, Planche-Supérieure, 1700 Fribourg",
+   "ll": [
+    46.8041,
+    7.15683
+   ],
+   "src": [
+    "https://blog.nationalmuseum.ch/en/2024/09/the-fribourg-funicular-powered-by-wastewater/",
+    "https://torpille.ch/listing/funiculaire-de-fribourg/"
+   ]
+  },
+  {
+   "id": "cafedugothard",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat a moitié-moitié fondue at the Café du Gothard",
+   "desc": "The Café du Gothard is a historic Fribourg bistro, listed by regional tourism as a classic place for the cantonal moitié-moitié fondue (half Gruyère, half Vacherin fribourgeois). The menu also has the Fribourg plate and the Benichon menu.",
+   "tip": "Open daily from mid-morning (Saturday and Sunday from 09:30). Reserve at weekends and in winter.",
+   "q": "Café du Gothard, Rue du Pont-Muré 16, 1700 Fribourg",
+   "ll": [
+    46.8061,
+    7.16145
+   ],
+   "src": [
+    "https://fribourg.ch/fr/inspiration/fondue-moitie-moitie/",
+    "https://www.myswitzerland.com/en-se/experiences/food-wine/restaurant/cafe-du-gothard/"
+   ]
+  },
+  {
+   "id": "tinguelyfribourg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Tinguely's machines in Fribourg's old tram depot",
+   "desc": "The Espace Jean Tinguely – Niki de Saint Phalle is housed in a tram depot built in 1900. It shows Tinguely's Retable de l'Abondance occidentale et du Mercantilisme totalitaire (1989/90) and Niki de Saint Phalle's 22 Remembering reliefs.",
+   "tip": "Closed Monday and Tuesday; open until 20:00 on Thursday. Bus 1 or 2 to Tilleul stops nearby.",
+   "q": "Espace Jean Tinguely - Niki de Saint Phalle, Rue de Morat 2, 1700 Fribourg",
+   "ll": [
+    46.80645,
+    7.1628
+   ],
+   "src": [
+    "https://fribourg.ch/fr/fribourg/musees/espace-jean-tinguely-niki-de-saint-phalle/",
+    "https://www.myswitzerland.com/en/experiences/espace-jean-tinguely-niki-de-saint-phalle/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "chateaugruyeres",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the Château de Gruyères above the village",
+   "desc": "The castle of the Counts of Gruyères overlooks the medieval village and the Gruyère countryside. It is open every day of the year, with a garden from Easter to September.",
+   "tip": "Open 09:00-18:00 from April to October and 10:00-17:00 from November to March. A combined ticket with the Giger Museum exists.",
+   "q": "Château de Gruyères, Rue du Château 8, 1663 Gruyères",
+   "ll": [
+    46.5848,
+    7.08405
+   ],
+   "src": [
+    "https://www.chateau-gruyeres.ch/en/information/",
+    "https://www.myswitzerland.com/en-il/experiences/gruyeres-castle/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "gigermuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Enter the biomechanical world of the HR Giger Museum",
+   "desc": "The museum in Château St-Germain holds the largest collection of work by HR Giger, the Oscar-winning designer of the creature in Alien. Giger bought the castle in 1997 and the museum opened in 1998; the biomechanical Giger Bar is across the square.",
+   "tip": "Hours vary by season, so check hrgigermuseum.com. The bar can be visited without a museum ticket.",
+   "q": "HR Giger Museum, Château St-Germain, 1663 Gruyères",
+   "ll": [
+    46.5838,
+    7.08215
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/hr-giger-museum/",
+    "https://atlasobscura.com/places/hr-giger-museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "maisondugruyere",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch Gruyère AOP being made at La Maison du Gruyère",
+   "desc": "This demonstration dairy at Pringy shows the cheesemaking steps from renneting to moulding through a viewing gallery. It is run by the Coopérative laitière de Gruyères and has an audioguide about the Gruyère AOP cheese.",
+   "tip": "Demonstrations run three to four times a day between 09:00 and 12:30, so arrive in the morning. It is opposite Pringy-Gruyères station.",
+   "q": "La Maison du Gruyère, Place de la Gare 3, 1663 Pringy-Gruyères",
+   "ll": [
+    46.58226,
+    7.07285
+   ],
+   "src": [
+    "https://www.lamaisondugruyere.ch/about-us/co-operative-laiterie-de-gruyeres/",
+    "https://www.museums.ch/fr/visite-au-musee/musees/musees/la-maison-du-gruyere-2579.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "chaletgruyeres",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat fondue and meringues with double cream in Gruyères",
+   "desc": "Le Chalet de Gruyères on the main street serves fondue, raclette and the local dessert of meringues with Gruyère double cream and raspberries. It is a popular stop in the medieval village.",
+   "tip": "Book ahead in season, and note that prices are high. Pay in francs.",
+   "q": "Le Chalet de Gruyères, Rue du Bourg 53, 1663 Gruyères",
+   "ll": [
+    46.58435,
+    7.08225
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/restaurant-le-chalet-de-gruyeres/",
+    "https://fribourg.ch/fr/la-gruyere/produits-du-terroir/meringues-et-creme-double-de-la-gruyere/"
+   ]
+  },
+  {
+   "id": "maisoncailler",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Taste chocolate at Maison Cailler in Broc",
+   "desc": "The Cailler chocolate factory in Broc offers an interactive guided visit on the history and making of chocolate, with tastings of the Cailler range. A museum traces the brand's story.",
+   "tip": "Allow one to one and a half hours and book online in high season. A train runs from Montreux to Broc in summer.",
+   "q": "Maison Cailler, Rue Jules Bellet 7, 1636 Broc",
+   "ll": [
+    46.60725,
+    7.1092
+   ],
+   "src": [
+    "https://cailler.ch/en/visit-maison-cailler",
+    "https://fribourg.ch/fr/la-gruyere/musees/maison-cailler-chocolaterie-suisse/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "moleson",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Take the cable car up to the Moléson summit",
+   "desc": "The Moléson rises to 2002 m above Gruyères. A funicular from Moléson-sur-Gruyères reaches Plan-Francey and a cable car (2011) continues to the summit, which has a panoramic platform and the restaurant Le Sommet.",
+   "tip": "The lifts run from early April to early November (2026: 3 April to 1 November); check moleson.ch for the timetable.",
+   "q": "Moléson, 1663 Moléson-sur-Gruyères",
+   "ll": [
+    46.56241,
+    7.03772
+   ],
+   "src": [
+    "https://fribourg.ch/fr/la-gruyere/remontees-mecaniques/remontees-mecaniques-moleson",
+    "https://fribourg.ch/fr/la-gruyere/restaurants/restaurant-le-sommet/"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "murtenwalls",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the medieval ramparts of Murten",
+   "desc": "Murten (Morat) is enclosed by a 13th to 15th century ring wall with a walkable wall-walk and twelve towers and gates. The Berntor clock tower cuts through the wall and leads into the main street.",
+   "tip": "Enter by the stairs near the Berntor and walk the Wehrgang for views over the town and Lake Murten. Free access.",
+   "q": "Ringmauer Murten, Berntor, 3280 Murten",
+   "ll": [
+    46.92786,
+    7.11779
+   ],
+   "src": [
+    "https://fribourg.ch/de/regionmurtensee/architektur-und-denkmaeler/ringmauern-der-stadt-murten/",
+    "https://de.wikivoyage.org/wiki/Murten"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "nidelkuchenmurten",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try the Nidelkuchen cream cake at Aebersold in Murten",
+   "desc": "The Murten Nidelkuchen, a cream cake on a light yeast base, was created in 1931 by Ernst Aebersold, founder of the bakery of that name. It is a variant of the Gâteau du Vully.",
+   "tip": "The bakery is on Hauptgasse; check the hours (closed Sunday and Monday on the 2026 listing). Confiserie Monnier and Beeler nearby also sell it.",
+   "q": "Bäckerei Konditorei Aebersold, Hauptgasse 40, 3280 Murten",
+   "ll": [
+    46.92855,
+    7.11786
+   ],
+   "src": [
+    "https://fribourg.ch/de/regionmurtensee/tea-rooms/backerei-konditorei-aebersold/",
+    "https://fribourg.ch/en/regionmurtensee/local-products/the-nidelkuchen-murten-cream-cake/"
+   ]
+  },
+  {
+   "id": "neuchatelcollegiale",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Collégiale and castle of Neuchâtel",
+   "desc": "The Collégiale and the Château de Neuchâtel crown the old town. The church choir holds a polychrome cenotaph of 1372 for the Counts of Neuchâtel, and the castle is the seat of the cantonal government.",
+   "tip": "Collégiale entry is free; castle guided tours run in the afternoon in summer, so check ne.ch. Allow time for the walk up from the lake.",
+   "q": "Collégiale de Neuchâtel, Place de la Collégiale, 2000 Neuchâtel",
+   "ll": [
+    46.99171,
+    6.92558
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Collégiale_de_Neuchâtel"
+   ]
+  },
+  {
+   "id": "latenium",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Discover 50,000 years of history at the Laténium",
+   "desc": "The Laténium in Hauterive is the cantonal archaeology museum and an open-air park on Lake Neuchâtel. It is named after the La Tène site, which gave its name to the Celtic Iron Age culture, and the park has a Roman garden and a lake dwelling reconstruction.",
+   "tip": "Open 10:00-17:00, closed Monday according to some listings, and free on the first Sunday of the month. Bus from Neuchâtel to Hauterive.",
+   "q": "Laténium, Espace Paul Vouga, 2068 Hauterive",
+   "ll": [
+    47.00699,
+    6.97076
+   ],
+   "src": [
+    "https://latenium.ch/en/your-visit/opening-times-and-admission-fees",
+    "https://www.myswitzerland.com/en/experiences/latenium-parc-et-musee-darcheologie-de-neuchatel/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "creuxduvan",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike to the rim of the Creux du Van cirque",
+   "desc": "The Creux du Van is a natural limestone amphitheatre about 1.2 km wide with cliffs up to 160 m high. The classic loop starts at Noiraigue or at the Ferme Robert mountain inn at about 972 m.",
+   "tip": "Wear sturdy shoes and stay behind the rim; ibex are often seen at dawn and dusk. The Noiraigue route takes four to five hours.",
+   "q": "Creux du Van, 2103 Noiraigue",
+   "ll": [
+    46.93862,
+    6.71886
+   ],
+   "src": [
+    "https://famigros.migros.ch/fr/excursions-loisirs/excursions-en-famille/creux-du-van-randonnee",
+    "https://www.loisirs.ch/balade/creux-du-van/"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "gorgesareuse",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Areuse gorges from Champ-du-Moulin to Boudry",
+   "desc": "The best-known stretch of the Gorges de l'Areuse runs through rock overhangs, steps and bridges and passes the Chute de la Verrière and the Pont de Vert. It takes about two hours from Champ-du-Moulin to Boudry station.",
+   "tip": "The path can be slippery, so check the weather. The Hôtel-Restaurant La Truite at Champ-du-Moulin serves trout.",
+   "q": "Gorges de l'Areuse, Champ-du-Moulin, 2019 Boudry",
+   "ll": [
+    46.96195,
+    6.81485
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/route/sentier-des-gorges-de-lareuse/",
+    "https://famigros.migros.ch/fr/excursions-loisirs/excursions-en-famille/gorge-de-l-areuse"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "maisonabsinthe",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Taste absinthe at the Maison de l'Absinthe in Môtiers",
+   "desc": "The Maison de l'Absinthe opened in Môtiers in July 2014 as the national absinthe house of the Val-de-Travers. It has a museum, a garden, tasting packages for adults and a shop with absinthes from around 15 local distillers.",
+   "tip": "Open Tuesday to Saturday 10:00-18:00 and Sunday to 17:00; admission starts around CHF 19. The annual absinthe festival is in June.",
+   "q": "Maison de l'Absinthe, Grande Rue 10, 2112 Môtiers",
+   "ll": [
+    46.91085,
+    6.61155
+   ],
+   "src": [
+    "https://torpille.ch/listing/maison-de-labsinthe/",
+    "https://www.freizeit.ch/freizeit/18816/maison-de-l-absinthe"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "minesasphalte",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Go underground in the asphalt mines of La Presta",
+   "desc": "The Mines d'asphalte de La Presta at Travers can be visited only on a guided tour, with a helmet and lamp, through galleries where asphalt was mined. The ticket includes the Asphalt Story exhibition.",
+   "tip": "Tours start at fixed times from April to October (about 10:30 and 14:00), around 90 minutes. The on-site cafe serves ham cooked in asphalt.",
+   "q": "Mines d'asphalte de la Presta, 2105 Travers",
+   "ll": [
+    46.93114,
+    6.65437
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-ch/experiences/asphalt-mines/",
+    "https://www.showcaves.com/english/ch/mines/Travers.html"
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "mihchauxdefonds",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the clocks of the MIH in La Chaux-de-Fonds",
+   "desc": "The Musée international d'horlogerie opened in 1974 in a largely underground building by Pierre Zoelly and Georges-Jacques Haefeli. Its collection runs from sundials to atomic clocks in the capital of Swiss watchmaking.",
+   "tip": "Open Tuesday to Sunday 10:00-17:00. La Chaux-de-Fonds old town and Le Locle are UNESCO-listed for watchmaking planning.",
+   "q": "Musée international d'horlogerie, Rue des Musées 29, 2300 La Chaux-de-Fonds",
+   "ll": [
+    47.10035,
+    6.83089
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/International_Museum_of_Horology",
+    "https://www.myswitzerland.com/en/experiences/international-clock-museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "chateaudesmonts",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the watch museum in Le Locle's Château des Monts",
+   "desc": "The Musée d'horlogerie du Locle occupies a country manor built for an 18th-century watchmaker and opened in 1959. Highlights include automatons and watches from the Maurice Sandoz donation and Neuchâtel clocks.",
+   "tip": "Open Tuesday to Sunday 10:00-17:00 from May to October and 14:00-17:00 from November to April. Bus 341 to Monts.",
+   "q": "Musée d'horlogerie du Locle, Château des Monts, Route des Monts 65, 2400 Le Locle",
+   "ll": [
+    47.06369,
+    6.74995
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-in/experiences/chateau-des-monts-watch-museum/",
+    "https://www.museums.ch/fr/visite-au-musee/musees/musees/musee-dhorlogerie-du-locle-chateau-des-monts-2130.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "moulinssouterrains",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Descend into the underground mills of Col-des-Roches",
+   "desc": "A natural cave near Le Locle was turned into water-powered underground mills in the 17th century and used until electricity arrived in 1890. The mills were restored and opened to the public in 1987, with a museum above.",
+   "tip": "Open May to October, 10:00-17:00, with guided tours. Wrap up, as the cave is cool.",
+   "q": "Moulins souterrains du Col-des-Roches, Col 23, 2400 Le Locle",
+   "ll": [
+    47.0491,
+    6.7213
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/col-des-roches-cave-mills",
+    "https://www.museums.ch/fr/visite-au-musee/musees/musees/moulins-souterrains-du-col-des-roches-2129.html"
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "sautdudoubs",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Sail the Doubs from Les Brenets to the Saut du Doubs",
+   "desc": "A boat from the NLB takes about 20 minutes from Les Brenets across the Lac des Brenets to the Saut du Doubs, a waterfall on the French border. The flow varies strongly with rainfall.",
+   "tip": "Boats run seasonally, so check nlb.ch; alternatively walk about an hour from Les Brenets and return by boat.",
+   "q": "Saut du Doubs, Les Brenets, 2416 Les Brenets",
+   "ll": [
+    47.08707,
+    6.71397
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/saut-du-doubs/",
+    "https://www.j3l.ch/en/P43426/things-to-do/transportation/cruises/cruise-on-the-lake-des-brenets"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "maisonduprussien",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine in the gorge at La Maison du Prussien",
+   "desc": "La Maison du Prussien occupies a converted 18th-century brewery beside the stream in the Seyon gorge, a short way from central Neuchâtel. Chef Jean-Yves Drevet cooks classic and gourmet menus, and fondue is served all year.",
+   "tip": "Book ahead for the conservatory or terrace. Neuchâtel white wines pair with the lake fish.",
+   "q": "La Maison du Prussien, Rue des Tunnels 11, 2000 Neuchâtel",
+   "ll": [
+    46.98963,
+    6.91052
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-il/experiences/food-wine/restaurant/la-maison-du-prussien/",
+    "https://www.falstaff.com/ld/r/la-maison-du-prussien-neuchatel/"
+   ]
+  },
+  {
+   "id": "stursenkathedrale",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Solothurn's St. Ursen cathedral and its treasury",
+   "desc": "The St.-Ursen-Kathedrale on Hauptgasse is described as the first early classicist church in Switzerland. It houses the cathedral treasury, whose main piece is the arca with the head relics of Ursus and Victor, and has a tower with 11 bells.",
+   "tip": "Open daily around 08:00-18:30 except during services; entry is free. The city runs tower and roof tours.",
+   "q": "St.-Ursen-Kathedrale, Hauptgasse 66, 4500 Solothurn",
+   "ll": [
+    47.20842,
+    7.53964
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/St._Ursenkathedrale"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "weissenstein",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the gondola up to the Weissenstein above Solothurn",
+   "desc": "A gondola from Oberdorf (replaced in 2014) takes about 12 minutes to the Weissenstein ridge in the Jura. The Kurhaus dates from 1827-28 and was rebuilt and reopened in 2019; the Planetary Path starts nearby.",
+   "tip": "Walk to the Röti (1395 m) for the Alpine view. Check bls.ch for the cable-car timetable.",
+   "q": "Weissenstein Kurhaus, 4511 Weissenstein, Oberdorf SO",
+   "ll": [
+    47.25327,
+    7.51037
+   ],
+   "src": [
+    "https://hls-dhs-dss.ch/de/articles/007700/",
+    "https://www.bls.ch/weissenstein"
+   ]
+  },
+  {
+   "id": "verenaschlucht",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk into the Verenaschlucht to the hermitage",
+   "desc": "The Verena Gorge near Solothurn is about 800 m long and ends at the St. Verena hermitage, one of two inhabited hermitages in Switzerland. Tradition links Saint Verena to the Theban Legion.",
+   "tip": "Start from Solothurn or St. Niklaus; the path is free and takes under an hour. Respect the privacy of the hermitage.",
+   "q": "Einsiedelei St. Verena, Verenaschlucht, 4533 Rüttenen",
+   "ll": [
+    47.22477,
+    7.53359
+   ],
+   "src": [
+    "https://hls-dhs-dss.ch/articles/013829",
+    "https://www.myswitzerland.com/en-ca/experiences/solothurns-mystical-gorge-the-verenaschlucht/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kunstmuseumsolothurn",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Holbein's Solothurn Madonna at the Kunstmuseum",
+   "desc": "The Kunstmuseum Solothurn opened in 1902 and owns Hans Holbein the Younger's Solothurn Madonna of 1522, with Saint Martin and Saint Ursus. The old masters also include a 1425 Madonna of the Strawberries.",
+   "tip": "Closed on Mondays; check solothurn-city.ch before going.",
+   "q": "Kunstmuseum Solothurn, Werkhofstrasse 30, 4500 Solothurn",
+   "ll": [
+    47.21033,
+    7.53747
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Kunstmuseum_Solothurn",
+    "https://en.wikipedia.org/wiki/Solothurn_Madonna"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "altteszeughaus",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Admire the armour at Solothurn's Altes Zeughaus",
+   "desc": "The Altes Zeughaus was built in 1609-1614 and now holds one of Switzerland's largest collections of armour, with about 300 suits on show after the 2016 reopening. Most pieces come from German workshops, above all Nuremberg.",
+   "tip": "Open Tuesday to Saturday 13:00-17:00 and Sunday 10:00-17:00 on the museums.ch listing; confirm before visiting.",
+   "q": "Museum Altes Zeughaus, Zeughausplatz 1, 4500 Solothurn",
+   "ll": [
+    47.20892,
+    7.5387
+   ],
+   "src": [
+    "https://www.museums.ch/de/museumsbesuch/museen/museen/museum-altes-zeughaus-2322.html",
+    "https://www.myswitzerland.com/en/experiences/old-arsenal-museum/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "altenstephan",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Lunch at Zum alten Stephan, Solothurn's oldest restaurant",
+   "desc": "Zum alten Stephan on Friedhofplatz is described by the city as Solothurn's oldest restaurant. Michelin lists it for market and traditional cooking, with a terrace.",
+   "tip": "Reserve for the terrace in summer. Check opening days with solothurn-city.ch.",
+   "q": "Restaurant zum alten Stephan, Friedhofplatz 10, 4500 Solothurn",
+   "ll": [
+    47.2085,
+    7.5358
+   ],
+   "src": [
+    "https://www.solothurn-city.ch/gastronomie/restaurant-zum-alten-stephan-7406432a89"
+   ]
+  },
+  {
+   "id": "bielaltstadt",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander Biel/Bienne's old town around the Ring",
+   "desc": "Biel's old town huddles around the Ring, the town's oldest square, with the Banneret Fountain of 1546. The Rathaus on Burggasse was built in 1530-34 on the site of the prince-bishop's castle.",
+   "tip": "Guided walks start at the Bäsetöri, Jakob-Rosius-Strasse 16. The Burgplatz hosts a regional market.",
+   "q": "Ring, Altstadt, 2502 Biel/Bienne",
+   "ll": [
+    47.1404,
+    7.2469
+   ],
+   "src": [
+    "https://www.myswitzerland.com/it/scoprire-la-svizzera/centro-storico-di-bienne/",
+    "https://madeinbern.com/en/angebote/historical-guided-tour-of-biels-old-town"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "egge6biel",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat hearty Swiss food at Restaurant Egge 6 in Biel",
+   "desc": "Egge 6 on Jakob-Rosius-Strasse in the old town is a long-standing local favourite serving generous portions of meat, cheese and potatoes. Reviewers mention the entrecôte and a pistachio panna cotta.",
+   "tip": "Open Tuesday to Saturday for lunch and dinner, closed Sunday and Monday. A daily lunch menu is offered.",
+   "q": "Restaurant Egge 6, Jakob-Rosius-Strasse 6, 2502 Biel/Bienne",
+   "ll": [
+    47.1395,
+    7.2484
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-us/experiences/food-wine/restaurant/restaurant-egge-6/"
+   ]
+  },
+  {
+   "id": "taubenloch",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Taubenloch gorge from Biel to Frinvillier",
+   "desc": "The Taubenlochschlucht runs for just under three kilometres from the Bözingen district of Biel to Frinvillier, with a path above the Schüss river. Parts have been protected since 1927 and the Tierpark Biel is at the entrance.",
+   "tip": "Free and about 45 minutes one way; not suitable for prams. Bus from Biel station to Taubenloch.",
+   "q": "Taubenlochschlucht, Bözingen, 2500 Biel/Bienne",
+   "ll": [
+    47.15434,
+    7.26569
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/taubenloch-gorge/",
+    "https://en.wikipedia.org/wiki/Taubenloch"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "magglingen",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Take the Magglingen funicular above Lake Biel",
+   "desc": "The Biel–Magglingen funicular climbs in about ten minutes to the Federal Office of Sport terrace with views over Lake Biel and the Alps. From there the Magglinger Erlebnispfad crosses the BASPO grounds.",
+   "tip": "The restaurants End der Welt and Bellavista and the Grand Hotel cafeteria are open to the public.",
+   "q": "Magglingenbahn, Bergstation Magglingen, 2532 Magglingen",
+   "ll": [
+    47.13591,
+    7.23577
+   ],
+   "src": [
+    "https://wikiwand.com/en/articles/Magglingenbahn",
+    "https://www.baspo.admin.ch/dam/fr/sd-web/mB-arWaHcfrw/1.3_offres_OFSPO_population_web.pdf"
+   ]
+  },
+  {
+   "id": "chasseral",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Climb to the Chasseral summit hotel",
+   "desc": "The Chasseral in the Bernese Jura is crowned by a traditional mountain hotel at around 1600 m, next to the Swisscom antennas. A path leads to the highest point with views over the Three Lakes and the Alps.",
+   "tip": "Hotel open from early April to late October (closed Monday and Tuesday in 2026); the road is closed to cars in winter.",
+   "q": "Hôtel Chasseral, Chasseral 124, 2518 Nods",
+   "ll": [
+    47.12688,
+    7.04565
+   ],
+   "src": [
+    "https://www.myswitzerland.com/de-ch/erlebnisse/essen-trinken/restaurant/hotel-chasseral/",
+    "https://de.wikivoyage.org/wiki/Chasseral"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "stpetersinsel",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk to St. Petersinsel where Rousseau lived",
+   "desc": "St. Peter's Island in Lake Biel is a car-free nature reserve owned by the Burgergemeinde Bern. Jean-Jacques Rousseau spent about six weeks there in 1765, and his room in the former monastery hotel can be visited.",
+   "tip": "Walk the Heidenweg from Erlach in about an hour or take the lake boat. Check the boat timetable.",
+   "q": "St. Petersinsel, Kloster St. Petersinsel, 3235 Erlach",
+   "ll": [
+    47.06985,
+    7.14281
+   ],
+   "src": [
+    "https://www.familienleben.ch/ausfluege/outdoor/st-petersinsel-ist-ein-idyllisches-naherholungsgebiet-4708",
+    "https://www.swiss-spectator.ch/st-petersinsel-im-bielersee/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "schaukaeserei",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Discover Emmentaler AOP at the Schaukäserei in Affoltern",
+   "desc": "The Emmentaler Schaukäserei in Affoltern im Emmental is an experience centre on Emmentaler AOP with the Königsweg tour, a cheese shop, a restaurant and a playground. Reports say production there has ended while the visitor attraction continues.",
+   "tip": "Open daily 09:00-17:00 on MySwitzerland; check e-sk.ch for what is on offer. Train to Hasle-Rüegsau, then bus.",
+   "q": "Emmentaler Schaukäserei, Schaukäsereistrasse 6, 3416 Affoltern im Emmental",
+   "ll": [
+    47.06363,
+    7.73149
+   ],
+   "src": [
+    "https://www.bls.ch/de/freizeit-und-ferien/ausfluege/rundgang-schaukaeserei",
+    "https://www.myswitzerland.com/en-gb/experiences/food-wine/restaurant/restaurant-emmentaler-schaukaeserei-ag/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "schlossburgdorf",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the museum in Schloss Burgdorf",
+   "desc": "Schloss Burgdorf houses a museum with guided tours and hands-on stations, including the Wunderkammern exhibition. The castle is about 15 minutes on foot from the railway station.",
+   "tip": "Open daily 10:00-18:00 from April to October; the winter schedule is shorter. Adults pay around CHF 14.",
+   "q": "Museum Schloss Burgdorf, Schlossgässli 1, 3400 Burgdorf",
+   "ll": [
+    47.05497,
+    7.62899
+   ],
+   "src": [
+    "https://schloss-burgdorf.ch/en/",
+    "https://www.myswitzerland.com/en/experiences/museum-schloss-burgdorf/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "kemmeriboden",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Kemmeriboden meringues at the Landgasthof",
+   "desc": "The Landgasthof Kemmeriboden-Bad near the headwaters of the Emme in Schangnau has been family-run for six generations. Its meringues, baked fresh daily, are the draw, alongside regional dishes such as the Bernese platter.",
+   "tip": "Check kemmeriboden.ch for opening times and book at weekends. It sits in a remote valley, best reached by car or bus.",
+   "q": "Landgasthof Kemmeriboden-Bad, Kemmeriboden 181, 6197 Schangnau",
+   "ll": [
+    46.80189,
+    7.93545
+   ],
+   "src": [
+    "https://bern.com/en/inform/accommodations/hotels/hotel-landgasthof-kemmeriboden-bad",
+    "https://www.enprimeurclub.com/restaurants/landgasthof-kemmeribodenbad-schangnau-restaurant"
+   ]
+  },
+  {
+   "id": "strandbodenbiel",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim and sunbathe on the Strandboden in Biel",
+   "desc": "The Strandboden is Biel's lakeside recreation area, created from 1973 between the station and the shore. It has lawns, swimming spots and the Dock4 restaurant, and is the city's main public access to the lake.",
+   "tip": "Free access; busiest on summer weekends. The city plans to limit event days from 2027.",
+   "q": "Strandboden, Uferweg, 2502 Biel/Bienne",
+   "ll": [
+    47.1438,
+    7.2593
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Biel/Bienne"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  }
+ ]
+}

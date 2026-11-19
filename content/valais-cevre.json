@@ -1,0 +1,849 @@
+{
+ "new": [
+  {
+   "id": "stockalperpalast",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the Stockalper Palace in Brig",
+   "desc": "Built in the 1650s by the salt and Simplon-route magnate Kaspar Jodok von Stockalper, this is the largest private baroque residence in Switzerland. Its three onion-domed towers are named after the Three Kings, and the palace now houses the Passage Simplon exhibition.",
+   "tip": "Public guided tours in German last about an hour (from CHF 12) and need no booking; check the official site because some rooms were closed for renovation in 2025.",
+   "q": "Stockalperschloss, Alte Simplonstrasse 28, Brig-Glis",
+   "ll": [
+    46.31515,
+    7.99085
+   ],
+   "src": [
+    "https://brig-simplon.ch/en/poi/stockalper-palace",
+    "https://www.locationscout.net/switzerland/46065-brig-stockalper-palace"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "eggishorn",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Ride up to the Eggishorn above the Aletsch Glacier",
+   "desc": "Two cable cars lift you from Fiesch via Fiescheralp to the Eggishorn at about 2,900 m, a classic viewpoint over the Great Aletsch Glacier, the longest in the Alps. On clear days the Eiger, Mönch and Jungfrau line the horizon.",
+   "tip": "A wooden ramp from the top station leads to the lookout and a 20-minute circular path with information boards. Go on a clear morning and check the cable car timetable.",
+   "q": "Eggishorn Bergstation, Fiesch",
+   "ll": [
+    46.4269,
+    8.0937
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/destinations/eggishorn-viewpoint-look-out-over-the-great-aletsch-glacier/",
+    "https://www.timeout.com/switzerland/travel/eggishorn"
+   ]
+  },
+  {
+   "id": "villacassel",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Villa Cassel on the Riederfurka",
+   "desc": "The English banker Ernest Cassel built this villa as a summer residence above Riederalp in the early 20th century. It is now the Pro Natura Zentrum Aletsch, with a yearly exhibition and an alpine garden at the edge of the protected Aletsch Forest.",
+   "tip": "Open daily from mid-June to mid-October, about CHF 8. It is roughly a 30-minute walk from Riederalp; the village is car-free.",
+   "q": "Pro Natura Zentrum Aletsch, Villa Cassel, Riederfurka, Riederalp",
+   "ll": [
+    46.37658,
+    8.01616
+   ],
+   "src": [
+    "https://www.museums.ch/fr/visite-au-musee/musees/musees/pro-natura-zentrum-aletsch-2695.html",
+    "https://www.myswitzerland.com/en/experiences/nature-reserve-center-villa-cassel-aletsch-forest/"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "euseignepyramids",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the earth pyramids of Euseigne",
+   "desc": "These 10 to 15 m high earth pillars, each capped by a boulder, were left by erosion of glacial moraine and have been a protected natural monument of national importance since 1983. The valley road to Val d'Hérens runs through a small tunnel beneath them.",
+   "tip": "There is a small car park and viewing area by the road, and PostBus stops at Euseigne. Light is best in the afternoon.",
+   "q": "Pyramides d'Euseigne, Route de la Vallée, 1982 Euseigne",
+   "ll": [
+    46.17338,
+    7.41714
+   ],
+   "src": [
+    "https://www.valais.ch/en/activities/natural-sites/geological-sites/the-earth-pyramids-of-euseigne",
+    "https://en.wikipedia.org/wiki/Euseigne"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gianadda",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the Fondation Pierre Gianadda in Martigny",
+   "desc": "Léonard Gianadda founded it in 1978 in memory of his brother Pierre, after a Roman temple was uncovered on the site in 1976. It combines major art exhibitions, a Gallo-Roman museum, an automobile museum and a sculpture park with the Chagall Court.",
+   "tip": "Rue du Forum 59, about ten minutes from Martigny station. Opening hours change by season, so check gianadda.ch for the current exhibition.",
+   "q": "Fondation Pierre Gianadda, Rue du Forum 59, 1920 Martigny",
+   "ll": [
+    46.09514,
+    7.0708
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Fondation_Pierre_Gianadda",
+    "https://www.myswitzerland.com/en/experiences/gianadda-foundation-archaeology-and-classic-cars"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "stbernardhospice",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Great St Bernard Hospice at the pass",
+   "desc": "The hospice at 2,469 m on the Swiss-Italian border has sheltered travellers for centuries and is the origin of the St Bernard dog. A museum shows its history and the kennel visit is included in the ticket.",
+   "tip": "Open daily from mid-June to September, 10:00 to 18:00 (CHF 12 adult), depending on when the pass road opens. Check the pass status before driving up.",
+   "q": "Hospice du Grand-Saint-Bernard, 1946 Bourg-Saint-Bernard",
+   "ll": [
+    45.8686,
+    7.1713
+   ],
+   "src": [
+    "https://www.saint-bernard.ch/en/activities/great-st-bernard-hospice-museum-7550",
+    "https://en.wikipedia.org/wiki/Great_St_Bernard_Hospice"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "saintmauriceabbey",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Descend into the Abbey of Saint-Maurice d'Agaune",
+   "desc": "Founded in 515, this is considered the oldest continuously inhabited abbey in Western Europe. The visit covers the basilica, the archaeological site, catacombs and a treasury with the sardonyx vase and the reliquary of St Sigismund.",
+   "tip": "The treasury is at Avenue d'Agaune 19; check the abbey schedule, as it is typically closed on Mondays. Tickets are around CHF 13 to 15.",
+   "q": "Abbaye de Saint-Maurice, Avenue d'Agaune 19, 1890 Saint-Maurice",
+   "ll": [
+    46.2183,
+    7.0035
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/abbey-basilica-monastery-treasure/",
+    "https://www.regiondentsdumidi.ch/en/4793648-the-abbey-of-saint-maurice-dagaune-75090/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ernen",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander through Ernen and see the Tellenhaus",
+   "desc": "Ernen is a well-preserved Goms village on the federal heritage inventory, with the late Gothic St Georg church (1510 to 1518). The Tellenhaus on the square carries 16th-century frescoes of William Tell, and the village hosts the Musikdorf Ernen festival founded in 1974.",
+   "tip": "Ten minutes by PostBus from Fiesch. The Musikdorf Ernen concerts in summer are held in the church and the Tellenhaus.",
+   "q": "Tellenhaus, Dorfplatz, 3995 Ernen",
+   "ll": [
+    46.39904,
+    8.14588
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/destinations/ernen/",
+    "https://www.matterhorngotthardbahn.ch/en/stories/musikdorf-ernen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "moirydam",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the Moiry Dam above Grimentz",
+   "desc": "The 148 m high arch dam, completed in 1958, holds back the turquoise Lac de Moiry at about 2,250 m with the Moiry Glacier at its head. Road access makes it one of the easiest high alpine reservoirs to reach in the Val d'Anniviers.",
+   "tip": "Reach it by car or PostBus from Grimentz; summer guided tours explain how the dam operates. Walk the lakeside path for the glacier view.",
+   "q": "Barrage de Moiry, 3961 Grimentz",
+   "ll": [
+    46.13761,
+    7.57255
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Lac_de_Moiry",
+    "https://www.myswitzerland.com/en/experiences/moiry-reservoir-lake/"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "triengorges",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Cross the footbridges of the Trient Gorges",
+   "desc": "At Vernayaz the Trient river has carved a narrow gorge which visitors cross on metal walkways bolted to the rock walls. It is a short, dramatic walk beside the water, near the Pissevache waterfall.",
+   "tip": "Open April to October with a small admission charge; park near the florist on the Martigny-St-Maurice road in Vernayaz. Not suitable for wheelchairs.",
+   "q": "Gorges du Trient, Vernayaz",
+   "ll": [
+    46.13104,
+    7.04272
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/trient-gorge/",
+    "https://www.showcaves.com/english/ch/gorges/Trient.html"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "rilkegrave",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Rilke's grave at the Raron castle church",
+   "desc": "The poet Rainer Maria Rilke died in 1926 and was buried in January 1927 at the Burgkirche in Raron, as he had chosen in his will. The Museum auf der Burg next door, in the former vicarage, has a Rilke room.",
+   "tip": "It is a steep climb of about 15 minutes from Raron village centre. The museum is open June to September, 10:00 to 16:00.",
+   "q": "Burgkirche St. Romanus, Rilkeweg, 3942 Raron",
+   "ll": [
+    46.30637,
+    7.80288
+   ],
+   "src": [
+    "https://www.atlasobscura.com/places/grave-of-rainer-maria-rilke",
+    "https://www.myswitzerland.com/en-ch/experiences/museum-auf-der-burg/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rhoneglacier",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk into the Rhône Glacier ice grotto",
+   "desc": "The Rhône Glacier above Gletsch is the source of the river that flows to the Mediterranean. A 100 m blue ice tunnel is cut into the ice afresh each summer, a tradition since about 1870.",
+   "tip": "Open roughly June to October, daily 08:00 to 18:00, when the Furka road is open and the weather allows. Park by the Hotel Belvédère.",
+   "q": "Gletschergrotte Rhonegletscher, Hotel Belvédère, Furkastrasse, Gletsch",
+   "ll": [
+    46.5732,
+    8.3844
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-ch/destinations/rhone-glacier-ice-grotto/",
+    "https://www.showcaves.com/english/ch/subterranea/Rhone.html"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "loetschentalmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Tschäggättä masks at the Lötschentaler Museum",
+   "desc": "The museum in Kippel shows the traditions of the Lötschental, above all its carved wooden masks used in the wild Tschäggättä carnival. A 2026-27 special exhibition remembers Blatten, destroyed by the rock and glacier collapse of 28 May 2025.",
+   "tip": "The special exhibition runs until 31 March 2027, Tuesday to Sunday 14:00 to 17:00; check opening hours before the trip.",
+   "q": "Lötschentaler Museum, Museumsweg 1, 3917 Kippel",
+   "ll": [
+    46.39935,
+    7.77305
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/loetschentaler-museum/",
+    "https://www.museums.ch/de/museumsbesuch/museen/ausstellungen/erinnerungen-an-blatten-8232.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "evolene",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stroll through Evolène and its costume tradition",
+   "desc": "Evolène in the Val d'Hérens is known for its dark wooden chalets, its patois and the traditional dress that locals still wear on Sundays. The village museum devotes a room to the costume, and Hérens cows are kept by most families.",
+   "tip": "Visit in autumn for the Hérens cow fights in the village arena. A PostBus connects from Sion.",
+   "q": "Village d'Evolène, 1983 Evolène",
+   "ll": [
+    46.1126,
+    7.4947
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/living-heritage-patois-carnival-and-national-dress/",
+    "https://www.valais.ch/en/stories/women-power-in-val-dherens"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "salgeschwinemuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Learn about wine at the Salgesch wine museum",
+   "desc": "The Valais Wine Museum has two sites, in Sierre and in the Pinot Noir village of Salgesch, linked by a six-kilometre wine trail. The Salgesch part is housed in an old winemaker's house.",
+   "tip": "Hours are roughly Wednesday to Friday 14:00 to 18:00 and weekends 11:00 to 18:00, but verify on sierretourisme.ch. Walk the vineyard trail from there to Sierre.",
+   "q": "Weinmuseum Salgesch, Salgesch",
+   "ll": [
+    46.31241,
+    7.56905
+   ],
+   "src": [
+    "https://www.sierretourisme.ch/en/P124329/salgesch-wine-museum",
+    "https://www.lonelyplanet.com/points-of-interest/salgesch-weinmuseum/1116679"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "simplonadler",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Photograph the Simplon Eagle at the pass",
+   "desc": "This stone eagle, designed by Erwin Friedrich Baumann and built by Swiss soldiers, was inaugurated on 10 September 1944 and gazes toward Italy. It stands on the Simplon Pass near the hospice founded by order of Napoleon in 1801.",
+   "tip": "Reachable by car or PostBus from Brig in summer. Pair it with a look at the Old Spittel built by Stockalper.",
+   "q": "Simplon-Adler, Simplonpass, 3907 Simplon Dorf",
+   "ll": [
+    46.24912,
+    8.02869
+   ],
+   "src": [
+    "https://wikipedia.com/wiki/Simplon_Hospice",
+    "https://www.brig-simplon.ch/en/poi/old-spittel"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "alpenthermeleukerbad",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Soak in the Walliser Alpentherme in Leukerbad",
+   "desc": "Leukerbad has the largest thermal spa area in the Alps, with hot springs that reach the baths at about 51 degrees. The Walliser Alpentherme & Spa (formerly Lindner Alpentherme) is the quieter, adult-oriented option; the family bath is the Leukerbad Therme.",
+   "tip": "Pools admit ages 8 and up and saunas 16 and up. Check alpentherme.ch for current prices and hours, and go on a weekday evening.",
+   "q": "Walliser Alpentherme & Spa, Rathausstrasse 32, 3954 Leukerbad",
+   "ll": [
+    46.37853,
+    7.63037
+   ],
+   "src": [
+    "https://www.lake-geneva-switzerland.com/valais-wallis/exclusive-lindner-alpentherme-leukerbad-day-spa-thermal-baths/",
+    "https://sospo.myswitzerland.com/Leukerbad/WalliserAlpenthermeundSpa-220?lang=en"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "gemmipass",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike from the Gemmi Pass to Daubensee",
+   "desc": "The Gemmibahn lifts you from Leukerbad to the pass at 2,314 m in about six minutes. A short walk leads to the Daubensee lake, or you can continue on the 8.5 km trail across the pass to Kandersteg.",
+   "tip": "Most walkers go from Leukerbad downhill to Sunnbüel; allow about 3.5 hours. Check cable car operating dates, since both lifts are seasonal.",
+   "q": "Gemmipass, Gemmibahn Bergstation, Leukerbad",
+   "ll": [
+    46.39628,
+    7.61147
+   ],
+   "src": [
+    "https://www.valais.ch/en/explore/activities/hiking/hikes/gemmipass-hike-to-kandersteg",
+    "https://freizeit.bls.ch/en/stories/wanderklassiker-gemmipass-sunnbueel"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "metroalpin",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Metro Alpin to the Mittelallalin ice pavilion",
+   "desc": "Opened in 1984, the Metro Alpin is a 1,749 m underground funicular and is often called the highest in the world. At the top, about 3,500 m up, a 5,500 m2 ice pavilion is carved into the Fee Glacier, and a revolving restaurant sits beside it.",
+   "tip": "Reach it from Saas-Fee via the Felskinn cable car. Dress warmly even in summer; the VirtuAllalin VR glacier experience can be added.",
+   "q": "Metro Alpin, Mittelallalin, Saas-Fee",
+   "ll": [
+    46.0656,
+    7.9142
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-gb/experiences/metro-alpin/",
+    "https://valais.ch/en/explore/activities/natural-sites/geological-sites/mittelallalin-ice-pavilion"
+   ]
+  },
+  {
+   "id": "barryland",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Meet the St Bernard dogs at Barryland",
+   "desc": "Run by the Barry Foundation, which has led the hospice's breeding programme since 2005, Barryland in Martigny tells the history of the Great St Bernard Pass and its dogs, with live dogs on site each day. The site was rebuilt and reopened in 2025.",
+   "tip": "Rue du Levant 34, about 10 to 15 minutes' walk from Martigny station. Check barryland.ch for hours and dog-presentation times.",
+   "q": "Barryland, Rue du Levant 34, 1920 Martigny",
+   "ll": [
+    46.09531,
+    7.07501
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/barryland-the-saint-bernard-museum",
+    "https://www.martigny.com/en/activity/barryland-st-bernard-dogs-museum-2267/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "plainemorte",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride up to the Plaine Morte glacier from Crans-Montana",
+   "desc": "The Plaine Morte is the largest plateau glacier in the Alps, about 7 km2 of ice up to 200 m thick, mostly on the Bernese side. Two lifts from Crans-Montana reach it in just over 30 minutes.",
+   "tip": "Open in summer only; lifts run in sections via Cry d'Er. Take warm layers and check weather and lift status first.",
+   "q": "Plaine Morte, Crans-Montana",
+   "ll": [
+    46.37042,
+    7.48914
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-au/experiences/plaine-morte-glacial-plateau/",
+    "https://www.crans-montana.ch/en/nos_lacs"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "montfort",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Go up Mont Fort above Verbier",
+   "desc": "The 3,330 m summit is reached by cable car from Verbier via Les Ruinettes and Col des Gentianes, and gives a panorama of the Matterhorn, Mont Blanc and the Grand Combin.",
+   "tip": "The summit is only open in high summer, reportedly July and August, so confirm on verbier.ch. Book the early lift for clear views.",
+   "q": "Mont Fort, Verbier",
+   "ll": [
+    46.09452,
+    7.23335
+   ],
+   "src": [
+    "https://verbier.ch/summer/offers/mont-fort-verbier-en-summer-2788124",
+    "https://www.myswitzerland.com/en-ie/experiences/mont-fort-almost-in-the-high-mountains/"
+   ],
+   "months": [
+    7,
+    8
+   ]
+  },
+  {
+   "id": "palladiumchampery",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Skate at the Palladium in Champéry",
+   "desc": "The Palladium is an indoor sports and events complex in Champéry with an ice rink open about eight months a year, a swimming pool and a fitness room. The public can skate at set hours.",
+   "tip": "Check the public skating timetable on the Champéry tourism site; it works as a rainy-day option at the foot of the Dents du Midi.",
+   "q": "Palladium de Champéry, Rue du Palladium, 1874 Champéry",
+   "ll": [
+    46.17706,
+    6.87181
+   ],
+   "src": [
+    "https://www.sbb.ch/fr/loisirs-vacances/idees/offre.html/tagesausflug/palladium-champery.html",
+    "https://www.myswitzerland.com/en-ie/destinations/champery/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bissesaxon",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Follow the Bisse de Saxon irrigation channel",
+   "desc": "This bisse takes water from the Printse river at 1,850 m, upstream from Siviez, and runs through the forests and pastures above Nendaz, Isérables and Riddes towards Saxon. It irrigated the plain until 1964 and the guards' cabins still stand along it.",
+   "tip": "The path is level and shaded; allow a half or full day depending on the section. Best between late spring and early autumn.",
+   "q": "Bisse de Saxon, Siviez, 1997 Nendaz",
+   "ll": [
+    46.13564,
+    7.31298
+   ],
+   "src": [
+    "https://www.valais.ch/en/activities/hiking/bisses/bisse-de-saxon",
+    "https://www.nendaz.ch/en/P75805/bisse-de-saxon"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "massabruecke",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cross the Massa Gorge on the Aletsch Panoramaweg",
+   "desc": "The hike from Belalp to Riederalp on trail 39 crosses a suspension bridge about 124 m long over the Massa Gorge and continues into the Aletsch Forest, protected since 1933 and part of the UNESCO Jungfrau-Aletsch area.",
+   "tip": "Not for people with vertigo. Combine with a cable car from Blatten to Belalp and finish at Riederalp; summer only.",
+   "q": "Hängebrücke Massaschlucht, Belalp, 3914 Blatten bei Naters",
+   "ll": [
+    46.394,
+    8.033
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-ch/experiences/route/aletsch-panoramaweg-39_03/",
+    "https://homeoftravel.de/aletscharena-panorama-wanderung-hangebrucke-lohnt-es-sich/"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "gomsloipe",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ski the Goms Rottenloipe cross-country trail",
+   "desc": "The Goms valley has more than 100 km of groomed trails. The easy 19.6 km Rottenloipe follows the Rhône from Oberwald to Niederwald past Obergesteln, Ulrichen, Geschinen and Münster at around 1,300 m.",
+   "tip": "A Loipe Goms pass also covers train rides on the Matterhorn Gotthard Railway between Oberwald and Fiesch. Check snow conditions on goms.ch.",
+   "q": "Langlaufzentrum Münster, 3985 Münster VS",
+   "ll": [
+    46.48707,
+    8.26322
+   ],
+   "src": [
+    "https://valais.ch/en/explore/activities/ski-snowboard/cross-country-skiing/gommer-rottenloipe",
+    "https://www.goms.ch/en/tour/rottenloipe-oberwald-niederwald"
+   ],
+   "months": [
+    12,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "bainsovronnaz",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Relax in the thermal pools of Ovronnaz",
+   "desc": "Les Bains d'Ovronnaz, at 1,350 m, use the Salentze hot spring and have three pools at 32 to 36 degrees, two of them outdoors, plus a 1,000 m2 alpine spa. Pools open to the Muverans views above the Rhône valley.",
+   "tip": "The operator is under a creditor moratorium but says the baths stay open through winter. Confirm hours at bains-ovronnaz.ch.",
+   "q": "Les Bains d'Ovronnaz, Route des Bains 93, 1911 Ovronnaz",
+   "ll": [
+    46.19874,
+    7.17525
+   ],
+   "src": [
+    "https://www.ovronnaz.ch/en/bains/",
+    "https://www.valais.ch/en/explore/activities/wellness-water/thermal-baths/thermal-resort-at-ovronnaz"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "cranslakes",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the lakes of Crans-Montana",
+   "desc": "A ten-kilometre themed path links Etang Long, Etang Grenon, and the Icogne, Chermignon and Moubra lakes across the high plateau resort. The 100th Anniversary Walk passes the Etang Grenon on its way to Aminona.",
+   "tip": "Mostly flat and easy, with views of the Alps. Use the resort buses to return.",
+   "q": "Etang Grenon, 3963 Crans-Montana",
+   "ll": [
+    46.30998,
+    7.47583
+   ],
+   "src": [
+    "https://www.crans-montana.ch/en/nos_lacs",
+    "https://www.valais.ch/en/explore/activities/hiking/hikes/centenary-walk-on-the-high-plateau-in-crans-montana"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "petitmountet",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike up the Zinal valley to the Petit Mountet hut",
+   "desc": "A trail along the Val de Zinal reaches the Cabane du Petit Mountet at about 2,142 m, in view of the Zinal Glacier. It is a gentle, family-friendly walk from the village and doubles as acclimatisation.",
+   "tip": "The hut is open from about late June to October. A 14 km mountain bike route also reaches it in about two hours.",
+   "q": "Cabane du Petit Mountet, 3961 Zinal",
+   "ll": [
+    46.09226,
+    7.6333
+   ],
+   "src": [
+    "https://www.planetmountain.com/en/mountain-huts/cabane-du-petit-mountet-val-de-zinal.html",
+    "https://www.novo-monde.com/en/petit-mountet-hut-zinal.md"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "almagellerhoehenweg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Höhenweg Allmagelleralp from Kreuzboden",
+   "desc": "This trail starts at the Kreuzboden gondola station above Saas-Grund and crosses two suspension footbridges of 45 m and 60 m, finishing with a nearly vertical rock-face descent toward Furggstalden.",
+   "tip": "Needs a head for heights and sure footing. Walk in summer, and verify on valais.ch that the route is open.",
+   "q": "Kreuzboden Bergstation, 3910 Saas-Grund",
+   "ll": [
+    46.13322,
+    7.95128
+   ],
+   "src": [
+    "https://www.valais.ch/en/explore/activities/hiking/hikes/hoehenweg-allmagelleralp"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "chateaudevilla",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat all-you-can-eat raclette at Château de Villa in Sierre",
+   "desc": "The 16th-century Château de Villa in Sierre promotes Valais produce through its restaurant and a wine library of about 650 wines from 110 producers. It is known for its raclette served after a tasting of five raw-milk alpine cheeses.",
+   "tip": "Order the raclette à discrétion with a glass of local fendant or petite arvine. The restaurant is listed daily 10:00 to 23:00; reserve ahead.",
+   "q": "Château de Villa, Rue de Sion 4, 3960 Sierre",
+   "ll": [
+    46.29414,
+    7.52133
+   ],
+   "src": [
+    "https://www.valais.ch/fr/shop/activites/sierre-escale-vin-raclette",
+    "https://www.afar.com/places/chateau-de-villa-sierre"
+   ]
+  },
+  {
+   "id": "walliserstubabrig",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try Cholera pie at Walliserstuba in Brig",
+   "desc": "This Brig restaurant hosts raclette evenings on Monday, Wednesday and Friday, using cheese from the Augstbord dairy in Turtmann. Its menu also lists Cholera, the Valais pie of leeks, potatoes, apples and cheese.",
+   "tip": "Order the Cholera or go for the raclette on one of the three evenings, from 17:00.",
+   "q": "Restaurant Walliserstuba, Brig",
+   "ll": [
+    46.31763,
+    7.9883
+   ],
+   "src": [
+    "https://brig-simplon.ch/en/gastro/restaurant-walliserstuba",
+    "https://www.timeout.com/switzerland/things-to-do/10-restaurants-to-give-you-a-flavour-of-valais"
+   ]
+  },
+  {
+   "id": "zurmuehlesaasfee",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order a Walliser fondue at Zur Mühle in Saas-Fee",
+   "desc": "Hotel-Restaurant Zur Mühle on Dorfstrasse is known for Walliser cheese fondue and for meat fondue made from local Eringer beef.",
+   "tip": "Try the cheese fondue. Reserve in high season; opening times vary, so check ahead.",
+   "q": "Hotel Restaurant Zur Mühle, Dorfstrasse 61, 3906 Saas-Fee",
+   "ll": [
+    46.10458,
+    7.92511
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/hotel-restaurant-zur-muehle",
+    "https://saas-fee.ch/fileadmin/user_upload/documents/Saastal_Tourismus_AG/Kulinarisches-Saastal-2020-DE-Web.pdf"
+   ]
+  },
+  {
+   "id": "plancerisier",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste an assiette valaisanne at Plan-Cerisier",
+   "desc": "This Café-Restaurant above Martigny carries the Saveurs du Valais label and cooks Valais dishes with local products, including the assiette valaisanne and fondues.",
+   "tip": "Reservation is required; raclette is not served in October and November.",
+   "q": "Café-Restaurant de Plan-Cerisier, Martigny-Croix",
+   "ll": [
+    46.09053,
+    7.05304
+   ],
+   "src": [
+    "https://www.martigny.com/en/activities-and-wealth/restaurant-de-plan-cerisier-2894/",
+    "https://www.myswitzerland.com/en-gb/experiences/food-wine/restaurant/cafe-restaurant-de-plan-cerisier/"
+   ]
+  },
+  {
+   "id": "hotelmoiry",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste wood-fire raclette at the Hôtel de Moiry",
+   "desc": "At the Lac de Moiry above Grimentz, the Hôtel-Restaurant de Moiry serves raclette melted over a large open wood fire, using cheese from the Val d'Anniviers.",
+   "tip": "Served daily in season, with lake and glacier views. Check opening dates, as the road to the dam may close in winter.",
+   "q": "Hôtel Restaurant de Moiry, Lac de Moiry, 3961 Grimentz",
+   "ll": [
+    46.1112,
+    7.5868
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-ch/experiences/food-wine/restaurant/hotel-restaurant-de-moiry"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "lemayen",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat raclette at Le Mayen in Crans-Montana",
+   "desc": "Le Mayen has been family-run since 1968 and holds the Saveurs du Valais label. Guides single it out for authentic Valais raclette.",
+   "tip": "Order the raclette with potatoes and pickles. Book a table in the ski season.",
+   "q": "Restaurant Le Mayen, 3963 Crans-Montana",
+   "ll": [
+    46.31162,
+    7.48121
+   ],
+   "src": [
+    "https://www.valais.ch/en/taste/activities/gastronomy/restaurants-saveurs-du-valais/le-mayen",
+    "https://www.iloveski.org/en/2025/02/14/where-to-eat-in-crans-montana/"
+   ]
+  },
+  {
+   "id": "lecaveauverbier",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Share a Bagnes raclette at Le Caveau in Verbier",
+   "desc": "Le Caveau is described as one of the most popular places in Verbier for fondue and raclette, using the prized Bagnes cheeses.",
+   "tip": "Go for the raclette de Bagnes or a cheese fondue. Reserve in winter, as it is often full.",
+   "q": "Restaurant Le Caveau, Verbier",
+   "ll": [
+    46.0968,
+    7.2285
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/restaurant-le-caveau/",
+    "https://www.seeverbier.com/restaurants/le-caveau-restaurant-verbier-centre-65361"
+   ]
+  },
+  {
+   "id": "sternenleukerbad",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have fondue at the Sternen, Leukerbad's oldest restaurant",
+   "desc": "Restaurant Sternen in Sternengässi is a family business and is listed as the oldest restaurant in Leukerbad, with fondue and raclette among its Valais specialities.",
+   "tip": "Open Tuesday to Saturday, 11:00 to 23:00 per the listing. Try the fondue after a day in the baths.",
+   "q": "Restaurant Sternen, Sternengässi 6, 3954 Leukerbad",
+   "ll": [
+    46.37906,
+    7.62947
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/restaurant-sternen-13/"
+   ]
+  },
+  {
+   "id": "cantinedesrives",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try the Tzeudron raclette at Cantine des Rives in Champéry",
+   "desc": "This clifftop alpine restaurant overlooks Champéry and melts Raclette du Valais before a wood fire. Its own speciality is the Tzeudron des Rives.",
+   "tip": "Order the raclette or the Tzeudron. Check opening times by season on the Dents du Midi region site.",
+   "q": "Cantine des Rives, 1874 Champéry",
+   "ll": [
+    46.17036,
+    6.87819
+   ],
+   "src": [
+    "https://www.regiondentsdumidi.ch/en/cantine-des-rives-fp14"
+   ]
+  },
+  {
+   "id": "berghaustoni",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order Cholera at Berghaus Toni on Riederalp",
+   "desc": "The Berghaus Toni, a chalet hotel in the Aletsch Arena, serves raclette daily and Cholera, and holds the Saveurs du Valais label.",
+   "tip": "Try the Cholera or the raclette after a morning hike; Riederalp is car-free and reached by cable car from Mörel.",
+   "q": "Berghaus Toni, Riederalp",
+   "ll": [
+    46.37731,
+    8.02528
+   ],
+   "src": [
+    "https://www.valais.ch/en/taste/activities/gastronomy/restaurants-saveurs-du-valais/berghaus-toni",
+    "https://www.timeout.com/switzerland/things-to-do/10-restaurants-to-give-you-a-flavour-of-valais"
+   ]
+  }
+ ]
+}

@@ -39,12 +39,12 @@ window.CITIES.regensburg = {
     rgaltelinde: [49.0229, 12.0959], rgspitalgarten: [49.0239, 12.0964], rgprinzess: [49.0195, 12.0958],
     rgkneitinger: [49.0197, 12.0888], rgweltenburger: [49.0187, 12.0993], rgbischofshof: [49.0199, 12.0979],
     rgeisamdom: [49.0196, 12.0956], rgwalhallaboat: [49.0212, 12.0978], rgthurnxmas: [49.0153, 12.0917],
-    rgchristkindl: [49.0185, 12.0958], rgmaidult: [49.0269, 12.0904], 
-    rgdomspatzen: [49.0196, 12.0973], rgstadtamhof: [49.0249, 12.0956], rgwoehrd: [49.0246, 12.0869],
-    rghaidplatz: [49.0197, 12.0928], rgdonauradweg: [49.0210, 12.1040], lstrausnitz: [48.5314, 12.1528],
-    lsstmartin: [48.5347, 12.1516], lsstadtresidenz: [48.5362, 12.1512], lsheiliggeist: [48.5386, 12.1530],
-    lskoenigmuseum: [48.5332, 12.1553], lsfreischuetz: [48.5409, 12.1533], lskrenkl: [48.5377, 12.1519],
-    lsaltstadt: [48.5361, 12.1542], lsisar: [48.5403, 12.1511]
+    rgchristkindl: [49.0185, 12.0958], rgmaidult: [49.0269, 12.0904], rgdomspatzen: [49.0196, 12.0973],
+    rgstadtamhof: [49.0249, 12.0956], rgwoehrd: [49.0246, 12.0869], rghaidplatz: [49.0197, 12.0928],
+    rgdonauradweg: [49.0210, 12.1040], lstrausnitz: [48.5314, 12.1528], lsstmartin: [48.5347, 12.1516],
+    lsstadtresidenz: [48.5362, 12.1512], lsheiliggeist: [48.5386, 12.1530], lskoenigmuseum: [48.5332, 12.1553],
+    lsfreischuetz: [48.5409, 12.1533], lskrenkl: [48.5377, 12.1519], lsaltstadt: [48.5361, 12.1542],
+    lsisar: [48.5403, 12.1511]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {

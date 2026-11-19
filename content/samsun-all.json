@@ -1,0 +1,787 @@
+{
+ "new": [
+  {
+   "id": "gazimuseumsamsun",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step into Atatürk's Samsun house at the Gazi Museum",
+   "desc": "The Gazi Museum, opened on 5 October 1940, occupies the mansion where Atatürk stayed in Samsun. It displays his belongings, photographs and documents from the early days of the independence struggle.",
+   "tip": "Open daily, roughly 08:30-16:30 (hours vary by season). Allow an hour.",
+   "q": "Gazi Müzesi, Kale Mahallesi, İlkadım, Samsun",
+   "ll": [
+    41.29016,
+    36.33239
+   ],
+   "src": [
+    "https://www.habergazetesi.com.tr/samsunda-gezilecek-muzeler-tarih-ve-kulturun-bulusma-noktasi",
+    "https://cnnturk.com/yazarlar/guncel/defne-ince/milli-mucadelenin-basladigi-sehir-samsun"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "samsunarchaeology",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Amisos Treasures at Samsun Museum",
+   "desc": "Samsun Archaeology and Ethnography Museum opened in 1981 and holds finds from Classical to Ottoman times. Its highlight is the Amisos Treasures, grave goods from the tumuli on Amisos Hill, with an ethnography section on local life.",
+   "tip": "Pair it with the Amisos Hill cable car, since the tombs the finds came from are on the hill above Batıpark.",
+   "q": "Samsun Müzesi, Cumhuriyet Meydanı, İlkadım, Samsun",
+   "ll": [
+    41.30685,
+    36.33428
+   ],
+   "src": [
+    "https://tr.wikipedia.org/wiki/Samsun_Müzesi"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "onuranitisamsun",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stand before the Onur Anıtı in Cumhuriyet Square",
+   "desc": "The Atatürk monument, known as the Onur Anıtı, was made in 1931 by the Austrian sculptor Heinrich Krippel and paid for by public donations. It marks the city's link with Atatürk's landing on 19 May 1919.",
+   "tip": "Free and always open; the square is liveliest on 19 May.",
+   "q": "Onur Anıtı, Cumhuriyet Meydanı, İlkadım, Samsun",
+   "ll": [
+    41.28909,
+    36.33646
+   ],
+   "src": [
+    "https://www.flypgs.com/sehir-rehberi/samsunda-gezilecek-yerler"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "amisostepesi",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Ride the Amisos Hill cable car to the Pontic tumuli",
+   "desc": "A cable car climbs from Batıpark to Amisos Hill, the site of ancient Amisos. The hilltop has two Hellenistic tumuli with Pontic-period tomb chambers, plus cafés with views over Samsun and the bay.",
+   "tip": "Go late afternoon for the light over the city; the cable car depends on weather.",
+   "q": "Amisos Tepesi Teleferik, Batıpark, İlkadım, Samsun",
+   "ll": [
+    41.31901,
+    36.32248
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/turkey/samsun/attractions/amisos-tepesi/a/poi-sig/1491214/1319806",
+    "https://www.flypgs.com/sehir-rehberi/samsunda-gezilecek-yerler"
+   ]
+  },
+  {
+   "id": "nuriusta",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat closed kıymalı pide at Samsun Pidecisi Nuri Usta",
+   "desc": "Samsun pide is traditionally the long closed-top (kapalı) pide filled with minced meat. Nuri Usta on Aziziye Caddesi is among the names Samsun guides repeat for it.",
+   "tip": "Order the kapalı kıymalı pide with ayran; go before the evening rush.",
+   "q": "Samsun Pidecisi Nuri Usta, Aziziye Caddesi 29, Karadeniz Mahallesi, İlkadım, Samsun",
+   "ll": [
+    41.28389,
+    36.33849
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/2711151",
+    "https://yemek.com/samsunda-en-iyi-pide-nerede-yenir/"
+   ]
+  },
+  {
+   "id": "ikizlertandir",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order lamb tandır at İkizler Tandır",
+   "desc": "İkizler Tandır, in the Kale district near the old centre, is a home-style restaurant known for slow-cooked lamb tandır. Samsun food guides list it for this dish.",
+   "tip": "Ask for the tandır with pilav; lunch is the busiest time.",
+   "q": "İkizler Tandır, Kale Mahallesi, İlkadım, Samsun",
+   "ll": [
+    41.2905,
+    36.3335
+   ],
+   "src": [
+    "https://yemek.com/samsun-mekanlari/",
+    "https://www.flypgs.com/sehir-rehberi/samsunda-nerede-ne-yenir"
+   ]
+  },
+  {
+   "id": "lezzetdoner1925",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try wood-fired döner at Lezzet Döner 1925",
+   "desc": "Lezzet Döner 1925 in the Pazar district cooks its döner over wood fire and serves home-made ayran. It is one of the Samsun picks in Yemek.com's local guide.",
+   "tip": "Pair with the house ayran; expect a lunch queue.",
+   "q": "Lezzet Döner 1925, Pazar Mahallesi, İlkadım, Samsun",
+   "ll": [
+    41.29508,
+    36.33215
+   ],
+   "src": [
+    "https://yemek.com/samsun-mekanlari/"
+   ]
+  },
+  {
+   "id": "istiklalsimit",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Bite into a Samsun simit and atom at İstiklal Simit Fırını",
+   "desc": "İstiklal Simit Fırını in Ulugazi is cited for Samsun-style simit and for atom, a meringue-like local sweet. It is a morning stop for locals.",
+   "tip": "Go for breakfast while the simit is warm.",
+   "q": "İstiklal Simit Fırını, Ulugazi Mahallesi, İlkadım, Samsun",
+   "ll": [
+    41.28705,
+    36.30758
+   ],
+   "src": [
+    "https://yemek.com/samsun-mekanlari/"
+   ]
+  },
+  {
+   "id": "efespastanesi",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste supangle at Efes Pastanesi in Düvencik",
+   "desc": "Efes Pastanesi, open since 1975, is known for supangle, a dense chocolate-and-cocoa pudding dessert that Samsun treats as a local classic. It sits in the Zafer district at Düvencik.",
+   "tip": "Take a slice with Turkish tea; it is a short drive from the centre.",
+   "q": "Efes Pastanesi, Düvencik, Zafer Mahallesi, İlkadım, Samsun",
+   "ll": [
+    41.31377,
+    36.32064
+   ],
+   "src": [
+    "https://yemek.com/samsun-mekanlari/"
+   ]
+  },
+  {
+   "id": "havzaataturkevi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Atatürk's house in Havza",
+   "desc": "In June 1919 Atatürk stayed in Havza on his way inland from Samsun and issued the Havza Circular here. The house where he lodged is now a museum with period furniture and photographs.",
+   "tip": "Havza is about 90 km from Samsun; combine with the thermal baths.",
+   "q": "Havza Atatürk Evi ve Müzesi, Atatürk Caddesi, Medrese Mahallesi, Havza, Samsun",
+   "ll": [
+    40.97064,
+    35.65878
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Havza_Atat%C3%BCrk%27s_House_Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "havzakaplica",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Soak in Havza's thermal baths",
+   "desc": "Havza has been known for its hot springs since Roman and Ottoman times, and Atatürk took the waters here in 1919. The town's thermal facilities still use the mineral water.",
+   "tip": "Check separate men's and women's hours before going.",
+   "q": "Havza Kaplıcaları, Havza, Samsun",
+   "ll": [
+    40.96571,
+    35.6671
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Havza"
+   ]
+  },
+  {
+   "id": "vezirkoprutasmedrese",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look into the Taşmedrese in Vezirköprü",
+   "desc": "The Taşmedrese is a stone medrese in the centre of Vezirköprü, part of the town's Seljuk and Ottoman heritage listed by local guides. The Köprülü family of grand viziers gave the town its name.",
+   "tip": "Wander the old Ottoman houses nearby afterwards.",
+   "q": "Taşmedrese, Vezirköprü, Samsun",
+   "ll": [
+    41.14389,
+    35.45839
+   ],
+   "src": [
+    "https://www.habergazetesi.com.tr/samsun-vezirkopru-sahinkaya-kanyonu-tekne-turu-nasil-yapilir"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sahinkayacanyon",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Take the boat through Şahinkaya Canyon",
+   "desc": "Şahinkaya Canyon near Vezirköprü was declared a national tourism zone in 2012 and a nature park in 2015. Boats run through its narrow limestone gorge from the Türkmen village and Vezirsuyu park landings.",
+   "tip": "Go on a weekday to avoid queues; there is no public transport, so you need a car.",
+   "q": "Şahinkaya Kanyonu, Türkmen Köyü, Vezirköprü, Samsun",
+   "ll": [
+    41.27079,
+    35.40571
+   ],
+   "src": [
+    "https://www.habergazetesi.com.tr/samsun-vezirkopru-sahinkaya-kanyonu-tekne-turu-nasil-yapilir",
+    "https://kureansiklopedi.com/tr/detay/sahinkaya-kanyonu-749406"
+   ]
+  },
+  {
+   "id": "kizilirmakdelta",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch birds in the Kızılırmak Delta",
+   "desc": "The Kızılırmak Delta in Bafra is a Ramsar wetland and UNESCO tentative-list site with roughly 350 recorded bird species. Cars are kept out, so you cycle or take battery vehicles to the observation towers.",
+   "tip": "Spring and autumn migration are best; bring binoculars.",
+   "q": "Kızılırmak Deltası Kuş Cenneti, Bafra, Samsun",
+   "ll": [
+    41.66977,
+    36.03552
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/K%C4%B1z%C4%B1l%C4%B1rmak_Delta",
+    "https://www.haber7.com/samsun/2624473-kizilirmak-deltasi-kus-gozlemcilerini-bekliyor"
+   ]
+  },
+  {
+   "id": "ladikgolu",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Picnic and paddle at Ladik Lake",
+   "desc": "Ladik Lake is a freshwater lake in the Ladik district, ringed by hills and pine, used for picnics, fishing and short boat trips. It is a weekend escape from Samsun.",
+   "tip": "Visit in summer; there are lakeside tea gardens.",
+   "q": "Ladik Gölü, Ladik, Samsun",
+   "ll": [
+    40.90649,
+    36.01537
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ladik,_Samsun"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "cakallitashan",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try kaz tiridi at Çakallı Taşhan in Kavak",
+   "desc": "Kavak, in the hills south of Samsun, is home to kaz tiridi, goose served over bread soaked in broth. Çakallı Taşhan is the venue named for it in Samsun food guides.",
+   "tip": "Call ahead on weekends; the dish is heavy, so share.",
+   "q": "Çakallı Taşhan, Çakallı, Kavak, Samsun",
+   "ll": [
+    41.14133,
+    36.11627
+   ],
+   "src": [
+    "https://artofwayfaring.com/destinations/cakalli-tashan-caravanserai/",
+    "https://restaurantguru.com/Cakalli-tashan-Cakalli-Koyu"
+   ]
+  },
+  {
+   "id": "menemencidayi",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have Çakallı menemen at Meşhur Menemenci Dayı",
+   "desc": "Meşhur Menemenci Dayı in Saraykent, Kavak, is known for Çakallı menemen, the local take on the egg-and-tomato dish. It is a breakfast stop in the Kavak hills.",
+   "tip": "Go for breakfast; pair with village bread and tea.",
+   "q": "Meşhur Menemenci Dayı, Saraykent Mahallesi, Kavak, Samsun",
+   "ll": [
+    41.18121,
+    36.11245
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/2711096/meşhur-menemenci-dayı",
+    "https://www.habergazetesi.com.tr/samsunda-en-iyi-cakalli-menemeni-nerede-yenir"
+   ]
+  },
+  {
+   "id": "sevkidayicarsamba",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Çarşamba köftesi at Şevki Dayı",
+   "desc": "Çarşamba, on the Yeşilırmak plain east of Samsun, is known for its grilled köfte. Şevki Dayı's Meşhur Çarşamba Köftecisi is the venue Samsun guides name for it.",
+   "tip": "Order the köfte with piyaz; busiest at lunch.",
+   "q": "Şevki Dayı'nın Yeri Meşhur Çarşamba Köftecisi, Yeni Samsun Caddesi 19/C, Sungurlu Mahallesi, Çarşamba, Samsun",
+   "ll": [
+    41.20372,
+    36.72264
+   ],
+   "src": [
+    "https://restaurantguru.com/Meshur-Carsamba-Koftecisi-Sevki-Dayinin-Yeri-Carsamba"
+   ]
+  },
+  {
+   "id": "bizlerpide",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order Terme pide at Bizler Pide Salonu",
+   "desc": "Terme, east of Samsun, has its own long, thin open-style pide. Bizler Pide Salonu on Çağlayan Caddesi is the Terme address Samsun guides name, with chicken soup alongside.",
+   "tip": "Try the Terme pide with the house chicken soup.",
+   "q": "Bizler Pide Salonu, Çağlayan Caddesi 7, Çay Mahallesi, Terme, Samsun",
+   "ll": [
+    41.20861,
+    36.97235
+   ],
+   "src": [
+    "https://yemek.com/samsun-mekanlari/",
+    "https://cnnturk.com/yasam/samsunun-tescilli-lezzeti-terme-pidesinin-unu-ulke-sinirlarini-asti"
+   ]
+  },
+  {
+   "id": "nezahatsahinnokul",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Buy hand-rolled nokul at Nezahat Şahin in Bafra",
+   "desc": "Nezahat Şahin Bafra Nokul ve Lokumevi sells nokul, a hand-rolled pastry filled with raisins and walnuts that is a Bafra speciality. It is a shop to buy and take away.",
+   "tip": "Buy a box to take home; it also sells lokum.",
+   "q": "Nezahat Şahin Bafra Nokul ve Lokumevi, Hacı Kabaş Sokak, Hacınabi Mahallesi, Bafra, Samsun",
+   "ll": [
+    41.56576,
+    35.90316
+   ],
+   "src": [
+    "https://yandex.com/maps/org/bafra_kaymakli_lokum_evi_nezahat_sahin/93330978826/",
+    "https://wanderlog.com/place/details/3217601/bafra-kaymakli-house-delights"
+   ]
+  },
+  {
+   "id": "yalikoykoftesiburhan",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Yalıköy köfte at Yalıköy Köftecisi Burhan",
+   "desc": "Yalıköy köftesi, made from cubed beef with the gristle trimmed away, is the speciality of the Fatsa coast and has a registered geographical indication. Yalıköy Köftecisi Burhan Ay is a long-standing köfte shop in Fatsa.",
+   "tip": "Order it with bread and onions; lunchtime is busiest.",
+   "q": "Yalıköy Köftecisi Burhan Ay, Asfalt Caddesi, Güvercinlik, Fatsa, Ordu",
+   "ll": [
+    41.02478,
+    37.55865
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/2737625",
+    "https://www.trthaber.com/haber/guncel/ordunun-tescilli-lezzeti-yalikoy-koftesi-659487.html"
+   ]
+  },
+  {
+   "id": "sinopcezaevi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the Sinop Fortress Prison",
+   "desc": "Inside the fortress, a prison was used until 1999 and is now a museum. Its inmates included writers Sabahattin Ali and Refik Halit Karay, and it is nicknamed the Alcatraz of Anatolia.",
+   "tip": "Allow an hour; check winter opening days.",
+   "q": "Tarihi Sinop Cezaevi ve Müzesi, Sinop Merkez, Sinop",
+   "ll": [
+    42.02444,
+    35.14306
+   ],
+   "src": [
+    "https://tr.wikipedia.org/wiki/Tarihî_Sinop_Cezaevi",
+    "https://www.lonelyplanet.com/pois/1060210"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "sinoparchaeology",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See ancient Sinope's coins at the Archaeology Museum",
+   "desc": "Sinop Archaeology Museum opened in 1970 and reopened after renovation in 2006. It holds stone tools, small finds and coins from the ancient colony of Sinope.",
+   "tip": "Allow an hour; a rainy-day stop.",
+   "q": "Sinop Arkeoloji Müzesi, Sinop Merkez, Sinop",
+   "ll": [
+    42.02754,
+    35.15107
+   ],
+   "src": [
+    "https://www.flypgs.com/sehir-rehberi/sinopta-gezilecek-yerler"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "sinopethnography",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Sinop Ethnography Museum mansion",
+   "desc": "The Ethnography Museum is a four-storey building in the style of an 18th-century mansion. It displays regional swords, jewellery and looms.",
+   "tip": "A rainy-day stop in the old town.",
+   "q": "Sinop Etnografya Müzesi, Sinop Merkez, Sinop",
+   "ll": [
+    42.02644,
+    35.15282
+   ],
+   "src": [
+    "https://www.flypgs.com/sehir-rehberi/sinopta-gezilecek-yerler"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "sahintepesi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb Şahin Tepesi for the Sinop panorama",
+   "desc": "Şahin Tepesi in Kefevi is a hilltop once used as a lookout, now a popular viewpoint over the city and sea.",
+   "tip": "Go late afternoon; reachable by car.",
+   "q": "Şahin Tepesi, Kefevi Mahallesi, Sinop Merkez, Sinop",
+   "ll": [
+    42.02997,
+    35.16489
+   ],
+   "src": [
+    "https://www.flypgs.com/sehir-rehberi/sinopta-gezilecek-yerler"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "inceburunfeneri",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See İnceburun Lighthouse at Turkey's northern tip",
+   "desc": "İnceburun Lighthouse stands on İnceburun, generally described as Turkey's northernmost point. It was built in 1863 and is a 12 m tower on the cape.",
+   "tip": "About 20 km from Sinop; go by car and bring a windbreaker.",
+   "q": "İnceburun Feneri, İnceburun, Sinop",
+   "ll": [
+    42.09694,
+    34.945
+   ],
+   "src": [
+    "https://tr.wikipedia.org/wiki/İnceburun_Feneri",
+    "https://en.wikipedia.org/wiki/%C4%B0nceburun_Lighthouse"
+   ]
+  },
+  {
+   "id": "tatlicasel",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the Erfelek Tatlıca waterfalls",
+   "desc": "The Tatlıca waterfalls near Erfelek form a cascade of around 28 falls along one valley in a nature park. A path follows the stream through forest.",
+   "tip": "Entry fee; trout restaurants on site. Spring flow is strongest.",
+   "q": "Erfelek Tatlıca Şelaleleri Tabiat Parkı, Erfelek, Sinop",
+   "ll": [
+    41.83966,
+    34.77999
+   ],
+   "src": [
+    "https://www.flypgs.com/sehir-rehberi/sinopta-gezilecek-yerler",
+    "https://theculturetrip.com/europe/turkey/articles/the-most-fascinating-sights-in-sinop-turkey"
+   ]
+  },
+  {
+   "id": "hamsilos",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim and picnic at Hamsilos Bay",
+   "desc": "Hamsilos is a fjord-like inlet where the sea reaches into a forested valley, about 11 km from Sinop. It lies in a nature park designated a first-degree natural site in 1991.",
+   "tip": "Go early in summer; camping is possible.",
+   "q": "Hamsilos Tabiat Parkı, Sinop",
+   "ll": [
+    42.056,
+    35.04769
+   ],
+   "src": [
+    "https://goturkiye.com/sinop/smell",
+    "https://www.flypgs.com/sehir-rehberi/sinopta-gezilecek-yerler"
+   ]
+  },
+  {
+   "id": "akgolayancik",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike to Akgöl plateau in Ayancık",
+   "desc": "Akgöl is a forested plateau lake at about 1,200 m near Ayancık, known for wildlife and walking trails.",
+   "tip": "Summer only; roads can be rough.",
+   "q": "Akgöl Tabiat Parkı, Ayancık, Sinop",
+   "ll": [
+    41.70028,
+    34.59611
+   ],
+   "src": [
+    "https://tr.wikipedia.org/wiki/Akgöl_Tabiat_Parkı",
+    "https://kureansiklopedi.com/en/detay/akgol-nature-park-a33a4"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "inaltimagarasi",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Explore İnaltı Cave near Ayancık",
+   "desc": "İnaltı Cave is about 700 m long with stalactites and travertine formations; it opened to visitors in 2004.",
+   "tip": "Bring a light jacket; check seasonal opening.",
+   "q": "İnaltı Mağarası, Ayancık, Sinop",
+   "ll": [
+    41.73182,
+    34.56909
+   ],
+   "src": [
+    "https://www.flypgs.com/sehir-rehberi/sinopta-gezilecek-yerler"
+   ]
+  },
+  {
+   "id": "ornekmanti",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Sinop mantısı at Sinop Örnek Mantı",
+   "desc": "Sinop mantısı is cut larger than Kayseri's and folded into ear shapes, usually served half with yoghurt and half with walnuts. Örnek Mantı near the harbour is the name most often cited for it.",
+   "tip": "Order the half yoghurt, half walnut plate.",
+   "q": "Sinop Örnek Mantı, İskele Caddesi 3, Meydankapı Mahallesi, Sinop Merkez, Sinop",
+   "ll": [
+    42.02408,
+    35.15033
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/2731470/sinop-manti",
+    "https://uk.trip.com/restaurant/trkiye/sinop/detail/sinop-ornek-manti-nokul-borek-kahvalti-34998152"
+   ]
+  },
+  {
+   "id": "karousagerze",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat nokul and mantı at Karousa in Gerze",
+   "desc": "Karousa Mantı & Nokul on Uğur Mumcu Square in Gerze serves mantı and nokul with walnut, raisin and other fillings.",
+   "tip": "Try the walnut nokul.",
+   "q": "Karousa Mantı & Nokul, Atatürk Caddesi, Çarşı Mahallesi, Gerze, Sinop",
+   "ll": [
+    41.80314,
+    35.19977
+   ],
+   "src": [
+    "https://yandex.com.tr/maps/org/karousa_manti_nokul/81311444383/",
+    "https://www.tripadvisor.com/Restaurant_Review-g3237778-d21319788-Reviews-Karousa_Manti-Gerze_Sinop_Province_Turkish_Black_Sea_Coast.html"
+   ]
+  },
+  {
+   "id": "kardelenrestaurant",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have fish at Kardelen Restaurant by the harbour",
+   "desc": "Kardelen Restaurant on İskele Caddesi is a family-run place serving fish and home cooking, with mantı limited daily.",
+   "tip": "Ask what the day's catch is.",
+   "q": "Kardelen Balık Evi, İskele Caddesi 4/A, Meydankapı Mahallesi, Sinop Merkez, Sinop",
+   "ll": [
+    42.02418,
+    35.15019
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/16037437/kardelen-balik-evi",
+    "https://yemek.com/sinopta-manti-nerede-yenir/"
+   ]
+  },
+  {
+   "id": "ozturkerfelek",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat kulak mantısı at Öztürk in Erfelek",
+   "desc": "Öztürk Restaurant in Erfelek serves breakfast, home cooking and regional dishes, with Sinop mantısı on some days.",
+   "tip": "Stop here on the way to the waterfalls.",
+   "q": "Öztürk Restaurant, Merkez Mahallesi, Erfelek, Sinop",
+   "ll": [
+    41.87746,
+    34.90763
+   ],
+   "src": [
+    "https://yemek.com/sinopta-manti-nerede-yenir/"
+   ]
+  },
+  {
+   "id": "pasaoglukonagi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour Paşaoğlu Mansion in Ordu",
+   "desc": "Paşaoğlu Konağı was built in 1896 by Paşaoğlu Hüseyin Efendi, with stone from Ünye and timber from Romania. It now serves as a mansion and ethnography museum.",
+   "tip": "Combine with Taşbaşı Church nearby.",
+   "q": "Paşaoğlu Konağı ve Etnografya Müzesi, Taşocak Caddesi, Selimiye Mahallesi, Altınordu, Ordu",
+   "ll": [
+    40.98278,
+    37.87528
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ordu_Ethnographical_Museum",
+    "https://kureansiklopedi.com/en/detay/pasaoglu-konagi-ve-etnografya-muzesi-0f585"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "tasbasikilisesi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Taşbaşı Church in Ordu",
+   "desc": "Taşbaşı Church was built in 1853 by Greek Orthodox residents from cut stone and later used as a prison. It stands in central Ordu.",
+   "tip": "Free to see from outside.",
+   "q": "Taşbaşı Kilisesi, Altınordu, Ordu",
+   "ll": [
+    40.99193,
+    37.87519
+   ],
+   "src": [
+    "https://www.flypgs.com/sehir-rehberi/orduda-gezilecek-yerler"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "yasonburnu",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Watch sunset at Yason Burnu chapel",
+   "desc": "Yason Burnu is a peninsula near Perşembe with a 19th-century Orthodox chapel and archaeological protection. Sunsets here are a local favourite.",
+   "tip": "Bring a jacket; the point is windy.",
+   "q": "Yason Burnu, Çaytepe, Perşembe, Ordu",
+   "ll": [
+    41.13523,
+    37.68256
+   ],
+   "src": [
+    "https://www.flypgs.com/sehir-rehberi/orduda-gezilecek-yerler",
+    "https://www.enuygun.com/bilgi/ordu-da-gezilecek-yerler/"
+   ]
+  },
+  {
+   "id": "bolamankalesi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb to Bolaman Castle",
+   "desc": "Bolaman Castle dates to the Pontic period and has a guard post and a viewing section.",
+   "tip": "Check the road before going.",
+   "q": "Bolaman Kalesi, Ordu",
+   "ll": [
+    41.03669,
+    37.59157
+   ],
+   "src": [
+    "https://www.flypgs.com/sehir-rehberi/orduda-gezilecek-yerler"
+   ]
+  },
+  {
+   "id": "unyekalesi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore Ünye Castle and its rock tombs",
+   "desc": "Ünye Castle is built on a single rock mass with walls, tunnels and rock-cut tombs; it is a first-degree archaeological site.",
+   "tip": "Take a taxi up and combine with Tozkoparan.",
+   "q": "Ünye Kalesi, Ünye, Ordu",
+   "ll": [
+    41.09713,
+    37.24013
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/points-of-interest/uenye-castle/1248124",
+    "https://kureansiklopedi.com/en/detay/unye-kalesi-811b2"
+   ]
+  },
+  {
+   "id": "unyesaraycamii",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Ünye's oldest mosque, the Saray Camii",
+   "desc": "Saray Camii on Cumhuriyet Meydanı was built in 1719-20 of cut Ünye stone and is the oldest mosque still standing in the town. It took its name from the nearby Süleyman Paşa palace and was restored in 2006-07.",
+   "tip": "Step into the square afterwards for the cafés and the old bath nearby.",
+   "q": "Saray Camii, Hamidiye Mahallesi, Cumhuriyet Meydanı, Ünye, Ordu",
+   "ll": [
+    41.13139,
+    37.28556
+   ],
+   "src": [
+    "https://tr.wikipedia.org/wiki/Saray_Camii"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "boztepe",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Boztepe cable car above Ordu",
+   "desc": "A cable car from 15 Temmuz Square rises to Boztepe, about 450 m up, with Black Sea views, cafés and a paragliding take-off.",
+   "tip": "Go late afternoon for the view.",
+   "q": "Boztepe Teleferik, Altınordu, Ordu",
+   "ll": [
+    40.9873,
+    37.87123
+   ],
+   "src": [
+    "https://kureansiklopedi.com/detay/boztepe-9d8e9",
+    "https://www.flypgs.com/sehir-rehberi/orduda-gezilecek-yerler"
+   ]
+  },
+  {
+   "id": "persembeyaylasi",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Spend a day on Perşembe Plateau",
+   "desc": "Perşembe Plateau, at about 1,500 m, is Ordu's best-known highland, busy with festivals in summer. It offers hiking and paragliding.",
+   "tip": "Summer only.",
+   "q": "Perşembe Yaylası, Aybastı, Ordu",
+   "ll": [
+    40.63045,
+    37.30905
+   ],
+   "src": [
+    "https://goturkiye.com/ordu/see",
+    "https://milliyet.com.tr/galeri/persembe-yaylasi-gorenleri-buyuluyor-2492040"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "cambasi",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ski or hike at Çambaşı Plateau",
+   "desc": "Çambaşı Plateau in Kabadüz has a ski centre that opened in 2017, drawing winter weekenders and summer picnickers.",
+   "tip": "Check snow conditions first.",
+   "q": "Çambaşı Yaylası, Kabadüz, Ordu",
+   "ll": [
+    40.62693,
+    37.96297
+   ],
+   "src": [
+    "https://www.enuygun.com/bilgi/ordu-da-gezilecek-yerler/"
+   ]
+  },
+  {
+   "id": "aktaslarordu",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try Nelipide at Aktaşlar in Ordu",
+   "desc": "Aktaşlar on Fatih Caddesi is a pide place in the Şarkiye district of Altınordu.",
+   "tip": "Lunchtime.",
+   "q": "Aktaşlar Nelipide, Fatih Caddesi 3, Şarkiye Mahallesi, Altınordu, Ordu",
+   "ll": [
+    40.98567,
+    37.87948
+   ],
+   "src": [
+    "https://yemek.com/orduda-en-iyi-pide-nerede-yenir/"
+   ]
+  }
+ ]
+}

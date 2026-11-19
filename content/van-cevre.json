@@ -1,0 +1,665 @@
+{
+ "new": [
+  {
+   "id": "akdamarchurch",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Cross to Akdamar Island and its Armenian church",
+   "desc": "The Holy Cross Church on Akdamar was built 915-921 for King Gagik Artsruni of Vaspurakan. Its outer walls carry dense biblical reliefs, among the finest of medieval Armenian sculpture.",
+   "tip": "Boats leave Gevaş pier about every 30 minutes in season and the crossing takes 20 minutes. Allow an hour on the island; almond blossom in April is lovely.",
+   "q": "Akdamar Adası Surp Haç Kilisesi, Gevaş, Van",
+   "ll": [
+    38.34167,
+    43.03528
+   ],
+   "src": [
+    "https://commons.wikimedia.org/wiki/Category:Akdamar_Church"
+   ]
+  },
+  {
+   "id": "halimehatun",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Halime Hatun tomb in Gevaş",
+   "desc": "This octagonal tomb in Gevaş was built in 1358 for Halime Hatun. The stone drum with a conical roof is richly carved and sits in a small cemetery by the road.",
+   "tip": "The tomb is on the main road in Gevaş, a short stop before or after Akdamar. It is open air and free.",
+   "q": "Halime Hatun Kümbeti, Gevaş, Van",
+   "ll": [
+    38.31066,
+    43.11723
+   ],
+   "src": [
+    "https://tr.wikipedia.org/wiki/Halime_Hatun_Kümbeti"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hosapcastle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb Hoşap Castle above the Hoşap stream",
+   "desc": "This Kurdish fortress at Güzelsu was built in 1643 by the local ruler Sarı Süleyman Bey. Its rock-cut stairs, gate and inscription survive on a crag above the Hoşap river.",
+   "tip": "Stop on the Van to Hakkari road. The climb is short but steep; a small fee applies and a tea garden sits below.",
+   "q": "Hoşap Kalesi, Güzelsu, Gürpınar, Van",
+   "ll": [
+    38.31722,
+    43.80167
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Hoşap_Castle"
+   ]
+  },
+  {
+   "id": "cavustepe",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the Urartian ruins of Çavuştepe",
+   "desc": "Çavuştepe was a royal Urartian fortress built by King Sarduri II in the 8th century BC, with temple and palace foundations and cut-stone terraces. The site overlooks the Hoşap plain.",
+   "tip": "Excavated ruins on a hilltop; bring water and shade. Combine with Hoşap Castle on the same day.",
+   "q": "Çavuştepe Kalesi, Gürpınar, Van",
+   "ll": [
+    38.35244,
+    43.45939
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Çavuştepe"
+   ]
+  },
+  {
+   "id": "muradiyefalls",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Muradiye Waterfall near Lake Van",
+   "desc": "Muradiye Şelalesi drops from a basalt cliff near Muradiye district and is one of eastern Türkiye's widest waterfalls. Snowmelt in spring and early summer makes it strongest.",
+   "tip": "Best from April to June. A café and path sit at the viewing area; the road from Van takes about 1.5 hours.",
+   "q": "Muradiye Şelalesi, Muradiye, Van",
+   "ll": [
+    39.05665,
+    43.75678
+   ],
+   "src": [
+    "https://goturkiye.com/van/see"
+   ]
+  },
+  {
+   "id": "ercistrout",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat grilled trout at Yeşil Erciş Alabalık",
+   "desc": "A trout restaurant near Erciş serving freshly caught alabalık grilled whole, a reminder that the Lake Van basin has streams with salmonids even though the lake itself is too alkaline for most fish.",
+   "tip": "Order the grilled trout with salad and fresh bread. It is a stop on the north shore of Lake Van.",
+   "q": "Yeşil Erciş Balık Restoranı, Anakanal Caddesi, Erciş, Van",
+   "ll": [
+    39.05337,
+    43.34302
+   ],
+   "src": [
+    "https://de.restaurantguru.com/Yesil-Ercis-Alabalik-Tesisi-Ercis",
+    "https://www.turkeysforlife.com/2013/06/ercis-trout-alabalik-turkish-food-east-turkey.html"
+   ]
+  },
+  {
+   "id": "ahlatcemetery",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk Ahlat Seljuk Cemetery and its tombstones",
+   "desc": "The Ahlat Meydan Mezarlığı is Türkiye's largest Turkic-Islamic cemetery, with some 9,000 carved stones dating from the 12th to the 16th centuries. It is on UNESCO's tentative World Heritage list.",
+   "tip": "Late afternoon light makes the carved red volcanic stone glow. Entry is free; the Ahlat Museum is a few minutes away.",
+   "q": "Ahlat Selçuklu Meydan Mezarlığı, Ahlat, Bitlis",
+   "ll": [
+    38.74252,
+    42.45776
+   ],
+   "src": [
+    "https://commons.wikimedia.org/wiki/Category:Medieval_Muslim_cemetery_of_Ahlat",
+    "https://en.wikipedia.org/wiki/Ahlat_Tombs"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ulukumbet",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Ulu Kümbet, Ahlat's tallest tomb",
+   "desc": "Ahlat's biggest tomb is a 13th-century kümbet about 20 m tall, built in red tuff with a pyramidal cap. It stands on Usta Şağırtı Street opposite the museum.",
+   "tip": "Short stop of 15 minutes; look at the geometric stonework around the door.",
+   "q": "Ulu Kümbet, Usta Şağırtı Caddesi, Ahlat, Bitlis",
+   "ll": [
+    38.73674,
+    42.45772
+   ],
+   "src": [
+    "https://www.worldheritagesite.org/tentative/id/1401"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ahlatcifte",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Find the twin tombs of Çifte Kümbet in Ahlat",
+   "desc": "The Çifte Kümbet pair of tombs in Ahlat were built in red volcanic stone in the 13th century. They are among the dozen kümbets scattered through the town.",
+   "tip": "Ahlat is best explored on foot or by bike in half a day. Free to see from outside.",
+   "q": "Çifte Kümbet, İkikubbe Mahallesi, Ahlat, Bitlis",
+   "ll": [
+    38.752,
+    42.482
+   ],
+   "src": [
+    "https://archnet.org/sites/8053"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ahlatmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Browse the Ahlat Museum and its finds",
+   "desc": "The Ahlat Museum holds Urartian, Seljuk and Ahlatshah-era objects, tombstones and ethnographic items from excavations around Lake Van. It stands beside the Ulu Kümbet.",
+   "tip": "Small museum, about 45 minutes. Check opening days before going.",
+   "q": "Ahlat Müzesi, Ahlat, Bitlis",
+   "ll": [
+    38.73907,
+    42.45449
+   ],
+   "src": [
+    "https://goturkiye.com/ahlat"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ahlatkale",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Ahlat Seljuk castle excavations",
+   "desc": "The old Ahlat fortress beside the cemetery is being excavated, with finds from the 11th to the 16th centuries. It reflects Ahlat's role as a Seljuk and Ahlatshah centre.",
+   "tip": "Combine with the cemetery next door; check that the site is open.",
+   "q": "Eski Ahlat Şehri Kalesi, Ahlat, Bitlis",
+   "ll": [
+    38.752,
+    42.493
+   ],
+   "src": [
+    "https://www.haberler.com/guncel/ahlat-ta-eski-sehir-kalesi-kazilarinda-orta-cag-sarnici-bulundu-17895052-haberi/"
+   ]
+  },
+  {
+   "id": "kavurmaciismail",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try kavurma at Kavurmacı İsmail'in Yeri in Ahlat",
+   "desc": "A kavurma house in Ahlat serving the fried, preserved meat that is a staple of the east, usually with eggs, tomatoes and bread.",
+   "tip": "Go for breakfast or lunch; order kavurma with hot bread and tea.",
+   "q": "Kavurmacı İsmail'in Yeri, Sahil Caddesi, Erkizan, Ahlat, Bitlis",
+   "ll": [
+    38.7545,
+    42.489
+   ],
+   "src": [
+    "https://uk.trip.com/restaurant/trkiye/bitlis/detail/kavurmac-smail-in-yeri-140802151"
+   ]
+  },
+  {
+   "id": "nemrutcrater",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look into Nemrut Crater Lake",
+   "desc": "Nemrut is a volcanic caldera with a lake at about 2,250 m, the largest crater lake in Türkiye and one of the largest in the world. A cold lake and a warm lake sit side by side within the rim.",
+   "tip": "The road is usually open from about June to October. Bring layers; camping is allowed around the rim.",
+   "q": "Nemrut Krater Gölü, Tatvan, Bitlis",
+   "ll": [
+    38.6319,
+    42.23859
+   ],
+   "src": [
+    "https://www.ntv.com.tr/galeri/seyahat/turkiyenin-en-buyuk-krater-golu-nemrut-ziyarete-acildi,bDIwyvg31k2j8vy8VMjI9A"
+   ]
+  },
+  {
+   "id": "meltemburyan",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat büryan at Meltem Büryan in Tatvan",
+   "desc": "Büryan is lamb slow-cooked in an underground pit oven, a speciality of Bitlis and Siirt. Meltem is a named büryan salon in Tatvan.",
+   "tip": "Go early, before the meat runs out, and add avşor soup.",
+   "q": "Meltem Büryan, Tatvan, Bitlis",
+   "ll": [
+    38.49264,
+    42.28843
+   ],
+   "src": [
+    "https://dailysabah.com/life/food/bitlis-underground-well-kebab-buryan-gets-gi-certified/amp"
+   ]
+  },
+  {
+   "id": "bitliscastle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb Bitlis Castle above the town",
+   "desc": "Bitlis Kalesi, rebuilt in several periods, stands on a rock at the meeting of two streams. Its foundations are said to go back to Urartian and Armenian times.",
+   "tip": "Walk up from the old town; evening light is best. Free entry.",
+   "q": "Bitlis Kalesi, Bitlis Merkez",
+   "ll": [
+    38.40169,
+    42.10772
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Bitlis"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bitlisulucami",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Bitlis Ulu Cami",
+   "desc": "The Ulu Cami is a Seljuk-era Friday mosque dated to 1126, one of the oldest in eastern Anatolia, built of dark stone beside the old bazaar.",
+   "tip": "Free; dress modestly. Combine with the old bazaar nearby.",
+   "q": "Bitlis Ulu Camii, Bitlis Merkez",
+   "ll": [
+    38.4006,
+    42.1075
+   ],
+   "src": [
+    "https://tr.wikipedia.org/wiki/Bitlis_Ulu_Camii"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bitlisemirbayindir",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the 15th-century Emir Bayındır Mosque and tomb in Ahlat",
+   "desc": "The Emir Bayındır Mosque and its adjoining tomb (kümbet) stand beside the Ahlat Seljuk cemetery west of the town. They date from the Akkoyunlu period of the late 15th century and are built of the local dark volcanic stone.",
+   "tip": "Visit in the morning light when the stonework glows, and combine it with the Ahlat Museum and the carved tombstones nearby.",
+   "q": "Emir Bayındır Kümbeti, Ahlat, Bitlis",
+   "ll": [
+    38.74712,
+    42.45891
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ahlat_Tombs",
+    "https://artsandculture.google.com/incognito/asset/emir-bayındır-kümbeti-ahlat-seljuk-cemetery/rwEWBocnEXUbmw"
+   ]
+  },
+  {
+   "id": "tarihiburyan",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat büryan at Tarihi Bitlis Büryan Salonu",
+   "desc": "Büryan, whole lamb slow-cooked in a pit oven, is the signature dish of Bitlis and has a protected geographical indication. This salon is billed as a historic one.",
+   "tip": "Go in the morning and eat it with avşor soup.",
+   "q": "Tarihi Bitlis Büryan Salonu, Bitlis Merkez, Bitlis",
+   "ll": [
+    38.401,
+    42.107
+   ],
+   "src": [
+    "https://de.restaurantguru.com/Tarihi-Bitlis-Buryan-Salonu-Turkey"
+   ]
+  },
+  {
+   "id": "malazgirtpark",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stand on the Malazgirt battlefield of 1071",
+   "desc": "The Malazgirt Battlefield National Park marks where Alp Arslan's Seljuks beat the Byzantines in 1071, opening Anatolia to Turkic settlement.",
+   "tip": "Commemorations are held on 24-26 August; the visitor facilities and museum are close.",
+   "q": "Malazgirt Meydan Muharebesi Tarihi Milli Parkı, Malazgirt, Muş",
+   "ll": [
+    39.13938,
+    42.51198
+   ],
+   "src": [
+    "https://www.cnnturk.com/seyahat/malazgirt-nerede-nasil-gidilir-malazgirt-gezilecek-yerler-nelerdir-1665350"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "malazgirtcastle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Malazgirt Castle",
+   "desc": "The fortress above Malazgirt town was rebuilt in Seljuk and later times and is being restored as part of the battlefield area.",
+   "tip": "Short stop; combine with the battlefield park.",
+   "q": "Malazgirt Kalesi, Malazgirt, Muş",
+   "ll": [
+    39.147,
+    42.54521
+   ],
+   "src": [
+    "https://www.cnnturk.com/seyahat/malazgirt-nerede-nasil-gidilir-malazgirt-gezilecek-yerler-nelerdir-1665350"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "muratbridge",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Cross the 12-arch Murat Bridge near Muş",
+   "desc": "The Murat Bridge near Muş is a 143 m long, 12-arched stone bridge, probably 13th century and restored in 1871. It is still in use.",
+   "tip": "Walk across; the view of the Murat river is best in spring.",
+   "q": "Tarihi Murat Köprüsü, Muş",
+   "ll": [
+    38.86274,
+    41.51266
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Murat_Bridge_(Muş)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "musmarine",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Surp Marine Church in Muş",
+   "desc": "Surp Marine is one of the oldest churches of Muş, near the castle.",
+   "tip": "Ask locally about access and condition.",
+   "q": "Surp Marine Kilisesi, Muş Merkez",
+   "ll": [
+    38.72872,
+    41.48755
+   ],
+   "src": [
+    "https://www.enuygun.com/bilgi/mus-ta-gezilecek-yerler-1/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "cigercimibo",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat liver at Ciğercim İbo in Muş",
+   "desc": "A Muş liver house recommended by guides as a place to taste traditional local cooking.",
+   "tip": "Order grilled liver at lunchtime.",
+   "q": "Ciğercim İbo, Cumhuriyet Caddesi, Muş Merkez, Muş",
+   "ll": [
+    38.74187,
+    41.50288
+   ],
+   "src": [
+    "https://de.restaurantguru.com/Cigerci-Ibo-Mus"
+   ]
+  },
+  {
+   "id": "eywan",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try çağ kebap and breakfast at Eywan",
+   "desc": "A çağ kebap and breakfast house in Muş, named in restaurant guides.",
+   "tip": "Go for breakfast or kebab.",
+   "q": "Eywan, Muş Merkez",
+   "ll": [
+    38.7354,
+    41.49232
+   ],
+   "src": [
+    "https://de.restaurantguru.com/Eywan-Mus-4"
+   ]
+  },
+  {
+   "id": "ishakpasa",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour İshak Paşa Palace above Doğubayazıt",
+   "desc": "Begun in 1685 and finished in 1784, the palace mixes Ottoman, Seljuk, Persian and Armenian styles with a mosque, harem and dungeon. It looks over the plain toward Ararat.",
+   "tip": "Go late for sunset views. Entry is ticketed.",
+   "q": "İshak Paşa Sarayı, Doğubayazıt, Ağrı",
+   "ll": [
+    39.52038,
+    44.12969
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/turkey/dogubayazit/attractions/ishak-pasa-palace/a/poi-sig/1080379/360904"
+   ]
+  },
+  {
+   "id": "muratcamping",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine on the terrace of Murat Camping",
+   "desc": "A hillside terrace restaurant below İshak Paşa Palace, named by Fodor's as the town's evening option.",
+   "tip": "Ask for the grilled meats.",
+   "q": "Murat Camping, Doğubayazıt, Ağrı",
+   "ll": [
+    39.5165,
+    44.12491
+   ],
+   "src": [
+    "https://fodors.fodors.com/world/europe/turkey/the-far-east-and-black-sea-coast/restaurants/reviews/murat-camping-458559"
+   ]
+  },
+  {
+   "id": "ahmedihani",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the tomb of Ahmed-i Hani",
+   "desc": "The tomb of the Kurdish poet Ahmed-i Hani, author of Mem u Zin, lies near Doğubayazıt.",
+   "tip": "Free; dress modestly.",
+   "q": "Ahmed-i Hani Türbesi, Doğubayazıt, Ağrı",
+   "ll": [
+    39.54762,
+    44.08001
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Do%C4%9Fubayaz%C4%B1t"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "meteorcrater",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Meteor Crater near the Iranian border",
+   "desc": "A crater about 55 m wide and 60 m deep, formed by a meteor in 1892 near the border and said to be second in size only to Arizona's.",
+   "tip": "Roads near the border may need permission.",
+   "q": "Meteor Çukuru, Doğubayazıt, Ağrı",
+   "ll": [
+    39.4207,
+    44.40201
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/turkey/the-black-sea-and-northeastern-anatolia/dogubayazit/attractions/meteor-cukuru/a/poi-sig/1626195/360904"
+   ]
+  },
+  {
+   "id": "durupinar",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the Noah's Ark site at Durupınar",
+   "desc": "A boat-shaped formation about 160 m long that some link to Noah's Ark; geologists consider it a natural formation.",
+   "tip": "Combine with the Ararat views.",
+   "q": "Nuh'un Gemisi, Durupınar, Doğubayazıt, Ağrı",
+   "ll": [
+    39.44066,
+    44.23478
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Durupınar_site"
+   ]
+  },
+  {
+   "id": "araratbase",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Look at Mount Ararat from the Eliköy base",
+   "desc": "At 5,137 m Ağrı Dağı is Türkiye's highest peak, with permit-controlled climbs starting near Doğubayazıt.",
+   "tip": "Permits are required to climb; the views are free.",
+   "q": "Eliköy, Doğubayazıt, Ağrı",
+   "ll": [
+    39.63242,
+    44.24062
+   ],
+   "src": [
+    "https://bamwor.com/en/countries/turkey/cities/elikoey",
+    "https://www.dailysabah.com/turkiye/mount-agri-in-eastern-turkiye-hosts-intl-climbers-at-base-camp/news"
+   ]
+  },
+  {
+   "id": "diyadin",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Soak in the Diyadin hot springs",
+   "desc": "Hot springs and a travertine area in Diyadin, Ağrı province.",
+   "tip": "Check opening and bring a towel.",
+   "q": "Diyadin Kaplıcaları, Diyadin, Ağrı",
+   "ll": [
+    39.49301,
+    43.65018
+   ],
+   "src": [
+    "https://goturkiye.com/agri/see"
+   ]
+  },
+  {
+   "id": "meydanmedrese",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Hakkari Meydan Medresesi",
+   "desc": "Dated by its inscription to 1700-1701, this Ottoman-era medrese stands in Hakkari town centre.",
+   "tip": "Free to see.",
+   "q": "Meydan Medresesi, Medrese Mahallesi, Hakkari Merkez, Hakkari",
+   "ll": [
+    37.56769,
+    43.7436
+   ],
+   "src": [
+    "https://www.komoot.com/highlight/4764683",
+    "https://www.trthaber.com/haber/kultur-sanat/uc-asirlik-medrese-yeni-yuzuyle-ziyaretcilerini-agirliyor-425990.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "cilo",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look up at the Cilo peaks near Yüksekova",
+   "desc": "Cilo Dağı reaches 4,135 m in the Cilo-Sat Dağları National Park, with glaciers and lakes.",
+   "tip": "Access depends on season and local conditions; ask locally.",
+   "q": "Cilo Sat Dağları Milli Parkı, Yüksekova, Hakkari",
+   "ll": [
+    37.49154,
+    44.01641
+   ],
+   "src": [
+    "https://goturkiye.com/hakkari/see"
+   ]
+  },
+  {
+   "id": "cenhenvalley",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Drive through Cennet Cehennem Valley",
+   "desc": "A steep rocky valley between Hakkari and Yüksekova.",
+   "tip": "A scenic road drive.",
+   "q": "Cennet Cehennem Vadisi, Hakkari",
+   "ll": [
+    37.52635,
+    43.98301
+   ],
+   "src": [
+    "https://www.haberturk.com/cennet-cehennem-vadisi-ziyaretcilerine-farkli-mevsimleri-bir-arada-yasatiyor-3894094"
+   ]
+  },
+  {
+   "id": "nehilsazlik",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Birdwatch at the Nehil Reedbeds near Yüksekova",
+   "desc": "A wetland used by migratory birds near Yüksekova.",
+   "tip": "Spring and autumn are best.",
+   "q": "Nehil Sazlığı, Yüksekova, Hakkari",
+   "ll": [
+    37.47553,
+    44.33833
+   ],
+   "src": [
+    "https://goturkiye.com/hakkari/see"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "adilcevazcastle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Adilcevaz Castle",
+   "desc": "The fortress by Lake Van at Adilcevaz has Urartian and Seljuk layers.",
+   "tip": "Free.",
+   "q": "Adilcevaz Kalesi, Adilcevaz, Bitlis",
+   "ll": [
+    38.80136,
+    42.72914
+   ],
+   "src": [
+    "https://tr.wikipedia.org/wiki/Adilcevaz_Kalesi"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "suphan",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Climb Süphan Dağı from Adilcevaz",
+   "desc": "Süphan is Türkiye's second highest volcano at 4,058 m, above Lake Van.",
+   "tip": "June to September, with a guide.",
+   "q": "Süphan Dağı, Adilcevaz, Bitlis",
+   "ll": [
+    38.92655,
+    42.82769
+   ],
+   "src": [
+    "https://www.cnnturk.com/seyahat/seyahat-dunya/kampcilarin-yeni-rotasi-nemrut-ve-suphan-dagi-dunyanin-dort-bir-yanindan-turisti-agirliyor?page=1"
+   ]
+  },
+  {
+   "id": "adilcevazulucami",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Adilcevaz Selçuklu Ulu Cami",
+   "desc": "A Seljuk-era mosque in Adilcevaz.",
+   "tip": "Free.",
+   "q": "Selçuklu Ulu Camii, Adilcevaz, Bitlis",
+   "ll": [
+    38.79992,
+    42.73018
+   ],
+   "src": [
+    "https://goturkiye.com/bitlis/see"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

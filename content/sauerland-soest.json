@@ -1,0 +1,911 @@
+{
+ "new": [
+  {
+   "id": "sasoestpatrokli",
+   "cat": "gor",
+   "area": "soest",
+   "title": "Climb into the Romanesque St. Patrokli-Dom",
+   "desc": "The Patroklidom is Soest's Romanesque landmark, built from local green sandstone from the 12th century. Its 80-metre west tower is the symbol of the old town.",
+   "tip": "Free entry during the day; the tower is only opened on special occasions.",
+   "q": "St.-Patrokli-Dom, Patrokliplatz, Soest",
+   "ll": [
+    51.5716,
+    8.10829
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/St.-Patrokli-Dom_(Soest)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sasoestwiese",
+   "cat": "gor",
+   "area": "soest",
+   "title": "Find the Westphalian Last Supper in the Wiesenkirche",
+   "desc": "St. Maria zur Wiese is a High Gothic hall church begun in 1313. A window of about 1500 shows the Last Supper with ham, pumpernickel and beer, known as the Westphalian Last Supper.",
+   "tip": "The church is under reconstruction work in parts; check what is open before you go.",
+   "q": "Wiesenkirche, Wiesenstraße, Soest",
+   "ll": [
+    51.57498,
+    8.10939
+   ],
+   "src": [
+    "https://www.moehnesee.de/en/neusta-pois/st.-maria-zur-wiese"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sasoestosthofentor",
+   "cat": "gor",
+   "area": "soest",
+   "title": "Walk through the Osthofentor, Soest's last gate",
+   "desc": "The Osthofentor is the only surviving gate fortress of the ten that once guarded Soest. It dates from the 14th and 15th centuries and now houses a small museum.",
+   "tip": "Combine it with a walk on the old city wall promenade nearby.",
+   "q": "Osthofentor, Osthofenstraße, Soest",
+   "ll": [
+    51.57365,
+    8.11591
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Osthofentor_(Soest)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sasoestpetri",
+   "cat": "gor",
+   "area": "soest",
+   "title": "Visit Alt-St. Petri, Soest's oldest church",
+   "desc": "Alt-St. Petri is the oldest parish church of Soest, a Romanesque basilica of green sandstone near the market square.",
+   "tip": "Check opening hours with the parish; guided tours run at times.",
+   "q": "Alt St. Petri, Petrikirchhof, Soest",
+   "ll": [
+    51.57099,
+    8.10517
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/St._Petri_(Soest)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sasoesthohne",
+   "cat": "gor",
+   "area": "soest",
+   "title": "See the Gothic wall paintings of the Hohnekirche",
+   "desc": "St. Maria zur Höhe, the Hohnekirche, is a Romanesque church with Gothic wall paintings and a notable altarpiece at the north of the old town.",
+   "tip": "Check opening hours; it is often open on summer afternoons.",
+   "q": "Hohnekirche, Hohnekirchhof, Soest",
+   "ll": [
+    51.57417,
+    8.11133
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/St._Maria_zur_Höhe_(Soest)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sasoestburghof",
+   "cat": "gor",
+   "area": "soest",
+   "title": "Explore the Burghofmuseum and Soest's history",
+   "desc": "The Burghofmuseum shows the history of the Hanseatic town Soest, from its salt trade to the Soester Fehde of 1444-49.",
+   "tip": "Closed Mondays; allow about an hour.",
+   "q": "Burghofmuseum, Burghofstraße 22, Soest",
+   "ll": [
+    51.56844,
+    8.11034
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Burghofmuseum_(Soest)"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "sasoestnikolai",
+   "cat": "gor",
+   "area": "soest",
+   "title": "Step into the small Nikolaikapelle",
+   "desc": "The Nikolaikapelle is a small Romanesque chapel by the Patrokli church, known for its medieval wall painting and its role in Soest's art history.",
+   "tip": "Check opening hours; often visited together with the Patrokli-Dom.",
+   "q": "Nikolaikapelle, Brüderstraße, Soest",
+   "ll": [
+    51.5717,
+    8.1076
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Soest"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sasoestrathaus",
+   "cat": "gor",
+   "area": "soest",
+   "title": "Stroll to the Soester Rathaus and the Markt",
+   "desc": "The Rathaus stands in the middle of the old town, framed by half-timbered houses and green sandstone walls.",
+   "tip": "Pick up a free town map at the tourist information next door.",
+   "q": "Rathaus Soest, Markt 1, Soest",
+   "ll": [
+    51.57205,
+    8.10826
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Soest"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sasoestwall",
+   "cat": "dene",
+   "area": "soest",
+   "title": "Walk the old Wallpromenade around Soest",
+   "desc": "The medieval town wall of Soest, built from local green sandstone, is lined by a promenade of about 3.5 km, among the best preserved in Westphalia.",
+   "tip": "Takes about an hour; start at the Osthofentor.",
+   "q": "Wallanlagen, Osthofenstraße, Soest",
+   "ll": [
+    51.57204,
+    8.11347
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Soest"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sasoestteich",
+   "cat": "dene",
+   "area": "soest",
+   "title": "Stroll around the Großer Teich in Soest",
+   "desc": "The Großer Teich lies just outside the old town walls, a quiet pond with walking paths and green space.",
+   "tip": "Easy loop of about 30 minutes in good weather.",
+   "q": "Großer Teich, Soest",
+   "ll": [
+    51.57311,
+    8.10831
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Soest"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sasoestkirmes",
+   "cat": "dene",
+   "area": "soest",
+   "title": "Join the Allerheiligenkirmes in the old town",
+   "desc": "Soest's Allerheiligenkirmes is called Europe's largest old-town fair; it starts on the Wednesday after All Saints for five days, with rides and the mocha liqueur Bullenauge.",
+   "tip": "Expect crowds; try a Bullenauge shot and bring cash.",
+   "q": "Altstadt, Soest",
+   "ll": [
+    51.5712,
+    8.1061
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Allerheiligenkirmes"
+   ],
+   "months": [
+    11
+   ]
+  },
+  {
+   "id": "sasoestpilgrim",
+   "cat": "ye",
+   "area": "soest",
+   "title": "Dine at the Pilgrimhaus, Westphalia's oldest inn",
+   "desc": "The Pilgrimhaus on Jakobistraße calls itself the oldest inn in Westphalia. It serves Westphalian dishes and sells its own Soester Pumpernickel.",
+   "tip": "Reserve for evenings; ask for Westphalian specialties.",
+   "q": "Pilgrimhaus, Jakobistraße 75, Soest",
+   "ll": [
+    51.5681,
+    8.1032
+   ],
+   "src": [
+    "https://www.speisekarte.de/soest-westfalen/restaurant/hotel_pilgrimhaus_gmbh_aeltestes_gasthaus_westfalens_"
+   ]
+  },
+  {
+   "id": "sasoesthaverland",
+   "cat": "ye",
+   "area": "soest",
+   "title": "Buy Soester Pumpernickel at Bäckerei Haverland",
+   "desc": "Haverland is a bakery on the Marktplatz that claims to be the oldest pumpernickel bakery in the world, run by the same family since 1570.",
+   "tip": "Try a pumpernickel with ham or take a loaf home.",
+   "q": "Bäckerei Haverland, Markt, Soest",
+   "ll": [
+    51.5712,
+    8.1057
+   ],
+   "src": [
+    "https://maps.adac.de/poi/baeckerei-haverland-soest"
+   ]
+  },
+  {
+   "id": "sasoestzwiebel",
+   "cat": "ye",
+   "area": "soest",
+   "title": "Drink house beer at Brauerei Zwiebel",
+   "desc": "Brauerei Zwiebel is a Soest brewpub serving house-brewed beer and Westphalian food.",
+   "tip": "Order the house beer with a hearty plate.",
+   "q": "Brauerei Zwiebel, Soest",
+   "ll": [
+    51.56866,
+    8.10741
+   ],
+   "src": [
+    "https://www.speisekarte.de/soest-westfalen/restaurant/brauerei_zwiebel"
+   ]
+  },
+  {
+   "id": "samoehnestaumauer",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk across the Möhnetalsperre dam",
+   "desc": "The Möhne dam, completed in 1913, was breached in the Dambusters raid of 1943 and rebuilt. It holds back the Möhnesee.",
+   "tip": "Walk along the crest for views of lake and valley.",
+   "q": "Möhnetalsperre Staumauer, Günne, Möhnesee",
+   "ll": [
+    51.49006,
+    8.05977
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Möhnetalsperre"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "saarnsbergglocken",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Glockenturm in Arnsberg's old town",
+   "desc": "The Glockenturm is the landmark of Arnsberg, a baroque tower on the old town hill, near the Maximilian Fountain.",
+   "tip": "Walk up to the Schlossberg for views over the Ruhr bend.",
+   "q": "Glockenturm, Alter Markt, Arnsberg",
+   "ll": [
+    51.39784,
+    8.06361
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Arnsberg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "saoelinghausen",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Kloster Oelinghausen near Arnsberg",
+   "desc": "Kloster Oelinghausen is a former Premonstratensian convent from the 12th century with a Romanesque-Gothic church.",
+   "tip": "Quiet valley setting; check the church opening hours.",
+   "q": "Kloster Oelinghausen, Oelinghauser Straße, Arnsberg",
+   "ll": [
+    51.41357,
+    7.94443
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kloster_Oelinghausen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sagrafschaft",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb to Kloster Grafschaft above Schmallenberg",
+   "desc": "The Benedictine Kloster Grafschaft sits on the hill above Schmallenberg, founded in 1072, with a baroque church.",
+   "tip": "Open to visitors; the shop sells monastery goods.",
+   "q": "Kloster Grafschaft, Schmallenberg",
+   "ll": [
+    51.14448,
+    8.32479
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kloster_Grafschaft"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "saastenturm",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the Astenturm on the Kahler Asten",
+   "desc": "The Kahler Asten (841 m) is one of the highest peaks of the Rothaar range. The Astenturm stands on its summit.",
+   "tip": "Go on a clear day; the tower has an entry fee.",
+   "q": "Astenturm, Kahler Asten, Winterberg",
+   "ll": [
+    51.1801,
+    8.4886
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kahler_Asten"
+   ]
+  },
+  {
+   "id": "sabruchhauser",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Hike to the Bruchhauser Steine rocks",
+   "desc": "Four rock formations on the Istenberg near Olsberg, up to 92 m high, with remains of an Iron Age ring wall; a National Natural Monument.",
+   "tip": "A fee supports the foundation; the marked loop takes about 2 hours.",
+   "q": "Bruchhauser Steine, Olsberg-Bruchhausen",
+   "ll": [
+    51.32268,
+    8.54429
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Bruchhauser_Steine"
+   ]
+  },
+  {
+   "id": "saobermarsberg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the hill town of Obermarsberg",
+   "desc": "Obermarsberg is the site of the Saxon Eresburg, with the Stiftskirche St. Peter und Paul and a Roland statue above the Diemel valley.",
+   "tip": "Combine with a walk along the Diemel valley.",
+   "q": "Obermarsberg, Marsberg",
+   "ll": [
+    51.43788,
+    8.84936
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Obermarsberg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sakoenigsmuenster",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Benedictine Abtei Königsmünster",
+   "desc": "Abtei Königsmünster above Meschede was founded in 1928 and has a modern church and a monastery shop.",
+   "tip": "Join a prayer service; tours by arrangement.",
+   "q": "Abtei Königsmünster, Klosterberg, Meschede",
+   "ll": [
+    51.354,
+    8.28017
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Abtei_Königsmünster"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "salippstadtmarien",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Find the Marienkirche in Lippstadt's old town",
+   "desc": "The Marienkirche in Lippstadt is a Romanesque hall church with a Gothic choir in the old town.",
+   "tip": "Free; combine with a stroll along the Lippe.",
+   "q": "Marienkirche, Lange Straße, Lippstadt",
+   "ll": [
+    51.67596,
+    8.34551
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Marienkirche_(Lippstadt)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sahomburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour Schloss Homburg in Nümbrecht",
+   "desc": "Schloss Homburg is a medieval hilltop castle in Nümbrecht, now Museum und Forum with changing exhibitions.",
+   "tip": "Check the current exhibition and opening days.",
+   "q": "Schloss Homburg 1, Nümbrecht",
+   "ll": [
+    50.91521,
+    7.53747
+   ],
+   "src": [
+    "https://www.dasbergische.de/en/poi/museum-und-forum-schloss-homburg-tradition-und-moderne"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "sawiehlcave",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Step into the Tropfsteinhöhle Wiehl",
+   "desc": "The Tropfsteinhöhle Wiehl, discovered in 1860, is a show cave with stalactites and a guided route.",
+   "tip": "Guided tours; take a jacket as it is cool inside.",
+   "q": "Tropfsteinhöhle Wiehl, Peter-Schmidt-Straße, Wiehl",
+   "ll": [
+    50.93858,
+    7.54798
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Tropfsteinhöhle_Wiehl"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "salindlarmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander the LVR Freilichtmuseum Lindlar",
+   "desc": "The LVR-Freilichtmuseum in Lindlar presents historic Bergisch houses, crafts and farms, with seasonal events.",
+   "tip": "Open from spring to autumn; check dates.",
+   "q": "LVR-Freilichtmuseum Lindlar, Lindlar",
+   "ll": [
+    51.01225,
+    7.35077
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/LVR-Freilichtmuseum_Lindlar"
+   ]
+  },
+  {
+   "id": "sabergneustadt",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the old town of Bergneustadt",
+   "desc": "Bergneustadt is a small old town with a Burgplatz, half-timbered houses and the remains of the Schloss Neustadt.",
+   "tip": "Compact old town; the Fachwerk lanes are best.",
+   "q": "Altstadt Bergneustadt, Bergneustadt",
+   "ll": [
+    51.0221,
+    7.65007
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Bergneustadt"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "saschuette",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat regional cooking at Gasthof Schütte",
+   "desc": "The Landhotel Gasthof Schütte in Schmallenberg is a family-run inn with regional and classic cuisine and an open fireplace in winter.",
+   "tip": "Reserve for dinner; ask for the Sauerland dish of the day.",
+   "q": "Landhotel Gasthof Schütte, Eggeweg 2, Schmallenberg",
+   "ll": [
+    51.15835,
+    8.37363
+   ],
+   "src": [
+    "https://www.sauerland.com/en/neusta-gastro/landhotel-gasthof-schuette"
+   ]
+  },
+  {
+   "id": "sapostastenberg",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at the Gasthof zur Post in Neuastenberg",
+   "desc": "A family-run inn since 1850 in Neuastenberg near Winterberg, serving Sauerland dishes.",
+   "tip": "Combine with a hike on the Kahler Asten.",
+   "q": "Gasthof zur Post, Neuastenberg, Winterberg",
+   "ll": [
+    51.15471,
+    8.46198
+   ],
+   "src": [
+    "https://www.neuastenberg.de/en/accommodation/hotels-and-inns/hotel-gasthof-zur-post"
+   ]
+  },
+  {
+   "id": "sahoheleyer",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat currywurst at the Hoheleyer Hütte",
+   "desc": "The Hoheleyer Hütte is a hiking hut on several trails near Winterberg, serving pea soup, schnitzel and bratwurst.",
+   "tip": "Listed open daily 11-19; check seasonal changes.",
+   "q": "Hoheleyer Hütte, Winterberg",
+   "ll": [
+    51.14344,
+    8.43968
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/7791896/hoheleyer-hütte"
+   ]
+  },
+  {
+   "id": "samuehlenbraeu",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink house-brewed beer at Arnsberger Mühlenbräu",
+   "desc": "A Gasthausbrauerei in Arnsberg's old town with house beer and organic, vegetarian and vegan dishes.",
+   "tip": "Try the house lager.",
+   "q": "Arnsberger Mühlenbräu, Arnsberg",
+   "ll": [
+    51.39838,
+    8.06052
+   ],
+   "src": [
+    "https://freizeitmonster.de/gastronomie/restaurants/gasthausbrauerei-arnsberger-muehlenbraeu-286840"
+   ]
+  },
+  {
+   "id": "sathombansen",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste craft beer at Brauhaus Thombansen in Lippstadt",
+   "desc": "A Lippstadt brewpub known for fresh tank beer and a varied menu.",
+   "tip": "Reserve at weekends.",
+   "q": "Brauhaus Thombansen, Lippstadt",
+   "ll": [
+    51.67704,
+    8.34638
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/lippstadt/"
+   ]
+  },
+  {
+   "id": "saalmerschloss",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at the Almer Schlossmühle near Brilon",
+   "desc": "A restaurant in the Almer Schlossmühle in Brilon, with mains around 22 to 45 euros.",
+   "tip": "Book ahead.",
+   "q": "Almer Schlossmühle, Brilon",
+   "ll": [
+    51.45934,
+    8.62462
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/brilon/almer-schlossmuehle/"
+   ]
+  },
+  {
+   "id": "satoennes",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order a coffee table at Landgasthof Tönnes in Wipperfürth",
+   "desc": "Landgasthof Tönnes in Wipperfürth is a country inn in the Bergisches Land offering the Bergische Kaffeetafel.",
+   "tip": "Reserve for groups.",
+   "q": "Landgasthof Tönnes, Wipperfürth",
+   "ll": [
+    51.10653,
+    7.41068
+   ],
+   "src": [
+    "https://www.dasbergische.de/en/hotel/landgasthof-toennes"
+   ]
+  },
+  {
+   "id": "sahohkeppel",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat at the half-timbered Hohkeppeler Hof in Lindlar",
+   "desc": "A Fachwerk house from 1784/85, now a restaurant with beer garden in Lindlar.",
+   "tip": "Good after the Freilichtmuseum.",
+   "q": "Hohkeppeler Hof, Lindlar",
+   "ll": [
+    50.97965,
+    7.30964
+   ],
+   "src": [
+    "https://naturparkbergischesland.de/en/gastro/gasthof-restaurant-hohkeppeler-hof"
+   ]
+  },
+  {
+   "id": "safriedchens",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat at Friedchen's Gasthof in Warstein",
+   "desc": "A Gasthof in Warstein recommended in local guides for regional cooking.",
+   "tip": "Combine with the Warsteiner brewery visit.",
+   "q": "Friedchen's Gasthof, Warstein",
+   "ll": [
+    51.48173,
+    8.22163
+   ],
+   "src": [
+    "https://freizeitmonster.de/blog/fruehstuecken-warstein"
+   ]
+  },
+  {
+   "id": "sagasthofbraun",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat on the terrace at Gasthof Braun in Ohlenbach",
+   "desc": "A family-run Gasthof between Winterberg and Schmallenberg with beer garden and rooms.",
+   "tip": "Good rest stop between Winterberg and Schmallenberg.",
+   "q": "Gasthof Braun, Ohlenbach, Schmallenberg",
+   "ll": [
+    51.16667,
+    8.44292
+   ],
+   "src": [
+    "https://www.kurzurlaub.de/hotel/sauerland/schmallenberg/gasthof-braun.html"
+   ]
+  },
+  {
+   "id": "sawarsteiner",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Tour the Warsteiner Brauerei visitor centre",
+   "desc": "The Warsteiner brewery offers a 360-degree film and a tour of the Waldpark brewery grounds by train, with a tasting.",
+   "tip": "Registration needed; hours vary, check with the brewery.",
+   "q": "Warsteiner Brauerei Besucherzentrum, Zu Hause im Waldpark 10, Warstein",
+   "ll": [
+    51.42563,
+    8.3565
+   ],
+   "src": [
+    "https://www.about-drinks.com/warsteiner-welt-oeffnet-wieder/"
+   ]
+  },
+  {
+   "id": "saveltins",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Visit the Veltins brewery in Grevenstein",
+   "desc": "The Brauerei C. & A. Veltins in Meschede-Grevenstein is a family brewery with its own beer garden.",
+   "tip": "Check the brewery website for tour dates.",
+   "q": "Brauerei C. & A. Veltins, An der Streue, Meschede-Grevenstein",
+   "ll": [
+    51.30682,
+    8.12677
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Veltins_Brewery"
+   ]
+  },
+  {
+   "id": "sakappe",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Sommerrodelbahn at Erlebnisberg Kappe",
+   "desc": "The Kappe summer toboggan run in Winterberg is about 700 m long, with bridges, curves and a controllable sled.",
+   "tip": "Check the weather; a lift takes you up.",
+   "q": "Erlebnisberg Kappe, Winterberg",
+   "ll": [
+    51.18815,
+    8.50914
+   ],
+   "src": [
+    "https://tourispo.de/attraktion/erlebnisberg-kappe-sommerrodelbahn-winterberg_bilder.html"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "saskiwinterberg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ski the Skiliftkarussell in Winterberg",
+   "desc": "The Skiliftkarussell is one of the largest ski areas in the region, with many lifts and slopes around Winterberg.",
+   "tip": "Winter only; buy a day pass at the valley station.",
+   "q": "Skiliftkarussell Winterberg, Winterberg",
+   "ll": [
+    51.18935,
+    8.49802
+   ],
+   "src": [
+    "https://www.skiliftkarussell.de/nc/en/current/information-on-lifts-and-slopes/"
+   ],
+   "months": [
+    12,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "saasten",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Rothaarsteig from the Kahler Asten",
+   "desc": "The Rothaarsteig long-distance trail passes the Kahler Asten, offering forest and moorland walks.",
+   "tip": "Start at the Asten car park.",
+   "q": "Kahler Asten Wanderparkplatz, Winterberg",
+   "ll": [
+    51.1801,
+    8.4886
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Rothaarsteig"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "samoehneschiff",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cruise the Möhnesee on an electric boat",
+   "desc": "Möhneseeschifffahrt runs electric excursion boats on the Möhnesee.",
+   "tip": "Check the timetable by season.",
+   "q": "Möhneseeschifffahrt, Möhnesee",
+   "ll": [
+    51.485,
+    8.06
+   ],
+   "src": [
+    "https://www.moehnesee.de/en/neusta-pois/moehneseeschifffahrt-gmbh"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "sasorpeschiff",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the MS Sorpesee on the Sorpe reservoir",
+   "desc": "The MS Sorpesee ship offers tours on the Sorpesee near Sundern.",
+   "tip": "Check the timetable by season.",
+   "q": "Personenschifffahrt Sorpesee, Zum Sorpedamm 9, Sundern",
+   "ll": [
+    51.30992,
+    7.944
+   ],
+   "src": [
+    "https://familienausflug.info/en/excursion-destination/ms-sorpesee"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "sahenneschiff",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Sail the Hennesee on the EMS Hennesee",
+   "desc": "EMS Hennesee Boat Tours operates boats on the Hennesee near Meschede.",
+   "tip": "Check the timetable by season.",
+   "q": "EMS Hennesee, Am Hennesee 2, Meschede",
+   "ll": [
+    51.3,
+    8.26
+   ],
+   "src": [
+    "https://www.ruhrtalradweg.de/en/open-data-hub-pois/ems-hennesee-boat-tours"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "safortfun",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Spend a day at Fort Fun Abenteuerland",
+   "desc": "Fort Fun in Bestwig is a Wild-West-themed park; the 2025 season ran from 12 April to 2 November.",
+   "tip": "Check dates for each season.",
+   "q": "Fort Fun Abenteuerland, Bestwig",
+   "ll": [
+    51.31223,
+    8.43529
+   ],
+   "src": [
+    "https://fortfun.de/fileadmin/user_upload/fort_fun/_presse/PM_FORT-FUN_Saisoneroeffnung_2025.pdf"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "sapanarbora",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the treetop path at Panarbora in Waldbröl",
+   "desc": "Panarbora is a nature park with a treetop walkway and wilderness experiences in Waldbröl.",
+   "tip": "Check seasonal opening times.",
+   "q": "Panarbora, Waldbröl",
+   "ll": [
+    50.86059,
+    7.60753
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Panarbora"
+   ]
+  },
+  {
+   "id": "saaggerhoehle",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Descend into the Aggertalhöhle in Engelskirchen",
+   "desc": "The Aggertalhöhle is a limestone cave in Engelskirchen, open for guided tours.",
+   "tip": "Check opening dates; it is cool inside.",
+   "q": "Aggertalhöhle, Engelskirchen",
+   "ll": [
+    50.9937,
+    7.4486
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Aggertalh%C3%B6hle"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "sasalzwelten",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Explore the Westfälische Salzwelten in Bad Sassendorf",
+   "desc": "Bad Sassendorf has a long salt history, shown in the Westfälische Salzwelten, with saline and brine baths nearby.",
+   "tip": "Combine with a walk in the Kurpark.",
+   "q": "Westfälische Salzwelten, Bad Sassendorf",
+   "ll": [
+    51.58488,
+    8.16545
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Bad_Sassendorf"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  }
+ ]
+}

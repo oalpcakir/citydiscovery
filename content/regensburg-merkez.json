@@ -1,0 +1,720 @@
+{
+ "new": [
+  {
+   "id": "rgsteinerne",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk across the Stone Bridge",
+   "desc": "The Steinerne Brücke was built between 1135 and 1146 and is the oldest surviving stone bridge in Germany, with 16 arches over the Danube. For centuries it was the only Danube crossing in the region and made Regensburg a trading hub.",
+   "tip": "Come early or at dusk for the best light and the view of the Old Town skyline from the Stadtamhof side. The bridge is free and closed to cars.",
+   "q": "Steinerne Brücke, Regensburg",
+   "ll": [
+    49.02177,
+    12.09677
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Stone_Bridge_(Regensburg)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rgdom",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Look up at the twin spires of Regensburg Cathedral",
+   "desc": "The Dom St. Peter is the main Gothic cathedral of southern Germany, begun around 1275 and crowned by spires finished in 1869. It holds outstanding 13th and 14th century stained glass and is home to the Regensburger Domspatzen boys' choir.",
+   "tip": "Entry to the nave is free; the cloister and treasury need a separate ticket. Allow 45 minutes.",
+   "q": "Regensburger Dom St. Peter, Domplatz, Regensburg",
+   "ll": [
+    49.01957,
+    12.09725
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Regensburg_Cathedral"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rgaltesrathaus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Tour the Old Town Hall and Imperial Diet chamber",
+   "desc": "The Altes Rathaus hosted the Perpetual Imperial Diet of the Holy Roman Empire from 1663 until 1806. The Reichstagsmuseum shows the Diet's hall, the former court chambers and the medieval dungeons with their instruments of torture.",
+   "tip": "Visits are by guided tour only, usually starting at the Tourist Information on Rathausplatz; English tours run on selected days.",
+   "q": "Altes Rathaus, Rathausplatz, Regensburg",
+   "ll": [
+    49.0196,
+    12.096
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Old_Town_Hall,_Regensburg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rgstemmeram",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Tour Thurn und Taxis Palace and St. Emmeram's cloister",
+   "desc": "Schloss Thurn und Taxis was converted from the Benedictine abbey of St. Emmeram after 1812 and remains the home of the princely family that ran the European postal system. Tours cover lavish state rooms, the cloister and the Gothic cloister garden, with the Romanesque Basilica St. Emmeram next door.",
+   "tip": "Palace rooms are visited on guided tours only; buy tickets at the palace gate and check the season schedule online.",
+   "q": "Schloss Thurn und Taxis, Emmeramsplatz 5, Regensburg",
+   "ll": [
+    49.01531,
+    12.0917
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Thurn_und_Taxis_Palace,_Regensburg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rgportapraetoria",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find the Roman Porta Praetoria gate",
+   "desc": "Part of the north gate of the Roman legionary fort Castra Regina, founded around 179 AD under Marcus Aurelius. The stones of the gate are built into a later house on the street Unter den Schwibbögen.",
+   "tip": "Free to see from the street; the nearby Römerturm is another remnant of the fortress walls.",
+   "q": "Porta Praetoria, Unter den Schwibbögen, Regensburg",
+   "ll": [
+    49.02084,
+    12.09843
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Porta_Praetoria_(Regensburg)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rgdocument",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Descend to the ruins under Neupfarrplatz",
+   "desc": "document Neupfarrplatz is an underground exhibition beneath the square where the medieval Jewish quarter stood until the expulsion in 1519. Walkways lead past Roman and medieval foundations, cellars and the remains of a synagogue.",
+   "tip": "Access is only on a guided tour booked at the Tourist Information on Rathausplatz; confirm the current tour schedule before you go.",
+   "q": "document Neupfarrplatz, Neupfarrplatz, Regensburg",
+   "ll": [
+    49.01845,
+    12.09575
+   ],
+   "src": [
+    "https://tourismus.regensburg.de/en/experience-discover/art-culture/document-neupfarrplatz"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rgaltekapelle",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step into the Rococo Alte Kapelle",
+   "desc": "The Collegiate Church of the Alte Kapelle goes back to a chapel founded around the 9th century and is one of the oldest churches in Bavaria. Its Romanesque core was transformed into a dazzling white-and-gold Rococo interior in the 18th century.",
+   "tip": "Free to enter outside services; it is quiet in the morning and sits at Alter Kornmarkt next to the Dom.",
+   "q": "Alte Kapelle, Alter Kornmarkt, Regensburg",
+   "ll": [
+    49.01985,
+    12.0993
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Alte_Kapelle"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rgschottenkirche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the carved north portal of St. Jakob",
+   "desc": "The Schottenkirche St. Jakob was founded by Irish monks in the 12th century and is known for a richly sculpted Romanesque north portal that scholars have long debated. The church was the centre of the Scottish-Irish abbey in the city.",
+   "tip": "The portal is visible from the outside at any time; the church opens in the afternoon.",
+   "q": "Schottenkirche St. Jakob, Jakobstraße, Regensburg",
+   "ll": [
+    49.01862,
+    12.08837
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Schottenkirche,_Regensburg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rghdbg",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Museum of Bavarian History by the Danube",
+   "desc": "The Haus der Bayerischen Geschichte opened in 2019 on the Danube riverbank and tells Bavarian history from 1800 to today in a modern building. Exhibits range from the kingdom to postwar Bavaria and pop culture.",
+   "tip": "Open Tuesday to Sunday, 9:00 to 18:00; closed Mondays. Audio guides are available in English.",
+   "q": "Museum der Bayerischen Geschichte, Donaumarkt 1, Regensburg",
+   "ll": [
+    49.0206,
+    12.1012
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Haus_der_Bayerischen_Geschichte:_Museum",
+    "https://www.hdbg.de/en/your-visit/opening-hours-and-directions.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rgkunstforum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See Eastern European art at the Kunstforum",
+   "desc": "The Kunstforum Ostdeutsche Galerie holds paintings and graphics from the former eastern German territories and Central Europe, including works by Lovis Corinth and Käthe Kollwitz. It also stages changing exhibitions.",
+   "tip": "Open Tuesday to Sunday 10:00 to 17:00 and until 20:00 on Thursdays; closed Mondays.",
+   "q": "Kunstforum Ostdeutsche Galerie, Dr.-Johann-Maier-Straße 5, Regensburg",
+   "ll": [
+    49.01994,
+    12.08219
+   ],
+   "src": [
+    "https://www.kunstforum.net/en/your-visit"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rghistmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Trace Regensburg's story in the Historical Museum",
+   "desc": "The Historisches Museum Regensburg is housed in the former Minorite monastery and shows finds from Roman times, medieval art and Albrecht Altdorfer paintings from the Danube School.",
+   "tip": "Check for current opening and reopening dates of sections before you go, since parts of the building have been renovated.",
+   "q": "Historisches Museum Regensburg, Dachauplatz 2, Regensburg",
+   "ll": [
+    49.0178,
+    12.10234
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Historical_Museum_of_Regensburg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rgbasilicaemmeram",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Romanesque Basilica St. Emmeram",
+   "desc": "The former abbey church of St. Emmeram holds the grave of the 7th century missionary Emmeram. Its interior was redecorated by the Asam brothers in the 1730s, mixing Romanesque walls with Baroque stucco and ceiling paintings.",
+   "tip": "Free to enter; the cloister is visited separately with the palace tour.",
+   "q": "Basilika St. Emmeram, Emmeramsplatz, Regensburg",
+   "ll": [
+    49.01538,
+    12.0929
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/St._Emmeram%27s_Abbey"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rgwurstkuchl",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat grilled sausages at the Historische Wurstkuchl",
+   "desc": "A tiny kitchen beside the Stone Bridge that has grilled Regensburg bratwurst over beechwood charcoal for centuries, and is often called the oldest sausage kitchen in the world. It began as a cookhouse for the bridge builders in the 12th century.",
+   "tip": "Order six small bratwursts with sauerkraut and sweet mustard and a Kneitinger beer; expect a queue at lunch.",
+   "q": "Historische Wurstkuchl, Thundorferstraße 3, Regensburg",
+   "ll": [
+    49.0215,
+    12.0969
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Historische_Wurstkuchl",
+    "https://wurstkuchl.de/?lang=en"
+   ]
+  },
+  {
+   "id": "rgaltelinde",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink a beer at the Alte Linde beer garden",
+   "desc": "Alte Linde is a beer garden and restaurant on the Stadtamhof bank of the Danube at Müllerstraße 1. Tables under old trees look across the river to the Stone Bridge and the cathedral skyline.",
+   "tip": "Come for the view and a Bavarian beer at sunset; food reviews are mixed, so a snack and a drink are enough.",
+   "q": "Alte Linde, Müllerstraße 1, Regensburg",
+   "ll": [
+    49.0229,
+    12.0959
+   ],
+   "src": [
+    "https://www.travelworldonline.de/en/biergarten-regensburg/"
+   ]
+  },
+  {
+   "id": "rgspitalgarten",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat a pork roast at the Spitalgarten",
+   "desc": "The brewery inn and beer garden at the Katharinenspital in Stadtamhof has served beer since the 13th century on the river bank beside the Stone Bridge. Tables stand under chestnut trees with a view of the Danube.",
+   "tip": "Try the Schweinsbraten or Schweinshaxe with a beer from the house brewery; the garden is busy on summer evenings.",
+   "q": "Spitalgarten, St.-Katharinen-Platz 1, Regensburg",
+   "ll": [
+    49.02392,
+    12.09636
+   ],
+   "src": [
+    "https://www.swipein.restaurant/en/restaurant/spitalgarten-regensburg-bayern"
+   ]
+  },
+  {
+   "id": "rgprinzess",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have coffee and pralines at Café Prinzess",
+   "desc": "Prinzess is a historic coffee house and chocolate maker beside the Old Town Hall; the family business traces its pralines to 1676. Its Prinzess Confiserie sells hand-made chocolates, cakes and cafe classics.",
+   "tip": "Try the Regensburger Prinzess pralines or a slice of cake; open Monday to Saturday, roughly 9:00 to 19:00.",
+   "q": "Café Prinzess, Rathausplatz 2, Regensburg",
+   "ll": [
+    49.0195,
+    12.0958
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/3023533/prinzess-confiserie--caf%C3%A9"
+   ]
+  },
+  {
+   "id": "rgkneitinger",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order Ochsenbackerl at Kneitinger on Arnulfsplatz",
+   "desc": "The Brauereigaststätte Kneitinger is a wood-panelled brewery tavern with several rooms, owned by a charitable foundation since 1991. The brewery dates to around 1530 and serves its own Regensburg beers.",
+   "tip": "Try the braised Ochsenbackerl (ox cheek) or Käsespätzle with a Kneitinger Hell; reserve by phone for dinner.",
+   "q": "Brauereigaststätte Kneitinger, Am Arnulfsplatz 3, Regensburg",
+   "ll": [
+    49.0197,
+    12.08884
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/regensburg/brauereigaststaette-kneitinger/"
+   ]
+  },
+  {
+   "id": "rgweltenburger",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Bavarian classics at Weltenburger am Dom",
+   "desc": "A brewery tavern right beside the cathedral that serves the beer of the Weltenburg monastery brewery. It has a traditional dining room and a summer beer garden near the Domplatz.",
+   "tip": "Order the potato and leek soup or a roast with a Weltenburger Barock Dunkel; it is open all day.",
+   "q": "Weltenburger am Dom, Domplatz 3, Regensburg",
+   "ll": [
+    49.01869,
+    12.0993
+   ],
+   "src": [
+    "https://www.speisekarte.de/regensburg/restaurant/weltenburger_am_dom"
+   ]
+  },
+  {
+   "id": "rgbischofshof",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sit in the Bischofshof am Dom beer garden",
+   "desc": "Bischofshof am Dom is a hotel-restaurant on Krauterermarkt where an inn has stood since the mid-19th century. It serves Bavarian dishes with Bischofshof beer, with seating outdoors near the cathedral.",
+   "tip": "Good for a lunch break after the Dom; ask about the daily Mittagstisch.",
+   "q": "Bischofshof am Dom, Krauterermarkt 3, Regensburg",
+   "ll": [
+    49.0199,
+    12.0979
+   ],
+   "src": [
+    "https://regensburger-nachrichten.de/touristen-information-essen/94217-bischofshof-am-dom"
+   ]
+  },
+  {
+   "id": "rgeisamdom",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try handmade gelato at Eis am Dom",
+   "desc": "Eis am Dom is an ice-cream parlour on Gesandtenstraße in the Old Town, a short walk from the cathedral. It serves scoops in a wide range of flavours.",
+   "tip": "Take a cone to the Domplatz or the Danube; check opening hours as it is seasonal.",
+   "q": "Eis am Dom, Gesandtenstraße 11, Regensburg",
+   "ll": [
+    49.0196,
+    12.0956
+   ],
+   "src": [
+    "https://www.werkenntdenbesten.de/e/27243360/eisdiele/regensburg/am-dom-eiscafe-bewertungen.html"
+   ]
+  },
+  {
+   "id": "rgwalhallaboat",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Take the Danube boat from the Stone Bridge to Walhalla",
+   "desc": "From Easter to October, Klinger and Wurm & Noé run boats from the landing stages at the Stone Bridge to the foot of Walhalla at Donaustauf. The ride follows the Danube past the Old Town and the countryside east of Regensburg.",
+   "tip": "The 2025 fare was about 23 euros return; check the current timetable and book for peak weekends.",
+   "q": "Schiffsanlegestelle Steinerne Brücke, Regensburg",
+   "ll": [
+    49.0212,
+    12.0978
+   ],
+   "src": [
+    "https://tourismus.regensburg.de/en/experience-discover/guided-tours-and-round-trips/boat-trips"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "rgthurnxmas",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Christmas market at Thurn und Taxis Palace",
+   "desc": "The Romantic Christmas Market is held in the courtyard of Schloss St. Emmeram, lit by torches and with crafts, food stalls and the Fürstliches Christkind. It is ticketed and runs from late November to 23 December.",
+   "tip": "Tickets can be bought online; the market closes on Totensonntag and is crowded on weekend evenings.",
+   "q": "Schloss Thurn und Taxis, Emmeramsplatz 5, Regensburg",
+   "ll": [
+    49.01531,
+    12.0917
+   ],
+   "src": [
+    "https://www.festivalsindeutschland.de/festival/romantischer-weihnachtsmarkt-thurn-und-taxis-regensburg"
+   ],
+   "months": [
+    11,
+    12
+   ]
+  },
+  {
+   "id": "rgchristkindl",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Stroll the Christkindlmarkt on Neupfarrplatz",
+   "desc": "The Regensburger Christkindlmarkt sets up around the Neupfarrkirche and offers wooden stalls, mulled wine and crafts. It is free to enter and runs through Advent.",
+   "tip": "Combine it with the Thurn und Taxis market; go on a weekday afternoon to avoid the crowds.",
+   "q": "Neupfarrplatz, Regensburg",
+   "ll": [
+    49.01845,
+    12.09575
+   ],
+   "src": [
+    "https://www.festivalsindeutschland.de/festival/regensburger-christkindlmarkt"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    11,
+    12
+   ]
+  },
+  {
+   "id": "rgmaidult",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Raise a Maß at the Regensburger Maidult",
+   "desc": "The Maidult is a traditional spring fair at the Dultplatz in Stadtamhof, with a parade, beer tents, rides and market stalls. It has been held for centuries and runs for about two and a half weeks in May.",
+   "tip": "Free entry to the grounds; the 2026 dates were 14 to 31 May, so check the city's calendar for the current year.",
+   "q": "Dultplatz, Protzenweiher, Regensburg",
+   "ll": [
+    49.0269,
+    12.0904
+   ],
+   "src": [
+    "https://tourismus.regensburg.de/en/events-and-tickets/regensburger-dult"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    5
+   ]
+  },
+  {
+   "id": "rgdomspatzen",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Hear the Regensburger Domspatzen sing at the cathedral",
+   "desc": "The Domspatzen are one of the oldest boys' choirs in the world, with a history of more than 1,000 years. During the school year they sing at the cathedral on Sundays and major feast days.",
+   "tip": "Attend the Sunday high mass; check the Domspatzen schedule, since they do not sing every week in school holidays.",
+   "q": "Regensburger Dom St. Peter, Domplatz, Regensburg",
+   "ll": [
+    49.01957,
+    12.09725
+   ],
+   "src": [
+    "https://domspatzen.de",
+    "https://en.wikipedia.org/wiki/Regensburger_Domspatzen"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rgstadtamhof",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Wander through Stadtamhof across the Stone Bridge",
+   "desc": "Stadtamhof is the old suburb on the north bank of the Danube, once a separate town, with Baroque streets, river views and small galleries. It leads on to the Protzenweiher and the Dult grounds.",
+   "tip": "Cross the Stone Bridge, then turn along the river for views back to the Old Town.",
+   "q": "Stadtamhof, Regensburg",
+   "ll": [
+    49.02488,
+    12.09562
+   ],
+   "src": [
+    "https://www.regensburger-nachrichten.de/touristen-information/94155-stadtamhof"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rgwoehrd",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk or cycle the Oberer Wöhrd island",
+   "desc": "The Wöhrd islands lie between the two arms of the Danube east of the Old Town and form a green riverside promenade. Paths along the water give views of the Old Town, the Stone Bridge and the Danube.",
+   "tip": "Bring a picnic and use the riverside path; the Danube cycle path passes nearby.",
+   "q": "Oberer Wöhrd, Regensburg",
+   "ll": [
+    49.02459,
+    12.08687
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Regensburg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rghaidplatz",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the Old Town from Wahlenstraße to Haidplatz",
+   "desc": "Regensburg's UNESCO-listed Old Town has medieval patrician towers, including Goldener Turm on Wahlenstraße and the Goliath house on Goliathstraße. Haidplatz is the main square, with the Goliath fresco and the old hotel Goldenes Kreuz.",
+   "tip": "Start at Rathausplatz and walk the lanes in the morning; the Tourist Information offers English walking tours.",
+   "q": "Haidplatz, Regensburg",
+   "ll": [
+    49.01971,
+    12.09281
+   ],
+   "src": [
+    "https://tourismus.regensburg.de/en/experience-discover/unesco-world-heritage-/-sightseeing/wahlenstrasse-bachgasse"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rgdonauradweg",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cycle the Danube path along the Donaulände",
+   "desc": "Regensburg sits on the Danube Cycle Path, one of the most popular long-distance routes in Europe. The paths along the river leave the Old Town for green banks, bridges and views of the city.",
+   "tip": "Rent a bike near the Old Town and ride east toward Donaustauf and Walhalla for an easy day trip.",
+   "q": "Donaulände, Regensburg",
+   "ll": [
+    49.021,
+    12.104
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Danube_Cycle_Path"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "lstrausnitz",
+   "cat": "gor",
+   "area": "landshut",
+   "title": "Tour Burg Trausnitz above Landshut",
+   "desc": "Burg Trausnitz was founded in 1204 by the Wittelsbach duke Ludwig I and later became the seat of the Dukes of Bavaria-Landshut. Highlights include the Gothic chapel of St. George, the Renaissance rooms and the Narrentreppe painted with commedia dell'arte scenes.",
+   "tip": "Rooms are visited by guided tour on weekdays from August 2026, so check times; the burg opens April to September 9 to 18 and October to March 10 to 16.",
+   "q": "Burg Trausnitz, Burg Trausnitz 168, Landshut",
+   "ll": [
+    48.53139,
+    12.15276
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Trausnitz_Castle",
+    "https://schloesser.bayern.de/englisch/palace/objects/la_traus.htm"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "lsstmartin",
+   "cat": "gor",
+   "area": "landshut",
+   "title": "Climb the tower of St. Martin's Church",
+   "desc": "The Basilica of St. Martin has the tallest brick tower in the world at 130 metres, completed in 1500. The church is one of the great late Gothic works of Hans von Burghausen.",
+   "tip": "Entering the nave is free; check the information board for tower access and times.",
+   "q": "St. Martin, Kirchgasse, Landshut",
+   "ll": [
+    48.53466,
+    12.15163
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/St._Martin%27s_Church,_Landshut"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "lsstadtresidenz",
+   "cat": "gor",
+   "area": "landshut",
+   "title": "See the Italian Renaissance Stadtresidenz",
+   "desc": "The Stadtresidenz on Altstadt was built from 1536 by Duke Ludwig X as the first Renaissance palace north of the Alps, modelled on Palazzo del Te in Mantua. Its Italian Hall is decorated with frescoes and a coffered ceiling.",
+   "tip": "Visited by guided tour; it sits right in the Altstadt so combine it with a walk to St. Martin.",
+   "q": "Stadtresidenz, Altstadt 79, Landshut",
+   "ll": [
+    48.53619,
+    12.15123
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Landshut_Residence"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "lsheiliggeist",
+   "cat": "gor",
+   "area": "landshut",
+   "title": "Step inside the Heilig-Geist-Kirche",
+   "desc": "The late Gothic Church of the Holy Spirit stands near the Altstadt and was built for the city hospital in the 14th and 15th centuries. It holds fine Gothic sculpture and vaulting.",
+   "tip": "Free to enter; ask at the door about the opening hours.",
+   "q": "Heilig-Geist-Kirche, Altstadt, Landshut",
+   "ll": [
+    48.5386,
+    12.15304
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Landshut"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "lskoenigmuseum",
+   "cat": "gor",
+   "area": "landshut",
+   "title": "See Fritz Koenig's sculptures at the KOENIGmuseum",
+   "desc": "The KOENIGmuseum, formerly the Skulpturenmuseum im Hofberg, shows the work of the sculptor Fritz Koenig, who lived in Landshut. It includes models related to the Sphere that stood at the World Trade Center.",
+   "tip": "Hours are listed as Tuesday to Sunday around 10 to 17; check the museum website before going.",
+   "q": "KOENIGmuseum, Am Prantlgarten 1, Landshut",
+   "ll": [
+    48.53324,
+    12.15528
+   ],
+   "src": [
+    "https://museen-in-bayern.de/en/museums/museum-details/koenigmuseum-skulpturenmuseum-im-hofberg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "lsfreischuetz",
+   "cat": "ye",
+   "area": "landshut",
+   "title": "Eat in Landshut's oldest inn, Gasthaus zum Freischütz",
+   "desc": "The Freischütz in the Neustadt is described as Landshut's oldest inn and serves as a brewery tavern for the Landshuter Brauhaus. It has been run again as a classic Bräustüberl after a change of tenants.",
+   "tip": "Order a Landshuter Brauhaus beer with a Bavarian roast; check the current hours as tenants have changed.",
+   "q": "Gasthaus zum Freischütz, Neustadt, Landshut",
+   "ll": [
+    48.5409,
+    12.1533
+   ],
+   "src": [
+    "https://www.abendzeitung-muenchen.de/bayern/landshut/freischuetz-landshut-aeltestes-gasthaus-wird-zum-braeustueberl-art-441385"
+   ]
+  },
+  {
+   "id": "lskrenkl",
+   "cat": "ye",
+   "area": "landshut",
+   "title": "Drink a Weissbier at Weisses Bräuhaus zum Krenkl",
+   "desc": "A Landshut wheat-beer brewery tavern listed among the city's restaurants, serving Bavarian dishes with Weissbier.",
+   "tip": "Try a Weissbier with a Weisswurst or a roast; check opening hours with the venue.",
+   "q": "Weisses Bräuhaus zum Krenkl, Landshut",
+   "ll": [
+    48.53766,
+    12.15192
+   ],
+   "src": [
+    "https://www.golocal.de/landshut/restaurants-gaststaetten/weisses-braeuhaus-zum-krenkl-7Y9P/"
+   ]
+  },
+  {
+   "id": "lsaltstadt",
+   "cat": "dene",
+   "area": "landshut",
+   "title": "Stroll the Altstadt's gabled houses",
+   "desc": "Landshut's Altstadt is a long, wide street lined with colourful gabled houses, arcades and the tower of St. Martin. It is the heart of the Landshuter Hochzeit, the medieval wedding festival held every four years.",
+   "tip": "Walk it from the Rathaus to the Heilig-Geist-Kirche in the morning; shops and cafés line both sides.",
+   "q": "Altstadt, Landshut",
+   "ll": [
+    48.53611,
+    12.15423
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Landshut"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "lsisar",
+   "cat": "dene",
+   "area": "landshut",
+   "title": "Walk the Isar and the Mühleninsel",
+   "desc": "The Isar splits into two arms in Landshut, with the Mühleninsel in between. Riverside paths give views of the Altstadt roofs and Burg Trausnitz above.",
+   "tip": "Walk the paths in the afternoon; combine with the climb to the Hofberg.",
+   "q": "Mühleninsel, Landshut",
+   "ll": [
+    48.54035,
+    12.15106
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Landshut"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

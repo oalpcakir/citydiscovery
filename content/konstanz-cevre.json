@@ -1,0 +1,576 @@
+{
+ "new": [
+  {
+   "id": "koburgmeersburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour Burg Meersburg, the Altes Schloss above the lake",
+   "desc": "Burg Meersburg is the Altes Schloss of the town and is run as a castle museum with a tower and a view over Lake Constance. It is open daily, with winter hours from November to March.",
+   "tip": "Opening hours are 10:00 to 18:30 in summer and until 18:00 in winter; check the official site before going.",
+   "q": "Burg Meersburg, Schloßplatz 10, Meersburg",
+   "ll": [
+    47.69385,
+    9.27074
+   ],
+   "src": [
+    "https://www.burg-meersburg.de/en/prices-opening-hours/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "koneuesschlossms",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the state rooms of Neues Schloss Meersburg",
+   "desc": "The Neues Schloss is the Baroque palace of the Prince-Bishops of Konstanz and a museum run by Staatliche Schlösser und Gärten. Its collections include material on viticulture in Meersburg.",
+   "tip": "Open daily in the main season; look at the special tour programme on the official site.",
+   "q": "Neues Schloss Meersburg, Schloßplatz 12, Meersburg",
+   "ll": [
+    47.69358,
+    9.27209
+   ],
+   "src": [
+    "https://www.neues-schloss-meersburg.de/en/interesting-amusing/collections/viticulture-in-meersburg",
+    "https://www.bodensee.eu/en/bcp/familienziele/meersburg-new-palace_poi520"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "kobirnau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Find the Honigschlecker in the Birnau pilgrimage church",
+   "desc": "The Baroque pilgrimage church of Birnau above Uhldingen was built 1747 to 1750 to plans by Peter Thumb. Its best-known detail is the Honigschlecker, a putto by Joseph Anton Feuchtmayer.",
+   "tip": "Free entry; the church is on the Upper Swabian Baroque Route between Überlingen and Uhldingen.",
+   "q": "Wallfahrtskirche Birnau, Birnau 1, Uhldingen-Mühlhofen",
+   "ll": [
+    47.74616,
+    9.21926
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Birnau_pilgrimage_church"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kopfahlbauten",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Step into a lake dwelling at the Pfahlbauten Unteruhldingen",
+   "desc": "The open-air museum rebuilds Stone and Bronze Age pile dwellings on the lake shore. The prehistoric pile dwellings around the Alps are UNESCO World Heritage since 2011.",
+   "tip": "Open daily in the main season (about 09:30 to 18:00); last entry 30 minutes before closing.",
+   "q": "Pfahlbauten Unteruhldingen, Strandpromenade 6, Uhldingen-Mühlhofen",
+   "ll": [
+    47.72546,
+    9.22884
+   ],
+   "src": [
+    "https://www.pfahlbauten.de/en/prices/"
+   ]
+  },
+  {
+   "id": "kosalem",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Kloster und Schloss Salem, the old Cistercian abbey",
+   "desc": "Salem was a Cistercian abbey and later a residence of the Margraves of Baden, and is now run by Staatliche Schlösser und Gärten. The inner Prälatur and the cloister walk can only be seen on a guided tour.",
+   "tip": "The site is seasonal (roughly April to early November); check salem.de for current hours.",
+   "q": "Kloster und Schloss Salem, Schloss Salem 1, Salem",
+   "ll": [
+    47.77673,
+    9.27832
+   ],
+   "src": [
+    "https://www.salem.de/fileadmin/Broschueren/monumentflyer_2025-26_deutsch/ssg_kloster-und-schloss-salem_monumentbroschuere-D_2025.pdf",
+    "https://www.alpen-guide.de/reisefuehrer/poi/schloss-salem-uhldingen-muehlhofen"
+   ]
+  },
+  {
+   "id": "kozeppelinmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the Zeppelin Museum in the old Hafenbahnhof",
+   "desc": "The museum in Friedrichshafen's former harbour station celebrated 30 years in 2026 and covers airship history. The special exhibition on Zeppelins and National Socialism runs to April 2027.",
+   "tip": "November to April it is open Tuesday to Sunday 10:00 to 17:00, May to October daily 09:00 to 17:00.",
+   "q": "Zeppelin Museum, Seestraße 22, Friedrichshafen",
+   "ll": [
+    47.65079,
+    9.48317
+   ],
+   "src": [
+    "https://www.zeppelin-museum.de/en/press/perceived-truths-zeppelins"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "kodornier",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See aircraft and rockets at the Dornier Museum",
+   "desc": "The Dornier Museum at Friedrichshafen airport shows the history of Dornier aircraft and space flight. It sits right beside the airport and the Friedrichshafen Flughafen rail stop.",
+   "tip": "Open Tuesday to Sunday 10:00 to 17:00, Monday closed except in school holidays.",
+   "q": "Dornier Museum, Claude-Dornier-Platz 1, Friedrichshafen",
+   "ll": [
+    47.67049,
+    9.5175
+   ],
+   "src": [
+    "https://www.dorniermuseum.de/en"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "komontfort",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Photograph Schloss Montfort, the Moorish castle at Langenargen",
+   "desc": "Schloss Montfort is the landmark of Langenargen, a neo-Moorish palace built in the 1860s for King Wilhelm I of Württemberg on a headland. It now houses a restaurant and is used for events.",
+   "tip": "A tower climb is available from March to October with a view of the lake and the Alps.",
+   "q": "Schloss Montfort, Obere Seestraße 3, Langenargen",
+   "ll": [
+    47.59712,
+    9.53622
+   ],
+   "src": [
+    "https://www.alpen-guide.de/reisefuehrer/poi/schloss-montfort-langenargen",
+    "https://www.ancient-history-sites.com/sites/schloss-montfort/"
+   ]
+  },
+  {
+   "id": "kouebmuenster",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look up at the carved altar of Überlingen Münster",
+   "desc": "The late Gothic Münster St. Nikolaus dominates Überlingen. Its most important artwork is the carved high altar by Jörg Zürn, made 1613 to 1616.",
+   "tip": "Combine it with a walk through the old town and the Stadtgarten below the Gallerturm.",
+   "q": "Münster St. Nikolaus, Münsterstraße, Überlingen",
+   "ll": [
+    47.76719,
+    9.16039
+   ],
+   "src": [
+    "https://www.alpen-guide.de/reisefuehrer/poi/muenster-st-nikolaus-ueberlingen",
+    "https://maps.adac.de/poi/muenster-st-nikolaus-ueberlingen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kotettnangschloss",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the Neues Schloss Tettnang of the Counts of Montfort",
+   "desc": "The Neues Schloss in Tettnang is a Baroque palace run by Staatliche Schlösser und Gärten. The museum can be seen only with a guided tour, while the courtyard and information rooms are freely accessible in season.",
+   "tip": "Open from about April to October; check schloss-tettnang.de for tours and prices.",
+   "q": "Neues Schloss Tettnang, Montfortplatz 1, Tettnang",
+   "ll": [
+    47.66986,
+    9.58452
+   ],
+   "src": [
+    "https://www.schloss-tettnang.de/fileadmin/Broschueren/monumentflyer_2025-26_deutsch/ssg_neues-schloss-tettnang_monumentbroschuere-D_2025.pdf"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "kodonauquelle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stand at the Donauquelle in the Donaueschingen castle park",
+   "desc": "The Donauquelle, a basin below the town church of St. Johann next to the Fürstenberg palace, is regarded as the symbolic start of the Danube. The river itself officially begins where the Brigach and the Breg meet in the town.",
+   "tip": "Free. A walk along the Brigach and Breg to the confluence is easy to add.",
+   "q": "Donauquelle, Karlstraße, Donaueschingen",
+   "ll": [
+    47.95241,
+    8.50225
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/wanderung-zur-donau-quelle-im-schlosspark-donaueschingen",
+    "https://www.schwarzwald-tourismus.info/schwarzwald/staedte/der-perfekte-tag/donaueschingen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kohonberg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb to the Honberg castle ruin above Tuttlingen",
+   "desc": "The Burgruine Honberg is the landmark of Tuttlingen, a fortress of the late 15th century destroyed in 1645 in the Thirty Years' War. Rebuilt towers remain and the Säntisblick viewpoint lies on the trails nearby.",
+   "tip": "Trails run up from town; a loop of about 3 hours is described on ich-geh-wandern.",
+   "q": "Burgruine Honberg, Tuttlingen",
+   "ll": [
+    47.97981,
+    8.82315
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/burg-honberg-runde-tuttlingen",
+    "https://familienausflug.info/ausflugsziel/burgruine-honberg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kodreifaltig",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Hike up to the Dreifaltigkeitsberg pilgrimage church",
+   "desc": "The Dreifaltigkeitsberg above Spaichingen is a limestone spur of the western Swabian Alb with a pilgrimage church at about 983 m. The summit has far views over the Baar and towards the Black Forest.",
+   "tip": "The shaded Kreuzweg from the valley takes about an hour; weekends can be busy.",
+   "q": "Wallfahrtskirche Dreifaltigkeitsberg, Spaichingen",
+   "ll": [
+    48.08247,
+    8.7619
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Dreifaltigkeitsberg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kovillmuenster",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Hear the carillon at Villingen Münster",
+   "desc": "The Gothic Münster in Villingen's old town is built of red sandstone and has towers about 50 metres tall. Its carillon sounds at 10:05, 12:05, 15:05 and 18:05.",
+   "tip": "Walk on to the nearby Riettor gate tower.",
+   "q": "Münster Unserer Lieben Frau, Münsterplatz, Villingen-Schwenningen",
+   "ll": [
+    48.0603,
+    8.4587
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/germany/villingen-schwenningen/attractions/muensterplatz/a/poi-sig/1296961/1316425"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kofranziskaner",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Browse the Franziskanermuseum in Villingen",
+   "desc": "The museum occupies the old Franciscan monastery in Villingen, which was dissolved in 1797 after more than 500 years. The permanent exhibition is free.",
+   "tip": "Hours listed: Tuesday to Saturday 13:00 to 17:00, Sunday and holidays 11:00 to 17:00; check ahead.",
+   "q": "Franziskanermuseum, Rietgasse 2, Villingen-Schwenningen",
+   "ll": [
+    48.06,
+    8.4573
+   ],
+   "src": [
+    "https://www.museum.de/en/museen/franziskanermuseum"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "kodonauversickerung",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Danube vanish at the Donauversickerung near Immendingen",
+   "desc": "Between Immendingen, Möhringen and Fridingen the Danube seeps away into karst sinkholes along its bed. Since October 2024 the site is an official Geopoint of the UNESCO Global Geopark Swabian Alb.",
+   "tip": "The flow only disappears completely in dry spells; there are info points in Immendingen, Möhringen and Fridingen.",
+   "q": "Donauversickerung, Brühl, Immendingen",
+   "ll": [
+    47.93361,
+    8.74284
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Danube_Sinkhole",
+    "https://www.donaubergland.de/wp-content/uploads/2023/11/donauversickerung_flyer.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kostaatsweingut",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste the wines of the Staatsweingut Meersburg",
+   "desc": "The state wine estate of Meersburg offers a standing tasting with a lake view, three wines and a cellar tour. Its Gutsschänke serves only wines of the estate.",
+   "tip": "Tastings by booking (weinproben@staatsweingut-meersburg.de); in summer there is an open-air tasting at 19:00.",
+   "q": "Staatsweingut Meersburg, Seminarstraße 6, Meersburg",
+   "ll": [
+    47.69339,
+    9.27318
+   ],
+   "src": [
+    "https://www.bodensee.eu/en/state-wine-estate-meersburg_poi2149"
+   ]
+  },
+  {
+   "id": "kohagnauer",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Join a Hagnauer Weinprobe at the Winzerverein Hagnau",
+   "desc": "Founded in 1881, the Hagnau winegrowers' cooperative has about 60 families on 150 hectares, the largest cooperative on the lake. It runs tastings, tours and wine hikes.",
+   "tip": "Wine sales Monday to Saturday (shorter in winter); a short tasting with a village-history talk was listed at 5 euro.",
+   "q": "Hagnauer Winzerverein, Strandbadstraße 7, Hagnau am Bodensee",
+   "ll": [
+    47.67473,
+    9.31966
+   ],
+   "src": [
+    "https://www.bodensee.eu/en/bcp/exclusive-experiences/hagnau-winegrowers%27-association_poi9040",
+    "https://www.bodensee.de/erleben/genuss/weine-vom-winzerverein-hagnau-am-bodensee"
+   ]
+  },
+  {
+   "id": "koseeblick",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order whole Felchen at Gasthaus Seeblick in Hagnau",
+   "desc": "Small family inn on the lake at Hagnau, with its own boat jetty. It serves freshly delivered Bodensee Felchen, usually whole.",
+   "tip": "Felchen availability depends on catch limits, so ask when booking.",
+   "q": "Gasthaus Seeblick, Seestraße 11, Hagnau am Bodensee",
+   "ll": [
+    47.67338,
+    9.31751
+   ],
+   "src": [
+    "https://www.bodensee.de/erleben/restaurants-bodensee/gasthaus-seeblick",
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/hagnau-am-bodensee/gasthaus-seeblick/"
+   ]
+  },
+  {
+   "id": "koheinzler",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at Heinzler am See in Immenstaad",
+   "desc": "Heinzler am See on the Immenstaad shore is listed in the Michelin Guide for regional cooking, with fillets of Felchen and sea trout on the menu.",
+   "tip": "Michelin lists no online booking; call ahead.",
+   "q": "Heinzler am See, Strandbadstraße 3, Immenstaad am Bodensee",
+   "ll": [
+    47.66112,
+    9.3552
+   ],
+   "src": [
+    "https://guide.michelin.com/ch/de/baden-wurttemberg/immenstaad-am-bodensee/restaurant/heinzler"
+   ]
+  },
+  {
+   "id": "koseehofimm",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Bodensee Felchen with crayfish sauce at the Seehof",
+   "desc": "The hotel restaurant at the Immenstaad yacht harbour serves Bodensee Felchen fillets with crayfish sauce, around 31 to 34 euro on the listed menu.",
+   "tip": "Check hours; the listing shows evening service on some weekdays.",
+   "q": "Hotel Seehof, Bachstraße 15, Immenstaad am Bodensee",
+   "ll": [
+    47.66397,
+    9.36725
+   ],
+   "src": [
+    "https://www.speisekarte.de/immenstaad-am-bodensee/restaurant/hotel_seehof/speisekarte",
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/immenstaad-am-bodensee/seehof-immenstaad/"
+   ]
+  },
+  {
+   "id": "kofuerstenberg",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink a Fürstenberg beer at the Bräustüble in Donaueschingen",
+   "desc": "The Fürstenberg brewery in Donaueschingen traces its roots to 1283 and calls itself the oldest brewery in Baden-Württemberg. Its Bräustüble at Postplatz is a restaurant and beer garden.",
+   "tip": "A brewery tour with three beers is offered for 10 euro, meeting at the Fürstenberg boutique.",
+   "q": "Fürstenberg Bräustüble, Postplatz 1, Donaueschingen",
+   "ll": [
+    47.9514,
+    8.5032
+   ],
+   "src": [
+    "https://www.fuerstenberg-beer.com/brewing-and-beer-culture/braeustueble",
+    "https://www.fuerstenberg-beer.com/brewing-and-beer-culture/brewery-tour"
+   ]
+  },
+  {
+   "id": "kohopfengut",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste hop beer at the Hopfengut No20 in Tettnang",
+   "desc": "Hopfengut No20 in Siggenweiler combines a hop farm, brewery, hop museum, shop and restaurant. Tettnang was approved to use the title Hopfenstadt in November 2025.",
+   "tip": "Restaurant hours vary by listing; call +49 7542 952206 first.",
+   "q": "Hopfengut No20, Siggenweiler 20, Tettnang",
+   "ll": [
+    47.69042,
+    9.61658
+   ],
+   "src": [
+    "https://www.bodensee.eu/en/hopfengut-n%c2%b0-20_poi649",
+    "https://www.schwaebische.de/regional/bodensee/tettnang/tettnang-will-sich-als-hopfenstadt-feiern-4520481"
+   ]
+  },
+  {
+   "id": "kozeppelinnt",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Fly over the lake in a Zeppelin NT",
+   "desc": "Zeppelin NT airships take sightseeing flights from Friedrichshafen, starting and landing in front of the Zeppelin Hangar. Flights run roughly 30 minutes to 2 hours.",
+   "tip": "Fares were listed from about 255 euro for 30 minutes; book at zeppelinflug.de.",
+   "q": "Zeppelin Hangar, Messestraße, Friedrichshafen",
+   "ll": [
+    47.67504,
+    9.50812
+   ],
+   "src": [
+    "https://www.bodensee.de/erleben/besonderes/zeppelin-flug"
+   ]
+  },
+  {
+   "id": "koaffenberg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk among the Barbary macaques at Affenberg Salem",
+   "desc": "Around 200 Barbary macaques live free in a 20-hectare forest at the Mendlishauser Hof. The park opened in 1976 and runs a reserve population of the endangered species.",
+   "tip": "Open March to November; dogs are not allowed and bags must be stowed.",
+   "q": "Affenberg Salem, Mendlishausen 1, Salem",
+   "ll": [
+    47.7615,
+    9.24583
+   ],
+   "src": [
+    "https://affenberg-salem.de/en/barbary-macaques",
+    "https://www.affenberg-salem.de/en/faq/"
+   ]
+  },
+  {
+   "id": "komeersburgtherme",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Soak in the Meersburg Therme above the lake",
+   "desc": "The Meersburg Therme is a bath and sauna complex on the lake that reopened after a year-long renovation. Hours are listed on meersburg-therme.de.",
+   "tip": "Parking was listed at 3 euro per day.",
+   "q": "Meersburg Therme, Meersburg",
+   "ll": [
+    47.68971,
+    9.28001
+   ],
+   "src": [
+    "https://www.bodensee.de/erleben/wellness-und-erholung/therme-meersburg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "kosolemar",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Float in brine at the Solemar in Bad Dürrheim",
+   "desc": "Bad Dürrheim is Europe's highest brine spa at 733 m. The Solemar has a brine therme, a Black Forest sauna, a Dead Sea salt grotto and a wellness centre.",
+   "tip": "Hours were listed 9:00 to 22:00 (Friday to 23:00); check badduerrheim.de.",
+   "q": "Solemar, Huberstraße 8, Bad Dürrheim",
+   "ll": [
+    48.01563,
+    8.53468
+   ],
+   "src": [
+    "https://www.schwarzwald-tourismus.info/attraktionen/wellness-und-gesundheitszentrum-solemar-bad-duerrheim-2f6927e19c",
+    "https://www.schwimmbadcheck.de/bad-duerrheim/solemar.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "kohopfenpfad",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Tettnanger Hopfenpfad between hop gardens",
+   "desc": "The Hopfenpfad runs about 4 km from Tettnang to the Hopfenmuseum in Siggenweiler along hop gardens and orchards. Eleven information boards explain hop growing.",
+   "tip": "The hop harvest is in late summer; an annual Hopfenwandertag opens many breweries on the trail.",
+   "q": "Kronenbrauerei, Tettnang",
+   "ll": [
+    47.6679,
+    9.5881
+   ],
+   "src": [
+    "https://www.bodensee.de/erleben/natur-und-aktiv/tettnanger-hopfenpfad",
+    "https://www.tettnang.de/de/geniessen/sport/wandern/tettnanger-hopfenpfad/tettnang-hopfenpfad-flyer.pdf?cid=l9y"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "koneckarmoos",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike to the Neckar source in the Schwenninger Moos",
+   "desc": "The Schwenninger Moos is a raised bog of about 3 square kilometres near Villingen-Schwenningen, with a 3.5 km nature trail. The official Neckar source lies in the bog.",
+   "tip": "A loop from Bad Dürrheim is about 11 to 14 km; waymarking is patchy, so carry a GPS track.",
+   "q": "Schwenninger Moos, Villingen-Schwenningen",
+   "ll": [
+    48.04226,
+    8.52845
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/von-bad-duerrheim-zum-neckarursprung-im-schwenninger-moos",
+    "https://lgrbwissen.lgrb-bw.de/printpdf/23705"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "koschwarzwaldbahn",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Follow the Schwarzwaldbahn-Erlebnispfad near Triberg",
+   "desc": "The railway trail explains the construction and operation of the Schwarzwaldbahn between Hornberg, Triberg and St. Georgen. One loop is about 6.5 km and two hours.",
+   "tip": "The route passes tunnels and viaducts; a steam-train tunnel excursion has also run from Triberg.",
+   "q": "Bahnhof Triberg, Triberg im Schwarzwald",
+   "ll": [
+    48.13934,
+    8.23752
+   ],
+   "src": [
+    "https://www.schwarzwald-tourismus.info/touren/schwarzwaldbahn-erlebnispfad-406353d87d",
+    "https://www.bergfex.at/sommer/baden-wuerttemberg/touren/wanderung/50938,rundwanderung-auf-dem-schwarzwaldbahnerlebnispfad/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kodonaufelsen",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Donaufelsen above Fridingen",
+   "desc": "The Donau Bergland loop near Fridingen and Mühlheim climbs to viewpoints over the Upper Danube valley, toward Beuron and Schloss Bronnen. The descent to Fridingen has steep, slippery serpentines.",
+   "tip": "About 12 to 13 km and 4 hours; best in dry weather.",
+   "q": "Fridingen an der Donau",
+   "ll": [
+    48.02026,
+    8.93134
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/donauwelle-donaufelsen-tour-bei-fridingen-an-der-donau",
+    "https://www.ich-geh-wandern.de/aussichtsreiche-rundtour-im-donaubergland-fridingen-und-mühlheim"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

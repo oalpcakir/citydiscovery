@@ -49,9 +49,8 @@ window.CITIES.karlsruhe = {
     krbbtrinkhalle: [48.7618, 8.2367], krbbcasino: [48.7611, 8.2354], krbbfestspielhaus: [48.7672, 8.2322],
     krbbburda: [48.7580, 8.2378], krbbrussische: [48.7539, 8.2444], krbbroemerbad: [48.7630, 8.2431],
     krbbbaldreit: [48.7626, 8.2397], krbbschneider: [48.7569, 8.2413], krbbkoenig: [48.7601, 8.2401],
-    krbbfritzfelix: [48.7561, 8.2399], krbbfriedrichsbad: [48.7631, 8.2422],
-    krbbcaracalla: [48.7638, 8.2449], krbbmerkur: [48.7630, 8.2647], krbballee: [48.7572, 8.2383],
-    krbbteufelskanzel: [48.7732, 8.2748]
+    krbbfritzfelix: [48.7561, 8.2399], krbbfriedrichsbad: [48.7631, 8.2422], krbbcaracalla: [48.7638, 8.2449],
+    krbbmerkur: [48.7630, 8.2647], krbballee: [48.7572, 8.2383], krbbteufelskanzel: [48.7732, 8.2748]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {

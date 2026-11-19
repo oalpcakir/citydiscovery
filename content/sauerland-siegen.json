@@ -1,0 +1,550 @@
+{
+ "new": [
+  {
+   "id": "sasiegerlandmuseum",
+   "cat": "gor",
+   "area": "siegen",
+   "title": "Tour the Siegerlandmuseum in the Oberes Schloss",
+   "desc": "The Siegerlandmuseum is housed in the Oberes Schloss on the Siegberg, a former Nassau residence that the city bought in 1888. Its collections cover regional history, mining and ironworking, and one of the major portrait collections of the House of Nassau.",
+   "tip": "Plan about two hours and check opening days on the museum website. The castle terrace gives a view over the old town.",
+   "q": "Siegerlandmuseum im Oberen Schloss, Burgstraße, Siegen",
+   "ll": [
+    50.87367,
+    8.02335
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Oberes_Schloss_(Siegen)",
+    "https://siegerlandmuseum.de/en/the-museum/about-the-museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "sabesucherstollen",
+   "cat": "dene",
+   "area": "siegen",
+   "title": "Walk into the mine tunnel under the Oberes Schloss",
+   "desc": "The Besucherstollen Oberes Schloss is a visitor mine tunnel inside the Siegberg that belongs to the Siegerlandmuseum. It recalls the iron-ore mining that shaped the Siegerland for centuries.",
+   "tip": "Visits are usually by guided tour, so check times with the museum. It stays cool underground, so bring a jacket.",
+   "q": "Besucherstollen Oberes Schloß, Burgstraße, Siegen",
+   "ll": [
+    50.87501,
+    8.0297
+   ],
+   "src": [
+    "https://showcaves.com/english/de/mines/Siegen.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "sakroenchenkirche",
+   "cat": "gor",
+   "area": "siegen",
+   "title": "Find the golden Krönchen on the Nikolaikirche",
+   "desc": "The gilded crown on the tower of the Nikolaikirche is the emblem of Siegen and was a gift from Johann Moritz of Nassau-Siegen in the 17th century. The church dates to the 13th century and served as burial chapel of the Nassau-Siegen counts. The crown on the tower is a replica; the original hangs inside.",
+   "tip": "Look for the original crown above the portal inside the church if it is open. The Markt square below is a good place to see the tower.",
+   "q": "Nikolaikirche, Markt, Siegen",
+   "ll": [
+    50.8747,
+    8.0243
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/nikolaikirche-siegen",
+    "https://www.thecrazytourist.com/15-best-things-siegen-germany/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "samgksiegen",
+   "cat": "gor",
+   "area": "siegen",
+   "title": "See Rubens Prize art at the MGK Siegen",
+   "desc": "The Museum für Gegenwartskunst Siegen opened in 2001 and shows the Lambrecht-Schadeberg Collection, built around winners of the Rubens Prize awarded since 1957. The museum also collects photography, video and installation art, with works by Lucian Freud and Bridget Riley among others.",
+   "tip": "Check the current exhibition and opening hours on the museum website, as an extension is planned.",
+   "q": "Museum für Gegenwartskunst Siegen, Unteres Schloss, Siegen",
+   "ll": [
+    50.87378,
+    8.02239
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/The_Lambrecht-Schadeberg_Collection",
+    "https://www.mgk-siegen.de/en/besuch/2/informationen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "saduffelsiegen",
+   "cat": "ye",
+   "area": "siegen",
+   "title": "Eat Siegerländer Schnitzel at Duffel",
+   "desc": "Duffel at the Marburger Tor is a Siegen restaurant that guests describe as rustic and known for regional dishes. The menu includes a Siegerländer Schnitzel served with Bratkartoffeln.",
+   "tip": "Order the Siegerländer Schnitzel with fried potatoes. Check current opening hours before visiting.",
+   "q": "Duffel Restaurant, Marburger Tor 19, Siegen",
+   "ll": [
+    50.8766,
+    8.02953
+   ],
+   "src": [
+    "https://www.swipein.restaurant/en/restaurant/duffel-restaurant-siegen-siegen-nordrhein-westfa"
+   ]
+  },
+  {
+   "id": "satommiskruestchen",
+   "cat": "ye",
+   "area": "siegen",
+   "title": "Try a Siegerländer Krüstchen at Tommis",
+   "desc": "The Krüstchen is the Siegerland classic: a pork cutlet on a slice of bread, traditionally topped with fried egg. Tommis Restaurant in Eiserfeld has it on the menu as a staple.",
+   "tip": "Ask for the Siegerländer Krüstchen. Reviews mention fast service.",
+   "q": "Tommis Restaurant, Eiserfelder Straße 230, Siegen",
+   "ll": [
+    50.85033,
+    7.99631
+   ],
+   "src": [
+    "https://www.speisekarte.de/siegen/restaurant/tommis_restaurant/bewertung",
+    "https://extra.orf.at/rezepte/rezept-sieglaender-kruestchen100.pdf"
+   ]
+  },
+  {
+   "id": "safruehbisspaet",
+   "cat": "ye",
+   "area": "siegen",
+   "title": "Drink house-brewed beer at Früh bis spät",
+   "desc": "Früh bis spät on Fürst-Johann-Moritz-Straße is a Siegen pub with its own small brewery, serving freshly tapped house beer.",
+   "tip": "Try the house beer on tap. Opening times vary by day.",
+   "q": "Früh bis spät, Fürst-Johann-Moritz-Straße 3, Siegen",
+   "ll": [
+    50.87591,
+    8.01886
+   ],
+   "src": [
+    "https://freizeitmonster.de/blog/bars-siegen"
+   ]
+  },
+  {
+   "id": "samarienkirchesiegen",
+   "cat": "gor",
+   "area": "siegen",
+   "title": "Visit the Jesuit Marienkirche in Siegen",
+   "desc": "The Marienkirche was built by the Jesuits between 1702 and 1729 and is a Catholic baroque church in the old town.",
+   "tip": "Opening hours are limited outside services, so look in during the day.",
+   "q": "Marienkirche, Kampenstraße, Siegen",
+   "ll": [
+    50.8321,
+    7.98671
+   ],
+   "src": [
+    "https://www.thecrazytourist.com/15-best-things-siegen-germany/",
+    "https://en.wikivoyage.org/wiki/Siegen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "saalterflecken",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander the half-timbered Alter Flecken in Freudenberg",
+   "desc": "After town fires in the 16th and 17th centuries, Freudenberg was rebuilt to a uniform plan, giving over 80 black-and-white half-timbered houses. It is described as a monument of international importance.",
+   "tip": "Walk the Kultur-Flecken-Weg trail through the old village. The Kurpark above offers the classic view down on the roofs.",
+   "q": "Alter Flecken, Freudenberg (Siegerland)",
+   "ll": [
+    50.89979,
+    7.87572
+   ],
+   "src": [
+    "https://www.siegen-wittgenstein.info/en/poi/old-spot-freudenberg",
+    "https://www.ich-geh-wandern.de/kultur-flecken-weg-freudenberg-siegerland"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sakurparkfreudenberg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike up to the Kurpark view over Freudenberg",
+   "desc": "The Kurpark of Freudenberg, laid out when the town became a climatic health resort in 1979, offers the best-known view of the Alter Flecken roofs.",
+   "tip": "Go in the late afternoon for the light on the slate and timber. Wear sturdy shoes for the climb.",
+   "q": "Kurpark Freudenberg, Freudenberg, Siegerland",
+   "ll": [
+    50.89874,
+    7.87628
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/wandern/kurpark-freudenberg-siegerland"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "saschlossberleburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour Schloss Berleburg and its baroque park",
+   "desc": "Schloss Berleburg is a baroque three-wing castle and still the seat of the Sayn-Wittgenstein-Berleburg princes. Its white hall has a stucco ceiling by Johann Baptist Wicko from 1735 to 1739.",
+   "tip": "Guided tours are offered, so check dates as the castle is a private residence. The park is open to walk.",
+   "q": "Schloss Berleburg, Schloßplatz, Bad Berleburg",
+   "ll": [
+    51.0515,
+    8.38804
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/schloss-berleburg",
+    "https://www.nrw-tourism.com/berleburg-castle"
+   ]
+  },
+  {
+   "id": "sawisentwildnis",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Meet the bison at Wisent-Wildnis near Wingeshausen",
+   "desc": "The Wisent-Wildnis am Rothaarsteig is a bison enclosure near Wingeshausen, an easy alternative to the long Wisentpfad hike. It belongs to the Wittgenstein bison reintroduction project.",
+   "tip": "Check current admission and times on the tourism site. Bring binoculars for animals further away.",
+   "q": "Wisent-Wildnis am Rothaarsteig, Wingeshausen, Bad Berleburg",
+   "ll": [
+    51.08765,
+    8.26397
+   ],
+   "src": [
+    "https://www.siegen-wittgenstein.info/en/poi/wisent-wildnis-am-rothaarsteig-bison-wilderness-on-the-rothaarsteig",
+    "https://entdecke.dein-nrw.de/en/dein-nrw/streaming/detail/POI/p_100089256/wisent-wildnis-am-rothaarsteig-bison-wilderness-on-the-rothaarsteig"
+   ]
+  },
+  {
+   "id": "saalteschuleberleburg",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Wittgenstein venison at Alte Schule",
+   "desc": "Alte Schule on Goetheplatz is a Michelin-listed restaurant in Bad Berleburg working with regional ingredients. Dishes include Wittgenstein venison goulash.",
+   "tip": "Book ahead for dinner. Try the regional game dishes.",
+   "q": "Alte Schule, Goetheplatz 1, Bad Berleburg",
+   "ll": [
+    51.05026,
+    8.3895
+   ],
+   "src": [
+    "https://guide.michelin.com/en/nordrhein-westfalen/bad-berleburg/restaurant/alte-schule1164951"
+   ]
+  },
+  {
+   "id": "saschlosswittgenstein",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look up at Schloss Wittgenstein above Bad Laasphe",
+   "desc": "Schloss Wittgenstein sits above Bad Laasphe and was the home of the princes of Sayn-Wittgenstein-Hohenstein until 1950. It now houses a boarding school and can be viewed only from outside.",
+   "tip": "Walk the L3 local trail to see the castle and the old castle ruin. Do not expect interior tours.",
+   "q": "Schloss Wittgenstein, Bad Laasphe",
+   "ll": [
+    50.93036,
+    8.39772
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/schloss-wittgenstein-rundwanderung-bad-laaspher-rundwanderweg-l-3",
+    "https://www.siegen-wittgenstein.info/en/tour/l3-local-hiking-trail-bad-laasphe-wittgenstein-castle-and-old-castle"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sawilhelmsburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Hilchenbach Wilhelmsburg and its museum",
+   "desc": "The Wilhelmsburg in Hilchenbach dates to 1622, served as a residence of counts and princes and later as a court, and now houses the town museum.",
+   "tip": "Combine with a look at the half-timbered houses on the market square.",
+   "q": "Wilhelmsburg, Hilchenbach",
+   "ll": [
+    50.99699,
+    8.11843
+   ],
+   "src": [
+    "https://www.urlaubspiraten.de/reise-journal/burgen-und-schloesser-siegen-wittgenstein"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "saginsburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk to the Ginsburg above Hilchenbach",
+   "desc": "The Ginsburg is a castle site near Hilchenbach where, according to local history, Wilhelm of Orange gathered forces before the liberation of the Netherlands.",
+   "tip": "Reach it on foot via marked trails from Hilchenbach. Check access before going.",
+   "q": "Ginsburg, Hilchenbach",
+   "ll": [
+    50.97423,
+    8.14497
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/kreis-siegen-wittgenstein",
+    "https://m.unser-stadtplan.de/freizeitkarte/siegen-wittgenstein/kartenstartpunkt/freizeitkarte-siegen-wittgenstein.map"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sasiebelhilchenbach",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order a Krüstchen at Gasthof Siebel in Hilchenbach",
+   "desc": "Gasthof Siebel in Hilchenbach serves the Siegerland Krüstchen, including a version baked with ham, pineapple and cheese.",
+   "tip": "Try the Krüstchen and ask about the variants on the menu.",
+   "q": "Gasthof Siebel, Hilchenbach",
+   "ll": [
+    50.97846,
+    8.09197
+   ],
+   "src": [
+    "https://www.speisekarte.de/hilchenbach/restaurant/siebel/speisekarte"
+   ]
+  },
+  {
+   "id": "sakrombacher",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Take a brewery tour at the Krombacher Erlebniswelt",
+   "desc": "The Krombacher Erlebniswelt in the old village school of Krombach has run since 1997 and was recently modernised. Guided tours cover the brewing process and history on a 170,000 square metre site.",
+   "tip": "Book a guided tour in advance on the Krombacher website.",
+   "q": "Krombacher Erlebniswelt, Hagener Straße 261, Kreuztal",
+   "ll": [
+    50.99241,
+    7.95447
+   ],
+   "src": [
+    "https://www.about-drinks.com/krombacher-erlebniswelt-eroeffnet-nach-umfassender-modernisierung/",
+    "https://rausgegangen.de/en/locations/krombacher-erlebniswelt/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "sakindelsberg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike from Krombach brewery up the Kindelsberg",
+   "desc": "A marked hiking route leads from the Krombacher brewery up the Kindelsberg, a well-known viewpoint hill of the Siegerland near Kreuztal.",
+   "tip": "Start at the brewery and plan a few hours for the return trip.",
+   "q": "Kindelsberg, Kreuztal",
+   "ll": [
+    50.98987,
+    8.00377
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/wandertour-von-der-krombacher-brauerei-auf-den-kindelsberg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sabindweide",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Go down the Grube Bindweide visitor mine",
+   "desc": "Grube Bindweide in Steinebach an der Sieg is a former iron-ore mine open for guided tours and a certified healing gallery, part of the Westerwald-Lahn-Taunus GeoPark.",
+   "tip": "Check tour times and bring warm clothes.",
+   "q": "Besucherbergwerk Grube Bindweide, Steinebach an der Sieg",
+   "ll": [
+    50.73251,
+    7.8296
+   ],
+   "src": [
+    "https://showcaves.com/english/de/mines/Bindweide.html",
+    "https://freizeitinsider.de/angebot/besucherbergwerk-grube-bindweide/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "saattahoehle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the Atta-Höhle stalactite cave in Attendorn",
+   "desc": "The Atta-Höhle is one of Germany best-known show caves, with about 350,000 visitors a year. Tours last roughly 40 minutes at a constant 9 degrees C.",
+   "tip": "Bring a jacket. The Biggolino shuttle links the cave to the Biggedamm.",
+   "q": "Atta-Höhle, Finnentroper Straße 39, Attendorn",
+   "ll": [
+    51.12544,
+    7.91488
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/atta-höhle",
+    "https://sauerland.com/en/amp/our-region/let-yourself-be-inspired/ausflugs-geschichten/tipps-fuer-tagesausfluege/under-the-ground-and-on-the-water-in-attendorn"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "sahimmelreich",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine in the Himmelreich cave restaurant in Attendorn",
+   "desc": "The Himmelreich restaurant is located inside the Atta stalactite cave complex in Attendorn.",
+   "tip": "Reserve a table and check seasonal opening.",
+   "q": "Himmelreich Höhlenrestaurant, Finnentroper Straße 39, Attendorn",
+   "ll": [
+    51.1261,
+    7.9056
+   ],
+   "src": [
+    "https://www.sauerland.com/en/neusta-gastro/himmelreich-cave-restaurant"
+   ]
+  },
+  {
+   "id": "saburgschnellenberg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Burg Schnellenberg above Attendorn",
+   "desc": "Burg Schnellenberg, first built in 1222, is described as the largest castle complex in southwestern Westphalia. It was rebuilt after 1949 and now hosts a hotel and restaurant.",
+   "tip": "Walk the 2-Burgen-Weg from here. The restaurant is open to guests.",
+   "q": "Burg Schnellenberg, Attendorn",
+   "ll": [
+    51.12387,
+    7.92591
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/burg-schnellenberg"
+   ]
+  },
+  {
+   "id": "sabiggeseeschiff",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cruise the Biggesee by electric passenger ship",
+   "desc": "Personenschifffahrt Biggesee sails from the Olpe-Sondern harbour with an electric fleet, with stops around the lake including the Biggedamm.",
+   "tip": "Check the current timetable on the operator site; no confirmed 2026 schedule was found.",
+   "q": "Personenschifffahrt Biggesee, Anleger Sondern, Olpe",
+   "ll": [
+    51.061,
+    7.897
+   ],
+   "src": [
+    "https://sauerland.com/en/neusta-pois/biggesee",
+    "https://www.ich-geh-wandern.de/wanderung-12-km-und-schifffahrt-mit-ausblicken-und-eindrücken-vom-listersee-und-biggesee"
+   ]
+  },
+  {
+   "id": "sawaldenburgerbucht",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike from Attendorn to the Waldenburger Bucht",
+   "desc": "A marked walk leads from Attendorn to the Waldenburger Bucht on the Biggesee with lake views.",
+   "tip": "Combine with the boat or the Biggolino shuttle for the return.",
+   "q": "Waldenburger Bucht, Biggesee, Attendorn",
+   "ll": [
+    51.1117,
+    7.90278
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/wanderweg-von-attendorn-zur-waldenburger-bucht-am-biggesee-sauerland"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sasauerlaenderdom",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Step into the Sauerländer Dom in Attendorn",
+   "desc": "The Sauerländer Dom, the Catholic parish church St. Johannes Baptist, is a notable example of Gothic architecture.",
+   "tip": "Open during the day. Look up at the interior vaulting.",
+   "q": "Sauerländer Dom, Niederste Straße 1, Attendorn",
+   "ll": [
+    51.1244,
+    7.9015
+   ],
+   "src": [
+    "https://freizeitmonster.de/aktivitaeten/orte/sauerlaender-dom-189272"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sajakobattendorn",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat fresh fish at Jakob in Attendorn",
+   "desc": "Jakob is a fish shop and restaurant at Am Kirchplatz in the old town of Attendorn.",
+   "tip": "Check opening hours. Lunchtime is busiest.",
+   "q": "Jakob Fischfachgeschäft und Restaurant, Am Kirchplatz 2, Attendorn",
+   "ll": [
+    51.1264,
+    7.90246
+   ],
+   "src": [
+    "https://freizeitmonster.de/blog/restaurants-attendorn"
+   ]
+  },
+  {
+   "id": "sarheinweserturm",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the Rhein-Weser-Turm on the Rothaarsteig",
+   "desc": "The 24 m Rhein-Weser-Turm near Oberhundem stands at about 680 m directly on the Rhine-Weser watershed and on the Rothaarsteig, with a restaurant in the tower.",
+   "tip": "Walk part of the Rothaarsteig to reach it. The tower is run by Landgasthof Schwermer.",
+   "q": "Rhein-Weser-Turm, Oberhundem, Kirchhundem",
+   "ll": [
+    51.07117,
+    8.19756
+   ],
+   "src": [
+    "https://sauerland.com/en/neusta-pois/rhein-weser-turm",
+    "https://www.ich-geh-wandern.de/gps-wanderwege/rhein-weser-turm"
+   ]
+  },
+  {
+   "id": "sahohebracht",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the Hohe Bracht tower near Bilstein",
+   "desc": "The Hohe Bracht rises 587.9 m and carries an observation tower with a restaurant and beer garden, with views over the Sauerland and Burg Bilstein.",
+   "tip": "Good for a beer garden stop after the climb.",
+   "q": "Aussichtsturm Hohe Bracht, Bilstein, Lennestadt",
+   "ll": [
+    51.08468,
+    8.04464
+   ],
+   "src": [
+    "https://freizeitinsider.de/angebot/aussichtsturm-hohe-bracht/"
+   ]
+  },
+  {
+   "id": "saburgbilstein",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Burg Bilstein in Lennestadt",
+   "desc": "Burg Bilstein dates from the 12th century and now houses a youth hostel. Two lime trees beside it are natural monuments.",
+   "tip": "Hike the Waukemicke loop to reach it.",
+   "q": "Burg Bilstein, Bilstein, Lennestadt",
+   "ll": [
+    51.09587,
+    8.01826
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/waukemicke-burg-bilstein-waukemicke"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

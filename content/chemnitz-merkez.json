@@ -1,0 +1,634 @@
+{
+ "new": [
+  {
+   "id": "chnischel",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Meet the giant Karl Marx head, the Nischel",
+   "desc": "The 7.1 m bronze head of Karl Marx by Lev Kerbel was unveiled in 1971 opposite the Stadthalle, a reminder that Chemnitz was called Karl-Marx-Stadt from 1953 to 1990. Locals call it Nischel, Saxon for head.",
+   "tip": "Free and always accessible; photograph it in morning light with the carved quote behind it.",
+   "q": "Karl-Marx-Monument, Brückenstraße, Chemnitz",
+   "ll": [
+    50.83592,
+    12.92329
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Karl_Marx_Monument_(Chemnitz)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "chrotertuerm",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find the Red Tower, Chemnitz's oldest building",
+   "desc": "The Roter Turm is a square medieval tower from the 12th to 13th century that once belonged to the city fortifications. It is the oldest surviving building in Chemnitz.",
+   "tip": "It is a landmark to admire from outside; it stands beside Johannisplatz in the centre.",
+   "q": "Roter Turm, Johannisplatz, Chemnitz",
+   "ll": [
+    50.83393,
+    12.92001
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Roter_Turm_(Chemnitz)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "chschlossbergmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore the Schloßbergmuseum in the old Benedictine abbey",
+   "desc": "The Schloßbergmuseum occupies the former Benedictine monastery founded around 1136 by Emperor Lothar III, with a late Gothic cloister and the Chemnitz city history collection. Its 2026 programme includes a show on Chemnitz as Karl-Marx-Stadt.",
+   "tip": "Opening days changed in 2026 (Tuesday to Sunday from June, 11:00 to 18:00); check the museum site.",
+   "q": "Schloßbergmuseum, Schloßberg 1, Chemnitz",
+   "ll": [
+    50.84518,
+    12.91499
+   ],
+   "src": [
+    "https://www.kunstsammlungen-chemnitz.de/en/haeuser/schlossbergmuseum/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "chvillaesche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step into Henry van de Velde's Villa Esche",
+   "desc": "Villa Esche was planned in 1902 as the family home of textile manufacturer Herbert Esche and was Henry van de Velde's first architectural commission in Germany. The museum keeps the dining room and music salon with largely original furnishings.",
+   "tip": "Visit in summer for the garden; check guided tour times.",
+   "q": "Villa Esche, Parkstraße 58, Chemnitz",
+   "ll": [
+    50.81505,
+    12.90091
+   ],
+   "src": [
+    "https://kunstsammlungen-chemnitz.de/en/?p=375",
+    "https://iconichouses.org/specials/villa-esche"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "chgunzenhauser",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See Otto Dix and Expressionists at Museum Gunzenhauser",
+   "desc": "The museum in a former 1930 bank building houses the collection of Alfred Gunzenhauser, with one of the largest Otto Dix collections in the world plus Expressionists. It belongs to the Kunstsammlungen Chemnitz.",
+   "tip": "Combined tickets with the other Kunstsammlungen exist; allow two hours.",
+   "q": "Museum Gunzenhauser, Stollberger Straße 2, Chemnitz",
+   "ll": [
+    50.82859,
+    12.91521
+   ],
+   "src": [
+    "https://www.kunstsammlungen-chemnitz.de/en/news/museum-gunzenhauser-14239/",
+    "https://www.kunstsammlungen-chemnitz.de/en/besuch/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "chkunstsammlungen",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Browse the Kunstsammlungen on Theaterplatz",
+   "desc": "Chemnitz's main art museum shows German Expressionism, including a major Karl Schmidt-Rottluff collection and exhibitions such as Edvard Munch. It stands on the Theaterplatz with the opera house and Petrikirche.",
+   "tip": "Open Tuesday to Sunday, 11:00 to 18:00 per the museum; check the exhibition programme.",
+   "q": "Kunstsammlungen am Theaterplatz, Theaterplatz 1, Chemnitz",
+   "ll": [
+    50.83772,
+    12.92451
+   ],
+   "src": [
+    "https://www.kunstsammlungen-chemnitz.de/en/haeuser/kunstsammlungen-am-theaterplatz/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "chsmac",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Discover Saxony's past at smac in the Schocken building",
+   "desc": "The State Museum of Archaeology Chemnitz (smac) is housed in the former Schocken department store designed by Erich Mendelsohn in 1930. Its exhibition traces 300,000 years of Saxon history.",
+   "tip": "Open Tuesday to Sunday, Thursday until 20:00; closed Mondays.",
+   "q": "smac Staatliches Museum für Archäologie, Stefan-Heym-Platz 1, Chemnitz",
+   "ll": [
+    50.83409,
+    12.92505
+   ],
+   "src": [
+    "https://www.smac.sachsen.de/en/mining-infos-besuch.html",
+    "https://en.wikipedia.org/wiki/Schocken_Department_Store_(Chemnitz)"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "chindustriemuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Tour the Industriemuseum Chemnitz",
+   "desc": "The Saxon Industrial Museum in a former foundry shows how Chemnitz became the Saxon Manchester, with machine tools, steam engines, textile machinery and vehicles.",
+   "tip": "Check demonstration days with the museum; allow two hours.",
+   "q": "Industriemuseum Chemnitz, Zwickauer Straße 119, Chemnitz",
+   "ll": [
+    50.82408,
+    12.90025
+   ],
+   "src": [
+    "https://www.saechsisches-industriemuseum.de/",
+    "https://en.wikipedia.org/wiki/Saxon_Industrial_Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "chklaffenbach",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk around the moated Wasserschloss Klaffenbach",
+   "desc": "Wasserschloss Klaffenbach on the southern edge of Chemnitz is a Renaissance moated castle that now hosts events, exhibitions and a hotel.",
+   "tip": "The grounds can be seen free; check event and tour dates.",
+   "q": "Wasserschloss Klaffenbach, Wasserschloßweg 6, Chemnitz",
+   "ll": [
+    50.76913,
+    12.88919
+   ],
+   "src": [
+    "https://www.auerbach-erzgebirge.de/freizeit-tourismus/ausflugsziele/wasserschloss-klaffenbach.html",
+    "https://de.wikipedia.org/wiki/Wasserschloss_Klaffenbach"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "chburgrabenstein",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit Burg Rabenstein in Chemnitz's west",
+   "desc": "Burg Rabenstein in Oberrabenstein is a medieval castle and one of the Kunstsammlungen Chemnitz venues. It lies close to the Stausee Oberrabenstein.",
+   "tip": "Check the Kunstsammlungen site for opening days; combine with the lake.",
+   "q": "Burg Rabenstein, Oberrabenstein, Chemnitz",
+   "ll": [
+    50.8331,
+    12.81826
+   ],
+   "src": [
+    "https://www.kunstsammlungen-chemnitz.de/en/news/",
+    "https://de.wikipedia.org/wiki/Burg_Rabenstein_(Chemnitz)"
+   ]
+  },
+  {
+   "id": "chpetrikirche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the neo-Gothic Petrikirche on Theaterplatz",
+   "desc": "The Petrikirche was built in 1885-88 in neo-Gothic style and stands on the Theaterplatz, the architectural heart of the city, beside the opera house and Kunstsammlungen.",
+   "tip": "Visit during open church hours or for a concert.",
+   "q": "Petrikirche, Theaterplatz, Chemnitz",
+   "ll": [
+    50.8335,
+    12.9176
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Petrikirche_(Chemnitz)"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "chneuesrathaus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Look up at the Neues Rathaus tower on the Markt",
+   "desc": "The New Town Hall, built 1907-1911, rises beside the old town hall on the Markt and is the centre of the city's public life. Its tower dominates the square, which hosts the Christmas market.",
+   "tip": "The square is free; the Rathaus is best seen on market days.",
+   "q": "Neues Rathaus, Markt 1, Chemnitz",
+   "ll": [
+    50.74695,
+    13.06898
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Neues_Rathaus_(Chemnitz)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "chkassberg",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Wander the Gründerzeit streets of the Kaßberg",
+   "desc": "The Kaßberg is one of Europe's largest contiguous Gründerzeit and Jugendstil districts. Marianne Brandt and Lothar-Günther Buchheim lived here.",
+   "tip": "Walk from the Kaßbergauffahrt and combine with a coffee break.",
+   "q": "Kaßberg, Chemnitz",
+   "ll": [
+    50.83241,
+    12.90398
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kaßberg_(Chemnitz)",
+    "https://www.merian.de/deutschland/sachsen/sehenswuerdigkeiten-von-chemnitz-ausflug-in-die-stadt-der-moderne"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "chkuechwald",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Stroll the Küchwald and the Schlossteich",
+   "desc": "The city acquired the Küchwald in 1885 as a recreation area. The green round runs from the Schlossteich below the Schloßberg into the Küchwald park with its park railway.",
+   "tip": "Free year-round; the park railway runs seasonally.",
+   "q": "Schlossteich, Chemnitz",
+   "ll": [
+    50.84208,
+    12.9146
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/gruene-runde-chemnitz-vom-schlossteich-in-den-kuechwaldpark",
+    "https://chemnitz.travel/en/poi/castle-district"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "chstausee",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk around the Stausee Oberrabenstein",
+   "desc": "The Stausee Oberrabenstein is a 6.5 hectare reservoir created in 1976, regularly tested for water quality. It is a local recreation area for walking and summer swimming.",
+   "tip": "Free access; swim in summer in the marked area.",
+   "q": "Stausee Oberrabenstein, Chemnitz",
+   "ll": [
+    50.8176,
+    12.8498
+   ],
+   "src": [
+    "https://www.komoot.com/highlight/406664"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "cheisenbahnmuseum",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Visit the Sächsisches Eisenbahnmuseum in Hilbersdorf",
+   "desc": "The Saxon Railway Museum occupies the former Chemnitz-Hilbersdorf locomotive depot with a roundhouse and many historic locomotives. Event days include steam runs.",
+   "tip": "Open on selected days; check the calendar before going.",
+   "q": "Sächsisches Eisenbahnmuseum, Hilbersdorf, Chemnitz",
+   "ll": [
+    50.86212,
+    12.96811
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Saxon_Railway_Museum"
+   ]
+  },
+  {
+   "id": "chmarkthalle",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Markthalle Chemnitz",
+   "desc": "The Markthalle is a covered market hall in the centre with stalls selling regional produce and food.",
+   "tip": "Go on a Saturday morning when stalls are fullest.",
+   "q": "Markthalle Chemnitz, An der Markthalle, Chemnitz",
+   "ll": [
+    50.83472,
+    12.916
+   ],
+   "src": [
+    "https://freizeitmonster.de/blog/restaurants-chemnitz"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "chopernhaus",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Catch a performance at the Opernhaus Chemnitz",
+   "desc": "The Opernhaus on Theaterplatz is home to Theater Chemnitz's opera and the Robert-Schumann-Philharmonie.",
+   "tip": "Check the season programme and last-minute tickets.",
+   "q": "Opernhaus Chemnitz, Theaterplatz 2, Chemnitz",
+   "ll": [
+    50.83836,
+    12.9241
+   ],
+   "src": [
+    "https://www.theater-chemnitz.de/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "chturmbrauhaus",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink house-brewed beer at the Turm-Brauhaus",
+   "desc": "The Turm-Brauhaus opposite the town hall brews its own beers in copper kettles in the dining room. The Brauhaus salad and Brauhaus steak are the classics, and some beers have won European recognition.",
+   "tip": "Book ahead on weekends.",
+   "q": "Turm-Brauhaus, Neumarkt 2, Chemnitz",
+   "ll": [
+    50.8338,
+    12.919
+   ],
+   "src": [
+    "https://www.chemnitz.travel/en/gastro/turm-brauhaus",
+    "https://www.speisekarte.de/chemnitz-sachsen/restaurant/turmbrauhaus/bewertung"
+   ]
+  },
+  {
+   "id": "chfasskeller",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat German classics at Diebels Fasskeller",
+   "desc": "This pub-restaurant next to the Markthalle serves traditional German dishes and draught beer in a retro setting with a terrace.",
+   "tip": "Reserve evenings; sit on the terrace in summer.",
+   "q": "Diebels Fasskeller, An der Markthalle 3, Chemnitz",
+   "ll": [
+    50.8363,
+    12.91553
+   ],
+   "src": [
+    "https://opentable.com/diebels-fasskeller"
+   ]
+  },
+  {
+   "id": "chemmasonkel",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have coffee and cake at Emmas Onkel on the Kaßberg",
+   "desc": "This Kaßberg café is known for coffee specialities and cake.",
+   "tip": "Come on a weekend afternoon for cake.",
+   "q": "Emmas Onkel, Kaßberg, Chemnitz",
+   "ll": [
+    50.83136,
+    12.89774
+   ],
+   "src": [
+    "https://www.chemnitz.travel/en/gastro/emmas-onkel"
+   ]
+  },
+  {
+   "id": "chbober",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try Hausmannskost at BOBER Café on the Kaßberg",
+   "desc": "BOBER Café on Kanzlerstraße serves home-style German cooking and a vegan menu on the Kaßberg.",
+   "tip": "Check the daily specials; reserve for dinner.",
+   "q": "BOBER Café, Kanzlerstraße 74, Chemnitz",
+   "ll": [
+    50.8265,
+    12.907
+   ],
+   "src": [
+    "https://www.werkenntdenbesten.de/restaurant/chemnitz"
+   ]
+  },
+  {
+   "id": "chkellerhaus",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste home cooking at Kellerhaus below the Schloßberg",
+   "desc": "Kellerhaus serves traditional Saxon home cooking in Schloßchemnitz at the foot of the Schloßberg, and ranks among the best-rated restaurants in Chemnitz.",
+   "tip": "Book for weekends; verify the address on a map.",
+   "q": "Kellerhaus, Schloßberg 2, Chemnitz",
+   "ll": [
+    50.84557,
+    12.91636
+   ],
+   "src": [
+    "https://www.speisekarte.de/chemnitz-sachsen/restaurant/kellerhaus_chemnitz/bewertung"
+   ]
+  },
+  {
+   "id": "chhorchmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Trace Horch, Audi and Trabant at the August Horch Museum",
+   "desc": "The August Horch Museum in Zwickau is housed in the former Audi factory and shows Horch, Audi, DKW, Wanderer and Trabant, all built in Zwickau. It ranks among Europe's major car museums.",
+   "tip": "Allow two to three hours; the Trabant prototypes are a highlight.",
+   "q": "August Horch Museum, Audistraße 7, Zwickau",
+   "ll": [
+    50.73277,
+    12.48361
+   ],
+   "src": [
+    "https://www.zwickau.de/en/tourismus/sehenswuerdigkeiten/04.php",
+    "https://en.wikipedia.org/wiki/August_Horch_Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "chschumannhaus",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Robert Schumann's birthplace on the Hauptmarkt",
+   "desc": "The Robert-Schumann-Haus is the composer's birthplace and holds a large Schumann collection with manuscripts and portraits.",
+   "tip": "Check opening hours and concert dates.",
+   "q": "Robert-Schumann-Haus, Hauptmarkt 5, Zwickau",
+   "ll": [
+    50.71739,
+    12.49617
+   ],
+   "src": [
+    "https://maps.adac.de/poi/robert-schumann-haus-zwickau",
+    "https://en.wikipedia.org/wiki/Robert_Schumann_House"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "chdomzwickau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Enter the late Gothic Dom St. Marien in Zwickau",
+   "desc": "The Dom St. Marien is Zwickau's main church, a late Gothic hall church with a carved altar by Michael Wolgemut from 1479.",
+   "tip": "Open daily for visitors; the altar is the highlight.",
+   "q": "Dom St. Marien, Domhof, Zwickau",
+   "ll": [
+    50.71915,
+    12.49315
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Dom_St._Marien_(Zwickau)"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "chpriesterhaeuser",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Step into the Priesterhäuser, among Germany's oldest homes",
+   "desc": "The Priesterhäuser on the Domhof are documented as Germany's oldest residential buildings and now house a museum on the city's history.",
+   "tip": "Next to the Dom; plan an hour.",
+   "q": "Priesterhäuser, Domhof 5-8, Zwickau",
+   "ll": [
+    50.7201,
+    12.494
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Priesterhäuser_(Zwickau)"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "chpechstein",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Expressionism at the Max-Pechstein-Museum in Zwickau",
+   "desc": "The Kunstsammlungen Zwickau show about 50 works by Zwickau-born Max Pechstein in the former King Albert Museum building of 1914. The museum opened in 2014.",
+   "tip": "Closed Mondays; admission about 6 euros.",
+   "q": "Max-Pechstein-Museum, Lessingstraße 1, Zwickau",
+   "ll": [
+    50.7191,
+    12.4872
+   ],
+   "src": [
+    "https://www.zwickau.de/en/tourismus/kulturfreizeit/museen/kunstsammlungen.php",
+    "https://visitsaxony.com/poi/zwickau-art-collections-zwickau"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "chgasthaus1470",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat at Gasthaus 1470 in Zwickau's old town",
+   "desc": "Gasthaus 1470 on Marienstraße presents itself as a historic inn serving guests since 1470, the year of the Schneeberg silver find that started Zwickau's first boom.",
+   "tip": "Reserve in the evening.",
+   "q": "Gasthaus 1470, Marienstraße 50, Zwickau",
+   "ll": [
+    50.7204,
+    12.492
+   ],
+   "src": [
+    "https://www.swipein.restaurant/en/restaurant/gasthaus-1470-zwickau-sachsen"
+   ]
+  },
+  {
+   "id": "chschlossglauchau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the double castle Schloss Glauchau",
+   "desc": "Schloss Glauchau combines the late Gothic Hinterglauchau (1470-1485) with the Early Renaissance Forderglauchau (1527-1534). Hinterglauchau houses the town museum and art collection.",
+   "tip": "The museum is at Schlossplatz 5a; check seasonal hours.",
+   "q": "Museum Schloss Hinterglauchau, Schlossplatz 5a, Glauchau",
+   "ll": [
+    50.8157,
+    12.5426
+   ],
+   "src": [
+    "https://fromplacetoplace.travel/germany/saxony/zwickau-region/glauchau-castle/",
+    "https://www.museum.com/museums/museum-und-kunstsammlung-schloss-hinterglauchau"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "chschlosswaldenburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Schloss Waldenburg above the Zwickauer Mulde",
+   "desc": "Schloss Waldenburg shows many architectural phases; it burned in 1848 during the Saxon March revolution. It still hosts chamber concerts in its Blue Hall.",
+   "tip": "Check the concert calendar; the Luther Trail passes here.",
+   "q": "Schloss Waldenburg, Waldenburg, Sachsen",
+   "ll": [
+    50.871,
+    12.549
+   ],
+   "src": [
+    "https://fromplacetoplace.travel/germany/saxony/zwickau-region/waldenburg-castle/"
+   ]
+  },
+  {
+   "id": "chwolkenburg",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have coffee at Schloss Wolkenburg",
+   "desc": "Schloss Wolkenburg is a medieval castle of the von Einsiedel family above the Mulde, with a café.",
+   "tip": "Check café opening days; combine with the Luther Trail.",
+   "q": "Schloss Wolkenburg, Wolkenburg-Kaufungen",
+   "ll": [
+    50.919,
+    12.627
+   ],
+   "src": [
+    "https://blog.komoot.de/guide/267174/castles-around-glauchau",
+    "https://visitsaxony.com/tour/luther-trail-saxony-from-wolkenburg-to-waldenburg"
+   ]
+  },
+  {
+   "id": "chlutherweg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Luther Trail from Wolkenburg to Waldenburg",
+   "desc": "This Luther Trail Saxony stage runs through the Mulde valley past castles from Wolkenburg to Waldenburg.",
+   "tip": "Plan half a day; the route is waymarked.",
+   "q": "Schloss Wolkenburg, Wolkenburg-Kaufungen",
+   "ll": [
+    50.919,
+    12.627
+   ],
+   "src": [
+    "https://visitsaxony.com/tour/luther-trail-saxony-from-wolkenburg-to-waldenburg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "chschumannweg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Follow the Schumann trail through Zwickau",
+   "desc": "The Schumannweg is a self-guided walk past sites linked to Robert Schumann, starting at his birthplace on the Hauptmarkt.",
+   "tip": "Download the route PDF from the city site.",
+   "q": "Hauptmarkt, Zwickau",
+   "ll": [
+    50.7186,
+    12.4927
+   ],
+   "src": [
+    "https://www.zwickau.de/media/downloads/image/03_kultur/schumannweg.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

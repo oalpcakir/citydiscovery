@@ -78,7 +78,8 @@ window.CITIES.muenchen = {
     mcdechant: [47.9976, 11.3398], mcisarfloss: [47.9219, 11.4224], mcroseninsel: [47.9411, 11.3089],
     mceibsee: [47.4579, 10.9900], mchoellentalklamm: [47.4487, 11.0438], mcleutaschklamm: [47.4283, 11.2464],
     mckarwendelbahn: [47.4383, 11.2703], mcferchensee: [47.4392, 11.2147], mcferingasee: [48.1944, 11.6711],
-    mcerdingerbrauerei: [48.3067, 11.9072], mcmaisingerschlucht: [47.9797, 11.2794], mcilkahoehe: [47.9011, 11.2492]
+    mcerdingerbrauerei: [48.3067, 11.9072], mcmaisingerschlucht: [47.9797, 11.2794], mcilkahoehe: [47.9011, 11.2492],
+    rgmoosburg: [48.4687, 11.9393]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -642,6 +643,9 @@ window.CITIES.muenchen = {
       tip: "Allow about an hour each way from Starnberg station, and wear sturdy shoes as the path by the stream can be muddy.", q: "Maisinger See, Pöcking", tags: ["free"], src: ["https://de.wikipedia.org/wiki/Maisinger_See"] },
     { id: "mcilkahoehe", cat: "dene", area: "cevre", title: "Walk up to the Ilkahöhe above Tutzing",
       desc: "The Ilkahöhe is a 726 metre moraine hill above Tutzing on the west shore of Lake Starnberg. On clear days the panorama runs from the Zugspitze to the Chiemgau Alps, with the whole lake at your feet. It is named after Princess Ilka von Wrede, honoured for nursing the wounded in the war of 1870 and 1871.",
-      tip: "Walk up from Tutzing station in about an hour. Come in autumn on a Föhn day, when the mountains look close enough to touch.", q: "Ilkahöhe, Tutzing", tags: ["free"], src: ["https://de.wikipedia.org/wiki/Ilkah%C3%B6he"] }
+      tip: "Walk up from Tutzing station in about an hour. Come in autumn on a Föhn day, when the mountains look close enough to touch.", q: "Ilkahöhe, Tutzing", tags: ["free"], src: ["https://de.wikipedia.org/wiki/Ilkah%C3%B6he"] },
+    { id: "rgmoosburg", cat: "gor", area: "cevre", title: "See the Leinberger altar in Moosburg's St. Kastulus minster",
+      desc: "The Kastulusmünster in Moosburg an der Isar is a late Gothic church with a high altar carved by Hans Leinberger in 1513, among the great works of South German wood sculpture. The church tower is a landmark of the Isar valley town.",
+      tip: "Free to enter during the day, listed daily 8:00 to 18:00; check sankt-kastulus.de for current times and for guided visits.", q: "Kastulusmünster, Kirchplatz, Moosburg an der Isar", tags: ["free", "rainy day"], src: ["https://de.wikipedia.org/wiki/St._Kastulus_(Moosburg_an_der_Isar)", "https://www.alpen-guide.de/reisefuehrer/poi/kastulusmuenster-moosburg"] }
   ]
 };

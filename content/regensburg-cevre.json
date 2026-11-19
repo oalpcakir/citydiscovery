@@ -1,0 +1,822 @@
+{
+ "new": [
+  {
+   "id": "rgwalhalla",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the steps of Walhalla above the Danube",
+   "desc": "Walhalla is a Greek-temple-style hall of fame built by Leo von Klenze for King Ludwig I and opened in 1842 on a hill near Donaustauf. Inside are marble busts and plaques honouring more than 100 important figures of the German-speaking world.",
+   "tip": "Open daily 9:00 to 18:00 from April to October, with a 2026 ticket of about 5 euros; winter hours are shorter, so check before a cold-season visit. The terrace has a wide view over the Danube valley.",
+   "q": "Walhalla, Walhallastraße 48, Donaustauf",
+   "ll": [
+    49.03114,
+    12.22406
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Walhalla_temple",
+    "https://www.schloesser.bayern.de/englisch/palace/objects/walhalla.htm"
+   ]
+  },
+  {
+   "id": "rgwolfsegg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the hilltop Burg Wolfsegg",
+   "desc": "Burg Wolfsegg is a medieval hill castle in the Landkreis Regensburg, kept up by a local support association and holding a small castle museum. It stands on a ridge above the village in the Bavarian Jura.",
+   "tip": "Open to visitors on Saturdays, Sundays and holidays from May to early October, 10:00 to 16:00; confirm with the association before driving out.",
+   "q": "Burg Wolfsegg, Burggasse, Wolfsegg",
+   "ll": [
+    49.10687,
+    11.9766
+   ],
+   "src": [
+    "https://www.burgenwelt.org/deutschland/wolfsegg/Burgenwelt-Wolfsegg-Deutschland.pdf",
+    "https://www.tourispo.de/schloss-burg/burg-wolfsegg_preise-und-oeffnungszeiten.html"
+   ]
+  },
+  {
+   "id": "rgweltenburgabtei",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Weltenburg Abbey at the Danube gorge",
+   "desc": "The Benedictine abbey of Weltenburg was founded around 600 and lies where the Danube squeezes through a narrow limestone gorge. Its abbey church was rebuilt in the early 18th century by the Asam brothers and is a landmark of the Bavarian Baroque.",
+   "tip": "Reach it by boat from Kelheim or on foot; the church is free to enter outside services. Combine it with a beer in the Klosterschenke.",
+   "q": "Kloster Weltenburg, Asamstraße 32, Kelheim",
+   "ll": [
+    48.89915,
+    11.8198
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Weltenburg_Abbey",
+    "https://bavaria.travel/stories/danube-gorge-weltenburg"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rgbefreiungshalle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk through the Befreiungshalle on the Michelsberg",
+   "desc": "The Befreiungshalle above Kelheim is a domed monument to the Wars of Liberation against Napoleon, begun by Ludwig I in 1842 and completed in 1863. Its interior is ringed by marble Victory figures and a colonnade gives views over Kelheim and the Altmühl and Danube valleys.",
+   "tip": "Open daily, shorter hours in winter (roughly 10:00 to 15:15, April to October from 9:00); the 2026 combination ticket with Walhalla and Prunn Castle costs about 13 euros.",
+   "q": "Befreiungshalle, Befreiungshalle 3, Kelheim",
+   "ll": [
+    48.91829,
+    11.85575
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Liberation_Hall",
+    "https://www.schloesser.bayern.de/englisch/palace/objects/kelheim.htm"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rgprunn",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour Burg Prunn on its Altmühl cliff",
+   "desc": "Burg Prunn clings to a limestone cliff above the Altmühl near Riedenburg and has medieval walls and a Gothic chapel. The famous Prunn Codex of the Nibelungenlied was found here in the 18th century.",
+   "tip": "Visits are guided tours on the hour; open daily 9:00 to 18:00 from April to October, Tuesday to Sunday in winter. Parking is paid.",
+   "q": "Burg Prunn, Prunn 1, Riedenburg",
+   "ll": [
+    48.95046,
+    11.73988
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Burg_Prunn",
+    "https://www.burgenwelt.org/deutschland/prunn/burgenwelt-prunn-deutschland.pdf"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rgkuchlbauerturm",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb Hundertwasser's Kuchlbauer Tower in Abensberg",
+   "desc": "The Kuchlbauer Tower beside the Kuchlbauer brewery in Abensberg was designed in the style of Friedensreich Hundertwasser and completed in 2010, with golden onion domes and colourful ceramic details. It stands 35 metres high and has a viewing level over the Abensberg countryside.",
+   "tip": "Open roughly 10:00 to 19:00 in the season and shorter in winter; the tower is often combined with a guided Bierwelt tour, so check kuchlbauer.de.",
+   "q": "Kuchlbauer Turm, Römerstraße 5, Abensberg",
+   "ll": [
+    48.81691,
+    11.84286
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Kuchlbauer_Tower",
+    "https://tourispo.de/sehenswuerdigkeit/kuchlbauer-turm_preise-und-oeffnungszeiten.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rgstraubingturm",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Straubing's Stadtturm on Theresienplatz",
+   "desc": "The 68-metre Stadtturm of Straubing was built from 1316 and rises above the long, wide Theresienplatz, the central square of the Bavarian town. A former watchman's room serves as a viewing level over the roofs and the Gäuboden plain.",
+   "tip": "The tower can be entered on the guided city tour \"Über den Dächern von Straubing\" arranged through the Tourist-Info; the square itself is free to enjoy any time.",
+   "q": "Stadtturm, Theresienplatz, Straubing",
+   "ll": [
+    48.88182,
+    12.56956
+   ],
+   "src": [
+    "https://tourispo.de/sehenswuerdigkeit/stadtturm-straubing_preise-und-oeffnungszeiten.html",
+    "https://bavaria.travel/stories/straubing-sightseeing-tips"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rgbogenberg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Bogenberg pilgrimage church above the Danube",
+   "desc": "The Wallfahrtskirche Mariä Himmelfahrt on the 432-metre Bogenberg near Bogen is considered the oldest Marian pilgrimage site in Bavaria; the present church dates to 1463. The steep south slope falls to the Danube and is listed as a Bavarian geotope.",
+   "tip": "Free to enter; there is a viewpoint beside the church and a Kreuzweg path up from the town of Bogen.",
+   "q": "Wallfahrtskirche Bogenberg, Bogenberg, Bogen",
+   "ll": [
+    48.90185,
+    12.69664
+   ],
+   "src": [
+    "https://dewiki.de/Lexikon/Wallfahrtskirche_Bogenberg",
+    "https://wallfahrtsorte-wallfahrtskirchen.de/wallfahrtskirche/bogenberg-sankt-maria-himmelfahrt.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rgkallmuenz",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look over the Naab from Kallmünz castle ruin",
+   "desc": "The ruin on the Schlossberg above Kallmünz stands where the Vils meets the Naab and has views down into the valley and over the artists' village. Kallmünz was a painter's retreat in the early 20th century, and its old stone bridge is a well-known motif.",
+   "tip": "The castle hill is reached on a short steep path from the village; the tower is only open on certain days, so ask the municipality.",
+   "q": "Burgruine Kallmünz, Schlossberg, Kallmünz",
+   "ll": [
+    49.16246,
+    11.95182
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kallm%C3%BCnz",
+    "https://www.spottinghistory.com/view/5772/kallmunz-castle-ruins"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rgwaldsassen",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Step into the Stiftsbasilika and library of Waldsassen",
+   "desc": "The Cistercian abbey of Waldsassen was founded in 1133 and rebuilt in the Baroque style after 1685; its basilica is one of the grand churches of the Upper Palatinate. The abbey library, finished in 1726, has carved wooden figures and a galleried hall that is considered one of Germany's finest monastery libraries.",
+   "tip": "The library is open in season from Palm Sunday to late October, roughly 3.50 euros; winter opening is later in the day, so check with Tourist-Info Waldsassen. The basilica is free.",
+   "q": "Stiftsbibliothek Waldsassen, Basilikaplatz 3, Waldsassen",
+   "ll": [
+    50.00384,
+    12.30806
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Waldsassen_Abbey",
+    "https://de.wikivoyage.org/wiki/Waldsassen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rgparkstein",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the basalt cone of Burg Parkstein",
+   "desc": "Parkstein sits on a basalt volcano plug that Goethe called the most beautiful cone in Germany. A castle ruin and a chapel from 1851 crown the summit, and the columnar basalt is visible on the way up.",
+   "tip": "Free to climb at any time; allow 30 minutes for the walk, and visit the Vulkanerlebnis exhibition in the village in season (closed Mondays).",
+   "q": "Burg Parkstein, Burgweg, Parkstein",
+   "ll": [
+    49.73208,
+    12.06996
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Parkstein",
+    "https://www.burgenwelt.org/deutschland/parksteinbynew/Burgenwelt-Parkstein-Deutschland.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rgleuchtenberg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the castle ruin of Leuchtenberg",
+   "desc": "Burg Leuchtenberg overlooks the Upper Palatinate Forest and was the seat of the Landgraves of Leuchtenberg from the 12th century. A 900th-anniversary Burgfest was staged here in 2026, and the keep has a view over the Pfreimd valley.",
+   "tip": "Open Wednesday to Sunday 10:30 to 17:00 from April to October, closed Monday and Tuesday; hours can change during festivals.",
+   "q": "Burgruine Leuchtenberg, Burg 1, Leuchtenberg",
+   "ll": [
+    49.643,
+    12.377
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Burg_Leuchtenberg",
+    "https://tourispo.de/schloss-burg/burg-leuchtenberg_preise-und-oeffnungszeiten.html"
+   ]
+  },
+  {
+   "id": "rgktb",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stand under the KTB drill rig at Windischeschenbach",
+   "desc": "Between 1987 and 1994 the Continental Deep Drilling Programme (KTB) drilled a hole 9,101 metres deep here, one of the deepest boreholes on Earth. The 83-metre drill tower still stands and the Geo-Zentrum shows the cores and the story of the science.",
+   "tip": "Open Tuesday to Sunday 10:00 to 16:00 in winter and daily 10:00 to 18:00 in summer; closed around Christmas and New Year. Check geozentrum-ktb.de for 2026 hours.",
+   "q": "GEO-Zentrum an der KTB, Am Bohrturm 2, Windischeschenbach",
+   "ll": [
+    49.81625,
+    12.12039
+   ],
+   "src": [
+    "https://museen-in-bayern.de/en/museums/museum-details/geo-zentrum-an-der-ktb",
+    "https://www.geozentrum-ktb.de"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rgfreilandmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander the Oberpfälzer Freilandmuseum Neusath-Perschen",
+   "desc": "The open-air museum near Nabburg shows farmhouses, a village chapel and workshops moved from across the Upper Palatinate and rebuilt on a hillside. Historic crops and animals are kept to show rural life from the 17th to 20th century.",
+   "tip": "Listed as open Tuesday to Sunday 9:00 to 18:00, closed Mondays; seasonal, so check freilandmuseum.org for winter closure.",
+   "q": "Oberpfälzer Freilandmuseum, Neusath 200, Nabburg",
+   "ll": [
+    49.42953,
+    12.1753
+   ],
+   "src": [
+    "https://museen-in-bayern.de/en/museums/museum-details/freilandmuseum-oberpfalz",
+    "https://www.bezirk-oberpfalz.de/_Resources/Persistent/0/7/5/3/0753cd3645ee83146033db29a174d90b09f8788c/Oberpf%C3%A4lzer%20Freilandmuseum_English.pdf"
+   ]
+  },
+  {
+   "id": "rgmoosburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Leinberger altar in Moosburg's St. Kastulus minster",
+   "desc": "The Kastulusmünster in Moosburg an der Isar is a late Gothic church with a high altar carved by Hans Leinberger in 1513, among the great works of South German wood sculpture. The church tower is a landmark of the Isar valley town.",
+   "tip": "Free to enter during the day, listed daily 8:00 to 18:00; check sankt-kastulus.de for current times and for guided visits.",
+   "q": "Kastulusmünster, Kirchplatz, Moosburg an der Isar",
+   "ll": [
+    48.4687,
+    11.9393
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/St._Kastulus_(Moosburg_an_der_Isar)",
+    "https://www.alpen-guide.de/reisefuehrer/poi/kastulusmuenster-moosburg"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rgflossenbuerg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Flossenbürg concentration camp memorial",
+   "desc": "The KZ-Gedenkstätte Flossenbürg sits in the former camp where about 100,000 prisoners were held between 1938 and 1945 and where Dietrich Bonhoeffer was executed. The permanent exhibition and the preserved grounds explain the camp's granite quarry and its victims.",
+   "tip": "Free entry; listed as open about 9:00 to 17:00 with a museum café, closed over Christmas and New Year. Allow two to three hours.",
+   "q": "KZ-Gedenkstätte Flossenbürg, Gedenkstättenstraße 21, Flossenbürg",
+   "ll": [
+    49.73554,
+    12.35739
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Flossenb%C3%BCrg_concentration_camp",
+    "https://museen-in-bayern.de/en/museums/museum-details/kz-gedenkstaette-flossenbuerg"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rglotharfischer",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See sculpture at the Museum Lothar Fischer in Neumarkt",
+   "desc": "The Museum Lothar Fischer in Neumarkt shows the work of the sculptor Lothar Fischer (1933 to 2004) together with modern and contemporary art, in a building by the architect Peter Haimerl. The collection includes figures by Fischer and works from the Geometric and Informel movements.",
+   "tip": "Open Wednesday to Friday 14:00 to 17:00, weekends 11:00 to 17:00, closed Monday and Tuesday; exhibitions change, so check the museum site.",
+   "q": "Museum Lothar Fischer, Weiherstraße 7, Neumarkt in der Oberpfalz",
+   "ll": [
+    49.28181,
+    11.46286
+   ],
+   "src": [
+    "https://www.museum-lothar-fischer.de",
+    "https://museen-in-bayern.de/ausstellungen/detail/museum-lothar-fischer/ausstellung/16050"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rgweidenmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stroll Weiden's old town and the Altes Schulhaus museum",
+   "desc": "Weiden's old town has a market square with a 16th-century Altes Rathaus, and the Altes Schulhaus, a large former granary and school, now houses the Stadtmuseum. A room there is dedicated to the composer Max Reger, who grew up in the town.",
+   "tip": "The farmers' market is held Wednesday and Saturday mornings on the Marktplatz; check museum hours with the city.",
+   "q": "Altes Schulhaus Stadtmuseum, Schulgasse 3a, Weiden in der Oberpfalz",
+   "ll": [
+    49.6756,
+    12.1621
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Weiden_in_der_Oberpfalz",
+    "https://www.european-traveler.com/germany/top-sights-in-weiden-in-der-oberpfalz-germany/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rgweltenburgschenke",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink a Barock Dunkel at the Weltenburg Klosterschenke",
+   "desc": "The Klosterschenke is the inn and beer garden of Weltenburg Abbey, the home of what is often called the oldest monastery brewery in the world. Tables stand under chestnut trees beside the abbey and the Danube, and the brewery has been leased out since 1973.",
+   "tip": "Order a Weltenburger Barock Dunkel with a pork roast or Obazda; it is crowded on summer weekends, and the last boat back to Kelheim leaves around 18:30.",
+   "q": "Klosterschenke Weltenburg, Asamstraße 32, Kelheim",
+   "ll": [
+    48.89887,
+    11.81952
+   ],
+   "src": [
+    "https://www.golocal.de/kelheim/restaurants-gaststaetten/klosterschenke-weltenburg-9uk2l/",
+    "https://bavaria.travel/stories/danube-gorge-weltenburg"
+   ]
+  },
+  {
+   "id": "rgkuchlbauer",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Weissbier at Kuchlbauer's Bierwelt in Abensberg",
+   "desc": "Kuchlbauer's Bierwelt is the visitor complex of the Abensberg wheat-beer brewery, with a beer garden, a brewery tour and the Hundertwasser tower and KunstHaus next door. The family-run brewery is known for its Weissbier and the Kuchlbauer Turmweisse.",
+   "tip": "Try the Kuchlbauer Weissbier with a Weißwurst or a Brotzeit; the Turmweihnacht Christmas market runs here in late November and December.",
+   "q": "Kuchlbauer's Bierwelt, Römerstraße 5, Abensberg",
+   "ll": [
+    48.81696,
+    11.84257
+   ],
+   "src": [
+    "https://regensburger-nachrichten.de/touristen-information/94159-kuchlbauer-s-bierwelt",
+    "https://kuchlbauer.de"
+   ]
+  },
+  {
+   "id": "rgriedenburgerbrau",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Sit in the Riedenburger Brauhaus beer garden",
+   "desc": "The Riedenburger Brauhaus has been owned by the Krieger family since 1866 and is known for organic beers and for brewing partnerships with Plankstetten Abbey. The brewery has a beer garden beside the Altmühl with simple snacks.",
+   "tip": "The beer garden is typically open May to October in good weather; try the Riedenburger Dolden Sud or the Emmer beer.",
+   "q": "Riedenburger Brauhaus, Hammerweg 5, Riedenburg",
+   "ll": [
+    48.96198,
+    11.69045
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Riedenburg",
+    "https://www.beertasting.com/en/brewery/riedenburger-brauhaus"
+   ]
+  },
+  {
+   "id": "rgweissesbraeuhauskelheim",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order a Schneider Weisse at the Weisses Bräuhaus in Kelheim",
+   "desc": "The Weisses Bräuhaus in Kelheim is one of the oldest wheat-beer breweries in Bavaria, tracing back to 1607 under Duke Maximilian I; the Schneider family has run it since 1928. It makes the Schneider Weisse beers and has a tavern on the brewery site.",
+   "tip": "Try a Schneider Weisse Tap 7 Unser Original with a Weißwurst; check opening hours and brewery-tour options on the Schneider website.",
+   "q": "Weisses Bräuhaus G. Schneider & Sohn, Emil-Ott-Straße 1, Kelheim",
+   "ll": [
+    48.9165,
+    11.8737
+   ],
+   "src": [
+    "https://en.kelheim.de/freizeit/a-z/brewery_weisses_braeuhaus_g_sc-7153",
+    "https://www.ihk-muenchen.de/magazin/unternehmen/unternehmen-in-oberbayern/weissbier-für-die-buerger.html"
+   ]
+  },
+  {
+   "id": "rgzoiglwindisch",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Hop between Zoigl taverns in Windischeschenbach",
+   "desc": "In Windischeschenbach and Neuhaus the Zoiglstuben, including Beim Gloser, Schlosshof, Binner, Zum Roud'n and Fiedlschneider, take turns opening through the year. A Zoigl star outside shows that a house is serving.",
+   "tip": "The 2026 season ran from March into December with rotating dates; check zoiglbier.de for the calendar. Eat a Brotzeit of sausage, cheese or Schweinebraten with the cloudy Zoigl.",
+   "q": "Zoiglstube Beim Gloser, Windischeschenbach",
+   "ll": [
+    49.80242,
+    12.15594
+   ],
+   "src": [
+    "https://www.festivalsindeutschland.de/festival/zoiglbier-saison-windischeschenbach",
+    "https://www.festivalsindeutschland.de/festival/zoiglfeste-windischeschenbach"
+   ]
+  },
+  {
+   "id": "rglugertzoigl",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink Zoigl in the Lugert Boozhaus in Mitterteich",
+   "desc": "The Zoiglstube Lugert in Mitterteich, called the Boozhaus, pours Zoigl on its scheduled days in the Stiftland. Zoigl is a Upper Palatinate tradition of communal brewing that UNESCO's German list recognises as intangible cultural heritage.",
+   "tip": "Open only on posted Zoigl days; check the Zoiglkalender or the Mitterteich tourist office before you go.",
+   "q": "Zoiglstube Lugert, Mitterteich",
+   "ll": [
+    49.95033,
+    12.24491
+   ],
+   "src": [
+    "https://www.festivalsindeutschland.de/festival/zoigl-ausschank-mitterteich-lugert",
+    "https://www.oberpfaelzerwald.de/fileadmin/opfwald/Bl%C3%A4tterkatalog_Zoigl_im_Oberpf%C3%A4lzer_Wald.pdf"
+   ]
+  },
+  {
+   "id": "rgkramerwolf",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have a Zoigl at Kramer Wolf in Falkenberg",
+   "desc": "Falkenberg has its own Zoigl season, with houses serving beer in the village beneath the castle. Kramer Wolf is one of the Zoigl stops listed for the village.",
+   "tip": "Open only on its posted Zoigl days; look for the Zoigl star and check the Falkenberg calendar.",
+   "q": "Zoigl Kramer Wolf, Falkenberg, Oberpfalz",
+   "ll": [
+    49.8585,
+    12.22569
+   ],
+   "src": [
+    "https://www.festivalsindeutschland.de/festival/zoigl-kramer-wolf-falkenberg",
+    "https://www.festivalsindeutschland.de/festival/zoiglbier-saison-falkenberg"
+   ]
+  },
+  {
+   "id": "rgbraeuwirt",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat game and drink house Zoigl at the BräuWirt in Weiden",
+   "desc": "The BräuWirt on Unterer Markt in Weiden is a brewery inn that makes its own beer, including Zoigl, and serves Bavarian dishes and game in the old town. A brewery tour with tasting is offered in the building.",
+   "tip": "Typical mains cost about 9 to 30 euros; ask about the brewery tour, and sit in the beer garden in summer.",
+   "q": "BräuWirt, Unterer Markt 9, Weiden in der Oberpfalz",
+   "ll": [
+    49.67598,
+    12.16408
+   ],
+   "src": [
+    "https://www.speisekarte.de/weiden-oberpfalz/restaurant/braeuwirt/bewertung",
+    "https://www.werkenntdenbesten.de/e/26915900/restaurant/weiden-in-der-oberpfalz/gaststaette-braeu-wirt-bewertungen.html"
+   ]
+  },
+  {
+   "id": "rgspeinshart",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat at the Kloster-Gasthof Speinshart",
+   "desc": "The Kloster-Gasthof is run by the Premonstratensian abbey of Speinshart, which was founded in 1145 and has an elaborate Baroque church and a painted library. The inn publishes seasonal menus with regional dishes, and the abbey adds a spring asparagus menu.",
+   "tip": "Look at the seasonal menu on kloster-speinshart.de; walk the abbey grounds and church after lunch.",
+   "q": "Kloster-Gasthof Speinshart, Klosterstraße 1, Speinshart",
+   "ll": [
+    49.78607,
+    11.82073
+   ],
+   "src": [
+    "https://kloster-speinshart.de/wp-content/uploads/2026/06/Karte2026SommerEnglisch.pdf",
+    "https://kloster-speinshart.de/wp-content/uploads/2025/12/KlosterSpeinshart_Jahresbericht2025.pdf"
+   ]
+  },
+  {
+   "id": "rgroehrl",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Röhrl beer at the Gasthaus on Straubing's Theresienplatz",
+   "desc": "Das Röhrl is a hotel and Gasthaus on the Theresienplatz that traces its brewery roots to a 1431 brewery inn built by monks of Metten; Josef Röhrl founded the company in 1881. The kitchen uses regional ingredients and Röhrl beer is poured on tap.",
+   "tip": "Try a Straubinger Schweinsbraten with a Röhrl Hell; the Gäubodenvolksfest in August fills the town, so book ahead then.",
+   "q": "Das Röhrl, Theresienplatz 36, Straubing",
+   "ll": [
+    48.88182,
+    12.56669
+   ],
+   "src": [
+    "https://www.gaststaette-roehrl.de/history.html",
+    "https://www.beertasting.com/en/brewery/brauerei-rohrl"
+   ]
+  },
+  {
+   "id": "rgschoeneaussicht",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Stop at Gasthaus zur schönen Aussicht on the Bogenberg",
+   "desc": "This inn sits by the car park at the foot of the Bogenberg pilgrimage hill, where the circular walk around the hill starts. It gives a view toward the Danube plain below the pilgrimage church.",
+   "tip": "Combine a drink or Brotzeit with the 3-km Rundweg Bogenberg; opening days vary, so call before a weekday visit.",
+   "q": "Gasthaus zur schönen Aussicht, Bogenberg, Bogen",
+   "ll": [
+    48.9011,
+    12.69989
+   ],
+   "src": [
+    "https://www.bergfex.com/sommer/bogen-bayrischer-wald/highlights/4411-rundwanderweg-bogenberg/",
+    "https://www.wildganz.com/wanderwege/de-9028-rundweg-bogen"
+   ]
+  },
+  {
+   "id": "rgweltenburgboat",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cruise the Danube Gorge from Kelheim to Weltenburg",
+   "desc": "Boats run from Kelheim through the Weltenburger Enge, a nature reserve where the Danube cuts through limestone walls up to 70 metres high. The trip takes about 50 minutes up-river and ends at Weltenburg Abbey.",
+   "tip": "The 2026 timetable runs May to October with a first departure around 9:30; a return fare was about 11.50 euros on one listing, so check schifffahrt-kelheim.de.",
+   "q": "Schifffahrt Kelheim Anlegestelle, Donaustraße, Kelheim",
+   "ll": [
+    48.91556,
+    11.86982
+   ],
+   "src": [
+    "https://schifffahrt-kelheim.de/wp-content/uploads/Gesamtfahrplan_2026-Stand-28.04_.pdf",
+    "https://bavaria.travel/stories/danube-gorge-weltenburg"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "rgweltenburgerhoehenweg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Weltenburger Höhenweg above the Danube gorge",
+   "desc": "The Weltenburger Höhenweg runs along the top of the cliffs above the Danube between the Befreiungshalle and Weltenburg Abbey. A loop of roughly 10 to 13 kilometres combines forest paths, the Wieserkreuz viewpoint and the abbey.",
+   "tip": "Wear sturdy shoes because parts are steep; start at the Befreiungshalle car park and return by boat from Weltenburg.",
+   "q": "Befreiungshalle Parkplatz, Kelheim",
+   "ll": [
+    48.91863,
+    11.86035
+   ],
+   "src": [
+    "https://tourismus.kelheim.de/en/?p=50350",
+    "https://www.ich-geh-wandern.de/weltenburger-hoehenweg-schlaufenweg-27"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rgrosenburg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch eagles fly at the Rosenburg falconry in Riedenburg",
+   "desc": "Schloss Rosenburg above Riedenburg houses the Falkenhof, which shows eagles, falcons, vultures and buzzards in flight displays. The Falkenhof has been a feature of the Altmühl valley castle since the 20th century.",
+   "tip": "The 2026 season ran 14 March to 18 October; flights at 11:00 and 15:00 daily except Monday. Tickets cost about 8 to 12 euros.",
+   "q": "Falkenhof Schloss Rosenburg, Rosenburg 1, Riedenburg",
+   "ll": [
+    48.96052,
+    11.6809
+   ],
+   "src": [
+    "https://www.festivalsindeutschland.de/festival/falkenhof-schloss-rosenburg-riedenburg",
+    "https://en.naturpark-altmuehltal.de/sehenswertes/rosenburg-the_falconry_castle-1054"
+   ],
+   "months": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "rgdrachenstich",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch the Drachenstich dragon play in Furth im Wald",
+   "desc": "The Further Drachenstich is a historical play with about 350 amateur actors in which a knight slays a dragon, performed in Furth im Wald and often described as the oldest folk play of its kind in Germany. A parade and folk festival run alongside it.",
+   "tip": "The 2026 festival ran 31 July to 16 August; tickets go through okticket.de and drachenstich.de, so book months ahead for August.",
+   "q": "Drachenstich-Arena, Furth im Wald",
+   "ll": [
+    49.30828,
+    12.84438
+   ],
+   "src": [
+    "https://www.festivalsindeutschland.de/festival/drachenstich-festspiele-furth-im-wald",
+    "https://tourispo.de/attraktion/drachenstich-festspiele.html"
+   ],
+   "months": [
+    7,
+    8
+   ]
+  },
+  {
+   "id": "rgdrachenhoehle",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Meet Tradinno the dragon in the Drachenhöhle",
+   "desc": "The Drachenhöhle in Furth im Wald houses the dragon Tradinno, a huge mechanical dragon used in the Drachenstich play. Shows in the cave fire up the dragon outside the festival season.",
+   "tip": "Listed as open Tuesday to Sunday around 10:30 to 16:00 in season; check further-drache.de for showtimes.",
+   "q": "Drachenhöhle, Eschlkamer Straße 10a, Furth im Wald",
+   "ll": [
+    49.30463,
+    12.84858
+   ],
+   "src": [
+    "https://museen-in-bayern.de/en/museums/museum-details/drachenhoehle",
+    "https://tourispo.de/attraktion/drachenhoehle-und-drache--34-tradinno-34-furth-im-wald_preise-und-oeffnungszeiten.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rggaeuboden",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Raise a Maß at the Gäubodenvolksfest in Straubing",
+   "desc": "The Gäubodenvolksfest is the largest folk festival in Lower Bavaria after the Munich Oktoberfest, held in August on the Festplatz Am Hagen. It opens with a parade of about 2,000 participants and has beer tents, rides and the Ostbayernschau trade fair.",
+   "tip": "The 2026 festival ran 7 to 17 August, daily 11:30 to 0:30; entry to the grounds is free and the tents are busiest on weekends.",
+   "q": "Festplatz Am Hagen, Straubing",
+   "ll": [
+    48.88627,
+    12.56313
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/G%C3%A4ubodenvolksfest",
+    "https://www.landau-isar.de/wp-content/uploads/2026/07/Gaeubodenvolksfest-2026-Festprogramm.pdf"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    8
+   ]
+  },
+  {
+   "id": "rgmurnersee",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk or cycle around the Murner See",
+   "desc": "The Murner See near Wackersdorf is a former lignite pit flooded into a lake in the Oberpfälzer Seenland. A circuit of about 7 km passes beaches, a lookout tower and the Erlebnispark Wasser-Fisch-Natur.",
+   "tip": "Swim in summer or cycle the 7-km loop; the Vier-Seen-Weg of about 122 km links it with Steinberger See and others.",
+   "q": "Murner See, Wackersdorf",
+   "ll": [
+    49.34794,
+    12.20626
+   ],
+   "src": [
+    "https://tourispo.de/badesee/murner-see-bei-wackersdorf_bilder.html",
+    "https://www.ich-geh-wandern.de/oberpfaelzer-seenweg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rgsteinbergersee",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim or paddle at the Steinberger See",
+   "desc": "The Steinberger See is a man-made lake of about 120 hectares southwest of Schwandorf, created from a former lignite mine. It is a centre for swimming, sailing, surfing, stand-up paddling and diving.",
+   "tip": "Bathing season runs roughly May to September; cycle routes link the lake to Schwandorf and Nittenau.",
+   "q": "Steinberger See, Steinberg am See",
+   "ll": [
+    49.28127,
+    12.16024
+   ],
+   "src": [
+    "https://tourispo.de/radtour/oberpfaelzer-seenland--radweg.html",
+    "https://biketrailspfannenstiel.ch/auskunft/radtour-um-den-steinberger-see/"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "rgfelsenkeller",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Tour the Felsenkeller labyrinth under Schwandorf",
+   "desc": "Under Schwandorf lie more than 130 rooms cut into sandstone, built as beer cellars from the 19th century when local breweries needed cold storage. A large part can be seen on guided tours.",
+   "tip": "Entry is by guided tour only starting at the Tourismusbüro at Kirchengasse 1; book via felsenkeller-labyrinth.de or 09431 45550 and pay the guide in cash.",
+   "q": "Felsenkeller-Labyrinth, Kirchengasse 1, Schwandorf",
+   "ll": [
+    49.32957,
+    12.10888
+   ],
+   "src": [
+    "https://www.mvp.de/bayern/entdecken/felsenkeller-labyrinth-schwandorf/",
+    "https://showcaves.com/english/de/subterranea/Schwandorf.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rgteichpfanne",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Climb the Himmelsleiter over the Tirschenreuther Teichpfanne",
+   "desc": "The Himmelsleiter is a 70-metre-long tower walkway from 2012 with a platform 20 metres high over the Teichpfanne, a landscape of about 600 connected fish ponds. The Teichpfanne is the centre of the carp-farming region of the Stiftland.",
+   "tip": "Walk the pond circuit from the car park and take the 400-m detour to the tower on the way back; carp are harvested in autumn.",
+   "q": "Himmelsleiter, Teichpfanne, Tirschenreuth",
+   "ll": [
+    49.89484,
+    12.29493
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/himmelsleiter-und-die-1000-teiche-der-tirschenreuther-teichpfanne",
+    "https://blog.allplan.com/en/himmelsleiter"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rgkarpfenradweg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cycle the Stiftland carp route from Tirschenreuth",
+   "desc": "The Stiftländer Karpfen-Radweg is a circuit of roughly 48 km through the pond landscape of the Stiftland and starts in Tirschenreuth. The historic Fischhof of 1219, once owned by the abbots of Waldsassen, stands in the Fischhofpark at the edge of the old town.",
+   "tip": "Start at the Fischhofpark and stop for carp at a pond inn in autumn and winter; get the cycle map from the city tourism office.",
+   "q": "Fischhofpark, Tirschenreuth",
+   "ll": [
+    49.87939,
+    12.34257
+   ],
+   "src": [
+    "https://blog.komoot.nl/smarttour/e29380437/stiftlaender-carp-cycle-route",
+    "https://stadt-tirschenreuth.de/fileadmin_stadt/user_upload/Kultur_Tourismus/broschueren_flyer/Flyer_Fischhofpark.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rgkaisertherme",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Soak in the Kaiser-Therme in Bad Abbach",
+   "desc": "The Kaiser-Therme in Bad Abbach is a thermal spa with pools and a sauna area, using the sulphur spring that made the town a Kurort. It lies on the Danube west of Kelheim.",
+   "tip": "Day tickets cost about 23 euros on one listing; summer hours from April vary by weekday, so check kaiser-therme.de before going.",
+   "q": "Kaiser-Therme, Kurallee 4, Bad Abbach",
+   "ll": [
+    48.92861,
+    12.04037
+   ],
+   "src": [
+    "https://www.bad-abbach.de/data/docs/tourismus/prospekte/kaiser-therme.pdf",
+    "https://www.schwimmbadcheck.de/en/bad-abbach/kaiser-therme.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rgberching",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the intact town wall of Berching",
+   "desc": "Berching's medieval town wall, built in the 15th century, survives almost complete with gates and towers, about 6 metres high with a wall walk. Narrow lanes inside lead past the Rossmarkt and the Hans Kuffer Park.",
+   "tip": "Walk the circuit in about an hour; the Ludwig-Main-Danube canal path passes outside the walls.",
+   "q": "Stadtmauer, Berching",
+   "ll": [
+    49.1058,
+    11.443
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Berching",
+    "https://maps.adac.de/poi/stadtmauer-berching"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

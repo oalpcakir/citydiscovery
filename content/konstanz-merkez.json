@@ -1,0 +1,874 @@
+{
+ "new": [
+  {
+   "id": "komuenster",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb the tower of Konstanz Münster",
+   "desc": "Konstanz Münster Unserer Lieben Frau was the cathedral of the bishops of Konstanz for over 1,000 years. The Romanesque church was consecrated in 1089 and hosted the Council of Constance in 1414-1418. Its 78 m spire dominates the old town.",
+   "tip": "The tower platform is open from Easter to the end of October for a small fee. Go on a clear day for views to the Alps.",
+   "q": "Münster Unserer Lieben Frau, Münsterplatz, Konstanz",
+   "ll": [
+    47.66257,
+    9.17487
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Konstanzer_M%C3%BCnster"
+   ]
+  },
+  {
+   "id": "kokonzil",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stand before the Konzilgebäude on the harbour",
+   "desc": "The Konzilgebäude was built from 1388 as a warehouse and trading hall on the old lakeshore. In 1417 the conclave that elected Pope Martin V met here. It was later a customs house and market hall.",
+   "tip": "Admire it from the harbour promenade; the building is used for events and a restaurant.",
+   "q": "Konzilgebäude, Konzilstraße 1, Konstanz",
+   "ll": [
+    47.66165,
+    9.17842
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Konzilgeb%C3%A4ude_Konstanz"
+   ]
+  },
+  {
+   "id": "koimperia",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Watch Imperia turn in Konstanz harbour",
+   "desc": "Peter Lenk's 9 m concrete statue was unveiled on 24 April 1993 and satirises the Council of Constance, after Balzac's story La belle Impéria. The figure holds a naked king and pope and rotates once about every four minutes. It became a protected monument in 2024.",
+   "tip": "Free and visible all day; the harbour mole at sunset is the best viewpoint.",
+   "q": "Imperia, Hafenstraße, Konstanz",
+   "ll": [
+    47.65943,
+    9.17806
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Imperia_(Statue)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "korheintor",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk to the Rheintorturm and Pulverturm",
+   "desc": "The Rheintorturm was the only access to the town from the north, where a wooden Rhine bridge ran from 1200 to 1856. The 22 m Pulverturm nearby is a 15th-century corner tower of the city wall with a tent roof.",
+   "tip": "Combine with the Rhine bank promenade and the Niederburg lanes.",
+   "q": "Rheintorturm, Rheingasse, Konstanz",
+   "ll": [
+    47.6666,
+    9.1764
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Sehensw%C3%BCrdigkeiten_in_Konstanz"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "koschnetztor",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Schnetztor, the old south gate",
+   "desc": "The Schnetztor was the southern main gate of the medieval city fortification and is recognisable by its tall tower roof. It stands at the end of Hussenstraße, a few steps from the Hus-Haus.",
+   "tip": "Free to see; walk on to the Hus-Haus.",
+   "q": "Schnetztor, Hussenstraße, Konstanz",
+   "ll": [
+    47.65873,
+    9.17094
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Sehensw%C3%BCrdigkeiten_in_Konstanz"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "korosgarten",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Meet the Richental Chronicle at the Rosgartenmuseum",
+   "desc": "Founded in 1870 by pharmacist Ludwig Leiner, the Rosgartenmuseum shows lake-dwelling finds, the illustrated Richental chronicle of the Council, a guild hall with 17th-century glass and paintings by Marie Ellenrieder. It holds about 50,000 objects.",
+   "tip": "Check rosgartenmuseum.de for current hours.",
+   "q": "Rosgartenmuseum, Rosgartenstraße 3-5, Konstanz",
+   "ll": [
+    47.65987,
+    9.1748
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Rosgartenmuseum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "koalm",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore the Archäologisches Landesmuseum in Petershausen abbey",
+   "desc": "The museum has been in the former Benedictine abbey Petershausen since 1992. Across three floors it shows lake dwellings, a medieval cargo boat found near Immenstaad and the Trossingen lyre.",
+   "tip": "Allow two hours; walk back along the Rhine to the old town.",
+   "q": "Archäologisches Landesmuseum Baden-Württemberg, Benediktinerplatz 5, Konstanz",
+   "ll": [
+    47.66776,
+    9.17926
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Arch%C3%A4ologisches_Landesmuseum_Baden-W%C3%BCrttemberg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "kohushaus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Hus-Haus where Jan Hus lodged",
+   "desc": "This half-timbered house at Hussenstraße 64 is a memorial to the Bohemian reformer Jan Hus, burned in Konstanz in 1415. A small museum with texts in German, English and Czech tells his life and is run by the Städtische Museen Konstanz.",
+   "tip": "Admission was free at last report; open Tuesday to Sunday, shorter hours in winter.",
+   "q": "Hus-Haus, Hussenstraße 64, Konstanz",
+   "ll": [
+    47.65891,
+    9.17081
+   ],
+   "src": [
+    "https://www.alpen-guide.de/reisefuehrer/poi/hus-museum-konstanz",
+    "https://www.rosgartenmuseum.de/wp-content/uploads/2025/01/Presseunterlagen_Hus-Haus_2025-2.pdf"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "koniederburg",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Wander the lanes of the Niederburg",
+   "desc": "The Niederburg is the oldest quarter of Konstanz, around the Münster and the former bishop's town, with narrow lanes and half-timbered houses between the Münster and the Rhine bank.",
+   "tip": "Free; best in the evening when the Münster is lit.",
+   "q": "Niederburg, Konstanz",
+   "ll": [
+    47.6642,
+    9.1762
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Niederburg_(Konstanz)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kowallgut",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Zwiebelrostbraten at Gasthaus Wallgut",
+   "desc": "Gasthaus Wallgut is a gutbürgerlich restaurant a few minutes from the Münster with regional, seasonal dishes: Zwiebelrostbraten, Leberle, Maultaschen and Wiener Schnitzel. The terrace serves a badisches Viertele in summer.",
+   "tip": "Reserve for evenings. The kitchen also runs cooking courses.",
+   "q": "Gasthaus Wallgut, Schottenstraße 33, Konstanz",
+   "ll": [
+    47.66409,
+    9.17161
+   ],
+   "src": [
+    "https://www.konstanz-info.com/_Resources/Persistent/508b79de4d4422d3dca6c10e2b6331a97a8b634a/Wirtekreis-Konstanz_Broschuere.pdf"
+   ]
+  },
+  {
+   "id": "kobarbarossa",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink Bodensee wine in the Barbarossa Weinstube",
+   "desc": "The Weinstube on the first floor of the Romantik Hotel Barbarossa has old wood panelling redesigned around 1903. The wine list includes Lake Constance wines beside Spanish, French and Italian bottles. It sits on the Obermarkt in a house documented in 1419.",
+   "tip": "Book ahead, especially at weekends. It closes for part of summer when a bistro opens outside.",
+   "q": "Weinstube im Hotel Barbarossa, Obermarkt 8-12, Konstanz",
+   "ll": [
+    47.66155,
+    9.17475
+   ],
+   "src": [
+    "https://hotelbarbarossa.de/ENG/Culinary",
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/konstanz/restaurant-weinstube/"
+   ]
+  },
+  {
+   "id": "koanglerstuben",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order Bodensee fish at the Anglerstuben",
+   "desc": "The Anglerstuben in Konstanz are listed in the Michelin Guide and known for regional fish cooking, including a Bouillabaisse with Bodensee fish. The house is on the Reichenau road at the edge of the city.",
+   "tip": "Reserve; ask for the lake fish of the day such as Felchen or Kretzer.",
+   "q": "Anglerstuben, Reichenaustraße 51, Konstanz",
+   "ll": [
+    47.67163,
+    9.15996
+   ],
+   "src": [
+    "https://guide.michelin.com/at/de/baden-wurttemberg/konstanz/restaurant/anglerstuben",
+    "https://www.enprimeurclub.com/restaurants/anglerstuben-constance-restaurant"
+   ]
+  },
+  {
+   "id": "kohafenmeisterei",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine at the Hafenmeisterei by the harbour",
+   "desc": "The Hafenmeisterei is a listed building over a hundred years old right at the Konstanz harbour. The menu has pasta, meat and fish dishes and regional classics, with an open show kitchen.",
+   "tip": "The terrace faces the lake, the Alps and the yacht harbour; best for a sunset table.",
+   "q": "Hafenmeisterei, Hafenstraße 3, Konstanz",
+   "ll": [
+    47.6595,
+    9.17864
+   ],
+   "src": [
+    "https://www.konstanz-info.com/_Resources/Persistent/508b79de4d4422d3dca6c10e2b6331a97a8b634a/Wirtekreis-Konstanz_Broschuere.pdf"
+   ]
+  },
+  {
+   "id": "kostaader",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have lunch on the terrace of the Staader Fährhaus",
+   "desc": "The Staader Fährhaus stands at the Staad ferry landing and yacht harbour, with a plane-tree-lined terrace and a menu of regional and Mediterranean dishes including fish specialities.",
+   "tip": "Phone ahead for a table (07531 3616763 per listings). Walk to the ferry afterwards.",
+   "q": "Staader Fährhaus, Fischerstraße 30, Konstanz",
+   "ll": [
+    47.68111,
+    9.21138
+   ],
+   "src": [
+    "https://www.speisekarte.de/konstanz/restaurant/staader_faehrhaus",
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/konstanz/staader-faehrhaus/"
+   ]
+  },
+  {
+   "id": "kolitzels",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Kartoffelrösti with a Mainau view at Litzel's",
+   "desc": "Restaurant Litzel's in Litzelstetten serves regional classics, steaks and badische dishes with a view of the lake and the island of Mainau. Home-made items include Kartoffelrösti and a cucumber-basil lemonade, and there is an in-house Konditorei.",
+   "tip": "Daily breakfast buffet; a good stop on a ride towards Mainau.",
+   "q": "Restaurant Litzel's, Im Loh 14, Konstanz-Litzelstetten",
+   "ll": [
+    47.70958,
+    9.17157
+   ],
+   "src": [
+    "https://www.konstanz-info.com/_Resources/Persistent/508b79de4d4422d3dca6c10e2b6331a97a8b634a/Wirtekreis-Konstanz_Broschuere.pdf"
+   ]
+  },
+  {
+   "id": "kocoffeefritz",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sip cold brew at Coffee Fritz",
+   "desc": "Coffee Fritz is an Australian-style coffee bar run by owner Sven, who spent nine years in Australia. It serves house coffee creations and cold brew in a Melbourne-inspired room.",
+   "tip": "Small and busy at weekends; close to the old town.",
+   "q": "Coffee Fritz, Kreuzlinger Straße 7, Konstanz",
+   "ll": [
+    47.65797,
+    9.17097
+   ],
+   "src": [
+    "https://www.konstanz-info.com/_Resources/Persistent/508b79de4d4422d3dca6c10e2b6331a97a8b634a/Wirtekreis-Konstanz_Broschuere.pdf"
+   ]
+  },
+  {
+   "id": "kooldmarys",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have a pint at Old Mary's Pub, the first student bar",
+   "desc": "Old Mary's Pub has stood on Kreuzlinger Straße since 1973 and is described as the oldest and first student bar in Konstanz. It serves drinks, soups and salads and runs pub quiz, karaoke and football nights.",
+   "tip": "Check the event calendar for quiz and karaoke nights.",
+   "q": "Old Mary's Pub, Kreuzlinger Straße 19, Konstanz",
+   "ll": [
+    47.6596,
+    9.1742
+   ],
+   "src": [
+    "https://www.konstanz-info.com/_Resources/Persistent/508b79de4d4422d3dca6c10e2b6331a97a8b634a/Wirtekreis-Konstanz_Broschuere.pdf"
+   ]
+  },
+  {
+   "id": "kobuergerstuben",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat rustic at the Konstanzer Bürgerstuben",
+   "desc": "The Bürgerstuben have been a rustic Wirtshaus near the station for over 60 years, cooking regional products from lake, field and forest, and are also known for a hearty breakfast.",
+   "tip": "Convenient before or after a train, between station and old town.",
+   "q": "Konstanzer Bürgerstuben, Bahnhofplatz 7, Konstanz",
+   "ll": [
+    47.66024,
+    9.17751
+   ],
+   "src": [
+    "https://www.konstanz-info.com/_Resources/Persistent/508b79de4d4422d3dca6c10e2b6331a97a8b634a/Wirtekreis-Konstanz_Broschuere.pdf"
+   ]
+  },
+  {
+   "id": "kohoernle",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Swim at Strandbad Horn, the Hörnle",
+   "desc": "The Hörnle at the tip of the Bodanrück is the largest bathing beach on the lake, with about 600 m of shore and over 50,000 m2 of lawn. Entry is free; there is a children's pool, a naturist area and stand-up paddleboard rental.",
+   "tip": "Bring water shoes, the shore is pebbly. Bus 5 stops at the beach.",
+   "q": "Strandbad Horn, Eichhornstraße 100, Konstanz",
+   "ll": [
+    47.66673,
+    9.21598
+   ],
+   "src": [
+    "https://www.bodensee.de/erleben/baden-im-bodensee/strandbad-horn",
+    "https://www.seen.de/bodensee/strandbad-horn"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "kotherme",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Soak in the Bodensee-Therme Konstanz",
+   "desc": "The Bodensee-Therme has saunas, thermal pools and a family area, plus a lakeside outdoor pool. It is on the Konstanz side near the Hörnle and reached by bus 5.",
+   "tip": "Open daily; evenings are quieter.",
+   "q": "Bodensee-Therme Konstanz, Wilhelm-von-Scholz-Weg 2, Konstanz",
+   "ll": [
+    47.66455,
+    9.20887
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Konstanz"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "kofaehre",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cross to Meersburg on the Konstanz ferry",
+   "desc": "The car ferry between Konstanz-Staad and Meersburg has run since September 1928 and is operated by the Stadtwerke Konstanz. It sails year-round about every 15 minutes, and the crossing takes about 15 minutes.",
+   "tip": "Foot passengers pay a few euros return. Bring a bike to continue along the shore.",
+   "q": "Fähre Konstanz-Meersburg, Fährhafen Staad, Konstanz",
+   "ll": [
+    47.68278,
+    9.2121
+   ],
+   "src": [
+    "https://www.bodensee.eu/en/what-to-do/map-of-lake-constance/lake-constance-car-ferry-constance---meersburg_poi2582"
+   ]
+  },
+  {
+   "id": "komarkt",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Wochenmarkt on Sankt-Stephans-Platz",
+   "desc": "Konstanz holds weekly markets: Tuesday and Friday on Sankt-Stephans-Platz and Wednesday and Saturday on Sankt-Gebhard-Platz, with regional fruit, vegetables and Reichenau produce.",
+   "tip": "Go in the morning; markets run to about 13:00.",
+   "q": "Sankt-Stephans-Platz, Konstanz",
+   "ll": [
+    47.66204,
+    9.17384
+   ],
+   "src": [
+    "https://www.konstanz-info.com/_Resources/Persistent/508b79de4d4422d3dca6c10e2b6331a97a8b634a/Wirtekreis-Konstanz_Broschuere.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kotheater",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "See a play at the Stadttheater Konstanz",
+   "desc": "The theatre in a former Jesuit grammar school built 1607-1609 claims to be the longest continuously used stage in Europe. It has a 400-seat house, a studio stage and the Spiegelhalle.",
+   "tip": "Check the season programme and book online.",
+   "q": "Stadttheater Konstanz, Konzilstraße 11, Konstanz",
+   "ll": [
+    47.66383,
+    9.17747
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Stadttheater_Konstanz"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "koried",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the Wollmatinger Ried nature reserve",
+   "desc": "The 767 ha reserve on the Untersee and Gnadensee has been protected since 1938 and is a Ramsar wetland. An information path runs along the Reichenau causeway, and guided tours follow a five-kilometre circular trail.",
+   "tip": "Binoculars help; stay on the paths.",
+   "q": "Wollmatinger Ried, Reichenauer Damm, Konstanz",
+   "ll": [
+    47.67594,
+    9.14324
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Wollmatinger_Ried"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "koweinfest",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Taste Bodensee wine at the Konstanzer Weinfest",
+   "desc": "The Konstanzer Weinfest is a late-summer wine festival in the old town where local winemakers pour Lake Constance wines.",
+   "tip": "Check the event page for the exact weekend.",
+   "q": "Marktstätte, Konstanz",
+   "ll": [
+    47.6601,
+    9.1758
+   ],
+   "src": [
+    "https://www.bodensee.eu/konstanzer-weinfest_event10136"
+   ],
+   "months": [
+    8,
+    9
+   ]
+  },
+  {
+   "id": "komainau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stroll the flower island of Mainau",
+   "desc": "Mainau is a 45 ha island with a Baroque castle and church (1732-1746) built for the Teutonic Order. Grand Duke Friedrich I made it a summer residence in 1853 and Prince Lennart Bernadotte turned it into a flower park from 1932. Tulips bloom in spring, roses in summer and dahlias in autumn.",
+   "tip": "Buy tickets ahead; the butterfly house is open year-round.",
+   "q": "Insel Mainau, Konstanz",
+   "ll": [
+    47.70625,
+    9.19156
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Mainau"
+   ]
+  },
+  {
+   "id": "kominster",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Reichenau Münster in Mittelzell",
+   "desc": "Münster St. Maria und Markus is the abbey church of the Reichenau monastery, part of the UNESCO World Heritage listing of the monastery island since 2000. It became a Basilica minor in April 2024.",
+   "tip": "Combine with the two other Reichenau churches by bike.",
+   "q": "Münster St. Maria und Markus, Münsterplatz, Reichenau",
+   "ll": [
+    47.69905,
+    9.0618
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Klosterinsel_Reichenau"
+   ]
+  },
+  {
+   "id": "kogeorg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the wall paintings of St. Georg in Oberzell",
+   "desc": "St. Georg was built around 900 under Abbot Hatto III. Eight miracle scenes of Jesus on the nave walls were rediscovered in 1880 and are called a unique survival of church decoration from before the year 1000.",
+   "tip": "Dress modestly; allow 30 minutes.",
+   "q": "St. Georg, Georgstraße, Reichenau-Oberzell",
+   "ll": [
+    47.68925,
+    9.08233
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/St._Georg_(Reichenau-Oberzell)"
+   ]
+  },
+  {
+   "id": "konieder",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Romanesque church of St. Peter und Paul",
+   "desc": "The pillar basilica in Niederzell was begun by Bishop Egino of Verona in 799 and rebuilt around 1080. The apse paintings and carved capitals are notable, and it is a UNESCO site.",
+   "tip": "Quiet on weekday mornings; combine with the lake path.",
+   "q": "St. Peter und Paul, Niederzell, Reichenau",
+   "ll": [
+    47.70689,
+    9.04422
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/St._Peter_und_Paul_(Reichenau-Niederzell)"
+   ]
+  },
+  {
+   "id": "koradmuenster",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look up at the Radolfzell Münster tower",
+   "desc": "The late Gothic Münster Unserer Lieben Frau began in 1436 and its 82 m tower is the highest church tower on Lake Constance. The crucifixion group by Hans Schenck dates from about 1622.",
+   "tip": "A major renovation ran 2023-2025; check access first.",
+   "q": "Münster Unserer Lieben Frau, Marktplatz, Radolfzell",
+   "ll": [
+    47.73726,
+    8.9697
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Radolfzeller_M%C3%BCnster"
+   ]
+  },
+  {
+   "id": "kohohentwiel",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the Hohentwiel fortress ruin above Singen",
+   "desc": "The ruin on a 696 m phonolite cone is one of the largest castle ruins in Germany at about nine hectares. Württemberg held it from 1538, it withstood five sieges in the Thirty Years' War and the French razed it in 1801.",
+   "tip": "Wear sturdy shoes; check opening and tickets at festungsruine-hohentwiel.de.",
+   "q": "Festungsruine Hohentwiel, Singen",
+   "ll": [
+    47.76725,
+    8.81862
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Hohentwiel"
+   ]
+  },
+  {
+   "id": "kohohenkraehen",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Hike up to Hohenkrähen castle ruin",
+   "desc": "This volcanic cone near Duchtlingen carries a ruin from 1180-1190, burned in the Thirty Years' War. Goethe noted its geology in 1797. It is a nature reserve and used as a scout castle.",
+   "tip": "Check the site before going.",
+   "q": "Burgruine Hohenkrähen, Hilzingen-Duchtlingen",
+   "ll": [
+    47.79889,
+    8.82056
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Hohenkr%C3%A4hen"
+   ]
+  },
+  {
+   "id": "kohohenhewen",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Hike Hohenhewen above Engen",
+   "desc": "Engen's local mountain is an 845 m volcanic cone with a castle ruin and a viewing platform on the keep remnant. Views reach Lake Constance, the Swabian Alb and sometimes the Alps.",
+   "tip": "The north ascent from Anselfingen is easy, the south from Welschingen steeper.",
+   "q": "Hohenhewen, Engen",
+   "ll": [
+    47.83556,
+    8.74722
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Hohenhewen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "koaachtopf",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Aachtopf, Germany's largest spring",
+   "desc": "The Aachtopf is called the water-richest spring in Germany, averaging about 8,000 litres per second, with much of the water coming from the Danube sinking into limestone. It has been a natural monument since 1939.",
+   "tip": "Free; a footbridge gives views of the vents when water is clear.",
+   "q": "Aachtopf, Aach",
+   "ll": [
+    47.84639,
+    8.85778
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Aachtopf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kohesse",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Hesse Museum in Gaienhofen",
+   "desc": "Hermann Hesse lived in Gaienhofen on the Höri from 1904 to 1912 and the museum in the village covers his time there. His Hermann-Hesse-Haus can only be visited by appointment.",
+   "tip": "Season runs roughly mid-March to October, closed Monday; admission about 6 EUR.",
+   "q": "Hesse Museum, Kapellenstraße 8, Gaienhofen",
+   "ll": [
+    47.68291,
+    8.98246
+   ],
+   "src": [
+    "https://www.bodensee.eu/en/bcp/experiences/bcp-museums/hesse-museum-gaienhofen_poi675",
+    "https://www.alpen-guide.de/reisefuehrer/poi/hesse-museum-gaienhofen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "kohegau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Time-travel at the Hegau-Museum in Singen",
+   "desc": "The archaeological museum in Schloss Singen shows about 15,000 years of local history in 13 rooms, with finds from the Petersfels cave, the Singen Sword and a noblewoman's grave goods from Güttingen. The collection goes back to pharmacist Albert Funk.",
+   "tip": "Allow 90 minutes.",
+   "q": "Hegau-Museum, Singen",
+   "ll": [
+    47.7625,
+    8.8339
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Hegau-Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "kostockach",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Discover the Narrengericht at the Stadtmuseum Stockach",
+   "desc": "The Stadtmuseum sits in a building of 1706 and shows the Zizenhausen terracottas and a multimedia station on the Stockacher Narrengericht, which dates back to 1351.",
+   "tip": "Closed Mondays; check hours before visiting.",
+   "q": "Stadtmuseum Stockach, Stockach",
+   "ll": [
+    47.8513,
+    9.0115
+   ],
+   "src": [
+    "https://www.bodensee.eu/en/bcp/all-activities/stockach-city-museum-_poi650"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "kogeorgs",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Felchen and Kretzer at Georg's Fischerhütte",
+   "desc": "Georg's Fischerhütte is a fish restaurant in Mittelzell, supplied by a local fisherman with lake fish. The menu lists Felchen fillets, Kretzer (perch) fillets, Saibling and pike in beer batter.",
+   "tip": "Mains roughly 20-30 EUR; reservations on 07534 7169.",
+   "q": "Georg's Fischerhütte, Fischergasse 5, Reichenau",
+   "ll": [
+    47.7071,
+    9.04531
+   ],
+   "src": [
+    "https://www.speisekarte.de/reichenau-baden/restaurant/georgs_fischerhuette_fischrestaurant",
+    "https://www.swipein.restaurant/en/restaurant/georgs-fischerhutte-fischrestaurant-reichenau-bad"
+   ]
+  },
+  {
+   "id": "komohren",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine on lake produce at the Ganter Mohren in Reichenau",
+   "desc": "The restaurant in the Hotel Mohren on Reichenau offers a young, creative kitchen using seasonal products from the Bodensee region under chef Robert Horvath, mixing classics with modern cooking.",
+   "tip": "Reserve in summer.",
+   "q": "Ganter Hotel Restaurant Mohren, Pirminstraße 141, Reichenau",
+   "ll": [
+    47.69639,
+    9.06272
+   ],
+   "src": [
+    "https://www.enprimeurclub.com/restaurants/ganter-restaurant-mohren-reichenau-insel-restaurant",
+    "https://www.konstanz-info.com/_Resources/Persistent/508b79de4d4422d3dca6c10e2b6331a97a8b634a/Wirtekreis-Konstanz_Broschuere.pdf"
+   ]
+  },
+  {
+   "id": "kowinzer",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Reichenau wine at the Winzerverein",
+   "desc": "The Winzerverein Insel Reichenau at Münsterplatz 2a is the island's winegrowers' cooperative. Winegrowing was the island's economic base for centuries, and Reichenau is called Germany's southernmost wine area.",
+   "tip": "Ask about tastings; opening hours vary.",
+   "q": "Winzerverein Insel Reichenau, Münsterplatz 2a, Reichenau",
+   "ll": [
+    47.69886,
+    9.06184
+   ],
+   "src": [
+    "https://www.winesofgermany.com/our-regions/highlight-of-wine-culture/261/weinbauinsel-reichenau",
+    "https://www.onleihe.de/static/content/readbox/20200825/9783833878091/v9783833878091.pdf"
+   ]
+  },
+  {
+   "id": "kostrandcafe",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Felchenfilet at the Strandcafé Mettnau",
+   "desc": "The Strandcafé Mettnau is an upscale lakeside restaurant at the Mettnau beach, and Radolfzell tourism publishes its recipe for Felchenfilet in Bratfolie.",
+   "tip": "Terrace seating in summer.",
+   "q": "Strandcafé Mettnau, Strandbadstraße 102, Radolfzell",
+   "ll": [
+    47.72729,
+    8.99443
+   ],
+   "src": [
+    "https://www.allensbach.de/en/gastronomy/restaurant-strandcafe-mettnau-5a4e25c171",
+    "https://www.radolfzell-tourismus.de/_Resources/Persistent/2c72069327c0199fb97b5c18150cf0a91791e465/Radolfzell_Strandcafe%20Mettnau_Felchenfilet%20in%20der%20Bratfolie_F.pdf"
+   ]
+  },
+  {
+   "id": "kosteg11",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Book a table at Steg 11 on the Radolfzell harbour",
+   "desc": "Steg 11 is a restaurant at the Radolfzell yacht harbour on Karl-Wolf-Straße, rated highly and among the pricier lake restaurants in town.",
+   "tip": "Reserve; check opening days.",
+   "q": "Steg 11, Karl-Wolf-Straße, Radolfzell",
+   "ll": [
+    47.73728,
+    8.96081
+   ],
+   "src": [
+    "https://www.opentable.ca/r/steg-11-das-restaurant-am-bodensee-radolfzell-am-bodensee",
+    "https://www.bodenseewest.eu/en/gastronomy/steg-11-bc4c8dd588"
+   ]
+  },
+  {
+   "id": "kosternen",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste modern regional cooking at Gasthaus Sternen Bohlingen",
+   "desc": "Gasthaus Sternen in Bohlingen is listed in the Michelin guide for modern regional cooking in the upper price bracket.",
+   "tip": "Reserve ahead.",
+   "q": "Gasthaus Sternen, Bohlinger Dorfstraße 12, Singen-Bohlingen",
+   "ll": [
+    47.71938,
+    8.89562
+   ],
+   "src": [
+    "https://guide.michelin.com/ch/de/baden-wurttemberg/singen-hohentwiel_1312114/restaurant/gasthaus-sternen",
+    "https://www.bodenseewest.eu/en/gastronomy/gasthaus-sternen-bohlingen-126d88993e"
+   ]
+  },
+  {
+   "id": "kohirschen",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat at the Hirschen in Horn on the Höri",
+   "desc": "The Hotel and Gasthaus Hirschen in Horn has been run by the Amann family for seven generations and counts among the well-known Höri restaurants.",
+   "tip": "Ask what lake fish is on the menu.",
+   "q": "Hotel Gasthaus Hirschen, Horn, Gaienhofen",
+   "ll": [
+    47.69612,
+    8.99433
+   ],
+   "src": [
+    "https://www.hotelhirschen-bodensee.de/content/download/3949/36231/version/1/file/2022_Broschu%CC%88re_Hirschen+Horn.pdf"
+   ]
+  },
+  {
+   "id": "komettnau",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Mettnau peninsula to the lookout tower",
+   "desc": "The 3.5 km peninsula east of Radolfzell is a nature reserve designated in 1926. A trail leads to the 18 m Mettnau lookout tower; the eastern tip is closed from 15 April to 31 August.",
+   "tip": "Free; mind the closed tip in breeding season.",
+   "q": "Halbinsel Mettnau, Radolfzell",
+   "ll": [
+    47.7275,
+    9.0044
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Mettnau",
+    "https://www.ich-geh-wandern.de/halbinsel-mettnau-rundtour-in-radolfzell-am-bodensee"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "koseehas",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Seehas train from Radolfzell to Engen",
+   "desc": "The Seehas (line S6) runs about 44 km between Konstanz and Engen via Radolfzell and Singen, every 30 minutes until evening, and has operated since 1994.",
+   "tip": "Bikes travel free; hop off at Singen for Hohentwiel.",
+   "q": "Bahnhof Radolfzell, Radolfzell",
+   "ll": [
+    47.73619,
+    8.96891
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Seehas"
+   ]
+  },
+  {
+   "id": "kopetersfels",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Eiszeitpark Petersfels near Engen",
+   "desc": "The Petersfels cave in the Brudertal near Engen is an Upper Palaeolithic site where the Venus vom Petersfels was found; the finds are in Engen's museum. A loop of about 6 km starts from Engen.",
+   "tip": "Park at the Brudertalbrücke.",
+   "q": "Petersfelshöhle, Brudertal, Engen",
+   "ll": [
+    47.86,
+    8.793
+   ],
+   "src": [
+    "https://www.komoot.com/guide/217276/caves-around-engen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "koreichenaubike",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cycle around Reichenau island",
+   "desc": "Reichenau is the largest lake island, UNESCO listed since 2000, with vegetable fields and three Romanesque churches. A cycle route circles the island.",
+   "tip": "Flat and easy; allow half a day.",
+   "q": "Reichenaudamm, Reichenau",
+   "ll": [
+    47.691,
+    9.08
+   ],
+   "src": [
+    "https://www.bodensee.de/erleben/natur-und-aktiv/radfahren-am-bodensee/radfahren-auf-der-insel-reichenau",
+    "https://en.tellerrandstories.de/bodensee-reichenau/"
+   ]
+  },
+  {
+   "id": "kofasnacht",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch the Stockacher Narrengericht at Fasnacht",
+   "desc": "The Stockach Narrengericht has existed since 1351 and celebrated its 675th anniversary in January 2026. A satirical trial in rhyme is the high point of the Fasnacht season.",
+   "tip": "Go in January or February.",
+   "q": "Stadtmuseum Stockach, Stockach",
+   "ll": [
+    47.851,
+    9.012
+   ],
+   "src": [
+    "https://www.festivalsindeutschland.de/fr/festival/stockach-narrentreffen-675-ans-narrengericht"
+   ],
+   "months": [
+    1,
+    2
+   ]
+  }
+ ]
+}

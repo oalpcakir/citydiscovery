@@ -1,0 +1,72 @@
+{
+ "new": [
+  {
+   "id": "kotribergfalls",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Follow the Triberg Waterfalls down seven cascades",
+   "desc": "The Gutach river drops more than 160 metres over seven stages through a wooded granite gorge above the town of Triberg. It is among the best-known waterfalls in Germany, and the falls are floodlit in the evening.",
+   "tip": "A combined ticket (about 8 EUR, children under 6 free) also covers the Schwarzwaldmuseum. Paths are steep, so allow 1.5 hours.",
+   "q": "Triberger Wasserfälle, Wasserfallstraße, Triberg im Schwarzwald",
+   "ll": [
+    48.1261,
+    8.2271
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Triberger_Wasserf%C3%A4lle",
+    "https://www.alpen-guide.de/reisefuehrer/poi/triberger-wasserfaelle-triberg"
+   ]
+  },
+  {
+   "id": "kouhrenmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the world of cuckoo clocks at the Furtwangen clock museum",
+   "desc": "The Deutsches Uhrenmuseum in Furtwangen traces 400 years of Black Forest clockmaking, from wooden clocks to cuckoo clocks and modern timepieces. It is among the most important clock museums in Europe.",
+   "tip": "Allow two hours. Clocks can be seen working at set times. The museum is on the main road in Furtwangen.",
+   "q": "Deutsches Uhrenmuseum, Robert-Gerwig-Platz 1, Furtwangen im Schwarzwald",
+   "ll": [
+    48.05092,
+    8.20785
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Deutsches_Uhrenmuseum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "kolilie",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Learn to bake Black Forest cake at the Landgasthof Lilie",
+   "desc": "The Landgasthof Lilie in Triberg offers Black Forest cake demonstrations for groups of ten or more. Triberg's tourist office says the cake is still made to the traditional recipe in many of the town's cafés and restaurants.",
+   "tip": "Book ahead by phone for a group demonstration. Try a slice of Schwarzwälder Kirschtorte with a small glass of Kirsch.",
+   "q": "Landgasthof zur Lilie, Wallfahrtstraße 3, Triberg im Schwarzwald",
+   "ll": [
+    48.12859,
+    8.23011
+   ],
+   "src": [
+    "https://www.triberg.de/english/tourismus-1/sights/black-forest-cake-schwarzwaelder-kirschtorte"
+   ]
+  },
+  {
+   "id": "koketterer",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try Black Forest cake at Café Ketterer in Triberg",
+   "desc": "Konditorei Café Ketterer am Kurgarten is a Triberg pastry shop where Schwarzwälder Kirschtorte is on the menu. The long-established Café Schäfer on Hauptstraße is listed as closed since 2020.",
+   "tip": "Order the Kirschtorte with filter coffee. Check current opening hours before visiting.",
+   "q": "Konditorei Café Ketterer am Kurgarten, Friedrichstraße 7-11, Triberg im Schwarzwald",
+   "ll": [
+    48.1288,
+    8.2336
+   ],
+   "src": [
+    "https://speisekarte.menu/restaurants/triberg/ketterer"
+   ]
+  }
+ ]
+}

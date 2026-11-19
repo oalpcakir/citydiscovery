@@ -1,0 +1,772 @@
+{
+ "new": [
+  {
+   "id": "msrathaus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step into the Friedenssaal of the Historic Town Hall",
+   "desc": "The gabled Gothic town hall on the Prinzipalmarkt dates from the mid-14th century. Its council chamber, the Friedenssaal, is where the peace treaty between Spain and the Netherlands was sworn on 15 May 1648, part of the Peace of Westphalia. The building was destroyed in the Second World War and rebuilt true to the original.",
+   "tip": "The hall can be visited when no official event is on; check opening times at the Stadtweinhaus entrance. The Prinzipalmarkt arcades outside are free at any hour.",
+   "q": "Historisches Rathaus, Prinzipalmarkt 10, Münster",
+   "ll": [
+    51.96205,
+    7.6265
+   ],
+   "src": [
+    "https://www.stadt-muenster.de/en/tourismus/art-and-culture/museums-in-muenster/friedenssaal",
+    "https://www.baukunst-nrw.de/en/projects/Historisches-Rathaus-Muenster--130.htm"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "msdom",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the astronomical clock in St.-Paulus-Dom",
+   "desc": "Münster's cathedral holds an astronomical clock whose hands run counterclockwise, one of few large public clocks to do so. The present clock dates from the 1540s after Anabaptists damaged its predecessor in 1534. A figure procession of the Three Kings is part of its glockenspiel.",
+   "tip": "The glockenspiel plays around noon on weekdays and around midday on Sundays; check the cathedral schedule. Entry is free.",
+   "q": "St.-Paulus-Dom, Domplatz, Münster",
+   "ll": [
+    51.96311,
+    7.62581
+   ],
+   "src": [
+    "https://wikiwand.com/en/M%C3%BCnster_astronomical_clock",
+    "https://www.stadt-muenster.de/tourismus/sehenswertes/altstadt/glockenspiele.html"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mslamberti",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Spot the Anabaptist cages on St. Lamberti",
+   "desc": "Three iron baskets hang from the tower of St. Lamberti, recalling the Anabaptist rule of 1534/35 and the bodies of its leaders Jan van Leiden, Knipperdolling and Krechting. Today's baskets are replicas from 1888. The tower still employs a night watchwoman who blows a horn, one of only three such posts in Germany.",
+   "tip": "Look up from the Prinzipalmarkt end of the church; the horn is blown in the evening. The church interior is free to enter.",
+   "q": "St. Lamberti, Lambertikirchplatz, Münster",
+   "ll": [
+    51.96289,
+    7.62887
+   ],
+   "src": [
+    "https://www.stadt-muenster.de/kriegerdenkmale/fruehe-erinnerungsmale/taeufer-koerbe",
+    "https://stadt-muenster.de/ms/tourismus/presse/html/t11-taeufer-stadt-EN.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "msschloss",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk up to the Prince-Bishop's Palace",
+   "desc": "Johann Conrad Schlaun designed the baroque Fürstbischöfliches Schloss, built from Baumberger sandstone from 1767 onwards. Bombs gutted the interior in the Second World War and it has housed the University of Münster's administration since 1954.",
+   "tip": "The palace itself is a working university building; the front square and the garden behind are free. Combine with the Botanical Garden next door.",
+   "q": "Fürstbischöfliches Schloss, Schlossplatz 2, Münster",
+   "ll": [
+    51.9634,
+    7.6129
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Schloss_M%C3%BCnster"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "msbotgarten",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stroll the university Botanical Garden behind the palace",
+   "desc": "The 4.6-hectare Botanischer Garten lies in the former citadel grounds of the Schlossgarten and dates from the early 1800s. Its Pelargonium collection is billed as Europe's largest. Admission is free.",
+   "tip": "Best in late spring and summer when the beds and greenhouses are in bloom. Check seasonal opening hours on the university site.",
+   "q": "Botanischer Garten Münster, Schlossgarten 3, Münster",
+   "ll": [
+    51.96378,
+    7.60963
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Botanischer_Garten_M%C3%BCnster",
+    "https://www.uni-muenster.de/BotanischerGarten/en/besucher-info/Anfahrt.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mslwlkunst",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Browse 1,000 years of art at the LWL-Museum",
+   "desc": "The LWL-Museum für Kunst und Kultur has stood on Domplatz since 1908 and reopened in 2014 after an extension by Staab Architekten. Its collection runs from the early Middle Ages to the present, and the museum has co-organised Skulptur Projekte since 1977.",
+   "tip": "Closed on Mondays in the usual schedule; check the official site. Allow two to three hours.",
+   "q": "LWL-Museum für Kunst und Kultur, Domplatz 10, Münster",
+   "ll": [
+    51.96138,
+    7.62427
+   ],
+   "src": [
+    "https://stadt-muenster.de/en/tourismus/art-and-culture/museums-in-muenster/lwl-museum-fuer-kunst-und-kultur",
+    "https://www.wikiwand.com/de/LWL-Museum_f%C3%BCr_Kunst_und_Kultur"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mspicasso",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See Picasso's lithographs at the Picasso Museum",
+   "desc": "The Kunstmuseum Pablo Picasso opened in 2000 and is Germany's only Picasso museum. It holds more than 800 lithographs and occupies the Druffel'sche Hof, a classical-period building. A pavement portrait of Picasso made from 13,783 stones lies on Picassoplatz outside.",
+   "tip": "Plan an hour; the museum is closed on Mondays. Look at the stone portrait from a nearby upper window or steps for the best view.",
+   "q": "Kunstmuseum Pablo Picasso Münster, Picassoplatz 1, Münster",
+   "ll": [
+    51.96022,
+    7.62638
+   ],
+   "src": [
+    "https://www.nrw-tourism.com/museums/pablo-picasso-art-museum",
+    "https://stadt-muenster.de/galerie/kultur-museen/bild/picassoplatz1"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mspoolballs",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find Oldenburg's Giant Pool Balls on the Aasee shore",
+   "desc": "Claes Oldenburg's Giant Pool Balls are three concrete spheres of 3.5 metres diameter on the grass of the Aasee's north bank. They were installed in 1977 for the first Skulptur Projekte Münster, drew fierce protests and are now among the city's most photographed artworks.",
+   "tip": "Free, always accessible and best combined with a lap of the Aasee by bike. Sunset light is good here.",
+   "q": "Giant Pool Balls, Aasee, Münster",
+   "ll": [
+    51.9559,
+    7.6107
+   ],
+   "src": [
+    "https://nrw-skulptur.net/en/skulptur/giant-pool-balls",
+    "https://stadt-muenster.de/en/tourismus/art-and-culture/sculptures-in-muenster/oldenburg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mserbdrostenhof",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Look at Schlaun's Erbdrostenhof baroque palace",
+   "desc": "The Erbdrostenhof was built between 1753 and 1757 by Johann Conrad Schlaun for the Droste zu Vischering family. A three-wing late-baroque palace set diagonally on its plot on Salzstraße, it is regarded as one of his main works in the city.",
+   "tip": "Mostly viewed from the street; the courtyard is sometimes accessible, and the building hosts occasional events.",
+   "q": "Erbdrostenhof, Salzstraße 38, Münster",
+   "ll": [
+    51.96091,
+    7.63214
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Erbdrostenhof",
+    "https://www.stadt-muenster.de/en/tourismus/places-of-interest/the-old-town/erbdrostenhof"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "msueberwasser",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Gothic Überwasserkirche",
+   "desc": "The Überwasserkirche, formally Church of Our Lady, is a Gothic hall church whose name refers to its position across the Aa river from the cathedral. Bishop Clemens August Graf von Galen preached the second of his three famous sermons against the Nazi regime here on 20 July 1941.",
+   "tip": "The interior is free to enter outside services. The square in front is lively on market days.",
+   "q": "Überwasserkirche, Überwasserkirchplatz, Münster",
+   "ll": [
+    51.96413,
+    7.62284
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/%C3%9Cberwasserkirche"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mszwinger",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Pause at the Zwinger memorial on the Promenade",
+   "desc": "The Zwinger is a round fortification from the early modern city defences. It was used as a prison and Gestapo execution site under the Nazis and, after bombing damage, became a memorial to victims of violence in 1997. It holds the sculpture Das gegenläufige Konzert.",
+   "tip": "Sits on the Promenade, so it is an easy stop on a bike ride. The exhibition is run by the Stadtmuseum; check visiting times.",
+   "q": "Zwinger, Promenade, Münster",
+   "ll": [
+    51.9676,
+    7.631
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Zwinger_(M%C3%BCnster)",
+    "https://www.stadt-muenster.de/kriegerdenkmale/erinnern-nach-1945/mahnmal-zwinger"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mskiepenkerl",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Meet the Kiepenkerl statue on Spiekerhof",
+   "desc": "The Kiepenkerl honours the travelling traders who carried goods in wicker baskets between town and country. A first monument went up in 1896 and the current figure was unveiled on 16 September 1953. Jeff Koons swapped in a stainless-steel copy for Skulptur Projekte in 1987.",
+   "tip": "Free and central; the restaurants Großer and Kleiner Kiepenkerl are right beside it.",
+   "q": "Kiepenkerl-Denkmal, Spiekerhof, Münster",
+   "ll": [
+    51.96417,
+    7.62601
+   ],
+   "src": [
+    "https://www.stadt-muenster.de/en/tourismus/places-of-interest/the-old-town/kiepenkerl",
+    "https://ms-aktuell.de/sehenswuerdigkeiten/kiepenkerl-vom-wanderhaendler-zum-wahrzeichen-muensters/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "msruschhaus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Tour Haus Rüschhaus, home of Annette von Droste-Hülshoff",
+   "desc": "Johann Conrad Schlaun built Haus Rüschhaus in Nienberge in 1745 to 1748 as his own summer residence. The poet Annette von Droste-Hülshoff lived here from 1826 to 1846. A new permanent exhibition, Droste Welten: Rüschhaus, opened on 1 July 2026.",
+   "tip": "Museum admission is around 7 euros and the park is free. Bus line 5 from the main station stops nearby; check hours before going.",
+   "q": "Haus Rüschhaus, Am Rüschhaus 81, Münster-Nienberge",
+   "ll": [
+    51.98558,
+    7.55117
+   ],
+   "src": [
+    "https://www.burg-huelshoff.de/en/orte/haus-rueschhaus",
+    "https://ms-aktuell.de/?p=138617"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mswolbeck",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Renaissance Drostenhof in Wolbeck",
+   "desc": "The brick Drostenhof in Wolbeck, a protected monument, is reckoned among the most important Renaissance buildings in Westphalia. Its gabled entrance dates from 1545. The estate belongs to the Graf von Merveldt family, who held the office of Drost of Wolbeck for generations.",
+   "tip": "Wolbeck is a village-like district southeast of the centre, reachable by bike along the Werse side. Combine with a stroll through the old village centre.",
+   "q": "Drostenhof, Wolbeck, Münster",
+   "ll": [
+    51.91474,
+    7.72688
+   ],
+   "src": [
+    "https://www.komoot.com/highlight/6775580",
+    "https://de-academic.com/dic.nsf/dewiki/2333865"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "msstadtmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore the Stadtmuseum and its city models",
+   "desc": "The Stadtmuseum Münster on Salzstraße traces the city's history through models of Münster in 1533 and 1839 and a collection of regional art and objects. It is a city-run museum with elevator access.",
+   "tip": "Usually open Tuesday to Friday 10 to 18 and weekends 11 to 18, closed Mondays; check for the current schedule.",
+   "q": "Stadtmuseum Münster, Salzstraße 28, Münster",
+   "ll": [
+    51.96075,
+    7.63306
+   ],
+   "src": [
+    "https://stadt-muenster.de/en/tourismus/art-and-culture/museums-in-muenster/stadtmuseum",
+    "https://www.stadt-muenster.de/museum/museum/glanzlichter-der-sammlung"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "msnaturkunde",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the LWL Natural History Museum and Planetarium",
+   "desc": "The LWL-Museum für Naturkunde with its planetarium stands at Sentruper Straße 285 beside the Aasee and the zoo. The planetarium dome seats about 225 and the combined venue draws roughly 110,000 visitors a year.",
+   "tip": "Planetarium shows are around 10 euros for adults; check the schedule. Bus line 14 from the main station stops at the zoo.",
+   "q": "LWL-Museum für Naturkunde, Sentruper Straße 285, Münster",
+   "ll": [
+    51.94941,
+    7.59118
+   ],
+   "src": [
+    "https://www.stadt-muenster.de/en/tourismus/art-and-culture/museums-in-muenster/lwl-museum-fuer-naturkunde",
+    "https://www.stadt-muenster.de/en/tourismus/city-of-conferences/accompanying-programmes/lwl-museum-fuer-naturkunde-mit-planetarium"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mskunstverein",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See contemporary art at the Westfälischer Kunstverein",
+   "desc": "The Westfälischer Kunstverein on Rothenburg shows international contemporary art in changing exhibitions. Two new shows run from 17 October 2026 to 17 January 2027.",
+   "tip": "Open Wednesday to Sunday 11 to 19. Check the current programme.",
+   "q": "Westfälischer Kunstverein, Rothenburg 30, Münster",
+   "ll": [
+    51.9608,
+    7.62414
+   ],
+   "src": [
+    "https://www.e-flux.com/announcements/656513/summer-program-2025",
+    "https://untitleddb.com/institutions/westfalischer-kunstverein"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mspferdemuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Messel prehistoric horse at the Pferdemuseum",
+   "desc": "The Westfälisches Pferdemuseum, opened in 2002 inside the Allwetterzoo grounds, covers the natural and cultural history of horses on about 1,000 square metres. Exhibits include the Messel prehistoric horse and the stallion Polydor.",
+   "tip": "Only accessible with a zoo ticket. Fjord horse shows run in the adjoining Hippomaxx arena in season.",
+   "q": "Westfälisches Pferdemuseum, Sentruper Straße 311, Münster",
+   "ll": [
+    51.94745,
+    7.5876
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Westphalian_Horse_Museum",
+    "https://stadt-muenster.de/en/tourismus/art-and-culture/museums-in-muenster/westfaelisches-pferdemuseum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mspinkus",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink Münster Alt at Pinkus Müller",
+   "desc": "Pinkus Müller on Kreuzstraße in the Kuhviertel is the last survivor of about 150 Altbier breweries that once existed in Münster, brewing since the 19th century. The house pours its tart Münster Alt in special glasses. The kitchen cooks Westphalian dishes including Töttchen and veal schnitzel in cream sauce served with Pumpernickel.",
+   "tip": "Open Monday to Saturday from noon, closed Sundays; reserve for dinner. Try the unfiltered Spezial.",
+   "q": "Pinkus Müller, Kreuzstraße 4-10, Münster",
+   "ll": [
+    51.965,
+    7.623
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/muenster/altbierkueche-pinkus-mueller/",
+    "https://wikipedia.com/wiki/Pinkus_M%C3%BCller"
+   ]
+  },
+  {
+   "id": "msgrosserkiepenkerl",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order Töttchen at Gasthaus Großer Kiepenkerl",
+   "desc": "Gasthaus Großer Kiepenkerl on Spiekerhof is a long-standing Westphalian restaurant named after the Kiepenkerl statue. Its menu lists Töttchen, the Münsterland ragout of head, heart and lung seasoned with Worcestershire sauce, served with fried potatoes.",
+   "tip": "Expect around 15 euros for the Töttchen plate. Confirm opening hours, which differ between listings.",
+   "q": "Großer Kiepenkerl, Spiekerhof 45, Münster",
+   "ll": [
+    51.96417,
+    7.62601
+   ],
+   "src": [
+    "https://www.speisekarte.de/m%C3%BCnster-westfalen/restaurant/grosser_kiepenkerl/speisekarte",
+    "https://www.stadt-muenster.de/fileadmin/user_upload/stadt-muenster/80_tourismus/pdf/restaurants_westfaelisch.pdf"
+   ]
+  },
+  {
+   "id": "mstoeddenhoek",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Zwiebelfleisch and Töttchen at Töddenhoek",
+   "desc": "Gaststätte Töddenhoek on Rothenburg is described as one of the last places that consistently cooks authentic Westphalian food. Classics include Töttchen, Krüstchen, Zwiebelfleisch and Herrencrème.",
+   "tip": "Closed on Sundays; reservations are possible. Expect hearty portions.",
+   "q": "Gaststätte Töddenhoek, Rothenburg 41, Münster",
+   "ll": [
+    51.96072,
+    7.62587
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/muenster/gaststaette-toeddenhoek/",
+    "https://www.speisekarte.de/m%C3%BCnster-westfalen/restaurant/toeddenhoek/speisekarte"
+   ]
+  },
+  {
+   "id": "msleve",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine in Münster's oldest inn, Altes Gasthaus Leve",
+   "desc": "The Altes Gasthaus Leve on Alter Steinweg has been an inn since 1607 and is described by the city as Münster's oldest public house. It serves Westphalian specialities such as Steckrübeneintopf in rustic rooms with a wood-fired oven.",
+   "tip": "Hours differ between listings (generally closed on Sundays and possibly Mondays), so call or check gasthaus-leve.de first.",
+   "q": "Altes Gasthaus Leve, Alter Steinweg 37, Münster",
+   "ll": [
+    51.96172,
+    7.63326
+   ],
+   "src": [
+    "https://stadt-muenster.de/en/tourismus/city-of-conferences/catering/altes-gasthaus-leve",
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/muenster/altes-gasthaus-leve/"
+   ]
+  },
+  {
+   "id": "mscavete",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have a beer in the student pub Cavete",
+   "desc": "The Akademische Bieranstalt Cavete on Kreuzstraße is a Kuhviertel institution and often named Münster's oldest student pub. Reviewers mention simple food, a big drink list and battered wooden tables.",
+   "tip": "Best on a weekday evening when students fill the rooms. Cash and card policy varies.",
+   "q": "Cavete, Kreuzstraße 37, Münster",
+   "ll": [
+    51.9658,
+    7.6226
+   ],
+   "src": [
+    "https://maps.adac.de/poi/cavete-muenster",
+    "https://www.stadt-muenster.de/ms/tourismus/presse/html/t13-kulinarisches-EN.html"
+   ]
+  },
+  {
+   "id": "mscafe1648",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink coffee above the city at Café 1648",
+   "desc": "Café 1648 occupies the 11th and 12th floors of the Stadthaus 1 tower and is known for its all-round view over Münster, including the cathedral. It opened in 2019 in the former town hall canteen and continues recipes from the old Café Grotemeyer.",
+   "tip": "The entrance is to the right of the Münster Information Centre. Go on a clear day; cake is the usual order.",
+   "q": "1648 Café, Heinrich-Brüning-Straße 5, Münster",
+   "ll": [
+    51.96151,
+    7.62974
+   ],
+   "src": [
+    "https://entdecke.dein-nrw.de/en/dein-nrw/wlan/detail/POI/p_100264898/1648",
+    "https://ms-aktuell.de/gastronomie/kuchenparadies-muenster-die-besten-orte-fuer-kuchen-in-der-stadt/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "msmoennig",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order Käsekuchen at Konditorei-Café Mönning",
+   "desc": "Konditorei-Café Mönning is a family-run coffeehouse dating back to 1898, now in its fourth generation. It is known for a large cake selection and especially its cheesecake, and serves a Sunday breakfast buffet.",
+   "tip": "The main branch is on Hammer Straße 45. Check opening hours on konditorei-moennig.de.",
+   "q": "Konditorei Café Mönning, Hammer Straße 45, Münster",
+   "ll": [
+    51.95185,
+    7.62552
+   ],
+   "src": [
+    "https://ms-aktuell.de/gastronomie/kuchenparadies-muenster-die-besten-orte-fuer-kuchen-in-der-stadt/",
+    "https://www.gelbeseiten.de/gsbiz/8838b8b1-82bd-46f8-ada9-4a664bbebe34"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "msaaseeterrassen",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sit lakeside at the Aasee-Terrassen",
+   "desc": "The Aasee-Terrassen are a waterside place to eat and drink while watching boats and walkers on the lake. They sit on the Aasee's north bank near the boat rental.",
+   "tip": "Best on a summer evening; check opening times and seasonal menu.",
+   "q": "Aasee-Terrassen, Annette-Allee 3, Münster",
+   "ll": [
+    51.9546,
+    7.6098
+   ],
+   "src": [
+    "https://www.stadt-muenster.de/tourismus/sehenswertes/aasee",
+    "https://bootsschule1.de/blog/boot-fahren-muenster-sightseeing-mal-anders/"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "mspromenade",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cycle the Promenade ring around the old town",
+   "desc": "The Promenade is a car-free ring of about 4.5 kilometres on the line of the former city fortifications, lined by a four-row avenue of lime trees. It is the backbone of Münster's cycle network, passing the Schloss, the Zwinger and the Aa.",
+   "tip": "Rent a bike near the main station and ride the full loop in under an hour. Keep right and watch for fast commuters.",
+   "q": "Promenade, Schlossplatz, Münster",
+   "ll": [
+    51.95758,
+    7.62019
+   ],
+   "src": [
+    "https://stadt-muenster.de/verkehrsplanung/promenade",
+    "https://ms-aktuell.de/sehenswuerdigkeiten/die-promenade-muenster-ein-gruenes-band-der-geschichte-und-kultur/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "msaaseeboat",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Rent a pedal boat or dinghy on the Aasee",
+   "desc": "Overschmidt at Annette-Allee 1 rents pedal boats, rowing boats and sailing boats on the Aasee and runs the oldest private sailing school in Germany. It also offers a solar boat tour along the shore and a swan pedal boat.",
+   "tip": "Check overschmidt.de for the current season and prices. Sailing lessons are available.",
+   "q": "Overschmidt Bootsverleih, Annette-Allee 1, Münster",
+   "ll": [
+    51.95754,
+    7.61447
+   ],
+   "src": [
+    "https://ms-aktuell.de/freizeit/bootsverleih-am-aasee-in-muenster",
+    "https://www.stadt-muenster.de/tourismus/sehenswertes/aasee"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "mswochenmarkt",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Wochenmarkt on Domplatz",
+   "desc": "With about 150 stalls, the Wednesday and Saturday market on Domplatz is Münster's largest, running from 7 to 14:30. The market has stood here since 1926. A Friday organic farmers' market runs 12 to 18.",
+   "tip": "Go early on Saturday for the best choice. Stalls end earlier in hot weather.",
+   "q": "Domplatz Wochenmarkt, Domplatz, Münster",
+   "ll": [
+    51.96248,
+    7.6256
+   ],
+   "src": [
+    "https://stadt-muenster.de/filmservice/locations/domplatz-mit-wochenmarkt-muenster",
+    "https://www.stadt-muenster.de/maerkte/wochenmaerkte-in-muenster"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mszoo",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Spend a day at the Allwetterzoo",
+   "desc": "The Allwetterzoo opened in 1974 on 30 hectares next to the Aasee as the successor to the Zoologischer Garten founded in 1875. It also houses the Westfälisches Pferdemuseum.",
+   "tip": "Bus line 14 from the main station stops at the entrance. Covered paths make it workable in rain.",
+   "q": "Allwetterzoo Münster, Sentruper Straße 315, Münster",
+   "ll": [
+    51.9481,
+    7.58687
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/M%C3%BCnster_Zoo",
+    "https://www.allwetterzoo.de"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mskreativkai",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Spend an evening at the Kreativkai harbour",
+   "desc": "The Stadthafen opened in 1899 as a spur of the Dortmund-Ems-Kanal. Since the 1990s the converted warehouses on the Kreativkai hold studios, restaurants, pubs and bars. In the evening it becomes a going-out strip.",
+   "tip": "Best on a summer evening for an after-work beer on the water. Check which bars are open on weekdays.",
+   "q": "Kreativkai, Hafenweg, Münster",
+   "ll": [
+    51.95192,
+    7.6437
+   ],
+   "src": [
+    "https://www.eghn.org/en/local-garden-routes/local-garden-route-muenster/city-harbour-and-kreativkai/",
+    "https://ms-aktuell.de/sehenswuerdigkeiten/muenster-hafen-vom-industriehafen-zum-lebendigen-stadtquartier/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mshotjazz",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Catch a live blues or jazz night at Hot Jazz Club",
+   "desc": "The Hot Jazz Club on Hafenweg is a live-music venue with a 2026/27 programme that includes big bands and blues acts such as Henrik Freischlader and Connolly Hayes.",
+   "tip": "Buy tickets in advance for popular acts; shows usually start at 20:00 or 21:00.",
+   "q": "Hot Jazz Club, Hafenweg 26b, Münster",
+   "ll": [
+    51.95189,
+    7.64355
+   ],
+   "src": [
+    "https://www.regioactive.de/location/muenster/hot-jazz-club-Dnw37nLstp",
+    "https://www.mvp.de/muenster/veranstaltungen/ansgar-elsner-big-band-selection-hot-jazz-club-muenster/"
+   ]
+  },
+  {
+   "id": "mspreussen",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Watch Preußen Münster at the Preußenstadion",
+   "desc": "The Preußenstadion on Hammer Straße opened on 12 June 1926 and is home to SC Preußen Münster, which played in the 2. Bundesliga in 2025/26. It has been renovated in stages, with a new west stand opened in 2025/26.",
+   "tip": "Home games sell out, so book tickets early through the club.",
+   "q": "LVM-Preußenstadion, Hammer Straße 38, Münster",
+   "ll": [
+    51.93182,
+    7.6261
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Preu%C3%9Fenstadion",
+    "https://ms-aktuell.de/sport/preussen-stadion"
+   ]
+  },
+  {
+   "id": "msflohmarkt",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Promenadenflohmarkt near the Schloss",
+   "desc": "The Promenadenflohmarkt fills the Promenade between the Schloss and the Aasee on the third Saturday of the month, May to September with a July break. A Sommernachtsflohmarkt runs into the early hours on one Friday in June.",
+   "tip": "Open about 8 to 16. Confirm 2027 dates on flohmarkt-muenster.de.",
+   "q": "Promenadenflohmarkt, Schlossplatz, Münster",
+   "ll": [
+    51.96356,
+    7.6156
+   ],
+   "src": [
+    "https://ms-aktuell.de/?p=95915",
+    "https://www.festivalsindeutschland.de/festival/promenadenflohmarkt-muenster"
+   ],
+   "months": [
+    5,
+    6,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "mswerse",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Hike the Werse valley from the Pleister Mühle",
+   "desc": "A circular walk from the Landgasthof Pleister Mühle follows the quiet Werse river through meadows near Handorf. A loop of about 6 kilometres takes under two hours. The Werse is also paddled by canoe.",
+   "tip": "Finish at the Landgasthof for a drink. Wear sturdy shoes after rain.",
+   "q": "Pleister Mühle, Handorf, Münster",
+   "ll": [
+    51.96362,
+    7.70142
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/runde-von-der-pleister-muehle-ins-wersetal",
+    "https://www.ich-geh-wandern.de/wandern/handorf-muenster"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mskuhviertel",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Crawl the pubs of the Kuhviertel",
+   "desc": "The Kuhviertel mixes student pubs with traditional Westphalian restaurants. Stops on local pub crawls include Münster's smallest pub Die Ziege (around 25 square metres), the Blaues Haus and Die Dille.",
+   "tip": "Start at Pinkus Müller or Cavete for the full tour. Evenings from Thursday are busiest.",
+   "q": "Kuhviertel, Kreuzstraße, Münster",
+   "ll": [
+    51.9656,
+    7.623
+   ],
+   "src": [
+    "https://ms-aktuell.de/gastronomie/kneipen-tour-kuhviertel-muenster/",
+    "https://www.stadt-muenster.de/en/tourismus/places-of-interest/the-old-town/kuhviertel.html"
+   ]
+  },
+  {
+   "id": "msrieselfelder",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Go birdwatching in the Rieselfelder Münster",
+   "desc": "The Rieselfelder are former sewage fields turned into an EU bird protection area. The Biologische Station Rieselfelder Münster, founded in 1974, manages about 430 hectares and offers nature events for visitors.",
+   "tip": "Bring binoculars and stay on the paths. Skating on ice is strictly forbidden.",
+   "q": "Rieselfelder Münster, Münster",
+   "ll": [
+    52.02789,
+    7.65035
+   ],
+   "src": [
+    "https://ms-aktuell.de/unser-muenster/rieselfelder-in-muenster-ein-paradies-fur-natur-und-erholung/",
+    "https://lanuk.nrw.de/fileadmin/lanuv/natur/schutzgeb/vogelschutzgebiete/VMP_Rieselfelder_Muenster.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mshiltrup",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the Dortmund-Ems-Kanal at Hiltrup",
+   "desc": "The Dortmund-Ems-Kanal opened near Hiltrup in 1899 and shapes the district's townscape. The towpaths make good walks and rides. Hiltrup also has the old St.-Clemens church dating to 1160.",
+   "tip": "Combine with a cycle from the centre along the canal.",
+   "q": "Dortmund-Ems-Kanal, Hiltrup, Münster",
+   "ll": [
+    51.89582,
+    7.66238
+   ],
+   "src": [
+    "https://stadt-muenster.de/filmservice/locations/dortmund-ems-kanal",
+    "https://dewiki.de/Lexikon/Hiltrup"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "msmuehlenhof",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Wander the Mühlenhof open-air museum",
+   "desc": "The Mühlenhof-Freilichtmuseum stands on about 5 hectares beside the Aasee and the zoo. It opened in the 1960s around a reconstructed post windmill and holds farmhouses and rural buildings of the Münsterland. It runs markets, including a medieval and Viking market and a pottery market.",
+   "tip": "The landmark windmill is under restoration until 2027. Check opening dates on the museum site.",
+   "q": "Mühlenhof-Freilichtmuseum, Theo-Breider-Weg 1, Münster",
+   "ll": [
+    51.95005,
+    7.59914
+   ],
+   "src": [
+    "https://www.stadt-muenster.de/en/tourismus/art-and-culture/museums-in-muenster/muehlenhof-freilichtmuseum",
+    "https://ms-aktuell.de/?p=167583"
+   ]
+  }
+ ]
+}

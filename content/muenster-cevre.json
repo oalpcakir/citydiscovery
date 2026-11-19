@@ -1,0 +1,558 @@
+{
+ "new": [
+  {
+   "id": "msvischering",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the moat of Burg Vischering in Lüdinghausen",
+   "desc": "One of the oldest and best-preserved moated castles of the Münsterland, founded shortly before 1271 by Bishop Gerhard von der Mark and rebuilt in Renaissance style after a fire in 1521. It stands on two islands, an outer bailey and an inner castle, and houses a museum of the Münsterlandmuseum. The Droste zu Vischering family still owns it.",
+   "tip": "Viewing the castle from outside is free at any time; the museum is closed on Mondays.",
+   "q": "Burg Vischering, Berenbrock 1, Lüdinghausen",
+   "ll": [
+    51.77633,
+    7.4423
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Burg_Vischering",
+    "https://burg-vischering.de/en/the-castle/"
+   ]
+  },
+  {
+   "id": "msnordkirchen",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stroll the gardens of Schloss Nordkirchen, the Westphalian Versailles",
+   "desc": "Built 1703 to 1734 for Friedrich Christian von Plettenberg to designs by Gottfried Laurenz Pictorius and Johann Conrad Schlaun, it is the largest moated palace in Westphalia. Today it houses the state finance university, with a restaurant in the vaulted cellar.",
+   "tip": "The park is open to the public; some rooms can be seen on guided tours.",
+   "q": "Schloss Nordkirchen, Schlossstraße 1, Nordkirchen",
+   "ll": [
+    51.73816,
+    7.52577
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Nordkirchen"
+   ]
+  },
+  {
+   "id": "mshuelshoff",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Burg Hülshoff, birthplace of Annette von Droste-Hülshoff",
+   "desc": "A Renaissance moated manor in Havixbeck, first mentioned in the 11th century and owned by the Droste zu Hülshoff family from 1417 to 2012. The poet Annette von Droste-Hülshoff was born here in 1797 and the house now holds a museum devoted to her.",
+   "tip": "The park is free; the castle interior charges admission. A restaurant sits in the cellar and courtyard.",
+   "q": "Burg Hülshoff, Schonebeck 6, Havixbeck",
+   "ll": [
+    51.9716,
+    7.5039
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Burg_Hülshoff"
+   ]
+  },
+  {
+   "id": "msraesfeld",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore Schloss Raesfeld and its Renaissance game park",
+   "desc": "A moated castle in Raesfeld that Alexander II von Velen expanded into a Renaissance residence in the 1640s and 1650s. The adjoining Tiergarten is one of Germany's oldest surviving Renaissance game parks, and the municipality bought the castle in 2022.",
+   "tip": "The Tiergarten is open as a public recreation area with a visitor centre.",
+   "q": "Schloss Raesfeld, Freiheit 25, Raesfeld",
+   "ll": [
+    51.76389,
+    6.82722
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Raesfeld"
+   ]
+  },
+  {
+   "id": "msanholt",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Rembrandts at Wasserburg Anholt",
+   "desc": "One of the largest moated castles of the Münsterland, first recorded before 1169 and owned by the princes of Salm-Salm since 1647. The museum holds the largest private painting collection in North Rhine-Westphalia, with works by Rembrandt, Jan van Goyen and Lucas Cranach the Elder.",
+   "tip": "The castle also has a hotel and restaurant; the park, including the Anholter Schweiz, charges a fee.",
+   "q": "Wasserburg Anholt, Schloßstraße 1, Isselburg-Anholt",
+   "ll": [
+    51.84468,
+    6.42733
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Wasserburg_Anholt"
+   ]
+  },
+  {
+   "id": "msburgsteinfurt",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Cross the moat of Schloss Burgsteinfurt",
+   "desc": "A large moated castle in the Burgsteinfurt district of Steinfurt, seat of the princes of Bentheim-Steinfurt. It sits on islands in the Steinfurter Aa river, opposite the old castle mill.",
+   "tip": "Pair it with a coffee at the Schlossmühle across the road.",
+   "q": "Schloss Burgsteinfurt, Burgstraße, Steinfurt",
+   "ll": [
+    52.14573,
+    7.34149
+   ],
+   "src": [
+    "https://blog.komoot.it/guide/211799/castles-around-kreis-steinfurt"
+   ]
+  },
+  {
+   "id": "msbagno",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Bagno park and its 1774 Konzertgalerie",
+   "desc": "The Steinfurter Bagno is a landscape park laid out by the counts of Bentheim-Steinfurt. Its Konzertgalerie from 1774 is described as the oldest free-standing concert hall in Europe.",
+   "tip": "Walk the park, then eat at the beer garden of the café-restaurant next door.",
+   "q": "Bagno, Hollich, Steinfurt",
+   "ll": [
+    52.13936,
+    7.35892
+   ],
+   "src": [
+    "https://www.eghn.org/en/steinfurter-bagno-2/",
+    "https://www.stadt-muenster.de/filmservice/drehorte/bagno-steinfurt"
+   ]
+  },
+  {
+   "id": "msdarfeld",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Photograph Wasserschloss Darfeld in Rosendahl",
+   "desc": "A moated estate of the Droste zu Vischering family in the village of Darfeld, rebuilt after a fire in 1899. It is privately inhabited, so it is best admired from the road and the edge of the moat.",
+   "tip": "Combine it with a walk from Osterwick or a stop on the 100-Schlösser-Route.",
+   "q": "Wasserschloss Darfeld, Darfeld, Rosendahl",
+   "ll": [
+    52.0294,
+    7.2731
+   ],
+   "src": [
+    "https://www.ancient-history-sites.com/sites/wasserschloss-darfeld/",
+    "https://commons.wikimedia.org/wiki/Category:Wasserschloss_Darfeld"
+   ]
+  },
+  {
+   "id": "mslonginusturm",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the Longinusturm on the Baumberge hills",
+   "desc": "A 32 metre lookout tower of local Baumberge sandstone on the Westerberg near Nottuln, built 1897 to 1900 by the Baumberge-Verein and named after the naturalist Friedrich Westhoff, who wrote as Doctor Longinus. A café, the 18|97, opened in its base in 2016.",
+   "tip": "Public buses run only from April to October.",
+   "q": "Longinusturm, Westerberg, Nottuln",
+   "ll": [
+    51.96012,
+    7.36572
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Longinus_Tower",
+    "https://www.mvp.de/nordrhein-westfalen/entdecken/longinusturm-nottuln/"
+   ]
+  },
+  {
+   "id": "msfreckenhorst",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the 1129 font in Freckenhorst's Stiftskirche",
+   "desc": "The Romanesque collegiate church of St. Bonifatius in Freckenhorst is a leading Romanesque church of Westphalia. Its famous baptismal font carries the date 1129, and the foundation was secularised in 1811.",
+   "tip": "Combine with the old town of Warendorf nearby.",
+   "q": "Stiftskirche St. Bonifatius, Freckenhorst, Warendorf",
+   "ll": [
+    51.92094,
+    7.96862
+   ],
+   "src": [
+    "https://www.kreis-warendorf.de/fileadmin/denkmal/pdf/92_stiftskirche_freckenhorst.pdf"
+   ]
+  },
+  {
+   "id": "mslandgestuet",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the Landgestüt stud farm in Warendorf",
+   "desc": "The Nordrhein-Westfälisches Landgestüt in Warendorf is the state stud, which celebrated its 200th anniversary. Its park-like grounds are home to the stallions presented at the annual Hengstparaden.",
+   "tip": "Check landgestuet.nrw.de for open days and guided tours.",
+   "q": "Nordrhein-Westfälisches Landgestüt, Sassenberger Straße 12, Warendorf",
+   "ll": [
+    51.95693,
+    7.99649
+   ],
+   "src": [
+    "https://ms-aktuell.de/region/200-jahre-landgestuet-warendorf-feiert/",
+    "https://www.land.nrw/pressemitteilung/brauchtum-tradition-und-moderne-pferdezucht-ministerin-silke-gorissen-eroeffnet"
+   ],
+   "tags": []
+  },
+  {
+   "id": "mstecklenburgaltstadt",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander the half-timbered old town of Tecklenburg",
+   "desc": "Tecklenburg sits on a hill of the Teutoburg Forest and is known for its well-preserved half-timbered houses and narrow lanes. The ruined castle hosts the open-air theatre, and the Hermannshöhen trail passes through.",
+   "tip": "Park at the foot of the hill; the climb is steep.",
+   "q": "Altstadt Tecklenburg, Tecklenburg",
+   "ll": [
+    52.22013,
+    7.81455
+   ],
+   "src": [
+    "https://entdecke.dein-nrw.de/en/dein-nrw/wlan/detail/POI/p_100191607/altstadt-tecklenburg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "msbentlage",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Kloster Bentlage near Rheine",
+   "desc": "The former Kreuzherren monastery founded in 1437 and converted into a noble residence from 1803, today owned by the city of Rheine. It houses a museum on Westphalian art and cultural history.",
+   "tip": "It lies next to the Salinenpark and the Naturzoo, so plan a combined day.",
+   "q": "Kloster Bentlage, Bentlager Weg 130, Rheine",
+   "ll": [
+    52.30201,
+    7.42963
+   ],
+   "src": [
+    "https://www.stadt-muenster.de/filmservice/drehorte/kloster-bentlage-rheine"
+   ]
+  },
+  {
+   "id": "mstelgtekapelle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Telgte Gnadenkapelle and its pilgrim image",
+   "desc": "Prince-Bishop Christoph Bernhard von Galen founded the pilgrimage to the Pietà in 1651. The carved poplar figure dates from around 1370 and is kept in the pilgrimage chapel in Telgte.",
+   "tip": "The main pilgrimage season is summer; the old town along the Ems is pleasant for a stroll.",
+   "q": "Gnadenkapelle, Marktplatz, Telgte",
+   "ll": [
+    51.98505,
+    7.78617
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Telgte",
+    "https://maps.adac.de/poi/wallfahrtskapelle-neu-warendorf"
+   ]
+  },
+  {
+   "id": "msreligio",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Discover pilgrim and Christmas culture at RELíGIO Telgte",
+   "desc": "RELíGIO is the Westfälisches Museum für religiöse Kultur, created from the former Krippenmuseum and Heimathaus Münsterland at the end of 2011. Its themes include pilgrimage, Cardinal von Galen and changing Christmas customs, and it shows the Telgter Hungertuch.",
+   "tip": "Located a few steps from the pilgrimage chapel.",
+   "q": "RELíGIO Westfälisches Museum für religiöse Kultur, Herrenstraße 1-2, Telgte",
+   "ll": [
+    51.982,
+    7.783
+   ],
+   "src": [
+    "https://www.kreis-warendorf.de/fileadmin/denkmal/pdf/64_museum_religio.pdf",
+    "https://www.telgte.de/tourismus-kultur/service/welcome-to-telgte/worth-visiting-and-watching/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mstextilwerk",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the LWL TextilWerk spinning mill in Bocholt",
+   "desc": "The LWL museum occupies the former Spinnerei and Weberei of Bocholt's textile industry. It ends in a glass-roofed café with views.",
+   "tip": "Open Tuesday to Sunday, 10:00 to 17:00 according to a listing; check before visiting.",
+   "q": "LWL-Museum TextilWerk Bocholt, Uhlandstraße 50, Bocholt",
+   "ll": [
+    51.83512,
+    6.62839
+   ],
+   "src": [
+    "https://maps.adac.de/poi/lwl-museum-textilwerk-spinnerei",
+    "https://www.bocholt.de/en/social-and-education/museums-and-city-history"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ms100schloesser",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cycle a leg of the 100-Schlösser-Route",
+   "desc": "A cycle route of roughly 1,000 km in four loops through the Münsterland, linking more than 100 castles, moated manors and historic sites. The loops measure about 206 to 327 km each.",
+   "tip": "Start at Schloss Nordkirchen and ride to Burg Vischering, about 20 km, then continue.",
+   "q": "100-Schlösser-Route, Schloss Nordkirchen, Nordkirchen",
+   "ll": [
+    51.7394,
+    7.5221
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/100-Schl%C3%B6sser-Route",
+    "https://www.nordkirchen.de/fileadmin/Dateien/Dateien/Tourismus/2022_100-Schloesserroute.pdf"
+   ]
+  },
+  {
+   "id": "mswildpferdebahn",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch the Dülmen wild horses in the Merfelder Bruch",
+   "desc": "A semi-wild herd of Dülmen horses lives in the Merfelder Bruch nature reserve, managed by the Herzog von Croÿ'sche Verwaltung. The Wildpferdebahn viewing area is open to visitors.",
+   "tip": "One source lists it as open only on weekends and holidays; check first.",
+   "q": "Wildpferdebahn Merfelder Bruch, Merfeld, Dülmen",
+   "ll": [
+    51.83662,
+    7.13815
+   ],
+   "src": [
+    "https://ms-aktuell.de/region/wildpferdebahn-bei-duelmen-erste-fohlen/",
+    "https://www.lwl.org/westfalen-regional-download/PDF/S262_Wildpferde.pdf"
+   ]
+  },
+  {
+   "id": "mswildpferdefang",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Attend the Wildpferdefang in Merfelder Bruch",
+   "desc": "Each year on the last Saturday of May, the herd is rounded up and the young stallions are separated and auctioned. In 2026 the date is 30 May.",
+   "tip": "Tickets from about 45 euros through Eventim and similar portals.",
+   "q": "Wildpferdebahn Merfelder Bruch, Merfeld, Dülmen",
+   "ll": [
+    51.83662,
+    7.13815
+   ],
+   "src": [
+    "https://www.festivalsindeutschland.de/festival/wildpferdefang-duelmen",
+    "https://ms-aktuell.de/?p=34163"
+   ],
+   "months": [
+    5
+   ]
+  },
+  {
+   "id": "mshengstparade",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "See the Warendorfer Hengstparaden",
+   "desc": "The state stud shows its stallions in September in a parade; in 2026 on 19 and 20 September, plus a Parade bei Nacht on 26 September.",
+   "tip": "Tickets from about 27 euros; details on landgestuet.nrw.de.",
+   "q": "Nordrhein-Westfälisches Landgestüt, Sassenberger Straße 12, Warendorf",
+   "ll": [
+    51.95693,
+    7.99649
+   ],
+   "src": [
+    "https://www.regioactive.de/fest/warendorfer-hengstparaden-2026-warendorf-nordrhein-westfaelisches-landgestuet-2026-09-20-2hmGhv3Xc3",
+    "https://www.land.nrw/pressemitteilung/brauchtum-tradition-und-moderne-pferdezucht-ministerin-silke-gorissen-eroeffnet"
+   ],
+   "months": [
+    9
+   ]
+  },
+  {
+   "id": "msfreilichtspiele",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "See a musical at the Tecklenburg open-air theatre",
+   "desc": "The Freilichtspiele Tecklenburg stage musicals in the ruins of the castle on Schloßstraße. The 2026 season lists Rocky and Der Medicus, among others.",
+   "tip": "Check freilichtspiele-tecklenburg.de for dates; the theatre is not wheelchair accessible.",
+   "q": "Freilichtbühne Tecklenburg, Schloßstraße 7, Tecklenburg",
+   "ll": [
+    52.21943,
+    7.80927
+   ],
+   "src": [
+    "https://www.festivalsindeutschland.de/festival/freilichtspiele-tecklenburg-medicus",
+    "https://entdecke.dein-nrw.de/en/dein-nrw/wlan/detail/POI/p_100072803/tecklenburg-open-air-theatre"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "msboeckenhoff",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Taste Kristall Korn on a tour of Böckenhoff in Erle",
+   "desc": "A small sixth-generation grain distillery with its own copper still next to St. Silvester church in Raesfeld-Erle. Guided tours explain the distillation and end with a tasting of grain spirits and liqueurs.",
+   "tip": "Book a tour via kornbrennerei-boeckenhoff.de.",
+   "q": "Kornbrennerei Böckenhoff, Kirchplatz 2-3, Raesfeld-Erle",
+   "ll": [
+    51.74661,
+    6.86439
+   ],
+   "src": [
+    "https://www.nrw-tourism.com/kornbrennerei-johannes-boeckenhoff"
+   ]
+  },
+  {
+   "id": "mssasse",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Join a Lagerkorn tasting at Feinbrennerei Sasse",
+   "desc": "A craft distillery in Schöppingen that has distilled Korn for over 300 years and offers guided tours and workshops such as making your own gin. Its aged Lagerkorn is a regional benchmark.",
+   "tip": "Visit sassekorn.de for tour and workshop dates.",
+   "q": "Feinbrennerei Sasse, Schöppingen",
+   "ll": [
+    52.10057,
+    7.23617
+   ],
+   "src": [
+    "https://entdecke.dein-nrw.de/en/dein-nrw/wlan/detail/POI/p_100074900/sasse-distillery",
+    "https://www.about-drinks.com/workshops-bei-sasse-feinbrennerei-baut-angebot-weiter-aus/"
+   ]
+  },
+  {
+   "id": "mspotts",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Take a brewery tour at Pott's in Oelde",
+   "desc": "Pott's Brauerei offers a classic brewery tour that ends on the malt floor, a Bierkulinarium with beer and food pairing, and a tour of the Biersalon. The brewery has a new Sudhaus with a Biersalon.",
+   "tip": "Book tours at potts.de/brauereibesichtigungen.",
+   "q": "Pott's Brauerei, In der Geist 120, Oelde",
+   "ll": [
+    51.81135,
+    8.13212
+   ],
+   "src": [
+    "https://www.meininger.de/bier/brauereien/alles-einem-ort",
+    "https://braugasthoefe.de/en/inn/potts-brewery-backhaus/"
+   ]
+  },
+  {
+   "id": "msdoerenther",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Dörenther Klippen to the Hockendes Weib",
+   "desc": "A rock formation of about 4 km in the Teutoburg Forest with crags up to 40 m high, passed by the Hermannsweg. The best-known rock is the Hockendes Weib, linked to a legend, and the Dreikaiserstuhl gives wide views.",
+   "tip": "Start from the hiking car park on the B 219 in Ibbenbüren; a loop is about 10 km and 3 hours.",
+   "q": "Dörenther Klippen, Münsterstraße 420, Ibbenbüren",
+   "ll": [
+    52.24634,
+    7.69526
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/teutoschleife-d%C3%B6renther-klippen-tecklenburger-land",
+    "https://en.teutoburgerwald.de/nature/my-day-in-nature/tour/teuto-loop-doerenther-klippen-hermannshoehen-tour-tip-03"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "msnaturzoo",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Spend a day at NaturZoo Rheine",
+   "desc": "A zoo of around 1,000 animals in 100 species at Salinenstraße 150, open daily all year round.",
+   "tip": "Open from 9:00 a.m.; combine with the Salinenpark next door.",
+   "q": "NaturZoo Rheine, Salinenstraße 150, Rheine",
+   "ll": [
+    52.2973,
+    7.42218
+   ],
+   "src": [
+    "https://www.naturzoo.de/english",
+    "https://www.freizeitpark-welt.de/zoo/naturzoo_rheine/fotos/parkmaps/2019.pdf"
+   ]
+  },
+  {
+   "id": "msschlossmuehle",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have coffee at the Schlossmühle across from Burgsteinfurt castle",
+   "desc": "A popular café and restaurant on the Steinfurter Aa at Burgstraße 17, directly opposite the castle.",
+   "tip": "Ask for a table with the castle view.",
+   "q": "Schlossmühle, Burgstraße 17, Steinfurt",
+   "ll": [
+    52.1476,
+    7.3424
+   ],
+   "src": [
+    "https://blog.komoot.it/guide/254249/castles-around-emsdetten"
+   ]
+  },
+  {
+   "id": "mshuelsmann",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try Warendorfer Pferdeäppel at Café Hülsmann",
+   "desc": "A café-confectioner near the market square in Warendorf, praised for its cakes and for the local sweet Warendorfer Pferdeäppel.",
+   "tip": "Visit after the horses at the Landgestüt.",
+   "q": "Café Hülsmann, Marktplatz, Warendorf",
+   "ll": [
+    51.9531,
+    7.9905
+   ],
+   "src": [
+    "https://www.golocal.de/warendorf/cafes/huelsmann-rudolf-cafe-ZBThB/"
+   ]
+  },
+  {
+   "id": "msdomschenke",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at the Domschenke on Billerbeck's market",
+   "desc": "A restaurant and hotel at Markt 6 in the old centre of Billerbeck with regional and Mediterranean cooking, next to the cathedral.",
+   "tip": "Open for lunch and dinner according to a travel report.",
+   "q": "Domschenke, Markt 6, Billerbeck",
+   "ll": [
+    51.97766,
+    7.29077
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/billerbeck/restaurant-domschenke/"
+   ]
+  },
+  {
+   "id": "msoverwaul",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat at Landgasthaus Overwaul in Havixbeck",
+   "desc": "A country inn in Havixbeck, listed in the Schlemmer-Atlas among local restaurants.",
+   "tip": "Good after a visit to Burg Hülshoff.",
+   "q": "Landgasthaus Overwaul, Havixbeck",
+   "ll": [
+    51.96802,
+    7.46642
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/havixbeck/"
+   ]
+  },
+  {
+   "id": "msbagnocafe",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Sit in the beer garden of Café-Restaurant Bagno",
+   "desc": "A café-restaurant with a beer garden beside the Bagno park in Steinfurt, at Hollich 156.",
+   "tip": "Book at bagno-restaurant.de for busy days.",
+   "q": "Hotel Café Restaurant Bagno, Hollich 156, Steinfurt",
+   "ll": [
+    52.14108,
+    7.35598
+   ],
+   "src": [
+    "https://dinogo.com/hotels/691238-hotel-cafe-restaurant-bagno"
+   ]
+  },
+  {
+   "id": "msschwancafe",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have breakfast at Schwan Café in Burgsteinfurt",
+   "desc": "A half-timbered café in the old town at Steinstraße 7 with breakfast buffets and changing lunch dishes.",
+   "tip": "Close to the castle.",
+   "q": "Schwan Café, Steinstraße 7, Steinfurt",
+   "ll": [
+    52.14789,
+    7.3387
+   ],
+   "src": [
+    "https://www.gelbeseiten.de/gsbiz/e92a4f0b-a11a-4a1b-a722-612b084b8c50"
+   ]
+  }
+ ]
+}

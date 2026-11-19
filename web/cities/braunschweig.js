@@ -7,7 +7,7 @@ window.CITIES = window.CITIES || {};
 window.CITIES.braunschweig = {
   id: "braunschweig",
   name: "Braunschweig",
-  subtitle: "& Wolfsburg",
+  subtitle: "& the Harz",
   country: "Germany",
   levels: ["Tourist", "Newcomer", "Curious", "Neighbour", "Brunswicker at heart", "True Braunschweiger"],
   areas: {

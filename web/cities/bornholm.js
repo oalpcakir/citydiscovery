@@ -1,0 +1,100 @@
+// Quests for the Bornholm region.
+// cat: gor (see) | ye (eat & drink) | dene (do); area: a key of `areas`;
+// months: only for quests tied to certain months (1-12). To add a region, add a hub to tools/hubs.json
+// and run tools/rebuild_regions.py and tools/reassign_quests.py.
+
+window.CITIES = window.CITIES || {};
+window.CITIES.bornholm = {
+  id: "bornholm",
+  name: "Bornholm",
+  subtitle: "& Christiansø",
+  country: "Denmark",
+  levels: ["Tourist", "Newcomer", "Curious", "Neighbour", "Bornholmer at heart", "True Bornholmer"],
+  areas: {
+    merkez: "Rønne",
+    nord: "Gudhjem & the north coast",
+    cevre: "Svaneke, Nexø & the south"
+  },
+  // Map view when the region opens (the main city) and quest positions [lat, lng].
+  bounds: [[55.071, 14.657], [55.131, 14.757]],
+  coords: {
+    hammershus: [55.2709, 14.7552], osterlars: [55.1715, 14.9617], nylars: [55.0740, 14.8150],
+    kunstmuseum: [55.2235, 14.8938], svanekevandtarn: [55.1390, 15.1335], christianso: [55.3205, 15.1892],
+    solovergudhjem: [55.2138, 14.9693], haslerogeri: [55.1798, 14.7032], hallegaard: [55.1174, 15.0604],
+    svanekebryghus: [55.1361, 15.1406], bolcheriet: [55.1363, 15.1408], helligdomsklipperne: [55.2251, 14.8974],
+    jonskapel: [55.2331, 14.7204], ekkodalen: [55.1075, 14.8987], dueodde: [54.9918, 15.0743],
+    olskerkirke: [55.2360, 14.8004], olufhost: [55.2137, 14.9665], middelaldercenter: [55.1744, 14.9547],
+    paradisbakkerne: [55.1000, 15.0833], nordbornholmsrogeri: [55.2759, 14.8053], kadeau: [55.0045, 14.9690]
+  },
+  // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
+  areaBadges: {
+    merkez: { icon: "⚓", name: "Rønne Harbour Regular" },
+    nord: { icon: "🪨", name: "Granite Coast Hiker" },
+    cevre: { icon: "🐟", name: "Bornholm Smokehouse Fan" }
+  },
+  quests: [
+    { id: "hammershus", cat: "gor", area: "nord", title: "Climb the ruins of Hammershus above the sea",
+      desc: "Hammershus is the largest castle ruin in Northern Europe, built in the 13th century on a cliff 74 metres above the Baltic. The archbishops of Lund, Lübeck and the Danish crown fought over it for centuries, and in 1658 the islanders freed themselves from Swedish rule here.",
+      tip: "The visitor centre cut into the hillside has a terrace with the best overview of the ruin. Walk down to the coast path towards the Hammeren lighthouse afterwards.", q: "Hammershus, Allinge", tags: ["free"], src: ["https://en.wikipedia.org/wiki/Hammershus"] },
+    { id: "osterlars", cat: "gor", area: "nord", title: "Climb into the fortified round church of Østerlars",
+      desc: "Østerlars is the largest of Bornholm's four round churches, built around 1160 with walls thick enough to double as a refuge from pirates. Its upper floors were used as a lookout and storage, and wall paintings from about 1350 survive in the centre.",
+      tip: "Climb the narrow stairs to the defence gallery under the roof. The Bornholm Medieval Centre is just down the road.", q: "Østerlars Kirke", tags: ["rainy day"], src: ["https://en.wikipedia.org/wiki/%C3%98sterlars_Church"] },
+    { id: "nylars", cat: "gor", area: "cevre", title: "Read the Creation story in Nylars round church",
+      desc: "Nylars is the most solidly built of Bornholm's four round churches, a three storey defensive tower with walls up to two metres thick. Around its central pillar runs a frieze of 13th century frescoes, the oldest on the island, showing the Creation and the fall from Paradise.",
+      tip: "The paintings were hidden under whitewash until 1882, so they are remarkably fresh. The church is a short detour from the road between Rønne and Aakirkeby.", q: "Nylars Kirke, Bornholm", tags: ["rainy day"], src: ["https://en.wikipedia.org/wiki/Nylars_Church"] },
+    { id: "kunstmuseum", cat: "gor", area: "nord", title: "See island light on canvas at Bornholms Kunstmuseum",
+      desc: "Bornholm's Art Museum stands above the cliffs of Helligdomsklipperne, a long white building with a stream running through it and windows framing the sea. It shows the Bornholm painters, such as Oluf Høst, who were drawn to the island's light.",
+      tip: "Pair it with the cliff walk below the museum. The building is worth it even if you only stay for the views.", q: "Bornholms Kunstmuseum", tags: ["rainy day"], src: ["https://en.wikipedia.org/wiki/Bornholm_Art_Museum"] },
+    { id: "svanekevandtarn", cat: "gor", area: "cevre", title: "Find Jørn Utzon's first water tower in Svaneke",
+      desc: "Before the Sydney Opera House, Jørn Utzon designed this three legged water tower for Svaneke, inspired by old navigation marks. It was completed in the early 1950s and was given a fresh coat of real coal tar during its 2023 renovation.",
+      tip: "Walk on down into Svaneke, Denmark's smallest market town, with its ochre houses and harbour of rocks.", q: "Svaneke Vandtårn", tags: ["free"], src: ["https://en.wikipedia.org/wiki/Svaneke_water_tower", "https://bornholm.info/en/svaneke-vandtaarn/"] },
+    { id: "christianso", cat: "gor", area: "cevre", title: "Take the boat to the fortress island of Christiansø",
+      desc: "Christiansø is the main island of Ertholmene, Denmark's easternmost point, turned into a naval fortress in 1684. Fewer than 100 people live among the granite walls, towers and gardens, and there are no cars.",
+      tip: "Boats leave from Gudhjem and the crossing takes about an hour. Bring binoculars for the guillemots and eiders on Græsholm next door.", q: "Christiansø", src: ["https://en.wikipedia.org/wiki/Ertholmene"] },
+    { id: "solovergudhjem", cat: "ye", area: "nord", title: "Eat a Sol over Gudhjem at Gudhjem Røgeri",
+      desc: "Bornholm's first smokehouse opened in Gudhjem in 1866, and the harbourside Gudhjem Røgeri is still the place to eat Sol over Gudhjem. It is smoked herring on rye bread with a raw egg yolk as the sun, chives and radishes.",
+      tip: "Tables cannot be booked, so come before the lunch rush. Sit outside and watch the white chimneys smoke.", q: "Gudhjem Røgeri", kind: "meal", src: ["https://bornholm.info/en/gudhjem-roegeri/", "https://www.visitdenmark.com/denmark/plan-your-trip/gudhjem-rogeri-gdk614605"] },
+    { id: "haslerogeri", cat: "ye", area: "nord", title: "Watch herring smoked the old way at Hasle Røgeri",
+      desc: "Hasle Røgeri is the last smokehouse on Bornholm where fish are still smoked the traditional way, over alder wood in open chimneys. Grab smoked herring and fish cakes in the shop and eat them on the terrace by the water.",
+      tip: "Ask for warm herring straight from the chimney. The nearby beach is good for a sunset after.", q: "Hasle Røgeri", kind: "snack", src: ["https://www.visitdenmark.com/denmark/plan-your-trip/hasle-rogeri-gdk614890", "https://bornholm.info/en/bornholm-smokehouses/"] },
+    { id: "hallegaard", cat: "ye", area: "cevre", title: "Grab a farm hot dog at Hallegård",
+      desc: "Hallegård near Østermarie makes around 30 kinds of sausage and charcuterie, some smoked in old brick ovens, and supplies top restaurants across Denmark. The farm shop and summer café serve its famous hot dog.",
+      tip: "Follow the Gårdbutik signs off Svanekevej. Opening times vary outside summer, so check first.", q: "Aspevej 3, Østermarie", kind: "snack", src: ["https://www.visitdenmark.com/denmark/plan-your-trip/hallegaard-bornholm-gdk614813", "https://bornholm.info/en/?p=5237"] },
+    { id: "svanekebryghus", cat: "ye", area: "cevre", title: "Drink organic beer at Svaneke Bryghus",
+      desc: "Svaneke Bryghus started as a pub brewery in 2000 in an old merchant's yard on the main square, and all its beer is organic. The copper brew kettle stands in the restaurant, which pours the full range and cooks with it.",
+      tip: "Order the tasting board to try several beers. It is open all year, handy on a grey day.", q: "Svaneke Bryghus", kind: "drink", tags: ["rainy day"], src: ["https://bornholm.info/en/svaneke-bryghus-restaurant/", "https://www.visitdenmark.com/denmark/explore/svaneke-bryghus-restaurant-gdk614576"] },
+    { id: "bolcheriet", cat: "ye", area: "cevre", title: "Watch boiled sweets being pulled at Bolcheriet",
+      desc: "Bornholm's oldest candy workshop sits in a merchant's yard from 1740 on Svaneke's square. The sugar mass is boiled over an open fire and pulled on a hook by hand, which makes the sweets light and airy, and you can watch the whole process in the shop.",
+      tip: "Ask for a taste while the sweets are still warm. A bag makes a good present from the island.", q: "Bolcheriet, Svaneke", kind: "sweet", tags: ["free", "rainy day"], src: ["https://www.visitdenmark.com/denmark/plan-your-trip/bolcheriet-gdk614666", "https://bornholm.info/en/?p=5284"] },
+    { id: "helligdomsklipperne", cat: "dene", area: "nord", title: "Hike the granite cliffs of Helligdomsklipperne",
+      desc: "The Sanctuary Rocks north of Gudhjem rise 22 metres from the sea in towers and grottoes of granite. Pilgrims once came to the holy spring Rø Helligkilde here on midsummer night.",
+      tip: "Take the coast path from Gudhjem or come by boat in summer to see the grottoes from the water. Wear proper shoes on the slippery rocks.", q: "Helligdomsklipperne", tags: ["free"], src: ["https://en.wikipedia.org/wiki/Helligdomsklipperne"] },
+    { id: "jonskapel", cat: "dene", area: "nord", title: "Climb down to the sea stack of Jons Kapel",
+      desc: "Jons Kapel is a tall granite rock on the west coast, where legend says a monk named Jon preached to the islanders from a ledge. A steep wooden staircase leads down the cliffs to the rocks by the sea.",
+      tip: "Walk the cliff path north towards Hammershus for one of the best coastal walks on the island.", q: "Jons Kapel, Bornholm", tags: ["free"], src: ["https://da.wikipedia.org/wiki/Jons_Kapel"] },
+    { id: "ekkodalen", cat: "dene", area: "cevre", title: "Shout for the echo in Ekkodalen",
+      desc: "Ekkodalen in the forest of Almindingen is part of the longest rift valley in Denmark, with steep rock walls on both sides. Stand on the marked spot and shout towards the cliff to hear your voice come back.",
+      tip: "Climb on to Rytterknægten, the highest point on Bornholm, for the view from the Kongemindet tower.", q: "Ekkodalen, Almindingen", tags: ["free"], src: ["https://en.wikipedia.org/wiki/Ekkodalen"] },
+    { id: "dueodde", cat: "dene", area: "cevre", title: "Sink your feet into the fine sand of Dueodde",
+      desc: "Dueodde at Bornholm's southern tip is the island's largest beach, with powder fine white sand and dunes up to 12 metres high backed by pine forest planted against sand drift. The water stays shallow for about 100 metres, ideal for children.",
+      tip: "Climb Dueodde lighthouse, the tallest on Bornholm, for the view, then walk a few minutes away from the main path to have a stretch of beach to yourself.", q: "Dueodde Fyr", months: [6, 7, 8], tags: ["free"], src: ["https://en.wikipedia.org/wiki/Dueodde"] },
+    { id: "olskerkirke", cat: "gor", area: "nord", title: "Climb the hill to Olsker, the tallest round church",
+      desc: "Olsker's whitewashed round church was built in the 12th century on a hilltop about 112 metres above sea level, and it is the tallest of Bornholm's four round churches. It has three storeys, with openings in the top one once used to shoot at attackers.",
+      tip: "It is about 4 km south of Allinge, an easy cycle. Look out to sea from the churchyard on a clear day.", q: "Olsker Kirke, Bornholm", tags: ["free"], src: ["https://en.wikipedia.org/wiki/Olsker_Church"] },
+    { id: "olufhost", cat: "gor", area: "nord", title: "See Bornholm through Oluf Høst's eyes in Gudhjem",
+      desc: "Painter Oluf Høst, born in Svaneke in 1884, spent much of his life in the house Norresân in Gudhjem, painting the farm Bognemark again and again. His home has been a museum since 1998, showing his work where it was made, with a garden studio and café.",
+      tip: "The museum is open from March to October. Ask for the English audio guide, then walk down to Gudhjem harbour afterwards.", q: "Oluf Høst Museet, Løkkegade 35, Gudhjem", tags: ["rainy day"], src: ["https://www.ohmus.dk/", "https://en.wikivoyage.org/wiki/Gudhjem"] },
+    { id: "middelaldercenter", cat: "dene", area: "nord", title: "Try archery at Bornholms Middelaldercenter",
+      desc: "Near Østerlars, the Medieval Centre recreates Bornholm life in the 1300s with historic houses, a manor farm, craftspeople and animals. Visitors can shoot a bow, join the daily activities and go on a treasure hunt.",
+      tip: "Combine it with Østerlars round church just up the road. Check the opening calendar, as the centre is seasonal.", q: "Bornholms Middelaldercenter, Stangevej 1, Gudhjem", src: ["https://bornholmsmiddelaldercenter.dk/"] },
+    { id: "paradisbakkerne", cat: "dene", area: "cevre", title: "Hike the rift valleys of Paradisbakkerne",
+      desc: "Northwest of Nexø, Paradisbakkerne is a rocky, forested granite landscape cut by narrow rift valleys with near vertical walls, small lakes and marshes. A dense network of trails leads over hills up to 113 metres high, with glacial boulders left by the last ice age.",
+      tip: "The trails are open from sunrise to sunset. Wear proper shoes, as the paths are rocky and can be slippery after rain.", q: "Paradisbakkerne, Bornholm", tags: ["free"], src: ["https://en.wikipedia.org/wiki/Paradisbakkerne", "https://da.wikipedia.org/wiki/Paradisbakkerne"] },
+    { id: "nordbornholmsrogeri", cat: "ye", area: "nord", title: "Eat smoked fish by the sea at Nordbornholms Røgeri",
+      desc: "Right on the rocky shore at Kæmpestranden just outside Allinge, this smokehouse runs a restaurant and a fish shop side by side, with fish smoked on site.",
+      tip: "It is seasonal and usually reopens in spring. Pick up smoked herring from the shop for a picnic on the rocks.", q: "Nordbornholms Røgeri, Kæmpestranden 2, Allinge", kind: "meal", src: ["https://nbr.dk/"] },
+    { id: "kadeau", cat: "ye", area: "cevre", title: "Book a summer dinner at Kadeau on Sømarken beach",
+      desc: "Kadeau's island restaurant sits by Sømarken beach on Bornholm's south coast near Pedersker, the summer sister of Kadeau in Copenhagen. Dinner is served in the summer months only, built on Bornholm produce.",
+      tip: "Book well ahead and plan for a long evening. Arrive early to walk on the beach right below the restaurant.", q: "Kadeau Bornholm, Baunevej 18, Pedersker", kind: "meal", months: [5, 6, 7, 8, 9], src: ["https://kadeau.dk/"] }
+  ]
+};

@@ -1975,22 +1975,24 @@
     var html = o.search ? '<label class="search rsearch">' + ic("search") + '<input id="rsearch" type="search" placeholder="Find a region or country" autocomplete="off"></label>' +
       '<p class="note flat center">' + regTotal + ' regions in ' + Object.keys(byC).length + ' countries · ' + soonTotal + ' more coming soon</p>' : "";
     countries.forEach(function (n) {
-      var ids = (byC[n] || []).slice().sort(function (a, b) { return cities[a].name.localeCompare(cities[b].name); });
+      var ids = (byC[n] || []).slice().sort(function (a, b) {
+        return (o.search ? 0 : cityStats(b).done - cityStats(a).done) || cities[a].name.localeCompare(cities[b].name);
+      });
       var s = cs[n] || { regions: 0, started: 0, done: 0, total: 0 }, pct = s.total ? Math.round((s.done / s.total) * 100) : 0;
       var soon = (soonByC[n] || []).sort(function (a, b) { return a.localeCompare(b); });
-      var open = n === city.country || s.started > 0;
+      var open = o.search ? n === city.country || s.started > 0 : n === city.country && s.started > 0;
       html += '<details class="cgroup" data-search="' + esc(fold(n)) + '"' + (open ? " open" : "") + '><summary>' +
         '<span class="cg-flag">' + flagHtml(n) + '</span><span class="grow"><b>' + esc(n) + '</b><small>' +
         (ids.length ? s.started + ' / ' + ids.length + (ids.length === 1 ? ' region' : ' regions') + ' started' : 'Coming soon') +
         (soon.length && ids.length ? ' · ' + soon.length + ' coming soon' : "") + '</small></span>' +
         (ids.length ? '<span class="cg-pct">' + pct + '%</span>' : "") + ic("chevron-down", "sm") + '</summary>' +
-        '<div class="cg-body">' + ids.map(function (id) {
+        '<div class="cg-body">' + (function (rows) { return o.search ? rows.join("") : moreList("rg-" + n, rows, 5); })(ids.map(function (id) {
           var c = cities[id], st = cityStats(id);
           return '<button class="rrow' + (id === cityId ? " cur" : "") + (st.done ? " started" : "") + '" data-city="' + id + '" data-search="' + esc(fold(c.name + " " + (c.subtitle || "") + " " + n)) + '">' +
             '<i class="dot big" style="background:' + c.color + '"></i>' +
             '<div class="grow"><div class="rn">' + esc(c.name) + ' <small>' + esc(c.subtitle || "") + '</small></div>' + bar(st.pct) + '</div>' +
             '<span class="rp">' + (id === cityId ? '<em>Here</em>' : "") + st.done + ' / ' + st.total + '</span></button>';
-        }).join("") +
+        })) +
         (soon.length ? '<div class="rsoon" data-search="' + esc(fold(soon.join(" ") + " " + n)) + '">' + ic("calendar", "sm") +
           '<div><b>' + (ids.length ? soon.length + " more coming soon" : soon.length + (soon.length === 1 ? " region" : " regions") + " coming soon") + '</b>' +
           '<span>' + soon.map(esc).join(" · ") + '</span></div></div>' : "") + '</div></details>';
@@ -2044,6 +2046,13 @@
       '<small>' + esc(c.name) + ' · ' + dms(p[0], "N", "S") + ', ' + dms(p[1], "E", "W") + '</small></div>' + ic("chevron-right", "sm") + '</button>';
   }
   function dateText(t) { return new Date(t).toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" }); }
+  // Long lists show their first n items; the rest open with "Show N more" (the choice is kept while the app is open).
+  function moreList(id, items, n) {
+    if (items.length <= n + 1) return items.join("");
+    var open = !!(ui.more && ui.more[id]), rest = items.length - n;
+    return items.slice(0, n).join("") + '<div class="mrest"' + (open ? "" : " hidden") + '>' + items.slice(n).join("") + '</div>' +
+      '<button class="morebtn' + (open ? " open" : "") + '" data-act="more" data-id="' + esc(id) + '" data-n="' + rest + '"><span>' + (open ? "Show less" : "Show " + rest + " more") + '</span>' + ic("chevron-down", "sm") + '</button>';
+  }
   function yearRecap(t) {
     var y = new Date().getFullYear(), list = t.done.filter(function (q) { return new Date(rec(q).at).getFullYear() === y; });
     if (!list.length) return "";
@@ -2101,12 +2110,12 @@
   }
   loadCommunity();
   function doneBy(key) { return (community && community.quests && community.quests[key]) || 0; }
-  function rankRows(items, label) { // items: [{ n, html, attr }] sorted by n; equal counts share a rank
+  function rankRows(items, label, id) { // items: [{ n, html, attr }] sorted by n; equal counts share a rank
     var rank = 0;
-    return '<div class="rk-h"><span>#</span><span class="grow">' + label + '</span><span>Explorers</span></div>' + items.map(function (x, i) {
+    return '<div class="rk-h"><span>#</span><span class="grow">' + label + '</span><span>Explorers</span></div>' + moreList("rk-" + id, items.map(function (x, i) {
       if (!i || x.n !== items[i - 1].n) rank = i + 1;
       return '<button class="rk" ' + x.attr + '><span class="rkn">' + rank + '.</span><div class="grow">' + x.html + '</div><span class="rc">' + fmt(x.n) + '</span></button>';
-    }).join("");
+    }), 5);
   }
   function topBy(counts, n) {
     return Object.keys(counts || {}).filter(function (k) { return counts[k] > 0; }).sort(function (a, b) { return counts[b] - counts[a] || (a < b ? -1 : 1); }).slice(0, n);
@@ -2127,14 +2136,14 @@
     html += '<h2>Most explored regions</h2><div class="panel ranks">' + rankRows(topBy(regs, 25).map(function (id) {
       var c = cities[id];
       return { n: regs[id], attr: 'data-city="' + id + '"', html: '<b>' + flagHtml(c.country) + esc(c.name) + '</b><small>' + esc(c.subtitle || c.country) + '</small>' };
-    }), "Region") + '</div>';
+    }), "Region", "regions") + '</div>';
     html += '<h2>Most loved quests</h2><div class="chips">' + [["all", "All"]].concat(Object.keys(CATS).map(function (c) { return [c, CATS[c].label]; })).map(function (x) {
       return '<button class="chip' + (cat === x[0] ? " on" : "") + '" data-ev-cat="' + x[0] + '">' + x[1] + '</button>';
     }).join("") + '</div>';
     var qc = inCat(Q), top = topBy(qc, 25);
-    html += '<div class="panel ranks">' + (top.length ? rankRows(top.map(function (k) { return questItem(k, qc); }), "Quest") : '<div class="note flat">No quests here yet.</div>') + '</div>';
+    html += '<div class="panel ranks">' + (top.length ? rankRows(top.map(function (k) { return questItem(k, qc); }), "Quest", "quests-" + cat) : '<div class="note flat">No quests here yet.</div>') + '</div>';
     var rc = inCat(R), trend = topBy(rc, 10);
-    if (trend.length) html += '<h2>Trending this month</h2><div class="panel ranks">' + rankRows(trend.map(function (k) { return questItem(k, rc); }), "Quest") + '</div>';
+    if (trend.length) html += '<h2>Trending this month</h2><div class="panel ranks">' + rankRows(trend.map(function (k) { return questItem(k, rc); }), "Quest", "trend-" + cat) + '</div>';
     // Hidden gems: quests with a photo in the regions people explore most, that hardly anyone has done yet.
     var dk = dayKey(), mix = function (q) { // a different order every day
       var s = 0, str = q.key + dk;
@@ -2144,11 +2153,11 @@
     var gems = allQuests.filter(function (q) {
       return regs[q.cid] && !Q[q.key] && photoOf(q) && !isDone(q) && (cat === "all" || q.cat === cat);
     }).sort(function (a, b) { return mix(a) - mix(b); }).slice(0, 8);
-    if (gems.length) html += '<h2>Hidden gems</h2><p class="note flat">Few explorers have found these yet.</p><div class="list">' + gems.map(function (q) { return questRow(q); }).join("") + '</div>';
+    if (gems.length) html += '<h2>Hidden gems</h2><p class="note flat">Few explorers have found these yet.</p><div class="list">' + moreList("gems-" + cat, gems.map(function (q) { return questRow(q); }), 4) + '</div>';
     var ctry = community.countries || {};
     html += '<h2>Countries</h2><div class="panel ranks">' + rankRows(topBy(ctry, 20).map(function (n) {
       return { n: ctry[n], attr: "", html: '<b>' + flagHtml(n) + esc(n) + '</b>' };
-    }), "Country") + '</div>';
+    }), "Country", "countries") + '</div>';
     return html + '<p class="note center">Counts come from signed-in explorers, updated once a day. You can leave yourself out in Settings.</p>';
   }
 
@@ -2158,26 +2167,26 @@
       seg("data-stats-view", view, [["you", "You"], ["everyone", "Everyone"]]);
     if (view === "everyone") return html + renderEveryone() + '</div>';
     html += renderYou() + '<h2>Countries</h2><div class="countries">' +
-      Object.keys(cs).map(function (n) {
+      moreList("ctry", Object.keys(cs).sort(function (a, b) { return cs[b].done - cs[a].done || (a === city.country ? -1 : b === city.country ? 1 : a.localeCompare(b)); }).map(function (n) {
         var o = cs[n], pct = o.total ? Math.round((o.done / o.total) * 100) : 0;
         return '<div class="ctry"><div class="ctry-h">' + flagHtml(n) + '<b>' + esc(n) + '</b><span>' + pct + '%</span></div>' + bar(pct) +
           '<small>' + o.done + ' / ' + o.total + ' quests · ' + o.started + ' / ' + o.regions + ' regions</small></div>';
-      }).join("") + '</div>';
+      }), 4) + '</div>';
     html += '<h2>' + flagHtml(city.country) + esc(city.name) + '</h2><div class="panel profile">' + ring(s.pct, true) + '<div class="grow"><div class="lvx">' +
       esc(levelFor(s.pct)) + '</div><div class="ls">' + s.done + ' / ' + s.total + ' quests · ' + (trailsByCity[cityId] || []).filter(trailDone).length + ' trails</div></div></div>' +
       '<div class="panel" style="margin-top:10px">';
     Object.keys(CATS).forEach(function (c) {
       html += meterRow(ic(CATS[c].icon, "sm") + CATS[c].label, stats(city.quests.filter(function (q) { return q.cat === c; })), c);
     });
-    Object.keys(city.areas).forEach(function (a) { html += meterRow(esc(city.areas[a]), stats(inArea(a)), ""); });
+    html += moreList("areas-" + cityId, Object.keys(city.areas).map(function (a) { return meterRow(esc(city.areas[a]), stats(inArea(a)), ""); }), 4);
     html += '</div><h2>All regions</h2><div class="panel">' + regionRows() + '</div><h2>Recent XP</h2><div class="panel">';
-    var gains = p.gains.slice(-8).reverse();
+    var gains = p.gains.slice(-10).reverse();
     if (!gains.length) html += '<div class="note flat">No XP yet. Your first quest also earns New region and New area bonuses.</div>';
-    gains.forEach(function (g) {
-      html += '<div class="gain"><div class="grow"><b>' + esc(g.q.title) + '</b><small>' +
+    html += moreList("gains", gains.map(function (g) {
+      return '<div class="gain"><div class="grow"><b>' + esc(g.q.title) + '</b><small>' +
         g.parts.map(function (x) { return esc(x[0]) + " +" + x[1]; }).join(" · ") + '</small></div><span>+' + g.xp + '</span></div>';
-    });
-    return html + '</div><h2>How XP works</h2><div class="panel"><ul class="rules">' +
+    }), 3);
+    return html + '</div><details class="fold"><summary><h2>How XP works</h2>' + ic("chevron-down", "sm") + '</summary><div class="panel"><ul class="rules">' +
       '<li>Quest +' + XP.quest + ', seasonal +' + XP.seasonal + ', day trip outside the city +' + XP.far + '</li>' +
       '<li>First quest in a new region +' + XP.region + ', in a new area +' + XP.area + '</li>' +
       '<li>Today\'s adventure +' + XP.daily + ', checking in on the spot +' + XP.checkin + '</li>' +
@@ -2185,7 +2194,8 @@
       '<li>Each must-eat dish of a region +' + XP.dish + '</li>' +
       '<li>Your class: +25% on its kind of quest</li>' +
       '<li>Weekly streak: +10% per week in a row, up to +50%</li>' +
-      '<li>Finishing a trail +' + TRAIL_XP + '. Badges: Bronze +100, Silver +200, Gold +400, Special +150</li></ul></div></div>';
+      '<li>Finishing a trail +' + TRAIL_XP + '. Badges: Bronze +100, Silver +200, Gold +400, Special +150</li></ul></div></details>' +
+      '<p class="kofi">Free and made by one person. Enjoying it? <a href="https://ko-fi.com/I2I1N2A1Z" target="_blank" rel="noopener">☕ Buy me a coffee</a></p></div>';
   }
   function ago(t) {
     var s2 = Math.round((Date.now() - t) / 1000);
@@ -2226,7 +2236,8 @@
         '<p class="note">The backup text holds your progress and profile, not your photos. Signing in backs up everything.</p></div>' +
       '<h2>About</h2><div class="panel"><button class="btn ghost" data-act="feedback">' + ic("triangle-alert") + 'Send feedback or report a problem</button>' +
         '<a class="btn ghost" href="privacy.html" target="_blank" rel="noopener">' + ic("lock") + 'Privacy</a>' +
-        '<p class="note">Map data © OpenStreetMap contributors, tiles by OpenFreeMap, place search by Photon (Komoot). Quest photos from Wikimedia Commons under free licences, credited on each quest. Icons by Lucide.</p></div></div>';
+        '<p class="note">Map data © OpenStreetMap contributors, tiles by OpenFreeMap, place search by Photon (Komoot). Quest photos from Wikimedia Commons under free licences, credited on each quest. Icons by Lucide.</p></div>' +
+      '<p class="kofi">City Disco is free, without ads, made by one person. Enjoying it? <a href="https://ko-fi.com/I2I1N2A1Z" target="_blank" rel="noopener">☕ Buy me a coffee</a></p></div>';
   }
 
   // ── Sheets ─────────────────────────────────────────────────
@@ -3005,6 +3016,12 @@
       case "feedback": openReport(null); break;
       case "report-send": sendReport(); break;
       case "report-mail": mailReport(); break;
+      case "more": {
+        var rest = t.previousElementSibling, opening = rest.hidden;
+        rest.hidden = !opening; ui.more = ui.more || {}; ui.more[d.id] = opening;
+        t.classList.toggle("open", opening); t.querySelector("span").textContent = opening ? "Show less" : "Show " + d.n + " more";
+        break;
+      }
       case "share-quest": shareQuest(ui.open); break;
       case "account-delete":
         if (!confirm("Delete your account? Your cloud save, cloud photos and suggestions are removed for good. Progress on this device stays.")) break;

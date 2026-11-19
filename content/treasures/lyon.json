@@ -1,0 +1,8 @@
+{"picks": ["fourviere","longuetraboule","hallesbocuse","perouges","brou"],
+ "cards": {
+  "fourviere": {"name": "Notre-Dame de Fourvière", "art": "church", "slogan": "A white basilica watching over two rivers and a million roofs.", "line": "Lyonnais call it the upside-down elephant; it was built between 1872 and 1884 to a design by Pierre Bossan.", "source": "https://en.wikipedia.org/wiki/Basilica_of_Notre-Dame_de_Fourvi%C3%A8re"},
+  "longuetraboule": {"name": "Traboules of Vieux Lyon", "art": "canalhouses", "slogan": "Secret passages through courtyards, from one street to the next.", "line": "Lyon's first traboules are thought to date from the fourth century, when residents moved toward the Saône; silk workers later used them as shortcuts.", "source": "https://en.wikipedia.org/wiki/Traboule"},
+  "hallesbocuse": {"name": "Halles de Lyon Paul Bocuse", "art": "market", "slogan": "Sixty stalls where Lyon shops, snacks and argues about dinner.", "line": "Opened in 1971 to replace the Cordeliers market, the halls were renamed after chef Paul Bocuse in 2007.", "source": "https://fr.wikipedia.org/wiki/Les_Halles_de_Lyon-Paul_Bocuse"},
+  "perouges": {"name": "Pérouges", "art": "skyline", "slogan": "Cobbled lanes so unspoiled that film crews keep coming back.", "line": "In the 19th century its population fell from 1,500 to 90, before restoration began in 1911.", "source": "https://en.wikipedia.org/wiki/P%C3%A9rouges"},
+  "brou": {"name": "Royal Monastery of Brou", "art": "church", "slogan": "A Flamboyant Gothic love letter carved in white marble.", "line": "Margaret of Austria built it from 1506 to 1532 as the burial place for her husband, Philibert II of Savoy, who died at 24.", "source": "https://en.wikipedia.org/wiki/Royal_Monastery_of_Brou"}
+ }}

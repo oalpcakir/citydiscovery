@@ -1,0 +1,47 @@
+{
+ "picks": [
+  "kdomshrine",
+  "khohenzollern",
+  "kcaugustusburg",
+  "kcaltenberg",
+  "kmoschee"
+ ],
+ "cards": {
+  "kdomshrine": {
+   "name": "Cologne Cathedral",
+   "art": "church",
+   "slogan": "Two spires, 632 years in the making, and the Three Kings inside.",
+   "line": "Begun in 1248 and finished in 1880, it was the tallest building in the world until 1884.",
+   "source": "https://en.wikipedia.org/wiki/Cologne_Cathedral"
+  },
+  "khohenzollern": {
+   "name": "Hohenzollern Bridge",
+   "art": "bridge",
+   "slogan": "Half a million padlocks and a train every minute or so.",
+   "line": "The River Rhine, it is well known, / Doth wash your city of Cologne; / But tell me, Nymphs, what power divine / Shall henceforth wash the river Rhine?",
+   "by": "Samuel Taylor Coleridge, Cologne",
+   "source": "https://en.wikiquote.org/wiki/Cologne"
+  },
+  "kcaugustusburg": {
+   "name": "Augustusburg Palace",
+   "art": "palace",
+   "slogan": "A rococo staircase of marble, jasper and stucco in Brühl.",
+   "line": "Until 1994, Germany's president hosted visiting heads of state here, because the palace stood near the then capital, Bonn.",
+   "source": "https://en.wikipedia.org/wiki/Augustusburg_and_Falkenlust_Palaces,_Br%C3%BChl"
+  },
+  "kcaltenberg": {
+   "name": "Altenberg Cathedral",
+   "art": "church",
+   "slogan": "A Cistercian church in the Dhünn valley, shared by two faiths.",
+   "line": "Founded by Cistercians in 1133, it was rebuilt after a fire in 1815 and made open to both Catholics and Protestants.",
+   "source": "https://en.wikipedia.org/wiki/Altenberg_Cathedral"
+  },
+  "kmoschee": {
+   "name": "Cologne Central Mosque",
+   "art": "church",
+   "slogan": "A glass-and-concrete dome by the Böhms in Ehrenfeld.",
+   "line": "Its two minarets stand 55 metres tall, and the hall holds up to 4,000 worshippers.",
+   "source": "https://en.wikipedia.org/wiki/Cologne_Central_Mosque"
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "picks": [
+  "lxbock",
+  "lxcorniche",
+  "lcviandencastle",
+  "lcbasilica",
+  "lcbelval"
+ ],
+ "cards": {
+  "lxbock": {
+   "name": "Bock Casemates",
+   "art": "castle",
+   "slogan": "Count Siegfried's rock, hollowed out into a labyrinth.",
+   "line": "The best fortress in Europe after Gibraltar.",
+   "by": "Lazare Carnot, to the French National Convention, on Luxembourg",
+   "source": "https://en.wikipedia.org/wiki/Fortress_of_Luxembourg"
+  },
+  "lxcorniche": {
+   "name": "Chemin de la Corniche",
+   "art": "skyline",
+   "slogan": "A promenade on the old ramparts, with the Grund far below.",
+   "line": "The most beautiful balcony of Europe.",
+   "by": "Batty Weber, Luxembourgish writer",
+   "source": "https://www.luxembourg-city.com/en/place/fortification/chemin-de-la-corniche"
+  },
+  "lcviandencastle": {
+   "name": "Vianden Castle",
+   "art": "castle",
+   "slogan": "A ruin that was sold for scrap and rebuilt stone by stone.",
+   "line": "King William I sold it in 1820 to a buyer who stripped it; the State's restoration began in 1977 and finished in 1990.",
+   "source": "https://en.wikipedia.org/wiki/Vianden_Castle"
+  },
+  "lcbasilica": {
+   "name": "Echternach Basilica",
+   "art": "church",
+   "slogan": "Willibrord's abbey, risen again after the 1944 blast.",
+   "line": "Retreating German troops blew up part of the basilica on 26 December 1944; it was re-consecrated in 1953.",
+   "source": "https://en.wikipedia.org/wiki/Echternach_Abbey"
+  },
+  "lcbelval": {
+   "name": "Belval Blast Furnaces",
+   "art": "tower",
+   "slogan": "Rust-red giants over a steel town turned university campus.",
+   "line": "The last blast furnace at Esch-Belval closed in July 1997, freeing 120 hectares for redevelopment.",
+   "source": "https://en.wikipedia.org/wiki/Belval,_Luxembourg"
+  }
+ }
+}

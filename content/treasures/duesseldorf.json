@@ -1,0 +1,47 @@
+{
+ "picks": [
+  "rheinturmuhr",
+  "schwebebahn",
+  "gehrybauten",
+  "muengstenerbruecke",
+  "schlossbenrath"
+ ],
+ "cards": {
+  "rheinturmuhr": {
+   "name": "Rheinturm",
+   "art": "tower",
+   "slogan": "A tower that tells the time in lights above the Rhine.",
+   "line": "The city of Düsseldorf is very beautiful, and if you think of it from afar and happen to have been born there, you feel strangely moved.",
+   "by": "Heinrich Heine, Ideen. Das Buch Le Grand, 1827",
+   "source": "https://www.projekt-gutenberg.org/heine/legrand/chap001.html"
+  },
+  "schwebebahn": {
+   "name": "Wuppertal Schwebebahn",
+   "art": "bridge",
+   "slogan": "A train that hangs from the sky and skims the river.",
+   "line": "In 1950 a circus baby elephant was put on board as a stunt, panicked, and fell into the Wupper; she was named Tuffi afterwards.",
+   "source": "https://en.wikipedia.org/wiki/Wuppertal_Suspension_Railway"
+  },
+  "gehrybauten": {
+   "name": "Gehry Buildings",
+   "art": "cubes",
+   "slogan": "Three crooked towers that sway in the Medienhafen light.",
+   "line": "Frank Gehry's Neuer Zollhof, finished in 1998, wraps white plaster, red brick and stainless steel into three separate bending buildings.",
+   "source": "https://en.wikipedia.org/wiki/Neuer_Zollhof"
+  },
+  "muengstenerbruecke": {
+   "name": "Müngsten Bridge",
+   "art": "bridge",
+   "slogan": "An iron arch that leaps the Wupper valley.",
+   "line": "Opened on 15 July 1897, it rises 107 metres and is the highest railway bridge in Germany.",
+   "source": "https://en.wikipedia.org/wiki/M%C3%BCngsten_Bridge"
+  },
+  "schlossbenrath": {
+   "name": "Benrath Palace",
+   "art": "palace",
+   "slogan": "A pink pleasure palace with its own mirror pond.",
+   "line": "Nicolas de Pigage built it between 1755 and 1770 for Elector Charles Theodor as a pleasure palace, not a seat of government.",
+   "source": "https://en.wikipedia.org/wiki/Benrath_Palace"
+  }
+ }
+}

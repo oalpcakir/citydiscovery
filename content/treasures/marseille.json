@@ -1,0 +1,46 @@
+{
+ "picks": [
+  "mrsnotredamegarde",
+  "mrschateauif",
+  "arlesamphitheatre",
+  "bauxchateau",
+  "aixcoursmirabeau"
+ ],
+ "cards": {
+  "mrsnotredamegarde": {
+   "name": "Notre-Dame de la Garde",
+   "art": "church",
+   "slogan": "La Bonne Mère, gold-leafed and watching every ship in.",
+   "line": "Marseillais call it La Bonne Mère; the gilded Virgin on its bell tower stands 11.2 metres tall.",
+   "source": "https://en.wikipedia.org/wiki/Notre-Dame_de_la_Garde"
+  },
+  "mrschateauif": {
+   "name": "Château d'If",
+   "art": "castle",
+   "slogan": "A tiny island fortress that made a fictional count famous.",
+   "line": "Built by Francis I between 1524 and 1531, it held 3,500 Huguenots, yet no real prisoner is known to have escaped.",
+   "source": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_d%27If"
+  },
+  "arlesamphitheatre": {
+   "name": "Arles Amphitheatre",
+   "art": "castle",
+   "slogan": "Roman arches that once sheltered a whole village.",
+   "line": "Built around 90 AD with 120 arches, it later held over 200 houses and two chapels inside its walls.",
+   "source": "https://en.wikipedia.org/wiki/Arles_Amphitheatre"
+  },
+  "bauxchateau": {
+   "name": "Château des Baux",
+   "art": "castle",
+   "slogan": "A ruined fortress on a cliff where bauxite got its name.",
+   "line": "Bauxite is named after this village, where geologist Pierre Berthier found the ore in the 1820s.",
+   "source": "https://en.wikipedia.org/wiki/Les_Baux-de-Provence"
+  },
+  "aixcoursmirabeau": {
+   "name": "Cours Mirabeau",
+   "art": "skyline",
+   "slogan": "Plane trees, mossy fountains and Aix's longest-running people-watching.",
+   "line": "Laid out in 1650 on a crumbled rampart, this 440 m avenue was a haunt of Cézanne and Zola.",
+   "source": "https://en.wikipedia.org/wiki/Cours_Mirabeau"
+  }
+ }
+}

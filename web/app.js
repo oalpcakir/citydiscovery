@@ -52,14 +52,20 @@
   var ui = { tab: "map", cat: "all", area: "all", show: "todo", qview: "all", q: "", near: false, pos: null, open: null, trail: null };
 
   // All regions' quests in one list; each knows its region (cid) and storage key.
-  var allQuests = [], byKey = {};
+  var allQuests = [], byKey = {}, dishByKey = {};
   Object.keys(cities).forEach(function (id, i) {
     cities[id].color = (window.REGION_COLORS && window.REGION_COLORS[id]) || FALLBACK_COLORS[i % FALLBACK_COLORS.length];
     cities[id].quests.forEach(function (q) {
       q.cid = id; q.key = id + "/" + q.id;
       allQuests.push(q); byKey[q.key] = q;
     });
+    // Must-eat dishes (web/dishes.js): eaten anywhere in the region, ticked off like a quest under "<id>/dish:<dish id>".
+    cities[id].dishes = ((window.DISHES || {})[id] || []).map(function (d) {
+      d.cid = id; d.key = id + "/dish:" + d.id; dishByKey[d.key] = d;
+      return d;
+    });
   });
+  function dishEaten(d) { var r = store.done[d.key]; return !!(r && r.at); }
 
   function ic(name, cls) {
     return '<svg class="ic' + (cls ? " " + cls : "") + '" viewBox="0 0 24 24" aria-hidden="true">' + (ICONS[name] || "") + '</svg>';
@@ -174,6 +180,9 @@
     single("ten", "🔟", "Warm-up", "Complete 10 quests here", done.length, Math.min(10, c.quests.length));
     single("half", "🧭", "Halfway There", "Complete half of all quests here", done.length, Math.ceil(c.quests.length / 2));
     single("everywhere", "🗺️", "All Corners", "Complete a quest in every area", touched, areaKeys.length);
+    if (c.dishes && c.dishes.length) {
+      single("palate", "🍽️", "Local Palate", "Eat all " + c.dishes.length + " must-eat dishes", c.dishes.filter(dishEaten).length, c.dishes.length);
+    }
     single("fullday", "⚡", "Packed Day", "Complete 3 quests in one day", bestDay, 3);
     single("season", "🍂", "Season Hunter", "Complete 3 seasonal quests", done.filter(function (q) { return q.months; }).length, 3);
     single("diary", "📓", "Diary Keeper", "Write notes on 5 quests", count(function (r) { return r.note; }), 5);
@@ -243,7 +252,8 @@
     return t;
   }
   // Best short route through a pool: nearest-neighbour from several starts, then 2-opt to untangle it.
-  function bestRoute(pool, minStops, maxStops, maxKm) {
+  // `fits(route, q)`, when given, says whether q may join the route (used to keep a taste trail eatable).
+  function bestRoute(pool, minStops, maxStops, maxKm, fits) {
     pool = pool.filter(ll);
     if (pool.length < minStops) return null;
     var best = null;
@@ -252,7 +262,7 @@
       while (route.length < maxStops) {
         var last = route[route.length - 1], pick = null, pd = Infinity;
         pool.forEach(function (q) {
-          if (route.indexOf(q) !== -1) return;
+          if (route.indexOf(q) !== -1 || (fits && !fits(route, q))) return;
           var d = km(ll(last), ll(q));
           if (d < pd) { pd = d; pick = q; }
         });
@@ -287,6 +297,24 @@
     var top = Object.keys(count).sort(function (a, b) { return count[b] - count[a]; })[0];
     return top && count[top] >= 2 ? top : null;
   }
+  // A taste trail has to be eatable in one afternoon: one proper meal, one drink, one sweet, one coffee, two snacks.
+  // `kind` is set on eat & drink quests by tools/food_kinds.py.
+  var TASTE_MAX = { meal: 1, drink: 1, sweet: 1, coffee: 1, snack: 2 };
+  function tasteFits(route, q) {
+    var k = q.kind || "meal";
+    return route.filter(function (x) { return (x.kind || "meal") === k; }).length < (TASTE_MAX[k] || 1);
+  }
+  function tasteSub(route) {
+    var n = {}, parts = [];
+    route.forEach(function (q) { var k = q.kind || "meal"; n[k] = (n[k] || 0) + 1; });
+    if (n.coffee) parts.push("coffee");
+    if (n.snack) parts.push(n.snack > 1 ? "two snacks" : "a snack");
+    if (n.sweet) parts.push("something sweet");
+    if (n.meal) parts.push("one proper meal");
+    if (n.drink) parts.push("a local drink");
+    var last = parts.pop();
+    return "An eating walk: " + (parts.length ? parts.join(", ") + " and " + last : last);
+  }
   (function buildTrails() {
     Object.keys(cities).forEach(function (id) {
       // Seasonal quests (events, markets) stay out: a trail should work on any day.
@@ -301,8 +329,8 @@
         var pool = inCity.filter(function (q) { return q.area === a && q.cat !== "ye"; });
         add("walk:" + a, "footprints", c.areas[a] + " highlights", "The best sights and things to do in " + c.areas[a] + ", on foot", bestRoute(pool, 4, 7, 3.2));
       });
-      add("taste", "utensils", "Taste of " + c.name, "A food and drink crawl: local dishes, snacks and drinks",
-        bestRoute(inCity.filter(function (q) { return q.cat === "ye"; }), 4, 6, 3.5));
+      var taste = bestRoute(inCity.filter(function (q) { return q.cat === "ye"; }), 4, 6, 3.5, tasteFits);
+      if (taste) add("taste", "utensils", "Taste of " + c.name, tasteSub(taste), taste);
       add("rain", "cloud", "Rainy day in " + c.name, "Indoor stops for a grey day",
         bestRoute(inCity.filter(function (q) { return (q.tags || []).indexOf("rainy day") !== -1; }), 3, 5, 4));
       // Day outs: towns in the surroundings with three or more quests close together
@@ -312,8 +340,10 @@
         if (g) g.push(q); else groups.push([q]);
       });
       groups.filter(function (g) { return g.length >= 3; }).sort(function (a, b) { return b.length - a.length; }).slice(0, 4).forEach(function (g, i) {
-        var town = townOf(g);
-        add("day:" + i, "map", town ? town + " day out" : "Day out: " + g[0].title, "A day trip: " + g.length + " quests close together" + (town ? " in and around " + town : ""), bestRoute(g, 3, 6, 6));
+        // A hand-picked name (trailNames in the region file, keyed by any quest of the group) beats a guessed town.
+        var named = g.map(function (q) { return (c.trailNames || {})[q.id]; }).filter(Boolean)[0], town = townOf(g);
+        var name = named || (town ? town + " day out" : "Day out: " + g[0].title);
+        add("day:" + i, "map", name, "A day trip from " + c.name + ": " + g.length + " quests close together", bestRoute(g, 3, 6, 6));
       });
       list.forEach(function (t, i) {
         t.km = routeKm(t.quests) * 1.3;
@@ -387,7 +417,7 @@
 
   // ── RPG progression ────────────────────────────────────────
   // One hero across all regions. XP comes from quests (with bonuses), badges and trails; levels follow a curve.
-  var XP = { quest: 100, seasonal: 50, far: 50, area: 50, region: 150, journal: 25, photo: 25, checkin: 50, daily: 50 };
+  var XP = { quest: 100, seasonal: 50, far: 50, area: 50, region: 150, journal: 25, photo: 25, checkin: 50, daily: 50, dish: 50 };
   var TITLES = [[1, "Wanderer"], [3, "Explorer"], [6, "Pathfinder"], [10, "Trailblazer"], [15, "Navigator"],
     [20, "Cartographer"], [30, "Voyager"], [40, "Lorekeeper"], [55, "Legend"], [75, "Mythic Explorer"]];
   var ATTRS = [
@@ -451,6 +481,8 @@
       if (q.area === "cevre") attr.far += sum;
       gains.push({ q: q, at: e.at, xp: sum, parts: parts, preview: !!e.preview });
     });
+    var dishes = Object.keys(store.done).filter(function (k) { return dishByKey[k] && store.done[k].at; }).length;
+    xp += dishes * XP.dish; attr.ye += dishes * XP.dish;
     var bxp = 0, earned = 0;
     Object.keys(cities).forEach(function (id) {
       badges(cities[id]).forEach(function (b) { bxp += badgeXp(b); earned += b.tier; });
@@ -462,7 +494,7 @@
     info.xp = total; info.badgeXp = bxp; info.badges = earned; info.attr = attr; info.gains = gains; info.trails = tdone;
     info.streak = streakNow; info.thisWeek = !!weeks[now];
     info.regions = Object.keys(seenRegion).length; info.areas = Object.keys(seenArea).length;
-    info.quests = log.filter(function (e) { return !e.preview; }).length;
+    info.quests = log.filter(function (e) { return !e.preview; }).length; info.dishes = dishes;
     return info;
   }
   function heroTitle(p) {
@@ -1685,9 +1717,38 @@
       '<div class="m">' + esc(t.sub) + '</div><div class="m">' + t.quests.length + ' stops · ' + trailKmText(t) + ' · ' + trailTime(t) + ' · ' + (s.done === s.total ? "Complete" : s.done + " / " + s.total + " done") + '</div>' + bar(s.pct) + '</div>' +
       '<span class="xp">+' + TRAIL_XP + '</span></button>';
   }
+  // Quests in this region that mention a dish, so you know where to try it.
+  function dishSpots(d) {
+    var kw = (d.kw || []).map(fold).filter(Boolean);
+    if (!kw.length) return [];
+    return city.quests.filter(function (q) {
+      if (q.cat !== "ye") return false;
+      var t = fold(q.title + " " + q.desc);
+      return kw.some(function (k) { return t.indexOf(k) !== -1; });
+    }).slice(0, 3);
+  }
+  function dishesHtml() {
+    var list = city.dishes || [];
+    if (!list.length) return '<div class="empty">' + ic("utensils", "big") + '<br>Nothing around here yet.<br>Must-eat dishes for ' + esc(city.name) + ' are on their way.</div>';
+    var eaten = list.filter(dishEaten).length;
+    return '<div class="panel dishhead"><div class="grow"><b>' + eaten + ' / ' + list.length + ' eaten</b>' +
+      '<small>The dishes that make ' + esc(city.name) + '. Eat them anywhere in the region: +' + XP.dish + ' XP each, all ' + list.length + ' earn the Local Palate badge.</small>' +
+      bar(Math.round((eaten / list.length) * 100), "xp") + '</div></div>' +
+      list.map(function (d) {
+        var on = dishEaten(d), spots = dishSpots(d);
+        return '<div class="dish' + (on ? " done" : "") + '"><span class="dish-i">' + d.icon + '</span><div class="grow">' +
+          '<div class="t">' + esc(d.name) + (d.local && d.local !== d.name ? ' <small>' + esc(d.local) + '</small>' : "") + '</div>' +
+          '<p>' + esc(d.desc) + '</p>' +
+          (spots.length ? '<div class="spots"><span>Try it at</span>' + spots.map(function (q) {
+            return '<button class="chip" data-open="' + esc(q.key) + '">' + esc(q.title.replace(/^.*\bat\s+/, "")) + '</button>';
+          }).join("") + '</div>' : "") + '</div>' +
+          '<button class="check' + (on ? " on" : "") + '" data-dish="' + esc(d.key) + '" aria-pressed="' + on + '" aria-label="' +
+            (on ? "Mark " + esc(d.name) + " as not eaten" : "I ate " + esc(d.name)) + '">' + ic("check") + '</button></div>';
+      }).join("");
+  }
   function renderQuests() {
     var s = stats(city.quests), html = head(city.name, s.done + " of " + s.total + " quests done", { picker: true }) +
-      '<div class="filters">' + seg("data-qview", ui.qview, [["all", "Quests"], ["trails", "Trails"], ["saved", "Saved"]]);
+      '<div class="filters">' + seg("data-qview", ui.qview, [["all", "Quests"], ["trails", "Trails"], ["dishes", "Must-eats"], ["saved", "Saved"]]);
     if (ui.qview === "all") {
       html += '<div class="searchrow"><label class="search">' + ic("search") + '<input id="qsearch" type="search" placeholder="Search ' + esc(city.name) +
         '" value="' + esc(ui.q) + '" autocomplete="off"></label>' +
@@ -1698,6 +1759,8 @@
       var list = trailsByCity[cityId] || [];
       html += '</div><div class="list"><p class="note flat">Short walks through quests that sit close together. Finish every stop for +' + TRAIL_XP + ' XP.</p>' +
         (list.length ? list.map(trailCard).join("") : '<div class="empty">No trails in this region yet.</div>') + '</div>';
+    } else if (ui.qview === "dishes") {
+      html += '</div><div class="list">' + dishesHtml() + '</div>';
     } else {
       var saved = allQuests.filter(isSaved).sort(function (a, b) { return store.saved[b.key] - store.saved[a.key]; });
       html += '</div><div class="list">' + (saved.length ? saved.map(function (q) { return questRow(q, { region: true }); }).join("")
@@ -2017,6 +2080,7 @@
       '<li>First quest in a new region +' + XP.region + ', in a new area +' + XP.area + '</li>' +
       '<li>Today\'s adventure +' + XP.daily + ', checking in on the spot +' + XP.checkin + '</li>' +
       '<li>A journal note +' + XP.journal + ', a photo +' + XP.photo + '</li>' +
+      '<li>Each must-eat dish of a region +' + XP.dish + '</li>' +
       '<li>Your class: +25% on its kind of quest</li>' +
       '<li>Weekly streak: +10% per week in a row, up to +50%</li>' +
       '<li>Finishing a trail +' + TRAIL_XP + '. Badges: Bronze +100, Silver +200, Gold +400, Special +150</li></ul></div></div>';
@@ -2187,6 +2251,25 @@
       unlocks: UNLOCKS.filter(function (u) { return u.level > before.level && u.level <= after.level; }),
       trails: trails.filter(function (t) { return trailDone(t) && beforeTrails.indexOf(t) === -1; })
     };
+  }
+  // Ticks a must-eat dish on or off. Small reward on the spot; finishing the list earns Local Palate.
+  function toggleDish(key) {
+    var d = dishByKey[key];
+    if (!d) return;
+    var c = cities[d.cid], before = progress(), had = earnedKeys(badges(c)), r = store.done[key] || {};
+    r.at = r.at ? 0 : Date.now(); r.u = Date.now(); store.done[key] = r;
+    save();
+    if (!r.at) { toast("Marked as not eaten"); render(); return; }
+    var after = progress(), gained = after.xp - before.xp;
+    var fresh = badges(c).filter(function (b) { return b.tier && !had[b.id + ":" + b.tier]; });
+    render();
+    if (fresh.length) {
+      toast(fresh[0].icon + " " + fresh[0].name + " · +" + gained + " XP");
+      chime(true); buzz([30, 50, 80]); confetti(false);
+    } else {
+      toast(d.icon + " " + d.name + " eaten · +" + gained + " XP");
+      chime(false); buzz(25);
+    }
   }
   function checkIn(key) {
     var q = byKey[key];
@@ -2638,7 +2721,7 @@
   }
 
   // ── Events ─────────────────────────────────────────────────
-  var SEL = "[data-goto-region],[data-goto-place],[data-toggle],[data-open],[data-f],[data-tab],[data-act],[data-city],[data-theme-set],[data-pick],[data-photo-id],[data-qview],[data-trail],[data-stats-view],[data-ev-cat]";
+  var SEL = "[data-dish],[data-goto-region],[data-goto-place],[data-toggle],[data-open],[data-f],[data-tab],[data-act],[data-city],[data-theme-set],[data-pick],[data-photo-id],[data-qview],[data-trail],[data-stats-view],[data-ev-cat]";
   document.addEventListener("click", function (e) {
     var t = e.target.closest(SEL);
     if (document.getElementById("ctxmenu") && !(t && t.closest("#ctxmenu"))) closeCtx();
@@ -2652,6 +2735,7 @@
       showComplete(res);
       return;
     }
+    if (d.dish) { toggleDish(d.dish); return; }
     if (d.photoId) { openPhoto(d.photoId, d.photoKey); return; }
     if (d.gotoRegion) { gotoRegion(d.gotoRegion); return; }
     if (d.gotoPlace) {

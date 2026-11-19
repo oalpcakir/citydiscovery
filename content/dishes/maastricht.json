@@ -1,0 +1,47 @@
+{
+ "region": "maastricht",
+ "dishes": [
+  {
+   "id": "maastricht-limburgse-vlaai",
+   "name": "Limburgse vlaai",
+   "local": "",
+   "icon": "🥧",
+   "desc": "Wide, shallow fruit pie with a yeast base. The pride of Limburg's bakeries, with cherry and apricot as favourites.",
+   "kw": [
+    "vlaai"
+   ]
+  },
+  {
+   "id": "maastricht-rijstevlaai",
+   "name": "Rijstevlaai",
+   "local": "",
+   "icon": "🥧",
+   "desc": "Vlaai filled with sweet rice pudding. A Limburg classic.",
+   "kw": [
+    "rijstevlaai"
+   ]
+  },
+  {
+   "id": "maastricht-zoervleisj",
+   "name": "Maastrichts zoervleisj",
+   "local": "Zoervleisj",
+   "icon": "🥩",
+   "desc": "Marinated beef stew in vinegar, onion and gingerbread. Served in Maastricht restaurants with fries or bread.",
+   "kw": [
+    "zoervleisj",
+    "zuurvlees"
+   ]
+  },
+  {
+   "id": "maastricht-limburgse-appelstroop",
+   "name": "Limburg appelstroop",
+   "local": "Appelstroop",
+   "icon": "🍎",
+   "desc": "Thick apple syrup from Limburg orchards, spread on bread. A regional pantry staple.",
+   "kw": [
+    "appelstroop",
+    "stroop"
+   ]
+  }
+ ]
+}

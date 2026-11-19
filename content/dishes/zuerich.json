@@ -1,0 +1,57 @@
+{
+  "region": "zuerich",
+  "dishes": [
+    {
+      "id": "zuerich-geschnetzeltes",
+      "name": "Zürcher Geschnetzeltes",
+      "local": "",
+      "icon": "🍽️",
+      "desc": "Thin-sliced veal in a cream, mushroom and white wine sauce, served with rösti. The city's best-known dish and a staple of its old restaurants.",
+      "kw": [
+        "geschnetzeltes"
+      ]
+    },
+    {
+      "id": "zuerich-bircher",
+      "name": "Bircher muesli",
+      "local": "Birchermüesli",
+      "icon": "🥣",
+      "desc": "Oats soaked with apple, yoghurt and nuts. Zürich doctor Bircher-Brenner created it around 1900, and the city's cafés still serve it.",
+      "kw": [
+        "bircher",
+        "birchermüesli"
+      ]
+    },
+    {
+      "id": "zuerich-tirggel",
+      "name": "Tirggel",
+      "local": "",
+      "icon": "🍪",
+      "desc": "Very thin, hard honey biscuit pressed with old pictorial moulds. A Zürich Christmas speciality, found in bakeries from autumn.",
+      "kw": [
+        "tirggel"
+      ]
+    },
+    {
+      "id": "zuerich-luxemburgerli",
+      "name": "Luxemburgerli",
+      "local": "",
+      "icon": "🍬",
+      "desc": "Tiny, airy macaron-like almond meringues, made by a Zürich confectioner since the 1950s. Sold by the box in the city's shops.",
+      "kw": [
+        "luxemburgerli"
+      ]
+    },
+    {
+      "id": "zuerich-eintopf",
+      "name": "Zürcher Eintopf",
+      "local": "",
+      "icon": "🍲",
+      "desc": "Pork and cabbage stew, a traditional Zürich winter dish. It is served in old guild restaurants in the old town.",
+      "kw": [
+        "eintopf",
+        "zürcher eintopf"
+      ]
+    }
+  ]
+}

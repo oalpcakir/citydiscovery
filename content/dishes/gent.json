@@ -1,0 +1,58 @@
+{
+ "region": "gent",
+ "dishes": [
+  {
+   "id": "gent-waterzooi",
+   "name": "Gentse waterzooi",
+   "local": "",
+   "icon": "🍲",
+   "desc": "Creamy stew of chicken or fish with leek, carrot and potato. Born in Ghent, where chicken has replaced the old river fish.",
+   "kw": [
+    "waterzooi"
+   ]
+  },
+  {
+   "id": "gent-neuzen",
+   "name": "Gentse neuzen",
+   "local": "",
+   "icon": "🍬",
+   "desc": "Raspberry-flavoured jelly sweets shaped like noses, made in Ghent since the 1800s and sold in the old centre.",
+   "kw": [
+    "neuzen",
+    "neus"
+   ]
+  },
+  {
+   "id": "gent-cuberdon",
+   "name": "Cuberdon",
+   "local": "Gentse neus / cuberdon",
+   "icon": "🍬",
+   "desc": "Cone-shaped purple sweet with a hard shell and runny raspberry centre. Locals call them neuzen, and they are strongly linked to Ghent.",
+   "kw": [
+    "cuberdon"
+   ]
+  },
+  {
+   "id": "gent-hutsepot",
+   "name": "Hutsepot",
+   "local": "",
+   "icon": "🍲",
+   "desc": "Slow-cooked stew of pork and vegetables, a winter dish of Ghent with roots in the 1300s. Still on menus of old taverns.",
+   "kw": [
+    "hutsepot"
+   ]
+  },
+  {
+   "id": "gent-tierenteyn",
+   "name": "Tierenteyn mustard",
+   "local": "Tierenteyn-Verlent mosterd",
+   "icon": "🌭",
+   "desc": "Strong grainy mustard from a Ghent shop open since 1790, sold from the barrel. Eaten with cold cuts and stoverij.",
+   "kw": [
+    "mustard",
+    "mosterd",
+    "tierenteyn"
+   ]
+  }
+ ]
+}

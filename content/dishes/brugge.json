@@ -1,0 +1,63 @@
+{
+ "region": "brugge",
+ "dishes": [
+  {
+   "id": "brugge-garnaalkroket",
+   "name": "Shrimp croquette",
+   "local": "Garnaalkroket",
+   "icon": "🍤",
+   "desc": "Crisp-fried croquette filled with creamy grey North Sea shrimp. A fixture of Flemish coast and Bruges restaurant menus.",
+   "kw": [
+    "garnaalkroket",
+    "shrimp croquette",
+    "croquette"
+   ]
+  },
+  {
+   "id": "brugge-paling",
+   "name": "Eel in green sauce",
+   "local": "Paling in 't groen",
+   "icon": "🐟",
+   "desc": "Eel stewed in a sauce of fresh green herbs, a Flemish dish from the coast and rivers of West Flanders. Served with fries or bread.",
+   "kw": [
+    "paling",
+    "eel"
+   ]
+  },
+  {
+   "id": "brugge-mosselen",
+   "name": "Mussels with fries",
+   "local": "Mosselen met friet",
+   "icon": "🦪",
+   "desc": "Steamed mussels in celery and onion broth served with a bowl of fries. Belgium's best-known meal, eaten along the coast and in Bruges from late summer.",
+   "kw": [
+    "mosselen",
+    "mussels",
+    "moules"
+   ]
+  },
+  {
+   "id": "brugge-oostendse-tong",
+   "name": "Ostend sole",
+   "local": "Oostendse tong",
+   "icon": "🐟",
+   "desc": "Dover sole from the Ostend fleet, pan-fried in butter and served whole with potatoes. The classic dish of the Flemish coast.",
+   "kw": [
+    "tong",
+    "sole"
+   ]
+  },
+  {
+   "id": "brugge-chocolates",
+   "name": "Bruges chocolates",
+   "local": "",
+   "icon": "🍫",
+   "desc": "Hand-made chocolates and pralines, many shaped as swans or lace patterns, sold in the centre's small chocolate workshops.",
+   "kw": [
+    "praline",
+    "chocolate",
+    "chocolaterie"
+   ]
+  }
+ ]
+}

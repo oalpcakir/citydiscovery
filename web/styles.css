@@ -551,6 +551,20 @@ body.card-open .nearpanel { display: none; }
 .scard { border-color: color-mix(in srgb, var(--spark) 45%, var(--line)); background: linear-gradient(180deg, var(--card) 60%, var(--spark-soft)); }
 .scard .sleft { background: var(--spark); color: #3d2a00; } .scard .sleft.soon { background: #dc2626; color: #fff; }
 
+/* ── Must-eat dishes ── */
+.dishhead { display: flex; gap: 12px; background: var(--game); border: 1px solid var(--game-line); }
+.dishhead b { font-family: var(--f-display); font-size: 19px; font-variant-numeric: tabular-nums; } .dishhead small { display: block; color: var(--muted); font-size: 12.5px; margin-top: 2px; }
+.dish { display: flex; gap: 12px; align-items: flex-start; background: var(--card); border-radius: 20px; padding: 12px 6px 12px 12px; box-shadow: var(--shadow-sm); }
+.dish-i { flex: none; width: 52px; height: 52px; border-radius: 16px; display: grid; place-items: center; font-size: 28px; background: color-mix(in srgb, var(--ye) 13%, var(--card)); }
+.dish .t { font-weight: 700; font-size: 15.5px; line-height: 1.25; } .dish .t small { font-weight: 500; color: var(--muted); font-size: 12.5px; font-style: italic; }
+.dish p { margin: 3px 0 0; font-size: 13.5px; color: var(--muted); line-height: 1.4; }
+.dish .check { align-self: center; }
+.dish.done .dish-i { background: var(--accent-soft); } .dish.done .t { color: var(--muted); }
+.spots { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin-top: 8px; }
+.spots span { font-size: 11.5px; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; }
+.spots .chip { min-height: 30px; font-size: 12.5px; padding: 0 10px; box-shadow: none; max-width: 100%; overflow: hidden; text-overflow: ellipsis; }
+.seg button { white-space: nowrap; }
+
 /* Completion: region progress row */
 .qc-reg { display: flex; align-items: center; gap: 10px; font-size: 12.5px; font-weight: 700; color: var(--muted); margin: 0 0 10px; }
 .qc-reg span:first-child { flex: none; max-width: 40%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }

@@ -1,0 +1,55 @@
+{
+  "region": "mannheim",
+  "dishes": [
+    {
+      "id": "mannheim-saumagen",
+      "name": "Saumagen",
+      "local": "",
+      "icon": "🍖",
+      "desc": "Pork, potato and spice stuffing cooked in a pig's stomach, sliced and fried, served with sauerkraut. A Palatinate dish that Mannheim shares as the region's big city.",
+      "kw": [
+        "saumagen"
+      ]
+    },
+    {
+      "id": "mannheim-mannemer-dreck",
+      "name": "Mannemer Dreck",
+      "local": "",
+      "icon": "🍬",
+      "desc": "Chocolate-coated macaroon sweet invented in Mannheim in 1862. A local confection with a deliberately cheeky name.",
+      "kw": [
+        "mannemer dreck"
+      ]
+    },
+    {
+      "id": "mannheim-dampfnudeln",
+      "name": "Dampfnudeln with wine sauce",
+      "local": "Dampfnudeln mit Weinschaum",
+      "icon": "🍞",
+      "desc": "Yeast dumplings steamed and browned in the pan, with a crisp base, served with warm wine custard. A Palatinate Sunday dish.",
+      "kw": [
+        "dampfnudel"
+      ]
+    },
+    {
+      "id": "mannheim-pfaelzer-leberknoedel",
+      "name": "Palatinate Leberknödel",
+      "local": "Pfälzer Leberknödel",
+      "icon": "🍲",
+      "desc": "Liver dumplings with sauerkraut and potatoes. Standard fare in Kurpfalz taverns around the Rhine-Neckar.",
+      "kw": [
+        "leberknödel"
+      ]
+    },
+    {
+      "id": "mannheim-zwiebelkuchen",
+      "name": "Zwiebelkuchen",
+      "local": "",
+      "icon": "🥧",
+      "desc": "Savoury tart of onions, bacon and cream on yeast dough, served in autumn. A Palatinate wine-region tradition.",
+      "kw": [
+        "zwiebelkuchen"
+      ]
+    }
+  ]
+}

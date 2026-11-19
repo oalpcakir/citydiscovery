@@ -1,0 +1,46 @@
+{
+ "region": "zwolle",
+ "dishes": [
+  {
+   "id": "zwolle-zwolse-balletjes",
+   "name": "Zwolse balletjes",
+   "local": "",
+   "icon": "🍬",
+   "desc": "Small pillow-shaped sweet candies sold in Zwolle since 1845. In flavours like mandarin and mocha.",
+   "kw": [
+    "balletjes"
+   ]
+  },
+  {
+   "id": "zwolle-zwollenaartjes",
+   "name": "Zwollenaartjes",
+   "local": "",
+   "icon": "🥐",
+   "desc": "Hazelnut meringue pastries with mocha cream. A Zwolle patisserie speciality.",
+   "kw": [
+    "zwollenaartje"
+   ]
+  },
+  {
+   "id": "zwolle-deventer-koek",
+   "name": "Deventer koek",
+   "local": "",
+   "icon": "🍞",
+   "desc": "Dense spiced cake from nearby Deventer, sliced and buttered. A classic from Overijssel.",
+   "kw": [
+    "deventer koek"
+   ]
+  },
+  {
+   "id": "zwolle-boerenkool-stamppot",
+   "name": "Boerenkool stamppot",
+   "local": "",
+   "icon": "🥬",
+   "desc": "Mashed potato with kale and smoked sausage. Served in winter in Zwolle restaurants.",
+   "kw": [
+    "boerenkool",
+    "stamppot"
+   ]
+  }
+ ]
+}

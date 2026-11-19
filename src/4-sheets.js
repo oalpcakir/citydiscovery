@@ -123,6 +123,25 @@
       trails: trails.filter(function (t) { return trailDone(t) && beforeTrails.indexOf(t) === -1; })
     };
   }
+  // Ticks a must-eat dish on or off. Small reward on the spot; finishing the list earns Local Palate.
+  function toggleDish(key) {
+    var d = dishByKey[key];
+    if (!d) return;
+    var c = cities[d.cid], before = progress(), had = earnedKeys(badges(c)), r = store.done[key] || {};
+    r.at = r.at ? 0 : Date.now(); r.u = Date.now(); store.done[key] = r;
+    save();
+    if (!r.at) { toast("Marked as not eaten"); render(); return; }
+    var after = progress(), gained = after.xp - before.xp;
+    var fresh = badges(c).filter(function (b) { return b.tier && !had[b.id + ":" + b.tier]; });
+    render();
+    if (fresh.length) {
+      toast(fresh[0].icon + " " + fresh[0].name + " · +" + gained + " XP");
+      chime(true); buzz([30, 50, 80]); confetti(false);
+    } else {
+      toast(d.icon + " " + d.name + " eaten · +" + gained + " XP");
+      chime(false); buzz(25);
+    }
+  }
   function checkIn(key) {
     var q = byKey[key];
     if (!q || !ll(q)) return;
@@ -573,7 +592,7 @@
   }
 
   // ── Events ─────────────────────────────────────────────────
-  var SEL = "[data-goto-region],[data-goto-place],[data-toggle],[data-open],[data-f],[data-tab],[data-act],[data-city],[data-theme-set],[data-pick],[data-photo-id],[data-qview],[data-trail],[data-stats-view],[data-ev-cat]";
+  var SEL = "[data-dish],[data-goto-region],[data-goto-place],[data-toggle],[data-open],[data-f],[data-tab],[data-act],[data-city],[data-theme-set],[data-pick],[data-photo-id],[data-qview],[data-trail],[data-stats-view],[data-ev-cat]";
   document.addEventListener("click", function (e) {
     var t = e.target.closest(SEL);
     if (document.getElementById("ctxmenu") && !(t && t.closest("#ctxmenu"))) closeCtx();
@@ -587,6 +606,7 @@
       showComplete(res);
       return;
     }
+    if (d.dish) { toggleDish(d.dish); return; }
     if (d.photoId) { openPhoto(d.photoId, d.photoKey); return; }
     if (d.gotoRegion) { gotoRegion(d.gotoRegion); return; }
     if (d.gotoPlace) {

@@ -1,0 +1,58 @@
+{
+  "region": "stuttgart",
+  "dishes": [
+    {
+      "id": "stuttgart-maultaschen",
+      "name": "Maultaschen",
+      "local": "",
+      "icon": "🥟",
+      "desc": "Large filled pasta squares with minced meat, spinach and onion, served in broth or pan-fried with egg. The best-known Swabian dish.",
+      "kw": [
+        "maultaschen"
+      ]
+    },
+    {
+      "id": "stuttgart-linsen-spaetzle",
+      "name": "Lentils with spaetzle",
+      "local": "Linsen mit Spätzle",
+      "icon": "🍲",
+      "desc": "Stewed lentils with vinegar, soft egg noodles and a pair of Saitenwürstle sausages. Stuttgart's everyday signature plate.",
+      "kw": [
+        "linsen",
+        "spätzle"
+      ]
+    },
+    {
+      "id": "stuttgart-gaisburger-marsch",
+      "name": "Gaisburger Marsch",
+      "local": "",
+      "icon": "🍲",
+      "desc": "Beef stew with potatoes and spätzle, topped with onions. Named after the Gaisburg district of Stuttgart.",
+      "kw": [
+        "gaisburger marsch"
+      ]
+    },
+    {
+      "id": "stuttgart-zwiebelrostbraten",
+      "name": "Zwiebelrostbraten",
+      "local": "",
+      "icon": "🥩",
+      "desc": "Pan-fried roast beef with a rich gravy and crispy onions, served with spätzle. A Swabian tavern classic.",
+      "kw": [
+        "rostbraten",
+        "zwiebelrostbraten"
+      ]
+    },
+    {
+      "id": "stuttgart-filderkraut",
+      "name": "Filderkraut",
+      "local": "",
+      "icon": "🥬",
+      "desc": "Pointed cabbage from the Filder plateau, braised with bacon or served as a side. Stuttgart's own protected local cabbage.",
+      "kw": [
+        "filderkraut",
+        "filder"
+      ]
+    }
+  ]
+}

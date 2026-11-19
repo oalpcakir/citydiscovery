@@ -1,0 +1,55 @@
+{
+ "region": "hamburg",
+ "dishes": [
+  {
+   "id": "hamburg-labskaus",
+   "name": "Labskaus",
+   "local": "",
+   "icon": "🥘",
+   "desc": "Sailor's mash of corned beef, potatoes and beetroot topped with fried egg and rollmops. Hamburg's best-known harbour dish.",
+   "kw": [
+    "labskaus"
+   ]
+  },
+  {
+   "id": "hamburg-franzbroetchen",
+   "name": "Franzbrötchen",
+   "local": "",
+   "icon": "🥐",
+   "desc": "Cinnamon-sugar pastry rolled and flattened like a croissant, found in every Hamburg bakery.",
+   "kw": [
+    "franzbrötchen"
+   ]
+  },
+  {
+   "id": "hamburg-rundstueck",
+   "name": "Rundstück warm",
+   "local": "",
+   "icon": "🥪",
+   "desc": "Warm roast pork in a crusty roll with gravy, a Hamburg lunchtime classic.",
+   "kw": [
+    "rundstück"
+   ]
+  },
+  {
+   "id": "hamburg-aalsuppe",
+   "name": "Hamburger Aalsuppe",
+   "local": "",
+   "icon": "🍲",
+   "desc": "Sweet-sour soup with eel, vegetables, dried fruit and dumplings, a signature harbour-city recipe.",
+   "kw": [
+    "aalsuppe"
+   ]
+  },
+  {
+   "id": "hamburg-pannfisch",
+   "name": "Pannfisch",
+   "local": "",
+   "icon": "🐟",
+   "desc": "Pan-fried fish with mustard sauce and fried potatoes, a north German tavern classic of the harbour.",
+   "kw": [
+    "pannfisch"
+   ]
+  }
+ ]
+}

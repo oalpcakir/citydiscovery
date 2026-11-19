@@ -1,0 +1,70 @@
+{
+ "region": "luik",
+ "dishes": [
+  {
+   "id": "luik-luikse-wafel",
+   "name": "Liège waffle",
+   "local": "Gaufre de Liège",
+   "icon": "🧇",
+   "desc": "Dense, chewy yeast waffle with caramelised pearl sugar, eaten warm from street stalls. It is Liège's best-known food.",
+   "kw": [
+    "liège waffle",
+    "liege waffle",
+    "gaufre"
+   ]
+  },
+  {
+   "id": "luik-boulets",
+   "name": "Boulets liégeois",
+   "local": "Boulets à la liégeoise",
+   "icon": "🍖",
+   "desc": "Large meatballs in a sweet-sour sauce of Liège syrup, onion and apple, served with fries.",
+   "kw": [
+    "boulets",
+    "boulet"
+   ]
+  },
+  {
+   "id": "luik-salade-liegeoise",
+   "name": "Salade liégeoise",
+   "local": "",
+   "icon": "🥗",
+   "desc": "Warm salad of green beans, potatoes, bacon and vinegar, a Liège home dish.",
+   "kw": [
+    "salade liégeoise",
+    "liégeoise"
+   ]
+  },
+  {
+   "id": "luik-herve",
+   "name": "Herve cheese",
+   "local": "Fromage de Herve",
+   "icon": "🧀",
+   "desc": "Strong washed-rind cheese from the plateau east of Liège, made since the Middle Ages. Soft and pungent.",
+   "kw": [
+    "herve"
+   ]
+  },
+  {
+   "id": "luik-sirop-de-liege",
+   "name": "Sirop de Liège",
+   "local": "",
+   "icon": "🍯",
+   "desc": "Thick dark syrup of apples and pears, spread on bread or used in cooking. A Walloon pantry staple.",
+   "kw": [
+    "sirop"
+   ]
+  },
+  {
+   "id": "luik-tarte-riz",
+   "name": "Tarte au riz",
+   "local": "",
+   "icon": "🥧",
+   "desc": "Rice-pudding tart from Verviers and the East Cantons, sold in bakeries.",
+   "kw": [
+    "tarte au riz",
+    "rice tart"
+   ]
+  }
+ ]
+}

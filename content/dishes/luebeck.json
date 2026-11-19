@@ -1,0 +1,47 @@
+{
+ "region": "luebeck",
+ "dishes": [
+  {
+   "id": "luebeck-marzipan",
+   "name": "Lübecker Marzipan",
+   "local": "",
+   "icon": "🍫",
+   "desc": "Almond marzipan made in Lübeck since the 19th century, in pralines, loaves and cakes.",
+   "kw": [
+    "marzipan"
+   ]
+  },
+  {
+   "id": "luebeck-schwalbennester",
+   "name": "Lübecker Schwalbennester",
+   "local": "",
+   "icon": "🥩",
+   "desc": "Veal roulades filled with ham and egg, braised in gravy. A traditional dish of Lübeck.",
+   "kw": [
+    "schwalbennester"
+   ]
+  },
+  {
+   "id": "luebeck-plockfinken",
+   "name": "Plockfinken",
+   "local": "",
+   "icon": "🍲",
+   "desc": "Hearty stew of beef, potatoes and vegetables, an old Lübeck kitchen classic.",
+   "kw": [
+    "plockfinken"
+   ]
+  },
+  {
+   "id": "luebeck-raeucherfisch",
+   "name": "Baltic smoked fish",
+   "local": "Ostsee-Räucherfisch",
+   "icon": "🐟",
+   "desc": "Smoked eel, sprats and herring from the Baltic coast near Travemünde, sold at harbour stalls.",
+   "kw": [
+    "räucherfisch",
+    "smoked fish",
+    "aal"
+   ]
+  }
+ ]
+}

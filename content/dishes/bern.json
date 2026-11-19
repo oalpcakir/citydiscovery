@@ -1,0 +1,60 @@
+{
+  "region": "bern",
+  "dishes": [
+    {
+      "id": "bern-berner-platte",
+      "name": "Berner Platte",
+      "local": "",
+      "icon": "🍖",
+      "desc": "Platter of smoked pork, bacon, tongue and sausages on sauerkraut or beans, with boiled potatoes. The classic dish of the canton, served in traditional Bernese restaurants.",
+      "kw": [
+        "berner platte"
+      ]
+    },
+    {
+      "id": "bern-zibelechueche",
+      "name": "Zibelechueche",
+      "local": "Zwiebelkuchen",
+      "icon": "🥧",
+      "desc": "Onion tart with cream, egg and nutmeg. Bern marks the autumn onion harvest with it, and bakeries and restaurants serve it around the Zibelemärit.",
+      "kw": [
+        "zibelechueche",
+        "zwiebelkuchen",
+        "onion tart"
+      ]
+    },
+    {
+      "id": "bern-mandelbaerli",
+      "name": "Mandelbärli",
+      "local": "",
+      "icon": "🐻",
+      "desc": "Small bear-shaped almond sweets, a Bernese confectionery speciality. The bear is the city's emblem, so they are the typical local souvenir.",
+      "kw": [
+        "mandelbärli",
+        "mandelbaerli"
+      ]
+    },
+    {
+      "id": "bern-roesti",
+      "name": "Rösti",
+      "local": "",
+      "icon": "🥔",
+      "desc": "Grated potato fried into a golden cake, the traditional farmhouse side of the Bernese Mittelland. It goes with sausage, fried egg or a Berner Platte.",
+      "kw": [
+        "rösti",
+        "roesti"
+      ]
+    },
+    {
+      "id": "bern-meringues-gruyere",
+      "name": "Meringues with double cream",
+      "local": "",
+      "icon": "🍦",
+      "desc": "Crisp meringue shells with thick Gruyère double cream, a dessert of the Bernese Oberland and Emmental. Bern cafés and restaurants serve it as a regional treat.",
+      "kw": [
+        "meringue",
+        "double cream"
+      ]
+    }
+  ]
+}

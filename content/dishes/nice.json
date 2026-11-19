@@ -1,0 +1,69 @@
+{
+ "region": "nice",
+ "dishes": [
+  {
+   "id": "nice-socca",
+   "name": "Socca",
+   "local": "",
+   "icon": "🥞",
+   "desc": "A thin chickpea flour pancake cooked in a wood oven and eaten hot with black pepper. Nice's classic street food.",
+   "kw": [
+    "socca"
+   ]
+  },
+  {
+   "id": "nice-pissaladiere",
+   "name": "Pissaladière",
+   "local": "",
+   "icon": "🧅",
+   "desc": "Bread dough topped with slow-cooked onions, anchovies and black olives, but no cheese or tomato. Found in every Nice bakery.",
+   "kw": [
+    "pissaladière",
+    "pissaladiere"
+   ]
+  },
+  {
+   "id": "nice-pan-bagnat",
+   "name": "Pan bagnat",
+   "local": "",
+   "icon": "🥖",
+   "desc": "A round roll filled with tuna, tomatoes, eggs, olives and olive oil. The Niçois beach lunch.",
+   "kw": [
+    "pan bagnat"
+   ]
+  },
+  {
+   "id": "nice-salade-nicoise",
+   "name": "Salade niçoise",
+   "local": "",
+   "icon": "🥗",
+   "desc": "A salad of tomato, tuna, anchovy, olives, egg and raw vegetables, dressed with olive oil, from Nice.",
+   "kw": [
+    "salade niçoise",
+    "niçoise"
+   ]
+  },
+  {
+   "id": "nice-tourte-blettes",
+   "name": "Tourte de blettes",
+   "local": "",
+   "icon": "🥧",
+   "desc": "A sweet or savoury tart filled with Swiss chard, pine nuts and raisins. A traditional dessert of Nice bakeries and markets.",
+   "kw": [
+    "tourte de blettes",
+    "blettes"
+   ]
+  },
+  {
+   "id": "nice-petits-farcis",
+   "name": "Petits farcis niçois",
+   "local": "Petits farcis",
+   "icon": "🍅",
+   "desc": "Courgettes, tomatoes, peppers and onions stuffed with minced meat and baked. A Niçois home dish found in traditional restaurants.",
+   "kw": [
+    "petits farcis",
+    "farcis"
+   ]
+  }
+ ]
+}

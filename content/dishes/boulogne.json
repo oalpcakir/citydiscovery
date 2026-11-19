@@ -1,0 +1,49 @@
+{
+ "region": "boulogne",
+ "dishes": [
+  {
+   "id": "boulogne-hareng",
+   "name": "Smoked herring",
+   "local": "Hareng saur",
+   "icon": "🐟",
+   "desc": "Herring salted and smoked in the port's old smokehouses. Boulogne is France's biggest fishing port and the herring is celebrated each November.",
+   "kw": [
+    "herring",
+    "hareng"
+   ]
+  },
+  {
+   "id": "boulogne-gainee",
+   "name": "Gainée boulonnaise",
+   "local": "Gainée",
+   "icon": "🍲",
+   "desc": "A fish stew with vegetables, onions and fresh cream, often called Boulogne's bouillabaisse. Made with the day's catch from the harbour.",
+   "kw": [
+    "gainée",
+    "gainee"
+   ]
+  },
+  {
+   "id": "boulogne-moules",
+   "name": "Moules marinières",
+   "local": "",
+   "icon": "🦪",
+   "desc": "Mussels steamed in white wine, shallots and cream. The quayside restaurants serve them with chips.",
+   "kw": [
+    "moules",
+    "mussels"
+   ]
+  },
+  {
+   "id": "boulogne-vieux-boulogne",
+   "name": "Vieux Boulogne",
+   "local": "",
+   "icon": "🧀",
+   "desc": "Cow's-milk cheese with an orange washed rind and a famously strong smell but a mild, creamy inside. Made in the Boulonnais behind the Côte d'Opale.",
+   "kw": [
+    "vieux boulogne",
+    "vieux-boulogne"
+   ]
+  }
+ ]
+}

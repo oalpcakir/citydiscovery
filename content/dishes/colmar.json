@@ -1,0 +1,59 @@
+{
+ "region": "colmar",
+ "dishes": [
+  {
+   "id": "colmar-flammekueche",
+   "name": "Tarte flambée",
+   "local": "Flammekueche",
+   "icon": "🍕",
+   "desc": "A paper-thin dough topped with crème fraîche, onions and bacon, baked in a wood oven. Served in Colmar's winstubs, sometimes with Munster.",
+   "kw": [
+    "flammekueche",
+    "tarte flambée"
+   ]
+  },
+  {
+   "id": "colmar-kougelhopf",
+   "name": "Kougelhopf",
+   "local": "Kugelhopf",
+   "icon": "🍞",
+   "desc": "A yeasted ring cake with raisins and almonds, baked in a fluted ceramic mould. Sold in Colmar bakeries all year.",
+   "kw": [
+    "kougelhopf",
+    "kugelhopf"
+   ]
+  },
+  {
+   "id": "colmar-munster",
+   "name": "Munster cheese",
+   "local": "Munster",
+   "icon": "🧀",
+   "desc": "A strong, washed-rind cheese from the Vosges valleys near Colmar, eaten with cumin and boiled potatoes.",
+   "kw": [
+    "munster"
+   ]
+  },
+  {
+   "id": "colmar-quetsch",
+   "name": "Tarte aux quetsches",
+   "local": "",
+   "icon": "🥧",
+   "desc": "A tart of Alsatian damson plums that marks the start of autumn. A staple of Colmar's bakeries and winstubs.",
+   "kw": [
+    "quetsch",
+    "tarte aux quetsches"
+   ]
+  },
+  {
+   "id": "colmar-bredele",
+   "name": "Alsatian bredele",
+   "local": "Bredele",
+   "icon": "🍪",
+   "desc": "Small spiced Christmas biscuits in many shapes. Colmar's Christmas market is among the best places to try them.",
+   "kw": [
+    "bredele",
+    "bredala"
+   ]
+  }
+ ]
+}

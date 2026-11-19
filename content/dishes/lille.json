@@ -1,0 +1,67 @@
+{
+ "region": "lille",
+ "dishes": [
+  {
+   "id": "lille-welsh",
+   "name": "Welsh",
+   "local": "Le welsh",
+   "icon": "🧀",
+   "desc": "Toast and ham under a beer and cheddar sauce, baked and topped with a fried egg, often with Maroilles. Lille's signature estaminet dish.",
+   "kw": [
+    "welsh"
+   ]
+  },
+  {
+   "id": "lille-tarte-maroilles",
+   "name": "Tarte au Maroilles",
+   "local": "",
+   "icon": "🥧",
+   "desc": "A tart of strong Maroilles cheese and cream, served warm with chips or salad. A classic of Lille's estaminets.",
+   "kw": [
+    "maroilles"
+   ]
+  },
+  {
+   "id": "lille-carbonade",
+   "name": "Carbonade flamande",
+   "local": "",
+   "icon": "🍖",
+   "desc": "Beef slowly stewed with beer, onions and gingerbread. A Flemish estaminet favourite in Lille.",
+   "kw": [
+    "carbonade"
+   ]
+  },
+  {
+   "id": "lille-potjevleesch",
+   "name": "Potjevleesch",
+   "local": "",
+   "icon": "🍗",
+   "desc": "A cold terrine of chicken, pork, veal and rabbit set in aspic, served with chips. A speciality of French Flanders.",
+   "kw": [
+    "potjevleesch"
+   ]
+  },
+  {
+   "id": "lille-gaufre-fourree",
+   "name": "Filled waffle",
+   "local": "Gaufre fourrée",
+   "icon": "🧇",
+   "desc": "A thin waffle filled with vanilla or brown sugar syrup, a Lille sweet since the 19th century. Sold in bakeries and boutiques.",
+   "kw": [
+    "gaufre",
+    "waffle"
+   ]
+  },
+  {
+   "id": "lille-moules-frites",
+   "name": "Moules-frites",
+   "local": "",
+   "icon": "🍟",
+   "desc": "Mussels in white wine served with chips, the signature dish of the nearby Flemish coast. Served at the Braderie de Lille and in many brasseries.",
+   "kw": [
+    "moules-frites",
+    "moules frites"
+   ]
+  }
+ ]
+}

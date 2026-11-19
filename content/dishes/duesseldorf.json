@@ -1,0 +1,59 @@
+{
+ "region": "duesseldorf",
+ "dishes": [
+  {
+   "id": "duesseldorf-reibekuchen",
+   "name": "Reibekuchen",
+   "local": "Rievkooche",
+   "icon": "🥔",
+   "desc": "Crisp grated-potato pancakes, served hot with apple sauce or dark bread. A Rhineland street and brewery classic.",
+   "kw": [
+    "reibekuchen",
+    "rievkooche"
+   ]
+  },
+  {
+   "id": "duesseldorf-senfrostbraten",
+   "name": "Düsseldorfer Senfrostbraten",
+   "local": "",
+   "icon": "🥩",
+   "desc": "Roast beef coated in the city's mustard and braised with onions. A traditional meal in the old-town breweries.",
+   "kw": [
+    "senfrostbraten",
+    "rostbraten"
+   ]
+  },
+  {
+   "id": "duesseldorf-mostert",
+   "name": "Düsseldorf mustard",
+   "local": "Düsseldorfer Mostert",
+   "icon": "🌭",
+   "desc": "The medium-hot mustard made in the city since the 19th century, eaten with Mett and rolls or sausages.",
+   "kw": [
+    "mostert",
+    "mustard"
+   ]
+  },
+  {
+   "id": "duesseldorf-bergische-waffeln",
+   "name": "Bergische waffeln",
+   "local": "Bergische Waffeln",
+   "icon": "🧇",
+   "desc": "Heart-shaped waffles served with hot cherries and cream, from the Bergisches Land around Düsseldorf.",
+   "kw": [
+    "bergische waffel",
+    "waffel"
+   ]
+  },
+  {
+   "id": "duesseldorf-kaffeetafel",
+   "name": "Bergische Kaffeetafel",
+   "local": "",
+   "icon": "🍰",
+   "desc": "Afternoon spread of waffles, rice pudding, dark bread, cheese and jam, served in traditional Bergisches Land cafés.",
+   "kw": [
+    "kaffeetafel"
+   ]
+  }
+ ]
+}

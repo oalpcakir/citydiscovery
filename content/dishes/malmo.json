@@ -1,0 +1,68 @@
+{
+  "region": "malmo",
+  "dishes": [
+    {
+      "id": "malmo-falafel",
+      "name": "Falafel roll",
+      "local": "Falafelrulle",
+      "icon": "🧆",
+      "desc": "Falafel in flatbread with sauce and pickles. A Malmö street food closely tied to the city's Middle Eastern community.",
+      "kw": [
+        "falafel"
+      ]
+    },
+    {
+      "id": "malmo-kanelbulle",
+      "name": "Kanelbulle",
+      "local": "",
+      "icon": "🥐",
+      "desc": "Swedish cinnamon bun, baked fresh in Malmö and Lund bakeries and eaten with fika.",
+      "kw": [
+        "kanelbulle",
+        "cinnamon bun"
+      ]
+    },
+    {
+      "id": "malmo-spettekaka",
+      "name": "Spettekaka",
+      "local": "",
+      "icon": "🍰",
+      "desc": "Tall cake made of eggs, sugar and potato flour, baked on a rotating spit. A Skåne speciality sold in Lund and Malmö shops.",
+      "kw": [
+        "spettekaka"
+      ]
+    },
+    {
+      "id": "malmo-sill",
+      "name": "Inlagd sill",
+      "local": "",
+      "icon": "🐟",
+      "desc": "Herring in spiced vinegar, eaten with potatoes and crispbread. A staple of the Skåne coast.",
+      "kw": [
+        "sill",
+        "herring"
+      ]
+    },
+    {
+      "id": "malmo-alagille",
+      "name": "Ålagille",
+      "local": "",
+      "icon": "🐟",
+      "desc": "Smoked eel with scrambled egg and potatoes, a late-summer tradition in Skåne served in coastal restaurants.",
+      "kw": [
+        "ål",
+        "ålagille"
+      ]
+    },
+    {
+      "id": "malmo-kottbullar",
+      "name": "Köttbullar",
+      "local": "",
+      "icon": "🍖",
+      "desc": "Swedish meatballs with lingonberry jam, cream sauce and potatoes, served in traditional restaurants in Malmö.",
+      "kw": [
+        "köttbullar"
+      ]
+    }
+  ]
+}

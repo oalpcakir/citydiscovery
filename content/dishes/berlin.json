@@ -1,0 +1,69 @@
+{
+  "region": "berlin",
+  "dishes": [
+    {
+      "id": "berlin-currywurst",
+      "name": "Currywurst",
+      "local": "",
+      "icon": "🌭",
+      "desc": "Sliced pork sausage under ketchup-curry sauce and curry powder, eaten with fries or a roll. Invented in Berlin in 1949 and sold at stands across the city.",
+      "kw": [
+        "currywurst"
+      ]
+    },
+    {
+      "id": "berlin-pfannkuchen",
+      "name": "Berliner Pfannkuchen",
+      "local": "Berliner",
+      "icon": "🍩",
+      "desc": "Jam-filled fried doughnut dusted with sugar. Berliners call it Pfannkuchen, while the rest of Germany says Berliner.",
+      "kw": [
+        "pfannkuchen",
+        "berliner doughnut"
+      ]
+    },
+    {
+      "id": "berlin-buletten",
+      "name": "Buletten",
+      "local": "",
+      "icon": "🍔",
+      "desc": "Pan-fried minced-meat patties with bread roll, onion and marjoram, eaten warm with mustard or cold as a snack. The classic Berlin home-style meat dish.",
+      "kw": [
+        "bulette",
+        "buletten"
+      ]
+    },
+    {
+      "id": "berlin-klopse",
+      "name": "Königsberger Klopse",
+      "local": "",
+      "icon": "🍲",
+      "desc": "Veal meatballs poached in a creamy caper sauce with boiled potatoes and beetroot. Brought by East Prussian refugees and now firmly a Berlin tavern staple.",
+      "kw": [
+        "klopse",
+        "königsberger"
+      ]
+    },
+    {
+      "id": "berlin-eisbein",
+      "name": "Eisbein with sauerkraut",
+      "local": "Eisbein",
+      "icon": "🍖",
+      "desc": "Boiled, cured pork knuckle served with sauerkraut and pea puree. The traditional heavy plate of Berlin taverns.",
+      "kw": [
+        "eisbein"
+      ]
+    },
+    {
+      "id": "berlin-doner",
+      "name": "Döner kebab",
+      "local": "",
+      "icon": "🥙",
+      "desc": "Spit-roasted meat in flatbread with salad and sauces. The Berlin-style döner, developed by Turkish immigrants here in the 1970s, is the city's everyday street meal.",
+      "kw": [
+        "döner",
+        "doner"
+      ]
+    }
+  ]
+}

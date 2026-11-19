@@ -1,0 +1,49 @@
+{
+ "region": "utrecht",
+ "dishes": [
+  {
+   "id": "utrecht-botersprits",
+   "name": "Utrecht botersprits",
+   "local": "Botersprits",
+   "icon": "🍪",
+   "desc": "Salty butter spritz biscuit made to Pieter Bergman's 1888 recipe, still baked and sold by a bakery near the Dom Tower.",
+   "kw": [
+    "botersprits",
+    "sprits"
+   ]
+  },
+  {
+   "id": "utrecht-domtorentjes",
+   "name": "Domtorentjes",
+   "local": "",
+   "icon": "🍫",
+   "desc": "Chocolate bonbons with a creamy filling and a Dom Tower relief on top, an Utrecht sweet since 1922, sold in a bakery by the Dom.",
+   "kw": [
+    "domtorentje",
+    "domtorentjes"
+   ]
+  },
+  {
+   "id": "utrecht-vockingworst",
+   "name": "Vockingworst",
+   "local": "",
+   "icon": "🌭",
+   "desc": "Liver sausage from Utrecht, served as a bar snack. A local butcher's speciality.",
+   "kw": [
+    "vockingworst",
+    "leverworst"
+   ]
+  },
+  {
+   "id": "utrecht-erwtensoep",
+   "name": "Erwtensoep",
+   "local": "Snert",
+   "icon": "🍲",
+   "desc": "Thick split-pea soup with smoked sausage and pork, so thick a spoon stands up in it. A winter staple.",
+   "kw": [
+    "erwtensoep",
+    "snert"
+   ]
+  }
+ ]
+}

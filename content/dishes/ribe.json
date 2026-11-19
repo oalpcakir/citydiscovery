@@ -1,0 +1,60 @@
+{
+  "region": "ribe",
+  "dishes": [
+    {
+      "id": "ribe-aal",
+      "name": "Ribe eel",
+      "local": "Ribe ål",
+      "icon": "🐟",
+      "desc": "Smoked or fried eel from the Wadden Sea marshes around Ribe, found on traditional menus in the old town.",
+      "kw": [
+        "ål",
+        "eel"
+      ]
+    },
+    {
+      "id": "ribe-oyster",
+      "name": "Wadden Sea oyster",
+      "local": "Vadehavsøsters",
+      "icon": "🦪",
+      "desc": "Oysters from the Wadden Sea around Rømø and Fanø, served in coast and Ribe restaurants.",
+      "kw": [
+        "østers",
+        "oyster"
+      ]
+    },
+    {
+      "id": "ribe-sonderjysk",
+      "name": "Sønderjysk kaffebord",
+      "local": "",
+      "icon": "🥧",
+      "desc": "South Jutland coffee table with several small cakes and sweet bread, served at traditional cafes.",
+      "kw": [
+        "kaffebord",
+        "sønderjysk"
+      ]
+    },
+    {
+      "id": "ribe-rejer",
+      "name": "North Sea prawns",
+      "local": "Rejer",
+      "icon": "🦐",
+      "desc": "Cold-water prawns on rye bread, common in South Jutland seaside restaurants.",
+      "kw": [
+        "rejer",
+        "prawn"
+      ]
+    },
+    {
+      "id": "ribe-fisk",
+      "name": "Plaice with remoulade",
+      "local": "Rødspætte med remoulade",
+      "icon": "🐟",
+      "desc": "Breaded plaice fried and served with remoulade and lemon, a coastal fish lunch around Esbjerg and Ribe.",
+      "kw": [
+        "rødspætte",
+        "plaice"
+      ]
+    }
+  ]
+}

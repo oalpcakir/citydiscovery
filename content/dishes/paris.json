@@ -1,0 +1,80 @@
+{
+ "region": "paris",
+ "dishes": [
+  {
+   "id": "paris-onion-soup",
+   "name": "French onion soup",
+   "local": "Soupe à l'oignon",
+   "icon": "🍲",
+   "desc": "Onions simmered in beef stock, topped with bread and gratinéed Gruyère. A Les Halles market dish, served in brasseries today.",
+   "kw": [
+    "onion soup",
+    "soupe à l'oignon"
+   ]
+  },
+  {
+   "id": "paris-jambon-beurre",
+   "name": "Jambon-beurre",
+   "local": "",
+   "icon": "🥖",
+   "desc": "A baguette with butter and ham, Paris's everyday sandwich. Sold in every bakery and café.",
+   "kw": [
+    "jambon-beurre",
+    "jambon beurre"
+   ]
+  },
+  {
+   "id": "paris-croque-monsieur",
+   "name": "Croque-monsieur",
+   "local": "",
+   "icon": "🥪",
+   "desc": "A toasted ham and cheese sandwich with béchamel, topped with a fried egg as a croque-madame. A Paris café classic since 1910.",
+   "kw": [
+    "croque-monsieur",
+    "croque monsieur"
+   ]
+  },
+  {
+   "id": "paris-steak-frites",
+   "name": "Steak-frites",
+   "local": "",
+   "icon": "🥩",
+   "desc": "Pan-seared steak with chips and sometimes a pepper or Béarnaise sauce. The standard dish of a Paris brasserie.",
+   "kw": [
+    "steak frites",
+    "steak-frites"
+   ]
+  },
+  {
+   "id": "paris-macaron",
+   "name": "Parisian macaron",
+   "local": "Macaron parisien",
+   "icon": "🍬",
+   "desc": "Two almond meringue shells around a ganache or jam. The Paris version is made in dozens of patisseries.",
+   "kw": [
+    "macaron"
+   ]
+  },
+  {
+   "id": "paris-eclair",
+   "name": "Éclair",
+   "local": "",
+   "icon": "🍫",
+   "desc": "A choux pastry filled with cream, topped with fondant icing. One of Paris's most-loved patisserie items.",
+   "kw": [
+    "éclair",
+    "eclair"
+   ]
+  },
+  {
+   "id": "paris-croissant",
+   "name": "Croissant",
+   "local": "",
+   "icon": "🥐",
+   "desc": "A flaky, buttery crescent eaten for breakfast. Paris bakeries compete for the best butter version.",
+   "kw": [
+    "croissant"
+   ]
+  }
+ ]
+}

@@ -58,10 +58,15 @@ def dump(path, c):
     L.append("  areaBadges: {")
     L.append(",\n".join("    %s: { icon: %s, name: %s }" % (k, J(v["icon"]), J(v["name"])) for k, v in c["areaBadges"].items()))
     L.append("  },")
+    if c.get("trailNames"):
+        L.append("  // Names for day-out trails, keyed by any quest in the group (see buildTrails in src/1-core.js).")
+        L.append("  trailNames: {")
+        L.append(",\n".join("    %s: %s" % (k, J(v)) for k, v in c["trailNames"].items()))
+        L.append("  },")
     L.append("  quests: [")
     qs = []
     for q in c["quests"]:
-        extra = "".join(", %s: %s" % (k, J(q[k])) for k in ("months", "tags", "src") if q.get(k))
+        extra = "".join(", %s: %s" % (k, J(q[k])) for k in ("kind", "months", "tags", "src") if q.get(k))
         qs.append("    { id: %s, cat: %s, area: %s, title: %s,\n      desc: %s,\n      tip: %s, q: %s%s }" % (
             J(q["id"]), J(q["cat"]), J(q["area"]), J(q["title"]), J(q["desc"]), J(q.get("tip", "")), J(q["q"]), extra))
     L.append(",\n".join(qs))

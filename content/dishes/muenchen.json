@@ -1,0 +1,71 @@
+{
+  "region": "muenchen",
+  "dishes": [
+    {
+      "id": "muenchen-weisswurst",
+      "name": "Weißwurst",
+      "local": "",
+      "icon": "🌭",
+      "desc": "Pale veal and pork sausage simmered in water, eaten with sweet mustard, usually before noon. The best-known Munich dish.",
+      "kw": [
+        "weißwurst",
+        "weisswurst"
+      ]
+    },
+    {
+      "id": "muenchen-brezn",
+      "name": "Bavarian pretzel",
+      "local": "Brezn",
+      "icon": "🥨",
+      "desc": "Large soft pretzel with a dark crust and coarse salt. Sold in bakeries and beer gardens throughout the city.",
+      "kw": [
+        "brezn",
+        "brezel",
+        "pretzel"
+      ]
+    },
+    {
+      "id": "muenchen-schweinshaxe",
+      "name": "Schweinshaxe",
+      "local": "",
+      "icon": "🍖",
+      "desc": "Roasted pork knuckle with crackling, served with dumplings and cabbage. The centrepiece of beer-hall menus.",
+      "kw": [
+        "schweinshaxe",
+        "haxe"
+      ]
+    },
+    {
+      "id": "muenchen-obatzda",
+      "name": "Obatzda",
+      "local": "",
+      "icon": "🧀",
+      "desc": "Cheese spread made from ripe Camembert, butter, paprika and onions, eaten with pretzels in beer gardens.",
+      "kw": [
+        "obatzda",
+        "obazda"
+      ]
+    },
+    {
+      "id": "muenchen-leberkaese",
+      "name": "Leberkäse",
+      "local": "",
+      "icon": "🥪",
+      "desc": "Baked loaf of finely minced meat, served hot in thick slices in a roll with mustard. A butcher-counter classic.",
+      "kw": [
+        "leberkäse",
+        "leberkas"
+      ]
+    },
+    {
+      "id": "muenchen-steckerlfisch",
+      "name": "Steckerlfisch",
+      "local": "",
+      "icon": "🐟",
+      "desc": "Whole mackerel or trout grilled over charcoal on a stick. Beer-garden food that Munich popularised.",
+      "kw": [
+        "steckerlfisch"
+      ]
+    }
+  ]
+}

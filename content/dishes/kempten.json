@@ -1,0 +1,58 @@
+{
+  "region": "kempten",
+  "dishes": [
+    {
+      "id": "kempten-kaesspatzen",
+      "name": "Allgäu Kässpatzen",
+      "local": "Allgäuer Kässpatzen",
+      "icon": "🧀",
+      "desc": "Egg noodles layered with mountain cheese and topped with fried onions. The most typical dish of the Allgäu, found in every inn in Kempten.",
+      "kw": [
+        "kässpatzen",
+        "käsespätzle"
+      ]
+    },
+    {
+      "id": "kempten-krautkrapfen",
+      "name": "Kemptener Krautkrapfen",
+      "local": "",
+      "icon": "🥟",
+      "desc": "Egg-dough pockets filled with sauerkraut, bacon and butter, then baked or fried. A traditional Kempten dish.",
+      "kw": [
+        "krautkrapfen"
+      ]
+    },
+    {
+      "id": "kempten-bergkaese",
+      "name": "Allgäu mountain cheese",
+      "local": "Allgäuer Bergkäse",
+      "icon": "🧀",
+      "desc": "Hard, aged cow's-milk cheese from Alpine dairies, nutty and firm. Kempten has a long tradition of cheese ripening.",
+      "kw": [
+        "bergkäse",
+        "allgäuer käse"
+      ]
+    },
+    {
+      "id": "kempten-flaedlesuppe",
+      "name": "Flädlesuppe",
+      "local": "",
+      "icon": "🍜",
+      "desc": "Clear beef broth with thin strips of pancake and chives. A classic first course on Allgäu menus.",
+      "kw": [
+        "flädlesuppe"
+      ]
+    },
+    {
+      "id": "kempten-topfenschmarrn",
+      "name": "Topfenschmarrn",
+      "local": "",
+      "icon": "🥞",
+      "desc": "Torn, fluffy curd-cheese pancake, usually served with fruit compote or ice cream. A regular on Allgäu menus after hiking.",
+      "kw": [
+        "topfenschmarrn",
+        "schmarrn"
+      ]
+    }
+  ]
+}

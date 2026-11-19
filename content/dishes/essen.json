@@ -1,0 +1,49 @@
+{
+ "region": "essen",
+ "dishes": [
+  {
+   "id": "essen-frikadelle",
+   "name": "Ruhr Frikadelle",
+   "local": "Kumpel-Frikadelle",
+   "icon": "🍔",
+   "desc": "Large fried minced-meat patty, eaten hot with potato salad or in a roll. A miners-era staple of Ruhr home cooking and snack bars.",
+   "kw": [
+    "frikadelle",
+    "kumpel"
+   ]
+  },
+  {
+   "id": "essen-pommes-schranke",
+   "name": "Pommes Schranke",
+   "local": "",
+   "icon": "🍟",
+   "desc": "Chips with both ketchup and mayonnaise, the red-white Ruhr order named after the railway barrier.",
+   "kw": [
+    "pommes",
+    "fries",
+    "chips"
+   ]
+  },
+  {
+   "id": "essen-panhas",
+   "name": "Panhas",
+   "local": "",
+   "icon": "🥓",
+   "desc": "Fried slices of a buckwheat and pork-broth sausage, a Westphalian and Lower Rhine speciality of the Ruhr.",
+   "kw": [
+    "panhas"
+   ]
+  },
+  {
+   "id": "essen-mettbroetchen",
+   "name": "Mettbrötchen",
+   "local": "",
+   "icon": "🥖",
+   "desc": "Crusty roll with seasoned raw minced pork and onions, a classic Ruhr breakfast and bakery order.",
+   "kw": [
+    "mettbrötchen",
+    "mett"
+   ]
+  }
+ ]
+}

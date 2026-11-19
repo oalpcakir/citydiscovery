@@ -1,0 +1,49 @@
+{
+ "region": "fontainebleau",
+ "dishes": [
+  {
+   "id": "fontainebleau-brie-melun",
+   "name": "Brie de Melun",
+   "local": "",
+   "icon": "🧀",
+   "desc": "A raw-milk Brie with a stronger, earthier flavour than most, protected since 1980 and made near Melun. Sold in Fontainebleau's cheese shops.",
+   "kw": [
+    "brie de melun",
+    "melun"
+   ]
+  },
+  {
+   "id": "fontainebleau-brie-meaux",
+   "name": "Brie de Meaux",
+   "local": "",
+   "icon": "🧀",
+   "desc": "A soft, creamy raw-milk cheese from Seine-et-Marne, the department around Fontainebleau. Matured in local cheese shops.",
+   "kw": [
+    "brie de meaux",
+    "brie"
+   ]
+  },
+  {
+   "id": "fontainebleau-fontainebleau",
+   "name": "Fontainebleau",
+   "local": "Le fontainebleau",
+   "icon": "🍓",
+   "desc": "A light, unsweetened dessert of fromage blanc folded with whipped cream, served with strawberries or red fruit coulis.",
+   "kw": [
+    "fontainebleau dessert",
+    "fromage blanc"
+   ]
+  },
+  {
+   "id": "fontainebleau-chasselas",
+   "name": "Chasselas de Thomery",
+   "local": "",
+   "icon": "🍇",
+   "desc": "Table grapes grown on trained walls in Thomery near Fontainebleau since the 18th century. Sold in season in autumn.",
+   "kw": [
+    "chasselas",
+    "thomery"
+   ]
+  }
+ ]
+}

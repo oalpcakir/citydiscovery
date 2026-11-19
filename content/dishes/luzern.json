@@ -1,0 +1,59 @@
+{
+  "region": "luzern",
+  "dishes": [
+    {
+      "id": "luzern-chuegelipastete",
+      "name": "Luzerner Chügelipastete",
+      "local": "",
+      "icon": "🥧",
+      "desc": "Puff-pastry case filled with small meatballs, mushrooms and cream sauce. Traditional in Lucerne since the 18th century and found in the city's old restaurants.",
+      "kw": [
+        "chügelipastete",
+        "chuegelipastete"
+      ]
+    },
+    {
+      "id": "luzern-aelplermagronen",
+      "name": "Älplermagronen",
+      "local": "",
+      "icon": "🍝",
+      "desc": "Macaroni baked with potato, cheese, cream and onion, served with apple sauce. The Alpine herders' dish of central Switzerland, which Lucerne restaurants cook as a staple.",
+      "kw": [
+        "älplermagronen",
+        "aelplermagronen"
+      ]
+    },
+    {
+      "id": "luzern-lebkuchen",
+      "name": "Luzerner Lebkuchen",
+      "local": "",
+      "icon": "🍯",
+      "desc": "Spiced pear-juice honey bread, a Lucerne winter sweet. Its pear syrup comes from the orchards of the Lucerne hinterland.",
+      "kw": [
+        "lebkuchen"
+      ]
+    },
+    {
+      "id": "luzern-birewegge",
+      "name": "Birewegge",
+      "local": "",
+      "icon": "🍐",
+      "desc": "Pear bread, a pastry stuffed with dried pears, walnuts, figs and raisins. A traditional central Swiss speciality that is eaten around Lucerne.",
+      "kw": [
+        "birewegge",
+        "pear bread"
+      ]
+    },
+    {
+      "id": "luzern-rueblitorte",
+      "name": "Rüeblitorte",
+      "local": "",
+      "icon": "🥕",
+      "desc": "Carrot and almond cake, a Swiss classic baked in Lucerne's bakeries. It is often glazed with marzipan carrots.",
+      "kw": [
+        "rüeblitorte",
+        "carrot cake"
+      ]
+    }
+  ]
+}

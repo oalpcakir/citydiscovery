@@ -1,0 +1,95 @@
+{
+ "Germany": [
+  "aachen: Aachen & the Eifel (areas: Aachen; surroundings: Düren & the Eifel)",
+  "berlin: Berlin & surroundings (areas: Mitte, City West, Kreuzberg, Neukölln & the east; surroundings: Outer Berlin & Brandenburg)",
+  "bonn: Bonn & the Siebengebirge (areas: Bonn; surroundings: Siebengebirge)",
+  "bremen: Bremen & surroundings (areas: Bremen; surroundings: Bremerhaven & the coast)",
+  "dortmund: Dortmund & Bochum & the eastern Ruhr (areas: Dortmund, Bochum & Herne; surroundings: Eastern Ruhr, Vest & Märkisches Land)",
+  "duesseldorf: Düsseldorf & the Bergisches Land (areas: Düsseldorf; surroundings: Bergisches Land & Lower Rhine)",
+  "essen: Essen & Duisburg & the Lower Rhine (areas: Essen, Duisburg; surroundings: Western Ruhr & the Lower Rhine)",
+  "frankfurt: Frankfurt & Rhine-Main (areas: Frankfurt; surroundings: Taunus, Main & Hesse)",
+  "hamburg: Hamburg & surroundings (areas: City & harbour, St. Pauli, Altona & the Viertel; surroundings: Elbe & the heath)",
+  "kempten: Kempten & the Allgäu (areas: Kempten, Füssen; surroundings: Allgäu)",
+  "kiel: Kiel & Schleswig (areas: Kiel; surroundings: Schleswig & North Frisia)",
+  "koblenz: Koblenz & the Middle Rhine (areas: Koblenz; surroundings: Middle Rhine & Eifel)",
+  "koeln: Cologne & surroundings (areas: Innenstadt, Veedel; surroundings: Rhineland & Eifel)",
+  "luebeck: Lübeck & the Baltic coast (areas: Lübeck; surroundings: Baltic coast & Holstein)",
+  "mainz: Mainz & Wiesbaden & Rheinhessen (areas: Mainz, Wiesbaden; surroundings: Rheinhessen & Rheingau)",
+  "mannheim: Mannheim & Heidelberg & Rhine-Neckar (areas: Mannheim, Heidelberg; surroundings: Rhine-Neckar)",
+  "muenchen: Munich & Upper Bavaria (areas: Altstadt & Maxvorstadt, Viertel; surroundings: Lakes & Alps)",
+  "oldenburg: Oldenburg & East Frisia (areas: Oldenburg; surroundings: East Frisia & the islands)",
+  "potsdam: Potsdam & Havelland (areas: Potsdam; surroundings: Havelland)",
+  "rosenheim: Rosenheim & the Chiemgau (areas: Rosenheim; surroundings: Chiemgau)",
+  "stuttgart: Stuttgart & surroundings (areas: Stuttgart, Ludwigsburg, Esslingen, Tübingen; surroundings: Swabian Alb, Black Forest & Hohenlohe)",
+  "trier: Trier & the Moselle (areas: Trier; surroundings: Moselle, Eifel & Hunsrück)"
+ ],
+ "Denmark": [
+  "aalborg: Aalborg & North Jutland (areas: Aalborg; surroundings: North Jutland & Skagen)",
+  "aarhus: Aarhus & Central Jutland (areas: Aarhus; surroundings: Central Jutland)",
+  "kobenhavn: Copenhagen & Zealand (areas: Copenhagen, Bornholm; surroundings: Zealand)",
+  "odense: Odense & Funen (areas: Odense; surroundings: Funen & the islands)",
+  "ribe: Ribe & South Jutland (areas: Ribe; surroundings: South Jutland)"
+ ],
+ "France": [
+  "amiens: Amiens & the Somme (areas: Amiens; surroundings: Somme & Oise)",
+  "boulogne: Boulogne-sur-Mer & the Opal Coast (areas: Boulogne-sur-Mer; surroundings: Opal Coast & Artois)",
+  "colmar: Colmar & southern Alsace (areas: Colmar, Mulhouse; surroundings: Southern Alsace)",
+  "fontainebleau: Fontainebleau & Seine-et-Marne (areas: Fontainebleau, Provins; surroundings: Seine-et-Marne)",
+  "lille: Lille & French Flanders (areas: Lille & the metropole; surroundings: Flanders & Hainaut)",
+  "lyon: Lyon & surroundings (areas: Lyon; surroundings: Beaujolais, Ain & around)",
+  "nice: Nice & the Riviera (areas: Nice; surroundings: Riviera & hill villages)",
+  "paris: Paris & the inner suburbs (areas: Centre & Marais, Rive Gauche, Montmartre & the east, Champs-Élysées & the west; surroundings: Around Paris)",
+  "reims: Reims & Champagne (areas: Reims; surroundings: Champagne, Aisne & Ardennes)",
+  "strasbourg: Strasbourg & northern Alsace (areas: Strasbourg; surroundings: Northern Alsace)",
+  "versailles: Versailles & the Yvelines (areas: Versailles, Saint-Germain-en-Laye; surroundings: Yvelines)"
+ ],
+ "Netherlands": [
+  "amsterdam: Amsterdam & surroundings (areas: Centre & Canals, Jordaan, Zuid & De Pijp, Oost & Plantage, Noord, West & Nieuw-West; surroundings: Surroundings)",
+  "arnhem: Arnhem & Nijmegen & the Veluwe (areas: Arnhem Centre, Sonsbeek & North Arnhem, Nijmegen Centre, Waal & Ooijpolder; surroundings: Surroundings)",
+  "breda: Breda & Tilburg & West Brabant (areas: Breda, Tilburg; surroundings: Surroundings)",
+  "denbosch: 's-Hertogenbosch & surroundings (areas: Den Bosch; surroundings: Surroundings)",
+  "denhaag: Den Haag & surroundings (areas: Centre, Scheveningen, West side, Haagse Bos & East; surroundings: Surroundings)",
+  "eindhoven: Eindhoven & the Kempen (areas: Centre, Strijp, Woensel, South & West; surroundings: Surroundings)",
+  "enschede: Enschede & Twente (areas: Enschede; surroundings: Twente)",
+  "groningen: Groningen & Drenthe (areas: Binnenstad, North & Noorderplantsoen, South & Station, East & Oosterpoort; surroundings: Surroundings)",
+  "leeuwarden: Leeuwarden & Friesland (areas: Leeuwarden; surroundings: Friesland & islands)",
+  "maastricht: Maastricht & Limburg (areas: Binnenstad, Jekerkwartier, Wyck & Céramique, Sphinxkwartier, Sint-Pieter & Jekerdal; surroundings: Surroundings)",
+  "middelburg: Middelburg & Zeeland (areas: Middelburg; surroundings: Zeeland)",
+  "rotterdam: Rotterdam & surroundings (areas: Centre, North, West & Delfshaven, South Bank, Kralingen; surroundings: Surroundings)",
+  "utrecht: Utrecht & surroundings (areas: Centre, East, Lombok & West, South & Amelisweerd; surroundings: Surroundings)",
+  "zwolle: Zwolle & Salland (areas: Binnenstad, Assendorp & South, IJssel Riverbank, East & Vecht; surroundings: Surroundings)"
+ ],
+ "Türkiye": [
+  "ankara: Ankara & Central Anatolia (areas: Ulus & the Citadel, Kızılay & Çankaya; surroundings: Central Anatolia)",
+  "istanbul: Istanbul & surroundings (areas: Historic Peninsula, Beyoğlu & Galata, Beşiktaş & the Bosphorus, Kadıköy & Üsküdar; surroundings: Around Istanbul)",
+  "izmir: İzmir & the Aegean coast (areas: İzmir, Çeşme & Urla, Ephesus & Selçuk; surroundings: Aegean İzmir & Manisa)"
+ ],
+ "Belgium": [
+  "antwerpen: Antwerpen & the Kempen (areas: Historic centre, Eilandje & port, Zuid & Berchem, Station & Zurenborg; surroundings: Surroundings)",
+  "brugge: Brugge & the coast (areas: Markt & Burg, Begijnhof & Minnewater, Sint-Anna & windmills, Hanseatic quarter & Sint-Gillis; surroundings: Surroundings)",
+  "brussel: Brussels & surroundings (areas: Centre, Marolles, Anderlecht & Forest, EU Quarter, Schaerbeek & East, Ixelles, Saint-Gilles & South, Laeken, Jette & North; surroundings: Surroundings)",
+  "gent: Gent & surroundings (areas: Historic centre, Patershol & Prinsenhof, Kouter & arts quarter, Portus Ganda; surroundings: Surroundings)",
+  "hasselt: Hasselt & Limburg (areas: Hasselt; surroundings: Limburg)",
+  "leuven: Leuven & Flemish Brabant (areas: Leuven; surroundings: Hageland & surroundings)",
+  "luik: Liège & the East Cantons (areas: Centre, Hors-Château & Coteaux, Outremeuse, Guillemins & Boverie; surroundings: Surroundings)",
+  "mons: Mons & Charleroi & Hainaut (areas: Mons, Charleroi; surroundings: Hainaut)",
+  "namur: Namur & the Ardennes (areas: Namur; surroundings: Meuse valley & Ardennes)"
+ ],
+ "Switzerland": [
+  "basel: Basel & northwestern Switzerland (areas: Basel; surroundings: Basel-Land & the Jura)",
+  "bern: Bern & the Bernese Oberland (areas: Bern, Bernese Oberland; surroundings: Fribourg, Neuchâtel & Solothurn)",
+  "chur: Graubünden & St. Moritz (areas: Chur, Engadin & St. Moritz; surroundings: Graubünden)",
+  "geneve: Geneva & Lake Geneva (areas: Geneva, Lausanne, Montreux & the Riviera; surroundings: Vaud & the Jura)",
+  "lugano: Lugano & Ticino (areas: Lugano, Locarno & Lake Maggiore; surroundings: Ticino)",
+  "luzern: Lucerne & Central Switzerland (areas: Lucerne; surroundings: Central Switzerland)",
+  "stgallen: St. Gallen & eastern Switzerland (areas: St. Gallen; surroundings: Appenzell, Thurgau & Lake Constance)",
+  "valais: Valais & the Matterhorn (areas: Sion, Zermatt; surroundings: Valais)",
+  "zuerich: Zurich & surroundings (areas: Zurich, Winterthur, Schaffhausen & the Rhine Falls; surroundings: Canton Zurich, Aargau & Glarus)"
+ ],
+ "Luxembourg": [
+  "luxembourg: Luxembourg & the Grand Duchy (areas: Luxembourg City, Éislek (the Ardennes), Müllerthal & Moselle, Minett (the south); surroundings: )"
+ ],
+ "Sweden": [
+  "malmo: Malmö & Skåne (areas: Malmö, Lund; surroundings: Skåne)"
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "region": "hasselt",
+ "dishes": [
+  {
+   "id": "hasselt-limburgse-vlaai",
+   "name": "Limburgse vlaai",
+   "local": "",
+   "icon": "🥧",
+   "desc": "Round fruit tart on a yeast dough base, with rice or cherry filling. A tradition across Limburg on both sides of the Dutch border.",
+   "kw": [
+    "vlaai"
+   ]
+  },
+  {
+   "id": "hasselt-hasseltse-speculaas",
+   "name": "Hasseltse speculaas",
+   "local": "",
+   "icon": "🍪",
+   "desc": "Local spiced biscuit baked in Hasselt for centuries, strongly tied to the city's bakers.",
+   "kw": [
+    "speculaas",
+    "speculoos"
+   ]
+  },
+  {
+   "id": "hasselt-stroop",
+   "name": "Haspengouw fruit syrup",
+   "local": "Appelstroop / perenstroop",
+   "icon": "🍯",
+   "desc": "Thick apple or pear syrup cooked in Haspengouw orchards, spread on bread. A farm product of the Limburg fruit belt.",
+   "kw": [
+    "stroop",
+    "syrup"
+   ]
+  },
+  {
+   "id": "hasselt-fruittaart",
+   "name": "Haspengouw fruit tart",
+   "local": "Fruittaart",
+   "icon": "🍒",
+   "desc": "Tart with Haspengouw cherries, plums or apples, from the orchard region of Limburg and Sint-Truiden.",
+   "kw": [
+    "tart",
+    "taart",
+    "fruit"
+   ]
+  }
+ ]
+}

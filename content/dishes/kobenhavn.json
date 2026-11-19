@@ -1,0 +1,70 @@
+{
+  "region": "kobenhavn",
+  "dishes": [
+    {
+      "id": "kobenhavn-smorrebrod",
+      "name": "Smørrebrød",
+      "local": "",
+      "icon": "🥪",
+      "desc": "Open rye sandwiches with herring, shrimp, egg or roast beef. Copenhagen's lunch places have kept the form alive for over a century.",
+      "kw": [
+        "smørrebrød",
+        "smorrebrod"
+      ]
+    },
+    {
+      "id": "kobenhavn-wienerbrod",
+      "name": "Wienerbrød",
+      "local": "",
+      "icon": "🥐",
+      "desc": "Laminated butter pastry with custard or remonce. The Danish pastry as eaten in Copenhagen bakeries.",
+      "kw": [
+        "wienerbrød",
+        "danish pastry"
+      ]
+    },
+    {
+      "id": "kobenhavn-stjerneskud",
+      "name": "Stjerneskud",
+      "local": "",
+      "icon": "🐟",
+      "desc": "Fried and steamed plaice on buttered bread, topped with shrimp and caviar. A classic Copenhagen restaurant dish.",
+      "kw": [
+        "stjerneskud"
+      ]
+    },
+    {
+      "id": "kobenhavn-polse",
+      "name": "Danish hot dog",
+      "local": "Dansk pølse",
+      "icon": "🌭",
+      "desc": "Red sausage in a bun with remoulade and crispy onions, sold from pølsevogne across the city.",
+      "kw": [
+        "pølse",
+        "hot dog"
+      ]
+    },
+    {
+      "id": "kobenhavn-flaeskesteg",
+      "name": "Flæskesteg",
+      "local": "",
+      "icon": "🍖",
+      "desc": "Roast pork with crackling, red cabbage and brown potatoes. A Danish staple on old Copenhagen menus.",
+      "kw": [
+        "flæskesteg"
+      ]
+    },
+    {
+      "id": "kobenhavn-rugbrod",
+      "name": "Bornholm smoked herring",
+      "local": "Bornholmer røget sild",
+      "icon": "🐟",
+      "desc": "Herring smoked in alder smokehouses on Bornholm, served with raw egg yolk and radish. Sold at the island's smokehouses.",
+      "kw": [
+        "røget sild",
+        "bornholm",
+        "sol over gudhjem"
+      ]
+    }
+  ]
+}

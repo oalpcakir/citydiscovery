@@ -1,0 +1,57 @@
+{
+  "region": "trier",
+  "dishes": [
+    {
+      "id": "trier-weingraewes",
+      "name": "Weingräwes",
+      "local": "",
+      "icon": "🍖",
+      "desc": "Pork ribs braised with sauerkraut and bacon, a Moselle tavern dish.",
+      "kw": [
+        "weingräwes"
+      ]
+    },
+    {
+      "id": "trier-wingertspoal",
+      "name": "Wingertspoal",
+      "local": "Mosel-Wingertspoal",
+      "icon": "🍖",
+      "desc": "Marinated, spiced pork neck grilled over fire. Moselle vineyard-tavern food.",
+      "kw": [
+        "wingertspoal"
+      ]
+    },
+    {
+      "id": "trier-schales",
+      "name": "Schales",
+      "local": "",
+      "icon": "🥔",
+      "desc": "Baked potato dish with bacon and onion, served in slices. An old home recipe of the Moselle and Hunsrück.",
+      "kw": [
+        "schales"
+      ]
+    },
+    {
+      "id": "trier-mosel-aal",
+      "name": "Smoked Moselle eel",
+      "local": "Geräucherter Aal",
+      "icon": "🐟",
+      "desc": "Eel smoked and served cold with bread, a river fish tradition along the Moselle.",
+      "kw": [
+        "aal",
+        "eel"
+      ]
+    },
+    {
+      "id": "trier-tresterfleisch",
+      "name": "Tresterfleisch",
+      "local": "",
+      "icon": "🥩",
+      "desc": "Pork marinated in grape pomace from the Moselle wine harvest, then pan-fried or grilled. A Trier and Moselle vineyard-tavern dish.",
+      "kw": [
+        "tresterfleisch",
+        "trester"
+      ]
+    }
+  ]
+}

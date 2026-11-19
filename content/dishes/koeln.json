@@ -1,0 +1,49 @@
+{
+ "region": "koeln",
+ "dishes": [
+  {
+   "id": "koeln-himmel-un-aeaed",
+   "name": "Himmel un Ääd",
+   "local": "",
+   "icon": "🥔",
+   "desc": "Mashed potatoes with apple sauce and fried black pudding. Cologne's best-known Rhineland dish.",
+   "kw": [
+    "himmel un ääd",
+    "himmel und ääd"
+   ]
+  },
+  {
+   "id": "koeln-halve-hahn",
+   "name": "Halve Hahn",
+   "local": "",
+   "icon": "🥪",
+   "desc": "Rye roll with aged Gouda, onions and mustard, a typical Cologne brewery-house order.",
+   "kw": [
+    "halve hahn",
+    "halver hahn"
+   ]
+  },
+  {
+   "id": "koeln-koelscher-kaviar",
+   "name": "Kölscher Kaviar",
+   "local": "",
+   "icon": "🌭",
+   "desc": "Slices of black pudding served on a roll with onions, a local joke on caviar.",
+   "kw": [
+    "kölscher kaviar",
+    "blutwurst"
+   ]
+  },
+  {
+   "id": "koeln-haemmchen",
+   "name": "Kölsche Hämmchen",
+   "local": "",
+   "icon": "🍖",
+   "desc": "Slow-cooked pork knuckle with sauerkraut and mashed potato, served in Cologne brewery houses.",
+   "kw": [
+    "hämmchen",
+    "pork knuckle"
+   ]
+  }
+ ]
+}

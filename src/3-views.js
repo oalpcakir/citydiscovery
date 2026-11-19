@@ -488,9 +488,38 @@
       '<div class="m">' + esc(t.sub) + '</div><div class="m">' + t.quests.length + ' stops · ' + trailKmText(t) + ' · ' + trailTime(t) + ' · ' + (s.done === s.total ? "Complete" : s.done + " / " + s.total + " done") + '</div>' + bar(s.pct) + '</div>' +
       '<span class="xp">+' + TRAIL_XP + '</span></button>';
   }
+  // Quests in this region that mention a dish, so you know where to try it.
+  function dishSpots(d) {
+    var kw = (d.kw || []).map(fold).filter(Boolean);
+    if (!kw.length) return [];
+    return city.quests.filter(function (q) {
+      if (q.cat !== "ye") return false;
+      var t = fold(q.title + " " + q.desc);
+      return kw.some(function (k) { return t.indexOf(k) !== -1; });
+    }).slice(0, 3);
+  }
+  function dishesHtml() {
+    var list = city.dishes || [];
+    if (!list.length) return '<div class="empty">' + ic("utensils", "big") + '<br>Nothing around here yet.<br>Must-eat dishes for ' + esc(city.name) + ' are on their way.</div>';
+    var eaten = list.filter(dishEaten).length;
+    return '<div class="panel dishhead"><div class="grow"><b>' + eaten + ' / ' + list.length + ' eaten</b>' +
+      '<small>The dishes that make ' + esc(city.name) + '. Eat them anywhere in the region: +' + XP.dish + ' XP each, all ' + list.length + ' earn the Local Palate badge.</small>' +
+      bar(Math.round((eaten / list.length) * 100), "xp") + '</div></div>' +
+      list.map(function (d) {
+        var on = dishEaten(d), spots = dishSpots(d);
+        return '<div class="dish' + (on ? " done" : "") + '"><span class="dish-i">' + d.icon + '</span><div class="grow">' +
+          '<div class="t">' + esc(d.name) + (d.local && d.local !== d.name ? ' <small>' + esc(d.local) + '</small>' : "") + '</div>' +
+          '<p>' + esc(d.desc) + '</p>' +
+          (spots.length ? '<div class="spots"><span>Try it at</span>' + spots.map(function (q) {
+            return '<button class="chip" data-open="' + esc(q.key) + '">' + esc(q.title.replace(/^.*\bat\s+/, "")) + '</button>';
+          }).join("") + '</div>' : "") + '</div>' +
+          '<button class="check' + (on ? " on" : "") + '" data-dish="' + esc(d.key) + '" aria-pressed="' + on + '" aria-label="' +
+            (on ? "Mark " + esc(d.name) + " as not eaten" : "I ate " + esc(d.name)) + '">' + ic("check") + '</button></div>';
+      }).join("");
+  }
   function renderQuests() {
     var s = stats(city.quests), html = head(city.name, s.done + " of " + s.total + " quests done", { picker: true }) +
-      '<div class="filters">' + seg("data-qview", ui.qview, [["all", "Quests"], ["trails", "Trails"], ["saved", "Saved"]]);
+      '<div class="filters">' + seg("data-qview", ui.qview, [["all", "Quests"], ["trails", "Trails"], ["dishes", "Must-eats"], ["saved", "Saved"]]);
     if (ui.qview === "all") {
       html += '<div class="searchrow"><label class="search">' + ic("search") + '<input id="qsearch" type="search" placeholder="Search ' + esc(city.name) +
         '" value="' + esc(ui.q) + '" autocomplete="off"></label>' +
@@ -501,6 +530,8 @@
       var list = trailsByCity[cityId] || [];
       html += '</div><div class="list"><p class="note flat">Short walks through quests that sit close together. Finish every stop for +' + TRAIL_XP + ' XP.</p>' +
         (list.length ? list.map(trailCard).join("") : '<div class="empty">No trails in this region yet.</div>') + '</div>';
+    } else if (ui.qview === "dishes") {
+      html += '</div><div class="list">' + dishesHtml() + '</div>';
     } else {
       var saved = allQuests.filter(isSaved).sort(function (a, b) { return store.saved[b.key] - store.saved[a.key]; });
       html += '</div><div class="list">' + (saved.length ? saved.map(function (q) { return questRow(q, { region: true }); }).join("")
@@ -820,6 +851,7 @@
       '<li>First quest in a new region +' + XP.region + ', in a new area +' + XP.area + '</li>' +
       '<li>Today\'s adventure +' + XP.daily + ', checking in on the spot +' + XP.checkin + '</li>' +
       '<li>A journal note +' + XP.journal + ', a photo +' + XP.photo + '</li>' +
+      '<li>Each must-eat dish of a region +' + XP.dish + '</li>' +
       '<li>Your class: +25% on its kind of quest</li>' +
       '<li>Weekly streak: +10% per week in a row, up to +50%</li>' +
       '<li>Finishing a trail +' + TRAIL_XP + '. Badges: Bronze +100, Silver +200, Gold +400, Special +150</li></ul></div></div>';

@@ -1,0 +1,47 @@
+{
+ "region": "rotterdam",
+ "dishes": [
+  {
+   "id": "rotterdam-kapsalon",
+   "name": "Kapsalon",
+   "local": "",
+   "icon": "🍟",
+   "desc": "Fries topped with doner meat, melted cheese, salad and sauce. Invented in a Rotterdam barbershop neighbourhood and now served citywide.",
+   "kw": [
+    "kapsalon"
+   ]
+  },
+  {
+   "id": "rotterdam-surinaamse-roti",
+   "name": "Surinamese roti",
+   "local": "Roti",
+   "icon": "🫓",
+   "desc": "Flatbread with curried chicken and potato, a Surinamese-Hindustani dish. Rotterdam has a large Surinamese community.",
+   "kw": [
+    "roti",
+    "surinamese"
+   ]
+  },
+  {
+   "id": "rotterdam-stroopwafel",
+   "name": "Stroopwafel",
+   "local": "",
+   "icon": "🧇",
+   "desc": "Thin waffles sandwiched with caramel syrup, warmed above a cup. Originated in nearby Gouda.",
+   "kw": [
+    "stroopwafel"
+   ]
+  },
+  {
+   "id": "rotterdam-goudse-kaas",
+   "name": "Gouda cheese",
+   "local": "Goudse kaas",
+   "icon": "🧀",
+   "desc": "Wheel cheese from the Gouda area, aged from young to mature. Found at Rotterdam's market hall.",
+   "kw": [
+    "gouda",
+    "kaas"
+   ]
+  }
+ ]
+}

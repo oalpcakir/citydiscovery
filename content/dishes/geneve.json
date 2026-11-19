@@ -1,0 +1,57 @@
+{
+  "region": "geneve",
+  "dishes": [
+    {
+      "id": "geneve-longeole",
+      "name": "Longeole",
+      "local": "",
+      "icon": "🌭",
+      "desc": "Fennel-scented pork sausage with a protected geographical status, cooked in the oven or simmered and served with potatoes or lentils. A Geneva countryside speciality.",
+      "kw": [
+        "longeole"
+      ]
+    },
+    {
+      "id": "geneve-gratin-cardons",
+      "name": "Cardon gratin",
+      "local": "Gratin de cardons",
+      "icon": "🥬",
+      "desc": "Cardoon baked with béchamel and cheese. The Geneva cardoon has a protected designation and the dish is a Geneva Christmas tradition, found in autumn and winter.",
+      "kw": [
+        "cardon",
+        "cardons"
+      ]
+    },
+    {
+      "id": "geneve-malakoff",
+      "name": "Malakoff",
+      "local": "",
+      "icon": "🧀",
+      "desc": "Deep-fried cheese fritters made from bread and cheese, a bar and aperitif snack. Tied to the shores of Lake Geneva, and common on Geneva menus.",
+      "kw": [
+        "malakoff"
+      ]
+    },
+    {
+      "id": "geneve-fondue",
+      "name": "Cheese fondue",
+      "local": "Fondue au fromage",
+      "icon": "🫕",
+      "desc": "Melted Swiss cheeses with white wine, eaten with bread from a shared pot. Geneva serves the classic version in its old brasseries and cafés through the colder months.",
+      "kw": [
+        "fondue"
+      ]
+    },
+    {
+      "id": "geneve-pain-genevois",
+      "name": "Pain de Genève",
+      "local": "Pain genevois",
+      "icon": "🍞",
+      "desc": "Soft, lightly sweet bread from the Geneva region. Bakers in the city still bake it as a local alternative to the standard roll.",
+      "kw": [
+        "pain genevois",
+        "pain de genève"
+      ]
+    }
+  ]
+}

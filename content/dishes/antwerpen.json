@@ -1,0 +1,63 @@
+{
+ "region": "antwerpen",
+ "dishes": [
+  {
+   "id": "antwerpen-handjes",
+   "name": "Antwerpse handjes",
+   "local": "",
+   "icon": "🍪",
+   "desc": "Small butter biscuits shaped like a hand, named after the legend of Brabo throwing a giant's hand into the Scheldt. Sold in bakeries and chocolate shops, also as chocolates.",
+   "kw": [
+    "handjes",
+    "handje"
+   ]
+  },
+  {
+   "id": "antwerpen-worstenbroodje",
+   "name": "Worstenbroodje",
+   "local": "",
+   "icon": "🥐",
+   "desc": "Spiced minced pork baked in a flaky puff-pastry roll. A bakery staple in Antwerp, eaten warm at any hour.",
+   "kw": [
+    "worstenbroodje",
+    "sausage roll"
+   ]
+  },
+  {
+   "id": "antwerpen-americain",
+   "name": "Filet américain",
+   "local": "Préparé / filet américain",
+   "icon": "🥩",
+   "desc": "Seasoned raw minced beef spread on a baguette or pistolet, a lunch of the Antwerp sandwich bars. It is a Belgian staple with a strong local following.",
+   "kw": [
+    "américain",
+    "americain",
+    "filet"
+   ]
+  },
+  {
+   "id": "antwerpen-mechelse-koekoek",
+   "name": "Mechelse koekoek",
+   "local": "",
+   "icon": "🍗",
+   "desc": "Slow-cooked chicken from Mechelen in the Antwerp province, served in a creamy sauce with mushrooms or in classic Flemish stews. A prized local poultry breed.",
+   "kw": [
+    "koekoek",
+    "mechelse"
+   ]
+  },
+  {
+   "id": "antwerpen-frietjes",
+   "name": "Frietjes with stoofvlees",
+   "local": "",
+   "icon": "🍟",
+   "desc": "Thick-cut twice-fried chips from a frietkot, here eaten with sweet-sour beef stew or sauce. Antwerp is known for its old fry shops.",
+   "kw": [
+    "frietjes",
+    "frituur",
+    "fries",
+    "stoofvlees"
+   ]
+  }
+ ]
+}

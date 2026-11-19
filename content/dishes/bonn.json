@@ -1,0 +1,49 @@
+{
+ "region": "bonn",
+ "dishes": [
+  {
+   "id": "bonn-gummibaerchen",
+   "name": "Gummy bears",
+   "local": "Gummibärchen",
+   "icon": "🐻",
+   "desc": "Haribo Goldbears were invented in Bonn in 1922 and are still made here. Shops in the city sell fresh and fruit-gum varieties.",
+   "kw": [
+    "gummy bear",
+    "haribo",
+    "gummibär"
+   ]
+  },
+  {
+   "id": "bonn-goldsaft",
+   "name": "Grafschafter Goldsaft",
+   "local": "",
+   "icon": "🍯",
+   "desc": "Sweet, dark sugar-beet syrup made in the Grafschaft near Bonn. Spread on bread or stirred into baking.",
+   "kw": [
+    "goldsaft",
+    "beet syrup"
+   ]
+  },
+  {
+   "id": "bonn-muscheln",
+   "name": "Rhenish mussels",
+   "local": "Muscheln Rheinischer Art",
+   "icon": "🦪",
+   "desc": "Mussels steamed with vegetables and white wine, served with rye bread. A Rhineland pub classic found around Bonn and the river.",
+   "kw": [
+    "muscheln",
+    "mussels"
+   ]
+  },
+  {
+   "id": "bonn-sauerbraten",
+   "name": "Rheinischer Sauerbraten",
+   "local": "",
+   "icon": "🍖",
+   "desc": "Beef marinated for days in vinegar and spices, served with a sweet-sour gravy with raisins and dumplings. A Rhineland Sunday dish.",
+   "kw": [
+    "sauerbraten"
+   ]
+  }
+ ]
+}

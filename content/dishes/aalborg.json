@@ -1,0 +1,60 @@
+{
+  "region": "aalborg",
+  "dishes": [
+    {
+      "id": "aalborg-skagenrora",
+      "name": "Skagenssalat",
+      "local": "",
+      "icon": "🦐",
+      "desc": "Prawns in a mayonnaise and dill dressing, piled on rye bread or toast. Named after Skagen at the northern tip of Jutland.",
+      "kw": [
+        "skagen",
+        "skagenssalat"
+      ]
+    },
+    {
+      "id": "aalborg-rodspaette",
+      "name": "Stegt rødspætte",
+      "local": "",
+      "icon": "🐟",
+      "desc": "Breaded plaice fried in butter and served with remoulade and lemon. A standard fish lunch on the North Jutland coast.",
+      "kw": [
+        "rødspætte",
+        "plaice"
+      ]
+    },
+    {
+      "id": "aalborg-sild",
+      "name": "Marinated herring",
+      "local": "Marineret sild",
+      "icon": "🐟",
+      "desc": "Herring pickled in vinegar or curry sauce and eaten on rye bread. A fixture of the Danish lunch table and the North Jutland harbours.",
+      "kw": [
+        "sild",
+        "herring"
+      ]
+    },
+    {
+      "id": "aalborg-frikadeller",
+      "name": "Frikadeller",
+      "local": "",
+      "icon": "🍖",
+      "desc": "Pan-fried pork meatballs served with potatoes and red cabbage. The everyday Danish home dish, found in traditional lunch restaurants.",
+      "kw": [
+        "frikadeller"
+      ]
+    },
+    {
+      "id": "aalborg-aalborgakvavit",
+      "name": "Skagen fish plate",
+      "local": "Skagens fiskeret",
+      "icon": "🍽",
+      "desc": "A plate of fried and smoked fish from the Skagen fleet, served with rye bread and remoulade in harbour restaurants.",
+      "kw": [
+        "skagen",
+        "fiskefrikadelle",
+        "fiskeret"
+      ]
+    }
+  ]
+}

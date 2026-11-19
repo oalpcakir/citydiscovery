@@ -1,0 +1,59 @@
+{
+  "region": "basel",
+  "dishes": [
+    {
+      "id": "basel-laeckerli",
+      "name": "Basler Läckerli",
+      "local": "",
+      "icon": "🍪",
+      "desc": "Chewy spiced honey biscuit with candied peel, almonds and hazelnuts, glazed white on top. Basel's signature sweet, sold in tins at the city's old confectioners.",
+      "kw": [
+        "läckerli",
+        "laeckerli"
+      ]
+    },
+    {
+      "id": "basel-mehlsuppe",
+      "name": "Basler Mehlsuppe",
+      "local": "",
+      "icon": "🍲",
+      "desc": "Soup of deeply browned flour and onions in beef stock, finished with grated cheese. Tied to Fasnacht, but served in traditional Basel restaurants through the colder months.",
+      "kw": [
+        "mehlsuppe",
+        "flour soup"
+      ]
+    },
+    {
+      "id": "basel-zwiebelwaehe",
+      "name": "Basler Zwiebelwähe",
+      "local": "",
+      "icon": "🥧",
+      "desc": "Savoury onion tart with egg and cream on a thin pastry base. Eaten in Basel at Fasnacht and in bakeries and cafés through the year.",
+      "kw": [
+        "zwiebelwähe",
+        "onion tart"
+      ]
+    },
+    {
+      "id": "basel-brunsli",
+      "name": "Basler Brunsli",
+      "local": "",
+      "icon": "🍫",
+      "desc": "Small chocolate and almond biscuits with cinnamon, baked at Christmas time in Basel bakeries and confectioners. They are soft inside and slightly crisp outside.",
+      "kw": [
+        "brunsli"
+      ]
+    },
+    {
+      "id": "basel-suure-mocke",
+      "name": "Suure Mocke",
+      "local": "",
+      "icon": "🥩",
+      "desc": "Beef marinated in vinegar and spices, then braised into a rich sour stew. A traditional Basel-area Sunday dish, found in old-style restaurants.",
+      "kw": [
+        "suure mocke",
+        "sauer mocke"
+      ]
+    }
+  ]
+}

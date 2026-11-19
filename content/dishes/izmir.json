@@ -1,0 +1,68 @@
+{
+  "region": "izmir",
+  "dishes": [
+    {
+      "id": "izmir-boyoz",
+      "name": "Boyoz",
+      "local": "",
+      "icon": "🥐",
+      "desc": "Flaky, oily pastry brought by Sephardic Jews, eaten on weekend mornings with a boiled egg. Found almost only in İzmir.",
+      "kw": [
+        "boyoz"
+      ]
+    },
+    {
+      "id": "izmir-lokma",
+      "name": "İzmir lokma",
+      "local": "",
+      "icon": "🍩",
+      "desc": "Small fried dough balls soaked in syrup, sold warm from shops and carts. The İzmir version is crisp outside and syrupy inside.",
+      "kw": [
+        "lokma"
+      ]
+    },
+    {
+      "id": "izmir-sambali",
+      "name": "Şambali",
+      "local": "",
+      "icon": "🍰",
+      "desc": "Semolina cake soaked in syrup and topped with almond or cream, a dessert strongly linked to İzmir.",
+      "kw": [
+        "şambali",
+        "sambali"
+      ]
+    },
+    {
+      "id": "izmir-kumru",
+      "name": "Kumru",
+      "local": "",
+      "icon": "🥪",
+      "desc": "Toasted roll filled with sucuk, tomato and cheese. Born in Çeşme on the Aegean coast and now eaten all over İzmir.",
+      "kw": [
+        "kumru"
+      ]
+    },
+    {
+      "id": "izmir-otlar",
+      "name": "Aegean wild greens",
+      "local": "Ege otları",
+      "icon": "🥬",
+      "desc": "Boiled wild herbs dressed with olive oil and lemon, a staple of Aegean meyhanes and the kitchens of Çeşme and Urla.",
+      "kw": [
+        "ege otları",
+        "otlar",
+        "radika"
+      ]
+    },
+    {
+      "id": "izmir-tulum",
+      "name": "İzmir tulum cheese",
+      "local": "İzmir tulum peyniri",
+      "icon": "🧀",
+      "desc": "Crumbly, salty goat's-milk cheese ripened in a skin, made in the İzmir hills and served at breakfast.",
+      "kw": [
+        "tulum"
+      ]
+    }
+  ]
+}

@@ -27,7 +27,15 @@ def route_km(lst):
     return sum(km(lst[i - 1]["ll"], lst[i]["ll"]) for i in range(1, len(lst)))
 
 
-def best_route(pool, min_stops, max_stops, max_km):
+TASTE_MAX = {"meal": 1, "drink": 1, "sweet": 1, "coffee": 1, "snack": 2}
+
+
+def taste_fits(route, q):
+    k = q.get("kind") or "meal"
+    return sum(1 for x in route if (x.get("kind") or "meal") == k) < TASTE_MAX.get(k, 1)
+
+
+def best_route(pool, min_stops, max_stops, max_km, fits=None):
     pool = [q for q in pool if q.get("ll")]
     if len(pool) < min_stops:
         return None
@@ -38,7 +46,7 @@ def best_route(pool, min_stops, max_stops, max_km):
             last = route[-1]
             pick, pd = None, float("inf")
             for q in pool:
-                if q in route:
+                if q in route or (fits and not fits(route, q)):
                     continue
                 d = km(last["ll"], q["ll"])
                 if d < pd:
@@ -99,7 +107,7 @@ def build_trails(cities):
                 continue
             pool = [q for q in in_city if q.get("area") == a and q.get("cat") != "ye"]
             add(best_route(pool, 4, 7, 3.2))
-        add(best_route([q for q in in_city if q.get("cat") == "ye"], 4, 6, 3.5))
+        add(best_route([q for q in in_city if q.get("cat") == "ye"], 4, 6, 3.5, taste_fits))
         add(best_route([q for q in in_city if "rainy day" in (q.get("tags") or [])], 3, 5, 4.0))
 
         rest = [q for q in c.get("quests", []) if q.get("area") == "cevre" and q.get("ll") and not q.get("months")]

@@ -1,0 +1,56 @@
+{
+ "region": "dortmund",
+ "dishes": [
+  {
+   "id": "dortmund-pfefferpotthast",
+   "name": "Pfefferpotthast",
+   "local": "",
+   "icon": "🥘",
+   "desc": "Westphalian beef stew with onions, bay leaf and plenty of pepper, long a Dortmund tavern dish served with potatoes or bread.",
+   "kw": [
+    "pfefferpotthast"
+   ]
+  },
+  {
+   "id": "dortmund-toettchen",
+   "name": "Töttchen",
+   "local": "",
+   "icon": "🍲",
+   "desc": "Veal ragout in a tangy gravy made with vinegar and capers, a dish of Westphalia and the Ruhr.",
+   "kw": [
+    "töttchen"
+   ]
+  },
+  {
+   "id": "dortmund-pumpernickel",
+   "name": "Westphalian pumpernickel",
+   "local": "Westfälischer Pumpernickel",
+   "icon": "🍞",
+   "desc": "Dark rye bread steamed for many hours until sweet and soft. Eaten with ham, cheese or butter across the region.",
+   "kw": [
+    "pumpernickel"
+   ]
+  },
+  {
+   "id": "dortmund-salzkuchen",
+   "name": "Dortmunder Salzkuchen",
+   "local": "",
+   "icon": "🥐",
+   "desc": "Yeast roll topped with salt, caraway and onion, a Dortmund bakery snack known as a beer-hall companion.",
+   "kw": [
+    "salzkuchen"
+   ]
+  },
+  {
+   "id": "dortmund-schinken",
+   "name": "Westphalian ham",
+   "local": "Westfälischer Schinken",
+   "icon": "🥩",
+   "desc": "Smoked and air-cured ham from Westphalian farms, sliced thin and served with pumpernickel.",
+   "kw": [
+    "westphalian ham",
+    "schinken"
+   ]
+  }
+ ]
+}

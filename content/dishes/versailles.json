@@ -1,0 +1,58 @@
+{
+ "region": "versailles",
+ "dishes": [
+  {
+   "id": "versailles-paris-brest",
+   "name": "Paris-Brest",
+   "local": "",
+   "icon": "🥐",
+   "desc": "A ring of choux pastry filled with praline cream, created in 1910 at Maisons-Laffitte, in the Yvelines near Versailles.",
+   "kw": [
+    "paris-brest",
+    "paris brest"
+   ]
+  },
+  {
+   "id": "versailles-petits-pois",
+   "name": "Petits pois à la française",
+   "local": "",
+   "icon": "🫛",
+   "desc": "Young peas braised with butter, lettuce and onions, a dish that became a fashion at Louis XIV's court in Versailles.",
+   "kw": [
+    "petits pois",
+    "peas"
+   ]
+  },
+  {
+   "id": "versailles-rambolitain",
+   "name": "Rambolitain",
+   "local": "",
+   "icon": "🍰",
+   "desc": "Soft almond-macaron cake filled with light praline cream, topped with toasted almonds and hazelnuts. Created in Rambouillet in 1946 and now a recognised local speciality of the town.",
+   "kw": [
+    "rambolitain"
+   ]
+  },
+  {
+   "id": "versailles-houdan",
+   "name": "Houdan poultry",
+   "local": "Volaille de Houdan",
+   "icon": "🍗",
+   "desc": "Roast chicken or capon of the five-toed Houdan breed, an IGP-protected poultry from Houdan in the western Yvelines. Traditionally roasted for festive meals.",
+   "kw": [
+    "houdan"
+   ]
+  },
+  {
+   "id": "versailles-potage-st-germain",
+   "name": "Potage Saint-Germain",
+   "local": "",
+   "icon": "🥣",
+   "desc": "Smooth green soup of split or fresh peas, named after Saint-Germain-en-Laye in the Yvelines. A French classic that the Yvelines department counts among its own specialities.",
+   "kw": [
+    "potage saint-germain",
+    "saint-germain"
+   ]
+  }
+ ]
+}

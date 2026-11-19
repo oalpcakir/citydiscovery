@@ -1,0 +1,57 @@
+{
+  "region": "odense",
+  "dishes": [
+    {
+      "id": "odense-tarteletter",
+      "name": "Tarteletter",
+      "local": "",
+      "icon": "🥧",
+      "desc": "Puff pastry shells filled with chicken and asparagus in white sauce. A Danish classic that is easy to find on Funen.",
+      "kw": [
+        "tarteletter"
+      ]
+    },
+    {
+      "id": "odense-marcipan",
+      "name": "Odense marzipan",
+      "local": "Odense marcipan",
+      "icon": "🍬",
+      "desc": "Marzipan figures, bars and sweets made in the city, which has a long tradition of confectionery.",
+      "kw": [
+        "marcipan",
+        "marzipan"
+      ]
+    },
+    {
+      "id": "odense-aeble",
+      "name": "Funen apple cake",
+      "local": "Fynsk æblekage",
+      "icon": "🍏",
+      "desc": "Funen is the orchard island of Denmark, and apple cakes and desserts feature on cafe menus across the island.",
+      "kw": [
+        "æble",
+        "apple"
+      ]
+    },
+    {
+      "id": "odense-risalamande",
+      "name": "Risalamande",
+      "local": "",
+      "icon": "🍚",
+      "desc": "Cold rice pudding with whipped cream, almonds and hot cherry sauce. Danish Christmas dessert that appears on winter menus.",
+      "kw": [
+        "risalamande"
+      ]
+    },
+    {
+      "id": "odense-flaeskestegsandwich",
+      "name": "Fynsk rullepølse",
+      "local": "Rullepølse",
+      "icon": "🥓",
+      "desc": "Spiced pressed pork roll sliced thin over rye bread, a regular on the Danish cold lunch table.",
+      "kw": [
+        "rullepølse"
+      ]
+    }
+  ]
+}

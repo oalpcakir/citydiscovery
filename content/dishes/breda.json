@@ -1,0 +1,51 @@
+{
+ "region": "breda",
+ "dishes": [
+  {
+   "id": "breda-bergse-ansjovis",
+   "name": "Bergen op Zoom anchovies",
+   "local": "Bergse ansjovis",
+   "icon": "🐟",
+   "desc": "The only Dutch anchovies, caught by one family in fyke nets off Bergen op Zoom from May to early June and sold fresh or salted.",
+   "kw": [
+    "ansjovis",
+    "anchovy",
+    "anchovies"
+   ]
+  },
+  {
+   "id": "breda-groffenkoek",
+   "name": "Bergse puddingkoek",
+   "local": "Groffenkoek",
+   "icon": "🍮",
+   "desc": "Large round pudding tart from Bergen op Zoom, also called koeienvlaai. A bakery speciality of West Brabant.",
+   "kw": [
+    "groffenkoek",
+    "puddingkoek",
+    "koeienvlaai"
+   ]
+  },
+  {
+   "id": "breda-bergse-asperges",
+   "name": "West Brabant white asparagus",
+   "local": "Bergse asperges",
+   "icon": "🌿",
+   "desc": "White asparagus grown around Bergen op Zoom, served in spring with ham, egg and butter. Many restaurants run a dedicated asparagus menu.",
+   "kw": [
+    "asperges",
+    "asparagus"
+   ]
+  },
+  {
+   "id": "breda-chaams-hoen",
+   "name": "Chaams hoen",
+   "local": "Kaamsekiep",
+   "icon": "🍗",
+   "desc": "Free-range chicken from the farms south of Breda, roasted or stewed. A traditional product of the Chaam area.",
+   "kw": [
+    "chaams hoen",
+    "kaamsekiep"
+   ]
+  }
+ ]
+}

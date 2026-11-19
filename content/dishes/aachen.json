@@ -1,0 +1,58 @@
+{
+ "region": "aachen",
+ "dishes": [
+  {
+   "id": "aachen-printen",
+   "name": "Aachener Printen",
+   "local": "",
+   "icon": "🍪",
+   "desc": "Spiced, dense gingerbread bars baked in Aachen since the Middle Ages, plain or coated in chocolate. The city's best-known bakery product.",
+   "kw": [
+    "printen"
+   ]
+  },
+  {
+   "id": "aachen-reisfladen",
+   "name": "Öcher Reisfladen",
+   "local": "Aachener Reisfladen",
+   "icon": "🥧",
+   "desc": "Small shortcrust tart filled with sweet rice pudding and often cinnamon. A traditional Aachen bakery treat.",
+   "kw": [
+    "reisfladen"
+   ]
+  },
+  {
+   "id": "aachen-puttes",
+   "name": "Puttes",
+   "local": "Aachener Puttes",
+   "icon": "🌭",
+   "desc": "Aachen's own black pudding, fried and served with onions and potatoes. A hearty old-town staple.",
+   "kw": [
+    "puttes",
+    "blood sausage"
+   ]
+  },
+  {
+   "id": "aachen-doeppekooche",
+   "name": "Döppekooche",
+   "local": "Döppekooche",
+   "icon": "🥔",
+   "desc": "Baked grated-potato casserole with bacon and onion, a rustic dish of the Eifel and Rhineland, eaten with apple sauce.",
+   "kw": [
+    "döppekooche",
+    "dibbekuchen"
+   ]
+  },
+  {
+   "id": "aachen-rubenkraut",
+   "name": "Rübenkraut",
+   "local": "Rübenkraut",
+   "icon": "🍯",
+   "desc": "Thick sugar-beet syrup spread on dark bread, from the sugar-beet fields around Düren and Aachen. The region's answer to honey.",
+   "kw": [
+    "rübenkraut",
+    "beet syrup"
+   ]
+  }
+ ]
+}

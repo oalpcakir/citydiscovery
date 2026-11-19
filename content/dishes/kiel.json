@@ -1,0 +1,57 @@
+{
+ "region": "kiel",
+ "dishes": [
+  {
+   "id": "kiel-fischbroetchen",
+   "name": "Fischbrötchen",
+   "local": "",
+   "icon": "🥪",
+   "desc": "Roll with herring, matjes or smoked fish with onions and remoulade. Eaten straight from the harbour stalls on the fjord.",
+   "kw": [
+    "fischbrötchen",
+    "fish roll"
+   ]
+  },
+  {
+   "id": "kiel-sprotten",
+   "name": "Kieler Sprotten",
+   "local": "",
+   "icon": "🐟",
+   "desc": "Small smoked sprats, a regional delicacy of Kiel eaten whole with bread.",
+   "kw": [
+    "sprotten"
+   ]
+  },
+  {
+   "id": "kiel-rote-gruetze",
+   "name": "Rote Grütze",
+   "local": "",
+   "icon": "🍓",
+   "desc": "Thick red berry compote served with vanilla sauce or cream, a Schleswig-Holstein dessert.",
+   "kw": [
+    "rote grütze"
+   ]
+  },
+  {
+   "id": "kiel-birnen-bohnen",
+   "name": "Birnen, Bohnen und Speck",
+   "local": "",
+   "icon": "🍐",
+   "desc": "Green beans, pears and bacon cooked together in one pot, a sweet-and-savoury northern dish.",
+   "kw": [
+    "birnen",
+    "bohnen"
+   ]
+  },
+  {
+   "id": "kiel-katenschinken",
+   "name": "Holsteiner Katenschinken",
+   "local": "",
+   "icon": "🥩",
+   "desc": "Smoked and air-cured ham from Holstein, sliced thin and eaten on dark bread.",
+   "kw": [
+    "katenschinken"
+   ]
+  }
+ ]
+}

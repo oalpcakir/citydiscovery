@@ -1,0 +1,59 @@
+{
+ "region": "denhaag",
+ "dishes": [
+  {
+   "id": "denhaag-hollandse-nieuwe",
+   "name": "Hollandse Nieuwe herring",
+   "local": "Haring",
+   "icon": "🐟",
+   "desc": "Young herring eaten raw with chopped onions and pickles, caught in early summer. Scheveningen harbour is the classic place to taste it.",
+   "kw": [
+    "haring",
+    "herring"
+   ]
+  },
+  {
+   "id": "denhaag-kibbeling",
+   "name": "Kibbeling",
+   "local": "",
+   "icon": "🍤",
+   "desc": "Chunks of battered, deep-fried white fish with garlic sauce. A Scheveningen harbour snack eaten from a paper tray.",
+   "kw": [
+    "kibbeling"
+   ]
+  },
+  {
+   "id": "denhaag-haagse-hopjes",
+   "name": "Haagse hopjes",
+   "local": "",
+   "icon": "🍬",
+   "desc": "Coffee-caramel hard sweets named after a count of the Hague. Created in the city in the 18th century.",
+   "kw": [
+    "hopjes",
+    "hopje"
+   ]
+  },
+  {
+   "id": "denhaag-haagse-bluf",
+   "name": "Haagse bluf",
+   "local": "",
+   "icon": "🍮",
+   "desc": "Light dessert of whipped egg white, sugar and berry juice. A traditional Hague pudding.",
+   "kw": [
+    "haagse bluf",
+    "bluf"
+   ]
+  },
+  {
+   "id": "denhaag-soto-ayam",
+   "name": "Soto ayam",
+   "local": "",
+   "icon": "🍜",
+   "desc": "Indonesian chicken soup with rice noodles and egg. Den Haag has a large Indo-Dutch community and many specialist eateries.",
+   "kw": [
+    "soto",
+    "indonesian"
+   ]
+  }
+ ]
+}

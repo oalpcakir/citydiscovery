@@ -1,0 +1,46 @@
+{
+ "region": "eindhoven",
+ "dishes": [
+  {
+   "id": "eindhoven-brabants-worstenbroodje",
+   "name": "Brabants worstenbroodje",
+   "local": "",
+   "icon": "🥖",
+   "desc": "Seasoned minced pork wrapped in flaky pastry and baked. Eindhoven's bakeries take it seriously, with regional votes for the best one.",
+   "kw": [
+    "worstenbroodje"
+   ]
+  },
+  {
+   "id": "eindhoven-kempense-schapenkaas",
+   "name": "Kempen sheep's cheese",
+   "local": "Schapenkaas",
+   "icon": "🧀",
+   "desc": "Cheese from sheep grazing on the Kempen heathlands. Found at farm shops and markets around Eindhoven.",
+   "kw": [
+    "schapenkaas",
+    "sheep cheese"
+   ]
+  },
+  {
+   "id": "eindhoven-brabantse-eierkoek",
+   "name": "Brabant eierkoek",
+   "local": "Brabantse eierkoek",
+   "icon": "🧁",
+   "desc": "Light, dry sponge cake that originates in Brabant, found in bakeries and supermarkets across the province.",
+   "kw": [
+    "eierkoek"
+   ]
+  },
+  {
+   "id": "eindhoven-gevulde-koek",
+   "name": "Gevulde koek",
+   "local": "",
+   "icon": "🍪",
+   "desc": "Round almond-paste filled butter cookie. A Brabant bakery favourite.",
+   "kw": [
+    "gevulde koek"
+   ]
+  }
+ ]
+}

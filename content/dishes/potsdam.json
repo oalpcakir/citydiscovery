@@ -1,0 +1,62 @@
+{
+  "region": "potsdam",
+  "dishes": [
+    {
+      "id": "potsdam-havel-zander",
+      "name": "Havel pike-perch",
+      "local": "Havelzander",
+      "icon": "🐟",
+      "desc": "Pan-fried zander from the Havel lakes, with potatoes or in a herb sauce. The freshwater fish of the Potsdam lake district.",
+      "kw": [
+        "zander",
+        "pike-perch",
+        "havel"
+      ]
+    },
+    {
+      "id": "potsdam-teltower-ruebchen",
+      "name": "Teltower turnips",
+      "local": "Teltower Rübchen",
+      "icon": "🥕",
+      "desc": "Small sweet turnips from the Teltow area just outside Potsdam, usually glazed in butter. A protected regional vegetable.",
+      "kw": [
+        "teltower rübchen",
+        "rübchen"
+      ]
+    },
+    {
+      "id": "potsdam-beelitzer-spargel",
+      "name": "Beelitz asparagus",
+      "local": "Beelitzer Spargel",
+      "icon": "🌱",
+      "desc": "White asparagus from the sandy soils of Beelitz, eaten in spring with potatoes, ham and butter.",
+      "kw": [
+        "beelitzer",
+        "spargel",
+        "asparagus"
+      ]
+    },
+    {
+      "id": "potsdam-leinoel-quark",
+      "name": "Potatoes with linseed oil",
+      "local": "Pellkartoffeln mit Leinöl und Quark",
+      "icon": "🥔",
+      "desc": "Boiled jacket potatoes with fresh quark and cold-pressed linseed oil. A simple Brandenburg country classic.",
+      "kw": [
+        "leinöl",
+        "quark"
+      ]
+    },
+    {
+      "id": "potsdam-suelze",
+      "name": "Sülze with fried potatoes",
+      "local": "Sülze mit Bratkartoffeln",
+      "icon": "🍽️",
+      "desc": "Jellied pork brawn with pickles and onions, served with crispy fried potatoes. Hearty traditional Brandenburg pub food.",
+      "kw": [
+        "sülze",
+        "bratkartoffeln"
+      ]
+    }
+  ]
+}

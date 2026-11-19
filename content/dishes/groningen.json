@@ -1,0 +1,46 @@
+{
+ "region": "groningen",
+ "dishes": [
+  {
+   "id": "groningen-groninger-mosterdsoep",
+   "name": "Groninger mosterdsoep",
+   "local": "",
+   "icon": "🍲",
+   "desc": "Creamy soup flavoured with mustard from the province, usually with bacon. A traditional Groningen dish.",
+   "kw": [
+    "mosterdsoep",
+    "mustard soup"
+   ]
+  },
+  {
+   "id": "groningen-groninger-koek",
+   "name": "Groninger koek",
+   "local": "",
+   "icon": "🍞",
+   "desc": "Dense spiced gingerbread cake sliced with butter. The province's breakfast staple.",
+   "kw": [
+    "groninger koek"
+   ]
+  },
+  {
+   "id": "groningen-groninger-metworst",
+   "name": "Groninger metworst",
+   "local": "",
+   "icon": "🌭",
+   "desc": "Coarse raw-cured sausage seasoned with clove and pepper. A regional speciality sold at the city's butchers.",
+   "kw": [
+    "metworst"
+   ]
+  },
+  {
+   "id": "groningen-eierbal",
+   "name": "Groninger eierbal",
+   "local": "Eierbal",
+   "icon": "🥚",
+   "desc": "Deep-fried breaded ball of ragout around a hard-boiled egg, sold in snack bars and mostly eaten in Groningen province.",
+   "kw": [
+    "eierbal"
+   ]
+  }
+ ]
+}

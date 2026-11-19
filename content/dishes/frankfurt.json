@@ -1,0 +1,59 @@
+{
+  "region": "frankfurt",
+  "dishes": [
+    {
+      "id": "frankfurt-gruene-sosse",
+      "name": "Frankfurt green sauce",
+      "local": "Frankfurter Grüne Soße",
+      "icon": "🌿",
+      "desc": "Cold sauce of seven fresh herbs with sour cream and yoghurt, served with boiled eggs and potatoes. The city's signature dish, protected as a regional specialty.",
+      "kw": [
+        "grüne soße",
+        "green sauce"
+      ]
+    },
+    {
+      "id": "frankfurt-handkaese",
+      "name": "Handkäse mit Musik",
+      "local": "",
+      "icon": "🧀",
+      "desc": "Sour-milk cheese marinated in vinegar, oil and onions. Eaten with bread in apple-wine taverns, where 'Musik' refers to the onion dressing.",
+      "kw": [
+        "handkäse",
+        "handkase"
+      ]
+    },
+    {
+      "id": "frankfurt-wuerstchen",
+      "name": "Frankfurter Würstchen",
+      "local": "",
+      "icon": "🌭",
+      "desc": "Thin, smoked pork sausages heated in water and served with mustard and bread. The original Frankfurter, long made in the city.",
+      "kw": [
+        "frankfurter würstchen",
+        "würstchen"
+      ]
+    },
+    {
+      "id": "frankfurt-rippchen",
+      "name": "Frankfurter Rippchen",
+      "local": "",
+      "icon": "🍖",
+      "desc": "Cured and boiled pork chop served with sauerkraut, mustard and bread. A staple of Sachsenhausen taverns.",
+      "kw": [
+        "rippchen"
+      ]
+    },
+    {
+      "id": "frankfurt-bethmaennchen",
+      "name": "Bethmännchen",
+      "local": "",
+      "icon": "🍪",
+      "desc": "Small marzipan balls with three almond halves on the side, baked until just golden. A Frankfurt Christmas sweet that is now sold in bakeries all year.",
+      "kw": [
+        "bethmännchen",
+        "bethmann"
+      ]
+    }
+  ]
+}

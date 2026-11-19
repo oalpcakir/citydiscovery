@@ -1,0 +1,65 @@
+{
+ "region": "namur",
+ "dishes": [
+  {
+   "id": "namur-petits-gris",
+   "name": "Petits-gris de Namur",
+   "local": "Escargots de Namur",
+   "icon": "🐌",
+   "desc": "Small grey garden snails cooked in the Namur way with herbs and butter. The snail is the city's emblem.",
+   "kw": [
+    "petit-gris",
+    "petits-gris",
+    "snail",
+    "escargot"
+   ]
+  },
+  {
+   "id": "namur-bietrume",
+   "name": "Biétrumé",
+   "local": "",
+   "icon": "🍫",
+   "desc": "Butter caramel and chocolate sweet created in Namur in 1956.",
+   "kw": [
+    "biétrumé",
+    "bietrume"
+   ]
+  },
+  {
+   "id": "namur-baisers-namur",
+   "name": "Baisers de Namur",
+   "local": "",
+   "icon": "🍬",
+   "desc": "Soft sweet kisses sold at chocolatiers in Namur and La Roche.",
+   "kw": [
+    "baiser",
+    "baisers"
+   ]
+  },
+  {
+   "id": "namur-jambon-ardennes",
+   "name": "Ardennes ham",
+   "local": "Jambon d'Ardenne",
+   "icon": "🥓",
+   "desc": "Dry-cured, lightly smoked ham from the Ardennes, a protected regional product.",
+   "kw": [
+    "ardennes ham",
+    "jambon",
+    "ham"
+   ]
+  },
+  {
+   "id": "namur-gibier",
+   "name": "Ardennes game",
+   "local": "Gibier",
+   "icon": "🥩",
+   "desc": "Venison and wild boar stewed in autumn in Ardennes inns and restaurants.",
+   "kw": [
+    "game",
+    "gibier",
+    "wild boar",
+    "sanglier"
+   ]
+  }
+ ]
+}

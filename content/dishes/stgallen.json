@@ -1,0 +1,56 @@
+{
+  "region": "stgallen",
+  "dishes": [
+    {
+      "id": "stgallen-bratwurst",
+      "name": "St. Galler Bratwurst",
+      "local": "",
+      "icon": "🌭",
+      "desc": "Pale veal and pork sausage with a protected geographical status, eaten without mustard. The city's butchers set its rules as early as 1438.",
+      "kw": [
+        "bratwurst"
+      ]
+    },
+    {
+      "id": "stgallen-buerli",
+      "name": "St. Galler Bürli",
+      "local": "",
+      "icon": "🥖",
+      "desc": "Crusty bread rolls baked in pairs that are pulled apart. The traditional partner of the St. Galler Bratwurst.",
+      "kw": [
+        "bürli",
+        "buerli"
+      ]
+    },
+    {
+      "id": "stgallen-biber",
+      "name": "St. Galler Biber",
+      "local": "",
+      "icon": "🍯",
+      "desc": "Honey gingerbread filled with almond paste, pressed in carved moulds. Sold by the city's bakers as the local sweet.",
+      "kw": [
+        "biber"
+      ]
+    },
+    {
+      "id": "stgallen-fladen",
+      "name": "St. Galler Fladen",
+      "local": "",
+      "icon": "🥧",
+      "desc": "Flat fruit tart, the traditional pastry of the Eastern Swiss countryside around St. Gallen. Bakeries and chocolatiers sell it by the slice.",
+      "kw": [
+        "fladen"
+      ]
+    },
+    {
+      "id": "stgallen-sammetsuppe",
+      "name": "Galler Sammetsuppe",
+      "local": "",
+      "icon": "🍲",
+      "desc": "Smooth and velvety soup, an old St. Gallen dish. A few traditional restaurants in the old town still make it.",
+      "kw": [
+        "sammetsuppe"
+      ]
+    }
+  ]
+}

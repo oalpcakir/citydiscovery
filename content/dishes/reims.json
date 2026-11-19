@@ -1,0 +1,58 @@
+{
+ "region": "reims",
+ "dishes": [
+  {
+   "id": "reims-biscuit-rose",
+   "name": "Biscuit rose de Reims",
+   "local": "Biscuit rose",
+   "icon": "🍪",
+   "desc": "A pink, vanilla-flavoured biscuit made in Reims since 1691. Crisp and light, designed for dunking.",
+   "kw": [
+    "biscuit rose",
+    "biscuits roses"
+   ]
+  },
+  {
+   "id": "reims-massepain",
+   "name": "Massepain de Reims",
+   "local": "",
+   "icon": "🍬",
+   "desc": "Soft almond marzipan biscuits made in Reims since the Middle Ages. Often packed in boxes for gifts.",
+   "kw": [
+    "massepain"
+   ]
+  },
+  {
+   "id": "reims-pain-epices",
+   "name": "Reims gingerbread",
+   "local": "Pain d'épices de Reims",
+   "icon": "🍞",
+   "desc": "A dense honey and spice bread, a Reims confectioner's speciality for centuries. Sold in slices or as small cakes.",
+   "kw": [
+    "pain d'épices",
+    "gingerbread"
+   ]
+  },
+  {
+   "id": "reims-jambon",
+   "name": "Jambon de Reims",
+   "local": "",
+   "icon": "🍖",
+   "desc": "Pressed ham set in aspic with parsley, served cold in slices. A Reims charcuterie classic.",
+   "kw": [
+    "jambon de reims"
+   ]
+  },
+  {
+   "id": "reims-moutarde",
+   "name": "Moutarde de Reims",
+   "local": "",
+   "icon": "🥄",
+   "desc": "A coarse-ground wholegrain mustard made in Reims since the Middle Ages. Used with ham and sold in local épiceries.",
+   "kw": [
+    "moutarde de reims",
+    "mustard"
+   ]
+  }
+ ]
+}

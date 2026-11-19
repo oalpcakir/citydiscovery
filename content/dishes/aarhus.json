@@ -1,0 +1,57 @@
+{
+  "region": "aarhus",
+  "dishes": [
+    {
+      "id": "aarhus-brunsviger",
+      "name": "Brunsviger",
+      "local": "",
+      "icon": "🍰",
+      "desc": "Sticky yeast cake with a brown-sugar and butter topping, baked in Aarhus and Funen bakeries and eaten with coffee.",
+      "kw": [
+        "brunsviger"
+      ]
+    },
+    {
+      "id": "aarhus-aeblekage",
+      "name": "Æblekage",
+      "local": "",
+      "icon": "🍎",
+      "desc": "Layers of stewed apple, buttered crumbs and whipped cream. A traditional Danish dessert still served in Jutland cafes.",
+      "kw": [
+        "æblekage"
+      ]
+    },
+    {
+      "id": "aarhus-flaesk",
+      "name": "Stegt flæsk med persillesovs",
+      "local": "",
+      "icon": "🥓",
+      "desc": "Fried pork belly with potatoes and parsley sauce. Voted Denmark's national dish and common on traditional Jutland menus.",
+      "kw": [
+        "stegt flæsk",
+        "persillesovs"
+      ]
+    },
+    {
+      "id": "aarhus-rugbrod",
+      "name": "Rugbrød",
+      "local": "",
+      "icon": "🍞",
+      "desc": "Dense, sour dark rye bread that is the base of Danish lunch, baked in local bakeries and sold by the loaf.",
+      "kw": [
+        "rugbrød"
+      ]
+    },
+    {
+      "id": "aarhus-kanelsnegl",
+      "name": "Kanelsnegl",
+      "local": "",
+      "icon": "🥐",
+      "desc": "Cinnamon swirl pastry baked fresh each morning in Aarhus bakeries, a regular companion to coffee.",
+      "kw": [
+        "kanelsnegl",
+        "cinnamon"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "region": "rosenheim",
+  "dishes": [
+    {
+      "id": "rosenheim-chiemsee-renke",
+      "name": "Chiemsee Renke",
+      "local": "Chiemseerenke",
+      "icon": "🐟",
+      "desc": "Lake whitefish from the nearby Chiemsee, fried in butter 'Müllerin' style with lemon. The classic fish of the Chiemgau.",
+      "kw": [
+        "renke",
+        "chiemsee"
+      ]
+    },
+    {
+      "id": "rosenheim-biersuppe",
+      "name": "Bavarian beer soup",
+      "local": "Boarische Biersuppe",
+      "icon": "🍲",
+      "desc": "Beer-based soup thickened with cream and egg yolk, served with cheese-topped bread slices. An old Upper Bavarian recipe.",
+      "kw": [
+        "biersuppe"
+      ]
+    },
+    {
+      "id": "rosenheim-kaiserschmarrn",
+      "name": "Kaiserschmarrn",
+      "local": "",
+      "icon": "🥞",
+      "desc": "Fluffy torn pancake with raisins and powdered sugar, served with plum compote. A fixture on alpine-style menus in the Chiemgau.",
+      "kw": [
+        "kaiserschmarrn"
+      ]
+    },
+    {
+      "id": "rosenheim-auszogne",
+      "name": "Auszogne",
+      "local": "",
+      "icon": "🍩",
+      "desc": "Fried yeast pastry with a thin centre and thick rim, dusted with sugar. An Upper Bavarian fair and bakery treat.",
+      "kw": [
+        "auszogne",
+        "schmalznudel"
+      ]
+    },
+    {
+      "id": "rosenheim-butternudeln",
+      "name": "Butternudel",
+      "local": "",
+      "icon": "🍝",
+      "desc": "Handmade Chiemgau noodles tossed in browned butter, a nearly forgotten mountain-inn speciality.",
+      "kw": [
+        "butternudel"
+      ]
+    }
+  ]
+}

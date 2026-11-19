@@ -1,0 +1,59 @@
+{
+  "region": "chur",
+  "dishes": [
+    {
+      "id": "chur-capuns",
+      "name": "Capuns",
+      "local": "",
+      "icon": "🥬",
+      "desc": "Swiss chard leaves wrapped around a spätzle-like dough with dried meat, baked in cream and milk. The best-known dish of Graubünden, found in Chur's traditional restaurants.",
+      "kw": [
+        "capuns"
+      ]
+    },
+    {
+      "id": "chur-pizokel",
+      "name": "Pizokel",
+      "local": "",
+      "icon": "🍝",
+      "desc": "Thick buckwheat or wheat dumplings, often cooked with cheese, cabbage or butter and sage. A Graubünden mountain staple that Chur restaurants put on the menu.",
+      "kw": [
+        "pizokel",
+        "pizokels"
+      ]
+    },
+    {
+      "id": "chur-maluns",
+      "name": "Maluns",
+      "local": "",
+      "icon": "🥔",
+      "desc": "Grated potatoes roasted slowly in butter with flour until crumbly, usually served with apple sauce. A Graubünden peasant dish found in the Chur area.",
+      "kw": [
+        "maluns"
+      ]
+    },
+    {
+      "id": "chur-nusstorte",
+      "name": "Bündner Nusstorte",
+      "local": "",
+      "icon": "🥧",
+      "desc": "Shortcrust tart filled with walnuts in caramel. Graubünden's best-known sweet, sold in every Chur bakery.",
+      "kw": [
+        "nusstorte",
+        "walnut tart"
+      ]
+    },
+    {
+      "id": "chur-buendnerfleisch",
+      "name": "Bündnerfleisch",
+      "local": "",
+      "icon": "🥩",
+      "desc": "Air-dried beef, pressed and cured in the dry mountain air, sliced very thin. Graubünden's best-known cured meat, served as a platter in Chur.",
+      "kw": [
+        "bündnerfleisch",
+        "buendnerfleisch",
+        "air-dried beef"
+      ]
+    }
+  ]
+}

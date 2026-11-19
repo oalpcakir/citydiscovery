@@ -1,0 +1,84 @@
+{
+ "region": "brussel",
+ "dishes": [
+  {
+   "id": "brussel-brusselse-wafel",
+   "name": "Brussels waffle",
+   "local": "Brusselse wafel / gaufre de Bruxelles",
+   "icon": "🧇",
+   "desc": "Light rectangular waffle with a crisp shell and airy batter, dusted with sugar. Sold from stalls and cafes across the centre.",
+   "kw": [
+    "brussels waffle",
+    "waffle",
+    "gaufre",
+    "wafel"
+   ]
+  },
+  {
+   "id": "brussel-mitraillette",
+   "name": "Mitraillette",
+   "local": "",
+   "icon": "🥖",
+   "desc": "Baguette filled with fried meat, chips and sauce. A Brussels student favourite from the city's friteries.",
+   "kw": [
+    "mitraillette"
+   ]
+  },
+  {
+   "id": "brussel-stoemp",
+   "name": "Stoemp",
+   "local": "",
+   "icon": "🥔",
+   "desc": "Mashed potato mixed with carrots, leek or other vegetables, served with sausage. Home cooking that appears on old Brussels brasserie menus.",
+   "kw": [
+    "stoemp"
+   ]
+  },
+  {
+   "id": "brussel-praline",
+   "name": "Belgian praline",
+   "local": "Praline",
+   "icon": "🍫",
+   "desc": "Filled chocolate shell, a Brussels invention of the early 1900s. Dozens of chocolatiers in the centre and Sablon still make them by hand.",
+   "kw": [
+    "praline",
+    "chocolatier",
+    "chocolate"
+   ]
+  },
+  {
+   "id": "brussel-pain-grecque",
+   "name": "Pain à la grecque",
+   "local": "",
+   "icon": "🥨",
+   "desc": "Flat sugared pastry roll with cinnamon, sold in Brussels bakeries. The name is a corruption of the old Rue des Grecs, not a Greek origin.",
+   "kw": [
+    "pain à la grecque",
+    "pain a la grecque"
+   ]
+  },
+  {
+   "id": "brussel-plattekaas",
+   "name": "Plattekaas with radish",
+   "local": "Brusselse plattekaas",
+   "icon": "🧀",
+   "desc": "Fresh white cheese mixed with radishes and spring onion, eaten on dark bread. A traditional cafe snack of Brussels and the Pajottenland.",
+   "kw": [
+    "plattekaas",
+    "fromage blanc",
+    "radish"
+   ]
+  },
+  {
+   "id": "brussel-speculoos",
+   "name": "Speculoos",
+   "local": "Speculoos",
+   "icon": "🍪",
+   "desc": "Spiced caramel-brown biscuit eaten with coffee in Belgium and used in spreads and cakes. Brussels bakeries still sell traditional versions.",
+   "kw": [
+    "speculoos",
+    "spéculoos"
+   ]
+  }
+ ]
+}

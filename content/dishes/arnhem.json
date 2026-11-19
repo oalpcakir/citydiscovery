@@ -1,0 +1,49 @@
+{
+ "region": "arnhem",
+ "dishes": [
+  {
+   "id": "arnhem-arnhemse-meisjes",
+   "name": "Arnhemse meisjes",
+   "local": "",
+   "icon": "🥐",
+   "desc": "Crisp, buttery puff-pastry cookies shaped like a bow, named after the traditional girls' costume. The city's own biscuit, sold in Arnhem's bakeries.",
+   "kw": [
+    "arnhemse meisjes",
+    "meisjes"
+   ]
+  },
+  {
+   "id": "arnhem-gelderse-rookworst",
+   "name": "Gelderse rookworst",
+   "local": "",
+   "icon": "🌭",
+   "desc": "Lightly smoked, coarse-ground pork sausage typical of Gelderland. Eaten on its own, in a roll or with stamppot.",
+   "kw": [
+    "rookworst"
+   ]
+  },
+  {
+   "id": "arnhem-veluwse-boekweitpannenkoek",
+   "name": "Buckwheat pancake",
+   "local": "Boekweitpannenkoek",
+   "icon": "🥞",
+   "desc": "Thick pancake made with buckwheat flour, often with bacon and syrup. A classic of the Veluwe's forest pancake houses.",
+   "kw": [
+    "boekweit",
+    "pannenkoek",
+    "pancake"
+   ]
+  },
+  {
+   "id": "arnhem-gelderse-appelstroop",
+   "name": "Gelderse appelstroop",
+   "local": "",
+   "icon": "🍎",
+   "desc": "Thick, dark apple syrup spread on bread or pancakes, made from fruit of the Betuwe orchards. A staple of the Gelderland breakfast table.",
+   "kw": [
+    "appelstroop",
+    "stroop"
+   ]
+  }
+ ]
+}

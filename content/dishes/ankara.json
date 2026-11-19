@@ -1,0 +1,59 @@
+{
+ "region": "ankara",
+ "dishes": [
+  {
+   "id": "ankara-tava",
+   "name": "Ankara tava",
+   "local": "Ankara tavası",
+   "icon": "🍖",
+   "desc": "Lamb and rice baked slowly in a shallow dish until the top crisps. The city's own celebration dish, found in old lokantas around Ulus.",
+   "kw": [
+    "ankara tava",
+    "tava"
+   ]
+  },
+  {
+   "id": "ankara-kurusu",
+   "name": "Beypazarı kurusu",
+   "local": "",
+   "icon": "🍪",
+   "desc": "Thin, hard twice-baked biscuits from the town of Beypazarı, eaten with tea or crumbled into soup. The best-known local product of the area.",
+   "kw": [
+    "beypazarı",
+    "kurusu"
+   ]
+  },
+  {
+   "id": "ankara-simit",
+   "name": "Ankara simit",
+   "local": "Ankara simidi",
+   "icon": "🥯",
+   "desc": "Sesame-crusted bread ring sold from carts and bakeries across the city. The Ankara version is thinner and crunchier than the Istanbul one.",
+   "kw": [
+    "simit"
+   ]
+  },
+  {
+   "id": "ankara-beypazari-guvec",
+   "name": "Beypazarı güveç",
+   "local": "Beypazarı güveci",
+   "icon": "🍲",
+   "desc": "Meat and vegetables stewed for hours in a sealed clay pot in a wood oven. Beypazarı's old bakeries still cook it the slow way.",
+   "kw": [
+    "güveç",
+    "guvec"
+   ]
+  },
+  {
+   "id": "ankara-keskin-tava",
+   "name": "Keskin tava",
+   "local": "Keskin tavası",
+   "icon": "🍖",
+   "desc": "Lamb slow-roasted on a tray until it falls apart, from the town of Keskin near Kırıkkale, served with bread to mop up the juices.",
+   "kw": [
+    "keskin tava",
+    "keskin"
+   ]
+  }
+ ]
+}

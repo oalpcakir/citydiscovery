@@ -1,0 +1,47 @@
+{
+ "region": "denbosch",
+ "dishes": [
+  {
+   "id": "denbosch-bossche-bol",
+   "name": "Bossche bol",
+   "local": "",
+   "icon": "🍰",
+   "desc": "Large choux ball filled with whipped cream and coated in dark chocolate. The pastry of 's-Hertogenbosch, eaten with a fork or a very wide mouth.",
+   "kw": [
+    "bossche bol",
+    "bossche bollen"
+   ]
+  },
+  {
+   "id": "denbosch-duingoed-kaas",
+   "name": "Duingoed cheese",
+   "local": "Duingoed kaas",
+   "icon": "🧀",
+   "desc": "Prize-winning cheese made by farmers around the Loon and Drunen dunes, a short ride from Den Bosch. Found in local cheese shops and farm stalls.",
+   "kw": [
+    "duingoed"
+   ]
+  },
+  {
+   "id": "denbosch-brabantse-buffelmozzarella",
+   "name": "Brabant buffalo mozzarella",
+   "local": "Buffelmozzarella",
+   "icon": "🧀",
+   "desc": "Buffalo mozzarella from Brabant farms, one of the province's recognised local cheeses. Sold at farm shops and markets around the city.",
+   "kw": [
+    "buffalo mozzarella",
+    "mozzarella"
+   ]
+  },
+  {
+   "id": "denbosch-moorkop",
+   "name": "Moorkop",
+   "local": "",
+   "icon": "🍫",
+   "desc": "Choux pastry with cream and a chocolate glaze, a sibling of the Bossche bol. Sold in the city's patisseries.",
+   "kw": [
+    "moorkop"
+   ]
+  }
+ ]
+}

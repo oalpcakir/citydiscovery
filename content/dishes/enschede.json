@@ -1,0 +1,46 @@
+{
+ "region": "enschede",
+ "dishes": [
+  {
+   "id": "enschede-twentse-krentenwegge",
+   "name": "Twentse krentenwegge",
+   "local": "",
+   "icon": "🍞",
+   "desc": "Soft raisin bread baked in a long loaf and sliced thick with butter. A Twente tradition, found on breakfast tables and in bakeries.",
+   "kw": [
+    "krentenwegge"
+   ]
+  },
+  {
+   "id": "enschede-balkenbrij",
+   "name": "Balkenbrij",
+   "local": "",
+   "icon": "🥓",
+   "desc": "Pork and buckwheat loaf sliced and fried, eaten with syrup or mustard. A farmhouse dish of the eastern Netherlands.",
+   "kw": [
+    "balkenbrij"
+   ]
+  },
+  {
+   "id": "enschede-hete-bliksem",
+   "name": "Hete bliksem",
+   "local": "",
+   "icon": "🍎",
+   "desc": "Stamppot of potatoes, apples and bacon from the east. A winter dish of Twente and the Achterhoek.",
+   "kw": [
+    "hete bliksem"
+   ]
+  },
+  {
+   "id": "enschede-twents-pannenkoek",
+   "name": "Dutch pancake",
+   "local": "Pannenkoek",
+   "icon": "🥞",
+   "desc": "Large plate-sized pancake with savoury or sweet toppings. Sold at farm restaurants across Twente.",
+   "kw": [
+    "pannenkoek",
+    "pancake"
+   ]
+  }
+ ]
+}

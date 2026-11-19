@@ -1,0 +1,59 @@
+{
+ "region": "oldenburg",
+ "dishes": [
+  {
+   "id": "oldenburg-gruenkohl",
+   "name": "Grünkohl mit Pinkel",
+   "local": "",
+   "icon": "🥬",
+   "desc": "Winter kale stewed with smoked Pinkel sausage and bacon, with potatoes. The signature dish of Oldenburg and its Kohlfahrt tradition.",
+   "kw": [
+    "grünkohl",
+    "pinkel"
+   ]
+  },
+  {
+   "id": "oldenburg-friesentorte",
+   "name": "Friesentorte",
+   "local": "",
+   "icon": "🍰",
+   "desc": "Layered puff-pastry cake with cream and plum jam, a classic of East Frisia and Oldenburg cafés.",
+   "kw": [
+    "friesentorte"
+   ]
+  },
+  {
+   "id": "oldenburg-krabben",
+   "name": "North Sea shrimp",
+   "local": "Nordseekrabben",
+   "icon": "🦐",
+   "desc": "Small brown shrimp caught off the East Frisian coast and eaten on bread or in a bowl, fresh from the harbour.",
+   "kw": [
+    "krabben",
+    "shrimp"
+   ]
+  },
+  {
+   "id": "oldenburg-rosinenstuten",
+   "name": "Ostfriesischer Rosinenstuten",
+   "local": "",
+   "icon": "🍞",
+   "desc": "Sweet, soft raisin loaf, served with tea in East Frisian homes and bakeries.",
+   "kw": [
+    "rosinenstuten",
+    "stuten"
+   ]
+  },
+  {
+   "id": "oldenburg-entenbraten",
+   "name": "Oldenburger Entenbraten",
+   "local": "",
+   "icon": "🦆",
+   "desc": "Roast duck with red cabbage and dumplings, a famous Oldenburg dinner dish with duck farming ties.",
+   "kw": [
+    "entenbraten",
+    "duck"
+   ]
+  }
+ ]
+}

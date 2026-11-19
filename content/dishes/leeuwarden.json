@@ -1,0 +1,56 @@
+{
+ "region": "leeuwarden",
+ "dishes": [
+  {
+   "id": "leeuwarden-fries-suikerbrood",
+   "name": "Fries suikerbrood",
+   "local": "",
+   "icon": "🍞",
+   "desc": "Sweet bread studded with sugar lumps and cinnamon, eaten with butter. A staple of Friesland.",
+   "kw": [
+    "suikerbrood"
+   ]
+  },
+  {
+   "id": "leeuwarden-friese-nagelkaas",
+   "name": "Friese nagelkaas",
+   "local": "",
+   "icon": "🧀",
+   "desc": "Hard cheese spiced with cloves and cumin. The cheese of Friesland.",
+   "kw": [
+    "nagelkaas"
+   ]
+  },
+  {
+   "id": "leeuwarden-fryske-dumkes",
+   "name": "Fryske dúmkes",
+   "local": "",
+   "icon": "🍪",
+   "desc": "Small, crunchy, spiced cookies. A traditional Friesland treat.",
+   "kw": [
+    "dumkes",
+    "dúmkes"
+   ]
+  },
+  {
+   "id": "leeuwarden-spekdikken",
+   "name": "Spekdikken",
+   "local": "",
+   "icon": "🥞",
+   "desc": "Small, thick, fluffy pancakes cooked in an indented pan and served with powdered sugar and currants. A traditional Frisian winter treat.",
+   "kw": [
+    "spekdikken"
+   ]
+  },
+  {
+   "id": "leeuwarden-friese-oranjekoek",
+   "name": "Friese oranjekoek",
+   "local": "",
+   "icon": "🍰",
+   "desc": "Orange-flavoured cake from Friesland. Served with butter or coffee.",
+   "kw": [
+    "oranjekoek"
+   ]
+  }
+ ]
+}

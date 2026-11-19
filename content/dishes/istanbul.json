@@ -1,0 +1,79 @@
+{
+  "region": "istanbul",
+  "dishes": [
+    {
+      "id": "istanbul-balikekmek",
+      "name": "Balık ekmek",
+      "local": "",
+      "icon": "🐟",
+      "desc": "Grilled mackerel in a bread roll with onion and salad, sold from boats and stalls at the Galata Bridge and along the Bosphorus.",
+      "kw": [
+        "balık ekmek",
+        "mackerel"
+      ]
+    },
+    {
+      "id": "istanbul-borek",
+      "name": "Börek",
+      "local": "",
+      "icon": "🥐",
+      "desc": "Layered or rolled pastry filled with white cheese, spinach or mince, sold in bakeries and börekçis throughout the city.",
+      "kw": [
+        "börek",
+        "borek"
+      ]
+    },
+    {
+      "id": "istanbul-kumpir",
+      "name": "Kumpir",
+      "local": "",
+      "icon": "🥔",
+      "desc": "Large baked potato mashed with butter and cheese, then loaded with toppings. A street food closely tied to Ortaköy on the Bosphorus.",
+      "kw": [
+        "kumpir"
+      ]
+    },
+    {
+      "id": "istanbul-midye",
+      "name": "Midye dolma",
+      "local": "",
+      "icon": "🦪",
+      "desc": "Mussels stuffed with spiced rice, served cold with lemon from street stalls, especially around Beyoğlu and Kadıköy.",
+      "kw": [
+        "midye"
+      ]
+    },
+    {
+      "id": "istanbul-kokorec",
+      "name": "Kokoreç",
+      "local": "",
+      "icon": "🌭",
+      "desc": "Seasoned lamb offal wrapped around a skewer, grilled and chopped into a bread roll. A late-night street food of Beyoğlu and Kadıköy.",
+      "kw": [
+        "kokoreç",
+        "kokorec"
+      ]
+    },
+    {
+      "id": "istanbul-baklava",
+      "name": "Baklava",
+      "local": "",
+      "icon": "🍯",
+      "desc": "Layers of thin pastry with pistachio or walnut and syrup, sold in the historic sweet shops of the old city.",
+      "kw": [
+        "baklava"
+      ]
+    },
+    {
+      "id": "istanbul-lokum",
+      "name": "Turkish delight",
+      "local": "Lokum",
+      "icon": "🍬",
+      "desc": "Soft gel sweets of starch and sugar with rose, pistachio or hazelnut, sold by weight in the old shops around the Spice Bazaar.",
+      "kw": [
+        "lokum",
+        "turkish delight"
+      ]
+    }
+  ]
+}

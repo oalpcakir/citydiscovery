@@ -1,0 +1,49 @@
+{
+  "region": "koblenz",
+  "dishes": [
+    {
+      "id": "koblenz-hunsrueck-schinken",
+      "name": "Hunsrück ham",
+      "local": "Hunsrücker Schinken",
+      "icon": "🥓",
+      "desc": "Dry-cured, smoked ham from the hills just west of Koblenz, sliced thin for bread or hearty plates.",
+      "kw": [
+        "hunsrücker",
+        "schinken"
+      ]
+    },
+    {
+      "id": "koblenz-hunsrueck-spiessbraten",
+      "name": "Hunsrück Spießbraten",
+      "local": "Hunsrücker Spießbraten",
+      "icon": "🍖",
+      "desc": "Pork marinated with onions and herbs, roasted on a spit over a beechwood fire and served with onions and spätzle or bread. The signature roast of the Hunsrück hills west of Koblenz.",
+      "kw": [
+        "spießbraten",
+        "spiessbraten"
+      ]
+    },
+    {
+      "id": "koblenz-ajerkaese",
+      "name": "Westerwald Eierkäse",
+      "local": "Westerwälder Ajerkäse",
+      "icon": "🍮",
+      "desc": "Sweet baked dish of eggs, milk and sugar set into a firm slice, eaten as a dessert or snack. A traditional speciality of the Westerwald, the hills east of Koblenz.",
+      "kw": [
+        "ajerkäse",
+        "eierkäse"
+      ]
+    },
+    {
+      "id": "koblenz-kappes-un-erwes",
+      "name": "Kappes un Erwes",
+      "local": "Kappes un Erwes",
+      "icon": "🥬",
+      "desc": "Sauerkraut topped with pea mash, often with smoked pork. A poor-man's dish of the Hunsrück, served in country inns around Koblenz.",
+      "kw": [
+        "kappes un erwes",
+        "kappes"
+      ]
+    }
+  ]
+}

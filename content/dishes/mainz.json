@@ -1,0 +1,48 @@
+{
+  "region": "mainz",
+  "dishes": [
+    {
+      "id": "mainz-spundekaes",
+      "name": "Spundekäs",
+      "local": "",
+      "icon": "🧀",
+      "desc": "Soft spread of cream cheese, quark and paprika served with pretzels and raw onion. The classic bite in Mainz wine taverns.",
+      "kw": [
+        "spundekäs"
+      ]
+    },
+    {
+      "id": "mainz-worscht-weck",
+      "name": "Worscht and Weck",
+      "local": "Worscht un Weck",
+      "icon": "🌭",
+      "desc": "Warm sausage (often Fleischwurst or Lyoner) with a crusty bread roll and mustard. The standard Rheinhessen wine-tavern snack.",
+      "kw": [
+        "worscht",
+        "fleischwurst"
+      ]
+    },
+    {
+      "id": "mainz-backesgrumbeere",
+      "name": "Backesgrumbeere",
+      "local": "",
+      "icon": "🥔",
+      "desc": "Potato casserole baked with bacon, onion and sour cream, with origins in Rheinhessen. Found in the wine taverns of Mainz and the villages around it.",
+      "kw": [
+        "backesgrumbeere",
+        "backesgrumbeer"
+      ]
+    },
+    {
+      "id": "mainz-mainzer-kartoffelsuppe",
+      "name": "Mainz potato stew",
+      "local": "Kartoffelsuppe mit Fleischwurst",
+      "icon": "🥣",
+      "desc": "Thick potato stew with bacon and Fleischwurst slices. Home-style winter food served in local Weinstuben.",
+      "kw": [
+        "kartoffelsuppe",
+        "kartoffeleintopf"
+      ]
+    }
+  ]
+}

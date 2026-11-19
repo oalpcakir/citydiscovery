@@ -1,0 +1,60 @@
+{
+ "region": "amiens",
+ "dishes": [
+  {
+   "id": "amiens-macaron",
+   "name": "Amiens macaron",
+   "local": "Macaron d'Amiens",
+   "icon": "🍪",
+   "desc": "A soft, chewy almond and honey cake, nothing like the Parisian meringue sandwich. Baked in Amiens since the Renaissance and sold in local patisseries.",
+   "kw": [
+    "macaron d'amiens",
+    "amiens macaron"
+   ]
+  },
+  {
+   "id": "amiens-ficelle",
+   "name": "Ficelle picarde",
+   "local": "",
+   "icon": "🥞",
+   "desc": "A savoury crêpe rolled around ham and mushrooms, topped with cream and cheese and baked golden. A Picardy classic created in Amiens in the 1950s.",
+   "kw": [
+    "ficelle picarde",
+    "ficelle"
+   ]
+  },
+  {
+   "id": "amiens-pate-canard",
+   "name": "Amiens duck pâté",
+   "local": "Pâté de canard d'Amiens",
+   "icon": "🥧",
+   "desc": "Duck and pork baked in a pastry crust, served cold in slices. Made in Amiens since the 19th century.",
+   "kw": [
+    "pâté de canard",
+    "duck pâté"
+   ]
+  },
+  {
+   "id": "amiens-flamiche",
+   "name": "Flamiche",
+   "local": "Flamiche aux poireaux",
+   "icon": "🥧",
+   "desc": "A leek and cream tart, the Picardy answer to quiche. A staple starter in Amiens and across the Somme.",
+   "kw": [
+    "flamiche",
+    "leek tart"
+   ]
+  },
+  {
+   "id": "amiens-gateau-battu",
+   "name": "Gâteau battu",
+   "local": "",
+   "icon": "🍞",
+   "desc": "A tall, airy egg brioche from Picardy, baked in a tin and eaten for breakfast or with coffee in Amiens bakeries.",
+   "kw": [
+    "gâteau battu",
+    "gateau battu"
+   ]
+  }
+ ]
+}

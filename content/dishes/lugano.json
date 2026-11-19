@@ -1,0 +1,57 @@
+{
+  "region": "lugano",
+  "dishes": [
+    {
+      "id": "lugano-polenta-ticinese",
+      "name": "Polenta ticinese",
+      "local": "",
+      "icon": "🌽",
+      "desc": "Slow-cooked cornmeal, served with braised meat, cheese or mushrooms. The old staple of Ticino, found in the grottos around Lugano.",
+      "kw": [
+        "polenta"
+      ]
+    },
+    {
+      "id": "lugano-luganighe",
+      "name": "Luganighe",
+      "local": "Luganighetta",
+      "icon": "🌭",
+      "desc": "Fresh pork sausage of Lugano and Ticino, grilled or cooked in risotto. It is traditionally served with polenta and opens Lugano's carnival.",
+      "kw": [
+        "luganighe",
+        "luganighetta",
+        "luganega"
+      ]
+    },
+    {
+      "id": "lugano-risotto-ticinese",
+      "name": "Risotto ticinese",
+      "local": "",
+      "icon": "🍚",
+      "desc": "Creamy risotto with local rice and Merlot or sausage, a Ticino staple. Almost every grotto and restaurant in the Lugano area has one.",
+      "kw": [
+        "risotto"
+      ]
+    },
+    {
+      "id": "lugano-brasato-merlot",
+      "name": "Brasato al Merlot",
+      "local": "",
+      "icon": "🥩",
+      "desc": "Beef slowly braised in Merlot, served with polenta. A hearty Ticino main course found in grottos and trattorias.",
+      "kw": [
+        "brasato"
+      ]
+    },
+    {
+      "id": "lugano-torta-di-pane",
+      "name": "Torta di pane",
+      "local": "",
+      "icon": "🍰",
+      "desc": "Dense bread pudding with raisins, pine nuts and sometimes cocoa. A traditional Ticino cake found in bakeries and pasticcerie of the Lugano region.",
+      "kw": [
+        "torta di pane"
+      ]
+    }
+  ]
+}

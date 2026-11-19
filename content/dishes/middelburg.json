@@ -1,0 +1,58 @@
+{
+ "region": "middelburg",
+ "dishes": [
+  {
+   "id": "middelburg-zeeuwse-bolus",
+   "name": "Zeeuwse bolus",
+   "local": "",
+   "icon": "🍥",
+   "desc": "Sticky, spiral cinnamon-sugar bun from Zeeland. A bakery speciality of Middelburg and Zeeland.",
+   "kw": [
+    "bolus"
+   ]
+  },
+  {
+   "id": "middelburg-zeeuwse-mosselen",
+   "name": "Zeeland mussels",
+   "local": "Zeeuwse mosselen",
+   "icon": "🦪",
+   "desc": "Mussels from the Oosterschelde, steamed with vegetables, in season from July to April.",
+   "kw": [
+    "mosselen",
+    "mussels"
+   ]
+  },
+  {
+   "id": "middelburg-zeeuwse-oesters",
+   "name": "Zeeland oysters",
+   "local": "Zeeuwse oesters",
+   "icon": "🦪",
+   "desc": "Oysters from Yerseke and the Oosterschelde, eaten raw. Zeeland's seafood heritage.",
+   "kw": [
+    "oesters",
+    "oysters"
+   ]
+  },
+  {
+   "id": "middelburg-zeeuwse-babbelaars",
+   "name": "Zeeuwse babbelaars",
+   "local": "",
+   "icon": "🍬",
+   "desc": "Butterscotch toffees from Zeeland. A traditional local candy.",
+   "kw": [
+    "babbelaar"
+   ]
+  },
+  {
+   "id": "middelburg-zeeuwse-kreeft",
+   "name": "Oosterschelde lobster",
+   "local": "Kreeft",
+   "icon": "🦞",
+   "desc": "Lobster from Yerseke's lobster ponds. Found at Zeeland seafood restaurants.",
+   "kw": [
+    "kreeft",
+    "lobster"
+   ]
+  }
+ ]
+}

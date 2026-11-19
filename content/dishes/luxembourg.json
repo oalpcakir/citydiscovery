@@ -1,0 +1,72 @@
+{
+ "region": "luxembourg",
+ "dishes": [
+  {
+   "id": "luxembourg-judd",
+   "name": "Judd mat Gaardebounen",
+   "local": "",
+   "icon": "🥓",
+   "desc": "Smoked pork collar with broad beans in cream sauce, the national dish of Luxembourg.",
+   "kw": [
+    "judd",
+    "gaardebounen"
+   ]
+  },
+  {
+   "id": "luxembourg-gromperekichelcher",
+   "name": "Gromperekichelcher",
+   "local": "",
+   "icon": "🥔",
+   "desc": "Fried potato fritters with onion and parsley, eaten with apple sauce at markets and fairs.",
+   "kw": [
+    "gromperekichelcher",
+    "potato fritter"
+   ]
+  },
+  {
+   "id": "luxembourg-bouneschlupp",
+   "name": "Bouneschlupp",
+   "local": "",
+   "icon": "🍲",
+   "desc": "Green bean soup with potatoes, bacon and cream, a traditional Luxembourg soup.",
+   "kw": [
+    "bouneschlupp",
+    "bean soup"
+   ]
+  },
+  {
+   "id": "luxembourg-traipen",
+   "name": "Träipen",
+   "local": "",
+   "icon": "🌭",
+   "desc": "Blood sausage served with mashed potatoes and apple sauce, a Luxembourg dish.",
+   "kw": [
+    "träipen",
+    "traipen",
+    "black pudding"
+   ]
+  },
+  {
+   "id": "luxembourg-rieslingspaschtei",
+   "name": "Rieslingspaschtéit",
+   "local": "",
+   "icon": "🥧",
+   "desc": "Pastry pie of pork, veal and jelly, a classic Luxembourg delicatessen item.",
+   "kw": [
+    "paschtéit",
+    "pâté"
+   ]
+  },
+  {
+   "id": "luxembourg-kniddelen",
+   "name": "Kniddelen",
+   "local": "",
+   "icon": "🥟",
+   "desc": "Soft flour dumplings with bacon, from the Luxembourg home kitchen.",
+   "kw": [
+    "kniddelen",
+    "dumpling"
+   ]
+  }
+ ]
+}

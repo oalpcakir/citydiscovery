@@ -1,0 +1,51 @@
+{
+ "region": "leuven",
+ "dishes": [
+  {
+   "id": "leuven-leuvense-stoverij",
+   "name": "Leuven stoverij",
+   "local": "Stoverij",
+   "icon": "🍲",
+   "desc": "Beef stewed in dark beer with mustard bread, the Flemish carbonade. In Leuven, home of a brewing tradition, beer sets it apart.",
+   "kw": [
+    "stoverij",
+    "carbonade",
+    "stoofvlees"
+   ]
+  },
+  {
+   "id": "leuven-witloof",
+   "name": "Witloof gratin",
+   "local": "Witloof met hesp en kaas",
+   "icon": "🥬",
+   "desc": "Chicory wrapped in ham and baked in cheese sauce. Flemish Brabant is the heart of Belgian chicory growing.",
+   "kw": [
+    "witloof",
+    "chicory",
+    "endive"
+   ]
+  },
+  {
+   "id": "leuven-hageland-aardbei",
+   "name": "Hageland strawberries",
+   "local": "",
+   "icon": "🍓",
+   "desc": "Local strawberries, fresh or in tarts, grown in the Hageland fruit and farm region east of Leuven.",
+   "kw": [
+    "strawberr",
+    "aardbei"
+   ]
+  },
+  {
+   "id": "leuven-kaaskroket",
+   "name": "Cheese croquette",
+   "local": "Kaaskroket",
+   "icon": "🧀",
+   "desc": "Deep-fried croquette of melted cheese, found on Flemish brasserie menus.",
+   "kw": [
+    "kaaskroket",
+    "cheese croquette"
+   ]
+  }
+ ]
+}

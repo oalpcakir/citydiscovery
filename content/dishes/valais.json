@@ -1,0 +1,59 @@
+{
+  "region": "valais",
+  "dishes": [
+    {
+      "id": "valais-raclette",
+      "name": "Raclette du Valais",
+      "local": "",
+      "icon": "🧀",
+      "desc": "Cheese melted from the wheel and scraped over potatoes, pickles and dried meat. Valais cheese carries a protected designation and the dish is from here.",
+      "kw": [
+        "raclette"
+      ]
+    },
+    {
+      "id": "valais-cholera",
+      "name": "Cholera",
+      "local": "",
+      "icon": "🥧",
+      "desc": "Baked vegetable pie with leeks, potatoes, apples and cheese. The Valais dish got its name from an old cholera outbreak and is found in local restaurants.",
+      "kw": [
+        "cholera"
+      ]
+    },
+    {
+      "id": "valais-walliser-trockenfleisch",
+      "name": "Valais dried meat",
+      "local": "Walliser Trockenfleisch",
+      "icon": "🥩",
+      "desc": "Air-dried beef, cured ham and dried bacon with protected status. Valais plates serve it with rye bread and pickles.",
+      "kw": [
+        "trockenfleisch",
+        "viande séchée",
+        "dried meat"
+      ]
+    },
+    {
+      "id": "valais-roggenbrot",
+      "name": "Walliser Roggenbrot",
+      "local": "Pain de seigle valaisan",
+      "icon": "🍞",
+      "desc": "Dense sourdough rye bread with a protected designation, baked in the Valais. It is eaten with cheese and dried meat.",
+      "kw": [
+        "roggenbrot",
+        "rye bread",
+        "pain de seigle"
+      ]
+    },
+    {
+      "id": "valais-gsottus",
+      "name": "Gsottus",
+      "local": "",
+      "icon": "🍲",
+      "desc": "Hearty soup of dried meat, with the broth poured over rye bread and cheese. A traditional Valais mountain dish.",
+      "kw": [
+        "gsottus"
+      ]
+    }
+  ]
+}

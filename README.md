@@ -38,8 +38,13 @@ XP comes from quests (100, plus bonuses for seasonal quests, day trips, the firs
    To add a region, add a hub to `tools/hubs.json`, run `tools/rebuild_regions.py` (boundary files listed in its header) and `tools/build_countries.py`, then `tools/reassign_quests.py`.
    To fill a "coming soon" region, give its hub a `new` block (levels and areas) in `tools/hubs.json` and run `tools/reassign_quests.py`; it creates the empty region file.
 5. Run `python tools/find_photos.py` to look up cover photos for the new quests (it only looks up quests it has not seen before).
-6. Run `python tools/build_routes.py` to precompute the street paths of new or changed trails.
-7. Commit and push; the site and the app update within a minute.
+6. Run `python tools/food_kinds.py` so new eat & drink quests get a `kind` (meal, snack, sweet, coffee, drink). The "Taste of" trail uses it to stay eatable in one go: at most one meal, one drink, one sweet, one coffee and two snacks. Fix a wrong guess by editing `kind` on the quest.
+7. Run `python tools/build_routes.py` to precompute the street paths of new or changed trails.
+8. Commit and push; the site and the app update within a minute.
+
+Day-out trails (groups of quests outside the city) take their name from `trailNames` in the region file, keyed by any quest id in the group; without one the app guesses a town from the addresses.
+
+**Must-eat dishes:** 4 to 7 dishes per region that a visitor should eat anywhere in the region (+50 XP each, all of them earn the Local Palate badge). Research rules are in `content/dishes/_brief.md`; each region has `content/dishes/<region>.json`, and `python tools/build_dishes.py` builds `web/dishes.js` and lists regions without dishes.
 
 ## Keeping quests current
 

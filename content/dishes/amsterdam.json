@@ -1,0 +1,57 @@
+{
+ "region": "amsterdam",
+ "dishes": [
+  {
+   "id": "amsterdam-bitterballen",
+   "name": "Bitterballen",
+   "local": "",
+   "icon": "🍢",
+   "desc": "Crisp, deep-fried balls with a molten beef ragout inside, eaten with mustard. The standard bar snack in Amsterdam's brown cafes at borrel hour.",
+   "kw": [
+    "bitterbal"
+   ]
+  },
+  {
+   "id": "amsterdam-poffertjes",
+   "name": "Poffertjes",
+   "local": "",
+   "icon": "🥞",
+   "desc": "Small puffy buckwheat pancakes served hot with butter and icing sugar. A fixture of Amsterdam's street stalls and pancake houses.",
+   "kw": [
+    "poffertjes"
+   ]
+  },
+  {
+   "id": "amsterdam-oliebollen",
+   "name": "Oliebollen",
+   "local": "",
+   "icon": "🍩",
+   "desc": "Deep-fried dough balls with raisins, dusted with sugar. Sold from winter stalls around New Year, and in bakeries much of the year.",
+   "kw": [
+    "oliebol"
+   ]
+  },
+  {
+   "id": "amsterdam-appeltaart",
+   "name": "Dutch apple pie",
+   "local": "Appeltaart",
+   "icon": "🥧",
+   "desc": "Deep, spiced apple pie with a lattice or crumble top, served with whipped cream. The cafes of the Jordaan made it a signature of the city.",
+   "kw": [
+    "appeltaart",
+    "apple pie"
+   ]
+  },
+  {
+   "id": "amsterdam-rijsttafel",
+   "name": "Rijsttafel",
+   "local": "",
+   "icon": "🍛",
+   "desc": "A spread of small Indonesian dishes served around rice, a legacy of colonial ties. Amsterdam has the country's deepest tradition of Indonesian restaurants.",
+   "kw": [
+    "rijsttafel",
+    "indonesian"
+   ]
+  }
+ ]
+}

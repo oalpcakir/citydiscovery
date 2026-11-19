@@ -1,0 +1,79 @@
+{
+ "region": "lyon",
+ "dishes": [
+  {
+   "id": "lyon-quenelle",
+   "name": "Quenelles de brochet",
+   "local": "Quenelle lyonnaise",
+   "icon": "🐟",
+   "desc": "Light poached pike dumplings in a creamy Nantua crayfish sauce. A signature of Lyon's bouchons.",
+   "kw": [
+    "quenelle"
+   ]
+  },
+  {
+   "id": "lyon-salade-lyonnaise",
+   "name": "Salade lyonnaise",
+   "local": "",
+   "icon": "🥗",
+   "desc": "Curly endive with bacon, croutons and a poached egg in a hot vinegar dressing. The standard bouchon starter.",
+   "kw": [
+    "salade lyonnaise"
+   ]
+  },
+  {
+   "id": "lyon-tablier",
+   "name": "Tablier de sapeur",
+   "local": "",
+   "icon": "🥩",
+   "desc": "Breaded and fried tripe, served with gribiche sauce. A bouchon favourite named after the firefighter's apron.",
+   "kw": [
+    "tablier de sapeur",
+    "tablier"
+   ]
+  },
+  {
+   "id": "lyon-rosette",
+   "name": "Rosette de Lyon",
+   "local": "",
+   "icon": "🥓",
+   "desc": "A dry-cured pork sausage sliced thin, the city's classic charcuterie. Found in bouchons and the Halles.",
+   "kw": [
+    "rosette"
+   ]
+  },
+  {
+   "id": "lyon-saucisson-brioche",
+   "name": "Saucisson brioché",
+   "local": "",
+   "icon": "🥖",
+   "desc": "Hot Lyon sausage baked inside soft brioche dough, sold in bakeries and charcuteries and eaten on the go.",
+   "kw": [
+    "saucisson brioché",
+    "brioche"
+   ]
+  },
+  {
+   "id": "lyon-tarte-pralines",
+   "name": "Tarte aux pralines",
+   "local": "Tarte à la praline",
+   "icon": "🥧",
+   "desc": "A tart covered in a pink sugared almond filling, the city's most recognisable dessert. Sold in bakeries across Lyon.",
+   "kw": [
+    "pralines",
+    "praline"
+   ]
+  },
+  {
+   "id": "lyon-cervelle-canut",
+   "name": "Cervelle de canut",
+   "local": "",
+   "icon": "🧄",
+   "desc": "Fresh cheese whipped with herbs, shallots, garlic and white wine, spread on bread. A Lyon bouchon starter named after the silk workers.",
+   "kw": [
+    "cervelle de canut",
+    "canut"
+   ]
+  }
+ ]
+}

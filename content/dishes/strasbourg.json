@@ -1,0 +1,58 @@
+{
+ "region": "strasbourg",
+ "dishes": [
+  {
+   "id": "strasbourg-choucroute",
+   "name": "Choucroute garnie",
+   "local": "",
+   "icon": "🥘",
+   "desc": "Sauerkraut cooked with smoked pork, sausages and potatoes. Strasbourg's best-known plate, served in its winstubs.",
+   "kw": [
+    "choucroute"
+   ]
+  },
+  {
+   "id": "strasbourg-knack",
+   "name": "Strasbourg knack",
+   "local": "Knack",
+   "icon": "🌭",
+   "desc": "A short, pink pork sausage poached and served with mustard and bread. A Strasbourg street food staple.",
+   "kw": [
+    "knack",
+    "saucisse de strasbourg"
+   ]
+  },
+  {
+   "id": "strasbourg-foie-gras",
+   "name": "Alsatian foie gras",
+   "local": "Foie gras d'Alsace",
+   "icon": "🍽️",
+   "desc": "Goose liver terrine said to have been perfected in Strasbourg in the 18th century. Served with brioche or gingerbread.",
+   "kw": [
+    "foie gras"
+   ]
+  },
+  {
+   "id": "strasbourg-baeckeoffe",
+   "name": "Baeckeoffe",
+   "local": "",
+   "icon": "🍲",
+   "desc": "A slow-baked casserole of marinated meats and potatoes, traditionally cooked at the baker's oven. A winter dish at Strasbourg's winstubs.",
+   "kw": [
+    "baeckeoffe",
+    "baeckeofe"
+   ]
+  },
+  {
+   "id": "strasbourg-bretzel",
+   "name": "Alsatian bretzel",
+   "local": "Bretzel",
+   "icon": "🥨",
+   "desc": "A soft, salted pretzel, sold plain or with butter or cheese in Strasbourg's bakeries and market stalls.",
+   "kw": [
+    "bretzel",
+    "pretzel"
+   ]
+  }
+ ]
+}

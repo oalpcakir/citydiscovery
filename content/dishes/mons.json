@@ -1,0 +1,47 @@
+{
+ "region": "mons",
+ "dishes": [
+  {
+   "id": "mons-tarte-maton",
+   "name": "Tarte au maton",
+   "local": "",
+   "icon": "🥧",
+   "desc": "Sweet cheese tart made with curds, a Mons and Hainaut bakery speciality.",
+   "kw": [
+    "maton"
+   ]
+  },
+  {
+   "id": "mons-escaveche",
+   "name": "Escavèche",
+   "local": "",
+   "icon": "🐟",
+   "desc": "Fish cooked and served cold in a vinegar and onion marinade, a traditional dish of Hainaut.",
+   "kw": [
+    "escavèche",
+    "escaveche"
+   ]
+  },
+  {
+   "id": "mons-chimay-cheese",
+   "name": "Chimay cheese",
+   "local": "Fromage de Chimay",
+   "icon": "🧀",
+   "desc": "Semi-soft cheese from the monastery at Chimay in south Hainaut, found in local shops and cafes.",
+   "kw": [
+    "chimay"
+   ]
+  },
+  {
+   "id": "mons-boulette-lapin",
+   "name": "Boulettes sauce lapin",
+   "local": "",
+   "icon": "🍖",
+   "desc": "Meatballs in a sweet and sour rabbit-style sauce, common in Mons and Charleroi brasseries.",
+   "kw": [
+    "boulette",
+    "lapin"
+   ]
+  }
+ ]
+}

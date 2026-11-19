@@ -1,0 +1,57 @@
+{
+ "region": "bremen",
+ "dishes": [
+  {
+   "id": "bremen-kuekenragout",
+   "name": "Bremer Kükenragout",
+   "local": "",
+   "icon": "🍲",
+   "desc": "Creamy ragout of chicken, mushrooms, asparagus and meatballs in a light sauce, served in a puff pastry shell. Bremen's festive dish.",
+   "kw": [
+    "kükenragout",
+    "ragout"
+   ]
+  },
+  {
+   "id": "bremen-klaben",
+   "name": "Bremer Klaben",
+   "local": "",
+   "icon": "🍞",
+   "desc": "Dense fruit bread with raisins and candied peel, baked around Christmas and found in Bremen bakeries from autumn.",
+   "kw": [
+    "klaben"
+   ]
+  },
+  {
+   "id": "bremen-kluten",
+   "name": "Bremer Kluten",
+   "local": "",
+   "icon": "🍬",
+   "desc": "Chocolate-coated peppermint sweets, a traditional Bremen confection hardened into a ball shape.",
+   "kw": [
+    "kluten"
+   ]
+  },
+  {
+   "id": "bremen-knipp",
+   "name": "Knipp",
+   "local": "",
+   "icon": "🥓",
+   "desc": "Fried sausage of oats, groats and pork, served with fried potatoes and pickles. A north German speciality typical of Bremen.",
+   "kw": [
+    "knipp"
+   ]
+  },
+  {
+   "id": "bremen-matjes",
+   "name": "Vegesacker Matjes",
+   "local": "",
+   "icon": "🐟",
+   "desc": "Young salted herring tied to the port of Bremen-Vegesack, where the herring fleet sailed. Eaten with onions and bread.",
+   "kw": [
+    "matjes",
+    "herring"
+   ]
+  }
+ ]
+}

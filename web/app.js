@@ -625,7 +625,8 @@
   // upright starts and how wide it is (share of the width), and the same for the bar (share of the height).
   var FLAGS = { NL: ["h", "#AE1C28", "#FFFFFF", "#21468B"], BE: ["v", "#111111", "#FDDA24", "#EF3340"],
     DE: ["h", "#000000", "#DD0000", "#FFCE00"], LU: ["h", "#EF3340", "#FFFFFF", "#00A3E0"], FR: ["v", "#002395", "#FFFFFF", "#ED2939"],
-    DK: ["x", "#C8102E", "#FFFFFF", 12 / 37, 4 / 37, 12 / 28, 4 / 28], SE: ["x", "#006AA7", "#FECC00", 5 / 16, 2 / 16, 4 / 10, 2 / 10] };
+    DK: ["x", "#C8102E", "#FFFFFF", 12 / 37, 4 / 37, 12 / 28, 4 / 28], SE: ["x", "#006AA7", "#FECC00", 5 / 16, 2 / 16, 4 / 10, 2 / 10],
+    CH: ["ch", "#DA291C"], TR: ["tr", "#E30A17"] };
   function flagImage(cc) {
     var W = 76, H = 52, c = document.createElement("canvas");
     c.width = W; c.height = H;
@@ -634,6 +635,25 @@
     g.fillStyle = "#fff"; g.fillRect(x - 2, y - 2, w + 4, h + 4);
     g.shadowColor = "transparent";
     var f = FLAGS[cc] || FLAGS.NL, vertical = f[0] === "v";
+    if (f[0] === "ch") { // red field, white Greek cross
+      var a = h * 0.2, l = h * 0.64, cx = x + w / 2, cy = y + h / 2;
+      g.fillStyle = f[1]; g.fillRect(x, y, w, h);
+      g.fillStyle = "#FFFFFF"; g.fillRect(cx - a / 2, cy - l / 2, a, l); g.fillRect(cx - l / 2, cy - a / 2, l, a);
+      return g.getImageData(0, 0, W, H);
+    }
+    if (f[0] === "tr") { // red field, white crescent and star
+      var my = y + h / 2, R1 = h * 0.25, R2 = h * 0.2, sr = h * 0.125, sx = x + w * 0.53;
+      g.fillStyle = f[1]; g.fillRect(x, y, w, h);
+      g.fillStyle = "#FFFFFF"; g.beginPath(); g.arc(x + w * 0.36, my, R1, 0, 2 * Math.PI); g.fill();
+      g.fillStyle = f[1]; g.beginPath(); g.arc(x + w * 0.36 + R1 * 0.25, my, R2, 0, 2 * Math.PI); g.fill();
+      g.fillStyle = "#FFFFFF"; g.beginPath();
+      for (var k = 0; k < 10; k++) {
+        var ang = Math.PI + k * Math.PI / 5, rr = k % 2 ? sr * 0.38 : sr;
+        g.lineTo(sx + rr * Math.cos(ang), my + rr * Math.sin(ang));
+      }
+      g.closePath(); g.fill();
+      return g.getImageData(0, 0, W, H);
+    }
     if (f[0] === "x") {
       g.fillStyle = f[1]; g.fillRect(x, y, w, h);
       g.fillStyle = f[2]; g.fillRect(x + w * f[3], y, w * f[4], h); g.fillRect(x, y + h * f[5], w, h * f[6]);
@@ -1348,7 +1368,7 @@
   var $sheet = document.getElementById("sheet");
   var $backdrop = document.getElementById("sheet-backdrop");
   var $toast = document.getElementById("toast");
-  var CC = { Netherlands: "nl", Belgium: "be", Germany: "de", Luxembourg: "lu", France: "fr", Denmark: "dk", Sweden: "se" };
+  var CC = { Netherlands: "nl", Belgium: "be", Germany: "de", Luxembourg: "lu", France: "fr", Denmark: "dk", Sweden: "se", Switzerland: "ch", "Türkiye": "tr" };
 
   function ring(pct, big) {
     var C = 2 * Math.PI * 26;

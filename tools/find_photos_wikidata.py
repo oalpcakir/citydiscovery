@@ -57,7 +57,7 @@ def cell_items(s, w):
     bd:serviceParam wikibase:cornerNorthEast "Point(%f %f)"^^geo:wktLiteral . }
   ?item wdt:P18 ?image .
   FILTER NOT EXISTS { ?item wdt:P31 ?kind . VALUES ?kind { %s } }
-  ?item rdfs:label ?lbl . FILTER(LANG(?lbl) IN ("en", "nl", "fr", "de", "lb", "da", "sv"))
+  ?item rdfs:label ?lbl . FILTER(LANG(?lbl) IN ("en", "nl", "fr", "de", "lb", "da", "sv", "it", "tr"))
 }""" % (w - 0.01, s - 0.01, w + CELL_LNG + 0.01, s + CELL_LAT + 0.01, PLACES)
     d = get("https://query.wikidata.org/sparql", urllib.parse.urlencode({"query": q, "format": "json"}).encode())
     items = {}

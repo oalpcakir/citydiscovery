@@ -1,0 +1,1056 @@
+{
+ "new": [
+  {
+   "id": "maidenstower",
+   "cat": "gor",
+   "area": "anadolu",
+   "title": "Visit the Maiden's Tower on its islet",
+   "desc": "A tiny islet tower off Salacak, rebuilt in 1763 on Byzantine and Ottoman foundations. It served as a lighthouse and quarantine post and is wrapped in legends of a princess and a snake. Today it houses a café-restaurant and a small museum.",
+   "tip": "Boats leave from Salacak and Kabataş; go at sunset for the skyline view.",
+   "q": "Kız Kulesi, Salacak, Üsküdar, İstanbul",
+   "ll": [
+    41.02117,
+    29.00425
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Maiden's_Tower"
+   ]
+  },
+  {
+   "id": "haydarpasa",
+   "cat": "gor",
+   "area": "anadolu",
+   "title": "See Haydarpaşa Station from the waterfront",
+   "desc": "Neo-Renaissance terminus designed by German architects Otto Ritter and Helmut Cuno, opened in 1908 as the start of the Baghdad Railway. Its twin-towered stone facade rises straight from the Bosphorus after a 2010 fire damaged the roof.",
+   "tip": "Best photographed from the Kadıköy ferry as you approach; check current restoration access.",
+   "q": "Haydarpaşa Garı, Kadıköy, İstanbul",
+   "ll": [
+    40.9962,
+    29.0187
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Haydarpaşa_railway_station"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "camlicamosque",
+   "cat": "gor",
+   "area": "anadolu",
+   "title": "Enter the giant Çamlıca Mosque",
+   "desc": "Opened in 2019, Turkey's largest mosque has six minarets, a dome 72 m high, and room for 63,000 worshippers. It includes a museum and art gallery in its complex and views over the whole city.",
+   "tip": "Dress modestly; non-prayer hours are quietest. Take Marmara bus or Marmaray to Altunizade, then a taxi.",
+   "q": "Büyük Çamlıca Camii, Ferah, Üsküdar, İstanbul",
+   "ll": [
+    41.0347,
+    29.0708
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Çamlıca_Mosque"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "camlicatower",
+   "cat": "gor",
+   "area": "anadolu",
+   "title": "Ride up the Çamlıca Tower",
+   "desc": "Opened in 2021, this 369 m telecom tower has observation decks and a restaurant on the highest point of the Asian side. On clear days you can see the Bosphorus, Princes' Islands and the Black Sea.",
+   "tip": "Go on a clear afternoon; combine with the Çamlıca Mosque next door.",
+   "q": "Çamlıca Kulesi, Küçük Çamlıca, Üsküdar, İstanbul",
+   "ll": [
+    41.0262,
+    29.0695
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Çamlıca_Tower"
+   ]
+  },
+  {
+   "id": "mihrimahuskudar",
+   "cat": "gor",
+   "area": "anadolu",
+   "title": "See Mihrimah Sultan Mosque by the pier",
+   "desc": "Built by Mimar Sinan in 1548 for Mihrimah Sultan, daughter of Süleyman the Magnificent. The tall dome and raised courtyard dominate Üsküdar's main square.",
+   "tip": "Sit on the nearby steps and watch the ferries; the mosque is open outside prayer times.",
+   "q": "İskele Camii, Mimar Sinan, Üsküdar, İstanbul",
+   "ll": [
+    41.02667,
+    29.01611
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Mihrimah_Sultan_Mosque,_Üsküdar"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "yenivalide",
+   "cat": "gor",
+   "area": "anadolu",
+   "title": "Admire Yeni Valide Mosque and its sebil fountain",
+   "desc": "Completed in 1710 for Gülnuş Sultan, mother of Ahmed III, with a ceramic-tiled interior and a külliye including a fountain. It stands a short walk from Üsküdar's ferry pier.",
+   "tip": "Look for the ornate sebil fountain on the outer wall.",
+   "q": "Yeni Valide Camii, Üsküdar Meydanı, İstanbul",
+   "ll": [
+    41.02479,
+    29.01511
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Yeni_Valide_Mosque"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "semsipasa",
+   "cat": "gor",
+   "area": "anadolu",
+   "title": "Stop at tiny Şemsi Paşa Mosque on the shore",
+   "desc": "Mimar Sinan's small 1580 mosque and tomb sit right on the Bosphorus at Üsküdar, with a seaside terrace. It is one of the most photogenic corners of the shoreline.",
+   "tip": "Pair it with a tea at the nearby waterfront cafés.",
+   "q": "Şemsi Paşa Camii, Üsküdar, İstanbul",
+   "ll": [
+    41.02583,
+    29.01139
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Şemsi_Pasha_Mosque"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "atikvalide",
+   "cat": "gor",
+   "area": "anadolu",
+   "title": "Walk through the Atik Valide Mosque complex",
+   "desc": "Sinan's 1583 külliye for Nurbanu Sultan holds a mosque, madrasa, hammam and soup kitchen on Üsküdar's hillside. It is among the largest Ottoman complexes in the city and is far less visited than those across the water.",
+   "tip": "Quiet on weekday mornings; the courtyard has fine tiles and plane trees.",
+   "q": "Atik Valide Camii, Valide-i Atik, Üsküdar, İstanbul",
+   "ll": [
+    41.0188,
+    29.02386
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Atik_Valide_Mosque"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "beylerbeyi",
+   "cat": "gor",
+   "area": "anadolu",
+   "title": "Tour Beylerbeyi Palace on the Bosphorus",
+   "desc": "Sultan Abdülaziz's 1865 summer palace, built by Sarkis Balyan, was used for visiting heads of state. Rooms are fitted with chandeliers, Hereke carpets and a famous marble pool room.",
+   "tip": "Closed Mondays and Thursdays; buy tickets at the gate. Reach it by bus from Üsküdar.",
+   "q": "Beylerbeyi Sarayı, Beylerbeyi, Üsküdar, İstanbul",
+   "ll": [
+    41.04238,
+    29.04021
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Beylerbeyi_Palace"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "kuzguncukbostan",
+   "cat": "gor",
+   "area": "anadolu",
+   "title": "Visit the Kuzguncuk community vegetable garden",
+   "desc": "The Kuzguncuk Bostanı is a long-running community-run vegetable plot on a hillside in a neighbourhood historically shared by Turks, Greeks, Armenians and Jews. A mosque, two churches and a synagogue stand within a few streets.",
+   "tip": "Enter via İcadiye Street; the vibe is slow and local.",
+   "q": "Kuzguncuk Bostanı, Kuzguncuk, Üsküdar, İstanbul",
+   "ll": [
+    41.0378,
+    29.0318
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Kuzguncuk"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kuleli",
+   "cat": "gor",
+   "area": "anadolu",
+   "title": "Photograph Kuleli Military School's two towers",
+   "desc": "The Gothic-style Kuleli building (1860) by Sarkis Balyan sits on the Çengelköy shore and trained Ottoman officers. Its cylindrical towers are an unmistakable Bosphorus landmark.",
+   "tip": "Best seen from the water or from the Çengelköy shore path; the interior is not open.",
+   "q": "Kuleli Askeri Lisesi, Çengelköy, Üsküdar, İstanbul",
+   "ll": [
+    41.05861,
+    29.05333
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Kuleli_Military_High_School"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kandilliobs",
+   "cat": "gor",
+   "area": "anadolu",
+   "title": "See Kandilli Observatory above the Bosphorus",
+   "desc": "Founded in 1911, Kandilli Observatory and Earthquake Research Institute stands above Kandilli village, with a historic complex and gardens. The neighbourhood has some of the best yalı mansions on the shore.",
+   "tip": "Walk the coastal road in Kandilli for views of Rumeli Hisarı opposite.",
+   "q": "Kandilli Rasathanesi, Kandilli, Üsküdar, İstanbul",
+   "ll": [
+    41.06333,
+    29.06222
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Kandilli_Observatory"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "anadoluhisari",
+   "cat": "gor",
+   "area": "anadolu",
+   "title": "Stand beneath Anadolu Hisarı",
+   "desc": "Built by Sultan Bayezid I in 1393-94, this is the oldest Ottoman castle in Istanbul and faced Rumeli Hisarı later built by Mehmed II. The small fort overlooks the narrowest point of the Bosphorus.",
+   "tip": "Beside it sits the pretty Göksu stream; go in the morning for fewer visitors.",
+   "q": "Anadolu Hisarı, Beykoz, İstanbul",
+   "ll": [
+    41.08194,
+    29.06694
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Anadolu_Hisarı"
+   ]
+  },
+  {
+   "id": "kucuksu",
+   "cat": "gor",
+   "area": "anadolu",
+   "title": "Visit Küçüksu Pavilion by the Göksu stream",
+   "desc": "This marble rococo-style summer lodge was built in 1857 for Sultan Abdülmecid I by Nigoğos Balyan. It stands where the Göksu stream meets the Bosphorus.",
+   "tip": "Closed Mondays; the tree-shaded lawn is popular for picnics.",
+   "q": "Küçüksu Kasrı, Küçüksu, Beykoz, İstanbul",
+   "ll": [
+    41.07845,
+    29.06485
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Küçüksu_Pavilion"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "beykozkundura",
+   "cat": "gor",
+   "area": "anadolu",
+   "title": "Explore the Beykoz Kundura factory complex",
+   "desc": "A 19th-century shoe and leather factory in Paşabahçe, now a cultural site and film location. Its brick workshops, exhibition halls and Bosphorus terrace host art shows and screenings.",
+   "tip": "The Kundura Memory exhibition is free but needs an online booking via the official site; check opening days before going.",
+   "q": "Beykoz Kundura, Süreyya İlmen Caddesi 1, Yalıköy, Paşabahçe, Beykoz, İstanbul",
+   "ll": [
+    41.1128,
+    29.0907
+   ],
+   "src": [
+    "https://www.timeout.com/istanbul/things-to-do/beykoz-kundura",
+    "https://www.spottedbylocals.com/istanbul/beykoz-kundura"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "yoroscastle",
+   "cat": "gor",
+   "area": "anadolu",
+   "title": "Climb Yoros Castle above the Black Sea gate",
+   "desc": "Medieval Byzantine-Genoese fortress on the hill above Anadolu Kavağı, guarding the northern entrance to the Bosphorus. The ruined walls give views of the Black Sea and both shores.",
+   "tip": "Walk up from the village in about 25 minutes; bring water.",
+   "q": "Yoros Kalesi, Anadolu Kavağı, Beykoz, İstanbul",
+   "ll": [
+    41.179,
+    29.094
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Yoros_Castle"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "fenerlighthouse",
+   "cat": "gor",
+   "area": "anadolu",
+   "title": "See Fenerbahçe Lighthouse on its cape",
+   "desc": "A historic lighthouse at the tip of the Fenerbahçe peninsula, first built in 1561 and rebuilt in the 19th century, standing in a park on the Marmara coast.",
+   "tip": "Take a walk through the surrounding park at sunset.",
+   "q": "Fenerbahçe Feneri, Fenerbahçe, Kadıköy, İstanbul",
+   "ll": [
+    40.96811,
+    29.03206
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Fenerbahçe_Lighthouse"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sureyyaopera",
+   "cat": "gor",
+   "area": "anadolu",
+   "title": "Catch a show at Süreyya Opera House",
+   "desc": "Opened in 1927, Istanbul's first opera house, with a beautifully decorated hall, stands on Bahariye Street. It hosts opera, ballet and concerts.",
+   "tip": "Check schedules online; the foyer café is open daily.",
+   "q": "Süreyya Operası, Bahariye Caddesi 29, Kadıköy, İstanbul",
+   "ll": [
+    40.9902,
+    29.027
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/S%C3%BCreyya_Opera_House",
+    "https://www.cornucopia.net/events/Events-at-the-Sureyya-Opera-House/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "yeldegirmeni",
+   "cat": "gor",
+   "area": "anadolu",
+   "title": "Hunt for street art in Yeldeğirmeni",
+   "desc": "Once a quiet Armenian and Greek quarter, this Kadıköy district now carries big murals by Turkish and international artists on apartment blocks. Cafés, record shops and workshops fill its streets.",
+   "tip": "Start near the Yeldeğirmeni Sanat Merkezi and wander toward Rıhtım Street.",
+   "q": "Yeldeğirmeni, Rasimpaşa, Kadıköy, İstanbul",
+   "ll": [
+    40.998,
+    29.0261
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Yeldeğirmeni"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "surptakavor",
+   "cat": "gor",
+   "area": "anadolu",
+   "title": "Peek into Surp Takavor Armenian Church in Moda",
+   "desc": "Completed in 1858, the Armenian Apostolic church in Kadıköy has a bell tower and calm courtyard. It is part of Kadıköy's multicultural heritage alongside nearby Greek and Catholic churches.",
+   "tip": "Open for services; respectful visits only.",
+   "q": "Surp Takavor Kilisesi, Moda, Kadıköy, İstanbul",
+   "ll": [
+    40.99075,
+    29.0243
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Surp_Takavor_Church_(Moda)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "cinilimosque",
+   "cat": "gor",
+   "area": "anadolu",
+   "title": "See Çinili Mosque's turquoise tiles",
+   "desc": "Built around 1640 for Kösem Sultan, wife of Ahmed I, this Üsküdar mosque is lined inside with Kütahya tiles, giving it its name. The Çinili Hamam of the same date stands beside it.",
+   "tip": "Open outside prayer times; ask permission before photographing.",
+   "q": "Çinili Camii, Çinili Hamam Sokak, Valide-i Atik, Üsküdar, İstanbul",
+   "ll": [
+    41.0258,
+    29.023
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/%C3%87inili_Mosque"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "selimiye",
+   "cat": "gor",
+   "area": "anadolu",
+   "title": "Stand at Selimiye Barracks",
+   "desc": "A vast Ottoman barracks built in 1828 where Florence Nightingale ran a hospital during the Crimean War. A museum room in the north tower is dedicated to her work.",
+   "tip": "Entry is by permission only; photograph from the road along the Harem side.",
+   "q": "Selimiye Kışlası, Selimiye, Üsküdar, İstanbul",
+   "ll": [
+    41.00806,
+    29.01583
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Selimiye_Barracks"
+   ]
+  },
+  {
+   "id": "ciyasofrasi",
+   "cat": "ye",
+   "area": "anadolu",
+   "title": "Taste Anatolian specialities at Çiya Sofrası",
+   "desc": "Musa Dağdeviren's famed restaurant revives regional dishes from across Anatolia, with a daily-changing menu in a Kadıköy side street. Expect seasonal stews, meze and herb dishes rarely found elsewhere.",
+   "tip": "Try the mixed meze plate and ask for the daily specials; arrive off-peak.",
+   "q": "Çiya Sofrası, Güneşlibahçe Sokak 43, Caferağa, Kadıköy, İstanbul",
+   "ll": [
+    40.9904,
+    29.0253
+   ],
+   "src": [
+    "https://www.theworlds50best.com/discovery/Establishments/Turkey/Istanbul/%C3%87iya-Sofras%C4%B1.html",
+    "https://www.timeout.com/istanbul/restaurants/ciya-sofrasi"
+   ]
+  },
+  {
+   "id": "ciyakebap",
+   "cat": "ye",
+   "area": "anadolu",
+   "title": "Eat kebab at Çiya Kebap",
+   "desc": "The kebab sister of Çiya Sofrası serves ocakbaşı-style kebabs and cherry kebab across the street from the main restaurant.",
+   "tip": "Order the çiğ köfte and the kuzu şiş.",
+   "q": "Çiya Kebap, Güneşlibahçe Sokak, Caferağa, Kadıköy, İstanbul",
+   "ll": [
+    40.9906,
+    29.025
+   ],
+   "src": [
+    "https://www.hurriyet.com.tr/mahmure/ciya-kebapa-gittiniz-mi-34156715"
+   ]
+  },
+  {
+   "id": "baylan",
+   "cat": "ye",
+   "area": "anadolu",
+   "title": "Share Baylan's Kup Griye",
+   "desc": "The Kadıköy branch, opened in 1961, is the one that made the Baylan name; the pastry house itself dates to 1923. It is known for Kup Griye, a caramelised-almond ice-cream dessert said to date from 1954, and for its old-style café room.",
+   "tip": "Order Kup Griye and a coffee at the corner window.",
+   "q": "Baylan Pastanesi, Muvakkithane Caddesi 9/A, Caferağa, Kadıköy, İstanbul",
+   "ll": [
+    40.9907,
+    29.0257
+   ],
+   "src": [
+    "https://istanbuleats.com/2010/07/baylan-pastanesi-a-slice-of-history/print/"
+   ]
+  },
+  {
+   "id": "fazilbey",
+   "cat": "ye",
+   "area": "anadolu",
+   "title": "Drink Turkish coffee at Fazıl Bey's",
+   "desc": "A small coffeehouse inside the Kadıköy bazaar, praised by Lonely Planet as the district's best Turkish coffee. It roasts its own beans and serves each cup with water and lokum at sidewalk tables.",
+   "tip": "Ask for medium sweet and pair with lokum.",
+   "q": "Fazıl Bey'in Türk Kahvesi, Serasker Caddesi 1/A, Kadıköy, İstanbul",
+   "ll": [
+    40.9908,
+    29.0243
+   ],
+   "src": [
+    "https://istanbuleats.com/2012/05/fazil-bey-kahvesi-fad-proof/print/",
+    "https://www.lonelyplanet.com/turkey/istanbul/kadikoy/nightlife"
+   ]
+  },
+  {
+   "id": "modacay",
+   "cat": "ye",
+   "area": "anadolu",
+   "title": "Sip tea at Moda Aile Çay Bahçesi",
+   "desc": "A beloved seaside tea garden in Moda with a garden above the waterfront. Locals come for tea, toast and sunsets over the Marmara.",
+   "tip": "Weekdays at sunset are best.",
+   "q": "Moda Aile Çay Bahçesi, Park İçi Yolu, Moda, Kadıköy, İstanbul",
+   "ll": [
+    40.9825,
+    29.0233
+   ],
+   "src": [
+    "https://www.timeout.com/istanbul/restaurants/moda-aile-cay-bahcesi"
+   ]
+  },
+  {
+   "id": "modadondurma",
+   "cat": "ye",
+   "area": "anadolu",
+   "title": "Queue for ice cream at Dondurmacı Ali Usta",
+   "desc": "An ice-cream shop on Moda Caddesi, said to be open since 1969, with about 30 flavours including hazelnut, strawberry and melon. Queues form on weekends but move fast.",
+   "tip": "Eat it while walking toward the Moda seafront.",
+   "q": "Meşhur Dondurmacı Ali Usta, Moda Caddesi 176, Moda, Kadıköy, İstanbul",
+   "ll": [
+    40.9872,
+    29.0257
+   ],
+   "src": [
+    "https://spottedbylocals.com/istanbul/dondurmaci-ali-usta",
+    "https://www.timeout.com/istanbul/restaurants/dondurmaci-ali-usta"
+   ]
+  },
+  {
+   "id": "waltersmoda",
+   "cat": "ye",
+   "area": "anadolu",
+   "title": "Drink specialty coffee at Walter's Coffee Roastery",
+   "desc": "A Kadıköy specialty roaster in Moda serving pour-overs and brews, known among local coffee fans.",
+   "tip": "Try a pour-over and a cake.",
+   "q": "Walter's Coffee Roastery, Bademaltı Sokak 21/B, Moda, Kadıköy, İstanbul",
+   "ll": [
+    40.9874,
+    29.0255
+   ],
+   "src": [
+    "https://www.timeout.com/istanbul/restaurants/walters-coffee-roastery",
+    "https://mesprestiges.com/en/istanbul/places/walters-coffee-roastery"
+   ]
+  },
+  {
+   "id": "kadikoymarket",
+   "cat": "ye",
+   "area": "anadolu",
+   "title": "Graze the Kadıköy produce market",
+   "desc": "The Çarşı market streets around Güneşlibahçe and Serasker are packed with fishmongers, pickle sellers, cheese shops, delis and meze counters. Taste olives, stuffed mussels and fresh fish.",
+   "tip": "Go in the morning; Saturday is busiest.",
+   "q": "Kadıköy Çarşısı, Osmanağa, Kadıköy, İstanbul",
+   "ll": [
+    40.9895,
+    29.0235
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/turkey/istanbul/kadikoy/attractions/kadikoey-produce-market/a/poi-sig/1496731/1339754"
+   ]
+  },
+  {
+   "id": "kanaat",
+   "cat": "ye",
+   "area": "anadolu",
+   "title": "Eat ev yemeği at Kanaat Lokantası",
+   "desc": "A family-run Üsküdar restaurant opened in 1933 by the Kargılı family, still serving Turkish home cooking from trays of stews and milk puddings. Cash only.",
+   "tip": "Try the sütlaç and kazandibi for dessert.",
+   "q": "Kanaat Lokantası, Selmanıpak Caddesi 25, Üsküdar, İstanbul",
+   "ll": [
+    41.0229,
+    29.017
+   ],
+   "src": [
+    "https://atlasobscura.com/places/kanaat-lokantasi-istanbul",
+    "https://www.timeout.com/istanbul/restaurants/kanaat-lokantasi"
+   ]
+  },
+  {
+   "id": "uskudarcinaralti",
+   "cat": "ye",
+   "area": "anadolu",
+   "title": "Have tea at Çınaraltı in Üsküdar",
+   "desc": "A plane-tree-shaded tea garden by the Üsküdar pier, a classic place for tea, simit and a Bosphorus view.",
+   "tip": "Come at dusk for the best light on Maiden's Tower.",
+   "q": "Çınaraltı Çay Bahçesi, Üsküdar Meydanı, İstanbul",
+   "ll": [
+    41.0265,
+    29.014
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/%C3%9Csk%C3%BCdar"
+   ]
+  },
+  {
+   "id": "cengelkoycinaralti",
+   "cat": "ye",
+   "area": "anadolu",
+   "title": "Have a Çengelköy breakfast under the plane trees",
+   "desc": "Çengelköy is known for its pier-side tea gardens and cucumbers. A big weekend breakfast with fresh bread, honey, cheese and tea is a ritual.",
+   "tip": "Go early on Sunday.",
+   "q": "Çengelköy Tarihi Çınaraltı, İskele Meydanı, Çengelköy, Üsküdar, İstanbul",
+   "ll": [
+    41.0523,
+    29.0508
+   ],
+   "src": [
+    "https://yemek.com/cengelkoy-kahvalti-mekanlari/"
+   ]
+  },
+  {
+   "id": "kanlicayogurt",
+   "cat": "ye",
+   "area": "anadolu",
+   "title": "Taste Kanlıca yoghurt at Cafe İsmailağa",
+   "desc": "Kanlıca's thick, registered yoghurt is served with powdered sugar. Cafe İsmailağa, on the pier square, is a well-known place to eat it facing the Bosphorus.",
+   "tip": "Add sugar and sit by the water; ask for the traditional version.",
+   "q": "Cafe İsmailağa, İskele Meydanı 2, Kanlıca, Beykoz, İstanbul",
+   "ll": [
+    41.0987,
+    29.0642
+   ],
+   "src": [
+    "https://yemek.com/kanlica-mekanlari/"
+   ]
+  },
+  {
+   "id": "hidivcafe",
+   "cat": "ye",
+   "area": "anadolu",
+   "title": "Have tea in the garden of Hıdiv Kasrı",
+   "desc": "The 1907 Art Nouveau palace of the Egyptian Khedive Abbas II sits in Çubuklu with a terraced garden and a tea house with Bosphorus views.",
+   "tip": "The Beltur café in the grounds serves no alcohol; the mansion itself may be closed for restoration. Walk uphill from Kanlıca.",
+   "q": "Hıdiv Kasrı, Çubuklu, Beykoz, İstanbul",
+   "ll": [
+    41.105,
+    29.0738
+   ],
+   "src": [
+    "https://www.timeout.com/istanbul/tr/restoranlar/hidiv-kasri",
+    "https://en.wikipedia.org/wiki/Khedive_Palace"
+   ]
+  },
+  {
+   "id": "kadikoyferry",
+   "cat": "dene",
+   "area": "anadolu",
+   "title": "Ride the Kadıköy to Karaköy ferry",
+   "desc": "A 20-minute crossing between the Asian and European sides with views of Haydarpaşa, the Old City skyline and Maiden's Tower. It is part of Istanbul's daily commute.",
+   "tip": "Sit on the open deck and buy a simit and tea on board.",
+   "q": "Kadıköy İskelesi, Rıhtım Cd., Kadıköy, İstanbul",
+   "ll": [
+    40.9919,
+    29.0204
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Kad%C4%B1k%C3%B6y"
+   ]
+  },
+  {
+   "id": "modawalk",
+   "cat": "dene",
+   "area": "anadolu",
+   "title": "Walk the Moda seaside promenade",
+   "desc": "A relaxed stroll along the Moda coast between the tea garden and Moda Park with views to the Princes' Islands and the Old City.",
+   "tip": "Go late afternoon and finish at a tea garden.",
+   "q": "Moda Parkı, Moda, Kadıköy, İstanbul",
+   "ll": [
+    40.9813,
+    29.0235
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Moda,_Istanbul"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kadikoybull",
+   "cat": "dene",
+   "area": "anadolu",
+   "title": "Meet the Kadıköy Bull statue",
+   "desc": "The bronze Bull statue, standing near the ferry, is a famous meeting point in Kadıköy and a landmark of the district.",
+   "tip": "Meet friends here before exploring the market.",
+   "q": "Boğa Heykeli, Söğütlüçeşme Cd., Kadıköy, İstanbul",
+   "ll": [
+    40.99033,
+    29.02414
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Kad%C4%B1k%C3%B6y"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bahariyetram",
+   "cat": "dene",
+   "area": "anadolu",
+   "title": "Ride the nostalgic tram on Bahariye Street",
+   "desc": "A heritage tram runs a short loop on Moda Avenue and Bahariye Street, past shops and cafés.",
+   "tip": "Hop on near the Bull and ride a loop.",
+   "q": "Kadıköy-Moda Nostaljik Tramvay, Bahariye Cd., Kadıköy, İstanbul",
+   "ll": [
+    40.9894,
+    29.0273
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Kad%C4%B1k%C3%B6y-Moda_Tram"
+   ]
+  },
+  {
+   "id": "bagdatavenue",
+   "cat": "dene",
+   "area": "anadolu",
+   "title": "Stroll Bağdat Avenue",
+   "desc": "A 6 km shopping avenue stretching through Caddebostan, Suadiye and Bostancı, lined with brands, cafés and plane trees.",
+   "tip": "Visit at the weekend and walk to the sea at Caddebostan.",
+   "q": "Bağdat Caddesi, Caddebostan, Kadıköy, İstanbul",
+   "ll": [
+    40.968,
+    29.055
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ba%C4%9Fdat_Avenue"
+   ]
+  },
+  {
+   "id": "sukrusaracoglu",
+   "cat": "dene",
+   "area": "anadolu",
+   "title": "Tour Şükrü Saracoğlu Stadium",
+   "desc": "Home of Fenerbahçe SK, the Şükrü Saracoğlu Stadium (about 50,000 seats) has a museum and stadium tours.",
+   "tip": "Check the match calendar; tours run most days.",
+   "q": "Şükrü Saracoğlu Stadyumu, Fenerbahçe, Kadıköy, İstanbul",
+   "ll": [
+    40.9877,
+    29.0369
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/%C5%9E%C3%BCkr%C3%BC_Saraco%C4%9Flu_Stadium"
+   ]
+  },
+  {
+   "id": "kalamis",
+   "cat": "dene",
+   "area": "anadolu",
+   "title": "Walk around Kalamış Marina and Fenerbahçe Park",
+   "desc": "A pleasant seaside loop past the yacht marina, park lawns and cafés on the Marmara shore.",
+   "tip": "Rent a bike or walk at sunset.",
+   "q": "Kalamış Marina, Fenerbahçe, Kadıköy, İstanbul",
+   "ll": [
+    40.974,
+    29.039
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Kalam%C4%B1%C5%9F"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "caddebostanbeach",
+   "cat": "dene",
+   "area": "anadolu",
+   "title": "Relax on the Caddebostan Beach promenade",
+   "desc": "A broad shore promenade and small beach area with joggers, cyclists and tea stands facing the Marmara.",
+   "tip": "Come early on weekends.",
+   "q": "Caddebostan Sahili, Kadıköy, İstanbul",
+   "ll": [
+    40.965,
+    29.06
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Caddebostan"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "uskudarferry",
+   "cat": "dene",
+   "area": "anadolu",
+   "title": "Ride the Üsküdar ferry to Eminönü",
+   "desc": "A short ferry crossing past Maiden's Tower, Sarayburnu and the Old City skyline.",
+   "tip": "Sit on the outside deck on the way back at sunset.",
+   "q": "Üsküdar İskelesi, Üsküdar, İstanbul",
+   "ll": [
+    41.0267,
+    29.0143
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/%C3%9Csk%C3%BCdar"
+   ]
+  },
+  {
+   "id": "kavakferry",
+   "cat": "dene",
+   "area": "anadolu",
+   "title": "Take the Bosphorus ferry to Anadolu Kavağı",
+   "desc": "A scenic public ferry from Eminönü runs up the strait to the Black Sea gate with stops along both shores.",
+   "tip": "Check the timetable; the round trip takes about 6 hours.",
+   "q": "Anadolu Kavağı İskelesi, Beykoz, İstanbul",
+   "ll": [
+    41.1795,
+    29.0887
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Anadolu_Kava%C4%9F%C4%B1"
+   ]
+  },
+  {
+   "id": "kult",
+   "cat": "ye",
+   "area": "anadolu",
+   "title": "Drink craft beer at Kult in Moda",
+   "desc": "An all-day venue on Moda Caddesi combining craft beer, street food and cocktails, a local pick for a beer in Kadıköy.",
+   "tip": "Go in the evening; it is busiest at weekends.",
+   "q": "Kult, Moda Caddesi 28/A, Özgür İş Merkezi, Caferağa, Kadıköy, İstanbul",
+   "ll": [
+    40.9883,
+    29.0258
+   ],
+   "src": [
+    "https://mesprestiges.com/en/istanbul/places/kult-kadikoy"
+   ]
+  },
+  {
+   "id": "kanlicateras",
+   "cat": "ye",
+   "area": "anadolu",
+   "title": "Eat yoghurt and breakfast at Kanlıca Teras Cafe",
+   "desc": "A Kanlıca café on Halide Edip Adıvar Caddesi serving the village's yoghurt alongside breakfast dishes, close to the waterfront.",
+   "tip": "Order the yoghurt with sugar; weekdays are quieter.",
+   "q": "Kanlıca Teras Cafe, Halide Edip Adıvar Caddesi 6, Kanlıca, Beykoz, İstanbul",
+   "ll": [
+    41.0985,
+    29.0638
+   ],
+   "src": [
+    "https://yemek.com/kanlica-mekanlari/"
+   ]
+  },
+  {
+   "id": "yedigulbalik",
+   "cat": "ye",
+   "area": "anadolu",
+   "title": "Eat fried fish at Yedigül Balık in Anadolu Kavağı",
+   "desc": "A fish restaurant on Macar Tabya Caddesi in the Bosphorus fishing village below Yoros Castle, serving fried and grilled catch of the day.",
+   "tip": "Order fried anchovy or sea bass, then walk up to Yoros Castle.",
+   "q": "Yedigül Balık Restaurant, Macar Tabya Caddesi 6/A, Anadolu Kavağı, Beykoz, İstanbul",
+   "ll": [
+    41.1796,
+    29.088
+   ],
+   "src": [
+    "https://www.waymarking.com/waymarks/wmNJCN_Yedigl_Balik_Restaurant_Anadolu_Kavagi_Turkey"
+   ]
+  },
+  {
+   "id": "gulekafe",
+   "cat": "ye",
+   "area": "anadolu",
+   "title": "Have Turkish breakfast at Gule Kafe in Kuzguncuk",
+   "desc": "A family-run café in Kuzguncuk praised for Turkish breakfast, homemade jams and a garden setting.",
+   "tip": "Come on a weekday to avoid the Sunday brunch crowd.",
+   "q": "Gule Kafe, Kuzguncuk, Üsküdar, İstanbul",
+   "ll": [
+    41.037,
+    29.0302
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/5216302/gule-kafe"
+   ]
+  },
+  {
+   "id": "kuzguncukcinaralti",
+   "cat": "ye",
+   "area": "anadolu",
+   "title": "Eat breakfast under the trees at Kuzguncuk Çınaraltı Cafe",
+   "desc": "A tree-shaded café at Kuzguncuk's pier square, known for breakfast and Bosphorus views.",
+   "tip": "Walk-ins are usually fine on weekdays.",
+   "q": "Kuzguncuk Çınaraltı Cafe, Kuzguncuk İskele, Üsküdar, İstanbul",
+   "ll": [
+    41.0363,
+    29.0298
+   ],
+   "src": [
+    "https://www.cornucopia.net/guide/listings/restaurants/cinaralti-cafe-kuzguncuk"
+   ]
+  },
+  {
+   "id": "kuzguncukbalik",
+   "cat": "ye",
+   "area": "anadolu",
+   "title": "Eat fish at Kuzguncuk İskele Balıkçısı",
+   "desc": "A seafood restaurant at the Kuzguncuk ferry pier, recommended in local guides for fresh fish by the water.",
+   "tip": "Reserve on weekends.",
+   "q": "Kuzguncuk İskele Balıkçısı, Kuzguncuk İskele, Üsküdar, İstanbul",
+   "ll": [
+    41.0362,
+    29.0294
+   ],
+   "src": [
+    "https://eurovistatrips.com/best-restaurants-in-kuzguncuk/"
+   ]
+  },
+  {
+   "id": "selimiyemuhallebici",
+   "cat": "ye",
+   "area": "anadolu",
+   "title": "Eat milk puddings at Selimiye Muhallebicisi",
+   "desc": "A nostalgic Üsküdar pudding shop known for traditional muhallebi and other milk desserts.",
+   "tip": "Try the sütlaç or muhallebi with a tea.",
+   "q": "Selimiye Muhallebicisi, Selimiye, Üsküdar, İstanbul",
+   "ll": [
+    41.009,
+    29.017
+   ],
+   "src": [
+    "https://yummyistanbul.com/best-restaurants-uskudar/"
+   ]
+  },
+  {
+   "id": "ekolkunefe",
+   "cat": "ye",
+   "area": "anadolu",
+   "title": "Eat hot künefe at Ekol Hatay Künefe in Üsküdar",
+   "desc": "A künefe specialist in Üsküdar serving the cheese-and-shredded-pastry dessert hot with syrup and tea.",
+   "tip": "Share one portion; it is rich.",
+   "q": "Ekol Hatay Künefe, Üsküdar, İstanbul",
+   "ll": [
+    41.0258,
+    29.016
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/1553647/ekol-hatay-künefe-üsküdar"
+   ]
+  },
+  {
+   "id": "mamiklerkunefe",
+   "cat": "ye",
+   "area": "anadolu",
+   "title": "Try künefe at Mamikler Künefe in Altunizade",
+   "desc": "A long-running künefe shop in Altunizade, listed among Üsküdar's best dessert stops.",
+   "tip": "Go after dinner; tea is served alongside.",
+   "q": "Mamikler Künefe, Altunizade, Üsküdar, İstanbul",
+   "ll": [
+    41.0225,
+    29.046
+   ],
+   "src": [
+    "https://yemek.com/uskudarda-en-iyi-kunefe-nerede-yenir/"
+   ]
+  },
+  {
+   "id": "antiquesstreet",
+   "cat": "dene",
+   "area": "anadolu",
+   "title": "Browse Kadıköy's antiques street, Tellalzade",
+   "desc": "Tellalzade Street in Kadıköy is lined with shops selling vintage furniture, books, ceramics and curios.",
+   "tip": "Go at midday; cafés are nearby.",
+   "q": "Tellalzade Sokak, Caferağa, Kadıköy, İstanbul",
+   "ll": [
+    40.9894,
+    29.0239
+   ],
+   "src": [
+    "https://www.timeout.com/istanbul/shopping/kadikoy-antiques-street"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "cinilihamam",
+   "cat": "dene",
+   "area": "anadolu",
+   "title": "Soak in the Çinili Hamam in Üsküdar",
+   "desc": "A Turkish bath built in 1640 beside the Çinili Mosque, still used for traditional hammam treatments.",
+   "tip": "Check opening hours before going.",
+   "q": "Çinili Hamam, Çinili Hamam Sokak, Üsküdar, İstanbul",
+   "ll": [
+    41.026,
+    29.0231
+   ],
+   "src": [
+    "https://www.timeout.com/istanbul/health-and-beauty/cinili-hamam"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "modasahnesi",
+   "cat": "dene",
+   "area": "anadolu",
+   "title": "See a play at Moda Sahnesi",
+   "desc": "A theatre housed in a former cinema in Moda, founded by a local group of actors, which also shows independent films.",
+   "tip": "Check the programme online and book ahead.",
+   "q": "Moda Sahnesi, Moda, Kadıköy, İstanbul",
+   "ll": [
+    40.9875,
+    29.0262
+   ],
+   "src": [
+    "https://www.timeout.com/istanbul/things-to-do/kadikoy-moda-guide"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rexxcinema",
+   "cat": "dene",
+   "area": "anadolu",
+   "title": "Watch a film at Rexx Cinema",
+   "desc": "One of the few classic independent cinemas left in Istanbul, at the edge of Kadıköy's bar street, with a terrace for intermissions.",
+   "tip": "Check showtimes online.",
+   "q": "Rexx Sineması, Sakızgülü Sokak, Kadıköy, İstanbul",
+   "ll": [
+    40.9892,
+    29.0248
+   ],
+   "src": [
+    "https://www.timeout.com/istanbul/things-to-do/kadikoy-moda-guide"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hidivgrove",
+   "cat": "dene",
+   "area": "anadolu",
+   "title": "Walk the Hıdiv Kasrı woodland grove",
+   "desc": "A wooded municipal park around the Khedive's Villa on the hill above Çubuklu, with shaded paths and Bosphorus lookouts.",
+   "tip": "Walk uphill from Kanlıca; bring water.",
+   "q": "Hıdiv Kasrı Korusu, Çubuklu, Beykoz, İstanbul",
+   "ll": [
+    41.1045,
+    29.073
+   ],
+   "src": [
+    "https://offpeaktrip.com/en/guide/istanbul/i-bb-h-div-kasr-korusu"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "beykozglass",
+   "cat": "dene",
+   "area": "anadolu",
+   "title": "Visit the Beykoz Glass and Crystal Museum",
+   "desc": "A museum in Paşabahçe on the history of Beykoz glassmaking, one of the Bosphorus's old crafts.",
+   "tip": "Check visiting hours before going.",
+   "q": "Paşabahçe Cam ve Kristal Müzesi, Paşabahçe, Beykoz, İstanbul",
+   "ll": [
+    41.1125,
+    29.0905
+   ],
+   "src": [
+    "https://citioapp.com/en/istanbul-75943/tdhkr-mthf-sryaa-d1bcf/beykoz-glass-and-crystal-museum-0494e"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  }
+ ]
+}

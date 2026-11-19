@@ -13,7 +13,7 @@ areas = set(re.findall(r"^    (\w+): \"", s[s.index("  areas: {"):s.index("  bou
 coords, quests, skipped = [], [], []
 for f in files:
     for q in json.load(io.open(f, encoding="utf-8"))["new"]:
-        ok = (re.fullmatch(r"[a-z0-9]+", q["id"]) and q["id"] not in existing and q["cat"] in ("gor", "ye", "dene")
+        ok = (re.fullmatch(r"[a-z][a-z0-9]*", q["id"]) and q["id"] not in existing and q["cat"] in ("gor", "ye", "dene")
               and q["area"] in areas and len(q.get("ll", [])) == 2)
         if not ok:
             skipped.append((f, q["id"])); continue

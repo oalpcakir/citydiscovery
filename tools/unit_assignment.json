@@ -175,6 +175,110 @@
 "Arr. Philippeville",
 "mons"
 ],
+"CH:CH011": [
+"Vaud",
+"geneve"
+],
+"CH:CH012": [
+"Valais",
+"valais"
+],
+"CH:CH013": [
+"Genève",
+"geneve"
+],
+"CH:CH021": [
+"Bern",
+"bern"
+],
+"CH:CH022": [
+"Freiburg",
+"bern"
+],
+"CH:CH023": [
+"Solothurn",
+"bern"
+],
+"CH:CH024": [
+"Neuchâtel",
+"bern"
+],
+"CH:CH025": [
+"Jura",
+"basel"
+],
+"CH:CH031": [
+"Basel-Stadt",
+"basel"
+],
+"CH:CH032": [
+"Basel-Landschaft",
+"basel"
+],
+"CH:CH033": [
+"Aargau",
+"zuerich"
+],
+"CH:CH040": [
+"Zürich",
+"zuerich"
+],
+"CH:CH051": [
+"Glarus",
+"zuerich"
+],
+"CH:CH052": [
+"Schaffhausen",
+"zuerich"
+],
+"CH:CH053": [
+"Appenzell Ausserrhoden",
+"stgallen"
+],
+"CH:CH054": [
+"Appenzell Innerrhoden",
+"stgallen"
+],
+"CH:CH055": [
+"St. Gallen",
+"stgallen"
+],
+"CH:CH056": [
+"Graubünden",
+"chur"
+],
+"CH:CH057": [
+"Thurgau",
+"stgallen"
+],
+"CH:CH061": [
+"Luzern",
+"luzern"
+],
+"CH:CH062": [
+"Uri",
+"luzern"
+],
+"CH:CH063": [
+"Schwyz",
+"luzern"
+],
+"CH:CH064": [
+"Obwalden",
+"luzern"
+],
+"CH:CH065": [
+"Nidwalden",
+"luzern"
+],
+"CH:CH066": [
+"Zug",
+"luzern"
+],
+"CH:CH070": [
+"Ticino",
+"lugano"
+],
 "DE:DE111": [
 "Stuttgart, Stadtkreis",
 "stuttgart"
@@ -3662,5 +3766,329 @@
 "SE:SE332": [
 "Norrbottens län",
 "lulea"
+],
+"TR:TR100": [
+"İstanbul",
+"istanbul"
+],
+"TR:TR211": [
+"Tekirdağ",
+"canakkale"
+],
+"TR:TR212": [
+"Edirne",
+"canakkale"
+],
+"TR:TR213": [
+"Kırklareli",
+"istanbul"
+],
+"TR:TR221": [
+"Balıkesir",
+"bursa"
+],
+"TR:TR222": [
+"Çanakkale",
+"canakkale"
+],
+"TR:TR310": [
+"İzmir",
+"izmir"
+],
+"TR:TR321": [
+"Aydın",
+"aydin"
+],
+"TR:TR322": [
+"Denizli",
+"denizli"
+],
+"TR:TR323": [
+"Muğla",
+"mugla"
+],
+"TR:TR331": [
+"Manisa",
+"izmir"
+],
+"TR:TR332": [
+"Afyonkarahisar",
+"eskisehir"
+],
+"TR:TR333": [
+"Kütahya",
+"eskisehir"
+],
+"TR:TR334": [
+"Uşak",
+"denizli"
+],
+"TR:TR411": [
+"Bursa",
+"bursa"
+],
+"TR:TR412": [
+"Eskişehir",
+"eskisehir"
+],
+"TR:TR413": [
+"Bilecik",
+"eskisehir"
+],
+"TR:TR421": [
+"Kocaeli",
+"istanbul"
+],
+"TR:TR422": [
+"Sakarya",
+"bolu"
+],
+"TR:TR423": [
+"Düzce",
+"bolu"
+],
+"TR:TR424": [
+"Bolu",
+"bolu"
+],
+"TR:TR425": [
+"Yalova",
+"bursa"
+],
+"TR:TR510": [
+"Ankara",
+"ankara"
+],
+"TR:TR521": [
+"Konya",
+"konya"
+],
+"TR:TR522": [
+"Karaman",
+"konya"
+],
+"TR:TR611": [
+"Antalya",
+"antalya"
+],
+"TR:TR612": [
+"Isparta",
+"antalya"
+],
+"TR:TR613": [
+"Burdur",
+"antalya"
+],
+"TR:TR621": [
+"Adana",
+"adana"
+],
+"TR:TR622": [
+"Mersin",
+"adana"
+],
+"TR:TR631": [
+"Hatay",
+"adana"
+],
+"TR:TR632": [
+"Kahramanmaraş",
+"gaziantep"
+],
+"TR:TR633": [
+"Osmaniye",
+"adana"
+],
+"TR:TR711": [
+"Kırıkkale",
+"ankara"
+],
+"TR:TR712": [
+"Aksaray",
+"kapadokya"
+],
+"TR:TR713": [
+"Niğde",
+"kapadokya"
+],
+"TR:TR714": [
+"Nevşehir",
+"kapadokya"
+],
+"TR:TR715": [
+"Kırşehir",
+"kapadokya"
+],
+"TR:TR721": [
+"Kayseri",
+"kapadokya"
+],
+"TR:TR722": [
+"Sivas",
+"sivas"
+],
+"TR:TR723": [
+"Yozgat",
+"kapadokya"
+],
+"TR:TR811": [
+"Zonguldak",
+"bolu"
+],
+"TR:TR812": [
+"Karabük",
+"bolu"
+],
+"TR:TR813": [
+"Bartın",
+"bolu"
+],
+"TR:TR821": [
+"Kastamonu",
+"bolu"
+],
+"TR:TR822": [
+"Çankırı",
+"ankara"
+],
+"TR:TR823": [
+"Sinop",
+"samsun"
+],
+"TR:TR831": [
+"Samsun",
+"samsun"
+],
+"TR:TR832": [
+"Tokat",
+"sivas"
+],
+"TR:TR833": [
+"Çorum",
+"samsun"
+],
+"TR:TR834": [
+"Amasya",
+"samsun"
+],
+"TR:TR901": [
+"Trabzon",
+"trabzon"
+],
+"TR:TR902": [
+"Ordu",
+"samsun"
+],
+"TR:TR903": [
+"Giresun",
+"trabzon"
+],
+"TR:TR904": [
+"Rize",
+"trabzon"
+],
+"TR:TR905": [
+"Artvin",
+"erzurum"
+],
+"TR:TR906": [
+"Gümüşhane",
+"trabzon"
+],
+"TR:TRA11": [
+"Erzurum",
+"erzurum"
+],
+"TR:TRA12": [
+"Erzincan",
+"sivas"
+],
+"TR:TRA13": [
+"Bayburt",
+"erzurum"
+],
+"TR:TRA21": [
+"Ağrı",
+"van"
+],
+"TR:TRA22": [
+"Kars",
+"erzurum"
+],
+"TR:TRA23": [
+"Iğdır",
+"van"
+],
+"TR:TRA24": [
+"Ardahan",
+"erzurum"
+],
+"TR:TRB11": [
+"Malatya",
+"malatya"
+],
+"TR:TRB12": [
+"Elazığ",
+"malatya"
+],
+"TR:TRB13": [
+"Bingöl",
+"erzurum"
+],
+"TR:TRB14": [
+"Tunceli",
+"malatya"
+],
+"TR:TRB21": [
+"Van",
+"van"
+],
+"TR:TRB22": [
+"Muş",
+"van"
+],
+"TR:TRB23": [
+"Bitlis",
+"van"
+],
+"TR:TRB24": [
+"Hakkari",
+"van"
+],
+"TR:TRC11": [
+"Gaziantep",
+"gaziantep"
+],
+"TR:TRC12": [
+"Adıyaman",
+"gaziantep"
+],
+"TR:TRC13": [
+"Kilis",
+"gaziantep"
+],
+"TR:TRC21": [
+"Şanlıurfa",
+"gaziantep"
+],
+"TR:TRC22": [
+"Diyarbakır",
+"diyarbakir"
+],
+"TR:TRC31": [
+"Mardin",
+"diyarbakir"
+],
+"TR:TRC32": [
+"Batman",
+"diyarbakir"
+],
+"TR:TRC33": [
+"Şırnak",
+"diyarbakir"
+],
+"TR:TRC34": [
+"Siirt",
+"diyarbakir"
 ]
 }

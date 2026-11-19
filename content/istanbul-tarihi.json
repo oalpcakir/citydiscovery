@@ -1,0 +1,1270 @@
+{
+"new": [
+{
+"id": "hagiasophia",
+"cat": "gor",
+"area": "tarihi",
+"title": "Step inside the dome of Hagia Sophia",
+"desc": "Built for Emperor Justinian in 532-537, Hagia Sophia was the world's largest cathedral for almost a thousand years. It became a mosque in 1453, a museum in 1935 and a mosque again in 2020, with Byzantine mosaics and Ottoman calligraphy side by side.",
+"tip": "Go at opening time to avoid queues; foreign visitors now buy an e-ticket for the upper gallery. Dress modestly and expect prayer-time closures to visitors.",
+"q": "Ayasofya-i Kebir Cami-i Şerifi, Sultanahmet, Fatih, İstanbul",
+"ll": [
+41.00859,
+28.98001
+],
+"src": [
+"https://en.wikipedia.org/wiki/Hagia_Sophia"
+],
+"tags": [
+"rainy day"
+]
+},
+{
+"id": "bluemosque",
+"cat": "gor",
+"area": "tarihi",
+"title": "Admire the Blue Mosque's six minarets",
+"desc": "The Sultan Ahmed Mosque was built by architect Sedefkâr Mehmed Ağa between 1609 and 1616. It takes its nickname from more than 20,000 blue Iznik tiles lining the interior.",
+"tip": "Free entry, closed to tourists during the five daily prayers. Shoulders and knees covered; headscarves are lent at the door.",
+"q": "Sultanahmet Camii, Sultanahmet, Fatih, İstanbul",
+"ll": [
+41.00541,
+28.97684
+],
+"src": [
+"https://en.wikipedia.org/wiki/Sultan_Ahmed_Mosque"
+],
+"tags": [
+"free"
+]
+},
+{
+"id": "topkapi",
+"cat": "gor",
+"area": "tarihi",
+"title": "Wander the courtyards of Topkapı Palace",
+"desc": "Topkapı was the main residence of the Ottoman sultans from the 1460s until the mid-19th century. Its courtyards, Harem, Imperial Treasury and relics collection show four centuries of court life above the Bosphorus.",
+"tip": "Allow three hours and buy the Harem ticket separately or with the museum card. Closed on Tuesdays.",
+"q": "Topkapı Sarayı, Cankurtaran, Fatih, İstanbul",
+"ll": [
+41.01152,
+28.98336
+],
+"src": [
+"https://en.wikipedia.org/wiki/Topkap%C4%B1_Palace"
+]
+},
+{
+"id": "basilicacistern",
+"cat": "gor",
+"area": "tarihi",
+"title": "Walk among columns in the Basilica Cistern",
+"desc": "Justinian ordered this underground reservoir in 532; 336 marble columns hold up its brick vaults. Two Medusa heads serve as column bases in the far corner.",
+"tip": "Queues are shortest at opening or after 5 pm. The floor is wet and dim, so wear flat shoes.",
+"q": "Yerebatan Sarnıcı, Alemdar, Sultanahmet, Fatih, İstanbul",
+"ll": [
+41.00837,
+28.97788
+],
+"src": [
+"https://en.wikipedia.org/wiki/Basilica_Cistern"
+],
+"tags": [
+"rainy day"
+]
+},
+{
+"id": "archaeologymuseums",
+"cat": "gor",
+"area": "tarihi",
+"title": "See the Alexander Sarcophagus at the Archaeological Museums",
+"desc": "Founded by Osman Hamdi Bey in 1891, the museum complex holds the Alexander Sarcophagus from Sidon and the Kadesh peace treaty tablet. It is among the richest collections of ancient Near Eastern and Greco-Roman art.",
+"tip": "Closed on Mondays; it is a quiet, cheaper alternative to Topkapı next door.",
+"q": "İstanbul Arkeoloji Müzeleri, Gülhane Park, Fatih, İstanbul",
+"ll": [
+41.01178,
+28.98152
+],
+"src": [
+"https://en.wikipedia.org/wiki/Istanbul_Archaeology_Museums"
+],
+"tags": [
+"rainy day"
+]
+},
+{
+"id": "hippodrome",
+"cat": "gor",
+"area": "tarihi",
+"title": "Find the Obelisk of Theodosius in the Hippodrome",
+"desc": "The Hippodrome of Constantinople held chariot races for 100,000 spectators. The Egyptian Obelisk of Thutmose III, the Serpent Column from Delphi and the Walled Obelisk still stand on the old track.",
+"tip": "Free and open all day; it is prettiest at dusk with the Blue Mosque lit behind.",
+"q": "Sultanahmet Meydanı, Sultanahmet, Fatih, İstanbul",
+"ll": [
+41.00596,
+28.9752
+],
+"src": [
+"https://en.wikipedia.org/wiki/Hippodrome_of_Constantinople"
+],
+"tags": [
+"free"
+]
+},
+{
+"id": "suleymaniye",
+"cat": "gor",
+"area": "tarihi",
+"title": "Visit Süleymaniye, Sinan's masterpiece",
+"desc": "Mimar Sinan built this mosque complex for Suleiman the Magnificent between 1550 and 1557. Sinan and the sultan are buried in the gardens, and the courtyard terrace looks over the Golden Horn.",
+"tip": "Free; come in the morning outside prayer times. The garden terrace on the north side has the best view.",
+"q": "Süleymaniye Camii, Süleymaniye, Fatih, İstanbul",
+"ll": [
+41.01605,
+28.964
+],
+"src": [
+"https://en.wikipedia.org/wiki/S%C3%BCleymaniye_Mosque"
+],
+"tags": [
+"free"
+]
+},
+{
+"id": "chora",
+"cat": "gor",
+"area": "tarihi",
+"title": "Study the Byzantine mosaics of Chora Church",
+"desc": "The Church of the Holy Saviour in Chora has the finest surviving Byzantine mosaics and frescoes in the city, mostly from about 1315-1321. It was a mosque from the early 1500s, then a museum, and reopened as a mosque in 2024.",
+"tip": "Foreign visitors pay a EUR 20 ticket (Museum Pass not valid); visits are outside prayer times and reportedly not on Fridays, so check before going.",
+"q": "Kariye Camii, Edirnekapı, Fatih, İstanbul",
+"ll": [
+41.03103,
+28.93918
+],
+"src": [
+"https://en.wikipedia.org/wiki/Chora_Church",
+"https://istanbul.com/kariye-mosque"
+],
+"tags": [
+"rainy day"
+]
+},
+{
+"id": "yedikule",
+"cat": "gor",
+"area": "tarihi",
+"title": "Climb the towers of Yedikule Fortress",
+"desc": "Yedikule (Seven Towers) combines the Golden Gate of Theodosius with towers Mehmed II added in 1458. It later served as a treasury and a state prison.",
+"tip": "Closed on Mondays. The ramparts give wide views over the Marmara and the old walls; take the Marmaray to Yedikule or tram T1 to Zeytinburnu.",
+"q": "Yedikule Müzesi, Yedikule, Fatih, İstanbul",
+"ll": [
+40.9935,
+28.9224
+],
+"src": [
+"https://en.wikipedia.org/wiki/Yedikule_Fortress"
+]
+},
+{
+"id": "tekfursaray",
+"cat": "gor",
+"area": "tarihi",
+"title": "Look through the arches of Tekfur Palace",
+"desc": "The Palace of the Porphyrogenitus is a three-storey Byzantine palace on the Theodosian walls, built in the late 13th century. After 1453 it served as a menagerie, tile workshop and glassworks.",
+"tip": "The ruin is fenced and views are from outside; it is a short walk from Chora. Combine with the Edirnekapı walls.",
+"q": "Tekfur Sarayı, Hoca Çakır, Edirnekapı, Fatih, İstanbul",
+"ll": [
+41.03509,
+28.93998
+],
+"src": [
+"https://en.wikipedia.org/wiki/Palace_of_the_Porphyrogenitus"
+],
+"tags": [
+"free"
+]
+},
+{
+"id": "rustempasha",
+"cat": "gor",
+"area": "tarihi",
+"title": "Find the Iznik tiles of Rüstem Pasha Mosque",
+"desc": "Sinan built this small mosque in 1563 for Grand Vizier Rüstem Pasha, a son-in-law of Suleiman. Its walls and porch are covered with some of the best Iznik tiles in the city.",
+"tip": "It is on a raised platform; look for the stairs among the shops near the Spice Bazaar. Free; avoid prayer times.",
+"q": "Rüstem Paşa Camii, Hasırcılar Cd, Eminönü, Fatih, İstanbul",
+"ll": [
+41.0172,
+28.9694
+],
+"src": [
+"https://en.wikipedia.org/wiki/R%C3%BCstem_Pasha_Mosque"
+],
+"tags": [
+"free"
+]
+},
+{
+"id": "yenicami",
+"cat": "gor",
+"area": "tarihi",
+"title": "Visit the New Mosque by the Eminönü waterfront",
+"desc": "Yeni Cami was begun in 1597 and completed in 1665 under Valide Turhan Hatice Sultan. Its blue-tiled interior dominates the Eminönü skyline beside the Galata Bridge.",
+"tip": "Free and rarely crowded compared with Blue Mosque; the tile-clad upper walls are best in morning light.",
+"q": "Yeni Cami, Eminönü, Fatih, İstanbul",
+"ll": [
+41.0165,
+28.97009
+],
+"src": [
+"https://en.wikipedia.org/wiki/New_Mosque,_Istanbul"
+],
+"tags": [
+"free"
+]
+},
+{
+"id": "littlehagiasophia",
+"cat": "gor",
+"area": "tarihi",
+"title": "Step into Little Hagia Sophia",
+"desc": "Built in 527-536 as the Church of Saints Sergius and Bacchus, it served as the prototype for the great Hagia Sophia. Its octagonal plan and carved capitals survive inside a mosque used since about 1500.",
+"tip": "Free and uncrowded; the courtyard has a small tea garden. Avoid prayer times.",
+"q": "Küçük Ayasofya Camii, Küçük Ayasofya Cd, Sultanahmet, Fatih, İstanbul",
+"ll": [
+41.00417,
+28.97296
+],
+"src": [
+"https://en.wikipedia.org/wiki/Little_Hagia_Sophia"
+],
+"tags": [
+"free"
+]
+},
+{
+"id": "pammakaristos",
+"cat": "gor",
+"area": "tarihi",
+"title": "See the mosaic dome at Fethiye Museum",
+"desc": "The Pammakaristos Church was a seat of the Ecumenical Patriarchate from 1456 to 1587 and became the Fethiye Mosque. Its side chapel (parekklesion) keeps a 14th-century mosaic of Christ Pantocrator surrounded by prophets.",
+"tip": "Only the chapel is a museum with a ticket; the main mosque is free. Closed on Wednesdays.",
+"q": "Fethiye Müzesi, Draman, Fatih, İstanbul",
+"ll": [
+41.02954,
+28.94764
+],
+"src": [
+"https://en.wikipedia.org/wiki/Pammakaristos_Church"
+]
+},
+{
+"id": "ironchurch",
+"cat": "gor",
+"area": "tarihi",
+"title": "Look up at the Bulgarian Iron Church of St Stephen",
+"desc": "Completed in 1898 for the Bulgarian community, this neo-Gothic church was cast in Vienna and shipped down the Danube. It is built from prefabricated iron panels and stands on the Golden Horn shore.",
+"tip": "Open for visits on weekdays and services; the interior is richly gilded. Combine with a Balat walk.",
+"q": "Bulgar Sveti Stefan Kilisesi, Mürsel Paşa Cd, Balat, Fatih, İstanbul",
+"ll": [
+41.03118,
+28.95029
+],
+"src": [
+"https://en.wikipedia.org/wiki/Bulgarian_St._Stephen_Church"
+],
+"tags": [
+"free"
+]
+},
+{
+"id": "patriarchate",
+"cat": "gor",
+"area": "tarihi",
+"title": "Visit the Ecumenical Patriarchate in Fener",
+"desc": "Saint George's Church in Fener has been the seat of the Orthodox Ecumenical Patriarch since 1601. It holds the patriarchal throne and relics, including the column of the Flagellation.",
+"tip": "Open daily with free entry; dress modestly, no photography at some points. Fener is easy to reach by bus 55T or on foot from Balat.",
+"q": "Rum Ortodoks Patrikhanesi, Sadrazam Ali Paşa Cd, Fener, Fatih, İstanbul",
+"ll": [
+41.02942,
+28.95004
+],
+"src": [
+"https://en.wikipedia.org/wiki/Church_of_St._George,_Istanbul"
+],
+"tags": [
+"free"
+]
+},
+{
+"id": "balathouses",
+"cat": "gor",
+"area": "tarihi",
+"title": "Photograph the colourful houses of Balat",
+"desc": "Balat was a historic Greek, Jewish and Armenian quarter of tall, brightly painted wooden houses. Steps and slopes such as Merdivenli Yokuş are lined with cafés and antique shops.",
+"tip": "Early morning has fewer photographers. The streets are steep and cobbled.",
+"q": "Merdivenli Yokuş, Balat, Fatih, İstanbul",
+"ll": [
+41.0287,
+28.9485
+],
+"src": [
+"https://en.wikipedia.org/wiki/Balat,_Istanbul"
+],
+"tags": [
+"free"
+]
+},
+{
+"id": "eyupmosque",
+"cat": "gor",
+"area": "tarihi",
+"title": "Pay respects at Eyüp Sultan Mosque",
+"desc": "This mosque, built in 1458 and rebuilt in 1800, stands beside the tomb of Ayyub al-Ansari, the standard-bearer of the Prophet Muhammad. It is the fourth holiest Islamic site for Turkish Muslims and a pilgrimage place for locals.",
+"tip": "Free; very busy on Fridays and at weekends. Dress modestly and be quiet around the tomb.",
+"q": "Eyüp Sultan Camii, Eyüp, İstanbul",
+"ll": [
+41.0477,
+28.9336
+],
+"src": [
+"https://en.wikipedia.org/wiki/Eyüp_Sultan_Mosque"
+],
+"tags": [
+"free"
+]
+},
+{
+"id": "valens",
+"cat": "gor",
+"area": "tarihi",
+"title": "Walk beneath the Valens Aqueduct",
+"desc": "Emperor Valens finished this aqueduct in 378 and it carried water to the city for centuries. Atatürk Boulevard now runs through its huge double-tiered arches.",
+"tip": "Free; best photographed from the sides of the Şehzadebaşı end. Nearby Vefa has simple local eats.",
+"q": "Bozdoğan Kemeri, Atatürk Bulvarı, Saraçhane, Fatih, İstanbul",
+"ll": [
+41.0159,
+28.9565
+],
+"src": [
+"https://en.wikipedia.org/wiki/Aqueduct_of_Valens"
+],
+"tags": [
+"free"
+]
+},
+{
+"id": "fatihmosque",
+"cat": "gor",
+"area": "tarihi",
+"title": "Visit the Fatih Mosque and Mehmed's tomb",
+"desc": "Mehmed the Conqueror ordered the complex in 1463 on the site of the Church of the Holy Apostles; the present building dates from 1771. His tomb is in the garden and a lively Wednesday market spreads around it.",
+"tip": "Free. Combine it with the Çarşamba market on Wednesdays; conservative neighbourhood so dress modestly.",
+"q": "Fatih Camii, Fatih, İstanbul",
+"ll": [
+41.0196,
+28.95
+],
+"src": [
+"https://en.wikipedia.org/wiki/Fatih_Mosque"
+],
+"tags": [
+"free"
+]
+},
+{
+"id": "zeyrek",
+"cat": "gor",
+"area": "tarihi",
+"title": "Climb to the Zeyrek Mosque, a Byzantine monastery",
+"desc": "The Zeyrek (Pantokrator) complex was built around 1118-1136 and is Istanbul's second-largest surviving Byzantine church after Hagia Sophia. The interior holds a fine marble opus sectile floor.",
+"tip": "Free; the old wooden houses of Zeyrek are good for a stroll afterwards. Visit outside prayer times.",
+"q": "Zeyrek Camii, Ibadethane Arkası Sk, Zeyrek, Fatih, İstanbul",
+"ll": [
+41.0198,
+28.9559
+],
+"src": [
+"https://en.wikipedia.org/wiki/Pantokrator_Monastery"
+],
+"tags": [
+"free"
+]
+},
+{
+"id": "cemberlitas",
+"cat": "gor",
+"area": "tarihi",
+"title": "Stand at the Column of Constantine",
+"desc": "Constantine the Great dedicated this porphyry column in 330 to mark the founding of his new capital. It was originally topped with a statue of the emperor as Apollo and today is held by iron hoops.",
+"tip": "Free and next to the tram stop; the Çemberlitaş Hamamı opposite is a good follow-up.",
+"q": "Çemberlitaş Sütunu, Divan Yolu, Sultanahmet, Fatih, İstanbul",
+"ll": [
+41.0088,
+28.9712
+],
+"src": [
+"https://en.wikipedia.org/wiki/Column_of_Constantine"
+],
+"tags": [
+"free"
+]
+},
+{
+"id": "tiem",
+"cat": "gor",
+"area": "tarihi",
+"title": "See carpets and Seljuk art at the İbrahim Pasha Palace",
+"desc": "The 1524 palace of Grand Vizier İbrahim Pasha, beside the Hippodrome, houses the Museum of Turkish and Islamic Arts. Its collection spans some of the oldest and largest carpets in the world.",
+"tip": "Quiet compared with the main sights; the courtyard cafe is calm. Check opening days.",
+"q": "Türk ve İslam Eserleri Müzesi, Atmeydanı Sk, Sultanahmet, Fatih, İstanbul",
+"ll": [
+41.0061,
+28.9747
+],
+"src": [
+"https://en.wikipedia.org/wiki/Museum_of_Turkish_and_Islamic_Arts"
+],
+"tags": [
+"rainy day"
+]
+},
+{
+"id": "mosaicmuseum",
+"cat": "gor",
+"area": "tarihi",
+"title": "See the Great Palace Mosaic Museum",
+"desc": "The museum covers a section of the peristyle courtyard floor of Byzantium's Great Palace, mostly 5th-6th century. Scenes show hunting, animals and rural life in detailed tesserae.",
+"tip": "Small and rarely crowded; the entrance is in the Arasta Bazaar. Allow 45 minutes.",
+"q": "Büyük Saray Mozaik Müzesi, Torun Sk, Sultanahmet, Fatih, İstanbul",
+"ll": [
+41.0063,
+28.9793
+],
+"src": [
+"https://en.wikipedia.org/wiki/Great_Palace_Mosaic_Museum"
+],
+"tags": [
+"rainy day"
+]
+},
+{
+"id": "sirkeci",
+"cat": "gor",
+"area": "tarihi",
+"title": "Step into Sirkeci Station, the Orient Express terminus",
+"desc": "Sirkeci Terminal opened in 1890 as the European end of the Orient Express and mixes Orientalist and Art Nouveau styles. It now serves Marmaray and houses a small railway museum.",
+"tip": "Free to enter the hall; the restaurant and museum are at the Eminönü end. Adjacent tram stop Sirkeci.",
+"q": "Sirkeci Garı, Hocapaşa, Fatih, İstanbul",
+"ll": [
+41.0151,
+28.977
+],
+"src": [
+"https://en.wikipedia.org/wiki/Sirkeci_Terminal"
+],
+"tags": [
+"free"
+]
+},
+{
+"id": "hagiairene",
+"cat": "gor",
+"area": "tarihi",
+"title": "Hear the echo in Hagia Irene",
+"desc": "Hagia Irene (Church of Divine Peace) was built in the 4th century and rebuilt after the Nika riots. It stands in Topkapı's first courtyard and was never converted into a mosque, serving as an armoury before becoming a concert venue.",
+"tip": "Entry is separate from Topkapı; concerts are held through the year in its remarkable acoustics. Closed on Tuesdays.",
+"q": "Aya İrini Müzesi, Topkapı Sarayı, Sultanahmet, Fatih, İstanbul",
+"ll": [
+41.01125,
+28.9803
+],
+"src": [
+"https://en.wikipedia.org/wiki/Hagia_Irene"
+],
+"tags": [
+"rainy day"
+]
+},
+{
+"id": "sehzade",
+"cat": "gor",
+"area": "tarihi",
+"title": "See Sinan's apprentice work at Şehzade Mosque",
+"desc": "Mimar Sinan built the Şehzade Mosque in 1543-1548 for Suleiman's son Prince Mehmed, who died young. Sinan called it his 'apprentice work'; its four half-domes around a central dome influenced later imperial mosques.",
+"tip": "Free and quiet; the prince's tomb is decorated with tiles. Walk on to Vefa and Valens Aqueduct.",
+"q": "Şehzade Camii, Şehzadebaşı Cd, Fatih, İstanbul",
+"ll": [
+41.0161,
+28.9575
+],
+"src": [
+"https://en.wikipedia.org/wiki/%C5%9Eehzade_Mosque"
+],
+"tags": [
+"free"
+]
+},
+{
+"id": "mihrimah",
+"cat": "gor",
+"area": "tarihi",
+"title": "Visit Mihrimah Sultan Mosque at Edirnekapı",
+"desc": "Sinan's mosque for Mihrimah Sultan, daughter of Suleiman, stands at the highest point of the old city and was finished around 1565. Its walls have walls of windows that give an unusually bright interior.",
+"tip": "Free; the setting at the Edirnekapı gate makes it a natural stop on a walk along the land walls, close to Chora.",
+"q": "Mihrimah Sultan Camii, Edirnekapı, Fatih, İstanbul",
+"ll": [
+41.02992,
+28.9346
+],
+"src": [
+"https://en.wikipedia.org/wiki/Mihrimah_Sultan_Mosque,_Edirnekap%C4%B1"
+],
+"tags": [
+"free"
+]
+},
+{
+"id": "ahrida",
+"cat": "gor",
+"area": "tarihi",
+"title": "Discover the Ahrida Synagogue in Balat",
+"desc": "Founded in the 15th century by Jews from Ohrid, Ahrida is among Istanbul's oldest synagogues. Its bimah is shaped like the prow of a boat, recalling Noah's Ark or the ships carrying Sephardic refugees.",
+"tip": "Visits are by arrangement with the community, so check ahead; security screening applies.",
+"q": "Ahrida Sinagogu, Vodina Cd, Balat, Fatih, İstanbul",
+"ll": [
+41.029,
+28.949
+],
+"src": [
+"https://en.wikipedia.org/wiki/Ahrida_Synagogue"
+]
+},
+{
+"id": "gulhanepark",
+"cat": "gor",
+"area": "tarihi",
+"title": "Stroll through Gülhane Park",
+"desc": "Gülhane was the outer garden of Topkapı Palace and is now the city's oldest public park. It has tulip beds in April, tall plane trees and a viewpoint over the Bosphorus junction at Seraglio Point.",
+"tip": "Free to enter; the Alay Köşkü gate faces Sirkeci. Tulip season in April is the best time.",
+"q": "Gülhane Parkı, Cankurtaran, Fatih, İstanbul",
+"ll": [
+41.013,
+28.9813
+],
+"src": [
+"https://en.wikipedia.org/wiki/G%C3%BClhane_Park"
+],
+"tags": [
+"free"
+]
+},
+{
+"id": "hafizmustafa",
+"cat": "ye",
+"area": "tarihi",
+"title": "Eat baklava and lokum at Hafız Mustafa 1864",
+"desc": "A confectioner that has been selling sweets since 1864, now with a main shop in Sirkeci. Its baklava, turkish delight and künefe have a long local following.",
+"tip": "Try the pistachio baklava or the şekerpare. The café upstairs has seating.",
+"q": "Hafız Mustafa 1864, Muradiye Cd 51, Hocapaşa, Sirkeci, Fatih, İstanbul",
+"ll": [
+41.0154,
+28.9753
+],
+"src": [
+"https://en.wikipedia.org/wiki/Hafiz_Mustafa_1864",
+"https://mapstr.com/place/y8KTMWFX40g"
+]
+},
+{
+"id": "pandeli",
+"cat": "ye",
+"area": "tarihi",
+"title": "Dine at Pandeli above the Spice Bazaar",
+"desc": "Pandeli has operated since 1901 in rooms above the Egyptian Bazaar's entrance, decorated with blue Iznik-style tiles. It serves Ottoman and Turkish classics such as lamb and aubergine dishes.",
+"tip": "Open for lunch only. Order the fish or the 'hünkar beğendi'; reserve for weekends.",
+"q": "Pandeli, Mısır Çarşısı İçi 1, Eminönü, Fatih, İstanbul",
+"ll": [
+41.0168,
+28.9707
+],
+"src": [
+"https://guide.michelin.com/gb/en/istanbul-province/istanbul/restaurant/pandeli",
+"https://www.timeout.com/istanbul/tr/restoranlar/pandeli"
+]
+},
+{
+"id": "hamdi",
+"cat": "ye",
+"area": "tarihi",
+"title": "Eat Antep kebab with a view at Hamdi Restaurant",
+"desc": "Hamdi, opened in 1967, is a leading kebab restaurant in Eminönü serving Gaziantep-style cuisine. Its roof terrace looks over the Golden Horn and New Mosque.",
+"tip": "Order the pistachio kebab or the 'ali nazik'. Reserve a terrace table for sunset.",
+"q": "Hamdi Restaurant, Kalçın Sk 17, Tahmis Cd, Eminönü, Fatih, İstanbul",
+"ll": [
+41.0177,
+28.9699
+],
+"src": [
+"https://www.timeout.com/istanbul/restaurants/hamdi",
+"https://turkeytravelplanner.com/go/Istanbul/RestsCafesBars/eminonu/hamdi.html"
+]
+},
+{
+"id": "kurukahveci",
+"cat": "ye",
+"area": "tarihi",
+"title": "Buy coffee at Kurukahveci Mehmet Efendi",
+"desc": "Since 1871 this shop on Tahmis Street has been famous for its Turkish coffee, ground to order and sold in packets. Locals queue at the narrow storefront.",
+"tip": "Buy a packet with or without cardamom to take home. Tahmis Street is the coffee street beside the Spice Bazaar.",
+"q": "Kurukahveci Mehmet Efendi, Tahmis Sk 66, Tahtakale, Eminönü, Fatih, İstanbul",
+"ll": [
+41.017,
+28.9706
+],
+"src": [
+"https://www.timeout.com/istanbul/shopping/kurukahveci-mehmet-efendi"
+]
+},
+{
+"id": "selimusta",
+"cat": "ye",
+"area": "tarihi",
+"title": "Order köfte at Sultanahmet Köftecisi Selim Usta",
+"desc": "A small institution since 1920, Selim Usta serves one dish: grilled meatballs with piyaz bean salad. It is a fixture on Divan Yolu.",
+"tip": "Order a portion with piyaz and ayran. Cash is quick; lunch queues are common.",
+"q": "Tarihi Sultanahmet Köftecisi Selim Usta, Divanyolu Cd 12, Alemdar, Sultanahmet, Fatih, İstanbul",
+"ll": [
+41.0068,
+28.9772
+],
+"src": [
+"https://www.timeout.com/istanbul/tr/restoranlar/tarihi-sultanahmet-koeftecisi",
+"https://istanbuleats.com/?p=835"
+]
+},
+{
+"id": "balkanlokantasi",
+"cat": "ye",
+"area": "tarihi",
+"title": "Lunch at Balkan Lokantası in Sirkeci",
+"desc": "A traditional lokanta with trays of cooked dishes and old-school Turkish home cooking, popular with office workers. It sits behind Sirkeci Station.",
+"tip": "Choose from the counter: stews, stuffed vegetables and rice pilaf. Lunch is the busiest time.",
+"q": "Balkan Lokantası, Sirkeci, Fatih, İstanbul",
+"ll": [
+41.0148,
+28.977
+],
+"src": [
+"https://thatch.co/places/263919/balkan-lokantas-sirkeci--eminonu-ve-sirkecide-baska-subemiz-yoktur-taklitlerimizden-saknn-"
+]
+},
+{
+"id": "vefabozaci",
+"cat": "ye",
+"area": "tarihi",
+"title": "Drink boza at Vefa Bozacısı",
+"desc": "Founded in 1876, Vefa Bozacısı serves boza, a thick fermented millet drink, from a tiled shop near Vefa. Atatürk visited and a plaque remembers it.",
+"tip": "Boza is served October to April; add cinnamon and roasted chickpeas.",
+"q": "Vefa Bozacısı, Katip Çelebi Cd 104/1, Vefa, Fatih, İstanbul",
+"ll": [
+41.0163,
+28.9561
+],
+"src": [
+"https://istanbulfood.com/vefa-bozacisi-istanbul/",
+"https://istanbuleats.com/?p=601"
+]
+},
+{
+"id": "develisamatya",
+"cat": "ye",
+"area": "tarihi",
+"title": "Eat kebab and meze at Develi Samatya",
+"desc": "Develi opened in Samatya in 1912 and serves Gaziantep-style kebab, raw meatballs and salads near the Marmara coast. It has terrace seating.",
+"tip": "Try the 'ciğer' or 'patlıcanlı kebap' and the lahmacun. Samatya is reachable by Marmaray.",
+"q": "Develi Samatya, Gümüşyüzük Sk 5/A, Koca Mustafapaşa, Samatya, Fatih, İstanbul",
+"ll": [
+40.9988,
+28.9237
+],
+"src": [
+"https://www.timeout.com/istanbul/tr/restoranlar/develi",
+"https://tablejourney.com/turkey/istanbul/restaurants/develi-samatya/"
+]
+},
+{
+"id": "koragop",
+"cat": "ye",
+"area": "tarihi",
+"title": "Dine at Kör Agop, a Kumkapı meyhane",
+"desc": "Kumkapı is the Armenian fishing quarter and its streets are lined with meyhanes serving fresh fish, meze and rakı with live music. Kör Agop is among its long-established names.",
+"tip": "Agree the meze and fish prices before sitting. Come after 8 pm for music.",
+"q": "Kör Agop, Ördekli Bakkal Sk 7, Şehsuvar Bey, Kumkapı, Fatih, İstanbul",
+"ll": [
+41.0034,
+28.9676
+],
+"src": [
+"https://mesprestiges.com/en/istanbul/places/kor-agop",
+"https://www.timeout.com/istanbul/restaurants/koer-agop"
+]
+},
+{
+"id": "forno",
+"cat": "ye",
+"area": "tarihi",
+"title": "Eat pide and breakfast at Forno Balat",
+"desc": "Balat's old streets now hold many cafés in restored houses, serving Turkish breakfasts, coffee and cakes. Forno on Vodina Street is a popular bakery-café.",
+"tip": "Weekend brunch fills up; weekdays are calmer. Combine with a walk uphill to Fener.",
+"q": "Forno Balat, Vodina Cd, Fener Kireçhane Sk 13/A, Balat, Fatih, İstanbul",
+"ll": [
+41.0287,
+28.9472
+],
+"src": [
+"https://www.cornucopia.net/guide/listings/restaurants/forno"
+]
+},
+{
+"id": "pierrelotitea",
+"cat": "ye",
+"area": "tarihi",
+"title": "Drink tea at the Pierre Loti Café",
+"desc": "The hilltop café is named after the French writer Pierre Loti, who lived in Istanbul and loved this view of the Golden Horn. It is reached from Eyüp by cable car or on foot through the cemetery.",
+"tip": "Come before sunset; weekends are crowded. Tea and Turkish coffee come with the view.",
+"q": "Pierre Loti Kahvesi, Eyüp, İstanbul",
+"ll": [
+41.0546,
+28.9338
+],
+"src": [
+"https://en.wikipedia.org/wiki/Pierre_Loti_Hill"
+]
+},
+{
+"id": "hacibekir",
+"cat": "ye",
+"area": "tarihi",
+"title": "Pick up lokum at Hacı Bekir",
+"desc": "Hacı Bekir has made Turkish delight since 1777; its founder is credited with the modern lokum. The Eminönü branch sells rosewater, pistachio and double-roasted hazelnut varieties.",
+"tip": "Buy a boxed assortment for gifts. Staff will give small tastings.",
+"q": "Ali Muhiddin Hacı Bekir, Hamidiye Cd 31, Bahçekapı, Eminönü, Fatih, İstanbul",
+"ll": [
+41.0161,
+28.9713
+],
+"src": [
+"https://www.cornucopia.net/guide/listings/shopping/haci-bekir-bahcekapi/",
+"https://yummyistanbul.com/best-turkish-delight-in-istanbul/"
+]
+},
+{
+"id": "balikekmek",
+"cat": "ye",
+"area": "tarihi",
+"title": "Eat balık ekmek at the Eminönü quay",
+"desc": "Fish sandwiches of grilled mackerel on bread with onion and salad are sold on the Eminönü waterfront. They have been a quayside tradition since the 19th century.",
+"tip": "Add a glass of turşu juice. Eat on stools or on the quay; prices are low.",
+"q": "Eminönü Balık Ekmek, Eminönü Meydanı, Fatih, İstanbul",
+"ll": [
+41.0179,
+28.9733
+],
+"src": [
+"https://en.wikipedia.org/wiki/Bal%C4%B1k_ekmek"
+]
+},
+{
+"id": "konyali",
+"cat": "ye",
+"area": "tarihi",
+"title": "Eat in Konyalı inside Topkapı Palace",
+"desc": "Konyalı is a classic Turkish restaurant founded in 1897 and is located in the first courtyard of Topkapı Palace. Its terrace overlooks the Bosphorus and Marmara.",
+"tip": "Ottoman dishes and a good lunch pause after the palace. Book a terrace table.",
+"q": "Konyalı Restaurant, Micidiye Köşkü, Topkapı Sarayı, Cankurtaran, Fatih, İstanbul",
+"ll": [
+41.01215,
+28.9819
+],
+"src": [
+"https://cornucopia.net/guide/listings/restaurants/konyali-at-the-topkapi",
+"https://www.timeout.com/istanbul/restaurants/konyali"
+]
+},
+{
+"id": "hocapasapide",
+"cat": "ye",
+"area": "tarihi",
+"title": "Eat pide at Hocapaşa Pidecisi",
+"desc": "A pide restaurant in the Hocapaşa restaurant quarter behind Sirkeci Station, serving oven-baked Turkish flatbreads with meat and cheese toppings.",
+"tip": "Order a kaşarlı or kıymalı pide; lunch is busiest. Close to Sirkeci tram stop.",
+"q": "Hocapaşa Pidecisi, Hocapaşa Sk, Sirkeci, Fatih, İstanbul",
+"ll": [
+41.0149,
+28.9764
+],
+"src": [
+"https://thatch.co/places/77009/hocapasa-pidecisi"
+]
+},
+{
+"id": "sarkkahvesi",
+"cat": "ye",
+"area": "tarihi",
+"title": "Take tea at the Şark Kahvesi in the Grand Bazaar",
+"desc": "A traditional coffeehouse inside the Grand Bazaar with high ceilings, brass fittings and old tiles. It serves tea, Turkish coffee and salep to merchants and visitors.",
+"tip": "Ideal for a break from bargaining. Order salep in winter.",
+"q": "Şark Kahvesi, Yağlıkçılar Cd 134, Kapalıçarşı, Beyazıt, Fatih, İstanbul",
+"ll": [
+41.0107,
+28.9683
+],
+"src": [
+"https://cornucopia.net/guide/listings/restaurants/sark-kahvesi",
+"https://thatch.co/places/177826/sark-kahvesi"
+]
+},
+{
+"id": "suleymaniyefasulye",
+"cat": "ye",
+"area": "tarihi",
+"title": "Eat kuru fasulye at Erzincanlı Ali Baba",
+"desc": "Opposite the Süleymaniye Mosque entrance, this lokanta has served white bean stew with rice and pickles since 1924. It is a long-standing local lunch address.",
+"tip": "Go at lunch; the menu is beans, pilaf and pickles. Combine with a visit to Süleymaniye.",
+"q": "Tarihi Süleymaniye Kuru Fasulyecisi Erzincanlı Ali Baba, Prof. Sıddık Sami Onar Cd 11, Süleymaniye, Fatih, İstanbul",
+"ll": [
+41.0165,
+28.9625
+],
+"src": [
+"https://istanbuleats.com/?p=2309",
+"https://hurriyet.com.tr/gundem/an-affordable-anatolian-meal-in-historic-suleymaniye-11805863"
+]
+},
+{
+"id": "doydoy",
+"cat": "ye",
+"area": "tarihi",
+"title": "Dine on a roof terrace at Doy-Doy",
+"desc": "Doy-Doy is a long-running Sultanahmet restaurant serving south-eastern Turkish dishes such as kebabs and lahmacun. Its roof terrace looks toward Little Hagia Sophia and the Marmara.",
+"tip": "Terrace tables fill at sunset. Prices are moderate by Sultanahmet standards.",
+"q": "Doy-Doy, Şifa Hamamı Sk, Sultanahmet, Fatih, İstanbul",
+"ll": [
+41.005,
+28.9755
+],
+"src": [
+"https://www.tripexpert.com/istanbul/restaurants/doy-doy-restaurant",
+"https://wanderlog.com/place/details/2286310"
+]
+},
+{
+"id": "matbah",
+"cat": "ye",
+"area": "tarihi",
+"title": "Taste Ottoman palace cuisine at Matbah",
+"desc": "Matbah serves dishes reconstructed from Ottoman palace kitchen records, in a restored building on Ticarethane Street near the Hippodrome. It is listed in the Michelin Guide Istanbul.",
+"tip": "Book for dinner; prices are above average.",
+"q": "Matbah Ottoman Cuisine, Ticarethane Sk 15, Sultanahmet, Fatih, İstanbul",
+"ll": [
+41.00875,
+28.97585
+],
+"src": [
+"https://guide.michelin.com/kr/en/istanbul-province/istanbul/restaurant/matbah"
+]
+},
+{
+"id": "deraliye",
+"cat": "ye",
+"area": "tarihi",
+"title": "Taste Ottoman palace recipes at Deraliye",
+"desc": "Deraliye restaurant serves dishes from imperial Ottoman kitchens in a historic building near the Hippodrome. Menus include lamb, stuffed vegetables and fruit desserts.",
+"tip": "Reserve for dinner. Prices are above average.",
+"q": "Deraliye Restaurant, Ticarethane Sk, Sultanahmet, Fatih, İstanbul",
+"ll": [
+41.0056,
+28.9769
+],
+"src": [
+"https://www.deraliye.com.tr"
+]
+},
+{
+"id": "caglaoglu",
+"cat": "dene",
+"area": "tarihi",
+"title": "Steam in the Cağaloğlu Hamamı",
+"desc": "Cağaloğlu Hamamı opened in 1741 and is one of Istanbul's last working Ottoman baths. It has marble halls with a heated central platform and has hosted famous guests including Kaiser Wilhelm II.",
+"tip": "Separate sections for men and women; allow two hours. Reserve in high season.",
+"q": "Cağaloğlu Hamamı, Prof. Kazım İsmail Gürkan Cd, Cağaloğlu, Fatih, İstanbul",
+"ll": [
+41.00998,
+28.9771
+],
+"src": [
+"https://www.cagalogluhamami.com.tr"
+],
+"tags": [
+"rainy day"
+]
+},
+{
+"id": "cemberlitashamami",
+"cat": "dene",
+"area": "tarihi",
+"title": "Bathe at Çemberlitaş Hamamı",
+"desc": "Designed by Sinan in 1584 for the Valide Sultan, this bath has operated continuously since. It features a domed central hall with a heated marble platform.",
+"tip": "Book a scrub and foam massage; separate men's and women's sections.",
+"q": "Çemberlitaş Hamamı, Vezirhan Cd, Çemberlitaş, Fatih, İstanbul",
+"ll": [
+41.0089,
+28.9715
+],
+"src": [
+"https://www.cemberlitashamami.com.tr"
+],
+"tags": [
+"rainy day"
+]
+},
+{
+"id": "suleymaniyehamami",
+"cat": "dene",
+"area": "tarihi",
+"title": "Try the Süleymaniye Hamamı",
+"desc": "Built by Sinan as part of the Süleymaniye complex in the 1550s, this bath was restored and reopened. Its dome is lit by tiny glass skylights.",
+"tip": "Mixed-style slots have changed; check booking details in advance.",
+"q": "Süleymaniye Hamamı, Mimar Sinan Cd, Süleymaniye, Fatih, İstanbul",
+"ll": [
+41.0163,
+28.9642
+],
+"src": [
+"https://www.suleymaniyehamami.com"
+],
+"tags": [
+"rainy day"
+]
+},
+{
+"id": "hurremhamami",
+"cat": "dene",
+"area": "tarihi",
+"title": "Bathe at Hürrem Sultan Hamamı",
+"desc": "Sinan built this bath for Hürrem Sultan between Hagia Sophia and the Blue Mosque in the 1550s. It was restored and reopened in 2011 after serving as a carpet shop.",
+"tip": "Pre-book online; it is expensive but well maintained.",
+"q": "Ayasofya Hürrem Sultan Hamamı, Cankurtaran, Fatih, İstanbul",
+"ll": [
+41.0058,
+28.9799
+],
+"src": [
+"https://www.ayasofyahamami.com"
+],
+"tags": [
+"rainy day"
+]
+},
+{
+"id": "grandbazaar",
+"cat": "dene",
+"area": "tarihi",
+"title": "Get lost in the Grand Bazaar",
+"desc": "The Kapalıçarşı dates from 1461 and has about 4,000 shops under vaulted roofs along 61 streets. It sells carpets, ceramics, jewellery and leather.",
+"tip": "Closed on Sundays and holidays. Bargain politely; start at the Nuruosmaniye gate.",
+"q": "Kapalıçarşı, Beyazıt, Fatih, İstanbul",
+"ll": [
+41.0107,
+28.9681
+],
+"src": [
+"https://en.wikipedia.org/wiki/Grand_Bazaar,_Istanbul"
+],
+"tags": [
+"rainy day"
+]
+},
+{
+"id": "spicebazaar",
+"cat": "dene",
+"area": "tarihi",
+"title": "Browse the Spice Bazaar",
+"desc": "The Egyptian Bazaar, finished in 1664, sells spices, dried fruit, lokum, tea and cheese in an L-shaped hall. It stands beside New Mosque.",
+"tip": "Compare prices between stalls; sample lokum before buying. Closed on Sundays only in some shops.",
+"q": "Mısır Çarşısı, Eminönü, Fatih, İstanbul",
+"ll": [
+41.0164,
+28.9704
+],
+"src": [
+"https://en.wikipedia.org/wiki/Spice_Bazaar,_Istanbul"
+],
+"tags": [
+"rainy day"
+]
+},
+{
+"id": "arasta",
+"cat": "dene",
+"area": "tarihi",
+"title": "Shop for crafts in the Arasta Bazaar",
+"desc": "Arasta Bazaar is a 17th-century row of shops built to fund the Blue Mosque. Today it sells ceramics, textiles and Ottoman-style crafts in a calmer setting than the Grand Bazaar.",
+"tip": "Less pushy than other bazaars; prices are fixed in many shops. Entrance near the Mosaic Museum.",
+"q": "Arasta Çarşısı, Torun Sk, Sultanahmet, Fatih, İstanbul",
+"ll": [
+41.0046,
+28.9792
+],
+"src": [
+"https://en.wikipedia.org/wiki/Arasta_Bazaar"
+]
+},
+{
+"id": "sahaflar",
+"cat": "dene",
+"area": "tarihi",
+"title": "Browse the Sahaflar Book Bazaar",
+"desc": "The Sahaflar Çarşısı has been a market for secondhand books since Byzantine times, in a courtyard beside the Beyazıt Mosque. It sells antiquarian books, maps and prints.",
+"tip": "Open daily, quieter on Sundays. A nice stop after the Grand Bazaar.",
+"q": "Sahaflar Çarşısı, Beyazıt, Fatih, İstanbul",
+"ll": [
+41.0108,
+28.9656
+],
+"src": [
+"https://en.wikipedia.org/wiki/Sahaflar_Bazaar"
+],
+"tags": [
+"free"
+]
+},
+{
+"id": "gedikpasahamami",
+"cat": "dene",
+"area": "tarihi",
+"title": "Bathe in the 1475 Gedikpaşa Hamamı",
+"desc": "Gedikpaşa Hamamı was founded in 1475 and is one of the oldest working double hammams in the city, with separate sections for men and women. It is a short walk from the Grand Bazaar.",
+"tip": "Book a kese and foam massage; opening hours are around 9 am to 10:30 pm.",
+"q": "Tarihi Gedikpaşa Hamamı, Hamam Cd 61, Gedikpaşa, Fatih, İstanbul",
+"ll": [
+41.0076,
+28.9672
+],
+"src": [
+"https://www.timeout.com/istanbul/health-and-beauty/tarihi-gedikpasa-hamami"
+],
+"tags": [
+"rainy day"
+]
+},
+{
+"id": "ferryeyup",
+"cat": "dene",
+"area": "tarihi",
+"title": "Ride the Golden Horn ferry to Eyüp",
+"desc": "Golden Horn ferries run from Eminönü to Eyüp, stopping at Fener, Balat and Hasköy. The trip shows the old walled city's skyline from the water.",
+"tip": "Boats leave from the small Eminönü Haliç İskelesi beyond the other quay boats; check the current Şehir Hatları timetable, as service is infrequent.",
+"q": "Eminönü Haliç İskelesi, Eminönü, Fatih, İstanbul",
+"ll": [
+41.0179,
+28.9728
+],
+"src": [
+"https://turkeytravelplanner.com/go/Istanbul/Sights/GoldenHorn/halic_cruise.html"
+]
+},
+{
+"id": "eyupcablecar",
+"cat": "dene",
+"area": "tarihi",
+"title": "Ride the Eyüp cable car to Pierre Loti",
+"desc": "The Eyüp-Piyer Loti cable car climbs the hillside from near the mosque to the lookout in about 5 minutes. It replaces a steep walk through the cemetery.",
+"tip": "Use Istanbulkart. Queues grow at weekends and sunset.",
+"q": "Eyüp-Piyer Loti Teleferik, Hüsam Efendi Sk 7, Eyüpsultan, İstanbul",
+"ll": [
+41.0479,
+28.9329
+],
+"src": [
+"https://en.wikipedia.org/wiki/Ey%C3%BCp_Gondola"
+]
+},
+{
+"id": "wallswalk",
+"cat": "dene",
+"area": "tarihi",
+"title": "Walk the Theodosian Walls",
+"desc": "The Theodosian Walls of 413 are 5.7 km long and protected Constantinople from Attila and the Ottomans until 1453. Walking between Silivrikapı and Edirnekapı passes towers, gates and local vegetable gardens.",
+"tip": "Walk in daylight, in a group if possible. Stick to the stretch from Mevlevihane Gate to Topkapı.",
+"q": "Mevlevihane Kapısı, Topkapı, Fatih, İstanbul",
+"ll": [
+41.002,
+28.9195
+],
+"src": [
+"https://en.wikipedia.org/wiki/Walls_of_Constantinople"
+],
+"tags": [
+"free"
+]
+},
+{
+"id": "goldenhornwalk",
+"cat": "dene",
+"area": "tarihi",
+"title": "Stroll the Golden Horn shore at Fener and Balat",
+"desc": "The waterfront park path between Fener and Ayvansaray runs along the old Greek and Jewish quarters. You pass historic churches, a ferry pier and fishermen.",
+"tip": "Free; best on a sunny afternoon. Bring water.",
+"q": "Haliç Sahil, Balat, Fatih, İstanbul",
+"ll": [
+41.0322,
+28.9482
+],
+"src": [
+"https://en.wikipedia.org/wiki/Golden_Horn"
+],
+"tags": [
+"free"
+]
+},
+{
+"id": "kmpasahamami",
+"cat": "dene",
+"area": "tarihi",
+"title": "Visit the art space in Küçük Mustafa Paşa Hamamı",
+"desc": "A 15th-century bathhouse in Cibali on the Golden Horn, unused as a bath since the 1990s and now an arts venue that hosts Istanbul Biennial shows.",
+"tip": "Open only during exhibitions; check kucukmustafapasahamami.com before going.",
+"q": "Küçük Mustafa Paşa Hamamı, Müstantik Cd, Küçükmustafapaşa, Fatih, İstanbul",
+"ll": [
+41.0227,
+28.9578
+],
+"src": [
+"https://kucukmustafapasahamami.com/en/yapihakkinda.html",
+"https://bienal.iksv.org/en/17th-istanbul-biennial-places/kucuk-mustafa-pasa-hammam"
+],
+"tags": [
+"rainy day"
+]
+},
+{
+"id": "hodjapasha",
+"cat": "dene",
+"area": "tarihi",
+"title": "Watch a whirling dervish show at Hodjapasha",
+"desc": "Hodjapasha is a restored 15th-century hammam near Sirkeci used as a cultural centre. It hosts nightly Sufi Sema ceremonies and dance shows.",
+"tip": "Book ahead; ceremony runs about an hour. This is a performance rather than a religious service.",
+"q": "Hodjapasha Cultural Center, Hocapaşa Hamamı Sk 3/B, Sirkeci, Fatih, İstanbul",
+"ll": [
+41.0148,
+28.9765
+],
+"src": [
+"https://turkeytravelplanner.com/?p=6938",
+"https://theabroadguide.com/istanbul-hodjapasha-whirling-dervishes-show-exhibition-2/"
+],
+"tags": [
+"rainy day"
+]
+},
+{
+"id": "cookingalaturka",
+"cat": "dene",
+"area": "tarihi",
+"title": "Take a Turkish cooking class in Sultanahmet",
+"desc": "Cooking Alaturka runs hands-on classes in Sultanahmet where you cook and eat a Turkish menu. Classes cover meze, dolma and desserts.",
+"tip": "Book in advance; morning classes include a market visit on request.",
+"q": "Cooking Alaturka, Akbıyık Cd 72A, Cankurtaran, Sultanahmet, Fatih, İstanbul",
+"ll": [
+41.0051,
+28.9806
+],
+"src": [
+"https://turkeytravelplanner.com/special/cuisine/alaturka.html",
+"https://tablejourney.com/turkey/istanbul/cooking-classes/"
+],
+"tags": [
+"rainy day"
+]
+},
+{
+"id": "ebru",
+"cat": "dene",
+"area": "tarihi",
+"title": "Learn ebru marbling at Les Arts Turcs",
+"desc": "Les Arts Turcs runs two-hour ebru (paper marbling) classes in a studio behind the Basilica Cistern in Sultanahmet. Students make their own pieces on water-and-pigment trays.",
+"tip": "Classes run by appointment, usually afternoons; book ahead.",
+"q": "Les Arts Turcs, Sultanahmet, Fatih, İstanbul",
+"ll": [
+41.008,
+28.9781
+],
+"src": [
+"https://www.lesartsturcs.com/?p=62",
+"https://istanbul.for91days.com/?p=811"
+],
+"tags": [
+"rainy day"
+]
+},
+{
+"id": "zeyrekcinili",
+"cat": "dene",
+"area": "tarihi",
+"title": "Bathe at Zeyrek Çinili Hamam",
+"desc": "A Sinan-designed bath of the 1530s beside the Zeyrek Mosque, reopened in 2023 after a 13-year restoration. It now offers traditional bathing and exhibitions.",
+"tip": "Closed on Mondays; book ahead via the official site.",
+"q": "Zeyrek Çinili Hamam, İtfaiye Cd 44, Zeyrek, Fatih, İstanbul",
+"ll": [
+41.01995,
+28.9563
+],
+"src": [
+"https://www.zeyrekcinilihamam.com/en/visit-us",
+"https://en.wikipedia.org/wiki/Zeyrek_%C3%87inili_Hamam"
+],
+"tags": [
+"rainy day"
+]
+},
+{
+"id": "feshane",
+"cat": "dene",
+"area": "tarihi",
+"title": "See an exhibition at ArtİstanbulFeshane",
+"desc": "The 19th-century Feshane, once the Ottoman fez factory, on the Golden Horn in Eyüp is now an exhibition and culture centre run by the city. Large shows of Istanbul art collections are free to enter.",
+"tip": "Open daily except Monday, 10:00-20:00, free. A short walk from Eyüp ferry pier.",
+"q": "ArtİstanbulFeshane, Defterdar Cd, Eyüpsultan, İstanbul",
+"ll": [
+41.0434,
+28.932
+],
+"src": [
+"https://www.timeout.com/istanbul/art/artistanbul-feshane",
+"https://visit.istanbul/artistanbul-feshane"
+],
+"tags": [
+"free",
+"rainy day"
+]
+},
+{
+"id": "suleymaniyeterrace",
+"cat": "dene",
+"area": "tarihi",
+"title": "Have tea on the Süleymaniye terrace",
+"desc": "Tea houses on the terrace behind Süleymaniye Mosque look over the Golden Horn. The area is known for its view of the Galata Tower and Bosphorus Bridge.",
+"tip": "Come before sunset. Tea is cheap and calm.",
+"q": "Süleymaniye Çay Bahçesi, Prof. Sıddık Sami Onar Cd, Süleymaniye, Fatih, İstanbul",
+"ll": [
+41.0171,
+28.9638
+],
+"src": [
+"https://en.wikipedia.org/wiki/S%C3%BCleymaniye_Mosque"
+]
+}
+]
+}

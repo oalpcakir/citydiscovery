@@ -1,0 +1,1178 @@
+{
+ "new": [
+  {
+   "id": "ankarakalesi",
+   "cat": "gor",
+   "area": "ulus",
+   "title": "Walk through the gate of Ankara Castle",
+   "desc": "Ankara Castle (Hisar) crowns the old town on a hill above Ulus. The inner citadel and outer walls were built in Byzantine times on older foundations and extended by the Seljuks and Ottomans, and they reuse Roman and Phrygian stone blocks. Inside, narrow lanes hold restored mansions, craft shops and cafés.",
+   "tip": "Enter through the Parmak Kapı gate; late afternoon gives the best light over the city. Walking the lanes is free.",
+   "q": "Ankara Kalesi, Kale Kapısı Sokak, Altındağ, Ankara",
+   "ll": [
+    39.94083,
+    32.86417
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ankara_Castle",
+    "https://turkeyfromtheinside.com/?p=2905"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "akkale",
+   "cat": "gor",
+   "area": "ulus",
+   "title": "Climb Akkale for the view over Ankara",
+   "desc": "Akkale, the White Fortress, is the inner citadel at the top of Ankara Castle, with towers restored in recent years. It is the best vantage point over the old city and Atatürk Boulevard.",
+   "tip": "Sunset is the busiest and prettiest time. Access to the upper terraces can be limited in bad weather.",
+   "q": "Akkale, Ankara Kalesi İç Kale, Altındağ, Ankara",
+   "ll": [
+    39.94135,
+    32.86438
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ankara_Castle"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "parmakkapi",
+   "cat": "gor",
+   "area": "ulus",
+   "title": "Photograph the Parmak Kapı gate and its reused stones",
+   "desc": "Parmak Kapı is the main entrance of the Ankara Castle walls, flanked by towers. The walls contain visible Roman columns, inscriptions and marble blocks reused when the Byzantines rebuilt them in the 7th and 9th centuries.",
+   "tip": "Look for the reused marble and Latin inscriptions in the lower courses; the gate is a short climb from Hisarparkı Caddesi.",
+   "q": "Parmak Kapı, Ankara Kalesi, Hisarparkı Caddesi, Altındağ, Ankara",
+   "ll": [
+    39.94028,
+    32.86442
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ankara_Castle"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "anadolumedeniyetleri",
+   "cat": "gor",
+   "area": "ulus",
+   "title": "Trace 10,000 years at the Museum of Anatolian Civilizations",
+   "desc": "Housed in a restored 15th-century Ottoman bedesten and han below the castle, this museum is often ranked among the best archaeological museums in the world. Its collections run from Paleolithic and Çatalhöyük finds through Hittite, Phrygian and Urartian rooms to Roman material, and it won the European Museum of the Year award in 1997.",
+   "tip": "Allow two to three hours; the Hittite and Çatalhöyük rooms are the highlights. Check opening days and ticket price before going.",
+   "q": "Anadolu Medeniyetleri Müzesi, Gözcü Sokak, Altındağ, Ankara",
+   "ll": [
+    39.93676,
+    32.86268
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Museum_of_Anatolian_Civilizations",
+    "https://turkishmuseums.kprod.kultur.gov.tr/museum/detail/1940-ankara-anatolian-civilizations-museum/1940/4"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hacibayram",
+   "cat": "gor",
+   "area": "ulus",
+   "title": "Visit the Hacı Bayram Mosque beside the Temple of Augustus",
+   "desc": "Built in 1427-28 and named for the Sufi Hacı Bayram-ı Veli, founder of the Bayrami order, this is Ankara's most visited mosque. It was restored and extended in the 16th and 18th centuries, and the tomb complex is attached.",
+   "tip": "Dress modestly and avoid prayer times. The square outside has tea gardens and simit sellers.",
+   "q": "Hacı Bayram Camii, Hacı Bayram Mahallesi, Altındağ, Ankara",
+   "ll": [
+    39.93737,
+    32.86193
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Haji_Bayram_Mosque",
+    "https://wanderlog.com/place/details/234633/haci-bayram-mosque"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "augustus",
+   "cat": "gor",
+   "area": "ulus",
+   "title": "See the Temple of Augustus and the Res Gestae inscription",
+   "desc": "Built in the 2nd century BC for Cybele and later dedicated to Augustus, this temple's walls carry the Latin and Greek text of the emperor's Res Gestae Divi Augusti, the Monumentum Ancyranum, the best-preserved copy of that testament.",
+   "tip": "The ruin stands next to the mosque and can be viewed from the street for free. Read the inscription on the outer wall.",
+   "q": "Augustus Tapınağı, Hacı Bayram Mahallesi, Altındağ, Ankara",
+   "ll": [
+    39.9372,
+    32.86182
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Temple_of_Augustus_and_Rome,_Ankara"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "romanbaths",
+   "cat": "gor",
+   "area": "ulus",
+   "title": "Wander the ruins of the Roman Baths of Ankara",
+   "desc": "These 3rd-century AD baths, dedicated to Asclepius, are among the best-known Roman remains in the city. Visitors can follow the layout of the apodyterium, frigidarium, tepidarium and caldarium and see the hypocaust columns, in an open-air museum.",
+   "tip": "Look at the hypocaust brick pillars. Allow about an hour and check the entry fee.",
+   "q": "Roma Hamamı, Çankırı Caddesi, Ulus, Altındağ, Ankara",
+   "ll": [
+    39.94293,
+    32.8571
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Roman_Baths_of_Ankara",
+    "https://www.dailysabah.com/life/travel/roman-baths-china-shops-and-more-a-half-day-walking-tour-of-ankaras-historic-ulus-quarter/amp"
+   ]
+  },
+  {
+   "id": "julian",
+   "cat": "gor",
+   "area": "ulus",
+   "title": "Spot the stork nests on the Column of Julian",
+   "desc": "Standing in Hükümet Square, this 15-metre Roman column was erected around AD 362 to commemorate a visit by Emperor Julian. Its capital is usually crowned with a stork nest.",
+   "tip": "Best seen in spring when storks are nesting; the square is free and sits beside the Ulus government buildings.",
+   "q": "Jülyanus Sütunu, Hükümet Meydanı, Ulus, Altındağ, Ankara",
+   "ll": [
+    39.94205,
+    32.85555
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Column_of_Julian",
+    "https://www.dailysabah.com/life/travel/roman-baths-china-shops-and-more-a-half-day-walking-tour-of-ankaras-historic-ulus-quarter/amp"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ulussquare",
+   "cat": "gor",
+   "area": "ulus",
+   "title": "Stand in Ulus Square beneath the Victory Monument",
+   "desc": "Ulus Square was the first heart of the Republic, laid out in the 1920s around the equestrian Victory Monument of Atatürk by Heinrich Krippel (1927). Early bank, ministry and assembly buildings stand around it.",
+   "tip": "Walk the square at dusk when the monument is lit; the First Assembly building is a block away.",
+   "q": "Ulus Meydanı Zafer Anıtı, Ulus, Altındağ, Ankara",
+   "ll": [
+    39.9419,
+    32.85428
+   ],
+   "src": [
+    "https://tr.wikipedia.org/wiki/Ulus,_Ankara",
+    "https://www.dailysabah.com/life/travel/roman-baths-china-shops-and-more-a-half-day-walking-tour-of-ankaras-historic-ulus-quarter/amp"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "birincimeclis",
+   "cat": "gor",
+   "area": "ulus",
+   "title": "Step into the First Grand National Assembly building",
+   "desc": "This modest former party club hosted the Grand National Assembly from 23 April 1920, when the Turkish War of Independence was directed from Ankara. It is now the War of Independence Museum, with original benches and period rooms.",
+   "tip": "Check the ticket status and hours. Combine with the Republic Museum nearby.",
+   "q": "Kurtuluş Savaşı Müzesi, Ulus Meydanı, Altındağ, Ankara",
+   "ll": [
+    39.94162,
+    32.85453
+   ],
+   "src": [
+    "https://tr.wikipedia.org/wiki/Birinci_TBMM_Binası"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ikincimeclis",
+   "cat": "gor",
+   "area": "ulus",
+   "title": "See the Second Assembly building, now the Republic Museum",
+   "desc": "Built in 1923-24, this building housed the Parliament from 1924 to 1960 and saw the early Republican reforms. The Republic Museum displays the assembly hall, offices and documents of the era.",
+   "tip": "Allow an hour; interiors keep the original assembly layout and portraits.",
+   "q": "Cumhuriyet Müzesi, Cumhuriyet Caddesi, Ulus, Altındağ, Ankara",
+   "ll": [
+    39.94087,
+    32.8538
+   ],
+   "src": [
+    "https://tr.wikipedia.org/wiki/II._TBMM_Binası"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ethnography",
+   "cat": "gor",
+   "area": "ulus",
+   "title": "Admire Ottoman and Turkish crafts at the Ethnography Museum",
+   "desc": "Designed by Arif Hikmet Koyunoğlu and finished in 1927 on the hill of Namazgah, this marble building held Atatürk's remains from 1938 until 1953. Collections include Ottoman calligraphy, carpets, costume, wood and metalwork.",
+   "tip": "Look for the room where Atatürk's body lay; the museum faces the Opera House.",
+   "q": "Etnografya Müzesi, Talat Paşa Bulvarı, Namazgah, Altındağ, Ankara",
+   "ll": [
+    39.9361,
+    32.85582
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ethnography_Museum_of_Ankara"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "paintingsculpture",
+   "cat": "gor",
+   "area": "ulus",
+   "title": "Follow Turkish art at the Painting and Sculpture Museum",
+   "desc": "Opened in 1980 in a Republican-era building near the Opera, this museum holds the national collection of Turkish painting and sculpture from the late Ottoman period to the present.",
+   "tip": "Entry is inexpensive and the visit takes about an hour; special exhibitions rotate.",
+   "q": "Resim ve Heykel Müzesi, Opera Meydanı, Altındağ, Ankara",
+   "ll": [
+    39.93642,
+    32.85548
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Painting_and_Sculpture_Museum_of_Ankara"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rahmikoc",
+   "cat": "gor",
+   "area": "ulus",
+   "title": "Explore the Rahmi M. Koç Museum in the Çengelhan",
+   "desc": "Ankara's branch of the transport, industry and communications museum occupies the restored 1523 Çengelhan, an Ottoman han in Samanpazarı. Exhibits include vehicles, scientific instruments and Atatürk-related items.",
+   "tip": "A good rainy-day stop that suits children. Check ticket price and closing day.",
+   "q": "Rahmi M. Koç Müzesi Ankara, Depo Sokak, Çengelhan, Samanpazarı, Altındağ, Ankara",
+   "ll": [
+    39.93908,
+    32.86157
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Rahmi_M._Ko%C3%A7_Museum",
+    "https://www.rmk-museum.org.tr/ankara"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "erimtan",
+   "cat": "gor",
+   "area": "ulus",
+   "title": "Browse the Erimtan Archaeology and Arts Museum",
+   "desc": "Opened in the 1990s by businessman Yüksel Erimtan, this private museum near Atpazarı Square shows Anatolian archaeological finds from the Bronze Age to the Roman era, as well as art.",
+   "tip": "Small and quiet; pair it with the Anatolian Civilizations Museum a minute away.",
+   "q": "Erimtan Arkeoloji ve Sanat Müzesi, Gözcü Sokak, Altındağ, Ankara",
+   "ll": [
+    39.93756,
+    32.86268
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Erimtan_Archaeology_and_Arts_Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "gencliparki",
+   "cat": "gor",
+   "area": "ulus",
+   "title": "Stroll Gençlik Parkı, the Republic's showcase park",
+   "desc": "Created in 1943 on marshy ground at the heart of the city, Gençlik Parkı was an early Republic planning project, with an artificial lake, gardens, a theatre and an amusement park, between Ulus and Sıhhiye.",
+   "tip": "Free to enter; walk the lake loop. Evenings are busy with families.",
+   "q": "Gençlik Parkı, Anafartalar Mahallesi, Altındağ, Ankara",
+   "ll": [
+    39.9378,
+    32.8499
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Gen%C3%A7lik_Park%C4%B1",
+    "https://www.tradefairdates.com/Sights-Ankara-city22.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ankaragari",
+   "cat": "gor",
+   "area": "ulus",
+   "title": "Admire the 1937 Ankara railway station",
+   "desc": "Designed by Şekip Akalın, the Ankara Gar replaced earlier railway buildings and is a landmark of Republican modernist architecture, with a clock tower and a large ticket hall. It was the main gateway to the new capital.",
+   "tip": "Walk through the arrival hall; the station is served by the Ankaray and long-distance trains.",
+   "q": "Ankara Garı, Celal Bayar Bulvarı, Altındağ, Ankara",
+   "ll": [
+    39.93398,
+    32.83646
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ankara_railway_station"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "railwaymuseum",
+   "cat": "gor",
+   "area": "ulus",
+   "title": "Visit Atatürk's residence and the Railway Museum",
+   "desc": "Built in 1892 as the administration building of the railway, this house served as Atatürk's residence in 1919-20 and now holds the Railway Museum. Historic locomotives and carriages stand outdoors.",
+   "tip": "Combine with the station; ticket price is low. Check the closing day.",
+   "q": "Atatürk Konutu ve Demiryolları Müzesi, Ankara Garı, Altındağ, Ankara",
+   "ll": [
+    39.9344,
+    32.83592
+   ],
+   "src": [
+    "https://ataturkansiklopedisi.gov.tr/bilgi/milli-mucadele-yillarinda-ataturk-konutu-ve-demiryollari-muzesi/?pdf=3473"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "suluhan",
+   "cat": "gor",
+   "area": "ulus",
+   "title": "See the 16th-century Suluhan caravanserai",
+   "desc": "Suluhan, also known as Hasanpaşa Han, is an Ottoman han in the Ulus bazaar quarter converted into a market of small shops. Its courtyard plan shows how merchants lodged and traded below Ankara Castle.",
+   "tip": "Open during shop hours; the courtyard is quiet in the morning.",
+   "q": "Suluhan Çarşısı, Hacı Bayram Mahallesi, Altındağ, Ankara",
+   "ll": [
+    39.94018,
+    32.86398
+   ],
+   "src": [
+    "https://www.barcelo.com/guia-turismo/en/turkey/ankara/things-to-do/markets-and-bazaars-in-ankara/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "alaeddin",
+   "cat": "gor",
+   "area": "ulus",
+   "title": "Visit the Alâeddin Mosque inside the castle",
+   "desc": "Founded in the Seljuk period by Sultan Alâeddin Keykubad around 1178 and rebuilt over time, this is among Ankara's oldest mosques, with a carved walnut pulpit and Roman reused columns.",
+   "tip": "Respect prayer times and dress modestly.",
+   "q": "Alâeddin Camii, Kale Kapısı Sokak, Altındağ, Ankara",
+   "ll": [
+    39.94003,
+    32.8638
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Alaeddin_Mosque,_Ankara"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ahielvan",
+   "cat": "gor",
+   "area": "ulus",
+   "title": "See the Ahi Elvan Mosque, a 14th-century timber-pillar mosque",
+   "desc": "Built in 1382 by the Ahi brotherhood and renovated several times, the Ahi Elvan Mosque is a rare example of the Beylik-era Anatolian timber-pillar mosque, with a carved wooden ceiling.",
+   "tip": "Small and often locked outside prayer times; ask the caretaker.",
+   "q": "Ahi Elvan Camii, Ulus, Altındağ, Ankara",
+   "ll": [
+    39.94118,
+    32.86268
+   ],
+   "src": [
+    "https://tr.wikipedia.org/wiki/Ahi_Elvan_Camii"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "arslanhane",
+   "cat": "gor",
+   "area": "ulus",
+   "title": "Look inside the Arslanhane Mosque",
+   "desc": "Arslanhane Mosque (13th century) sits beside the castle and is celebrated for its wooden columns with Roman capitals and Seljuk-period tile decoration.",
+   "tip": "Visit outside prayer times and cover shoulders and legs.",
+   "q": "Arslanhane Camii, Can Sokak, Altındağ, Ankara",
+   "ll": [
+    39.94087,
+    32.86353
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Arslanhane_Mosque"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "romantheatre",
+   "cat": "gor",
+   "area": "ulus",
+   "title": "Peer at the Roman Theatre beneath the castle",
+   "desc": "Excavated from 1982, this 1st-2nd century AD theatre lies beside the castle walls in Hisarpark. About half of the cavea survives, showing the layout of Roman Ancyra.",
+   "tip": "The site is fenced; view it from Hisarparkı Caddesi at no cost.",
+   "q": "Roma Tiyatrosu, Hisarpark Caddesi, Altındağ, Ankara",
+   "ll": [
+    39.94162,
+    32.86219
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Roman_Theatre_of_Ankara"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hallacmahmud",
+   "cat": "gor",
+   "area": "ulus",
+   "title": "Pause in the Hallaç Mahmud Mosque",
+   "desc": "An Ottoman mosque in the heart of Ulus set in a courtyard that offers a quiet pause from the traffic, with classical stonework and a porch.",
+   "tip": "A quick detour near the Roman Baths; open outside prayer times.",
+   "q": "Hallaç Mahmud Camii, Ulus, Altındağ, Ankara",
+   "ll": [
+    39.94046,
+    32.85795
+   ],
+   "src": [
+    "https://www.yeniankara.com.tr/altindag/ankara-ulusta-manevi-bir-vaha-hallaci-mahmud-camii-164833"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "karacabeycami",
+   "cat": "gor",
+   "area": "ulus",
+   "title": "Visit the Karacabey Mosque in Hamamönü",
+   "desc": "The Karacabey complex, built in the 15th century, includes a mosque, hammam and tomb in the restored Hamamönü quarter, and sets the tone for the restored street scene.",
+   "tip": "Visit in the afternoon; the streets are livelier when cafés open.",
+   "q": "Karacabey Camii, Hamamönü, Altındağ, Ankara",
+   "ll": [
+    39.93491,
+    32.85852
+   ],
+   "src": [
+    "https://nomadicniko.com/2019/11/05/hamamonu"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ankarapalas",
+   "cat": "gor",
+   "area": "ulus",
+   "title": "See the Ankara Palas, the capital's first state hotel",
+   "desc": "Built in 1927 by Vedat Tek in the First National Architectural style, Ankara Palas was the capital's first luxury hotel and a meeting place of the early Republican elite.",
+   "tip": "Ask at the front desk about seeing the lobby and reception rooms.",
+   "q": "Ankara Palas, Atatürk Bulvarı, Ulus, Altındağ, Ankara",
+   "ll": [
+    39.93725,
+    32.85395
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ankara_Palas"
+   ]
+  },
+  {
+   "id": "ulucanlar",
+   "cat": "gor",
+   "area": "ulus",
+   "title": "Tour the Ulucanlar Prison Museum",
+   "desc": "Opened in 1925 and closed in 2006, Ulucanlar was Ankara's central prison and held many political prisoners; it became a museum in 2011. Visitors walk the cell blocks and courtyard.",
+   "tip": "Allow about 90 minutes. Check opening days.",
+   "q": "Ulucanlar Cezaevi Müzesi, Cumhuriyet Mahallesi, Altındağ, Ankara",
+   "ll": [
+    39.93375,
+    32.86657
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ulucanlar_Prison_Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "sergievi",
+   "cat": "gor",
+   "area": "ulus",
+   "title": "See the Ankara Exhibition Hall (Sergi Evi)",
+   "desc": "This Republican-era building by Şevki Balmumcu opened in 1934 as a showcase of national products and later served as the opera house; it now hosts exhibitions.",
+   "tip": "Check the current programme before visiting.",
+   "q": "Ankara Sergi Evi, Opera Meydanı, Ulus, Altındağ, Ankara",
+   "ll": [
+    39.93718,
+    32.85477
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ankara_Opera_House",
+    "https://kulturenvanteri.com/en/yer/ankara-opera-sahnesi/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "isbankmuzesi",
+   "cat": "gor",
+   "area": "ulus",
+   "title": "Learn Republican banking history at the İş Bankası Museum",
+   "desc": "Housed in the bank's early Ulus building, the museum traces the history of Türkiye İş Bankası, founded in 1924 at Atatürk's request, with period furniture and documents.",
+   "tip": "Check hours; best combined with Ulus Square.",
+   "q": "İş Bankası Müzesi, Anafartalar Caddesi, Ulus, Altındağ, Ankara",
+   "ll": [
+    39.94118,
+    32.85464
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/T%C3%BCrkiye_%C4%B0%C5%9F_Bankas%C4%B1"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "cermodern",
+   "cat": "gor",
+   "area": "ulus",
+   "title": "Visit Cer Modern in the old railway workshops",
+   "desc": "Cer Modern, opened in 2010, is a contemporary art centre in the restored locomotive repair workshops of the State Railways near the station, with large installations and rotating exhibitions.",
+   "tip": "Check current exhibitions; pair with the railway museum.",
+   "q": "Cer Modern, Altındağ, Ankara",
+   "ll": [
+    39.9366,
+    32.8325
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Cer_Modern"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "zengerpasa",
+   "cat": "ye",
+   "area": "ulus",
+   "title": "Dine in the Zenger Paşa Konağı mansion",
+   "desc": "An 18th-century Ottoman mansion inside the castle walls, Zenger Paşa has a ground floor of antiques and serves Turkish food with city views.",
+   "tip": "Reserve for evenings; prices are above average. Try Ankara tava and mantı.",
+   "q": "Zenger Paşa Konağı, Doyuran Sokak, Ankara Kalesi, Altındağ, Ankara",
+   "ll": [
+    39.9411,
+    32.86395
+   ],
+   "src": [
+    "https://theculturetrip.com/asia/turkey/articles/ankara-s-10-must-try-restaurants-turkish-delights-and-local-eats",
+    "https://turkeyfromtheinside.com/?p=2905"
+   ]
+  },
+  {
+   "id": "boyacizade",
+   "cat": "ye",
+   "area": "ulus",
+   "title": "Eat in the Boyacızade Konağı courtyard",
+   "desc": "An Ottoman mansion turned restaurant, entered through a stone courtyard, with tables looking toward the castle and a traditional Turkish menu.",
+   "tip": "Ask for a courtyard table in warm months.",
+   "q": "Boyacızade Konağı, Ankara Kalesi, Altındağ, Ankara",
+   "ll": [
+    39.94075,
+    32.86441
+   ],
+   "src": [
+    "https://theculturetrip.com/asia/turkey/articles/ankara-s-10-must-try-restaurants-turkish-delights-and-local-eats"
+   ]
+  },
+  {
+   "id": "hatipoglu",
+   "cat": "ye",
+   "area": "ulus",
+   "title": "Try meze on the Hatipoğlu Konağı terrace",
+   "desc": "A restored konak inside the castle with an open-air terrace, offering a traditional Turkish menu and meze.",
+   "tip": "Come for lunch or sunset; reserve at weekends.",
+   "q": "Hatipoğlu Konağı, Kale Kapısı Sokak, Ankara Kalesi, Altındağ, Ankara",
+   "ll": [
+    39.94092,
+    32.86408
+   ],
+   "src": [
+    "https://theculturetrip.com/asia/turkey/articles/ankara-s-10-must-try-restaurants-turkish-delights-and-local-eats"
+   ]
+  },
+  {
+   "id": "tasbebek",
+   "cat": "ye",
+   "area": "ulus",
+   "title": "Have tea at Taş Bebek Kafe in the castle",
+   "desc": "A themed café in the castle district with a porcelain doll collection and a Byzantine-era clock tower bell on the premises.",
+   "tip": "A short stop for tea or Turkish coffee.",
+   "q": "Taş Bebek Kafe, Ankara Kalesi, Altındağ, Ankara",
+   "ll": [
+    39.94068,
+    32.86358
+   ],
+   "src": [
+    "https://theculturetrip.com/asia/turkey/articles/ankara-s-10-must-try-restaurants-turkish-delights-and-local-eats"
+   ]
+  },
+  {
+   "id": "andcafe",
+   "cat": "ye",
+   "area": "ulus",
+   "title": "Sip coffee at And Café at the top of the castle",
+   "desc": "A café at the top of the castle with views over Ankara. Reviews are mixed on service, but it is a popular view stop.",
+   "tip": "Go in late afternoon for the view; order tea and a snack.",
+   "q": "And Cafe, Ankara Kalesi, Altındağ, Ankara",
+   "ll": [
+    39.94125,
+    32.86448
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/1459762/and-cafe"
+   ]
+  },
+  {
+   "id": "osmanbey",
+   "cat": "ye",
+   "area": "ulus",
+   "title": "Lunch at Osmanbey Konağı in Hamamönü",
+   "desc": "A restored Hamamönü mansion serving Turkish and international dishes since 2011.",
+   "tip": "Good for a long weekend lunch; courtyard seating in summer.",
+   "q": "Osmanbey Konağı, Hamamönü, Altındağ, Ankara",
+   "ll": [
+    39.93442,
+    32.85978
+   ],
+   "src": [
+    "https://www.firmasec.com/firma/crbfym-osmanbey-konagi-restorant-cafe"
+   ]
+  },
+  {
+   "id": "beylersofrasi",
+   "cat": "ye",
+   "area": "ulus",
+   "title": "Order kebap at Beyler Sofrası in Hamamönü",
+   "desc": "A kebap restaurant in a Hamamönü house, listed among the area's best-known places.",
+   "tip": "Try the mixed grill; reserve on weekends.",
+   "q": "Beyler Sofrası, Hamamönü, Altındağ, Ankara",
+   "ll": [
+    39.93482,
+    32.85953
+   ],
+   "src": [
+    "https://yemek.com/hamamonu-mekanlari/"
+   ]
+  },
+  {
+   "id": "hacettepesimit",
+   "cat": "ye",
+   "area": "ulus",
+   "title": "Warm up at Hacettepe Simit Konağı",
+   "desc": "A simit house in a restored Hamamönü building, serving simit and tea.",
+   "tip": "Order simit with cheese and tea.",
+   "q": "Hacettepe Simit Konağı, Hamamönü, Altındağ, Ankara",
+   "ll": [
+    39.9343,
+    32.85935
+   ],
+   "src": [
+    "https://yemek.com/hamamonu-mekanlari/"
+   ]
+  },
+  {
+   "id": "mutlucak",
+   "cat": "ye",
+   "area": "ulus",
+   "title": "Have a Turkish breakfast at Mutlucak Sofrası",
+   "desc": "A Hamamönü place serving the full Turkish breakfast spread.",
+   "tip": "Go early at weekends and share a mixed plate.",
+   "q": "Mutlucak Sofrası, Hamamönü, Altındağ, Ankara",
+   "ll": [
+    39.93492,
+    32.85988
+   ],
+   "src": [
+    "https://yemek.com/hamamonu-mekanlari/"
+   ]
+  },
+  {
+   "id": "bacchus",
+   "cat": "ye",
+   "area": "ulus",
+   "title": "Sit in the garden at Bacchus Garden",
+   "desc": "A garden café and restaurant in Hamamönü, listed among its popular spots.",
+   "tip": "Best on summer evenings.",
+   "q": "Bacchus Garden, Hamamönü, Altındağ, Ankara",
+   "ll": [
+    39.93452,
+    32.86028
+   ],
+   "src": [
+    "https://yemek.com/hamamonu-mekanlari/",
+    "https://yandex.com.tr/maps/org/bacchus/1251496594/"
+   ]
+  },
+  {
+   "id": "faralya",
+   "cat": "ye",
+   "area": "ulus",
+   "title": "Relax at Faralya Cafe in Hamamönü",
+   "desc": "A café in a restored Hamamönü house with outdoor seating.",
+   "tip": "Drink Turkish coffee and try the cakes.",
+   "q": "Faralya Cafe, Hamamönü, Altındağ, Ankara",
+   "ll": [
+    39.93418,
+    32.86002
+   ],
+   "src": [
+    "https://yemek.com/hamamonu-mekanlari/"
+   ]
+  },
+  {
+   "id": "uludag",
+   "cat": "ye",
+   "area": "ulus",
+   "title": "Eat İskender at Uludağ Kebapçısı",
+   "desc": "A long-running döner and İskender restaurant in Ulus, serving pide with sliced döner, tomato sauce and melted butter.",
+   "tip": "Order the İskender. Reviews vary, so go at lunch when the meat is freshest.",
+   "q": "Uludağ Kebapçısı, Ulus, Altındağ, Ankara",
+   "ll": [
+    39.94013,
+    32.85541
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/1261501/uludağ-kebapçısı"
+   ]
+  },
+  {
+   "id": "rusen",
+   "cat": "ye",
+   "area": "ulus",
+   "title": "Buy baklava at Ruşen Pastanesi",
+   "desc": "A historic pastry shop on Anafartalar Caddesi in Ulus, known for baklava and traditional sweets, and busy before bayrams.",
+   "tip": "Take a box of baklava; expect queues around religious holidays.",
+   "q": "Ruşen Pastanesi, Anafartalar Caddesi, Ulus, Altındağ, Ankara",
+   "ll": [
+    39.94006,
+    32.85693
+   ],
+   "src": [
+    "https://www.24saatgazetesi.com/ulusta-bir-bayram-telasi"
+   ]
+  },
+  {
+   "id": "bogazici",
+   "cat": "ye",
+   "area": "ulus",
+   "title": "Eat Ankara tava at Boğaziçi Lokantası",
+   "desc": "A Ulus restaurant that says it has cooked tava dishes to old recipes since 1956.",
+   "tip": "Order the Ankara tava or another clay-pot dish.",
+   "q": "Boğaziçi Lokantası, Ulus, Altındağ, Ankara",
+   "ll": [
+    39.94125,
+    32.85602
+   ],
+   "src": [
+    "https://www.yeniankara.com.tr/ankara/ankarada-zamanda-yolculuk-mumkun-olsaydi-hangi-semtte-baslardi-184948"
+   ]
+  },
+  {
+   "id": "safranhan",
+   "cat": "ye",
+   "area": "ulus",
+   "title": "Dine at Safranhan Brasserie below the castle",
+   "desc": "A brasserie just under the castle walls with city views, serving Ankara tava and other Turkish dishes.",
+   "tip": "Book a terrace table at sunset.",
+   "q": "Safranhan Brasserie, Ankara Kalesi yanı, Altındağ, Ankara",
+   "ll": [
+    39.94018,
+    32.8631
+   ],
+   "src": [
+    "https://fodors.fodors.com/world/europe/turkey/cappadocia-and-central-turkey/restaurants/reviews/safranhan-brasserie-s702949"
+   ]
+  },
+  {
+   "id": "cengelhancafe",
+   "cat": "ye",
+   "area": "ulus",
+   "title": "Have coffee in the Çengelhan courtyard",
+   "desc": "The restored 1523 Çengelhan has a café and restaurant in the building of the Rahmi M. Koç Museum.",
+   "tip": "Coffee and cake in the courtyard after the museum.",
+   "q": "Çengelhan Restaurant & Café, Rahmi M. Koç Müzesi, Samanpazarı, Altındağ, Ankara",
+   "ll": [
+    39.93903,
+    32.86163
+   ],
+   "src": [
+    "https://www.rmk-museum.org.tr/ankara"
+   ]
+  },
+  {
+   "id": "namli",
+   "cat": "ye",
+   "area": "ulus",
+   "title": "Shop and snack at Namlı Gurme",
+   "desc": "A delicatessen and café selling Turkish charcuterie, cheese and breakfast dishes.",
+   "tip": "Buy pastırma and sucuk to take home.",
+   "q": "Namlı Gurme, Sarıkadın Sokak, Altındağ, Ankara",
+   "ll": [
+    39.93858,
+    32.86248
+   ],
+   "src": [
+    "https://yemek.com/ankara-kahvalti-mekanlari/"
+   ]
+  },
+  {
+   "id": "suhaninyeri",
+   "cat": "ye",
+   "area": "ulus",
+   "title": "Eat wood-fired döner at Süha'nın Yeri",
+   "desc": "A döner restaurant near the castle that guides recommend for wood-fired döner.",
+   "tip": "Go at lunch; order the döner plate.",
+   "q": "Süha'nın Yeri, Kale yakını, Altındağ, Ankara",
+   "ll": [
+    39.94013,
+    32.86338
+   ],
+   "src": [
+    "https://visiearth.pages.dev/tr/eating-in-the-capital/"
+   ]
+  },
+  {
+   "id": "sadikusta",
+   "cat": "ye",
+   "area": "ulus",
+   "title": "Try Oltu kebab at Sadık Usta",
+   "desc": "A kebab house near the castle gate specialising in Oltu kebab, a spit-roast lamb dish from Erzurum province.",
+   "tip": "Share a mixed plate; good for lunch.",
+   "q": "Sadık Usta, Ankara Kalesi girişi, Altındağ, Ankara",
+   "ll": [
+    39.94064,
+    32.8638
+   ],
+   "src": [
+    "https://visiearth.pages.dev/tr/eating-in-the-capital/"
+   ]
+  },
+  {
+   "id": "metinusta",
+   "cat": "ye",
+   "area": "ulus",
+   "title": "Grill cağ kebap at Metin Usta",
+   "desc": "A cağ kebap restaurant listed in a guide to Ankara's food scene, serving horizontal spit-roast lamb.",
+   "tip": "Eat it with ayran and lavash.",
+   "q": "Metin Usta Cağ Kebap, Altındağ, Ankara",
+   "ll": [
+    39.9389,
+    32.8619
+   ],
+   "src": [
+    "https://yandex.kz/maps/discovery/a-guide-to-ankaras-culinary-scene/"
+   ]
+  },
+  {
+   "id": "hacibayramcay",
+   "cat": "ye",
+   "area": "ulus",
+   "title": "Drink tea in the Hacı Bayram tea garden",
+   "desc": "Tea gardens beside the Hacı Bayram Mosque and the Temple of Augustus serve glasses of çay in the shade of the ruins.",
+   "tip": "Come after visiting the mosque; prices are low.",
+   "q": "Hacı Bayram Çay Bahçesi, Hacı Bayram Mahallesi, Altındağ, Ankara",
+   "ll": [
+    39.93745,
+    32.86225
+   ],
+   "src": [
+    "https://healthy-teeth-alanya.turkish.club/en/attractions/hac-bayram-mosque.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "karacabeyhamami",
+   "cat": "dene",
+   "area": "ulus",
+   "title": "Soak in the Karacabey Hamamı",
+   "desc": "A historic Ottoman hammam in the Karacabey complex in Hamamönü, associated with the restored quarter.",
+   "tip": "Book ahead and bring a towel; check current opening.",
+   "q": "Karacabey Hamamı, Hamamönü, Altındağ, Ankara",
+   "ll": [
+    39.93465,
+    32.8589
+   ],
+   "src": [
+    "https://nomadicniko.com/2019/11/05/hamamonu"
+   ]
+  },
+  {
+   "id": "kalekapisicrafts",
+   "cat": "dene",
+   "area": "ulus",
+   "title": "Browse craft shops on Kale Kapısı Sokak",
+   "desc": "Shops inside the castle sell mohair scarves, copper and antiques.",
+   "tip": "Bargain gently and compare prices.",
+   "q": "Kale Kapısı Sokak, Ankara Kalesi, Altındağ, Ankara",
+   "ll": [
+    39.94049,
+    32.86407
+   ],
+   "src": [
+    "https://www.barcelo.com/guia-turismo/en/turkey/ankara/things-to-do/markets-and-bazaars-in-ankara/"
+   ]
+  },
+  {
+   "id": "cikrikcilar",
+   "cat": "dene",
+   "area": "ulus",
+   "title": "Hunt for antiques on Çıkrıkçılar Yokuşu",
+   "desc": "A steep street known as Ankara's antique hotspot, with shops selling old objects and tied to the area's wool-spinning past.",
+   "tip": "Visit in the daytime; some shops close on Sunday.",
+   "q": "Çıkrıkçılar Yokuşu, Altındağ, Ankara",
+   "ll": [
+    39.93978,
+    32.86288
+   ],
+   "src": [
+    "https://tr.wikipedia.org/wiki/%C3%87%C4%B1kr%C4%B1k%C3%A7%C4%B1lar_Yoku%C5%9Fu"
+   ]
+  },
+  {
+   "id": "bakircilar",
+   "cat": "dene",
+   "area": "ulus",
+   "title": "Watch coppersmiths at the Bakırcılar Çarşısı",
+   "desc": "The end of Çıkrıkçılar Yokuşu has workshops that still beat and tin copper by hand, selling coffee pots, trays and bowls.",
+   "tip": "Buy a copper coffee pot.",
+   "q": "Bakırcılar Çarşısı, Salman Sokak, Altındağ, Ankara",
+   "ll": [
+    39.9399,
+    32.86175
+   ],
+   "src": [
+    "https://www.barcelo.com/guia-turismo/en/turkey/ankara/things-to-do/markets-and-bazaars-in-ankara/"
+   ]
+  },
+  {
+   "id": "atpazari",
+   "cat": "dene",
+   "area": "ulus",
+   "title": "Browse the Atpazarı bazaar",
+   "desc": "Atpazarı, the former horse market, is a bazaar area with dried fruit, nuts and small shops.",
+   "tip": "Buy dried fruit and nuts.",
+   "q": "Atpazarı Meydanı, Altındağ, Ankara",
+   "ll": [
+    39.93815,
+    32.8629
+   ],
+   "src": [
+    "https://www.barcelo.com/guia-turismo/en/turkey/ankara/things-to-do/markets-and-bazaars-in-ankara/"
+   ]
+  },
+  {
+   "id": "samanpazari",
+   "cat": "dene",
+   "area": "ulus",
+   "title": "Wander Samanpazarı's old streets",
+   "desc": "Samanpazarı, the straw market, has restored buildings and shops around the castle.",
+   "tip": "Combine with the Rahmi Koç Museum.",
+   "q": "Samanpazarı, Altındağ, Ankara",
+   "ll": [
+    39.9401,
+    32.86455
+   ],
+   "src": [
+    "https://www.hurriyet.com.tr/seyahat/baskentte-zaman-yolculugu-29013789"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "pirinchan",
+   "cat": "dene",
+   "area": "ulus",
+   "title": "Browse antiques at Pirinç Han",
+   "desc": "A two-storey covered han with small antique shops on both floors and a café in the courtyard.",
+   "tip": "Weekdays are quieter.",
+   "q": "Pirinç Han, Samanpazarı, Altındağ, Ankara",
+   "ll": [
+    39.93905,
+    32.86358
+   ],
+   "src": [
+    "https://www.hurriyet.com.tr/seyahat/baskentte-zaman-yolculugu-29013789"
+   ]
+  },
+  {
+   "id": "karaoglan",
+   "cat": "dene",
+   "area": "ulus",
+   "title": "Shop for local foods at Karaoğlan Çarşısı",
+   "desc": "A market passage in Ulus selling local foods and household goods.",
+   "tip": "Buy local cheese and dried goods.",
+   "q": "Karaoğlan Çarşısı, Ulus, Altındağ, Ankara",
+   "ll": [
+    39.94078,
+    32.85652
+   ],
+   "src": [
+    "https://www.dailysabah.com/life/travel/roman-baths-china-shops-and-more-a-half-day-walking-tour-of-ankaras-historic-ulus-quarter/amp"
+   ]
+  },
+  {
+   "id": "anafartalar",
+   "cat": "dene",
+   "area": "ulus",
+   "title": "Walk Anafartalar Çarşısı",
+   "desc": "A shopping street that links Ulus Square to the old town's craft shops and pastry shops.",
+   "tip": "Go on weekdays when shops are open.",
+   "q": "Anafartalar Çarşısı, Ulus, Altındağ, Ankara",
+   "ll": [
+    39.93998,
+    32.85605
+   ],
+   "src": [
+    "https://www.dailysabah.com/life/travel/roman-baths-china-shops-and-more-a-half-day-walking-tour-of-ankaras-historic-ulus-quarter/amp"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "operaperformance",
+   "cat": "dene",
+   "area": "ulus",
+   "title": "Catch an opera or ballet at Ankara Opera Sahnesi",
+   "desc": "The Ankara Opera House, completed in 1948, hosts the State Opera and Ballet's performances and concerts.",
+   "tip": "Book tickets online; check the season programme.",
+   "q": "Ankara Opera Sahnesi, Atatürk Bulvarı, Altındağ, Ankara",
+   "ll": [
+    39.9366,
+    32.8545
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ankara_Opera_House",
+    "https://kulturenvanteri.com/en/yer/ankara-opera-sahnesi/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "buyuktiyatro",
+   "cat": "dene",
+   "area": "ulus",
+   "title": "See a play at the Ankara State Theatre",
+   "desc": "Ankara State Theatre stages Turkish and world drama in the old city centre.",
+   "tip": "Performances are in Turkish; check the schedule online.",
+   "q": "Ankara Devlet Tiyatrosu Büyük Tiyatro, Altındağ, Ankara",
+   "ll": [
+    39.93765,
+    32.85358
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Turkish_State_Theatres"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "pedalboats",
+   "cat": "dene",
+   "area": "ulus",
+   "title": "Take a boat on the Gençlik Parkı lake",
+   "desc": "The park's lake offers pedal boats and rowing boats among the gardens.",
+   "tip": "Go in the late afternoon.",
+   "q": "Gençlik Parkı Göleti, Altındağ, Ankara",
+   "ll": [
+    39.9381,
+    32.851
+   ],
+   "src": [
+    "https://www.tradefairdates.com/Sights-Ankara-city22.html"
+   ]
+  },
+  {
+   "id": "lunapark",
+   "cat": "dene",
+   "area": "ulus",
+   "title": "Ride the amusement park at Gençlik Parkı",
+   "desc": "A funfair with traditional rides in the park.",
+   "tip": "Pay per ride; busiest in the evenings.",
+   "q": "Gençlik Parkı Lunapark, Altındağ, Ankara",
+   "ll": [
+    39.937,
+    32.8494
+   ],
+   "src": [
+    "https://www.tradefairdates.com/Sights-Ankara-city22.html"
+   ]
+  },
+  {
+   "id": "hamamonuwalk",
+   "cat": "dene",
+   "area": "ulus",
+   "title": "Stroll Hamamönü's restored streets in the evening",
+   "desc": "Restored Ottoman houses line cobbled streets, now cafés and shops.",
+   "tip": "Go in the late afternoon when cafés open.",
+   "q": "Hamamönü, Altındağ, Ankara",
+   "ll": [
+    39.9348,
+    32.8594
+   ],
+   "src": [
+    "https://www.advantour.com/turkey/ankara/hamamonu.htm"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ulucanlarwalk",
+   "cat": "dene",
+   "area": "ulus",
+   "title": "Walk Ulucanlar Caddesi from Hamamönü",
+   "desc": "A walk from Hamamönü toward Ulucanlar past old houses and mosques.",
+   "tip": "Wear comfortable shoes.",
+   "q": "Ulucanlar Caddesi, Altındağ, Ankara",
+   "ll": [
+    39.9342,
+    32.863
+   ],
+   "src": [
+    "https://www.yeniankara.com.tr/guncel/hamamonunde-restorasyon-sinirlari-ve-terk-edilen-sokaklar-167458"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

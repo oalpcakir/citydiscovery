@@ -53,6 +53,8 @@ body.on-map #app { max-width: none; padding: 0; }
 .fl-lu { background: linear-gradient(#ef3340 0 33.4%, #fff 0 66.6%, #00a3e0 0); }
 .fl-fr { background: linear-gradient(90deg, #002395 0 33.4%, #fff 0 66.6%, #ed2939 0); }
 .fl-se { background: linear-gradient(90deg, transparent 31.25%, #fecc00 0 43.75%, transparent 0), linear-gradient(transparent 40%, #fecc00 0 60%, transparent 0), #006aa7; }
+.fl-ch { background: linear-gradient(#fff, #fff) center / 14% 62% no-repeat, linear-gradient(#fff, #fff) center / 44% 20% no-repeat, #da291c; }
+.fl-tr { background: radial-gradient(circle at 40% 50%, #e30a17 0 .148em, transparent 0), radial-gradient(circle at 56% 50%, #fff 0 .07em, transparent 0), radial-gradient(circle at 36% 50%, #fff 0 .185em, transparent 0), #e30a17; }
 .fl-dk { background: linear-gradient(90deg, transparent 32.4%, #fff 0 43.2%, transparent 0), linear-gradient(transparent 42.9%, #fff 0 57.1%, transparent 0), #c8102e; }
 .glass { background: var(--glass); -webkit-backdrop-filter: blur(16px) saturate(1.4); backdrop-filter: blur(16px) saturate(1.4); box-shadow: var(--shadow-sm); border: 1px solid color-mix(in srgb, var(--line) 70%, transparent); }
 .note { color: var(--muted); font-size: 13px; margin: 10px 0 0; }

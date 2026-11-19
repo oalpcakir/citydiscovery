@@ -1,0 +1,993 @@
+{
+ "new": [
+  {
+   "id": "dolmabahce",
+   "cat": "gor",
+   "area": "bogaz",
+   "title": "Tour the gilded halls of Dolmabahçe Palace",
+   "desc": "Built 1843-1856 for Sultan Abdülmecid I, Dolmabahçe replaced Topkapı as the main imperial residence. Its Ceremonial Hall holds a 4.5-tonne Bohemian crystal chandelier, and Atatürk died here on 10 November 1938.",
+   "tip": "Closed Mondays; tickets are timed and queues are shortest right at opening. Selamlık and Harem sections are visited on separate guided tours.",
+   "q": "Dolmabahçe Sarayı, Vişnezade, Beşiktaş, İstanbul",
+   "ll": [
+    41.03944,
+    29.0
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Dolmabahçe_Palace"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "dolmabahceclock",
+   "cat": "gor",
+   "area": "bogaz",
+   "title": "See the Dolmabahçe Clock Tower and Mosque",
+   "desc": "The clock tower (1890-95) by Sarkis Balyan and the neighbouring Dolmabahçe Mosque (1853-55) by Nigoğos Balyan form a neo-baroque ensemble on the shore beside the palace gate.",
+   "tip": "Good photo stop before or after the palace; the mosque exterior is lovely when lit at night.",
+   "q": "Dolmabahçe Camii, Vişnezade, Beşiktaş, İstanbul",
+   "ll": [
+    41.03761,
+    28.99644
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Dolmabahçe_Mosque",
+    "https://en.wikipedia.org/wiki/Dolmabahçe_Clock_Tower"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "navalmuseum",
+   "cat": "gor",
+   "area": "bogaz",
+   "title": "Browse imperial caiques at the Naval Museum",
+   "desc": "The Istanbul Naval Museum in Beşiktaş displays sultans' ceremonial caiques, some over 30 metres long, along with ship models and Ottoman naval relics.",
+   "tip": "Closed Mondays. Allow around 90 minutes; the caique hall is the highlight.",
+   "q": "İstanbul Deniz Müzesi, Beşiktaş, İstanbul",
+   "ll": [
+    41.04167,
+    29.00556
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Istanbul_Naval_Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "barbaros",
+   "cat": "gor",
+   "area": "bogaz",
+   "title": "Visit Barbaros Hayreddin Pasha's tomb in Beşiktaş",
+   "desc": "The mausoleum of the Ottoman grand admiral Barbarossa (d. 1546), designed by Mimar Sinan, stands beside the monument on Barbaros Square. Passing ships once saluted it.",
+   "tip": "Free to see from the square; combine with the nearby Sinan Pasha Mosque and Beşiktaş market.",
+   "q": "Barbaros Hayrettin Paşa Türbesi, Barbaros Meydanı, Beşiktaş, İstanbul",
+   "ll": [
+    41.04194,
+    29.00694
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Hayreddin_Barbarossa"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ihlamur",
+   "cat": "gor",
+   "area": "bogaz",
+   "title": "Stroll the Ihlamur Pavilions and gardens",
+   "desc": "Sultan Abdülmecid built the Merasim (Ceremonial) and Maiyet Pavilions in the 1850s in a lime-tree garden for receiving guests. They now house small museum exhibits amid a peaceful park.",
+   "tip": "Closed Mondays; the lime trees bloom in late May and early June.",
+   "q": "Ihlamur Kasrı, Yıldız Mah., Beşiktaş, İstanbul",
+   "ll": [
+    41.05071,
+    29.00119
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ihlamur_Pavilion"
+   ]
+  },
+  {
+   "id": "ciragan",
+   "cat": "gor",
+   "area": "bogaz",
+   "title": "Admire Çırağan Palace from the shore promenade",
+   "desc": "The Ottoman palace by Nigoğos Balyan was completed in 1867 for Abdülaziz, burned in 1910, and reopened as a luxury hotel in 1992. Its long marble facade runs along the Bosphorus.",
+   "tip": "Walk the waterfront outside for free; the hotel terrace serves tea and coffee at premium prices.",
+   "q": "Çırağan Sarayı, Çırağan Cd., Beşiktaş, İstanbul",
+   "ll": [
+    41.04346,
+    29.01531
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Çırağan_Palace"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "yildizsale",
+   "cat": "gor",
+   "area": "bogaz",
+   "title": "Visit the Şale Pavilion at Yıldız Palace",
+   "desc": "Yıldız Palace was Abdülhamid II's home and seat of government from 1878 to 1909. The Şale Kiosk, built 1889-1898 with Swiss chalet influences, holds carved parquet and a huge Hereke carpet.",
+   "tip": "Check opening days before going; enter through Yıldız Park.",
+   "q": "Yıldız Şale Köşkü, Yıldız Mah., Beşiktaş, İstanbul",
+   "ll": [
+    41.04944,
+    29.01111
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Yıldız_Palace"
+   ]
+  },
+  {
+   "id": "ortakoymosque",
+   "cat": "gor",
+   "area": "bogaz",
+   "title": "See Ortaköy Mosque with the bridge behind it",
+   "desc": "Built 1853-55 for Abdülmecid I by Garabet and Nigoğos Balyan, this neo-baroque mosque stands directly on the water below the Bosphorus Bridge.",
+   "tip": "Best at golden hour; dress modestly if entering outside prayer times.",
+   "q": "Büyük Mecidiye Camii, Ortaköy, Beşiktaş, İstanbul",
+   "ll": [
+    41.04728,
+    29.02677
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ortaköy_Mosque"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sakipsabanci",
+   "cat": "gor",
+   "area": "bogaz",
+   "title": "See Orientalist art at the Sakıp Sabancı Museum",
+   "desc": "The Atlı Köşk mansion in Emirgan was donated by the Sabancı family and opened as a museum in 2002. It shows calligraphy, Osman Hamdi Bey's Tortoise Trainer, and large temporary exhibitions.",
+   "tip": "Closed Mondays; the garden café overlooks the Bosphorus. Pair with Emirgan Park.",
+   "q": "Sakıp Sabancı Müzesi, Emirgan, Sarıyer, İstanbul",
+   "ll": [
+    41.10601,
+    29.05562
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Sakıp_Sabancı_Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "emirganpark",
+   "cat": "gor",
+   "area": "bogaz",
+   "title": "Wander Emirgan Park and its pavilions",
+   "desc": "A 47-hectare Ottoman estate park with three historic kiosks (Yellow, Pink, White), ponds and rare trees climbing from the Bosphorus shore.",
+   "tip": "Free entry; most beautiful in April but pleasant all year.",
+   "q": "Emirgan Korusu, Emirgan, Sarıyer, İstanbul",
+   "ll": [
+    41.10901,
+    29.05252
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Emirgan_Park"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rumelihisari",
+   "cat": "gor",
+   "area": "bogaz",
+   "title": "Climb the walls of Rumeli Fortress",
+   "desc": "Mehmed II built this fortress in four months in 1452 at the narrowest point of the Bosphorus to prepare the conquest of Constantinople. Three tall towers and long walls climb the hillside.",
+   "tip": "Closed Mondays; climb the towers for views of the Bosphorus and the Fatih Sultan Mehmet Bridge.",
+   "q": "Rumeli Hisarı, Yahya Kemal Cd., Sarıyer, İstanbul",
+   "ll": [
+    41.08491,
+    29.05671
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Rumelihisarı"
+   ]
+  },
+  {
+   "id": "asiyan",
+   "cat": "gor",
+   "area": "bogaz",
+   "title": "Visit Tevfik Fikret's Aşiyan Museum",
+   "desc": "The poet Tevfik Fikret built this wooden house above the fortress in 1906. The museum preserves his study and furniture, and the hillside Aşiyan Cemetery holds graves of Fikret and other writers.",
+   "tip": "Small; combine with Rumeli Hisarı. The tea garden nearby has superb views.",
+   "q": "Aşiyan Müzesi, Aşiyan Yolu, Bebek, Beşiktaş, İstanbul",
+   "ll": [
+    41.0832,
+    29.05447
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Aşiyan_Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "arnavutkoy",
+   "cat": "gor",
+   "area": "bogaz",
+   "title": "Photograph the wooden yalıs of Arnavutköy",
+   "desc": "Arnavutköy keeps rows of 19th-century wooden Ottoman houses and waterfront mansions, with a Greek and Albanian history reflected in its churches such as Taksiarhis (1870).",
+   "tip": "Walk the shore road from Bebek in morning light; Sunday brunches pack the cafés.",
+   "q": "Arnavutköy Sahil, Arnavutköy, Beşiktaş, İstanbul",
+   "ll": [
+    41.0673,
+    29.043
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Arnavutköy,_Beşiktaş"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ataturkmuzesi",
+   "cat": "gor",
+   "area": "bogaz",
+   "title": "See Atatürk's private rooms in Şişli",
+   "desc": "This house in Şişli served as Atatürk's retreat in Istanbul and has been a museum of his belongings, furniture and personal items.",
+   "tip": "Check opening days; entry is free or very cheap.",
+   "q": "Atatürk Müzesi, Halaskargazi Cd., Şişli, İstanbul",
+   "ll": [
+    41.0564,
+    28.98721
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Atatürk_Museum,_Şişli"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "borusan",
+   "cat": "gor",
+   "area": "bogaz",
+   "title": "Explore Borusan Contemporary in Perili Köşk",
+   "desc": "Borusan Contemporary occupies the Perili Köşk (Haunted Mansion) beside Rumeli Hisarı and holds one of Turkey's important corporate collections of contemporary art.",
+   "tip": "Closed Mondays; frequent talks and a good shop.",
+   "q": "Borusan Contemporary, Baltalimanı Hisar Cd., Sarıyer, İstanbul",
+   "ll": [
+    41.0892,
+    29.0544
+   ],
+   "src": [
+    "https://www.borusancontemporary.com"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "sadberk",
+   "cat": "gor",
+   "area": "bogaz",
+   "title": "Discover Anatolian history at Sadberk Hanım Museum",
+   "desc": "Turkey's first private museum opened in 1980 in two Bosphorus mansions at Büyükdere. It holds Hittite and Byzantine pieces, Ottoman textiles and Iznik tiles.",
+   "tip": "Closed Wednesdays; quiet and rarely crowded.",
+   "q": "Sadberk Hanım Müzesi, Piyasa Cd., Büyükdere, Sarıyer, İstanbul",
+   "ll": [
+    41.163,
+    29.04816
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Sadberk_Hanım_Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "tesvikiye",
+   "cat": "gor",
+   "area": "bogaz",
+   "title": "Visit Teşvikiye Mosque in fashionable Nişantaşı",
+   "desc": "Built in 1854 for Abdülmecid I and designed by Nigoğos Balyan, the neo-baroque mosque anchors Nişantaşı and its high-end shopping streets.",
+   "tip": "Free; a peaceful break from Abdi İpekçi Street shopping.",
+   "q": "Teşvikiye Camii, Teşvikiye, Şişli, İstanbul",
+   "ll": [
+    41.04938,
+    28.99428
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Teşvikiye_Mosque"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mackapark",
+   "cat": "gor",
+   "area": "bogaz",
+   "title": "Sit in Maçka Democracy Park",
+   "desc": "Created in the 1990s on the Maçka valley, the park links Nişantaşı with Taşkışla and Harbiye with lawns, ponds and shaded walks.",
+   "tip": "Locals picnic here at weekends; central and free.",
+   "q": "Maçka Demokrasi Parkı, Maçka, Şişli, İstanbul",
+   "ll": [
+    41.0443,
+    28.99328
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Maçka,_Istanbul"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sapphire",
+   "cat": "gor",
+   "area": "bogaz",
+   "title": "See Istanbul from Sapphire's observation terrace",
+   "desc": "Istanbul Sapphire, completed in 2010, was among Turkey's tallest buildings at 238 m. The top-floor terrace offers wide views over both continents.",
+   "tip": "Check current opening and ticket prices; clear days around sunset are best.",
+   "q": "İstanbul Sapphire, Büyükdere Cd., Levent, Şişli, İstanbul",
+   "ll": [
+    41.085,
+    29.00583
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Istanbul_Sapphire"
+   ]
+  },
+  {
+   "id": "rumelikavagi",
+   "cat": "gor",
+   "area": "bogaz",
+   "title": "Wander the fishing village of Rumeli Kavağı",
+   "desc": "A quiet village near the Black Sea entrance with a fish-restaurant row, a mosque and hill paths towards Garipçe. It is the last stop for many European-side buses.",
+   "tip": "Plan lunch here; return by bus or ferry.",
+   "q": "Rumeli Kavağı İskelesi, Sarıyer, İstanbul",
+   "ll": [
+    41.1754,
+    29.0744
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Rumeli_Kavağı"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "yenikoy",
+   "cat": "gor",
+   "area": "bogaz",
+   "title": "Admire the yalıs and Greek heritage of Yeniköy",
+   "desc": "Yeniköy is known for ornate waterfront mansions such as the Sait Halim Pasha Yalı, and for its Greek church of the Taxiarchs. Sultans and ambassadors once favoured it.",
+   "tip": "Walk the shore from Yeniköy pier to Tarabya in about 30 minutes.",
+   "q": "Yeniköy Sahil, Sarıyer, İstanbul",
+   "ll": [
+    41.118,
+    29.066
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Yeniköy,_Sarıyer"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sinanpasha",
+   "cat": "gor",
+   "area": "bogaz",
+   "title": "Visit Sinan Pasha Mosque in Beşiktaş",
+   "desc": "Designed by Mimar Sinan for Admiral Sinan Pasha in 1555, this domed mosque with a covered porch stands beside the Beşiktaş ferry pier and Barbaros Square.",
+   "tip": "Free; combine with the Barbarossa tomb and the Naval Museum.",
+   "q": "Sinan Paşa Camii, Beşiktaş Çarşı, Beşiktaş, İstanbul",
+   "ll": [
+    41.04234,
+    29.00625
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Istanbul"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sariyermuhallebici",
+   "cat": "ye",
+   "area": "bogaz",
+   "title": "Eat fırın sütlaç at Sarıyer Muhallebicisi",
+   "desc": "A well-loved Sarıyer dessert shop known for oven-baked rice pudding and milk desserts, always crowded on weekends.",
+   "tip": "Combine with a börek stop; eat by the water.",
+   "q": "Sarıyer Muhallebicisi, Yeni Mahalle Cd., Sarıyer, İstanbul",
+   "ll": [
+    41.1662,
+    29.0581
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/1553673/tarihi-sarıyer-muhallebicisi-ve-börek",
+    "https://yummyistanbul.com/best-sutlac-rice-pudding-istanbul/"
+   ]
+  },
+  {
+   "id": "cakmakkahvalti",
+   "cat": "ye",
+   "area": "bogaz",
+   "title": "Eat kavurmalı eggs at Çakmak Kahvaltı Salonu",
+   "desc": "Described by local guides as Beşiktaş's oldest breakfast hall, this tiny room in the Çarşı district is known for kavurmalı yumurta (eggs with cured beef) served with fresh bread and tea.",
+   "tip": "Tables are close together and weekends are busy, so go early.",
+   "q": "Çakmak Kahvaltı Salonu, Çelebioğlu Sokak, Çarşı, Beşiktaş, İstanbul",
+   "ll": [
+    41.04351,
+    29.00326
+   ],
+   "src": [
+    "https://yemek.com/besiktasin-en-iyi-kahvalti-mekanlari/"
+   ]
+  },
+  {
+   "id": "sutis",
+   "cat": "ye",
+   "area": "bogaz",
+   "title": "Have a village-style breakfast at Sütiş Emirgan",
+   "desc": "The Sütiş chain's Emirgan branch serves a spread of kaymak, honey, cheeses and eggs on a terrace beside the park.",
+   "tip": "Weekend queues are long; arrive before 9 and share a platter.",
+   "q": "Sütiş Emirgan, Emirgan Korusu, Sarıyer, İstanbul",
+   "ll": [
+    41.10815,
+    29.05715
+   ],
+   "src": [
+    "https://www.theinfatuation.com/istanbul/reviews/emirgan-sutis"
+   ]
+  },
+  {
+   "id": "emirgancay",
+   "cat": "ye",
+   "area": "bogaz",
+   "title": "Drink tea at Emirgan Park's terraces",
+   "desc": "Tea gardens within Emirgan Park offer simple tea, simit and toast on terraces above the Bosphorus, especially lovely in tulip season.",
+   "tip": "Cheaper than shoreline cafés.",
+   "q": "Emirgan Sosyal Tesisleri, Emirgan Korusu, Sarıyer, İstanbul",
+   "ll": [
+    41.1085,
+    29.056
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Emirgan_Park"
+   ]
+  },
+  {
+   "id": "luccabebek",
+   "cat": "ye",
+   "area": "bogaz",
+   "title": "Have brunch at Lucca in Bebek",
+   "desc": "Lucca, open since around 2000, is the café-bar at the centre of Bebek's social scene, with brunch and Mediterranean dishes.",
+   "tip": "Weekends are busy; reserve for brunch.",
+   "q": "Lucca, Cevdet Paşa Cd., Bebek, Beşiktaş, İstanbul",
+   "ll": [
+    41.0776,
+    29.0438
+   ],
+   "src": [
+    "https://www.timeout.com/istanbul/tr/haberler/luccadan-ilk-uluslararasi-adim-cem-mirap-lucca-london-ile-londraya-aciliyor-110626"
+   ]
+  },
+  {
+   "id": "badembebek",
+   "cat": "ye",
+   "area": "bogaz",
+   "title": "Buy almond cookies at Bebek Badem Ezmesi",
+   "desc": "A small confectioner selling fresh marzipan, almond paste and almond sweets, and a Bebek landmark.",
+   "tip": "Take a box to eat on the shore.",
+   "q": "Bebek Badem Ezmesi, Cevdet Paşa Cd., Bebek, Beşiktaş, İstanbul",
+   "ll": [
+    41.0775,
+    29.0432
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Bebek,_Beşiktaş"
+   ]
+  },
+  {
+   "id": "mangeriebebek",
+   "cat": "ye",
+   "area": "bogaz",
+   "title": "Order eggs at Mangerie Bebek",
+   "desc": "A stylish bakery-café in Bebek known for pastries, sourdough bread and long breakfasts.",
+   "tip": "Weekends have waiting lists.",
+   "q": "Mangerie Bebek, Cevdet Paşa Cd., Bebek, Beşiktaş, İstanbul",
+   "ll": [
+    41.0772,
+    29.0437
+   ],
+   "src": [
+    "https://www.yonder.fr/cityguides/istanbul/restaurants/mangerie-bebek"
+   ]
+  },
+  {
+   "id": "ortakoykumpir",
+   "cat": "ye",
+   "area": "bogaz",
+   "title": "Eat a loaded kumpir in Ortaköy",
+   "desc": "Ortaköy's street stalls bake giant potatoes and fill them with cheese, olives, pickles and sausage, the quintessential snack near the mosque.",
+   "tip": "Pick toppings at the counter and ask prices first; check that stalls are open, as the street was rebuilt after a 2020 road collapse.",
+   "q": "Ortaköy Kumpir, Mecidiye Köprüsü Sk., Ortaköy, Beşiktaş, İstanbul",
+   "ll": [
+    41.0478,
+    29.027
+   ],
+   "src": [
+    "https://www.timeout.com/istanbul/restaurants/ortakoey-kumpircileri",
+    "https://www.afar.com/places/kumpir-baked-potato-street-istanbul"
+   ]
+  },
+  {
+   "id": "mecidiyeortakoy",
+   "cat": "ye",
+   "area": "bogaz",
+   "title": "Browse Ortaköy's Mecidiye Köprüsü Sokak snack street",
+   "desc": "The cobbled lane behind Ortaköy Mosque is known for its row of food stalls and cafés selling waffles, kumpir and tea. The area was damaged by a road collapse in 2020 and has been rebuilt.",
+   "tip": "Go midweek to avoid crowds; confirm that stalls are open before you go.",
+   "q": "Mecidiye Köprüsü Sokak, Ortaköy, Beşiktaş, İstanbul",
+   "ll": [
+    41.0476,
+    29.0268
+   ],
+   "src": [
+    "https://www.timeout.com/istanbul/restaurants/ortakoey-kumpircileri"
+   ]
+  },
+  {
+   "id": "besiktasbalik",
+   "cat": "ye",
+   "area": "bogaz",
+   "title": "Eat fried anchovies at the Beşiktaş fish market",
+   "desc": "The Beşiktaş Balıkpazarı is lined with fishmongers, with small restaurants frying hamsi and sardines nearby.",
+   "tip": "Go at lunch for fresh catch.",
+   "q": "Beşiktaş Balık Pazarı, Çarşı, Beşiktaş, İstanbul",
+   "ll": [
+    41.0438,
+    29.0064
+   ],
+   "src": [
+    "https://yemek.com/besiktas-mekanlari/"
+   ]
+  },
+  {
+   "id": "sampiyonkokorec",
+   "cat": "ye",
+   "area": "bogaz",
+   "title": "Eat kokoreç at Şampiyon Kokoreç in Akaretler",
+   "desc": "Şampiyon Kokoreç has a branch in Akaretler, a short walk from Beşiktaş Çarşı, serving seasoned lamb kokoreç in a half loaf as a football-night classic.",
+   "tip": "Order it with tomato and spices; open late.",
+   "q": "Şampiyon Kokoreç, Akaretler, Beşiktaş, İstanbul",
+   "ll": [
+    41.0429,
+    29.0006
+   ],
+   "src": [
+    "https://yemek.com/besiktasta-en-iyi-kokorec-nerede-yenir/"
+   ]
+  },
+  {
+   "id": "hafizmustafa",
+   "cat": "ye",
+   "area": "bogaz",
+   "title": "Taste baklava at Hafız Mustafa 1864 in Nişantaşı",
+   "desc": "A historic sweet shop founded in 1864 with branches across Istanbul, serving baklava, lokum and rich desserts.",
+   "tip": "Order a mixed baklava plate with Turkish tea.",
+   "q": "Hafız Mustafa 1864, Teşvikiye Cd., Nişantaşı, Şişli, İstanbul",
+   "ll": [
+    41.0494,
+    28.9938
+   ],
+   "src": [
+    "https://hafizmustafa.com"
+   ]
+  },
+  {
+   "id": "hunkar",
+   "cat": "ye",
+   "area": "bogaz",
+   "title": "Taste Ottoman home cooking at Hünkar in Teşvikiye",
+   "desc": "Hünkar has served traditional Turkish and Ottoman dishes in Teşvikiye since 1950s, including hünkar beğendi (lamb on smoked aubergine purée).",
+   "tip": "Lunch is busy with locals; order the hünkar beğendi.",
+   "q": "Hünkar Restaurant, Mim Kemal Öke Caddesi, Teşvikiye, Şişli, İstanbul",
+   "ll": [
+    41.04694,
+    28.99306
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Hünkar_(restaurant)"
+   ]
+  },
+  {
+   "id": "kiyitarabya",
+   "cat": "ye",
+   "area": "bogaz",
+   "title": "Order the day's catch at Kıyı in Tarabya",
+   "desc": "Kıyı is a long-running seafood restaurant on the Tarabya waterfront, listed by the Michelin guide in its seafood category. It is known for a wide fish and shellfish selection and meze.",
+   "tip": "Book ahead for a terrace table at weekends; expect high prices.",
+   "q": "Kıyı Restaurant, Haydar Aliyev Caddesi, Tarabya, Sarıyer, İstanbul",
+   "ll": [
+    41.1355,
+    29.053
+   ],
+   "src": [
+    "https://guide.michelin.com/tr/tr/istanbul-province/istanbul/restaurant/k%C4%B1y%C4%B1",
+    "https://www.timeout.com/istanbul/tr/restoranlar/kiyi"
+   ]
+  },
+  {
+   "id": "balikcikahraman",
+   "cat": "ye",
+   "area": "bogaz",
+   "title": "Try turbot at Balıkçı Kahraman in Rumeli Kavağı",
+   "desc": "Balıkçı Kahraman, on İskele Caddesi by the Rumeli Kavağı harbour, is known for kalkan (turbot) and is listed in the Michelin guide.",
+   "tip": "Arrive by bus or ferry and book for weekends; prices are high.",
+   "q": "Balıkçı Kahraman, İskele Caddesi, Rumeli Kavağı, Sarıyer, İstanbul",
+   "ll": [
+    41.1752,
+    29.0746
+   ],
+   "src": [
+    "https://guide.michelin.com/tr/tr/istanbul-province/istanbul/restaurant/bal%C4%B1k%C3%A7%C4%B1-kahraman",
+    "https://www.timeout.com/istanbul/restaurants/balikci-kahraman"
+   ]
+  },
+  {
+   "id": "adembaba",
+   "cat": "ye",
+   "area": "bogaz",
+   "title": "Eat grilled fish at Adem Baba in Arnavutköy",
+   "desc": "Adem Baba has been one of Arnavutköy's best-known fish restaurants since the 1990s, serving simple grilled and fried fish and meze near the old waterfront.",
+   "tip": "Alcohol-free; open daily for lunch and dinner, so book at weekends.",
+   "q": "Adem Baba, Satış Meydanı Sokak No:2, Arnavutköy, Beşiktaş, İstanbul",
+   "ll": [
+    41.06755,
+    29.0436
+   ],
+   "src": [
+    "https://www.timeout.com/istanbul/tr/restoranlar/adem-baba",
+    "https://istanbuleats.com/?p=3213"
+   ]
+  },
+  {
+   "id": "canlibalikistinye",
+   "cat": "ye",
+   "area": "bogaz",
+   "title": "Have fish at Canlı Balık in İstinye",
+   "desc": "Canlı Balık on İstinye Caddesi is a casual fish restaurant near the İstinye harbour, serving fish soup and seasonal catch without alcohol.",
+   "tip": "Open daily from late morning; call to confirm hours.",
+   "q": "Canlı Balık, İstinye Caddesi 34, İstinye, Sarıyer, İstanbul",
+   "ll": [
+    41.11528,
+    29.05417
+   ],
+   "src": [
+    "https://www.timeout.com/istanbul/tr/restoranlar/canli-balik-istinye"
+   ]
+  },
+  {
+   "id": "ferry",
+   "cat": "dene",
+   "area": "bogaz",
+   "title": "Ride the public Bosphorus ferry from Beşiktaş",
+   "desc": "The Şehir Hatları Bosphorus line runs from Eminönü past the main sights to Anadolu Kavağı; Beşiktaş is one of the stops.",
+   "tip": "Sit on the open top deck; the full return takes about six hours.",
+   "q": "Beşiktaş İskelesi, Beşiktaş, İstanbul",
+   "ll": [
+    41.042,
+    29.0073
+   ],
+   "src": [
+    "https://www.sehirhatlari.istanbul",
+    "https://en.wikipedia.org/wiki/Beşiktaş"
+   ]
+  },
+  {
+   "id": "cruise",
+   "cat": "dene",
+   "area": "bogaz",
+   "title": "Take a sunset Bosphorus cruise from Ortaköy",
+   "desc": "Small boat tours leave from the Ortaköy and Kabataş piers for 1-2 hour trips under both bridges.",
+   "tip": "Agree price in advance; golden hour is best.",
+   "q": "Ortaköy Sahil, Ortaköy, Beşiktaş, İstanbul",
+   "ll": [
+    41.0477,
+    29.0262
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ortaköy"
+   ]
+  },
+  {
+   "id": "bebekwalk",
+   "cat": "dene",
+   "area": "bogaz",
+   "title": "Walk the shore from Bebek to Arnavutköy",
+   "desc": "A paved path lines the Bosphorus between Bebek Park and Arnavutköy with cafés and fishermen.",
+   "tip": "Go early on a weekend morning.",
+   "q": "Bebek Parkı, Bebek, Beşiktaş, İstanbul",
+   "ll": [
+    41.0774,
+    29.0434
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Bebek,_Beşiktaş"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ortakoywalk",
+   "cat": "dene",
+   "area": "bogaz",
+   "title": "Stroll the Beşiktaş to Ortaköy waterfront",
+   "desc": "The promenade passes Çırağan Palace, with joggers, fishermen and tea stands.",
+   "tip": "Sunset is best.",
+   "q": "Beşiktaş Sahil Yolu, Beşiktaş, İstanbul",
+   "ll": [
+    41.043,
+    29.011
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Beşiktaş"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "tulips",
+   "cat": "dene",
+   "area": "bogaz",
+   "title": "See the tulips at Emirgan Park in April",
+   "desc": "The Istanbul Tulip Festival fills Emirgan Park with millions of flowers every April.",
+   "tip": "Go on a weekday morning to avoid crowds.",
+   "q": "Emirgan Korusu, Emirgan, Sarıyer, İstanbul",
+   "ll": [
+    41.10861,
+    29.05611
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Emirgan_Park"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    4
+   ]
+  },
+  {
+   "id": "yildizpark",
+   "cat": "dene",
+   "area": "bogaz",
+   "title": "Walk through Yıldız Park",
+   "desc": "A former Ottoman palace garden with pavilions, ponds and woodland paths in the heart of Beşiktaş.",
+   "tip": "Free entry; tea at the Çadır Köşkü.",
+   "q": "Yıldız Parkı, Yıldız Mah., Beşiktaş, İstanbul",
+   "ll": [
+    41.0488,
+    29.0141
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Yıldız_Park"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stadium",
+   "cat": "dene",
+   "area": "bogaz",
+   "title": "Tour Beşiktaş's Tüpraş Stadyumu",
+   "desc": "The museum and stadium tour shows the trophy room, tunnel and stands of Tüpraş Stadyumu (formerly Vodafone Park) beside Dolmabahçe.",
+   "tip": "Book ahead; check the match calendar.",
+   "q": "Tüpraş Stadyumu, Beşiktaş, İstanbul",
+   "ll": [
+    41.03917,
+    28.99472
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Beşiktaş_Stadium"
+   ]
+  },
+  {
+   "id": "besiktasmarket",
+   "cat": "dene",
+   "area": "bogaz",
+   "title": "Browse the Beşiktaş Çarşı market",
+   "desc": "A busy local bazaar with fishmongers, bars and football-themed shops.",
+   "tip": "Match days have the best atmosphere.",
+   "q": "Beşiktaş Çarşı, Beşiktaş, İstanbul",
+   "ll": [
+    41.04389,
+    29.005
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Beşiktaş"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ortakoymarket",
+   "cat": "dene",
+   "area": "bogaz",
+   "title": "Shop the Ortaköy weekend craft market",
+   "desc": "The weekend market sells handmade jewellery, paintings and souvenirs beside the mosque.",
+   "tip": "Sunday is busiest; haggle gently.",
+   "q": "Ortaköy Pazarı, Ortaköy Meydanı, Beşiktaş, İstanbul",
+   "ll": [
+    41.0473,
+    29.0272
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ortaköy"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hisariwalk",
+   "cat": "dene",
+   "area": "bogaz",
+   "title": "Walk from Rumeli Hisarı to Emirgan along the shore",
+   "desc": "A scenic walk along Yahya Kemal Street passing the fortress, yalıs and fishermen.",
+   "tip": "About 45 minutes; return by bus.",
+   "q": "Rumeli Hisarı İskelesi, Sarıyer, İstanbul",
+   "ll": [
+    41.0847,
+    29.056
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Rumelihisarı"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mackacablecar",
+   "cat": "dene",
+   "area": "bogaz",
+   "title": "Ride the Maçka-Taşkışla cable car",
+   "desc": "A short cable car links Maçka with Taşkışla across the valley, popular for city views.",
+   "tip": "Cheap and quick; use Istanbulkart.",
+   "q": "Maçka Teleferik, Maçka, Şişli, İstanbul",
+   "ll": [
+    41.0439,
+    28.9939
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Maçka,_Istanbul"
+   ]
+  },
+  {
+   "id": "nisantasiwalk",
+   "cat": "dene",
+   "area": "bogaz",
+   "title": "Stroll Abdi İpekçi Street in Nişantaşı",
+   "desc": "The city's most elegant shopping street has Turkish and international boutiques and cafés.",
+   "tip": "Window shop, then coffee.",
+   "q": "Abdi İpekçi Caddesi, Nişantaşı, Şişli, İstanbul",
+   "ll": [
+    41.0487,
+    28.9948
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Abdi_İpekçi_Street"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kurucesme",
+   "cat": "dene",
+   "area": "bogaz",
+   "title": "Catch a concert at Kuruçeşme Arena",
+   "desc": "The open-air arena on the Bosphorus hosts summer concerts by Turkish and international acts.",
+   "tip": "Check listings; take a taxi after late shows.",
+   "q": "Kuruçeşme Arena, Kuruçeşme Cd., Beşiktaş, İstanbul",
+   "ll": [
+    41.05217,
+    29.03364
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Kuruçeşme"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "tarabyawalk",
+   "cat": "dene",
+   "area": "bogaz",
+   "title": "Walk the Tarabya Bay promenade",
+   "desc": "A wide promenade by the bay with fishing boats, parks and views toward the Black Sea.",
+   "tip": "Evenings are lively.",
+   "q": "Tarabya Sahil Yolu, Tarabya, Sarıyer, İstanbul",
+   "ll": [
+    41.135,
+    29.053
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Tarabya"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sariyerfish",
+   "cat": "dene",
+   "area": "bogaz",
+   "title": "Browse the Sarıyer fish market",
+   "desc": "A lively market by the pier selling fish, mussels and seasonal produce.",
+   "tip": "Early morning is best.",
+   "q": "Sarıyer Balık Pazarı, Sarıyer, İstanbul",
+   "ll": [
+    41.1666,
+    29.057
+   ],
+   "src": [
+    "https://www.timeout.com/istanbul/things-to-do/sariyer-guide"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "topuzlutheatre",
+   "cat": "dene",
+   "area": "bogaz",
+   "title": "See a show at Cemil Topuzlu Open-Air Theatre",
+   "desc": "Opened in 1947 in Harbiye, the theatre hosts concerts and festivals under the stars.",
+   "tip": "Check the programme and book.",
+   "q": "Cemil Topuzlu Açıkhava Tiyatrosu, Harbiye, Şişli, İstanbul",
+   "ll": [
+    41.04583,
+    28.99028
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Cemil_Topuzlu_Open-Air_Theatre"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  }
+ ]
+}

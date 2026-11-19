@@ -1,0 +1,962 @@
+{
+ "new": [
+  {
+   "id": "izmirclocktower",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Izmir Clock Tower on Konak Square",
+   "desc": "Designed by Raymond Charles Père and finished in 1901 for the 25th anniversary of Abdülhamid II's reign. The 25 m tower with Ottoman-Moorish ornament and four fountains is the symbol of the city.",
+   "tip": "Best at golden hour when the square fills with pigeons and tea sellers. Free and always accessible.",
+   "q": "Saat Kulesi, Konak Meydanı, Konak, İzmir",
+   "ll": [
+    38.41889,
+    27.12889
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Izmir_Clock_Tower"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "konakpier",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Wander the iron halls of Konak Pier",
+   "desc": "Built in 1890 to a design attributed to Gustave Eiffel's workshop as the customs house of the port, now a mall and event venue. Its iron-and-brick hall faces the bay beside the clock tower.",
+   "tip": "Walk through at dusk and continue along the water. Cafes inside and on the quay.",
+   "q": "Konak Pier, Atatürk Caddesi, Konak, İzmir",
+   "ll": [
+    38.4193,
+    27.1278
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Konak_Pier"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "konakyalimosque",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the tiled Yalı Mosque by the sea",
+   "desc": "The Konak (Yalı) Mosque was built in 1755 by Aydınoğlu Yakup Ağa and is covered in Kütahya tiles. It is a small octagonal mosque on the waterfront next to the clock tower.",
+   "tip": "Dress modestly and visit outside prayer times; the tile interior is the highlight.",
+   "q": "Yalı Camii, Konak Meydanı, Konak, İzmir",
+   "ll": [
+    38.41905,
+    27.12885
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Konak_Mosque"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kizlaragasihan",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step into the 1744 Kızlarağası Han courtyard",
+   "desc": "The largest caravanserai in Kemeraltı was built in 1744 by Fatma Hanım, daughter of the chief harem eunuch. Its two-storey arcaded courtyard now holds craft shops and cafes.",
+   "tip": "Visit in the morning before shops fill up, then sit for tea in the courtyard.",
+   "q": "Kızlarağası Hanı, Fevzipaşa Bulvarı, Kemeraltı, Konak, İzmir",
+   "ll": [
+    38.41862,
+    27.13525
+   ],
+   "src": [
+    "https://theculturetrip.com/europe/turkey/articles/a-brief-history-of-izmirs-grand-kizlaragasi-caravanserai",
+    "https://en.wikipedia.org/wiki/Kemeralt%C4%B1"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hisarmosque",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Hisar Mosque, Izmir's largest Ottoman mosque",
+   "desc": "Built in 1598 by Hacı Hasan Ağa beside Kızlarağası Han, the Hisar Mosque is the biggest Ottoman-era mosque in the city and one of the oldest buildings of the bazaar core.",
+   "tip": "Combine with Kızlarağası Han next door; avoid prayer times.",
+   "q": "Hisar Camii, Kemeraltı, Konak, İzmir",
+   "ll": [
+    38.41874,
+    27.13417
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Hisar_Mosque,_%C4%B0zmir"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "havrasokagi",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stroll Havra Sokağı, the street of synagogues",
+   "desc": "Havra Sokağı in Kemeraltı was the heart of Smyrna's Sephardic community, with several synagogues dating from the 17th to 19th centuries on or around the street. Today it is lined with shops, small restaurants and spice stalls.",
+   "tip": "Go by day; the area is quiet in the evening. Synagogue visits are arranged through the Izmir Jewish community or municipal guides.",
+   "q": "Havra Sokağı, Kemeraltı, Konak, İzmir",
+   "ll": [
+    38.41878,
+    27.1373
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/points-of-interest/havra-sokagi/1493283",
+    "https://www.nomads-travel-guide.com/places/havra-sokagi-synagogue-street"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bikurholimsyn",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Bikur Holim Synagogue",
+   "desc": "Bikur Holim is one of Izmir's surviving historic synagogues, restored in recent years. It is one of a cluster of Sephardic synagogues around Havra Sokağı.",
+   "tip": "Check opening with the Izmir Jewish community or municipal guides; visits are often by arrangement.",
+   "q": "Bikur Holim Sinagogu, Havra Sokağı, Kemeraltı, Konak, İzmir",
+   "ll": [
+    38.4189,
+    27.1376
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/History_of_the_Jews_in_Izmir"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "agoraofsmyrna",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore the Agora of Smyrna and its vaulted arcades",
+   "desc": "The Roman agora was rebuilt under Marcus Aurelius after an earthquake in 178 AD, and standing columns and vaulted galleries survive. It sits on the slope under Kadifekale, close to Kemeraltı.",
+   "tip": "Open daily with an entry fee; allow an hour. Afternoon light is good on the Corinthian columns.",
+   "q": "Smyrna Agorası, Namazgah, Konak, İzmir",
+   "ll": [
+    38.41989,
+    27.1399
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Agora_of_Smyrna"
+   ]
+  },
+  {
+   "id": "kadifekale",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Watch the sunset from Kadifekale fortress",
+   "desc": "Kadifekale (Mount Pagos) was fortified by Lysimachus, a successor of Alexander the Great, around 300 BC. The Roman and Byzantine walls overlook the whole bay.",
+   "tip": "Take a taxi or bus up; the view is best at sunset. Go with company after dark.",
+   "q": "Kadifekale, Kadifekale Mahallesi, Konak, İzmir",
+   "ll": [
+    38.4104,
+    27.1457
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Kadifekale"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "basmanestation",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Look at Basmane Station, Izmir's oldest rail terminus",
+   "desc": "Basmane Terminal dates from the 1860s Ottoman-British railway to Aydın. The 19th-century building and the busy hotel quarter around it show a snapshot of old Smyrna.",
+   "tip": "Step inside the hall and walk to Anafartalar Caddesi; the area is rough at night.",
+   "q": "Basmane Garı, Basmane, Konak, İzmir",
+   "ll": [
+    38.4233,
+    27.1444
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Basmane_railway_station"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "alsancakstation",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the 1858 Alsancak Station",
+   "desc": "Alsancak Terminal on the bay was built in 1858 as the western terminus of the Smyrna-Aydın railway. Its old train sheds are a rare survivor of Ottoman railway architecture.",
+   "tip": "Combine with a walk down Kıbrıs Şehitleri Caddesi toward the Kordon.",
+   "q": "Alsancak Garı, Alsancak, Konak, İzmir",
+   "ll": [
+    38.4358,
+    27.1476
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Alsancak_railway_station"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ataturkmuseumizmir",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Tour the Atatürk Museum in Izmir",
+   "desc": "The house on the Kordon is where Mustafa Kemal Atatürk stayed during his Izmir visits in the 1920s. It is preserved with his furniture and belongings and run as a small museum.",
+   "tip": "Entry is free; check opening days and allow thirty minutes.",
+   "q": "Atatürk Müzesi, Cumhuriyet Bulvarı, Alsancak, Konak, İzmir",
+   "ll": [
+    38.4328,
+    27.1398
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Atat%C3%BCrk_Museum_(%C4%B0zmir)"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "izmirarchaeology",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See Roman marbles at the Izmir Archaeology Museum",
+   "desc": "The Izmir Archaeological Museum holds sculptures from Smyrna, Ephesus and other Aegean sites, including statues of Poseidon and Demeter from the Agora, and Bronze Age finds.",
+   "tip": "Closed on Mondays; allow 90 minutes. The Ethnography Museum is next door.",
+   "q": "İzmir Arkeoloji Müzesi, Bahribaba Parkı, Konak, İzmir",
+   "ll": [
+    38.41635,
+    27.1291
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/%C4%B0zmir_Archaeological_Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "izmirethnography",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Izmir Ethnography Museum in the old St Roch Hospital",
+   "desc": "The museum is housed in the former St Roch Hospital, a 19th-century building next to the Archaeology Museum. Its displays show Aegean craft, costume and traditional life, including camel-wrestling gear.",
+   "tip": "Combine with the archaeology museum next door.",
+   "q": "İzmir Etnografya Müzesi, Bahribaba Parkı, Konak, İzmir",
+   "ll": [
+    38.4157,
+    27.1297
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/%C4%B0zmir_Ethnography_Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "arkasartcenter",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Arkas Art Center on the Alsancak seafront",
+   "desc": "Arkas Art Center is housed in a restored Neoclassical building in Alsancak and is run by the Arkas shipping group. It hosts exhibitions of Ottoman orientalist painting and Turkish contemporary art.",
+   "tip": "Check current shows online; entry is generally free.",
+   "q": "Arkas Sanat Merkezi, Atatürk Caddesi, Alsancak, Konak, İzmir",
+   "ll": [
+    38.4347,
+    27.1362
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Arkas_Art_Center"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "izmirhistoryart",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Browse the Museum of History and Art in Kültürpark",
+   "desc": "The Izmir Museum of History and Art holds archaeological, ethnographic and numismatic collections. It stands inside Kültürpark.",
+   "tip": "Check opening days; combine with a walk in Kültürpark.",
+   "q": "İzmir Tarih ve Sanat Müzesi, Kültürpark, Konak, İzmir",
+   "ll": [
+    38.4304,
+    27.1469
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/K%C3%BClt%C3%BCrpark_(%C4%B0zmir)"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "saygunartcenter",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Ahmet Adnan Saygun Arts Center in Güzelyalı",
+   "desc": "The arts center is named after the Izmir-born composer Ahmed Adnan Saygun and hosts concerts and performances in the Güzelyalı district.",
+   "tip": "Check the programme at the venue; the seafront promenade is nearby.",
+   "q": "Ahmet Adnan Saygun Sanat Merkezi, Güzelyalı, Konak, İzmir",
+   "ll": [
+    38.3983,
+    27.0599
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ahmed_Adnan_Saygun"
+   ]
+  },
+  {
+   "id": "izmirasansor",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Ride the Asansör and view the bay from Karataş",
+   "desc": "The Asansör, a 51 m tall elevator tower, was built in 1907 by the banker Nesim Levi Bayraklıoğlu in Karataş. It lifts people from the shore road to a terrace with views of the bay.",
+   "tip": "Free to visit; the terrace cafe is best at sunset.",
+   "q": "Tarihi Asansör, Dario Moreno Sokağı, Karataş, Konak, İzmir",
+   "ll": [
+    38.40875,
+    27.1143
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Asans%C3%B6r_(%C4%B0zmir)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stpolycarp",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit St. Polycarp Church, the oldest in Izmir",
+   "desc": "St. Polycarp is a Roman Catholic church rebuilt in 1625 on the site linked to Polycarp, Bishop of Smyrna, martyred around AD 155. It is the oldest surviving church in the city.",
+   "tip": "Visit by arrangement and check opening hours.",
+   "q": "Aziz Polikarp Kilisesi, Anafartalar Caddesi, Konak, İzmir",
+   "ll": [
+    38.4216,
+    27.141
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/St._Polycarp_Church,_Izmir"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "salepciogluhan",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Salepçioğlu Mosque in Kemeraltı",
+   "desc": "The Salepçioğlu Mosque is a 19th-century mosque in Kemeraltı known for its decorated stone portal and is among the notable mosques of the bazaar.",
+   "tip": "Visit outside prayer hours as part of a bazaar walk.",
+   "q": "Salepçioğlu Camii, Kemeraltı, Konak, İzmir",
+   "ll": [
+    38.4172,
+    27.1362
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Kemeralt%C4%B1"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hatuniyemosque",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Hatuniye Mosque in Kemeraltı",
+   "desc": "Hatuniye Mosque dates from the 18th century and is one of the main Ottoman mosques in Kemeraltı, close to the shops of Anafartalar Caddesi.",
+   "tip": "Visit outside prayer times.",
+   "q": "Hatuniye Camii, Kemeraltı, Konak, İzmir",
+   "ll": [
+    38.4173,
+    27.1389
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Kemeralt%C4%B1"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "izmirseamuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Board decommissioned warships at the Sea Museum",
+   "desc": "The Izmir Naval Museum (Deniz Müzesi) in İnciraltı exhibits retired Turkish naval ships that visitors can board. It lies in the İnciraltı recreation area on the south shore.",
+   "tip": "Check current opening and ticket arrangements; allow 90 minutes.",
+   "q": "İzmir Deniz Müzesi, İnciraltı, Narlıdere, İzmir",
+   "ll": [
+    38.392,
+    27.0289
+   ],
+   "src": [
+    "https://izmir.ktb.gov.tr/EN-110145/balcova.html"
+   ]
+  },
+  {
+   "id": "dostlarboyoz",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat boyoz at Dostlar Fırın in Alsancak",
+   "desc": "Dostlar Fırın has baked boyoz, the layered Sephardic pastry of Izmir, on Kıbrıs Şehitleri Caddesi since 1983. It serves it plain or stuffed with cheese, eggplant or artichoke.",
+   "tip": "Order it with a boiled egg for breakfast, early before it sells out.",
+   "q": "Dostlar Fırın, Kıbrıs Şehitleri Caddesi, Alsancak, Konak, İzmir",
+   "ll": [
+    38.4349,
+    27.1423
+   ],
+   "src": [
+    "https://guide.michelin.com/tr/en/article/features/turkiye-from-the-bazaar-to-the-vineyard-from-the-inn-to-the-beach-in-pursuit-of-izmir-s-delicacies",
+    "https://blog.turkishairlines.com/en/izmir-gourmet-guide-what-to-eat-where/"
+   ]
+  },
+  {
+   "id": "zeynelgevrek",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have gevrek and tea at Zeynel Ergin Gevrek Fırını",
+   "desc": "A neighbourhood bakery in Alsancak known for gevrek, the crisp Izmir ring bread, along with boyoz and kumru. It is called one of the city's oldest gevrek bakeries.",
+   "tip": "Eat it warm with a tea at breakfast.",
+   "q": "Zeynel Ergin Gevrek Fırını, 1466. Sokak, Alsancak, Konak, İzmir",
+   "ll": [
+    38.4349,
+    27.1439
+   ],
+   "src": [
+    "https://blog.turkishairlines.com/en/izmir-gourmet-guide-what-to-eat-where/"
+   ]
+  },
+  {
+   "id": "kumrucusevki",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try the kumru sandwich at Kumrucu Şevki",
+   "desc": "Kumru is the Izmir sandwich of sucuk, cheese and tomato in a seeded bun. Kumrucu Şevki in Alsancak is one of the places most often named for it.",
+   "tip": "Order with an ayran; expect a queue at lunch.",
+   "q": "Kumrucu Şevki, Ali Çetinkaya Bulvarı, Alsancak, Konak, İzmir",
+   "ll": [
+    38.4347,
+    27.1408
+   ],
+   "src": [
+    "https://blog.turkishairlines.com/en/izmir-gourmet-guide-what-to-eat-where/"
+   ]
+  },
+  {
+   "id": "kizlaragasicay",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink tea in the Kızlarağası Han courtyard",
+   "desc": "The old caravanserai courtyard hosts a tea garden where Turkish tea and coffee are served among craft shops. It is the best place to rest during a bazaar walk.",
+   "tip": "Late morning is calmest.",
+   "q": "Kızlarağası Hanı Çay Bahçesi, Kemeraltı, Konak, İzmir",
+   "ll": [
+    38.41858,
+    27.1353
+   ],
+   "src": [
+    "https://theculturetrip.com/europe/turkey/articles/a-brief-history-of-izmirs-grand-kizlaragasi-caravanserai"
+   ]
+  },
+  {
+   "id": "sekercialigalip",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Buy Turkish delight at Şekerci Ali Galip",
+   "desc": "Şekerci Ali Galip, founded in 1884 and registered in 1901, is one of the oldest businesses in Kemeraltı and sells Turkish delight and confectionery.",
+   "tip": "Buy a mixed box as gifts.",
+   "q": "Şekerci Ali Galip, Anafartalar Caddesi, Kemeraltı, Konak, İzmir",
+   "ll": [
+    38.4193,
+    27.1326
+   ],
+   "src": [
+    "http://hafizaizmir.com/en/century-old-traces-of-businesses-over-a-century-old-in-kemeraltin/"
+   ]
+  },
+  {
+   "id": "helvacialikemeralti",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste sesame helva at Helvacı Ali",
+   "desc": "Helvacı Ali has sold helva in Kemeraltı since the 1950s, in several varieties.",
+   "tip": "Ask for a taste before buying.",
+   "q": "Helvacı Ali, Kemeraltı, Konak, İzmir",
+   "ll": [
+    38.4185,
+    27.1341
+   ],
+   "src": [
+    "https://mekan360.com/sanaltur_helvacialikemeralti_20619.html"
+   ]
+  },
+  {
+   "id": "hisaronusambali",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat şambali at Hisarönü Şambalıcısı",
+   "desc": "Şambali is a semolina syrup cake with almonds and a Kemeraltı classic. Hisarönü Şambalıcısı has served the bazaar since 1942.",
+   "tip": "Pair it with fresh lokma nearby.",
+   "q": "Hisarönü Şambalıcısı, Hisarönü, Kemeraltı, Konak, İzmir",
+   "ll": [
+    38.4188,
+    27.134
+   ],
+   "src": [
+    "http://hafizaizmir.com/en/century-old-traces-of-businesses-over-a-century-old-in-kemeraltin/"
+   ]
+  },
+  {
+   "id": "guvenlokantasi",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have lunch at Güven Lokantası, serving since 1939",
+   "desc": "Güven Lokantası is a historic bazaar restaurant serving home-style Turkish dishes since 1939 and is one of the social hubs of Kemeraltı.",
+   "tip": "Go at lunchtime, when the stews are freshest.",
+   "q": "Güven Lokantası, Kemeraltı, Konak, İzmir",
+   "ll": [
+    38.4188,
+    27.1356
+   ],
+   "src": [
+    "http://hafizaizmir.com/en/century-old-traces-of-businesses-over-a-century-old-in-kemeraltin/"
+   ]
+  },
+  {
+   "id": "gulkebap",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat kebab at Gül Kebap in Kemeraltı",
+   "desc": "Gül Kebap is a Kemeraltı kebab house opened some six decades ago by Fuat Kuyum and is known for grilled meat.",
+   "tip": "Come at lunch.",
+   "q": "Gül Kebap, Kemeraltı, Konak, İzmir",
+   "ll": [
+    38.419,
+    27.1354
+   ],
+   "src": [
+    "http://hafizaizmir.com/en/century-old-traces-of-businesses-over-a-century-old-in-kemeraltin/"
+   ]
+  },
+  {
+   "id": "kemeraltiborekcisi",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat börek at Kemeraltı Börekçisi",
+   "desc": "Kemeraltı Börekçisi is a historic börek and pastry shop counted among the long-standing eateries of the bazaar.",
+   "tip": "Go for breakfast with ayran or tea.",
+   "q": "Kemeraltı Börekçisi, Kemeraltı, Konak, İzmir",
+   "ll": [
+    38.4186,
+    27.1348
+   ],
+   "src": [
+    "http://hafizaizmir.com/en/century-old-traces-of-businesses-over-a-century-old-in-kemeraltin/"
+   ]
+  },
+  {
+   "id": "sakizalsancak",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine at Sakız Alsancak by day or night",
+   "desc": "Sakız Alsancak is popular with locals and visitors, serving lunch by day and meyhane-style meze at night.",
+   "tip": "Reserve for the evening.",
+   "q": "Sakız, Alsancak, Konak, İzmir",
+   "ll": [
+    38.4338,
+    27.1413
+   ],
+   "src": [
+    "https://chasingthedonkey.com/best-restaurants-in-izmir-where-to-eat"
+   ]
+  },
+  {
+   "id": "birincikordon",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat grilled fish at Birinci Kordon Balık",
+   "desc": "Birinci Kordon Balık is a simple fish restaurant listed in the Michelin Guide, on Atatürk Caddesi near the Alsancak waterfront.",
+   "tip": "Choose the fish by weight and pair with meze.",
+   "q": "Birinci Kordon Balık Restoran, Atatürk Caddesi, Alsancak, Konak, İzmir",
+   "ll": [
+    38.4325,
+    27.1377
+   ],
+   "src": [
+    "https://guide.michelin.com/us/en/izmir/izmir_2809416/restaurant/birinci-kordon-bal%C4%B1k-restoran"
+   ]
+  },
+  {
+   "id": "tavacirecep",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat kokoreç and tava at Tavacı Recep Usta",
+   "desc": "Tavacı Recep Usta is known for grilled offal and tava dishes in Alsancak, and its master is called Izmir's oldest living kokoreç maker.",
+   "tip": "Try the kokoreç and tava.",
+   "q": "Tavacı Recep Usta, Alsancak, Konak, İzmir",
+   "ll": [
+    38.4341,
+    27.1425
+   ],
+   "src": [
+    "https://chasingthedonkey.com/best-restaurants-in-izmir-where-to-eat"
+   ]
+  },
+  {
+   "id": "rizabalik",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order fish at Rıza Balık in Alsancak",
+   "desc": "Rıza Balık is a seafood restaurant in Alsancak recommended by travel guides for fresh fish and meze.",
+   "tip": "Reserve at weekends.",
+   "q": "Rıza Balık, Alsancak, Konak, İzmir",
+   "ll": [
+    38.4338,
+    27.14
+   ],
+   "src": [
+    "https://chasingthedonkey.com/best-restaurants-in-izmir-where-to-eat"
+   ]
+  },
+  {
+   "id": "buzukimeyhane",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Spend an evening at Buzuki Meyhane",
+   "desc": "Buzuki Meyhane is a highly rated meyhane in Alsancak serving meze, fish and rakı.",
+   "tip": "Book ahead for weekends.",
+   "q": "Buzuki Meyhane, Alsancak, Konak, İzmir",
+   "ll": [
+    38.435,
+    27.143
+   ],
+   "src": [
+    "https://www.tripadvisor.com/RestaurantsNear-g298006-d553382-Alsancak-Izmir_Izmir_Province_Turkish_Aegean_Coast.html"
+   ]
+  },
+  {
+   "id": "kordonyengec",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat seafood at Kordon Yengeç",
+   "desc": "Kordon Yengeç is a seafood restaurant on the Kordon praised for fresh fish.",
+   "tip": "Sit by the water at sunset.",
+   "q": "Kordon Yengeç Restaurant, Kordon, Alsancak, Konak, İzmir",
+   "ll": [
+    38.43,
+    27.139
+   ],
+   "src": [
+    "https://www.tripadvisor.com/Restaurants-g298001-c33-Izmir_Province_Turkish_Aegean_Coast.html"
+   ]
+  },
+  {
+   "id": "damlarestaurant",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Enjoy a meyhane night at Damla Restaurant",
+   "desc": "Damla Restaurant in Konak is a local-favourite meyhane.",
+   "tip": "Go in the evening.",
+   "q": "Damla Restaurant, Konak, İzmir",
+   "ll": [
+    38.4195,
+    27.132
+   ],
+   "src": [
+    "https://www.tripadvisor.com/Restaurants-g298006-Izmir_Izmir_Province_Turkish_Aegean_Coast.html"
+   ]
+  },
+  {
+   "id": "kemalkutucular",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat at Kemal Kutucular, in the same spot since 1943",
+   "desc": "Kemal Kutucular is a traditional Kemeraltı eatery that has stayed in the same location since 1943, serving classic Izmir bazaar food.",
+   "tip": "Go at lunch and ask for the daily specials.",
+   "q": "Kemal Kutucular, Kemeraltı, Konak, İzmir",
+   "ll": [
+    38.4187,
+    27.135
+   ],
+   "src": [
+    "http://hafizaizmir.com/en/century-old-traces-of-businesses-over-a-century-old-in-kemeraltin/"
+   ]
+  },
+  {
+   "id": "kemeraltibazaar",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Get lost in the Kemeraltı bazaar",
+   "desc": "Kemeraltı is the bazaar of Izmir, with roots in the 17th century, a maze of lanes, hans, mosques and shops. It is one of the oldest open-air markets in the region.",
+   "tip": "Go before noon on weekdays; many shops close on Sundays.",
+   "q": "Kemeraltı Çarşısı, Konak, İzmir",
+   "ll": [
+    38.4193,
+    27.137
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Kemeralt%C4%B1",
+    "https://izmir.ktb.gov.tr/EN-239236/kemeralti-bazaar.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kordonwalk",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the Kordon waterfront from Konak to Alsancak",
+   "desc": "The Kordon is the seafront promenade of Izmir with cafes and bars on its inland side, running along the bay up to Alsancak.",
+   "tip": "Best at dusk.",
+   "q": "Kordon, Alsancak, Konak, İzmir",
+   "ll": [
+    38.43,
+    27.1375
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/articles/things-to-do-in-izmir"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "konakferry",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cross the bay on a ferry from Konak",
+   "desc": "Izmir ferries run between Konak and Karşıyaka, Bostanlı and other piers around the bay, with gulls following the boat. They are part of everyday transport.",
+   "tip": "Use an İzmirim card; take the top deck at sunset.",
+   "q": "Konak İskelesi, Konak, İzmir",
+   "ll": [
+    38.4185,
+    27.1279
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/articles/things-to-do-in-izmir"
+   ]
+  },
+  {
+   "id": "uckuyularsunset",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Watch the sunset from the Üçkuyular seafront",
+   "desc": "Üçkuyular and Güzelyalı have a long waterfront promenade facing the bay, where locals walk and cycle at dusk.",
+   "tip": "Bring a snack and walk toward Balçova.",
+   "q": "Üçkuyular Sahili, Balçova, İzmir",
+   "ll": [
+    38.3987,
+    27.069
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Bal%C3%A7ova"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kulturpark",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk through Kültürpark, Izmir's central park",
+   "desc": "Kültürpark opened in 1936 on the area burned in 1922 and is the green heart of Izmir, with a lake, museums, a theatre and the fairgrounds.",
+   "tip": "Free entry; relax by the pond.",
+   "q": "Kültürpark, Konak, İzmir",
+   "ll": [
+    38.4298,
+    27.1451
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/K%C3%BClt%C3%BCrpark_(%C4%B0zmir)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "izmirfair",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Go to the Izmir International Fair",
+   "desc": "The Izmir International Fair has been held in Kültürpark since 1936 and is Turkey's oldest trade fair, held in early September.",
+   "tip": "Dates change yearly; check the official site.",
+   "q": "İzmir Enternasyonal Fuarı, Kültürpark, Konak, İzmir",
+   "ll": [
+    38.4286,
+    27.1474
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/%C4%B0zmir_International_Fair"
+   ],
+   "months": [
+    9
+   ]
+  },
+  {
+   "id": "balcovacablecar",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Ride the Balçova cable car",
+   "desc": "The Balçova cable car (teleferik) has run since 1974 and climbs the hillside with views over the bay.",
+   "tip": "Check that it is operating; sunset is best.",
+   "q": "Balçova Teleferik, Balçova, İzmir",
+   "ll": [
+    38.3956,
+    27.0518
+   ],
+   "src": [
+    "https://www.izmir.bel.tr/en/News/balcova-teleferic-is-on-reuse-after-many-years/14604/162"
+   ]
+  },
+  {
+   "id": "agamemnonbaths",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Soak in the Agamemnon thermal baths",
+   "desc": "The Agamemnon springs have been used since antiquity and a Greek Anthology epigram praises them. Today they are part of the Balçova thermal hotel and spa complex.",
+   "tip": "Check bath access and booking.",
+   "q": "Balçova Termal, Agamemnon Kaplıcaları, Balçova, İzmir",
+   "ll": [
+    38.3887,
+    27.051
+   ],
+   "src": [
+    "https://hurriyetdailynews.com/agamemnon-hot-springs-heal-for-centuries---108171",
+    "https://testvisitizmir.izmir.bel.tr/en/Destinasyon/11112"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "inciraltiforest",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk in İnciraltı Urban Forest",
+   "desc": "İnciraltı Urban Forest on the south shore offers trails, picnic spots and views of the gulf.",
+   "tip": "Weekdays are quiet.",
+   "q": "İnciraltı Kent Ormanı, İnciraltı, Narlıdere, İzmir",
+   "ll": [
+    38.39,
+    27.03
+   ],
+   "src": [
+    "https://izmir.ktb.gov.tr/EN-110145/balcova.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "narlidereshore",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Stroll the Narlıdere seafront",
+   "desc": "Narlıdere sits on the southern coast of the gulf west of Balçova and has a seafront promenade and tea gardens.",
+   "tip": "Go in the late afternoon.",
+   "q": "Narlıdere Sahili, Narlıdere, İzmir",
+   "ll": [
+    38.3935,
+    27.007
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Narl%C4%B1dere"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "dariomoreno",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk Dario Moreno Street in Karataş",
+   "desc": "Dario Moreno Street in Karataş is named after the Sephardic singer born in Izmir and leads to the Asansör past old houses.",
+   "tip": "Combine with the Asansör.",
+   "q": "Dario Moreno Sokağı, Karataş, Konak, İzmir",
+   "ll": [
+    38.4084,
+    27.115
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Dario_Moreno"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "konaktram",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Ride the Konak tram along the coast",
+   "desc": "The Izmir Tram runs along the waterfront between Konak and Alsancak.",
+   "tip": "Hop on at Konak.",
+   "q": "Konak Tramvay Durağı, Konak, İzmir",
+   "ll": [
+    38.4199,
+    27.1285
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/%C4%B0zmir_Tram"
+   ]
+  },
+  {
+   "id": "goztepematch",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "See a Göztepe football match at Gürsel Aksel Stadium",
+   "desc": "Göztepe, founded in 1925, play at the Gürsel Aksel Stadium in the Göztepe district.",
+   "tip": "Buy tickets online.",
+   "q": "Gürsel Aksel Stadyumu, Göztepe, Konak, İzmir",
+   "ll": [
+    38.3995,
+    27.0892
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/G%C3%B6ztepe_S.K."
+   ]
+  },
+  {
+   "id": "bikekordon",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cycle the seafront path from Göztepe to Güzelyalı",
+   "desc": "A waterfront path runs along the bay from Göztepe to Güzelyalı.",
+   "tip": "Rent a bike or bring your own.",
+   "q": "Güzelyalı Sahil Yolu, Konak, İzmir",
+   "ll": [
+    38.403,
+    27.088
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/articles/things-to-do-in-izmir"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

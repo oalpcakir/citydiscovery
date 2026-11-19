@@ -1,0 +1,1055 @@
+{
+ "new": [
+  {
+   "id": "galatatower",
+   "cat": "gor",
+   "area": "beyoglu",
+   "title": "Climb the Galata Tower at sunset",
+   "desc": "The Galata Tower is a stone tower built by the Genoese in 1348 as the apex of their walled colony. A lift and a few stairs lead to a viewing gallery with a 360-degree panorama of the Golden Horn, the Bosphorus and the Historic Peninsula.",
+   "tip": "Queues are long at sunset; buy a timed ticket online or go at opening time. Entry is paid.",
+   "q": "Galata Kulesi, Bereketzade, Beyoğlu, İstanbul",
+   "ll": [
+    41.02563,
+    28.97418
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Galata_Tower"
+   ]
+  },
+  {
+   "id": "peramuseum",
+   "cat": "gor",
+   "area": "beyoglu",
+   "title": "See The Tortoise Trainer at the Pera Museum",
+   "desc": "The Pera Museum opened in 2005 in the 1893 Bristol Hotel building and holds Osman Hamdi Bey's The Tortoise Trainer, Orientalist paintings, Kütahya tiles and Anatolian weights and measures. It also stages major temporary exhibitions.",
+   "tip": "Closed on Mondays; check the website for free-entry evenings. Allow about two hours.",
+   "q": "Pera Müzesi, Meşrutiyet Caddesi, Tepebaşı, Beyoğlu, İstanbul",
+   "ll": [
+    41.03112,
+    28.97399
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Pera_Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "istanbulmodern",
+   "cat": "gor",
+   "area": "beyoglu",
+   "title": "Explore Turkish art at Istanbul Modern",
+   "desc": "Istanbul Modern, founded in 2004, moved in 2022 into a new Renzo Piano building on the Karaköy waterfront. Its collection covers Turkish modern and contemporary art from the early 20th century to today, with a cinema and a rooftop cafe.",
+   "tip": "Closed on Mondays. Combine it with a stroll through nearby Galataport.",
+   "q": "İstanbul Modern, Meclis-i Mebusan Caddesi, Karaköy, Beyoğlu, İstanbul",
+   "ll": [
+    41.02631,
+    28.97469
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Istanbul_Modern"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "saltgalata",
+   "cat": "gor",
+   "area": "beyoglu",
+   "title": "Visit SALT Galata in the old Ottoman Bank",
+   "desc": "SALT Galata occupies the Ottoman Bank headquarters, designed by Alexandre Vallaury and opened in 1892. It hosts art and research exhibitions, a library and an archive about the bank's history, and has a cafe.",
+   "tip": "Entry to the exhibitions is free. Closed on Mondays.",
+   "q": "SALT Galata, Bankalar Caddesi, Karaköy, Beyoğlu, İstanbul",
+   "ll": [
+    41.02307,
+    28.97402
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/SALT_(cultural_institution)"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "stanthony",
+   "cat": "gor",
+   "area": "beyoglu",
+   "title": "See St. Anthony of Padua, Istanbul's largest Catholic church",
+   "desc": "Built in 1912 in neo-Gothic style by the architect Giulio Mongeri, it stands on İstiklal Avenue and replaced an earlier church of 1725. Angelo Roncalli, later Pope John XXIII, served in Istanbul as apostolic delegate.",
+   "tip": "Respect services; the church is free to enter. The Mass schedule is posted at the gate.",
+   "q": "St. Anthony of Padua Church, İstiklal Caddesi, Beyoğlu, İstanbul",
+   "ll": [
+    41.03299,
+    28.978
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/St._Anthony_of_Padua_Church,_Istanbul"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "cicekpasaji",
+   "cat": "gor",
+   "area": "beyoglu",
+   "title": "Walk through the Çiçek Pasajı (Cité de Pera)",
+   "desc": "Built in 1876 as the Cité de Pera, this arcade near Galatasaray Square later housed flower sellers and then meyhanes. Its renovated gallery is now a lively place of tavernas and musicians.",
+   "tip": "Visit in the evening when the passage fills up. Check prices before ordering.",
+   "q": "Çiçek Pasajı, İstiklal Caddesi, Beyoğlu, İstanbul",
+   "ll": [
+    41.03385,
+    28.97706
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Çiçek_Pasajı"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hagiatriada",
+   "cat": "gor",
+   "area": "beyoglu",
+   "title": "Step inside Aya Triada, Taksim's Greek Orthodox church",
+   "desc": "The Hagia Triada Church was built in 1880 for Istanbul's Greek community and is the largest Greek Orthodox church in the city, with a domed interior and fine icons. It stands right beside Taksim Square.",
+   "tip": "Free to enter during daytime hours; modest dress is expected.",
+   "q": "Ayios Triada Church, Meşelik Sokak, Taksim, Beyoğlu, İstanbul",
+   "ll": [
+    41.03663,
+    28.98532
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Hagia_Triada_Greek_Orthodox_Church,_Istanbul"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "taksimmonument",
+   "cat": "gor",
+   "area": "beyoglu",
+   "title": "See the Republic Monument on Taksim Square",
+   "desc": "The Republic Monument, designed by Pietro Canonica and unveiled in 1928, shows Atatürk and the leaders of the War of Independence. It stands at the centre of Taksim Square, the city's main modern gathering point.",
+   "tip": "Free; best early in the morning before the crowds.",
+   "q": "Cumhuriyet Anıtı, Taksim Meydanı, Beyoğlu, İstanbul",
+   "ll": [
+    41.03693,
+    28.98565
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Republic_Monument,_Istanbul"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mevlevi",
+   "cat": "gor",
+   "area": "beyoglu",
+   "title": "Watch a whirling dervish ceremony at Galata Mevlevi Lodge",
+   "desc": "The Galata Mevlevihanesi was founded in 1491 and is the oldest Mevlevi lodge in Istanbul. It has a museum of Sufi instruments and a wooden sema hall where weekly whirling ceremonies take place.",
+   "tip": "Sema ceremonies take place on selected days; book ahead. The museum is closed on Mondays.",
+   "q": "Galata Mevlevihanesi, Galip Dede Caddesi, Tünel, Beyoğlu, İstanbul",
+   "ll": [
+    41.02959,
+    28.97439
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Galata_Mevlevihanesi"
+   ]
+  },
+  {
+   "id": "arabmosque",
+   "cat": "gor",
+   "area": "beyoglu",
+   "title": "See the Arap Mosque, a former Dominican church",
+   "desc": "Arap Camii in Karaköy was built around 1325 as the Dominican church of St Paul and later became a mosque for Moors from Andalusia. It is the largest medieval Gothic-style building in the Galata area.",
+   "tip": "Free to enter between prayers; dress modestly.",
+   "q": "Arap Camii, Kalyoncu Kulluğu Caddesi, Karaköy, Beyoğlu, İstanbul",
+   "ll": [
+    41.02193,
+    28.97334
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Arap_Mosque"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "camondo",
+   "cat": "gor",
+   "area": "beyoglu",
+   "title": "Climb the Camondo Stairs",
+   "desc": "The curved Art Nouveau Camondo Stairs link Bankalar Caddesi to Galata, built by the Camondo banking family in the 1870s. The family also financed several nearby buildings.",
+   "tip": "Free; a good start for a Galata walking loop, ideally in morning light.",
+   "q": "Kamondo Merdivenleri, Bankalar Caddesi, Karaköy, Beyoğlu, İstanbul",
+   "ll": [
+    41.02584,
+    28.97296
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Camondo_Stairs"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "nevesalom",
+   "cat": "gor",
+   "area": "beyoglu",
+   "title": "See Neve Shalom Synagogue",
+   "desc": "Neve Shalom, opened in 1951, is the largest synagogue in Istanbul and one of the Sephardic Jewish community's main houses of worship. It stands on a quiet street in Galata and is heavily protected.",
+   "tip": "Visits need a prior appointment and ID; contact the community office in advance.",
+   "q": "Neve Şalom Sinagogu, Büyük Hendek Caddesi, Galata, Beyoğlu, İstanbul",
+   "ll": [
+    41.02597,
+    28.97203
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Neve_Shalom_Synagogue,_Istanbul"
+   ]
+  },
+  {
+   "id": "innocence",
+   "cat": "gor",
+   "area": "beyoglu",
+   "title": "Browse Orhan Pamuk's Museum of Innocence",
+   "desc": "The museum in a Çukurcuma house displays everyday objects from the 1970s and 80s arranged around the novel The Museum of Innocence. It won the European Museum of the Year award in 2014.",
+   "tip": "The novel's ticket is valid for entry; closed on Mondays. Allow 1 to 1.5 hours.",
+   "q": "Masumiyet Müzesi, Dalgıç Sokak, Çukurcuma, Beyoğlu, İstanbul",
+   "ll": [
+    41.03133,
+    28.98138
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/The_Museum_of_Innocence_(museum)"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rahmikoc",
+   "cat": "gor",
+   "area": "beyoglu",
+   "title": "Explore the Rahmi M. Koç Museum on the Golden Horn",
+   "desc": "Opened in 1994 in Hasköy's former Lengerhane anchor foundry, this museum of industry and transport holds steam engines, vintage cars, a submarine and a ship on the quay. It is one of Turkey's best hands-on museums.",
+   "tip": "Closed on Mondays; allow half a day with children. Reachable by bus or ferry from Eminönü or Karaköy.",
+   "q": "Rahmi M. Koç Müzesi, Hasköy Caddesi, Hasköy, Beyoğlu, İstanbul",
+   "ll": [
+    41.04163,
+    28.94977
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Rahmi_M._Koç_Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nusretiye",
+   "cat": "gor",
+   "area": "beyoglu",
+   "title": "Admire Nusretiye Mosque by the Bosphorus",
+   "desc": "Built in 1826 for Sultan Mahmud II to mark the destruction of the Janissaries, Nusretiye is a major example of Ottoman Baroque. It stands on Tophane Square next to the Tophane Fountain.",
+   "tip": "Free; photogenic with the Bosphorus behind it. Respect prayer times.",
+   "q": "Nusretiye Camii, Meclis-i Mebusan Caddesi, Tophane, Beyoğlu, İstanbul",
+   "ll": [
+    41.02625,
+    28.98265
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Nusretiye_Mosque"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kilicalimosque",
+   "cat": "gor",
+   "area": "beyoglu",
+   "title": "See the Kılıç Ali Paşa Mosque by Sinan",
+   "desc": "Mimar Sinan designed this mosque for the admiral Kılıç Ali Paşa and finished it in 1580. Its design resembles the Hagia Sophia and it sits beside the Kılıç Ali Paşa Hamamı.",
+   "tip": "Free; combine with the hamam next door.",
+   "q": "Kılıç Ali Paşa Camii, Kemankeş Mahallesi, Tophane, Beyoğlu, İstanbul",
+   "ll": [
+    41.0265,
+    28.9838
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Kılıç_Ali_Pasha_Mosque"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sspeterpaul",
+   "cat": "gor",
+   "area": "beyoglu",
+   "title": "Visit Sts. Peter and Paul, Galata's Latin church",
+   "desc": "The Church of Sts Peter and Paul was built in 1841 by the Fossati brothers on the site of an earlier Dominican church, and is Italian in style. It serves Galata's Italian-origin Catholic community.",
+   "tip": "Free; opening hours follow Mass, so check ahead.",
+   "q": "Saints Pierre et Paul Kilisesi, Galata Yüksek Kaldırım, Beyoğlu, İstanbul",
+   "ll": [
+    41.0246,
+    28.9738
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Saints_Peter_and_Paul_Church,_Istanbul"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "akm",
+   "cat": "gor",
+   "area": "beyoglu",
+   "title": "Visit the Atatürk Cultural Center",
+   "desc": "The Atatürk Cultural Center, designed by Hayati Tabanlıoğlu, was first completed in 1969 and reopened in 2021 after a controversial rebuild. It hosts opera, ballet and concerts and has a cafe-restaurant.",
+   "tip": "Check the programme for opera and concerts.",
+   "q": "Atatürk Kültür Merkezi, Taksim Meydanı, Beyoğlu, İstanbul",
+   "ll": [
+    41.03713,
+    28.98715
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Atatürk_Cultural_Center"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "piyalepasa",
+   "cat": "gor",
+   "area": "beyoglu",
+   "title": "See Piyale Paşa Mosque in Kasımpaşa",
+   "desc": "Piyale Paşa Mosque was built in 1573 by Mimar Sinan for the Ottoman admiral Piyale Paşa. Its unusual layout has six domes of equal size and an off-centre minaret.",
+   "tip": "Free; combine with a Golden Horn walk in Kasımpaşa.",
+   "q": "Piyale Paşa Camii, Piyalepaşa Mahallesi, Kasımpaşa, Beyoğlu, İstanbul",
+   "ll": [
+    41.0408,
+    28.9668
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Piyale_Pasha_Mosque"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "yuksekkaldirim",
+   "cat": "gor",
+   "area": "beyoglu",
+   "title": "Walk down the Yüksek Kaldırım steps",
+   "desc": "Yüksek Kaldırım is a historic stepped street running from Galata Tower down to Karaköy, lined with old Genoese and Ottoman buildings, a church and music shops.",
+   "tip": "Walk downhill from the tower; wear good shoes as paving is uneven.",
+   "q": "Yüksek Kaldırım Caddesi, Galata, Beyoğlu, İstanbul",
+   "ll": [
+    41.0245,
+    28.9747
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Galata"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "cihangirpark",
+   "cat": "gor",
+   "area": "beyoglu",
+   "title": "Enjoy the Bosphorus view from Cihangir Park",
+   "desc": "Cihangir Park is a hillside terrace above the Bosphorus with cafes and cats. It faces the Historic Peninsula and the Asian shore, and is a hang-out spot for the neighbourhood's artists.",
+   "tip": "Free; sunset is best.",
+   "q": "Cihangir Parkı, Cihangir, Beyoğlu, İstanbul",
+   "ll": [
+    41.0309,
+    28.9845
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Cihangir"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gezipark",
+   "cat": "gor",
+   "area": "beyoglu",
+   "title": "Relax in Gezi Park beside Taksim Square",
+   "desc": "Gezi Park is a small green space next to Taksim Square. It became the focus of the 2013 protests and is one of the city centre's few public parks.",
+   "tip": "Free; one minute from İstiklal.",
+   "q": "Gezi Parkı, Taksim, Beyoğlu, İstanbul",
+   "ll": [
+    41.0374,
+    28.9857
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Taksim_Gezi_Park"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "karakoygulluoglu",
+   "cat": "ye",
+   "area": "beyoglu",
+   "title": "Eat baklava at Karaköy Güllüoğlu",
+   "desc": "Güllüoğlu has made baklava since 1949 and this Karaköy shop is the best known of its Istanbul branches. It is known for thin phyllo layers with Antep pistachio and for its su böreği.",
+   "tip": "Order a mixed plate of pistachio and walnut baklava; take a box away.",
+   "q": "Karaköy Güllüoğlu, Rıhtım Caddesi, Karaköy, Beyoğlu, İstanbul",
+   "ll": [
+    41.02304,
+    28.97748
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Güllüoğlu"
+   ]
+  },
+  {
+   "id": "nostalgictram",
+   "cat": "dene",
+   "area": "beyoglu",
+   "title": "Ride the nostalgic tram down İstiklal Avenue",
+   "desc": "The red T2 heritage tram has run along İstiklal since the horse-drawn line of 1871 and was electrified in 1914. It covers the 1.6 km between Taksim and Tünel in about 15 minutes.",
+   "tip": "Boards at Taksim Square or Tünel; a small fare applies.",
+   "q": "Nostaljik Tramvay, Taksim Meydanı, Beyoğlu, İstanbul",
+   "ll": [
+    41.0369,
+    28.9853
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Istanbul_Nostalgic_Tram"
+   ]
+  },
+  {
+   "id": "tunel",
+   "cat": "dene",
+   "area": "beyoglu",
+   "title": "Ride the Tünel funicular, the world's second oldest",
+   "desc": "The Tünel, opened in 1875, is a 573 m underground funicular linking Karaköy and Tünel Square in under two minutes. It is one of the oldest urban underground railways in the world.",
+   "tip": "Use an Istanbulkart; the upper station is at the foot of İstiklal.",
+   "q": "Tünel, Tünel Meydanı, Beyoğlu, İstanbul",
+   "ll": [
+    41.0283,
+    28.974
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Tünel_(Istanbul)"
+   ]
+  },
+  {
+   "id": "kilicalihamam",
+   "cat": "dene",
+   "area": "beyoglu",
+   "title": "Steam in the Kılıç Ali Paşa Hamamı",
+   "desc": "Built by Sinan in 1583, this domed hamam in Tophane has been restored and again hosts traditional scrub and foam massages.",
+   "tip": "Book ahead; packages are priced for visitors.",
+   "q": "Kılıç Ali Paşa Hamamı, Kemankeş Mahallesi, Tophane, Beyoğlu, İstanbul",
+   "ll": [
+    41.0264,
+    28.9836
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Kılıç_Ali_Pasha_Hamam"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "cukurcumaantiques",
+   "cat": "dene",
+   "area": "beyoglu",
+   "title": "Hunt for antiques in Çukurcuma",
+   "desc": "Çukurcuma's streets are full of antique shops selling Ottoman furniture, lamps, textiles and curios. It is the best antique shopping district in the centre.",
+   "tip": "Weekends are busiest; bargain politely.",
+   "q": "Çukurcuma Caddesi, Çukurcuma, Beyoğlu, İstanbul",
+   "ll": [
+    41.032,
+    28.9816
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Çukurcuma"
+   ]
+  },
+  {
+   "id": "balikpazari",
+   "cat": "dene",
+   "area": "beyoglu",
+   "title": "Browse the Beyoğlu Fish Market",
+   "desc": "The Balık Pazarı near Galatasaray is a covered market of fishmongers, pickle shops and cheese stalls, active since the late 19th century. It is surrounded by tavernas and delis.",
+   "tip": "Go in the late morning; try pickles and cheese.",
+   "q": "Balık Pazarı, Galatasaray, Beyoğlu, İstanbul",
+   "ll": [
+    41.0341,
+    28.97675
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Balık_Pazarı_(Istanbul)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "galataport",
+   "cat": "dene",
+   "area": "beyoglu",
+   "title": "Stroll the Galataport waterfront",
+   "desc": "Galataport, opened in 2021, turned the Karaköy cruise port into a public waterfront promenade with museums, shops and restaurants.",
+   "tip": "Free to walk; evening lights are pretty.",
+   "q": "Galataport, Karaköy, Beyoğlu, İstanbul",
+   "ll": [
+    41.0247,
+    28.98
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Galataport"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "karakoyferry",
+   "cat": "dene",
+   "area": "beyoglu",
+   "title": "Ride the ferry from Karaköy to Kadıköy",
+   "desc": "A short ferry crosses between Karaköy and Kadıköy, running multiple times an hour. It gives views of the Galata Tower, Topkapı Palace and the Bosphorus.",
+   "tip": "Use an Istanbulkart; grab a simit and tea on deck.",
+   "q": "Karaköy İskelesi, Karaköy, Beyoğlu, İstanbul",
+   "ll": [
+    41.0222,
+    28.977
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Istanbul_Ferries"
+   ]
+  },
+  {
+   "id": "galatabridge",
+   "cat": "dene",
+   "area": "beyoglu",
+   "title": "Watch the fishermen on Galata Bridge",
+   "desc": "The Galata Bridge across the Golden Horn has fishermen along its rails and restaurants below the deck. The walk between Karaköy and Eminönü gives views of mosques and the tower.",
+   "tip": "Free; go at sunset.",
+   "q": "Galata Köprüsü, Karaköy, Beyoğlu, İstanbul",
+   "ll": [
+    41.02,
+    28.974
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Galata_Bridge"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "f1funicular",
+   "cat": "dene",
+   "area": "beyoglu",
+   "title": "Ride the Taksim to Kabataş funicular",
+   "desc": "The F1 Taksim-Kabataş funicular opened in 2006 and links Taksim Square to the Kabataş ferry and tram hub in about two minutes, descending the slope to the Bosphorus.",
+   "tip": "Use an Istanbulkart; useful as a quick link to the Bosphorus ferries.",
+   "q": "Taksim-Kabataş Füniküler, Taksim Meydanı, Beyoğlu, İstanbul",
+   "ll": [
+    41.0366,
+    28.985
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Kabataş–Taksim_funicular"
+   ]
+  },
+  {
+   "id": "karakoybalikcisi",
+   "cat": "ye",
+   "area": "beyoglu",
+   "title": "Eat fried fish at Tarihi Karaköy Balıkçısı",
+   "desc": "Tarihi Karaköy Balıkçısı is a small lunch-only fish restaurant in Karaköy, known for its daily catch fried or grilled and served with simple salads. It sits in a back street near the Karaköy waterfront.",
+   "tip": "Open for lunch Monday to Saturday only; go early as it fills up. Ask what the catch of the day is.",
+   "q": "Tarihi Karaköy Balıkçısı, Kardeşim Sokak 45, Karaköy, Beyoğlu, İstanbul",
+   "ll": [
+    41.0227,
+    28.9766
+   ],
+   "src": [
+    "https://istanbuleats.com/2010/11/tarihi-karakoy-balikcisi-putting-the-%e2%80%9cust%e2%80%9d-back-in-usta/print/",
+    "https://cornucopia.net/guide/listings/restaurants/tarihi-karakoy-balkcisi"
+   ]
+  },
+  {
+   "id": "sofyali9",
+   "cat": "ye",
+   "area": "beyoglu",
+   "title": "Dine at Sofyalı 9, a classic Asmalımescit meyhane",
+   "desc": "Sofyalı 9 is a long-running meyhane on Sofyalı Sokak, the lane of meyhanes in Asmalımescit. It serves classic cold and hot meze, fish and rakı in a relaxed old-Beyoğlu setting.",
+   "tip": "Order a spread of cold meze and a fish; book for weekend nights.",
+   "q": "Sofyalı 9, Sofyalı Sokak 10-12, Asmalımescit, Beyoğlu, İstanbul",
+   "ll": [
+    41.0319,
+    28.9746
+   ],
+   "src": [
+    "https://tablejourney.com/turkey/istanbul/restaurants/refik-restaurant/"
+   ]
+  },
+  {
+   "id": "asmalicavit",
+   "cat": "ye",
+   "area": "beyoglu",
+   "title": "Drink rakı at Asmalı Cavit",
+   "desc": "Asmalı Cavit is an intimate meyhane on Asmalımescit Caddesi, founded in the 1990s by Cavit Saatcı and a regular on Opinionated About Dining's Casual Europe list. It is known for smoked aubergine and a compact meze selection.",
+   "tip": "Open from 4pm, Monday to Saturday; book ahead.",
+   "q": "Asmalı Cavit, Asmalımescit Caddesi 16, Beyoğlu, İstanbul",
+   "ll": [
+    41.0313,
+    28.9733
+   ],
+   "src": [
+    "https://www.timeout.com/istanbul/restaurants/asmali-cavit",
+    "https://istanbuleats.com/2012/11/asmali-cavit/print/"
+   ]
+  },
+  {
+   "id": "cumhuriyetmeyhanesi",
+   "cat": "ye",
+   "area": "beyoglu",
+   "title": "Drink rakı at Cumhuriyet Meyhanesi",
+   "desc": "Tarihi Cumhuriyet Meyhanesi is a historic meyhane in the Balık Pazarı, said to date from the 1920s, spread over three floors. It serves classic meze, fish and rakı with live fasıl music.",
+   "tip": "Order a few cold meze and fried fish; tables fill by 9pm.",
+   "q": "Tarihi Cumhuriyet Meyhanesi, Sahne Sokak 47, Balık Pazarı, Beyoğlu, İstanbul",
+   "ll": [
+    41.03395,
+    28.9769
+   ],
+   "src": [
+    "https://www.timeout.com/istanbul/tr/restoranlar/tarihi-cumhuriyet-meyhanesi",
+    "https://mesprestiges.com/en/istanbul/places/tarihi-cumhuriyet-meyhanesi"
+   ]
+  },
+  {
+   "id": "zubeyir",
+   "cat": "ye",
+   "area": "beyoglu",
+   "title": "Grill kebabs at Zübeyir Ocakbaşı",
+   "desc": "Zübeyir Ocakbaşı, opened in 2006 by grill master Zübeyir, is a three-floor ocakbaşı near Taksim where chefs grill skewers over charcoal in front of diners. It is known for lamb and chicken kebabs and raw onion salad.",
+   "tip": "Sit at the counter and order şiş; book in the evening.",
+   "q": "Zübeyir Ocakbaşı, Bekar Sokak, Şehit Muhtar, Beyoğlu, İstanbul",
+   "ll": [
+    41.0354,
+    28.983
+   ],
+   "src": [
+    "https://www.timeout.com/istanbul/restaurants/zuebeyir-ocakbasi",
+    "https://spottedbylocals.com/istanbul/zubeyir-ocakbasi"
+   ]
+  },
+  {
+   "id": "istanbulcookingschool",
+   "cat": "dene",
+   "area": "beyoglu",
+   "title": "Take a Turkish cooking class at Istanbul Cooking School",
+   "desc": "Istanbul Cooking School runs hands-on Turkish cooking classes in Beyoğlu, covering mezes, main dishes and desserts, finished with a shared meal.",
+   "tip": "Book classes in advance; check class days and times online.",
+   "q": "Istanbul Cooking School, Tarlabaşı Bulvarı 117, Kamer Hatun, Beyoğlu, İstanbul",
+   "ll": [
+    41.0373,
+    28.9783
+   ],
+   "src": [
+    "https://qantas.com/travelinsider/en/explore/europe/turkey/istanbul/do-a-cooking-class-at-istanbul-cooking-school.html"
+   ]
+  },
+  {
+   "id": "haciabdullah",
+   "cat": "ye",
+   "area": "beyoglu",
+   "title": "Eat Ottoman classics at Hacı Abdullah",
+   "desc": "Hacı Abdullah is a historic restaurant founded in 1888, first in Karaköy and in its current Beyoğlu home since 1958. It serves Ottoman and Turkish home cooking such as stuffed vegetables, lamb dishes and fruit compotes.",
+   "tip": "Go for lunch; order the daily stews and a compote to finish.",
+   "q": "Hacı Abdullah Lokantası, Atıf Yılmaz Caddesi 9/A, Hüseyinağa, Beyoğlu, İstanbul",
+   "ll": [
+    41.0357,
+    28.9815
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Hac%C4%B1_Abdullah_Restaurant"
+   ]
+  },
+  {
+   "id": "smyrna",
+   "cat": "ye",
+   "area": "beyoglu",
+   "title": "Have a coffee at Smyrna Cafe in Cihangir",
+   "desc": "Smyrna is a bohemian cafe on Akarsu Caddesi, the main cafe strip of Cihangir, with retro decor and a literary crowd. It serves breakfast, soups, salads and coffee.",
+   "tip": "Try the Turkish breakfast.",
+   "q": "Smyrna Cafe, Akarsu Caddesi, Cihangir, Beyoğlu, İstanbul",
+   "ll": [
+    41.0318,
+    28.9826
+   ],
+   "src": [
+    "https://www.timeout.com/istanbul/tr/restoranlar/smyrna-cafe"
+   ]
+  },
+  {
+   "id": "halat",
+   "cat": "ye",
+   "area": "beyoglu",
+   "title": "Eat seaside Mediterranean at Halat Restaurant, Hasköy",
+   "desc": "Halat Restaurant is part of the Rahmi M. Koç Museum complex in Hasköy and serves seaside Mediterranean cuisine on the Golden Horn waterfront, beside the museum's historic ships.",
+   "tip": "Combine it with a museum visit; check opening days.",
+   "q": "Halat Restaurant, Rahmi M. Koç Müzesi, Hasköy Caddesi, Hasköy, Beyoğlu, İstanbul",
+   "ll": [
+    41.0417,
+    28.9496
+   ],
+   "src": [
+    "https://www.koc.com.tr/sustainability/rahmi-koc-museum"
+   ]
+  },
+  {
+   "id": "namli",
+   "cat": "ye",
+   "area": "beyoglu",
+   "title": "Order a pastırma breakfast at Namlı Gurme",
+   "desc": "Namlı started as a pastırma and charcuterie maker and runs a gourmet shop and cafe in Karaköy. It is known for its breakfast, pastırma and sucuk.",
+   "tip": "Order the Turkish breakfast; it is popular on weekends.",
+   "q": "Namlı Gurme, Mumhane Caddesi 6, Karaköy, Beyoğlu, İstanbul",
+   "ll": [
+    41.0236,
+    28.9764
+   ],
+   "src": [
+    "https://yemek.com/namli-gurme-karakoy-sarkuteri-cenneti-restaurant/"
+   ]
+  },
+  {
+   "id": "hafizmustafa",
+   "cat": "ye",
+   "area": "beyoglu",
+   "title": "Taste lokum and baklava at Hafız Mustafa 1864",
+   "desc": "Hafız Mustafa has made Turkish delight and baklava since 1864 and has several shops; its Beyoğlu branch is on Sıraselviler near Taksim. It also serves tulumba and kadayıf.",
+   "tip": "Try sütlü kadayıf; a box of lokum makes a good gift.",
+   "q": "Hafız Mustafa 1864, Sıraselviler Caddesi 7, Gümüşsuyu, Beyoğlu, İstanbul",
+   "ll": [
+    41.0367,
+    28.9864
+   ],
+   "src": [
+    "https://online.hafizmustafa.com/about"
+   ]
+  },
+  {
+   "id": "hacibekir",
+   "cat": "ye",
+   "area": "beyoglu",
+   "title": "Buy lokum at Hacı Bekir",
+   "desc": "Hacı Bekir has sold Turkish delight since 1777 and its founder is credited with creating the modern lokum. The shop on the İstiklal side keeps its old interior and sells lokum and candies.",
+   "tip": "Ask for rose and pistachio lokum.",
+   "q": "Ali Muhiddin Hacı Bekir, İstiklal Caddesi 83, Beyoğlu, İstanbul",
+   "ll": [
+    41.0342,
+    28.97699
+   ],
+   "src": [
+    "https://tasteatlas.com/AliMuhiddinHacBekir"
+   ]
+  },
+  {
+   "id": "saraymuhallebicisi",
+   "cat": "ye",
+   "area": "beyoglu",
+   "title": "Order tavuk göğsü at Saray Muhallebicisi",
+   "desc": "Saray Muhallebicisi has served milk puddings on İstiklal since 1935. Its chicken-breast pudding (tavuk göğsü) and sütlaç are the best-known items.",
+   "tip": "Pair with Turkish tea; open late.",
+   "q": "Saray Muhallebicisi, İstiklal Caddesi 107, Beyoğlu, İstanbul",
+   "ll": [
+    41.03283,
+    28.9783
+   ],
+   "src": [
+    "https://turkeytravelplanner.com/go/Istanbul/RestsCafesBars/istiklal/saray.html"
+   ]
+  },
+  {
+   "id": "cezayir",
+   "cat": "ye",
+   "area": "beyoglu",
+   "title": "Dine at Cezayir in a 1901 Italian school",
+   "desc": "Cezayir restaurant occupies a building put up in 1901 as a school for the Italian Workers' Society, behind Galatasaray High School. It serves Mediterranean and creative Turkish dishes in a garden and winter garden.",
+   "tip": "Choose a table on the terrace in the evening.",
+   "q": "Cezayir Restaurant, Hayriye Caddesi 12, Galatasaray, Beyoğlu, İstanbul",
+   "ll": [
+    41.03195,
+    28.9743
+   ],
+   "src": [
+    "https://www.timeout.com/istanbul/restaurants/cezayir"
+   ]
+  },
+  {
+   "id": "kronotrop",
+   "cat": "ye",
+   "area": "beyoglu",
+   "title": "Drink specialty coffee at Kronotrop Cihangir",
+   "desc": "Kronotrop is among the earliest specialty coffee roasters in Istanbul, with a cafe in Cihangir. It serves single-origin filter and espresso drinks.",
+   "tip": "Take a window seat in the afternoon.",
+   "q": "Kronotrop, Firuzağa Cami Sokak 2/B, Cihangir, Beyoğlu, İstanbul",
+   "ll": [
+    41.032,
+    28.9821
+   ],
+   "src": [
+    "https://mesprestiges.com/en/istanbul/places/kronotrop-cihangir"
+   ]
+  },
+  {
+   "id": "mandabatmaz",
+   "cat": "ye",
+   "area": "beyoglu",
+   "title": "Sip Turkish coffee at Mandabatmaz",
+   "desc": "Mandabatmaz is a tiny coffee house in Olivya Passage near İstiklal, serving thick Turkish coffee whose grounds are so dense that a buffalo could not bog down in it, hence the name. It has been open since the 1960s.",
+   "tip": "Sit on the little stools outside; cash is the safe choice.",
+   "q": "Mandabatmaz, Olivya Geçidi 1A, İstiklal Caddesi, Beyoğlu, İstanbul",
+   "ll": [
+    41.03333,
+    28.97797
+   ],
+   "src": [
+    "https://istanbuleats.com/2009/06/mandabatmaz-grounds-for-celebration/print/"
+   ]
+  },
+  {
+   "id": "istanbul360",
+   "cat": "ye",
+   "area": "beyoglu",
+   "title": "Have a drink on the terrace at 360 Istanbul",
+   "desc": "Located on the top floor of an early 20th-century building at İstiklal 163, 360 Istanbul has glass walls and a terrace with a panorama over the old city. It combines a restaurant and a night club.",
+   "tip": "Go early for a window table; cover charges can apply on weekend nights.",
+   "q": "360 Istanbul, Mısır Apartmanı, İstiklal Caddesi 163, Beyoğlu, İstanbul",
+   "ll": [
+    41.03323,
+    28.97699
+   ],
+   "src": [
+    "https://www.timeout.com/istanbul/restaurants/360"
+   ]
+  },
+  {
+   "id": "mikla",
+   "cat": "ye",
+   "area": "beyoglu",
+   "title": "Dine with a view at Mikla",
+   "desc": "Mikla is a rooftop restaurant atop the Marmara Pera, led by chef Mehmet Gürs. It serves a Modern Anatolian menu with a terrace overlooking the Golden Horn.",
+   "tip": "Book several weeks ahead and reserve for sunset.",
+   "q": "Mikla, Marmara Pera Hotel, Meşrutiyet Caddesi 15, Tepebaşı, Beyoğlu, İstanbul",
+   "ll": [
+    41.0315,
+    28.9737
+   ],
+   "src": [
+    "https://guide.michelin.com/cz/en/istanbul-province/istanbul/restaurant/mikla"
+   ]
+  },
+  {
+   "id": "karakoylokantasi",
+   "cat": "ye",
+   "area": "beyoglu",
+   "title": "Lunch at Karaköy Lokantası",
+   "desc": "A bright lokanta in an old Karaköy building serving daily Turkish dishes: stuffed vegetables, slow-cooked lamb and fish. It has been a lunch favourite in Galata since the 2010s.",
+   "tip": "Book for weekend lunch; the daily menu is good value.",
+   "q": "Karaköy Lokantası, Kemankeş Caddesi 57, Karaköy, Beyoğlu, İstanbul",
+   "ll": [
+    41.02255,
+    28.9772
+   ],
+   "src": [
+    "https://guide.michelin.com/tr/en/istanbul-province/istanbul/restaurant/karakoy-lokantasi"
+   ]
+  },
+  {
+   "id": "aghahamam",
+   "cat": "dene",
+   "area": "beyoglu",
+   "title": "Relax at Ağa Hamamı near Çukurcuma",
+   "desc": "Ağa Hamamı on Turnacıbaşı Sokak is an Ottoman bath traditionally dated to 1454 under Mehmed II, later restored and open to the public for scrubs and foam massages.",
+   "tip": "Book ahead for an evening session.",
+   "q": "Ağa Hamamı, Turnacıbaşı Sokak 48, Kuloğlu, Beyoğlu, İstanbul",
+   "ll": [
+    41.031,
+    28.98
+   ],
+   "src": [
+    "https://www.timeout.com/istanbul/health-and-beauty/aga-hamami"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "cukurcumahamam",
+   "cat": "dene",
+   "area": "beyoglu",
+   "title": "Take a bath at Çukurcuma Hamamı",
+   "desc": "Çukurcuma Hamamı (1831) is a small Ottoman neighbourhood bath reopened after renovation around 2018-19, offering scrub, foam and massage.",
+   "tip": "Check the separate men's and women's hours.",
+   "q": "Çukurcuma Hamamı, Çukurcuma Caddesi, Beyoğlu, İstanbul",
+   "ll": [
+    41.0319,
+    28.9811
+   ],
+   "src": [
+    "https://spottedbylocals.com/istanbul/cukurcuma-hamami-1831"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ferikoyantiques",
+   "cat": "dene",
+   "area": "beyoglu",
+   "title": "Browse the Feriköy Antique Market",
+   "desc": "The Feriköy Antika Pazarı is a Sunday flea market of antiques, books and collectables in the Feriköy neighbourhood. The Feriköy Organic Market runs on Saturdays nearby.",
+   "tip": "Sunday mornings are best.",
+   "q": "Feriköy Antika Pazarı, Cumhuriyet Mahallesi, Şişli, İstanbul",
+   "ll": [
+    41.0518,
+    28.981
+   ],
+   "src": [
+    "https://www.timeout.com/istanbul/tr/goeruelmesi-gereken-yerler/ferikoey-antika-pazari"
+   ]
+  },
+  {
+   "id": "nardis",
+   "cat": "dene",
+   "area": "beyoglu",
+   "title": "Catch live jazz at Nardis Jazz Club",
+   "desc": "Nardis in Galata Kuledibi is one of Istanbul's best-known jazz venues, with live sets every evening in an intimate room.",
+   "tip": "Book a table for the late set; shows start around 9pm.",
+   "q": "Nardis Jazz Club, Kuledibi Sokak 14, Galata, Beyoğlu, İstanbul",
+   "ll": [
+    41.026,
+    28.9746
+   ],
+   "src": [
+    "https://www.timeout.com.hk/istanbul/music/nardis",
+    "https://www.jazznearyou.com/istanbul/venue/nardis-jazz-club"
+   ]
+  },
+  {
+   "id": "robinsoncrusoe",
+   "cat": "dene",
+   "area": "beyoglu",
+   "title": "Browse books at Robinson Crusoe 389",
+   "desc": "Robinson Crusoe 389, opened in 1994, is an Istanbul bookshop with English-language books, Turkish literature in translation and Istanbul guides. It now sits above SALT Beyoğlu on İstiklal.",
+   "tip": "Check hours at rob389.com; a good rainy-day stop.",
+   "q": "Robinson Crusoe 389, SALT Beyoğlu, İstiklal Caddesi 136, Beyoğlu, İstanbul",
+   "ll": [
+    41.0339,
+    28.9774
+   ],
+   "src": [
+    "https://www.timeout.com/istanbul/shopping/robinson-crusoe-389"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "salonikv",
+   "cat": "dene",
+   "area": "beyoglu",
+   "title": "See a gig at Salon İKSV",
+   "desc": "Salon İKSV is the Istanbul Foundation for Culture and Arts' concert hall near Şişhane, hosting indie, jazz and electronic concerts and film events.",
+   "tip": "Check the programme and buy tickets in advance.",
+   "q": "Salon İKSV, Sadi Konuralp Caddesi 5, Şişhane, Beyoğlu, İstanbul",
+   "ll": [
+    41.0284,
+    28.9722
+   ],
+   "src": [
+    "https://saloniksv.com/en/about-us"
+   ]
+  },
+  {
+   "id": "jewishmuseum",
+   "cat": "gor",
+   "area": "beyoglu",
+   "title": "Visit the Jewish Museum of Turkey",
+   "desc": "The Quincentennial Foundation Museum of Turkish Jews opened in 2001 in the Zülfaris Synagogue in Karaköy and has since moved next to Neve Shalom on Büyük Hendek Street. It tells the story of Ottoman Jewry since the 1492 arrival of Sephardic refugees.",
+   "tip": "Closed on weekends; photo ID required at the gate.",
+   "q": "Türk Musevileri Müzesi, Büyük Hendek Caddesi 39, Bereketzade, Beyoğlu, İstanbul",
+   "ll": [
+    41.0259,
+    28.9721
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Jewish_Museum_of_Turkey",
+    "https://www.aejm.org/museum-of-turkish-jews-open-in-new-location/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "peraplace",
+   "cat": "gor",
+   "area": "beyoglu",
+   "title": "Tour the historic Pera Palace Hotel",
+   "desc": "Pera Palace opened in 1892 to house passengers of the Orient Express and welcomed guests such as Agatha Christie and Ernest Hemingway. Its Otis lift is one of the oldest in Europe, and Room 101 is dedicated to Atatürk.",
+   "tip": "The Atatürk room can be visited by arrangement; afternoon tea in the lobby is a simple way to see the interior.",
+   "q": "Pera Palace Hotel, Meşrutiyet Caddesi 52, Tepebaşı, Beyoğlu, İstanbul",
+   "ll": [
+    41.03108,
+    28.97391
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Pera_Palace_Hotel"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "orientexpresslounge",
+   "cat": "ye",
+   "area": "beyoglu",
+   "title": "Take afternoon tea in the Pera Palace",
+   "desc": "The Orient Bar and Kubbeli Saloon of the Pera Palace serve afternoon tea in a restored 1892 interior. It is a way to see the historic hotel without staying.",
+   "tip": "Reserve a table and dress neatly.",
+   "q": "Pera Palace Hotel Kubbeli Saloon, Meşrutiyet Caddesi 52, Tepebaşı, Beyoğlu, İstanbul",
+   "ll": [
+    41.03108,
+    28.97391
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Pera_Palace_Hotel"
+   ]
+  }
+ ]
+}

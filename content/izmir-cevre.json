@@ -1,0 +1,904 @@
+{
+ "new": [
+  {
+   "id": "pergamonacropolis",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the Pergamon Acropolis above Bergama",
+   "desc": "The hilltop capital of the Attalid kings (3rd-2nd c. BC) holds the steep theatre, the Trajan Temple and a library once second only to Alexandria's. It is part of the UNESCO World Heritage listing for Pergamon and its multi-layered cultural landscape.",
+   "tip": "Go early or late to avoid heat and tour buses, and wear sturdy shoes for the stone steps.",
+   "q": "Bergama Akropolis, Bergama, İzmir",
+   "ll": [
+    39.13226,
+    27.18437
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Pergamon",
+    "https://whc.unesco.org/en/list/1457/"
+   ]
+  },
+  {
+   "id": "bergamacablecar",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Bergama cable car up to the Acropolis",
+   "desc": "A cable car links a lower station in Bergama with the top of the Acropolis hill, replacing the 3 km uphill road walk. The ride takes a few minutes and gives views over the Bakırçay plain and the town.",
+   "tip": "Buy a return ticket and check it is running that day, as it can pause in strong wind.",
+   "q": "Bergama Teleferik Alt İstasyon, Bergama, İzmir",
+   "ll": [
+    39.12143,
+    27.17865
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Pergamon",
+    "https://turkeytravelplanner.com/go/Aegean/Bergama/index.html"
+   ]
+  },
+  {
+   "id": "asklepion",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the Asklepion healing sanctuary of Pergamon",
+   "desc": "This ancient medical centre was one of the most famous in the Roman world and is associated with the physician Galen, born in Pergamon in AD 129. Visitors walk the colonnaded Sacred Way and see the round temple of Asklepios and a small theatre.",
+   "tip": "Combine with the Acropolis in one half-day, and visit in the morning for shade.",
+   "q": "Asklepion, Bergama, İzmir",
+   "ll": [
+    39.1233,
+    27.16885
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Asclepeion_of_Pergamon"
+   ]
+  },
+  {
+   "id": "redbasilica",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Marvel at the colossal Red Basilica in Bergama",
+   "desc": "The Kızıl Avlu was built in the 2nd century AD as a Roman temple to Serapis and other Egyptian gods and was later converted into a church. Its brick walls rise high above the modern town, and the Selinus river flows through its foundations.",
+   "tip": "Entry is cheap and quick, so pair it with the Bergama museum on the way to the Acropolis.",
+   "q": "Kızıl Avlu, Bergama, İzmir",
+   "ll": [
+    39.1184,
+    27.1811
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Red_Basilica"
+   ]
+  },
+  {
+   "id": "bergamamuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Pergamon finds in the Bergama Archaeological Museum",
+   "desc": "The museum shows sculpture, coins and finds from Pergamon, the Asklepion and nearby tumuli, in addition to ethnographic rooms on local carpets and costume. It shows pieces of the Attalid-era art better known from the Pergamon altar in Berlin.",
+   "tip": "Allow about an hour and use it as a break from the midday heat.",
+   "q": "Bergama Müzesi, Bergama, İzmir",
+   "ll": [
+    39.12131,
+    27.1795
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Bergama_Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bergamaoldtown",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Wander Bergama's Ottoman old town and bazaar",
+   "desc": "Below the Acropolis the Hıdırlık quarter keeps timber-framed Ottoman houses, narrow lanes and the 14th-century Ulu Mosque. The bazaar streets are a good place to try local sweets and köfte.",
+   "tip": "Start at the Red Basilica and walk uphill; a Monday market fills some streets.",
+   "q": "Hıdırlık Mahallesi, Bergama, İzmir",
+   "ll": [
+    39.1196,
+    27.1824
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Bergama"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "pergamontheatre",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Sit in the steepest theatre of antiquity at Pergamon",
+   "desc": "The Hellenistic theatre, cut into the Acropolis slope for about 10,000 spectators, has an unusually steep rake. It looks over the valley and the terrace of the Temple of Dionysus below.",
+   "tip": "Photograph from the top rows in late afternoon light, and take care on the steep steps.",
+   "q": "Pergamon Tiyatrosu, Bergama, İzmir",
+   "ll": [
+    39.13194,
+    27.18386
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Pergamon"
+   ]
+  },
+  {
+   "id": "bergamasofrasi",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat çığırtma at Bergama Sofrası",
+   "desc": "A restaurant beside a 16th-century hammam in central Bergama, known for regional dishes such as çığırtma, a lamb and aubergine dish similar to moussaka. Fodor's lists it among the area's reliable local kitchens.",
+   "tip": "Order çığırtma and the local Bergama köfte; lunch is the busiest time.",
+   "q": "Bergama Sofrası, Bergama, İzmir",
+   "ll": [
+    39.119,
+    27.1802
+   ],
+   "src": [
+    "https://fodors.fodors.com/world/europe/turkey/the-sea-of-marmara-and-the-north-aegean/restaurants/reviews/bergama-sofrasi-484591"
+   ]
+  },
+  {
+   "id": "sirenrocks",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Take a boat to the Siren Rocks off Foça",
+   "desc": "Offshore from Foça are the Siren Islands, rock outcrops linked in Greek myth with the Sirens, and a protected area where Mediterranean monk seals survive. Boats leave Eski Foça harbour for swimming and sightseeing trips.",
+   "tip": "Monk seal sightings are rare; keep your distance and swim in the bays rather than at the rocks.",
+   "q": "Foça Limanı, Eski Foça, İzmir",
+   "ll": [
+    38.66985,
+    26.75445
+   ],
+   "src": [
+    "https://www.coastguidetr.com/en/haber/10070/foca"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "beskapilar",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb Beşkapılar Fortress above Eski Foça harbour",
+   "desc": "The Genoese-era castle overlooks Foça's old harbour and stands on ancient Phocaea walls. Its gate towers and sections of Ottoman wall are still visible.",
+   "tip": "See it from the harbour at sunset for the best light on the walls.",
+   "q": "Beşkapılar Kalesi, Eski Foça, İzmir",
+   "ll": [
+    38.6709,
+    26.7542
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Phocaea"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "phokaia",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Cybele rock shrine and Phokaia ruins in Foça",
+   "desc": "Foça was ancient Phocaea, the Ionian city that founded Marseille around 600 BC. Remains include a rock-cut shrine to Cybele and the foundations of the Temple of Athena.",
+   "tip": "The remains are scattered, so ask near the harbour for directions.",
+   "q": "Phokaia Antik Kenti, Foça, İzmir",
+   "ll": [
+    38.6726,
+    26.7574
+   ],
+   "src": [
+    "https://www.coastguidetr.com/en/tarihi-yer/801060033/phokaia-foca"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "focafish",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat grilled fish at Marsilya on Foça harbour",
+   "desc": "The harbour strip in Eski Foça is lined with fish restaurants known for papalina, grilled small fish, and fish stew. Wikivoyage and Daily Sabah name Marsilya, Limni Balıkçısı and Ada Balık among the best.",
+   "tip": "Eat at the harbour for the view and pay by the kilo for fresh fish.",
+   "q": "Marsilya Restaurant, Eski Foça Limanı, Foça, İzmir",
+   "ll": [
+    38.6693,
+    26.755
+   ],
+   "src": [
+    "https://www.dailysabah.com/life/travel/aegean-oasis-discovering-charms-of-turkiyes-foca",
+    "https://en.wikivoyage.org/wiki/Fo%C3%A7a"
+   ]
+  },
+  {
+   "id": "focabalkaymak",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste kaymak ice cream at Foça Balkaymak",
+   "desc": "A local ice-cream and dessert shop on Foça's waterfront, known for the thick clotted-cream flavour that gives it its name. Wikivoyage lists it in the town's eating guide.",
+   "tip": "Combine it with a harbour walk after dinner.",
+   "q": "Foça Balkaymak, Eski Foça, İzmir",
+   "ll": [
+    38.6703,
+    26.7546
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Fo%C3%A7a"
+   ]
+  },
+  {
+   "id": "yenifocabeach",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim and watch sunset at Yeni Foça",
+   "desc": "The newer seaside town north of Eski Foça has a calm bay, a seafront promenade and a sandy beach. It is known for its sunset views over the Aegean.",
+   "tip": "Go in summer for warm water and eat at the seafront cafés.",
+   "q": "Yeni Foça Plajı, Yeni Foça, Foça, İzmir",
+   "ll": [
+    38.7355,
+    26.8486
+   ],
+   "src": [
+    "https://kupi.com/en-ae/explore/turkey/foca"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "candarli",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Çandarlı Castle on the Aegean shore",
+   "desc": "The fortress at Çandarlı, ancient Pitane, was built by the Genoese and strengthened by the Ottomans, and gave its name to the Çandarlı family of grand viziers. It guards the small harbour of the Dikili coast.",
+   "tip": "Combine with a seafood lunch in the village harbour.",
+   "q": "Çandarlı Kalesi, Çandarlı, Dikili, İzmir",
+   "ll": [
+    38.9322,
+    26.9332
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/%C3%87andarl%C4%B1"
+   ]
+  },
+  {
+   "id": "kyme",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look for the ancient Aeolian city of Kyme near Aliağa",
+   "desc": "Kyme was one of the twelve cities of the Aeolian League and the home of the historian Ephorus. Only fragments of its walls and harbour remain on the coast near Aliağa.",
+   "tip": "The site is overgrown, so bring a map and visit in spring.",
+   "q": "Kyme Antik Kenti, Aliağa, İzmir",
+   "ll": [
+    38.7793,
+    26.914
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Kyme_(Aeolis)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "menemenmonument",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Kubilay Monument in Menemen",
+   "desc": "The monument in Menemen commemorates Reserve Lieutenant Kubilay, killed by religious rebels in the Menemen Incident of 1930. The monument sits in the town square.",
+   "tip": "Have a menemen breakfast in the main square afterwards.",
+   "q": "Kubilay Anıtı, Menemen, İzmir",
+   "ll": [
+    38.6083,
+    27.0683
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Menemen_incident"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sigacikcastle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk inside the walls of Sığacık Castle",
+   "desc": "The Ottoman fortress was built in the 1520s under Suleiman the Magnificent to defend against pirates, using stone taken from nearby Teos. Its walls still enclose a village of small streets and cafés.",
+   "tip": "The Sunday producers' market fills the castle streets, so go then.",
+   "q": "Sığacık Kalesi, Sığacık, Seferihisar, İzmir",
+   "ll": [
+    38.1964,
+    26.7837
+   ],
+   "src": [
+    "https://www.clubresortatlantis.com/fr/sigacik-castle-travel-guide",
+    "https://goturkiye.com/seferihisar"
+   ]
+  },
+  {
+   "id": "teos",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the ancient Ionian city of Teos",
+   "desc": "Teos was home to the lyric poet Anacreon and held a famous Temple of Dionysus. The site has the theatre, the agora and the temple foundations in an olive grove near Sığacık.",
+   "tip": "Take water and wear sturdy shoes.",
+   "q": "Teos Antik Kenti, Sığacık, Seferihisar, İzmir",
+   "ll": [
+    38.186,
+    26.7868
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Teos"
+   ]
+  },
+  {
+   "id": "sigacikmarket",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Shop the Sunday producers' market in Sığacık",
+   "desc": "Seferihisar was Turkey's first Cittaslow, and the weekly market in and around the castle sells only local farm produce, olives, cheeses and handicrafts. Goods from outside the area are not accepted.",
+   "tip": "Arrive early, as cars are restricted in the village on Sundays.",
+   "q": "Sığacık Pazarı, Sığacık Kalesi, Seferihisar, İzmir",
+   "ll": [
+    38.1961,
+    26.7839
+   ],
+   "src": [
+    "https://goturkiye.com/slowcity/cittaslow-aegean"
+   ]
+  },
+  {
+   "id": "akkum",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim at Akkum beach in Seferihisar",
+   "desc": "A long sand beach close to Sığacık, known for shallow water and steady wind, popular for windsurfing and kite lessons.",
+   "tip": "Visit from June to September and bring sun cover as there is little shade.",
+   "q": "Akkum Plajı, Seferihisar, İzmir",
+   "ll": [
+    38.186,
+    26.83
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Seferihisar"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "mandalina",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Pick Seferihisar mandarins in the orchards",
+   "desc": "Seferihisar is known for its mandarins, harvested in late autumn and early winter. Orchards around the town sell fruit and juice.",
+   "tip": "Buy by the sack from roadside stalls and check which orchards allow visitors.",
+   "q": "Seferihisar mandalina bahçeleri, Seferihisar, İzmir",
+   "ll": [
+    38.204,
+    26.838
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Seferihisar"
+   ],
+   "months": [
+    11,
+    12,
+    1
+   ]
+  },
+  {
+   "id": "karaburun",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Spend a day in Karaburun harbour village",
+   "desc": "Karaburun, at the end of the peninsula, is a quiet fishing village with a small harbour, cafés and coves that see far fewer visitors than Çeşme.",
+   "tip": "Take a boat to the coves; the road is slow so start early.",
+   "q": "Karaburun Limanı, Karaburun, İzmir",
+   "ll": [
+    38.6391,
+    26.5127
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Karaburun,_%C4%B0zmir"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mordogan",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim and relax at Mordoğan",
+   "desc": "This coastal town on the north of the Karaburun peninsula has a long beach, small restaurants and a calm sea.",
+   "tip": "Reach it by car; summer weekends are busy.",
+   "q": "Mordoğan Plajı, Karaburun, İzmir",
+   "ll": [
+    38.5213,
+    26.6279
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Mordo%C4%9Fan"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "tiremarket",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Browse Tire's Tuesday market",
+   "desc": "Tire's Tuesday market is more than 600 years old and sells produce, dairy, felt and handicrafts from over a thousand stalls. It draws tens of thousands of people each week.",
+   "tip": "Go in the morning and bring cash.",
+   "q": "Tire Salı Pazarı, Tire, İzmir",
+   "ll": [
+    38.0889,
+    27.7353
+   ],
+   "src": [
+    "https://www.visitizmir.org/en/Icerik/142",
+    "https://www.turkeyfromtheinside.com/?p=1033"
+   ]
+  },
+  {
+   "id": "kaplandag",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Tire köfte at Kaplan Dağ Restaurant",
+   "desc": "The restaurant in Kaplan village is known for the local Tire köfte, grilled meatballs served with herbs and salads. It sits in the hills south of Tire.",
+   "tip": "Order the köfte with local herbs; weekends are busy.",
+   "q": "Kaplan Dağ Restoran, Kaplan Köyü, Tire, İzmir",
+   "ll": [
+    38.056,
+    27.724
+   ],
+   "src": [
+    "https://www.motleyturkey.com/fertile-lands-of-anatolia-tire"
+   ]
+  },
+  {
+   "id": "tirebedesten",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Tire Bedesten and Kapan Han",
+   "desc": "Tire's covered bazaar and the nearby Ottoman han date to the 15th century and still shelter small craft shops. The area is the core of old Tire.",
+   "tip": "Pair with the Tuesday market for the full scene.",
+   "q": "Tire Bedesteni, Tire, İzmir",
+   "ll": [
+    38.0892,
+    27.7331
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Tire,_Turkey"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "cakiraga",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the Çakırağa Mansion in Birgi",
+   "desc": "The three-storey mansion was built in the late 1700s by the merchant Şerif Aliağa and is known for its painted wooden rooms. It is an example of Ottoman Aegean domestic architecture.",
+   "tip": "Visit in the morning and combine with the Ulu Camii.",
+   "q": "Çakırağa Konağı, Birgi, Ödemiş, İzmir",
+   "ll": [
+    38.2218,
+    27.6853
+   ],
+   "src": [
+    "https://www.turkeyfromtheinside.com/?p=766"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "birgiulucami",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Birgi Ulu Camii and its carved pulpit",
+   "desc": "The 1312 mosque of the Aydınoğlu beylik has a fine wooden minbar and tiles, and is among the oldest mosques in western Anatolia.",
+   "tip": "Dress modestly and remove shoes.",
+   "q": "Birgi Ulu Camii, Birgi, Ödemiş, İzmir",
+   "ll": [
+    38.2215,
+    27.688
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Birgi"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "birgiwalk",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Stroll Birgi's old streets and cafés",
+   "desc": "The village of Birgi has restored Ottoman houses and stream-lined lanes. It has a Monday bazaar and small cafés for tea.",
+   "tip": "Visit on Monday for the bazaar.",
+   "q": "Birgi Köyü, Ödemiş, İzmir",
+   "ll": [
+    38.222,
+    27.687
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Birgi"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "odemismarket",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Browse the Saturday bazaar in Ödemiş",
+   "desc": "Ödemiş is a farming town in the Küçük Menderes valley, and its Saturday bazaar sells potatoes, fruit and local goods.",
+   "tip": "Arrive in the morning.",
+   "q": "Ödemiş Cumartesi Pazarı, Ödemiş, İzmir",
+   "ll": [
+    38.2313,
+    27.9702
+   ],
+   "src": [
+    "https://izmir.ktb.gov.tr/EN-110168/odemis.html"
+   ]
+  },
+  {
+   "id": "bozdag",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ski or hike at Bozdağ",
+   "desc": "Bozdağ, at about 2,100 m, is the Aegean's main ski centre, opened in 1998. It runs a few lifts and is an unusual snow spot near İzmir.",
+   "tip": "Go on weekdays to avoid weekend crowds.",
+   "q": "Bozdağ Kayak Merkezi, Ödemiş, İzmir",
+   "ll": [
+    38.345,
+    28.071
+   ],
+   "src": [
+    "https://alaturka.info/en/turkey-country/aegean/5532-ski-area-at-bozdag-and-goelcuek-goelue"
+   ],
+   "months": [
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "golcuk",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Picnic by Gölcük crater lake in the Bozdağ mountains",
+   "desc": "A mountain lake around 1,000 m above sea level with a 6 km shore and pine forests, popular for picnics and walks.",
+   "tip": "Bring warm clothes even in summer.",
+   "q": "Gölcük Gölü, Ödemiş, İzmir",
+   "ll": [
+    38.2138,
+    28.0312
+   ],
+   "src": [
+    "https://www.birgun.net/haber/odemis-birgi-golcuk-ve-bozdag-331400"
+   ]
+  },
+  {
+   "id": "kemalpasacherry",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Pick cherries around Kemalpaşa",
+   "desc": "Kemalpaşa is known as Turkey's cherry district, with orchards that open for picking and roadside sales in late spring.",
+   "tip": "Go in May and June.",
+   "q": "Kemalpaşa Kiraz Bahçeleri, Kemalpaşa, İzmir",
+   "ll": [
+    38.4267,
+    27.4183
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Kemal%C4%B1pa%C5%9Fa"
+   ],
+   "months": [
+    5,
+    6
+   ]
+  },
+  {
+   "id": "nymphaion",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Nymphaion remains and Karabel relief near Kemalpaşa",
+   "desc": "Nymphaion was an Ionian-era town with a Lydian and Greek past, and the nearby Karabel rock relief shows a Hittite king. Herodotus took the relief for a monument of the Egyptian Sesostris.",
+   "tip": "Wear sturdy shoes and carry water.",
+   "q": "Nymphaion Antik Kenti, Kemalpaşa, İzmir",
+   "ll": [
+    38.4231,
+    27.4588
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Nymphaion",
+    "https://en.wikipedia.org/wiki/Karabel_relief"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sultanmosque",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Sultan Mosque, home of the Mesir festival",
+   "desc": "Built in 1522 by Hafsa Sultan, mother of Suleiman the Magnificent, the mosque and its complex anchor Manisa's old centre. Mesir paste is thrown from its dome during the spring festival.",
+   "tip": "Dress modestly; visit during the festival if you can.",
+   "q": "Sultan Camii, Manisa",
+   "ll": [
+    38.6149,
+    27.4295
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Sultan_Mosque,_Manisa"
+   ]
+  },
+  {
+   "id": "muradiye",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Muradiye Mosque in Manisa",
+   "desc": "Built in 1585 in the style of Mimar Sinan's school, it has tiled interior panels and a small museum in the complex.",
+   "tip": "Pair it with the Sultan Mosque.",
+   "q": "Muradiye Camii, Manisa",
+   "ll": [
+    38.6165,
+    27.4267
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Muradiye_Mosque,_Manisa"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mesirfestival",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Join the Mesir Paste Festival in Manisa",
+   "desc": "The festival celebrates the 16th-century healing paste made for Hafsa Sultan, a mixture of about 41 spices scattered from the Sultan Mosque. UNESCO lists it as intangible heritage.",
+   "tip": "Arrive early on the day because the crowd is large.",
+   "q": "Sultan Camii, Manisa",
+   "ll": [
+    38.6149,
+    27.4295
+   ],
+   "src": [
+    "https://en.unesco.org/silkroad/silk-road-themes/intangible-cultural-heritage/mesir-macunu-festival",
+    "https://www.dailysabah.com/health/2019/04/23/centuries-old-remedy-mesir-paste-to-attract-thousands-to-fest-in-turkeys-manisa"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    3,
+    4
+   ]
+  },
+  {
+   "id": "niobe",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Weeping Rock of Niobe on Mount Spil",
+   "desc": "A rock that looks like a weeping face; legend says it is Niobe, turned to stone after her children were killed. Water seeps down it in the wet season.",
+   "tip": "Walk up from the town; the water is seasonal.",
+   "q": "Ağlayan Kaya, Spil Dağı Milli Parkı, Manisa",
+   "ll": [
+    38.6387,
+    27.4355
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Niobe"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "spilpark",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike in Spil Mountain National Park",
+   "desc": "The park above Manisa has pine forests, lookouts and walking trails.",
+   "tip": "Go in spring or autumn.",
+   "q": "Spil Dağı Milli Parkı, Manisa",
+   "ll": [
+    38.624,
+    27.448
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Mount_Sipylus"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "artemissardis",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stand among the columns of the Temple of Artemis at Sardis",
+   "desc": "Two huge Ionic columns still stand from the 4th-century BC temple in the capital of Lydia, the kingdom of King Croesus.",
+   "tip": "Visit in spring or autumn.",
+   "q": "Artemis Tapınağı, Sart, Salihli, Manisa",
+   "ll": [
+    38.4869,
+    28.0396
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Temple_of_Artemis_(Sardis)"
+   ]
+  },
+  {
+   "id": "sardissynagogue",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Sardis Synagogue and its mosaics",
+   "desc": "The 3rd-century synagogue is among the largest known from antiquity, with preserved floor mosaics and inscriptions.",
+   "tip": "Combine with the gymnasium next door.",
+   "q": "Sardis Sinagogu, Sart, Salihli, Manisa",
+   "ll": [
+    38.4879,
+    28.0309
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Sardis_Synagogue"
+   ]
+  },
+  {
+   "id": "sardisgym",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the Sardis Gymnasium and Bath complex",
+   "desc": "The restored Roman gymnasium-bath complex has a monumental marble facade known as the Marble Court.",
+   "tip": "Take water; there is little shade.",
+   "q": "Sardis Gymnasium, Sart, Salihli, Manisa",
+   "ll": [
+    38.4882,
+    28.03
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Sardis"
+   ]
+  },
+  {
+   "id": "kuladivlit",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the Kula Volcanic Geopark's Divlit crater",
+   "desc": "Kula's black lava fields, formed within the last 10,000 years, make up Turkey's first UNESCO geopark. A 2.7 km path with bridges leads over the lava.",
+   "tip": "Wear sturdy shoes; summer is hot.",
+   "q": "Divlit Volkanik Parkı, Kula, Manisa",
+   "ll": [
+    38.581,
+    28.676
+   ],
+   "src": [
+    "https://www.dailysabah.com/feature/2016/10/03/turkeys-unesco-recognized-kula-volcanic-geo-park-awaits-nature-travelers/amp"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kulafairy",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Kula fairy chimneys",
+   "desc": "Erosion sculpted tuff pillars about 18 km east of Kula, which locals call Kuladokya.",
+   "tip": "Walk the marked trail.",
+   "q": "Kula Peribacaları, Kula, Manisa",
+   "ll": [
+    38.5586,
+    28.8003
+   ],
+   "src": [
+    "https://kulasalihligeopark.com/kula-peri-bacalari"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kulahouses",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Stroll Kula's Ottoman houses",
+   "desc": "Kula keeps one of Turkey's best-preserved 18th-century Ottoman town centres, many in need of restoration and some now cafés.",
+   "tip": "Start at the main square.",
+   "q": "Kula Tarihi Evleri, Kula, Manisa",
+   "ll": [
+    38.5461,
+    28.6508
+   ],
+   "src": [
+    "https://www.dailysabah.com/arts/western-turkeys-historical-kula-houses-await-restoration/news"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "alasehirjohn",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the St John Church ruins in Alaşehir",
+   "desc": "Alaşehir is ancient Philadelphia, one of the Seven Churches of Revelation, and the remains of its basilica still stand.",
+   "tip": "Visit in the morning.",
+   "q": "St. John Kilisesi, Alaşehir, Manisa",
+   "ll": [
+    38.351,
+    28.516
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Philadelphia_(Lydia)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "akhisarkofte",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Akhisar köfte at Köfteci Hünkar",
+   "desc": "Akhisar köfte is a grilled meatball eaten with bread and tomato salad, and a Manisa speciality.",
+   "tip": "Order with ayran.",
+   "q": "Akhisar Köfteci Hünkar, Akhisar, Manisa",
+   "ll": [
+    38.9197,
+    27.8422
+   ],
+   "src": [
+    "https://www.raisin.digital/en/explore/turkey/aegean-region/akhisar/venues/restaurants/"
+   ]
+  },
+  {
+   "id": "gordesrug",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Look for Gördes rugs in Gördes",
+   "desc": "The town of Gördes has made carpets since the 17th century, and the Gördes knot is named after it.",
+   "tip": "Ask at the bazaar.",
+   "q": "Gördes Çarşı, Gördes, Manisa",
+   "ll": [
+    39.0061,
+    28.296
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/G%C3%B6rdes"
+   ]
+  }
+ ]
+}

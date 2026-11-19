@@ -1,0 +1,970 @@
+{
+ "new": [
+  {
+   "id": "cesmekalesi",
+   "cat": "gor",
+   "area": "cesme",
+   "title": "Walk the walls of Çeşme Castle",
+   "desc": "Genoese-origin fortress at the harbour, rebuilt by Sultan Bayezid II in 1508 and later extended. Its rooms hold the Çeşme Museum with finds from Ildırı and local history.",
+   "tip": "Open daily except Mondays; climb to the ramparts for views of the harbour. Entry fee is small.",
+   "q": "Çeşme Kalesi, Cumhuriyet Meydanı, Çeşme, İzmir",
+   "ll": [
+    38.32567,
+    26.30277
+   ],
+   "src": [
+    "https://www.cesme.bel.tr/historical-tourism-en",
+    "https://www.coastguidetr.com/en/historic-site/803060035/cesme-kalesi-castle"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "cesmekervansaray",
+   "cat": "gor",
+   "area": "cesme",
+   "title": "See the 1528 Çeşme Caravanserai",
+   "desc": "Built on the orders of Süleyman the Magnificent beside the castle to house foreign merchants. It now operates as a hotel but the courtyard and arcades are worth a look.",
+   "tip": "The courtyard cafe is open to non-guests; go in the evening when it is lit.",
+   "q": "Çeşme Kervansaray Hotel, Çeşme, İzmir",
+   "ll": [
+    38.32555,
+    26.3034
+   ],
+   "src": [
+    "https://www.cesme.bel.tr/historical-tourism-en"
+   ]
+  },
+  {
+   "id": "ayioshar",
+   "cat": "gor",
+   "area": "cesme",
+   "title": "Visit Ayios Haralambos Church",
+   "desc": "Greek Orthodox church built in 1832 and restored by Çeşme Municipality in 2012. It now hosts exhibitions and cultural events and is free to enter.",
+   "tip": "Check the municipality programme for current exhibitions.",
+   "q": "Ayios Haralambos Kilisesi, Çeşme, İzmir",
+   "ll": [
+    38.3245,
+    26.3071
+   ],
+   "src": [
+    "https://www.cesme.bel.tr/historical-tourism-en",
+    "https://www.lonelyplanet.com/turkey/aegean-coast/cesme/attractions/ayios-haralambos-church/a/poi-sig/1079849/360871"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hasanpasha",
+   "cat": "gor",
+   "area": "cesme",
+   "title": "Meet Gazi Hasan Pasha and his lion at the harbour",
+   "desc": "The statue of Cezayirli Gazi Hasan Pasha, the Ottoman admiral, stands in the main square beside the harbour with his pet lion. The square is the centre of the old town.",
+   "tip": "Best at sunset, with the castle behind you.",
+   "q": "Cezayirli Gazi Hasan Paşa Heykeli, Çeşme Meydanı, Çeşme, İzmir",
+   "ll": [
+    38.32335,
+    26.3026
+   ],
+   "src": [
+    "https://www.turkeysforlife.com/2023/09/cesme-izmir-things-do-see.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "alacatiwindmills",
+   "cat": "gor",
+   "area": "cesme",
+   "title": "Climb up to the Alaçatı windmills",
+   "desc": "Stone windmills from around the 1850s stand on the ridge above Alaçatı, once grinding the village grain. Several have been restored as cafes and shops.",
+   "tip": "Free to visit any time; sunset is best.",
+   "q": "Alaçatı Yel Değirmenleri, Alaçatı, Çeşme, İzmir",
+   "ll": [
+    38.2793,
+    26.3686
+   ],
+   "src": [
+    "https://www.turkeysforlife.com/2023/10/alacati-things-do-see.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hacimemis",
+   "cat": "gor",
+   "area": "cesme",
+   "title": "Stroll Hacı Memiş Street in Alaçatı",
+   "desc": "The cobbled lanes of Hacı Memiş and Kemalpaşa streets are lined with 19th-century Greek stone houses with bright shutters, now boutiques, wine bars and restaurants.",
+   "tip": "Visit mid-morning on weekdays; evenings and weekends are very crowded.",
+   "q": "Hacı Memiş Caddesi, Alaçatı, Çeşme, İzmir",
+   "ll": [
+    38.2733,
+    26.3748
+   ],
+   "src": [
+    "https://theculturetrip.com/asia/turkey/articles/how-to-spend-a-weekend-in-the-small-seaside-town-of-alacati"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "alacatistone",
+   "cat": "gor",
+   "area": "cesme",
+   "title": "Wander Alaçatı back lanes of stone houses",
+   "desc": "Beyond the main streets are quiet lanes of restored Rum houses with bougainvillea and carved doors. The village was largely Greek until the 1923 population exchange.",
+   "tip": "Start near the Alaçatı bazaar square and head east.",
+   "q": "Alaçatı Çarşı, Alaçatı, Çeşme, İzmir",
+   "ll": [
+    38.2748,
+    26.3733
+   ],
+   "src": [
+    "https://www.turkeysforlife.com/2023/10/alacati-things-do-see.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "klazoil",
+   "cat": "gor",
+   "area": "cesme",
+   "title": "See the 6th-century BC Klazomenai olive oil workshop",
+   "desc": "Restored workshop with pressing platforms and pits at the ancient city of Klazomenai, among the oldest known olive oil installations in the Aegean. It was reconstructed in situ and is open to visitors.",
+   "tip": "Combine with Limantepe nearby; bring water, there is little shade.",
+   "q": "Klazomenai Zeytinyağı Atölyesi, Urla İskele, Urla, İzmir",
+   "ll": [
+    38.3621,
+    26.7813
+   ],
+   "src": [
+    "https://izmir.ktb.gov.tr/EN-240333/klazomenai-urla.html",
+    "https://hurriyetdailynews.com/klazomenai-ceramic-center-of-ancient-period-177285"
+   ]
+  },
+  {
+   "id": "limantepe",
+   "cat": "gor",
+   "area": "cesme",
+   "title": "Explore Limantepe, the prehistoric mound of Klazomenai",
+   "desc": "Excavations at Limantepe near Urla İskele have revealed Bronze Age fortifications and one of the earliest harbours of the Ionian coast. Panels explain the site.",
+   "tip": "Open-air site; go in spring or autumn.",
+   "q": "Limantepe Höyüğü, Urla İskele, Urla, İzmir",
+   "ll": [
+    38.3645,
+    26.7747
+   ],
+   "src": [
+    "https://testvisitizmir.izmir.bel.tr/en/Destinasyon/11866",
+    "https://en.wikipedia.org/wiki/Klazomenai"
+   ]
+  },
+  {
+   "id": "urlasanat",
+   "cat": "gor",
+   "area": "cesme",
+   "title": "Browse Urla Art Street",
+   "desc": "A pedestrianised street of restored stone houses in central Urla with galleries, craft shops and cafes. It is the heart of the town revived cultural scene.",
+   "tip": "Visit Thursday to Sunday afternoons when most workshops are open.",
+   "q": "Urla Sanat Sokağı, İskele Caddesi, Urla, İzmir",
+   "ll": [
+    38.3238,
+    26.7646
+   ],
+   "src": [
+    "https://www.yerelrehber.com/en/explore/attractions/urla-sanat-street"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hizirbey",
+   "cat": "gor",
+   "area": "cesme",
+   "title": "See the 16th-century Hızır Bey Mosque in Urla",
+   "desc": "Ottoman mosque in the centre of Urla built in the 16th century and one of the oldest in the area. Its stonework fits the surrounding old market district.",
+   "tip": "Dress modestly; outside prayer times only.",
+   "q": "Hızır Bey Camii, Urla, İzmir",
+   "ll": [
+    38.3232,
+    26.7649
+   ],
+   "src": [
+    "https://tr.wikipedia.org/wiki/Hızırbey_Camii_(Urla)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "karantina",
+   "cat": "gor",
+   "area": "cesme",
+   "title": "Spot Karantina Island off Urla İskele",
+   "desc": "A small island in the bay used as a quarantine station in Ottoman and early Republican times, with old buildings still standing. It is a landmark of the Urla İskele waterfront.",
+   "tip": "View it from the pier; boat rides run from İskele in summer.",
+   "q": "Karantina Adası, Urla İskele, Urla, İzmir",
+   "ll": [
+    38.3679,
+    26.773
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Karantina_Island"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "dalyanvillage",
+   "cat": "gor",
+   "area": "cesme",
+   "title": "Watch the fishing boats at Dalyan",
+   "desc": "Quiet fishing village on the north coast of Çeşme with a small harbour and seafront fish restaurants, away from the resort strip. Tied to the old fishing economy of the town.",
+   "tip": "Come at sunset for views toward Chios.",
+   "q": "Dalyan Balıkçı Barınağı, Dalyan, Çeşme, İzmir",
+   "ll": [
+    38.3472,
+    26.2979
+   ],
+   "src": [
+    "https://blue-voyage.goturkiye.com/cesme-alacati"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "germiyan",
+   "cat": "gor",
+   "area": "cesme",
+   "title": "Visit the old stone village of Germiyan",
+   "desc": "Small village of traditional stone houses and olive groves in the interior of Çeşme, little changed by tourism. It is a quiet counterpoint to the coast.",
+   "tip": "Drive; take care on narrow lanes, and be back before dark.",
+   "q": "Germiyan Köyü, Çeşme, İzmir",
+   "ll": [
+    38.285,
+    26.338
+   ],
+   "src": [
+    "https://www.turkeysforlife.com/2023/09/cesme-izmir-things-do-see.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gulbahce",
+   "cat": "gor",
+   "area": "cesme",
+   "title": "Look over Gülbahçe Bay and its olive hills",
+   "desc": "Quiet bay near Urla known for its olive groves, small marina and views across the Gulf of İzmir. It is home to the İzmir Institute of Technology campus.",
+   "tip": "Quiet on weekdays; good for a drive.",
+   "q": "Gülbahçe Koyu, Gülbahçe, Urla, İzmir",
+   "ll": [
+    38.3958,
+    26.6437
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Izmir_Institute_of_Technology"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "zeytinalani",
+   "cat": "gor",
+   "area": "cesme",
+   "title": "See the olive groves at Zeytinalanı",
+   "desc": "Seaside village between Urla and Çeşmealtı surrounded by old olive trees running to the water. Part of the olive oil heritage of Urla.",
+   "tip": "Spring and autumn are the best for walking.",
+   "q": "Zeytinalanı, Urla, İzmir",
+   "ll": [
+    38.319,
+    26.808
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Urla"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "odurla",
+   "cat": "ye",
+   "area": "cesme",
+   "title": "Book the tasting menu at OD Urla",
+   "desc": "Hilltop estate restaurant opened in 2018 among vineyards, with a glasshouse and terrace. Its menu is built around Aegean produce and estate wine and has earned a Michelin star.",
+   "tip": "Reserve well in advance; dinner is the main service.",
+   "q": "OD Urla, Zeytinler Mah., Urla, İzmir",
+   "ll": [
+    38.3188,
+    26.7086
+   ],
+   "src": [
+    "https://finedininglovers.com/node/125481",
+    "https://www.enprimeurclub.com/restaurants/od-urla"
+   ]
+  },
+  {
+   "id": "teruar",
+   "cat": "ye",
+   "area": "cesme",
+   "title": "Dine at Teruar Urla among the vines",
+   "desc": "Tasting-menu restaurant within a seven-room boutique hotel set among vineyards and olive trees. The kitchen focuses on terroir-driven Aegean cooking.",
+   "tip": "Book ahead and ask for the wine pairing.",
+   "q": "Teruar Urla, Urla, İzmir",
+   "ll": [
+    38.3123,
+    26.7116
+   ],
+   "src": [
+    "https://www.hurriyet.com.tr/lezizz/galeri-izmirin-lezzetleriyle-one-cikan-restoranlari-42087636",
+    "https://www.enprimeurclub.com/restaurants/teruar-urla"
+   ]
+  },
+  {
+   "id": "vinolocale",
+   "cat": "ye",
+   "area": "cesme",
+   "title": "Try the seasonal set menu at Vino Locale",
+   "desc": "Chef Ozan Kumbasar runs a small eight-table restaurant in Urla with a seasonal set menu that changes every six weeks and local wines.",
+   "tip": "Reservations essential; ask about the vegetarian menu.",
+   "q": "Vino Locale, Urla, İzmir",
+   "ll": [
+    38.3236,
+    26.7635
+   ],
+   "src": [
+    "https://www.urlavinolocale.com/",
+    "https://www.enprimeurclub.com/restaurants/vino-locale-izmir-restaurant"
+   ]
+  },
+  {
+   "id": "osmansezener",
+   "cat": "ye",
+   "area": "cesme",
+   "title": "Taste village cooking at Osman Sezener",
+   "desc": "Urla restaurant noted by food writers for its local produce and its place in the farm-to-table scene of the area.",
+   "tip": "Check opening days before going.",
+   "q": "Osman Sezener Restaurant, Urla, İzmir",
+   "ll": [
+    38.3241,
+    26.7624
+   ],
+   "src": [
+    "https://thelocaltongue.com/best-restaurants-urla-turkey-osman-sezener/",
+    "https://www.nationalgeographic.com/travel/article/urla-turkey-farm-to-table-fine-dining"
+   ]
+  },
+  {
+   "id": "urlasarap",
+   "cat": "ye",
+   "area": "cesme",
+   "title": "Taste wines at Urla Şarapçılık",
+   "desc": "One of the cornerstone wineries of the Urla Wine Route, with a tasting room and a restaurant overlooking the vineyards.",
+   "tip": "Book a tasting in advance in busy months.",
+   "q": "Urla Şarapçılık, Urla, İzmir",
+   "ll": [
+    38.3404,
+    26.744
+   ],
+   "src": [
+    "https://thequirkycork.com/turkish-wine-routes-part-one-urla/",
+    "https://testvisitizmir.izmir.bel.tr/en/Content/242"
+   ]
+  },
+  {
+   "id": "uscawine",
+   "cat": "ye",
+   "area": "cesme",
+   "title": "Taste Syrah and local wines at USCA",
+   "desc": "Founding member of the Urla Wine Route with vineyards around Urla and a tasting room open to visitors.",
+   "tip": "Call ahead to book a tasting.",
+   "q": "USCA Şarapçılık, Urla, İzmir",
+   "ll": [
+    38.316,
+    26.725
+   ],
+   "src": [
+    "https://www.hurriyetdailynews.com/amp/urla-wine-route-perks-up-as-vineyards-unite-98301"
+   ]
+  },
+  {
+   "id": "mozaikwine",
+   "cat": "ye",
+   "area": "cesme",
+   "title": "Sip wine at Mozaik Vineyard in Urla",
+   "desc": "Small Urla wine estate on the wine route offering tastings among its vineyards. Details on opening should be confirmed before going.",
+   "tip": "Book a tasting in advance.",
+   "q": "Mozaik Bağları, Urla, İzmir",
+   "ll": [
+    38.3058,
+    26.735
+   ],
+   "src": [
+    "https://www.richmondhotels.com.tr/en/blog/the-best-wine-routes-in-the-aegean-region/"
+   ]
+  },
+  {
+   "id": "kayawine",
+   "cat": "ye",
+   "area": "cesme",
+   "title": "Visit Kaya Vineyard for a tasting near Urla",
+   "desc": "Winery in the Urla area with vineyards and a tasting room. Confirm visiting hours as it works mostly by appointment.",
+   "tip": "Phone ahead.",
+   "q": "Kaya Şarapçılık, Urla, İzmir",
+   "ll": [
+    38.312,
+    26.743
+   ],
+   "src": [
+    "https://goturkiye.com/vineyards/urla-vineyard-route"
+   ]
+  },
+  {
+   "id": "cakirwine",
+   "cat": "ye",
+   "area": "cesme",
+   "title": "Taste at Çakır Şarapçılık, newest on the route",
+   "desc": "Winery described as the newest addition to the Urla Wine Route, with its first bottling in 2018.",
+   "tip": "Book tastings ahead.",
+   "q": "Çakır Şarapçılık, Urla, İzmir",
+   "ll": [
+    38.296,
+    26.705
+   ],
+   "src": [
+    "https://thequirkycork.com/turkish-wine-routes-part-one-urla/"
+   ]
+  },
+  {
+   "id": "urlice",
+   "cat": "ye",
+   "area": "cesme",
+   "title": "Stop at the small cellar of Urlice",
+   "desc": "Small, rustic winery and founding member of the Urla Wine Route, with simple tastings.",
+   "tip": "Bring cash and call first.",
+   "q": "Urlice Şarapçılık, Urla, İzmir",
+   "ll": [
+    38.31,
+    26.709
+   ],
+   "src": [
+    "https://www.hurriyetdailynews.com/amp/urla-wine-route-perks-up-as-vineyards-unite-98301"
+   ]
+  },
+  {
+   "id": "asmayapragi",
+   "cat": "ye",
+   "area": "cesme",
+   "title": "Dinner at Asma Yaprağı in Alaçatı",
+   "desc": "One of the best-known restaurants of Alaçatı, serving Aegean and Turkish dishes in a garden in the old town.",
+   "tip": "Book on summer weekends; try the herb dishes.",
+   "q": "Asma Yaprağı, Alaçatı, Çeşme, İzmir",
+   "ll": [
+    38.2737,
+    26.3747
+   ],
+   "src": [
+    "https://www.turkeysforlife.com/2023/10/alacati-things-do-see.html"
+   ]
+  },
+  {
+   "id": "yerfistigi",
+   "cat": "ye",
+   "area": "cesme",
+   "title": "Have a Turkish breakfast at Yer Fıstığı",
+   "desc": "Alaçatı cafe recommended for a traditional Turkish breakfast spread with local cheeses, olives and jams.",
+   "tip": "Arrive before 11 on weekends.",
+   "q": "Yer Fıstığı Kahvaltı & Cafe, Alaçatı, Çeşme, İzmir",
+   "ll": [
+    38.2732,
+    26.3737
+   ],
+   "src": [
+    "https://www.turkeysforlife.com/2023/10/alacati-things-do-see.html"
+   ]
+  },
+  {
+   "id": "kumrucusevki",
+   "cat": "ye",
+   "area": "cesme",
+   "title": "Eat a kumru sandwich at Kumrucu Şevki",
+   "desc": "Çeşme is known for kumru, a toasted roll filled with sucuk, cheese and tomato. Kumrucu Şevki is a popular kumru stop.",
+   "tip": "Order it with a glass of ayran.",
+   "q": "Kumrucu Şevki, Çeşme, İzmir",
+   "ll": [
+    38.3236,
+    26.308
+   ],
+   "src": [
+    "https://www.turkeysforlife.com/2023/10/alacati-things-do-see.html"
+   ]
+  },
+  {
+   "id": "ilicakumru",
+   "cat": "ye",
+   "area": "cesme",
+   "title": "Grab an Ilıca kumru by the beach",
+   "desc": "The seafront cafes of Ilıca serve the signature kumru of Çeşme, a crisp roll with sucuk and cheese.",
+   "tip": "Best after a swim; busy at lunchtime.",
+   "q": "Ilıca Kumru, Ilıca, Çeşme, İzmir",
+   "ll": [
+    38.3167,
+    26.3583
+   ],
+   "src": [
+    "https://www.turkeysforlife.com/2023/09/cesme-izmir-things-do-see.html"
+   ]
+  },
+  {
+   "id": "alacatimuhallebi",
+   "cat": "ye",
+   "area": "cesme",
+   "title": "Try mastic puddings at an Alaçatı muhallebici",
+   "desc": "Milk-pudding shops in Alaçatı serve desserts flavoured with mastic (sakız), a resin grown on nearby Chios and used across the peninsula.",
+   "tip": "Try the sakızlı muhallebi.",
+   "q": "Alaçatı Muhallebicisi, Alaçatı, Çeşme, İzmir",
+   "ll": [
+    38.274,
+    26.3742
+   ],
+   "src": [
+    "https://theculturetrip.com/asia/turkey/articles/how-to-spend-a-weekend-in-the-small-seaside-town-of-alacati"
+   ]
+  },
+  {
+   "id": "sakizdondurma",
+   "cat": "ye",
+   "area": "cesme",
+   "title": "Taste mastic ice cream in Çeşme",
+   "desc": "Dondurma flavoured with mastic is a local speciality sold at ice-cream parlours near the harbour.",
+   "tip": "Eat it near the castle.",
+   "q": "Dondurmacı, Çeşme Meydanı, Çeşme, İzmir",
+   "ll": [
+    38.3238,
+    26.3033
+   ],
+   "src": [
+    "https://www.turkeysforlife.com/2023/09/cesme-izmir-things-do-see.html"
+   ]
+  },
+  {
+   "id": "urlaiskele",
+   "cat": "ye",
+   "area": "cesme",
+   "title": "Have a seafood lunch on the Urla İskele waterfront",
+   "desc": "Urla İskele has a line of fish restaurants facing the bay, a long-standing weekend outing from İzmir.",
+   "tip": "Fish is priced by weight; check before ordering.",
+   "q": "Urla İskele Balıkçılar, Urla İskele, Urla, İzmir",
+   "ll": [
+    38.3658,
+    26.7742
+   ],
+   "src": [
+    "https://www.bizevdeyokuz.com/?p=65202"
+   ]
+  },
+  {
+   "id": "urlaartichoke",
+   "cat": "ye",
+   "area": "cesme",
+   "title": "Order the artichoke dishes in Urla",
+   "desc": "Urla is known across İzmir for its spring artichokes, served in olive-oil dishes in local restaurants.",
+   "tip": "Season runs roughly March to May.",
+   "q": "Urla Çarşı, Urla, İzmir",
+   "ll": [
+    38.3229,
+    26.7653
+   ],
+   "src": [
+    "https://www.nationalgeographic.com/travel/article/urla-turkey-farm-to-table-fine-dining"
+   ],
+   "months": [
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "windsurf",
+   "cat": "dene",
+   "area": "cesme",
+   "title": "Learn windsurfing in Alaçatı Bay",
+   "desc": "Alaçatı Bay has shallow water and steady summer winds and is one of the windsurfing centres of Europe, with several schools along the beach.",
+   "tip": "The afternoon wind is strongest; beginners go in the morning.",
+   "q": "Alaçatı Surf Paradise, Alaçatı, Çeşme, İzmir",
+   "ll": [
+    38.2524,
+    26.3611
+   ],
+   "src": [
+    "https://goturkiye.com/aegean/windsurfing",
+    "https://www.dailysabah.com/expats-corner/2016/07/21/as-the-wind-blows-turkeys-best-places-for-kitesurfing"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "kitesurf",
+   "cat": "dene",
+   "area": "cesme",
+   "title": "Take a kitesurf lesson on Alaçatı Bay",
+   "desc": "Schools at Alaçatı offer IKO-certified lessons in the flat bay. It is regarded as a good beginner kite beach.",
+   "tip": "Check the wind forecast the day before.",
+   "q": "Kitesurf Alaçatı Bay, Alaçatı, Çeşme, İzmir",
+   "ll": [
+    38.254,
+    26.363
+   ],
+   "src": [
+    "https://www.surf-store.com/posts/kitesurfing-alacati-turkey-guide",
+    "https://ikointl.com/iko-kite-School-detail/about?nid=496568"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "alacatibazaar",
+   "cat": "dene",
+   "area": "cesme",
+   "title": "Browse the Saturday market in Alaçatı",
+   "desc": "Weekly market drawing locals and day visitors with produce, cheeses, herbs and crafts, about 3 km from Çeşme.",
+   "tip": "Go early before the crowds and heat.",
+   "q": "Alaçatı Pazaryeri, Alaçatı, Çeşme, İzmir",
+   "ll": [
+    38.277,
+    26.3755
+   ],
+   "src": [
+    "https://www.cesme.bel.tr/bazaars-en",
+    "https://www.booked.ai/attractions/visit-the-alacati-market-pazaryeri-on-saturdays"
+   ]
+  },
+  {
+   "id": "herbfest",
+   "cat": "dene",
+   "area": "cesme",
+   "title": "Join the Alaçatı Herb Festival",
+   "desc": "Four-day spring festival begun in 2010 celebrating the wild greens of the Aegean, with food stalls, tastings and workshops in the old town.",
+   "tip": "Held around early April; book rooms ahead.",
+   "q": "Alaçatı Ot Festivali, Alaçatı, Çeşme, İzmir",
+   "ll": [
+    38.2738,
+    26.3745
+   ],
+   "src": [
+    "https://www.turkeysforlife.com/2023/10/alacati-things-do-see.html"
+   ],
+   "months": [
+    4
+   ]
+  },
+  {
+   "id": "ilicabeach",
+   "cat": "dene",
+   "area": "cesme",
+   "title": "Swim at Ilıca Beach",
+   "desc": "Shallow, family-friendly beach of about 2 km where thermal springs warm the water, one of the best-known beaches of the peninsula.",
+   "tip": "Weekday mornings are calmer.",
+   "q": "Ilıca Plajı, Ilıca, Çeşme, İzmir",
+   "ll": [
+    38.315,
+    26.357
+   ],
+   "src": [
+    "https://theculturetrip.com/asia/turkey/cesme/articles/the-best-beaches-in-cesme-izmirs-popular-resort-town"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "sifne",
+   "cat": "dene",
+   "area": "cesme",
+   "title": "Soak in the thermal springs at Şifne",
+   "desc": "Şifne is one of the two best-known hot-spring areas of the peninsula, with thermal pools and spa hotels.",
+   "tip": "Many baths are in hotels; call for day passes.",
+   "q": "Şifne Kaplıcaları, Şifne, Çeşme, İzmir",
+   "ll": [
+    38.324,
+    26.5183
+   ],
+   "src": [
+    "https://kupi.com/en/explore/turkey/cesme/history",
+    "https://goturkiye.com/cesme/smell"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "altinkum",
+   "cat": "dene",
+   "area": "cesme",
+   "title": "Swim at Altınkum Beach",
+   "desc": "Golden sand beach near central Çeşme facing open water, so the sea is cooler and livelier.",
+   "tip": "Bring shade; facilities are limited.",
+   "q": "Altınkum Plajı, Çeşme, İzmir",
+   "ll": [
+    38.2998,
+    26.265
+   ],
+   "src": [
+    "https://theculturetrip.com/europe/turkey/articles/the-best-beaches-in-cesme-izmirs-popular-resort-town"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "ayayorgi",
+   "cat": "dene",
+   "area": "cesme",
+   "title": "Spend a day at Ayayorgi Bay",
+   "desc": "Cove with beach clubs and a social atmosphere on the west coast of the peninsula.",
+   "tip": "Arrive early for sunbeds in July and August.",
+   "q": "Ayayorgi Plajı, Çeşme, İzmir",
+   "ll": [
+    38.3365,
+    26.259
+   ],
+   "src": [
+    "https://theculturetrip.com/europe/turkey/articles/the-best-beaches-in-cesme-izmirs-popular-resort-town"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "pirlanta",
+   "cat": "dene",
+   "area": "cesme",
+   "title": "Surf or swim at Pırlanta Beach",
+   "desc": "Pırlanta (Diamond Beach) at Çiftlikköy is known for windsurfing and kitesurfing, with equipment rental and lessons.",
+   "tip": "Wind picks up after midday.",
+   "q": "Pırlanta Plajı, Çiftlikköy, Çeşme, İzmir",
+   "ll": [
+    38.2723,
+    26.2999
+   ],
+   "src": [
+    "https://www.dailysabah.com/expats-corner/2016/07/21/as-the-wind-blows-turkeys-best-places-for-kitesurfing"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "boyalik",
+   "cat": "dene",
+   "area": "cesme",
+   "title": "Swim in the calm waters at Boyalık",
+   "desc": "Quiet beach between Ilıca and Çeşme with calm, pool-like water on windless days.",
+   "tip": "Lunch at the beach cafes.",
+   "q": "Boyalık Plajı, Çeşme, İzmir",
+   "ll": [
+    38.3196,
+    26.336
+   ],
+   "src": [
+    "https://theculturetrip.com/asia/turkey/cesme/articles/the-best-beaches-in-cesme-izmirs-popular-resort-town"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "dalyanbeach",
+   "cat": "dene",
+   "area": "cesme",
+   "title": "Take a dip at Dalyan beach",
+   "desc": "Small beach at the entrance to Dalyan, easy to reach from central Çeşme.",
+   "tip": "Good for an evening swim.",
+   "q": "Dalyan Plajı, Dalyan, Çeşme, İzmir",
+   "ll": [
+    38.3458,
+    26.296
+   ],
+   "src": [
+    "https://yolcu360.com/blog/?p=9394"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "urlacycling",
+   "cat": "dene",
+   "area": "cesme",
+   "title": "Cycle the Urla wine and olive roads",
+   "desc": "Gently rolling lanes link the wineries and olive groves of Urla Bağlarası, popular with cyclists.",
+   "tip": "Spring and autumn; carry water.",
+   "q": "Urla Bağlarası, Urla, İzmir",
+   "ll": [
+    38.325,
+    26.736
+   ],
+   "src": [
+    "https://goturkiye.com/vineyards/urla-vineyard-route"
+   ],
+   "months": [
+    3,
+    4,
+    5,
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "id": "ilicabazaar",
+   "cat": "dene",
+   "area": "cesme",
+   "title": "Shop the Thursday bazaar in Ilıca",
+   "desc": "Local market in Ilıca selling fresh fruit, vegetables and fish.",
+   "tip": "Go early for the best fish.",
+   "q": "Ilıca Pazaryeri, Ilıca, Çeşme, İzmir",
+   "ll": [
+    38.319,
+    26.369
+   ],
+   "src": [
+    "https://www.cesme.bel.tr/bazaars-en"
+   ]
+  },
+  {
+   "id": "alacatimarina",
+   "cat": "dene",
+   "area": "cesme",
+   "title": "Go sailing or SUP from Alaçatı Marina",
+   "desc": "Alaçatı Port offers boat trips, rentals and watersports around the bay.",
+   "tip": "Check the wind before booking.",
+   "q": "Alaçatı Port Marina, Alaçatı, Çeşme, İzmir",
+   "ll": [
+    38.265,
+    26.376
+   ],
+   "src": [
+    "https://www.travelsupermarket.com/en-gb/blog/destinations/turkey/why-visit-alacati/"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "ovacikbeach",
+   "cat": "dene",
+   "area": "cesme",
+   "title": "Swim at Ovacık beach",
+   "desc": "Rocky and sandy coves west of Çeşme with clear water.",
+   "tip": "Wear water shoes on the rocks.",
+   "q": "Ovacık Plajı, Ovacık, Çeşme, İzmir",
+   "ll": [
+    38.3125,
+    26.2715
+   ],
+   "src": [
+    "https://goturkiye.com/cesme/smell"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "cesmealti",
+   "cat": "dene",
+   "area": "cesme",
+   "title": "Swim at Çeşmealtı near Urla",
+   "desc": "Seaside resort at the start of the Karaburun road on the south coast of Urla, with small beaches and fish restaurants.",
+   "tip": "Quieter than Çeşme in July.",
+   "q": "Çeşmealtı Plajı, Çeşmealtı, Urla, İzmir",
+   "ll": [
+    38.307,
+    26.827
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Urla"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "cesmeboat",
+   "cat": "dene",
+   "area": "cesme",
+   "title": "Take a boat trip from Çeşme harbour",
+   "desc": "Day boats leave the harbour for swim stops in the bays around the peninsula, a classic Çeşme summer outing.",
+   "tip": "Book at the harbour kiosks; choose a morning departure.",
+   "q": "Çeşme Limanı, Çeşme, İzmir",
+   "ll": [
+    38.3228,
+    26.3033
+   ],
+   "src": [
+    "https://blue-voyage.goturkiye.com/cesme-alacati"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  }
+ ]
+}

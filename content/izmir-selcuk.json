@@ -1,0 +1,620 @@
+{
+ "new": [
+  {
+   "id": "celsuslibrary",
+   "cat": "gor",
+   "area": "selcuk",
+   "title": "Stand before the Library of Celsus facade",
+   "desc": "Built around 114-135 AD by Gaius Julius Aquila in memory of his father, the Roman governor Tiberius Julius Celsus, who is buried in a crypt beneath it. The two-storey facade was reassembled from fallen stones by Austrian archaeologists in the 1970s. It once held about 12,000 scrolls.",
+   "tip": "Arrive at opening or in the last hour to avoid tour-bus crowds. Entry is with the main Ephesus ticket.",
+   "q": "Celsus Library, Efes Antik Kenti, Selçuk, İzmir",
+   "ll": [
+    37.93972,
+    27.3417
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Library_of_Celsus"
+   ]
+  },
+  {
+   "id": "ephesustheatre",
+   "cat": "gor",
+   "area": "selcuk",
+   "title": "Sit in the Great Theatre of Ephesus",
+   "desc": "Carved into the slope of Panayır Hill and enlarged under Rome, this theatre seated about 25,000 people. Saint Paul preached here, according to Acts 19, and the Silversmiths' riot against him took place in this setting. Concerts and festivals are still staged here.",
+   "tip": "Climb to the upper rows for the view down Harbour Street. Check the site's event calendar for evening concerts.",
+   "q": "Great Theatre, Efes Antik Kenti, Selçuk, İzmir",
+   "ll": [
+    37.93957,
+    27.34162
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Great_Theatre_of_Ephesus"
+   ]
+  },
+  {
+   "id": "terracehouses",
+   "cat": "gor",
+   "area": "selcuk",
+   "title": "Explore the Terrace Houses of Ephesus",
+   "desc": "Six luxurious Roman houses on the slope opposite the Temple of Hadrian, occupied from the 1st to 7th centuries AD and sheltered by a modern roof. They hold intact frescoes, mosaic floors and marble-clad rooms with heated floors. They show how wealthy Ephesians lived.",
+   "tip": "Needs a separate ticket from the main site and has shorter hours. The covered visit works well in rain or summer heat.",
+   "q": "Yamaç Evler, Efes Antik Kenti, Selçuk, İzmir",
+   "ll": [
+    37.93905,
+    27.34135
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Terrace_Houses,_Ephesus"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "curetesstreet",
+   "cat": "gor",
+   "area": "selcuk",
+   "title": "Walk Curetes Street to the Fountain of Trajan",
+   "desc": "The colonnaded main street climbing from the Celsus Library toward the Magnesian Gate, lined with statue bases, fountains, a public latrine and mosaics. It was named after the Curetes, a priestly college. Its marble paving still shows chariot ruts and drainage channels.",
+   "tip": "Walk it downhill from the Magnesian Gate entrance to save your legs. Look for the Fountain of Trajan on the way.",
+   "q": "Kuretler Caddesi, Efes Antik Kenti, Selçuk, İzmir",
+   "ll": [
+    37.9395,
+    27.34092
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Curetes_Street"
+   ]
+  },
+  {
+   "id": "hadrianstemple",
+   "cat": "gor",
+   "area": "selcuk",
+   "title": "See the Temple of Hadrian on Curetes Street",
+   "desc": "A small Corinthian temple dedicated to Emperor Hadrian, completed around 138 AD and restored in antiquity. Its arch carries a relief of Medusa, and a frieze shows the legendary founding of Ephesus. The one on site is partly rebuilt, with the original frieze in the Ephesus Museum.",
+   "tip": "Best photographed in the morning light. It sits opposite the Terrace Houses entrance.",
+   "q": "Hadrian Tapınağı, Efes Antik Kenti, Selçuk, İzmir",
+   "ll": [
+    37.93933,
+    27.34128
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Temple_of_Hadrian,_Ephesus"
+   ]
+  },
+  {
+   "id": "ephesusodeon",
+   "cat": "gor",
+   "area": "selcuk",
+   "title": "Visit the Odeon, Ephesus's small council theatre",
+   "desc": "A roofed, semicircular theatre of about 1,400 seats built around 150 AD by the Vedius family. It served as the city council chamber (bouleuterion) and as a concert hall. The upper rows and the stage wall remain.",
+   "tip": "Quieter than the Great Theatre, and a good place to sit in shade. It lies near the Upper (Magnesian) Gate end of the site.",
+   "q": "Odeon, Efes Antik Kenti, Selçuk, İzmir",
+   "ll": [
+    37.94013,
+    27.34025
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Odeon_of_Ephesus"
+   ]
+  },
+  {
+   "id": "harbourstreet",
+   "cat": "gor",
+   "area": "selcuk",
+   "title": "Walk the Arcadian (Harbour) Street at Ephesus",
+   "desc": "A 11 m wide marble-paved processional road, nearly 500 m long, running from the Great Theatre toward the silted-up harbour. It was lit by oil lamps at night, and Emperor Arcadius had it rebuilt around 400 AD. Some column rows are still standing.",
+   "tip": "Usually the least-visited stretch of the site. Come after the main crowd has left, or enter by the Lower Gate.",
+   "q": "Arkadiane Caddesi, Efes Antik Kenti, Selçuk, İzmir",
+   "ll": [
+    37.94008,
+    27.3435
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Arcadiane"
+   ]
+  },
+  {
+   "id": "magnesiangate",
+   "cat": "gor",
+   "area": "selcuk",
+   "title": "Start at the Upper (Magnesian) Gate of Ephesus",
+   "desc": "The Upper Gate entrance puts you at the top of the ruins, so you can walk downhill past the Odeon, Curetes Street and the library. The Magnesian Gate itself is a Hellenistic city gate on the road to Magnesia on the Maeander, later reinforced with towers. Many visitors skip it by entering at the bottom.",
+   "tip": "Enter here (the upper entrance is on the Selçuk-Ephesus road side), finish at the lower gate, and take a taxi or dolmuş back.",
+   "q": "Üst Kapı, Efes Antik Kenti, Selçuk, İzmir",
+   "ll": [
+    37.938,
+    27.3442
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ephesus"
+   ]
+  },
+  {
+   "id": "ephesusagora",
+   "cat": "gor",
+   "area": "selcuk",
+   "title": "Walk the State Agora of Ephesus",
+   "desc": "The largest open space of the Roman city, a square of about 160 by 58 m, bordered by colonnades that once held shops and public offices. It marks the political heart of the upper town and has the basilica and Memmius monument nearby. Few visitors linger.",
+   "tip": "It is at the top of the site next to the Odeon, with quiet shade in the afternoon.",
+   "q": "Devlet Agorası, Efes Antik Kenti, Selçuk, İzmir",
+   "ll": [
+    37.9404,
+    27.3401
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ephesus"
+   ]
+  },
+  {
+   "id": "ephesusmuseum",
+   "cat": "gor",
+   "area": "selcuk",
+   "title": "Tour the Ephesus Archaeological Museum in Selçuk",
+   "desc": "The museum shows finds from Ephesus and the Artemision, including the Ephesian Artemis statues with her many bulbous forms, Roman marbles and the Trajan frieze. It is the key to understanding the cult of Artemis before the ruins.",
+   "tip": "Allow around an hour. Visit it before Ephesus if you are staying in Selçuk. Closed on some Mondays.",
+   "q": "Efes Müzesi, Uğur Mumcu Sevgi Yolu, Selçuk, İzmir",
+   "ll": [
+    37.94937,
+    27.36904
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ephesus_Archaeological_Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "artemistemple",
+   "cat": "gor",
+   "area": "selcuk",
+   "title": "See what is left of the Temple of Artemis",
+   "desc": "Once among the Seven Wonders of the Ancient World, this vast Ionic temple was rebuilt in the 6th century BC with funds from Croesus, and was about four times larger than the Parthenon. Burned in 356 BC and sacked by the Goths in 262 AD, it is now a single re-erected column in a marshy field.",
+   "tip": "Free to visit and takes 15 minutes. It is a short walk from the Selçuk centre toward the museum.",
+   "q": "Artemis Tapınağı, Selçuk, İzmir",
+   "ll": [
+    37.94975,
+    27.3639
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Temple_of_Artemis"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stjohnbasilica",
+   "cat": "gor",
+   "area": "selcuk",
+   "title": "Visit the Basilica of St John on Ayasuluk Hill",
+   "desc": "Built in the 6th century under Emperor Justinian over a tomb believed to be that of John the Apostle. It was a vast cruciform church with six domes, which was damaged by earthquakes and by 14th-century conquests. Marble foundations, columns and the tomb of the apostle can still be seen.",
+   "tip": "Combine it with the castle on the hill above. It has a separate ticket from Ephesus.",
+   "q": "St. Jean Bazilikası, Ayasuluk Tepesi, Selçuk, İzmir",
+   "ll": [
+    37.9525,
+    27.3664
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Basilica_of_St._John"
+   ]
+  },
+  {
+   "id": "ayasulukcastle",
+   "cat": "gor",
+   "area": "selcuk",
+   "title": "Climb Ayasuluk Castle above Selçuk",
+   "desc": "Byzantine walls with Seljuk and Aydınid additions crown Ayasuluk Hill above the Basilica of St John. The fortress surrounded a medieval town of the same name, which was succeeded by modern Selçuk. Some towers, cisterns and a small mosque survive.",
+   "tip": "Great views over Selçuk, the aqueduct and the plain toward the sea. The castle is usually entered via the basilica ticket.",
+   "q": "Ayasuluk Kalesi, Selçuk, İzmir",
+   "ll": [
+    37.953,
+    27.366
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ayasuluk_Castle"
+   ]
+  },
+  {
+   "id": "isabeymosque",
+   "cat": "gor",
+   "area": "selcuk",
+   "title": "See the İsa Bey Mosque at the foot of Ayasuluk Hill",
+   "desc": "Built in 1375 for the Aydınid ruler İsa Bey by the Syrian architect Ali bin Müşeymiş ad-Dımışkî. It combines Seljuk and Syrian stonework, with two unequal minarets and a large courtyard. Some of its marble came from Ephesus.",
+   "tip": "Free, and the courtyard is calm. Dress modestly and avoid prayer times.",
+   "q": "İsa Bey Camii, Selçuk, İzmir",
+   "ll": [
+    37.95075,
+    27.366
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/%C4%B0sa_Bey_Mosque"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "selcukaqueduct",
+   "cat": "gor",
+   "area": "selcuk",
+   "title": "See the Byzantine aqueduct and its storks",
+   "desc": "A line of Byzantine brick-and-stone arches crossing Selçuk's main road, built to carry water into the town from the hills. Many arches carry stork nests, which are occupied in spring and summer.",
+   "tip": "Free, and sits next to Ejder Restaurant and Akay Cd. Storks are present from roughly March to August.",
+   "q": "Selçuk Su Kemeri, Selçuk, İzmir",
+   "ll": [
+    37.94962,
+    27.3711
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Selçuk"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "virginmaryhouse",
+   "cat": "gor",
+   "area": "selcuk",
+   "title": "Visit the House of the Virgin Mary (Meryem Ana)",
+   "desc": "A small stone chapel on Bülbül Hill, believed since the 19th century, after the visions of Anne Catherine Emmerich, to be the place where Mary spent her last years. Popes Paul VI, John Paul II and Benedict XVI have visited. Pilgrims of several faiths come, and a wishing wall carries tied notes.",
+   "tip": "Allow 45 minutes. Dress modestly. It is 7 km from Selçuk; a dolmuş or taxi is needed.",
+   "q": "Meryem Ana Evi, Bülbül Dağı, Selçuk, İzmir",
+   "ll": [
+    37.91262,
+    27.32727
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/House_of_the_Virgin_Mary"
+   ]
+  },
+  {
+   "id": "sevensleepers",
+   "cat": "gor",
+   "area": "selcuk",
+   "title": "Find the Cave of the Seven Sleepers",
+   "desc": "A hillside necropolis on Panayır Hill linked to the legend of seven young Christians who hid from Emperor Decius around 250 AD and slept for centuries. The cave complex has early Christian burials and graffiti. It is revered by both Christians and Muslims.",
+   "tip": "Open all year. Wear sturdy shoes for the path. It is near the Ephesus Lower Gate road.",
+   "q": "Yedi Uyurlar Mağarası, Selçuk, İzmir",
+   "ll": [
+    37.94677,
+    27.3345
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Seven_Sleepers"
+   ]
+  },
+  {
+   "id": "churchofmary",
+   "cat": "gor",
+   "area": "selcuk",
+   "title": "See the Church of Mary (Council Church) at Ephesus",
+   "desc": "A ruined 4th-century basilica near the harbour, where the Third Ecumenical Council of 431 declared Mary Theotokos. It has a long nave, a baptistery and the remains of an older storage hall.",
+   "tip": "Quiet, at the lower end of the site by the Harbour Gymnasium. It is accessible from the lower entrance.",
+   "q": "Meryem Ana Kilisesi, Efes Antik Kenti, Selçuk, İzmir",
+   "ll": [
+    37.9495,
+    27.347
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Church_of_Mary"
+   ]
+  },
+  {
+   "id": "sirincechurch",
+   "cat": "gor",
+   "area": "selcuk",
+   "title": "See the Church of St John the Baptist in Şirince",
+   "desc": "A restored Greek Orthodox church built in 1805 in the hill village of Şirince, which was home to Ottoman Greeks until the 1923 population exchange. It has fine stonework and Orthodox decoration and is now used for wine events and art.",
+   "tip": "Combine with a village wander and a wine tasting. Check that it is open.",
+   "q": "Aziz Yuhanna Vaftizci Kilisesi, Şirince, Selçuk, İzmir",
+   "ll": [
+    37.94188,
+    27.442
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/%C5%9Eirince"
+   ]
+  },
+  {
+   "id": "belevimausoleum",
+   "cat": "gor",
+   "area": "selcuk",
+   "title": "Find the Belevi Mausoleum",
+   "desc": "A monumental Hellenistic tomb of 3rd-century BC on a hilltop at Belevi village, with a huge podium of fitted blocks and a burial chamber. It is often attributed to Antiochus II Theos. Excavators found a marble sarcophagus.",
+   "tip": "Only worth the detour for archaeology fans. It is outside Selçuk, so you need a car or taxi.",
+   "q": "Belevi Mausoleum, Belevi, Selçuk, İzmir",
+   "ll": [
+    38.0008,
+    27.4024
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Belevi_Mausoleum"
+   ]
+  },
+  {
+   "id": "sirincewalk",
+   "cat": "dene",
+   "area": "selcuk",
+   "title": "Wander the stone lanes of Şirince village",
+   "desc": "A hill village 8 km east of Selçuk with red-roofed Greek-style stone houses, whose Orthodox Greek population left in 1924. Its steep lanes have wine shops, olive-oil stalls and lace sellers. Its name means 'pleasant'.",
+   "tip": "Go before 10:30 or in the evening to avoid the tour buses. Taste fruit wines before buying.",
+   "q": "Şirince Köyü, Selçuk, İzmir",
+   "ll": [
+    37.9409,
+    27.4425
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/%C5%9Eirince"
+   ]
+  },
+  {
+   "id": "nesinmath",
+   "cat": "dene",
+   "area": "selcuk",
+   "title": "Visit the Nesin Mathematics Village",
+   "desc": "A mathematics camp built by Ali Nesin and Sevan Nişanyan above Şirince, established in 2007 on 55 acres. Stone buildings and open-air classrooms host mathematicians and students and offer courses year-round. Visitors can ask to see the grounds.",
+   "tip": "Contact the village in advance to visit, as it is a working institution.",
+   "q": "Nesin Matematik Köyü, Şirince, Selçuk, İzmir",
+   "ll": [
+    37.9471,
+    27.4499
+   ],
+   "src": [
+    "https://tr.wikipedia.org/wiki/Nesin_Matematik_K%C3%B6y%C3%BC"
+   ]
+  },
+  {
+   "id": "pamucak",
+   "cat": "dene",
+   "area": "selcuk",
+   "title": "Swim at Pamucak Beach",
+   "desc": "A broad, long sandy beach about 7 km from Selçuk on the Aegean, with soft dunes and shallow water. It is a famous sunset location and a less developed alternative to Kuşadası. Camel wrestling is held here in January.",
+   "tip": "The beach has a few beach bars. Windy in the afternoons. A taxi or dolmuş from Selçuk runs here.",
+   "q": "Pamucak Plajı, Selçuk, İzmir",
+   "ll": [
+    37.9525,
+    27.267
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Pamucak"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "selcukmarket",
+   "cat": "dene",
+   "area": "selcuk",
+   "title": "Browse the Selçuk Saturday market",
+   "desc": "A big weekly street market with fresh figs, olives, cheese, produce and gözleme stalls next to the town's bus station. Locals and farmers from nearby villages come in large numbers.",
+   "tip": "Go in the morning. Buy figs and olive oil as gifts.",
+   "q": "Selçuk Cumartesi Pazarı, Selçuk, İzmir",
+   "ll": [
+    37.9489,
+    27.37
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Sel%C3%A7uk"
+   ]
+  },
+  {
+   "id": "camelwrestling",
+   "cat": "dene",
+   "area": "selcuk",
+   "title": "Watch Selçuk's camel wrestling festival",
+   "desc": "The annual Efes Selçuk Camel Wrestling Festival has been held every January since 1982 at the Pamucak arena, with around 100 camels from Aegean breeders. Camels are dressed in decorative cloths. Crowds of up to 20,000 attend.",
+   "tip": "Usually the third Sunday of January; confirm the date with Selçuk Municipality. Keep a distance from the camels.",
+   "q": "Pamucak Deve Güreşi Arenası, Pamucak, Selçuk, İzmir",
+   "ll": [
+    37.9514,
+    27.272
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Camel_wrestling"
+   ],
+   "months": [
+    1
+   ]
+  },
+  {
+   "id": "bulbulhike",
+   "cat": "dene",
+   "area": "selcuk",
+   "title": "Hike Bülbül Hill from Ephesus to the Virgin Mary house",
+   "desc": "A road and footpath over Bülbül Dağı links the Ephesus Lower Gate with the Virgin Mary's House. It is a roughly 5 km walk through pines with views over the plain.",
+   "tip": "Take water and go in cooler months. Most people ride, so the path is quiet.",
+   "q": "Bülbül Dağı, Selçuk, İzmir",
+   "ll": [
+    37.927,
+    27.332
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/House_of_the_Virgin_Mary"
+   ]
+  },
+  {
+   "id": "selcukcycling",
+   "cat": "dene",
+   "area": "selcuk",
+   "title": "Cycle from Selçuk to Şirince",
+   "desc": "A paved country road runs 8 km uphill through olive groves, vineyards and peach orchards to Şirince. Bikes can be rented in Selçuk.",
+   "tip": "Ride in the morning; the uphill leg is slow. Return downhill in the evening.",
+   "q": "Selçuk-Şirince Yolu, Selçuk, İzmir",
+   "ll": [
+    37.944,
+    27.405
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/%C5%9Eirince"
+   ]
+  },
+  {
+   "id": "ejderrestaurant",
+   "cat": "ye",
+   "area": "selcuk",
+   "title": "Eat çöp şiş at Ejder Restaurant",
+   "desc": "Next to the aqueduct, Ejder is known for çöp şiş, tiny skewers of marinated lamb or chicken served with salad and bread. It is also known for good service.",
+   "tip": "Order ten skewers rather than five. Outdoor tables.",
+   "q": "Ejder Restaurant, Siegfried Cd, Selçuk, İzmir",
+   "ll": [
+    37.9496,
+    27.3715
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/turkey/aegean-coast/selcuk/restaurants"
+   ]
+  },
+  {
+   "id": "yasarinyeri",
+   "cat": "ye",
+   "area": "selcuk",
+   "title": "Grill lunch at Sişçi Yaşar'ın Yeri",
+   "desc": "A simple grill house serving köfte and çöp şiş under grape vines, beside the 14th-century İsa Bey Mosque. Lonely Planet recommends it for lunch.",
+   "tip": "Cash may be preferred. Order köfte with piyaz.",
+   "q": "Sişçi Yaşar'ın Yeri, Atatürk Cd, Selçuk, İzmir",
+   "ll": [
+    37.9503,
+    27.3664
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/turkey/aegean-coast/selcuk/restaurants"
+   ]
+  },
+  {
+   "id": "selcukpidecisi",
+   "cat": "ye",
+   "area": "selcuk",
+   "title": "Eat fresh pide at Selçuk Pidecisi",
+   "desc": "A small pide shop near the Selçuk Museum, with oven-baked pides and lahmacun at a reasonable price.",
+   "tip": "Try kuşbaşılı pide. Busy at lunch.",
+   "q": "Selçuk Pidecisi, Selçuk, İzmir",
+   "ll": [
+    37.9493,
+    27.3686
+   ],
+   "src": [
+    "https://wanderlog.com/list/geoCategory/37165/most-famous-restaurants-in-selcuk"
+   ]
+  },
+  {
+   "id": "okumuslarpide",
+   "cat": "ye",
+   "area": "selcuk",
+   "title": "Eat homemade pide at Okumuşlar Pide Salonu",
+   "desc": "A pide hall known locally for its homemade food, including pide, lahmacun and Aegean meals.",
+   "tip": "Ask for the day's home-cooked dishes.",
+   "q": "Okumuşlar Pide Salonu, Selçuk, İzmir",
+   "ll": [
+    37.95,
+    27.369
+   ],
+   "src": [
+    "https://wanderlog.com/list/geoCategory/37165/most-famous-restaurants-in-selcuk"
+   ]
+  },
+  {
+   "id": "alibabamehmet",
+   "cat": "ye",
+   "area": "selcuk",
+   "title": "Order a kebab at Ali Baba & Mehmet Kebab House",
+   "desc": "A well-rated kebab shop in central Selçuk serving grills and döner at moderate prices.",
+   "tip": "Good for a quick, cheap lunch.",
+   "q": "Ali Baba & Mehmet Kebab House, Selçuk, İzmir",
+   "ll": [
+    37.9502,
+    27.3685
+   ],
+   "src": [
+    "https://wanderlog.com/list/geoCategory/37165/most-famous-restaurants-in-selcuk"
+   ]
+  },
+  {
+   "id": "artemissarapevi",
+   "cat": "ye",
+   "area": "selcuk",
+   "title": "Drink fruit wine at Artemis Şarap Evi in Şirince",
+   "desc": "A popular wine house and restaurant in Şirince, with a terrace and tasting of local fruit wines.",
+   "tip": "Try the peach and pomegranate wines. Can be pricey.",
+   "q": "Artemis Şarap Evi, Şirince, Selçuk, İzmir",
+   "ll": [
+    37.9407,
+    27.4419
+   ],
+   "src": [
+    "https://turkishtravelblog.com/wine-tasting-in-sirince"
+   ]
+  },
+  {
+   "id": "kirkinka",
+   "cat": "ye",
+   "area": "selcuk",
+   "title": "Taste wine at Kirkinka Şarap Evi in Şirince",
+   "desc": "One of Şirince's best-known cellars, with fruit and grape wines made locally.",
+   "tip": "Ask to taste before buying.",
+   "q": "Kirkinka Şarap Evi, Şirince, Selçuk, İzmir",
+   "ll": [
+    37.941,
+    27.4426
+   ],
+   "src": [
+    "https://turkishtravelblog.com/wine-tasting-in-sirince"
+   ]
+  },
+  {
+   "id": "kivircik",
+   "cat": "ye",
+   "area": "selcuk",
+   "title": "Sample wine at Kıvırcık Şarap Evi, Şirince",
+   "desc": "A Şirince wine house praised for free tastings without hard selling.",
+   "tip": "Visit midweek for a quieter experience.",
+   "q": "Kıvırcık Şarap Evi, Şirince, Selçuk, İzmir",
+   "ll": [
+    37.9412,
+    27.4423
+   ],
+   "src": [
+    "https://turkishtravelblog.com/wine-tasting-in-sirince"
+   ]
+  },
+  {
+   "id": "sirincem",
+   "cat": "ye",
+   "area": "selcuk",
+   "title": "Have village breakfast and gözleme at Şirincem",
+   "desc": "A restaurant and pension in Şirince serving grills, meze, village breakfast and gözleme.",
+   "tip": "Order gözleme with cheese and spinach.",
+   "q": "Şirincem Restaurant, Şirince, Selçuk, İzmir",
+   "ll": [
+    37.9416,
+    27.4428
+   ],
+   "src": [
+    "https://fodors.fodors.com/world/europe/turkey/the-central-and-southern-aegean-coast/restaurants/reviews/Sirincem-restaurant-s703007"
+   ]
+  },
+  {
+   "id": "keyfince",
+   "cat": "ye",
+   "area": "selcuk",
+   "title": "Eat breakfast at Keyfince Cafe in Şirince",
+   "desc": "A relaxed café-restaurant in Şirince praised for its filling breakfast and gözleme at reasonable prices.",
+   "tip": "Go for breakfast.",
+   "q": "Keyfince Cafe Restoran, Şirince, Selçuk, İzmir",
+   "ll": [
+    37.9414,
+    27.4425
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/2766478/keyfince-cafe-restoran"
+   ]
+  }
+ ]
+}

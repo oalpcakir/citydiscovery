@@ -254,18 +254,46 @@
       return point([mid(g.lat), mid(g.lng)], { name: g.name });
     }));
   }
-  function questsGeo() {
-    var feats = [];
+  // With an area picked, its quests stay bright and the rest of the region fades (dimmed=true) instead of vanishing.
+  function selArea() { return ui.area !== "all" && city.areas[ui.area] ? ui.area : null; }
+  function questsGeo(dimmed) {
+    var feats = [], area = selArea();
     allQuests.forEach(function (q) {
       var p = ll(q);
       if (!p) return;
       if (ui.cat !== "all" && q.cat !== ui.cat) return;
-      if (ui.area !== "all" && (q.cid !== cityId || q.area !== ui.area)) return;
+      var inArea = !area || (q.cid === cityId && q.area === area);
+      if (dimmed ? inArea || !area || q.cid !== cityId : !inArea) return;
       var done = isDone(q);
       if (ui.myMap && !done) return; // "My map": only the places you have done
       feats.push(point(p, { key: q.key, done: done ? 1 : 0, title: q.title, icon: "pin-" + q.cat + (done ? "-done" : inSeason(q) ? "" : "-off") }));
     });
     return fc(feats);
+  }
+  // A soft outline around the picked area's quests: each pin padded by ~250 m, then the convex hull of it all.
+  // Areas are groups of quests, not official districts, so this stays a light dashed shape. Far outliers are left out.
+  function areaHullGeo() {
+    var area = selArea();
+    if (!area) return fc([]);
+    var pts = city.quests.filter(function (q) { return q.area === area && ll(q); }).map(ll);
+    if (pts.length < 2) return fc([]);
+    var mid = function (a) { a = a.slice().sort(function (x, y) { return x - y; }); return a[Math.floor(a.length / 2)]; };
+    var c = [mid(pts.map(function (p) { return p[0]; })), mid(pts.map(function (p) { return p[1]; }))];
+    var d = pts.map(function (p) { return km(c, p); }), lim = Math.max(3, 2.5 * mid(d));
+    pts = pts.filter(function (p, i) { return d[i] <= lim; });
+    var cloud = [], r = 0.25, kx = 1 / (111.32 * Math.cos((c[0] * Math.PI) / 180)), ky = 1 / 110.57;
+    pts.forEach(function (p) {
+      for (var i = 0; i < 12; i++) { var a = (i / 12) * 2 * Math.PI; cloud.push([p[1] + Math.cos(a) * r * kx, p[0] + Math.sin(a) * r * ky]); }
+    });
+    cloud.sort(function (a, b) { return a[0] - b[0] || a[1] - b[1]; });
+    var cross = function (o, a, b) { return (a[0] - o[0]) * (b[1] - o[1]) - (a[1] - o[1]) * (b[0] - o[0]); }, lo = [], hi = [];
+    cloud.forEach(function (p) { while (lo.length >= 2 && cross(lo[lo.length - 2], lo[lo.length - 1], p) <= 0) lo.pop(); lo.push(p); });
+    cloud.slice().reverse().forEach(function (p) { while (hi.length >= 2 && cross(hi[hi.length - 2], hi[hi.length - 1], p) <= 0) hi.pop(); hi.push(p); });
+    var ring = lo.slice(0, -1).concat(hi.slice(0, -1));
+    ring.push(ring[0]);
+    var top = ring.reduce(function (m, p) { return p[1] > m[1] ? p : m; }, ring[0]);
+    return fc([{ type: "Feature", properties: {}, geometry: { type: "Polygon", coordinates: [ring] } },
+      { type: "Feature", properties: { name: city.areas[area] }, geometry: { type: "Point", coordinates: [c[1], top[1]] } }]);
   }
   // ── Walking routes for trails ──
   // The real paths along streets are precomputed by tools/build_routes.py into routes.js (window.TRAIL_ROUTES).
@@ -369,6 +397,16 @@
     map.addLayer({ id: "trail-casing", type: "line", source: "trail", layout: rnd, paint: { "line-color": "#ffffff", "line-width": 10, "line-opacity": 0.95 } });
     map.addLayer({ id: "trail-line", type: "line", source: "trail", layout: rnd, paint: { "line-color": ["get", "color"], "line-width": 6 } });
 
+    // The picked area: soft fill and dashed edge, the rest of the region's pins faded underneath the bright ones.
+    map.addSource("area-hull", { type: "geojson", data: areaHullGeo() });
+    map.addLayer({ id: "area-hull-fill", type: "fill", source: "area-hull", filter: ["==", ["geometry-type"], "Polygon"],
+      paint: { "fill-color": ac, "fill-opacity": dark ? 0.12 : 0.08 } });
+    map.addLayer({ id: "area-hull-line", type: "line", source: "area-hull", filter: ["==", ["geometry-type"], "Polygon"], layout: round,
+      paint: { "line-color": ac, "line-width": 2, "line-opacity": 0.75, "line-dasharray": [2, 2] } });
+    map.addSource("quests-dim", { type: "geojson", data: questsGeo(true) });
+    map.addLayer({ id: "pins-dim", type: "symbol", source: "quests-dim", minzoom: 9, layout: {
+      "icon-image": ["get", "icon"], "icon-allow-overlap": true, "icon-ignore-placement": true,
+      "icon-size": ["interpolate", ["linear"], ["zoom"], 9, 0.5, 14, 0.72, 17, 0.85] }, paint: { "icon-opacity": 0.3 } });
     map.addSource("quests", { type: "geojson", data: questsGeo(), cluster: true, clusterMaxZoom: 13, clusterRadius: 46 });
     map.addLayer({ id: "done-glow", type: "circle", source: "quests", minzoom: 9,
       filter: ["all", ["!", ["has", "point_count"]], ["==", ["get", "done"], 1]],
@@ -389,6 +427,10 @@
       "text-size": ["interpolate", ["linear"], ["zoom"], 9.5, 11, 13, 13.5],
       "text-variable-anchor": ["top", "bottom", "left", "right"], "text-radial-offset": 2.4, "text-padding": 6 },
       paint: { "text-color": dark ? "#94a3b8" : "#64748b", "text-halo-color": halo, "text-halo-width": 2.2 } });
+    map.addLayer({ id: "area-hull-label", type: "symbol", source: "area-hull", filter: ["==", ["geometry-type"], "Point"], layout: {
+      "text-field": ["upcase", ["get", "name"]], "text-font": ["Noto Sans Bold"], "text-letter-spacing": 0.14, "text-size": 13.5,
+      "text-anchor": "bottom", "text-offset": [0, -0.4], "text-allow-overlap": true },
+      paint: { "text-color": ac, "text-halo-color": halo, "text-halo-width": 2.4 } });
     map.addLayer({ id: "pin-labels", type: "symbol", source: "quests", minzoom: 14.6, filter: ["!", ["has", "point_count"]], layout: {
       "text-field": ["get", "title"], "text-font": ["Noto Sans Bold"], "text-size": 12, "text-max-width": 9,
       "text-anchor": "top", "text-offset": [0, 1.35], "text-optional": true },
@@ -605,6 +647,10 @@
   function refreshMap() {
     if (!mapReady) return;
     setSrc("quests", questsGeo());
+    setSrc("quests-dim", questsGeo(true));
+    setSrc("area-hull", areaHullGeo());
+    // The picked area already has its own label on the outline.
+    map.setFilter("area-labels", selArea() ? ["!=", ["get", "name"], city.areas[selArea()]] : null);
     setSrc("regions", regionsGeo());
     setSrc("trail", trailGeo());
     setSrc("trail-stops", trailStopsGeo());
@@ -689,7 +735,7 @@
     if (!mapReady) return;
     var ac = accent();
     [["clusters", "circle-color"], ["done-glow", "circle-color"], ["sel-ring", "circle-color"], ["sel-ring", "circle-stroke-color"],
-      ["pulse", "circle-color"]].forEach(function (x) { map.setPaintProperty(x[0], x[1], ac); });
+      ["pulse", "circle-color"], ["area-hull-fill", "fill-color"], ["area-hull-line", "line-color"], ["area-hull-label", "text-color"]].forEach(function (x) { map.setPaintProperty(x[0], x[1], ac); });
   }
   // A ripple on the map where a quest was just completed.
   function pulseAt(q) { // a quest, or a plain [lat, lng]

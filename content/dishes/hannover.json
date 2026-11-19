@@ -1,0 +1,58 @@
+{
+ "region": "hannover",
+ "dishes": [
+  {
+   "id": "hannover-heidschnucke",
+   "name": "Heidschnuckenbraten",
+   "local": "",
+   "icon": "🍖",
+   "desc": "Roast of Heidschnucke, the grey heath sheep of the Lüneburg Heath, with a strong gamey flavor, served with beans and potatoes.",
+   "kw": [
+    "heidschnucke"
+   ]
+  },
+  {
+   "id": "hannover-heidespargel",
+   "name": "Heath asparagus",
+   "local": "Heidespargel",
+   "icon": "🌱",
+   "desc": "White asparagus grown in the sandy soils around Lüneburg and Celle, served with new potatoes, ham and butter in spring.",
+   "kw": [
+    "heidespargel",
+    "asparagus"
+   ]
+  },
+  {
+   "id": "hannover-buchweizentorte",
+   "name": "Buckwheat cake",
+   "local": "Heidjer Buchweizentorte",
+   "icon": "🍰",
+   "desc": "Layered cream cake with buckwheat flour and cranberry jam, baked on the Lüneburg Heath where buckwheat was grown on poor soil.",
+   "kw": [
+    "buchweizentorte",
+    "buckwheat"
+   ]
+  },
+  {
+   "id": "hannover-pfannenschlag",
+   "name": "Calenberger Pfannenschlag",
+   "local": "",
+   "icon": "🥩",
+   "desc": "Fried pork cuts with bacon, onions and herbs from the Calenberg farmland south of Hannover, eaten with kale or potatoes.",
+   "kw": [
+    "pfannenschlag",
+    "calenberger"
+   ]
+  },
+  {
+   "id": "hannover-zuckerkuchen",
+   "name": "Lüneburg sugar cake",
+   "local": "Lüneburger Zuckerkuchen",
+   "icon": "🍰",
+   "desc": "Flat yeast cake with a crust of sugar, butter and cinnamon, a Lüneburg bakery staple.",
+   "kw": [
+    "zuckerkuchen"
+   ]
+  }
+ ]
+}

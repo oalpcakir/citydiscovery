@@ -52,6 +52,11 @@ window.CITIES.sauerland = {
     soest: { icon: "⛪", name: "Green Sandstone Regular" },
     cevre: { icon: "🌲", name: "Rothaarsteig Rambler" }
   },
+  // Names for day-out trails, keyed by any quest in the group (see buildTrails in src/1-core.js).
+  trailNames: {
+    saattahoehle: "Attendorn and the Atta cave",
+    sapostastenberg: "Winterberg and the Kahler Asten"
+  },
   quests: [
     { id: "sasiegerlandmuseum", cat: "gor", area: "siegen", title: "Tour the Siegerlandmuseum in the Oberes Schloss",
       desc: "The Siegerlandmuseum is housed in the Oberes Schloss on the Siegberg, a former Nassau residence that the city bought in 1888. Its collections cover regional history, mining and ironworking, and one of the major portrait collections of the House of Nassau.",

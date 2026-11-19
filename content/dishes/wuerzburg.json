@@ -1,0 +1,47 @@
+{
+ "region": "wuerzburg",
+ "dishes": [
+  {
+   "id": "wuerzburg-meefischli",
+   "name": "Meefischli",
+   "local": "",
+   "icon": "🐟",
+   "desc": "Small river fish rolled in flour and fried crisp, eaten whole with lemon and bread. A Würzburg Main-valley specialty.",
+   "kw": [
+    "meefischli"
+   ]
+  },
+  {
+   "id": "wuerzburg-presssack",
+   "name": "Fränkischer Presssack",
+   "local": "",
+   "icon": "🍖",
+   "desc": "Pressed cold-cut of pork head in aspic, dressed with vinegar, oil and onions. Eaten on bread in Lower Franconian taverns.",
+   "kw": [
+    "presssack"
+   ]
+  },
+  {
+   "id": "wuerzburg-rhoenlamm",
+   "name": "Rhön lamb",
+   "local": "Rhönschaf Lamm",
+   "icon": "🍖",
+   "desc": "Meat of the Rhön sheep, grazed on mountain meadows, roasted or braised in Rhön inns.",
+   "kw": [
+    "rhönschaf",
+    "rhön lamb",
+    "lamm"
+   ]
+  },
+  {
+   "id": "wuerzburg-bratwurst",
+   "name": "Franconian Bratwurst",
+   "local": "Fränkische Bratwurst",
+   "icon": "🌭",
+   "desc": "Grilled pork sausage seasoned with marjoram and served in a roll, a staple of Würzburg and Lower Franconian markets.",
+   "kw": [
+    "bratwurst"
+   ]
+  }
+ ]
+}

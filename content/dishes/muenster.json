@@ -1,0 +1,47 @@
+{
+ "region": "muenster",
+ "dishes": [
+  {
+   "id": "muenster-moeppkenbrot",
+   "name": "Möppkenbrot",
+   "local": "",
+   "icon": "🥓",
+   "desc": "Buckwheat blood loaf sliced and fried until crisp, served with apple sauce or bread. A Münsterland winter dish.",
+   "kw": [
+    "möppkenbrot",
+    "moeppkenbrot"
+   ]
+  },
+  {
+   "id": "muenster-stielmus",
+   "name": "Stielmus with Mettwurst",
+   "local": "",
+   "icon": "🥬",
+   "desc": "Stewed turnip greens with potatoes and smoked Mettwurst, a seasonal Münsterland farm dish.",
+   "kw": [
+    "stielmus"
+   ]
+  },
+  {
+   "id": "muenster-pannekoken",
+   "name": "Pannekoken",
+   "local": "",
+   "icon": "🥞",
+   "desc": "Thick pancake served with bacon or apple, a Dutch-influenced Münsterland dish.",
+   "kw": [
+    "pannekoken",
+    "pfannkuchen"
+   ]
+  },
+  {
+   "id": "muenster-hochzeitssuppe",
+   "name": "Münsterland wedding soup",
+   "local": "Münsterländer Hochzeitssuppe",
+   "icon": "🍲",
+   "desc": "Clear beef soup with meatballs, vegetables and egg custard, traditionally served at farm weddings in the Münsterland.",
+   "kw": [
+    "hochzeitssuppe"
+   ]
+  }
+ ]
+}

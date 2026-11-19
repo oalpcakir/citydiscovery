@@ -63,7 +63,10 @@ window.CITIES.bursa = {
     bursamalina: [40.2215, 28.9740], bursafistikbeyi: [40.2195, 28.9555], bursahackayhanfsm: [40.2230, 28.9450],
     bursatimsaharena: [40.2045, 28.9794], bursacelikpalas: [40.1960, 29.0389], bursamuradiyehamam: [40.1902, 29.0453],
     bursadagyenice: [40.2571, 28.8564], kestelsaitabat: [40.1474, 29.2250], keleskocayayla: [39.9020, 29.2230],
-    buyukorhangorecik: [39.7605, 28.8549], yenisehircennet: [40.2900, 29.7500], kursunlubeach: [40.3600, 29.0211]
+    buyukorhangorecik: [39.7605, 28.8549], yenisehircennet: [40.2900, 29.7500], kursunlubeach: [40.3600, 29.0211],
+    iznikhaciozbek: [40.4293, 29.7232], izniksehkutbettin: [40.4298, 29.7262], inegolishakpasa: [40.0747, 29.5097],
+    yalovakentmuzesi: [40.6588, 29.2701], yalovaarkeopark: [40.6560, 29.2720], yalovakursunluhamam: [40.6053, 29.1744],
+    hersekbirds: [40.7241, 29.5050], karacabeylongoz: [40.3808, 28.4269], uludagkaragol: [40.0890, 29.2010]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -481,6 +484,33 @@ window.CITIES.bursa = {
       tip: "Go only with a guide and in the dry season.", q: "Cennet Kanyonu, Günece, Yenişehir, Bursa", months: [6, 7, 8, 9], src: ["https://www.bursa.com.tr/en/mekan/gunece-cennet-canyon-25/"] },
     { id: "kursunlubeach", cat: "dene", area: "cevre", title: "Swim on the Kurşunlu coast",
       desc: "Kurşunlu Sahili is a coastal strip on the Gemlik Gulf listed among Bursa day trips.",
-      tip: "Go in summer.", q: "Kurşunlu Halk Plajı, Kurşunlu, Gemlik, Bursa", months: [6, 7, 8, 9], src: ["https://sandee.com/turkey/bursa/kursunlu/kursunlu-halk-plaji", "https://en.wikipedia.org/wiki/Kur%C5%9Funlu,_Gemlik"] }
+      tip: "Go in summer.", q: "Kurşunlu Halk Plajı, Kurşunlu, Gemlik, Bursa", months: [6, 7, 8, 9], src: ["https://sandee.com/turkey/bursa/kursunlu/kursunlu-halk-plaji", "https://en.wikipedia.org/wiki/Kur%C5%9Funlu,_Gemlik"] },
+    { id: "iznikhaciozbek", cat: "gor", area: "cevre", title: "See İznik's Hacı Özbek Mosque, a dated 1333 landmark",
+      desc: "Built in 1333 by Hacı Özbek, two years after Orhan I took İznik, this small single-domed mosque carries one of the oldest dated inscriptions of early Ottoman architecture. Its square prayer chamber under a dome became a model for later Ottoman mosques.",
+      tip: "Free; visit outside prayer times and combine with the İznik Museum nearby. Cover shoulders and knees.", q: "Hacı Özbek Camii, Yeşilcami Mahallesi, İznik, Bursa", tags: ["free"], src: ["https://en.wikipedia.com/wiki/Haji_%C3%96zbek_Mosque", "https://www.bursa.com.tr/en/mekan/iznik-haci-ozbek-mosque-440/"] },
+    { id: "izniksehkutbettin", cat: "gor", area: "cevre", title: "Visit the Şeyh Kutbettin Mosque in İznik",
+      desc: "A small Ottoman mosque in the old centre of İznik, listed among the town's attractions by Lonely Planet and an easy stop on the walk between the Ayasofya and the İznik Museum. It reflects the early Ottoman building of the 14th and 15th centuries in the former Nicaea.",
+      tip: "Free to see from outside; enter only outside prayer times.", q: "Şeyh Kutbettin Camii, Yeşilcami Mahallesi, İznik, Bursa", tags: ["free"], src: ["https://www.lonelyplanet.com/turkey/bursa/iznik"] },
+    { id: "inegolishakpasa", cat: "gor", area: "cevre", title: "See the İshak Paşa Complex in İnegöl",
+      desc: "İshak Paşa Külliyesi is one of İnegöl's historic ensembles, with a tomb and mosque, set in the old market quarter that also holds a covered bazaar and the Ortaköy caravanserai.",
+      tip: "Free. Walk the surrounding bazaar lanes; mosques are open to visitors outside prayer times.", q: "İshak Paşa Külliyesi, İnegöl, Bursa", tags: ["free"], src: ["https://wanderlog.com/explore/21140/inegol"] },
+    { id: "yalovakentmuzesi", cat: "gor", area: "cevre", title: "Explore the free Yalova City Museum",
+      desc: "The museum occupies the former Government House in the centre of Yalova, near the shore. Its best exhibits are a model of the city plan and models of Atatürk's Yürüyen Köşk, and entry is free.",
+      tip: "Free. A short stop that pairs with the Arkeopark and the seafront promenade.", q: "Yalova Kent Müzesi, Yalova Merkez, Yalova", tags: ["free", "rainy day"], src: ["https://www.turna.com/blog/yalova-gezilecek-yerler"] },
+    { id: "yalovaarkeopark", cat: "gor", area: "cevre", title: "Walk the Yalova Arkeopark open-air museum",
+      desc: "Opened in 2003 beside the Safran Dere bridge, the Arkeopark displays Roman, Byzantine and Ottoman pieces from across the province along with scale models of historic buildings around Yalova.",
+      tip: "Usually free to enter; allow half an hour.", q: "Yalova Açık Hava Müzesi, Sanat Sokağı, Yalova Merkez, Yalova", tags: ["free"], src: ["https://e-yasamrehberi.com/seyahat-rehberi/yalova-acik-hava-muzesi.html", "https://tr.wikipedia.org/wiki/Yalova_A%C3%A7%C4%B1k_Hava_M%C3%BCzesi"] },
+    { id: "yalovakursunluhamam", cat: "dene", area: "cevre", title: "Soak in the Kurşunlu Hamamı at Yalova Termal",
+      desc: "The lead-roofed Kurşunlu Hamamı is a historic bath at the Yalova Termal springs, attributed by some sources to Justinian's time and restored in 1900 under Abdülhamid II. It operates within the Ministry of Health thermal facility, with separate men's and women's sections.",
+      tip: "Check opening hours and booking at the thermal facility; bring a swimsuit and towel.", q: "Kurşunlu Hamamı, Termal, Yalova", tags: ["rainy day"], src: ["https://www.benguturk.com/kultur-sanat/yalovadaki-1700-yillik-bizans-hamaminin-rolovesi-cikartildi-225881h", "https://tr.wikipedia.org/wiki/Termal,_Yalova"] },
+    { id: "hersekbirds", cat: "dene", area: "cevre", title: "Watch flamingos at the Hersek Lagoon bird tower",
+      desc: "Hersek Lagünü in Altınova, protected since 30 December 2022, is known as the Bird Hotel for its 238 or more recorded species, among them flamingos. It has a nature education centre and an accessible bird observation tower.",
+      tip: "Autumn and winter are best for flamingos. The municipality runs a nature passport scheme, so check entry rules before going.", q: "Hersek Lagünü, Altınova, Yalova", months: [9, 10, 11, 12, 1, 2, 3], src: ["https://cnnturk.com/seyahat/hersek-lagunu-altinovanin-yeni-turizm-noktasi-oldu-1857365", "https://www.ntv.com.tr/turkiye/galeri-hersek-lagununde-kus-turu-sayisi-238e-yukseldi,4zZbXKk1j0CDtF4PrgupVw"] },
+    { id: "karacabeylongoz", cat: "dene", area: "cevre", title: "Walk or boat through the flooded Karacabey Longoz forest",
+      desc: "Karacabey Longozu is a flooded riverine forest with white water lilies, a bird observation tower and boat trips. Pelicans, storks, flamingos and swans nest or pass through, and it belongs to the same wetland system as Uluabat Lake.",
+      tip: "Spring and autumn migrations are best. Confirm boat tour availability locally before driving out.", q: "Karacabey Longoz Ormanları, Bayramdere, Karacabey, Bursa", months: [4, 5, 9, 10], src: ["https://tr.wikipedia.org/wiki/Karacabey_Longoz_Ormanlar%C4%B1", "https://yolcu360.com/blog/karacabey-longoz-ormanlari/"] },
+    { id: "uludagkaragol", cat: "dene", area: "cevre", title: "Hike to the glacial Karagöl and Kilimli lakes on Uludağ",
+      desc: "The summit zone of Uludağ holds a string of glacial lakes: Aynalı, Karagöl, Buzlu and Kilimli among them. Hikers reach them on a tough loop from Alaçam or a shorter walk from Sarıalan, usually after the snow melts.",
+      tip: "Strenuous; check weather and park rules, carry water and a windproof layer. Heybeli dries out in summer.", q: "Karagöl, Uludağ Milli Parkı, Bursa", months: [7, 8, 9], src: ["https://tr.wikipedia.org/wiki/Ulu%C4%9Fda%C4%9F"] }
   ]
 };

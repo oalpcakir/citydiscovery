@@ -1,0 +1,49 @@
+{
+ "region": "konstanz",
+ "dishes": [
+  {
+   "id": "konstanz-felchen",
+   "name": "Lake Constance whitefish",
+   "local": "Bodensee-Felchen",
+   "icon": "🐟",
+   "desc": "The lake's signature fish, served pan-fried Müllerin style, blue-poached or smoked, with boiled potatoes.",
+   "kw": [
+    "felchen",
+    "whitefish"
+   ]
+  },
+  {
+   "id": "konstanz-kretzer",
+   "name": "Kretzer fillets",
+   "local": "Kretzerfilets",
+   "icon": "🐟",
+   "desc": "Small perch fillets from the lake, fried in butter and served with potatoes and salad. Found on Konstanz menus year round.",
+   "kw": [
+    "kretzer",
+    "perch",
+    "egli"
+   ]
+  },
+  {
+   "id": "konstanz-hechtkloesse",
+   "name": "Pike dumplings",
+   "local": "Hechtklöße",
+   "icon": "🍲",
+   "desc": "Light dumplings of pike mousse poached and served in a creamy sauce. A traditional lake-side fish dish.",
+   "kw": [
+    "hechtklöße",
+    "pike"
+   ]
+  },
+  {
+   "id": "konstanz-schupfnudeln",
+   "name": "Schupfnudeln",
+   "local": "",
+   "icon": "🥔",
+   "desc": "Finger-shaped potato noodles fried in butter, often with sauerkraut or bacon. A common dish on Konstanz inn menus.",
+   "kw": [
+    "schupfnudeln"
+   ]
+  }
+ ]
+}

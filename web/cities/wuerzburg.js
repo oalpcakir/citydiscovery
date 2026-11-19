@@ -61,6 +61,13 @@ window.CITIES.wuerzburg = {
     merkez: { icon: "🍷", name: "Alte Mainbrücke Regular" },
     cevre: { icon: "🍇", name: "Bocksbeutel Rambler" }
   },
+  // Names for day-out trails, keyed by any quest in the group (see buildTrails in src/1-core.js).
+  trailNames: {
+    wukunsthallewuerth: "Schwäbisch Hall on the Kocher",
+    wuvogelsburg: "Volkach and the Main loop",
+    wufuldadom: "Fulda, the baroque bishops' town",
+    wuknaufmuseum: "Iphofen wine town"
+  },
   quests: [
     { id: "wuvogelsburg", cat: "gor", area: "cevre", title: "Climb to the Vogelsburg above the Mainschleife",
       desc: "The Vogelsburg is a hilltop site above Volkach, fortified since the Bronze Age and given to Fulda abbey in the 9th century. Count Hermann of Castell turned it into a Carmelite monastery in 1282; today it is a hotel owned mostly by the Juliusspital foundation.",

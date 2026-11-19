@@ -53,6 +53,26 @@
     "potage saint-germain",
     "saint-germain"
    ]
+  },
+  {
+   "id": "versailles-pate-chartres",
+   "name": "Pâté de Chartres",
+   "local": "",
+   "icon": "🥧",
+   "desc": "A rich game pâté baked in pastry, often with partridge, foie gras and pistachios. A Chartres speciality since the 18th century, sold by the city's charcutiers and pâtissiers.",
+   "kw": [
+    "pâté de chartres"
+   ]
+  },
+  {
+   "id": "versailles-mentchikoff",
+   "name": "Mentchikoff",
+   "local": "",
+   "icon": "🍬",
+   "desc": "A chocolate praline wrapped in a light vanilla meringue shell, created by a Chartres confectioner in 1893 for the Franco-Russian alliance. Sold in the city's pâtisseries.",
+   "kw": [
+    "mentchikoff"
+   ]
   }
  ]
 }

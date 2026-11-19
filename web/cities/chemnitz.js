@@ -51,6 +51,13 @@ window.CITIES.chemnitz = {
     merkez: { icon: "🗿", name: "Nischel Regular" },
     cevre: { icon: "⛏️", name: "Silver Road Rambler" }
   },
+  // Names for day-out trails, keyed by any quest in the group (see buildTrails in src/1-core.js).
+  trailNames: {
+    chhorchmuseum: "Zwickau, cradle of Saxon cars",
+    chfreibergdom: "Freiberg, the silver town",
+    chspielzeugmuseum: "Seiffen toy village",
+    chfichtelberg: "Oberwiesenthal and the Fichtelberg"
+  },
   quests: [
     { id: "chfreibergdom", cat: "gor", area: "cevre", title: "Admire the Freiberg Cathedral and its Golden Gate",
       desc: "Freiberg Cathedral (Dom St. Marien) is a late Gothic hall church whose Romanesque Golden Gate of about 1230 is one of the finest portals in Saxony. It holds two Gottfried Silbermann organs, including the one from 1714, and the Wettin burial chapel.",

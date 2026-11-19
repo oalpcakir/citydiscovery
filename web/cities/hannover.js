@@ -62,6 +62,12 @@ window.CITIES.hannover = {
     hildesheim: { icon: "🌹", name: "Thousand-Year Rose Regular" },
     cevre: { icon: "🌾", name: "Lüneburg Heath Rambler" }
   },
+  // Names for day-out trails, keyed by any quest in the group (see buildTrails in src/1-core.js).
+  trailNames: {
+    hacellepalace: "Celle, the half-timbered town",
+    hahochzeitshaus: "Hameln, the Pied Piper's town",
+    haschweers: "Steinhuder Meer and Wunstorf"
+  },
   quests: [
     { id: "hadom", cat: "gor", area: "hildesheim", title: "Admire St. Mary's Cathedral and the Bernward Doors",
       desc: "Hildesheim Cathedral is the seat of the diocese founded in 815 and a UNESCO World Heritage Site together with St. Michael's. It was heavily damaged on 22 March 1945 and, after a major renovation, reopened on 15 August 2014 for the diocese's 1200-year jubilee.",

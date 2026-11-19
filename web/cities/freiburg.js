@@ -59,6 +59,13 @@ window.CITIES.freiburg = {
     merkez: { icon: "🌞", name: "Bächle Regular" },
     cevre: { icon: "🌲", name: "Black Forest Rambler" }
   },
+  // Names for day-out trails, keyed by any quest in the group (see buildTrails in src/1-core.js).
+  trailNames: {
+    frfeldbergturm: "Feldberg summit",
+    frstaufenburg: "Staufen, Faust's town",
+    frtodtnaufall: "Todtnau waterfalls",
+    frravenna: "Ravenna Gorge"
+  },
   quests: [
     { id: "frvogtsbauernhof", cat: "gor", area: "cevre", title: "Walk through the Vogtsbauernhof open-air museum",
       desc: "The Black Forest Open Air Museum in Gutach gathers original farmhouses, mills and workshops, centred on the Vogtsbauernhof of 1612. It shows how farmers, craftsmen and clockmakers lived in the Kinzig valley.",

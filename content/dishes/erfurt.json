@@ -1,0 +1,61 @@
+{
+ "region": "erfurt",
+ "dishes": [
+  {
+   "id": "erfurt-rostbratwurst",
+   "name": "Thüringer Rostbratwurst",
+   "local": "",
+   "icon": "🌭",
+   "desc": "Grilled pork sausage with a protected origin in Thuringia, seasoned with marjoram and caraway. Served in a roll with mustard.",
+   "kw": [
+    "rostbratwurst",
+    "bratwurst"
+   ]
+  },
+  {
+   "id": "erfurt-kloesse",
+   "name": "Thüringer Klöße",
+   "local": "",
+   "icon": "🥔",
+   "desc": "Large dumplings of raw and boiled potato, soft inside, eaten with roast or gravy. The signature Thuringian side dish.",
+   "kw": [
+    "klöße",
+    "kloesse",
+    "dumpling"
+   ]
+  },
+  {
+   "id": "erfurt-mutzbraten",
+   "name": "Mutzbraten",
+   "local": "",
+   "icon": "🍖",
+   "desc": "Pork neck marinated in onions and spices and roasted over a beechwood fire, served in a bun. A specialty of Altenburg and Thuringia.",
+   "kw": [
+    "mutzbraten"
+   ]
+  },
+  {
+   "id": "erfurt-rotwurst",
+   "name": "Thüringer Rotwurst",
+   "local": "",
+   "icon": "🌭",
+   "desc": "Coarse blood and liver sausage, traditional at Thuringian butchers and eaten on bread or with sauerkraut.",
+   "kw": [
+    "rotwurst",
+    "blutwurst"
+   ]
+  },
+  {
+   "id": "erfurt-zwiebelkuchen",
+   "name": "Weimar onion tart",
+   "local": "Weimarer Zwiebelkuchen",
+   "icon": "🥧",
+   "desc": "Yeast dough topped with onions, bacon and caraway, baked in trays. Weimar's autumn onion market made it the town's signature bake.",
+   "kw": [
+    "zwiebelkuchen",
+    "onion tart",
+    "onion cake"
+   ]
+  }
+ ]
+}

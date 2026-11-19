@@ -1,0 +1,58 @@
+{
+ "region": "ulm",
+ "dishes": [
+  {
+   "id": "ulm-zuckerbrot",
+   "name": "Ulmer Zuckerbrot",
+   "local": "",
+   "icon": "🍞",
+   "desc": "Sweet, thin yeast bread coated in sugar, a bakery specialty of Ulm since the 17th century.",
+   "kw": [
+    "zuckerbrot"
+   ]
+  },
+  {
+   "id": "ulm-dinnete",
+   "name": "Dinnete",
+   "local": "",
+   "icon": "🥧",
+   "desc": "Swabian Alb flatbread baked in a hot oven with cream, bacon and onions, eaten in country inns.",
+   "kw": [
+    "dinnete",
+    "dennete"
+   ]
+  },
+  {
+   "id": "ulm-kartoffelsalat",
+   "name": "Swabian potato salad",
+   "local": "Schwäbischer Kartoffelsalat",
+   "icon": "🥔",
+   "desc": "Warm, soupy potato salad dressed in broth, vinegar and onion. Served with sausage in Ulm and on the Alb.",
+   "kw": [
+    "kartoffelsalat",
+    "potato salad"
+   ]
+  },
+  {
+   "id": "ulm-kutteln",
+   "name": "Saure Kutteln",
+   "local": "",
+   "icon": "🍲",
+   "desc": "Tripe in a sour sauce with vinegar and onions, a Swabian inn classic of Ulm and the Alb.",
+   "kw": [
+    "kutteln",
+    "tripe"
+   ]
+  },
+  {
+   "id": "ulm-ofenschlupfer",
+   "name": "Ofenschlupfer",
+   "local": "",
+   "icon": "🍞",
+   "desc": "Baked bread pudding with apples and raisins, served with vanilla sauce. A Swabian home dessert.",
+   "kw": [
+    "ofenschlupfer"
+   ]
+  }
+ ]
+}

@@ -55,6 +55,13 @@ window.CITIES.konstanz = {
     merkez: { icon: "⛵", name: "Harbour Regular" },
     cevre: { icon: "🏞️", name: "Lakeshore Rambler" }
   },
+  // Names for day-out trails, keyed by any quest in the group (see buildTrails in src/1-core.js).
+  trailNames: {
+    koburgmeersburg: "Meersburg on the lake",
+    kominster: "Reichenau monastery island",
+    koschwarzwaldbahn: "Triberg waterfalls and cuckoo clocks",
+    koradmuenster: "Radolfzell"
+  },
   quests: [
     { id: "ulknopfmacher", cat: "dene", area: "cevre", title: "Hike to the Knopfmacherfelsen viewpoint in the Upper Danube valley",
       desc: "The rock outcrop in Naturpark Obere Donau lies between Fridingen and Beuron at about 765 m and looks over the Danube valley. The name comes from a button maker who fell here in 1823.",

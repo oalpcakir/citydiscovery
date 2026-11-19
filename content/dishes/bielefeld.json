@@ -1,0 +1,47 @@
+{
+ "region": "bielefeld",
+ "dishes": [
+  {
+   "id": "bielefeld-wurstebrei",
+   "name": "Wurstebrei",
+   "local": "",
+   "icon": "🌭",
+   "desc": "Soft, spiced pork and groats sausage, fried and eaten with bread or boiled with sauerkraut. A winter staple of East Westphalian kitchens.",
+   "kw": [
+    "wurstebrei"
+   ]
+  },
+  {
+   "id": "bielefeld-stuten",
+   "name": "Westphalian Stuten",
+   "local": "Westfälischer Stuten",
+   "icon": "🍞",
+   "desc": "Sweet, soft raisin bread, sliced and eaten with butter or the local cured ham. A traditional East Westphalian bakery loaf.",
+   "kw": [
+    "stuten"
+   ]
+  },
+  {
+   "id": "bielefeld-dicke-bohnen",
+   "name": "Broad beans with bacon",
+   "local": "Dicke Bohnen mit Speck",
+   "icon": "🫘",
+   "desc": "Broad beans stewed with smoked bacon and savory herbs, served with boiled potatoes. A summer farmhouse dish across Westphalia and Lippe.",
+   "kw": [
+    "dicke bohnen",
+    "broad beans"
+   ]
+  },
+  {
+   "id": "bielefeld-schmoeraeppelkes",
+   "name": "Schmoräppelkes",
+   "local": "",
+   "icon": "🍎",
+   "desc": "Apples stewed in a pan with sugar, butter and cinnamon, sometimes with pumpernickel crumbs. A traditional Westphalian dessert.",
+   "kw": [
+    "schmoräppel",
+    "schmoraeppel"
+   ]
+  }
+ ]
+}

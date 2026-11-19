@@ -1,0 +1,59 @@
+{
+ "region": "nuernberg",
+ "dishes": [
+  {
+   "id": "nuernberg-bratwurst",
+   "name": "Nürnberger Rostbratwurst",
+   "local": "",
+   "icon": "🌭",
+   "desc": "Thumb-sized pork sausage with a protected origin, grilled over beechwood and served in threes, sixes or twelves.",
+   "kw": [
+    "nürnberger bratwurst",
+    "rostbratwurst",
+    "bratwurst"
+   ]
+  },
+  {
+   "id": "nuernberg-lebkuchen",
+   "name": "Nürnberger Lebkuchen",
+   "local": "",
+   "icon": "🍪",
+   "desc": "Soft spiced gingerbread baked on a wafer, made in Nürnberg since the 14th century with a protected origin.",
+   "kw": [
+    "lebkuchen"
+   ]
+  },
+  {
+   "id": "nuernberg-karpfen",
+   "name": "Franconian carp",
+   "local": "Fränkischer Karpfen",
+   "icon": "🐟",
+   "desc": "Carp from the ponds of the Aischgrund, served baked or fried in autumn and winter. A mainstay of Middle Franconian inns.",
+   "kw": [
+    "karpfen",
+    "carp"
+   ]
+  },
+  {
+   "id": "nuernberg-sauerbraten",
+   "name": "Franconian Sauerbraten",
+   "local": "Fränkischer Sauerbraten",
+   "icon": "🍖",
+   "desc": "Beef marinated for days in vinegar and spices, often with a sauce thickened with Lebkuchen. Served with dumplings.",
+   "kw": [
+    "sauerbraten"
+   ]
+  },
+  {
+   "id": "nuernberg-blaue-zipfel",
+   "name": "Blaue Zipfel",
+   "local": "",
+   "icon": "🌭",
+   "desc": "Bratwürste simmered in a spiced vinegar and onion broth. A Nürnberg pub classic.",
+   "kw": [
+    "blaue zipfel",
+    "zipfel"
+   ]
+  }
+ ]
+}

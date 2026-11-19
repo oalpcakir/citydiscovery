@@ -60,6 +60,13 @@ window.CITIES.ulm = {
     merkez: { icon: "⛪", name: "Minster Spire Regular" },
     cevre: { icon: "🏞️", name: "Swabian Alb Rambler" }
   },
+  // Names for day-out trails, keyed by any quest in the group (see buildTrails in src/1-core.js).
+  trailNames: {
+    ulhellenstein: "Heidenheim and Hellenstein castle",
+    ulmuensergmuend: "Schwäbisch Gmünd",
+    ulresidenzurach: "Bad Urach and its waterfall",
+    ulbiberachmarkt: "Biberach an der Riß"
+  },
   quests: [
     { id: "ullimesmuseum", cat: "gor", area: "cevre", title: "Meet the Romans at the Limes Museum in Aalen",
       desc: "The Limesmuseum stands on the site of the largest Roman cavalry fort north of the Alps. Opened in 1964 as a branch of the Württemberg State Museum, it shows over 1,200 original finds, and the upper floor follows the Limes through Baden-Württemberg.",

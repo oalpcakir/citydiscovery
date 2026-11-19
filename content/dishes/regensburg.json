@@ -1,0 +1,47 @@
+{
+ "region": "regensburg",
+ "dishes": [
+  {
+   "id": "regensburg-wurst",
+   "name": "Regensburger Wurst",
+   "local": "",
+   "icon": "🌭",
+   "desc": "Coarse smoked pork sausage, short and thick, eaten hot with mustard or in a roll. Regensburg's own recipe.",
+   "kw": [
+    "regensburger wurst",
+    "regensburger"
+   ]
+  },
+  {
+   "id": "regensburg-karpfen",
+   "name": "Upper Palatinate carp",
+   "local": "Oberpfälzer Karpfen",
+   "icon": "🐟",
+   "desc": "Carp from the pond country of the Upper Palatinate, served baked or fried in autumn and winter.",
+   "kw": [
+    "karpfen",
+    "carp"
+   ]
+  },
+  {
+   "id": "regensburg-dampfnudel",
+   "name": "Dampfnudel",
+   "local": "",
+   "icon": "🥟",
+   "desc": "Yeast dumpling steamed in a covered pan so it gets a salty, caramelised crust underneath, served with vanilla sauce. A classic of Upper Palatinate and Lower Bavarian kitchens.",
+   "kw": [
+    "dampfnudel"
+   ]
+  },
+  {
+   "id": "regensburg-bauernseufzer",
+   "name": "Oberpfälzer Bauernseufzer",
+   "local": "",
+   "icon": "🌭",
+   "desc": "Air-dried, smoked salami-style sausage from the Upper Palatinate, eaten as a snack with bread.",
+   "kw": [
+    "bauernseufzer"
+   ]
+  }
+ ]
+}

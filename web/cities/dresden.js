@@ -69,6 +69,13 @@ window.CITIES.dresden = {
     schweiz: { icon: "🧗", name: "Bastei Regular" },
     cevre: { icon: "🏺", name: "Saxon Rambler" }
   },
+  // Names for day-out trails, keyed by any quest in the group (see buildTrails in src/1-core.js).
+  trailNames: {
+    ddalbrechtsburg: "Meissen, castle and porcelain",
+    ddgoerlitzkaufhaus: "Görlitz old town",
+    ddreichenturm: "Bautzen, the Sorbian capital",
+    ddmuskau: "Bad Muskau, Pückler's park"
+  },
   quests: [
     { id: "ddalbrechtsburg", cat: "gor", area: "cevre", title: "Tour the Albrechtsburg, Germany's first castle palace",
       desc: "Begun after 1471 for the Wettin rulers Ernst and Albrecht and designed by Arnold von Westfalen, the Albrechtsburg is a late Gothic residence on Meissen's castle hill. From 1710 it housed Europe's first porcelain manufactory under Augustus the Strong.",

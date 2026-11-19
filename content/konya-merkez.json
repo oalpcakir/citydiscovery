@@ -1,0 +1,605 @@
+{
+ "new": [
+  {
+   "id": "mevlanamuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stand before Rumi's Green Dome at the Mevlana Museum",
+   "desc": "The turquoise-tiled fluted dome marks the mausoleum of Mevlana Celaleddin Rumi, who died in 1273 and whose tomb became the centre of the Mevlevi order. The complex grew from a Seljuk rose garden into a dervish lodge and became a museum in 1926.",
+   "tip": "Go at opening or after 17:00 to avoid tour groups, and cover shoulders and knees. Allow an hour; entry is ticketed.",
+   "q": "Mevlana Müzesi, Aziziye, Mevlana Mahallesi, Karatay, Konya",
+   "ll": [
+    37.87056,
+    32.50472
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Mevlana_Museum",
+    "https://kulturenvanteri.com/en/yer/mevlana-muzesi/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "alaeddinhill",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb Alaeddin Hill to the Seljuk Alaeddin Mosque",
+   "desc": "The mound at the heart of Konya was the citadel of the Anatolian Seljuk sultans. Its Alaeddin Mosque carries an inscription crediting Sultan Alaeddin Keykubad I with completion in 1220-21, and is thought to stand on an earlier basilica.",
+   "tip": "Walk up at dusk, when the park fills with families and tea gardens. The hill is free; mosque visits follow prayer times.",
+   "q": "Alaaddin Camii, Alaaddin Tepesi, Selçuklu, Konya",
+   "ll": [
+    37.87259,
+    32.49221
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Alaeddin_Mosque",
+    "https://www.lonelyplanet.com/turkey/konya/attractions/alaaddin-cami/a/poi-sig/474440/360882"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "karatay",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Study Seljuk tilework in the Karatay Madrasa",
+   "desc": "Built in 1251-52 by Emir Celaleddin Karatay under Sultan Izzeddin Keykavus II, the madrasa has a dome covered inside with blue-and-turquoise tile mosaic. It opened in 1955 as the Tile Works Museum and shows pieces recovered from Kubadabad Palace.",
+   "tip": "Stand under the central dome and look straight up. A small museum; 30-45 minutes is enough.",
+   "q": "Karatay Medresesi, Karatay, Konya",
+   "ll": [
+    37.87472,
+    32.49278
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Karatay_Madrasa"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "inceminare",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Photograph the carved portal of İnce Minareli Medrese",
+   "desc": "Founded by the Seljuk vizier Sahib Ata in 1264, the madrasa is known for its ornate stone portal and a slender minaret that lost its upper part to lightning in 1901. It now houses the Stone and Wood Art Museum.",
+   "tip": "The portal photographs best in morning light. It stands beside Alaeddin Hill, a short walk from the mosque.",
+   "q": "İnce Minareli Medrese, Alaaddin Tepesi, Selçuklu, Konya",
+   "ll": [
+    37.87289,
+    32.48998
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ince_Minaret_Madrasa"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "sircali",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the open-courtyard Sırçalı Medrese and its gravestones",
+   "desc": "Completed in 1242, this Seljuk madrasa is named for its glazed tile decoration. Unlike Konya's other madrasas its main courtyard is open to the sky, and it now holds a museum of gravestones including its founder's tomb.",
+   "tip": "Usually uncrowded and a short walk from the Mevlana complex. Look at the tile-faced iwan.",
+   "q": "Sırçalı Medrese, Mevlana Mahallesi, Karatay, Konya",
+   "ll": [
+    37.87005,
+    32.49413
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/S%C4%B1r%C3%A7al%C4%B1_Medrese",
+    "https://turkeytravelplanner.com/go/CentralAnatolia/Konya/sights/sircali.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "selimiye",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See Sultan Selim II's Ottoman Selimiye Mosque",
+   "desc": "Built between 1566 and 1574 by Sultan Selim II, who had governed Konya as prince, the Selimiye faces the Mevlana Museum across Mevlana Square. It is Konya's most imposing Ottoman mosque.",
+   "tip": "Visit between prayers and dress modestly. It pairs with the Mevlana Museum on the same square.",
+   "q": "Selimiye Camii, Mevlana Mahallesi, Karatay, Konya",
+   "ll": [
+    37.87,
+    32.5053
+   ],
+   "src": [
+    "https://turkeytravelplanner.com/go/CentralAnatolia/Konya/sights/index.html",
+    "https://www.fodors.com/world/europe/turkey/cappadocia-and-central-turkey/places/konya/things-to-do/sights"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "aziziye",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Look up at the Aziziye Mosque's Ottoman Baroque domes",
+   "desc": "The Aziziye Mosque on Mevlana Avenue was rebuilt after a fire in 1867 in an Ottoman Baroque style unusual for Konya. Its twin minarets make it a landmark of the old bazaar quarter.",
+   "tip": "It sits by the bazaar streets, so combine it with the Bedesten. Free; avoid prayer times.",
+   "q": "Aziziye Camii, Mevlana Caddesi, Karatay, Konya",
+   "ll": [
+    37.86998,
+    32.5008
+   ],
+   "src": [
+    "https://goturkiye.com/konya/see-konya",
+    "https://www.oggusto.com/seyahat/yurtici/konya-gezilecek-yerler"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "semstebrizi",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Pay respects at the tomb of Şems-i Tebrizi",
+   "desc": "The mosque and tomb honour Shams of Tabriz, the wandering mystic who became Rumi's spiritual mentor. The present building reflects 15th-16th century architecture, and the tomb is a pilgrimage stop.",
+   "tip": "Calm and rarely crowded; go outside prayer times. Free entry.",
+   "q": "Şems-i Tebrizi Camii ve Türbesi, Şemsitebrizi Mahallesi, Karatay, Konya",
+   "ll": [
+    37.87364,
+    32.49773
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/turkey/konya/attractions/sems-i-tebrizi-camii/a/poi-sig/474462/360882"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sahibata",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find Seljuk tile in the Sahib-i Ata Külliyesi",
+   "desc": "This 13th-century complex was founded by the Seljuk vizier Sahip Ata Fahreddin Ali. The restored lodge is now a small museum, and the complex has some of the best surviving Seljuk tile.",
+   "tip": "A short walk from the Mevlana Museum. Allow 20-30 minutes.",
+   "q": "Sahib-i Ata Külliyesi, Mevlana Mahallesi, Karatay, Konya",
+   "ll": [
+    37.86767,
+    32.49423
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/turkey/konya/attractions/sahib-i-ata-kulliyesi/a/poi-sig/474458/360882",
+    "https://turkeytravelplanner.com/go/CentralAnatolia/Konya/sights/sahipi_ata.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "iplikcicami",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find the Seljuk İplikçi Mosque east of Alaaddin Hill",
+   "desc": "İplikçi Mosque, also called Ebülfazl Mosque, was built in 1201-02 and is one of Konya's earliest Seljuk mosques. It stands just east of Alaaddin Hill and is notable among early Anatolian mosques for having a minaret.",
+   "tip": "The mosque is small and plain, so combine it with the Alaaddin and Karatay stops nearby. Dress modestly and avoid prayer times.",
+   "q": "İplikçi Camii, Karatay, Konya",
+   "ll": [
+    37.87194,
+    32.49667
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Iplik%C3%A7i_Mosque",
+    "https://kureansiklopedi.com/tr/detay/iplikci-camii"
+   ]
+  },
+  {
+   "id": "konyaarcheology",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Trace Anatolian history in the Konya Archaeological Museum",
+   "desc": "The museum holds finds from Çatalhöyük and other Anatolian sites, spanning Neolithic, Hittite, Roman and Byzantine periods. Guides suggest 1-2 hours for a visit.",
+   "tip": "Read the Neolithic galleries first for context on Çatalhöyük. Ticketed; closed Mondays.",
+   "q": "Konya Arkeoloji Müzesi, Larende Caddesi, Karatay, Konya",
+   "ll": [
+    37.86794,
+    32.49351
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Konya_Archaeological_Museum",
+    "https://www.planetware.com/tourist-attractions-/konya-tr-kon-k.htm"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "koyunoglu",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Browse the eclectic Koyunoğlu City Museum and Library",
+   "desc": "Grown from a collection donated to Konya Municipality by İzzet Koyunoğlu in 1973, it was the first private museum founded by a municipality in Türkiye. The collection mixes ethnography, archaeology and natural history.",
+   "tip": "Budget about an hour; it suits a rainy afternoon.",
+   "q": "Koyunoğlu Müzesi, Karatay, Konya",
+   "ll": [
+    37.86647,
+    32.51089
+   ],
+   "src": [
+    "https://www.thekonyanews.com/en/art/detay/koyunoglu-city-museum-and-library-awaits-visitors-with-its-rich-collection-828",
+    "https://artessere.com/konya-koyunoglu-museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "panorama",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step into 13th-century Konya at the Panorama Museum",
+   "desc": "Opened in 2017, the museum's circular panorama shows Seljuk-era Konya and Mevlevi life. It is counted among Türkiye's three largest panoramic museums.",
+   "tip": "Open daily except Monday; check hours and ticket prices on the day.",
+   "q": "Konya Panorama Müzesi, Selçuklu, Konya",
+   "ll": [
+    37.86975,
+    32.51193
+   ],
+   "src": [
+    "https://www.kupi.com/en-ae/explore/turkey/konya/panorama-konya-museum",
+    "https://www.aaa.com/tripcanvas/attraction/konya-panorama-museum-VA101577"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ayaelena",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Enter Sille's Aya Elena Church, reopened as a museum",
+   "desc": "Tradition credits Helena, mother of Constantine, with founding the church in 327 AD, and it is often called the oldest standing church in the world. Restored and reopened as a museum in 2021, it drew about 172,000 visitors in 2024.",
+   "tip": "Free to enter. Combine with the village walk and dress modestly.",
+   "q": "Aya Eleni Kilisesi, Sille, Selçuklu, Konya",
+   "ll": [
+    37.92565,
+    32.41379
+   ],
+   "src": [
+    "https://www.ntv.com.tr/seyahat/konyada-5000-yillik-tarihisille-koyu-konya-gezilecek-yerler,FEDN2CMeNE-9nhVgy3nwjw",
+    "https://kureansiklopedi.com/tr/detay/aya-elenia-kilisesi-1cd58"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "sillestreets",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Wander Sille's old Greek stone houses and bridges",
+   "desc": "Sille is a village about 7 km from central Konya with stone houses, rock-cut chapels, old hamams and the Devil's Bridge. Its Greek Orthodox community lived here until the 1923 population exchange.",
+   "tip": "Free to stroll. Walk the lanes up to the cave chapels and finish at a village tea garden.",
+   "q": "Sille Mahallesi, Selçuklu, Konya",
+   "ll": [
+    37.92821,
+    32.41847
+   ],
+   "src": [
+    "https://www.ntv.com.tr/yasam/konyada-5000-yillik-tarihi-sille-koyu-konya-gezilecek-yerler-FEDN2CMeNE-9nhVgy3nwjw",
+    "https://www.yerelrehber.com/en/explore/attractions/sille-village"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sillezaman",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Time Museum in a small Sille hilltop chapel",
+   "desc": "A restored chapel above Sille now houses the Zaman Müzesi, a small collection of timekeeping instruments from different eras.",
+   "tip": "Reached on foot through Sille's lanes; check it is open before climbing.",
+   "q": "Sille Zaman Müzesi, Sille Mahallesi, Selçuklu, Konya",
+   "ll": [
+    37.92726,
+    32.41246
+   ],
+   "src": [
+    "https://www.ntv.com.tr/yasam/konyada-5000-yillik-tarihi-sille-koyu-konya-gezilecek-yerler-FEDN2CMeNE-9nhVgy3nwjw"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "sadreddinkonevi",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the mosque and tomb of Sadreddin Konevi",
+   "desc": "Sadreddin Konevi, a Sufi scholar and contemporary of Rumi who died in 1274, lies in a Seljuk-era mosque and tomb complex on Konevi Street in Meram. Visitors praise the peaceful garden and the cats that live there.",
+   "tip": "It is a working mosque, so dress modestly. Early morning or late afternoon is quietest.",
+   "q": "Sadreddin Konevi Camii ve Türbesi, Konevi, Meram, Konya",
+   "ll": [
+    37.86923,
+    32.48265
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/583139/sadreddin-konevi-mosque",
+    "https://wanderlog.com/place/details/6928849/sadreddin-konevi-hazretleri-ve-t%C3%BCrbesi"
+   ]
+  },
+  {
+   "id": "meramvineyards",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stroll through Meram's historic vineyard houses",
+   "desc": "Konya's elite once spent summers in the Meram vineyard houses, where Rumi is said to have written parts of the Mesnevi. A redesigned 18,000 square metre park at Meram Bağı was among the city's most visited spots in 2023.",
+   "tip": "Visit in spring or early autumn and pair with a stream-side breakfast.",
+   "q": "Meram Bağları, Durunday, Meram, Konya",
+   "ll": [
+    37.85268,
+    32.42017
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/583130/konya-meram-ba%C4%9Flari",
+    "https://www.posta.com.tr/yasam/seyahat/mevlananin-mesneviyi-yazdigi-tarihi-baglarin-yeniden-can-buldugu-yer-meram-2895345"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hacisukru",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat fırın kebabı at Hacı Şükrü",
+   "desc": "A guide credits Hacı Şükrü as Konya's unchanged address for fırın kebabı since 1907, with a second branch in Meram. Its tirit and bamya çorbası are also praised.",
+   "tip": "Order the fırın kebabı and follow it with bamya çorbası.",
+   "q": "Hacı Şükrü 1907 Kebap Salonu, Müneccimbaşı Sokak, Ferhuniye, Selçuklu, Konya",
+   "ll": [
+    37.87432,
+    32.4859
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/1172554",
+    "https://www.oggusto.com/gastronomi/turkiye/konya-restoranlari"
+   ]
+  },
+  {
+   "id": "tiritcimithat",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat tirit at Tiritçi Mithat near the Mevlana Museum",
+   "desc": "Tiritçi Mithat serves tirit, mutton over bread soaked in broth, close to the Mevlana Museum and Kadınlar Pazarı.",
+   "tip": "Go at lunch right after the Mevlana Museum.",
+   "q": "Tiritçi Mithat, Mevlana Mahallesi, Karatay, Konya",
+   "ll": [
+    37.8718,
+    32.5015
+   ],
+   "src": [
+    "https://www.dailysabah.com/life/travel/sufi-chefs-and-piles-of-meat-food-and-history-in-konya-turkey/amp",
+    "https://www.flypgs.com/sehir-rehberi/konyada-ne-nerede-yenir"
+   ]
+  },
+  {
+   "id": "lokmahane",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste bamya çorbası and bütünet at Lokmahane",
+   "desc": "Lokmahane, a stone's throw from the Mevlana Museum, serves bamya çorbası (okra soup), kayısılı yahni, bütünet roasted lamb leg and kabak tatlısı.",
+   "tip": "Order the soup first, then a roasted lamb dish.",
+   "q": "Lokmahane, Mengüç Caddesi, Aziziye, Karatay, Konya",
+   "ll": [
+    37.86803,
+    32.50448
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/1035642/lokmahane"
+   ]
+  },
+  {
+   "id": "sendagli",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Start the day with yağ somunu at Hasan Şendağlı",
+   "desc": "Pideci Hasan Şendağlı has made yağ somunu since 1944 near Kadınlar Pazarı. Cheese or kavurma yağ somunu is the speciality, and a branch serves höşmerim with ice cream and honey.",
+   "tip": "Opens at 06:00; try the höşmerim too.",
+   "q": "Hasan Şendağlı - Türbe Önü, Mevlana, Karatay, Konya",
+   "ll": [
+    37.8704,
+    32.50214
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/1035628/hasan-%C5%9Fenda%C4%9Fl%C4%B1-ya%C4%9F-somunu--etliekmek"
+   ]
+  },
+  {
+   "id": "bolulokantasi",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat etli ekmek at Bolu Lokantası on Aziziye Caddesi",
+   "desc": "Bolu Lokantası is a small, busy family restaurant on Aziziye Caddesi known for its etli ekmek.",
+   "tip": "Expect noise and a queue at lunch.",
+   "q": "Bolu Lokantası, Aziziye Caddesi, Aziziye, Karatay, Konya",
+   "ll": [
+    37.87111,
+    32.50173
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/1167997",
+    "https://www.fodors.com/world/europe/turkey/cappadocia-and-central-turkey/restaurants/reviews/bolu-lokantasi-s702160"
+   ]
+  },
+  {
+   "id": "gonyatandir",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat tandır böreği at Gonya Tandır Evi",
+   "desc": "Gonya Tandır Evi in Horozluhan bakes sourdough tandır böreği on a tandır stone, in kıkırdaklı, pastırmalı and helvalı versions.",
+   "tip": "Go for breakfast.",
+   "q": "Gonya Tandır Evi, Selçuklu Caddesi, Horozluhan, Selçuklu, Konya",
+   "ll": [
+    37.93192,
+    32.52474
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/2862504",
+    "https://yemek.com/konya-mekanlari/"
+   ]
+  },
+  {
+   "id": "tasdegirmen",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have trout and village breakfast at Taş Değirmen",
+   "desc": "Taş Değirmen in Meram's valley is known for trout and breakfast beside the stream.",
+   "tip": "Go at weekends in summer for the stream-side tables.",
+   "q": "Taş Değirmen Kahvaltı ve Canlı Alabalık, Elektrik Caddesi, Dere Aşıklar, Meram, Konya",
+   "ll": [
+    37.85468,
+    32.37248
+   ],
+   "src": [
+    "https://restaurantguru.com/Tas-Degirmen-Konya",
+    "https://yemek.com/konyada-koy-kahvaltisi-yapilacak-yerler/"
+   ]
+  },
+  {
+   "id": "cigerciorhan",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat ciğer şiş at Ciğerci Orhan",
+   "desc": "Ciğerci Orhan in Horozluhan serves ciğer şiş, yürek şiş and fındık lahmacun with lavaş and meze.",
+   "tip": "Order the ciğer şiş.",
+   "q": "Ciğerci Orhan, Zafer Sanayi Zafer Ticaret Merkezi, Horozluhan, Selçuklu, Konya",
+   "ll": [
+    37.9409,
+    32.51597
+   ],
+   "src": [
+    "https://restaurantguru.com/Cigerci-Orhan-Konya",
+    "https://yemek.com/konya-mekanlari/"
+   ]
+  },
+  {
+   "id": "semaconcert",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Watch a Sema ceremony at the Mevlana Cultural Centre",
+   "desc": "Whirling dervishes perform the Mevlevi Sema at the Konya Mevlana Cultural Centre, whose Sema Hall also hosts the annual Şeb-i Arus commemoration.",
+   "tip": "Check the schedule and book ahead; Saturday evenings are typical.",
+   "q": "Mevlana Kültür Merkezi, Aziziye, Karatay, Konya",
+   "ll": [
+    37.87053,
+    32.514
+   ],
+   "src": [
+    "https://sebiarus.ktb.gov.tr/TR-383045/information-about-ticket-sales.html",
+    "https://www.haberler.com/konya-turk-tasavvuf-muzigi-toplulugu/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bedesten",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Bedesten bazaar",
+   "desc": "The Bedesten is Konya's historic covered market, a bazaar that suits nearly every budget.",
+   "tip": "Haggle politely and look for local sweets and crafts.",
+   "q": "Bedesten Çarşısı, Mevlana Caddesi, Karatay, Konya",
+   "ll": [
+    37.87132,
+    32.50068
+   ],
+   "src": [
+    "https://thrillophilia.com/attractions/bedesten-bazaar-konya"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kadinlarpazari",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Shop in Kadınlar Pazarı",
+   "desc": "Kadınlar Pazarı is the traditional market quarter beside the Mevlana Museum, with food shops such as Hasan Şendağlı nearby.",
+   "tip": "Go in the morning when the shops open.",
+   "q": "Kadınlar Pazarı, Mevlana Mahallesi, Karatay, Konya",
+   "ll": [
+    37.86843,
+    32.50124
+   ],
+   "src": [
+    "https://www.dailysabah.com/life/travel/sufi-chefs-and-piles-of-meat-food-and-history-in-konya-turkey/amp"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "tavusbaba",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk to Tavusbaba and the Meram Bridge",
+   "desc": "Tavusbaba Tomb and Mosque sit at the foot of Aydın Çavuş Hill, with the historic Meram Bridge directly below.",
+   "tip": "Finish with breakfast at one of the stream-side cafés.",
+   "q": "Tavusbaba Türbesi, Meram, Konya",
+   "ll": [
+    37.84947,
+    32.41728
+   ],
+   "src": [
+    "https://www.posta.com.tr/yasam/seyahat/mevlananin-mesneviyi-yazdigi-tarihi-baglarin-yeniden-can-buldugu-yer-meram-2895345"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bilimmerkezi",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Visit the Konya Science Centre",
+   "desc": "Built with TÜBİTAK support, the centre has thematic exhibits, a planetarium, observation facilities and a library.",
+   "tip": "Check admission on the official site first.",
+   "q": "Konya Bilim Merkezi, Selçuklu, Konya",
+   "ll": [
+    37.98697,
+    32.59345
+   ],
+   "src": [
+    "https://www.bizevdeyokuz.com/konya/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "butterflygarden",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk among free-flying butterflies",
+   "desc": "Opened in 2015 in Selçuklu, the Konya Tropical Butterfly Garden is described as Europe's largest butterfly flight area.",
+   "tip": "Check it is open before going; it is reportedly closed Mondays.",
+   "q": "Konya Tropikal Kelebek Bahçesi, Selçuklu, Konya",
+   "ll": [
+    37.94858,
+    32.46197
+   ],
+   "src": [
+    "https://en.wikipedia.com/wiki/Konya_Tropical_Butterfly_Garden",
+    "https://www.haberturk.com/konya-nin-kelebek-bahcesi-3-milyon-ziyaretciye-ulasti-3641362"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  }
+ ]
+}

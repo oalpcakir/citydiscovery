@@ -1,0 +1,742 @@
+{
+ "new": [
+  {
+   "id": "catalhoyuk",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the 9,000-year-old streets of Çatalhöyük",
+   "desc": "Çatalhöyük is a Neolithic settlement of two mounds near Çumra, inhabited from about 7100 BC and inscribed on the UNESCO World Heritage List in 2012. Its houses were entered through roofs and decorated with wall paintings and plastered installations. Finds are shown at the Konya Archaeological Museum and in Ankara.",
+   "tip": "Allow half a day with a car; the visitor centre has a reconstructed house and a shaded excavation area. Bring water, as there is almost nothing to buy nearby.",
+   "q": "Çatalhöyük Neolitik Kenti, Küçükköy, Çumra, Konya",
+   "ll": [
+    37.6675,
+    32.82833
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk",
+    "https://www.wikidata.org/wiki/Q192522"
+   ]
+  },
+  {
+   "id": "kilistra",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the rock-cut churches of Kilistra",
+   "desc": "Kilistra, near Gökyurt village, is a Byzantine rock-cut settlement with churches, chapels, cisterns and watchtowers, sometimes called the Cappadocia of Konya. Sandıkkaya Chapel, the three-nave cistern on Ardıçlı Hill and Sümbül Church are among the remains.",
+   "tip": "About 45 km from Konya, turning south near Erenkaya on the Antalya road; the last stretch is rough. Bring food and water, as Gökyurt has few shops.",
+   "q": "Kilistra Antik Kenti, Gökyurt, Meram, Konya",
+   "ll": [
+    37.66499,
+    32.21152
+   ],
+   "src": [
+    "https://www.wikidata.org/wiki/Q85774370",
+    "https://wanderlog.com/place/details/756961/kilistra-kat%C4%B1r-ini"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "esrefoglu",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Enter the forest of wooden columns in Eşrefoğlu Mosque",
+   "desc": "Built between 1296 and 1299 under the Eşrefoğulları beylik, this Beyşehir mosque has a flat wooden ceiling carried on dozens of timber columns. It is one of the Medieval Wooden Hypostyle Mosques of Anatolia inscribed on the UNESCO World Heritage List in 2023, and is still used for prayer.",
+   "tip": "Visit outside prayer times and dress modestly. The lake shore is a short walk to the south.",
+   "q": "Eşrefoğlu Camii, Hocaşeyh, Beyşehir, Konya",
+   "ll": [
+    37.68345,
+    31.71862
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/E%C5%9Frefo%C4%9Flu_Mosque",
+    "https://www.dailysabah.com/arts/unesco-adds-anatolias-wooden-hypostyle-mosques-to-world-heritage-list/news"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "eflatunpinar",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Find the Hittite gods of Eflatunpınar spring monument",
+   "desc": "Eflatunpınar is a Late Bronze Age Hittite water monument, a rectangular pool whose walls carry reliefs of gods and mountain deities, attributed to King Tudhaliya IV. It lies in Lake Beyşehir National Park, still fed by a spring, and is on UNESCO's Tentative List.",
+   "tip": "About 22 km north of Beyşehir; reachable only by car.",
+   "q": "Eflatunpınar Hitit Anıtı, Eflatunpınar, Beyşehir, Konya",
+   "ll": [
+    37.82278,
+    31.68917
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Eflatunp%C4%B1nar"
+   ]
+  },
+  {
+   "id": "nasreddintomb",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Pay a visit to Nasreddin Hodja's tomb in Akşehir",
+   "desc": "The tomb of the folk humorist Nasreddin Hodja in Akşehir is famous for its entrance gate with a padlock, though the tomb is open from every side. The garden around it draws visitors all year and is the opening venue of the town's festival.",
+   "tip": "Combine with the Nasreddin Hoca house museum nearby. Entry to the grounds is typically free.",
+   "q": "Nasreddin Hoca Türbesi, Nasreddin Mahallesi, Akşehir, Konya",
+   "ll": [
+    38.35558,
+    31.4183
+   ],
+   "src": [
+    "https://turkeyfromtheinside.com/?p=239",
+    "https://www.ntv.com.tr/sanat/61-uluslararasi-aksehir-nasreddin-hoca-senligi-basladi,KgRgsv5dA0SJYQD0CUhFdA"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "aksehirulucami",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the 1213 Seljuk Ulu Camii in Akşehir",
+   "desc": "Akşehir Ulu Mosque dates to 1213 and is the oldest surviving Anatolian Seljuk building in town. It is a classic Seljuk hall mosque.",
+   "tip": "Dress modestly and avoid prayer times. The Taş Medrese museum is a short walk away.",
+   "q": "Akşehir Ulu Camii, Akşehir, Konya",
+   "ll": [
+    38.35628,
+    31.41141
+   ],
+   "src": [
+    "https://www.hurriyet.com.tr/seyahat/tarihe-yolculugun-sehri-aksehir-41659268",
+    "https://turkeyfromtheinside.com/?p=239"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "aksehirtasmedrese",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Archaeology Museum in Akşehir Taş Medrese",
+   "desc": "The Taş Medrese in Akşehir dates to about 1250 and houses the town's archaeology museum, with finds from the Akşehir region. Its carved stone portal is typical of 13th-century Seljuk madrasas.",
+   "tip": "Closed Mondays. Pair with the Ulu Camii nearby.",
+   "q": "Akşehir Taş Eserler Müzesi (Taş Medrese), Altunkalem, Akşehir, Konya",
+   "ll": [
+    38.36,
+    31.40944
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ta%C5%9Fmedrese",
+    "https://turkishmuseums.com/museum/detail/2132-konya-aksehir-stone-artifacts-museum/2132/4"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ilginlala",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stop at the Lala Mustafa Paşa complex in Ilgın",
+   "desc": "Ilgın has a 16th-century Ottoman complex associated with Lala Mustafa Pasha, with a caravanserai and mosque on the old road from Istanbul to Konya. It sits near the town's thermal springs.",
+   "tip": "Visit before or after a soak in the nearby thermal baths.",
+   "q": "Lala Mustafa Paşa Külliyesi, Ilgın, Konya",
+   "ll": [
+    38.28048,
+    31.91651
+   ],
+   "src": [
+    "https://en.wikipedia.com/wiki/Ilgin",
+    "https://www.thekonyanews.com/en/health/detay/ilgin-thermal-spring-503"
+   ]
+  },
+  {
+   "id": "karapinarselim",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look over the Sultan Selim Külliyesi in Karapınar",
+   "desc": "Karapınar's Sultan Selim complex is an Ottoman külliye with a mosque and forms the historic core of the town. It is among the main sights of the district alongside the Valide Sultan bath.",
+   "tip": "Short stop on the way to Meke or the dunes.",
+   "q": "Sultan Selim Camii, Karapınar, Konya",
+   "ll": [
+    37.71451,
+    33.54773
+   ],
+   "src": [
+    "https://en.wikipedia.com/wiki/Karapinar",
+    "https://www.konyadayatirim.gov.tr/assets/upload/dosyalar/karapinar.pdf"
+   ]
+  },
+  {
+   "id": "mekegolu",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Circle the Meke crater lake near Karapınar",
+   "desc": "Lake Meke is a volcanic maar with two nested lakes, a registered natural monument and Ramsar site about 9 km from Karapınar. A later eruption about 9,000 years ago formed an inner crater, giving it the look of an eye. The lake has dried repeatedly in recent years.",
+   "tip": "Water levels vary, so check recent photos before the trip. Spring and autumn are best; summers are very hot.",
+   "q": "Meke Gölü, Karapınar, Konya",
+   "ll": [
+    37.6855,
+    33.64031
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Lake_Meke",
+    "https://dailysabah.com/travel/2019/04/02/lake-meke-an-8000-year-old-natural-beauty"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "obrukhan",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Peer into the Kızören sinkhole beside Obruk Han",
+   "desc": "Obruk Han is a 13th-century Seljuk caravanserai standing next to the Kızören sinkhole, a karst lake about 170 m deep and a Ramsar site. The inn has been restored by Karatay municipality as a museum and hotel.",
+   "tip": "Reached from the Konya-Aksaray highway, about 70 km east of Konya; the sinkhole edge is unfenced, so keep back.",
+   "q": "Obruk Han, Obruk, Karatay, Konya",
+   "ll": [
+    38.17425,
+    33.18337
+   ],
+   "src": [
+    "https://artofwayfaring.com/destinations/obruk-han-caravanserai-and-kizoren-sinkhole/",
+    "https://en.wikipedia.org/wiki/K%C4%B1z%C3%B6ren_Sinkhole"
+   ]
+  },
+  {
+   "id": "zazadin",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Roam Zazadin Han, Konya's largest Seljuk caravanserai",
+   "desc": "Zazadin Han (built 1235-1237) was begun under Alaeddin Keykubad I and finished under Gıyaseddin Keyhüsrev II, originally as Sadeddin Han. Its facades reuse Roman and Byzantine stones, and it has been restored.",
+   "tip": "About 22 km from Konya, 5 km off the Aksaray road near Tömek village.",
+   "q": "Zazadin Hanı, Tömek, Selçuklu, Konya",
+   "ll": [
+    38.00396,
+    32.67735
+   ],
+   "src": [
+    "https://www.dailysabah.com/travel/2019/10/25/travel-back-in-time-at-zazadin-han-in-konya/amp",
+    "https://www.trthaber.com/haber/kultur-sanat/selcuklunun-konyadaki-en-buyuk-kervansarayi-zazadin-hani-437183.html"
+   ]
+  },
+  {
+   "id": "karamankalesi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb Karaman Castle's three defensive lines",
+   "desc": "Karaman Castle is a hilltop fortress of three nested walls dating to the Seljuk and Karamanoğlu periods, overlooking the city that was once the Karamanoğlu capital Larende.",
+   "tip": "Climb in the morning light; the walk castle, Aktekke, Hatuniye and museum takes half a day.",
+   "q": "Karaman Kalesi, Karaman Merkez, Karaman",
+   "ll": [
+    37.18203,
+    33.20646
+   ],
+   "src": [
+    "https://goturkiye.com/karaman/see",
+    "https://www.kmu.edu.tr/intcerd/sayfa/22904/travel-guide/tr"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hatuniye",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Admire the 1382 Hatuniye Madrasa portal in Karaman",
+   "desc": "The Hatuniye Madrasa was built in 1382 by Nefise Sultan, daughter of the Ottoman Sultan Murad I, who married into the Karamanoğlu family. It is in the city centre and free to enter.",
+   "tip": "Hours vary by season; Sundays may be closed. Check before visiting.",
+   "q": "Hatuniye Medresesi, Karaman Merkez, Karaman",
+   "ll": [
+    37.18284,
+    33.21151
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/351939/hatuniye-medresesi",
+    "https://www.haberler.com/karaman-da-gezilecek-yerler-nereler-karaman-in-13340576-haberi/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "yunusemre",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the tomb of poet Yunus Emre in Karaman",
+   "desc": "Karaman's Yunus Emre Mosque and Tomb is where the poet Yunus Emre is traditionally believed to lie beside the mosque, which is said to be the oldest building in town.",
+   "tip": "Quiet at most hours. Dress modestly.",
+   "q": "Yunus Emre Camii ve Türbesi, Karaman Merkez, Karaman",
+   "ll": [
+    37.18238,
+    33.22043
+   ],
+   "src": [
+    "https://www.wikidata.org/wiki/Q132134423"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "maderimevlana",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Mevlana's mother's tomb at Aktekke in Karaman",
+   "desc": "The Aktekke mosque complex (Mader-i Mevlana) was built around 1370 by the Karamanoğlu ruler Alaeddin Ali Bey, with the tomb of Rumi's mother Mümine Hatun and a cemetery of sarcophagi. Karaman was an important Mevlevi centre.",
+   "tip": "Open daily; a short visit.",
+   "q": "Aktekke Camii, Tahsin Ünal, Karaman Merkez, Karaman",
+   "ll": [
+    37.18281,
+    33.21369
+   ],
+   "src": [
+    "https://www.wikidata.org/wiki/Q120907725",
+    "https://wanderlog.com/tp/89638/karaman-province-trip-planner"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "karamanmuze",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Karamanoğlu İbrahim Bey İmareti and museum",
+   "desc": "The Imaret, built in 1433 by Karamanoğlu İbrahim Bey II, was a charitable complex with a mosque, tomb, kitchen and Quran schools. Karaman Museum shows the archaeology and ethnography of the area.",
+   "tip": "Hours are typically 08:00-17:00 and entry has been free; check ahead.",
+   "q": "Karaman İmaret (Karaman Müzesi), Karaman Merkez, Karaman",
+   "ll": [
+    37.18256,
+    33.21168
+   ],
+   "src": [
+    "https://ktb.gov.tr/EN-99274/karaman.html",
+    "https://www.enuygun.com/bilgi/karaman-da-gezilecek-yerler/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "binbirkilise",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander the ruined churches of Binbirkilise on Karadağ",
+   "desc": "Binbirkilise (Thousand and One Churches) spreads across the north slopes of the extinct volcano Karadağ, with the largest group at Madenşehir. It was the main Byzantine religious centre of Lycaonia, and a 2025 survey recorded 15 more religious structures.",
+   "tip": "About 30 km north of Karaman; a car is essential. Bring water and sun cover, as there is little shade.",
+   "q": "Binbirkilise, Madenşehir, Karadağ, Karaman",
+   "ll": [
+    37.43134,
+    33.11717
+   ],
+   "src": [
+    "https://www.wikidata.org/wiki/Q863532",
+    "https://en.wikipedia.org/wiki/Binbirkilise"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "taskale",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the rock-cut granaries of Taşkale",
+   "desc": "Taşkale village near Karaman has a rock face of more than 250 rock-cut grain stores of one or two chambers each, from antiquity or later, rising about 40 m. The village is also known for its carpets.",
+   "tip": "About 46 km from Karaman, on the road toward Ermenek.",
+   "q": "Taşkale, Karaman Merkez, Karaman",
+   "ll": [
+    37.14171,
+    33.61213
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ta%C5%9Fkale,_Karaman",
+    "https://www.wikidata.org/wiki/Q4819447"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "manazan",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb into the Manazan Caves above Taşkale",
+   "desc": "The Manazan Caves are an ancient rock-cut settlement within Taşkale village, with chambers and cisterns carved into the cliff.",
+   "tip": "Wear grippy shoes and bring a torch; combine with the granaries.",
+   "q": "Manazan Mağaraları, Taşkale, Karaman Merkez, Karaman",
+   "ll": [
+    37.14392,
+    33.56803
+   ],
+   "src": [
+    "https://goturkiye.com/karaman/smell",
+    "https://ktb.gov.tr/EN-99274/karaman.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ivriz",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Meet Warpalawas at the İvriz Hittite rock relief",
+   "desc": "The İvriz relief shows the Neo-Hittite king Warpalawas of Tuwana before the storm-god Tarhunzas, with a Luwian inscription, carved in the 8th century BC beside a spring. A second relief lies at Ambarderesi.",
+   "tip": "About 17 km south-east of Ereğli, in a green valley at the village of Aydınkent.",
+   "q": "İvriz Kaya Anıtı, Aydınkent, Ereğli, Konya",
+   "ll": [
+    37.41029,
+    34.1729
+   ],
+   "src": [
+    "https://ktb.gov.tr/EN-113728/rock-relief-at-ivriz.html",
+    "https://en.wikipedia.org/wiki/%C4%B0vriz_monuments"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ermenekkalesi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look up at Ermenek Castle in the Taurus",
+   "desc": "Ermenek Castle, also called Firan Kalesi, sits on cliffs north of the town, with a ruined settlement below it. Its builder and date are unknown.",
+   "tip": "Reached by winding mountain roads; combine with Ermenek Dam.",
+   "q": "Ermenek Kalesi, Ermenek, Karaman",
+   "ll": [
+    36.64028,
+    32.89222
+   ],
+   "src": [
+    "https://www.wikidata.org/wiki/Q131902093",
+    "https://en.wikipedia.org/wiki/Ermenek"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ermeneksipas",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Ermenek's Sipas Mosque from 1306",
+   "desc": "The Sipas Mosque in Ermenek is dated to 1306 and is one of the town's Karamanoğlu-period monuments in the Taurus mountains.",
+   "tip": "Visit with the castle.",
+   "q": "Sipas Camii, Ermenek, Karaman",
+   "ll": [
+    36.64007,
+    32.88852
+   ],
+   "src": [
+    "https://goturkiye.com/karaman/smell",
+    "https://kmu.edu.tr/erasmus/sayfa/2950/karaman/en"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "zemzemtandir",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order poç tandır at Zemzem Restaurant in Karaman",
+   "desc": "Poç Tandır Zemzem Restaurant in Karaman is rated highly for its slow-cooked tandır lamb, a regional specialty, scoring 4.8 to 5 on review sites.",
+   "tip": "Go at lunch and order the poç tandır with bread.",
+   "q": "Poç Tandır Zemzem Restaurant, 100. Yıl Bulvarı, Hacı Celal, Karaman Merkez, Karaman",
+   "ll": [
+    37.1839,
+    33.218
+   ],
+   "src": [
+    "https://de.restaurantguru.com/POC-TANDIR-FIRIN-KEBABI-and-CORBACI-Karaman",
+    "https://www.tripadvisor.com/Restaurants-g3237759-c10663-Karaman_Karaman_Province.html"
+   ]
+  },
+  {
+   "id": "kardelenetli",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat etli ekmek at Kardelen Doğan Usta in Karaman",
+   "desc": "Kardelen Etliekmek Doğan Usta is a local Karaman etli ekmek house rated 4.8 on over 750 votes.",
+   "tip": "Ask for etli ekmek with ayran; busiest at lunch.",
+   "q": "Kardelen Etliekmek Doğan Usta, 2075. Sokak, Karaman Merkez, Karaman",
+   "ll": [
+    37.15797,
+    33.26758
+   ],
+   "src": [
+    "https://de.restaurantguru.com/Kardelen-Etliekmek-Karaman-3"
+   ]
+  },
+  {
+   "id": "lezzetkebap",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat kebab at Lezzet Kebap near Akşehir's old yoghurt market",
+   "desc": "Lezzet Kebap is a well-reviewed Akşehir grill on a street named after the old yoghurt market (Eski Yoğurt Pazarı), rated 4.4 on Tripadvisor.",
+   "tip": "Visit after the Nasreddin Hodja tomb.",
+   "q": "Lezzet Kebap Salonu, Orçun Sokak, Kuşçu, Akşehir, Konya",
+   "ll": [
+    38.3572,
+    31.41319
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/2819212/lezzet-kebap-salonu"
+   ]
+  },
+  {
+   "id": "aksehirevi",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at Akşehir Evi for local home cooking",
+   "desc": "Akşehir Evi is a Turkish restaurant in Akşehir rated 4.3 on Tripadvisor.",
+   "tip": "Order the local dishes of the day.",
+   "q": "Akşehir Evi, Akşehir, Konya",
+   "ll": [
+    38.35437,
+    31.40795
+   ],
+   "src": [
+    "https://www.tripadvisor.de/Restaurants-g1156319-Aksehir.html"
+   ]
+  },
+  {
+   "id": "elitbalik",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat lake fish at Elit Balık in Beyşehir",
+   "desc": "Elit Balık Restaurant on Antalya Caddesi in Beyşehir serves fish dishes in the town beside Turkey's largest freshwater lake.",
+   "tip": "Pair it with a walk along the lake shore afterwards.",
+   "q": "Elit Balık Restaurant, Antalya Caddesi, Hacıarmağan, Beyşehir, Konya",
+   "ll": [
+    37.67316,
+    31.71761
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/3480134/elit-bal%C4%B1k-restaurant-d%C3%BC%C4%9F%C3%BCn-salonu"
+   ]
+  },
+  {
+   "id": "yerkopru",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike down to Yerköprü Waterfall on the Göksu",
+   "desc": "Yerköprü (Göksu) Waterfall is on the Göksu River near Habiller village in Hadim, named for a travertine bridge over the river, about 110 km south of Konya. Walking paths have recently been added.",
+   "tip": "Weekdays are quieter; swimming near the falls is dangerous. Buy supplies in Hadim.",
+   "q": "Yerköprü Şelalesi, Habiller, Hadim, Konya",
+   "ll": [
+    37.02866,
+    32.69359
+   ],
+   "src": [
+    "https://wikipedia.com/wiki/Yerk%C3%B6pr%C3%BC_Waterfall_(Konya)",
+    "https://www.haber7.com/konya/3652910-baskan-altay-ziyaretcileri-hadim-yerkopru-selalesini-gormeye-davet-etti"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "cetmi",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cool off at Çetmi Waterfall in Ayıboğazı Canyon",
+   "desc": "Çetmi Waterfall in Taşkent drops about 50 m into a pool in Ayıboğazı Canyon, laid out as a picnic area by Taşkent municipality.",
+   "tip": "Best in late spring and summer; bring food.",
+   "q": "Çetmi Şelalesi, Çetmi, Taşkent, Konya",
+   "ll": [
+    36.87832,
+    32.62101
+   ],
+   "src": [
+    "https://www.ntv.com.tr/seyahat/galeri-konyada-dogaseverlerin-ugrak-noktasi-cetmi-selalesi,Cg4mhlozukai1sBY1wTY0A",
+    "https://en.wikipedia.org/wiki/%C3%87etmi"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "aygirdibi",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Picnic at Aygırdibi Waterfall, source of Çarşamba Çayı",
+   "desc": "Aygırdibi Waterfall in Karacahisar, Bozkır marks the source of the Çarşamba Çayı, about 20 km from Bozkır.",
+   "tip": "Combine with a Bozkır highland drive.",
+   "q": "Aygırdibi Şelalesi, Karacahisar, Bozkır, Konya",
+   "ll": [
+    37.11411,
+    32.14076
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/264342/ayg%C4%B1r-dibi-%C5%9Felalesi"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "nilufer",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Boat through the water lilies of Lake Beyşehir",
+   "desc": "The lily garden near Çiftlik on Lake Beyşehir is about 7 km long, reached by fishermen's boats through the reeds in Lake Beyşehir National Park. Lilies bloom from May-June to August-September.",
+   "tip": "Tours are run by local fishermen; do not pick the lilies (a fine applies). Check the water level first.",
+   "q": "Nilüfer Bahçesi, Çiftlik Mahallesi, Beyşehir, Konya",
+   "ll": [
+    37.73279,
+    31.68666
+   ],
+   "src": [
+    "https://cnnturk.com/seyahat/beysehir-golu-nilufer-tarlasi-gibi-1811071",
+    "https://dailysabah.com/turkiye/picturesque-water-lilies-boost-boat-tour-popularity-in-turkiyes-konya/news/amp"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "karaburun",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim at Karaburun, Konya's lake beach",
+   "desc": "Karaburun is the longest of three beaches on Lake Beyşehir at about 4 km, with sunbeds and umbrellas.",
+   "tip": "Summer weekends are busy.",
+   "q": "Karaburun Plajı, Üstünler, Beyşehir, Konya",
+   "ll": [
+    37.6324,
+    31.5669
+   ],
+   "src": [
+    "https://www.ntv.com.tr/seyahat/galeri-konyanin-denizi-karaburun-plaji-tatilcilerin-yeni-gozdesi-oldu,a3XRkRRGE0GYSRkKkLZURg",
+    "https://park4night.com/lieu/426055"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "ilginkaplica",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Soak in the Ilgın thermal springs",
+   "desc": "Ilgın's thermal waters are about 42 degrees C, 88 km north-west of Konya, and are said to help rheumatism and skin complaints.",
+   "tip": "Choose a day-use bath; check hours.",
+   "q": "Ilgın Kaplıcası, Ilgın, Konya",
+   "ll": [
+    38.27806,
+    31.88812
+   ],
+   "src": [
+    "https://www.thekonyanews.com/en/health/detay/ilgin-thermal-spring-503"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nasreddinfest",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Join Akşehir's International Nasreddin Hodja Festival",
+   "desc": "Held each July in Akşehir, with a town crier, a procession, ceremonial yeast-throwing and an international cartoon contest. The opening takes place in front of the tomb.",
+   "tip": "Book rooms early; the festival is in July.",
+   "q": "Nasreddin Hoca Türbesi, Akşehir, Konya",
+   "ll": [
+    38.35558,
+    31.41829
+   ],
+   "src": [
+    "https://www.wikidata.org/wiki/Q131390882"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    7
+   ]
+  },
+  {
+   "id": "ermenekboat",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Take a boat through Nadire Canyon at Ermenek Dam",
+   "desc": "Boats run into the turquoise Nadire Canyon on the Ermenek reservoir, a 9-10 km gorge with cliffs up to 250 m, starting at Ambar Boğazı.",
+   "tip": "Boats belong to Ermenek municipality; confirm the schedule locally.",
+   "q": "Ermenek Barajı, Ermenek, Karaman",
+   "ll": [
+    36.56836,
+    32.9679
+   ],
+   "src": [
+    "https://www.haberturk.com/sakli-cennet-nadire-kanyonu-2502302",
+    "https://www.iscihaber.net/kultur-sanat/karamanin-ermenek-ilcesinde-dogaseverleri-buyuleyen-nadire-kanyonu/129176"
+   ]
+  },
+  {
+   "id": "zeyvepazari",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Browse mountain produce at Zeyve Pazarı",
+   "desc": "Zeyve Pazarı is a stream-side bazaar and recreation area in Yaylapazarı, Ermenek, with restaurants, bungalows and zeyve kebab on the menu.",
+   "tip": "Try zeyve kebab.",
+   "q": "Zeyve Pazarı, Yaylapazarı, Ermenek, Karaman",
+   "ll": [
+    36.49681,
+    32.94022
+   ],
+   "src": [
+    "https://www.ntv.com.tr/turkiye/dogayla-ic-ice-alisverisin-adresi-zeyve-pazari,V87wQ86odEi1fFmb2E6OgQ",
+    "https://goturkiye.com/karaman/listen"
+   ]
+  },
+  {
+   "id": "isauria",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Start the Isauria Way trek in Bozkır",
+   "desc": "The Isauria Way is a trekking route from Bozkır to Akseki via highlands and Dipsiz Lake.",
+   "tip": "Needs several days; check route notes.",
+   "q": "Bozkır, Konya",
+   "ll": [
+    37.1904,
+    32.2473
+   ],
+   "src": [
+    "https://goturkiye.com/walking/isauria-way"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "karapinaracigol",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "See Acıgöl, the salt lake near Karapınar",
+   "desc": "Acıgöl lies in the Karapınar plain about 15 km from the town and is known for its oasis-like setting and zebra-striped rock formations; the sulfur-rich water gives it its name.",
+   "tip": "Bring sun protection; there is little shade on the plain.",
+   "q": "Acıgöl, Yeşilyurt, Karapınar, Konya",
+   "ll": [
+    37.71224,
+    33.66757
+   ],
+   "src": [
+    "https://wanderlog.com/tr/place/details/7554677/ac%C4%B1g%C3%B6l"
+   ]
+  }
+ ]
+}

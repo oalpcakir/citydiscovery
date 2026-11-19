@@ -1,0 +1,1204 @@
+{
+ "new": [
+  {
+   "id": "bourgescathedral",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the stained glass of Bourges Cathedral",
+   "desc": "Saint-Étienne cathedral was built between the late 12th and mid 13th centuries and has been a UNESCO World Heritage Site since 1992. It has five western portals, no transept and many 13th-century windows.",
+   "tip": "Visit in the morning when light fills the choir windows. Entry to the nave is free.",
+   "q": "Cathédrale Saint-Étienne, Place Étienne Dolet, Bourges",
+   "ll": [
+    47.08223,
+    2.39918
+   ],
+   "src": [
+    "https://www.worldhistory.org/trans/fr/1-21269/cathedrale-de-bourges/",
+    "https://www.universalis.fr/encyclopedie/cathedrale-de-bourges/"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bourgescathedraltower",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb the 396 steps of the cathedral's north tower",
+   "desc": "The north tower, nicknamed the Tour de Beurre, has 396 steps and gives a panorama over the old town, the marshes and Lac d'Auron. Tower and Romanesque crypt are run by the Centre des monuments nationaux.",
+   "tip": "Access is by accompanied visit only, so book or check times at the cathedral before going. The 2026 schedule was not confirmed online.",
+   "q": "Cathédrale Saint-Étienne (tour nord), Place Étienne Dolet, Bourges",
+   "ll": [
+    47.08222,
+    2.39917
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Cathédrale_Saint-Étienne_de_Bourges"
+   ]
+  },
+  {
+   "id": "palaisjacquescoeur",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Tour the Palais Jacques-Cœur, a Gothic merchant palace",
+   "desc": "Built between 1443 and 1451 for the royal financier Jacques Cœur, it is a masterpiece of flamboyant civil Gothic. Cœur never lived there because he was arrested in 1451 and the palace was confiscated.",
+   "tip": "Look for the scallop shells and the rebus on the façade. A combined ticket with the cathedral crypt has been offered.",
+   "q": "Palais Jacques Cœur, 10 bis Rue Jacques Cœur, Bourges",
+   "ll": [
+    47.08421,
+    2.39355
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Palais_Jacques_C%C5%93ur",
+    "https://www.pariszigzag.fr/france/palais-jacques-coeur-bourges/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bourgesbourbonnoux",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stroll Rue Bourbonnoux among timber-framed houses",
+   "desc": "This street in the old town has 15th and 16th-century half-timbered houses, several listed as historic monuments, including the Maison des Trois Flûtes at number 13. Shops and restaurants occupy the ground floors today.",
+   "tip": "Walk it from Place Gordaine down towards the cathedral, then add nearby Rue Mirebeau for more timber frames.",
+   "q": "Rue Bourbonnoux, Bourges",
+   "ll": [
+    47.08242,
+    2.40037
+   ],
+   "src": [
+    "https://ryo.co/fr/destinations/france/lieux/rue-bourbonnoux/",
+    "https://monumentum.fr/monument-historique/pa00096708/maisons-pans-bois"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hotellallemantbourges",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Renaissance Hôtel Lallemant museum",
+   "desc": "The mansion was built between 1495 and 1518 for the Lallemant merchant family and is among the finest Renaissance buildings in Bourges. It houses the Musée des Arts Décoratifs with furniture, tapestries, enamels and faience.",
+   "tip": "Entry has been reported free since 1996, but confirm current hours on the city website.",
+   "q": "Hôtel Lallemant, 6 Rue Bourbonnoux, Bourges",
+   "ll": [
+    47.08509,
+    2.3983
+   ],
+   "src": [
+    "https://monumentum.fr/monument-historique/pa00096687/bourges-hotel-lallemant",
+    "https://www.museum.de/en/museen/hotel-lallemant-musee-des-arts-decoratifs"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bourgesarcheveche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Wander the Jardins de l'Archevêché below the cathedral",
+   "desc": "A public garden with a geometric Le Nôtre-style plan sits at the foot of the cathedral, next to the former archbishop's palace now used as town hall. It has been reshaped several times since the 17th century.",
+   "tip": "Free and open daily; walk to the far end for the classic view of the cathedral's apse.",
+   "q": "Jardin de l'Archevêché, Avenue Eugène Brisson, Bourges",
+   "ll": [
+    47.081,
+    2.40008
+   ],
+   "src": [
+    "https://ryo.co/fr/destinations/france/lieux/jardin-de-l-archeveche/",
+    "https://www.cityzeum.com/jardins-de-l-archeveche"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "museeduberrybourges",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See Duke Jean de Berry's mourners at the Musée du Berry",
+   "desc": "The museum occupies the 16th-century Hôtel Cujas, bought by the city in 1891, and holds archaeological, medieval and fine-art collections. Highlights include the alabaster mourners from the tomb of Jean de Berry.",
+   "tip": "Check opening days before going; it sits on Rue des Arènes near the Gallo-Roman rampart.",
+   "q": "Musée du Berry, 4 Rue des Arènes, Bourges",
+   "ll": [
+    47.0853,
+    2.39267
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Mus%C3%A9e_du_Berry",
+    "https://ryo.co/fr/destinations/france/lieux/hotel-cujas/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bourgeshalleauble",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the 19th-century Halle au Blé market hall",
+   "desc": "The municipal council decided on the grain hall in 1825, the first stone was laid in 1832 and it opened in 1836. A listed monument since 1984, it now hosts a Saturday morning market of small producers and fairs.",
+   "tip": "Come on a Saturday morning for the producers' market. A restoration contract was signed in October 2025, so part may be under works.",
+   "q": "Halle au Blé, 8 Rue Paul Commenge, Bourges",
+   "ll": [
+    47.08329,
+    2.38996
+   ],
+   "src": [
+    "https://monumentum.fr/monument-historique/pa00096679/halle-ble",
+    "https://www.jds.fr/bourges/foires-et-salons/marches/halle-aux-bolides-1675049_A"
+   ]
+  },
+  {
+   "id": "bourgesmaraisboat",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Glide by flat-bottom barque through the Marais de Bourges",
+   "desc": "The marshes are 135 hectares of canals and market gardens just north-east of the centre, worked for centuries. Barque rides run on the canals in season and are booked via the tourist office.",
+   "tip": "Boat rides ran from May to August in 2025; check bourgesberrytourisme.com for 2026 dates. Free walking access from Rue de Babylone or Quai des Maraîchers.",
+   "q": "Marais de Bourges, Rue de Babylone, Bourges",
+   "ll": [
+    47.07257,
+    2.39581
+   ],
+   "src": [
+    "https://loirevalley-france.co.uk/agenda/les-marais-de-bourges-en-barque",
+    "https://birdingplaces.eu/it/birdingplaces/france/marais-de-bourges"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "bourgesfetemarais",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Join the Fête des Marais at the end of August",
+   "desc": "The annual festival in the Marais de Bourges happens around Saint-Fiacre weekend with barque rides and themed guided visits on fauna and flora. The 2026 edition was announced for 29 and 30 August.",
+   "tip": "Entry was free in 2024 with a small contribution for boat rides. Dates move each year, so check before planning.",
+   "q": "Marais de Bourges, Rue de Babylone, Bourges",
+   "ll": [
+    47.07257,
+    2.39581
+   ],
+   "src": [
+    "https://www.festivalenfrance.com/festival/fete-des-marais-de-bourges"
+   ],
+   "months": [
+    8
+   ]
+  },
+  {
+   "id": "bourgesnuitslumiere",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Follow the Nuits Lumière video projections on heritage sites",
+   "desc": "A free 2 km evening walk in the historic centre where video projections light six sites, including the cathedral, the Palais Jacques-Cœur and the Gallo-Roman ramparts. A blue ground marking guides the route.",
+   "tip": "The 2026 season ran 7 May to 19 September, Thursday to Saturday in spring and autumn and nightly in July and August. Start at nightfall.",
+   "q": "Place Cujas, Bourges",
+   "ll": [
+    47.08533,
+    2.39539
+   ],
+   "src": [
+    "https://www.festivalenfrance.com/festival/les-nuits-lumiere-de-bourges"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "printempsdebourges",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Catch a concert at the Printemps de Bourges festival",
+   "desc": "The festival marked its 50th edition from 14 to 19 April 2026, with more than 130 artists and nearly 300 concerts across venues such as the Palais d'Auron. The next edition is listed for April 2027.",
+   "tip": "Passes and tickets sell out for headline nights, so book early. Many small stages across town are cheaper.",
+   "q": "Palais d'Auron, Avenue du Maréchal Juin, Bourges",
+   "ll": [
+    47.07803,
+    2.39151
+   ],
+   "src": [
+    "https://france3-regions.franceinfo.fr/culture/musique/printemps-bourges",
+    "https://festapp.io/festivals/le-printemps-de-bourges/2026"
+   ],
+   "months": [
+    4
+   ]
+  },
+  {
+   "id": "bourgessaintbonnetmarket",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Sunday market at Halles Saint-Bonnet",
+   "desc": "The Saint-Bonnet covered hall hosts the main weekly market on Sunday mornings, spilling inside, outside and around the hall. Permanent shops operate there on other working days.",
+   "tip": "Go Sunday morning; the hall car park is open until 14:00 on Sundays.",
+   "q": "Halles Saint-Bonnet, Boulevard de la République, Bourges",
+   "ll": [
+    47.0865,
+    2.3928
+   ],
+   "src": [
+    "https://gigigriffis.com/the-sunday-morning-market-in-bourges-france/",
+    "https://ryo.co/en/destinations/france/places/saint-bonnet-market/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bourgesplacecujasnights",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Shop the summer craft night markets on Place Cujas",
+   "desc": "During the Bel Été à Bourges programme, local artisans take over Place Cujas for night markets every Thursday in summer. The 2026 series ran from 16 July to 27 August.",
+   "tip": "Dates change each year; check the city's summer programme. Combine with the Nuits Lumière walk afterwards.",
+   "q": "Place Cujas, Bourges",
+   "ll": [
+    47.08533,
+    2.39539
+   ],
+   "src": [
+    "https://www.jds.fr/bourges/foires-et-salons/marches/marches-nocturnes-1673392_A"
+   ],
+   "months": [
+    7,
+    8
+   ]
+  },
+  {
+   "id": "bourgesaurontour",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk or cycle around Lac d'Auron",
+   "desc": "The 73-hectare lake was created in 1977 less than 2 km from the centre and is ringed by the Rocade Verte path of about 6 km. Protected marshes on the southwest side suit birdwatching, and rowing and canoeing run on the water.",
+   "tip": "Walk down the plane-lined Trouée Verte from town; the south-west side is best for birds in winter.",
+   "q": "Lac d'Auron, Bourges",
+   "ll": [
+    47.06099,
+    2.40052
+   ],
+   "src": [
+    "https://www.visorando.com/randonnee-tour-du-plan-d-eau-du-val-d-auron/",
+    "https://www.birdingplaces.eu/en/birdingplaces/france/val-dauron"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "louisxibourges",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try andouillette and snails at Le Louis XI",
+   "desc": "A traditional bistro at 11 Rue Porte Jaune near the cathedral, listed by Gault&Millau. The menu leans on snails, andouillette, tartare and entrecôte, with Loire and Berry wines by the glass.",
+   "tip": "Closed Sunday and Monday according to listings; book for dinner.",
+   "q": "Le Louis XI, 11 Rue Porte Jaune, Bourges",
+   "ll": [
+    47.08403,
+    2.3974
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/restaurant/le-louis-xi",
+    "https://www.enprimeurclub.com/restaurants/le-louis-xi-bourges-restaurant"
+   ]
+  },
+  {
+   "id": "lebourbonnouxbourges",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine on Berry produce at Le Bourbonnoux",
+   "desc": "Restaurant on Rue Bourbonnoux using local Berry products, with a Gault&Millau menu around 42 euros. Reviewers praise presentation and generous portions.",
+   "tip": "Book ahead for dinner and ask for the Berry-sourced seasonal menu.",
+   "q": "Le Bourbonnoux, 44 Rue Bourbonnoux, Bourges",
+   "ll": [
+    47.0833,
+    2.398
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/restaurants/le-bourbonnoux",
+    "https://lacarte.menu/restaurants/bourges/le-bourbonnoux/reviews"
+   ]
+  },
+  {
+   "id": "aurezdechausseebourges",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat bistronomy at Au Rez-de-Chaussée",
+   "desc": "A bistronomic restaurant at 8 Rue Porte Jaune in the oldest part of Bourges, with à la carte dishes around 25 to 40 euros and listings in Gault&Millau and Le Fooding.",
+   "tip": "Small dining room, so reserve; the street is steps from the cathedral.",
+   "q": "Au Rez-de-Chaussée, 8 Rue Porte Jaune, Bourges",
+   "ll": [
+    47.08392,
+    2.39728
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/en/restaurants/au-rez-de-chaussee",
+    "https://lefooding.com/en/restaurants/restaurant-au-rez-de-chaussee-bourges"
+   ]
+  },
+  {
+   "id": "sancerrehilltop",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander hilltop Sancerre and its Loire viewpoints",
+   "desc": "Sancerre sits at about 300 metres, roughly 200 m above the Loire, with steep lanes and half-timbered houses. The Tour des Fiefs, last remnant of the feudal castle, and the Porte César esplanade offer vineyard panoramas.",
+   "tip": "Check whether the Tour des Fiefs is open; the Porte César esplanade is free. Park below and walk up.",
+   "q": "Esplanade de la Porte César, Sancerre",
+   "ll": [
+    47.3325,
+    2.8377
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Sancerre"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sancerrelatour",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste modern cuisine at La Tour in Sancerre",
+   "desc": "A well-reviewed restaurant under chef Baptiste Fournier, rated 13.5/20 by Gault&Millau and listed by Michelin. Gastronomic menus range from about 39 to 74 euros.",
+   "tip": "Pair with a Sancerre by the glass; book ahead on weekends.",
+   "q": "La Tour, Sancerre",
+   "ll": [
+    47.3324,
+    2.8383
+   ],
+   "src": [
+    "https://guide.michelin.com/th/th/centre-val-de-loire/sancerre/restaurant/la-tour8436",
+    "https://restoranking.fr/r/la-tour-4_127323/"
+   ]
+  },
+  {
+   "id": "restaurantlatoursancerre",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at Restaurant La Tour in Sancerre",
+   "desc": "A gastronomic French restaurant in Sancerre led by chef Baptiste Fournier, rated 13.5/20 by Gault&Millau. Menus run from roughly 39 to 74 euros.",
+   "tip": "Book ahead, and pair the meal with a local Sancerre white.",
+   "q": "Restaurant La Tour, Sancerre",
+   "ll": [
+    47.33201,
+    2.8398
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/en/centre-val-de-loire/cher/sancerre/restaurants"
+   ]
+  },
+  {
+   "id": "chavignolduboisboulay",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Buy Crottin de Chavignol at Dubois-Boulay",
+   "desc": "The fromagerie on the village square of Chavignol, below Sancerre, has long been a reference for the goat's cheese that bears the village's name. Crottin is sold fresh to well matured.",
+   "tip": "Ask for a crottin at different ripeness levels and match it with a glass of Sancerre.",
+   "q": "Fromagerie Dubois-Boulay, Place du Village, Chavignol",
+   "ll": [
+    47.33748,
+    2.79825
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Chavignol",
+    "https://www.gillespudlowski.com/113612/produits/sancerre-le-crottin-de-chavignol-selon-dubois-boulay"
+   ]
+  },
+  {
+   "id": "ainaylevieilchateau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Cross the moat at Château d'Ainay-le-Vieil",
+   "desc": "A moated castle with a medieval fortress side and a pre-Renaissance Louis XII wing. After Jacques Cœur's property was seized, it passed to the Culan family and later the Bigny family.",
+   "tip": "Check seasonal opening on the official site; it is on the Route Jacques Cœur.",
+   "q": "Château d'Ainay-le-Vieil, Ainay-le-Vieil",
+   "ll": [
+    46.66806,
+    2.54972
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Château_d'Ainay-le-Vieil"
+   ]
+  },
+  {
+   "id": "culanchateau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the medieval Château de Culan",
+   "desc": "A feudal fortress in the south of the Cher that hosted Joan of Arc in 1429. Building began in the late 12th century and continued into the 15th, and medieval gardens were laid out around it in 1995.",
+   "tip": "Check the opening dates on the castle's own site before driving out, as visits have traditionally run from Easter to All Saints' Day.",
+   "q": "Château de Culan, Culan",
+   "ll": [
+    46.54639,
+    2.35222
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Château_de_Culan"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "noirlacabbey",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the cloister of Noirlac Abbey",
+   "desc": "Noirlac is a Cistercian abbey founded in 1136 by monks from Clairvaux and listed as a historic monument in 1862. It is now a cultural centre and one of the best-preserved monastic ensembles in France.",
+   "tip": "About 40 km south of Bourges off the A71. Check abbayedenoirlac.fr for events such as the September heritage weekend.",
+   "q": "Abbaye de Noirlac, Bruère-Allichamps",
+   "ll": [
+    46.74528,
+    2.4611
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Abbaye_de_Noirlac"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "apremontgardens",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the flower park of Apremont-sur-Allier",
+   "desc": "A five-hectare privately owned park created by Gilles de Brissac beside the Allier in a medieval village, labelled Jardin remarquable. It has a waterfall, three garden follies, a white garden and a wisteria alley.",
+   "tip": "Entry was about 12 euros for adults in listings. Combine with a walk through the village.",
+   "q": "Parc floral d'Apremont-sur-Allier, Apremont-sur-Allier",
+   "ll": [
+    46.90694,
+    3.04778
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Apremont-sur-Allier"
+   ]
+  },
+  {
+   "id": "aubignychateaustuarts",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Trace the Auld Alliance at Aubigny-sur-Nère",
+   "desc": "The Renaissance Château des Stuarts, now town hall and museum, houses an interpretation centre on the Auld Alliance. After the 1512 fire, rebuilding with Robert Stuart de Lennox left more than half the intra-muros houses timber-framed.",
+   "tip": "The interpretation centre can be visited freely. A Franco-Scottish festival is held each July.",
+   "q": "Château des Stuarts, Place de la Résistance, Aubigny-sur-Nère",
+   "ll": [
+    47.48878,
+    2.44082
+   ],
+   "src": [
+    "https://www.pariszigzag.fr/sortir-paris/balade-paris/aubigny-nere/",
+    "https://www.routard.com/fr/guide/france/berry/cher/aubigny-sur-nere/chateau-des-stuart"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mehunchateaucharles7",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the ruins and museum of the Charles VII château at Mehun",
+   "desc": "The ruined château on a rocky spur dates from the early 13th century and has been a historic monument since 1840. The Musée Charles VII occupies one tower with medieval collections and excavation finds.",
+   "tip": "The museum is on Place du Général Leclerc; the separate Pôle de la Porcelaine covers Pillivuyt porcelain made in town since 1854.",
+   "q": "Château de Mehun-sur-Yèvre, Place du Général Leclerc, Mehun-sur-Yèvre",
+   "ll": [
+    47.14266,
+    2.21665
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Mehun-sur-Y%C3%A8vre",
+    "https://www.wikipedia.com/wiki/Ch%C3%A2teau_de_Mehun-sur-Y%C3%A8vre"
+   ]
+  },
+  {
+   "id": "labornepotters",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Browse the potters' workshops of La Borne",
+   "desc": "La Borne straddles Henrichemont and Morogues and has a pottery tradition documented for four centuries, revived after the Second World War. About 80 potters work around the village, many with wood-fired kilns, and the Centre céramique contemporaine runs residencies.",
+   "tip": "Wander from workshop to workshop; many open on weekends and by appointment.",
+   "q": "Centre céramique contemporaine La Borne, La Borne, Henrichemont",
+   "ll": [
+    47.2747,
+    2.5104
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/La_Borne"
+   ]
+  },
+  {
+   "id": "labornegrandsfeux",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "See wood-fired kilns at Les Grands Feux de La Borne",
+   "desc": "A nine-day firing event when 24 potters' workshops open to the public. The 2026 edition ran 17 to 25 October.",
+   "tip": "Held in October; check dates each year.",
+   "q": "La Borne, Henrichemont",
+   "ll": [
+    47.275,
+    2.51
+   ],
+   "src": [
+    "https://www.festivalenfrance.com/en/festival/grands-feux-de-la-borne",
+    "https://unidivers.fr/event/les-grands-feux-2026-henrichemont-cher-2026-10-17/"
+   ],
+   "months": [
+    10
+   ]
+  },
+  {
+   "id": "menetousalonchateau",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Taste Menetou-Salon wine at the château estate",
+   "desc": "The Château de Menetou-Salon, at 2 Rue du Château, offers a visit followed by a tasting, reported at around 9 euros. Other estates such as Teiller and Châtenoy also receive visitors.",
+   "tip": "Reported hours are old, so call ahead. The village is east of Bourges.",
+   "q": "Château de Menetou-Salon, 2 Rue du Château, Menetou-Salon",
+   "ll": [
+    47.2358,
+    2.4918
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/218511/castle-and-estate-menetou-salon",
+    "https://www.ruedesvignerons.com/fr/appellations/menetou-salon"
+   ]
+  },
+  {
+   "id": "canalberrycycling",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cycle the Canal de Berry from Bourges to Plaimpied",
+   "desc": "The Cœur de France à vélo route runs about 33 km from Bourges past Lac d'Auron and along the Canal de Berry to Plaimpied-Givaudins and its Romanesque abbey church. Aimed at beginners.",
+   "tip": "The canal is not fully developed beyond Plaimpied-Givaudins; check the route before riding further south.",
+   "q": "Abbatiale Saint-Martin, Plaimpied-Givaudins",
+   "ll": [
+    46.99831,
+    2.45433
+   ],
+   "src": [
+    "https://www.francevelotourisme.com/itineraire/coeur-de-france-a-velo/bourges-dun-sur-auron",
+    "https://www.af3v.org/les-voies-vertes/voies/949-v46-coeur-de-france-a-velo-canal-de-berry-de-bourges-a-dun-sur-auron/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "valencaychateau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Talleyrand's Château de Valençay",
+   "desc": "A Renaissance and Classical château overlooking the Nahon valley, once owned by John Law and later by Prince Talleyrand. It was used to store artworks from the Louvre in the Second World War and has English-style grounds.",
+   "tip": "Address is 2 rue de Blois. Check events and ticket prices on the official site.",
+   "q": "Château de Valençay, 2 Rue de Blois, Valençay",
+   "ll": [
+    47.15755,
+    1.56298
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Valen%C3%A7ay",
+    "https://www.bloischambord.com/en/discover-the-destination/the-loire-valley-castles/valencay-castle/"
+   ]
+  },
+  {
+   "id": "anjouinvalencaycheese",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Valençay goat cheese from Anjouin",
+   "desc": "Valençay is a raw-milk goat cheese shaped as a truncated pyramid with an ash rind, protected as an AOP. The Fromagerie d'Anjouin has worked for more than 60 years on regional AOP cheeses.",
+   "tip": "Ask for a Valençay at different ripeness levels; call ahead for visits.",
+   "q": "Fromagerie d'Anjouin, Anjouin",
+   "ll": [
+    47.19028,
+    1.80167
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/en/news/le-valencay--degustation-a-l-atelier-du-gout",
+    "https://fr.wikipedia.org/wiki/Anjouin"
+   ]
+  },
+  {
+   "id": "nohantgeorgesand",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour George Sand's house and garden at Nohant",
+   "desc": "The Domaine de George Sand at Nohant-Vic is run by the Centre des monuments nationaux. The house is visited by guided tour only and the garden is a Jardin remarquable.",
+   "tip": "Full price was about 9 euros; closed on 1 January, 1 May and 25 December.",
+   "q": "Maison de George Sand, 2 Place Sainte-Anne, Nohant-Vic",
+   "ll": [
+    46.62501,
+    1.97531
+   ],
+   "src": [
+    "https://www.pariszigzag.fr/sortir-paris/balade-paris/domaine-nohant-george-sand/",
+    "https://www.francethisway.com/places/nohant-vic.php"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "gargilessecrypt",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Descend into the painted crypt at Gargilesse",
+   "desc": "The Romanesque church of Gargilesse has close to 120 carved capitals and a large crypt under the chevet with 13th-century frescoes and 15th-century murals.",
+   "tip": "Free entry; ask at the mairie for hours.",
+   "q": "Église Notre-Dame, Gargilesse-Dampierre",
+   "ll": [
+    46.51262,
+    1.59682
+   ],
+   "src": [
+    "https://www.guide-tourisme-france.com/VISITER/eglise-romane-crypte--gargilesse-dampierre-1982.htm",
+    "https://loirevalley-france.co.uk/cultural-sites/notre-dame-gargilesse-romanesque-church"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "eguzonlakebeach",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim and paddle at Lac d'Éguzon",
+   "desc": "The lake has supervised swimming at Chambon beach in July and August, with an aquatic play park. Sailing, canoeing, paddleboarding and pedal boats are offered on the water.",
+   "tip": "Supervised bathing is limited to July and August. Check each beach and the water-sports operators.",
+   "q": "Plage de Chambon, Éguzon-Chantôme",
+   "ll": [
+    46.43437,
+    1.61185
+   ],
+   "src": [
+    "https://www.parc-naturel-brenne.fr/visitez/les-incontournables/a-proximite-du-parc/lac-d-eguzon-34",
+    "https://www.gites-de-france.com/fr/lac-eguzon"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "brennemaisonduparc",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Start your Brenne visit at the Maison du Parc",
+   "desc": "The park's information centre sits in the old château farm in the hamlet of Le Bouchet at Rosnay, with exhibitions, tourist information and a shop of local products. It is the usual starting point for the Brenne's ponds.",
+   "tip": "Carp fries are served at the restaurant area. Check hours on parc-naturel-brenne.fr.",
+   "q": "Maison du Parc naturel régional de la Brenne, Le Bouchet, Rosnay",
+   "ll": [
+    46.7473,
+    1.3082
+   ],
+   "src": [
+    "https://www.parc-naturel-brenne.fr/tourist-map/places-to-visit/la-maison-du-parc"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "cherinereservehike",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk or cycle around the Chérine nature reserve",
+   "desc": "The Réserves Naturelles de Chérine and Terres et Étangs de Brenne offer bird-watching all year, and winter has big gatherings. A herons observatory on a pontoon is open by reservation and a small observatory is open at all times.",
+   "tip": "Reserve the large observatory via reserve-cherine.fr.",
+   "q": "Maison de la Nature et de la Réserve de Chérine, Saint-Michel-en-Brenne",
+   "ll": [
+    46.79035,
+    1.20034
+   ],
+   "src": [
+    "https://loirevalley-france.co.uk/cultural-sites/maison-de-la-nature-et-de-la-reserve",
+    "https://parc-naturel-brenne.fr/places-to-visit/the-must-see/maison-de-la-nature"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "azayleferronchateau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the château and yew gardens of Azay-le-Ferron",
+   "desc": "The château was bequeathed to the City of Tours in 1951 with its furniture and is a Musée de France. Its 17-hectare park is a Jardin remarquable with box parterres and yew topiaries.",
+   "tip": "A 2026 listing shows 10:00 to 17:30 Thursday to Sunday; summer is daily. Check before going.",
+   "q": "Château d'Azay-le-Ferron, 31 Rue Hersent-Luzarche, Azay-le-Ferron",
+   "ll": [
+    46.85095,
+    1.0703
+   ],
+   "src": [
+    "https://en.wikipedia.com/wiki/Ch%C3%A2teau_d%27Azay-le-Ferron",
+    "https://monumentum.fr/jardin-remarquable/jar0000095/azay-le-ferron-parc-dazay-le-ferron"
+   ]
+  },
+  {
+   "id": "fontgombaultabbey",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Hear vespers at Fontgombault Abbey",
+   "desc": "A Benedictine abbey whose Romanesque church lies in the Creuse valley of the Indre. The monks sing the offices in public in the abbey church.",
+   "tip": "Vespers were once listed at 18:00 on most days with a Thursday exception; the source is old, so confirm times with the abbey.",
+   "q": "Abbaye Notre-Dame de Fontgombault, Fontgombault",
+   "ll": [
+    46.67688,
+    0.97863
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Abbaye_Notre-Dame_de_Fontgombault"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "stbenoitdusault",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore medieval Saint-Benoît-du-Sault",
+   "desc": "A village in Les Plus Beaux Villages de France since 1988, perched on a granite rock above the Portefeuille. It has ramparts, a fortified gate, castle ruins, a 14th-century belfry and a priory founded at the end of the 10th century.",
+   "tip": "Free to wander; the lanes of 15th-16th-century houses are the highlight.",
+   "q": "Prieuré de Saint-Benoît-du-Sault, Saint-Benoît-du-Sault",
+   "ll": [
+    46.43719,
+    1.38938
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Saint-Beno%C3%AEt-du-Sault",
+    "https://www.pariszigzag.fr/sortir-paris/balade-paris/saint-benoit-du-sault/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "chateaurouxcordeliers",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Couvent des Cordeliers art space in Châteauroux",
+   "desc": "A 13th-century Franciscan convent now dedicated to modern art exhibitions, with terraced gardens that visitors like.",
+   "tip": "Free entry with hours of 10:00 to 12:00 and 14:00 to 18:00 in one guide; check before going.",
+   "q": "Couvent des Cordeliers, Châteauroux",
+   "ll": [
+    46.81491,
+    1.69515
+   ],
+   "src": [
+    "https://www.guide-tourisme-france.com/VISITER/couvent-cordeliers--chateauroux-1933.htm"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "argentonpontvieux",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Creuse houses and Pont-Vieux in Argenton",
+   "desc": "Argenton, nicknamed the Venice of Berry, has wooden-gallery houses overhanging the Creuse. The 17th-century Pont-Vieux links the upper and lower towns, and the rebuilt chapel Notre-Dame-des-Bancs overlooks it.",
+   "tip": "Walk the riverbanks and then climb to the chapel for the view.",
+   "q": "Pont-Vieux, Argenton-sur-Creuse",
+   "ll": [
+    46.5866,
+    1.51787
+   ],
+   "src": [
+    "https://www.pariszigzag.fr/sortir-paris/balade-paris/argenton-sur-creuse/",
+    "https://www.routard.com/fr/guide/france/berry/indre/argenton-sur-creuse"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ptitbouchonchateauroux",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try tripe with Reuilly sauce at Le P'tit Bouchon",
+   "desc": "A Berry-style bouchon in Châteauroux rated 11/20 by Gault&Millau, serving dishes such as tripe with Reuilly sauce and veal kidneys. Budget around 22 to 36 euros.",
+   "tip": "Book at weekends.",
+   "q": "Le P'tit Bouchon, Châteauroux",
+   "ll": [
+    46.813,
+    1.694
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/restaurant/le-p-tit-bouchon-restaurant-chateauroux"
+   ]
+  },
+  {
+   "id": "orbyschateauroux",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Book a tasting menu at Orbys in Châteauroux",
+   "desc": "Chef Adam Blondeau's gastronomic French restaurant is rated 14/20 by Gault&Millau, who have backed it since opening. Budget runs from 45 to 100 euros.",
+   "tip": "Reserve ahead for dinner.",
+   "q": "Orbys, 8 rue de l'Amiral-Ribourt, Châteauroux",
+   "ll": [
+    46.81147,
+    1.69087
+   ],
+   "src": [
+    "https://guide.michelin.com/en/centre-val-de-loire/chteauroux/restaurant/orbys",
+    "https://fr.gaultmillau.com/en/restaurant/orbys"
+   ]
+  },
+  {
+   "id": "cognetteissoudun",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at La Cognette in Issoudun",
+   "desc": "Rated 14/20 by Gault&Millau, La Cognette is described as a must for Berrichons for classic cuisine.",
+   "tip": "Book ahead; Issoudun is about 30 km from Bourges.",
+   "q": "La Cognette, Issoudun",
+   "ll": [
+    46.95026,
+    1.98966
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/en/restaurant/la-cognette"
+   ]
+  },
+  {
+   "id": "treiscepagesreuilly",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Pair Reuilly wines at Les Trois Cépages",
+   "desc": "A restaurant in Reuilly, a Loire wine village, rated 12.5/20 by Gault&Millau.",
+   "tip": "Ask for the local Reuilly wine by the glass.",
+   "q": "Les Trois Cépages, 17 rue de la Gare, Reuilly",
+   "ll": [
+    47.0888,
+    2.0646
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/en/restaurants/les-trois-cepages",
+    "https://lefooding.com/en/restaurants/restaurant-les-trois-cepages-reuilly"
+   ]
+  },
+  {
+   "id": "aubergegabrierelinge",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat smoked carp at Auberge de la Gabrière",
+   "desc": "The inn at Lingé, by the Gabrière pond, lists smoked carp, seasonal game and Brenne goat's cheese. Its fish fries come with goat's cheese sauce, and the park guide notes stuffed carp on reservation.",
+   "tip": "Reserve for the carpe farcie.",
+   "q": "Auberge de la Gabrière, 2 rue de la Gabrière, Lingé",
+   "ll": [
+    46.76158,
+    1.16224
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/2912736/auberge-de-la-gabrière",
+    "https://www.francevelotourisme.com/restaurants-bars/restaurants/auberge-de-la-gabriere"
+   ]
+  },
+  {
+   "id": "aubergedugrebelureuil",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste pond fish at Auberge du Grèbe",
+   "desc": "A Brenne restaurant at Lureuil whose cooking is based on pond fish, lamb, Berry black hen and game, changing with the seasons.",
+   "tip": "About 80 covers; reservation advised.",
+   "q": "Auberge du Grèbe, 6 Place de l'Église, Lureuil",
+   "ll": [
+    46.74459,
+    1.04264
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/2825416/auberge-du-grèbe",
+    "https://www.parc-naturel-brenne.fr/your-stay/where-to-eat/restaurants/auberge-du-grebe-369"
+   ]
+  },
+  {
+   "id": "neverscathedral",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the two choirs of Nevers Cathedral",
+   "desc": "Saint-Cyr-et-Sainte-Julitte has opposing Romanesque and Gothic choirs after an incomplete Gothic rebuilding, with a Romanesque apse fresco of Christ in glory and a crypt. It has been a historic monument since 1862.",
+   "tip": "Free to enter; look at both apses and the crypt.",
+   "q": "Cathédrale Saint-Cyr-et-Sainte-Julitte, Place Saint-Cyr, Nevers",
+   "ll": [
+    46.98715,
+    3.15719
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Nevers_Cathedral",
+    "https://monumentum.fr/monument-historique/pa00112936/nevers-cathedrale-saint-cyr-et-sainte-julitte"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nevershespacebernadette",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Saint Bernadette's shrine at Espace Bernadette",
+   "desc": "The former Saint-Gildard convent, motherhouse of the Sisters of Charity of Nevers, holds Bernadette's body in a glass shrine in the chapel since 1925. She came in 1866 and died there in 1879 at 35.",
+   "tip": "Address is 34 rue Saint-Gildard; the site draws about 150,000 pilgrims a year.",
+   "q": "Espace Bernadette Soubirous, 34 Rue Saint-Gildard, Nevers",
+   "ll": [
+    46.99197,
+    3.15162
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Espace_Bernadette_Soubirous_Nevers",
+    "https://www.routes-touristiques.com/tourisme/visiter-nos-regions/bourgogne/nievre/visites-et-voir/chateaux-monuments-et-patrimoines/espace-bernadette-soubirous-nevers-58.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "neversfaiencemuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Nevers faience at the Musée Frédéric Blandin",
+   "desc": "The museum created in 1844 shows Nevers faience and fine arts and is named for the banker and former faience manufacturer Frédéric Blandin, whose donation helped found it.",
+   "tip": "A winter schedule applies from 20 November, so check hours. Admission was listed at 8 euros.",
+   "q": "Musée de la Faïence et des Beaux-Arts Frédéric Blandin, Nevers",
+   "ll": [
+    46.9908,
+    3.1569
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Musée_de_la_Faïence_et_des_Beaux-Arts_de_Nevers"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "jeanmichelcouronnevers",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Book a table at Jean-Michel Couron in Nevers",
+   "desc": "Rated 14/20 by Gault&Millau, this French restaurant at 21 Rue Saint-Étienne serves local cooking and is called Nevers' finest table. Budget runs from 29.50 to 67 euros.",
+   "tip": "Reserve; a good pick for a special meal.",
+   "q": "Jean-Michel Couron, 21 Rue Saint-Étienne, Nevers",
+   "ll": [
+    46.99124,
+    3.16353
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/en/restaurant/jean-michel-couron"
+   ]
+  },
+  {
+   "id": "lasimplicitenevers",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Lunch on traditional bistro fare at La Simplicité",
+   "desc": "A bistro at 62 Rue de Nièvre selected by Gault&Millau, run by Julie and Fredy, serving traditional French dishes at about 16.50 euros per person.",
+   "tip": "Wine bar Une Note de Vin sits next door at number 60.",
+   "q": "La Simplicité, 62 Rue de Nièvre, Nevers",
+   "ll": [
+    46.98978,
+    3.16355
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/en/restaurants/la-simplicite"
+   ]
+  },
+  {
+   "id": "negusnevers",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Buy Négus de Nevers at Au Négus",
+   "desc": "The Négus is a thin shell of cooked sugar around a soft caramel heart, created at Nevers around 1902 by Grelier and Lyron, named for the Ethiopian emperor. Au Négus has been in Nevers since 1893.",
+   "tip": "Also try the coffee version, called the Abyssin. Shop at 96 rue François Mitterrand.",
+   "q": "Au Négus, 96 Rue François Mitterrand, Nevers",
+   "ll": [
+    46.99125,
+    3.16165
+   ],
+   "src": [
+    "https://www.nevers-tourisme.com/?p=16103",
+    "https://www.gillespudlowski.com/?p=256812"
+   ]
+  },
+  {
+   "id": "lacharitepriory",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the Romanesque priory of La Charité-sur-Loire",
+   "desc": "Cluny founded the priory in the mid-11th century and Pope Paschal II consecrated Notre-Dame in 1107. It was once the second largest church in Christendom after Cluny, and UNESCO listed it in 1998 as a stage on the Santiago pilgrim routes.",
+   "tip": "Climb the tower for a view over the Loire; check hours in the visitor guide.",
+   "q": "Prieuré Notre-Dame, Place Sainte-Croix, La Charité-sur-Loire",
+   "ll": [
+    47.17759,
+    3.01749
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Prieuré_de_La_Charité-sur-Loire"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "lacharitebookmarket",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Browse the monthly rare-book market at La Charité-sur-Loire",
+   "desc": "La Charité calls itself the Cité du Livre after Hay-on-Wye, with many bouquinistes. The Amicale des Bouquinistes Bourgogne Berry runs a monthly old-book market on the third Sunday of each month.",
+   "tip": "Go on the third Sunday; bookshops and a calligrapher keep shop on other days.",
+   "q": "Le Prieuré - La Cité du Mot, Place Sainte-Croix, La Charité-sur-Loire",
+   "ll": [
+    47.17759,
+    3.01749
+   ],
+   "src": [
+    "https://www.macommune.info/agenda/marche-mensuel-du-livre-de-la-charite-sur-loire/",
+    "https://vide-greniers.org/evenement/439617"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "pouillyfumetasting",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Taste Pouilly-Fumé at Domaine Barillot",
+   "desc": "Domaine Barillot in Pouilly-sur-Loire offers tasting, sales and cellar visits, with English spoken. The appellation also runs vineyard walks in summer.",
+   "tip": "Book ahead; many estates open weekdays and Saturdays. Walks with tasting ran on Saturdays at 18:30 in July and August.",
+   "q": "Domaine Barillot, Pouilly-sur-Loire",
+   "ll": [
+    47.28774,
+    2.96817
+   ],
+   "src": [
+    "https://www.pouilly-fume.com/en/?p=4335",
+    "https://www.pouilly-fume.com/wp-content/uploads/2025/05/2025-dépliant-LTPFV4b.pdf"
+   ]
+  },
+  {
+   "id": "relaisdepouilly",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat traditional French at Le Relais de Pouilly",
+   "desc": "Chef Gérard Ordan serves traditional French cooking at Pouilly-sur-Loire, with garden and terrace seating and menus from about 19 to 37 euros.",
+   "tip": "Pair a Pouilly-Fumé with the fish dish.",
+   "q": "Le Relais de Pouilly, Quai de Loire, Pouilly-sur-Loire",
+   "ll": [
+    47.287,
+    2.954
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/en/restaurant/le-relais-de-pouilly"
+   ]
+  },
+  {
+   "id": "settonslaketour",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the 15 km loop around Lac des Settons",
+   "desc": "The Morvan lake loop is about 14.8 km with about 110 m of ascent from the dam. Boardwalk sections and a Pavillon Bleu beach on the peninsula are along the way.",
+   "tip": "Start and finish at the dam where there are cafés. Bathing is supervised in summer.",
+   "q": "Barrage des Settons, Montsauche-les-Settons",
+   "ll": [
+    47.19654,
+    4.05695
+   ],
+   "src": [
+    "https://www.komoot.com/fr-fr/smarttour/e1368640835/tour-du-lac-des-settons-boucle-dans-le-parc-naturel-regional-du-morvan",
+    "https://www.pleinsoleilparis.fr/lac-des-settons-dans-le-morvan-que-voir-et-que-faire-aux-alentours/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "panneciereshore",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Paddle or hike at Lac de Pannecière",
+   "desc": "The largest lake in the Nièvre Morvan covers about 520 hectares, created between 1937 and 1949 to regulate the Yonne and Seine. The port at Chaumard is the main launch point for sailing, canoes and paddleboards.",
+   "tip": "Waymarked walks start at Chaumard; the small lake downstream has a bird observatory.",
+   "q": "Port de Chaumard, Lac de Pannecière, Chaumard",
+   "ll": [
+    47.223,
+    3.965
+   ],
+   "src": [
+    "https://www.actunautique.com/2025/07/le-lac-de-panneciere-un-ecrin-morvandiau-propice-aux-plaisirs-nautiques.html",
+    "https://fr.wikipedia.org/wiki/Lac_de_Pannecière"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "chateauchinoncitepresents",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Mitterrand's gifts at the Cité des Présents",
+   "desc": "The former Musée du Septennat, created in 1986 from more than 350 gifts François Mitterrand received as president, merged with the Costume Museum into the Cité des Présents, inaugurated on 10 May 2026.",
+   "tip": "Check hours; the museum reopened in 2026 after several years of works.",
+   "q": "Cité des Présents François Mitterrand, Château-Chinon",
+   "ll": [
+    47.06608,
+    3.93441
+   ],
+   "src": [
+    "https://nievre.fr/wp-content/uploads/2026/03/CP-Cite-des-Presents-7-1.pdf",
+    "https://paintandpainting.com/?p=8116"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "magnycoursride",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride shotgun in a Ligier at Circuit de Nevers Magny-Cours",
+   "desc": "The circuit, home of the French Formula One Grand Prix, offers passenger rides and driving courses. A Ligier JS2R passenger ride on the 2.5 km Club track starts at 99 euros for two laps.",
+   "tip": "Book through the operators. Extra laps cost about 40 euros.",
+   "q": "Circuit de Nevers Magny-Cours, Magny-Cours",
+   "ll": [
+    46.86375,
+    3.16621
+   ],
+   "src": [
+    "https://www.sport-decouverte.com/bapteme-passager-ligier-circuit-magny-cours.html",
+    "https://Www.wikipedia.org/wiki/Circuit_de_Nevers"
+   ]
+  }
+ ]
+}

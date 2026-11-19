@@ -1,0 +1,1164 @@
+{
+ "new": [
+  {
+   "id": "nimesarenes",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk the tiers of the Arènes de Nîmes",
+   "desc": "Built in the late 1st century AD, this oval amphitheatre is among the best-preserved Roman arenas in the world and held more than 20,000 spectators. In the Middle Ages it became a fortress and a walled neighbourhood, and today it still hosts bullfights and concerts.",
+   "tip": "A free audioguide comes with the ticket; a combined Nîmes romaine pass also covers the Maison Carrée and Tour Magne. Allow 1.5 to 2 hours.",
+   "q": "Arènes de Nîmes, Boulevard des Arènes, Nîmes",
+   "ll": [
+    43.83451,
+    4.35976
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/patrimoine-culturel/arenes-de-nimes-nimes_TFO4812276/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "maisoncarreenimes",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the Roman temple of the Maison Carrée",
+   "desc": "Built between 10 BC and the start of the 1st century AD, this temple on a podium with six front columns dominated the forum of Roman Nemausus. It is one of the best-preserved Roman temples anywhere and was added to the UNESCO World Heritage List in 2023.",
+   "tip": "The inner room shows a short film on the history of Nîmes. Go at dusk, when the stone glows and the square in front is lively.",
+   "q": "Maison Carrée, Place de la Maison Carrée, Nîmes",
+   "ll": [
+    43.83861,
+    4.35611
+   ],
+   "src": [
+    "https://www.culture.gouv.fr/regions/drac-occitanie/Actualites/Actualite-a-la-une/la-maison-carree-de-nimes-inscrite-au-patrimoine-mondial-de-l-unesco"
+   ],
+   "tags": []
+  },
+  {
+   "id": "carredartnimes",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See contemporary art at the Carré d'Art",
+   "desc": "Designed by Norman Foster and opened in 1993, this glass-and-steel museum faces the Maison Carrée and has about half of its nine floors underground. It holds nearly 500 works from the 1960s to today, with major temporary shows each year.",
+   "tip": "The rooftop terrace has a view over the old town. Check carreartmusee.com for the current exhibition before going.",
+   "q": "Carré d'Art - Musée d'art contemporain, Place de la Maison Carrée, Nîmes",
+   "ll": [
+    43.83823,
+    4.35567
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Carr%C3%A9_d%27Art"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "romanitenimes",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step into Roman Nîmes at the Musée de la Romanité",
+   "desc": "Opened in 2018 opposite the Arènes, the museum traces the city's Roman history through mosaics, inscriptions and a 3,500 square metre Mediterranean archaeological garden laid out around a stretch of the Roman wall. The green roof terrace gives a 360-degree view over the city.",
+   "tip": "The roof terrace and restaurant can be reached free through the corridor on rue de la République, without a museum ticket.",
+   "q": "Musée de la Romanité, 16 Boulevard des Arènes, Nîmes",
+   "ll": [
+    43.8338,
+    4.35937
+   ],
+   "src": [
+    "https://museedelaromanite.fr/en/the-archaeological-garden",
+    "https://www.france.fr/fr/article/nimes-celebre-son-heritage-antique-avec-un-nouveau-musee-de-la-romanite/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "jardinsfontainenimes",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stroll the Jardins de la Fontaine",
+   "desc": "Laid out in the 18th century around the spring that gave birth to the city, these terraced gardens have balustrades, canals and Roman ruins including a nymphaeum and baths. They carry the Jardin remarquable label and are counted among the first public gardens in Europe.",
+   "tip": "Free to enter and shady in summer. Combine with the climb to the Tour Magne at the top of the park.",
+   "q": "Jardins de la Fontaine, Quai de la Fontaine, Nîmes",
+   "ll": [
+    43.84143,
+    4.34973
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/patrimoine-culturel/les-jardins-de-la-fontaine-nimes_TFO6222971/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "tourmagnenimes",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb the Tour Magne for a city panorama",
+   "desc": "This Roman tower on Mont Cavalier, raised around 15 BC, was part of the city wall and once stood about 30 m high. A climb of about 140 steps leads to a terrace with views over the rooftops, the Arènes and, on clear days, Mont Ventoux and the Alpilles.",
+   "tip": "Avoid the midday summer heat, and note the stair near the edge if you dislike heights. The tower is covered by the Nîmes romaine pass.",
+   "q": "Tour Magne, Mont Cavalier, Jardins de la Fontaine, Nîmes",
+   "ll": [
+    43.84307,
+    4.34947
+   ],
+   "src": [
+    "https://www.guide-tourisme-france.com/VISITER/tour-magne--nimes-3704.htm"
+   ],
+   "tags": []
+  },
+  {
+   "id": "porteaugustenimes",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Pass through the Porte Auguste",
+   "desc": "Also called the Porte d'Arles, this gate marks where the Via Domitia entered Roman Nîmes. It has two large central arches for vehicles flanked by two smaller ones for pedestrians and is part of the ancient Augustan wall.",
+   "tip": "Free and open at all times, right by the boulevard; a short stop on the way between the Arènes and the Jardins de la Fontaine.",
+   "q": "Porte Auguste, Boulevard Amiral Courbet, Nîmes",
+   "ll": [
+    43.83863,
+    4.36335
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/patrimoine-culturel/la-porte-auguste-nimes_TFO6214977/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "templedianenimes",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore the ruins of the Temple de Diane",
+   "desc": "Standing in the lower part of the Jardins de la Fontaine, this Augustan-era building belongs to the spring sanctuary. Its purpose is still debated, with temple, library and sanctuary building all proposed. A 1745 excavation found a coloured marble floor, and it was listed as a monument in 1840.",
+   "tip": "Free to walk through inside the gardens. It is also where the Féria des Vendanges opens with its Brindis.",
+   "q": "Temple de Diane, Jardins de la Fontaine, Nîmes",
+   "ll": [
+    43.83991,
+    4.34838
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Temple_of_Diana_(N%C3%AEmes)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "pontdugard",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Cross the Gardon beside the Pont du Gard",
+   "desc": "This three-tier Roman aqueduct bridge over the Gardon carried the water of the Nîmes aqueduct, which ran about 50 km from Uzès. Built in the first century AD, it is the highest Roman aqueduct bridge known and has been UNESCO-listed since 1985.",
+   "tip": "Gardon-side paths are free to walk; the museum and cultural spaces have seasonal hours, so check ahead as they closed for winter in 2025-26.",
+   "q": "Pont du Gard, 400 Route du Pont du Gard, Vers-Pont-du-Gard",
+   "ll": [
+    43.9475,
+    4.535
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/patrimoine-culturel/le-pont-du-gard-vers-pont-du-gard_TFO4619233/",
+    "https://monumentum.fr/monument-historique/pa00103291/vers-pont-du-gard-pont-du-gard-et-aqueduc-romain-de-nimes"
+   ],
+   "tags": []
+  },
+  {
+   "id": "uzesduche",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the Tour Bermonde at the Duché d'Uzès",
+   "desc": "Home of the premier duke of France, the Duché has a 12th-century keep called the Tour Bermonde, named after the first recorded lord of Uzès. The visit covers the tower, guided furnished apartments and cellars, with a panorama over the old roofs and the garrigue.",
+   "tip": "Guided visits run on set times through the day, so book or arrive early in high season. The Place du Duché is the heart of the old town.",
+   "q": "Duché d'Uzès, Place du Duché, Uzès",
+   "ll": [
+    44.0114,
+    4.41297
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/patrimoine-culturel/le-duche-d-uzes-uzes_TFO5435833/",
+    "https://monumentum.fr/monument-historique/pa00103251/uzes-chateau-dit-le-duche"
+   ],
+   "tags": []
+  },
+  {
+   "id": "haribomuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Taste the story at the Musée du Bonbon Haribo",
+   "desc": "The only museum of the brand in the world opened in 1996 and marks its 30th anniversary in 2026. It tells the family saga of Haribo and lets visitors try industrial-style activities and sample sweets.",
+   "tip": "Open Tuesday to Sunday, 10:00 to 19:00, daily in August. It is a good rainy-day stop on the road out of Uzès.",
+   "q": "Musée du Bonbon Haribo, Pont des Charrettes, Uzès",
+   "ll": [
+    43.99324,
+    4.42335
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/patrimoine-culturel/musee-du-bonbon-haribo-uzes_TFO4619230/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "fortsaintandre",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the ramparts of Fort Saint-André",
+   "desc": "Built in the first half of the 14th century on Mount Andaon to assert the French crown against the papacy in Avignon, this fortress has been a listed monument since 1903. It is run by the Centre des monuments nationaux and has views across the Rhône.",
+   "tip": "Combine with the village of Saint-André inside the walls and its Mediterranean garden. Check cmn.fr for opening hours.",
+   "q": "Fort Saint-André, 57A Rue Montée du Fort, Villeneuve-lès-Avignon",
+   "ll": [
+    43.96623,
+    4.80119
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Fort_Saint-Andr%C3%A9_(Villeneuve-l%C3%A8s-Avignon)",
+    "https://www.tourismegard.com/fr/fiche/patrimoine-culturel/fort-saint-andre-villeneuve-lez-avignon_TFO4618671/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "chartreusevilleneuve",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander the Chartreuse du Val de Bénédiction",
+   "desc": "Founded in 1356 by Pope Innocent VI, who is buried in its church, this former Carthusian monastery has cloisters, monks' cells and gardens. A chapel holds the Coronation of the Virgin, painted by Enguerrand Charonton in 1453.",
+   "tip": "The site is now the Centre national des écritures du spectacle and hosts performances during the Avignon festival. It is a short walk from the village centre.",
+   "q": "La Chartreuse, 58 Rue de la République, Villeneuve-lès-Avignon",
+   "ll": [
+    43.96691,
+    4.77793
+   ],
+   "src": [
+    "https://www.avignon-et-provence.com/en/monuments/chartreuse-villeneuve",
+    "https://monumentum.fr/monument-historique/pa00103303/villeneuve-les-avignon-ancienne-chartreuse-du-val-de-benediction"
+   ],
+   "tags": []
+  },
+  {
+   "id": "tourphilippelebel",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the Tour Philippe-le-Bel for Rhône views",
+   "desc": "This medieval tower guarded the French end of the Saint-Bénézet Bridge, where the kingdom of France met the papal lands of Avignon. It is owned by the town and open to the public, with vaulted rooms used for exhibitions and a 3D reconstruction of the bridge.",
+   "tip": "A short walk from the train station. The terrace gives a view of the Palais des Papes across the river; check seasonal hours.",
+   "q": "Tour Philippe-le-Bel, Montée de la Tour, Villeneuve-lès-Avignon",
+   "ll": [
+    43.95858,
+    4.7976
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Tour_Philippe-le-Bel",
+    "https://www.tourismegard.com/fr/fiche/patrimoine-culturel/tour-philippe-le-bel-villeneuve-lez-avignon_TFO4618673/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "aiguesmortesramparts",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the ramparts of Aigues-Mortes",
+   "desc": "Aigues-Mortes was planned by Louis IX, and its walls and towers took decades to complete. The marked 1.6 km chemin de ronde has views over the town, the salt marshes and the Camargue, and leads to the Tour de Constance built between 1242 and 1254, later a prison for Protestant women.",
+   "tip": "Lifts lead up to the Tour de Constance terrace. Visit late afternoon for softer light over the pink salt pans.",
+   "q": "Tours et Remparts d'Aigues-Mortes, Porte de la Gardette, Aigues-Mortes",
+   "ll": [
+    43.56801,
+    4.1896
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/patrimoine-culturel/tours-et-remparts-d-aigues-mortes-aigues-mortes_TFO5071476/",
+    "https://museeprotestant.org/en/notice/aigues-mortes-gard-la-tour-de-constance-2/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "beaucairefortress",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the medieval fortress of Beaucaire",
+   "desc": "The ruined château above the Rhône has a rare triangular keep, a Romanesque chapel, a polygonal tower, a wall walk and landscaped gardens. The Auguste Jacquet archaeological museum sits inside the enclosure.",
+   "tip": "The ruins are free to visit all year and a ten-minute walk from the town centre. Summer evenings bring guided aperitif-panorama visits.",
+   "q": "Château de Beaucaire, Rue du Château, Beaucaire",
+   "ll": [
+    43.8084,
+    4.6415
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/patrimoine-culturel/le-chateau-de-beaucaire-beaucaire_TFO6040920/",
+    "https://www.provence-camargue-tourisme.com/en/les-incontournables/visiter-beaucaire/la-forteresse-medievale-de-beaucaire/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "saintromanabbey",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the rock-cut Abbaye de Saint-Roman",
+   "desc": "A hilltop monastery carved into the rock above the Rhône north of Beaucaire, with hundreds of tombs cut into the stone and chapels dug before the 10th century. It was bought by the town in 1988 and listed as a historic monument in 1991.",
+   "tip": "Entry is about 6 euros, with free entry under 18. It may close in orange weather alerts, so check before driving up.",
+   "q": "Abbaye de Saint-Roman, Beaucaire",
+   "ll": [
+    43.83528,
+    4.61117
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/patrimoine-culturel/abbaye-de-saint-roman-beaucaire_TFO4812200/",
+    "https://www.provence-camargue-tourisme.com/en/les-incontournables/labbaye-troglodytique-de-saint-roman/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "sommieresbridge",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Cross the inhabited Roman bridge of Sommières",
+   "desc": "Built in the 1st century to carry the Roman road from Nîmes toward Toulouse, the bridge over the Vidourle is one of the rare inhabited bridges in Europe. Houses grew over part of it in the Middle Ages, and a castle with a 25 m tower watches from the rock above.",
+   "tip": "Walk up to the château for views over the town. Saturday morning adds the market under the arcades.",
+   "q": "Pont romain, Quai Frédéric Gaussorgues, Sommières",
+   "ll": [
+    43.78058,
+    4.09127
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/patrimoine-culturel/pont-romain-de-sommieres-sommieres_TFO6353721/",
+    "https://www.objectifgard.com/a-la-une/histoire-de-ponts-lantique-pont-de-sommieres-nest-pas-celui-de-tibere-51839.php"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bambouseraieanduze",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk among giant bamboo at the Bambouseraie",
+   "desc": "Founded in the 1850s by Eugène Mazel and run by the Nègre family since 1902, this botanical garden near Anduze has more than 200 bamboo varieties, some reaching 25 m. It is a listed historic monument and a Jardin remarquable.",
+   "tip": "Open daily in the warm months; the cool bamboo alleys are welcome in July. Combine with the steam train at Anduze.",
+   "q": "Bambouseraie de Prafrance, Générargues, Anduze",
+   "ll": [
+    44.07028,
+    3.97722
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Bambouseraie_de_Prafrance"
+   ],
+   "tags": []
+  },
+  {
+   "id": "aigoualobservatory",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Reach the Mont Aigoual observatory summit",
+   "desc": "The late-19th-century weather observatory at 1,565 m now houses an exhibition on weather and climate, with the Climatographe reopened in 2023. On clear days the panorama stretches from the Alps to the Pyrenees.",
+   "tip": "Wear warm layers even in summer, as the summit is windy. Météo-France staffing ended in 2023, so check the exhibition's hours first.",
+   "q": "Observatoire du Mont Aigoual, Valleraugue",
+   "ll": [
+    44.12134,
+    3.58118
+   ],
+   "src": [
+    "https://www.guide-tourisme-france.com/VISITER/observatoire-meteo-france-mont-aigoual--valleraugue-29148.htm",
+    "https://www.tourismegard.com/mont-aigoual"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "trabuccave",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Descend into the Grotte de Trabuc",
+   "desc": "Known as the Cave of the 100,000 Soldiers for its army of stalagmites, this Cévennes cave was a refuge for Camisards. About 7 km of galleries were revealed in 1945, and visits include carbide-lamp and candlelit options.",
+   "tip": "Reservations are recommended for evening and flame tours. It is about 10 minutes from Anduze.",
+   "q": "Grotte de Trabuc, 2316 Route des Grottes, Mialet",
+   "ll": [
+    44.10806,
+    3.95917
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Grotte_de_Trabuc"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bramabiauabyss",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Follow the underground river at Bramabiau",
+   "desc": "The Bonheur river sinks under the Causse and re-emerges 800 m later as the Bramabiau, a name meaning roaring ox in Occitan. Édouard-Alfred Martel first crossed it in September 1884, a founding moment of French caving.",
+   "tip": "The guided visit lasts about an hour and the site reopened in April 2025; opening runs into early November.",
+   "q": "Abîme de Bramabiau, Route de Meyrueis, Saint-Sauveur-Camprieu",
+   "ll": [
+    44.12006,
+    3.47516
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/equipement/abime-de-bramabiau-saint-sauveur-camprieu_TFO5399504/",
+    "https://showcaves.com/english/fr/showcaves/Bramabiau.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "salamandrecave",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Grotte de la Salamandre",
+   "desc": "Discovered in 1965 by cavers from Nîmes and opened to the public in 2013, this cave draws nearly 50,000 visitors a year. Options include a guided visit, a caving tour and an Aéroplume airship ride inside the cavern.",
+   "tip": "It stays about 12 degrees inside, so take a sweater. It is reached from Méjannes-le-Clap.",
+   "q": "Grotte de la Salamandre, Méjannes-le-Clap",
+   "ll": [
+    44.25563,
+    4.34147
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/equipement/grotte-de-la-salamandre-mejannes-le-clap_TFO599730",
+    "https://showcaves.com/english/fr/showcaves/Salamandre.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "lussanvillage",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander the walls of Lussan, a most beautiful village",
+   "desc": "Lussan has held the Plus Beaux Villages de France label since 2016. Its 15th-century château-mairie stands on a rocky spur and has 17th-century painted ceilings, and the village also has the Château du Verger and the Renaissance Château de Fan.",
+   "tip": "Summer guided tours run through the village and castle wall walk. Park below and walk up.",
+   "q": "Château de Lussan, Lussan",
+   "ll": [
+    44.15389,
+    4.36694
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Lussan_(Gard)"
+   ],
+   "tags": []
+  },
+  {
+   "id": "minetemoinales",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Go underground at the Mine Témoin d'Alès",
+   "desc": "This authentic mining site, unique in France, served from 1945 to 1968 as a training centre for young apprentice miners. Visitors walk galleries that explain the coal-mining history of the Cévennes.",
+   "tip": "Booking is required (04 66 30 45 15 or mine-temoin.fr). Seasonal lamp-lit evening tours are announced each summer.",
+   "q": "Mine Témoin d'Alès, Chemin de la Cité Sainte-Marie, Alès",
+   "ll": [
+    44.13189,
+    4.06632
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/patrimoine-culturel/mine-temoin-d-ales-ales_TFO6224039/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "stgillesabbey",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Study the carved portals of Saint-Gilles abbey",
+   "desc": "The abbey church of Saint-Gilles has been a UNESCO site since 1998 as a stop on the Routes of Santiago de Compostela in France. Its richly sculpted Romanesque west front and a huge crypt holding the tomb of Saint Gilles are the main draws.",
+   "tip": "Visit the crypt, a vast low church with exceptional vaults. The town is also on the ViaRhôna cycle route.",
+   "q": "Abbatiale de Saint-Gilles, Place de la République, Saint-Gilles",
+   "ll": [
+    43.6774,
+    4.431
+   ],
+   "src": [
+    "https://www.tourismegard.com/destination/sites-emblematiques/abbatiale-de-saint-gilles-un-site-incontournable-du-gard/",
+    "https://structurae.net/en/structures/eglise-abbatiale-de-saint-gilles-du-gard"
+   ],
+   "tags": []
+  },
+  {
+   "id": "museedudesert",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Learn Camisard history at the Musée du Désert",
+   "desc": "Housed in the birthplace of the Camisard leader Rolland at Mas Soubeyran, the museum covers the Désert period of Protestant history from 1685 to 1789. The hamlet also hosts annual Protestant gatherings.",
+   "tip": "Summer hours run daily from about 9:30 to 18:30; check season times. It is close to the Grotte de Trabuc.",
+   "q": "Musée du Désert, Mas Soubeyran, Mialet",
+   "ll": [
+    44.09583,
+    3.95722
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Mus%C3%A9e_du_D%C3%A9sert"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "leshallesnimes",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Graze the stalls at Les Halles de Nîmes",
+   "desc": "The covered market of 1884, redone by Jean-Michel Wilmotte, has about a hundred stalls selling local produce in 3,500 square metres. It celebrated its 140th anniversary in 2024 and has counter restaurants where you can eat on the spot.",
+   "tip": "Go in the morning for the best choice. Check hours, as sources differ between 7:00-13:00 and 7:00-19:00.",
+   "q": "Les Halles de Nîmes, 5 Rue des Halles, Nîmes",
+   "ll": [
+    43.83932,
+    4.35829
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/commerce-et-service/les-halles-de-nimes-nimes_TFO6288174/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "brandadenimoise",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste brandade de morue at La Nîmoise",
+   "desc": "La Maison de la Brandade 'La Nîmoise' has made the salt-cod purée of Nîmes since 1851, run by the Mouton family, and lets you taste before buying. The authentic Nîmes recipe blends salt cod, olive oil and milk.",
+   "tip": "Closed Sundays and Mondays, with a midday break. Buy a jar to take home.",
+   "q": "La Maison de la Brandade La Nîmoise, 7 Rue de la Madeleine, Nîmes",
+   "ll": [
+    43.8381,
+    4.35902
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/commerce-et-service/la-maison-de-la-brandade-la-nimoise-nimes_TFO6184418/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "villaretcroquants",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Buy croquants at Maison Villaret",
+   "desc": "Founded in 1775 and run by the Brayde family since 1987, this bakery at 13 rue de la Madeleine is known for the Nîmes croquant, alongside caladons, fougassettes and minerves. It celebrated 250 years in 2025.",
+   "tip": "Hours run roughly 7:00 to 19:30. There is another counter in Les Halles.",
+   "q": "Maison Villaret, 13 Rue de la Madeleine, Nîmes",
+   "ll": [
+    43.83782,
+    4.35851
+   ],
+   "src": [
+    "https://www.objectifgard.com/actualites/boutiques-historiques-avec-la-fratrie-brayde-maison-villaret-rayonne-encore-a-nimes-10644.php",
+    "https://fr.gaultmillau.com/fr/artisans/maison-villaret"
+   ],
+   "tags": []
+  },
+  {
+   "id": "chevalblancnimes",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine facing the Arènes at Le Cheval Blanc",
+   "desc": "A brasserie institution on the Place des Arènes, listed by Gault&Millau for traditional French cooking and a strong wine list, with a terrace opposite the amphitheatre.",
+   "tip": "Book a terrace table at lunch for the view. Menus change often, so ask for the day's suggestions.",
+   "q": "Wine Bar Le Cheval Blanc, Place des Arènes, Nîmes",
+   "ll": [
+    43.83412,
+    4.36049
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/restauration/wine-bar-le-cheval-blanc-nimes_TFO6164427/",
+    "https://fr.gaultmillau.com/restaurant/wine-bar-le-cheval-blanc"
+   ],
+   "tags": []
+  },
+  {
+   "id": "tabledu2nimes",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Lunch at La Table du 2 above the Arènes",
+   "desc": "The restaurant on the upper floor of the Musée de la Romanité has a menu signed by starred chef Franck Putelat. The Michelin Guide describes a contemporary brasserie with an open view over the arena.",
+   "tip": "A lunch menu is the best value; reservation advised. The roof terrace nearby is free to reach.",
+   "q": "La Table du 2, Musée de la Romanité, 16 Boulevard des Arènes, Nîmes",
+   "ll": [
+    43.83361,
+    4.35946
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/restauration/la-table-du-2-nimes_TFO6162464/",
+    "https://guide.michelin.com/de/de/occitanie/nimes/restaurant/la-table-du-2"
+   ],
+   "tags": []
+  },
+  {
+   "id": "tavelaqueria",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Tavel rosé at Château d'Aquéria",
+   "desc": "This Tavel estate offers tastings and sales on site, and its rosé has received repeated Hachette guide coups de cœur. Tavel is France's famous rosé-only appellation, and the estate is certified organic since 2025.",
+   "tip": "Visits are by appointment; closed Sundays, holidays and between Christmas and New Year.",
+   "q": "Château d'Aquéria, Route de Roquemaure, Tavel",
+   "ll": [
+    44.01305,
+    4.73182
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/degustation/chateau-d-aqueria-tavel_TFO5070343/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "liracboucarut",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Lirac wines at Château Boucarut",
+   "desc": "An organic estate in Roquemaure, about fifteen minutes from Avignon, producing AOC Lirac and Tavel. A two-hour visit includes six tastings.",
+   "tip": "Book via the estate or Winalist; groups of 2 to 30. The Maison du Cru Lirac also offers tastings.",
+   "q": "Château Boucarut, 1246 Chemin du Coquillon, Roquemaure",
+   "ll": [
+    44.04083,
+    4.74228
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/degustation/chateau-boucarut-roquemaure_TFO4895819/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "mourguesdugres",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Costières de Nîmes at Mourgues du Grès",
+   "desc": "This Beaucaire estate sits at the foot of the Costières hills among vines, orchards and garrigue. Tastings include a five-wine flight with Provençal specialities such as tapenade and brandade.",
+   "tip": "Prestations are paid and by reservation, including an Apéri'Vigne among the vines. Call 04 66 59 46 10.",
+   "q": "Château Mourgues du Grès, 1055 Chemin Mourgues du Grès, Beaucaire",
+   "ll": [
+    43.79343,
+    4.5654
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/degustation/chateau-mourgues-du-gres-beaucaire_TFO5070480/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "vezenobresfigs",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste dried figs at the Maison de la Figue",
+   "desc": "Vézénobres has dried figs since the late Middle Ages and received the Site remarquable du goût label in 2019. The Maison de la Figue in the old town tells the story, and a nearby orchard grows around a hundred varieties.",
+   "tip": "Fig festivals take place in September. Hours vary, so check with the Alès tourist office first.",
+   "q": "Maison de la Figue, Les terrasses du château, Vézénobres",
+   "ll": [
+    44.05499,
+    4.13753
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/patrimoine-culturel/maison-de-la-figue-vezenobres_TFO6739911/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "terresdesable",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Sip gris de gris at Domaine Terres de Sable",
+   "desc": "An organic estate in the Petite Camargue making Sable de Camargue wines, specialising in grenache gris and vin gris. Visits last about an hour, with a seven-wine tasting.",
+   "tip": "Open Saturdays 10:00-14:00 from April to October, plus weekdays by arrangement. About 30 minutes on foot from Aigues-Mortes station.",
+   "q": "Domaine Terres de Sable, Lieu-dit Corbière, Aigues-Mortes",
+   "ll": [
+    43.58622,
+    4.18763
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/degustation/domaine-terres-de-sable-aigues-mortes_TFO6214352/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "graugaliontellines",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat fresh seafood at Le Galion on Quai Colbert",
+   "desc": "A seafood restaurant on the quay of Le Grau-du-Roi's fishing channel, where one reviewer singles out the tellines, the tiny local clams. Other quayside choices include L'Huître Rieuse, open since 1962.",
+   "tip": "Quai Colbert fills in summer, so book. Order tellines in season.",
+   "q": "Le Galion, 15 Quai Colbert, Le Grau-du-Roi",
+   "ll": [
+    43.53624,
+    4.13558
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/restauration/le-galion-le-grau-du-roi_TFO6779790/",
+    "https://www.sluurpy.fr/le-grau-du-roi/restaurant/2006097/le-galion"
+   ],
+   "tags": []
+  },
+  {
+   "id": "uzesterroirs",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have a bistronomic lunch at Terroirs on Place aux Herbes",
+   "desc": "Terroirs has a terrace on the Place aux Herbes serving simple southern dishes at reasonable prices and is often full. It also runs a wine merchant and grocery that Gault&Millau lists as an artisan.",
+   "tip": "Book in season, especially on market Saturday. Magari at number 6 is a bistronomic alternative.",
+   "q": "Terroirs, 5 Place aux Herbes, Uzès",
+   "ll": [
+    44.01215,
+    4.4197
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/restauration/terroirs-uzes_TFO5155849/",
+    "https://www.yonder.fr/les-tops/restaurants/meilleurs-restaurants-uzes-gard"
+   ],
+   "tags": []
+  },
+  {
+   "id": "tabledezes",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Splurge at the starred La Table d'Uzès",
+   "desc": "This restaurant on Place de l'Évêché holds a Michelin star under chef Christophe Ducros. It sits in a historic building with a stone-walled terrace that opens in warm weather.",
+   "tip": "Reserve ahead; tasting menus are the way to go.",
+   "q": "La Table d'Uzès, Place de l'Évêché, Uzès",
+   "ll": [
+    44.01205,
+    4.42065
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/restauration/la-table-d-uzes-uzes_TFO5161204/",
+    "https://www.yonder.fr/les-tops/restaurants/meilleurs-restaurants-uzes-gard"
+   ],
+   "tags": []
+  },
+  {
+   "id": "aiguesmortesfougasse",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try the fougasse d'Aigues-Mortes at Il était une Fougasse",
+   "desc": "The town's sweet fougasse is a soft brioche flavoured with orange-blossom water and dusted with sugar. This bakery-fougasserie, the former Olmeda shop, has four shops under the name.",
+   "tip": "Open Sundays too. Reviews are mixed since a change of owners, so compare with Poitavin on Grand Rue Jean Jaurès.",
+   "q": "Il était une Fougasse, 32 Rue Émile Jamais, Aigues-Mortes",
+   "ll": [
+    43.5664,
+    4.1922
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/commerce-et-service/boulangerie-fougasserie-il-etait-une-fougasse-aigues-mortes_TFO6920682/",
+    "https://www.objectifgard.com/2019/05/03/vendredi-gourmand-la-fougasse-daigues-mortes-avec-de-lamour-dedans/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "uzesnougatine",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Pick pastries at La Nougatine in Uzès",
+   "desc": "Gault&Millau calls La Nougatine the best-known bakery-pastry shop in Uzès, with traditional breads, viennoiseries, pastries and a tea room.",
+   "tip": "At 23 boulevard Gambetta, handy for a breakfast stop before the Saturday market.",
+   "q": "Boulangerie La Nougatine, 23 Boulevard Gambetta, Uzès",
+   "ll": [
+    44.01261,
+    4.41813
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/artisans/boulangerie-la-nougatine",
+    "https://www.tourismegard.com/fr/fiche/commerce-et-service/la-nougatine-uzes_TFO5506143/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "aiguesmortescaveau",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Sable de Camargue at Caveau Les Remparts",
+   "desc": "A cellar inside the old town of Aigues-Mortes selling and pouring wines of the surrounding Petite Camargue, including the pale gris wines grown in the sands.",
+   "tip": "Combine with a wall walk. Check opening hours with the tourist office.",
+   "q": "Caveau Les Remparts, Aigues-Mortes",
+   "ll": [
+    43.56441,
+    4.1864
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/degustation/caveau-les-remparts-aigues-mortes_TFO6214889/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "stjeanpiccolosole",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Buy Cévennes chestnut jam at Piccolo Sole",
+   "desc": "An épicerie fine at 75 Grand rue in Saint-Jean-du-Gard selling chestnut jams and syrups made locally. The Cévennes chestnut earned PDO status in 2023.",
+   "tip": "Look for local chestnut products; Au Petit Bonheur also sells chestnut honey and flour.",
+   "q": "Piccolo Sole, 75 Grand'Rue, Saint-Jean-du-Gard",
+   "ll": [
+    44.1069,
+    3.8692
+   ],
+   "src": [
+    "https://www.objectifsud.fr/a-la-une/saint-jean-du-gard-piccolo-sole-met-en-lumiere-les-saveurs-des-produits-deshydrates-et-reduit-le-gaspillage-1811.php"
+   ],
+   "tags": []
+  },
+  {
+   "id": "feriapentecote",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Join the Féria de Pentecôte in Nîmes",
+   "desc": "Five days of bullfights, bodegas, parades and music around the Arènes. In 2026 it ran 21 to 25 May and opened with the Pégoulade parade. The city estimated 1.1 million visitors.",
+   "tip": "Wear light clothes and book hotels months ahead. Public transport was free during the 2026 Féria.",
+   "q": "Arènes de Nîmes, Boulevard des Arènes, Nîmes",
+   "ll": [
+    43.8344,
+    4.3599
+   ],
+   "src": [
+    "https://www.tourismegard.com/destination/villes-villages/villes-remarquables/nimes/feria-de-nimes/",
+    "https://www.objectifgard.com/actualites/nimes-en-feria-une-frequentation-estimee-a-11-million-de-personnes-164637.php"
+   ],
+   "tags": [],
+   "months": [
+    5,
+    6
+   ]
+  },
+  {
+   "id": "feriavendanges",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Raise a glass at the Féria des Vendanges",
+   "desc": "The September féria opens with a Brindis at the Temple de Diane and a symbolic harvest of the Clos de la Fontaine. It mixes corridas, abrivados, equestrian shows and bodegas, with events in the arenas and gardens.",
+   "tip": "Held on the third weekend of September, with 2026 dates listed as 17 to 20 September.",
+   "q": "Jardins de la Fontaine, Quai de la Fontaine, Nîmes",
+   "ll": [
+    43.84143,
+    4.34973
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/fete-et-manifestation/feria-de-nimes-des-vendanges-l-esprit-2026-nimes_TFO7936540/"
+   ],
+   "tags": [],
+   "months": [
+    9
+   ]
+  },
+  {
+   "id": "festivalnimes",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "See a concert at the Festival de Nîmes",
+   "desc": "Each summer since 1997 the Roman Arènes host a season of pop and rock concerts with 20:30 starts. The 2026 line-up included Jamiroquai on 2 July and Orelsan on 22 and 23 July.",
+   "tip": "Check festivaldenimes.com for the line-up and book early. Seats are on the stone tiers, so bring a cushion.",
+   "q": "Arènes de Nîmes, Boulevard des Arènes, Nîmes",
+   "ll": [
+    43.8346,
+    4.3596
+   ],
+   "src": [
+    "https://www.tourisme-occitanie.com/fr/fiche/fete-et-manifestation/festival-de-nimes-nimes_TFOFMALAR0300026257/",
+    "https://www.nimes.fr/fileadmin/mediatheque/nimes/espace-presse/dossier-presse/2025/07-juillet/Festival-Nimes.pdf"
+   ],
+   "tags": [],
+   "months": [
+    6,
+    7
+   ]
+  },
+  {
+   "id": "uzesmarket",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Browse the Saturday market in Uzès",
+   "desc": "The market on the Place aux Herbes goes back to at least 1241 and now has some 200 exhibitors. It runs from 7:30 to 13:00 on the square and later on the boulevards.",
+   "tip": "Arrive early before the crowds; a free municipal shuttle runs on Saturdays.",
+   "q": "Place aux Herbes, Uzès",
+   "ll": [
+    44.0123,
+    4.4199
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/fete-et-manifestation/marche-hebdomadaire-du-samedi-a-uzes-uzes_TFO5528584/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "anduzesteamtrain",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Train à Vapeur des Cévennes",
+   "desc": "This 13 km heritage railway between Anduze and Saint-Jean-du-Gard crosses viaducts, tunnels and a 104 m bridge over the Gardon. It runs on a line that operated from 1909 to 1971.",
+   "tip": "The station is at 38 place de la Gare, Anduze. Themed trains run at Halloween and Christmas.",
+   "q": "Train à Vapeur des Cévennes, 38 Place de la Gare, Anduze",
+   "ll": [
+    44.05069,
+    3.98442
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/equipement/train-a-vapeur-des-cevennes-anduze_TFO642918/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "espiguettebeach",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Spend a beach day at the Plage de l'Espiguette",
+   "desc": "A wild, dune-backed beach with no buildings except the 27 m lighthouse of 1869. Dunes reach about 12 m, and lifeguards patrol in summer.",
+   "tip": "Parking is paid in high season, and shuttles run from Le Grau-du-Roi. The lighthouse can be climbed with online booking.",
+   "q": "Plage de l'Espiguette, Le Grau-du-Roi",
+   "ll": [
+    43.48089,
+    4.1444
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/patrimoine-naturel/la-plage-de-l-espiguette-le-grau-du-roi_TFO6143330/",
+    "https://en.wikipedia.org/wiki/Phare_de_l%27Espiguette"
+   ],
+   "tags": [],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "colliaskayak",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Paddle the Gorges du Gardon from Collias",
+   "desc": "Outfitters at Collias rent canoes and kayaks for an easy 8 km run down the protected gorges to the Pont du Gard. Paddlers may spot Bonelli's eagles, herons and beavers.",
+   "tip": "Busiest from June to September. Canoë Collias is at 194 chemin de Saint Privat.",
+   "q": "Canoë Collias, 194 Chemin de Saint Privat, Collias",
+   "ll": [
+    43.9538,
+    4.48194
+   ],
+   "src": [
+    "https://visit-occitanie.com/en/fiche/activite/canoe-collias-canoe-kayak-collias_TFOSITRA2_ACT_5695125",
+    "https://www.tourismegard.com/fr/fiche/commerce-et-service/canoe-le-tourbillon-collias_TFO5159500/"
+   ],
+   "tags": [],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "gardonhikerussan",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Gardon gorges from Russan",
+   "desc": "A loop from Russan passes the Maison des gorges du Gardon, the Castellas site and views of the Pont Saint-Nicolas. Other routes cross the bridge into a military zone.",
+   "tip": "Park on Russan's village square. Check river level and military-zone schedules first.",
+   "q": "Maison des Gorges du Gardon, 2 Rue de la Pente, Russan, Sainte-Anastasie",
+   "ll": [
+    43.93553,
+    4.32079
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/patrimoine-culturel/la-maison-des-gorges-du-gardon-sainte-anastasie_TFO5158190/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "salinsaiguesmortes",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the little train through the pink salt pans",
+   "desc": "The Salin d'Aigues-Mortes train runs about 1h15 among the pink brine pools and the white salt mounds called camelles, with a naturalist guide. The marshes are Europe's leading flamingo reserve.",
+   "tip": "Booking online is recommended in summer. Departure is on the D979 toward Le Grau-du-Roi.",
+   "q": "Salin d'Aigues-Mortes, Route du Grau du Roi, Aigues-Mortes",
+   "ll": [
+    43.55771,
+    4.18335
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/equipement/le-petit-train-du-salin-d-aigues-mortes-aigues-mortes_TFO7007169/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "aigoualhike",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike to the Aigoual summit from Prat Peyrot",
+   "desc": "A loop from the Prat Peyrot ski station climbs through forest and meadow to the 1,565 m summit and back via the Hort de Dieu. The Sentier de la Dauphine starts from the Col de la Serreyrède.",
+   "tip": "Best at sunrise or sunset, with warm clothes because of wind.",
+   "q": "Station Prat Peyrot, L'Espérou, Valleraugue",
+   "ll": [
+    44.1189,
+    3.54852
+   ],
+   "src": [
+    "https://www.visorando.com/randonnee-tour-du-mont-aigoual-par-l-hort-de-dieu/",
+    "https://www.tourismegard.com/fr/fiche/equipement/sentier-de-la-dauphine-l-esperou_TFO6081883/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sautadetfalls",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk to the Cascades du Sautadet",
+   "desc": "The Cèze steps down about 15 m in potholes and basins carved in limestone below La Roque-sur-Cèze, 10 minutes on foot from the car park across a 12th-century bridge.",
+   "tip": "Do not swim at the falls because of strong currents; a beach downstream is safe. Check that the site is open, as it closed for months before April 2026.",
+   "q": "Cascades du Sautadet, La Roque-sur-Cèze",
+   "ll": [
+    44.18972,
+    4.52694
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Cascades_du_Sautadet"
+   ],
+   "tags": []
+  },
+  {
+   "id": "viarhonabeaucaire",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cycle the ViaRhôna from Beaucaire",
+   "desc": "Stage 19 of the ViaRhôna from Avignon to Beaucaire runs about 35 to 38 km through vineyards and orchards, joining the Pont-du-Gard greenway with old railway tunnels. It is an easy, family-friendly route.",
+   "tip": "A TER with bike space links Beaucaire back to Avignon. Beaucaire to Uzès runs via the Pont du Gard greenway.",
+   "q": "Port de Beaucaire, Quai du Général de Gaulle, Beaucaire",
+   "ll": [
+    43.80526,
+    4.64695
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/equipement/viarhona-a-velo-etape-19-avignon--beaucaire-avignon_TFO5197056/",
+    "https://www.francevelotourisme.com/itineraire/viarhona-eurovelo-17/avignon-beaucaire"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "graucatamaran",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Sail along the Camargue coast from Le Grau-du-Roi",
+   "desc": "Catamaran and semi-rigid trips leave from the quay at Le Grau-du-Roi and Port Camargue, passing the coast and often stopping at the Plage de l'Espiguette. Sunset sailings last about 1h30.",
+   "tip": "Prices and availability vary by operator, so book on Manawa or at the quay.",
+   "q": "Quai Colbert, Le Grau-du-Roi",
+   "ll": [
+    43.53648,
+    4.13597
+   ],
+   "src": [
+    "https://www.sport-decouverte.com/balade-catamaran-grau-du-roi.html",
+    "https://www.manawa.com/fr/destinations/3875-le-grau-du-roi/1542-balade-en-bateau"
+   ],
+   "tags": [],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "manadevidourlenque",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Visit a bull ranch at Manade la Vidourlenque",
+   "desc": "This manade at Saint-Laurent-d'Aigouze receives visitors year round by reservation. The visit includes sorting of the Camargue bulls, a ferrade and a wagon ride among the herd.",
+   "tip": "Reserve by phone on 04 66 80 28 39. The abrivado is a bull run seen at local village festivals.",
+   "q": "Manade la Vidourlenque, Chemin du Couvent, Saint-Laurent-d'Aigouze",
+   "ll": [
+    43.60751,
+    4.18995
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/degustation/manade-la-vidourlenque-saint-laurent-d-aigouze_TFO6302736/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "anduzepottery",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch the Anduze vase being made at Les Enfants de Boisset",
+   "desc": "The Boisset family has made the Anduze vase in its traditional form since 1610. The workshop on the Route de Saint-Jean-du-Gard sits beside the family quarry where the red clay comes from.",
+   "tip": "Visit the showroom and ask about workshop times.",
+   "q": "Poterie d'Anduze Les Enfants de Boisset, 813 Route de Saint-Jean-du-Gard, Anduze",
+   "ll": [
+    44.05859,
+    3.97392
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/commerce-et-service/poterie-d-anduze-les-enfants-de-boisset-anduze_TFO6232095/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "oignonpelardonfete",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Join the Fête de l'Oignon et du Pélardon",
+   "desc": "Saint-André-de-Valborgne holds this free market and festival on the first Sunday of September, celebrating the sweet Cévennes onion and goat's-cheese pélardon, from 9am to 4pm on the village square.",
+   "tip": "The 18th edition was set for 6 September 2026.",
+   "q": "Place du village, Saint-André-de-Valborgne",
+   "ll": [
+    44.15694,
+    3.68361
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Saint-Andr%C3%A9-de-Valborgne"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    9
+   ]
+  },
+  {
+   "id": "sommieresmarket",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Shop the Saturday market of Sommières",
+   "desc": "The weekly market has run for over 800 years on the Place des Docteurs Dax, lined with arcades that also shelter the town from floods. It is counted among the best in the Gard.",
+   "tip": "Free entry, held Saturday morning. A night market runs on Wednesdays in July and August.",
+   "q": "Place des Docteurs Dax, Sommières",
+   "ll": [
+    43.78287,
+    4.08968
+   ],
+   "src": [
+    "https://www.tourismegard.com/fr/fiche/fete-et-manifestation/marche-hebdomadaire-de-sommieres-sommieres_TFO6186059",
+    "https://www.tourismegard.com/fr/fiche/fete-et-manifestation/marche-nocturne-de-sommieres-sommieres_TFO6186148/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "cornichecevennes",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Drive the Corniche des Cévennes",
+   "desc": "This ridge road links Saint-Jean-du-Gard and Florac, passing the Col Saint-Pierre, the Pompidou panorama and other passes. Views take in the blue mountains and Camisard-era villages.",
+   "tip": "No permit needed. A viewpoint at the Col Saint-Pierre is a 20-minute round walk.",
+   "q": "Col Saint-Pierre, D9 Corniche des Cévennes, Saint-Jean-du-Gard",
+   "ll": [
+    44.133,
+    3.88
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Col_Saint-Pierre"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

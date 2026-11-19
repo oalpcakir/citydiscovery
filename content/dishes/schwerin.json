@@ -1,0 +1,47 @@
+{
+ "region": "schwerin",
+ "dishes": [
+  {
+   "id": "schwerin-rippenbraten",
+   "name": "Mecklenburger Rippenbraten",
+   "local": "",
+   "icon": "🍖",
+   "desc": "Roast pork ribs stuffed with apples, prunes and dark bread, served with red cabbage. A Sunday dish of Mecklenburg inns.",
+   "kw": [
+    "rippenbraten"
+   ]
+  },
+  {
+   "id": "schwerin-ente",
+   "name": "Mecklenburg duck",
+   "local": "Mecklenburger Ente",
+   "icon": "🦆",
+   "desc": "Roast duck stuffed with plums, apples and raisins, served with red cabbage and dumplings. A seasonal dish of Wismar and the lake country.",
+   "kw": [
+    "ente",
+    "duck"
+   ]
+  },
+  {
+   "id": "schwerin-kloppschinken",
+   "name": "Kloppschinken",
+   "local": "",
+   "icon": "🍖",
+   "desc": "Mild-cured pork ham that is beaten to tenderise it, then boiled and sliced. A Mecklenburg cold-cut speciality.",
+   "kw": [
+    "kloppschinken"
+   ]
+  },
+  {
+   "id": "schwerin-schmandpudding",
+   "name": "Schmandpudding",
+   "local": "",
+   "icon": "🍮",
+   "desc": "Light pudding made from sour cream, eaten with fruit compote. A familiar Mecklenburg dessert.",
+   "kw": [
+    "schmandpudding",
+    "schmand"
+   ]
+  }
+ ]
+}

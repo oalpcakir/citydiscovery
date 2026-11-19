@@ -1,0 +1,49 @@
+{
+ "region": "passau",
+ "dishes": [
+  {
+   "id": "passau-erdaepfelkas",
+   "name": "Erdäpfelkas",
+   "local": "",
+   "icon": "🥔",
+   "desc": "Spread of mashed potatoes, sour cream, onion and chives, eaten with bread and smoked meat. Typical in the Bavarian Forest.",
+   "kw": [
+    "erdäpfelkas",
+    "kartoffelkäse"
+   ]
+  },
+  {
+   "id": "passau-reiberdatschi",
+   "name": "Reiberdatschi",
+   "local": "",
+   "icon": "🥞",
+   "desc": "Crisp potato pancake fried in fat, eaten with apple sauce or smoked fish. A Lower Bavarian farm dish.",
+   "kw": [
+    "reiberdatschi",
+    "potato pancake"
+   ]
+  },
+  {
+   "id": "passau-schwammerl",
+   "name": "Schwammerl with dumplings",
+   "local": "Schwammerl mit Semmelknödel",
+   "icon": "🍄",
+   "desc": "Forest mushrooms in cream sauce, served with bread dumplings. Bavarian Forest autumn dish.",
+   "kw": [
+    "schwammerl",
+    "mushroom"
+   ]
+  },
+  {
+   "id": "passau-schweinsbraten",
+   "name": "Schweinsbraten with Knödel",
+   "local": "",
+   "icon": "🍖",
+   "desc": "Roast pork with crackling, dark beer gravy and potato dumplings. A staple of Niederbayern inns.",
+   "kw": [
+    "schweinsbraten",
+    "knödel"
+   ]
+  }
+ ]
+}

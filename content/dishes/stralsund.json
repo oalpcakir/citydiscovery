@@ -1,0 +1,59 @@
+{
+ "region": "stralsund",
+ "dishes": [
+  {
+   "id": "stralsund-fischbroetchen",
+   "name": "Stralsunder Fischbrötchen",
+   "local": "",
+   "icon": "🥪",
+   "desc": "Soft roll with pickled herring, onion and remoulade, sold at the harbour. Stralsund's fastest meal and the best-known fish snack on the Baltic coast.",
+   "kw": [
+    "fischbrötchen",
+    "fish roll"
+   ]
+  },
+  {
+   "id": "stralsund-zander",
+   "name": "Bodden pike-perch",
+   "local": "Zander",
+   "icon": "🐟",
+   "desc": "Freshwater predator fish from the lagoons, pan-fried and served with potatoes. Standard fish dish at Rügen and Usedom inns.",
+   "kw": [
+    "zander",
+    "pike-perch"
+   ]
+  },
+  {
+   "id": "stralsund-badejunge",
+   "name": "Rügener Badejunge",
+   "local": "",
+   "icon": "🧀",
+   "desc": "Soft cheese from Rügen, mild and creamy with a rind washed in a short brine. Made by an island dairy and sold in local shops.",
+   "kw": [
+    "badejunge"
+   ]
+  },
+  {
+   "id": "stralsund-sanddorn",
+   "name": "Sea buckthorn cake",
+   "local": "Sanddorntorte",
+   "icon": "🍰",
+   "desc": "Sponge cake with sharp orange sea buckthorn cream. The berry grows on Rügen's dunes and turns up in jam, ice cream and cakes.",
+   "kw": [
+    "sanddorn",
+    "sea buckthorn"
+   ]
+  },
+  {
+   "id": "stralsund-flunder",
+   "name": "Smoked Baltic flounder",
+   "local": "Räucherflunder",
+   "icon": "🐟",
+   "desc": "Flounder smoked warm over beech wood, eaten with bread. Sold fresh from the smokehouses on Rügen and Usedom.",
+   "kw": [
+    "flunder",
+    "flounder"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "region": "magdeburg",
+ "dishes": [
+  {
+   "id": "magdeburg-boetel",
+   "name": "Bötel mit Lehm und Stroh",
+   "local": "",
+   "icon": "🍖",
+   "desc": "Boiled pork knuckle with pea purée and sauerkraut. The purée is the clay and the sauerkraut the straw. Found at Magdeburg old-town inns.",
+   "kw": [
+    "bötel",
+    "lehm und stroh"
+   ]
+  },
+  {
+   "id": "magdeburg-bollwurst",
+   "name": "Bollwurst",
+   "local": "",
+   "icon": "🌭",
+   "desc": "Spreadable cooked pork sausage seasoned with onions, from the Magdeburger Börde. Eaten on bread.",
+   "kw": [
+    "bollwurst"
+   ]
+  },
+  {
+   "id": "magdeburg-pottsuse",
+   "name": "Pottsuse",
+   "local": "",
+   "icon": "🥫",
+   "desc": "Pork and lard spread with spices, a traditional farmhouse spread from the Börde. Eaten on dark bread.",
+   "kw": [
+    "pottsuse"
+   ]
+  },
+  {
+   "id": "magdeburg-baumkuchen",
+   "name": "Salzwedeler Baumkuchen",
+   "local": "",
+   "icon": "🎂",
+   "desc": "Layered cake baked on a rotating spit, built up ring by ring. Salzwedel in the Altmark is its traditional home.",
+   "kw": [
+    "baumkuchen"
+   ]
+  },
+  {
+   "id": "magdeburg-grutzwurst",
+   "name": "Grützwurst with red cabbage",
+   "local": "",
+   "icon": "🌭",
+   "desc": "Sausage of groats and pork, served with apple red cabbage. Altmark winter dish.",
+   "kw": [
+    "grützwurst"
+   ]
+  }
+ ]
+}

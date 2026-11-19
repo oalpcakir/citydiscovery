@@ -1,0 +1,59 @@
+{
+ "region": "bamberg",
+ "dishes": [
+  {
+   "id": "bamberg-schaeufele",
+   "name": "Schäufele",
+   "local": "Schäuferla",
+   "icon": "🍖",
+   "desc": "Roast pork shoulder with a crackling crust, served with potato dumplings and cabbage or salad. The classic Sunday roast of Franconian inns around Bamberg.",
+   "kw": [
+    "schäufele",
+    "schäuferla"
+   ]
+  },
+  {
+   "id": "bamberg-hoernla",
+   "name": "Bamberger Hörnla",
+   "local": "",
+   "icon": "🥐",
+   "desc": "Crescent-shaped butter yeast pastry, folded like a croissant and made in Bamberg for centuries. Found in the town's old bakeries.",
+   "kw": [
+    "hörnla",
+    "hörnchen"
+   ]
+  },
+  {
+   "id": "bamberg-zwiebel",
+   "name": "Stuffed Bamberg onion",
+   "local": "Gefüllte Bamberger Zwiebel",
+   "icon": "🧅",
+   "desc": "Local onion hollowed out and filled with minced meat, baked in smoked-beer sauce. It pairs Bamberg's onion growing with its smoked beer tradition.",
+   "kw": [
+    "bamberger zwiebel",
+    "stuffed onion"
+   ]
+  },
+  {
+   "id": "bamberg-coburger-bratwurst",
+   "name": "Coburger Bratwurst",
+   "local": "",
+   "icon": "🌭",
+   "desc": "Coarse beef-and-pork sausage grilled over pine cones and eaten in a long roll. Coburg's own bratwurst, sold at stands on the market square.",
+   "kw": [
+    "coburger bratwurst",
+    "bratwurst"
+   ]
+  },
+  {
+   "id": "bamberg-schmaetzchen",
+   "name": "Coburger Schmätzchen",
+   "local": "",
+   "icon": "🍬",
+   "desc": "Small meringue-and-hazelnut sweets in the shape of a kiss, a Coburg confectionery specialty from the old ducal town.",
+   "kw": [
+    "schmätzchen"
+   ]
+  }
+ ]
+}

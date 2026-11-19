@@ -1,0 +1,46 @@
+{
+ "region": "leipzig",
+ "dishes": [
+  {
+   "id": "leipzig-allerlei",
+   "name": "Leipziger Allerlei",
+   "local": "",
+   "icon": "🥕",
+   "desc": "Mixed spring vegetables with morels, crayfish and butter sauce. A Leipzig classic that varies from simple vegetable medleys to the refined original.",
+   "kw": [
+    "leipziger allerlei",
+    "allerlei"
+   ]
+  },
+  {
+   "id": "leipzig-lerche",
+   "name": "Leipziger Lerche",
+   "local": "",
+   "icon": "🥧",
+   "desc": "Shortcrust tartlet with almond filling, topped with a cherry and two crossed pastry strips. It replaced the real songbirds once baked into it.",
+   "kw": [
+    "lerche"
+   ]
+  },
+  {
+   "id": "leipzig-raebchen",
+   "name": "Leipziger Räbchen",
+   "local": "",
+   "icon": "🍩",
+   "desc": "Prunes stuffed with marzipan, coated in batter, fried and rolled in cinnamon sugar. A warm Leipzig sweet, eaten around the Christmas market and in cafés.",
+   "kw": [
+    "räbchen"
+   ]
+  },
+  {
+   "id": "leipzig-eierschecke",
+   "name": "Leipziger Eierschecke",
+   "local": "",
+   "icon": "🍰",
+   "desc": "Three-layer cake of yeast dough, quark and egg custard. Saxon-wide, but baked in Leipzig's traditional cafés and bakeries.",
+   "kw": [
+    "eierschecke"
+   ]
+  }
+ ]
+}

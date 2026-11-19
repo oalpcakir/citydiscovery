@@ -1,0 +1,46 @@
+{
+ "region": "halle",
+ "dishes": [
+  {
+   "id": "halle-hallorenkugel",
+   "name": "Hallorenkugeln",
+   "local": "",
+   "icon": "🍫",
+   "desc": "Chocolate balls with a filling, made in Halle since 1804 and named for the salt boilers. Found in local shops.",
+   "kw": [
+    "hallorenkugel",
+    "halloren"
+   ]
+  },
+  {
+   "id": "halle-quarkkeulchen",
+   "name": "Quarkkeulchen",
+   "local": "",
+   "icon": "🥞",
+   "desc": "Fried patties of potato and quark with cinnamon sugar and apple sauce. A Saxon-Anhalt dessert found in Halle restaurants.",
+   "kw": [
+    "quarkkeulchen"
+   ]
+  },
+  {
+   "id": "halle-butterkuchen",
+   "name": "Mansfelder Butterkuchen",
+   "local": "",
+   "icon": "🍰",
+   "desc": "Yeast sheet cake topped with butter, sugar and almonds. A bakery staple of the Mansfeld region.",
+   "kw": [
+    "butterkuchen"
+   ]
+  },
+  {
+   "id": "halle-hausmacher",
+   "name": "Hausmacher Leberwurst",
+   "local": "",
+   "icon": "🌭",
+   "desc": "Home-style liver sausage of the Halle region, spread on bread at the butcher's counter.",
+   "kw": [
+    "leberwurst"
+   ]
+  }
+ ]
+}

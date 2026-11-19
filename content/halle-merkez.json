@@ -1,0 +1,587 @@
+{
+ "new": [
+  {
+   "id": "hamarktkirche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the four towers of the Marktkirche",
+   "desc": "The Marktkirche Unser Lieben Frauen was consecrated in 1537 and joins two earlier churches into one hall church. Its four towers, together with the Roter Turm, give Halle the nickname of the city of five towers. Handel was baptised in this church.",
+   "tip": "Climb the Hausmann towers for a view over the old town; hours vary by season, so check before you go.",
+   "q": "Marktkirche Unser Lieben Frauen, Marktplatz, Halle (Saale)",
+   "ll": [
+    51.48254,
+    11.96817
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Marktkirche_Unser_Lieben_Frauen_(Halle_(Saale))"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "haroterturm",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Look up at the Roter Turm and its carillon",
+   "desc": "The Roter Turm on the Marktplatz was built from 1418 to 1506 as a city belfry. It carries a carillon of 76 bells, among the largest in Germany. Next to it stands the Roland statue.",
+   "tip": "Carillon concerts are held at set times; the square is liveliest on market days.",
+   "q": "Roter Turm, Marktplatz, Halle (Saale)",
+   "ll": [
+    51.48288,
+    11.96932
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Roter_Turm_(Halle)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "haroland",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find the Roland statue on the Marktplatz",
+   "desc": "The Roland of Halle stands by the Roter Turm as a symbol of the city's market and court rights. The Marktplatz around it also holds the Handel monument unveiled in 1859. Together they make a compact introduction to the old town.",
+   "tip": "Best in morning light with the towers behind; entry is free.",
+   "q": "Roland, Marktplatz, Halle (Saale)",
+   "ll": [
+    51.48288,
+    11.96942
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Roland_(Halle)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hahaendelhaus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Händel-Haus, the composer's birthplace",
+   "desc": "George Frideric Handel was born in this house in 1685, and it is now a music museum. It shows his life and work and a collection of historical instruments, some of which can be heard played. The Handel Festival every June uses the house and the city as its stage.",
+   "tip": "Allow about two hours; check the museum website for current hours.",
+   "q": "Händel-Haus, Große Nikolaistraße 5, Halle (Saale)",
+   "ll": [
+    51.48418,
+    11.96711
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Händel-Haus"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hafranckesche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore the baroque Franckesche Stiftungen",
+   "desc": "August Hermann Francke founded an orphanage and school here in 1698, growing into a large baroque educational complex. Highlights are the Kulissenbibliothek, an original baroque library hall, and the Kunst- und Naturalienkammer, a cabinet of curiosities.",
+   "tip": "Guided tours and a courtyard walk are possible; check opening days ahead.",
+   "q": "Franckesche Stiftungen, Franckeplatz 1, Halle (Saale)",
+   "ll": [
+    51.47642,
+    11.97296
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Franckesche_Stiftungen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hamoritzburg",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See Klee and Marc in the Moritzburg art museum",
+   "desc": "The Moritzburg, begun in 1484, was the residence of the archbishops of Magdeburg and is now the Kunstmuseum Moritzburg. A modern extension by Nieto Sobejano crowns the castle. The collection spans the 16th to 21st centuries, with German expressionists such as Klee and Marc.",
+   "tip": "Take the roof terrace for views; hours vary, so check the museum website.",
+   "q": "Kunstmuseum Moritzburg, Friedemann-Bach-Platz 5, Halle (Saale)",
+   "ll": [
+    51.48641,
+    11.96321
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Moritzburg_(Halle)"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hanebramuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Meet the Nebra sky disc at the Landesmuseum",
+   "desc": "The Landesmuseum für Vorgeschichte houses the Nebra sky disc, about 3,600 years old and the oldest known concrete depiction of the cosmos. The building by Wilhelm Kreis opened in 1918. It also shows finds from the Stone Age to the Middle Ages.",
+   "tip": "Plan 1.5 to 2 hours; the sky disc is the main draw.",
+   "q": "Landesmuseum für Vorgeschichte, Richard-Wagner-Straße 9, Halle (Saale)",
+   "ll": [
+    51.49827,
+    11.96234
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Landesmuseum_für_Vorgeschichte_(Halle_(Saale))"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hagiebichenstein",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb to Burg Giebichenstein above the Saale",
+   "desc": "Perched on a porphyry cliff above the river, Giebichenstein was a fortress of the archbishops of Magdeburg. Today the lower castle houses the Burg Giebichenstein University of Art and Design. The upper castle has a tower with views of the Saale valley.",
+   "tip": "Walk up from the Saale bank; hours vary seasonally.",
+   "q": "Burg Giebichenstein, Seebener Straße 1, Halle (Saale)",
+   "ll": [
+    51.50157,
+    11.95496
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Burg_Giebichenstein"
+   ]
+  },
+  {
+   "id": "hadom",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Look for the apostle statues in the Hallescher Dom",
+   "desc": "The Dom, dating from around 1330, is a former Dominican church and was later the church of Cardinal Albrecht. Its pillars hold life-size sculptures of Christ and the apostles. Handel served as organist here in 1702.",
+   "tip": "Open for visitors in daytime except during services; check posted times.",
+   "q": "Hallescher Dom, Domplatz 1, Halle (Saale)",
+   "ll": [
+    51.48428,
+    11.96448
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Hallescher_Dom"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hastadtgottesacker",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk the arches of the Stadtgottesacker",
+   "desc": "This Renaissance cemetery from 1557 is ringed by 94 arched vaults called Schwibbögen. Scholars, artists and citizens of Halle are buried beneath them. It is one of the best-preserved Camposanto-style graveyards in Germany.",
+   "tip": "Entry is free; keep quiet and visit in the afternoon light.",
+   "q": "Stadtgottesacker, Mühlweg 5, Halle (Saale)",
+   "ll": [
+    51.48248,
+    11.97747
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Stadtgottesacker"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hastadtmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Trace city history in the Stadtmuseum Halle",
+   "desc": "The city museum occupies the Christian-Wolff-Haus, a Renaissance patrician house on Große Märkerstraße. Its rooms cover Halle's salt boiling, university and trade history. A visit makes sense before exploring the Altstadt.",
+   "tip": "Short visit of about an hour; check hours before you go.",
+   "q": "Stadtmuseum Halle, Christian-Wolff-Haus, Große Märkerstraße 10, Halle (Saale)",
+   "ll": [
+    51.4805,
+    11.9714
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Stadtmuseum_Halle"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hasalinemuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Learn about salt boiling at the Halloren museum",
+   "desc": "The Technisches Halloren- und Salinemuseum sits on the old Saline island, where salt was boiled for centuries. The Halloren, the salt workers' brotherhood, kept their own costumes and traditions. Exhibits show brine pumping and the boiling process.",
+   "tip": "Open only on selected days; check before travelling.",
+   "q": "Technisches Halloren- und Salinemuseum, Mansfelder Straße 52, Halle (Saale)",
+   "ll": [
+    51.48217,
+    11.95963
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Hallors_and_Saline_Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hakolkturm",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb the Kolkturm in the Dölauer Heide",
+   "desc": "The Kolkturm, a lookout tower in the Dölauer Heide forest, offers a wide view over Halle and the Saale valley. It stands within the 740-hectare heath, reached on forest paths through pine and oak woods.",
+   "tip": "Reach the forest by tram, then walk; bring water in summer.",
+   "q": "Kolkturm, Dölauer Heide, Halle (Saale)",
+   "ll": [
+    51.5018,
+    11.91046
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Dölauer_Heide"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "habrauhaus",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink house beer at the Hallesches Brauhaus",
+   "desc": "The Hallesches Brauhaus is a spacious beer house on Große Nikolaistraße with its own beers. The menu includes local plates such as the Hallesche Bierbratwurst on mashed potatoes. Quarkkeulchen with apple compote are a sweet local finish.",
+   "tip": "Try the Quarkkeulchen for dessert; open evenings on weekdays and from noon on Saturday.",
+   "q": "Hallesches Brauhaus, Große Nikolaistraße 2, Halle (Saale)",
+   "ll": [
+    51.48384,
+    11.96861
+   ],
+   "src": [
+    "https://www.speisekarte.de/halle-saale/restaurant/hallesches_brauhaus/speisekarte"
+   ]
+  },
+  {
+   "id": "hazumschad",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat hearty German dishes at Gasthaus Schad",
+   "desc": "Gasthaus Schad stands on Kleine Klausstraße in the Altstadt and serves classic German cooking with beer. It ranks near the top of local Gasthof lists. Locals come for roasts and hearty plates.",
+   "tip": "Book on weekend evenings; try the roast or schnitzel of the day.",
+   "q": "Schad, Kleine Klausstraße 3, Halle (Saale)",
+   "ll": [
+    51.48367,
+    11.96657
+   ],
+   "src": [
+    "https://freizeitmonster.de/blog/restaurants-halle-saale"
+   ]
+  },
+  {
+   "id": "hawittekind",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have cake at the Kaffeehaus Wittekind",
+   "desc": "This Kaffeehaus and restaurant on Seebener Straße near Giebichenstein is described as one of the most popular places to eat in Halle. It is known for coffee and cake. A short walk from the Burg.",
+   "tip": "Combine with a visit to Burg Giebichenstein; reserve on weekends.",
+   "q": "Kaffeehaus Wittekind, Seebener Straße 20, Halle (Saale)",
+   "ll": [
+    51.50498,
+    11.95893
+   ],
+   "src": [
+    "https://www.opentable.com/r/kaffeehaus-wittekind-halle-saale"
+   ]
+  },
+  {
+   "id": "hasiebengramm",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sip specialty coffee at 7 Gramm",
+   "desc": "7 Gramm on Barfüßerstraße is one of the top-rated cafés in Halle, with more than 800 reviews and a 4.6 average. It serves carefully made coffee and cakes close to the Marktplatz.",
+   "tip": "Quiet in the morning; order a flat white and a slice of cake.",
+   "q": "7 Gramm, Barfüßerstraße 11, Halle (Saale)",
+   "ll": [
+    51.48544,
+    11.96991
+   ],
+   "src": [
+    "https://wanderlog.com/list/geoCategory/283775"
+   ]
+  },
+  {
+   "id": "hacafent",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have breakfast or cocktails at Café nt",
+   "desc": "Café nt on Große Ulrichstraße is a relaxed spot for coffee and cake, a hearty breakfast or cocktails in the evening. It sits on a lively street between the market and the university.",
+   "tip": "Breakfast is the best bet; evenings get busy at weekends.",
+   "q": "Café nt, Große Ulrichstraße 51, Halle (Saale)",
+   "ll": [
+    51.48532,
+    11.96858
+   ],
+   "src": [
+    "https://freizeitmonster.de/blog/cafes-halle-saale"
+   ]
+  },
+  {
+   "id": "hasalvatore",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order homemade pasta at Osteria Da Salvatore",
+   "desc": "Osteria Da Salvatore on Bergstraße is an Italian restaurant near the university, known for homemade pasta and pizza. Prices are moderate.",
+   "tip": "Try the fresh pasta of the day; book in the evening.",
+   "q": "Osteria Da Salvatore, Bergstraße 7, Halle (Saale)",
+   "ll": [
+    51.48653,
+    11.9661
+   ],
+   "src": [
+    "https://freizeitmonster.de/blog/restaurants-halle-saale"
+   ]
+  },
+  {
+   "id": "hasamowar",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try borscht at Zum Samowar",
+   "desc": "Zum Samowar on Scharrenstraße serves Eastern European dishes such as borscht, along with some sushi. It sits just off the market square.",
+   "tip": "Order the borscht and a pot of tea.",
+   "q": "Zum Samowar, Scharrenstraße 4, Halle (Saale)",
+   "ll": [
+    51.48785,
+    11.96702
+   ],
+   "src": [
+    "https://freizeitmonster.de/blog/restaurants-halle-saale"
+   ]
+  },
+  {
+   "id": "hawenzel",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Bohemian dishes at Wenzel Prager Bierstuben",
+   "desc": "Wenzel Prager Bierstuben on Große Nikolaistraße serves Czech and Bohemian food with Czech beer. It sits near the Händel-Haus, a good stop after the museum.",
+   "tip": "Try goulash with Bohemian dumplings.",
+   "q": "Wenzel Prager Bierstuben, Große Nikolaistraße 9, Halle (Saale)",
+   "ll": [
+    51.48405,
+    11.96861
+   ],
+   "src": [
+    "https://freizeitmonster.de/blog/restaurants-halle-saale"
+   ]
+  },
+  {
+   "id": "habiertunnel",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Enjoy home cooking at Strieses Biertunnel",
+   "desc": "Strieses Biertunnel on Schulstraße serves hearty home-cooked dishes and salads in a cellar-style setting.",
+   "tip": "Visit in the evening for the atmosphere.",
+   "q": "Strieses Biertunnel, Schulstraße 2, Halle (Saale)",
+   "ll": [
+    51.48543,
+    11.96919
+   ],
+   "src": [
+    "https://freizeitmonster.de/blog/restaurants-halle-saale"
+   ]
+  },
+  {
+   "id": "haoekoase",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste vegetarian daily specials at Ökoase",
+   "desc": "Ökoase on Kleine Ulrichstraße offers daily changing vegetarian dishes in a long-established wholefood restaurant.",
+   "tip": "Lunch is the best time for the daily special.",
+   "q": "Ökoase, Kleine Ulrichstraße 2, Halle (Saale)",
+   "ll": [
+    51.48437,
+    11.96627
+   ],
+   "src": [
+    "https://freizeitmonster.de/blog/restaurants-halle-saale"
+   ]
+  },
+  {
+   "id": "hahalloren",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Make your own chocolate at the Halloren Erlebniswelt",
+   "desc": "Halloren, founded in 1804, is Germany's oldest chocolate maker, famous for Hallorenkugeln. The Erlebniswelt combines a museum with a look at production and a workshop where visitors make pralines.",
+   "tip": "Adult entry about 9.50 EUR; open Monday to Saturday 10 to 18, Sunday 11 to 17.",
+   "q": "Halloren Schokoladenmuseum, Delitzscher Straße 70, Halle (Saale)",
+   "ll": [
+    51.47811,
+    12.00863
+   ],
+   "src": [
+    "https://www.museum.de/museen/halloren-schokoladenmuseum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hapeissnitz",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Ride the Peißnitzexpress on Peißnitzinsel",
+   "desc": "The car-free Peißnitzinsel is a green island of about 46 hectares in the Saale, with meadows, playgrounds, an open-air stage and a small park railway. It is reached via the Peißnitzbrücke of 1899.",
+   "tip": "Ride the Peißnitzexpress and rent a boat in summer.",
+   "q": "Peißnitzinsel, Halle (Saale)",
+   "ll": [
+    51.4877,
+    11.94987
+   ],
+   "src": [
+    "https://regional.bahn.de/regionen/sachsen-anhalt/wir/dieselnetz-sachsen-anhalt/disa-ausflugstipps/peissnitz-insel"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "haziegelwiese",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Relax at the Saalestrand on the Ziegelwiese",
+   "desc": "In summer the Saalestrand on the Ziegelwiese offers a riverside beach spot close to the city centre.",
+   "tip": "Visit on warm weekends, best in the evening.",
+   "q": "Saalestrand Ziegelwiese, Halle (Saale)",
+   "ll": [
+    51.4962,
+    11.95184
+   ],
+   "src": [
+    "https://maps.adac.de/ort/halle-sachsen-anhalt/themen/aktivitaeten-halle-erlebnisse-und-touren"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "hadoelauerheide",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Hike through the Dölauer Heide",
+   "desc": "The Dölauer Heide is a 740-hectare forest and heath area on the north-west edge of Halle. It has marked walking and cycling paths and a lake, the Heidesee.",
+   "tip": "Take the tram towards Nietleben and walk in; allow half a day.",
+   "q": "Dölauer Heide, Halle (Saale)",
+   "ll": [
+    51.50204,
+    11.90695
+   ],
+   "src": [
+    "https://www.komoot.com/highlight/3081044"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "habergzoo",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Visit the Bergzoo Halle on the Reilsberg",
+   "desc": "The Bergzoo is a hillside zoo on the Reilsberg with a lookout tower. It is a popular family outing with animals along terraced paths.",
+   "tip": "Plan a half day and wear good shoes for the slopes.",
+   "q": "Bergzoo Halle, Reilstraße 57, Halle (Saale)",
+   "ll": [
+    51.50574,
+    11.96231
+   ],
+   "src": [
+    "https://www.tourispo.de/tierpark-zoo/berg-zoo-halle-saale_bilder.html"
+   ]
+  },
+  {
+   "id": "haplanetarium",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Watch a show in the Planetarium Halle gasometer",
+   "desc": "Opened on 30 March 2023, the Planetarium Halle fills a restored gasometer of 1891 on the Saline island. It has a 12-metre dome and a rooftop observatory.",
+   "tip": "Book show tickets ahead; check the schedule online.",
+   "q": "Planetarium Halle, Holzplatz 5, Halle (Saale)",
+   "ll": [
+    51.47819,
+    11.95888
+   ],
+   "src": [
+    "https://audiala.com/de/deutschland/halle/planetarium-halle-saale"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "haweihnachtsmarkt",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Weihnachtsmarkt on the Marktplatz",
+   "desc": "Halle's Christmas market fills the Marktplatz with about 95 stalls in front of the Marktkirche and the Roter Turm. The Halloren Schausieden, a show of traditional salt boiling, is a highlight.",
+   "tip": "Runs from late November to 23 December; check halle.de for exact dates.",
+   "q": "Weihnachtsmarkt Halle, Marktplatz, Halle (Saale)",
+   "ll": [
+    51.48653,
+    11.96731
+   ],
+   "src": [
+    "https://www.volksstimme.de/sachsen-anhalt/weihnachtsmarkt-wintermarkt-2025-2026-halle-oeffnungszeiten-parken-programm-3476457"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    11,
+    12
+   ]
+  },
+  {
+   "id": "hasaalewalk",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the Saale bank from Giebichenstein to Peißnitz",
+   "desc": "This riverside walk links Burg Giebichenstein in Kröllwitz with the Peißnitzinsel, following the Saale past bridges and meadows with views of the castle rock.",
+   "tip": "About 5 km; flat and suitable for bikes.",
+   "q": "Giebichensteinbrücke, Kröllwitz, Halle (Saale)",
+   "ll": [
+    51.50404,
+    11.95224
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/von-burg-giebichenstein-zur-insel-peissnitz"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hapaulusviertel",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Stroll through the Paulusviertel",
+   "desc": "The Paulusviertel is a district of late 19th-century Gründerzeit housing with tree-lined streets near the centre, popular with students and locals.",
+   "tip": "Walk around the Paulusplatz area and its cafés.",
+   "q": "Paulusviertel, Halle (Saale)",
+   "ll": [
+    51.49571,
+    11.97387
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Paulusviertel"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

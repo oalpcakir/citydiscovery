@@ -1,0 +1,58 @@
+{
+ "region": "kaiserslautern",
+ "dishes": [
+  {
+   "id": "kaiserslautern-fleischknepp",
+   "name": "Fleischknepp",
+   "local": "",
+   "icon": "🥟",
+   "desc": "Palatinate meat dumplings, served in broth or on sauerkraut. Palatinate home cooking.",
+   "kw": [
+    "fleischknepp"
+   ]
+  },
+  {
+   "id": "kaiserslautern-grumbeersupp",
+   "name": "Grumbeersupp with plum cake",
+   "local": "Grumbeersupp mit Quetschekuche",
+   "icon": "🍲",
+   "desc": "Potato soup served with plum cake. A traditional Palatinate Sunday meal.",
+   "kw": [
+    "grumbeersupp",
+    "plum cake"
+   ]
+  },
+  {
+   "id": "kaiserslautern-gebreedelde",
+   "name": "Gebreedelde",
+   "local": "",
+   "icon": "🥔",
+   "desc": "Palatinate fried potatoes with bacon or liver sausage.",
+   "kw": [
+    "gebreedelde"
+   ]
+  },
+  {
+   "id": "kaiserslautern-keschde",
+   "name": "Sweet chestnuts",
+   "local": "Keschde",
+   "icon": "🌰",
+   "desc": "Chestnuts from the Palatinate Forest, roasted or cooked into soups and stuffings in autumn.",
+   "kw": [
+    "keschde",
+    "chestnut"
+   ]
+  },
+  {
+   "id": "kaiserslautern-pfaelzer-bratwurst",
+   "name": "Pfälzer Bratwurst",
+   "local": "",
+   "icon": "🌭",
+   "desc": "Coarse pork bratwurst grilled and eaten with sauerkraut. Common at village festivals.",
+   "kw": [
+    "pfälzer bratwurst",
+    "bratwurst"
+   ]
+  }
+ ]
+}

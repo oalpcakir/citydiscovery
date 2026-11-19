@@ -1,0 +1,47 @@
+{
+ "region": "osnabrueck",
+ "dishes": [
+  {
+   "id": "osnabrueck-pickert",
+   "name": "Pickert",
+   "local": "",
+   "icon": "🥞",
+   "desc": "Thick yeast-and-potato pancake, fried and eaten with butter, jam or sausage. A farmhouse bread from Westphalia that is common around Osnabrück.",
+   "kw": [
+    "pickert"
+   ]
+  },
+  {
+   "id": "osnabrueck-pannekauken",
+   "name": "Emsland buckwheat pancake",
+   "local": "Buchweizen-Pannekauken",
+   "icon": "🥞",
+   "desc": "Thin pancake of buckwheat flour with bacon, fried in a pan. Buckwheat grew on the sandy Emsland soils and the pancake stayed on local menus.",
+   "kw": [
+    "pannekauken",
+    "buckwheat pancake"
+   ]
+  },
+  {
+   "id": "osnabrueck-duemmer-aal",
+   "name": "Smoked Dümmer eel",
+   "local": "Dümmer Räucheraal",
+   "icon": "🐟",
+   "desc": "Eel from Lake Dümmer on the edge of Vechta and Osnabrück land, smoked and eaten on dark bread. Sold from local smokehouses.",
+   "kw": [
+    "räucheraal",
+    "smoked eel"
+   ]
+  },
+  {
+   "id": "osnabrueck-bentheimer-schwein",
+   "name": "Bentheimer Landschwein roast",
+   "local": "",
+   "icon": "🐖",
+   "desc": "Pork from the rare Bentheimer Landschwein breed, raised in the Grafschaft Bentheim and served on regional menus as roast or sausage.",
+   "kw": [
+    "bentheimer"
+   ]
+  }
+ ]
+}

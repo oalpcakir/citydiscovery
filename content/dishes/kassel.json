@@ -1,0 +1,56 @@
+{
+ "region": "kassel",
+ "dishes": [
+  {
+   "id": "kassel-ahle-wurst",
+   "name": "Ahle Wurst",
+   "local": "Ahle Wurscht",
+   "icon": "🥓",
+   "desc": "Hard air-dried pork sausage from North Hesse, with protected origin status. Sliced thick and eaten on bread.",
+   "kw": [
+    "ahle wurst",
+    "ahle wurscht"
+   ]
+  },
+  {
+   "id": "kassel-weckewerk",
+   "name": "Weckewerk",
+   "local": "",
+   "icon": "🍳",
+   "desc": "Cooked sausage of bread rolls, pork and spices, sliced and fried crisp. A classic North Hessian farm breakfast, served with pickles.",
+   "kw": [
+    "weckewerk"
+   ]
+  },
+  {
+   "id": "kassel-speckkuchen",
+   "name": "Speckkuchen",
+   "local": "",
+   "icon": "🥧",
+   "desc": "Bacon tart on yeast dough, baked in North Hesse and eaten warm. A simple local baker's staple.",
+   "kw": [
+    "speckkuchen"
+   ]
+  },
+  {
+   "id": "kassel-salzkuchen",
+   "name": "Schwälmer Salzkuchen",
+   "local": "",
+   "icon": "🥐",
+   "desc": "Flat yeast bread topped with cream, egg and bacon, baked in the Schwalm region. A local festive bread, now found in bakeries too.",
+   "kw": [
+    "salzkuchen"
+   ]
+  },
+  {
+   "id": "kassel-diebchen",
+   "name": "Diebchen",
+   "local": "",
+   "icon": "🥔",
+   "desc": "Potato dumplings stuffed with meat or bacon, served with bacon sauce. A simple North Hessian village dish.",
+   "kw": [
+    "diebchen"
+   ]
+  }
+ ]
+}

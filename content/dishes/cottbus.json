@@ -1,0 +1,60 @@
+{
+ "region": "cottbus",
+ "dishes": [
+  {
+   "id": "cottbus-gurken",
+   "name": "Spreewald gherkins",
+   "local": "Spreewälder Gurken",
+   "icon": "🥒",
+   "desc": "Pickled cucumbers with protected origin, grown and processed in the Spreewald. Eaten at stalls, from barrels and in salads.",
+   "kw": [
+    "spreewald gherkin",
+    "spreewälder gurken",
+    "gherkin"
+   ]
+  },
+  {
+   "id": "cottbus-meerrettich",
+   "name": "Spreewald horseradish",
+   "local": "Spreewälder Meerrettich",
+   "icon": "🌿",
+   "desc": "Sharp grated horseradish from the Spreewald, served with fish, sausage or meat. Part of the region's food tradition.",
+   "kw": [
+    "meerrettich",
+    "horseradish"
+   ]
+  },
+  {
+   "id": "cottbus-plinse",
+   "name": "Plinse",
+   "local": "Lausitzer Plinse",
+   "icon": "🥞",
+   "desc": "Yeast pancake of Sorbian-Wendish origin, baked thick and served with sugar, cinnamon and apple sauce.",
+   "kw": [
+    "plinse"
+   ]
+  },
+  {
+   "id": "cottbus-pueckler-eis",
+   "name": "Fürst-Pückler-Eis",
+   "local": "",
+   "icon": "🍨",
+   "desc": "Layered ice cream of chocolate, strawberry and vanilla, named for the Cottbus park creator Prince Pückler. Sold in local cafés.",
+   "kw": [
+    "pückler",
+    "fürst-pückler"
+   ]
+  },
+  {
+   "id": "cottbus-spreewald-aal",
+   "name": "Spreewald eel",
+   "local": "Spreewälder Aal",
+   "icon": "🐟",
+   "desc": "Smoked or fried eel from the Spreewald waterways, a traditional local fish dish.",
+   "kw": [
+    "aal",
+    "eel"
+   ]
+  }
+ ]
+}

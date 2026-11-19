@@ -1,0 +1,48 @@
+{
+ "region": "rostock",
+ "dishes": [
+  {
+   "id": "rostock-bueckling",
+   "name": "Warnemünde Bückling",
+   "local": "",
+   "icon": "🐟",
+   "desc": "Whole smoked herring, eaten warm at the fish stands on the Alter Strom harbour in Warnemünde.",
+   "kw": [
+    "bückling",
+    "smoked herring"
+   ]
+  },
+  {
+   "id": "rostock-fischsuppe",
+   "name": "Rostocker Fischsuppe",
+   "local": "",
+   "icon": "🍲",
+   "desc": "Clear Baltic fish soup with vegetables and dill, served in harbour restaurants.",
+   "kw": [
+    "fischsuppe",
+    "fish soup"
+   ]
+  },
+  {
+   "id": "rostock-brathering",
+   "name": "Fried herring",
+   "local": "Brathering",
+   "icon": "🐟",
+   "desc": "Pan-fried herring marinated in vinegar, eaten with fried potatoes. A staple on Baltic coast menus around Rostock and Warnemünde.",
+   "kw": [
+    "brathering",
+    "fried herring"
+   ]
+  },
+  {
+   "id": "rostock-rote-gruetze",
+   "name": "Rote Grütze",
+   "local": "",
+   "icon": "🍓",
+   "desc": "Red berry pudding with vanilla sauce or cream. A summer dessert that is part of Mecklenburg tradition.",
+   "kw": [
+    "rote grütze"
+   ]
+  }
+ ]
+}

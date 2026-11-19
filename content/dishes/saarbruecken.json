@@ -1,0 +1,56 @@
+{
+ "region": "saarbruecken",
+ "dishes": [
+  {
+   "id": "saarbruecken-dibbelabbes",
+   "name": "Dibbelabbes",
+   "local": "",
+   "icon": "🥔",
+   "desc": "Grated potato baked in a pot with leeks and smoked meat, served with apple sauce. The Saarland's most typical home dish.",
+   "kw": [
+    "dibbelabbes"
+   ]
+  },
+  {
+   "id": "saarbruecken-gefillde",
+   "name": "Gefillde",
+   "local": "",
+   "icon": "🥟",
+   "desc": "Large potato dumplings filled with minced meat or liver sausage, served with bacon sauce or sauerkraut. Saarland comfort food.",
+   "kw": [
+    "gefillde"
+   ]
+  },
+  {
+   "id": "saarbruecken-schwenkbraten",
+   "name": "Schwenkbraten",
+   "local": "",
+   "icon": "🥩",
+   "desc": "Marinated pork steaks grilled over beech wood on a swinging tripod grill. The Saarland's summer barbecue.",
+   "kw": [
+    "schwenker",
+    "schwenkbraten"
+   ]
+  },
+  {
+   "id": "saarbruecken-lyoner",
+   "name": "Lyoner",
+   "local": "Saarländer Lyoner",
+   "icon": "🌭",
+   "desc": "Ring-shaped pork and beef sausage, eaten fried, boiled or cold. Saarlanders treat it as their own despite the French name.",
+   "kw": [
+    "lyoner"
+   ]
+  },
+  {
+   "id": "saarbruecken-hoorische",
+   "name": "Hoorische",
+   "local": "",
+   "icon": "🥔",
+   "desc": "Long potato dumplings boiled in water and served with bacon sauce or sauerkraut. An old Saarland dish.",
+   "kw": [
+    "hoorische"
+   ]
+  }
+ ]
+}

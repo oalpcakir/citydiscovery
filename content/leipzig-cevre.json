@@ -1,0 +1,808 @@
+{
+ "new": [
+  {
+   "id": "lecolditzschloss",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour Schloss Colditz, the famous Oflag IV-C",
+   "desc": "Renaissance castle above the Zwickauer Mulde that served as the Wehrmacht prisoner-of-war camp Oflag IV-C in WWII, known for Allied officers' escape attempts. It reopened to visitors in 2024 as part of Schlösserland Sachsen.",
+   "tip": "Open daily in season, with shorter hours in winter; guided tours in English are offered on set dates. Check the opening hours before going.",
+   "q": "Schloss Colditz, Schlossgasse 1, 04680 Colditz",
+   "ll": [
+    51.13105,
+    12.80723
+   ],
+   "src": [
+    "https://www.schloesserland-sachsen.de/en/palaces-castles-and-gardens/colditz-castle/",
+    "https://en.wikipedia.org/wiki/Colditz_Castle"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "letorgauhartenfels",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb through Schloss Hartenfels in Torgau",
+   "desc": "One of the earliest Protestant castle chapels (consecrated by Luther in 1544) and the Renaissance spiral staircase, the Großer Wendelstein, are the highlights of this Electoral Saxon residence. A permanent exhibition covers Torgau as home of the Renaissance and Reformation.",
+   "tip": "Most listings give Monday as closed; expect shorter winter hours. Combine with the bear pit at the main gate.",
+   "q": "Schloss Hartenfels, Schlossstraße 27, 04860 Torgau",
+   "ll": [
+    51.55937,
+    13.00957
+   ],
+   "src": [
+    "https://www.schloesserland-sachsen.de/en/palaces-castles-and-gardens/hartenfels-castle/",
+    "https://en.wikipedia.org/wiki/Hartenfels_Castle"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "leferropolis",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the giant excavators of Ferropolis",
+   "desc": "An open-air museum on a peninsula in the Gremminer See where huge lignite excavators from former mines stand as the 'City of Iron'. A concert arena sits between the machines.",
+   "tip": "Open daily; audio guides and guided tours are available. Check ferropolis.de for exact hours and concert dates.",
+   "q": "Ferropolis, Stadt aus Eisen, Ferropolisstraße 1, 06773 Gräfenhainichen",
+   "ll": [
+    51.75909,
+    12.44875
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ferropolis",
+    "https://lutherstadt-wittenberg.de/en/see-discover/world-heritage-region-destinations/ferropolis"
+   ]
+  },
+  {
+   "id": "lenimbschenkloster",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander among the Nimbschen convent ruins",
+   "desc": "The remains of the Cistercian convent Marienthron, from which Katharina von Bora fled with other nuns in 1523 before marrying Martin Luther. The ruin lies in a quiet valley south of Grimma.",
+   "tip": "Freely accessible all year; the Hotel Kloster Nimbschen nearby has a restaurant.",
+   "q": "Klosterruine Nimbschen, Nimbschener Landstraße 1, 04668 Grimma",
+   "ll": [
+    51.21627,
+    12.74089
+   ],
+   "src": [
+    "https://www.leipzig.travel/en/poi/nimbschen-monastery-ruins",
+    "https://www.lutherweg-sachsen.de/en/poi/nimbschen-monastery-ruins"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "levinetastoermthal",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the floating Vineta tower on Störmthaler See",
+   "desc": "VINETA is a floating art object on the former lignite pit lake, a 15 metre tower whose cap recalls the church of Magdeborn, blown up in 1978 when the village made way for mining. It is Germany's highest floating structure on an inland lake.",
+   "tip": "Reach the pier via bus 141 or park at the Magdeborn peninsula; boats can be rented right at the pier.",
+   "q": "VINETA Störmthaler See, Magdeborner Halbinsel, 04463 Großpösna",
+   "ll": [
+    51.22797,
+    12.4385
+   ],
+   "src": [
+    "https://www.leipzig.travel/en/then/vineta-on-the-stoermthaler-lake",
+    "https://visitsaxony.com/poi/vineta-on-lake-stoermthal"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "lemelanchthonhaus",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Melanchthonhaus in Wittenberg",
+   "desc": "Home of the humanist and Reformer Philipp Melanchthon, with the study and death room where he died in 1560. It is a UNESCO World Heritage site alongside the Lutherhaus.",
+   "tip": "Open Tuesday to Sunday, 10:00 to 18:00 according to the city. The Lutherhaus is closed for renovation until 2027, so this is the Reformation house to visit now.",
+   "q": "Melanchthonhaus, Collegienstraße 60, 06886 Lutherstadt Wittenberg",
+   "ll": [
+    51.86474,
+    12.65081
+   ],
+   "src": [
+    "https://lutherstadt-wittenberg.de/en/culture/unesco-world-heritage-site/melanchthon-house/",
+    "https://www.luthermuseen.de/en/opening-hours"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "leschlosskirchewb",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Schlosskirche where Luther posted his theses",
+   "desc": "The Castle Church of Wittenberg is the traditional site of Luther's Ninety-five Theses in 1517 and holds the graves of Luther and Melanchthon. Its bronze doors carry the Latin text of the theses.",
+   "tip": "The tower offers a view over the old town. Check opening hours, as the church closes for services.",
+   "q": "Schlosskirche, Schlossplatz 1, 06886 Lutherstadt Wittenberg",
+   "ll": [
+    51.86638,
+    12.63803
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/All_Saints%27_Church,_Wittenberg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "leasisiluther",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Step into the Asisi panorama Luther 1517",
+   "desc": "A large 360 degree panorama by Yadegar Asisi showing Wittenberg as it was in 1517, housed in a former gasworks-style rotunda near the old town. It sits within the town's Reformation trail.",
+   "tip": "Open daily, roughly 10:00 to 17:00; combine with the old town walk.",
+   "q": "Asisi Panorama Luther 1517, Arsenalplatz 1, 06886 Lutherstadt Wittenberg",
+   "ll": [
+    51.86586,
+    12.65421
+   ],
+   "src": [
+    "https://www.radweg-berlin-leipzig.de/en/staedte-sehenswuerdigkeiten-landschaften/asisi-panorama-luther-1517"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "lestadtkirchewb",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Reformation altar in Wittenberg's town church",
+   "desc": "The Stadtkirche St. Marien, where Luther preached, holds the Reformation altarpiece by Lucas Cranach the Elder and his workshop. Its twin towers dominate the market square skyline.",
+   "tip": "Check the church's current opening hours; the altar is the main reason to go in.",
+   "q": "Stadtkirche St. Marien, Kirchplatz, 06886 Lutherstadt Wittenberg",
+   "ll": [
+    51.8669,
+    12.6444
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/St._Mary%27s_Church,_Wittenberg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "lehundertwasserschule",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the Hundertwasser School in Wittenberg",
+   "desc": "The Luther-Melanchthon-Gymnasium was redesigned by Friedensreich Hundertwasser and opened on 29 May 1999, with a colourful facade, golden domes and a green roof. Guided tours of about 45 minutes go through the whole building.",
+   "tip": "Visits are by guided tour only; book through the city's tourist information or the school.",
+   "q": "Hundertwasserschule, Schillerstraße 22a, 06886 Lutherstadt Wittenberg",
+   "ll": [
+    51.8765,
+    12.6585
+   ],
+   "src": [
+    "https://lutherstadt-wittenberg.de/en/culture/sights/hundertwasserschule/",
+    "https://hundertwasser.com/en/architecture/950_arch114_martin-luther-gymnasium_in_wittenberg_1643"
+   ]
+  },
+  {
+   "id": "lehubertusburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore Schloss Hubertusburg in Wermsdorf",
+   "desc": "The largest Baroque hunting palace in Saxony, where the Peace of Hubertusburg ended the Seven Years' War in 1763. It stands in the Wermsdorf forest with its court chapel and exhibition rooms.",
+   "tip": "Exhibitions change and guided tours are booked via the Tourist-Information Wermsdorf; check hubertusburg-wermsdorf.de for current hours.",
+   "q": "Schloss Hubertusburg, Schlossplatz 1, 04779 Wermsdorf",
+   "ll": [
+    51.27858,
+    12.94022
+   ],
+   "src": [
+    "https://www.leipzig.travel/en/poi/hubertusburg-castle-wermsdorf",
+    "https://www.leipzig.travel/en/poi/court-chapel-hubertusburg-castle-wermsdorf"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "legnandsteinburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the knight's castle Burg Gnandstein",
+   "desc": "One of the best preserved Romanesque castles in Saxony, with a keep and interiors that show medieval life, near Kohren-Sahlis. It is run by Schlösserland Sachsen.",
+   "tip": "Open from April to October, shorter hours in winter and school holidays; check burg-museum-gnandstein.de.",
+   "q": "Burg Gnandstein, Burgberg 1, 04655 Kohren-Sahlis",
+   "ll": [
+    51.01837,
+    12.57642
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Gnandstein_Castle",
+    "https://www.leipzig.travel/en/then/Gnandstein-Castle"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "lebergbautechnikpark",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stand beneath a bucket-wheel excavator in Großpösna",
+   "desc": "The Bergbau-Technik-Park shows machines from the former Espenhain opencast mine, including the bucket-wheel excavator 1547 SRs 1000 and an overburden conveyor bridge. It sits on the western shore of the Störmthaler See.",
+   "tip": "Open Wednesday to Sunday and on holidays, 10:00 to 17:00 from mid March to mid November; there is a snack stand on site.",
+   "q": "Bergbau-Technik-Park, Am Westufer 2, 04463 Großpösna",
+   "ll": [
+    51.2468,
+    12.42122
+   ],
+   "src": [
+    "https://www.leipzig.travel/en/poi/mining-technology-park-in-leipzigs-new-lakeland",
+    "https://visitsaxony.com/poi/park-of-mining-technology-grosspoesna"
+   ]
+  },
+  {
+   "id": "ledelitzschbarockschloss",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Baroque Castle of Delitzsch",
+   "desc": "Four-winged castle on the edge of Delitzsch's old town, with museum rooms, special exhibitions and the tourist information. It is part of Schlösserland Sachsen.",
+   "tip": "Open Tuesday to Sunday about 10:00 to 17:00, closed Mondays; admission is around 6 euros.",
+   "q": "Barockschloss Delitzsch, Schlossstraße 31, 04509 Delitzsch",
+   "ll": [
+    51.52342,
+    12.32886
+   ],
+   "src": [
+    "https://www.leipzig.travel/en/poi/delitzsch-baroque-castle",
+    "https://www.schloesserland-sachsen.de/en/palaces-castles-and-gardens/delitzsch-baroque-castle/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "leburgdueben",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Burg Düben and its landscape museum",
+   "desc": "The castle in Bad Düben has housed the Landschaftsmuseum der Dübener Heide since 1952, with a permanent exhibition renewed in 2022 on the town and the nature park.",
+   "tip": "The NaturparkHaus Dübener Heide with the tourist information is right at the foot of the castle; check hours on bad-dueben.de.",
+   "q": "Burg Düben, Neuhofstraße 3, 04849 Bad Düben",
+   "ll": [
+    51.59219,
+    12.58066
+   ],
+   "src": [
+    "https://www.bad-dueben.de/en/welcome/",
+    "https://www.burgenwelt.org/deutschland/dueben/burgenwelt-dueben-deutschland.pdf"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "lewurzendom",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the cathedral and castle of Wurzen",
+   "desc": "The Dom St. Marien, consecrated in 1114, stands next to the bishop's castle and holds a 1928 crucifixion group by Georg Wrba in the east choir. Together they form the old Domplatz.",
+   "tip": "Wurzen's Ringelnatz Trail passes the Dom; check church opening times.",
+   "q": "Dom St. Marien, Domplatz 5, 04808 Wurzen",
+   "ll": [
+    51.36929,
+    12.73278
+   ],
+   "src": [
+    "https://maps.adac.de/poi/dom-st-marien-zu-wurzen-1",
+    "https://en.wikipedia.org/wiki/Wurzen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "lekatharinastube",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Katharina-Luther-Stube in Torgau",
+   "desc": "A small museum in the house where Katharina von Bora, Luther's wife, died in 1552 after an accident while fleeing the plague from Wittenberg. It is part of Torgau's Luther trail.",
+   "tip": "Small museum; check the opening hours of the Torgau museum trail before you go.",
+   "q": "Katharina-Luther-Stube, Katharinenstraße 11, 04860 Torgau",
+   "ll": [
+    51.5589,
+    13.00661
+   ],
+   "src": [
+    "https://www.lutherweg-sachsen.de/en/poi/katharina-luther-stube-torgau"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "leeilenburgstadtmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the town museum in the Roter Hirsch, Eilenburg",
+   "desc": "The Stadtmuseum sits in the former luxury hotel 'Roter Hirsch' and shows Eilenburg's history, with a collection of historic dolls' houses in the attic. The town is known as the 'city of legends'.",
+   "tip": "The museum shares hours with the library and tourist information; it is closed on Mondays and Saturdays.",
+   "q": "Stadtmuseum Eilenburg, Torgauer Straße 40, 04838 Eilenburg",
+   "ll": [
+    51.4598,
+    12.6364
+   ],
+   "src": [
+    "https://eilenburg.de/en/freizeit/city-museum",
+    "https://www.leipzig.travel/en/then/Eileenburg-City-Museum-Eileenburg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "lebrauhauswittenberg",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink the house beer at Brauhaus Wittenberg",
+   "desc": "Brewery restaurant in the Beyerhof, a building from 1512 on the market square, with one of the biggest beer gardens in the centre. It brews its own beers, including the Wittenberger Kuckucksbier and Original Pils.",
+   "tip": "Try the Kuckucksbier with a traditional German main dish. Mid-range prices.",
+   "q": "Brauhaus Wittenberg, Markt 6, 06886 Lutherstadt Wittenberg",
+   "ll": [
+    51.86578,
+    12.64392
+   ],
+   "src": [
+    "https://lutherstadt-wittenberg.de/en/plan-book/gastronomy/brauhaus-wittenberg",
+    "https://www.fodors.com/world/europe/germany/saxony-saxony-anhalt-and-thuringia/restaurants/reviews/brauhaus-wittenberg-455177"
+   ]
+  },
+  {
+   "id": "lealtstadtklause",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order the Wittenberger Senfsteak at Altstadtklause",
+   "desc": "Old-town restaurant known for a local dish, a steak topped with pickled cucumber and a mustard-cucumber sauce.",
+   "tip": "Order the Senfsteak; booking is wise at weekends.",
+   "q": "Altstadtklause, Lutherstadt Wittenberg",
+   "ll": [
+    51.8665,
+    12.647
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/2724563"
+   ]
+  },
+  {
+   "id": "leschlosskellerwb",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine in the vaults of the Schlosskeller Wittenberg",
+   "desc": "Cellar restaurant with 16th-century stone walls close to the Schlosskirche, serving German regional cooking.",
+   "tip": "Combine with a visit to the Schlosskirche; ask for a table in the vault.",
+   "q": "Schlosskeller, Schlossstraße, 06886 Lutherstadt Wittenberg",
+   "ll": [
+    51.86598,
+    12.63941
+   ],
+   "src": [
+    "https://fodors.fodors.com/world/europe/germany/saxony-saxony-anhalt-and-thuringia/restaurants/reviews/schlosskeller-455664"
+   ]
+  },
+  {
+   "id": "lecafe3cranach",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have cake at Café3 in the Cranach-Höfe",
+   "desc": "Gallery café in the renovated Cranach courtyards, listed monuments on the market where the Cranach Foundation shows its exhibition. It offers a changing selection of cakes.",
+   "tip": "Pick the cake of the day and sit in the courtyard.",
+   "q": "Galeriecafé Café3, Cranach-Höfe, Markt 4, 06886 Lutherstadt Wittenberg",
+   "ll": [
+    51.86601,
+    12.64353
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/flaeming/gastronomie/galeriecafe-cafe3-in-den-cranach-hoefen/"
+   ]
+  },
+  {
+   "id": "leherrkaethe",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat at Herr Käthe in Torgau",
+   "desc": "Restaurant on Katharinenstraße named after Luther's wife, serving traditional German food with a modern twist.",
+   "tip": "Order a regional main course; the street is next to the Katharina-Luther-Stube.",
+   "q": "Restaurant Herr Käthe, Katharinenstraße 4, 04860 Torgau",
+   "ll": [
+    51.5601,
+    13.0054
+   ],
+   "src": [
+    "https://www.swipein.restaurant/en/restaurant/herr-kathe-torgau-sachsen",
+    "https://www.visitsaxony.com/destinations/cities-and-towns/torgau"
+   ]
+  },
+  {
+   "id": "lemohrruebetorgau",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Hausmannskost at Gaststätte Mohrrübe in Torgau",
+   "desc": "Straightforward German restaurant in Torgau serving home-style dishes.",
+   "tip": "Order the daily Hausmannskost special; check opening hours first.",
+   "q": "Gaststätte Mohrrübe, Torgau",
+   "ll": [
+    51.55193,
+    12.99179
+   ],
+   "src": [
+    "https://speisekarte.menu/restaurants/torgau/mohrruebe"
+   ]
+  },
+  {
+   "id": "leraffinessegrimma",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at Café Restaurant Raffinesse above the Mulde",
+   "desc": "Restaurant and café opened in 2012 beside the Schweizerhaus, with panoramic windows toward the suspension bridge and the Mulde valley.",
+   "tip": "Try the sous-vide salmon; mains cost roughly 15 to 30 euros.",
+   "q": "Restaurant Raffinesse, Colditzer Weg 1, 04668 Grimma",
+   "ll": [
+    51.22713,
+    12.72463
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/grimma/restaurant-raffinesse/"
+   ]
+  },
+  {
+   "id": "lejaegerfischerhuette",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat game and fresh fish at the Jäger- & Fischerhütte",
+   "desc": "Restaurant by the Pfarrteich in the Wermsdorf forest, specialising in game and fresh fish.",
+   "tip": "Order the pond fish or game of the day; combine with Hubertusburg.",
+   "q": "Jäger- und Fischerhütte, Am Pfarrteich 1, 04779 Wermsdorf",
+   "ll": [
+    51.28211,
+    12.89904
+   ],
+   "src": [
+    "https://www.swipein.restaurant/en/restaurant/jager-fischerhutte-wermsdorf-wermsdorf-sachsen",
+    "https://www.komoot.com/highlight/355942"
+   ]
+  },
+  {
+   "id": "leseegasthofhorstsee",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Wermsdorfer Karpfen at the Seegasthof Horstsee",
+   "desc": "Lakeside inn at the Horstsee, whose carp is known beyond the region; the fish are harvested each autumn.",
+   "tip": "Order the carp, ideally in autumn when the harvest takes place.",
+   "q": "Seegasthof Horstsee, Wermsdorf",
+   "ll": [
+    51.2725,
+    12.92204
+   ],
+   "src": [
+    "https://www.visitsaxony.com/gastro/seegasthof-horstsee",
+    "https://www.leipzig.travel/en/then/Wermsdorfer-fish"
+   ]
+  },
+  {
+   "id": "lerruesterhofcolditz",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat German classics at the Rüsterhof in Colditz",
+   "desc": "Well reviewed restaurant serving German cooking in Colditz, ranked first among German restaurants there on one review portal.",
+   "tip": "Reserve ahead in season; combine with Schloss Colditz.",
+   "q": "Rüsterhof, Colditz",
+   "ll": [
+    51.09832,
+    12.82972
+   ],
+   "src": [
+    "https://www.werkenntdenbesten.de/e/28828183/deutsche-kueche-restaurant/colditz/ruesterhof-bewertungen.html"
+   ]
+  },
+  {
+   "id": "levinetabistro",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have lunch at the VINETA Bistro on Störmthaler See",
+   "desc": "Lakeside bistro at the VINETA pier, where you can also rent pedal boats, kayaks and rowing boats.",
+   "tip": "Combine a snack with a boat hire; reserve boats in summer.",
+   "q": "VINETA Bistro, Störmthaler See, Magdeborner Halbinsel, 04463 Großpösna",
+   "ll": [
+    51.22927,
+    12.43995
+   ],
+   "src": [
+    "https://www.leipzig.travel/en/poi/boat-rental-at-the-vineta-bistro-stoermthaler-see"
+   ]
+  },
+  {
+   "id": "legutkahnsdorf",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at Restaurant Gut Kahnsdorf by the Hainer See",
+   "desc": "Restaurant near the harbour and lagoon of the Hainer See in Kahnsdorf, named alongside La Ri and Schillerkaffee as local options.",
+   "tip": "Walk the harbour first; hours vary by season.",
+   "q": "Restaurant Gut Kahnsdorf, Kahnsdorf, 04575 Neukieritzsch",
+   "ll": [
+    51.163,
+    12.43904
+   ],
+   "src": [
+    "https://www.leipzigseen.de/en/die-seen/hainer-see",
+    "https://rausgegangen.de/en/blog/hainer-see--the-5-best-locales-leipzig/"
+   ]
+  },
+  {
+   "id": "lenimbschenschenke",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat in the Klosterschänke of Hotel Kloster Nimbschen",
+   "desc": "Monastery tavern in the former stables and granaries beside the Nimbschen convent ruins.",
+   "tip": "Combine with the ruin walk; check hours before going.",
+   "q": "Hotel Kloster Nimbschen, Klosterschänke, Nimbschener Landstraße, 04668 Grimma",
+   "ll": [
+    51.21627,
+    12.74089
+   ],
+   "src": [
+    "https://www.visitsaxony.com/gastro/monastery-tavern-of-the-hotel-kloster-nimbschen"
+   ]
+  },
+  {
+   "id": "lekanuparkmarkkleeberg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Raft the white water at Kanupark Markkleeberg",
+   "desc": "Artificial white-water course at the Markkleeberger See, home to international canoe slalom races, where visitors can raft or surf.",
+   "tip": "Rafting season usually starts in May; book slots on kanupark-markkleeberg.com and check race dates.",
+   "q": "Kanupark Markkleeberg, Auenhainer Straße 1, 04416 Markkleeberg",
+   "ll": [
+    51.25771,
+    12.42687
+   ],
+   "src": [
+    "https://www.leipzig.travel/en/poi/kanupark-markkleeberg",
+    "https://kanupark-markkleeberg.com/"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "lebearstorgau",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch the bears Bea and Benno at Hartenfels",
+   "desc": "Brown bears have been kept in the castle moat of Torgau since 1425; the current pit dates from 1624, and the main gate crosses it on a bridge. Bea and Benno have lived there since 2015.",
+   "tip": "Check the castle website for feeding times; the bridge is free to cross.",
+   "q": "Bärengraben, Schloss Hartenfels, Schlossstraße 27, 04860 Torgau",
+   "ll": [
+    51.55934,
+    13.00823
+   ],
+   "src": [
+    "https://www.l-iz.de/melder/wortmelder/2024/07/ueppiges-gruen-im-baerengraben-schattige-plaetzchen-fuer-bea-und-benno-596760",
+    "https://www.visit-dresden-elbland.de/en/poi/schloss-hartenfels"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "lewilderrobert",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the narrow-gauge Wilder Robert from Oschatz",
+   "desc": "The Döllnitzbahn is a historic narrow-gauge railway between Oschatz and Mügeln, nicknamed Wilder Robert, with heritage services.",
+   "tip": "Holiday timetables differ; check doellnitzbahn.de for current runs.",
+   "q": "Döllnitzbahn Wilder Robert, Bahnhof Oschatz, 04758 Oschatz",
+   "ll": [
+    51.31135,
+    13.10484
+   ],
+   "src": [
+    "https://www.leipzig.travel/en/poi/doellnitzbahn-narrow-gauge-train-wild-robert",
+    "https://en.wikipedia.org/wiki/D%C3%B6llnitzbahn"
+   ]
+  },
+  {
+   "id": "leheidebiber",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Heide-Biber-Tour from Bad Düben",
+   "desc": "Trail through the Dübener Heide nature park that starts at the NaturparkHaus at the foot of Burg Düben.",
+   "tip": "Pick up a map at the NaturparkHaus tourist information first.",
+   "q": "NaturparkHaus Dübener Heide, Neuhofstraße 3a, 04849 Bad Düben",
+   "ll": [
+    51.59177,
+    12.58179
+   ],
+   "src": [
+    "https://www.leipzig.travel/en/poi/duebener-heide-nature-park-center",
+    "https://lutherstadt-wittenberg.de/en/see-discover/world-heritage-region-destinations/nature-park-duebener-heide"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "lekahnsdorfbeach",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim at the Hainer See beach in Kahnsdorf",
+   "desc": "Beach on the Hainer See, a former lignite pit lake, with a harbour and restaurants nearby.",
+   "tip": "Reviews say the beach can be dirty; check water quality notices.",
+   "q": "Strand Kahnsdorf, Hainer See, 04575 Neukieritzsch",
+   "ll": [
+    51.17581,
+    12.45716
+   ],
+   "src": [
+    "https://freizeitmonster.de/aktivitaeten/orte/strand-kahnsdorf-460424",
+    "https://www.leipzigseen.de/en/die-seen/hainer-see"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "leeilenburgburgberg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the legend path on the Eilenburg Burgberg",
+   "desc": "Circular path on the Burgberg with the Sorbenturm, the only surviving part of the old Ilburg, following the Heinzelmännchen legend, with views over the town.",
+   "tip": "Short walk from the centre; free.",
+   "q": "Sorbenturm, Burgberg, 04838 Eilenburg",
+   "ll": [
+    51.46002,
+    12.62287
+   ],
+   "src": [
+    "https://eilenburg.de/en/tourism/tourist-information",
+    "https://www.leipzig.travel/fileadmin/Mediendatenbank/4_B2B/2_Medien/1_Recherchetexte/Eilenburg-ein-Stadtportraet-leipzig-travel.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "leringelnatzpfad",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Follow the Ringelnatz Trail through Wurzen",
+   "desc": "Marked trail with stelae linking 13 sights in Wurzen, including the castle, the Dom and the museum with the Ringelnatz collection; the poet was born in the town.",
+   "tip": "Starts around the Domplatz; the museum was reported temporarily closed for restoration, so check first.",
+   "q": "Ringelnatzpfad, Domplatz, 04808 Wurzen",
+   "ll": [
+    51.36881,
+    12.73229
+   ],
+   "src": [
+    "https://maps.adac.de/poi/ringelnatzpfad-wurzen",
+    "https://www.leipzig.travel/en/poi/wurzen-museum-of-cultural-history-with-ringelnatz-collection"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "lewbchristmasmarket",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Browse Wittenberg's Christmas market at the Cranach-Höfe",
+   "desc": "Christmas market in the old town of Wittenberg, with the Cranach-Höfe among its venues.",
+   "tip": "Check dates on the city site; evenings are busiest.",
+   "q": "Cranach-Höfe, Markt 4, 06886 Lutherstadt Wittenberg",
+   "ll": [
+    51.86672,
+    12.64302
+   ],
+   "src": [
+    "https://lutherstadt-wittenberg.de/en/events/christmas-markets"
+   ],
+   "months": [
+    11,
+    12
+   ]
+  },
+  {
+   "id": "lecolditzweihnacht",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Visit the fairy-tale Christmas at Schloss Colditz",
+   "desc": "Märchen-Schlossweihnacht, a Christmas market in the castle, held on 5 and 6 December in 2026.",
+   "tip": "Check the Schlösserland Sachsen site for prices.",
+   "q": "Schloss Colditz, Schlossgasse 1, 04680 Colditz",
+   "ll": [
+    51.13105,
+    12.80723
+   ],
+   "src": [
+    "https://www.festivalsindeutschland.de/festival/maerchen-schlossweihnacht-colditz"
+   ],
+   "months": [
+    12
+   ]
+  },
+  {
+   "id": "lekarpfenabfischen",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Join the Horstsee carp harvest in Wermsdorf",
+   "desc": "The Horstsee carp is harvested each autumn with a ceremonial carp harvest and the election of a fish queen, usually in the second weekend of October.",
+   "tip": "Go on the second weekend of October; check wermsdorf.de for the date.",
+   "q": "Horstsee, Wermsdorf",
+   "ll": [
+    51.2764,
+    12.92363
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Wermsdorf",
+    "https://www.leipzig.travel/en/then/Wermsdorfer-fish"
+   ],
+   "months": [
+    10
+   ]
+  },
+  {
+   "id": "legrimmahaengebruecke",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cross the suspension bridge over the Mulde in Grimma",
+   "desc": "Footbridge over the Mulde near the Schweizerhaus, with views of the valley.",
+   "tip": "Combine with a meal at Raffinesse nearby.",
+   "q": "Hängebrücke, Colditzer Weg, 04668 Grimma",
+   "ll": [
+    51.22809,
+    12.72582
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/grimma/restaurant-raffinesse/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "leagrapark",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Stroll through the agra-Park in Markkleeberg",
+   "desc": "Large park at the edge of Leipzig, with a heritage restaurant and lake views; the Markkleeberg section is open all year, 6 am to 11 pm.",
+   "tip": "Parking costs 1 euro per hour near the restaurant.",
+   "q": "agra-Park, 04416 Markkleeberg",
+   "ll": [
+    51.28306,
+    12.37373
+   ],
+   "src": [
+    "https://www.leipzig.travel/en/then/agra-park-markkleeberg"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

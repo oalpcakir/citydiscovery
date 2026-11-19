@@ -1,0 +1,46 @@
+{
+ "region": "goettingen",
+ "dishes": [
+  {
+   "id": "goettingen-feldkieker",
+   "name": "Göttinger Feldkieker",
+   "local": "",
+   "icon": "🌭",
+   "desc": "Coarse air-dried mettwurst of pork, with protected origin. Göttingen's best-known sausage.",
+   "kw": [
+    "feldkieker",
+    "feldgieker"
+   ]
+  },
+  {
+   "id": "goettingen-stracke",
+   "name": "Eichsfelder Stracke",
+   "local": "",
+   "icon": "🥓",
+   "desc": "Straight air-dried sausage of the Eichsfeld, slow-matured for months and sliced thin.",
+   "kw": [
+    "stracke"
+   ]
+  },
+  {
+   "id": "goettingen-kaelberblase",
+   "name": "Eichsfelder Kälberblase",
+   "local": "",
+   "icon": "🌭",
+   "desc": "Raw sausage stuffed into a calf bladder and matured for months. Eaten on bread with pickled cucumbers.",
+   "kw": [
+    "kälberblase"
+   ]
+  },
+  {
+   "id": "goettingen-schmandkuchen",
+   "name": "Eichsfelder Schmandkuchen",
+   "local": "",
+   "icon": "🍰",
+   "desc": "Flat cake with a sour cream and custard topping, baked in the Eichsfeld.",
+   "kw": [
+    "schmandkuchen"
+   ]
+  }
+ ]
+}

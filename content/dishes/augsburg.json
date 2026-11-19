@@ -1,0 +1,50 @@
+{
+ "region": "augsburg",
+ "dishes": [
+  {
+   "id": "augsburg-datschi",
+   "name": "Augsburger Zwetschgendatschi",
+   "local": "",
+   "icon": "🥧",
+   "desc": "Flat plum cake on a thin dough base, baked on a tray in September and October. The signature cake of Augsburg and Bavarian Swabia.",
+   "kw": [
+    "zwetschgendatschi",
+    "datschi",
+    "plum cake"
+   ]
+  },
+  {
+   "id": "augsburg-bubespitzle",
+   "name": "Bubenspitzle",
+   "local": "Schupfnudeln mit Sauerkraut",
+   "icon": "🥔",
+   "desc": "Finger-shaped potato noodles fried in butter, served with sauerkraut and bacon. A homely staple of Swabian kitchens around Augsburg.",
+   "kw": [
+    "bubenspitzle",
+    "schupfnudeln",
+    "bubespitzle"
+   ]
+  },
+  {
+   "id": "augsburg-krautkrapfen",
+   "name": "Krautkrapfen",
+   "local": "",
+   "icon": "🥟",
+   "desc": "Dough pockets filled with seasoned cabbage and bacon, baked or fried. A rustic Bavarian Swabian dish of the Lech and Danube villages.",
+   "kw": [
+    "krautkrapfen"
+   ]
+  },
+  {
+   "id": "augsburg-zwiebelrostbraten",
+   "name": "Zwiebelrostbraten",
+   "local": "",
+   "icon": "🥩",
+   "desc": "Pan-fried beef roast topped with fried onions in gravy, served with Spätzle. A standard of Swabian inns in the Augsburg area.",
+   "kw": [
+    "zwiebelrostbraten",
+    "spätzle"
+   ]
+  }
+ ]
+}

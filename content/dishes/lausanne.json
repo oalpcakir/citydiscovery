@@ -1,0 +1,74 @@
+{
+  "region": "lausanne",
+  "dishes": [
+    {
+      "id": "lausanne-papet-vaudois",
+      "name": "Papet vaudois",
+      "local": "",
+      "icon": "🥔",
+      "desc": "Leeks stewed with potatoes until soft, served with a smoked Vaud sausage (saucisson vaudois or saucisse aux choux). The canton's signature winter dish, found in country restaurants and at autumn butcher events.",
+      "kw": [
+        "papet vaudois",
+        "papet",
+        "saucisson vaudois"
+      ]
+    },
+    {
+      "id": "lausanne-taille-greubons",
+      "name": "Taillé aux greubons",
+      "local": "",
+      "icon": "🥐",
+      "desc": "Flaky savoury pastry studded with pork cracklings, a Vaud bakery classic since the late 19th century. Eaten at aperitif time or with a bowl of soup.",
+      "kw": [
+        "taillé aux greubons",
+        "greubons",
+        "taillé"
+      ]
+    },
+    {
+      "id": "lausanne-malakoff",
+      "name": "Malakoff",
+      "local": "",
+      "icon": "🧀",
+      "desc": "A deep-fried cheese fritter with a soft, molten centre, born in the La Côte villages around Vinzel and Luins. Served hot with salad or as a snack in local cafés.",
+      "kw": [
+        "malakoff"
+      ]
+    },
+    {
+      "id": "lausanne-vacherin-mont-dor",
+      "name": "Vacherin Mont-d'Or",
+      "local": "",
+      "icon": "🫕",
+      "desc": "Soft, spruce-banded winter cheese made in the Vallée de Joux and the Jura of Vaud, eaten baked in its box with potatoes. Sold only from autumn to spring.",
+      "kw": [
+        "vacherin",
+        "mont-d'or",
+        "mont d'or"
+      ]
+    },
+    {
+      "id": "lausanne-filets-perche",
+      "name": "Perch fillets",
+      "local": "Filets de perche",
+      "icon": "🐟",
+      "desc": "Small lake perch fillets, pan-fried in butter and served with fries or potatoes and lemon. A staple of the Lake Geneva shore restaurants from Lausanne to Vevey and Morges.",
+      "kw": [
+        "filets de perche",
+        "perch"
+      ]
+    },
+    {
+      "id": "lausanne-salee-sucre",
+      "name": "Salée au sucre",
+      "local": "",
+      "icon": "🥧",
+      "desc": "A round of yeast dough topped with cream and sugar, a Vaud bakery and village tradition, listed in the canton's living-heritage inventory with the raisinée tarts. Best eaten warm.",
+      "kw": [
+        "salée",
+        "raisinée",
+        "tarte au sucre"
+      ]
+    }
+  ]
+}

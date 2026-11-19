@@ -1,0 +1,286 @@
+{
+ "new": [
+  {
+   "id": "vlescaliers",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb the covered Escaliers du Marché to the Cathedral",
+   "desc": "A covered wooden staircase of 177 steps links Place de la Palud to the cathedral hill in the Cité. It is first recorded in the 13th century and took its present form in 1717-1719, beside a steep cobbled lane.",
+   "tip": "Free at any hour. Walk up in the morning light, then continue to the cathedral esplanade for the view.",
+   "q": "Escaliers du Marché, Rue Pierre-Viret, Cité, 1003 Lausanne",
+   "ll": [
+    46.523,
+    6.6335
+   ],
+   "src": [
+    "https://www.lausanne-tourisme.ch/en/explore/heritage-and-history/escaliers-du-marche/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "vlpalud",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Fontaine de la Justice on Place de la Palud",
+   "desc": "The square has been the seat of Lausanne's government for five centuries. It holds the Renaissance Fontaine de la Justice (statue of 1585, now a copy) and the Hôtel de Ville built 1673-1675 with two dragon gargoyles.",
+   "tip": "Come on market days (Wednesday and Saturday) for the busiest atmosphere. Look up at the town hall gargoyles.",
+   "q": "Place de la Palud, Cité, 1003 Lausanne",
+   "ll": [
+    46.52245,
+    6.633
+   ],
+   "src": [
+    "https://www.lausanne-tourisme.ch/en/explore/fountain-place-de-la-palud"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "vlbessieres",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Cross the Pont Bessières over the Flon valley",
+   "desc": "A metal arch bridge with an 80 m span, built 1908-1910 and opened on 24 October 1910 from a bequest by the banker Charles Bessières. It links the Cité hill to Rue Caroline and now has an m2 metro station.",
+   "tip": "Walk across for views over the Flon valley and the rooftops. It is free and best at golden hour.",
+   "q": "Pont Bessières, Rue Caroline, 1003 Lausanne",
+   "ll": [
+    46.52086,
+    6.63686
+   ],
+   "src": [
+    "https://www.lausanne.ch/en/portrait/carte-identite/architecture-et-monuments/patrimoine-architectural/lausanne-1900/pont-bessieres.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "vlvidytheatre",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Catch a show at the Théâtre Vidy-Lausanne",
+   "desc": "Housed in a pavilion designed by Max Bill for the 1964 National Exhibition, it is one of Europe's large creative theatres. Around fifty theatre, dance, circus and performance shows are staged each season.",
+   "tip": "Check the programme for surtitled shows. Bus or walk from the lake, then a drink on the terrace.",
+   "q": "Théâtre Vidy-Lausanne, Avenue Émile-Henri-Jaques-Dalcroze 5, Vidy, 1007 Lausanne",
+   "ll": [
+    46.51277,
+    6.61086
+   ],
+   "src": [
+    "https://www.lausanne-tourisme.ch/en/P954/theatre-de-vidy"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "vlbrasserietunnel",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink house-brewed beer at the Brasserie du Château",
+   "desc": "Founded in 1997, it is described as Lausanne's first craft brewery. The beer is brewed on site and served in a pizzeria and brew-pub setting near the Flon.",
+   "tip": "Try the house beers with a shared pizza. Opening hours vary by day, so check ahead.",
+   "q": "Brasserie Artisanale du Château, Place du Tunnel 1, 1005 Lausanne",
+   "ll": [
+    46.52472,
+    6.63459
+   ],
+   "src": [
+    "https://www.lausanne-tourisme.ch/en/explore/brasserie-du-chateau/"
+   ]
+  },
+  {
+   "id": "vlmoutarlier",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have tea and pastries at Moutarlier on Place de la Palud",
+   "desc": "A family-run house of artisan pastry chefs, chocolatiers and caterers with a tea-room right on the old town's main square.",
+   "tip": "Pair a pastry with tea after the market. Good for a break between the cathedral and the lake.",
+   "q": "Moutarlier Boulangerie Confiserie, Place de la Palud, 1003 Lausanne",
+   "ll": [
+    46.52225,
+    6.6329
+   ],
+   "src": [
+    "https://lausanne-tourisme.ch/en/explore/moutarlier-bakery-and-confectionery"
+   ]
+  },
+  {
+   "id": "vlcavelevain",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Queue for sourdough at the Cave à Levain on Rue de l'Ale",
+   "desc": "A small bakery stall whose breads and pastries are noted by Lausanne Tourisme for their exceptional quality, often with a queue outside.",
+   "tip": "Arrive early for the best choice. Check the current opening days.",
+   "q": "Cave à Levain, Rue de l'Ale, 1003 Lausanne",
+   "ll": [
+    46.5203,
+    6.6324
+   ],
+   "src": [
+    "https://lausanne-tourisme.ch/en/explore/cave-a-levain"
+   ]
+  },
+  {
+   "id": "vlvidybeach",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Swim at the Vidy lakeshore beach by the theatre",
+   "desc": "A small beach lies on the lake in front of the Théâtre de Vidy, part of more than 1.5 km of bathing shore west of Vidy port. Bars nearby serve drinks after a swim.",
+   "tip": "Go on a warm weekday morning to avoid crowds. Free access; no lifeguard outside season.",
+   "q": "Plage de Vidy, Chemin du Bois-de-Vaux, Vidy, 1007 Lausanne",
+   "ll": [
+    46.51896,
+    6.59867
+   ],
+   "src": [
+    "https://www.lausanne-tourisme.ch/en/the-lausanner/articles/no-need-to-leave-lausanne-to-go-to-the-beach-there-is-lake-geneva"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "vlconfrerie",
+   "cat": "gor",
+   "area": "riviera",
+   "title": "Discover Fête des Vignerons costumes at the Confrérie museum",
+   "desc": "Housed in a 16th-century patrician house that served as the Bernese bailiffs' residence from 1734 to 1798. It shows costumes, engravings, models and film from the Fête des Vignerons, held in Vevey since 1797 and on UNESCO's intangible heritage list since 2016.",
+   "tip": "Entry is free and a visit takes about 45 minutes. Check current opening hours.",
+   "q": "Musée de la Confrérie des Vignerons, Rue du Château 2, 1800 Vevey",
+   "ll": [
+    46.46841,
+    6.85332
+   ],
+   "src": [
+    "https://www.vaud.ch/en/tourism/activites/brotherhood-of-winegrowers-museum",
+    "https://en.wikipedia.org/wiki/F%C3%AAte_des_Vignerons"
+   ],
+   "tags": [
+    "rainy day",
+    "free"
+   ]
+  },
+  {
+   "id": "vlcauxpalace",
+   "cat": "gor",
+   "area": "riviera",
+   "title": "Tour the Belle Époque Caux Palace above Montreux",
+   "desc": "Designed by Eugène Jost and inaugurated on 7 July 1902, the palace is a Swiss heritage site of national significance. It housed Jewish refugees in 1944 and is now a conference centre run by Initiatives of Change.",
+   "tip": "Guided tours run on set dates, from about CHF 20; check the schedule. Take the Rochers-de-Naye train to Caux.",
+   "q": "Caux Palace, Route de Caux 80, 1824 Caux, Montreux",
+   "ll": [
+    46.43149,
+    6.93666
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Caux_Palace_Hotel",
+    "https://www.iofc.ch/guided-tours-caux-palace"
+   ]
+  },
+  {
+   "id": "vlmontpelerin",
+   "cat": "dene",
+   "area": "riviera",
+   "title": "Ride the Vevey-Mont-Pèlerin funicular above Lavaux",
+   "desc": "Built in 1899 and opened in 1900, the funicular climbs about 1,500 m in around 11 minutes through the vineyards, stopping at Corseaux and Chardonne. From the top, a walk leads to the Plein Ciel tower and 360-degree views.",
+   "tip": "Combine with Chasselas tasting in Chardonne on the way down. Departures about every 20 minutes.",
+   "q": "Vevey-Funi, Vevey-Chardonne-Mont-Pèlerin funicular, Vevey",
+   "ll": [
+    46.46856,
+    6.83599
+   ],
+   "src": [
+    "https://www.mob.ch/en/stories/vevey-mont-pelerin-funicular",
+    "https://en.wikipedia.org/wiki/Vevey%E2%80%93Chardonne%E2%80%93Mont_P%C3%A8lerin_funicular_railway"
+   ]
+  },
+  {
+   "id": "vlvinorama",
+   "cat": "ye",
+   "area": "riviera",
+   "title": "Taste Lavaux wines at the Lavaux Vinorama in Rivaz",
+   "desc": "The discovery and tasting centre for the Lavaux terraces, a UNESCO World Heritage site, offers a selection of 250 to 300 wines. Tasting packages start around CHF 20 per person.",
+   "tip": "Arrive by train to Rivaz and try a flight of Chasselas. Hours vary by season; closed some Tuesdays in October.",
+   "q": "Lavaux Vinorama, Route du Lac 2, 1071 Rivaz",
+   "ll": [
+    46.4749,
+    6.77743
+   ],
+   "src": [
+    "https://www.lausanne-tourisme.ch/en/explore/lavaux-vinorama",
+    "https://www.myswitzerland.com/en/experiences/lavaux-vinorama"
+   ]
+  },
+  {
+   "id": "vlmontreuxjazz",
+   "cat": "dene",
+   "area": "riviera",
+   "title": "Hear a night of the Montreux Jazz Festival at the Stravinski",
+   "desc": "The festival has been held in Montreux for decades, with two main stages at the Convention Centre: the Auditorium Stravinski (about 3,500 to 4,000) and Miles Davis Hall (about 1,800). It celebrated its 60th anniversary in 2026.",
+   "tip": "Book early for headliners. Free concerts also happen along the lakeside promenade.",
+   "q": "Auditorium Stravinski, Avenue Claude-Nobs 5, 1820 Montreux",
+   "ll": [
+    46.43914,
+    6.90478
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Montreux_Jazz_Festival",
+    "https://www.montreuxjazzfestival.com/en/"
+   ],
+   "months": [
+    7
+   ]
+  },
+  {
+   "id": "vlzurcher",
+   "cat": "ye",
+   "area": "riviera",
+   "title": "Sit down at the Confiserie Zürcher on Rue du Lac in Montreux",
+   "desc": "A confiserie with a café and tea room near the casino, listed as serving visitors since 1879. Known for chocolates and pastries.",
+   "tip": "Reserve for a window table on weekends. Pair a pastry with a coffee after the lakefront.",
+   "q": "Confiserie Zürcher, Rue du Lac 40, 1820 Montreux",
+   "ll": [
+    46.4327,
+    6.9107
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/759706/confiserie-zurcher-montreux"
+   ]
+  },
+  {
+   "id": "vllutrybeach",
+   "cat": "dene",
+   "area": "riviera",
+   "title": "Swim at the Lutry beach below the old village",
+   "desc": "A beach about 200 m long popular with locals, with a snack bar open in the season. It is a short 15-minute hop from central Lausanne.",
+   "tip": "Bus 9 or train to Lutry, then walk to the lake. Busy on hot weekends.",
+   "q": "Plage de Lutry, Quai Gustave-Doret, 1095 Lutry",
+   "ll": [
+    46.49999,
+    6.69211
+   ],
+   "src": [
+    "https://www.lausanne-tourisme.ch/en/the-lausanner/articles/no-need-to-leave-lausanne-to-go-to-the-beach-there-is-lake-geneva"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  }
+ ]
+}

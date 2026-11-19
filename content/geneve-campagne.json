@@ -1,0 +1,625 @@
+{
+ "new": [
+  {
+   "id": "gcallondon",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Allondon valley from Russin to Dardagny",
+   "desc": "The Allondon is a wooded river valley and nature reserve in the west of the canton, with paths on both banks linked by the Baillets bridge. The classic walk of about two hours runs between Russin and Dardagny through woods and clearings.",
+   "tip": "Take the RER to Russin and walk to Dardagny, where the Pro Natura nature centre is. Picnic areas line the forest edge; the river is too deep to swim but fine for a paddle.",
+   "q": "Vallon de l'Allondon, Dardagny, Genève",
+   "ll": [
+    46.21604,
+    5.99576
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-us/experiences/route/through-the-allondon-nature-reserve/",
+    "https://www.myswitzerland.com/en/destinations/dardagny/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gcmoulinvert",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Watch for beavers at the Moulin de Vert reserve",
+   "desc": "The Moulin de Vert in Cartigny is the largest nature reserve in the canton, below the Verbois dam and at the foot of the Roches de Cartigny cliffs. The mill disappeared in 1939 and the reserve was created in 1970, the first with a cantonal protection regulation. Beavers, many birds and turtles live around its ponds.",
+   "tip": "Five observation hides stand along the paths by the Rhône and the ponds. Stay on marked paths and come early or at dusk for wildlife.",
+   "q": "Réserve naturelle du Moulin-de-Vert, Cartigny, Genève",
+   "ll": [
+    46.17498,
+    6.02222
+   ],
+   "src": [
+    "https://www.ge.ch/document/14414/annexe/3",
+    "https://www.komoot.com/smarttour/1506735"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gcverbois",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Verbois dam on the Rhône",
+   "desc": "The Verbois dam on the Rhône opened in 1944 and is the biggest source of electricity in the canton of Geneva. It is run by SIG, which offers guided tours of the installations, including Kaplan turbines and fish passes.",
+   "tip": "Tours are for groups of 10 to 20 people aged 10 and over, on weekdays, about 1h30, in French or English, booked with SIG (visites.sites@sig-ge.ch).",
+   "q": "Barrage de Verbois, Route de l'Usine-de-Verbois 31, Russin, Genève",
+   "ll": [
+    46.19304,
+    6.02886
+   ],
+   "src": [
+    "https://www.geneve.com/en/attractions/detail/the-verbois-dam",
+    "https://ww2.sig-ge.ch/en/node/101"
+   ]
+  },
+  {
+   "id": "gcchateauvieux",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at Domaine de Châteauvieux in Peney-Dessus",
+   "desc": "Philippe Chevrier's restaurant in Peney-Dessus holds a Michelin star and a Gault&Millau score of 19/20. It is a Relais & Châteaux member serving modern French cuisine among the vineyards of Satigny.",
+   "tip": "Dinner is the main service and Monday is usually closed, so book ahead. Expect a top price level.",
+   "q": "Domaine de Châteauvieux, Chemin de Châteauvieux 16, Peney-Dessus, Satigny, Genève",
+   "ll": [
+    46.20152,
+    6.03868
+   ],
+   "src": [
+    "https://guide.michelin.com/ch/fr/geneve-region/satigny/restaurant/domaine-de-chateauvieux",
+    "https://www.geneve.com/en/restaurants/domaine-de-chateauvieux"
+   ]
+  },
+  {
+   "id": "gchutins",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Taste wines at Domaine Les Hutins in Dardagny",
+   "desc": "Domaine Les Hutins is a family estate founded in 1901 and now run by the fifth generation, Émilienne Hutin Zumbach. Its wines regularly appear at Geneva's Sélection des Vins de Genève, and it sells on site.",
+   "tip": "Phone +41 22 754 12 05 to arrange a tasting, as hours are not fixed.",
+   "q": "Domaine Les Hutins, Chemin de Brive 8, Dardagny, Genève",
+   "ll": [
+    46.21095,
+    6.02133
+   ],
+   "src": [
+    "https://www.hachette-vins.com/guide-vins/producteurs/17303/domaine-les-hutins",
+    "https://www.winetraveler.com/winery/domaine-les-hutins/"
+   ]
+  },
+  {
+   "id": "gcdeviniere",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Tour the cellar at Domaine de la Devinière in Satigny",
+   "desc": "Satigny is described as the largest wine-producing commune in Switzerland. The Domaine de la Devinière on the Route du Mandement offers a tasting and cellar visit in the heart of the Mandement vineyards.",
+   "tip": "Visits are on request, usually Wednesday afternoon and Saturday morning, for at least four people, about CHF 25 per adult.",
+   "q": "Domaine de la Devinière, Route du Mandement, Satigny, Genève",
+   "ll": [
+    46.21739,
+    6.0366
+   ],
+   "src": [
+    "https://www.geneve.com/en/attractions/detail/tasting-and-cellar-visit-at-domaine-de-la-deviniere"
+   ]
+  },
+  {
+   "id": "gcboisjussy",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Bois de Jussy and its nature reserves",
+   "desc": "The forest massif of Jussy holds reserves such as Bois Rosset, Bois Vieux (centred on a pond dug in 1969) and Les Feuillets. Old border stones from the 1816 Treaty of Turin stand in the woods along the French frontier.",
+   "tip": "A loop of about 9.6 km with little climbing starts in Jussy; bus 32 serves Jussy-Château. Keep to marked paths and keep dogs on a leash.",
+   "q": "Bois de Jussy, Jussy, Genève",
+   "ll": [
+    46.24949,
+    6.28643
+   ],
+   "src": [
+    "https://www.ge.ch/document/14430/telecharger",
+    "https://www.komoot.com/smarttour/e1397988567/jussy-and-its-surroundings-loop-through-the-grands-bois"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gcaire",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stroll the renatured river Aire at Lully and Confignon",
+   "desc": "The Aire was straightened into a canal in the 20th century and has been given back its meanders in stages since 2008. The project won the Council of Europe Landscape Prize and includes a promenade with water gardens and lawns.",
+   "tip": "Walk the promenade between the Lully and Marais bridges; Bernex, Confignon and Lully have bus links. Flat and good for a bike ride.",
+   "q": "Promenade de l'Aire, Lully, Bernex, Genève",
+   "ll": [
+    46.16475,
+    6.0767
+   ],
+   "src": [
+    "https://www.ge.ch/dossier/geneve-canton-eau/rivieres-vivantes/zoom-aire-projet-emblematique",
+    "https://www.ge.ch/document/vallon-aire"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gclignon",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Marvel at the 1 km long Cité du Lignon in Vernier",
+   "desc": "Built in two phases in 1967 and 1971, Le Lignon holds about 2,780 apartments for nearly 6,800 people. Its zigzag slab is about 1,065 m long, billed as the longest building in Switzerland, with two towers of 26 and 30 floors. The architects were Addor, Julliard and Bolliger.",
+   "tip": "Walk the full length for the scale, then look at the renovation by Jaccaud + Associés (2012 to 2022).",
+   "q": "Cité du Lignon, Vernier, Genève",
+   "ll": [
+    46.20359,
+    6.09805
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/switzerlands-longest-apartment-block-cite-du-lignon/",
+    "https://en.wikipedia.org/wiki/Le_Lignon"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gcpointebise",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the reed-bed tower at Pointe à la Bise",
+   "desc": "The Pointe à la Bise at Collonge-Bellerive is a lakeside nature reserve managed by Pro Natura Genève. A teaching trail leads to an observation tower in the reeds, and the Centre Nature has welcomed visitors since 1999.",
+   "tip": "Entry is free; in winter the centre opens only on Sunday. Take bus E to La Bise.",
+   "q": "Centre Nature de la Pointe à la Bise, Chemin de la Réserve, Collonge-Bellerive, Genève",
+   "ll": [
+    46.24439,
+    6.19357
+   ],
+   "src": [
+    "https://www.geneve.com/en/attractions/detail/pointe-a-la-bise-nature-centre-pro-natura",
+    "https://www.ge.ch/document/14433/telecharger"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gcsaugy",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim at the Bains du Saugy in Genthod",
+   "desc": "The Bains du Saugy is one of Geneva's newer lake beaches, with reed beds planted with native species that shelter wildlife, including nesting swans.",
+   "tip": "No lifeguards on duty, so swim at your own risk. Free to enter; bring a picnic.",
+   "q": "Bains du Saugy, Genthod, Genève",
+   "ll": [
+    46.25951,
+    6.159
+   ],
+   "src": [
+    "https://torpille.ch/listing/bains-de-saugy/",
+    "https://www.letemps.ch/societe/une-nouvelle-histoire-deau-vivre-genthod"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "gcportchoiseul",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Picnic and swim at Port-Choiseul in Versoix",
+   "desc": "Port-Choiseul was planned in the 18th century as a fortified trading port promoted by the Duke of Choiseul and Voltaire. Work stopped in 1770 and the marina was rebuilt in 1962 to 1963. Today a pebble beach with lawn, shade trees, barbecues and a playground lies beside it.",
+   "tip": "Open daily 8:00 to 22:00 and free. No lifeguards.",
+   "q": "Plage de Port-Choiseul, Versoix, Genève",
+   "ll": [
+    46.28952,
+    6.17071
+   ],
+   "src": [
+    "https://www.badi-info.ch/a/versoix-plage.html",
+    "https://hls-dhs-dss.ch/fr/articles/002926"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "gccreuxgenthod",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order lake perch fillets at the Creux-de-Genthod",
+   "desc": "The Restaurant du Creux-de-Genthod stands on the lakeside at Genthod, and its lake-fish menu is known for filets de perche, eaten on the terrace.",
+   "tip": "Reviews give a weekday lunch near CHF 51; book for sunny weekends.",
+   "q": "Restaurant du Creux-de-Genthod, Route du Creux-de-Genthod 29, Genthod, Genève",
+   "ll": [
+    46.26395,
+    6.16365
+   ],
+   "src": [
+    "https://www.geneve.com/en/restaurants/restaurant-du-creux-de-genthod",
+    "https://search.ch/tel/genthod/route-du-creux-de-genthod-29/restaurant-du-creux-de-genthod.en.html"
+   ]
+  },
+  {
+   "id": "gcpetitlac",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat perch fillets at Le Petit Lac in Corsier-Port",
+   "desc": "Le Petit Lac opened in 2010 at Quai de Corsier 14 and serves seafood and the local speciality, perch fillets, on a large terrace by the water.",
+   "tip": "It can be reached by CGN lake boat from Geneva; book for the terrace.",
+   "q": "Le Petit Lac, Quai de Corsier 14, Corsier, Genève",
+   "ll": [
+    46.2665,
+    6.21135
+   ],
+   "src": [
+    "https://www.tripadvisor.co.nz/Restaurant_Review-g1897680-d1897697-Reviews-Restaurant_Le_Petit_Lac-Corsier.html",
+    "https://www.geneve.com/en/eat-drink/restaurants/perche-fillets-restaurant-in-geneva"
+   ]
+  },
+  {
+   "id": "gcsoleilcorsier",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have fondue at the Café du Soleil in Corsier",
+   "desc": "This family-run village café-restaurant at Chemin du Château 5 in Corsier serves perch fillets and fondue among its homemade specialities, and is recommended by Switzerland Tourism.",
+   "tip": "Do not confuse it with the Café du Soleil in Petit-Saconnex. Book at weekends.",
+   "q": "Café-Restaurant du Soleil, Chemin du Château 5, Corsier, Genève",
+   "ll": [
+    46.26244,
+    6.22487
+   ],
+   "src": [
+    "https://www.geneve.com/en/restaurants/cafe-restaurant-du-soleil",
+    "https://www.myswitzerland.com/en/experiences/food-wine/restaurant/cafe-du-soleil/"
+   ]
+  },
+  {
+   "id": "gcsavonniere",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim at the Plage de la Savonnière in Collonge-Bellerive",
+   "desc": "A pebble beach on Chemin Armand-Dufaux with large lawns and many trees for shade, one of the canton's free swimming access points on the left bank.",
+   "tip": "Bring shoes for the pebbles; no lifeguard.",
+   "q": "Plage de la Savonnière, Chemin Armand-Dufaux 13, Collonge-Bellerive, Genève",
+   "ll": [
+    46.25811,
+    6.20925
+   ],
+   "src": [
+    "https://thingstodoingeneva.ch/best-beaches-geneva/",
+    "https://www.ge.ch/dossier/geneve-canton-eau/usages-eau/baignade-eau-libre"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "gcmeyrinalpin",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander the Jardin botanique alpin of Meyrin",
+   "desc": "The garden grew out of a villa and park of 1899, was abandoned after its owner Gras died in 1952, then bought by the commune in 1960 and opened in May 1968. It is planted with cedars, oaks, sequoias and pines.",
+   "tip": "Reached by tram 14 or 18 or bus 57. In summer the Cairn villa hosts the Été au Jardin programme.",
+   "q": "Jardin botanique alpin, Chemin du Jardin-Alpin 9, Meyrin, Genève",
+   "ll": [
+    46.22731,
+    6.08182
+   ],
+   "src": [
+    "https://torpille.ch/listing/jardin-botanique-alpin-de-meyrin/",
+    "https://www.meyrin.ch/sites/default/files/inline-files/histoire-du-jardin-botanique-alpin.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gcpierreauxdames",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Taste organic wine at La Pierre-aux-Dames in Troinex",
+   "desc": "The maison forte at Troinex runs a vineyard and farm with poultry and Angus cattle, and offers cellar tastings with a small regional aperitif. The estate is certified organic and makes natural wines.",
+   "tip": "The farm shop opens Saturday mornings at route de Bossey 4; visits are booked via Geneva Tourism.",
+   "q": "Domaine de la Pierre-aux-Dames, Route de Bossey 4, Troinex, Genève",
+   "ll": [
+    46.15375,
+    6.15168
+   ],
+   "src": [
+    "https://www.geneve.com/en/attractions/the-maison-forte-welcomes-you-to-the-life-of-its-vineyard-la-pierre-aux-dames"
+   ]
+  },
+  {
+   "id": "gccuriades",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk to the Signal de Bernex above Domaine des Curiades",
+   "desc": "The Signal de Bernex (509.8 m) gives views over the vineyards of Bernex-Lully and the canton. The Domaine des Curiades lies below and can be combined with a tasting.",
+   "tip": "Start from Chemin des Curiades; phone the estate to arrange a tasting.",
+   "q": "Domaine des Curiades, Chemin des Curiades, Bernex, Genève",
+   "ll": [
+    46.16535,
+    6.07447
+   ],
+   "src": [
+    "https://prod.zip.ch/en/domaine-des-curiades-chemin-des-curiades-bernex-oxJg02kKEM",
+    "https://www.komoot.com/smarttour/e1397227267/discovery-of-the-south-of-bernex-loop-through-the-vineyards-from-sezenove"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gcchancy",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Follow the Rhône from the Bois de Chancy",
+   "desc": "A family-friendly loop from Chancy, in the far west of the canton, passes through the Bois de Chancy to the banks of the Rhône along the French border, with modest climbing.",
+   "tip": "Take the bus to Chancy village; about 6 km, allow two hours.",
+   "q": "Chancy, Genève",
+   "ll": [
+    46.14662,
+    5.97468
+   ],
+   "src": [
+    "https://www.visorando.com/en/walk-du-bois-de-chancy-aux-berges-du-rhone/",
+    "https://www.komoot.com/highlight/261758"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gccartigny",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Cartigny, a protected village of the Champagne genevoise",
+   "desc": "Cartigny, first named in 1220, lies at the centre of the Champagne genevoise and the whole village is on the Swiss inventory of sites to protect. Geneva obtained it in 1754.",
+   "tip": "Pair it with the Moulin de Vert walk; refreshments are available in the village.",
+   "q": "Cartigny, Genève",
+   "ll": [
+    46.1738,
+    6.029
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Cartigny,_Geneva",
+    "https://hls-dhs-dss.ch/fr/articles/007638/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gcdardagnyvillage",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Dardagny, the vineyard village beneath its castle",
+   "desc": "Dardagny is a well-known village of the Mandement winegrowing area, dominated by its 16th-century castle, with many estates and the Pro Natura nature centre of the Allondon nearby.",
+   "tip": "Combine it with Domaine de la Roche or Les Hutins for wine and the Allondon walk.",
+   "q": "Château de Dardagny, Dardagny, Genève",
+   "ll": [
+    46.19422,
+    5.99538
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/destinations/dardagny/",
+    "https://winetravelguides.com/switzerland/geneva/dardagny-geneva"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gcbarbiermueller",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Discover tribal art at the Musée Barbier-Mueller",
+   "desc": "Founded in 1977, the museum shows a collection begun by Josef Müller in 1907 and carried on by his heirs. It occupies the ground floor and basement of a 16th-century house near St Pierre and stages two themed shows a year.",
+   "tip": "Open daily 11:00 to 17:00; adults CHF 8, under 12s free.",
+   "q": "Musée Barbier-Mueller, Rue Jean-Calvin 10, Genève",
+   "ll": [
+    46.20203,
+    6.1467
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Barbier-Mueller_Museum",
+    "https://www.museums.ch/fr/visite-au-musee/musees/musees/musee-barbier-mueller-2029.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "gcmrl",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Enter Rousseau's birthplace at the MRL",
+   "desc": "The Maison Rousseau et Littérature at Grand-Rue 40 is the house where Jean-Jacques Rousseau was born, and is the first literature house in French-speaking Switzerland. An audiovisual tour in eight languages follows his life and work.",
+   "tip": "Adults CHF 7; closed Mondays, check hours at m-r-l.ch.",
+   "q": "Maison Rousseau et Littérature, Grand-Rue 40, Genève",
+   "ll": [
+    46.20134,
+    6.14658
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en/experiences/maison-rousseau-et-litterature-mrl/",
+    "https://www.museums.ch/fr/visite-au-musee/musees/musees/maison-rousseau-et-litterature-(mrl)-2578.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "gcegliserusse",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the gilded domes of the Russian Church",
+   "desc": "The Cathedral of the Exaltation of the Holy Cross was built in 1866 with support from the local Russian community and the imperial family. Its nine gilded onion domes in Moscow-Byzantine style stand in the Tranchées district, heritage listed since 1979.",
+   "tip": "Visiting times are limited around services; check with the parish.",
+   "q": "Église russe, Rue Toepffer 9, Genève",
+   "ll": [
+    46.19888,
+    6.1538
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Russian_Church,_Geneva",
+    "https://www.sacred-destinations.com/switzerland/geneva-eglise-russe"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gcmadeleine",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step into the Temple de la Madeleine",
+   "desc": "A Reformation-era Protestant church linked with Calvin and Guillaume Farel, with an archaeological site that can be visited on request.",
+   "tip": "In summer it is open daily roughly 15:00 to 18:00.",
+   "q": "Temple de la Madeleine, Rue du Cloître, Genève",
+   "ll": [
+    46.20205,
+    6.14935
+   ],
+   "src": [
+    "https://www.geneve.com/en/attractions/madeleine-church",
+    "https://questoapp.com/geneva/places-to-visit/temple-de-la-madeleine"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "gcparcbertrand",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Relax in Parc Bertrand in Champel",
+   "desc": "An 11.1 hectare park at the top of Champel, almost twice the size of the Bastions. Named after photographer-explorer Alfred Bertrand, whose widow gave it to the city in 1940. It has a playground and a wading pool.",
+   "tip": "Free entry; reach it by bus to Champel.",
+   "q": "Parc Bertrand, Champel, Genève",
+   "ll": [
+    46.19291,
+    6.15818
+   ],
+   "src": [
+    "https://www.geneve.ch/parc-bertrand",
+    "https://www.geneve.com/en/attractions/detail/bertrand-park"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gchalleslile",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine in the old Halles de l'Île market hall",
+   "desc": "The Halles de l'Île on Place de l'Île, in the Rhône arm, housed slaughterhouses from 1849 and later a covered market, and was renovated in the 1980s. The Brasserie des Halles de l'Île serves in an industrial-chic hall.",
+   "tip": "Check opening times of the brasserie and food hall before going.",
+   "q": "Brasserie des Halles de l'Île, Place de l'Île 1, Genève",
+   "ll": [
+    46.2049,
+    6.1409
+   ],
+   "src": [
+    "https://www.geneve.ch/halles",
+    "https://www.geneve.com/en/restaurants/brasserie-des-halles-de-lile"
+   ]
+  },
+  {
+   "id": "gccavevalaisanne",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Share a raclette at La Cave Valaisanne",
+   "desc": "Open since 1960 on Boulevard Georges-Favon, this Plainpalais institution is known for its many fondues and raclette made with raw milk.",
+   "tip": "Book at lunch and in winter.",
+   "q": "La Cave Valaisanne, Boulevard Georges-Favon 23, Genève",
+   "ll": [
+    46.20094,
+    6.14078
+   ],
+   "src": [
+    "https://www.myswitzerland.com/en-ie/experiences/food-wine/restaurant/cave-valaisanne/",
+    "https://spottedbylocals.com/geneva/cave-valaisanne"
+   ]
+  },
+  {
+   "id": "gcfermebude",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Shop local at the Ferme de Budé farm shop",
+   "desc": "The Ferme de Budé in Petit-Saconnex runs a farm shop favouring small local producers, organic when possible, and hosts a Christmas market with local craftspeople.",
+   "tip": "Hours reported as Tuesday to Friday 9:00 to 18:00 and Saturday 9:00 to 16:00; confirm first.",
+   "q": "Ferme de Budé, Petit-Saconnex, Genève",
+   "ll": [
+    46.22425,
+    6.12884
+   ],
+   "src": [
+    "https://farm.myswitzerland.com/fr/magasins-ferme/negozio-in-fattoria-ferme-de-bude-ginevra_AMB1Y86",
+    "https://www.geneve.ch/marche-noel-petit-saconnex"
+   ]
+  },
+  {
+   "id": "gcchatnoir",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Catch a live gig at Le Chat Noir in Carouge",
+   "desc": "Le Chat Noir at Rue Vautier 13 has been a bar, club and live-music venue dedicated to contemporary music since 1985, with jazz, rap and soul evenings.",
+   "tip": "Gigs cost CHF 5 to 25; check chatnoir.ch for the programme and late hours.",
+   "q": "Le Chat Noir, Rue Vautier 13, Carouge, Genève",
+   "ll": [
+    46.18504,
+    6.14235
+   ],
+   "src": [
+    "https://timeout.com/switzerland/bars-and-pubs/chat-noir",
+    "https://www.geneve.com/en/restaurants/chat-noir"
+   ]
+  },
+  {
+   "id": "gcgrutli",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Watch an auteur film at the Cinémas du Grütli",
+   "desc": "Founded in 1972, the two screening rooms in the basement of the Maison des arts du Grütli show auteur cinema from all periods and drew a record 99,248 visitors in 2024.",
+   "tip": "Tickets about CHF 5 to 10; the address is Rue du Général-Dufour 16.",
+   "q": "Cinémas du Grütli, Rue du Général-Dufour 16, Genève",
+   "ll": [
+    46.20116,
+    6.14155
+   ],
+   "src": [
+    "https://www.geneve.ch/cinemas-grutli",
+    "https://www.cinemas-du-grutli.ch/sites/default/grutli/documents/rapport_2024_short.pdf"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  }
+ ]
+}

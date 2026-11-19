@@ -1,0 +1,439 @@
+{
+ "new": [
+  {
+   "id": "bhbornholmsmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Meet the goldgubber at Bornholms Museum",
+   "desc": "Bornholms Museum, founded as a museum association in 1893, is the cultural history museum for Bornholm and Christiansø. Its collections include Denmark's largest group of goldgubber (tiny Iron Age gold foil figures), Bornholm longcase clocks, silver treasures and a wartime exhibition on the 1945 bombing of Rønne and Nexø.",
+   "tip": "A combined ticket also covers Hjorths Fabrik, Erichsens Gård and Melstedgård and is valid for a week. Allow about 90 minutes.",
+   "q": "Bornholms Museum, Sankt Mortensgade 29, Rønne",
+   "ll": [
+    55.10263,
+    14.70329
+   ],
+   "src": [
+    "https://bornholmsmuseum.dk/en/visit/bornholm-museum/",
+    "https://en.wikipedia.org/wiki/Bornholm_Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bherichsensgaard",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step into 1800s Rønne at Erichsens Gård",
+   "desc": "A timber-framed merchant's house built in 1806 and extended in the 1830s and 1840s, protected since 1919 and now Rønne's best preserved townhouse. Bornholms Museum has presented its 19th-century interiors since the 1950s, and a garden lies behind.",
+   "tip": "On Saturdays a garden tour is included in the entry price. It is a short walk from the main museum.",
+   "q": "Erichsens Gård, Laksegade 7, Rønne",
+   "ll": [
+    55.10363,
+    14.6977
+   ],
+   "src": [
+    "https://bornholmsmuseum.dk/en/visit/erichsens-gård/",
+    "https://en.wikipedia.org/wiki/Erichsens_G%C3%A5rd"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bhhjorthsfabrik",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Watch clay turn to ceramics at Hjorths Fabrik",
+   "desc": "L. Hjorth's Terracottafabrik made Bornholm pottery in Rønne from the 1850s until 1993 and is now a museum of ceramics. Visitors can tour the old workshops and see potters at work, with rotating exhibitions and a shop selling factory products.",
+   "tip": "In school holidays visitors can try working clay themselves. Check the museum site for current exhibitions.",
+   "q": "Hjorths Fabrik, Krystalgade 5, Rønne",
+   "ll": [
+    55.10266,
+    14.69662
+   ],
+   "src": [
+    "https://bornholmsmuseum.dk/en/visit/hjorths-fabrik",
+    "https://www.visitdenmark.com/denmark/explore/hjorths-factory-gdk614932"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bhforsvarsmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Tour Kastellet and Bornholms Forsvarsmuseum",
+   "desc": "Bornholms Forsvarsmuseum is housed in Kastellet, the round 17th-century citadel south of central Rønne. Its displays run from the Middle Ages to the Cold War, with weapons, uniforms and coverage of the German occupation and the Soviet bombing of Rønne.",
+   "tip": "Opening is seasonal (roughly mid-May to October) and closed some weekdays, so check formus.dk first. Hands-on military vehicles suit children.",
+   "q": "Bornholms Forsvarsmuseum, Arsenalvej 8, Rønne",
+   "ll": [
+    55.09249,
+    14.70059
+   ],
+   "src": [
+    "https://bornholm.info/en/bornholms-defense-museum/",
+    "https://www.visitdenmark.com/denmark/explore/museum-defence-bornholm-gdk614575"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bhhammerodde",
+   "cat": "gor",
+   "area": "nord",
+   "title": "Walk out to Hammer Odde lighthouse",
+   "desc": "Hammer Odde Fyr stands on the low northern tip of Hammeren near Sandvig. Built in the 1880s-90s to back up the older Hammeren lighthouse, whose light was often lost in cloud, it still operates and can be seen only from outside.",
+   "tip": "Reach it on foot or by bike along the tarred road from Sandvig, or as part of a Hammeren loop.",
+   "q": "Hammer Odde Fyr, Hammer Odde, Sandvig",
+   "ll": [
+    55.29825,
+    14.77383
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Hammer_Odde_Lighthouse",
+    "https://www.visitdenmark.com/denmark/explore/hammerodde-fyr-gdk1154601"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bhstenhuggerstien",
+   "cat": "dene",
+   "area": "nord",
+   "title": "Hike the Stonecutter's Path round Hammerknuden",
+   "desc": "A roughly 6 km marked route circles Hammerknuden, the granite headland at Bornholm's north-western tip, past old quarries and the harbour built in 1881-92 to ship granite. The highest point is Hammer Fyr at 82 m, with steep rocky sections and sea views.",
+   "tip": "Start at Hammerhavn or Sandvig and follow the painted circles. Wear proper shoes.",
+   "q": "Hammerhavn, Sandvig, Allinge",
+   "ll": [
+    55.27645,
+    14.75587
+   ],
+   "src": [
+    "https://eng.naturstyrelsen.dk/experience-nature/explore-denmark-s-nature-with-our-guides/northern-bornholm-and-hammershus/attractions",
+    "https://eng.naturstyrelsen.dk/experience-nature/in-the-countryside/the-quarry-workers-footpath"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bhopalsoen",
+   "cat": "dene",
+   "area": "nord",
+   "title": "Swim in the quarry lake Opalsøen",
+   "desc": "Opalsøen is a flooded granite quarry on Hammeren. Quarrying ended when the area was protected in 1970 and the deepest part filled with water, leaving a lake ringed by steep cliffs. Swimmers use it in summer and a 290 m zip line crosses it.",
+   "tip": "Several car parks are nearby, and a short climb leads to a viewpoint over the smaller Krystalsøen. The water is cold and deep.",
+   "q": "Opalsøen, Hammeren, Sandvig",
+   "ll": [
+    55.28279,
+    14.76101
+   ],
+   "src": [
+    "https://bornholm.info/en/opalsoeen/",
+    "https://assets.atlasobscura.com/places/opalsoen-opal-lake-denmark"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "bhmoselokken",
+   "cat": "gor",
+   "area": "nord",
+   "title": "Carve granite at Moseløkken Stenbrudsmuseum",
+   "desc": "Moseløkken is a granite quarry near Allinge started in the 1870s by local merchants and still worked occasionally. A quarry museum opened on the site in 1982 and lets visitors try carving granite and see how quarrymen worked.",
+   "tip": "Combine it with Hammershus or a cycle from Allinge. Check seasonal opening times.",
+   "q": "Moseløkken Stenbrudsmuseum, Moseløkkevej 9, Allinge",
+   "ll": [
+    55.2737,
+    14.7767
+   ],
+   "src": [
+    "https://bornholm.info/en/moseloekken-stenbrudsmuseum/",
+    "https://showcaves.com/english/dk/mines/Moselokken.html"
+   ]
+  },
+  {
+   "id": "bhfolkemodet",
+   "cat": "dene",
+   "area": "nord",
+   "title": "Join the Folkemødet political festival in Allinge",
+   "desc": "Folkemødet is Denmark's annual festival of democracy, held in and around Allinge harbour. Politicians, organisations and the public debate across hundreds of events, with free entry for guests. The 2026 edition ran 11-13 June, and the next is listed for mid June 2027.",
+   "tip": "Book accommodation months ahead, as the whole north of the island fills up. Confirm dates on the official site.",
+   "q": "Allinge Havn, Allinge",
+   "ll": [
+    55.27848,
+    14.80144
+   ],
+   "src": [
+    "https://www.norden.org/da/folkemoedet",
+    "https://www.altinget.dk/kalender/61616"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6
+   ]
+  },
+  {
+   "id": "bhdondalen",
+   "cat": "gor",
+   "area": "nord",
+   "title": "Walk to Denmark's tallest waterfall in Døndalen",
+   "desc": "Døndalen is a 37 hectare crack valley on the north coast near Gudhjem. The Døndalen brook drops about 20 m over a rock face, billed as Denmark's highest waterfall, and the Amtmandsstenen viewpoint sits on the cliff above.",
+   "tip": "A short walk reaches the falls. Flow is best after rain and weaker in a dry summer.",
+   "q": "Døndalen, Søndre Strandvej, Tejn",
+   "ll": [
+    55.22418,
+    14.88083
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/D%C3%B8ndalen",
+    "https://bornholm.info/en/doendalen/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bhgudhjemis",
+   "cat": "ye",
+   "area": "nord",
+   "title": "Queue for a giant waffle at Gudhjem Is",
+   "desc": "Gudhjem Is has made ice cream by the harbour since 1959 and is run by the same family across three generations. Made on site with milk from the local dairy, it is known for its oversized Apollo waffle cone and a wide flavour range.",
+   "tip": "Expect queues on summer afternoons. Eat on the harbour wall.",
+   "q": "Gudhjem Is, Gudhjem Havn, Gudhjem",
+   "ll": [
+    55.21115,
+    14.97235
+   ],
+   "src": [
+    "https://www.visitdenmark.com/denmark/plan-your-trip/gudhjem-is-gdk1154590",
+    "https://bornholm.info/en/?p=69606"
+   ]
+  },
+  {
+   "id": "bhlilleborg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the castle ruin of Lilleborg",
+   "desc": "Lilleborg is a medieval fortress ruin on a 16 m rocky outcrop in Almindingen forest, once surrounded by marsh. Built around 1150 and burned in the 13th century, it has a 76 m courtyard and an entrance tower, and Bornholms Museum has dug there as recently as 2025.",
+   "tip": "It sits near the Rønne to Svaneke road and links with the Almindingen forest trails.",
+   "q": "Lilleborg, Almindingen, Aakirkeby",
+   "ll": [
+    55.11889,
+    14.8975
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Lilleborg,_Bornholm",
+    "https://bornholm.info/en/?p=4647"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bhaakirke",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the carved Romanesque font in Aa Kirke",
+   "desc": "Aa Kirke in Aakirkeby is Bornholm's largest medieval church. Inside is a Romanesque baptismal font carved from Gotland sandstone by the stonemason Sighraf, dating to the later 12th century and widely copied.",
+   "tip": "Open to visitors outside services. NaturBornholm and the Almindingen forest are close by.",
+   "q": "Aa Kirke, Torvet, Aakirkeby",
+   "ll": [
+    55.07056,
+    14.91917
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Aa_Church",
+    "https://bornholm.info/en/aa-kirke/"
+   ],
+   "tags": [
+    "rainy day",
+    "free"
+   ]
+  },
+  {
+   "id": "bhnykerkirke",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Find the fourth round church at Ny Kirke",
+   "desc": "Ny Kirke in Nyker is the smallest and youngest of Bornholm's four medieval round churches, and unlike the others it was not built as a fortress. A central pillar carries murals from several periods, and the conical roof was added in the 17th century.",
+   "tip": "Open outside services. It is a short detour from the road between Rønne and Hasle.",
+   "q": "Ny Kirke, Nyker, Rønne",
+   "ll": [
+    55.13944,
+    14.76889
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ny_Kirke",
+    "https://bornholm.info/en/ny-kirke/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bhnaturbornholm",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Meet live crocodiles at NaturBornholm",
+   "desc": "NaturBornholm is a nature centre in Aakirkeby with a Baltic Sea aquarium, dinosaurs, a bison exhibition and live animals including crocodiles. It is aimed at families and suits a wet day.",
+   "tip": "Allow around two hours. Opening times vary by season.",
+   "q": "NaturBornholm, Åkirkeby",
+   "ll": [
+    55.06407,
+    14.91735
+   ],
+   "src": [
+    "https://bornholm.info/en/naturbornholm/",
+    "https://www.visitdenmark.com/denmark/plan-your-trip/naturbornholm-gdk614659"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bhdueoddefyr",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Climb Dueodde Fyr for a view over the dunes",
+   "desc": "Dueodde Lighthouse is Denmark's tallest at roughly 47 m, with about 197 steps to a gallery overlooking the white sand beaches and sea. It is the only lighthouse on Bornholm open to the public, though at irregular times.",
+   "tip": "Walk west from the main Dueodde car park. Opening times are irregular, so go on a clear day.",
+   "q": "Dueodde Fyr, Fyrvej, Dueodde",
+   "ll": [
+    54.99184,
+    15.07435
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Dueodde_Lighthouse",
+    "https://bornholm.info/en/?p=7824"
+   ]
+  },
+  {
+   "id": "bhsvanekehavn",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim off the rock-cut harbour at Svaneke",
+   "desc": "Svaneke harbour was blasted out of the granite, and still has a working fishery beside bathing areas and quays. The old town above it won a European Gold Medal for preservation in 1975.",
+   "tip": "Swim from the outer part of the harbour by the harbour pool. The water is cold outside July and August.",
+   "q": "Svaneke Havn, Havnebryggen, Svaneke",
+   "ll": [
+    55.1365,
+    15.1432
+   ],
+   "src": [
+    "https://bornholm.info/en/svanekehavn/",
+    "https://www.visitdenmark.com/denmark/explore/svaneke-harbour-gdk614909"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "bhismejeri",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Jersey-milk ice cream at Bornholms Ismejeri",
+   "desc": "Bornholms Ismejeri makes ice cream by hand in Svaneke from Jersey milk from specific local farms. Flavours change, and liquorice is among the standouts.",
+   "tip": "Opening is seasonal. Eat it on the harbour.",
+   "q": "Bornholms Ismejeri, Svaneke",
+   "ll": [
+    55.13545,
+    15.14317
+   ],
+   "src": [
+    "https://bornholm.info/en/bornholms-ismejeri/",
+    "https://www.visitdenmark.com/denmark/explore/bornholms-ismejeri-gdk614775"
+   ]
+  },
+  {
+   "id": "bhkjaerstrup",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try handmade chocolate at Kjærstrup in Snogebæk",
+   "desc": "Kjærstrup has made handmade chocolate in Snogebæk since 1999. The Snogebæk shop has the full range of chocolate, cream puffs and ice cream, while the Gudhjem and Svaneke shops sell mainly ice cream.",
+   "tip": "Buy the cream puffs and boxed chocolates in Snogebæk, near Dueodde.",
+   "q": "Kjærstrup Chokolade, Snogebæk",
+   "ll": [
+    55.02431,
+    15.11577
+   ],
+   "src": [
+    "https://bornholm.info/en/?p=5254",
+    "https://www.visitdenmark.com/denmark/explore/kjaerstrup-chokolade-gdk614976"
+   ]
+  },
+  {
+   "id": "bhnexogamlerogeri",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat alder-smoked fish at Nexø Gamle Røgeri",
+   "desc": "Nexø Gamle Røgeri smokes fish daily over alder wood near the Baltic coast in Nexø. It is known for homemade fish cakes of cod or salmon.",
+   "tip": "Closed in winter. Buy smoked herring to eat by the harbour.",
+   "q": "Nexø Gamle Røgeri, Nexø",
+   "ll": [
+    55.07204,
+    15.14102
+   ],
+   "src": [
+    "https://bornholm.info/en/?p=3573",
+    "https://www.visitdenmark.com/denmark/explore/nexo-gamle-rogeri-gdk1154862"
+   ]
+  },
+  {
+   "id": "bhaarsdalerogeri",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat herring at Aarsdale Røgeri & Bistro",
+   "desc": "Aarsdale Røgeri & Bistro in the fishing village of Aarsdale near Svaneke has been smoking herring for over a century. It serves smoked fish in a bistro by the harbour.",
+   "tip": "Order the smoked herring. Opening is seasonal.",
+   "q": "Aarsdale Røgeri & Bistro, Aarsdale, Svaneke",
+   "ll": [
+    55.10758,
+    15.14364
+   ],
+   "src": [
+    "https://bornholm.info/en/?p=3582",
+    "https://www.visitdenmark.com/denmark/explore/aarsdale-smokehouse-bistro-gdk1153902"
+   ]
+  },
+  {
+   "id": "bhandersennexohus",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the childhood home of Martin Andersen Nexø",
+   "desc": "Martin Andersen Nexø's House in Nexø is the writer's childhood home, a small museum on his life and work. He wrote the novel Pelle Erobreren (Pelle the Conqueror, 1906-10), which draws on his boyhood on Bornholm.",
+   "tip": "Opening is seasonal, so check ahead.",
+   "q": "Martin Andersen Nexø Hus, Ferskesøstræde 36, Nexø",
+   "ll": [
+    55.0577,
+    15.12762
+   ],
+   "src": [
+    "https://www.visitdenmark.com/denmark/plan-your-trip/martin-andersen-nexos-hus-gdk614687",
+    "https://www.ravlling.com/things-to-do/denmark/bornholm/culture/andersen-nexos-hus"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  }
+ ]
+}

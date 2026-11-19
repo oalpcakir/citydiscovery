@@ -1,0 +1,47 @@
+{
+  "region": "bornholm",
+  "dishes": [
+    {
+      "id": "bornholm-sol-over-gudhjem",
+      "name": "Sol over Gudhjem",
+      "local": "",
+      "icon": "🍳",
+      "desc": "Rye bread topped with smoked herring, radishes and chives, crowned with a raw egg yolk as the sun. Named after the harbour town of Gudhjem and eaten at the island's smokehouses.",
+      "kw": [
+        "sol over gudhjem"
+      ]
+    },
+    {
+      "id": "bornholm-roget-sild",
+      "name": "Smoked herring",
+      "local": "Røget sild",
+      "icon": "🐟",
+      "desc": "Herring smoked over alder wood in the island's smokehouses, with the tall brick chimneys still dotting the harbours. Eaten warm, straight from the smoker, with rye bread.",
+      "kw": [
+        "smoked herring",
+        "røget sild"
+      ]
+    },
+    {
+      "id": "bornholm-salt-sild",
+      "name": "Herring on rye",
+      "local": "Salt sild på rugbrød",
+      "icon": "🍞",
+      "desc": "Salt herring on dark rye bread with caramelised onions, beetroot and Bornholm mustard. The everyday island lunch, found at harbour restaurants.",
+      "kw": [
+        "salt herring"
+      ]
+    },
+    {
+      "id": "bornholm-bolcher",
+      "name": "Bornholm boiled sweets",
+      "local": "Bornholmske bolcher",
+      "icon": "🍬",
+      "desc": "Hard sweets made by hand in small batches in Svaneke and other towns, often shaped in front of visitors. A sweet souvenir that is also a local craft.",
+      "kw": [
+        "bolcher",
+        "boiled sweets"
+      ]
+    }
+  ]
+}

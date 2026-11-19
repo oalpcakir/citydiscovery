@@ -1,0 +1,46 @@
+{
+ "picks": [
+  "bodrumcastle",
+  "halicarnassusmausoleum",
+  "knidos",
+  "kayakoy",
+  "kaunos"
+ ],
+ "cards": {
+  "bodrumcastle": {
+   "name": "Bodrum Castle",
+   "art": "castle",
+   "slogan": "Four towers, four nations, one harbour guarded since 1404.",
+   "line": "Knights of St John began it around 1404, using stone taken from the Mausoleum of Halicarnassus.",
+   "source": "https://en.wikipedia.org/wiki/Bodrum_Castle"
+  },
+  "halicarnassusmausoleum": {
+   "name": "Mausoleum of Halicarnassus",
+   "art": "museum",
+   "slogan": "The tomb that gave every grand grave its name.",
+   "line": "One of the Seven Wonders of the Ancient World, this tomb of King Mausolus gave us the word mausoleum.",
+   "source": "https://en.wikipedia.org/wiki/Mausoleum_at_Halicarnassus"
+  },
+  "knidos": {
+   "name": "Knidos",
+   "art": "harbour",
+   "slogan": "Two harbours at the end of the world, and a famous goddess.",
+   "line": "Knidos was home to Praxiteles' Aphrodite, and its channel was formed into two harbours by a causeway.",
+   "source": "https://en.wikipedia.org/wiki/Knidos"
+  },
+  "kayakoy": {
+   "name": "Kayaköy",
+   "art": "skyline",
+   "slogan": "A hillside of roofless houses that still seems to listen.",
+   "line": "About 500 stone houses stand empty since the 1923 population exchange, and inspired the village in Birds Without Wings.",
+   "source": "https://en.wikipedia.org/wiki/Kayak%C3%B6y"
+  },
+  "kaunos": {
+   "name": "Kaunos",
+   "art": "castle",
+   "slogan": "Tombs carved into a cliff above the reeds of Dalyan.",
+   "line": "Herodotus mentions Kaunos first, as resisting the Persian general Harpagus in 546 BC; its harbour has since silted up 8 km inland.",
+   "source": "https://en.wikipedia.org/wiki/Kaunos"
+  }
+ }
+}

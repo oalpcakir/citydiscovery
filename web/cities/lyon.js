@@ -62,7 +62,8 @@ window.CITIES.lyon = {
     sarmentelles: [46.1547, 4.5870], glorieuses: [46.2074, 5.2298], bleudegex: [46.2198, 5.8657],
     ampuisvins: [45.4899, 4.8103], condrieurigotte: [45.4631, 4.7662], montcindre: [45.8253, 4.8214],
     lacroixlaval: [45.7875, 4.7216], fortecluse: [46.1208, 5.8928], lacgenin: [46.2203, 5.6975],
-    faucille: [46.3689, 6.0200], signalstandre: [45.6383, 4.5933], dombesetangs: [46.0382, 5.0964]
+    faucille: [46.3689, 6.0200], signalstandre: [45.6383, 4.5933], dombesetangs: [46.0382, 5.0964],
+    jongieuxchevallier: [45.7699, 5.7665], jongieuxchateaumar: [45.7658, 5.7703]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -483,6 +484,12 @@ window.CITIES.lyon = {
       tip: "Look for the old Cassini marker by the summit. Walk up through the farmland and woods from Saint-André-la-Côte for a quiet half day far from the city crowds.", q: "Signal de Saint-André, Saint-André-la-Côte", tags: ["free"], src: ["https://fr.wikipedia.org/wiki/Signal_de_Saint-Andr%C3%A9"] },
     { id: "dombesetangs", cat: "dene", area: "cevre", title: "Cycle between the ponds of the Dombes",
       desc: "The Dombes plateau holds more than a thousand ponds, most dug by monks from the 12th century and still farmed for carp: every few years a pond is drained, fished and sown with crops before being refilled. In the middle of them stands the Abbaye Notre-Dame des Dombes, founded by Trappists in 1863 to help drain the marshes and now home to the Chemin Neuf community.",
-      tip: "Bring binoculars: the ponds are a Ramsar wetland with over 130 nesting bird species. Stop at the abbey shop for its Musculine sweets.", q: "Abbaye Notre-Dame des Dombes, Le Plantay", tags: ["free"], src: ["https://fr.wikipedia.org/wiki/Dombes", "https://fr.wikipedia.org/wiki/Abbaye_Notre-Dame-des-Dombes"] }
+      tip: "Bring binoculars: the ponds are a Ramsar wetland with over 130 nesting bird species. Stop at the abbey shop for its Musculine sweets.", q: "Abbaye Notre-Dame des Dombes, Le Plantay", tags: ["free"], src: ["https://fr.wikipedia.org/wiki/Dombes", "https://fr.wikipedia.org/wiki/Abbaye_Notre-Dame-des-Dombes"] },
+    { id: "jongieuxchevallier", cat: "ye", area: "cevre", title: "Taste Jongieux wines at Domaine Chevallier-Bernard",
+      desc: "A family estate in Jongieux, on the Marestel slopes above the Rhône, listed by the Aix-les-Bains Riviera des Alpes tourist office for tastings.",
+      tip: "Call ahead for a tasting; Marestel and Roussette de Savoie are the local crus.", q: "Domaine Chevallier-Bernard, 40 Chemin de Valière, Jongieux-le-Haut, Jongieux", kind: "drink", src: ["https://aixlesbains-rivieradesalpes.com/en/degustation/domaine-chevallier-bernard-jongieux"] },
+    { id: "jongieuxchateaumar", cat: "ye", area: "cevre", title: "Visit the cellar of Château de la Mar, Jongieux",
+      desc: "A winery in Jongieux that offers cellar visits and tastings through the Aix-les-Bains tourist office.",
+      tip: "Book the cellar visit in advance.", q: "Château de la Mar, 391 Route de la Charvaz, Jongieux", kind: "drink", src: ["https://www.aixlesbains-rivieradesalpes.com/en/degustation/cellar-chateau-de-la-mar-jongieux"] }
   ]
 };

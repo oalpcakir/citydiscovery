@@ -1,0 +1,214 @@
+{
+ "new": [
+  {
+   "id": "poitiersfink",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Buy hand-made chocolates at Fink, open since 1828",
+   "desc": "Fink is a chocolate shop and pâtisserie on the Rue du Marché Notre-Dame, founded in 1828 by a craftsman from Switzerland. Gault&Millau calls it the most beautiful chocolate shop in the prefecture and an institution.",
+   "tip": "Closed Sundays and Mondays; go on a market day to pair it with the Marché Notre-Dame next door. Try the pralines and the seasonal chocolates.",
+   "q": "Fink Chocolaterie, 18 Rue du Marché Notre-Dame, Poitiers",
+   "ll": [
+    46.58252,
+    0.34312
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/en/artisans/fink-chocolaterie"
+   ]
+  },
+  {
+   "id": "poitierseutopia",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine on a tasting menu at Eutopia",
+   "desc": "Eutopia is a bistro-style table with an open kitchen on the Rue du Marché Notre-Dame, listed by Gault&Millau at 12.5/20. It serves a five- or seven-course menu built on local produce.",
+   "tip": "Book ahead for the tasting menu; budget about 26 to 67 euros per person without drinks.",
+   "q": "Eutopia, 31 Rue du Marché Notre-Dame, Poitiers",
+   "ll": [
+    46.58213,
+    0.34294
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/en/restaurants/eutopia"
+   ]
+  },
+  {
+   "id": "poitiersserrurerie",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have a slate-menu lunch at La Serrurerie",
+   "desc": "La Serrurerie is an old-fashioned bistro on the Rue des Grandes Écoles in the centre of Poitiers, selected by Gault&Millau for its traditional cooking. The menu is written on slates and changes with the market.",
+   "tip": "Lunch is the best value at roughly 15 euros per person without drinks; arrive early at midday.",
+   "q": "La Serrurerie, 28 Rue des Grandes Écoles, Poitiers",
+   "ll": [
+    46.5813,
+    0.3419
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/restaurant/la-serrurerie"
+   ]
+  },
+  {
+   "id": "chatelleraultfermestjacques",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Share a hearty meal at La Ferme Saint-Jacques",
+   "desc": "La Ferme Saint-Jacques is a large inn-style restaurant on the Avenue John Kennedy in Châtellerault, selected by Gault&Millau for its comforting traditional cuisine and grilled meats. A hotel of the same name stands on the site.",
+   "tip": "The weekday lunch menu is about 19.90 euros; evenings run up to roughly 38 euros without drinks.",
+   "q": "La Ferme Saint-Jacques, 15 Avenue John Kennedy, Châtellerault",
+   "ll": [
+    46.81472,
+    0.54431
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/restaurant/la-ferme-saint-jacques",
+    "https://www.sluurpy.fr/châtellerault/restaurant/2050110/la-ferme-saint-jacques-châtellerault"
+   ]
+  },
+  {
+   "id": "niortroussille",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at the Auberge de la Roussille in Niort",
+   "desc": "The Auberge de la Roussille is a French restaurant on the Impasse de la Roussille in Niort, rated 12/20 by Gault&Millau. Chef Mathieu Schmitt cooks local, seasonal dishes; the restaurant has had new owners since summer 2022.",
+   "tip": "Expect 51 to 70 euros per person without drinks; reserve for weekend evenings.",
+   "q": "Auberge de la Roussille, 30 Impasse de la Roussille, Saint-Liguaire, Niort",
+   "ll": [
+    46.33249,
+    -0.50802
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/en/restaurants/auberge-de-la-roussille"
+   ]
+  },
+  {
+   "id": "parthenayfingourmet",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Book a table at Le Fin Gourmet in Parthenay",
+   "desc": "Le Fin Gourmet is a Gault&Millau-listed restaurant on the Rue Louis Ganne in the old centre of Parthenay, near Les Halles and the Tour de l'Horloge. It serves refined French cooking.",
+   "tip": "Check opening days before going, as it has traditionally closed on Mondays; combine with a walk down the Rue de la Vau-Saint-Jacques.",
+   "q": "Le Fin Gourmet, 28 Rue Ganne, Parthenay",
+   "ll": [
+    46.64725,
+    -0.25253
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/en/restaurant/le-fin-gourmet",
+    "https://www.cirkwi.com/fr/point-interet/979241-le-fin-gourmet"
+   ]
+  },
+  {
+   "id": "melleargentiere",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat local at L'Argentière in Melle",
+   "desc": "L'Argentière is a gourmet restaurant on the Route de Niort at Melle, rated 12/20 by Gault&Millau. Chef Laurent Olivier cooks traditional French dishes from local produce; the name recalls the town's Frankish silver mines.",
+   "tip": "Set menus cost about 38 and 48 euros; pair the meal with the nearby Silver Mines visit.",
+   "q": "L'Argentière, Route de Niort, Melle",
+   "ll": [
+    46.22733,
+    -0.15747
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/en/restaurants/l-argentiere"
+   ]
+  },
+  {
+   "id": "montmorillonlucullus",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at Le Lucullus in Montmorillon's Hôtel de France",
+   "desc": "Le Lucullus is the restaurant of the Hôtel de France on the Boulevard de Strasbourg, the only restaurant in Montmorillon listed by Gault&Millau (about 12.5/20). Chef Alban Galpin cooks traditional French food.",
+   "tip": "Budget 40 to 92 euros per person without drinks; the Rannou-Métivier macaron shop is a few doors along the same boulevard.",
+   "q": "Le Lucullus, Hôtel de France, 4 Boulevard de Strasbourg, Montmorillon",
+   "ll": [
+    46.42373,
+    0.87001
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/restaurant/le-lucullus-hotel-de-france"
+   ]
+  },
+  {
+   "id": "coulonpigouille",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try eel fricassée at La Pigouille on the Sèvre",
+   "desc": "La Pigouille is an auberge and punt landing stage on the Quai Louis Tardy in Coulon, the Marais Poitevin's main village. Its menu lists regional dishes such as fricassée of eels and frogs, plus crêpes and ice cream.",
+   "tip": "Closed in December and January; sit on the terrace by the water and book a punt trip afterwards.",
+   "q": "La Pigouille, 52 Quai Louis Tardy, Coulon",
+   "ll": [
+    46.32139,
+    -0.58441
+   ],
+   "src": [
+    "https://copeps.fr/actualites/la-pigouille-restaurant-et-embarcadere-coulon-raison-sociale/",
+    "https://www.eat-list.fr/coulon-79510/restaurant-francais-24/la-pigouille-58722?menu=1"
+   ]
+  },
+  {
+   "id": "niortcouleeverte",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Coulée Verte along the Sèvre from Port Boinot",
+   "desc": "The Coulée Verte follows the banks of the Sèvre Niortaise from the centre of Niort to the edge of the Marais Poitevin, about 11 km. It starts near Port Boinot, a former industrial site converted into a river port.",
+   "tip": "The tourist office is in Le Séchoir at Port Boinot, 1 rue de la Chamoiserie; the path is also a cycle route towards Coulon.",
+   "q": "Port Boinot, Rue de la Chamoiserie, Niort",
+   "ll": [
+    46.32471,
+    -0.4699
+   ],
+   "src": [
+    "https://af3v.org/les-voies-vertes/voies/273-coulee-verte-de-niort",
+    "https://www.francevelotourisme.com/itineraire/la-velo-francette/niort-coulon"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "lathusgartempekayak",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Kayak the Gartempe with CPA Lathus",
+   "desc": "CPA Lathus runs kayak outings on the Gartempe at Lathus-Saint-Rémy, south of Montmorillon, with half-day and full-day options and lessons. The valley south of the village includes the Portes d'Enfer rapids for experienced paddlers.",
+   "tip": "Book by phone or online; beginners should ask for the calmer stretches.",
+   "q": "Canoë Kayak CPA Lathus, La Voulzie, Lathus-Saint-Rémy",
+   "ll": [
+    46.33444,
+    0.95917
+   ],
+   "src": [
+    "https://www.tourisme-vienne.com/en/offers/accessible-to-strollers/canoe-kayak-cpa-lathus/",
+    "https://fr.wikipedia.org/wiki/Lathus-Saint-Rémy"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "poitiersstbenoitclain",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Clain valley at Saint-Benoît",
+   "desc": "A waymarked loop of about 9 km at Saint-Benoît, just south of Poitiers, follows the Clain through woods, meadows and the old Tram 1900 viaduct with a panorama over the valley. The start is at the car park at the west entrance of the village.",
+   "tip": "Allow about three hours; the campsite is an alternative start point.",
+   "q": "Parking Saint-Nicolas, Avenue de Lorch, Saint-Benoît",
+   "ll": [
+    46.54976,
+    0.33744
+   ],
+   "src": [
+    "https://www.visorando.com/en/walk-la-vallee-du-clain-a-saint-benoit/"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

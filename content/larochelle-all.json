@@ -1,0 +1,1274 @@
+{
+ "new": [
+  {
+   "id": "larochelletoursaintnicolas",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the Tour Saint-Nicolas at the harbour mouth",
+   "desc": "This 14th-century tower guards the entrance to the Vieux-Port and has been a listed monument since 1879. It is named after the patron saint of sailors and once anchored the chain that was stretched across the harbour mouth. It later served as a prison.",
+   "tip": "Interior access has been reported closed for works, so check the CMN listing before going; the exterior is best seen from Quai Duperré.",
+   "q": "Tour Saint-Nicolas, Rue sur les Murs, La Rochelle",
+   "ll": [
+    46.15577,
+    -1.15333
+   ],
+   "src": [
+    "https://monumentum.fr/monument-historique/pa00105150/la-rochelle-tour-saint-nicolas",
+    "https://www.holidays-la-rochelle.co.uk/discover/city-strolls/la-rochelle-s-towers"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "larochelletourchaine",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb the Tour de la Chaîne over the Vieux-Port",
+   "desc": "The Chain Tower is one of the two 14th-century towers flanking the harbour entrance. It takes its name from the huge chain raised between the towers at night in wartime. It is run by the Centre des monuments nationaux and is a monument historique since 1879.",
+   "tip": "A joint ticket covers the Chaîne and Lanterne towers; guided visits and sunset slots are sometimes offered, so check the CMN site.",
+   "q": "Tour de la Chaîne, Quai Duperré, La Rochelle",
+   "ll": [
+    46.15581,
+    -1.15419
+   ],
+   "src": [
+    "https://www.culture.gouv.fr/espace-documentation/Repertoire-des-ressources-documentaires/Monuments-nationaux/Tours-de-la-Rochelle",
+    "https://www.guide-charente-maritime.com/en/tourism/discover/tourist-sites/castles/la-rochelle-455/tour-de-la-chaine-13919.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "larochelletourlanterne",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Read the prisoners' graffiti in the Tour de la Lanterne",
+   "desc": "The Lantern Tower served as a maritime prison from the 17th century; sailors, privateers and political prisoners left hundreds of graffiti on its walls. Its Gothic spire was once a lighthouse, and four sergeants of the 42nd regiment were held here in 1822. A walkway circles the spire with views over the port.",
+   "tip": "Wind is strong on the parapet. The same ticket also covers the Chaîne tower.",
+   "q": "Tour de la Lanterne, Rue sur les Murs, La Rochelle",
+   "ll": [
+    46.15578,
+    -1.15712
+   ],
+   "src": [
+    "https://www.frommers.com/destinations/la-rochelle/attractions/tour-de-la-lanterne/",
+    "https://en.wikipedia.com/wiki/Tour_de_la_Lanterne"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "larochellegrosseshorloge",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk through the Porte de la Grosse-Horloge",
+   "desc": "This gate of the medieval city wall became the town belfry after a clock and bell were added in the 15th century. It links the Vieux-Port quays to the arcaded old town and is a listed monument. A weathervane tops the structure and the gate can be walked through from either side.",
+   "tip": "Go through it from Quai Duperré into rue du Palais, then continue under the arcades.",
+   "q": "Porte de la Grosse-Horloge, Quai Duperré, La Rochelle",
+   "ll": [
+    46.15812,
+    -1.15368
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Porte_de_la_Grosse-Horloge"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "larochellehoteldeville",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Renaissance Hôtel de Ville",
+   "desc": "La Rochelle's town hall combines a Gothic curtain wall with a Renaissance residence in the Italian style. Its façade was restored after a fire in 2013. The courtyard and interior can be seen on guided visits.",
+   "tip": "Guided visits have been run by the tourist office on set days (reported as Wednesday and Thursday afternoons); check the schedule first.",
+   "q": "Hôtel de Ville, Rue de l'Hôtel de Ville, La Rochelle",
+   "ll": [
+    46.15948,
+    -1.15231
+   ],
+   "src": [
+    "https://www.nous-larochelle.fr/en/turistic-information/cultural-heritage/lhotel-de-ville-en",
+    "https://www.waymarking.com/waymarks/WM13E34_Htel_de_ville_La_Rochelle_France"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "larochelleaquarium",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Watch the sharks at Aquarium La Rochelle",
+   "desc": "One of Europe's large private aquariums stands on Quai Louis Prunier facing the Vieux-Port. Its shark tank, with bull, zebra and reef sharks, is the highlight, viewed through big windows and from a gallery above.",
+   "tip": "Buy timed tickets online. In July and August it opens late into the evening, which is quieter.",
+   "q": "Aquarium La Rochelle, Quai Louis Prunier, La Rochelle",
+   "ll": [
+    46.15328,
+    -1.15062
+   ],
+   "src": [
+    "https://www.aquarium-larochelle.com/wp-content/uploads/2026/04/Dossier-de-Presse-Web-Aquarium-La-Rochelle-2026.pdf",
+    "https://informations.handicap.fr/a-aquarium-la-rochelle-immersion-fascinante-accessible-12178.php"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "larochellemuseemaritime",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Board historic ships at the Musée maritime",
+   "desc": "The maritime museum occupies the former trawler basin of the Vieux-Port, with eight ships, six of them listed as historic monuments. Its fleet includes the weather ship France I. It also runs a classic-yacht programme on its quays.",
+   "tip": "Allow two hours to visit the boats and the onshore galleries.",
+   "q": "Musée maritime de La Rochelle, Place Bernard Moitessier, La Rochelle",
+   "ll": [
+    46.14947,
+    -1.15053
+   ],
+   "src": [
+    "https://fr.geneawiki.com/wiki/Mus%C3%A9e_maritime_de_La_Rochelle",
+    "https://www.techno-science.net/fr/definitions/musee-maritime-de-la-rochelle"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "larochellecathedrale",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Cathédrale Saint-Louis on Place de Verdun",
+   "desc": "This Classical cathedral was begun in 1742 after Louis XIII made La Rochelle a bishopric following the 1627-28 siege, and opened for worship in 1784. The Gothic Saint-Barthélemy tower, a cannon platform during the siege, survives as its bell tower. It has been a protected monument since 1906.",
+   "tip": "It sits on Place de Verdun, a few steps from the market and the arcaded streets.",
+   "q": "Cathédrale Saint-Louis, Place de Verdun, La Rochelle",
+   "ll": [
+    46.16139,
+    -1.15333
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/La_Rochelle_Cathedral",
+    "https://monumentum.fr/monument-historique/pa00104876/cathedrale-saint-louis"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "larochellenouveaumonde",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore the Musée du Nouveau Monde",
+   "desc": "The museum is housed in the 18th-century Hôtel Fleuriau at 10 rue Fleuriau and opened in 1982. It tells the story of France's ties with the Americas since the 16th century, including La Rochelle's role in the slave trade.",
+   "tip": "Combine it with a stroll through the nearby old-town streets.",
+   "q": "Musée du Nouveau Monde, 10 Rue Fleuriau, La Rochelle",
+   "ll": [
+    46.16159,
+    -1.15104
+   ],
+   "src": [
+    "https://monumentum.fr/monument-historique/pa00104886/la-rochelle-hotel-de-fleuriau",
+    "https://www.grandsudinsolite.fr/1661--.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "larochellemarchecentral",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat oysters at the Marché central halles",
+   "desc": "The 19th-century covered market is a landmark of the historic centre and opens in the morning. Stalls such as Huîtres Roumégous sell Marennes-Oléron oysters and other seafood. On Wednesdays and Saturdays it spills into the surrounding streets.",
+   "tip": "Go in the morning for a few oysters with a glass of white wine on a nearby terrace; afternoons are quiet.",
+   "q": "Marché Central, Place du Marché, La Rochelle",
+   "ll": [
+    46.16175,
+    -1.14919
+   ],
+   "src": [
+    "https://www.nous-larochelle.fr/en/turistic-information/cultural-heritage/les-halles-en",
+    "https://holidays-la-rochelle.co.uk/discover/taste-local-flavors/the-markets"
+   ],
+   "tags": []
+  },
+  {
+   "id": "larochellecafepaix",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have a coffee at the Café de la Paix",
+   "desc": "This brasserie at 54 rue Chaudrier is a listed historic monument, together with the former Olympia cinema. Local accounts trace it to a café founded in 1793, and the current building dates from 1852 with an Art Deco refit. It serves breakfast, light lunches and drinks.",
+   "tip": "Open daily in the past from around 7 am; check hours before going.",
+   "q": "Café de la Paix, 54 Rue Chaudrier, La Rochelle",
+   "ll": [
+    46.16262,
+    -1.15227
+   ],
+   "src": [
+    "https://pop.culture.gouv.fr/notice/merimee/PA00104875",
+    "https://www.cityzeum.com/cafe-de-la-paix-1"
+   ],
+   "tags": []
+  },
+  {
+   "id": "larochelleernestglacier",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste artisan ice cream at Ernest le Glacier",
+   "desc": "Ernest le Glacier is a well-known La Rochelle ice-cream maker with shops near the Vieux-Port, notably on rue du Port. It is rated among the city's best glaciers and listed by Gault&Millau.",
+   "tip": "Queues form on summer afternoons; try a local flavour of the day. Confirm opening hours on the official website.",
+   "q": "Ernest le Glacier, 16 Rue du Port, La Rochelle",
+   "ll": [
+    46.15846,
+    -1.15172
+   ],
+   "src": [
+    "https://www.guide-charente-maritime.com/en/tourism/eating-and-drinking/restaurants/la-rochelle-455/ernest-le-glacier-8141.html",
+    "https://fr.gaultmillau.com/en/artisans/ernest-le-glacier"
+   ],
+   "tags": []
+  },
+  {
+   "id": "larochelleflots",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order the lobster stew at Les Flots",
+   "desc": "Les Flots is a seafood restaurant at 1 rue de la Chaîne, in an 18th-century estaminet with a terrace at the foot of the Tour de la Chaîne. It is listed in the Michelin Guide and run by chef Grégory Coutanceau.",
+   "tip": "Book ahead; the signature dish is the lobster stew. Prices are on the high side.",
+   "q": "Les Flots, 1 Rue de la Chaîne, La Rochelle",
+   "ll": [
+    46.15606,
+    -1.15429
+   ],
+   "src": [
+    "https://guide.michelin.com/en/nouvelle-aquitaine/la-rochelle/restaurant/les-flots7449"
+   ],
+   "tags": []
+  },
+  {
+   "id": "larochellefrancofolies",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Catch the Francofolies festival in July",
+   "desc": "Les Francofolies de La Rochelle is a French-language music festival held each July since 1985. Concerts take place across the city, including the Vieux-Port and the Esplanade Saint-Jean-d'Acre. The 2026 edition was scheduled for 10 to 14 July.",
+   "tip": "Tickets go on sale months ahead; the unofficial FrancOff fringe plays in bars around town.",
+   "q": "Esplanade Saint-Jean d'Acre, La Rochelle",
+   "ll": [
+    46.15537,
+    -1.15765
+   ],
+   "src": [
+    "https://www.nouvelle-aquitaine-tourisme.com/en/sit/poi/3614518/francofolies-festival/94587",
+    "https://www.festivalenfrance.com/festival/les-francofolies-de-la-rochelle"
+   ],
+   "tags": [],
+   "months": [
+    7
+   ]
+  },
+  {
+   "id": "larochelleminimes",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Stroll the Port des Minimes marina",
+   "desc": "Port des Minimes is described as the largest leisure harbour on the European Atlantic coast, with some 4,700 berths. It hosts the Grand Pavois boat show every September. A beach and park lie beside it.",
+   "tip": "Walk or cycle from the Vieux-Port; boat rental is available at the marina.",
+   "q": "Port des Minimes, La Rochelle",
+   "ll": [
+    46.14681,
+    -1.16684
+   ],
+   "src": [
+    "https://en.Wikipedia.com/wiki/Les_Minimes",
+    "https://www.chambres-hotes.fr/tourisme_proximite_port-des-minimes_la-rochelle_5722.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "larochelleconcurrence",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Swim at the Plage de la Concurrence",
+   "desc": "The most central beach in La Rochelle is about 150 m of sand close to the Vieux-Port, supervised in summer. Swimming depends on the tide, and at low tide the rocks make it harder.",
+   "tip": "Choose high tide for swimming; Minimes beach is larger and more sheltered.",
+   "q": "Plage de la Concurrence, La Rochelle",
+   "ll": [
+    46.15504,
+    -1.16061
+   ],
+   "src": [
+    "https://www.guide-tourisme-france.com/BAIGNADE/baignade-plage-concurrence-rochelle-1288.htm",
+    "https://www.plages.tv/detail/plage-de-la-concurrence-la-rochelle-17000"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "larochelleboyardsunset",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Sail past Fort Boyard from the Vieux-Port",
+   "desc": "Several operators leave the Vieux-Port, pass between the two towers and cruise around Fort Boyard, the sea fort known from the TV game show. La Rochelle Croisières runs a sunset trip in summer.",
+   "tip": "Check the duration and itinerary: some trips are short harbour rides, others circle the fort. Book in summer.",
+   "q": "Cours des Dames, Vieux-Port, La Rochelle",
+   "ll": [
+    46.15707,
+    -1.15381
+   ],
+   "src": [
+    "https://www.francevelotourisme.com/loisirs/loisirs-et-activites/escapade-sur-fort-boyard-au-soleil-couchant-la-rochelle-croisieres",
+    "https://www.holidays-la-rochelle.co.uk/objet/5742800"
+   ],
+   "tags": [],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "saintmartinvauban",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the Vauban ramparts of Saint-Martin-de-Ré",
+   "desc": "Vauban designed the citadel and town walls from 1681; Louis XIII's successor wanted to protect the arsenal at Rochefort. The fortifications are part of the UNESCO Fortifications of Vauban, inscribed in 2008. About 14 km of ramparts surround the town.",
+   "tip": "Walk the ramparts at golden hour and finish at the port.",
+   "q": "Fortifications de Saint-Martin-de-Ré, Saint-Martin-de-Ré",
+   "ll": [
+    46.20589,
+    -1.36315
+   ],
+   "src": [
+    "https://sites-vauban.org/en/major-sites/saint-martin-de-re",
+    "https://www.iledere.com/en/discover/must-sees/the-vauban-fortifications-of-saint-martin-de-re/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "pharedesbaleines",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the 257 steps of the Phare des Baleines",
+   "desc": "The lighthouse at the western tip of Île de Ré has a spiral staircase of 257 steps, mostly in blue granite. From the top the view takes in the ocean, the island and the Vendée and Charente-Maritime coasts. It stands in Saint-Clément-des-Baleines.",
+   "tip": "Hours change by season; arrive early in summer.",
+   "q": "Phare des Baleines, 155 Route du Phare, Saint-Clément-des-Baleines",
+   "ll": [
+    46.24307,
+    -1.55869
+   ],
+   "src": [
+    "https://www.iledere.com/en/organizing-activities-and-leisure/climb-the-257-steps-of-the-baleines-lighthouse-for-breathtaking-views-saint-clement-des-baleines-en-3507029",
+    "https://www.slow-village.com/le-phare-des-baleines/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "arsenreclocher",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the black-and-white steeple at Ars-en-Ré",
+   "desc": "The church of Saint-Étienne at Ars-en-Ré has a Gothic belfry topped by a black-and-white painted spire about 40 m high, a daymark for sailors. The village is classed among the most beautiful in France. Salt marshes surround it.",
+   "tip": "Climb the tower if open for views over the marshes and the Fier d'Ars.",
+   "q": "Église Saint-Étienne, Place Carnot, Ars-en-Ré",
+   "ll": [
+    46.2072,
+    -1.5147
+   ],
+   "src": [
+    "https://www.guide-tourisme-france.com/VISITER/clocher-ars-eglise-saint-etienne--ars-re-13014.htm",
+    "https://www.pariszigzag.fr/france/ars-en-re-2/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ileaixnapoleon",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Musée Napoléon on the Île d'Aix",
+   "desc": "The museum occupies the house where Napoleon stayed before his exile to Saint Helena in 1815. A combined ticket also covers the nearby African museum. The island has no private cars.",
+   "tip": "Ferries leave from Fouras; bring cash as there is no ATM on the island.",
+   "q": "Musée Napoléon, Rue Marengo, Île d'Aix",
+   "ll": [
+    46.01301,
+    -1.17466
+   ],
+   "src": [
+    "https://www.grandsudinsolite.fr/2268--.html",
+    "https://www.cityzeum.com/tourisme/ile-daix"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rochefortcorderie",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the Corderie royale in Rochefort",
+   "desc": "This 374-metre rope factory was built in 1666 on Louis XIV's order in Colbert's Arsenal. For two centuries it made rigging for the navy. It now houses the Centre international de la mer.",
+   "tip": "There is a restaurant, Les Longitudes, on site.",
+   "q": "Corderie Royale, Rue Jean-Baptiste Audebert, Rochefort",
+   "ll": [
+    45.93956,
+    -0.9556
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Corderie_Royale",
+    "https://www.guide-charente-maritime.com/en/tourism/discover/tourist-sites/museums/rochefort-411/corderie-royale-centre-international-de-la-mer-9507.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rochefortloti",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour Pierre Loti's house in Rochefort",
+   "desc": "The writer Pierre Loti was born in Rochefort and turned his house into an oriental fantasy. It is a listed monument since 1990 and was renovated for the centenary of his death. Visits are by guided tour with booking.",
+   "tip": "Reserve in advance; check the official site for tour times.",
+   "q": "Maison de Pierre Loti, 141 Rue Pierre Loti, Rochefort",
+   "ll": [
+    45.93415,
+    -0.96291
+   ],
+   "src": [
+    "https://monumentum.fr/monument-historique/pa00104869/rochefort-maison-de-pierre-loti",
+    "https://www.rochefort-ocean.com/en/explore/3d-visit-of-the-house-of-pierre-loti-in-rochefort"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "brouagecitadelle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the ramparts of the Brouage citadel",
+   "desc": "Brouage was founded in 1555 as a salt port and became a Richelieu citadel in the 1630s. It is known as the birthplace of Samuel de Champlain, founder of Quebec. The walls have corner watchtowers and now overlook marshland.",
+   "tip": "Walk the full ring of ramparts; allow 1-2 hours.",
+   "q": "Citadelle de Brouage, Brouage, Marennes-Hiers-Brouage",
+   "ll": [
+    45.86808,
+    -1.06933
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Hiers-Brouage",
+    "https://www.oleron-island.com/preparing-my-vacation/what-to-do/heritage-and-museums/citadelle-de-brouage"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "chateauoleroncitadelle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the citadel of Le Château-d'Oléron",
+   "desc": "Built in 1630 on Richelieu's orders on the remains of a medieval castle, the citadel now hosts exhibitions, shows and guided visits. Next to it is the old oyster port.",
+   "tip": "Check summer events and guided visits on the tourist office site.",
+   "q": "Citadelle du Château-d'Oléron, Le Château-d'Oléron",
+   "ll": [
+    45.88501,
+    -1.18933
+   ],
+   "src": [
+    "https://franco.wiki/fr/Le_Ch%C3%A2teau-d%27Ol%C3%A9ron.html",
+    "https://www.capfun.com/visiter-citadelle_du_chateau_d_oleron-FR.html"
+   ],
+   "tags": []
+  },
+  {
+   "id": "chassironphare",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the Phare de Chassiron on Oléron",
+   "desc": "The lighthouse at the northern tip of Île d'Oléron has 224 steps and a museum. The surrounding garden is laid out as a wind rose. The site can close in winds above 70 km/h.",
+   "tip": "The garden is free; the tower and museum share one ticket.",
+   "q": "Phare de Chassiron, Saint-Denis-d'Oléron",
+   "ll": [
+    46.0464,
+    -1.4104
+   ],
+   "src": [
+    "https://www.avygeo.com/fr/guide/lieux-interet/75980-phare-de-chassiron",
+    "https://monumentum.fr/jardin-remarquable/JAR0000282/saint-denis-doleron-jardins-du-phare-de-chassiron"
+   ],
+   "tags": []
+  },
+  {
+   "id": "royannotredame",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the concrete Notre-Dame church in Royan",
+   "desc": "Architect Guillaume Gillet built this reinforced-concrete church from 1955 to 1958 after Royan's wartime destruction. Its thin saddle-shaped roof leaves no pillars inside. It has been a monument historique since 1988.",
+   "tip": "The interior light through the stained glass is the highlight.",
+   "q": "Église Notre-Dame, Boulevard Frédéric Garnier, Royan",
+   "ll": [
+    45.62353,
+    -1.03272
+   ],
+   "src": [
+    "https://www.techno-science.net/fr/definitions/eglise-notre-dame-de-royan",
+    "https://www.royanatlantique.fr/en/tours-excursions/church-of-our-lady-of-royan-royan/"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "talmontchurch",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Talmont-sur-Gironde and its Romanesque church",
+   "desc": "The 12th-century church of Sainte-Radegonde sits on a promontory above the Gironde estuary. The village is one of the most beautiful in France and has carrelets, fishing huts on stilts. The village centre is pedestrian-only.",
+   "tip": "Come at high tide for photos.",
+   "q": "Église Sainte-Radegonde, Talmont-sur-Gironde",
+   "ll": [
+    45.53459,
+    -0.90919
+   ],
+   "src": [
+    "https://monumentum.fr/monument-historique/pa00105279/talmont-sur-gironde-eglise-sainte-radegonde",
+    "https://www.les-plus-beaux-villages-de-france.org/en/our-villages/talmont-sur-gironde/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "meschersregulus",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the Régulus caves at Meschers",
+   "desc": "These cliff caves along the Gironde estuary were enlarged by people into a troglodyte dwelling place. Visits cover the estuary geology, carrelets, the legend of Cadet the wrecker and Protestant refuge in the Wars of Religion.",
+   "tip": "Guided and self-guided visits; hours vary by season.",
+   "q": "Grottes de Régulus, 81 Boulevard de la Falaise, Meschers-sur-Gironde",
+   "ll": [
+    45.55556,
+    -0.95833
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Grottes_de_R%C3%A9gulus"
+   ],
+   "tags": []
+  },
+  {
+   "id": "saintesgermanicus",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Arc de Germanicus in Saintes",
+   "desc": "This Roman arch dates from 18 or 19 AD and once stood at the end of the bridge over the Charente. It honours Tiberius, Germanicus and Drusus. Prosper Mérimée saved it from demolition in 1843.",
+   "tip": "Free access on Place Bassompierre beside the river.",
+   "q": "Arc de Germanicus, Place Bassompierre, Saintes",
+   "ll": [
+    45.7459,
+    -0.6299
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Arch_of_Germanicus",
+    "https://www.routard.com/fr/guide/france/poitou-charentes/charente-maritime/saintes/arc-de-germanicus"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "saintesamphitheatre",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Sit in the Gallo-Roman amphitheatre of Saintes",
+   "desc": "The arena, among the oldest in Gaul, was built under Augustus-Claudius and abandoned in the 3rd century. Restoration finished in 2024. It sits in the Vallon des Arènes and hosts summer concerts.",
+   "tip": "Address: 20 rue Lacurie. Check hours before going.",
+   "q": "Amphithéâtre gallo-romain, 20 Rue Lacurie, Saintes",
+   "ll": [
+    45.74579,
+    -0.64395
+   ],
+   "src": [
+    "https://guide-charente-maritime.com/en/tourism/discover/tourist-sites/gallo-roman/saintes-243/amphitheatre-gallo-romain-12167.html",
+    "https://www.culture.gouv.fr/regions/drac-nouvelle-aquitaine/amphitheatre-gallo-romain-de-saintes-la-porte-des-vivants-restauree"
+   ],
+   "tags": []
+  },
+  {
+   "id": "saintesabbayeauxdames",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Admire the Romanesque front of the Abbaye aux Dames",
+   "desc": "The abbey's west façade is a highlight of Saintonge Romanesque art, with blind arcades and carved capitals. Since 2013 the abbey has been a cité musicale and hosts the Festival de Saintes, created in 1972.",
+   "tip": "Audio tours with 3D-sound headphones run from cloister to bell tower.",
+   "q": "Abbaye aux Dames, Place de l'Abbaye, Saintes",
+   "ll": [
+    45.74448,
+    -0.62388
+   ],
+   "src": [
+    "https://www.routard.com/fr/guide/france/poitou-charentes/charente-maritime/saintes/abbaye-aux-dames",
+    "https://the-french-atlantic-coast.com/abbaye-aux-dames-a-historic-abbey-turned-music-centre/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "saintescathedrale",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Find the hidden cloister of Saintes cathedral",
+   "desc": "Saint-Pierre cathedral has been a monument historique since 1862. Its 13th-century canonical cloister, listed in 1937, is one of the few of its kind in France. Only the south and west galleries survive.",
+   "tip": "The cloister is behind the cathedral; check hours with the tourist office.",
+   "q": "Cathédrale Saint-Pierre, Place du Synode, Saintes",
+   "ll": [
+    45.7445,
+    -0.63194
+   ],
+   "src": [
+    "https://www.techno-science.net/fr/definitions/cathedrale-saint-pierre-de-saintes",
+    "https://en.saintes-tourisme.fr/?p=395"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ponsdonjon",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb to the Pons donjon",
+   "desc": "The 33 m keep of Pons is what remains of a major medieval castle that Louis XIII had largely destroyed after the 1621 siege. Nearby is the Romanesque hospital for pilgrims on the Way of St James, part of the UNESCO route listing.",
+   "tip": "Combine with the nearby pilgrims' hospital, founded around 1160.",
+   "q": "Donjon de Pons, Pons",
+   "ll": [
+    45.57818,
+    -0.54768
+   ],
+   "src": [
+    "https://www.techno-science.net/fr/definitions/donjon-de-pons",
+    "https://monumentum.fr/monument-historique/pa00105316/pons-ancien-chateau-de-pons"
+   ],
+   "tags": []
+  },
+  {
+   "id": "royanmarchecentral",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Shop for oysters at Royan's concrete market",
+   "desc": "Royan's Marché central is a thin-shell concrete hall from the 1950s, listed as a monument historique in 2002. Nearly 200 traders sell oysters, fish, cheese and more, and it comes alive on Wednesday and Sunday mornings.",
+   "tip": "Eat oysters from the market stalls; Wednesday and Sunday are biggest.",
+   "q": "Marché central, Boulevard Aristide Briand, Royan",
+   "ll": [
+    45.62767,
+    -1.03128
+   ],
+   "src": [
+    "https://www.royanatlantique.fr/en/visites-excursions/marche-central-de-royan-royan/",
+    "https://www.grandsudinsolite.fr/2912--royan-s-central-market--a-truly-historic-and-innovative-monument.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "oleronmarcelle",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste oysters at Les Huîtres Marcelle in Ors",
+   "desc": "This oyster tasting hut at 79 avenue de la Beaucoursière in Ors, Le Château-d'Oléron, faces the marshes and sits next to the owners' oyster farm. It serves oysters, shellfish and crustaceans with local products such as rillettes de la mer. Takeaway is available year-round.",
+   "tip": "Open seasonally from April to September for sit-down tasting; check hours before you go. In peak mussel season it may serve éclades, mussels cooked under pine needles.",
+   "q": "Les Huîtres Marcelle, 79 Avenue de la Beaucoursière, Ors, Le Château-d'Oléron",
+   "ll": [
+    45.86937,
+    -1.21131
+   ],
+   "src": [
+    "https://www.oleron-island.com/objet/6501538"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "oleroncabanedrapeau",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try Oléron oysters at La Cabane au Drapeau",
+   "desc": "La Cabane au Drapeau, on the same avenue de la Beaucoursière in Ors, offers tastings of Oléron oysters. It is among the oyster cabins around the Château-d'Oléron.",
+   "tip": "Ask for the boulots (whelks) as well; check opening times.",
+   "q": "La Cabane au Drapeau, Avenue de la Beaucoursière, Chenal d'Ors, Le Château-d'Oléron",
+   "ll": [
+    45.86369,
+    -1.19972
+   ],
+   "src": [
+    "https://www.oleron-island.com/objet/7453109"
+   ],
+   "tags": []
+  },
+  {
+   "id": "rochefortdemoiselles",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat mussels on Place Colbert at the Brasserie des Demoiselles",
+   "desc": "This brasserie on Rochefort's main square serves traditional dishes, mussels, oysters and pizzas. It has a large terrace and serves lunch and dinner.",
+   "tip": "Lunch runs 12 to 3 pm and dinner 7 to 10 pm in the listing.",
+   "q": "Brasserie des Demoiselles, Place Colbert, Rochefort",
+   "ll": [
+    45.93628,
+    -0.96175
+   ],
+   "src": [
+    "https://www.rochefort-ocean.com/en/plan-your-stay/restaurants-and-coffee-shops/where-to-eat/brasserie-des-demoiselles-111051",
+    "https://guide-charente-maritime.com/en/tourism/eating-and-drinking/restaurants/pubs/rochefort-411/brasserie-des-demoiselles-10408.html"
+   ],
+   "tags": []
+  },
+  {
+   "id": "rochefortlongitudes",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine on fish at Les Longitudes in the Arsenal",
+   "desc": "Les Longitudes is a brasserie inside the Corderie royale, serving traditional French cooking and fish in the old Colbert arsenal.",
+   "tip": "Pair it with the Corderie visit.",
+   "q": "Les Longitudes, Rue Jean-Baptiste Audebert, Rochefort",
+   "ll": [
+    45.93782,
+    -0.9564
+   ],
+   "src": [
+    "https://www.rochefort-ocean.com/en/plan-your-stay/restaurants-and-coffee-shops/where-to-eat/les-longitudes-3138776"
+   ],
+   "tags": []
+  },
+  {
+   "id": "rochefortbistrothalles",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order mussels marinière at the Bistrot des Halles",
+   "desc": "A traditional bistro opposite the Halles at 21 avenue Charles de Gaulle, with a seasonal menu of steaks, mussels marinière, steak tartare and house desserts. Lunch menus are often around 15-18 euros.",
+   "tip": "Book at weekends and on market days.",
+   "q": "Bistrot des Halles, 21 Avenue Charles de Gaulle, Rochefort",
+   "ll": [
+    45.93537,
+    -0.95922
+   ],
+   "src": [
+    "https://rankeat.fr/restaurants/bistrot-des-halles-rochefort",
+    "https://wanderlog.com/place/details/2719182/bistrot-des-halles-rochefort-sur-mer"
+   ],
+   "tags": []
+  },
+  {
+   "id": "rochefortviolon",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat fish at Le Violon d'Ingres on Place Colbert",
+   "desc": "Le Violon d'Ingres sits on the edge of Place Colbert. Its speciality is fish, with traditional home cooking.",
+   "tip": "Check opening days before going.",
+   "q": "Le Violon d'Ingres, Place Colbert, Rochefort",
+   "ll": [
+    45.93692,
+    -0.9609
+   ],
+   "src": [
+    "https://rochefort-ocean.com/en/plan-your-stay/restaurants-and-coffee-shops/where-to-eat/le-violon-d-ingres-4187658"
+   ],
+   "tags": []
+  },
+  {
+   "id": "saintmartinmartiniere",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Get artisan ice cream at La Martinière on the quay",
+   "desc": "La Martinière is a restaurant and ice-cream parlour at 19 quai de la Poithevinière on the port of Saint-Martin-de-Ré. Reviewers praise its homemade ice cream and waffles and the sunny terrace.",
+   "tip": "Walk the harbour after your ice cream.",
+   "q": "La Martinière, 19 Quai de la Poithevinière, Saint-Martin-de-Ré",
+   "ll": [
+    46.20459,
+    -1.36823
+   ],
+   "src": [
+    "https://mapstr.com/place/SxYmLzUGb2g"
+   ],
+   "tags": []
+  },
+  {
+   "id": "saintmartintoutducru",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat seafood at Le Tout du Cru",
+   "desc": "A seafood restaurant at 9 quai Job Foran on the port of Saint-Martin-de-Ré, known for fresh fish and shellfish.",
+   "tip": "Book in summer.",
+   "q": "Le Tout du Cru, 9 Quai Job Foran, Saint-Martin-de-Ré",
+   "ll": [
+    46.20496,
+    -1.36634
+   ],
+   "src": [
+    "https://mapstr.com/place/jW4PbCtOt9g"
+   ],
+   "tags": []
+  },
+  {
+   "id": "saintmartinserghi",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have fish at Le Serghi on the quiet quay",
+   "desc": "Le Serghi is on Quai Georges Clemenceau, in the quietest part of the port of Saint-Martin-de-Ré. It serves seafood and fish and opens all year.",
+   "tip": "Quieter than the main quay.",
+   "q": "Le Serghi, Quai Georges Clemenceau, Saint-Martin-de-Ré",
+   "ll": [
+    46.20611,
+    -1.36613
+   ],
+   "src": [
+    "https://www.iledere.com/en/eating-out/restaurants-and-cabins/restaurants/le-serghi-saint-martin-de-re-en-3445530/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "laflottemarche",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Graze at the La Flotte covered market",
+   "desc": "The market occupies an 18th-century hall built on the remains of a former monastery, open daily all year. It was voted the department's best market in 2024. La Flotte is a most beautiful village of France.",
+   "tip": "Go in the morning.",
+   "q": "Marché de La Flotte, Place du Marché, La Flotte",
+   "ll": [
+    46.18779,
+    -1.3265
+   ],
+   "src": [
+    "https://www.iledere.com/en/organizing-activities-and-leisure/places-to-visit-heritage-culture/museums-and-monuments/la-flotte-historic-market-la-flotte-en-5413894/",
+    "https://www.pariszigzag.fr/sortir-paris/balade-paris/la-flotte-ile-re/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "laflotteespritdusel",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Buy fleur de sel at Esprit du Sel in La Flotte",
+   "desc": "Esprit du Sel is a shop in La Flotte selling Île de Ré salt. The island's salt marshes still have around sixty sauniers.",
+   "tip": "Fleur de sel is the one to buy.",
+   "q": "Esprit du Sel, La Flotte",
+   "ll": [
+    46.18745,
+    -1.32653
+   ],
+   "src": [
+    "https://www.iledere.com/en/information/shopping/the-esprit-du-sel-shop-in-la-flotte-la-flotte-en-3721524/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "domaineduchenepineau",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste pineau at Domaine du Chêne",
+   "desc": "A family estate since 1865 at Saint-Palais-de-Phiolin near Royan, making pineau des Charentes and cognac. It offers a visit of the vineyard, distillery and cellar with tasting.",
+   "tip": "Booking is recommended; a Sunday visit was listed for 2026.",
+   "q": "Domaine du Chêne, 20 Rue des Chênes, Saint-Palais-de-Phiolin",
+   "ll": [
+    45.50871,
+    -0.62307
+   ],
+   "src": [
+    "https://www.ruedesvignerons.com:443/en/domaine/1682/domaine-du-chene",
+    "https://www.guide-charente-maritime.com/en/tourism/tasting/producers-shops/saint-palais-de-phiolin-165/oak-estate-13371.html"
+   ],
+   "tags": []
+  },
+  {
+   "id": "julesgautretpineau",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Visit the Jules Gautret pineau cellars",
+   "desc": "Jules Gautret offers a guided visit of three cellars, including one at Saint-Sulpice-de-Royan, for cognac and pineau, with online booking.",
+   "tip": "Book online with free cancellation up to 48 hours before.",
+   "q": "Jules Gautret, Saint-Sulpice-de-Royan",
+   "ll": [
+    45.68368,
+    -0.99728
+   ],
+   "src": [
+    "https://www.winetourism.com/fr/experience/le-magie-cognac-et-pineau-des-charentes/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "barbotinpineau",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste pineau at Maison Barbotin in Meursac",
+   "desc": "Maison Barbotin, 68 rue de Saintonge in Meursac, offers tasting and sales at the property.",
+   "tip": "Call ahead.",
+   "q": "Maison Barbotin, 68 Rue de Saintonge, Les Épeaux, Meursac",
+   "ll": [
+    45.563,
+    -0.887
+   ],
+   "src": [
+    "https://en.saintes-tourisme.fr/fiche-sit/natol-maison-barbotin-5720855/",
+    "https://www.maison-barbotin.fr"
+   ],
+   "tags": []
+  },
+  {
+   "id": "reflottecycling",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cycle from La Flotte to Saint-Martin-de-Ré",
+   "desc": "This flat 8 km ride crosses cultivated areas and suits children. Île de Ré has 100 km of signposted cycle routes.",
+   "tip": "Rent bikes at La Flotte; avoid lunchtime crowds.",
+   "q": "Cycland, La Flotte",
+   "ll": [
+    46.18733,
+    -1.32646
+   ],
+   "src": [
+    "https://www.af3v.org/-Fiche-VVV-.html?voie=257",
+    "https://www.francevelotourisme.com/pratique/loueurs-reparateurs-de-velo/cycland-a-la-flotte"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "loixecomusee",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the salt marsh at the Écomusée de Loix",
+   "desc": "The ecomuseum explains salt history and production, with an outdoor route through the basins open since 1990. Fleur de sel is harvested in season.",
+   "tip": "Visit takes around an hour; check season hours.",
+   "q": "Écomusée du Marais Salant, Loix",
+   "ll": [
+    46.22057,
+    -1.45835
+   ],
+   "src": [
+    "https://generationvoyage.fr/attraction/ecomusee-marais-salant-ile-de-re/",
+    "https://www.iledere.com/en/organizing-activities-and-leisure/places-to-visit-heritage-culture/visit-the-ecomuseum-groups-loix-en-4712116"
+   ],
+   "tags": []
+  },
+  {
+   "id": "couardeseldisabelle",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Visit the salt marsh of Sel d'Isabelle",
+   "desc": "A guided visit of the salt marshes at La Couarde-sur-Mer by a saunier.",
+   "tip": "Book via the island's activity site.",
+   "q": "Sel d'Isabelle, La Couarde-sur-Mer",
+   "ll": [
+    46.19446,
+    -1.41911
+   ],
+   "src": [
+    "https://experience.iledere.com/en/activities/la-couarde-sur-mer/6332811-visite-des-marais-salants-du-sel-disabelle/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "cordouancruise",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Sail from Royan to the Phare de Cordouan",
+   "desc": "Cordouan, the oldest lighthouse in France still active, stands in the Gironde estuary and is a UNESCO site. It is reached by boat from Royan or Pointe de Grave at low tide; boats leave from the Monastir pontoon in Royan and take about 45 minutes.",
+   "tip": "Booking is compulsory; times follow the tide. Season runs roughly Easter to November.",
+   "q": "Ponton Monastir, Port de Royan, Royan",
+   "ll": [
+    45.62095,
+    -1.0293
+   ],
+   "src": [
+    "https://www.phare-de-cordouan.fr/it-it/access-to-the-lighthouse/",
+    "https://fr.wikipedia.org/wiki/Phare_de_Cordouan"
+   ],
+   "tags": [],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "fourasfortenet",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk at low tide to Fort Enet",
+   "desc": "Fort Enet lies between Fouras and Île d'Aix, surrounded by water at high tide. It can be reached on foot on the ebb tide only as part of a guided visit, with waterproof footwear advised.",
+   "tip": "Book a guided visit via the Rochefort Océan tourist office.",
+   "q": "Fort Enet, Pointe de la Fumée, Fouras",
+   "ll": [
+    46.00389,
+    -1.14306
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Fort_Enet",
+    "https://www.rochefort-ocean.com/en/explore/fort-enet-in-fouras-les-bains"
+   ],
+   "tags": []
+  },
+  {
+   "id": "fourascarrelets",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the carrelets of the Anse de Fouras",
+   "desc": "A waymarked walk past the fishing huts on stilts in the Anse de Fouras.",
+   "tip": "Check tide times.",
+   "q": "Fort Vauban, Anse de Fouras, Fouras",
+   "ll": [
+    45.98582,
+    -1.09641
+   ],
+   "src": [
+    "https://www.visorando.com/en/walk-les-carrelets-de-l-anse-de-fouras/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ileaixcycling",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cycle around the car-free Île d'Aix",
+   "desc": "Ferries from Fouras reach the island, which is explored on foot or by bike; a circuit takes about two hours.",
+   "tip": "Take cash; rent bikes at the landing.",
+   "q": "Embarcadère de la Pointe de la Fumée, Fouras",
+   "ll": [
+    45.9985,
+    -1.1035
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Pointe_de_la_Fum%C3%A9e",
+    "https://fr.wikipedia.org/wiki/%C3%8Ele_d%27Aix"
+   ],
+   "tags": [],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "rochefortpontransbordeur",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cross the Charente on the Rochefort transporter bridge",
+   "desc": "The Martrou transporter bridge, designed by Ferdinand Arnodin and opened on 29 July 1900, is the last of its type in France. The gondola carries pedestrians and cyclists in about five minutes from April to October.",
+   "tip": "Tickets from card-only machines; the Maison du Transbordeur on the Échillais side is free.",
+   "q": "Pont transbordeur de Rochefort-Martrou, Avenue Jacques Demy, Rochefort",
+   "ll": [
+    45.91613,
+    -0.96063
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Rochefort-Martrou_Transporter_Bridge"
+   ],
+   "tags": [],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "saintrojanptittrain",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the P'tit Train through the Saint-Trojan forest",
+   "desc": "The only tourist railway on Oléron has run since 1963 through the state forest toward the Maumusson beaches. It runs daily from early April to late September.",
+   "tip": "No booking needed.",
+   "q": "Le P'tit Train de Saint-Trojan, Saint-Trojan-les-Bains",
+   "ll": [
+    45.81841,
+    -1.21698
+   ],
+   "src": [
+    "https://www.oleron-island.com/objet/5722954",
+    "https://the-french-atlantic-coast.com/all-aboard-the-ptit-train-de-saint-trojan-les-bain/"
+   ],
+   "tags": [],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "pontaillacsurf",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Surf or swim at Pontaillac beach",
+   "desc": "A 400 m beach in a sheltered bay with a surf school and club on the sand from April to November.",
+   "tip": "Rocks on the left of the beach.",
+   "q": "Plage de Pontaillac, Royan",
+   "ll": [
+    45.62545,
+    -1.05209
+   ],
+   "src": [
+    "https://www.royanatlantique.fr/en/plages-charente-maritime/plage-de-pontaillac-royan/",
+    "https://www.plages.tv/surf/spot/plage-de-pontaillac-royan-17200"
+   ],
+   "tags": [],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "palmyrezoo",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Spend a day at the Zoo de La Palmyre",
+   "desc": "Founded in 1966 by Claude Caillé, the 18-hectare zoo near Royan holds over 1,600 animals including great apes. Sea lion and bird shows run from Easter to All Saints.",
+   "tip": "Allow at least three hours; open daily.",
+   "q": "Zoo de la Palmyre, 6 Avenue de Royan, Les Mathes",
+   "ll": [
+    45.68716,
+    -1.16579
+   ],
+   "src": [
+    "https://www.royanatlantique.fr/en/tours-excursions/la-palmyre-zoo-les-mathes/",
+    "https://www.wikipedia.com/wiki/Palmyre_Zoo"
+   ],
+   "tags": []
+  },
+  {
+   "id": "cotinierecriee",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch the fish auction at La Cotinière",
+   "desc": "La Cotinière is Charente-Maritime's main fishing port with a new auction hall opened in 2022. The tourist office runs early morning visits of the criée, by reservation.",
+   "tip": "Visits start around 5 am; book ahead.",
+   "q": "Criée de La Cotinière, Saint-Pierre-d'Oléron",
+   "ll": [
+    45.91174,
+    -1.32521
+   ],
+   "src": [
+    "https://www.oleron-island.com/preparing-my-vacation/what-to-do/guided-tours-and-nature-outings/visite-de-la-criee-de-la-cotiniere",
+    "https://figaronautisme.meteoconsult.fr/actus-nautisme-flash/2022-09-12/64514-un-port-plus-grand-et-une-nouvelle-criee-a-la-cotiniere"
+   ],
+   "tags": []
+  },
+  {
+   "id": "esnandesmytiliculture",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Learn about bouchot mussels at Esnandes",
+   "desc": "The Maison de la Mytiliculture shows how bouchot mussels are raised in the bay of Aiguillon; since April 2025 it is run by La Rochelle Tourisme.",
+   "tip": "Check opening hours with La Rochelle Tourisme.",
+   "q": "Maison de la Mytiliculture, Place de l'Église, Esnandes",
+   "ll": [
+    46.24916,
+    -1.10955
+   ],
+   "src": [
+    "https://www.techno-science.net/fr/definitions/maison-de-la-mytiliculture",
+    "https://en.wikipedia.org/wiki/Esnandes"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "chateauoleronostreicole",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Follow the oyster-trade circuit at Le Château-d'Oléron",
+   "desc": "The walking circuit l'aventure ostréicole follows the old oyster port and its colourful cabins, now artists' workshops.",
+   "tip": "Start at the port.",
+   "q": "Port du Château-d'Oléron, Le Château-d'Oléron",
+   "ll": [
+    45.88329,
+    -1.18998
+   ],
+   "src": [
+    "https://www.oleron-island.com/getting-ready-for-my-holidays/what-to-do/walks-and-hikes/circuit-l-aventure-ostreicole-au-chateau-d-oleron",
+    "https://www.oleron-island.com/objet/5687057"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gatseaubeach",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Relax on Gatseau beach near Saint-Trojan",
+   "desc": "A quiet beach in the south of Oléron, a stop on the P'tit Train line and the point closest to the mainland.",
+   "tip": "Reach it by train or bike.",
+   "q": "Plage de Gatseau, Saint-Trojan-les-Bains",
+   "ll": [
+    45.81248,
+    -1.21833
+   ],
+   "src": [
+    "https://www.cityzeum.com/plage-de-gatseau",
+    "https://www.plages.tv/detail/plage-de-gatseau-saint-trojan-les-bains-17370"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  }
+ ]
+}

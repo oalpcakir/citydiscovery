@@ -1,0 +1,46 @@
+{
+ "picks": [
+  "royalballoon",
+  "goremeopenair",
+  "derinkuyuyeralti",
+  "ihlaravadisiyuruyus",
+  "kayserikalesi"
+ ],
+ "cards": {
+  "royalballoon": {
+   "name": "Cappadocia Balloon Flight",
+   "art": "park",
+   "slogan": "Dawn lifts off and the fairy chimneys fall away beneath you.",
+   "line": "The number of balloon companies flying here nearly tripled between 2006 and 2013.",
+   "source": "https://www.dailysabah.com/travel/2014/01/15/310000-visitors-in-skies-over-cappadocia-turkey"
+  },
+  "goremeopenair": {
+   "name": "Göreme Open-Air Museum",
+   "art": "church",
+   "slogan": "Painted chapels carved straight into the cliff.",
+   "line": "Göreme National Park and the rock sites of Cappadocia were put on the UNESCO World Heritage List in 1985.",
+   "source": "https://whc.unesco.org/en/list/357/"
+  },
+  "derinkuyuyeralti": {
+   "name": "Derinkuyu Underground City",
+   "art": "castle",
+   "slogan": "A whole town folded into the rock, eight floors down.",
+   "line": "Found in 1963 when a man knocked through his cellar wall, it could shelter up to 20,000 people and was sealed with rolling stone doors.",
+   "source": "https://en.wikipedia.org/wiki/Derinkuyu_underground_city"
+  },
+  "ihlaravadisiyuruyus": {
+   "name": "Ihlara Valley",
+   "art": "park",
+   "slogan": "Fifteen kilometres of canyon, a river and cliff-side churches.",
+   "line": "The Melendiz River carved a gorge up to 150 metres deep that holds around 50 rock-hewn churches.",
+   "source": "https://en.wikipedia.org/wiki/Ihlara_Valley"
+  },
+  "kayserikalesi": {
+   "name": "Kayseri Citadel",
+   "art": "castle",
+   "slogan": "Black Erciyes basalt walls in the middle of town.",
+   "line": "First mentioned on a coin of Emperor Gordian III (238-244), it was rebuilt by the Seljuk sultan Alaeddin Keykubad in 1224.",
+   "source": "https://en.wikipedia.org/wiki/Kayseri_Castle"
+  }
+ }
+}

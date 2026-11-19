@@ -1,0 +1,8 @@
+{"picks": ["anitkabir","anadolumedeniyetleri","ankarakalesi","kocatepe","midastumulus"],
+ "cards": {
+ "anitkabir": {"name": "Anıtkabir", "art": "museum", "slogan": "Twenty-four stone lions guide you up to the Republic's founder.", "line": "Sovereignty unconditionally belongs to the Nation.", "by": "Atatürk, carved on the lectern at Anıtkabir", "source": "https://en.wikipedia.org/wiki/An%C4%B1tkabir"},
+ "anadolumedeniyetleri": {"name": "Museum of Anatolian Civilizations", "art": "museum", "slogan": "Ten thousand years of Anatolia under Ottoman domes.", "line": "In 1997 it was named the first European Museum of the Year.", "source": "https://en.wikipedia.org/wiki/Museum_of_Anatolian_Civilizations"},
+ "ankarakalesi": {"name": "Ankara Castle", "art": "castle", "slogan": "Old walls over a capital that is barely a century old.", "line": "Its walls were patched together from large quantities of reused masonry, and Galatians rebuilt the fortress in 278 BC.", "source": "https://en.wikipedia.org/wiki/Ankara_Castle"},
+ "kocatepe": {"name": "Kocatepe Mosque", "art": "church", "slogan": "Four tall minarets watching over Kızılay's rush hour.", "line": "Built between 1967 and 1987, it holds 24,000 worshippers under minarets 88 metres high.", "source": "https://en.wikipedia.org/wiki/Kocatepe_Mosque"},
+ "midastumulus": {"name": "Midas Mound at Gordion", "art": "park", "slogan": "A tomb-hill you can walk into, 2,700 years later.", "line": "Raised around 740 BC, the great tumulus at Gordion still stands over 50 metres high.", "source": "https://en.wikipedia.org/wiki/Gordion"}
+ }}

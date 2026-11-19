@@ -1,5 +1,7 @@
 {
   "amsterdam": ["annefrankhuis", "rijkspassage", "vangoghmuseum", "paleisopdedam", "zaanseschans"],
+  "ankara": ["anitkabir", "anadolumedeniyetleri", "ankarakalesi", "kocatepe", "midastumulus"],
+  "antalya": ["aspendostheatre", "hadrianarch", "alanyakalesi", "sidetempleapollo", "stnicholasdemre"],
   "antwerpen": ["kathedraal", "centraal", "mas", "plantin", "kmska"],
   "basel": ["baslermuenster", "kunstmuseumbasel", "augustaraurica", "fondationbeyeler", "stursannecollegiale"],
   "berlin": ["bmbrandenburgertor", "bmfernsehturm", "boeastsidegallery", "bwschlosscharlottenburg", "bwgedaechtniskirche"],
@@ -7,6 +9,7 @@
   "brugge": ["belfort", "rozenhoedkaai", "begijnhof", "madonna", "molens"],
   "brussel": ["grandplace", "atomium", "horta", "magrittemuseum", "cinquantenaire"],
   "denhaag": ["mauritshuis", "hofvijver", "vredespaleis", "kunstmuseum", "kurhaus"],
+  "dortmund": ["dosignaliduna", "dobergbaumuseum", "dozollern", "doschiffshebewerkold", "dostarlightexpress"],
   "dresden": ["ddfrauenkirche", "ddzwinger", "ddbastei", "ddmoritzburg", "ddalbrechtsburg"],
   "duesseldorf": ["rheinturmuhr", "schwebebahn", "gehrybauten", "muengstenerbruecke", "schlossbenrath"],
   "frankfurt": ["roemerberg", "maintower", "kaiserdom", "mathildenhoehe", "grubemessel"],
@@ -15,8 +18,11 @@
   "hamburg": ["hmelphiplaza", "hmmichel", "hvfischmarkt", "hvtreppenviertel", "hvlangeanna"],
   "hannover": ["haherrenhausen", "haneuesrathaus", "hadom", "hafagus", "harattenfaengerhaus"],
   "istanbul": ["hagiasophia", "bluemosque", "galatatower", "dolmabahce", "maidenstower"],
+  "izmir": ["celsuslibrary", "pergamonacropolis", "izmirclocktower", "kemeraltibazaar", "alacatiwindmills"],
+  "kapadokya": ["royalballoon", "goremeopenair", "derinkuyuyeralti", "ihlaravadisiyuruyus", "kayserikalesi"],
   "kobenhavn": ["nyhavn", "tivoli", "littlemermaid", "kronborg", "roskildedom"],
   "koeln": ["kdomshrine", "khohenzollern", "kcaugustusburg", "kcaltenberg", "kmoschee"],
+  "leipzig": ["levoelkerschlacht", "lethomaskirche", "haschlosswoerlitz", "leschlosskirchewb", "leauerbachskeller"],
   "luxembourg": ["lxbock", "lxcorniche", "lcviandencastle", "lcbasilica", "lcbelval"],
   "lyon": ["fourviere", "longuetraboule", "hallesbocuse", "perouges", "brou"],
   "marseille": ["mrsnotredamegarde", "mrschateauif", "arlesamphitheatre", "bauxchateau", "aixcoursmirabeau"],
@@ -27,5 +33,6 @@
   "strasbourg": ["cathedralplatform", "petitefrancetanneurs", "hautkoenigsbourg", "pontscouverts", "montsainteodile"],
   "stuttgart": ["stmercedesmuseum", "stludwigsburgschloss", "sthohenzollern", "stporschemuseum", "sthoelderlinturm"],
   "utrecht": ["domtoren", "dehaar", "schroderhuis", "centraalmuseum", "koppelpoort"],
+  "versailles": ["chateauversailles", "chcathedral", "petittrianon", "vcsavoye", "sgchateau"],
   "zuerich": ["rheinfall", "zhgrossmuenster", "zhfraumuenster", "steinrathausplatz", "habsburgcastle"]
 }

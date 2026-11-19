@@ -1,0 +1,8 @@
+{"picks": ["chateauversailles","chcathedral","petittrianon","vcsavoye","sgchateau"],
+ "cards": {
+  "chateauversailles": {"name": "Palace of Versailles", "art": "palace", "slogan": "Seventeen hundred gilded years of royal show-off, one mirror at a time.", "line": "The Treaty of Versailles ending the First World War was signed in the Hall of Mirrors on 28 June 1919.", "source": "https://en.wikipedia.org/wiki/Palace_of_Versailles"},
+  "chcathedral": {"name": "Chartres Cathedral", "art": "church", "slogan": "Blue light that has poured through the same glass since 1200.", "line": "After the fire of 1194, the cathedral, with most of its glass and sculpture, was largely finished within just twenty-five years.", "source": "https://en.wikipedia.org/wiki/Chartres_Cathedral"},
+  "petittrianon": {"name": "Petit Trianon", "art": "palace", "slogan": "Marie-Antoinette's small, quiet escape from the court.", "line": "Built for Madame de Pompadour, it was given by Louis XVI in 1774 to 19-year-old Marie-Antoinette for her exclusive use.", "source": "https://en.wikipedia.org/wiki/Petit_Trianon"},
+  "vcsavoye": {"name": "Villa Savoye", "art": "museum", "slogan": "A white box on stilts that changed how the world builds.", "line": "A house is a machine for living in.", "by": "Le Corbusier, Vers une architecture, 1923", "source": "https://en.wikiquote.org/wiki/Le_Corbusier"},
+  "sgchateau": {"name": "Chateau of Saint-Germain-en-Laye", "art": "castle", "slogan": "Where a Sun King was born and prehistory now lives.", "line": "Louis XIV was born at the Chateau Neuf of Saint-Germain-en-Laye in 1638.", "source": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Saint-Germain-en-Laye"}
+ }}

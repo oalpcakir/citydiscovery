@@ -1,7 +1,47 @@
-{"picks":["levoelkerschlacht","lethomaskirche","lenikolaikirche","leschlosskirchewb","leauerbachskeller"],
-"cards":{
-"levoelkerschlacht":{"name":"Monument to the Battle of the Nations","art":"tower","slogan":"Five hundred steps up a granite giant for the whole of Saxony.","line":"Opened on 18 October 1913, a hundred years after the battle, it stands 91 metres tall.","source":"https://english.leipzig.de/leisure-culture-and-tourism/tourism/leipzigs-tourist-attractions/monument-to-the-battle-of-the-nations"},
-"lethomaskirche":{"name":"Thomaskirche","art":"church","slogan":"Where Bach led the choir for 27 years and still rests.","line":"Johann Sebastian Bach was Thomaskantor here from 1723 until his death in 1750; his grave lies in the chancel.","source":"https://en.wikipedia.org/wiki/St._Thomas_Church,_Leipzig"},
-"lenikolaikirche":{"name":"Nikolaikirche","art":"church","slogan":"Palm columns inside, a peaceful revolution outside.","line":"After the peace prayers of 9 October 1989, some 70,000 people marched around the Leipzig ring road without violence.","source":"https://germanhistorydocs.org/en/a-new-germany-1990-2023/prayer-for-peace-at-st-nicholas-church-in-leipzig-october-9-1989"},
-"leschlosskirchewb":{"name":"Schlosskirche Wittenberg","art":"church","slogan":"The door where one hammer changed Europe.","line":"Luther's 95 Theses are said to have been posted here in 1517; the wooden door burned and was replaced by bronze in 1858.","source":"https://en.wikipedia.org/wiki/All_Saints%27_Church,_Wittenberg"},
-"leauerbachskeller":{"name":"Auerbachs Keller","art":"market","slogan":"Goethe's students drank here, and Faust met the devil.","line":"My Leipzig, I praise it! It is a little Paris and educates its people.","by":"Goethe, Faust I, 1808 (Frosch)","source":"https://projekt-gutenberg.org/authors/johann-wolfgang-von-goethe/books/faust-eine-tragoedie/chapter/9"}}}
+{
+ "picks": [
+  "levoelkerschlacht",
+  "lethomaskirche",
+  "haschlosswoerlitz",
+  "leschlosskirchewb",
+  "leauerbachskeller"
+ ],
+ "cards": {
+  "levoelkerschlacht": {
+   "name": "Monument to the Battle of the Nations",
+   "art": "tower",
+   "slogan": "Five hundred steps up a granite giant for the whole of Saxony.",
+   "line": "Opened on 18 October 1913, a hundred years after the battle, it stands 91 metres tall.",
+   "source": "https://english.leipzig.de/leisure-culture-and-tourism/tourism/leipzigs-tourist-attractions/monument-to-the-battle-of-the-nations"
+  },
+  "lethomaskirche": {
+   "name": "Thomaskirche",
+   "art": "church",
+   "slogan": "Where Bach led the choir for 27 years and still rests.",
+   "line": "Johann Sebastian Bach was Thomaskantor here from 1723 until his death in 1750; his grave lies in the chancel.",
+   "source": "https://en.wikipedia.org/wiki/St._Thomas_Church,_Leipzig"
+  },
+  "leschlosskirchewb": {
+   "name": "Schlosskirche Wittenberg",
+   "art": "church",
+   "slogan": "The door where one hammer changed Europe.",
+   "line": "Luther's 95 Theses are said to have been posted here in 1517; the wooden door burned and was replaced by bronze in 1858.",
+   "source": "https://en.wikipedia.org/wiki/All_Saints%27_Church,_Wittenberg"
+  },
+  "leauerbachskeller": {
+   "name": "Auerbachs Keller",
+   "art": "market",
+   "slogan": "Goethe's students drank here, and Faust met the devil.",
+   "line": "My Leipzig, I praise it! It is a little Paris and educates its people.",
+   "by": "Goethe, Faust I, Auerbach’s Cellar scene, 1808",
+   "source": "https://projekt-gutenberg.org/authors/johann-wolfgang-von-goethe/books/faust-eine-tragoedie/chapter/9"
+  },
+  "haschlosswoerlitz": {
+   "name": "Schloss Wörlitz",
+   "art": "palace",
+   "slogan": "A little white palace that taught Germany a new style.",
+   "line": "Finished in 1773, it is called the first Neoclassical building in present-day Germany.",
+   "source": "https://en.wikipedia.org/wiki/Dessau-W%C3%B6rlitz_Garden_Realm"
+  }
+ }
+}

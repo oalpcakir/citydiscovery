@@ -1,0 +1,552 @@
+{
+ "new": [
+  {
+   "id": "padom",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the world's largest cathedral organ in Dom St. Stephan",
+   "desc": "Dom St. Stephan is the baroque landmark of the old town, rebuilt after the fire of 1662 with Carlo Lurago as the leading architect. Its organ, completed in 1928 and since expanded, is counted as the largest cathedral organ in the world.",
+   "tip": "Free to enter outside services; the organ is played in scheduled concerts, see the Dommusik programme. Look up at the stucco ceiling.",
+   "q": "Dom St. Stephan, Domplatz, 94032 Passau",
+   "ll": [
+    48.57439,
+    13.46365
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Passauer_Dom",
+    "https://www.bergfex.com/sommer/passau/highlights/21517-dom-st-stephan-mit-groesster-domorgel-der-welt/"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "paoberhaus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore Veste Oberhaus above the three rivers",
+   "desc": "Veste Oberhaus was founded in 1219 by Bishop Ulrich II and grew into one of Europe's largest surviving castle complexes. It houses the Oberhausmuseum and has an observation tower over the old town and the river confluence.",
+   "tip": "Open mid-March to mid-November (check hours); a lift runs from the visitor car park, or walk up via the Ludwigsteig in about 15 minutes.",
+   "q": "Veste Oberhaus, Oberhaus 125, 94034 Passau",
+   "ll": [
+    48.5776,
+    13.4691
+   ],
+   "src": [
+    "https://tourism.passau.de/discover-passau/sights/fortress-veste-oberhaus",
+    "https://de.wikipedia.org/wiki/Veste_Oberhaus_(Passau)"
+   ]
+  },
+  {
+   "id": "paorts",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Watch three rivers meet at the Dreiflüsseeck",
+   "desc": "At the Ortspitze the blue Inn and the dark Ilz join the green Danube, often with a visible colour line. The tip of the peninsula is a public park with a view of Veste Oberhaus.",
+   "tip": "Best on a clear morning when the colours contrast. Free, with benches and a riverside walk.",
+   "q": "Dreiflüsseeck, Ortspitze, 94032 Passau",
+   "ll": [
+    48.57371,
+    13.47681
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Dreiflüsseeck",
+    "https://tourism.passau.de/discover-passau/sights/fortress-veste-oberhaus"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "parathaus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Altstädter Rathaus and its flood marks",
+   "desc": "The Rathaus on Rathausplatz is a Gothic town hall expanded in the 19th century with a tower and a glockenspiel. Marks on its wall record the great Danube floods of past centuries.",
+   "tip": "The glockenspiel plays daily at 11:30 and 14:30 according to the tourist office, which sits in the same building.",
+   "q": "Altes Rathaus Passau, Rathausplatz 2, 94032 Passau",
+   "ll": [
+    48.57493,
+    13.46869
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Altes_Rathaus_(Passau)",
+    "https://tourismus.passau.de/passau-sehen-erleben/museen-in-passau/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "paschaibling",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk to the Schaiblingsturm on the Inn",
+   "desc": "The Schaiblingsturm is a medieval round defensive tower on the bank of the Inn, part of the old town fortifications. It stands along the Innpromenade with a view across to the Innstadt.",
+   "tip": "Combine with a stroll along the Innpromenade; the tower is viewed from outside. Pleasant at sunset.",
+   "q": "Schaiblingsturm, Fritz-Schäffer-Promenade, 94032 Passau",
+   "ll": [
+    48.57319,
+    13.47175
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schaiblingsturm",
+    "https://www.alpen-guide.de/reisefuehrer/ausfluege/passau-94032/sehenswuerdigkeiten/museen/indoor"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "paniedernburg",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the frescoes at Kloster Niedernburg",
+   "desc": "Niedernburg Abbey is one of the oldest in Bavaria, and its church holds the tomb of Gisela of Bavaria. The Fresko-Museum preserves frescoes recalling St. Mary's church, destroyed in the town fires of the 17th century.",
+   "tip": "Check opening hours of the Fresken-Museum at the tourist office. The abbey lies near the tip of the peninsula.",
+   "q": "Kloster Niedernburg, Niedernburggasse 23, 94032 Passau",
+   "ll": [
+    48.57394,
+    13.47158
+   ],
+   "src": [
+    "https://tourism.passau.de/discover-passau/museums/",
+    "https://de.wikipedia.org/wiki/Kloster_Niedernburg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "paboiotro",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step back to Rome at Kastell Boiotro",
+   "desc": "The Roman museum in the Innstadt sits on the foundations of the late Roman fort Boiotro, in a late medieval house. It shows finds from the Roman frontier on the Danube.",
+   "tip": "Small museum, about an hour; the Innstadt is quieter than the old town. Check seasonal opening hours.",
+   "q": "Römermuseum Kastell Boiotro, Lederergasse 43, 94032 Passau",
+   "ll": [
+    48.56988,
+    13.46209
+   ],
+   "src": [
+    "https://tourism.passau.de/discover-passau/museums/",
+    "https://de.wikipedia.org/wiki/Römermuseum_Kastell_Boiotro"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "pawoerlen",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Browse modern art at Museum Moderner Kunst Wörlen",
+   "desc": "The museum is based on the estate of the painter Georg Philipp Wörlen (1886-1954) and shows 20th and 21st century art. It runs about ten temporary exhibitions a year.",
+   "tip": "Look up the current exhibition before going. Good for a rainy afternoon.",
+   "q": "Museum Moderner Kunst Wörlen, Bräugasse 17, 94032 Passau",
+   "ll": [
+    48.57457,
+    13.4728
+   ],
+   "src": [
+    "https://tourism.passau.de/discover-passau/museums/",
+    "https://de.wikipedia.org/wiki/Museum_Moderner_Kunst_Wörlen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "paglas",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Marvel at Bohemian glass in the Glasmuseum Passau",
+   "desc": "The Glasmuseum in the Hotel Wilder Mann occupies several historic patrician houses on the Danube. It is described as the largest museum of European glass, with a focus on Bohemian glass.",
+   "tip": "Plan about 1.5 hours; the entrance is at Rathausplatz.",
+   "q": "Glasmuseum Passau, Am Rathausplatz 2, 94032 Passau",
+   "ll": [
+    48.5751,
+    13.46842
+   ],
+   "src": [
+    "https://tourism.passau.de/discover-passau/museums/",
+    "https://de.wikipedia.org/wiki/Glasmuseum_Passau"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "pamuseumdom",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See church treasures at the Museum am Dom",
+   "desc": "The Museum am Dom is in the Residence building next to the cathedral and shows art masterpieces and treasures of the Passau diocese.",
+   "tip": "Check opening days, which vary by season; combine with a visit to the cathedral next door.",
+   "q": "Museum am Dom, Residenzplatz 8, 94032 Passau",
+   "ll": [
+    48.5734,
+    13.4666
+   ],
+   "src": [
+    "https://tourism.passau.de/discover-passau/museums/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "paresidenz",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stroll Residenzplatz and the Neue Residenz",
+   "desc": "Residenzplatz lies beside the cathedral and is framed by the Baroque and Rococo bishop's residence. It is one of the old town's most photographed squares.",
+   "tip": "Best seen in the morning light; free to walk through.",
+   "q": "Residenzplatz, 94032 Passau",
+   "ll": [
+    48.57441,
+    13.46714
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Residenzplatz_(Passau)",
+    "https://tourism.passau.de/discover-passau/museums/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "pastudienkirche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step inside Studienkirche St. Michael",
+   "desc": "The Jesuit Studienkirche St. Michael is a Baroque church built in the 17th century with rich stucco. It is also a venue of the Europäische Wochen festival.",
+   "tip": "Usually open to visitors during the day; check for concert times.",
+   "q": "Studienkirche St. Michael, Michaeligasse, 94032 Passau",
+   "ll": [
+    48.5736,
+    13.468
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Studienkirche_St._Michael_(Passau)"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "pahacklberg",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink a Hacklberger beer at the Bräustüberl",
+   "desc": "The Hacklberger Bräustüberl is the brewery tavern of Brauerei Hacklberg, whose brewing dates to 1618. It has a large beer garden that moves indoors in winter and a kitchen serving regional dishes.",
+   "tip": "Try a Hacklberger Hell with a Schweinsbraten. The beer garden is the draw in summer.",
+   "q": "Hacklberger Bräustüberl, Bräuhausplatz 7, 94034 Passau",
+   "ll": [
+    48.57702,
+    13.44396
+   ],
+   "src": [
+    "https://www.hacklberger-braeustueberl.de/",
+    "https://tourismus.passau.de/essen-trinken/restaurants/"
+   ]
+  },
+  {
+   "id": "paheiliggeist",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste estate wine at the Heilig-Geist-Stiftsschenke",
+   "desc": "This historic wine tavern dates to 1358 and belongs to the Heilig-Geist hospital foundation, with a rustic Stiftskeller. It serves estate wines and fresh fish.",
+   "tip": "Order a glass of the Stift's own wine with the fish of the day.",
+   "q": "Heilig-Geist-Stiftsschenke, Heiliggeistgasse 4, 94032 Passau",
+   "ll": [
+    48.57366,
+    13.45892
+   ],
+   "src": [
+    "https://tourismus.passau.de/essen-trinken/restaurants/",
+    "https://restaurant.info/restaurant/heilig-geist-stiftsschenke-und-stiftskeller"
+   ]
+  },
+  {
+   "id": "pasimon",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try the Passauer Goldhaube at Café Simon",
+   "desc": "Café Simon on Rindermarkt began in 1903 as a wax chandler, confectioner and gingerbread maker and still sits in its original rooms. It is known for chocolates and its Passauer Goldhaube specialty.",
+   "tip": "Take a Goldhaube or a slice of cake with coffee; it closes earlier than the restaurants.",
+   "q": "Café Simon, Rindermarkt 10, 94032 Passau",
+   "ll": [
+    48.57465,
+    13.4618
+   ],
+   "src": [
+    "https://donauregion.at/en/oesterreich-gastronomie/detail/490000138/cafe-simon-conditorei-confiserie-am-rindermarkt.html",
+    "https://tourism.passau.de/eat-drink/cafes"
+   ]
+  },
+  {
+   "id": "papeschl",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Bavarian classics at the Peschl-Terrasse",
+   "desc": "The Peschl-Terrasse near the Roßtränke is a brewery restaurant with a terrace, in the same family since 1855, serving beer from Peschl's own brewery.",
+   "tip": "Listed as open daily from 11:00; try a Hell with a Bavarian main on the terrace.",
+   "q": "Peschl-Terrasse, Roßtränke 4, 94032 Passau",
+   "ll": [
+    48.57581,
+    13.46066
+   ],
+   "src": [
+    "https://www.tripadvisor.co.uk/Restaurants-g187311-c21-Passau_Lower_Bavaria_Bavaria.html"
+   ]
+  },
+  {
+   "id": "paandorfer",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order a Weißbier at Wirtshaus Andorfer",
+   "desc": "The Gasthof Weissbräu Andorfer is a wheat-beer inn at Rennweg, serving Bavarian specialties with a warm kitchen all day.",
+   "tip": "Try the house Weißbier with a Schweinshaxe; Veste Oberhaus is close by.",
+   "q": "Wirtshaus Andorfer, Rennweg 2, 94034 Passau",
+   "ll": [
+    48.58657,
+    13.45309
+   ],
+   "src": [
+    "https://tourismus.passau.de/essen-trinken/restaurants/"
+   ]
+  },
+  {
+   "id": "paaltesbraeuhaus",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine at the Wirtshaus Altes Bräuhaus by the bridge",
+   "desc": "The Wirtshaus Altes Bräuhaus serves regional cuisine on Bräugasse by the suspension bridge, with a view of Veste Oberhaus.",
+   "tip": "Ask for a table with a view; order a regional Bavarian dish such as Krustenbraten.",
+   "q": "Wirtshaus Altes Bräuhaus, Bräugasse 5, 94032 Passau",
+   "ll": [
+    48.57484,
+    13.47152
+   ],
+   "src": [
+    "https://tourismus.passau.de/essen-trinken/restaurants/"
+   ]
+  },
+  {
+   "id": "papomeranz",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat fish at Restaurant Pomeranz",
+   "desc": "Pomeranz is a Mediterranean restaurant in the Bratfischwinkel lane by the Inn where fish dishes are especially popular.",
+   "tip": "Order the fish of the day; reserve for dinner in summer.",
+   "q": "Restaurant Pomeranz, Bratfischwinkel 5, 94032 Passau",
+   "ll": [
+    48.57516,
+    13.45757
+   ],
+   "src": [
+    "https://tourismus.passau.de/essen-trinken/restaurants/"
+   ]
+  },
+  {
+   "id": "pakaffeewerk",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have coffee at KaffeeWerk in the Innstadt",
+   "desc": "KaffeeWerk is a café just across the Marienbrücke in the Innstadt, away from the tourist crowds, with seating for 30 inside and 60 on the terrace.",
+   "tip": "Order a coffee and cake on the terrace; a good stop after the Mariahilf climb.",
+   "q": "KaffeeWerk, Kirchenplatz 3, 94032 Passau",
+   "ll": [
+    48.5717,
+    13.4645
+   ],
+   "src": [
+    "https://tourism.passau.de/eat-drink/cafes",
+    "https://www.premierinn.com/de/de/reiseziele/passau/cafes.html"
+   ]
+  },
+  {
+   "id": "pahendlhouse",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat grilled chicken at the Hendlhouse",
+   "desc": "The Hendlhouse on Große Klingergasse serves hearty Bavarian food, mainly grilled poultry.",
+   "tip": "Order the half Hendl with a Radler; casual and good value.",
+   "q": "Hendlhouse, Große Klingergasse 17, 94032 Passau",
+   "ll": [
+    48.57519,
+    13.45836
+   ],
+   "src": [
+    "https://tourismus.passau.de/essen-trinken/restaurants/"
+   ]
+  },
+  {
+   "id": "pastadtrundfahrt",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cruise the three rivers on the Dreiflüsse-Rundfahrt",
+   "desc": "The Dreiflüsse-Stadtrundfahrt starts at the landing at Rathausplatz and sails past the old town and the confluence of Danube, Inn and Ilz. It runs from late March to early November.",
+   "tip": "Check departure times with the operator; the upper deck gives the best photos of the peninsula.",
+   "q": "Schiffsanlegestelle Rathausplatz, Passau",
+   "ll": [
+    48.5749,
+    13.4679
+   ],
+   "src": [
+    "https://maps.adac.de/poi/dreifluesse-stadtrundfahrt-passau",
+    "https://tourismus.passau.de/media/4836/passau_sales-cruise-guide_d.pdf"
+   ],
+   "months": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "id": "panachtwaechter",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Follow the night watchman Lindl through the alleys",
+   "desc": "Passau Tourism offers a lantern-lit tour with the night watchman Lindl, who tells of his hard work and picks a helper from the group.",
+   "tip": "Book via the tourist information at Rathausplatz; dates are seasonal.",
+   "q": "Tourist-Information Passau, Rathausplatz 2, 94032 Passau",
+   "ll": [
+    48.57512,
+    13.46857
+   ],
+   "src": [
+    "https://tourism.passau.de/discover-passau/guided-tours-cruises/open-guided-tours/the-lindl-passaus-night-watchman"
+   ]
+  },
+  {
+   "id": "paludwigsteig",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Climb the Ludwigsteig up to Veste Oberhaus",
+   "desc": "The Ludwigsteig and the Wehrgang along the castle walls take about 15 minutes uphill, with views of the old town. An alternative entry starts at Angerstraße (about 20 minutes).",
+   "tip": "Wear sturdy shoes; the lift from the car park is the easier route.",
+   "q": "Ludwigsteig, Angerstraße, 94034 Passau",
+   "ll": [
+    48.5756,
+    13.4683
+   ],
+   "src": [
+    "https://tourism.passau.de/discover-passau/museums/oberhausmuseum",
+    "https://tourism.passau.de/discover-passau/sights/fortress-veste-oberhaus"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "pamariahilf",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Climb the 321 steps to Mariahilf",
+   "desc": "The pilgrimage church Mariahilf sits above the Innstadt, reached by a covered stairway of 321 steps lined with votive tablets. Entry is free.",
+   "tip": "Go in the morning; the view of the old town from the top is worth it.",
+   "q": "Wallfahrtskirche Mariahilf, Mariahilfberg, 94032 Passau",
+   "ll": [
+    48.56671,
+    13.46865
+   ],
+   "src": [
+    "https://www.via-ferrata.de/sehenswuerdigkeiten-passau-aktivitaeten-karte-mit-pins/",
+    "https://de.wikipedia.org/wiki/Wallfahrtskirche_Mariahilf_(Passau)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "paradweg",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cycle the Innpromenade and the Donauradweg start",
+   "desc": "Passau is the starting point of the Austrian Donauradweg (about 380 km to Vienna) and a stop on the Innradweg. The Innpromenade starts near the station and follows the river upstream.",
+   "tip": "Rent a touring bike or e-bike at a shop in the old town; the flat riverside path suits easy rides.",
+   "q": "Innpromenade, 94032 Passau",
+   "ll": [
+    48.57311,
+    13.46431
+   ],
+   "src": [
+    "https://tourism.passau.de/leisure-sports/cycling"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "pamaidult",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Join the Maidult at Messepark Kohlbruck",
+   "desc": "The Passauer Maidult is a spring beer festival with tents, a costume parade and fireworks. The 2026 edition ran from 30 April to 10 May.",
+   "tip": "Held each spring; check the Passauer Dult website for exact 2027 dates.",
+   "q": "Messepark Kohlbruck, Passau",
+   "ll": [
+    48.55807,
+    13.41263
+   ],
+   "src": [
+    "https://tourism.passau.de/leisure-sports/events/event-highlights/funfairs-passauer-dult"
+   ],
+   "months": [
+    4,
+    5
+   ]
+  },
+  {
+   "id": "paew",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Attend a concert of the Europäische Wochen",
+   "desc": "The Festspiele Europäische Wochen Passau run from late June to late July, with around 50 events in about 30 venues, including open-air concerts at the Ortspitze.",
+   "tip": "Book tickets early via ew-passau.de; the 2026 edition ran from 20 June to 26 July.",
+   "q": "Ortspitze, 94032 Passau",
+   "ll": [
+    48.57365,
+    13.47517
+   ],
+   "src": [
+    "https://www.festivalsindeutschland.de/festival/europaeische-wochen-passau"
+   ],
+   "months": [
+    6,
+    7
+   ]
+  },
+  {
+   "id": "pailzwalk",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the Ilzstadt to the Ilz",
+   "desc": "The Ilzstadt is the quieter Ilz-side district under Veste Oberhaus, where the dark Ilz flows into the Danube. Hiking routes from Passau follow the Ilz upstream.",
+   "tip": "Wear comfortable shoes; start from the Ortspitze and walk through the Ilzstadt.",
+   "q": "Ilzstadt, 94034 Passau",
+   "ll": [
+    48.57652,
+    13.47542
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/drei-fluesse-tour-passau",
+    "https://www.ich-geh-wandern.de/passau"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

@@ -644,3 +644,7 @@ body.card-open .nearpanel { display: none; }
 .list > .mrest:not([hidden]) { display: contents; }
 details.fold > summary { display: flex; align-items: center; justify-content: space-between; cursor: pointer; list-style: none; color: var(--muted); }
 details.fold > summary::-webkit-details-marker { display: none; } details.fold > summary svg { transition: transform .2s; } details.fold[open] > summary svg { transform: rotate(180deg); }
+/* Quest complete: the map got painted */
+.paintmsg { display: flex; align-items: center; gap: 10px; margin: -2px 0 12px; padding: 9px 12px; border-radius: 12px; background: color-mix(in srgb, var(--rc) 12%, var(--card)); font-size: 13px; color: var(--text); text-align: left; }
+.paintmsg i { flex: none; width: 22px; height: 22px; border-radius: 7px; background: var(--rc); box-shadow: 0 0 0 3px color-mix(in srgb, var(--rc) 25%, transparent); animation: paintpop .6s .5s both; }
+@keyframes paintpop { from { transform: scale(.3); opacity: 0; } 60% { transform: scale(1.2); } to { transform: scale(1); opacity: 1; } }

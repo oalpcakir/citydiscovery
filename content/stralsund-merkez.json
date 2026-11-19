@@ -1,0 +1,523 @@
+{
+ "new": [
+  {
+   "id": "srozeaneum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Baltic and North Sea at the Ozeaneum",
+   "desc": "The Ozeaneum on the Stralsund Hafeninsel belongs to the Deutsches Meeresmuseum foundation and shows Baltic and North Atlantic marine life in large aquariums. It sits beside the old brick harbour warehouses.",
+   "tip": "Book timed tickets online and come early on weekends; allow two to three hours.",
+   "q": "Ozeaneum, Hafenstraße 11, Stralsund",
+   "ll": [
+    54.3156,
+    13.09707
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Ozeaneum",
+    "https://www.mvp.de/stralsund/entdecken/kunst-kultur/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "srmarienkirche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the brick Gothic Marienkirche",
+   "desc": "The Marienkirche on the Neuer Markt is one of the landmarks of north German brick Gothic and part of the UNESCO World Heritage old towns of Stralsund and Wismar. It was built in the 14th and 15th centuries.",
+   "tip": "Free to enter; the church also has a concert programme with organ recitals.",
+   "q": "St.-Marien-Kirche, Neuer Markt, Stralsund",
+   "ll": [
+    54.31009,
+    13.08812
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/St._Marien_(Stralsund)"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "srrathaus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stand before the Rathaus on the Alter Markt",
+   "desc": "The Stralsund town hall with its decorated north facade dates from the 13th century and was extended in the Hanseatic period. The cellar below, the Ratskeller, is widely described as one of the largest continuous cellars in northern Europe.",
+   "tip": "The square is free to explore and lively in the evening.",
+   "q": "Rathaus, Alter Markt, Stralsund",
+   "ll": [
+    54.3142,
+    13.0904
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Rathaus_(Stralsund)",
+    "https://www.mvp.de/stralsund/entdecken/kunst-kultur/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "srnikolai",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Nikolaikirche beside the town hall",
+   "desc": "St. Nikolai on the Alter Markt is the oldest of Stralsund's three big parish churches, built from the 13th century in the style of a Hanseatic merchant church. Inside are a rich Gothic interior and an astronomical clock.",
+   "tip": "Entry is modest; combine it with the Rathaus visit.",
+   "q": "St.-Nikolai-Kirche, Alter Markt, Stralsund",
+   "ll": [
+    54.3144,
+    13.0908
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/St._Nikolai_(Stralsund)"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "srwulflamhaus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Spot the Gothic gable of the Wulflamhaus",
+   "desc": "The Wulflamhaus on the Alter Markt is a 14th-century brick merchant house with a richly stepped gable, named after the mayor Bertram Wulflam. It is one of the best-known secular Gothic buildings in the old town.",
+   "tip": "Look at it from the square in the late afternoon light.",
+   "q": "Wulflamhaus, Alter Markt 5, Stralsund",
+   "ll": [
+    54.3157,
+    13.0932
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Wulflamhaus"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "srgorchfock",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Go aboard the sail training ship Gorch Fock I",
+   "desc": "Gorch Fock I was built in Hamburg in 1933 and sailed under the Soviet flag until 1999. Since 2003 she has been a museum ship in the Stralsund harbour, not to be confused with the current German Navy ship of the same name.",
+   "tip": "The quay view is free; check opening times for boarding.",
+   "q": "Gorch Fock I, Stadthafen, Hafenstraße, Stralsund",
+   "ll": [
+    54.31668,
+    13.09828
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Gorch_Fock_(1933)",
+    "https://www.lonelyplanet.com/points-of-interest/gorch-fock-1/1292580"
+   ]
+  },
+  {
+   "id": "srmarinemuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore the Marinemuseum on Dänholm island",
+   "desc": "The Marinemuseum is on Dänholm, the island that became the cradle of the Prussian navy. It documents the naval history of the Baltic coast. The island is linked to the town by the Ziegelgrabenbrücke.",
+   "tip": "Open in the summer season, roughly May to October, Tuesday to Sunday.",
+   "q": "Marinemuseum Dänholm, Zur Sternschanze 7, Stralsund",
+   "ll": [
+    54.30975,
+    13.11837
+   ],
+   "src": [
+    "https://www.mvp.de/stralsund/entdecken/stralsund-museum/"
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "srbraugasthaus",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink a Störtebeker beer at the Braugasthaus",
+   "desc": "The Braugasthaus belongs to the Störtebeker Braumanufaktur in the brewery quarter. It serves regional food with a beer matched to each dish by the staff.",
+   "tip": "Try a hearty regional dish with the house beer; book ahead for weekends.",
+   "q": "Störtebeker Braugasthaus, Greifswalder Chaussee 84-85, Stralsund",
+   "ll": [
+    54.29052,
+    13.09486
+   ],
+   "src": [
+    "https://www.visit-mv.com/destinations/a-stoertebeker-brewery-1"
+   ]
+  },
+  {
+   "id": "srbraumanufaktur",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Join a Störtebeker brewery tour",
+   "desc": "The Störtebeker Braumanufaktur brews beers under the German purity law and ties itself to the long brewing tradition of the Hanse city. Daily tours lead through the brewery quarter and end with a tasting.",
+   "tip": "Tours are mostly in German; book in advance and check times.",
+   "q": "Störtebeker Braumanufaktur, Greifswalder Chaussee 84-85, Stralsund",
+   "ll": [
+    54.28983,
+    13.09524
+   ],
+   "src": [
+    "https://www.vorpommern.de/en/destinations/details/stamm/show/stoertebeker-braumanufaktur/",
+    "https://www.mvp.de/stralsund/entdecken/stoertebeker-braumanufaktur/"
+   ]
+  },
+  {
+   "id": "srkutteranja",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat a Fischbrötchen at Fischkutter Anja",
+   "desc": "Fish cutters moored at the Stralsund Stadthafen sell fresh fish rolls, smoked fish and fish and chips straight from the boat. Fischkutter Anja is among the busiest.",
+   "tip": "Order a Backfisch or Matjes roll and expect a queue at lunchtime.",
+   "q": "Fischkutter Anja, Stadthafen, Hafenstraße, Stralsund",
+   "ll": [
+    54.31716,
+    13.09572
+   ],
+   "src": [
+    "https://speisekarte.menu/restaurants/stralsund/fischkutter-anja"
+   ]
+  },
+  {
+   "id": "srwulflamstuben",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine in the Wulflamstuben on the Alter Markt",
+   "desc": "Wulflamstuben is a restaurant on the ground floor of the 14th-century Wulflamhaus. It serves regional Pomeranian dishes in a historic setting on the main market square.",
+   "tip": "Try the fish of the day.",
+   "q": "Wulflamstuben, Alter Markt 5, Stralsund",
+   "ll": [
+    54.31624,
+    13.08997
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/stralsund/wulflamstuben/"
+   ]
+  },
+  {
+   "id": "srlara",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Baltic fish at Restaurant Lara",
+   "desc": "Restaurant Lara is a brick building on the harbour opposite the Ozeaneum with a fish-centred menu and a view of the Hafeninsel.",
+   "tip": "Good for lunch after the Ozeaneum; ask for the catch of the day.",
+   "q": "Restaurant Lara, Hafenstraße, Stralsund",
+   "ll": [
+    54.31523,
+    13.09582
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/stralsund/restaurant-lara/"
+   ]
+  },
+  {
+   "id": "srkogge",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order Pomeranian fish at Zur Kogge",
+   "desc": "Fischrestaurant Zur Kogge on Tribseer Straße is a fish restaurant listed for the Stralsund area.",
+   "tip": "Try the fish platter with local herring or zander.",
+   "q": "Zur Kogge, Tribseer Straße 25, Stralsund",
+   "ll": [
+    54.3101,
+    13.08525
+   ],
+   "src": [
+    "https://www.speisekarte.de/stralsund/restaurants/fischrestaurant"
+   ]
+  },
+  {
+   "id": "srsundpromenade",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Stroll the Sundpromenade towards Parow",
+   "desc": "The Sundpromenade follows the Strelasund shore from the Stralsund harbour to Parow, with views of the Rügen Bridge and the island of Dänholm.",
+   "tip": "Flat and free; best at sunset.",
+   "q": "Sundpromenade, Stralsund",
+   "ll": [
+    54.31997,
+    13.08787
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Stralsund"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "srschwaemmi",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Swim at the Schwämmi on Dänholm",
+   "desc": "The island of Dänholm has a bathing beach called the Schwämmi on the Strelasund, reached over the Ziegelgrabenbrücke.",
+   "tip": "Summer only.",
+   "q": "Strand Schwämmi, Dänholm, Stralsund",
+   "ll": [
+    54.31317,
+    13.12014
+   ],
+   "src": [
+    "https://phototravellers.de/stralsund-sehenswuerdigkeiten/"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "srdevin",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the Devin peninsula nature reserve",
+   "desc": "The Devin peninsula in the Strelasund is a nature reserve with a hiking loop passing the ruins of a former brickworks.",
+   "tip": "Wear sturdy shoes; the loop takes a couple of hours.",
+   "q": "Halbinsel Devin, Stralsund",
+   "ll": [
+    54.27307,
+    13.16688
+   ],
+   "src": [
+    "https://blog.komoot.de/guide/223332/attractions-around-stralsund"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "srweisseflotte",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Sail the harbour on the Weiße Flotte",
+   "desc": "The Weiße Flotte runs boat trips from the Stralsund harbour, including harbour tours and sailings towards Hiddensee and Rügen.",
+   "tip": "Check the timetable at the quay; some sailings only run in summer.",
+   "q": "Weiße Flotte, Fährbrücke, Hafenstraße, Stralsund",
+   "ll": [
+    54.3155,
+    13.0935
+   ],
+   "src": [
+    "https://www.visit-mv.com/event-search/e-early-shopping-with-the-white-fleet"
+   ]
+  },
+  {
+   "id": "srdom",
+   "cat": "gor",
+   "area": "greifswald",
+   "title": "Climb the tower of Dom St. Nikolai",
+   "desc": "Greifswald's cathedral was built from the 13th century and is the baptismal church of Caspar David Friedrich. Its tower is the highest in the city and a popular lookout.",
+   "tip": "Tower climb in season; the interior is free.",
+   "q": "Dom St. Nikolai, Domstraße, Greifswald",
+   "ll": [
+    54.09545,
+    13.37755
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Greifswalder_Dom"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "srlandesmuseum",
+   "cat": "gor",
+   "area": "greifswald",
+   "title": "See Friedrich paintings in the Pommersches Landesmuseum",
+   "desc": "The Pommersches Landesmuseum sits in the former Franciscan monastery and presents Pomeranian history from the Ice Age, with a Friedrich gallery. The Galerie der Romantik opened in December 2025.",
+   "tip": "Open Tuesday to Sunday; combine with the Friedrich-Zentrum ticket.",
+   "q": "Pommersches Landesmuseum, Rakower Straße 9, Greifswald",
+   "ll": [
+    54.09496,
+    13.38268
+   ],
+   "src": [
+    "https://www.museum.de/en/museen/pommersches-landesmuseum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "srcdf",
+   "cat": "gor",
+   "area": "greifswald",
+   "title": "Visit Caspar David Friedrich's birthplace",
+   "desc": "The Caspar-David-Friedrich-Zentrum on Lange Straße is in the painter's birthplace, a former soap boiler's house. It opened in 2004 and was extended in 2011.",
+   "tip": "A combined ticket covers it and the Landesmuseum.",
+   "q": "Caspar-David-Friedrich-Zentrum, Lange Straße 57, Greifswald",
+   "ll": [
+    54.09585,
+    13.37702
+   ],
+   "src": [
+    "https://www.greifswald.de/export/sites/hgw/de/urlaub-kultur/Downloads/Greifswald_Broschuere_2024_web.pdf"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "sreldena",
+   "cat": "gor",
+   "area": "greifswald",
+   "title": "Wander through the Eldena abbey ruins",
+   "desc": "The Cistercian abbey Eldena was founded in 1199; its ruin inspired Caspar David Friedrich. Entry is free and an open-air stage is built into it.",
+   "tip": "Free access, nice at golden hour.",
+   "q": "Klosterruine Eldena, Greifswald",
+   "ll": [
+    54.08947,
+    13.45258
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kloster_Eldena"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "srklappbruecke",
+   "cat": "gor",
+   "area": "greifswald",
+   "title": "Watch the Wieck wooden drawbridge open",
+   "desc": "The Wiecker Holzklappbrücke was built in 1887 in the Dutch style and is still hand-operated. It opens several times daily for sailing boats.",
+   "tip": "Check opening times; stand on the quay at the harbour.",
+   "q": "Wiecker Holzklappbrücke, Greifswald-Wieck",
+   "ll": [
+    54.0935,
+    13.44858
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Wiecker_Holzklappbr%C3%BCcke"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "srmarkt",
+   "cat": "gor",
+   "area": "greifswald",
+   "title": "Photograph the Marktplatz and town hall",
+   "desc": "Greifswald's Marktplatz with its Rathaus and gabled brick houses is the centre of the old town.",
+   "tip": "Visit on market days (Wednesday and Saturday).",
+   "q": "Marktplatz, Greifswald",
+   "ll": [
+    54.0937,
+    13.3819
+   ],
+   "src": [
+    "https://www.mvp.de/greifswald/entdecken/sehenswertes/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "srwie05",
+   "cat": "ye",
+   "area": "greifswald",
+   "title": "Eat smoked fish at Hafenräucherei WIE-05",
+   "desc": "The Hafenräucherei WIE-05 is a harbour smokehouse restaurant of the fishing cooperative Greifswalder Bodden, serving fish rolls, smoked fish and soups.",
+   "tip": "Try a smoked fish roll on the terrace by the harbour.",
+   "q": "Hafenräucherei WIE-05, Yachtweg 1, Greifswald-Wieck",
+   "ll": [
+    54.09338,
+    13.44979
+   ],
+   "src": [
+    "https://www.werkenntdenbesten.de/e/53152829/fischrestaurant/greifswald-hansestadt/restaurant-hafenraeucherei-wie-05-bewertungen.html",
+    "https://off-to-mv.com/destinations/a-restaurant-port-smokehouse-like-05"
+   ]
+  },
+  {
+   "id": "srzurfaehre",
+   "cat": "ye",
+   "area": "greifswald",
+   "title": "Dine harbourside at Zur Fähre in Wieck",
+   "desc": "Restaurant Zur Fähre sits by the harbour near the railway bridge in Wieck and is recommended by guests.",
+   "tip": "Order the fish of the day.",
+   "q": "Zur Fähre, Fährweg 2, Greifswald-Wieck",
+   "ll": [
+    54.09371,
+    13.44768
+   ],
+   "src": [
+    "https://www.speisekarte.de/greifswald/restaurant/restaurant_zur_faehre/bewertung"
+   ]
+  },
+  {
+   "id": "srfischerhuetter",
+   "cat": "ye",
+   "area": "greifswald",
+   "title": "Try local fish at Gasthaus Fischer Hütter",
+   "desc": "Gasthaus Fischer Hütter is a restaurant in the fishing village of Wieck, where restaurants serve freshly caught fish.",
+   "tip": "Ask for the Bodden catch.",
+   "q": "Gasthaus Fischer Hütter, An der Mühle 12, Greifswald-Wieck",
+   "ll": [
+    54.0932,
+    13.44938
+   ],
+   "src": [
+    "https://www.golocal.de/greifswald-wieck/restaurants-gaststaetten/"
+   ]
+  },
+  {
+   "id": "srmuseumshafen",
+   "cat": "dene",
+   "area": "greifswald",
+   "title": "Stroll the Museumshafen to the Fangenturm",
+   "desc": "The Museumshafen has historic sailing vessels and the 13.5-metre Fangenturm, today the harbourmaster's office.",
+   "tip": "Free; best on a sunny afternoon.",
+   "q": "Museumshafen Greifswald, Greifswald",
+   "ll": [
+    54.09927,
+    13.38622
+   ],
+   "src": [
+    "https://www.greifswald.de/export/sites/hgw/de/urlaub-kultur/Downloads/Greifswald_Broschuere_2024_web.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "srwieckdorf",
+   "cat": "dene",
+   "area": "greifswald",
+   "title": "Walk through the thatched fishing village of Wieck",
+   "desc": "Wieck keeps thatched fishermen's houses from the 18th and 19th centuries around its harbour.",
+   "tip": "Combine with the bridge and a fish roll.",
+   "q": "Wieck, Greifswald",
+   "ll": [
+    54.09642,
+    13.45093
+   ],
+   "src": [
+    "https://www.greifswald.de/export/sites/hgw/de/urlaub-kultur/Downloads/Greifswald_Flyer_Wieck_2025web.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

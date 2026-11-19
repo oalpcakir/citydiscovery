@@ -1,0 +1,757 @@
+{
+ "new": [
+  {
+   "id": "klotterbergabbey",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Admire the Cistercian abbey church of Otterberg",
+   "desc": "The former Cistercian abbey church was built from about 1168 and consecrated in 1254, and is regarded as the largest church in the Palatinate after Speyer Cathedral. It was shared by Catholics and Protestants, with a wall dividing the nave from 1708 until 1979.",
+   "tip": "Usually open to visitors during the day; check the Otterberg tourist office for concerts and guided tours. Café Engel and the old town are a short walk away.",
+   "q": "Abteikirche, Hauptstraße, Otterberg",
+   "ll": [
+    49.50307,
+    7.77353
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Otterberg_Abbey",
+    "https://www.kuladig.de/Objektansicht/Drucken/KLD-272322"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "klnanstein",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb to Burg Nanstein above Landstuhl",
+   "desc": "Nanstein is a castle ruin high above Landstuhl, tied to the imperial knight Franz von Sickingen, who died here in 1523 during the siege by the princes. The ruin has a large viewing terrace and is run by the Burgenlandschaft Pfalz.",
+   "tip": "Closed Mondays outside holidays; opening hours change by season, so check burgenlandschaft-pfalz.de. Walk up from the town or park below the Burgschänke.",
+   "q": "Burg Nanstein, Burgweg, Landstuhl",
+   "ll": [
+    49.40978,
+    7.57308
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Nanstein_Castle",
+    "https://burgenlandschaft-pfalz.de/en/more-monuments/nanstein"
+   ]
+  },
+  {
+   "id": "klwilenstein",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the ruins of Burg Wilenstein above the Karlstal",
+   "desc": "This castle on a rocky spur above the Moosalbe valley was first mentioned in 1174 and lay in ruins from the Thirty Years' War until partial reconstruction in 1958-60. The upper ruin still shows a shield wall, gate, palas and a pentagonal keep.",
+   "tip": "The lower ruin is freely accessible; the rebuilt part is a group house. Combine it with a walk to Schloss Trippstadt or the Karlstal.",
+   "q": "Burg Wilenstein, Wilensteiner Straße, Trippstadt",
+   "ll": [
+    49.35403,
+    7.75319
+   ],
+   "src": [
+    "https://dewiki.de/Lexikon/Burg_Wilenstein",
+    "https://www.kuladig.de/Objektansicht/Drucken/KLD-290040"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kllichtenberg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the walls of Burg Lichtenberg near Kusel",
+   "desc": "Burg Lichtenberg in Thallichtenberg is the largest castle ruin in the Palatinate, built from the 13th century and later a Palatinate-Zweibrücken residence. It houses the Musikantenland museum and the Urweltmuseum Geoskop and has panoramic views over the Kuselland.",
+   "tip": "The castle grounds are freely accessible; museums keep seasonal hours, see burglichtenberg-pfalz.de. A youth hostel sits inside the complex.",
+   "q": "Burg Lichtenberg, Burgstraße, Thallichtenberg",
+   "ll": [
+    49.55587,
+    7.3562
+   ],
+   "src": [
+    "https://www.burgenwelt.org/deutschland/lichtenberg2/burgenwelt-lichtenberg2-deutschland.pdf",
+    "https://maps.adac.de/poi/burg-lichtenberg-thallichtenberg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "klgeoskop",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Meet Permian fossils at Urweltmuseum Geoskop",
+   "desc": "The Geoskop in Burg Lichtenberg shows the fossil world of the Saar-Nahe basin, with amphibians, early reptiles and giant insects from about 290 million years ago. It is one of the museums of the Pfälzer Bergland geopark.",
+   "tip": "Open Tuesday to Sunday, longer hours April to October (10-17); check urweltmuseum-geoskop.de. Good for a rainy afternoon.",
+   "q": "Urweltmuseum Geoskop, Burg Lichtenberg, Thallichtenberg",
+   "ll": [
+    49.55544,
+    7.35477
+   ],
+   "src": [
+    "https://www.urweltmuseum-geoskop.de/",
+    "https://whichmuseum.co.uk/museum/urweltmuseum-geoskop-thallichtenberg-32389"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "klremigiusberg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Remigiusberg priory church and Michelsburg ruin",
+   "desc": "The 368 m Remigiusberg carries the former Benedictine priory church of St Remigius and the Michelsburg ruin, on land given to the bishop of Reims in the 7th century. The church crypt is linked with Queen Anna of Sweden, a Palatinate-Veldenz princess.",
+   "tip": "The hill is reached by road from Haschbach; the viewpoint is free and the church is open at set times. Combine with a ride on the Glan draisine.",
+   "q": "Propsteikirche St. Remigius, Remigiusbergstraße, Haschbach am Remigiusberg",
+   "ll": [
+    49.52122,
+    7.43814
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Remigiusberg",
+    "https://www.kuladig.de/Objektansicht/Drucken/KLD-275644"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "klludwigsturm",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the Ludwigsturm on the Donnersberg",
+   "desc": "The 27 m Ludwigsturm was built in 1864-65 near the summit of the Donnersberg, the highest mountain of the Palatinate at 687 m. The platform reaches above the trees for views toward the Rhine plain and Pfälzerwald.",
+   "tip": "Hike up from Dannenfels via the Dampfnudelfelsen, or drive to the summit car park. Keltenhütte is a few minutes away for a snack.",
+   "q": "Ludwigsturm, Donnersberg, Dannenfels",
+   "ll": [
+    49.6255,
+    7.9265
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Donnersberg"
+   ]
+  },
+  {
+   "id": "klpaulskirche",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Mozart organ in Kirchheimbolanden's Paulskirche",
+   "desc": "The Paulskirche was built in 1738-43 and holds the organ Mozart played in 1778 when he visited the court of Princess Caroline of Nassau-Weilburg. The baroque town centre around it grew up with the Nassau-Weilburg residence.",
+   "tip": "Churches open at set hours; check the Kirchheimbolanden tourist office. A short town walk past the old wall and Schlossgarten fits well here.",
+   "q": "Paulskirche, Kirchheimbolanden",
+   "ll": [
+    49.66685,
+    8.01003
+   ],
+   "src": [
+    "https://www.kuladig.de/Objektansicht/Drucken/KLD-276804",
+    "https://kirchheimbolanden.de/de/datei/anzeigen/id/87324,1171/stadtrundgang.pdf"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "klschlossgarten",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stroll Kirchheimbolanden's baroque Schlossgarten",
+   "desc": "The palace of the Nassau-Weilburg princes was built in 1738-40; the east wing and the park survive. The garden is free to enter all year and is part of the old town ensemble.",
+   "tip": "Free and open all year. Pair it with a coffee on the Marktplatz.",
+   "q": "Schlossgarten, Schlossplatz, Kirchheimbolanden",
+   "ll": [
+    49.66808,
+    8.01427
+   ],
+   "src": [
+    "https://www.kuladig.de/Objektansicht/Drucken/KLD-352175",
+    "https://kirchheimbolanden.de/de/datei/anzeigen/id/87324,1171/stadtrundgang.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "klkoenigskreuz",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Königskreuz where King Adolf fell in Göllheim",
+   "desc": "On 2 July 1298 King Adolf of Nassau was killed at the Battle of Göllheim against Albrecht of Habsburg. His widow had a Gothic memorial cross erected on the battlefield, and a chapel was built around it in the 19th century.",
+   "tip": "Free to see from the outside; the Adolf-von-Nassau trail starts here. Combine with the Kriegsberghütte.",
+   "q": "Königskreuz, Göllheim",
+   "ll": [
+    49.59259,
+    8.04431
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Battle_of_G%C3%B6llheim",
+    "https://www.kuladig.de/Objektansicht/Drucken/KLD-305433"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "klberwartstein",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the rock castle Burg Berwartstein",
+   "desc": "Berwartstein above Erlenbach bei Dahn is first recorded in 1152 and became the base of robber knights, among them Hans Trapp. It was restored in 1480, burned in 1591 and rebuilt after World War II by the private owner. Rock-cut rooms, a Burgschänke and a kitchen museum can be seen.",
+   "tip": "Open daily March to October and weekends in winter; check burgberwartstein.de. About ten minutes uphill from the car park.",
+   "q": "Burg Berwartstein, Erlenbach bei Dahn",
+   "ll": [
+    49.10733,
+    7.86432
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Berwartstein_Castle",
+    "https://www.kuladig.de/Objektansicht/Drucken/KLD-271026"
+   ]
+  },
+  {
+   "id": "klaltdahn",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Scramble through the Altdahn castle group",
+   "desc": "Altdahn, Grafendahn and Tanstein stand on one sandstone ridge above Dahn and form one of the largest rock-castle complexes in the Palatinate. Altdahn was built in the early 13th century and was finally destroyed by French troops in 1689.",
+   "tip": "A few minutes' climb from the Altdahn car park; the small museum has medieval finds. Check Dahner Felsenland tourism for closures.",
+   "q": "Burgruine Altdahn, Altdahner Straße, Dahn",
+   "ll": [
+    49.1499,
+    7.8014
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Altdahn_Castle",
+    "https://burgenlandschaft-pfalz.de/en/more-monuments/dahn-castles"
+   ]
+  },
+  {
+   "id": "klteufelstisch",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Teufelstisch rock at Hinterweidenthal",
+   "desc": "This mushroom-shaped sandstone pillar is about 14 m high and a landscape symbol of the Palatinate; it appeared on a 1947 stamp. A legend says the devil pushed two rocks together to make a table.",
+   "tip": "Free and reachable from the car park in a short walk; there is an inn and a seasonal adventure park at the foot. Lit at night.",
+   "q": "Teufelstisch, Hinterweidenthal",
+   "ll": [
+    49.1949,
+    7.74376
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Teufelstisch_(Hinterweidenthal)",
+    "https://www.kuladig.de/Objektansicht/Drucken/KLD-272315"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "klschuhmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk through the Deutsches Schuhmuseum in Hauenstein",
+   "desc": "The museum fills a former shoe factory on four floors and tells the story of the Palatinate shoe industry from 1740 to today. Highlights include the Ernst Tillmann collection of over 3,000 historic shoes and a working shoe factory.",
+   "tip": "Hours were listed as daily 9:30-17:00 after the reopening; call 06392 923334-0 or check museum-hauenstein.de. The Josef Seibel outlet is next door.",
+   "q": "Deutsches Schuhmuseum, Turnstraße, Hauenstein",
+   "ll": [
+    49.18972,
+    7.85583
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/German_Shoe_Museum",
+    "https://maps.adac.de/poi/deutsches-schuhmuseum-hauenstein-hauenstein"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "kldrachenfels",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb to the Drachenfels castle rocks near Busenberg",
+   "desc": "Drachenfels is a rock castle on two sandstone ridges at 368 m, first linked to the Drachenfels family in 1209. It was destroyed on 10 May 1523 after the defeat of Franz von Sickingen; the keep remnant is called the Backenzahn, the molar tooth.",
+   "tip": "Walk from the Drachenfelshütte on the blue marked trail; some stretches need sure feet. Allow about 2 hours for the loop.",
+   "q": "Burgruine Drachenfels, Busenberg",
+   "ll": [
+    49.122,
+    7.828
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Drachenfels_Castle_(Wasgau)",
+    "https://www.kuladig.de/Objektansicht/Drucken/KLD-311643"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kljungfernsprung",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look up at the Jungfernsprung rock in Dahn",
+   "desc": "The Jungfernsprung is a 70 m sandstone massif with a summit cross in the middle of Dahn and the town's symbol. The local legend says a girl chased by Hans Trapp of Berwartstein jumped from it and floated down on her skirts.",
+   "tip": "Reached on the Felsenland Sagenweg; a popular climbing rock. A viewpoint trail starts in town.",
+   "q": "Jungfernsprung, Dahn",
+   "ll": [
+    49.15309,
+    7.77421
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Jungfernsprung",
+    "https://www.kuladig.de/Objektansicht/Drucken/KLD-271117"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "klbruderfelsen",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stand beneath the Bruderfelsen of Rodalben",
+   "desc": "The Bruderfelsen is the landmark of Rodalben, two weathered sandstone pillars that look like brothers. It is waymark 87 on the Rodalber Felsenwanderweg.",
+   "tip": "A short walk from the centre; the Alter Bierkeller on the return path makes a route stop.",
+   "q": "Bruderfelsen, Rodalben",
+   "ll": [
+    49.23645,
+    7.63453
+   ],
+   "src": [
+    "https://www.wanderportal-pfalz.de/PDF/PraedRodFels.pdf",
+    "https://www.ich-geh-wandern.de/rodalber-felsenweg-naturpark-pfaelzerwald"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "klgraefenstein",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the ruin of Burg Gräfenstein near Merzalben",
+   "desc": "Burg Gräfenstein stands on a ridge at 436 m about 2 km east of Merzalben, with a surviving keep. The area is also known for the Gräfensteinhütte of the Pfälzerwald-Verein.",
+   "tip": "Reach it on foot from Merzalben; the hut nearby has irregular hours, so check the PWV Merzalben before counting on a meal.",
+   "q": "Burg Gräfenstein, Merzalben",
+   "ll": [
+    49.24113,
+    7.75662
+   ],
+   "src": [
+    "https://freizeitmonster.de/aktivitaeten/orte/bergfried-burg-graefenstein-197896",
+    "https://en.wikipedia.org/wiki/Gr%C3%A4fenstein_Land"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "klburgschaenke",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat on the terrace of the Burgschänke Nanstein",
+   "desc": "The Burgschänke sits directly below the Nanstein ruin in Landstuhl with about 70 indoor seats and a large view terrace for about 150. It serves Palatinate cooking in an old castle setting.",
+   "tip": "Try a Pfälzer Teller or Schnitzel on the terrace at sunset; phone 06371 4902580 to check hours.",
+   "q": "Burgschänke Nanstein, Burgweg 1, Landstuhl",
+   "ll": [
+    49.40994,
+    7.57253
+   ],
+   "src": [
+    "https://landstuhl.de/en/tourism/worth-seeing/nanstein-castle"
+   ]
+  },
+  {
+   "id": "klklugschemuehle",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat at the Klug'sche Mühle by the Karlstal",
+   "desc": "The Wilensteiner Mühle in the Moosalbtal is a popular hiker's inn with a garden and pond below the Karlstal gorge. The Klug family owned the mill from 1842 until 2014.",
+   "tip": "Try the Palatinate dishes after a Karlstal walk; listings give Wed-Sun 11:30-20:00, phone 06306 312 to confirm.",
+   "q": "Klug'sche Mühle, Wilensteinermühle 1, Trippstadt",
+   "ll": [
+    49.35541,
+    7.7519
+   ],
+   "src": [
+    "https://www.11880.com/branchenbuch/trippstadt/071361883B40262919/klug-sche-muehle.html",
+    "https://www.komoot.com/highlight/349899"
+   ]
+  },
+  {
+   "id": "kldahnerhuette",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order Saumagen at the Dahner PWV-Hütte Im Schneiderfeld",
+   "desc": "The Pfälzerwald-Verein hut above Dahn is known for fair-priced Palatinate dishes such as Saumagen, Bratwurst and Leberknödel. It has indoor and outdoor seating and a children's playground.",
+   "tip": "Open on volunteer-run days, mostly weekends; check pwv-dahn.de. The annual Waldfest takes place here in August.",
+   "q": "Dahner Hütte PWV Im Schneiderfeld, Dahn",
+   "ll": [
+    49.14768,
+    7.75515
+   ],
+   "src": [
+    "https://www.komoot.com/highlight/75829",
+    "https://www.festivalsindeutschland.de/index.php/en/festival/pwv-waldfest-dahn"
+   ]
+  },
+  {
+   "id": "klkriegsberghuette",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Refuel at the Kriegsberghütte in Göllheim",
+   "desc": "The Kriegsberghütte is the hut of the Pfälzerwaldverein Göllheim, run by volunteers since a new chair took over in 2018. It sits on the Kriegsberg in walking distance of the battlefield memorial.",
+   "tip": "Open mainly Sundays and holidays; check pfaelzerwaldvereinortsgruppegoellheim.de for hours. Order the simple hut plate and a Pfälzer wine.",
+   "q": "Kriegsberghütte, Göllheim",
+   "ll": [
+    49.57634,
+    8.02953
+   ],
+   "src": [
+    "https://www.rheinpfalz.de/lokal/donnersbergkreis_artikel,-die-h%C3%BCterin-der-kriegsbergh%C3%BCtte-_arid,5670026.html",
+    "https://www.komoot.com/highlight/2986645"
+   ]
+  },
+  {
+   "id": "klgasthauskraus",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try the Pfälzer Platte at Gasthaus Kraus in Otterberg",
+   "desc": "Gasthaus Kraus is a Palatinate Wirtshaus with its own butcher shop, tested by the Rheinpfalz newspaper. Its menu includes a Pfälzer Platte with bratwurst, Saumagen and liver dumplings.",
+   "tip": "Order the Pfälzer Platte; book at weekends.",
+   "q": "Gasthaus Kraus, Otterberg",
+   "ll": [
+    49.50438,
+    7.77262
+   ],
+   "src": [
+    "https://www.rheinpfalz.de/lokal/kaiserslautern_artikel,-restauranttest-so-schneidet-das-gasthaus-kraus-in-otterberg-ab-_arid,5819933.html"
+   ]
+  },
+  {
+   "id": "klschillerhain",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat a Pfälzer Dampfnudelburger at Schillerhainer Stuben",
+   "desc": "This restaurant in Kirchheimbolanden mixes regional ideas with set menus. Its menu lists lamb, trout fillet and the Pfälzer Dampfnudelburger.",
+   "tip": "Try the Dampfnudelburger; reserve for the four-course menu.",
+   "q": "Schillerhainer Stuben, Kirchheimbolanden",
+   "ll": [
+    49.66102,
+    8.00217
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/kirchheimbolanden/schillerhainer-stuben/"
+   ]
+  },
+  {
+   "id": "klstrecktalbiergarten",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink a beer at the Strecktal Biergarten in Pirmasens",
+   "desc": "The beer garden sits in the Strecktalpark in central Pirmasens, serving cold beer and regional dishes under trees.",
+   "tip": "Order a Pfälzer dish with a Schorle; best on dry summer evenings.",
+   "q": "Strecktal Biergarten, Strecktalpark, Pirmasens",
+   "ll": [
+    49.20073,
+    7.59775
+   ],
+   "src": [
+    "https://freizeitmonster.de/blog/biergaerten-pirmasens"
+   ]
+  },
+  {
+   "id": "klwaldheimps",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Palatinate classics at the Naturfreundehaus Waldheim",
+   "desc": "The Naturfreundehaus Waldheim at the edge of Pirmasens serves traditional regional cooking in a simple hut atmosphere.",
+   "tip": "Order the Pfälzer specialities; confirm opening days as it is volunteer-style.",
+   "q": "Naturfreundehaus Waldheim, Gefällerweg 25, Pirmasens",
+   "ll": [
+    49.20374,
+    7.62779
+   ],
+   "src": [
+    "https://travelpal.ai/destinations/europe/germany/rheinland-pfalz/pirmasens/waldheim-gefallerweg-25"
+   ]
+  },
+  {
+   "id": "klkeltenhuette",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Stop at the Keltenhütte on the Donnersberg",
+   "desc": "The Keltenhütte stands near the Ludwigsturm and is a classic hikers' stop on the Donnersberg, known for a Palatinate sausage and homemade cake.",
+   "tip": "Order a Bratwurst and cake after climbing the tower; check opening days as it is a hut.",
+   "q": "Keltenhütte, Donnersberg, Dannenfels",
+   "ll": [
+    49.62649,
+    7.92434
+   ],
+   "src": [
+    "https://kirchheimbolanden.de/de/datei/anzeigen/id/87325,1171/wandern_rund_um_dannenfels.pdf"
+   ]
+  },
+  {
+   "id": "klbastenhaus",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at the Bastenhaus at the foot of the Donnersberg",
+   "desc": "The Bastenhaus is a hotel and restaurant in Dannenfels at the foot of the Donnersberg, on the Nordpfälzer Bergland hiking routes.",
+   "tip": "Eat here after the Donnersberg loop and ask for the daily Pfälzer dish.",
+   "q": "Restaurant Bastenhaus, Dannenfels",
+   "ll": [
+    49.64076,
+    7.91866
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/dannenfels/restaurant-bastenhaus/"
+   ]
+  },
+  {
+   "id": "klkarlstal",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Karlstal gorge from Trippstadt",
+   "desc": "The Karlstal is a roughly 3 km sandstone ravine carved by the Moosalbe, with red rock debris and small waterfalls. Premium trails of 6 to 12 km link it with Schloss Trippstadt and Burg Wilenstein.",
+   "tip": "The 6.7 km Karlstalschlucht-Runde takes about two hours. Stop at the Klug'sche Mühle.",
+   "q": "Karlstalschlucht, Trippstadt",
+   "ll": [
+    49.34968,
+    7.75742
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Karlstal",
+    "https://www.ich-geh-wandern.de/karlstalschlucht-runde-mit-kaltenborner-tal-und-schloss-trippstadt"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "klkeltenwall",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Celtic ramparts of the Donnersberg",
+   "desc": "On the Donnersberg a Celtic oppidum of about 240 hectares stood from around 150 BC, with a rampart partly reconstructed. A loop from Dannenfels passes the Dampfnudelfelsen, Keltenwall and Ludwigsturm.",
+   "tip": "The circuit is about 10 km, steep at the start, around 2.5 hours.",
+   "q": "Keltenwall, Donnersberg, Dannenfels",
+   "ll": [
+    49.62827,
+    7.91744
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Donnersberg",
+    "https://planetoutdoor.de/touren/wandern/der-donnersberg-wanderung-auf-den-hoechsten-berg-der-pfalz"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "klfelsenpfad",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Dahner Felsenpfad premium trail",
+   "desc": "The Dahner Felsenpfad is a 12.5 km premium trail with viewpoints over the Dahn rocks. It was the first path in Rhineland-Palatinate to receive the Premiumweg Extratour rating.",
+   "tip": "About five hours; park at the Sportpark car park in Dahn.",
+   "q": "Wanderparkplatz Sportpark, Dahn",
+   "ll": [
+    49.13422,
+    7.7656
+   ],
+   "src": [
+    "https://www.wochenblatt-reporter.de/dahner-felsenland/c-sport/premiumwanderweg-dahner-felsenpfad-herrliche-rundwanderung-mit-jeder-menge-aussichtspunkten_a210022"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "klsagenweg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Follow the Felsenland Sagenweg through Dahn",
+   "desc": "The Felsenland Sagenweg is a premium trail through the Dahner Felsenland telling local legends and passing the Jungfernsprung.",
+   "tip": "Pick up the leaflet at the tourist office; it is a full day if done as one loop.",
+   "q": "Tourist-Information Dahner Felsenland, Dahn",
+   "ll": [
+    49.152,
+    7.78
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/felsenland-sagenweg-durchs-dahner-felsenland",
+    "https://www.dahner-felsenland.net/vg_dahner_felsenland/Tourismus/Wandern/Felsenland%20Sagenweg/Wegbeschreibung%20und%20Tipps%20zum%20Felsenland%20Sagenweg_2025_07_14.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "klrodalberweg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk a stage of the Rodalber Felsenwanderweg",
+   "desc": "The Rodalber Felsenwanderweg is a roughly 45 km certified circuit around Rodalben, passing Bruderfelsen, Karl-May-Felsen and the Bärenhöhle. It can be split into stages.",
+   "tip": "Start at the station and walk clockwise; the short Bruderfelsen to Alter Bierkeller loop is easy.",
+   "q": "Bahnhof Rodalben",
+   "ll": [
+    49.23834,
+    7.63638
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/rodalber-felsenweg-naturpark-pfaelzerwald",
+    "https://www.wanderportal-pfalz.de/PDF/PraedRodFels.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kldraisine",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Pedal a rail draisine from Altenglan to Lauterecken",
+   "desc": "The Glantal draisine runs on a disused railway line over about 20 km between Altenglan and Lauterecken. Bike draisines and an accessible model are rented by the day.",
+   "tip": "Prices were 39 euros on weekdays and 49 at weekends for a draisine in 2023; book via draisinentour.de and check the season.",
+   "q": "Draisinentour Bahnhof Altenglan",
+   "ll": [
+    49.54809,
+    7.46269
+   ],
+   "src": [
+    "https://www.wochenblatt-reporter.de/kusel-altenglan/c-lokales/mit-der-draisine-durch-das-glantal_a456984",
+    "https://wikipedia.com/wiki/Altenglan_station"
+   ]
+  },
+  {
+   "id": "klwildparkpotzberg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch the flight show at Wildpark Potzberg",
+   "desc": "The Wildpark Potzberg in Föckelberg covers about 70 acres on the Potzberg with boars, deer and a birds-of-prey show. Trails of about 4 km pass the enclosures.",
+   "tip": "A flight show runs daily around 3 pm in season; phone 06385 6249 for current hours.",
+   "q": "Wildpark Potzberg, Föckelberg",
+   "ll": [
+    49.52049,
+    7.48337
+   ],
+   "src": [
+    "https://freizeitinsider.de/angebot/wildpark-potzberg/",
+    "https://www.stripes.com/travel/wildpark-potzberg-puts-visitors-eye-to-eye-with-animals-1.491000"
+   ]
+  },
+  {
+   "id": "klfelslandbad",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim at the Felsland Badeparadies in Dahn",
+   "desc": "The Felsland Badeparadies at Eybergstraße 1 has pools, a sauna world and Kneipp facilities. It sits near the Dahn rocks.",
+   "tip": "The open-air pool season has started around 1 May; check opening hours before you go.",
+   "q": "Felsland Badeparadies, Eybergstraße 1, Dahn",
+   "ll": [
+    49.1431,
+    7.77063
+   ],
+   "src": [
+    "https://www.ab-ins-schwimmbad.de/Dahn/Freibad-Felsland-Badeparadies.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "klstrecktalpark",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Play disc golf in Pirmasens' Strecktalpark",
+   "desc": "The Strecktalpark is a free park of about 15 hectares in central Pirmasens with a disc golf course and Dynamikum outdoor exhibits. It is open 6:00 to 22:00.",
+   "tip": "Free entry; combine with the Dynamikum next door.",
+   "q": "Strecktalpark, Pirmasens",
+   "ll": [
+    49.20101,
+    7.59693
+   ],
+   "src": [
+    "https://www.wochenblatt-reporter.de/c-lokales/sehenswuerdigkeiten-in-pirmasens-die-17-besten-ausflugsziele-und-tipps_a824687"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kladolfwanderweg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Follow the Adolf-von-Nassau trail around Göllheim",
+   "desc": "The Adolf-von-Nassau-Wanderweg starts at the Königskreuz and passes the battlefield of 1298 at Göllheim. It is a signposted hiking loop.",
+   "tip": "Take the flyer from the Göllheim tourist office; end at the Kriegsberghütte.",
+   "q": "Wanderparkplatz Königskreuz, Göllheim",
+   "ll": [
+    49.59259,
+    8.04431
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/adolf-von-nassau-wanderweg-goellheim",
+    "https://www.vg-goellheim.de/tourismus-kultur/wander-und-erlebniswege/flyer-adolf-von-nassau-wanderweg.pdf?cid=7a"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "klraubritter",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cycle the Raubritter-Tour in the Dahner Felsenland",
+   "desc": "The Raubritter-Tour is a marked cycling route through the Dahner Felsenland past castle ruins and rock formations.",
+   "tip": "Get the 2019 route leaflet from the Dahn tourist office.",
+   "q": "Tourist-Information Dahner Felsenland, Dahn",
+   "ll": [
+    49.1521,
+    7.7801
+   ],
+   "src": [
+    "https://www.wildganz.com/radweg/de-1589-raubritter-tour",
+    "https://www.dahner-felsenland.net/vg_dahner_felsenland/Tourismus/Radfahren%20&%20Mountainbike/Rad-Rundtouren/Raubritter-Tour/Raubrittertour_Endversion%202019.pdf"
+   ]
+  },
+  {
+   "id": "kldynamikum",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Experiment at the Dynamikum science center in Pirmasens",
+   "desc": "The Dynamikum in Fröhnstraße 8 is a hands-on science center about movement and physics.",
+   "tip": "Check dynamikum.de for current hours, which differ in school holidays.",
+   "q": "Dynamikum, Fröhnstraße 8, Pirmasens",
+   "ll": [
+    49.20195,
+    7.59872
+   ],
+   "src": [
+    "https://dynamikum.de/besuch-planen/?lang=en"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "klromerhof",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Join a wine tasting at Weingut Römerhof in Zell",
+   "desc": "Weingut Römerhof at Zeller Hauptstraße 21 in the Zellertal hosts tastings for up to 20 guests, indoors or outdoors.",
+   "tip": "Book tastings in advance; Zellertal Riesling is the wine to try.",
+   "q": "Weingut Römerhof, Zeller Hauptstraße 21, Zellertal",
+   "ll": [
+    49.64918,
+    8.13896
+   ],
+   "src": [
+    "https://www.pfalz.de/de/winzer/weingut-roemerhof"
+   ]
+  }
+ ]
+}

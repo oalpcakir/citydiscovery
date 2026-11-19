@@ -1,0 +1,604 @@
+{
+ "new": [
+  {
+   "id": "mddom",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk into Magdeburg Cathedral, Germany's first Gothic cathedral",
+   "desc": "St. Mauritius and St. Catherine Cathedral was begun in 1209 and is regarded as the oldest Gothic cathedral in Germany. Emperor Otto I and his first wife Editha are buried inside, and the twin spires rise about 100 m above the Elbe.",
+   "tip": "Allow an hour inside and look for the sarcophagus of Editha. Tower and special tours run at set times; check the cathedral website.",
+   "q": "Magdeburger Dom, Domplatz 1, Altstadt, Magdeburg",
+   "ll": [
+    52.12465,
+    11.63472
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Magdeburger_Dom",
+    "https://www.magdeburgerdom.de"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mdzitadelle",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See Hundertwasser's Grüne Zitadelle and climb its tower",
+   "desc": "The Green Citadel is one of the last buildings designed by Friedensreich Hundertwasser and opened in 2005. Its pink facade, golden onion domes and rooftop trees surround a courtyard with shops, cafés, a hotel and a theatre.",
+   "tip": "Guided tours run regularly and the courtyard is free to enter. The viewing tower is about 33 m high.",
+   "q": "Grüne Zitadelle, Breiter Weg 9, Altstadt, Magdeburg",
+   "ll": [
+    52.12662,
+    11.634
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Gr%C3%BCne_Zitadelle_(Magdeburg)",
+    "https://www.adac.de/reise-freizeit/reiseplanung/inspirationen/deutschland/magdeburg-sehenswuerdigkeiten/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mdkloster",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore the Romanesque Kloster Unser Lieben Frauen",
+   "desc": "The monastery, founded in the 11th century, is one of the best-preserved Romanesque complexes in Germany. Today it houses a sculpture museum and a concert hall in the former church.",
+   "tip": "The cloister garden is pleasant on dry days and the church hosts concerts; check the museum for current hours.",
+   "q": "Kloster Unser Lieben Frauen, Regierungsstraße 4-6, Altstadt, Magdeburg",
+   "ll": [
+    52.12734,
+    11.6369
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kloster_Unser_Lieben_Frauen_(Magdeburg)",
+    "https://www.adac.de/reise-freizeit/reiseplanung/inspirationen/deutschland/magdeburg-sehenswuerdigkeiten/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mdreiter",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find the Magdeburger Reiter on Alter Markt",
+   "desc": "The Magdeburg Rider, from around 1240, is considered the oldest free-standing equestrian statue north of the Alps. A bronze copy stands in front of the Old Town Hall, while the sandstone original is kept in the Kulturhistorisches Museum.",
+   "tip": "Combine it with the Rathaus bronze door and the glockenspiel. Visit in the morning before the square fills.",
+   "q": "Magdeburger Reiter, Alter Markt, Altstadt, Magdeburg",
+   "ll": [
+    52.1315,
+    11.63938
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Magdeburger_Reiter",
+    "https://www.adac.de/reise-freizeit/reiseplanung/inspirationen/deutschland/magdeburg-sehenswuerdigkeiten/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mdjohannis",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb the tower of the Johanniskirche for the city view",
+   "desc": "St. John's is the oldest parish church of Magdeburg, where Martin Luther preached in 1524. Destroyed in 1945 and rebuilt by 1999, it is now an event hall, and its tower has a viewing platform about 52 m high.",
+   "tip": "The tower is open at limited hours, so check before you go. Late afternoon gives the best light.",
+   "q": "Johanniskirche, Johannisbergstraße, Altstadt, Magdeburg",
+   "ll": [
+    52.13078,
+    11.64114
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Johanniskirche_(Magdeburg)",
+    "https://www.adac.de/reise-freizeit/reiseplanung/inspirationen/deutschland/magdeburg-sehenswuerdigkeiten/"
+   ]
+  },
+  {
+   "id": "mdjahrtausendturm",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb the Jahrtausendturm in the Elbauenpark",
+   "desc": "The 60 m Millennium Tower was built for the 1999 federal garden show and is described as Germany's tallest wooden building. Inside, exhibits trace thousands of years of science and technology history.",
+   "tip": "Entry needs a park ticket; check elbauenpark.de for opening dates and the current exhibition.",
+   "q": "Jahrtausendturm, Elbauenpark, Tessenowstraße 5, Magdeburg",
+   "ll": [
+    52.13881,
+    11.66642
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Jahrtausendturm",
+    "https://www.elbauenpark.de/en/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mdalbinmueller",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the Albinmüller-Turm in Rotehornpark",
+   "desc": "The 60 m tower was built in 1926/27 to plans by Albin Müller and is a landmark of the Stadtpark Rotehorn. In summer it serves as a viewpoint over the Elbe.",
+   "tip": "The platform opens mainly in summer months; check dates before going.",
+   "q": "Albinmüller-Turm, Stadtpark Rotehorn, Magdeburg",
+   "ll": [
+    52.11776,
+    11.64065
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Albinm%C3%BCller-Turm",
+    "https://maps.adac.de/show/stadtpark-rotehorn-magdeburg"
+   ]
+  },
+  {
+   "id": "mdgruson",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step inside the Gruson-Gewächshäuser in Buckau",
+   "desc": "The Gruson greenhouses date from 1895 and go back to the industrialist Hermann Gruson, who was passionate about botany. The glasshouses in the Lenné-designed park hold tropical and desert plants.",
+   "tip": "Entry is cheap and it is a good rainy-day stop. Check the site for current hours.",
+   "q": "Gruson-Gewächshäuser, Schönebecker Straße 129, Buckau, Magdeburg",
+   "ll": [
+    52.11418,
+    11.63151
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Gruson-Gew%C3%A4chsh%C3%A4user"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mdlukas",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Lukasklause and the Otto-von-Guericke exhibit",
+   "desc": "The medieval defensive tower on the Elbe received an extension in 1900. Inside, an exhibition shows the life and experiments of Otto von Guericke, famous for the Magdeburg hemispheres.",
+   "tip": "Pair it with a walk along the Elbe at Petriförder.",
+   "q": "Lukasklause, Petriförder, Altstadt, Magdeburg",
+   "ll": [
+    52.13586,
+    11.65045
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Lukasklause",
+    "https://www.adac.de/reise-freizeit/reiseplanung/inspirationen/deutschland/magdeburg-sehenswuerdigkeiten/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mdfestungmark",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Festung Mark, a 19th-century fortress barracks",
+   "desc": "The Kaserne Mark was built between 1863 and 1865 as a defensive barracks of the Magdeburg fortress. Today the brick complex hosts culture events, exhibitions and concerts.",
+   "tip": "Check the event calendar; the courtyard is most atmospheric during concerts.",
+   "q": "Festung Mark, Hohepfortestraße 12, Altstadt, Magdeburg",
+   "ll": [
+    52.13749,
+    11.64576
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Festung_Mark"
+   ]
+  },
+  {
+   "id": "mdsternbruecke",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Cross the Sternbrücke into Stadtpark Rotehorn",
+   "desc": "The Sternbrücke is an industrial steel bridge from the 1920s at the entrance of the Stadtpark Rotehorn. It was destroyed in 1945, rebuilt after reunification and reopened in 2005.",
+   "tip": "Free and always open; walk it on the way to the Adolf-Mittag-See.",
+   "q": "Sternbrücke, Stadtpark Rotehorn, Magdeburg",
+   "ll": [
+    52.11663,
+    11.63696
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Sternbr%C3%BCcke_(Magdeburg)",
+    "https://www.adac.de/reise-freizeit/reiseplanung/inspirationen/deutschland/magdeburg-sehenswuerdigkeiten/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mdkhm",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the original Magdeburger Reiter in the Kulturhistorisches Museum",
+   "desc": "The museum shows medieval finds, archaeology and the sandstone original of the Magdeburg Rider. The natural history museum shares the building.",
+   "tip": "Plan about two hours; combine with a stop on Hasselbachplatz.",
+   "q": "Kulturhistorisches Museum Magdeburg, Otto-von-Guericke-Straße 68-73, Magdeburg",
+   "ll": [
+    52.12522,
+    11.63001
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kulturhistorisches_Museum_Magdeburg",
+    "https://www.adac.de/reise-freizeit/reiseplanung/inspirationen/deutschland/magdeburg-sehenswuerdigkeiten/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mdhebewerk",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Schiffshebewerk Rothensee, a 1938 ship lift",
+   "desc": "The Rothensee boat lift opened in 1938, closed to freight in 2006 as too narrow and reopened for visitors in 2013. It is the second-oldest of four remaining boat lifts in Germany.",
+   "tip": "Boat trips sometimes start here; check the operator beforehand.",
+   "q": "Schiffshebewerk Rothensee, Magdeburg-Rothensee",
+   "ll": [
+    52.22426,
+    11.67223
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schiffshebewerk_Rothensee",
+    "https://www.adac.de/reise-freizeit/reiseplanung/inspirationen/deutschland/magdeburg-sehenswuerdigkeiten/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mdhasselbach",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Gründerzeit facades of Hasselbachplatz",
+   "desc": "Hasselbachplatz is the centre of Magdeburg's nightlife, ringed by Gründerzeit facades. The surrounding streets hold bars, restaurants and cafés.",
+   "tip": "Visit by day for the architecture and in the evening for the bars. Parts of the square are a construction site.",
+   "q": "Hasselbachplatz, Altstadt, Magdeburg",
+   "ll": [
+    52.12049,
+    11.62722
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Hasselbachplatz",
+    "https://maps.adac.de/poi/hasselbachplatz-magdeburg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mdhoflieferant",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat seasonal regional dishes at Restaurant Hoflieferant",
+   "desc": "The restaurant sits about 100 m from the cathedral between the Dom and the Elbe. The menu leans on regional produce, including forgotten vegetables such as purple carrots and golden beets.",
+   "tip": "Dinner Tuesday to Saturday and Sunday lunch; book ahead and confirm hours.",
+   "q": "Restaurant Hoflieferant, Fürstenwall 3b, Altstadt, Magdeburg",
+   "ll": [
+    52.12437,
+    11.63631
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/magdeburg/restaurant-hoflieferant/",
+    "https://www.merian.de/deutschland/sachsen-anhalt/top-restaurants-in-magdeburg"
+   ]
+  },
+  {
+   "id": "mdmueckenwirt",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have brunch at the Mückenwirt on the Elbe bank",
+   "desc": "The Mückenwirt is a beer garden and restaurant directly on the Elbe with rustic dishes and a popular weekend breakfast and brunch buffet.",
+   "tip": "Brunch is best at weekends; listings show it closed Mondays and Tuesdays, so confirm first.",
+   "q": "Mückenwirt, An der Elbe 14, Magdeburg",
+   "ll": [
+    52.10732,
+    11.64376
+   ],
+   "src": [
+    "https://prinz.de/magdeburg/locations/mueckenwirt/",
+    "https://www.merian.de/deutschland/sachsen-anhalt/top-restaurants-in-magdeburg"
+   ]
+  },
+  {
+   "id": "mdmilchkur",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink a local beer at the Schweizer Milchkuranstalt",
+   "desc": "This beer garden in the Fürstenwallpark is named after a milk-cure spa that stood there over 120 years ago. It serves local draft and bottled beers and grilled snacks such as corn on the cob and sausages.",
+   "tip": "Open in good weather only, with a winter break; guests may bring their own food.",
+   "q": "Schweizer Milchkuranstalt, Schleinufer 8, Fürstenwallpark, Magdeburg",
+   "ll": [
+    52.12288,
+    11.6348
+   ],
+   "src": [
+    "https://rausgegangen.de/en/locations/schweizer-milchkuranstalt/",
+    "https://fromplacetoplace.travel/germany/saxony-anhalt/magdeburg/beer-garden-magdeburg/"
+   ]
+  },
+  {
+   "id": "mdbrewckau",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste Tachhell and Stockdunkel at Brauhaus Brewckau",
+   "desc": "Brewckau is a craft brewhouse in the Buckau district, which gave it its name. It brews three permanent beers, Tachhell, Stockdunkel and Chinook, plus seasonal ones, around 50,000 litres a year.",
+   "tip": "Monday and Tuesday are production days; check opening hours first.",
+   "q": "Brauhaus Brewckau, Buckau, Magdeburg",
+   "ll": [
+    52.10932,
+    11.63869
+   ],
+   "src": [
+    "https://www.volksstimme.de/lokal/magdeburg/bierszene-in-magdeburg-video-bier-fuer-und-aus-magdeburg-hier-wird-gebraut-3361347",
+    "https://www.merian.de/deutschland/sachsen-anhalt/top-restaurants-in-magdeburg"
+   ]
+  },
+  {
+   "id": "mdhyaku",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order robata-grilled dishes at Hyaku Mizu",
+   "desc": "Hyaku Mizu is an Asian restaurant at the Grüne Zitadelle, known for a Japanese robata grill, sushi and an open bar with sake and wine.",
+   "tip": "Book for dinner and try the grilled dishes and the desserts.",
+   "q": "Hyaku Mizu, Breiter Weg 8, Grüne Zitadelle, Magdeburg",
+   "ll": [
+    52.12694,
+    11.63389
+   ],
+   "src": [
+    "https://www.gruene-zitadelle.de/en/marketplace/gastronomy",
+    "https://tripaligner.com/countries/germany-22/destinations/magdeburg-4539/places/hyaku-mizu-asian-restaurant-7986622"
+   ]
+  },
+  {
+   "id": "mdkroem",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sip a single-origin coffee at KRÖM Kaffeerösterei",
+   "desc": "KRÖM roasts its own beans from fair-trade farms in Ethiopia, Vietnam and Guatemala. The café is at Alter Markt 5 in the old town centre.",
+   "tip": "Hours are around 11 to 18 on weekdays; confirm before visiting.",
+   "q": "KRÖM Kaffeerösterei, Alter Markt 5, Altstadt, Magdeburg",
+   "ll": [
+    52.13127,
+    11.63903
+   ],
+   "src": [
+    "https://neotaste.com/restaurants/magdeburg/kroem-kaffeeroesterei",
+    "https://europeancoffeetrip.com/cafe/krom-kaffeeroesterei-magdeburg/"
+   ]
+  },
+  {
+   "id": "mdneuzeit",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have vegan cake at Café Neuzeit near Hasselbachplatz",
+   "desc": "Café Neuzeit on Einsteinstraße is a very small café known for coffee, homemade vegan cakes and vegan soups.",
+   "tip": "Cash only; closed Mondays and open shorter hours at weekends.",
+   "q": "Café Neuzeit, Einsteinstraße 12, Altstadt, Magdeburg",
+   "ll": [
+    52.12107,
+    11.62962
+   ],
+   "src": [
+    "https://happycow.net/reviews/neuzeit-magdeburg-395299",
+    "https://spinach.guide/venues/neuzeit-20923/"
+   ]
+  },
+  {
+   "id": "mddomfelsen",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have breakfast at the Café am Domfelsen",
+   "desc": "The café at Zum Domfelsen 1 sits by the cathedral rock above the Elbe. Breakfast is served Wednesday to Sunday from 9 to 11:30.",
+   "tip": "Come on a weekend morning and walk the Elbe promenade afterwards.",
+   "q": "Café am Domfelsen, Zum Domfelsen 1, Altstadt, Magdeburg",
+   "ll": [
+    52.1208,
+    11.63514
+   ],
+   "src": [
+    "https://freizeitmonster.de/blog/fruehstuecken-magdeburg",
+    "https://freizeitmonster.de/blog/cafes-magdeburg"
+   ]
+  },
+  {
+   "id": "mdelbauenpark",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Spend a day in the Elbauenpark",
+   "desc": "The park was created for the 1999 federal garden show on a former military site. It has themed gardens, a year-round summer toboggan run reaching 40 km/h and a zipline from the Jahrtausendturm.",
+   "tip": "Winter entry is free; check elbauenpark.de for the season and ticket prices.",
+   "q": "Elbauenpark, Tessenowstraße 5, Magdeburg",
+   "ll": [
+    52.13795,
+    11.67838
+   ],
+   "src": [
+    "https://www.elbauenpark.de/en/",
+    "https://en.wikipedia.org/wiki/Elbauenpark",
+    "https://maps.adac.de/show/elbauenpark"
+   ]
+  },
+  {
+   "id": "mdzoo",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Visit Zoo Magdeburg and its elephants",
+   "desc": "The zoo keeps around 200 species including elephants, giraffes, penguins and chimpanzees.",
+   "tip": "Open 9 to 18 from March to October with an evening ticket after 16:00; adults around 17.50 euros.",
+   "q": "Zoologischer Garten Magdeburg, Zooallee 1, Magdeburg",
+   "ll": [
+    52.1695,
+    11.615
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Magdeburg_Zoo",
+    "https://www.volksstimme.de/lokal/magdeburg/ausflugstipp-zoo-dieser-magdeburger-park-gehoert-tieren-video-3875233"
+   ]
+  },
+  {
+   "id": "mdelbepromenade",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the Elbe promenade at Petriförder",
+   "desc": "The promenade runs along the river below the cathedral and the Lukasklause, with views across to Rotehorn. The Elbe cycle route passes here.",
+   "tip": "Free and best at sunset; extend the walk to the Fürstenwallpark.",
+   "q": "Petriförder, Elbuferpromenade, Altstadt, Magdeburg",
+   "ll": [
+    52.13258,
+    11.64431
+   ],
+   "src": [
+    "https://www.volksstimme.de/lokal/magdeburg/herbstferien-schulferien-ausflugstipps-tipps-familien-3921297"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mdrotehorn",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Stroll through Stadtpark Rotehorn to the Adolf-Mittag-See",
+   "desc": "Stadtpark Rotehorn is a large park on an Elbe island with the Adolf-Mittag-See, the Albinmüller-Turm and the Sternbrücke, laid out in the 1920s.",
+   "tip": "Free; walk the loop around the lake or rent a bike.",
+   "q": "Stadtpark Rotehorn, Magdeburg",
+   "ll": [
+    52.12693,
+    11.64647
+   ],
+   "src": [
+    "https://maps.adac.de/show/stadtpark-rotehorn-magdeburg",
+    "https://www.volksstimme.de/lokal/magdeburg/magdeburg-stadtpark-rothehorn-ausflug-freizeit-beeindruckend-3861738"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mdfaehre",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cross the Elbe on the ferry between Rotehorn and the Mückenwirt",
+   "desc": "A small ferry links Rotehornpark with the Mückenwirt on the Elbe bank, according to the Riverside@Night organisers.",
+   "tip": "Seasonal; check the timetable before going.",
+   "q": "Fähranleger Rotehornpark, Stadtpark Rotehorn, Magdeburg",
+   "ll": [
+    52.10867,
+    11.64489
+   ],
+   "src": [
+    "https://www.volksstimme.de/lokal/magdeburg/riverside-elbe-party-2026-in-magdeburg-startklar-aber-auf-diesen-service-mussen-partyganger-verzichten-4294646"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "mdtheater",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "See an opera or ballet at Theater Magdeburg",
+   "desc": "Theater Magdeburg stages opera, ballet and plays, with the Opernhaus as its main stage.",
+   "tip": "Book tickets on the theatre website.",
+   "q": "Opernhaus Magdeburg, Universitätsplatz 9, Magdeburg",
+   "ll": [
+    52.13721,
+    11.63848
+   ],
+   "src": [
+    "https://www.theater-magdeburg.de"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mdweihnacht",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Magdeburger Weihnachtsmarkt",
+   "desc": "The Christmas market around the Alter Markt and cathedral square is the city's main winter event.",
+   "tip": "Late November to December; bring some cash.",
+   "q": "Weihnachtsmarkt Magdeburg, Alter Markt, Altstadt, Magdeburg",
+   "ll": [
+    52.1325,
+    11.64
+   ],
+   "src": [
+    "https://www.volksstimme.de/newsletter/mensch-magdeburg/magdeburg-auf-dem-weg-zur-weihnachtsstadt-4282148"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    11,
+    12
+   ]
+  },
+  {
+   "id": "mdherrenkrug",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the Herrenkrugpark and its old lawns",
+   "desc": "The Herrenkrugpark grew from a 17th-century inn and was redesigned in the 19th century under Peter Joseph Lenné, with sculptures and wide lawns.",
+   "tip": "Free; combine with a ride to the Elbauenpark.",
+   "q": "Herrenkrugpark, Herrenkrug, Magdeburg",
+   "ll": [
+    52.15147,
+    11.67948
+   ],
+   "src": [
+    "https://www.adac.de/reise-freizeit/reiseplanung/inspirationen/deutschland/magdeburg-sehenswuerdigkeiten/",
+    "https://de.wikipedia.org/wiki/Herrenkrugpark"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mdklosterberge",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Stroll the Klosterbergegarten and its Schinkel Gesellschaftshaus",
+   "desc": "The Klosterbergegarten was laid out 1825-1829 on a former Benedictine monastery site, designed under Lenné and called Germany's first Volkspark. It holds Karl Friedrich Schinkel's Gesellschaftshaus.",
+   "tip": "Free and quiet; a good weekday stroll.",
+   "q": "Klosterbergegarten, Schönebecker Straße, Buckau, Magdeburg",
+   "ll": [
+    52.11312,
+    11.63178
+   ],
+   "src": [
+    "https://www.adac.de/reise-freizeit/reiseplanung/inspirationen/deutschland/magdeburg-sehenswuerdigkeiten/",
+    "https://de.wikipedia.org/wiki/Klosterbergegarten"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mdmdcc",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Watch a 1. FC Magdeburg match at the MDCC-Arena",
+   "desc": "The MDCC-Arena is the home stadium of 1. FC Magdeburg, with a loud, local crowd on match days.",
+   "tip": "Tickets sell out early; check the club site.",
+   "q": "MDCC-Arena, Magdeburg",
+   "ll": [
+    52.12603,
+    11.67686
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/MDCC-Arena"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,778 @@
+{
+ "new": [
+  {
+   "id": "srkaparkona",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the lighthouses of Kap Arkona",
+   "desc": "Rügen's northern tip has two lighthouses side by side: Karl Friedrich Schinkel's square brick tower of 1827 and the 1902 lighthouse. The cliff top also holds the Peilturm and the remains of a Slavic Jaromarsburg fortress. The big lighthouse reopened in June 2026 after a long renovation.",
+   "tip": "Park in Putgarten and walk or take the small Kap Arkona shuttle train to the cape. Hours are shortened in winter, so check before going.",
+   "q": "Leuchttürme Kap Arkona, Putgarten, Rügen",
+   "ll": [
+    54.67737,
+    13.43073
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Cape_Arkona_Lighthouses",
+    "https://www.mvp.de/arkona/entdecken/leuchttuerme-kap-arkona-putgarten/"
+   ]
+  },
+  {
+   "id": "srkoenigsstuhl",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Meet the chalk cliffs at Königsstuhl",
+   "desc": "The Königsstuhl is the best known of the white chalk cliffs in Jasmund National Park, rising about 118 metres above the Baltic. The Nationalpark-Zentrum Königsstuhl explains the geology and beech forest, which is part of a UNESCO World Heritage site. The viewing platform brings you close to the cliff edge.",
+   "tip": "Arrive early or late in the day to avoid coach crowds. The centre's entry includes the viewing platform; hours are shorter in winter.",
+   "q": "Nationalpark-Zentrum Königsstuhl, Hagen, Sassnitz, Rügen",
+   "ll": [
+    54.57314,
+    13.65971
+   ],
+   "src": [
+    "https://www.koenigsstuhl.com/en/standorte/nationalpark-zentrum-koenigsstuhl",
+    "https://en.wikipedia.org/wiki/Jasmund_National_Park"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "srprora",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the Colossus of Prora",
+   "desc": "Prora is a 4.5 km long seaside complex of eight blocks begun by the Nazi Kraft durch Freude organisation in 1936 and never used as intended. Today parts hold a documentation centre, a youth hostel and holiday flats. The Dokumentationszentrum Prora tells the history of the site.",
+   "tip": "Start at the documentation centre, then walk along the building line to the beach. Allow about an hour for the exhibition.",
+   "q": "Dokumentationszentrum Prora, Objektstraße, Prora, Binz",
+   "ll": [
+    54.43888,
+    13.57318
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Prora"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "srgranitz",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the tower of Jagdschloss Granitz",
+   "desc": "This hunting lodge was built 1837 to 1846 for Prince Wilhelm Malte I of Putbus, with a central tower designed by Schinkel. A cast-iron spiral staircase leads up to a viewing platform with a view over Rügen. Rooms show the princely hunting history.",
+   "tip": "The palace is closed on Mondays in winter. The Rasender Roland stops at Jagdschloss station, a short walk through the forest.",
+   "q": "Jagdschloss Granitz, Binz, Rügen",
+   "ll": [
+    54.38059,
+    13.62727
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Granitz_Hunting_Lodge",
+    "https://www.visit-mv.com/destinations/a-hunting-lodge-granitz"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "srputbus",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stroll the white town of Putbus",
+   "desc": "Putbus was founded in 1810 by Prince Malte as Rügen's classicist residence town, with white-painted buildings around the circular Circus. The Schlosspark holds an orangery, a deer park and a former theatre. The Rasender Roland departs from the town's historic station.",
+   "tip": "Walk from the Circus through the Schlosspark to the Orangerie. Allow two hours.",
+   "q": "Circus, Putbus, Rügen",
+   "ll": [
+    54.35446,
+    13.47497
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Putbus"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "srsellinpier",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the Seebrücke at Sellin",
+   "desc": "The Sellin pier is a Bäderarchitektur landmark: a 394 m pier ending in a pavilion building with a restaurant, rebuilt in 1998 after the original was lost to ice in the 1940s. It is one of Rügen's most photographed spots.",
+   "tip": "Go at sunset for the light over the Baltic. The lift at the pier head takes you down to the water level.",
+   "q": "Seebrücke Sellin, Ostseebad Sellin, Rügen",
+   "ll": [
+    54.38349,
+    13.69945
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Sellin"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "srbinzpier",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Binz's resort architecture on the Seebrücke",
+   "desc": "Binz is Rügen's largest seaside resort, known for white Bäderarchitektur villas with wooden verandas along the Strandpromenade. The Seebrücke and nearby Kurhaus date from the resort's late 19th-century heyday. It is the departure point for sightseeing boats.",
+   "tip": "Walk the promenade from the pier to the Kurhaus. Winter evenings are quiet, summer afternoons crowded.",
+   "q": "Seebrücke Binz, Ostseebad Binz, Rügen",
+   "ll": [
+    54.40309,
+    13.61716
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Binz"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "srdornbusch",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Dornbusch lighthouse on Hiddensee",
+   "desc": "The Leuchtturm Dornbusch stands on the Schluckwiek hill on Hiddensee's northern headland and has guided ships since 1888. The tower can be climbed on selected days. The island is car-free and reached by ferry from Schaprode or Stralsund.",
+   "tip": "Walk or cycle from Kloster via the Dornbusch path; allow about 45 minutes one way.",
+   "q": "Leuchtturm Dornbusch, Kloster, Insel Hiddensee",
+   "ll": [
+    54.59914,
+    13.11936
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Hiddensee"
+   ],
+   "tags": []
+  },
+  {
+   "id": "srpeenemuende",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the Peenemünde Historical Technical Museum",
+   "desc": "The museum is housed in the former power plant of the Peenemünde Army Research Centre, where the V-2 rocket was developed in the 1930s and 1940s. Exhibits trace the technology, the forced labour and the later use of the rocket in space programmes. The site is a protected industrial monument.",
+   "tip": "Allow two to three hours. Combine it with the Soviet U-461 submarine at the harbour. Hours are shorter from October.",
+   "q": "Historisch-Technisches Museum Peenemünde, Im Kraftwerk, Peenemünde",
+   "ll": [
+    54.13861,
+    13.76649
+   ],
+   "src": [
+    "https://museum-peenemuende.de/",
+    "https://www.visit-mv.com/destinations/a-historisch-technisches-museum-peenemuende"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "srahlbeckpier",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stroll Ahlbeck's pier and historic pier hall",
+   "desc": "Ahlbeck is the easternmost of Usedom's three Kaiserbäder, known for its white wooden pier building from 1898 with a clock tower. It sits near the Polish border, and the beach promenade continues to Świnoujście.",
+   "tip": "Visit in the evening when the lights come on. The promenade is free; the pier restaurant has seasonal hours.",
+   "q": "Seebrücke Ahlbeck, Ostseebad Ahlbeck, Usedom",
+   "ll": [
+    53.9436,
+    14.1936
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ahlbeck"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "srheringsdorfpier",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the 508 m pier at Heringsdorf",
+   "desc": "The Seebrücke Heringsdorf is the longest pier in continental Germany at 508 metres, with a pavilion at its end. Heringsdorf was the Kaiserbad where Emperor Wilhelm II holidayed, and the beach promenade has villas of that period.",
+   "tip": "Combine the pier with a walk along the promenade towards Ahlbeck or Bansin.",
+   "q": "Seebrücke Heringsdorf, Ostseebad Heringsdorf, Usedom",
+   "ll": [
+    53.95611,
+    14.1698
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Heringsdorf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "srburgstargard",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the keep of Burg Stargard",
+   "desc": "Burg Stargard is the oldest surviving hill castle in Mecklenburg-Vorpommern, first built in the 13th century. The 38 m brick keep can be climbed for a view over the Tollensesee region, and a museum shows medieval life. The castle hosts a large medieval festival.",
+   "tip": "The keep and museum follow seasonal hours, so call the tourist information in winter. A medieval festival runs in August.",
+   "q": "Burg Stargard, Burg Stargard, Mecklenburgische Seenplatte",
+   "ll": [
+    53.49022,
+    13.30538
+   ],
+   "src": [
+    "https://www.visit-mv.com/destinations/a-burg-stargard",
+    "https://www.burgenwelt.org/deutschland/stargard/burgenwelt-stargard-objektseite.pdf"
+   ]
+  },
+  {
+   "id": "srtreptowertor",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Admire the gates of Neubrandenburg's town wall",
+   "desc": "Neubrandenburg is called the Vier-Tore-Stadt for its four medieval brick town gates and a nearly complete ring wall of the 13th and 14th centuries. The Treptower Tor is the most decorated gate with its brick tracery. The old town inside the wall was rebuilt after wartime destruction.",
+   "tip": "Walk the wall ring in about an hour. The Regionalmuseum in a former Franciscan monastery is nearby.",
+   "q": "Treptower Tor, Neubrandenburg",
+   "ll": [
+    53.55699,
+    13.25504
+   ],
+   "src": [
+    "https://maps.adac.de/poi/treptower-tor-neubrandenburg",
+    "https://en.wikipedia.org/wiki/Neubrandenburg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "srmueritzeum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Müritz aquariums at the Müritzeum",
+   "desc": "The Müritzeum in Waren is a nature museum about the Müritz region and national park with aquariums for native freshwater fish. Exhibits cover the lake, moors and forests of the Müritz-Nationalpark.",
+   "tip": "Good on rainy days; combine with the Waren harbour a few minutes away.",
+   "q": "Müritzeum, Zur Steinmole 1, Waren (Müritz)",
+   "ll": [
+    53.51487,
+    12.68325
+   ],
+   "src": [
+    "https://www.nordkurier.de/regional/mueritz/restaurant-im-mueritzeum-oeffnet-wieder-unter-neuer-leitung-2301802"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "srneustrelitzgarten",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander the Schlossgarten of Neustrelitz",
+   "desc": "The Neustrelitz palace garden belonged to the dukes of Mecklenburg-Strelitz and is laid out as a landscape garden on the Zierker See. Its Hebe temple, Orangerie and Schinkel-style buildings survive, though the palace itself was destroyed in 1945.",
+   "tip": "Free to enter. Combine with the planned baroque town centre and the market square.",
+   "q": "Schlossgarten Neustrelitz, Neustrelitz",
+   "ll": [
+    53.36087,
+    13.05533
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schlossgarten_Neustrelitz"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sranklamlilienthal",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Meet the glider pioneer at the Lilienthal Museum",
+   "desc": "The Otto-Lilienthal-Museum in Anklam, birthplace of aviation pioneer Otto Lilienthal (1848 to 1896), presents his gliding flights and early flight history, with replicas of his gliders. Lilienthal made more than 2000 flights before his fatal crash in 1896.",
+   "tip": "Hours vary by season; winter hours are short. Rainy day option on the Peene river.",
+   "q": "Otto-Lilienthal-Museum, Ellbogenstraße 1, Anklam",
+   "ll": [
+    53.85379,
+    13.70458
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Otto_Lilienthal_Museum",
+    "https://www.visit-mv.com/destinations/a-otto-lilienthal-museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "srnatureum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Natureum at Darßer Ort lighthouse",
+   "desc": "Opened in 1991, the Natureum is a branch of the Deutsches Meeresmuseum at the tip of the Darß peninsula, next to the Darßer Ort lighthouse. It is inside the Vorpommersche Boddenlandschaft National Park and reachable only on foot, by bike or horse-drawn carriage.",
+   "tip": "Walk or cycle from Prerow through the Darß forest, about 7 km one way. Lighthouse entry costs a few euros.",
+   "q": "Natureum Darßer Ort, Darßer Ort 1, Born am Darß",
+   "ll": [
+    54.47267,
+    12.50206
+   ],
+   "src": [
+    "https://www.visit-mv.com/destinations/a-natureum-and-lighthouse-darsser-ort",
+    "https://wikipedia.com/wiki/Natureum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "srueckermuende",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore Schloss Ueckermünde on the Haff",
+   "desc": "The Renaissance palace of the Pomeranian dukes in Ueckermünde dates from the 16th century and today houses the Haffmuseum. The town lies on the Stettiner Haff lagoon, with a harbour and a beach nearby.",
+   "tip": "Combine the museum with a walk along the Haff harbour.",
+   "q": "Schloss Ueckermünde, Ueckermünde",
+   "ll": [
+    53.73585,
+    14.04885
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Ueckermünde"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "srkutter4",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat smoked fish at Kutter 4 in Sassnitz harbour",
+   "desc": "Kutter 4 is a fish smokehouse and fish store in the former cold store on Sassnitz town harbour, run by Kutter- und Küstenfisch Rügen. The harbour is the home of Rügen's Baltic fishing fleet.",
+   "tip": "Try the smoked herring or a Fischbrötchen with Baltic fish. Check hours before going in winter.",
+   "q": "Kutter 4, Hafenstraße 12D, Sassnitz",
+   "ll": [
+    54.51479,
+    13.64896
+   ],
+   "src": [
+    "https://www.visit-mv.com/destinations/a-cutter-4-the-fish-hotspot-at-ruegen"
+   ]
+  },
+  {
+   "id": "sraudos",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat a smoked fish roll at Udo's Fischräucherei",
+   "desc": "Udo's Fischräucherei in Koserow has three smoking ovens that usually have fish in the smoke by late morning. It is known for Fischbrötchen and warm-smoked fish.",
+   "tip": "Cash only, no card payments. Try the warm smoked Baltic fish.",
+   "q": "Udos Fischräucherei, Koserow, Usedom",
+   "ll": [
+    54.05908,
+    13.99748
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/3467940/udos-fischräucherei"
+   ]
+  },
+  {
+   "id": "srdomkes",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Baltic fish at Domkes Fischhus in Ahlbeck",
+   "desc": "Domkes Fischhus on Seestraße in Ahlbeck is a long-standing fish shop and snack bar for Baltic fish and Fischbrötchen, a few steps from the beach promenade.",
+   "tip": "Order a fish roll or fried fish and take it to the pier.",
+   "q": "Domkes Fischhus, Seestraße 24, Ostseebad Ahlbeck",
+   "ll": [
+    53.9408,
+    14.18668
+   ],
+   "src": [
+    "https://www.golocal.de/ostseebad-heringsdorf/fisch-restaurants/"
+   ]
+  },
+  {
+   "id": "srfischkopp",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try Baltic fish dishes at Fischkopp in Bansin",
+   "desc": "Restaurant Fischkopp in Bansin serves Baltic fish dishes in the heart of the resort, a short walk from the beach and pier.",
+   "tip": "Order the daily fish of the Baltic; book ahead in summer.",
+   "q": "Restaurant Fischkopp, Seestraße 66, Ostseebad Bansin",
+   "ll": [
+    53.9693,
+    14.13933
+   ],
+   "src": [
+    "https://wanderlog.com/explore/10468/usedom-island"
+   ]
+  },
+  {
+   "id": "srraeucherkahn",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat a fish roll at the Räucherkahn in Waren",
+   "desc": "The Räucherkahn of Fischräucherei Rösing is a smoking barge moored at the Steinmole in Waren that sells freshly smoked Müritz fish and fish rolls from April to October.",
+   "tip": "Open daily from 10:00 in season. Try the smoked eel or Müritz fish roll and sit by the water.",
+   "q": "Räucherkahn Rösing, Steinmole, Waren (Müritz)",
+   "ll": [
+    53.51285,
+    12.68378
+   ],
+   "src": [
+    "https://www.visit-mv.com/destinations/a-smoker-barge-in-goods-mueritz"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "srfischerhofwaren",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Müritz fish at the Fischerhof in Waren",
+   "desc": "The Fischerhof of the Müritzfischer is a restaurant near the town harbour with a terrace overlooking the Müritz and the old town of Waren, serving fish from the lake.",
+   "tip": "Try the Müritz zander or a fish platter. Book ahead for the terrace.",
+   "q": "Fischerhof, Neuer Markt 19, Waren (Müritz)",
+   "ll": [
+    53.50959,
+    12.69076
+   ],
+   "src": [
+    "https://www.visit-mv.com/destinations/a-fischerhof-waren-mueritz"
+   ]
+  },
+  {
+   "id": "srhaushiddensee",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Sanddorntorte at Haus Hiddensee",
+   "desc": "Haus Hiddensee in Kloster is a restaurant and café known for sea buckthorn (Sanddorn) cream and cake, an island speciality from the berries that grow on the dunes.",
+   "tip": "Order the Sanddorntorte with coffee. Hiddensee is car-free, so arrive on foot or by bike.",
+   "q": "Haus Hiddensee, Kloster, Insel Hiddensee",
+   "ll": [
+    54.58655,
+    13.10749
+   ],
+   "src": [
+    "https://speisekarte.menu/restaurants/klosterhiddensee/haus-hiddensee"
+   ]
+  },
+  {
+   "id": "srhafenkater",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat fresh fish at Hafenkater in Vitte",
+   "desc": "Hafenkater is a fish restaurant at Vitte harbour on Hiddensee, serving catches from the Bodden and the Baltic.",
+   "tip": "Try the pan-fried Bodden zander or smoked fish. Check ferry times so you do not miss the last boat.",
+   "q": "Hafenkater, Hafen Vitte, Insel Hiddensee",
+   "ll": [
+    54.56915,
+    13.10786
+   ],
+   "src": [
+    "https://www.visit-mv.com/destinations/a-port-tomcat"
+   ]
+  },
+  {
+   "id": "srinselbrauerei",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink Rügen craft beer at the Insel-Brauerei",
+   "desc": "The Rügener Insel-Brauerei in Rambin was founded in 2015 by a brewer trained at Weihenstephan and has won several World Beer Awards. It brews beers with island ingredients including a sea buckthorn beer.",
+   "tip": "Try the Badejunge or the Sanddorn beer. Combine with the farmers' market next door.",
+   "q": "Rügener Insel-Brauerei, Hauptstraße 2c, Rambin",
+   "ll": [
+    54.3558,
+    13.2005
+   ],
+   "src": [
+    "https://ruegen.de/inselgeschichten/inselbrauerei",
+    "https://www.visit-mv.com/destinations/a-ruegen-island-brewery"
+   ]
+  },
+  {
+   "id": "srpommernkate",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Browse Rügen produce at the Alte Pommernkate",
+   "desc": "Alte Pommernkate in Rambin is a farmers' market and farm café selling Rügen products such as honey, rapeseed oil, sea buckthorn liqueur and Inselfrische dairy, next to the brewery.",
+   "tip": "Buy a Sanddorn product as a souvenir and have cake in the café.",
+   "q": "Alte Pommernkate, Hauptstraße 2a, Rambin",
+   "ll": [
+    54.3533,
+    13.20122
+   ],
+   "src": [
+    "https://www.visit-mv.com/destinations/a-ruegener-farmers-market-cafe-alte-pommernkate"
+   ]
+  },
+  {
+   "id": "srrasenderroland",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Rasender Roland steam train",
+   "desc": "The Rügensche Bäderbahn, nicknamed Rasender Roland, is a 750 mm narrow-gauge steam railway running from Putbus via Binz and Sellin to Göhren. It has run since 1895 and passes the Granitz hunting lodge.",
+   "tip": "Get off at Jagdschloss Granitz for the castle. Check the timetable on ruegensche-baederbahn.de.",
+   "q": "Bahnhof Putbus, Putbus, Rügen",
+   "ll": [
+    54.35681,
+    13.48099
+   ],
+   "src": [
+    "https://ruegensche-baederbahn.de/",
+    "https://www.nordkurier.de/urlaub-in-mv/staedte-land-und-wasser/inseln/ostsee-insel-ruegen-der-rasende-roland-macht-maechtig-dampf-4208278"
+   ]
+  },
+  {
+   "id": "srbinzbeach",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim at Binz beach",
+   "desc": "The wide white-sand beach at Binz is Rügen's best-known sandy beach, backed by the resort promenade and villas. Lifeguards and beach baskets operate in summer.",
+   "tip": "Best from June to September. Quieter mornings; beach baskets can be rented.",
+   "q": "Strand Binz, Ostseebad Binz, Rügen",
+   "ll": [
+    54.39883,
+    13.62414
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Binz"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "srdarssbeach",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the wild Darßer Weststrand",
+   "desc": "The Weststrand on the Darß peninsula is an unspoiled beach in the Vorpommersche Boddenlandschaft National Park, with windswept trees (Windflüchter) and no buildings. Swimming is allowed but there are no lifeguards in most places.",
+   "tip": "Reach it by bike or on foot from Prerow or Born. Bring water and walk in summer or autumn.",
+   "q": "Darßer Weststrand, Born am Darß",
+   "ll": [
+    54.47267,
+    12.50206
+   ],
+   "src": [
+    "https://www.fischland-darss-zingst.de/en/destinations/vorpommersche-boddenlandschaft-national-park/",
+    "https://www.wikipedia.org/wiki/Darss"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "srbaumwipfelpfad",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the treetop path at Prora",
+   "desc": "The Naturerbe Zentrum Rügen has a 1,250 m long treetop walk through a beech forest at Prora, reaching about 40 metres height, with a tower and exhibition on the DBU natural heritage area.",
+   "tip": "The walk is barrier-reduced. Sunrise and blue-hour tours run on selected dates.",
+   "q": "Naturerbe Zentrum Rügen, Forsthaus Prora 1, Prora, Binz",
+   "ll": [
+    54.4344,
+    13.5578
+   ],
+   "src": [
+    "https://ruegen.de/architektur/naturerbe-zentrum-ruegen",
+    "https://treetop-walks.com/ruegen/en/"
+   ]
+  },
+  {
+   "id": "srtauchgondel",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Dive in the Tauchgondel at Zinnowitz",
+   "desc": "The diving gondola at the end of Zinnowitz's 315 m Vineta pier, opened in 2006, takes up to 24 visitors a few metres under the Baltic surface. It runs all year round.",
+   "tip": "Book tickets at the pier. Best in calm weather for visibility.",
+   "q": "Tauchgondel Zinnowitz, An der Strandpromenade 1, Zinnowitz",
+   "ll": [
+    54.08422,
+    13.91712
+   ],
+   "src": [
+    "https://www.visit-mv.com/destinations/a-diving-gondola-zinnowitz",
+    "https://www.mvp.de/zinnowitz/entdecken/tauchgondel/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "srhochuferweg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Hochuferweg to the Wissower Klinken",
+   "desc": "The Hochuferweg runs along the top of the Jasmund chalk cliffs from Sassnitz to the Königsstuhl. The Wissower Klinken viewpoint offers the classic view of the white cliffs and beech forest. Parts of the trail are in the UNESCO beech forest.",
+   "tip": "About 9 km from Sassnitz to Königsstuhl. Stay on marked paths; cliffs can collapse.",
+   "q": "Wissower Klinken, Jasmund-Nationalpark, Sassnitz",
+   "ll": [
+    54.53661,
+    13.67808
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Jasmund_National_Park"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "srserrahn",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Serrahn beech forest in Müritz National Park",
+   "desc": "The Serrahn section of the Müritz-Nationalpark protects old beech forest that is part of the UNESCO World Heritage Ancient Beech Forests. A 9 km hike runs from the Zinow car park via the Wald-Erlebnis-Pfad and moor boardwalk to Serrahn.",
+   "tip": "Look for the exhibition Im Reich der Buchen in Serrahn and the Schweingartensee side trip.",
+   "q": "Wanderparkplatz Zinow, Serrahn, Carpin",
+   "ll": [
+    53.319,
+    13.184
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/wanderung-in-den-serrahner-buchenwald-bei-carpin-mueritz-nationalpark",
+    "https://www.mvp.de/mueritz-nationalpark/entdecken/walderlebnispfad-serrahn/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "srkraniche",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch cranes at the Rederangsee tower",
+   "desc": "The Rederangsee near Federow in Müritz National Park is one of the crane roosts of the Müritz area. An observation tower allows birdwatching, and after 16:00 only guided groups are allowed at the roost.",
+   "tip": "Best in autumn (September to October). Check current access rules before going.",
+   "q": "Beobachtungsturm Rederangsee, Federow, Müritz-Nationalpark",
+   "ll": [
+    53.4189,
+    12.8499
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/erlebnispfad-langer-weg-zum-urwald-unesco-weltnaturerbe"
+   ],
+   "months": [
+    9,
+    10
+   ]
+  },
+  {
+   "id": "srmueritzschiff",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Take a boat trip on the Müritz from Waren",
+   "desc": "The Blau-Weisse Flotte Müritz & Seen runs round trips and day trips from Waren harbour, including a 7-Seenfahrt to Plau am See in season. The Müritz is Germany's largest lake wholly within the country.",
+   "tip": "Boat trips run in season; check the timetable. The Plau trip returns around 18:00.",
+   "q": "Stadthafen Waren, Strandstraße, Waren (Müritz)",
+   "ll": [
+    53.51183,
+    12.68795
+   ],
+   "src": [
+    "https://www.mvp.de/waren-mueritz/entdecken/blau-weisse-flotte-mueritz-seen-in-waren/"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "srkreideschiff",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cruise to the chalk cliffs from Binz",
+   "desc": "Adler-Schiffe run sightseeing boats from Binz and Sellin that pass the Jasmund chalk cliffs from the water, a view of the Königsstuhl that hikers cannot get. Combination tickets with the Rasender Roland exist.",
+   "tip": "Check the Adler-Schiffe timetable; sailings are seasonal and weather dependent.",
+   "q": "Seebrücke Binz, Ostseebad Binz, Rügen",
+   "ll": [
+    54.40309,
+    13.61716
+   ],
+   "src": [
+    "https://www.adler-schiffe.de/wp-content/uploads/2026/03/FP_Ruegen_26_2.Aufl_12S_web.pdf"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "srhiddenseehike",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk or cycle car-free Hiddensee",
+   "desc": "Hiddensee is a narrow car-free island west of Rügen, with a heath, dunes and the villages of Neuendorf, Vitte and Kloster. Visitors travel on foot, by bike or horse-drawn carriage after taking the ferry from Schaprode or Stralsund.",
+   "tip": "Take an early ferry and walk Kloster to the Dornbusch lighthouse and back.",
+   "q": "Kloster, Insel Hiddensee",
+   "ll": [
+    54.58698,
+    13.10857
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Hiddensee"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "srusedompromenade",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Kaiserbäder promenade on Usedom",
+   "desc": "The beach promenade links Ahlbeck, Heringsdorf and Bansin, the three Kaiserbäder, past Bäderarchitektur villas and piers, about 12 km in total.",
+   "tip": "Walk or cycle the full stretch and return by the Usedom Bäderbahn.",
+   "q": "Strandpromenade, Ostseebad Heringsdorf, Usedom",
+   "ll": [
+    53.95394,
+    14.17192
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Heringsdorf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "srstreckelsberg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Climb the Streckelsberg dune at Koserow",
+   "desc": "The Streckelsberg near Koserow is a cliff-edge dune about 58 metres high and a nature reserve since 1957. It is the third highest point on Usedom and has views of the Baltic and the Achterwasser.",
+   "tip": "Loop walks of 7 to 11 km start in Koserow. The shorter trails need about two hours.",
+   "q": "Streckelsberg, Koserow, Usedom",
+   "ll": [
+    54.05309,
+    14.01355
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Streckelsberg",
+    "https://www.mvp.de/koserow/entdecken/streckelsberg-bei-koserow/"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

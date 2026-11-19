@@ -46,7 +46,8 @@ window.CITIES.braunschweig = {
     bshab: [52.1644, 10.5303], bsschlosswf: [52.1627, 10.5304], bshauptkirche: [52.1619, 10.5374],
     bsmuehlen: [52.4926, 10.5501], bsgifhornschloss: [52.4895, 10.5470], bskaiserdom: [52.2448, 10.8159],
     bsjuleum: [52.2293, 11.0086], bssalder: [52.1354, 10.3384], bscafestadtmarkt: [52.1624, 10.5361],
-    bsratskeller: [52.1622, 10.5363], bsfachwerkwf: [52.1634, 10.5412]
+    bsratskeller: [52.1622, 10.5363], bsfachwerkwf: [52.1634, 10.5412], mdarendseekloster: [52.8812, 11.4773],
+    mdarendseebad: [52.8911, 11.5005]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -304,6 +305,12 @@ window.CITIES.braunschweig = {
       tip: "Seating spills onto the square in summer.", q: "Ratskeller Wolfenbüttel, Stadtmarkt 2, Wolfenbüttel", kind: "drink", src: ["https://www.der-butler.com/restaurants/ort/wolfenbuettel.html"] },
     { id: "bsfachwerkwf", cat: "dene", area: "cevre", title: "Walk Wolfenbüttel's half-timbered old town",
       desc: "Wolfenbüttel has more than 1,000 half-timbered houses, many from the 16th to 18th centuries, and is the home of Jägermeister.",
-      tip: "Allow around two hours.", q: "Altstadt, Wolfenbüttel", tags: ["free"], src: ["https://www.niedersachsen-tourism.com/destinations/tour-the-towns/wolfenbuettel"] }
+      tip: "Allow around two hours.", q: "Altstadt, Wolfenbüttel", tags: ["free"], src: ["https://www.niedersachsen-tourism.com/destinations/tour-the-towns/wolfenbuettel"] },
+    { id: "mdarendseekloster", cat: "gor", area: "cevre", title: "Wander the Arendsee monastery and old church",
+      desc: "Arendsee's Benedictine monastery, founded around 1183, stands beside the 554 ha lake that gave the town its name. The monastery church and cloister are the town's main historic sight.",
+      tip: "Pair with a walk along the lake promenade.", q: "Kloster Arendsee, Arendsee (Altmark)", tags: ["free"], src: ["https://de.wikipedia.org/wiki/Kloster_Arendsee"] },
+    { id: "mdarendseebad", cat: "dene", area: "cevre", title: "Swim in Arendsee, the Altmark's largest lake",
+      desc: "Arendsee is a 554 ha lake with a beach and cycling path around it.",
+      tip: "Swim in summer at the Strandbad.", q: "Strandbad Arendsee, Arendsee (Altmark)", months: [6, 7, 8, 9], src: ["https://www.altmark.de/en/the-altmark/cities-hanseatic-towns/arendsee/"] }
   ]
 };

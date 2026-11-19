@@ -1,0 +1,814 @@
+{
+ "new": [
+  {
+   "id": "mdtrogbruecke",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk across the Magdeburg Water Bridge at Hohenwarthe",
+   "desc": "The Wasserstraßenkreuz Magdeburg carries the Mittelland Canal over the Elbe in a 918 m trough bridge, opened in 2003 as one of Europe's longest canal bridges. It replaced a detour of more than 12 km via the Rothensee boat lift.",
+   "tip": "Walk or cycle the footpath beside the trough and watch ships pass overhead. Reach it by car or bike from Magdeburg or Hohenwarthe.",
+   "q": "Trogbrücke Hohenwarthe, Wasserstraßenkreuz, Hohenwarthe, Börde",
+   "ll": [
+    52.2316,
+    11.7034
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Wasserstraßenkreuz_Magdeburg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mdhundisburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour Schloss Hundisburg and its baroque garden",
+   "desc": "Schloss Hundisburg is a baroque palace and garden ensemble of national significance west of Haldensleben. It also has a former palace brewery, a shop and a restaurant on the grounds.",
+   "tip": "Check the palace website for opening days and tours. The Gartenträume garden fair takes place here in spring.",
+   "q": "Schloss Hundisburg, Schloss 1, Hundisburg, Haldensleben",
+   "ll": [
+    52.24946,
+    11.39998
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Hundisburg"
+   ]
+  },
+  {
+   "id": "mdjerichow",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the brick Romanesque Kloster Jerichow",
+   "desc": "The Premonstratensian monastery of Jerichow, begun around 1148, is one of the oldest brick buildings in northern Germany and is called the cradle of North German brick building. It is part of the Romanesque Route and has museum rooms in the former dormitory.",
+   "tip": "Visit in the warmer months, when the monastery garden café is also open. Museum hours are set by Kulturstiftung Sachsen-Anhalt, so check kloster-jerichow.de.",
+   "q": "Kloster Jerichow, Am Kloster 1, Jerichow",
+   "ll": [
+    52.50179,
+    12.01559
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Jerichow_Monastery"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mdtangerrathaus",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Admire the brick-Gothic Rathaus of Tangermünde",
+   "desc": "The town hall of Tangermünde, built in the 15th century, has a gable wall about 24 m high that counts among the key works of North German brick Gothic. A museum occupies parts of the building.",
+   "tip": "Combine with a stroll through the compact old town and its town walls. A guided tour can include the town hall.",
+   "q": "Rathaus Tangermünde, Markt, Tangermünde",
+   "ll": [
+    52.54077,
+    11.97073
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Tangermünde"
+   ]
+  },
+  {
+   "id": "mdtangerneustaedter",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Neustädter Tor in Tangermünde",
+   "desc": "The Neustädter Tor is the best-preserved of Tangermünde's medieval town gates. It has a brick gate tower about 30 m tall, topped later by an octagonal belfry.",
+   "tip": "Best seen on foot as part of the town wall circuit. Free to view from outside.",
+   "q": "Neustädter Tor, Tangermünde",
+   "ll": [
+    52.53984,
+    11.96825
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Neustädter_Tor_(Tangermünde)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mdtangerburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore Burg Tangermünde above the Elbe",
+   "desc": "The castle on a hill above the Elbe was a residence of Emperor Charles IV in the 14th century. Today it is a hotel, and guided tower tours are offered.",
+   "tip": "Book a tower tour in advance and enjoy the Elbe views from the terrace.",
+   "q": "Burg Tangermünde, Amt 1, Tangermünde",
+   "ll": [
+    52.5434,
+    11.977
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Burg_Tangermünde"
+   ]
+  },
+  {
+   "id": "mduenglinger",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the Uenglinger Tor in Stendal",
+   "desc": "The Uenglinger Tor, dated to about 1450-1460, is one of two surviving medieval gates of Stendal and is often attributed to master builder Steffen Boxthude. The tower is 15.5 m high and serves as a viewpoint.",
+   "tip": "Check opening times with the tourist information. Pair with the Roland on the market square.",
+   "q": "Uenglinger Tor, Stendal",
+   "ll": [
+    52.60808,
+    11.85215
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Uenglinger_Tor"
+   ]
+  },
+  {
+   "id": "mdstendaldom",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Admire the stained glass of Stendal's Dom St. Nikolaus",
+   "desc": "Stendal's brick Gothic cathedral was built between 1423 and 1463 and is known for its medieval stained-glass windows. It is one of the main churches of the old Hanseatic town.",
+   "tip": "Free to enter during opening hours; look for the glass windows in the choir.",
+   "q": "Dom St. Nikolaus, Am Dom, Stendal",
+   "ll": [
+    52.6006,
+    11.859
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Dom_St._Nikolaus_(Stendal)"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mdhavelbergdom",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Havelberg Cathedral above the Havel",
+   "desc": "St. Mary's Cathedral in Havelberg is a Romanesque-Gothic brick cathedral on a hill above the Havel. It is a stop on the Romanesque Route and the Prignitz-Museum stands next to it.",
+   "tip": "Open Tuesday to Saturday 10:00-17:00 and Sunday 12:00-17:00 per the Romanesque Route listing; entry to the cathedral is free.",
+   "q": "Dom St. Marien, Domplatz, Havelberg",
+   "ll": [
+    52.82683,
+    12.07878
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Havelberg_Cathedral"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mdbernburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the Eulenspiegelturm at Schloss Bernburg",
+   "desc": "Schloss Bernburg stands on a rock above the Saale and houses a museum; its Eulenspiegelturm is the castle's tower. The castle is on the Romanesque Route.",
+   "tip": "Open daily 10:00-17:00 from April to October and 10:00-16:00 from November to March per the Romanesque Route listing; the tower costs about 2 euros.",
+   "q": "Schloss Bernburg, Schlossstraße 24, Bernburg (Saale)",
+   "ll": [
+    51.79384,
+    11.73458
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Bernburg"
+   ]
+  },
+  {
+   "id": "mdgradierwerk",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Breathe the salt air at the Gradierwerk in Bad Salzelmen",
+   "desc": "The Gradierwerk in the Kurpark of Bad Salzelmen is a historic graduation tower where brine trickles over blackthorn brush. Schönebeck is regarded as the oldest brine spa in Germany, with the first bath houses from 1802.",
+   "tip": "Walk the Kurpark; a local report says the tower can be dry for months, so check before a visit.",
+   "q": "Gradierwerk, Kurpark, Bad Salzelmen, Schönebeck (Elbe)",
+   "ll": [
+    51.9987,
+    11.72286
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Bad_Salzelmen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mdkoethenschloss",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Follow Bach in Köthen at the Ludwigsbau",
+   "desc": "Johann Sebastian Bach served as court Kapellmeister to Prince Leopold of Anhalt-Köthen from 1717 to 1723. The Historisches Museum und Bach-Gedenkstätte sits in the Ludwigsbau of Schloss Köthen.",
+   "tip": "Listed as open Wednesday to Sunday 11:00-17:00; confirm before going. The Bach Festival uses the palace and churches.",
+   "q": "Schloss Köthen, Schlossplatz 4, Köthen (Anhalt)",
+   "ll": [
+    51.7539,
+    11.97672
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Köthen_Castle"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mdzerbstschloss",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the baroque remains of Schloss Zerbst",
+   "desc": "Schloss Zerbst was built from 1681 to 1753 and destroyed in April 1945; only the east wing survives, restored by a support association. Catherine the Great grew up as a princess of Anhalt-Zerbst.",
+   "tip": "The castle garden is open to walk through and some rooms can be seen on guided tours.",
+   "q": "Schloss Zerbst, Schloßfreiheit, Zerbst/Anhalt",
+   "ll": [
+    51.96391,
+    12.08193
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Zerbst_Castle"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mdzerbstroland",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Find the 15th-century Roland on Zerbst's market",
+   "desc": "Zerbst's stone Roland dates to 1445, replacing a wooden one from 1385, and is ranked as one of Germany's oldest. It stands about 4 m high.",
+   "tip": "Free to see on the market square; include it on a walk through the old town.",
+   "q": "Roland, Markt, Zerbst/Anhalt",
+   "ll": [
+    51.96875,
+    12.08433
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Zerbster_Roland"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mdbitterfelderbogen",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the Bitterfelder Bogen above Goitzschesee",
+   "desc": "The Bitterfelder Bogen is a steel arch sculpture by Claus Bury on a former spoil heap, about 28 m high and 81 m long, doubling as a viewing platform. It looks over the former mining landscape and Goitzschesee.",
+   "tip": "Walk up from the lake promenade; best at sunset.",
+   "q": "Bitterfelder Bogen, Bitterfelder Berg, Bitterfeld-Wolfen",
+   "ll": [
+    51.61526,
+    12.32606
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Bitterfeld_Arch"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mdarendseekloster",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander the Arendsee monastery and old church",
+   "desc": "Arendsee's Benedictine monastery, founded around 1183, stands beside the 554 ha lake that gave the town its name. The monastery church and cloister are the town's main historic sight.",
+   "tip": "Pair with a walk along the lake promenade.",
+   "q": "Kloster Arendsee, Arendsee (Altmark)",
+   "ll": [
+    52.88117,
+    11.47727
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kloster_Arendsee"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mdstassfurtmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Learn potash mining history in Staßfurt",
+   "desc": "Staßfurt is called the cradle of potash mining after the world's first potash shafts in the 1850s. The Stadt- und Bergbaumuseum at Pestalozzistraße 6 covers salt boiling, mining and industrial history, with large machines outdoors.",
+   "tip": "Opening hours are limited, so check with the city before visiting.",
+   "q": "Stadt- und Bergbaumuseum Staßfurt, Pestalozzistraße 6, Staßfurt",
+   "ll": [
+    51.85093,
+    11.58511
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Staßfurt"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mdwolmirstedt",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Museum Wolmirstedt on the Schlossdomäne",
+   "desc": "The regional museum, founded in 1927, occupies a reconstructed quarry-stone barn from 1846 on the former castle domain of Wolmirstedt. It presents local and domain history.",
+   "tip": "Check Landkreis Börde for current opening days.",
+   "q": "Museum Wolmirstedt, Schlossdomäne 1, Wolmirstedt",
+   "ll": [
+    52.24641,
+    11.62759
+   ],
+   "src": [
+    "https://landkreis-boerde.de/en/experience/cultural-facilities/museum-wolmirstedt"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mdbestehorn",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stroll Bestehornpark in Aschersleben",
+   "desc": "Bestehornpark is a modern park on the grounds of a former paper mill, created for the 2010 State Garden Show and IBA. The Neo Rauch Graphic Foundation is in the Riegelbau there.",
+   "tip": "Combine with the surviving Aschersleben town wall, about 1.7 km of which is preserved.",
+   "q": "Bestehornpark, Aschersleben",
+   "ll": [
+    51.75394,
+    11.4607
+   ],
+   "src": [
+    "https://www.harzinfo.de/en/experiences/poi/parks-und-gaerten-in-aschersleben"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mdtangerroesterei",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Sip coffee at Tangermünder Kaffeerösterei",
+   "desc": "A café in Tangermünde's old town, open Tuesday to Saturday 11:00-17:00 and Sunday 13:00-17:00 per a listing; closed Monday.",
+   "tip": "Order coffee and cake after the town walk; check hours.",
+   "q": "Tangermünder Kaffeerösterei, Tangermünde",
+   "ll": [
+    52.54316,
+    11.97498
+   ],
+   "src": [
+    "https://freizeitmonster.de/gastronomie/cafes/tangermuender-kaffeeroesterei-317956"
+   ]
+  },
+  {
+   "id": "mdschlosshotelrest",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine on seasonal German dishes at Schlosshotel Tangermünde",
+   "desc": "The restaurant of the castle hotel serves seasonal German cuisine with local ingredients and a terrace with a waterfront outlook.",
+   "tip": "Book ahead; try the seasonal menu on the terrace.",
+   "q": "Schlosshotel Tangermünde, Amt 1, Tangermünde",
+   "ll": [
+    52.5434,
+    11.977
+   ],
+   "src": [
+    "https://www.enprimeurclub.com/restaurants/schlosshotel-tangermnde-tangermunde-restaurant"
+   ]
+  },
+  {
+   "id": "mdklostergarten",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have cake at Klostergarten Café in Jerichow",
+   "desc": "A café at the monastery in Jerichow, listed as open 1 April to 31 October.",
+   "tip": "Sit in the monastery garden after visiting the church.",
+   "q": "Klostergarten Café, Am Kloster, Jerichow",
+   "ll": [
+    52.50128,
+    12.01701
+   ],
+   "src": [
+    "https://www.oeffnungszeitenbuch.de/filiale/Jerichow-Klostergarten%2520Caf%25C3%25A9-4016277K.html"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "mdklostermahl",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat at Wirtshaus Klostermahl in Jerichow",
+   "desc": "A tavern at Kloster Jerichow serving regional food in the monastery grounds.",
+   "tip": "Pair with a monastery visit; check hours.",
+   "q": "Wirtshaus Klostermahl, Am Kloster, Jerichow",
+   "ll": [
+    52.50249,
+    12.01802
+   ],
+   "src": [
+    "https://www.oeffnungszeitenbuch.de/filiale/Jerichow-Wirtshaus%2520Klostermahl-4016276S.html"
+   ]
+  },
+  {
+   "id": "mdschlossbrauerei",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink and dine at Schloss Hundisburg",
+   "desc": "The palace grounds hold the former Schlossbrauerei, a shop and a restaurant run by a lessee.",
+   "tip": "Time a meal with a walk in the baroque garden; check current hours.",
+   "q": "Schlossbrauerei, Schloss Hundisburg, Haldensleben",
+   "ll": [
+    52.2498,
+    11.40072
+   ],
+   "src": [
+    "https://www.kribbelbunt.de/artikel/news/schloss-hundisburg/"
+   ]
+  },
+  {
+   "id": "mdseensucht",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat at Restaurant Seensucht on Goitzschesee",
+   "desc": "A harbour restaurant on the lake at Bitterfeld, serving German and Mediterranean dishes plus brunch.",
+   "tip": "Sit on the promenade; the lake view is the draw.",
+   "q": "Restaurant Seensucht, Seepromenade, Bitterfeld-Wolfen",
+   "ll": [
+    51.63308,
+    12.35542
+   ],
+   "src": [
+    "https://bridebook.com/de/wedding-venues/restaurant-seensucht-bitterfeld-wolfen--deqgnpWy8N"
+   ]
+  },
+  {
+   "id": "mdfischerstube",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try the fish soup at Fischerstube Warnau",
+   "desc": "A restaurant at Havelweg 7 in Warnau by Havelberg, known for about 25 years for its fish soup.",
+   "tip": "Order the fish soup; it also has outdoor seating and rooms.",
+   "q": "Fischerstube Warnau, Havelweg 7, Havelberg",
+   "ll": [
+    52.73878,
+    12.19482
+   ],
+   "src": [
+    "https://www.falstaff.com/en/restaurants/fischerstube-warnau-havelberg"
+   ]
+  },
+  {
+   "id": "mdbrauhauskoethen",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order the Zwickelbier braise at Brauhaus Köthen",
+   "desc": "The Brauhaus in Köthen lists a house specialty of mixed meats braised in its Zwickelbier with fried potatoes, plus homemade Topfsülze.",
+   "tip": "Try the braise after the Bach museum.",
+   "q": "Brauhaus Köthen, Köthen (Anhalt)",
+   "ll": [
+    51.751,
+    11.975
+   ],
+   "src": [
+    "https://www.speisekarte.de/k%C3%B6then-anhalt/restaurant/brauhaus_koethen/speisekarte"
+   ]
+  },
+  {
+   "id": "mdcafedanilo",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Altmark wedding soup at Café Danilo in Stendal",
+   "desc": "Café Restaurant Danilo at Rieckestraße 26 is listed for coffee and cake, and the regional wedding soup is cited as a popular dish.",
+   "tip": "Ask for the soup, or stay for cake.",
+   "q": "Café Danilo, Rieckestraße 26, Stendal",
+   "ll": [
+    52.61161,
+    11.84955
+   ],
+   "src": [
+    "https://bridebook.com/de/wedding-venues/caf-danilo-stendal--demgbMvNXx"
+   ]
+  },
+  {
+   "id": "mdmuellercafe",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have cake at Konditorei Café Müller in Stendal",
+   "desc": "A traditional café and pastry shop at Breite Straße 22.",
+   "tip": "Sample the house cakes in the old town.",
+   "q": "Konditorei Café Müller, Breite Straße 22, Stendal",
+   "ll": [
+    52.60648,
+    11.85988
+   ],
+   "src": [
+    "https://freizeitmonster.de/blog/restaurants-stendal"
+   ]
+  },
+  {
+   "id": "mdschmelzer",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order the rice-pudding sundae at Eiscafé Schmelzer",
+   "desc": "An ice-cream café at Louis-Braille-Platz 22 in Bernburg with home-made ice cream; a milk-rice sundae is recommended.",
+   "tip": "Ice cream season is spring to early autumn.",
+   "q": "Eiscafé Schmelzer, Louis-Braille-Platz 22, Bernburg (Saale)",
+   "ll": [
+    51.79216,
+    11.73839
+   ],
+   "src": [
+    "https://freizeitmonster.de/blog/cafes-bernburg"
+   ]
+  },
+  {
+   "id": "mdsalzerei",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Brunch at the Salzerei in Bad Salzelmen station",
+   "desc": "A restaurant and pension in a converted railway station at Bad Salzelmen; a hiker review praises the brunch.",
+   "tip": "Try the brunch before a Kurpark walk.",
+   "q": "Salzerei, Bahnhof Bad Salzelmen, Schönebeck (Elbe)",
+   "ll": [
+    51.99808,
+    11.72281
+   ],
+   "src": [
+    "https://www.golocal.de/schoenebeck/cafes/"
+   ]
+  },
+  {
+   "id": "mdvogelherd",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat at Parkrestaurant Vogelherd in Zerbst",
+   "desc": "A park restaurant on Lindauer Straße, listed as a dining option in Zerbst.",
+   "tip": "Check opening hours before going.",
+   "q": "Parkrestaurant Vogelherd, Lindauer Straße, Zerbst/Anhalt",
+   "ll": [
+    51.99643,
+    12.08693
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Zerbst/Anhalt"
+   ]
+  },
+  {
+   "id": "mdkaffeehannemann",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have coffee at Kaffeerösterei Hannemann in Köthen",
+   "desc": "A coffee roastery café with cake and a breakfast menu.",
+   "tip": "Stop here between the Bach sites.",
+   "q": "Kaffeerösterei Hannemann, Köthen (Anhalt)",
+   "ll": [
+    51.75125,
+    11.97754
+   ],
+   "src": [
+    "https://www.swipein.restaurant/de/ort/kothen-anhalt"
+   ]
+  },
+  {
+   "id": "mdsolequell",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Soak in the Solequell spa in Bad Salzelmen",
+   "desc": "The Solequell health and recreation bath in Bad Salzelmen uses the local brine in Germany's oldest brine spa.",
+   "tip": "Call 03928 705566 or check solepark.de for hours.",
+   "q": "Solequell, Dr.-Tolberg-Straße 33, Bad Salzelmen, Schönebeck (Elbe)",
+   "ll": [
+    52.00178,
+    11.72705
+   ],
+   "src": [
+    "https://m.unser-stadtplan.de/Stadtplan/Schoenebeck/Partner/Dr-Trollberg-Str-33/Gesundheits-u-Erholungsbad-Solequell-Bad-Salzelmen.map"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mdarendseebad",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim in Arendsee, the Altmark's largest lake",
+   "desc": "Arendsee is a 554 ha lake with a beach and cycling path around it.",
+   "tip": "Swim in summer at the Strandbad.",
+   "q": "Strandbad Arendsee, Arendsee (Altmark)",
+   "ll": [
+    52.8911,
+    11.50053
+   ],
+   "src": [
+    "https://www.altmark.de/en/the-altmark/cities-hanseatic-towns/arendsee/"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "mdgoitzschebad",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim at the Goitzschesee beach in Bitterfeld",
+   "desc": "The Goitzschesee, a former opencast-mining lake, has a beach promenade with swimming, boat and canoe rental, and a marina.",
+   "tip": "Swim in summer; rent a boat or canoe.",
+   "q": "Strandbad Bitterfeld, Seepromenade, Bitterfeld-Wolfen",
+   "ll": [
+    51.62877,
+    12.24318
+   ],
+   "src": [
+    "https://www.bitterfeld-wolfen.de/upload/Broschuere_Tourismus.pdf"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "mdgoitzscheboot",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Take a boat trip on the Goitzschesee",
+   "desc": "Passenger-boat tours run on the Goitzschesee, a former mining lake near Bitterfeld.",
+   "tip": "Check the season schedule; tours run in summer months.",
+   "q": "Hafen Goitzschesee, Seepromenade, Bitterfeld-Wolfen",
+   "ll": [
+    51.632,
+    12.326
+   ],
+   "src": [
+    "https://microsites.bahn.de/regional-de/regionen/sachsen-anhalt/ausflugstipps/events/bootstour-goitzsche"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "mdpegelturm",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Climb the Pegelturm over the Goitzschesee",
+   "desc": "The Pegelturm on the lake is a viewing tower with two counter-rotating spiral staircases, as tall as the lake is deep.",
+   "tip": "Walk the lake path to reach it; free access is typical, check on site.",
+   "q": "Pegelturm, Goitzschesee, Bitterfeld-Wolfen",
+   "ll": [
+    51.63244,
+    12.35403
+   ],
+   "src": [
+    "https://www.leipzig.travel/en/poi/gauging-station-at-lake-goitzsche"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mdjersleber",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim at Jersleber See near Wolmirstedt",
+   "desc": "The Jersleber See near Wolmirstedt has a Strandbad that opened its season on 1 April in a recent year with new attractions.",
+   "tip": "Swim in summer; confirm opening.",
+   "q": "Jersleber See, Jersleben, Wolmirstedt",
+   "ll": [
+    52.23017,
+    11.59217
+   ],
+   "src": [
+    "https://www.volksstimme.de/lokal/wolmirstedt/jersleber-see-neue-attraktionen-saisonstart-4231949"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "mdmotorsport",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch a race at Motorsport Arena Oschersleben",
+   "desc": "The 3.696 km circuit in the Börde, about 30 km from Magdeburg, hosts race weekends and track days.",
+   "tip": "Check the event calendar; race weekends are in summer.",
+   "q": "Motorsport Arena Oschersleben, Motopark Allee, Oschersleben (Bode)",
+   "ll": [
+    52.02735,
+    11.27294
+   ],
+   "src": [
+    "https://www.wikipedia.org/wiki/Motorsport_Arena_Oschersleben"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "mdalthaldensleben",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Landschaftspark Althaldensleben",
+   "desc": "An English-style landscape park at Althaldensleben, part of the Hundisburg-Haldensleben garden ensemble.",
+   "tip": "Walk or cycle the park paths; free to enter.",
+   "q": "Landschaftspark Althaldensleben, Haldensleben",
+   "ll": [
+    52.25638,
+    11.40921
+   ],
+   "src": [
+    "https://www.landkreis-boerde.de/en/experience/nature-and-landscape/landschaftspark-althaldensleben"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mdflickschu",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike from Flickschupark to Bismarckturm in Burg",
+   "desc": "A hiking loop links the Flickschupark pond with the listed Bismarckturm in Burg bei Magdeburg.",
+   "tip": "Walk the loop on a dry day.",
+   "q": "Flickschupark, Burg bei Magdeburg",
+   "ll": [
+    52.27051,
+    11.87146
+   ],
+   "src": [
+    "https://freizeitmonster.de/aktivitaeten/orte/bismarckturm-burg-bei-magdeburg-199573"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mdelbhavel",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cycle the Elbe-Havel Canal from Genthin",
+   "desc": "Cycle paths run along the Elbe-Havel Canal through Genthin and link to the Elberadweg; a 69 km route runs toward Havelradweg, with a Genthin-Tangermünde stage.",
+   "tip": "Ride on a dry day; check ferry operations on the Elberadweg status page.",
+   "q": "Elbe-Havel-Kanal, Genthin",
+   "ll": [
+    52.4088,
+    12.07771
+   ],
+   "src": [
+    "https://www.komoot.com/guide/322629/attractions-around-genthin"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mdgartentraeume",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Browse the Gartenträume fair at Schloss Hundisburg",
+   "desc": "A spring garden fair with about 90 exhibitors, show gardens and a plant clinic, held 24-26 April in 2026.",
+   "tip": "Entry was 1-10 euros; free shuttle.",
+   "q": "Schloss Hundisburg, Schloss 1, Haldensleben",
+   "ll": [
+    52.24946,
+    11.39998
+   ],
+   "src": [
+    "https://www.festivalsindeutschland.de/festival/gartentraeume-haldensleben"
+   ],
+   "months": [
+    4
+   ]
+  }
+ ]
+}

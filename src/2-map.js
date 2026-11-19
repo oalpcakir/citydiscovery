@@ -198,6 +198,14 @@
   // Regions are lists of polygons; a polygon is a list of rings (outer first), a ring is [[lat, lng], ...].
   // Regions without quests yet ("coming soon") are drawn in quiet grey.
   var SOON = window.REGION_INFO || {};
+  var SOON_COUNTRIES = [["United Kingdom", 52.9, -1.6], ["Ireland", 53.2, -8.0], ["Spain", 40.2, -3.6], ["Portugal", 39.6, -8.0], ["Italy", 42.8, 12.6],
+    ["Austria", 47.6, 14.1], ["Czechia", 49.8, 15.4], ["Poland", 52.1, 19.4], ["Norway", 61.5, 9.0], ["Finland", 63.0, 26.0], ["Hungary", 47.2, 19.4],
+    ["Croatia", 45.3, 15.9], ["Slovenia", 46.1, 14.8], ["Slovakia", 48.7, 19.6], ["Greece", 39.3, 22.0], ["Iceland", 64.9, -18.6], ["Estonia", 58.7, 25.5],
+    ["Latvia", 56.9, 24.6], ["Lithuania", 55.3, 23.9], ["Romania", 45.9, 24.9], ["Bulgaria", 42.7, 25.3], ["Serbia", 44.1, 20.8], ["Bosnia and Herzegovina", 44.2, 17.8],
+    ["Albania", 41.1, 20.0], ["North Macedonia", 41.6, 21.7], ["Montenegro", 42.8, 19.3], ["Ukraine", 49.0, 31.4], ["Moldova", 47.2, 28.5], ["Cyprus", 35.0, 33.2],
+    ["Malta", 35.9, 14.4], ["Georgia", 42.3, 43.4], ["Morocco", 31.8, -7.1], ["Egypt", 26.8, 30.8], ["United States", 39.8, -98.6], ["Canada", 56.1, -106.3],
+    ["Mexico", 23.6, -102.5], ["Brazil", -10.3, -53.2], ["Argentina", -35.4, -65.2], ["Japan", 36.2, 138.3], ["South Korea", 36.4, 127.8], ["China", 35.9, 104.2],
+    ["India", 22.4, 79.0], ["Thailand", 15.1, 101.0], ["Australia", -25.3, 133.8], ["New Zealand", -41.5, 172.8], ["South Africa", -29.0, 24.7]];
   function isSoon(id) { return !cities[id] && !!SOON[id]; }
   function regionsGeo() {
     var feats = [];
@@ -457,6 +465,13 @@
       "text-field": ["get", "name"], "text-font": ["Noto Sans Bold"], "text-size": 14, "text-letter-spacing": 0.18,
       "text-anchor": "top", "text-offset": [0, 0.3], "text-padding": 4 },
       paint: { "text-color": "#1e293b", "text-halo-color": "#ffffff", "text-halo-width": 2.6 } });
+    // Countries on the basemap without City Disco regions yet: a quiet "Coming soon" under their name.
+    map.addSource("soon-countries", { type: "geojson", data: fc(SOON_COUNTRIES.map(function (c) { return point([c[1], c[2]], { name: c[0] }); })) });
+    map.addLayer({ id: "soon-countries", type: "symbol", source: "soon-countries", minzoom: 2.4, maxzoom: 7, layout: {
+      "text-field": ["format", ["upcase", ["get", "name"]], {}, "\n", {}, "Coming soon", { "font-scale": 0.82, "text-color": dark ? "#94a3b8" : "#8a97a6" }],
+      "text-font": ["Noto Sans Bold"], "text-size": ["interpolate", ["linear"], ["zoom"], 2.4, 9.5, 6, 12.5], "text-line-height": 1.2,
+      "text-letter-spacing": 0.1, "text-padding": 2 },
+      paint: { "text-color": dark ? "#cbd5e1" : "#475569", "text-halo-color": halo, "text-halo-width": 2.2 } });
     map.addSource("soon-points", { type: "geojson", data: soonPoints() });
     map.addLayer({ id: "soon-labels", type: "symbol", source: "soon-points", minzoom: 6.3, maxzoom: OVERVIEW_ZOOM, layout: {
       "text-field": ["format", ["get", "name"], {}, "\n", {}, "Coming soon", { "font-scale": 0.8 }],
@@ -535,7 +550,7 @@
     slow = setTimeout(giveUp, 20000);
     Promise.all([loadStyle(theme()), loadPinIcons()]).then(function (res) {
       map = new maplibregl.Map({
-        container: $map, style: res[0], attributionControl: false, maxPitch: 65, minZoom: 5.5, maxZoom: 19,
+        container: $map, style: res[0], attributionControl: false, maxPitch: 65, minZoom: 1.6, maxZoom: 19,
         bounds: [[city.bounds[0][1], city.bounds[0][0]], [city.bounds[1][1], city.bounds[1][0]]], fitBoundsOptions: { padding: PAD }
       });
       map.addControl(new maplibregl.AttributionControl({ compact: true }), "bottom-left");
@@ -670,7 +685,7 @@
     (function step(t) {
       var k = (t - t0) / 1800;
       if (k >= 1) { map.setPaintProperty("region-paint", "fill-opacity", 0); map.setFilter("region-paint", ["==", ["get", "id"], ""]); return; }
-      map.setPaintProperty("region-paint", "fill-opacity", 0.55 * Math.sin(Math.PI * k * 2) * Math.sin(Math.PI * k) + 0.0001);
+      map.setPaintProperty("region-paint", "fill-opacity", 0.55 * Math.abs(Math.sin(Math.PI * k * 2)) * Math.sin(Math.PI * k)); // two soft pulses
       requestAnimationFrame(step);
     })(t0);
   }
@@ -693,6 +708,8 @@
       });
       return;
     }
+    var sc = map.queryRenderedFeatures([[e.point.x - 30, e.point.y - 12], [e.point.x + 30, e.point.y + 12]], { layers: ["soon-countries"] })[0];
+    if (sc) { toast(sc.properties.name + ": quests coming soon"); return; }
     if (map.getZoom() < OVERVIEW_ZOOM) {
       var r = map.queryRenderedFeatures(e.point, { layers: ["region-fill"] })[0];
       if (r && r.properties.soon) { toast(SOON[r.properties.id].name + ": quests coming soon"); return; }

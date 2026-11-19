@@ -162,6 +162,7 @@
     var q = res.q, b = res.before, a = res.after, lu = a.level > b.level;
     var g = a.gains.filter(function (x) { return x.q === q; })[0], parts = g ? g.parts.slice() : [];
     res.trails.forEach(function (t) { parts.push([t.name, TRAIL_XP]); });
+    res.fresh.forEach(function (bd) { parts.push([bd.name, bd.max === 1 ? SPECIAL_XP : TIERS[bd.tier - 1].xp]); });
     var rc = cities[q.cid], rs = stats(rc.quests), rAfter = rs.pct, rBefore = rs.total ? Math.round(((rs.done - 1) / rs.total) * 100) : 0;
     ui.lastDone = q.key;
     var html = '<div class="qc">' +
@@ -319,11 +320,41 @@
     closeSheetSilently();
     showSheet("editor", '<div class="welcome"><img src="icon.svg" alt=""></div><div class="cel-h">Welcome to City Disco</div>' +
       '<p class="note center" style="margin-top:-6px">Your city, your adventure. Find things to see, eat and do around you, tick them off and level up.</p>' +
-      '<label class="lbl" for="whome">Where do you want to start?</label><select id="whome" class="inp">' + Object.keys(cities).map(function (id) {
-        return '<option value="' + id + '"' + (cityId === id ? " selected" : "") + '>' + esc(cities[id].name) + ' (' + esc(cities[id].country) + ')</option>';
-      }).join("") + '</select>' +
+      '<label class="lbl" for="whome">Where do you want to start?</label><select id="whome" class="inp">' + homeOptions(guessHome()) + '</select>' +
+      '<button class="btn plain" data-act="welcome-locate">' + ic("locate-fixed") + 'Pick the region I am in</button>' +
       '<div class="actions"><button class="btn" data-act="welcome-go">Start exploring</button></div>' +
       '<p class="note center">No account needed. Your progress is saved on this device. <a href="privacy.html" target="_blank" rel="noopener">Privacy</a></p>', true);
+  }
+  // The region list, one group per country, sorted by name.
+  function homeOptions(sel) {
+    var by = {};
+    Object.keys(cities).forEach(function (id) { (by[cities[id].country] = by[cities[id].country] || []).push(id); });
+    return Object.keys(by).sort().map(function (c) {
+      return '<optgroup label="' + esc(c) + '">' + by[c].sort(function (a, b) { return cities[a].name.localeCompare(cities[b].name); }).map(function (id) {
+        return '<option value="' + id + '"' + (sel === id ? " selected" : "") + '>' + esc(cities[id].name) + '</option>';
+      }).join("") + '</optgroup>';
+    }).join("");
+  }
+  // A first guess at home from the device's time zone (no location needed): the main region of that country.
+  var TZ_HOME = { "Europe/Amsterdam": "amsterdam", "Europe/Brussels": "brussel", "Europe/Luxembourg": "luxembourg", "Europe/Berlin": "berlin",
+    "Europe/Paris": "paris", "Europe/Copenhagen": "kobenhavn", "Europe/Stockholm": "malmo", "Europe/Zurich": "zuerich", "Europe/Istanbul": "istanbul",
+    "Europe/Monaco": "nice", "Europe/Busingen": "konstanz" };
+  function guessHome() {
+    var tz = "";
+    try { tz = Intl.DateTimeFormat().resolvedOptions().timeZone || ""; } catch (e) { /* ignore */ }
+    return cities[TZ_HOME[tz]] ? TZ_HOME[tz] : cityId;
+  }
+  function welcomeLocate() {
+    toast("Finding you…");
+    whereAmI().then(function (p) {
+      var inside = regionAt(p[1], p[0]), id = inside, sel = document.getElementById("whome");
+      if (!id) id = Object.keys(cities).sort(function (a, b) {
+        var ca = cityCenter(cities[a]), cb = cityCenter(cities[b]);
+        return km(p, [ca[1], ca[0]]) - km(p, [cb[1], cb[0]]);
+      })[0];
+      if (sel) sel.value = id;
+      toast(inside ? "You are in " + cities[id].name : "Closest region: " + cities[id].name);
+    }, function () { toast("Could not get your location. Pick a region from the list."); });
   }
   function startFresh(home) {
     store.profile = profile();
@@ -444,7 +475,15 @@
         (q ? "What did you find when you were there?" : "An idea, a bug, anything") + '"></textarea>' +
       '<p class="note err" id="rerr" hidden></p><div class="actions">' +
       (signed ? '<button class="btn" data-act="report-send">Send</button>'
-        : '<p class="note center">Sign in to send this, so we can get back to you.</p><button class="btn" data-act="auth">Sign in</button>') + '</div>', true);
+        : '<button class="btn" data-act="report-mail">' + ic("share-2") + 'Send by email</button><button class="btn plain" data-act="auth">Or sign in and send it here</button>') + '</div>', true);
+  }
+  var CONTACT = "oalpcakir@gmail.com";
+  function mailReport() {
+    var q = byKey[ui.report.key], text = (document.getElementById("rtext").value || "").trim(), err = document.getElementById("rerr");
+    if (!q && text.length < 5) { err.textContent = "Write a few words first."; err.hidden = false; return; }
+    var subject = q ? "City Disco problem: " + q.title : "City Disco feedback";
+    var body = (q ? document.getElementById("rreason").value + "\n" + q.key + "\n\n" : "") + text;
+    location.href = "mailto:" + CONTACT + "?subject=" + encodeURIComponent(subject) + "&body=" + encodeURIComponent(body);
   }
   function sendReport() {
     var q = byKey[ui.report.key], text = (document.getElementById("rtext").value || "").trim(), err = document.getElementById("rerr");
@@ -466,7 +505,7 @@
   var REC_STATUS = { "new": "Waiting for review", accepted: "Accepted: coming as a quest", rejected: "Not this time", added: "Added as a quest" };
   function recList(mine) {
     var C = window.cdCloud;
-    if (!C || !C.user) { openAuth("signin"); return; }
+    if (!C || !C.user) { openAuth(); return; }
     closeSheetSilently();
     showSheet("recs", X + '<div class="cel-h">' + (mine ? "Your suggestions" : "Review suggestions") + '</div><div id="reclist"><div class="note center">Loading…</div></div>', true);
     (mine ? C.mySuggestions() : C.allSuggestions()).then(function (list) {
@@ -525,7 +564,9 @@
   }
 
   // ── Account (cloud save, see cloud.js) ─────────────────────
+  function knownAccount() { try { return !!localStorage.getItem("citydiscovery.account"); } catch (e) { return false; } }
   function openAuth(mode) {
+    mode = mode || (knownAccount() ? "signin" : "signup");
     var C = window.cdCloud, up = mode === "signup";
     ui.authMode = up ? "signup" : "signin";
     closeSheetSilently();
@@ -560,6 +601,7 @@
     },
     cloudChanged: function () {
       var C = window.cdCloud, box = document.getElementById("account");
+      if (C && C.user) try { localStorage.setItem("citydiscovery.account", "1"); } catch (e) { /* ignore */ }
       if (box) box.innerHTML = accountHtml();
       if (C && C.user && !$sheet.hidden && $sheet.classList.contains("auth")) {
         closeSheet(); toast("Signed in as " + (C.user.email || C.user.name));
@@ -610,6 +652,11 @@
 
   // ── Events ─────────────────────────────────────────────────
   var SEL = "[data-dish],[data-goto-region],[data-goto-place],[data-toggle],[data-open],[data-f],[data-tab],[data-act],[data-city],[data-theme-set],[data-pick],[data-photo-id],[data-qview],[data-trail],[data-stats-view],[data-ev-cat]";
+  // A long press on a map button says what it does (phones have no tooltips).
+  document.addEventListener("contextmenu", function (e) {
+    var b = e.target.closest && e.target.closest(".mapctl button");
+    if (b) { e.preventDefault(); toast(b.getAttribute("aria-label")); }
+  });
   document.addEventListener("click", function (e) {
     var t = e.target.closest(SEL);
     if (document.getElementById("ctxmenu") && !(t && t.closest("#ctxmenu"))) closeCtx();
@@ -717,6 +764,7 @@
       case "skip-profile": startFresh(); closeSheet(); break;
       case "photo-del": if (confirm("Delete this photo? This cannot be undone.")) deletePhoto(d.id, d.key); break;
       case "sound": store.sound = store.sound === false; save(); render(); if (store.sound) chime(false); break;
+      case "welcome-locate": welcomeLocate(); break;
       case "welcome-go": {
         var wh = (document.getElementById("whome") || {}).value;
         startFresh(wh); closeSheet(); if (wh) setCity(wh, true);
@@ -725,6 +773,7 @@
       case "report": saveNote(); openReport(ui.open); break;
       case "feedback": openReport(null); break;
       case "report-send": sendReport(); break;
+      case "report-mail": mailReport(); break;
       case "share-quest": shareQuest(ui.open); break;
       case "account-delete":
         if (!confirm("Delete your account? Your cloud save, cloud photos and suggestions are removed for good. Progress on this device stays.")) break;
@@ -769,7 +818,7 @@
         [].forEach.call(t.parentNode.querySelectorAll(".chip"), function (n) { n.classList.toggle("on", n === t); });
         break;
       case "rec-send": recSend(); break;
-      case "rec-auth": recKeep(); openAuth("signin"); break;
+      case "rec-auth": recKeep(); openAuth(); break;
       case "rec-mine": recList(true); break;
       case "rec-review": recList(false); break;
       case "rec-show": recShow(d.id); break;
@@ -779,7 +828,7 @@
           function (e) { t.disabled = false; toast(e.message); });
         break;
       case "rec-export": recExport(); break;
-      case "auth": openAuth("signin"); break;
+      case "auth": openAuth(); break;
       case "auth-switch": openAuth(ui.authMode === "signup" ? "signin" : "signup"); break;
       case "auth-submit": {
         var em = document.getElementById("aemail").value.trim(), pw = document.getElementById("apass").value;

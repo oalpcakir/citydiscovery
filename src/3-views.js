@@ -318,7 +318,7 @@
       '<div class="chips">' + areaChips() + '</div><div class="list flush">' + questListHtml() + '</div>';
   }
   function mapCtlHtml() {
-    return '<div class="mapctl">' +
+    return ('<div class="mapctl">' +
       '<button class="glass desk" data-act="zoom-in" aria-label="Zoom in">' + ic("plus") + '</button>' +
       '<button class="glass desk" data-act="zoom-out" aria-label="Zoom out">' + ic("minus") + '</button>' +
       '<button class="glass keep" data-act="locate" aria-label="My location">' + ic("locate-fixed") + '</button>' +
@@ -327,7 +327,7 @@
       '<button class="glass" data-act="overview" aria-label="All regions">' + ic("globe") + '</button>' +
       '<button class="glass" data-act="suggest" aria-label="Surprise me">' + ic("dices") + '</button>' +
       '<button class="glass rec" data-act="rec-start" aria-label="Suggest a place">' + ic("map-pin") + ic("plus", "mini") + '</button>' +
-      '</div>';
+      '</div>').replace(/aria-label="([^"]+)"/g, 'title="$1" aria-label="$1"');
   }
   function fabHtml() {
     var dq = dailyQuest();

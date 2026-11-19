@@ -1,0 +1,982 @@
+{
+ "new": [
+  {
+   "id": "bdxbourse",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Watch the Place de la Bourse in the Miroir d'eau",
+   "desc": "The Place de la Bourse was designed by Ange-Jacques Gabriel in the 18th century and has the Three Graces fountain at its centre. In front of it, the 3,450 m² Miroir d'eau, designed by Michel Corajoud in 2006, covers the quay with about 2 cm of water that mirrors the facades and emits a mist every 15 minutes.",
+   "tip": "The mirror runs roughly April to October; go at dusk or after dark for the best reflections. Free, directly on tram B (Place de la Bourse).",
+   "q": "Place de la Bourse, Miroir d'eau, Quai de la Douane, Bordeaux",
+   "ll": [
+    44.84143,
+    -0.5696
+   ],
+   "src": [
+    "https://Www.Wikipedia.org/wiki/Miroir_d%27eau",
+    "https://www.lonelyplanet.fr/destinations/france/bordeaux/que-faire/la-place-de-la-bourse-et-le-miroir-deau"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "bdxcathedralestandre",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step inside Cathédrale Saint-André",
+   "desc": "Bordeaux's primatial cathedral is one of the first Gothic buildings in Aquitaine and has been a UNESCO World Heritage site since 1998 as part of the Santiago de Compostela pilgrim routes. Its separate bell tower stands beside it on Place Pey-Berland.",
+   "tip": "Entry to the cathedral is free; combine it with the tower climb next door. Tram A or B to Hôtel de Ville.",
+   "q": "Cathédrale Saint-André, Place Pey-Berland, Bordeaux",
+   "ll": [
+    44.83763,
+    -0.57787
+   ],
+   "src": [
+    "https://www.lonelyplanet.fr/destinations/france/bordeaux/que-faire/la-cathedrale-saint-andre-et-la-tour-pey-berland",
+    "https://www.frommers.com/destinations/bordeaux/attractions/cathdrale-saint-andr-de-bordeaux"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bdxpeyberlandtower",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb the Tour Pey-Berland for a rooftop view",
+   "desc": "The Tour Pey-Berland is the cathedral's detached 15th-century bell tower, built to hold bells heavy enough to threaten the church's structure and named after Archbishop Pey Berland. A spiral staircase of about 230 steps leads to a platform over the city.",
+   "tip": "Ticket costs a few euros; go on a clear morning. Hours change by season, so check the Centre des monuments nationaux page.",
+   "q": "Tour Pey-Berland, Place Pey-Berland, Bordeaux",
+   "ll": [
+    44.83776,
+    -0.57742
+   ],
+   "src": [
+    "https://www.culture.gouv.fr/espace-documentation/Repertoire-des-ressources-documentaires/Monuments-nationaux/Tour-Pey-Berland-a-Bordeaux",
+    "https://en.wikipedia.com/wiki/Tour_Pey-Berland"
+   ]
+  },
+  {
+   "id": "bdxgrandtheatre",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the Grand Théâtre's colonnade and staircase",
+   "desc": "Victor Louis built the Grand Théâtre between 1773 and 1780 for the duc de Richelieu on the site of a Gallo-Roman temple. Its portico of twelve columns carries statues of muses and goddesses, and its monumental staircase is said to have inspired Garnier's Paris Opéra.",
+   "tip": "Book the guided tour online (starts at the main entrance, Place de la Comédie) or catch an Opéra national de Bordeaux performance.",
+   "q": "Grand Théâtre de Bordeaux, Place de la Comédie, Bordeaux",
+   "ll": [
+    44.84268,
+    -0.5737
+   ],
+   "src": [
+    "https://www.visiter-bordeaux.com/en/discovering-bordeaux/opera-house-guided-tour.html",
+    "https://www.bordeaux.fr/lopera-national-de-bordeaux-et-lauditorium"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bdxsaintmichelspire",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb the spire of Basilique Saint-Michel",
+   "desc": "The 114 m Flèche Saint-Michel is the tallest structure in the old town and stands apart from the Gothic basilica below it. After a restoration that began in 2021 and cost 11.6 million euros, it was reported reopened to climbers in June 2026, with about 230 steps to the top.",
+   "tip": "Reopening arrangements and prices are recent, so check the city of Bordeaux page before you go. The Saint-Michel flea market is at its foot.",
+   "q": "Basilique Saint-Michel, Place Meynard, Bordeaux",
+   "ll": [
+    44.8338,
+    -0.5657
+   ],
+   "src": [
+    "https://fr.aleteia.org/2026/06/12/a-bordeaux-la-resurrection-de-la-fleche-saint-michel/",
+    "https://www.guide-bordeaux-gironde.com/en/tourism/discover/tourist-sites/historic-monuments/bordeaux-61/fleche-de-la-basilique-saint-michel-10360.html"
+   ]
+  },
+  {
+   "id": "bdxportecailhau",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the medieval Porte Cailhau",
+   "desc": "Porte Cailhau is a late-Gothic gate on the Garonne side of the old town, built between 1493 and 1496 and said to commemorate Charles VIII's victory at Fornoue. It stands on Place du Palais and can be visited inside.",
+   "tip": "Open daily around 10:00-13:00 and 14:00-18:00 according to tourism listings; tickets from about 5 euros. Check current hours.",
+   "q": "Porte Cailhau, Place du Palais, Bordeaux",
+   "ll": [
+    44.83875,
+    -0.56849
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Porte_Cailhau",
+    "https://www.visiter-bordeaux.com/en/discovering-bordeaux/porte-cailhau.html"
+   ]
+  },
+  {
+   "id": "bdxcitedevin",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Take the lift to the Belvédère of La Cité du Vin",
+   "desc": "La Cité du Vin is a wine museum in Bacalan on the Garonne, with a permanent exhibition on wine cultures of the world. The 8th-floor Belvédère, about 35 m up, gives a 360-degree view over the river and the city, and the entry ticket includes a glass of wine or grape juice there.",
+   "tip": "Buy a dated ticket online (around 23 euros for adults); go at the end of the afternoon for the light over the river. Bus line 7 or tram B to Cité du Vin.",
+   "q": "La Cité du Vin, Esplanade de Pontac, Quai de Bacalan, Bordeaux",
+   "ll": [
+    44.86069,
+    -0.55316
+   ],
+   "src": [
+    "https://cdv-prod.herokuapp.com/en/belvedere",
+    "https://www.lonelyplanet.com/france/southwestern-france/bordeaux/attractions/la-cite-du-vin/a/poi-sig/1537668/359293"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bdxmuseeaquitaine",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Meet the Venus of Laussel at the Musée d'Aquitaine",
+   "desc": "The Musée d'Aquitaine tells the history of Bordeaux and Aquitaine from prehistory to today. Its prehistory galleries display the Venus of Laussel, a limestone bas-relief of a woman holding a horn, found at the Laussel shelter in the Dordogne and dated to about 25,000 years ago or older.",
+   "tip": "Permanent collections are the main draw; the Roman Burdigala and trade-and-colonial-history rooms are worth an hour each. Check opening days, as municipal museums close on Mondays.",
+   "q": "Musée d'Aquitaine, Cours Pasteur, Bordeaux",
+   "ll": [
+    44.83562,
+    -0.57469
+   ],
+   "src": [
+    "https://archeologie.culture.gouv.fr/sculpture-prehistoire/en/media/view/5938",
+    "https://EN.wikipedia.com/wiki/Venus_of_Laussel"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bdxmuba",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the old masters at the Musée des Beaux-Arts",
+   "desc": "The Musée des Beaux-Arts de Bordeaux was created by consular decree in 1801 when works from the Museum Central were distributed to fifteen provincial cities. The permanent collection is at 20 cours d'Albret, while the 1939 Galerie des Beaux-Arts on Place du Colonel Raynal hosts temporary exhibitions.",
+   "tip": "The museum looks onto the garden of the Hôtel de Ville; combine it with the cathedral nearby. Check the temporary exhibition at the Galerie.",
+   "q": "Musée des Beaux-Arts de Bordeaux, 20 Cours d'Albret, Bordeaux",
+   "ll": [
+    44.83734,
+    -0.58068
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Mus%C3%A9e_des_Beaux-Arts_de_Bordeaux",
+    "https://www.bordeaux.fr/le-musee-des-beaux-arts-musba"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bdxgrossecloche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk under the Grosse Cloche belfry",
+   "desc": "The Porte de la Grosse Cloche is a medieval gate and belfry spanning rue Saint-James, a remnant of the former town hall with two twin towers. Magistrates rang its bell to announce the grape harvest or warn of fire, and the bell appears on the city's coat of arms.",
+   "tip": "Free to admire from the street; the Saint-Pierre and Saint-Michel quarters are a short walk away.",
+   "q": "Porte de la Grosse Cloche, Rue Saint-James, Bordeaux",
+   "ll": [
+    44.8377,
+    -0.57048
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Grosse_Cloche_(Bordeaux)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bdxpontdepierre",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Cross the 17 arches of the Pont de Pierre",
+   "desc": "Built on Napoléon's orders between 1810 and 1822 by engineers Claude Deschamps and Jean-Baptiste Billaudel, it was the first bridge over the Garonne in Bordeaux. It is 487 m long with 17 arches, and the story that the arches match the letters of Napoléon Bonaparte is a legend.",
+   "tip": "Closed to cars: walk, cycle or take tram A. The best view of the bridge is from the quay on the left bank at sunset.",
+   "q": "Pont de pierre, Bordeaux",
+   "ll": [
+    44.83842,
+    -0.56284
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Pont_de_pierre_(Bordeaux)",
+    "https://www.guide-bordeaux-gironde.com/en/tourism/discover/tourist-sites/historic-monuments/bordeaux-61/pont-de-pierre-10368.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bdxchabandelmasbridge",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Watch the Pont Chaban-Delmas lift its span",
+   "desc": "This vertical-lift bridge linking Bacalan and La Bastide was inaugurated on 16 March 2013; its 110 m central span rises to let ships pass. It cost 160 million euros and reached its 1,000th lift in September 2024.",
+   "tip": "Lift times are published by Bordeaux Métropole; the bridge closes to traffic for about 1h10 per lift. Guided visits are occasionally offered from quai de Brazza.",
+   "q": "Pont Jacques Chaban-Delmas, Bordeaux",
+   "ll": [
+    44.85831,
+    -0.55178
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Pont_Jacques_Chaban-Delmas",
+    "https://www.bordeaux-metropole.fr/sites/MET-BXMETRO-DRUPAL/files/2023-05/CP-Anniv-pont-Jacques-Chaban-Delmas-2023-03-10.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bdxbassinslumieres",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step into immersive art at the Bassins des Lumières",
+   "desc": "The Bassins des Lumières occupy the first four pens of the Bordeaux submarine base, built from 1941 for the German Kriegsmarine on the site of an old dock basin by about 6,500 workers. Today the flooded concrete pens host large digital art shows projected on walls and water.",
+   "tip": "Shows change each season (current ones are listed at bassins-lumieres.com); tickets start around 16-17 euros, so book ahead. Bus line 7 to Cité du Vin.",
+   "q": "Bassins des Lumières, Impasse Brown de Colstoun, Boulevard Alfred Daney, Bordeaux",
+   "ll": [
+    44.8708,
+    -0.56175
+   ],
+   "src": [
+    "https://www.bassins-lumieres.com/en/discover/place-of-history",
+    "https://www.bordeaux.fr/la-base-sous-marine-entre-histoire-et-projets"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bdxmuseemermarine",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Board the Musée Mer Marine on the Bassins à flot",
+   "desc": "The Musée Mer Marine, in the 19th-century port quarter, opened in June 2019 and shows ship models and maritime history over thousands of square metres. Among its pieces is the former America's Cup yacht China Team.",
+   "tip": "Open Tuesday to Friday afternoons and 10:30-19:00 at weekends according to the city listing; check current hours. Privately run, so city passes may not apply.",
+   "q": "Musée Mer Marine, Quai Armand Lalande, Bassins à flot, Bordeaux",
+   "ll": [
+    44.86741,
+    -0.55388
+   ],
+   "src": [
+    "https://www.bordeaux-tourism.co.uk/river/museums-bordeaux/musee-mer-marine",
+    "https://www.guide-bordeaux-gironde.com/en/tourism/discover/tourist-sites/museums/bordeaux-61/musee-mer-marine-mmm--10650.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "pessacfruges",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Tour Le Corbusier's Cité Frugès in Pessac",
+   "desc": "Cité Frugès was a modernist workers' housing estate built from 1926 by Le Corbusier and Pierre Jeanneret for industrialist Henry Frugès, and is among the 17 Le Corbusier sites on the UNESCO World Heritage List. The city of Pessac owns one house, the Maison Frugès-Le Corbusier, open for visits.",
+   "tip": "Guided visits of the estate and house are free but need advance booking (citefrugeslecorbusier.pessac.fr or 05 56 36 56 46). Most houses are private: respect residents.",
+   "q": "Maison Frugès-Le Corbusier, 4 Rue Le Corbusier, Pessac",
+   "ll": [
+    44.79944,
+    -0.64785
+   ],
+   "src": [
+    "https://www.guide-tourisme-france.com/VISITER/cite-fruges--corbusier--pessac-4572.htm",
+    "https://sites-le-corbusier.org/en/?p=1322"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bdxjardinpublic",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stroll the Jardin Public and its natural history museum",
+   "desc": "The Jardin Public was laid out in the 18th century under the intendant Tourny and is a listed Monument Historique and Jardin Remarquable. The Muséum de Bordeaux – sciences et nature sits in its Hôtel de Lisleferme, with collections tracing back to Latapie in 1791 and a reopening in 2019.",
+   "tip": "Garden free and open daily; the museum is ticketed and closed Mondays. Tram C, stop Jardin Public.",
+   "q": "Jardin Public, Cours de Verdun, Bordeaux",
+   "ll": [
+    44.84835,
+    -0.5758
+   ],
+   "src": [
+    "https://monumentum.fr/monument-historique/pa00083402/bordeaux-jardin-public",
+    "https://www.lonelyplanet.fr/destinations/france/bordeaux/que-faire/le-jardin-public"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bdxgirondins",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk the vast Place des Quinconces to the Girondins fountain",
+   "desc": "The Monument aux Girondins, built 1894-1902, honours the Girondin deputies who died in the Terror and shows a Statue of Liberty atop a column above two fountains. It stands on Place des Quinconces, one of the largest city squares in Europe at around 25 hectares.",
+   "tip": "Free and always accessible; tram B or C to Quinconces. The Christmas market and fairs often set up here.",
+   "q": "Monument aux Girondins, Place des Quinconces, Bordeaux",
+   "ll": [
+    44.8451,
+    -0.5739
+   ],
+   "src": [
+    "https://www.wikipedia.org/wiki/Place_des_Quinconces",
+    "https://www.historyhit.com/locations/monument-aux-girondins/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bdxcapc",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See contemporary art in the Entrepôt Lainé at the CAPC",
+   "desc": "The CAPC musée d'art contemporain occupies the Entrepôt Lainé, a colonial goods warehouse completed in 1824 and renovated between 1984 and 1990. It was founded as the Centre d'arts plastiques contemporains in 1973 and holds the Musée de France label.",
+   "tip": "Closed Mondays; temporary shows change often. It is in the Chartrons, so pair it with the Sunday quay market.",
+   "q": "CAPC musée d'art contemporain, 7 Rue Ferrère, Bordeaux",
+   "ll": [
+    44.84864,
+    -0.57216
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/CAPC_mus%C3%A9e_d%27art_contemporain_de_Bordeaux",
+    "https://www.bordeaux.fr/le-capc-musee-dart-contemporain-de-bordeaux"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bdxsaintseurin",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Discover the Saint-Seurin basilica and its crypt",
+   "desc": "Basilique Saint-Seurin stands over an early Christian burial site and is on the Santiago pilgrim route. Its crypt is the oldest part of the church and has been excavated since 1965.",
+   "tip": "The church is free to enter; crypt visits are only possible on occasional guided tours (for example during archaeology days), so check before going.",
+   "q": "Basilique Saint-Seurin, Place des Martyrs de la Résistance, Bordeaux",
+   "ll": [
+    44.8422,
+    -0.5866
+   ],
+   "src": [
+    "https://caruso33.net/bordeaux-eglise-saint-seurin-EN.html",
+    "https://www.bordeaux-tourism.co.uk/cultural-heritage/site-archeologique-saint-seurin.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bdxsaintecroix",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the Romanesque façade of Église Sainte-Croix",
+   "desc": "Sainte-Croix is the former church of a Benedictine abbey whose origins go back to the 7th century; the present building dates from the late 11th or early 12th century. Its west façade is a fine example of Saintonge-style Romanesque sculpture, and it has been listed since 1840.",
+   "tip": "Free; the abbey buildings next door housed the École des Beaux-Arts from 1890. It sits just south of Saint-Michel, so combine them.",
+   "q": "Église Sainte-Croix, Place Pierre Renaudel, Bordeaux",
+   "ll": [
+    44.83131,
+    -0.56138
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Church_of_the_Holy_Cross,_Bordeaux",
+    "https://www.techno-science.net/fr/definitions/abbatiale-sainte-croix-de-bordeaux"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bdxlatupina",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat tricandilles by the fire at La Tupina",
+   "desc": "La Tupina opened in 1968 under Jean-Pierre Xiradakis and cooks Southwest dishes over an open fireplace. Walls are hung with signed chairs from famous guests.",
+   "tip": "Try the tricandilles (lamb tripe) or the weekday lunch menu; booking recommended. Sister venues Café Tupina and Kuzina are on the same street.",
+   "q": "La Tupina, 6 Rue Porte de la Monnaie, Bordeaux",
+   "ll": [
+    44.83287,
+    -0.56208
+   ],
+   "src": [
+    "https://www.guide-bordeaux-gironde.com/en/tourism/eating-and-drinking/restaurants/bordeaux-61/la-tupina-10705.html",
+    "https://www.gillespudlowski.com/50660/restaurants/bordeaux-une-star-nommee-tupina"
+   ]
+  },
+  {
+   "id": "bdxbaillardranintendance",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste a vanilla canelé at Baillardran",
+   "desc": "Baillardran has made canelés, Bordeaux's caramelised rum-and-vanilla pastry, since 1988, and its version is a pure vanilla one without alcohol. Its shop at 55 cours de l'Intendance sits in the golden-triangle shopping area.",
+   "tip": "Buy a warm canelé (sold in boxes or singly) and eat it within the hour while the crust is crisp. Other branches are at Gare Saint-Jean and Place Gambetta.",
+   "q": "Baillardran, 55 Cours de l'Intendance, Bordeaux",
+   "ll": [
+    44.8419,
+    -0.57856
+   ],
+   "src": [
+    "https://tablejourney.com/france/bordeaux/bakeries/baillardran/",
+    "https://www.baillardran.com/en/the-bordeaux-canele/"
+   ]
+  },
+  {
+   "id": "bdxchezjeanmi",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Slurp oysters and white wine at Chez Jean-Mi",
+   "desc": "Chez Jean-Mi is an oyster counter inside the Marché des Capucins where stalls open oysters to order. A dozen n°3 oysters with a glass of Entre-Deux-Mers white were reported around 14 euros.",
+   "tip": "Come before 11:30 at weekends to get a stool; hours reported 6:00-14:00 (weekends from 5:30). Closed Mondays.",
+   "q": "Chez Jean-Mi, Marché des Capucins, Place des Capucins, Bordeaux",
+   "ll": [
+    44.8315,
+    -0.5665
+   ],
+   "src": [
+    "https://www.gillespudlowski.com/?p=128603",
+    "https://doeatbetterexperience.com/blog/best-oyster-bars-bordeaux/"
+   ]
+  },
+  {
+   "id": "bdxpetitcommerce",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order grilled fish at Le Petit Commerce",
+   "desc": "Le Petit Commerce is a seafood bistro on rue du Parlement Saint-Pierre with a terrace, serving fish such as sole, bar and turbot, and squid and cuttlefish cooked on the plancha. Gault&Millau rates it 12/20.",
+   "tip": "Ask for the whole fish to share and start with half a dozen oysters; booking is strongly recommended on weekends.",
+   "q": "Le Petit Commerce, 22 Rue du Parlement Saint-Pierre, Bordeaux",
+   "ll": [
+    44.8405,
+    -0.5705
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/restaurants/le-petit-commerce",
+    "https://tablejourney.com/france/bordeaux/restaurants/le-petit-commerce/"
+   ]
+  },
+  {
+   "id": "bdxbrasseriebordelaise",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Grill a steak at La Brasserie Bordelaise",
+   "desc": "La Brasserie Bordelaise at 50 rue Saint-Rémi serves regional Southwest cooking and grilled meats, with a wine list of close to 700 Bordeaux and Southwest references. Gault&Millau rates it 12/20.",
+   "tip": "Order grilled meat with a glass from the large Bordeaux list; reserve for dinner. A short walk from Place de la Bourse.",
+   "q": "La Brasserie Bordelaise, 50 Rue Saint-Rémi, Bordeaux",
+   "ll": [
+    44.8408,
+    -0.5722
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/en/restaurants/la-brasserie-bordelaise",
+    "https://francetoday.com/food-drink/restaurants/bordeaux_brasserie_bordelaise/"
+   ]
+  },
+  {
+   "id": "bdxmagasingeneral",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Brunch organic at Magasin Général in Darwin",
+   "desc": "Magasin Général is an organic restaurant, bar, brunch space and eco-shop inside Darwin, the eco-district in the former Niel barracks on the right bank. Menus are seasonal and made from local, organic products, and Sunday brunch is its best-known meal.",
+   "tip": "Book for weekend brunch; without a booking after 12:30 a table is hard to find. It has a children's play area.",
+   "q": "Magasin Général, 87 Quai des Queyries, Bordeaux",
+   "ll": [
+    44.84974,
+    -0.5609
+   ],
+   "src": [
+    "https://www.lebonbon.fr/bordeaux/actu/magasin-general-darwin-cantine-bio-bordeaux/",
+    "https://www.leslouves.com/en/magasin-general-an-eco-friendly-refectory-in-bordeaux/"
+   ]
+  },
+  {
+   "id": "bdxchaponfin",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine in the volcanic-rock grotto of Le Chapon Fin",
+   "desc": "Founded in 1825, Le Chapon Fin is described as Bordeaux's oldest surviving restaurant and is known for its Belle Époque rocaille interior with an artificial grotto of volcanic rock. The cooking is modern, with a wine cellar of about 1,000 references.",
+   "tip": "Ask for a table near the grotto when booking; it sits on the €€€ price band, so lunch menus are cheaper.",
+   "q": "Le Chapon Fin, 5 Rue Montesquieu, Bordeaux",
+   "ll": [
+    44.84282,
+    -0.57814
+   ],
+   "src": [
+    "https://guide.michelin.com/en/nouvelle-aquitaine/bordeaux/restaurant/le-chapon-fin",
+    "https://www.lebonbon.fr/bordeaux/les-tops-food-et-drink/chapon-fin-bordeaux-restaurant-gastronomique-guide-michelin-premiers-france/"
+   ]
+  },
+  {
+   "id": "bdxbouchonbordelais",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Share regional plates at Le Bouchon Bordelais",
+   "desc": "Le Bouchon Bordelais is a bistro at 2 rue Courbin near the Grand Théâtre, serving regional French cooking with a local wine list. It holds about 4.6-4.7 on review sites from roughly 1,000 reviews each.",
+   "tip": "Reported closed on Mondays; book ahead for dinner. Gault&Millau gives a budget of about 43-60 euros per head without drinks.",
+   "q": "Le Bouchon Bordelais, 2 Rue Courbin, Bordeaux",
+   "ll": [
+    44.84185,
+    -0.57298
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/restaurant/bouchon-bordelais",
+    "https://www.enprimeurclub.com/restaurants/bouchon-bordelais-bordeaux-restaurant"
+   ]
+  },
+  {
+   "id": "bdxlentrecote",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat the one-dish entrecôte at L'Entrecôte",
+   "desc": "L'Entrecôte at 4 cours du 30 Juillet has served a single formula since 1959: a 170 g rib-eye with fries and its house sauce. The set-menu format keeps service quick.",
+   "tip": "No reservations in the classic format, so expect a queue at peak times; order the dessert trolley after the steak.",
+   "q": "L'Entrecôte, 4 Cours du 30 Juillet, Bordeaux",
+   "ll": [
+    44.8433,
+    -0.5742
+   ],
+   "src": [
+    "https://www.bordeaux-tourism.co.uk/restaurant/lentrecote.html",
+    "https://en.lebonbon.fr/bordeaux/tops-food-and-drink/where-to-eat-a-ribeye-steak-with-friends-the-best-bordeaux"
+   ]
+  },
+  {
+   "id": "bdxcafemaritime",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have a seafood lunch at Café Maritime",
+   "desc": "Café Maritime is a large brasserie at 1 quai Armand Lalande in the Bassins à flot district, open since 2010 and used for local festive and professional events. It is a short walk from the Musée Mer Marine and the Cité du Vin.",
+   "tip": "Choose the terrace on a sunny day; reserve for weekend lunch. Tram B to Bassins à flot.",
+   "q": "Café Maritime, 1 Quai Armand Lalande, Bordeaux",
+   "ll": [
+    44.86273,
+    -0.55492
+   ],
+   "src": [
+    "https://www.bordeaux-tourism.co.uk/restaurant/cafe-maritime.html",
+    "https://en.lebonbon.fr/bordeaux/stories/400-available-spots-its-a-large-restaurant-in-bordeaux-open-for"
+   ]
+  },
+  {
+   "id": "bdxsolena",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Book a tasting menu at the Michelin-starred Soléna",
+   "desc": "Soléna at 5 rue Chauffour holds one Michelin star for modern cuisine, led by chef Victor Ostronzec. It sits in the €€€€ price band.",
+   "tip": "Book weeks ahead and choose the lunch menu for a lower price; check the Michelin page for current menus.",
+   "q": "Soléna, 5 Rue Chauffour, Bordeaux",
+   "ll": [
+    44.84047,
+    -0.59038
+   ],
+   "src": [
+    "https://guide.michelin.com/en/nouvelle-aquitaine/bordeaux/restaurant/solena",
+    "https://www.guide-bordeaux-gironde.com/en/tourism/eating-and-drinking/restaurants/stars/bordeaux-61/solena--9223.html"
+   ]
+  },
+  {
+   "id": "bdxfromageriederuelle",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Buy cheese at Fromagerie Deruelle in Saint-Pierre",
+   "desc": "Fromagerie Deruelle at 66 rue du Pas-Saint-Georges is run by Élodie Deruelle and is cited as one of the best cheese shops in Bordeaux. A sister restaurant, La Table Deruelle, at 9 rue Gaspard Philippe, uses products from the shop.",
+   "tip": "Ask for a regional Southwest cheese and a baguette for a picnic on the quays; closed Sundays in most shops, so check hours.",
+   "q": "Fromagerie Deruelle, 66 Rue du Pas-Saint-Georges, Bordeaux",
+   "ll": [
+    44.8385,
+    -0.5732
+   ],
+   "src": [
+    "https://www.guide-bordeaux-gironde.com/en/useful-addresses/alimentation/fromageries/bordeaux-61/fromagerie-deruelle-8538.html",
+    "https://bordeauxsecret.com/en/best-cheese-shops-bordeaux"
+   ]
+  },
+  {
+   "id": "bdxhenrietteolga",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Scoop artisan ice cream at Henriette & Olga",
+   "desc": "Henriette & Olga is an ice cream and pastry shop at 25 rue du Pas-Saint-Georges, close to rue Sainte-Catherine. Its ice-cream menu follows the seasons and the greengrocers' stalls, with around thirty flavours.",
+   "tip": "Choose the seasonal fruit flavours; eat on the terrace. Hours vary, so check before going.",
+   "q": "Henriette & Olga, 25 Rue du Pas-Saint-Georges, Bordeaux",
+   "ll": [
+    44.8395,
+    -0.5729
+   ],
+   "src": [
+    "https://www.guide-bordeaux-gironde.com/en/tourism/eating-and-drinking/tea-rooms/bordeaux-61/henriette-et-olga-10254.html",
+    "https://www.lebonbon.fr/bordeaux/pepites/henriette-et-olga-bordeaux-glaces-patisseries/"
+   ]
+  },
+  {
+   "id": "bdxcivbwinebar",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste local wines at the CIVB Bar à Vin",
+   "desc": "The Bar à Vin du CIVB is on the ground floor of the Maison du Vin at 3 cours du 30 Juillet and is run by the Bordeaux wine trade body. Glasses of appellation wines cost about 2-8 euros, with light dishes and themed tastings from 25 euros.",
+   "tip": "Reported open Monday to Saturday from 11:00 to 22:00; go mid-afternoon to avoid the crowds.",
+   "q": "Bar à Vin du CIVB, Maison du Vin, cours du 30 Juillet, Bordeaux",
+   "ll": [
+    44.8435,
+    -0.5744
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Maison_du_vin_de_Bordeaux"
+   ]
+  },
+  {
+   "id": "pessacalouette",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat a bistro lunch at Le Bistrot de l'Alouette in Pessac",
+   "desc": "Le Bistrot de l'Alouette is a bistro founded in 2021 at 2 avenue du Général Leclerc in Pessac and is praised for its lunch menu. It is open Monday to Saturday for lunch and dinner and Sunday morning, according to a local guide.",
+   "tip": "The lunch formula is the best value; book for weekends. Tram B to Pessac Centre.",
+   "q": "Le Bistrot de l'Alouette, 2 Avenue du Général Leclerc, Pessac",
+   "ll": [
+    44.7993,
+    -0.66344
+   ],
+   "src": [
+    "https://tripaligner.com/countries/france-18/destinations/bordeaux-11735/places/le-bistrot-de-l-alouette-3721482",
+    "https://quoifaireabordeaux.com/brunch-restaurants-a-pessac/"
+   ]
+  },
+  {
+   "id": "merignacblisss",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try creative French cooking at Blisss in Mérignac",
+   "desc": "Blisss at 98 avenue de Magudas in Mérignac was reported as a Michelin Plate listing in 2024 and 2025 under chef Johnny Courtney. It serves creative French cooking.",
+   "tip": "Check the Michelin Guide or restaurant page for the current menu; book ahead for dinner.",
+   "q": "Blisss, 98 Avenue de Magudas, Mérignac",
+   "ll": [
+    44.85686,
+    -0.65832
+   ],
+   "src": [
+    "https://www.enprimeurclub.com/restaurants/blisss-mrignac-restaurant",
+    "https://www.enprimeurclub.com/restaurants/blisss-merignac-restaurant"
+   ]
+  },
+  {
+   "id": "beglesleschiopot",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have lunch at Le Chiopot in Bègles",
+   "desc": "Le Chiopot is a restaurant at 281 rue des Quatre Castéra in Bègles, on the south side of Bordeaux. It appears in the Bordeaux-area restaurant guides for Bègles.",
+   "tip": "Check opening days before going, as listings differ; tram C to Bègles.",
+   "q": "Le Chiopot, 281 Rue des Quatre Castéra, Bègles",
+   "ll": [
+    44.805,
+    -0.5515
+   ],
+   "src": [
+    "https://tables-auberges.com/en/hotels-restaurants/33-gironde/begles/47668-restaurant-le-chiopot"
+   ]
+  },
+  {
+   "id": "bdxcapucinsmarket",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Marché des Capucins, the belly of Bordeaux",
+   "desc": "The Marché des Capucins on Place des Capucins in the Saint-Michel quarter is known as the 'ventre de Bordeaux' and is described as one of the oldest markets in France. It has fish, cheese, charcuterie and oyster counters.",
+   "tip": "Closed Mondays; open early morning to about 14:00 (weekends 5:30-14:30 in recent guides). Saturday 9:00-11:00 is the busiest time.",
+   "q": "Marché des Capucins, Place des Capucins, Bordeaux",
+   "ll": [
+    44.83044,
+    -0.56779
+   ],
+   "src": [
+    "https://www.bordeaux.fr/les-marches-de-bordeaux",
+    "https://quoifaireabordeaux.com/?p=18823692"
+   ]
+  },
+  {
+   "id": "bdxquaismarket",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Shop the Sunday Marché des Quais in Chartrons",
+   "desc": "The Marché des Quais runs along the Quai des Chartrons beside the Garonne with local cheese, seasonal produce and oysters opened to order. Admission is free.",
+   "tip": "Sunday mornings only (city listing 7:00-14:00); arrive early for oysters with chilled white wine. Tram B to Chartrons.",
+   "q": "Marché des Quais, Quai des Chartrons, Bordeaux",
+   "ll": [
+    44.85197,
+    -0.568
+   ],
+   "src": [
+    "https://www.jds.fr/bordeaux/marche/grand-marche-dominical-des-quais-a-bordeaux-chartrons-24553_L",
+    "https://lemap-bordeaux.com/?p=2136"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "pessacpapeclement",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Taste Grand Cru at Château Pape Clément in Pessac",
+   "desc": "Château Pape Clément is a Grand Cru Classé of Pessac-Léognan at 216 avenue du Dr Nancel Penard. Guided visits cover cellars, gardens and vineyards, followed by a tasting of three wines.",
+   "tip": "Booking is advised; a visit with three wines costs around 40 euros according to one listing, and a blending workshop is also offered.",
+   "q": "Château Pape Clément, 216 Avenue du Docteur Nancel Penard, Pessac",
+   "ll": [
+    44.80568,
+    -0.64671
+   ],
+   "src": [
+    "https://www.guide-tourisme-france.com/VISITER/chateau-pape-clement--pessac-29443.htm",
+    "https://www.winetourism.com/fr/vignoble/chateau-pape-clement/"
+   ]
+  },
+  {
+   "id": "bdxecoleduvin",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Learn to taste at the École du Vin de Bordeaux",
+   "desc": "The École du Vin de Bordeaux, run by the CIVB at cours du 30 Juillet, offers introductory tasting workshops such as 'Bordeaux pétille' held daily at 14:30 and 16:00. Introductory workshops are priced from about 25-45 euros.",
+   "tip": "Book online; a tasting pass is required for some workshops. Check the current schedule.",
+   "q": "École du Vin de Bordeaux, 1 Cours du 30 Juillet, Bordeaux",
+   "ll": [
+    44.8432,
+    -0.5744
+   ],
+   "src": [
+    "https://www.visiter-bordeaux.com/en/discovering-bordeaux/introduction-tasting-bordeaux-wine-school.html",
+    "https://openagenda.com/en/bordeaux-metropole/events/atelier-bordeaux-petille-avec-lecole-du-vin-de-bordeaux"
+   ]
+  },
+  {
+   "id": "bdxgaronnecruise",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cruise the Garonne past the Bourse and Cité du Vin",
+   "desc": "Commented cruises of about 1h30 leave from the Ponton d'Honneur on quai Richelieu facing Place de la Bourse, run by operators such as Yacht de Bordeaux and Burdigala. Some include a glass of wine and a canelé.",
+   "tip": "Arrive 30 minutes before departure; departure points vary by operator, so check the booking voucher. Tram A, C or D to Porte de Bourgogne.",
+   "q": "Ponton d'Honneur, Quai Richelieu, Bordeaux",
+   "ll": [
+    44.8386,
+    -0.5679
+   ],
+   "src": [
+    "https://www.visiter-bordeaux.com/en/boat-tours/commented-cruise-yacht-de-bordeaux.html",
+    "https://visiter-bordeaux.com/en/premium-cruise-glass-wine-and-canele.html"
+   ]
+  },
+  {
+   "id": "bdxlapebiecycle",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cycle from the Pont de Pierre toward the Roger Lapébie track",
+   "desc": "A cycle path leads from Bordeaux across the Pont de Pierre and along the Garonne to Latresne, where the Roger Lapébie greenway on a former railway line begins. The Bordeaux to Créon stretch is about 22 km.",
+   "tip": "Rent a bike in the city, start from Place Stalingrad on the right bank, and plan a full day for the return trip. The track is tarmacked.",
+   "q": "Place Stalingrad, La Bastide, Bordeaux",
+   "ll": [
+    44.84029,
+    -0.55979
+   ],
+   "src": [
+    "https://www.francevelotourisme.com/itineraire/le-tour-de-gironde-a-velo/bordeaux-creon",
+    "https://www.cirkwi.com/en/circuit/594591-la-piste-roger-lapebie-a-velo-de-bordeaux-a-sauveterre-de-guyenne"
+   ]
+  },
+  {
+   "id": "bdxparcbordelais",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk around the lake in the Parc Bordelais",
+   "desc": "The Parc Bordelais in Caudéran is the city's largest park at 28 hectares, with about 3,000 trees, a central lake and an English-style river. It was opened as a public promenade in the late 19th century and holds the Jardin Remarquable label.",
+   "tip": "Free and open from 7:00 daily; there is a kiosk, a play area and a small train. Tram D to Courbet.",
+   "q": "Parc Bordelais, Rue du Parc Bordelais, Bordeaux",
+   "ll": [
+    44.85266,
+    -0.60373
+   ],
+   "src": [
+    "https://www.bordeaux.fr/parc-jardin/parc-bordelais",
+    "https://quoifaireabordeaux.com/parc-bordelais-bordeaux/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "cenonparcpalmer",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk up to the Parc Palmer viewpoint in Cenon",
+   "desc": "Parc Palmer is a 25-hectare hillside park in Cenon with large lawns and tree-lined paths and a wide view over the Garonne and Bordeaux. It was named after a British colonel who built a small château there after the Revolution.",
+   "tip": "Free and open day and night; entrance on rue Aristide-Briand beside the Rocher de Palmer venue. It links to the Bellevue belvedere and the Ermitage park by a coteaux route.",
+   "q": "Parc Palmer, Rue Aristide Briand, Cenon",
+   "ll": [
+    44.85953,
+    -0.5267
+   ],
+   "src": [
+    "https://www.guide-tourisme-france.com/VISITER/chateau-parc-palmer--cenon-29382.htm",
+    "https://www.decathlon-outdoor.com/fr-fr/explore/france/parc-palmer-et-vue-imprenable-sur-bordeaux-5f492a0b1e029"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bdxbastidebotanic",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Stroll the Jardin botanique de la Bastide and Parc aux Angéliques",
+   "desc": "The Jardin botanique de la Bastide is a 4-hectare garden on the right bank with entrances on Esplanade Linné and quai des Queyries. The Parc aux Angéliques runs along the Garonne for about 3.5 km between Pont Saint-Jean and Pont Chaban-Delmas.",
+   "tip": "Garden open until 19:00 in October and 18:00 from November to February; the riverside park is free. Walk toward the Darwin district for lunch.",
+   "q": "Jardin botanique de la Bastide, Esplanade Linné, Quai des Queyries, Bordeaux",
+   "ll": [
+    44.84297,
+    -0.55535
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Jardin_botanique_de_la_Bastide",
+    "https://www.bordeaux.fr/parc-jardin/parc-aux-angeliques"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bdxpucessaintmichel",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Hunt for antiques at the Saint-Michel flea market",
+   "desc": "Les Puces de Saint-Michel spread across Place Canteloup and Place Meynard under the basilica's tower. Nineteen dealers also share a covered hall, Les Brocanteurs du Passage Saint-Michel, at Place Canteloup.",
+   "tip": "Sources disagree on days, but Sunday morning (about 7:00-14:00) is the safest; big fairs are held several times a year.",
+   "q": "Puces de Saint-Michel, Place Canteloup, Bordeaux",
+   "ll": [
+    44.8339,
+    -0.5658
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Basilica_of_St._Michael,_Bordeaux"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bdxpiscinejudaique",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Swim in the Art Deco Piscine Judaïque",
+   "desc": "The Piscine Judaïque Jean-Boiteux at 164 rue Judaïque opened in the mid-1930s and has been a Monument Historique since 1996. Its Olympic pool is the only one in the city, with a mobile roof that opens to swim outdoors in fine weather.",
+   "tip": "A recent 15-million-euro renovation was reported, so check hours and prices on the city's page before going.",
+   "q": "Piscine Judaïque Jean Boiteux, 164 Rue Judaïque, Bordeaux",
+   "ll": [
+    44.8433,
+    -0.5904
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Piscine_Judaïque"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bdxmarchenoel",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Bordeaux Christmas market",
+   "desc": "The Marché de Noël de Bordeaux runs in 2026 from 27 November to 27 December, with rides and a carousel. Its site has moved between Place des Quinconces and the Allées de Tourny in recent years.",
+   "tip": "Check the venue (Quinconces was confirmed by the organiser for 2026) and go on weekday evenings to avoid crowds. Tram B or C to Quinconces.",
+   "q": "Marché de Noël, Place des Quinconces, Bordeaux",
+   "ll": [
+    44.84556,
+    -0.57361
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Place_des_Quinconces"
+   ],
+   "months": [
+    11,
+    12
+   ]
+  },
+  {
+   "id": "bdxubbmatch",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Catch an Union Bordeaux Bègles rugby match",
+   "desc": "Union Bordeaux Bègles (UBB) plays Top 14 and European matches at the Stade Chaban-Delmas. Tickets for some home games start from about 7 euros on the club's official ticket site.",
+   "tip": "Buy on billetterie.ubbrugby.com or at the ticket windows on Place Johnston 1h30 before kick-off; tram A or F to Stade Chaban-Delmas.",
+   "q": "Stade Chaban-Delmas, Cours Johnston, Bordeaux",
+   "ll": [
+    44.82931,
+    -0.59826
+   ],
+   "src": [
+    "https://en.wikipedia.com/wiki/Stade_Bordelais_UC",
+    "https://billetterie.ubbrugby.com/sites/hubber_site_ubb8/files/2024-09/cgv-2425_billetterie.pdf"
+   ],
+   "months": [
+    9,
+    10,
+    11,
+    12,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ]
+  },
+  {
+   "id": "pessacbourgailh",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Hike the Bourgailh forest and its tropical greenhouse in Pessac",
+   "desc": "The Parc du Bourgailh is a reclaimed former landfill of about 110 hectares with three belvederes, a 1,300 m² tropical greenhouse holding more than 3,500 plants, and a BMX track. The forest is open all year, while the gardens and greenhouse open from April to September.",
+   "tip": "Start from the Parc d'Espagne car park and follow the flat signed trail; the Écosite du Bourgailh is at 179 avenue de Beutre.",
+   "q": "Parc du Bourgailh, Avenue de Beutre, Pessac",
+   "ll": [
+    44.80483,
+    -0.6828
+   ],
+   "src": [
+    "https://www.visorando.com/randonnee-parcs-de-cap-de-bos-et-du-bourgailh-a-pe/",
+    "https://lebonbon.fr/bordeaux/news/20-minutes-bordeaux-poumon-vert-110-hectares-cache-serre-tropicale-3500-plantes/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "lormontermitage",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "See the Garonne from the Parc de l'Ermitage in Lormont",
+   "desc": "The Parc de l'Ermitage Sainte-Catherine in Lormont is a 30-hectare park made from a former quarry, with a lake, cliffs and a belvedere more than 60 m above the Garonne facing the Pont d'Aquitaine. It forms part of the Parc des Coteaux linking Bassens, Lormont, Cenon and Floirac.",
+   "tip": "Free and open all year; take tram A to Lormont La Buttinière and walk about 10 minutes.",
+   "q": "Parc de l'Ermitage Sainte-Catherine, Lormont",
+   "ll": [
+    44.877,
+    -0.5265
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Lormont"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

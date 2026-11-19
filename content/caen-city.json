@@ -1,0 +1,536 @@
+{
+ "new": [
+  {
+   "id": "caenchateau",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk the ramparts of William the Conqueror's Château de Caen",
+   "desc": "Founded around 1060 by William the Conqueror, the château is one of the largest medieval fortified enclosures in Europe, covering about 5.5 hectares. It holds the Musée de Normandie, the Musée des Beaux-Arts and the Exchequer hall, and its walls give views over the city.",
+   "tip": "The grounds and ramparts are free to walk; museum tickets are bought separately. Go late afternoon for the light over the two abbeys.",
+   "q": "Château de Caen, Esplanade de la Paix, Caen",
+   "ll": [
+    49.18583,
+    -0.36167
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Caen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "abbayeauxhommes",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit William the Conqueror's tomb at the Abbaye aux Hommes",
+   "desc": "The Benedictine abbey of Saint-Étienne was founded by William the Conqueror around 1063 and holds his tomb in the abbey church. The monastic buildings seen today date from the 18th century and now serve as Caen's town hall.",
+   "tip": "Entry to the church is free; the guided cloister visit has a small fee. Allow about an hour.",
+   "q": "Abbaye aux Hommes, Esplanade Jean-Marie Louvel, Caen",
+   "ll": [
+    49.18113,
+    -0.37288
+   ],
+   "src": [
+    "https://en.normandie-tourisme.fr/museums-and-heritage-sites/abbaye-aux-hommes/",
+    "https://www.routard.com/fr/guide/france/normandie/calvados/caen/abbaye-aux-hommes"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "abbayeauxdames",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See Queen Mathilde's tomb at the Abbaye aux Dames",
+   "desc": "Founded around 1060 by Mathilde of Flanders, wife of William the Conqueror, the abbey church of La Trinité still holds her tomb in the choir. Since 1986 the convent buildings have housed the Normandy Regional Council.",
+   "tip": "Guided visits cover the cloister, grand staircase, church and crypt and are booked online through the region's ticket site. Check dates, as the site closes on some official days.",
+   "q": "Abbaye aux Dames, Place Reine Mathilde, Caen",
+   "ll": [
+    49.18671,
+    -0.35377
+   ],
+   "src": [
+    "https://www.guide-tourisme-france.com/VISITER/abbaye-dames--caen-20424.htm",
+    "https://billetterie-abbayeauxdames.normandie.fr/en-GB"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "memorialcaen",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Spend a morning at the Mémorial de Caen peace museum",
+   "desc": "Opened in 1988 on the site of the German command bunker of 1944, the Mémorial covers the Second World War, the Cold War and the Battle of Normandy. It also has gardens of the Allied nations and a Nobel Peace Prize gallery.",
+   "tip": "Open daily 9am to 6pm (closed around Christmas and for a few weeks in January). Plan 3 to 4 hours.",
+   "q": "Mémorial de Caen, Esplanade Général Eisenhower, Caen",
+   "ll": [
+    49.1975,
+    -0.38417
+   ],
+   "src": [
+    "https://www.guide-tourisme-france.com/VISITER/memorial-caen--caen-272.htm",
+    "https://www.lonelyplanet.fr/poi/le-memorial-de-caen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "vaugueuxcaen",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Wander the half-timbered lanes of the Vaugueux quarter",
+   "desc": "The Vaugueux is Caen's medieval port district below the château, mentioned as a faubourg as early as the 11th century. Only its lower streets, with timber-framed houses and cobbled alleys, survived the bombing of June 1944.",
+   "tip": "Start at the foot of the château and follow rue du Vaugueux and rue Saint-Manvieu. Many crêperies and small restaurants line the lanes.",
+   "q": "Quartier du Vaugueux, Caen",
+   "ll": [
+    49.18564,
+    -0.35972
+   ],
+   "src": [
+    "https://edito.seloger.com/node/21337",
+    "https://ryo.co/fr/destinations/france/lieux/quartier-vaugueux/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "saintpierrecaen",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the spire and apse of Église Saint-Pierre",
+   "desc": "Built from the early 13th to the 16th century opposite the château, Saint-Pierre is known for its Renaissance apse and its tall spire. The spire was destroyed in 1944 and has since been rebuilt. It has been a monument historique since 1840.",
+   "tip": "Walk around the outside to see the sculpted apse chapels. Check the church is open, as parts have been under renovation.",
+   "q": "Église Saint-Pierre, Place Saint-Pierre, Caen",
+   "ll": [
+    49.18401,
+    -0.36073
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Church_of_Saint-Pierre,_Caen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mbacaen",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See Perugino's Marriage of the Virgin at the Musée des Beaux-Arts",
+   "desc": "Founded in 1801 and rebuilt in 1971 inside the château grounds, the museum holds Perugino's Marriage of the Virgin (about 1500 to 1504), painted for Perugia cathedral. Its collection also covers Italian, Flemish and French painting.",
+   "tip": "Closed on Tuesdays in most years; check hours on the museum site. Rainy-day option within the château walls.",
+   "q": "Musée des Beaux-Arts de Caen, Le Château, Caen",
+   "ll": [
+    49.18556,
+    -0.3625
+   ],
+   "src": [
+    "https://en.wikipedia.com/wiki/Mus%C3%A9e_des_Beaux-Arts,_Caen",
+    "https://Www.Wikipedia.org/wiki/Marriage_of_the_Virgin_(Perugino)"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ardenneimec",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore the 12th-century Abbaye d'Ardenne at the IMEC",
+   "desc": "Founded in 1121 by Premonstratensian canons, the Abbaye d'Ardenne was restored by OPUS 5 architects and since 2004 houses the IMEC publishing archives. The abbey church now serves as the research library.",
+   "tip": "The grounds and exterior can be visited for free, and the Normandy region runs guided visits of the interior. Bus lines from central Caen reach Saint-Germain-la-Blanche-Herbe.",
+   "q": "Abbaye d'Ardenne, Saint-Germain-la-Blanche-Herbe, Caen",
+   "ll": [
+    49.19601,
+    -0.41319
+   ],
+   "src": [
+    "https://www.europeanheritageawards.eu/winners/rehabilitation-de-labbaye-dardenne-pour-linstallation-de-limec/",
+    "https://www.guide-tourisme-france.com/VISITER/imec-abbaye-ardenne--saint-germain-blanche-herbe-14694.htm"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "escovillecaen",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step into the Renaissance courtyard of the Hôtel d'Escoville",
+   "desc": "Built in the 1530s for the rich merchant Nicolas Le Valois d'Escoville, this Italianate townhouse on Place Saint-Pierre has a four-wing courtyard often cited as one of the finest Renaissance examples in Normandy. It was rebuilt after 1944 and now houses the Caen tourist office.",
+   "tip": "The courtyard is free to enter during tourist-office hours. Combine with a visit to nearby Église Saint-Pierre.",
+   "q": "Hôtel d'Escoville, Place Saint-Pierre, Caen",
+   "ll": [
+    49.1825,
+    -0.36083
+   ],
+   "src": [
+    "https://www.techno-science.net/fr/definitions/hotel-d-escoville",
+    "https://monumentum.fr/monument-historique/pa00111147/caen-ancien-hotel-descoville"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "jardinplantescaen",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stroll the greenhouses of the Jardin des Plantes",
+   "desc": "The botanical garden of Caen dates back to the late 17th century and sits on former quarries of Caen stone, with Victorian-era iron greenhouses and an orangerie from 1834-35. It has been a protected site since 1942 and survived the 1944 bombing.",
+   "tip": "Free to enter; the exotic-plant greenhouses have their own opening hours. Spring and early summer are best for the flower beds.",
+   "q": "Jardin des Plantes de Caen, Place Blot, Caen",
+   "ll": [
+    49.18921,
+    -0.37162
+   ],
+   "src": [
+    "https://monumentum.fr/jardin-remarquable/jar0000238/caen-jardin-des-plantes",
+    "https://www.techno-science.net/fr/definitions/jardin-des-plantes-de-caen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "saintnicolascaen",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find the Romanesque Église Saint-Nicolas by the abbey",
+   "desc": "A former parish church of the Bourg-l'Abbé, built in the 11th century with monks of the Abbaye aux Hommes, and listed as a monument historique in 1913. It was a lead-shot factory and stable after 1792 and now hosts concerts.",
+   "tip": "Open for concerts and some events; the exterior and graveyard are worth a look any time. It is a short walk south of the Abbaye aux Hommes.",
+   "q": "Église Saint-Nicolas, Rue Saint-Nicolas, Caen",
+   "ll": [
+    49.18384,
+    -0.37497
+   ],
+   "src": [
+    "https://www.techno-science.net/fr/definitions/eglise-saint-nicolas-de-caen",
+    "https://www.guide-tourisme-france.com/VISITER/eglise-saint-nicolas--caen-27915.htm"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "grandebouteillecaen",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order tripes à la mode de Caen at La Grande Bouteille",
+   "desc": "A bistronomic table on the Place Courtonne facing Caen's harbour, run by chef Guillaume Bisson, with wood-fire grilling and about 100 wines. Its menu has included the city's classic tripe dish and beef tartare.",
+   "tip": "Lunch and dinner service; book ahead for dinner, and check opening days.",
+   "q": "La Grande Bouteille, Place Courtonne, Caen",
+   "ll": [
+    49.1846,
+    -0.35751
+   ],
+   "src": [
+    "https://www.tendanceouest.com/actualite-383933-bonne-table-a-caen-la-grande-bouteille-une-table-bistronomique",
+    "https://www.tendanceouest.com/actualite-250551-caen-bonne-table-a-caen-la-grande-bouteille"
+   ]
+  },
+  {
+   "id": "embrochecaen",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat a hearty Norman bistro meal at L'Embroche",
+   "desc": "A traditional bistro 200 metres from the château, listed by Gault&Millau at 17 rue Porte au Berger. It serves classic Norman dishes, including tripes, at around 30 euros a head before drinks.",
+   "tip": "Popular with locals, so book for dinner. Try the tripes à la mode de Caen or the spit-roasted meats.",
+   "q": "L'Embroche, Rue Porte au Berger, Caen",
+   "ll": [
+    49.18528,
+    -0.36012
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/restaurant/l-embroche",
+    "https://caenlamer-tourisme.com/restaurants/lembroche"
+   ]
+  },
+  {
+   "id": "lemancelcaen",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine within the château walls at Le Mancel",
+   "desc": "The Mancel restaurant is set in the grounds of Caen's ducal castle next to the Musée des Beaux-Arts, with a courtyard facing a garden. The cooking is French with Norman touches, and listings include tripes among its dishes.",
+   "tip": "Terrace in fine weather; Saturday jazz evenings have been reported. Confirm the current hours and chef on the restaurant's site.",
+   "q": "Le Mancel Restaurant du Château, Enceinte du Château, Caen",
+   "ll": [
+    49.18583,
+    -0.36139
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/en/restaurant/le-mancel-restaurant-du-chateau",
+    "https://www.caenlamer-tourisme.com/groups-restaurants/le-mancel/"
+   ]
+  },
+  {
+   "id": "guilmetcaen",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste the vanilla flan and fraisier at Alban Guilmet",
+   "desc": "Pâtisserie Alban Guilmet was founded in 2011 by a former Pierre Hermé pastry chef and is known for a creamy Madagascar vanilla flan, the fraisier Anaïs and chocolates. The main boutique is on boulevard Yves-Guillou.",
+   "tip": "The rue Saint-Jean shop's status is unclear in 2025-26, so go to the boulevard Yves-Guillou address. Sells out of popular cakes by late afternoon.",
+   "q": "Alban Guilmet, Boulevard Yves Guillou, Caen",
+   "ll": [
+    49.17242,
+    -0.38792
+   ],
+   "src": [
+    "https://www.myboulange.fr/14/caen/patisserie-alban-guilmet-44686",
+    "https://fr.gaultmillau.com/en/artisans/patisserie-alban-guilmet"
+   ]
+  },
+  {
+   "id": "rambaudcaen",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try the Paris-Caen pastry at Atelier Rambaud",
+   "desc": "Pastry chef Quentin Rambaud trained at Ferrandi Paris and opened this shop on rue Froide, near the Place Saint-Pierre. It makes seasonal tarts, a Pavlova and the Paris-Caen, with pastries inspired by local landmarks.",
+   "tip": "Closed Mondays; check hours before visiting. Small shop, so order a few pastries to eat at the nearby château.",
+   "q": "Atelier Rambaud, 39 Rue Froide, Caen",
+   "ll": [
+    49.18306,
+    -0.36417
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/artisans/atelier-rambaud",
+    "https://www.tendanceouest.com/actualite-387092-caen-quentin-rambaud-patissier-du-ministere-des-finances-a-la-rue-froide.html"
+   ]
+  },
+  {
+   "id": "gabycreperiecaen",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat buckwheat galettes at Crêperie Moderne Gaby",
+   "desc": "A creperie on rue Porte au Berger, steps from the Vaugueux quarter, known for inventive galettes and a good choice of Norman ciders. Reviewers rate it around 4.8 out of 5.",
+   "tip": "Order a galette with a bolée of artisanal cider. Phone ahead as the room is small.",
+   "q": "Crêperie Moderne Gaby, 21 Rue Porte au Berger, Caen",
+   "ll": [
+    49.1853,
+    -0.35989
+   ],
+   "src": [
+    "https://www.sluurpy.fr/caen/restaurant/8545513/cr%C3%AAperie-moderne-gaby",
+    "https://wanderlog.com/place/details/2447751/crêperie-gaby"
+   ]
+  },
+  {
+   "id": "boumbapcaen",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sip a calvados cocktail at Boumbap",
+   "desc": "Boumbap is a food-focused cocktail bar at passage du Grand-Turc, opened by Nicolas Kermeur and Lili Bonneau as successor to his earlier bar. It puts calvados back into mixology and is listed in the 2025 Fooding guide.",
+   "tip": "A DJ plays on Friday and Saturday evenings; plates are shared. Check current hours on its social pages.",
+   "q": "Boumbap, 53 Passage du Grand-Turc, Caen",
+   "ll": [
+    49.1825,
+    -0.36306
+   ],
+   "src": [
+    "https://drinkcalvados.com/en/news/calvados-anchored-at-boumbap-in-caen/",
+    "https://www.tendanceouest.com/actualite-415378-bonne-table-a-caen-boumbap-etablissement-audiophile-en-centre-ville"
+   ]
+  },
+  {
+   "id": "sacreemathildecaen",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste Norman produce at Sacrée Mathilde in the Vaugueux",
+   "desc": "A restaurant on rue du Vaugueux serving traditional Norman cooking with products from Normandy producers, listed by the Caen la mer tourist office. It sits in the medieval quarter under the château.",
+   "tip": "Book on weekend evenings. Try a regional cheese plate or a dish with Norman cream and cider.",
+   "q": "Sacrée Mathilde, Rue du Vaugueux, Caen",
+   "ll": [
+    49.18535,
+    -0.35946
+   ],
+   "src": [
+    "https://caenlamer-tourisme.com/restaurants/sacree-mathilde",
+    "https://www.caenlamer-tourisme.com/?p=28640"
+   ]
+  },
+  {
+   "id": "collineoiseauxcaen",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the Colline aux Oiseaux gardens and rose garden",
+   "desc": "A 17-hectare landscaped park on a former landfill, opened in 1994 for the 50th anniversary of D-Day, with a rose garden, maze and a panorama over Caen. An AccroCamp treetop adventure course has opened there.",
+   "tip": "Free entry via avenue de l'Amiral Mountbatten, next to the Mémorial. Roses peak in June.",
+   "q": "Parc de la Colline aux Oiseaux, Avenue de l'Amiral Mountbatten, Caen",
+   "ll": [
+    49.19798,
+    -0.39242
+   ],
+   "src": [
+    "https://www.cirkwi.com/fr/point-interet/289210-parc-de-la-colline-aux-oiseaux",
+    "https://www.tendanceouest.com/actualite-384266-parc-la-colline-aux-oiseaux-l-ecrin-de-verdure-de-caen.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "presquileboatcaen",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cruise the Caen canal on the bateau-mouche La Presqu'île",
+   "desc": "A small 20-seat boat runs a commented tour of about 40 to 45 minutes on the Caen-Ouistreham canal and Bassin Saint-Pierre, covering the canal's history and nearby landmarks. It leaves from the Presqu'île quays.",
+   "tip": "Departure is guaranteed with five or more paying passengers; book via the Caen la mer tourist office as schedules change.",
+   "q": "Quai de Normandie, La Presqu'île, Caen",
+   "ll": [
+    49.18368,
+    -0.34486
+   ],
+   "src": [
+    "https://www.caenlamer-tourisme.com/leisure/guided-trip-on-the-canal-on-the-la-presquile-boat/",
+    "https://www.tendanceouest.com/actualite-326223-bateau-balades-sur-le-canal-de-caen"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "kayakcanalcaen",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Paddle a kayak on the Caen canal from Beauregard",
+   "desc": "A guided 1h30 kayak outing starts at the foot of the Château de Beauregard in Hérouville-Saint-Clair and heads up the canal toward the port of Caen, watching local wildlife.",
+   "tip": "Book in advance via the Caen la mer tourist office; schedules are seasonal.",
+   "q": "Château de Beauregard, Ancienne route de Ouistreham, Hérouville-Saint-Clair",
+   "ll": [
+    49.21414,
+    -0.31215
+   ],
+   "src": [
+    "https://caenlamer-tourisme.com/agenda/balade-en-kayak-a-la-decouverte-du-canal-de-caen",
+    "https://www.calvados-tourisme.co.uk/offer/beauregard-sports-nature-hcck/buissonnier/"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "beauregardfestival",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Catch a gig at Festival Beauregard in Hérouville-Saint-Clair",
+   "desc": "Festival Beauregard is a multi-day music festival held in early July in the 23-hectare park of the Château de Beauregard. The 2026 edition was its 18th and drew acts including Pixies, Pulp and Orelsan.",
+   "tip": "Tickets go on sale online at festivalbeauregard.com well ahead; day passes were reported from around 69 euros.",
+   "q": "Château de Beauregard, 568 Ancienne Route de Ouistreham, Hérouville-Saint-Clair",
+   "ll": [
+    49.21414,
+    -0.31215
+   ],
+   "src": [
+    "https://festivalbeauregard.com/",
+    "https://www.sortiraparis.com/en/getaways-from-paris/northwest/articles/50324-beauregard-festival-2026-full-lineup-and-concert-schedule"
+   ],
+   "months": [
+    7
+   ]
+  },
+  {
+   "id": "marchesaintsauveurcaen",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Friday market on Place Saint-Sauveur",
+   "desc": "The Friday morning market takes place on Caen's oldest square, Place Saint-Sauveur, with well over a hundred stalls of local produce. It sits by the Vieux Saint-Sauveur church.",
+   "tip": "Open Friday morning from about 7:30 to 13:30; come early for the best choice.",
+   "q": "Place Saint-Sauveur, Caen",
+   "ll": [
+    49.1828,
+    -0.36901
+   ],
+   "src": [
+    "https://www.caenlamer-tourisme.com/experiences/a-spot-of-shopping-at-saint-sauveur-market-in-caen/",
+    "https://www.caenlamer-tourisme.com/eat-sleep/eating-out/markets/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "marchequaivendeuvrecaen",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Shop the big Sunday market along the Bassin Saint-Pierre",
+   "desc": "Caen's Sunday market stretches along the Bassin Saint-Pierre quay, Place Courtonne and Quai Vendeuvre, with 400 to 450 traders and one of France's largest food markets by some counts.",
+   "tip": "Sunday morning until about 14:00; combine with brunch on the Place Courtonne.",
+   "q": "Quai Vendeuvre, Caen",
+   "ll": [
+    49.18154,
+    -0.35276
+   ],
+   "src": [
+    "https://www.tendanceouest.com/actualite-402161-calvados-a-caen-ou-peut-on-faire-son-marche-de-plein-air",
+    "https://www.caenlamer-tourisme.com/eat-sleep/eating-out/markets/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "smcaenmatch",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Watch a Stade Malherbe match at Stade Michel d'Ornano",
+   "desc": "The home of SM Caen since 3 June 1993, the stadium holds about 20,300 spectators and replaced the old Stade de Venoix. It is named after Michel d'Ornano, a former Basse-Normandie regional president.",
+   "tip": "Buy tickets on the club's site; the stadium is served by Caen's tram and bus network.",
+   "q": "Stade Michel d'Ornano, Rue Joseph Philippe, Caen",
+   "ll": [
+    49.17949,
+    -0.39695
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Stade_Michel_d%27Ornano",
+    "https://stadiumdb.com/stadiums/fra/stade_michel_dornano"
+   ],
+   "months": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "id": "jardincanadienscaen",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Hike the Jardin des Canadiens to the Abbaye d'Ardenne",
+   "desc": "A signposted walk on the north-western edge of Caen links the Jardin des Canadiens with the former Abbaye d'Ardenne, a site tied to the 1944 Battle of Normandy. It passes the abbey grounds that now host the IMEC.",
+   "tip": "Follow the Visorando route; wear sturdy shoes and allow two hours or so.",
+   "q": "Jardin des Canadiens, rue d'Ardenne, Saint-Germain-la-Blanche-Herbe",
+   "ll": [
+    49.19649,
+    -0.41389
+   ],
+   "src": [
+    "https://www.visorando.com/randonnee-le-jardin-des-canadiens-et-l-ancienne-ab/"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

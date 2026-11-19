@@ -1,0 +1,860 @@
+{
+ "new": [
+  {
+   "id": "nantesduchateau",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk the ramparts of the Château des ducs de Bretagne",
+   "desc": "The château was rebuilt from 1457 by Francis II and Anne of Brittany and now houses the Musée d'histoire de Nantes, covering the Atlantic slave trade, industry and the wars. The moat, ramparts and gardens are open to everyone.",
+   "tip": "The courtyard and ramparts are free; the museum needs a ticket and is closed on Mondays.",
+   "q": "Château des ducs de Bretagne, 4 Place Marc Elder, Nantes",
+   "ll": [
+    47.21634,
+    -1.54952
+   ],
+   "src": [
+    "https://www.enpaysdelaloire.com/visites/chateaux/chateau-des-ducs-de-bretagne-musee-d-histoire-de-nantes",
+    "https://www.guide-tourisme-france.com/VISITER/chateau-ducs-bretagne--nantes-15722.htm"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "grandelephantnantes",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Grand Éléphant walk at Les Machines de l'île",
+   "desc": "The 12-metre, 48-tonne wooden and steel elephant was designed by François Delarozière and Pierre Orefice and first walked on 30 June 2007. It carries up to 50 passengers along the old shipyard quays.",
+   "tip": "Maintenance stop from 2 November 2026 to 26 February 2027; the Galerie des Machines stays open. Book rides weeks ahead.",
+   "q": "Galerie des Machines, Les Machines de l'île, Boulevard Léon Bureau, Nantes",
+   "ll": [
+    47.20614,
+    -1.56436
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Les_Machines_de_l'île"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "carrouselmarins",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Ride the Carrousel des Mondes Marins",
+   "desc": "A 25-metre-high carousel of sea creatures on three levels (ocean, seabed, abyss) opened in 2012 on the Loire bank by the same creators as the elephant. Passengers operate parts of the manta ray, squid and crab themselves.",
+   "tip": "Tickets are separate from the Galerie and the elephant; the Pass Nantes covers it. Operation depends on the weather.",
+   "q": "Carrousel des Mondes Marins, Boulevard Léon Bureau, Île de Nantes, Nantes",
+   "ll": [
+    47.2059,
+    -1.56778
+   ],
+   "src": [
+    "https://www.lesmachines-nantes.fr/en/discover/the-carrousel-des-mondes-marins",
+    "https://www.levoyageanantes.fr/en/activities/carrousel-des-mondes-marins/"
+   ]
+  },
+  {
+   "id": "passagepommeraye",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb the stairs of Passage Pommeraye",
+   "desc": "Built by notary Louis Pommeraye between 1841 and 1843, this three-level glass-roofed shopping arcade links rue de la Fosse and rue Santeuil, bridging a 9.4 m drop. It has been a monument historique since 1976.",
+   "tip": "Free to enter at any time; the shops open on normal retail hours.",
+   "q": "Passage Pommeraye, Rue de la Fosse, Nantes",
+   "ll": [
+    47.21346,
+    -1.55944
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Passage_Pommeraye"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nantescathedrale",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the Cathédrale Saint-Pierre-et-Saint-Paul",
+   "desc": "The Gothic cathedral holds the Renaissance tomb of Francis II of Brittany, carved by Michel Colombe from 1507. A fire damaged it on 18 July 2020 and restoration work on the tomb has been under way.",
+   "tip": "Free entry; check the official pages first as parts of the interior and crypt have had restricted access.",
+   "q": "Cathédrale Saint-Pierre-et-Saint-Paul, Place Saint-Pierre, Nantes",
+   "ll": [
+    47.21883,
+    -1.54976
+   ],
+   "src": [
+    "https://www.culture.gouv.fr/en/Regions/Drac-Pays-de-la-Loire/Historical-monuments/Nantes-Cathedral/The-monument",
+    "https://metropole.nantes.fr/actualites/cathedrale-les-grandes-manoeuvres-ont-debute-pour-restaurer-le-tombeau-de-francois-ii"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "memorialesclavage",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk the Mémorial de l'abolition de l'esclavage",
+   "desc": "Designed by Krzysztof Wodiczko and Julian Bonder and inaugurated in 2012, this memorial lines the Quai de la Fosse with an underground passage about 90 metres long. It recalls Nantes' role as France's leading slave-trading port.",
+   "tip": "Free. Open about 9:00 to 18:00 (to 20:00 from mid-May to mid-September); closes during Loire floods.",
+   "q": "Mémorial de l'abolition de l'esclavage, Quai de la Fosse, Nantes",
+   "ll": [
+    47.20948,
+    -1.56453
+   ],
+   "src": [
+    "https://metropole.nantes.fr/actualites/le-memorial-de-l-abolition-de-l-esclavage-monument-politique-et-artistique",
+    "https://en.wikipedia.org/wiki/Memorial_to_the_Abolition_of_Slavery"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "jardinplantesnantes",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stroll the Jardin des Plantes and its camellias",
+   "desc": "A municipal botanical garden of about 7 hectares beside the station, known for its magnolias and camellias and for greenhouses and installations from the Voyage à Nantes. The grounds are free every day.",
+   "tip": "Camellias flower in winter; the greenhouses charge a small fee.",
+   "q": "Jardin des Plantes, Rue Stanislas Baudry, Nantes",
+   "ll": [
+    47.21985,
+    -1.54472
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Jardin_des_plantes_de_Nantes",
+    "https://www.levoyageanantes.fr/en/places/jardin-des-plantes/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "museeartsnantes",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore the Musée d'arts de Nantes",
+   "desc": "Reopened in June 2017 after a major extension, the former Musée des Beaux-Arts spans medieval to contemporary art in a 19th-century palace and a modern cube.",
+   "tip": "Open 11:00 to 19:00, closed Tuesday, late opening to 21:00 on Thursday.",
+   "q": "Musée d'arts de Nantes, 10 Rue Georges Clemenceau, Nantes",
+   "ll": [
+    47.21881,
+    -1.5466
+   ],
+   "src": [
+    "https://en.francevelotourisme.com/leasure/museums-attractions/musee-d-arts-de-nantes",
+    "https://www.techno-science.net/fr/definitions/musee-des-beaux-arts-de-nantes"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "maisonradieusereze",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit Le Corbusier's Maison Radieuse in Rezé",
+   "desc": "The second of Le Corbusier's Unités d'Habitation was built in 1953-55 and listed as a monument historique in 2001. It is still a private residential building.",
+   "tip": "Only guided visits arranged through Rezé are allowed; tram line 3 stops at Espace Diderot.",
+   "q": "Maison Radieuse Le Corbusier, 9 Boulevard Le Corbusier, Rezé",
+   "ll": [
+    47.18867,
+    -1.56827
+   ],
+   "src": [
+    "https://metropole.nantes.fr/carnet-de-balades-la-maison-radieuse-le-corbusier-reze",
+    "https://www.levoyageanantes.fr/en/places/la-maison-radieuse/"
+   ]
+  },
+  {
+   "id": "julesvernemuseenantes",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Musée Jules Verne on the Butte Sainte-Anne",
+   "desc": "Housed in a 19th-century house above the Loire, the museum keeps manuscripts of the Voyages extraordinaires, first editions and models of his inventions. Verne was born in Nantes in 1828.",
+   "tip": "Closed Tuesdays; take tram line 1 to Gare Maritime.",
+   "q": "Musée Jules Verne, 3 Rue de l'Hermitage, Nantes",
+   "ll": [
+    47.20163,
+    -1.57735
+   ],
+   "src": [
+    "https://metropole.nantes.fr/actualites/le-musee-jules-verne-enrichit-ses-collections",
+    "https://www.lonelyplanet.com/france/southwestern-france/nantes/attractions/musee-jules-verne/a/poi-sig/422311/359296"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ilefeydeaunantes",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Wander the shipowners' mansions of Île Feydeau",
+   "desc": "Laid out from 1723 on marshland, this former island is lined with tuffeau mansions built for 18th-century shipowners and merchants, whose fortunes came partly from the slave trade. The old arms of the Loire were filled in during the 1920s-30s.",
+   "tip": "Free; follow Rue Kervégan and look for the leaning facades.",
+   "q": "Île Feydeau, Rue Kervégan, Nantes",
+   "ll": [
+    47.21304,
+    -1.55808
+   ],
+   "src": [
+    "https://www.lonelyplanet.fr/poi/bretagne-laloireatlantiquebretagneexp-ile-feydeau",
+    "https://www.techno-science.net/fr/definitions/ile-feydeau"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "basiliquesaintnicolas",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the neo-Gothic Basilique Saint-Nicolas",
+   "desc": "Built from 1844 to 1876 with a spire of around 100 metres, the basilica was damaged by the 1943 bombing and restored in the following decades. It stands beside Place Royale.",
+   "tip": "Free; ideal to pair with a walk on Rue Crébillon.",
+   "q": "Basilique Saint-Nicolas, Place Félix Fournier, Nantes",
+   "ll": [
+    47.21552,
+    -1.55778
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Basilica_of_St._Nicolas,_Nantes"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "tourluetlieuunique",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb the Tour LU at Le Lieu Unique",
+   "desc": "The 1909 tower of the Lefèvre-Utile biscuit factory by architect Auguste Bluysen survives beside the Lieu Unique arts centre, opened in 2000. A viewing platform gives a panorama of Nantes.",
+   "tip": "The bar and restaurant were reported closed for works in 2026; check before going.",
+   "q": "Le Lieu Unique, 2 Quai Ferdinand Favre, Nantes",
+   "ll": [
+    47.2153,
+    -1.54561
+   ],
+   "src": [
+    "https://www.terre-net.fr/2004/article/3369/la-tour-lu-grandeur-du-passe-industriel-de-nantes-s-offre-au-public",
+    "https://en.wikipedia.com/wiki/Le_Lieu_Unique"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "anneauxburen",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See Buren's Anneaux at dusk on Quai des Antilles",
+   "desc": "Les Anneaux by Daniel Buren and Patrick Bouchain were created for the Estuaire festival in 2007 at the tip of the Île de Nantes. Rings light up in blue, red and green at nightfall.",
+   "tip": "Free; tram line 1 to Chantiers navals, then walk past the Hangar à Bananes.",
+   "q": "Les Anneaux (Buren), Quai des Antilles, Nantes",
+   "ll": [
+    47.20196,
+    -1.57279
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Les_Anneaux_(Buren)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "pendulereze",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find Roman Signer's Le Pendule in Trentemoult",
+   "desc": "A permanent Estuaire artwork by Roman Signer, a giant pendulum hanging on the facade of a former concrete plant at Rezé. It is paused in strong wind.",
+   "tip": "Take the Navibus to Trentemoult and walk along the Loire.",
+   "q": "Le Pendule, Trentemoult, Rezé",
+   "ll": [
+    47.19372,
+    -1.58581
+   ],
+   "src": [
+    "https://www.estuaire.info/en/oeuvre/le-pendule-roman-signer",
+    "https://www.levoyageanantes.fr/en/artworks/le-pendule/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "placeroyalenantes",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the Loire fountain on Place Royale",
+   "desc": "The 1865 monumental fountain symbolises Nantes, the Loire and its tributaries (Erdre, Sèvre, Cher and Loiret) in white marble and bronze figures. It is a listed monument; refurbishment of its base is planned for 2026-27.",
+   "tip": "Free; a lively meeting spot between Rue Crébillon and the cathedral quarter.",
+   "q": "Place Royale, Nantes",
+   "ll": [
+    47.2145,
+    -1.55872
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Place_Royale,_Nantes",
+    "https://metropole.nantes.fr/actualites/la-fontaine-de-la-place-royale-retrouve-ses-statues"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gruetitanjaune",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the yellow Titan crane in the Parc des Chantiers",
+   "desc": "Built in 1954 for the Dubigeon shipyards, the yellow crane served until the yards closed in 1987 and became a protected heritage building. The park around it keeps the launch slipways visible from the Loire bank.",
+   "tip": "A safety perimeter was set up in 2023 after the cabin weathered; view from outside.",
+   "q": "Parc des Chantiers, Grue Titan jaune, Boulevard Léon Bureau, Nantes",
+   "ll": [
+    47.20533,
+    -1.56704
+   ],
+   "src": [
+    "https://levoyageanantes.fr/en/places/titan-cranes",
+    "https://www.culture.gouv.fr/Regions/Drac-Pays-de-la-Loire/Actualites/La-grue-Titan-jaune-et-la-grue-des-anciens-chantiers-Dubigeon-de-Nantes-deviennent-monuments-historiques"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "trentemoultvillage",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Wander the painted lanes of Trentemoult",
+   "desc": "A former fishermen's village in Rezé on the Loire is known for brightly painted houses, palm trees and artists' studios. Lanes are car-free and quays hold terraces.",
+   "tip": "Take the Navibus from Gare Maritime; weekends are busiest.",
+   "q": "Village de Trentemoult, Rezé",
+   "ll": [
+    47.19472,
+    -1.58167
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Trentemoult"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "talensacmarket",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Graze through the Halles de Talensac",
+   "desc": "Nantes' best-known covered market opened in 1937 and has about 150 traders, including pork butchers and fishmongers.",
+   "tip": "Open Tue-Fri 8:00 to 13:00, Sat-Sun to 13:30; a Thursday evening opening was launched in 2019.",
+   "q": "Marché de Talensac, Rue Talensac, Nantes",
+   "ll": [
+    47.2212,
+    -1.55792
+   ],
+   "src": [
+    "https://metropole.nantes.fr/que-faire-a-nantes/les-marches-incontournables-de-la-metropole-nantaise",
+    "https://www.lebonbon.fr/nantes/news/le-marche-de-talensac-a-eu-80-ans/"
+   ]
+  },
+  {
+   "id": "brasseriecigale",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine under Art Nouveau tiles at La Cigale",
+   "desc": "Opened in 1895 on Place Graslin and listed since 1964, this brasserie has Art Nouveau ceramics by Émile Libaudière and was a Surrealist hangout. Daily menu around 30 euros.",
+   "tip": "No reservations according to Wikipedia; go off-peak.",
+   "q": "Brasserie La Cigale, 4 Place Graslin, Nantes",
+   "ll": [
+    47.21273,
+    -1.5621
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/La_Cigale_(brasserie)"
+   ]
+  },
+  {
+   "id": "gateaunantaisdebotte",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste a rum-soaked gâteau nantais at Debotté",
+   "desc": "Gâteau nantais is an almond and rum cake with a rum-lime glaze, and Debotté is the most-cited pâtisserie for it.",
+   "tip": "Order ahead for the heavily rum-soaked version.",
+   "q": "Gautier-Debotté, centre-ville, Nantes",
+   "ll": [
+    47.21372,
+    -1.55872
+   ],
+   "src": [
+    "https://www.gillespudlowski.com/135671/produits/nantes-pause-sucree-chez-debotte",
+    "https://lebonbon.fr/nantes/les-tops-food-et-drink/top-10-des-specialites-culinaires-nantaises/"
+   ]
+  },
+  {
+   "id": "berlingotbonte",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Buy berlingots nantais at Maison Bonté",
+   "desc": "Berlingots nantais are pyramid-shaped hard sweets; Maison Bonté is the long-standing maker and opened a concept store in Saint-Herblain on rue Olympe de Gouges.",
+   "tip": "Production moved to Boufféré in 2011, so the shop is the place to buy.",
+   "q": "Confiserie Bonté, 20 Rue Olympe de Gouges, Saint-Herblain",
+   "ll": [
+    47.23055,
+    -1.64877
+   ],
+   "src": [
+    "https://mapstr.com/place/K32lGa3pvTg"
+   ]
+  },
+  {
+   "id": "crepehebken",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order a buckwheat galette at Crêperie Heb-Ken",
+   "desc": "Heb-Ken serves galettes, with gluten-free buckwheat prepared in a separate kitchen according to listings, on rue de Guérande.",
+   "tip": "Prices are higher than average; closed Sunday per one listing.",
+   "q": "Crêperie Heb-Ken, 5 Rue de Guérande, Nantes",
+   "ll": [
+    47.2148,
+    -1.5589
+   ],
+   "src": [
+    "https://lestablesdenantes.fr/en/restaurants/creperie-heb-ken",
+    "https://lebonbon.fr/nantes/les-tops-food-et-drink/creperie-nantes-les-meilleures-adresses-pour-une-bonne-galette/"
+   ]
+  },
+  {
+   "id": "loupgalette",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Queue for a galette at Le Loup, le Renard et la Galette",
+   "desc": "A busy crêperie in the Bouffay quarter that takes no bookings; the team is known for generous galettes.",
+   "tip": "Come early; hours vary and some sources give two different street addresses.",
+   "q": "Le Loup, le Renard et la Galette, Rue de la Juiverie, Nantes",
+   "ll": [
+    47.2156,
+    -1.5523
+   ],
+   "src": [
+    "https://lestablesdenantes.fr/en/restaurants/le-loup-le-renard-et-la-galette",
+    "https://www.breizh-info.com/2018/12/27/108517/nantes-creperie-loup-renard-galette"
+   ]
+  },
+  {
+   "id": "beillevairenantes",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste raw-milk butter at Fromagerie Beillevaire",
+   "desc": "The first Beillevaire boutique, founded by Pascal Beillevaire, sells cheeses, cream and raw-milk butter from rue de la Contrescarpe.",
+   "tip": "Closed Sundays and Mondays per one listing.",
+   "q": "Fromagerie Beillevaire, 8 Rue de la Contrescarpe, Nantes",
+   "ll": [
+    47.21477,
+    -1.55931
+   ],
+   "src": [
+    "https://www.gillespudlowski.com/135734/produits/nantes-la-premiere-de-beillevaire",
+    "https://www.atlantic-loire-valley.com/objet_touristique/19930"
+   ]
+  },
+  {
+   "id": "guinguettetrentemoult",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat fish by the Loire at La Guinguette de Trentemoult",
+   "desc": "Opened in June 2023 on the quay with a Loire-facing terrace, praised for fish dishes.",
+   "tip": "Reserve for summer weekends; Navibus from Gare Maritime.",
+   "q": "La Guinguette, 20 Quai Marcel Boissard, Rezé",
+   "ll": [
+    47.19493,
+    -1.58287
+   ],
+   "src": [
+    "https://levoyageanantes.fr/en/places/la-guinguette",
+    "https://mapstr.com/place/V46XtxwyNEg"
+   ]
+  },
+  {
+   "id": "bourricheoysters",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Pair oysters with Muscadet at La Bourriche",
+   "desc": "A wine bar on rue Scribe serving oysters from selected producers with Muscadet and white Loire wines by the glass.",
+   "tip": "Evening is best; order a Muscadet sur lie.",
+   "q": "La Bourriche, Rue Scribe, Nantes",
+   "ll": [
+    47.2139,
+    -1.5624
+   ],
+   "src": [
+    "https://tablejourney.com/france/nantes/wine-bars/la-bourriche/",
+    "https://lebonbon.fr/nantes/les-tops-food-et-drink/les-tops-des-bars-a-vins-nantais/"
+   ]
+  },
+  {
+   "id": "carlichocolatnantes",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Buy chocolates at Maison Carli",
+   "desc": "A chocolate and pastry house present in Nantes since 1948, with its main shop on rue de la Paix.",
+   "tip": "Sources differ on the exact street number; check the map.",
+   "q": "Maison Carli, 5 Rue de la Paix, Nantes",
+   "ll": [
+    47.21454,
+    -1.55438
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/4479428/chocolaterie-et-pâtisserie-carli-nantes-paix",
+    "https://fr.gaultmillau.com/fr/artisans/carli"
+   ]
+  },
+  {
+   "id": "aerofabtaproom",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sip a local beer at the AEROFAB taproom",
+   "desc": "A taproom at Hangar à Bananes since April 2025 with 23 taps of house and guest beer facing the Loire.",
+   "tip": "Open evenings; check hours.",
+   "q": "AERoFAB Taproom, 21 Quai des Antilles, Hangar à Bananes, Nantes",
+   "ll": [
+    47.20058,
+    -1.57348
+   ],
+   "src": [
+    "https://tablejourney.com/france/nantes/breweries/aerofab-taproom/",
+    "https://fr.wikipedia.org/wiki/Hangar_à_bananes"
+   ]
+  },
+  {
+   "id": "mashuptetehaute",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink a Tête Haute beer at the Mashup brewpub",
+   "desc": "The Île de Nantes brewpub of Tête Haute, with glass walls onto the tanks and a kitchen based on local produce.",
+   "tip": "Opening status was not confirmed; check before going.",
+   "q": "Mashup, 63 Boulevard de la Prairie au Duc, Nantes",
+   "ll": [
+    47.2042,
+    -1.56395
+   ],
+   "src": [
+    "https://www.lejournaldesentreprises.com/article/la-brasserie-tete-haute-va-ouvrir-un-brewpub-sur-lile-de-nantes-2072652",
+    "https://lebonbon.fr/nantes/les-tops-food-et-drink/brasseries-nantes-deguster-biere-artisanale-locale/"
+   ]
+  },
+  {
+   "id": "lulurouget",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Book a tasting menu at LuluRouget",
+   "desc": "A one-star Michelin restaurant by chef Ludovic Pouzelgues near the Machines de l'île, rated three toques by Gault&Millau.",
+   "tip": "Reserve ahead.",
+   "q": "LuluRouget, Nantes",
+   "ll": [
+    47.2048,
+    -1.562
+   ],
+   "src": [
+    "https://guide.michelin.com/lu/fr/pays-de-la-loire/nantes/restaurant/lulurouget",
+    "https://www.enprimeurclub.com/restaurants/lulurouget"
+   ]
+  },
+  {
+   "id": "labbrewerychantenay",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste beer at Little Atlantique Brewery",
+   "desc": "Brewery and taproom in a converted 19th-century oil mill in Bas-Chantenay.",
+   "tip": "Check opening times.",
+   "q": "Little Atlantique Brewery, Bas-Chantenay, Nantes",
+   "ll": [
+    47.19612,
+    -1.58903
+   ],
+   "src": [
+    "https://mapstr.com/place/LanHbuDUwd",
+    "https://lebonbon.fr/nantes/les-tops-food-et-drink/brasseries-nantes-deguster-biere-artisanale-locale/"
+   ]
+  },
+  {
+   "id": "petiteboulangeriefelix",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Buy bread at La Petite Boulangerie, Place Saint-Félix",
+   "desc": "Bakery founded by a Meilleur Ouvrier de France baker working organic grains; its gâteau nantais needs ordering ahead.",
+   "tip": "Order the rum cake in advance.",
+   "q": "La Petite Boulangerie, Place Saint-Félix, Nantes",
+   "ll": [
+    47.22097,
+    -1.55721
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/artisans/la-petite-boulangerie",
+    "https://tablejourney.com/france/nantes/hidden-gems/marguerite/"
+   ]
+  },
+  {
+   "id": "erdrecruise",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cruise the Erdre with Bateaux Nantais",
+   "desc": "Bateaux Nantais has sailed the Erdre since 1969 from the gare fluviale on the quai de la Motte Rouge, with sightseeing, aperitif and meal cruises toward Sucé-sur-Erdre.",
+   "tip": "Sightseeing about 1h30; aperitif cruises June to September.",
+   "q": "Bateaux Nantais, Quai de la Motte Rouge, Nantes",
+   "ll": [
+    47.22797,
+    -1.55167
+   ],
+   "src": [
+    "https://pornichet.fr/en/bateaux-nantais",
+    "https://www.lesrestos.com/critiques/tous-les-gouts/beaucoup/article/croisieres-gastronomiques-sur-l-erdre"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "navibustrentemoult",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Take the Navibus across the Loire to Trentemoult",
+   "desc": "Navibus N1 crosses the Loire between Gare Maritime and Trentemoult in about 10 minutes, part of the TAN network.",
+   "tip": "The south landing moved to Trentemoult-Sablières in November 2025.",
+   "q": "Gare Maritime, Quai Ernest-Renaud, Nantes",
+   "ll": [
+    47.20589,
+    -1.57384
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Quai_Ernest-Renaud"
+   ]
+  },
+  {
+   "id": "lignevertenantes",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Follow the Ligne verte of the Voyage à Nantes",
+   "desc": "A green line painted on the pavements links over 70 artistic and heritage stops across the city; start at the tourist office by the château.",
+   "tip": "Free; length quoted from 12 to over 20 km.",
+   "q": "Office de Tourisme de Nantes, 9 Rue des États, Nantes",
+   "ll": [
+    47.21576,
+    -1.55053
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Rue_des_États_(Nantes)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "follejourneenantes",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Hear classical concerts at La Folle Journée",
+   "desc": "A five-day classical music festival at the Cité des Congrès; the 33rd edition is 27 to 31 January 2027 with ticket sales opening 5 December 2026.",
+   "tip": "Book early.",
+   "q": "Cité des Congrès de Nantes, 5 Rue de Valmy, Nantes",
+   "ll": [
+    47.2132,
+    -1.542
+   ],
+   "src": [
+    "https://metropole.nantes.fr/actualites/a-la-folle-journee-de-nantes-2027-un-hommage-a-beethoven",
+    "https://www.jds.fr/nantes/concerts/musique-classique/la-folle-journee-173194_A"
+   ],
+   "months": [
+    1,
+    2
+   ]
+  },
+  {
+   "id": "rdverdre",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Catch the Rendez-vous de l'Erdre jazz festival",
+   "desc": "Free jazz and pleasure-boating festival created in 1986, with Nantes stages on the Île de Versailles and Erdre quays in late August.",
+   "tip": "Dates change yearly; 2026 ran 24 to 30 August.",
+   "q": "Île de Versailles, Nantes",
+   "ll": [
+    47.22594,
+    -1.55448
+   ],
+   "src": [
+    "https://metropole.nantes.fr/rdv-erdre",
+    "https://lebonbon.fr/nantes/festivals-et-concerts/jazz-belle-plaisance-rdv-de-l-erdre-22-28-aout/"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    8
+   ]
+  },
+  {
+   "id": "procepark",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the camellias of Parc de Procé",
+   "desc": "A roughly 12-hectare English-style park crossed by the Chézine, with camellias in winter and rhododendrons in spring.",
+   "tip": "Free; best February-March for camellias.",
+   "q": "Parc de Procé, Boulevard des Anglais, Nantes",
+   "ll": [
+    47.22375,
+    -1.58444
+   ],
+   "src": [
+    "https://metropole.nantes.fr/que-faire-a-nantes/balade-autour-des-collections-vegetales-historiques-des-parcs-et-jardins-de-nantes",
+    "https://www.jardinez.com/Parks-Proce-Park_uk_222"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "fremoiretasting",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Taste Muscadet at the Château de la Frémoire in Vertou",
+   "desc": "Reopened on 16 July 2024 as Voyage en Muscadet, it promotes the wines of Nantes with food pairings and guided tastings.",
+   "tip": "Summer opening Tuesday to Sunday; check current schedule.",
+   "q": "Château de la Frémoire, Route de la Frémoire, Vertou",
+   "ll": [
+    47.15415,
+    -1.47461
+   ],
+   "src": [
+    "https://metropole.nantes.fr/actualites/la-fremoire-une-vitrine-du-muscadet-a-vertou",
+    "https://www.levoyageanantes.fr/en/places/fremoire-castle"
+   ]
+  },
+  {
+   "id": "blottereaugreenhouses",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Visit the tropical greenhouses of Parc du Grand Blottereau",
+   "desc": "About 800 tropical plants grown for use (spices, fruit, fibre) have been kept in Doulon's greenhouses for 120 years.",
+   "tip": "Guided visits at set times; one source lists a 3 euro adult fee.",
+   "q": "Parc du Grand Blottereau, Boulevard Auguste Péneau, Nantes",
+   "ll": [
+    47.2283,
+    -1.51318
+   ],
+   "src": [
+    "https://metropole.nantes.fr/actualites/en-visite-sous-les-tropiques-a-nantes",
+    "https://lebonbon.fr/nantes/les-tops-spots/les-plus-beaux-parcs-et-jardins-de-nantes/"
+   ]
+  },
+  {
+   "id": "japanesegardenversailles",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the Japanese garden on Île de Versailles",
+   "desc": "An artificial island formed from 1831 with spoil from the Nantes-Brest canal, laid out as a Japanese garden with a tea pavilion, the Maison de l'Erdre. Entry is free.",
+   "tip": "Maison de l'Erdre season ran to 1 November 2026.",
+   "q": "Île de Versailles, Quai de Versailles, Nantes",
+   "ll": [
+    47.22439,
+    -1.55363
+   ],
+   "src": [
+    "https://www.pariszigzag.fr/sortir-paris/balade-paris/jardin-japonais-nantes/",
+    "https://metropole.nantes.fr/maison-erdre"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sevrevertouwalk",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the Sèvre Nantaise from Vertou towards Saint-Fiacre",
+   "desc": "A riverside towpath and vineyard trail starting at the Portillon car park in Vertou, following the GRP Sèvre et Maine for 4 km.",
+   "tip": "Shaded towpath; parts are on roads.",
+   "q": "Parc du Loiry, Vertou",
+   "ll": [
+    47.16404,
+    -1.47828
+   ],
+   "src": [
+    "https://www.visorando.com/randonnee-entre-vertou-et-saint-fiacre-par-portill/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "semaphoreherblain",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cycle the Loire à Vélo to a Sémaphore in Saint-Herblain",
+   "desc": "Vincent Mauger's 2019 oak-and-steel Sémaphores are belvederes along the Loire cycle paths; the Saint-Herblain one is at Quai Émile Cormerais, Roche-Maurice.",
+   "tip": "The route to Le Pellerin is about 24 km.",
+   "q": "Sémaphore de la Roche Maurice, Quai Émile Cormerais, Saint-Herblain",
+   "ll": [
+    47.19456,
+    -1.62001
+   ],
+   "src": [
+    "https://www.komoot.com/highlight/944157",
+    "https://www.francevelotourisme.com/loisirs/sites-et-monuments-historiques/semaphore-de-la-roche-maurice-de-vincent-mauger"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stereoluxnantes",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "See a concert at Stereolux",
+   "desc": "Music and digital-arts venue opened in 2011 on Île de Nantes, with a 1,200-capacity Maxi hall and a 400 Micro hall.",
+   "tip": "Check the programme; one listing marked it 'Fermé'.",
+   "q": "Stereolux, 4 Boulevard Léon Bureau, Nantes",
+   "ll": [
+    47.20509,
+    -1.56354
+   ],
+   "src": [
+    "https://metropole.nantes.fr/actualites/stereolux-15-ans-de-concerts-racontes-par-son-programmateur",
+    "https://lebonbon.fr/nantes/festivals-et-concerts/le-stereolux/"
+   ]
+  },
+  {
+   "id": "planetariumnantes",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Watch a show at the Planétarium de Nantes",
+   "desc": "A 59-seat planetarium at 8 rue des Acadiens, near the Musée Jules Verne, with hour-long shows and 30-minute sessions for children from 4.",
+   "tip": "Reservation required; around 7 euros adult.",
+   "q": "Planétarium de Nantes, 8 Rue des Acadiens, Nantes",
+   "ll": [
+    47.20224,
+    -1.57752
+   ],
+   "src": [
+    "https://metropole.nantes.fr/planetarium",
+    "https://en.wikipedia.org/wiki/Planetarium_of_Nantes"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  }
+ ]
+}

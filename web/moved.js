@@ -121,6 +121,7 @@ window.MOVED = {
 "luik/redu": "namur/redu",
 "luik/tombeaugeant": "namur/tombeaugeant",
 "luzern/gotthardpass": "lugano/gotthardpass",
+"lyon/saintromaingal": "grenoble/saintromaingal",
 "maastricht/asperges": "eindhoven/asperges",
 "maastricht/hamert": "arnhem/hamert",
 "maastricht/jachthut": "arnhem/jachthut",

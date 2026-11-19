@@ -1,0 +1,732 @@
+{
+ "new": [
+  {
+   "id": "montstmichelabbey",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb to the Abbey of Mont-Saint-Michel",
+   "desc": "The Benedictine abbey crowns the tidal island, reached by the Grand Degré staircase and the terrace, then the Gothic Merveille with its cloister and refectory. The bay and island are a UNESCO World Heritage Site since 1979, and the abbey is run by the Centre des monuments nationaux with a monastic community back in residence.",
+   "tip": "Allow one to two hours and expect many steps. Book timed tickets ahead in summer; in July and August there is also a night visit.",
+   "q": "Abbaye du Mont-Saint-Michel, Le Mont-Saint-Michel",
+   "ll": [
+    48.63598,
+    -1.5114
+   ],
+   "src": [
+    "https://www.bouger-voyager.com/visite-abbaye-mont-saint-michel",
+    "https://www.routard.com/guide_voyage_lieu/3413-mont_saint_michel.htm"
+   ],
+   "tags": []
+  },
+  {
+   "id": "montstmichelgranderue",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the medieval Grande Rue of Mont-Saint-Michel",
+   "desc": "The village main street climbs from the Porte du Roy past granite houses, several of them protected as historic monuments, to the abbey steps. It served pilgrims and merchants in the Middle Ages and many houses are now small museums and shops.",
+   "tip": "Go early morning or after 18:00 when day-trippers have left. The side stairs to the ramparts give quieter views.",
+   "q": "Grande Rue, Le Mont-Saint-Michel",
+   "ll": [
+    48.6356,
+    -1.51085
+   ],
+   "src": [
+    "https://monumentum.fr/monument-historique/pa00110487/le-mont-saint-michel-maisons-donnant-sur-la-grande-rue-et-sur-les-remparts",
+    "https://www.le-mont-saint-michel.com/en/discover/the-mount/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "scriptorialavranches",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Mont-Saint-Michel's manuscripts at the Scriptorial",
+   "desc": "The Scriptorial in Avranches shows illuminated manuscripts from the abbey of Mont-Saint-Michel, dating from the 9th to the 15th century. Around two hundred of them have been kept in Avranches since the Revolution, and the building is designed to evoke the Mont itself.",
+   "tip": "Full price is about 9 EUR. Combine it with the Jardin des Plantes viewpoint over the bay; closed on some Mondays, so check the 2026 brochure.",
+   "q": "Scriptorial d'Avranches, Place d'Estouteville, Avranches",
+   "ll": [
+    48.68833,
+    -1.36069
+   ],
+   "src": [
+    "https://group.manche-tourism.com/visits/scriptorial-davranches-musee-des-manuscrits-du-mont-saint-michel/",
+    "https://www.scriptorial.fr/media/plaquette-2026.pdf"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "diormuseumgranville",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Christian Dior's childhood villa in Granville",
+   "desc": "Villa Les Rhumbs, bought by the Dior family in 1906, is now the Musée Christian Dior, a Musée de France and Maison des Illustres. The garden was designed by his mother Madeleine, and the town bought the villa in 1938.",
+   "tip": "The museum is open in the main season (about May to September); the clifftop garden stays open all year. Check dates of the yearly exhibition.",
+   "q": "Musée Christian Dior, Villa Les Rhumbs, rue d'Estouteville, Granville",
+   "ll": [
+    48.84297,
+    -1.59255
+   ],
+   "src": [
+    "https://en.normandie-tourisme.fr/museums-and-heritage-sites/christian-dior-museum/",
+    "https://en.tourisme-granville-terre-mer.com/offers/musee-christian-dior-granville-en-4310444/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "granvillehauteville",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the walled upper town of Granville",
+   "desc": "The Haute Ville sits on a rocky headland enclosed by about 450 metres of ramparts, fortified by the English in the 15th century, and earned Granville its nickname Monaco du Nord. Corsair mansions, the Notre-Dame church and sea views line its main street.",
+   "tip": "Enter by the Grande Porte and walk the ramparts at sunset. The tourist office runs guided visits of the Haute Ville.",
+   "q": "Haute Ville, Grande Rue, Granville",
+   "ll": [
+    48.83636,
+    -1.60694
+   ],
+   "src": [
+    "https://en.normandie-tourisme.fr/itinerary/granville-et-son-roc/",
+    "https://www.routard.com/guide_voyage_lieu/4702-granville.htm"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "coutancescathedral",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look up at Coutances Cathedral's lantern tower",
+   "desc": "Notre-Dame de Coutances is a leading example of Norman Gothic, with two west spires and a lantern tower over the crossing. It replaced an 11th-century Romanesque church and was rebuilt largely in the 13th century.",
+   "tip": "Guided tours climb the high galleries and the lantern tower; book at the tourist office. The public garden next door gives the classic view of the spires.",
+   "q": "Cathédrale Notre-Dame de Coutances, Place de Gaulle, Coutances",
+   "ll": [
+    49.04763,
+    -1.44424
+   ],
+   "src": [
+    "https://en.normandie-tourisme.fr/museums-and-heritage-sites/notre-dame-cathedral-2/",
+    "https://www.lonelyplanet.com/points-of-interest/cathedrale-notre-dame-de-coutances/1195923"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hambyeabbey",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander the romantic ruins of Hambye Abbey",
+   "desc": "Founded around 1145 by William Painel and Bishop Algare of Coutances, the Benedictine abbey keeps a roofless Gothic church, a cloister and a chapter house. The church was listed as a historic monument in 1902.",
+   "tip": "The site is run by the Manche département and the visitor guide is a free PDF. Public transport is thin, so drive from Villedieu-les-Poêles, about 12 km away.",
+   "q": "Abbaye de Hambye, Hambye",
+   "ll": [
+    48.9215,
+    -1.26513
+   ],
+   "src": [
+    "https://abbaye-hambye.manche.fr/wp-content/uploads/2024/09/GUIDE-VISITEUR-HAMBYE-francais.pdf",
+    "https://www.spottinghistory.com/view/2811/hambye-abbey-ruins"
+   ],
+   "tags": []
+  },
+  {
+   "id": "utahbeachmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Follow D-Day at the Utah Beach Landing Museum",
+   "desc": "The museum stands on the beach of La Madeleine in Sainte-Marie-du-Mont where US troops landed on 6 June 1944. It opened in 1962 and tells the story in ten sequences, from preparation to outcome.",
+   "tip": "Open daily in summer, shorter hours and a December closure outside it. Tickets can be bought at reception.",
+   "q": "Musée du Débarquement Utah Beach, Plage de la Madeleine, Sainte-Marie-du-Mont",
+   "ll": [
+    49.41536,
+    -1.17463
+   ],
+   "src": [
+    "https://utah-beach.com/en/museum/",
+    "https://en.normandie-tourisme.fr/museums-and-heritage-sites/musee-du-debarquement-de-utah-beach/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "airbornemuseumsme",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Meet the paratroopers at the Airborne Museum",
+   "desc": "Opened in 1964 at 14 rue Eisenhower, the museum honours the American 82nd and 101st Airborne Divisions. A Piper Cub sits in the extension hall, and the site is next to the church where a paratrooper hung from the steeple on 5 to 6 June 1944.",
+   "tip": "Visit the church with its parachutist effigy and stained-glass window in the same stop. The official site is airborne-museum.org.",
+   "q": "Airborne Museum, 14 rue Eisenhower, Sainte-Mère-Église",
+   "ll": [
+    49.40805,
+    -1.31414
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Airborne_Museum_(Sainte-M%C3%A8re-%C3%89glise)",
+    "https://www.normandywarguide.com/place/musee-airborne"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "citedelamercherbourg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Board the nuclear submarine Le Redoutable in Cherbourg",
+   "desc": "La Cité de la Mer occupies the Art Deco Gare Maritime Transatlantique where the Titanic made its only continental stop. Visitors can board Le Redoutable, France's first nuclear ballistic missile submarine, and see Titanic exhibits and aquariums.",
+   "tip": "Open from 7 February 2026 to 3 January 2027 according to the group rate sheet. Allow half a day.",
+   "q": "La Cité de la Mer, Gare Maritime Transatlantique, Cherbourg-en-Cotentin",
+   "ll": [
+    49.64663,
+    -1.61731
+   ],
+   "src": [
+    "https://www.citedelamer.com/en/espaces/redoutable/",
+    "https://en.wikipedia.com/wiki/Cit%C3%A9_de_la_Mer"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "gattevillelighthouse",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the 365 steps of Gatteville lighthouse",
+   "desc": "At 75 metres the Phare de Gatteville is described as the second tallest lighthouse in Europe. It has 365 steps, one for each day of the year, 52 windows and 12 levels.",
+   "tip": "Open to visitors in summer; closed in strong wind. The climb takes about ten minutes.",
+   "q": "Phare de Gatteville, Gatteville-le-Phare",
+   "ll": [
+    49.69645,
+    -1.26584
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Gatteville_Lighthouse",
+    "https://group.manche-tourism.com/sit/phare-de-gatteville"
+   ],
+   "tags": []
+  },
+  {
+   "id": "nezdejobourg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stand on the cliffs of the Nez de Jobourg",
+   "desc": "The Nez de Jobourg rises about 128 metres above the sea at the southern edge of the Cap de la Hague, among the highest cliffs of mainland Europe. On clear days Alderney and Cap de Flamanville show on the horizon, and the Raz Blanchard tide race churns below.",
+   "tip": "The GR 223 passes the viewpoint; wear a windproof layer. Guided descents reach the caves at the cliff base.",
+   "q": "Nez de Jobourg, Jobourg, La Hague",
+   "ll": [
+    49.67234,
+    -1.93977
+   ],
+   "src": [
+    "https://en.normandie-tourisme.fr/unmissable-sites/nez-de-jobourg/",
+    "https://www.actunautique.com/2024/12/le-nez-de-jobourg-un-promontoire-majestueux-du-cap-de-la-hague-en-normandie.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gourylighthouse",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Goury lighthouse and the Raz Blanchard",
+   "desc": "The Phare de la Hague, or Goury lighthouse, stands on the Gros du Raz rock about 800 metres off Cap de la Hague. It was built in 1834 to 1837 and marks one of Europe's strongest tidal currents; it has been automated since 1990 and is not open to visitors.",
+   "tip": "Park at the port of Goury, where there is also a lifeboat station. Access to the port and viewpoints is free.",
+   "q": "Port de Goury, Auderville, La Hague",
+   "ll": [
+    49.7157,
+    -1.94442
+   ],
+   "src": [
+    "https://normandielovers.fr/en/visit-lighthouse-la-hague-normandy/",
+    "https://monumentum.fr/monument-historique/PA50000063/la-hague-phare-de-la-hague-ou-de-goury/edit-localisation"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "saintlokharas",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the Haras national of Saint-Lô",
+   "desc": "The national stud in Saint-Lô is a listed monument, built in the 19th century and part of the Pôle Hippique. Guided visits and exhibitions on its history are offered in summer.",
+   "tip": "Summer 2026 listings mention Thursday guided visits from mid-July to 20 August. Pair it with the ramparts and the Musée d'Art et d'Histoire.",
+   "q": "Haras national de Saint-Lô, Avenue du Maréchal Juin, Saint-Lô",
+   "ll": [
+    49.11666,
+    -1.07718
+   ],
+   "src": [
+    "https://monumentum.fr/monument-historique/pa00125304/saint-lo-haras-national",
+    "https://www.guide-tourisme-france.com/VISITER/haras-national--saint-lo-16023.htm"
+   ],
+   "tags": []
+  },
+  {
+   "id": "tatihouisland",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Cross to Tatihou island and its Vauban tower",
+   "desc": "The Tour de Tatihou was built in 1694 by Benjamin de Combes, a pupil of Vauban, and is part of the UNESCO Vauban sites alongside the tower of La Hougue. The island is reached by an amphibious boat in 10 to 15 minutes, or on foot over the Run at low tide.",
+   "tip": "Buy tickets at the port counter or on tatihou.manche.fr. The on-foot crossing needs a tide coefficient above 70 and about 30 minutes.",
+   "q": "Île de Tatihou, Saint-Vaast-la-Hougue",
+   "ll": [
+    49.58689,
+    -1.26182
+   ],
+   "src": [
+    "https://sites-vauban.org/en/resources/vauban-site/tour-de-tatihou",
+    "https://www.routard.com/fr/guide/france/normandie/manche/ile-tatihou"
+   ],
+   "tags": []
+  },
+  {
+   "id": "merepoulardomelette",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste the famous omelette at La Mère Poulard",
+   "desc": "The Auberge de la Mère Poulard on the Grande Rue serves a soufflé omelette whisked in hand-hammered copper bowls and cooked over an open fire. The house is usually dated to 1888 and uses hundreds of thousands of eggs a year.",
+   "tip": "An à la carte omelette costs around 30 EUR or more, so many visitors share one. Reservations help in high season.",
+   "q": "La Mère Poulard, Grande Rue, Le Mont-Saint-Michel",
+   "ll": [
+    48.63546,
+    -1.51133
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/La_M%C3%A8re_Poulard",
+    "https://www.ot-montsaintmichel.com/en/restaurant/auberge-de-la-mere-poulard/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "lesdoscherbourgoysters",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Slurp Saint-Vaast oysters at Maison Lesdos",
+   "desc": "Founded in 1878 on rue Grande Rue, Maison Lesdos sells oysters from the Hélie family beds at Saint-Vaast, sold under brands such as Ostréargent and Ostréor. Oysters can be tasted in the shop or at the neighbouring café Le Carré.",
+   "tip": "Opening days have been irregular (closed several weekdays), so check maison-lesdos.fr or call before going.",
+   "q": "Maison Lesdos, 34 rue Grande Rue, Cherbourg-en-Cotentin",
+   "ll": [
+    49.64003,
+    -1.62321
+   ],
+   "src": [
+    "https://www.gillespudlowski.com/363425/produits/cherbourg-liode-et-les-belles-huitres-cest-lesdos"
+   ],
+   "tags": []
+  },
+  {
+   "id": "barfleurcafedefrance",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order Blonde de Barfleur mussels at Café de France",
+   "desc": "The wild offshore mussel called Blonde de Barfleur gives the village its reputation. Café de France on the harbour has served since 1901 and is praised for these mussels in cream, plus seafood platters and marinated mackerel.",
+   "tip": "Sit on the terrace over the port; book in summer.",
+   "q": "Café de France, Quai Henri Chardon, Barfleur",
+   "ll": [
+    49.67225,
+    -1.26141
+   ],
+   "src": [
+    "https://restoranking.fr/r/cafe-de-france-25_264188",
+    "https://www.journee-mondiale.com/dans-ce-port-de-la-manche-une-moule-sauvage-de-haute-mer-fait-la-reputation-du-village-13391.htm"
+   ],
+   "tags": []
+  },
+  {
+   "id": "granvilleptitmareyeur",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Chausey lobster and oysters at Au P'tit Mareyeur",
+   "desc": "On the fishing harbour, Au P'tit Mareyeur is a fishmonger, oyster bar and restaurant selling seafood platters, Chausey and Saint-Vaast oysters and lobster. A lobster and chips plate is cited at around 29 EUR.",
+   "tip": "Open daily from 8:00 to 19:30 according to the tourist office. Eat at the counter for the shortest wait.",
+   "q": "Au P'tit Mareyeur, 64 rue du Port, Granville",
+   "ll": [
+    48.83622,
+    -1.60395
+   ],
+   "src": [
+    "https://en.tourisme-granville-terre-mer.com/offers/au-ptit-mareyeur-bar-a-huitres-granville-en-4439322/",
+    "https://mapstr.com/place/Wo5ajIs0lXg"
+   ],
+   "tags": []
+  },
+  {
+   "id": "cherbourgtybillic",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Fill up on buckwheat galettes at Ty-Billic",
+   "desc": "Crêperie Ty-Billic on rue au Blé serves savoury galettes such as the Viroise with andouille de Vire and the Campagnarde with bacon and egg. Cider comes from a partner cidery and most galettes cost under 10 EUR.",
+   "tip": "Often full, so book ahead.",
+   "q": "Crêperie Ty-Billic, 73 rue au Blé, Cherbourg-en-Cotentin",
+   "ll": [
+    49.64098,
+    -1.62324
+   ],
+   "src": [
+    "https://group.manche-tourism.com/restaurants/le-ty-billic",
+    "https://mapstr.com/place/cYvtHL7g4fg"
+   ],
+   "tags": []
+  },
+  {
+   "id": "carteretmarnage",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste local lobster at Marnage, Hôtel La Marine",
+   "desc": "The restaurant of Hôtel La Marine near the port of Carteret is listed by the Michelin Guide with a menu built on local fishing, including seasonal lobster with carrot and hazelnut butter.",
+   "tip": "Sources disagree on its Michelin status (star or plate), so check before booking.",
+   "q": "Marnage, Hôtel La Marine, 11 rue de Paris, Barneville-Carteret",
+   "ll": [
+    49.3718,
+    -1.7928
+   ],
+   "src": [
+    "https://guide.michelin.com/be/fr/normandie/barneville-carteret/restaurant/marnage-hotel-la-marine"
+   ],
+   "tags": []
+  },
+  {
+   "id": "carteretpotiniere",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have lobster pasta on the beach at La Potinière",
+   "desc": "Open since 1910, La Potinière is a beachfront restaurant and bar on the Potinière beach in Barneville-Carteret. Its menu leans on seafood, and lobster pasta at sunset is a reviewer favourite.",
+   "tip": "Come for sunset and book on summer evenings.",
+   "q": "La Potinière, plage de la Potinière, Barneville-Carteret",
+   "ll": [
+    49.37269,
+    -1.79545
+   ],
+   "src": [
+    "https://group.manche-tourism.com/restaurants/la-potiniere/",
+    "https://mapstr.com/place/PBsynKg16Qg"
+   ],
+   "tags": []
+  },
+  {
+   "id": "commanderiecider",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste AOP Cotentin cider at Ferme de la Commanderie",
+   "desc": "This Grosville farm, run by the same family for four generations, produces AOP Cotentin cider, pommeau and calvados. Visits end with a tasting of the family's range.",
+   "tip": "Visits are by arrangement; call ahead via the Cotentin tourism listing.",
+   "q": "Ferme de la Commanderie, Grosville",
+   "ll": [
+    49.50166,
+    -1.74209
+   ],
+   "src": [
+    "https://group.manche-tourism.com/visits/ferme-de-la-commanderie/",
+    "https://www.cotentin-tourisme-normandie.fr/en/adherents/cidrerie-ferme-de-la-commanderie"
+   ],
+   "tags": []
+  },
+  {
+   "id": "coutancesratelier",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat a Calvados-flambé crêpe at Le Râtelier",
+   "desc": "Crêperie Le Râtelier in central Coutances serves sweet crêpes and buckwheat galettes with Normandy specials such as apple crêpes flambéed with Calvados.",
+   "tip": "Closing days vary, so check before a cathedral visit.",
+   "q": "Crêperie Le Râtelier, 3 bis rue Georges Clémenceau, Coutances",
+   "ll": [
+    49.04717,
+    -1.44533
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/2770667/crperie-le-rtelier"
+   ],
+   "tags": []
+  },
+  {
+   "id": "cauquignycreperie",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try a crêpe at Crêperie Cauquigny in Sainte-Mère-Église",
+   "desc": "Crêperie Cauquigny on rue du Général de Gaulle rates 4.8 out of 5 on Petit Futé from 96 reviews and is described as one of the town's best crêperies.",
+   "tip": "A good lunch stop after the Airborne Museum; hours change by season.",
+   "q": "Crêperie Cauquigny, 31 rue du Général de Gaulle, Sainte-Mère-Église",
+   "ll": [
+    49.4087,
+    -1.3174
+   ],
+   "src": [
+    "https://www.petitfute.com/v5745-sainte-mere-eglise-50480/c1165-restaurants/c126-restauration-rapide-a-domicile"
+   ],
+   "tags": []
+  },
+  {
+   "id": "rochetorinpresale",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine on pré-salé lamb at Manoir de la Roche Torin",
+   "desc": "The Manoir de la Roche Torin in Courtils overlooks the Mont-Saint-Michel bay and lists agneau de pré-salé, lamb grazed on the salt meadows, among its specialities.",
+   "tip": "Reserve ahead for dinner, especially in summer.",
+   "q": "Manoir de la Roche Torin, Courtils",
+   "ll": [
+    48.63736,
+    -1.425
+   ],
+   "src": [
+    "https://www.tables-auberges.com/en/hotels-restaurants/50-manche/courtils/1657-manoir-de-la-roche-torin"
+   ],
+   "tags": []
+  },
+  {
+   "id": "baiecrossingguided",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk barefoot across the bay to Mont-Saint-Michel",
+   "desc": "Découverte de la Baie, based at 1 rue Montoise in Genêts, runs guided walks across the sands to the Mont. A one-way crossing lasts about 3h30, and a round trip is about 14 km in six hours, with a free half hour on the Rock.",
+   "tip": "Departures from Genêts, Saint-Léonard or the Mont depend on tides. Book via decouvertebaie.com and bring a change of clothes; prices were 22 EUR for adults in 2024.",
+   "q": "Maison du Guide, 1 rue Montoise, Genêts",
+   "ll": [
+    48.6976,
+    -1.476
+   ],
+   "src": [
+    "https://decouvertebaie.com/en/the-guides-practical-tips/",
+    "https://www.manche-tourism.com/hiking/la-baie-du-mont-saint-michel-3/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "chauseyboat",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Sail from Granville to the Chausey islands",
+   "desc": "Vedettes Jolie France run boat trips from the Granville ferry terminal to the Chausey archipelago, taking 45 to 60 minutes. Sailing times follow the tides, and there are few or no crossings in winter or bad weather.",
+   "tip": "Book days or weeks ahead in July and August, and check the online tide calendar.",
+   "q": "Gare maritime, Granville",
+   "ll": [
+    48.83328,
+    -1.60275
+   ],
+   "src": [
+    "https://figaronautisme.meteoconsult.fr/actus-nautisme-escales/2025-08-27/80826-les-chausey-un-archipel-hors-du-temps-au-large-de-granville",
+    "https://www.visorando.com/randonnee-tour-de-grande-ile-a-chausey/"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "tags": []
+  },
+  {
+   "id": "villedieubellfoundry",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Tour the Cornille-Havard bell foundry",
+   "desc": "The Cornille-Havard foundry at 10 rue du Pont Chignon in Villedieu-les-Poêles has cast bells since 1865, including the new bells of Notre-Dame de Paris in 2013. Guided visits last about an hour.",
+   "tip": "Adult tickets cost around 10 EUR; open roughly February to November, so call +33 2 33 61 00 56 or check cornille-havard.com.",
+   "q": "Fonderie de Cloches Cornille-Havard, 10 rue du Pont Chignon, Villedieu-les-Poêles",
+   "ll": [
+    48.83838,
+    -1.22427
+   ],
+   "src": [
+    "https://en.normandie-tourisme.fr/museums-and-heritage-sites/fonderie-de-cloches-cornille-havard/",
+    "https://www.guide-tourisme-france.com/VISITER/fonderie-cloches--villedieu-poeles-rouffigny-38442.htm"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "villedieucopper",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch coppersmiths at the Atelier du Cuivre",
+   "desc": "Founded in 1850 at 54 rue du Général Huard, the Atelier du Cuivre is one of the last dinanderie workshops in France and holds the EPV label. A short film is followed by a walk through the working workshop.",
+   "tip": "Admission is about 9 EUR (older price). Villedieu has been a copper town for centuries.",
+   "q": "Atelier du Cuivre, 54 rue du Général Huard, Villedieu-les-Poêles",
+   "ll": [
+    48.84082,
+    -1.22028
+   ],
+   "src": [
+    "https://group.manche-tourism.com/visits/atelier-du-cuivre",
+    "https://www.guide-tourisme-france.com/VISITER/atelier-cuivre--villedieu-poeles-rouffigny-37744.htm"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bivilledunes",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Biville dunes on the GR 223",
+   "desc": "The Dunes de Biville are among the tallest dunes in Normandy, on the west coast of the Hague. A short loop is about 3 km and a longer GR 223 loop about 13 km, often on sandy paths.",
+   "tip": "Dogs are tolerated on leash outside certain hours. The next-door Vauville reserve can be combined.",
+   "q": "Dunes de Biville, Biville, La Hague",
+   "ll": [
+    49.61104,
+    -1.83558
+   ],
+   "src": [
+    "https://www.gites.fr/tourisme_proximite_dunes-de-biville_biville_32784_en.html",
+    "https://www.decathlon-outdoor.com/fr-fr/explore/france/boucle-facile-des-dunes-de-biville-650d8e127f75f"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "vauvillemare",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk between marsh and dunes at Vauville",
+   "desc": "The Vauville dunes and the mare de Vauville nature reserve lie next to Biville. Marked trails of 15 to 21 km cross the heath, dunes and beach, with the cabane des Tamarins near the shore.",
+   "tip": "One report says the reserve was temporarily closed, so check the status locally.",
+   "q": "Plage de Vauville, Vauville, La Hague",
+   "ll": [
+    49.62125,
+    -1.8457
+   ],
+   "src": [
+    "https://www.sentiers-en-france.eu/sentiers-manche-50/cherbourg/sentier-entre-mare-et-dunes-vauville",
+    "https://www.decathlon-outdoor.com/fr-fr/explore/france/randonnee-bivillevauvillebiville-625d7f20ddf3f"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "carteretcapwalk",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the customs path to Cap de Carteret",
+   "desc": "A loop of about 9.7 km starts at the tourist office in Barneville-Carteret and follows the sentier des douaniers to the cape with its lighthouse and semaphore, then returns via the Saint-Germain church ruins or the dunes.",
+   "tip": "Allow about 3 hours. The dune variant returns across the Hatainville dunes.",
+   "q": "Office de Tourisme de Barneville-Carteret, Carteret",
+   "ll": [
+    49.37353,
+    -1.80684
+   ],
+   "src": [
+    "https://www.decathlon-outdoor.com/fr-fr/blog/randonnee-cap-de-carteret-manche",
+    "https://www.visorando.com/randonnee-boucle-de-carteret-par-le-chemin-des-dou/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "barfleurgattevillewalk",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the coast from Barfleur to the Gatteville lighthouse",
+   "desc": "The GR 223 passes the jetty and sea wall in Barfleur and follows the shore to the Phare de Gatteville. Routes between the two are about 7.5 to 9.5 km.",
+   "tip": "Walkers report the road return is busy, so plan a loop.",
+   "q": "Port de Barfleur, Barfleur",
+   "ll": [
+    49.6707,
+    -1.2635
+   ],
+   "src": [
+    "https://www.camping-car.com/tourisme/balades-et-voyages/28134-une-randonnee-pedestre-de-barfleur-au-phare-de-gatteville/",
+    "https://www.decathlon-outdoor.com/fr-fr/explore/france/barfleur-et-ses-alentours-65f8a7e6231e3"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "granvillecarnaval",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Join the Carnaval de Granville",
+   "desc": "The Granville carnival has run for 152 years and is one of Normandy's biggest. The 2026 edition ran from 13 to 17 February, and the 153rd is set for 5 to 9 February 2027.",
+   "tip": "Check the official programme for corso times.",
+   "q": "Carnaval de Granville, Granville",
+   "ll": [
+    48.84151,
+    -1.56936
+   ],
+   "src": [
+    "https://en.normandie-tourisme.fr/highlight/granville-carnival/",
+    "https://www.jds.fr/granville/manifestations/carnaval/carnaval-de-granville-1261747_A"
+   ],
+   "months": [
+    2
+   ],
+   "tags": []
+  },
+  {
+   "id": "cherbourgmarkettuesday",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Browse the Tuesday market at Place de Gaulle",
+   "desc": "The city's market order lists a Tuesday market at Place de Gaulle in Cherbourg-Octeville, with other markets on Fridays in Équeurdreville-Hainneville and around the Halles streets.",
+   "tip": "Come on a Tuesday morning; days can change, so check the city website.",
+   "q": "Place Charles de Gaulle, Cherbourg-en-Cotentin",
+   "ll": [
+    49.6393,
+    -1.6238
+   ],
+   "src": [
+    "https://cherbourg.fr/fileadmin/user_upload/Ma_ville/Vie_politique/Affichage_reglementaire/Arretes_du_maire/2024/06_juin_2024/0277.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "cherbourgchristmasmarket",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Visit the Cherbourg Christmas market",
+   "desc": "Cherbourg-en-Cotentin holds an annual Christmas market with an advent calendar and family events in the city centre.",
+   "tip": "Dates change each year, so check the tourism listing.",
+   "q": "Marché de Noël, Cherbourg-en-Cotentin",
+   "ll": [
+    49.6395,
+    -1.6223
+   ],
+   "src": [
+    "https://www.festivalenfrance.com/festival/marche-de-noel-de-cherbourg-en-cotentin"
+   ],
+   "months": [
+    11,
+    12
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "granvillerocwalk",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Pointe du Roc coastal path in Granville",
+   "desc": "A roughly one-hour loop combines the ramparts of the Haute Ville with the coastal path to the Pointe du Roc, a rocky headland with views over the town, the sea and the beach.",
+   "tip": "A trail guide says the exposed section south of the lighthouse may be closed, so follow the detour.",
+   "q": "Pointe du Roc, Granville",
+   "ll": [
+    48.8353,
+    -1.6135
+   ],
+   "src": [
+    "https://www.visorando.com/randonnee-boucle-dans-granville-la-monaco-du-nord/",
+    "https://en.normandie-tourisme.fr/itinerary/granville-et-son-roc/"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

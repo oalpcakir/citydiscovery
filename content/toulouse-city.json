@@ -1,0 +1,993 @@
+{
+ "new": [
+  {
+   "id": "toulousecapitole",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk through the Capitole and the Salle des Illustres",
+   "desc": "The Capitole is Toulouse's town hall and theatre on the central square. Its 60-metre Salle des Illustres is modelled on the Farnese Gallery in Rome and decorated with paintings and busts of the city's notable figures.",
+   "tip": "Entry to the Salle des Illustres is free with a security check; it can close for weddings and ceremonies, so check the hours on the day.",
+   "q": "Capitole de Toulouse, Place du Capitole, Toulouse",
+   "ll": [
+    43.60447,
+    1.44331
+   ],
+   "src": [
+    "https://metropole.toulouse.fr/annuaire/capitole",
+    "https://www.toulouse-tourisme.com/en/?p=13494"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "toulousesaintsernin",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step inside the Romanesque Basilica of Saint-Sernin",
+   "desc": "This 11th-century Romanesque basilica was a major stop on the pilgrim road to Santiago de Compostela and is on the UNESCO World Heritage list. It holds one of the largest relic collections in Europe and a Cavaillé-Coll organ of 1889.",
+   "tip": "Visit the crypt and ambulatory for a small fee; the church is closed to visitors during services.",
+   "q": "Basilique Saint-Sernin, Place Saint-Sernin, Toulouse",
+   "ll": [
+    43.60826,
+    1.44176
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Basilica_of_Saint-Sernin,_Toulouse",
+    "https://metropole.toulouse.fr/annuaire/basilique-saint-sernin"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "toulousejacobins",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Look up at the palm-tree vault of the Jacobins",
+   "desc": "The Dominican convent church of the Jacobins was built from 1275 to 1292 in southern Gothic style. Its choir vault springs from a single column with 22 ribs, the so-called palmier, and the church houses the relics of Thomas Aquinas.",
+   "tip": "The cloister and church are open daily with a ticket; entry is free on the first Sunday of the month.",
+   "q": "Couvent des Jacobins, Rue Lakanal, Toulouse",
+   "ll": [
+    43.60389,
+    1.44021
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Couvent_des_Jacobins_de_Toulouse"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "toulousepontneuf",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Cross the Pont Neuf, the oldest bridge over the Garonne",
+   "desc": "Despite its name, the Pont Neuf is Toulouse's oldest bridge across the Garonne: work began in 1544 and ended in 1632. It was the only bridge in the city to survive the great flood of 1875.",
+   "tip": "Come at sunset for views of the Hôtel-Dieu and the Dôme de la Grave on the Saint-Cyprien bank.",
+   "q": "Pont Neuf, Toulouse",
+   "ll": [
+    43.60043,
+    1.43867
+   ],
+   "src": [
+    "https://en.Wikipedia.com/wiki/Pont_Neuf,_Toulouse",
+    "https://metropole.toulouse.fr/annuaire/pont-neuf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "toulousebemberg",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Bemberg Foundation in the Hôtel d'Assézat",
+   "desc": "The Hôtel d'Assézat is a Renaissance mansion begun in 1555 for the woad merchant Pierre d'Assézat, probably designed by Nicolas Bachelier. It now shows the collection of Georges Bemberg, with over 30 works by Pierre Bonnard.",
+   "tip": "Closed on Mondays; the courtyard can be seen on its own.",
+   "q": "Fondation Bemberg, Hôtel d'Assézat, Place d'Assézat, Toulouse",
+   "ll": [
+    43.6002,
+    1.44205
+   ],
+   "src": [
+    "https://metropole.toulouse.fr/annuaire/fondation-bemberg-hotel-dassezat",
+    "https://apollo-magazine.com/fondation-bemberg-toulouse-hotel-assezat/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "toulousecathedrale",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Discover the mismatched Cathédrale Saint-Étienne",
+   "desc": "Built from the 11th to the 17th century, the cathedral joins a Romanesque nave to a much larger Gothic choir that were never aligned. The organ hangs about 20 metres up like a swallow's nest, and Canal du Midi builder Pierre-Paul Riquet is buried here.",
+   "tip": "Free entry; walk around to the east side for the brick chevet.",
+   "q": "Cathédrale Saint-Étienne, Place Saint-Étienne, Toulouse",
+   "ll": [
+    43.60059,
+    1.45036
+   ],
+   "src": [
+    "https://metropole.toulouse.fr/annuaire/cathedrale-saint-etienne",
+    "https://en.Wikipedia.com/wiki/Toulouse_Cathedral"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "toulousecitespace",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore space at the Cité de l'espace",
+   "desc": "The space park opened in June 1997 on avenue Jean Gonord. It features a full-size Ariane 5 rocket, a Mir station module, a planetarium and a large-format cinema.",
+   "tip": "Buy tickets online and plan a half day; bus lines serve the site from the metro.",
+   "q": "Cité de l'espace, Avenue Jean Gonord, Toulouse",
+   "ll": [
+    43.5865,
+    1.4938
+   ],
+   "src": [
+    "https://wikipedia.com/wiki/Cit%C3%A9_de_l%27Espace",
+    "https://metropole.toulouse.fr/annuaire/cite-de-lespace"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "blagnacaeroscopia",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb aboard Concorde at Aeroscopia in Blagnac",
+   "desc": "The aviation museum opened in January 2015 beside the Airbus plant and Toulouse-Blagnac airport. It holds two Concordes, among them the first production aircraft F-WTSB, plus a Super Guppy and an A380 that visitors can board.",
+   "tip": "Take tram line T1 to the Aéroscopia stop; combined tickets with the Airbus factory tour are available.",
+   "q": "Musée Aeroscopia, Allée André Turcat, Blagnac",
+   "ll": [
+    43.65839,
+    1.3609
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Aeroscopia",
+    "https://www.toulouse-tourisme.com/activite/musee-aeroscopia/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "toulouseabattoirs",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See modern art in the old Abattoirs",
+   "desc": "A slaughterhouse built in 1828 to 1831 in Saint-Cyprien was converted by architects Antoine Stinco and Rémi Papillaut into a modern and contemporary art museum that opened in 2000. It also houses the regional contemporary art fund FRAC.",
+   "tip": "Closed on Mondays; the Jardin Raymond VI is next door.",
+   "q": "Les Abattoirs, 76 allées Charles de Fitte, Toulouse",
+   "ll": [
+    43.60092,
+    1.4296
+   ],
+   "src": [
+    "https://metropole.toulouse.fr/annuaire/les-abattoirs-musee-frac-occitanie-toulouse",
+    "https://monumentum.fr/musee-de-france/M0566/toulouse-les-abattoirs-musee-dart-moderne-et-contemporain"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "toulousemuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Meet the natural history collections at the Muséum",
+   "desc": "The Muséum de Toulouse reopened in 2008 after about ten years of renovation, beside the Jardin des Plantes. Its collections run to well over a million specimens, among the largest natural history holdings in France.",
+   "tip": "Open Tuesday to Sunday, 10:00 to 18:00; the museum gardens on the other side of the site are free.",
+   "q": "Muséum de Toulouse, 35 allées Jules Guesde, Toulouse",
+   "ll": [
+    43.59336,
+    1.44953
+   ],
+   "src": [
+    "https://metropole.toulouse.fr/annuaire/museum-de-toulouse",
+    "https://museum.toulouse-metropole.fr/en"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "toulousedaurade",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Black Madonna at La Daurade",
+   "desc": "The neoclassical basilica on the Garonne quay was built between 1771 and 1850 on the site of a much older church whose gilded mosaics gave it its name. It is known for its Black Madonna, dressed in robes by couturiers such as Christian Lacroix.",
+   "tip": "Opening hours follow services, so go in the late morning or afternoon.",
+   "q": "Basilique Notre-Dame de la Daurade, Place de la Daurade, Toulouse",
+   "ll": [
+    43.60194,
+    1.43875
+   ],
+   "src": [
+    "https://en.wikipedia.com/wiki/La_Daurade",
+    "https://metropole.toulouse.fr/annuaire/notre-dame-la-daurade"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "toulousesaintraymond",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk through Roman Toulouse at the Musée Saint-Raymond",
+   "desc": "The archaeology museum occupies the former Saint-Raymond college beside Saint-Sernin and opened in 1892. It displays Celtic, Roman and early Christian finds from the region, including nearly 1,000 Roman sculptures.",
+   "tip": "The museum reopened in April 2026 after works; check current hours and the archaeological site visit.",
+   "q": "Musée Saint-Raymond, 1 ter place Saint-Sernin, Toulouse",
+   "ll": [
+    43.608,
+    1.4423
+   ],
+   "src": [
+    "https://metropole.toulouse.fr/annuaire/musee-saint-raymond-musee-darcheologie-de-toulouse",
+    "https://www.toulouse-tourisme.com/en/activite/saint-raymond-museum-toulouse-archaeology-museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "toulousegrandrond",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stroll the Grand Rond, Jardin Royal and Jardin des Plantes",
+   "desc": "Three gardens form a green circuit east of the centre: the Jardin Royal, created by Louis de Mondran in 1754, the Grand Rond, and the Jardin des Plantes. Suspended footbridges link them over the boulevards.",
+   "tip": "Free and open daily; combine with the Muséum de Toulouse next door.",
+   "q": "Grand Rond, Toulouse",
+   "ll": [
+    43.59579,
+    1.45258
+   ],
+   "src": [
+    "https://www.toulouse-tourisme.com/en/activite/jardin-royal/",
+    "https://metropole.toulouse.fr/sites/toulouse-fr/files/2026-09/focus_grandrondjardinroyal.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "toulousebernuy",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Spot the octagonal tower of the Hôtel de Bernuy",
+   "desc": "This Renaissance townhouse on rue Gambetta was built for the Spanish-born woad merchant Jean de Bernuy between 1503 and 1536. Its stair tower is the tallest octagonal tower in the city at 26.5 metres.",
+   "tip": "It is part of the Lycée Pierre-de-Fermat and is not freely open; admire the street front or join a guided visit.",
+   "q": "Hôtel de Bernuy, Rue Gambetta, Toulouse",
+   "ll": [
+    43.60237,
+    1.44055
+   ],
+   "src": [
+    "https://metropole.toulouse.fr/annuaire/hotel-de-bernuy",
+    "https://en.Wikipedia.com/wiki/H%C3%B4tel_de_Bernuy"
+   ]
+  },
+  {
+   "id": "toulousedalbade",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the ceramic tympanum of Notre-Dame de la Dalbade",
+   "desc": "The church's Renaissance portal of 1537 is topped by a ceramic tympanum made in 1878 by Gaston Virebent, copying Fra Angelico's Coronation of the Virgin. The old bell tower, 81 metres high, collapsed in 1926.",
+   "tip": "Open daily in the Carmes district; combine with the Marché des Carmes nearby.",
+   "q": "Église Notre-Dame de la Dalbade, 30 rue de la Dalbade, Toulouse",
+   "ll": [
+    43.59767,
+    1.44258
+   ],
+   "src": [
+    "https://metropole.toulouse.fr/annuaire/notre-dame-la-dalbade",
+    "https://www.techno-science.net/fr/definitions/eglise-notre-dame-de-la-dalbade"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "toulousenotredamedutaur",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the brick bell-wall of Notre-Dame du Taur",
+   "desc": "The 14th-century church stands where, by legend, the body of Saint Saturnin separated from the bull that dragged him. It has a brick façade topped by a bell-wall and reopened on 25 March 2026 after a restoration begun in 2023.",
+   "tip": "Free entry; visits are not possible during services.",
+   "q": "Église Notre-Dame du Taur, 12 rue du Taur, Toulouse",
+   "ll": [
+    43.60563,
+    1.44304
+   ],
+   "src": [
+    "https://metropole.toulouse.fr/actualites/notre-dame-du-taur-un-joyau-du-patrimoine-renove",
+    "https://en.wikipedia.org/wiki/Notre-Dame_du_Taur"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "toulousechateaudeau",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See photography at the Château d'Eau",
+   "desc": "The former water tower on place Laganne became the first French public gallery dedicated solely to photography, founded in 1974 by Jean Dieuzaide with a Doisneau show. It reopened in November 2025 after eighteen months of works.",
+   "tip": "Check the current exhibition and opening days before going.",
+   "q": "Le Château d'Eau, 1 place Laganne, Toulouse",
+   "ll": [
+    43.59869,
+    1.43693
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Château_d'eau_de_Toulouse"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "toulousecarmelites",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find the painted ceiling of the Chapelle des Carmélites",
+   "desc": "The only surviving part of a Carmelite convent, this chapel was begun in 1622 and listed in 1909. Its painted ceiling is often compared with the Sistine Chapel's.",
+   "tip": "Open for visits and concerts; a guided visit costs a few euros.",
+   "q": "Chapelle des Carmélites, 1 rue du Périgord, Toulouse",
+   "ll": [
+    43.60759,
+    1.44328
+   ],
+   "src": [
+    "https://metropole.toulouse.fr/annuaire/chapelle-des-carmelites",
+    "https://www.tourisme-occitanie.com/fr/fiche/patrimoine-culturel/chapelle-des-carmelites-toulouse_TFOPCUMID031FS00094/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "toulousecandie",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Tour the Château de Candie and its organic vineyard",
+   "desc": "Toulouse has owned the Domaine de Candie since 1975: a 13th-century brick château with a listed park and over 250 hectares of organic farmland. The estate makes organic wines such as Tolosa and L'Illustre.",
+   "tip": "Guided visits last about 1h30 for up to 25 people; book through Toulouse Tourisme.",
+   "q": "Domaine de Candie, 17 chemin de la Saudrune, Toulouse",
+   "ll": [
+    43.54365,
+    1.39104
+   ],
+   "src": [
+    "https://metropole.toulouse.fr/annuaire/domaine-agricole-de-candie",
+    "https://www.toulouse-tourisme.com/en/commerce/domaine-de-candie/"
+   ]
+  },
+  {
+   "id": "toulousebayardlock",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Watch boats at the double Bayard lock",
+   "desc": "The Écluse Bayard is a double lock of the Canal du Midi, opposite Matabiau station and dating from around 1670. The canal is on the UNESCO World Heritage list.",
+   "tip": "Free and open year-round; walk the towpath from Port Saint-Sauveur.",
+   "q": "Écluse de Bayard, Canal du Midi, Toulouse",
+   "ll": [
+    43.61125,
+    1.4541
+   ],
+   "src": [
+    "https://canalplan.co.uk/place/5a6g",
+    "https://audiala.com/en/france/toulouse/bayard-lock/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "toulousebibent",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have a coffee in the Belle Époque Le Bibent",
+   "desc": "A café-brasserie at 5 place du Capitole, open since 1861 and revived in 2009 under chef Christian Constant. Its Napoleon III interior is listed as a historic monument.",
+   "tip": "A terrace seat on the Capitole is the draw; go outside meal times for a drink.",
+   "q": "Le Bibent, 5 place du Capitole, Toulouse",
+   "ll": [
+    43.60478,
+    1.44345
+   ],
+   "src": [
+    "https://www.tourisme-occitanie.com/fr/fiche/restauration/le-bibent-toulouse_TFORESMID031V500ZFW/",
+    "https://tasteoffrancemag.com/trending/restaurant-review-le-bibent-toulouse/"
+   ]
+  },
+  {
+   "id": "toulouseattila",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Lunch on plancha fish at Chez Attila, Marché Victor Hugo",
+   "desc": "Chez Attila is one of the restaurants on the upper floor of the Marché Victor Hugo, serving fresh fish cooked on the plancha. Fodor's rates it among the best of the market's five upstairs restaurants.",
+   "tip": "Lunch only, Tuesday to Sunday; the shared tables are loud, so book ahead.",
+   "q": "Chez Attila, Marché Victor Hugo, Place Victor Hugo, Toulouse",
+   "ll": [
+    43.6064,
+    1.44656
+   ],
+   "src": [
+    "https://www.handi.toulouse-tourisme.com/offre/chez-attila",
+    "https://fodors.fodors.com/world/europe/france/the-midi-pyrenees-and-languedoc-roussillon/things-to-do/sights/reviews/marche-victor-hugo-448938"
+   ]
+  },
+  {
+   "id": "toulouseemilecassoulet",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat the cassoulet at Émile on Place Saint-Georges",
+   "desc": "Émile at 13 place Saint-Georges has cooked Toulouse cassoulet with duck confit since 1947 by one listing. The Michelin Guide calls the cassoulet the star of the menu.",
+   "tip": "Book ahead; closed Sunday and Monday according to the Michelin page.",
+   "q": "Restaurant Émile, 13 place Saint-Georges, Toulouse",
+   "ll": [
+    43.60225,
+    1.44722
+   ],
+   "src": [
+    "https://guide.michelin.com/gb/en/occitanie/toulouse/restaurant/emile8968"
+   ]
+  },
+  {
+   "id": "toulousepillon",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste candied violets at Maison Pillon",
+   "desc": "Maison Pillon is a Toulouse confectioner linked to the violet tradition and the Pavé du Capitole. A brioche with candied violet and chestnut is among its violet pastries.",
+   "tip": "Shops near the Marché des Carmes; confirm current ownership and hours.",
+   "q": "Maison Pillon, rue d'Austerlitz, Toulouse",
+   "ll": [
+    43.60545,
+    1.44749
+   ],
+   "src": [
+    "https://www.toulouse-tourisme.com/commerce/maison-pillon/",
+    "https://www.gillespudlowski.com/52880/produits/toulouse-les-plaisirs-de-pillon"
+   ]
+  },
+  {
+   "id": "toulousesarran",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine at Michel Sarran, Michelin-starred in a mansion",
+   "desc": "Chef Michel Sarran's restaurant occupies a private mansion at 21 boulevard Armand-Duportal. It holds one Michelin star and 17/20 from Gault&Millau.",
+   "tip": "The weekday lunch menu is the cheaper way in; book well ahead.",
+   "q": "Restaurant Michel Sarran, 21 boulevard Armand Duportal, Toulouse",
+   "ll": [
+    43.60728,
+    1.43456
+   ],
+   "src": [
+    "https://guide.michelin.com/en/occitanie/toulouse/restaurant/michel-sarran",
+    "https://fr.gaultmillau.com/en/restaurants/michel-sarran"
+   ]
+  },
+  {
+   "id": "toulousecolombier",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order the Castelnaudary cassoulet at Le Colombier",
+   "desc": "Le Colombier at 14 rue Bayard began in 1874 as a boarding house serving the cassoulet of Castelnaudary. Gault&Millau notes the cassoulet remains on the menu, with cassoulet formulas at 36 and 44 euros.",
+   "tip": "Book at least two days ahead in cassoulet season in winter.",
+   "q": "Le Colombier, 14 rue de Bayard, Toulouse",
+   "ll": [
+    43.60863,
+    1.44758
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/en/restaurants/le-colombier-restaurant",
+    "https://toulousesecret.com/en/cassoulet-best-addresses-in-toulouse/"
+   ]
+  },
+  {
+   "id": "toulouseperelouis",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sip a quinquina at Au Père Louis",
+   "desc": "A wine bar and brasserie at 45 rue des Tourneurs since 1889, with a listed façade and first room, wood panelling and zinc counter. It is known for its quinquina fortified wine.",
+   "tip": "Come for the afternoon brasserie service or an evening drink; check hours first.",
+   "q": "Au Père Louis, 45 rue des Tourneurs, Toulouse",
+   "ll": [
+    43.60127,
+    1.44495
+   ],
+   "src": [
+    "https://www.tourisme-occitanie.com/fr/fiche/restauration/au-pere-louis-toulouse_TFORESMID031V5011UF/",
+    "https://fodors.fodors.com/world/europe/france/the-midi-pyrenees-and-languedoc-roussillon/things-to-do/nightlife/reviews/pere-louis-448825"
+   ]
+  },
+  {
+   "id": "toulousenavarre",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Share a southwest feast at Chez Navarre",
+   "desc": "A Gascon restaurant at 49 Grande Rue Nazareth with rustic decor and shared tables, serving foie gras, duck confit and Pyrenean lamb. Gault&Millau lists it at about 27 euros a head.",
+   "tip": "Book ahead; it is a short walk from Carmes metro.",
+   "q": "Chez Navarre, 49 Grande Rue Nazareth, Toulouse",
+   "ll": [
+    43.59692,
+    1.44742
+   ],
+   "src": [
+    "https://www.tourisme-occitanie.com/fr/fiche/restauration/chez-navarre-toulouse_TFORESMID031V5006HR/",
+    "https://fr.gaultmillau.com/en/restaurants/chez-navarre"
+   ]
+  },
+  {
+   "id": "toulousegentymagre",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try the cassoulet at Le Genty Magre",
+   "desc": "A classic Toulouse restaurant at 3 rue Genty Magre, with chef Romain Brard, known for its cassoulet, foie gras and southwest dishes. The Michelin Guide lists it as a Plate restaurant.",
+   "tip": "The cassoulet is also sold in jars to take home; call to book.",
+   "q": "Le Genty Magre, 3 rue Genty Magre, Toulouse",
+   "ll": [
+    43.60151,
+    1.44523
+   ],
+   "src": [
+    "https://guide.michelin.com/gb/en/occitanie/toulouse/restaurant/genty-magre",
+    "https://fr.gaultmillau.com/en/restaurant/le-genty-magre"
+   ]
+  },
+  {
+   "id": "toulousepereleon",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order house cassoulet at Le Père Léon on Place Esquirol",
+   "desc": "A brasserie at 2 place Esquirol founded in 1905 by Léon Sentenac and still family-run. It serves a house-made Toulouse cassoulet.",
+   "tip": "Reviews are best for the classic southwest plates; avoid the busiest lunch hour.",
+   "q": "Le Père Léon, 2 place Esquirol, Toulouse",
+   "ll": [
+    43.6013,
+    1.4452
+   ],
+   "src": [
+    "https://petitfute.com/v24565-toulouse-31000/c1165-restaurants/c4-cuisine-francaise/c1-bistrot-brasserie/705365-le-pere-leon.html?page=5",
+    "https://toulousesecret.com/en/cassoulet-best-addresses-in-toulouse/"
+   ]
+  },
+  {
+   "id": "toulouseflorida",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Take an apéritif at Le Florida on the Capitole",
+   "desc": "A historic brasserie on place du Capitole, listed by Visit Occitanie as open since 1874, with a terrace under the arcades.",
+   "tip": "Best for coffee or an apéritif on the square rather than a full meal.",
+   "q": "Le Florida, Place du Capitole, Toulouse",
+   "ll": [
+    43.6044,
+    1.4428
+   ],
+   "src": [
+    "https://www.visit-occitanie.com/en/fiche/restauration/grand-cafe-le-florida-toulouse_TFORESMID031V500Z4B/"
+   ]
+  },
+  {
+   "id": "toulousejardinsopera",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine at Les Jardins de l'Opéra with chef Stéphane Tournié",
+   "desc": "A gastronomic restaurant at 1 place du Capitole in the courtyard of the Grand Hôtel de l'Opéra, led by chef Stéphane Tournié. It holds a Michelin star and 13.5/20 from Gault&Millau.",
+   "tip": "Open Tuesday to Saturday; menus run from about 52 euros.",
+   "q": "Les Jardins de l'Opéra, 1 place du Capitole, Toulouse",
+   "ll": [
+    43.6041,
+    1.4434
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/en/restaurants/les-jardins-de-l-opera",
+    "https://www.privateaser.com/lieu/47290-les-jardins-de-l-opera"
+   ]
+  },
+  {
+   "id": "toulousecartoucherie",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Graze at the stalls of Les Halles de la Cartoucherie",
+   "desc": "A food hall in the Cartoucherie district at 10 place de la Charte des Libertés Communales, mixing food stands, a bar and an ice cream stall called Chapiteau.",
+   "tip": "Reach it by tram T1; hours differ by stall.",
+   "q": "Les Halles de la Cartoucherie, 10 place de la Charte des Libertés Communales, Toulouse",
+   "ll": [
+    43.60096,
+    1.40739
+   ],
+   "src": [
+    "https://www.toulouse-tourisme.com/en/activite/les-halles-de-la-cartoucherie/",
+    "https://halles-cartoucherie.fr/?p=1833"
+   ]
+  },
+  {
+   "id": "toulousejardindesthes",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have tea at Au Jardin des Thés on Place Saint-Georges",
+   "desc": "A flower-filled tea room at 16 place Saint-Georges with teas and infusions served with savoury tarts or cakes.",
+   "tip": "Open Wednesday to Sunday from noon by one listing; check before going.",
+   "q": "Au Jardin des Thés, 16 place Saint-Georges, Toulouse",
+   "ll": [
+    43.6028,
+    1.4488
+   ],
+   "src": [
+    "https://www.justacote.com/toulouse-31000/salon-de-the-et-cafe/au-jardin-des-thes-869498.htm",
+    "https://www.lonelyplanet.com/pois/1193045"
+   ]
+  },
+  {
+   "id": "toulousechezmarcel",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat a bistronomic lunch at Chez Marcel",
+   "desc": "A bistro-brasserie at 36 rue de Rémusat near the Capitole with a Parisian feel and market-led dishes plus pastries from its own pastry chef.",
+   "tip": "A plat-and-dessert lunch formula costs around 16 to 17 euros.",
+   "q": "Chez Marcel, 36 rue de Rémusat, Toulouse",
+   "ll": [
+    43.606,
+    1.449
+   ],
+   "src": [
+    "https://www.tourisme-occitanie.com/fr/fiche/restauration/chez-marcel-toulouse_TFORESMID031V509CUA/"
+   ]
+  },
+  {
+   "id": "toulousecompagniechocolat",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Buy hand-made chocolates at La Compagnie du Chocolat",
+   "desc": "A chocolate shop at 17 rue des Puits-Clos founded in 1993 by Vincent Puyuelo, where chocolates are made in the shop in front of customers.",
+   "tip": "Close to the Capitole; check opening days as listings differ.",
+   "q": "La Compagnie du Chocolat, 17 rue des Puits-Clos, Toulouse",
+   "ll": [
+    43.60516,
+    1.44269
+   ],
+   "src": [
+    "https://www.toulouse-tourisme.com/en/commerce/la-compagnie-du-chocolat/",
+    "https://toulousesecret.com/en/best-chocolate-makers-toulouse/"
+   ]
+  },
+  {
+   "id": "toulousebateaux",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cruise the Garonne with Les Bateaux Toulousains",
+   "desc": "Les Bateaux Toulousains run Garonne cruises, including a sunset trip and a trip through the Saint-Pierre lock into the Canal de Brienne. Garonne cruises leave from Port de la Daurade.",
+   "tip": "Season runs roughly March to October; confirm the departure port when booking.",
+   "q": "Les Bateaux Toulousains, Quai de la Daurade, Toulouse",
+   "ll": [
+    43.60245,
+    1.43845
+   ],
+   "src": [
+    "https://www.toulouse-tourisme.com/activite/les-bateaux-toulousains/"
+   ],
+   "months": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "toulousecarmesmarket",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Marché des Carmes",
+   "desc": "A covered market on place des Carmes with about 50 stalls selling produce, meat, cheese and bread. It opened on 23 December 1966 on the site of a former convent.",
+   "tip": "Open every day except Monday, 7:00 to 13:30.",
+   "q": "Marché des Carmes, Place des Carmes, Toulouse",
+   "ll": [
+    43.5977,
+    1.44448
+   ],
+   "src": [
+    "https://www.toulouse-tourisme.com/en/commerce/marche-couvert-des-carmes/",
+    "https://metropole.toulouse.fr/annuaire/marche-couvert-carmes"
+   ]
+  },
+  {
+   "id": "toulousesaintaubin",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Wander the Sunday market at Saint-Aubin",
+   "desc": "A food and general market around the Saint-Aubin church between the Canal du Midi and La Colombette, mixing produce and stalls. Visitors point to the organic and local products to the right of the church.",
+   "tip": "Sunday only, 7:00 to 14:00; arrive early. The flea market is on Saturday mornings.",
+   "q": "Marché Saint-Aubin, Place Saint-Aubin, Toulouse",
+   "ll": [
+    43.60872,
+    1.45021
+   ],
+   "src": [
+    "https://www.toulouse-tourisme.com/marches",
+    "https://mapstr.com/place/AClN4uvRIog"
+   ]
+  },
+  {
+   "id": "blagnacairbustour",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Tour the Airbus assembly lines from Aeroscopia",
+   "desc": "Taxiway, a Manatour subsidiary, runs Airbus site visits starting at Aeroscopia in Blagnac. The panoramic coach tour covers about 25 km, and an A380 discovery tour also exists.",
+   "tip": "Booking is mandatory; bring a passport or ID card and leave cameras behind.",
+   "q": "Aeroscopia, 1 allée André Turcat, Blagnac",
+   "ll": [
+    43.66076,
+    1.36033
+   ],
+   "src": [
+    "https://www.nomadesim.com/ko/destination-guides/airbus-factoury-tour-toulouse",
+    "https://www.france.fr/en/article/aeroscopia-toulouse-blagnac/"
+   ]
+  },
+  {
+   "id": "toulouserioloco",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Dance at the Rio Loco festival",
+   "desc": "Rio Loco is a world-music festival created by the city, held at the Prairie des Filtres since 1995. The 2026 edition ran from 10 to 14 June and welcomes 10,000 to 12,000 people a day.",
+   "tip": "Expect dates in mid-June; tickets are sold at rio-loco.org.",
+   "q": "Prairie des Filtres, Toulouse",
+   "ll": [
+    43.5956,
+    1.437
+   ],
+   "src": [
+    "https://metropole.toulouse.fr/espace-presse/rio-loco-2026-insulae",
+    "https://www.toulouse-tourisme.com/en/agenda/rio-loco/"
+   ],
+   "months": [
+    6
+   ]
+  },
+  {
+   "id": "toulouseorgues",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Hear organ concerts at Toulouse les Orgues",
+   "desc": "The international organ festival, founded in 1996, runs in October with its base at the Église du Gesù, 22 bis rue des Fleurs. The 31st edition ran from 7 to 18 October 2026.",
+   "tip": "Buy tickets online at toulouse-les-orgues.org.",
+   "q": "Église du Gesù, 22 bis rue des Fleurs, Toulouse",
+   "ll": [
+    43.59447,
+    1.44692
+   ],
+   "src": [
+    "https://metropole.toulouse.fr/agenda/toulouse-les-orgues",
+    "https://www.festivalenfrance.com/festival/toulouse-les-orgues"
+   ],
+   "months": [
+    10
+   ]
+  },
+  {
+   "id": "toulouseplages",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Spend a summer day at Toulouse Plages",
+   "desc": "Each summer the Prairie des Filtres becomes an urban beach with sports, games, concerts and outdoor cinema. The 2026 edition ran from 20 July to 23 August with free entry.",
+   "tip": "Open daily 9:30 to 21:30 with free equipment loans.",
+   "q": "Prairie des Filtres, Toulouse",
+   "ll": [
+    43.5956,
+    1.437
+   ],
+   "src": [
+    "https://metropole.toulouse.fr/espace-presse/toulouse-plages",
+    "https://www.festivalenfrance.com/festival/toulouse-plages"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    7,
+    8
+   ]
+  },
+  {
+   "id": "toulousecanalbike",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cycle the Canal du Midi towpath from Port Saint-Sauveur",
+   "desc": "The Canal des 2 Mers bike route starts in Toulouse along the Canal du Midi, with a dedicated cycle path from the Ponts Jumeaux to the Bayard lock. A ride from Port Saint-Sauveur to Castanet lock is about 25 km round trip.",
+   "tip": "Rent a bike at the Maison du Vélo opposite Matabiau station; check for works on the route.",
+   "q": "Port Saint-Sauveur, Canal du Midi, Toulouse",
+   "ll": [
+    43.59525,
+    1.4563
+   ],
+   "src": [
+    "https://www.tourisme-occitanie.com/destinations/incontournables/toulouse/toulouse-a-velo/",
+    "https://www.francevelotourisme.com/toulouse-a-velo"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "toulousejapanesegarden",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Sit in the Jardin Japonais Pierre-Baudis",
+   "desc": "Designed after the Katsura villa in Kyoto, the Japanese garden in Compans-Caffarelli park was created in 1981 and covers 7,000 square metres. It has a tea pavilion and a red bridge and is labelled Jardin remarquable.",
+   "tip": "Winter hours are 8:00 to 18:00; check seasonal hours.",
+   "q": "Jardin Japonais Pierre Baudis, Boulevard Lascrosses, Toulouse",
+   "ll": [
+    43.6119,
+    1.4322
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Jardin_japonais_de_Toulouse"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "toulouseraymondvi",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Watch the Garonne from the Jardin Raymond VI",
+   "desc": "A 2.4-hectare garden between the former ramparts and the Abattoirs, with a belvedere over the Garonne, a botanical garden, and a footbridge close to the water.",
+   "tip": "Open around 8:00 to 21:00; a seasonal buvette operates in summer.",
+   "q": "Jardin Raymond VI, Toulouse",
+   "ll": [
+    43.59985,
+    1.4295
+   ],
+   "src": [
+    "https://www.tourisme-occitanie.com/fr/fiche/patrimoine-culturel/jardin-raymond-vi-toulouse_TFOPCUMID031FS0007C/",
+    "https://www.lonelyplanet.fr/poi/jardin-raymond-vi"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "tournefeuilleramee",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk or swim at the Lac de la Ramée",
+   "desc": "The La Ramée leisure base in Tournefeuille spans 243 hectares and a 44-hectare lake fed by the Saint-Martory canal. It offers walking loops, paddle and kayak, and a supervised beach in summer.",
+   "tip": "Entrances at chemin de Larramet and avenue du Général de Monsabert; swimming dates change yearly.",
+   "q": "Base de loisirs de la Ramée, Chemin de Larramet, Tournefeuille",
+   "ll": [
+    43.56975,
+    1.35291
+   ],
+   "src": [
+    "https://www.toulouse-tourisme.com/en/activite/base-de-sports-et-de-loisirs-de-la-ramee/",
+    "https://www.tourisme-occitanie.com/fr/fiche/equipement/base-de-sports-et-de-loisirs-de-la-ramee-tournefeuille_TFOLOIMID031FS00119/"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "toulousecinelatino",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "See Latin American films at Cinélatino",
+   "desc": "Cinélatino, Rencontres de Toulouse has run since 1989, organised by ARCALT, every March. The 2026 edition, the 38th, ran from 20 to 29 March with about 90 films.",
+   "tip": "The 2027 edition is reported for 12 to 21 March; check cinelatino.fr.",
+   "q": "Cinéma ABC, 13 rue Saint-Bernard, Toulouse",
+   "ll": [
+    43.60909,
+    1.44394
+   ],
+   "src": [
+    "https://www.cnc.fr/cinema/actualites/cinelatino-le-mexique-fil-rouge-de-la-38e-edition_2549344",
+    "https://www.festivalenfrance.com/festival/cinelatino-rencontres-de-toulouse"
+   ],
+   "months": [
+    3
+   ]
+  },
+  {
+   "id": "toulouseminotaure",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Ride the Minotaur at the Halle de la Machine",
+   "desc": "The Halle de la Machine at 3 avenue de l'Aérodrome de Montaudran houses the 47-tonne Minotaur Astérion by François Delarozière's La Machine company. Visitors ride on its back, 14 metres up, along the Piste des Géants, the old Aéropostale runway.",
+   "tip": "Reservation is strongly recommended; bus line 23 stops at Piste des Géants.",
+   "q": "Halle de la Machine, 3 avenue de l'Aérodrome de Montaudran, Toulouse",
+   "ll": [
+    43.57276,
+    1.47811
+   ],
+   "src": [
+    "https://metropole.toulouse.fr/annuaire/halle-de-la-machine",
+    "https://www.toulouse-tourisme.com/balade-a-dos-de-minotaure-halle-de-la-machine"
+   ]
+  },
+  {
+   "id": "toulousebrienne",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Stroll the Canal de Brienne under century-old plane trees",
+   "desc": "The 1,560-metre Canal de Brienne links the Garonne at the Saint-Pierre lock to the Canal du Midi, opened in 1776 and UNESCO-listed with it. A plane-tree canopy shades the towpath, which is being turned into a promenade.",
+   "tip": "Free; combine with a Garonne cruise through the Saint-Pierre lock.",
+   "q": "Écluse Saint-Pierre, Canal de Brienne, Toulouse",
+   "ll": [
+    43.60398,
+    1.4342
+   ],
+   "src": [
+    "https://metropole.toulouse.fr/annuaire/ecluse-saint-pierre-et-canal-de-brienne",
+    "https://en.wikipedia.org/wiki/Brienne_Canal"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "lunionsaintcaprais",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk around the Lac de Saint-Caprais in L'Union",
+   "desc": "A flat, easy loop around the lake in L'Union, with wooded shores, a play area and a lake stocked with fish. Several walking routes start from L'Union.",
+   "tip": "Easy loop for families; combine with the Canal de Brienne towpath.",
+   "q": "Lac de Saint-Caprais, L'Union",
+   "ll": [
+    43.64468,
+    1.48067
+   ],
+   "src": [
+    "https://www.decathlon-outdoor.com/fr-fr/explore/france/le-lac-de-saint-caprais-6445065861ef7",
+    "https://www.visorando.com/randonnee-l-union.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "colomierscabirol",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Stroll the Parc du Cabirol in Colomiers",
+   "desc": "A park crossed by the Armurier stream in Colomiers, with shaded paths, a lake and play areas. It sits on the Grand Parc du Touch green corridor.",
+   "tip": "Free; a good stop on a walk along the Touch.",
+   "q": "Parc du Cabirol, Colomiers",
+   "ll": [
+    43.59777,
+    1.33385
+   ],
+   "src": [
+    "https://metropole.toulouse.fr/mon-environnement/amenagement/grand-parc-du-touch",
+    "https://www.komoot.com/fr-fr/guide/1520064/attractions-autour-de-colomiers"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

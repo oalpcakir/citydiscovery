@@ -1,0 +1,812 @@
+{
+ "new": [
+  {
+   "id": "grenoblebulles",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Ride the Bastille bubbles above Grenoble",
+   "desc": "The Grenoble-Bastille cable car opened in September 1934 and its first twelve-sided Poma cabins were nicknamed the bulles. The line was rebuilt in 1976 and the current glass bubbles date from then. It climbs from the Isère quay to the fort for views over the city and three mountain ranges.",
+   "tip": "Ride up at golden hour and walk down through the Jardin des Dauphins to Saint-Laurent. Check seasonal hours and weather closures on the official Bastille site.",
+   "q": "Téléphérique Grenoble-Bastille, Quai Stéphane Jay, Grenoble",
+   "ll": [
+    45.19303,
+    5.72566
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Grenoble-Bastille_cable_car",
+    "https://bastille-grenoble.fr/en/the-cable-car-and-its-story/"
+   ]
+  },
+  {
+   "id": "museedegrenoble",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See Matisse and Picasso at the Musée de Grenoble",
+   "desc": "Founded in 1798, the museum covers Western painting from the 13th to the 21st century. It was an early French buyer of modern art, acquiring Matisse's Intérieur aux aubergines in 1922, and holds works by Picasso and Miró plus a large drawings collection.",
+   "tip": "Tram B to Notre-Dame Musée. Allow two to three hours and check for Monday or Tuesday closure.",
+   "q": "Musée de Grenoble, 5 Place de Lavalette, Grenoble",
+   "ll": [
+    45.19497,
+    5.73225
+   ],
+   "src": [
+    "https://www.alpes-isere.com/patrimoine-culturel/musee-de-grenoble",
+    "https://en.wikipedia.com/wiki/Museum_of_Grenoble"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "museedauphinois",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore Alpine life at the Musée dauphinois",
+   "desc": "The regional ethnography museum occupies the 17th-century Sainte-Marie-d'en-Haut convent founded by the Visitation order on the Bastille slope. It moved here from a smaller chapel in the late 1960s. The baroque chapel, cloister and terraced gardens look over the city.",
+   "tip": "Combine with a walk up to the Bastille. Admission has been free for permanent collections; confirm on the museum site.",
+   "q": "Musée dauphinois, 30 Rue Maurice Gignoux, Grenoble",
+   "ll": [
+    45.19606,
+    5.72718
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Mus%C3%A9e_dauphinois",
+    "https://www.alpes-isere.com/patrimoine-culturel/musee-dauphinois"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "museeresistancegrenoble",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Trace the Resistance at the Musée de la Résistance de l'Isère",
+   "desc": "The departmental museum at 14 rue Hébert grew out of a 1966 museum of the Dauphiné Resistance. Its permanent show covers joining the Resistance, the maquis, the persecution of Jews, repression and the Liberation, with more than 5,000 objects in the collection.",
+   "tip": "Opening days differ between sources, so check the official site. Plan about 90 minutes.",
+   "q": "Musée de la Résistance et de la Déportation de l'Isère, 14 Rue Hébert, Grenoble",
+   "ll": [
+    45.19012,
+    5.7352
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Mus%C3%A9e_de_la_R%C3%A9sistance_et_de_la_D%C3%A9portation_%C3%A0_Grenoble",
+    "https://www.cheminsdememoire.gouv.fr/en/museum-resistance-and-deportation-isere"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "grenoblecathedrale",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the stone ciborium in Grenoble Cathedral",
+   "desc": "Notre-Dame cathedral, a 13th-century building joined to the 11th-century Saint-Hugues church, is known for a 14-metre Flamboyant Gothic stone ciborium in the chancel. A massive square brick bell-porch is the only part visible from the square. The site is first mentioned in 902.",
+   "tip": "Free and open daily. Visit together with the Ancien Évêché museum next door.",
+   "q": "Cathédrale Notre-Dame, Place Notre-Dame, Grenoble",
+   "ll": [
+    45.19256,
+    5.7321
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Grenoble_Cathedral",
+    "https://www.alpes-isere.com/?p=92721"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ancieneveche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Descend to the early Christian baptistery",
+   "desc": "The Musée de l'Ancien Évêché, in the former bishops' palace beside the cathedral, shows the history of Dauphiné. In its basement are the remains of an early Christian baptistery with an octagonal basin 75 centimetres deep, plus part of the Roman rampart.",
+   "tip": "Guided visits of the baptistery are offered; check the schedule and free-entry policy online.",
+   "q": "Musée de l'Ancien Évêché, 2 Rue Très-Cloîtres, Grenoble",
+   "ll": [
+    45.19282,
+    5.73222
+   ],
+   "src": [
+    "https://Www.Wikipedia.org/wiki/Mus%C3%A9e_de_l%27Ancien_%C3%89v%C3%AAch%C3%A9",
+    "https://www.grenoble-tourisme.com/en/catalog/detail/musee-de-l-ancien-eveche-77109/?page_id=24"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "saintlaurentcrypte",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the 6th-century Saint-Oyand crypt",
+   "desc": "The Musée archéologique Saint-Laurent occupies a former parish church whose crypt dates from the 6th century and has a Greek-cross plan. It is one of the rare early-medieval remains in France and one of the earliest monuments to receive heritage protection.",
+   "tip": "Bus 16 or 62 to Saint-Laurent, or tram B. The Saint-Laurent district across the Isère is also good for a stroll.",
+   "q": "Musée archéologique Grenoble Saint-Laurent, Place Saint-Laurent, Grenoble",
+   "ll": [
+    45.19766,
+    5.73149
+   ],
+   "src": [
+    "https://www.guide-tourisme-france.com/VISITER/musee-archeologique--eglise-saint-laurent--grenoble-13961.htm",
+    "https://kupi.com/en-ae/explore/france/grenoble/musee-archeologique-saint-laurent"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "collegialestandre",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find Bayard's tomb in the Collégiale Saint-André",
+   "desc": "This church on Place Saint-André was the burial place of the Dauphins, whose tomb was destroyed in 1562 during the Wars of Religion. The north transept holds the tomb of the knight Pierre Terrail de Bayard, whose presumed remains were moved here in 1822.",
+   "tip": "Open for visits and occasional organ recitals; the former Parliament palace faces it across the square.",
+   "q": "Collégiale Saint-André, Place Saint-André, Grenoble",
+   "ll": [
+    45.19291,
+    5.72799
+   ],
+   "src": [
+    "https://www.guide-tourisme-france.com/VISITER/collegiale-saint-andre--grenoble-34093.htm",
+    "https://www.waymarking.com/waymarks/wm16ZMG_Collgiale_Saint_Andr_de_Grenoble_France"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "museestendhal",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step into Stendhal's family apartment",
+   "desc": "The Musée Stendhal is installed in the Gagnon apartment on Grande Rue, home of the writer's maternal grandfather. It opened in 2012, and the terrace was set up as an observatory by Dr Gagnon and overlooks the Jardin de Ville, where Stendhal watched strollers.",
+   "tip": "Visits are by schedule or guided slot, so check the city museum site. Finish with a stroll in the Jardin de Ville.",
+   "q": "Musée Stendhal, 20 Grande Rue, Grenoble",
+   "ll": [
+    45.1912,
+    5.72807
+   ],
+   "src": [
+    "https://monumentum.fr/maisons-des-illustres/MI154/grenoble-appartement-gagnon-maison-stendhal",
+    "https://artsupp.com/en/grenoble/museums/musee-stendhal"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "tourperret",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb Auguste Perret's tower in Parc Paul-Mistral",
+   "desc": "The 90-metre Tour Perret was built for the 1925 hydroelectric and tourism exhibition and is the only remnant of that fair. It is an early reinforced-concrete tower designed by Auguste Perret. After more than 60 years closed it reopened to the public in July 2026 with a 360-degree panorama.",
+   "tip": "Tram A or C to Chavant. Booking is required for the summit; check current prices.",
+   "q": "Tour Perret, Parc Paul Mistral, Grenoble",
+   "ll": [
+    45.18495,
+    5.73542
+   ],
+   "src": [
+    "https://www.grenoble-tourisme.com/en/catalog/detail/tour-perret-35439/",
+    "https://monumentum.fr/monument-historique/pa00117204/grenoble-tour-perret-situee-dans-le-parc-paul-mistral"
+   ]
+  },
+  {
+   "id": "vizillemuseerevolution",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Musée de la Révolution française at Vizille",
+   "desc": "The museum fills the 17th-century château of the Lesdiguières dukes, where the Assembly of the Three Orders of Dauphiné met on 21 July 1788, foreshadowing the Estates-General. The Isère department created the museum in 1983. The château sits in a 100-hectare park.",
+   "tip": "Free entry to park and museum. Winter hours are limited and Tuesday has been closed; check musees.isere.fr.",
+   "q": "Domaine de Vizille, Musée de la Révolution française, Vizille",
+   "ll": [
+    45.06692,
+    5.77225
+   ],
+   "src": [
+    "https://www.alpes-isere.com/?p=155967",
+    "https://www.auvergnerhonealpes-tourisme.com/?p=115018"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "cuvessassenage",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Follow the Mélusine legend into the Cuves de Sassenage",
+   "desc": "The Cuves de Sassenage are show caves at the foot of the Vercors above the village of Sassenage, entered by steps cut in the rock. A guided visit covers over a kilometre of galleries with stalactites, stalagmites and the legend of the fairy Mélusine.",
+   "tip": "Sources differ on whether booking is required, so reserve ahead. The access path can close for fire risk in summer.",
+   "q": "Grottes Les Cuves de Sassenage, Sassenage",
+   "ll": [
+    45.20836,
+    5.65133
+   ],
+   "src": [
+    "https://www.grenoble-tourisme.com/en/discover/essentials/les-cuves-de-sassenage/",
+    "https://www.alpes-isere.com/equipements/grotte-les-cuves-de-sassenage"
+   ]
+  },
+  {
+   "id": "museehebertlatronche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Wander the Musée Hébert estate in La Tronche",
+   "desc": "The estate was bought in 1821 by the mother of painter Ernest Hébert (1817-1908). His widow Gabrielle turned it into a private museum in 1934, and it was given to the Isère department in 1979. It shows his work alongside contemporary exhibitions.",
+   "tip": "Chemin Hébert in La Tronche; check hours and free entry on the departmental museum site.",
+   "q": "Musée Hébert, Chemin Hébert, La Tronche",
+   "ll": [
+    45.20574,
+    5.75102
+   ],
+   "src": [
+    "https://alpes-isere.com/?p=21422",
+    "https://chartreuse-tourisme.com/en/offers/musee-hebert-la-tronche-en-2716796"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "museechampollionvif",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Meet the Champollion brothers at Vif",
+   "desc": "The departmental museum occupies the family house where Jacques-Joseph and Jean-François Champollion grew up, owned by the Berriat family since 1778. It opened in 2021 and is described as the only museum in France devoted to the birth of Egyptology. It stands in a 2.5-hectare park.",
+   "tip": "45 rue Champollion, Vif. Entry has been free; confirm hours on musees.isere.fr.",
+   "q": "Musée Champollion, 45 Rue Champollion, Vif",
+   "ll": [
+    45.05337,
+    5.6692
+   ],
+   "src": [
+    "https://www.alpes-isere.com/?p=155437",
+    "https://francetoday.com/culture/museums-galleries/musee-champollion-the-first-museum-dedicated-to-egyptology/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "casamaures",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Tour the orientalist Casamaures villa",
+   "desc": "La Casamaures in Saint-Martin-le-Vinoux is a Moorish-style villa begun in 1855 and finished by 1867 by merchant Joseph Jullien, called Cochard. It is built of moulded cement, was listed as a historic monument in 1986 and is surrounded by exotic gardens.",
+   "tip": "Open only on set days, notably the first Saturday of the month; confirm on casamaures.org. Tram E to Casamaures.",
+   "q": "La Casamaures, Allée de la Casamaures, Saint-Martin-le-Vinoux",
+   "ll": [
+    45.20058,
+    5.71712
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Casamaures",
+    "https://www.chartreuse-tourisme.com/en/offers/la-casamaures-saint-martin-le-vinoux-en-2717180/"
+   ]
+  },
+  {
+   "id": "museumgrenoble",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Browse minerals at the Muséum in the Jardin des Plantes",
+   "desc": "The natural history museum sits in the Jardin des Plantes in a building by Paul Benoît Barillon completed in 1851. It holds a notable mineral collection and has about 2,800 m2 of displays, including fossils. The garden around it has rare trees and greenhouses.",
+   "tip": "1 rue Dolomieu, tram C to Hôtel de Ville. Check opening days before going.",
+   "q": "Muséum de Grenoble, 1 Rue Dolomieu, Grenoble",
+   "ll": [
+    45.18801,
+    5.73521
+   ],
+   "src": [
+    "https://www.alpes-isere.com/patrimoine-culturel/museum-de-grenoble",
+    "https://grenoble-tourisme.com/en/catalog/detail/jardin-des-plantes-josephine-baker-32359/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "lemagasincnac",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See contemporary art in an Eiffel-built hall at Le Magasin",
+   "desc": "Le Magasin centre d'art contemporain occupies a hall built by Eiffel's workshops for the 1900 Paris exhibition, later moved to Grenoble to make turbines and penstocks. It opened as an art centre in 1986 after conversion by architect Patrick Bouchain.",
+   "tip": "Site Bouchayer-Viallet, tram A to Berriat Magasin. Check the current exhibition and admission.",
+   "q": "Le Magasin, 8 Esplanade Andry Farcy, Grenoble",
+   "ll": [
+    45.1877,
+    5.70393
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Le_Magasin",
+    "https://magasin-cnac.org/le-lieu"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "tabledeanciennerondegrenoble",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sip a coffee at Café de la Table Ronde",
+   "desc": "The Café de la Table Ronde on Place Saint-André traces its origins to 1739, when confectioner Pierre Caudet rented the premises, and took its present name in 1797. The tourism office calls it Grenoble's oldest bistro and it is cited among France's oldest literary cafés.",
+   "tip": "Take a terrace table on the square, facing the former Parliament palace. Go for a coffee or a drink rather than a full meal.",
+   "q": "Café de la Table Ronde, 7 Place Saint-André, Grenoble",
+   "ll": [
+    45.19283,
+    5.72844
+   ],
+   "src": [
+    "https://www.alpes-isere.com/restauration/cafe-de-la-table-ronde",
+    "https://www.auvergnerhonealpes-tourisme.com/en/fiches/cafe-de-la-table-ronde/"
+   ]
+  },
+  {
+   "id": "hallessainteclairegrenoble",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Graze the Halles Sainte-Claire for ravioles and cheese",
+   "desc": "The Halles Sainte-Claire is a covered market built on the site of a former Poor Clares convent and listed as a historic monument since 2007. Stalls sell ravioles, Vercors fish, poultry, cheese and snacks such as empanadas.",
+   "tip": "19 place Sainte-Claire, tram B. Opening days vary by source, so go on a weekend morning to see it at its busiest.",
+   "q": "Halles Sainte-Claire, 19 Place Sainte-Claire, Grenoble",
+   "ll": [
+    45.19125,
+    5.73066
+   ],
+   "src": [
+    "https://www.grenoble-tourisme.com/en/catalog/detail/halles-sainte-claire-15622",
+    "https://monumentum.fr/monument-historique/pa38000025/grenoble-marche-couvert-dit-halle-sainte-claire"
+   ]
+  },
+  {
+   "id": "legratindauphinoisgrenoble",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order gratin dauphinois at Le Gratin Dauphinois",
+   "desc": "Opened in 2010 by chef Olivier Mondolini, this restaurant near the station serves the gratin dauphinois in several versions, plus gratin de ravioles, caillette de la Mure and roasted Saint-Marcellin. The cuisine is that of the Dauphiné.",
+   "tip": "Book ahead; portions are large. Tram A or B stops nearby.",
+   "q": "Le Gratin Dauphinois, 52 Avenue Félix Viallet, Grenoble",
+   "ll": [
+    45.19061,
+    5.7165
+   ],
+   "src": [
+    "https://www.grenoble-tourisme.com/en/where-eat/restaurants/detail/le-gratin-dauphinois-4663950/",
+    "https://www.alpes-isere.com/?p=38850"
+   ]
+  },
+  {
+   "id": "fermededegrenoble",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Share a tartiflette at La Ferme à Dédé",
+   "desc": "La Ferme à Dédé serves mountain cooking of Dauphiné and Savoie in a chalet-style room. Regulars order the gratin de ravioles, with morels or crayfish, as well as tartiflette and fondue. The central branch is on rue Barnave.",
+   "tip": "The centre-ville branch reportedly does not take reservations, so arrive early. Budget about 15 to 32 euros.",
+   "q": "La Ferme à Dédé, 24 Rue Barnave, Grenoble",
+   "ll": [
+    45.19272,
+    5.72989
+   ],
+   "src": [
+    "https://grenoble-tourisme.com/en/catalog/detail/la-ferme-a-dede-133180/",
+    "https://mapstr.com/place/4UbQTeGjQMg"
+   ]
+  },
+  {
+   "id": "chardondoregrenoble",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste walnut tart at Le Chardon Doré",
+   "desc": "Founded in 1879, Le Chardon Doré is a pâtisserie, chocolatier and tea room with a large terrace in the Jardin de Ville. Its specialities use Grenoble walnuts, including walnut tart and chocolates, and the coque Noix de Grenoble is its registered trademark.",
+   "tip": "2 rue Montorge. Closed Sunday per one guide; hours differ by source, so check.",
+   "q": "Le Chardon Doré, 2 Rue Montorge, Grenoble",
+   "ll": [
+    45.19118,
+    5.72777
+   ],
+   "src": [
+    "https://grenoble-tourisme.com/en/catalog/detail/le-chardon-dore-132741/",
+    "https://www.gillespudlowski.com/?p=359438"
+   ]
+  },
+  {
+   "id": "fromagerielesalpages",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Buy Saint-Marcellin at Fromagerie Les Alpages",
+   "desc": "Les Alpages has been at 4 rue de Strasbourg since 1978. Its founder Bernard Mure-Ravaud is a Meilleur Ouvrier de France who won the 2007 Caseus award as world champion cheesemaker. The shop has its own ageing cellar and stocks Dauphiné cheeses such as Saint-Marcellin.",
+   "tip": "Ask for a ripe Saint-Marcellin and a piece of bleu du Vercors-Sassenage. Closed Sunday and Monday according to a 2023 listing.",
+   "q": "Fromagerie Les Alpages, 4 Rue de Strasbourg, Grenoble",
+   "ll": [
+    45.18746,
+    5.72938
+   ],
+   "src": [
+    "https://www.gillespudlowski.com/?p=47609",
+    "https://www.grenoble-tourisme.com/en/catalog/detail/les-alpages-844042"
+   ]
+  },
+  {
+   "id": "brasserieneptunegrenoble",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try house-brewed beer at Brasserie Neptune",
+   "desc": "Brasserie Neptune is a brewpub in the centre of Grenoble, at 6 rue Bressieux near the Galeries Lafayette. Its beers, brewed on site, change weekly and range from blondes and IPAs to brown ales.",
+   "tip": "Open from late afternoon, with noon opening at weekends per one source; check hours.",
+   "q": "Brasserie Neptune, 6 Rue Bressieux, Grenoble",
+   "ll": [
+    45.1909,
+    5.72647
+   ],
+   "src": [
+    "https://www.gillespudlowski.com/?p=359602",
+    "https://geotrek.auvergnerhonealpes-tourisme.com/api/fr/touristiccontents/18845/brasserie-neptune.pdf?portal=4"
+   ]
+  },
+  {
+   "id": "mandrinbrasseriedauphine",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste walnut beer at Brasserie Artisanale du Dauphiné",
+   "desc": "Founded in 2002, the brewery made its first Mandrin recipes in a house kitchen and cellar in Seyssins and now works from rue de Champ Roman in Saint-Martin-d'Hères. Its best-known beer is Mandrin aux noix, made with walnuts, and it has an on-site shop.",
+   "tip": "Shop hours are limited (Thursday to Saturday per one listing). Phone or email ahead.",
+   "q": "Brasserie Artisanale du Dauphiné, 33 Rue de Champ Roman, Saint-Martin-d'Hères",
+   "ll": [
+    45.18442,
+    5.77472
+   ],
+   "src": [
+    "https://alpes-isere.com/en/sit/brasserie-artisanale-du-dauphine-4967619",
+    "https://www.beermenus.com/beers/4568-mandrin-aux-noix"
+   ]
+  },
+  {
+   "id": "fantinlatourgrenoble",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Book the tasting menu at Le Fantin Latour",
+   "desc": "Stéphane Froidevaux's restaurant at 1 rue Général-de-Beylie is listed in the Michelin Guide with one star for creative modern cooking. The tourism office describes menus built around mountain flavours and wild plants. A separate brasserie shares the site.",
+   "tip": "Dinner Tuesday or Wednesday to Saturday; tasting menus run roughly 125 to 165 euros. Reserve well ahead.",
+   "q": "Le Fantin Latour, 1 Rue Général de Beylie, Grenoble",
+   "ll": [
+    45.18996,
+    5.73254
+   ],
+   "src": [
+    "https://guide.michelin.com/en/auvergne-rhone-alpes/grenoble/restaurant/le-fantin-latour-stephane-froidevaux",
+    "https://www.grenoble-tourisme.com/en/catalog/detail/le-fantin-latour-132780/"
+   ]
+  },
+  {
+   "id": "chezleperegras",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Lunch under the lime trees at Chez Le Pèr'Gras",
+   "desc": "This long-running restaurant at 90 chemin de la Bastille in La Tronche stands about 250 metres from the cable-car top station. The terrace is shaded by old lime trees and looks over the valley and the Alps. One listing gives a 2026 season from 8 March to 30 November.",
+   "tip": "Closed Monday in the listing. Take the cable car up and walk across, and book for sunny weekends.",
+   "q": "Chez Le Pèr'Gras, 90 Chemin de la Bastille, La Tronche",
+   "ll": [
+    45.2014,
+    5.72599
+   ],
+   "src": [
+    "https://www.chartreuse-tourisme.com/en/offers/chez-le-per-gras-la-tronche-en-2717388/",
+    "https://bastille-grenoble.fr/en/catering/restaurant-chez-le-per-gras/"
+   ]
+  },
+  {
+   "id": "creperiedegordes",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat a buckwheat galette at La Crêperie de Gordes",
+   "desc": "La Crêperie de Gordes, on place de Gordes, is among Grenoble's best-documented crêperies. It serves buckwheat galettes with cheese and a butter-sugar crêpe with cider, in a mountain setting that includes an old cable-car cabin.",
+   "tip": "Tram A or B to Victor Hugo. Weekend evenings fill up, so book or come early.",
+   "q": "La Crêperie de Gordes, Place de Gordes, Grenoble",
+   "ll": [
+    45.19233,
+    5.72779
+   ],
+   "src": [
+    "https://www.grenoble-tourisme.com/en/catalog/activity/la-creperie-de-gordes-34880/",
+    "https://restoranking.fr/r/creperie-de-gordes_224475/"
+   ]
+  },
+  {
+   "id": "glacesdudauphine",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Scoop artisan ice cream at Les Glaces du Dauphiné",
+   "desc": "Les Glaces du Dauphiné makes its ice creams and sorbets on the spot in the pedestrian streets of the old town. It is one of several artisan glaciers in the centre, listed by the tourism office.",
+   "tip": "Reported on Grande Rue; confirm the address and seasonal hours online.",
+   "q": "Les Glaces du Dauphiné, Grande Rue, Grenoble",
+   "ll": [
+    45.19215,
+    5.72856
+   ],
+   "src": [
+    "https://www.grenoble-tourisme.com/en/catalog/detail/glaces-du-dauphine-5058712/",
+    "https://www.justacote.com/grenoble-38000/glacier/"
+   ]
+  },
+  {
+   "id": "meunierchocolatchartreuse",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Buy Chartreuse bonbons at Chocolatier Meunier",
+   "desc": "Chocolatier Norbert Meunier on avenue d'Alsace-Lorraine lists Chartreuse bonbons and Grenoble walnut specialities among its products. Chartreuse sweets are a regional tradition from the nearby Voiron chocolatiers.",
+   "tip": "Also sells Chartreuse products. Check opening days with the shop.",
+   "q": "Chocolatier Meunier Norbert, 34 Avenue d'Alsace-Lorraine, Grenoble",
+   "ll": [
+    45.18982,
+    5.71846
+   ],
+   "src": [
+    "https://fr.mappy.com/poi/5beb06d50351d130e65647d2",
+    "https://www.petitfute.com/v35259-grenoble-38000/c650-produits-gourmands-vins/c1107-pains-gateaux-chocolats-glaces/c669-confiserie-dragees"
+   ]
+  },
+  {
+   "id": "marchesaintbruno",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Saint-Bruno market",
+   "desc": "The Saint-Bruno market runs every morning from Tuesday to Sunday and is one of Grenoble's best-known food markets, around the Saint-Bruno church. Stalls sell local produce, cheese and bread.",
+   "tip": "Open about 7:00 to 13:00, closed Monday and public holidays per the 2026 listing. Tram A to Saint Bruno.",
+   "q": "Marché Saint-Bruno, Place Saint-Bruno, Grenoble",
+   "ll": [
+    45.18736,
+    5.71421
+   ],
+   "src": [
+    "https://www.alpes-isere.com/?p=155074",
+    "https://www.alentoor.fr/grenoble/agenda/5916474-marche-saint-bruno"
+   ]
+  },
+  {
+   "id": "montjallatraversee",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Hike the Mont Jalla crossing from the Bastille",
+   "desc": "The path leads from the Bastille fort through the Guy Pape park to the 630-metre summit of Mont Jalla, which carries the National Memorial to the Mountain Troops, with 360-degree views. It joins the GR 9 and can continue to Mont Rachais.",
+   "tip": "About 60 minutes and 140 m of climb from the fort. Tram E returns from Saint-Martin-le-Vinoux Hôtel de Ville.",
+   "q": "Fort de la Bastille, Grenoble (start of Mont Jalla crossing)",
+   "ll": [
+    45.19895,
+    5.72527
+   ],
+   "src": [
+    "https://www.alpes-isere.com/equipements/la-traversee-du-mont-jalla",
+    "https://www.visorando.com/en/walk-le-mont-jalla-depuis-la-porte-de-france/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "viaferratabastille",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Try the via ferrata Les Prises de la Bastille",
+   "desc": "A 950-metre route of three sections up the Bastille cliff, with a spectacular monkey bridge, about 400 m on rock and 550 m on path. It starts either from the Jardin des Dauphins at the bottom or Place Tournadre at the fort.",
+   "tip": "Needs harness, lanyard and good fitness; guided outings are offered locally, or contact the Maison de la Montagne.",
+   "q": "Via ferrata les Prises de la Bastille, Jardin des Dauphins, Grenoble",
+   "ll": [
+    45.1986,
+    5.72373
+   ],
+   "src": [
+    "https://bastille-grenoble.fr/via-ferrata-bastille-grenoble/?lang=en",
+    "https://www.ferrataguide.com/ferrata/via_ferrata_de_la_bastille"
+   ]
+  },
+  {
+   "id": "streetartfestgrenoble",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Follow the Street Art Fest murals along the tram",
+   "desc": "The free Street Art Fest Grenoble-Alpes, run by Spacejunk, has left over 470 murals across eight communes, many along the tram lines to Saint-Martin-d'Hères and Pont-de-Claix. The 2026 edition ran 26 May to 28 June and the next is planned for May 2027.",
+   "tip": "Walking tours (about 2 hours), bike rides and tram tours exist; start at Berriat on tram A. Confirm dates.",
+   "q": "Berriat-Le Magasin, Cours Berriat, Grenoble",
+   "ll": [
+    45.18875,
+    5.70675
+   ],
+   "src": [
+    "https://www.grenoble-tourisme.com/en/catalog/detail/le-street-art-en-tramway-5154514/",
+    "https://www.festivalenfrance.com/festival/street-art-fest-grenoble-alpes"
+   ],
+   "months": [
+    5,
+    6
+   ]
+  },
+  {
+   "id": "cabaretfrappe",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Hear free concerts at the Cabaret Frappé",
+   "desc": "The Cabaret Frappé is a free music festival in the Jardin de Ville with evening concerts. The 2026 edition ran 15 to 19 July, and 2027 is expected in July.",
+   "tip": "Concerts roughly 19:00 to 23:30. Dates for 2027 are unconfirmed; check the city site.",
+   "q": "Jardin de Ville, Grenoble",
+   "ll": [
+    45.1916,
+    5.7277
+   ],
+   "src": [
+    "https://www.festivalenfrance.com/festival/cabaret-frappe",
+    "https://www.chartreuse-tourisme.com/en/offers/cabaret-frappe-music-festival-grenoble-en-3137361/"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    7
+   ]
+  },
+  {
+   "id": "detoursdebabel",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Catch a concert at the Détours de Babel festival",
+   "desc": "Run by the Centre International des Musiques Nomades, the festival of world music, jazz and new music began in 2011 from the merger of Grenoble Jazz Festival and 38e Rugissants. The 2026 edition ran 13 March to 5 April across Grenoble and Isère towns.",
+   "tip": "Main Grenoble venue includes the Théâtre Sainte-Marie-d'en-Bas; see musiques-nomades.fr for the programme.",
+   "q": "Théâtre Sainte-Marie d'en Bas, 2 Rue Très-Cloîtres, Grenoble",
+   "ll": [
+    45.19209,
+    5.73378
+   ],
+   "src": [
+    "https://www.festivalenfrance.com/festival/les-detours-de-babel",
+    "https://festapp.io/festivals/festival-detours-de-babel/2026"
+   ],
+   "months": [
+    3,
+    4
+   ]
+  },
+  {
+   "id": "vizilleparc",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Stroll the 100-hectare park of the Domaine de Vizille",
+   "desc": "The listed park has a rose garden, an English-style landscape area of about 40 hectares, a curved canal ending in a cascade, and ponds with trout and carp. Deer and swans live in the grounds, and old fish-farm basins are still visible.",
+   "tip": "Free entry. Leave two hours and combine with the Revolution museum.",
+   "q": "Parc du Domaine de Vizille, Vizille",
+   "ll": [
+    45.06947,
+    5.77413
+   ],
+   "src": [
+    "https://monumentum.fr/jardin-remarquable/JAR0000014/vizille-parc-du-chateau",
+    "https://www.grenoble-tourisme.com/en/discover/essentials/domaine-de-vizille/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "chamechaudesappey",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Hike toward Chamechaude from Le Sappey",
+   "desc": "A long loop starts at the church of Le Sappey-en-Chartreuse, climbing past the Habert de Chamechaude toward the massif's high point. A shorter route starts from the Col de Porte at 1,326 m. Stained glass by Arcabas decorates the village church.",
+   "tip": "About 16 km and 1,330 m of climb for the loop from the church, roughly six hours. Bus 62 serves Le Sappey and the Col de Porte.",
+   "q": "Église du Sappey-en-Chartreuse, Le Sappey-en-Chartreuse",
+   "ll": [
+    45.26741,
+    5.78205
+   ],
+   "src": [
+    "https://www.visorando.com/randonnee-boucle-par-le-habert-de-chamechaude-et-l-4/",
+    "https://www.chartreuse-tourisme.com/en/discover/the-destinations/sappey-and-the-col-de-porte/"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "isereberges",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cycle the Isère riverbank towpath",
+   "desc": "A greenway along the Isère runs through the city; from the quays a former towpath turned bike path leads in about ten minutes to the Saint-Martin-d'Hères campus, with footbridges to Parc Paul-Mistral. Longer loops follow the Isère and Drac around the city.",
+   "tip": "Rent a bike in town. The 'Grand tour de Grenoble' loop is about 90 percent on cycle paths.",
+   "q": "Quai de l'Isère, Grenoble",
+   "ll": [
+    45.19329,
+    5.72136
+   ],
+   "src": [
+    "https://www.tourmag.com/Grenoble-balade-en-cyclo-dans-une-ville-ecolo_a88275.html",
+    "https://www.visorando.com/randonnee-grand-tour-de-grenoble-par-les-voies-ver/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "marchenoelgrenoble",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Wander the Christmas market on Place Victor-Hugo",
+   "desc": "Grenoble's Christmas market on Place Victor-Hugo hosts more than 100 artisans and exhibitors. The 2026 edition runs 20 November to 24 December, with Father Christmas in his chalet on Wednesdays, Saturdays and Sundays.",
+   "tip": "Free entry; hours about 10:00 to 20:00, to 21:00 Thursday to Saturday, and 17:00 on 24 December.",
+   "q": "Place Victor Hugo, Grenoble",
+   "ll": [
+    45.1888,
+    5.7238
+   ],
+   "src": [
+    "https://www.evous.fr/grenoble/noel/marche-noel-victor-hugo/",
+    "https://www.alpes-isere.com/?p=23274"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    11,
+    12
+   ]
+  },
+  {
+   "id": "boucletaillat",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the Boucle de la Taillat nature area at Meylan",
+   "desc": "The Espace Naturel Sensible de la Boucle de la Taillat is a pond and woodland area on a bend of the Isère in Meylan, listed by the tourism office. It is one of several green spaces in Meylan with the Bachais and Bruchet parks.",
+   "tip": "Free. Combine with the Isère riverbank cycle path; check access signs.",
+   "q": "Boucle de la Taillat, Meylan",
+   "ll": [
+    45.19548,
+    5.78106
+   ],
+   "src": [
+    "https://www.grenoble-tourisme.com/en/catalog/detail/espace-naturel-sensible-de-la-boucle-de-la-taillat-5161300/?page_id=24",
+    "https://blog.komoot.es/guide/3931702/natural-monuments-around-meylan"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "patinoirepolesud",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Skate at the Patinoire Polesud",
+   "desc": "The Polesud ice rink has two surfaces, a leisure hall open to the public and a sports hall for competition. It is a base for Grenoble hockey.",
+   "tip": "Public sessions vary, so call 04 76 39 25 00 or check the official site before going.",
+   "q": "Patinoire Polesud, 1 Rue Marie Reynoard, Grenoble",
+   "ll": [
+    45.1777,
+    5.7113
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Patinoire_Polesud",
+    "https://www.grenoble-tourisme.com/en/catalog/detail/patinoire-polesud-35123/"
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "months": [
+    9,
+    10,
+    11,
+    12,
+    1,
+    2,
+    3
+   ]
+  }
+ ]
+}

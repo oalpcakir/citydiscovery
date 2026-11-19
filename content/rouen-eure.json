@@ -1,0 +1,868 @@
+{
+ "new": [
+  {
+   "id": "jumiegesabbey",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk through the ruins of Jumièges Abbey",
+   "desc": "The Romanesque abbey of Jumièges stands as one of the most romantic ruins in Normandy, on a bend of the Seine west of Rouen. Its towering nave and the white stone of its church are the main sights. A guided visit runs daily at 11:00 and 15:00 outside high season.",
+   "tip": "Ticket is about 7.50 EUR; the park is lovely in morning light. Bus line 530 from Rouen stops at the abbey.",
+   "q": "Abbaye de Jumièges, 24 rue Guillaume le Conquérant, Jumièges",
+   "ll": [
+    49.43079,
+    0.81962
+   ],
+   "src": [
+    "https://www.european-traveler.com/france/visit-romanesque-abbey-jumieges-ruins-near-rouen/",
+    "https://www.routard.com/fr/guide/france/normandie/seine-maritime/jumieges/abbaye-de-jumieges"
+   ]
+  },
+  {
+   "id": "stwandrilleabbey",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the monks' abbey of Saint-Wandrille",
+   "desc": "Founded in the 7th century as Fontenelle, Saint-Wandrille is still home to a Benedictine community of the Solesmes congregation. The cloister, ruined church and monastic buildings sit in a wooded valley near the Seine.",
+   "tip": "Interiors are mostly seen on a guided tour, so arrive for a tour time. The monks' shop sells wax and beer.",
+   "q": "Abbaye Saint-Wandrille, 2 rue Saint-Jacques, Saint-Wandrille-Rançon",
+   "ll": [
+    49.53007,
+    0.7678
+   ],
+   "src": [
+    "https://st-wandrille.com/en/the-abbey/",
+    "https://www.seine-maritime-tourisme.com/diffusio/en/i-choose/an-attraction/churches/rives-en-seine/abbaye-de-fontenelle_TFOPCUNORM00FS000DF.php"
+   ]
+  },
+  {
+   "id": "boschervilleabbey",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the Romanesque abbey of Saint-Georges de Boscherville",
+   "desc": "This Benedictine abbey church at Saint-Martin-de-Boscherville was founded in 1113 on a hillside near the Seine. Its gardens include a medicinal garden, French flower beds and an orchard.",
+   "tip": "The gardens close from 1 December to 28 February. Volunteer-led discovery tours run through the season.",
+   "q": "Abbaye Saint-Georges de Boscherville, 12 route de l'abbaye, Saint-Martin-de-Boscherville",
+   "ll": [
+    49.44423,
+    0.96448
+   ],
+   "src": [
+    "https://normandielovers.fr/en/visit-abbey-saint-georges-boscherville/",
+    "https://www.seine-maritime-tourisme.com/diffusio/en/i-choose/an-attraction/parks-and-gardens/saint-martin-de-boscherville/abbaye-saint-georges_TFOPCUNOR076FS0006W.php"
+   ]
+  },
+  {
+   "id": "villequierhugo",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Victor Hugo museum at Villequier",
+   "desc": "The Maison Vacquerie on the quai at Villequier was the holiday house of the family into which Hugo's daughter Léopoldine married. She and her husband drowned in the Seine in 1843. The department bought the house in 1951 and the museum opened in 1959; it holds Maison des Illustres and Musée de France labels.",
+   "tip": "Opening days and hours vary by season, so check before going. The Seine bank outside is a good spot for a stroll.",
+   "q": "Musée Victor Hugo, Maison Vacquerie, quai Victor Hugo, Villequier",
+   "ll": [
+    49.51361,
+    0.67472
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Villequier"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "caudebecchurch",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Admire the flamboyant church of Notre-Dame, Caudebec-en-Caux",
+   "desc": "Built between the 15th and early 16th centuries, this is a leading example of Flamboyant Gothic in Normandy. Local tradition says Henri IV called it the loveliest chapel in the kingdom. A double sundial on a buttress shows solar time and the tides.",
+   "tip": "Walk down to the Seine quay afterwards. Check the church opening hours at the tourist office.",
+   "q": "Église Notre-Dame de Caudebec-en-Caux, place Charles de Gaulle, Caudebec-en-Caux",
+   "ll": [
+    49.5261,
+    0.72509
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Caudebec-en-Caux",
+    "https://www.seine-maritime-tourisme.com/en/offers/eglise-notre-dame-de-lassomption-rives-en-seine-en-5132802/"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "lillebonnetheatre",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Roman theatre of Lillebonne",
+   "desc": "The theatre of the Roman town of Juliobona was identified by the comte de Caylus in 1764, acquired by Seine-Maritime in 1818 and excavated from 1822 to 1840. It is described as the largest building of its type preserved north of the Loire. The Juliobona museum stands opposite.",
+   "tip": "Access is not always open, so check with the Juliobona museum. Guided visits run on heritage days in September.",
+   "q": "Théâtre romain de Lillebonne, rue Victor Hugo, Lillebonne",
+   "ll": [
+    49.5183,
+    0.5342
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Lillebonne"
+   ]
+  },
+  {
+   "id": "givernymonet",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander Monet's house and gardens at Giverny",
+   "desc": "Monet lived in the pink house for 43 years after arriving in Giverny in 1883. The Clos Normand garden and the water garden with its Japanese bridge and water lilies are the heart of the visit. The property passed to the Académie des Beaux-Arts in 1966 and opened as a foundation in 1980.",
+   "tip": "Open about 1 April to 1 November, 9:30 to 18:00. Book a timed online ticket and go early on weekdays.",
+   "q": "Fondation Claude Monet, 84 rue Claude Monet, Giverny",
+   "ll": [
+    49.07583,
+    1.53389
+   ],
+   "src": [
+    "https://www.academiedesbeauxarts.fr/en/maison-et-jardins-de-claude-monet-giverny",
+    "https://www.france.fr/fr/normandie/article/fondation-monet-giverny-maison"
+   ]
+  },
+  {
+   "id": "givernymdig",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Follow Impressionism at the Musée des Impressionnismes Giverny",
+   "desc": "The museum opened in 2009 on the site of the earlier American art museum created in 1992 by Daniel J. Terra. It stages temporary exhibitions on Impressionism and its legacy, with a garden and restaurant.",
+   "tip": "Open roughly March to November; check the current exhibition before visiting. Fully accessible.",
+   "q": "Musée des Impressionnismes Giverny, 99 rue Claude Monet, Giverny",
+   "ll": [
+    49.0764,
+    1.5315
+   ],
+   "src": [
+    "https://france.fr/en/article/musee-impressionnismes-giverny",
+    "https://www.mdig.fr/en/about-us/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "vernonoldmill",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Photograph the Vieux Moulin and old Vernon",
+   "desc": "The half-timbered Vieux Moulin stands on piers of the medieval bridge over the Seine, one of the few buildings in France built on a bridge. The Tour des Archives, the keep of Philippe Auguste's castle, and the Collégiale Notre-Dame are a short walk away.",
+   "tip": "Best from the riverbank at golden hour. Combine with the Tour des Archives and the collégiale.",
+   "q": "Vieux Moulin de Vernon, rue Carnot, Vernon",
+   "ll": [
+    49.09751,
+    1.48812
+   ],
+   "src": [
+    "https://monumentum.fr/monument-historique/pa27000106/vernon-vestiges-du-vieux-pont-et-du-moulin",
+    "https://www.routard.com/fr/guide/france/normandie/eure/vernon"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "chateaugaillard",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb to the ruins of Château Gaillard",
+   "desc": "Richard the Lionheart's fortress rises above Les Andelys and the bend of the Seine. The steep paths take about an hour to visit. A free app shows a 3D view of the 13th-century castle and town.",
+   "tip": "The parking area has one of the best views of the castle. Wear good shoes: the paths are steep.",
+   "q": "Château Gaillard, Les Andelys",
+   "ll": [
+    49.23802,
+    1.40359
+   ],
+   "src": [
+    "https://www.routard.com/fr/guide/france/normandie/eure/les-andelys/chateau-gaillard",
+    "https://www.fr.francethisway.com/chateau-gaillard.php"
+   ]
+  },
+  {
+   "id": "lyonshalles",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stroll Lyons-la-Forêt, one of France's most beautiful villages",
+   "desc": "Lyons-la-Forêt belongs to the Plus Beaux Villages de France and is lined with 17th and 18th century half-timbered houses around its market hall. It sits in a large beech forest and was a film set for Madame Bovary.",
+   "tip": "Market hall and houses on place Benserade. Come midweek to avoid weekend crowds.",
+   "q": "Halles de Lyons-la-Forêt, place Isaac de Benserade, Lyons-la-Forêt",
+   "ll": [
+    49.40028,
+    1.47694
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Lyons-la-Forêt"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bechellouinabbey",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Benedictine abbey of Le Bec-Hellouin",
+   "desc": "The abbey of Notre-Dame du Bec was founded around 1034 by the knight Herluin. Today the 45-metre Saint-Nicolas tower is the only medieval survivor and the 17th and 18th century Maurist buildings house a living Benedictine community. The church occupies the former refectory.",
+   "tip": "Free visit of the park and church; guided visits last 45 minutes and leave from the shop. Pottery and candles are sold on site.",
+   "q": "Abbaye Notre-Dame du Bec, 3 place de l'Abbé Herluin, Le Bec-Hellouin",
+   "ll": [
+    49.22873,
+    0.72213
+   ],
+   "src": [
+    "https://www.routard.com/fr/guide/france/normandie/eure/le-bec-hellouin/abbaye-notre-dame-du-bec",
+    "https://www.guide-tourisme-france.com/VISITER/abbaye-notre-dame-bec--bec-hellouin-3262.htm"
+   ]
+  },
+  {
+   "id": "pontaudemerstouen",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Discover Pont-Audemer's Saint-Ouen church and timber houses",
+   "desc": "Pont-Audemer, nicknamed the little Venice of Normandy, keeps 15th and 16th century half-timbered houses and old tanneries. The church of Saint-Ouen, begun in the 11th century, mixes Romanesque, Gothic and Renaissance styles and has a 16th century organ.",
+   "tip": "Walk the canals and rue Sadi Carnot, where a listed timber house stands at no. 20.",
+   "q": "Église Saint-Ouen, rue de la République, Pont-Audemer",
+   "ll": [
+    49.35536,
+    0.5153
+   ],
+   "src": [
+    "https://www.pariszigzag.fr/sortir-paris/balade-paris/pont-audemer-normandie/",
+    "https://monumentum.fr/monument-historique/pa00099518/pont-audemer-maison-a-pans-de-bois"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "evreuxcathedral",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Admire Évreux Cathedral and its stained glass",
+   "desc": "Notre-Dame d'Évreux was burned in 1119 and rebuilt, and it has been a listed monument since 1862. Its two western towers follow the Norman tradition and one carries a square bell level topped by a polygonal lantern.",
+   "tip": "Free entry. The medieval clock tower (Tour de l'Horloge, 1464) is a short walk away.",
+   "q": "Cathédrale Notre-Dame d'Évreux, place du Général de Gaulle, Évreux",
+   "ll": [
+    49.02417,
+    1.15083
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Cathédrale_Notre-Dame_d'Évreux"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "conchesstefoy",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Renaissance windows of Sainte-Foy, Conches-en-Ouche",
+   "desc": "The flamboyant Gothic church of Sainte-Foy in Conches is renowned for its 16th century Renaissance stained glass. Above the town only the keep of the castle of the Tosny family survives.",
+   "tip": "The castle grounds are free at any hour. The Musée du Verre, opened 1996, is nearby.",
+   "q": "Église Sainte-Foy, Conches-en-Ouche",
+   "ll": [
+    48.96248,
+    0.94215
+   ],
+   "src": [
+    "https://www.routard.com/fr/guide/france/normandie/eure/conches-en-ouche",
+    "https://www.routes-touristiques.com/tourisme/visiter-nos-regions/haute-normandie/eure/visites-et-a-voir/chateaux-monuments-et-patrimoines/eglise-sainte-foy-conches-en-ouche-27.html"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "harcourtchateau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the medieval Château d'Harcourt and its arboretum",
+   "desc": "The 12th to 14th century fortress of the Harcourt family is surrounded by an arboretum of over 3,000 woody plants, often called the oldest in France. The estate is owned by the Eure department and classed Jardin remarquable.",
+   "tip": "Free on European Heritage Days in September. Allow two hours for castle and trees.",
+   "q": "Château d'Harcourt, 13 rue du château, Harcourt",
+   "ll": [
+    49.17402,
+    0.78688
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Arboretum_d%27Harcourt",
+    "https://www.pariszigzag.fr/france/chateau-harcourt-normandie/"
+   ]
+  },
+  {
+   "id": "louviersnotredame",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Study the south porch of Notre-Dame de Louviers",
+   "desc": "The south porch, finished around 1506, is one of the richest examples of late Flamboyant Gothic in France. The church dates from the 13th and 16th centuries and is a listed monument.",
+   "tip": "Look for the baldaquin and pendant keystones above the south portal. Free entry.",
+   "q": "Église Notre-Dame de Louviers, rue du Maréchal Foch, Louviers",
+   "ll": [
+    49.21295,
+    1.17014
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Church_of_Notre-Dame_de_Louviers",
+    "https://monumentum.fr/monument-historique/pa00099471/louviers-eglise-notre-dame"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "beaumesnilchateau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Louis XIII Château de Beaumesnil",
+   "desc": "This 17th century brick-and-stone château in the Ouche has French formal gardens and two 18th century flower beds, the Jardin des quatre saisons and the half-moon gardens. A park path leads to the forest.",
+   "tip": "Open roughly May to September, Wednesday to Sunday afternoons in older listings; check current dates. Allow 1h30 to 2h.",
+   "q": "Château de Beaumesnil, Mesnil-en-Ouche",
+   "ll": [
+    49.01401,
+    0.7116
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Beaumesnil",
+    "https://www.chateaubeaumesnil.com/en/activites/les-grandes-nocturnes/"
+   ]
+  },
+  {
+   "id": "gaillonchateau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Discover Château de Gaillon, the first Renaissance château in France",
+   "desc": "Cardinal Georges d'Amboise rebuilt Gaillon between 1500 and 1509 using the style found in the Italian wars. After the Revolution it became a prison and was bought by the State in 1975 as a ruin. It has been open to visitors since 2011.",
+   "tip": "Visits are often guided; check the Seine-Eure tourist office for tours and prices.",
+   "q": "Château de Gaillon, Gaillon",
+   "ll": [
+    49.16133,
+    1.32989
+   ],
+   "src": [
+    "https://www.tendanceouest.com/actualite-366460-eure-chateau-de-gaillon-l-aube-de-la-renaissance-normande.html",
+    "https://www.agglo-seine-eure.fr/wp-content/uploads/2022/08/CP-Ouverture-du-Chateau-de-Gaillon.pdf"
+   ]
+  },
+  {
+   "id": "gisacumvieilevreux",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the Gallo-Roman sanctuary of Gisacum",
+   "desc": "Gisacum at Le Vieil-Évreux was a sanctuary town of nearly 250 hectares and the religious centre of the Aulerci Eburovices. Roman baths can be seen in an archaeological garden, with a visitor centre and model of the town.",
+   "tip": "Guided visits and workshops run on a published programme; most finds are in the Évreux museum.",
+   "q": "Gisacum, site archéologique, Le Vieil-Évreux",
+   "ll": [
+    49.00132,
+    1.22999
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Le_Vieil-%C3%89vreux",
+    "https://www.ancient-history-sites.com/sites/gisacum"
+   ]
+  },
+  {
+   "id": "aubergedesruines",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine facing the abbey ruins at the Auberge des Ruines",
+   "desc": "Chef Christophe Mauduit opened this restaurant in March 2011 on the square in front of Jumièges Abbey. He grows much of the produce in his own kitchen garden and cooks local trout, beef, lamb and Normandy cheeses. It has a 2025 Michelin Plate listing.",
+   "tip": "A four-course menu is about 53 EUR. Opening days vary seasonally, so book ahead.",
+   "q": "Auberge des Ruines, 17 place de la Mairie, Jumièges",
+   "ll": [
+    49.43225,
+    0.8183
+   ],
+   "src": [
+    "https://www.seine-maritime-tourisme.com/en/offers/auberge-des-ruines-jumieges-en-5133341/",
+    "https://guide.michelin.com/be/nl/normandie/jumiges/restaurant/auberge-des-ruines"
+   ]
+  },
+  {
+   "id": "stwandrillebeer",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste the monks' beer at Saint-Wandrille Abbey shop",
+   "desc": "Since December 2016 the Benedictines of Saint-Wandrille have brewed their own beer, the only French abbey to brew within its walls. It is a blonde-amber 6.5% beer made with French cereals and hops, sold in the abbey shop.",
+   "tip": "The shop also sells monastic crafts and wax. Stock and prices change, so ask at the counter.",
+   "q": "La Boutique de l'Abbaye, Abbaye Saint-Wandrille, Saint-Wandrille-Rançon",
+   "ll": [
+    49.52956,
+    0.76655
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Abbaye_Saint-Wandrille_de_Fontenelle"
+   ]
+  },
+  {
+   "id": "givernybaudy",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order the Baudy omelette at the old Hôtel Baudy, Giverny",
+   "desc": "The Restaurant Baudy occupies the former Hôtel Baudy, a stopover for Impressionist painters in the Belle Époque. It has a bar, tea room, terrace and wooded garden, and its signature is the omelette Baudy with duck gizzards and potatoes.",
+   "tip": "Right by Monet's house; book for lunch in season.",
+   "q": "Restaurant Baudy, 81 rue Claude Monet, Giverny",
+   "ll": [
+    49.07684,
+    1.52797
+   ],
+   "src": [
+    "https://normandielovers.fr/en/best-restaurants-giverny-eating/",
+    "https://francetravelplanner.com/go/giverny/giverny-rests.html"
+   ]
+  },
+  {
+   "id": "givernynympheas",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have tarte Tatin at Les Nymphéas tearoom, Giverny",
+   "desc": "This bistro and tearoom faces Monet's house and serves Normandy dishes and desserts such as chocolate fondant and tarte Tatin. It has a dining room and a courtyard and is reported open daily.",
+   "tip": "Reported open 9:00 to 18:00 with no reservations; queues form at lunch.",
+   "q": "Restaurant Les Nymphéas, rue Claude Monet, Giverny",
+   "ll": [
+    49.0757,
+    1.5339
+   ],
+   "src": [
+    "https://normandielovers.fr/en/restaurant-les-nympheas-giverny-review/"
+   ]
+  },
+  {
+   "id": "pontaudemervieuxpuits",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine in a 17th century house at Le Vieux Puits, Pont-Audemer",
+   "desc": "Le Vieux Puits occupies a 17th century timbered building with a striking fireplace near the centre of Pont-Audemer. It is listed with 4.6 out of 5 from about 56 reviews online.",
+   "tip": "Reported closed on Sundays; reserve ahead and confirm hours by phone.",
+   "q": "Le Vieux Puits, 6 rue Notre-Dame du Pré, Pont-Audemer",
+   "ll": [
+    49.357,
+    0.5125
+   ],
+   "src": [
+    "https://www.au-magasin.fr/27500-pont-audemer/le-vieux-puits-restaurant-307605.html",
+    "https://tripaligner.com/countries/france-18/destinations/honfleur-9124/places/restaurant-le-vieux-puits-24138514"
+   ]
+  },
+  {
+   "id": "lyonsgrandcerf",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Lunch at the Bistro du Grand Cerf, Lyons-la-Forêt",
+   "desc": "The Hôtel Grand Cerf on the market square has a bistro and a gastronomic restaurant, La Licorne Royale. Gault&Millau lists the bistro at around 47 EUR a head.",
+   "tip": "The bistro is reported open noon to 14:00 and 19:00 to 22:00. Book on market days.",
+   "q": "Hôtel Le Grand Cerf, place Benserade, Lyons-la-Forêt",
+   "ll": [
+    49.3997,
+    1.4773
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Lyons-la-Forêt"
+   ]
+  },
+  {
+   "id": "andelyschainedor",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat French cuisine at La Chaîne d'Or, Les Andelys",
+   "desc": "La Chaîne d'Or is a hotel-restaurant in an 18th century Norman manor house in Les Andelys, with river views. It serves French cuisine in the old town below Château Gaillard.",
+   "tip": "Tourism-office brochure lists it open daily; reserve for weekends.",
+   "q": "La Chaîne d'Or, 27 rue Grande, Les Andelys",
+   "ll": [
+    49.24215,
+    1.3991
+   ],
+   "src": [
+    "https://en.francevelotourisme.com/restaurants-bars/restaurants/la-chaine-d-or",
+    "https://wanderlog.com/place/details/11290366/la-chaîne-dor-les-andelys"
+   ]
+  },
+  {
+   "id": "fourgesmoulin",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine in the barn at Le Moulin de Fourges",
+   "desc": "The Moulin de Fourges is a Normandy hotel-restaurant between Paris and Rouen, with a modern dining room in the barn and a riverside terrace. Its cooking is built around Normandy produce.",
+   "tip": "Menus are around 35 to 55 EUR according to older listings. Close to Giverny.",
+   "q": "Le Moulin de Fourges, rue du Moulin, Fourges",
+   "ll": [
+    49.1219,
+    1.6411
+   ],
+   "src": [
+    "https://mapstr.com/place/tGLj2xucHIg",
+    "https://fr.wikipedia.org/wiki/Fourges"
+   ]
+  },
+  {
+   "id": "louviersboudinblanc",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Buy boudin blanc at Charcuterie du Parvis, Louviers",
+   "desc": "Patrice Barbé opened this charcuterie in 2000. He is known for his boudin blanc, which won European medals in 2003 and 2013, plus rillettes and foie gras made in house.",
+   "tip": "Click-and-collect is available; closed hours vary, so check first.",
+   "q": "Charcuterie du Parvis, 43 rue du Maréchal Foch, Louviers",
+   "ll": [
+    49.2146,
+    1.1708
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/artisans/charcuterie-du-parvis"
+   ]
+  },
+  {
+   "id": "pontaudemerdeschamps",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Tatin-apple ganache at Olivier Deschamps, Pont-Audemer",
+   "desc": "Olivier Deschamps is a chocolatier at 80 rue de la République with dark and milk ranges. Ganaches include passion fruit, vanilla, Tatin-style apple, lime with Cuban mint and rum, Earl Grey and jasmine.",
+   "tip": "Buy a mixed box of ganaches to try the apple one.",
+   "q": "Olivier Deschamps chocolatier, 80 rue de la République, Pont-Audemer",
+   "ll": [
+    49.357,
+    0.5132
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/artisans/olivier-deschamps"
+   ]
+  },
+  {
+   "id": "pontaudemerlepenant",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Pick up bread and pastries at Boulangerie Lepenant, Pont-Audemer",
+   "desc": "Boulangerie Lepenant at 11 rue de la République is a family bakery with a pastry side, in its sixth decade under the same family. Gault&Millau lists it among the town's selected artisans.",
+   "tip": "Morning is best for the full range of bread.",
+   "q": "Boulangerie Lepenant, 11 rue de la République, Pont-Audemer",
+   "ll": [
+    49.35551,
+    0.51455
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/artisans/boulangerie-lepenant",
+    "https://fr.gaultmillau.com/fr/normandie/eure/pont-audemer"
+   ]
+  },
+  {
+   "id": "bechellouincrepe",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have crêpes at La Crêpe dans le Bec, Le Bec-Hellouin",
+   "desc": "La Crêpe dans le Bec is a crêperie in the village of Le Bec-Hellouin, a couple of minutes' walk from the Auberge de l'Abbaye and next to the abbey. It sits in one of France's most beautiful villages.",
+   "tip": "Pair a buckwheat galette with local cider. Hours vary, so check the listing.",
+   "q": "La Crêpe dans le Bec, Le Bec-Hellouin",
+   "ll": [
+    49.23063,
+    0.72054
+   ],
+   "src": [
+    "https://en.normandie-tourisme.fr/restaurants/la-crepe-dans-le-bec-2/"
+   ]
+  },
+  {
+   "id": "maraisvernierwalk",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Chemin de la Découverte in the Marais Vernier",
+   "desc": "The Marais Vernier is a 4,500 hectare wetland on the left bank of the Seine estuary, inside the Boucles de la Seine Normande park. A signed Chemin de la Découverte of about 5 km passes plants and birds, and the marsh holds the largest peat area in France.",
+   "tip": "Spring and autumn are best for birds. Check the Park for guided nature visits.",
+   "q": "Marais-Vernier, Eure",
+   "ll": [
+    49.3929,
+    0.4992
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Marais-Vernier"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "routedesfruits",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cycle the Route des Fruits and take the ferry to Jumièges",
+   "desc": "The Route des Fruits links the Maison du Parc at Notre-Dame-de-Bliquetuit to Duclair by way of the loops of Jumièges and Anneville-Ambourville, about 62 km. Seine ferries are free, including the Yville-sur-Seine to Jumièges crossing.",
+   "tip": "Yainville ferry does not run on Sundays. A 24 km loop from Yainville to Jumièges Abbey is an easy day.",
+   "q": "Bac de Jumièges, route des Fruits, Jumièges",
+   "ll": [
+    49.42881,
+    0.80453
+   ],
+   "src": [
+    "https://www.seine-maritime-tourisme.com/diffusio/en/i-choose/walks-and-rides/tourist-routes/notre-dame-de-bliquetuit/la-route-des-fruits_TFOITINOR076FS000AV.php",
+    "https://www.francevelotourisme.com/itineraire/la-seine-a-velo/la-bouille-jumieges"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "brotonnewalk",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike from Saint-Wandrille through the Forêt de Brotonne",
+   "desc": "A shaded loop on Visorando links Saint-Wandrille Abbey and the Brotonne forest, and extends to Caudebec-en-Caux for about 20 km. Other loops near Caudebec give views over the Seine and the Brotonne bridge. Caudebec is also a stage on the GR 2.",
+   "tip": "Start at the abbey; expect climbs near Caudebec. Wear sturdy shoes.",
+   "q": "Abbaye Saint-Wandrille, forêt de Brotonne, Saint-Wandrille-Rançon",
+   "ll": [
+    49.53007,
+    0.7678
+   ],
+   "src": [
+    "https://www.visorando.com/randonnee-abbaye-et-foret-de-brotonne-a-saint-wand/",
+    "https://www.visorando.com/randonnee-caudebec-en-caux.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "lyonsfouralchaux",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Sentier du Four à Chaux in Lyons forest",
+   "desc": "This loop of about 6.5 to 6.8 km starts at the Poste car park on boulevard du Général de Gaulle in Lyons-la-Forêt. It takes about two hours with 80 m of ascent and crosses beech woodland. The tourist office lists departure coordinates near 49.3994, 1.4783.",
+   "tip": "Dogs are welcome. IGN map 2111OT covers it.",
+   "q": "Parking de la Poste, boulevard du Général de Gaulle, Lyons-la-Forêt",
+   "ll": [
+    49.3994,
+    1.4783
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Lyons-la-Forêt"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "seineavelovernon",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cycle La Seine à Vélo from Vernon to Giverny",
+   "desc": "La Seine à Vélo links Paris to Honfleur and Le Havre and passes through Vernon and Giverny. A well-surfaced path with picnic tables joins Vernon and Giverny. The Vernon to Les Andelys stage is 27 km.",
+   "tip": "Start at the Vernon-Giverny station. The Vernon to Les Andelys stage has heavier traffic in places.",
+   "q": "Gare de Vernon-Giverny, Vernon",
+   "ll": [
+    49.09153,
+    1.47837
+   ],
+   "src": [
+    "https://www.francevelotourisme.com/itineraire/la-seine-a-velo/la-bouille-jumieges",
+    "https://www.af3v.org/les-voies-vertes/voies/929-v33-la-seine-a-velo-de-vernon-aux-andelys"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "vernonkayak",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Paddle the Seine from the Tourelles base in Vernon",
+   "desc": "The Base Nautique Les Tourelles in Vernon hosts SPN Canoë Kayak, with initiations and rental of canoe, kayak and SUP, reportedly all year. The Vernon to Les Andelys stretch of about 30 km can be done in one or two days.",
+   "tip": "Confirm rentals and conditions with the club before travelling.",
+   "q": "Base Nautique Les Tourelles, Rue Ogereau, Vernon",
+   "ll": [
+    49.0981,
+    1.4885
+   ],
+   "src": [
+    "https://en.normandie-tourisme.fr/sports-and-leisure-activities/stade-porte-normande-section-canoe-kayak/"
+   ]
+  },
+  {
+   "id": "fermebecfarmopen",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Join an open day at the permaculture Ferme du Bec-Hellouin",
+   "desc": "The Ferme biologique du Bec-Hellouin practises permaculture and has a mini food forest. Open days funded its research programmes and the farm runs introductory permaculture courses.",
+   "tip": "Open days in 2026 ran in August, September and October, usually 14:00 to 18:00; check fermedubec.com for 2027 dates.",
+   "q": "Ferme biologique du Bec-Hellouin, 1 sente du Moulin au Cat, Le Bec-Hellouin",
+   "ll": [
+    49.22274,
+    0.73045
+   ],
+   "src": [
+    "https://unidivers.fr/event/portes-ouvertes-a-la-ferme-biologique-du-bec-hellouin-le-bec-hellouin-eure-2026-09-12/",
+    "https://www.permaculture.co.uk/articles/miraculous-abundance-at-la-ferme-du-bec-hellouin/"
+   ],
+   "months": [
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "louviersmarket",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Browse the Louviers market on Wednesday or Saturday",
+   "desc": "Two weekly markets are held in the streets of Louviers all year, on Wednesday and Saturday mornings. The town also holds the Foire Saint-Michel at the end of September or start of October.",
+   "tip": "Go on Saturday morning for the fullest market; buy boudin or cheese for a picnic.",
+   "q": "Marché de Louviers, centre-ville, Louviers",
+   "ll": [
+    49.21188,
+    1.16972
+   ],
+   "src": [
+    "https://www.eure-tourism.com/i-go/savouring-the-eure-in-normandy/markets-and-culinary-rendez-vous-in-normandy/",
+    "https://www.jours-de-marche.fr/27400-louviers/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "pontaudemermarket",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Shop the Monday and Friday market in Pont-Audemer",
+   "desc": "Pont-Audemer has held its markets on Monday and Friday since 1034, according to the town's tourism leaflet. The old centre is a town of art and history with canals and timbered houses.",
+   "tip": "Check with the town hall before relying on the schedule; arrive mid-morning.",
+   "q": "Marché de Pont-Audemer, place Victor Hugo, Pont-Audemer",
+   "ll": [
+    49.3568,
+    0.5139
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Pont-Audemer"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "biotropicavaldereuil",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Spend a day at Biotropica tropical zoo, Val-de-Reuil",
+   "desc": "Biotropica is a 6,000 square metre tropical greenhouse and animal park in the Base de loisirs at Butte de la Capoulade. It holds hundreds of animals from about a hundred tropical species and has Asian gardens.",
+   "tip": "Open daily; a shuttle runs from Val-de-Reuil station. Check biotropica.fr for hours and prices.",
+   "q": "Biotropica Les Jardins Animaliers, Val-de-Reuil",
+   "ll": [
+    49.30516,
+    1.2161
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Biotropica"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rislecanoe",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Canoe the Risle with Canoë Kayak Val de Risle",
+   "desc": "Canoë Kayak Val de Risle is based in Montfort-sur-Risle and offers downstream courses from 4 to 17 kilometres on the Risle.",
+   "tip": "Book ahead and check the season with the club.",
+   "q": "Canoë Kayak Val de Risle, Rue Saint-Pierre, Montfort-sur-Risle",
+   "ll": [
+    49.29611,
+    0.66556
+   ],
+   "src": [
+    "https://www.eure-tourism.com/leisure/canoe-kayak-val-de-risle/"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "maisonduparcboucles",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Explore the Maison du Parc and apple Ethnothèque",
+   "desc": "The Maison du Parc of the Boucles de la Seine Normande in Notre-Dame-de-Bliquetuit occupies a former farm with a 16th century manor. Its old wine press holds the Ethnothèque, with a permanent exhibition on the Normandy apple. The Route des Chaumières starts here.",
+   "tip": "Hours listed for Wednesday to Friday afternoons in one listing; check ahead. Bikes can be hired here.",
+   "q": "Maison du Parc naturel régional des Boucles de la Seine Normande, rue du Petit Pont, Notre-Dame-de-Bliquetuit",
+   "ll": [
+    49.49472,
+    0.76417
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Parc_naturel_régional_des_Boucles_de_la_Seine_normande"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "fetesnormandesevreux",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Join the Fêtes Normandes d'Évreux in October",
+   "desc": "The Fêtes Normandes d'Évreux celebrate Normandy traditions with gastronomy, terroir and heritage on place du Général de Gaulle. The event has run since 2015, and the 2026 edition was 3 and 4 October with free entry.",
+   "tip": "Check dates each year; it is usually early autumn.",
+   "q": "Place du Général de Gaulle, Évreux",
+   "ll": [
+    49.02676,
+    1.15084
+   ],
+   "src": [
+    "https://www.festivalenfrance.com/festival/fetes-normandes-devreux"
+   ],
+   "months": [
+    10
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "foiresaintmichellouviers",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Visit the Foire Saint-Michel in Louviers",
+   "desc": "Louviers holds its Foire Saint-Michel each year at the end of September or the start of October. The 2024 edition ran 4 to 6 October.",
+   "tip": "Dates move each year, so check the town website.",
+   "q": "Foire Saint-Michel, centre-ville, Louviers",
+   "ll": [
+    49.21611,
+    1.16639
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Louviers"
+   ],
+   "months": [
+    9,
+    10
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

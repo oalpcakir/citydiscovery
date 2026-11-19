@@ -1,0 +1,637 @@
+{
+ "new": [
+  {
+   "id": "dunedupilat",
+   "cat": "gor",
+   "area": "arcachon",
+   "title": "Climb the Dune du Pilat at sunset",
+   "desc": "The Dune du Pilat in La Teste-de-Buch is the tallest sand dune in Europe, a moving ridge between the pine forest and the Atlantic. A seasonal wooden staircase of about 130 steps is set up at its foot, roughly from April to autumn.",
+   "tip": "Arrive about an hour before sunset and bring a jacket, as the sea breeze cools quickly. In winter the staircase is removed and the climb is on bare sand.",
+   "q": "Dune du Pilat, Route de Biscarrosse, La Teste-de-Buch",
+   "ll": [
+    44.58878,
+    -1.21417
+   ],
+   "src": [
+    "https://www.arcachon.com/en/tourism/discovery/exceptional-locations/the-dune-of-pilat",
+    "https://ryo.co/fr/articles/france/arcachon/visiter-dune-du-pilat/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "arcachonvilledhiver",
+   "cat": "gor",
+   "area": "arcachon",
+   "title": "Wander the villas of Arcachon's Ville d'Hiver",
+   "desc": "The Ville d'Hiver is a hillside district built in the 1860s as a health resort for tuberculosis patients, developed by the Pereire brothers' railway company. Its pine-shaded streets hold hundreds of villas from neo-Gothic to Swiss chalet and colonial styles, with a heritage listing since 1980.",
+   "tip": "The tourist office publishes a self-guided Ville d'Hiver leaflet; allow about 90 minutes on foot. Start from the Observatoire Sainte-Cécile.",
+   "q": "Ville d'Hiver, Arcachon",
+   "ll": [
+    44.65897,
+    -1.16557
+   ],
+   "src": [
+    "https://www.arcachon.com/en/tourism/discovery/exceptional-locations/the-ville-dhiver-winter-town/",
+    "https://magazine.lecollectionist.com/en/our-tips-for-exploring-arcachons-winter-town"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "saintececileobs",
+   "cat": "gor",
+   "area": "arcachon",
+   "title": "Climb the Observatoire Sainte-Cécile for bay views",
+   "desc": "This metal lookout tower in the Ville d'Hiver dates from 1863 and is credited to engineer Paul Régnauld, with Gustave Eiffel as a young assistant. It is reached by the neighbouring Passerelle Saint-Paul footbridge and was restored in 1990.",
+   "tip": "Entry is free but there are steps to climb; hours are not fixed, so check locally.",
+   "q": "Observatoire Sainte-Cécile, Allée Pereire, Arcachon",
+   "ll": [
+    44.65934,
+    -1.17537
+   ],
+   "src": [
+    "https://www.guide-tourisme-france.com/VISITER/observatoire-sainte-cecile--arcachon-4279.htm",
+    "https://atlasobscura.com/places/observatoire-sainte-cecile-arcachon"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "arcachonjeteethiers",
+   "cat": "gor",
+   "area": "arcachon",
+   "title": "Stroll out along the Jetée Thiers in Arcachon",
+   "desc": "The pier was built around 1901-1903 and renamed in 1907 for Adolphe Thiers, who had stayed in the resort. Rebuilt entirely in 2004, it remains the main landing for boat tours and shuttles around the bay.",
+   "tip": "Walk it at sunset for the view over the Île aux Oiseaux; boat tours leave from here.",
+   "q": "Jetée Thiers, Boulevard de la Plage, Arcachon",
+   "ll": [
+    44.66453,
+    -1.16875
+   ],
+   "src": [
+    "https://www.cirkwi.com/en/point-interet/2715407-la-jetee-thiers",
+    "https://arcachon.com/en/tourism/discovery/take-it-slow/arcachon-jetties-a-link-between-land-and-sea"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "capferretlighthouse",
+   "cat": "gor",
+   "area": "arcachon",
+   "title": "Climb the 258 steps of the Cap Ferret lighthouse",
+   "desc": "The Phare du Cap Ferret rises to about 57 m at the tip of the peninsula. The 258-step climb rewards visitors with a 360-degree view over the Dune du Pilat, the Atlantic and the Arcachon bay.",
+   "tip": "Visits stop 30 minutes before closing and can be cancelled in strong wind; it is closed for part of the autumn, so check the hours before going.",
+   "q": "Phare du Cap Ferret, Promenade Tour du Phare, Lège-Cap-Ferret",
+   "ll": [
+    44.64596,
+    -1.24882
+   ],
+   "src": [
+    "https://www.lege-capferret.com/en/activity/phare-du-cap-ferret/",
+    "https://www.guide-tourisme-france.com/VISITER/phare-cap-ferret--lege-cap-ferret-1069.htm"
+   ]
+  },
+  {
+   "id": "iloiseauxtchanquees",
+   "cat": "gor",
+   "area": "arcachon",
+   "title": "See the stilted cabanes tchanquées on the Île aux Oiseaux",
+   "desc": "The Île aux Oiseaux sits in the middle of the Arcachon bay and its area varies with the tide. Its cabanes tchanquées, named from the Gascon word for stilts, are huts raised on pilings and now symbols of the bay.",
+   "tip": "The huts are seen from a boat; the Bateliers Arcachonnais short tour from the Jetée Thiers passes them.",
+   "q": "Cabanes tchanquées, Île aux Oiseaux, La Teste-de-Buch",
+   "ll": [
+    44.69429,
+    -1.16645
+   ],
+   "src": [
+    "https://guide-bordeaux-gironde.com/en/tourism/discover/tourist-sites/la-teste-de-buch-514/les-cabanes-tchanquees-4965.html",
+    "https://bateliers-arcachon.com/excursions/trip-to-the-ile-aux-oiseaux"
+   ]
+  },
+  {
+   "id": "herbechapel",
+   "cat": "gor",
+   "area": "arcachon",
+   "title": "Visit the Moorish chapel of the Villa Algérienne in L'Herbe",
+   "desc": "This waterside chapel in L'Herbe is the only surviving element of the Villa Algérienne, a Moorish-style estate begun in 1864 by contractor Léon Lesca; the palace itself was destroyed in the 1960s. The bell tower carries a cross and a crescent.",
+   "tip": "Free to enter, listed hours are about 10:00 to 16:30. Combine it with an oyster tasting in the village.",
+   "q": "Chapelle de la Villa Algérienne, L'Herbe, Lège-Cap-Ferret",
+   "ll": [
+    44.701,
+    -1.2445
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Villa_algérienne_(Cap_Ferret)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "soulacbasilica",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Discover the basilica that was buried by sand in Soulac",
+   "desc": "The Romanesque Notre-Dame-de-la-fin-des-Terres is a UNESCO World Heritage pilgrimage stop. Buried by drifting dunes by 1747, it was dug out and restored from 1858.",
+   "tip": "Find it on Place Aliénor d'Aquitaine; concerts are held inside and a guided basilica-and-villas visit is offered by the town.",
+   "q": "Basilique Notre-Dame-de-la-fin-des-Terres, Place Aliénor d'Aquitaine, Soulac-sur-Mer",
+   "ll": [
+    45.51389,
+    -1.12159
+   ],
+   "src": [
+    "https://monumentum.fr/monument-historique/pa00083841/soulac-sur-mer-eglise-notre-dame-de-la-fin-des-terres",
+    "https://fr.vikidia.org/wiki/Soulac-sur-Mer"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "andernosjetty",
+   "cat": "gor",
+   "area": "arcachon",
+   "title": "Walk the 232 m Andernos jetty into the bay",
+   "desc": "The Andernos jetty extends 232 m into the northern basin and is described as the longest on the Arcachon bay. Sources date it to 1926 or 1927.",
+   "tip": "Best at high tide and at sunset; the covered market is a short walk away.",
+   "q": "Jetée d'Andernos, Boulevard de la République, Andernos-les-Bains",
+   "ll": [
+    44.73867,
+    -1.10155
+   ],
+   "src": [
+    "https://www.guide-bordeaux-gironde.com/en/tourism/discover/tourist-sites/andernos-les-bains-5/la-jetee-d-andernos-4882.html",
+    "https://www.routard.com/fr/guide/france/aquitaine-bordelais-landes/gironde/andernos-les-bains"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "certesgraveyron",
+   "cat": "gor",
+   "area": "arcachon",
+   "title": "Explore the salt marshes of the Domaine de Certes",
+   "desc": "The Domaine de Certes et Graveyron covers about 535 ha in Audenge and Lanton. It was embanked in the 18th century by the marquis de Civrac and later turned into fish reservoirs; it is now owned by the Conservatoire du littoral.",
+   "tip": "Access is free and daily. The Graveyron circuit is a 6 km loop through marsh and meadow.",
+   "q": "Domaine de Certes et Graveyron, Audenge",
+   "ll": [
+    44.69907,
+    -1.04481
+   ],
+   "src": [
+    "https://guide-bordeaux-gironde.com/en/tourism/discover/tourist-sites/castles/audenge-18/certes-castle-4883.html",
+    "https://www.gironde.fr/sites/default/files/2025-05/Catalogue%20des%20animations%20-%20Domaine%20de%20Certes%20et%20Graveyron%201.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "teichbirdreserve",
+   "cat": "gor",
+   "area": "arcachon",
+   "title": "Watch migrating birds at the Réserve ornithologique du Teich",
+   "desc": "The reserve in the Leyre delta opened to the public in 1972 on former 18th-century fish-farming installations. Marked trails lead to around twenty observation hides.",
+   "tip": "Binoculars can be rented at the ticket desk; allow half a day. Dusk walks with a naturalist guide run in summer.",
+   "q": "Réserve ornithologique du Teich, Rue du Port, Le Teich",
+   "ll": [
+    44.64022,
+    -1.01938
+   ],
+   "src": [
+    "https://www.routard.com/fr/guide/france/aquitaine-bordelais-landes/gironde/bassin-d-arcachon/parc-ornithologique-du-teich",
+    "https://www.nouvelle-aquitaine-tourisme.com/en/sit/poi/1087122/reserve-ornithologique-du-teich/94587"
+   ]
+  },
+  {
+   "id": "maisonhuitregujan",
+   "cat": "gor",
+   "area": "arcachon",
+   "title": "Learn oyster farming at the Maison de l'Huître",
+   "desc": "This museum on the Port de Larros in Gujan-Mestras offers a one-hour guided visit with a film on oyster farming, museum rooms and an outdoor trail with traditional boats.",
+   "tip": "The visit is guided, so book ahead by phone or on maison-huitre.fr, then taste oysters in the port cabanes.",
+   "q": "Maison de l'Huître, Port de Larros, Gujan-Mestras",
+   "ll": [
+    44.64137,
+    -1.07236
+   ],
+   "src": [
+    "https://www.guide-tourisme-france.com/VISITER/maison-huitre--gujan-mestras-4539.htm",
+    "https://www.lonelyplanet.com/points-of-interest/maison-de-lhuitre/1193687"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "huitrepapillon",
+   "cat": "ye",
+   "area": "arcachon",
+   "title": "Taste oysters at L'Huître Papillon, Port de Larros",
+   "desc": "A small wooden cabane run by two brothers on the Port de Larros, in an oyster-farming family said to date from 1879. Its oysters spend part of their growth near the Banc d'Arguin.",
+   "tip": "Order a dozen Arcachon oysters with white wine; hours vary by season and it sometimes focuses on takeaway.",
+   "q": "Cabane à dégustation des Huîtres Papillon, rue du Port de Larros, Gujan-Mestras",
+   "ll": [
+    44.6395,
+    -1.0702
+   ],
+   "src": [
+    "https://www.arcachon.com/en/offers/lhuitre-papillon-gujan-mestras-en-3477948/"
+   ]
+  },
+  {
+   "id": "cafeplagechezpierre",
+   "cat": "ye",
+   "area": "arcachon",
+   "title": "Order a seafood platter at Café de la Plage - Chez Pierre",
+   "desc": "A seafront brasserie on the Arcachon waterfront that pairs the casual Café de la Plage with a more gastronomic Chez Pierre. It is known for oysters and plateaux de fruits de mer and serves year-round.",
+   "tip": "Seafood platters are the draw and prices run high; book on summer evenings.",
+   "q": "Café de la Plage - Restaurant Chez Pierre, 1 Boulevard Veyrier Montagnères, Arcachon",
+   "ll": [
+    44.63287,
+    -1.1458
+   ],
+   "src": [
+    "https://www.arcachon.com/en/offers/cafe-de-la-plage-restaurant-chez-pierre-arcachon-en-964532/",
+    "https://mapstr.com/place/b5HHSG7Z3Rg"
+   ]
+  },
+  {
+   "id": "chezhortense",
+   "cat": "ye",
+   "area": "arcachon",
+   "title": "Eat mussels and turbot at Chez Hortense, Cap Ferret",
+   "desc": "A long-running seafood institution at the tip of the Cap Ferret peninsula on Avenue du Sémaphore, tracing its roots to a 1914 hotel-restaurant bought by Hortense Crampé. It is known for mussels and whole turbot with fries on a terrace facing the Dune du Pilat.",
+   "tip": "Book well ahead in season; prices are high.",
+   "q": "Chez Hortense, Avenue du Sémaphore, Lège-Cap-Ferret",
+   "ll": [
+    44.62889,
+    -1.24355
+   ],
+   "src": [
+    "https://guide-bordeaux-gironde.com/en/tourism/eating-and-drinking/restaurants/lege-cap-ferret-232/chez-hortense-5700.html",
+    "https://mapstr.com/place/NNGaTUkYVZg"
+   ]
+  },
+  {
+   "id": "pinassecafe",
+   "cat": "ye",
+   "area": "arcachon",
+   "title": "Dine at the Pinasse Café by the Bélisaire pier",
+   "desc": "A seafood restaurant on the Cap Ferret waterfront, near the Bélisaire pier, listed by Gault&Millau for traditional French cooking. It is known for its bay view and a market menu.",
+   "tip": "Reserve; lunch service is large. Phone 05 56 03 77 87.",
+   "q": "Pinasse Café, 2 bis Avenue de l'Océan, Lège-Cap-Ferret",
+   "ll": [
+    44.65628,
+    -1.23965
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/en/restaurants/pinasse-cafe",
+    "https://www.guide-bordeaux-gironde.com/en/tourism/eating-and-drinking/restaurants/lege-cap-ferret-232/pinasse-cafe-5699.html"
+   ]
+  },
+  {
+   "id": "toquecuivree",
+   "cat": "ye",
+   "area": "arcachon",
+   "title": "Buy canelés bordelais at La Toque Cuivrée",
+   "desc": "A pâtisserie on Boulevard Mestrezat in Arcachon known for its canelés bordelais, the caramelised vanilla-and-rum pastries of the Bordeaux region. Rated 4.5/5 on Petit Futé.",
+   "tip": "Eat them the same day; the canelés are best slightly warm.",
+   "q": "La Toque Cuivrée, 4 Boulevard Mestrezat, Arcachon",
+   "ll": [
+    44.65251,
+    -1.14739
+   ],
+   "src": [
+    "https://arcachon.com/en/offers/la-toque-cuivree-arcachon-en-5104745",
+    "https://guide-bordeaux-gironde.com/en/tourism/tasting/gironde-products/pastries/arcachon-9/la-toque-cuivree-10239.html"
+   ]
+  },
+  {
+   "id": "bouchonmarchearcachon",
+   "cat": "ye",
+   "area": "arcachon",
+   "title": "Have the plat du jour at Le Bouchon du Marché",
+   "desc": "A bistro at the entrance of the Halles d'Arcachon on Place des Marquises. Its daily menu is built on what the neighbouring stalls sell that day, with a counter, dining room and terrace.",
+   "tip": "Budget about 20 to 35 euros; hours differ from the market's, so check ahead (05 56 54 85 11).",
+   "q": "Le Bouchon du Marché, Place des Marquises, Arcachon",
+   "ll": [
+    44.66154,
+    -1.17041
+   ],
+   "src": [
+    "https://www.arcachon.com/en/offers/le-bouchon-du-marche-arcachon-en-952425/",
+    "https://www.guide-bordeaux-gironde.com/en/tourism/eating-and-drinking/restaurants/pubs/arcachon-9/le-bouchon-du-marche-7133.html"
+   ]
+  },
+  {
+   "id": "emileetunehuitre",
+   "cat": "ye",
+   "area": "arcachon",
+   "title": "Slurp oysters on the beach at Emile et une Huître",
+   "desc": "An oyster cabane in the L'Herbe village founded in 2010 by Thierry Despujol, with a direct view of the beach. The tourism office lists it as open April to October 2026.",
+   "tip": "Oysters cost about 1 euro each; lunch service is roughly 11:30 to 16:00.",
+   "q": "Emile et une Huître, Avenue de l'Herbe, L'Herbe, Lège-Cap-Ferret",
+   "ll": [
+    44.69218,
+    -1.23216
+   ],
+   "src": [
+    "https://www.guide-bordeaux-gironde.com/en/tourism/tasting/oysters/lege-cap-ferret-232/emile-et-une-huitre-2276.html",
+    "https://mapstr.com/place/rpipbBo1bMg"
+   ]
+  },
+  {
+   "id": "chezguillaumeherbe",
+   "cat": "ye",
+   "area": "arcachon",
+   "title": "Taste oysters, whelks and pâté at Chez Guillaume",
+   "desc": "An oyster cabane in L'Herbe run by oyster farmer Guillaume Fournier Laroque, open all year, with a terrace over the bay. Guests also order shrimp, whelks and pâté basque.",
+   "tip": "Share a mixed plate of oysters and shrimp on the terrace at golden hour.",
+   "q": "Chez Guillaume, 69 Avenue de l'Herbe, L'Herbe, Lège-Cap-Ferret",
+   "ll": [
+    44.69204,
+    -1.2322
+   ],
+   "src": [
+    "https://www.guide-bordeaux-gironde.com/en/tourism/eating-and-drinking/oysters-seafood/lege-cap-ferret-232/chez-guillaume-10610.html",
+    "https://mapstr.com/place/d6QgENW2Y7g"
+   ]
+  },
+  {
+   "id": "chaibinbinandernos",
+   "cat": "ye",
+   "area": "arcachon",
+   "title": "Taste shrimp, whelks and oysters at Chai Binbin, Andernos",
+   "desc": "An oyster cabane on the quai Lahillon at the Andernos oyster port, where reviewers describe a tasting of shrimp, whelks and oysters with white wine and very fresh produce.",
+   "tip": "Plates run about 10 to 20 euros; confirm seasonal hours before going.",
+   "q": "Chai Binbin, cabane 40-41 quai Lahillon, Andernos-les-Bains",
+   "ll": [
+    44.7479,
+    -1.0986
+   ],
+   "src": [
+    "https://www.sluurpy.fr/andernos-les-bains/restaurant/2043709/chai-binbin"
+   ]
+  },
+  {
+   "id": "pinocchioglaceslacanau",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Get a handmade ice cream at Pinocchio Glaces Maison",
+   "desc": "An artisan ice-cream maker in Lacanau-Océan, described by reviewers as the essential sweet stop in the resort. The ice creams are made by a master glacier.",
+   "tip": "Walk the promenade by the beach with a scoop after a surf session; seasonal hours.",
+   "q": "Pinocchio Glaces Maison, Lacanau-Océan, Lacanau",
+   "ll": [
+    45.00129,
+    -1.19967
+   ],
+   "src": [
+    "https://mapstr.com/place/e9JxARmWAhg"
+   ]
+  },
+  {
+   "id": "maisonbremontiersoulac",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order the plateau de fruits de mer at Maison Brémontier",
+   "desc": "A Soulac-sur-Mer restaurant serving French cuisine built on seafood, with a seafood platter and fish of the day. It scores 4.9/5 from about 137 reviews on one ranking site.",
+   "tip": "Soulac's season is summer-focused, so check opening days outside July and August.",
+   "q": "Maison Brémontier, Soulac-sur-Mer",
+   "ll": [
+    45.51418,
+    -1.1246
+   ],
+   "src": [
+    "https://rankeat.fr/restaurants/maison-bremontier-soulac-sur-mer"
+   ]
+  },
+  {
+   "id": "bateliersshorttour",
+   "cat": "dene",
+   "area": "arcachon",
+   "title": "Take the Bateliers short boat tour past the Île aux Oiseaux",
+   "desc": "The Union des Bateliers Arcachonnais runs a 75-minute trip from the Jetée Thiers past the Île aux Oiseaux and its stilt huts, weaving between oyster farms. A longer tour passes through the Mapouchet channel.",
+   "tip": "A two-hour island tour starts from about 25 euros; the UBA can be reached on 05 57 72 28 28 for current timetables.",
+   "q": "Union des Bateliers Arcachonnais, Jetée Thiers, Arcachon",
+   "ll": [
+    44.65981,
+    -1.15349
+   ],
+   "src": [
+    "https://bateliers-arcachon.com/excursions/trip-to-the-ile-aux-oiseaux",
+    "https://arcachon.com/en/offers/union-des-bateliers-arcachonnais-arcachon-en-2482014"
+   ]
+  },
+  {
+   "id": "bancdarguin",
+   "cat": "dene",
+   "area": "arcachon",
+   "title": "Visit the Banc d'Arguin bird sanctuary by boat taxi",
+   "desc": "The Banc d'Arguin national nature reserve is a sandbank at the mouth of the bay with more than 4,000 pairs of Sandwich terns a year. It is reached only by boat; only a small area is open to the public, with SEPANSO guides.",
+   "tip": "Boat taxis leave from Arcachon and Cap Ferret (Bateliers Arcachonnais or Le Passeur). Dogs and camping are not allowed; bring water and a picnic.",
+   "q": "Réserve naturelle du Banc d'Arguin, Bassin d'Arcachon, La Teste-de-Buch",
+   "ll": [
+    44.57974,
+    -1.26367
+   ],
+   "src": [
+    "https://www.bordeaux-tourism.co.uk/natural-heritage/reserve-naturelle-du-banc-darguin.html",
+    "https://cparici.com/fr/banc-darguin-a-arcachon-guide/"
+   ]
+  },
+  {
+   "id": "arespressales",
+   "cat": "dene",
+   "area": "arcachon",
+   "title": "Walk the Arès salt meadows to the oyster port",
+   "desc": "A loop from the Tour d'Arès passes the stele of the Dame Océane at the port entrance, then follows the trail through the Arès-Lège salt-marsh reserve. A 4.5 km circuit, Les réservoirs à poissons, runs through the embanked part of the reserve.",
+   "tip": "Wear walking shoes and check tide times; dogs and bikes are not allowed in the reserve.",
+   "q": "Port ostréicole d'Arès, Arès",
+   "ll": [
+    44.76533,
+    -1.15055
+   ],
+   "src": [
+    "https://www.visorando.com/en/walk-la-dame-oceane-et-les-pres-sales-depuis-/",
+    "https://www.guide-bordeaux-gironde.com/en/tourism/discover/hiking-itineraries/lege-cap-ferret-232/les-pres-sales-d-ares-lege-1.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "lacanausurf",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Take a surf lesson on Lacanau-Océan's central beach",
+   "desc": "Lacanau-Océan's Plage Centrale is the best-known surf area on the Gironde coast, with breaks such as La Barrière at the south jetty suggested for beginners. Many schools offer lessons, among them Magic Surf School, which runs April to late October.",
+   "tip": "Beginners are best near La Barrière; the central beach is busy in summer.",
+   "q": "Magic Surf School, Plage Centrale, Lacanau-Océan, Lacanau",
+   "ll": [
+    44.99792,
+    -1.20121
+   ],
+   "src": [
+    "https://www.surf-report.com/ecoles-surf/magic-surf-school-s328232679.html",
+    "https://www.plages.tv/surf/spot/plage-centrale-lacanau-33680"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "arcachonhallesmarket",
+   "cat": "dene",
+   "area": "arcachon",
+   "title": "Browse the Halles d'Arcachon market on Place des Marquises",
+   "desc": "Arcachon's covered market hall on Place des Marquises runs mornings with stalls of seafood, cheese and produce. The city lists it as open Tuesday to Sunday from mid-September to mid-June and daily in summer.",
+   "tip": "Go early, between 7:30 and 13:00; it is generally closed on Mondays outside summer.",
+   "q": "Halles d'Arcachon, Place des Marquises, Arcachon",
+   "ll": [
+    44.66163,
+    -1.17047
+   ],
+   "src": [
+    "https://www.arcachon.com/en/offers/marche-du-coeur-de-ville-darcachon-arcachon-en-3612426",
+    "https://www.arcachon.com/en/tourism/discovery/love-food/wander-around-arcachons-markets/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "cabanesenfeteandernos",
+   "cat": "dene",
+   "area": "arcachon",
+   "title": "Join the Cabanes en Fête oyster festival in Andernos",
+   "desc": "Each December the Andernos oyster port opens around 45 cabanes for tastings of oysters and tapas, with Entre-deux-Mers wine, bandas and fireworks. The 2026 edition is listed for Saturday 5 December from 10:00 to 20:00.",
+   "tip": "Entry is free with a paid tasting pass and free shuttles; check the date, which moves between the first and second Saturday.",
+   "q": "Port ostréicole d'Andernos, Andernos-les-Bains",
+   "ll": [
+    44.74487,
+    -1.11114
+   ],
+   "src": [
+    "https://www.festivalenfrance.com/en/festival/cabanes-en-fete/2025",
+    "https://www.gironde-tourisme.fr/en/andernos-party-cabins/"
+   ],
+   "months": [
+    12
+   ]
+  },
+  {
+   "id": "leyrecanoeteich",
+   "cat": "dene",
+   "area": "arcachon",
+   "title": "Paddle a canoe through the Leyre delta at Le Teich",
+   "desc": "Canoë sur la Leyre runs commented two-hour trips in large canoes and sea-kayak outings in the delta, meeting at the entrance of the Réserve ornithologique du Teich. More rental options exist at Biganos.",
+   "tip": "Adults pay about 32 euros; the reserve publishes a calendar of guided kayak and canoe outings tied to tides.",
+   "q": "Canoë sur la Leyre, rue du Port, Maison de la Nature, Le Teich",
+   "ll": [
+    44.6349,
+    -1.0198
+   ],
+   "src": [
+    "https://guide-bordeaux-gironde.com/en/tourism/entertainment/nautical/kayaking/le-teich-512/arcachon-basin-nature-house-9351.html"
+   ]
+  },
+  {
+   "id": "velodysseecapferret",
+   "cat": "dene",
+   "area": "arcachon",
+   "title": "Cycle the Vélodyssée from Cap Ferret around the bay",
+   "desc": "The Tour du Bassin d'Arcachon, part of the Vélodyssée (EuroVelo 1), is a fully green-way route. The Lège-Cap-Ferret to Arcachon stage is 42 km, mostly on cycle track along a former railway.",
+   "tip": "A ferry and the Transbassin shuttle carry bikes between Cap Ferret and Arcachon. Check ferry times before setting out.",
+   "q": "Jetée du Bélisaire, Avenue de l'Océan, Lège-Cap-Ferret",
+   "ll": [
+    44.6355,
+    -1.2495
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Bélisaire_(Cap_Ferret)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "belisairehorizonwalk",
+   "cat": "dene",
+   "area": "arcachon",
+   "title": "Walk from the Bélisaire pier to the Plage de l'Horizon",
+   "desc": "A waymarked 2.4 km very easy route crosses the Cap Ferret village from the Bélisaire jetty on the bay to the ocean beach of L'Horizon. In summer a little train also links the two.",
+   "tip": "The Horizon beach is supervised in summer and sits near the lighthouse.",
+   "q": "Jetée de Bélisaire, Cap Ferret, Lège-Cap-Ferret",
+   "ll": [
+    44.65653,
+    -1.23826
+   ],
+   "src": [
+    "https://www.guide-bordeaux-gironde.com/en/tourism/discover/hiking-itineraries/lege-cap-ferret-232/au-cap-ferret-de-belisaire-a-l-horizon-18.html",
+    "https://www.plages.tv/detail/plage-de-l-horizon-lege-cap-ferret-33950"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "maubuissonlake",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim and sail on the Carcans-Hourtin lake at Maubuisson",
+   "desc": "The Carcans-Hourtin lake covers about 62 km2 with a mean depth of 3.4 m. Maubuisson and Bombannes are the most frequented supervised beaches, with sailing clubs and lakeside restaurants.",
+   "tip": "Swim only in supervised zones; the lake's calm shallow water suits families.",
+   "q": "Plage de Maubuisson, Carcans",
+   "ll": [
+    45.0985,
+    -1.144
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Lac_de_Carcans-Hourtin"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "soulacvillascircuit",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Follow the Circuit des villas soulacaises on foot",
+   "desc": "Soulac has about 500 villas built mainly between 1860 and 1930. A walking loop of around 2 km starts at the tourist office and passes the basilica and the twin villas Neptune and Amphitrite, with shell-decorated gables.",
+   "tip": "Start from the tourist office at 68 rue de la Plage. The villas are inhabited, so respect residents' privacy.",
+   "q": "Office de Tourisme, 68 Rue de la Plage, Soulac-sur-Mer",
+   "ll": [
+    45.51432,
+    -1.12347
+   ],
+   "src": [
+    "https://www.gironde-tourisme.fr/en/itineraries/Circuit-of-Soulac-villas/",
+    "https://www.mairie-soulac.fr/wp-content/uploads/2026/09/1-Le-circuit-des-villas-soulacaises.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

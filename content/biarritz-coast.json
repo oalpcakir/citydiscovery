@@ -1,0 +1,808 @@
+{
+ "new": [
+  {
+   "id": "biarritzgrandeplage",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stroll the Grande Plage at Biarritz",
+   "desc": "The central beach of Biarritz, framed by the Hôtel du Palais at one end and the Rocher de la Vierge at the other. Striped bathing tents line the sand from early June, and the casino and Miramar beach sit next to it.",
+   "tip": "Walk the promenade at sunset for the best light. Lifeguards are on duty in summer; surf can be strong at mid-tide.",
+   "q": "Grande Plage, Quai de la Grande Plage, Biarritz",
+   "ll": [
+    43.4844,
+    -1.5581
+   ],
+   "src": [
+    "https://www.tourisme.biarritz.fr/en/beaches/grande-plage",
+    "https://www.lonelyplanet.com/points-of-interest/grande-plage/1196372"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "biarritzrocher",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Cross the footbridge to the Rocher de la Vierge",
+   "desc": "A rocky islet joined to the mainland by a footbridge built under Napoleon III, who planned to anchor a harbour breakwater here. A tunnel was cut through the rock in 1864 and a statue of the Virgin was raised on top in 1865.",
+   "tip": "Best at sunset or when Atlantic swells break against the rock. The bridge can be closed in storms.",
+   "q": "Rocher de la Vierge, Esplanade du Rocher de la Vierge, Biarritz",
+   "ll": [
+    43.48476,
+    -1.56965
+   ],
+   "src": [
+    "https://www.tourisme64.com/nos-destinations/pays-basque/incontournables-du-pays-basque/le-rocher-de-la-vierge/",
+    "https://www.routard.com/guide_voyage_lieu/10233-rocher_de_la_vierge.htm"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "citedelocean",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore the Cité de l'Océan et du Surf",
+   "desc": "A science and ocean museum designed by Steven Holl, opened in 2011 with exhibits on ocean history, marine biology and surf culture. It is part of the Biarritz Océan complex with the Musée de la Mer.",
+   "tip": "A combined ticket with the aquarium is available. Check winter closing days before going.",
+   "q": "Cité de l'Océan, 1 avenue de la Plage, Biarritz",
+   "ll": [
+    43.46252,
+    -1.57172
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Cité_de_l'Océan"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "biarritzaquarium",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Meet the seals at the Musée de la Mer aquarium",
+   "desc": "An Art Deco aquarium on the Plateau de l'Atalaye facing the Rocher de la Vierge, opened on 10 August 1933. Tanks hold sharks, reef fish and Atlantic species, and grey seals are fed daily.",
+   "tip": "Seal feeding is listed at 10:30 and 17:00; confirm times on the museum site.",
+   "q": "Musée de la Mer, Esplanade du Rocher de la Vierge, Biarritz",
+   "ll": [
+    43.48334,
+    -1.56819
+   ],
+   "src": [
+    "https://tourisme.biarritz.fr/en/discover/sites-and-museums/musee-de-la-mer",
+    "https://www.lonelyplanet.com/points-of-interest/musee-de-la-mer/418961"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "biarritzphare",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb the 248 steps of the Biarritz lighthouse",
+   "desc": "The Phare de la Pointe Saint-Martin was built from 1830 and lit in 1834 to guide ships towards the mouth of the Adour. A spiral stair leads to a 360-degree view of the Basque coast, the Landes and the Pyrenees.",
+   "tip": "Book the ticket online via the Biarritz tourist office; hours vary by season.",
+   "q": "Phare de Biarritz, Rue du Phare, Biarritz",
+   "ll": [
+    43.49377,
+    -1.5539
+   ],
+   "src": [
+    "https://www.routard.com/fr/guide/france/pays-basque-et-bearn/pyrenees-atlantiques/biarritz/phare-de-la-pointe-saint-martin",
+    "https://www.tourisme64.com/activites/biarritz/PCUAQU064FS0000F-phare-de-biarritz/"
+   ]
+  },
+  {
+   "id": "chapelleimperiale",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step into the Chapelle Impériale",
+   "desc": "Built in 1864-65 for Empress Eugénie by the architect Boeswillwald, a pupil of Viollet-le-Duc. Its romano-Byzantine and Hispano-Moorish style recalls her Spanish origins, and it is dedicated to Our Lady of Guadalupe.",
+   "tip": "Open mainly for guided visits; check with the tourist office (05 59 22 37 10).",
+   "q": "Chapelle Impériale, Avenue de l'Impératrice, Biarritz",
+   "ll": [
+    43.48494,
+    -1.55491
+   ],
+   "src": [
+    "https://www.cheminsdememoire.gouv.fr/en/biarritz-imperial-chapel",
+    "https://tourisme.biarritz.fr/en/discover/sites-and-museums-biarritz/imperial-chapel"
+   ]
+  },
+  {
+   "id": "eglisesainteeugenie",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the neo-Gothic Église Sainte-Eugénie",
+   "desc": "A neo-Gothic church on the Port-Vieux, dedicated to the patron saint of Empress Eugénie, with a bell tower facing the ocean. Routard dates the present building to 1898-1903 by Jean-Baptiste Ernest Lacombe, replacing an 1856 chapel.",
+   "tip": "A restoration campaign is under way, so scaffolding may be present. Combine with the nearby Port-Vieux beach.",
+   "q": "Église Sainte-Eugénie, Place Sainte-Eugénie, Biarritz",
+   "ll": [
+    43.48196,
+    -1.56437
+   ],
+   "src": [
+    "https://www.routard.com/fr/guide/france/pays-basque-et-bearn/pyrenees-atlantiques/biarritz/eglise-sainte-eugenie",
+    "https://structurae.net/structures/eglise-sainte-eugenie-de-biarritz"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "biarritzportpecheurs",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Wander the Port des Pêcheurs and its crampottes",
+   "desc": "The old fishing harbour at the foot of the Atalaye, dating to a 1780 slipway and an 1865 port under Napoleon III. Small wooden fishermen's huts, the crampottes, line the quay.",
+   "tip": "Come at golden hour. The port holds a Saturday festival with sardine grills in July and August.",
+   "q": "Port des Pêcheurs, Allée du Port des Pêcheurs, Biarritz",
+   "ll": [
+    43.4837,
+    -1.567
+   ],
+   "src": [
+    "https://www.routard.com/fr/mag/reportage/a/le-pays-basque-cote-ports-de-biarritz-a-hendaye",
+    "https://www.waymarking.com/waymarks/wm16MF4_Le_port_de_pche_Biarritz_France"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bayonnecathedral",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire Bayonne's Cathédrale Sainte-Marie",
+   "desc": "A Gothic cathedral with twin spires, classified as a historic monument in 1862, dominating the old town of Grand Bayonne. It is a stop on the Camino de Santiago route.",
+   "tip": "Entry is free; mind services and the guided tours of the building works.",
+   "q": "Cathédrale Sainte-Marie, Place Pasteur, Bayonne",
+   "ll": [
+    43.49053,
+    -1.47729
+   ],
+   "src": [
+    "https://www.techno-science.net/fr/definitions/cathedrale-sainte-marie-de-bayonne",
+    "https://www.lonelyplanet.fr/poi/pays-basque-biarritzbayonneetangpaysbasqueess-cathedrale-sainte-marie"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bayonnecloister",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk the cathedral cloister in Bayonne",
+   "desc": "A rectangular 13th-14th century cloister on the south side of the cathedral, among the largest in France. It served for prayer, processions and burials, and the engraved floor slabs remain.",
+   "tip": "Entry is free; check opening hours as they vary.",
+   "q": "Cloître de la cathédrale, Rue Albert 1er, Bayonne",
+   "ll": [
+    43.49015,
+    -1.47705
+   ],
+   "src": [
+    "https://www.guide-tourisme-france.com/VISITER/cloitre--bayonne-5714.htm",
+    "https://www.cityzeum.com/cloitre"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "musebasquebayonne",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Learn Basque life at the Musée Basque",
+   "desc": "The Basque museum has occupied the late 16th century Maison Dagourette in Petit Bayonne since 1924. Twenty rooms on three levels cover ethnography and history, including a relief model of the port of Bayonne.",
+   "tip": "Open Tuesday to Sunday; closed Mondays. Check the museum website for current prices.",
+   "q": "Musée Basque et de l'histoire de Bayonne, 37 Quai des Corsaires, Bayonne",
+   "ll": [
+    43.49174,
+    -1.47347
+   ],
+   "src": [
+    "https://www.en-pays-basque.fr/en/visit/musee-basque-et-de-lhistoire-de-bayonne/",
+    "https://www.tourisme64.com/activites/bayonne/PCUAQU064FS00006-musee-basque-et-de-l-histoire-de-bayonne/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "musebonnat",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See Ingres and old masters at Musée Bonnat-Helleu",
+   "desc": "The fine arts museum of Bayonne, created around painter Léon Bonnat's bequest, reopened in November 2025 after a 14-year renovation. Highlights include Ingres's La Baigneuse and many works on deposit from the Louvre.",
+   "tip": "Check current hours and tickets on the museum site; the new route doubled the exhibition space.",
+   "q": "Musée Bonnat-Helleu, 5 Rue Jacques Laffitte, Bayonne",
+   "ll": [
+    43.49189,
+    -1.4722
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Mus%C3%A9e_Bonnat-Helleu",
+    "https://www.theartnewspaper.com/2025/11/24/bayonnes-refreshed-bonnat-helleu-museum-reopens-after-major-renovation"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bayonnechateauvieux",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk the Vauban ramparts to the Château-Vieux",
+   "desc": "The Château-Vieux stands on Gallo-Roman foundations reworked in the 11th century, and Vauban made it the northwest anchor of Bayonne's defences. The ramparts walk gives views over rooftops, the Nive and the cathedral.",
+   "tip": "The castle is seen from outside; the fortifications have been listed since 1886.",
+   "q": "Château-Vieux, Rue des Remparts, Bayonne",
+   "ll": [
+    43.49185,
+    -1.47816
+   ],
+   "src": [
+    "https://en.wikipedia.com/wiki/Ch%C3%A2teau-Vieux_(Bayonne)",
+    "https://monumentum.fr/monument-historique/pa00084336/bayonne-fortifications"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "villabelza",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Photograph Villa Belza above the Côte des Basques",
+   "desc": "A château-like villa built in the late 19th century between the Rocher de la Vierge and the Côte des Basques, later damaged by fire and left abandoned before being renovated into apartments.",
+   "tip": "It is private; view it from the coastal path. Pair with a Côte des Basques walk.",
+   "q": "Villa Belza, Rue Gardères, Biarritz",
+   "ll": [
+    43.48165,
+    -1.56907
+   ],
+   "src": [
+    "https://www.guide-tourisme-france.com/VISITER/villa-belza--biarritz-6012.htm",
+    "https://www.barnes-cotebasque.com/en/news/basque-country-culture-5/villa-belza-biarritz-571"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "chambredamourgrotte",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find the Chambre d'Amour cave in Anglet",
+   "desc": "A natural cave in the cliffs of Cap Saint-Martin, visible only at low tide, linked to the legend of two lovers swept away by the rising sea. The district of Anglet takes its name from it.",
+   "tip": "Check the tide table. Going inside is discouraged for safety.",
+   "q": "Grotte de la Chambre d'Amour, Chambre d'Amour, Anglet",
+   "ll": [
+    43.4982,
+    -1.54312
+   ],
+   "src": [
+    "https://www.guide-tourisme-france.com/VISITER/grotte-chambre-amour--anglet-4342.htm",
+    "https://www.surf-report.com/news/culture-musique/anglet-chambre-amour-conte-histoire-830217492.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "atelierchocolatbayonne",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Tour the Musée du Chocolat of L'Atelier du Chocolat",
+   "desc": "The museum at the house's historic base in Bayonne traces cocoa's origins, its arrival in Bayonne and the old workshop machines, ending with a tasting.",
+   "tip": "Visits are by appointment; allow about 1h30.",
+   "q": "L'Atelier du Chocolat, 7 Allée de Gibéléou, Bayonne",
+   "ll": [
+    43.49144,
+    -1.45798
+   ],
+   "src": [
+    "https://www.tourisme64.com/activites/bayonne/PCUAQU064FS0008O-l-atelier-du-chocolat-musee-du-chocolat/",
+    "https://www.guide-tourisme-france.com/VISITER/atelier-chocolat--bayonne-5870.htm"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "cazenavebayonne",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink frothy hot chocolate at Cazenave",
+   "desc": "A chocolate maker and tea room under the arcades of rue Port-Neuf, producing chocolate since 1854. Its hot chocolate is hand-whisked to a foam and served with buttered brioche.",
+   "tip": "Order the chocolat mousseux with the Chocolat Toast. Closed Sundays and probably Mondays; confirm.",
+   "q": "Chocolat Cazenave, 19 Rue Port-Neuf, Bayonne",
+   "ll": [
+    43.49227,
+    -1.47562
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/artisans/chocolat-cazenave",
+    "https://www.nationalgeographic.com/travel/article/drinking-chocolate-in-bayonne"
+   ]
+  },
+  {
+   "id": "ibaialdebayonne",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste Bayonne ham at Pierre Ibaïalde",
+   "desc": "A ham workshop and boutique in Petit Bayonne selling its own jambon, Espelette sausage and veal axoa. Guided visits of about 45 minutes end with a tasting.",
+   "tip": "Book the tour online, especially in July and August.",
+   "q": "Pierre Ibaïalde, 41 Rue des Cordeliers, Bayonne",
+   "ll": [
+    43.48941,
+    -1.47242
+   ],
+   "src": [
+    "https://www.guide-du-paysbasque.com/fr/tourisme/decouvrir/artisans-visites-et-ateliers-/bayonne-52/pierre-ibaialde-1613.html",
+    "https://www.en-pays-basque.fr/en/sit/pierre-ibaialde-artisan-du-jambon-a-bayonne/"
+   ]
+  },
+  {
+   "id": "miremontbiarritz",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have macarons and tea at Miremont",
+   "desc": "A pâtisserie and tea room on Place Clemenceau, opened in 1872 by Etienne Singher. Known for its macarons, gâteau basque and hot chocolate with Chantilly.",
+   "tip": "Sit in the historic salon. Open daily around 9:00-19:00; check ahead.",
+   "q": "Pâtisserie Miremont, 1 bis Place Georges Clemenceau, Biarritz",
+   "ll": [
+    43.48246,
+    -1.56172
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/artisans/patisserie-miremont",
+    "https://monumentum.fr/monument-historique/pa64000060/biarritz-patisserie-miremont"
+   ]
+  },
+  {
+   "id": "halleseaillerie",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat oysters at L'Ecaillerie in the Halles de Biarritz",
+   "desc": "The covered Halles market opened in 1885 and was restored in 2013. L'Ecaillerie is a seafood stall where you can buy oysters and eat them with white wine upstairs.",
+   "tip": "Go at market time, morning to early afternoon. Summer evenings have a night market.",
+   "q": "L'Ecaillerie, Les Halles, rue des Halles, Biarritz",
+   "ll": [
+    43.48111,
+    -1.56237
+   ],
+   "src": [
+    "https://api-adresse.data.gouv.fr/search/?q=Rue des Halles Biarritz"
+   ]
+  },
+  {
+   "id": "chezalbertbiarritz",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order wild fish at Chez Albert on the port",
+   "desc": "A harbour-side seafood restaurant at the Port des Pêcheurs known for wild fish from the Basque coast, with a terrace in spring and summer.",
+   "tip": "Book ahead; reportedly closed Wednesdays.",
+   "q": "Chez Albert, 51 bis Allée du Port des Pêcheurs, Biarritz",
+   "ll": [
+    43.4831,
+    -1.5653
+   ],
+   "src": [
+    "https://indagare.com/restaurant/chez-albert",
+    "https://fr.gaultmillau.com/en/restaurant/chez-albert"
+   ]
+  },
+  {
+   "id": "crampotte30",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Share pintxos with a harbour view at Crampotte 30",
+   "desc": "A tiny seasonal bar on the Port des Pêcheurs serving pintxos, local cheese, Basque sausage and txakoli. It has a small terrace and no indoor seating.",
+   "tip": "Open roughly late spring to early October; hours vary, so check.",
+   "q": "Crampotte 30, 30 Allée du Port des Pêcheurs, Biarritz",
+   "ll": [
+    43.48304,
+    -1.56563
+   ],
+   "src": [
+    "https://indagare.com/restaurant/crampotte-30",
+    "https://olivemagazine.com/travel/europe/france/biarritz-france-top-10-places-to-eat-and-drink"
+   ]
+  },
+  {
+   "id": "daranatzbayonne",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Buy gâteau basque at Daranatz",
+   "desc": "A Bayonne confectioner on rue Port-Neuf selling macarons, gâteaux basques and cannelés, founded in 1890.",
+   "tip": "Choose the cream or cherry gâteau basque.",
+   "q": "Daranatz, 15 Rue Port-Neuf, Bayonne",
+   "ll": [
+    43.4912,
+    -1.475
+   ],
+   "src": [
+    "https://www.guide-du-paysbasque.com/fr/tourisme/deguster/produits-basques/gateaux/bayonne-52/daranatz-4988.html",
+    "https://www-lonelyplanet-com-57e2.imagizer.com/france/southwestern-france/bayonne/shopping/daranatz/a/poi-sho/430542/359291"
+   ]
+  },
+  {
+   "id": "pariesbayonne",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try kanougas at Pariès on rue Port-Neuf",
+   "desc": "A confectioner founded in 1895 and now run by the fourth generation, known for kanougas, tourons and mouchous. Gault&Millau notes Pariès registered the kanouga name.",
+   "tip": "Buy a box of soft chocolate kanougas.",
+   "q": "Pariès, 14 Rue Port-Neuf, Bayonne",
+   "ll": [
+    43.4913,
+    -1.4749
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/en/artisans/paries",
+    "https://www.tourisme64.com/en/8-gastronomic-specialties-in-the-basque-country-and-bearn/"
+   ]
+  },
+  {
+   "id": "adambiarritz",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste macarons at Maison Adam in Biarritz",
+   "desc": "A Biarritz shop of the Maison Adam, whose macarons trace to 1660 and Louis XIV's wedding at Saint-Jean-de-Luz. It sells macarons, Basque cakes and chocolates.",
+   "tip": "Climb the back staircase for a view toward the lighthouse.",
+   "q": "Maison Adam, 27 Place Georges Clemenceau, Biarritz",
+   "ll": [
+    43.48223,
+    -1.55921
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/artisans/maison-adam-64",
+    "https://www.maisonadam.fr/en/"
+   ]
+  },
+  {
+   "id": "lesarcadesbayonne",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat pintxos under the arcades at Les Arcades",
+   "desc": "A Basque restaurant and pintxos bar at 40 rue Port-Neuf between the town hall and cathedral, serving market cuisine, pintxos and cassolettes.",
+   "tip": "Reported live music on Friday evenings; hours vary, so check.",
+   "q": "Les Arcades, 40 Rue Port-Neuf, Bayonne",
+   "ll": [
+    43.4917,
+    -1.4747
+   ],
+   "src": [
+    "https://www.guide-du-paysbasque.com/fr/tourisme/se-restaurer/bars-a-vins-bieres-bistrot-tapas-et-pintxos/bayonne-52/les-arcades-7957.html",
+    "https://www.guide-du-paysbasque.com/fr/tourisme/se-restaurer/restaurants/bayonne-52/les-arcades-3810.html"
+   ]
+  },
+  {
+   "id": "trinquetbrasseriebayonne",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have tapas at the Brasserie du Trinquet Saint-André",
+   "desc": "A café-restaurant next to the Trinquet Saint-André pelota court, a gathering place for players and spectators and for Bayonne festivities.",
+   "tip": "Reviewers praise the tapas and the patio.",
+   "q": "Brasserie du Trinquet Saint-André, 4 Rue du Jeu de Paume, Bayonne",
+   "ll": [
+    43.49018,
+    -1.47174
+   ],
+   "src": [
+    "https://www.guide-du-paysbasque.com/fr/tourisme/se-restaurer/restaurants/bayonne-52/brasserie-du-trinquet-saint-andre-1006.html",
+    "https://www.lonelyplanet.fr/poi/pays-basque-biarritzbayonneetangpaysbasqueess-trinquet-saint-andre"
+   ]
+  },
+  {
+   "id": "barjeanbiarritz",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order scallops with Espelette at Bar Jean",
+   "desc": "A tapas bar facing the Halles de Biarritz serving Basque and Spanish tapas and pintxos. Guides recommend the scallops with Espelette pepper.",
+   "tip": "No reservations; sit at the counter or on the terrace.",
+   "q": "Bar Jean, 5 Rue des Halles, Biarritz",
+   "ll": [
+    43.48128,
+    -1.56254
+   ],
+   "src": [
+    "https://indagare.com/restaurant/bar-jean",
+    "https://theculturetrip.com/europe/france/articles/10-of-biarritzs-top-tapas-bars"
+   ]
+  },
+  {
+   "id": "damejeannebayonne",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sip natural wine at Dame Jeanne",
+   "desc": "A wine bar in Bayonne run by three owners who took over from Marie Hours, serving plant-forward small plates, local charcuterie and natural wines on tap.",
+   "tip": "Open mid-week to weekend; closed Monday and Tuesday per a listing.",
+   "q": "Dame Jeanne, 4 rue Port de Castets, Bayonne",
+   "ll": [
+    43.49103,
+    -1.47508
+   ],
+   "src": [
+    "https://api-adresse.data.gouv.fr/search/?q=4 rue Port de Castets Bayonne"
+   ]
+  },
+  {
+   "id": "chisteracoquillages",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Cancale oysters at Chistera & Coquillages",
+   "desc": "A seafood restaurant on rue des Halles near the market, offering pintxos, seafood platters, Cancale oysters and fish of the day; selected in Gault&Millau 2026.",
+   "tip": "Open long hours daily per some sources; confirm.",
+   "q": "Chistera & Coquillages, 13 Rue des Halles, Biarritz",
+   "ll": [
+    43.48114,
+    -1.56189
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/en/restaurant/chistera-et-coquillages",
+    "https://www.guide-du-paysbasque.com/en/tourism/eating-and-drinking/restaurants/biarritz-53/chistera-et-coquillages-9304.html"
+   ]
+  },
+  {
+   "id": "surfcotedesbasques",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Take a surf lesson on the Côte des Basques",
+   "desc": "A long beach below the cliffs south of the town, a classic spot for beginners with long soft waves. Schools such as La Vague Basque, Lagoondy and Jo Moraiz run lessons.",
+   "tip": "The beach is reachable only at low tide; check tide coefficients. June and September are best for beginners.",
+   "q": "Plage de la Côte des Basques, Biarritz",
+   "ll": [
+    43.4749,
+    -1.56882
+   ],
+   "src": [
+    "https://www.tourisme64.com/activites/biarritz/PNAAQU064FS00032-la-cote-des-basques/",
+    "https://www.manawa.com/en-GB/activity/france/biarritz/surfing/private-surf-lessons-on-the-cote-des-basques-beach-in-biarritz/25863"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "anglethecavaliers",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Watch or ride the waves at Les Cavaliers, Anglet",
+   "desc": "Anglet's best-known surf break, a beach of over 1 km with powerful tubular waves and schools on the sand. It hosts international junior surf contests.",
+   "tip": "Beginners are steered to Les Corsaires or La Madrague; the waves suit intermediates best.",
+   "q": "Plage des Cavaliers, Anglet",
+   "ll": [
+    43.52199,
+    -1.52639
+   ],
+   "src": [
+    "https://www.plages.tv/surf/spot/plage-des-cavaliers-anglet-64600",
+    "https://vvanat.fr/blog/plage-surf-anglet/"
+   ]
+  },
+  {
+   "id": "voievertepignada",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cycle the Voie Verte du Pignada in Anglet",
+   "desc": "A roughly 7 km cycle loop around the Pignada pine forest, starting from the Montbrun district, with a detour possible to the Dunes beach. Part of the forest burned in a fire on 30 July 2020.",
+   "tip": "Cycling is banned inside the forest, so stay on the marked cycle path. Allow about 2 hours.",
+   "q": "Voie verte du Pignada, Montbrun, Anglet",
+   "ll": [
+    43.517,
+    -1.51529
+   ],
+   "src": [
+    "https://www.cirkwi.com/en/circuit/371014-voie-verte-du-pignada",
+    "https://commune-mairie.fr/randonnee/voie-verte-du-pignada-8ba22ed046"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "fetesdebayonne",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Dress in red and white for the Fêtes de Bayonne",
+   "desc": "Bayonne's five-day summer festival, held mid-July in 2026 (15 to 19 July), with parades, bullfights and concerts across the old town.",
+   "tip": "Wear white with a red scarf and expect huge crowds; program at fetes.bayonne.fr.",
+   "q": "Hôtel de Ville, Place de la Liberté, Bayonne",
+   "ll": [
+    43.493,
+    -1.475
+   ],
+   "src": [
+    "https://www.routard.com/guide_agenda_detail/2497/fetes_de_bayonne.htm",
+    "https://onivapp.com/blog/fetes-de-bayonne-2026"
+   ],
+   "months": [
+    7
+   ]
+  },
+  {
+   "id": "thalassabiarritz",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Unwind at Thalassa Sea & Spa",
+   "desc": "The thalassotherapy centre of the Sofitel Biarritz Le Miramar, on Rue Louison Bobet, with seawater massages, hydro-relaxing sessions and marine wraps.",
+   "tip": "Book treatments ahead; other options include Thalmar on rue de Madrid.",
+   "q": "Thalassa Sea & Spa, 13 rue Louison Bobet, Biarritz",
+   "ll": [
+    43.48788,
+    -1.55444
+   ],
+   "src": [
+    "https://api-adresse.data.gouv.fr/search/?q=13 rue Louison Bobet Biarritz"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hallesbayonnemarket",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Halles de Bayonne market",
+   "desc": "A covered market on the Nive quay, rebuilt in 1994 on the model of the 1860 Baltard-style halls. Stalls sell foie gras, pâtés, sheep's cheese and spices; on Friday a flea market runs by the river, and on Saturday a producers' market.",
+   "tip": "Go Saturday morning for the producers' market; check hours.",
+   "q": "Halles de Bayonne, Quai Dominique Roquebert, Bayonne",
+   "ll": [
+    43.49,
+    -1.47511
+   ],
+   "src": [
+    "https://www.guide-du-paysbasque.com/fr/experiences/gourmande/article-notre-top-5-des-plus-beaux-marches-du-pays-basque--234.html",
+    "https://ryo.co/fr/destinations/france/lieux/halles-de-bayonne-et-maison-moulis/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "izadiaanglet",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the Izadia nature park at the Adour mouth",
+   "desc": "A Natura 2000 ecological park with two lakes at the mouth of the Adour, with a trail of ten stations on coastal wetland biodiversity and free guided walks.",
+   "tip": "Open Wednesday to Sunday per a 2025 programme; call 05 59 57 17 48.",
+   "q": "Parc écologique Izadia, 297 Avenue de l'Adour, Anglet",
+   "ll": [
+    43.52392,
+    -1.52094
+   ],
+   "src": [
+    "https://www.guide-du-paysbasque.com/en/tourism/discover/tourist-sites/nature-reserve/anglet-46/parc-ecologique-izadia-2841.html",
+    "https://izadia.anglet.fr/wp-content/uploads/2025/04/izadia_prog_printemps_2025.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "golfbiarritzphare",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Play 18 holes at Golf de Biarritz Le Phare",
+   "desc": "Founded in 1888, one of the oldest golf clubs in France, set in the town with views of the ocean from parts of the course.",
+   "tip": "Green fees vary by season; book ahead (05 59 03 71 80).",
+   "q": "Golf de Biarritz Le Phare, 2 Avenue Edith Cavell, Biarritz",
+   "ll": [
+    43.49212,
+    -1.54188
+   ],
+   "src": [
+    "https://www.en-pays-basque.fr/en/activity/golf-de-biarritz-le-phare/",
+    "https://www.where2golf.com/france/golf-de-biarritz-le-phare"
+   ]
+  },
+  {
+   "id": "angletchambredamourbeach",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Swim at Plage de la Chambre d'Amour in Anglet",
+   "desc": "An Anglet beach below the cliffs of Cap Saint-Martin and host of the Pro Anglet surf contest. The adjacent Petite Chambre d'Amour beach is quieter.",
+   "tip": "Swim in lifeguarded months; check tide and surf conditions.",
+   "q": "Plage de la Chambre d'Amour, Anglet",
+   "ll": [
+    43.50979,
+    -1.53572
+   ],
+   "src": [
+    "https://www.guide-du-paysbasque.com/fr/tourisme/decouvrir/plages/anglet-46/plage-de-la-petite-chambre-d-amour-3558.html",
+    "https://worldsurfleague.com/posts/139415/www.worldsurfleague.com/events/2015/mqs/1276/anglet-pro"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "trinquetsaintandre",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Watch a pelota match at the Trinquet Saint-André",
+   "desc": "One of the oldest pelota courts in France, in Petit Bayonne, hosting games and tournaments, mainly pala, outside the summer.",
+   "tip": "Matches usually on weekday evenings and weekend afternoons; check the schedule.",
+   "q": "Trinquet Saint-André, 9 Rue des Cordeliers, Bayonne",
+   "ll": [
+    43.49018,
+    -1.47174
+   ],
+   "src": [
+    "https://www.guide-tourisme-france.com/VISITER/trinquet-saint-andre--bayonne-5991.htm",
+    "https://www.lonelyplanet.fr/poi/pays-basque-biarritzbayonneetangpaysbasqueess-trinquet-saint-andre"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "portvieuxbeach",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Swim in the sheltered Port-Vieux cove",
+   "desc": "A small, sheltered cove beach below Église Sainte-Eugénie, protected from the swell and popular for family swimming.",
+   "tip": "Check tide times; it is small and crowded in summer.",
+   "q": "Plage du Port-Vieux, Biarritz",
+   "ll": [
+    43.48253,
+    -1.56785
+   ],
+   "src": [
+    "https://www.guide-du-paysbasque.com/fr/tourisme/decouvrir/plages/biarritz-53/plage-du-port-vieux-6950.html",
+    "https://www.tourisme64.com/activites/biarritz/PNAAQU064FS00032-la-cote-des-basques/"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "fetedupportpecheurs",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Join the Saturday port festival at the Port des Pêcheurs",
+   "desc": "The fishermen's harbour hosts a Saturday festival in July and August with music, sardine grills and concerts. The harbour declared itself a free commune on 7 June 1961.",
+   "tip": "Arrive early for sardines; it gets crowded.",
+   "q": "Port des Pêcheurs, Allée du Port des Pêcheurs, Biarritz",
+   "ll": [
+    43.4836,
+    -1.5669
+   ],
+   "src": [
+    "https://www.routard.com/fr/mag/reportage/a/le-pays-basque-cote-ports-de-biarritz-a-hendaye",
+    "https://touradour.com/towns/biarritz/crampotte_biarritz.asp"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    7,
+    8
+   ]
+  }
+ ]
+}

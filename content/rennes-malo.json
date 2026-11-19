@@ -1,0 +1,826 @@
+{
+ "new": [
+  {
+   "id": "smaloramparts",
+   "cat": "gor",
+   "area": "saintmalo",
+   "title": "Walk the ramparts of Saint-Malo",
+   "desc": "The granite walls around the walled town of Intra-Muros date from the Middle Ages, with bastions added up to the 18th century. About 80 percent of the town was destroyed in August 1944, but the ramparts survived and the streets were rebuilt to the old plan.",
+   "tip": "Start at the Porte Saint-Vincent; early morning is quietest. Allow about an hour for the full loop.",
+   "q": "Remparts de Saint-Malo, Porte Saint-Vincent, Saint-Malo",
+   "ll": [
+    48.64706,
+    -2.02609
+   ],
+   "src": [
+    "https://www.lonelyplanet.fr/destinations/france/bretagne/que-faire/lassaut-des-remparts",
+    "https://ryo.co/fr/articles/france/saint-malo/balade-saint-malo/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "smalocathedral",
+   "cat": "gor",
+   "area": "saintmalo",
+   "title": "Step inside Saint-Malo Cathedral",
+   "desc": "The Cathédrale Saint-Vincent in Intra-Muros was begun in 1146 and mixes Romanesque and Gothic work. It was damaged in 1944 and restored until 1972; Jacques Cartier is buried here and Duguay-Trouin is also commemorated.",
+   "tip": "Free to enter; look for the modern stained glass. Quiet outside lunch hours.",
+   "q": "Cathédrale Saint-Vincent, Place Jean de Châtillon, Saint-Malo",
+   "ll": [
+    48.64937,
+    -2.02745
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Saint-Malo_Cathedral",
+    "https://www.saint-malo-tourisme.co.uk/offers/cathedrale-saint-vincent-saint-malo-en-3646259"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "fortnationalsm",
+   "cat": "gor",
+   "area": "saintmalo",
+   "title": "Cross the sand to Fort National at low tide",
+   "desc": "Fort National is a granite sea fort off the ramparts that becomes an island at high tide. It can be reached on foot only at low tide, starting from the Saint-Vincent slipway, and is open when the flag is flying.",
+   "tip": "Check tide times first; a guided visit lasts about 35 minutes. Wear shoes for rocks and wet sand.",
+   "q": "Fort National, Plage de l'Éventail, Saint-Malo",
+   "ll": [
+    48.65487,
+    -2.02327
+   ],
+   "src": [
+    "https://www.lonelyplanet.fr/poi/bretagne-ileetvilainebretagneexp-fort-national",
+    "https://figaronautisme.meteoconsult.fr/actus-nautisme-escales/2016-07-07/33887-le-fort-national-bastion-avance-de-la-cite-corsaire"
+   ],
+   "tags": []
+  },
+  {
+   "id": "grandbetomb",
+   "cat": "gor",
+   "area": "saintmalo",
+   "title": "Visit Chateaubriand's tomb on the Grand Bé",
+   "desc": "The writer Chateaubriand chose to be buried on the Grand Bé islet, facing the open sea. His tomb is a granite-crowned slab, a listed monument since 1954, reachable on foot from the beach at low tide.",
+   "tip": "Only go across at low tide and leave plenty of time to return before the water rises.",
+   "q": "Tombeau de Chateaubriand, Île du Grand Bé, Saint-Malo",
+   "ll": [
+    48.65302,
+    -2.03315
+   ],
+   "src": [
+    "https://monumentum.fr/monument-historique/pa00090870/saint-malo-tombeau-de-chateaubriand-et-ensemble-de-lilot-du-grand-be",
+    "https://atlasobscura.com/places/grand-be-island"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "toursolidor",
+   "cat": "gor",
+   "area": "saintmalo",
+   "title": "See the Tour Solidor over the Rance",
+   "desc": "The Tour Solidor stands at the mouth of the Rance in Saint-Servan and has housed a cap-hornier museum since 1970. The museum has been closed since 2019 awaiting a new maritime history museum, but the tower and its waterfront remain a landmark.",
+   "tip": "Visit for the exterior and the estuary views; confirm with the tourist office whether the interior has reopened.",
+   "q": "Tour Solidor, Cours des Corsaires, Saint-Servan, Saint-Malo",
+   "ll": [
+    48.63403,
+    -2.02607
+   ],
+   "src": [
+    "https://monumentum.fr/monument-historique/pa00090871/saint-malo-tour-solidor-et-ouvrages-avances",
+    "https://ryo.co/en/articles/france/saint-malo/solidor-tower/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "aletsaintservan",
+   "cat": "gor",
+   "area": "saintmalo",
+   "title": "Explore the Cité d'Aleth and Mémorial 39-45",
+   "desc": "The Aleth peninsula in Saint-Servan holds two thousand years of history: a Gallo-Roman settlement, a medieval bishopric, an 18th-century fort and a German bunker complex. Since 1994 the Mémorial 39-45 has opened part of the bunkers to visitors.",
+   "tip": "Walk the ramparts path round the point for views of Dinard and the Rance. Memorial hours vary by season.",
+   "q": "Cité d'Aleth, Rue Gaston Buy, Saint-Servan, Saint-Malo",
+   "ll": [
+    48.63612,
+    -2.02803
+   ],
+   "src": [
+    "https://ryo.co/fr/articles/france/saint-malo/cite-d-aleth/",
+    "https://relecture.patrimoine.bzh/dossier/pdf/04fa1817-ab60-4976-9b5d-1b7f7e7cdc90/fort-de-la-cite-d-aleth-puis-ensemble-fortifie-ra-230-actuellement-memorial-39-45-saint-servan-saint-malo.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rotheneufrocks",
+   "cat": "gor",
+   "area": "saintmalo",
+   "title": "Meet the carved faces of Rothéneuf",
+   "desc": "Abbé Adolphe-Julien Fouré (1839-1910) spent years carving hundreds of figures, including pirates, monsters and fishermen, into the granite cliffs at Rothéneuf after a stroke. The Rochers Sculptés are open to visitors.",
+   "tip": "Hours and entry fee vary by season, so check before going. Pair with a walk on the nearby coast path.",
+   "q": "Les Rochers Sculptés, Rue de l'Abbé Fouré, Rothéneuf, Saint-Malo",
+   "ll": [
+    48.68673,
+    -1.96823
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Roth%C3%A9neuf",
+    "https://generationvoyage.fr/rochers-sculptes-abbe-foure/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "pointedugrouin",
+   "cat": "gor",
+   "area": "saintmalo",
+   "title": "Take in the Bay from the Pointe du Grouin",
+   "desc": "The Pointe du Grouin is the northernmost tip of Cancale, with views over the Channel towards Jersey and Chausey and across the Bay of Mont-Saint-Michel. The headland is protected and the islet off it is a Natura 2000 bird zone.",
+   "tip": "Free car park near the hostel; it sits on the GR34. Bring a windproof layer.",
+   "q": "Pointe du Grouin, Cancale",
+   "ll": [
+    48.70973,
+    -1.84417
+   ],
+   "src": [
+    "https://www.tourismebretagne.com/offres/la-pointe-du-grouin-cancale-fr-2149707/",
+    "https://www.saint-malo-tourisme.co.uk/our-8-preserved-treasures/cancale-les-perles-de-la-cote/the-pointe-du-grouin-and-its-bird-island/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "dinardclairdelune",
+   "cat": "gor",
+   "area": "saintmalo",
+   "title": "Stroll Dinard's Promenade du Clair de Lune",
+   "desc": "This seafront walk runs between the Plage du Prieuré and the Pointe du Moulinet past Belle Époque villas and a palm grove. In July and August parts of it are lit with music in the evening.",
+   "tip": "Free; the guided Fleurs and Senteurs visit runs on Thursday mornings in summer from the Prieuré pool.",
+   "q": "Promenade du Clair de Lune, Avenue George V, Dinard",
+   "ll": [
+    48.63479,
+    -2.04886
+   ],
+   "src": [
+    "https://dinardemeraudetourisme.com/en/unmissables/dinard-clair-de-lune-promenade",
+    "https://fodors.fodors.com/world/europe/france/brittany/things-to-do/performing-arts/reviews/clair-de-lune-157468"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rancetidalplant",
+   "cat": "gor",
+   "area": "saintmalo",
+   "title": "Discover the Rance tidal power station",
+   "desc": "The Rance tidal power station on the barrage between Dinard and Saint-Malo uses the sea's tides to generate electricity. EDF runs a free guided visit from its Espace Odyssélec in La Richardais, with registration required.",
+   "tip": "Book the visit through EDF's page and check the 2026 opening calendar; minimum age 8.",
+   "q": "Espace EDF Odyssélec, Route du Barrage, La Richardais",
+   "ll": [
+    48.6174,
+    -2.02883
+   ],
+   "src": [
+    "https://www.edf.fr/usine-maremotrice-rance/visiter",
+    "https://www.edf.fr/groupe-edf/visiter-edf/281/events"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "dinanchateau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the Château de Dinan and its towers",
+   "desc": "The château combines the ducal keep, the Coëtquen artillery tower of the 1470s and the Porte du Guichet. The town bought it in 1906 and guided visits of both towers run daily, though the old museum collections have been moved to storage.",
+   "tip": "Join the guided visit and climb for rooftop views over the Rance valley.",
+   "q": "Château de Dinan, Rue du Château, Dinan",
+   "ll": [
+    48.45011,
+    -2.04358
+   ],
+   "src": [
+    "https://www.chateaudedinan.fr/wp-content/uploads/2024/04/VILLE_DE_DINAN_FLYER_CHATEAU_2024_IMP_BIGBANG_BD.pdf",
+    "https://en.Wikipedia.com/wiki/Ch%C3%A2teau_de_Dinan"
+   ],
+   "tags": []
+  },
+  {
+   "id": "jerzualdinan",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk down the Rue du Jerzual to Dinan harbour",
+   "desc": "This steep cobbled street runs from the 14th-century Porte du Jerzual down to the port on the Rance, past half-timbered houses. It was the route for linen and hemp trade.",
+   "tip": "Go down in the morning and pause at the quayside cafés. Wear sturdy shoes for the climb back.",
+   "q": "Rue du Jerzual, Dinan",
+   "ll": [
+    48.45483,
+    -2.04179
+   ],
+   "src": [
+    "https://www.francethisway.com/places/dinan-rue-jerzual-and-port.php",
+    "https://www.waymarking.com/waymarks/wmZDMG_La_rue_du_Jerzual_Dinan_France"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "capfrehel",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look down the cliffs from the Cap Fréhel lighthouse",
+   "desc": "Cap Fréhel is a sandstone and shale headland rising about 70 m above the sea and an ornithological reserve. The current lighthouse was inaugurated in 1950 and can be climbed for a wide view.",
+   "tip": "Walk the GR34 coast path to Fort la Latte (about 1.5 hours one way) or arrive by car.",
+   "q": "Phare du Cap Fréhel, Plévenon",
+   "ll": [
+    48.6837,
+    -2.3203
+   ],
+   "src": [
+    "https://cotesdarmor.fr/sites/default/files/pdf_environnement/Depliant_Cap_Frehel_Frehel.pdf",
+    "https://www.tourismebretagne.com/destinations/les-10-destinations/cap-frehel-saint-malo-baie-du-mont-saint-michel/cap-frehel-fort-lalatte/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "fortlalatte",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Cross the drawbridge into Fort la Latte",
+   "desc": "Fort la Latte, also called the Château de la Roche Goyon, is a medieval coastal fortress on a rocky promontory near Cap Fréhel. A visit covers the interior, exterior and a medieval garden.",
+   "tip": "Allow one to two hours; opening hours are reduced in winter, so check the official page.",
+   "q": "Fort la Latte, Plévenon",
+   "ll": [
+    48.6682,
+    -2.28486
+   ],
+   "src": [
+    "https://www.saint-malo-tourisme.co.uk/offers/chateau-de-la-roche-goyon-ou-fort-la-latte-plevenon-en-3646154",
+    "https://www.pop.culture.gouv.fr/notice/merimee/PA00089157"
+   ],
+   "tags": []
+  },
+  {
+   "id": "dolcathedral",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Gothic cathedral of Dol-de-Bretagne",
+   "desc": "The former Cathédrale Saint-Samson in Dol was begun around 1203 and has a nave almost 100 m long and a large 14th-century south porch. Dol was the seat of a bishopric founded by Saint Samson until 1801.",
+   "tip": "Free entry; combine it with a stroll along the old town's Grande Rue des Stuarts.",
+   "q": "Cathédrale Saint-Samson, Place de la Cathédrale, Dol-de-Bretagne",
+   "ll": [
+    48.5509,
+    -1.75555
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Dol_Cathedral",
+    "https://monumentum.fr/monument-historique/pa00090544/dol-de-bretagne-ancienne-cathedrale-saint-samson"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "montdolpanorama",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb Mont-Dol for the bay panorama",
+   "desc": "Mont-Dol is a granite hill about 65 m high with a view over the Bay of Mont-Saint-Michel. The summit has a windmill, a chapel and the Notre-Dame tower, inaugurated in 1857, with a staircase to a viewing platform.",
+   "tip": "Clearest on a bright day; the Tertre windmill (1843) is open in the tourist season.",
+   "q": "Mont-Dol, Mont-Dol",
+   "ll": [
+    48.57008,
+    -1.76838
+   ],
+   "src": [
+    "https://www.saint-malo-tourisme.co.uk/our-8-preserved-treasures/dol-de-bretagne-la-cite-rayonnante/admire-the-panoramic-view-from-mont-dol/",
+    "https://EN.wikipedia.com/wiki/Mont-Dol"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "breizhcafecancale",
+   "cat": "ye",
+   "area": "saintmalo",
+   "title": "Order galettes at Breizh Café in Cancale",
+   "desc": "Bertrand Larcher's original crêperie on the port serves buckwheat galettes and crêpes made with organic Breton buckwheat, Bordier butter and free-range eggs. It carries a Michelin Bib Gourmand.",
+   "tip": "Book ahead, as it is often full. Try a galette with Bordier butter and finish with a salted-butter caramel crêpe.",
+   "q": "Breizh Café, Quai Thomas, Cancale",
+   "ll": [
+    48.6701,
+    -1.8522
+   ],
+   "src": [
+    "https://guide.michelin.com/gb/en/bretagne/cancale/restaurant/breizh-cafe?millesime=um3g85",
+    "https://lefooding.com/en/restaurants/restaurant-breizh-cafe-cancale-cancale-1"
+   ],
+   "tags": []
+  },
+  {
+   "id": "cancaleoysterstalls",
+   "cat": "ye",
+   "area": "saintmalo",
+   "title": "Slurp oysters at the Cancale oyster market",
+   "desc": "Producers sell oysters straight from stalls at the end of the Port de la Houle, and you eat them on the spot facing the oyster beds. Stands such as La Cahute d'Éliane offer tastings of flat and cupped oysters.",
+   "tip": "Buy a dozen with a glass of white wine from the truck by the lighthouse. Open all year, roughly 9:00 to 17:30 or later in summer.",
+   "q": "Marché aux huîtres, Rue des Parcs, Port de la Houle, Cancale",
+   "ll": [
+    48.67077,
+    -1.85131
+   ],
+   "src": [
+    "https://www.tourismebretagne.com/preparer-mon-sejour/bouger-visiter/toutes-les-activites/marche-aux-huitres-cancale-fr-2064040/",
+    "https://rankeat.fr/restaurants/la-cahute-deliane-huitre-cahue-cancale"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "lecoquillageriche",
+   "cat": "ye",
+   "area": "saintmalo",
+   "title": "Dine on seafood at Le Coquillage, Hugo Roellinger",
+   "desc": "Hugo Roellinger's restaurant at Château Richeux overlooks the Bay of Mont-Saint-Michel and serves a seafood-only menu built on local fish and shellfish with spices. It received a third Michelin star in 2025.",
+   "tip": "Open Tuesday to Saturday, reservation required; set menus start around 215 euros.",
+   "q": "Le Coquillage, Château de Richeux, Le Buot, Saint-Méloir-des-Ondes",
+   "ll": [
+    48.64304,
+    -1.87108
+   ],
+   "src": [
+    "https://www.maisons-de-bricourt.com/en/page/le-coquillage",
+    "https://www.saint-malo-tourisme.co.uk/offers/le-coquillage-saint-meloir-des-ondes-en-3645873"
+   ],
+   "tags": []
+  },
+  {
+   "id": "comptoirbreizhsm",
+   "cat": "ye",
+   "area": "saintmalo",
+   "title": "Try a galette roll at Le Comptoir Breizh Café",
+   "desc": "Bertrand Larcher opened this galette and crêpe restaurant inside the walls in 2014. Its signature rolls and seasonal galettes blend Breton and Japanese influences.",
+   "tip": "Go off-peak or book; try one of the rolls or the seasonal galette.",
+   "q": "Le Comptoir Breizh Café, 6 Rue de l'Orme, Saint-Malo",
+   "ll": [
+    48.64809,
+    -2.02549
+   ],
+   "src": [
+    "https://www.tourismebretagne.com/preparer-mon-sejour/ou-manger/restaurants/le-comptoir-breizh-cafe-saint-malo-fr-5898437/",
+    "https://fr.gaultmillau.com/en/restaurants/le-comptoir-breizh-cafe"
+   ],
+   "tags": []
+  },
+  {
+   "id": "epicesroellingercancale",
+   "cat": "ye",
+   "area": "saintmalo",
+   "title": "Browse the Épices Roellinger spice shop in Cancale",
+   "desc": "The first Épices Roellinger shop is in the Maison du Voyageur at 1 rue Duguesclin. Spice blends are created and packaged in the on-site kitchen workshop, with more than 80 blends on the shelves.",
+   "tip": "Open 10:00 to 19:00 Monday to Saturday and 10:00 to 13:00 on Sunday; ask staff for seasoning tips.",
+   "q": "Épices Roellinger, 1 Rue Duguesclin, Cancale",
+   "ll": [
+    48.67745,
+    -1.85139
+   ],
+   "src": [
+    "https://www.epices-roellinger.com/en/page/boutiques",
+    "https://fr.gaultmillau.com/fr/artisans/epices-roellinger-shop-cancale"
+   ],
+   "tags": []
+  },
+  {
+   "id": "maisonbordiersm",
+   "cat": "ye",
+   "area": "saintmalo",
+   "title": "Taste hand-churned butter at La Maison du Beurre Bordier",
+   "desc": "Jean-Yves Bordier's Saint-Malo shop sells butter made by hand with a wooden churn and teak paddles, plus matured cheeses. Flavours include seaweed, buckwheat and smoked salt.",
+   "tip": "Ask for a taste of the semi-salted butter cut from the block. Confirm opening days, as listings differ.",
+   "q": "La Maison du Beurre Bordier, 9 Rue de l'Orme, Saint-Malo",
+   "ll": [
+    48.64817,
+    -2.02523
+   ],
+   "src": [
+    "https://www.saint-malo-tourisme.co.uk/offers/la-maison-du-beurre-bordier-saint-malo-en-3646526",
+    "https://www.dinardemeraudetourisme.com/en/fiche/la-maison-du-beurre-bordier-5V5137TM"
+   ],
+   "tags": []
+  },
+  {
+   "id": "malecotkouign",
+   "cat": "ye",
+   "area": "saintmalo",
+   "title": "Eat a folded kouign-amann at Maison Malécot",
+   "desc": "Maison Malécot is a pastry shop and bakery in Courtoisville, Saint-Malo, noted by Gault&Millau for a kouign-amann that stays true to Breton tradition and is folded rather than rolled.",
+   "tip": "Eat it warm the same day; arrive early for the best choice.",
+   "q": "Maison Malécot, 8 Boulevard Hébert, Saint-Malo",
+   "ll": [
+    48.65722,
+    -1.99609
+   ],
+   "src": [
+    "https://mapstr.com/place/UUJlmmG54E",
+    "https://fr.gaultmillau.com/fr/news/ou-trouver-le-meilleur-kouign-amann-en-bretagne"
+   ],
+   "tags": []
+  },
+  {
+   "id": "larnicolsaintmalo",
+   "cat": "ye",
+   "area": "saintmalo",
+   "title": "Pick up Breton sweets at Maison Georges Larnicol",
+   "desc": "The Saint-Malo shop of Georges Larnicol sells chocolates, kouignettes and caramels inside the walls, at 6 rue Saint-Vincent. The brand is known for its Breton biscuits and salted butter caramel.",
+   "tip": "Buy a bag of kouignettes to eat on the ramparts.",
+   "q": "Maison Georges Larnicol, 6 Rue Saint-Vincent, Saint-Malo",
+   "ll": [
+    48.65021,
+    -2.02395
+   ],
+   "src": [
+    "https://www.saint-malo-tourisme.co.uk/offers/maison-georges-larnicol-saint-malo-en-3645790"
+   ],
+   "tags": []
+  },
+  {
+   "id": "cathedralebakerysm",
+   "cat": "ye",
+   "area": "saintmalo",
+   "title": "Grab pastries at the Boulangerie de la Cathédrale",
+   "desc": "Listed by Gault&Millau, this bakery and pastry shop at 1 rue du Pourpris is a favourite with locals and visitors for its bread, cakes and treats, steps from the cathedral.",
+   "tip": "Good for a picnic breakfast before walking the ramparts.",
+   "q": "Boulangerie de la Cathédrale, 1 Rue du Pourpris, Saint-Malo",
+   "ll": [
+    48.64921,
+    -2.0259
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/artisans/boulangerie-de-la-cathedrale"
+   ],
+   "tags": []
+  },
+  {
+   "id": "vivierlebretagne",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat bouchot mussels at Le Bretagne, Le Vivier",
+   "desc": "This traditional seafood restaurant in Le Vivier-sur-Mer serves AOP mussels from the Bay of Mont-Saint-Michel in marinière, cream, curry and Roquefort sauces with home-made fries. The village is called the French capital of bouchot mussels.",
+   "tip": "Order the moules-frites and expect large portions; terrace in fine weather.",
+   "q": "Restaurant Le Bretagne, 6 Rond-Point du Centre, Le Vivier-sur-Mer",
+   "ll": [
+    48.60318,
+    -1.77535
+   ],
+   "src": [
+    "https://www.saint-malo-tourisme.co.uk/offers/restaurant-le-bretagne-le-vivier-sur-mer-en-4461692",
+    "https://rankeat.fr/restaurants/restaurant-le-bretagne-le-vivier-sur-mer"
+   ],
+   "tags": []
+  },
+  {
+   "id": "viviertonneau",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste oysters and mussels at La Dégustation Tonneau",
+   "desc": "Jean-Luc Tonneau's producer tasting spot in Le Vivier-sur-Mer sells oysters and mussels direct, facing the Bay of Mont-Saint-Michel, and has operated for around 40 years.",
+   "tip": "Ask for mussels and oysters with a glass of white wine. Hours vary with the season.",
+   "q": "La Dégustation Tonneau, Le Vivier-sur-Mer",
+   "ll": [
+    48.60448,
+    -1.7816
+   ],
+   "src": [
+    "https://www.saint-malo-tourisme.co.uk/offers/la-degustation-tonneau-le-vivier-sur-mer-en-3646378/",
+    "https://restoranking.fr/r/la-degustation-tonneau_274028/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ahnadinan",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order a galette at Crêperie Ahna in Dinan",
+   "desc": "Four generations of the same family cook at this crêperie at 7 rue de la Poissonnerie, selected by Gault&Millau. The salted-butter caramel crêpe is a standout.",
+   "tip": "The room is small, so book ahead.",
+   "q": "Crêperie Ahna, 7 Rue de la Poissonnerie, Dinan",
+   "ll": [
+    48.45402,
+    -2.0436
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/en/restaurant/creperie-ahna",
+    "https://mapstr.com/place/nC5j31tz4xg"
+   ],
+   "tags": []
+  },
+  {
+   "id": "picabulotdinard",
+   "cat": "ye",
+   "area": "saintmalo",
+   "title": "Share a seafood platter at Le Pic à Bulot, Dinard",
+   "desc": "This bistro in Dinard is known for plateaux de fruits de mer, oysters, prawns, mussels and octopus in a simple maritime setting.",
+   "tip": "Order the seafood platter; check current hours and book for weekend dinners.",
+   "q": "Le Pic à Bulot, Dinard",
+   "ll": [
+    48.6358,
+    -2.06786
+   ],
+   "src": [
+    "https://mapstr.com/place/oRCy1AZQeJ",
+    "https://www.eat-list.fr/dinard-35800/poissons-et-fruits-de-mer-31/le-pic-a-bulot-202965"
+   ],
+   "tags": []
+  },
+  {
+   "id": "marinierestcast",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat fish and shellfish at La Marinière, Saint-Cast",
+   "desc": "La Marinière is a seafood and fish restaurant near the port of Saint-Cast-le-Guildo selected by Gault&Millau, with a guide budget of about 27 euros per person excluding drinks.",
+   "tip": "Try the day's fish or mussels; check opening days off season.",
+   "q": "La Marinière, Saint-Cast-le-Guildo",
+   "ll": [
+    48.6338,
+    -2.257
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/en/restaurants/la-mariniere",
+    "https://www.enprimeurclub.com/restaurants/la-marinire-saint-cast-le-guildo-restaurant"
+   ],
+   "tags": []
+  },
+  {
+   "id": "sillondigue",
+   "cat": "dene",
+   "area": "saintmalo",
+   "title": "Walk the Sillon seawall at Saint-Malo",
+   "desc": "The Sillon is a 3 km sandy beach beneath a seawall promenade lined with villas, running from the ramparts towards Paramé. Cyclists use the wide digue.",
+   "tip": "Go at high tide for waves against the wall, but beware strong winter tides.",
+   "q": "Digue du Sillon, Saint-Malo",
+   "ll": [
+    48.65436,
+    -2.00887
+   ],
+   "src": [
+    "https://www.tourismebretagne.com/offres/plage-du-sillon-saint-malo-fr-2012803/",
+    "https://www.cirkwi.com/fr/circuit/139854-saint-malo-accessible-digue-de-parame"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rancecruisedinan",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cruise the Rance from Dinan to Saint-Malo",
+   "desc": "The Compagnie Corsaire runs commented cruises between Dinan, Dinard and Saint-Malo, about 2h45 one way. Departures from Dinan depend on the tides.",
+   "tip": "Book via the Compagnie Corsaire site and check the tide timetable; a return coach leaves from place Duclos in Dinan.",
+   "q": "Port de Dinan, Quai de la Rance, Dinan",
+   "ll": [
+    48.45683,
+    -2.03793
+   ],
+   "src": [
+    "https://compagniecorsaire.com/en/destination/dinan-la-rance/",
+    "https://compagniecorsaire.com/en/la-compagnie/nos-bateaux/corsaire-de-dinan/"
+   ],
+   "tags": [],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "ranceplouerkayak",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Paddle a kayak on the Rance from Plouër",
+   "desc": "Chill in Rance rents kayaks and stand-up paddles by the hour, half day or day at the Plouër-sur-Rance slipway on the Rance estuary.",
+   "tip": "Plan around the tide and confirm hours with the operator.",
+   "q": "Chill in Rance, La Cale, Plouër-sur-Rance",
+   "ll": [
+    48.5277,
+    -2.0031
+   ],
+   "src": [
+    "https://dinardemeraudetourisme.com/en/fiche/chill-in-rance-2V52CP1L",
+    "https://emmenetonchien.com/fiches/loisir-chien-acceptes/chill-in-rance/"
+   ],
+   "tags": [],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "maisondelabaie",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Tour the mussel beds with the Maison de la Baie",
+   "desc": "The Maison de la Baie at Le Vivier-sur-Mer offers an exhibition on the bay, guided walks of 8 and 12 km, shore-fishing initiations and a tour of the mussel beds on the mytili-mobile train.",
+   "tip": "Outings depend on the tides, so book first by phone at 02 99 48 84 38.",
+   "q": "Maison de la Baie, Port Le Vivier, Le Vivier-sur-Mer",
+   "ll": [
+    48.60352,
+    -1.76703
+   ],
+   "src": [
+    "https://brittanytourism.com/offers/la-maison-de-la-baie-le-vivier-sur-mer-en-2103481",
+    "https://www.dinardemeraudetourisme.com/en/fiche/la-maison-de-la-baie-5FS000Q3"
+   ],
+   "tags": []
+  },
+  {
+   "id": "dinardecluse",
+   "cat": "dene",
+   "area": "saintmalo",
+   "title": "Swim at Dinard's Plage de l'Écluse",
+   "desc": "The Plage de l'Écluse is Dinard's main beach, a U-shaped bay of fine sand between the Pointe de la Malouine and the Pointe du Moulinet. An outdoor pool fills at high tide so you can swim at low tide.",
+   "tip": "The tidal range is large and currents can be strong at low tide; swim in the supervised zone.",
+   "q": "Plage de l'Écluse, Dinard",
+   "ll": [
+    48.63647,
+    -2.05536
+   ],
+   "src": [
+    "https://www.dinardemeraudetourisme.com/en/fiche/plage-de-lecluse-5FS0006Q/",
+    "https://www.tourismebretagne.com/offres/plage-de-lecluse-dinard-fr-2012824/"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "cancaleoysterparks",
+   "cat": "dene",
+   "area": "saintmalo",
+   "title": "Walk among the Cancale oyster parks at low tide",
+   "desc": "Ostreika, run by a former oyster worker, leads guided low-tide walks through the oyster beds from the cale next to the oyster market, ending with a tasting.",
+   "tip": "Times follow the tide, so book on ostreika.com. Wear boots.",
+   "q": "Ostreika, Marché aux huîtres, 1 rue des Parcs, Port de la Houle, Cancale",
+   "ll": [
+    48.67082,
+    -1.85152
+   ],
+   "src": [
+    "https://saint-malo-tourisme.co.uk/offers/ostreika-cancale-en-4056444"
+   ],
+   "tags": []
+  },
+  {
+   "id": "saintsuliacloop",
+   "cat": "dene",
+   "area": "saintmalo",
+   "title": "Hike the Saint-Suliac peninsula loop",
+   "desc": "Saint-Suliac is a Plus Beau Village de France on the Rance estuary. A 10 km country loop of about 2h30 passes the tide mill, former salt marshes and a viewpoint.",
+   "tip": "Start at the village; allow time for the harbour and quay.",
+   "q": "Église Saint-Suliac, Saint-Suliac",
+   "ll": [
+    48.5698,
+    -1.97332
+   ],
+   "src": [
+    "https://www.tourismebretagne.com/preparer-mon-sejour/bouger-visiter/balades-et-randos/la-presquile-de-saint-suliac-saint-suliac-fr-2149681/",
+    "https://www.sentiers-en-france.eu/sentiers-ille-et-vilaine-35/saint-malo/sentier-balade-sur-la-presqu-ile-de-saint-suliac-saint-suliac"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "porthuesaintbriac",
+   "cat": "dene",
+   "area": "saintmalo",
+   "title": "Hike the GR34 from Port Hue beach, Saint-Briac",
+   "desc": "The Port Hue beach is a Blue Flag beach of fine sand linked to the GR34 customs path. The coast walk climbs steps up to the Pointe de la Garde-Guérin and on to the Pointe de la Haye.",
+   "tip": "Take the shore at low tide or the inland road at high tide; parts of the path are rough.",
+   "q": "Plage de Port Hue, Rue du Port Hue, Saint-Briac-sur-Mer",
+   "ll": [
+    48.63257,
+    -2.13974
+   ],
+   "src": [
+    "https://www.tourismebretagne.com/preparer-mon-sejour/bouger-visiter/toutes-les-activites/plage-de-port-hue-saint-briac-sur-mer-fr-2012854/",
+    "https://www.visorando.com/randonnee-le-littoral-a-saint-briac/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stcastgrandeplage",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Spend a beach day on Saint-Cast's Grande Plage",
+   "desc": "The Grande Plage is the best-known beach of Saint-Cast-le-Guildo and the most sheltered, popular with families, beside one of northern Brittany's large marinas.",
+   "tip": "Tide-dependent; the neighbouring Pen Guen beach is wider and better for watersports.",
+   "q": "Grande Plage, Boulevard de la Mer, Saint-Cast-le-Guildo",
+   "ll": [
+    48.62523,
+    -2.24669
+   ],
+   "src": [
+    "https://www.plages.tv/detail/grande-plage-saint-cast-le-guildo-22380",
+    "https://www.plages.tv/station-balneaire/saint-cast-le-guildo-22380"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "dinardmarket",
+   "cat": "dene",
+   "area": "saintmalo",
+   "title": "Browse the Dinard market at the Halle",
+   "desc": "The market is held at the Halle esplanade in Dinard on Tuesday, Thursday and Saturday mornings, selling local produce.",
+   "tip": "Go on Tuesday or Thursday mornings (8:00 to 13:00); Saturday is smaller, so check first.",
+   "q": "Marché de Dinard, Esplanade de la Halle, Dinard",
+   "ll": [
+    48.63169,
+    -2.05828
+   ],
+   "src": [
+    "https://www.dinardemeraudetourisme.com/en/to-see-and-do/markets/dinard-markets/",
+    "https://www.dinardemeraudetourisme.com/en/experiences/in-family/visit-dinard-market/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "saintservanmarket",
+   "cat": "dene",
+   "area": "saintmalo",
+   "title": "Shop at the Saint-Servan market",
+   "desc": "The Saint-Servan market sets up at Place Bouvet next to the halls on Tuesday and Friday mornings, with local producers and craftspeople.",
+   "tip": "Open 8:00 to 13:00 on Tuesdays and Fridays.",
+   "q": "Place Bouvet, Saint-Servan, Saint-Malo",
+   "ll": [
+    48.63757,
+    -2.01636
+   ],
+   "src": [
+    "https://www.tourismebretagne.com/preparer-mon-sejour/agenda/marche-de-saint-servan-saint-malo-fr-2056154/",
+    "https://www.hotel-bb.com/en/guide/market-saint-malo"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "dinardcrossing",
+   "cat": "dene",
+   "area": "saintmalo",
+   "title": "Ride the bus de mer between Saint-Malo and Dinard",
+   "desc": "The Compagnie Corsaire has run crossings between Dinard and Saint-Malo since 1904, leaving Dinard from the Promenade du Clair de Lune.",
+   "tip": "Check the current timetable and tides on the Compagnie Corsaire website.",
+   "q": "Cale de Dinan, Saint-Malo",
+   "ll": [
+    48.64562,
+    -2.02725
+   ],
+   "src": [
+    "https://compagniecorsaire.com/en/destination/dinan-la-rance/",
+    "https://generationvoyage.fr/attraction/croisiere-bateau-saint-malo/"
+   ],
+   "tags": []
+  }
+ ]
+}

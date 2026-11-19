@@ -1,0 +1,677 @@
+{
+ "new": [
+  {
+   "id": "arlesamphitheatre",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the Roman Amphitheatre of Arles",
+   "desc": "Built around 90 AD, the Arènes d'Arles seated about 20,000 spectators and became a fortified quarter in the Middle Ages. It still hosts bullfights and the Féria in spring.",
+   "tip": "Combined tickets cover several Arles monuments. Go at opening to avoid crowds and climb the towers for roof views.",
+   "q": "Arènes d'Arles, Rond-Point des Arènes, Arles",
+   "ll": [
+    43.67794,
+    4.63099
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Arles_Amphitheatre",
+    "https://provence-alpes-cotedazur.com/que-faire/culture-et-patrimoine/monuments/arenes-arles/"
+   ]
+  },
+  {
+   "id": "arlesantiquetheatre",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Sit in the Roman Theatre of Arles",
+   "desc": "The Théâtre antique dates from the late 1st century BC and once held about 10,000 spectators. Only two columns of the stage wall still stand, and it hosts summer festivals.",
+   "tip": "Visit in the evening light; the ticket is shared with the amphitheatre.",
+   "q": "Théâtre antique d'Arles, Rue de la Calade, Arles",
+   "ll": [
+    43.67705,
+    4.62944
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Roman_Theatre,_Arles",
+    "https://provence-alpes-cotedazur.com/que-faire/culture-et-patrimoine/lieux/le-theatre-antique-arles-fr-2870130/"
+   ]
+  },
+  {
+   "id": "arlesalyscamps",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the Alyscamps necropolis, painted by Van Gogh",
+   "desc": "The Alyscamps was a Roman and early Christian cemetery lined with sarcophagi along a poplar avenue. Van Gogh and Gauguin painted it in 1888, and it is a UNESCO World Heritage site.",
+   "tip": "Best in the morning or at dusk when it is quiet and shaded.",
+   "q": "Alyscamps, Avenue des Alyscamps, Arles",
+   "ll": [
+    43.67339,
+    4.63253
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Les_Alyscamps",
+    "https://www.myprovence.fr/les-guides/culture/site-monument/arles/les-alyscamps"
+   ]
+  },
+  {
+   "id": "arlesluma",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the Gehry tower at Luma Arles",
+   "desc": "Luma Arles is a cultural campus in the former railway workshops of the Parc des Ateliers, crowned by Frank Gehry's twisted steel tower opened in 2021. It houses exhibitions, archives and a park designed by Bas Smets.",
+   "tip": "The park is free to enter; exhibitions need a ticket.",
+   "q": "Luma Arles, Parc des Ateliers, 35 Avenue Victor Hugo, Arles",
+   "ll": [
+    43.67312,
+    4.63731
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Luma_Arles",
+    "https://provence-alpes-cotedazur.com/que-faire/culture-et-patrimoine/lieux/luma-arles-le-parc-paysager-arles-fr-5597081/"
+   ]
+  },
+  {
+   "id": "montmajourabbey",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the fortified Abbaye de Montmajour",
+   "desc": "A Benedictine abbey founded in the 10th century on a rocky hill north of Arles, with a Romanesque church, cloister and 14th-century keep. It stood in marshland and is a stop on Van Gogh's landscapes.",
+   "tip": "Climb the 26 m keep for 360-degree views of the Alpilles. Closed Mondays from October to March; bring water in summer.",
+   "q": "Abbaye de Montmajour, Route de Fontvieille, Arles",
+   "ll": [
+    43.70594,
+    4.66426
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Montmajour_Abbey",
+    "https://provence-alpes-cotedazur.com/que-faire/culture-et-patrimoine/monuments/abbaye-montmajour/"
+   ]
+  },
+  {
+   "id": "bauxchateau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander the ruined castle of Les Baux-de-Provence",
+   "desc": "The medieval fortress of the lords of Baux stands on a limestone spur above the village, with a rebuilt trebuchet and ruined chapels. The village is among the most visited in Provence.",
+   "tip": "Arrive early or late in the day; trebuchet firing demonstrations run daily from April to September.",
+   "q": "Château des Baux, Rue du Trencat, Les Baux-de-Provence",
+   "ll": [
+    43.74267,
+    4.79454
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Les_Baux-de-Provence",
+    "https://chateau-baux-provence.com/en/prepare-your-visit/opening-times-and-access"
+   ]
+  },
+  {
+   "id": "carrieresdelumieres",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Step into the Carrières de Lumières projection show",
+   "desc": "Giant images are projected onto the walls of a former limestone quarry in the Val d'Enfer, with new shows each year (Picasso and Frida Kahlo in 2026). The cave stays cool at around 15 degrees.",
+   "tip": "Bring a jacket even in summer. Book timed tickets online in high season.",
+   "q": "Carrières de Lumières, Route de Maillane, Les Baux-de-Provence",
+   "ll": [
+    43.74836,
+    4.79642
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Carri%C3%A8res_de_Lumi%C3%A8res",
+    "https://provence-alpes-cotedazur.com/que-faire/detente-et-loisirs/toutes-les-activites-detente-et-loisirs/carrieres-des-lumieres-les-baux-de-provence-fr-3978563/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "glanumsaintremy",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the Gallo-Roman town of Glanum",
+   "desc": "Glanum is an excavated Gaulish and Roman town at the foot of the Alpilles, with a triumphal arch and the Mausoleum of the Julii from about 30 BC. The site spans Hellenistic houses, baths and a sacred spring.",
+   "tip": "The arch and mausoleum across the road are free to see. Allow about 90 minutes inside the site.",
+   "q": "Site archéologique de Glanum, Route des Baux, Saint-Rémy-de-Provence",
+   "ll": [
+    43.77436,
+    4.83203
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Glanum",
+    "https://provence-alpes-cotedazur.com/que-faire/culture-et-patrimoine/monuments/glanum/"
+   ]
+  },
+  {
+   "id": "saintpauldemausole",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Van Gogh's asylum at Saint-Paul-de-Mausole",
+   "desc": "Vincent van Gogh stayed here in 1889-1890 and painted about 150 works including The Starry Night. The 12th-century cloister and a reconstruction of his room can be visited, and it still functions as a clinic.",
+   "tip": "Follow the path with reproductions of his paintings in the grounds.",
+   "q": "Monastère Saint-Paul de Mausole, Avenue Vincent van Gogh, Saint-Rémy-de-Provence",
+   "ll": [
+    43.77757,
+    4.83466
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Saint-Paul-de-Mausole",
+    "https://www.provenceguide.com/equipements/avignon/itineraire-touristique-van-gogh-en-provence/provence-4615607-1.html"
+   ]
+  },
+  {
+   "id": "tarasconchateau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour King René's castle in Tarascon",
+   "desc": "A 15th-century fortress on the Rhône, built by Louis II of Anjou and finished by King René, facing Beaucaire across the river. It is linked to the legend of the Tarasque monster.",
+   "tip": "Walk the terraces for views of the Rhône and Beaucaire castle; check hours, which differ by season.",
+   "q": "Château de Tarascon, Boulevard du Roi René, Tarascon",
+   "ll": [
+    43.80587,
+    4.65506
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Tarascon",
+    "https://provence-alpes-cotedazur.com/que-faire/culture-et-patrimoine/monuments/chateau-de-tarascon/"
+   ]
+  },
+  {
+   "id": "moulindaudet",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Alphonse Daudet's windmill in Fontvieille",
+   "desc": "The Moulin de Daudet is a 19th-century windmill that inspired the writer's Letters from My Windmill, though he never lived in it. It houses a small museum about the author.",
+   "tip": "Open from April to autumn; combine it with the Sentier des moulins.",
+   "q": "Moulin de Daudet, Route de Saint-Pierre, Fontvieille",
+   "ll": [
+    43.72098,
+    4.71282
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/que-faire/culture-et-patrimoine/monuments/moulin-daudet/",
+    "https://en.wikipedia.org/wiki/Fontvieille,_Bouches-du-Rh%C3%B4ne"
+   ]
+  },
+  {
+   "id": "saintesmariesehurch",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the fortified church of Saintes-Maries-de-la-Mer",
+   "desc": "The Romanesque church was fortified in the 9th–12th centuries and holds relics linked to the Saints Marie and the crypt of Sara the Black, patron of Roma pilgrims. The roof terrace, reached by about 53 steps, overlooks the town and the Camargue.",
+   "tip": "The roof climb is a few euros and gives a view over the flat Camargue.",
+   "q": "Église Notre-Dame-de-la-Mer, Place de l'Église, Saintes-Maries-de-la-Mer",
+   "ll": [
+    43.45223,
+    4.42879
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Saintes-Maries-de-la-Mer",
+    "https://provence-alpes-cotedazur.com/que-faire/culture-et-patrimoine/lieux/eglise-des-saintes-maries-de-la-mer-saintes-maries-de-la-mer-fr-3049541/"
+   ]
+  },
+  {
+   "id": "laciotateden",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Eden Théâtre, the oldest cinema in the world",
+   "desc": "The Eden Théâtre in La Ciotat, built in 1889, is recognised by Guinness World Records as the oldest purpose-built cinema still in operation. Lumière films were shown there from 1899, and it reopened in 2013 after restoration.",
+   "tip": "Check the programme for a screening; the building is small so book ahead.",
+   "q": "Eden Théâtre, 25 Boulevard Georges Clemenceau, La Ciotat",
+   "ll": [
+    43.17739,
+    5.61049
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Eden_Th%C3%A9%C3%A2tre",
+    "https://provence-alpes-cotedazur.com/que-faire/culture-et-patrimoine/lieux/eden-theatre-la-ciotat-fr-2851961/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "capcanaillecrest",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Drive the Route des Crêtes to Cap Canaille",
+   "desc": "Cap Canaille is a sea cliff of about 394 m between Cassis and La Ciotat, the highest maritime cliff in France. The Route des Crêtes follows its top with views over the Bay of Cassis.",
+   "tip": "The road closes on red fire-risk days (1 June to 30 September) and in strong mistral; on Sundays in season it is pedestrian-only.",
+   "q": "Cap Canaille, Route des Crêtes, Cassis",
+   "ll": [
+    43.19711,
+    5.55268
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Cap_Canaille",
+    "https://calanques-parcnational.fr/en/cape-canaille"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "chassagnettearles",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste the organic garden menu at La Chassagnette",
+   "desc": "La Chassagnette, in a renovated Camargue sheepfold near Le Sambuc, holds one Michelin star and the Green Star under chef Armand Arnal. The set menus follow the produce of its organic kitchen garden.",
+   "tip": "Book well ahead; lunch on weekends is the easiest slot.",
+   "q": "La Chassagnette, Mas de la Chassagnette, Route du Sambuc, Arles",
+   "ll": [
+    43.56728,
+    4.6679
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/en/plan-your-stay/restaurants/all-restaurants/chassagnette-arles-en-2870883"
+   ]
+  },
+  {
+   "id": "gibolinarles",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Lunch on market cooking at Le Gibolin",
+   "desc": "Le Gibolin is a small bistro at 13 rue des Porcelets listed with a Michelin Bib Gourmand in 2024 and 2025. It serves market-driven cooking with natural and biodynamic wines.",
+   "tip": "Book ahead; opening days vary, so check the days it is open.",
+   "q": "Le Gibolin, 13 Rue des Porcelets, Arles",
+   "ll": [
+    43.67695,
+    4.62416
+   ],
+   "src": [
+    "https://guide.michelin.com/en/provence-alpes-cote-dazur/arles/restaurant/le-gibolin",
+    "https://provence-alpes-cotedazur.com/en/plan-your-stay/restaurants/all-restaurants/le-gibolin-arles-en-3489013/"
+   ]
+  },
+  {
+   "id": "endroitmartigues",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try poutargue pasta at Brasserie L'Endroit, Martigues",
+   "desc": "Martigues is famed for poutargue, salted pressed grey mullet roe. This brasserie on the island of Jonquières serves it on pasta alongside bourride, aioli and pieds paquets.",
+   "tip": "The restaurant is on the island quarter, a short walk from the Miroir aux Oiseaux. Check opening days, which change by season.",
+   "q": "Brasserie L'Endroit, 9 Rue de la République, Martigues",
+   "ll": [
+    43.40525,
+    5.05408
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/en/plan-your-stay/restaurants/all-restaurants/brasserie-lendroit-martigues-en-2975948"
+   ]
+  },
+  {
+   "id": "chezgilbertcassis",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order bouillabaisse at Chez Gilbert, Cassis",
+   "desc": "Chez Gilbert, on the quay of Cassis harbour since 1930, belongs to the Charte de la Bouillabaisse Marseillaise. The fish soup is served in two courses with rouille and croutons.",
+   "tip": "Order bouillabaisse in advance, it needs a day's notice.",
+   "q": "Chez Gilbert, 19 Quai des Baux, Cassis",
+   "ll": [
+    43.21512,
+    5.53882
+   ],
+   "src": [
+    "https://www.ot-cassis.com/en/touristic_sheet/chez-gilbert-cassis-en-5377854/",
+    "https://provence-alpes-cotedazur.com/en/offers/chez-gilbert-cassis-en-2859610/"
+   ]
+  },
+  {
+   "id": "bergeriemejanes",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat the Sunday gardianne de taureau at Méjanes",
+   "desc": "La Bergerie de Méjanes at the Domaine de Méjanes in the Camargue serves a Sunday gardian menu with gardianne de taureau and Camargue rice, with live music at Sunday lunch. The estate also stages bull-related events.",
+   "tip": "The Sunday menu (about 25 to 28 euros) includes an aperitif and dessert; book in advance.",
+   "q": "La Bergerie de Méjanes, Domaine de Méjanes, Route de Saintes-Maries, Arles",
+   "ll": [
+    43.57019,
+    4.5056
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/en/plan-your-stay/restaurants/all-restaurants/la-bergerie-de-mejanes-arles-en-2861367",
+    "https://www.myprovence.fr/agenda/spectacle/arles/le-dejeuner-festif-du-dimanche"
+   ]
+  },
+  {
+   "id": "afleurdesel",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try gardianne de taureau at A Fleur de Sel",
+   "desc": "A Fleur de Sel (Chez Alexandra) is a traditional restaurant in Saintes-Maries-de-la-Mer serving Camargue dishes such as gardianne de taureau.",
+   "tip": "Open for lunch and dinner in season; book in July and August.",
+   "q": "A Fleur de Sel Chez Alexandra, 43 Rue Frédéric Mistral, Saintes-Maries-de-la-Mer",
+   "ll": [
+    43.45249,
+    4.42716
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/en/plan-your-stay/restaurants/all-restaurants/a-fleur-de-sel-chez-alexandra-maitre-restaurateur-saintes-maries-de-la-mer-en-2873192",
+    "https://saintesmaries.com/en/directory/a-fleur-de-sel-chez-alexandra-maitre-restaurateur"
+   ]
+  },
+  {
+   "id": "moulincornille",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste AOP Vallée des Baux olive oil at Moulin Cornille",
+   "desc": "This cooperative mill in Maussane-les-Alpilles, in a vaulted 17th century building and a cooperative since 1924, produces AOP Vallée des Baux-de-Provence olive oil. It has a shop, a self-guided olive-loft exhibit and tastings.",
+   "tip": "Try the green fruity oil and the tapenade, then see the mill.",
+   "q": "Moulin Jean-Marie Cornille, 22 Rue Charloun Rieu, Maussane-les-Alpilles",
+   "ll": [
+    43.72389,
+    4.80032
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/que-faire/vin-et-gastronomie/toutes-les-activites-vin-et-gastronomie/moulin-cornille-cooperative-oleicole-de-la-vallee-des-baux-de-provence-maussane-les-alpilles-fr-2861502/",
+    "https://fr.gaultmillau.com/fr/artisans/moulin-cornille-cooperative-oleicole-de-la-vallee-des-baux"
+   ]
+  },
+  {
+   "id": "moulincastelas",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Sample olive oil at Moulin Castelas",
+   "desc": "An olive mill at the foot of Les Baux that offers a free mill visit and olive oil tasting, with a walk among the olive groves. It produces AOP Vallée des Baux oil.",
+   "tip": "The mill visit and tasting are free; groups should ask in advance.",
+   "q": "Moulin Castelas, 2455 Route des Oliviers, Les Baux-de-Provence",
+   "ll": [
+    43.73641,
+    4.81917
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/que-faire/vin-et-gastronomie/toutes-les-activites-vin-et-gastronomie/moulin-castelas-les-baux-de-provence-fr-2877733/",
+    "https://www.lesbauxdeprovence.com/en/activites/gastronomie-et-terroir/domain-castelas-olive-oil-mill/"
+   ]
+  },
+  {
+   "id": "moulincalanquet",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Buy olive oil at Moulin du Calanquet, Saint-Rémy",
+   "desc": "A five-generation family olive oil mill near Saint-Rémy-de-Provence, with a free visit and tasting and a shop in the town centre (Épicerie du Calanquet, rue de la Commune).",
+   "tip": "Visit the mill outside the centre for tastings; check opening hours.",
+   "q": "Moulin du Calanquet, 3206 Vieux Chemin d'Arles, Saint-Rémy-de-Provence",
+   "ll": [
+    43.78496,
+    4.78033
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/que-faire/vin-et-gastronomie/toutes-les-activites-vin-et-gastronomie/moulin-du-calanquet-saint-remy-de-provence-fr-2871391/",
+    "https://www.myprovence.fr/les-guides/loisirs/artisans-et-producteurs/saint-remy-de-provence/moulin-du-calanquet"
+   ]
+  },
+  {
+   "id": "lemiroirmartigues",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at the water's edge at Le Miroir, Martigues",
+   "desc": "Le Miroir is a bar-restaurant on Quai Brescon facing the Miroir aux Oiseaux basin, with a terrace over the boats. Poutargue is listed among its emblematic dishes.",
+   "tip": "Closed Monday and Tuesday year-round and Sunday in July and August; book online or by phone.",
+   "q": "Le Miroir, Quai Brescon, Martigues",
+   "ll": [
+    43.4056,
+    5.0544
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/en/offers/le-miroir-martigues-en-2872130/",
+    "https://www.raisin.digital/en/le-miroir-21901/food"
+   ]
+  },
+  {
+   "id": "leninocassis",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have fish on the port at Le Bistrot de Nino, Cassis",
+   "desc": "Le Bistrot de Nino is a quayside bistro on the port of Cassis, known for its harbour terrace, bouillabaisse and Mediterranean fish.",
+   "tip": "Lunch on the terrace; book on summer weekends and check opening dates.",
+   "q": "Le Bistrot de Nino, 1 Quai Jean-Jacques Barthélémy, Cassis",
+   "ll": [
+    43.2148,
+    5.53643
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/en/plan-your-stay/restaurants/all-restaurants/le-bistrot-de-nino-cassis-en-2876981",
+    "https://fr.gaultmillau.com/fr/restaurants/restaurant-nino"
+   ]
+  },
+  {
+   "id": "portmiouhike",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike from Port-Miou to Port-Pin and En-Vau",
+   "desc": "A walk of about 6 km from Cassis through the Parc national des Calanques, passing Port-Miou and Port-Pin to the cliff-lined En-Vau calanque. The path is rocky and steep in places.",
+   "tip": "Start at the Port-Miou car park; summer access is restricted on fire-risk days, so check the Mes Calanques app, and note the final descent to En-Vau may be restricted.",
+   "q": "Calanque de Port-Miou, Avenue Notre-Dame, Cassis",
+   "ll": [
+    43.20504,
+    5.51468
+   ],
+   "src": [
+    "https://calanques-parcnational.fr/la-calanque-den-vau-par-port-pin",
+    "https://www.visorando.com/en/walk-les-calanques-de-port-miou-port-pin-en-v/"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    3,
+    4,
+    5,
+    6,
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "id": "ileverteboat",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Take the boat to Île Verte from La Ciotat",
+   "desc": "Île Verte is a small wooded island facing La Ciotat, the only wooded island of the Bouches-du-Rhône. The crossing takes about 15 minutes and boats leave from the old port.",
+   "tip": "The shuttle (the Aquilade) leaves the Port Vieux between April and October; tickets are sold aboard.",
+   "q": "Port Vieux de La Ciotat, Quai du Général de Gaulle, La Ciotat",
+   "ll": [
+    43.1743,
+    5.6073
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/sejourner/informations-pratiques/tous-les-services-pratiques/navette-de-lile-verte-la-ciotat-fr-3027020/",
+    "https://calanques-parcnational.fr/fr/ile-verte-la-ciotat"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "figuerollesswim",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk to the Calanque de Figuerolles and swim",
+   "desc": "Figuerolles is a pebble cove within a 30-minute walk of the centre of La Ciotat, in the Parc national des Calanques. The water is clear but it gets overcrowded in summer.",
+   "tip": "Bring water shoes for the pebbles; come early or late in the day.",
+   "q": "Calanque de Figuerolles, La Ciotat",
+   "ll": [
+    43.16693,
+    5.59735
+   ],
+   "src": [
+    "https://calanques-parcnational.fr/fr/calanque-de-figuerolles-la-ciotat",
+    "https://provence-alpes-cotedazur.com/que-faire/detente-et-loisirs/toutes-les-activites-detente-et-loisirs/plage-de-la-calanque-de-figuerolles-la-ciotat-fr-3310471/"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "salinwalk",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the salt flats at Salin-de-Giraud",
+   "desc": "Salin-de-Giraud is a village in the southern Camargue next to some of Europe's largest salt works. The Point de vue du sel is a raised viewpoint on the Route d'Arles, about 2 km from the village, overlooking salt tables and salt heaps.",
+   "tip": "Reachable on foot or by bike along the D36d cycle path; salt-works visits run April to October.",
+   "q": "Point de vue du sel, Route d'Arles, Salin-de-Giraud, Arles",
+   "ll": [
+    43.40123,
+    4.75201
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/decouvrir/espaces-naturels/patrimoine-naturel/salin-de-giraud-arles-fr-3261105/",
+    "https://www.parc-camargue.fr/Local/parc-camargue/files/2452/N9_circuit_flamants_roses_sel.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "saintremymarket",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Browse the Wednesday market in Saint-Rémy",
+   "desc": "Saint-Rémy-de-Provence holds its big Provençal market every Wednesday morning (8:00 to 13:00) around the Place de la République and the old centre, with herbs, spices, olives, oils and produce. A smaller producers' market runs on Saturday morning.",
+   "tip": "Come early on Wednesday before the crowds; the market can be moved during bullfighting festivals.",
+   "q": "Place de la République, Saint-Rémy-de-Provence",
+   "ll": [
+    43.78798,
+    4.82989
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/que-faire/sortir/toutes-les-sorties/grand-marche-provencal-hebdomadaire-saint-remy-de-provence-fr-2867828/",
+    "https://www.myprovence.fr/agenda/marche/saint-remy-de-provence/grand-marche-provencal-hebdomadaire"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "arlessaturdaymarket",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Shop the Saturday market on Boulevard des Lices",
+   "desc": "Arles holds its biggest market on Saturday morning along Boulevard des Lices and the neighbouring boulevards, with food, flowers and crafts. A second market runs on Wednesday on Boulevard Émile Combes.",
+   "tip": "Come early, it ends around 12:45.",
+   "q": "Boulevard des Lices, Arles",
+   "ll": [
+    43.6742,
+    4.6306
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/que-faire/sortir/toutes-les-sorties/marche-du-samedi-matin-arles-fr-2879089/",
+    "https://provence-alpes-cotedazur.com/decouvrir/villes/bouches-du-rhone/arles/marches/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "pontdegauparc",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch flamingos at the Parc ornithologique de Pont de Gau",
+   "desc": "A bird reserve of about 60 hectares on the Camargue lagoons, a few kilometres from Saintes-Maries-de-la-Mer, with more than 7 km of marked trails and observation hides where flamingos nest.",
+   "tip": "Open daily; spring and autumn are best for migratory birds.",
+   "q": "Parc ornithologique de Pont de Gau, Route d'Arles, Saintes-Maries-de-la-Mer",
+   "ll": [
+    43.49088,
+    4.40716
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/que-faire/culture-et-patrimoine/lieux/parc-ornithologique-de-pont-de-gau-saintes-maries-de-la-mer-fr-2887482/",
+    "https://www.lonelyplanet.fr/destinations/france/camargue/que-faire/parc-ornithologique-du-pont-de-gau"
+   ]
+  },
+  {
+   "id": "mariusfabresoap",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Visit the Marius Fabre soap works and museum in Salon",
+   "desc": "Marius Fabre has made traditional Marseille soap in Salon-de-Provence since 1900. The factory offers a free guided visit of about 30 minutes and a small soap museum, plus a shop.",
+   "tip": "Booking is advised on the factory site; opening days vary, with Thursday morning closed per one listing.",
+   "q": "Savonnerie Marius Fabre, 148 Avenue Paul Bourret, Salon-de-Provence",
+   "ll": [
+    43.63771,
+    5.09031
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/que-faire/culture-et-patrimoine/lieux/musee-du-savon-de-marseille-marius-fabre-salon-de-provence-fr-2866571/",
+    "https://www.myprovence.fr/agenda/visites-guidees/salon-de-provence/visite-de-la-savonnerie-marius-fabre"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "miroiroiseaux",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Stroll to the Miroir aux Oiseaux in Martigues",
+   "desc": "The Miroir aux Oiseaux is a waterfront basin on the Canal Saint-Sébastien, painted by Corot, Ziem and others. The ensemble with Quai Brescon has been protected since 1942.",
+   "tip": "Go in the evening when the colourful boats are reflected on the water.",
+   "q": "Miroir aux Oiseaux, Quai Brescon, Martigues",
+   "ll": [
+    43.4059,
+    5.0548
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/en/things-to-do/culture-and-heritage/places/miroir-aux-oiseaux-martigues-en-2859614/",
+    "https://www.myprovence.fr/les-guides/culture/site-monument/martigues/miroir-aux-oiseaux"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "cotebleuesausset",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the coastal path from Sausset-les-Pins to Carry-le-Rouet",
+   "desc": "The Côte Bleue is a rocky stretch between Marseille and Martigues with small coves and a marine park. A family-friendly coastal path, part of the GR 223 and the Grand Sentier de la Côte Bleue, links Sausset-les-Pins to Carry-le-Rouet in about 7 km.",
+   "tip": "Bring water and swimwear; the path has little shade.",
+   "q": "Sentier du littoral, Sausset-les-Pins",
+   "ll": [
+    43.33395,
+    5.08873
+   ],
+   "src": [
+    "https://www.decathlon-outdoor.com/fr-fr/explore/france/sausset-les-pins-et-le-sentier-des-anses-bleues-60ec18fd311ec",
+    "https://provence-alpes-cotedazur.com/que-faire/itineraires-randonnee/le-grand-sentier-de-la-cote-bleue-martigues-fr-4347008/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "pelerinagegitans",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "See the Roma pilgrimage at Saintes-Maries",
+   "desc": "Every 24 and 25 May, Roma pilgrims gather in Saintes-Maries-de-la-Mer to carry the statue of Sara la Noire to the sea on the 24th, followed on the 25th by the boat of the Saintes escorted by Camargue gardians.",
+   "tip": "Arrive the day before; the town is very crowded.",
+   "q": "Église Notre-Dame-de-la-Mer, Saintes-Maries-de-la-Mer",
+   "ll": [
+    43.45223,
+    4.42879
+   ],
+   "src": [
+    "https://www.myprovence.fr/agenda/fete-traditionnelle/saintes-maries-de-la-mer/pelerinage-des-saintes-maries-et-des-gitans",
+    "https://en.wikipedia.org/wiki/Saintes-Maries-de-la-Mer"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    5
+   ]
+  }
+ ]
+}

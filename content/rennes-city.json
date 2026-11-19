@@ -1,0 +1,880 @@
+{
+ "new": [
+  {
+   "id": "rennesparlement",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Parlement de Bretagne on its royal square",
+   "desc": "The Palais du Parlement de Bretagne was the seat of Brittany's parliament and now houses the Rennes court of appeal. The surrounding place du Parlement was rebuilt in classical style after the fire of December 1720 that ravaged the old town.",
+   "tip": "Interior visits are guided only and booked through the Rennes tourist office; the square can be seen freely. Métro République is the closest station.",
+   "q": "Palais du Parlement de Bretagne, Place du Parlement de Bretagne, Rennes",
+   "ll": [
+    48.11282,
+    -1.67752
+   ],
+   "src": [
+    "https://www.lonelyplanet.fr/poi/parlement-de-bretagne",
+    "https://fr.vikidia.org/wiki/Palais_du_parlement_de_Bretagne"
+   ]
+  },
+  {
+   "id": "rennescathedrale",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step into the painted nave of Rennes Cathedral",
+   "desc": "The neoclassical Cathédrale Saint-Pierre was inaugurated at Easter 1844 and keeps a richly painted and gilded 19th-century interior. It has been a historic monument since 1906 and is the seat of the archdiocese of Rennes, Dol and Saint-Malo.",
+   "tip": "Free to enter outside services. The Portes Mordelaises are a two-minute walk away.",
+   "q": "Cathédrale Saint-Pierre, Rue de la Psalette, Rennes",
+   "ll": [
+    48.11159,
+    -1.68338
+   ],
+   "src": [
+    "https://www.Wikipedia.com/wiki/Rennes_Cathedral",
+    "https://www.lonelyplanet.fr/poi/cathedrale-saint-pierre-de-rennes"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rennessaintsauveur",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Basilique Saint-Sauveur, Our Lady of Miracles",
+   "desc": "The Basilica of Saint-Sauveur, also called Notre-Dame des Miracles et des Vertus, is a Catholic church in central Rennes raised to minor basilica by Benedict XV in 1916. It has been a historic monument since 1942.",
+   "tip": "Free entry, usually open mornings and afternoons; check hours with the parish.",
+   "q": "Basilique Saint-Sauveur, Place Saint-Sauveur, Rennes",
+   "ll": [
+    48.1118,
+    -1.6818
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Basilica_of_Saint-Sauveur_(Rennes)",
+    "https://www.guide-tourisme-france.com/VISITER/basilique-saint-sauveur--rennes-29593.htm"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rennesbeauxarts",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Browse the Musée des Beaux-Arts de Rennes",
+   "desc": "The museum was formed from art seized during the Revolution and holds the cabinet of curiosities of Christophe-Paul de Robien. Collections run from ancient Egypt to modern art, with notable Flemish and Dutch 17th-century paintings.",
+   "tip": "Allow two hours; it stands on quai Émile Zola near the Vilaine. Check mbar.org for hours and free days.",
+   "q": "Musée des Beaux-Arts, 20 Quai Émile Zola, Rennes",
+   "ll": [
+    48.10962,
+    -1.67494
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Museum_of_Fine_Arts_of_Rennes",
+    "https://www.codart.nl/?p=18685"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "renneschampslibres",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore the Musée de Bretagne at Les Champs Libres",
+   "desc": "Les Champs Libres, designed by Christian de Portzamparc, houses the Musée de Bretagne, the Espace des sciences with a planetarium, and the Rennes Métropole library. The museum is devoted to Breton society and how it has changed.",
+   "tip": "Beside the railway station at 10 cours des Alliés. A good rainy-day pairing with a planetarium show.",
+   "q": "Les Champs Libres, 10 Cours des Alliés, Rennes",
+   "ll": [
+    48.10497,
+    -1.67476
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/points-of-interest/les-champs-libres/1054342",
+    "https://www.guide-tourisme-france.com/VISITER/les-champs-libres--rennes-35078.htm"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rennesmordelaises",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk through the medieval Portes Mordelaises",
+   "desc": "The Portes Mordelaises are the best-known surviving gate of Rennes' medieval ramparts, with twin towers. Dukes of Brittany passed through for their coronations and bishops for solemn entries. They were listed in 1926 and became city property in 1970.",
+   "tip": "Near the cathedral on rue des Portes Mordelaises; the city announced the restoration of the gate and ramparts as finished.",
+   "q": "Portes Mordelaises, Rue des Portes Mordelaises, Rennes",
+   "ll": [
+    48.11232,
+    -1.68466
+   ],
+   "src": [
+    "https://www.routard.com/fr/guide/france/bretagne/rennes/portes-mordelaises",
+    "https://monumentum.fr/monument-historique/pa00090753/rennes-porte-mordelaise"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rennesthabor",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Wander the Parc du Thabor, roses and French gardens",
+   "desc": "The Thabor is a public garden of over ten hectares combining a French formal garden, an English landscape park and a botanical garden. It occupies the former orchard of the Saint-Melaine abbey and was laid out by Denis and Eugène Bühler.",
+   "tip": "Free and open daily. The rose garden is at its best in June; métro Sainte-Anne is nearby.",
+   "q": "Parc du Thabor, Place Saint-Melaine, Rennes",
+   "ll": [
+    48.11417,
+    -1.66972
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Parc_du_Thabor",
+    "https://en.wikipedia.org/wiki/Jardin_botanique_du_Thabor"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rennesfachwerk",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Look up at the timber-framed houses of Champ-Jacquet",
+   "desc": "Place du Champ-Jacquet is lined with tall 17th-century timber-framed houses with leaning facades, around a statue of Jean Leperdit. Rennes still counts about 370 houses and buildings with pans de bois.",
+   "tip": "The square was redeveloped from January 2024; rue du Chapitre nearby has more examples.",
+   "q": "Place du Champ-Jacquet, Rennes",
+   "ll": [
+    48.11292,
+    -1.68
+   ],
+   "src": [
+    "https://unidivers.fr/rennes-place-champ-jacquet/",
+    "https://www.routard.com/guide_a_voir/rennes.htm"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rennesopera",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the Opéra de Rennes on place de la Mairie",
+   "desc": "The neoclassical theatre opened in 1836 facing the town hall and forms the curved east side of the square. Its facade and roofs have been listed since 1961.",
+   "tip": "Opéra sur Écran(s) screens productions free outdoors on the square; check the programme.",
+   "q": "Opéra de Rennes, Place de la Mairie, Rennes",
+   "ll": [
+    48.11162,
+    -1.6787
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Op%C3%A9ra_de_Rennes",
+    "https://monumentum.fr/monument-historique/pa00090754/rennes-theatre-et-immeubles-dits-galeries-du-theatre"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "renneshoteldeville",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Hôtel de Ville designed by the Gabriels",
+   "desc": "The town hall at 1 place de la Mairie was built from 1734 to 1743 after the 1720 fire, to plans by the Gabriel family of royal architects. It has been classified as a monument historique since 1962.",
+   "tip": "The clock tower and facade photograph best from the square in late afternoon.",
+   "q": "Hôtel de Ville de Rennes, 1 Place de la Mairie, Rennes",
+   "ll": [
+    48.11126,
+    -1.67912
+   ],
+   "src": [
+    "https://www.lonelyplanet.fr/poi/hotel-de-ville-et-opera",
+    "https://www.routard.com/fr/guide/france/bretagne/rennes/hotel-de-ville"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rennespiscinestgeorges",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Gaze at the Art Deco Piscine Saint-Georges",
+   "desc": "Built between 1923 and 1926 to plans by the municipal architect Emmanuel Le Ray, this municipal pool is decorated with mosaics by Isidore Odorico and is ranked among the most beautiful pools in the world.",
+   "tip": "At 2 rue Gambetta; a long restoration closure is planned around 2028 to 2030, so check before going.",
+   "q": "Piscine Saint-Georges, 2 Rue Gambetta, Rennes",
+   "ll": [
+    48.11195,
+    -1.67265
+   ],
+   "src": [
+    "https://www.pariszigzag.fr/rennes-actu/piscine-saint-georges/",
+    "https://www.rennesimmo9.com/actualites/urbanisme-architecture/piscine-saint-georges-rennes-renovation"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rennesbintinais",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Tour the Écomusée du pays de Rennes at La Bintinais",
+   "desc": "The écomusée occupies the farm-manor of La Bintinais on the southern edge of Rennes, which supplied the city with food for centuries. Opened as a museum in 1987, it shows five centuries of rural life with heritage livestock and a beehive.",
+   "tip": "Route de Châtillon-sur-Seiche; bus line 61, stop Hill Bintinais. Check ecomusee-rennes-metropole.fr for hours.",
+   "q": "Écomusée du pays de Rennes, Ferme de la Bintinais, Route de Châtillon-sur-Seiche, Rennes",
+   "ll": [
+    48.07893,
+    -1.66747
+   ],
+   "src": [
+    "https://www.guide-tourisme-france.com/VISITER/ecomusee-bintinnais--rennes-15502.htm",
+    "https://www.lonelyplanet.fr/poi/bretagne-ileetvilainebretagneexp-ecomusee-du-pays-de-rennes"
+   ]
+  },
+  {
+   "id": "renneshallesmartenot",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Look inside the iron-and-glass Halles Martenot",
+   "desc": "The two covered halls on place des Lices were built around 1870 by architect Jean-Baptiste Martenot, drawing on Victor Baltard's Paris market halls, in granite, brick, iron and glass.",
+   "tip": "Best seen on market Saturday; they also host events and festival shows.",
+   "q": "Halles Martenot, Place des Lices, Rennes",
+   "ll": [
+    48.11243,
+    -1.68415
+   ],
+   "src": [
+    "https://monumentum.fr/monument-historique/PA00090684/rennes-halles-martenot/edit-localisation",
+    "https://en.wikipedia.org/wiki/Jean-Baptiste_Martenot"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rennessaintmelaine",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit Notre-Dame-en-Saint-Melaine and its old abbey",
+   "desc": "The church was the conventual church of the Benedictine Saint-Melaine abbey, founded around 550 over the tomb of Bishop Melaine. It served as Rennes' pro-cathedral from 1803 to 1844 and has been listed since 1959.",
+   "tip": "Next to the Thabor gardens, so easy to pair with a park walk.",
+   "q": "Église Notre-Dame-en-Saint-Melaine, Place Saint-Melaine, Rennes",
+   "ll": [
+    48.11467,
+    -1.67317
+   ],
+   "src": [
+    "https://monumentum.fr/monument-historique/PA00090672/rennes-ancienne-abbaye-saint-melaine/edit-localisation",
+    "https://www.Wikipedia.com/wiki/Rennes_Cathedral"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rennesjacobins",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Discover the Couvent des Jacobins convention centre",
+   "desc": "This 14th-century Dominican convent was converted into Rennes' convention centre, inaugurated in January 2018. Anne de Bretagne and Charles VIII were betrothed here in 1491.",
+   "tip": "Access depends on events; ask the tourist office about heritage visits.",
+   "q": "Couvent des Jacobins, Centre des congrès, Rue d'Échange, Rennes",
+   "ll": [
+    48.11516,
+    -1.68159
+   ],
+   "src": [
+    "https://www.linfodurable.fr/rennes-inaugure-son-centre-des-congres-en-centre-ville-dans-un-ancien-couvent-1305",
+    "https://www.tourmag.com/Le-nouveau-Centre-de-congres-de-Rennes-ouvre-ses-portes_a90914.html"
+   ]
+  },
+  {
+   "id": "rennesfrac",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the FRAC Bretagne by Odile Decq",
+   "desc": "The Fonds régional d'art contemporain de Bretagne is housed in a striking building by Odile Decq in the Beauregard district. It shows the regional contemporary art collection and has a documentation centre.",
+   "tip": "At 19 avenue André Mussat; check fracbretagne.fr for exhibition times.",
+   "q": "FRAC Bretagne, 19 Avenue André Mussat, Rennes",
+   "ll": [
+    48.13083,
+    -1.69598
+   ],
+   "src": [
+    "https://www.fracbretagne.fr/en/lebatiment-2/",
+    "https://www.odiledecq.com/projets/frac-bretagne/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rennespalaiscommerce",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Palais du Commerce on place de la République",
+   "desc": "Built from 1885 to 1929 by municipal architects Jean-Baptiste Martenot and then Emmanuel Le Ray, the Palais housed the stock exchange, post office and telegraph office. The Dutch firm MVRDV won the competition to renovate and extend it.",
+   "tip": "Check on site which parts have reopened after the renovation.",
+   "q": "Palais du Commerce, Place de la République, Rennes",
+   "ll": [
+    48.1093,
+    -1.6788
+   ],
+   "src": [
+    "https://structurae.net/fr/ouvrages/palais-du-commerce",
+    "https://mvrdv.com/projects/387/rennes-palais-du-commerce"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rennespalaissaintgeorges",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stroll past the Palais Saint-Georges abbey",
+   "desc": "The Palais Saint-Georges is the former Benedictine abbey of Saint-Georges, founded in 1032 by Duke Alain III and first led by his sister Adèle, Brittany's oldest women's abbey. The present buildings date from the 1670s and have been listed since 1930.",
+   "tip": "The facade and garden can be seen from public space; the building houses municipal services.",
+   "q": "Palais Saint-Georges, Rue Gambetta, Rennes",
+   "ll": [
+    48.1116,
+    -1.67215
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Saint_George_Palace",
+    "https://monumentum.fr/monument-historique/pa00090671/rennes-ancienne-abbaye-saint-georges-des-benedictins-ou-palais-saint-georges"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rennessaintgeorgesgalette",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat a refined galette at La Saint-Georges",
+   "desc": "La Saint-Georges, at 11 rue du Chapitre, is a well-reviewed crêperie listed by Gault&Millau, known for high-end buckwheat galettes in the old town.",
+   "tip": "Booking is advised; expect about 15 to 25 euros for a galette.",
+   "q": "La Saint-Georges, 11 Rue du Chapitre, Rennes",
+   "ll": [
+    48.11105,
+    -1.68242
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/restaurants/la-saint-georges-chapitre",
+    "https://mapstr.com/place/qeltljr3qWg"
+   ]
+  },
+  {
+   "id": "rennesbreizhcafe",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try a Breizh Café galette near place des Lices",
+   "desc": "Breizh Café Rennes, at 1 place de la Trinité, serves buckwheat galettes and wheat crêpes made with organic Breton flour and eggs, with a Japanese-influenced menu by Raphaël Fumio Kudaka. Michelin lists it with a Bib Gourmand.",
+   "tip": "Order Breton cider with the galette; weekend service starts at 11:00.",
+   "q": "Breizh Café, 1 Place de la Trinité, Rennes",
+   "ll": [
+    48.1112,
+    -1.6833
+   ],
+   "src": [
+    "https://en.breizhcafe.com/rennes",
+    "https://guide.michelin.com/en/bretagne/rennes/restaurant/breizh-cafe-rennes"
+   ]
+  },
+  {
+   "id": "rennesgavotte",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste the andouille galette at La Gavotte",
+   "desc": "La Gavotte, at 41 rue Saint-Georges, is a crêperie known for a galette with andouille, apple and camembert.",
+   "tip": "Pair with Breton cider; the street is in the lively Saint-Georges area.",
+   "q": "Crêperie La Gavotte, 41 Rue Saint-Georges, Rennes",
+   "ll": [
+    48.11194,
+    -1.67542
+   ],
+   "src": [
+    "https://tablejourney.com/france/rennes/casual-dining/la-gavotte/",
+    "https://mapstr.com/place/3Mmv7yQM8Wg"
+   ]
+  },
+  {
+   "id": "rennesrozell",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order a classic galette complète at La Rozell",
+   "desc": "Crêperie La Rozell serves the classic galette complète and vegetarian options at modest prices, and has one of the largest shaded terraces in the historic centre.",
+   "tip": "Sit on the terrace in good weather and order Breton cider.",
+   "q": "Crêperie La Rozell, Rennes centre",
+   "ll": [
+    48.11371,
+    -1.68076
+   ],
+   "src": [
+    "https://tablejourney.com/france/rennes/casual-dining/la-rozell/",
+    "https://mapstr.com/place/vlYAw6oJWVg"
+   ]
+  },
+  {
+   "id": "rennesouzhtaol",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Book a table at Ouzh-Taol for buckwheat galettes",
+   "desc": "Crêperie Ouzh-Taol, at 27 rue Saint-Melaine near the Thabor, was founded in 2010 and is known for quality buckwheat galettes at fair prices. The room is small.",
+   "tip": "Reserve ahead; open Monday to Saturday for lunch and dinner.",
+   "q": "Crêperie Ouzh-Taol, 27 Rue Saint-Melaine, Rennes",
+   "ll": [
+    48.1149,
+    -1.67632
+   ],
+   "src": [
+    "https://tablejourney.com/france/rennes/casual-dining/ouzh-taol/",
+    "https://mapstr.com/place/mtvWtx1h0Rg"
+   ]
+  },
+  {
+   "id": "renneslicesgalettesaucisse",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Grab a galette-saucisse at the Marché des Lices",
+   "desc": "The galette-saucisse, a grilled sausage wrapped in a buckwheat galette, is the city's iconic street food, eaten at the Saturday market. The crêperie Au Marché des Lices on the square serves a version called La Robiquette with emmental, onions and mustard.",
+   "tip": "Go on a Saturday morning; the Rennes convention is no mustard, but nobody will stop you.",
+   "q": "Au Marché des Lices, Place des Lices, Rennes",
+   "ll": [
+    48.113,
+    -1.68328
+   ],
+   "src": [
+    "https://generationvoyage.fr/galette-saucisse-rennes/",
+    "https://mapstr.com/place/xCgo5itG9Vg"
+   ]
+  },
+  {
+   "id": "rennes16h30",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Buy a kouign-amann at Pâtisserie 16h30",
+   "desc": "Pâtisserie 16h30, on rue Hoche, is cited by Gault&Millau for its kouign-amann and won its Grand Ouest pastry trophy in 2020.",
+   "tip": "Eat the kouign-amann warm; go early before they sell out.",
+   "q": "Pâtisserie 16h30, 3 rue Hoche, Rennes",
+   "ll": [
+    48.11328,
+    -1.67741
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/artisans/patisserie-16h30",
+    "https://tablejourney.com/france/rennes/bakeries/patisserie-16h30/"
+   ]
+  },
+  {
+   "id": "rennesteteenfarinee",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Bite into the kouign-amann of La Tête Enfarinée",
+   "desc": "La Tête Enfarinée, on rue de Coëtquen, is a bakery that Gault&Millau lists among its kouign-amann addresses for a generous, well-caramelised pastry.",
+   "tip": "Combine with a walk to the nearby cathedral quarter.",
+   "q": "La Tête Enfarinée, Rue de Coëtquen, Rennes",
+   "ll": [
+    48.11104,
+    -1.67835
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/news/ou-trouver-le-meilleur-kouign-amann-en-bretagne",
+    "https://tablejourney.com/france/rennes/bakeries/la-tete-enfarinee/"
+   ]
+  },
+  {
+   "id": "rennesorigines",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sip a craft beer brewed in the old Hôtel-Dieu operating room",
+   "desc": "Origines is a bistro-microbrewery in the former Hôtel-Dieu whose Origin'Ale beers are brewed in the old operating block, with tasting on site.",
+   "tip": "Ask for a flight of the house beers.",
+   "q": "Origines Bistro-microbrasserie, 2 rue de l'Hôtel-Dieu, Rennes",
+   "ll": [
+    48.11803,
+    -1.67947
+   ],
+   "src": [
+    "https://mapstr.com/place/WvTraHR6M9",
+    "https://www.tourismebretagne.com/preparer-mon-sejour/ou-manger/restaurants/origines-bistro-bar-microbrasserie-rennes-fr-4710412/"
+   ]
+  },
+  {
+   "id": "cessonskumenn",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste craft beer at Brasserie Skumenn in Cesson-Sévigné",
+   "desc": "Brasserie Skumenn in Cesson-Sévigné has a taproom with about twelve draught beers and runs Saturday visits followed by tastings.",
+   "tip": "Check the brewery's schedule for the Saturday tours.",
+   "q": "Brasserie Skumenn, Cesson-Sévigné",
+   "ll": [
+    48.10546,
+    -1.62341
+   ],
+   "src": [
+    "https://unidivers.fr/brasserie-skumenn-cesson-sevigne-biere-rennes/",
+    "https://tablejourney.com/france/rennes/breweries/brasserie-skumenn/"
+   ]
+  },
+  {
+   "id": "rennesmonsieurarthur",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink Breton cider at Monsieur Arthur near EuroRennes",
+   "desc": "Monsieur Arthur, at 24 rue Raoul Dautry, opened on 1 February 2024 as a Breton brasserie, crêperie and cider bar with around fifteen ciders on the list.",
+   "tip": "Opened Monday to Saturday in an early article; confirm hours.",
+   "q": "Monsieur Arthur, 24 Rue Raoul Dautry, Rennes",
+   "ll": [
+    48.10338,
+    -1.67526
+   ],
+   "src": [
+    "https://www.unidivers.fr/rennes-monsieur-arthur-bar-restaurant/",
+    "https://www.connexionfrance.com/news/new-hybrid-restaurant-bar-project-opens-in-rennes/478808"
+   ]
+  },
+  {
+   "id": "bettonlasource",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try the prize-winning kouign-amann at La Source in Betton",
+   "desc": "La Source, a bakery in the Le Trégor shopping centre in Betton, won the best kouign-amann of Brittany award in 2025 at the competition held in Ploufragan on 20 March 2025; the baker is Frédéric Le Cam.",
+   "tip": "Betton is just north of Rennes by the canal; go early for the pastry.",
+   "q": "Boulangerie La Source, Centre commercial Le Trégor, Betton",
+   "ll": [
+    48.18364,
+    -1.64521
+   ],
+   "src": [
+    "https://unidivers.fr/meilleur-kouign-amann-bretagne/",
+    "https://www.sncf-connect.com/article/ou-manger-les-meilleurs-kouign-amanns-de-bretagne-107292"
+   ]
+  },
+  {
+   "id": "rennesbeltane",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink mead at the Brasserie Beltane microbrewery",
+   "desc": "Beltane, at 13 avenue du 41e Régiment d'Infanterie, opened on 20 October 2022 and brews craft beer and mead, including a hydromel with buckwheat honey, sometimes served from an oak cask.",
+   "tip": "Opening days vary; check its social pages first.",
+   "q": "Brasserie Beltane, 13 Avenue du 41e Régiment d'Infanterie, Rennes",
+   "ll": [
+    48.1181,
+    -1.6871
+   ],
+   "src": [
+    "https://unidivers.fr/microbrasserie-beltane-rennes/",
+    "https://www.schlouk-map.com/fr/places/brasserie-beltane"
+   ]
+  },
+  {
+   "id": "rennesrezin",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste natural wine at Rezin near the Thabor",
+   "desc": "Rezin, at 115 rue de Paris, is a cave and tasting bar with about 250 living wines, plus Breton craft beer and artisan cider.",
+   "tip": "Open afternoons and evenings; confirm hours before going.",
+   "q": "Rezin, 115 Rue de Paris, Rennes",
+   "ll": [
+    48.11433,
+    -1.65875
+   ],
+   "src": [
+    "https://www.raisin.digital/en/explore/france/bretagne/venues/rezin-16648/",
+    "https://tablejourney.com/france/rennes/wine-bars/"
+   ]
+  },
+  {
+   "id": "rennesmartenot",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Browse the Marché des Lices in the Halles Martenot",
+   "desc": "The Halles Martenot are two iron-and-brick covered market halls built by Jean-Baptiste Martenot between 1868 and 1870 at Place des Lices. They have been a listed monument since 1990 and host the Saturday-morning Marché des Lices.",
+   "tip": "Go on a Saturday morning, when the market is in full swing, and buy cheese, pastries and charcuterie for a picnic in the nearby Thabor park.",
+   "q": "Halles Martenot, Place des Lices, Rennes",
+   "ll": [
+    48.1125,
+    -1.68389
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Halles_Martenot"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rennescanalvelo",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cycle the Canal d'Ille-et-Rance towpath from Rennes",
+   "desc": "The Voie verte follows the former towpath of the canal north from Rennes toward Saint-Malo. The stretch to Montreuil-sur-Ille is about 32 km, roughly two hours by bike.",
+   "tip": "Start from rue Armand Rébillon in Rennes; trains with bikes serve Montreuil-sur-Ille for the return.",
+   "q": "Canal d'Ille-et-Rance, Rue Armand Rébillon, Rennes",
+   "ll": [
+    48.1135,
+    -1.68774
+   ],
+   "src": [
+    "https://www.af3v.org/-Fiche-VVV-.html?voie=443",
+    "https://www.francevelotourisme.com/itineraire/saint-malo-a-arzal-voie-2-bretagne/montreuil-sur-ille-rennes"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rennesapigne",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Swim and walk around the Étangs d'Apigné",
+   "desc": "The étangs d'Apigné are a former sand quarry turned leisure base with 30 hectares of freshwater west of Rennes, offering swimming, sailing lessons and loop trails.",
+   "tip": "Free parking; seasonal Api'bus; swim in summer.",
+   "q": "Étangs d'Apigné, Route de Sainte-Foix, Le Rheu",
+   "ll": [
+    48.09201,
+    -1.73776
+   ],
+   "src": [
+    "https://ryo.co/fr/articles/france/rennes/ou-se-baigner-pres-rennes/",
+    "https://www.utagawavtt.com/randonnee-vtt-gps/Autour-des-etangs-d-Apigne-37729"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "rennesgayeulles",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the woods and ponds of the Parc des Gayeulles",
+   "desc": "The Gayeulles is Rennes' largest green space, over 100 hectares of woods, ponds and marsh with a pool, ice rink and campsite. It is open at all hours.",
+   "tip": "Walking loops start from the pool car park on avenue des Gayeulles.",
+   "q": "Parc des Gayeulles, Avenue des Gayeulles, Rennes",
+   "ll": [
+    48.12915,
+    -1.652
+   ],
+   "src": [
+    "https://unidivers.fr/rennes-promenade-parc-des-gayeulles/",
+    "https://www.cityzeum.com/base-de-loisirs-des-gayeulles"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rennestransmusicales",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Go to the Trans Musicales festival in December",
+   "desc": "The Rencontres Trans Musicales are a winter music festival held mainly at the Parc Expo near the airport, with shuttles from the centre. The 2026 edition is listed for 2 to 6 December.",
+   "tip": "Buy tickets early; shuttle buses link the Parc Expo with the city centre.",
+   "q": "Parc Expo, Saint-Jacques-de-la-Lande",
+   "ll": [
+    48.05982,
+    -1.73449
+   ],
+   "src": [
+    "https://www.festivalenfrance.com/festival/rencontres-trans-musicales-de-rennes",
+    "https://www.lonelyplanet.com/news/france-rencontres-trans-musicales-guide"
+   ],
+   "months": [
+    12
+   ]
+  },
+  {
+   "id": "rennestombees",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Catch street arts at Les Tombées de la Nuit",
+   "desc": "Les Tombées de la Nuit, created in 1980, is a street-arts festival with about a hundred performances by some forty companies, mostly free, in squares and parks of Rennes around early July.",
+   "tip": "Dates shift each year; check the festival's official site.",
+   "q": "Place de la Mairie, Rennes",
+   "ll": [
+    48.1114,
+    -1.6789
+   ],
+   "src": [
+    "https://www.festivalenfrance.com/festival/les-tombees-de-la-nuit",
+    "https://unidivers.fr/rennes-festival-tombees-de-la-nuit-2026/"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7
+   ]
+  },
+  {
+   "id": "rennesroazhon",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Watch Stade Rennais at Roazhon Park",
+   "desc": "Roazhon Park, on route de Lorient, is the roughly 29,800-seat home of Stade Rennais, with a guided behind-the-scenes visit listed at about 15 euros including the Galerie des Légendes.",
+   "tip": "Book through billetterie-rennes.com; meeting point is Gate 9 by the club shop. Confirm the tour is still offered.",
+   "q": "Roazhon Park, Route de Lorient, Rennes",
+   "ll": [
+    48.1076,
+    -1.7127
+   ],
+   "src": [
+    "https://www.lonelyplanet.fr/poi/bretagne-ileetvilainebretagneexp-stade-rennais",
+    "https://unidivers.fr/visite-roazhon-park-galerie-des-legendes/"
+   ]
+  },
+  {
+   "id": "rennesmarchelices",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Saturday Marché des Lices",
+   "desc": "The Saturday market on place des Lices, around the Halles Martenot, is one of the largest in France with about 300 vendors, running roughly 7:30 to 13:30.",
+   "tip": "Saturday mornings; go early and try a galette-saucisse.",
+   "q": "Place des Lices, Rennes",
+   "ll": [
+    48.113,
+    -1.68291
+   ],
+   "src": [
+    "https://www.routard.com/fr/guide/france/bretagne/rennes/marche-des-lices",
+    "https://tablejourney.com/france/rennes/markets/marche-des-lices/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rennessoeuvres",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Hike the Bois de Soeuvres from Chantepie",
+   "desc": "The Bois de Soeuvres is a 170-hectare wooded area with wetlands south of Rennes, in Chantepie and Vern-sur-Seiche. An 11.5 km circuit starts from the Albert Chenard stadium car park in Chantepie and takes about three hours.",
+   "tip": "Wear waterproof shoes after rain.",
+   "q": "Stade Albert Chenard, Chantepie",
+   "ll": [
+    48.09338,
+    -1.62143
+   ],
+   "src": [
+    "https://randogps.net/randonnee-pedestre-gps-ille-et-vilaine-35.php?num=613",
+    "https://www.visugpx.com/uhlqw2QciB"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rennesmythos",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Join the Mythos festival in the Thabor",
+   "desc": "Mythos, created in 1996, is a spring festival of spoken arts (tales, theatre, songs) in about twenty venues across Rennes Métropole, with the Thabor at its heart. The 2026 edition ran 3 to 12 April with over 100,000 festival-goers.",
+   "tip": "Held in early April; check festival-mythos.com for the programme.",
+   "q": "Parc du Thabor, Rennes",
+   "ll": [
+    48.11417,
+    -1.66972
+   ],
+   "src": [
+    "https://www.tourismebretagne.com/selon-mes-envies/culture-et-patrimoine-de-bretagne/les-grands-evenements/mythos/",
+    "https://www.festivalenfrance.com/festival/festival-mythos"
+   ],
+   "months": [
+    3,
+    4
+   ]
+  },
+  {
+   "id": "rennesvilainevoieverte",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Ride the Voie verte along the Vilaine from Rennes",
+   "desc": "The V42 Voie verte of the Vilaine leaves Rennes along the river toward Guipry-Messac, part of the Saint-Malo to Arzal cycle route.",
+   "tip": "Flat riding; take the metro or bus to the start.",
+   "q": "Voie verte de la Vilaine, Rennes",
+   "ll": [
+    48.0959,
+    -1.6878
+   ],
+   "src": [
+    "https://af3v.org/les-voies-vertes/voies/440-v42-voie-verte-de-la-vilaine-de-rennes-a-guipry-messac",
+    "https://www.af3v.org/-Fiche-VVV-.html?voie=440"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rennesmarchesaintgermain",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Shop the Wednesday market on place Saint-Germain",
+   "desc": "The Saint-Germain food market sets up on Wednesday mornings by the church square in central Rennes, a compact market near the Vilaine.",
+   "tip": "Wednesday mornings only.",
+   "q": "Place Saint-Germain, Rennes",
+   "ll": [
+    48.11064,
+    -1.67628
+   ],
+   "src": [
+    "https://tablejourney.com/france/rennes/markets/marche-saint-germain/",
+    "https://unidivers.fr/rennes-marche-saint-germain/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "cessonbourgchevreuil",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Stroll the rose garden of Bourgchevreuil in Cesson-Sévigné",
+   "desc": "The park of the Manoir de Bourgchevreuil has a French-style garden and a large rose garden in the middle of Cesson-Sévigné.",
+   "tip": "Free; parking near the church.",
+   "q": "Parc du Manoir de Bourgchevreuil, Cesson-Sévigné",
+   "ll": [
+    48.119,
+    -1.6036
+   ],
+   "src": [
+    "https://blog.komoot.de/guide/1484551/attractions-around-cesson-sevigne",
+    "https://openagenda.com/eu/rdvj-2018-bretagne/events/visite-et-decouverte-du-jardin-du-manoir-de-bourgchevreuil"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rennesodorico",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Follow the Odorico mosaic trail",
+   "desc": "The tourist office runs guided tours on Isidore Odorico's mosaics in Rennes, taking in the Piscine Saint-Georges, the Poirier building and the former Valton shop, with access to interiors normally closed.",
+   "tip": "Tours start at the tourist office; book through Destination Rennes.",
+   "q": "Office de Tourisme de Rennes, 11 Rue Saint-Yves, Rennes",
+   "ll": [
+    48.11529,
+    -1.68105
+   ],
+   "src": [
+    "https://reservation.tourisme-rennes.com/medias/documents/documentation/documentation-21ODORICO-FR.pdf",
+    "https://www.pariszigzag.fr/rennes-actu/meilleurs-spots-mosaiques-odorico-rennes/"
+   ]
+  }
+ ]
+}

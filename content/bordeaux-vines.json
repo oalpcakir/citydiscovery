@@ -1,0 +1,898 @@
+{
+ "new": [
+  {
+   "id": "fortmedoccussac",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the ramparts of Vauban's Fort Médoc",
+   "desc": "Fort Médoc was ordered by Louis XIV in 1689 and built by Vauban to close the Gironde estuary together with the Blaye citadel and Fort Pâté. It never saw combat, and the chapel, powder magazine and bakery survive. It is part of the UNESCO-listed Vauban network.",
+   "tip": "Open daily with guided or self-guided visits, with shorter hours in spring and autumn and closure in December and January. Guided tours start at the Porte Royale guard house.",
+   "q": "Fort Médoc, 32 avenue du Fort-Médoc, Cussac-Fort-Médoc",
+   "ll": [
+    45.1114,
+    -0.7022
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Fort_Médoc"
+   ],
+   "tags": []
+  },
+  {
+   "id": "blayecitadelle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore Vauban's Blaye citadel above the estuary",
+   "desc": "The Citadelle de Blaye, built by Vauban from the 1680s, is a walled town of 38 hectares overlooking the Gironde and inscribed with the Verrou de l'estuaire on the UNESCO list in 2008. Inside are a village, gardens, a hotel and underground galleries.",
+   "tip": "Walking the ramparts is free and open at all times; only the underground passages carry a fee. Allow one to two hours and bring good shoes.",
+   "q": "Citadelle de Blaye, Place d'Armes, Blaye",
+   "ll": [
+    45.1277,
+    -0.66691
+   ],
+   "src": [
+    "https://www.gironde-tourisme.fr/en/cultural-heritage/vauban-de-lestaire-lock-inscribed-on-the-world-heritage-list-by-unesco/",
+    "https://www.nouvelle-aquitaine-tourisme.com/en/sit/poi/3003805/citadelle-de-blaye-patrimoine-mondial-de-l-unesco/94587"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stemilionmonolithe",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Descend into Saint-Émilion's monolithic church",
+   "desc": "Carved out of limestone from the 9th century onward, the underground church is 38 m long and 11 m high, claimed as the largest of its kind in Europe. Its bell tower, built between the 12th and 15th centuries, rises above Place du Marché.",
+   "tip": "Visits are guided only and book out in high season; buy tickets at the tourist office. Photography is not allowed inside.",
+   "q": "Église monolithe, Place du Marché, Saint-Émilion",
+   "ll": [
+    44.89326,
+    -0.15631
+   ],
+   "src": [
+    "https://www.guide-bordeaux-gironde.com/en/tourism/discover/tourist-sites/caves/saint-emilion-391/eglise-monolithe-de-saint-emilion-4766.html",
+    "https://monumentum.fr/monument-historique/pa00083731/saint-emilion-eglise-souterraine-monolithe-ancienne-eglise-paroissiale-saint-emilion/edit-visite"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "tourduroysaintemilion",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the Tour du Roy over Saint-Émilion",
+   "desc": "The Tour du Roy, or Château du Roi, is a 13th-century Romanesque keep about 32 m high and the only intact one in the region. It stands above the roofs of the medieval town.",
+   "tip": "The interior is sometimes closed, so check at the tourist office; the view over the tiled roofs is best at the end of the day.",
+   "q": "Tour du Roy, Rue de la Porte Bouqueyre, Saint-Émilion",
+   "ll": [
+    44.8925,
+    -0.1558
+   ],
+   "src": [
+    "https://www.guide-tourisme-france.com/VISITER/tour-chateau-roy--saint-emilion-4813.htm"
+   ],
+   "tags": []
+  },
+  {
+   "id": "lasauvemajeure",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Admire Romanesque capitals at La Sauve-Majeure",
+   "desc": "The Benedictine abbey of La Sauve-Majeure was founded in 1079 and is on the UNESCO list of Saint-James pilgrimage routes. It is known for its carved Romanesque capitals, and its bell tower looks over the Entre-Deux-Mers.",
+   "tip": "Free visit with a booklet takes about an hour; guided tours need booking. A combined ticket with the Château de Cadillac is available.",
+   "q": "Abbaye de La Sauve-Majeure, 14 rue de l'Abbaye, La Sauve",
+   "ll": [
+    44.76837,
+    -0.31192
+   ],
+   "src": [
+    "https://www.culture.gouv.fr/espace-documentation/Repertoire-des-ressources-documentaires/Monuments-nationaux/Abbaye-de-La-Sauve-Majeure",
+    "https://www.francevelotourisme.com/loisirs/musees-et-sites-touristiques/abbaye-de-la-sauve-majeure"
+   ],
+   "tags": []
+  },
+  {
+   "id": "cadillacchateau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the ducal Château de Cadillac",
+   "desc": "Built from the early 17th century for the Dukes of Épernon, the château has monumental fireplaces, tapestries and painted ceilings. It served as a women's prison in the 19th century and is now a Centre des monuments nationaux site.",
+   "tip": "Visit takes about 75 minutes; closed Mondays. A combined ticket with La Sauve-Majeure abbey saves a few euros.",
+   "q": "Château ducal de Cadillac, 4 place de la Libération, Cadillac",
+   "ll": [
+    44.638,
+    -0.3204
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Château_de_Cadillac"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "roquetaillade",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Discover the twin castles of Roquetaillade",
+   "desc": "Roquetaillade near Mazères is a 14th-century fortress with an older keep, restored in the 19th century by Viollet-le-Duc's pupil Edouard Bœuswillwald. The interior is shown on guided visits, often led by the owning family.",
+   "tip": "Guided visits last an hour and are in French; in July-August they run continuously, otherwise at fixed afternoon times. Confirm times on roquetaillade.eu.",
+   "q": "Château de Roquetaillade, Mazères",
+   "ll": [
+    44.4925,
+    -0.26972
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Château_de_Roquetaillade"
+   ],
+   "tags": []
+  },
+  {
+   "id": "bazascathedral",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Step into Bazas Cathedral on its hilltop square",
+   "desc": "The Cathédrale Saint-Jean-Baptiste of Bazas has Gothic work from the 13th century, a listed monument since 1840 and a UNESCO Saint-James pilgrimage site since 1998. It faces the arcaded Place de la Cathédrale.",
+   "tip": "Generally open 9:00-18:00 outside services. Eat at the restaurants on the square afterwards.",
+   "q": "Cathédrale Saint-Jean-Baptiste, Place de la Cathédrale, Bazas",
+   "ll": [
+    44.43145,
+    -0.20976
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Bazas_Cathedral",
+    "https://www.guide-tourisme-france.com/VISITER/cathedrale-saint-jean-baptiste--bazas-4556.htm"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "villandrautchateau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the papal castle of Villandraut",
+   "desc": "Villandraut was built from 1305 for Bertrand de Goth, who became Pope Clement V, and is one of the best examples of a Gascon moated fortress. The guided tour reaches the upper floors including the pope's room.",
+   "tip": "Open Tuesday-Sunday in season with torch-lit evening tours in summer; off-season dates vary, so check chateaudevillandraut.fr.",
+   "q": "Château de Villandraut, Villandraut",
+   "ll": [
+    44.45972,
+    -0.37278
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Château_de_Villandraut"
+   ],
+   "tags": []
+  },
+  {
+   "id": "saintmacairecite",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander the walls of medieval Saint-Macaire",
+   "desc": "Saint-Macaire is a Petite Cité de Caractère with a 14th-century belfry, the oldest preserved in the Gironde, half-timbered houses and the Église Saint-Sauveur with medieval wall paintings.",
+   "tip": "Walking the lanes and ramparts is free; guided tours leave from the tourist office.",
+   "q": "Beffroi, Place du Mercadiou, Saint-Macaire",
+   "ll": [
+    44.5652,
+    -0.2259
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Saint-Macaire_(Gironde)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "lareoleprieure",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Benedictine priory town hall of La Réole",
+   "desc": "La Réole grew around a Benedictine priory founded in 977; the present buildings were rebuilt by the Saint-Maur congregation in the late 17th century and now house the town hall. The town is a Ville d'Art et d'Histoire above the Garonne quays.",
+   "tip": "The medieval town and its Jewish quarter can be toured on a guided visit from the tourist office; check summer schedules.",
+   "q": "Ancien prieuré des bénédictins, Place Albert Rigoulet, La Réole",
+   "ll": [
+    44.58121,
+    -0.04178
+   ],
+   "src": [
+    "https://monumentum.fr/monument-historique/pa00083699/ancien-prieure-des-benedictins",
+    "https://www.guide-tourisme-france.com/VISITER/abbaye-reole--prieure-benedictins--reole-4650.htm"
+   ],
+   "tags": []
+  },
+  {
+   "id": "bourghautecitadelle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb to Bourg's upper town and citadel terrace",
+   "desc": "Bourg's ville haute sits on a rocky spur above the Dordogne and Garonne confluence. The Citadelle was begun in 1590 and dismantled in 1663, and its terrace has a view of the river. Five stairways link the port to the upper town.",
+   "tip": "Take the Escaliers du Roy from the port; a 1.5-hour guided tour starts at the tourist office on Place de l'Éperon.",
+   "q": "Citadelle de Bourg, Place de l'Éperon, Bourg",
+   "ll": [
+    45.03915,
+    -0.56177
+   ],
+   "src": [
+    "https://www.gironde-tourisme.com/en/cultural-heritage/visit-of-the-old-village-of-bourg/",
+    "https://bourg-gironde.fr/wp-content/uploads/2025/03/Bienvenue-a-Bourg.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "pujolslehaut",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stroll hilltop Pujols-le-Haut over the Lot valley",
+   "desc": "Pujols-le-Haut is one of the Plus Beaux Villages de France (since 1995), with about 70 half-timbered houses and panoramas over the Lot and Mail valleys. The churches of Saint-Nicolas and Sainte-Foy are among the highlights.",
+   "tip": "Park below the gate and walk up; the village is 2 km from Villeneuve-sur-Lot and best in the evening light.",
+   "q": "Pujols-le-Haut, Pujols",
+   "ll": [
+    44.38639,
+    0.68917
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Pujols_(Lot-et-Garonne)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "monflanquinbastide",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Discover the bastide of Monflanquin",
+   "desc": "Monflanquin is a 13th-century bastide that kept its grid plan around the arcaded Place des Arcades. It has been among the Plus Beaux Villages de France since 1989, and the Musée des Bastides explains how these new towns were founded.",
+   "tip": "Torch-lit and guided tours run in season; book through the tourist office on the square.",
+   "q": "Église Saint-André, Place des Arcades, Monflanquin",
+   "ll": [
+    44.53292,
+    0.76901
+   ],
+   "src": [
+    "https://www.routes-touristiques.com/tourisme/visiter-nos-regions/aquitaine/lot-et-garonne/visiter-et-voir/villes-cites-et-villages/monflanquin-plus-beaux-villages-de-france.html",
+    "https://www.guide-tourisme-france.com/VISITER/bastide-monflanquin--monflanquin-5522.htm"
+   ],
+   "tags": []
+  },
+  {
+   "id": "moiraxprieure",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Admire the Romanesque priory church of Moirax",
+   "desc": "The church of Notre-Dame de Moirax belonged to a Cluniac priory and is a classified historic monument since 1846. It is known for its 11th-century Romanesque architecture and 18th-century carved woodwork.",
+   "tip": "Check opening times at the Agen tourist office; the village is a short drive south of Agen.",
+   "q": "Église Notre-Dame, Prieuré de Moirax, Moirax",
+   "ll": [
+    44.1417,
+    0.6097
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Moirax"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "neracchateau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Henri IV's Château de Nérac",
+   "desc": "The château was built in the 15th century by the Albret family and was the home of the future Henri IV and Marguerite de Valois from 1577 to 1582. Only the Renaissance wing survives; it holds the Musée Henri IV (Musée de France).",
+   "tip": "Entrance is a few euros; summer guided tours are included, and winter hours are shorter. Combine with the Parc de la Garenne.",
+   "q": "Château-musée Henri IV, Nérac",
+   "ll": [
+    44.13528,
+    0.34
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Château_de_Nérac"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "durascastle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the tower of the Château de Duras",
+   "desc": "The castle of the Dukes of Duras has more than 30 restored rooms and a tower with 360 degree views of the Duras vineyards. An archaeological and ethnographic museum occupies the basement.",
+   "tip": "Open most of the year except January and 24-25 December; guided visits in summer or by reservation.",
+   "q": "Château de Duras, Place du Château, Duras",
+   "ll": [
+    44.67701,
+    0.17873
+   ],
+   "src": [
+    "https://www.nouvelle-aquitaine-tourisme.com/en-us/sit/poi/884699/chateau-de-duras-chateau-des-ducs/94587",
+    "https://www.purefrance.com/en/blog/to-visit-in-the-lot-et-garonne-the-castle-of-duras"
+   ],
+   "tags": []
+  },
+  {
+   "id": "bonaguilchateau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the fortress of Bonaguil",
+   "desc": "Château de Bonaguil near Fumel was rebuilt from the late 15th century as one of the last medieval-style fortresses, with artillery-ready towers and a keep. It sits on a rocky spur above the village of Saint-Front-sur-Lémance.",
+   "tip": "Allow 1.5 to 2 hours with a guided visit included; wear good shoes for the stairs. Check opening on chateau-bonaguil.com as one guide listed it as temporarily closed.",
+   "q": "Château de Bonaguil, Saint-Front-sur-Lémance",
+   "ll": [
+    44.53827,
+    1.01424
+   ],
+   "src": [
+    "https://monumentum.fr/monument-historique/pa00084226/saint-front-sur-lemance-chateau-de-bonaguil",
+    "https://www.guide-du-lot-et-garonne.com/en/tourism/discover/tourist-sites/castles/saint-front-sur-lemance-402/chateau-de-bonaguil-1251.html"
+   ],
+   "tags": []
+  },
+  {
+   "id": "villeneuvepontvieux",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Cross the medieval Pont des Cieutats at Villeneuve",
+   "desc": "The Pont-Vieux over the Lot was built in the late 13th century by English master masons and was once fortified with three towers like the Pont Valentré. It is listed as a monument historique.",
+   "tip": "Free to cross on foot; the bastide centre and Place Lafayette are a few minutes away.",
+   "q": "Pont des Cieutats (Pont-Vieux), Villeneuve-sur-Lot",
+   "ll": [
+    44.4045,
+    0.707
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Villeneuve-sur-Lot"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "agenpontcanal",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk over the Garonne on the Pont-Canal d'Agen",
+   "desc": "The 539 m bridge with 23 arches carries the Canal latéral à la Garonne about 12 m above the river and is the second-longest canal bridge in France after Briare. It was completed in 1849.",
+   "tip": "Free access year-round on the towpath; come early for light and quiet, or join a guided bike visit in summer.",
+   "q": "Pont-canal d'Agen, Agen",
+   "ll": [
+    44.20781,
+    0.60544
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Agen_aqueduct",
+    "https://en.francevelotourisme.com/leasure/sites-and-historical-monuments/the-pont-canal-d-agen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "cercleguiraud",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at Le Cercle Guiraud in Sauternes village",
+   "desc": "Le Cercle Guiraud is the village restaurant tied to Château Guiraud, a 1855 Premier Cru, and has taken over the former Le Saprien site on Rue Principale. It has a Michelin Plate listing and a terrace over the vines.",
+   "tip": "Try Sauternes by the glass with foie gras or fireside grills; book ahead and confirm hours.",
+   "q": "Le Cercle Guiraud, 14 rue Principale, Sauternes",
+   "ll": [
+    44.5352,
+    -0.3571
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Sauternes"
+   ],
+   "tags": []
+  },
+  {
+   "id": "fermigiermacarons",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste the original macarons of Saint-Émilion",
+   "desc": "Nadia Fermigier's shop on rue Guadet sells the single-shell almond macarons said to date from 1620 and made to the recipe of Mme Blanchez. They contain only ground almonds, egg white and sugar.",
+   "tip": "Hours were roughly 8:00-19:30 (9:00 on Sunday); buy a box to take home.",
+   "q": "Macarons de Saint-Émilion Nadia Fermigier, 9 rue Guadet, Saint-Émilion",
+   "ll": [
+    44.8942,
+    -0.1559
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Saint-Émilion"
+   ],
+   "tags": []
+  },
+  {
+   "id": "cafelavinalbages",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Lunch at Café Lavinal in Bages, Pauillac",
+   "desc": "Café Lavinal opened in 2006 on the village square of Bages beside Château Lynch-Bages and is named after Jean-Michel Cazes' grandmother. It serves market cuisine and regional dishes and has a list of more than 200 wines.",
+   "tip": "Closed Sunday on older listings; book for lunch and sit on the terrace.",
+   "q": "Café Lavinal, Place Desquet, Bages, Pauillac",
+   "ll": [
+    45.19053,
+    -0.7553
+   ],
+   "src": [
+    "https://www.jmcazes.com/en/node/240",
+    "https://www.bordeaux-tourism.co.uk/offre/fiche/cafe-lavinal/RESAQU033FS0000K"
+   ],
+   "tags": []
+  },
+  {
+   "id": "cordeliersbar",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Sip a crémant in the Cloître des Cordeliers",
+   "desc": "The 14th-century Franciscan cloister in Saint-Émilion hides cellars about 20 m underground used for sparkling wine since 1892. A garden bar serves the house Crémant de Bordeaux by the glass with picnics.",
+   "tip": "Open daily 10:30-19:00 in season; cellar tours with three cuvées are about 12-16 euros.",
+   "q": "Cloître des Cordeliers, Rue de la Cadène, Saint-Émilion",
+   "ll": [
+    44.8928,
+    -0.1531
+   ],
+   "src": [
+    "https://www.saint-emilion-tourisme.com/en/restaurant/fiche/1534",
+    "https://www.lescordeliers.com/en/content/8-shop"
+   ],
+   "tags": []
+  },
+  {
+   "id": "logiscadene",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Splurge at Logis de la Cadène in Saint-Émilion",
+   "desc": "Open since 1848, it is the oldest restaurant in Saint-Émilion, with a Michelin star and 15.5/20 from Gault&Millau for Thibaut Gamba's plant- and sea-driven cooking.",
+   "tip": "Lunch and dinner Tuesday to Friday; Saturday dinner only per the tourist office. Reserve well ahead.",
+   "q": "Logis de la Cadène, 3 place du Marché au Bois, Saint-Émilion",
+   "ll": [
+    44.8938,
+    -0.1553
+   ],
+   "src": [
+    "https://www.saint-emilion-tourisme.com/en/restaurant/fiche/1634",
+    "https://fr.gaultmillau.com/fr/restaurant/logis-de-la-cadene"
+   ],
+   "tags": []
+  },
+  {
+   "id": "boeufpopbazas",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Bazas beef at Le Boeuf Pop",
+   "desc": "Le Boeuf Pop faces the cathedral and is praised for Bazas beef, a PGI from Bazadaise cattle, notably the tartare and burgers. A delicatessen next door sells cuts to take away.",
+   "tip": "Closed Sunday and Monday on one listing; lunch is the safest slot.",
+   "q": "Le Boeuf Pop, 30 place de la Cathédrale, Bazas",
+   "ll": [
+    44.43185,
+    -0.21137
+   ],
+   "src": [
+    "https://www.guide-bordeaux-gironde.com/en/tourism/eating-and-drinking/restaurants/bazas-35/le-boeuf-pop-6265.html",
+    "https://restoranking.fr/r/le-boeuf-pop_142190/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "cabestanlamproie",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try lamproie à la bordelaise at Le Cabestan",
+   "desc": "Le Cabestan at Sainte-Terre is a lamprey fisherman's farm where visits can be paired with a meal of lamproie à la bordelaise, the Dordogne river dish cooked in red wine and leeks. Sainte-Terre also holds a lamprey festival on the riverbank in late April.",
+   "tip": "Lamprey season runs from about January to April; call ahead as the species is scarcer and menus change.",
+   "q": "Le Cabestan, ferme du pêcheur de lamproie, 2 route du Port de Peytor, Sainte-Terre",
+   "ll": [
+    44.855,
+    -0.14
+   ],
+   "src": [
+    "https://www.saint-emilion-tourisme.com/en/loisir/fiche/1611"
+   ],
+   "tags": []
+  },
+  {
+   "id": "blayauberge",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine inside the citadel at L'Auberge des Officiers",
+   "desc": "This restaurant is within the Blaye citadel and serves traditional cuisine from fresh regional produce, with duck burgers and mussels among reviewers' picks.",
+   "tip": "Combine with a walk on the ramparts; check seasonal hours.",
+   "q": "L'Auberge des Officiers, rue de la Manutention, Citadelle de Blaye, Blaye",
+   "ll": [
+    45.129,
+    -0.6655
+   ],
+   "src": [
+    "https://www.guide-bordeaux-gironde.com/en/tourism/restaurants/restaurants/blaye-56/l-auberge-des-officiers-9766.html"
+   ],
+   "tags": []
+  },
+  {
+   "id": "darrozelangon",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Book Claude Darroze's table in Langon",
+   "desc": "Maison Claude Darroze is a hotel-restaurant in a renovated coaching inn at Langon, close to Sauternes and Barsac. Gault&Millau gives its Table de la Maison 13/20, with a large local wine list.",
+   "tip": "Pair a Sauternes with the dessert menu; reserve for weekends.",
+   "q": "Maison Claude Darroze, 95 cours du Général Leclerc, Langon",
+   "ll": [
+    44.55299,
+    -0.24681
+   ],
+   "src": [
+    "https://guide-bordeaux-gironde.com/en/tourism/eating-and-drinking/restaurants/langon-223/maison-claude-darroze-8726.html",
+    "https://tables-auberges.com/en/hotels-restaurants/33-gironde/langon/1740-claude-darroze-la-table-de-la-maison"
+   ],
+   "tags": []
+  },
+  {
+   "id": "marmandelobouche",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Marmande tomatoes at L'Ô à la Bouche",
+   "desc": "This restaurant sits in old Marmande facing the Notre-Dame bell tower, in the town known as the tomato capital with its collective Tomate de Marmande label.",
+   "tip": "Tomatoes are best July to September; book dinner in the summer.",
+   "q": "L'Ô à la Bouche, Marmande",
+   "ll": [
+    44.49696,
+    0.1657
+   ],
+   "src": [
+    "https://www.valdegaronne-tourisme.com/en/destination/villes-et-villages-de-caractere/marmande-capitale-de-la-bonne-tomate/balade-dans-marmande/",
+    "https://www.enprimeurclub.com/restaurants/lo-la-bouche-marmande-restaurant"
+   ],
+   "tags": []
+  },
+  {
+   "id": "monflanquineffetmaison",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat local at L'Effet Maison on Monflanquin's arcades",
+   "desc": "A bistro on Place des Arcades run by Estelle and Gilles, working with local producers and serving traditional dishes. Gault&Millau rated it 12.5/20 with its Table Gourmande distinction in 2025.",
+   "tip": "Book on market Thursdays; ask for the plat du jour.",
+   "q": "L'Effet Maison, Place des Arcades, Monflanquin",
+   "ll": [
+    44.5325,
+    0.76843
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/restaurant/effet-maison",
+    "https://www.enprimeurclub.com/restaurants/effet-maison-monflanquin-restaurant"
+   ],
+   "tags": []
+  },
+  {
+   "id": "agengueuleton",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try duck and garbure at Gueuleton in Agen",
+   "desc": "Gueuleton is a bistronomic table on Place Jean-Baptiste Durand whose menu features magret de canard, house foie gras, garbure and cassoulet.",
+   "tip": "Booking is strongly advised at weekends.",
+   "q": "Gueuleton, place Jean-Baptiste Durand, Agen",
+   "ll": [
+    44.20449,
+    0.61802
+   ],
+   "src": [
+    "https://rankeat.fr/restaurants/gueuleton-agen",
+    "https://www.francesudouest.com/les-restaurants-a-agen-2/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "villeneuveloustal",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Lunch at L'Oustal on Place Lafayette",
+   "desc": "L'Oustal has been in the pedestrian bastide of Villeneuve-sur-Lot since 1998, run by Caroline and Lionel Ozanne, serving regional cooking with Basque influences.",
+   "tip": "About 30-55 euros; book a terrace table in fine weather.",
+   "q": "L'Oustal, place Lafayette, Villeneuve-sur-Lot",
+   "ll": [
+    44.4064,
+    0.70598
+   ],
+   "src": [
+    "https://rankeat.fr/restaurants/loustal-villeneuve-sur-lot"
+   ],
+   "tags": []
+  },
+  {
+   "id": "fermemuseepruneau",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Agen prunes at the Ferme et Musée du Pruneau",
+   "desc": "This farm at Granges-sur-Lot in the Pruneau d'Agen (PGI) area has a museum about plum drying and a shop with prune products. A tasting ends the visit.",
+   "tip": "Buy stuffed prunes or prune liqueur; check seasonal opening before going.",
+   "q": "Ferme et Musée du Pruneau, 1231 route de Granges, Lafitte-sur-Lot",
+   "ll": [
+    44.369,
+    0.455
+   ],
+   "src": [
+    "https://www.francevelotourisme.com/loisirs/musees-et-sites-touristiques/ferme-et-musee-du-pruneau"
+   ],
+   "tags": []
+  },
+  {
+   "id": "palmertasting",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Taste at Château Palmer in Margaux",
+   "desc": "Château Palmer is a Troisième Cru Classé of Margaux in Cantenac. The estate offers visits of vat room, cellar and tasting room.",
+   "tip": "Reservation is needed; check chateau-palmer.com for current rates.",
+   "q": "Château Palmer, Cantenac, Margaux",
+   "ll": [
+    45.03669,
+    -0.66928
+   ],
+   "src": [
+    "https://www.hachette-vins.com/guide-vins/producteurs/2548/ch-palmer/",
+    "https://www.idealwine.net/margaux-chateau-palmer-reouvre-ses-portes-au-public/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "pichonbarontour",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Tour Château Pichon Baron in Pauillac",
+   "desc": "Pichon Baron is a Deuxième Cru Classé with a turreted château, vineyard, cellars and a tasting after the guided visit. A new reception area opened in 2023.",
+   "tip": "Visits are paid and by booking; phone +33 5 56 73 17 17 or see pichonlongueville.com.",
+   "q": "Château Pichon Longueville Baron, Pauillac",
+   "ll": [
+    45.17611,
+    -0.7525
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Château_Pichon_Longueville_Baron"
+   ],
+   "tags": []
+  },
+  {
+   "id": "lagrangetasting",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Join a vineyard tasting at Château Lagrange",
+   "desc": "Château Lagrange is a Troisième Cru Classé at Saint-Julien-Beychevelle. Tours present the terroir, then a guided tasting of three or four wines.",
+   "tip": "Visits by appointment only (visites@chateau-lagrange.com), in French and English, about an hour.",
+   "q": "Château Lagrange, route de Saint-Laurent, Saint-Julien-Beychevelle",
+   "ll": [
+    45.1588,
+    -0.7433
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Saint-Julien-Beychevelle"
+   ],
+   "tags": []
+  },
+  {
+   "id": "guiraudsauternes",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Taste Sauternes at Château Guiraud",
+   "desc": "Château Guiraud is a 1855 Premier Cru of Sauternes with visits, aromatic tastings and Sauternes with cheese. A visitor described three wines tasted by the fireplace.",
+   "tip": "Visits by appointment (+33 5 56 76 61 01); around 30 euros for an aromatic tasting on one report.",
+   "q": "Château Guiraud, Sauternes",
+   "ll": [
+    44.53306,
+    -0.3324
+   ],
+   "src": [
+    "https://www.winetourism.com/fr/vignoble/chateau-guiraud/",
+    "https://www.hachette-vins.com/guide-vins/producteurs/12803/sca-chateau-guiraud"
+   ],
+   "tags": []
+  },
+  {
+   "id": "lapebiegreenway",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cycle the Roger Lapébie greenway to Sauveterre",
+   "desc": "The 57 km greenway runs on a former railway from Latresne to Sauveterre-de-Guyenne as part of the Canal des 2 Mers à Vélo, passing vineyards, with a detour to La Sauve-Majeure abbey.",
+   "tip": "The Créon to Sauveterre stage is 31 km, about 2 hours, without difficulty; a bike relay point is at Sauveterre's old station.",
+   "q": "Gare de Sauveterre-de-Guyenne, voie verte Roger Lapébie, Sauveterre-de-Guyenne",
+   "ll": [
+    44.69006,
+    -0.08602
+   ],
+   "src": [
+    "https://www.francevelotourisme.com/itineraire/le-tour-de-gironde-a-velo/creon-sauveterre-de-guyenne",
+    "https://www.randozone.com/outdoor/798/balade-en-velo-sur-la-voie-verte-roger-lapebie-en-gironde"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "blayalamarqueferry",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Blaye-Lamarque ferry across the estuary",
+   "desc": "The departmental ferry crosses the Gironde between Blaye and Lamarque in 20 to 40 minutes, connecting the right bank with the Médoc wine route.",
+   "tip": "Check current timetables on gironde.fr/bacs; arrive 30 minutes before for cars.",
+   "q": "Embarcadère du bac Blaye-Lamarque, Blaye",
+   "ll": [
+    45.1305,
+    -0.6645
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Blaye"
+   ],
+   "tags": []
+  },
+  {
+   "id": "marathonmedoc",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Run or cheer the Marathon du Médoc in Pauillac",
+   "desc": "The Marathon du Médoc, 40 years old in 2026, starts on the Pauillac quays and runs 42.195 km through nearly fifty châteaux with wine tastings. Non-runners can join a 10 km walk with tasting points.",
+   "tip": "Held early September (5 September in 2026); register early on marathondumedoc.com.",
+   "q": "Quai Léon Perrier, Pauillac",
+   "ll": [
+    45.1983,
+    -0.745
+   ],
+   "src": [
+    "https://quoifaireabordeaux.com/marathon-du-medoc-2026-degustation/",
+    "https://www.marathons.com/evenements/marathon-du-medoc/"
+   ],
+   "tags": [],
+   "months": [
+    9
+   ]
+  },
+  {
+   "id": "nerakgarenne",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Stroll the royal Parc de la Garenne in Nérac",
+   "desc": "The Parc de la Garenne is a tree-lined 2.5 km path along the Baïse with fountains including Fleurette and Saint-Jean, linked to the Albret family and Henri IV.",
+   "tip": "Free; walk from the château along the Allée des 3000 pas.",
+   "q": "Parc de la Garenne, Nérac",
+   "ll": [
+    44.12831,
+    0.34328
+   ],
+   "src": [
+    "https://www.cirkwi.com/en/point-interet/2717023-parc-de-la-garenne",
+    "https://www.cirkwi.com/de/circuit/51727-nerac-une-balade-de-la-garenne-au-chateau-henri-iv"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "marmandetomatofete",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Join the Fête de la Tomate in Marmande",
+   "desc": "The yearly festival takes place at the Plaine de la Filhole with a tomato market, giant tomato tart, contests and chef demonstrations. In 2026 it ran on 8-9 August.",
+   "tip": "Free entry; confirm dates for next year with the city's events office.",
+   "q": "Plaine de la Filhole, Marmande",
+   "ll": [
+    44.496,
+    0.185
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Marmande"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    8
+   ]
+  },
+  {
+   "id": "patirasboat",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Take a boat to the Île de Patiras lighthouse",
+   "desc": "Île de Patiras is a 4.5 km island in the Gironde estuary managed by the Conservatoire du littoral, with vineyards, a lighthouse and a restaurant, reached only by boat from Blaye or Pauillac.",
+   "tip": "Crossings run mainly Friday to Sunday from May to October; confirm with the operator.",
+   "q": "Port de Blaye, Blaye",
+   "ll": [
+    45.1255,
+    -0.66498
+   ],
+   "src": [
+    "https://lebonbon.fr/bordeaux/actu/a-1h-bordeaux-restaurant-ile-patiras-secrete-350-hectares-accessible-bateau/",
+    "https://www.lessentiel.fr/bordeaux/bonnes-adresses/2026-05-22/escale-sur-une-ile-mysterieuse-en-gironde-21855"
+   ],
+   "tags": [],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "libournemarket",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Browse Libourne's market on Place Abel-Surchamp",
+   "desc": "The arcaded square at the heart of Libourne's bastide has hosted markets for centuries. Listings put it on Tuesday, Friday and Sunday mornings, with the Sunday market among the biggest in the Gironde.",
+   "tip": "Go on Sunday morning; hours vary, so check with the tourist office (+33 5 57 51 15 04).",
+   "q": "Place Abel Surchamp, Libourne",
+   "ll": [
+    44.9157,
+    -0.2434
+   ],
+   "src": [
+    "https://www.cirkwi.com/fr/point-interet/1280127-la-place-abel-surchamp-et-ses-couverts",
+    "https://guide-bordeaux-gironde.com/en/tourism/tasting/gironde-markets.html"
+   ],
+   "tags": []
+  },
+  {
+   "id": "monflanquinmarket",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Shop the Thursday market under Monflanquin's arcades",
+   "desc": "A market is held on Place des Arcades every Thursday morning, a tradition that local sources date to 1256.",
+   "tip": "Arrive early; local sources say Thursday morning only.",
+   "q": "Place des Arcades, Monflanquin",
+   "ll": [
+    44.5326,
+    0.76816
+   ],
+   "src": [
+    "https://www.completefrance.com/living-in-france/village-life-montflanquin-6221222/",
+    "https://www.guide-tourisme-france.com/TOURISME/tourisme-monflanquin-2455.htm"
+   ],
+   "tags": []
+  },
+  {
+   "id": "castelmoroncanoe",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Paddle the Lot from Castelmoron-sur-Lot",
+   "desc": "The beach base at Castelmoron-sur-Lot rents canoes and paddleboards, and the Lot between Villeneuve-sur-Lot and Fumel is well equipped with rental points.",
+   "tip": "Locks cannot be passed by canoe, so plan a stretch without them; call rental firms for current prices.",
+   "q": "Plage de Castelmoron-sur-Lot, Castelmoron-sur-Lot",
+   "ll": [
+    44.3975,
+    0.496
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Castelmoron-sur-Lot"
+   ],
+   "tags": [],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "saintmacairewalk",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Boucle de la cité médiévale in Saint-Macaire",
+   "desc": "Two marked loops of 3.7 and 6.1 km link the medieval town to the Garonne quays and historic washhouses.",
+   "tip": "Start at the tourist office; wear comfortable shoes.",
+   "q": "Office de tourisme, Saint-Macaire",
+   "ll": [
+    44.5653,
+    -0.226
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Saint-Macaire_(Gironde)"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

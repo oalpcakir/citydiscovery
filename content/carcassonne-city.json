@@ -1,0 +1,588 @@
+{
+ "new": [
+  {
+   "id": "carcacite",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk the double ramparts of La Cité de Carcassonne",
+   "desc": "The Cité is a fortified hilltop town inscribed on the UNESCO World Heritage list in 1997, ringed by about 3 km of walls and 52 towers. Its Gallo-Roman and medieval defences were heavily restored by Eugène Viollet-le-Duc in the 19th century.",
+   "tip": "Entry to the streets is free at any hour and the walls glow when lit at nightfall. Arrive early or after 17:00 in summer to avoid the crowds.",
+   "q": "La Cité de Carcassonne, Carcassonne",
+   "ll": [
+    43.1918,
+    2.3686
+   ],
+   "src": [
+    "https://en.wikipedia.com/wiki/Cit%C3%A9_de_Carcassonne",
+    "https://www.tourisme-carcassonne.fr/en/decouvrir/la-cite-medievale/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "carcachateaucomtal",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Tour the Château comtal and its ramparts",
+   "desc": "The Château comtal is the citadel inside the Cité, with two courtyards, a lapidary museum and a 3D film on its history. Its ticket opens the highest sections of the chemin de ronde between the inner and outer walls.",
+   "tip": "Book ahead in July and August. Allow 1 to 1.5 hours; the tower stairs are steep and narrow.",
+   "q": "Château comtal de Carcassonne, Cité, Carcassonne",
+   "ll": [
+    43.2064,
+    2.3632
+   ],
+   "src": [
+    "https://www.tourisme-carcassonne.fr/en/leisure-activity/castle-and-ramparts-of-the-walled-city-of-carcassonne",
+    "https://ryo.co/fr/articles/france/carcassonne/visiter-cite-carcassonne/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "carcasaintnazaire",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the stained glass of Basilique Saint-Nazaire",
+   "desc": "The former cathedral of Carcassonne combines a Romanesque nave with a Gothic chancel and transept. Its windows form one of the most complete sets of medieval stained glass in Occitanie.",
+   "tip": "Free entry outside services, usually about 9:00 to 18:00. Go on a sunny afternoon when the glass is brightest.",
+   "q": "Basilique Saint-Nazaire, Place Auguste-Pierre Pont, Cité, Carcassonne",
+   "ll": [
+    43.2061,
+    2.3635
+   ],
+   "src": [
+    "https://www.tourisme-occitanie.com/fr/fiche/patrimoine-culturel/basilique-saint-nazaire-carcassonne_TFOPCULAR011V501HUP",
+    "https://www.culture.gouv.fr/regions/drac-occitanie/ressources-documentaires/publications-de-la-drac-occitanie/collection-duo/Saint-Nazaire-et-Saint-Celse-ancienne-cathedrale-de-Carcassonne"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "carcaportenarbonnaise",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Enter the Cité through the Porte Narbonnaise",
+   "desc": "The Porte Narbonnaise is the main gate on the east side of the Cité, flanked by twin towers and protected by a barbican. It dates from the end of the 13th century, when the outer rampart was built under Philip III.",
+   "tip": "Free at all hours. The audio-guided rampart route starts here and finishes at the Château comtal.",
+   "q": "Porte Narbonnaise, Cité, Carcassonne",
+   "ll": [
+    43.2063,
+    2.366
+   ],
+   "src": [
+    "https://worldcitytrail.com/2024/11/14/porte-narbonnaise-in-carcassonne/",
+    "https://www.tourisme-carcassonne.fr/en/decouvrir/la-cite-medievale/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "carcacathedralesaintmichel",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit Cathédrale Saint-Michel in the Bastide",
+   "desc": "Begun in 1247 under Louis IX, the cathedral became the bishop's seat in 1803 when the see moved from Saint-Nazaire. Viollet-le-Duc led its restoration between 1856 and 1869.",
+   "tip": "Free outside services. It is a few steps from Place Carnot, so combine it with the market.",
+   "q": "Cathédrale Saint-Michel, Rue Voltaire, Carcassonne",
+   "ll": [
+    43.2117,
+    2.3514
+   ],
+   "src": [
+    "https://www.audetourisme.com/en/fiche/carcassonne/cathedrale-saint-michel_TFOPCULAR011V501ABU/",
+    "https://www.techno-science.net/fr/definitions/cathedrale-saint-michel-de-carcassonne"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "carcasaintvincent",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb the tower of Église Saint-Vincent",
+   "desc": "A 13th-century Languedoc Gothic church in the Bastide with an unusually wide nave and a 54 m octagonal tower holding a 47-bell carillon. The tower climb of 232 steps gives a view over the whole town.",
+   "tip": "Church access is free; check the tourist office for tower opening times. Organ recitals are held on summer Saturdays.",
+   "q": "Église Saint-Vincent, Rue Gamelin, Carcassonne",
+   "ll": [
+    43.21483,
+    2.35074
+   ],
+   "src": [
+    "https://www.audetourisme.com/en/fiche/carcassonne/eglise-saint-vincent_TFOPCULAR011V501ABM/",
+    "https://monumentum.fr/monument-historique/pa00102594/carcassonne-eglise-saint-vincent"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "carcapontvieux",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Cross the Pont Vieux for the classic Cité view",
+   "desc": "The 14th-century Pont Vieux has twelve arches and spans the Aude between the Bastide and the Cité, once the only crossing of the river. It is pedestrian only and a listed monument.",
+   "tip": "Best at dusk, when the lit Cité reflects in the river. The walk to the Porte Narbonnaise takes about 20 minutes uphill.",
+   "q": "Pont Vieux, Carcassonne",
+   "ll": [
+    43.21,
+    2.3588
+   ],
+   "src": [
+    "https://worldcitytrail.com/2024/11/14/pont-vieux-in-carcassonne/",
+    "https://monumentum.fr/monument-historique/pa00102615/carcassonne-pont-vieux"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "carcapontneuf",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Photograph the Cité from the Pont Neuf",
+   "desc": "The Pont Neuf, built in the 19th century, gave Carcassonne a second link across the Aude. From it the silhouette of the Cité sits beside the old bridge.",
+   "tip": "Free and open all hours. Late light and the evening illumination are the best moments.",
+   "q": "Pont Neuf, Carcassonne",
+   "ll": [
+    43.2115,
+    2.35953
+   ],
+   "src": [
+    "https://ryo.co/en/destinations/france/places/views-of-the-medieval-city/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "carcaplacecarnot",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the Neptune fountain on Place Carnot",
+   "desc": "Place Carnot is the central square of the Bastide Saint-Louis. Its Neptune fountain dates from 1770, by the sculptors Barata, and has been a listed monument since 1926.",
+   "tip": "Café terraces ring the square. The produce market fills it on Tuesday, Thursday and Saturday mornings.",
+   "q": "Place Carnot, Carcassonne",
+   "ll": [
+    43.2128,
+    2.3503
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Carcassonne"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "carcabeauxarts",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Browse the Musée des Beaux-Arts by Square Gambetta",
+   "desc": "Founded in 1836, the museum occupies the former Présidial and shows paintings and decorative arts from the 17th century to today, plus ceramics. It faces the Square Gambetta, laid out in 1861.",
+   "tip": "Hours vary by season and entry is often free; check before visiting. It is closed on most public holidays.",
+   "q": "Musée des Beaux-Arts, 1 Rue de Verdun, Carcassonne",
+   "ll": [
+    43.21248,
+    2.3553
+   ],
+   "src": [
+    "https://www.tourisme-occitanie.com/fr/fiche/patrimoine-culturel/musee-des-beaux-arts-de-carcassonne-carcassonne_TFOPCULAR0110000030",
+    "https://www.tourisme-carcassonne.fr/en/discover/musee-des-beaux-arts"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "carcatheatredeschamps",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Théâtre Jean-Deschamps inside the Cité",
+   "desc": "The open-air theatre was built in 1908 on the site of the old Saint-Nazaire cloister and renamed for Comédie-Française actor Jean Deschamps in 2006. It is the main stage of the Festival de Carcassonne.",
+   "tip": "It is visible from the lices around the Cité when not in use; check festival dates in July.",
+   "q": "Théâtre Jean-Deschamps, Place Saint-Nazaire, Cité, Carcassonne",
+   "ll": [
+    43.20496,
+    2.36287
+   ],
+   "src": [
+    "https://acceslibre.beta.gouv.fr/app/11-carcassonne/a/theatre/erp/theatre-de-la-cite-jean-deschamps/",
+    "https://www.nomads-travel-guide.com/places/jean-deschamps-theatre"
+   ],
+   "tags": []
+  },
+  {
+   "id": "carcainquisitionmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Musée de l'Inquisition in the Cité",
+   "desc": "The museum is set in a 17th-century house on rue Saint-Jean. It displays a gallery of torture instruments and covers the Inquisition and Cathar resistance in Occitanie.",
+   "tip": "In summer it opens 10:00 to 19:00 Monday to Saturday; photography is generally not allowed. Grim content, not suited to young children.",
+   "q": "Musée de l'Inquisition, 7 Rue Saint-Jean, Cité, Carcassonne",
+   "ll": [
+    43.2077,
+    2.36433
+   ],
+   "src": [
+    "https://www.audetourisme.com/en/fiche/carcassonne/musee-de-l-inquisition_TFOPCULAR011V501IKT/",
+    "https://www.tourisme-carcassonne.fr/en/leisure-activity/the-inquisition-museum/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "carcadamecarcas",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat cassoulet at Auberge de Dame Carcas",
+   "desc": "A regional restaurant on Place du Château in the Cité, named after the legendary defender of Carcassonne. It serves homemade cassoulet with white beans, duck confit and pork sausage, plus wood-fired grills.",
+   "tip": "Menus run from about 17 to 35 euros. Book a terrace table facing the castle for lunch.",
+   "q": "Auberge de Dame Carcas, 3 Place du Château, Cité, Carcassonne",
+   "ll": [
+    43.2063,
+    2.3632
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/restaurant/auberge-de-dame-carcas",
+    "https://www.arrivalguides.com/en/Travelguide/CARCASSONNE/dining/auberge-de-dame-carcas-4271"
+   ],
+   "tags": []
+  },
+  {
+   "id": "carcacomteroger",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine on modern cassoulet at Comte Roger",
+   "desc": "Comte Roger is a Michelin Plate restaurant at 14 rue Saint-Louis in the Cité with a shaded terrace for about 50. Its seasonal menu mixes traditional and inventive cooking, and cassoulet features among the specialities.",
+   "tip": "Expect roughly 40 to 60 euros per head. Reserve for dinner on the terrace.",
+   "q": "Comte Roger, 14 Rue Saint-Louis, Cité, Carcassonne",
+   "ll": [
+    43.2061,
+    2.364
+   ],
+   "src": [
+    "https://www.audetourisme.com/en/fiche/carcassonne/comte-roger_TFORESLAR011FS00096",
+    "https://guide.michelin.com/tr/en/occitanie/carcassonne/restaurant/comte-roger"
+   ],
+   "tags": []
+  },
+  {
+   "id": "carcamaisoncassoulet",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try the fresh cassoulet at La Maison du Cassoulet",
+   "desc": "A stone-walled restaurant at 6 rue du Grand Puits in the Cité with a shaded patio. Its signature is a cassoulet with two confits and duck confit, with a menu around 18 to 24 euros.",
+   "tip": "Popular and often full at lunch, so book. Not the same place as La Demeure du Cassoulet next door.",
+   "q": "La Maison du Cassoulet, 6 Rue du Grand Puits, Cité, Carcassonne",
+   "ll": [
+    43.20753,
+    2.36504
+   ],
+   "src": [
+    "https://www.tourisme-carcassonne.fr/en/restaurant/maison-du-cassoulet/",
+    "https://restoranking.fr/r/la-maison-du-cassoulet_190440/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "carcachezfred",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have cassoulet at Chez Fred in the Bastide",
+   "desc": "Chez Fred, run since 2018 by Pierre and Siham, faces the Jardin Chénier near the station and canal. Reviewers single out its cassoulet, and the menu also offers other dishes such as tuna tataki.",
+   "tip": "A local alternative to the tourist-heavy Cité. It is a short walk from the Canal du Midi port.",
+   "q": "Chez Fred, 31 Boulevard Omer Sarraut, Carcassonne",
+   "ll": [
+    43.21607,
+    2.35033
+   ],
+   "src": [
+    "https://www.audetourisme.com/en/fiche/carcassonne/chez-fred-by-pierre-et-siham_TFORESLAR011FS00099/",
+    "https://www.tourisme-carcassonne.fr/en/restaurant/chez-fred/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "carcabaravins",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Share tapas and local wine at Le Bar à Vins",
+   "desc": "Open since 1989 at 6 rue du Plô in the Cité, this wine bar serves tapas, a wine list, cocktails and music evenings in a shaded courtyard garden.",
+   "tip": "Wine by the glass is a good way to try Aude wines. Best on a warm evening.",
+   "q": "Le Bar à Vins, 6 Rue du Plô, Cité, Carcassonne",
+   "ll": [
+    43.20506,
+    2.36399
+   ],
+   "src": [
+    "https://www.tourisme-carcassonne.fr/en/restaurant/le-bar-a-vins/",
+    "https://audetourisme.com/en/fiche/carcassonne/le-bar-a-vins_TFORESLAR011V505CRF"
+   ],
+   "tags": []
+  },
+  {
+   "id": "carcajardintour",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine in the garden at Au Jardin de la Tour",
+   "desc": "A restaurant at 11 rue Porte d'Aude in the Cité serving traditional and Mediterranean dishes. In summer tapas are served in a shaded garden alongside the fortifications, and diners praise its cassoulet.",
+   "tip": "Ask for a table in the garden by the walls. Cash, holiday vouchers and meal vouchers are accepted.",
+   "q": "Au Jardin de la Tour, 11 Rue Porte d'Aude, Cité, Carcassonne",
+   "ll": [
+    43.2071,
+    2.3636
+   ],
+   "src": [
+    "https://www.tourisme-carcassonne.fr/en/restaurant/au-jardin-de-la-tour/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "carcahallesprospermontagne",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Graze the stalls of Les Halles Prosper Montagné",
+   "desc": "The covered market occupies an 18th-century hall on Place Eggenfelden, shared with the Grain d'Aile media library, and gathers around fifteen traders. It is the place for regional cheese, charcuterie and cassoulet ingredients.",
+   "tip": "Go in the morning. It is a few streets from Place Carnot and the Neptune fountain.",
+   "q": "Les Halles Prosper Montagné, Place Eggenfelden, Carcassonne",
+   "ll": [
+    43.21187,
+    2.35061
+   ],
+   "src": [
+    "https://www.komoot.com/highlight/4544130"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "carcafuster",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste the Petit Carcassonnais at Boulangerie Fuster",
+   "desc": "Boulangerie des Halles - Fuster at 61 rue Aimé Ramond is known for the Petit Carcassonnais, a small oval cake with a madeleine-like texture, a Carcassonne speciality dating to 1935.",
+   "tip": "Open Monday to Saturday from about 7:00. Pick up a few as souvenirs.",
+   "q": "Boulangerie des Halles Fuster, 61 Rue Aimé Ramond, Carcassonne",
+   "ll": [
+    43.2136,
+    2.3509
+   ],
+   "src": [
+    "https://www.tourisme-carcassonne.fr/en/organization/boulangerie-des-halles-fuster/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "carcatouja",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sample entremets at Pâtisserie Rémi Touja",
+   "desc": "A pastry shop at 20 rue de Verdun listed by Gault&Millau, run by a French dessert champion. It specialises in entremets, chocolate cakes, chocolates and panettones.",
+   "tip": "Hours are limited in the week; check the shop's website. Take a slice to the nearby Square Gambetta.",
+   "q": "Pâtisserie Rémi Touja, 20 Rue de Verdun, Carcassonne",
+   "ll": [
+    43.21272,
+    2.35395
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/1517174"
+   ],
+   "tags": []
+  },
+  {
+   "id": "carcacomptoircite",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sip Foncalieu wines at Le Comptoir de la Cité",
+   "desc": "A tasting counter run by the Foncalieu winegrowers at the foot of the Cité, in a listed Belle Époque building. It serves local wines and products on a terrace and offers private tastings.",
+   "tip": "Ask for a tasting flight of Languedoc wines. Check opening hours beforehand.",
+   "q": "Le Comptoir de la Cité, Carcassonne",
+   "ll": [
+    43.21007,
+    2.3643
+   ],
+   "src": [
+    "https://www.tourisme-occitanie.com/fr/fiche/degustation/le-comptoir-de-la-cite-carcassonne_TFODEGLAR011V50HYOG",
+    "https://www.tourisme-carcassonne.fr/en/restaurant/le-comptoir-de-la-cite/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "carcaloucabaret",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Take a commented cruise on the Canal du Midi",
+   "desc": "Lou Gabaret and Hélios run 1h30 to 2h commented cruises on the Canal du Midi from the Port de Carcassonne. The canal is a UNESCO site and the port was set up between 1800 and 1810.",
+   "tip": "From about 10.50 to 15 euros; up to 8 sailings a day in July and August. Confirm times with the operator.",
+   "q": "Bateau promenade Lou Gabaret, Port du Canal du Midi, Carcassonne",
+   "ll": [
+    43.21767,
+    2.35093
+   ],
+   "src": [
+    "https://www.tourisme-carcassonne.fr/en/leisure-activity/lou-gabaret-helios-cruise/",
+    "https://www.canal-du-midi.com/en/explore/along-the-waters/naurouze-to-carcassonne/carcassonne-port"
+   ],
+   "tags": []
+  },
+  {
+   "id": "carcacavayere",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Swim and paddle at Lac de la Cavayère",
+   "desc": "The lake east of town has supervised swimming in marked zones from mid-June to late August, plus pedal boats, paddle and a cable wakeboard park from Easter to late September. A path circles the lake.",
+   "tip": "Swimming is supervised about 13:00 to 19:00. Check the water level and quality notice before swimming.",
+   "q": "Lac de la Cavayère, Carcassonne",
+   "ll": [
+    43.18271,
+    2.42212
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Lac_de_la_Cavay%C3%A8re",
+    "https://www.tourisme-occitanie.com/nl/fiche/equipement/lac-de-la-cavayere-carcassonne_TFOLOILAR011V503DKY/"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "carcacanalbike",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cycle the Canal du Midi from Carcassonne to Trèbes",
+   "desc": "The Canal des 2 Mers by bike (V80) follows the towpath from the Carcassonne port to Trèbes, about 13 km, passing pine-lined banks. Parts of the greenway were rebuilt after the October 2018 floods.",
+   "tip": "Signage and road crossings were still incomplete in 2024, so ride with care. There are public toilets at Trèbes port.",
+   "q": "Port du Canal du Midi, Carcassonne",
+   "ll": [
+    43.2174,
+    2.3517
+   ],
+   "src": [
+    "https://af3v.org/les-voies-vertes/voies/26-voie-verte-du-canal-du-midi-carcassonne-trebes-v80",
+    "https://www.francevelotourisme.com/itineraire/le-canal-des-2-mers-a-velo/carcassonne-marseillette"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "carcalices",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the lices around the Cité from the Pont Vieux",
+   "desc": "A walking loop starts at the Pont Vieux, climbs rue Trivalle to the Porte Narbonnaise, then follows the lices between the two walls around the Cité. The full circuit takes about two hours.",
+   "tip": "A medieval camp can block part of the lices near the theatre in July and August.",
+   "q": "Pont Vieux, Rue Trivalle, Carcassonne",
+   "ll": [
+    43.20905,
+    2.36178
+   ],
+   "src": [
+    "https://www.visorando.com/randonnee-la-cite-medievale-de-carcassonne-de-pres/",
+    "https://sacavoyage.fr/visiter-carcassonne-circuit-a-pied-dans-la-cite-et-visite-remparts-carte/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "carcamarchecarnot",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Shop the Place Carnot market",
+   "desc": "The produce market fills Place Carnot in the Bastide Saint-Louis on Tuesday, Thursday and Saturday mornings. On Saturdays local and organic producers join, and there is a further market on boulevard Commandant Roumens.",
+   "tip": "Go before noon. Combine it with Les Halles and the Neptune fountain.",
+   "q": "Place Carnot, Carcassonne",
+   "ll": [
+    43.2128,
+    2.3503
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Carcassonne"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "carcafestival",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Catch a concert at the Festival de Carcassonne",
+   "desc": "The summer festival of opera, theatre, dance and concerts is centred on the Théâtre Jean-Deschamps in the Cité. A free fringe, the OFF, runs through July in the Bastide.",
+   "tip": "Dates and lineups change yearly; book through the official festival site. Popular concerts sell out.",
+   "q": "Théâtre Jean-Deschamps, Cité, Carcassonne",
+   "ll": [
+    43.20489,
+    2.36211
+   ],
+   "src": [
+    "https://www.tourisme-occitanie.com/agenda/temps-forts/festival-carcassonne",
+    "https://www.sortiraparis.com/en/getaways-from-paris/southwest/articles/50328-carcassonne-2026-festival-program-announcement"
+   ],
+   "tags": [],
+   "months": [
+    7
+   ]
+  },
+  {
+   "id": "carcaembrasement",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Watch the 14 July Embrasement de la Cité",
+   "desc": "Fireworks have been fired from the Cité's ramparts every 14 July since 1898, with the walls lit up. The 25-minute show by Ruggieri starts at 22:30 and drew around 700,000 spectators in 2024.",
+   "tip": "Free concerts run on Place Carnot before and after. Subject to prefectural approval each year; arrive early for a spot on the Pont Vieux or Pont Neuf.",
+   "q": "La Cité de Carcassonne, Carcassonne",
+   "ll": [
+    43.1918,
+    2.3686
+   ],
+   "src": [
+    "https://www.tourisme-occitanie.com/fr/fiche/fete-et-manifestation/embrasement-de-la-cite-de-carcassonne-carcassonne_TFOFMALAR0110013396",
+    "https://www.audetourisme.com/en/fiche/carcassonne/feu-d-artifice-et-embrasement-de-la-cite-du-14-juillet_TFOFMALAR011V51AM0O/"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    7
+   ]
+  },
+  {
+   "id": "carcamagienoel",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Skate and browse chalets at La Magie de Noël",
+   "desc": "From early December to early January, Place Carnot hosts wooden chalets, an ice rink and food stalls, with the Jardin Enchanté and rides nearby. Entry to the market is free.",
+   "tip": "The rink costs about 6 euros. Check the city's site for the 2026-27 dates.",
+   "q": "Place Carnot, Carcassonne",
+   "ll": [
+    43.2128,
+    2.3503
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Carcassonne"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    12,
+    1
+   ]
+  }
+ ]
+}

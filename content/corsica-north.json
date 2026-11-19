@@ -1,0 +1,864 @@
+{
+ "new": [
+  {
+   "id": "bastiacitadel",
+   "cat": "gor",
+   "area": "nord",
+   "title": "Climb into the citadel of Terra Nova, Bastia",
+   "desc": "The Genoese citadel of Terra Nova, built from the late 15th century, crowns a rock above the old harbour. Its Place du Donjon holds the Palais des Gouverneurs, home of the Musée de Bastia.",
+   "tip": "The ramparts are free to walk at any hour; the museum keeps set hours and is closed Sundays and Mondays in winter.",
+   "q": "Citadelle de Bastia, Place du Donjon, Terra Nova, Bastia",
+   "ll": [
+    42.69303,
+    9.45119
+   ],
+   "src": [
+    "https://www.visit-corsica.com/en/Mon-sejour/Patrimoine-culturel/Tout-le-patrimoine-culturel/LA-CITADELLE-DE-BASTIA"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bastiaoldport",
+   "cat": "gor",
+   "area": "nord",
+   "title": "Stroll the Vieux-Port of Bastia at golden hour",
+   "desc": "The Vieux-Port sits in a cove at the foot of Terra Vecchia, where fishermen settled from the 11th century and Genoa built a mole in the 16th. Pastel houses and the twin towers of Saint-Jean-Baptiste frame the quays.",
+   "tip": "The quays are free and level; the light is best in the evening, when the terraces fill.",
+   "q": "Vieux-Port de Bastia, Quai du Vieux-Port, Bastia",
+   "ll": [
+    42.69622,
+    9.45
+   ],
+   "src": [
+    "https://www.lonelyplanet.fr/poi/corse-bastiaetcapcorsecorsecg-terra-vecchia-et-vieux-port",
+    "https://ryo.co/en/destinations/france/places/bastia-s-old-port/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bastiastnicolas",
+   "cat": "gor",
+   "area": "nord",
+   "title": "Cross Place Saint-Nicolas to Napoleon's statue",
+   "desc": "This vast 19th-century square runs from the ferry port towards the old harbour and is the centre of daily life in Bastia. The marble statue of Napoleon I, erected in 1853, was originally intended for Livorno.",
+   "tip": "Come in the evening when locals stroll, or on Sunday morning for the cafe terraces.",
+   "q": "Place Saint-Nicolas, Bastia",
+   "ll": [
+    42.70067,
+    9.45093
+   ],
+   "src": [
+    "https://www.visit-corsica.com/Mon-sejour/Patrimoine-culturel/Tout-le-patrimoine-culturel/LA-PLACE-SAINT-NICOLAS",
+    "https://monumentum.fr/monument-historique/pa2b000012/bastia-monument-commemoratif-de-napoleon-ier"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bastiastjeanbaptiste",
+   "cat": "gor",
+   "area": "nord",
+   "title": "Step inside Saint-Jean-Baptiste, Corsica's largest church",
+   "desc": "Built between 1636 and 1666 on Terra Vecchia, the church has a baroque facade flanked by two bell towers added in the 19th century. Inside are 18th-century frescoes and an organ loft dated 1742.",
+   "tip": "Free entry; open mainly outside Mass times, and the best view of the twin towers is from the Vieux-Port.",
+   "q": "Église Saint-Jean-Baptiste, Rue Napoléon, Terra Vecchia, Bastia",
+   "ll": [
+    42.69699,
+    9.45029
+   ],
+   "src": [
+    "https://www.visit-corsica.com/en/Mon-sejour/Patrimoine-culturel/Tout-le-patrimoine-culturel/EGLISE-SAINT-JEAN-BAPTISTE2",
+    "https://www.waymarking.com/waymarks/WM14CEA_LARGEST_Church_in_Corsica_France"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bastiaoratoireimmaculee",
+   "cat": "gor",
+   "area": "nord",
+   "title": "Admire the gilded Oratoire de l'Immaculée-Conception",
+   "desc": "This brotherhood oratory dates from 1589 and is listed as a historic monument. Its sober facade hides an interior of gilding, marble and woodwork under a vaulted fresco of the Immaculate Conception.",
+   "tip": "Entry is free; visit in the morning when the doors are most often open.",
+   "q": "Oratoire de l'Immaculée-Conception, Rue Napoléon, Terra Vecchia, Bastia",
+   "ll": [
+    42.69746,
+    9.4499
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/128726/oratoire-de-limmaculée-conception-a-cuncezziò",
+    "https://corsicalovers.fr/en/oratory-immaculee-conception-bastia-visit/"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "erbalungavillage",
+   "cat": "gor",
+   "area": "nord",
+   "title": "Wander the harbour of Erbalunga and its Genoese tower",
+   "desc": "Erbalunga is a small fishing hamlet on Cap Corse's east coast, about 10 km north of Bastia, in the commune of Brando. Its main monument is a 16th-century Genoese tower on a rocky promontory beside the tiny harbour.",
+   "tip": "Park above the village and walk down; the lanes are flat but the tower promontory is steeper.",
+   "q": "Erbalunga, Brando",
+   "ll": [
+    42.7736,
+    9.47699
+   ],
+   "src": [
+    "https://corsicalovers.fr/en/village-erbalunga-corsica/",
+    "https://www.routard.com/fr/guide/france/corse/haute-corse/cap-corse/erbalunga"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "nonzatower",
+   "cat": "gor",
+   "area": "nord",
+   "title": "Look down on Nonza's black beach from Paoli's tower",
+   "desc": "Nonza clings to a cliff above the Gulf of Saint-Florent. Pascal Paoli had the square watchtower built in 1760, and from its terrace at about 165 m you look down on the dark pebble beach.",
+   "tip": "Arrive early for parking; the climb back up from the beach is steep and exposed at midday.",
+   "q": "Tour Paoli, Nonza",
+   "ll": [
+    42.7851,
+    9.3436
+   ],
+   "src": [
+    "https://www.fr.francethisway.com/nonza.php",
+    "https://www.bouger-voyager.com/visiter-nonza/"
+   ]
+  },
+  {
+   "id": "centuriport",
+   "cat": "gor",
+   "area": "nord",
+   "title": "Watch the lobster boats at the port of Centuri",
+   "desc": "Centuri is a tiny stone harbour at the north-west tip of Cap Corse, long known as a spiny lobster fishing port. Slate-roofed houses surround the quay.",
+   "tip": "Go in the late afternoon when the boats return; park above the port and walk down.",
+   "q": "Port de Centuri, Centuri",
+   "ll": [
+    42.96616,
+    9.35055
+   ],
+   "src": [
+    "https://www.lonelyplanet.fr/poi/centuri",
+    "https://www.sea-seek.com/en/Port-de-Centuri"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stflorentcitadel",
+   "cat": "gor",
+   "area": "nord",
+   "title": "Walk up to the Genoese citadel of Saint-Florent",
+   "desc": "Built in the 15th century on a promontory above the harbour, the citadel changed hands between Genoese, French and Anglo-Corsican forces. Two round towers and a square tower survive and it is listed as a historic monument.",
+   "tip": "Pair it with a stroll round the marina below; check opening times as access can vary.",
+   "q": "Citadelle de Saint-Florent, Route de la Citadelle, Saint-Florent",
+   "ll": [
+    42.6821,
+    9.3036
+   ],
+   "src": [
+    "https://monumentum.fr/monument-historique/pa00099278/saint-florent-citadelle",
+    "https://www.bouger-voyager.com/visiter-saint-florent/"
+   ]
+  },
+  {
+   "id": "nebbiocathedral",
+   "cat": "gor",
+   "area": "nord",
+   "title": "Visit the Pisan-Romanesque Cathédrale du Nebbio",
+   "desc": "Santa Maria Assunta, about 800 m from Saint-Florent, is a 12th-century church in Pisan Romanesque style that was the seat of the Bishop of Nebbio. It stands on the site traditionally linked to the Roman town of Nebium.",
+   "tip": "Mornings in summer are quietest; combine it with a Patrimonio wine stop.",
+   "q": "Cathédrale Sainte-Marie de Nebbio, Saint-Florent",
+   "ll": [
+    42.6799,
+    9.3109
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Cath%C3%A9drale_de_Nebbio"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "calvicitadel",
+   "cat": "gor",
+   "area": "nord",
+   "title": "Explore the Genoese citadel of Calvi",
+   "desc": "The Haute Ville of Calvi is a fortified citadel on a headland, with the former governors' palace and the Oratoire Saint-Antoine. Local tradition places the birthplace of Christopher Columbus here, though no historical proof exists.",
+   "tip": "Entry to the citadel is generally free; the audioguide route takes roughly 1h30 to 2h.",
+   "q": "Citadelle de Calvi, Place Christophe-Colomb, Calvi",
+   "ll": [
+    42.56836,
+    8.76068
+   ],
+   "src": [
+    "https://www.visit-corsica.com/fr/Mon-sejour/Patrimoine-culturel/Tout-le-patrimoine-culturel/LA-CITADELLE-DE-CALVI",
+    "https://france.fr/en/article/corsica-visit-christopher-columbus-house-calvi"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "pignavillage",
+   "cat": "gor",
+   "area": "nord",
+   "title": "Browse the artisan workshops of Pigna",
+   "desc": "Pigna is a pedestrian hilltop village in Balagne restored by artists and craftspeople, with potters, luthiers, painters and the Casa Musicale courtyard. It is one of only two Corsican villages with the Plus Beaux Villages de France label.",
+   "tip": "Visit in the morning when workshops are open; a museum of Corsican and Mediterranean instruments sits at the village entrance.",
+   "q": "Village de Pigna, Pigna",
+   "ll": [
+    42.59972,
+    8.90298
+   ],
+   "src": [
+    "https://www.lonelyplanet.fr/poi/le-village-de-pigna",
+    "https://corsicalovers.fr/village-pigna-balagne-corse/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "santantoninovillage",
+   "cat": "gor",
+   "area": "nord",
+   "title": "Climb Sant'Antonino, the eagle's nest of Balagne",
+   "desc": "Sant'Antonino sits on a rocky outcrop at about 490 m, with medieval alleys and a 360-degree view over Balagne. It dates to the 9th century and carries the Plus Beaux Villages de France label.",
+   "tip": "Park at the lower car park and walk up; go early or late to avoid tour groups.",
+   "q": "Village de Sant'Antonino, Sant'Antonino",
+   "ll": [
+    42.59,
+    8.9056
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Sant'Antonino_(Haute-Corse)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "cortecitadel",
+   "cat": "gor",
+   "area": "nord",
+   "title": "Tour the citadel and Musée de la Corse in Corte",
+   "desc": "The 18th-century citadel is built around a 15th-century castle, with the Nid d'Aigle perched on the rock. It houses the Musée de la Corse, opened in 1997, and a belvedere gives a 360-degree view of the Restonica and Tavignano valleys.",
+   "tip": "The belvedere is free; the museum charges a few euros and has many stairs.",
+   "q": "Citadelle de Corte, Musée de la Corse, Corte",
+   "ll": [
+    42.30666,
+    9.14813
+   ],
+   "src": [
+    "https://www.visit-corsica.com/fr/Mon-sejour/Patrimoine-culturel/Tout-le-patrimoine-culturel/MUSEE-DE-LA-CORSE",
+    "https://www.herodote.net/Citadelle_de_Corte-musee-39.php"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "aleriaroman",
+   "cat": "gor",
+   "area": "nord",
+   "title": "Walk the Roman and Greek ruins of Aléria",
+   "desc": "The ancient site of Aléria, beside the Fort de Matra, spans Etruscan, Greek and Roman periods. The departmental archaeology museum next door shows finds from the 5th century BC to the 5th century AD.",
+   "tip": "Check the museum hours as it is closed Sundays; the museum name was under review in 2025.",
+   "q": "Site archéologique d'Aléria, Fort de Matra, Aléria",
+   "ll": [
+    42.10254,
+    9.50975
+   ],
+   "src": [
+    "https://corsicalovers.fr/visiter-aleria-corse-ruines-romaines/",
+    "https://www.visit-corsica.com/de/layout/set/print/Carnet-de-voyage/ALERIA"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "morosagliapaoli",
+   "cat": "gor",
+   "area": "nord",
+   "title": "Visit Pasquale Paoli's birthplace museum in Stretta",
+   "desc": "The 18th-century house in Stretta, Morosaglia, is where Paoli was born and now a museum with portraits, flags, arms and maps. His ashes rest in the adjacent chapel and the site holds the Maisons des Illustres label.",
+   "tip": "Summer hours run roughly 9:00-12:00 and 14:30-19:00; shorter in winter, so check ahead.",
+   "q": "Musée Pascal Paoli, Stretta, Morosaglia",
+   "ll": [
+    42.43773,
+    9.30888
+   ],
+   "src": [
+    "https://monumentum.fr/musee-de-france/M0331/morosaglia-musee-pascal-paoli",
+    "https://www.visit-corsica.com/fr/Mon-sejour/Patrimoine-culturel/Tout-le-patrimoine-culturel/MUSEE-PASQUALE-PAOLI"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "laportachurch",
+   "cat": "gor",
+   "area": "nord",
+   "title": "Marvel at the baroque bell tower of La Porta",
+   "desc": "The church of Saint-Jean-Baptiste in La Porta, in the Castagniccia chestnut country, is one of Corsica's baroque masterpieces. Its detached campanile of about 45 m was begun in 1720 and the church was listed in 1975.",
+   "tip": "Park in the village and walk the stepped lanes; the surrounding chestnut hills are good for a drive.",
+   "q": "Église Saint-Jean-Baptiste, La Porta",
+   "ll": [
+    42.4233,
+    9.3528
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Église_Saint-Jean-Baptiste_de_La_Porta"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "moulinmattei",
+   "cat": "gor",
+   "area": "nord",
+   "title": "Hike to the Moulin Mattei above Cap Corse",
+   "desc": "The ruined windmill at the Col de la Serra, owned by the Conservatoire du Littoral since 2004, looks over both coasts. A short walk from the car park reaches a platform at about 365 m.",
+   "tip": "Allow about 10 minutes uphill from the car park; go at sunrise or sunset for the best light.",
+   "q": "Moulin Mattei, Col de la Serra, Ersa",
+   "ll": [
+    42.97459,
+    9.3648
+   ],
+   "src": [
+    "https://www.visit-corsica.com/en/Mon-sejour/Patrimoine-culturel/Tout-le-patrimoine-culturel/MOULIN-MATTEI"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "casta",
+   "cat": "ye",
+   "area": "nord",
+   "title": "Taste Patrimonio wines at Domaine Casta",
+   "desc": "Rémi and Marie Casta run an organic estate in the Patrimonio appellation, growing only native grapes: vermentino, niellucciu and sciaccarellu. The tour includes a vineyard walk and three AOP Patrimonio wines.",
+   "tip": "Book ahead (from about 18 euros per person); try the 100 percent niellucciu red.",
+   "q": "Domaine Casta, Casta, Santo-Pietro-di-Tenda",
+   "ll": [
+    42.66727,
+    9.21753
+   ],
+   "src": [
+    "https://www.winedering.com/fr/winery-domaine-casta_d6689"
+   ]
+  },
+  {
+   "id": "pietrabrewery",
+   "cat": "ye",
+   "area": "nord",
+   "title": "Try chestnut beer at the Brasserie Pietra",
+   "desc": "Brasserie Pietra in Furiani has brewed since 1996, famous for its amber beer made with Corsican chestnut flour. It celebrates 30 years in 2026.",
+   "tip": "Guided visits were listed only in July and August on weekdays; confirm by phone first.",
+   "q": "Brasserie Pietra, Route de la Marana, Furiani",
+   "ll": [
+    42.6542,
+    9.4421
+   ],
+   "src": [
+    "https://www.visit-corsica.com/en/Mon-sejour/Producteurs-et-degustation/Toutes-les-productions/BRASSERIE-PIETRA"
+   ]
+  },
+  {
+   "id": "matteibastia",
+   "cat": "ye",
+   "area": "nord",
+   "title": "Sip Cap Corse Mattei aperitif at its Bastia boutique",
+   "desc": "Cap Corse Mattei, created by Louis-Napoléon Mattei of Ersa in the 19th century, is a quinquina aperitif of Cap Corse mistelle, cinchona and local herbs. The boutique on Place Saint-Nicolas offers tastings and local products.",
+   "tip": "Ask to taste the Cap Corse Blanc or Rouge before buying.",
+   "q": "Cap Corse Mattei, Place Saint-Nicolas, Bastia",
+   "ll": [
+    42.70131,
+    9.45081
+   ],
+   "src": [
+    "https://www.visit-corsica.com/en/Mon-sejour/Producteurs-et-degustation/Toutes-les-productions/CONCEPT-STORE-MATTEI",
+    "https://www.france.fr/en/article/6-unmissable-experiences-between-bastia-and-cap-corse/"
+   ]
+  },
+  {
+   "id": "chezhuguette",
+   "cat": "ye",
+   "area": "nord",
+   "title": "Dine Mediterranean at Chez Huguette on the Vieux-Port",
+   "desc": "Chez Huguette sits on Bastia's Vieux-Port and is rated 12/20 by Gault&Millau in 2025 for its Mediterranean cooking.",
+   "tip": "Book a terrace table at sunset.",
+   "q": "Chez Huguette, Quai du Vieux-Port, Bastia",
+   "ll": [
+    42.69575,
+    9.44954
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/restaurants/restaurant-le-vieux-port-chez-huguette"
+   ]
+  },
+  {
+   "id": "upaisanu",
+   "cat": "ye",
+   "area": "nord",
+   "title": "Eat traditional Corsican dishes at U Paisanu",
+   "desc": "U Paisanu is listed by Gault&Millau in Bastia for Corsican, local and traditional cooking at around 30 euros.",
+   "tip": "Order the charcuterie and a brocciu dish; book in the evening.",
+   "q": "U Paisanu, Bastia",
+   "ll": [
+    42.69661,
+    9.45177
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/restaurant/u-paisanu"
+   ]
+  },
+  {
+   "id": "aubergepecheur",
+   "cat": "ye",
+   "area": "nord",
+   "title": "Eat the day's catch at the Auberge du Pêcheur",
+   "desc": "This Saint-Florent address is a fishmonger and restaurant in one, rated 12/20 by Gault&Millau. Reviewers praise the fresh catch and the inner courtyard.",
+   "tip": "Reach the dining room through the fish shop; reserve in summer.",
+   "q": "Auberge du Pêcheur, Route de Bastia, Saint-Florent",
+   "ll": [
+    42.68167,
+    9.30412
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/restaurants/auberge-du-pecheur",
+    "https://mapstr.com/place/H9G6XoXqYXg"
+   ]
+  },
+  {
+   "id": "marinuccia",
+   "cat": "ye",
+   "area": "nord",
+   "title": "Dine on the water at La Marinuccia, Saint-Florent",
+   "desc": "La Marinuccia has been open since 1979 with a terrace on the water at the marina, and is listed by Gault&Millau (11/20).",
+   "tip": "Ask for a table on the waterfront and order the fish of the day.",
+   "q": "La Marinuccia, Place de l'Ancienne Poste, Saint-Florent",
+   "ll": [
+    42.6818,
+    9.30025
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/2722690/restaurant-la-marinuccia",
+    "https://fr.gaultmillau.com/en/restaurant/la-marinuccia"
+   ]
+  },
+  {
+   "id": "langoustiercenturi",
+   "cat": "ye",
+   "area": "nord",
+   "title": "Order spiny lobster at Le Langoustier in Centuri",
+   "desc": "Le Langoustier sits on the port of Centuri, a harbour known for its spiny lobster, and serves lobster with views of the quay.",
+   "tip": "Menus were listed around 45 and 70 euros; book in summer.",
+   "q": "Le Langoustier, Le Port, Centuri",
+   "ll": [
+    42.96627,
+    9.34966
+   ],
+   "src": [
+    "https://www.koifaire.com/corse/le,langoustier-4447.html",
+    "https://mapstr.com/place/F4iYRRTiF9g"
+   ]
+  },
+  {
+   "id": "acasucciacorte",
+   "cat": "ye",
+   "area": "nord",
+   "title": "Finish with fiadone at A Casuccia in Corte",
+   "desc": "A Casuccia is a family restaurant in Corte serving Corsican specialities and pizza, with a terrace over the valley. Fiadone, the brocciu cheesecake, is the dessert to try.",
+   "tip": "Open from 1 March to 31 December; the menu is not online, so ask about fiadone.",
+   "q": "A Casuccia, Rue Monseigneur Casanova, Corte",
+   "ll": [
+    42.30516,
+    9.1499
+   ],
+   "src": [
+    "https://www.visit-corsica.com/de/Mon-sejour/Restaurants/Tous-les-restaurants/A-CASUCCIA",
+    "https://fr.gaultmillau.com/fr/news/ou-manger-le-meilleur-fiadone-en-corse"
+   ]
+  },
+  {
+   "id": "upassatempu",
+   "cat": "ye",
+   "area": "nord",
+   "title": "Taste brocciu cannelloni at U Passa Tempu, Corte",
+   "desc": "U Passa Tempu offers an 18 euro Corsican menu with a herb tart, brocciu cannelloni and fiadone, praised by diners.",
+   "tip": "Take the fixed menu.",
+   "q": "U Passa Tempu, Corte",
+   "ll": [
+    42.30644,
+    9.15012
+   ],
+   "src": [
+    "https://lacarte.menu/restaurants/corte/u-passa-tempu",
+    "https://fr.gaultmillau.com/fr/news/ou-manger-le-meilleur-fiadone-en-corse"
+   ]
+  },
+  {
+   "id": "ufornucalvi",
+   "cat": "ye",
+   "area": "nord",
+   "title": "Eat Corsican on the citadel steps at U Fornu, Calvi",
+   "desc": "U Fornu is a traditional Corsican restaurant on the steps of Calvi's citadel, listed in Gault&Millau 2025 at roughly 25 euros per person.",
+   "tip": "Reserve for a table on the stairs in summer.",
+   "q": "U Fornu, Haute Ville, Citadelle de Calvi, Calvi",
+   "ll": [
+    42.56653,
+    8.7566
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/restaurants/u-fornu"
+   ]
+  },
+  {
+   "id": "cafeplatanes",
+   "cat": "ye",
+   "area": "nord",
+   "title": "Have an ice cream at Café des Platanes, Place Paoli",
+   "desc": "The Café des Platanes is a well-known ice cream cafe on Place Paoli in L'Île-Rousse, under the plane trees near the beach.",
+   "tip": "Sit under the plane trees and watch the pétanque.",
+   "q": "Café des Platanes, Place Paoli, L'Île-Rousse",
+   "ll": [
+    42.6339,
+    8.9381
+   ],
+   "src": [
+    "https://www.visit-corsica.com/en/Mon-sejour/Restaurants/Tous-les-restaurants/CAFE-DES-PLATANES"
+   ]
+  },
+  {
+   "id": "pietracorbaradistillery",
+   "cat": "ye",
+   "area": "nord",
+   "title": "Taste chestnut and myrtle spirits at the Pietracorbara distillery",
+   "desc": "Opened in 2012 by Fabien Barone at A Murticcia, the distillery makes chestnut, myrtle and fig eaux-de-vie and aperitifs, with a shop on site.",
+   "tip": "Phone ahead as opening times are not published.",
+   "q": "Distillerie agricole de Pietracorbara, Murticcia, Marina de Pietracorbara",
+   "ll": [
+    42.84497,
+    9.44632
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/artisans/distillerie-de-pietracorbara"
+   ]
+  },
+  {
+   "id": "douanierscapcorse",
+   "cat": "dene",
+   "area": "nord",
+   "title": "Hike the Sentier des Douaniers from Macinaggio to Barcaggio",
+   "desc": "The northern leg of the Cap Corse customs path starts at the north end of Macinaggio's beach and takes about 3h to 3h30 to Barcaggio past Genoese towers and a nature reserve.",
+   "tip": "In season the U San Paulu boat links the two points; take water.",
+   "q": "Port de Macinaggio, Rogliano",
+   "ll": [
+    42.96511,
+    9.45085
+   ],
+   "src": [
+    "https://www.visorando.com/randonnee-sentier-des-douaniers-au-depart-du-port-/",
+    "https://www.visit-corsica.com/en/Mon-sejour/Itineraires/Tous-les-itineraires/SENTIER-DES-DOUANIERS"
+   ]
+  },
+  {
+   "id": "saleccia",
+   "cat": "dene",
+   "area": "nord",
+   "title": "Take the boat to Saleccia beach in the Agriates",
+   "desc": "Saleccia is a white-sand beach in the Désert des Agriates reached by boat from Saint-Florent in 20 to 30 minutes, or on foot from Lotu.",
+   "tip": "Rotations ran roughly hourly 9h-16h from about 18 euros return; book in high season.",
+   "q": "Plage de Saleccia, Désert des Agriates, Santo-Pietro-di-Tenda",
+   "ll": [
+    42.72674,
+    9.20555
+   ],
+   "src": [
+    "https://www.visit-corsica.com/en/Mon-sejour/Patrimoine-naturel/Tout-le-patrimoine-naturel/PLAGE-DE-SALECCIA",
+    "https://www.belambra.fr/guides/destinations/belgodere/excursion-bateau-desert-agriates-saint-florent"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "lotubeach",
+   "cat": "dene",
+   "area": "nord",
+   "title": "Walk the coast path from Lotu to Saleccia",
+   "desc": "Lotu is reached by boat from Saint-Florent; the coastal path to Saleccia then takes roughly one hour with little shade.",
+   "tip": "No bars or shops: bring food and water.",
+   "q": "Plage du Lotu, Désert des Agriates, Santo-Pietro-di-Tenda",
+   "ll": [
+    42.71989,
+    9.23317
+   ],
+   "src": [
+    "https://www.visorando.com/randonnee-plage-du-lotu-et-plage-saleccia-en-boucl/",
+    "https://www.horizonrando.fr/corse/plages-du-lotu-et-de-saleccia/"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "ostriconi",
+   "cat": "dene",
+   "area": "nord",
+   "title": "Swim at Ostriconi beach",
+   "desc": "Ostriconi is a beach at the edge of the Agriate desert, about 15 km from L'Île-Rousse, supervised in season. The Sentier des Douaniers starts at its far end.",
+   "tip": "Take water as the beach path has little shade; river crossing can be high after rain.",
+   "q": "Plage de l'Ostriconi, Palasca",
+   "ll": [
+    42.66241,
+    9.06103
+   ],
+   "src": [
+    "https://www.visit-corsica.com/en/Mon-sejour/Patrimoine-naturel/Tout-le-patrimoine-naturel/PLAGE-DE-L-OSTRICONI",
+    "https://www.bouger-voyager.com/plage-ostriconi-corse/"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "melolake",
+   "cat": "dene",
+   "area": "nord",
+   "title": "Hike from the Restonica to Lac de Melo",
+   "desc": "From Grotelle at the end of the D623, the trail rises about an hour to Lac de Melo at 1,711 m, which is frozen about six months a year. Lac de Capitello lies higher.",
+   "tip": "Paid car park at the trailhead; start early and bring boots.",
+   "q": "Lac de Melo, Restonica valley, Corte",
+   "ll": [
+    42.21306,
+    9.0225
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Lac_de_Melo"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "tavignanogorge",
+   "cat": "dene",
+   "area": "nord",
+   "title": "Walk the Tavignano gorge to the Russulinu footbridge",
+   "desc": "From Corte, the Mare a Mare Nord path follows the Tavignano to the Rossolino footbridge built in 2003, with natural pools before it.",
+   "tip": "Follow orange waymarks; carry water as one stream can dry in summer.",
+   "q": "Start of Gorges du Tavignano trail, near the Citadelle, Corte",
+   "ll": [
+    42.30865,
+    9.14659
+   ],
+   "src": [
+    "https://www.visorando.com/randonnee-passerelle-du-rossulinu/"
+   ]
+  },
+  {
+   "id": "calenzanagr20",
+   "cat": "dene",
+   "area": "nord",
+   "title": "Start the GR20 from Calenzana",
+   "desc": "Stage 1 climbs from Calenzana (310 m) to the Ortu di u Piobbu refuge at about 1,548 m in roughly 6h30 to 7h.",
+   "tip": "Check the refuge status, as a 2019 fire reportedly damaged it.",
+   "q": "Calenzana, départ du GR20, Calenzana",
+   "ll": [
+    42.50844,
+    8.85516
+   ],
+   "src": [
+    "https://www.horizonrando.fr/corse/gr20-etape-1/",
+    "https://le-gr20.fr/en/pages/between-calenzana-and-ortu-di-u-piobbu.html"
+   ]
+  },
+  {
+   "id": "cascadeanglais",
+   "cat": "dene",
+   "area": "nord",
+   "title": "Swim at the Cascade des Anglais near Vizzavona",
+   "desc": "A string of small falls and pools on the Agnone river between laricio pines and beeches, about an hour on foot from Vizzavona station.",
+   "tip": "Water stays about 13 to 15 degrees even in summer.",
+   "q": "Cascade des Anglais, Col de Vizzavona, Vivario",
+   "ll": [
+    42.1177,
+    9.10917
+   ],
+   "src": [
+    "https://www.visorando.com/randonnee-la-cascade-des-anglais/",
+    "https://www.horizonrando.fr/corse/cascade-des-anglais/"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "trinighellu",
+   "cat": "dene",
+   "area": "nord",
+   "title": "Ride U Trinighellu between Calvi and L'Île-Rousse",
+   "desc": "The Balagne line of the Chemins de Fer de la Corse runs along the coast, some stops directly on the beach, in 40 to 50 minutes.",
+   "tip": "Timetables change by season, with denser service in summer.",
+   "q": "Gare de Calvi, Calvi",
+   "ll": [
+    42.56481,
+    8.75595
+   ],
+   "src": [
+    "https://www.train-corse.com/web/en/network",
+    "https://en.balagne-corsica.com/to-see-to-do/nature-walks/the-train-in-corsica/"
+   ]
+  },
+  {
+   "id": "jazzincalvi",
+   "cat": "dene",
+   "area": "nord",
+   "title": "Catch Jazz in Calvi in the citadel",
+   "desc": "The Jazz in Calvi festival was scheduled for 23-26 June 2026 at venues in Calvi and Lumio, with tickets from about 15 euros.",
+   "tip": "Check jazzincalvi.net for the programme.",
+   "q": "Citadelle de Calvi, Calvi",
+   "ll": [
+    42.56836,
+    8.76068
+   ],
+   "src": [
+    "https://www.visit-corsica.com/fr/Mon-sejour/Manifestations/Toutes-les-manifestations/JAZZ-IN-CALVI-FESTIVAL"
+   ],
+   "months": [
+    6
+   ]
+  },
+  {
+   "id": "bastiamarket",
+   "cat": "dene",
+   "area": "nord",
+   "title": "Shop the Place du Marché market in Bastia",
+   "desc": "The Place du Marché has hosted market stalls since 1880, between Place Saint-Nicolas and the Vieux-Port, selling charcuterie, brocciu, canistrelli and honey.",
+   "tip": "Go on Saturday morning for the widest range; hours vary by source.",
+   "q": "Place du Marché, Bastia",
+   "ll": [
+    42.69712,
+    9.45089
+   ],
+   "src": [
+    "https://www.visit-corsica.com/fr/Mon-sejour/Manifestations/Toutes-les-manifestations/MARCHE-DE-BASTIA",
+    "https://www.waymarking.com/waymarks/WM14F70_La_Place_du_March_Bastia_France"
+   ]
+  },
+  {
+   "id": "ileroussemarket",
+   "cat": "dene",
+   "area": "nord",
+   "title": "Browse the covered market of L'Île-Rousse",
+   "desc": "The market hall of 1846, a listed building with 21 columns, sells Corsican products every morning north of Place Paoli.",
+   "tip": "Open about 8h to 13h daily.",
+   "q": "Marché couvert, Place Paoli, L'Île-Rousse",
+   "ll": [
+    42.634,
+    8.938
+   ],
+   "src": [
+    "https://www.corsenetinfos.corsica/Le-marche-couvert-de-L-Ile-Rousse-Une-institution_a22123.html",
+    "https://waymarking.com/waymarks/WM160B5_March_couvert_Ile_Rousse_France"
+   ]
+  },
+  {
+   "id": "senecatower",
+   "cat": "dene",
+   "area": "nord",
+   "title": "Walk to the Tour de Sénèque above Luri",
+   "desc": "A short climb from the Col de Santa Lucia reaches the medieval tower at about 564 m, tied by legend to Seneca's exile, with views to Italy.",
+   "tip": "About 15 minutes from the car park.",
+   "q": "Tour de Sénèque, Col de Santa Lucia, Luri",
+   "ll": [
+    42.9057,
+    9.3727
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Tour_de_S%C3%A9n%C3%A8que"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "occihike",
+   "cat": "dene",
+   "area": "nord",
+   "title": "Hike to the abandoned village of Occi above Lumio",
+   "desc": "A walk from Lumio to the ruined village of Occi at 377 m, with views over Balagne and up to Capu d'Occi.",
+   "tip": "Little shade; go early.",
+   "q": "Village d'Occi, Lumio",
+   "ll": [
+    42.5847,
+    8.83863
+   ],
+   "src": [
+    "https://www.waymarking.com/waymarks/WM15R8V_Village_abandonn_dOcci_Corse_France"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mortellahike",
+   "cat": "dene",
+   "area": "nord",
+   "title": "Hike to the Tour de la Mortella in the Agriates",
+   "desc": "The ruined Genoese tower on Cap Mortella is the only one still standing on the Agriates coast, built in 1563-64.",
+   "tip": "From April to September take the shuttle to Lotu then walk about 40 minutes.",
+   "q": "Tour de la Mortella, Saint-Florent",
+   "ll": [
+    42.715,
+    9.25694
+   ],
+   "src": [
+    "https://monumentum.fr/monument-historique/pa00099279/saint-florent-ruines-de-la-tour-de-la-mortella",
+    "https://www.guide-tourisme-france.com/VISITER/tour-mortella--saint-florent--38925.htm"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

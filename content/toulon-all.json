@@ -1,0 +1,1325 @@
+{
+ "new": [
+  {
+   "id": "toulonmarinemuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore the Musée national de la Marine in the arsenal",
+   "desc": "The museum has stood at the gate of the Toulon arsenal since 1814 and holds one of France's richest collections of ship models, figureheads and naval art. It tells the story of the Mediterranean fleet and the arsenal from Louis XIV to today.",
+   "tip": "Allow two hours. Closed in January, so check the calendar on musee-marine.fr before going.",
+   "q": "Musée national de la Marine, Place Monsenergue, Quai de Norfolk, Toulon",
+   "ll": [
+    43.12182,
+    5.92835
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/en/offers/the-national-naval-museum-toulon-en-2875606",
+    "https://www.ot-lelavandou.fr/en/visites-patrimoine-culture-lelavandou/musee-national-de-la-marine/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "toulontourroyale",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Tour Royale above the Toulon roadstead",
+   "desc": "The Tour Royale, nicknamed the Grosse Tour, is a Renaissance coastal tower at the entrance of the roadstead in Le Mourillon, later expanded by Vauban's engineers. Guided visits are offered on selected days in summer.",
+   "tip": "Guided tours run at 10:30 and 15:30 on Wednesdays, Saturdays and Sundays in summer for about 2 euros; check toulon.fr first.",
+   "q": "Tour Royale, Avenue de la Tour Royale, Le Mourillon, Toulon",
+   "ll": [
+    43.10276,
+    5.92579
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/que-faire/culture-et-patrimoine/lieux/la-tour-royale-toulon-fr-2873927/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "toulonfortsaintlouis",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stroll around Fort Saint-Louis at Mourillon",
+   "desc": "Fort Saint-Louis, formerly the Fort des Vignettes, was rebuilt in 1708 after the siege of Toulon in 1707. It guards the western end of the Mourillon beaches and the small Port Saint-Louis.",
+   "tip": "Free to walk around the grounds. The fort is lit up for the 15 August fireworks, one of Toulon's best-loved shows.",
+   "q": "Fort Saint-Louis, Littoral Frédéric Mistral, Le Mourillon, Toulon",
+   "ll": [
+    43.10686,
+    5.9388
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/en/things-to-do/culture-and-heritage/places/fort-saint-louis-toulon-en-2886248/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "toulonthreedolphins",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find the Trois Dauphins fountain on Place Puget",
+   "desc": "The Fontaine des Trois-Dauphins, installed in 1782 on Place Puget, shows three stone dolphins with entwined tails on a shell. It stands on the site of the former grain hall and is the best known of Toulon's many fountains, which earned the city its 'ville des fontaines' nickname.",
+   "tip": "Combine it with a coffee on the plane-shaded terraces of Place Puget in the old town. Free, open at all times.",
+   "q": "Fontaine des Trois Dauphins, Place Puget, Toulon",
+   "ll": [
+    43.12335,
+    5.9329
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/en/things-to-do/culture-and-heritage/places/place-puget-toulon-en-5003207/",
+    "https://provence-alpes-cotedazur.com/en/things-to-do/culture-and-heritage/places/fountain-of-the-three-dolphins-toulon-en-5018911"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "toulonsainteseds",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step inside Toulon's Cathédrale Sainte-Marie-de-la-Seds",
+   "desc": "The cathedral of the Fréjus-Toulon diocese mixes a Romanesque core with a large classical extension from the 17th century. It is a listed historic monument and stands in the old town near the harbour.",
+   "tip": "Visit in the morning, then walk to the nearby Cours Lafayette market.",
+   "q": "Cathédrale Sainte-Marie-de-la-Seds, Place de la Cathédrale, Toulon",
+   "ll": [
+    43.12169,
+    5.93403
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Toulon_Cathedral",
+    "https://monumentum.fr/monument-historique/pa00081749/toulon-cathedrale-sainte-marie-de-la-seds"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "toulonfaronmemorial",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Learn about the 1944 landing at the Mont Faron memorial",
+   "desc": "Housed in the 1845 Tour Beaumont at the summit of Mont Faron, the memorial was inaugurated by General de Gaulle in 1964. Its 600 square metre exhibition and a 17-metre screen retrace the Allied landings of 15 August 1944 and the liberation of Provence.",
+   "tip": "Reach it by the cable car or by the Faron road. Opening calendar varies, so check before you go.",
+   "q": "Mémorial du Mont Faron, Route du Faron, Toulon",
+   "ll": [
+    43.16236,
+    5.93928
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Mémorial_du_débarquement_en_Provence",
+    "https://fr.wikipedia.org/wiki/Mont_Faron"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "toulonmat",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See ancient to contemporary art at the Musée d'Art de Toulon",
+   "desc": "The MAT holds the Musée de France label and was fully renovated in 2021. Its collections run from old masters and a cabinet of curiosities to graphic arts and contemporary works.",
+   "tip": "Admission has been free in recent seasons; hours are around 12:00 to 18:00, so check toulon.fr.",
+   "q": "Musée d'Art de Toulon, 113 Boulevard du Général Leclerc, Toulon",
+   "ll": [
+    43.1263,
+    5.92721
+   ],
+   "src": [
+    "https://pop.culture.gouv.fr/notice/museo/M0943",
+    "https://www.ot-lelavandou.fr/visites-patrimoine-culture-lelavandou/mat-musee-dart-de-toulon"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "laseynevillatamaris",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit an exhibition at Villa Tamaris on the La Seyne seafront",
+   "desc": "Villa Tamaris is a contemporary art centre run by the Toulon Provence Méditerranée metropolis, in a villa with over 1,700 square metres of exhibition space and gardens by the sea. It stages photography and art shows throughout the year.",
+   "tip": "Open afternoons except Mondays and holidays; the Jean Gaumy show runs to 17 January 2027. Check villatamaris.fr.",
+   "q": "Villa Tamaris Centre d'Art, 295 Avenue de la Grande Maison, La Seyne-sur-Mer",
+   "ll": [
+    43.09373,
+    5.89948
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/en/things-to-do/culture-and-heritage/places/villa-tamaris-art-center-la-seyne-sur-mer-en-4402071"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "laseynebalaguier",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Discover the convicts' story at Fort Balaguier",
+   "desc": "Fort Balaguier was built in 1636 to defend the Toulon roadstead and is said to have been taken back from the English in 1793 by a young Bonaparte. Since 1970 it has housed a naval museum on local maritime history and the Toulon bagne, the convict prison.",
+   "tip": "Entry is about 3 euros. Hours vary by season, so check with the museum.",
+   "q": "Musée Balaguier, 924 Corniche Bonaparte, La Seyne-sur-Mer",
+   "ll": [
+    43.09439,
+    5.91098
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/en/things-to-do/culture-and-heritage/places/musee-balaguier-la-seyne-sur-mer-en-2885465/",
+    "https://www.cheminsdememoire.gouv.fr/en/balaguier-fort"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "thoronetabbey",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk through the Cistercian Abbaye du Thoronet",
+   "desc": "Built between 1160 and 1230, Le Thoronet is one of the three Cistercian sisters of Provence with Silvacane and Sénanque. Its bare Romanesque church, cloister and chapter house are prized for their stonework and acoustics. The monks left in 1791.",
+   "tip": "April to September it opens 10:00 to 18:30. Take the guided visit or audioguide and listen for the chants in the church.",
+   "q": "Abbaye du Thoronet, Le Thoronet",
+   "ll": [
+    43.46055,
+    6.26366
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/que-faire/culture-et-patrimoine/lieux/abbaye-du-thoronet-le-thoronet-fr-2882383/",
+    "https://www.culture.gouv.fr/en/rechercher-une-publication-du-ministere-de-la-culture/repertoire-des-informations-publiques/Monuments-nationaux/abbaye-du-thoronet"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "chartreuselaverne",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Find silence at the Chartreuse de la Verne",
+   "desc": "A Carthusian monastery hidden in the Maures massif above Collobrières, the Verne is built from local green serpentine stone. It can be visited on your own with a booklet.",
+   "tip": "Access to the Maures is closed in high fire-risk summer periods; check with the Collobrières tourist office. Shop closed on Sundays.",
+   "q": "Chartreuse de la Verne, Collobrières",
+   "ll": [
+    43.23569,
+    6.40109
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/que-faire/culture-et-patrimoine/monuments/chartreuse-verne/",
+    "https://www.ot-lelavandou.fr/uk/visites-patrimoine-culture-lelavandou/chartreuse-de-la-verne/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "stmaximinbasilica",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Admire the Isnard organ in the Saint-Maximin basilica",
+   "desc": "The Gothic basilica of Sainte-Marie-Madeleine holds the relics of Mary Magdalene, according to tradition. Its Grand Orgue, completed in 1774 by the Isnard brothers, is one of France's most celebrated 18th-century organs.",
+   "tip": "Time your visit for the August organ festival (Harmonies d'Orgue) if you can.",
+   "q": "Basilique Sainte-Marie-Madeleine, Place de l'Hôtel de Ville, Saint-Maximin-la-Sainte-Baume",
+   "ll": [
+    43.45268,
+    5.86376
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/que-faire/culture-et-patrimoine/lieux/basilique-sainte-marie-madeleine-saint-maximin-la-sainte-baume-fr-2865701/",
+    "https://fr.aleteia.org/2016/02/06/la-merveille-provencale-le-grand-orgue-de-la-basilique-saint-maximin-la-sainte-baume/"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "frejusarenes",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the Roman amphitheatre of Fréjus",
+   "desc": "Built in the 1st century AD, the Arènes de Fréjus seated up to 10,000 spectators for gladiator fights and hunts. It is one of the oldest amphitheatres in Gaul and now hosts concerts.",
+   "tip": "The Fréjus Pass covers four Roman and medieval sites for about 6 euros. Check the opening hours, which change seasonally.",
+   "q": "Arènes de Fréjus, Rue Henri Vadon, Fréjus",
+   "ll": [
+    43.43481,
+    6.72745
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ar%C3%A8nes_de_Fr%C3%A9jus",
+    "https://provence-alpes-cotedazur.com/en/things-to-do/culture-and-heritage/places/amphitheatre-romain-ou-arenes-frejus-en-4709284/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "frejusepiscopal",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the baptistery and cloister of Fréjus cathedral",
+   "desc": "Fréjus's episcopal group, classified in 1908, groups a cathedral, an early Christian octagonal baptistery from around the 5th century and a Romanesque cloister with painted wooden ceiling panels. The see dates to the 4th century.",
+   "tip": "The cloister and baptistery need a ticket (about 7 euros); the cathedral nave is free.",
+   "q": "Cité épiscopale, 58 Rue de Fleury, Fréjus",
+   "ll": [
+    43.43297,
+    6.73688
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Cité_épiscopale_de_Fréjus"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "sainttropezannonciade",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Signac and Matisse at the Musée de l'Annonciade",
+   "desc": "A former 16th-century chapel by the port houses a modern art collection of Pointillist, Nabis and Fauve paintings. Paul Signac's visit in 1892 started Saint-Tropez's link to avant-garde painting.",
+   "tip": "Closed Mondays; hours are around 10:00 to 13:00 and 14:00 to 18:00. Go on a rainy day.",
+   "q": "Musée de l'Annonciade, Place Georges Grammont, Saint-Tropez",
+   "ll": [
+    43.27109,
+    6.63706
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/en/offers/musee-de-lannonciade-saint-tropez-en-2885388",
+    "https://www.sainttropeztourisme.com/en/explore/museums-remarkable-places/annonciade-museum/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hyeresnoailles",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the cubist garden of Villa Noailles in Hyères",
+   "desc": "The villa was built 1924 to 1930 for Charles de Noailles by Robert Mallet-Stevens. Its park, Parc Saint-Bernard, is a listed garden with a cubist garden by Gabriel Guévrékian and views over the Îles d'Or.",
+   "tip": "The park is free and opens daily from 8:00 until 17:30 (19:00 in summer).",
+   "q": "Parc Saint-Bernard, Montée de Noailles, Hyères",
+   "ll": [
+    43.12306,
+    6.12868
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/en/things-to-do/culture-and-heritage/places/saint-bernard-park-hyeres-en-2873512/",
+    "https://www.Wikipedia.com/wiki/Villa_Noailles"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hyeresoldtown",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb through Hyères old town to the Tour des Templiers",
+   "desc": "Place Massillon is the hub of Hyères's medieval old town, with the 12th-century Tour des Templiers, the last remnant of the Templar commandery. Lanes climb from there to the Collégiale Saint-Paul and the Porte Saint-Paul.",
+   "tip": "Start at Place Massillon and follow the lanes uphill; the tower's hours vary by season and it closes on Sundays.",
+   "q": "Tour des Templiers, Place Massillon, Hyères",
+   "ll": [
+    43.12036,
+    6.12842
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/que-faire/culture-et-patrimoine/lieux/tour-des-templiers-hyeres-fr-2883050/",
+    "https://www.frequence-sud.fr/m/artamp-41147-hyeres__decouverte_de_la_vieille_ville_hyeres"
+   ],
+   "tags": []
+  },
+  {
+   "id": "portgrimaudcity",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander the canals of Port Grimaud",
+   "desc": "Port Grimaud is a lakeside town designed by architect François Spoerry, often called the Venice of France. The church of Saint-François d'Assise has Vasarely stained glass and Spoerry is buried there.",
+   "tip": "Go early or late in July and August; parking is paid from April to September. Markets on Thursdays and Sundays.",
+   "q": "Cité lacustre de Port Grimaud, Grimaud",
+   "ll": [
+    43.27222,
+    6.58028
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Port_Grimaud"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "grimaudchateau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb to the ruined castle of Grimaud",
+   "desc": "The castle ruins, dating from at least the 11th century, dominate the village of Grimaud and look over the Gulf of Saint-Tropez and the Maures hills. The Grimaldines concerts take place there on summer evenings.",
+   "tip": "Free and open every day; the lanes are steep with steps. Come at sunset.",
+   "q": "Château de Grimaud, Grimaud",
+   "ll": [
+    43.27385,
+    6.5209
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/que-faire/culture-et-patrimoine/lieux/chateau-de-grimaud-grimaud-fr-2887008/",
+    "https://cotedazurfrance.com/offers/grimaud-castle-grimaud-en-3001921/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "rayolgarden",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the Jardin des Méditerranées at Le Rayol",
+   "desc": "The Domaine du Rayol is a 20-hectare coastal garden owned by the Conservatoire du littoral, designed with Gilles Clément. Its planting recreates Mediterranean-climate regions of the world, with around 40 mimosa species flowering in winter.",
+   "tip": "Open every day except 25 December; count at least 1h30 for the 5 km of paths. Tea at the Café des Jardiniers.",
+   "q": "Domaine du Rayol, Avenue des Belges, Rayol-Canadel-sur-Mer",
+   "ll": [
+    43.15434,
+    6.4843
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/en/things-to-do/culture-and-heritage/places/domaine-du-rayol-le-jardin-des-mediterranees-rayol-canadel-sur-mer-en-2878493",
+    "https://cotedazurfrance.fr/offres/domaine-du-rayol-le-jardin-des-mediterranees-rayol-canadel-sur-mer-fr-6192535/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "cornichesublime",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Drive the Corniche Sublime above the Verdon gorge",
+   "desc": "The left-bank road of the Verdon gorge starts at Aiguines and follows the cliff edge on the D71 toward Comps-sur-Artuby. It passes the Tunnel du Fayet, the Pont de l'Artuby and the Balcons de la Mescla viewpoint.",
+   "tip": "Allow one to two hours with stops. Some guides say it is best driven from Trigance toward Aiguines to face the viewpoints.",
+   "q": "Corniche Sublime, D71, Aiguines",
+   "ll": [
+    43.7627,
+    6.2257
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/en/things-to-do/routes-and-walks/verdon-gorges-left-bank-the-corniche-sublime-aiguines-en-3981884/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "cotignacrocher",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look up at the tuff cliff of Cotignac",
+   "desc": "Cotignac, a Plus Beau Village de France, sits below an 80-metre tuff cliff riddled with troglodyte dwellings. The Notre-Dame-de-Grâces sanctuary on Mont Verdaille commemorates a vision of 1519.",
+   "tip": "Troglodyte dwellings can be visited on a self-guided route from April to October for a small fee.",
+   "q": "Le Rocher, Cotignac",
+   "ll": [
+    43.52966,
+    6.14855
+   ],
+   "src": [
+    "https://la-provence-verte.net/decouvrir/cotignac.php",
+    "https://www.les-plus-beaux-villages-de-france.org/en/our-villages/cotignac/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "tourtourvillage",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Enjoy the village in the sky at Tourtour",
+   "desc": "Tourtour sits at about 635 metres and is nicknamed the village in the sky of Provence. From its belvedere you can see Mont Sainte-Victoire, the Maures and the Estérel on clear days.",
+   "tip": "The municipal belvedere is the best viewpoint. Reach it by the winding road from Aups.",
+   "q": "Village de Tourtour, Tourtour",
+   "ll": [
+    43.59028,
+    6.30306
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Tourtour"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bormesvillage",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb Bormes-les-Mimosas to the old castle",
+   "desc": "The medieval village was founded in the 12th century and sits at about 145 metres. The Seigneurs de Fos castle at the top dates from the 13th and 14th centuries and has views over the sea and the hills; the steep Rue Rompi-Cuou descends to the 16th-century lower village.",
+   "tip": "The castle interior is private, but the grounds are open. Come in February for the mimosa blossom.",
+   "q": "Village de Bormes-les-Mimosas, Bormes-les-Mimosas",
+   "ll": [
+    43.1525,
+    6.34389
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Bormes-les-Mimosas"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "castelletvillage",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the walled village of Le Castellet",
+   "desc": "Le Castellet is a Plus Beau Village de France, entered through two fortified gates. Its château esplanade looks over the Sainte-Baume massif and the Bandol vineyards.",
+   "tip": "Half a day is plenty; guided tours of the village run in the winter months from the Espace Touristique.",
+   "q": "Château du Castellet, Le Castellet",
+   "ll": [
+    43.18351,
+    5.77284
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/que-faire/culture-et-patrimoine/lieux/le-castellet-classe-plus-beaux-villages-de-france-le-castellet-fr-6067642/",
+    "https://provence-alpes-cotedazur.com/que-faire/culture-et-patrimoine/lieux/chateau-le-castellet-fr-3663530/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "paillasmills",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look over Pampelonne from the Moulins de Paillas",
+   "desc": "The Paillas windmills stand on the road between Gassin and Ramatuelle, with a panorama of Pampelonne bay and the Maures massif. One mill tower was restored to working order in 2002.",
+   "tip": "Combine with Gassin's orientation table; visits to the mills go through the Ramatuelle tourist office.",
+   "q": "Moulins de Paillas, Route des Moulins de Paillas, Ramatuelle",
+   "ll": [
+    43.21562,
+    6.60265
+   ],
+   "src": [
+    "https://www.visorando.com/en/walk-les-moulins-de-paillas-a-ramatuelle/",
+    "https://provence-guide.net/sites/ramatuelle_moulins-de-paillas?lang=en"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "toulondedecade",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat a hot cade at La Cade à Dédé",
+   "desc": "Cade, a chickpea-flour flatbread close to Nice's socca, is Toulon's street snack. La Cade à Dédé has run two carts since 1989 on the Cours Lafayette and Mourillon markets.",
+   "tip": "Eat it hot with black pepper. Go during market hours, Tuesday to Sunday mornings on Cours Lafayette.",
+   "q": "La Cade à Dédé, Marché du Cours Lafayette, Toulon",
+   "ll": [
+    43.12432,
+    5.93055
+   ],
+   "src": [
+    "https://www.visitvar.com/fiche/the-dede-cade-4766563"
+   ],
+   "tags": []
+  },
+  {
+   "id": "toulonfabriquecade",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try the wood-oven cade at La Fabrique de Cade",
+   "desc": "La Fabrique de Cade is a producer stall with a wood-fired oven, focused on a single product: the traditional Toulon chickpea cade. It is listed by Gault&Millau as an artisan.",
+   "tip": "Stall on the Cours Lafayette market, open Tuesday to Sunday; a second branch is in Ollioules.",
+   "q": "La Fabrique de Cade, Cours Lafayette, Toulon",
+   "ll": [
+    43.12046,
+    5.93433
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/restaurants/la-fabrique-de-cade",
+    "https://provence-alpes-cotedazur.com/que-faire/vin-et-gastronomie/toutes-les-activites-vin-et-gastronomie/la-fabrique-de-cade-toulon-fr-5902133/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "toulonausourd",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order the bouillabaisse at Au Sourd",
+   "desc": "Au Sourd is a Toulon institution founded in 1862 by an artilleryman of Napoleon III. Michelin notes bouillabaisse and bourride made to order and a menu that follows the day's catch.",
+   "tip": "Open Wednesday to Saturday for lunch and dinner; book ahead and order bouillabaisse in advance.",
+   "q": "Au Sourd, 10 Rue Molière, Toulon",
+   "ll": [
+    43.1234,
+    5.928
+   ],
+   "src": [
+    "https://guide.michelin.com/en/provence-alpes-cote-dazur/toulon/restaurant/au-sourd"
+   ],
+   "tags": []
+  },
+  {
+   "id": "toulonsaintgabriel",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste the octopus at Le Saint Gabriel",
+   "desc": "Le Saint Gabriel is a historic Toulon harbour restaurant, taken over by chef Romain Janin in January 2024 and listed by Michelin as a Bib Gourmand for its bistro cooking. Seafood and octopus are favourites.",
+   "tip": "About 40 seats, closed Sundays; book two days ahead.",
+   "q": "Le Saint Gabriel, 334 Avenue de la République, Toulon",
+   "ll": [
+    43.11974,
+    5.9327
+   ],
+   "src": [
+    "https://guide.michelin.com/en/provence-alpes-cote-dazur/toulon/restaurant/le-saint-gabriel"
+   ],
+   "tags": []
+  },
+  {
+   "id": "toulonescale",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine by the water at L'Escale, Anse Méjean",
+   "desc": "L'Escale is the best-known restaurant in the Anse Méjean cove at Cap Brun, next to fishermen's huts and a few pointus. It sits right on the sea at the end of the customs path.",
+   "tip": "Closed from late October to late March; park near the Batterie Basse and walk.",
+   "q": "L'Escale, 4 Sentier des Douaniers, Anse Méjean, Toulon",
+   "ll": [
+    43.10584,
+    5.9715
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/en/plan-your-stay/restaurants/all-restaurants/lescale-toulon-en-2871048"
+   ],
+   "tags": []
+  },
+  {
+   "id": "sainttropeztarte",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste the original Tarte Tropézienne on Place des Lices",
+   "desc": "Alexandre Micka created the Tarte Tropézienne in 1955, and it became famous when Brigitte Bardot was in town filming And God Created Woman. The flagship bakery on Place des Lices bears the name.",
+   "tip": "Buy a slice at the bakery on the ground floor; there is a restaurant upstairs.",
+   "q": "La Tarte Tropézienne, Place des Lices, Saint-Tropez",
+   "ll": [
+    43.26982,
+    6.63977
+   ],
+   "src": [
+    "https://www.latartetropezienne.fr/en/content/10-notre-histoire",
+    "https://fr.gaultmillau.com/fr/artisans/la-tarte-tropezienne-place-des-lices"
+   ],
+   "tags": []
+  },
+  {
+   "id": "collobrieresmarrons",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste marrons glacés at Confiserie Azuréenne",
+   "desc": "The Confiserie Azuréenne in Collobrières, chestnut capital of the Maures, has a free museum on chestnut confectionery at the end of the 12th-century dry-stone bridge. Visits end with a tasting, including chestnut ice cream.",
+   "tip": "Try the chestnut ice cream on the shaded terrace. Hours vary, so call 04 94 48 07 20.",
+   "q": "Confiserie Azuréenne, Boulevard Koenig, Collobrières",
+   "ll": [
+    43.23897,
+    6.30876
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/que-faire/vin-et-gastronomie/toutes-les-activites-vin-et-gastronomie/la-confiserie-azureenne-collobrieres-fr-2882166/",
+    "https://fr.gaultmillau.com/fr/artisans/confiserie-azureenne"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bandoltempier",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Visit Domaine Tempier, the Bandol Mourvèdre reference",
+   "desc": "Domaine Tempier at Le Plan du Castellet has made Bandol since the 1830s, with vines across Le Castellet, Le Beausset and La Cadière. Its rosé and Mourvèdre-based reds La Tourtine and Cabassaou are among the appellation's best known.",
+   "tip": "Visits are by appointment: ask via the domaine's website before travelling.",
+   "q": "Domaine Tempier, Le Plan du Castellet",
+   "ll": [
+    43.18351,
+    5.77284
+   ],
+   "src": [
+    "https://www.bandoltourisme.fr/en/producer/tempier-domain/",
+    "https://provence-alpes-cotedazur.com/en/things-to-do/wine-and-gastronomy/all-wine-and-gastronomy-activities/wine-domain-tempier-le-castellet-en-2887846"
+   ],
+   "tags": []
+  },
+  {
+   "id": "bandolpibarnon",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Bandol red at Château de Pibarnon",
+   "desc": "Château de Pibarnon at La Cadière-d'Azur was started by the Saint-Victor family in 1978 and is certified organic since 2019. Its red is about 90 percent Mourvèdre, grown on limestone slopes up to around 300 metres.",
+   "tip": "Tastings on site; call +33 4 94 90 12 73 to book.",
+   "q": "Château de Pibarnon, 410 Chemin de la Croix des Signaux, La Cadière-d'Azur",
+   "ll": [
+    43.17558,
+    5.75089
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/en/things-to-do/wine-and-gastronomy/all-wine-and-gastronomy-activities/chateau-de-pibarnon-la-cadiere-dazur-en-2872975/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "sainttropezsenequier",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Sit on the red terrace at Sénéquier",
+   "desc": "Sénéquier on the Vieux Port began as a confectioner known for soft nougat and is dated to 1887 by most sources. Its red-chaired terrace has been a meeting place of the Saint-Tropez crowd since Brigitte Bardot and Françoise Sagan.",
+   "tip": "Come for a coffee and the harbour view rather than a meal; open about 7:00 to 2:00.",
+   "q": "Sénéquier, 29 Quai Jean Jaurès, Saint-Tropez",
+   "ll": [
+    43.27221,
+    6.63912
+   ],
+   "src": [
+    "https://www.sainttropeztourisme.com/fr/fiche/chez-senequier-4843750/",
+    "https://provence-alpes-cotedazur.com/en/plan-your-stay/restaurants/all-restaurants/chez-senequier-saint-tropez-en-2859516"
+   ],
+   "tags": []
+  },
+  {
+   "id": "pampelonneclub55",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Lunch at Club 55 on Pampelonne beach",
+   "desc": "Club 55 started in 1955 as a canteen for the crew of the Bardot film And God Created Woman and became a beach institution. It uses organic wine, olive oil and vegetables from its own Domaine des Bouis.",
+   "tip": "Open April to early November; booking well ahead is essential in summer.",
+   "q": "Club 55, Boulevard Patch, Plage de Pampelonne, Ramatuelle",
+   "ll": [
+    43.22789,
+    6.66219
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/en/plan-your-stay/restaurants/all-restaurants/club-55-ramatuelle-en-2872172/",
+    "https://www.sainttropeztourisme.com/en/time-out/beach-restaurants/pampelonne-beaches/le-club-55/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "gassinminuty",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Prestige rosé at Château Minuty in Gassin",
+   "desc": "Château Minuty at Gassin makes the Prestige Côtes de Provence rosé, a pale blend with apricot and citrus notes and a slightly salty finish. The estate offers tastings on site and a wine bar.",
+   "tip": "Tastings can be by appointment; check opening times before you go.",
+   "q": "Château Minuty, 2491 Route de la Berle, Gassin",
+   "ll": [
+    43.24161,
+    6.59223
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/que-faire/vin-et-gastronomie/toutes-les-activites-vin-et-gastronomie/chateau-minuty-gassin-fr-2878659/",
+    "https://www.hachette-vins.com/guide-vins/producteurs/5006/ch-minuty/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "cotignacnestuby",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste rosé at Château Nestuby in Cotignac",
+   "desc": "Château Nestuby is a family estate in Cotignac producing AOP Côtes de Provence in red, rosé and white, plus a traditional-method sparkling rosé called Bulle de Rosé. A discovery visit includes a cellar tour and a three-wine tasting.",
+   "tip": "The discovery visit costs about 5 euros; cellar visits are by reservation, closed Sundays in season.",
+   "q": "Château Nestuby, Route de Montfort, Cotignac",
+   "ll": [
+    43.50374,
+    6.1376
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/que-faire/vin-et-gastronomie/toutes-les-activites-vin-et-gastronomie/chateau-nestuby-cotignac-fr-2863619/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "sanarylatour",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order bourride at Restaurant de la Tour in Sanary",
+   "desc": "Restaurant de la Tour on the port of Sanary is a semi-gastronomic address whose specialities include fish baked in a salt crust, bourride and bouillabaisse. It looks over the harbour.",
+   "tip": "Book a table on the quay in the evening. Combine with the Wednesday port market.",
+   "q": "Restaurant de la Tour, Quai Charles de Gaulle, Sanary-sur-Mer",
+   "ll": [
+    43.1184,
+    5.801
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/sejourner/restaurants/tous-les-restaurants/restaurant-de-la-tour-sanary-sur-mer-fr-2866387/",
+    "https://www.sanary-tourisme.com/en/im-here/restaurants/4668228_la-tour-restaurant/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "lavandoutamaris",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat fish at Les Tamaris – Chez Raymond in Le Lavandou",
+   "desc": "Les Tamaris – Chez Raymond is a seafront restaurant in Le Lavandou listed with the Michelin Plate, with fish among its specialities. It sits on the Boulevard de la Baleine.",
+   "tip": "Check seasonal opening and book for dinner in summer.",
+   "q": "Les Tamaris Chez Raymond, 4 Boulevard de la Baleine, Le Lavandou",
+   "ll": [
+    43.14328,
+    6.38242
+   ],
+   "src": [
+    "https://www.ot-lelavandou.fr/es/restaurants-lelavandou/les-tamaris-chez-raymond/",
+    "https://www.enprimeurclub.com/restaurants/les-tamaris-chez-raymond-le-lavandou-restaurant"
+   ],
+   "tags": []
+  },
+  {
+   "id": "cotignacoliveoil",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste olive oil at Les Flaveurs du Rocher in Cotignac",
+   "desc": "Les Flaveurs du Rocher is an organic olive oil producer in Cotignac. A visit covers olive growing and a tasting of the different fruity oils in its shop.",
+   "tip": "Open daily April to September, 9:00 to 13:00 and 15:00 to 19:00; fewer days from October to March.",
+   "q": "Les Flaveurs du Rocher, 3 Rue Antoine, Cotignac",
+   "ll": [
+    43.52688,
+    6.15044
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/en/things-to-do/wine-and-gastronomy/all-wine-and-gastronomy-activities/les-flaveurs-du-rocher-cotignac-en-3556349"
+   ],
+   "tags": []
+  },
+  {
+   "id": "bandolaubergeport",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try bouillabaisse at L'Auberge du Port in Bandol",
+   "desc": "L'Auberge du Port is a harbour restaurant in Bandol that centres on seafood, including bouillabaisse, grilled fish and shellfish platters. The Bandol tourist office includes it in its 2026 selection.",
+   "tip": "Pair with a glass of Bandol white or rosé; book for weekend lunch.",
+   "q": "L'Auberge du Port, 9 Allée Jean Moulin, Bandol",
+   "ll": [
+    43.1353,
+    5.7529
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/en/plan-your-stay/restaurants/all-restaurants/lauberge-du-port-bandol-en-2882557",
+    "https://www.bandoltourisme.fr/en/2026/01/05/the-best-places-to-eat-in-Bandol-in-2026/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "saintraphaellesvoiles",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat by the sea at Les Voiles in Saint-Raphaël",
+   "desc": "Les Voiles is a waterfront restaurant on the quai Commandant-le-Prieur in Saint-Raphaël, listed by Fodor's with a Michelin Bib Gourmand for low-price good food.",
+   "tip": "Check the current Michelin status and book for dinner by the water.",
+   "q": "Les Voiles, 101 Quai Commandant le Prieur, Port Santa Lucia, Saint-Raphaël",
+   "ll": [
+    43.4235,
+    6.7701
+   ],
+   "src": [
+    "https://www.fodors.com/world/europe/france/the-french-riviera/restaurants/reviews/les-voiles-saint-raphael-112557580"
+   ],
+   "tags": []
+  },
+  {
+   "id": "hyerescolombe",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat seasonal Provençal cooking at La Colombe in Hyères",
+   "desc": "La Colombe on the road to Toulon has been run by the Bonamy family since 1987, with seasonal and locally sourced produce. Some guides list it with a Michelin Bib Gourmand or Plate.",
+   "tip": "On the edge of town, so go by car. Check the Michelin Guide listing for the current award.",
+   "q": "La Colombe, 663 Route de Toulon, Hyères",
+   "ll": [
+    43.12611,
+    6.09915
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/en/plan-your-stay/restaurants/all-restaurants/la-colombe-restaurant-hyeres-en-2875474/",
+    "https://fr.gaultmillau.com/en/restaurants/la-colombe-restaurant-hyeres"
+   ],
+   "tags": []
+  },
+  {
+   "id": "lacelleabbaye",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at the Hostellerie de l'Abbaye de la Celle",
+   "desc": "The Hostellerie de l'Abbaye de la Celle, in a former abbey at La Celle near Brignoles, holds one Michelin star according to a restaurant guide listing. It serves Provençal cooking in a monastic setting.",
+   "tip": "Check the current Michelin status and book well ahead.",
+   "q": "Hostellerie de l'Abbaye de la Celle, La Celle",
+   "ll": [
+    43.39387,
+    6.04029
+   ],
+   "src": [
+    "https://belvicci.com/restaurant/france/la-celle-var/hostellerie-de-labbaye-de-la-celle"
+   ],
+   "tags": []
+  },
+  {
+   "id": "toulonfarontelepherique",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Ride the Mont Faron cable car over Toulon",
+   "desc": "The Mont Faron cable car was built by Heckel in 1958 and refurbished by Poma in 1989 and 2017. It reaches the summit in under ten minutes with views of the roadstead.",
+   "tip": "Closed on windy days and during high fire-risk closures; about 9 euros for adults.",
+   "q": "Téléphérique du Mont Faron, Boulevard Amiral Vence, Toulon",
+   "ll": [
+    43.14925,
+    5.93034
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/que-faire/detente-et-loisirs/toutes-les-activites-detente-et-loisirs/telepherique-du-mont-faron-toulon-fr-2856538/",
+    "https://www.remontees-mecaniques.net/bdd/reportage-281.html"
+   ],
+   "tags": []
+  },
+  {
+   "id": "toulonrade",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Take a boat tour of the Toulon naval roadstead",
+   "desc": "The Bateliers de la Rade run a guided boat tour of about an hour past the naval ships at their quays, the forts of l'Éguillette and Balaguier and the Tour Royale. The naval base cannot be visited on foot.",
+   "tip": "Boats leave from the old port; confirm the departure quay and timetable before going.",
+   "q": "Les Bateliers de la Rade, Quai de la Sinse, Avenue de la République, Toulon",
+   "ll": [
+    43.1192,
+    5.93348
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/en/things-to-do/leisure-relaxation/all-relaxation-and-leisure-activities/the-bateliers-de-la-rade-toulon-en-3011501"
+   ],
+   "tags": []
+  },
+  {
+   "id": "toulonmarchelafayette",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Provence market on Cours Lafayette",
+   "desc": "The Marché de Provence on Cours Lafayette is the biggest market in central Toulon, about a kilometre long, with fruit, vegetables, flowers and textiles. It runs along Cours Lafayette, rue Paul Lendrin and place Louis Blanc.",
+   "tip": "Food stalls Tuesday to Sunday, 7:30 to 12:30; closed Mondays. An afternoon flea market runs 14:30 to 18:30.",
+   "q": "Marché du Cours Lafayette, Cours Lafayette, Toulon",
+   "ll": [
+    43.12046,
+    5.93421
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/que-faire/sortir/toutes-les-sorties/le-marche-de-provence-du-cours-lafayette-a-toulon-alimentaire-non-alimentaire-toulon-fr-2873378/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "toulonmourillonbeach",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Swim at the Mourillon beaches",
+   "desc": "The Plages du Mourillon are Toulon's main beaches: four sandy coves (Lido, Mistral, Source and Pins) with landscaped gardens, a watersports base and bars. They are supervised in summer.",
+   "tip": "Summer lifeguards; the Mourillon market also sells cade nearby.",
+   "q": "Plage du Mourillon, Littoral Frédéric Mistral, Toulon",
+   "ll": [
+    43.10714,
+    5.94971
+   ],
+   "src": [
+    "https://www.worldbeachguide.com/france/plages-du-mourillon.htm",
+    "https://provence-alpes-cotedazur.com/decouvrir/villes/var/toulon/plages/"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "toulonfishmarket",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Watch the morning fish market on Quai Cronstadt",
+   "desc": "A small fishermen's market is held on the Quai Cronstadt facing the Mairie d'Honneur in the main port, with fresh catch. It is cancelled in heavy swell.",
+   "tip": "Reported open daily about 7:30 to 12:30; arrive before 8:30. Not confirmed by the city, so check on site.",
+   "q": "Marché à la pêche, Quai Cronstadt, Toulon",
+   "ll": [
+    43.1194,
+    5.9335
+   ],
+   "src": [
+    "https://doeatbetterexperience.com/blog/toulon-fish-market-mourillon/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "toulonsentiercapbrun",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the coastal path from Mourillon to Cap Brun",
+   "desc": "The Sentier du littoral from the Tour Royale and Mourillon passes along the former customs path to Cap Brun and the Anse Méjean. The section near the Cap Brun residence was reopened after years of closure.",
+   "tip": "Wear closed shoes; some rocks are wet. A diversion by the Chemin de la Batterie Basse may be in place; check TPM.",
+   "q": "Sentier du littoral, Cap Brun, Toulon",
+   "ll": [
+    43.0992,
+    5.9652
+   ],
+   "src": [
+    "https://www.visorando.com/randonnee-promenade-au-cap-brun-et-a-port-mejean/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "toulonansemejean",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Swim at the Anse Méjean cove",
+   "desc": "Anse Méjean is a quiet cove east of Cap Brun, about 700 metres of gravel and sand shaded by pines and cedars, with a small fishing hamlet and a few pointus. Lifeguards in 2026 were on duty from 16 July to 30 August.",
+   "tip": "Parking is limited, so come early; walk in along the customs path from Cap Brun.",
+   "q": "Anse Méjean, Chemin de la Batterie Basse, Toulon",
+   "ll": [
+    43.10636,
+    5.9745
+   ],
+   "src": [
+    "https://www.plages.tv/detail/anse-mejean-toulon-83000",
+    "https://www.cabaigne.net/mag/plages-toulon/"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "toulonfaronhike",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Hike the trails on top of Mont Faron",
+   "desc": "Mont Faron rises to 584 metres above Toulon and has marked walking trails near the summit, past the 19th-century forts and the Notre-Dame du Faron sanctuary. Most paths suit all walkers.",
+   "tip": "Massifs close at severe fire risk, so check the prefecture alert before heading up; take water.",
+   "q": "Sentiers du sommet du Mont Faron, Route du Faron, Toulon",
+   "ll": [
+    43.1621,
+    5.938
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Mont_Faron"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "porquerollesbike",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cycle round Porquerolles to Plage Notre-Dame",
+   "desc": "Car-free Porquerolles has about 51 km of marked paths. Hire bikes in the village and ride to Plage Notre-Dame, or follow the park's Levant and Midi circuits.",
+   "tip": "Hire from Le Cycle Porquerollais (open all year) or other shops; book ahead in high season and start early.",
+   "q": "Le Cycle Porquerollais, Village de Porquerolles, Hyères",
+   "ll": [
+    43.00119,
+    6.20323
+   ],
+   "src": [
+    "https://www.provenceweb.fr/f/loisirs/sport-randonnee/velo-vtt/velo-porquerolles.htm",
+    "https://geotrek-admin.portcros-parcnational.fr/api/fr/treks/2133/porquerolles-circuit-du-levant-a-velo.pdf"
+   ],
+   "tags": []
+  },
+  {
+   "id": "portcrosunderwater",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Snorkel the Palud underwater trail on Port-Cros",
+   "desc": "The sentier sous-marin at Plage de la Palud is a six-stage self-guided snorkel route with buoys and submerged information panels between the beach and the Rascas islet. It is free, with a mask, fins and snorkel.",
+   "tip": "Open 15 June to 15 September; ferries run from Le Lavandou and Hyères. Avoid strong mistral days.",
+   "q": "Plage de la Palud, Île de Port-Cros, Hyères",
+   "ll": [
+    43.01264,
+    6.39274
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/que-faire/detente-et-loisirs/toutes-les-activites-detente-et-loisirs/sentier-sous-marin-de-la-palud-hyeres-fr-6215464/",
+    "https://www.portcros-parcnational.fr/sites/portcros-parcnational.fr/files/available_docs/sentier_sousmarin_palud_fr.pdf"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hyeressalins",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch flamingos at the Salins d'Hyères",
+   "desc": "The Salins d'Hyères span about 900 hectares between the two sand bars of the Giens tombolo, with around 250 bird species and flocks of pink flamingos. The Vieux Salins nature area is free to enter.",
+   "tip": "The Salin des Pesquiers can only be seen on guided visits; book on 04 94 01 09 77.",
+   "q": "Espace Nature des Salins d'Hyères, Les Vieux Salins, Hyères",
+   "ll": [
+    43.11758,
+    6.1987
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/que-faire/culture-et-patrimoine/lieux/espace-nature-des-salins-dhyeres-hyeres-fr-2879872/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "pampelonnebeach",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Spend a day on Pampelonne beach",
+   "desc": "Pampelonne stretches for 4.5 km of fine sand between Cap Camarat and Cap Pinet. At its southern end a free underwater trail has submerged panels, and the coastal path leads on to Cap Camarat.",
+   "tip": "Guided sea-path walks run in summer with the tourist office; the coastal path to Cap Camarat takes about 30 minutes.",
+   "q": "Plage de Pampelonne, Ramatuelle",
+   "ll": [
+    43.22818,
+    6.6623
+   ],
+   "src": [
+    "https://www.sainttropeztourisme.com/fr/fiche/sentier-marin-de-pampelonne-balade-accompagnee-5574473/",
+    "https://provence-alpes-cotedazur.com/decouvrir/villes/var/ramatuelle/plages/"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sainttropezmarket",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Browse the Place des Lices market in Saint-Tropez",
+   "desc": "The Saint-Tropez market runs on the Place des Lices with seasonal produce, fish, charcuterie, clothing and crafts. It is free to enter.",
+   "tip": "Tuesday and Saturday mornings, 8:00 to 13:00, all year.",
+   "q": "Marché de la Place des Lices, Saint-Tropez",
+   "ll": [
+    43.27027,
+    6.63682
+   ],
+   "src": [
+    "https://cotedazurfrance.fr/offres/le-marche-de-saint-tropez-saint-tropez-fr-2905535/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "croixvalmertwocaps",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Two Caps loop from Gigaro to Cap Taillat",
+   "desc": "The Circuit des 2 Caps from Gigaro beach in La Croix-Valmer follows the coastal path to the Briande beach and the isthme of Cap Taillat, then Cap Lardier. The caps belong to the Port-Cros National Park and the Conservatoire du littoral.",
+   "tip": "About 15 km and 5 hours; carry plenty of water and check the fire-risk closures.",
+   "q": "Plage de Gigaro, La Croix-Valmer",
+   "ll": [
+    43.184,
+    6.59806
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/que-faire/itineraires-randonnee/les-2-caps-la-croix-valmer-fr-4346729/",
+    "https://www.visorando.com/randonnee-le-cap-lardier-et-le-cap-taillat-en-bouc-2/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "aupstruffles",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Shop at the Aups black truffle market",
+   "desc": "Aups holds a producers' black truffle market on Place Frédéric Mistral on winter Thursday mornings. Local growers sell directly, and the Fête de la Truffe Noire follows each January.",
+   "tip": "Thursday mornings from late November to mid-March; bring cash, as some growers do not take cards.",
+   "q": "Marché aux truffes, Place Frédéric Mistral, Aups",
+   "ll": [
+    43.62833,
+    6.22472
+   ],
+   "src": [
+    "https://www.visitvar.com/fiche/black-truffle-market-4875035",
+    "https://fr.wikipedia.org/wiki/Aups"
+   ],
+   "months": [
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "tags": []
+  },
+  {
+   "id": "saintebaumegrotte",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike to the Sainte-Baume grotto and Saint-Pilon",
+   "desc": "A loop of about 6 km leaves the Hôtellerie de la Sainte-Baume car park for the Grotte Marie-Madeleine, run by the Dominicans, then continues to the Saint-Pilon chapel around 950 metres high.",
+   "tip": "The first part to the grotto takes about 45 minutes on easy marked trail; the climb to Saint-Pilon is exposed and less marked.",
+   "q": "Hôtellerie de la Sainte-Baume, Plan-d'Aups-Sainte-Baume",
+   "ll": [
+    43.3359,
+    5.75592
+   ],
+   "src": [
+    "https://www.visorando.com/randonnee-grotte-sainte-madeleine-saint-pilon/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "saintecroixpedalo",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Paddle on the Lac de Sainte-Croix at Les Salles",
+   "desc": "The Base Nautique on the beach at Les Salles-sur-Verdon rents pedalos, canoes, kayaks and electric boats. Near the Pont du Galetas you can paddle a short way into the Verdon gorge.",
+   "tip": "Rentals are for one or two hours; a pedalo was about 20 euros an hour. Season runs from mid-June to mid-September.",
+   "q": "Base nautique, Plage des Salles, Les Salles-sur-Verdon",
+   "ll": [
+    43.77325,
+    6.20541
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/que-faire/activites-aquatiques/lacs/sainte-croix/plages/",
+    "https://vvanat.fr/blog/plein-voile-les-salles-sur-verdon/"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "tags": []
+  },
+  {
+   "id": "esterelpicours",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Pic de l'Ours in the Estérel",
+   "desc": "The Pic de l'Ours loop from the Col Notre-Dame above Agay climbs through red volcanic rock to a 360-degree view of the Gulf of Saint-Tropez, Cannes bay and the Alps.",
+   "tip": "About 9.5 km and three hours; no water on the route and fire-risk closures apply.",
+   "q": "Pic de l'Ours, Massif de l'Estérel, Saint-Raphaël",
+   "ll": [
+    43.47588,
+    6.90462
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/que-faire/itineraires-randonnee/randonnee-le-pic-de-lours-saint-raphael-fr-4348156/",
+    "https://esterel-cotedazur.com/?p=24821"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "dramontcape",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Cap du Dramont and its semaphore",
+   "desc": "Cap du Dramont is the southern tip of the Estérel, crowned by a semaphore with views of the Île d'Or and Agay bay. A short loop of 3.8 km leaves from the Camp Long parking.",
+   "tip": "About two hours; the coastal path toward Agay is rocky and longer, so check the state of the trail first.",
+   "q": "Cap du Dramont, Plage de Camp Long, Le Dramont, Saint-Raphaël",
+   "ll": [
+    43.41807,
+    6.85872
+   ],
+   "src": [
+    "https://www.visorando.com/randonnee-cap-du-dramont/",
+    "https://cotedazurfrance.fr/offres/randonnee-le-sentier-du-littoral-saint-raphael-saint-raphael-fr-3271370/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sanarymarket",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Browse the Wednesday market at Sanary port",
+   "desc": "The weekly Wednesday market takes over the port of Sanary and won a best-market-in-France award in 2018. A flower market runs daily on Place de la République.",
+   "tip": "Wednesday mornings, roughly 7:00 to 13:00; it can be cancelled in bad weather. The Tour romane opens the same day.",
+   "q": "Marché de Sanary, Port de Sanary, Sanary-sur-Mer",
+   "ll": [
+    43.1172,
+    5.8003
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Sanary-sur-Mer"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sixfourshill",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Climb to the Collégiale Saint-Pierre at Six-Fours",
+   "desc": "The Collégiale Saint-Pierre at about 210 metres is the sole survivor of the old village levelled for the Fort de Six-Fours from 1875. Paths through garrigue climb to a 360-degree panorama over the Toulon roadstead and Embiez island.",
+   "tip": "The fort is an active Navy site and off limits; park below the fort on Montée du Fort. The church is closed on Tuesdays.",
+   "q": "Collégiale Saint-Pierre, Montée du Fort, Six-Fours-les-Plages",
+   "ll": [
+    43.1035,
+    5.84081
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/en/things-to-do/culture-and-heritage/places/collegiale-saint-pierre-six-fours-les-plages-en-2890565/",
+    "https://www.visorando.com/en/walk-le-fort-et-quelques-vieux-quartiers-a-si/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "portgrimaudboat",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Glide the Port Grimaud canals by electric boat",
+   "desc": "At Port Grimaud you can rent a small electric barque and explore the canals yourself, or ride the solar-powered Coches d'eau boat. Rentals are available without booking in season.",
+   "tip": "Rentals were around 30 euros per half hour with a deposit; Coches d'eau run from early April to late October.",
+   "q": "Les barques électriques, Place de l'Église, Port Grimaud, Grimaud",
+   "ll": [
+    43.27404,
+    6.58146
+   ],
+   "src": [
+    "https://cotedazurfrance.fr/offres/les-barques-electriques-grimaud-fr-6409528/"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "tags": []
+  }
+ ]
+}

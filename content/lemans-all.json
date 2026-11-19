@@ -1,0 +1,1248 @@
+{
+ "new": [
+  {
+   "id": "lemanscite",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Wander the Cité Plantagenêt, Le Mans old town",
+   "desc": "The hilltop old town, called Vieux Mans until it was renamed Cité Plantagenêt in 2003, is enclosed by a Gallo-Roman wall. It holds some hundred half-timbered houses from the 15th and 16th centuries, and Henry II of England was born in Le Mans in 1133.",
+   "tip": "Start at Place Saint-Pierre and climb the cobbled Grande Rue. Evenings in summer are best, when the lanes are lit.",
+   "q": "Cité Plantagenêt, Place Saint-Pierre, Le Mans",
+   "ll": [
+    48.0073,
+    0.19686
+   ],
+   "src": [
+    "https://www.herodote.net/La_cite_Plantagenet_se_decouvre-synthese-2018-82.php",
+    "https://www.lonelyplanet.fr/destinations/france/pays-de-la-loire/que-faire/le-mans-et-la-cite-plantagenet"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "lemanscathedral",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the stained glass of Saint-Julien Cathedral",
+   "desc": "Building of the cathedral ran from the 11th to the 15th century, with a Romanesque nave and a flamboyant Gothic choir. It keeps some of the oldest medieval stained glass in France, including a 12th-century Ascension window.",
+   "tip": "Free to enter. Walk around the east end to see the double ring of flying buttresses.",
+   "q": "Cathédrale Saint-Julien, Place Saint-Michel, Le Mans",
+   "ll": [
+    48.0093,
+    0.1988
+   ],
+   "src": [
+    "https://www.wikipedia.org/wiki/Le_Mans_Cathedral",
+    "https://www.enpaysdelaloire.com/visites/patrimoine-religieux/cathedrale-saint-julien-le-mans"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "lemansromanwall",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Follow the pink-brick Gallo-Roman wall",
+   "desc": "The late Roman city wall of Vindunum was built around the end of the 3rd or start of the 4th century. It is known for its polychrome patterns of pale stone and pink brick and its semicircular towers, among them the Tour du Vivier and the Tour de la Madeleine.",
+   "tip": "Walk the Promenade des Jacobins side and the Rue des Chanoines side to see the best-preserved stretches.",
+   "q": "Enceinte gallo-romaine, Rue des Chanoines, Le Mans",
+   "ll": [
+    47.9969,
+    0.2003
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Enceinte_gallo-romaine_du_Mans"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "lemanstesse",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Egyptian gallery at the Musée de Tessé",
+   "desc": "The fine-arts and archaeology museum sits in a 19th-century former bishop's palace and holds Italian and Spanish paintings. Its Egyptian gallery reopened in March 2018 and has held Musée de France status since 2002.",
+   "tip": "Closed Mondays. Check the city website for current entry fees.",
+   "q": "Musée de Tessé, 2 avenue de Paderborn, Le Mans",
+   "ll": [
+    48.01029,
+    0.20355
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Mus%C3%A9e_de_Tess%C3%A9",
+    "https://www.atlantic-loire-valley.com/visits/museums-and-interpretation-centres/musee-de-tesse"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "lemansepau",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk through the Cistercian Abbaye de l'Épau",
+   "desc": "Queen Berengaria of Navarre, widow of Richard the Lionheart, founded this abbey in 1229 on the left bank of the Huisne. Her tomb lies in the abbey church, and the cloister, chapter house and monks' dormitory are open to visitors.",
+   "tip": "Reach it by SETRAM bus from Le Mans. Check epau.sarthe.fr for hours and prices.",
+   "q": "Abbaye Royale de l'Épau, Route de Changé, Yvré-l'Évêque",
+   "ll": [
+    47.99125,
+    0.24238
+   ],
+   "src": [
+    "https://www.francevelotourisme.com/loisirs/sites-et-monuments-historiques/abbaye-royale-de-l-epau",
+    "https://www.techno-science.net/fr/definitions/abbaye-de-l-epau"
+   ]
+  },
+  {
+   "id": "lemansm24",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See Le Mans-winning cars at the M24 museum",
+   "desc": "The motorsport museum at the entrance to the Circuit de la Sarthe replaced the older Musée des 24 Heures, which opened in 1961. The new M24 covers about 9,000 m2 and traces the history of the 24 Hours race with historic racing cars.",
+   "tip": "Book tickets online, and ask about the combined museum and circuit visit.",
+   "q": "M24 Musée des 24 Heures du Mans, Circuit des 24 Heures, Le Mans",
+   "ll": [
+    47.95694,
+    0.20861
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Musée_des_24_Heures_du_Mans"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "lemansberengere",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step into the Musée de la Reine Bérengère",
+   "desc": "Three half-timbered houses of the 15th and 16th centuries, protected as monuments historiques, hold the museum. It shows Le Mans and Maine ethnology, regional folk ceramics and local 19th-century painters.",
+   "tip": "It is a short walk from the cathedral, so combine it with the old town.",
+   "q": "Musée de la Reine Bérengère, 9-13 rue de la Reine Bérengère, Le Mans",
+   "ll": [
+    47.9974,
+    0.2044
+   ],
+   "src": [
+    "https://monumentum.fr/musee-de-france/M0771/le-mans-musee-de-la-reine-berengere"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "lemansadameve",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Spot the carved figures on Maison d'Adam et Ève",
+   "desc": "This half-timbered house at 69 Grande Rue is named for a nude couple carved between the wooden posts of its facade. It was classified a monument historique in 1913, and one source dates it to 1528.",
+   "tip": "Only the facade can be seen from the street. It is a good stop on the Grande Rue walk.",
+   "q": "Maison d'Adam et Ève, 69 Grande Rue, Le Mans",
+   "ll": [
+    48.00777,
+    0.19628
+   ],
+   "src": [
+    "https://monumentum.fr/monument-historique/pa00109831/le-mans-maison-dite-dadam-et-eve",
+    "https://pop.culture.gouv.fr/notice/merimee/PA00109831"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "lemansjardin",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stroll the Jardin des Plantes of Le Mans",
+   "desc": "Designed by Jean-Charles Alphand, who also drew Paris's Parc Monceau, between 1867 and 1870, the garden has a French section with a rose garden and an English section with a pond. A rock passage links the two and the site has been protected since 1945.",
+   "tip": "Free and open every day, with picnic lawns.",
+   "q": "Jardin des Plantes, 4 rue de Sinault, Le Mans",
+   "ll": [
+    48.00543,
+    0.2096
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Jardin_des_Plantes_du_Mans",
+    "https://www.atlantic-loire-valley.com/visits/gardens/jardin-des-plantes-ou-jardin-d-horticulture-du-mans"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "lemanstaboy",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Buy rillettes du Mans at Taboy-Leblanc",
+   "desc": "This family charcutier on rue Gambetta has made hand-cut rillettes of lean pork cooked for about ten hours, by the fourth generation using the great-grandfather's method. The shop dates to 1951 and the house to 1904.",
+   "tip": "Try a pot of pure pork rillettes on fresh bread. Phone 02 43 28 09 99 to check hours.",
+   "q": "Taboy-Leblanc, 145 rue Gambetta, Le Mans",
+   "ll": [
+    48.0084,
+    0.18663
+   ],
+   "src": [
+    "https://www.gillespudlowski.com/?p=82024",
+    "https://www.connexionfrance.com/magazine/local-speciality-le-mans-rillettes/492448"
+   ]
+  },
+  {
+   "id": "lemansciboulette",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine at La Ciboulette in the old town",
+   "desc": "A gastronomic restaurant on rue de la Vieille Porte in the Cité Plantagenêt, listed in the Michelin and Gault&Millau guides. Everything is made in-house, and it has been going for 38 years.",
+   "tip": "Book ahead for dinner and ask for the set menu.",
+   "q": "La Ciboulette, 14 rue de la Vieille Porte, Le Mans",
+   "ll": [
+    48.00586,
+    0.19467
+   ],
+   "src": [
+    "https://www.lemans-tourisme.com/fr/restaurants-gastronomiques/restaurant-la-ciboulette.html",
+    "https://www.enpaysdelaloire.com/restaurants/la-ciboulette-2"
+   ]
+  },
+  {
+   "id": "lemansepicurieux",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try the bistronomic menu at L'Épi'curieux",
+   "desc": "A gastronomic-inspired bistro in the Cité Plantagenêt, noted by Gault&Millau with a young-talent trophy. It sits on the same lane as the old-town restaurants.",
+   "tip": "Choose the lunch menu for the best value. Booking is advised.",
+   "q": "L'Épi'curieux, 4 rue de la Vieille Porte, Le Mans",
+   "ll": [
+    48.00557,
+    0.19478
+   ],
+   "src": [
+    "https://www.lemans-tourisme.com/fr/lepicurieux.html"
+   ]
+  },
+  {
+   "id": "lemansgrenier",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Book Le Grenier à Sel on Place de l'Éperon",
+   "desc": "A well-reviewed restaurant on Place de l'Éperon in Le Mans, listed with a Michelin Plate in 2024 and 2025 by one directory. It serves modern French cooking with local produce.",
+   "tip": "Reserve ahead. Check the Michelin Guide for the current listing.",
+   "q": "Le Grenier à Sel, 26 place de l'Éperon, Le Mans",
+   "ll": [
+    48.00565,
+    0.19551
+   ],
+   "src": [
+    "https://www.enprimeurclub.com/restaurants/le-grenier-sel-le-mans-restaurant"
+   ]
+  },
+  {
+   "id": "lemansbelhelen",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have buckwheat galettes at Crêperie Le Bel'Helen",
+   "desc": "A crêperie on rue de la Vieille Porte in the old town, listed by the Le Mans tourist office. It serves savoury galettes and sweet crêpes in a half-timbered setting.",
+   "tip": "Order a galette complète with a bowl of cider. Booking is wise at weekends.",
+   "q": "Crêperie Le Bel'Helen, 7-9 rue de la Vieille Porte, Le Mans",
+   "ll": [
+    47.9971,
+    0.2019
+   ],
+   "src": [
+    "https://www.lemans-tourisme.com/en/creperies-and-pizzerias/creperie-le-bel-helen.html"
+   ]
+  },
+  {
+   "id": "lemanschimeres",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Follow La Nuit des Chimères light trail",
+   "desc": "Every summer since 2005 the facades of the Cité Plantagenêt become giant screens for light projections, with the cathedral among the main sites. The trail is free and runs each evening at nightfall.",
+   "tip": "The meeting point is Place du Cardinal Grente. The 2025 season ran from 3 July to 21 September, so confirm 2027 dates.",
+   "q": "Place du Cardinal Grente, Le Mans",
+   "ll": [
+    48.00988,
+    0.1983
+   ],
+   "months": [
+    7,
+    8,
+    9
+   ],
+   "src": [
+    "https://www.lemans-tourisme.com/en/la-nuit-des-chimeres-1.html",
+    "https://www.atlantic-loire-valley.com/unmissable-events/la-nuit-des-chimeres-a-light-filled-fairyland"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "lemansjacobins",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Marché des Jacobins below the cathedral",
+   "desc": "The market takes over Place des Jacobins at the foot of the cathedral, selling local produce and rillettes. It is the best-known market of Le Mans.",
+   "tip": "Open Wednesday and Sunday mornings and all day Friday. Go early for the best stalls.",
+   "q": "Place des Jacobins, Le Mans",
+   "ll": [
+    48.00782,
+    0.2008
+   ],
+   "src": [
+    "https://www.lemans-tourisme.com/en/entertainment/marche-des-jacobins-le-mans.html",
+    "https://www.enpaysdelaloire.com/fetes-et-manifestations/marche-des-jacobins-le-mans"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "lemansvoieverte",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cycle the Sarthe riverbank greenway from the port",
+   "desc": "The Voie Verte des Bords de la Sarthe follows the river from the Le Mans port at Quai de l'Amiral Lalande to Arnage on riverside paths. It also joins the Vélobuissonnière towards La Suze-sur-Sarthe.",
+   "tip": "Start at the port, close to the Cité Plantagenêt. Hire a bike in town if needed.",
+   "q": "Port du Mans, Quai de l'Amiral Lalande, Le Mans",
+   "ll": [
+    48.00212,
+    0.18945
+   ],
+   "src": [
+    "https://af3v.org/les-voies-vertes/voies/358-voie-verte-des-bords-de-la-sarthe/",
+    "https://www.francevelotourisme.com/itineraire/la-velobuissonniere/le-mans-la-suze-sur-sarthe"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "lemanskarting",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Race a kart on the Alain Prost circuit",
+   "desc": "Le Mans Driver, the official driving school of the Automobile Club de l'Ouest, runs karting on the 1,174 m Alain Prost track inside the 24 Hours complex. It also runs driving courses on the Bugatti circuit.",
+   "tip": "Book sessions online ahead of time.",
+   "q": "Circuit Alain Prost, Circuit des 24 Heures, Le Mans",
+   "ll": [
+    47.93936,
+    0.21214
+   ],
+   "src": [
+    "https://www.yumping.com/fr/sports-automobiles/le-mans-driver--e19689582"
+   ]
+  },
+  {
+   "id": "lemanscircuittour",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the pit lane on a Circuit de la Sarthe tour",
+   "desc": "The M24 museum offers a one-hour self-guided circuit tour, a two-hour guided tour and a three-hour museum and circuit visit. The route takes in the grandstands and the pit straight of the Circuit de la Sarthe.",
+   "tip": "Book online. Tours are not offered on race days.",
+   "q": "Musée des 24 Heures du Mans, Circuit des 24 Heures, Le Mans",
+   "ll": [
+    47.95694,
+    0.20861
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Musée_des_24_Heures_du_Mans"
+   ]
+  },
+  {
+   "id": "lemans24hrace",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Watch the 24 Hours of Le Mans race",
+   "desc": "The 24 Heures du Mans is the endurance classic on the Circuit de la Sarthe, with the 95th edition due on 9 to 13 June 2027. Ticket sales for 2027 opened to the public on 6 November 2026.",
+   "tip": "Buy tickets on ticket.24h-lemans.com and plan travel early, as the week is very busy.",
+   "q": "Circuit des 24 Heures, Le Mans",
+   "ll": [
+    47.95694,
+    0.20861
+   ],
+   "months": [
+    6
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Circuit_des_24_Heures"
+   ]
+  },
+  {
+   "id": "ludecastle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See four centuries of facades at Château du Lude",
+   "desc": "The château overlooks the Loir and is among the most northerly Loire châteaux, showing four centuries of French architecture. Its gardens were laid out with plans from 1748 and an 1883 design by Edouard André.",
+   "tip": "Château, gardens and outbuildings have separate opening hours. Check lelude.com.",
+   "q": "Château du Lude, Le Lude",
+   "ll": [
+    47.6483,
+    0.1583
+   ],
+   "src": [
+    "https://www.techno-science.net/fr/definitions/chateau-du-lude",
+    "https://www.parisselectbook.com/2026/04/09/chateau-du-lude-en-sarthe-quatre-facades-historiques-et-jardins-remarquables-a-decouvrir-le-temps-dun-week-end/"
+   ]
+  },
+  {
+   "id": "solesmesabbey",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Benedictine Abbaye Saint-Pierre de Solesmes",
+   "desc": "About forty Benedictine monks live at Solesmes Abbey, a centre of Gregorian chant. The abbey church stands on Place Dom Guéranger above the Sarthe.",
+   "tip": "Visits are linked to the offices and guided walks. Confirm times at solesmes.com.",
+   "q": "Abbaye Saint-Pierre de Solesmes, Place Dom Guéranger, Solesmes",
+   "ll": [
+    47.85208,
+    -0.30339
+   ],
+   "src": [
+    "https://www.enpaysdelaloire.com/visites/patrimoine-religieux/abbaye-saint-pierre-de-solesmes",
+    "https://www.vinci-autoroutes.com/fr/decouvertes/idees-sorties/sites-touristiques/abbaye-saint-pierre-de-solesmes/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "asnieresvegre",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Cross the old bridge at Asnières-sur-Vègre",
+   "desc": "A Petite Cité de Caractère in the loops of the Vègre, with manors and castles of feudal origin. The old bridge, rebuilt around 1806, is a listed monument and the 17th-century Château de Moulinvieux stands nearby.",
+   "tip": "Park at the entrance and walk the lanes to the bridge and the Romanesque church.",
+   "q": "Vieux Pont, Asnières-sur-Vègre",
+   "ll": [
+    47.88861,
+    -0.23417
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Asnières-sur-Vègre"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "courtanvauxcastle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the moated Château de Courtanvaux",
+   "desc": "The château at Bessé-sur-Braye has parts dating to the 14th and 15th centuries and a neo-Gothic restoration of 1815. The commune bought it in 1978 after the last private owner died in 1976, and it is a monument historique.",
+   "tip": "Check opening dates before going. An adult ticket was listed at 7.50 euros.",
+   "q": "Château de Courtanvaux, Bessé-sur-Braye",
+   "ll": [
+    47.84417,
+    0.73556
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Château_de_Courtanvaux"
+   ]
+  },
+  {
+   "id": "fresnaycastle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore Fresnay-sur-Sarthe, a Petite Cité de Caractère",
+   "desc": "The town sits on a rocky spur above a meander of the Sarthe and its castle stands among old ramparts. It also has halles dating back to 1460 and the Musée de la Coiffe.",
+   "tip": "Start at the castle park and walk down to the river. Canoe hire is nearby from July.",
+   "q": "Château de Fresnay-sur-Sarthe, Fresnay-sur-Sarthe",
+   "ll": [
+    48.2822,
+    0.0194
+   ],
+   "src": [
+    "https://www.enpaysdelaloire.com/visites/autres-monuments-et-patrimoines/fresnay-sur-sarthe-petite-cite-de-caractere",
+    "https://www.atlantic-loire-valley.com/according-to-my-wishes/hidden-gems-and-other-things-to-see-and-do/fresnay-sur-sarthe-a-small-town-full-of-character"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "lavalchateau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the keep of Laval's Vieux-Château",
+   "desc": "The medieval fortress has a 12th-century chapel and a keep topped by a 13th-century wooden hoarding. It houses the Musée d'Art naïf et d'Arts singuliers, created in 1967, beside the Renaissance Château-Neuf.",
+   "tip": "From 1 September to 30 June the château is visited on guided tours only. Check musees.laval.fr.",
+   "q": "Vieux-Château, Place de la Trémoille, Laval",
+   "ll": [
+    48.0695,
+    -0.7706
+   ],
+   "src": [
+    "https://www.mayenne-tourisme.com/en/get-to-know-us/unmissable-attractions/the-museum-of-naive-art",
+    "https://openagenda.com/oc/jep-2023-pays-de-la-loire/events/le-vieux-chateau-et-son-donjon-9899392"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "saintesuzannekeep",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the medieval keep of Sainte-Suzanne",
+   "desc": "The town sits on a rocky spur about 70 m above the Erve valley and held out against William the Conqueror. Its 11th-century keep is the oldest monument of the cité, and a 17th-century logis houses the heritage centre.",
+   "tip": "Walk the ramparts and the lanes below the keep.",
+   "q": "Donjon de Sainte-Suzanne, Sainte-Suzanne",
+   "ll": [
+    48.09704,
+    -0.34844
+   ],
+   "src": [
+    "https://www.enpaysdelaloire.com/selon-mes-envies/sites-de-visite-incontournables/visite-de-sainte-suzanne-cite-medievale",
+    "https://www.techno-science.net/fr/definitions/donjon-de-sainte-suzanne-mayenne"
+   ]
+  },
+  {
+   "id": "jublainsfort",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the Roman fort of Jublains",
+   "desc": "Jublains was the Gallo-Roman town of Noviodunum, and its fortress is the best-preserved of the Roman monuments on the site. The site also has a temple, baths seen inside the church and a theatre built around 80, plus a departmental museum.",
+   "tip": "Combine the fort and museum, and check museedejublains.fr for hours.",
+   "q": "Musée et site archéologique départemental, Jublains",
+   "ll": [
+    48.25917,
+    -0.49778
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Site_archéologique_de_Jublains"
+   ]
+  },
+  {
+   "id": "lassaycastle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Cross the drawbridge at Château de Lassay",
+   "desc": "This fortified medieval château dates to the 14th and 15th centuries and keeps eight original towers and a barbican. Visitors see furnished rooms and can work the drawbridge with a guide.",
+   "tip": "Night visits are held each September, and booking is essential. Check chateaulassay.fr.",
+   "q": "Château de Lassay, Place du Boële, Lassay-les-Châteaux",
+   "ll": [
+    48.43884,
+    -0.49956
+   ],
+   "src": [
+    "https://www.enpaysdelaloire.com/visites/chateaux/chateau-de-lassay",
+    "https://www.mayenne-tourisme.com/en/offer/visite-guidee-du-chateau-de-lassay-lassay-les-chateaux-en-5902694"
+   ]
+  },
+  {
+   "id": "saulgescaves",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Go underground in the Saulges caves",
+   "desc": "The Margot cave holds prehistoric engravings and paintings, and the Rochefort cave reaches a depth of 15 m. Both need a guide, and the ticket includes the prehistory museum.",
+   "tip": "Open about 16 March to 14 November. Book at the weekend and in summer.",
+   "q": "Grottes de Saulges, Thorigné-en-Charnie",
+   "ll": [
+    47.99194,
+    -0.40444
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Grottes_de_Saulges"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "evronbasilica",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Notre-Dame de l'Épine basilica in Évron",
+   "desc": "The former abbey church combines Romanesque, Gothic and classical styles and is the most important medieval religious building in Mayenne. It holds a silvered oak statue of Our Lady of the Thorn and a crypt below the choir.",
+   "tip": "Free to enter. See the winter light show here in December.",
+   "q": "Basilique Notre-Dame de l'Épine, Place de la Basilique, Évron",
+   "ll": [
+    48.15645,
+    -0.40296
+   ],
+   "src": [
+    "https://www.mayenne-tourisme.com/en/offer/basilique-notre-dame-de-lepine-evron-en-555368",
+    "https://en.wikipedia.org/wiki/%C3%89vron_Abbey"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "alenconlace",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Discover Point d'Alençon lace at the museum",
+   "desc": "The Musée des Beaux-Arts et de la Dentelle occupies a former Jesuit college and traces 350 years of Point d'Alençon lace. The lace was inscribed on UNESCO's intangible heritage list in 2010.",
+   "tip": "Free on the first Sunday of each month. Check the museum website for hours.",
+   "q": "Musée des Beaux-Arts et de la Dentelle, 10-12 rue Charles Aveline, Alençon",
+   "ll": [
+    48.43158,
+    0.08343
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Mus%C3%A9e_des_Beaux-arts_et_de_la_Dentelle_d%27Alen%C3%A7on",
+    "https://www.culture.gouv.fr/Sites-thematiques/Metiers-d-art/Actualites/Reouverture-des-salles-d-exposition-consacrees-a-la-dentelle"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "seescathedral",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look up at Sées Cathedral's Norman facade",
+   "desc": "The nave dates from 1220 to 1240 and the Gothic choir was finished in the early 14th century. The west facade is the only Norman cathedral facade raised in one piece and kept in its 13th-century volumes.",
+   "tip": "A summer sound-and-light show, Musilumières, is held here.",
+   "q": "Cathédrale Notre-Dame, Place du Général de Gaulle, Sées",
+   "ll": [
+    48.60553,
+    0.17214
+   ],
+   "src": [
+    "https://gcatholic.org/churches/france/0176.htm",
+    "https://archives.orne.fr/sites/default/files/2020-09/Sées - Livret.pdf"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "camembertmaison",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Taste three camemberts at the Maison du Camembert",
+   "desc": "An 18th-century Normandy farm tells how Marie Harel developed the cheese in 1791, with an audio-guided visit. It ends with a plate of three camemberts, pasteurised, thermised and raw, to compare.",
+   "tip": "Opening dates vary by source. Phone 02 33 12 10 37 or check maisonducamembert.com.",
+   "q": "Maison du Camembert, Route Marie Harel, Camembert",
+   "ll": [
+    48.8889,
+    0.1665
+   ],
+   "src": [
+    "https://www.maisonducamembert.com/?p=1190"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "haraspin",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the Haras national du Pin stud farm",
+   "desc": "Founded under Louis XIV, the Haras du Pin is called the Versailles of the Horse and is France's oldest stud farm. A visit takes in the courtyard of honour, the stables, the saddlery and the carriage collection.",
+   "tip": "Open daily from 1 April to 30 September, 10:00 to 18:00. Winter hours are shorter, so check first.",
+   "q": "Haras national du Pin, Le Pin-au-Haras",
+   "ll": [
+    48.73834,
+    0.14704
+   ],
+   "src": [
+    "https://www.jds.fr/argentan/activite-experience/visites/les-visites-du-haras-national-du-pin-1428630_A",
+    "https://www.anigaido.com/lieux/autour-du-cheval/haras-national-du-pin"
+   ]
+  },
+  {
+   "id": "domfrontkeep",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb to the ruined keep of Domfront",
+   "desc": "The keep of Domfront castle was rebuilt around 1120 and was one of the largest in Normandy. Its ruins have been classified since 1875 and sit in a free public park.",
+   "tip": "Free and open access. Combine with a taste of local poiré.",
+   "q": "Château de Domfront, Domfront en Poiraie",
+   "ll": [
+    48.59417,
+    -0.65257
+   ],
+   "src": [
+    "https://monumentum.fr/monument-historique/pa00110791/domfront-en-poiraie-chateau",
+    "https://www.bagnolesdelorne.com/app/uploads/otbagnoles/2025/03/document_decouverte_chateau_domfront_web.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "saintceneri",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Saint-Céneri-le-Gérei, a Plus Beau Village",
+   "desc": "The village in the Alpes Mancelles is listed among the Plus Beaux Villages de France. Its 11th-century Romanesque church has exceptional frescoes, and the 15th-century Chapelle du Petit-Saint-Céneri stands in a meadow by the Sarthe.",
+   "tip": "It lies in the Orne, not the Sarthe. Visit on a weekday to avoid summer crowds.",
+   "q": "Église Saint-Céneri, Saint-Céneri-le-Gérei",
+   "ll": [
+    48.38,
+    -0.05278
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Saint-Céneri-le-Gérei"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "courboyermanor",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Perche manor of Courboyer",
+   "desc": "Built at the end of the 15th century, Manoir de Courboyer is one of the oldest and most emblematic manors in the Perche. It is now the seat of the Parc naturel régional du Perche, and three of its five levels are open.",
+   "tip": "Guided tours include a roof frame and a calvados ageing cellar. Check parc-naturel-perche.fr.",
+   "q": "Manoir de Courboyer, Perche en Nocé",
+   "ll": [
+    48.39667,
+    0.67028
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Manoir_de_Courboyer"
+   ]
+  },
+  {
+   "id": "carrougescastle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the moated Château de Carrouges",
+   "desc": "Run by the Centre des monuments nationaux, the château begins with a gatehouse seen as the first Renaissance monument in Normandy. The visit continues to the keep, the medieval wing and the classical wings, in a 10 hectare park.",
+   "tip": "Open about 360 days a year. Admission was listed at 7 euros, and the park is free.",
+   "q": "Château de Carrouges, Carrouges",
+   "ll": [
+    48.56,
+    -0.15444
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Château_de_Carrouges"
+   ]
+  },
+  {
+   "id": "ricordeauloue",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Loué chicken with morels at Ricordeau",
+   "desc": "The hotel-restaurant in Loué serves the local Label Rouge chicken as a supreme stuffed with fresh morels and onions. Gault&Millau rates it 14/20 as a Table de Chef.",
+   "tip": "Closed Sunday evening and Monday. Book ahead.",
+   "q": "Ricordeau, 13 rue de la Libération, Loué",
+   "ll": [
+    47.99408,
+    -0.14972
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/restaurants/ricordeau",
+    "https://guide.michelin.com/be/fr/pays-de-la-loire/lou/restaurant/ricordeau"
+   ]
+  },
+  {
+   "id": "tableducoqloue",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try poulet de Loué at La Table du Coq",
+   "desc": "A village bistro run by the Ricordeau family's poultry business, serving Poulet de Loué and egg dishes. Diners praise the modest set lunch.",
+   "tip": "Lunch menu is the best value. Check hours before going.",
+   "q": "La Table du Coq, 9 rue de la Libération, Loué",
+   "ll": [
+    47.9935,
+    -0.1555
+   ],
+   "src": [
+    "https://www.enpaysdelaloire.com/restaurants/restaurant-la-table-du-coq"
+   ]
+  },
+  {
+   "id": "sabledrans",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Buy handmade sablés at Maison Drans in Sablé",
+   "desc": "Maison Drans has made small artisanal sablés in Sablé-sur-Sarthe since 1932. The range now has about sixty biscuits, tuiles and meringues, and salted sablés were added in 2025.",
+   "tip": "The shop is on Place Raphaël Elizé. Hours in the listing were only for 2024, so check first.",
+   "q": "Maison Drans, 38 place Raphaël Elizé, Sablé-sur-Sarthe",
+   "ll": [
+    47.8404,
+    -0.3323
+   ],
+   "src": [
+    "https://www.myboulange.fr/72/sable-sur-sarthe/maison-drans-172563",
+    "https://www.lejournaldesentreprises.com/article/comment-alexandra-et-antoine-pelletier-ont-relance-la-biscuiterie-maison-drans-2007077"
+   ]
+  },
+  {
+   "id": "durandcamembert",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste raw-milk camembert at Fromagerie Durand",
+   "desc": "The farm at La Héronnière is described as the last AOP cheese farm in the village of Camembert. It makes ladle-moulded raw-milk camembert from about sixty Normande cows.",
+   "tip": "Tastings are by appointment. Phone 02 33 39 08 08.",
+   "q": "Fromagerie Durand, La Héronnière, Camembert",
+   "ll": [
+    48.88097,
+    0.15583
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/artisans/fromagerie-durand",
+    "https://www.livetheworld.com/activities/france/the-fromagerie-durand-camembert"
+   ]
+  },
+  {
+   "id": "beaumoncelcheese",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Watch camembert being made at Clos de Beaumoncel",
+   "desc": "The dairy near the Maison du Camembert lets visitors see the production steps through large viewing windows. It makes camembert in the village where the cheese was created.",
+   "tip": "Combine with the Maison du Camembert visit next door.",
+   "q": "Fromagerie du Clos de Beaumoncel, Camembert",
+   "ll": [
+    48.8888,
+    0.1659
+   ],
+   "src": [
+    "https://www.cirkwi.com/fr/point-interet/4560779-maison-du-camembert-et-fromagerie-du-clos-de-beaumoncel"
+   ]
+  },
+  {
+   "id": "lavalantiquaire",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at L'Antiquaire in Laval",
+   "desc": "A restaurant on rue de Vaufleury, listed by one source with a Michelin Plate in 2024 and 2025. It serves seasonal cooking in the old part of Laval.",
+   "tip": "Book ahead. Check the Michelin Guide for the current listing.",
+   "q": "L'Antiquaire, 64 rue de Vaufleury, Laval",
+   "ll": [
+    48.06477,
+    -0.77859
+   ],
+   "src": [
+    "https://www.enprimeurclub.com/restaurants/lantiquaire-laval-restaurant"
+   ]
+  },
+  {
+   "id": "lavalpapilles",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have the weekly lunch at L'Effet Papilles",
+   "desc": "A bistronomic restaurant at rue des Déportés in Laval, with a lunch menu that changes weekly and uses produce from local growers.",
+   "tip": "Go at lunch for the rotating menu. Reserve at the weekend.",
+   "q": "L'Effet Papilles, 16 rue des Déportés, Laval",
+   "ll": [
+    48.06972,
+    -0.77295
+   ],
+   "src": [
+    "https://www.destination-mayenne.com/en/offer/leffet-papilles-laval-en-623292",
+    "https://www.viamichelin.pt/mapas-plantas/restaurantes/poi/laval-53000-a5dc88f0"
+   ]
+  },
+  {
+   "id": "lavalquilubu",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink and eat organic at Qui l'Ubu in Laval",
+   "desc": "A bistro and wine bar at rue du Val de Mayenne with organic cooking and a terrace. It is listed by Laval Tourisme.",
+   "tip": "Sit on the terrace in summer. Phone ahead for hours.",
+   "q": "Qui l'Ubu, 7 rue du Val de Mayenne, Laval",
+   "ll": [
+    48.07034,
+    -0.77255
+   ],
+   "src": [
+    "https://www.laval-tourisme.com/en/touristic_sheet/qui-lubu-laval-en-4710860/",
+    "https://www.mayenne-tourisme.com/en/offer/qui-lubu-laval-en-2022204"
+   ]
+  },
+  {
+   "id": "lavalaromance",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat at the bistrot L'Aromance in central Laval",
+   "desc": "A city-centre bistrot at rue des Trois-Croix, noted by Gault&Millau, with forged-steel decoration on its facade.",
+   "tip": "Check the current menu on the Gault&Millau page.",
+   "q": "L'Aromance, 12 rue des Trois-Croix, Laval",
+   "ll": [
+    48.06938,
+    -0.76559
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/restaurants/l-aromance"
+   ]
+  },
+  {
+   "id": "alencongallos",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try local French cooking at Gállos Expérience",
+   "desc": "A restaurant on rue de Sarthe in Alençon, open Tuesday to Saturday for lunch and dinner. Gault&Millau describes the cooking as local French.",
+   "tip": "Book ahead for dinner.",
+   "q": "Gállos Expérience, 21 rue de Sarthe, Alençon",
+   "ll": [
+    48.42776,
+    0.08602
+   ],
+   "src": [
+    "https://www.aleou.fr/restaurants-seminaire/55064-gallos-experience",
+    "https://fr.ik.gaultmillau.com/en/restaurant/gallos-experience"
+   ]
+  },
+  {
+   "id": "alencongvatel",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at Au Petit Vatel, a Maître Restaurateur in Alençon",
+   "desc": "Au Petit Vatel is one of eleven Orne restaurants awarded the Maître Restaurateur title, which recognises cooking from fresh produce.",
+   "tip": "Check the Gault&Millau page for the menu.",
+   "q": "Au Petit Vatel, Alençon",
+   "ll": [
+    48.43245,
+    0.08442
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/en/restaurant/au-petit-vatel",
+    "https://www.tendanceouest.com/actualite-34394-11-restaurateurs-ornais-labelises-maitre-restaurateur"
+   ]
+  },
+  {
+   "id": "alenconsuite",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Book La Suite on Place Poulet-Malassis, Alençon",
+   "desc": "A restaurant on Place Auguste-Poulet-Malassis serving French traditional cooking, listed in the Michelin Guide and rated 11/20 by Gault&Millau.",
+   "tip": "Prices are high, with a Gault&Millau budget of about 107 euros. Book ahead.",
+   "q": "La Suite, place Auguste Poulet-Malassis, Alençon",
+   "ll": [
+    48.43251,
+    0.08882
+   ],
+   "src": [
+    "https://guide.michelin.com/th/th/normandie/alenon/restaurant/la-suite1185050",
+    "https://fr.gaultmillau.com/en/restaurant/la-suite-restaurant-alencon"
+   ]
+  },
+  {
+   "id": "trappeshop",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Shop for monastic products at La Trappe abbey",
+   "desc": "Notre-Dame de la Trappe is a Trappist abbey at Soligny-la-Trappe. Its shop sells regional and monastic products and entry to the shop is free.",
+   "tip": "Guided visits were listed on Saturdays at 15:30 in the season, but sources conflict. Check latrappe.fr.",
+   "q": "Abbaye Notre-Dame de la Trappe, Soligny-la-Trappe",
+   "ll": [
+    48.63682,
+    0.57468
+   ],
+   "src": [
+    "https://www.guide-tourisme-france.com/VISITER/abbaye-notre-dame-trappe--soligny-trappe-3289.htm",
+    "https://www.ocso.org/about-us/monasteries/la-trappe/"
+   ]
+  },
+  {
+   "id": "gauletteries",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Jasnières in tuffeau cellars at Les Gauletteries",
+   "desc": "The Lelais family has farmed since 1984 and works 16.8 hectares, 14.5 of them in Jasnières, spread over Ruillé-sur-Loir and Lhomme. Visitors can tour the tuffeau cellars and taste Jasnières or Coteaux du Loir.",
+   "tip": "Jasnières is dry or sweet Chenin Blanc. Book a tasting beforehand.",
+   "q": "Domaine des Gauletteries, Ruillé-sur-Loir",
+   "ll": [
+    47.742,
+    0.605
+   ],
+   "src": [
+    "https://www.atlantic-loire-valley.com/winemaking-estates-and-wine-tourism/les-gauletteries-an-astonishing-wine-estate"
+   ]
+  },
+  {
+   "id": "solesmeschant",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hear Gregorian chant at the Solesmes offices",
+   "desc": "Visitors can attend the monks' chanted offices at Solesmes Abbey, sung in Latin, and a regional listing says a guided walk can be paired with an office.",
+   "tip": "No current timetable was found, so check solesmes.com or phone before going.",
+   "q": "Abbaye Saint-Pierre de Solesmes, 1 Place Dom Guéranger, Solesmes",
+   "ll": [
+    47.85208,
+    -0.30339
+   ],
+   "src": [
+    "https://www.enpaysdelaloire.com/visites/patrimoine-religieux/visites-guidees-de-solesmes-et-de-l-abbaye",
+    "https://www.enpaysdelaloire.com/visites/patrimoine-religieux/abbaye-saint-pierre-de-solesmes"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "flechezoo",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Spend a day at the Zoo de La Flèche",
+   "desc": "Founded by Jacques Bouillault in 1946 as the first private zoo of post-war France, the Tertre Rouge zoo covers about 18 hectares. It holds around 1,500 animals and is an EAZA member.",
+   "tip": "A free seasonal shuttle runs from La Flèche bus station. Check zoo-la-fleche.com for prices.",
+   "q": "Zoo de La Flèche, Le Tertre Rouge, La Flèche",
+   "ll": [
+    47.67884,
+    -0.04804
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Zoo_de_la_Fl%C3%A8che",
+    "https://www.enpaysdelaloire.com/visites/zoos-et-sites-de-loisirs-pour-enfants/zoo-de-la-fleche"
+   ]
+  },
+  {
+   "id": "cezintasting",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Taste Jasnières and Coteaux du Loir at Domaine de Cézin",
+   "desc": "The 17 hectare domaine has 14 in Marçon for Coteaux du Loir and 3 in Lhomme for Jasnières. Visitors can taste its range of wines.",
+   "tip": "Book a tasting beforehand.",
+   "q": "Domaine de Cézin, Lhomme",
+   "ll": [
+    47.733,
+    0.597
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/wineries/domaine-de-cezin"
+   ]
+  },
+  {
+   "id": "sablesienne",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Tour the La Sablésienne biscuit museum and workshop",
+   "desc": "The factory museum, the Musée de la Biscuiterie et du Petit Sablé, offers a guided visit that ends with a tasting. A shorter visit skips the workshop and adds a film and shop at factory prices.",
+   "tip": "The workshop visit needs at least five participants. Book online.",
+   "q": "Biscuiterie La Sablésienne, 1 avenue Jean Monnet, Sablé-sur-Sarthe",
+   "ll": [
+    47.8365,
+    -0.327
+   ],
+   "src": [
+    "https://www.enpaysdelaloire.com/activites/degustations-et-produits-du-terroir/biscuiterie-la-sablesienne"
+   ]
+  },
+  {
+   "id": "campbeugy",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk to the Camp des Anglais above Sainte-Suzanne",
+   "desc": "The Camp de Beugy, also called the Camp des Anglais, lies about 800 m north of Sainte-Suzanne and is tied to the siege by William the Conqueror. Waymarked paths link it to the medieval town.",
+   "tip": "There is little to see apart from the earthworks and a field. Take it as a short walk.",
+   "q": "Camp de Beugy, Sainte-Suzanne",
+   "ll": [
+    48.10563,
+    -0.34534
+   ],
+   "src": [
+    "https://www.atlantic-loire-valley.com/visits/other-monuments-and-heritage/camp-de-beugy-ou-camp-des-anglais",
+    "https://www.sentiers-en-france.eu/sentiers-mayenne-53/sainte-suzanne/sentier-le-camp-des-anglais"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mayennetowpath",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cycle the Mayenne towpath from Laval to Château-Gontier",
+   "desc": "The Vélo Francette follows the Mayenne between Laval and Château-Gontier for about 35 km, almost entirely on a greenway beside the locks. Refreshment huts dot the route.",
+   "tip": "Two short stretches use roads. Allow a half day each way or take the train back.",
+   "q": "Quai Paul Boudet, Laval",
+   "ll": [
+    48.06136,
+    -0.76247
+   ],
+   "src": [
+    "https://www.af3v.org/les-voies-vertes/voies/811-v43-la-velo-francette-voie-verte-du-chemin-de-halage-de-la-mayenne-de-laval-a-chateau-gontier/",
+    "https://www.francevelotourisme.com/itineraire/la-velo-francette/laval-chateau-gontier"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "meduanacruise",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cruise the Mayenne aboard La Méduana",
+   "desc": "The tour boat leaves the Quai de Waiblingen in the town of Mayenne for a guided cruise of the town and its surroundings. The one-hour outing is often paired with a visit to the château.",
+   "tip": "Reserve through the Mayenne tourist office. A 2023 cruise cost 6.50 euros.",
+   "q": "Quai de Waiblingen, Mayenne",
+   "ll": [
+    48.30387,
+    -0.61518
+   ],
+   "src": [
+    "https://www.destination-mayenne.com/en/offer/bateau-promenade-la-meduana-mayenne-en-2542030",
+    "https://www.mayenne-tourisme.com/en/offer/bateau-promenade-la-meduana-mayenne-en-704549"
+   ]
+  },
+  {
+   "id": "alpesmancellescanoe",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Paddle the Sarthe through the Alpes Mancelles",
+   "desc": "Préférence Plein Air and Alpes Mancelles Aventures rent canoes and kayaks at Saint-Léonard-des-Bois, with trips from one hour (4 km) to a full day (14 km). Upstream the river is sporty from April to June, and downstream it is calmer.",
+   "tip": "From July departures move to Fresnay-sur-Sarthe. Book ahead.",
+   "q": "Alpes Mancelles Aventures, Le Gué Plard, Saint-Léonard-des-Bois",
+   "ll": [
+    48.362,
+    -0.032
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "src": [
+    "https://www.enpaysdelaloire.com/activites/autour-de-l-eau/canoe-kayak-alpes-mancelles-aventures"
+   ]
+  },
+  {
+   "id": "meandressarthe",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Méandres de la Sarthe to Saint-Céneri",
+   "desc": "A waymarked circuit PR joins Saint-Léonard-des-Bois to Saint-Céneri-le-Gérei over about 16 km in the Alpes Mancelles. The route follows river loops and rocky slopes.",
+   "tip": "Start in Saint-Léonard-des-Bois. Wear sturdy shoes.",
+   "q": "Saint-Léonard-des-Bois, Les Méandres de la Sarthe",
+   "ll": [
+    48.363,
+    -0.028
+   ],
+   "src": [
+    "https://www.visorando.com/en/walk-les-meandres-de-la-sarthe/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ecouvessignal",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike to the Signal d'Écouves in the forest",
+   "desc": "The Signal d'Écouves, at 413 m, is the regional high point of the Écouves forest. A loop of about 7 km with 100 m of climb starts at the Croix-Médavy crossroads.",
+   "tip": "Follow the visorando route, as paths are not always signposted. Picnic tables are at the crossroads.",
+   "q": "Croix-Médavy, Forêt d'Écouves, L'Orée d'Écouves",
+   "ll": [
+    48.54,
+    0.09
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Signal_d'Écouves"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sillelake",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk round the Lac de Sillé and its beach",
+   "desc": "The Tour du Grand Étang is a loop of about 9.5 km in the Sillé forest, passing the sailing club, Sillé Plage and Coco Plage. A longer circuit round the lake is about 11 km.",
+   "tip": "The loop is flat and suits families. Start at the former lakeside gîte.",
+   "q": "Sillé Plage, Lac de Sillé, Sillé-le-Guillaume",
+   "ll": [
+    48.21204,
+    -0.12931
+   ],
+   "src": [
+    "https://www.decathlon-outdoor.com/fr-fr/explore/france/tour-du-grand-etang-entre-foret-plage-et-vieux-chateau-62c82aa41425a",
+    "https://www.sentiers-en-france.eu/sentiers-sarthe-72/mamers/sentier-le-tour-du-lac-sille-le-guillaume"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bagnoleslake",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the lake and Roc au Chien at Bagnoles de l'Orne",
+   "desc": "The thermal resort sits around a lake created in the 17th century, with the department's only casino on its shore. The Roc au Chien, a sandstone outcrop above the Vée gorge, gives the best view over the resort and forest.",
+   "tip": "Walk from the thermal baths to the Roc au Chien. Check the tourist office for guided tours.",
+   "q": "Lac de Bagnoles de l'Orne, Bagnoles de l'Orne Normandie",
+   "ll": [
+    48.55736,
+    -0.4152
+   ],
+   "src": [
+    "https://bagnolesdelorne.co.uk/i-want/go-back-in-time/the-history-of-the-town/",
+    "https://bagnolesdelorne.co.uk/i-want/go-back-in-time/a-land-of-legends/the-waters-of-bagnoles/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mortagneboudin",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Join the Foire au Boudin in Mortagne-au-Perche",
+   "desc": "The Confrérie des Chevaliers du Goûte-Boudin, created in 1963, organises an international black pudding competition at the fair in the town centre. The 2026 fair ran 12 to 15 March.",
+   "tip": "Dates for 2027 were not found, so expect early March. Taste boudin noir from the stalls.",
+   "q": "Centre-ville, Mortagne-au-Perche",
+   "ll": [
+    48.52,
+    0.544
+   ],
+   "months": [
+    3
+   ],
+   "src": [
+    "https://www.festivalenfrance.com/festival/foire-au-boudin-de-mortagne"
+   ]
+  },
+  {
+   "id": "abbatiastoria",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "See Abbatia Storia light show on the Évron basilica",
+   "desc": "A free son et lumière projected on the facade of the Évron basilica each winter. The 2026-2027 edition is listed for 1 December 2026 to 4 January 2027.",
+   "tip": "Go after dark and wrap up warm.",
+   "q": "Basilique Notre-Dame de l'Épine, Place de la Basilique, Évron",
+   "ll": [
+    48.15645,
+    -0.40296
+   ],
+   "months": [
+    12,
+    1
+   ],
+   "src": [
+    "https://www.festivalenfrance.com/festival/abbatia-storia",
+    "https://www.mayenne-tourisme.com/en/offer/basilique-notre-dame-de-lepine-evron-en-555368"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "camembertroute",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Drive the Route du Camembert through the Orne",
+   "desc": "A signed touring route in the Orne links the village of Camembert, its museum and farm dairies with the surrounding bocage. Camembert de Normandie AOP must be made with raw milk.",
+   "tip": "Combine stops at the Maison du Camembert and Fromagerie Durand.",
+   "q": "Camembert, Orne",
+   "ll": [
+    48.89327,
+    0.17743
+   ],
+   "src": [
+    "https://www.routes-touristiques.com/tourisme/les-circuits/basse-normandie/circuit-de-la-route-du-camembert-61-orne.html",
+    "https://www.patrimoine-normand.com/documents/camembert-de-normandie.pdf"
+   ]
+  }
+ ]
+}

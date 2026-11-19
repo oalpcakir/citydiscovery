@@ -29,6 +29,8 @@ hubs = {k: v for k, v in json.load(io.open(os.path.join(HERE, "hubs.json"), enco
 cache_path = os.path.join(HERE, "traveltimes.json")
 cache = json.load(io.open(cache_path, encoding="utf-8")) if os.path.exists(cache_path) else {}
 PALETTE = ["#ef4444", "#f97316", "#eab308", "#22c55e", "#14b8a6", "#06b6d4", "#3b82f6", "#6366f1", "#a855f7", "#ec4899"]
+# Regions whose automatic colour looked wrong on the map (blue Istanbul vanished into the Bosphorus and the Sea of Marmara).
+FIXED_COLORS = {"istanbul": "#ec4899"}
 
 # ── Units ────────────────────────────────────────────────
 units = []  # (unit id, country, name, geometry)
@@ -146,8 +148,10 @@ for a in ids:
     for b in ids:
         if a < b and shapes[a].buffer(0.02).intersects(shapes[b]):
             adj[a].add(b); adj[b].add(a)
-colors = {}
+colors = {r: c for r, c in FIXED_COLORS.items() if r in adj}
 for r in sorted(ids, key=lambda r: -len(adj[r])):  # first pass: keep old colours where they still fit
+    if r in colors:
+        continue
     if old_colors.get(r) in PALETTE and all(colors.get(n) != old_colors[r] for n in adj[r]):
         colors[r] = old_colors[r]
 for r in sorted(ids, key=lambda r: -len(adj[r])):

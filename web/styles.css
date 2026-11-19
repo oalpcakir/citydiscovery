@@ -637,3 +637,10 @@ body.card-open .nearpanel { display: none; }
 .kofi { text-align: center; color: var(--muted); font-size: 12px; margin: 22px 0 8px; }
 .kofi a { display: inline-block; margin-top: 6px; padding: 5px 12px; border-radius: 999px; background: var(--accent-soft); color: var(--accent-ink); font-weight: 600; text-decoration: none; }
 .kofi a:hover { background: color-mix(in srgb, var(--accent) 22%, var(--card)); }
+/* Show N more under long lists, and folded sections (Stats) */
+.morebtn { display: flex; align-items: center; justify-content: center; gap: 4px; width: 100%; margin: 6px 0 0; padding: 8px; border: 0; background: none; color: var(--accent-ink); font: 600 13px var(--f-body); cursor: pointer; border-radius: 10px; }
+.morebtn:hover { background: var(--accent-soft); } .morebtn svg { transition: transform .2s; } .morebtn.open svg { transform: rotate(180deg); }
+.countries > .morebtn, .countries > .mrest { grid-column: 1 / -1; } .countries > .mrest:not([hidden]) { display: contents; }
+.list > .mrest:not([hidden]) { display: contents; }
+details.fold > summary { display: flex; align-items: center; justify-content: space-between; cursor: pointer; list-style: none; color: var(--muted); }
+details.fold > summary::-webkit-details-marker { display: none; } details.fold > summary svg { transition: transform .2s; } details.fold[open] > summary svg { transform: rotate(180deg); }

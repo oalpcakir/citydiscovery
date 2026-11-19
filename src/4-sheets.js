@@ -774,6 +774,12 @@
       case "feedback": openReport(null); break;
       case "report-send": sendReport(); break;
       case "report-mail": mailReport(); break;
+      case "more": {
+        var rest = t.previousElementSibling, opening = rest.hidden;
+        rest.hidden = !opening; ui.more = ui.more || {}; ui.more[d.id] = opening;
+        t.classList.toggle("open", opening); t.querySelector("span").textContent = opening ? "Show less" : "Show " + d.n + " more";
+        break;
+      }
       case "share-quest": shareQuest(ui.open); break;
       case "account-delete":
         if (!confirm("Delete your account? Your cloud save, cloud photos and suggestions are removed for good. Progress on this device stays.")) break;

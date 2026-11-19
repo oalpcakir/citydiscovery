@@ -143,6 +143,7 @@
     var q = res.q, b = res.before, a = res.after, lu = a.level > b.level;
     var g = a.gains.filter(function (x) { return x.q === q; })[0], parts = g ? g.parts.slice() : [];
     res.trails.forEach(function (t) { parts.push([t.name, TRAIL_XP]); });
+    var rc = cities[q.cid], rs = stats(rc.quests), rAfter = rs.pct, rBefore = rs.total ? Math.round(((rs.done - 1) / rs.total) * 100) : 0;
     ui.lastDone = q.key;
     var html = '<div class="qc">' +
       '<div class="qc-badge ' + q.cat + '"><svg viewBox="0 0 52 52"><circle cx="26" cy="26" r="23"/><path d="M15 27l7.5 7.5L37 19"/></svg></div>' +
@@ -151,9 +152,10 @@
       '<div class="qc-parts">' + parts.map(function (p, i) {
         return '<span style="animation-delay:' + (350 + i * 110) + 'ms">' + esc(p[0]) + ' +' + p[1] + '</span>';
       }).join("") + '</div>' +
-      '<div class="qc-lv"><span id="qclv">Lv ' + b.level + '</span><div class="meter xp"><i id="qcbar" style="width:' + b.pct + '%"></i></div><span id="qcnx">Lv ' + (b.level + 1) + '</span></div>';
+      '<div class="qc-lv"><span id="qclv">Lv ' + b.level + '</span><div class="meter xp"><i id="qcbar" style="width:' + b.pct + '%"></i></div><span id="qcnx">Lv ' + (b.level + 1) + '</span></div>' +
+      '<div class="qc-reg"><span>' + flagHtml(rc.country) + esc(rc.name) + '</span><div class="meter"><i id="qcreg" style="width:' + rBefore + '%"></i></div><b><span id="qcregp">' + rBefore + '</span>%</b></div>';
     if (lu) {
-      html += '<div class="levelup"><div class="burst">' + profile().avatar + '</div><div class="cel-h">Level ' + a.level + '!</div>' +
+      html += '<div class="levelup"><div class="burst">' + profile().avatar + '</div><div class="qc-k">Explorer leveled up</div><div class="cel-h">Level ' + a.level + '</div>' +
         '<div class="lu">' + (a.title !== b.title ? 'New title: <b>' + esc(a.title) + '</b>' : esc(a.title)) + '</div>' +
         (res.unlocks.length ? '<div class="unl">' + res.unlocks.map(function (u) { return '<span>' + ic("lock", "sm") + esc(unlockLabel(u)) + '</span>'; }).join("") + '</div>' : "") + '</div>';
     }
@@ -170,7 +172,7 @@
     }
     html += '<div class="qc-mem"><div class="qc-k2">Capture the memory</div>' + photoRow(q.key) +
       '<textarea id="note" placeholder="A line for your journal (+' + XP.journal + ' XP)">' + esc((rec(q) || {}).note || "") + '</textarea></div>' +
-      '<div class="actions"><button class="btn" data-act="close">Done</button>' +
+      '<div class="actions"><button class="btn" data-act="close">Keep exploring</button>' +
       (lu ? '<button class="btn ghost" data-act="share">' + ic("share-2") + 'Share your level</button>' : "") + '</div></div>';
     closeSheetSilently();
     showSheet("complete", html, true);
@@ -178,8 +180,12 @@
     chime(lu || res.fresh.length > 0 || res.trails.length > 0);
     buzz(lu ? [40, 60, 40, 60, 140] : [30, 50, 80]);
     confetti(lu || res.trails.length > 0);
-    countUp(document.getElementById("qcxp"), 0, res.gained, 1100);
-    var barEl = document.getElementById("qcbar");
+    countUp(document.getElementById("qcxp"), 0, res.gained, 800);
+    var barEl = document.getElementById("qcbar"), regEl = document.getElementById("qcreg");
+    setTimeout(function () {
+      if (regEl) regEl.style.width = rAfter + "%";
+      countUp(document.getElementById("qcregp"), rBefore, rAfter, 500);
+    }, 650);
     setTimeout(function () {
       if (!barEl) return;
       if (!lu) { barEl.style.width = a.pct + "%"; return; }
@@ -307,7 +313,7 @@
         var c = CLASSES[k];
         return pickBtn("cls", k, '<span class="pe">' + c.icon + '</span><span class="pc"><b>' + c.name + '</b><small>' + c.desc + '</small></span>', pr.cls, 0);
       }).join("") + '</div>' +
-      '<label class="lbl" for="phome">Home region <small>(your quest of the day comes from here)</small></label><select id="phome" class="inp">' + Object.keys(cities).map(function (id) {
+      '<label class="lbl" for="phome">Home region <small>(today\'s adventure comes from here)</small></label><select id="phome" class="inp">' + Object.keys(cities).map(function (id) {
         return '<option value="' + id + '"' + ((pr.home || cityId) === id ? " selected" : "") + '>' + esc(cities[id].name) + ' (' + esc(cities[id].country) + ')</option>';
       }).join("") + '</select>';
     if (!first) {

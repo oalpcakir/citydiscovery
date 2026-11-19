@@ -430,7 +430,7 @@
       if (!seenRegion[q.cid]) { seenRegion[q.cid] = 1; parts.push(["New region", XP.region]); }
       var ak = q.cid + "/" + q.area;
       if (!seenArea[ak]) { seenArea[ak] = 1; parts.push(["New area", XP.area]); }
-      if (e.d) parts.push(["Quest of the day", XP.daily]);
+      if (e.d) parts.push(["Today's adventure", XP.daily]);
       if (e.v) parts.push(["Checked in", XP.checkin]);
       if (e.note) parts.push(["Journal", XP.journal]);
       if (e.photos) parts.push(["Snapshot", XP.photo]);

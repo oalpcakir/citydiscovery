@@ -83,6 +83,19 @@ Mint is the default. Ocean, Sunset, Berry, Royal and Gilded stay as level reward
 
 Region colours (`web/regions.js`) are a fixed set of ten Tailwind-500 hues, used only for region outlines and the region dot. They sit next to the brand, not inside it: never use a region colour for buttons, text or the mark.
 
+### Utility layer and game layer
+
+The map, search, filters and quest details are the **utility layer**: plain cards, neutral surfaces, nothing that slows you down. The explorer screen, the quest board's feature card, the badge cabinet and the completion sheet are the **game layer**: same tokens, warmer surfaces.
+
+- `--game` (a mint-to-spark tint over the card colour) and `--game-line` are for game-layer panels only. Never on the map or map controls.
+- Quest types keep their own card shape rather than a rarity system: today's adventure is a large feature card (photo cover when there is one, spark "+50 bonus XP" pill), seasonal quests sit in the spark-edged strip, trails have a dashed route line and a spark XP pill.
+- Numbers in stats and XP use tabular figures.
+- The completion moment stays short (XP counts up in under a second, the level bar and region bar fill) and is closed with "Keep exploring".
+
+### Words
+
+Use: "Your explorer" (not profile or hero), "Today's adventure" (not quest of the day), "Explorer leveled up", "Uncharted territory" for a region with nothing done, "Your adventure list" for saved quests. Errors, sync, location and account deletion stay plain and literal.
+
 ## Typography
 
 | Role | Face | Where |

@@ -234,7 +234,7 @@
       return '<button data-tab="' + id + '" class="' + (on ? "on" : "") + '">' + ic(icon) + '<span>' + label + '</span></button>';
     };
     $app.innerHTML = views[ui.tab]() + '<nav class="tabs">' + tab("map", "map", "Map", onMap) + tab("quests", "list-checks", "Quests", ui.tab === "quests") +
-      tab("badges", "award", "Badges", ui.tab === "badges") + tab("stats", "chart-column", "Stats", ui.tab === "stats") + tab("hero", "user-round", "Hero", heroish) + '</nav>';
+      tab("badges", "award", "Badges", ui.tab === "badges") + tab("stats", "chart-column", "Stats", ui.tab === "stats") + tab("hero", "user-round", "Explorer", heroish) + '</nav>';
     document.body.classList.toggle("on-map", onMap);
     if (onMap) updateMap(wasHidden);
     if (ui.tab === "hero") fillMemories();
@@ -248,7 +248,7 @@
   function topcardHtml(glass) {
     var s = stats(city.quests), p = progress(), pr = profile();
     return '<div class="topcard' + (glass ? " glass" : "") + '">' +
-      '<button class="plain" data-tab="hero" aria-label="Your hero, level ' + p.level + '">' + avatarHtml(pr, p) + '</button>' +
+      '<button class="plain" data-tab="hero" aria-label="Your explorer, level ' + p.level + '">' + avatarHtml(pr, p) + '</button>' +
       '<div class="grow"><button class="tc-city" data-act="regions">' + flagHtml(city.country) + esc(city.name) + ' ' + ic("chevron-down", "sm") + '</button>' +
       '<div class="tc-sub">' + esc(heroTitle(p)) + ' · ' + fmt(p.into) + ' / ' + fmt(p.need) + ' XP' +
         (p.streak ? ' · <span class="fire">' + ic("flame", "sm") + p.streak + '</span>' : "") + '</div>' + bar(p.pct, "xp") + '</div>' +
@@ -335,9 +335,9 @@
       return '<button class="fab done" data-act="my-map-end">' + ic("x") + '<span><small>My map · ' + fmt(n) + (n === 1 ? " place" : " places") + ' you have done</small>Show all quests</span></button>';
     }
     return dq && !isDone(dq)
-      ? '<button class="fab" data-open="' + esc(dq.key) + '">' + ic("star") + '<span><small>Quest of the day · +' + XP.daily + ' XP' +
+      ? '<button class="fab" data-open="' + esc(dq.key) + '">' + ic("star") + '<span><small>Today\'s adventure · +' + XP.daily + ' XP' +
         (seasonDaysLeft(dq) !== null ? ' · ' + leftText(seasonDaysLeft(dq)).toLowerCase() : "") + '</small>' + esc(dq.title) + '</span></button>'
-      : '<button class="fab done" data-act="suggest">' + ic("check") + '<span><small>Quest of the day done</small>Surprise me with another</span></button>';
+      : '<button class="fab done" data-act="suggest">' + ic("check") + '<span><small>Today\'s adventure done</small>Surprise me with another</span></button>';
   }
   function renderMapUI() {
     var wide = isWide();
@@ -443,19 +443,31 @@
       return true;
     });
     if (!list.length) {
-      return '<div class="empty">' + (needle ? 'No quests match "' + esc(ui.q.trim()) + '".' : ui.show === "done" ? "Nothing completed here yet. Pick your first one!" : "Nothing left in this filter.") + '</div>';
+      return '<div class="empty">' + (needle ? 'No quests match "' + esc(ui.q.trim()) + '".' : ui.show === "done" ? "Uncharted territory. Pick your first quest." : "All done in this filter.") + '</div>';
     }
     if (ui.near && ui.pos) {
       return list.filter(ll).map(function (q) { return [q, km(ui.pos, ll(q))]; }).sort(function (a, b) { return a[1] - b[1]; })
         .map(function (x) { return questRow(x[0], { dist: x[1] }); }).join("");
     }
     if (needle) return list.map(function (q) { return questRow(q); }).join("");
-    return seasonStrip() + Object.keys(city.areas).map(function (a) {
+    return (ui.tab === "quests" ? todayCard() : "") + seasonStrip() + Object.keys(city.areas).map(function (a) {
       var part = list.filter(function (q) { return q.area === a; });
       if (!part.length) return "";
       var s = stats(inArea(a));
       return '<div class="ghead"><b>' + esc(city.areas[a]) + '</b><span>' + s.done + ' / ' + s.total + '</span></div>' + part.map(function (q) { return questRow(q); }).join("");
     }).join("");
+  }
+  // The quest of the day as the board's feature card (photo cover when there is one).
+  function todayCard() {
+    var dq = dailyQuest();
+    if (!dq || isDone(dq) || ui.show === "done" || (ui.cat !== "all" && dq.cat !== ui.cat)) return "";
+    var ph = photoOf(dq), c = cities[dq.cid], left = seasonDaysLeft(dq);
+    return '<button class="today ' + dq.cat + (ph ? " hasph" : "") + '" data-open="' + esc(dq.key) + '"' +
+      (ph ? ' style="background-image:url(' + esc(thumb(ph[0], 640)) + ')"' : "") + '>' +
+      '<span class="td-top"><span class="td-k">' + ic("star", "sm") + 'Today\'s adventure</span><span class="td-xp">+' + XP.daily + ' bonus XP</span></span>' +
+      '<span class="td-b"><span class="td-cat">' + ic(CATS[dq.cat].icon, "sm") + CATS[dq.cat].label + ' · ' + esc(c.areas[dq.area]) +
+        (dq.cid !== cityId ? ' · ' + esc(c.name) : "") + (left !== null ? ' · ' + leftText(left).toLowerCase() : "") + '</span>' +
+      '<b>' + esc(dq.title) + '</b><span class="td-go">View quest' + ic("chevron-right", "sm") + '</span></span></button>';
   }
   // Seasonal quests open right now, soonest ending first: "do it before it's gone".
   function seasonStrip() {
@@ -492,7 +504,7 @@
     } else {
       var saved = allQuests.filter(isSaved).sort(function (a, b) { return store.saved[b.key] - store.saved[a.key]; });
       html += '</div><div class="list">' + (saved.length ? saved.map(function (q) { return questRow(q, { region: true }); }).join("")
-        : '<div class="empty">' + ic("bookmark", "big") + '<br>Tap the bookmark on any quest to save it for later.<br>Saved quests from every region collect here.</div>') + '</div>';
+        : '<div class="empty">' + ic("bookmark", "big") + '<br>Your adventure list is empty.<br>Tap the bookmark on any quest to save it here, from any region.</div>') + '</div>';
     }
     return html;
   }
@@ -530,29 +542,59 @@
       '<span class="uf sw" style="background:' + u.color + '"></span>';
     return '<div class="ut' + (locked ? " locked" : "") + '">' + face + '<small>' + (locked ? "Lv " + u.level : esc(u.name || "Avatar")) + '</small></div>';
   }
+  // Every badge earned in any region, best tier first: the hero's trophy shelf.
+  function badgeCabinet() {
+    var got = [];
+    Object.keys(cities).forEach(function (id) {
+      badges(cities[id]).forEach(function (b) {
+        if (b.tier) got.push({ b: b, cid: id, cls: b.max === 1 ? "gold" : TIERS[b.tier - 1].key, rank: b.max === 1 ? 3 : b.tier });
+      });
+    });
+    got.sort(function (a, b) { return b.rank - a.rank; });
+    var shown = got.slice(0, 11);
+    return '<h2>Badge cabinet <span class="h2n">' + got.length + ' collected</span></h2><button class="panel cabinet" data-tab="badges">' +
+      (got.length ? '<div class="shelf">' + shown.map(function (x) {
+        return '<span class="cab ' + x.cls + '" title="' + esc(x.b.name + " · " + cities[x.cid].name) + '">' + x.b.icon + '</span>';
+      }).join("") + (got.length > shown.length ? '<span class="cab more">+' + (got.length - shown.length) + '</span>' : "") + '</div>'
+        : '<div class="shelf">' + [0, 1, 2, 3, 4].map(function () { return '<span class="cab empty">' + ic("lock", "sm") + '</span>'; }).join("") + '</div>' +
+          '<div class="note flat">Your first quest in a region earns First Steps.</div>') +
+      '<span class="cab-go">See all badges in ' + esc(city.name) + ic("chevron-right", "sm") + '</span></button>';
+  }
+  function masteryHtml(p) {
+    var cls = CLASSES[profile().cls];
+    return '<h2>Explorer mastery</h2><div class="panel mastery">' + ATTRS.map(function (a) {
+      var x = p.attr[a.key], ai = attrInfo(x), fav = cls && (cls.cat ? cls.cat === a.key : a.key === "far");
+      return '<div class="attr ' + (CATS[a.key] ? a.key : "") + '"><span class="ai">' + ic(a.icon) + '</span><div class="grow"><div class="an">' + a.name +
+        (fav ? ' <em>' + esc(cls.name) + ' bonus</em>' : "") + '<span>Lv ' + ai.level + '</span></div><small>' + a.desc + ' · ' + fmt(x) + ' XP</small>' + bar(ai.pct) + '</div></div>';
+    }).join("") + '</div>';
+  }
   function renderHero() {
     var p = progress(), pr = profile(), cls = CLASSES[pr.cls], dq = dailyQuest();
     var next = Math.min(50, 10 * (p.thisWeek ? p.streak - 1 : p.streak));
     var upcoming = UNLOCKS.filter(function (u) { return u.level > p.level; }).sort(function (a, b) { return a.level - b.level; });
-    var html = head("Your hero", "Every quest, anywhere, earns XP", { gear: true }) + '<div class="section">' +
-      '<div class="panel hero">' + avatarHtml(pr, null, "xl") +
-        '<div class="grow"><div class="lv">Level ' + p.level + (cls ? ' · ' + cls.name : '') + '</div>' +
-        '<div class="ttl">' + esc(pr.name || "Explorer") + '</div><div class="sub">' + esc(heroTitle(p)) + '</div>' + bar(p.pct, "xp") +
-        '<div class="ls">' + fmt(p.into) + ' / ' + fmt(p.need) + ' XP to level ' + (p.level + 1) + '</div></div>' +
-        '<button class="edit" data-act="profile" aria-label="Edit your explorer">' + ic("pencil") + '</button></div>' +
-      '<div class="streak' + (p.streak ? " on" : "") + '">' + ic("flame") + '<span>' + (p.streak
-        ? p.streak + "-week streak" + (next ? ". Quests this week earn +" + next + "% XP" : "")
-        : "Complete a quest this week to start a streak: +10% XP per week in a row, up to +50%") + '</span></div>' +
-      '<div class="stats">' +
-        '<div class="stat"><b>' + fmt(p.xp) + '</b><span>Total XP</span></div>' +
-        '<div class="stat"><b>' + p.quests + '</b><span>Quests</span></div>' +
-        '<div class="stat"><b>' + p.regions + '/' + Object.keys(cities).length + '</b><span>Regions</span></div>' +
-        '<div class="stat"><b>' + p.badges + '</b><span>Badges</span></div></div>';
+    var html = head("Your explorer", "One explorer, every region", { gear: true }) + '<div class="section">' +
+      '<div class="panel charcard">' +
+        '<button class="edit" data-act="profile" aria-label="Customize your explorer">' + ic("pencil") + '</button>' +
+        '<div class="cc-av">' + avatarHtml(pr, null, "xl") + '</div>' +
+        '<div class="cc-lv"><span class="lvpill">Level ' + p.level + '</span>' + (cls ? '<span class="clspill">' + cls.icon + ' ' + esc(cls.name) + '</span>' : "") + '</div>' +
+        '<div class="ttl">' + esc(pr.name || "Explorer") + '</div><div class="sub">' + esc(heroTitle(p)) + '</div>' +
+        '<div class="cc-xp"><b>' + fmt(p.xp) + '</b> XP</div>' + bar(p.pct, "xp big") +
+        '<div class="ls">' + fmt(p.need - p.into) + ' XP to level ' + (p.level + 1) + '</div>' +
+        '<div class="cc-stats">' +
+          '<div><b>' + fmt(p.quests) + '</b><span>Quests</span></div>' +
+          '<div><b>' + p.regions + '</b><span>' + (p.regions === 1 ? "Region" : "Regions") + '</span></div>' +
+          '<div class="' + (p.streak ? "hot" : "") + '"><b>' + ic("flame", "sm") + p.streak + ' wk</b><span>Streak</span></div>' +
+          '<div><b>' + p.badges + '</b><span>Badges</span></div></div>' +
+        (cls ? "" : '<button class="btn ghost" data-act="profile" style="margin-top:12px">Pick your class</button>') + '</div>' +
+      (p.streak && !next ? "" : '<div class="streak' + (p.streak ? " on" : "") + '">' + ic("flame") + '<span>' + (p.streak
+        ? p.streak + "-week streak. Quests this week earn +" + next + "% XP"
+        : "Complete a quest this week to start a streak: +10% XP per week in a row, up to +50%") + '</span></div>');
     if (dq) {
-      html += '<button class="panel daily" data-open="' + esc(dq.key) + '">' + ic("star", "big") + '<div class="grow"><small>Quest of the day' +
+      html += '<button class="panel daily" data-open="' + esc(dq.key) + '">' + ic("star", "big") + '<div class="grow"><small>Today\'s adventure' +
         (isDone(dq) ? " · done" : " · +" + XP.daily + " XP bonus") + '</small><b>' + esc(dq.title) + '</b></div>' + ic(isDone(dq) ? "check" : "chevron-right") + '</button>';
     }
     html += '<button class="btn ghost" data-act="share" style="margin-top:10px">' + ic("share-2") + 'Share card</button>' +
+      masteryHtml(p) + badgeCabinet() +
       '<h2>Unlocks</h2><div class="panel">' +
         (upcoming.length ? '<div class="nextu">Next at level ' + upcoming[0].level + ': <b>' + esc(unlockLabel(upcoming[0])) + '</b></div>' : '<div class="nextu">Everything unlocked. Legendary.</div>') +
         '<div class="ugrid">' + UNLOCKS.map(function (u) { return unlockTile(u, p.level); }).join("") + '</div>' +
@@ -758,13 +800,8 @@
         var o = cs[n], pct = o.total ? Math.round((o.done / o.total) * 100) : 0;
         return '<div class="ctry"><div class="ctry-h">' + flagHtml(n) + '<b>' + esc(n) + '</b><span>' + pct + '%</span></div>' + bar(pct) +
           '<small>' + o.done + ' / ' + o.total + ' quests · ' + o.started + ' / ' + o.regions + ' regions</small></div>';
-      }).join("") + '</div><h2>Attributes</h2><div class="panel">';
-    ATTRS.forEach(function (a) {
-      var x = p.attr[a.key], ai = attrInfo(x);
-      html += '<div class="attr"><span class="ai">' + ic(a.icon) + '</span><div class="grow"><div class="an">' + a.name +
-        ' <span>Lv ' + ai.level + '</span></div><small>' + a.desc + ' · ' + fmt(x) + ' XP</small>' + bar(ai.pct, "xp") + '</div></div>';
-    });
-    html += '</div><h2>' + flagHtml(city.country) + esc(city.name) + '</h2><div class="panel profile">' + ring(s.pct, true) + '<div class="grow"><div class="lvx">' +
+      }).join("") + '</div>';
+    html += '<h2>' + flagHtml(city.country) + esc(city.name) + '</h2><div class="panel profile">' + ring(s.pct, true) + '<div class="grow"><div class="lvx">' +
       esc(levelFor(s.pct)) + '</div><div class="ls">' + s.done + ' / ' + s.total + ' quests · ' + (trailsByCity[cityId] || []).filter(trailDone).length + ' trails</div></div></div>' +
       '<div class="panel" style="margin-top:10px">';
     Object.keys(CATS).forEach(function (c) {
@@ -781,7 +818,7 @@
     return html + '</div><h2>How XP works</h2><div class="panel"><ul class="rules">' +
       '<li>Quest +' + XP.quest + ', seasonal +' + XP.seasonal + ', day trip outside the city +' + XP.far + '</li>' +
       '<li>First quest in a new region +' + XP.region + ', in a new area +' + XP.area + '</li>' +
-      '<li>Quest of the day +' + XP.daily + ', checking in on the spot +' + XP.checkin + '</li>' +
+      '<li>Today\'s adventure +' + XP.daily + ', checking in on the spot +' + XP.checkin + '</li>' +
       '<li>A journal note +' + XP.journal + ', a photo +' + XP.photo + '</li>' +
       '<li>Your class: +25% on its kind of quest</li>' +
       '<li>Weekly streak: +10% per week in a row, up to +50%</li>' +

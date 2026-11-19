@@ -639,6 +639,7 @@
     if (d.tab) { closeSheetSilently(); ui.pinMode = false; ui.tab = d.tab; render(); window.scrollTo(0, 0); return; }
     switch (d.act) {
       case "suggest": suggest(); break;
+      case "musteats": closeSheetSilently(); ui.tab = "quests"; ui.qview = "dishes"; render(); window.scrollTo(0, 0); break;
       case "regions": openRegions(); break;
       case "overview": showOverview(); break;
       case "zoom-in": if (map) map.zoomIn(); break;

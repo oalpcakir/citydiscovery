@@ -313,7 +313,7 @@
     if (ui.trail && trailById[ui.trail]) return trailDetailHtml();
     if (ui.panel === "trails") return trailPickHtml();
     if (ui.panel === "near" && ui.panelAt) return nearListHtml();
-    return '<button class="btn ghost trailsbtn" data-act="trails">' + ic("route") + 'Trails in ' + esc(city.name) + ' <small>' + (trailsByCity[cityId] || []).length + '</small></button>' +
+    return '<button class="btn ghost trailsbtn" data-act="trails">' + ic("route") + 'Trails in ' + esc(city.name) + ' <small>' + (trailsByCity[cityId] || []).length + '</small></button>' + mustEatMini() +
       '<div class="chips">' + catChips() + '<i class="sep"></i>' + chip("show", "todo", "To do") + chip("show", "done", "Done") + chip("show", "all", "Both") + '</div>' +
       '<div class="chips">' + areaChips() + '</div><div class="list flush">' + questListHtml() + '</div>';
   }
@@ -488,6 +488,19 @@
       }).join("") + '</div>' +
       '<div class="me-f">' + (all ? "Local Palate earned. You have eaten your way through " + esc(city.name) + "."
         : "Eat them anywhere in the region · +" + XP.dish + " XP each, all " + list.length + " earn Local Palate") + '</div></div>';
+  }
+  // The map side panel's short version: the next two dishes you have not eaten yet, and a way to the full list.
+  function mustEatMini() {
+    var list = city.dishes || [];
+    if (!list.length || (ui.cat !== "all" && ui.cat !== "ye")) return "";
+    var left = list.filter(function (d) { return !dishEaten(d); }), eaten = list.length - left.length;
+    var head = '<div class="mm-h"><span>' + ic("utensils", "sm") + 'Must-eats</span><b>' + eaten + ' / ' + list.length + '</b>' +
+      '<button class="linkbtn" data-act="musteats">See all</button></div>';
+    if (!left.length) return '<div class="musteat mini full">' + head + '<div class="me-f">Local Palate earned in ' + esc(city.name) + '.</div></div>';
+    return '<div class="musteat mini">' + head + '<div class="mm-row">' + left.slice(0, 2).map(function (d) {
+      return '<button class="mm-d" data-dish="' + esc(d.key) + '" aria-label="I ate ' + esc(d.name) + '" title="Tap when you have eaten it">' +
+        '<span class="st-i">' + d.icon + '</span><span class="grow"><b>' + esc(d.name) + '</b></span><small>+' + XP.dish + ' XP</small></button>';
+    }).join("") + '</div></div>';
   }
   // Seasonal quests open right now, soonest ending first: "do it before it's gone".
   function seasonStrip() {

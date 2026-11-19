@@ -1,0 +1,47 @@
+{
+ "picks": [
+  "fbchateau",
+  "smvaux",
+  "smdisney",
+  "pvcesar",
+  "fbdenecourt"
+ ],
+ "cards": {
+  "fbchateau": {
+   "name": "Château de Fontainebleau",
+   "art": "palace",
+   "slogan": "Where kings hunted, and an emperor said goodbye.",
+   "line": "The true residence of kings, the house of the centuries.",
+   "by": "Napoleon, recalled on St Helena",
+   "source": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Fontainebleau"
+  },
+  "smvaux": {
+   "name": "Vaux-le-Vicomte",
+   "art": "palace",
+   "slogan": "The garden party that gave Louis XIV his Versailles.",
+   "line": "Fouquet bought and demolished three villages for it, and employed a reported 18,000 workers.",
+   "source": "https://en.wikipedia.org/wiki/Vaux-le-Vicomte"
+  },
+  "smdisney": {
+   "name": "Disneyland Park",
+   "art": "castle",
+   "slogan": "Sleeping Beauty's castle, an hour from the Eiffel Tower.",
+   "line": "It opened on 12 April 1992 as Euro Disney and drew almost eleven million guests in its first year.",
+   "source": "https://d23.com/this-day/1992-disneyland-paris-officially-opens/"
+  },
+  "pvcesar": {
+   "name": "Tour César, Provins",
+   "art": "tower",
+   "slogan": "A count's keep above the old fair town.",
+   "line": "Its 12th-century keep is an octagon rising from a square base, a rare design.",
+   "source": "https://www.lonelyplanet.com/articles/guide-to-provins-france"
+  },
+  "fbdenecourt": {
+   "name": "Tour Denecourt",
+   "art": "tower",
+   "slogan": "Climb above the oaks and boulders of the forest.",
+   "line": "Built in 1853 by Napoleonic veteran Claude-François Denecourt, who also marked the first blue hiking trails.",
+   "source": "https://www.tourisme-seine-et-marne.fr/en/activities/walks-hikes/on-foot/6367855-from-the-denecourt-tower-to-the-calvaire-cross-trail"
+  }
+ }
+}

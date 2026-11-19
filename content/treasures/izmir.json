@@ -1,0 +1,46 @@
+{
+ "picks": [
+  "celsuslibrary",
+  "pergamonacropolis",
+  "izmirclocktower",
+  "kemeraltibazaar",
+  "alacatiwindmills"
+ ],
+ "cards": {
+  "celsuslibrary": {
+   "name": "Library of Celsus",
+   "art": "museum",
+   "slogan": "A two-storey facade that guarded 12,000 scrolls and a buried proconsul.",
+   "line": "Built in honour of Tiberius Julius Celsus, who lies in a crypt beneath it, and rebuilt stone by stone between 1970 and 1978.",
+   "source": "https://en.wikipedia.org/wiki/Library_of_Celsus"
+  },
+  "pergamonacropolis": {
+   "name": "Pergamon Acropolis",
+   "art": "castle",
+   "slogan": "Temples and a theatre stacked on a hilltop above Bergama.",
+   "line": "Its theatre, 36 metres high with 78 rows, is the steepest of all ancient theatres.",
+   "source": "https://en.wikipedia.org/wiki/Pergamon"
+  },
+  "izmirclocktower": {
+   "name": "Izmir Clock Tower",
+   "art": "tower",
+   "slogan": "The 25-metre filigree that tells Konak Square what time it is.",
+   "line": "Raised in 1901 for Sultan Abdülhamid II's 25 years on the throne; its clock was a gift from Kaiser Wilhelm II.",
+   "source": "https://izmir.ktb.gov.tr/EN-239241/clock-tower.html"
+  },
+  "kemeraltibazaar": {
+   "name": "Kemeraltı Bazaar",
+   "art": "market",
+   "slogan": "Hans, mosques and synagogues, all tangled into one bazaar maze.",
+   "line": "The bazaar took shape between 1650 and 1670, when the shallow inner bay was filled in.",
+   "source": "https://en.wikipedia.org/wiki/Kemeralt%C4%B1"
+  },
+  "alacatiwindmills": {
+   "name": "Alaçatı Windmills",
+   "art": "windmill",
+   "slogan": "Stone mills above lanes of whitewashed houses and a windy bay.",
+   "line": "These stone mills, more than 150 years old, were built to grind the village's wheat.",
+   "source": "https://www.timeturk.com/kultur/anadolu-nun-tarihini-donduren-degirmenler/haber-1704696"
+  }
+ }
+}

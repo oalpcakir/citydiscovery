@@ -1,0 +1,8 @@
+{"picks": ["esschacht12", "esdulandschaftspark", "esosgasometer", "estigerturtle", "esvillahuegel"],
+ "cards": {
+  "esschacht12": {"name": "Zollverein", "art": "tower", "slogan": "A Bauhaus coal mine that now holds a museum and a skating rink.", "line": "The last coal was cut on 23 December 1986; UNESCO made Zollverein a World Heritage Site in 2001.", "source": "https://en.wikipedia.org/wiki/Zollverein_Coal_Mine_Industrial_Complex"},
+  "esdulandschaftspark": {"name": "Landschaftspark Duisburg-Nord", "art": "skyline", "slogan": "Rust, ferns and floodlights where iron once poured.", "line": "Divers swim in an old gasholder and climbers scale the ore-bunker walls of this former Thyssen ironworks.", "source": "https://en.wikipedia.org/wiki/Landschaftspark_Duisburg-Nord"},
+  "esosgasometer": {"name": "Gasometer Oberhausen", "art": "tower", "slogan": "A steel drum 117 metres tall, hollowed out for art.", "line": "In 1992 Oberhausen's council voted to buy the gasholder by a single vote; it reopened as an exhibition hall in 1994.", "source": "https://en.wikipedia.org/wiki/Gasometer_Oberhausen"},
+  "estigerturtle": {"name": "Tiger & Turtle", "art": "bridge", "slogan": "Climb a rollercoaster that never leaves the ground.", "line": "Opened in 2011 on Heinrich-Hildebrand-Höhe, this walkable steel coaster stops short of its loop, which cannot be climbed.", "source": "https://en.wikipedia.org/wiki/Tiger_and_Turtle_%E2%80%93_Magic_Mountain"},
+  "esvillahuegel": {"name": "Villa Hügel", "art": "palace", "slogan": "The Krupp family's hilltop home above the Ruhr.", "line": "Alfred Krupp's villa has 269 rooms and was built in 1870-73 with double-paned windows and an early form of air conditioning.", "source": "https://en.wikipedia.org/wiki/Villa_H%C3%BCgel"}
+ }}

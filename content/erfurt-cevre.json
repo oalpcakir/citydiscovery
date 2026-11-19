@@ -1,0 +1,882 @@
+{
+ "new": [
+  {
+   "id": "erwartburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb up to the Wartburg above Eisenach",
+   "desc": "The castle was founded in 1067 by Louis the Springer and has been a UNESCO World Heritage Site since 1999. Elisabeth of Hungary lived here and Martin Luther hid here in 1521-22, translating the New Testament into German.",
+   "tip": "Walk up from the town through the forest (about 30 minutes) instead of taking the shuttle; guided tours cover the Luther Room and the Great Hall.",
+   "q": "Wartburg, Auf der Wartburg 1, Eisenach",
+   "ll": [
+    50.96667,
+    10.30667
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Eisenach",
+    "https://dbpedia.org/page/Wartburg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "erfriedenstein",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore Schloss Friedenstein, Gotha's ducal palace",
+   "desc": "One of the largest early Baroque palaces in Germany, built 1643-1654 for Ernest I, Duke of Saxe-Gotha. It houses several museums, a historic court theatre and ducal collections.",
+   "tip": "Combine the palace museums with a walk through the park; allow half a day.",
+   "q": "Schloss Friedenstein, Schlossplatz 1, Gotha",
+   "ll": [
+    50.94574,
+    10.70383
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Friedenstein_Palace"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "erschlosspark",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stroll the Schlosspark Gotha",
+   "desc": "The 37-hectare park around Friedenstein Palace is one of the largest in Germany and combines Baroque and English landscape garden styles.",
+   "tip": "Free to enter; best in spring and early summer when the gardens bloom.",
+   "q": "Schlosspark Gotha, Gotha",
+   "ll": [
+    50.94392,
+    10.70433
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Schlosspark_Gotha"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "erkyffhaeuser",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Kyffhäuser Monument and Barbarossa legend",
+   "desc": "Built 1890-1896 to honour Kaiser Wilhelm I, the monument links him to the legend of Emperor Barbarossa sleeping inside the mountain. It is the third-largest monument in Germany, on the Kyffhäuser ridge north of Bad Frankenhausen.",
+   "tip": "Climb the tower for views over the Goldene Aue; the car park is a short walk below.",
+   "q": "Kyffhäuserdenkmal, Steinthaleben, Kyffhäuserland",
+   "ll": [
+    51.41331,
+    11.10866
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Kyffh%C3%A4user_Monument"
+   ]
+  },
+  {
+   "id": "erfeengrotten",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the colourful Saalfeld Fairy Grottoes",
+   "desc": "A former alum slate mine opened to visitors in 1914; its mineral colours earned a Guinness listing in 1993 as the most colourful cave grottoes in the world. Tours of about 45 minutes cover roughly 550 metres.",
+   "tip": "The caves stay cool all year, so bring a jacket; summer weekends are busiest.",
+   "q": "Saalfelder Feengrotten, Feengrottenweg 2, Saalfeld",
+   "ll": [
+    50.63463,
+    11.33936
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Saalfeld_Fairy_Grottoes"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ernaumburgerdom",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Naumburg Cathedral and its donor figures",
+   "desc": "The Romanesque-Gothic cathedral was begun in 1028 and became a UNESCO World Heritage Site in 2018. Its west choir holds the life-size founder statues, including Uta and Ekkehard.",
+   "tip": "Allow an hour inside and look for the Uta statue; check opening times in winter.",
+   "q": "Naumburger Dom, Domplatz 16, Naumburg (Saale)",
+   "ll": [
+    51.15458,
+    11.80393
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Naumburg_Cathedral"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "erdornburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander the three Dornburg castles above the Saale",
+   "desc": "Three palaces on a cliff, used by the dukes of Saxe-Weimar-Eisenach as a summer residence and known as the balcony of Thuringia. The terraced rose gardens link the Rococo and Renaissance palaces.",
+   "tip": "June is rose season, and a Schlössernacht festival runs in late summer.",
+   "q": "Dornburger Schlösser, Max-Krehan-Straße 2, Dornburg-Camburg",
+   "ll": [
+    51.00626,
+    11.66834
+   ],
+   "src": [
+    "https://www.merian.de/deutschland/thueringen/dornburger-schloesser",
+    "https://tourispo.de/schloss-burg/dornburger-schloesser.html"
+   ]
+  },
+  {
+   "id": "erdivi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Divi Blasii, Bach's church in Mühlhausen",
+   "desc": "The Gothic hall church on the Untermarkt is where Johann Sebastian Bach worked as organist in 1707-1708. Mühlhausen is known as a city of churches with a well-preserved old town.",
+   "tip": "Open Tuesday to Sunday in the season; combine with St. Marien in the upper town.",
+   "q": "Divi Blasii, Mühlhausen/Thüringen",
+   "ll": [
+    51.20718,
+    10.45879
+   ],
+   "src": [
+    "https://en.wikipedia.com/wiki/Divi_Blasii",
+    "https://www.muehlhausen.de/tourismus/en/sights/churches/the-church-of-blaise-the-divine/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ermarienkirche",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Step inside St. Marien, Thuringia's second-largest church",
+   "desc": "A five-aisled High Gothic hall church in Mühlhausen's upper town, the largest church in Thuringia after Erfurt Cathedral. Bach played here and his cantata Gott ist mein König premiered in the church.",
+   "tip": "Open year round Tuesday to Sunday; the tower gives views over the old town.",
+   "q": "Marienkirche, Kornmarkt, Mühlhausen/Thüringen",
+   "ll": [
+    51.21019,
+    10.45519
+   ],
+   "src": [
+    "https://EN.wikipedia.com/wiki/Marienkirche,_M%C3%BChlhausen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "erbachkirche",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Bach Church in Arnstadt",
+   "desc": "Built 1676-1683 as the Neue Kirche after a fire, this Baroque hall church was renamed Bach Church in 1935. Bach was organist here from 1703 to 1707 and the Wender organ he inaugurated still stands.",
+   "tip": "Check opening times in the off-season.",
+   "q": "Bachkirche, Kirchplatz, Arnstadt",
+   "ll": [
+    50.8344,
+    10.9473
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Bach_Church,_Arnstadt"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "erwilhelmsburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Discover Schloss Wilhelmsburg in Schmalkalden",
+   "desc": "A four-wing Renaissance palace built from 1584 by Landgrave Wilhelm IV of Hesse and consecrated in 1590. It holds a museum on the Renaissance, the Reformation and the Schmalkaldic League.",
+   "tip": "Allow 1-2 hours; the original palace church is the highlight.",
+   "q": "Schloss Wilhelmsburg, Schlossberg 9, Schmalkalden",
+   "ll": [
+    50.72277,
+    10.4564
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Wilhelmsburg_Castle"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "erelisabethenburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour Schloss Elisabethenburg in Meiningen",
+   "desc": "The ducal Baroque palace was built 1682-1692 and is named after Duchess Elisabeth Eleonore. It now holds the Meiningen Museums, tied to the court orchestra and the ducal theatre of Georg II.",
+   "tip": "Pair it with the nearby Staatstheater Meiningen.",
+   "q": "Schloss Elisabethenburg, Bibrasche Straße 1, Meiningen",
+   "ll": [
+    50.57031,
+    10.41273
+   ],
+   "src": [
+    "https://schatzkammer-thueringen.de/en/objekt/schloss-elisabethenburg-in-meiningen/",
+    "https://www.thueringen-entdecken.de/w/schloss-elisabethenburg-in-meiningen?fontsize=1"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "erheidecksburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Admire the Baroque Heidecksburg above Rudolstadt",
+   "desc": "The large three-wing Baroque palace of the Schwarzburg-Rudolstadt princes crowns a hill spur above the town. It houses the Thuringian State Museum Heidecksburg and the Thuringian State Archives.",
+   "tip": "Visit during the July Rudolstadt festival for a lively atmosphere.",
+   "q": "Schloss Heidecksburg, Schloßbezirk 1, Rudolstadt",
+   "ll": [
+    50.72218,
+    11.3401
+   ],
+   "src": [
+    "https://blog.komoot.de/guide/354316/castles-in-landkreis-saalfeld-rudolstadt"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ergreifenstein",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb to Burg Greifenstein above Bad Blankenburg",
+   "desc": "A castle dating to the 12th century, once the seat of the Schwarzburg princes, where Günther XXI was born and briefly became German king in the mid-14th century. It has a museum and falconry shows.",
+   "tip": "Check the falconry show times; the walk up from town is steep.",
+   "q": "Burg Greifenstein, Bad Blankenburg",
+   "ll": [
+    50.69054,
+    11.26282
+   ],
+   "src": [
+    "https://maps.adac.de/ort/bad-blankenburg-thueringen",
+    "https://blog.komoot.de/guide/354316/castles-in-landkreis-saalfeld-rudolstadt"
+   ]
+  },
+  {
+   "id": "erdixhaus",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Otto Dix's birth house museum in Gera",
+   "desc": "The art museum in Dix's birthplace on Mohrenplatz opened in 1991 and shows his work over two floors. It reopened on 2 December 2016 after flood damage, on his 125th birthday.",
+   "tip": "Combine with the Orangerie, home of the Kunstsammlung Gera.",
+   "q": "Otto-Dix-Haus, Mohrenplatz 4, Gera",
+   "ll": [
+    50.88241,
+    12.06421
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Otto-Dix-Haus",
+    "https://www.mvp.de/gera/entdecken/kunstsammlung-gera-in-der-orangerie/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ergreiz",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look over Greiz from the Oberes Schloss",
+   "desc": "The House of Reuss built two castles at Greiz: the Upper Castle on the hill and the younger Lower Castle at its foot. The Upper Castle houses a museum, and the Sommerpalais in the park holds a copper-engraving collection.",
+   "tip": "Add the Greizer Park and Sommerpalais on the same visit.",
+   "q": "Oberes Schloss, Schlossberg 12, Greiz",
+   "ll": [
+    50.65797,
+    12.19679
+   ],
+   "src": [
+    "https://www.greiz.de/fileadmin/greiz/tourismus_kultur/tourismus/Kunst_Kultur/greiz_auf_einen_Blick.pdf",
+    "https://wikipedia.com/wiki/Greiz"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "erpanorama",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Tübke's Peasants' War panorama at Bad Frankenhausen",
+   "desc": "A museum on the Schlachtberg built to house Werner Tübke's 14 by 123 metre painting of the 1525 Peasants' War, created 1976-1987. It received the European Heritage Label in 2011.",
+   "tip": "Open Tuesday to Sunday; plan about two hours.",
+   "q": "Panorama Museum, Am Schlachtberg 9, Bad Frankenhausen",
+   "ll": [
+    51.36608,
+    11.1034
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/points-of-interest/panorama-museum/1142884",
+    "https://www.thueringen-entdecken.de/en/w/grosses-welttheater-panorama-museum-bad-frankenhausen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ernebra",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Meet the Nebra Sky Disc at Arche Nebra",
+   "desc": "The visitor centre near the find site of the Bronze Age sky disc, found by treasure hunters in 1999 and secured in 2002. The building opened in 2007 and reopened in June 2023 after modernisation, with a planetarium.",
+   "tip": "Open daily April to October with shorter winter hours.",
+   "q": "Arche Nebra, An der Steinklöbe 16, Nebra (Unstrut)",
+   "ll": [
+    51.27166,
+    11.53088
+   ],
+   "src": [
+    "https://www.himmelsscheibe-erleben.de/fileadmin/PDF/Flyer/2023-06-06_-_AN_Faltblatt_DE_2023-05_web.pdf",
+    "https://structurae.net/de/bauwerke/arche-nebra"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "erleuchtenburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Leuchtenburg above Seitenroda",
+   "desc": "A medieval hill castle that has been a prison, poorhouse, hotel and youth hostel before becoming a museum. Its exhibitions touch on the Kahla porcelain tradition of the region.",
+   "tip": "Check the current exhibition and opening times before visiting.",
+   "q": "Leuchtenburg, Seitenroda, Kahla",
+   "ll": [
+    50.8056,
+    11.58296
+   ],
+   "src": [
+    "https://maps.adac.de/ort/seitenroda-thueringen",
+    "https://thue.museum-digital.de/pdf/object/1836.pdf?lang=en"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "erglockenmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the bell foundry history at Apolda's Glockenmuseum",
+   "desc": "Set up in 1952 from the collection of the former Schilling bell foundry, in a neoclassical industrialist's villa on Bahnhofstraße. Apolda's bells, cast by the Ulrich and Schilling families, were known across Europe.",
+   "tip": "It also shows textile machinery.",
+   "q": "Glocken- und Stadtmuseum Apolda, Bahnhofstraße 41, Apolda",
+   "ll": [
+    51.02703,
+    11.51931
+   ],
+   "src": [
+    "https://miz.org/de/institutionen/glockenstadtmuseum-apolda-i8595",
+    "https://maps.adac.de/poi/glockenstadtmuseum-apolda"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "erbaumkronenpfad",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the treetop path in Hainich National Park",
+   "desc": "A 546-metre treetop walkway near Thiemsburg in the Hainich, part of the UNESCO beech forest World Heritage Site since 2011. It opened in 2005 and ends at a viewing tower.",
+   "tip": "Combine with a hike in the beech forest.",
+   "q": "Baumkronenpfad Hainich, Thiemsburg, Behringen",
+   "ll": [
+    51.08459,
+    10.51131
+   ],
+   "src": [
+    "https://badlangensalza.de/storage/sites/2/2024/10/Baumkronenpfad-Flyer_web-092024.pdf",
+    "https://www.nationalpark-hainich.de/en/"
+   ]
+  },
+  {
+   "id": "erwildkatzen",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Follow the wildcat trail from Hütscheroda",
+   "desc": "The village at the edge of Hainich National Park is called the Wildkatzendorf; since 2008 it has a wildcat trail and since 2012 an enclosure and information barn. Around 40 wild cats are estimated to live in the Hainich.",
+   "tip": "Start from the wildcat barn; the trail suits families.",
+   "q": "Wildkatzendorf Hütscheroda, Hörselberg-Hainich",
+   "ll": [
+    51.02335,
+    10.47188
+   ],
+   "src": [
+    "https://www.nationalpark-hainich.de/en/places-to-go/wildcat-village-huetscheroda.html",
+    "https://freizeitinsider.de/angebot/wildkatzendorf-huetscheroda/"
+   ]
+  },
+  {
+   "id": "erdrachenschlucht",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike through the Drachenschlucht near Eisenach",
+   "desc": "A narrow, damp gorge near Mariental, only about a metre wide in places, with a wooden walkway. A loop links it to the Landgrafenschlucht.",
+   "tip": "Wear grippy shoes; the gorge is slippery and can be closed in icy weather.",
+   "q": "Drachenschlucht, Mariental, Eisenach",
+   "ll": [
+    50.95895,
+    10.31177
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/drachenschlucht-und-landgrafenschlucht-rundwanderung-ab-mariental-eisenach",
+    "https://homeoftravel.de/drachenschlucht-thueringer-wald/"
+   ]
+  },
+  {
+   "id": "erbobbahn",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Visit the Oberhof bobsled and luge track",
+   "desc": "The Oberhof track opened in 1971, is about 1.3 km long with 15 curves and hosts World Cup races. It is described as one of the earliest artificially cooled ice channels in the world.",
+   "tip": "Walk the Sportstättenwanderung past the ski jumps and biathlon stadium.",
+   "q": "Rennschlitten- und Bobbahn Oberhof, Oberhof",
+   "ll": [
+    50.7061,
+    10.7332
+   ],
+   "src": [
+    "https://maps.adac.de/poi/rennschlitten-und-bobbahn-oberhof",
+    "https://www.ich-geh-wandern.de/oberhofer-sportstaettenwanderung"
+   ]
+  },
+  {
+   "id": "errennsteiggarten",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Rennsteig near Oberhof",
+   "desc": "The Rennsteig is a historic 169 km ridge trail along the Thuringian Forest from Hörschel to Blankenstein. Oberhof is one of its main access points, near the Rennsteiggarten and the Rennsteig Tunnel.",
+   "tip": "Try a day stage from Oberhof towards Zella-Mehlis.",
+   "q": "Rennsteiggarten Oberhof, Oberhof",
+   "ll": [
+    50.69089,
+    10.72111
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Rennsteig",
+    "https://www.oberhof.de/en/discover-oberhof/hiking/rennsteig-thuringian-forest"
+   ]
+  },
+  {
+   "id": "erkickelhahn",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Climb the Kickelhahn to Goethe's hut",
+   "desc": "The 861 m Kickelhahn above Ilmenau has a lookout tower from 1855. The Goethehäuschen, where Goethe wrote Wanderer's Nightsong on the wall in the 1780s, stands just north of the summit.",
+   "tip": "The Goethewanderweg from Ilmenau is a classic route.",
+   "q": "Kickelhahn Goethehäuschen, Ilmenau",
+   "ll": [
+    50.6665,
+    10.87943
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Kickelhahn",
+    "https://www.ilmenau.de/en/tourism/discover-experience/kickelhahn"
+   ]
+  },
+  {
+   "id": "erbergbahn",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Oberweißbach mountain railway",
+   "desc": "A funicular with a flat electric section in the Schwarza valley, opened in 1922-1923, where standard-gauge railway cars are carried up the slope on a platform. It is part of the Oberweißbacher Berg- und Schwarzatalbahn.",
+   "tip": "Check the timetable on the operator's page; combine with a Schwarzatal hike.",
+   "q": "Oberweißbacher Bergbahn, Obstfelderschmiede, Mellenbach-Glasbach",
+   "ll": [
+    50.59804,
+    11.13053
+   ],
+   "src": [
+    "https://www.oberweissbacher-bergbahn.com/en/visitor_information/basicinformation/route_network",
+    "https://www.allianz-pro-schiene.de/wp-content/uploads/2015/10/faktenblatt-obstfelderschmiede-2.pdf"
+   ]
+  },
+  {
+   "id": "ersaalburg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Take a boat on the Bleilochstausee at Saalburg",
+   "desc": "The Bleiloch reservoir is part of the roughly 80 km Saale cascade and Germany's largest reservoir by capacity (about 215 million cubic metres). Saalburg is the main town on its shore, with passenger boats.",
+   "tip": "Boats run mainly in the warm season; check the schedule.",
+   "q": "Bleilochstausee, Saalburg-Ebersdorf",
+   "ll": [
+    50.52239,
+    11.71947
+   ],
+   "src": [
+    "https://www.seen.de/bleilochtalsperre",
+    "https://structurae.net/de/bauwerke/bleilochtalsperre"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "erjapanischergarten",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Find calm in the Japanese Garden of Bad Langensalza",
+   "desc": "The garden Kofuku no Niwa (Garden of Happiness) has a waterfall, a tea pavilion and the largest dwarf mammoth-tree bonsai in Europe. Bad Langensalza has eleven themed gardens and parks.",
+   "tip": "Open afternoons from May to October.",
+   "q": "Japanischer Garten, Bad Langensalza",
+   "ll": [
+    51.1127,
+    10.6499
+   ],
+   "src": [
+    "https://badlangensalza.de/storage/sites/2/2024/03/Flyer-Japanischer-Garten_05-2023_WEB.pdf"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "erbratwurstmuseum",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Learn about Thuringian sausage at the Bratwurst Museum",
+   "desc": "The 1. Deutsches Bratwurstmuseum was founded in 2006 in Holzhausen near Arnstadt and has stood on a site by the Stadtwald in Mühlhausen since 2023. It explains the history of the Thuringian Rostbratwurst.",
+   "tip": "Check the current opening hours before going.",
+   "q": "1. Deutsches Bratwurstmuseum, Mühlhausen/Thüringen",
+   "ll": [
+    51.19549,
+    10.39633
+   ],
+   "src": [
+    "https://www.deutsche-handwerks-zeitung.de/?p=308099",
+    "https://freizeitmonster.de/aktivitaeten/orte/1-deutsches-bratwurstmuseum-194445"
+   ]
+  },
+  {
+   "id": "erdreigleichen",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike between the Drei Gleichen castles",
+   "desc": "Three castles stand on neighbouring hills near Gotha: the Mühlburg, Burg Gleichen and Veste Wachsenburg. The Mühlburg is said to be the oldest surviving structure in Thuringia.",
+   "tip": "The loop takes 3-4 hours; end with a meal at the Wachsenburg.",
+   "q": "Mühlburg, Drei Gleichen, Mühlberg",
+   "ll": [
+    50.86914,
+    10.83185
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Drei_Gleichen_(Gemeinde)",
+    "https://www.ich-geh-wandern.de/burgenwanderung-um-die-drei-gleichen-bei-gotha-th%C3%BCringen"
+   ]
+  },
+  {
+   "id": "ersondershausen",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Go underground in the Glückauf mine in Sondershausen",
+   "desc": "The Glückauf mine is described as the oldest and deepest still-navigable potash mine in the world. Parts are open to visitors, including an underground concert hall at over 700 metres.",
+   "tip": "Wear warm clothes and sturdy shoes; book tours in advance.",
+   "q": "Erlebnisbergwerk Sondershausen, Sondershausen",
+   "ll": [
+    51.38937,
+    10.83752
+   ],
+   "src": [
+    "https://www.komoot.com/ja-jp/highlight/1006724",
+    "https://www.drweb.de/gses-sondershausen-salzbergwerk-16-millionen/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "errosengarten",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "See the Rosengarten of Bad Langensalza in bloom",
+   "desc": "The Garden of Love holds more than 450 rose varieties, 50 of them tracing back to local breeder Anni Berger. A rose museum is also in town.",
+   "tip": "June to August is the main bloom season.",
+   "q": "Rosengarten, Bad Langensalza",
+   "ll": [
+    51.11161,
+    10.65143
+   ],
+   "src": [
+    "https://badlangensalza.de/storage/sites/2/2024/03/Flyer-Rosengarten_05-2022_WEB.pdf",
+    "https://www.thueringen-entdecken.de/w/rosenstadt-bad-langensalza"
+   ],
+   "months": [
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "ersektkellerei",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Tour the Rotkäppchen Erlebniswelt in Freyburg",
+   "desc": "The sparkling wine house, founded in 1856 as Kloss & Foerster, opened its Erlebniswelt in May 2023 at its home site. Tastings and cellar tours cover its history.",
+   "tip": "Book a cellar tour with tasting; check prices on the official page.",
+   "q": "Rotkäppchen Sektkellerei, Sektkellereistraße 5, Freyburg (Unstrut)",
+   "ll": [
+    51.21506,
+    11.76752
+   ],
+   "src": [
+    "https://www.meininger.de/wein/erzeuger/rotkaeppchens-erlebniswelt-eroeffnet",
+    "https://www.winesofgermany.com/our-regions/highlight-of-wine-culture/354/rotk%C3%A4ppchen-sektkellerei"
+   ]
+  },
+  {
+   "id": "erhohenwarte",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cruise the Hohenwarte reservoir, the Thüringer Meer",
+   "desc": "A curved concrete gravity dam built 1936-1942, 75 m high and 412 m long, holds back the lake; the village of Preßwitz was flooded. Passenger boats and boating are popular, and the Blaues Band swim has run since 1966.",
+   "tip": "Boats run mainly in the warm season.",
+   "q": "Hohenwartetalsperre, Hohenwarte",
+   "ll": [
+    50.61401,
+    11.49213
+   ],
+   "src": [
+    "https://www.wikiwand.com/de/Hohenwartetalsperre",
+    "https://www.seen.de/hohenwarte-talsperre/"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "erfeetz",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Saale-Unstrut wine at Weingut Grober Feetz",
+   "desc": "A winery in Freyburg with a seasonal Weinstube, open roughly Easter to October on Tuesdays, Fridays and Saturdays, serving local wines with regional dishes.",
+   "tip": "Reserve a table; opening days are limited.",
+   "q": "Weingut Grober Feetz, Freyburg (Unstrut)",
+   "ll": [
+    51.20372,
+    11.77556
+   ],
+   "src": [
+    "https://www.komoot.com/highlight/152105",
+    "https://www.enprimeurclub.com/wineries/weingut-grober-feetz-freyburg"
+   ]
+  },
+  {
+   "id": "erpforta",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste wines at the Landesweingut Kloster Pforta",
+   "desc": "The state winery traces its roots to the Cistercian monastery founded in 1138 and farms about 50 hectares. Its wines are sold at the Vinothek in Schulpforte and served in the Saalhäuser Weinstuben.",
+   "tip": "Try the Riesling or Weißburgunder; the Weinstuben serve food.",
+   "q": "Landesweingut Kloster Pforta, Saalhäuser, Bad Kösen",
+   "ll": [
+    51.15105,
+    11.73246
+   ],
+   "src": [
+    "https://winesofgermany.com/our-regions/highlight-of-wine-culture/404/kloster-pforta",
+    "https://wineguide.wein-plus.eu/landesweingut-kloster-pforta-gmbh"
+   ]
+  },
+  {
+   "id": "erwinzervereinigung",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste wine at the Winzervereinigung Freyburg-Unstrut",
+   "desc": "The growers' cooperative in Freyburg runs a wine shop where you can taste free before buying.",
+   "tip": "Try the local Müller-Thurgau or Silvaner.",
+   "q": "Winzervereinigung Freyburg-Unstrut, Querfurter Straße 10, Freyburg (Unstrut)",
+   "ll": [
+    51.21857,
+    11.76953
+   ],
+   "src": [
+    "https://www.golocal.de/freyburg/sonstige-gewerbe/winzervereinigung-freyburg-unstrut-e-g-ZiD/",
+    "https://www.enprimeurclub.com/wineries/winzervereinigung-freyburg-unstrut-eg-freyburg"
+   ]
+  },
+  {
+   "id": "erpawis",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Unstrut wines at Weingut Pawis",
+   "desc": "A winery in the Unstrut valley offering estate visits with tasting and wine hikes.",
+   "tip": "Book a tasting in advance.",
+   "q": "Weingut Pawis, Freyburg (Unstrut)",
+   "ll": [
+    51.21381,
+    11.73365
+   ],
+   "src": [
+    "https://www.winedering.com/winery-weingut-pawis_d5915"
+   ]
+  },
+  {
+   "id": "erwachsenburg",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat at Veste Wachsenburg, the inhabited Gleichen castle",
+   "desc": "Of the three Gleichen castles, only the Wachsenburg is inhabited and runs as a hotel and restaurant. It dates to around 1000.",
+   "tip": "Reach it on foot from the Drei Gleichen hiking loop.",
+   "q": "Veste Wachsenburg, Holzhausen, Amt Wachsenburg",
+   "ll": [
+    50.85822,
+    10.87625
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Drei_Gleichen_(Gemeinde)"
+   ]
+  },
+  {
+   "id": "erloewen",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try the one-metre Bratwurst at Brauhaus zum Löwen",
+   "desc": "A family-run house in Mühlhausen's old town that brews its own beer and serves a one-metre Bratwurst.",
+   "tip": "Order the house beer with the Bratwurst.",
+   "q": "Brauhaus zum Löwen, Felchtaer Straße 2-4, Mühlhausen/Thüringen",
+   "ll": [
+    51.2087,
+    10.4579
+   ],
+   "src": [
+    "https://www.thueringen-entdecken.de/en/w/brauhaus-zum-l%C3%B6wen",
+    "https://www.muehlhausen.de/tourismus/en/accomodations/hotels-group-accommodation/brauhaus-zum-loewen/"
+   ]
+  },
+  {
+   "id": "erzursonne",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat roasts and Klöße at Gasthaus Zur Sonne, Meiningen",
+   "desc": "A Gasthaus on Gartenstraße known for hearty roasts and homemade Thuringian dumplings.",
+   "tip": "Order the Braten with Klöße.",
+   "q": "Gasthaus Zur Sonne, Gartenstraße 5, Meiningen",
+   "ll": [
+    50.57152,
+    10.42636
+   ],
+   "src": [
+    "https://www.swipein.restaurant/de/restaurant/gasthaus-zur-sonne-meiningen-vorarlberg"
+   ]
+  },
+  {
+   "id": "eranker",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order Thüringer Klöße at Gasthaus zum Anker, Rudolstadt",
+   "desc": "Guests praise the Thuringian dumplings and the hospitality at this Rudolstadt Gasthaus.",
+   "tip": "Phone ahead on weekends.",
+   "q": "Gasthaus zum Anker, Breitscheidstraße 88, Rudolstadt",
+   "ll": [
+    50.70502,
+    11.32421
+   ],
+   "src": [
+    "https://www.swipein.restaurant/en/restaurant/gasthaus-zum-anker-unterpreilipp-schleswig-holstei"
+   ]
+  },
+  {
+   "id": "erthueringerhof",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Rolschter Sauerbraten at the Thüringer Hof, Rudolstadt",
+   "desc": "The menu lists dishes with Thuringian dumplings, including Sauerbraten with cranberries and a wild boar roast.",
+   "tip": "Come hungry.",
+   "q": "Restaurant Thüringer Hof, Bahnhofsgasse 3, Rudolstadt",
+   "ll": [
+    50.7185,
+    11.3388
+   ],
+   "src": [
+    "https://www.speisekarte.de/rudolstadt/restaurant/restaurant_thueringer_hof/speisekarte"
+   ]
+  },
+  {
+   "id": "erdomcafe",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have coffee at the Domcafé beside Naumburg Cathedral",
+   "desc": "A café on Domplatz in Naumburg with a range of drinks and dishes right by the cathedral.",
+   "tip": "Pair it with a cathedral visit.",
+   "q": "Domcafé, Domplatz 21, Naumburg (Saale)",
+   "ll": [
+    51.15417,
+    11.80452
+   ],
+   "src": [
+    "https://giggle.tips/hosts/domfreyheit"
+   ]
+  },
+  {
+   "id": "ermohrencafe",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Take cake at the Mohrencafé am Dom in Naumburg",
+   "desc": "A café on Steinweg in Naumburg's historic old town.",
+   "tip": "Sit in the old town and try the cakes.",
+   "q": "Mohrencafé am Dom, Steinweg 16, Naumburg (Saale)",
+   "ll": [
+    51.15415,
+    11.80483
+   ],
+   "src": [
+    "https://www.kurzurlaub.de/angebote/510957-dom-und-genuss--kultururlaub-in-naumburg-an-der-saale-center-hotel-kaiserhof.html"
+   ]
+  },
+  {
+   "id": "erpagenhaus",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat regional dishes at the Pagenhaus in Gotha",
+   "desc": "A restaurant at Schloss Friedenstein serving regional specialties in a cosy atmosphere.",
+   "tip": "Combine with a palace visit.",
+   "q": "Pagenhaus, Schloss Friedenstein, Gotha",
+   "ll": [
+    50.947,
+    10.704
+   ],
+   "src": [
+    "https://freizeitmonster.de/blog/regionale-kueche-gotha"
+   ]
+  },
+  {
+   "id": "ercafekanzlei",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at Café Kanzlei on Naumburg's market square",
+   "desc": "A café-restaurant at Markt 9/10 with an outdoor area; mains cost roughly 20-30 euros.",
+   "tip": "Sit outside on the market square in summer.",
+   "q": "Café Kanzlei, Markt 9, Naumburg (Saale)",
+   "ll": [
+    51.1527,
+    11.8097
+   ],
+   "src": [
+    "https://www.swipein.restaurant/en/restaurant/restaurant-cafe-kanzlei-naumburg-saale-sachs"
+   ]
+  }
+ ]
+}

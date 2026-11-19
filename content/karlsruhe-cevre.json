@@ -1,0 +1,937 @@
+{
+ "new": [
+  {
+   "id": "krmaulbronn",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk through the UNESCO monastery of Maulbronn",
+   "desc": "Maulbronn is the best preserved medieval Cistercian monastery north of the Alps, founded in 1147 and a UNESCO World Heritage Site since 1993. The church, cloister, refectory and the water-management system survive almost complete, and Hermann Hesse studied at the later Protestant seminary here.",
+   "tip": "Open daily 9:30 to 17:30 from March to October (Tuesday to Sunday in winter). Allow two hours and take the audio guide.",
+   "q": "Kloster Maulbronn, Klosterhof 5, 75433 Maulbronn",
+   "ll": [
+    49.0003,
+    8.81142
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kloster_Maulbronn",
+    "https://www.kloster-maulbronn.de"
+   ],
+   "tags": []
+  },
+  {
+   "id": "krbruchsalschloss",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb Neumann's staircase in Schloss Bruchsal",
+   "desc": "The baroque residence of the Prince-Bishops of Speyer was built from 1722, and its oval staircase by Balthasar Neumann is regarded as one of the finest of the baroque era. The castle was heavily damaged in 1945 and rebuilt, and it also houses the Städtisches Museum.",
+   "tip": "Closed Mondays; the entry ticket includes the guided tour and the museums. The gardens are free.",
+   "q": "Schloss Bruchsal, Schlossraum 4, 76646 Bruchsal",
+   "ll": [
+    49.1289,
+    8.59814
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Bruchsal",
+    "https://www.schloss-bruchsal.de"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "krrastattschloss",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the baroque Residenzschloss Rastatt",
+   "desc": "Margrave Ludwig Wilhelm of Baden-Baden, the Turkish Louis, had this Versailles-inspired residence built from 1700. The 1714 peace treaty ending the War of the Spanish Succession was signed here, and the building now holds a military history museum.",
+   "tip": "Open Tuesday to Sunday; guided tours of the state rooms are included in the ticket. The town centre is a short walk away.",
+   "q": "Residenzschloss Rastatt, Herrenstraße 18, 76437 Rastatt",
+   "ll": [
+    48.8583,
+    8.207
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Residenzschloss_Rastatt",
+    "https://www.schloss-rastatt.de"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "krfavorite",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the porcelain palace of Schloss Favorite",
+   "desc": "Margravine Sibylla Augusta of Baden built Schloss Favorite near Rastatt-Förch between 1710 and 1730. It is the oldest preserved Porzellanschloss in Germany, with mirror cabinets, faience and a kitchen with its original furnishings, set in a landscaped park.",
+   "tip": "The interior is only open on guided tours in the main season (closed in winter); the park is free all year.",
+   "q": "Schloss Favorite, Favoritenallee, 76437 Rastatt-Förch",
+   "ll": [
+    48.82238,
+    8.24013
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Schloss_Favorite_(Rastatt)",
+    "https://www.schloss-favorite-rastatt.de"
+   ],
+   "tags": []
+  },
+  {
+   "id": "krbrettenmelanch",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Melanchthon's birthplace in Bretten",
+   "desc": "Philipp Melanchthon, the reformer and Luther's closest ally, was born in Bretten in 1497. The Melanchthonhaus is a reconstruction of his family home and museum with an international collection on the Reformation, and it hosts the European Melanchthon Academy.",
+   "tip": "Open from mid-February to late November, mostly afternoons Tuesday to Sunday. Combine it with a walk to the old market square.",
+   "q": "Melanchthonhaus, Melanchthonstraße 1, 75015 Bretten",
+   "ll": [
+    49.0368,
+    8.70685
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Melanchthonhaus_(Bretten)",
+    "https://melanchthon.com"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "krhirsau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the Hirsau monastery ruins and Eulenturm",
+   "desc": "Hirsau was one of the most influential Benedictine abbeys of the 11th century and the origin of the Hirsau Reform. The ruins of the Peter-und-Paul church with the Eulenturm (Owl Tower) stand beside the preserved Aurelius church and the Klostermuseum.",
+   "tip": "The ruins and the herb garden are free during the day; the Aureliuskirche is open all year. Guided tours go through the Calw tourist office.",
+   "q": "Klosterruine Hirsau, Aureliusplatz, 75365 Calw-Hirsau",
+   "ll": [
+    48.7378,
+    8.7321
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kloster_Hirsau"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "krcalwmarkt",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Find Hermann Hesse's half-timbered Calw",
+   "desc": "Calw on the Nagold is the birthplace of the Nobel laureate Hermann Hesse (1877), and his hometown features in several of his stories. The Marktplatz is framed by half-timbered houses from the 17th and 18th centuries, and the Hermann-Hesse-Museum stands on the square.",
+   "tip": "Follow the Hesse trail with the bronze Hesse sculpture by the Nikolausbrücke. The museum has seasonal hours, so check ahead.",
+   "q": "Marktplatz, 75365 Calw",
+   "ll": [
+    48.7139,
+    8.7393
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Calw",
+    "https://www.calw.de"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "krettlingenschloss",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stroll Ettlingen's palace and Alb-side old town",
+   "desc": "Ettlingen's Renaissance and baroque palace was rebuilt after a fire in 1689 and decorated in the 18th century with ceiling paintings by Cosmas Damian Asam. The surrounding old town has half-timbered houses, the Albgau museum and small bridges over the Alb.",
+   "tip": "The palace is the venue for the Schlossfestspiele in summer. Parking is easy at the Schlossplatz or take the Stadtbahn.",
+   "q": "Schloss Ettlingen, Schlossplatz 3, 76275 Ettlingen",
+   "ll": [
+    48.9404,
+    8.40541
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Ettlingen",
+    "https://www.ettlingen.de"
+   ],
+   "tags": []
+  },
+  {
+   "id": "krpforzheimschmuck",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See jewellery from five millennia in Pforzheim",
+   "desc": "Pforzheim has been called the Goldstadt since the 18th century and its Schmuckmuseum in the Reuchlinhaus shows jewellery from antiquity to contemporary design. It is one of the world's leading museums for the subject.",
+   "tip": "Closed Mondays; the Reuchlinhaus sits at the edge of the city centre near the Enz and the Hauptbahnhof.",
+   "q": "Schmuckmuseum Pforzheim, Jahnstraße 42, 75173 Pforzheim",
+   "ll": [
+    48.88601,
+    8.69863
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schmuckmuseum_Pforzheim",
+    "https://schmuckmuseum.de"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "krtrifels",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb to the imperial castle of Trifels",
+   "desc": "Burg Trifels above Annweiler was a stronghold of the Staufer emperors, who kept the imperial regalia here around 1200. Richard the Lionheart was imprisoned in the castle in 1193 and 1194, and the keep and chapel were rebuilt in the 20th century.",
+   "tip": "Opening days are limited, so check burgenlandschaft-pfalz.de. The walk up from Annweiler takes about 40 minutes.",
+   "q": "Reichsburg Trifels, Trifelsstraße, 76855 Annweiler am Trifels",
+   "ll": [
+    49.1963,
+    7.97834
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Burg_Trifels",
+    "https://burgenlandschaft-pfalz.de"
+   ],
+   "tags": []
+  },
+  {
+   "id": "krweintor",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Photograph the Deutsches Weintor at the French border",
+   "desc": "The Deutsches Weintor in Schweigen-Rechtenbach marks the southern end of the Deutsche Weinstraße and was built in 1936. The arched gate sits directly on the border with Alsace.",
+   "tip": "Free to pass through. The wine shop and Weinlehrpfad start beside it.",
+   "q": "Deutsches Weintor, Weinstraße, 76889 Schweigen-Rechtenbach",
+   "ll": [
+    49.05219,
+    7.9563
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Deutsches_Weintor"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "krlandeck",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the ruins of Burg Landeck near Klingenmünster",
+   "desc": "Burg Landeck is a medieval castle ruin above Klingenmünster on the edge of the Palatinate Forest, and it is a landmark of the Südliche Weinstraße. A short ascent brings views over the Rhine plain.",
+   "tip": "Ruins are open all year; the climb from the village takes about 30 minutes, with refreshments at times in the Burgschänke.",
+   "q": "Burg Landeck, Klingenmünster",
+   "ll": [
+    49.14103,
+    8.00618
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Burg_Landeck_(Pfalz)",
+    "https://www.ich-geh-wandern.de/wandern/burg-landeck-pfalz"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "krgermersheim",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Discover Germersheim's fortress and the Weißenburger Tor",
+   "desc": "Germersheim was a Bavarian federal fortress built in the 19th century with large casemates, curtain walls and the Fronte Lamotte. Today the bastions house the Deutsches Straßenmuseum and the Weißenburger Tor is part of the town's fortress trail.",
+   "tip": "Walk the ramparts for free; the museums have their own hours.",
+   "q": "Weißenburger Tor, 76726 Germersheim",
+   "ll": [
+    49.21638,
+    8.37682
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Festung_Germersheim",
+    "https://de.wikipedia.org/wiki/Fronte_Lamotte"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "krlandaufrank",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Landau's story at the Frank-Loebsches Haus",
+   "desc": "Landau in der Pfalz was a Vauban-style fortress town and the Frank-Loebsches Haus is an elegant Renaissance building from 1560 on the historic centre. It houses the city museum with exhibits on Landau and the Jewish history of the Palatinate.",
+   "tip": "Open Tuesday to Sunday; the Marktstraße and Stiftskirche are a short walk away.",
+   "q": "Frank-Loebsches Haus, Kaufhausgasse 9, 76829 Landau in der Pfalz",
+   "ll": [
+    49.19918,
+    8.11218
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Frank-Loebsches_Haus"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "krfrauenalb",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander the romantic Frauenalb monastery ruins",
+   "desc": "The Benedictine nunnery of Frauenalb in the Albtal was founded in the 12th century and secularised in 1803. The ruin of its baroque church stands in a quiet valley, and a monastery trail links it to Bad Herrenalb.",
+   "tip": "The ruin is free to visit with no set hours. Combine it with a stop at the Klosterschänke or the trail to Bad Herrenalb.",
+   "q": "Klosterruine Frauenalb, Klosterstraße, 76359 Marxzell-Frauenalb",
+   "ll": [
+    48.83425,
+    8.44038
+   ],
+   "src": [
+    "https://www.alpen-guide.de/reisefuehrer/poi/klosterruine-in-frauenalb-bad-herrenalb",
+    "https://de.wikipedia.org/wiki/Kloster_Frauenalb"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kreberstein",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look out from Schloss Eberstein above Gernsbach",
+   "desc": "Schloss Eberstein sits on a spur above the Murg and has belonged to the Counts of Eberstein, the Margraves of Baden and then Baden-Württemberg's private owners. It is today a hotel with a Michelin-starred restaurant and a terrace with Murgtal views.",
+   "tip": "Park at the hotel or take the path up from Gernsbach. Check the tourist information for tours of the grounds.",
+   "q": "Schloss Eberstein, Eberstein 1, 76593 Gernsbach",
+   "ll": [
+    48.74948,
+    8.3431
+   ],
+   "src": [
+    "https://www.schloss-eberstein.de",
+    "https://de.wikipedia.org/wiki/Schloss_Eberstein"
+   ],
+   "tags": []
+  },
+  {
+   "id": "krhohloh",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the Hohlohturm above Kaltenbronn",
+   "desc": "The Hohlohturm is an observation tower in the Kaltenbronn nature reserve in the northern Black Forest, standing at over 980 metres. The panorama stretches across the Rhine plain to the Vosges and the Swabian Alb.",
+   "tip": "About 1.2 km on foot from the Kaltenbronn car park. The Infozentrum Kaltenbronn is closed Mondays and Tuesdays.",
+   "q": "Hohlohturm, Kaltenbronn, 76593 Gernsbach",
+   "ll": [
+    48.70987,
+    8.41568
+   ],
+   "src": [
+    "https://www.schwarzwald-tourismus.info/attraktionen/gernsbach-kaltenbronn-hohlohturm-44ef52a004",
+    "https://www.ich-geh-wandern.de/hohlohturm-rundwanderung"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "krneuenburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Schloss Neuenbürg above the Enz valley",
+   "desc": "Schloss Neuenbürg stands on a ridge over the town of Neuenbürg and houses the Museum Schloss Neuenbürg, with exhibits on the local geology, mining history and Celtic finds. The castle dates back to the 12th century.",
+   "tip": "Check the museum's seasonal opening hours. The walk up from the town takes about 15 minutes.",
+   "q": "Schloss Neuenbürg, Schlossberg 14, 75305 Neuenbürg",
+   "ll": [
+    48.84711,
+    8.59251
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Neuenbürg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "krliebenzell",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk up to Burg Liebenzell over the Nagold",
+   "desc": "Burg Liebenzell is a medieval castle above Bad Liebenzell. The keep and walls survive and the site is today a Christian youth retreat run by the Liebenzeller Mission. The spa town below lies on the Nagold in the northern Black Forest.",
+   "tip": "The castle grounds and the tower can be viewed from outside; check the town website for open days. The Paracelsus-Therme is in the valley.",
+   "q": "Burg Liebenzell, 75378 Bad Liebenzell",
+   "ll": [
+    48.77679,
+    8.72582
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Burg_Liebenzell"
+   ],
+   "tags": []
+  },
+  {
+   "id": "krfaust",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Discover the Faust legend in Knittlingen",
+   "desc": "Knittlingen in the Enzkreis claims to be the birthplace of Johann Georg Faust, the historical figure behind the Faust legend. The Faust-Museum and the Faust-Archiv in the old town show documents and artworks on Faust in literature, music and film.",
+   "tip": "The museum is closed on Mondays. The half-timbered old town makes for a short walk afterwards.",
+   "q": "Faust-Museum, Kirchplatz 2, 75438 Knittlingen",
+   "ll": [
+    49.02386,
+    8.75768
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Faust-Museum_Knittlingen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "krwagnerhaus",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order Maultaschen at the Wagnerhaus Café in Maulbronn",
+   "desc": "The Wagnerhaus Café im Klosterhof is set in the grounds of the Maulbronn monastery. The menu features local Maulbronner Maultaschen, Schwäbische Fleischküchle and lentils with Spätzle.",
+   "tip": "Try the Maultaschen after your monastery visit. Check current opening days online before going.",
+   "q": "Wagnerhaus Café im Klosterhof, Klosterhof 34, 75433 Maulbronn",
+   "ll": [
+    49.00041,
+    8.8107
+   ],
+   "src": [
+    "https://web.destination.one/en/gastro/wagnerhaus-cafe-im-klosterhof",
+    "https://www.speisekarte.de/maulbronn/restaurant/wagnerhaus_cafe_im_klosterhof/speisekarte"
+   ],
+   "tags": []
+  },
+  {
+   "id": "krwerners",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine on Baden-French cuisine at Werners in Eberstein",
+   "desc": "Werners Restaurant at Schloss Eberstein is part of the Relais & Châteaux and JRE hospitality scene and serves light Baden-French cooking. It has a Michelin star and views down the Murg valley.",
+   "tip": "Book in advance and ask about the tasting menu. Allow time for a walk in the castle gardens.",
+   "q": "Werners Restaurant, Schloss Eberstein, Eberstein 1, 76593 Gernsbach",
+   "ll": [
+    48.74928,
+    8.34324
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/gernsbach/werners-restaurant/",
+    "https://www.jre.eu/en/restaurants/schloss-eberstein"
+   ],
+   "tags": []
+  },
+  {
+   "id": "krsonnerhodt",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Pfalz wine at the Gasthaus zur Sonne in Rhodt",
+   "desc": "Gasthaus zur Sonne in Rhodt unter Rietburg runs a traditional Weinstube serving German and Palatine cooking. Rhodt is one of the wine villages at the foot of the Rietburg, with the oldest vine in Germany a short walk away.",
+   "tip": "Weinstube closed Tuesdays and in February. Ask for the Pfälzer wine by the Schoppen.",
+   "q": "Gasthaus zur Sonne, Weinstraße 39, 76835 Rhodt unter Rietburg",
+   "ll": [
+    49.27153,
+    8.10764
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/rhodt-unter-rietburg/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "krweinkontor",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat modern Pfalz cooking at the Weinkontor in Edenkoben",
+   "desc": "The Lounge im Weinkontor on Edenkoben's Weinstraße serves traditional Palatine dishes in a modern style next to a wide range of local wines. Edenkoben is one of the main wine towns of the Südliche Weinstraße.",
+   "tip": "Combine it with the nearby Villa Ludwigshöhe or the Rietburgbahn. Check hours before going.",
+   "q": "Lounge im Weinkontor, Weinstraße 131, 67480 Edenkoben",
+   "ll": [
+    49.28557,
+    8.1278
+   ],
+   "src": [
+    "https://edenkoben.de/gastronomie"
+   ],
+   "tags": []
+  },
+  {
+   "id": "krraddegaggl",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have Pfälzer dishes at the Raddegaggl-Stubb in Landau",
+   "desc": "The Raddegaggl-Stubb is a Pfälzer-German restaurant in Landau in der Pfalz, a city in the wine region. Regional dishes such as Saumagen and Leberknödel are typical of the Palatine kitchen.",
+   "tip": "Order a Riesling Schorle with your meal. Check opening days before visiting.",
+   "q": "Raddegaggl-Stubb, Landau in der Pfalz",
+   "ll": [
+    49.199,
+    8.117
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/landau-in-der-pfalz/pfaelzer-kueche/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "krpfaelzerstuben",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try Saumagen at the Pfälzer Stuben in Herxheim",
+   "desc": "The Pfälzer Stuben at the Hotel Krone in Herxheim bei Landau is a wood-panelled dining room serving Palatine cooking such as braised veal cheeks and slices of Saumagen.",
+   "tip": "Reserve at weekends. Herxheim is a short drive from Landau.",
+   "q": "Pfälzer Stube, Hotel Krone, Hauptstraße 62, Hayna, 76863 Herxheim",
+   "ll": [
+    49.12368,
+    8.20468
+   ],
+   "src": [
+    "https://guide.michelin.com/en/rheinland-pfalz/herxheim/restaurant/pfalzer-stube",
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/herxheim-bei-landau-in-der-pfalz/pfaelzer-stuben/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "krhirsch",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at the Landgasthof Zum Hirsch in Remchingen",
+   "desc": "The Landgasthof Zum Hirsch in Remchingen in the Enzkreis is listed in the Falstaff guide 2026 as a German country inn. It serves regional dishes in a traditional dining room.",
+   "tip": "Book for weekends and check the seasonal menu.",
+   "q": "Landgasthof Zum Hirsch, Remchingen",
+   "ll": [
+    48.94639,
+    8.57459
+   ],
+   "src": [
+    "https://www.falstaff.com/de/restaurants/zum-hirsch-remchingen"
+   ],
+   "tags": []
+  },
+  {
+   "id": "krhoheneck",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat a Mittagstisch at the Landgasthaus Hoheneck in Huchenfeld",
+   "desc": "The Landgasthaus Hoheneck in Pforzheim-Huchenfeld is a village inn known for its affordable daily lunch menu and traditional cooking. It sits on the edge of the northern Black Forest.",
+   "tip": "Ask for the Tagesessen at lunchtime. Check opening days online.",
+   "q": "Landgasthaus Hoheneck, Huchenfelder Straße 70, Huchenfeld, 75181 Pforzheim",
+   "ll": [
+    48.87271,
+    8.68775
+   ],
+   "src": [
+    "https://www.speisekarte.de/pforzheim/restaurant/landgasthaus_hoheneck"
+   ],
+   "tags": []
+  },
+  {
+   "id": "krtalblick",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Black Forest cake at Café Talblick in Schömberg",
+   "desc": "The Hotel with Café and Konditorei Talblick in Schömberg in the northern Black Forest advertises a gold-awarded Schwarzwälder Kirschtorte baked in its own pastry kitchen and coffee roasted on site.",
+   "tip": "Order the Kirschtorte with a coffee. Seating has valley views; check opening days.",
+   "q": "Café Konditorei Talblick, Schömberg, Landkreis Calw",
+   "ll": [
+    48.7884,
+    8.64875
+   ],
+   "src": [
+    "https://www.kurzurlaub.de/angebote/94439-schnuppertage-im-nordschwarzwald-wellness-hotel-konditorei-cafe-talblick.html"
+   ],
+   "tags": []
+  },
+  {
+   "id": "krkaffeemanufaktur",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink coffee at the Kaffee-Manufaktur in Bad Wildbad",
+   "desc": "The Kaffee-Manufaktur on König-Karl-Straße in Bad Wildbad roasts and serves coffee and confectionery and runs regular Black Forest cherry cake workshops where visitors can see the production.",
+   "tip": "Book the cake workshop in advance. Open during spa-town hours; check ahead.",
+   "q": "Kaffee-Manufaktur, König-Karl-Straße 102, 75323 Bad Wildbad",
+   "ll": [
+    48.75519,
+    8.55191
+   ],
+   "src": [
+    "https://fromplacetoplace.travel/germany/baden-wuerttemberg/northern-black-forest/excursion-tips-in-bad-wildbad/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "kratsstuben",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine by the Alb at Die Ratsstuben in Ettlingen",
+   "desc": "Die Ratsstuben is a restaurant in the centre of Ettlingen's old town by the Alb, listed by the Michelin Guide, with a modern interior and a menu of seasonal dishes.",
+   "tip": "Reserve ahead; it is a mid- to upper-priced option on the Kirchenplatz.",
+   "q": "Die Ratsstuben, Kirchenplatz 1, 76275 Ettlingen",
+   "ll": [
+    48.941,
+    8.408
+   ],
+   "src": [
+    "https://guide.michelin.com/ch/de/baden-wurttemberg/ettlingen/restaurant/die-ratsstuben"
+   ],
+   "tags": []
+  },
+  {
+   "id": "krwallhall",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink house-brewed beer at Brauhaus Wallhall in Bruchsal",
+   "desc": "Brauhaus Wallhall is a brewery restaurant in the centre of Bruchsal, listed by the Karlsruhe region tourism site. It serves its own beers alongside hearty Baden and German dishes.",
+   "tip": "Combine it with a visit to Schloss Bruchsal, a few minutes away on foot. Check opening days online.",
+   "q": "Brauhaus Wallhall, Kaiserstraße, 76646 Bruchsal",
+   "ll": [
+    49.12286,
+    8.59898
+   ],
+   "src": [
+    "https://www.karlsruhe-erleben.de/en/attraktion/brauhaus-wallhall-bruchsal-291db3d41b"
+   ]
+  },
+  {
+   "id": "krlammottersdorf",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat at Gasthaus Lamm in Rastatt-Ottersdorf",
+   "desc": "The Gasthaus Lamm in Ottersdorf is a village inn near the Rhine rated 4.6 out of 5 on Tripadvisor and serves German cooking.",
+   "tip": "Reserve at weekends. Combine with a Rhine floodplain cycle ride.",
+   "q": "Gasthaus Lamm, Am Kirchplatz 8, 76437 Rastatt-Ottersdorf",
+   "ll": [
+    48.8605,
+    8.15416
+   ],
+   "src": [
+    "https://www.swipein.restaurant/en/restaurant/gasthaus-lamm-ottersdorf-rastatt-baden-wurttemberg"
+   ],
+   "tags": []
+  },
+  {
+   "id": "krzumengel",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have home cooking at Gasthaus Zum Engel in Rastatt",
+   "desc": "Gasthaus Zum Engel on Rastatt's Kaiserstraße is a traditional inn serving German home cooking, listed under Aus Omas Küche. It is a short walk from the Residenzschloss.",
+   "tip": "Try the daily specials. Check opening days before going.",
+   "q": "Gasthaus Zum Engel, Kaiserstraße 65, 76437 Rastatt",
+   "ll": [
+    48.84529,
+    8.22202
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/rastatt/gasthaus-zum-engel/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "krpanvinothek",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste wine at the PAN Vinothek in a Germersheim brick hall",
+   "desc": "PAN Vinothek is a wine bar and restaurant in a brick building from 1847 that was once a vinegar factory and distillery. Michelin lists it with an international menu and a modern interior.",
+   "tip": "Reserve for dinner. Combine it with the fortress walk.",
+   "q": "PAN Vinothek, Klosterstraße 2, 76726 Germersheim",
+   "ll": [
+    49.21799,
+    8.36893
+   ],
+   "src": [
+    "https://guide.michelin.com/kr/ko/rheinland-pfalz/germersheim/restaurant/pan-vinothek"
+   ],
+   "tags": []
+  },
+  {
+   "id": "krbaumwipfel",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Baumwipfelpfad at Sommerberg",
+   "desc": "The Baumwipfelpfad Schwarzwald in Bad Wildbad is an elevated walkway through the treetops with a spiral tower at the end. It is open nearly all year and also when it rains.",
+   "tip": "Reach it with the Sommerbergbahn funicular; opening hours vary by season.",
+   "q": "Baumwipfelpfad Schwarzwald, Wildbader Straße 2, 75323 Bad Wildbad",
+   "ll": [
+    48.75036,
+    8.53574
+   ],
+   "src": [
+    "https://treetop-walks.com/schwarzwald/baumwipfelpfad",
+    "https://bad-wildbad.de/en/adventure-forest"
+   ],
+   "tags": []
+  },
+  {
+   "id": "krsommerbergbahn",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Sommerbergbahn funicular up from Bad Wildbad",
+   "desc": "The Sommerbergbahn climbs from Uhlandplatz in Bad Wildbad to the Sommerberg in about seven minutes. At the top are the Baumwipfelpfad and hiking trails.",
+   "tip": "An extra ticket is sold at machines at both stations.",
+   "q": "Sommerbergbahn Talstation, Uhlandplatz, 75323 Bad Wildbad",
+   "ll": [
+    48.751,
+    8.548
+   ],
+   "src": [
+    "https://microsites.bahn.de/regional-de/regionen/baden-wuerttemberg/ausflugstipps/aktiv/sommerbergbahn"
+   ],
+   "tags": []
+  },
+  {
+   "id": "krpalaisthermal",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Soak in the historic Palais Thermal of Bad Wildbad",
+   "desc": "Bad Wildbad is a spa town in the Enz valley whose warm springs have been used since the Middle Ages. The Palais Thermal and the Königliche Kurtheater complex are part of the town's 19th-century spa heritage.",
+   "tip": "Check current opening times and the sauna rules. Take a towel.",
+   "q": "Palais Thermal, König-Karl-Straße 5, 75323 Bad Wildbad",
+   "ll": [
+    48.7508,
+    8.5504
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Bad_Wildbad"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "krrietburgbahn",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Rietburgbahn chairlift above Edenkoben",
+   "desc": "The open chairlift runs from near Villa Ludwigshöhe up about 220 metres to the Rietburg ruin in roughly ten minutes. The summit has views over the Rhine plain and vineyards.",
+   "tip": "In 2026 it runs 7 March to 8 November, weather permitting; a return ticket cost 8.50 euro for adults.",
+   "q": "Rietburgbahn, Villastraße 67, 67480 Edenkoben",
+   "ll": [
+    49.27827,
+    8.08304
+   ],
+   "src": [
+    "https://www.wochenblatt-reporter.de/edenkoben/c-lokales/rietburgbahn-edenkoben-sesselbahnfahrt-mit-panoramablick-ueber-die-pfalz_a851029"
+   ],
+   "tags": [],
+   "months": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "id": "krwildsee",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Wildseemoor loop at Kaltenbronn",
+   "desc": "The Kaltenbronn raised bog is one of the largest in the Black Forest and includes the Wildsee and Hornsee. A leisurely wooded loop through the Wildseemoor nature reserve passes the Dobler Blick viewpoint.",
+   "tip": "Start at the Infozentrum Kaltenbronn, closed Mondays and Tuesdays. Wear sturdy shoes.",
+   "q": "Wildsee, Kaltenbronn, 76593 Gernsbach",
+   "ll": [
+    48.71844,
+    8.45823
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/mehr-wanderwege/wildseemoor-runde-bei-kaltenbronn-gernsbach-im-schwarzwald",
+    "https://www.infozentrum-kaltenbronn.de"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "krweinlehrpfad",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Weinlehrpfad at Schweigen",
+   "desc": "The Weinlehrpfad at Schweigen-Rechtenbach opened in 1969 and is often called Germany's first wine education trail. It starts at the Deutsches Weintor and leads through the vineyards.",
+   "tip": "Wear walking shoes and bring water.",
+   "q": "Weinlehrpfad, Deutsches Weintor, 76889 Schweigen-Rechtenbach",
+   "ll": [
+    49.05268,
+    7.94712
+   ],
+   "src": [
+    "https://www.wochenblatt-reporter.de/bad-bergzaberner-land/c-lokales/gelungene-restauration_a289311"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "krmandelpfad",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the first stage of the Pfälzer Mandelpfad",
+   "desc": "The Pfälzer Mandelpfad starts at the Deutsches Weintor in Schweigen-Rechtenbach, with stage one leading to Eschbach through vineyards and almond groves.",
+   "tip": "The almond trees bloom in March and early April.",
+   "q": "Deutsches Weintor, Schweigen-Rechtenbach, 76889 Schweigen-Rechtenbach",
+   "ll": [
+    49.05196,
+    7.95652
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Deutsches_Weintor",
+    "https://www.ich-geh-wandern.de/pf%C3%A4lzer-mandelpfad-etappe-1-schweigen-rechtenbach-eschbach"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    3,
+    4
+   ]
+  },
+  {
+   "id": "krklosterpfad",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Klosterpfad from Bad Herrenalb to Frauenalb",
+   "desc": "The Klosterpfad follows the Albtal from the spa town of Bad Herrenalb to the Frauenalb monastery ruin and passes the Museum Bad Herrenalb along the way.",
+   "tip": "Return by hiking over Bernbach or by the Albtal bus. The Siebentäler-Therme was being rebuilt, so check its status.",
+   "q": "Klosterkirche, Im Kloster 13, 76332 Bad Herrenalb",
+   "ll": [
+    48.79643,
+    8.437
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/klosterpfad-im-albtal-von-bad-herrenalb-nach-frauenalb-schwarzwald",
+    "https://www.alpen-guide.de/reisefuehrer/poi/klosterpfad-im-albtal-bad-herrenalb"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "krparacelsus",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Relax in the Paracelsus-Therme in Bad Liebenzell",
+   "desc": "Bad Liebenzell in the Nagold valley is a spa town with thermal springs. The Paracelsus-Therme offers thermal pools, saunas and wellness areas.",
+   "tip": "Check current prices and opening hours. Take a towel.",
+   "q": "Paracelsus-Therme, Bad Liebenzell",
+   "ll": [
+    48.76909,
+    8.73314
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Bad_Liebenzell"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "krcalwhirsau",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Nagold valley from Calw to Kloster Hirsau",
+   "desc": "A round walk follows the Nagold from Calw's old town to the Hirsau monastery ruins and returns over the heights. Trail guides describe it as a manageable day hike in the northern Black Forest.",
+   "tip": "Start at the Nikolausbrücke in Calw and plan about three hours.",
+   "q": "Nikolausbrücke, 75365 Calw",
+   "ll": [
+    48.71356,
+    8.74102
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/rundwanderung-von-calw-zum-kloster-hirsau-nagoldtal"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "krenzauenpark",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the rivers of Pforzheim at the Enzauenpark",
+   "desc": "Pforzheim sits at the meeting of the Enz, Nagold and Würm rivers, and the Enzauenpark is a green strip along the water close to the city centre.",
+   "tip": "Free all year; combine with the Schmuckmuseum.",
+   "q": "Enzauenpark, Pforzheim",
+   "ll": [
+    48.897,
+    8.73062
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Pforzheim"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kralbtalbahn",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Albtalbahn from Ettlingen into the Black Forest",
+   "desc": "The Albtalbahn is a regional tram line that runs through the Albtal from Ettlingen to Bad Herrenalb, passing woods, hamlets and trailheads. It is a scenic way to reach hiking in the Karlsruhe region.",
+   "tip": "Included in KVV tickets. Combine with the Klosterpfad hike.",
+   "q": "Ettlingen Stadt Bahnhof, 76275 Ettlingen",
+   "ll": [
+    48.93863,
+    8.40912
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Albtalbahn"
+   ],
+   "tags": []
+  },
+  {
+   "id": "krlandauzoo",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Spend an afternoon at the Landau Zoo",
+   "desc": "Landau Zoo is a small zoo in the city park area of Landau in der Pfalz, with animals from Europe and other continents. It is a popular family destination in the Südliche Weinstraße region.",
+   "tip": "Check the current opening hours and entry fee online.",
+   "q": "Zoo Landau, Hindenburgstraße 12, 76829 Landau in der Pfalz",
+   "ll": [
+    49.20398,
+    8.11056
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Zoo_Landau_in_der_Pfalz"
+   ],
+   "tags": []
+  },
+  {
+   "id": "krmusikautomaten",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hear self-playing instruments in Schloss Bruchsal",
+   "desc": "The Deutsches Musikautomaten-Museum in Schloss Bruchsal, part of the Badisches Landesmuseum, displays one of Europe's largest collections of self-playing musical instruments. Guided tours include demonstrations.",
+   "tip": "The tour is included with the castle ticket. Closed Mondays.",
+   "q": "Deutsches Musikautomaten-Museum, Schloßraum 4, 76646 Bruchsal",
+   "ll": [
+    49.12903,
+    8.59819
+   ],
+   "src": [
+    "https://www.landesmuseum.de/en/museum/other-locations/german-museum-of-mechanical-musical-instruments"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "krgernsbachwalk",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Follow the Stadtrundgang through old Gernsbach",
+   "desc": "Gernsbach in the Murgtal has a historic old town with half-timbered houses and fountains. The tourist office publishes a self-guided town walk through the centre.",
+   "tip": "The route leaflet is free from the tourist information.",
+   "q": "Altes Rathaus, Hauptstraße 11, 76593 Gernsbach",
+   "ll": [
+    48.76343,
+    8.33486
+   ],
+   "src": [
+    "https://www.gernsbach.de/site/GernsbachRoot/get/params_E1356767335/4799408/Stadtrundgang%2008%2025_web.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

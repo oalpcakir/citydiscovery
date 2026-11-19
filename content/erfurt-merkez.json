@@ -1,0 +1,854 @@
+{
+ "new": [
+  {
+   "id": "erkraemerbruecke",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk across the Krämerbrücke, lined with houses",
+   "desc": "A bridge over the Gera first mentioned in 1117; the stone version was completed in 1325 and the present houses date from the rebuild after the 1472 fire. Shops and workshops still occupy the timber-framed houses.",
+   "tip": "Come early morning to beat the crowds; the Stiftung Krämerbrücke exhibit at No. 31 has a 1:100 model.",
+   "q": "Krämerbrücke, Altstadt, Erfurt",
+   "ll": [
+    50.9787,
+    11.0308
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Krämerbrücke"
+   ],
+   "tags": []
+  },
+  {
+   "id": "erdom",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb the Domstufen to Erfurt Cathedral",
+   "desc": "The Romanesque basilica begun in 1154 became a Gothic cathedral with famed choir windows from about 1370 to 1420. Its Gloriosa bell, cast in 1497, is the largest free-swinging medieval bell in the world.",
+   "tip": "Visit together with the neighbouring Severikirche; the Gloriosa rings mainly on high feast days.",
+   "q": "Erfurter Dom, Domplatz, Erfurt",
+   "ll": [
+    50.977,
+    11.02429
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Erfurter_Dom"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "erseveri",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Severus sarcophagus in St. Severi",
+   "desc": "The Gothic hall church on the Domberg holds relics of Saint Severus brought to Erfurt in 836. Look for the 1510 Marienaltar and the alabaster Archangel Michael relief of 1467.",
+   "tip": "Check opening times on the parish website; combine with the cathedral next door.",
+   "q": "Severikirche, Domstraße, Erfurt",
+   "ll": [
+    50.97613,
+    11.02256
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Severikirche_(Erfurt)"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "erpetersberg",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk the ramparts of Zitadelle Petersberg",
+   "desc": "One of the largest and best preserved town fortresses in Central Europe, a Baroque citadel built from the 17th century above the old town. The grounds give views over the cathedral hill.",
+   "tip": "Guided tours of the underground tunnels are offered; wear sturdy shoes on the cobbles.",
+   "q": "Zitadelle Petersberg, Petersberg, Erfurt",
+   "ll": [
+    50.97881,
+    11.01862
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Zitadelle_Petersberg_(Erfurt)",
+    "https://www.Wikipedia.org/wiki/Erfurt"
+   ],
+   "tags": []
+  },
+  {
+   "id": "eraltesynagoge",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Discover the Alte Synagoge and the Erfurt Treasure",
+   "desc": "A medieval synagogue in the courtyard between Fischmarkt and Michaelisstraße, now a museum holding the Jewish treasure found in 1998. Together with the mikveh it became a UNESCO World Heritage Site in September 2023.",
+   "tip": "The museum is part of Jüdisches Leben in Erfurt; check juedisches-leben.erfurt.de for hours.",
+   "q": "Alte Synagoge, Waagegasse 8, Erfurt",
+   "ll": [
+    50.9786,
+    11.0293
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Alte_Synagoge_(Erfurt)"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "eraugustiner",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Follow Martin Luther at the Augustinerkloster",
+   "desc": "Luther lived here as a monk from 1505 to 1511 and said his first Mass on 2 May 1507. The permanent exhibition Frust und Freiheit opened in March 2025.",
+   "tip": "Check augustinerkloster.de for hours and tours.",
+   "q": "Augustinerkloster, Augustinerstraße 10, Erfurt",
+   "ll": [
+    50.9814,
+    11.03
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Augustinerkloster_(Erfurt)"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "errathaus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the painted stairwells of Erfurt Rathaus",
+   "desc": "Neogothic town hall on the Fischmarkt, built 1869 to 1882 by Theodor Sommer. The stairwells and Festsaal carry history paintings of Erfurt and Luther.",
+   "tip": "The painted stairwells are freely accessible to visitors.",
+   "q": "Rathaus, Fischmarkt 1, Erfurt",
+   "ll": [
+    50.9778,
+    11.0292
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Erfurter_Rathaus"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "erneuemuehle",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the working Neue Mühle by the Gera",
+   "desc": "The last functioning mill of what were once 60 in the city, a museum of the Stadtmuseum Erfurt since 1992. Its original water wheel still drives a generator.",
+   "tip": "See stadtmuseum-erfurt.de for opening days.",
+   "q": "Neue Mühle, Schlösserbrücke, Erfurt",
+   "ll": [
+    50.9767,
+    11.03
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Neue_Mühle_(Erfurt)"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "erfeuerkugel",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Thüringer Klöße and roulade at Feuerkugel",
+   "desc": "Gasthaus on Michaelisstraße serving regional Thuringian cooking: Rinderroulade, Thüringer Bratwurst and homemade dumplings. Reviewers also single out the Erfurt black beer meat with Klöße.",
+   "tip": "Mains cost roughly 20 to 30 euros; book for evenings.",
+   "q": "Gasthaus Feuerkugel, Michaelisstraße 3, Erfurt",
+   "ll": [
+    50.979,
+    11.0297
+   ],
+   "src": [
+    "https://fodors.fodors.com/world/europe/germany/saxony-saxony-anhalt-and-thuringia/restaurants/reviews/gasthaus-feuerkugel-s882147",
+    "https://www.swipein.restaurant/de/restaurant/gasthaus-feuerkugel-erfurt-thuringen"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ernaumburgischer",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try Sauerbraten with Klöße at Naumburgischer Keller",
+   "desc": "Half-timbered house with a vaulted stone cellar on Michaelisstraße. Guests praise the roulade, sauerbraten and Thüringer Klöße.",
+   "tip": "Ask for a table in the vaulted cellar.",
+   "q": "Haus zum Naumburgischen Keller, Michaelisstraße 49, Erfurt",
+   "ll": [
+    50.9787,
+    11.02979
+   ],
+   "src": [
+    "https://www.speisekarte.de/erfurt/restaurant/haus_zum_naumburgischen_keller"
+   ],
+   "tags": []
+  },
+  {
+   "id": "erchristoffel",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order game with Klöße at Wirtshaus Christoffel",
+   "desc": "Wirtshaus on Michaelisstraße known for Thuringian dumplings served with game, plus Rostbrätel on the menu.",
+   "tip": "Pick the dumpling dishes over the grill plates.",
+   "q": "Wirtshaus Christoffel, Michaelisstraße 41, Erfurt",
+   "ll": [
+    50.98,
+    11.0305
+   ],
+   "src": [
+    "https://www.speisekarte.de/erfurt/restaurant/wirtshaus_christoffel1"
+   ],
+   "tags": []
+  },
+  {
+   "id": "erwenigemarkt13",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Rinderroulade with Klöße at Zum Wenigemarkt 13",
+   "desc": "Restaurant on the Wenigemarkt serving Thuringian cooking such as Rinderroulade with Klöße and Sauerbraten, next to the Krämerbrücke.",
+   "tip": "Sit outside on the square in summer.",
+   "q": "Zum Wenigemarkt 13, Wenigemarkt 13, Erfurt",
+   "ll": [
+    50.9788,
+    11.0335
+   ],
+   "src": [
+    "https://www.speisekarte.de/erfurt/restaurant/restaurant_zum_wenigemarkt_13"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ergoldhelm",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste handmade truffles at Goldhelm on the Krämerbrücke",
+   "desc": "Goldhelm Schokoladen Manufaktur started in 2005 in the historic Haus zum güldenen Helm on the bridge. The Krämerbrücke truffles and pralines are the usual picks.",
+   "tip": "A sister ice cream shop, Eiskrämer, is at Kreuzgasse 5.",
+   "q": "Goldhelm Schokoladen Manufaktur, Krämerbrücke 12, Erfurt",
+   "ll": [
+    50.9788,
+    11.0312
+   ],
+   "src": [
+    "https://www.golocal.de/erfurt/suesswaren/goldhelm-schokoladenmanufaktur-YUv5v/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "erbohnea",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sip hand-roasted coffee at Bohnea on the Fischmarkt",
+   "desc": "Café and roastery serving hand-roasted specialty coffee and cake in the old town, steps from the Rathaus.",
+   "tip": "Fischmarkt 6; try a filter coffee with a slice of cake.",
+   "q": "Bohnea Café & Rösterei, Fischmarkt 6, Erfurt",
+   "ll": [
+    50.9779,
+    11.029
+   ],
+   "src": [
+    "https://www.erfurt-tourismus.de/kulinarik/gastronomischer-stadtbummel/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "erhilgenfeld",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have cake with a cathedral view at Café Hilgenfeld",
+   "desc": "Independent café on the Domplatz ranked among Erfurt's top cafés, with seating facing the cathedral square.",
+   "tip": "Quietest in the morning outside Christmas market season.",
+   "q": "Café Hilgenfeld, Domplatz, Erfurt",
+   "ll": [
+    50.9764,
+    11.0245
+   ],
+   "src": [
+    "https://redirect.foursquare.com/v/caf%C3%A9-hilgenfeld/4bc1e882b492d13a0096a660"
+   ],
+   "tags": []
+  },
+  {
+   "id": "eregapark",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Spend a day at the egapark",
+   "desc": "Garden park on the Cyriaksberg, site of the 1961 international garden exhibition, with the Danakil desert and rainforest house opened for BUGA 2021.",
+   "tip": "Admission is charged; open year-round, Mondays only in July and August.",
+   "q": "egapark Erfurt, Gothaer Straße 38, Erfurt",
+   "ll": [
+    50.96656,
+    11.0046
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Egapark"
+   ],
+   "tags": []
+  },
+  {
+   "id": "erzoopark",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Visit the Thüringer Zoopark Erfurt",
+   "desc": "Zoo opened in 1959 with about 1,000 animals of 133 species and nearly 400,000 visitors in 2019.",
+   "tip": "Bus line 30 or tram line 5 stops at the zoo.",
+   "q": "Thüringer Zoopark Erfurt, Am Zoopark 1, Erfurt",
+   "ll": [
+    51.02324,
+    11.02359
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Thüringer_Zoopark_Erfurt"
+   ],
+   "tags": []
+  },
+  {
+   "id": "erweihnachtsmarkt",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Wander the Erfurt Christmas Market on Domplatz",
+   "desc": "More than 200 wooden huts run from Domplatz via the Fischmarkt to the Anger, centred on a roughly 25 m tree in front of the cathedral. The 2026 market runs 24 November to 22 December.",
+   "tip": "Go on a weekday evening to avoid the crush; try a Rostbratwurst from a stall.",
+   "q": "Domplatz, Erfurt",
+   "ll": [
+    50.97731,
+    11.02243
+   ],
+   "src": [
+    "https://weihnachtsmarkt.erfurt.de/wm/en/christmas-city/erfurt-christmas-market"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    11,
+    12
+   ]
+  },
+  {
+   "id": "erdomstufen",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Watch a show at the DomStufen-Festspiele",
+   "desc": "Open-air musical theatre staged on the 70 sandstone steps in front of the cathedral and Severikirche, produced by Theater Erfurt since 1994. The 2026 production was Jesus Christ Superstar.",
+   "tip": "Runs in August; book well ahead as seats sell out.",
+   "q": "Domstufen, Domplatz, Erfurt",
+   "ll": [
+    50.976,
+    11.024
+   ],
+   "src": [
+    "https://www.thueringen-entdecken.de/en/w/domstufen-festspiele-erleben"
+   ],
+   "tags": [],
+   "months": [
+    8
+   ]
+  },
+  {
+   "id": "erkraemerfest",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Join the Krämerbrückenfest",
+   "desc": "Street festival around the Krämerbrücke held about the third weekend in June.",
+   "tip": "Arrive on foot; the old town is crowded.",
+   "q": "Krämerbrücke, Altstadt, Erfurt",
+   "ll": [
+    50.9787,
+    11.0308
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Krämerbrücke"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6
+   ]
+  },
+  {
+   "id": "ergoethe",
+   "cat": "gor",
+   "area": "weimar",
+   "title": "Tour Goethe's house on the Frauenplan",
+   "desc": "The Goethe-Nationalmuseum and Goethe's residence opened as a museum on 8 August 1885 after the death of Goethe's last grandson. The complex was reorganised in 1999.",
+   "tip": "Book timed tickets via the Klassik Stiftung.",
+   "q": "Goethe-Nationalmuseum, Frauenplan 1, Weimar",
+   "ll": [
+    50.97755,
+    11.3287
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Goethe-Nationalmuseum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "erannaamalia",
+   "cat": "gor",
+   "area": "weimar",
+   "title": "Step into the Rococo Hall of Anna Amalia Library",
+   "desc": "Founded in 1691, the library's oval three-storey Rococo hall survived a 2004 fire that destroyed about 50,000 volumes. It reopened in October 2007.",
+   "tip": "Entry is by timed slots; book ahead.",
+   "q": "Herzogin Anna Amalia Bibliothek, Platz der Demokratie 1, Weimar",
+   "ll": [
+    50.97861,
+    11.33222
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Herzogin_Anna_Amalia_Bibliothek"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "erbauhausmuseum",
+   "cat": "gor",
+   "area": "weimar",
+   "title": "See the world's oldest Bauhaus collection",
+   "desc": "The Bauhaus-Museum opened in April 2019 and shows the oldest Bauhaus collection in the world.",
+   "tip": "Pair it with Museum Neues Weimar nearby.",
+   "q": "Bauhaus-Museum Weimar, Stéphane-Hessel-Platz 1, Weimar",
+   "ll": [
+    50.98477,
+    11.32438
+   ],
+   "src": [
+    "https://www.merian.de/deutschland/thueringen/weimar-sehenswuerdigkeiten"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "erschillerhaus",
+   "cat": "gor",
+   "area": "weimar",
+   "title": "Visit Schiller's house on Schillerstraße",
+   "desc": "Schiller moved into this 1777 house on 29 April 1802 and died there on 9 May 1805.",
+   "tip": "Tickets via the Klassik Stiftung.",
+   "q": "Schillerhaus, Schillerstraße 12, Weimar",
+   "ll": [
+    50.9789,
+    11.3278
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schillers_Wohnhaus"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "erfuerstengruft",
+   "cat": "gor",
+   "area": "weimar",
+   "title": "Pay respects in the Fürstengruft",
+   "desc": "Goethe was buried here on 26 March 1832 beside Schiller at his own request. A 2008 gene test showed that the bones believed to be Schiller's were not his.",
+   "tip": "Located in the Historischer Friedhof.",
+   "q": "Fürstengruft, Historischer Friedhof, Weimar",
+   "ll": [
+    50.97259,
+    11.32564
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Fürstengruft_(Weimar)"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ergartenhaus",
+   "cat": "gor",
+   "area": "weimar",
+   "title": "Visit Goethe's Gartenhaus in the Ilm park",
+   "desc": "Goethe signed the purchase contract on 22 April 1776 and lived here before moving to Frauenplan in 1782. He kept visiting until February 1832.",
+   "tip": "Best in spring when the garden blooms.",
+   "q": "Goethes Gartenhaus, Park an der Ilm, Weimar",
+   "ll": [
+    50.97609,
+    11.33691
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Goethes_Gartenhaus"
+   ],
+   "tags": []
+  },
+  {
+   "id": "erbelvedere",
+   "cat": "gor",
+   "area": "weimar",
+   "title": "Discover Schloss Belvedere and its park",
+   "desc": "Baroque palace built 1724 to 1748 for Duke Ernst August I, now a Rococo museum with orangery and grotto, part of the UNESCO ensemble Klassisches Weimar.",
+   "tip": "About 4 km south of the centre; take the bus or cycle the Belvederer Allee.",
+   "q": "Schloss Belvedere, Belvederer Allee, Weimar",
+   "ll": [
+    50.94806,
+    11.35183
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Belvedere_(Weimar)"
+   ],
+   "tags": []
+  },
+  {
+   "id": "erhausamhorn",
+   "cat": "gor",
+   "area": "weimar",
+   "title": "See Haus Am Horn, the first Bauhaus building",
+   "desc": "Built in about four months in 1923 as the Bauhaus model house, UNESCO World Heritage since 1996.",
+   "tip": "Check opening days with the Bauhaus-Universität.",
+   "q": "Haus Am Horn, Am Horn 61, Weimar",
+   "ll": [
+    50.97382,
+    11.33943
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Haus_Am_Horn"
+   ],
+   "tags": []
+  },
+  {
+   "id": "erbuchenwald",
+   "cat": "gor",
+   "area": "weimar",
+   "title": "Visit the Buchenwald Memorial on the Ettersberg",
+   "desc": "The memorial stands on the site of the Nazi concentration camp operated from July 1937, where around 56,000 of about 277,800 prisoners died.",
+   "tip": "Allow half a day; bus line 6 runs from Weimar.",
+   "q": "Gedenkstätte Buchenwald, Ettersberg, Weimar",
+   "ll": [
+    51.01862,
+    11.25003
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/KZ_Buchenwald"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "erscharfeecke",
+   "cat": "ye",
+   "area": "weimar",
+   "title": "Order Thüringer Klöße at Scharfe Ecke",
+   "desc": "Small Gasthaus known for dumplings made to order, which can take up to 20 minutes.",
+   "tip": "Reserve; the room is small.",
+   "q": "Scharfe Ecke, Eisfeld 2, Weimar",
+   "ll": [
+    50.98088,
+    11.32748
+   ],
+   "src": [
+    "https://fodors.fodors.com/world/europe/germany/saxony-saxony-anhalt-and-thuringia/restaurants/reviews/scharfe-ecke-456275"
+   ],
+   "tags": []
+  },
+  {
+   "id": "erkartoffelhaus",
+   "cat": "ye",
+   "area": "weimar",
+   "title": "Eat Thüringer Klöße at Kartoffelhaus",
+   "desc": "Potato-themed restaurant serving Thüringer Klöße in several versions, including with pork goulash and red cabbage.",
+   "tip": "English-speaking staff.",
+   "q": "Kartoffelhaus, Weimar",
+   "ll": [
+    50.98319,
+    11.32636
+   ],
+   "src": [
+    "https://www.speisekarte.de/weimar-th%C3%BCringen/restaurant/kartoffelhaus_weimar/speisekarte"
+   ],
+   "tags": []
+  },
+  {
+   "id": "erweisserschwan",
+   "cat": "ye",
+   "area": "weimar",
+   "title": "Order Tafelspitz at Zum Weißen Schwan",
+   "desc": "Gasthaus at Frauentorstraße 23 with over 450 years of history, known for Tafelspitz with horseradish.",
+   "tip": "Close to the Goethe house.",
+   "q": "Zum weißen Schwan, Frauentorstraße 23, Weimar",
+   "ll": [
+    50.9777,
+    11.3288
+   ],
+   "src": [
+    "https://www.speisekarte.de/weimar-th%C3%BCringen/restaurant/zum_weissen_schwan/bewertung"
+   ],
+   "tags": []
+  },
+  {
+   "id": "erresidenzcafe",
+   "cat": "ye",
+   "area": "weimar",
+   "title": "Have coffee at the Residenz-Café",
+   "desc": "Founded on 7 November 1839, said to be Weimar's oldest surviving coffee house; Goethe's first Weimar lodging was in the adjoining building.",
+   "tip": "Sit by the window on Grüner Markt.",
+   "q": "Residenz-Café, Grüner Markt 4, Weimar",
+   "ll": [
+    50.9793,
+    11.3295
+   ],
+   "src": [
+    "https://www.mapquest.com/de/thuringia/residenz-cafe-restaurant-527306342"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ererbenhof",
+   "cat": "ye",
+   "area": "weimar",
+   "title": "Eat in the town hall cellar at Erbenhof",
+   "desc": "Cellar restaurant on Am Markt listed among Weimar's top restaurants by Fodor's.",
+   "tip": "Try the Thuringian dishes.",
+   "q": "Erbenhof, Am Markt, Weimar",
+   "ll": [
+    50.97811,
+    11.32806
+   ],
+   "src": [
+    "https://cdn.fodors.com/world/europe/germany/saxony-saxony-anhalt-and-thuringia/places/weimar/restaurants"
+   ],
+   "tags": []
+  },
+  {
+   "id": "erilmpark",
+   "cat": "dene",
+   "area": "weimar",
+   "title": "Stroll the Park an der Ilm",
+   "desc": "Landscape park begun in 1776 under Goethe's influence, with the Römisches Haus (1791 to 1798) and Goethe's Gartenhaus.",
+   "tip": "Free and open year-round.",
+   "q": "Park an der Ilm, Weimar",
+   "ll": [
+    50.9747,
+    11.3344
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Park_an_der_Ilm"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "erzwiebelmarkt",
+   "cat": "dene",
+   "area": "weimar",
+   "title": "Join the Weimarer Zwiebelmarkt",
+   "desc": "Folk festival on the second weekend of October, first mentioned in 1653, with about 600 stalls and Zwiebelkuchen with Federweißer.",
+   "tip": "Arrive early; the old town is packed.",
+   "q": "Marktplatz, Weimar",
+   "ll": [
+    50.9797,
+    11.3294
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Weimarer_Zwiebelmarkt"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    10
+   ]
+  },
+  {
+   "id": "erjentower",
+   "cat": "gor",
+   "area": "jena",
+   "title": "Ride up the JenTower for a city panorama",
+   "desc": "Zeiss research tower built 1970 to 1972, now 159.6 m tall, with a restaurant and observation platform on floors 28 and 29.",
+   "tip": "Check jentower.de for hours.",
+   "q": "JenTower, Leutragraben 1, Jena",
+   "ll": [
+    50.9289,
+    11.5846
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Jentower"
+   ],
+   "tags": []
+  },
+  {
+   "id": "erplanetarium",
+   "cat": "gor",
+   "area": "jena",
+   "title": "See the stars in the Zeiss-Planetarium",
+   "desc": "Opened on 18 July 1926, the world's oldest large-dome projection planetarium still operating. It reopened on 15 July 2026 after a 7.5 million euro modernisation.",
+   "tip": "Book a show in advance.",
+   "q": "Zeiss-Planetarium, Am Planetarium 5, Jena",
+   "ll": [
+    50.9317,
+    11.5869
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Zeiss-Planetarium_Jena"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "erfuchsturm",
+   "cat": "gor",
+   "area": "jena",
+   "title": "Climb to the Fuchsturm on the Hausberg",
+   "desc": "Medieval tower on the 375 m Hausberg; burned in 1905 after lightning and its roof was removed in 1944.",
+   "tip": "Combine with the Gaststätte beside it.",
+   "q": "Fuchsturm, Hausberg, Jena",
+   "ll": [
+    50.92365,
+    11.62152
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Fuchsturm_(Jena)"
+   ],
+   "tags": []
+  },
+  {
+   "id": "erbotgarten",
+   "cat": "gor",
+   "area": "jena",
+   "title": "Wander the Botanischer Garten Jena",
+   "desc": "Founded in 1586, the second-oldest botanical garden in Germany; Goethe sat on its supervising commission.",
+   "tip": "Opposite the university library.",
+   "q": "Botanischer Garten Jena, Fürstengraben 26, Jena",
+   "ll": [
+    50.931,
+    11.586
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Botanischer_Garten_Jena"
+   ],
+   "tags": []
+  },
+  {
+   "id": "erphyletisches",
+   "cat": "gor",
+   "area": "jena",
+   "title": "Visit the Phyletisches Museum",
+   "desc": "Ernst Haeckel gave the building to the university on 30 July 1908; the first permanent exhibition opened in 1912.",
+   "tip": "See the museum homepage for hours.",
+   "q": "Phyletisches Museum, Vor dem Neutor 1, Jena",
+   "ll": [
+    50.9242,
+    11.5836
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Phyletisches_Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "erschillergarten",
+   "cat": "gor",
+   "area": "jena",
+   "title": "Visit Schillers Gartenhaus",
+   "desc": "Schiller bought it in March 1797 for 1,050 Taler and had a small tower built there in 1798.",
+   "tip": "Check hours before visiting.",
+   "q": "Schillers Gartenhaus, Schillergäßchen 2, Jena",
+   "ll": [
+    50.9258,
+    11.5833
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schillers_Gartenhaus"
+   ],
+   "tags": []
+  },
+  {
+   "id": "erpapiermuehle",
+   "cat": "ye",
+   "area": "jena",
+   "title": "Drink house-brewed beer at Braugasthof Papiermühle",
+   "desc": "Brewpub in Jena-West with five beers brewed on site and Thuringian cooking.",
+   "tip": "Open late; try the house beer with a Thuringian dish.",
+   "q": "Braugasthof Papiermühle, Erfurter Straße 102, Jena",
+   "ll": [
+    50.93758,
+    11.55787
+   ],
+   "src": [
+    "https://hotels.easyjet.com/hotel/de/braugasthof-papiermuhle.en-gb.html?aid=356980",
+    "https://www.komoot.com/highlight/519905"
+   ],
+   "tags": []
+  },
+  {
+   "id": "errotenhirsch",
+   "cat": "ye",
+   "area": "jena",
+   "title": "Eat regional food at Gasthaus zum Roten Hirsch",
+   "desc": "Historic Gasthaus at Holzmarkt 10 with traditional Thuringian dishes and game.",
+   "tip": "Mixed reviews; go for the regional classics.",
+   "q": "Gasthaus zum Roten Hirsch, Holzmarkt 10, Jena",
+   "ll": [
+    50.9288,
+    11.5861
+   ],
+   "src": [
+    "https://www.speisekarte.de/jena/restaurant/gaststaette_zum_roten_hirsch"
+   ],
+   "tags": []
+  },
+  {
+   "id": "erfuchsturmgasthaus",
+   "cat": "ye",
+   "area": "jena",
+   "title": "Eat Thuringian specialties at the Fuchsturm Gaststätte",
+   "desc": "Hilltop Gaststätte with a beer garden by the tower.",
+   "tip": "A reward after the climb.",
+   "q": "Fuchsturm Gaststätte, Fuchsturm, Jena",
+   "ll": [
+    50.9238,
+    11.6205
+   ],
+   "src": [
+    "https://www.speisekarte.de/jena/restaurant/fuchsturm"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ercafewagner",
+   "cat": "ye",
+   "area": "jena",
+   "title": "Hang out at Café Wagner",
+   "desc": "Cultural café and club on Wagnergasse with live music, films and board game nights.",
+   "tip": "Check the programme.",
+   "q": "Café Wagner, Wagnergasse 26, Jena",
+   "ll": [
+    50.93121,
+    11.5802
+   ],
+   "src": [
+    "https://www.regioactive.de/location/jena/cafe-wagner-g8CPTd8Fq.html"
+   ],
+   "tags": []
+  },
+  {
+   "id": "errosenkeller",
+   "cat": "dene",
+   "area": "jena",
+   "title": "See a gig at the Rosenkeller",
+   "desc": "Student club in the cellars of Haus zur Rosen at Johannisstraße 13, opened on 3 May 1966.",
+   "tip": "Check the programme.",
+   "q": "Rosenkeller, Johannisstraße 13, Jena",
+   "ll": [
+    50.9288,
+    11.5863
+   ],
+   "src": [
+    "https://uni-jena.de/unijenamedia/95090/history-of-house-zur-rosen.pdf"
+   ],
+   "tags": []
+  }
+ ]
+}

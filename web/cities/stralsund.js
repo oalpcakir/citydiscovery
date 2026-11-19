@@ -41,7 +41,7 @@ window.CITIES.stralsund = {
     srlandesmuseum: [54.0950, 13.3827], srcdf: [54.0958, 13.3770], sreldena: [54.0895, 13.4526],
     srklappbruecke: [54.0935, 13.4486], srmarkt: [54.0937, 13.3819], srwie05: [54.0934, 13.4498],
     srzurfaehre: [54.0937, 13.4477], srfischerhuetter: [54.0932, 13.4494], srmuseumshafen: [54.0993, 13.3862],
-    srwieckdorf: [54.0964, 13.4509], romoor2: [54.2708, 12.2886]
+    srwieckdorf: [54.0964, 13.4509]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -264,9 +264,6 @@ window.CITIES.stralsund = {
       tip: "Free; best on a sunny afternoon.", q: "Museumshafen Greifswald, Greifswald", tags: ["free"], src: ["https://www.greifswald.de/export/sites/hgw/de/urlaub-kultur/Downloads/Greifswald_Broschuere_2024_web.pdf"] },
     { id: "srwieckdorf", cat: "dene", area: "greifswald", title: "Walk through the thatched fishing village of Wieck",
       desc: "Wieck keeps thatched fishermen's houses from the 18th and 19th centuries around its harbour.",
-      tip: "Combine with the bridge and a fish roll.", q: "Wieck, Greifswald", tags: ["free"], src: ["https://www.greifswald.de/export/sites/hgw/de/urlaub-kultur/Downloads/Greifswald_Flyer_Wieck_2025web.pdf"] },
-    { id: "romoor2", cat: "dene", area: "cevre", title: "Walk the Ribnitzer Großes Moor near Graal-Müritz",
-      desc: "The nature reserve east of Graal-Müritz is a raised bog about 6,000 years old. A path leads through the bog landscape.",
-      tip: "Wear sturdy shoes and bring insect repellent in summer.", q: "Naturschutzgebiet Ribnitzer Großes Moor, Graal-Müritz", tags: ["free"], src: ["https://www.mvp.de/entdecken/sehenswertes/?from=360"] }
+      tip: "Combine with the bridge and a fish roll.", q: "Wieck, Greifswald", tags: ["free"], src: ["https://www.greifswald.de/export/sites/hgw/de/urlaub-kultur/Downloads/Greifswald_Flyer_Wieck_2025web.pdf"] }
   ]
 };

@@ -36,8 +36,7 @@ window.CITIES.enschede = {
     carelshaven: [52.2635, 6.7311], bolletjealmelo: [52.3522, 6.6652], othmarbrouwerij: [52.4047, 6.9003],
     tuindorplansink: [52.2595, 6.7819], stiftweerselo: [52.3557, 6.8430], arboretumpoortbulten: [52.3065, 6.9910],
     waarbeek: [52.2443, 6.8079], kuiperberg: [52.4061, 6.8839], springendal: [52.4349, 6.9017],
-    hulsbeek: [52.3056, 6.8869], buurserzand: [52.1643, 6.8062], engbertsdijksvenen: [52.4682, 6.6690],
-    holtencemetery: [52.2995, 6.4280]
+    hulsbeek: [52.3056, 6.8869], buurserzand: [52.1643, 6.8062], engbertsdijksvenen: [52.4682, 6.6690]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -231,9 +230,6 @@ window.CITIES.enschede = {
       tip: "Start at the De Wakel information centre on Stendermolenweg, where a walk of about 5 km passes the historic farm De Bommelas. The heather blooms in summer, and deer are easiest to spot early in the morning or at sunset.", q: "De Wakel, Stendermolenweg, Haaksbergen", tags: ["free"], src: ["https://www.natuurmonumenten.nl/natuurgebieden/buurserzand", "https://nl.wikipedia.org/wiki/Buurserzand"] },
     { id: "engbertsdijksvenen", cat: "dene", area: "cevre", title: "Look for cranes on the bog of the Engbertsdijksvenen",
       desc: "Near Kloosterhaar, north of Almelo, about 1,000 hectares remain of the peat bog that once covered the north-east of the country. It holds 17 of the 25 hectares of living raised bog left in the Netherlands. Cranes, bluethroats, adders and moor frogs live among the heath and pools.",
-      tip: "The 5 km Heideroute passes a bird hide, so bring binoculars. Stay on the marked paths, as the bog is wet and fragile.", q: "Engbertsdijksvenen", tags: ["free"], src: ["https://nl.wikipedia.org/wiki/Engbertsdijksvenen"] },
-    { id: "holtencemetery", cat: "gor", area: "cevre", title: "Pay your respects at the Canadian cemetery in Holten",
-      desc: "In the woods of the Holterberg lie 1,394 soldiers of the Second World War, 1,355 of them Canadians. The ground was given to the Canadian government, and the Commonwealth War Graves Commission maintains the cemetery.",
-      tip: "The Natuurmuseum Holterberg is about 250 metres away, with places to eat around it, so the two combine well.", q: "Canadese Begraafplaats Holten", tags: ["free"], src: ["https://nl.wikipedia.org/wiki/Holten_Canadian_War_Cemetery", "https://nl.wikipedia.org/wiki/Natuurmuseum_Holterberg"] }
+      tip: "The 5 km Heideroute passes a bird hide, so bring binoculars. Stay on the marked paths, as the bog is wet and fragile.", q: "Engbertsdijksvenen", tags: ["free"], src: ["https://nl.wikipedia.org/wiki/Engbertsdijksvenen"] }
   ]
 };

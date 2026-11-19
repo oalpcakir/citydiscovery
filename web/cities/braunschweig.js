@@ -55,6 +55,13 @@ window.CITIES.braunschweig = {
     goslar: { icon: "⛏️", name: "Kaiserpfalz Regular" },
     cevre: { icon: "🌲", name: "Harz Rambler" }
   },
+  // Names for day-out trails, keyed by any quest in the group (see buildTrails in src/1-core.js).
+  trailNames: {
+    bshab: "Wolfenbüttel",
+    bsharzwernigerode: "Wernigerode in the Harz",
+    bsharzquedstift: "Quedlinburg, UNESCO old town",
+    bsharzradau: "Bad Harzburg"
+  },
   quests: [
     { id: "bsgoskaiserpfalz", cat: "gor", area: "goslar", title: "Walk through the Imperial Palace of Goslar",
       desc: "The Kaiserpfalz was built from the 11th century under the Salian emperors and is one of the largest surviving secular Romanesque buildings in Germany. The imperial hall holds a 19th-century cycle of wall paintings of imperial history. It belongs to the UNESCO World Heritage site Mines of Rammelsberg, Historic Town of Goslar.",

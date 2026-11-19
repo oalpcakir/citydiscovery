@@ -1,0 +1,46 @@
+{
+ "region": "sauerland",
+ "dishes": [
+  {
+   "id": "sauerland-potthucke",
+   "name": "Potthucke",
+   "local": "",
+   "icon": "🥔",
+   "desc": "Grated potato bake with onions and bacon, baked in a pot or tin, sometimes with sausage. A traditional Sauerland and Siegerland dish.",
+   "kw": [
+    "potthucke"
+   ]
+  },
+  {
+   "id": "sauerland-kruestchen",
+   "name": "Sauerländer Krüstchen",
+   "local": "",
+   "icon": "🥩",
+   "desc": "Breaded pork cutlet on bread with a fried egg, a hearty Sauerland pub dish.",
+   "kw": [
+    "krüstchen",
+    "kruestchen"
+   ]
+  },
+  {
+   "id": "sauerland-struwen",
+   "name": "Siegerland Struwen",
+   "local": "Siegerländer Struwen",
+   "icon": "🥔",
+   "desc": "Small potato dumplings tossed in a pan with bacon and onions, a Siegerland farmhouse dish.",
+   "kw": [
+    "struwen"
+   ]
+  },
+  {
+   "id": "sauerland-riewekooche",
+   "name": "Riewekooche",
+   "local": "Siegerländer Riewekooche",
+   "icon": "🥔",
+   "desc": "Dense grated-potato cake baked in the oven, a Siegerland variant of the potato pancake eaten with applesauce or bread.",
+   "kw": [
+    "riewekooche"
+   ]
+  }
+ ]
+}

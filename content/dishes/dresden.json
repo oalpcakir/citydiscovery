@@ -1,0 +1,61 @@
+{
+ "region": "dresden",
+ "dishes": [
+  {
+   "id": "dresden-stollen",
+   "name": "Dresden Stollen",
+   "local": "Dresdner Christstollen",
+   "icon": "🍞",
+   "desc": "Heavy fruit loaf with candied peel, almonds and a coat of butter and sugar. Dresden has baked it since the 15th century and guards the name.",
+   "kw": [
+    "stollen"
+   ]
+  },
+  {
+   "id": "dresden-wuerzfleisch",
+   "name": "Würzfleisch",
+   "local": "",
+   "icon": "🍲",
+   "desc": "Ragout of diced meat in a sharp, creamy, cheese-topped sauce, served in small gratin dishes. A Saxon snack found in every Dresden pub.",
+   "kw": [
+    "würzfleisch",
+    "wuerzfleisch"
+   ]
+  },
+  {
+   "id": "dresden-pfefferkuchen",
+   "name": "Pulsnitz gingerbread",
+   "local": "Pulsnitzer Pfefferkuchen",
+   "icon": "🍪",
+   "desc": "Spiced honey gingerbread from Pulsnitz in Upper Lusatia, baked since 1558 and sold plain or with glaze and filling.",
+   "kw": [
+    "pfefferkuchen",
+    "pulsnitz",
+    "gingerbread"
+   ]
+  },
+  {
+   "id": "dresden-leinoel-quark",
+   "name": "Quark with linseed oil",
+   "local": "Leinöl mit Quark",
+   "icon": "🥔",
+   "desc": "Boiled potatoes in their skins with fresh quark and cold-pressed linseed oil. The classic Upper Lusatian farmhouse meal.",
+   "kw": [
+    "leinöl",
+    "linseed oil",
+    "quark"
+   ]
+  },
+  {
+   "id": "dresden-forelle",
+   "name": "Saxon Switzerland trout",
+   "local": "Forelle",
+   "icon": "🐟",
+   "desc": "River trout from the Elbe Sandstone hills, served blue, fried or smoked. A favorite lunch at inns around Pirna and Bad Schandau.",
+   "kw": [
+    "forelle",
+    "trout"
+   ]
+  }
+ ]
+}

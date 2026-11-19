@@ -60,6 +60,13 @@ window.CITIES.bielefeld = {
     paderborn: { icon: "💧", name: "Pader Springs Regular" },
     cevre: { icon: "🌲", name: "Teutoburg Forest Rambler" }
   },
+  // Names for day-out trails, keyed by any quest in the group (see buildTrails in src/1-core.js).
+  trailNames: {
+    bipiccoliherford: "Herford",
+    bilemgorathaus: "Lemgo, Weser Renaissance town",
+    biankervilla: "Rheda-Wiedenbrück",
+    biibruegger: "Gütersloh"
+  },
   quests: [
     { id: "binamu", cat: "gor", area: "merkez", title: "Explore the natural history museum in the Spiegelshof",
       desc: "The namu Naturkunde-Museum Bielefeld sits in the Spiegelshof, one of the few surviving noble courtyards of the old town, which dates from 1540. Its shows have ranged from Madagascar wildlife to poisonous animals.",

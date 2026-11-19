@@ -1,0 +1,48 @@
+{
+ "region": "karlsruhe",
+ "dishes": [
+  {
+   "id": "karlsruhe-rehruecken",
+   "name": "Rehrücken Baden-Baden",
+   "local": "",
+   "icon": "🦌",
+   "desc": "Saddle of venison roasted with a cranberry-filled pear, a game classic of Baden-Baden and the northern Black Forest.",
+   "kw": [
+    "rehrücken",
+    "venison"
+   ]
+  },
+  {
+   "id": "karlsruhe-braegele",
+   "name": "Brägele",
+   "local": "",
+   "icon": "🥔",
+   "desc": "Sliced boiled potatoes fried in a pan with onions and bacon until golden. The usual Baden side dish.",
+   "kw": [
+    "brägele",
+    "braegele"
+   ]
+  },
+  {
+   "id": "karlsruhe-kratzete",
+   "name": "Kratzete",
+   "local": "",
+   "icon": "🥞",
+   "desc": "Torn pancake fried until crisp, served with apple sauce or stewed fruit. A Black Forest and Ortenau country dish.",
+   "kw": [
+    "kratzete"
+   ]
+  },
+  {
+   "id": "karlsruhe-striebele",
+   "name": "Striebele",
+   "local": "",
+   "icon": "🍩",
+   "desc": "Fried lattice of yeast dough dusted with sugar. A fair and Fastnacht pastry of Baden and the Black Forest.",
+   "kw": [
+    "striebele",
+    "striebli"
+   ]
+  }
+ ]
+}

@@ -75,6 +75,13 @@ window.CITIES.nuernberg = {
     rothenburg: { icon: "🧸", name: "Plönlein Regular" },
     cevre: { icon: "🌲", name: "Franconian Rambler" }
   },
+  // Names for day-out trails, keyed by any quest in the group (see buildTrails in src/1-core.js).
+  trailNames: {
+    nustadtbrille: "Amberg, the old salt town",
+    nujuramuseum: "Eichstätt in the Altmühl valley",
+    nujmschwabach: "Schwabach, the gold-leaf town",
+    nudinkelsbuehlmuenster: "Dinkelsbühl on the Romantic Road"
+  },
   quests: [
     { id: "nudieschwestern", cat: "ye", area: "merkez", title: "Have vegan cake at the cafe DIE Schwestern in Gostenhof",
       desc: "A vegetarian cafe on Kernstrasse in the Gostenhof district, known for housemade vegan and vegetarian cakes. Gostenhof is the city's creative, multicultural quarter west of the old town.",

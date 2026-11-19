@@ -52,6 +52,10 @@ window.CITIES.regensburg = {
     landshut: { icon: "🏰", name: "Trausnitz Regular" },
     cevre: { icon: "🏞️", name: "Danube Gorge Rambler" }
   },
+  // Names for day-out trails, keyed by any quest in the group (see buildTrails in src/1-core.js).
+  trailNames: {
+    rgbefreiungshalle: "Kelheim and Weltenburg"
+  },
   quests: [
     { id: "rgwalhalla", cat: "gor", area: "cevre", title: "Climb the steps of Walhalla above the Danube",
       desc: "Walhalla is a Greek-temple-style hall of fame built by Leo von Klenze for King Ludwig I and opened in 1842 on a hill near Donaustauf. Inside are marble busts and plaques honouring more than 100 important figures of the German-speaking world.",

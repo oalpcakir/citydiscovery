@@ -51,6 +51,10 @@ window.CITIES.muenster = {
     merkez: { icon: "🚲", name: "Prinzipalmarkt Regular" },
     cevre: { icon: "🏰", name: "Moated Castle Rambler" }
   },
+  // Names for day-out trails, keyed by any quest in the group (see buildTrails in src/1-core.js).
+  trailNames: {
+    msburgsteinfurt: "Burgsteinfurt and the Bagno"
+  },
   quests: [
     { id: "msvischering", cat: "gor", area: "cevre", title: "Walk the moat of Burg Vischering in Lüdinghausen",
       desc: "One of the oldest and best-preserved moated castles of the Münsterland, founded shortly before 1271 by Bishop Gerhard von der Mark and rebuilt in Renaissance style after a fire in 1521. It stands on two islands, an outer bailey and an inner castle, and houses a museum of the Münsterlandmuseum. The Droste zu Vischering family still owns it.",

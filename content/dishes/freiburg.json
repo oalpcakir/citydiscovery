@@ -1,0 +1,58 @@
+{
+ "region": "freiburg",
+ "dishes": [
+  {
+   "id": "freiburg-kirschtorte",
+   "name": "Black Forest cake",
+   "local": "Schwarzwälder Kirschtorte",
+   "icon": "🍰",
+   "desc": "Chocolate sponge, whipped cream and sour cherries soaked in kirsch. Born in the Black Forest, where it is still made with local cherries.",
+   "kw": [
+    "kirschtorte",
+    "black forest cake"
+   ]
+  },
+  {
+   "id": "freiburg-schinken",
+   "name": "Black Forest ham",
+   "local": "Schwarzwälder Schinken",
+   "icon": "🥓",
+   "desc": "Dry-cured, smoked ham with a dark crust, made in the Black Forest with a protected origin. Eaten thinly sliced on bread or as Speck.",
+   "kw": [
+    "schwarzwälder schinken",
+    "black forest ham"
+   ]
+  },
+  {
+   "id": "freiburg-lange-rote",
+   "name": "Lange Rote",
+   "local": "",
+   "icon": "🌭",
+   "desc": "Freiburg's long grilled sausage in a roll, sold from stalls on the Münsterplatz. A market-day lunch for locals.",
+   "kw": [
+    "lange rote"
+   ]
+  },
+  {
+   "id": "freiburg-bibbeleskaes",
+   "name": "Bibbeleskäs",
+   "local": "",
+   "icon": "🧀",
+   "desc": "Fresh quark with herbs, onions and cream, eaten with boiled potatoes or bread. A simple Baden dish from the Upper Rhine.",
+   "kw": [
+    "bibbeleskäs",
+    "bibbeleskaes"
+   ]
+  },
+  {
+   "id": "freiburg-flammkuchen",
+   "name": "Breisgau Flammkuchen",
+   "local": "Breisgauer Flammkuchen",
+   "icon": "🥧",
+   "desc": "Thin crisp dough with crème fraîche, onions and bacon, baked in a hot oven. Imported from Alsace and a local favorite in Freiburg.",
+   "kw": [
+    "flammkuchen"
+   ]
+  }
+ ]
+}

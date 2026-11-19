@@ -59,6 +59,13 @@ window.CITIES.erfurt = {
     jena: { icon: "🔭", name: "Planetarium Regular" },
     cevre: { icon: "🌲", name: "Rennsteig Rambler" }
   },
+  // Names for day-out trails, keyed by any quest in the group (see buildTrails in src/1-core.js).
+  trailNames: {
+    ernaumburgerdom: "Naumburg cathedral",
+    ersektkellerei: "Freyburg on the Unstrut",
+    erfriedenstein: "Gotha and Friedenstein",
+    erdivi: "Mühlhausen, town of towers"
+  },
   quests: [
     { id: "erwartburg", cat: "gor", area: "cevre", title: "Climb up to the Wartburg above Eisenach",
       desc: "The castle was founded in 1067 by Louis the Springer and has been a UNESCO World Heritage Site since 1999. Elisabeth of Hungary lived here and Martin Luther hid here in 1521-22, translating the New Testament into German.",

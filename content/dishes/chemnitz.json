@@ -1,0 +1,47 @@
+{
+ "region": "chemnitz",
+ "dishes": [
+  {
+   "id": "chemnitz-getzen",
+   "name": "Buttermilchgetzen",
+   "local": "",
+   "icon": "🥞",
+   "desc": "Thin potato and buttermilk pancake baked or fried, eaten with sweet toppings or with sausage. Poor-household cooking from the Ore Mountains.",
+   "kw": [
+    "getzen",
+    "buttermilchgetzen"
+   ]
+  },
+  {
+   "id": "chemnitz-falscher-hase",
+   "name": "Falscher Hase",
+   "local": "",
+   "icon": "🍖",
+   "desc": "Baked minced-meat loaf with a hard-boiled egg inside, served with gravy and potatoes. A Saxon and Ore Mountains Sunday dish.",
+   "kw": [
+    "falscher hase"
+   ]
+  },
+  {
+   "id": "chemnitz-ochsenfetzen",
+   "name": "Ochsenfetzen",
+   "local": "",
+   "icon": "🥩",
+   "desc": "Strips of beef in a thick onion gravy, a hearty dish from the Ore Mountains kitchen, served with dumplings or potatoes.",
+   "kw": [
+    "ochsenfetzen"
+   ]
+  },
+  {
+   "id": "chemnitz-hutzenbrot",
+   "name": "Hutzenbrot",
+   "local": "",
+   "icon": "🍞",
+   "desc": "Dense fruit bread of dried pears and nuts, baked in the Ore Mountains and Vogtland for winter.",
+   "kw": [
+    "hutzenbrot",
+    "hutzenkuchen"
+   ]
+  }
+ ]
+}

@@ -58,6 +58,13 @@ window.CITIES.karlsruhe = {
     badenbaden: { icon: "♨️", name: "Kurhaus Regular" },
     cevre: { icon: "🍇", name: "Wine Route Rambler" }
   },
+  // Names for day-out trails, keyed by any quest in the group (see buildTrails in src/1-core.js).
+  trailNames: {
+    krkaffeemanufaktur: "Bad Wildbad in the Black Forest",
+    krbruchsalschloss: "Bruchsal palace",
+    krettlingenschloss: "Ettlingen old town",
+    krlandaufrank: "Landau in the Palatinate"
+  },
   quests: [
     { id: "krmaulbronn", cat: "gor", area: "cevre", title: "Walk through the UNESCO monastery of Maulbronn",
       desc: "Maulbronn is the best preserved medieval Cistercian monastery north of the Alps, founded in 1147 and a UNESCO World Heritage Site since 1993. The church, cloister, refectory and the water-management system survive almost complete, and Hermann Hesse studied at the later Protestant seminary here.",

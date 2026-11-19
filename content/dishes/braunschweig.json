@@ -1,0 +1,49 @@
+{
+ "region": "braunschweig",
+ "dishes": [
+  {
+   "id": "braunschweig-mettwurst",
+   "name": "Braunschweiger Mettwurst",
+   "local": "",
+   "icon": "🌭",
+   "desc": "Smoked, spreadable pork sausage that Braunschweig butchers have made for centuries. Eaten sliced on bread, it is the city's best-known food.",
+   "kw": [
+    "braunschweiger",
+    "mettwurst"
+   ]
+  },
+  {
+   "id": "braunschweig-prilleken",
+   "name": "Prilleken",
+   "local": "",
+   "icon": "🍩",
+   "desc": "Small fried yeast-dough balls dusted with sugar, a long-standing Braunschweig treat sold at fairs and bakeries.",
+   "kw": [
+    "prilleken"
+   ]
+  },
+  {
+   "id": "braunschweig-harzer-kaese",
+   "name": "Harzer cheese",
+   "local": "Harzer Käse",
+   "icon": "🧀",
+   "desc": "Strong-smelling, fat-free sour-milk cheese from the Harz foothills, usually eaten with onions and vinegar on dark bread.",
+   "kw": [
+    "harzer käse",
+    "harzer cheese",
+    "harzer"
+   ]
+  },
+  {
+   "id": "braunschweig-hochzeitssuppe",
+   "name": "Braunschweig wedding soup",
+   "local": "Braunschweiger Hochzeitssuppe",
+   "icon": "🍲",
+   "desc": "Clear chicken broth with asparagus, small meatballs and egg custard. A festive soup of Braunschweig and the Altmark.",
+   "kw": [
+    "hochzeitssuppe",
+    "wedding soup"
+   ]
+  }
+ ]
+}

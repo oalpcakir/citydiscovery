@@ -1,0 +1,582 @@
+{
+ "new": [
+  {
+   "id": "sbludwigskirche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire Stengel's Ludwigskirche on Ludwigsplatz",
+   "desc": "The Protestant Ludwigskirche, finished in 1775 to designs by Friedrich Joachim Stengel, is the centrepiece of the Baroque Ludwigsplatz and the most prominent example of place-royal architecture in the city. Its sandstone facade is framed by four palace-like buildings around the square.",
+   "tip": "Visit in daylight when the church is open to visitors; the square is free and photographs best from the corner towards Lessingstraße.",
+   "q": "Ludwigskirche, Ludwigsplatz, Saarbrücken",
+   "ll": [
+    49.23262,
+    6.98649
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Ludwigskirche_(Saarbr%C3%BCcken)",
+    "https://tourismus.saarbruecken.de/en/discovering/top_sights"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sbschloss",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stand before Saarbrücken's glass-and-steel Baroque Schloss",
+   "desc": "The palace on the Schlossplatz grew from the medieval Castellum Sarabrucca, first documented in 999, and was rebuilt in Baroque style from 1748 by Friedrich Joachim Stengel. A modern glass-and-steel central section by Gottfried Böhm was added in the 1980s.",
+   "tip": "The Schlossplatz is free to walk across; guided tours of the palace and its underground casemates are offered by the Regionalverband.",
+   "q": "Saarbrücker Schloss, Schlossplatz, Saarbrücken",
+   "ll": [
+    49.23023,
+    6.99252
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Saarbr%C3%BCcker_Schloss",
+    "https://tourismus.saarbruecken.de/en/discovering/top_sights"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sbhistmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Descend into the casemates of the Historisches Museum Saar",
+   "desc": "The Historisches Museum Saar occupies the vaulted cellars and an annex of the palace and presents the cultural and political history of the Saar region, including the underground fortifications. Its exhibits cover the Nazi era and the postwar Saar protectorate.",
+   "tip": "Closed on Mondays; combine it with a walk around the Schlossplatz.",
+   "q": "Historisches Museum Saar, Schlossplatz 15, Saarbrücken",
+   "ll": [
+    49.22994,
+    6.99166
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Historisches_Museum_Saar"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "sbbasilika",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step inside the Baroque Basilika St. Johann",
+   "desc": "Built between 1754 and 1758 by Friedrich Joachim Stengel, the Catholic Basilika St. Johann is one of his most important churches. Its richly decorated interior and twin-tower facade stand in the heart of St. Johann.",
+   "tip": "Open during the day; a quiet counterpoint to the busy nearby St. Johanner Markt.",
+   "q": "Basilika St. Johann, Saarbrücken",
+   "ll": [
+    49.23305,
+    6.99829
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Basilika_St._Johann_(Saarbr%C3%BCcken)",
+    "https://tourismus.saarbruecken.de/en/discovering/top_sights"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "sballtebruecke",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Cross the Alte Brücke, Saarbrücken's oldest bridge",
+   "desc": "The Alte Brücke was built in 1546-47 under Count Philipp II of Nassau-Saarbrücken and links Alt-Saarbrücken with St. Johann. Only part of the original sandstone arches survive after later rebuilding.",
+   "tip": "Walk it at dusk for views of the Schloss and the Saar; it is a short stroll from the Schlossplatz.",
+   "q": "Alte Brücke, Saarbrücken",
+   "ll": [
+    49.23161,
+    6.99368
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Alte_Br%C3%BCcke_(Saarbr%C3%BCcken)",
+    "https://tourismus.saarbruecken.de/en/discovering/top_sights"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sbrathaus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Hear the carillon at the neo-Gothic Rathaus St. Johann",
+   "desc": "The Rathaus St. Johann is a neo-Gothic town hall from around 1900 with a 54 m tower. Its carillon plays daily at 15:15 and 19:19.",
+   "tip": "Time your visit for the carillon; the Phönixbrunnen fountain stands right in front.",
+   "q": "Rathaus St. Johann, Rathausplatz 1, Saarbrücken",
+   "ll": [
+    49.23443,
+    6.99554
+   ],
+   "src": [
+    "https://tourismus.saarbruecken.de/en/discovering/top_sights",
+    "https://de.wikipedia.org/wiki/Rathaus_St._Johann"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sbphoenixbrunnen",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Look at the Phönixbrunnen outside the Rathaus",
+   "desc": "The Phönixbrunnen is a listed fountain on the square in front of the Rathaus St. Johann. It is a landmark of the old town hall quarter near the Saar.",
+   "tip": "Pair it with the Rathaus carillon; the fountain is free to see at any time.",
+   "q": "Phönixbrunnen, Rathausplatz, Saarbrücken",
+   "ll": [
+    49.23495,
+    6.99752
+   ],
+   "src": [
+    "https://freizeitmonster.de/blog/saarbruecken-sehenswuerdigkeiten"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sbschlosskirche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the late Gothic Schlosskirche and its Stengel crown",
+   "desc": "The Schlosskirche is a late Gothic church by the palace whose 15th-century steeple received a Baroque crest from Friedrich Joachim Stengel in 1743. It is the oldest church building in the old town.",
+   "tip": "Check visiting times locally; the exterior is worth a look on any Schlossplatz walk.",
+   "q": "Schlosskirche, Schlossplatz, Saarbrücken",
+   "ll": [
+    49.23109,
+    6.9915
+   ],
+   "src": [
+    "https://tourismus.saarbruecken.de/en/discovering/top_sights",
+    "https://de.wikipedia.org/wiki/Schlosskirche_(Saarbr%C3%BCcken)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sbstiftskirche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Gothic Stiftskirche St. Arnual",
+   "desc": "The Stiftskirche St. Arnual is a Gothic collegiate church named after Bishop Arnual, with a clerical community said to date back to the early 7th century. It also holds the tombs of the Counts of Nassau-Saarbrücken.",
+   "tip": "Take a bus to St. Arnual and combine it with a walk to the Tabaksweiher.",
+   "q": "Stiftskirche St. Arnual, Am Stiftsplatz, Saarbrücken",
+   "ll": [
+    49.2175,
+    7.0178
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Stiftskirche_St._Arnual"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sbmoderne",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Browse the Moderne Galerie of the Saarlandmuseum",
+   "desc": "The Moderne Galerie of the Saarlandmuseum at Bismarckstraße holds expressionist and abstract modern art, with temporary shows on figures such as Andy Warhol. It sits on the Saar bank near the Staden.",
+   "tip": "Open Tuesday to Sunday 10-18, to 20 on Wednesdays, closed Mondays; check modernegalerie.org for the current show.",
+   "q": "Saarlandmuseum Moderne Galerie, Bismarckstraße 11-15, Saarbrücken",
+   "ll": [
+    49.23015,
+    6.99964
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Saarlandmuseum",
+    "https://maps.adac.de/poi/saarlandmuseum-moderne-galerie"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "sbunterbrochenerwald",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Reflect at the memorial \"Der unterbrochene Wald\"",
+   "desc": "On Rabbiner-Rülf-Platz the memorial \"Der unterbrochene Wald\" commemorates the Jews of the Saarland murdered in the Nazi era. It stands near the city's synagogue.",
+   "tip": "A quiet place; allow ten minutes and walk on to the Ludwigsplatz.",
+   "q": "Rabbiner-Rülf-Platz, Saarbrücken",
+   "ll": [
+    49.23445,
+    6.99362
+   ],
+   "src": [
+    "https://tourismus.saarbruecken.de/en/discovering/top_sights"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sbschlossgarten",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Take in the view from the Baroque Schlossgarten",
+   "desc": "The Schlossgarten was laid out in Baroque style between 1760 and 1765 with terraces that once reached the Saar. Part of it was built over in the late 19th century, and today a smaller garden remains with a view over the town.",
+   "tip": "Free to enter; pairs well with the Biergarten am Schloss next door.",
+   "q": "Schlossgarten, Am Schlossberg, Saarbrücken",
+   "ll": [
+    49.23026,
+    6.99297
+   ],
+   "src": [
+    "https://tourismus.saarbruecken.de/en/discovering/parks_and_gardens_in_saarbruecken"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sbbastille",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat house-made Dibbelabbes at La Bastille",
+   "desc": "La Bastille on Kronenstraße is a French-style brasserie in St. Johann that serves regional dishes. It is known for its Dibbelabbes, a fried grated potato dish with leek and bacon, made in-house.",
+   "tip": "Order the Dibbelabbes; the kitchen is open lunchtime Tue-Sat and evenings Fri-Sat, closed Sun-Mon, and bookings are by phone.",
+   "q": "La Bastille, Kronenstraße 1b, Saarbrücken",
+   "ll": [
+    49.23213,
+    6.99622
+   ],
+   "src": [
+    "https://www.speisekarte.de/saarbr%C3%BCcken/restaurant/la_bastille",
+    "https://www.arrivalguides.com/en/Travelguide/SAARBRUCKEN/dining/la-bastille-126900"
+   ]
+  },
+  {
+   "id": "sbstiefel",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink a house-brewed beer at Brauhaus zum Stiefel",
+   "desc": "The Stiefelbräu on Am Stiefel is described by Lonely Planet as Saarbrücken's oldest microbrewery and brews on site beside the St. Johanner Markt. It serves hearty Saarland dishes with its own beer.",
+   "tip": "Try the house beer with a regional dish such as Lyoner or Schwenkbraten; meals are served Monday to Saturday.",
+   "q": "Brauhaus zum Stiefel, Am Stiefel 2, Saarbrücken",
+   "ll": [
+    49.23281,
+    6.99518
+   ],
+   "src": [
+    "https://www.speisekarte.de/saarbr%C3%BCcken/restaurant/zum_stiefel",
+    "https://www.arrivalguides.com/en/Travelguide/SAARBRUCKEN/dining/zum-stiefel-126991"
+   ]
+  },
+  {
+   "id": "sbkostbar",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Linger over a drink at Café Kostbar in Nauwieser Viertel",
+   "desc": "Café Kostbar is a long-running café with a beer garden on Nauwieserstraße in the student quarter. The garden usually opens in March or April, weather permitting.",
+   "tip": "Reserve by phone for the garden in summer; it is a good stop before a Nauwieser Viertel pub walk.",
+   "q": "Café Kostbar, Nauwieserstraße 19, Saarbrücken",
+   "ll": [
+    49.23584,
+    7.001
+   ],
+   "src": [
+    "https://www.saarbruecken.de/en/leisure/saarbruecken_beer_gardens",
+    "https://www.arrivalguides.com/en/Travelguide/SAARBRUCKEN/dining/cafe-kostbar-126887"
+   ]
+  },
+  {
+   "id": "sbzumadler",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine in the garden of Zum Adler, the city's oldest inn",
+   "desc": "Zum Adler on Deutschherrnstraße is described by the city as Saarbrücken's oldest guesthouse, dating from about 1750. It serves French cuisine and fine wine in a garden behind a historic facade in Alt-Saarbrücken.",
+   "tip": "Book ahead for the garden on warm evenings; it is a short walk from the Schloss.",
+   "q": "Zum Adler, Deutschherrnstraße 2, Saarbrücken",
+   "ll": [
+    49.23173,
+    6.98286
+   ],
+   "src": [
+    "https://www.saarbruecken.de/en/leisure/saarbruecken_beer_gardens"
+   ]
+  },
+  {
+   "id": "sbilsetopf",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat home cooking at the Ilsetopf near Ilseplatz",
+   "desc": "The Ilsetopf on Neffstraße is a small inn at Ilseplatz with a cult following among students and residents. It serves home-style cooking.",
+   "tip": "Come for plain German home cooking; choose a classic such as Gefillde or Dibbelabbes if on the menu.",
+   "q": "Ilsetopf, Neffstraße 1, Saarbrücken",
+   "ll": [
+    49.24189,
+    7.01611
+   ],
+   "src": [
+    "https://www.saarbruecken.de/en/leisure/saarbruecken_beer_gardens"
+   ]
+  },
+  {
+   "id": "sbtabaksmuehle",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine at the Historische Tabaksmühle by the Tabaksweiher",
+   "desc": "The Historische Tabaksmühle in St. Arnual is a former mill inn beside the Tabaksweiher pond. It is popular with families and people who value good cooking.",
+   "tip": "Pair a meal with a walk around the pond or into the Stiftswald.",
+   "q": "Historische Tabaksmühle, Julius-Kiefer-Straße 146, Saarbrücken",
+   "ll": [
+    49.21527,
+    7.00549
+   ],
+   "src": [
+    "https://www.saarbruecken.de/en/leisure/saarbruecken_beer_gardens"
+   ]
+  },
+  {
+   "id": "sbulanenpavillon",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order grilled sausage at the Ulanen Pavillon on the Staden",
+   "desc": "The Ulanen Pavillon is a beer garden in the listed Staden grounds directly on the Saar, serving grilled food with beer. The adjacent Ulanen Grill sells products from a local butcher.",
+   "tip": "Choose a Schwenker-style grill dish and sit by the river in summer.",
+   "q": "Ulanen Pavillon, Am Staden 13, Saarbrücken",
+   "ll": [
+    49.22602,
+    7.00641
+   ],
+   "src": [
+    "https://www.saarbruecken.de/en/leisure/saarbruecken_beer_gardens",
+    "https://tourismus.saarbruecken.de/en/discovering/parks_and_gardens_in_saarbruecken"
+   ]
+  },
+  {
+   "id": "sbzwickel",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat \"Schon gudd gess\" at Zwickel in Dudweiler",
+   "desc": "Zwickel on Beethovenstraße in Dudweiler is a bistro, restaurant and bar with a beer garden and the motto \"Schon gudd gess\". It draws a mixed younger and older crowd.",
+   "tip": "Try a Saarland classic from the menu such as Hoorische; the beer garden is open in summer.",
+   "q": "Zwickel, Beethovenstraße 47, Saarbrücken-Dudweiler",
+   "ll": [
+    49.27079,
+    7.04296
+   ],
+   "src": [
+    "https://www.saarbruecken.de/en/leisure/saarbruecken_beer_gardens",
+    "https://www.speisekarte.de/saarbr%C3%BCcken/restaurant/zwickel"
+   ]
+  },
+  {
+   "id": "sbdfg",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Spend a day in the Deutsch-Französischer Garten",
+   "desc": "The Deutsch-Französischer Garten is a roughly 50-hectare park near the French border, with themed gardens such as the rose garden, a lake and one of the few large German parks in the 1950s-60s style. Visitors ride a narrow-gauge railway or cable car.",
+   "tip": "Plan one to two hours; the railway and cable car run in season, so check times.",
+   "q": "Deutsch-Französischer Garten, Saarbrücken",
+   "ll": [
+    49.2248,
+    6.96682
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Saarbr%C3%BCcken/Deutsch-Franz%C3%B6sischer_Garten_Saarbr%C3%BCcken",
+    "https://tourismus.saarbruecken.de/en/pointofinterest_en_detail/poi-650ac3c64d8e9"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sbzoo",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Watch the seals at the Saarbrücker Zoo",
+   "desc": "The Saarbrücker Zoo was founded in 1932 and lies in a former sandstone quarry on the Eschberg. It keeps about 1,000 animals of around 160 species.",
+   "tip": "Seal feeding is at 10:00 and 15:30 except Mondays and Thursdays; winter hours are 9-17.",
+   "q": "Saarbrücker Zoo, Graf-Stauffenberg-Straße, Saarbrücken",
+   "ll": [
+    49.23021,
+    7.04047
+   ],
+   "src": [
+    "https://tourismus.saarbruecken.de/en/discovering/parks_and_gardens_in_saarbruecken",
+    "https://www.zoo.saarbruecken.de"
+   ]
+  },
+  {
+   "id": "sbbuergerpark",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Stroll the Bürgerpark on the old coal harbour",
+   "desc": "The Bürgerpark was built on the former coal harbour and combines remnants of the coal and iron industry with modern elements. It has a chestnut grove with an amphitheatre, a water gate and a large circular flowerbed.",
+   "tip": "A few minutes from the centre; good for a relaxed walk or jog.",
+   "q": "Bürgerpark Saarbrücken, Saarbrücken",
+   "ll": [
+    49.2384,
+    6.9811
+   ],
+   "src": [
+    "https://tourismus.saarbruecken.de/en/discovering/parks_and_gardens_in_saarbruecken"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sbwildpark",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the trails of the Wildpark Saarbrücken",
+   "desc": "The Wildpark is home to about 150 European wild and domestic animals. Circular trails and a geology trail start at the playground beside the pavilion.",
+   "tip": "Animal feed is sold from a vending machine; good with children.",
+   "q": "Wildpark Saarbrücken, Saarbrücken",
+   "ll": [
+    49.25124,
+    7.02742
+   ],
+   "src": [
+    "https://tourismus.saarbruecken.de/en/discovering/parks_and_gardens_in_saarbruecken"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sbstaden",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Stroll or cycle the Saar promenade at the Staden",
+   "desc": "The Staden is a boulevard along the Saar between the Bismarckbrücke and the Römerbrücke, popular for strolling, jogging, cycling and sunbathing. Beer gardens and playgrounds line the green strip.",
+   "tip": "Best on a sunny evening; the Ulanen Pavillon is the usual meeting point.",
+   "q": "Am Staden, Saarbrücken",
+   "ll": [
+    49.2289,
+    7.00737
+   ],
+   "src": [
+    "https://tourismus.saarbruecken.de/en/discovering/parks_and_gardens_in_saarbruecken",
+    "https://tourismus.saarbruecken.de/en/discovering/top_sights"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sbabenteuerpark",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Climb the treetop courses of Abenteuerpark Saar",
+   "desc": "The climbing park in the Saarbrücken city forest has seven courses and 75 exercises at heights up to 14 metres. It is suitable from about age 5.",
+   "tip": "Reported hours are Friday afternoons and weekends; confirm on abenteuerpark-saar.de first.",
+   "q": "Abenteuerpark Saar, Rehtälchen, Saarbrücken",
+   "ll": [
+    49.24871,
+    7.0206
+   ],
+   "src": [
+    "https://www.visitsaarland.co.uk/poi/detail/adventure-park-saar-5387ce9fb4",
+    "https://tourismus.saarbruecken.de/en/pointofinterest_en_detail/poi-65531c3e6a424"
+   ]
+  },
+  {
+   "id": "sbfrohsina",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cruise the Saar on the passenger boat Frohsina",
+   "desc": "The passenger boat Frohsina sails from the Berliner Promenade in the city centre and offers trips on the Saar, for example towards Völklingen or Sarreguemines.",
+   "tip": "Schedules and fares are seasonal; check with the operator or Visit Saarbrücken first.",
+   "q": "Berliner Promenade, Willi-Graf-Ufer 14, Saarbrücken",
+   "ll": [
+    49.23431,
+    6.99301
+   ],
+   "src": [
+    "https://tourismus.saarbruecken.de/en/pointofinterest_en_detail/poi-655219de1a8ac"
+   ]
+  },
+  {
+   "id": "sbchristkindl",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Christkindl-Markt on St. Johanner Markt",
+   "desc": "The Saarbrücker Christkindl-Markt fills the St. Johanner Markt in the weeks before Christmas, typically from mid-November to 23 December. The square is ringed by bars and bistros.",
+   "tip": "Evenings are busiest; dates change each year, so check the city's calendar.",
+   "q": "St. Johanner Markt, Saarbrücken",
+   "ll": [
+    49.23263,
+    6.99763
+   ],
+   "src": [
+    "https://freizeitmonster.de/aktivitaeten/veranstaltungen/saarbruecker-christkindl-markt-2025-324799",
+    "https://tourismus.saarbruecken.de/en/discovering/sights/st_johanner_markt_st_johanner_market_square"
+   ],
+   "months": [
+    11,
+    12
+   ]
+  },
+  {
+   "id": "sbnauwieser",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Wander the pubs and shops of Nauwieser Viertel",
+   "desc": "The Nauwieser Viertel is a colourful, trendy quarter for shopping and going out, with pubs such as Kurzes Eck and Bingert. It is the city's student and alternative district.",
+   "tip": "Come in the evening and start on Nauwieserstraße.",
+   "q": "Nauwieserstraße, Nauwieser Viertel, Saarbrücken",
+   "ll": [
+    49.23454,
+    6.99947
+   ],
+   "src": [
+    "https://tourismus.saarbruecken.de/en/shopping_in_the_city_of_saarbruecken/nauwieser_viertel",
+    "https://tourismus.saarbruecken.de/en/pointofinterest_en_detail/poi-655339a997bfb"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sbstaatstheater",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "See an opera or play at the Saarländisches Staatstheater",
+   "desc": "The Saarländisches Staatstheater at Schillerplatz stages opera, ballet and drama in the Großes Haus and the Alte Feuerwache. The 2026/27 season includes Cabaret and Die Leiden des jungen Werther.",
+   "tip": "Check the monthly programme and buy tickets at staatstheater.saarland or the box office.",
+   "q": "Saarländisches Staatstheater, Schillerplatz 1, Saarbrücken",
+   "ll": [
+    49.23094,
+    6.996
+   ],
+   "src": [
+    "https://www.staatstheater.saarland",
+    "https://www.eventim.de/en/artist/saarlaendisches-staatstheater/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "sbfroeschengasse",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the Fröschengasse and St. Johanner Markt",
+   "desc": "The St. Johanner Markt and the Fröschengasse form the central pedestrian quarter of boutiques, bars, bistros and restaurants, described as the essence of Saarbrücken life. Baroque facades surround the square.",
+   "tip": "Visit in the evening for terraces; weekdays are quieter.",
+   "q": "Fröschengasse, St. Johann, Saarbrücken",
+   "ll": [
+    49.23323,
+    6.9951
+   ],
+   "src": [
+    "https://tourismus.saarbruecken.de/en/discovering/top_sights",
+    "https://tourismus.saarbruecken.de/en/shopping_in_the_city_of_saarbruecken/st_johanner_market_square"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

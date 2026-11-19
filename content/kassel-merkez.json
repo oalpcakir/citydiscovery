@@ -1,0 +1,621 @@
+{
+ "new": [
+  {
+   "id": "ksherkules",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb to the Hercules statue above Kassel",
+   "desc": "The 8.25 m copper Hercules, a copy of the Farnese Hercules, crowns the Octagon of the Bergpark, built from 1701 under Landgrave Carl. The monument is Kassel's landmark and part of the UNESCO World Heritage Bergpark Wilhelmshöhe, inscribed in 2013.",
+   "tip": "The platform under the statue gives views over Kassel; allow time for the climb. Take tram 1 to Wilhelmshöhe, then bus 22 to Herkules.",
+   "q": "Herkules, Bergpark Wilhelmshöhe, Kassel",
+   "ll": [
+    51.3161,
+    9.39355
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Hercules_Monument,_Kassel",
+    "https://www.heritage-kassel.de/fuhrung/hercules-and-waterfeatures/390/29359"
+   ]
+  },
+  {
+   "id": "ksschlosswilhelmshoehe",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See Rembrandt at Schloss Wilhelmshöhe",
+   "desc": "The neoclassical palace was built 1786-1798 for Landgrave Wilhelm IX and houses the Gemäldegalerie Alte Meister with works by Rembrandt and Rubens, plus the Antikensammlung. It sits at the foot of the Bergpark.",
+   "tip": "Closed on Mondays; check current hours on the museum site. Combine with a walk up the Bergpark.",
+   "q": "Schloss Wilhelmshöhe, Schlosspark 1, Kassel",
+   "ll": [
+    51.31498,
+    9.41633
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Schloss_Wilhelmsh%C3%B6he",
+    "https://www.heritage-kassel.de/en/locations/schloss-wilhelmshoehe"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "kslowenburg",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore the artificial castle Löwenburg",
+   "desc": "The Löwenburg was built 1793-1801 as an artificial medieval ruin and pleasure castle for Landgrave Wilhelm IX, modelled on a Scottish castle. Its interior can be visited on guided tours.",
+   "tip": "Visits are by guided tour only in the season; check dates before going. A good stop on the walk through the Bergpark.",
+   "q": "Löwenburg, Bergpark Wilhelmshöhe, Kassel",
+   "ll": [
+    51.31139,
+    9.40877
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/L%C3%B6wenburg_(Kassel)",
+    "https://www.heritage-kassel.de/en/locations/loewenburg"
+   ]
+  },
+  {
+   "id": "ksfridericianum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Fridericianum, home of documenta",
+   "desc": "Completed in 1779 for Landgrave Friedrich II, the Fridericianum is one of Europe's oldest public museum buildings. It has been the central venue of documenta since 1955 and is today an international exhibition hall for contemporary art.",
+   "tip": "Closed Mondays; exhibitions change, so check the programme. Friedrichsplatz in front is a good meeting point.",
+   "q": "Fridericianum, Friedrichsplatz 18, Kassel",
+   "ll": [
+    51.31377,
+    9.49742
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Fridericianum",
+    "https://www.fridericianum.org/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ksorangerie",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Orangerie and its scientific instruments",
+   "desc": "The Orangerie in the Karlsaue was built 1701-1710 as a baroque summer palace for Landgrave Carl. It houses the Astronomisch-Physikalisches Kabinett, a collection of historic clocks and instruments, and a planetarium.",
+   "tip": "Check opening days; the park around it is free. Walk on to the Marmorbad.",
+   "q": "Orangerie, Karlsaue, Kassel",
+   "ll": [
+    51.31027,
+    9.5008
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Orangerie_(Kassel)",
+    "https://www.heritage-kassel.de/en/locations/orangerie"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ksgrimmwelt",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Dive into fairy tales at the Grimmwelt",
+   "desc": "The Grimmwelt opened in 2015 on the Weinberg and presents the lives and work of Jacob and Wilhelm Grimm, who lived in Kassel for many years. It shows their original Children's and Household Tales, a UNESCO Memory of the World document.",
+   "tip": "Closed Mondays; the viewing terrace has a skyline view. Grimm's Garten is nearby.",
+   "q": "GRIMMWELT Kassel, Weinbergstraße 21, Kassel",
+   "ll": [
+    51.30913,
+    9.48937
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Grimmwelt",
+    "https://www.grimmwelt.de/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ksneuegalerie",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk through art history at the Neue Galerie",
+   "desc": "The Neue Galerie shows art from the 18th century to the present, including 19th-century landscape painting, classical modernism and works by Andy Warhol. It is part of the Museumslandschaft Hessen Kassel and stands on Schöne Aussicht above the Fulda.",
+   "tip": "Check opening days on the museum website. The terrace outside offers a view over the Karlsaue and Fulda valley.",
+   "q": "Neue Galerie, Schöne Aussicht 1, Kassel",
+   "ll": [
+    51.30937,
+    9.49295
+   ],
+   "src": [
+    "https://www.heritage-kassel.de/en/locations/neue-galerie",
+    "https://en.wikipedia.org/wiki/Neue_Galerie_(Kassel)"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ksmarmorbad",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Marvel at the baroque Marmorbad in the Karlsaue",
+   "desc": "The Marmorbad is a baroque bath pavilion built 1722-1728 for Landgrave Carl, decorated with marble reliefs by Pierre-Étienne Monnot. It is one of the most important baroque sculpture ensembles in Germany.",
+   "tip": "Opening days vary and parts were being redesigned; check the Hessen Kassel Heritage calendar first.",
+   "q": "Marmorbad, An der Karlsaue 20d, Kassel",
+   "ll": [
+    51.31043,
+    9.49954
+   ],
+   "src": [
+    "https://www.heritage-kassel.de/en/locations/marmorbad",
+    "https://www.museum.de/en/museen/marmorbad,-museumslandschaft-hessen-kassel"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "kssepulkral",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Museum für Sepulkralkultur",
+   "desc": "The Museum für Sepulkralkultur on Weinbergstraße is Germany's museum of death, burial and remembrance culture, opened in 1992. Its collection covers coffins, mourning art and funeral customs across the centuries.",
+   "tip": "Open Tuesday to Sunday, longer on Wednesdays; confirm current hours. Combine with the nearby Grimmwelt.",
+   "q": "Museum für Sepulkralkultur, Weinbergstraße 25-27, Kassel",
+   "ll": [
+    51.30908,
+    9.48801
+   ],
+   "src": [
+    "https://www.sepulkralmuseum.de/en/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ksottoneum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Discover the Naturkundemuseum im Ottoneum",
+   "desc": "The Ottoneum, built 1603-1606, is Germany's oldest permanent theatre building. It now houses Kassel's natural history museum with geology, wildlife and regional nature exhibits.",
+   "tip": "Open Tuesday, Thursday to Sunday, and until 20:00 on Wednesdays; closed Mondays. Steinweg is a short walk from Friedrichsplatz.",
+   "q": "Naturkundemuseum im Ottoneum, Steinweg 2, Kassel",
+   "ll": [
+    51.31326,
+    9.49896
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ottoneum",
+    "https://www.kassel.de/einrichtungen/gaeste/infomaterial/KasselCard_Serviceheft_2026.pdf"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ksaquaedukt",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Bergpark aqueduct and Devil's Bridge",
+   "desc": "The artificial Roman-style aqueduct in the Bergpark, built in 1788-1792, carries the Wasserspiele water across a ravine. The nearby Teufelsbrücke is a rough rock bridge from the same designed waterway.",
+   "tip": "Both lie on the path below Herkules; wear sturdy shoes. Most impressive when the Wasserspiele run.",
+   "q": "Aquädukt, Bergpark Wilhelmshöhe, Kassel",
+   "ll": [
+    51.31652,
+    9.40836
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Bergpark_Wilhelmsh%C3%B6he",
+    "https://www.heritage-kassel.de/fuhrung/hercules-and-waterfeatures/390/29359"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ksmartinskirche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Martinskirche, Kassel's main church",
+   "desc": "The late Gothic Martinskirche, begun around 1364, is Kassel's main Protestant church and the burial place of Landgrave Philipp the Magnanimous. It was rebuilt after the Second World War.",
+   "tip": "Visit in daytime; the towers are a landmark on Martinsplatz.",
+   "q": "Martinskirche, Martinsplatz, Kassel",
+   "ll": [
+    51.31724,
+    9.50129
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/St._Martin%27s_Church,_Kassel"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ksmanwalking",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Spot the Man Walking to the Sky near the station",
+   "desc": "Jonathan Borofsky's 25-metre steel sculpture 'Man Walking to the Sky' was created for documenta 9 in 1992 and stands by the Kulturbahnhof. A figure strides up a sloping pole into the air.",
+   "tip": "Free and always visible; pair it with a stop at the Kulturbahnhof. Best in the evening light.",
+   "q": "Man Walking to the Sky, Rainer-Dierichs-Platz, Kassel",
+   "ll": [
+    51.318,
+    9.49058
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Man_Walking_to_the_Sky"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ksoberlisk",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find Beuys' 7000 Oaks on Friedrichsplatz",
+   "desc": "Joseph Beuys' 7000 Oaks began at documenta 7 in 1982: the artist and volunteers planted 7,000 trees, each paired with a basalt stone, across Kassel. The first stone and oak stand in front of the Fridericianum.",
+   "tip": "Look for the basalt stones next to trees around the city. Free and open at all times.",
+   "q": "7000 Eichen, Friedrichsplatz, Kassel",
+   "ll": [
+    51.30997,
+    9.42776
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/7000_Oaks"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kswasserspiele",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Follow the Wasserspiele down the Bergpark",
+   "desc": "The Wasserspiele, the water features of the Bergpark Wilhelmshöhe, send water from Herkules down the cascades and over the Teufelsbrücke to the 50 m fountain at Schloss Wilhelmshöhe. They have run since the 18th century using gravity alone.",
+   "tip": "They run on Sundays and public holidays, and Wednesdays, from May to early October; none run in winter, so check dates. Walk down with the water to the finale.",
+   "q": "Wasserspiele, Bergpark Wilhelmshöhe, Kassel",
+   "ll": [
+    51.31251,
+    9.39632
+   ],
+   "src": [
+    "https://www.heritage-kassel.de/fuhrung/hercules-and-waterfeatures/390/29359",
+    "https://en.wikipedia.org/wiki/Bergpark_Wilhelmsh%C3%B6he"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "kscascadewalk",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Hike the Bergpark from Herkules to the palace",
+   "desc": "A path leads from the Hercules statue past the cascades, aqueduct and lakes to Schloss Wilhelmshöhe, about 3 km downhill through Europe's largest hillside park. The park covers 2.4 square kilometres and is a UNESCO World Heritage Site.",
+   "tip": "Wear good shoes; free to enter. Take the bus 22 up and walk down.",
+   "q": "Bergpark Wilhelmshöhe, Wilhelmshöher Allee, Kassel",
+   "ll": [
+    51.31748,
+    9.42456
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Bergpark_Wilhelmsh%C3%B6he",
+    "https://www.heritage-kassel.de/en/locations/bergpark-wilhelmshoehe"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kssiebenbergen",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Wander the Insel Siebenbergen in the Karlsaue",
+   "desc": "The Insel Siebenbergen in the Karlsaue is a landscaped garden island with a flower garden and a small pavilion. It lies on the Auedamm and is run as a Hessen Kassel Heritage site.",
+   "tip": "Open daily 10:00 to 18:00 from April to September, until 17:00 in October; closed in winter. Entry fee applies.",
+   "q": "Insel Siebenbergen, Auedamm 58, Kassel",
+   "ll": [
+    51.29555,
+    9.48754
+   ],
+   "src": [
+    "https://www.kassel.de/einrichtungen/gaeste/infomaterial/KasselCard_Serviceheft_2026.pdf",
+    "https://www.heritage-kassel.de/en/locations/insel-siebenbergen"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "kskarlsauestroll",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Stroll the Karlsaue from Orangerie to the Fulda",
+   "desc": "The Karlsaue is a baroque landscape park from the early 18th century on the Fulda in the city centre. A circuit goes from the Orangerie along the Aue pond and the Fulda river.",
+   "tip": "Free and open all year. Pick up a coffee on the way and bring a picnic in summer.",
+   "q": "Karlsaue, Kassel",
+   "ll": [
+    51.30285,
+    9.49257
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Karlsaue"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kskurhessentherme",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Soak in the Kurhessen Therme in Bad Wilhelmshöhe",
+   "desc": "The Kurhessen Therme on Wilhelmshöher Allee is a thermal spa with saline spring water, saunas and pools in Kassel's spa district. It is a popular rest after a Bergpark day.",
+   "tip": "Hours differ by listing, so check the official site; the sauna area has separate rules. Take tram 1 to Kurhessen Therme.",
+   "q": "Kurhessen Therme, Wilhelmshöher Allee 361, Kassel",
+   "ll": [
+    51.31341,
+    9.42684
+   ],
+   "src": [
+    "https://visit.kassel.de/en/poi/kurhessen-thermal-baths",
+    "https://www.hessen-tourismus.de/en/health-and-beauty/thermal-spas-and-leisure-pools/kurhessen-therme-kassel-bad-wilhelmshohe/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ksschlachthof",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Catch a concert at the Kulturzentrum Schlachthof",
+   "desc": "The Kulturzentrum Schlachthof, founded in 1978, is Kassel's socio-cultural centre with live music, club nights and events. Its programme leans to indie, jazz and world music.",
+   "tip": "Check the programme online for dates; many events are in the evening.",
+   "q": "Kulturzentrum Schlachthof, Mombachstraße 10-12, Kassel",
+   "ll": [
+    51.32683,
+    9.50379
+   ],
+   "src": [
+    "https://rausgegangen.de/en/locations/kulturzentrum-schlachthof-1/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ksgloria",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "See an arthouse film at the Gloria-Kino",
+   "desc": "The Gloria-Kino at Ständeplatz opened in 1954 and is one of the few arthouse cinemas for independent film in Kassel. It was also used as a documenta venue.",
+   "tip": "Check the programme online; original-language screenings are occasionally scheduled.",
+   "q": "Gloria Kino, Ständeplatz 17, Kassel",
+   "ll": [
+    51.31415,
+    9.48784
+   ],
+   "src": [
+    "https://visit.kassel.de/en/poi/gloria-and-bali-cinemas",
+    "https://d13.documenta.de/venues/venues/gloria-cinema/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ksstaatstheater",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Book a night at the Staatstheater Kassel",
+   "desc": "The Staatstheater Kassel on Friedrichsplatz offers opera, drama, ballet and concerts in the Opernhaus and Schauspielhaus. The theatre has a long tradition dating back to the court theatre of the landgraves.",
+   "tip": "Season runs autumn to early summer; tickets via the theatre box office. Dress is casual.",
+   "q": "Staatstheater Kassel, Friedrichsplatz 15, Kassel",
+   "ll": [
+    51.31275,
+    9.4992
+   ],
+   "src": [
+    "https://www.staatstheater-kassel.de/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ksfuldaboat",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Take a boat trip on the Fulda",
+   "desc": "Passenger boats such as those of Personenschifffahrt Rehbein run excursions on the Fulda through Kassel. The river passes the Karlsaue and the Fulda-Aue recreation area.",
+   "tip": "Sailing schedules vary by season, so check with the operator before going; best from late spring to early autumn.",
+   "q": "Fuldaschifffahrt Rehbein, Kassel",
+   "ll": [
+    51.31725,
+    9.52306
+   ],
+   "src": [
+    "https://bootsschule1.de/blog/boot-fahren-kassel-die-schoensten-bootstouren-erlebnisse-auf-dem-wasser/"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "ksmarkthalle",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste Ahle Wurscht at the Markthalle Kassel",
+   "desc": "The Markthalle in the Marstall, a building from 1591, has housed Kassel's market since 1963. Butcher stands sell Ahle Wurscht, the air-dried North Hessian sausage with protected origin.",
+   "tip": "Open Thursday to Saturday. Buy a slice or sandwich of Ahle Wurscht from a butcher stall.",
+   "q": "Markthalle, Wildemannsgasse 1, Kassel",
+   "ll": [
+    51.3156,
+    9.50325
+   ],
+   "src": [
+    "https://visit.kassel.de/en/poi/market-hall",
+    "https://inyourpocket.com/kassel/markthalle-kassel_101151v"
+   ]
+  },
+  {
+   "id": "ksnenninger",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order cake at the family-run Café Nenninger",
+   "desc": "Café Nenninger has been a family business since 1900 and is known for one of the largest cake selections in Kassel. It is a classic city-centre Kaffeehaus.",
+   "tip": "Try a slice of the Kassel classics like Schmand-Kuchen with coffee; check its hours on its guide page.",
+   "q": "Café Nenninger, Obere Königsstraße, Kassel",
+   "ll": [
+    51.31276,
+    9.49524
+   ],
+   "src": [
+    "https://visit.kassel.de/en/gastro/cafe-nenninger",
+    "https://www.inyourpocket.com/kassel/cafe-nenninger_100786v"
+   ]
+  },
+  {
+   "id": "ksstreiter",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Queue for pastries at Café Streiter",
+   "desc": "Streiter is a Kassel bakery, Konditorei and café often described as a city institution, with a terrace on Wilhelmshöher Allee. Locals queue for its pastries and ice cream.",
+   "tip": "Visit mid-morning and try the cakes and pastries; the terrace is nice in summer.",
+   "q": "Café Streiter, Wilhelmshöher Allee, Kassel",
+   "ll": [
+    51.31368,
+    9.43999
+   ],
+   "src": [
+    "https://www.inyourpocket.com/germany/kassel/venues/cafe-streiter",
+    "https://www.golocal.de/kassel/baeckereien/streiter-baeckerei-conditorei-u-cafe-coffee-bar-hPb0/"
+   ]
+  },
+  {
+   "id": "ksgrimmsgarten",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have Ahle Wurscht in Grimm's Garten",
+   "desc": "Grimm's Garten is a Bavarian-style beer garden and café run by the Falada café team, serving Ahle Wurscht, Grüne Soße, beer, wine and cake. It stands near the Grimmwelt.",
+   "tip": "Best in the warm months; try the Ahle Wurscht plate and a beer.",
+   "q": "Grimms Garten, Kassel",
+   "ll": [
+    51.30889,
+    9.48909
+   ],
+   "src": [
+    "https://www.inyourpocket.com/germany/kassel/venues/grimms-garten"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "ksherbsthaeuschen",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Weckewerk at the Herbsthäuschen",
+   "desc": "The Herbsthäuschen on Ehlener Straße serves North Hessian dishes including Kassel Ahle Wurscht and Weckewerk, plus Schmandschnitzel. It is a traditional regional restaurant.",
+   "tip": "Order Weckewerk with potatoes or a Schmandschnitzel; book on weekends.",
+   "q": "Herbsthäuschen, Ehlener Straße 17, Kassel",
+   "ll": [
+    51.3014,
+    9.36636
+   ],
+   "src": [
+    "https://www.falstaff.com/nordics/restaurants/herbsthaeuschen-kassel"
+   ]
+  },
+  {
+   "id": "ksbonpatis",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Pick pralines at Konditorei BonPâtis",
+   "desc": "Konditorei BonPâtis is listed by Visit Kassel as a confectioner of craft-level skill, making cakes, tarts and chocolates. It is a stop for sweets in the city.",
+   "tip": "Try a fine tart or pralines and take a box home; check hours before going.",
+   "q": "Konditorei BonPâtis, Kassel",
+   "ll": [
+    51.31322,
+    9.44463
+   ],
+   "src": [
+    "https://visit.kassel.de/en/gastro/konditorei-bonpatis"
+   ]
+  },
+  {
+   "id": "ksrammelsberg",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink beer at the Brauhaus Zum Rammelsberg",
+   "desc": "Brauhaus Zum Rammelsberg is a traditional beer hall in Kassel with a beer garden that opens when temperatures pass 16 degrees. It also has a hall for larger groups.",
+   "tip": "Book by phone in the late afternoon; the beer garden is the draw in summer.",
+   "q": "Brauhaus Zum Rammelsberg, Kassel",
+   "ll": [
+    51.31581,
+    9.4368
+   ],
+   "src": [
+    "https://tripaligner.com/countries/germany-22/destinations/kassel-2449/places/brauhaus-zum-rammelsberg-3848175"
+   ]
+  },
+  {
+   "id": "kslohmann",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sit in the Lohmann beer garden",
+   "desc": "Lohmann is a Kassel restaurant and beer garden founded in 1888, serving German dishes in a long-standing setting.",
+   "tip": "Come on a warm evening for the Biergarten; check hours first.",
+   "q": "Lohmann, Kassel",
+   "ll": [
+    51.3131,
+    9.48811
+   ],
+   "src": [
+    "https://www.inyourpocket.com/germany/kassel/venues/lohmann"
+   ]
+  },
+  {
+   "id": "ksschweinchen",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine at Steinernes Schweinchen by the Bergpark",
+   "desc": "Zum Steinernen Schweinchen on Konrad-Adenauer-Straße began as a stagecoach inn in 1894 and is now a design hotel with a regional and Mediterranean restaurant at the foot of the Bergpark.",
+   "tip": "Come after a Bergpark walk; check the menu for regional dishes. Reservations recommended on weekends.",
+   "q": "Steinernes Schweinchen, Konrad-Adenauer-Straße 117, Kassel",
+   "ll": [
+    51.2859,
+    9.40796
+   ],
+   "src": [
+    "https://visit.kassel.de/en/gastro/steinernes-schweinchen",
+    "https://www.inyourpocket.com/kassel/steinernes-schweinchen_100695v"
+   ]
+  }
+ ]
+}

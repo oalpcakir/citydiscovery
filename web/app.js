@@ -2226,7 +2226,8 @@
         '<p class="note">The backup text holds your progress and profile, not your photos. Signing in backs up everything.</p></div>' +
       '<h2>About</h2><div class="panel"><button class="btn ghost" data-act="feedback">' + ic("triangle-alert") + 'Send feedback or report a problem</button>' +
         '<a class="btn ghost" href="privacy.html" target="_blank" rel="noopener">' + ic("lock") + 'Privacy</a>' +
-        '<p class="note">Map data © OpenStreetMap contributors, tiles by OpenFreeMap, place search by Photon (Komoot). Quest photos from Wikimedia Commons under free licences, credited on each quest. Icons by Lucide.</p></div></div>';
+        '<p class="note">Map data © OpenStreetMap contributors, tiles by OpenFreeMap, place search by Photon (Komoot). Quest photos from Wikimedia Commons under free licences, credited on each quest. Icons by Lucide.</p></div>' +
+      '<p class="kofi">City Disco is free, without ads, made by one person. Enjoying it? <a href="https://ko-fi.com/I2I1N2A1Z" target="_blank" rel="noopener">☕ Buy me a coffee</a></p></div>';
   }
 
   // ── Sheets ─────────────────────────────────────────────────

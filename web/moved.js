@@ -53,6 +53,7 @@ window.MOVED = {
 "brussel/waterloo": "namur/waterloo",
 "denbosch/maashorst": "arnhem/maashorst",
 "duesseldorf/eschbachtalsperre": "koeln/eschbachtalsperre",
+"duesseldorf/krickenbeckerseen": "essen/krickenbeckerseen",
 "eindhoven/baarle": "breda/baarle",
 "eindhoven/biesbosch": "breda/biesbosch",
 "eindhoven/binnendieze": "denbosch/binnendieze",

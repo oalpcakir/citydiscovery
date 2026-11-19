@@ -1,0 +1,642 @@
+{
+ "new": [
+  {
+   "id": "sttuebingenpunting",
+   "cat": "dene",
+   "area": "tuebingen",
+   "title": "Glide down the Neckar on a Stocherkahn punt",
+   "desc": "Tübingen's flat-bottomed Stocherkahn boats are steered with a long pole along the Neckar past the plane-tree avenue of the Neckarinsel and the Hölderlinturm. Several providers operate from the Casino landing stage from spring to autumn, and the university also runs its own punt trips.",
+   "tip": "Boats run roughly May to October in dry weather; a one-hour trip costs about 13 to 15 euros per person with a guide, and prices vary by provider.",
+   "q": "Stocherkahn Anlegestelle Casino, Wöhrdstraße 25, Tübingen",
+   "ll": [
+    48.5185,
+    9.0573
+   ],
+   "src": [
+    "https://maps.adac.de/poi/stocherkahnfahrt-tuebingen",
+    "https://www.travelbook.de/ziele/staedte/tuebingen-das-deutsche-venedig"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "sthoelderlinturm",
+   "cat": "gor",
+   "area": "tuebingen",
+   "title": "Visit the Hölderlinturm on the Neckar",
+   "desc": "The poet Friedrich Hölderlin lived in this tower house on the Neckar from 1807 until his death in 1843, cared for by the carpenter Ernst Friedrich Zimmer. It stands on the medieval city wall and now holds a museum and the seat of the Hölderlin Society.",
+   "tip": "Combine it with a stroll on the Neckarinsel next door; check hoelderlinturm.de for opening days.",
+   "q": "Hölderlinturm, Bursagasse 6, Tübingen",
+   "ll": [
+    48.51944,
+    9.05556
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/H%C3%B6lderlinturm"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "stschlosshohentuebingen",
+   "cat": "gor",
+   "area": "tuebingen",
+   "title": "Explore Schloss Hohentübingen and its museum",
+   "desc": "The castle above the old town houses the Museum Alte Kulturen of the University of Tübingen, with more than 4,000 objects on about 2,000 square metres, including finds from two UNESCO World Heritage sites. The Burgsteige below it is one of the old town's best-known lanes.",
+   "tip": "The museum is usually closed on Mondays and open late on Thursdays; check unimuseum.uni-tuebingen.de before going. The castle terrace has views over the roofs of Tübingen.",
+   "q": "Schloss Hohentübingen, Burgsteige 11, Tübingen",
+   "ll": [
+    48.51949,
+    9.04981
+   ],
+   "src": [
+    "https://www.unimuseum.uni-tuebingen.de/en/",
+    "https://uni-tuebingen.de/en/university/news-and-publications/press-releases/archive/archivfullview-press-releases/article/museum-der-universitaet-tuebingen-feiert-zehnjaehriges-jubilaeum/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "stforelle",
+   "cat": "ye",
+   "area": "tuebingen",
+   "title": "Eat Maultaschen at the Historische Weinstube Forelle",
+   "desc": "This roughly 200-year-old wine tavern in the old town is known for its Swabian specialities, especially homemade Maultaschen, spätzle and roast beef. It is covered by Fodor's and the Schlemmer-Atlas.",
+   "tip": "Open daily with the kitchen running until about 22:00; book ahead on weekends.",
+   "q": "Historische Weinstube Forelle, Kronenstraße 8, Tübingen",
+   "ll": [
+    48.5212,
+    9.056
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/tuebingen/historische-weinstube-forelle/",
+    "https://fodors.com/world/europe/germany/heidelberg-and-the-neckar-valley/review-48915.html"
+   ]
+  },
+  {
+   "id": "stmauganeschtle",
+   "cat": "ye",
+   "area": "tuebingen",
+   "title": "Order Swabian Maultaschen at Mauganeschtle",
+   "desc": "Restaurant Mauganeschtle on the Burgsteige below the castle serves Swabian dishes and a range of house-made Maultaschen. Mauganeschtle is a dialect word for the stuffed pasta parcels.",
+   "tip": "Sit on the terrace in summer; the lane is steep, so allow a little time to climb to the castle afterwards.",
+   "q": "Mauganeschtle, Burgsteige 18, Tübingen",
+   "ll": [
+    48.51996,
+    9.05229
+   ],
+   "src": [
+    "https://www.golocal.de/tuebingen/hotels/hotel-am-schloss-mit-restaurant-mauganeschtle-2hmrv/bewertungen/"
+   ]
+  },
+  {
+   "id": "stneckarmueller",
+   "cat": "ye",
+   "area": "tuebingen",
+   "title": "Drink house-brewed beer at Neckarmüller",
+   "desc": "Fischer's Neckarmüller is a brewery inn on the Neckar, run by the Fischer family of brewers. It brews its own Weisse, Spezial Hell and lager and serves regional dishes, with a self-service beer garden in summer.",
+   "tip": "Hours have been listed as 10:00 until late; the riverside beer garden fills up on warm evenings.",
+   "q": "Neckarmüller, Gartenstraße 4, Tübingen",
+   "ll": [
+    48.5189,
+    9.0579
+   ],
+   "src": [
+    "https://braugasthoefe.de/en/inn/fischers-neckarmueller-tuebinger-brewery/",
+    "https://beertasting.com/en/brewery/fischers-neckarmuller-tubinger-gasthausbrauerei"
+   ]
+  },
+  {
+   "id": "stcafelieb",
+   "cat": "ye",
+   "area": "tuebingen",
+   "title": "Have cake at Café Lieb, a Tübingen bakery since 1906",
+   "desc": "Christian Lieb founded the bakery and café in 1906, and it now has three branches in the city centre. The Karlstraße house is the main address.",
+   "tip": "It opens early, from about 6:00, so it works for breakfast as well as afternoon cake.",
+   "q": "Café Lieb, Karlstraße 3, Tübingen",
+   "ll": [
+    48.52991,
+    9.06565
+   ],
+   "src": [
+    "https://www.kennstdueinen.de/ergebnis-cafe-in-tuebingen-213-2092.html"
+   ]
+  },
+  {
+   "id": "sthanseatica",
+   "cat": "ye",
+   "area": "tuebingen",
+   "title": "Drink coffee at Café Hanseatica in Hafengasse",
+   "desc": "Café Hanseatica claims to have been the first place in Tübingen serving freshly roasted coffee on site, since 1959. It sits on the Hafengasse near the Neckar.",
+   "tip": "Listed hours are 8:30 to 18:30 and it is closed on Sundays.",
+   "q": "Café Hanseatica, Hafengasse 2, Tübingen",
+   "ll": [
+    48.5198,
+    9.0562
+   ],
+   "src": [
+    "https://spinach.guide/venues/cafe-hanseatica-22251/"
+   ]
+  },
+  {
+   "id": "stoesterberg",
+   "cat": "dene",
+   "area": "tuebingen",
+   "title": "Walk up the Österberg for views over Tübingen",
+   "desc": "The Österberg rises only 438 metres but gives a good view of the old town and the Neckar valley. A circular walk from the station crosses the Neckar, passes the old town and the Botanical Garden and continues on the hill.",
+   "tip": "The route is about 10 km and 2.5 hours from the station; the Österbergturm lookout was reported closed, so check before counting on it.",
+   "q": "Österberg, Tübingen",
+   "ll": [
+    48.52158,
+    9.07041
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/oesterbergturm-runde"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stbebenhausen",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk through Bebenhausen Monastery and its hunting palace",
+   "desc": "This Cistercian abbey in the Schönbuch forest dates from the 1180s, was dissolved in 1535 and later became a royal hunting seat. Württemberg's last king, William II, abdicated here in 1918, and the constitution of Württemberg-Hohenzollern was drafted in the refectory in 1947.",
+   "tip": "The monastery can be visited without a tour, the palace interiors only with a guided tour; seasonal hours differ, so check kloster-bebenhausen.de.",
+   "q": "Kloster Bebenhausen, Schönbuchstraße 40, Tübingen-Bebenhausen",
+   "ll": [
+    48.5614,
+    9.06001
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Bebenhausen_Abbey",
+    "https://www.kloster-bebenhausen.de/"
+   ]
+  },
+  {
+   "id": "stwurmlinger",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike to the Wurmlinger Kapelle on the Spitzberg",
+   "desc": "The small chapel on the Kapellenberg above Wurmlingen is said to be where Hölderlin, Hegel and Schelling imagined a German republic. The Kapellenwegle loop of about 5.5 km passes vineyards and a wine trail on the nature-reserve slopes of the Spitzberg.",
+   "tip": "Allow about 1.5 hours for the loop; the view over the Neckar valley is best on clear days.",
+   "q": "Wurmlinger Kapelle, Rottenburg-Wurmlingen",
+   "ll": [
+    48.50629,
+    8.98236
+   ],
+   "src": [
+    "https://www.tuebingen.de/en/3507/3509.html",
+    "https://planetoutdoor.de/touren/wandern/wandern-schwaebische-alb-wurmlinger-kapellenwegle"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stdomrottenburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Rottenburg's Roman roots at the cathedral",
+   "desc": "Rottenburg began as the Roman town Sumelocenna around AD 98. Dom St. Martin has been the cathedral of the Diocese of Rottenburg-Stuttgart since 1821, and its tower dates from 1486.",
+   "tip": "Rottenburg is a short train ride from Tübingen; the old town and Neckar promenade are close to the cathedral.",
+   "q": "Dom St. Martin, Rottenburg am Neckar",
+   "ll": [
+    48.4772,
+    8.9357
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Rottenburg_am_Neckar"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "sthohenzollern",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb up to Burg Hohenzollern",
+   "desc": "The ancestral seat of the Hohenzollern family stands at 855 metres above Hechingen. The present neo-Gothic castle was built between 1850 and 1867 for Frederick William IV of Prussia, and holds the Count's Hall, a treasury and the crown of Wilhelm II.",
+   "tip": "Walk up from the car parks or take the shuttle bus; allow time for the views over the Swabian Alb.",
+   "q": "Burg Hohenzollern, Bisingen",
+   "ll": [
+    48.32319,
+    8.96772
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Hohenzollern_Castle",
+    "https://www.burg-hohenzollern.com/"
+   ]
+  },
+  {
+   "id": "strohenzollernromanvilla",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Step into a Roman villa at Hechingen-Stein",
+   "desc": "The Roman open-air museum reconstructs a villa rustica that stood here from the first century AD for around 200 years. It is a supported project of the Förderverein Römisches Freilichtmuseum Hechingen-Stein.",
+   "tip": "Listed hours are Tuesday to Sunday, about 10:00 to 17:00, in the main season; confirm on the official site.",
+   "q": "Römisches Freilichtmuseum, Eichwäldle 1, Hechingen-Stein",
+   "ll": [
+    48.37624,
+    8.93466
+   ],
+   "src": [
+    "https://exarc.net/venues/romisches-freilichtmuseum-hechingen-stein-de",
+    "https://www.museum.de/en/museen/r%C3%B6misches-freilichtmuseum-hechingen-stein"
+   ]
+  },
+  {
+   "id": "sthaigerlochatom",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Descend into the Haigerloch Atomkeller",
+   "desc": "In the last months of the Second World War a research reactor was built in a former beer cellar beneath the Schlosskirche in Haigerloch, where the Kaiser Wilhelm Institute of Physics had relocated. A museum there shows a replica of the reactor.",
+   "tip": "The museum is small and seasonal; combine it with a walk through the cliff-top old town above the Eyach.",
+   "q": "Atomkeller-Museum, Pfluggasse, Haigerloch",
+   "ll": [
+    48.3671,
+    8.80398
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Haigerloch"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "stbalingenschloss",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stroll Balingen's old town around the Zollernschloss",
+   "desc": "Balingen is the seat of the Zollernalbkreis. Its Zollernschloss and compact old town are the centre for visits to the foot of the Swabian Alb.",
+   "tip": "A Saturday market is the best moment to visit; the Schwefelbrunnen geotope is also in town.",
+   "q": "Zollernschloss, Balingen",
+   "ll": [
+    48.27058,
+    8.8518
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Balingen"
+   ]
+  },
+  {
+   "id": "strottweilmuenster",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Kapellenkirche and Münster in Rottweil",
+   "desc": "Rottweil, Baden-Württemberg's oldest town, has a Gothic Kapellenkirche from 1330 to 1340 with a tower and three portals decorated with statues. The Heilig-Kreuz-Münster, built over a church of 1270, holds a crucifix by Veit Stoss.",
+   "tip": "Both are in the old town on the hill; walk the Hauptstrasse to see the half-timbered houses and the Black Gate.",
+   "q": "Kapellenkirche, Rottweil",
+   "ll": [
+    48.1669,
+    8.6272
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Rottweil"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "strottweildominikaner",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Roman Orpheus mosaic in Rottweil",
+   "desc": "Rottweil's museum collections include a Roman mosaic of the Orpheus legend dated to around AD 180. Excavations at the Romanesque St. Pelagius church site also uncovered Roman baths.",
+   "tip": "Check opening days of the Dominikanermuseum before visiting.",
+   "q": "Dominikanermuseum, Kriegsdamm 4, Rottweil",
+   "ll": [
+    48.16927,
+    8.62656
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Rottweil"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "strottweiltesttower",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Ride up the Rottweil test tower for the view",
+   "desc": "The thyssenkrupp elevator test tower, completed in 2017, is 246 metres high with 12 shafts and was at the time the tallest of its kind. A public viewing platform at about 232 metres looks out to the Swabian Alb and the Black Forest.",
+   "tip": "Book tickets online; the platform closes in strong wind.",
+   "q": "Testturm Rottweil, Berner Feld, Rottweil",
+   "ll": [
+    48.1792,
+    8.62489
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Rottweil"
+   ]
+  },
+  {
+   "id": "strottweilfasnet",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Join the Rottweil Narrensprung on Fasnet",
+   "desc": "On Fasnet Monday and Tuesday around 4,000 costumed fools in original masks and costumes pass through the Black Gate in the Narrensprung, at 8:00 and 14:00. It is one of the best-known carnival traditions in south-west Germany.",
+   "tip": "Arrive early and book accommodation far ahead; the exact dates follow Easter (around 8 to 9 February 2027).",
+   "q": "Schwarzes Tor, Rottweil",
+   "ll": [
+    48.16733,
+    8.62432
+   ],
+   "src": [
+    "https://www.festivalsindeutschland.de/festival/rottweiler-narrensprung/2025",
+    "https://www.schwaebische.de/regional/zollernalb/fastnetshochburg-rottweil-sie-sind-die-tv-stars-der-fasnet-3283371"
+   ],
+   "months": [
+    2,
+    3
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stschrambergjunghans",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Discover the Junghans clock factory in Schramberg",
+   "desc": "The Junghans clock factory was founded in Schramberg in 1861 and was once the world's largest clock factory with around 3,000 employees. The Terrassenbau and its museum recall that industrial history.",
+   "tip": "Check opening times of the Junghans Terrassenbau museum; tours are sometimes bookable.",
+   "q": "Junghans Terrassenbau, Geißhaldenstraße, Schramberg",
+   "ll": [
+    48.22221,
+    8.3761
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Schramberg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "stschrambergbach",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch the Bach na Fahrt raft race in Schramberg",
+   "desc": "On Carnival Monday up to 30,000 spectators line the Schiltach in Schramberg for the Bach na Fahrt, a carnival raft race down the stream.",
+   "tip": "Come early for a spot by the river; dates follow Easter.",
+   "q": "Schiltach, Schramberg",
+   "ll": [
+    48.2258,
+    8.3865
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Schramberg"
+   ],
+   "months": [
+    2,
+    3
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stoberndorfmauser",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Trace the Mauser arms story in Oberndorf",
+   "desc": "Oberndorf on the Neckar is a historic centre of the German weapons industry, home to the Mauser brothers Wilhelm (1834-1882) and Paul (1838-1914). The town's museum covers local history and the Mauser story.",
+   "tip": "Check opening days; small municipal museum.",
+   "q": "Heimat- und Waffenmuseum, Klosterstraße 14, Oberndorf am Neckar",
+   "ll": [
+    48.2918,
+    8.5745
+   ],
+   "src": [
+    "https://whichmuseum.com/museum/heimat-und-waffenmuseum-oberndorf-am-neckar-37085"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "stfreudenstadtmarkt",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Cross Freudenstadt's huge arcaded market square",
+   "desc": "Freudenstadt was founded in 1599 by Duke Frederick I of Württemberg and built around a market square billed as Germany's largest. The Stadtkirche, built 1601 to 1608, stands at the south corner with its angled wings.",
+   "tip": "Rebuilt after 1945 destruction; the arcades are lined with cafés and shops.",
+   "q": "Marktplatz, Freudenstadt",
+   "ll": [
+    48.4633,
+    8.4111
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Freudenstadt",
+    "https://www.lonelyplanet.com/germany/freudenstadt/attractions/marktplatz/a/poi-sig/1210873/1294397"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stfriedrichsturm",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Climb the Friedrichsturm above Freudenstadt",
+   "desc": "The 25-metre red sandstone tower on the Kienberg at about 799 m was built in 1899 for the town's 300th anniversary. On clear days it overlooks the Murg valley.",
+   "tip": "It is a short walk from town; bring layers, as it can be windy at the top.",
+   "q": "Friedrichsturm, Kienberg, Freudenstadt",
+   "ll": [
+    48.45317,
+    8.41048
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Freudenstadt"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stcafepause",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have cake on the Freudenstadt market square at Café Pause",
+   "desc": "Café Pause stands on the Marktplatz with a sunny terrace and a wide choice of cakes including vegan ones. The Black Forest cake from the region celebrated its 100th birthday in 2015.",
+   "tip": "Order a slice of Schwarzwälder Kirschtorte and sit on the terrace in good weather.",
+   "q": "Café Pause, Marktplatz 65, Freudenstadt",
+   "ll": [
+    48.4633,
+    8.4113
+   ],
+   "src": [
+    "https://www.happycow.net/reviews/cafe-pause-freudenstadt-94839",
+    "https://www.schwarzwald-tourismus.info/anmeldungen/dorfurlaub/kulinarik/spezialitaeten/kirschtorte"
+   ]
+  },
+  {
+   "id": "stalpirsbachkloster",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour Alpirsbach Abbey and its cloister",
+   "desc": "The Benedictine monastery was founded in 1095 and built mainly in Romanesque style from 1125 to 1133, with Gothic additions in the late 15th century. The abbey church, cloister and monastery museum are open to visitors, and classical concerts take place in the cloister in summer.",
+   "tip": "Check kloster-alpirsbach.de for hours and the summer concert dates.",
+   "q": "Kloster Alpirsbach, Alpirsbach",
+   "ll": [
+    48.34611,
+    8.40417
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Alpirsbach_Abbey",
+    "https://kloster-alpirsbach.de/en/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "stalpirsbacherbrau",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Tour the Alpirsbacher Klosterbräu brewery museum",
+   "desc": "The Alpirsbacher Klosterbräu runs a brewery museum with a guided tour through the historic brewhouse and the bottling area, where a hand-operated filling machine from 1905 is displayed. The visit usually ends with beer from the brewery.",
+   "tip": "Tours are guided and sometimes limited; check alpirsbacher.de for current times and prices.",
+   "q": "Alpirsbacher Klosterbräu, Marktplatz 1, Alpirsbach",
+   "ll": [
+    48.3458,
+    8.4029
+   ],
+   "src": [
+    "https://www.schwarzwald-tourismus.info/attraktionen/alpirsbacher-klosterbraeu-glauner-gmbh-co.-kg-014ee09b93",
+    "https://www.schwarzwald-tourismus.info/schwarzwald/online-magazin/geschichten-aus-dem-schwarzwald/essen-trinken/alpirsbacher-erlebnistipps"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "stschwarzwaldstube",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at the three-star Schwarzwaldstube in Baiersbronn",
+   "desc": "The Schwarzwaldstube in the Hotel Traube Tonbach is one of Baiersbronn's top-rated restaurants, which together make it the only German place with two three-star Michelin restaurants. The hotel's Restaurant 1789 also holds a star.",
+   "tip": "Book weeks ahead; the 1789 restaurant is a more accessible option in the same hotel.",
+   "q": "Schwarzwaldstube, Tonbachstraße 237, Baiersbronn-Tonbach",
+   "ll": [
+    48.53702,
+    8.35808
+   ],
+   "src": [
+    "https://guide.michelin.com/ch/de/baden-wurttemberg/baiersbronn/restaurant/schwarzwaldstube",
+    "https://www.heidelberg24.de/deutschland/baden-wuerttemberg/ort-deutschlands-mit-zwei-sterne-restaurants-baiersbronn-baden-wuerttemberg-einziger-93353925.html"
+   ]
+  },
+  {
+   "id": "stbareiss",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste a tasting menu at Restaurant Bareiss",
+   "desc": "Restaurant Bareiss in the Hotel Bareiss in Baiersbronn-Mitteltal holds three Michelin stars, one of two three-star restaurants in the village.",
+   "tip": "Book well in advance; check the current Michelin listing for status.",
+   "q": "Restaurant Bareiss, Gärtenbühlweg 14, Baiersbronn-Mitteltal",
+   "ll": [
+    48.52018,
+    8.32665
+   ],
+   "src": [
+    "https://www.heidelberg24.de/deutschland/baden-wuerttemberg/ort-deutschlands-mit-zwei-sterne-restaurants-baiersbronn-baden-wuerttemberg-einziger-93353925.html",
+    "https://www.baiersbronn.de/adbimage/16620/asset_original/pressemitteilung-acht-michelin-sterne-fuer-baiersbronn.pdf"
+   ]
+  },
+  {
+   "id": "stlotharpfad",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Lotharpfad on the Black Forest High Road",
+   "desc": "The Lotharpfad is an adventure trail through the forest area flattened by storm Lothar in December 1999, near the Schliffkopf on the Schwarzwaldhochstraße. It shows how the forest regrows by itself.",
+   "tip": "It is closed in storms and on snow or ice; ask the Baiersbronn hiking information centre if unsure.",
+   "q": "Lotharpfad, Schwarzwaldhochstraße, Baiersbronn",
+   "ll": [
+    48.50525,
+    8.21973
+   ],
+   "src": [
+    "https://www.schwarzwald-tourismus.info/touren/lotharpfad-an-der-schwarzwaldhochstrasse-16dc99fb72",
+    "https://www.blackforest-highlights.com/poi/detail/lotharpfad-adventure-trail-b19763a474"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stschoental",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Baroque abbey at Schöntal in the Jagst valley",
+   "desc": "Schöntal Abbey was founded in 1153 and moved to its present site on the Jagst in 1157 to 1163. The Baroque church by Leonhard Dientzenhofer and the buildings with a grand staircase by Balthasar Neumann date from 1683 to 1732, and Götz von Berlichingen is buried here.",
+   "tip": "The abbey is also a conference centre; check kloster-schoental.de for tours and the monastery garden.",
+   "q": "Kloster Schöntal, Klosterhof 1, Schöntal",
+   "ll": [
+    49.32991,
+    9.50506
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Sch%C3%B6ntal_Abbey"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "stoehringenstift",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Stiftskirche and old town of Öhringen",
+   "desc": "Öhringen is Hohenlohe's largest town. Its Evangelical Stiftskirche holds 15th-century cedar-wood carvings and many tombs, next to the medieval marketplace and the former Hohenlohe castle, now the town hall. The Roman limes runs east of town.",
+   "tip": "Combine it with the Hofgarten area and the nearby limes path.",
+   "q": "Stiftskirche, Marktplatz, Öhringen",
+   "ll": [
+    49.2001,
+    9.5047
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/%C3%96hringen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "stkuenzelsaumuseumwuerth",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See modern art at Museum Würth near Künzelsau",
+   "desc": "Museum Würth in Künzelsau is devoted to contemporary art, alongside the Hirschwirtscheuer in Gaisbach. Künzelsau lies on the Kocher and is the capital of the Hohenlohe district.",
+   "tip": "Admission has often been free; check kunst.wuerth.com for current exhibitions.",
+   "q": "Museum Würth, Reinhold-Würth-Straße 15, Künzelsau",
+   "ll": [
+    49.25843,
+    9.68144
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/K%C3%BCnzelsau"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  }
+ ]
+}

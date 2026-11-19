@@ -1,0 +1,885 @@
+{
+ "new": [
+  {
+   "id": "stludwigsburgschloss",
+   "cat": "gor",
+   "area": "ludwigsburg",
+   "title": "Tour the Baroque Residenzschloss Ludwigsburg",
+   "desc": "Ludwigsburg Palace was begun in 1704 under Duke Eberhard Ludwig and largely finished by 1733, making it one of Europe's largest Baroque palaces. It opened to the public in 1918 and was restored for its 300th anniversary in 2004.",
+   "tip": "Visit on a guided tour to see the apartments; check the official site for tickets. Combine with the gardens of Blühendes Barock next door.",
+   "q": "Residenzschloss Ludwigsburg, Schlossstraße 30, Ludwigsburg",
+   "ll": [
+    48.9,
+    9.1958
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ludwigsburg_Palace",
+    "https://www.schloss-ludwigsburg.de/en/home/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "stmonrepos",
+   "cat": "gor",
+   "area": "ludwigsburg",
+   "title": "Stroll to Schloss Monrepos on its lake",
+   "desc": "Monrepos stands on the Eglosheimer See, where Duke Eberhard Ludwig had the octagonal Seehäuslein built in 1714. The royal family of Württemberg kept this one of the estate's three palaces after 1918.",
+   "tip": "The lake path is free and pleasant on foot; the palace grounds partly belong to a golf course. A walk from the Residenzschloss takes about 40 minutes.",
+   "q": "Schloss Monrepos, Seeschloss Monrepos, Ludwigsburg",
+   "ll": [
+    48.91972,
+    9.16944
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Monrepos_Palace"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stschlossfavorite",
+   "cat": "gor",
+   "area": "ludwigsburg",
+   "title": "See Schloss Favorite, the Baroque hunting lodge",
+   "desc": "Schloss Favorite was built 1717-1723 by Donato Giuseppe Frisoni as a hunting lodge and summer villa, aligned on an axis with the Residenzschloss. Its Neoclassical interior dates from the early 19th century and it has been open to the public since 1983.",
+   "tip": "Surrounded by a former game park; check schloss-favorite-ludwigsburg.de for opening days. It is a short walk north from the main palace.",
+   "q": "Schloss Favorite, Favoritepark, Ludwigsburg",
+   "ll": [
+    48.9044,
+    9.1956
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Favorite_(Ludwigsburg)",
+    "https://schloss-favorite-ludwigsburg.de"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "stludwigsburgmarkt",
+   "cat": "gor",
+   "area": "ludwigsburg",
+   "title": "Take in the arcaded Marktplatz of Ludwigsburg",
+   "desc": "The Baroque Marktplatz is the heart of Ludwigsburg's planned city, framed by arcades and two matching churches, the Evangelische Stadtkirche and the Catholic Dreifaltigkeitskirche. Cafés fill the arcades.",
+   "tip": "A market is held here several mornings a week; the Christmas market also takes over the square.",
+   "q": "Marktplatz, Ludwigsburg",
+   "ll": [
+    48.89741,
+    9.19126
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Marktplatz_(Ludwigsburg)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stschillergeburtshaus",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Schiller's birthplace in Marbach",
+   "desc": "The poet Friedrich Schiller was born in Marbach am Neckar in 1759, in a half-timbered house in the old town that is now a museum run by the Schillerstadt. It is part of Marbach's museum quarter.",
+   "tip": "The house is open daily in summer; hours are shorter in winter, so check schillersgeburtshaus.de.",
+   "q": "Schillers Geburtshaus, Niklastorstraße 31, Marbach am Neckar",
+   "ll": [
+    48.9381,
+    9.2593
+   ],
+   "src": [
+    "https://familienausflug.info/ausflugsziel/schillers-geburtshaus",
+    "https://stuttgart-tourist.de/en/a-schillers-birthplace"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "stliteraturmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the Literaturmuseum der Moderne in Marbach",
+   "desc": "Designed by David Chipperfield Architects, the museum opened in 2006 and won the RIBA Stirling Prize in 2007. It shows German-language literature of the 20th century onward; the permanent show Die Seele 2 has over 180 exhibits.",
+   "tip": "On Schillerhöhe above the Neckar, next to the older Schiller-Nationalmuseum; allow two hours for both.",
+   "q": "Literaturmuseum der Moderne, Schillerhöhe 8-10, Marbach am Neckar",
+   "ll": [
+    48.93517,
+    9.25533
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Literaturmuseum_der_Moderne"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "stesslingenburg",
+   "cat": "gor",
+   "area": "esslingen",
+   "title": "Climb to Esslingen Burg and the Dicker Turm",
+   "desc": "The medieval fortification above the old town was linked to the city walls in 1286-1287, and the Dicker Turm was built in 1525. The grounds are open to the public and host summer open-air cinema.",
+   "tip": "The Dicker Turm itself has been closed since 2011. Walk up the Burgsteige for views over the roofs and vineyards.",
+   "q": "Esslinger Burg, Burgsteige, Esslingen am Neckar",
+   "ll": [
+    48.74495,
+    9.30933
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Burg_Esslingen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stfrauenkircheesslingen",
+   "cat": "gor",
+   "area": "esslingen",
+   "title": "Admire the Frauenkirche above Esslingen",
+   "desc": "Building began around 1325 and the 72 m tower was finished in 1508, making it a rare completed medieval Gothic tower. It is described as the first Gothic hall church in southwestern Germany and has 63 gargoyles.",
+   "tip": "The church stands on the hillside above the old town; the climb is steep, so wear solid shoes.",
+   "q": "Frauenkirche, Frauenkirchsteige, Esslingen am Neckar",
+   "ll": [
+    48.74374,
+    9.3053
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Frauenkirche_(Esslingen_am_Neckar)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stesslingenrathaus",
+   "cat": "gor",
+   "area": "esslingen",
+   "title": "See the Altes Rathaus on Esslingen's Marktplatz",
+   "desc": "The Old Town Hall on the central marketplace is one of Esslingen's landmarks, surrounded by half-timbered houses. The old town has hundreds of timbered buildings.",
+   "tip": "Cafés on the square make a good stop; look up at the facade and clock.",
+   "q": "Altes Rathaus, Marktplatz, Esslingen am Neckar",
+   "ll": [
+    48.74233,
+    9.30775
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Altes_Rathaus_(Esslingen_am_Neckar)",
+    "https://en.wikipedia.org/wiki/Esslingen_am_Neckar"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sthessigheimfelsengaerten",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Hike beneath the Felsengärten of Hessigheim",
+   "desc": "The Felsengärten are steep Muschelkalk cliffs above the Neckar loop at Hessigheim, a nature reserve known for rock climbing and terraced vineyards. The rocks are among the most striking landscapes of the Württemberg wine country.",
+   "tip": "Walk the vineyard paths from Hessigheim village; wear sturdy shoes. The Felsengartenkellerei sells the local wine.",
+   "q": "Felsengärten Hessigheim, Hessigheim",
+   "ll": [
+    48.99539,
+    9.18021
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Felsengärten_Hessigheim",
+    "https://www.komoot.com/highlight/720542"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stburgteck",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb Burg Teck and its 31 m lookout tower",
+   "desc": "Burg Teck stands at 773 m on the Teckberg at the edge of the Swabian Jura. First mentioned in 1152, it was destroyed in the Peasants' War in 1525 and has been a ruin since 1737; a lookout tower was added in 1889.",
+   "tip": "The Albverein runs a hiking hut with a restaurant on top. Trails start from Owen and Kirchheim unter Teck.",
+   "q": "Burg Teck, Teckberg, Owen",
+   "ll": [
+    48.58856,
+    9.47021
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Burg_Teck"
+   ]
+  },
+  {
+   "id": "stherrenbergstiftskirche",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Stiftskirche above Herrenberg",
+   "desc": "The Stiftskirche was rebuilt around 1470-1490 as a late-Gothic hall church with net vaulting. Its stone pulpit by Herrenberg mason Hans Hanselmann dates to 1504 and its carved choir stalls are famed.",
+   "tip": "Stands on the hill above the half-timbered Marktplatz; the old town is steep and compact.",
+   "q": "Stiftskirche, Stiftskirche 1, Herrenberg",
+   "ll": [
+    48.59687,
+    8.87124
+   ],
+   "src": [
+    "https://www.schule-bw.de/faecher-und-schularten/gesellschaftswissenschaftliche-und-philosophische-faecher/landeskunde-landesgeschichte/module/epochen/mittelalter/staedte/herrenberg/d1.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stschorndorfmarkt",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the half-timbered Marktplatz of Schorndorf",
+   "desc": "Schorndorf's old town sits on the German Half-Timbered Road. The Marktplatz has the Palmsche Apotheke, one of the best-known timbered buildings in southern Germany, and a monument to Gottlieb Daimler by the town hall.",
+   "tip": "The Stadtkirche tower gives a view over the centre. Market days are lively.",
+   "q": "Marktplatz, Schorndorf",
+   "ll": [
+    48.8048,
+    9.5279
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Schorndorf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stdaimlergeburtshaus",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Gottlieb Daimler's birthplace in Schorndorf",
+   "desc": "The house at Höllgasse 7 is where Gottlieb Daimler, pioneer of the motor car, was born in 1834. It is a small museum and event venue owned by Mercedes-Benz, and entry is free.",
+   "tip": "Closed on 24 and 31 December and 1 January; check hours before visiting.",
+   "q": "Gottlieb-Daimler-Geburtshaus, Höllgasse 7, Schorndorf",
+   "ll": [
+    48.80625,
+    9.5279
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Schorndorf"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "stkeplermuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Kepler-Museum in Weil der Stadt",
+   "desc": "The museum occupies the birthplace house of astronomer Johannes Kepler. The house was bought in 1938 and a museum opened there in 1940. A bronze Kepler monument from 1870 stands on the market square.",
+   "tip": "Check the museum's seasonal opening hours; combine with a walk around the town wall and Marktplatz.",
+   "q": "Kepler-Museum, Keplergasse 2, Weil der Stadt",
+   "ll": [
+    48.75026,
+    8.87075
+   ],
+   "src": [
+    "https://www.museum.de/en/museen/kepler-museum-in-weil-der-stadt",
+    "https://fotoeins.com/2026/03/21/kepler-weilderstadt/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "stwelzheimostkastell",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the Roman Ostkastell at Welzheim",
+   "desc": "The Archäologischer Park Ostkastell is part of the UNESCO-listed Upper German Limes and is the only unbuilt-over Roman camp of its kind in Württemberg. Parts are reconstructed, and the site is open all year.",
+   "tip": "Free parking at Rienharzer Straße; the Limes-Erlebnisweg starts here. The Städtisches Museum is open Sundays.",
+   "q": "Archäologischer Park Ostkastell, Rienharzer Straße, Welzheim",
+   "ll": [
+    48.87162,
+    9.64224
+   ],
+   "src": [
+    "https://www.stuttgarter-zeitung.de/panorama/wandertipps-in-baden-wuerttemberg-welzheimer-wald-auf-den-spuren-der-roemer-79025425.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stmotorworld",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Browse the classics at Motorworld Region Stuttgart",
+   "desc": "Motorworld occupies the former Böblingen-Sindelfingen airfield hangars at Graf-Zeppelin-Platz 1, with classic and youngtimer cars, workshops and showrooms.",
+   "tip": "Entry to the hall is generally free; special exhibitions may charge. Pair with Sensapolis nearby.",
+   "q": "Motorworld Region Stuttgart, Graf-Zeppelin-Platz 1, Böblingen",
+   "ll": [
+    48.6899,
+    8.9963
+   ],
+   "src": [
+    "https://stadtmarketing.boeblingen.de/site/Boeblingen-Stadtmarketing/get/params_E-145856460/18116441/FalzFlyer_HighlightsErlebenBB_2019_FalzFlyer10seitigDINlang_ENGLISCH.pdf",
+    "https://www.stuttgarter-zeitung.de/lokales/boeblingen/motorworld-in-boeblingen-legendaere-boost-maschinen-aus-schweden-im-rampenlicht-78987125.html"
+   ],
+   "tags": [
+    "rainy day",
+    "free"
+   ]
+  },
+  {
+   "id": "stfleischermuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Deutsches Fleischermuseum in Böblingen",
+   "desc": "Housed in a 16th-century Vogtshaus on the Marktplatz, the museum documents the history of the butcher's trade. It is one of Böblingen's historic-centre museums.",
+   "tip": "Opening hours are limited (afternoons mid-week, longer Sundays); verify before going.",
+   "q": "Deutsches Fleischermuseum, Marktplatz 27, Böblingen",
+   "ll": [
+    48.6853,
+    9.01224
+   ],
+   "src": [
+    "https://maps.adac.de/poi/deutsches-fleischermuseum-boeblingen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "stbesigheimaltstadt",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander Besigheim's old town above the Enz",
+   "desc": "The old town sits on a rocky spur above the Enz joining the Neckar, with half-timbered houses, steep lanes and vineyards. The Himmelsleiter and Weinkanzel on the Niedernberg are highlights.",
+   "tip": "Park at the bottom and walk up; there are cafés and Weinstuben.",
+   "q": "Altstadt, Besigheim",
+   "ll": [
+    48.9993,
+    9.1416
+   ],
+   "src": [
+    "https://download.vvs.de/Lieblingsziele_Ludwigsburg.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stbietigheimviadukt",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the 1835 Enzviadukt in Bietigheim",
+   "desc": "The Enz railway viaduct, built in 1835, is Bietigheim's landmark; around 300 trains cross it daily. The pedestrian old town below has half-timbered houses from the 16th and 17th centuries.",
+   "tip": "Stroll Schieringerstraße and the Hauptstraße.",
+   "q": "Enzviadukt, Bietigheim-Bissingen",
+   "ll": [
+    48.95496,
+    9.1297
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Bietigheim_Viaduct",
+    "https://de.wikivoyage.org/wiki/Bietigheim-Bissingen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stkirchheimschloss",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Schloss Kirchheim unter Teck and its moat",
+   "desc": "The castle was established in 1538 as a corner bastion of the town wall, surrounded by a moat and trees. It lies at the foot of the Teck hills, beside a half-timbered old town.",
+   "tip": "Combine with a stroll through the old town before the Burg Teck hike.",
+   "q": "Schloss Kirchheim unter Teck, Schlossplatz, Kirchheim unter Teck",
+   "ll": [
+    48.6474,
+    9.44943
+   ],
+   "src": [
+    "https://www.spottinghistory.com/view/4915/kirchheim-castle"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stbluebaludwigsburg",
+   "cat": "dene",
+   "area": "ludwigsburg",
+   "title": "Walk Blühendes Barock, a 30-hectare Baroque garden",
+   "desc": "Blühendes Barock grows around the Residenzschloss and includes a fairy-tale garden. The Kürbisausstellung, the world's largest pumpkin show, runs in autumn and is included in the day ticket.",
+   "tip": "Buy tickets online; the pumpkin show is on until early December in 2026.",
+   "q": "Blühendes Barock, Mömpelgardstraße 28, Ludwigsburg",
+   "ll": [
+    48.89932,
+    9.19605
+   ],
+   "src": [
+    "https://www.festivalsindeutschland.de/festival/kuerbisausstellung-bluehendes-barock-ludwigsburg"
+   ]
+  },
+  {
+   "id": "stludwigsburgxmas",
+   "cat": "dene",
+   "area": "ludwigsburg",
+   "title": "Drink Glühwein at the Barock-Weihnachtsmarkt",
+   "desc": "The Ludwigsburger Barock-Weihnachtsmarkt fills the Baroque Marktplatz, and in 2026 runs 24 November to 22 December, daily 11 to 21 h.",
+   "tip": "Stalls spill over onto the Arsenalplatz; weekend evenings are busy.",
+   "q": "Marktplatz, Ludwigsburg",
+   "ll": [
+    48.89741,
+    9.19126
+   ],
+   "src": [
+    "https://visit.ludwigsburg.de/site/Ludwigsburg-Tourismus/get/params_E1606611502/18041655/2026_AGB_Ludwigsburger%20Barock-Weihnachtsmarkt.pdf"
+   ],
+   "months": [
+    11,
+    12
+   ]
+  },
+  {
+   "id": "stmonreposlake",
+   "cat": "dene",
+   "area": "ludwigsburg",
+   "title": "Circle the Eglosheimer See at Monrepos",
+   "desc": "A path follows the Eglosheimer See around Schloss Monrepos, once the hunting grounds of the Württemberg dukes. It makes a gentle walk from the city.",
+   "tip": "Join with Favorite park via the avenue; best at golden hour.",
+   "q": "Eglosheimer See, Monrepos, Ludwigsburg",
+   "ll": [
+    48.9186,
+    9.166
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Monrepos_Palace"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stesslingenmarkt",
+   "cat": "dene",
+   "area": "esslingen",
+   "title": "Browse the Esslinger Mittelalter- und Weihnachtsmarkt",
+   "desc": "The medieval and Christmas market spreads through the old town around Marktplatz, with about 180 stalls and several stages. In 2026 it runs 24 November to 22 December.",
+   "tip": "Arrive early on weekends; the final weekend has longer hours.",
+   "q": "Marktplatz, Esslingen am Neckar",
+   "ll": [
+    48.74271,
+    9.30649
+   ],
+   "src": [
+    "https://www.festivalsindeutschland.de/festival/esslinger-mittelaltermarkt-weihnachtsmarkt"
+   ],
+   "months": [
+    11,
+    12
+   ]
+  },
+  {
+   "id": "stkessler",
+   "cat": "dene",
+   "area": "esslingen",
+   "title": "Taste sparkling wine at Kessler Sektkellerei",
+   "desc": "Kessler, founded by Georg Christian von Kessler in 1826 in Esslingen, claims to be Germany's oldest sparkling-wine house and makes about 2.2 million bottles a year.",
+   "tip": "Book a cellar tour and tasting through the Kessler website; recent ownership news means checking visit options first.",
+   "q": "Kessler Sekt, Georg-Christian-von-Kessler-Platz 12-16, Esslingen am Neckar",
+   "ll": [
+    48.7427,
+    9.3069
+   ],
+   "src": [
+    "https://www.stuttgarter-zeitung.de/lokales/baden-wuerttemberg/200-jahre-kessler-der-sekt-der-kanzler-79213656.html",
+    "https://www.showcaves.com/english/de/subterranea/Kessler.html"
+   ]
+  },
+  {
+   "id": "stmineraltherme",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Soak in the Mineraltherme Böblingen",
+   "desc": "The Mineraltherme at Am Hexenbuckel 1 combines thermal pools and a sauna garden, open daily 9 to 22 h.",
+   "tip": "Prices vary by duration; a day ticket with sauna garden is around 30 euros (check current rates).",
+   "q": "Mineraltherme Böblingen, Am Hexenbuckel 1, Böblingen",
+   "ll": [
+    48.69413,
+    9.02777
+   ],
+   "src": [
+    "https://www.ab-ins-schwimmbad.de/Boeblingen/Erlebnisbad-Mineraltherme-Boeblingen.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "stsensapolis",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Play at Sensapolis on the Flugfeld",
+   "desc": "Sensapolis is an indoor leisure park at Melli-Beese-Straße 1 with play areas and an e-kart track.",
+   "tip": "Check opening times; indoor activity suits rainy days.",
+   "q": "Sensapolis, Melli-Beese-Straße 1, Sindelfingen",
+   "ll": [
+    48.68926,
+    8.98886
+   ],
+   "src": [
+    "https://familienausflug.info/ausflugsziel/sensapolis-der-indoor-freizeitpark-fur-die-ganze-familie"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "sthimmelsleiter",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Climb the Himmelsleiter in Besigheim",
+   "desc": "The Himmelsleiter and Weinkanzel on the Niedernberg are stairways of over 400 steps through vineyards above the old town.",
+   "tip": "Go in the morning or at sunset for views over the Enz.",
+   "q": "Himmelsleiter, Niedernberg, Besigheim",
+   "ll": [
+    49.00606,
+    9.13953
+   ],
+   "src": [
+    "https://download.vvs.de/Lieblingsziele_Ludwigsburg.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stkappelberg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike over the Kappelberg to the Kernenturm",
+   "desc": "The Fellbach Wein- und Waldweg is a 13.7 km loop through vineyards, over the Kappelberg to the Kernenturm; wine growing here is documented from 1245.",
+   "tip": "Start at Fellbach town hall; takes about 4 h 20 min.",
+   "q": "Kappelberg, Fellbach",
+   "ll": [
+    48.7923,
+    9.28328
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/wein-und-waldweg-fellbach-ueber-den-kapellberg-zum-kernenturm"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stremstalweg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the RemstalWeg through Strümpfelbach vineyards",
+   "desc": "The RemstalWeg combines the Remstal-Höhenweg and Remswanderweg. A stage passes half-timbered Strümpfelbach in Weinstadt and has a sculpture trail.",
+   "tip": "Stage one covers about 17.5 km from Fellbach Kelter via Stetten to the Karlstein.",
+   "q": "Strümpfelbach, Weinstadt",
+   "ll": [
+    48.78374,
+    9.36476
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/remstalweg",
+    "https://www.ich-geh-wandern.de/wandern/struempfelbach-weinstadt"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stenzkanu",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Paddle the Enz from Bietigheim to Besigheim",
+   "desc": "Canoe trips run along the Enz from Bietigheim-Bissingen to Besigheim and onward to Lauffen am Neckar.",
+   "tip": "Book through Die Zugvögel; best in summer.",
+   "q": "Die Zugvögel Kanu & SUP, Holzgartenstraße 18, Bietigheim-Bissingen",
+   "ll": [
+    48.9552,
+    9.1245
+   ],
+   "src": [
+    "https://hansefit.de/en/studio-finden/bietigheim-bissingen/canoe/die-zugvogel-kanu-and-sup-bietigheim",
+    "https://www.landkreis-ludwigsburg.de/en/landratsamt-landkreis/tourismus-freizeit/aktiv-durch-den-landkreis/auf-dem-wasser/"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "stpferdemarkt",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Join Leonberg's Pferdemarkt, a five-day festival",
+   "desc": "The 333rd Leonberger Pferdemarkt ran 6-10 February 2026, with a festival parade on Tuesday, a horse market and stalls.",
+   "tip": "Next edition in February 2027; the Tuesday parade is the highlight.",
+   "q": "Marktplatz, Leonberg",
+   "ll": [
+    48.8014,
+    9.0152
+   ],
+   "src": [
+    "https://www.stuttgarter-zeitung.de/lokales/boeblingen/pferdemarkt-in-leonberg-2026-333-leonberger-pferdemarkt-wer-will-beim-grossen-festumzug-mitlaufen-79044092.html"
+   ],
+   "months": [
+    2
+   ]
+  },
+  {
+   "id": "steinhornesslingen",
+   "cat": "ye",
+   "area": "esslingen",
+   "title": "Eat roasted Maultaschen at Weinkeller Einhorn",
+   "desc": "A vaulted wine cellar in Esslingen's old town with wine service for over 300 years and three individually styled rooms, serving Swabian dishes like Rostbraten and Ofenschlupfer.",
+   "tip": "Try the gerösteten Maultaschen.",
+   "q": "Weinkeller Einhorn, Esslingen am Neckar",
+   "ll": [
+    48.74227,
+    9.30978
+   ],
+   "src": [
+    "https://www.stuttgarter-zeitung.de/lokales/esslingen/besondere-gastro-tipps-im-kreis-esslingen-diese-lokale-und-bars-locken-mit-historischem-flair-79006678.html"
+   ]
+  },
+  {
+   "id": "stratskelleresslingen",
+   "cat": "ye",
+   "area": "esslingen",
+   "title": "Try Trollinger-braised cheek at the Ratskeller Esslingen",
+   "desc": "The Ratskeller offers homemade Maultaschen and braised pork cheek in Trollinger sauce.",
+   "tip": "Order the Schweinsbäckle.",
+   "q": "Ratskeller Esslingen, Marktplatz 7, Esslingen am Neckar",
+   "ll": [
+    48.74227,
+    9.30807
+   ],
+   "src": [
+    "https://www.speisekarte.de/esslingen-am-neckar/restaurant/ratskeller_esslingen/speisekarte"
+   ]
+  },
+  {
+   "id": "stkielmeyers",
+   "cat": "ye",
+   "area": "esslingen",
+   "title": "Order Zwiebelrostbraten at Kielmeyers on the Marktplatz",
+   "desc": "Kielmeyers 1582 and Kielmeyers Besen at Marktplatz 2 serve Swabian classics including Käsespätzle, homemade Maultaschen and Zwiebelrostbraten.",
+   "tip": "Choose the Zwiebelrostbraten.",
+   "q": "Kielmeyers Besen, Marktplatz 2, Esslingen am Neckar",
+   "ll": [
+    48.74305,
+    9.3064
+   ],
+   "src": [
+    "https://www.speisekarte.de/esslingen-am-neckar/restaurant/kielmeyers_besen"
+   ]
+  },
+  {
+   "id": "stmattis",
+   "cat": "ye",
+   "area": "esslingen",
+   "title": "Sample Maultaschen variations at Mattis",
+   "desc": "Mattis on the Hafenmarkt specialises in Maultaschen, from traditional to Asian-inspired and vegetarian fillings.",
+   "tip": "Try a variation.",
+   "q": "Mattis, Hafenmarkt, Esslingen am Neckar",
+   "ll": [
+    48.74186,
+    9.30845
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/9708985/mattis"
+   ]
+  },
+  {
+   "id": "stburgschenke",
+   "cat": "ye",
+   "area": "esslingen",
+   "title": "Dine on Maultaschen at Trödler zur Burgschenke",
+   "desc": "Trödler zur Burgschenke serves roasted Maultaschen baked with egg and cheese Spätzle below the Burg.",
+   "tip": "Order geröstete Maultaschen.",
+   "q": "Trödler zur Burgschenke, Esslingen am Neckar",
+   "ll": [
+    48.74562,
+    9.30937
+   ],
+   "src": [
+    "https://www.speisekarte.de/esslingen-am-neckar/restaurant/troedler_zur_burgschenke/speisekarte"
+   ]
+  },
+  {
+   "id": "stschlosswache",
+   "cat": "ye",
+   "area": "ludwigsburg",
+   "title": "Eat Linsen mit Spätzle at Café Schloßwache",
+   "desc": "Café Schloßwache serves homemade Spätzle and, from September to April, lentils with Spätzle and sausages.",
+   "tip": "Order Linsen und Spätzle with Saitenwürstle.",
+   "q": "Café Schloßwache, Ludwigsburg",
+   "ll": [
+    48.90006,
+    9.19466
+   ],
+   "src": [
+    "https://www.speisekarte.de/ludwigsburg-w%C3%BCrttemberg/restaurant/cafe_schlosswache/speisekarte"
+   ]
+  },
+  {
+   "id": "stwuerttembergerhof",
+   "cat": "ye",
+   "area": "ludwigsburg",
+   "title": "Order Rostbraten with Maultäschle at Württemberger Hof",
+   "desc": "Württemberger Hof lists Swabian Rostbraten with small Maultäschle, homemade Spätzle and Maultaschen in broth.",
+   "tip": "Try the Rostbraten schwäbisch.",
+   "q": "Württemberger Hof, Ludwigsburg",
+   "ll": [
+    48.89816,
+    9.18193
+   ],
+   "src": [
+    "https://www.speisekarte.de/ludwigsburg-w%C3%BCrttemberg/restaurant/wuerttemberger_hof/speisekarte"
+   ]
+  },
+  {
+   "id": "stlandwuerth",
+   "cat": "ye",
+   "area": "ludwigsburg",
+   "title": "Eat Swabian Rostbraten at Landwürth",
+   "desc": "Landwürth serves Rostbraten with onion schmaltz, red-wine jus and Spätzle, plus Maultäschle.",
+   "tip": "Order the Rostbraten.",
+   "q": "Landwürth, Ludwigsburg",
+   "ll": [
+    48.87877,
+    9.15911
+   ],
+   "src": [
+    "https://www.speisekarte.de/ludwigsburg-w%C3%BCrttemberg/restaurant/landwuerth/speisekarte"
+   ]
+  },
+  {
+   "id": "stkronehoheneck",
+   "cat": "ye",
+   "area": "ludwigsburg",
+   "title": "Dine at Krone Alt-Hoheneck above the Neckar",
+   "desc": "Krone Alt-Hoheneck is a Gasthaus with a banquet hall on the Neckar in Hoheneck; guests recommend the Rostbraten and homemade Maultaschen.",
+   "tip": "Try the Maultaschen.",
+   "q": "Krone Alt-Hoheneck, Hoheneck, Ludwigsburg",
+   "ll": [
+    48.91489,
+    9.21151
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/2697338/krone-alt-hoheneck-das-gasthaus-mit-festsaal-am-neckar"
+   ]
+  },
+  {
+   "id": "stfelsengartenkellerei",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Lemberger at the Felsengartenkellerei Hessigheim",
+   "desc": "The cooperative formed in 1972 by merging two local wine co-ops, working about 600 hectares between Hessigheim, Besigheim and Mundelsheim. Address: Am Felsengarten 1.",
+   "tip": "Ask for the Lemberger or Spätburgunder; check the event calendar for tastings.",
+   "q": "Felsengartenkellerei Besigheim, Am Felsengarten 1, Hessigheim",
+   "ll": [
+    48.99635,
+    9.18177
+   ],
+   "src": [
+    "https://www.golocal.de/hessigheim/wein/",
+    "https://www.falstaff.com/en/wines/felsengartenkellerei-hessigheim-2020-fasszination-spaetburgunder-trocken-barrique"
+   ]
+  },
+  {
+   "id": "stlassak",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste organic wine at Weingut Lassak in Hessigheim",
+   "desc": "Weingut Lassak is an organic estate in Hessigheim with tasting and farm sales.",
+   "tip": "Book a tasting.",
+   "q": "Weingut Lassak, Besigheimer Straße 23, Hessigheim",
+   "ll": [
+    48.9719,
+    9.1925
+   ],
+   "src": [
+    "https://www.falstaff.com/de/winzer/weingut-lassak"
+   ]
+  },
+  {
+   "id": "stdobler",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat at Weinstube Dobler in Beutelsbach in November",
+   "desc": "Weinstube Dobler at Eberhardstraße 18/1 in Weinstadt-Beutelsbach is listed as a seasonal Besen with Monday to Saturday hours.",
+   "tip": "Check current dates; listed as November.",
+   "q": "Weinstube Dobler, Eberhardstraße 18/1, Weinstadt-Beutelsbach",
+   "ll": [
+    48.80481,
+    9.3854
+   ],
+   "src": [
+    "https://www.stuttgarter-zeitung.de/wissen/showroom/besenwirtschaften-im-remstal-oeffnungszeiten-2026-78844601.html"
+   ],
+   "months": [
+    11
+   ]
+  },
+  {
+   "id": "stblockhausbesen",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Visit the Blockhausbesen in Poppenweiler",
+   "desc": "The Blockhausbesen in Ludwigsburg-Poppenweiler is a Besen run in a log cabin.",
+   "tip": "Besen open only a few weeks a year; check dates.",
+   "q": "Blockhausbesen, Poppenweiler, Ludwigsburg",
+   "ll": [
+    48.90946,
+    9.28192
+   ],
+   "src": [
+    "https://www.stuttgarter-zeitung.de/lokales/ludwigsburg/besonderer-besen-in-poppenweiler-mit-dem-blockhausbesen-wurde-ein-traum-wahr-78857526.html"
+   ]
+  },
+  {
+   "id": "stherrenkueferei",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Maultaschen at the Herrenküferei in Markgröningen",
+   "desc": "The Herrenküferei in Markgröningen is a medieval-setting restaurant reviewed for its Maultaschen with balsamic pearls.",
+   "tip": "Try the Maultaschen.",
+   "q": "Herrenküferei, Markgröningen",
+   "ll": [
+    48.90526,
+    9.08027
+   ],
+   "src": [
+    "https://www.stuttgarter-zeitung.de/lokales/ludwigsburg/restauranttest-in-markgroeningen-mittelalter-trifft-moderne-maultaschen-und-balsamicoperlen-in-der-herrenkueferei-78887432.html"
+   ]
+  },
+  {
+   "id": "strienth",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink Remstal wine at Weingut Rienth in Fellbach",
+   "desc": "Weingut Rienth in Fellbach is listed among Remstal Besen and wine estates.",
+   "tip": "Check the opening schedule.",
+   "q": "Weingut Rienth, Fellbach",
+   "ll": [
+    48.80468,
+    9.28849
+   ],
+   "src": [
+    "https://www.stuttgarter-zeitung.de/wissen/showroom/besenwirtschaften-im-remstal-oeffnungszeiten-2026-78844601.html"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,510 @@
+{
+ "new": [
+  {
+   "id": "doosthausmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See van de Velde's interior at the Osthaus Museum",
+   "desc": "The Karl Ernst Osthaus Museum in Hagen was built in 1902 as the original Museum Folkwang, with an interior by Henry van de Velde. Today it holds main collections of Christian Rohlfs and Emil Schumacher, plus environmental art by Herman de Vries.",
+   "tip": "Check osthausmuseum.de for hours and combine it with the nearby Emil Schumacher Museum.",
+   "q": "Karl Ernst Osthaus-Museum, Museumsplatz 1, Hagen",
+   "ll": [
+    51.35611,
+    7.47306
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Osthaus_Museum_Hagen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "dohohenhof",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Step into Van de Velde's Villa Hohenhof in Hagen",
+   "desc": "Villa Hohenhof was built 1906-08 by Henry van de Velde for the patron Karl Ernst Osthaus, who also had him design the furniture, lamps and crockery. It is the museum of the Hagen Impulse, an early modern art and architecture movement.",
+   "tip": "Open weekends 11:00-18:00 (about EUR 3); public tours run in spring, with registration via the VHS.",
+   "q": "Hohenhof, Stirnband 10, Hagen",
+   "ll": [
+    51.35929,
+    7.5129
+   ],
+   "src": [
+    "https://www.ruhr-tourismus.de/en/poi/der-hohenhof-das-museum-des-hagener-impulses/",
+    "https://www.route-industriekultur.ruhr/en/ankerpunkte/der-hohenhof-das-museum-des-hagener-impulses/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "dowerdringen",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the moated castle and archaeology museum at Werdringen",
+   "desc": "Wasserschloss Werdringen in Hagen-Vorhalle houses the Archaeology Museum Hagen, opened in 2004, covering about 450 million years of regional history. A life-size mammoth replica greets visitors and finds from the Balver Höhle are displayed.",
+   "tip": "A small cafe runs during museum hours; combine it with a walk on the Harkortsee shore.",
+   "q": "Wasserschloss Werdringen, Vorhalle, Hagen",
+   "ll": [
+    51.388,
+    7.4149
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Wasserschloss_Werdringen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "dokoepchenwerk",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Peer at the Köpchenwerk pumped-storage hall in Herdecke",
+   "desc": "Built 1927-30 by RWE and named after planner Arthur Köpchen, this was one of Germany's first big pumped-storage plants (132 MW) and closed in 1994. It is a listed monument on the Route der Industriekultur beside the Hengsteysee.",
+   "tip": "The turbine hall is mostly closed but visible from the lakeside path; guided tours are announced by industriedenkmal-stiftung.de.",
+   "q": "Köpchenwerk, Herdecke",
+   "ll": [
+    51.41139,
+    7.45389
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Köpchenwerk"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "docolaniei",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Spot the Colani-Ei UFO on a Lünen pit headframe",
+   "desc": "The Colani-Ei (Lüntec Tower) is the former headframe of Zeche Minister Achenbach in Brambauer, remodelled to a sketch by Luigi Colani and finished in May 1995. The 20 m wide egg sits atop the tower with a lounge at 35 m.",
+   "tip": "Best seen from outside; the lounge is mainly for events and bookings.",
+   "q": "Colani-Ei, Zeche Minister Achenbach, Brambauer, Lünen",
+   "ll": [
+    51.6046,
+    7.4532
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Colani-Ei"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "dobahnhoflangendreer",
+   "cat": "gor",
+   "area": "bochum",
+   "title": "Visit the Bahnhof Langendreer culture station",
+   "desc": "The former Prussian transfer station at Langendreer was built in 1908 as one of the largest in Germany and is now a cultural centre with a cafe. It sits on the Route der Industriekultur.",
+   "tip": "Check the programme for concerts, readings and cinema.",
+   "q": "Bahnhof Langendreer, Wallbaumweg 108, Bochum",
+   "ll": [
+    51.47923,
+    7.32106
+   ],
+   "src": [
+    "https://www.ruhr-tourismus.de/en/poi/bahnhof-langendreer/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "doharkortsee",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the shore of the Harkortsee",
+   "desc": "The Harkortsee on the Ruhr is 3.2 km long and 1.37 sq km, with water sports, boat rental, minigolf and bouldering. A passenger boat links Wetter and Herdecke from April to October.",
+   "tip": "Start at the Wetter landing and watch the Ruhr viaduct at the Hagen end.",
+   "q": "Harkortsee, Wetter (Ruhr)",
+   "ll": [
+    51.3926,
+    7.40223
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Harkortsee"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "doschwalbewitten",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cruise the Ruhr on the MS Schwalbe II from Witten",
+   "desc": "The MS Schwalbe II is run by Stadtwerke Witten on the Kemnader See and Ruhr, season April to October. Summer evening Beats & Cruise trips depart from the Freizeitbad Heveney landing from mid-May to early September 2026.",
+   "tip": "Book via schwalbe.stadtwerke-witten.de or 02302 9173-450.",
+   "q": "Freizeitbad Heveney, Heveney, Witten",
+   "ll": [
+    51.417,
+    7.338
+   ],
+   "src": [
+    "https://schwalbe.stadtwerke-witten.de/",
+    "https://www.festivalsindeutschland.de/festival/beats-cruise-ms-schwalbe-witten"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "dokurparkhamm",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Stroll the Kurpark and Gradierwerk in Bad Hamm",
+   "desc": "The Kurpark in Bad Hamm was laid out in 1883-84 after a brine spring was found, with ponds, old trees and an elephant-shaped flower bed. The brine graduation tower is about 42 m long.",
+   "tip": "Free to enter; the Maximare thermal baths are nearby.",
+   "q": "Kurpark Bad Hamm, Ostenallee 87, Hamm",
+   "ll": [
+    51.68988,
+    7.84412
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kurpark_(Hamm)",
+    "https://www.mvp.de/hamm/entdecken/gradierwerk-im-kurpark-bad-hamm/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "domaximare",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Soak at the Maximare thermal baths in Hamm",
+   "desc": "Maximare Erlebnistherme opened in November 2003 in Bad Hamm and combines water slides, brine pools and a sauna area.",
+   "tip": "Ask for current prices and hours at the baths; busiest on rainy weekends.",
+   "q": "Maximare Erlebnistherme, Jürgen-Graef-Allee 2, Hamm",
+   "ll": [
+    51.68765,
+    7.83557
+   ],
+   "src": [
+    "https://www.freizeitpark-welt.de/wasserpark/maximare/maximare_start.php"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "docappenbergersee",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim at the Cappenberger See lido in Lünen",
+   "desc": "The Freibad at the Cappenberger See in northern Lünen has a 50 m sports pool and is run by the Bädergesellschaft Lünen. The lake nearby offers sailing and boat rental.",
+   "tip": "Typically open May to September, adult day ticket around EUR 5.40; confirm on baeder-luenen.de.",
+   "q": "Freibad Cappenberger See, Borker Straße 56, Lünen",
+   "ll": [
+    51.63305,
+    7.53911
+   ],
+   "src": [
+    "https://www.schwimmbadcheck.de/en/luenen/freibad-cappenberger-see.html"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "dohoerdermarkt",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Hörder Neumarkt weekly market",
+   "desc": "The Hörder Neumarkt market in Dortmund-Hörde takes place on Thursdays from 7:00 to 13:00. Dortmund markets generally run 7:00-13:00.",
+   "tip": "Combine with a walk up to the Phoenix See.",
+   "q": "Hörder Neumarkt, Hörde, Dortmund",
+   "ll": [
+    51.48588,
+    7.49469
+   ],
+   "src": [
+    "https://www.dortmund.de/themen/einkaufen-und-city/wochenmaerkte/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "dohohenlimburgmarkt",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Shop the Hohenlimburg weekly market in Hagen",
+   "desc": "The Wochenmarkt Hohenlimburg takes place on Gaußstraße on Fridays 7:00-13:00, with regional produce stalls.",
+   "tip": "Pair it with a visit to Schloss Hohenlimburg.",
+   "q": "Wochenmarkt Hohenlimburg, Gaußstraße, Hohenlimburg, Hagen",
+   "ll": [
+    51.36,
+    7.59
+   ],
+   "src": [
+    "https://www.oeffnungszeitenbuch.de/filiale/Hagen-Wochenmarkt%2520Hagen-3709395O.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "doelbershallen",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Catch an event at the Elbershallen in Hagen",
+   "desc": "The Elbershallen is a leisure and culture factory in a former industrial building on Dödterstraße in Hagen, hosting concerts, parties and markets.",
+   "tip": "Check the programme before you go.",
+   "q": "Elbershallen, Dödterstraße 10, Hagen",
+   "ll": [
+    51.35301,
+    7.4799
+   ],
+   "src": [
+    "https://www.ruhr-tourismus.de/en/poi/elbershallen-freizeit-und-kulturfabrik/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "doherdeckealtstadt",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Wander the old town and Bachviertel of Herdecke",
+   "desc": "Herdecke's old town above the Ruhr has a pedestrian zone, small shops and cafes around the Bachviertel.",
+   "tip": "Walk down to the Ruhr bridge for the Harkortsee boat.",
+   "q": "Altstadt, Herdecke",
+   "ll": [
+    51.40193,
+    7.43038
+   ],
+   "src": [
+    "https://www.ruhr-tourismus.de/en/poi/altstadt-herdecke/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "dohoerdebeertour",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Follow the beer history tour in Dortmund-Hörde",
+   "desc": "A guided walk through Hörde tells how the district went from steel workers' after-work beer to craft beer, including tastings.",
+   "tip": "Book through the operator in advance.",
+   "q": "Hörde, Dortmund",
+   "ll": [
+    51.49046,
+    7.50094
+   ],
+   "src": [
+    "https://gokonfetti.com/en-us/e/hoerder-biergeschichten-vom-feierabendbier-zum-craft-beer-w0g3ox/"
+   ]
+  },
+  {
+   "id": "dogoldbergs",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have cake at Goldberg's Törtchen in Hagen",
+   "desc": "Goldberg's Törtchen at Goldbergstraße 4 serves cakes, tarts and waffles with coffee specialties, plus small lunches, with vegan choices.",
+   "tip": "Takeaway available; oat and almond milk on offer.",
+   "q": "Goldberg's Törtchen, Goldbergstraße 4, Hagen",
+   "ll": [
+    51.35698,
+    7.4722
+   ],
+   "src": [
+    "https://www.ruhr-tourismus.de/en/gastro/goldbergs-toertchen/"
+   ]
+  },
+  {
+   "id": "doraumcafe",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try creative cakes at raum cafe in Witten",
+   "desc": "raum cafe in Witten's Wiesenviertel is a coffeehouse known for creative cakes and specialty coffee.",
+   "tip": "Same address as Knut's at Wiesenstraße 25.",
+   "q": "raum cafe, Wiesenstraße 25, Witten",
+   "ll": [
+    51.43733,
+    7.33431
+   ],
+   "src": [
+    "https://www.ruhr-tourismus.de/en/gastro/raum-cafe/"
+   ]
+  },
+  {
+   "id": "doknutswitten",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat and hear live music at Knut's in Witten",
+   "desc": "Knut's is a restaurant and bar in Witten's Wiesenstraße with an unconventional menu and live music.",
+   "tip": "Check the events page for concert nights.",
+   "q": "Knut's, Wiesenstraße 25, Witten",
+   "ll": [
+    51.43732,
+    7.33416
+   ],
+   "src": [
+    "https://www.ruhr-tourismus.de/en/gastro/knuts/"
+   ]
+  },
+  {
+   "id": "doliebbar",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat organic at liebbar in Herdecke",
+   "desc": "liebbar is a cafe, restaurant and bar at Alte Stiftsstraße 4a with organic, vegan and regional dishes.",
+   "tip": "Good stop after the old town walk.",
+   "q": "liebbar, Alte Stiftsstraße 4a, Herdecke",
+   "ll": [
+    51.39987,
+    7.43134
+   ],
+   "src": [
+    "https://www.ruhr-tourismus.de/en/gastro/liebbar-herdecke/"
+   ]
+  },
+  {
+   "id": "dowunderlandhamm",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have coffee at Das Wunderland in Hamm",
+   "desc": "Das Wunderland at Martin-Luther-Straße 35 is a salon theatre and art cafe in Hamm.",
+   "tip": "Check opening and show dates.",
+   "q": "Das Wunderland, Martin-Luther-Straße 35, Hamm",
+   "ll": [
+    51.68,
+    7.81
+   ],
+   "src": [
+    "https://www.ruhr-tourismus.de/en/gastro/das-wunderland-salontheater-kunstcafe/"
+   ]
+  },
+  {
+   "id": "dobaristoteles",
+   "cat": "ye",
+   "area": "bochum",
+   "title": "Sip coffee at Baristoteles in Bochum",
+   "desc": "Baristoteles at Schlossstraße 1A is a cafe that doubles as an event space and coffee museum.",
+   "tip": "Try a pour-over.",
+   "q": "Baristoteles, Schlossstraße 1A, Bochum",
+   "ll": [
+    51.4478,
+    7.18928
+   ],
+   "src": [
+    "https://www.ruhr-tourismus.de/en/gastro/baristoteles/"
+   ]
+  },
+  {
+   "id": "doruhrfeuer",
+   "cat": "ye",
+   "area": "bochum",
+   "title": "Eat regional at Ruhrfeuer by the Jahrhunderthalle",
+   "desc": "Ruhrfeuer is a regional bistro in the Pumpenhaus next to the Jahrhunderthalle, with vegan and vegetarian options.",
+   "tip": "Pair with a stroll in the Westpark.",
+   "q": "Ruhrfeuer, Pumpenhaus, Gahlensche Straße, Bochum",
+   "ll": [
+    51.48174,
+    7.19779
+   ],
+   "src": [
+    "https://www.ruhr-tourismus.de/en/gastro/ruhrfeuer/"
+   ]
+  },
+  {
+   "id": "dofraeuleincoffea",
+   "cat": "ye",
+   "area": "bochum",
+   "title": "Take a long coffee break at Fräulein Coffea in Bochum",
+   "desc": "Fräulein Coffea at Oskar-Hoffmann-Straße 34 is a cake-focused cafe with a vintage interior.",
+   "tip": "Go for the cakes.",
+   "q": "Fräulein Coffea, Oskar-Hoffmann-Straße 34, Bochum",
+   "ll": [
+    51.47314,
+    7.21803
+   ],
+   "src": [
+    "https://www.ruhr-tourismus.de/en/gastro/fraeulein-coffea/"
+   ]
+  },
+  {
+   "id": "doblondies",
+   "cat": "ye",
+   "area": "bochum",
+   "title": "Eat vegan brunch at Blondies in Bochum",
+   "desc": "Blondies on Hattinger Straße 80 is a cafe, restaurant and bar with vegan, vegetarian and organic food.",
+   "tip": "Popular at weekends.",
+   "q": "Blondies, Hattinger Straße 80, Bochum",
+   "ll": [
+    51.47028,
+    7.21026
+   ],
+   "src": [
+    "https://www.ruhr-tourismus.de/en/gastro/blondies/"
+   ]
+  },
+  {
+   "id": "doomarosa",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order brunch at omarosa in Dortmund",
+   "desc": "omarosa is a brunch cafe on Chemnitzer Straße with its own pastry shop.",
+   "tip": "Arrive early at weekends.",
+   "q": "omarosa, Chemnitzer Straße, Dortmund",
+   "ll": [
+    51.513,
+    7.44
+   ],
+   "src": [
+    "https://www.ruhr-tourismus.de/en/gastro/omarosa/"
+   ]
+  },
+  {
+   "id": "dohofcafeunion",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sit in the courtyard at Hofcafe Unionsviertel",
+   "desc": "Hofcafe Unionsviertel at Huckarder Straße 10-12 is a courtyard cafe near Dortmund's centre.",
+   "tip": "Best in summer.",
+   "q": "Hofcafe Unionsviertel, Huckarder Straße 10-12, Dortmund",
+   "ll": [
+    51.516,
+    7.45
+   ],
+   "src": [
+    "https://www.ruhr-tourismus.de/en/gastro/hofcafe-unionsviertel/"
+   ]
+  },
+  {
+   "id": "dohikalle",
+   "cat": "ye",
+   "area": "bochum",
+   "title": "Grab cake and coffee at Hi Kalle in Bochum",
+   "desc": "Hi Kalle at Am Kortländer 2 is a small cafe with snacks, cakes and coffee.",
+   "tip": "Close to the Bermuda3Eck.",
+   "q": "Hi Kalle, Am Kortländer 2, Bochum",
+   "ll": [
+    51.48564,
+    7.2135
+   ],
+   "src": [
+    "https://www.ruhr-tourismus.de/en/gastro/hi-kalle/"
+   ]
+  }
+ ]
+}

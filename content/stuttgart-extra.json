@@ -1,0 +1,420 @@
+{
+ "new": [
+  {
+   "id": "stbiergartenschloss",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink a beer in the Biergarten im Schlossgarten",
+   "desc": "One of the largest and best-known beer gardens in Stuttgart, set among the trees of the Oberer Schlossgarten. Guides rank it first among the city's beer gardens and it holds around 2,000 guests.",
+   "tip": "Open in fine weather from spring to autumn; go on a warm evening and bring a group.",
+   "q": "Biergarten im Schloßgarten, Am Schloßgarten 18, Stuttgart-Mitte",
+   "ll": [
+    48.78438,
+    9.18571
+   ],
+   "src": [
+    "https://www.stuttgart-tourist.de/en/a-beer-garden-in-the-schlossgarten",
+    "https://inyourpocket.com/germany/stuttgart/venues/biergarten-im-schlogarten"
+   ]
+  },
+  {
+   "id": "stkatzenbacher",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat at the forest inn Katzenbacher Hof",
+   "desc": "Katzenbacher Hof is a forest inn near the Bärenseen and Büsnau on the western edge of Stuttgart, run for over 30 years as a beer garden and Ausflugslokal. It also has a winter hut with Eisstockschiessen.",
+   "tip": "Combine it with a walk around the Bärenseen; open daily from late morning.",
+   "q": "Katzenbacher Hof 1, Büsnau, Stuttgart-Vaihingen",
+   "ll": [
+    48.731,
+    9.079
+   ],
+   "src": [
+    "https://www.stuttgart-tourist.de/en/a-katzenbacher-hof",
+    "https://www.stuttgarter-zeitung.de/lokales/stuttgart/125-jahre-katzenbacher-hof-das-haus-im-wald-feiert-stillen-geburtstag-78936193.html"
+   ]
+  },
+  {
+   "id": "stdinkelacker",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink fresh Dinkelacker in its brewery tavern",
+   "desc": "The Brauereigaststätte Dinkelacker sits at the historic Dinkelacker brewery in Stuttgart-Süd and serves beer and hearty brewery-pub food in a traditional setting.",
+   "tip": "Open Tuesday to Saturday per the tourist board; confirm hours first.",
+   "q": "Brauereigaststätte Dinkelacker, Tübinger Straße 46, Stuttgart-Süd",
+   "ll": [
+    48.76783,
+    9.17046
+   ],
+   "src": [
+    "https://www.stuttgart-tourist.de/en/a-brauereigaststaette-dinkelacker"
+   ]
+  },
+  {
+   "id": "ststaeffelerest",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Swabian classics at Stuttgarter Stäffele",
+   "desc": "A long-running Swabian restaurant in Stuttgart-Süd, serving traditional dishes from regional ingredients for over 50 years according to the tourist board. Maultaschen and Zwiebelrostbraten are the dishes to look for.",
+   "tip": "Book for evenings; opening hours differ between sources, so check ahead.",
+   "q": "Stuttgarter Stäffele, Buschlestraße 2A, Stuttgart-Süd",
+   "ll": [
+    48.77127,
+    9.16676
+   ],
+   "src": [
+    "https://www.stuttgart-tourist.de/en/a-stuttgarter-staeffele",
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/stuttgart/stuttgarter-staeffele/"
+   ]
+  },
+  {
+   "id": "stdoendoen",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try a vegan döner at Doen Doen Kebap",
+   "desc": "Doen Doen is a vegan kebab shop in central Stuttgart whose plant-based döner is ranked among the best in the city by vegan guides. It also has a branch at Marienplatz.",
+   "tip": "Order the vegan döner; open roughly 11:30 to 21:00 daily.",
+   "q": "Doen Doen Kebap, Josef-Hirn-Platz 8, Stuttgart-Mitte",
+   "ll": [
+    48.77287,
+    9.17763
+   ],
+   "src": [
+    "https://www.stuttgart-tourist.de/en/a-doen-doen-planted-kebap",
+    "https://spinach.guide/venues/doen-doen-kebap-stuttgart-sud-35689/"
+   ]
+  },
+  {
+   "id": "stcafegustav",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have brunch at Café Gustav in Stuttgart-West",
+   "desc": "Gustav Café & Bar on Schwabstraße is a popular all-day café in Stuttgart-West with a backyard and a menu with many vegan dishes, including a vegan breakfast box for two.",
+   "tip": "Open Tuesday to Sunday; weekend brunch fills up, so arrive early.",
+   "q": "Café Gustav, Schwabstraße 47, Stuttgart-West",
+   "ll": [
+    48.77116,
+    9.15751
+   ],
+   "src": [
+    "https://www.stuttgart-tourist.de/en/a-cafe-gustav",
+    "https://selection-magazin.de/en/cafe-gustav/"
+   ]
+  },
+  {
+   "id": "stknausbira",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Maultaschen at Knausbira Stüble in Hedelfingen",
+   "desc": "A neighbourhood Weinstube at Heumadener Straße 15 in Stuttgart-Hedelfingen. It serves Swabian classics such as Zwiebelrostbraten and Kässpätzle and sells homemade Maultaschen to take home.",
+   "tip": "Closed Sunday and Monday per listings; book for dinner.",
+   "q": "Knausbira Stüble, Heumadener Straße 15, Hedelfingen, Stuttgart",
+   "ll": [
+    48.75787,
+    9.25458
+   ],
+   "src": [
+    "https://www.stuttgart-tourist.de/en/a-knausbira-stueble",
+    "https://www.stuttgarter-zeitung.de/lokales/stuttgart/geschichten-zur-heumadener-strasse-auf-den-spuren-der-knausbira-79004221.html"
+   ]
+  },
+  {
+   "id": "sthoehenfreibad",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Swim at the Höhenfreibad Killesberg",
+   "desc": "The Höhenfreibad Killesberg is one of Stuttgart's five city-run outdoor pools, on the hill above the city near the Killesberg park. The season runs roughly from early May to mid September.",
+   "tip": "Entry was about 5.50 euros for adults; open from about 7:00 on weekdays and 9:00 at weekends.",
+   "q": "Höhenfreibad Killesberg, Stresemannstraße, Stuttgart-Nord",
+   "ll": [
+    48.80652,
+    9.1757
+   ],
+   "src": [
+    "https://www.stuttgart.de/pressemitteilungen/2023/september/freibadsaison-in-sillenbuch-auf-dem-killesberg-und-im-inselbad-endet-am-10.september-rosental-verlaengert-bis-12.september-hallenbaeder-oeffnen-ab-19.september"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "stinselbad",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Swim in the Neckar-side Inselbad Untertürkheim",
+   "desc": "The Inselbad Untertürkheim is a city outdoor pool in Untertürkheim by the Neckar, with lawns under old trees. Stuttgarter Zeitung describes it as one of the most relaxed pools in the city.",
+   "tip": "Typically opens mid May and closes mid September; about 5.50 euros for adults.",
+   "q": "Inselbad Untertürkheim, Inselstraße, Untertürkheim, Stuttgart",
+   "ll": [
+    48.77872,
+    9.24637
+   ],
+   "src": [
+    "https://www.stuttgart.de/pressemitteilungen/2023/september/freibadsaison-in-sillenbuch-auf-dem-killesberg-und-im-inselbad-endet-am-10.september-rosental-verlaengert-bis-12.september-hallenbaeder-oeffnen-ab-19.september",
+    "https://www.stuttgarter-zeitung.de/lokales/stuttgart/sommer-in-stuttgarts-freibaedern-wie-im-urlaub-entspanntes-schwimmen-im-inselbad-und-bad-berg-78941733.html"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "stneckarkaeptn",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cruise the Neckar with the Neckar-Käpt'n",
+   "desc": "Neckar-Käpt'n boats run from the pier opposite the Wilhelma in Bad Cannstatt, with tours to Max-Eyth-See and up the river towards Besigheim. The fleet carried about 85,000 passengers in 2023.",
+   "tip": "Check the current timetable; the Baden-Württemberg-Ticket is valid for groups.",
+   "q": "Neckar-Käpt'n Anlegestelle Wilhelma, Bad Cannstatt, Stuttgart",
+   "ll": [
+    48.80307,
+    9.20834
+   ],
+   "src": [
+    "https://www.stuttgart-tourist.de/en/a-neckar-cruise-on-the-neckar-kaeptn-stuttgart",
+    "https://www.stuttgarter-zeitung.de/lokales/stuttgart/neckar-personenschifffahrt-neckar-kaept-n-startet-mit-sparkurs-in-saison-78982360.html"
+   ]
+  },
+  {
+   "id": "stvels",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Climb at the VELS Boulderhalle",
+   "desc": "VELS is a large bouldering hall in Stuttgart with about 1,600 square metres on two floors and over 300 marked problems.",
+   "tip": "Bring climbing shoes or rent them; weekday afternoons are quieter.",
+   "q": "VELS Boulderhalle, Handwerkstraße 21, Stuttgart",
+   "ll": [
+    48.71915,
+    9.12833
+   ],
+   "src": [
+    "https://www.stuttgart-tourist.de/en/a-vels-die-boulderhalle-in-stuttgart"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "stwizemann",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "See a concert at Im Wizemann",
+   "desc": "Im Wizemann is a converted industrial hall in Stuttgart-Nord that works as a concert venue and cultural space, with a Halle, a Club and a Studio for national and international acts.",
+   "tip": "Check the programme and buy tickets in advance.",
+   "q": "Im Wizemann, Quellenstraße 7, Stuttgart-Nord",
+   "ll": [
+    48.80799,
+    9.20033
+   ],
+   "src": [
+    "https://rausgegangen.de/en/stuttgart/category/concerts-and-music",
+    "https://festivaly.eu/mista/a/stuttgart"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "stbachofer",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at the Michelin-listed Bachofer in Waiblingen",
+   "desc": "Restaurant Bachofer in Waiblingen is a fine-dining address listed with a Michelin star by guides. It is among the best-known restaurants in the Rems valley.",
+   "tip": "Expensive; book ahead, especially at weekends.",
+   "q": "Restaurant Bachofer, Waiblingen",
+   "ll": [
+    48.83229,
+    9.31658
+   ],
+   "src": [
+    "https://www.enprimeurclub.com/restaurants/bachofer-waiblingen-restaurant",
+    "https://viamichelin.fr/web/Recherche_Restaurant/Waiblingen-71332-Bachofer-2q40q6n"
+   ]
+  },
+  {
+   "id": "sttroepfle",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Swabian at Gasthof zum guten Tröpfle in Korb",
+   "desc": "A traditional Swabian inn in the Kleinheppach district of Korb, in the Rems valley, listed on Waiblingen restaurant guides for hearty regional food.",
+   "tip": "Reached by bus 209 from Waiblingen; check opening days first.",
+   "q": "Gasthof zum guten Tröpfle, Schulstraße 14, Kleinheppach, Korb",
+   "ll": [
+    48.82898,
+    9.37417
+   ],
+   "src": [
+    "https://freizeitmonster.de/gastronomie/biergaerten/gasthof-zum-guten-troepfle-176777",
+    "https://dinogo.com/hotels/661517-gasthof-zum-guten-tropfle"
+   ]
+  },
+  {
+   "id": "stlell",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Hohenlohe cooking at Landgasthof Lell",
+   "desc": "A country inn in Künzelsau-Belsenberg in the Hohenlohekreis, serving seasonal regional dishes with a sunny terrace. Hohenlohe is known for its Schwäbisch-Hällisches Landschwein.",
+   "tip": "Closed Wednesdays per listings; confirm before going.",
+   "q": "Landgasthof Lell, Leimengrube 5, Belsenberg, Künzelsau",
+   "ll": [
+    49.30548,
+    9.68514
+   ],
+   "src": [
+    "https://www.kurzurlaub.de/hotel/franken_baden_wuerttemberg/kuenzelsau/landgasthof-lell.html",
+    "https://www.verwoehnwochenende.de/kurzurlaub/hotel/landgasthof-lell-2249"
+   ]
+  },
+  {
+   "id": "stcafeameck",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Black Forest cake at Café am Eck, Baiersbronn",
+   "desc": "Café am Eck in Baiersbronn is named by the Black Forest tourist board among places that make and teach the Schwarzwälder Kirschtorte. By law the cake must contain Kirschwasser.",
+   "tip": "Ask about the cake course; the café is on Freudenstädter Straße.",
+   "q": "Café am Eck, Freudenstädter Straße 20, Baiersbronn",
+   "ll": [
+    48.50763,
+    8.37065
+   ],
+   "src": [
+    "https://www.schwarzwald-tourismus.info/anmeldungen/dorfurlaub/kulinarik/genuss-erlebnisse/erlebnistipps-rund-um-die-kirsche",
+    "https://web2.cylex.de/firma-home/caf%C3%A9-am-eck-2850179.html"
+   ]
+  },
+  {
+   "id": "stfildorado",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim and slide at Fildorado in Filderstadt",
+   "desc": "Fildorado in Bonlanden is the Filder plateau's sports and adventure pool, with swimming, slides and a spa area.",
+   "tip": "Weekday mornings are calmer; check opening times.",
+   "q": "Fildorado, Mahlestraße 50, Bonlanden, Filderstadt",
+   "ll": [
+    48.65083,
+    9.20932
+   ],
+   "src": [
+    "https://freizeitinsider.de/angebot/fildorado/",
+    "https://german-architects.com/en/k-t-p-kauffmann-theilig-and-partner-ostfildern-kemnat/project/sport-and-adventure-pool-fildorado"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "stmurrbaeder",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim at the Murrbäder in Backnang",
+   "desc": "The Murrbäder Backnang is a combined indoor and mineral outdoor pool complex in Backnang, operated as a Wonnemar bath.",
+   "tip": "The outdoor mineral pool is a summer option; check season dates.",
+   "q": "Murrbäder Backnang, Martin-Dietrich-Allee 10, Backnang",
+   "ll": [
+    48.95211,
+    9.45576
+   ],
+   "src": [
+    "https://www.swimmersguide.com/locations/22840",
+    "https://www.schwimmbadcheck.de/en/backnang/mineralfreibad-backnang.html"
+   ]
+  },
+  {
+   "id": "stklostersee",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Stroll round the Klostersee in Sindelfingen",
+   "desc": "The Klostersee is a lake of about 1.9 hectares a short walk from Sindelfingen's centre, next to the Sommerhofenpark. It is popular for walks from May to September.",
+   "tip": "Combine with the old town; free to enter.",
+   "q": "Klostersee, Sindelfingen",
+   "ll": [
+    48.71214,
+    9.00297
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/10294460/klostersee-park",
+    "https://blog.komoot.de/guide/223318/lakes-around-sindelfingen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sthoelderlinhaus",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Hölderlinhaus in Nürtingen",
+   "desc": "The Hölderlinhaus on the Schlossberg in Nürtingen is linked to the poet Friedrich Hölderlin, who grew up in the town. It was reopened in April 2023 after redesign and has a courtyard café.",
+   "tip": "Combine it with the Laurentiuskirche tower on the same hill.",
+   "q": "Hölderlinhaus, Schloßgartenstraße 2, Nürtingen",
+   "ll": [
+    48.627,
+    9.338
+   ],
+   "src": [
+    "https://www.ntz.de/mehr/themen/hoelderlinhaus",
+    "https://de.wikivoyage.org/wiki/N%C3%BCrtingen"
+   ]
+  },
+  {
+   "id": "stkaltenstein",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb up to Kaltenstein Castle, Vaihingen an der Enz",
+   "desc": "Kaltenstein Castle towers over Vaihingen an der Enz and was once a seat of the counts of Vaihingen. It is the town's landmark above the Enz.",
+   "tip": "Walk up from the old town and combine with the town trail.",
+   "q": "Burg Kaltenstein, Vaihingen an der Enz",
+   "ll": [
+    48.93113,
+    8.95462
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Vaihingen_an_der_Enz",
+    "https://www.stuttgart-tourist.de/en/a-vaihingen-an-der-enz"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "stmichaelskirche",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Michaelskirche above Waiblingen",
+   "desc": "The Michaelskirche is a Gothic church built between 1470 and 1480 and is the main Protestant church of Waiblingen. It stands on a hill by the smaller Nonnenkirchle.",
+   "tip": "A short walk from the old town; the hill gives views over the Rems.",
+   "q": "Michaelskirche, Kirchhöfle, Waiblingen",
+   "ll": [
+    48.83037,
+    9.31737
+   ],
+   "src": [
+    "https://www.mycityhunt.co.uk/cities/waiblingen-de-3971/poi/michaelskirche-waiblingen-27534"
+   ]
+  },
+  {
+   "id": "stbacknangstift",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Stiftskirche St. Pankratius in Backnang",
+   "desc": "The Stiftskirche in Backnang was a burial site of the Margraves of Baden, and its crypt holds the coffin of Margrave Hermann II, who died in 1130. The old Gothic choir is part of the neighbouring Stadtturm.",
+   "tip": "Part of a historic walk along the Deutsche Fachwerkstraße.",
+   "q": "Stiftskirche St. Pankratius, Stiftshof, Backnang",
+   "ll": [
+    48.9461,
+    9.43215
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Backnang",
+    "https://www.deutsche-fachwerkstrasse.de/en/Routes_Cities/From-the-River-Neckar-to-the-Black-Forest-and-Lake-Constance/Backnang.html"
+   ]
+  }
+ ]
+}

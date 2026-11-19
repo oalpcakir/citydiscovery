@@ -1,0 +1,917 @@
+{
+ "new": [
+  {
+   "id": "dosignaliduna",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Feel the Yellow Wall at Signal Iduna Park",
+   "desc": "Borussia Dortmund's home ground holds about 81,000 spectators and is the largest football stadium in Germany. Its south stand, the Südtribüne, is Europe's biggest standing terrace with some 25,000 places.",
+   "tip": "Stadium tours of about 90 minutes run on non-match days and take in the tunnel and dressing rooms; book ahead.",
+   "q": "Signal Iduna Park, Strobelallee 50, Dortmund",
+   "ll": [
+    51.49264,
+    7.45186
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Signal_Iduna_Park"
+   ]
+  },
+  {
+   "id": "dofussballmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore the German Football Museum",
+   "desc": "The national football museum of the German FA opened in 2015 opposite Dortmund's main station. Exhibits run from the 1954 World Cup win to the present, with trophies, shirts and interactive stations.",
+   "tip": "Allow two to three hours and book online. The Dortmunder U is a short walk away.",
+   "q": "Deutsches Fußballmuseum, Platz der Deutschen Einheit 1, Dortmund",
+   "ll": [
+    51.51623,
+    7.45792
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/German_Football_Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "dozollern",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Tour Zeche Zollern, the palace of work",
+   "desc": "Zeche Zollern II/IV in Bövinghausen was built from 1898 as a showcase colliery and is now an LWL industrial museum. Its machine hall has a Jugendstil entrance portal and is one of the best-known industrial monuments in the Ruhr.",
+   "tip": "Closed on Mondays. Take a guided tour to see the pit baths and the winding towers.",
+   "q": "LWL-Industriemuseum Zeche Zollern, Grubenweg 5, Bövinghausen, Dortmund",
+   "ll": [
+    51.51797,
+    7.33469
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Zollern_Colliery",
+    "https://de.wikipedia.org/wiki/Zeche_Zollern"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "dohansa",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk the Kokerei Hansa coking plant",
+   "desc": "The Kokerei Hansa in Huckarde was a coking plant built in 1927-28 and closed in 1992, and is a protected industrial monument. Visitors walk through the coal tower, pipe corridors and machine house.",
+   "tip": "Guided tours and a trail exist; check the Industriedenkmalstiftung page for current opening days.",
+   "q": "Kokerei Hansa, Emscherallee 11, Huckarde, Dortmund",
+   "ll": [
+    51.5439,
+    7.40988
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kokerei_Hansa"
+   ]
+  },
+  {
+   "id": "dophoenixsee",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Circle the Phoenix-See lake in Hörde",
+   "desc": "The Phoenix-See is a 24-hectare artificial lake built on the former Phoenix-Ost steelworks site and opened in 2011. A loop path of about 3 km runs around it, with a harbour, restaurants and rental boats in season.",
+   "tip": "Walk the loop at sunset; pedal and rowing boats are rented in the warmer months.",
+   "q": "Phoenix-See, Hörde, Dortmund",
+   "ll": [
+    51.48933,
+    7.51413
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Phoenix_Lake"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "dodortmunderu",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Take in art and views at the Dortmunder U",
+   "desc": "The Dortmunder U is the former Union brewery's tower, now a cultural centre with the Museum Ostwall and a gold-lit U on top. A roof terrace gives a view over the city.",
+   "tip": "Check opening times for the museum; the U lights up at night and is best seen from the Hauptbahnhof side.",
+   "q": "Dortmunder U, Leonie-Reygers-Terrasse, Dortmund",
+   "ll": [
+    51.51454,
+    7.45478
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Dortmunder_U"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "doflorianturm",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Ride up the Florianturm in Westfalenpark",
+   "desc": "The Florianturm, 220 metres high, was Germany's tallest telecommunications tower when built in 1959 and is the landmark of Westfalenpark. A viewing platform gives a view over the Ruhr area.",
+   "tip": "Entry to Westfalenpark is paid in season. Visit in clear weather for the long view.",
+   "q": "Florianturm, Westfalenpark, Strobelallee, Dortmund",
+   "ll": [
+    51.49662,
+    7.47659
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Florianturm"
+   ]
+  },
+  {
+   "id": "dowestfalenpark",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Stroll Westfalenpark and its rose garden",
+   "desc": "Westfalenpark is a 70-hectare park created for the 1959 Federal Garden Show, with rose gardens, a chair lift and open-air events. In autumn the Lichterfest fills it with lanterns.",
+   "tip": "Evening light and the Lichterfest make it worth a second visit.",
+   "q": "Westfalenpark, Rheinlanddamm 200, Dortmund",
+   "ll": [
+    51.4964,
+    7.478
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Westfalenpark"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "doreinoldikirche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Reinoldikirche in the Old Town",
+   "desc": "St. Reinold's is the oldest main church in Dortmund, with a late Romanesque nave and a Gothic choir. It stands on the medieval Hellweg trade route.",
+   "tip": "Free to enter; the tower is lit at night.",
+   "q": "Reinoldikirche, Ostenhellweg, Dortmund",
+   "ll": [
+    51.51474,
+    7.46765
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/St._Reinoldi_(Dortmund)"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "domarienkirche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Berswordt altar in St. Mary's church",
+   "desc": "The Marienkirche is a Romanesque church from the 12th century that holds the 1420 Berswordt altarpiece by Conrad von Soest. It is among the oldest preserved churches in central Dortmund.",
+   "tip": "Opening times are limited; check the parish website.",
+   "q": "St. Marien, Kleppingstraße, Dortmund",
+   "ll": [
+    51.51407,
+    7.46547
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/St._Marien_(Dortmund)"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "dopetrikirche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the Goldaltar of St. Petri",
+   "desc": "The Petrikirche houses the Goldene Wunder von Dortmund, a large Flemish Gothic altarpiece from about 1521 with some 633 figures.",
+   "tip": "The altar's doors are opened at set times each day; check the parish page.",
+   "q": "St. Petri, Westenhellweg, Dortmund",
+   "ll": [
+    51.5142,
+    7.4615
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/St._Petri_(Dortmund)"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "dohohensyburg",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb to Hohensyburg and the Vincketurm",
+   "desc": "The Hohensyburg ridge above the Ruhr and Lenne valleys has medieval castle ruins, the Vincketurm and the Kaiser-Wilhelm monument. A casino also sits on the hill.",
+   "tip": "Walk up to the ruins for the view over the Hengstey and Harkort lakes.",
+   "q": "Hohensyburg, Syburger Dorfstraße, Dortmund",
+   "ll": [
+    51.42135,
+    7.49607
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Hohensyburg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "dorombergpark",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk through the Rombergpark botanical garden",
+   "desc": "The Rombergpark is a botanical garden and arboretum known for its rhododendron and magnolia collections. It borders the Zoo and the Phoenix area.",
+   "tip": "Entry is free; visit in May for the rhododendron bloom.",
+   "q": "Rombergpark, Am Rombergpark 49b, Dortmund",
+   "ll": [
+    51.47946,
+    7.46898
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Rombergpark"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "dozoo",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Visit Zoo Dortmund",
+   "desc": "Zoo Dortmund opened in 1953 and houses over 1,000 animals from more than 200 species. It is known for its South American animals.",
+   "tip": "Combine with a walk in the neighbouring Rombergpark.",
+   "q": "Zoo Dortmund, Mergelteichstraße 80, Dortmund",
+   "ll": [
+    51.47282,
+    7.47091
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Zoo_Dortmund"
+   ]
+  },
+  {
+   "id": "dobrauereimuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Learn about Pils at the Dortmund Brewery Museum",
+   "desc": "The Brauerei-Museum tells the story of Dortmund as a beer city, with historic brewing equipment. The Hansa Pils dates back to 1902.",
+   "tip": "Check opening hours (Thursday late opening until 20:00 was listed).",
+   "q": "Brauerei-Museum, Steigerstraße 16, Dortmund",
+   "ll": [
+    51.5294,
+    7.46748
+   ],
+   "src": [
+    "https://www.ruhr-tourismus.de/en/poi/brauerei-museum/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "dohoevels",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink Hövels Original at the Hausbrauerei",
+   "desc": "Hövels Hausbrauerei at Hoher Wall serves its own beer and hearty German dishes. It is a classic Dortmund brewpub, open daily from 11:00 until late.",
+   "tip": "Good for groups; try the house beer with a Schnitzel.",
+   "q": "Hövels Hausbrauerei, Hoher Wall 5-7, Dortmund",
+   "ll": [
+    51.51247,
+    7.45854
+   ],
+   "src": [
+    "https://www.golocal.de/dortmund/restaurants-gaststaetten/hoevels-hausbrauerei-zOGV/"
+   ]
+  },
+  {
+   "id": "dowenkers",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order a Pils at Wenkers am Markt",
+   "desc": "Wenkers am Markt is a brewery restaurant on the Markt in the Old Town, listed among the city's popular brewpubs. It serves local beer with regional dishes.",
+   "tip": "Sit outside on the market square in summer.",
+   "q": "Wenkers am Markt, Markt, Dortmund",
+   "ll": [
+    51.5135,
+    7.4683
+   ],
+   "src": [
+    "https://www.milehacker.com/travel/germany/north-rhine-westphalia/dortmund/best-restaurants-in-dortmund-food-dining-local-cui/"
+   ]
+  },
+  {
+   "id": "dokieztoertchen",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have breakfast at Kieztörtchen in the Kreuzviertel",
+   "desc": "Kieztörtchen is a bakery-café in the Kreuzviertel, recommended by a local expert as a breakfast favourite. The district is one of the most popular for cafés and bars.",
+   "tip": "Come before 11 for a quiet table; try a Törtchen with coffee.",
+   "q": "Kieztörtchen, Kreuzviertel, Dortmund",
+   "ll": [
+    51.50354,
+    7.45354
+   ],
+   "src": [
+    "https://www.22places.com/dortmund-travel-guide/"
+   ]
+  },
+  {
+   "id": "doweihnachtsmarkt",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Dortmund Christmas Market and giant tree",
+   "desc": "The Dortmund Weihnachtsmarkt centres on a tree of about 45 metres made from some 1,700 spruces on Hansaplatz. It is among the largest Christmas markets in Germany.",
+   "tip": "Go on a weekday evening to avoid the crowds.",
+   "q": "Weihnachtsmarkt Hansaplatz, Dortmund",
+   "ll": [
+    51.51297,
+    7.46458
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Dortmunder_Weihnachtsmarkt"
+   ],
+   "months": [
+    11,
+    12
+   ]
+  },
+  {
+   "id": "dohafen",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Wander the Dortmund harbour and Speicherstraße",
+   "desc": "Dortmund's canal harbour at the end of the Dortmund-Ems Canal is Europe's largest canal harbour. The old warehouses along Speicherstraße now hold offices and a few places to eat.",
+   "tip": "Evenings give good photo light.",
+   "q": "Hafen Dortmund, Speicherstraße, Dortmund",
+   "ll": [
+    51.52646,
+    7.44705
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Port_of_Dortmund"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "dokonzerthaus",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Catch a concert at the Konzerthaus Dortmund",
+   "desc": "The Konzerthaus Dortmund opened in 2002 and hosts the Dortmund Philharmonic and international orchestras. It is known for its acoustics.",
+   "tip": "Book tickets online ahead.",
+   "q": "Konzerthaus Dortmund, Brückstraße 21, Dortmund",
+   "ll": [
+    51.51627,
+    7.46658
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Konzerthaus_Dortmund"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "dowestfalenhallen",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Catch an event at the Westfalenhallen",
+   "desc": "The Westfalenhallen complex dates from 1925 and hosts concerts, fairs and sports events. It is a long-standing Dortmund event venue.",
+   "tip": "Check the event calendar.",
+   "q": "Westfalenhallen Dortmund, Rheinlanddamm 200, Dortmund",
+   "ll": [
+    51.49721,
+    7.4508
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Westfalenhallen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "dodasa",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See working life at DASA Arbeitswelt Ausstellung",
+   "desc": "DASA is a museum in Dortmund about work, with exhibits on technology and working conditions.",
+   "tip": "Hands-on exhibits suit a rainy day; check admission hours.",
+   "q": "DASA Arbeitswelt Ausstellung, Friedrich-Henkel-Weg 1-25, Dortmund",
+   "ll": [
+    51.49826,
+    7.42076
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/DASA_Arbeitswelt_Ausstellung"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "dohoeschpark",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Run or cycle in Hoeschpark",
+   "desc": "Hoeschpark in the north-east of Dortmund is a large green space with a stadium and many sports facilities.",
+   "tip": "A good place for a jog or a picnic.",
+   "q": "Hoeschpark, Dortmund",
+   "ll": [
+    51.52674,
+    7.49273
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Hoeschpark"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "doschlossbodelschwingh",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit Schloss Bodelschwingh",
+   "desc": "Schloss Bodelschwingh is a moated castle of the 16th century in the Dortmund district of Bodelschwingh, surrounded by a park.",
+   "tip": "The grounds are open at set times.",
+   "q": "Schloss Bodelschwingh, Bodelschwingher Straße, Dortmund",
+   "ll": [
+    51.54866,
+    7.36257
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Bodelschwingh"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "doopernhaus",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "See a show at the Opernhaus Dortmund",
+   "desc": "The Dortmund Opera House on Platz von Leeds opened in 1966 and stages opera and ballet.",
+   "tip": "Buy tickets in advance for popular performances.",
+   "q": "Opernhaus Dortmund, Platz von Leeds, Dortmund",
+   "ll": [
+    51.51098,
+    7.46176
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Opernhaus_Dortmund"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "dobergbaumuseum",
+   "cat": "gor",
+   "area": "bochum",
+   "title": "Go down the mine at the Deutsches Bergbau-Museum",
+   "desc": "The Deutsches Bergbau-Museum is one of the world's largest mining museums, with a demonstration mine below the building. The Malakow tower on top gives a view over Bochum.",
+   "tip": "Allow several hours; the lookout is reached by lift.",
+   "q": "Deutsches Bergbau-Museum Bochum, Am Bergbaumuseum 28, Bochum",
+   "ll": [
+    51.48863,
+    7.21641
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/German_Mining_Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "dostarlightexpress",
+   "cat": "dene",
+   "area": "bochum",
+   "title": "Watch Starlight Express in its own Bochum theatre",
+   "desc": "Starlight Express by Andrew Lloyd Webber has run in Bochum since 1988 in a theatre built for it. It is one of the longest-running musicals in the world.",
+   "tip": "Book ahead; shows run mostly Tuesday to Sunday.",
+   "q": "Starlight Express Theater, Stadionring 24, Bochum",
+   "ll": [
+    51.49268,
+    7.2342
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Starlight_Express"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "dobermuda3eck",
+   "cat": "dene",
+   "area": "bochum",
+   "title": "Go out in the Bermuda3Eck",
+   "desc": "The Bermuda3Eck is Bochum's pub and club district around Kortumstraße and Brüderstraße, with dozens of bars.",
+   "tip": "Go after 9pm on weekends; start with a beer on Kortumstraße.",
+   "q": "Bermuda3Eck, Kortumstraße, Bochum",
+   "ll": [
+    51.4784,
+    7.2165
+   ],
+   "src": [
+    "https://www.ruhr-tourismus.de/en/poi/bermuda3eck/"
+   ]
+  },
+  {
+   "id": "dodoenninghaus",
+   "cat": "ye",
+   "area": "bochum",
+   "title": "Eat a Dönninghaus Currywurst",
+   "desc": "Dönninghaus is a cult currywurst address in the heart of Bochum's pub district, tied in tourism material to Herbert Grönemeyer's 'Currywurst' song.",
+   "tip": "Open late; order it with fries.",
+   "q": "Dönninghaus Currywurst, Kortumstraße, Bochum",
+   "ll": [
+    51.48095,
+    7.21937
+   ],
+   "src": [
+    "https://inyourpocket.com/bochum/dnninghaus_25427v"
+   ]
+  },
+  {
+   "id": "doplanetarium",
+   "cat": "gor",
+   "area": "bochum",
+   "title": "See a show at the Zeiss Planetarium",
+   "desc": "The Zeiss Planetarium Bochum is a planetarium in the Stadtpark with a Zeiss projector and a regular programme of astronomy shows.",
+   "tip": "Check the show schedule online.",
+   "q": "Zeiss Planetarium Bochum, Castroper Straße 67, Bochum",
+   "ll": [
+    51.48545,
+    7.22771
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Zeiss-Planetarium_Bochum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "dojahrhunderthalle",
+   "cat": "gor",
+   "area": "bochum",
+   "title": "See the Jahrhunderthalle",
+   "desc": "The Jahrhunderthalle is a steel hall from 1902 originally built for the Düsseldorf exhibition and moved to Bochum, now a venue for the Ruhrtriennale and concerts.",
+   "tip": "Visit during an event or walk the Westpark around it.",
+   "q": "Jahrhunderthalle Bochum, An der Jahrhunderthalle 1, Bochum",
+   "ll": [
+    51.48176,
+    7.19735
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Jahrhunderthalle_Bochum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "dowestpark",
+   "cat": "dene",
+   "area": "bochum",
+   "title": "Walk the Westpark around the Jahrhunderthalle",
+   "desc": "The Westpark Bochum is a park on the grounds of the former Bochumer Verein steelworks, with a pond and paths around the Jahrhunderthalle.",
+   "tip": "Free to enter; combine with the Jahrhunderthalle.",
+   "q": "Westpark Bochum, An der Jahrhunderthalle, Bochum",
+   "ll": [
+    51.48061,
+    7.19715
+   ],
+   "src": [
+    "https://www.mvp.de/bochum/entdecken/westpark-bochum/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "dokemnadersee",
+   "cat": "dene",
+   "area": "bochum",
+   "title": "Walk or sail at Kemnader See",
+   "desc": "Kemnader See is a reservoir on the Ruhr between Bochum and Witten with a walking and cycling loop, boat rentals and cafés.",
+   "tip": "Rent a boat or cycle the Ruhrtalradweg.",
+   "q": "Kemnader See, Bochum",
+   "ll": [
+    51.4255,
+    7.26784
+   ],
+   "src": [
+    "https://www.ruhrtalradweg.de/en/the-ruhrtalradweg/stops-along-the-ruhrtalradweg/bochum"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "dohauskemnade",
+   "cat": "gor",
+   "area": "bochum",
+   "title": "Visit the moated Haus Kemnade",
+   "desc": "Haus Kemnade is a medieval moated castle on the Ruhr by the Kemnader See, now a museum and restaurant.",
+   "tip": "Combine with a walk around the lake.",
+   "q": "Haus Kemnade, Kemnader Straße, Bochum",
+   "ll": [
+    51.4077,
+    7.2495
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Haus_Kemnade"
+   ]
+  },
+  {
+   "id": "doeisenbahnmuseum",
+   "cat": "gor",
+   "area": "bochum",
+   "title": "See steam locomotives at the Eisenbahnmuseum Dahlhausen",
+   "desc": "The Eisenbahnmuseum Bochum-Dahlhausen is a railway museum in a former locomotive depot with steam locomotives and carriages. It is open from March to mid-November.",
+   "tip": "Open Tuesday to Friday and Sunday in season.",
+   "q": "Eisenbahnmuseum Bochum, Dr.-C.-Otto-Straße 191, Bochum",
+   "ll": [
+    51.43316,
+    7.12625
+   ],
+   "src": [
+    "https://maps.adac.de/poi/bochum-dahlhausen-railway-museum-oben-im-eiberg-1-1"
+   ],
+   "months": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "id": "dozechehannover",
+   "cat": "gor",
+   "area": "bochum",
+   "title": "Tour Zeche Hannover, the LWL mining museum",
+   "desc": "Zeche Hannover in Hordel is an LWL industrial museum in a former coal mine, showing miners' daily life.",
+   "tip": "Check the LWL site for tours and opening days.",
+   "q": "LWL-Industriemuseum Zeche Hannover, Günnigfelder Straße 251, Bochum",
+   "ll": [
+    51.50456,
+    7.16483
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Zeche_Hannover_(Bochum)"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "dokunstmuseum",
+   "cat": "gor",
+   "area": "bochum",
+   "title": "Spend an hour at the Kunstmuseum Bochum",
+   "desc": "The Kunstmuseum Bochum shows modern and contemporary art with a focus on the post-war period.",
+   "tip": "Check opening days.",
+   "q": "Kunstmuseum Bochum, Kortumstraße 147, Bochum",
+   "ll": [
+    51.48737,
+    7.22108
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kunstmuseum_Bochum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "dostiepel",
+   "cat": "gor",
+   "area": "bochum",
+   "title": "Walk to the Stiepeler Dorfkirche above the Ruhr",
+   "desc": "Stiepel is a village district of Bochum with a Romanesque village church and the Kloster Stiepel above the Ruhr.",
+   "tip": "Free to wander; the church has set opening hours.",
+   "q": "Stiepeler Dorfkirche, Brockhauser Straße, Bochum",
+   "ll": [
+    51.41654,
+    7.23536
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Stiepeler_Dorfkirche"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "dobotgarten",
+   "cat": "dene",
+   "area": "bochum",
+   "title": "Visit the Botanical Garden of Ruhr University",
+   "desc": "The Botanischer Garten der Ruhr-Universität Bochum is a university garden with themed plant collections.",
+   "tip": "Entry is free.",
+   "q": "Botanischer Garten, Universitätsstraße 150, Bochum",
+   "ll": [
+    51.44349,
+    7.26569
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Botanischer_Garten_der_Ruhr-Universit%C3%A4t_Bochum"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "dozechebochum",
+   "cat": "dene",
+   "area": "bochum",
+   "title": "Catch a concert at Zeche Bochum",
+   "desc": "Zeche Bochum is a music and event venue on Prinz-Regent-Straße with a rock and party programme.",
+   "tip": "Check the programme online.",
+   "q": "Zeche Bochum, Prinz-Regent-Straße 50-60, Bochum",
+   "ll": [
+    51.45107,
+    7.21823
+   ],
+   "src": [
+    "https://www.ruhr-tourismus.de/en/poi/bermuda3eck/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "doschauspielhaus",
+   "cat": "dene",
+   "area": "bochum",
+   "title": "See a play at the Schauspielhaus Bochum",
+   "desc": "The Schauspielhaus Bochum is one of Germany's best-known theatres, a post-war building on Königsallee.",
+   "tip": "Book tickets in advance.",
+   "q": "Schauspielhaus Bochum, Königsallee 15, Bochum",
+   "ll": [
+    51.47224,
+    7.21745
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schauspielhaus_Bochum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "domusikforum",
+   "cat": "dene",
+   "area": "bochum",
+   "title": "Hear the Bochum Symphony at the Musikforum",
+   "desc": "The Anneliese Brost Musikforum Ruhr is the home of the Bochumer Symphoniker, with a concert hall built into a converted church.",
+   "tip": "Check the season programme.",
+   "q": "Anneliese Brost Musikforum Ruhr, Marienplatz 1, Bochum",
+   "ll": [
+    51.4787,
+    7.215
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Anneliese_Brost_Musikforum_Ruhr"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "doruhrstadion",
+   "cat": "dene",
+   "area": "bochum",
+   "title": "Watch VfL Bochum at the Vonovia Ruhrstadion",
+   "desc": "The Vonovia Ruhrstadion is the home ground of VfL Bochum, with a capacity of about 27,000 close to the city centre.",
+   "tip": "Match tickets sell out fast.",
+   "q": "Vonovia Ruhrstadion, Castroper Straße 145, Bochum",
+   "ll": [
+    51.49,
+    7.2366
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Vonovia_Ruhrstadion"
+   ]
+  },
+  {
+   "id": "dostruenkede",
+   "cat": "gor",
+   "area": "bochum",
+   "title": "Visit Schloss Strünkede in Herne",
+   "desc": "Schloss Strünkede is a moated castle in Herne that houses the Emschertal-Museum, set in a park with a pond.",
+   "tip": "Free to see from the park; the museum has set hours.",
+   "q": "Schloss Strünkede, Karl-Brandt-Weg 5, Herne",
+   "ll": [
+    51.55143,
+    7.21137
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Str%C3%BCnkede_Castle"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "docrangerkirmes",
+   "cat": "dene",
+   "area": "bochum",
+   "title": "Ride at the Cranger Kirmes in Herne",
+   "desc": "The Cranger Kirmes is one of Germany's largest fairground festivals, held on the Rhein-Herne Canal for eleven days each August. The 2026 edition runs 6-16 August.",
+   "tip": "Weekdays are quieter; the opening day features a barrel tapping.",
+   "q": "Cranger Kirmes, Cranger Straße, Herne",
+   "ll": [
+    51.54048,
+    7.15945
+   ],
+   "src": [
+    "https://cranger-kirmes.de"
+   ],
+   "months": [
+    8
+   ]
+  },
+  {
+   "id": "doflottmann",
+   "cat": "dene",
+   "area": "bochum",
+   "title": "See a show at the Flottmann-Hallen in Herne",
+   "desc": "The Flottmann-Hallen are a former machine factory in Herne converted into a cultural centre for theatre, concerts and art.",
+   "tip": "Check the programme online.",
+   "q": "Flottmann-Hallen, Straße des Bohrhammers 5, Herne",
+   "ll": [
+    51.52238,
+    7.22563
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Flottmann-Hallen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "doarchaeologie",
+   "cat": "gor",
+   "area": "bochum",
+   "title": "Discover the LWL archaeology museum in Herne",
+   "desc": "The LWL-Museum für Archäologie in Herne is the Westphalian archaeological museum with exhibits from the Stone Age to the Middle Ages.",
+   "tip": "Closed on Mondays; check opening hours.",
+   "q": "LWL-Museum für Archäologie, Europaplatz 1, Herne",
+   "ll": [
+    51.53594,
+    7.22527
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/LWL-Museum_f%C3%BCr_Arch%C3%A4ologie"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  }
+ ]
+}

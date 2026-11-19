@@ -1,0 +1,638 @@
+{
+ "new": [
+  {
+   "id": "dowurstwilli",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Pommes-Currywurst at Wurst Willi",
+   "desc": "Wurst Willi is a long-queued snack bar at the Petrikirchhof in the city centre, with a cult following among Dortmund locals. Its Pommes-Currywurst is the best-selling item.",
+   "tip": "Expect queues at lunchtime; it closes early evening, so go before 20:00.",
+   "q": "Wurst Willi, Petrikirchhof, Dortmund",
+   "ll": [
+    51.51442,
+    7.46048
+   ],
+   "src": [
+    "https://www.speisekarte.de/dortmund/restaurant/wurst_willi"
+   ]
+  },
+  {
+   "id": "dopferdestall",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine in the old pit-pony stable at Pferdestall",
+   "desc": "Restaurant Pferdestall occupies the former stable for the Zollern mine's horses and serves Westphalian cooking with international touches. Its beer garden looks onto the mine buildings and two winding towers.",
+   "tip": "Book a garden table in good weather; combine it with a Zeche Zollern visit.",
+   "q": "Restaurant Pferdestall, Grubenweg 5, Dortmund-Bövinghausen",
+   "ll": [
+    51.51853,
+    7.33482
+   ],
+   "src": [
+    "https://www.ruhr-tourismus.de/en/gastro/restaurant-pferdestall/"
+   ]
+  },
+  {
+   "id": "dobergmannbrauerei",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste Bergmann beer in Hörde's Phoenix West",
+   "desc": "The Bergmann brand was revived in 2006-2007 by Thomas Raphael, and the beer is now brewed at Elias-Bahn-Weg 2 on the former Phoenix West steelworks site in Hörde. Komoot lists the area as a pub and walking destination.",
+   "tip": "Check opening times with the brewery first; pair it with the Phoenix West blast furnaces nearby.",
+   "q": "Bergmann Brauerei, Elias-Bahn-Weg 2, Dortmund-Hörde",
+   "ll": [
+    51.48916,
+    7.48802
+   ],
+   "src": [
+    "https://tripaligner.com/countries/germany-22/destinations/dortmund-9774/places/bergmann-brauerei-12881898",
+    "https://beertasting.com/en/brewery/bergmann-dortmund-dbb"
+   ]
+  },
+  {
+   "id": "dobrinkhoffsmarkt",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink a Brinkhoff's No.1 at the Alter Markt",
+   "desc": "Brinkhoff's No.1 is a 5.0% Pilsner brewed again since 1977 to a recipe Fritz Brinkhoff developed in 1887. Brinkhoff's No. 1 am Markt, at Markt 6, serves it in the heart of the old town.",
+   "tip": "Open daily from about 11:00 to midnight; sit by the market square.",
+   "q": "Brinkhoff's No. 1 am Markt, Markt 6, 44137 Dortmund",
+   "ll": [
+    51.51425,
+    7.46625
+   ],
+   "src": [
+    "https://www.speisekarte.de/dortmund/restaurant/brinkhoffs_no__1_am_markt"
+   ]
+  },
+  {
+   "id": "dopfefferkornphoenix",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine on the Phoenix See harbour promenade",
+   "desc": "Pfefferkorn Phoenixsee sits at Hafenpromenade 1-2 in Hörde, on the artificial lake completed in 2011. The lakeside promenade is one of the best-known dining addresses in Dortmund.",
+   "tip": "Go on a dry evening for a terrace table, then walk the lake.",
+   "q": "Pfefferkorn Phoenixsee, Hafenpromenade 1-2, Dortmund-Hörde",
+   "ll": [
+    51.4896,
+    7.5115
+   ],
+   "src": [
+    "https://ms-aktuell.de/?p=102886",
+    "https://www.dortmund.de/en/leisure_and_culture/phoenix_see_1/index.html"
+   ]
+  },
+  {
+   "id": "domekanurfa",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Grill Urfa-style kebab at Mekan Urfa Et Mangal",
+   "desc": "Mekan Urfa Et Mangal at Münsterstraße 47 is a charcoal grill restaurant in the Nordstadt, the district with Dortmund's densest Turkish food scene. It holds a 4.6 rating from about 780 reviews on Wanderlog.",
+   "tip": "Order the mixed grill; Münsterstraße also has other Turkish grills within a few doors.",
+   "q": "Mekan Urfa Et Mangal, Münsterstraße 47, Dortmund",
+   "ll": [
+    51.526,
+    7.461
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/4073298",
+    "https://www.swipein.restaurant/en/restaurant/oz-urfa-deluxe-dortmund-nordrhein-westfalen"
+   ]
+  },
+  {
+   "id": "dogruenersalon",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have coffee at Grüner Salon on the Nordmarkt",
+   "desc": "Grüner Salon at Nordmarkt 8 is a coffee-focused café on the Nordmarkt square, listed among Dortmund cafés that pick their beans carefully. The square also hosts the big weekly market.",
+   "tip": "Time it with the Tuesday or Friday market and sit on the square.",
+   "q": "Grüner Salon, Nordmarkt 8, Dortmund",
+   "ll": [
+    51.52608,
+    7.46607
+   ],
+   "src": [
+    "https://rausgegangen.de/en/blog/cafes-dortmund"
+   ]
+  },
+  {
+   "id": "doneuesschwarz",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try a specialty coffee at Neues Schwarz",
+   "desc": "Neues Schwarz at Saarlandstraße 33 is a coffee-focused café that Rausgegangen groups with Dortmund cafés choosing their beans by hand.",
+   "tip": "Check current opening hours on the café's own page before you go.",
+   "q": "Neues Schwarz, Saarlandstraße 33, Dortmund",
+   "ll": [
+    51.51324,
+    7.46845
+   ],
+   "src": [
+    "https://rausgegangen.de/en/blog/cafes-dortmund"
+   ]
+  },
+  {
+   "id": "domitschmackes",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Westphalian dishes at Mit Schmackes",
+   "desc": "Mit Schmackes at Hohe Straße 61a serves Westphalian food and is listed in Dortmund's Schlemmer-Atlas under German cuisine.",
+   "tip": "Ask for the regional specials of the day.",
+   "q": "Mit Schmackes, Hohe Straße 61a, Dortmund",
+   "ll": [
+    51.50419,
+    7.45845
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/dortmund/mit-schmackes/"
+   ]
+  },
+  {
+   "id": "donordmarktmarkt",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Shop the Nordmarkt weekly market",
+   "desc": "A large weekly market has run on the Nordmarkt since the Second World War, on Tuesdays and Fridays. The city calls it the liveliest and most colourful weekly market in Dortmund; its stalls form a ring around the square.",
+   "tip": "Open about 07:00 to 13:00; come on Tuesday or Friday morning.",
+   "q": "Nordmarkt, Dortmund Nordstadt",
+   "ll": [
+    51.52586,
+    7.46565
+   ],
+   "src": [
+    "https://www.dortmund.de/themen/stadtbezirke/innenstadt-nord/geschichte/nordmarkt/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "dojuicybeats",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Dance at Juicy Beats in the Westfalenpark",
+   "desc": "Juicy Beats is Dortmund's open-air music festival in the Westfalenpark. The 2026 edition was a one-day event on 25 July with four stages, eight floors and about 25,000 visitors.",
+   "tip": "Buy day tickets early; dates for later years are on the festival site.",
+   "q": "Westfalenpark, Dortmund",
+   "ll": [
+    51.49534,
+    7.47682
+   ],
+   "src": [
+    "https://www.juicybeats.net/en/news/juicy-beats-2026-is-happening/",
+    "https://www.dortmund.de/newsroom/nachrichten-dortmund.de/juicy-beats-2026-dortmunder-musikstars-im-westfalenpark.html"
+   ],
+   "months": [
+    7
+   ]
+  },
+  {
+   "id": "dokletterbergwerk",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Climb indoors at Kletterhalle Bergwerk",
+   "desc": "Kletterhalle Bergwerk is an indoor climbing hall in Dortmund-Huckarde with a separate children's bouldering area, according to visitor reviews.",
+   "tip": "Good for a rainy day; check the hall's site for prices and gear hire.",
+   "q": "Kletterhalle Bergwerk, Dortmund-Huckarde",
+   "ll": [
+    51.54283,
+    7.40921
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/8076330/kletterhalle-bergwerk",
+    "https://freizeitmonster.de/blog/kletterparks-dortmund"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "doboulderwelt",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Boulder year-round at Boulderwelt Dortmund",
+   "desc": "Boulderwelt Dortmund is an indoor bouldering hall open all year, listed in Ruhr-area leisure guides.",
+   "tip": "Beginners can rent shoes; check the site for day-pass prices.",
+   "q": "Boulderwelt Dortmund, Dortmund",
+   "ll": [
+    51.49462,
+    7.3774
+   ],
+   "src": [
+    "https://familienausflug.info/ausflugsziel/boulderwelt-dortmund"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "dodomicil",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Hear live jazz at the Domicil club",
+   "desc": "Domicil, run by the non-profit domicil Dortmund e.V., has a main hall and a club room at Hansastraße 7-11. It hosts the Jazztage Dortmund and the Projazz Festival.",
+   "tip": "Autumn and winter Jazztage concerts run into December; book through the club.",
+   "q": "Domicil, Hansastraße 7-11, Dortmund",
+   "ll": [
+    51.51565,
+    7.46376
+   ],
+   "src": [
+    "https://kulturkenner.de/artikel/im-portraet-der-jazzclub-domicil?locale=en",
+    "https://rausgegangen.de/en/locations/domicil/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "dofzw",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "See a gig at the FZW",
+   "desc": "FZW is a Dortmund concert venue established in 1968, with a main hall for about 1,000 and a club room for 300.",
+   "tip": "Check the programme on the FZW site; concerts are mostly in the evening.",
+   "q": "FZW, Ardeystraße 51, Dortmund",
+   "ll": [
+    51.51497,
+    7.45013
+   ],
+   "src": [
+    "https://www.liveurope.eu/index.php/fzw?page=15"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "dohaldeschleswig",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb the Asselner Alm for a Dortmund panorama",
+   "desc": "Halde Schleswig, the former spoil heap of Zeche Schleswig in Asseln, is about 45 metres high and 35 hectares in area. It opened to the public on 5 June 2024 and gives views over Dortmund and the airport.",
+   "tip": "Entrances at Aplerbecker Straße 101 and Neuhammerweg; keep dogs on a lead because of ground-nesting birds.",
+   "q": "Halde Schleswig, Aplerbecker Straße 101, Dortmund-Asseln",
+   "ll": [
+    51.52185,
+    7.57544
+   ],
+   "src": [
+    "https://www.dortmund.de/newsroom/presse-mitteilungen/neues-ausflugsziel-lockt-mit-panoramablick-in-den-dortmunder-osten.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "dobratwursthaus",
+   "cat": "ye",
+   "area": "bochum",
+   "title": "Eat currywurst at the Bratwursthaus",
+   "desc": "The Bratwursthaus at Kortumstraße 18 in central Bochum serves bratwurst variations and currywurst with Ruhrpott flair, and shows currywurst as a featured dish.",
+   "tip": "Open in the Bermuda3Eck area; check hours on the website.",
+   "q": "Bratwursthaus, Kortumstraße 18, Bochum",
+   "ll": [
+    51.47693,
+    7.21688
+   ],
+   "src": [
+    "https://www.ruhr-tourismus.de/en/gastro/bratwursthaus/"
+   ]
+  },
+  {
+   "id": "dofiegebrauerei",
+   "cat": "ye",
+   "area": "bochum",
+   "title": "Tour the Moritz Fiege brewery and taste the Zwickel",
+   "desc": "Privatbrauerei Moritz Fiege has brewed in central Bochum since 1878. The BrauKultTour is a guided brewery tour of about 1.5 hours with a Zwickel tasting and a finish in the Zirbelstube above the city.",
+   "tip": "Tickets from about 26 euro; 2026 dates ran into late November. No parking on site.",
+   "q": "Privatbrauerei Moritz Fiege, Moritz-Fiege-Straße 1, Bochum",
+   "ll": [
+    51.48142,
+    7.22901
+   ],
+   "src": [
+    "https://www.mvp.de/bochum/veranstaltungen/braukulttour-2026/",
+    "https://www.nrw-tourism.com/privatbrauerei-moritz-fiege-1"
+   ]
+  },
+  {
+   "id": "docafezentral",
+   "cat": "ye",
+   "area": "bochum",
+   "title": "Start the day with breakfast at Café Zentral",
+   "desc": "Café Zentral stands at the Südring edge of the Bermuda3Eck, opposite the junction with Brüderstraße, and is recommended in a university guide for breakfast.",
+   "tip": "Go before the district's nightlife starts.",
+   "q": "Café Zentral, Südring, Bochum",
+   "ll": [
+    51.47892,
+    7.21907
+   ],
+   "src": [
+    "https://www.speisekarte.de/bochum/restaurant/caffe_zentral",
+    "https://www.ruhr-uni-bochum.de/relwiss/dvrw/assets/Gourmetfuehrer-Bochum_DVRW.pdf"
+   ]
+  },
+  {
+   "id": "dozweisaeulen",
+   "cat": "ye",
+   "area": "bochum",
+   "title": "Have coffee and cake at Café Zwei Säulen",
+   "desc": "Café Zwei Säulen on Hattinger Straße 796 carries a 4.8 rating from 242 reviews on Reviewhero.",
+   "tip": "Check opening hours first; it lies on the road toward Stiepel.",
+   "q": "Café Zwei Säulen, Hattinger Straße 796, Bochum",
+   "ll": [
+    51.42787,
+    7.16322
+   ],
+   "src": [
+    "https://www.reviewhero.io/de/cafe/bochum"
+   ]
+  },
+  {
+   "id": "dobochumtotal",
+   "cat": "dene",
+   "area": "bochum",
+   "title": "Go to Bochum Total in the Bermuda3Eck",
+   "desc": "Bochum Total is a free open-air music festival in the Bermuda3Eck, with four main stages and no admission charge. The 2026 edition was the 40th and ran from 2 to 5 July.",
+   "tip": "It is usually early July; no ticket needed.",
+   "q": "Bermuda3Eck, Bochum",
+   "ll": [
+    51.47544,
+    7.21474
+   ],
+   "src": [
+    "https://www.ruhr-tourismus.de/en/event/bochum-total/",
+    "https://en.wikipedia.org/wiki/Bochum_Total"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    7
+   ]
+  },
+  {
+   "id": "dobochumweihnacht",
+   "cat": "dene",
+   "area": "bochum",
+   "title": "Browse the Bochumer Weihnacht Christmas market",
+   "desc": "The Bochumer Weihnacht fills the city centre each winter; the 2026 edition is listed for 19 November to 23 December. Earlier editions ran daily from 11:00 to 22:00.",
+   "tip": "Check the official page for opening hours.",
+   "q": "Bochumer Weihnacht, Husemannplatz, Bochum",
+   "ll": [
+    51.4818,
+    7.2185
+   ],
+   "src": [
+    "https://microsites.bahn.de/regional-de/regionen/nrw/ausflugstipps/events/weihnachtsmaerkte-uebersicht/bochum_weihnachtsmarkt",
+    "https://freizeitmonster.de/aktivitaeten/veranstaltungen/bochumer-weihnacht-2025-324039"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    11,
+    12
+   ]
+  },
+  {
+   "id": "doprinzregent",
+   "cat": "dene",
+   "area": "bochum",
+   "title": "See a play at the Prinz Regent Theater",
+   "desc": "The Prinz Regent Theater is an independent theatre founded in 1991 in a former mine building, with about 100 seats. It has no resident ensemble and hosts guest productions and festivals.",
+   "tip": "Tickets 16 euro, reduced 8; card payments are not accepted.",
+   "q": "Prinz Regent Theater, Prinz-Regent-Straße 50-60, Bochum",
+   "ll": [
+    51.4509,
+    7.21752
+   ],
+   "src": [
+    "https://www.ruhr-tourismus.de/en/poi/prinz-regent-theater/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "dotippelsberg",
+   "cat": "gor",
+   "area": "bochum",
+   "title": "Watch the sunset from the Tippelsberg",
+   "desc": "The Tippelsberg is a 150 metre high former rubble heap with views up to 80 km on clear days. It draws crowds on New Year's Eve and for the Cranger Kirmes fireworks.",
+   "tip": "Always open and free; some trees block certain viewpoints.",
+   "q": "Tippelsberg, Hiltroper Straße 148, Bochum",
+   "ll": [
+    51.50527,
+    7.23455
+   ],
+   "src": [
+    "https://www.ruhr-tourismus.de/en/poi/tippelsberg-bochum/",
+    "https://www.route-industriekultur.ruhr/en/panoramen/tippelsberg-bochum/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "doextraschichtbochum",
+   "cat": "dene",
+   "area": "bochum",
+   "title": "Join ExtraSchicht night at the Jahrhunderthalle",
+   "desc": "ExtraSchicht, the Night of Industrial Culture, takes place at some 40 venues across the Ruhr in late June; the 2026 edition was on 27 June. Bochum's Jahrhunderthalle is one of the venues.",
+   "tip": "A single ticket covers all venues and public transport in the VRR area that evening.",
+   "q": "Jahrhunderthalle Bochum, Am Hausacker 1, Bochum",
+   "ll": [
+    51.48176,
+    7.19735
+   ],
+   "src": [
+    "https://www.festivalsindeutschland.de/festival/extraschicht-bochum",
+    "https://www.ruhr-tourismus.de/en/events-im-ruhrgebiet/extraschicht/"
+   ],
+   "months": [
+    6
+   ]
+  },
+  {
+   "id": "doamselschwerte",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink in the Amsel beer garden near the Ruhr",
+   "desc": "Ausflugsgaststätte Amsel in Schwerte lies among allotment gardens between the Ruhrtal cycle path and the Rohrmeisterei, about 200 m from the path, with a beer garden.",
+   "tip": "A good stop on the Ruhrtalradweg.",
+   "q": "Ausflugsgaststätte Amsel, Im Reiche des Wassers 11, Schwerte",
+   "ll": [
+    51.43719,
+    7.574
+   ],
+   "src": [
+    "https://www.swipein.restaurant/en/restaurant/ausflugsgaststatte-amsel-biergarten-in-schwerte",
+    "https://www.ruhrtalradweg.de/en/hosting/dining"
+   ]
+  },
+  {
+   "id": "dohohensteinwitten",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Rest in the Haus Hohenstein beer garden in Witten",
+   "desc": "Hotel Haus Hohenstein offers a beer garden after the last climb on the Ruhrtalradweg and has lockable garages for charging e-bikes.",
+   "tip": "Open to cyclists; check opening times first.",
+   "q": "Hotel Haus Hohenstein, Witten",
+   "ll": [
+    51.42869,
+    7.35467
+   ],
+   "src": [
+    "https://www.ruhrtalradweg.de/en/hosting/tips-of-the-month/hotel-haus-hohenstein"
+   ]
+  },
+  {
+   "id": "dokoetterhamm",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Sit under the trees at Gasthof Kötter in Hamm",
+   "desc": "Gasthof Kötter at Kleistraße 60 has a beer garden under shady trees serving German beers and hearty regional food.",
+   "tip": "Summer evenings are best.",
+   "q": "Gasthof Kötter, Kleistraße 60, 59073 Hamm",
+   "ll": [
+    51.676,
+    7.79
+   ],
+   "src": [
+    "https://www.komoot.com/highlight/91417",
+    "https://freizeitmonster.de/blog/biergaerten-hamm"
+   ]
+  },
+  {
+   "id": "doliedkehamm",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat in the Haus Liedke beer garden, Hamm",
+   "desc": "Haus Liedke at Holzstraße 98 has a cosy beer garden with a large choice of beers and German wines plus regional dishes.",
+   "tip": "Check opening hours first.",
+   "q": "Haus Liedke, Holzstraße 98, Hamm",
+   "ll": [
+    51.65293,
+    7.72833
+   ],
+   "src": [
+    "https://freizeitmonster.de/blog/biergaerten-hamm"
+   ]
+  },
+  {
+   "id": "doaltesbrauhausreck",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat at the Altes Brauhaus in Recklinghausen",
+   "desc": "Altes Brauhaus at Dortmunder Straße 16 in Recklinghausen-Ost is a rustic restaurant serving German cuisine.",
+   "tip": "Check recent reviews; few are listed.",
+   "q": "Altes Brauhaus, Dortmunder Straße 16, 45665 Recklinghausen",
+   "ll": [
+    51.612,
+    7.216
+   ],
+   "src": [
+    "https://www.golocal.de/recklinghausen/restaurants-gaststaetten/altes-brauhaus-8bhB/"
+   ]
+  },
+  {
+   "id": "dosythenerflora",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at Pfeiffer's Sythener Flora in Haltern",
+   "desc": "Restaurant Pfeiffer's Sythener Flora in Haltern am See serves German cuisine at upper prices and holds 4.6 on OpenTable from 52 reviews.",
+   "tip": "Reserve ahead.",
+   "q": "Pfeiffer's Sythener Flora, Haltern am See",
+   "ll": [
+    51.76935,
+    7.22726
+   ],
+   "src": [
+    "https://opentable.ie/nearby/restaurants-near-me-oer-erkenschwick-germany"
+   ]
+  },
+  {
+   "id": "dokortemarl",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Sit in the Gaststätte Korte beer garden in Marl",
+   "desc": "Gaststätte Korte at Halterner Straße 16 in Marl is listed as a summer beer garden.",
+   "tip": "Evenings in summer.",
+   "q": "Gaststätte Korte, Halterner Straße 16, Marl",
+   "ll": [
+    51.65294,
+    7.1851
+   ],
+   "src": [
+    "https://freizeitmonster.de/blog/biergaerten-marl"
+   ]
+  },
+  {
+   "id": "dohengsteyseeboat",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cruise the Hengsteysee on the MS Freiherr vom Stein",
+   "desc": "Passenger boats on the Hengsteysee in Hagen run from a landing stage, with the MS Freiherr vom Stein. The season usually starts on Good Friday and ends around mid-October.",
+   "tip": "Timetable on personenschifffahrt-hengsteysee.de.",
+   "q": "Personenschifffahrt Hengsteysee Anleger, Dortmunder Straße, Hagen",
+   "ll": [
+    51.393,
+    7.44
+   ],
+   "src": [
+    "https://entdecke.dein-nrw.de/en/dein-nrw/streaming/detail/POI/p_100166265/hengsteysee-passenger-boat-jetty"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "dohattingenweihnacht",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Stroll the Nostalgic Christmas Market in Hattingen",
+   "desc": "Hattingen holds a nostalgic Christmas market in its old town of half-timbered houses.",
+   "tip": "Check the dates; it runs in the Advent weeks.",
+   "q": "St.-Georgs-Kirche, Altstadt, Hattingen",
+   "ll": [
+    51.39957,
+    7.1864
+   ],
+   "src": [
+    "https://www.nrw-tourism.com/nostalgischer-weihnachtsmarkt-hattingen",
+    "https://www.festivalsindeutschland.de/festival/nostalgischer-weihnachtsmarkt-hattingen"
+   ],
+   "months": [
+    11,
+    12
+   ]
+  },
+  {
+   "id": "dogrosseholz",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk up Halde Großes Holz in Bergkamen",
+   "desc": "Halde Großes Holz in Bergkamen gives a far-reaching view over the eastern Ruhr area, and a light installation called Impulse sits at its summit.",
+   "tip": "Free to visit; bring a jacket for the summit.",
+   "q": "Halde Großes Holz, Bergkamen",
+   "ll": [
+    51.62524,
+    7.61782
+   ],
+   "src": [
+    "https://kulturkenner.de/artikel/halde-grosses-holz-in-bergkamen?locale=en"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

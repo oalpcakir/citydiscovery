@@ -1,0 +1,894 @@
+{
+ "new": [
+  {
+   "id": "esruhrmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Ride the orange escalator into the Ruhr Museum",
+   "desc": "The Ruhr Museum occupies the former coal washing plant of the Zollverein Coal Mine Industrial Complex, a UNESCO World Heritage Site since 2001. Its exhibition tells the natural and cultural history of the Ruhr region, entered by a long outdoor escalator.",
+   "tip": "Open daily 10:00 to 18:00. Allow two to three hours and combine with the Red Dot Design Museum on the same site.",
+   "q": "Ruhr Museum, Gelsenkirchener Straße 181, Stoppenberg, Essen",
+   "ll": [
+    51.48586,
+    7.04219
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ruhr_Museum",
+    "https://www.zollverein.de/ruhr-visitorcenter-essen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "esreddot",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Browse the Red Dot Design Museum in a boiler house",
+   "desc": "The Red Dot Design Museum is housed in the former boiler house of Zollverein, converted by Norman Foster. It shows around 2,000 award-winning products from the Red Dot Design Award on several floors.",
+   "tip": "Free public guided tours are offered in German; check the museum site for dates.",
+   "q": "Red Dot Design Museum Essen, Gelsenkirchener Straße 181, Stoppenberg, Essen",
+   "ll": [
+    51.4869,
+    7.0454
+   ],
+   "src": [
+    "https://www.red-dot-design-museum.org/essen/exhibitions/detail/532/public-guided-tour-of-the-red-dot-design-museum-1-1-1",
+    "https://www.zollverein.de/zollverein-unesco-world-heritage-site/plan-your-visit-to-zollverein"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "esschacht12",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk the Zollverein grounds around Shaft XII",
+   "desc": "Shaft XII, opened in 1932, was once among the most productive coal mines in the world and is a landmark of Bauhaus-influenced industrial architecture by Fritz Schupp and Martin Kremmer. The site is open around the clock and is a symbol of the Ruhr.",
+   "tip": "The grounds are open at all times and free to stroll. Tickets are only needed for museums and guided tours.",
+   "q": "Zeche Zollverein Schacht XII, Gelsenkirchener Straße 181, Stoppenberg, Essen",
+   "ll": [
+    51.48618,
+    7.04454
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Zollverein_Coal_Mine_Industrial_Complex",
+    "https://www.zollverein.de/zollverein-unesco-world-heritage-site/plan-your-visit-to-zollverein"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "eskokerei",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Tour the coking plant at Kokerei Zollverein",
+   "desc": "The Kokerei Zollverein was one of the largest coking plants in Europe and ran until 1993. Today its ovens, pipes and chimneys can be explored on guided tours and on a trail across the site.",
+   "tip": "Wear sturdy shoes. Check zollverein.de for tour times and the seasonal events held on the site.",
+   "q": "Kokerei Zollverein, Arendahls Wiese, Katernberg, Essen",
+   "ll": [
+    51.49011,
+    7.03913
+   ],
+   "src": [
+    "https://www.zollverein.de/zollverein-unesco-world-heritage-site/plan-your-visit-to-zollverein",
+    "https://www.zollverein.de/tourismus"
+   ]
+  },
+  {
+   "id": "esvillahuegel",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Tour the Krupp family's Villa Hügel",
+   "desc": "Villa Hügel was the home of the Krupp industrial dynasty from 1873 to 1945 and stands in a 28-hectare park above the Ruhr. Its halls host exhibitions and the Krupp family history is told in a permanent display.",
+   "tip": "Check opening times, which have varied, before going. The park is a pleasant walk on the way to Baldeneysee.",
+   "q": "Villa Hügel, Hügel 1, Bredeney, Essen",
+   "ll": [
+    51.40688,
+    7.0088
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Villa_Hügel",
+    "https://www.komoot.com/guide/211132/attractions-around-essen"
+   ]
+  },
+  {
+   "id": "esfolkwang",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Spend an afternoon at Museum Folkwang",
+   "desc": "Museum Folkwang holds a major collection of 19th- and 20th-century art, from French Impressionists to modern photography. It stands at Museumsplatz in a building by David Chipperfield, opened in 2010.",
+   "tip": "Check the museum site for the current admission policy and opening days.",
+   "q": "Museum Folkwang, Museumsplatz 1, Essen",
+   "ll": [
+    51.44253,
+    7.00474
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Museum_Folkwang",
+    "https://www.visitessen.de/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "esdom",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Golden Madonna in Essen Cathedral treasury",
+   "desc": "The Domschatz of Essen Minster holds the Golden Madonna from around 980, regarded as the oldest surviving sculpture of the Virgin Mary in the West and one of the great works of the Ottonian period. The treasury also has the Ottonian seven-branched candelabrum.",
+   "tip": "The treasury is closed on Mondays. The cathedral itself is free to enter.",
+   "q": "Essener Dom und Domschatz, Burgplatz 2, Essen",
+   "ll": [
+    51.45588,
+    7.01379
+   ],
+   "src": [
+    "https://www.visitessen.de/essentourismus_tourismusinformation/sehenswuerdigkeiten_1/sehenswuerdigkeit_279777.en.jsp",
+    "https://www.ruhr-tourismus.de/en/poi/domschatz-essen/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "esaltesynagoge",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Old Synagogue in Essen",
+   "desc": "The Alte Synagoge, built in 1913, was among the largest synagogues in northern Germany and survived the 1938 pogrom as a shell. Today it is a memorial and exhibition centre on Jewish life in Germany, with free admission.",
+   "tip": "Closed Mondays; public tours take place on set days of the month. Entry is free.",
+   "q": "Alte Synagoge Essen, Edmund-Körner-Platz 1, Essen",
+   "ll": [
+    51.45642,
+    7.01655
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Alte_Synagoge_(Essen)",
+    "https://www.visitessen.de/"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "eswerden",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Wander Werden's old town and Ludgerus abbey",
+   "desc": "Werden grew around the abbey founded by Saint Ludger around 799. The Romanesque basilica of St. Ludgerus and its treasury sit above half-timbered streets on the Ruhr.",
+   "tip": "Combine the abbey with a walk along the river and a stop at a café in the old town.",
+   "q": "Abtei Werden, Werden, Essen",
+   "ll": [
+    51.38684,
+    7.00488
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Abtei_Werden",
+    "https://de.wikivoyage.org/wiki/Essen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "esmargarethenhoehe",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stroll the garden village of Margarethenhöhe",
+   "desc": "Margarethenhöhe is a garden settlement founded in 1906 by Margarethe Krupp, built to plans by Georg Metzendorf. Its brick houses, small squares and the market place make it a notable example of Ruhr urban design.",
+   "tip": "Start at the Marktplatz and walk the lanes. Allow an hour and a half.",
+   "q": "Margarethenhöhe Marktplatz, Margarethenhöhe, Essen",
+   "ll": [
+    51.43254,
+    6.97693
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Margarethenhöhe",
+    "https://www.komoot.com/guide/211132/attractions-around-essen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "esaalto",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See an opera in Alvar Aalto's Aalto Theatre",
+   "desc": "The Aalto-Theater, designed by Finnish architect Alvar Aalto and opened in 1988, houses Essen's opera and ballet. Its curved white-marble interior is considered one of Aalto's last major works.",
+   "tip": "Check the programme and tickets on the theatre site.",
+   "q": "Aalto-Theater, Opernplatz 10, Essen",
+   "ll": [
+    51.44686,
+    7.01267
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Aalto_Theatre",
+    "https://www.theater-essen.de/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "esarena",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Schalke Museum at the Veltins-Arena",
+   "desc": "The Schalke Museum in the Veltins-Arena presents about 500 exhibits on the history of FC Schalke 04, with shirts, trophies and films. The ticket for the stadium tour includes the museum.",
+   "tip": "Hours were Tuesday to Friday 10:00 to 18:00 and weekends 10:00 to 17:00 in older listings; check on matchdays.",
+   "q": "Schalke Museum, Veltins-Arena, Ernst-Kuzorra-Weg 1, Gelsenkirchen",
+   "ll": [
+    51.5545,
+    7.0677
+   ],
+   "src": [
+    "https://veltins-arena.de/en/veltins-arena/schalke-museum",
+    "https://maps.adac.de/poi/veltins-arena-gelsenkirchen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "esnordsternturm",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Spot the Hercules atop the Nordsternturm",
+   "desc": "Nordstern in Gelsenkirchen was a coal mine closed in 1993 and became the site of the 1997 Federal Garden Show. The winding tower now carries a giant Hercules sculpture by Markus Lüpertz on the roof.",
+   "tip": "Walk the park and the Rhine-Herne Canal towpath afterwards.",
+   "q": "Nordsternturm, Nordsternpark, Horst, Gelsenkirchen",
+   "ll": [
+    51.52819,
+    7.03191
+   ],
+   "src": [
+    "https://www.baukunst-nrw.de/en/projects/Nordsternpark-Gelsenkirchen--296.htm",
+    "https://de.wikipedia.org/wiki/Nordsternpark"
+   ]
+  },
+  {
+   "id": "esschlosshorst",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk around Schloss Horst",
+   "desc": "Schloss Horst is described as the oldest Renaissance building in Westphalia. It now houses a museum with a permanent exhibition, and parts of it serve as a registry office.",
+   "tip": "Open city tours on one Sunday a month in summer stop here.",
+   "q": "Schloss Horst, Turfstraße 21, Horst, Gelsenkirchen",
+   "ll": [
+    51.53617,
+    7.02375
+   ],
+   "src": [
+    "https://gelsenkirchen.de/de/Freizeit/Ausfluege_und_Sehenswuerdigkeiten",
+    "https://en.wikipedia.org/wiki/Schloss_Horst"
+   ]
+  },
+  {
+   "id": "esmir",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Admire the Musiktheater im Revier",
+   "desc": "The Musiktheater im Revier, opened in 1959 and designed by Werner Ruhnau, is one of the best-known theatre buildings in Germany. Its blue relief walls by Yves Klein are a landmark of postwar art.",
+   "tip": "See an opera or ballet; check the programme on the theatre site.",
+   "q": "Musiktheater im Revier, Kennedyplatz, Gelsenkirchen",
+   "ll": [
+    51.51404,
+    7.09097
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Musiktheater_im_Revier",
+    "https://gelsenkirchen.de/de/Freizeit/Ausfluege_und_Sehenswuerdigkeiten"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "estetraeder",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the Tetraeder on Halde Beckstraße",
+   "desc": "The Tetraeder is a steel pyramid on the Halde Beckstraße spoil heap, a walkable structure with several viewing platforms, built above the Prosper-Haniel mine waste. It is about 50 metres high.",
+   "tip": "Go on a clear day for a wide view across the Ruhr.",
+   "q": "Tetraeder, Beckstraße, Batenbrock, Bottrop",
+   "ll": [
+    51.5275,
+    6.95989
+   ],
+   "src": [
+    "https://www.thecrazytourist.com/15-best-things-bottrop-germany/",
+    "https://de.wikipedia.org/wiki/Tetraeder_(Bottrop)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "esalbers",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Josef Albers at the Museum Quadrat",
+   "desc": "The Josef Albers Museum Quadrat in Bottrop's Stadtgarten is dedicated to Bottrop-born artist Josef Albers, famous for 'Homage to the Square'. The museum also holds natural and local history collections.",
+   "tip": "Closed Mondays; check opening hours. Combine with a stroll in the Stadtgarten.",
+   "q": "Josef Albers Museum Quadrat, Im Stadtgarten 20, Bottrop",
+   "ll": [
+    51.5317,
+    6.91826
+   ],
+   "src": [
+    "https://bigbeautifulbuildings.de/en/objects/quadrat",
+    "https://en.wikipedia.org/wiki/Josef_Albers"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "eshaldehaniel",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the Kreuzweg on Halde Haniel",
+   "desc": "Halde Haniel is a spoil heap of the Prosper-Haniel mine, cresting at 185 metres above sea level, and one of the highest viewpoints in the Ruhr. A Way of the Cross with large crosses leads to the summit.",
+   "tip": "Wear walking shoes; the summit is free to visit.",
+   "q": "Halde Haniel, Kirchhellener Straße, Bottrop",
+   "ll": [
+    51.54954,
+    6.87642
+   ],
+   "src": [
+    "https://www.thecrazytourist.com/15-best-things-bottrop-germany/",
+    "https://de.wikipedia.org/wiki/Halde_Haniel"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "eszoom",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Visit the Alaska, Africa and Asia worlds at ZOOM",
+   "desc": "ZOOM Erlebniswelt in Gelsenkirchen is a zoo divided into themed worlds for Alaska, Africa and Asia, described as one of the more modern zoos in Germany.",
+   "tip": "Plan most of a day; check opening hours and tickets on the zoo site.",
+   "q": "ZOOM Erlebniswelt, Bleckstraße 64, Gelsenkirchen",
+   "ll": [
+    51.54373,
+    7.1075
+   ],
+   "src": [
+    "https://gelsenkirchen.de/de/Freizeit/Ausfluege_und_Sehenswuerdigkeiten",
+    "https://en.wikipedia.org/wiki/ZOOM_Erlebniswelt"
+   ]
+  },
+  {
+   "id": "esgruga",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Spend a day in Grugapark",
+   "desc": "Grugapark is a large green park in the middle of Essen, created in 1929 as a garden show. It has themed gardens, a botanical garden and ponds.",
+   "tip": "Parts of the park have an entrance fee; allow half a day.",
+   "q": "Grugapark, Virchowstraße 167, Rüttenscheid, Essen",
+   "ll": [
+    51.42737,
+    6.98331
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Grugapark",
+    "https://www.komoot.com/guide/211132/attractions-around-essen"
+   ]
+  },
+  {
+   "id": "eseisbahn",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Skate beside the coking ovens on the Zollverein ice rink",
+   "desc": "Each winter a 150-metre ice rink is set up along the Kokerei Zollverein, with the ovens and chimneys as backdrop. About 35,000 guests skated there in the 2024/25 season.",
+   "tip": "The 2026/27 season is reported as running from early December to early January; check zollverein.de for dates.",
+   "q": "Zollverein Eisbahn, Kokerei Zollverein, Arendahls Wiese, Katernberg, Essen",
+   "ll": [
+    51.49011,
+    7.03913
+   ],
+   "src": [
+    "https://www.route-industriekultur.ruhr/en/aktuelles/die-einzigartige-zollverein-eisbahn-in-essen/",
+    "https://www.zollverein.de/app/uploads/2025/12/Flyer-Zollverein-Eisbahn-2025.pdf"
+   ],
+   "months": [
+    12,
+    1
+   ]
+  },
+  {
+   "id": "esbaldeneyboat",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Take a boat tour on Baldeneysee",
+   "desc": "Baldeneysee is a 9.2-kilometre reservoir on the Ruhr with a surface area of 2.7 square kilometres. Boat tours run from several landings, including a route from Hügel through the weir to Kettwig.",
+   "tip": "Check the operator's timetable; tours are mostly seasonal.",
+   "q": "Anlegestelle Essen-Hügel, Baldeneysee, Essen",
+   "ll": [
+    51.4057,
+    7.0125
+   ],
+   "src": [
+    "https://www.baldeneysee.ruhr/en/baldeneysee-essen/",
+    "https://de.wikivoyage.org/wiki/Baldeneysee"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "esseaside",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Swim and sunbathe at Seaside Beach Baldeney",
+   "desc": "Seaside Beach Baldeney is a sand beach with a beach bar on the shore of Baldeneysee in the Ruhr valley.",
+   "tip": "Open in the warm season only; check weather and opening times.",
+   "q": "Seaside Beach Baldeney, Baldeneysee, Essen",
+   "ll": [
+    51.4027,
+    7.027
+   ],
+   "src": [
+    "https://www.baldeneysee.ruhr/en/baldeneysee-essen/",
+    "https://sg.hotels.com/nh10871386/hotels-in-kettwig-essen-germany"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "esxmasmarkt",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the International Christmas Market in Essen",
+   "desc": "The Internationaler Weihnachtsmarkt Essen fills the city centre around Kennedyplatz from mid-November, with the Lichtkrone landmark and a baroque carousel. Entry is free.",
+   "tip": "In 2026 it runs about 13 November to 23 December.",
+   "q": "Internationaler Weihnachtsmarkt, Kennedyplatz, Essen",
+   "ll": [
+    51.4555,
+    7.0137
+   ],
+   "src": [
+    "https://www.festivalsindeutschland.de/festival/internationaler-weihnachtsmarkt-essen",
+    "https://www.reiseuhu.de/blog/essen-weihnachtsmaerkte"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    11,
+    12
+   ]
+  },
+  {
+   "id": "esbaldeneysteig",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Hike the BaldeneySteig around the lake",
+   "desc": "The BaldeneySteig is a waymarked walking route around Baldeneysee through woods and past views of the reservoir and the Ruhr. The city of Essen publishes a route plan.",
+   "tip": "Wear walking shoes; a full circuit takes several hours.",
+   "q": "BaldeneySteig, Baldeneysee, Essen",
+   "ll": [
+    51.39174,
+    7.07314
+   ],
+   "src": [
+    "https://visitessen.de/essentourismus_tourismusinformation/baldeneysteig.en.html",
+    "https://media.essen.de/media/emg_1/dokumente_18/2025_4/2025-139-183_PLAN_BaldeneySteig_24seit_EN_2.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "esstauder",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Tour the Stauder private brewery",
+   "desc": "The Privatbrauerei Jacob Stauder was founded in 1867 and is still run by descendants of the founder. It brews Stauder Pils in Essen.",
+   "tip": "Ask the brewery about visits and tastings.",
+   "q": "Privatbrauerei Jacob Stauder, Stauderstraße, Essen",
+   "ll": [
+    51.49655,
+    7.02052
+   ],
+   "src": [
+    "https://www.ruhr-tourismus.de/en/poi/privatbrauerei-jacob-stauder/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "eskettwig",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Stroll Kettwig's old town above the Ruhr",
+   "desc": "Kettwig is a district of Essen on the Ruhr, known for its half-timbered old town and river meadows. Cafés and pubs line the lanes.",
+   "tip": "Walk the lanes, then continue along the Ruhr.",
+   "q": "Kettwig Altstadt, Kettwig, Essen",
+   "ll": [
+    51.36346,
+    6.93662
+   ],
+   "src": [
+    "https://www.speisekarte.de/essen-ruhr/restaurant/kettwiger_marktgrill/bewertung",
+    "https://de.wikivoyage.org/wiki/Essen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "esarenatour",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Take the Arena Tour of the Veltins-Arena",
+   "desc": "The 75-minute Arena Tour of the home of FC Schalke 04 is led by trained guides and starts at the Schalke Museum. It is not offered on event days.",
+   "tip": "Book ahead; tours run Tuesday to Sunday at set times.",
+   "q": "Veltins-Arena, Ernst-Kuzorra-Weg 1, Gelsenkirchen",
+   "ll": [
+    51.5546,
+    7.0679
+   ],
+   "src": [
+    "https://en.veltins-arena.de/veltins-arena/stadionfuehrungen/",
+    "https://en.veltins-arena.de/?p=631"
+   ]
+  },
+  {
+   "id": "esalpin",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ski indoors at the alpincenter Bottrop",
+   "desc": "The alpincenter in Bottrop houses what is described as the longest indoor ski hall in the world, with a slope of about 640 metres.",
+   "tip": "Open year round, so it works on rainy days; rent equipment on site.",
+   "q": "alpincenter Bottrop, Prosperstraße 300, Bottrop",
+   "ll": [
+    51.52206,
+    6.96446
+   ],
+   "src": [
+    "https://www.thecrazytourist.com/15-best-things-bottrop-germany/",
+    "https://www.werkenntdenbesten.de/e/114010415/bottrop/biergarten-am-alpincenter-bottrop-bewertungen.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "esmovie",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the coasters at Movie Park Germany",
+   "desc": "Movie Park Germany is a film-themed amusement park in Bottrop-Kirchhellen, covering around 40 hectares.",
+   "tip": "The park is seasonal; check opening days and ticket prices.",
+   "q": "Movie Park Germany, Warner-Allee 1, Kirchhellen, Bottrop",
+   "ll": [
+    51.62232,
+    6.97492
+   ],
+   "src": [
+    "https://www.thecrazytourist.com/15-best-things-bottrop-germany/",
+    "https://de.wikipedia.org/wiki/Movie_Park_Germany"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "esnordsternpark",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Nordsternpark along the canal",
+   "desc": "Nordsternpark grew out of the 1997 Federal Garden Show on a former colliery and includes an amphitheatre by the Rhine-Herne Canal. Paths run along the water.",
+   "tip": "Free to enter and good for walking or cycling.",
+   "q": "Nordsternpark, Wilhelminenstraße, Horst, Gelsenkirchen",
+   "ll": [
+    51.52274,
+    7.03561
+   ],
+   "src": [
+    "https://www.baukunst-nrw.de/en/projects/Nordsternpark-Gelsenkirchen--296.htm"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "esrue",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Bar-hop along Rüttenscheider Straße",
+   "desc": "Rüttenscheid has taken on the role of Essen's hidden old town, with hundreds of cafés and restaurants and a few surviving pubs along Rüttenscheider Straße.",
+   "tip": "Go on a weekend evening and start at the Rüttenscheider Stern.",
+   "q": "Rüttenscheider Straße, Rüttenscheid, Essen",
+   "ll": [
+    51.42295,
+    7.0013
+   ],
+   "src": [
+    "https://www.dasoertliche.de/Themen/Lokale/Essen-R%C3%BCttenscheid.html",
+    "https://guide.michelin.com/de/de/nordrhein-westfalen/essen/restaurant/mullers-auf-der-ru"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "esmullers",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine at Müllers auf der Rü",
+   "desc": "Müllers auf der Rü is a Michelin Guide listing on Rüttenscheider Straße with seasonal, market-based cooking from the team around chef Nelson Müller.",
+   "tip": "Reserve ahead for dinner; prices are in the upper range.",
+   "q": "Müllers auf der Rü, Rüttenscheider Straße, Rüttenscheid, Essen",
+   "ll": [
+    51.43775,
+    7.00524
+   ],
+   "src": [
+    "https://guide.michelin.com/de/de/nordrhein-westfalen/essen/restaurant/mullers-auf-der-ru",
+    "https://www.opentable.com/r/mullers-auf-der-ru"
+   ]
+  },
+  {
+   "id": "esamputte",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink a Stauder at the Ampütte",
+   "desc": "The Ampütte is a historic Rüttenscheid pub dating to 1901, serving traditional German food and local beers including Stauder.",
+   "tip": "Order a Stauder Pils and a Ruhr-style dish; it keeps long hours.",
+   "q": "Ampütte, Rüttenscheider Straße 42, Essen",
+   "ll": [
+    51.44023,
+    7.00606
+   ],
+   "src": [
+    "https://www.golocal.de/essen/restaurants-gaststaetten/ampuette-gaststaette-c988/",
+    "https://wanderlog.com/place/details/3997823/ampütte"
+   ]
+  },
+  {
+   "id": "eselffreunde",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Watch football at 11 Freunde - Die Bar",
+   "desc": "11 Freunde - Die Bar is probably the best-known football pub in the Ruhr, in Rüttenscheid.",
+   "tip": "Go on a matchday for the atmosphere.",
+   "q": "11 Freunde Die Bar, Kunigundastraße 27, Rüttenscheid, Essen",
+   "ll": [
+    51.43151,
+    7.00931
+   ],
+   "src": [
+    "https://www.ruhr-tourismus.de/en/gastro/11-freunde-die-bar/"
+   ]
+  },
+  {
+   "id": "eseule",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Settle into Die Eule for beer and Frikadellen",
+   "desc": "Die Eule is a cosy pub in Essen's Altstadt, praised by reviewers for its beer, Frikadellen and games.",
+   "tip": "Good for a casual evening; expect a local crowd.",
+   "q": "Die Eule, Essen Innenstadt, Essen",
+   "ll": [
+    51.43934,
+    7.01212
+   ],
+   "src": [
+    "https://speisekarte.menu/restaurants/essen/die-eule-1/reviews"
+   ]
+  },
+  {
+   "id": "essailors",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Raise a pint at Sailor's Pub",
+   "desc": "Sailor's Pub is a maritime-themed pub in the middle of Rüttenscheid, popular with music fans.",
+   "tip": "Check for live music nights.",
+   "q": "Sailor's Pub, Rüttenscheid, Essen",
+   "ll": [
+    51.4327,
+    7.00142
+   ],
+   "src": [
+    "https://www.reviewhero.io/sailor-s-pub-dc05"
+   ]
+  },
+  {
+   "id": "escasino",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat at Casino Zollverein",
+   "desc": "Casino Zollverein is a restaurant on the Zollverein site with a summer garden.",
+   "tip": "Good for lunch between the museums.",
+   "q": "Casino Zollverein, Gelsenkirchener Straße 181, Essen",
+   "ll": [
+    51.4868,
+    7.0445
+   ],
+   "src": [
+    "https://www.zollverein.de/app/uploads/2025/01/241213_3D-Gelaendeplan-Zollverein.pdf"
+   ]
+  },
+  {
+   "id": "esozadana",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order Adana kebab at Öz Adana Kebap Salonu",
+   "desc": "Öz Adana Kebap Salonu is rated 4.6 on review portals from over 1,800 reviews, one of the most reviewed Turkish places in Essen.",
+   "tip": "Order the Adana kebab.",
+   "q": "Öz Adana Kebap Salonu, Gelsenkirchener Straße 255, Katernberg, Essen",
+   "ll": [
+    51.488,
+    7.06
+   ],
+   "src": [
+    "https://www.werkenntdenbesten.de/e/114124428/essen-ruhr/oez-adana-kebap-salonu-bewertungen.html"
+   ]
+  },
+  {
+   "id": "esnirvana",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try lahmacun at Nirvana Restaurant & Cafe",
+   "desc": "Nirvana is ranked as the top Turkish restaurant in Essen on one listing site and serves lahmacun.",
+   "tip": "Order lahmacun.",
+   "q": "Nirvana Restaurant & Cafe, Alfredstraße 99, Essen",
+   "ll": [
+    51.4338,
+    7.0035
+   ],
+   "src": [
+    "https://wolt.com/en/deu/essen/restaurant/nirvana-restaurant-cafe",
+    "https://www.lieferando.de/en/menu/nirvana-45131"
+   ]
+  },
+  {
+   "id": "esstiege",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat cake at Die Stiege in Kettwig",
+   "desc": "Die Stiege is set in a half-timbered house in Kettwig's old town, with a terrace view over the town and a beer garden.",
+   "tip": "Homemade cakes are a draw.",
+   "q": "Die Stiege, Kettwig Altstadt, Essen",
+   "ll": [
+    51.36274,
+    6.93709
+   ],
+   "src": [
+    "https://speisekarte.menu/restaurants/essen/die-stiege"
+   ]
+  },
+  {
+   "id": "escurryheinz",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat a spicy Currywurst at Curry Heinz",
+   "desc": "Curry Heinz is a Gelsenkirchen Imbiss whose currywurst reviewers call very spicy and worth a visit even outside Schalke match days.",
+   "tip": "Order the currywurst.",
+   "q": "Curry Heinz, Gelsenkirchen",
+   "ll": [
+    51.54593,
+    7.06293
+   ],
+   "src": [
+    "https://spinach.guide/venues/curry-heinz-30084/"
+   ]
+  },
+  {
+   "id": "esposthoernchen",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have a pre-match beer at the Posthörnchen",
+   "desc": "Posthörnchen is a family-run Kneipe near the main station in Gelsenkirchen, popular before and after Schalke matches.",
+   "tip": "Go before a Schalke game.",
+   "q": "Posthörnchen, Gelsenkirchen Hauptbahnhof, Gelsenkirchen",
+   "ll": [
+    51.50689,
+    7.10129
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/3130026/posthörnchen"
+   ]
+  },
+  {
+   "id": "esparkgrill",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Grab a Currywurst at Park Grill",
+   "desc": "Park Grill is a Gelsenkirchen Imbiss described by reviewers as a cult spot, with praised currywurst.",
+   "tip": "Cash may be useful.",
+   "q": "Park Grill, Gelsenkirchen",
+   "ll": [
+    51.55674,
+    7.08342
+   ],
+   "src": [
+    "https://www.werkenntdenbesten.de/e/28804811/imbissstube/gelsenkirchen/park-grill-bewertungen.html"
+   ]
+  },
+  {
+   "id": "esberger",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have coffee and cake at Gasthof Berger",
+   "desc": "Gasthof Berger in Feldhausen was opened in 1810 by Heinrich Berger and is known for its Konditorei and traditional cooking.",
+   "tip": "Try the cakes.",
+   "q": "Gasthof Berger, Schloßgasse 35, Feldhausen, Bottrop",
+   "ll": [
+    51.61335,
+    6.97195
+   ],
+   "src": [
+    "https://www.speisekarte.de/bottrop/restaurant/gasthof_berger/bewertung",
+    "https://www.werkenntdenbesten.de/e/75406372/deutsche-kueche-restaurant/bottrop/gasthof-berger-bewertungen.html"
+   ]
+  },
+  {
+   "id": "espels",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have cake at Café Haus Pels in Kirchhellen",
+   "desc": "Café Haus Pels in Kirchhellen scores 4.6 of 5 across three review portals from over 600 reviews.",
+   "tip": "Go on a weekend.",
+   "q": "Café Haus Pels, Kirchhellen, Bottrop",
+   "ll": [
+    51.61679,
+    6.92239
+   ],
+   "src": [
+    "https://www.werkenntdenbesten.de/e/104769702/cafe/bottrop/cafe-haus-pels-bewertungen.html"
+   ]
+  },
+  {
+   "id": "esalpinbier",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink in the Biergarten am alpincenter",
+   "desc": "The Biergarten am alpincenter in Bottrop is rated 4.81 on one portal and sits by the indoor ski hall.",
+   "tip": "Go in summer.",
+   "q": "Biergarten am alpincenter, Prosperstraße 300, Bottrop",
+   "ll": [
+    51.52206,
+    6.96446
+   ],
+   "src": [
+    "https://www.werkenntdenbesten.de/e/114010415/bottrop/biergarten-am-alpincenter-bottrop-bewertungen.html"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  }
+ ]
+}

@@ -1,0 +1,792 @@
+{
+ "new": [
+  {
+   "id": "esdulandschaftspark",
+   "cat": "gor",
+   "area": "duisburg",
+   "title": "Wander the blast furnaces of Landschaftspark Duisburg-Nord",
+   "desc": "Peter Latz's 1991 park turned the Thyssen ironworks, which made pig iron from 1901 to 1985, into a public park of furnaces, bunkers and gas tanks. It is part of the Route of Industrial Heritage and is open around the clock.",
+   "tip": "Entry to the park is free; start at the visitor centre for a map. Go at dusk when the lighting makes the rust glow.",
+   "q": "Landschaftspark Duisburg-Nord, Emscherstraße 71, Meiderich, Duisburg",
+   "ll": [
+    51.48175,
+    6.78396
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Landschaftspark_Duisburg-Nord",
+    "https://www.ruhr-tourismus.de/en/poi/landschaftspark-duisburg-nord/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "esduhochofen5",
+   "cat": "gor",
+   "area": "duisburg",
+   "title": "Climb Blast Furnace 5 for a view from 70 metres",
+   "desc": "The former Blast Furnace 5 of the Thyssen works carries a viewing platform at about 70 metres with views over the Ruhr area. It is the park's signature lookout.",
+   "tip": "Access can close in storm, ice or snow warnings, so check the park website first. Sunset is the best time.",
+   "q": "Hochofen 5, Landschaftspark Duisburg-Nord, Emscherstraße 71, Duisburg",
+   "ll": [
+    51.48105,
+    6.77935
+   ],
+   "src": [
+    "https://en.landschaftspark.de/en/industrial-heritage-circuit/blast-furnace-5",
+    "https://landschaftspark.de/en/leisure-activities/aussichtsplattform"
+   ]
+  },
+  {
+   "id": "estigerturtle",
+   "cat": "gor",
+   "area": "duisburg",
+   "title": "Walk the rollercoaster staircase of Tiger & Turtle",
+   "desc": "Heike Mutter and Ulrich Genth's walkable steel sculpture opened in 2011 on the Heinrich-Hildebrand-Höhe in Angerpark. 880 LED lamps light the handrails at night, and the looping section itself is closed to visitors.",
+   "tip": "Free. Go at dusk when the lights come on; access is limited in bad weather.",
+   "q": "Tiger & Turtle - Magic Mountain, Angerpark, Ehinger Straße, Duisburg",
+   "ll": [
+    51.3756,
+    6.738
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Tiger_%26_Turtle"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "esdugartenerinnerung",
+   "cat": "gor",
+   "area": "duisburg",
+   "title": "Stroll Dani Karavan's Garden of Memory",
+   "desc": "Created in 1999, the roughly three-hectare park in the Innenhafen keeps stairs and foundations of demolished grain warehouses and traces their footprints in white concrete. A light installation by Belzner and Hofmann illuminates it at night.",
+   "tip": "Free and always open. Pair it with the Innenhafen promenade.",
+   "q": "Garten der Erinnerung, Innenhafen, Duisburg",
+   "ll": [
+    51.4387,
+    6.7668
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Garten_der_Erinnerung_(Duisburg)",
+    "https://en.wikipedia.org/wiki/Duisburg_Inner_Harbour"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "esdukueppersmuehle",
+   "cat": "gor",
+   "area": "duisburg",
+   "title": "See modern German art in Museum Küppersmühle",
+   "desc": "Herzog & de Meuron converted a former grain mill into the museum in 1999 and added an extension on the historic silos that opened in September 2021. It shows the Ströher collection of about 1,500 works of German art since the 1950s.",
+   "tip": "Tickets are bought on site; check the current exhibitions. The restaurant next door has a harbour terrace.",
+   "q": "Museum Küppersmühle für Moderne Kunst, Philosophenweg 55, Innenhafen, Duisburg",
+   "ll": [
+    51.4411,
+    6.775
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Museum_K%C3%BCppersm%C3%BChle_f%C3%BCr_Moderne_Kunst"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "esdulehmbruck",
+   "cat": "gor",
+   "area": "duisburg",
+   "title": "Visit the Lehmbruck Museum of sculpture",
+   "desc": "Built between 1957 and 1967, it is dedicated to Wilhelm Lehmbruck and also holds sculpture by Barlach, Kollwitz and Picasso. The collection is rotated each year.",
+   "tip": "Tickets at the door; the museum sits next to the Immanuel-Kant-Park in the city centre.",
+   "q": "Lehmbruck Museum, Düsseldorfer Straße 51, Duisburg",
+   "ll": [
+    51.43028,
+    6.76611
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Lehmbruck_Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "esdustadthistorie",
+   "cat": "gor",
+   "area": "duisburg",
+   "title": "See Mercator's globes at the Cultural and City History Museum",
+   "desc": "Housed in a converted grain silo of 1904 in the Innenhafen since 1991, the museum holds two original Gerhard Mercator globes, the terrestrial one from 1541 and the celestial one from 1551. They form part of the Mercator treasury with over 250 maps.",
+   "tip": "Check opening times on the city website before going. The Innenhafen walk is right outside.",
+   "q": "Kultur- und Stadthistorisches Museum Duisburg, Johannes-Corputius-Platz 1, Innenhafen, Duisburg",
+   "ll": [
+    51.43722,
+    6.76139
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kultur-_und_Stadthistorisches_Museum_Duisburg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "esdubinnenschiff",
+   "cat": "gor",
+   "area": "duisburg",
+   "title": "Step aboard the Museum of German Inland Navigation",
+   "desc": "The museum has been in the former Ruhrort indoor swimming pool of 1908 to 1910 since 1998, and began in 1974 with the museum ship Oscar Huber. It sits in the heart of the world's largest inland port complex.",
+   "tip": "Combine with a walk along the Ruhrort harbour and the Schifferbörse.",
+   "q": "Museum der Deutschen Binnenschifffahrt, Dammstraße 11, Ruhrort, Duisburg",
+   "ll": [
+    51.45965,
+    6.72986
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Museum_der_Deutschen_Binnenschifffahrt"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "esdurheinorange",
+   "cat": "gor",
+   "area": "duisburg",
+   "title": "Photograph Rheinorange where the Ruhr meets the Rhine",
+   "desc": "Lutz Fritsch's 25 metre orange steel sculpture of 1992 marks the Ruhr's mouth at Rhine kilometre 780 in Kaßlerfeld, with views across to the Ruhrort harbour.",
+   "tip": "Free; at sunset the orange glows against the river. Reach it on foot or by bike along the Rhine embankment.",
+   "q": "Rheinorange, Mündung der Ruhr, Kaßlerfeld, Duisburg",
+   "ll": [
+    51.4493,
+    6.7223
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Rheinorange"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "esdumerkezmoschee",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the DITIB Merkez Mosque in Marxloh",
+   "desc": "Opened in October 2008 and designed by Cavit Sahin, it was then Germany's largest mosque and is a landmark of Duisburg's Turkish community. The city of Duisburg includes it in its guided district tours.",
+   "tip": "Entry has been reported as free, but join a guided tour or ask the community first. Dress modestly and take off shoes.",
+   "q": "DITIB Merkez-Moschee, Warbruckstraße 51, Marxloh, Duisburg",
+   "ll": [
+    51.50944,
+    6.75389
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Duisburg_Cathedral_Mosque",
+    "https://duisburg.de/microsites/visit_duisburg/discover_the_city/guided_tours/Guided-city-district-tours"
+   ]
+  },
+  {
+   "id": "esosgasometer",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Ride the glass lift to the Gasometer Oberhausen roof",
+   "desc": "Built 1927 to 1929, the 117.5 metre high gas holder is now an exhibition space with a rooftop viewing platform. The exhibition Forest Worlds was announced for 2026 to 2027.",
+   "tip": "Check the current exhibition and hours on the Gasometer site. The platform view reaches across the Ruhr.",
+   "q": "Gasometer Oberhausen, Arenastraße 11, Oberhausen",
+   "ll": [
+    51.49417,
+    6.87056
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Gasometer_Oberhausen",
+    "https://en.wikipedia.org/wiki/Gasometer_Oberhausen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "esosludwiggalerie",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore art at Ludwiggalerie Schloss Oberhausen",
+   "desc": "The classicist castle by August Reinking, built 1804 to 1818, gained a glass-and-steel extension by Eller und Eller in 1998. The gallery dates from 1947 and mounts exhibitions drawing on the Ludwig collection.",
+   "tip": "Look up the current exhibition first; the Kaisergarten park beside it is free.",
+   "q": "Ludwiggalerie Schloss Oberhausen, Konrad-Adenauer-Allee 46, Oberhausen",
+   "ll": [
+    51.49206,
+    6.86068
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Ludwiggalerie_Schloss_Oberhausen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "esmsbroich",
+   "cat": "gor",
+   "area": "duisburg",
+   "title": "Cross the moat of Schloss Broich",
+   "desc": "The site began as a Viking-era fortified camp in winter 883 to 884, was first documented in 1093 and was restored by 2020 after ten years of work. The Hochschloss houses the Mülheim history museum.",
+   "tip": "Next to the MüGa park, so it fits a riverside walk.",
+   "q": "Schloss Broich, Am Schloß Broich 28, Mülheim an der Ruhr",
+   "ll": [
+    51.4271,
+    6.8713
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Broich"
+   ]
+  },
+  {
+   "id": "esmscameraobscura",
+   "cat": "gor",
+   "area": "duisburg",
+   "title": "Step into a walk-in Camera Obscura",
+   "desc": "The Museum zur Vorgeschichte des Films sits in the Broich water tower, with a camera obscura described as the world's largest walk-in one, built into the boiler of a former railway water tower.",
+   "tip": "Open Wednesday to Sunday per listings; adults about 6 euros, check current times.",
+   "q": "Camera Obscura, Am Schloß Broich, Mülheim an der Ruhr",
+   "ll": [
+    51.42911,
+    6.86818
+   ],
+   "src": [
+    "https://www.ruhr-tourismus.de/en/poi/camera-obscura-muelheim-an-der-ruhr/",
+    "https://en.wikipedia.org/wiki/Museum_zur_Vorgeschichte_des_Films"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "esmsaquarius",
+   "cat": "gor",
+   "area": "duisburg",
+   "title": "Ride the glass lift in the Aquarius Water Museum",
+   "desc": "August Thyssen had the 50 metre Styrum water tower built in 1892/93. Since 1992 it has housed an interactive water exhibition with a glass lift through the former reservoir and a walkway at about 40 metres.",
+   "tip": "Combine the views with a Ruhr bank walk. Check the museum's opening times.",
+   "q": "Aquarius Wassermuseum, Burgstraße 70, Styrum, Mülheim an der Ruhr",
+   "ll": [
+    51.4432,
+    6.8564
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Aquarius_Wassermuseum",
+    "https://www.nrw-tourism.com/museums/aquarius-wassermuseum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "eskfburglinn",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit moated Burg Linn in Krefeld-Linn",
+   "desc": "The castle grew from a 12th-century tower, became a Kleve county stronghold, burned in the Spanish Succession War and was bought by the city in 1924. It now forms the Museumszentrum Burg Linn with a hunting lodge and archaeological museum.",
+   "tip": "Combine with the old town of Linn and the Textile Museum nearby.",
+   "q": "Burg Linn, Rheinbabenstraße 85, Linn, Krefeld",
+   "ll": [
+    51.3331,
+    6.6344
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Burg_Linn"
+   ]
+  },
+  {
+   "id": "eskfhauslange",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Mies van der Rohe's Haus Lange and Haus Esters",
+   "desc": "The two villas were built by Ludwig Mies van der Rohe in 1927/28; Haus Lange has served the Kunstmuseen Krefeld since 1955 and Haus Esters since 1981. They show contemporary art and design.",
+   "tip": "Open Tuesday to Sunday 11 to 17 according to the museum; check the current show.",
+   "q": "Museum Haus Lange und Haus Esters, Wilhelmshofallee 91-97, Krefeld",
+   "ll": [
+    51.3455,
+    6.5718
+   ],
+   "src": [
+    "https://kunstmuseenkrefeld.de/en/Museum/Haus-Lange-Haus-Esters",
+    "https://en.wikipedia.org/wiki/Kunstmuseen_Krefeld"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "eskfkaiserwilhelm",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Find the Beuys ensemble at the Kaiser Wilhelm Museum",
+   "desc": "The main building of the Kunstmuseen Krefeld holds a group of seven Joseph Beuys objects that he assembled in 1984. A current display fills 15 rooms with collection highlights, running to the end of 2026.",
+   "tip": "Open Tuesday to Sunday per the museum; check holiday hours.",
+   "q": "Kaiser Wilhelm Museum, Joseph-Beuys-Platz 1, Krefeld",
+   "ll": [
+    51.33031,
+    6.55945
+   ],
+   "src": [
+    "https://kunstmuseenkrefeld.de/en/Exhibitions/2025/Sammlung-In-Bewegung-15-Raeume-15-Geschichten",
+    "https://en.wikipedia.org/wiki/Kunstmuseen_Krefeld"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "eskftextil",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Study silk at the Deutsches Textilmuseum in Linn",
+   "desc": "Krefeld's silk heritage lives on in a museum of over 30,000 objects, in a purpose-built building on Andreasmarkt since 1981. The collection grew from a royal weaving sample collection founded in 1880.",
+   "tip": "Pair it with Burg Linn, a few minutes away.",
+   "q": "Deutsches Textilmuseum, Andreasmarkt 8, Linn, Krefeld",
+   "ll": [
+    51.33384,
+    6.63711
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Deutsches_Textilmuseum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "esduklettern",
+   "cat": "dene",
+   "area": "duisburg",
+   "title": "Climb the DAV alpine garden and Monte Thysso via ferrata",
+   "desc": "Since 1990 the Duisburg section of the German Alpine Club has run a climbing garden in the former ore bunkers of the Landschaftspark, plus the Monte Thysso via ferrata. Climbing requires registration.",
+   "tip": "Book ahead; the via ferrata is reported to cost 6 to 9 euros.",
+   "q": "DAV Kletterwand Landschaftspark Duisburg-Nord, Emscherstraße 71, Duisburg",
+   "ll": [
+    51.4818,
+    6.784
+   ],
+   "src": [
+    "https://www.via-ferrata.de/klettersteige/topo/klettersteig-landschaftspark-via-ferrata-monte-thysso?tab=reviews",
+    "https://en.landschaftspark.de/en/frequently-asked-questions"
+   ]
+  },
+  {
+   "id": "esdutauchen",
+   "cat": "dene",
+   "area": "duisburg",
+   "title": "Dive in Europe's largest artificial dive centre, the Gasometer",
+   "desc": "A former gas holder in the Landschaftspark has been turned into a dive tank, with divers floating 13 metres down to the floor. A 2025 report gave water temperature of almost constantly 19 degrees.",
+   "tip": "Needs a diving certification; ask the operator for current rates and booking.",
+   "q": "Tauchrevier Gasometer Duisburg, Landschaftspark Duisburg-Nord, Emscherstraße 71, Duisburg",
+   "ll": [
+    51.4805,
+    6.782
+   ],
+   "src": [
+    "https://en.landschaftspark.de/en/industrial-heritage-circuit/gasometer",
+    "https://taucher.net/tauchplatz-tauchrevier_gasometer__duisburg-haz3379"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "esduhafenfahrt",
+   "cat": "dene",
+   "area": "duisburg",
+   "title": "Cruise the world's largest inland port by boat",
+   "desc": "The Weiße Flotte harbour tour of the Duisburg-Ruhrort ports runs from Schwanentor and, Wednesday to Sunday, from Ruhrort landings. Reports give the adult fare as about 19 euros.",
+   "tip": "Book online if possible; times vary by season.",
+   "q": "Weiße Flotte Duisburg, Schwanentor, Calaisplatz 3, Duisburg",
+   "ll": [
+    51.437,
+    6.769
+   ],
+   "src": [
+    "https://www.ruhr-tourismus.de/en/poi/weisse-flotte-duisburg-hafenrundfahrt/",
+    "https://duisport.de/hafeninformation/hafenrundfahrt/?lang=en"
+   ]
+  },
+  {
+   "id": "esduruhrort",
+   "cat": "dene",
+   "area": "duisburg",
+   "title": "Wander Ruhrort harbour and the Schifferbörse",
+   "desc": "Ruhrort has been a harbour since 1716, with the Schleusenhafen of 1837 to 1842, a harbour steam crane of 1897 and the boatmen's exchange of 1901. It is the oldest part of Duisburg's port.",
+   "tip": "Free and flat; combine with the inland navigation museum and a harbour cruise.",
+   "q": "Schifferbörse, Dammstraße, Ruhrort, Duisburg",
+   "ll": [
+    51.45167,
+    6.73117
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Ruhrort"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "esduzoo",
+   "cat": "dene",
+   "area": "duisburg",
+   "title": "Meet the koalas and dolphins at Duisburg Zoo",
+   "desc": "Founded in 1934, the zoo was the first in Germany to keep koalas permanently (since 1994), has a dolphinarium and has had two Caribbean manatees in the Rio Negro hall since 2022.",
+   "tip": "Ticketed; check the animal list, as koala numbers fell in 2024.",
+   "q": "Zoo Duisburg, Mülheimer Straße 273, Duisburg",
+   "ll": [
+    51.43635,
+    6.80933
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Zoo_Duisburg"
+   ]
+  },
+  {
+   "id": "esdusechsseen",
+   "cat": "dene",
+   "area": "duisburg",
+   "title": "Swim or paddle on the Sechs-Seen-Platte",
+   "desc": "Six former gravel pits cover about 283 hectares, with a 450 metre sand beach at Wolfssee, the only lake for swimming. There is sailing, stand-up paddling, a lookout tower on the Wolfsberg and about 25 km of paths.",
+   "tip": "Swimming is allowed only at the Wolfssee outdoor pool beach; Wambachsee is for diving.",
+   "q": "Sechs-Seen-Platte, Wolfssee, Wedau, Duisburg",
+   "ll": [
+    51.37763,
+    6.79957
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Sechs-Seen-Platte"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "esdumsvspiel",
+   "cat": "dene",
+   "area": "duisburg",
+   "title": "Cheer for MSV Duisburg in the Schauinsland-Reisen-Arena",
+   "desc": "The stadium, used since 1922 and formerly the Wedaustadion, seats about 31,000. It is home to MSV Duisburg and Rhein Fire in the European League of Football.",
+   "tip": "Check the fixtures for tickets.",
+   "q": "Schauinsland-Reisen-Arena, Margaretenstraße 5-7, Duisburg",
+   "ll": [
+    51.40904,
+    6.77866
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schauinsland-Reisen-Arena"
+   ]
+  },
+  {
+   "id": "esdukoenigbrauerei",
+   "cat": "dene",
+   "area": "duisburg",
+   "title": "Tour the König Brauerei and taste fresh König Pilsener",
+   "desc": "The Beeck brewery, founded in 1858, runs guided tours ending in a tasting in the Theodor König cellar. Tours must be booked online.",
+   "tip": "Tours were listed for Tuesday and Thursday in 2025, so verify dates.",
+   "q": "König Brauerei, Friedrich-Ebert-Straße 308, Beeck, Duisburg",
+   "ll": [
+    51.47554,
+    6.73646
+   ],
+   "src": [
+    "https://duisburg.de/microsites/visit_duisburg/discover_the_city/guided_tours/brewery-tour-koenig-pilsener",
+    "https://www.nrw-tourism.com/koenig-brauerei-1"
+   ]
+  },
+  {
+   "id": "esossealife",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the tunnel at Sea Life Oberhausen",
+   "desc": "The aquarium at the CentrO shopping complex is open daily, usually 10 to 18:30 with last entry at 17:00 according to listings. Its address is Zum Aquarium 1.",
+   "tip": "Check hours and book online; combi tickets with Legoland are offered.",
+   "q": "Sea Life Oberhausen, Zum Aquarium 1, Neue Mitte, Oberhausen",
+   "ll": [
+    51.49428,
+    6.88086
+   ],
+   "src": [
+    "https://www.visitsealife.com/oberhausen/en/general-information/directions/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "esoskaisergarten",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Visit the free animal park in Oberhausen's Kaisergarten",
+   "desc": "The 29 hectare park from 1896 has a free tiny zoo of about 60 species and 500 animals, a minigolf course and the Slinky Springs footbridge over the Rhein-Herne Canal.",
+   "tip": "Free entry to the zoo; the Ludwiggalerie is next door.",
+   "q": "Kaisergarten, Konrad-Adenauer-Allee, Oberhausen",
+   "ll": [
+    51.4915,
+    6.859
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Oberhausen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "esmsmuega",
+   "cat": "dene",
+   "area": "duisburg",
+   "title": "Walk the MüGa park along the Ruhr",
+   "desc": "Created for the 1992 Landesgartenschau, the 66 hectare park lies on the Ruhr's left bank between Schlossbrücke and the Stadt-Viadukt, near Schloss Broich and the water tower.",
+   "tip": "Free; also reachable by the river boats.",
+   "q": "MüGa-Park, Mülheim an der Ruhr",
+   "ll": [
+    51.4278,
+    6.87039
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/M%C3%BCga-Park"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "esmsweisseflotte",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cruise the Ruhr with the Weiße Flotte Mülheim",
+   "desc": "The scheduled service runs from the Wasserbahnhof at Alte Schleuse 1 to Kettwig-Unterwasser; the 2026 season began on Good Friday and fares are listed at 7.50 to 11 euros.",
+   "tip": "Check the timetable with the operator; trips can be cancelled at short notice.",
+   "q": "Weiße Flotte Mülheim, Alte Schleuse 1, Mülheim an der Ruhr",
+   "ll": [
+    51.4268,
+    6.879
+   ],
+   "src": [
+    "https://rausgegangen.de/events/linienfahrten-2026-912/"
+   ]
+  },
+  {
+   "id": "eskfzoo",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Meet Kidogo's gorilla troop at Krefeld Zoo",
+   "desc": "Opened in 1938, the zoo has had a gorilla garden since 2012 and a rainforest house since 1998. The first building of the new AffenPark, the chimpanzee forest, opened on 3 October 2025.",
+   "tip": "Ticketed; the Affentropenhaus burned in 2020, so check what is open.",
+   "q": "Zoo Krefeld, Uerdinger Straße 377, Krefeld",
+   "ll": [
+    51.33972,
+    6.60185
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Zoo_Krefeld"
+   ]
+  },
+  {
+   "id": "esdukueppersrestaurant",
+   "cat": "ye",
+   "area": "duisburg",
+   "title": "Dine on the harbour terrace of the Küppersmühle Restaurant",
+   "desc": "The restaurant at the Küppersmühle museum serves modern international cooking in an industrial setting, with a waterside terrace over the Innenhafen. Michelin lists it.",
+   "tip": "Reserve for the terrace in summer; the lunch menu is shorter.",
+   "q": "Küppersmühle Restaurant, Philosophenweg 49, Innenhafen, Duisburg",
+   "ll": [
+    51.441,
+    6.77362
+   ],
+   "src": [
+    "https://guide.michelin.com/de/de/nordrhein-westfalen/duisburg/restaurant/kuppersmuhle-restaurant"
+   ]
+  },
+  {
+   "id": "esdukoepi",
+   "cat": "ye",
+   "area": "duisburg",
+   "title": "Drink König Pilsener at the Köpi Wirtshaus in the Innenhafen",
+   "desc": "A pub-style restaurant at Am Innenhafen 8-10 serving traditional pub food, cocktails and vegan options at mid-range prices, named after the Duisburg König brewery.",
+   "tip": "Order a freshly tapped König Pilsener with a hearty plate.",
+   "q": "König Pilsener Wirtshaus, Am Innenhafen 8-10, Duisburg",
+   "ll": [
+    51.4423,
+    6.7695
+   ],
+   "src": [
+    "https://freizeitmonster.de/gastronomie/restaurants/koenig-pilsener-wirtshaus-duisburg-288461"
+   ]
+  },
+  {
+   "id": "esduelifs",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order cake at Elifs Tortenwelt on Weseler Straße",
+   "desc": "A Marxloh café and confectionery on the wedding-shop street, rated about 4.7 from over 1,600 reviews and praised for cakes that are not too sweet. Weseler Straße is known for its bridal-fashion shops.",
+   "tip": "Try a decorated cake or a slice with Turkish tea, then browse the bridal shops.",
+   "q": "Elifs Tortenwelt Café Konditorei, Weseler Straße 111, Marxloh, Duisburg",
+   "ll": [
+    51.496,
+    6.764
+   ],
+   "src": [
+    "https://www.werkenntdenbesten.de/e/112457047/cafe/duisburg/elifs-tortenwelt-cafe-konditorei-bewertungen.html"
+   ]
+  },
+  {
+   "id": "esduekanatci",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try a hearty soup at Kanatci Hünkar in Marxloh",
+   "desc": "Kanatci Hünkar is a Turkish soup and grill restaurant at Weseler Straße 152 in Duisburg-Marxloh. It is rated about 4.6 from roughly 270 Google and Lieferando reviews, with diners praising taste and value.",
+   "tip": "Expect a wait at busy times; combine it with a walk along the bridal-shop street.",
+   "q": "Kanatci Hünkar, Weseler Straße 152, Marxloh, Duisburg",
+   "ll": [
+    51.4965,
+    6.7655
+   ],
+   "src": [
+    "https://www.werkenntdenbesten.de/e/113574612/restaurant/duisburg/kanatci-huenkar-bewertungen.html"
+   ]
+  },
+  {
+   "id": "esosfaesschen",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try the beef carpaccio at Sterkrader Fässchen",
+   "desc": "A cosy restaurant in Sterkrade with German and international seasonal cooking, mains of 15 to 24 euros and menus up to 39 euros.",
+   "tip": "The house recommendation is carpaccio of beef with fried prawns.",
+   "q": "Sterkrader Fässchen, Weseler Straße 27, Sterkrade, Oberhausen",
+   "ll": [
+    51.529,
+    6.849
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/oberhausen/sterkrader-faesschen/",
+    "https://www.speisekarte.de/oberhausen-rheinland/restaurant/sterkrader_faesschen/speisekarte"
+   ]
+  },
+  {
+   "id": "esoshackbarth",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at Hackbarth's, a top-500 German restaurant",
+   "desc": "Hackbarth's has been among Germany's 500 best restaurants for over 30 years, with a daily changing menu and a German-focused wine list. It is closed on Sundays and Mondays.",
+   "tip": "Reserve ahead; the menu is not tied to one style.",
+   "q": "Hackbarth's Restaurant, Im Lipperfeld 44, Oberhausen",
+   "ll": [
+    51.4905,
+    6.8775
+   ],
+   "src": [
+    "https://guide.michelin.com/en/nordrhein-westfalen/oberhausen/restaurant/hackbarth-s-restaurant",
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/oberhausen/hackbarths-restaurant/"
+   ]
+  },
+  {
+   "id": "esmsratskeller",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Mülheim's Pannschlaat at the Ratskeller",
+   "desc": "A rustic restaurant on Löhberg with 90 seats and a summer terrace, known for Pannschlaat, the local dish of endive and potatoes with bacon and onions.",
+   "tip": "Mains cost about 16 to 25 euros.",
+   "q": "Ratskeller, Löhberg 55, Mülheim an der Ruhr",
+   "ll": [
+    51.42899,
+    6.87952
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/muelheim-an-der-ruhr/ratskeller/"
+   ]
+  },
+  {
+   "id": "esmshoeppeler",
+   "cat": "ye",
+   "area": "duisburg",
+   "title": "Taste Mintard mustard roast beef at Landhaus Höppeler",
+   "desc": "A German restaurant using only organic farm produce, with 100 seats, open Wednesday to Sunday, serving a Mintard mustard-crusted roast beef and fried blood sausage with endive.",
+   "tip": "Mains cost 18 to 24 euros; book for weekends.",
+   "q": "Landhaus Höppeler, August-Thyssen-Straße 123, Mülheim an der Ruhr",
+   "ll": [
+    51.37508,
+    6.90459
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/muelheim-an-der-ruhr/landhaus-hoeppeler/"
+   ]
+  },
+  {
+   "id": "esmskaff",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order a bagel at DAS KAFF at the foot of the old town",
+   "desc": "A bagel bar and coffee salon at Bachstraße 12 in Mülheim city centre, within a dense cluster of owner-run restaurants.",
+   "tip": "Listings give Wednesday to Sunday daytime hours; check first.",
+   "q": "DAS KAFF bagel bar & coffee salon, Bachstraße 12, Mülheim an der Ruhr",
+   "ll": [
+    51.4281,
+    6.8858
+   ],
+   "src": [
+    "https://web.destination.one/en/gastro/das-kaff-bagel-bar-coffee-salon",
+    "https://rausgegangen.de/en/locations/das-kaff-bagel-bar-coffee-salon/"
+   ]
+  },
+  {
+   "id": "eskfschwarzespferd",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Flöns at the Schwarzes Pferd",
+   "desc": "A historic inn on Moerser Straße with a modern interior, bowling alley and beer garden that serves Rhineland dishes such as Flöns, fried blood sausage.",
+   "tip": "Mains cost 16 to 35 euros; weekday hours are short.",
+   "q": "Restaurant Schwarzes Pferd, Moerser Straße 437, Krefeld",
+   "ll": [
+    51.35343,
+    6.57502
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/krefeld/restaurant-schwarzes-pferd/"
+   ]
+  },
+  {
+   "id": "eskfwienges",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink Wienges Alt at the Brauereiausschank",
+   "desc": "A Krefeld brewery taproom on Neusser Straße where reviewers praise the house Altbier and the traditional German food.",
+   "tip": "Order the Wienges Alt with a Rhineland plate.",
+   "q": "Brauereiausschank Wienges, Neusser Straße 55, Krefeld",
+   "ll": [
+    51.32722,
+    6.56593
+   ],
+   "src": [
+    "https://www.speisekarte.de/krefeld/restaurant/brauereiausschank_wienges/speisekarte",
+    "https://wanderlog.com/place/details/3650417/brauereiausschank-wienges"
+   ]
+  },
+  {
+   "id": "eskfgleumes",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Krefeld's oldest brewery beer at Hausbrauerei Gleumes",
+   "desc": "Described as Krefeld's oldest brewery, with a tradition dated to 1807 and a house lager known as Gleumes Alt, plus a Hell added in 2001.",
+   "tip": "Try the Alt in the brewery tavern.",
+   "q": "Hausbrauerei Gleumes, Sternstraße 12, Krefeld",
+   "ll": [
+    51.3326,
+    6.564
+   ],
+   "src": [
+    "https://vorteilswelt.avu.de/angebote/details/i/hausbrauerei-gleumes-krefelds-aelteste-brauerei/angebot.pdf"
+   ]
+  }
+ ]
+}

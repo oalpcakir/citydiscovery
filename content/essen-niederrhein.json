@@ -1,0 +1,918 @@
+{
+ "new": [
+  {
+   "id": "esromermuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk through Roman Xanten at the LVR-RömerMuseum",
+   "desc": "The LVR-Archäologischer Park Xanten stands on the Roman city Colonia Ulpia Traiana, home to about 10,000 people. The RömerMuseum, opened on 16 August 2008, sits over the entrance hall of the Great Baths and shows finds close to where they were dug up.",
+   "tip": "Plan half a day for the museum plus the open-air park with its reconstructed inn and harbour temple. Check apx.lvr.de for hours and tickets.",
+   "q": "LVR-RömerMuseum, Wardter Straße 2, Xanten",
+   "ll": [
+    51.66658,
+    6.43976
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Archäologischer_Park_Xanten"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "esamphitheater",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the reconstructed Roman amphitheatre in Xanten",
+   "desc": "The amphitheatre in the southeast corner of the Archaeological Park was first found in 1887 when a farmer's plough hit buried walls. It was rebuilt on new foundations because the originals had weathered after excavation, and it hosts concerts and the Xanten summer festival.",
+   "tip": "Included in the park ticket. Walk up to the top tier for a view across the Roman street grid.",
+   "q": "Amphitheater, LVR-Archäologischer Park Xanten, Xanten",
+   "ll": [
+    51.66668,
+    6.44039
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Archäologischer_Park_Xanten"
+   ]
+  },
+  {
+   "id": "esxantendom",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Admire the twin towers of Xanten Cathedral",
+   "desc": "St. Viktor was begun in 1263 and finished only in 1544, and became a basilica minor in 1937. Its treasures include Heinrich Douvermann's 1536 Marienaltar and the cloister built around 1445.",
+   "tip": "Walk the cloister on the north side as well as the nave. The church may be closed during services.",
+   "q": "St.-Viktor-Dom, Kapitel 8, Xanten",
+   "ll": [
+    51.66222,
+    6.45389
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Xantener_Dom"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "esbislichnaturforum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the NaturForum on the Bislicher Insel floodplain",
+   "desc": "The Bislicher Insel is a 12 km2 Rhine floodplain between Xanten and Ginderich with a cormorant colony, spoonbills, water buffalo and beavers. The NaturForum in an old farmstead has an exhibition called AuenGeschichten and an observation tower.",
+   "tip": "The visitor centre is listed as open Tuesday to Sunday from April to October. Confirm hours with the Regionalverband Ruhr.",
+   "q": "NaturForum Bislicher Insel, Xanten",
+   "ll": [
+    51.65416,
+    6.50192
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Bislicher_Insel",
+    "https://www.nrw-tourism.com/rvr-besucherzentrum-naturforum-bislicher-insel"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "eskalkarnicolai",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the carved altars of St. Nicolai in Kalkar",
+   "desc": "The hall church was consecrated in 1450 and keeps nine surviving carved altarpieces, out of at least sixteen. Master Arnt of Kalkar began the St. George altar around 1480 and the high altar, which he left unfinished at his death in 1492.",
+   "tip": "The market square and town hall of Kalkar are next door. Check the parish for opening times.",
+   "q": "St. Nicolai, Markt, Kalkar",
+   "ll": [
+    51.73833,
+    6.29194
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/St._Nicolai_(Kalkar)"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "esschwanenburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look up at the Schwanenburg above Kleve",
+   "desc": "The hilltop castle takes its name from the swan on the Schwanenturm, added in 1455. Pieter Post rebuilt it in Baroque style in 1663-66, and an Allied bomber crashed into the tower in October 1944. Law courts work in the castle today.",
+   "tip": "The courtyards with Renaissance arcades and the swan fountain are the highlight. Visitor access varies, so ask the Kleve tourist office.",
+   "q": "Schwanenburg, Burg 1, Kleve",
+   "ll": [
+    51.7868,
+    6.1391
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schwanenburg_(Kleve)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "esmuseumkurhaus",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Find Joseph Beuys's studio at Museum Kurhaus Kleve",
+   "desc": "The museum occupies the former spa Friedrich-Wilhelm-Bad. Beuys rented a studio on its ground floor from 1957 and used it until 1964, and the restored atelier is on view alongside the Ewald Mataré collection.",
+   "tip": "Combine with Schloss Moyland for a Beuys day. Check museumkurhaus.de for opening days.",
+   "q": "Museum Kurhaus Kleve, Tiergartenstraße 41, Kleve",
+   "ll": [
+    51.79556,
+    6.12583
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Museum_Kurhaus_Kleve"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "esschlossmoyland",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the largest Beuys collection at Schloss Moyland",
+   "desc": "The neo-Gothic moated castle in Bedburg-Hau houses the van der Grinten collection, with nearly 5,000 Joseph Beuys works, and the Joseph Beuys Archive. Voltaire met Frederick II here in 1740.",
+   "tip": "The castle park is pleasant for a stroll. Allow two to three hours.",
+   "q": "Museum Schloss Moyland, Am Schloss 4, Bedburg-Hau",
+   "ll": [
+    51.7553,
+    6.2368
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Moyland"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "esgnadenkapelle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Kevelaer Gnadenkapelle and its pilgrim square",
+   "desc": "In 1642 the merchant Hendrick Busman had the little chapel built after hearing a voice at a roadside cross, and an image of Mary Consolatrix Afflictorum was placed there on 1 June 1642. The Kapellenplatz also holds the Marienbasilika, the Kerzenkapelle and the Beichtkapelle.",
+   "tip": "Quietest early in the day and outside the May to November pilgrimage season.",
+   "q": "Gnadenkapelle, Kapellenplatz, Kevelaer",
+   "ll": [
+    51.58413,
+    6.24347
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Gnadenkapelle_(Kevelaer)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "esemmerichbruecke",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Emmerich Rhine Bridge, Germany's longest suspension bridge",
+   "desc": "Opened on 3 September 1965, the bridge is 803 m long with a 500 m main span, the largest in Germany. Locals call it the Golden Gate of the Lower Rhine.",
+   "tip": "Best viewed from the Rheinpromenade. A renovation under way since 2019 may affect access.",
+   "q": "Rheinbrücke Emmerich, Emmerich am Rhein",
+   "ll": [
+    51.82753,
+    6.22628
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Rheinbrücke_Emmerich"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "esreesmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore a 1500 casemate beneath the Rees museum",
+   "desc": "The Koenraad Bosman Museum, opened 1997, shows rotating exhibitions on the history and art of Rees, a Hansestadt with town rights from 1228. An accessible casemate built around 1500 lies under the building, and the Gothic town hall dates from about 1450.",
+   "tip": "Combine with a walk on the Rheinpromenade. Check stadt-rees.de for hours.",
+   "q": "Koenraad-Bosman-Museum, Rees",
+   "ll": [
+    51.75955,
+    6.39939
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Rees"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "esklosterkamp",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the baroque terrace garden at Kloster Kamp",
+   "desc": "Founded in 1123, Kloster Kamp was the first Cistercian monastery in the German-speaking area. Its five-terrace garden was laid out around 1740, recreated in the 1980s and 90s, and was part of the 2020 Landesgartenschau.",
+   "tip": "The abbey church and the garden are the highlights. Check kloster-kamp.de for opening times.",
+   "q": "Kloster Kamp, Abteiplatz 24, Kamp-Lintfort",
+   "ll": [
+    51.50236,
+    6.51622
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kloster_Kamp"
+   ]
+  },
+  {
+   "id": "eszitadellewesel",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the star-shaped Zitadelle Wesel",
+   "desc": "Built from 1688 to 1722 as a five-bastion star, the citadel is one of the largest surviving fortresses in the Rhineland. Jean de Bodt's gate of 1718 survives, and today the site holds the LVR-Niederrheinmuseum and the city archive.",
+   "tip": "The September Weseler Kulturnacht uses the citadel as its main venue.",
+   "q": "Zitadelle Wesel, Ritterstraße, Wesel",
+   "ll": [
+    51.65174,
+    6.61519
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Zitadelle_Wesel"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "esschlossmoers",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Schloss Moers and its English-style park",
+   "desc": "Moers castle, the city's oldest known building, began as a tuff tower around 1200 and gained five bastions in 1601-04. The Grafschafter Museum reopened in 2013, and the Schlosstheater, opened 1975, plays in the cellars.",
+   "tip": "The park next to it is open to everyone and hosts the Moers Festival.",
+   "q": "Schloss Moers, Kastellplatz, Moers",
+   "ll": [
+    51.44944,
+    6.62528
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Moers"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "esburgtheater",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Catch an open-air show at the Burgtheater Dinslaken",
+   "desc": "The semicircular open-air stage next to Dinslaken castle opened in 1934 with Weber's Preciosa and seats about 1,800 people. It hosts the Burghofbühne, cabaret and concerts.",
+   "tip": "The programme is mostly in summer, so check the Dinslaken event calendar.",
+   "q": "Burgtheater Dinslaken, Dinslaken",
+   "ll": [
+    51.56225,
+    6.73133
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Burgtheater_Dinslaken"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "esschlosswissen",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Pass the moat of Schloss Wissen near Weeze",
+   "desc": "The water castle on the Niers was first documented in 1372 and has belonged to the von Loë family for about 500 years. The outer-bailey courtyard is freely accessible, and the mill houses a restaurant.",
+   "tip": "The castle is private, so respect residents' privacy. See schloss-wissen.de.",
+   "q": "Schloss Wissen, Weeze",
+   "ll": [
+    51.61444,
+    6.22167
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Wissen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "esgochsteintor",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the 14th-century Steintor in Goch",
+   "desc": "The Steintor is a city gate from the 14th century. Nearby, the church of St. Maria Magdalena, whose tower collapsed in 1993, was rebuilt in modern form and finished in 2003.",
+   "tip": "A short stroll from the centre, easy to combine with the market area.",
+   "q": "Steintor, Goch",
+   "ll": [
+    51.67607,
+    6.15855
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Goch"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "esrheinmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Learn Rhine trade history at the Rheinmuseum Emmerich",
+   "desc": "The museum covers the Rhine as Europe's most important waterway, with models, maps and artefacts, plus a WWII display on the Biber midget submarines stationed here in 1944-45.",
+   "tip": "Near St. Martini church by the promenade. Check hours with the Emmerich tourist office.",
+   "q": "Rheinmuseum Emmerich, Martinikirchgang, Emmerich am Rhein",
+   "ll": [
+    51.83128,
+    6.2374
+   ],
+   "src": [
+    "https://www.museum.de/audioguide/38/lang/de"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "estorenhof",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order the Schlachtplatte at Bauerncafé Torenhof",
+   "desc": "Bauerncafé Restaurant Torenhof in Alpen serves regional farm dishes such as Bauernomelett and a Schlachtplatte described as its house speciality. The menu also lists a Schwenkbraten with braised onions.",
+   "tip": "Pre-order the Schwenkbraten seven days ahead. Check opening times, as listings differ.",
+   "q": "Bauerncafé Restaurant Torenhof, Bernshuck 1, Alpen",
+   "ll": [
+    51.585,
+    6.53
+   ],
+   "src": [
+    "https://www.speisekarte.de/alpen-kreis-wesel/restaurant/bauerncafe_restaurant_torenhof/speisekarte"
+   ]
+  },
+  {
+   "id": "esspargelschippers",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat white asparagus at Spargelhof Schippers in Alpen",
+   "desc": "The Spargelhof Schippers in Alpen is a Lower Rhine asparagus farm with a restaurant and an asparagus buffet on its menu. The Rhineland asparagus season traditionally runs from late April to St John's Day, 24 June.",
+   "tip": "Book for weekends in May and check the farm's website for the season dates.",
+   "q": "Spargelhof Schippers, Alpen",
+   "ll": [
+    51.62511,
+    6.46398
+   ],
+   "src": [
+    "https://www.speisekarte.de/alpen-kreis-wesel/restaurant/spargelhof_schippers/speisekarte"
+   ],
+   "months": [
+    4,
+    5,
+    6
+   ]
+  },
+  {
+   "id": "eswinthuis",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have homemade cake at Bauernhofcafé Winthuis in Weeze",
+   "desc": "Bauernhofcafé Winthuis is a farm café in Weeze on the Kreis Kleve cycling routes, praised by visitors for its homemade cake.",
+   "tip": "Popular with cyclists, so expect crowds on sunny weekends. Website: bauernhofcafe-winthuis.de.",
+   "q": "Bauernhofcafé Winthuis, Weeze",
+   "ll": [
+    51.57718,
+    6.17398
+   ],
+   "src": [
+    "https://www.komoot.com/highlight/788551"
+   ]
+  },
+  {
+   "id": "eskellendonkshof",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Rest at Bauernhofcafé Binnenheide Kellendonkshof near Kevelaer",
+   "desc": "The Kellendonkshof is a farm café in Binnenheide near Kevelaer that hikers and cyclists recommend as a stop on local routes.",
+   "tip": "Check opening days before heading out, as farm cafés often close midweek.",
+   "q": "Bauernhofcafé Binnenheide Kellendonkshof, Kevelaer",
+   "ll": [
+    51.59,
+    6.215
+   ],
+   "src": [
+    "https://www.komoot.com/highlight/6295320"
+   ]
+  },
+  {
+   "id": "esalteslandhaus",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have Sunday brunch at Altes Landhaus in the Forstgarten",
+   "desc": "The Altes Landhaus at Joseph-Beuys-Allee 1 sits inside Kleve's Forstgarten park and serves traditional German dishes with organic and vegan options. It is known for its Sunday brunch.",
+   "tip": "Walk there through the park from the Museum Kurhaus. Book for Sunday brunch.",
+   "q": "Altes Landhaus im Forstgarten, Joseph-Beuys-Allee 1, Kleve",
+   "ll": [
+    51.79708,
+    6.12577
+   ],
+   "src": [
+    "https://www.speisekarte.de/kleve-niederrhein/restaurant/altes_landhaus_im_forstgarten_kleve/speisekarte",
+    "https://freizeitmonster.de/blog/deutsche-restaurants-kalkar"
+   ]
+  },
+  {
+   "id": "esgoldenerschwan",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat regional dishes at Zum Goldenen Schwan in Kevelaer",
+   "desc": "Zum Goldenen Schwan at Hauptstraße 13 serves German and regional dishes in a rustic room with a fireplace, a beer garden and a large breakfast menu.",
+   "tip": "Good after visiting the pilgrim chapels a few minutes away.",
+   "q": "Zum Goldenen Schwan, Hauptstraße 13, Kevelaer",
+   "ll": [
+    51.5832,
+    6.2441
+   ],
+   "src": [
+    "https://freizeitmonster.de/blog/regionale-kueche-kleve"
+   ]
+  },
+  {
+   "id": "eshotelneumaier",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try the house butcher's meats at Hotel Neumaier in Xanten",
+   "desc": "Hotel Neumaier at Orkstraße 19 in Xanten's old town has a gourmet restaurant, regional cuisine from its own butcher and a seasonal beer garden.",
+   "tip": "Combine with a cathedral visit. Reserve the garden on summer evenings.",
+   "q": "Hotel Neumaier, Orkstraße 19, Xanten",
+   "ll": [
+    51.66026,
+    6.45858
+   ],
+   "src": [
+    "https://freizeitmonster.de/blog/regionale-kueche-xanten"
+   ]
+  },
+  {
+   "id": "eszumamphitheater",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Sit down at Zum Amphitheater near the Roman park",
+   "desc": "Zum Amphitheater at Römerstraße 8 offers German specialties, regional dishes and a good beer selection close to the Archaeological Park.",
+   "tip": "Handy after a morning at the park. Check opening times locally.",
+   "q": "Zum Amphitheater, Römerstraße 8, Xanten",
+   "ll": [
+    51.63629,
+    6.47483
+   ],
+   "src": [
+    "https://freizeitmonster.de/blog/regionale-kueche-xanten"
+   ]
+  },
+  {
+   "id": "escafepooth",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Take coffee and cake at Café Pooth in Bislich",
+   "desc": "Café Pooth in Wesel-Bislich is a bakery and café in a rustic brick building with a beer garden, regional specialties and breakfast, near the Deichdorfmuseum Bislich.",
+   "tip": "Cycle from the Bislicher Insel for a coffee stop.",
+   "q": "Café Pooth, Dorfstraße 3, Wesel-Bislich",
+   "ll": [
+    51.67711,
+    6.4871
+   ],
+   "src": [
+    "https://freizeitmonster.de/blog/biergaerten-rheinberg"
+   ]
+  },
+  {
+   "id": "eszurrheinfaehre",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat with a Rhine view at Zur Rheinfähre on the Bislicher Insel",
+   "desc": "Zur Rheinfähre sits at Bislicher Insel 1 with a terrace overlooking the Rhine and serves German and European dishes and breakfast. It is next to the Bislich-Xanten ferry crossing.",
+   "tip": "One listing shows it closed from November to March, so verify before travelling.",
+   "q": "Zur Rheinfähre, Bislicher Insel 1, Xanten",
+   "ll": [
+    51.66458,
+    6.48073
+   ],
+   "src": [
+    "https://park4night.com/en/place/227824"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "eshofcafeelverich",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have breakfast or cake at Hofcafé Elverich in Rheinberg",
+   "desc": "Hofcafé Elverich at Elverich 2A in Rheinberg serves homemade cake, hearty regional dishes, breakfast and brunch.",
+   "tip": "A good stop on Rhine-side cycling routes.",
+   "q": "Hofcafé Elverich, Elverich 2A, Rheinberg",
+   "ll": [
+    51.62055,
+    6.57594
+   ],
+   "src": [
+    "https://freizeitmonster.de/blog/biergaerten-rheinberg"
+   ]
+  },
+  {
+   "id": "esrheinwacht",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat on the Rhine dyke at Café Restaurant Rheinwacht in Voerde",
+   "desc": "Café Restaurant Rheinwacht at Dammstraße 46 has a riverside beer garden, hearty home-style dishes, homemade cake and minigolf.",
+   "tip": "Good after a ride on the Rhine cycle path.",
+   "q": "Café Restaurant Rheinwacht, Dammstraße 46, Voerde",
+   "ll": [
+    51.602,
+    6.68
+   ],
+   "src": [
+    "https://freizeitmonster.de/blog/biergaerten-rheinberg"
+   ]
+  },
+  {
+   "id": "esjananderfaehr",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Cross the Niers by hand-cranked ferry at Jan an de Fähr",
+   "desc": "Jan an de Fähr in Weeze is a riverside restaurant with a conservatory and large terrace, and a hand-cranked ferry across the Niers behind the building.",
+   "tip": "Very busy on summer weekends with cyclists.",
+   "q": "Jan an de Fähr, Höst-Vornicker-Weg 9, Weeze",
+   "ll": [
+    51.66759,
+    6.19759
+   ],
+   "src": [
+    "https://www.komoot.com/highlight/7474850",
+    "https://freizeitmonster.de/blog/deutsche-restaurants-kalkar"
+   ]
+  },
+  {
+   "id": "esschlemmerich",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order the Friday fish buffet at Schlemmerich on the Emmerich promenade",
+   "desc": "Schlemmerich at Rheinpromenade 2 serves German and international dishes and is known for a Friday fish buffet, breakfast and brunch.",
+   "tip": "Ask for a window or terrace seat facing the Rhine.",
+   "q": "Schlemmerich, Rheinpromenade 2, Emmerich am Rhein",
+   "ll": [
+    51.82949,
+    6.2461
+   ],
+   "src": [
+    "https://freizeitmonster.de/blog/deutsche-restaurants-kalkar"
+   ]
+  },
+  {
+   "id": "esalteapotheke",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine on Rheinberg's market square at Zur alten Apotheke",
+   "desc": "Zur alten Apotheke at Großer Markt 12-14 serves steaks and German and regional dishes in the old-town centre of Rheinberg.",
+   "tip": "Combine with a stroll around the Rheinberg old town.",
+   "q": "Zur alten Apotheke, Großer Markt 12-14, Rheinberg",
+   "ll": [
+    51.54606,
+    6.60288
+   ],
+   "src": [
+    "https://freizeitmonster.de/blog/biergaerten-rheinberg"
+   ]
+  },
+  {
+   "id": "essuedsee",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim at the Strandbad Xantener Südsee",
+   "desc": "The Freizeitzentrum Xanten runs the Südsee beach with 1,000 m of fine sand, shallow areas for children, a natural pool and an aqua park. Together the Nord- and Südsee offer 245 ha of water.",
+   "tip": "Best in summer. Check f-z-x.de for beach hours and prices.",
+   "q": "Strandbad Xantener Südsee, Xanten",
+   "ll": [
+    51.67862,
+    6.45083
+   ],
+   "src": [
+    "https://www.seen.de/xantener-suedsee/strandbad-xantener-suedsee/"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "esbeachline",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Try windsurfing or SUP at Wassersportcenter Beachline",
+   "desc": "The FZX water-sports centre at the Xanten lakes offers surfing, stand-up paddling, catamaran sailing and diving, with beginner courses.",
+   "tip": "Book courses in advance for summer.",
+   "q": "Wassersportcenter Beachline, Xantener Südsee, Xanten",
+   "ll": [
+    51.6848,
+    6.43837
+   ],
+   "src": [
+    "https://qweb.f-z-x.de/wp-content/uploads/2023/10/PI-Eroeffnung-neues-Wassersportcenter-Beachline-v28072023.pdf"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "eswunderlandkalkar",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride coasters in a never-used nuclear plant at Wunderland Kalkar",
+   "desc": "Wunderland Kalkar, once Kernie's Familienpark, is a theme park on the grounds of the never-completed Kalkar fast-breeder reactor. The 2026 main season runs from 28 March to early November.",
+   "tip": "Summer tickets were about 36.50 euro in 2026. See wunderlandkalkar.eu.",
+   "q": "Wunderland Kalkar, Griether Straße 110, Kalkar",
+   "ll": [
+    51.76356,
+    6.32615
+   ],
+   "src": [
+    "https://www.freizeitparkdeals.de/parks/kernies-wunderland-kalkar/"
+   ],
+   "months": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "id": "esirrland",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Spend a day at the Irrland farm adventure park in Kevelaer",
+   "desc": "Irrland at Am Scheidweg 1 in Kevelaer-Twisteden is billed as Europe's largest farm adventure park. The 2026 season ran 14 March to 1 November, daily 9-18, with tickets sold online only.",
+   "tip": "Book tickets online ahead of time.",
+   "q": "Irrland, Am Scheidweg 1, Kevelaer",
+   "ll": [
+    51.55714,
+    6.20283
+   ],
+   "src": [
+    "https://www.irrland.de/en/oeffnungszeiten/"
+   ],
+   "months": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "esreesferry",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cross the Rhine on the Rääße Pöntje ferry from Rees",
+   "desc": "The pedestrian and bicycle ferry runs from Rees to Reeserschanz in Kalkar from Palm Sunday to the end of October, on selected days of the week.",
+   "tip": "Check niederrheinfaehre.de for the current timetable.",
+   "q": "Rheinfähre Rees, Rheinpromenade, Rees",
+   "ll": [
+    51.75735,
+    6.3929
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Rees",
+    "https://www.gps-tour.info/99242"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "esemmerichpromenade",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Stroll Emmerich's Rhine promenade under the suspension bridge",
+   "desc": "The Rheinpromenade is a waterfront walk where river cruise ships dock, with views of passing barges and the Emmerich bridge.",
+   "tip": "Pair with the Rheinmuseum or lunch at Schlemmerich.",
+   "q": "Rheinpromenade, Emmerich am Rhein",
+   "ll": [
+    51.83017,
+    6.23996
+   ],
+   "src": [
+    "https://hanse.org/en/tourist/emmerich-am-rhein"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "eskleveparks",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk through Kleve's Forstgarten and Tiergarten parks",
+   "desc": "The Forstgarten and Tiergarten are landscaped parks of the Kleve garden landscape, with benches, a playground, a bandstand and refreshments. The Neuer Tiergarten axis runs from the amphitheatre to the Prinz-Moritz-Kanal.",
+   "tip": "A walk starts at the car park on Tiergartenstraße/Wasserburgallee.",
+   "q": "Forstgarten, Tiergartenstraße, Kleve",
+   "ll": [
+    51.79533,
+    6.12815
+   ],
+   "src": [
+    "https://www.komoot.com/highlight/237923",
+    "https://eghn.org/en/klever-gartenlandschaft-2"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "eskermisdahl",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Kermisdahl route through Kleve's Prinz-Moritz-Park",
+   "desc": "The 8.7 km Kermisdahl route starts at Café Königsgarten and climbs the Prinz-Moritz-Weg to the Klever Ring.",
+   "tip": "Mostly easy, with a hill. Details on ich-geh-wandern.de.",
+   "q": "Prinz-Moritz-Park, Kleve",
+   "ll": [
+    51.78325,
+    6.13786
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/kermisdahl-route-kleve"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "eswildgeese",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch Arctic wild geese on the Lower Rhine",
+   "desc": "Up to 180,000 Arctic geese winter on the Lower Rhine, arriving in November. NABU offers bus excursions from Kranenburg from mid-November to mid-February, and the Bislicher Insel is another major resting area.",
+   "tip": "Dress warmly; dawn and dusk are best. Contact the NABU Naturschutzstation Niederrhein.",
+   "q": "Bislicher Insel, Xanten",
+   "ll": [
+    51.65489,
+    6.4991
+   ],
+   "src": [
+    "https://www.nabu.de/natur-erleben/naturtipps/wintergaeste-aus-dem-hohen-norden"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    11,
+    12,
+    1,
+    2
+   ]
+  },
+  {
+   "id": "espilgrimage",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Light a candle in Kevelaer's Kerzenkapelle in pilgrimage season",
+   "desc": "Kevelaer is a major Marian pilgrimage site whose season opens on 1 May. In 2026 it runs 1 May to 30 November, with pilgrim candles and devotions in the Kerzenkapelle daily.",
+   "tip": "Big pilgrim days such as the Tamil pilgrimage in August are crowded.",
+   "q": "Kerzenkapelle, Kapellenplatz, Kevelaer",
+   "ll": [
+    51.58388,
+    6.24377
+   ],
+   "src": [
+    "https://www.wallfahrt-kevelaer.de",
+    "https://www.evangelisch.de/inhalte/242334/30-04-2025/kevelaer-eroeffnet-wallfahrtssaison"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "id": "esmoersfestival",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hear experimental jazz at the Moers Festival",
+   "desc": "The Moers Festival began in 1972 as the New Jazz Festival Moers and is held at Pentecost. Since 2021 it has used the Moers city park, and in 2026 it moves to the Kastellplatz.",
+   "tip": "Held over Pentecost weekend. Check moers-festival.de.",
+   "q": "Kastellplatz, Moers",
+   "ll": [
+    51.45067,
+    6.62612
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Moers_Festival"
+   ],
+   "months": [
+    5,
+    6
+   ]
+  },
+  {
+   "id": "eshaldenorddeutschland",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Climb Halde Norddeutschland in Neukirchen-Vluyn",
+   "desc": "This 102 m former spoil heap of the Niederberg colliery covers 81 ha and is the flagship of the Landschaftspark NiederRhein. The Himmelstreppe is the most direct climb, with views toward Moers and Duisburg.",
+   "tip": "Start at the car park on Geldernsche Straße. The loop is around 6.6 km.",
+   "q": "Halde Norddeutschland, Geldernsche Straße, Neukirchen-Vluyn",
+   "ll": [
+    51.4698,
+    6.56572
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/auf-die-halde-norddeutschland-neukirchen-vluyn",
+    "https://www.ruhr-tourismus.de/en/echt-fotogen/halden-im-ruhrgebiet/halde-norddeutschland/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "esdaemmerwald",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Dämmerwald in Naturpark Hohe Mark near Schermbeck",
+   "desc": "All of Schermbeck lies in the Naturpark Hohe Mark. The Dämmerwald covers about 1,400 ha, and the Hohe Mark Steig and other long-distance trails pass through.",
+   "tip": "NRW has designated a wolf area near Schermbeck, so keep dogs on leads.",
+   "q": "Dämmerwald, Schermbeck",
+   "ll": [
+    51.715,
+    6.9
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/durch-den-dämmer-wald-und-den-lichtenhagen-schermbeck"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "esxantenrees",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cycle the Xanten to Rees loop along the Rhine",
+   "desc": "The signed bike route Xanten-Rees-Xanten uses the Rees ferry Rääße Pöntje from Palm Sunday to the end of October.",
+   "tip": "Check the ferry's operating days before you set out.",
+   "q": "Marktplatz, Xanten",
+   "ll": [
+    51.6613,
+    6.4537
+   ],
+   "src": [
+    "https://www.gps-tour.info/99242"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

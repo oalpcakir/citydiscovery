@@ -1,0 +1,8 @@
+{"picks": ["cathedralplatform","petitefrancetanneurs","hautkoenigsbourg","pontscouverts","montsainteodile"],
+ "cards": {
+  "cathedralplatform": {"name": "Strasbourg Cathedral", "art": "church", "slogan": "A pink sandstone spire that out-reached the whole world.", "line": "It is a marvel of the gigantic and the delicate.", "by": "Victor Hugo, Le Rhin, letter on Strasbourg, 1842", "source": "https://fr.wikisource.org/wiki/Le_Rhin/XXX"},
+  "petitefrancetanneurs": {"name": "Petite France", "art": "canalhouses", "slogan": "Half-timbered tanners' houses leaning over the Ill.", "line": "The name comes from a 1503 hospice for soldiers with syphilis, then called the French disease.", "source": "https://en.wikipedia.org/wiki/Petite_France,_Strasbourg"},
+  "hautkoenigsbourg": {"name": "Haut-Kœnigsbourg Castle", "art": "castle", "slogan": "A ruin rebuilt as the Middle Ages the Kaiser dreamed of.", "line": "Swedish troops burned it in 1633 after a 52-day siege; it was rebuilt from 1900 to 1908 under Wilhelm II.", "source": "https://en.wikipedia.org/wiki/Haut-Koenigsbourg_Castle"},
+  "pontscouverts": {"name": "Ponts Couverts", "art": "bridge", "slogan": "Three bridges and four towers, still guarding the Ill.", "line": "Their wooden roofs came off in 1784, yet the name Covered Bridges stuck for good.", "source": "https://en.wikipedia.org/wiki/Ponts_Couverts_(Strasbourg)"},
+  "montsainteodile": {"name": "Mont Sainte-Odile", "art": "church", "slogan": "A convent above the forest, ringed by an ancient wall.", "line": "A 10 km prehistoric wall, the Heidenmauer, circles the 764 m summit of the convent.", "source": "https://en.wikipedia.org/wiki/Mont_Sainte-Odile"}
+ }}

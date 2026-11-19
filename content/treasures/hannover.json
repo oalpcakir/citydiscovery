@@ -1,0 +1,47 @@
+{
+ "picks": [
+  "haherrenhausen",
+  "haneuesrathaus",
+  "hadom",
+  "hafagus",
+  "harattenfaengerhaus"
+ ],
+ "cards": {
+  "haherrenhausen": {
+   "name": "Herrenhausen Gardens",
+   "art": "park",
+   "slogan": "Baroque hedges, clipped straight, and a fountain that shoots skyward.",
+   "line": "The Great Fountain can leap up to 80 metres, and in 1721 it was already the highest in any European court.",
+   "source": "https://en.wikipedia.org/wiki/Herrenhausen_Gardens"
+  },
+  "haneuesrathaus": {
+   "name": "New Town Hall",
+   "art": "palace",
+   "slogan": "A copper dome you ride up in a lift that bends.",
+   "line": "Opened in 1913, it stands on 6,026 beech piles, and its dome lift follows a curved track, unique in the world.",
+   "source": "https://en.wikipedia.org/wiki/New_Town_Hall_(Hanover)"
+  },
+  "hadom": {
+   "name": "Hildesheim Cathedral",
+   "art": "church",
+   "slogan": "Bronze doors from the year 1015 and a rose older than the legend.",
+   "line": "Its rose bush is believed to be the oldest living rose in the world, said to date back to 815.",
+   "source": "https://en.wikipedia.org/wiki/Hildesheim_Cathedral"
+  },
+  "hafagus": {
+   "name": "Fagus Factory",
+   "art": "museum",
+   "slogan": "Glass corners and brick, where modern architecture took its first steps.",
+   "line": "Gropius and Meyer built this shoe-last factory in 1911-1913; it became a UNESCO World Heritage Site in 2011.",
+   "source": "https://en.wikipedia.org/wiki/Fagus_Factory"
+  },
+  "harattenfaengerhaus": {
+   "name": "Pied Piper House",
+   "art": "canalhouses",
+   "slogan": "The house where the piper's story is carved into the facade.",
+   "line": "Hamelin Town's in Brunswick, / By famous Hanover city.",
+   "by": "Robert Browning, The Pied Piper of Hamelin, 1842",
+   "source": "https://www.poetryfoundation.org/poems/45818/the-pied-piper-of-hamelin"
+  }
+ }
+}

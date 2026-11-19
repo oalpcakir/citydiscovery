@@ -1,0 +1,8 @@
+{"picks": ["promenadeanglais","collinechateau","courssaleya","villaephrussi","jardinexotiqueeze"],
+ "cards": {
+  "promenadeanglais": {"name": "Promenade des Anglais", "art": "harbour", "slogan": "Seven kilometres of sea, one blue chair at a time.", "line": "It began in 1820 as a winter relief project that put the town's beggars to work, funded by English residents.", "source": "https://en.wikipedia.org/wiki/Promenade_des_Anglais"},
+  "collinechateau": {"name": "Castle Hill", "art": "castle", "slogan": "The whole Baie des Anges, framed from the old citadel's rock.", "line": "The hilltop citadel and its ramparts were demolished in 1706, the year after the siege of Nice.", "source": "https://en.wikipedia.org/wiki/Nice"},
+  "courssaleya": {"name": "Cours Saleya Market", "art": "market", "slogan": "Flowers at dawn, socca by noon, Old Nice in between.", "line": "The city approved its first flower, fruit and vegetable market on the Cours Saleya on 22 July 1861.", "source": "https://fr.wikipedia.org/wiki/Cours_Saleya"},
+  "villaephrussi": {"name": "Villa Ephrussi de Rothschild", "art": "palace", "slogan": "A pink palace on Cap Ferrat, laid out like a ship.", "line": "Baroness Béatrice de Rothschild designed its nine gardens as a ship's deck, inspired by a voyage on the liner Île de France.", "source": "https://en.wikipedia.org/wiki/Villa_Ephrussi_de_Rothschild"},
+  "jardinexotiqueeze": {"name": "Èze Village", "art": "castle", "slogan": "A cactus garden on the ruins of a castle, 400 metres above the sea.", "line": "The medieval village of Èze perches on a cliff 427 metres above sea level, often called an eagle's nest.", "source": "https://en.wikipedia.org/wiki/%C3%88ze"}
+ }}

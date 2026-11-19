@@ -1,0 +1,47 @@
+{
+ "picks": [
+  "jetdeau",
+  "palaisnations",
+  "stpierre",
+  "reformationwall",
+  "cernsciencegateway"
+ ],
+ "cards": {
+  "jetdeau": {
+   "name": "Jet d'Eau",
+   "art": "harbour",
+   "slogan": "Geneva's liquid exclamation mark, rising from the lake.",
+   "line": "Water leaves a 10 cm nozzle at about 200 km/h, and some 7,000 litres hang in the air at any moment.",
+   "source": "https://en.wikipedia.org/wiki/Jet_d%27Eau"
+  },
+  "stpierre": {
+   "name": "St. Pierre Cathedral",
+   "art": "church",
+   "slogan": "Calvin's plain pulpit under towers you can climb.",
+   "line": "Konrad Witz's 1444 altarpiece here shows what is considered the earliest topographically accurate landscape in Western art: Lake Geneva.",
+   "source": "https://en.wikipedia.org/wiki/Geneva_Cathedral"
+  },
+  "reformationwall": {
+   "name": "Reformation Wall",
+   "art": "castle",
+   "slogan": "Four giants of the Reformation, carved into the old city walls.",
+   "line": "Unveiled in 1909, the 100 m wall has Calvin, Farel, Beza and Knox at five metres tall, with the motto Post Tenebras Lux.",
+   "source": "https://en.wikipedia.org/wiki/Reformation_Wall"
+  },
+  "palaisnations": {
+   "name": "Palais des Nations",
+   "art": "palace",
+   "slogan": "Where the flags of the world line the drive.",
+   "line": "Built from 1929 to 1936 for the League of Nations, it is now the UN's European headquarters.",
+   "source": "https://en.wikipedia.org/wiki/Palace_of_Nations"
+  },
+  "cernsciencegateway": {
+   "name": "CERN Science Gateway",
+   "art": "museum",
+   "slogan": "Tubes, bridges and the smallest things in the universe.",
+   "line": "Designed by Renzo Piano, it opened in October 2023 at the lab where the World Wide Web was born.",
+   "source": "https://en.wikipedia.org/wiki/CERN_Science_Gateway"
+  }
+ },
+ "waive_area_cap": "the region's famous sights are all in the city area; the countryside area has only villages"
+}

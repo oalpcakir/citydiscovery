@@ -1,0 +1,47 @@
+{
+ "picks": [
+  "hmelphiplaza",
+  "hmmichel",
+  "hvfischmarkt",
+  "hvtreppenviertel",
+  "hvlangeanna"
+ ],
+ "cards": {
+  "hmelphiplaza": {
+   "name": "Elbphilharmonie",
+   "art": "museum",
+   "slogan": "A glass wave on a brick warehouse, riding the Elbe.",
+   "line": "A marvel of clarity, precision and cool objectivity.",
+   "by": "Philip Kennicott on its acoustics, Washington Post",
+   "source": "https://en.wikipedia.org/wiki/Elbphilharmonie"
+  },
+  "hmmichel": {
+   "name": "St. Michael's (Michel)",
+   "art": "church",
+   "slogan": "Hamburg's copper-green sailor's landmark, seen from every ship.",
+   "line": "Its four clock faces are 8 metres across, the largest in Germany.",
+   "source": "https://en.wikipedia.org/wiki/St._Michael%27s_Church,_Hamburg"
+  },
+  "hvtreppenviertel": {
+   "name": "Blankenese Stairs",
+   "art": "canalhouses",
+   "slogan": "A fishing village stacked up the Elbe slope, stair by stair.",
+   "line": "Blankenese's car-free lanes hold 4,864 stairs.",
+   "source": "https://en.wikipedia.org/wiki/Blankenese"
+  },
+  "hvlangeanna": {
+   "name": "Lange Anna",
+   "art": "harbour",
+   "slogan": "Red sandstone standing alone in the North Sea.",
+   "line": "The 47-metre red sandstone stack on Heligoland has been a natural monument since 1969.",
+   "source": "https://en.wikipedia.org/wiki/Lange_Anna"
+  },
+  "hvfischmarkt": {
+   "name": "Fish Market",
+   "art": "market",
+   "slogan": "Eels, bananas and brass bands before the city has slept.",
+   "line": "Altona's fish market has opened on Sunday mornings since 1703; its auction hall opened in 1896.",
+   "source": "https://en.wikipedia.org/wiki/Fischmarkt_Hamburg-Altona"
+  }
+ }
+}

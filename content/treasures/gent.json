@@ -1,0 +1,46 @@
+{
+ "picks": [
+  "lamgods",
+  "gravensteen",
+  "rabot",
+  "baafsabdij",
+  "boekentoren"
+ ],
+ "cards": {
+  "lamgods": {
+   "name": "Ghent Altarpiece",
+   "art": "church",
+   "slogan": "The Lamb of God, and one panel that vanished in 1934.",
+   "line": "Completed in 1432, it lost its Just Judges panel to thieves in 1934, and that panel has never been found.",
+   "source": "https://en.wikipedia.org/wiki/Ghent_Altarpiece"
+  },
+  "gravensteen": {
+   "name": "Gravensteen",
+   "art": "castle",
+   "slogan": "A count's fortress in the middle of the shopping streets.",
+   "line": "Built in 1180 by Philip of Alsace, it later served as a mint, a prison and a cotton mill.",
+   "source": "https://en.wikipedia.org/wiki/Gravensteen"
+  },
+  "rabot": {
+   "name": "Rabot",
+   "art": "castle",
+   "slogan": "Two stubby towers guarding the water gate of old Ghent.",
+   "line": "Built in 1489–1491, its twin towers guarded the lock where the Lieve canal entered the city.",
+   "source": "https://visit.gent.be/en/see-do/rabot"
+  },
+  "baafsabdij": {
+   "name": "St Bavo's Abbey",
+   "art": "church",
+   "slogan": "Cloister ruins that an emperor built a fortress over.",
+   "line": "Charles V, born in Ghent, had the abbey destroyed in 1540 and built a fortress with cannons aimed at the city.",
+   "source": "https://en.wikipedia.org/wiki/Saint_Bavo%27s_Abbey"
+  },
+  "boekentoren": {
+   "name": "Book Tower",
+   "art": "tower",
+   "slogan": "Ghent's fourth tower, built for books.",
+   "line": "Henry van de Velde's 64-metre university library took from 1936 to 1942 to build.",
+   "source": "https://en.wikipedia.org/wiki/Boekentoren"
+  }
+ }
+}

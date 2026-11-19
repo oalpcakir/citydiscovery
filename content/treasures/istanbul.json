@@ -1,0 +1,46 @@
+{
+ "picks": [
+  "hagiasophia",
+  "bluemosque",
+  "galatatower",
+  "dolmabahce",
+  "maidenstower"
+ ],
+ "cards": {
+  "hagiasophia": {
+   "name": "Hagia Sophia",
+   "art": "church",
+   "slogan": "A dome that has outlasted empires since 537.",
+   "line": "Finished in 537, it stayed the largest cathedral in the world for nearly a thousand years.",
+   "source": "https://en.wikipedia.org/wiki/Hagia_Sophia"
+  },
+  "bluemosque": {
+   "name": "Blue Mosque",
+   "art": "church",
+   "slogan": "Six minarets and a sky of blue tile.",
+   "line": "Built 1609 to 1617, its interior is lined with 21,043 Iznik tiles in over fifty designs.",
+   "source": "https://en.wikipedia.org/wiki/Blue_Mosque,_Istanbul"
+  },
+  "galatatower": {
+   "name": "Galata Tower",
+   "art": "tower",
+   "slogan": "The best seat for Istanbul's sunset.",
+   "line": "Built in 1348 as the Tower of the Holy Cross, it rises 62.59 metres above the Genoese quarter.",
+   "source": "https://en.wikipedia.org/wiki/Galata_Tower"
+  },
+  "dolmabahce": {
+   "name": "Dolmabahçe Palace",
+   "art": "palace",
+   "slogan": "Gold and crystal on the Bosphorus shore.",
+   "line": "Its 285 rooms and 46 halls were gilded with 14 tonnes of gold leaf; the clock in Atatürk's room still shows 9:05.",
+   "source": "https://en.wikipedia.org/wiki/Dolmabah%C3%A7e_Palace"
+  },
+  "maidenstower": {
+   "name": "Maiden's Tower",
+   "art": "tower",
+   "slogan": "A tiny islet tower with a tall tale.",
+   "line": "Legend says a princess was locked inside to escape a snake foretold to bite her; the first tower here dates to 1110.",
+   "source": "https://en.wikipedia.org/wiki/Maiden%27s_Tower"
+  }
+ }
+}

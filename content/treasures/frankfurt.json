@@ -1,0 +1,8 @@
+{"picks": ["roemerberg","maintower","kaiserdom","mathildenhoehe","grubemessel"],
+ "cards": {
+ "roemerberg": {"name":"Römerberg","art":"canalhouses","slogan":"Gabled facades where emperors once feasted on roast ox.","line":"Between 1562 and 1792 the square hosted ten imperial coronation festivals, each with an ox kitchen in the open air.","source":"https://de.wikipedia.org/wiki/Römerberg_(Frankfurt_am_Main)"},
+ "maintower": {"name":"Main Tower","art":"tower","slogan":"Frankfurt's skyline from the only high-rise you can climb.","line":"It is the only skyscraper in Frankfurt with a public viewing observatory; the roof stands at 200 metres.","source":"https://en.wikipedia.org/wiki/Main_Tower"},
+ "kaiserdom": {"name":"Kaiserdom","art":"church","slogan":"A red sandstone tower that watched emperors being crowned.","line":"Emperors were elected here from 1356, and from 1562 to 1792 they were crowned beneath its 95-metre tower.","source":"https://en.wikipedia.org/wiki/Frankfurt_Cathedral"},
+ "mathildenhoehe": {"name":"Mathildenhöhe","art":"park","slogan":"A hilltop where artists built a whole utopia in 1899.","line":"My Hessian land shall flourish and in it, art.","by":"Grand Duke Ernst Ludwig of Hesse, motto of the Darmstadt artists' colony","source":"https://en.wikipedia.org/wiki/Mathildenh%C3%B6he"},
+ "grubemessel": {"name":"Messel Pit","art":"park","slogan":"An old oil-shale pit that keeps 47-million-year-old secrets.","line":"Its Eocene fossils are about 47 million years old, and a planned landfill was stopped before it became a World Heritage Site in 1995.","source":"https://en.wikipedia.org/wiki/Messel_Pit"}
+ }}

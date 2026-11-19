@@ -1,0 +1,8 @@
+{"picks": ["rheinfall", "zhgrossmuenster", "zhfraumuenster", "steinrathausplatz", "habsburgcastle"],
+ "cards": {
+  "rheinfall": {"name": "Rhine Falls", "art": "park", "slogan": "Europe's mightiest waterfall, thundering 23 metres right beside the path.", "line": "Hold your heart, oh traveller, tightly in mighty hands!", "by": "Eduard Mörike, Der Rheinfall", "source": "https://en.wikipedia.org/wiki/Rhine_Falls"},
+  "zhgrossmuenster": {"name": "Grossmünster", "art": "church", "slogan": "Two bare towers where Zwingli turned Zurich upside down.", "line": "Richard Wagner reportedly mocked its twin towers as looking like two pepper dispensers.", "source": "https://en.wikipedia.org/wiki/Grossm%C3%BCnster"},
+  "zhfraumuenster": {"name": "Fraumünster", "art": "church", "slogan": "Chagall's blue and gold light, poured over an abbess's old church.", "line": "In 1045 its abbess won the right to mint coins and hold markets, making her ruler of the city.", "source": "https://en.wikipedia.org/wiki/Fraum%C3%BCnster"},
+  "steinrathausplatz": {"name": "Stein am Rhein", "art": "canalhouses", "slogan": "Painted facades and oriel windows around a perfect little square.", "line": "In 1972 Stein am Rhein received the very first Wakker Prize for preserving its architecture.", "source": "https://en.wikipedia.org/wiki/Stein_am_Rhein"},
+  "habsburgcastle": {"name": "Habsburg Castle", "art": "castle", "slogan": "A modest hilltop keep where an empire's family name began.", "line": "Built around 1020, it may be named after a hawk (Habicht) that Count Radbot saw on its walls.", "source": "https://en.wikipedia.org/wiki/Habsburg_Castle"}
+ }}

@@ -1,0 +1,8 @@
+{"picks": ["preiffelstairs","pclouvre","pcnotredame","pnsacrecoeur","pwarcdetriomphe"],
+ "cards": {
+  "preiffelstairs": {"name": "Eiffel Tower", "art": "tower", "slogan": "Iron lace you can climb one landing at a time.", "line": "My tower will be the tallest edifice ever erected by man.", "by": "Gustave Eiffel, replying to critics, c. 1887", "source": "https://en.wikipedia.org/wiki/Eiffel_Tower"},
+  "pclouvre": {"name": "Louvre Pyramid", "art": "museum", "slogan": "A glass diamond set in a royal courtyard.", "line": "I. M. Pei's glass pyramid opened in 1989 and is made of 673 panes, not the 666 of the old legend.", "source": "https://en.wikipedia.org/wiki/Louvre_Pyramid"},
+  "pcnotredame": {"name": "Notre-Dame", "art": "church", "slogan": "Eight centuries of stone, back from the flames.", "line": "Begun in 1163, the cathedral burned on 15 April 2019 and reopened in December 2024.", "source": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris"},
+  "pnsacrecoeur": {"name": "Sacré-Cœur", "art": "church", "slogan": "White domes above the rooftops of Montmartre.", "line": "Paris is a moveable feast.", "by": "Ernest Hemingway, A Moveable Feast, 1964", "source": "https://en.wikiquote.org/wiki/Paris"},
+  "pwarcdetriomphe": {"name": "Arc de Triomphe", "art": "skyline", "slogan": "Twelve avenues, one roundabout, one great gate.", "line": "Napoleon ordered it in 1806, but it was only inaugurated in 1836; 284 steps lead to the roof.", "source": "https://en.wikipedia.org/wiki/Arc_de_Triomphe"}
+ }}

@@ -1,0 +1,972 @@
+{
+ "new": [
+  {
+   "id": "ajaccioboncasa",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit Napoleon's birthplace at Maison Bonaparte",
+   "desc": "The Musée national de la Maison Bonaparte stands on the corner of rue Saint-Charles and rue Letizia in Ajaccio's old centre. Napoleon was born here on 15 August 1769, and the house stayed in the family until Prince Victor-Napoléon gave it to the State in 1924.",
+   "tip": "Opening hours change between April-September and October-March, so check the museum site before going. Closed on Mondays.",
+   "q": "Musée national de la Maison Bonaparte, Rue Saint-Charles, Ajaccio",
+   "ll": [
+    41.91916,
+    8.73835
+   ],
+   "src": [
+    "https://www.napoleon.org/magazine/lieux/musee-national-de-la-maison-bonaparte-ajaccio/",
+    "https://www.lonelyplanet.fr/destinations/france/corse/ajaccio/que-faire/musee-national-de-la-maison-bonaparte"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ajacciofesch",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See Italian old masters at the Palais Fesch",
+   "desc": "The Palais Fesch-Musée des Beaux-Arts was founded by Cardinal Joseph Fesch, Napoleon's maternal uncle, on rue Cardinal Fesch. It is known for a panorama of Italian painting from the 14th to 18th centuries and holds the Musée de France label.",
+   "tip": "Allow two hours. Hours are limited on some days, so check musee-fesch.com first.",
+   "q": "Palais Fesch - Musée des Beaux-Arts, 50-52 Rue Cardinal Fesch, Ajaccio",
+   "ll": [
+    41.92167,
+    8.73833
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Palais_Fesch"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ajacciochapelleimperiale",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Descend into the Bonaparte crypt at the Chapelle Impériale",
+   "desc": "The Imperial Chapel was built from 1857 at Napoleon III's wish and consecrated on 9 September 1860. It forms the south wing of the Palais Fesch and its crypt holds Napoleon's parents, Carlo and Letizia Bonaparte, and Cardinal Fesch.",
+   "tip": "One guide reports it opens mainly in the summer season, so check before visiting.",
+   "q": "Chapelle impériale, Rue Cardinal Fesch, Ajaccio",
+   "ll": [
+    41.92068,
+    8.73895
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Imperial_Chapel_of_Ajaccio",
+    "https://www.visit-corsica.com/en/Mon-sejour/Patrimoine-culturel/Tout-le-patrimoine-culturel/CHAPELLE-IMPERIALE-CRYPTE-DE-LA-FAMILLE-BONAPARTE"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ajacciocitadelle",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk the ramparts of the Citadelle d'Ajaccio",
+   "desc": "The Genoese citadel dates from the late 15th century and was a military site until 2019, when the city of Ajaccio bought it. It has been listed as a historic monument since 1975 and parts, including the moat, have been opened to the public in stages.",
+   "tip": "Access is partial while redevelopment works are under way, so ask the tourist office what is open.",
+   "q": "Citadelle d'Ajaccio, Ajaccio",
+   "ll": [
+    41.91685,
+    8.74024
+   ],
+   "src": [
+    "https://monumentum.fr/monument-historique/pa00099062/ajaccio-citadelle",
+    "https://www.corsenetinfos.corsica/Ajaccio-les-douves-de-la-citadelle-Miollis-s-ouvrent-au-public_a80409.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ajacciocathedral",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step inside Ajaccio's Genoese cathedral",
+   "desc": "The Cathédrale Notre-Dame-de-l'Assomption (Santa Maria Assunta) on rue Forcioli-Conti was completed in 1593. It is a Latin-cross Counter-Reformation church with an ochre facade, a dome and richly decorated chapels.",
+   "tip": "Napoleon was baptised here. Visit in the morning, outside services.",
+   "q": "Cathédrale Notre-Dame-de-l'Assomption, Rue Forcioli Conti, Ajaccio",
+   "ll": [
+    41.92396,
+    8.73628
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ajaccio_Cathedral",
+    "https://monumentum.fr/monument-historique/pa00099058/ajaccio-cathedrale-santa-maria-assunta-ou-cathedrale-notre-dame"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "parataotower",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Watch sunset at the Tour de la Parata",
+   "desc": "A ruined Genoese watchtower on the Parata headland, dated to the mid-16th century, faces the Îles Sanguinaires archipelago. The islands glow red at dusk, which gave them their name.",
+   "tip": "About 12 km west of Ajaccio with a large car park and a short path. Arrive an hour before sunset in summer.",
+   "q": "Tour de la Parata, Route des Sanguinaires, Ajaccio",
+   "ll": [
+    41.89538,
+    8.60841
+   ],
+   "src": [
+    "https://www.visit-corsica.com/fr/Mon-sejour/Patrimoine-culturel/Tout-le-patrimoine-culturel/TOUR-DE-LA-PARATA",
+    "https://www.routard.com/fr/guide/france/corse/corse-du-sud/ajaccio/iles-sanguinaires"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "calanchesdepiana",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Marvel at the red granite Calanques de Piana",
+   "desc": "The Calanques de Piana are rust-red granite pinnacles falling to the Gulf of Porto, part of the UNESCO-listed Gulf of Porto area. The D81 road threads through them between Piana and Porto.",
+   "tip": "Best in late afternoon light. A loop passes the Chalet des Roches Bleues; carry water as supplies are scarce on the route.",
+   "q": "Calanques de Piana, D81, Piana",
+   "ll": [
+    42.24705,
+    8.65523
+   ],
+   "src": [
+    "https://www.visorando.com/en/walk-calanches-et-foret-de-piana/",
+    "https://www.visit-corsica.com/en/Explore-Corsica/Our-inspirations/Cultural-inspirations/Relaxing-getaways-Corsican-villages-where-you-can-stroll-in-complete-tranquillity"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "girolatavillage",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Reach the road-less village of Girolata",
+   "desc": "Girolata is a hamlet on the west coast with no road access, reachable only by sea or on foot by a mule track from the Col de la Croix. A 16th-century Genoese fort with a tower and chapel guards the little bay.",
+   "tip": "Most visitors come by boat from Porto, with a stop of 30-60 minutes. Restaurants are open in summer only.",
+   "q": "Girolata, Osani",
+   "ll": [
+    42.34969,
+    8.61245
+   ],
+   "src": [
+    "https://www.visit-corsica.com/fr/Mon-sejour/Patrimoine-culturel/Tout-le-patrimoine-culturel/GIROLATA",
+    "https://www.bouger-voyager.com/visiter-girolata/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "portogenoesetower",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the Genoese tower of Porto",
+   "desc": "The 16th-century Tour génoise de Porto on its promontory above the marina in Ota was fully restored in the 1990s. A two-level interior leads to a terrace with views over the village and Gulf of Porto.",
+   "tip": "Open 1 April to 31 October, with a small entry fee. Good at sunset.",
+   "q": "Tour génoise de Porto, Place de la Marine, Porto, Ota",
+   "ll": [
+    42.26774,
+    8.69153
+   ],
+   "src": [
+    "https://monumentum.fr/monument-historique/pa00099100/ota-tour-genoise-de-porto",
+    "https://www.visit-corsica.com/fr/Mon-sejour/Patrimoine-culturel/Tout-le-patrimoine-culturel/TOUR-DE-PORTO"
+   ]
+  },
+  {
+   "id": "cargesetwochurches",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Compare Cargèse's Greek and Latin churches",
+   "desc": "In Cargèse two churches face each other across the bay: the Byzantine-rite Saint-Spyridon, built in the 19th century, and the Latin church. The village was founded by Greek refugees in the 17th century.",
+   "tip": "Inside the Greek church look for the icons brought from Greece. Orthodox Easter celebrations are a local tradition.",
+   "q": "Église Saint-Spyridon, Cargèse",
+   "ll": [
+    42.13357,
+    8.59492
+   ],
+   "src": [
+    "https://monumentum.fr/monument-historique/pa00099088/cargese-eglise-saint-spiridon-dite-grecque",
+    "https://monumentum.fr/monument-historique/pa00099089/cargese-eglise-dite-latine"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "filitosamenhirs",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Meet the statue-menhirs of Filitosa",
+   "desc": "Filitosa near Sollacaro is a prehistoric site occupied from the Neolithic to Antiquity. It was identified in 1946 by owner Charles-Antoine Cesari and holds about 70 granite statue-menhirs, including Filitosa V, the largest and best armed.",
+   "tip": "Walk the olive-grove trail early or late to avoid crowds. Site website: filitosa.fr.",
+   "q": "Site préhistorique de Filitosa, D57, Sollacaro",
+   "ll": [
+    41.736,
+    8.805
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Filitosa",
+    "https://www.visit-corsica.com/en/Explore-Corsica/Our-inspirations/Cultural-inspirations/The-prehistoric-site-of-Filitosa-a-journey-to-the-heart-of-8-000-years-of-Corsican-history"
+   ]
+  },
+  {
+   "id": "sartenetown",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander the granite lanes of Sartène's old town",
+   "desc": "Sartène's Place de la Libération (formerly Place Porta) is dominated by the church of Sainte-Marie at the entrance of the historic Pietraggio district. Granite houses and narrow passages lead off the square.",
+   "tip": "Take a coffee on the square, then walk into Pietraggio. Quiet in the early evening.",
+   "q": "Place de la Libération, Sartène",
+   "ll": [
+    41.62099,
+    8.97231
+   ],
+   "src": [
+    "https://monumentum.fr/monument-historique/pa00099116/sartene-eglise-paroissiale-sainte-marie",
+    "https://www.corsicatours.com/en/inspirations/sartene-a-cultural-stopover-in-southern-corsica"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sartenemuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Trace Corsican prehistory at the Sartène museum",
+   "desc": "The Musée de Préhistoire Corse et d'Archéologie occupies the former prison at the top of the old town and opened in 1977. Its notable collection of statue-menhirs and a room on underwater archaeology cover the island from fauna to Roman times.",
+   "tip": "Plan 45 minutes to an hour. A good primer before visiting Cauria or Filitosa.",
+   "q": "Musée de Préhistoire Corse et d'Archéologie, Rue Croce, Sartène",
+   "ll": [
+    41.62078,
+    8.97367
+   ],
+   "src": [
+    "https://corsicalovers.fr/en/visit-museum-archaeology-corsica-sartene/",
+    "https://www.lonelyplanet.com/points-of-interest/musee-de-prehistoire-corse-et-d-archeologie/1594632"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bonifaciocitadel",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore Bonifacio's clifftop citadel",
+   "desc": "The Haute Ville of Bonifacio is a Genoese fortified town on a limestone promontory, entered by the Porte de Gênes. The Bastion de l'Étendard, built by the Genoese in the 15th-16th century, has a museum and sweeping views.",
+   "tip": "Start at the Bastion de l'Étendard. Allow 1.5 to 2 hours; very crowded at midday in summer.",
+   "q": "Citadelle de Bonifacio, Haute Ville, Bonifacio",
+   "ll": [
+    41.38751,
+    9.15909
+   ],
+   "src": [
+    "https://www.lonelyplanet.fr/destinations/france/corse/que-faire/la-citadelle-de-bonifacio",
+    "https://corsicalovers.fr/visiter-citadelle-bonifacio/"
+   ]
+  },
+  {
+   "id": "bonifacioescalier",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Descend the Escalier du Roi d'Aragon",
+   "desc": "A staircase of about 187-189 steps is cut into the limestone cliff on Bonifacio's southern side and reachable only from the top. Legend says the Aragonese troops carved it in one night in 1420.",
+   "tip": "Physically demanding on the way back up; wear grippy shoes and respect safety rules.",
+   "q": "Escalier du Roi d'Aragon, Bonifacio",
+   "ll": [
+    41.38624,
+    9.15618
+   ],
+   "src": [
+    "https://www.visit-corsica.com/en/Mon-sejour/Patrimoine-culturel/Tout-le-patrimoine-culturel/ESCALIER-DU-ROY-D-ARAGON",
+    "https://monumentum.fr/monument-historique/pa00132600/bonifacio-escalier-du-roi-daragon"
+   ]
+  },
+  {
+   "id": "bonifaciograindesable",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Photograph the Grain de Sable rock off Bonifacio's cliffs",
+   "desc": "The Grain de Sable is an isolated rock formed by a rockfall, seen from a belvedere beneath the citadel. The cliffs of the Bouches de Bonifacio reserve rise more than 100 m in places.",
+   "tip": "Reached from Place Saint-Roch in the Haute Ville; the limestone crumbles, so stay back from edges.",
+   "q": "Grain de Sable, Bonifacio",
+   "ll": [
+    41.38553,
+    9.16295
+   ],
+   "src": [
+    "https://www.arrivalguides.com/en/Travelguide/BONIFACIO/doandsee/grain-de-sable-83800",
+    "https://www.globe-trotting.com/post/falaise-bonifacio-corse"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bavellaaiguilles",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stand beneath the Aiguilles de Bavella",
+   "desc": "The Aiguilles de Bavella are serrated granite spires above the Col de Bavella at 1,218 m on the D268. A white marble Notre-Dame-des-Neiges statue stands at the pass, a pilgrimage site around 5 August.",
+   "tip": "Paid parking at the pass. Hikes start here; go early in summer for cooler air and clearer views.",
+   "q": "Col de Bavella, D268, Zonza",
+   "ll": [
+    41.79582,
+    9.2245
+   ],
+   "src": [
+    "https://en.wikipedia.com/wiki/Aiguilles_de_Bavella",
+    "https://www.le-gr20.fr/en/pages/don-t-miss-on-the-gr20/les-aiguilles-and-the-col-de-bavella.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "cauriamegaliths",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk among the standing stones of Cauria",
+   "desc": "The Cauria plateau near Sartène has three protected megalithic sites: the Stantari and Renaghju stone alignments and the Funtanaccia dolmen. Over 30 stones once stood at Stantari alone.",
+   "tip": "Free and not commercialised; about 10 km from Sartène via the D48, then a 10-minute walk from the track.",
+   "q": "Alignement d'I Stantari, Cauria, Sartène",
+   "ll": [
+    41.5303,
+    8.9217
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Alignement_d'I_Stantari"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "cucuruzzucapula",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the Bronze Age fort of Cucuruzzu",
+   "desc": "Cucuruzzu and Capula are two archaeological sites near Levie reaching back to the Mesolithic. Visitors follow a roughly 3 km path of about two hours through boulders and forest.",
+   "tip": "Open 1 April to 31 October; full price 4 euros. Good shoes recommended. The Musée de l'Alta Rocca in Levie fits well alongside.",
+   "q": "Castellu di Cucuruzzu, Levie",
+   "ll": [
+    41.7247,
+    9.1267
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Castellu_di_Cucuruzzu"
+   ]
+  },
+  {
+   "id": "portovecchiobastion",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look out from the Bastion de France in Porto-Vecchio",
+   "desc": "The Bastion de France is one of five Genoese bastions in Porto-Vecchio's upper-town citadel, built about 1542 to guard the harbour. Its rooftop terrace gives a 360-degree view over the gulf, salt marshes and mountains.",
+   "tip": "Opening is seasonal, and one guide notes it may be closed to visitors, so check at the tourist office.",
+   "q": "Bastion de France, Rue de la Citadelle, Porto-Vecchio",
+   "ll": [
+    41.5915,
+    9.2826
+   ],
+   "src": [
+    "https://www.portovecchio-tourisme.corsica/en/historic-sites/le-bastion-de-france/",
+    "https://www.visit-corsica.com/de/layout/set/print/Mon-sejour/Patrimoine-culturel/Tout-le-patrimoine-culturel/LE-BASTION-DE-FRANCE-DE-PORTO-VECCHIO"
+   ]
+  },
+  {
+   "id": "maisoncamedda",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine on Corsican-Mediterranean plates at Maison Camedda",
+   "desc": "Maison Camedda on boulevard du Roi Jérôme serves French and Mediterranean cooking with Corsican touches. It scores highly on review sites, with diners praising the dishes and desserts.",
+   "tip": "Book ahead and confirm current hours, as listings differ on opening times.",
+   "q": "Maison Camedda, 7 Boulevard du Roi Jérôme, Ajaccio",
+   "ll": [
+    41.92061,
+    8.73844
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/10703160/maison-camedda",
+    "https://www.sluurpy.fr/ajaccio/restaurant/8834534/maison-camedda"
+   ]
+  },
+  {
+   "id": "bonifaciofaby",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Buy canistrelli and brocciu tart at Boulangerie Faby",
+   "desc": "A family bakery on rue Saint-Jean-Baptiste in the Haute Ville that sells canistrelli biscuits, Corsican cheese pies and a Toussaint brioche with raisins and walnuts.",
+   "tip": "Go early before it sells out; reviews on service vary.",
+   "q": "Boulangerie Faby Noël, 4 Rue Saint-Jean-Baptiste, Bonifacio",
+   "ll": [
+    41.38795,
+    9.16307
+   ],
+   "src": [
+    "https://www.arrivalguides.com/fr/Travelguide/BONIFACIO/cafes/boulangerie-faby-noel-84222",
+    "https://www.gillespudlowski.com/?p=74203"
+   ]
+  },
+  {
+   "id": "bonifaciosorba",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste canistrelli and fugazzi at Pâtisserie Sorba",
+   "desc": "Pâtisserie Sorba dates to 1921 and has two shops in Bonifacio. It sells eight varieties of canistrelli, five of fugazzi and brocciu tarts.",
+   "tip": "Seasonal, open 1 April to 31 October.",
+   "q": "Pâtisserie Sorba de la Marine, Place Saint-Érasme, Bonifacio",
+   "ll": [
+    41.3874,
+    9.1566
+   ],
+   "src": [
+    "https://www.visit-corsica.com/en/Mon-sejour/Organismes/Tous-les-organismes/PATISSERIE-SORBA-DE-LA-MARINE"
+   ]
+  },
+  {
+   "id": "bonifaciostelladoro",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order aubergines à la bonifacienne at Stella d'Oro",
+   "desc": "Stella d'Oro on rue Doria in the old town lists aubergines à la Bonifacienne, brocciu ravioli and lobster spaghetti among its specialities. The dish is aubergine stuffed with breadcrumb, onion, brocciu and basil.",
+   "tip": "Reserve in season; a 2025 review praises the aubergine 'trilogy'.",
+   "q": "Stella d'Oro, Rue Doria, Bonifacio",
+   "ll": [
+    41.3878,
+    9.159
+   ],
+   "src": [
+    "https://www.visit-corsica.com/nl/Mon-sejour/Restaurants/Tous-les-restaurants/STELLA-D-ORO",
+    "https://fr.gaultmillau.com/fr/restaurants/stella-d-oro"
+   ]
+  },
+  {
+   "id": "bonifacioarianova",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try the chef's bonifacienne aubergine at Aria Nova",
+   "desc": "Aria Nova is a fine-dining table in Bonifacio that Gault&Millau 2026 praises, singling out its aubergines à la bonifacienne.",
+   "tip": "Higher price level; book ahead in summer.",
+   "q": "Aria Nova, Rue Fred Scamaroni, Bonifacio",
+   "ll": [
+    41.3871,
+    9.1583
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/restaurants/aria-nova"
+   ]
+  },
+  {
+   "id": "portovecchiocasacorsa",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat veal with olives at Casa Corsa on the marina",
+   "desc": "Casa Corsa is a traditional Corsican restaurant facing the Porto-Vecchio marina, known for generous portions of veal with olives, wild boar and veal chop.",
+   "tip": "Very popular, so book; it rates around 4.7 on Google.",
+   "q": "Casa Corsa, Port de Plaisance, Porto-Vecchio",
+   "ll": [
+    41.5885,
+    9.285
+   ],
+   "src": [
+    "https://rankeat.fr/restaurants/casa-corsa-porto-vecchio",
+    "https://mapstr.com/place/2H9sjwNBPpg"
+   ]
+  },
+  {
+   "id": "portovecchiouborgu",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine on the ramparts at U Borgu",
+   "desc": "U Borgu sits at the top of Porto-Vecchio's old town on the citadel ramparts with a panoramic terrace and Corsican cooking.",
+   "tip": "Ask for a terrace table at sunset.",
+   "q": "U Borgu, Rue de la Citadelle, Porto-Vecchio",
+   "ll": [
+    41.59081,
+    9.28033
+   ],
+   "src": [
+    "https://rankeat.fr/restaurants/u-borgu"
+   ]
+  },
+  {
+   "id": "santupultru",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste house charcuterie and black pig at Santu Pultru",
+   "desc": "Santu Pultru near Sartène builds its menu on charcuterie from semi-wild black pigs, brocciu and chestnut, with house-reared veal and fish from the small port of Tizzano. It holds a Michelin Plate.",
+   "tip": "A few kilometres outside town; a car is needed. Reserve.",
+   "q": "Santu Pultru, D48, Sartène",
+   "ll": [
+    41.56702,
+    8.91421
+   ],
+   "src": [
+    "https://guide.michelin.com/en/corse/sartene_1508622/restaurant/santu-pultru"
+   ]
+  },
+  {
+   "id": "acciolabergerie",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Sit on the terrace of La Bergerie d'Acciola",
+   "desc": "La Bergerie d'Acciola near Sartène serves Corsican cuisine on a terrace with views over hills and sea and has a farm shop selling cheeses, charcuterie, wines and honey.",
+   "tip": "Season runs May to early October; buy cheese and honey to take home.",
+   "q": "La Bergerie d'Acciola, Route de Bonifacio, Acciola, Sartène",
+   "ll": [
+    41.57936,
+    8.94206
+   ],
+   "src": [
+    "https://visit-corsica.com/en/Mon-sejour/Restaurants/Tous-les-restaurants/LA-BERGERIE-D-ACCIOLA",
+    "https://mapstr.com/place/ErHejYKVGzg"
+   ]
+  },
+  {
+   "id": "fiumicicoli",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Cuvée Vassilia at Domaine Fiumicicoli",
+   "desc": "Domaine Fiumicicoli near Sartène was founded in 1964 by Félix Andreani and is farmed organically. The flagship Cuvée Vassilia blends 80 percent Niellucciu and 20 percent Sciaccarellu from granite slopes.",
+   "tip": "Route de Lévie; call 04 95 77 10 20 to arrange a visit.",
+   "q": "Domaine Fiumicicoli, Route de Lévie, Sartène",
+   "ll": [
+    41.625,
+    9.009
+   ],
+   "src": [
+    "https://www.visit-corsica.com/La-destination-Corse/Inspirations-corses/Inspirations-autour-du-vin/Domaine-Fiumicicoli",
+    "https://www.hachette-vins.com/guide-vins/producteurs/5141/scea-terra-corsa-dom-fiumicicoli"
+   ]
+  },
+  {
+   "id": "proprianochezparenti",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order grilled fish at Chez Parenti in Propriano",
+   "desc": "Chez Parenti on avenue Napoléon III is a fish and seafood restaurant run by the same family since 1935.",
+   "tip": "Michelin lists it at the upper price band; book for dinner in summer.",
+   "q": "Tout Va Bien Chez Parenti, 10 Avenue Napoléon III, Propriano",
+   "ll": [
+    41.67576,
+    8.90207
+   ],
+   "src": [
+    "https://guide.michelin.com/en/corse/propriano/restaurant/chez-parenti"
+   ]
+  },
+  {
+   "id": "proprianocabanon",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat fresh fish with a harbour view at Le Cabanon",
+   "desc": "Le Cabanon on avenue Napoléon III overlooks the Propriano harbour and is praised for its fresh fish, prepared at the table.",
+   "tip": "Reviews are mostly positive; service can be slow in high season.",
+   "q": "Le Cabanon, 26 Avenue Napoléon III, Propriano",
+   "ll": [
+    41.675,
+    8.9025
+   ],
+   "src": [
+    "https://www.sluurpy.fr/propriano/restaurant/2054958/le-cabanon"
+   ]
+  },
+  {
+   "id": "portolatourgenoise",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at La Tour Génoise by Porto marina",
+   "desc": "La Tour Génoise is a traditional restaurant at La Marine in Porto, open from 1 April to 31 October, near the Genoese tower.",
+   "tip": "Sunset table with a view of the tower.",
+   "q": "La Tour Génoise, Chemin de la Tour, Porto, Ota",
+   "ll": [
+    42.26744,
+    8.69349
+   ],
+   "src": [
+    "https://www.visit-corsica.com/en/Mon-sejour/Restaurants/Tous-les-restaurants/LA-TOUR-GENOISE"
+   ]
+  },
+  {
+   "id": "portoriviera",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat fresh pasta at Le Riviera on Place de la Marine",
+   "desc": "Le Riviera on Place de la Marine in Porto serves fresh homemade pasta on a terrace facing the sea.",
+   "tip": "Good for a family lunch after the boat trip.",
+   "q": "Le Riviera, Place de la Marine, Porto, Ota",
+   "ll": [
+    42.26776,
+    8.69319
+   ],
+   "src": [
+    "https://rankeat.fr/restaurants/restaurant-le-riviera-ota"
+   ]
+  },
+  {
+   "id": "sanguinairesboat",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Take a sunset boat trip to the Îles Sanguinaires",
+   "desc": "Sunset cruises leave Ajaccio's port Tino Rossi along the coast past the Parata tower to the red-rock Sanguinaires. Some include Corsican charcuterie and local wine tasting.",
+   "tip": "Book ahead; arrive 15 minutes before departure at Quai Napoléon.",
+   "q": "Port Tino Rossi, Quai Napoléon, Ajaccio",
+   "ll": [
+    41.91873,
+    8.74136
+   ],
+   "src": [
+    "https://www.civitatis.com/fr/ajaccio/croisiere-iles-sanguinaires/?aid=127",
+    "https://www.manawa.com/fr-FR/activite/corse/ajaccio/balade-en-bateau/balade-en-bateau-aux-iles-sanguinaires-au-coucher-du-soleil-depuis-ajaccio/14722"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "girolataboat",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cruise to Scandola and Girolata from Porto",
+   "desc": "Boat trips from Porto's marina visit the Scandola nature reserve and stop at Girolata, usually for 30-60 minutes. Trips run from about 2h15 to 5 hours, some adding the Calanques de Piana.",
+   "tip": "Prices range roughly 25 to 70 euros; free cancellation often available up to 24 hours before.",
+   "q": "Port de Porto, Marine de Porto, Ota",
+   "ll": [
+    42.26663,
+    8.69479
+   ],
+   "src": [
+    "https://www.manawa.com/fr-FR/activite/corse/piana/balade-en-bateau/decouverte-de-la-reserve-naturelle-de-scandola-et-de-girolata-en-bateau-depuis-porto-corse/12514",
+    "https://www.checkyeti.com/fr/d/3160/24649"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "lavezziboat",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Sail to the Îles Lavezzi from Piantarella",
+   "desc": "Boat trips cross the Bouches de Bonifacio nature reserve to the Lavezzi islands. Trips range from a little over 2 hours from Piantarella to 4 hours with snorkelling.",
+   "tip": "Reservation is compulsory; bring hat, water and a bag for litter, and stay on the paths.",
+   "q": "Plage de Piantarella, Navette de Cavallo, Bonifacio",
+   "ll": [
+    41.37662,
+    9.22193
+   ],
+   "src": [
+    "https://www.manawa.com/fr-FR/activite/corse/bonifacio/balade-en-bateau/balade-en-bateau-dans-la-reserve-naturelle-des-bouches-de-bonifacio-depuis-piantarella/14111"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "bonifaciocliffboat",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cruise beneath Bonifacio's cliffs from the port",
+   "desc": "About one-hour boat trips leave the Bonifacio port along the limestone cliffs, sea caves and coves. The Sdragonato cave may not be enterable, so check what each boat includes.",
+   "tip": "Departures about every 30 minutes, 9:00-18:00; tickets sold at the port.",
+   "q": "Port de Bonifacio, Quai Comparetti, Bonifacio",
+   "ll": [
+    41.38584,
+    9.16602
+   ],
+   "src": [
+    "https://www.portovecchio-tourisme.corsica/excursions/societe-des-promenades-en-mer-de-bonifacio/",
+    "https://generationvoyage.fr/bonifacio-v309705/"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "palombaggiabeach",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim at pine-fringed Palombaggia beach",
+   "desc": "Palombaggia on the peninsula south-east of Porto-Vecchio mixes pale sand, pink porphyry rocks and umbrella pines with views of the Cerbicale islands. It is part of the Natura 2000 network.",
+   "tip": "About 10-12 km from town; arrive early, as parking is limited. A summer shuttle serves it.",
+   "q": "Plage de Palombaggia, Porto-Vecchio",
+   "ll": [
+    41.5581,
+    9.3258
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Palombaggia"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "tamaricciubeach",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Relax at Tamaricciu beach, near Palombaggia",
+   "desc": "Plage de Tamaricciu (A Folacca) on the Palombaggia peninsula is listed by the Porto-Vecchio tourist office among the area's beaches.",
+   "tip": "Weekday mornings are calmer than July-August afternoons.",
+   "q": "Plage de Tamaricciu, Porto-Vecchio",
+   "ll": [
+    41.55172,
+    9.31431
+   ],
+   "src": [
+    "https://mapstr.com/place/zxP5qtuNang"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "santagiuliabeach",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Wade the turquoise lagoon of Santa Giulia",
+   "desc": "Santa Giulia is a large bay south of Porto-Vecchio with a shallow turquoise lagoon edged by several kilometres of white sand. It is supervised, with parking, a shuttle and restaurants, and a small reef suits snorkelling.",
+   "tip": "Shallow water suits families; avoid mid-July to mid-August for quiet.",
+   "q": "Plage de Santa Giulia, Porto-Vecchio",
+   "ll": [
+    41.53116,
+    9.27378
+   ],
+   "src": [
+    "https://mapstr.com/place/IIYLFAIOcHg"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "cavupools",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Bathe in the Cavu river pools near Sainte-Lucie",
+   "desc": "The Cavu river rises near Bavella and carved the '3 Piscines' pools in the rock near Sainte-Lucie-de-Porto-Vecchio. Marked paths follow the river.",
+   "tip": "Check current swimming advisories (ARS Corse) before bathing; the Cavu had a past bilharzia ban.",
+   "q": "Parking des Trois Piscines, Cavu river pools, Zonza",
+   "ll": [
+    41.73205,
+    9.29187
+   ],
+   "src": [
+    "https://www.visorando.com/randonnee-les-vasques-du-cavu-et-le-ruisseau-de-sa/"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "pertusatohike",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the clifftop path to Pertusato lighthouse",
+   "desc": "A gentle roughly 6 km round trip starts at the Saint-Roch chapel and follows the cliff crest to the Phare de Pertusato at Corsica's southern tip, inside the Bouches de Bonifacio reserve.",
+   "tip": "Cliff limestone crumbles, so keep away from edges; carry water, little shade.",
+   "q": "Chapelle Saint-Roch, Bonifacio",
+   "ll": [
+    41.38697,
+    9.16043
+   ],
+   "src": [
+    "https://www.visorando.com/randonnee-la-boucle-du-capo-pertusato-a-bonifacio/",
+    "https://corsicalovers.fr/cap-phare-pertusato-bonifacio/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "spelunca",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Spelunca gorges to the Genoese bridges",
+   "desc": "The Spelunca gorge trail runs between Ota and Évisa linking two Genoese bridges, Pianella and Zaglia; about 40 minutes from the start near Chez Félix to the first bridge.",
+   "tip": "A full trail takes about six hours return; check path closures at the Zaglia bridge.",
+   "q": "Gorges de Spelunca, Ota",
+   "ll": [
+    42.25128,
+    8.76849
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Gorges_de_la_Spelunca"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ajacciomarket",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Ajaccio market at square Campinchi",
+   "desc": "Ajaccio's food market moved from Place Foch to a hall at square Campinchi and runs Tuesday to Sunday, best in the morning. Stalls sell Corsican charcuterie, cheese and fish.",
+   "tip": "Go in the morning when stalls are fullest; verify current days with the city.",
+   "q": "Marché d'Ajaccio, Square Campinchi, Ajaccio",
+   "ll": [
+    41.92043,
+    8.73899
+   ],
+   "src": [
+    "https://www.corsenetinfos.corsica/Place-Campinchi-et-halle-des-marches-d-Ajaccio-La-finalisation-est-en-marche_a37448.html",
+    "https://www.visit-corsica.com/fr/La-destination-Corse/Inspirations-corses/Inspirations-gourmandes/Marche-en-Corse-a-la-decouverte-des-tresors-gastronomiques-de-l-Ile-de-Beaute"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "catenacciu",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Join the Catenacciu procession on Good Friday in Sartène",
+   "desc": "On Good Friday night the Catenacciu procession leaves from the church of Sainte-Marie on Place Porta (Place de la Libération) and winds through the old town. The 2026 edition began about 21:30.",
+   "tip": "Free to watch; arrive early for a place near the church.",
+   "q": "Église Sainte-Marie, Place de la Libération, Sartène",
+   "ll": [
+    41.62131,
+    8.97222
+   ],
+   "src": [
+    "https://www.visit-corsica.com/fr/La-destination-Corse/Inspirations-corses/Inspirations-culturelles/U-Catenacciu-ou-la-montee-du-Christ-au-calvaire",
+    "https://monumentum.fr/monument-historique/pa00099116/sartene-eglise-paroissiale-sainte-marie"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    3,
+    4
+   ]
+  },
+  {
+   "id": "campomoroloop",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the coastal loop from Campomoro tower",
+   "desc": "A moderate loop of about 14.5 km (+332 m, around 5 hours) leaves Campomoro along the coastal path. The Genoese tower above the village costs 2.50 euros and is open April to October.",
+   "tip": "Parking in summer is hard; arrive early morning.",
+   "q": "Tour de Campomoro, Belvédère-Campomoro",
+   "ll": [
+    41.63889,
+    8.80722
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Tour_de_Campomoro"
+   ]
+  },
+  {
+   "id": "perubeach",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Spend a lazy day at Peru beach, Cargèse",
+   "desc": "Cargèse has a village rhythm of two churches and the Peru beach, described as a relaxed local alternative to the big resorts.",
+   "tip": "Pair with the two churches; walk down from the village.",
+   "q": "Plage du Peru, Cargèse",
+   "ll": [
+    42.14611,
+    8.59287
+   ],
+   "src": [
+    "https://generationvoyage.fr/cargese-local/",
+    "https://www.bouger-voyager.com/visiter-cargese-et-environs/"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "sentiercretesparata",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Sentier des Crêtes to the Parata tower",
+   "desc": "A hiking route from Ajaccio leads along the ridge, past the Parata tower to Saint-Antoine beach, with views of the Sanguinaires.",
+   "tip": "Go early or late; little shade in summer.",
+   "q": "Pointe de la Parata, Route des Sanguinaires, Ajaccio",
+   "ll": [
+    41.90188,
+    8.61923
+   ],
+   "src": [
+    "https://sitytrail.com/en/trails/455040-Ajaccio--sentier-des-cretes-x-tour-de-la-parata-x-plage-st-antoine",
+    "https://www.decathlon-outdoor.com/fr-fr/explore/france/sublime-tour-de-la-parata-et-iles-sanguinaires-60f130dd115d7"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "tollalake",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Stroll around the Lac de Tolla reservoir",
+   "desc": "The Barrage de Tolla on the Prunelli forms the Lac de Tolla at about 550 m, less than an hour from Ajaccio. Public viewing platforms and walking paths surround the dam, and a belvedere overlooks it.",
+   "tip": "A popular summer outing; a via ferrata is nearby.",
+   "q": "Lac de Tolla, Tolla",
+   "ll": [
+    41.96833,
+    8.97222
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Lac_de_Tolla"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

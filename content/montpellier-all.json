@@ -1,0 +1,1358 @@
+{
+ "new": [
+  {
+   "id": "mtpcomedie",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Cross the Place de la Comédie to the Opéra Comédie",
+   "desc": "Montpellier's main square, pedestrianised in 1986, is named after the theatre first built here in the 18th century. The present Opéra Comédie opened on 1 October 1888 and was listed as a historic monument in 2020; a replica of the Three Graces fountain stands on the square.",
+   "tip": "Step inside the opera foyer to see the original Three Graces. The square is liveliest at dusk, when the cafés fill up.",
+   "q": "Place de la Comédie, Écusson, Montpellier",
+   "ll": [
+    43.6082,
+    3.8796
+   ],
+   "src": [
+    "https://www.montpellier-france.com/offers/place-de-la-comedie-montpellier-en-3835122"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mtppeyrou",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk the Promenade du Peyrou to the water tower",
+   "desc": "This royal square at Montpellier's highest point is crowned by a neoclassical château d'eau completed around 1768, fed by the Saint-Clément aqueduct. Formal French gardens lead to a terrace with views as far as the Pic Saint-Loup.",
+   "tip": "Come at sunset for the light on the hills. The aqueduct is a short walk west.",
+   "q": "Promenade royale du Peyrou, Montpellier",
+   "ll": [
+    43.61139,
+    3.87
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Promenade_du_Peyrou"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mtparceaux",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stroll beneath the Arceaux aqueduct",
+   "desc": "The Saint-Clément aqueduct, known as the Arceaux, carried water about 14 km to the Peyrou water tower. Its two tiers of stone arches, put into service on 7 December 1765, were inspired by the Pont du Gard and decommissioned in 1984.",
+   "tip": "Free to visit and served by tram line 3 (Les Arceaux). The Tuesday and Saturday market runs along the boulevard beneath it.",
+   "q": "Aqueduc Saint-Clément, Boulevard des Arceaux, Montpellier",
+   "ll": [
+    43.61167,
+    3.86667
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Aqueduc_Saint-Cl%C3%A9ment"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mtpfabre",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Tour the Musée Fabre and its Courbet rooms",
+   "desc": "The Musée Fabre shows European art from the 14th to the 21st century in an 18th-century town house with a contemporary extension. It holds one of the world's largest collections of paintings by Gustave Courbet.",
+   "tip": "Closed Mondays; check the official site for current hours and the ticket price. Allow two to three hours.",
+   "q": "Musée Fabre, Boulevard Bonne Nouvelle, Montpellier",
+   "ll": [
+    43.61125,
+    3.88015
+   ],
+   "src": [
+    "https://www.herault-tourisme.com/fr/fiche/patrimoine-culturel/musee-fabre-de-montpellier-mediterranee-metropole-montpellier_TFOPCULAR0340000045"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mtpjardinplantes",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Wander the Jardin des Plantes, France's oldest botanical garden",
+   "desc": "Founded in 1593 by Henri IV on the proposal of the physician Pierre Richer de Belleval, it was created to teach botany to medical students. It covers about 4.6 hectares and has been a historic monument since 1992.",
+   "tip": "Free entry; closed on some days, so check hours. Combine with the nearby Peyrou and the cathedral.",
+   "q": "Jardin des Plantes, Boulevard Henri IV, Montpellier",
+   "ll": [
+    43.61482,
+    3.87373
+   ],
+   "src": [
+    "https://monumentum.fr/monument-historique/pa00103773/montpellier-jardin-des-plantes"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mtpcathedrale",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Gaze up at the porch of Montpellier cathedral",
+   "desc": "The Cathédrale Saint-Pierre began as a church of the 14th-century monastery of Saint-Benoît. Its monumental canopy porch, carried by two cylindrical pillars, gives it a fortress-like look.",
+   "tip": "Free to enter outside services. The porch is best seen from the square in the morning light.",
+   "q": "Cathédrale Saint-Pierre, Place Saint-Pierre, Montpellier",
+   "ll": [
+    43.61331,
+    3.87405
+   ],
+   "src": [
+    "https://monumentum.fr/monument-historique/pa00103522/montpellier-cathedrale-saint-pierre"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mtpantigone",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk the neoclassical axis of Antigone",
+   "desc": "Ricardo Bofill designed this district between the Écusson and the Lez, built mainly from the 1980s to 2000. A 900-metre perspective of columns, statues, fountains and cypresses links the city to the river.",
+   "tip": "Walk from the Place du Nombre d'Or towards the Lez. Antigone also hosts a Saturday organic and farmers' market.",
+   "q": "Place du Nombre d'Or, Antigone, Montpellier",
+   "ll": [
+    43.60819,
+    3.88819
+   ],
+   "src": [
+    "https://www.montpellier-france.com/discover/a-thousand-years-of-history/emblematic-districts-of-montpellier/antigone/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mtpmoco",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See a show at MO.CO. Hôtel des Collections",
+   "desc": "Inaugurated in June 2019 in the former Hôtel Montcalm, this centre of the MO.CO. contemporary art ecosystem has no permanent collection. It stages about three temporary exhibitions a year, each lasting around three months.",
+   "tip": "Address is 13 rue de la République. Check moco.art for the current exhibition.",
+   "q": "MO.CO. Hôtel des Collections, 13 rue de la République, Montpellier",
+   "ll": [
+    43.60644,
+    3.87941
+   ],
+   "src": [
+    "https://www.herault-tourisme.com/fr/fichepatrimoine-culturel/moco-hotel-des-collections-montpellier_TFOPCULAR034V51NICT"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mtparctriomphe",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire Montpellier's Arc de Triomphe",
+   "desc": "The Porte du Peyrou was built in the 1690s to honour Louis XIV, with reliefs celebrating his victories. It stands about 15 metres high at the entrance to the Peyrou promenade.",
+   "tip": "Always accessible and free. About ten minutes' walk from the Place de la Comédie.",
+   "q": "Arc de Triomphe, Rue Foch, Montpellier",
+   "ll": [
+    43.61115,
+    3.87155
+   ],
+   "src": [
+    "https://montpellier-france.com/discover/a-thousand-years-of-history/must-sees-in-montpellier/the-triumphal-arch"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mtpbabote",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Tour de la Babote, a rampart-tower observatory",
+   "desc": "A relic of the 12th-century fortifications of the Écusson, the tower became an astronomical observatory in the 18th century and has been a listed monument since 1927. It now houses a chess club.",
+   "tip": "Open only on guided visits and during the Heritage Days in September; book ahead. It is at 17 boulevard de l'Observatoire.",
+   "q": "Tour de la Babote, boulevard de l'Observatoire, Montpellier",
+   "ll": [
+    43.60645,
+    3.87734
+   ],
+   "src": [
+    "https://monumentum.fr/monument-historique/pa00103606/montpellier-ancien-observatoire-dit-tour-de-la-babotte"
+   ]
+  },
+  {
+   "id": "mtpflaugergues",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Tour the gardens of Château de Flaugergues",
+   "desc": "This Montpellier 'folie' was built from 1696 by Étienne de Flaugergues. Its four hectares of listed gardens carry the Jardin remarquable label, and the estate also makes wine.",
+   "tip": "A free garden stroll and guided visits of the château or cellar exist; booking is strongly advised. Address: 1744 avenue Albert Einstein.",
+   "q": "Château de Flaugergues, 1744 avenue Albert Einstein, Montpellier",
+   "ll": [
+    43.61033,
+    3.92005
+   ],
+   "src": [
+    "https://www.herault-tourisme.com/fr/fiche/patrimoine-culturel/chateau-de-flaugergues-visites-montpellier_TFOPCULAR0340000039"
+   ]
+  },
+  {
+   "id": "setemontstclair",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb Mont Saint-Clair for the panorama over Sète",
+   "desc": "The belvédère at about 175 m looks over the Thau lagoon, the town, the lido and the Mediterranean; on a clear day the Pyrenees and Mont Canigou are visible. A waymarked loop of about 3 km crosses Aleppo pine woods.",
+   "tip": "Go on a clear day, ideally early or at sunset. The Notre-Dame de la Salette chapel is beside the lookout.",
+   "q": "Belvédère de Saint-Clair, Mont Saint-Clair, Sète",
+   "ll": [
+    43.40194,
+    3.68444
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Mont_Saint-Clair"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "setecimetieremarin",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Paul Valéry's grave at the Cimetière marin",
+   "desc": "The cemetery overlooks the sea at the foot of Mont Saint-Clair and was renamed Cimetière marin on 7 August 1945 after Valéry's poem. Paul Valéry and Jean Vilar are buried here.",
+   "tip": "Free and open at all times. Georges Brassens is buried in the different Le Py cemetery, not here.",
+   "q": "Cimetière marin, rue Jean Vilar, Sète",
+   "ll": [
+    43.39532,
+    3.69315
+   ],
+   "src": [
+    "https://www.herault-tourisme.com/fr/fiche/patrimoine-culturel/cimetiere-marin-sete_TFOPCULAR034V511KDQ/",
+    "https://en.tourisme-sete.com/the-fishermen-s-cemetery.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "setepaulvalery",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Browse the Musée Paul Valéry above the sea",
+   "desc": "The museum on the slope of Mont Saint-Clair holds over 700 paintings and more than a thousand drawings, with a Valéry collection of nearly 300 documents including 80 drawings and watercolours by the poet.",
+   "tip": "Address: 148 rue François-Desnoyer. A combined pass covers it, the Espace Georges Brassens and the MIAM.",
+   "q": "Musée Paul Valéry, 148 rue François Desnoyer, Sète",
+   "ll": [
+    43.39538,
+    3.69066
+   ],
+   "src": [
+    "https://www.herault-tourisme.com/fr/fiche/patrimoine-culturel/musee-paul-valery-sete_TFOPCULAR0340000101"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "setebrassensmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Follow Brassens's life at the Espace Georges Brassens",
+   "desc": "Inaugurated in 1991, this 850 m² museum with views over the Thau lagoon covers the singer's childhood in Sète, his Paris years and his libertarian period. Visitors wear headphones and hear Brassens's own voice.",
+   "tip": "Closed Mondays. Address: 67 boulevard Camille Blanc.",
+   "q": "Espace Georges Brassens, 67 boulevard Camille Blanc, Sète",
+   "ll": [
+    43.40592,
+    3.66485
+   ],
+   "src": [
+    "https://www.herault-tourisme.com/fr/fiche/patrimoine-culturel/espace-georges-brassens-sete_TFOPCULAR0340000013/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "agdecathedral",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the black basalt fortress-cathedral of Agde",
+   "desc": "The Cathédrale Saint-Étienne is built entirely of dark volcanic basalt, mostly in the second half of the 12th century, and looks like a fortress. It has been a listed monument since 1840.",
+   "tip": "Free to enter. The whole old town of Agde is built of volcanic stone, so allow time to walk its streets.",
+   "q": "Cathédrale Saint-Étienne, Agde",
+   "ll": [
+    43.314,
+    3.46912
+   ],
+   "src": [
+    "https://www.herault-tourisme.com/fr/fichepatrimoine-culturel/cathedrale-saint-etienne-agde_TFOPCULAR034V50WAAO",
+    "https://www.techno-science.net/fr/definitions/cathedrale-saint-etienne-d-agde"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bezierscathedral",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look over the Orb from Béziers cathedral terrace",
+   "desc": "The Saint-Nazaire cathedral sits on a rocky spur above the town. From its terrace and esplanade you see the Orb, the Pont Vieux and the vineyards of the Biterrois.",
+   "tip": "The best view is from the terrace, not the forecourt. Streets are narrow, so walk up from the old town.",
+   "q": "Cathédrale Saint-Nazaire, Plan des Albigeois, Béziers",
+   "ll": [
+    43.3415,
+    3.21004
+   ],
+   "src": [
+    "https://www.justacote.com/beziers-34500/lieux-de-culte/cathedrale-saint-nazaire-et-saint-celse-2452649.htm",
+    "https://ryo.co/fr/destinations/francia/lieux/vista-desde-la-catedral/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "fonserannes",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Watch boats climb the Fonséranes locks",
+   "desc": "The staircase of locks designed by Pierre-Paul Riquet on the Canal du Midi raises boats about 21.5 metres over around 300 m. Since 1858 the canal crosses the Orb on a bridge-canal 12 m above the river, and the site is part of the UNESCO-listed Canal du Midi.",
+   "tip": "Boats pass mostly in spring to autumn. Free to see; the Maison de l'Écluse gives background.",
+   "q": "Neuf écluses de Fonséranes, Béziers",
+   "ll": [
+    43.33168,
+    3.19556
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Fonseranes_Locks",
+    "https://www.herault-tourisme.com/fr/fiche/patrimoine-culturel/les-neuf-ecluses-de-fonseranes-beziers_TFOPCULAR034V52UCUF/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "enserune",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the Oppidum d'Ensérune above the Montady pond",
+   "desc": "This pre-Roman fortified hill town, occupied from the 6th century BC to the 1st century AD, saw Iberian, Gallic and Roman peoples succeed one another. It overlooks the drained Étang de Montady and has an archaeological museum.",
+   "tip": "The view of the radial fields of the dry pond is best in clear weather. Check the museum's opening hours.",
+   "q": "Oppidum d'Ensérune, Nissan-lez-Enserune",
+   "ll": [
+    43.30976,
+    3.11082
+   ],
+   "src": [
+    "https://www.herault-tourisme.com/fr/fiche/patrimoine-culturel/enserune-oppidum-et-musee-archeologique-nissan-lez-enserune_TFOPCULAR0340000078/"
+   ]
+  },
+  {
+   "id": "gellone",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Romanesque abbey of Gellone at Saint-Guilhem",
+   "desc": "Founded in 804 by Guillaume de Gellone, the abbey church is a masterpiece of early southern Romanesque art on the Compostela routes. The cloister was dismantled; its carved elements are scattered, some in the Metropolitan Museum in New York. It is a UNESCO World Heritage site.",
+   "tip": "Visit early or late in summer to avoid crowds; the village is one of the Plus Beaux Villages de France.",
+   "q": "Abbaye de Gellone, Saint-Guilhem-le-Désert",
+   "ll": [
+    43.7344,
+    3.5493
+   ],
+   "src": [
+    "https://www.herault-tourisme.com/fr/decouvrir/culture-et-patrimoine/top-des-plus-belles-abbayes-de-lherault/abbaye-de-gellone/"
+   ]
+  },
+  {
+   "id": "pontdudiable",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Cross the medieval Pont du Diable over the Hérault",
+   "desc": "Built between 1025 and 1031 at the entrance to the Hérault gorges, this arched bridge links Aniane and Saint-Jean-de-Fos and is part of the UNESCO Compostela listing. A Maison du Grand Site is next to it.",
+   "tip": "Paid parking nearby in summer; free shuttles run in high season. Swimming is authorised in the pools upstream on the Saint-Jean-de-Fos side.",
+   "q": "Pont du Diable, Saint-Jean-de-Fos",
+   "ll": [
+    43.70766,
+    3.55745
+   ],
+   "src": [
+    "https://www.herault-tourisme.com/fr/fiche/patrimoine-culturel/pont-du-diable-saint-jean-de-fos_TFOPCULAR034V52IXR7/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "clamouse",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Descend into the Grotte de Clamouse",
+   "desc": "This cave near Saint-Guilhem is known for its concretions, white organ-pipe formations, aragonite and stalactites. The guided visit lasts 1h20 to 1h30 over about 900 m and starts with a short film.",
+   "tip": "Take a light jacket. A Spéléopark adventure option exists; check clamouse.com for current prices.",
+   "q": "Grotte de Clamouse, Saint-Jean-de-Fos",
+   "ll": [
+    43.70959,
+    3.55258
+   ],
+   "src": [
+    "https://www.herault-tourisme.com/fr/fiche/equipements-de-loisirs/grotte-de-clamouse-saint-jean-de-fos_TFOLOILAR034V512PON/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "demoiselles",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Ride the funicular into the Grotte des Demoiselles",
+   "desc": "Reached by a funicular dating from 1931, one of the first underground funiculars in Europe, this huge cave in the Thaurac cliffs is a classic of the Hérault. Before the funicular, the descent took hours.",
+   "tip": "The cave is closed for maintenance from about 1 November to early February. Nearest bus stop is Rieutord, a 20-minute walk.",
+   "q": "Grotte des Demoiselles, Saint-Bauzille-de-Putois",
+   "ll": [
+    43.90752,
+    3.7446
+   ],
+   "src": [
+    "https://www.herault-tourisme.com/fr/fiche/equipements-de-loisirs/la-grotte-des-demoiselles-saint-bauzille-de-putois_TFOLOILAR034V52NKBL/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "navacelles",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look into the Cirque de Navacelles from Baume Auriol",
+   "desc": "The Baume Auriol belvédère gives a plunging panorama of the meander of the Vis gorge, a Grand Site de France. A 10 km hike of about 3h30 links it to the Blandas lookouts via the Chemin du Facteur.",
+   "tip": "Belvédère hours vary by season; the Blandas lookouts are free all year. Free shuttles run on selected summer days.",
+   "q": "Belvédère de la Baume Auriol, Saint-Maurice-Navacelles",
+   "ll": [
+    43.8578,
+    3.521
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Cirque_de_Navacelles"
+   ]
+  },
+  {
+   "id": "minerve",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Cross the natural bridges at Minerve",
+   "desc": "This Cathar stronghold sits on a rocky spur where the Cesse and the Brian gorges meet. The Cesse carved two limestone tunnels, the Grand Pont of about 228 m and the Petit Pont of about 126 m, which can be walked through when the river runs dry.",
+   "tip": "The tunnels are walkable in summer once the river has dried up. A stele recalls the Cathars burned in 1210.",
+   "q": "Minerve, Hérault",
+   "ll": [
+    43.35396,
+    2.74628
+   ],
+   "src": [
+    "https://www.herault-tourisme.com/fr/fiche/patrimoine-naturel/les-ponts-naturels-de-minerve-minerve_TFOPNALAR034V52UUGP/",
+    "https://www.herault-tourisme.com/fr/fiche/patrimoine-culturel/minerve-cite-cathare-minerve_TFOPCULAR034V50076R/"
+   ]
+  },
+  {
+   "id": "lodeve",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Lodève's cathedral and the Musée Fleury",
+   "desc": "The Cathédrale Saint-Fulcran, with 13th-14th century fabric and Visigothic capitals now in the museum, has been a listed monument since 1840. The Musée Fleury, reopened in July 2018, occupies Cardinal Fleury's townhouse and covers art, archaeology and natural sciences.",
+   "tip": "The cathedral is free. The museum is on square Georges Auric.",
+   "q": "Cathédrale Saint-Fulcran, Lodève",
+   "ll": [
+    43.7321,
+    3.3177
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Lod%C3%A8ve_Cathedral"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "maguelonecathedral",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk to the Romanesque cathedral of Maguelone",
+   "desc": "The cathedral of Saint-Pierre-et-Saint-Paul stands on a former island turned peninsula between the sea and the lagoons, built in the 12th and 13th centuries and managed by the Compagnons de Maguelone.",
+   "tip": "Park before the peninsula and walk or take the seasonal little train. Open roughly 9 am to 6 or 7 pm; bring water.",
+   "q": "Cathédrale de Maguelone, Villeneuve-lès-Maguelone",
+   "ll": [
+    43.51249,
+    3.88355
+   ],
+   "src": [
+    "https://www.herault-tourisme.com/fr/fiche/patrimoine-culturel/cathedrale-saint-pierre-de-maguelone-villeneuve-les-maguelone_TFOPCULAR034V500752/"
+   ]
+  },
+  {
+   "id": "valmagne",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Step into the wine-vat church of Valmagne abbey",
+   "desc": "This Cistercian abbey at Villeveyrac was sold as a national property after the Revolution and bought by a local winegrower, who turned the church into a cellar holding giant vats. It has a medieval garden and a vine collection.",
+   "tip": "Wines are tasted on site and a vigneron restaurant uses produce from the organic garden. Check valmagne.com for hours.",
+   "q": "Abbaye de Valmagne, Villeveyrac",
+   "ll": [
+    43.48722,
+    3.56222
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Abbaye_de_Valmagne"
+   ]
+  },
+  {
+   "id": "roquebrungarden",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the Mediterranean garden of Roquebrun",
+   "desc": "Created in 1986 beneath the medieval tower of Roquebrun, this garden holds a notable collection of succulents and Mediterranean plants and has the Jardin remarquable label since 2020. The village, nicknamed Little Nice of the Hérault, grows citrus.",
+   "tip": "Open from mid-February to mid-November. The Orb valley views from the terraces are the highlight.",
+   "q": "Jardin méditerranéen, au pied de la tour, Roquebrun",
+   "ll": [
+    43.50139,
+    3.03111
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Roquebrun"
+   ]
+  },
+  {
+   "id": "grandemotte",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Photograph the pyramids of La Grande-Motte",
+   "desc": "Jean Balladur's 1963 masterplan for this seaside resort drew on Mesoamerican pyramids and Brazilian modernism, with work starting in 1968. The Grande Pyramide is the emblem, its shape said to echo an upside-down Pic Saint-Loup.",
+   "tip": "The tourist office runs architecture walks; the port promenade and the Promenade des Vents give sea views.",
+   "q": "Grande Pyramide, La Grande-Motte",
+   "ll": [
+    43.5615,
+    4.0795
+   ],
+   "src": [
+    "https://visites.lagrandemotte.com/visites/1/en/",
+    "https://architectuul.com/architecture/la-grande-motte"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "pezenaslacoste",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Discover Pézenas's mansions and Molière's footsteps",
+   "desc": "Pézenas is a city of art and history where Molière and his troupe performed. The Hôtel de Lacoste at 8 rue François Oustrin has a vestibule, courtyard and staircase from the 16th-17th centuries, and the Hôtel d'Alfonse stands at 32 rue Conti.",
+   "tip": "Wander rue Conti and the lanes around it, then pick up a tourist-office map for the mansion courtyards.",
+   "q": "Hôtel de Lacoste, 8 rue François Oustrin, Pézenas",
+   "ll": [
+    43.4611,
+    3.4231
+   ],
+   "src": [
+    "https://www.capdagde.com/app/uploads/City-discovery-guide-Pezenas.pdf",
+    "https://www.herault-tourisme.com/fr/decouvrir/villes-et-villages-dans-lherault/pezenas/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "cellesvillage",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Celles, the village by the red Salagou lake",
+   "desc": "Celles stands on the shore of the Lac du Salagou, created in 1969. Its inhabitants left before the lake filled, but the water stopped at the village's edge and Celles is now slowly being revived. The surrounding ruffes are 250-million-year-old red rock rich in iron oxide.",
+   "tip": "Come early or late for the colours. The village is a base for loops round the lake.",
+   "q": "Celles, Lac du Salagou",
+   "ll": [
+    43.65652,
+    3.38067
+   ],
+   "src": [
+    "https://en.wikipedia.com/wiki/Celles,_H%C3%A9rault",
+    "https://laramoneta.com/?p=17497"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "mtpcaferiche",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have a coffee or lunch at Café Riche on the Comédie",
+   "desc": "Café Riche has stood at 8 place de la Comédie since 1893 and is counted among the city's oldest restaurants. It has a large shaded terrace, a ground-floor room and an upstairs room.",
+   "tip": "Coffee and drinks from 7 am to 1 am, meals from 11 am. The terrace is best at the start of the evening.",
+   "q": "Café Riche, 8 place de la Comédie, Montpellier",
+   "ll": [
+    43.6079,
+    3.8792
+   ],
+   "src": [
+    "https://www.montpellier-france.com/stay/places-to-eat/all-restaurants/cafe-riche-montpellier-en-4125776/"
+   ]
+  },
+  {
+   "id": "mtppetitjardin",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine in the hidden garden of Le Petit Jardin",
+   "desc": "At 20 rue Jean-Jacques-Rousseau, this restaurant is famed for a secluded garden terrace, described as one of the prettiest in the city. Gault&Millau rates it 12/20 and calls it an institution a century after opening.",
+   "tip": "Expect roughly 48 to 64 euros a head before drinks. Book the garden terrace for lunch in good weather.",
+   "q": "Le Petit Jardin, 20 rue Jean-Jacques Rousseau, Montpellier",
+   "ll": [
+    43.61223,
+    3.87329
+   ],
+   "src": [
+    "https://guide.michelin.com/en/occitanie/montpellier/restaurant/le-petit-jardin"
+   ]
+  },
+  {
+   "id": "mtpjardindessens",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Treat yourself at the Pourcel brothers' Jardin des Sens",
+   "desc": "Created in 1988 by Jacques and Laurent Pourcel, the restaurant held three Michelin stars from 1998 to 2006. Reopened in the Hôtel Richer de Belleval on Place de la Canourgue, it holds one Michelin star in 2026.",
+   "tip": "A tasting menu in 10 or 15 services; a full splurge, so book well ahead.",
+   "q": "Le Jardin des Sens, Place de la Canourgue, Montpellier",
+   "ll": [
+    43.61185,
+    3.87493
+   ],
+   "src": [
+    "https://montpellier-france.com/stay/places-to-eat/all-restaurants/jardin-des-sens-restaurant-montpellier-en-3835365"
+   ]
+  },
+  {
+   "id": "mtpcastellane",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Bouzigues oysters in the Halles Castellane",
+   "desc": "One of Montpellier's four municipal covered markets, it hosts about 25 stalls of cheese, charcuterie, fish and produce. Bouzigues oysters from the Étang de Thau are a particular draw.",
+   "tip": "Open every day except Monday according to some listings; verify before visiting. Go before 1 pm.",
+   "q": "Halles Castellane, Rue Castellane, Montpellier",
+   "ll": [
+    43.61012,
+    3.87684
+   ],
+   "src": [
+    "https://ryo.co/en/destinations/france/places/castellane-market-hall/",
+    "https://www.montpellier.fr/sites/default/files/2025-02/Halles-et-marches-2024.pdf"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mtplaissac",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Graze the stalls of Halles Laissac",
+   "desc": "The Halles Laissac on Place Alexandre Laissac is one of the four municipal covered markets, rebuilt in a Baltard style and reopened at the end of 2018 with about two dozen traders and some on-site meals.",
+   "tip": "Open daily except possibly Sunday afternoon; hours differ between sources, so check before visiting.",
+   "q": "Halles Laissac, Place Alexandre Laissac, Montpellier",
+   "ll": [
+    43.6061,
+    3.87662
+   ],
+   "src": [
+    "https://www.montpellier-france.com/covered-and-open-air-markets-in-montpellier/",
+    "https://ryo.co/en/destinations/france/places/laissac-market-hall/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "mtpmarchedulez",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat at the Marché du Lez food hall",
+   "desc": "This 7,500 m² former industrial wasteland at 1348 avenue Raymond Dugrand in Port Marianne now holds the Halles du Lez, a garden, a market square and a rooftop. It hosts food counters, brunches, concerts and flea markets.",
+   "tip": "Tram line 3, Pablo Picasso stop, is about 450-600 m away. Vendor hours vary; evenings are the busy time.",
+   "q": "Marché du Lez, 1348 avenue Raymond Dugrand, Montpellier",
+   "ll": [
+    43.59299,
+    3.90579
+   ],
+   "src": [
+    "https://www.montpellier-france.com/offers/marche-du-lez-montpellier-en-3835188"
+   ]
+  },
+  {
+   "id": "mtpglacierpj",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try artisan ice cream at Le Glacier du Petit Jardin",
+   "desc": "A glacier serving artisanal ice creams in the heart of the Écusson, run by the family behind the Petit Jardin restaurant.",
+   "tip": "A scoop after strolling the Écusson. Check seasonal opening hours.",
+   "q": "Le Glacier du Petit Jardin, 25 rue Jean-Jacques Rousseau, Montpellier",
+   "ll": [
+    43.61214,
+    3.87315
+   ],
+   "src": [
+    "https://www.tourisme-occitanie.com/fr/fiche/restauration/le-glacier-du-petit-jardin-montpellier_TFORESLAR034V52O0LO/"
+   ]
+  },
+  {
+   "id": "mtpgeorgescafe",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Take coffee and cake at Georges Café, rue de la Loge",
+   "desc": "Georges Café at 11 rue de la Loge, opened in 2018, is a café, restaurant, tea room and pâtisserie in the Loge district of the old town.",
+   "tip": "A good break between the Comédie and the cathedral. Check opening hours before going.",
+   "q": "Georges Café, 11 rue de la Loge, Montpellier",
+   "ll": [
+    43.6088,
+    3.8788
+   ],
+   "src": [
+    "https://mapstr.com/place/TJYWqCfCSZg/georges-cafe-montpellier-cafe-restaurant-salon_de_the-bar-patisserie"
+   ]
+  },
+  {
+   "id": "setegoelands",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order macaronade at Les Goélands on the Quai Général Durand",
+   "desc": "This quayside restaurant in Sète is known for Sète-style bouillabaisse and regional dishes such as bourride de baudroie, stuffed squid and stuffed mussels. Its 2026 menu lists macaronade and cuttlefish stew with rouille.",
+   "tip": "Macaronade, a pasta and beef dish, is a Sunday family classic in Sète. Book for weekend lunch.",
+   "q": "Les Goélands, Quai Général Durand, Sète",
+   "ll": [
+    43.40014,
+    3.69652
+   ],
+   "src": [
+    "https://www.herault-tourisme.com/fr/fiche/restauration/les-goelands-sete_TFORESLAR034FS001R3/"
+   ]
+  },
+  {
+   "id": "setecalanque",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste monkfish bourride at La Calanque",
+   "desc": "A long-standing restaurant on the Quai Général Durand by the fishing harbour, listed for beef macaronade, monkfish bourride and cuttlefish rouille.",
+   "tip": "Ask for the bourride de lotte or the rouille de seiche, both Sète classics.",
+   "q": "La Calanque, Quai Général Durand, Sète",
+   "ll": [
+    43.4008,
+    3.6958
+   ],
+   "src": [
+    "https://en.tourisme-sete.com/la-calanque-sete.html"
+   ]
+  },
+  {
+   "id": "setehallesmanger",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat plancha fish inside the Halles de Sète",
+   "desc": "Halles et Manger, at 6 rue de Metz in the Halles Centrales, serves fresh made-to-order Mediterranean fish, including cuttlefish, cooked on the plancha.",
+   "tip": "Combine with a tour of the market stalls; go at lunchtime.",
+   "q": "Halles et Manger, 6 rue de Metz, Halles Centrales, Sète",
+   "ll": [
+    43.40287,
+    3.6955
+   ],
+   "src": [
+    "https://www.tourisme-occitanie.com/fr/fiche/restauration/halles-et-manger-sete_TFORESLAR034V510IB7/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "setetielle",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Bite into a tielle sétoise from Cianni",
+   "desc": "The tielle is a spicy octopus pie, tracing back to Italian fishermen from Gaeta who settled in Sète from the 1880s. Cianni is one of the best-known names for it, with Gault&Millau listing Tielles Cianni Marcos.",
+   "tip": "Eat it warm; a good lunch on the go. Check opening hours as artisan shops close on some days.",
+   "q": "Tielles Cianni, Sète",
+   "ll": [
+    43.40451,
+    3.69979
+   ],
+   "src": [
+    "https://fr.gaultmillau.com/fr/artisans/tielles-cianni-marcos",
+    "https://figaronautisme.meteoconsult.fr/actus-nautisme-lifestyle/2026-03-24/86847-tielle-setoise-la-tourte-au-poulpe-epicee-emblematique-du-port-de-sete"
+   ]
+  },
+  {
+   "id": "setepralus",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Sample pralines and a tielle at Pralus in Sète",
+   "desc": "The Pralus boutique in Sète is a chocolatier and pastry shop, where the Sète pages recommend tasting the tielle sétoise or a macaronade.",
+   "tip": "Try the famous praline brioche too; confirm what the Sète shop stocks.",
+   "q": "Pralus Sète, Sète",
+   "ll": [
+    43.4006,
+    3.6964
+   ],
+   "src": [
+    "https://www.chocolats-pralus.com/pages/boutiques/pralus-sete"
+   ]
+  },
+  {
+   "id": "bouzigueshuitres",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Thau oysters at Le Cercle des Huîtres in Bouzigues",
+   "desc": "Le Cercle des Huîtres is an oyster farm on the north shore of the Étang de Thau, serving the lagoon's oysters and shellfish. Typical spend is about 18 to 30 euros a head before drinks.",
+   "tip": "Bouzigues is the heart of Thau oyster farming; the nearby Mas du Joep is another option. Book in summer.",
+   "q": "Le Cercle des Huîtres, 1001 chemin de la Catonnière, Bouzigues",
+   "ll": [
+    43.44792,
+    3.64409
+   ],
+   "src": [
+    "https://www.herault-tourisme.com/fr/fiche/producteurs-du-terroir/le-cercle-des-huitres-bouzigues_TFODEGLAR034V51S4GP/"
+   ]
+  },
+  {
+   "id": "bouzigueshjoep",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Slurp oysters and mussels at Le Mas du Joep",
+   "desc": "Le Mas du Joep, a Loupian farm on the Thau lagoon next to Bouzigues, sells its own production and offers a short menu of Thau oysters and mussels.",
+   "tip": "A simple lagoon-side tasting; go at lunchtime and check opening days.",
+   "q": "Le Mas du Joep, zone conchylicole Loupian Est, La Croix Neuve, Loupian",
+   "ll": [
+    43.4442,
+    3.63811
+   ],
+   "src": [
+    "https://www.herault-tourisme.com/fr/fiche/producteurs-du-terroir/le-mas-du-joep-loupian_TFODEGLAR034V52J88L"
+   ]
+  },
+  {
+   "id": "palavasrivegauche",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat creative Mediterranean dishes at La Plage Rive Gauche",
+   "desc": "A seafront restaurant at 1 boulevard Sarrail on Palavas's left bank, near the Phare de la Méditerranée and the central beach, described as creative Mediterranean cuisine with a sea-view terrace.",
+   "tip": "Ask for a terrace table at lunch. Check opening dates as many beach restaurants are seasonal.",
+   "q": "La Plage Rive Gauche, 1 boulevard Sarrail, Palavas-les-Flots",
+   "ll": [
+    43.52903,
+    3.93517
+   ],
+   "src": [
+    "https://rankeat.fr/restaurants/la-plage-rive-gauche-palavas-les-flots"
+   ]
+  },
+  {
+   "id": "valmagnerestaurant",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Lunch at the winemaker's restaurant of Valmagne abbey",
+   "desc": "The vigneron restaurant at Valmagne abbey uses fruit, vegetables and herbs from the organic kitchen garden and medieval garden, with the estate's wines.",
+   "tip": "Combine with the abbey visit; booking is advisable.",
+   "q": "Restaurant Vigneron de l'Abbaye de Valmagne, D5, Villeveyrac",
+   "ll": [
+    43.4867,
+    3.56283
+   ],
+   "src": [
+    "https://www.herault-tourisme.com/fr/fiche/restauration/restaurant-vigneron-de-l-abbaye-de-valmagne-villeveyrac_TFORESLAR034FS002E1/"
+   ]
+  },
+  {
+   "id": "pezenaspetitpate",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try a petit pâté de Pézenas at Maison Alary",
+   "desc": "The petit pâté is a spool-shaped pastry of lamb, sugar and lemon zest said to descend from Lord Clive's Indian cooks in the 18th century. Maison Alary, listed as Aux Petits Pâtés, is one of the Pézenas bakeries making it.",
+   "tip": "The address is listed at 9 rue des Chevaliers de Saint-Jean; some sources differ, so confirm. Buy a box warm to take away.",
+   "q": "Aux Petits Pâtés - Maison Alary, 3 rue Conti, Pézenas",
+   "ll": [
+    43.4608,
+    3.4223
+   ],
+   "src": [
+    "https://www.myboulange.fr/34/pezenas/aux-petits-pates-maison-alary-71092"
+   ]
+  },
+  {
+   "id": "bezierhalles",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Graze the Halles de Béziers, France's best market of 2025",
+   "desc": "The Baltard-style Halles de Béziers date from 1891 and were renovated in 1987 and again in 2024. The market was voted France's Plus Beau Marché 2025 by TF1 viewers, with over twenty stalls and a plancha restaurant.",
+   "tip": "Open daily except Monday, roughly 7 am to 1 pm. La Plancha des Halles is inside.",
+   "q": "Les Halles de Béziers, Place Pierre Sémard, Béziers",
+   "ll": [
+    43.34349,
+    3.21181
+   ],
+   "src": [
+    "https://www.herault-tourisme.com/fr/fiche/patrimoine-culturel/les-halles-de-beziers-beziers_TFOPCULAR034V52UCTR/",
+    "https://rankeat.fr/restaurants/la-plancha-des-halles"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "pinetpicpoul",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Picpoul de Pinet at the Cave de l'Ormarine",
+   "desc": "The Pinet tasting room of the Cave de l'Ormarine, at 13 avenue du Picpoul, is part of a cooperative dating to 1922 and a major defender of the Picpoul de Pinet appellation.",
+   "tip": "Picpoul is the classic wine for Thau oysters. Ask for opening hours and prices.",
+   "q": "Cave de l'Ormarine, Caveau de Pinet, 13 avenue du Picpoul, Pinet",
+   "ll": [
+    43.412,
+    3.531
+   ],
+   "src": [
+    "https://www.herault-tourisme.com/fr/fiche/producteurs-du-terroir/cave-de-l-ormarine-caveau-de-pinet-pinet_TFODEGLAR034V52TZAT/"
+   ]
+  },
+  {
+   "id": "lascauxwine",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Pic Saint-Loup wines at Château de Lascaux",
+   "desc": "A family wine estate in the village of Vacquières, about 35 km from Montpellier, with vines on limestone hills in the Pic Saint-Loup area. It offers guided tastings and a wine-and-sweets workshop.",
+   "tip": "Tastings from about 11 to 12 euros; book in advance. Address: route du Brestalou.",
+   "q": "Château de Lascaux, route du Brestalou, Vacquières",
+   "ll": [
+    43.845,
+    3.94517
+   ],
+   "src": [
+    "https://www.herault-tourisme.com/fr/fiche/producteurs-du-terroir/chateau-de-lascaux-vacquieres_TFODEGLAR034FS000CO/"
+   ]
+  },
+  {
+   "id": "mtpdanse",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Catch Montpellier Danse at the Agora",
+   "desc": "The Montpellier Danse festival runs each June into early July around the Agora, Cité internationale de la danse, in the former Ursuline convent. Around half its events are free, including open-air dance lessons in the city's squares.",
+   "tip": "The 2026 edition was set for 20 June to 4 July; check the programme for next year.",
+   "q": "Agora, Cité internationale de la danse, rue Sainte-Ursule, Montpellier",
+   "ll": [
+    43.6146,
+    3.87817
+   ],
+   "src": [
+    "https://www.herault-tourisme.com/fr/fiche/equipements-de-loisirs/agora-cite-internationale-de-la-danse-montpellier_TFOLOILAR034V52SWYT/"
+   ],
+   "months": [
+    6,
+    7
+   ]
+  },
+  {
+   "id": "mtpradiofrance",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Attend the Festival Radio France Occitanie Montpellier",
+   "desc": "Created in 1985, this July music festival fills the Corum's Opéra Berlioz and Salle Pasteur, plus venues around the metropolitan area. The 41st edition ran from 5 to 18 July 2026.",
+   "tip": "Many concerts are free; lunchtime concerts are in the Corum. Check dates for the next edition.",
+   "q": "Le Corum, Esplanade Charles de Gaulle, Montpellier",
+   "ll": [
+    43.6135,
+    3.8815
+   ],
+   "src": [
+    "https://www.montpellier-france.com/Prepare-Book/What-s-on/Not-To-Miss-Events/Radio-France-Music-Festival",
+    "https://en.wikipedia.com/wiki/Festival_de_Radio_France_et_Montpellier"
+   ],
+   "months": [
+    7
+   ]
+  },
+  {
+   "id": "mtparceauxmarket",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Arceaux market on Tuesday or Saturday",
+   "desc": "The market under the aqueduct runs on the Boulevard des Arceaux on Tuesday and Saturday from 7 am to 1:30 pm, with up to about 80 stalls on some days, many of them organic.",
+   "tip": "Go on Saturday morning; the organic market at Antigone is the other big Saturday option.",
+   "q": "Marché des Arceaux, Boulevard des Arceaux, Montpellier",
+   "ll": [
+    43.6115,
+    3.865
+   ],
+   "src": [
+    "https://encommun.montpellier.fr/sites/default/files/articles/2025-09/BD-DEPLIANT-3-VOLETS-A4-HALL-ET-MARCHE_09-25-PP-V05.pdf",
+    "https://www.herault-tourisme.com/fr/bien-manger/notre-art-de-vivre/nos-marches-coups-de-coeur/"
+   ]
+  },
+  {
+   "id": "mtpbergeslez",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cycle or walk the Berges du Lez",
+   "desc": "The riverbanks form a continuous green corridor through the city, with the Castelnau weir and Parc Rimbaud on a popular loop. A longer route follows the old railway line from Montpellier to Palavas by the sea.",
+   "tip": "Start from the Écusson or Antigone and head downstream. Check the Maison du Lez for panels about the river.",
+   "q": "Berges du Lez, Pont Zuccarelli, Montpellier",
+   "ll": [
+    43.60475,
+    3.89639
+   ],
+   "src": [
+    "https://montpellier-france.com/stay/leisure-and-activities/parks-gardens-and-natural-sites/le-fleuve-lez-montpellier-en-3835168"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "setejoutes",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch the water jousts of the Saint-Louis festival",
+   "desc": "Sète's jousting tournaments take place on the Royal Canal, with the main one at the Cadre Royal near the Quai de la Résistance. The Saint-Louis festival is held in August, with a grand tournament and closing fireworks.",
+   "tip": "Most events are free to watch; jousts also run from April to September on other quays.",
+   "q": "Cadre Royal, Quai de la Résistance, Sète",
+   "ll": [
+    43.4032,
+    3.6966
+   ],
+   "src": [
+    "https://www.archipel-thau.com/en/our-local-authorities/sete/what-is-there-to-see-in-sete/panel-8-the-royal-frame/"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    8
+   ]
+  },
+  {
+   "id": "thauboat",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Sail the Thau lagoon with an oyster tasting",
+   "desc": "Boat trips with oyster and white wine tasting leave from Marseillan; L'Étoile de Thau IV offers 1 h or 1h30 outings past the oyster farms, with fares starting around 17 euros.",
+   "tip": "Bring a hat. Other boats leave from Sète, Mèze and Bouzigues. Confirm departures with the operator.",
+   "q": "L'Étoile de Thau IV, Port de Marseillan",
+   "ll": [
+    43.35323,
+    3.53396
+   ],
+   "src": [
+    "https://www.yumping.com/fr/promenades-en-bateau/letoile-de-thau-iv--e19761176",
+    "https://www.tourisme-occitanie.com/fr/fiche/activite/balade-en-bateau-sur-la-lagune-de-thau--degustation-marseillan_TFOASCCRTL1687374738/"
+   ]
+  },
+  {
+   "id": "noillyprat",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Tour the Noilly Prat vermouth cellars in Marseillan",
+   "desc": "The house dates from 1813 and makes its dry vermouth to the same recipe. The 45-minute guided visit led by the cellar master includes the brand museum and a tasting.",
+   "tip": "The explorer visit starts from about 17 euros. Book ahead in summer.",
+   "q": "Maison Noilly Prat, 1 rue Noilly, Marseillan",
+   "ll": [
+    43.3532,
+    3.53235
+   ],
+   "src": [
+    "https://www.herault-tourisme.com/fr/fiche/producteurs-du-terroir/maison-noilly-prat-marseillan_TFODEGLAR034FS0025A"
+   ]
+  },
+  {
+   "id": "balaructhermes",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Take the waters at the Thermes de Balaruc-les-Bains",
+   "desc": "The thermal establishment on the Thau shore, inaugurated in its present form in February 2015, covers 16,000 m² and is known for thermal mud treatments. It is open from late February to mid-December.",
+   "tip": "Address: 1 rue du Mont Saint-Clair. Day spa sessions and cures need booking.",
+   "q": "Thermes de Balaruc-les-Bains, 1 rue du Mont Saint-Clair, Balaruc-les-Bains",
+   "ll": [
+    43.43657,
+    3.6761
+   ],
+   "src": [
+    "https://www.archipel-thau.com/en/my-stay/things-to-do-in-the-thau-archipelago/all-activities/les-thermes-de-balaruc-les-bains-balaruc-les-bains-en-6264282/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "palavasbeach",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim at Palavas-les-Flots by the Phare de la Méditerranée",
+   "desc": "The Plage de l'Hôtel de Ville is the most central beach on the left bank, along the transcanal. The Phare de la Méditerranée, a converted water tower opened in 2000, has a viewing platform and a rotating restaurant.",
+   "tip": "Summer weekends are crowded; take the cycle path from Montpellier. The statue L'Espoir stands at the tip of the left bank.",
+   "q": "Plage de l'Hôtel de Ville, Palavas-les-Flots",
+   "ll": [
+    43.52861,
+    3.93222
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Phare_de_la_M%C3%A9diterran%C3%A9e"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "capdagderichelieu",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Spend a beach day on Plage Richelieu, Cap d'Agde",
+   "desc": "Richelieu is the longest and most visited beach in Cap d'Agde, over a kilometre of fine sand with supervised bathing and shallow water. The western end suits children thanks to its sandbanks.",
+   "tip": "Quieter alternative: La Roquille, with some rocks at its eastern end. Swimming is supervised in season only.",
+   "q": "Plage Richelieu, Le Cap d'Agde",
+   "ll": [
+    43.27405,
+    3.50322
+   ],
+   "src": [
+    "https://www.plages.tv/detail/plage-de-richelieu-cap-d-agde-34300",
+    "https://www.herault-tourisme.com/fr/fiche/equipements-de-loisirs/plage-richelieu-ouest-cap-d-agde_TFOLOILAR034V52TSUS/"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "montsaintloup",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike up the Mont Saint-Loup volcano at Cap d'Agde",
+   "desc": "Mont Saint-Loup is a cinder cone about 113 m high, part of a trio of Strombolian volcanoes, with a navy semaphore station at the top. Its basalt built the old town of Agde. A loop of about 9.7 km starts near the tourist office.",
+   "tip": "Easy ground; take water and go in the morning or evening.",
+   "q": "Mont Saint-Loup, Le Cap d'Agde",
+   "ll": [
+    43.2985,
+    3.50277
+   ],
+   "src": [
+    "https://www.herault-tourisme.com/fr/fiche/patrimoine-naturel/le-mont-saint-loup-agde_TFOPNALAR034V52UCWO/",
+    "https://www.visorando.com/randonnee-le-mont-saint-loup-un-ancien-volcan/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "agdecriee",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "See the fish auction at the Criée du Grau d'Agde",
+   "desc": "The Belvédère de la Criée at 43 quai Commandant Méric is described as the only fish auction on the French Mediterranean coast open to the public. Guided visits cover the fleet, the facilities and the sale.",
+   "tip": "Visits from 1 April to 31 October on reservation, at 10 am or 3 pm; check price before booking.",
+   "q": "Belvédère de la Criée, 43 quai Commandant Méric, Le Grau d'Agde",
+   "ll": [
+    43.29256,
+    3.44778
+   ],
+   "src": [
+    "https://www.herault-tourisme.com/fr/fiche/patrimoine-culturel/belvedere-de-la-criee-du-grau-d-agde-le-grau-d-agde_TFOPCULAR034V51JVUY/"
+   ]
+  },
+  {
+   "id": "malpasbike",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cycle the Canal du Midi to the Malpas tunnel",
+   "desc": "The Malpas tunnel at Colombiers, about 170 m long, is described as the world's first navigation tunnel on a canal, designed by Pierre-Paul Riquet. The Canal des 2 Mers à vélo stage from Capestang to Béziers runs about 21 km past it and the Fonséranes locks.",
+   "tip": "Surface is rough in places; take care at the tunnel entrance. A Colombiers loop also takes in Ensérune.",
+   "q": "Tunnel du Malpas, Colombiers",
+   "ll": [
+    43.30722,
+    3.12667
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Malpas_Tunnel"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "herauticanoe",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Paddle the Hérault gorges by canoe",
+   "desc": "The classic descent runs from the Pont du Diable to Saint-Guilhem-le-Désert with a return shuttle. Kayapuna offers 4 or 12 km runs through the wild stretch, with a 2026 season from 1 May to 20 September.",
+   "tip": "Fares from about 29 euros. Book a shuttle; Canoë Borg has a 3 km and a 14 km option.",
+   "q": "Canoë Kayapuna, 12 avenue Saint-Benoît d'Aniane, Saint-Guilhem-le-Désert",
+   "ll": [
+    43.7323,
+    3.55346
+   ],
+   "src": [
+    "https://www.herault-tourisme.com/fr/fiche/prestataires-d-activites/canoe-kayapuna-saint-guilhem-le-desert_TFOASCLAR0340000296/"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "salagouvailhes",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Paddle or swim in the Lac du Salagou at Les Vailhés",
+   "desc": "The Baie des Vailhés has a supervised beach and a nautical base renting canoes, kayaks, paddle boards, pedalos and sailing boats. Motor boats are banned except electric ones.",
+   "tip": "Supervised swimming is in July and August only. Paddle hire from about 18 euros for two hours.",
+   "q": "Base nautique du Salagou, Baie des Vailhés, Celles",
+   "ll": [
+    43.66976,
+    3.35523
+   ],
+   "src": [
+    "https://www.herault-tourisme.com/fr/fiche/prestataires-d-activites/base-nautique-du-salagou-baie-des-vailhes-celles_TFOASCLAR0340000007",
+    "https://www.herault-tourisme.com/fr/fiche/equipements-de-loisirs/plage-des-vailhes-celles_TFOLOILAR034FS00150/"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "picsaintloup",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike to the summit of the Pic Saint-Loup",
+   "desc": "The 658 m peak is a landmark of the hills north of Montpellier. The popular route from Cazevieille is about 5.5 to 6 km return, around 350 m of climb, 2 to 3 hours.",
+   "tip": "The path can be closed in summer for fire risk; check before going. A longer, shadier route starts at Saint-Mathieu-de-Tréviers.",
+   "q": "Pic Saint-Loup, Cazevieille",
+   "ll": [
+    43.77889,
+    3.81117
+   ],
+   "src": [
+    "https://www.herault-tourisme.com/fr/fiche/patrimoine-naturel/pic-saint-loup-cazevieille_TFOPNALAR0340000015/",
+    "https://www.bouger-voyager.com/randonnee-sommet-pic-saint-loup/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hericgorges",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Gorges d'Héric from Mons-la-Trivalle",
+   "desc": "A moderate loop of about 12 km via the Col de Bardou climbs through shade and returns along the gorge with several swimming spots. An easier accessible route covers about 4.7 km.",
+   "tip": "Parking is paid; avoid after heavy rain when the road can be cut.",
+   "q": "Gorges d'Héric, Mons-la-Trivalle",
+   "ll": [
+    43.56711,
+    2.95933
+   ],
+   "src": [
+    "https://www.herault-tourisme.com/fr/fiche/itineraires-touristiques/randonnee-des-gorges-d-heric-par-le-col-de-bardou-mons-la-trivalle_TFOITILAR034V52NEJT/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "moureze",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Scramble through the Cirque de Mourèze",
+   "desc": "This dolomitic cirque near the Salagou has about 70 rock formations with names such as the Sphinx and the Oracle. The loop is about 7.5 km, around 2h30, yellow-marked from the Mourèze car park.",
+   "tip": "Slippery in the rain; the car park costs about 3 euros. The easier Courtinals trail shares the start.",
+   "q": "Cirque de Mourèze, Mourèze",
+   "ll": [
+    43.62409,
+    3.36171
+   ],
+   "src": [
+    "https://www.herault-tourisme.com/fr/fiche/itineraires-touristiques/randonnee-du-cirque-de-moureze-moureze_TFOITILAR034V50G3JT/",
+    "https://www.visorando.com/randonnee-le-cirque-de-moureze/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "pezenasmarket",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Browse the Saturday market of Pézenas",
+   "desc": "Held every Saturday since 1434, the market draws about 120 stalls between Place Frédéric Mistral and Place du Marché des Trois Six, with an organic market on Place Gambetta.",
+   "tip": "The organic market is 8 am to 1 pm; the main market runs about 9 am to 6 pm. Artisan workshops open Saturdays off-season.",
+   "q": "Place Gambetta, Pézenas",
+   "ll": [
+    43.46096,
+    3.42303
+   ],
+   "src": [
+    "https://laramoneta.com/?p=232",
+    "https://www.herault-tourisme.com/fr/decouvrir/villes-et-villages-dans-lherault/pezenas/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "berloutasting",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Taste Saint-Chinian Berlou at Les Coteaux de Berlou",
+   "desc": "A cooperative cellar founded in 1965, classed in the Saint-Chinian and Saint-Chinian Berlou appellations, with free guided tastings.",
+   "tip": "Guided visits on request; for a full day add the Maison des Vins de Saint-Chinian.",
+   "q": "Les Coteaux de Berlou, 1 avenue des Mimosas, Berlou",
+   "ll": [
+    43.4886,
+    2.95883
+   ],
+   "src": [
+    "https://www.herault-tourisme.com/fr/fiche/producteurs-du-terroir/cave-les-coteaux-de-berlou-berlou_TFODEGLAR034FS000BR/"
+   ]
+  },
+  {
+   "id": "sylvaplana",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Taste Faugères schist wines at Abbaye Sylva Plana",
+   "desc": "This organic estate in Laurens farms 54 ha in the Faugères appellation, recognised in 1982 and grown on schist. It has a tasting area, shop and wine bar, and guided visits of about 30 minutes on request.",
+   "tip": "Guided visits on request; check opening hours and book.",
+   "q": "Abbaye Sylva Plana, 13 ancienne route nationale, Laurens",
+   "ll": [
+    43.5248,
+    3.18812
+   ],
+   "src": [
+    "https://www.herault-tourisme.com/fr/fiche/producteurs-du-terroir/abbaye-sylva-plana-laurens_TFODEGLAR034FS0015H/"
+   ]
+  }
+ ]
+}

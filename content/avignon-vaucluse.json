@@ -1,0 +1,1153 @@
+{
+ "new": [
+  {
+   "id": "gordesvillage",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander the tiered lanes of Gordes",
+   "desc": "Gordes is a hilltop village in the Luberon built in tiers on a rocky spur, crowned by a château listed as a monument historique in 1931. Its dry-stone houses and steep calades made it one of the best-known villages in Provence, helped by the film A Good Year.",
+   "tip": "Arrive early or late in the day to avoid the crowds; the classic photo viewpoint is on the D2 road just before the village.",
+   "q": "Château de Gordes, Place du Château, Gordes",
+   "ll": [
+    43.9111,
+    5.2008
+   ],
+   "src": [
+    "https://luberon.fr/communes/gordes",
+    "https://www.parcduluberon.fr/en/geosite-en/gordes-en/"
+   ]
+  },
+  {
+   "id": "senanqueabbey",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the lavender at Sénanque Abbey",
+   "desc": "Notre-Dame de Sénanque is a Cistercian abbey in a narrow valley near Gordes, where a small community of monks still lives and works. The Romanesque church and cloister are framed by lavandin fields that flower from late June.",
+   "tip": "Lavender is at its best from late June to mid July; book the guided or audioguide visit in advance in season. The shop sells honey and lavender products made by the monks.",
+   "q": "Abbaye Notre-Dame de Sénanque, Route de Sénanque, Gordes",
+   "ll": [
+    43.92845,
+    5.18715
+   ],
+   "src": [
+    "https://luberon.fr/tourisme/les-sites-touristiques/monuments/annu+abbaye-notre-dame-de-senanque+1700.html",
+    "https://provence-alpes-cotedazur.com/que-faire/culture-et-patrimoine/lieux/abbaye-notre-dame-de-senanque-gordes-fr-2857318/"
+   ]
+  },
+  {
+   "id": "boriesgordes",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Step inside the dry-stone Village des Bories",
+   "desc": "An open-air museum of corbelled dry-stone huts called bories, restored and opened to visitors in 1976 and listed as a historic monument. The huts, mostly dating from the 17th century, show how farmers and shepherds lived and stored their produce.",
+   "tip": "Open daily with longer hours in summer; plan on about an hour. It is a short drive southwest of Gordes on the D15.",
+   "q": "Village des Bories, Route de Cavaillon, Gordes",
+   "ll": [
+    43.90743,
+    5.18019
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Village_des_Bories",
+    "https://luberon.fr/tourisme/les-sites-touristiques/monuments/annu+village-des-bories+1712.html"
+   ],
+   "tags": []
+  },
+  {
+   "id": "roussillonvillage",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Admire the ochre-red houses of Roussillon",
+   "desc": "Roussillon is a Plus Beaux Villages de France hamlet whose houses glow in shades of yellow, orange and red thanks to the ochre quarried here since Roman times. It sits at the foot of the Monts de Vaucluse above former ochre quarries.",
+   "tip": "Climb to the viewpoint at the Castrum terrace for the panorama over the ochre cliffs; late afternoon light is the best.",
+   "q": "Place de la Mairie, Roussillon",
+   "ll": [
+    43.90249,
+    5.29289
+   ],
+   "src": [
+    "https://luberon.fr/page/roussillon-et-le-sentier-des-ocres---visite-guidees+17209.html",
+    "https://www.provenceweb.fr/f/vaucluse/roussill/roussill.htm"
+   ]
+  },
+  {
+   "id": "okhraecomusee",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Ôkhra, the ochre ecomuseum in Roussillon",
+   "desc": "The former Mathieu ochre factory houses the Ôkhra ecomuseum, opened in 1994 as the Conservatoire des Ocres. Visitors see the washing basins, kilns and mills used to turn quarried ochre into pigment, plus a dye garden.",
+   "tip": "Visits last 30 to 50 minutes; hours are seasonal and some weekends are closed in winter, so check before going. Painting workshops are offered.",
+   "q": "Ôkhra Écomusée de l'ocre, 570 route d'Apt, Roussillon",
+   "ll": [
+    43.89603,
+    5.30585
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/que-faire/culture-et-patrimoine/lieux/okhra-ecomusee-de-locre-roussillon-fr-2878230/",
+    "https://okhra.com/en"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "coloradorustrel",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the Colorado Provençal at Rustrel",
+   "desc": "A former open-pit ochre quarry near Rustrel, where mining began in 1871 and left cliffs, chimneys and canyons in vivid reds and oranges. The site can be explored only on foot along marked trails such as the Sentier des Belvédères.",
+   "tip": "Enter from the paid Mille Couleurs car park on the D22; allow about 1h45 for the main belvedere loop and wear sturdy shoes, as the ochre stains clothes.",
+   "q": "Colorado Provençal, parking Mille Couleurs, D22, Rustrel",
+   "ll": [
+    43.91323,
+    5.49628
+   ],
+   "src": [
+    "https://luberon.fr/tourisme/balades/randonnees/annu+colorado-provencal+4184.html",
+    "https://provence-alpes-cotedazur.com/que-faire/itineraires-randonnee/rustrel-tour-du-colorado-provencal-rustrel-fr-6179322/"
+   ]
+  },
+  {
+   "id": "bonnieuxoldchurch",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb to the Vieille Église of Bonnieux",
+   "desc": "The old church at the top of Bonnieux, also called the église haute, has Romanesque origins and was enlarged in Provençal Gothic style in the 15th century. It is listed as a historic monument and now hosts summer concerts and a Christmas crib.",
+   "tip": "Entry is free. Reach it by the stepped path past the cedar-shaded terrace for a wide view over the Calavon valley and the Luberon.",
+   "q": "Vieille Église (Église haute), Bonnieux",
+   "ll": [
+    43.8258,
+    5.308
+   ],
+   "src": [
+    "https://monumentum.fr/monument-historique/pa00081980/bonnieux-eglise-haute",
+    "https://fr.wikipedia.org/wiki/Bonnieux"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "pontjulienbonnieux",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Cross the Roman Pont Julien near Bonnieux",
+   "desc": "A three-arched Roman stone bridge on the Via Domitia over the Calavon, traditionally dated to 3 BC. It is 85 metres long and carried road traffic until 2005, when a new bridge was built beside it.",
+   "tip": "Free to visit on foot or by bike, the Véloroute du Calavon crosses it. It lies about 5 km north of Bonnieux and 8 km west of Apt.",
+   "q": "Pont Julien, D149, Bonnieux",
+   "ll": [
+    43.86272,
+    5.30649
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Pont_Julien",
+    "https://luberon.fr/tourisme/les-sites-touristiques/monuments/annu+pont-julien+1720.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "lourmarinchateau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the Renaissance château of Lourmarin",
+   "desc": "Often described as the first Renaissance château in Provence, it combines a medieval keep with a Renaissance wing added from 1526. Industrialist Robert Laurent-Vibert bought and restored it in 1920, and it now houses a cultural foundation with exhibitions and concerts.",
+   "tip": "Open all year except 25 December and 1 January; allow 1.5 to 2 hours. Combine with a stroll and coffee in the village below.",
+   "q": "Château de Lourmarin, 2 avenue Laurent Vibert, Lourmarin",
+   "ll": [
+    43.76443,
+    5.35923
+   ],
+   "src": [
+    "https://luberon.fr/tourisme/les-sites-touristiques/chateaux/annu+chateau-de-lourmarin+1698.html",
+    "https://provence-alpes-cotedazur.com/que-faire/culture-et-patrimoine/monuments/chateau-de-lourmarin/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "menerbescorkscrew",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Browse 1,200 corkscrews at Ménerbes",
+   "desc": "The Musée du Tire-Bouchon is a private collection of about 1,200 corkscrews from the 17th century to today, at the Domaine de la Citadelle wine estate outside Ménerbes. The estate also has a botanical garden and a tasting cellar.",
+   "tip": "Entry to the museum is about 4 euros; check seasonal hours. Ménerbes itself is a Plus Beaux Villages de France worth a walk.",
+   "q": "Domaine de la Citadelle Musée du Tire-Bouchon, 601 route de Cavaillon, Ménerbes",
+   "ll": [
+    43.8338,
+    5.19
+   ],
+   "src": [
+    "https://luberon.fr/tourisme/sorties-en-luberon/musees/annu+musee-du-tire-bouchon+1668.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "lacostechateau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the château of the Marquis de Sade at Lacoste",
+   "desc": "The hilltop château in Lacoste was home to the Marquis de Sade, who lived here between 1769 and 1772 and again later. Looted in 1789 and left in ruins, it was bought by Pierre Cardin in 2001 and partly restored.",
+   "tip": "Guided visits run in season; the Festival de Lacoste is held in the château quarries in July. Park below the village and walk up.",
+   "q": "Château de Lacoste, Rue du Château, Lacoste",
+   "ll": [
+    43.83238,
+    5.27192
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Lacoste",
+    "https://luberon.fr/tourisme/les-sites-touristiques/chateaux/annu+chateau-de-lacoste+1718.html"
+   ]
+  },
+  {
+   "id": "ansouischateau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Join the owners' tour of Château d'Ansouis",
+   "desc": "A castle on a rock above Ansouis, visited with commentary from the owners, with terraces and French-style box-hedge gardens. The tour usually ends with a tasting, and the village also has a wine tools and crafts museum.",
+   "tip": "Open from Easter to All Saints; visits last 1 to 1.5 hours. Check chateauansouis.fr for current days and times.",
+   "q": "Château d'Ansouis, Rue du Château, Ansouis",
+   "ll": [
+    43.73882,
+    5.46389
+   ],
+   "src": [
+    "https://luberon.fr/tourisme/les-sites-touristiques/chateaux/annu+chateau-d-ansouis+1708.html",
+    "https://provence-alpes-cotedazur.com/que-faire/culture-et-patrimoine/lieux/chateau-dansouis-ansouis-fr-2866799/"
+   ]
+  },
+  {
+   "id": "fontainevaucluse",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Gaze into the source of the Sorgue at Fontaine-de-Vaucluse",
+   "desc": "The spring of the Sorgue is the most powerful exurgence in France, an underground river that surfaces from a karst chasm more than 300 metres deep. Petrarch lived in the village in the 14th century, and the river runs through its centre.",
+   "tip": "The chasm is most impressive in spring and autumn after rain; access to the closest viewpoint can be restricted for rockfall risk. Walk up from the village centre in 15 minutes.",
+   "q": "Fontaine de Vaucluse, Source de la Sorgue, Fontaine-de-Vaucluse",
+   "ll": [
+    43.919,
+    5.1269
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Fontaine-de-Vaucluse"
+   ]
+  },
+  {
+   "id": "ventouxsummit",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Reach the bare summit of Mont Ventoux",
+   "desc": "Mont Ventoux rises to 1,912 metres and is the highest point of Vaucluse, a limestone peak that looks snow-capped even in summer. It is famous for Tour de France stages since 1958 and for the sweeping views from the summit weather station.",
+   "tip": "The summit road is open roughly mid-April to mid-November, but wind can be fierce and temperatures much cooler than in the valley. Bring a jacket.",
+   "q": "Sommet du Mont Ventoux, Bédoin",
+   "ll": [
+    44.17389,
+    5.27833
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Mont_Ventoux"
+   ]
+  },
+  {
+   "id": "vaisonpuymin",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the Roman quarter of Puymin in Vaison",
+   "desc": "The Puymin archaeological site in Vaison-la-Romaine includes a 1st-century Roman theatre and a residential quarter with mosaics. The Théo Desplans museum houses the statues of Hadrian and Sabina found during excavations.",
+   "tip": "Adult ticket is about 9 euros in 2026 and includes a short guided theatre visit. Ask about the second Roman site, La Villasse, as well.",
+   "q": "Site archéologique de Puymin, rue Burrus, Vaison-la-Romaine",
+   "ll": [
+    44.2431,
+    5.0741
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/en/offers/roman-theatre-in-vaison-la-romaine-vaison-la-romaine-en-2891301",
+    "https://provence-alpes-cotedazur.com/que-faire/culture-et-patrimoine/lieux/vaison-la-romaine-vaison-la-romaine-fr-3667658/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "vaisonhauteville",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Cross the Roman bridge to Vaison's medieval Haute-Ville",
+   "desc": "The Roman bridge over the Ouvèze, a single arch anchored in rock, leads to the medieval Haute-Ville, a double-walled village overlooked by the 12th-century Château Comtal. It was built after the lower town was abandoned in the Middle Ages.",
+   "tip": "The château has been under renovation, so check access; the steep cobbled lanes and belfry are worth the climb regardless.",
+   "q": "Haute-Ville de Vaison-la-Romaine, Rue du Château, Vaison-la-Romaine",
+   "ll": [
+    44.23735,
+    5.07049
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/en/things-to-do/culture-and-heritage/places/the-upper-town-medieval-city-vaison-la-romaine-en-5218243",
+    "https://provence-alpes-cotedazur.com/que-faire/culture-et-patrimoine/lieux/le-chateau-comtal-vaison-la-romaine-fr-2868603/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "seguretvillage",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander the hillside lanes of Séguret",
+   "desc": "Séguret is a Plus Beaux Villages de France hamlet stretching in a narrow band around a hill at the edge of the Dentelles de Montmirail. Its medieval lanes, fountains and castle ruins overlook Côtes-du-Rhône vineyards.",
+   "tip": "Park outside the ramparts at Place Jean Moulin and walk up; the ruins give a panorama over the Rhône valley.",
+   "q": "Village de Séguret, Séguret",
+   "ll": [
+    44.2067,
+    5.0236
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Séguret"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "orangetheatre",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Sit in the Roman Theatre of Orange",
+   "desc": "Built in the 1st century, the Théâtre Antique d'Orange has a stage wall 103 metres long and 37 metres high that Louis XIV called the finest wall in his kingdom. It is part of a UNESCO World Heritage listing from 1981 and still hosts the Chorégies d'Orange festival.",
+   "tip": "The ticket includes an audioguide and the neighbouring museum; hours are longer in summer. Sit high up in the tiers for the best acoustics.",
+   "q": "Théâtre Antique d'Orange, Rue Madeleine Roch, Orange",
+   "ll": [
+    44.13577,
+    4.80924
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/que-faire/culture-et-patrimoine/lieux/theatre-antique-dorange-orange-fr-2874474/",
+    "https://whc.unesco.org/en/list/163&"
+   ]
+  },
+  {
+   "id": "orangearch",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Triumphal Arch of Orange",
+   "desc": "A three-bay Roman triumphal arch, dated by UNESCO to about 10 to 25 AD and recent research to the Augustan period. It stands on the Via Agrippa and is inscribed with the Roman theatre as one World Heritage site.",
+   "tip": "It sits in the middle of a roundabout on the Avenue de l'Arc de Triomphe, so view it from the pavement; it is free to see.",
+   "q": "Arc de Triomphe d'Orange, Avenue de l'Arc de Triomphe, Orange",
+   "ll": [
+    44.13939,
+    4.80555
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Triumphal_Arch_of_Orange",
+    "https://www.provenceguide.com/patrimoines-culturels/orange/arc-de-triomphe/provence-687544-1.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "chateauneufruins",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb to the papal castle ruins at Châteauneuf-du-Pape",
+   "desc": "The ruined castle above Châteauneuf-du-Pape was built under John XXII in the 14th century as a papal summer residence, and popes stayed here until 1377. The ruins offer a wide view over the vineyards, Avignon, the Luberon and Mont Ventoux.",
+   "tip": "The last stretch is on foot from the car park; go at sunset. Combine with tasting a Châteauneuf-du-Pape in the village below.",
+   "q": "Château des Papes, Rue du Château, Châteauneuf-du-Pape",
+   "ll": [
+    44.0578,
+    4.82908
+   ],
+   "src": [
+    "https://www.wikipedia.org/wiki/Castle_of_Ch%C3%A2teauneuf-du-Pape",
+    "https://www.provenceguide.com/incontournables/chateauneuf-du-pape/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "carpentrassynagogue",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the oldest working synagogue in France in Carpentras",
+   "desc": "The Carpentras synagogue was built in 1367 and is the oldest synagogue in France still in use. It is a listed monument, and tours include the prayer room and the underground levels with the old ritual baths.",
+   "tip": "Visits are guided and run by volunteers or the tourist office; reserve online, as spaces are limited. Check for English tours in advance.",
+   "q": "Synagogue de Carpentras, Place de la Mairie, Carpentras",
+   "ll": [
+    44.05512,
+    5.04896
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/que-faire/culture-et-patrimoine/lieux/la-synagogue-de-carpentras-carpentras-fr-2852825/",
+    "https://www.provenceguide.com/patrimoines-culturels/mont-ventoux/la-synagogue-de-carpentras/provence-4604189-1.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "carpentrascathedral",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Find the Porte Juive of Saint-Siffrein Cathedral",
+   "desc": "The former cathedral of Saint-Siffrein in Carpentras was built between 1404 and 1519. Its flamboyant Gothic south portal, known as the Porte Juive, is topped by the carved Boule aux Rats, and tradition says converted Jews were baptised through it.",
+   "tip": "The south portal is on the side street; the church is free to enter. Carpentras is only a short walk from the synagogue.",
+   "q": "Cathédrale Saint-Siffrein, Place Saint-Siffrein, Carpentras",
+   "ll": [
+    44.05419,
+    5.04774
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/que-faire/culture-et-patrimoine/lieux/la-cathedrale-saint-siffrein-carpentras-fr-2885833/",
+    "https://www.provenceguide.com/patrimoines-culturels/mont-ventoux/la-cathedrale-saint-siffrein/provence-4604156-1.html"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "venasquebaptistery",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Discover the early Christian baptistery of Venasque",
+   "desc": "Venasque is a Plus Beaux Villages de France hilltop village, and its baptistery beside the Notre-Dame church is an early Christian monument listed in 1840. The building has been altered several times and is connected to the church by a covered corridor.",
+   "tip": "Entry is free; hours are seasonal. The village also has a cliff-top viewpoint over the Comtat Venaissin plain.",
+   "q": "Baptistère de Venasque, Venasque",
+   "ll": [
+    43.99704,
+    5.14554
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Baptistère_de_Venasque"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "thouzoncaves",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Go underground in the Grottes de Thouzon",
+   "desc": "The only natural cave in Vaucluse open to the public, discovered in 1902 during quarry work at the foot of Thouzon hill. The 230-metre cave follows an ancient underground river and is shown on a 45 to 50 minute guided tour.",
+   "tip": "The cave stays at about 13 degrees all year, so bring a layer; it is not accessible to wheelchairs or strollers. Free parking on site, last tour about 45 minutes before closing.",
+   "q": "Grottes de Thouzon, Route d'Orange, Le Thor",
+   "ll": [
+    43.94889,
+    4.98917
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Grottes_de_Thouzon"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "pernesnotredame",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Find the fountains and fortified gate of Pernes-les-Fontaines",
+   "desc": "Pernes-les-Fontaines has dozens of fountains, including the Cormoran fountain of 1761 beside the covered market. The Porte Notre-Dame, a fortified gate on the Nesque with a chapel on its bridge, dates mainly from the 16th century.",
+   "tip": "Follow the fountain trail from the tourist office and stop at the Porte Notre-Dame; the market is on Saturday morning.",
+   "q": "Porte Notre-Dame, Pernes-les-Fontaines",
+   "ll": [
+    43.99898,
+    5.05969
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/que-faire/culture-et-patrimoine/lieux/la-porte-notre-dame-pernes-les-fontaines-fr-3813240/",
+    "https://uk.porteduventoux.com/page/translate+112722.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "oppedevieux",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the half-abandoned village of Oppède-le-Vieux",
+   "desc": "Oppède-le-Vieux is a semi-ruined hilltop village in the Luberon that was largely abandoned and later partly restored. A 10 to 15 minute climb leads to the Notre-Dame d'Alidon church and castle ruins, with views over the Calavon valley.",
+   "tip": "Park at the foot of the village and walk up; wear good shoes for the rough paths. The church is partly restored with faded frescoes.",
+   "q": "Notre-Dame d'Alidon, Oppède-le-Vieux, Oppède",
+   "ll": [
+    43.842,
+    5.163
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Oppède-le-Vieux"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "cavaillonsynagogue",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Cavaillon synagogue and Jewish museum",
+   "desc": "The 18th-century synagogue on Rue Hébraïque in Cavaillon's old Jewish quarter houses the Musée Juif Comtadin, a Musée de France. The ground floor was once a ritual bakery and the museum holds ritual objects and manuscripts of the Comtat Venaissin Jewish community.",
+   "tip": "The prayer room is on the first floor with no lift; the full price was 7 euros in 2026. Check opening times before a visit.",
+   "q": "Synagogue et Musée Juif Comtadin, Rue Hébraïque, Cavaillon",
+   "ll": [
+    43.8375,
+    5.03806
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Synagogue_de_Cavaillon"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "aptcathedral",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Descend into the crypts of Apt Cathedral",
+   "desc": "Sainte-Anne cathedral in Apt, listed as a monument historique since 1846, is built on Roman foundations with a baroque nave. Two crypts lie beneath it, an 11th-century upper crypt and a lower vault where local tradition places the veil of Saint Anne.",
+   "tip": "The crypts are open on guided or seasonal visits; check with the Apt tourist office. Combine with the Saturday market nearby.",
+   "q": "Cathédrale Sainte-Anne, Place du Septier, Apt",
+   "ll": [
+    43.8761,
+    5.3967
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/que-faire/culture-et-patrimoine/lieux/cathedrale-sainte-anne-apt-fr-2881696",
+    "https://www.provenceguide.com/patrimoines-culturels/luberon/cathedrale-sainte-anne/provence-861714-1.html"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "cafegabylourmarin",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order a bistro lunch at Café Gaby in Lourmarin",
+   "desc": "Café Gaby is a village hub on the Place de l'Ormeau in Lourmarin, run by Marco Vincent for years. It serves bistro dishes such as steak and salads, and is praised for good value and friendly staff.",
+   "tip": "Reservations are not taken, so arrive early at lunchtime. Sit on the terrace under the plane trees.",
+   "q": "Café Gaby, Place de l'Ormeau, Rue Henri de Savournin, Lourmarin",
+   "ll": [
+    43.76404,
+    5.36282
+   ],
+   "src": [
+    "https://www.provenceguide.co.uk/restaurants/luberon/cafe-gaby/provence-3336977-1.html",
+    "https://restoranking.fr/r/cafe-gaby_116480/"
+   ]
+  },
+  {
+   "id": "levivierisle",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine on the Sorgue terrace at Le Vivier",
+   "desc": "Le Vivier is a Michelin-listed restaurant on cours Fernande Peyre whose terrace looks over the Sorgue and its green banks. Gault&Millau gives it 14 out of 20, and chef Romain Gandolphe cooks seasonal Provençal dishes.",
+   "tip": "Book ahead for the terrace; lunch menus are usually the better value.",
+   "q": "Le Vivier, 800 cours Fernande Peyre, L'Isle-sur-la-Sorgue",
+   "ll": [
+    43.92572,
+    5.06377
+   ],
+   "src": [
+    "https://guide.michelin.com/en/provence-alpes-cote-dazur/l-isle-sur-la-sorgue/restaurant/le-vivier3857",
+    "https://fr.gaultmillau.com/fr/restaurants/le-vivier-restaurant"
+   ]
+  },
+  {
+   "id": "leparvisorange",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Provençal classics at Le Parvis in Orange",
+   "desc": "Le Parvis has served Provençal cooking with contemporary touches in Orange since 1986, with a seasonal menu and a sommelier-led wine list. It holds the Maître Restaurateur label and is rated highly by diners.",
+   "tip": "Reserve at weekends and during the summer Chorégies season; a wine-pairing dinner is held at times through the year.",
+   "q": "Restaurant Le Parvis, 55 cours Pourtoules, Orange",
+   "ll": [
+    44.1359,
+    4.811
+   ],
+   "src": [
+    "https://www.provenceguide.com/restaurants/orange/le-parvis/provence-681939-1.html",
+    "https://tables-auberges.com/en/hotels-restaurants/84-vaucluse/orange/47419-restaurant-le-parvis"
+   ]
+  },
+  {
+   "id": "cafeetangcucuron",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Lunch under the plane trees at Café de l'Étang, Cucuron",
+   "desc": "Café de l'Étang sits beside the historic Cucuron basin, a 61-metre long pond lined with 19th-century plane trees. The shaded terrace seats about 100 and the café is open every day.",
+   "tip": "Come on Tuesday market morning or late afternoon for the light on the water; order a plat du jour on the terrace.",
+   "q": "Café de l'Étang, Place de l'Étang, Cucuron",
+   "ll": [
+    43.7775,
+    5.4402
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/sejourner/restaurants/tous-les-restaurants/cafe-de-letang-cucuron-fr-2868725/"
+   ]
+  },
+  {
+   "id": "petitemaisoncucuron",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try creative Provençal cooking at La Petite Maison de Cucuron",
+   "desc": "A restaurant beside the Cucuron basin with a terrace under planes said to be two centuries old. The menu is creative Provençal cooking built on local produce.",
+   "tip": "Book ahead for the terrace in summer; it is a good lunch stop after the Luberon châteaux of Lourmarin and Ansouis.",
+   "q": "La Petite Maison de Cucuron, Place de l'Étang, Cucuron",
+   "ll": [
+    43.77391,
+    5.43869
+   ],
+   "src": [
+    "https://luberon.fr/tourisme/sorties-en-luberon/restaurants/annu+la-petite-maison-de-cucuron+1776.html",
+    "https://www.provenceguide.com/restaurants/luberon/la-petite-maison-de-cucuron/provence-4909892-1.html"
+   ]
+  },
+  {
+   "id": "berlingotscarpentras",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Carpentras berlingots at Confiserie du Mont-Ventoux",
+   "desc": "Founded in 1946, the Confiserie du Mont-Ventoux is described as the oldest artisanal berlingot maker in Carpentras. The striped fruit-syrup sweets come in flavours such as anise, lemon, mint and strawberry, alongside nougat, calissons and candied fruit.",
+   "tip": "The shop is open Tuesday to Saturday; a video shows production without an appointment, and demonstrations need to be booked.",
+   "q": "Confiserie du Mont-Ventoux, 1184 Avenue Dwight Eisenhower, Carpentras",
+   "ll": [
+    44.0472,
+    5.0585
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/en/things-to-do/wine-and-gastronomy/all-wine-and-gastronomy-activities/confiserie-du-mont-ventoux-confectioner-carpentras-en-2871682"
+   ]
+  },
+  {
+   "id": "maisonfruitconfit",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Sample candied fruit at La Maison du Fruit Confit in Apt",
+   "desc": "Apt is the capital of candied fruit, and the Aptunion production site hosts a 300-square-metre shop and free self-guided visit. The tradition of making fruits confits in Apt was added to France's national intangible heritage in 2018.",
+   "tip": "Try the calissons, fruit pastes and nougat before buying; check current opening hours by phone.",
+   "q": "La Maison du Fruit Confit, Quartier Salignan, RD 900, Apt",
+   "ll": [
+    43.88526,
+    5.36153
+   ],
+   "src": [
+    "https://www.provenceguide.com/patrimoines-culturels/luberon/la-maison-du-fruit-confit/provence-5241185-1.html",
+    "https://luberon.fr/tourisme/produits-terroir/fruits-confits/annu+la-maison-du-fruit-confit+6051.html"
+   ]
+  },
+  {
+   "id": "gigondaslacave",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Gigondas wines at Gigondas LaCave",
+   "desc": "Gigondas LaCave is the cooperative cellar of Gigondas, founded in 1956, offering cellar visits and tastings of the crus of the Dentelles. The red Gigondas appellation is known for powerful Grenache-based wines.",
+   "tip": "Book the tasting at least 72 hours ahead; English is spoken. It is open every day in 2026.",
+   "q": "Gigondas LaCave, 589 route de Vaison, Gigondas",
+   "ll": [
+    44.1605,
+    4.9935
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/en/things-to-do/wine-and-gastronomy/all-wine-and-gastronomy-activities/gigondas-lacave-gigondas-en-2877425"
+   ]
+  },
+  {
+   "id": "durbanmuscat",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Muscat de Beaumes-de-Venise at Domaine de Durban",
+   "desc": "Domaine de Durban sits on a hilltop overlooking Beaumes-de-Venise and is run by the Leydier family. It makes the sweet Muscat de Beaumes-de-Venise from Muscat Blanc à Petits Grains, with a tasting cellar.",
+   "tip": "Serve the muscat chilled as an aperitif or with blue cheese and melon; call ahead for current cellar hours.",
+   "q": "Domaine de Durban, 2523 chemin de Durban, Beaumes-de-Venise",
+   "ll": [
+    44.12986,
+    5.02439
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/que-faire/vin-et-gastronomie/toutes-les-activites-vin-et-gastronomie/domaine-de-durban-beaumes-de-venise-fr-2878736/",
+    "https://www.laywheeler.com/our-producers/domaine-de-durban"
+   ]
+  },
+  {
+   "id": "maisonbrotte",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Châteauneuf-du-Pape at the Brotte wine museum",
+   "desc": "The Musée du Vin Maison Brotte opened in 1972 and occupies about 500 square metres, including a vaulted 13th-century cellar. The visit ends with tastings of Châteauneuf-du-Pape, in tiers from three to six wines.",
+   "tip": "Audioguides are available in several languages and the museum is open every day in 2026; the Prestige tasting covers five wines.",
+   "q": "Musée du Vin Maison Brotte, Avenue Pierre de Luxembourg, Châteauneuf-du-Pape",
+   "ll": [
+    44.0568,
+    4.8318
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/en/things-to-do/culture-and-heritage/places/musee-du-vin-maison-brotte-chateauneuf-du-pape-en-2872115"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "maisonsduobistro",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at Les Maisons Du'O Bistro Panoramique in Vaison",
+   "desc": "A Gault&Millau-rated restaurant on the heights of Vaison-la-Romaine's old town with a panoramic view over the Roman town and the Ouvèze. It serves bistro-style Provençal cooking.",
+   "tip": "Open Tuesday to Saturday for lunch and dinner and closed Sundays; book for a terrace table.",
+   "q": "Les Maisons Du'O Le Bistro Panoramique, 16 rue Gaston Gévaudan, Vaison-la-Romaine",
+   "ll": [
+    44.2375,
+    5.0769
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/en/plan-your-stay/restaurants/all-restaurants/les-maisons-duo-le-bistro-panoramique-vaison-la-romaine-en-2858211"
+   ]
+  },
+  {
+   "id": "leprovencalricherenches",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat a truffle omelette at Le Provençal in Richerenches",
+   "desc": "Le Provençal is a café-restaurant in Richerenches, one of Europe's biggest truffle markets, known for dishes such as the traditional truffle omelette, truffle tapas and a truffle dessert.",
+   "tip": "Best on a winter Saturday when the truffle market runs; reserve ahead in season.",
+   "q": "Le Provençal, 140 Avenue de la Rabasse, Richerenches",
+   "ll": [
+    44.3545,
+    4.919
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/en/plan-your-stay/restaurants/all-restaurants/le-provencal-richerenches-en-2870094"
+   ],
+   "months": [
+    11,
+    12,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "lesboriesgordesresto",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at the gourmet restaurant of Les Bories & Spa, Gordes",
+   "desc": "The restaurant of the Les Bories & Spa hotel on the road to Sénanque abbey serves modern cuisine under chef Pascal Ginoux. Michelin lists it in the upper price band, and its guide status has been reported as a plate or a star.",
+   "tip": "Open Thursday to Tuesday for lunch and dinner; reserve and expect high prices.",
+   "q": "Les Bories & Spa, Route de l'Abbaye de Sénanque, Gordes",
+   "ll": [
+    43.92186,
+    5.19393
+   ],
+   "src": [
+    "https://guide.michelin.com/fr/fr/provence-alpes-cote-dazur/gordes/restaurant/les-bories",
+    "https://roamandthrive.com/best-restaurants-in-gordes-france/"
+   ]
+  },
+  {
+   "id": "lemasgordes",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste the daily market menu at Le Mas in Gordes",
+   "desc": "Le Mas, led by chef Alexis Osmont, is a farm-to-table bistro in a 19th-century farmhouse at Les Imberts near Gordes. Its seasonal menu changes daily with the market, and Michelin lists it with a plate.",
+   "tip": "Book ahead for lunch on the terrace; it is easier to reach by car from Gordes.",
+   "q": "Le Mas, 185 chemin de Tourteron, Les Imberts, Gordes",
+   "ll": [
+    43.91321,
+    5.19642
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/en/plan-your-stay/restaurants/all-restaurants/le-mas-gordes-gordes-en-2878313/",
+    "https://roamandthrive.com/best-restaurants-in-gordes-france/"
+   ]
+  },
+  {
+   "id": "cafecouleursroussillon",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have a terrace lunch at Café des Couleurs in Roussillon",
+   "desc": "A traditional restaurant on the Place de la Mairie serving Mediterranean and traditional French cooking, with a terrace facing the red ochre hills of Roussillon.",
+   "tip": "Reviews are mixed on service and food, so come mainly for the view and the plat du jour; book for sunset.",
+   "q": "Café des Couleurs, Place de la Mairie, Roussillon",
+   "ll": [
+    43.901,
+    5.293
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/en/offers/cafe-des-couleurs-roussillon-en-2853105"
+   ]
+  },
+  {
+   "id": "pistacyclingcafe",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Refuel at Pista Cycling Café in Bédoin",
+   "desc": "A cyclists' and hikers' stop at the foot of Mont Ventoux in Bédoin, serving specialty coffees and light food throughout the day. The daily menu starts from around 14 euros.",
+   "tip": "Open Wednesday to Sunday; ideal before or after the Ventoux climb from Bédoin.",
+   "q": "Pista Cycling Café, 79 chemin de la Ferraille, Bédoin",
+   "ll": [
+    44.12593,
+    5.18091
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/sejourner/restaurants/tous-les-restaurants/pista-cycling-cafe-bedoin-fr-3733199/",
+    "https://www.provenceguide.com/restaurants/mont-ventoux/pista-cycling-cafe/provence-6192422-1.html"
+   ]
+  },
+  {
+   "id": "escapadebedoin",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat under plane trees at L'Escapade in Bédoin",
+   "desc": "A restaurant on the rue du Marché aux Raisins in Bédoin with a terrace shaded by plane trees, serving traditional French and Mediterranean cooking.",
+   "tip": "A good lunch stop in Bédoin; try the daily special and book in summer.",
+   "q": "Restaurant L'Escapade, rue du Marché aux Raisins, Bédoin",
+   "ll": [
+    44.12543,
+    5.17934
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/sejourner/restaurants/tous-les-restaurants/restaurant-lescapade-bedoin-fr-2863002/"
+   ]
+  },
+  {
+   "id": "sentierocresroussillon",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Sentier des Ocres at Roussillon",
+   "desc": "A walk through former ochre quarries with two circuits of about 30 and 50 minutes among cliffs of red, yellow and orange sand. It starts near the village and runs through pines and sheer ochre faces.",
+   "tip": "Entry is about 3.50 euros and the trail is closed in January and on days with fire risk or bad weather; wear dark shoes as ochre stains.",
+   "q": "Sentier des Ocres, Roussillon",
+   "ll": [
+    43.89969,
+    5.29859
+   ],
+   "src": [
+    "https://luberon.fr/tourisme/balades/randonnees/annu+sentier-des-ocres-de-roussillon+3821.html",
+    "https://provence-alpes-cotedazur.com/offres/sentier-des-ocres-roussillon-fr-3261133/"
+   ]
+  },
+  {
+   "id": "ventouxbedoinclimb",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cycle up Mont Ventoux from Bédoin",
+   "desc": "The classic Bédoin ascent is about 21 km long with an average gradient of around 7.5 percent and is the hardest of the three routes. A Tour de France climb since 1958, it finishes in an exposed final 6 km from Chalet Reynard.",
+   "tip": "The route is typically open mid-April to mid-November; start early, carry layers and avoid windy days.",
+   "q": "Bédoin, départ ascension du Mont Ventoux, Bédoin",
+   "ll": [
+    44.1244,
+    5.1806
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/que-faire/itineraires-randonnee/a-ascension-du-mont-ventoux-depuis-bedoin-bedoin-fr-4345852/",
+    "https://fr.wikipedia.org/wiki/Bédoin"
+   ]
+  },
+  {
+   "id": "ventouxhikereynard",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike to the Ventoux summit from Chalet Reynard",
+   "desc": "A round-trip hike of about 10.6 km from Chalet Reynard at 1,418 m to the 1,909 m summit. It is a good option for a sunrise at the top.",
+   "tip": "Not recommended in Mistral wind; bring warm clothes and plenty of water.",
+   "q": "Chalet Reynard, D974, Bédoin",
+   "ll": [
+    44.15244,
+    5.31917
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Chalet_Reynard"
+   ]
+  },
+  {
+   "id": "dentellesgigondas",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Dentelles de Montmirail from Gigondas",
+   "desc": "Loop walks from Gigondas climb into the jagged limestone ridge of the Dentelles de Montmirail, with routes past the Crête des Trois Yeux and the Rocher du Turc. The longer Tour Sarrasine circuit is about 12 km.",
+   "tip": "Start in the village centre or at the Col du Cayron; the massif is easy to get lost in, so carry a map.",
+   "q": "Centre de Gigondas, mairie, Gigondas",
+   "ll": [
+    44.16353,
+    5.00431
+   ],
+   "src": [
+    "https://www.provenceguide.com/equipements/cote-rhone/circuit-de-randonnee-dentelles-de-montmirail-la-tour-sarrasine/provence-5319257-1.html",
+    "https://www.visorando.com/randonnee-la-tour-sarrasine-le-clapis-et-le-rocher/"
+   ]
+  },
+  {
+   "id": "cedresbonnieux",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk among the Atlas cedars near Bonnieux",
+   "desc": "The Forêt des Cèdres in the Petit Luberon is a hiking area with the Sentier du Portalas, a 3.2 km loop of about 1h15, and a shorter Chemin des Cèdres of 1.2 km. A longer 10.4 km loop passes the Grande Arche.",
+   "tip": "Access is free; autumn, winter and spring are more pleasant than summer. Start from the cedar forest car park on the Route des Cèdres.",
+   "q": "Parking de la forêt des cèdres du Petit Luberon, Route des Cèdres, Bonnieux",
+   "ll": [
+    43.8035,
+    5.3265
+   ],
+   "src": [
+    "https://luberon.fr/page/sentier-du-portalas+161803.html",
+    "https://www.cirkwi.com/en/circuit/805547-the-portalas-trail"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "aptmarket",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Browse the Saturday market in Apt",
+   "desc": "The Saturday morning market in Apt is the Luberon's biggest, with 300 or more stalls. It sells candied fruit, lavender, honey, olives and local cheeses, and holds the Marché d'Exception label.",
+   "tip": "Open Saturday 8am to noon; arrive before 9am to park and avoid the crowds. A farmers' market also runs on Tuesday mornings.",
+   "q": "Marché d'Apt, Place Gabriel Péri, Apt",
+   "ll": [
+    43.8769,
+    5.3972
+   ],
+   "src": [
+    "https://luberon.fr/page/marche-d-apt+185027.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "isleantiquesmarket",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hunt antiques at the Sunday market in L'Isle-sur-la-Sorgue",
+   "desc": "Every Sunday the Avenue des Quatre Otages turns into an antiques and brocante market, labelled Marché Permanent, beside the Provençal market along the canals. The town has several antiques villages with hundreds of dealers.",
+   "tip": "The Provençal market also runs on Thursday mornings; the big international antiques fair is at Easter and mid-August.",
+   "q": "Brocante du dimanche, Avenue des Quatre Otages, L'Isle-sur-la-Sorgue",
+   "ll": [
+    43.921,
+    5.0522
+   ],
+   "src": [
+    "https://luberon.fr/page/brocante-du-dimanche+184985.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "vaisonmarket",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Shop the Tuesday market in Vaison-la-Romaine",
+   "desc": "The grand Provençal market of Vaison-la-Romaine takes place every Tuesday morning across the town centre, with up to 450 exhibitors in summer. A papal bull of 1483 first allowed a market here, and one of 1532 set Tuesday as the day.",
+   "tip": "Open from about 8am to 1pm; in summer a night market of makers runs on Tuesday evenings. A small producers' market is also held on Saturday.",
+   "q": "Marché de Vaison-la-Romaine, Avenue du Général de Gaulle, Vaison-la-Romaine",
+   "ll": [
+    44.23842,
+    5.07109
+   ],
+   "src": [
+    "https://www.provenceguide.com/fetes-et-manifestations/vaison-la-romaine/grand-marche-provencal-de-vaison-la-romaine-tous-les-mardis/provence-620287-1.html",
+    "https://provence-alpes-cotedazur.com/decouvrir/villes/vaucluse/vaison-la-romaine/marches/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "carpentrasmarket",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Visit the Friday market in Carpentras",
+   "desc": "Carpentras holds its big Friday market in the old town, and a winter truffle market runs on Friday mornings from mid-November to late March in the Hôtel Dieu courtyard. A summer truffle market runs on Fridays from May to August.",
+   "tip": "Go on a Friday morning; truffles are best bought from November to March.",
+   "q": "Marché de Carpentras, Place Aristide Briand, Carpentras",
+   "ll": [
+    44.05197,
+    5.04867
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/decouvrir/villes/vaucluse/carpentras/marches/",
+    "https://provence-alpes-cotedazur.com/provence/que-faire/vin-et-gastronomie/truffe-provence/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "richerenchestruffle",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch the truffle market in Richerenches",
+   "desc": "Richerenches hosts one of the largest truffle markets in Europe on winter Saturday mornings. The wholesale market is for professionals, while the retail market on Avenue de la Rabasse is open to the public.",
+   "tip": "Sources give mid-November to March; the season opens with a blessing in early December. Buy truffles at the retail market.",
+   "q": "Marché aux truffes, Avenue de la Rabasse, Richerenches",
+   "ll": [
+    44.3545,
+    4.919
+   ],
+   "src": [
+    "https://www.provenceguide.com/fetes-et-manifestations/enclave-des-papes/marche-aux-truffes/provence-153016-1.html"
+   ],
+   "months": [
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sorgacanoe",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Paddle the Sorgue with Kayak Vert",
+   "desc": "Kayak Vert runs canoe and kayak descents of the Sorgue from Fontaine-de-Vaucluse to L'Isle-sur-la-Sorgue. The trip is roughly 6 to 8 km and takes 1.5 to 2 hours, with a minibus return.",
+   "tip": "Participants must be able to swim 25 metres; the base is on Avenue Robert Garcin in Fontaine-de-Vaucluse. Operates in the warm season.",
+   "q": "Kayak Vert, avenue Robert Garcin, Fontaine-de-Vaucluse",
+   "ll": [
+    43.9166,
+    5.11454
+   ],
+   "src": [
+    "https://provence-alpes-cotedazur.com/que-faire/activites/descente-en-canoe-de-la-sorgue-avec-kayak-vert-fontaine-de-vaucluse-fr-3019954/",
+    "https://www.provenceguide.com/commerces-et-services/isle-sur-la-sorgues/kayak-vert/provence-4649859-1.html"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "nesquegorges",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike to the Gorges de la Nesque belvedere",
+   "desc": "The Gorges de la Nesque, cut by the Nesque river between Villes-sur-Auzon and Monieux, are known for their belvederes. The Castellaras viewpoint looks across to the Rocher du Cire, 200 metres tall.",
+   "tip": "A loop from Villes-sur-Auzon takes about 3h30 with 350 m of climb; the D942 road through the gorge is also a famous cycle route.",
+   "q": "Belvédère du Castellaras, D942, Gorges de la Nesque, Monieux",
+   "ll": [
+    44.0496,
+    5.3022
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Gorges_de_la_Nesque"
+   ]
+  },
+  {
+   "id": "saultlavenderfest",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Join the Fête de la Lavande in Sault",
+   "desc": "Every 15 August since 1986 Sault celebrates lavender at its hippodrome in the middle of a lavender field. The programme includes a procession, a producers' market, an old-tractor parade and a lavender-cutting championship.",
+   "tip": "Entry is free; arrive early because 15 August is very crowded and hot, and bring sun protection.",
+   "q": "Hippodrome du Défends, Sault",
+   "ll": [
+    44.10437,
+    5.42353
+   ],
+   "src": [
+    "https://luberon.fr/tourisme/evenements/fetes/annu+fete-de-la-lavande-a-sault+2015.html",
+    "https://provence-alpes-cotedazur.com/que-faire/sortir/toutes-les-sorties/fete-de-la-lavande-sault-fr-3089783/"
+   ],
+   "months": [
+    8
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "choregiesorange",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Catch a Chorégies d'Orange concert at the Roman theatre",
+   "desc": "The Chorégies d'Orange festival uses the Roman theatre as its stage, with opera, symphonic concerts and ballet in summer. The 2026 season ran from mid-June to mid-July, including La Traviata and a Ballets de Monte-Carlo performance.",
+   "tip": "Check choregies.fr for the programme and book early; performances start in the evening and weather can postpone them.",
+   "q": "Chorégies d'Orange, Théâtre Antique, Rue Madeleine Roch, Orange",
+   "ll": [
+    44.13547,
+    4.80746
+   ],
+   "src": [
+    "https://www.jds.fr/orange/manifestations/festival/festival-des-choregies-d-orange-267439_A",
+    "https://www.festivalenfrance.com/festival/choregies-dorange"
+   ],
+   "months": [
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "calavonbike",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cycle the Véloroute du Calavon from Cavaillon",
+   "desc": "A flat greenway on the old Cavaillon to Apt railway, part of the EuroVelo 8 route. The Cavaillon to Apt section is about 34 km and passes the Pont Julien.",
+   "tip": "The surface is mostly gravel-coated tarmac and the road crossing of the D900 near Apt is dangerous. The 915 bus from Avignon to Apt carries bikes.",
+   "q": "Véloroute du Calavon, Gare de Cavaillon, Cavaillon",
+   "ll": [
+    43.8347,
+    5.0383
+   ],
+   "src": [
+    "https://fr.wikipedia.org/wiki/Véloroute_du_Calavon"
+   ]
+  },
+  {
+   "id": "lourmarinmarket",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Browse the Friday market in Lourmarin",
+   "desc": "Lourmarin's weekly market runs every Friday morning with more than 180 exhibitors in the village centre. In season a Tuesday evening producers' market is held from April to October.",
+   "tip": "Held along the Boulevard du Rayol; arrive early for parking, then lunch in the village.",
+   "q": "Marché de Lourmarin, Boulevard du Rayol, Lourmarin",
+   "ll": [
+    43.7658,
+    5.3623
+   ],
+   "src": [
+    "https://luberon.fr/tourisme/marches/marches-forains/annu+marche-de-lourmarin+1967.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "pernesmarket",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Shop the Saturday market in Pernes-les-Fontaines",
+   "desc": "Pernes-les-Fontaines holds its main market on Saturday mornings, with producers and merchants around Place Gabriel Moutte and Quai de Verdun. A producers' evening market runs on Wednesdays in the late summer.",
+   "tip": "Open about 8am to 1pm; pair it with the fountain trail.",
+   "q": "Marché de Pernes-les-Fontaines, Place Gabriel Moutte, Pernes-les-Fontaines",
+   "ll": [
+    43.99615,
+    5.0584
+   ],
+   "src": [
+    "https://luberon.fr/page/marche-provencal-de-pernes-les-fontaines+185012.html",
+    "https://www.provenceguide.com/fetes-et-manifestations/mont-ventoux/marche-de-pernes-les-fontaines/provence-4723843-1.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

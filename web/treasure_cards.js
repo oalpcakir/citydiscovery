@@ -1,0 +1,36 @@
+// Treasure card texts, keyed by quest key. name: the landmark, short. art: the drawing on the card (tower, bridge,
+// windmill, museum, palace, canalhouses, cubes, market, church, castle, park, harbour, skyline). slogan: one line of our own.
+// line: a real quote (with `by`) or a true fact (no `by`). Quotes must be verified before they go in.
+// Cards without an entry still work: the name comes from the quest and the drawing is guessed from its words.
+window.TREASURE_CARDS = {
+  "amsterdam/annefrankhuis": { name: "Anne Frank House", art: "canalhouses",
+    slogan: "Behind a bookcase, a voice the world still hears.",
+    line: "Whoever is happy will make others happy too.", by: "Anne Frank, diary, 1944" },
+  "amsterdam/rijkspassage": { name: "Rijksmuseum", art: "museum",
+    slogan: "The only national museum you can cycle straight through.",
+    line: "Rembrandt's Night Watch has hung in this building since it opened in 1885." },
+  "amsterdam/vangoghmuseum": { name: "Van Gogh Museum", art: "museum",
+    slogan: "Sunflowers that never stop blooming.",
+    line: "What would life be if we had no courage to attempt anything?", by: "Vincent van Gogh, letter to Theo, 1881" },
+  "amsterdam/paleisopdedam": { name: "Royal Palace", art: "palace",
+    slogan: "The whole world at your feet, inlaid in marble.",
+    line: "Built as the town hall in the 1600s, it was hailed as the eighth wonder of the world." },
+  "amsterdam/zaanseschans": { name: "Zaanse Schans", art: "windmill",
+    slogan: "Where the wind still does the work.",
+    line: "The Zaan once had hundreds of windmills, sawing wood and grinding spices for the Golden Age." },
+  "rotterdam/erasmus": { name: "Erasmus Bridge", art: "bridge",
+    slogan: "The Swan that carries a city across the Maas.",
+    line: "In the land of the blind, the one-eyed man is king.", by: "Erasmus of Rotterdam, Adagia" },
+  "rotterdam/kubus": { name: "Cube Houses", art: "cubes",
+    slogan: "A forest of homes, tilted on their corners.",
+    line: "Architect Piet Blom designed each cube as a tree, so together they form a village forest above the street." },
+  "rotterdam/markthal": { name: "Markthal", art: "market",
+    slogan: "A rainbow of food under one great arch.",
+    line: "Its ceiling artwork, the Horn of Plenty, covers about 11,000 square metres." },
+  "rotterdam/euromast": { name: "Euromast", art: "tower",
+    slogan: "185 metres of Rotterdam swagger.",
+    line: "Built in 1960 for the Floriade flower show, it is still the tallest lookout in the Netherlands." },
+  "rotterdam/kinderdijk": { name: "Kinderdijk", art: "windmill",
+    slogan: "Nineteen mills standing guard against the water.",
+    line: "A UNESCO World Heritage site since 1997." }
+};

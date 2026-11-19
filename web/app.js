@@ -1672,18 +1672,21 @@
       '<div class="chips">' + catChips() + '<i class="sep"></i>' + chip("show", "todo", "To do") + chip("show", "done", "Done") + chip("show", "all", "Both") + '</div>' +
       '<div class="chips">' + areaChips() + '</div><div class="list flush">' + questListHtml() + '</div>';
   }
+  // Map buttons. With a mouse: all of them, and hovering slides out a label. On a phone: the three you use most,
+  // the rest behind "More", which opens them as a labelled list.
   function mapCtlHtml() {
-    return ('<div class="mapctl">' +
+    return ('<div class="mapctl' + (ui.ctlOpen ? " open" : "") + '">' +
       '<button class="glass desk" data-act="zoom-in" aria-label="Zoom in">' + ic("plus") + '</button>' +
       '<button class="glass desk" data-act="zoom-out" aria-label="Zoom out">' + ic("minus") + '</button>' +
-      '<button class="glass keep" data-act="locate" aria-label="My location">' + ic("locate-fixed") + '</button>' +
+      '<button class="glass x" data-act="tilt" aria-label="Tilt the map">' + ic("box") + '</button>' +
+      '<button class="glass x" data-act="overview" aria-label="All regions">' + ic("globe") + '</button>' +
+      '<button class="glass x" data-act="suggest" aria-label="Surprise me">' + ic("dices") + '</button>' +
+      '<button class="glass x rec" data-act="rec-start" aria-label="Suggest a place">' + ic("map-pin") + ic("plus", "mini") + '</button>' +
+      '<button class="glass more' + (ui.ctlOpen ? " on" : "") + '" data-act="ctl-more" aria-label="' + (ui.ctlOpen ? "Close" : "More") + '" aria-expanded="' + !!ui.ctlOpen + '">' + ic(ui.ctlOpen ? "x" : "ellipsis") + '</button>' +
+      '<button class="glass keep gem' + (ui.hunt ? " on" : "") + '" data-act="hunt" aria-label="Treasure hunt">' + ic("gem") + '</button>' +
       '<button class="glass keep' + (ui.panel === "trails" || ui.trail ? " on" : "") + '" data-act="trails" aria-label="Trails">' + ic("route") + '</button>' +
-      '<button class="glass" data-act="tilt" aria-label="Tilt the map">' + ic("box") + '</button>' +
-      '<button class="glass" data-act="overview" aria-label="All regions">' + ic("globe") + '</button>' +
-      '<button class="glass' + (ui.hunt ? " on" : "") + '" data-act="hunt" aria-label="Treasure hunt">' + ic("gem") + '</button>' +
-      '<button class="glass" data-act="suggest" aria-label="Surprise me">' + ic("dices") + '</button>' +
-      '<button class="glass rec" data-act="rec-start" aria-label="Suggest a place">' + ic("map-pin") + ic("plus", "mini") + '</button>' +
-      '</div>').replace(/aria-label="([^"]+)"/g, 'title="$1" aria-label="$1"');
+      '<button class="glass keep" data-act="locate" aria-label="My location">' + ic("locate-fixed") + '</button>' +
+      '</div>').replace(/aria-label="([^"]+)"/g, 'data-label="$1" aria-label="$1"');
   }
   function fabHtml() {
     var dq = dailyQuest();
@@ -1957,13 +1960,79 @@
       '<button class="btn soft" data-act="hunt">' + ic("gem") + (ui.hunt === cityId ? "Show the treasures on the map" : "Start the treasure hunt") + '</button>' +
       (all.cards ? '<p class="note center">' + all.cards + (all.cards === 1 ? " card" : " cards") + ' collected · ' + all.sets + (all.sets === 1 ? " full set" : " full sets") + '</p>' : "");
   }
+  // ── Treasure card art: a small flat illustration in the app's style, drawn from the landmark's kind ──
+  var CARD_TEXT = window.TREASURE_CARDS || {};
+  var ART_WORDS = [["windmill", /\b(mill|molen|windmill|moulin|mühle)/i], ["bridge", /\b(bridge|brug|pont|brücke|bro)\b/i],
+    ["tower", /\b(tower|toren|tour|turm|mast|lookout|belfry|belfort)/i], ["church", /\b(church|kerk|cathedral|kathedraal|église|cathédrale|kirche|dom|basilica|abbey|abdij|chapel)/i],
+    ["castle", /\b(castle|kasteel|château|schloss|burg|fortress|citadel|rampart|slot\b)/i], ["palace", /\b(palace|paleis|palais|residenz|town hall|stadhuis|hôtel de ville|rathaus)/i],
+    ["museum", /\b(museum|musée|gallery|kunsthal)/i], ["market", /\b(market|markt|marché|hall)/i], ["harbour", /\b(harbour|haven|port|quay|boat|ship|ferry)/i],
+    ["park", /\b(park|garden|tuin|jardin|forest|bos|lake|beach)/i]];
+  function cardInfo(q) {
+    var t = CARD_TEXT[q.key] || {}, words = q.title + " " + (q.q || "");
+    var art = t.art || (ART_WORDS.filter(function (a) { return a[1].test(words); })[0] || ["skyline"])[0];
+    var first = ((q.desc || "").match(/^.*?[.!?](?=\s|$)/) || [q.desc || ""])[0];
+    return { name: t.name || q.title, art: art, slogan: t.slogan || "", line: t.line || (t.slogan ? "" : first), by: t.by || "" };
+  }
+  var RARITY = [{ key: "legend", label: "Legendary" }, { key: "epic", label: "Epic" }, { key: "epic", label: "Epic" }, { key: "rare", label: "Rare" }, { key: "rare", label: "Rare" }];
+  function cardArt(type, color, n) {
+    var D = mixHex(color, "#0f1f2e", 0.5), L = mixHex(color, "#ffffff", 0.55), W = "#fff6dc", u = "ca" + n + type;
+    var skies = [["#ffd9a8", "#fff3e0", "#ffb14a"], ["#bfe3ff", "#f2f9ff", "#ffd15c"], ["#cfd8ff", "#f7f2ff", "#ffe08a"], ["#ffc7b8", "#fff0ea", "#ff9a5c"], ["#c4ecdf", "#f3fbf7", "#ffd15c"]][n % 5];
+    var s = '<svg viewBox="0 0 200 140" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><defs><linearGradient id="' + u + '" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="' + skies[0] +
+      '"/><stop offset="1" stop-color="' + skies[1] + '"/></linearGradient></defs><rect width="200" height="140" fill="url(#' + u + ')"/>' +
+      '<circle cx="' + (40 + (n * 37) % 120) + '" cy="34" r="15" fill="' + skies[2] + '" opacity=".9"/>' +
+      '<g fill="#fff" opacity=".85"><ellipse cx="' + (150 - (n * 23) % 90) + '" cy="26" rx="20" ry="6"/><ellipse cx="' + (160 - (n * 23) % 90) + '" cy="21" rx="11" ry="6"/></g>';
+    var water = type === "bridge" || type === "harbour" || type === "canalhouses";
+    s += '<path d="M0 112 Q50 100 100 108 T200 104 V140 H0Z" fill="' + L + '"/>';
+    if (water) s += '<rect y="114" width="200" height="26" fill="' + mixHex(color, "#7cc4ff", 0.6) + '" opacity=".75"/><path d="M20 124h26M80 130h34M140 122h30" stroke="#fff" stroke-width="2" stroke-linecap="round" opacity=".7"/>';
+    var g = '<g fill="' + D + '">', e = '</g>', win = function (x, y, w, h) { return '<rect x="' + x + '" y="' + y + '" width="' + w + '" height="' + h + '" rx="1" fill="' + W + '"/>'; };
+    var A = {
+      tower: g + '<rect x="96" y="34" width="8" height="80"/><rect x="99" y="10" width="2" height="26"/><ellipse cx="100" cy="62" rx="22" ry="5"/><rect x="90" y="50" width="20" height="10" rx="3"/>' + e + win(93, 53, 3, 4) + win(98.5, 53, 3, 4) + win(104, 53, 3, 4),
+      bridge: g + '<path d="M120 100 L103 30 L111 30 L130 100Z"/><rect x="0" y="98" width="200" height="6"/>' + e +
+        '<g stroke="' + D + '" stroke-width="1.2">' + [20, 45, 70, 90, 150, 170, 190].map(function (x) { return '<line x1="106" y1="33" x2="' + x + '" y2="99"/>'; }).join("") + '</g>',
+      windmill: '<g opacity=".45" transform="translate(-58 18) scale(.75)">' + g + '<path d="M88 112 L94 62 L106 62 L112 112Z"/>' + e + '</g>' + g + '<path d="M86 114 L93 62 L107 62 L114 114Z"/><path d="M91 62 Q100 48 109 62Z"/>' + e +
+        '<g transform="rotate(' + (18 + n * 9) + ' 100 58)" fill="' + D + '">' + [0, 90, 180, 270].map(function (r) { return '<g transform="rotate(' + r + ' 100 58)"><rect x="98.5" y="14" width="3" height="44"/><rect x="101.5" y="16" width="9" height="34" fill="' + W + '" stroke="' + D + '" stroke-width="1.4"/></g>'; }).join("") + '</g>' +
+        '<circle cx="100" cy="58" r="3.5" fill="' + W + '"/>' + win(97, 92, 6, 10),
+      museum: g + '<rect x="38" y="62" width="124" height="52"/><rect x="44" y="40" width="20" height="74"/><rect x="136" y="40" width="20" height="74"/><path d="M42 40 L54 26 L66 40Z M134 40 L146 26 L158 40Z M70 62 L100 46 L130 62Z"/>' + e +
+        '<path d="M88 114 V92 Q100 80 112 92 V114Z" fill="' + W + '"/>' + [74, 122].map(function (x) { return win(x, 72, 6, 9) + win(x + 10, 72, 6, 9); }).join("") + win(50, 50, 8, 10) + win(142, 50, 8, 10),
+      palace: g + '<rect x="28" y="64" width="144" height="50"/><path d="M70 64 L100 48 L130 64Z"/><rect x="92" y="34" width="16" height="16"/><path d="M92 34 Q100 20 108 34Z"/><rect x="99" y="12" width="2" height="10"/>' + e +
+        [36, 52, 68, 124, 140, 156].map(function (x) { return win(x, 74, 7, 10) + win(x, 92, 7, 10); }).join("") + '<path d="M93 114 V98 Q100 90 107 98 V114Z" fill="' + W + '"/>',
+      canalhouses: [[34, 46, "step"], [62, 34, "bell"], [90, 42, "neck"], [118, 30, "step"], [146, 40, "bell"]].map(function (h, i) {
+        var x = h[0], top = h[1], w = 26, fill = i % 2 ? D : mixHex(color, "#0f1f2e", 0.32);
+        var gable = h[2] === "step" ? 'M' + x + ' ' + (top + 10) + 'h4v-5h4v-5h10v5h4v5h4' : h[2] === "bell" ? 'M' + x + ' ' + (top + 10) + 'q4 0 5-6q2-6 8-6t8 6q1 6 5 6' : 'M' + x + ' ' + (top + 10) + 'h6v-10h14v10h6';
+        return '<path d="' + gable + ' V114 H' + x + 'Z" fill="' + fill + '"/>' + win(x + 5, top + 18, 6, 8) + win(x + 15, top + 18, 6, 8) + win(x + 5, top + 36, 6, 8) + win(x + 15, top + 36, 6, 8) + win(x + 10, top + 58 > 100 ? 100 : top + 58, 6, 10);
+      }).join(""),
+      cubes: g + [50, 100, 150].map(function (x) { return '<rect x="' + (x - 3) + '" y="86" width="6" height="28"/><path d="M' + x + ' 40 L' + (x + 24) + ' 64 L' + x + ' 88 L' + (x - 24) + ' 64Z"/>'; }).join("") + e +
+        [50, 100, 150].map(function (x) { return '<path d="M' + x + ' 52 L' + (x + 12) + ' 64 L' + x + ' 76 L' + (x - 12) + ' 64Z" fill="' + W + '" opacity=".9"/>'; }).join(""),
+      market: '<defs><linearGradient id="' + u + 'r" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff7a59"/><stop offset=".35" stop-color="#ffc53d"/><stop offset=".65" stop-color="#4fc3a1"/><stop offset="1" stop-color="#5b8def"/></linearGradient></defs>' +
+        g + '<path d="M24 114 V72 Q100 4 176 72 V114Z"/>' + e + '<path d="M44 114 V80 Q100 30 156 80 V114Z" fill="url(#' + u + 'r)"/>' +
+        [52, 72, 128, 148].map(function (x) { return win(x - 3, 66 - (x < 100 ? (x - 40) / 3 : (160 - x) / 3), 6, 5); }).join(""),
+      church: g + '<rect x="50" y="70" width="80" height="44"/><path d="M46 70 L90 50 L134 70Z"/><rect x="124" y="44" width="24" height="70"/><path d="M122 44 L136 6 L150 44Z"/>' + e +
+        '<circle cx="136" cy="56" r="5" fill="' + W + '"/><path d="M84 114 V96 Q90 88 96 96 V114Z" fill="' + W + '"/>' + win(62, 80, 6, 12) + win(108, 80, 6, 12),
+      castle: g + '<rect x="46" y="62" width="108" height="52"/><rect x="34" y="44" width="26" height="70"/><rect x="140" y="44" width="26" height="70"/>' +
+        [34, 41, 48, 55, 140, 147, 154, 161].map(function (x) { return '<rect x="' + x + '" y="38" width="5" height="7"/>'; }).join("") +
+        [46, 60, 74, 88, 102, 116, 130, 144].map(function (x) { return '<rect x="' + x + '" y="56" width="7" height="7"/>'; }).join("") + e +
+        '<path d="M88 114 V90 Q100 78 112 90 V114Z" fill="' + W + '"/>' + win(43, 60, 7, 10) + win(150, 60, 7, 10),
+      harbour: g + '<path d="M40 104 L160 104 L148 118 L52 118Z"/><rect x="70" y="80" width="50" height="24" rx="3"/><rect x="88" y="56" width="10" height="26"/><rect x="128" y="30" width="3" height="74"/><path d="M131 34 L160 98 L131 98Z" fill="' + W + '" stroke="' + D + '" stroke-width="2"/>' + e +
+        win(76, 86, 8, 7) + win(90, 86, 8, 7) + win(104, 86, 8, 7),
+      park: g + '<rect x="58" y="80" width="5" height="34"/><rect x="128" y="74" width="6" height="40"/><rect x="96" y="88" width="4" height="26"/>' + e +
+        '<g fill="' + mixHex(color, "#1f8a5b", 0.55) + '"><circle cx="60" cy="70" r="20"/><circle cx="131" cy="62" r="24"/><circle cx="98" cy="80" r="14"/></g>' +
+        '<path d="M0 116 Q100 104 200 116" stroke="' + W + '" stroke-width="4" fill="none" opacity=".9"/>',
+      skyline: g + [[24, 70, 22], [48, 52, 18], [68, 80, 20], [90, 38, 22], [114, 62, 18], [134, 74, 24], [160, 56, 18]].map(function (b) { return '<rect x="' + b[0] + '" y="' + b[1] + '" width="' + b[2] + '" height="' + (114 - b[1]) + '"/>'; }).join("") + e +
+        [[28, 78], [52, 60], [94, 46], [94, 60], [118, 70], [138, 82], [164, 64]].map(function (w) { return win(w[0], w[1], 5, 6) + win(w[0] + 8, w[1], 5, 6); }).join("")
+    };
+    return s + (A[type] || A.skyline) + '</svg>';
+  }
+  // A card: the drawing, the landmark, its slogan. `big` also shows the quote or fact (in the card sheets).
   function cardHtml(q, i, total, big) {
-    var c = cities[q.cid], ph = photoOf(q), got = hasCard(q);
+    var c = cities[q.cid], got = hasCard(q), info = cardInfo(q), r = RARITY[i] || RARITY[4];
     if (!got) return '<button class="tcard back' + (big ? " big" : "") + '" style="--rc:' + c.color + '" data-treasure="' + esc(q.key) + '">' +
       '<span class="tc-no">' + (i + 1) + ' / ' + total + '</span>' + ic("gem", "big") + '<b>?</b><small>' + esc(CATS[q.cat].label) + ' · ' + esc(c.areas[q.area]) + '</small></button>';
-    return '<button class="tcard' + (i === 0 ? " legend" : "") + (big ? " big" : "") + '" style="--rc:' + c.color + '" data-open="' + esc(q.key) + '">' +
-      '<span class="tc-img"' + (ph ? ' style="background-image:url(' + esc(thumb(ph[0], big ? 640 : 330)) + ')"' : "") + '></span>' +
-      '<span class="tc-no">' + (i + 1) + ' / ' + total + '</span><b>' + esc(q.title) + '</b><small>' + flagHtml(c.country) + esc(c.name) + '</small></button>';
+    return '<button class="tcard ' + r.key + (big ? " big" : "") + '" style="--rc:' + c.color + '" data-treasure="' + esc(q.key) + '">' +
+      '<span class="tc-art">' + cardArt(info.art, c.color, i + q.cid.length) + '<i class="tc-shine"></i></span>' +
+      '<span class="tc-no">' + (i + 1) + ' / ' + total + '</span><span class="tc-r">' + r.label + '</span>' +
+      '<b>' + esc(info.name) + '</b>' + (info.slogan ? '<em>' + esc(info.slogan) + '</em>' : "") +
+      (big && info.line ? '<q' + (info.by ? "" : ' class="fact"') + '>' + esc(info.line) + '</q>' + (info.by ? '<cite>' + esc(info.by) + '</cite>' : "") : "") +
+      '<small>' + flagHtml(c.country) + esc(c.name) + '</small></button>';
   }
   function badgeCard(b) {
     var cls = !b.tier ? "locked" : b.max === 1 ? "gold" : TIERS[b.tier - 1].key, stars = "";
@@ -2704,8 +2773,14 @@
   function openTreasure(key) {
     var q = byKey[key];
     if (!q) return;
-    if (hasCard(q)) { openSheet(key); return; }
     var t = treasuresOf(q.cid), i = t.indexOf(q), c = cities[q.cid], here = ui.hunt === q.cid;
+    if (hasCard(q)) {
+      closeSheetSilently();
+      showSheet("treasure", X + '<div class="tc-wrap">' + cardHtml(q, i, t.length, true) + '</div>' +
+        '<p class="note center">Found on ' + dateText(store.done[cardKey(q)].at) + ' · ' + cardsIn(q.cid) + ' of ' + t.length + ' cards of ' + esc(c.name) + '</p>' +
+        '<div class="actions"><button class="btn ghost" data-open="' + esc(key) + '">Open the quest</button></div>', true);
+      return;
+    }
     closeSheetSilently();
     showSheet("treasure", X + '<div class="tc-wrap">' + cardHtml(q, i, t.length, true) + '</div>' +
       '<div class="cel-h">Treasure ' + (i + 1) + ' of ' + t.length + '</div>' +
@@ -3087,16 +3162,12 @@
 
   // ── Events ─────────────────────────────────────────────────
   var SEL = "[data-dish],[data-treasure],[data-goto-region],[data-goto-place],[data-toggle],[data-open],[data-f],[data-tab],[data-act],[data-city],[data-theme-set],[data-pick],[data-photo-id],[data-qview],[data-trail],[data-stats-view],[data-ev-cat]";
-  // A long press on a map button says what it does (phones have no tooltips).
-  document.addEventListener("contextmenu", function (e) {
-    var b = e.target.closest && e.target.closest(".mapctl button");
-    if (b) { e.preventDefault(); toast(b.getAttribute("aria-label")); }
-  });
   document.addEventListener("click", function (e) {
     var t = e.target.closest(SEL);
     if (document.getElementById("ctxmenu") && !(t && t.closest("#ctxmenu"))) closeCtx();
     if (!t) { if (e.target === $backdrop) closeSheet(); return; }
     var d = t.dataset, res, q;
+    if (ui.ctlOpen && d.act !== "ctl-more") { ui.ctlOpen = false; var oc = document.querySelector(".mapctl.open"); if (oc) oc.classList.remove("open"); }
     if (d.toggle) {
       var inSheet = !$sheet.hidden && $sheet.contains(t);
       res = toggle(d.toggle);
@@ -3223,6 +3294,14 @@
       case "feedback": openReport(null); break;
       case "report-send": sendReport(); break;
       case "report-mail": mailReport(); break;
+      case "ctl-more": {
+        ui.ctlOpen = !ui.ctlOpen;
+        var mc = t.closest(".mapctl");
+        mc.classList.toggle("open", ui.ctlOpen); t.classList.toggle("on", ui.ctlOpen);
+        t.setAttribute("aria-expanded", ui.ctlOpen); t.setAttribute("aria-label", ui.ctlOpen ? "Close" : "More"); t.setAttribute("data-label", ui.ctlOpen ? "Close" : "More");
+        t.innerHTML = ic(ui.ctlOpen ? "x" : "ellipsis");
+        break;
+      }
       case "more": {
         var rest = t.previousElementSibling, opening = rest.hidden;
         rest.hidden = !opening; ui.more = ui.more || {}; ui.more[d.id] = opening;

@@ -362,8 +362,14 @@
   function openTreasure(key) {
     var q = byKey[key];
     if (!q) return;
-    if (hasCard(q)) { openSheet(key); return; }
     var t = treasuresOf(q.cid), i = t.indexOf(q), c = cities[q.cid], here = ui.hunt === q.cid;
+    if (hasCard(q)) {
+      closeSheetSilently();
+      showSheet("treasure", X + '<div class="tc-wrap">' + cardHtml(q, i, t.length, true) + '</div>' +
+        '<p class="note center">Found on ' + dateText(store.done[cardKey(q)].at) + ' · ' + cardsIn(q.cid) + ' of ' + t.length + ' cards of ' + esc(c.name) + '</p>' +
+        '<div class="actions"><button class="btn ghost" data-open="' + esc(key) + '">Open the quest</button></div>', true);
+      return;
+    }
     closeSheetSilently();
     showSheet("treasure", X + '<div class="tc-wrap">' + cardHtml(q, i, t.length, true) + '</div>' +
       '<div class="cel-h">Treasure ' + (i + 1) + ' of ' + t.length + '</div>' +
@@ -745,16 +751,12 @@
 
   // ── Events ─────────────────────────────────────────────────
   var SEL = "[data-dish],[data-treasure],[data-goto-region],[data-goto-place],[data-toggle],[data-open],[data-f],[data-tab],[data-act],[data-city],[data-theme-set],[data-pick],[data-photo-id],[data-qview],[data-trail],[data-stats-view],[data-ev-cat]";
-  // A long press on a map button says what it does (phones have no tooltips).
-  document.addEventListener("contextmenu", function (e) {
-    var b = e.target.closest && e.target.closest(".mapctl button");
-    if (b) { e.preventDefault(); toast(b.getAttribute("aria-label")); }
-  });
   document.addEventListener("click", function (e) {
     var t = e.target.closest(SEL);
     if (document.getElementById("ctxmenu") && !(t && t.closest("#ctxmenu"))) closeCtx();
     if (!t) { if (e.target === $backdrop) closeSheet(); return; }
     var d = t.dataset, res, q;
+    if (ui.ctlOpen && d.act !== "ctl-more") { ui.ctlOpen = false; var oc = document.querySelector(".mapctl.open"); if (oc) oc.classList.remove("open"); }
     if (d.toggle) {
       var inSheet = !$sheet.hidden && $sheet.contains(t);
       res = toggle(d.toggle);
@@ -881,6 +883,14 @@
       case "feedback": openReport(null); break;
       case "report-send": sendReport(); break;
       case "report-mail": mailReport(); break;
+      case "ctl-more": {
+        ui.ctlOpen = !ui.ctlOpen;
+        var mc = t.closest(".mapctl");
+        mc.classList.toggle("open", ui.ctlOpen); t.classList.toggle("on", ui.ctlOpen);
+        t.setAttribute("aria-expanded", ui.ctlOpen); t.setAttribute("aria-label", ui.ctlOpen ? "Close" : "More"); t.setAttribute("data-label", ui.ctlOpen ? "Close" : "More");
+        t.innerHTML = ic(ui.ctlOpen ? "x" : "ellipsis");
+        break;
+      }
       case "more": {
         var rest = t.previousElementSibling, opening = rest.hidden;
         rest.hidden = !opening; ui.more = ui.more || {}; ui.more[d.id] = opening;

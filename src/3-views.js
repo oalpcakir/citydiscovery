@@ -325,6 +325,7 @@
       '<button class="glass keep' + (ui.panel === "trails" || ui.trail ? " on" : "") + '" data-act="trails" aria-label="Trails">' + ic("route") + '</button>' +
       '<button class="glass" data-act="tilt" aria-label="Tilt the map">' + ic("box") + '</button>' +
       '<button class="glass" data-act="overview" aria-label="All regions">' + ic("globe") + '</button>' +
+      '<button class="glass' + (ui.hunt ? " on" : "") + '" data-act="hunt" aria-label="Treasure hunt">' + ic("gem") + '</button>' +
       '<button class="glass" data-act="suggest" aria-label="Surprise me">' + ic("dices") + '</button>' +
       '<button class="glass rec" data-act="rec-start" aria-label="Suggest a place">' + ic("map-pin") + ic("plus", "mini") + '</button>' +
       '</div>').replace(/aria-label="([^"]+)"/g, 'title="$1" aria-label="$1"');
@@ -581,13 +582,33 @@
       got += b.tier; all += b.max; bx += badgeXp(b);
       if (groups.indexOf(b.group) === -1) groups.push(b.group);
     });
-    var html = head(city.name, "Badges earn XP. Each region has its own set.", { picker: true }) + '<div class="section">' +
+    var html = head(city.name, "Badges earn XP. Each region has its own set.", { picker: true }) + '<div class="section">' + treasureSection() +
       '<div class="panel score"><div><b>' + got + ' / ' + all + '</b><span>badges</span></div><div><b>' + fmt(bx) +
       '</b><span>XP from badges</span></div></div>';
     groups.forEach(function (g) {
       html += '<h2>' + esc(g) + '</h2><div class="badges">' + list.filter(function (b) { return b.group === g; }).map(badgeCard).join("") + '</div>';
     });
     return html + '<p class="note">Bronze +100 XP · Silver +200 · Gold +400 · Special +150</p></div>';
+  }
+  // Treasure cards of the current region: five slots, claimed on the spot.
+  function treasureSection() {
+    var t = treasuresOf(cityId);
+    if (!t.length) return "";
+    var n = t.filter(hasCard).length, all = progress();
+    return '<h2>Treasure cards <small class="h2n">' + n + ' / ' + t.length + '</small></h2>' +
+      '<p class="note flat">Five famous places of ' + esc(city.name) + '. Go there, find them inside the gold circles and claim the card on the spot. +' +
+        XP.card + ' XP each, +' + XP.cardSet + ' for the full set.</p>' +
+      '<div class="tcards">' + t.map(function (q, i) { return cardHtml(q, i, t.length); }).join("") + '</div>' +
+      '<button class="btn soft" data-act="hunt">' + ic("gem") + (ui.hunt === cityId ? "Show the treasures on the map" : "Start the treasure hunt") + '</button>' +
+      (all.cards ? '<p class="note center">' + all.cards + (all.cards === 1 ? " card" : " cards") + ' collected · ' + all.sets + (all.sets === 1 ? " full set" : " full sets") + '</p>' : "");
+  }
+  function cardHtml(q, i, total, big) {
+    var c = cities[q.cid], ph = photoOf(q), got = hasCard(q);
+    if (!got) return '<button class="tcard back' + (big ? " big" : "") + '" style="--rc:' + c.color + '" data-treasure="' + esc(q.key) + '">' +
+      '<span class="tc-no">' + (i + 1) + ' / ' + total + '</span>' + ic("gem", "big") + '<b>?</b><small>' + esc(CATS[q.cat].label) + ' · ' + esc(c.areas[q.area]) + '</small></button>';
+    return '<button class="tcard' + (i === 0 ? " legend" : "") + (big ? " big" : "") + '" style="--rc:' + c.color + '" data-open="' + esc(q.key) + '">' +
+      '<span class="tc-img"' + (ph ? ' style="background-image:url(' + esc(thumb(ph[0], big ? 640 : 330)) + ')"' : "") + '></span>' +
+      '<span class="tc-no">' + (i + 1) + ' / ' + total + '</span><b>' + esc(q.title) + '</b><small>' + flagHtml(c.country) + esc(c.name) + '</small></button>';
   }
   function badgeCard(b) {
     var cls = !b.tier ? "locked" : b.max === 1 ? "gold" : TIERS[b.tier - 1].key, stars = "";
@@ -798,7 +819,8 @@
     var ctryNames = Object.keys(C).map(function (cc) { return C[cc].name; });
     var html = '<div class="panel travel"><div class="tv-h">' + avatarHtml(profile(), null, "lg") + '<div class="grow"><b>' + esc(profile().name || "Explorer") + '</b>' +
       '<small>Places visited: <em>' + fmt(t.done.length) + '</em></small></div>' +
-      '<button class="btn soft sm" data-act="my-map">' + ic("map", "sm") + 'My map</button></div>' +
+      '<div class="tv-b"><button class="btn soft sm" data-act="my-map">' + ic("map", "sm") + 'My map</button>' +
+      '<button class="btn soft sm" data-act="share-map">' + ic("share-2", "sm") + 'Share</button></div></div>' +
       countLine("Quests", t.done.length, allQuests.length) +
       countLine("Regions", Object.keys(t.regs).length, regTotal) +
       countLine("Countries", Object.keys(t.ctry).length, ctryNames.length) +

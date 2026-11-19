@@ -70,6 +70,14 @@
     return '<svg class="ic' + (cls ? " " + cls : "") + '" viewBox="0 0 24 24" aria-hidden="true">' + (ICONS[name] || "") + '</svg>';
   }
   function rec(q) { return store.done[q.key]; }
+  // Treasure cards: five famous places per region (web/treasures.js). A card is claimed on the spot and kept in
+  // store.done as "<region>/card:<quest id>", so it syncs like everything else.
+  var TREASURES = window.TREASURES || {};
+  function treasuresOf(cid) { return (TREASURES[cid] || []).map(function (id) { return byKey[cid + "/" + id]; }).filter(Boolean); }
+  function cardKey(q) { return q.cid + "/card:" + q.id; }
+  function hasCard(q) { var r = store.done[cardKey(q)]; return !!(r && r.at); }
+  function isTreasure(q) { return (TREASURES[q.cid] || []).indexOf(q.id) !== -1; }
+  function cardsIn(cid) { return treasuresOf(cid).filter(hasCard).length; }
   function isDone(q) { var r = rec(q); return !!(r && r.at); }
   function isSaved(q) { return (store.saved || {})[q.key] > 0; }
   function inSeason(q) { return !q.months || q.months.indexOf(new Date().getMonth() + 1) !== -1; }
@@ -418,7 +426,7 @@
 
   // ── RPG progression ────────────────────────────────────────
   // One hero across all regions. XP comes from quests (with bonuses), badges and trails; levels follow a curve.
-  var XP = { quest: 100, seasonal: 50, far: 50, area: 50, region: 150, journal: 25, photo: 25, checkin: 50, daily: 50, dish: 50 };
+  var XP = { quest: 100, seasonal: 50, far: 50, area: 50, region: 150, journal: 25, photo: 25, checkin: 50, daily: 50, dish: 50, card: 100, cardSet: 250 };
   var TITLES = [[1, "Wanderer"], [3, "Explorer"], [6, "Pathfinder"], [10, "Trailblazer"], [15, "Navigator"],
     [20, "Cartographer"], [30, "Voyager"], [40, "Lorekeeper"], [55, "Legend"], [75, "Mythic Explorer"]];
   var ATTRS = [
@@ -484,6 +492,12 @@
     });
     var dishes = Object.keys(store.done).filter(function (k) { return dishByKey[k] && store.done[k].at; }).length;
     xp += dishes * XP.dish; attr.ye += dishes * XP.dish;
+    var cards = 0, sets = 0;
+    Object.keys(TREASURES).forEach(function (cid) {
+      var t = treasuresOf(cid), n = t.filter(hasCard).length;
+      cards += n; if (t.length && n === t.length) sets++;
+    });
+    xp += cards * XP.card + sets * XP.cardSet;
     var bxp = 0, earned = 0;
     Object.keys(cities).forEach(function (id) {
       badges(cities[id]).forEach(function (b) { bxp += badgeXp(b); earned += b.tier; });
@@ -495,7 +509,7 @@
     info.xp = total; info.badgeXp = bxp; info.badges = earned; info.attr = attr; info.gains = gains; info.trails = tdone;
     info.streak = streakNow; info.thisWeek = !!weeks[now];
     info.regions = Object.keys(seenRegion).length; info.areas = Object.keys(seenArea).length;
-    info.quests = log.filter(function (e) { return !e.preview; }).length; info.dishes = dishes;
+    info.quests = log.filter(function (e) { return !e.preview; }).length; info.dishes = dishes; info.cards = cards; info.sets = sets;
     return info;
   }
   function heroTitle(p) {

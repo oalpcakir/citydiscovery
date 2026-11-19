@@ -71,6 +71,14 @@
     return '<svg class="ic' + (cls ? " " + cls : "") + '" viewBox="0 0 24 24" aria-hidden="true">' + (ICONS[name] || "") + '</svg>';
   }
   function rec(q) { return store.done[q.key]; }
+  // Treasure cards: five famous places per region (web/treasures.js). A card is claimed on the spot and kept in
+  // store.done as "<region>/card:<quest id>", so it syncs like everything else.
+  var TREASURES = window.TREASURES || {};
+  function treasuresOf(cid) { return (TREASURES[cid] || []).map(function (id) { return byKey[cid + "/" + id]; }).filter(Boolean); }
+  function cardKey(q) { return q.cid + "/card:" + q.id; }
+  function hasCard(q) { var r = store.done[cardKey(q)]; return !!(r && r.at); }
+  function isTreasure(q) { return (TREASURES[q.cid] || []).indexOf(q.id) !== -1; }
+  function cardsIn(cid) { return treasuresOf(cid).filter(hasCard).length; }
   function isDone(q) { var r = rec(q); return !!(r && r.at); }
   function isSaved(q) { return (store.saved || {})[q.key] > 0; }
   function inSeason(q) { return !q.months || q.months.indexOf(new Date().getMonth() + 1) !== -1; }
@@ -419,7 +427,7 @@
 
   // ── RPG progression ────────────────────────────────────────
   // One hero across all regions. XP comes from quests (with bonuses), badges and trails; levels follow a curve.
-  var XP = { quest: 100, seasonal: 50, far: 50, area: 50, region: 150, journal: 25, photo: 25, checkin: 50, daily: 50, dish: 50 };
+  var XP = { quest: 100, seasonal: 50, far: 50, area: 50, region: 150, journal: 25, photo: 25, checkin: 50, daily: 50, dish: 50, card: 100, cardSet: 250 };
   var TITLES = [[1, "Wanderer"], [3, "Explorer"], [6, "Pathfinder"], [10, "Trailblazer"], [15, "Navigator"],
     [20, "Cartographer"], [30, "Voyager"], [40, "Lorekeeper"], [55, "Legend"], [75, "Mythic Explorer"]];
   var ATTRS = [
@@ -485,6 +493,12 @@
     });
     var dishes = Object.keys(store.done).filter(function (k) { return dishByKey[k] && store.done[k].at; }).length;
     xp += dishes * XP.dish; attr.ye += dishes * XP.dish;
+    var cards = 0, sets = 0;
+    Object.keys(TREASURES).forEach(function (cid) {
+      var t = treasuresOf(cid), n = t.filter(hasCard).length;
+      cards += n; if (t.length && n === t.length) sets++;
+    });
+    xp += cards * XP.card + sets * XP.cardSet;
     var bxp = 0, earned = 0;
     Object.keys(cities).forEach(function (id) {
       badges(cities[id]).forEach(function (b) { bxp += badgeXp(b); earned += b.tier; });
@@ -496,7 +510,7 @@
     info.xp = total; info.badgeXp = bxp; info.badges = earned; info.attr = attr; info.gains = gains; info.trails = tdone;
     info.streak = streakNow; info.thisWeek = !!weeks[now];
     info.regions = Object.keys(seenRegion).length; info.areas = Object.keys(seenArea).length;
-    info.quests = log.filter(function (e) { return !e.preview; }).length; info.dishes = dishes;
+    info.quests = log.filter(function (e) { return !e.preview; }).length; info.dishes = dishes; info.cards = cards; info.sets = sets;
     return info;
   }
   function heroTitle(p) {
@@ -907,6 +921,8 @@
       paint: { "line-color": ["get", "line"], "line-opacity": ["case", ["==", ["get", "started"], 1], 1, 0.8], "line-width": zw(2.2, 3) } }, first);
     map.addLayer({ id: "region-gold", type: "line", source: "regions", filter: ["==", ["get", "full"], 1], layout: round,
       paint: { "line-color": "#f59e0b", "line-blur": 0.5, "line-width": zw(4, 7) } }, first);
+    map.addLayer({ id: "region-paint", type: "fill", source: "regions", filter: ["==", ["get", "id"], ""],
+      paint: { "fill-color": ["get", "color"], "fill-opacity": 0 } }, first);
     map.addLayer({ id: "region-cur", type: "line", source: "regions", layout: round, filter: ["==", ["get", "id"], cityId],
       paint: { "line-color": ["get", "color"], "line-width": zw(3.4, 5.5) } }, first);
     map.addSource("countries", { type: "geojson", data: countriesGeo(false) });
@@ -995,6 +1011,14 @@
       "text-offset": zs(["literal", [0, 1.45]], ["literal", [0, 1.85]], ["literal", [0, 2.3]]), "text-line-height": 1.15,
       "text-optional": true, "text-padding": 3 },
       paint: { "text-color": "#0f172a", "text-halo-color": "#ffffff", "text-halo-width": 2.4 } });
+    map.addSource("treasure", { type: "geojson", data: huntGeo() });
+    map.addLayer({ id: "treasure-fill", type: "fill", source: "treasure", filter: ["==", ["geometry-type"], "Polygon"],
+      paint: { "fill-color": "#f59e0b", "fill-opacity": 0.16 } });
+    map.addLayer({ id: "treasure-line", type: "line", source: "treasure", filter: ["==", ["geometry-type"], "Polygon"],
+      paint: { "line-color": "#d97706", "line-width": 2.5, "line-dasharray": [2, 1.5] } });
+    map.addLayer({ id: "treasure-mark", type: "symbol", source: "treasure", filter: ["==", ["geometry-type"], "Point"], layout: {
+      "text-field": ["get", "label"], "text-font": ["Noto Sans Bold"], "text-size": 13, "text-allow-overlap": true },
+      paint: { "text-color": "#92400e", "text-halo-color": "#fff7e0", "text-halo-width": 2.5 } });
     map.addSource("me", { type: "geojson", data: fc(mePos ? [point([mePos[1], mePos[0]])] : []) });
     map.addLayer({ id: "me-halo", type: "circle", source: "me", paint: { "circle-radius": 22, "circle-color": "#2f7df6", "circle-opacity": 0.2 } });
     map.addLayer({ id: "me-dot", type: "circle", source: "me", paint: {
@@ -1139,9 +1163,59 @@
       if (id && id !== cityId) setCurrent(id);
     }
   }
+  // ── Treasure hunt: while you are in a region, its unclaimed treasures show as gold circles (not the exact spot) ──
+  function zoneCenter(q) { // a fixed point 60-140 m from the place, so the circle hides where exactly it is
+    var p = ll(q), h = 0, s = q.key;
+    for (var i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) >>> 0;
+    var ang = (h % 360) * Math.PI / 180, dm = 60 + (h % 81);
+    return [p[0] + (dm * Math.cos(ang)) / 111320, p[1] + (dm * Math.sin(ang)) / (111320 * Math.cos(p[0] * Math.PI / 180))];
+  }
+  var ZONE_M = 220;
+  function huntGeo() {
+    if (!ui.hunt) return fc([]);
+    var feats = [];
+    treasuresOf(ui.hunt).forEach(function (q, i) {
+      if (hasCard(q) || !ll(q)) return;
+      var c = zoneCenter(q), ring = [];
+      for (var k = 0; k <= 48; k++) {
+        var a = (k / 48) * Math.PI * 2;
+        ring.push([c[1] + (ZONE_M * Math.sin(a)) / (111320 * Math.cos(c[0] * Math.PI / 180)), c[0] + (ZONE_M * Math.cos(a)) / 111320]);
+      }
+      feats.push({ type: "Feature", properties: { key: q.key }, geometry: { type: "Polygon", coordinates: [ring] } });
+      feats.push(point(c, { key: q.key, label: "Treasure " + (i + 1) }));
+    });
+    return fc(feats);
+  }
+  function startHunt() {
+    toast("Looking for treasures around you…");
+    whereAmI().then(function (p) {
+      var id = regionAt(p[1], p[0]);
+      if (!id || !treasuresOf(id).length) { toast("Treasure hunts work inside a region. Go to one and try again."); return; }
+      ui.hunt = id; ui.tab = "map";
+      if (id !== cityId) setCurrent(id); else render();
+      var left = treasuresOf(id).filter(function (q) { return !hasCard(q); });
+      if (!left.length) { toast("You found all " + treasuresOf(id).length + " treasures of " + cities[id].name + "!"); return; }
+      toast(left.length + (left.length === 1 ? " treasure" : " treasures") + " hidden in " + cities[id].name + ". Find the places inside the gold circles.");
+      setTimeout(function () { fitPoints(left.map(zoneCenter).concat([p]), 14); }, 80);
+    }, function () { toast("Treasure hunts need your location. Check the location permission."); });
+  }
+  // A short pulse of colour on a region that just got painted.
+  function paintPulse(id) {
+    if (!mapReady || !map.getLayer("region-paint")) return;
+    map.setFilter("region-paint", ["==", ["get", "id"], id]);
+    var t0 = performance.now();
+    (function step(t) {
+      var k = (t - t0) / 1800;
+      if (k >= 1) { map.setPaintProperty("region-paint", "fill-opacity", 0); map.setFilter("region-paint", ["==", ["get", "id"], ""]); return; }
+      map.setPaintProperty("region-paint", "fill-opacity", 0.55 * Math.sin(Math.PI * k * 2) * Math.sin(Math.PI * k) + 0.0001);
+      requestAnimationFrame(step);
+    })(t0);
+  }
   function onMapClick(e) {
     if (!mapReady) return;
     if (ui.pinMode) { map.easeTo({ center: e.lngLat, duration: 400 }); return; } // tap to move the suggestion pin there
+    var tz = ui.hunt && map.queryRenderedFeatures(e.point, { layers: ["treasure-fill", "treasure-mark"] })[0];
+    if (tz) { openTreasure(tz.properties.key); return; }
     var badge = map.queryRenderedFeatures(e.point, { layers: ["region-badges"] })[0];
     if (badge) { setCity(badge.properties.id, true); return; }
     var stop = map.queryRenderedFeatures(e.point, { layers: ["trail-stops"] })[0];
@@ -1182,6 +1256,7 @@
     setSrc("trail-stops", trailStopsGeo());
     setSrc("trails-all", trailsAllGeo());
     map.setFilter("region-cur", ["==", ["get", "id"], cityId]);
+    setSrc("treasure", huntGeo());
     refreshRegionBadges();
   }
   // Only resize when the map container just became visible; resizing fires move events.
@@ -1605,6 +1680,7 @@
       '<button class="glass keep' + (ui.panel === "trails" || ui.trail ? " on" : "") + '" data-act="trails" aria-label="Trails">' + ic("route") + '</button>' +
       '<button class="glass" data-act="tilt" aria-label="Tilt the map">' + ic("box") + '</button>' +
       '<button class="glass" data-act="overview" aria-label="All regions">' + ic("globe") + '</button>' +
+      '<button class="glass' + (ui.hunt ? " on" : "") + '" data-act="hunt" aria-label="Treasure hunt">' + ic("gem") + '</button>' +
       '<button class="glass" data-act="suggest" aria-label="Surprise me">' + ic("dices") + '</button>' +
       '<button class="glass rec" data-act="rec-start" aria-label="Suggest a place">' + ic("map-pin") + ic("plus", "mini") + '</button>' +
       '</div>').replace(/aria-label="([^"]+)"/g, 'title="$1" aria-label="$1"');
@@ -1861,13 +1937,33 @@
       got += b.tier; all += b.max; bx += badgeXp(b);
       if (groups.indexOf(b.group) === -1) groups.push(b.group);
     });
-    var html = head(city.name, "Badges earn XP. Each region has its own set.", { picker: true }) + '<div class="section">' +
+    var html = head(city.name, "Badges earn XP. Each region has its own set.", { picker: true }) + '<div class="section">' + treasureSection() +
       '<div class="panel score"><div><b>' + got + ' / ' + all + '</b><span>badges</span></div><div><b>' + fmt(bx) +
       '</b><span>XP from badges</span></div></div>';
     groups.forEach(function (g) {
       html += '<h2>' + esc(g) + '</h2><div class="badges">' + list.filter(function (b) { return b.group === g; }).map(badgeCard).join("") + '</div>';
     });
     return html + '<p class="note">Bronze +100 XP · Silver +200 · Gold +400 · Special +150</p></div>';
+  }
+  // Treasure cards of the current region: five slots, claimed on the spot.
+  function treasureSection() {
+    var t = treasuresOf(cityId);
+    if (!t.length) return "";
+    var n = t.filter(hasCard).length, all = progress();
+    return '<h2>Treasure cards <small class="h2n">' + n + ' / ' + t.length + '</small></h2>' +
+      '<p class="note flat">Five famous places of ' + esc(city.name) + '. Go there, find them inside the gold circles and claim the card on the spot. +' +
+        XP.card + ' XP each, +' + XP.cardSet + ' for the full set.</p>' +
+      '<div class="tcards">' + t.map(function (q, i) { return cardHtml(q, i, t.length); }).join("") + '</div>' +
+      '<button class="btn soft" data-act="hunt">' + ic("gem") + (ui.hunt === cityId ? "Show the treasures on the map" : "Start the treasure hunt") + '</button>' +
+      (all.cards ? '<p class="note center">' + all.cards + (all.cards === 1 ? " card" : " cards") + ' collected · ' + all.sets + (all.sets === 1 ? " full set" : " full sets") + '</p>' : "");
+  }
+  function cardHtml(q, i, total, big) {
+    var c = cities[q.cid], ph = photoOf(q), got = hasCard(q);
+    if (!got) return '<button class="tcard back' + (big ? " big" : "") + '" style="--rc:' + c.color + '" data-treasure="' + esc(q.key) + '">' +
+      '<span class="tc-no">' + (i + 1) + ' / ' + total + '</span>' + ic("gem", "big") + '<b>?</b><small>' + esc(CATS[q.cat].label) + ' · ' + esc(c.areas[q.area]) + '</small></button>';
+    return '<button class="tcard' + (i === 0 ? " legend" : "") + (big ? " big" : "") + '" style="--rc:' + c.color + '" data-open="' + esc(q.key) + '">' +
+      '<span class="tc-img"' + (ph ? ' style="background-image:url(' + esc(thumb(ph[0], big ? 640 : 330)) + ')"' : "") + '></span>' +
+      '<span class="tc-no">' + (i + 1) + ' / ' + total + '</span><b>' + esc(q.title) + '</b><small>' + flagHtml(c.country) + esc(c.name) + '</small></button>';
   }
   function badgeCard(b) {
     var cls = !b.tier ? "locked" : b.max === 1 ? "gold" : TIERS[b.tier - 1].key, stars = "";
@@ -2078,7 +2174,8 @@
     var ctryNames = Object.keys(C).map(function (cc) { return C[cc].name; });
     var html = '<div class="panel travel"><div class="tv-h">' + avatarHtml(profile(), null, "lg") + '<div class="grow"><b>' + esc(profile().name || "Explorer") + '</b>' +
       '<small>Places visited: <em>' + fmt(t.done.length) + '</em></small></div>' +
-      '<button class="btn soft sm" data-act="my-map">' + ic("map", "sm") + 'My map</button></div>' +
+      '<div class="tv-b"><button class="btn soft sm" data-act="my-map">' + ic("map", "sm") + 'My map</button>' +
+      '<button class="btn soft sm" data-act="share-map">' + ic("share-2", "sm") + 'Share</button></div></div>' +
       countLine("Quests", t.done.length, allQuests.length) +
       countLine("Regions", Object.keys(t.regs).length, regTotal) +
       countLine("Countries", Object.keys(t.ctry).length, ctryNames.length) +
@@ -2301,6 +2398,7 @@
         esc(ph[1]) + ' · ' + esc(ph[2]) + '</a></div>' : "") +
       '<div class="sh"><span class="tile">' + ic(CATS[q.cat].icon) + '</span><div class="grow">' +
         '<span class="badge">' + CATS[q.cat].label + " · " + esc(c.areas[q.area]) + '</span>' +
+        (isTreasure(q) ? '<span class="ttag' + (hasCard(q) ? " got" : "") + '">' + ic("gem", "sm") + (hasCard(q) ? "Treasure card collected" : "Treasure card: claim it here") + '</span>' : "") +
         '<h3>' + esc(q.title) + '</h3>' + (doneBy(q.key) ? '<small class="doneby">' + ic("users", "sm") + 'Done by ' + fmt(doneBy(q.key)) + (doneBy(q.key) === 1 ? ' explorer' : ' explorers') + '</small>' : "") +
         '</div></div>' + rewardHtml(q) +
       '<div class="two">' + (done
@@ -2420,9 +2518,10 @@
       '<div class="qc-lv"><span id="qclv">Lv ' + b.level + '</span><div class="meter xp"><i id="qcbar" style="width:' + b.pct + '%"></i></div><span id="qcnx">Lv ' + (b.level + 1) + '</span></div>' +
       '<div class="qc-reg"><span>' + flagHtml(rc.country) + esc(rc.name) + '</span><div class="meter"><i id="qcreg" style="width:' + rBefore + '%"></i></div><b><span id="qcregp">' + rBefore + '</span>%</b></div>';
     var mile = [100, 75, 50, 25].filter(function (m) { return rBefore < m && rAfter >= m; })[0];
-    if (rs.done === 1) html += '<div class="paintmsg" style="--rc:' + rc.color + '"><i></i><span><b>' + esc(rc.name) + ' is on your map.</b> Every quest here paints it a little more.</span></div>';
+    var seeIt = '<button class="pm-see" data-act="see-paint" data-id="' + rc.id + '">See it</button>';
+    if (rs.done === 1) html += '<div class="paintmsg" style="--rc:' + rc.color + '"><i></i><span><b>' + esc(rc.name) + ' is on your map.</b> Every quest here paints it a little more.</span>' + seeIt + '</div>';
     else if (mile) html += '<div class="paintmsg" style="--rc:' + rc.color + '"><i></i><span><b>' + esc(rc.name) + ': ' + mile + '% painted.</b> ' +
-      (mile === 100 ? "The whole region is yours, with a gold border on the map." : "Your map is filling in.") + '</span></div>';
+      (mile === 100 ? "The whole region is yours, with a gold border on the map." : "Your map is filling in.") + '</span>' + seeIt + '</div>';
     if (lu) {
       html += '<div class="levelup"><div class="burst">' + profile().avatar + '</div><div class="qc-k">Explorer leveled up</div><div class="cel-h">Level ' + a.level + '</div>' +
         '<div class="lu">' + (a.title !== b.title ? 'New title: <b>' + esc(a.title) + '</b>' : esc(a.title)) + '</div>' +
@@ -2545,6 +2644,9 @@
     g.font = "700 46px system-ui, sans-serif"; g.globalAlpha = 0.85;
     g.fillText(fmt(p.xp) + " XP" + (p.streak ? "  ·  " + p.streak + "-week streak" : ""), W / 2, 1160);
     g.font = "800 44px system-ui, sans-serif"; g.globalAlpha = 1; g.fillText("CITY DISCO", W / 2, 1265);
+    showShare(c, "Your explorer card");
+  }
+  function showShare(c, title) {
     c.toBlob(function (blob) {
       if (!blob) return;
       ui.shareBlob = blob;
@@ -2552,11 +2654,95 @@
       var hasNativeShare = !!(window.CityDiscoAndroid && window.CityDiscoAndroid.shareImage);
       var can = hasNativeShare || !!(navigator.canShare && navigator.canShare({ files: [new File([blob], "city-disco.png", { type: "image/png" })] }));
       closeSheetSilently();
-      showSheet("share", X + '<div class="cel-h">Your explorer card</div><img class="lb sharecard" src="' + url + '" alt="Your explorer card">' +
+      showSheet("share", X + '<div class="cel-h">' + esc(title) + '</div><img class="lb sharecard" src="' + url + '" alt="' + esc(title) + '">' +
         '<div class="actions">' + (can ? '<button class="btn" data-act="share-send">' + ic("share-2") + 'Share</button>' : "") +
         '<a class="btn ghost" href="' + url + '" download="city-disco.png">' + ic("download") + 'Save image</a>' +
         (hasNativeShare ? '' : '<p class="note center">On Android, press and hold the picture to save or share it.</p>') + '</div>', true);
     }, "image/png");
+  }
+  // ── My painted map as a picture: every region in the colour it has on your map ──
+  function shareMap() {
+    var W = 1080, H = 1350, c = document.createElement("canvas"), g, p = progress(), C = window.COUNTRIES || {};
+    c.width = W; c.height = H; g = c.getContext("2d");
+    g.fillStyle = "#f4f7f5"; g.fillRect(0, 0, W, H);
+    var X0 = 60, Y0 = 230, MW = W - 120, MH = 860;
+    var merc = function (lat) { return Math.log(Math.tan(Math.PI / 4 + (lat * Math.PI) / 360)); };
+    // Frame: the countries you have played in (all of them on a fresh map)
+    var played = {}; Object.keys(cities).forEach(function (id) { if (cityStats(id).done) played[cities[id].country] = 1; });
+    var ids = Object.keys(REGIONS).filter(function (id) { return cities[id] && (!Object.keys(played).length || played[cities[id].country]); });
+    var lo = [90, 180], hi = [-90, -180];
+    ids.forEach(function (id) { REGIONS[id].forEach(function (poly) { poly[0].forEach(function (pt) {
+      lo = [Math.min(lo[0], pt[0]), Math.min(lo[1], pt[1])]; hi = [Math.max(hi[0], pt[0]), Math.max(hi[1], pt[1])];
+    }); }); });
+    var D = Math.PI / 180, sx = MW / ((hi[1] - lo[1]) * D), sy = MH / (merc(hi[0]) - merc(lo[0])), s = Math.min(sx, sy);
+    var ox = X0 + (MW - (hi[1] - lo[1]) * D * s) / 2, oy = Y0 + (MH - (merc(hi[0]) - merc(lo[0])) * s) / 2;
+    var xy = function (pt) { return [ox + (pt[1] - lo[1]) * D * s, oy + (merc(hi[0]) - merc(pt[0])) * s]; };
+    Object.keys(REGIONS).forEach(function (id) {
+      var st = cities[id] ? cityStats(id) : null, rp = st ? regionPaint(cities[id].color, st.done, st.total) : { fill: "#cbd5e1", fop: 0.25 };
+      REGIONS[id].forEach(function (poly) {
+        g.beginPath();
+        poly.forEach(function (ring) { ring.forEach(function (pt, i) { var q = xy(pt); if (i) g.lineTo(q[0], q[1]); else g.moveTo(q[0], q[1]); }); g.closePath(); });
+        g.globalAlpha = st && st.done ? Math.min(1, rp.fop + 0.15) : 1; g.fillStyle = st && st.done ? rp.fill : "#dfe5ec"; g.fill("evenodd");
+        g.globalAlpha = 1; g.strokeStyle = "#ffffff"; g.lineWidth = 2; g.stroke();
+        if (st && st.pct >= 100) { g.strokeStyle = "#f59e0b"; g.lineWidth = 5; g.stroke(); }
+      });
+    });
+    g.textAlign = "center"; g.fillStyle = "#0f1f2e";
+    g.font = "800 66px system-ui, sans-serif"; g.fillText((profile().name || "My") + (profile().name ? "'s map" : " map"), W / 2, 110);
+    g.font = "600 36px system-ui, sans-serif"; g.fillStyle = "#5a6b78"; g.fillText("Every region I explore gets painted", W / 2, 165);
+    var painted = Object.keys(cities).filter(function (id) { return cityStats(id).done; }).length;
+    [[painted, painted === 1 ? "region" : "regions"], [Object.keys(played).length, Object.keys(played).length === 1 ? "country" : "countries"], [p.quests, "quests"]].forEach(function (x, k) {
+      var cx = W / 2 + (k - 1) * 320;
+      g.fillStyle = "#ffffff"; g.fillRect(cx - 140, 1120, 280, 150);
+      g.fillStyle = "#0e9f6e"; g.font = "800 72px system-ui, sans-serif"; g.fillText(String(x[0]), cx, 1200);
+      g.fillStyle = "#5a6b78"; g.font = "600 32px system-ui, sans-serif"; g.fillText(x[1], cx, 1245);
+    });
+    g.fillStyle = "#0f1f2e"; g.font = "800 34px system-ui, sans-serif"; g.fillText("CITY DISCO", W / 2, 1320);
+    showShare(c, "Your painted map");
+  }
+  // ── Treasure hunt ──
+  function openTreasure(key) {
+    var q = byKey[key];
+    if (!q) return;
+    if (hasCard(q)) { openSheet(key); return; }
+    var t = treasuresOf(q.cid), i = t.indexOf(q), c = cities[q.cid], here = ui.hunt === q.cid;
+    closeSheetSilently();
+    showSheet("treasure", X + '<div class="tc-wrap">' + cardHtml(q, i, t.length, true) + '</div>' +
+      '<div class="cel-h">Treasure ' + (i + 1) + ' of ' + t.length + '</div>' +
+      '<p class="note center" style="margin-top:-6px">' + ({ gor: "A famous sight", ye: "A famous place to eat or drink", dene: "A famous thing to do" })[q.cat] + ' in ' + esc(c.areas[q.area]) + ', ' + esc(c.name) + '.</p>' +
+      '<p class="note center">' + (here ? "It is somewhere inside its gold circle. Find the place, then claim the card within 250 m of it."
+        : "Treasures only show when you are in " + esc(c.name) + ". Start the hunt there and look inside the gold circles.") + '</p>' +
+      '<p class="note err" id="terr" hidden></p><div class="actions">' +
+      (here ? '<button class="btn" data-act="claim" data-key="' + esc(key) + '">' + ic("gem") + 'I found it, claim the card</button>'
+        : '<button class="btn" data-act="hunt">' + ic("gem") + 'Start the treasure hunt</button>') + '</div>', true);
+  }
+  function claimTreasure(key) {
+    var q = byKey[key], err = document.getElementById("terr");
+    if (!q || !ll(q)) return;
+    toast("Checking where you are…");
+    whereAmI().then(function (pos) {
+      var d = km(pos, ll(q)), slack = Math.min(ui.acc || 0, 200) / 1000;
+      if (d > 0.25 + slack) {
+        var msg = d < 1 ? "Not here yet. Keep looking inside the circle." : "You are " + kmText(d) + " from it. Head into its gold circle.";
+        if (err) { err.textContent = msg; err.hidden = false; } else toast(msg);
+        return;
+      }
+      var before = progress(), now = Date.now(), quest = null;
+      store.done[cardKey(q)] = { at: now, u: now };
+      if (!isDone(q)) quest = toggle(key, { v: true }); else save();
+      var after = progress(), t = treasuresOf(q.cid), n = t.filter(hasCard).length, full = n === t.length;
+      refreshMap(); render();
+      closeSheetSilently();
+      showSheet("treasure", X + '<div class="tc-wrap reveal">' + cardHtml(q, t.indexOf(q), t.length, true) + '</div>' +
+        '<div class="qc-k">Treasure card found</div><div class="cel-h">' + esc(q.title) + '</div>' +
+        '<div class="qc-xp">+' + fmt(after.xp - before.xp) + ' XP</div>' +
+        '<div class="qc-parts"><span>Card +' + XP.card + '</span>' + (full ? '<span>Full set +' + XP.cardSet + '</span>' : "") +
+          (quest ? '<span>Quest done too</span>' : "") + '</div>' +
+        '<p class="note center">' + (full ? "You found all " + t.length + " treasures of " + esc(cities[q.cid].name) + "!" : n + " of " + t.length + " treasures of " + esc(cities[q.cid].name) + " found.") + '</p>' +
+        '<div class="actions"><button class="btn" data-act="close">Keep hunting</button>' +
+        (quest ? '<button class="btn ghost" data-open="' + esc(key) + '">Open the quest</button>' : "") + '</div>', true);
+      chime(true); buzz([40, 60, 40, 60, 140]); confetti(full);
+    }, function () { toast("Could not get your location. Check the location permission."); });
   }
 
   // ── Profile editor (also the first-run onboarding) ─────────
@@ -2900,7 +3086,7 @@
   }
 
   // ── Events ─────────────────────────────────────────────────
-  var SEL = "[data-dish],[data-goto-region],[data-goto-place],[data-toggle],[data-open],[data-f],[data-tab],[data-act],[data-city],[data-theme-set],[data-pick],[data-photo-id],[data-qview],[data-trail],[data-stats-view],[data-ev-cat]";
+  var SEL = "[data-dish],[data-treasure],[data-goto-region],[data-goto-place],[data-toggle],[data-open],[data-f],[data-tab],[data-act],[data-city],[data-theme-set],[data-pick],[data-photo-id],[data-qview],[data-trail],[data-stats-view],[data-ev-cat]";
   // A long press on a map button says what it does (phones have no tooltips).
   document.addEventListener("contextmenu", function (e) {
     var b = e.target.closest && e.target.closest(".mapctl button");
@@ -2920,6 +3106,7 @@
       return;
     }
     if (d.dish) { toggleDish(d.dish); return; }
+    if (d.treasure) { openTreasure(d.treasure); return; }
     if (d.photoId) { openPhoto(d.photoId, d.photoKey); return; }
     if (d.gotoRegion) { gotoRegion(d.gotoRegion); return; }
     if (d.gotoPlace) {
@@ -2999,6 +3186,19 @@
         save(); render();
         break;
       case "share": shareCard(); break;
+      case "share-map": shareMap(); break;
+      case "hunt": closeSheetSilently(); startHunt(); break;
+      case "claim": claimTreasure(d.key); break;
+      case "see-paint": {
+        var pid = d.id; closeSheet(); ui.tab = "map"; render();
+        setTimeout(function () {
+          if (!map) return;
+          var cc = cityCenter(cities[pid]);
+          map.flyTo({ center: cc, zoom: 7.6, duration: 1100 });
+          map.once("moveend", function () { setTimeout(function () { paintPulse(pid); }, 150); });
+        }, 80);
+        break;
+      }
       case "share-send":
         if (ui.shareBlob && window.CityDiscoAndroid && window.CityDiscoAndroid.shareImage) {
           var rd = new FileReader();

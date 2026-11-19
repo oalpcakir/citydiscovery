@@ -384,6 +384,8 @@
       paint: { "line-color": ["get", "line"], "line-opacity": ["case", ["==", ["get", "started"], 1], 1, 0.8], "line-width": zw(2.2, 3) } }, first);
     map.addLayer({ id: "region-gold", type: "line", source: "regions", filter: ["==", ["get", "full"], 1], layout: round,
       paint: { "line-color": "#f59e0b", "line-blur": 0.5, "line-width": zw(4, 7) } }, first);
+    map.addLayer({ id: "region-paint", type: "fill", source: "regions", filter: ["==", ["get", "id"], ""],
+      paint: { "fill-color": ["get", "color"], "fill-opacity": 0 } }, first);
     map.addLayer({ id: "region-cur", type: "line", source: "regions", layout: round, filter: ["==", ["get", "id"], cityId],
       paint: { "line-color": ["get", "color"], "line-width": zw(3.4, 5.5) } }, first);
     map.addSource("countries", { type: "geojson", data: countriesGeo(false) });
@@ -472,6 +474,14 @@
       "text-offset": zs(["literal", [0, 1.45]], ["literal", [0, 1.85]], ["literal", [0, 2.3]]), "text-line-height": 1.15,
       "text-optional": true, "text-padding": 3 },
       paint: { "text-color": "#0f172a", "text-halo-color": "#ffffff", "text-halo-width": 2.4 } });
+    map.addSource("treasure", { type: "geojson", data: huntGeo() });
+    map.addLayer({ id: "treasure-fill", type: "fill", source: "treasure", filter: ["==", ["geometry-type"], "Polygon"],
+      paint: { "fill-color": "#f59e0b", "fill-opacity": 0.16 } });
+    map.addLayer({ id: "treasure-line", type: "line", source: "treasure", filter: ["==", ["geometry-type"], "Polygon"],
+      paint: { "line-color": "#d97706", "line-width": 2.5, "line-dasharray": [2, 1.5] } });
+    map.addLayer({ id: "treasure-mark", type: "symbol", source: "treasure", filter: ["==", ["geometry-type"], "Point"], layout: {
+      "text-field": ["get", "label"], "text-font": ["Noto Sans Bold"], "text-size": 13, "text-allow-overlap": true },
+      paint: { "text-color": "#92400e", "text-halo-color": "#fff7e0", "text-halo-width": 2.5 } });
     map.addSource("me", { type: "geojson", data: fc(mePos ? [point([mePos[1], mePos[0]])] : []) });
     map.addLayer({ id: "me-halo", type: "circle", source: "me", paint: { "circle-radius": 22, "circle-color": "#2f7df6", "circle-opacity": 0.2 } });
     map.addLayer({ id: "me-dot", type: "circle", source: "me", paint: {
@@ -616,9 +626,59 @@
       if (id && id !== cityId) setCurrent(id);
     }
   }
+  // ── Treasure hunt: while you are in a region, its unclaimed treasures show as gold circles (not the exact spot) ──
+  function zoneCenter(q) { // a fixed point 60-140 m from the place, so the circle hides where exactly it is
+    var p = ll(q), h = 0, s = q.key;
+    for (var i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) >>> 0;
+    var ang = (h % 360) * Math.PI / 180, dm = 60 + (h % 81);
+    return [p[0] + (dm * Math.cos(ang)) / 111320, p[1] + (dm * Math.sin(ang)) / (111320 * Math.cos(p[0] * Math.PI / 180))];
+  }
+  var ZONE_M = 220;
+  function huntGeo() {
+    if (!ui.hunt) return fc([]);
+    var feats = [];
+    treasuresOf(ui.hunt).forEach(function (q, i) {
+      if (hasCard(q) || !ll(q)) return;
+      var c = zoneCenter(q), ring = [];
+      for (var k = 0; k <= 48; k++) {
+        var a = (k / 48) * Math.PI * 2;
+        ring.push([c[1] + (ZONE_M * Math.sin(a)) / (111320 * Math.cos(c[0] * Math.PI / 180)), c[0] + (ZONE_M * Math.cos(a)) / 111320]);
+      }
+      feats.push({ type: "Feature", properties: { key: q.key }, geometry: { type: "Polygon", coordinates: [ring] } });
+      feats.push(point(c, { key: q.key, label: "Treasure " + (i + 1) }));
+    });
+    return fc(feats);
+  }
+  function startHunt() {
+    toast("Looking for treasures around you…");
+    whereAmI().then(function (p) {
+      var id = regionAt(p[1], p[0]);
+      if (!id || !treasuresOf(id).length) { toast("Treasure hunts work inside a region. Go to one and try again."); return; }
+      ui.hunt = id; ui.tab = "map";
+      if (id !== cityId) setCurrent(id); else render();
+      var left = treasuresOf(id).filter(function (q) { return !hasCard(q); });
+      if (!left.length) { toast("You found all " + treasuresOf(id).length + " treasures of " + cities[id].name + "!"); return; }
+      toast(left.length + (left.length === 1 ? " treasure" : " treasures") + " hidden in " + cities[id].name + ". Find the places inside the gold circles.");
+      setTimeout(function () { fitPoints(left.map(zoneCenter).concat([p]), 14); }, 80);
+    }, function () { toast("Treasure hunts need your location. Check the location permission."); });
+  }
+  // A short pulse of colour on a region that just got painted.
+  function paintPulse(id) {
+    if (!mapReady || !map.getLayer("region-paint")) return;
+    map.setFilter("region-paint", ["==", ["get", "id"], id]);
+    var t0 = performance.now();
+    (function step(t) {
+      var k = (t - t0) / 1800;
+      if (k >= 1) { map.setPaintProperty("region-paint", "fill-opacity", 0); map.setFilter("region-paint", ["==", ["get", "id"], ""]); return; }
+      map.setPaintProperty("region-paint", "fill-opacity", 0.55 * Math.sin(Math.PI * k * 2) * Math.sin(Math.PI * k) + 0.0001);
+      requestAnimationFrame(step);
+    })(t0);
+  }
   function onMapClick(e) {
     if (!mapReady) return;
     if (ui.pinMode) { map.easeTo({ center: e.lngLat, duration: 400 }); return; } // tap to move the suggestion pin there
+    var tz = ui.hunt && map.queryRenderedFeatures(e.point, { layers: ["treasure-fill", "treasure-mark"] })[0];
+    if (tz) { openTreasure(tz.properties.key); return; }
     var badge = map.queryRenderedFeatures(e.point, { layers: ["region-badges"] })[0];
     if (badge) { setCity(badge.properties.id, true); return; }
     var stop = map.queryRenderedFeatures(e.point, { layers: ["trail-stops"] })[0];
@@ -659,6 +719,7 @@
     setSrc("trail-stops", trailStopsGeo());
     setSrc("trails-all", trailsAllGeo());
     map.setFilter("region-cur", ["==", ["get", "id"], cityId]);
+    setSrc("treasure", huntGeo());
     refreshRegionBadges();
   }
   // Only resize when the map container just became visible; resizing fires move events.

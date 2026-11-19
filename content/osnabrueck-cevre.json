@@ -1,0 +1,828 @@
+{
+ "new": [
+  {
+   "id": "oskalkriese",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the Varusschlacht battlefield at Kalkriese",
+   "desc": "The museum and park at Kalkriese stand at the site where Roman legions are believed to have been ambushed in AD 9. An iron-clad tower, archaeological finds and a landscape park lay out the battle and its aftermath, and a special exhibition on Germanic warriors opened in April 2026.",
+   "tip": "Open Tuesday to Sunday 10:00-17:00 in winter, closed Mondays and on 24 and 31 December. Allow three hours for museum and park.",
+   "q": "Varusschlacht im Osnabrücker Land - Museum und Park Kalkriese, Venner Straße 69, Bramsche",
+   "ll": [
+    52.40721,
+    8.12624
+   ],
+   "src": [
+    "https://www.kalkriese-varusschlacht.de/en/your-visit/opening-hours-tickets.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "osiburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour Schloss Iburg, the prince-bishops' hilltop castle",
+   "desc": "Above Bad Iburg stands a castle that began as a Benedictine monastery founded in 1080 and served for about 600 years as a residence of the Osnabrück prince-bishops. Today it houses a castle museum with a coin cabinet, historic rooms and inner courtyards.",
+   "tip": "Guided tours of the castle and former abbey run on weekends (about 60 minutes); the museum is open Friday to Sunday afternoons, so check times with the Bad Iburg tourist office.",
+   "q": "Schloss Iburg, Schlossstraße, Bad Iburg",
+   "ll": [
+    52.1576,
+    8.04187
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Iburg_Castle",
+    "https://www.niedersachsen-tourism.com/poi/schloss-iburg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "osclemenswerth",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the baroque hunting lodge of Clemenswerth",
+   "desc": "Schloss Clemenswerth in Sögel was built from 1737 for Prince-Elector Clemens August as a hunting retreat, laid out as a star of eight pavilions around a central building. The Emslandmuseum inside shows faience, porcelain and exhibitions on the baroque hunt.",
+   "tip": "The museum is open Tuesday to Sunday 11:00-17:00 until 1 November; after that only special events such as the Sögel Christmas market visit. Call 05952 932325 for winter visits.",
+   "q": "Schloss Clemenswerth, Clemens-August-Straße 6, Sögel",
+   "ll": [
+    52.83694,
+    7.53666
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Clemenswerth_Palace",
+    "https://clemenswerth.de/media/408/download/Clemenswerth%20Programm%20August-Dezember%202026%20ANSICHT.pdf"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "osmeyerwerft",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See cruise ships grow at the Meyer Werft in Papenburg",
+   "desc": "Meyer Werft is a family shipyard in Papenburg that builds cruise liners and sends them down the narrow Ems to the North Sea. Its visitor centre shows ship models, the building process and a view into the covered dock halls.",
+   "tip": "Tickets are sold in advance; a guided tour takes 90 minutes. Book at besucherzentrum-meyerwerft.de or by phone at Papenburg Marketing (04961 83960).",
+   "q": "Besucherzentrum Meyer Werft, Ölmühlenweg, Papenburg",
+   "ll": [
+    53.09882,
+    7.35778
+   ],
+   "src": [
+    "https://www.mvp.de/niedersachsen/entdecken/besucherzentrum-meyer-werft-papenburg/",
+    "https://en.Wikipedia.com/wiki/Meyer_Werft"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "osbentheimburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Circle Burg Bentheim, the castle above the sandstone town",
+   "desc": "Burg Bentheim in Bad Bentheim is among the largest hill castles in Lower Saxony, built on a sandstone ridge in the 11th century and still owned by the princely family. The interior has been closed to visitors since January 2026 because of structural damage, but the grounds and the castle walls can be walked around.",
+   "tip": "Enjoy the exterior and the village views; Ferdinands Burgcafé & Bistro remains open. Check burg-bentheim.de for any reopening of the museum.",
+   "q": "Burg Bentheim, Schloßstraße, Bad Bentheim",
+   "ll": [
+    52.30252,
+    7.15718
+   ],
+   "src": [
+    "https://burg-bentheim.de/en/about-the-castle/",
+    "https://en.wikipedia.com/wiki/Burg_Bentheim"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "osaltenkamp",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stroll the baroque garden of Gut Altenkamp",
+   "desc": "Gut Altenkamp in Aschendorf, now part of Papenburg, is an 18th-century manor with a moat and a Dutch-North German baroque garden. It hosts annual exhibitions and concerts and is a popular wedding venue.",
+   "tip": "Reported hours are Tuesday to Sunday 10:00-17:00, but confirm before a visit. Combine with the Ems cycle route nearby.",
+   "q": "Gut Altenkamp, Am Altenkamp 1, Papenburg",
+   "ll": [
+    53.05246,
+    7.34085
+   ],
+   "src": [
+    "https://www.niedersachsen-tourism.com/poi/ausstellungszentrum-gut-altenkamp",
+    "https://mein-platz.com/sehenswurdigkeiten/altenkamp-manor/?lang=en"
+   ]
+  },
+  {
+   "id": "ossandsteinmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Learn about Bentheimer Gold at the Sandsteinmuseum",
+   "desc": "The Sandsteinmuseum in Bad Bentheim opened in 1999 in a historic timber-frame house with a modern extension. It explains the geology, quarrying and trade of Bentheim sandstone, which was shipped across northern Europe.",
+   "tip": "Opening afternoons only, roughly Wednesday to Sunday; confirm on the museum website. Pair with the Sandsteinweg walk.",
+   "q": "Sandsteinmuseum Bad Bentheim, Funkenstiege 5, Bad Bentheim",
+   "ll": [
+    52.30318,
+    7.155
+   ],
+   "src": [
+    "https://www.museum.de/en/museen/sandsteinmuseum",
+    "https://www.sandsteinmuseumbadbentheim.de/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "osgesmold",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Admire Wasserschloss Gesmold near Melle",
+   "desc": "Schloss Gesmold is a moated castle in the Melle district, family-owned by the von Hammerstein family. Its park hosts open-air theatre in summer, and its castle shop and tours are open on selected days.",
+   "tip": "Listed opening is Thursday to Sunday 14:30-18:00, but sources conflict; call 05422 44216 before going.",
+   "q": "Schloss Gesmold, Schlossallee 5, Melle",
+   "ll": [
+    52.21592,
+    8.27899
+   ],
+   "src": [
+    "https://www.mvp.de/niedersachsen/entdecken/wasserschloss-gesmold-melle/",
+    "https://en.wikipedia.org/wiki/Gesmold"
+   ]
+  },
+  {
+   "id": "osgradierwerk",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Breathe the salty air at the Bad Rothenfelde Gradierwerke",
+   "desc": "Bad Rothenfelde is a brine spa, and its graduation towers at the Kurpark entrance, where brine trickles over blackthorn brushwood, still fill the park with aerosol-rich air. The town's spa park and old salt-works buildings sit right beside them.",
+   "tip": "Free to visit year-round; combine with a stroll through the Kurpark.",
+   "q": "Gradierwerk, Kurpark, Bad Rothenfelde",
+   "ll": [
+    52.10999,
+    8.16399
+   ],
+   "src": [
+    "https://www.niedersachsen-tourism.com/poi/gradierwerke-bad-rothenfelde",
+    "https://en.teutoburgerwald.de/region/excursion/poi/erlebnisgradierwerk-am-kurpark-haupteingang"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ostuchmacher",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Follow wool to cloth at the Tuchmacher-Museum Bramsche",
+   "desc": "Bramsche was a cloth-making town, and the Tuchmacher-Museum in a former mill on the Hase shows the complete craft from sheep's wool to finished fabric with working machines. It is part of the regional industrial heritage.",
+   "tip": "Closed on Mondays and open from 10:00 on Tuesdays; check tuchmachermuseum.de for the other days.",
+   "q": "Tuchmacher-Museum Bramsche, Mühlenort 6, Bramsche",
+   "ll": [
+    52.40511,
+    7.97818
+   ],
+   "src": [
+    "https://www.niedersachsen-tourism.com/poi/tuchmacher-museum-bramsche",
+    "https://www.mvp.de/niedersachsen/entdecken/tuchmacher-museum-bramsche/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "osemslandmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Trace Emsland history in the Emslandmuseum Lingen",
+   "desc": "The Emslandmuseum on Burgstraße in Lingen's pedestrian zone presents the history of the Lingen county and town from the Middle Ages to today. It is run by the city of Lingen.",
+   "tip": "Open Tuesday to Sunday 14:30-17:30, adults 4 euros.",
+   "q": "Emslandmuseum Lingen, Burgstraße 28b, Lingen (Ems)",
+   "ll": [
+    52.52361,
+    7.31861
+   ],
+   "src": [
+    "https://lingen.de/en/tourism-leisure-culture/emslandmuseum-lingen",
+    "https://www.niedersachsen-tourism.com/poi/emslandmuseum-lingen-ems"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "oskunsthalle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See contemporary art at the Kunsthalle Lingen",
+   "desc": "The Kunsthalle Lingen on Kaiserstraße shows changing contemporary exhibitions and is run together with the local art association. It has an active mediation programme for schools.",
+   "tip": "Open Tuesday to Friday 10:00-17:00 and weekends 11:00-17:00, closed Mondays; see kunsthallelingen.de for the current show.",
+   "q": "Kunsthalle Lingen, Kaiserstraße 10a, Lingen (Ems)",
+   "ll": [
+    52.521,
+    7.32332
+   ],
+   "src": [
+    "https://www.niedersachsen-tourism.com/poi/kunsthalle-lingen",
+    "https://www.kunsthallelingen.de/en/home/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "oszeughaus",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore Vechta's history in the Museum im Zeughaus",
+   "desc": "The Historisches Museum im Zeughaus sits in the Zitadelle in Vechta, the old fortress district of the Oldenburger Münsterland town. It covers local history in a hands-on, experimental style.",
+   "tip": "Adults pay 3.50 euros; listings conflict on opening days, so check museum-vechta.de.",
+   "q": "Museum im Zeughaus, Zitadelle 15, Vechta",
+   "ll": [
+    52.72656,
+    8.27783
+   ],
+   "src": [
+    "https://www.niedersachsen-tourism.com/poi/museum-vechta",
+    "https://simskultur.eu/en/historisches-museum-im-zeughaus-stadt-vechta-historisch-experimentell-anschaulich-uebergreifend/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "osmeppenrathaus",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Admire the town hall of Meppen at the Hase-Ems confluence",
+   "desc": "Meppen's free-standing town hall on the market square dates from the early 15th century and was extended around 1600; an apple and a ship decorate its tower. The old town around it is bounded by a former rampart, now a promenade, between the Hase, the Ems and the Dortmund-Ems Canal.",
+   "tip": "The exterior is free to see at any time; walk the rampart promenade afterwards.",
+   "q": "Rathaus Meppen, Markt, Meppen",
+   "ll": [
+    52.69083,
+    7.29139
+   ],
+   "src": [
+    "https://wikipedia.com/wiki/Meppen",
+    "https://www.hanse.org/en/tourist/meppen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "oswiehenturm",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the Wiehenturm for views over the North German plain",
+   "desc": "The Wiehenturm is a lookout tower on the Wiehengebirge ridge near Bad Essen with a wide view across the lowlands. A short circular walk starts from the Schwarzer Brink car park by the tower.",
+   "tip": "Best on a clear day; check the tower's current opening before climbing.",
+   "q": "Wiehenturm, Schwarzer Brink, Bad Essen",
+   "ll": [
+    52.28932,
+    8.46466
+   ],
+   "src": [
+    "https://en.teutoburgerwald.de/region/excursion/poi/wiehenturm",
+    "https://en.teutoburgerwald.de/nature/my-day-in-nature/tour/vitalwanderwelt-reflection-wanderweg-wiehenturm"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "osbrennereimuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Taste Haselünne's grain-spirit tradition at Berentzen Hof",
+   "desc": "Haselünne is known as the oldest town in the Emsland and for its grain distilleries. The Berentzen Hof in the old Bentinckhof buildings is the company's visitor centre, with a distillery museum in the former malthouse and guided tours.",
+   "tip": "The courtyard is company premises, so register for a tour in advance via berentzen-hof.de.",
+   "q": "Berentzen Hof, Ritterstraße 7, Haselünne",
+   "ll": [
+    52.675,
+    7.48658
+   ],
+   "src": [
+    "https://www.niedersachsen-tourism.com/poi/brennereimuseum-haseluenne",
+    "https://www.berentzen-gruppe.de/en/berentzen-group/locations"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "osmuseumsfabrik",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Watch looms run in Nordhorn's Museumsfabrik",
+   "desc": "The Stadtmuseum Nordhorn runs its museum in the former Alte Weberei on the Vechte, a reminder of the textile industry that shaped the town. Demonstrations of the historic machines bring the factory floor to life.",
+   "tip": "Machine demonstrations happen on set days; check stadtmuseum-nordhorn.de for the schedule.",
+   "q": "Stadtmuseum Nordhorn Museumsfabrik, Vechteaue 2, Nordhorn",
+   "ll": [
+    52.42591,
+    7.07155
+   ],
+   "src": [
+    "https://stadtmuseum-nordhorn.de/en/museumsfabrik-en/",
+    "https://whichmuseum.com/museum/stadtmuseum-nordhorn-28660/opening-hours"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "osfrenswegen",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Kloster Frenswegen, Nordhorn's ecumenical monastery",
+   "desc": "The former monastery on the Vechte in Nordhorn is today the Stiftung Kloster Frenswegen, a place where six churches share one roof as an ecumenical conference and guest house. The grounds are open to anyone looking for a quiet stop.",
+   "tip": "Grounds and church are easy to combine with coffee at Café am Kloster next door.",
+   "q": "Stiftung Kloster Frenswegen, Klosterstraße 9, Nordhorn",
+   "ll": [
+    52.44472,
+    7.02194
+   ],
+   "src": [
+    "https://www.mvp.de/niedersachsen/entdecken/stiftung-kloster-frenswegen-nordhorn/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "osmoormuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Discover the raised bog at the Emsland Moormuseum",
+   "desc": "The Emsland Moormuseum in Geeste documents peat cutting and moor cultivation in the Emsland. A narrow-gauge Moorbahn runs a circular route of about 3.5 kilometres across the bog.",
+   "tip": "Museum open roughly March to October, Tuesday to Sunday 10:00-18:00; ring 05937 709990 for Moorbahn days.",
+   "q": "Emsland Moormuseum, Geestmoor, Geeste",
+   "ll": [
+    52.62223,
+    7.18403
+   ],
+   "src": [
+    "https://www.museum.de/en/museen/emsland-moormuseum",
+    "https://en.naturpark-moor.eu/service/moor-gateways/emsland-moormuseum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "osbaumwipfelpfad",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the treetops on the Baumwipfelpfad Bad Iburg",
+   "desc": "A wooden trail rises into the canopy of the Teutoburg Forest near Bad Iburg, giving views toward the castle and the Charlottensee. It lies at the Philipp-Sigismund-Allee in the spa town.",
+   "tip": "Open daily 10:00-18:00 March to October, shorter hours in winter. Adult ticket about 11.50 euros.",
+   "q": "Baumwipfelpfad Bad Iburg, Philipp-Sigismund-Allee 4, Bad Iburg",
+   "ll": [
+    52.16201,
+    8.03384
+   ],
+   "src": [
+    "https://www.niedersachsen-tourism.com/poi/baumwipfelpfad-bad-iburg",
+    "https://www.ich-geh-wandern.de/baumwipfelpfad-schloss-iburg-und-der-charlottensee"
+   ]
+  },
+  {
+   "id": "ostierparknordhorn",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Spend a day at the Tierpark Nordhorn",
+   "desc": "The Tierpark Nordhorn is a family zoo on the edge of the town, open all year including holidays. Free parking and a large play area make it popular with Dutch day visitors too.",
+   "tip": "Open 9:00-19:00 from March to late October, shorter in winter. Children up to 3 enter free.",
+   "q": "Tierpark Nordhorn, Heseper Weg 110, Nordhorn",
+   "ll": [
+    52.43013,
+    7.08774
+   ],
+   "src": [
+    "https://www.niedersachsen-tourism.com/poi/tierpark-nordhorn",
+    "https://new.tierpark-nordhorn.de/wp-content/uploads/2025/03/2025-Tierpark-Nordhorn-kurz.pdf"
+   ]
+  },
+  {
+   "id": "oshaseems",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cycle the Hase-Ems route into Meppen's old town",
+   "desc": "The Hase-Ems cycle route follows the Hase from its source at Melle to its mouth at Meppen, passing Bersenbrück and Haselünne. In Meppen it crosses a lift bridge straight into the old town where the Hase joins the Ems.",
+   "tip": "The Meppen to Haselünne section is flat and easy. Bike stations in Meppen hire out e-bikes.",
+   "q": "Hubbrücke, Hasestraße, Meppen",
+   "ll": [
+    52.69418,
+    7.2926
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Hase-Ems-Tour",
+    "https://www.radweg-reisen.com/sites/default/files/media/file/nw_emoo7_die_hase_ems_radtour_2025_de.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ostinnerdose",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Tinner Dose moor and Sprakeler Heide",
+   "desc": "The Tinner Dose-Sprakeler Heide nature reserve covers nearly 4,000 hectares of open raised bog and sand heath in the Emsland. It lies inside a military test range, which keeps trees out and leaves hummock-and-hollow bog and prehistoric burial mounds.",
+   "tip": "Stay on public paths and obey the red warning lights and instructions of the WTD 91 range authority; check access before you go.",
+   "q": "Tinner Dose, Sprakeler Heide, Emsland",
+   "ll": [
+    52.79619,
+    7.37836
+   ],
+   "src": [
+    "https://www.nlwkn.niedersachsen.de/naturschutzgebiete/naturschutzgebiet-tinner-dose-sprakeler-heide-125300.html",
+    "https://www.komoot.com/guide/3223823/attractions-in-tinner-dose-sprakeler-heide"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "osdoerenberg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike up the Dörenberg in the Teutoburg Forest",
+   "desc": "The Dörenberg near Hilter rises to about 331 metres and carries the concrete Hermannsturm, 21 metres high. The hike from Bad Iburg climbs to the summit area with views south to the Münsterland and north to the Wiehengebirge.",
+   "tip": "Check whether the tower is open before counting on the view; there is no restaurant at the summit.",
+   "q": "Hermannsturm Dörenberg, Dörenberg, Georgsmarienhütte",
+   "ll": [
+    52.17563,
+    8.0534
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/D%C3%B6renberg",
+    "https://www.niedersachsen-tourism.com/poi/hermannsturm"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "oswittekindsweg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Follow the Wittekindsweg above Bad Essen",
+   "desc": "The Wittekindsweg runs along the whole ridge of the Wiehengebirge. A roughly 13.6 km loop from the Solefreibad in Bad Essen passes the swan pond with its historic watermill and climbs to ridge views.",
+   "tip": "Plan about four hours; Hotel Altes Berghaus at Essenerberg lies on the route for a stop.",
+   "q": "Solefreibad Bad Essen, Bad Essen",
+   "ll": [
+    52.3203,
+    8.3433
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/wittekindsweg",
+    "https://www.niedersachsen-tourism.com/tour/wittekindsweg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "osfehnschifffahrt",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Join a guided Fehn shipping tour in Papenburg",
+   "desc": "Papenburg is Germany's oldest Fehn colony, built around canals dug to cut peat and ship it out. The Fehnschifffahrt guided tour includes a visit aboard a historic vessel on the Hauptkanal.",
+   "tip": "Tours are scheduled events; check dates with Papenburg Marketing.",
+   "q": "Hauptkanal links, Papenburg",
+   "ll": [
+    53.08141,
+    7.39161
+   ],
+   "src": [
+    "https://www.niedersachsen-tourism.com/event/die-fehnschifffahrt-gaestefuehrung-mit-schiffsbesichtigung",
+    "https://www.niedersachsen-tourism.com/poi/schifffahrts-freilicht-museum"
+   ]
+  },
+  {
+   "id": "oscarpesol",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Soak in the brine pools of the carpesol Spa Therme",
+   "desc": "The carpesol Spa Therme in Bad Rothenfelde has six thermal and brine pools indoors and out, a sauna area with five saunas including a panorama sauna and a separate spa area.",
+   "tip": "Listed hours are about 9:00-22:00 for the baths and 10:00-23:00 for saunas; confirm by phone on 05424 2214600.",
+   "q": "carpesol Spa Therme, Frankfurter Straße 15, Bad Rothenfelde",
+   "ll": [
+    52.10752,
+    8.16327
+   ],
+   "src": [
+    "https://www.niedersachsen-tourism.com/poi/carpesol-spa-therme",
+    "https://www.schwimmbadcheck.de/en/bad-rothenfelde/carpesol-bad-rothenfelde.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "osstoppelmarkt",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Join the crowds at Vechta's Stoppelmarkt",
+   "desc": "The Stoppelmarkt in Vechta is one of northern Germany's biggest folk festivals, held on the Westerheide for six days in mid-August with a parade, funfair and a family day with fireworks. The 728th edition ran in August 2026.",
+   "tip": "Entry to the fairground is free; see stoppelmarkt.de for the programme of the next August edition.",
+   "q": "Stoppelmarkt Westerheide, Vechta",
+   "ll": [
+    52.74768,
+    8.29562
+   ],
+   "src": [
+    "https://www.festivalsindeutschland.de/festival/stoppelmarkt-vechta",
+    "https://en.wikipedia.org/wiki/Vechta"
+   ],
+   "months": [
+    8
+   ]
+  },
+  {
+   "id": "osalfsee",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Spend a lake day at the Alfsee StrandArena",
+   "desc": "The Alfsee near Rieste is a recreation lake where the Hase flows in, with a beach, a boat harbour, a sailing school and a water-ski area. The Alfsee Ferien- und Erlebnispark sits on its shore.",
+   "tip": "Water facilities are seasonal; ring reception at 05464 92120 before heading out.",
+   "q": "Alfsee StrandArena, Zum Badesee 1, Rieste",
+   "ll": [
+    52.48881,
+    7.98954
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Alfsee",
+    "https://pages.destination.one/en/melle/streaming/detail/POI/p_100029112/alfsee-strandarena"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "osvechtesee",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the loop around the Vechtesee in Nordhorn",
+   "desc": "The Vechtesee was created in 1974 as a flood buffer near Nordhorn's centre. A roughly 2 km circular path is popular with walkers and cyclists, and pedal boats can be rented from May to October.",
+   "tip": "Local buses run from central Nordhorn; check the schedule.",
+   "q": "Vechtesee, Nordhorn",
+   "ll": [
+    52.43275,
+    7.07973
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/rundweg-zum-vechtesee-nordhorn",
+    "https://www.komoot.com/guide/193980/hiking-around-vechtesee"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "osemsradweg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Ems-Radweg through Haren and the Emsland",
+   "desc": "The Ems cycle route runs through the Emsland via Lingen, Meppen and Haren to Papenburg and on to Emden. The stage from Meppen to Haren is about 20 km, with Haren-Lathen another 13 km.",
+   "tip": "The Emsland-Route and Ems-Radweg are part of the regional cycle node network; get the Emsland route planner.",
+   "q": "Emsradweg, Emsbrücke, Haren (Ems)",
+   "ll": [
+    52.79017,
+    7.25041
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Ems-Radweg",
+    "https://niedersachsen-tourism.com/experiences/cycling-in-lower-saxony/cycle-routes/ems-cycle-route"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "osstadtfuehrunglingen",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Join a guided old-town walk in Lingen",
+   "desc": "Lingen's guided city tours begin at the small historic town hall on the market square, the town's best-known landmark. The 2026 programme includes themed walks through the old town.",
+   "tip": "Dates are listed in the tourismus-lingen.de Stadtführungen programme; book ahead.",
+   "q": "Historisches Rathaus, Marktplatz, Lingen (Ems)",
+   "ll": [
+    52.52256,
+    7.31607
+   ],
+   "src": [
+    "https://www.tourismus-lingen.de/pdf_files/stadtfuehrungen-2026_4664_8.pdf",
+    "https://www.niedersachsen-tourism.com/poi/historisches-rathaus-lingen-ems"
+   ]
+  },
+  {
+   "id": "osbentheimerwald",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Sandsteinweg through the Bentheimer Wald",
+   "desc": "The Bentheimer Wald covers about 1,200 hectares near Bad Bentheim, with a Walderlebnispfad and the Sandsteinweg, which links the old quarries with the Kurpark. Loops from the Kurpark run 4.8 to 9.7 km.",
+   "tip": "Guided tours in the Hute- und Schneitelwald run April to October via the tourist office.",
+   "q": "Kurpark Bad Bentheim, Bad Bentheim",
+   "ll": [
+    52.31762,
+    7.1639
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/sandsteinweg-bad-bentheim",
+    "https://BadBentheim.de/fileadmin/Mediendatenbank_BadBentheim/Prospekte_und_PDF/Prospekte/bbt_flyer_natur_pur_bentheimer_wald_ansicht_07.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "osburgcafe",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink coffee at Ferdinands Burgcafé & Bistro",
+   "desc": "The café and bistro at Burg Bentheim stayed open after the castle museum closed in January 2026, so it remains a way to be up in the castle grounds.",
+   "tip": "Combine with a walk around the castle walls.",
+   "q": "Ferdinands Burgcafé & Bistro, Burg Bentheim, Bad Bentheim",
+   "ll": [
+    52.30361,
+    7.15806
+   ],
+   "src": [
+    "https://www.ihk.de/osnabrueck/servicemarken/aktuell/online-magazin/april-2026-ihkmagazin/burg-bentheim-ferdinands-7017592"
+   ]
+  },
+  {
+   "id": "ossmutje",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat fresh fish at Fischhaus Smutje on the Papenburg canal",
+   "desc": "A maritime-themed fish restaurant on the Hauptkanal in Papenburg whose menu includes Matjes, mussel gratin and Frisian fish soup.",
+   "tip": "Order the Matjes or the fish soup; check opening hours on Google Maps.",
+   "q": "Fischhaus Smutje, Hauptkanal links 14, Papenburg",
+   "ll": [
+    53.08594,
+    7.3893
+   ],
+   "src": [
+    "https://www.speisekarte.de/papenburg/restaurant/fischhaus_smutje_papenburg/speisekarte",
+    "https://freizeitmonster.de/blog/fisch-restaurants-papenburg"
+   ]
+  },
+  {
+   "id": "oskuhr",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at Altes Gasthaus Kuhr on the Hauptkanal",
+   "desc": "A traditional guesthouse and hotel on Papenburg's Hauptkanal with a restaurant of seasonal dishes and a canal-side terrace.",
+   "tip": "Take a table on the terrace in summer.",
+   "q": "Altes Gasthaus Kuhr, Hauptkanal rechts 62, Papenburg",
+   "ll": [
+    53.07889,
+    7.39275
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/papenburg/altes-gasthaus-kuhr/"
+   ]
+  },
+  {
+   "id": "osgrafschafterbrauhaus",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat at the Grafschafter Brauhaus above the Vechte",
+   "desc": "A brewery-restaurant in Nordhorn with German cooking and a terrace overlooking the Vechte.",
+   "tip": "Sit on the terrace on warm evenings.",
+   "q": "Grafschafter Brauhaus, Nordhorn",
+   "ll": [
+    52.43211,
+    7.07488
+   ],
+   "src": [
+    "https://www.swipein.restaurant/en/restaurant/grafschafter-brauhaus-nordhorn",
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/nordhorn/"
+   ]
+  },
+  {
+   "id": "ospier99",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have a drink at Pier 99 on the Vechtesee",
+   "desc": "A waterfront café, bar and restaurant on the banks of the Vechtesee in Nordhorn.",
+   "tip": "Combine with the lake loop walk.",
+   "q": "Pier 99, Vechtesee, Nordhorn",
+   "ll": [
+    52.43552,
+    7.08152
+   ],
+   "src": [
+    "https://tripaligner.com/countries/germany-22/destinations/nordhorn-10891/places/pier-99-2445173"
+   ]
+  },
+  {
+   "id": "osclemenswerther",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try Baukweiten Jan Hinnerk at Clemenswerther Hof",
+   "desc": "Jansen's Hotel Clemenswerther Hof in Sögel has a restaurant of home-style cooking and a regional dish, Baukweiten Jan Hinnerk. It is about a 12-minute walk from Schloss Clemenswerth.",
+   "tip": "Restaurant open Tuesday to Sunday 12:00-14:00 and 17:30-21:00.",
+   "q": "Jansen's Hotel Clemenswerther Hof, Sögel",
+   "ll": [
+    52.84417,
+    7.51611
+   ],
+   "src": [
+    "https://www.niedersachsen-tourism.com/gastro/hotel-clemenswerther-hof",
+    "https://web.destination.one/en/gastro/hotel-clemenswerther-hof"
+   ]
+  },
+  {
+   "id": "oshoegers",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at Höger's Hotel und Restaurant in Bad Essen",
+   "desc": "Höger's is a hotel and restaurant in Bad Essen listed in the Falstaff guide, serving fine regional cooking.",
+   "tip": "Book ahead for dinner.",
+   "q": "Höger's Hotel und Restaurant, Bad Essen",
+   "ll": [
+    52.32025,
+    8.34021
+   ],
+   "src": [
+    "https://www.falstaff.com/nordics/restaurants/hoegers-bad-essen",
+    "https://web.destination.one/en/gastro/hoegers-hotel-und-restaurant"
+   ]
+  },
+  {
+   "id": "osredeker",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Sit down at Landgasthof Redeker in Haselünne",
+   "desc": "A country inn in Haselünne, the Emsland's grain-spirit town, listed with four houses in the Schlemmer Atlas.",
+   "tip": "Pair with a visit to the Berentzen distillery museum.",
+   "q": "Landgasthof Redeker, Haselünne",
+   "ll": [
+    52.67213,
+    7.39652
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/reisegebiet/emsland/"
+   ]
+  },
+  {
+   "id": "osschlossmuehle",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have breakfast at the Schlossmühle in Bad Iburg",
+   "desc": "The Schlossmühle is a café-restaurant at Charlottenburger Ring in Bad Iburg, known for its breakfast buffet and traditional German cooking.",
+   "tip": "Stop after a walk around the Charlottensee.",
+   "q": "Schlossmühle, Charlottenburger Ring 27, Bad Iburg",
+   "ll": [
+    52.15801,
+    8.03966
+   ],
+   "src": [
+    "https://freizeitmonster.de/blog/cafes-bad-iburg"
+   ]
+  },
+  {
+   "id": "oscafekloster",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Stop at Café am Kloster in Frenswegen",
+   "desc": "A café at the address of the Kloster Frenswegen in Nordhorn, listed as open from 09:30 daily except Tuesday.",
+   "tip": "Hours are from a directory; check before a visit.",
+   "q": "Café am Kloster, Klosterstraße 9, Nordhorn",
+   "ll": [
+    52.45431,
+    7.03859
+   ],
+   "src": [
+    "https://www.oeffnungszeitenbuch.de/filiale/Nordhorn-Cafe%2520am%2520Kloster-4987477O.html"
+   ]
+  },
+  {
+   "id": "osborgerdings",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have coffee at Borgerdings Mühlencafé & Restaurant near Vechta",
+   "desc": "A mill café and restaurant in Spreda, just outside Vechta.",
+   "tip": "Drive or cycle out from Vechta; verify hours.",
+   "q": "Borgerdings Mühlencafé & Restaurant, Spreda, Vechta",
+   "ll": [
+    52.76856,
+    8.24992
+   ],
+   "src": [
+    "https://www.dasoertliche.de/Themen/Gaststätten/Vechta.html"
+   ]
+  }
+ ]
+}

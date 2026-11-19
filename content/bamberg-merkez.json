@@ -1,0 +1,619 @@
+{
+ "new": [
+  {
+   "id": "bgkaiserdom",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the Kaiserdom and the Bamberger Reiter",
+   "desc": "Bamberg Cathedral was consecrated in 1012 under Henry II and rebuilt in the 13th century in late Romanesque and early Gothic style. It holds the tomb of Henry II and Kunigunde, Pope Clement II's grave and the Bamberger Reiter equestrian statue.",
+   "tip": "Free to enter; avoid Mass times. Climb Domberg early for fewer crowds.",
+   "q": "Bamberger Dom, Domplatz, Bamberg",
+   "ll": [
+    49.8911,
+    10.8822
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Bamberger_Dom"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bgaltesrathaus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Photograph the Altes Rathaus on its river island",
+   "desc": "The Old Town Hall stands on an artificial island in the Regnitz, between the bishop's hill town and the citizens' island town. The Baroque and Rococo facade dates from 1744 to 1756 and has frescoes with protruding figures.",
+   "tip": "Best views from the Obere Brücke; it houses the Ludwig porcelain collection.",
+   "q": "Altes Rathaus, Obere Brücke 1, Bamberg",
+   "ll": [
+    49.89166,
+    10.88679
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Altes_Rathaus_(Bamberg)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bgneueresidenz",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Tour the Neue Residenz and its State Gallery",
+   "desc": "The New Residence was built from 1602 as seat of the prince-bishops and houses the state rooms, including the Imperial Hall, and a branch of the Bavarian State Painting Collections. It served the bishops until 1802.",
+   "tip": "State rooms are visited on guided tours; combine with the Rosengarten terrace.",
+   "q": "Neue Residenz Bamberg, Domplatz 8, Bamberg",
+   "ll": [
+    49.8907,
+    10.8814
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Neue_Residenz_(Bamberg)"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bgrosengarten",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Smell the Bamberg Rosengarten above the roofs",
+   "desc": "The rose garden in the inner courtyard of the Neue Residenz has roughly 4,500 roses in many varieties. It offers a view over the old town to Michaelsberg.",
+   "tip": "Free and open daily in season; best in June when the roses bloom.",
+   "q": "Rosengarten, Neue Residenz, Domplatz 8, Bamberg",
+   "ll": [
+    49.89207,
+    10.88168
+   ],
+   "src": [
+    "https://www.adac.de/reise-freizeit/reiseplanung/inspirationen/deutschland/bamberg-sehenswuerdigkeiten/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bgmichaelsberg",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit Kloster Michaelsberg and its Himmelsgarten ceiling",
+   "desc": "The former Benedictine abbey on Michaelsberg was founded in 1015 and later rebuilt in Baroque style. Its church has a ceiling painted with a garden of plants, the Himmelsgarten, and a terrace with a view of the town.",
+   "tip": "Church has an entry fee for the ceiling; terrace views are free.",
+   "q": "Kloster Michelsberg, Michelsberg 10, Bamberg",
+   "ll": [
+    49.89326,
+    10.87624
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kloster_Michaelsberg_(Bamberg)"
+   ]
+  },
+  {
+   "id": "bgaltenburg",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb up to the Altenburg castle",
+   "desc": "Altenburg crowns the highest of Bamberg's seven hills and was a bishops' residence from the 14th century. The tower offers views across the city and the Bamberg basin.",
+   "tip": "Reached on foot from Laurenziplatz in about 25 minutes; check current opening of the tower.",
+   "q": "Burg Altenburg, Altenburg 1, Bamberg",
+   "ll": [
+    49.88051,
+    10.86922
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Altenburg_(Bamberg)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bgkleinvenedig",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stroll along Klein-Venedig's fishermen houses",
+   "desc": "The riverside row of half-timbered former fishermen's houses along the Regnitz is nicknamed Little Venice. Many houses have wooden balconies over the water.",
+   "tip": "Best light in the afternoon; boat tours pass here.",
+   "q": "Klein-Venedig, Am Leinritt, Bamberg",
+   "ll": [
+    49.89302,
+    10.8844
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Klein-Venedig_(Bamberg)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bguntere",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Cross the Untere Brücke for the classic river view",
+   "desc": "The Untere Brücke links the Bergstadt and Inselstadt near the Altes Rathaus. From it you see the river and the Klein-Venedig row.",
+   "tip": "Quiet at sunrise; combine with a walk along Am Leinritt.",
+   "q": "Untere Brücke, Bamberg",
+   "ll": [
+    49.8919,
+    10.88684
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Untere_Br%C3%BCcke_(Bamberg)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bgoberepfarre",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step into the Gothic Obere Pfarre",
+   "desc": "The Church of Our Lady, begun in 1392, is the only purely Gothic church in the city. It contains the Maria Immaculata altar of Veit Stoß.",
+   "tip": "Free to enter; the tower gives views over the Bergstadt.",
+   "q": "Obere Pfarre, Unterer Kaulberg, Bamberg",
+   "ll": [
+    49.88934,
+    10.88441
+   ],
+   "src": [
+    "https://explorial.com/de/sights/bamberg-obere-pfarre-de/",
+    "https://maps.adac.de/poi/obere-pfarre-bamberg"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bgdioezesanmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Kaisergewänder at the Diözesanmuseum",
+   "desc": "The museum in the Kapitelhaus designed by Balthasar Neumann in 1731 to 1733 shows treasures of the cathedral and diocese. Highlights include the imperial vestments and the Domkreuz.",
+   "tip": "Combined tickets with other Domberg museums are available.",
+   "q": "Diözesanmuseum Bamberg, Domplatz 5, Bamberg",
+   "ll": [
+    49.8908,
+    10.8825
+   ],
+   "src": [
+    "https://www.bavarikon.de/object/bav:BSB-CMS-0000000000006491?lang=en"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bghistorischesmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore the city's past at the Historisches Museum",
+   "desc": "The Historical Museum occupies the Alte Hofhaltung, the former bishop's residence next to the cathedral. Its collections cover the history of Bamberg from the Middle Ages onward.",
+   "tip": "Combine with the Alte Hofhaltung courtyard.",
+   "q": "Historisches Museum Bamberg, Domplatz 7, Bamberg",
+   "ll": [
+    49.8916,
+    10.8827
+   ],
+   "src": [
+    "https://www.museum.de/museen/historisches-museum-bamberg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bgnaturkunde",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk through the historic Vogelsaal at the Naturkundemuseum",
+   "desc": "The Natural History Museum is housed in the former Jesuit college and covers geology, minerals and local fauna. Its historic bird hall is more than 200 years old.",
+   "tip": "Good for rainy days and families.",
+   "q": "Naturkundemuseum Bamberg, Fleischstraße 2, Bamberg",
+   "ll": [
+    49.89431,
+    10.88791
+   ],
+   "src": [
+    "https://snsb.de/en/naturkunde-museum-bamberg/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bggaertnermuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Discover the Gärtner- und Häckermuseum",
+   "desc": "The museum tells of the market gardeners and wine growers of Bamberg's Gärtnerstadt, in a preserved gardener's house in Mittelstraße. A 2026 exhibition covers electrification in a gardener's household.",
+   "tip": "Seasonal opening with a winter break; check dates before visiting.",
+   "q": "Gärtner- und Häckermuseum, Mittelstraße 34, Bamberg",
+   "ll": [
+    49.89944,
+    10.89282
+   ],
+   "src": [
+    "https://en.bamberg.info/poi/the_market_gardeners_and_wine-4675"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bgkarmeliten",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Karmelitenkloster on the Kaulberg",
+   "desc": "The Carmelite monastery on the Kaulberg goes back to a 12th-century foundation and was redesigned in Baroque style at the end of the 17th century.",
+   "tip": "Dates of origin vary by source; quiet cloister.",
+   "q": "Karmelitenkloster Bamberg, Obere Karolinenstraße 8, Bamberg",
+   "ll": [
+    49.88832,
+    10.88094
+   ],
+   "src": [
+    "https://maps.adac.de/poi/karmelitenkloster-bamberg"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bgschlenkerla",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink Aecht Schlenkerla Rauchbier at the historic tavern",
+   "desc": "The Schlenkerla tavern in the former Haus zum blauen Löwen on Dominikanerstraße serves the world-famous Aecht Schlenkerla Rauchbier, brewed at Stephansberg. The beer is drawn from wooden barrels.",
+   "tip": "Order a Schäuferla or Bamberger Zwiebel with it; busy evenings.",
+   "q": "Schlenkerla, Dominikanerstraße 6, Bamberg",
+   "ll": [
+    49.8918,
+    10.8866
+   ],
+   "src": [
+    "https://www.schlenkerla.de/"
+   ]
+  },
+  {
+   "id": "bgspezialkeller",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Enjoy the view from the Spezial-Keller beer garden",
+   "desc": "Spezial brews Rauchbier and runs a Keller with a beer garden above the original lager cellars on Stephansberg and a wood-paneled taproom. Many visitors rate its view over the old town as the best in the city.",
+   "tip": "Open in warm season; go at sunset.",
+   "q": "Spezial-Keller, Oberer Stephansberg 47, Bamberg",
+   "ll": [
+    49.88483,
+    10.88718
+   ],
+   "src": [
+    "https://www.infranken.de/unternehmen/brauerei-spezial-150790"
+   ]
+  },
+  {
+   "id": "bgmahrs",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try a Ungespundet at Mahrs Bräu",
+   "desc": "Mahr's Bräu in Wunderburg is a Bamberg institution since 1602, praised for brewing many styles consistently well. The unfiltered Ungespundet-Hefetrüb is the house signature.",
+   "tip": "Hearty Franconian food; open evenings.",
+   "q": "Mahrs Bräu, Wunderburg 10, Bamberg",
+   "ll": [
+    49.88993,
+    10.90641
+   ],
+   "src": [
+    "https://en.bamberg.info/brauereigaststaetten/?addPage=2"
+   ]
+  },
+  {
+   "id": "bgfaessla",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste the Bambergator Doppelbock at Fässla",
+   "desc": "Brauerei Fässla brews since 1649 and is known for its strong Bambergator Doppelbock. Its tavern stands on Obere Königstraße.",
+   "tip": "Try the Bambergator with a hearty Brotzeit.",
+   "q": "Fässla, Obere Königstraße 19, Bamberg",
+   "ll": [
+    49.89713,
+    10.89279
+   ],
+   "src": [
+    "https://en.bamberg.info/brauereigaststaetten/?addPage=3"
+   ]
+  },
+  {
+   "id": "bgkeesmann",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sip Herren Pils at Brauerei Keesmann",
+   "desc": "Keesmann in Wunderburg is known for its Herren Pils, called one of the best in town. The tavern serves traditional Franconian dishes.",
+   "tip": "Garden seating in summer.",
+   "q": "Brauerei Keesmann, Wunderburg 5, Bamberg",
+   "ll": [
+    49.85988,
+    10.91745
+   ],
+   "src": [
+    "https://en.bamberg.info/brauereigaststaetten/?addPage=2"
+   ]
+  },
+  {
+   "id": "bggreifenklau",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sit in the Greifenklau beer garden below the Altenburg",
+   "desc": "Greifenklau claims to be one of the oldest Bamberg beer cellars and has a beer garden with about 500 seats behind the tavern. The cellar lies below Altenburg and is part of the UNESCO site.",
+   "tip": "Come after a hike to Altenburg; Keller season only.",
+   "q": "Greifenklau, Laurenziplatz 20, Bamberg",
+   "ll": [
+    49.88359,
+    10.88194
+   ],
+   "src": [
+    "https://en.bamberg.info/brauereigaststaetten/?addPage=3"
+   ]
+  },
+  {
+   "id": "bgsternla",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Schäuferla at Zum Sternla",
+   "desc": "Zum Sternla is described as Bamberg's oldest inn and has been a brewpub since 2019. The signature dish is Schäuferla, shoulder roast in beer sauce with a Franconian dumpling.",
+   "tip": "Opening days vary by listing; reserve evenings.",
+   "q": "Zum Sternla, Lange Straße 46, Bamberg",
+   "ll": [
+    49.89189,
+    10.89142
+   ],
+   "src": [
+    "https://en.bamberg.info/gastronomie/gasthaus_zum_sternla_seit_1380-264/"
+   ]
+  },
+  {
+   "id": "bgwilderose",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Bring your own Brotzeit to the Wilde Rose Keller",
+   "desc": "Wilde Rose Keller on Stephansberg has roughly 1,500 seats and lets guests bring their own food, unlike most cellars. It was formerly called Leichtskeller.",
+   "tip": "Seasonal; the 2026 season opened on 30 April.",
+   "q": "Wilde Rose Keller, Oberer Stephansberg 49, Bamberg",
+   "ll": [
+    49.88427,
+    10.88686
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/1493707/wilde-rose-keller"
+   ]
+  },
+  {
+   "id": "bgambraeusianum",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink house-brewed beer at the Ambräusianum",
+   "desc": "Ambräusianum is a brewpub in the old town and one of the traditional Bamberg brewery taverns. It brews its own beers on site.",
+   "tip": "Try the seasonal specials.",
+   "q": "Ambräusianum, Dr.-von-Schmitt-Straße 7, Bamberg",
+   "ll": [
+    49.89177,
+    10.88463
+   ],
+   "src": [
+    "https://en.bamberg.info/brauereigaststaetten/?addPage=5"
+   ]
+  },
+  {
+   "id": "bgklosterbraeu",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste dark Klosterbräu beer by the Regnitz",
+   "desc": "Klosterbräu is one of the old Bamberg breweries with a tavern near the Obere Mühlbrücke. It is known for its dark Braunbier.",
+   "tip": "Riverside seating in summer.",
+   "q": "Klosterbräu, Obere Mühlbrücke 1, Bamberg",
+   "ll": [
+    49.88932,
+    10.88715
+   ],
+   "src": [
+    "https://en.bamberg.info/brauereigaststaetten/?addPage=3"
+   ]
+  },
+  {
+   "id": "bgkachelofen",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Franconian Schäuferla at Zum Kachelofen",
+   "desc": "Kachelofen is a Gasthaus in the old town with over 40 years of history, known for hearty meat dishes. Reviews highlight its Schäuferla with Wirsing.",
+   "tip": "Often full; reserve.",
+   "q": "Kachelofen, Obere Sandstraße 1, Bamberg",
+   "ll": [
+    49.89165,
+    10.88439
+   ],
+   "src": [
+    "https://www.speisekarte.de/bamberg/restaurant/kachelofen"
+   ]
+  },
+  {
+   "id": "bgaltringlein",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try Franconian classics at Alt-Ringlein",
+   "desc": "Alt-Ringlein on Dominikanerstraße serves Schäuferla, Haxen, Bratwürste and Sauerbraten in a traditional hotel restaurant.",
+   "tip": "Near Schlenkerla; good for a larger meal.",
+   "q": "Alt-Ringlein, Dominikanerstraße 9, Bamberg",
+   "ll": [
+    49.8917,
+    10.8864
+   ],
+   "src": [
+    "https://www.speisekarte.de/bamberg/restaurant/alt_ringlein"
+   ]
+  },
+  {
+   "id": "bgbrauereimuseum",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Learn brewing at the Fränkisches Brauereimuseum",
+   "desc": "The museum in the historic vaults of the Benedictine brewery on Michaelsberg shows Franconian brewing tradition.",
+   "tip": "Small entry fee; combine with Michaelsberg.",
+   "q": "Fränkisches Brauereimuseum, Michelsberg 10f, Bamberg",
+   "ll": [
+    49.89376,
+    10.87593
+   ],
+   "src": [
+    "https://en.bamberg.info/museen/?addPage=2"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bggondel",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Glide through Bamberg on a gondola",
+   "desc": "Two Franconian gondoliers offer rides on the Regnitz through the old town with individual routes, passing Klein-Venedig.",
+   "tip": "Book ahead; check the season.",
+   "q": "Gondelfahrten Bamberg, Am Leinritt, Bamberg",
+   "ll": [
+    49.89415,
+    10.88157
+   ],
+   "src": [
+    "https://www.infranken.de/lk/bamberg/ausflug/gondel-fahren-in-bamberg-ausflug-romantische-stadttour-info-abfahrt-preise-art-4170700"
+   ]
+  },
+  {
+   "id": "bgbootstour",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Take a river boat tour from the Kranen",
+   "desc": "Boat excursions start in the heart of the old town and pass Klein-Venedig and several bridges toward the harbour.",
+   "tip": "Check the seasonal timetable.",
+   "q": "Schiffsanlegestelle Am Kranen, Bamberg",
+   "ll": [
+    49.89311,
+    10.88655
+   ],
+   "src": [
+    "https://en.bamberg.info/poi/boat_excursions-4937"
+   ]
+  },
+  {
+   "id": "bgkanu",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Paddle the Regnitz past Little Venice",
+   "desc": "Guided canoe tours in 10-seat canoes pass the Regnitz meadows, Theresian park and Klein-Venedig. A new canoe staircase opened at Wegmannufer in 2026.",
+   "tip": "Warm season; book in advance.",
+   "q": "Wegmannufer, Bamberg",
+   "ll": [
+    49.8945,
+    10.8908
+   ],
+   "src": [
+    "https://www.infranken.de/lk/bamberg/erste-gelbe-welle-fuer-kanuten-neue-bootstreppe-in-bamberg-eroeffnet-art-6382736"
+   ]
+  },
+  {
+   "id": "bghain",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk through the Hain park",
+   "desc": "The Stadtpark Hain, with Theresienhain and Luisenhain, is a historic garden monument and protected landscape. The main entrance is at Mühlwörth and paths lead toward Bug.",
+   "tip": "Free all day.",
+   "q": "Hain, Mühlwörth, Bamberg",
+   "ll": [
+    49.88435,
+    10.89447
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/spaziergang-durch-den-hainpark"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bgflusspfad",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Follow the Flusspfad along the Regnitz",
+   "desc": "The river trail has 23 information panels on the history of the Regnitz and the city, with audio guides in German and English.",
+   "tip": "Start near Schloss Geyerswörth; allow about 90 minutes.",
+   "q": "Schloss Geyerswörth, Geyerswörthstraße 5, Bamberg",
+   "ll": [
+    49.8917,
+    10.889
+   ],
+   "src": [
+    "https://en.bamberg.info/wege/bamberg_river_path-1180"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bgkellerwald",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Stroll the Stephansberg beer-cellar trail",
+   "desc": "The Stephansberg hill holds several Bamberg beer cellars with garden terraces, the classic Keller area. The season runs from spring to autumn.",
+   "tip": "Sunny afternoons; bring cash.",
+   "q": "Oberer Stephansberg, Bamberg",
+   "ll": [
+    49.88608,
+    10.88684
+   ],
+   "src": [
+    "https://www.infranken.de/lk/franken/ausflug/bierkeller-saison-2026-bamberg-bierkeller-oeffnungszeiten-franken-bier-art-6342397,PRINT"
+   ]
+  },
+  {
+   "id": "bgkonzerthalle",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Catch the Bamberger Symphoniker at the Konzerthalle",
+   "desc": "The Bamberger Symphoniker play their home concerts in the Konzert- und Kongresshalle on Mußstraße. The orchestra has carried the title Bayerische Staatsphilharmonie since 2003.",
+   "tip": "Check the season program online.",
+   "q": "Konzerthalle Bamberg, Mußstraße 1, Bamberg",
+   "ll": [
+    49.89642,
+    10.88016
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Bamberger_Symphoniker"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bgwelterbefuehrung",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Join a Welterbe tour from the Tourist-Information",
+   "desc": "The Tourist Information and Welterbe Visitor Centre near Schloss Geyerswörth offers guided walks on the UNESCO old town and the Regnitz.",
+   "tip": "Book online or at the desk.",
+   "q": "Welterbe-Besucherzentrum, Geyerswörthstraße 5, Bamberg",
+   "ll": [
+    49.89056,
+    10.88756
+   ],
+   "src": [
+    "https://en.bamberg.info/"
+   ]
+  }
+ ]
+}

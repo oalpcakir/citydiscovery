@@ -1,0 +1,577 @@
+{
+ "new": [
+  {
+   "id": "osfriedenssaal",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Friedenssaal where the Peace of Westphalia was signed",
+   "desc": "The late Gothic Rathaus on the Markt hosted the Osnabrück half of the 1648 Westphalian peace negotiations. Its Friedenssaal still holds portraits of the envoys and carved panelling.",
+   "tip": "Guided tours and the Friedenssaal are usually available on weekdays and Saturdays; check opening hours first.",
+   "q": "Rathaus des Westfälischen Friedens, Markt 30, Osnabrück",
+   "ll": [
+    52.27745,
+    8.04117
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Rathaus_(Osnabrück)",
+    "https://erleben.osnabrueck.de/en/experience-city/worth-seeing"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "osdom",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step into the Dom St. Peter and its cloister",
+   "desc": "Osnabrück's cathedral dates mainly from the 13th century and mixes Romanesque and Gothic architecture. The adjoining cloister and cathedral treasury add to a visit.",
+   "tip": "Entry to the church is free; the treasury has separate hours.",
+   "q": "Dom St. Peter, Domhof 12, Osnabrück",
+   "ll": [
+    52.27756,
+    8.04496
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Dom_St._Peter_(Osnabrück)",
+    "https://erleben.osnabrueck.de/en/experience-city/worth-seeing"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "osmarienkirche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the Gothic Marienkirche on the market square",
+   "desc": "A 14th-century Gothic hall church that stands at the Markt beside the Rathaus and Stadtwaage. Its tower can be climbed as part of a guided tour.",
+   "tip": "Ask the tourist information about tower tours.",
+   "q": "Marienkirche, Markt, Osnabrück",
+   "ll": [
+    52.279,
+    8.0427
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/St._Marien_(Osnabrück)",
+    "https://erleben.osnabrueck.de/en/experience-city/worth-seeing"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "osstadtwaage",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Look at the Stadtwaage and the stepped gables of the Markt",
+   "desc": "The Markt is framed by the Rathaus, the Marienkirche, the Stadtwaage and stepped-gable houses. The square hosts events such as the Maiwoche.",
+   "tip": "Come on a market day for the busiest atmosphere.",
+   "q": "Stadtwaage, Markt, Osnabrück",
+   "ll": [
+    52.27777,
+    8.04131
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Stadtwaage_(Osnabrück)",
+    "https://erleben.osnabrueck.de/en/experience-city/worth-seeing"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "oshegertor",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk through the Heger Tor, the Waterloo gate",
+   "desc": "The classicist city gate commemorates the Osnabrück soldiers who fell at Waterloo in 1815, hence its second name. It marks the entrance to the lively Heger-Tor quarter.",
+   "tip": "Combine with a stroll into the old town through Heger Straße.",
+   "q": "Heger Tor, Heger-Tor-Wall, Osnabrück",
+   "ll": [
+    52.2764,
+    8.0405
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Heger_Tor",
+    "https://erleben.osnabrueck.de/en/experience-city/worth-seeing"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "osbucksturm",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find the medieval Bucksturm tower",
+   "desc": "A 13th-century tower on Bocksmauer Straße that survives from the medieval city wall. It is a listed monument in the old town.",
+   "tip": "Best seen on a walk along the former wall line.",
+   "q": "Bucksturm, Bocksmauer, Osnabrück",
+   "ll": [
+    52.27753,
+    8.03851
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Bucksturm",
+    "https://erleben.osnabrueck.de/en/experience-city/worth-seeing/bucksturm-tower/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "osnussbaumhaus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore the Felix-Nussbaum-Haus by Daniel Libeskind",
+   "desc": "Opened in 1998, the museum designed by Daniel Libeskind holds the world's largest collection of works by Osnabrück-born Jewish painter Felix Nussbaum. It forms part of the Museumsquartier MQ4.",
+   "tip": "Open Tuesday to Sunday; check the official hours before you go.",
+   "q": "Felix-Nussbaum-Haus, Lotter Straße 2, Osnabrück",
+   "ll": [
+    52.27539,
+    8.03829
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Felix-Nussbaum-Haus",
+    "https://erleben.osnabrueck.de/en/experience-city/worth-seeing/mq4-museumsquartier-osnabrueck/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "oskulturgeschichte",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Kulturgeschichtliches Museum in the MQ4",
+   "desc": "The city's museum of cultural history sits in the Museumsquartier next to the Felix-Nussbaum-Haus and covers Osnabrück and the region from early times to the present.",
+   "tip": "Pairs well with a visit to the Nussbaum museum.",
+   "q": "Kulturgeschichtliches Museum, Lotter Straße 2, Osnabrück",
+   "ll": [
+    52.2755,
+    8.03859
+   ],
+   "src": [
+    "https://erleben.osnabrueck.de/en/experience-city/worth-seeing/mq4-museumsquartier-osnabrueck/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "osvilla",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit Die Villa_, the former Villa Schlikker",
+   "desc": "This villa in the Museumsquartier was the NSDAP district headquarters between 1933 and 1945. Today it serves as a place for history education within MQ4.",
+   "tip": "Check current exhibitions on the MQ4 website.",
+   "q": "Villa Schlikker, Lotter Straße 2, Osnabrück",
+   "ll": [
+    52.27506,
+    8.039
+   ],
+   "src": [
+    "https://erleben.osnabrueck.de/en/experience-city/worth-seeing/mq4-museumsquartier-osnabrueck/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "oskunsthalle",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See contemporary art in the Kunsthalle Dominikanerkirche",
+   "desc": "The Kunsthalle occupies the former church of the Dominican monastery of the Holy Cross. Temporary exhibitions of contemporary art are shown inside the medieval nave.",
+   "tip": "Exhibitions change, so check the programme first.",
+   "q": "Kunsthalle Osnabrück, Hasestraße 49, Osnabrück",
+   "ll": [
+    52.27908,
+    8.04008
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kunsthalle_Osnabrück"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "osschloss",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stroll around Schloss Osnabrück and its garden",
+   "desc": "The former prince-bishop's residence was built from 1667 and now houses the University of Osnabrück. The Schlossgarten lies behind it.",
+   "tip": "The garden is open to everyone.",
+   "q": "Schloss Osnabrück, Neuer Graben 29, Osnabrück",
+   "ll": [
+    52.27162,
+    8.04491
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Osnabrück"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "osledenhof",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Spot the Renaissance Ledenhof near the cathedral",
+   "desc": "A Renaissance mansion owned by the city since 1930 and used for the Deutsche Stiftung Friedensforschung and the Literaturbüro Westniedersachsen.",
+   "tip": "Admire the exterior on an old-town walk.",
+   "q": "Ledenhof, Domhof, Osnabrück",
+   "ll": [
+    52.27238,
+    8.04518
+   ],
+   "src": [
+    "https://erleben.osnabrueck.de/en/experience-city/worth-seeing/rund-um-den-ledenhof"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "osbotgarten",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Wander the Botanischer Garten in the Westerberg quarries",
+   "desc": "The university's botanical garden lies in two former quarries on the Westerberg. Entry is free and themed guided tours are available on request.",
+   "tip": "Combine with a walk on the Westerberg.",
+   "q": "Botanischer Garten der Universität Osnabrück, Albrechtstraße 29, Osnabrück",
+   "ll": [
+    52.28269,
+    8.02605
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Botanischer_Garten_Osnabrück"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "osmik",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Dig into coal-mining history at the Museum Industriekultur",
+   "desc": "The museum on the Piesberg tells the story of the area's coal mining and industrial heritage. It sits within the Piesberg cultural landscape.",
+   "tip": "Pair with the Piesberg viewing platform.",
+   "q": "Museum Industriekultur, Fürstenauer Weg 171, Osnabrück",
+   "ll": [
+    52.31471,
+    8.01035
+   ],
+   "src": [
+    "https://erleben.osnabrueck.de/en/experience-city/worth-seeing"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "osschoelerberg",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Discover nature at the Museum am Schölerberg",
+   "desc": "A municipal museum for nature and the environment next to the zoo at the Schölerberg, with hands-on exhibits.",
+   "tip": "Combine with the zoo visit.",
+   "q": "Museum am Schölerberg, Klaus-Strick-Weg 10, Osnabrück",
+   "ll": [
+    52.24932,
+    8.06983
+   ],
+   "src": [
+    "https://erleben.osnabrueck.de/en/experience-city/discover-nature/zoo/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "oshexengang",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk the Hexengang by the cathedral",
+   "desc": "A historic lane by the Dom where plague victims once prayed during services, warning others with wooden clappers.",
+   "tip": "Short stop on the old-town walk.",
+   "q": "Hexengang, Domhof, Osnabrück",
+   "ll": [
+    52.27759,
+    8.04576
+   ],
+   "src": [
+    "https://erleben.osnabrueck.de/en/experience-city/worth-seeing"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "osrampendahl",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink house-brewed beer at Hausbrauerei Rampendahl",
+   "desc": "A home brewery on Hasestraße serving three of its own beers with hearty traditional German meat dishes.",
+   "tip": "Opens evenings on weekdays and from 11:00 on Friday to Sunday, so check first.",
+   "q": "Hausbrauerei Rampendahl, Hasestraße 35, Osnabrück",
+   "ll": [
+    52.27842,
+    8.04337
+   ],
+   "src": [
+    "https://erleben.osnabrueck.de/en/experience-city/culinary/hausbrauerei-rampendahl"
+   ],
+   "tags": []
+  },
+  {
+   "id": "oscafeammarkt",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have coffee and cake at Café am Markt",
+   "desc": "A traditional café on the market square with chandeliers and Art Nouveau-style furnishings.",
+   "tip": "Ask for a window seat facing the Rathaus.",
+   "q": "Café am Markt, Markt 26-27, Osnabrück",
+   "ll": [
+    52.27785,
+    8.04247
+   ],
+   "src": [
+    "https://erleben.osnabrueck.de/en/experience-city/culinary/cafe-am-markt"
+   ],
+   "tags": []
+  },
+  {
+   "id": "osbaroesta",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste roasted coffee at Barösta Kaffeehaus",
+   "desc": "A café on Redlinger Straße that has operated since 2012, with its own small roastery added in 2014.",
+   "tip": "Take beans home from the roastery.",
+   "q": "Barösta Kaffeehaus, Redlinger Straße 1, Osnabrück",
+   "ll": [
+    52.27467,
+    8.04404
+   ],
+   "src": [
+    "https://erleben.osnabrueck.de/en/experience-city/worth-seeing/baroesta-coffee-roasting"
+   ],
+   "tags": []
+  },
+  {
+   "id": "oswalhalla",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine in the historic Walhalla on Bierstraße",
+   "desc": "The Romantik Hotel Walhalla claims to be the city's oldest inn and offers German and French dishes in a timber-framed building. Erich Maria Remarque set parts of The Black Obelisk here.",
+   "tip": "Book ahead for dinner.",
+   "q": "Romantik Hotel Walhalla, Bierstraße 33, Osnabrück",
+   "ll": [
+    52.27725,
+    8.04072
+   ],
+   "src": [
+    "https://www.hotel-walhalla.de/en/home/history"
+   ],
+   "tags": []
+  },
+  {
+   "id": "osolleuse",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Raise a glass in the Olle Use, a 1608 town house pub",
+   "desc": "The oldest pub in the city occupies a 1608 town house belonging to the Walhalla.",
+   "tip": "Good for an evening drink in the old town.",
+   "q": "Olle Use, Bierstraße 33, Osnabrück",
+   "ll": [
+    52.27708,
+    8.04083
+   ],
+   "src": [
+    "https://www.hotel-walhalla.de/en/home/history"
+   ],
+   "tags": []
+  },
+  {
+   "id": "oshenne",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat a flexible bistro meal at Henne Cafébar",
+   "desc": "A bistro, café and restaurant on Osterberger Reihe with vegetarian and vegan options.",
+   "tip": "Good for brunch or a relaxed dinner.",
+   "q": "Henne Cafébar, Osterberger Reihe 12, Osnabrück",
+   "ll": [
+    52.27366,
+    8.04431
+   ],
+   "src": [
+    "https://erleben.osnabrueck.de/en/experience-city/culinary/henne-cafebar"
+   ],
+   "tags": []
+  },
+  {
+   "id": "oszoo",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Spend a day at Zoo Osnabrück",
+   "desc": "Opened in 1936 on the Schölerberg, the zoo keeps more than 2,600 animals of about 290 species in twelve themed worlds, including an underground section.",
+   "tip": "Allow a full day; summer weekends are busiest.",
+   "q": "Zoo Osnabrück, Klaus-Strick-Weg 12, Osnabrück",
+   "ll": [
+    52.25098,
+    8.07157
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Osnabr%C3%BCck_Zoo",
+    "https://erleben.osnabrueck.de/en/experience-city/discover-nature/zoo/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "oshasewelle",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Surf the standing wave at Hasewelle",
+   "desc": "An artificial surf wave at the L&T Sporthaus on Große Straße. Sessions last 45 minutes for up to ten people with board, wetsuit and helmet included.",
+   "tip": "Minimum age 8; book ahead and check current slots.",
+   "q": "Hasewelle, Große Straße 27-32, Osnabrück",
+   "ll": [
+    52.27579,
+    8.04669
+   ],
+   "src": [
+    "https://www.niedersachsen-tourism.com/poi/hasewelle"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "osnettebad",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Slide and swim at the Nettebad",
+   "desc": "The leisure pool has a 50 metre sports pool, a large slide landscape and a sauna area.",
+   "tip": "Check hours and prices before visiting.",
+   "q": "Nettebad, Am Nettebad, Osnabrück",
+   "ll": [
+    52.30298,
+    8.05218
+   ],
+   "src": [
+    "https://www.niedersachsen-tourism.com/poi/nettebad-osnabrueck"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "osrubbenbruch",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Rent a pedal boat on the Rubbenbruchsee",
+   "desc": "This lake in the city offers pedal boats for hire, plus lakeside paths and swimming.",
+   "tip": "Best on summer weekends.",
+   "q": "Rubbenbruchsee, Osnabrück",
+   "ll": [
+    52.28929,
+    7.98881
+   ],
+   "src": [
+    "https://erleben.osnabrueck.de/en/experience-city/discover-nature/at-in-the-water-lakes-canal-swimming-pools/"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "oshasestrasse",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Stroll Hasestraße, the old trade route",
+   "desc": "Described as Osnabrück's oldest trade route, running from the cathedral toward the old station, lined with restaurants and a brewery.",
+   "tip": "Walk it in the evening and stop at Rampendahl.",
+   "q": "Hasestraße, Osnabrück",
+   "ll": [
+    52.27996,
+    8.04364
+   ],
+   "src": [
+    "https://erleben.osnabrueck.de/en/experience-city/worth-seeing/hasestrasse"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "oshaseufer",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Follow the Haseuferweg along the river",
+   "desc": "A riverside path running through the city from the station bridge to the Hasetor.",
+   "tip": "Share the path with cyclists.",
+   "q": "Haseuferweg, Osnabrück",
+   "ll": [
+    52.26536,
+    8.12535
+   ],
+   "src": [
+    "https://erleben.osnabrueck.de/en/experience-city/worth-seeing/river-hase/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ospiesberg",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Climb to the Piesberg landscape park viewpoint",
+   "desc": "The Piesberg cultural and landscape park spans about 300 million years of earth history and has a viewing platform.",
+   "tip": "Wear sturdy shoes.",
+   "q": "Piesberg, Fürstenauer Weg, Osnabrück",
+   "ll": [
+    52.31492,
+    8.0141
+   ],
+   "src": [
+    "https://erleben.osnabrueck.de/en/experience-city/worth-seeing"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "oshegerviertel",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Wander the Heger-Tor quarter",
+   "desc": "The quarter around the Heger Tor is known for narrow streets, small shops and restaurants and is a good place for an evening out.",
+   "tip": "Start at the gate and head into Heger Straße.",
+   "q": "Heger-Tor-Viertel, Heger Straße, Osnabrück",
+   "ll": [
+    52.277,
+    8.0417
+   ],
+   "src": [
+    "https://erleben.osnabrueck.de/en/experience-city/worth-seeing"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,900 @@
+{
+ "new": [
+  {
+   "id": "aunoerdlingendaniel",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the Daniel tower above Nördlingen",
+   "desc": "The 90 m steeple of the late Gothic St.-Georgs-Kirche is the town landmark, reached by about 350 steps. From the top the watch has overlooked the old town and the Ries for centuries.",
+   "tip": "Go on a clear day for a view across the old town to the Ries crater rim. The entry fee is small, so carry cash.",
+   "q": "Daniel, St.-Georgs-Kirche, Marktplatz, Nördlingen",
+   "ll": [
+    48.85053,
+    10.48866
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Daniel_(Nördlingen)",
+    "https://maps.adac.de/poi/kirchturm-daniel-noerdlingen"
+   ]
+  },
+  {
+   "id": "aunoerdlingenstadtmauer",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the complete town wall of Nördlingen",
+   "desc": "The medieval wall, about 2.7 km long, is fully preserved and can be walked in a ring, with five gates and a dozen towers. The round town plan follows the edge of the Ries impact crater.",
+   "tip": "Allow 1 to 1.5 hours; the wall walk is free. Start at the Löpsinger Tor.",
+   "q": "Löpsinger Tor, Löpsinger Straße, Nördlingen",
+   "ll": [
+    48.85439,
+    10.49275
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Nördlingen",
+    "https://www.ich-geh-wandern.de/auf-der-stadtmauer-einmal-um-n%C3%B6rdlingen-herum"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "aurieskratermuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Learn how the Ries crater formed at the Rieskrater-Museum",
+   "desc": "The museum opened in 1990 and explains the meteorite impact about 15 million years ago that created the Nördlinger Ries. Exhibits include a piece of Apollo 16 moon rock.",
+   "tip": "Open Tuesday to Sunday; a planetarium and guided tours are offered. Check hours on the museum site first.",
+   "q": "Rieskrater-Museum, Eugene-Shoemaker-Platz 1, Nördlingen",
+   "ll": [
+    48.85399,
+    10.48687
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Rieskrater-Museum_Nördlingen",
+    "https://www.rieskrater-museum.de/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "auwallersteinfelsen",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the Wallerstein rock for a crater view",
+   "desc": "The Wallersteiner Felsen is a freestanding rock in the Ries with a staircase up to a viewpoint. It is listed among the viewpoints of the Geopark Ries.",
+   "tip": "Wear sturdy shoes; the light is best in the afternoon. Climbing is free.",
+   "q": "Wallersteiner Felsen, Wallerstein",
+   "ll": [
+    48.88907,
+    10.47575
+   ],
+   "src": [
+    "https://en.geopark-ries.de/aussichtspunkte/",
+    "https://de.wikipedia.org/wiki/Wallerstein"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "aunoerdlingenschaeferweg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Schäferweg around the Ries from Nördlingen",
+   "desc": "This roughly 20 km circular route starts at the Marienhöhe outdoor pool in Nördlingen and crosses the sheep pastures and hills of the crater landscape.",
+   "tip": "Take water and plan a full day; spring and autumn are the best seasons.",
+   "q": "Freibad Marienhöhe, Nördlingen",
+   "ll": [
+    48.84116,
+    10.48996
+   ],
+   "src": [
+    "https://www.visorando.com/de/wanderung-nordlingen.html",
+    "https://de.wikipedia.org/wiki/Nördlinger_Ries"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "auharburgburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour Burg Harburg above the Wörnitz",
+   "desc": "One of the best preserved medieval castles in Bavaria, it has stood above the Wörnitz since the 12th century and is run by the Fürst zu Oettingen-Wallerstein cultural foundation.",
+   "tip": "Open daily 10:00 to 17:00 from mid March to early November, with hourly tours. Park in the town and walk up.",
+   "q": "Burg Harburg, Burgstraße 1, Harburg (Schwaben)",
+   "ll": [
+    48.78485,
+    10.68756
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Burg_Harburg",
+    "https://museen-in-bayern.de/en/museums/museum-details/burg-harburg"
+   ]
+  },
+  {
+   "id": "audonauwoerthreichsstrasse",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stroll the Reichsstraße in Donauwörth",
+   "desc": "Considered one of the most beautiful street ensembles in southern Germany, it runs up to the Fuggerhaus, now the district office. Gabled houses line the old imperial road.",
+   "tip": "Use the city's historic walking tour leaflet; free to explore.",
+   "q": "Reichsstraße, Donauwörth",
+   "ll": [
+    48.71893,
+    10.77872
+   ],
+   "src": [
+    "https://bavaria.travel/stories/donauwoerth-sightseeing/",
+    "https://www.donauwoerth.de/kleiner_historischer_stadtspaziergang_deutsch"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "auliebfrauenmuenster",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the tower of Donauwörth's Liebfrauenmünster",
+   "desc": "The late Gothic brick hall church was built from 1444 to 1467. Its tower room is reached by 218 steps and the bells are among the largest in Swabia.",
+   "tip": "Ask at the tourist office about tower opening times, usually in the warmer months.",
+   "q": "Liebfrauenmünster, Reichsstraße, Donauwörth",
+   "ll": [
+    48.71927,
+    10.77753
+   ],
+   "src": [
+    "https://www.donauwoerth.de/donauwoerth_freie_zeit",
+    "https://de.wikipedia.org/wiki/Liebfrauenmünster_(Donauwörth)"
+   ]
+  },
+  {
+   "id": "auheiligkreuzdonauwoerth",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Baroque Heilig-Kreuz-Münster in Donauwörth",
+   "desc": "The former Benedictine abbey dates back to the 11th century; the church was rebuilt in 1717 to 1720 and the tower in 1747. It remains a pilgrimage church.",
+   "tip": "Free to enter; look for the large Baroque altars and the abbey buildings next door.",
+   "q": "Heilig-Kreuz-Münster, Heilig-Kreuz-Straße, Donauwörth",
+   "ll": [
+    48.71877,
+    10.77352
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Heilig-Kreuz-Münster_(Donauwörth)",
+    "https://www.donauwoerth.de/kleiner_historischer_stadtspaziergang_deutsch"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "aukaethekrusepuppenmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the dolls of Käthe Kruse in Donauwörth",
+   "desc": "The museum on Pflegstraße shows more than 150 dolls by the doll maker Käthe Kruse, whose workshop was in Donauwörth.",
+   "tip": "Open Tuesday to Sunday in summer; hours change in winter, so check the town site.",
+   "q": "Käthe-Kruse-Puppen-Museum, Pflegstraße 21a, Donauwörth",
+   "ll": [
+    48.72137,
+    10.77835
+   ],
+   "src": [
+    "https://www.donauwoerth.de/wp-content/uploads/2025/07/KK_Museum_Flyer_2023.pdf",
+    "https://de.wikipedia.org/wiki/Käthe_Kruse"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "auriedertor",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Peek into the Rieder Tor and the Haus der Stadtgeschichte",
+   "desc": "The Rieder Tor is the only surviving one of Donauwörth's four large sortie gates and now holds the town history museum on Spitalstraße.",
+   "tip": "Combine with a walk on the Ried island; check museum hours at the tourist office.",
+   "q": "Rieder Tor, Spitalstraße 11, Donauwörth",
+   "ll": [
+    48.71735,
+    10.77991
+   ],
+   "src": [
+    "https://www.donauwoerth.de/kleiner_historischer_stadtspaziergang_deutsch",
+    "https://de.wikipedia.org/wiki/Donauwörth"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "auriedinselwalk",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Ried island and Donauspitz in Donauwörth",
+   "desc": "A historical trail circles the old town island of Ried and ends at the Donauspitz where the Wörnitz meets the Danube.",
+   "tip": "About 1.5 hours at an easy pace; free and mostly flat.",
+   "q": "Donauspitz, Donauwörth",
+   "ll": [
+    48.7135,
+    10.773
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/altstadtinsel-ried-und-donauspitz-historischer-wanderweg-donauwoerth"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "auhoechstaedtschloss",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore Schloss Höchstädt",
+   "desc": "The Renaissance castle was built from 1589 to 1603 and holds exhibitions and a café. The Museum Deutscher Fayencen is also in the town.",
+   "tip": "Check exhibition hours before a visit; the café is a good stop after the tour.",
+   "q": "Schloss Höchstädt, Herzogin-Anna-Straße, Höchstädt an der Donau",
+   "ll": [
+    48.61009,
+    10.57408
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/H%C3%B6chst%C3%A4dt_an_der_Donau",
+    "https://de.wikipedia.org/wiki/Schloss_Höchstädt"
+   ]
+  },
+  {
+   "id": "audillingenbasilika",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Admire the Basilika St. Peter in Dillingen",
+   "desc": "The 17th century basilica is the consecration and burial church of the Augsburg bishops and holds the title Basilica minor from Pope John Paul II. The former prince-bishops' residence stands nearby.",
+   "tip": "Free to enter; the Golden Hall of the former university is open only on guided occasions.",
+   "q": "Basilika St. Peter, Kardinal-von-Waldburg-Straße, Dillingen an der Donau",
+   "ll": [
+    48.576,
+    10.4933
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/stadtspaziergang-durch-dillingen-an-der-donau",
+    "https://de.wikipedia.org/wiki/Basilika_St._Peter_(Dillingen_an_der_Donau)"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "aulauingenschimmelturm",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the Schimmelturm in Lauingen",
+   "desc": "The 16th century Schimmelturm is part of the medieval town fortifications and gives wide views over the Danube valley.",
+   "tip": "Ask at Lauingen's town office for tower hours.",
+   "q": "Schimmelturm, Lauingen (Donau)",
+   "ll": [
+    48.5695,
+    10.4299
+   ],
+   "src": [
+    "https://www.lauingen.de/fileadmin/Dateien/Dateien/Download_Tourismus/Lauingen_entdecken.pdf",
+    "https://de.wikipedia.org/wiki/Lauingen_(Donau)"
+   ]
+  },
+  {
+   "id": "aulandsbergbayertor",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look up at the Bayertor in Landsberg am Lech",
+   "desc": "The late Gothic east gate of 1425 is regarded as one of the finest gate complexes in southern Germany.",
+   "tip": "Free to see from the street; the gate can be climbed on some days for views.",
+   "q": "Bayertor, Landsberg am Lech",
+   "ll": [
+    48.0486,
+    10.88206
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Bayertor_(Landsberg_am_Lech)",
+    "https://phototravellers.de/landsberg-am-lech-sehenswuerdigkeiten/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "aulandsberghauptplatz",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Hauptplatz and Rococo Rathaus of Landsberg",
+   "desc": "The triangular main square is framed by the town hall with a Rococo facade by Dominikus Zimmermann, the 13th century Schmalzturm and the Ursuline convent.",
+   "tip": "Free audio guides start and end at the Hauptplatz.",
+   "q": "Hauptplatz, Landsberg am Lech",
+   "ll": [
+    48.04939,
+    10.87677
+   ],
+   "src": [
+    "https://www.landsberg.de/fileadmin/user_upload/Infomaterial/Audioguide-Landsberg-am-Lech.pdf",
+    "https://de.wikipedia.org/wiki/Landsberg_am_Lech"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "aulandsberglechwehr",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Watch the Lech spill over the Landsberg weir",
+   "desc": "The broad Lechwehr was built in the 14th century against flooding and is the town signature view, with the old town rising behind it.",
+   "tip": "Best seen from the riverside promenade; free.",
+   "q": "Lechwehr, Landsberg am Lech",
+   "ll": [
+    48.04825,
+    10.87471
+   ],
+   "src": [
+    "https://phototravellers.de/landsberg-am-lech-sehenswuerdigkeiten/",
+    "https://de.wikipedia.org/wiki/Landsberg_am_Lech"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "aulandsberglechpark",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Lechpark to the Teufelsküche",
+   "desc": "A trail of about 7.5 km follows the Lech from Landsberg past the Teufelsküche and Teufelsschlucht.",
+   "tip": "Wear walking shoes as paths can be wet; free.",
+   "q": "Lechpark, Landsberg am Lech",
+   "ll": [
+    48.03966,
+    10.878
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/landkreis-landsberg-am-lech"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "audiessenmarienmuenster",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Marvel at the Marienmünster in Dießen",
+   "desc": "The Baroque church of the former Augustinian canons is called one of the most splendid church buildings in the region, alongside the Wieskirche.",
+   "tip": "Free; combine with a walk up the Schatzberg or to the lakefront.",
+   "q": "Marienmünster, Mariengasse, Dießen am Ammersee",
+   "ll": [
+    47.94816,
+    11.09738
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/rundwanderung-von-dießen-am-ammersee-hinauf-zum-schatzberg",
+    "https://de.wikipedia.org/wiki/Marienmünster_(Dießen_am_Ammersee)"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "audiessenschatzberg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Schatzberg loop above Dießen",
+   "desc": "A roughly 3 km loop climbs from Dießen to the Schatzberg, passing a lake viewpoint and the Marienmünster.",
+   "tip": "Easy, about two hours with stops; best on a clear day.",
+   "q": "Dießen am Ammersee",
+   "ll": [
+    47.94779,
+    11.10497
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/rundwanderung-von-dießen-am-ammersee-hinauf-zum-schatzberg",
+    "https://planetoutdoor.de/touren/wandern/diessen-und-der-schatzberg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "auammerseeschiff",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Take a boat trip on the Ammersee from Dießen",
+   "desc": "Passenger boats cross the Ammersee between Dießen and the other lakeside towns, a popular family excursion.",
+   "tip": "Runs mainly from spring to autumn; check the timetable.",
+   "q": "Schifffahrt Dießen, Seeanlagen, Dießen am Ammersee",
+   "ll": [
+    47.95249,
+    11.10706
+   ],
+   "src": [
+    "https://www.alpen-guide.de/reisefuehrer/ausfluege/ammersee-lech"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "aucarlorffmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Carl-Orff-Museum in Dießen",
+   "desc": "The museum in Dießen honours the composer of Carmina Burana, who lived and worked at the Ammersee.",
+   "tip": "Open on selected days; check opening times before a visit.",
+   "q": "Carl-Orff-Museum, Hofmark 3, Dießen am Ammersee",
+   "ll": [
+    47.93664,
+    11.09024
+   ],
+   "src": [
+    "https://www.alpen-guide.de/reisefuehrer/ausfluege/ammersee-lech",
+    "https://de.wikipedia.org/wiki/Carl_Orff"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "auneuburgschloss",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour Schloss Neuburg and its Flemish Baroque gallery",
+   "desc": "Count Palatine Ottheinrich began the Renaissance palace in 1530; a Baroque east wing followed in 1665 to 1670. The courtyard has sgraffito scenes and the Staatsgalerie shows Flemish Baroque masters including Rubens and van Dyck.",
+   "tip": "Closed Mondays; open 9:00 to 18:00 April to September, 10:00 to 16:00 October to March.",
+   "q": "Schloss Neuburg, Residenzstraße 2, Neuburg an der Donau",
+   "ll": [
+    48.73708,
+    11.18047
+   ],
+   "src": [
+    "https://schloesser.bayern.de/englisch/palace/objects/neuburg.htm",
+    "https://de.wikipedia.org/wiki/Schloss_Neuburg_(Neuburg_an_der_Donau)"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "auneuburgdonauradweg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cycle the Danube cycle path from Neuburg",
+   "desc": "The Donauradweg passes the Renaissance old town of Neuburg on a flat stretch along the river through floodplain forest.",
+   "tip": "Pick up the path at the Donaukai; there are beer gardens along the way.",
+   "q": "Donaukai, Neuburg an der Donau",
+   "ll": [
+    48.7343,
+    11.1803
+   ],
+   "src": [
+    "https://www.schloss.bayern.de/deutsch/service/tourismus/RadlFactsheet_Donauradweg.pdf",
+    "https://de.wikipedia.org/wiki/Neuburg_an_der_Donau"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "auschrobenhausenlenbach",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Lenbachmuseum in Schrobenhausen",
+   "desc": "The museum stands in the birthplace of the painter Franz von Lenbach and shows about 500 items from his estate.",
+   "tip": "Opening hours are limited, especially in winter; check before travelling.",
+   "q": "Lenbachmuseum, Lenbachplatz 1, Schrobenhausen",
+   "ll": [
+    48.56045,
+    11.26318
+   ],
+   "src": [
+    "https://whichmuseum.co.uk/museum/lenbachmuseum-schrobenhausen-29180",
+    "https://de.wikipedia.org/wiki/Franz_von_Lenbach"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "auspargelmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Learn about asparagus at the Spargelmuseum in Schrobenhausen",
+   "desc": "The European Asparagus Museum occupies a tower of the town wall and tells the story of asparagus, grown here since 1912 in Bavaria's largest asparagus area.",
+   "tip": "Pair it with a walk on the town rampart; in season (April to June) try asparagus at local restaurants.",
+   "q": "Europäisches Spargelmuseum, Schrobenhausen",
+   "ll": [
+    48.55969,
+    11.26405
+   ],
+   "src": [
+    "https://museen-in-bayern.de/en/museums/museum-details/europaeisches-spargelmuseum",
+    "https://de.wikipedia.org/wiki/Schrobenhausen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "aukzdachau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Dachau Concentration Camp Memorial",
+   "desc": "The first Nazi concentration camp opened in 1933 and the site is now a memorial and museum with the preserved camp grounds, crematorium and exhibitions.",
+   "tip": "Open daily 9:00 to 17:00 (closed 24 December); admission is free. Plan about three hours.",
+   "q": "KZ-Gedenkstätte Dachau, Alte Römerstraße 75, Dachau",
+   "ll": [
+    48.2701,
+    11.4683
+   ],
+   "src": [
+    "https://www.kz-gedenkstaette-dachau.de/en/visit/",
+    "https://de.wikipedia.org/wiki/KZ_Dachau"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "audachauschloss",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk up to Schloss Dachau and its Hofgarten",
+   "desc": "The Renaissance palace of the Wittelsbachs sits on the old town hill; the Hofgarten gives a view over Munich to the Alps.",
+   "tip": "The garden is free; the beer garden is open in summer.",
+   "q": "Schloss Dachau, Schlossstraße 7, Dachau",
+   "ll": [
+    48.25842,
+    11.43296
+   ],
+   "src": [
+    "https://schloesser.bayern.de/deutsch/service/fotoarch/katalogblaetter/Dachau%20Schloss%20.pdf",
+    "https://de.wikipedia.org/wiki/Schloss_Dachau"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "audachauschlossbiergarten",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Enjoy a beer at the Schloss Dachau Biergarten",
+   "desc": "The beer garden beside the palace on the hill is listed among the beer gardens of the Dachau area.",
+   "tip": "Open in the warm months; weekdays are quieter.",
+   "q": "Schloss Dachau Biergarten, Schlossstraße 7, Dachau",
+   "ll": [
+    48.25842,
+    11.43296
+   ],
+   "src": [
+    "https://www.muenchen.de/service/branchenbuch/dachau/G/890.html"
+   ]
+  },
+  {
+   "id": "audachaugemaeldegalerie",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Dachau artists' colony at the Gemäldegalerie",
+   "desc": "The permanent exhibition shows the heyday of the artists' colony around 1900, one of Germany's most important along with Worpswede.",
+   "tip": "Combine with the Bezirksmuseum and the old town walk.",
+   "q": "Gemäldegalerie Dachau, Konrad-Adenauer-Straße 3, Dachau",
+   "ll": [
+    48.26088,
+    11.43478
+   ],
+   "src": [
+    "https://museen-in-bayern.de/en/museums/museum-details/gemaeldegalerie-dachau",
+    "https://dachau.de/en/tourism/historical-artists-colony.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "audachaukuenstlerweg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Follow the artists' colony route through Dachau",
+   "desc": "A walk past the houses and studios of the painters who lived in Dachau around 1900, ending on the castle hill.",
+   "tip": "Pick up the leaflet at the tourist office; about 2 hours.",
+   "q": "Altstadt, Dachau",
+   "ll": [
+    48.2625,
+    11.434
+   ],
+   "src": [
+    "https://dachau.de/en/kultur/kunst/kuenstlerstadt/houses-of-artists.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "aualtomuenster",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Birgittenkloster in Altomünster",
+   "desc": "Founded in 1496, the Birgittine convent has a museum on St.-Birgittenhof that shows the history of the order in Europe.",
+   "tip": "Museum hours are limited (afternoons); check with the municipality.",
+   "q": "Birgittenkloster, St.-Birgittenhof 6, Altomünster",
+   "ll": [
+    48.38811,
+    11.25859
+   ],
+   "src": [
+    "https://museen-in-bayern.de/en/museums/museum-details/museum-altomuenster",
+    "https://en.wikipedia.com/wiki/Altom%C3%BCnster_Abbey"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "aukapplerbraeualtomuenster",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste the beer of Kapplerbräu in Altomünster",
+   "desc": "A local brewery of the Landkreis Dachau, listed by the district among its brewing houses.",
+   "tip": "Try the Hell with a Bavarian snack; check opening days.",
+   "q": "Kapplerbräu, Altomünster",
+   "ll": [
+    48.38783,
+    11.25953
+   ],
+   "src": [
+    "https://www.landkreis-pfaffenhofen.de/media/7534/hht_hopfen-und-bier-erleben.pdf"
+   ]
+  },
+  {
+   "id": "auroehrmoosmariabrunn",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Sit in the Schlosswirtschaft Mariabrunn near Dachau",
+   "desc": "A country inn at Mariabrunn in Röhrmoos with a beer garden, listed among the beer gardens of the Dachau district.",
+   "tip": "Go on a summer afternoon for Bavarian dishes and Hell beer.",
+   "q": "Schlosswirtschaft Mariabrunn, Röhrmoos",
+   "ll": [
+    48.31174,
+    11.47826
+   ],
+   "src": [
+    "https://www.muenchen.de/service/branchenbuch/dachau/G/890.html"
+   ]
+  },
+  {
+   "id": "aufriedbergschloss",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the Wittelsbacher Schloss in Friedberg",
+   "desc": "The castle in Friedberg now holds the town museum with interactive stations and free audio guides in several languages.",
+   "tip": "The grounds are not publicly accessible; the museum has fixed open days, so check hours.",
+   "q": "Wittelsbacher Schloss, Schlossstraße 21, Friedberg",
+   "ll": [
+    48.35773,
+    10.97872
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Friedberg_(Bayern)",
+    "https://de.wikipedia.org/wiki/Wittelsbacher_Schloss_Friedberg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "auherrgottsruh",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the pilgrimage church of Herrgottsruh near Friedberg",
+   "desc": "The Wallfahrtskirche Herrgottsruh is one of the main sights of the Wittelsbacher Land.",
+   "tip": "Free; usually open in the daytime.",
+   "q": "Wallfahrtskirche Herrgottsruh, Friedberg",
+   "ll": [
+    48.35743,
+    10.99124
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/landkreis-aichach-friedberg",
+    "https://de.wikipedia.org/wiki/Herrgottsruh"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "aufriedbergstafra",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink beer at Brauereigasthof Sankt Afra im Felde",
+   "desc": "The Friedberg brewery inn is listed in the Wittelsbacher Land beer garden guide.",
+   "tip": "Order a Helles and a Brotzeit in the beer garden.",
+   "q": "Brauereigasthof Sankt Afra im Felde, Friedberg",
+   "ll": [
+    48.34004,
+    10.96624
+   ],
+   "src": [
+    "https://www.friedberg.de/kultur-tourismus/tourismus/prospekte-und-downloads/20210729-webversion-biergartenflyer-final.pdf"
+   ]
+  },
+  {
+   "id": "auaichachbichlmeier",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat at Gasthaus Bichlmeier in Aichach",
+   "desc": "A traditional inn in Aichach listed among the town's beer gardens.",
+   "tip": "Try a Bavarian roast and a local beer; check weekday hours.",
+   "q": "Gasthaus Bichlmeier, Aichach",
+   "ll": [
+    48.44773,
+    11.11156
+   ],
+   "src": [
+    "https://freizeitmonster.de/blog/biergaerten-aichach"
+   ]
+  },
+  {
+   "id": "authierhaupten",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Kloster Thierhaupten",
+   "desc": "A former Benedictine abbey in the Augsburg district, one of the oldest foundations in Bavaria and attributed to Duke Tassilo III in the 8th century.",
+   "tip": "The church is free; museums and tours have fixed days, so check ahead.",
+   "q": "Kloster Thierhaupten, Thierhaupten",
+   "ll": [
+    48.56143,
+    10.91079
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kloster_Thierhaupten"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "auoberschoenenfeldmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Museum Oberschönenfeld at the abbey",
+   "desc": "The Swabian folklore and craft museum was set up in 1984 in the stables of Oberschönenfeld abbey in Gessertshausen.",
+   "tip": "Tickets at the entrance; check which weekday it is closed.",
+   "q": "Museum Oberschönenfeld, Oberschönenfeld 4, Gessertshausen",
+   "ll": [
+    48.31286,
+    10.72751
+   ],
+   "src": [
+    "https://museen-in-bayern.de/en/museums/museum-details/museum-oberschoenenfeld",
+    "https://de.wikipedia.org/wiki/Abtei_Oberschönenfeld"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "auklosterstueble",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Sit in the Klosterstüble beer garden at Oberschönenfeld",
+   "desc": "A restaurant and beer garden on the abbey grounds, popular with cyclists, next to the museum.",
+   "tip": "Combine with a museum visit; bus 605 runs from Gessertshausen.",
+   "q": "Klosterstüble, Oberschönenfeld 4, Gessertshausen",
+   "ll": [
+    48.31292,
+    10.72655
+   ],
+   "src": [
+    "https://naturpark-augsburg.de/wp-content/uploads/FINAL_uebersichtsflyer_oberschoenenfeld_web.pdf"
+   ]
+  },
+  {
+   "id": "auschwarzbraeuzusmarshausen",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try Schwarzbräu in Zusmarshausen",
+   "desc": "A well known regional brewery that serves guests in its own beer garden.",
+   "tip": "Order a Helles on the terrace; check seasonal hours.",
+   "q": "Schwarzbräu, Zusmarshausen",
+   "ll": [
+    48.39962,
+    10.59809
+   ],
+   "src": [
+    "https://www.augsburg-tourismus.de/files/augsburgtourismus/media/thema-des-monats/Biergarten_2018_Endversion.pdf"
+   ]
+  },
+  {
+   "id": "aurothsee",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim at the Rothsee in Zusmarshausen",
+   "desc": "A bathing lake of the municipality of Zusmarshausen.",
+   "tip": "Swimming in summer; check conditions locally.",
+   "q": "Rothsee, Zusmarshausen",
+   "ll": [
+    48.3961,
+    10.61616
+   ],
+   "src": [
+    "https://www.landkreis-augsburg.de/fileadmin/user_upload/Jugend_Familie/Willkommen_2026_Deutsch.pdf"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "aufischachstaudenweg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Stauden-Meditations-Weg in Fischach",
+   "desc": "A quiet walk in the Stauden hills near the Staudenlandhalle in Fischach, laid out for rest and reflection.",
+   "tip": "Easy and free; allow an hour.",
+   "q": "Staudenlandhalle, Fischach",
+   "ll": [
+    48.28679,
+    10.65013
+   ],
+   "src": [
+    "https://www.landkreis-augsburg.de/fileadmin/user_upload/Jugend_Familie/Willkommen_2026_Deutsch.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "augeltendorfalterwirt",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat at the Gasthof Alter Wirt in Geltendorf",
+   "desc": "A village inn with a beer garden in the Landsberg district.",
+   "tip": "Try a regional dish; check open days.",
+   "q": "Gasthof Alter Wirt, Geltendorf",
+   "ll": [
+    48.12361,
+    11.02757
+   ],
+   "src": [
+    "https://www.muenchen.de/service/branchenbuch/landsberg-am-lech/G/890.html"
+   ]
+  },
+  {
+   "id": "auholzhausenbrauerei",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink at Brauerei Holzhausen near Utting",
+   "desc": "A local brewery at the Ammersee, listed in the district brewery guide.",
+   "tip": "Try the Hell; check opening days.",
+   "q": "Brauerei Holzhausen, Utting am Ammersee",
+   "ll": [
+    48.00808,
+    11.08893
+   ],
+   "src": [
+    "https://www.lvg.bayern.de/mam/ldbv/dateien/brauereikarte_rs.pdf"
+   ]
+  }
+ ]
+}

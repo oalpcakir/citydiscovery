@@ -64,7 +64,7 @@ window.CITIES.essen = {
     esreesferry: [51.7574, 6.3929], esemmerichpromenade: [51.8302, 6.2400], eskleveparks: [51.7953, 6.1281],
     eskermisdahl: [51.7833, 6.1379], eswildgeese: [51.6549, 6.4991], espilgrimage: [51.5839, 6.2438],
     esmoersfestival: [51.4507, 6.6261], eshaldenorddeutschland: [51.4698, 6.5657], esdaemmerwald: [51.7150, 6.9000],
-    esxantenrees: [51.6613, 6.4537]
+    esxantenrees: [51.6613, 6.4537], doeisenbahnmuseum: [51.4332, 7.1262]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -496,6 +496,9 @@ window.CITIES.essen = {
       tip: "NRW has designated a wolf area near Schermbeck, so keep dogs on leads.", q: "Dämmerwald, Schermbeck", tags: ["free"], src: ["https://www.ich-geh-wandern.de/durch-den-dämmer-wald-und-den-lichtenhagen-schermbeck"] },
     { id: "esxantenrees", cat: "dene", area: "cevre", title: "Cycle the Xanten to Rees loop along the Rhine",
       desc: "The signed bike route Xanten-Rees-Xanten uses the Rees ferry Rääße Pöntje from Palm Sunday to the end of October.",
-      tip: "Check the ferry's operating days before you set out.", q: "Marktplatz, Xanten", tags: ["free"], src: ["https://www.gps-tour.info/99242"] }
+      tip: "Check the ferry's operating days before you set out.", q: "Marktplatz, Xanten", tags: ["free"], src: ["https://www.gps-tour.info/99242"] },
+    { id: "doeisenbahnmuseum", cat: "gor", area: "cevre", title: "See steam locomotives at the Eisenbahnmuseum Dahlhausen",
+      desc: "The Eisenbahnmuseum Bochum-Dahlhausen is a railway museum in a former locomotive depot with steam locomotives and carriages. It is open from March to mid-November.",
+      tip: "Open Tuesday to Friday and Sunday in season.", q: "Eisenbahnmuseum Bochum, Dr.-C.-Otto-Straße 191, Bochum", months: [3, 4, 5, 6, 7, 8, 9, 10, 11], src: ["https://maps.adac.de/poi/bochum-dahlhausen-railway-museum-oben-im-eiberg-1-1"] }
   ]
 };

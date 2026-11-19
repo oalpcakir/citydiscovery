@@ -1,0 +1,598 @@
+{
+ "new": [
+  {
+   "id": "wuspessartmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Meet Snow White's town at the Spessartmuseum in Lohr Castle",
+   "desc": "The Spessartmuseum has occupied the Lohr castle on Schlossplatz since 1936 and shows the theme \"people and forest\": crafts, glassmaking and the Spessart robbers. Lohr claims the Snow White fairy tale through Maria Sophia von Erthal, born here in 1725, and the museum displays a so-called talking mirror.",
+   "tip": "Check current opening hours on the museum website before going. Bayersturm and the old town hall are a short walk away.",
+   "q": "Spessartmuseum, Schlossplatz 1, Lohr am Main",
+   "ll": [
+    49.996,
+    9.573
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Spessartmuseum",
+    "https://de.wikipedia.org/wiki/Lohr_am_Main"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "wulohraltrathaus",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Admire the Renaissance arcades of Lohr's old town hall",
+   "desc": "The Altes Rathaus of Lohr was built between 1599 and 1602 by Michael Imkeller in Renaissance style, its ground-floor arcades once forming an open market hall. Nearby the 14th-century Bayersturm, built 1330-1385, is the town's landmark.",
+   "tip": "Combine it with the Spessartmuseum, both are in the compact old town.",
+   "q": "Altes Rathaus, Hauptstraße, Lohr am Main",
+   "ll": [
+    49.99475,
+    9.57409
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Lohr_am_Main"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "wuscherenburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb to the Scherenburg ruin above Gemünden am Main",
+   "desc": "The Scherenburg was built before 1243 by the Counts of Rieneck as a toll castle and passed to Würzburg in 1469, taking its name from Prince-Bishop Rudolf II von Scherenberg. The ruin has belonged to the town since 1965 and its courtyard hosts open-air theatre every summer.",
+   "tip": "Free to walk up; the Scherenburgfestspiele run in summer, so check the programme.",
+   "q": "Burgruine Scherenburg, Gemünden am Main",
+   "ll": [
+    50.05213,
+    9.70045
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Scherenburg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "wutriefenstein",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit baroque Triefenstein Monastery above the Main",
+   "desc": "Kloster Triefenstein was founded in 1102 as an Augustinian canons' house and rebuilt in baroque style from 1687 to 1715. The church has an early Neoclassical interior from 1785-86 by Würzburg artists including Januarius Zick.",
+   "tip": "The Christusträger brotherhood runs the site today as a guesthouse; walk the grounds and ask about church access.",
+   "q": "Kloster Triefenstein, Triefenstein",
+   "ll": [
+    49.8077,
+    9.5984
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kloster_Triefenstein"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "wuburgwertheim",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the keep of Wertheim Castle ruin",
+   "desc": "Burg Wertheim was first documented in 1183 and has been a ruin since the Thirty Years' War, after a gunpowder explosion in 1619 and imperial bombardment in 1634. The 25 m Bergfried can be climbed for views over the Main and Tauber, and the Palas keeps Staufer-era triple windows.",
+   "tip": "A steep walk up from the old town; late afternoon light is best.",
+   "q": "Burg Wertheim, Auf dem Schlossberg, Wertheim",
+   "ll": [
+    49.75887,
+    9.51991
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Burg_Wertheim"
+   ]
+  },
+  {
+   "id": "wuglasmuseumwertheim",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Follow 3,500 years of glass at the Wertheim Glass Museum",
+   "desc": "The Glasmuseum Wertheim opened in 1976 in half-timbered houses from 1577 and 1588 at the meeting of Tauber and Main. Its collection spans antiquity to high-tech glass, including 3,000 beads and about 800 paperweights.",
+   "tip": "Mühlenstraße 24; check the opening days on the museum website.",
+   "q": "Glasmuseum Wertheim, Mühlenstraße 24, Wertheim",
+   "ll": [
+    49.75819,
+    9.51775
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Glasmuseum_Wertheim"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "wuklosterbronnbach",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk through Bronnbach Abbey in the Tauber valley",
+   "desc": "Kloster Bronnbach was founded in 1151 as a Cistercian abbey in the Taubertal. The cellar houses a Vinothek with wines from across the valley, and the Bernhardsaal, Josephsaal and orangery host concerts and exhibitions.",
+   "tip": "Combine the cloister visit with a wine tasting in the Vinothek in the basement.",
+   "q": "Kloster Bronnbach, Bronnbach 9, Wertheim",
+   "ll": [
+    49.7125,
+    9.5472
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kloster_Bronnbach"
+   ]
+  },
+  {
+   "id": "wuburggamburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Crusade-era murals at Gamburg Castle",
+   "desc": "Burg Gamburg is documented from 1157 as a Mainz archbishops' castle and was never destroyed. Its Palas holds late Romanesque wall paintings of the Third Crusade, found in 1986 and among the oldest secular murals north of the Alps.",
+   "tip": "The castle is privately owned and lived in; check burg-gamburg.de for tour dates.",
+   "q": "Burg Gamburg, Schlossberg, Werbach-Gamburg",
+   "ll": [
+    49.6961,
+    9.6028
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Burg_Gamburg"
+   ]
+  },
+  {
+   "id": "wutauberbischofsheimschloss",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the Kurmainzisches Schloss in Tauberbischofsheim",
+   "desc": "The 16th-century Renaissance castle wraps around the 28 m Türmersturm, the only surviving part of the medieval town castle. Since 1970 it houses the Tauberfränkisches Landschaftsmuseum in 17 rooms.",
+   "tip": "The courtyard hosts the Christmas market and open-air cinema in summer.",
+   "q": "Kurmainzisches Schloss, Schlossplatz, Tauberbischofsheim",
+   "ll": [
+    49.62127,
+    9.66143
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Tauberbischofsheim"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "wuschlossweikersheim",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Enter the Knights' Hall and baroque garden of Weikersheim Palace",
+   "desc": "Schloss Weikersheim was expanded from 1595 for the Hohenlohe counts, with the Rittersaal finished around 1605 under a coffered ceiling painted with hunting scenes. The baroque garden holds about 100 statues, including the Zwergengalerie of dwarf figures.",
+   "tip": "The garden can be strolled even without a palace ticket in some seasons; check Staatliche Schlösser und Gärten BW.",
+   "q": "Schloss Weikersheim, Marktplatz 11, Weikersheim",
+   "ll": [
+    49.48056,
+    9.89583
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Weikersheim"
+   ]
+  },
+  {
+   "id": "wuherrgottskirche",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Riemenschneider's Marienaltar in Creglingen's Herrgottskirche",
+   "desc": "The Herrgottskirche was founded in 1389 after a legendary host find. It holds Tilman Riemenschneider's 9.20 m Marienretabel, traditionally dated 1505-1508, and on 25 August light from the rose window falls onto the Assumption scene.",
+   "tip": "Visit around late August to see the light effect.",
+   "q": "Herrgottskirche, Herrgottstal, Creglingen",
+   "ll": [
+    49.45824,
+    10.03171
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Herrgottskirche_(Creglingen)"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "wukunsthallewuerth",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Browse the Kunsthalle Würth in Schwäbisch Hall",
+   "desc": "The Kunsthalle Würth opened on 18 May 2001, designed by Danish architect Henning Larsen, to show the Würth collection and changing exhibitions.",
+   "tip": "Admission has been free for many years; verify on the Kunsthalle website.",
+   "q": "Kunsthalle Würth, Lange Straße 35, Schwäbisch Hall",
+   "ll": [
+    49.1107,
+    9.73243
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kunsthalle_Würth"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "wustmichaelhall",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the Freitreppe of St. Michael in Schwäbisch Hall",
+   "desc": "St. Michael was consecrated in 1156 as a Romanesque basilica, then given a Gothic hall nave (1427-1456) and choir (1495-1525). Its large outdoor staircase is the stage for the Freilichtspiele Schwäbisch Hall.",
+   "tip": "Come in the evening in summer when the open-air plays run.",
+   "q": "St. Michael, Am Markt, Schwäbisch Hall",
+   "ll": [
+    49.1125,
+    9.73825
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/St._Michael_(Schwäbisch_Hall)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "wuhallfraenkmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the Hällisch-Fränkisches Museum and Keckenburg",
+   "desc": "The museum covers the history of the Franconian-Württemberg region, with prehistoric to 20th-century exhibits. Its oldest building, the Keckenburg, was begun around 1240 and has a half-timbered storey from 1508; notable is the 18th-century synagogue paneling.",
+   "tip": "Allow about two hours.",
+   "q": "Hällisch-Fränkisches Museum, Keckengasse 6, Schwäbisch Hall",
+   "ll": [
+    49.11087,
+    9.73717
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Hällisch-Fränkisches_Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "wucomburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Admire the Romanesque wheel chandelier at Comburg",
+   "desc": "Comburg was founded around 1078 as a Benedictine monastery above Schwäbisch Hall. Its Radleuchter of about 1130, 15.77 m around, depicts the Heavenly Jerusalem, and the baroque church by Joseph Greissing dates from 1706-1715.",
+   "tip": "Walk up for the views of the Kocher valley; check guided tour times.",
+   "q": "Kloster Comburg, Burgweg, Schwäbisch Hall",
+   "ll": [
+    49.09827,
+    9.75251
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kloster_Comburg"
+   ]
+  },
+  {
+   "id": "wuschlosslangenburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour Langenburg Castle and its vintage car museum",
+   "desc": "Langenburg castle is mentioned around 1226, was a princely residence from 1610-1616 and remains home to the Hohenlohe-Langenburg family. The Deutsches Automuseum in the former stables opened in 1970.",
+   "tip": "The castle and car museum have separate tickets.",
+   "q": "Schloss Langenburg, Schloss 1, Langenburg",
+   "ll": [
+    49.253,
+    9.8432
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Langenburg"
+   ]
+  },
+  {
+   "id": "wupalmschneshaus",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the 1610 Palm'sches Haus on Mosbach's market square",
+   "desc": "The Palm'sches Haus on the Marktplatz is a half-timbered house dated 1610, built by Abraham Lenger. Mosbach's old town is shaped by such timber-framed houses, many dating from after the 1723 fire.",
+   "tip": "Walk the old town with the Rathaus (1557) and the Stiftskirche, which still has a Catholic-Protestant dividing wall.",
+   "q": "Palm'sches Haus, Marktplatz, Mosbach",
+   "ll": [
+    49.35222,
+    9.14591
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Palm’sches_Haus"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "wuburghornberg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Burg Hornberg, home of Götz von Berlichingen",
+   "desc": "Götz von Berlichingen bought Burg Hornberg in 1517 and lived there until 1562, dictating his life story that Goethe used for his play. A museum shows his armour, and the castle estate is among the oldest wineries in Baden-Württemberg.",
+   "tip": "Stay for a glass of wine from the castle estate.",
+   "q": "Burg Hornberg, Neckarzimmern",
+   "ll": [
+    49.31389,
+    9.14583
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Burg_Hornberg_(Neckarzimmern)"
+   ]
+  },
+  {
+   "id": "wueberstadtcave",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk through the Eberstadt stalactite cave",
+   "desc": "The Eberstädter Tropfsteinhöhle was found on 13 December 1971 when quarry workers drilled into it before a blast. The show cave is about 588 m of a 645 m system and stays between 9 and 11 °C all year.",
+   "tip": "Bring a jacket; it is cool even in summer.",
+   "q": "Tropfsteinhöhle Eberstadt, Buchen (Odenwald)",
+   "ll": [
+    49.4811,
+    9.3483
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Eberstadter_Tropfsteinhöhle"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "wuwackershofen",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Spend a day at Hohenlohe Open-Air Museum Wackershofen",
+   "desc": "The Hohenloher Freilandmuseum opened in 1983 and now shows more than 70 rebuilt farm buildings on about 35 hectares. Events include a cheese and gourmet market in mid-May, a baking oven festival and a Christmas market.",
+   "tip": "Open in the warmer months; check event dates.",
+   "q": "Hohenloher Freilandmuseum, Wackershofen, Schwäbisch Hall",
+   "ll": [
+    49.1342,
+    9.69477
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Hohenloher_Freilandmuseum_Wackershofen"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "wuodenwaelderfreiland",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Discover Grünkern kilns at the Odenwald Open-Air Museum",
+   "desc": "The Odenwälder Freilandmuseum in Walldürn-Gottersdorf opened in 1990 with 17 relocated buildings from the Odenwald and Bauland, including a Grünkern kiln from Altheim and a village tavern.",
+   "tip": "Open from April to October.",
+   "q": "Odenwälder Freilandmuseum, Gottersdorf, Walldürn",
+   "ll": [
+    49.6395,
+    9.3132
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Odenwälder_Freilandmuseum"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "wuwildparkmergentheim",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Meet European wildlife in the Wildpark Bad Mergentheim",
+   "desc": "The Wildpark Bad Mergentheim was founded in 1974 as a private initiative and covers 48 hectares, with over 50 species native to Europe.",
+   "tip": "Good for families; check feeding times and prices.",
+   "q": "Wildpark Bad Mergentheim, Bad Mergentheim",
+   "ll": [
+    49.46982,
+    9.79228
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Wildpark_Bad_Mergentheim"
+   ]
+  },
+  {
+   "id": "wutaubertalradweg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cycle the Taubertal Klassiker from Weikersheim",
+   "desc": "The 101 km Taubertalradweg runs from Rothenburg ob der Tauber to Wertheim via Creglingen, Weikersheim, Bad Mergentheim and Tauberbischofsheim. It has held an ADFC five-star rating since 2009, is mostly asphalt and easy.",
+   "tip": "Start at Weikersheim palace and ride downstream through wine villages.",
+   "q": "Marktplatz, Weikersheim",
+   "ll": [
+    49.48056,
+    9.89583
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Taubertalradweg"
+   ]
+  },
+  {
+   "id": "wuhallfreilichtspiele",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch open-air theatre on the St. Michael staircase",
+   "desc": "The Freilichtspiele Schwäbisch Hall began in 1925 as Jedermann performances and are staged on the great staircase before St. Michael.",
+   "tip": "Book seats in advance for summer evenings.",
+   "q": "Treppe St. Michael, Am Markt, Schwäbisch Hall",
+   "ll": [
+    49.11225,
+    9.73825
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schwäbisch_Hall"
+   ],
+   "months": [
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "wuscherenburgfestspiele",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "See summer theatre at the Scherenburg Festival",
+   "desc": "Since the 1990s open-air plays are staged each summer in the courtyard of the Scherenburg castle ruin above Gemünden am Main.",
+   "tip": "Check the programme and bring a cushion.",
+   "q": "Burgruine Scherenburg, Gemünden am Main",
+   "ll": [
+    50.05213,
+    9.70045
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Scherenburg"
+   ],
+   "months": [
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "wuhornbergwine",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Muskateller from the Burg Hornberg wine estate",
+   "desc": "The Burg Hornberg estate is documented among the oldest wineries in the world, with terraced sites Götzhalde and Wallmauer and historic varieties like Muskateller and Traminer. A sales point stands on the castle grounds.",
+   "tip": "Buy bottles at the castle shop; note that much of the steep vineyard was abandoned in 2025.",
+   "q": "Weingut Burg Hornberg, Neckarzimmern",
+   "ll": [
+    49.31389,
+    9.14583
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Burg_Hornberg_(Neckarzimmern)"
+   ]
+  },
+  {
+   "id": "wubronnbachvinothek",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Sip Taubertal wines in the Bronnbach Abbey Vinothek",
+   "desc": "A Vinothek opened in the basement of Kloster Bronnbach in 2007, offering wines from across the Taubertal wine region.",
+   "tip": "Check tasting hours; combine with the abbey visit.",
+   "q": "Vinothek Kloster Bronnbach, Bronnbach 9, Wertheim",
+   "ll": [
+    49.7125,
+    9.5472
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kloster_Bronnbach"
+   ]
+  },
+  {
+   "id": "wugoldeneradler",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order Schwäbisch-Hällisch pork at Goldener Adler",
+   "desc": "Gasthof Goldener Adler stands at Am Markt 11 in Schwäbisch Hall and highlights a roast from the local Schwäbisch-Hällisches Landschwein breed.",
+   "tip": "Ask for the pork roast; the market square is steps from St. Michael.",
+   "q": "Gasthof Goldener Adler, Am Markt 11, Schwäbisch Hall",
+   "ll": [
+    49.1123,
+    9.7381
+   ],
+   "src": [
+    "https://www.ihk.de/heilbronn-franken/produktmarken/wnews/unsere-highlights/geniessen-2024-03-21-goldener-adler-schwaebisch-hall-6102422",
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/schwaebisch-hall/gasthof-goldener-adler/"
+   ]
+  },
+  {
+   "id": "wulammmosbach",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try Grünkernküchle at Gasthaus Lamm in Mosbach",
+   "desc": "The Gasthaus-Metzgerei Lamm at Hauptstraße 59 sits in a half-timbered house in Mosbach's old town and serves Odenwald classics such as Grünkernküchle with Baden wines and regional beers.",
+   "tip": "Check the menu for Grünkern dishes.",
+   "q": "Hotel Restaurant Lamm, Hauptstraße 59, Mosbach",
+   "ll": [
+    49.35325,
+    9.1467
+   ],
+   "src": [
+    "https://www.burgenstrasse.de/uk/Castles-and-Palaces/Tour-2/Mosbach.html?show=food"
+   ]
+  },
+  {
+   "id": "wukeilerbrauhaus",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink Keiler Kellerbier at the Lohr brewpub",
+   "desc": "The Keiler Brauhaus at Alfred-Stumpf-Straße 2 brews Kellerbier, Lohrer Böckle and a winter beer in a 10-hectolitre brewhouse with open fermentation, with a beer garden at the edge of the old town.",
+   "tip": "Try the Kellerbier.",
+   "q": "Keiler Brauhaus, Alfred-Stumpf-Straße 2, Lohr am Main",
+   "ll": [
+    49.99484,
+    9.57138
+   ],
+   "src": [
+    "https://www.beertasting.com/en/brewery/keiler-brauhaus"
+   ]
+  },
+  {
+   "id": "wulochnermarkelsheim",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Join a wine tasting at Weinstube Lochner in Markelsheim",
+   "desc": "The Flair Hotel Weinstube Lochner at Hauptstraße 39 in the wine village of Markelsheim has a Weinkeller and Vinothek and offers tastings of four wines.",
+   "tip": "Book the tasting ahead.",
+   "q": "Flair Hotel Weinstube Lochner, Hauptstraße 39, Bad Mergentheim-Markelsheim",
+   "ll": [
+    49.47375,
+    9.83276
+   ],
+   "src": [
+    "https://www.kurz-mal-weg.de/flair-hotel-weinstube-lochner-ht12866"
+   ]
+  },
+  {
+   "id": "wuochsenwertheim",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have a Franconian meal at Gasthaus Zum Ochsen in Wertheim",
+   "desc": "The Gasthaus Zum Ochsen on Wertheim's market square serves Franconian cooking, and reviewers say it is mentioned in records from 1657.",
+   "tip": "Combine with a climb to the castle.",
+   "q": "Gasthaus Zum Ochsen, Marktplatz, Wertheim",
+   "ll": [
+    49.75975,
+    9.51702
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/wertheim/"
+   ]
+  },
+  {
+   "id": "wuableitner",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Take coffee and cake at Café Ableitner in Schwäbisch Hall",
+   "desc": "Café Ableitner is a Konditorei and café at Bahnhofstraße 5 in Schwäbisch Hall.",
+   "tip": "Try a house cake; check opening hours.",
+   "q": "Café Ableitner, Bahnhofstraße 5, Schwäbisch Hall",
+   "ll": [
+    49.111,
+    9.7395
+   ],
+   "src": [
+    "https://www.werkenntdenbesten.de/konditorei/baden-wuerttemberg"
+   ]
+  }
+ ]
+}

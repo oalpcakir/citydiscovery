@@ -1,0 +1,941 @@
+{
+ "new": [
+  {
+   "id": "ddfrauenkirche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb the Frauenkirche dome for the Old Town view",
+   "desc": "The Baroque Frauenkirche was destroyed in the 1945 bombing and rebuilt, with the reconstruction finished in 2005. The gold cross on top was a gift from Coventry, and the dome can be climbed for views over the Altstadt and the Elbe.",
+   "tip": "The dome climb costs about 12 EUR. Go early or at sunset to avoid queues.",
+   "q": "Frauenkirche, An der Frauenkirche, Altstadt, Dresden",
+   "ll": [
+    51.05213,
+    13.74162
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Dresden_Frauenkirche",
+    "https://en.wikivoyage.org/wiki/Dresden"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddzwinger",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See Raphael's Sistine Madonna in the Zwinger",
+   "desc": "The Zwinger is a Baroque courtyard palace whose free courtyard is Dresden's best-known architectural ensemble. The Gemaeldegalerie Alte Meister inside holds about 700 European works, including Raphael's Sistine Madonna.",
+   "tip": "The courtyard is free; museums need tickets. Allow 2 hours for the Old Masters gallery.",
+   "q": "Gemäldegalerie Alte Meister, Theaterplatz 1, Zwinger, Dresden",
+   "ll": [
+    51.05338,
+    13.73466
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Zwinger_(Dresden)",
+    "https://en.wikivoyage.org/wiki/Dresden"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ddgruenesgewoelbe",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the treasures of the Green Vault",
+   "desc": "The Historic Green Vault in the Residenzschloss is a Baroque treasury of goldsmith work and jewels assembled by Augustus the Strong. The Residenzschloss was rebuilt after 1945 and also houses the Armoury with its Turkish Chamber.",
+   "tip": "Historic Green Vault entry is by timed ticket with limited numbers, so book ahead.",
+   "q": "Residenzschloss Historisches Grünes Gewölbe, Taschenberg 2, Dresden",
+   "ll": [
+    51.0528,
+    13.7364
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Green_Vault",
+    "https://en.wikivoyage.org/wiki/Dresden"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ddalbertinum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See Caspar David Friedrich at the Albertinum",
+   "desc": "The Albertinum is a former arsenal converted into a museum on the Bruehl Terrace. It houses the Galerie Neue Meister, including works by Caspar David Friedrich, and the sculpture collection.",
+   "tip": "A combined ticket with the Kunsthalle im Lipsius-Bau is available.",
+   "q": "Albertinum, Tzschirnerplatz 2, Dresden",
+   "ll": [
+    51.0519,
+    13.7444
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Albertinum",
+    "https://en.wikivoyage.org/wiki/Dresden"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ddfuerstenzug",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk along the Fürstenzug porcelain mural",
+   "desc": "The Fürstenzug is a procession of Saxon rulers on horseback, shown on about 25,000 Meissen porcelain tiles over a wall 102 m long. It runs along Augustusstrasse beside the Stallhof.",
+   "tip": "Free and always visible; best in morning light when the tiles shine.",
+   "q": "Fürstenzug, Augustusstraße, Altstadt, Dresden",
+   "ll": [
+    51.0527,
+    13.7392
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/F%C3%BCrstenzug",
+    "https://de.wikivoyage.org/wiki/Dresden/Altstadt"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ddbruehlterrasse",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stroll Brühl's Terrace, the Balcony of Europe",
+   "desc": "The Bruehlsche Terrasse is an elevated riverside promenade about 20 m above the Elbe, open to the public since 1814. It is nicknamed the Balcony of Europe and links the Albertinum, Kunstakademie and the Augustus Bridge.",
+   "tip": "Free. Walk it at dusk, then go down to the Elbe steamer pier.",
+   "q": "Brühlsche Terrasse, Dresden",
+   "ll": [
+    51.05335,
+    13.74147
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Br%C3%BChl%27s_Terrace",
+    "https://de.wikivoyage.org/wiki/Dresden/Altstadt"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ddkunsthof",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore the Kunsthofpassage courtyards",
+   "desc": "The Kunsthofpassage in the Aeussere Neustadt links Alaunstrasse 70 with Goerlitzer Strasse 21-25 through a network of themed courtyards. The courtyards hold small shops, galleries, cafés and bars.",
+   "tip": "Enter from Alaunstrasse 70. The courtyard of the elements has the famous musical drainpipes that play in the rain.",
+   "q": "Kunsthofpassage, Görlitzer Straße 21, Äußere Neustadt, Dresden",
+   "ll": [
+    51.0678,
+    13.7547
+   ],
+   "src": [
+    "https://visit-dresden-elbland.de/en/poi/kunsthofpassage-the-hidden-jewel-of-the-outer-new-town",
+    "https://www.dresden.de/en/tourism/experience/shopping/shopping-in-the-neustadt.php"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ddpfunds",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Marvel at the tiled Pfunds Molkerei",
+   "desc": "Pfunds Molkerei on Bautzner Strasse is a dairy shop lined with about 3,500 hand-painted Art Nouveau tiles by Villeroy & Boch. It was listed in the Guinness Book of Records in 1997 as the most beautiful dairy shop in the world.",
+   "tip": "Buy Saxon cheese or sample the milk products; the upstairs restaurant is cash only.",
+   "q": "Pfunds Molkerei, Bautzner Straße 79, Dresden",
+   "ll": [
+    51.06383,
+    13.7598
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Dresden/Neustadt",
+    "https://en.wikipedia.org/wiki/Pfunds_Molkerei"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddblauneswunder",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Cross the Blaues Wunder bridge in Loschwitz",
+   "desc": "The Loschwitz Bridge, nicknamed the Blue Wonder, opened in 1893 and is a steel bridge without river piers. It joins Blasewitz and Loschwitz and has a blue-green tinge that gave it its nickname.",
+   "tip": "Walk across and have coffee or a beer on the Loschwitz side.",
+   "q": "Blaues Wunder, Loschwitzer Brücke, Dresden",
+   "ll": [
+    51.05361,
+    13.81083
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Loschwitz_Bridge",
+    "https://en.wikivoyage.org/wiki/Dresden"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ddpillnitz",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Wander the gardens of Pillnitz Palace",
+   "desc": "Pillnitz Castle was the summer residence of the Saxon court, built in an Asian-inspired Baroque style on the Elbe. Its park contains a camellia tree more than 200 years old.",
+   "tip": "Park entry is free per the Wikivoyage listing. Arrive by steamer from Dresden.",
+   "q": "Schloss Pillnitz, August-Böckstiegel-Straße 2, Dresden",
+   "ll": [
+    51.0089,
+    13.8702
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Pillnitz_Castle",
+    "https://en.wikivoyage.org/wiki/Dresden"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddyenidze",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Yenidze, the tobacco mosque",
+   "desc": "The Yenidze is a former cigarette factory built in the style of an Ottoman mosque, with a glass dome. It now houses offices and a dome restaurant with a rooftop beer garden.",
+   "tip": "Go for the roof terrace view over the Altstadt at sunset.",
+   "q": "Yenidze, Weißeritzstraße 3, Dresden",
+   "ll": [
+    51.05902,
+    13.72685
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Yenidze",
+    "https://de.wikivoyage.org/wiki/Dresden/Altstadt"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddmilitaer",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Military History Museum and its Libeskind wedge",
+   "desc": "The Militärhistorisches Museum der Bundeswehr in the Albertstadt is Germany's largest military history museum, with about 1.2 million objects. A steel and glass wedge by Daniel Libeskind cuts through the old arsenal building.",
+   "tip": "Take the Libeskind wedge viewing platform for views of Dresden.",
+   "q": "Militärhistorisches Museum der Bundeswehr, Olbrichtplatz 2, Dresden",
+   "ll": [
+    51.0784,
+    13.76
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Bundeswehr_Military_History_Museum",
+    "https://en.wikivoyage.org/wiki/Dresden"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ddhygiene",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Spend a morning at the German Hygiene Museum",
+   "desc": "The Deutsches Hygiene-Museum covers the human body, health, culture and society, and also addresses the eugenics history of the institution. It is known for the Transparent Man model.",
+   "tip": "Allow two to three hours. Next door is the Grosser Garten.",
+   "q": "Deutsches Hygiene-Museum, Lingnerplatz 1, Dresden",
+   "ll": [
+    51.0443,
+    13.7466
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/German_Hygiene_Museum",
+    "https://en.wikivoyage.org/wiki/Dresden"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ddgrossergarten",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stroll the Großer Garten and its park railway",
+   "desc": "The Grosser Garten is Dresden's largest park, with the Palais im Grossen Garten and the zoo. A seasonal miniature railway runs through it, and Carolasee has rowing boats.",
+   "tip": "Rent a bike or rollerblades for the long main avenue.",
+   "q": "Großer Garten, Hauptallee, Dresden",
+   "ll": [
+    51.03701,
+    13.76736
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Gro%C3%9Fer_Garten",
+    "https://de.wikivoyage.org/wiki/Dresden/Altstadt"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ddpanometer",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step inside a 360-degree panorama at the Panometer",
+   "desc": "The Dresden Panometer is housed in a former gasometer in the Reick district. It shows large 360-degree panorama paintings in the round gasworks hall.",
+   "tip": "Check which panorama is on and book a ticket online.",
+   "q": "Panometer Dresden, Gasanstaltstraße 8b, Dresden",
+   "ll": [
+    51.0256,
+    13.7883
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Dresden",
+    "https://de.wikipedia.org/wiki/Panometer_Dresden"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ddhofkirche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Hear the Silbermann organ in the Hofkirche",
+   "desc": "The Katholische Hofkirche on Theaterplatz is a late Baroque cathedral from 1751. It contains a Silbermann organ, and its crypt holds the tombs of Saxon rulers.",
+   "tip": "Crypt visits are by guided tour only.",
+   "q": "Kathedrale Sanctissimae Trinitatis (Hofkirche), Schloßplatz 24, Dresden",
+   "ll": [
+    51.05365,
+    13.73735
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Dresden_Cathedral",
+    "https://de.wikivoyage.org/wiki/Dresden/Altstadt"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ddkreuzkirche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb the tower of the Kreuzkirche",
+   "desc": "The Kreuzkirche on the Altmarkt is the home church of the Kruzianer boys' choir. Its tower is 92 m high.",
+   "tip": "Check the Kreuzchor performance schedule, usually Saturday vespers.",
+   "q": "Kreuzkirche, An der Kreuzkirche, Altmarkt, Dresden",
+   "ll": [
+    51.04887,
+    13.73919
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Kreuzkirche,_Dresden",
+    "https://de.wikivoyage.org/wiki/Dresden/Altstadt"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddkasematten",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Descend into the Dresden fortress casemates",
+   "desc": "Beneath the Bruehl Terrace lie the remains of the old Dresden fortress, the Kasematten. A guided tour leads through the vaulted passages.",
+   "tip": "The tour is about 4 EUR per the travel guide; entrance near the Terrace steps.",
+   "q": "Festung Dresden Kasematten, Georg-Treu-Platz, Dresden",
+   "ll": [
+    51.0527,
+    13.7438
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Dresden",
+    "https://de.wikipedia.org/wiki/Festung_Dresden"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ddhellerau",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Festspielhaus in Garden City Hellerau",
+   "desc": "The Festspielhaus Hellerau was built in 1911 to a design by Heinrich Tessenow and became a centre of modern dance. It sits in Gartenstadt Hellerau, a garden city founded in 1909 with many listed houses.",
+   "tip": "Combine a performance with a walk through the garden city.",
+   "q": "Festspielhaus Hellerau, Karl-Liebknecht-Straße 56, Dresden",
+   "ll": [
+    51.1137,
+    13.7531
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Hellerau",
+    "https://de.wikivoyage.org/wiki/Dresden/Neustadt"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddhausmannsturm",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb the Hausmannsturm of the Residenzschloss",
+   "desc": "The Hausmannsturm is a 100 m tower of the Residenzschloss with a viewing platform at 68 m. It overlooks the Zwinger, Semperoper and the Elbe.",
+   "tip": "Best in clear weather; entrance via the palace courtyard.",
+   "q": "Hausmannsturm, Sophienstraße, Residenzschloss, Dresden",
+   "ll": [
+    51.053,
+    13.7371
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Hausmannsturm",
+    "https://de.wikivoyage.org/wiki/Dresden/Altstadt"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddsemperoper",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Take in an opera or ballet at the Semperoper",
+   "desc": "The Semperoper is the home of the Saxon State Opera and the Staatskapelle Dresden, founded in 1548. The building was rebuilt in 1977-85.",
+   "tip": "Book months ahead; guided tours of the house run on most days.",
+   "q": "Semperoper Dresden, Theaterplatz 2, Dresden",
+   "ll": [
+    51.05456,
+    13.73509
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Semperoper",
+    "https://de.wikivoyage.org/wiki/Dresden/Altstadt"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ddschwebebahn",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Ride the Loschwitz suspension railway",
+   "desc": "The Dresden Schwebebahn is a historic suspension railway linking Loschwitz with Oberloschwitz on the hillside. It opened in 1901 and is one of the oldest of its kind.",
+   "tip": "Combine it with the nearby funicular and the walk down to the Blue Wonder.",
+   "q": "Schwebebahn Dresden, Pillnitzer Landstraße, Loschwitz, Dresden",
+   "ll": [
+    51.05417,
+    13.81806
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Dresden_Suspension_Railway",
+    "https://en.wikivoyage.org/wiki/Dresden"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddraddampfer",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Take a paddle steamer from Dresden to Pillnitz",
+   "desc": "The Saechsische Dampfschiffahrt runs the world's oldest and largest fleet of historic paddle steamers. Boats leave from the Terrassenufer pier and sail upriver to Pillnitz Palace.",
+   "tip": "The Terrassenufer to Pillnitz fare was around 21 EUR for adults; check the current timetable.",
+   "q": "Sächsische Dampfschifffahrt Anleger Terrassenufer, Dresden",
+   "ll": [
+    51.05374,
+    13.74097
+   ],
+   "src": [
+    "https://saechsische-dampfschifffahrt.de/en/cruises-overview/cruises",
+    "https://en.wikivoyage.org/wiki/Dresden"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddelberadweg",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cycle the Elbe meadows on the Elberadweg",
+   "desc": "The 1,220 km Elbe Cycle Route passes through Dresden along the riverside meadows. The wide Elbwiesen beneath the Altstadt are used for sport and picnics.",
+   "tip": "Rent a bike in the centre and cycle toward Pillnitz or Radebeul.",
+   "q": "Elbwiesen Neustädter Elbufer, Dresden",
+   "ll": [
+    51.0556,
+    13.7433
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Dresden",
+    "https://de.wikipedia.org/wiki/Elberadweg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ddfilmnaechte",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Watch a film at the Filmnächte am Elbufer",
+   "desc": "The Filmnaechte am Elbufer is an open-air cinema and concert series on the Elbe bank at Koenigsufer from June to August. The screen faces the Altstadt skyline.",
+   "tip": "Bring a cushion and a jacket; check programme and tickets online.",
+   "q": "Filmnächte am Elbufer, Königsufer, Dresden",
+   "ll": [
+    51.0553,
+    13.7447
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Dresden",
+    "https://de.wikivoyage.org/wiki/Dresden/Neustadt"
+   ],
+   "tags": [],
+   "months": [
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "ddstriezelmarkt",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Drink Glühwein at the Striezelmarkt",
+   "desc": "The Striezelmarkt on the Altmarkt is one of Germany's oldest Christmas markets, dating back to 1434. It is known for the Dresden Stollen and the giant Christmas pyramid.",
+   "tip": "Try Stollen from a stall carrying the Dresden Stollen seal.",
+   "q": "Striezelmarkt, Altmarkt, Dresden",
+   "ll": [
+    51.04963,
+    13.73796
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Dresden",
+    "https://www.dresden.de/en/tourism/attractions/events/christmas-season/stollenmarkt.php"
+   ],
+   "tags": [],
+   "months": [
+    11,
+    12
+   ]
+  },
+  {
+   "id": "ddbrn",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Join the Bunte Republik Neustadt street festival",
+   "desc": "The Bunte Republik Neustadt is a June street festival across the Aeussere Neustadt with stages, food stalls and courtyard parties. It started in 1990.",
+   "tip": "Come on the Saturday evening and explore the courtyards.",
+   "q": "Bunte Republik Neustadt, Alaunstraße, Äußere Neustadt, Dresden",
+   "ll": [
+    51.06594,
+    13.75249
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Dresden",
+    "https://de.wikipedia.org/wiki/Bunte_Republik_Neustadt"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6
+   ]
+  },
+  {
+   "id": "dddynamo",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cheer on Dynamo Dresden at the Rudolf-Harbig-Stadion",
+   "desc": "SG Dynamo Dresden is the city's football club, playing in a stadium with about 32,000 seats. The stadium also houses a football museum.",
+   "tip": "Tickets are sold online; the atmosphere in the standing blocks is famous.",
+   "q": "Rudolf-Harbig-Stadion, Lennéstraße 12, Dresden",
+   "ll": [
+    51.04078,
+    13.74791
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Dynamo_Dresden",
+    "https://en.wikivoyage.org/wiki/Dresden"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddbluenote",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Hear live jazz at the Blue Note",
+   "desc": "The Blue Note on Goerlitzer Strasse is a long-running jazz bar in the Aeussere Neustadt. It hosts live concerts and jam sessions.",
+   "tip": "Check the concert calendar; sessions start late.",
+   "q": "Blue Note, Görlitzer Straße 2b, Äußere Neustadt, Dresden",
+   "ll": [
+    51.06664,
+    13.75409
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Dresden/Neustadt",
+    "https://www.dresden.de/en/tourism/attractions/sights/neustadt_district/outer-neustadt.php"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddrollerblade",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Skate the Friday Roller Blade Night",
+   "desc": "The Dresden Roller Blade Night is a free group skate through the city on Friday evenings from April to September. It starts at Lingnerallee near the Hygiene Museum.",
+   "tip": "Bring your own skates and a helmet.",
+   "q": "Lingnerallee, Dresden",
+   "ll": [
+    51.04296,
+    13.75147
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Dresden"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "ddglaeserne",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Tour the Gläserne Manufaktur",
+   "desc": "The Transparent Factory is a former Volkswagen plant with a glass facade near the Grosser Garten. One-hour guided tours show the factory and visitors can test-drive electric VWs.",
+   "tip": "The tour cost about 5 EUR; check tour times online.",
+   "q": "Gläserne Manufaktur, Lennéstraße 1, Dresden",
+   "ll": [
+    51.04454,
+    13.75594
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Transparent_Factory",
+    "https://en.wikivoyage.org/wiki/Dresden"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ddphilharmonie",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Attend a Dresden Philharmonic concert",
+   "desc": "The Dresden Philharmonic, founded in 1870, plays in the Kulturpalast concert hall, a 1969 building rebuilt as a modern concert hall. The building also houses the central library and a cabaret.",
+   "tip": "Choose a seat behind the orchestra for a cheaper ticket.",
+   "q": "Kulturpalast Dresden, Schloßstraße 2, Dresden",
+   "ll": [
+    51.051,
+    13.7385
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Dresden",
+    "https://de.wikivoyage.org/wiki/Dresden/Altstadt"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ddarnhold",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Swim at the Georg-Arnhold-Bad",
+   "desc": "The Georg-Arnhold-Bad is a public pool near the Grosser Garten. It has a 93 m tube slide, a solar-heated outdoor pool and a sauna area.",
+   "tip": "Visit on a weekday morning to avoid crowds.",
+   "q": "Georg-Arnhold-Bad, Helmut-Schön-Allee 2, Dresden",
+   "ll": [
+    51.0428,
+    13.7494
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Dresden/Altstadt"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddhechtfest",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Party at the Hechtfest street festival",
+   "desc": "The Hechtfest is a three-day August street festival in the Hechtviertel of the Neustadt. It has an alternative, neighbourhood feel with music and stalls.",
+   "tip": "Wander the side streets for the smaller stages.",
+   "q": "Hechtviertel, Dresden",
+   "ll": [
+    51.07504,
+    13.74695
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Dresden"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    8
+   ]
+  },
+  {
+   "id": "ddkaffeestuebchen",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Eierschecke at the Dresdner Kaffeestübchen",
+   "desc": "The Dresdner Kaffeestübchen is a small café near the Frauenkirche, often named as a top spot for Eierschecke, the Dresden egg custard cake. Prinz.de recommends the Dresdner Gedeck pairing the cake with coffee liqueur.",
+   "tip": "Order the Eierschecke with coffee; seating is small so go off-peak.",
+   "q": "Dresdner Kaffeestübchen, Salzgasse 8, Dresden",
+   "ll": [
+    51.0524,
+    13.7437
+   ],
+   "src": [
+    "https://prinz.de/dresden/locations/127894-dresdner-kaffeestuebchen/",
+    "https://visitsaxony.com/blog/recipe-for-dresden-eierschecke-dresden-egg-custard-cake"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddwippler",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try Eierschecke at Café Wippler by the Blue Wonder",
+   "desc": "Café Wippler is a Loschwitz bakery-café across the Blaues Wunder bridge. Merian recommends it for a traditional Eierschecke, and a guide credits it with a tradition of more than 100 years.",
+   "tip": "Have the Eierschecke with coffee, then walk to the bridge.",
+   "q": "Café Wippler, Körnerplatz 2, Loschwitz, Dresden",
+   "ll": [
+    51.0539,
+    13.81467
+   ],
+   "src": [
+    "https://www.merian.de/deutschland/sachsen/die-besten-restaurants-in-dresden",
+    "https://www.komoot.com/nl-nl/highlight/6376502"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddsophienkeller",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Feast at the Sophienkeller in the Taschenbergpalais",
+   "desc": "The Sophienkeller is a vaulted cellar restaurant opposite the Zwinger, themed around Augustus the Strong. It serves hearty Saxon dishes; it was renovated after the 2002 flood.",
+   "tip": "Mains cost about 12-20 EUR; try the Saxon roast or schnitzel.",
+   "q": "Sophienkeller im Taschenbergpalais, Taschenberg 3, Dresden",
+   "ll": [
+    51.05205,
+    13.735
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Dresden/Altstadt",
+    "https://www.sophienkeller-dresden.de"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddwatzke",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink Watzke beer at the Ball- und Brauhaus",
+   "desc": "Watzkes Ball- und Brauhaus in Pieschen is a late-19th-century brewery with a ballroom and an Elbe-view beer garden. It brews its own beer and holds themed evenings.",
+   "tip": "Try the schnitzel and the house beer in the garden.",
+   "q": "Ball- und Brauhaus Watzke, Kötzschenbroder Straße 1, Dresden",
+   "ll": [
+    51.07756,
+    13.71582
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Dresden",
+    "https://de.wikivoyage.org/wiki/Dresden/Neustadt"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddraskolnikoff",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine at Raskolnikoff in the Neustadt",
+   "desc": "Raskolnikoff opened after reunification as a bar and became a restaurant focused on seasonal produce from small regional producers. It has a garden with a fountain and is open daily.",
+   "tip": "Sunday opens at 09:00 for breakfast.",
+   "q": "Raskolnikoff, Böhmische Straße 34, Äußere Neustadt, Dresden",
+   "ll": [
+    51.06439,
+    13.75497
+   ],
+   "src": [
+    "https://theculturetrip.com/europe/germany/articles/where-to-eat-well-in-dresden-10-must-try-restaurants",
+    "https://de.wikivoyage.org/wiki/Dresden/Neustadt"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddplanwirtschaft",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have a beer at the Planwirtschaft pub",
+   "desc": "Planwirtschaft on Louisenstrasse is one of the oldest pubs in the Neustadt, dating from the reunification period. It opens at 07:30 and serves draught beer and food.",
+   "tip": "Open daily from 07:30 to 01:00.",
+   "q": "Planwirtschaft, Louisenstraße 20, Äußere Neustadt, Dresden",
+   "ll": [
+    51.06721,
+    13.75016
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Dresden/Neustadt"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddscheune",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Indian food in the garden of Die Scheune",
+   "desc": "Die Scheune on Alaunstrasse is a cultural centre with concerts, discos and readings. Its garden runs as a food and drink venue in summer, serving Indian food.",
+   "tip": "Best on a summer evening; check for concerts in the hall.",
+   "q": "Die Scheune, Alaunstraße 36-40, Äußere Neustadt, Dresden",
+   "ll": [
+    51.06619,
+    13.75165
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Dresden",
+    "https://de.wikivoyage.org/wiki/Dresden/Neustadt"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddschillergarten",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat schnitzel at the SchillerGarten by the Elbe",
+   "desc": "The SchillerGarten at Schillerplatz is a large beer garden by the Elbe near the Blaues Wunder. It is known for schnitzel.",
+   "tip": "Go on a summer afternoon for the river view.",
+   "q": "SchillerGarten, Schillerplatz 9, Dresden",
+   "ll": [
+    51.05251,
+    13.80872
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Dresden"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddelbegarten",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink in the Elbegarten Demnitz beer garden",
+   "desc": "Elbegarten Demnitz is a large beer garden by the Blaues Wunder with live music. It is on Friedrich-Wieck-Strasse in Loschwitz.",
+   "tip": "Come for live music on summer weekends.",
+   "q": "Elbegarten Demnitz, Friedrich-Wieck-Straße 18, Dresden",
+   "ll": [
+    51.0534,
+    13.81165
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Dresden"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddwaldschloesschen",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste brewery food at the Brauhaus am Waldschlößchen",
+   "desc": "The Brauhaus am Waldschloesschen is a hilltop brewery restaurant serving traditional German food with its own beer. It is known for a Monday pork knuckle deal.",
+   "tip": "Try the pork knuckle and the house beer.",
+   "q": "Brauhaus am Waldschlößchen, Am Brauhaus 8b, Dresden",
+   "ll": [
+    51.06799,
+    13.77831
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Dresden",
+    "https://de.wikivoyage.org/wiki/Dresden/Neustadt"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddyenidzerestaurant",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine under the dome of the Yenidze",
+   "desc": "The Kuppelrestaurant in the Yenidze serves food in the glass dome of the former cigarette factory. A rooftop beer garden looks over the Baroque Altstadt.",
+   "tip": "Open daily from 11:00; book for sunset.",
+   "q": "Yenidze Kuppelrestaurant, Weißeritzstraße 3, Dresden",
+   "ll": [
+    51.05871,
+    13.72661
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Dresden/Altstadt",
+    "https://en.wikipedia.org/wiki/Yenidze"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddcurryschloss",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Grab a currywurst at Curry am Schloss",
+   "desc": "Curry am Schloss is a tiny stand on Schlossstrasse opposite the Residenzschloss, claiming the best currywurst in town. It also serves breaded cauliflower.",
+   "tip": "Cheap street-food stop between museums.",
+   "q": "Curry am Schloss, Schloßstraße 1, Dresden",
+   "ll": [
+    51.05107,
+    13.73721
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/Dresden"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddcamonda",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sip drinking chocolate at Camondas Schokoladen-Kontor",
+   "desc": "Camondas Schokoladen-Kontor on Schlossstrasse is a chocolate shop with a small café opposite the Residenzschloss. It serves drinking chocolate and cakes and has a chocolate museum.",
+   "tip": "Order the hot chocolate after the Green Vault.",
+   "q": "Camondas Schokoladen-Kontor, Schloßstraße 22, Dresden",
+   "ll": [
+    51.05247,
+    13.73779
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Dresden/Altstadt"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddkeke",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat a loaded kumpir at Keké",
+   "desc": "Keké on Louisenstrasse serves kumpir, the Turkish baked potato, in the Aeussere Neustadt. The travel guide notes a vegetarian version for about 4.60 EUR.",
+   "tip": "Cheap and filling for a Neustadt night out.",
+   "q": "Keké Kumpir, Louisenstraße 21, Äußere Neustadt, Dresden",
+   "ll": [
+    51.06742,
+    13.75016
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Dresden/Neustadt",
+    "https://en.wikivoyage.org/wiki/Dresden"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddhotshuezzle",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try Thai street food at Hot Shüzzle",
+   "desc": "Hot Shuezzle on Rothenburger Strasse serves Thai street food cooked by a chef from Thailand. It is a small Neustadt place.",
+   "tip": "Order a curry or noodle dish at lunch.",
+   "q": "Hot Shüzzle, Rothenburger Straße 9, Dresden",
+   "ll": [
+    51.06384,
+    13.75214
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Dresden/Neustadt",
+    "https://en.wikivoyage.org/wiki/Dresden"
+   ],
+   "tags": []
+  }
+ ]
+}

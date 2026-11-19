@@ -1,0 +1,417 @@
+{
+ "new": [
+  {
+   "id": "frritterhaus",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Browse Offenburg's Museum im Ritterhaus",
+   "desc": "The museum has occupied the classicist Ritterhaus of 1784, once the residence of the Ortenau imperial knighthood's Reichsschultheiss, since 1959. Its collections cover local history, art and a natural-history department on forest, land and river.",
+   "tip": "Allow about an hour and check the current opening days first.",
+   "q": "Museum im Ritterhaus, Ritterstraße 10, Offenburg",
+   "ll": [
+    48.46856,
+    7.94426
+   ],
+   "src": [
+    "https://www.schwarzwaldportal.com/en/ausflugsziel-museum-im-ritterhaus-offenburg.html",
+    "https://whichmuseum.co.uk/museum/museum-ritterhaus-offenburg-29633"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "frlahrstorch",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Storchenturm, Lahr's oldest landmark",
+   "desc": "The Storchenturm is the surviving tower of the castle built around 1220 by the lords of Geroldseck, from which the town of Lahr grew and received its charter in 1278. Storks nested on it until the 1960s.",
+   "tip": "It stands at the edge of the old town; combine it with the Stiftskirche and a stroll through the Stadtpark.",
+   "q": "Storchenturm, Lahr/Schwarzwald",
+   "ll": [
+    48.33905,
+    7.87248
+   ],
+   "src": [
+    "https://www.lahr.de/stork-tower.89428.htm"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "frdreilaenderbruecke",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the Dreiländerbrücke from Weil to Huningue",
+   "desc": "This footbridge and cycle bridge across the Rhine links Weil am Rhein in Germany with Huningue in France, and it won the German Bridge Construction Prize in 2008. Its single span of about 230 metres makes it one of the longest of its kind.",
+   "tip": "It is free and open day and night; start in the Rheinpark in Weil and cross into France on foot.",
+   "q": "Dreiländerbrücke, Rheinpark, Weil am Rhein",
+   "ll": [
+    47.59123,
+    7.59272
+   ],
+   "src": [
+    "https://structurae.net/de/bauwerke/20005136",
+    "https://maps.adac.de/ort/weil-am-rhein-baden-wuerttemberg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "frdreilaendermuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Trace the Dreiländereck at the Dreiländermuseum Lörrach",
+   "desc": "The museum opposite Lörrach's classicist Stadtkirche shows the history and present of the tri-border region together with South Baden art and art ceramics.",
+   "tip": "It is listed as open 11 to 18 and closed on Mondays; confirm before going.",
+   "q": "Dreiländermuseum, Basler Straße 143, Lörrach",
+   "ll": [
+    47.60988,
+    7.65989
+   ],
+   "src": [
+    "https://www.museenbasel.ch/en/museen/dreilaendermuseum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "frsueden",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Share Flammkuchen on the terrace of Restaurant Süden",
+   "desc": "This restaurant and beer garden in Vauban serves Mediterranean cooking with a regional focus: soups, salads, tarte flambée, sausage salad and pasta, from local producers. It has a large terrace and a cosy interior.",
+   "tip": "Go on a summer evening for the terrace; it is open until about midnight most days.",
+   "q": "Restaurant Süden, Alfred-Döblin-Platz 1, Vauban, Freiburg",
+   "ll": [
+    47.97518,
+    7.8254
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/restaurant-sueden",
+    "https://www.speisekarte.de/freiburg-im-breisgau/restaurant/sueden_restaurant_und_mehr"
+   ]
+  },
+  {
+   "id": "fr5senses",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sip direct-trade coffee at 5 Senses Coffee in Vauban",
+   "desc": "This café and roastery roasts direct-trade beans in-house and serves espresso, pour-over, breakfast, brunch and homemade cakes with many vegan options. It has a sun terrace and handmade reclaimed-wood furniture.",
+   "tip": "Come for brunch and try the pour-over; check hours, as it closes around 18:00.",
+   "q": "5 Senses Coffee, Wiesentalstraße 22, Vauban, Freiburg",
+   "ll": [
+    47.97775,
+    7.82462
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/5-senses-coffee-vauban",
+    "https://happycow.net/reviews/5-senses-coffee-freiburg-348462"
+   ]
+  },
+  {
+   "id": "frhansens",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat the daily lunch menu at Hansens Esszimmer",
+   "desc": "Hansens Esszimmer is a neighbourhood restaurant in Vauban, open since 2007, with a daily changing menu of seasonal regional ingredients, mostly vegetarian and plant-based with a few dishes of regional farm meat.",
+   "tip": "Lunch only, Monday to Saturday from 12:00 to 14:30, so arrive early.",
+   "q": "Hansens Esszimmer, Marie-Curie-Straße 1, Vauban, Freiburg",
+   "ll": [
+    47.97675,
+    7.82541
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/hansens-esszimmer"
+   ]
+  },
+  {
+   "id": "frlimette",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Lick artisanal ice cream at Eiscafé Limette in Vauban",
+   "desc": "Limette makes its ice cream in-house without additives, with real vanilla and fine chocolate, plus a growing vegan range, waffles and cakes. The large terrace is popular with locals.",
+   "tip": "Try a vegan flavour or a waffle; open daily until 20:00 in season.",
+   "q": "Eiscafé Limette, Vaubanallee 14, Vauban, Freiburg",
+   "ll": [
+    47.97436,
+    7.82667
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/eiscafe-limette"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "frseepark",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink a Radler under the chestnuts at the Seepark Biergarten",
+   "desc": "This beer garden sits on the Flückigersee in the western Seepark, shaded by chestnut trees with views over the lake. It serves Weisswurst with pretzels, half chickens, pork knuckle and bratwurst, with regional wine and seasonal beers.",
+   "tip": "It is a summer beer garden; the city page showed it temporarily closed, so call +49 761 4565526 before going.",
+   "q": "Biergarten am Seepark, Gerhart-Hauptmann-Straße 3, Freiburg",
+   "ll": [
+    47.9995,
+    7.8005
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/biergarten-am-seepark"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "frkurz",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Baden country cooking at Landgasthaus Kurz in Brandenberg",
+   "desc": "This three-star country inn in Todtnau-Brandenberg serves hearty Baden cuisine in its Gaststube. Its menu has listed Schäufele with sauerkraut and potatoes.",
+   "tip": "Ring ahead on +49 7671 96960 for table times, as the site does not publish restaurant hours.",
+   "q": "Landgasthaus Kurz, Brandenberg, Todtnau",
+   "ll": [
+    47.84104,
+    7.97433
+   ],
+   "src": [
+    "https://landgasthaus-kurz.de/"
+   ]
+  },
+  {
+   "id": "frbockstaller",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Black Forest cherry cake at Café Bockstaller in Todtmoos",
+   "desc": "This family-run Konditorei in Todtmoos has baked its Schwarzwälder Kirschtorte since 1996 and was named best café of the year in the 2021 Kuckuck Schwarzwald Genuss-Award.",
+   "tip": "Order a slice of Kirschtorte with coffee; allow time for the mountain roads.",
+   "q": "Café Bockstaller, Hohwehraweg 3, Todtmoos",
+   "ll": [
+    47.74063,
+    8.00524
+   ],
+   "src": [
+    "https://www.schwarzwald-tourismus.info/anmeldungen/dorfurlaub/kulinarik/spezialitaeten/kirschtorte",
+    "https://atentogutschein.de/en/marketplace_merchants/cafe-bockstaller"
+   ]
+  },
+  {
+   "id": "frfauststube",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine where Faust is said to have died, at the Löwen in Staufen",
+   "desc": "The Gasthaus zum Löwen on Staufen's market square is an early 16th-century inn where, by legend, Doctor Faust died in an alchemy explosion around 1539-1540. A painting on the outer wall shows the scene, and the Fauststube restaurant serves regional dishes.",
+   "tip": "Ask at the hotel for the room tied to the legend; it is a legend, not documented history.",
+   "q": "Gasthaus zum Löwen, Fauststube, Marktplatz, Staufen im Breisgau",
+   "ll": [
+    47.8817,
+    7.7317
+   ],
+   "src": [
+    "https://www.fodors.com/world/europe/germany/the-black-forest/places/staufen",
+    "https://www.schwarzwaldportal.com/staufen-im-breisgau.html"
+   ]
+  },
+  {
+   "id": "frstrandbad",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Swim 50 metres at the Strandbad Freiburg",
+   "desc": "The Strandbad beside the Dreisamstadion has an 8-lane, 50-metre sports pool, a non-swimmer pool, a large water slide and food service; it dates back more than 90 years.",
+   "tip": "Buy tickets online at badeninfreiburg.de; the city page showed it temporarily closed, so check the season status.",
+   "q": "Strandbad, Schwarzwaldstraße 195, Freiburg",
+   "ll": [
+    47.98857,
+    7.89537
+   ],
+   "src": [
+    "https://www.schwimmbadcheck.de/en/freiburg/strandbad-freiburg.html",
+    "https://visit.freiburg.de/en/strandbad"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "frfaulerbad",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Swim lengths indoors at the Faulerbad",
+   "desc": "The Faulerbad is Freiburg's central indoor pool on Faulerstraße. It stays closed throughout the outdoor-pool season, so it is a winter swim.",
+   "tip": "Use it from autumn to spring; one listing says Friday mornings are for seniors and expectant mothers and early Saturday for women.",
+   "q": "Hallenbad Faulerbad, Faulerstraße, Freiburg",
+   "ll": [
+    47.994,
+    7.843
+   ],
+   "src": [
+    "https://www.ab-ins-schwimmbad.de/Freiburg-im-Breisgau/Hallenbad-Faulerbad.html",
+    "https://visit.freiburg.de/en/faulerbad"
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "months": [
+    10,
+    11,
+    12,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "frboulderkitchen",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Boulder at the Boulderkitchen near Munzinger Straße",
+   "desc": "Boulderkitchen is a bouldering hall with about 1,200 square metres of climbing wall, roughly 350 problems from 2a to 8a, a Kilterboard and a café.",
+   "tip": "Shoes can be rented, so beginners need no gear; check whether to register online first.",
+   "q": "Boulderkitchen, Munzinger Straße 4, Freiburg",
+   "ll": [
+    47.99059,
+    7.7952
+   ],
+   "src": [
+    "https://rausgegangen.de/en/events/boulderkitchen-freiburg-boulderhalle-1",
+    "https://int.rausgegangen.de/en/locations/boulderkitchen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "fraquafun",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim off the shore at Aqua Fun on the Schluchsee",
+   "desc": "Aqua Fun is the outdoor pool and lake-side bathing complex at Schluchsee, the Black Forest's largest lake. The 2025 season began on 21 June, and listings give May to September, 9:00 to 19:00.",
+   "tip": "Check the municipality's page for the exact start date; boat rental stations operate at the dam and Wolfsgrundbucht.",
+   "q": "Aqua Fun, Schluchsee",
+   "ll": [
+    47.8123,
+    8.1803
+   ],
+   "src": [
+    "https://www.hochschwarzwald.de/en/attractions/aqua-fun-a924bab8e6",
+    "https://www.ab-ins-schwimmbad.de/Schluchsee/Freibad-Aqua-Fun.html"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "frtitiseestrand",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Bathe at the Strandbad Titisee, then rent a pedal boat",
+   "desc": "The Strandbad is the lakeside bathing area at Titisee, open May to September, 9:00 to 19:00, with admission of about 3.50 euros. Bootsbetrieb Schweizer on Seestraße rents pedal, rowing and electric boats.",
+   "tip": "Call 07651 8214 for boat rental times, which sources did not list.",
+   "q": "Strandbad Titisee, Titisee-Neustadt",
+   "ll": [
+    47.89915,
+    8.14481
+   ],
+   "src": [
+    "https://www.seen.de/titisee/strandbad-titisee/",
+    "https://www.alpen-guide.de/reisefuehrer/poi/bootsbetrieb-schweizer-titisee-titisee-neustadt"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "frfeldbergski",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ski the Feldberg, the Black Forest's biggest ski area",
+   "desc": "The Liftverbund Feldberg is the largest ski area in the Black Forest, with chairlifts and drag lifts around the Seebuck. Operating days vary with natural snow, from about 55 to 61 days in recent seasons.",
+   "tip": "Check lifts and snow depth on feldberg-erlebnis.de before you drive; bus line 7300 stops at Feldberg hourly.",
+   "q": "Skigebiet Feldberg, Seebuck, Feldberg (Schwarzwald)",
+   "ll": [
+    47.85637,
+    8.01893
+   ],
+   "src": [
+    "https://www.feldberg-erlebnis.de/en/winter/ski-resort-feldberg",
+    "https://www.schwarzwaldportal.com/skigebiet-feldberg.html"
+   ],
+   "months": [
+    12,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "frbreisachschiff",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cruise the Rhine from Breisach with BFS-Linie",
+   "desc": "The Breisacher Fahrgast-Schifffahrt runs panorama trips, lunch cruises and day excursions from the landing on Rheinuferstraße by bridge 2, including Breisach to Basel.",
+   "tip": "Registration is required; check the current timetable at BFS-Linie or Breisach-Touristik (Marktplatz 16).",
+   "q": "BFS-Linie Anlegestelle, Rheinuferstraße, Breisach am Rhein",
+   "ll": [
+    48.0306,
+    7.5834
+   ],
+   "src": [
+    "https://bfs-linie.de/wp-content/uploads/2024/11/2025_BFS_Fahrplan_DE.pdf"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "freckartsberg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Climb the Eckartsberg above Breisach",
+   "desc": "The Eckartsberg rises about 221 m south of Breisach's old town; a flagpole with the Europalicht crowns the top, and hiking routes lead on to the ship lock and the Waldbad.",
+   "tip": "The climb from the centre takes about 10 minutes.",
+   "q": "Eckartsberg, Breisach am Rhein",
+   "ll": [
+    48.02693,
+    7.58319
+   ],
+   "src": [
+    "https://planetoutdoor.de/touren/wandern/wandern-baden-wuerttemberg-der-ewige-zankapfel-breisach"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

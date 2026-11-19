@@ -64,11 +64,10 @@ window.CITIES.dortmund = {
     dobergbaumuseum: [51.4886, 7.2164], dostarlightexpress: [51.4927, 7.2342], dobermuda3eck: [51.4784, 7.2165],
     dodoenninghaus: [51.4809, 7.2194], doplanetarium: [51.4855, 7.2277], dojahrhunderthalle: [51.4818, 7.1974],
     dowestpark: [51.4806, 7.1971], dokemnadersee: [51.4255, 7.2678], dohauskemnade: [51.4077, 7.2495],
-    doeisenbahnmuseum: [51.4332, 7.1262], dozechehannover: [51.5046, 7.1648], dokunstmuseum: [51.4874, 7.2211],
-    dostiepel: [51.4165, 7.2354], dobotgarten: [51.4435, 7.2657], dozechebochum: [51.4511, 7.2182],
-    doschauspielhaus: [51.4722, 7.2175], domusikforum: [51.4787, 7.2150], doruhrstadion: [51.4900, 7.2366],
-    dostruenkede: [51.5514, 7.2114], docrangerkirmes: [51.5405, 7.1594], doflottmann: [51.5224, 7.2256],
-    doarchaeologie: [51.5359, 7.2253]
+    dozechehannover: [51.5046, 7.1648], dokunstmuseum: [51.4874, 7.2211], dostiepel: [51.4165, 7.2354],
+    dobotgarten: [51.4435, 7.2657], dozechebochum: [51.4511, 7.2182], doschauspielhaus: [51.4722, 7.2175],
+    domusikforum: [51.4787, 7.2150], doruhrstadion: [51.4900, 7.2366], dostruenkede: [51.5514, 7.2114],
+    docrangerkirmes: [51.5405, 7.1594], doflottmann: [51.5224, 7.2256], doarchaeologie: [51.5359, 7.2253]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -498,9 +497,6 @@ window.CITIES.dortmund = {
     { id: "dohauskemnade", cat: "gor", area: "bochum", title: "Visit the moated Haus Kemnade",
       desc: "Haus Kemnade is a medieval moated castle on the Ruhr by the Kemnader See, now a museum and restaurant.",
       tip: "Combine with a walk around the lake.", q: "Haus Kemnade, Kemnader Straße, Bochum", src: ["https://de.wikipedia.org/wiki/Haus_Kemnade"] },
-    { id: "doeisenbahnmuseum", cat: "gor", area: "bochum", title: "See steam locomotives at the Eisenbahnmuseum Dahlhausen",
-      desc: "The Eisenbahnmuseum Bochum-Dahlhausen is a railway museum in a former locomotive depot with steam locomotives and carriages. It is open from March to mid-November.",
-      tip: "Open Tuesday to Friday and Sunday in season.", q: "Eisenbahnmuseum Bochum, Dr.-C.-Otto-Straße 191, Bochum", months: [3, 4, 5, 6, 7, 8, 9, 10, 11], src: ["https://maps.adac.de/poi/bochum-dahlhausen-railway-museum-oben-im-eiberg-1-1"] },
     { id: "dozechehannover", cat: "gor", area: "bochum", title: "Tour Zeche Hannover, the LWL mining museum",
       desc: "Zeche Hannover in Hordel is an LWL industrial museum in a former coal mine, showing miners' daily life.",
       tip: "Check the LWL site for tours and opening days.", q: "LWL-Industriemuseum Zeche Hannover, Günnigfelder Straße 251, Bochum", tags: ["rainy day"], src: ["https://de.wikipedia.org/wiki/Zeche_Hannover_(Bochum)"] },

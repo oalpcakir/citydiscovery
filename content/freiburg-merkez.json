@@ -1,0 +1,844 @@
+{
+ "new": [
+  {
+   "id": "frmuenstertower",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb the tower of Freiburg Minster",
+   "desc": "Building of the Minster began around 1200 under Duke Berthold V, and the 116-metre west tower was finished around 1330. Its openwork stone spire, 46 metres high, was called the most beautiful tower on earth by an art historian in 1869, and the portal hall carries more than 400 figures.",
+   "tip": "The tower can be climbed for a small fee, but access is seasonal and weather-dependent, so check freiburgermuenster.info for the day. The Hosanna bell of 1258 rings on Thursday evenings and Friday at 11.",
+   "q": "Freiburger Münster, Münsterplatz, Altstadt, Freiburg im Breisgau",
+   "ll": [
+    47.9956,
+    7.85273
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/discover/sightseeing/freiburger-muenster",
+    "https://en.wikipedia.org/wiki/Freiburg_Minster"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "frkaufhaus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the red Historisches Kaufhaus",
+   "desc": "The Historical Merchants' Hall on Münsterplatz was extended between 1520 and 1532 by cathedral master builder Lienhart Müller on the site of a market administration building first recorded in 1378. Its red facade carries statues of Habsburg rulers, and the inner courtyard hosts wine tastings.",
+   "tip": "The interior rooms only open during events such as concerts and readings, so enjoy the facade from the square. It is the backdrop of the July wine festival.",
+   "q": "Historisches Kaufhaus, Münsterplatz 24, Altstadt, Freiburg im Breisgau",
+   "ll": [
+    47.995,
+    7.85278
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/historisches-kaufhaus-historical-merchants-hall"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "frmartinstor",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk through the medieval Martinstor",
+   "desc": "One of Freiburg's two surviving medieval city gates, with 13th-century towers that were saved from demolition in 1888. The gate was raised from 22 to 63 metres and also served as a prison, mostly for debtors, with a plaque for victims of the witch hunts.",
+   "tip": "It can only be viewed from outside. Combine it with the Schneckenvorstadt behind it and a beer at the brewery next door.",
+   "q": "Martinstor, Martinsgässle, Altstadt, Freiburg im Breisgau",
+   "ll": [
+    47.99369,
+    7.84892
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/martinstor-martins-gate"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "frschwabentor",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find the Boy with the Thorn on the Schwabentor",
+   "desc": "Built in the mid-13th century, the Schwabentor is the newer of the two surviving gates and is named after a legend of a salt merchant who tried to buy the city with barrels of sand and stones. The portal shows the Boy with the Thorn relief and Saint George.",
+   "tip": "Free to see at any time; the interior is reachable only through the tin figure museum (Zinnfigurenklause), open May to October. The panoramic Schlossberg trail starts here.",
+   "q": "Schwabentor, Oberlinden, Altstadt, Freiburg im Breisgau",
+   "ll": [
+    47.99284,
+    7.85412
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/schwabentor-swabian-gate"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "fraugustiner",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Wander the cloister of the Augustinermuseum",
+   "desc": "The museum occupies a 13th and 14th century Augustinian hermit convent that became Germany's first municipal theatre in 1823. It shows art and cultural history from the Middle Ages to the Baroque, including original sculptures from the Minster, and finished a long refurbishment with new rooms in February 2026.",
+   "tip": "Adult admission is 8 euros; it opens Tuesday to Sunday and until 19:00 on Fridays. The Zinnengarten café reopened with the redesign.",
+   "q": "Augustinermuseum, Augustinerplatz 1, Altstadt, Freiburg im Breisgau",
+   "ll": [
+    47.99378,
+    7.85218
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/augustinermuseum-freiburg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "frcolombi",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See Roman and Alemannic finds at the Colombischlössle",
+   "desc": "The Gothic Tudor style villa was built in 1859 to 1861 for Countess Maria Antonia von Zea Bermudez y Colombi on a former French bastion. Today it holds the Archaeological Museum, with Stone Age to medieval finds, Roman objects and Alemannic grave goods.",
+   "tip": "Adult admission is around 7 euros, and a museum day ticket costs 8 euros. The surrounding Colombi Park is lit up during the Christmas market.",
+   "q": "Archäologisches Museum Colombischlössle, Rotteckring 5, Freiburg im Breisgau",
+   "ll": [
+    47.99774,
+    7.84615
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/colombischloessle-archaeological-museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "frneuekunst",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Museum für Neue Kunst",
+   "desc": "The museum in a Neo-Baroque building of 1902 has shown modernist and contemporary painting and sculpture since 1985. Its local focus is Julius Bissier, born in Freiburg in 1893.",
+   "tip": "Open Tuesday to Sunday, until 19:00 on Thursdays. It is a short walk from the Augustinermuseum, so the two combine well.",
+   "q": "Museum für Neue Kunst, Marienstraße 10a, Freiburg im Breisgau",
+   "ll": [
+    47.99277,
+    7.85232
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/museum-fuer-neue-kunst-museum-of-contemporary-art"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "frnaturmensch",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Meet mammoths and Baden earthworms at the natural history museum",
+   "desc": "The Museum Natur und Mensch on Gerberau traces Earth's history from minerals and fossils to mammoths, dinosaurs and regional species such as lynx, beaver and the Baden giant earthworm. Its collections go back to 1895 and it has a children's and family section.",
+   "tip": "Open Wednesday to Sunday 10:00 to 17:00 and Tuesday until 19:00. A good rainy-day stop in the Schneckenvorstadt.",
+   "q": "Museum Natur und Mensch, Gerberau 32, Freiburg im Breisgau",
+   "ll": [
+    47.99333,
+    7.8516
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/museum-natur-und-mensch-museum-of-nature-and-man"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "frkanonenplatz",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Watch the sunset from Kanonenplatz on the Schlossberg",
+   "desc": "The Schlossberg once carried the Burghalden castle and a Vauban fortress that was blown up when the French withdrew in the 18th century. Kanonenplatz on its slope is known for sunset views over the old town and Minster, and the Bismarck Tower dates from 1906.",
+   "tip": "Free at any time. Reach it on foot from the Schwabentor or by the Schlossbergbahn from the Stadtgarten.",
+   "q": "Kanonenplatz, Schlossberg, Freiburg im Breisgau",
+   "ll": [
+    47.99347,
+    7.85791
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/schlossberg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "fralterfriedhof",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Look for Sleeping Beauty at the Alter Friedhof",
+   "desc": "The Old Cemetery was founded in 1683 to replace a burial ground destroyed by Vauban's fortifications, and closed after the last burial in 1872. Its roughly 1,200 gravestones include those of sculptor Johann Christian Wentzinger and publisher Bartholomä Herder, plus the grave of 17-year-old Caroline Walter, which still receives fresh flowers.",
+   "tip": "A quiet park-like walk beside the Ludwigskirche, free at any time.",
+   "q": "Alter Friedhof, Ludwigstraße, Neuburg, Freiburg im Breisgau",
+   "ll": [
+    48.00075,
+    7.85697
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Alter_Friedhof_(Freiburg_im_Breisgau)",
+    "https://visit.freiburg.de/en/discover/outdoor-activities/nature-in-the-city"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "frgartenschlauch",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See Oldenburg's giant Garden Hose in Eschholzpark",
+   "desc": "Claes Oldenburg and Coosje van Bruggen's Gartenschlauch of 1983 is an eight-metre garden hose sculpture alluding to the allotments that once stood here. The park has lawns, a circular pergola and an avenue of 190 chestnut trees.",
+   "tip": "Free at any time. It is in Stühlinger, a short walk from the main station.",
+   "q": "Eschholzpark, Stühlinger, Freiburg im Breisgau",
+   "ll": [
+    47.99953,
+    7.83015
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/eschholzpark-freiburg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "frschauinslandturm",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the Eugen-Keidel-Turm on the Schauinsland",
+   "desc": "Built in 1980 on Freiburg's 1,284-metre local mountain, the 31-metre tower has a spiral staircase up to a platform. On clear days the view reaches the Black Forest, the Rhine plain, the Vosges and the Alps.",
+   "tip": "Free at any time. It is about 700 metres on foot from the mountain station; note that the Schauinslandbahn is closed for revision until 4 December 2026.",
+   "q": "Eugen-Keidel-Turm, Schauinsland, Freiburg im Breisgau",
+   "ll": [
+    47.91197,
+    7.89849
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/eugen-keidel-turm-schauinslandturm",
+    "https://visit.freiburg.de/en/schauinsland"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "frwaldtraut",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stand beneath Waldtraut, Germany's tallest tree",
+   "desc": "Waldtraut vom Mühlwald is a coastal Douglas fir planted in 1913 in the Günterstal city forest, measured at 67.85 metres in 2024 and still growing about 15 cm a year. It stands just south of the Arboretum Freiburg-Günterstal.",
+   "tip": "Reach it on foot via the Mühlwanderweg from Günterstal, where tram line 2 ends. Wear walking shoes.",
+   "q": "Waldtraut vom Mühlwald, Günterstäler Stadtwald, Freiburg im Breisgau",
+   "ll": [
+    47.95336,
+    7.86114
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Waldtraut_vom_M%C3%BChlwald",
+    "https://visit.freiburg.de/en/discover/outdoor-activities/nature-in-the-city"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "frwasserschloessle",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Taste the water at the Wasserschlössle in the Sternwald",
+   "desc": "The Wasserschlössle looks like a small castle but is a water tank that has supplied eastern Freiburg since 1895, with a design inspired by a city seal of 1245. A fountain in front lets visitors taste the water, and the hilltop looks over the old town and Minster.",
+   "tip": "Free at any time and quieter than the Schlossberg. It is on the edge of the Wiehre above Sternwaldwiese.",
+   "q": "Wasserschlössle, Sternwaldwiese, Wiehre, Freiburg im Breisgau",
+   "ll": [
+    47.98333,
+    7.86014
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/wasserschloessle-water-castle"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "frschneckenvorstadt",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find the granite crocodile in the Schneckenvorstadt",
+   "desc": "The Schneckenvorstadt behind the Martinstor and Schwabentor kept its medieval houses of tanners, dyers and butchers because it was not demolished for Vauban's fortifications. A 400-kilo granite crocodile has lain in the canal near Gerberau since 2001.",
+   "tip": "Walk Gerberau and Fischerau for small shops and cafés. Free at any time.",
+   "q": "Schneckenvorstadt, Gerberau, Insel, Freiburg im Breisgau",
+   "ll": [
+    47.99184,
+    7.85318
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/schneckenvorstadt-1"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "frvauban",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Cycle through the car-free eco-district of Vauban",
+   "desc": "Vauban was built from 1998 on a former French military base named for Sébastien Le Prestre de Vauban, with first residents in 2001 and about 5,300 people today. Most streets are parking-free, houses meet low-energy standards and the Solar Settlement has plus-energy homes.",
+   "tip": "Take the tram and explore by bike or on foot; some former barracks have been converted to alternative housing and a community centre.",
+   "q": "Vauban, Freiburg im Breisgau",
+   "ll": [
+    47.97583,
+    7.82472
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Vauban,_Freiburg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "frbaechle",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Follow the Bächle through the old town",
+   "desc": "The Bächle are shallow paved channels fed by water from the Dreisam, dating back to the founding of the town in the 12th century when they supplied water and fire-fighting. Local lore says anyone who steps into one has to marry a Freiburger.",
+   "tip": "Free at any time. From May to September locals hold Bächle picnics, often with Baden wine.",
+   "q": "Freiburger Bächle, Altstadt, Freiburg im Breisgau",
+   "ll": [
+    47.99387,
+    7.85203
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/freiburger-baechle"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "frjapangarten",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stroll the Japanese Garden in the Seepark",
+   "desc": "The Seepark was a gravel pit before the 1986 State Horticultural Show. Its 3,600 square metre Japanese garden, a 1990 gift from twin city Matsuyama, has a waterfall, stream, stone lanterns and boulders from the Schauinsland.",
+   "tip": "The park is free at any time; the garden is open daily from about 9:00 to 20:00. Pedal boats run on the Flückigersee in good weather.",
+   "q": "Seepark, Betzenhausen, Freiburg im Breisgau",
+   "ll": [
+    48.01077,
+    7.81936
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/lake-park-seepark-freiburg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "frfeierling",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink Inselhopf under the chestnuts at Feierling",
+   "desc": "Hausbrauerei Feierling on Gerberau brews the naturally cloudy organic Inselhopf, and its beer garden under old chestnut trees is one of Freiburg's oldest. The family says brewing here goes back over 140 years, and the menu is Baden home cooking.",
+   "tip": "Open daily 11:00 to midnight. Try Bibeleskäs or Brauerkäs with a beer.",
+   "q": "Hausbrauerei Feierling, Gerberau 46, Freiburg im Breisgau",
+   "ll": [
+    47.99332,
+    7.85264
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/hausbrauerei-feierling",
+    "https://visit.freiburg.de/en/discover/culinary/beer-gardens-and-beer"
+   ]
+  },
+  {
+   "id": "frgreiffenegg",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Baden dishes on the Greiffenegg-Schlössle terrace",
+   "desc": "The Greiffenegg-Schlössle on the Schlossberg serves Baden cooking with views over the old town roofs to the Black Forest, the Kaiserstuhl and the Vosges. Its Kastaniengarten beer garden has live music on many evenings.",
+   "tip": "Closed Monday and Tuesday; Sunday it opens at 10:00 and closes at 18:00. Reserve for sunset.",
+   "q": "Greiffenegg-Schlössle, Schlossbergring 3, Freiburg im Breisgau",
+   "ll": [
+    47.99265,
+    7.85552
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/greiffenegg-schloessle",
+    "https://visit.freiburg.de/en/discover/culinary/beer-gardens-and-beer"
+   ]
+  },
+  {
+   "id": "froberkirch",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sit in the tiled-stove Weinstube at Oberkirchs",
+   "desc": "Oberkirchs Weinstuben on Münsterplatz is a wine tavern and inn with a Weinstube of wood panelling and a tiled stove, and over 275 years of hospitality history. In summer the terrace looks onto the Minster.",
+   "tip": "Order a Baden wine with regional dishes. Open late; reservations through hotel-oberkirch.de.",
+   "q": "Oberkirchs Weinstuben, Münsterplatz 22, Freiburg im Breisgau",
+   "ll": [
+    47.99501,
+    7.8524
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/hotel-restaurant-oberkirch"
+   ]
+  },
+  {
+   "id": "frkartoffelhaus",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have rösti and potato dishes at the Kartoffelhaus",
+   "desc": "Das Kartoffelhaus on Basler Straße puts the potato at the centre of its menu, mixing Baden cooking with creative rösti and vegan and gluten-free options. It uses seasonal, mostly regional ingredients.",
+   "tip": "Weekdays it opens at 17:00, weekends at 12:00. Book ahead on busy evenings.",
+   "q": "Das Kartoffelhaus, Basler Straße 10, Freiburg im Breisgau",
+   "ll": [
+    47.98557,
+    7.83399
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/kartoffelhaus"
+   ]
+  },
+  {
+   "id": "frcafeschmidt",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try Black Forest cake at Café Schmidt",
+   "desc": "Café Schmidt on Bertoldstraße is a traditional café and confectionery that highlights its Black Forest cake, alongside homemade tarts and the local chocolates Freiburger Bobbele and Münsterspitzen. It has a terrace above the street.",
+   "tip": "Open Monday to Saturday 9:00 to 18:00, closed Sunday. Cash was recommended by one blog, so bring some.",
+   "q": "Café Schmidt, Bertoldstraße 19a, Freiburg im Breisgau",
+   "ll": [
+    47.99538,
+    7.84754
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/cafe-schmidt"
+   ]
+  },
+  {
+   "id": "frmarkthalle",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Graze the stalls of the Markthalle",
+   "desc": "The Freiburger Markthalle on Grünwälderstraße is a food hall in a former newspaper printing building. Stalls serve international and regional food, from Afghan palau and Brazilian feijoada to Baden Schäufele.",
+   "tip": "A casual lunch stop steps from the Martinstor. Café Zwilling is among the cafés inside.",
+   "q": "Markthalle Freiburg, Grünwälderstraße 4, Freiburg im Breisgau",
+   "ll": [
+    47.99413,
+    7.84977
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/markthalle-freiburg-market-place-freiburg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "frfoerstermax",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat fresh ice cream at Förster Max in the Wiehre",
+   "desc": "Förster Max on Dreikönigstraße makes its ice cream fresh daily from in-house recipes, alongside homemade cakes, tartlets, waffles and chocolates. It follows Slow Food principles and has a terrace and small garden.",
+   "tip": "Open Thursday to Sunday from 9:00 and Monday to Wednesday from 12:00. Pair it with a walk through the Wiehre.",
+   "q": "Förster Max, Dreikönigstraße 46, Wiehre, Freiburg im Breisgau",
+   "ll": [
+    47.98637,
+    7.85717
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/foerster-max-gbr"
+   ]
+  },
+  {
+   "id": "frwebers",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sip Weber wines with Baden tapas at Webers Weinstube",
+   "desc": "Webers Weinstube in the Wiehre pours wines from the Weber winery in Ettenheim with Baden specialities, tapas and sharing plates. It also serves cocktails and regional beers.",
+   "tip": "Open evenings only, from 18:00; late on Fridays and Saturdays. Reserve through its website.",
+   "q": "Webers Weinstube, Hildastraße 35, Wiehre, Freiburg im Breisgau",
+   "ll": [
+    47.98851,
+    7.85462
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/webers-weinstube"
+   ]
+  },
+  {
+   "id": "fraltewache",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste about 100 Baden wines at the Alte Wache",
+   "desc": "The Alte Wache, built in 1733 as quarters for the Austrian guard, is today the Haus der badischen Weine, one of the few 18th-century buildings in Freiburg to survive the war nearly intact. Visitors can taste and buy around 100 Baden wines on a terrace facing the Minster.",
+   "tip": "Open Monday to Saturday 10:00 to 21:00. Try the local Chasselas or Pinot Noir.",
+   "q": "Alte Wache, Haus der badischen Weine, Münsterplatz 38, Freiburg im Breisgau",
+   "ll": [
+    47.99531,
+    7.85342
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/alte-wache-house-of-baden-wines",
+    "https://visit.freiburg.de/en/discover/culinary/freiburg-wine"
+   ]
+  },
+  {
+   "id": "frflammkuchen",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order a Flammkuchen at Breisgauer Flammkuchen",
+   "desc": "Breisgauer Flammkuchen on Merianstraße bakes tarte flambée fresh from the oven, from the classic bacon and onion to vegetarian and sweet apple and cinnamon versions. It also does Flammkuchen burgers.",
+   "tip": "Open daily from 11:00. Try the traditional bacon and onion first.",
+   "q": "Breisgauer Flammkuchen, Merianstraße 3, Freiburg im Breisgau",
+   "ll": [
+    47.99702,
+    7.84967
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/breisgauer-flammkuchen"
+   ]
+  },
+  {
+   "id": "fromaskueche",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Enjoy Baden classics at Omas Küche",
+   "desc": "Omas Küche in the Wiehre serves traditional Baden dishes with a modern twist in a rustic interior and a chestnut-shaded terrace, with vegetarian and vegan choices.",
+   "tip": "Open Wednesday to Sunday 12:00 to 22:00. Book for the terrace in summer.",
+   "q": "Omas Küche, Hildastraße 66, Wiehre, Freiburg im Breisgau",
+   "ll": [
+    47.98522,
+    7.8537
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/omas-kueche"
+   ]
+  },
+  {
+   "id": "frmartinsbraeu",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste the monthly craft beer at Martin's Bräu",
+   "desc": "Martin's Bräu beside the Martinstor has brewed since 1989, with naturally cloudy house beers and a new craft beer from the master brewer every month, plus regional dishes from an open kitchen.",
+   "tip": "It has a beer garden in summer. Ask which monthly special is on tap.",
+   "q": "Martin's Bräu, Kaiser-Joseph-Straße 237, Freiburg im Breisgau",
+   "ll": [
+    47.99367,
+    7.8496
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/martins-braeu",
+    "https://visit.freiburg.de/en/discover/culinary/beer-gardens-and-beer"
+   ]
+  },
+  {
+   "id": "frhawara",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Book a tasting menu at Michelin-starred Hawara",
+   "desc": "Hawara in the Wiehre is led by Nicolai Heuer and Yannik Spielmann, with a Michelin star in 2025 and a Green Star. The seasonal regional menu uses vegetables from its own garden and natural wines.",
+   "tip": "Open Wednesday to Saturday evenings only; reserve well ahead on its website. Wednesdays offer a bistro menu à la carte.",
+   "q": "Hawara, Dreikönigstraße 8, Wiehre, Freiburg im Breisgau",
+   "ll": [
+    47.98957,
+    7.85696
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/hawara"
+   ]
+  },
+  {
+   "id": "frlangerote",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat a Lange Rote at the Münstermarkt",
+   "desc": "The Lange Rote is a grilled, skinless bratwurst about 35 cm long that Freiburg calls its crispiest emblem. Baker Josef Föhrenbach began selling the sausages in a water kettle in 1949 and put them on the grill two years later.",
+   "tip": "Stalls stand on Münsterplatz during market hours, Monday to Saturday mornings, and also at the Christmas market. Eat it in a bun with mustard.",
+   "q": "Münsterplatz, Altstadt, Freiburg im Breisgau",
+   "ll": [
+    47.9956,
+    7.85273
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/discover/culinary/sausage-lange-rote",
+    "https://visit.freiburg.de/en/muenstermarkt-freiburg"
+   ]
+  },
+  {
+   "id": "frhalde",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine on game and local produce at Die Halde",
+   "desc": "Die Halde, high on the Schauinsland, is a mountain restaurant in the Naturparkwirte Südschwarzwald network with Baden cooking that uses game from nearby hunts, local producers and spring water.",
+   "tip": "Kitchen hours are 12:30 to 14:30 and 17:30 to 19:30, with snacks from 14:30. Reachable by road; the Schauinslandbahn is closed until 4 December 2026.",
+   "q": "Die Halde, Halde 2, Hofsgrund, Oberried",
+   "ll": [
+    47.89108,
+    7.89278
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/die-halde"
+   ]
+  },
+  {
+   "id": "frschlossbergbahn",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Ride the Schlossbergbahn up from the Stadtgarten",
+   "desc": "The funicular climbs from the Stadtgarten to the 456-metre Schlossberg in about three minutes, carrying 25 people per cabin on request without a timetable. It is barrier-free.",
+   "tip": "A one-way ticket costs 3.50 euros and up and down 6 euros. Open Wednesday to Sunday 9:00 to 22:00 and Monday and Tuesday 10:00 to 18:00.",
+   "q": "Schlossbergbahn, Stadtgarten 1, Freiburg im Breisgau",
+   "ll": [
+    47.99715,
+    7.8574
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/schlossbergbahn"
+   ]
+  },
+  {
+   "id": "frschauinslandbahn",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Take the Schauinslandbahn cable car to the summit",
+   "desc": "Running since 1930, the 3.6-kilometre cable car climbs 746 metres in about 20 minutes and was the world's first passenger cable car with a circulating system. It rises from the valley station behind Günterstal to 1,284 metres.",
+   "tip": "It is closed for revision until 4 December 2026, so check the schedule. The valley station is at Bohrerstraße 11, Horben.",
+   "q": "Schauinslandbahn Talstation, Bohrerstraße 11, Horben",
+   "ll": [
+    47.9361,
+    7.865
+   ],
+   "src": [
+    "https://www.schauinslandbahn.de/en/service/anfahrt",
+    "https://visit.freiburg.de/en/discover/excursion-destinations-around-freiburg/local-mountain-schauinsland"
+   ]
+  },
+  {
+   "id": "frmundenhof",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Feed farm animals at the Mundenhof",
+   "desc": "The Tier-Natur-Erlebnispark Mundenhof has been open since 1968 and is the largest animal habitat in Baden-Württemberg at about 38 hectares. It focuses on domestic and farm animals and also has Javan monkeys, gibbons, meerkats and an aquarium.",
+   "tip": "Access is free at any time and it has two playgrounds and snack stands. Good with children.",
+   "q": "Tier-Natur-Erlebnispark Mundenhof, Mundenhof, Freiburg im Breisgau",
+   "ll": [
+    48.01335,
+    7.78043
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/animal-habitat-mundenhof"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "frzmf",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Catch a concert at the Zelt-Musik-Festival",
+   "desc": "The ZMF has run since 1983 on the Mundenhof meadows with circus and mirror tents, drawing about 120,000 visitors. The main programme needs tickets, but the grounds and the free daily performances on several stages are open to all.",
+   "tip": "It runs for about three weeks in July. Tickets via zmf.de.",
+   "q": "Zelt-Musik-Festival, Mundenhofer Straße, Freiburg im Breisgau",
+   "ll": [
+    48.00891,
+    7.78038
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/zelt-musik-festival",
+    "https://www.zmf.de/"
+   ],
+   "months": [
+    7
+   ]
+  },
+  {
+   "id": "frweinfest",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Join the Freiburger Weinfest around the Minster",
+   "desc": "Six days of wine on Münsterplatz with over 400 wines and regional dishes, opened in front of the Historisches Kaufhaus. The 2026 edition drew about 110,000 guests, and the 2027 dates are 1 to 6 July.",
+   "tip": "Entry is free. Go early evening and try Baden wines such as Gutedel and Spätburgunder.",
+   "q": "Münsterplatz, Altstadt, Freiburg im Breisgau",
+   "ll": [
+    47.9956,
+    7.85273
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/events/top-10-events",
+    "https://fwtm.freiburg.de/fileadmin/user_upload/FWTM/PR/2026/2026-07-08_Bilanz_Freiburger_Weinfest_2026.pdf"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    7
+   ]
+  },
+  {
+   "id": "frweihnachtsmarkt",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Drink Glühwein at the Freiburg Christmas Market",
+   "desc": "Freiburg's market began in 1973 with 20 stalls and now has over 120 across seven or eight old-town sites around Rathausplatz, with winemakers' mulled wine, roasted almonds and Lange Rote. Colombi Park in front of the Colombischlössle is lit as a photo spot with a raclette stall.",
+   "tip": "The 2026 market runs from about 19 November to 23 December, closed on Totensonntag. Entry is free.",
+   "q": "Weihnachtsmarkt, Rathausplatz, Altstadt, Freiburg im Breisgau",
+   "ll": [
+    47.9959,
+    7.8496
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/christmas-in-freiburg",
+    "https://weihnachtsmarkt.freiburg.de/en/history"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    11,
+    12
+   ]
+  },
+  {
+   "id": "frfasnet",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Watch the Fasnetmendig parade in the old town",
+   "desc": "Freiburg's carnival has guilds of the Breisgauer Narrenzunft in costume and wooden masks, with the free Fasnetmendig parade the highlight and mentions of the carnival reaching back to 1539. The season opens on 11 November with a beer barrel at the town hall.",
+   "tip": "The 2027 parade is on Monday, 8 February at 14:00 in the old town. Try Fasnetsküchli, fried dough dusted with sugar.",
+   "q": "Altstadt, Kaiser-Joseph-Straße, Freiburg im Breisgau",
+   "ll": [
+    47.99532,
+    7.85042
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/freiburg-fasnet",
+    "https://visit.freiburg.de/en/grosser-fasnetmendigumzug"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    2
+   ]
+  },
+  {
+   "id": "frdreisam",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cool off on the Dreisam fish ladder at the Schwabentorbrücke",
+   "desc": "The fish ladder under the Schwabentor bridge was built in 2019 to let fish move into the Dreisam valley, and has become a place where residents sit on the stones and cool off in summer.",
+   "tip": "Free. Water levels vary, so check conditions and avoid it after heavy rain.",
+   "q": "Fischtreppe, Schwabentorbrücke, Freiburg im Breisgau",
+   "ll": [
+    47.99097,
+    7.85455
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/fischtreppe",
+    "https://visit.freiburg.de/en/discover/outdoor-activities/nature-in-the-city"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "frbergwerk",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Go underground in the Schauinsland mining museum",
+   "desc": "The mountain was mined for silver, lead and zinc for 800 years, and the Museums-Bergwerk Schauinsland is the region's largest mining museum, reached by guided tour through part of about 100 kilometres of tunnels. It stays around 10 degrees Celsius.",
+   "tip": "Visits are guided only; open Sundays from 11:00 to 16:00. Bring warm clothes and sturdy shoes.",
+   "q": "Museums-Bergwerk Schauinsland, Schauinslandstraße 390, Oberried",
+   "ll": [
+    47.90955,
+    7.89862
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/museums-bergwerk-schauinsland"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "frganter",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Tour the Ganter brewery and taste its beers",
+   "desc": "Ganter, founded in 1865 by Louis Ganter, is a family brewery that still delivers draught beer by horse and cart in the old town. Guided tours include a tasting in the historic brewhouse, and the Ganter Hausbiergarten nearby lets guests bring their own food.",
+   "tip": "Book the tour through Ganter Brauerlebnis; tours have run on Fridays in the evening.",
+   "q": "Brauerei Ganter, Schwarzwaldstraße 43, Freiburg im Breisgau",
+   "ll": [
+    47.99049,
+    7.8609
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/brewery-ganter",
+    "https://visit.freiburg.de/en/discover/culinary/beer-gardens-and-beer"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "frmuenstermarkt",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Münstermarkt around the Minster",
+   "desc": "The Münstermarkt fills Münsterplatz with fresh fruit, vegetables, flowers and regional specialities, with farmers and olive sellers offering free cooking tips. It is a Slow Food favourite with the Lange Rote stalls.",
+   "tip": "Open Monday to Friday 7:30 to 13:30 and Saturday 7:30 to 14:00, closed Sunday. Go before noon.",
+   "q": "Münstermarkt, Münsterplatz, Altstadt, Freiburg im Breisgau",
+   "ll": [
+    47.9956,
+    7.85273
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/muenstermarkt-freiburg",
+    "https://visit.freiburg.de/en/muensterplatz-freiburg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "frpanoramaweg",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the Panoramaweg loop above the old town",
+   "desc": "This easy 1.8-kilometre circular trail starts at the Schwabentor, climbs 74 metres to Kanonenplatz and returns past the Greiffenegg-Schlössle, with views over the Wiehre and the Minster. The Dattler restaurant sits next to the funicular summit station.",
+   "tip": "Allow about 30 minutes plus stops. Take tram line 1 to Schwabentorplatz.",
+   "q": "Schwabentor, Oberlinden, Freiburg im Breisgau",
+   "ll": [
+    47.99288,
+    7.85417
+   ],
+   "src": [
+    "https://visit.freiburg.de/en/panoramaweg-ueber-der-stadt"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

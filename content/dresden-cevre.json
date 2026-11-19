@@ -1,0 +1,699 @@
+{
+ "new": [
+  {
+   "id": "ddalbrechtsburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the Albrechtsburg, Germany's first castle palace",
+   "desc": "Begun after 1471 for the Wettin rulers Ernst and Albrecht and designed by Arnold von Westfalen, the Albrechtsburg is a late Gothic residence on Meissen's castle hill. From 1710 it housed Europe's first porcelain manufactory under Augustus the Strong.",
+   "tip": "A combined ticket also covers the cathedral next door; allow about 1.5 hours. Opening hours are shorter in winter, so check ahead.",
+   "q": "Albrechtsburg, Domplatz 1, Meißen",
+   "ll": [
+    51.16606,
+    13.47072
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Albrechtsburg",
+    "https://en.wikipedia.org/wiki/Meissen_porcelain"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ddmeissendom",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Meissen Cathedral and the Wettin Princes' Chapel",
+   "desc": "The Gothic cathedral of St John and St Donatus was begun around 1260 on the site of an 11th-century basilica and is considered one of Germany's purest Gothic churches. The Princes' Chapel from 1425 holds the Wettin tombs, and a Cranach triptych stands in the Georgskapelle.",
+   "tip": "The 81 m twin spires date from 1903 to 1909 and can be climbed in season. Combine with the Albrechtsburg on one ticket.",
+   "q": "Meißner Dom, Domplatz 7, Meißen",
+   "ll": [
+    51.16277,
+    13.47111
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Meißner_Dom"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ddfrauenkirchemeissen",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Hear the porcelain carillon at Meissen's Frauenkirche",
+   "desc": "The late Gothic hall church on the market square was rebuilt between about 1450 and 1520. Its tower holds a 37-bell porcelain carillon installed in 1929, the first tunable, playable porcelain carillon in the world.",
+   "tip": "The bells play several times a day; the market square also holds the Vincenz Richter wine tavern.",
+   "q": "Frauenkirche, Markt, Meißen",
+   "ll": [
+    51.16268,
+    13.47004
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Frauenkirche_(Meißen)"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddmeissenporzellan",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Watch porcelain being made at Meissen Manufactory",
+   "desc": "Founded in 1710 with Böttger's invention of European hard-paste porcelain, the manufactory has used its crossed swords mark since the 1720s. The Erlebniswelt in the Triebischtal site at Talstraße 9 shows live demonstrations and a museum.",
+   "tip": "Book a combined ticket with the Albrechtsburg if you plan both. The Café Meissen on site serves the Meissner Torte.",
+   "q": "Erlebniswelt Haus Meissen, Talstraße 9, Meißen",
+   "ll": [
+    51.15556,
+    13.46611
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Meissen_porcelain",
+    "https://museum.de/en/museen/erlebniswelt-haus-meissenr-in-der-porzellan-manufaktur-meissen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ddmoritzburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the lake-ringed Moritzburg Castle",
+   "desc": "A Renaissance hunting lodge built 1542 to 1546 for Duke Moritz was converted into a Baroque palace between 1722 and 1730 by Pöppelmann for Augustus the Strong. It stands on an artificial island and was a location for the 1972 film Three Hazelnuts for Cinderella.",
+   "tip": "Visit in winter to see the Cinderella exhibition. A walk around the Schlossteich takes about an hour.",
+   "q": "Schloss Moritzburg, Schloßallee, Moritzburg",
+   "ll": [
+    51.1672,
+    13.6794
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Moritzburg_(Sachsen)"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddfasanenschloesschen",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Fasanenschlösschen by the Moritzburg ponds",
+   "desc": "The Rococo pheasant lodge with chinoiserie details was built between 1769 and 1782 on the site of a 1738 pavilion, probably by Johann Daniel Schade. It sits among ponds in the Moritzburg park.",
+   "tip": "A horse-drawn carriage or a 2 km walk from the main castle reaches it. Tours are guided and seasonal.",
+   "q": "Fasanenschlösschen, Moritzburg",
+   "ll": [
+    51.167944,
+    13.706361
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Fasanenschlösschen_(Moritzburg)"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddkarlmay",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Meet Winnetou at the Karl May Museum in Radebeul",
+   "desc": "Karl May lived in Villa Shatterhand from 1896 until his death in 1912; since 1985 it houses the museum's biographical exhibition. The log cabin Villa Bärenfett, built 1926 by Patty Frank, holds a large Native American collection and opened as a museum in 1928.",
+   "tip": "A short walk from Radebeul Ost tram stop. The garden and both houses can be visited on one ticket.",
+   "q": "Karl-May-Museum, Karl-May-Straße 5, Radebeul",
+   "ll": [
+    51.102708,
+    13.673517
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Karl-May-Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ddspitzhaus",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb 390 steps to the Spitzhaus above Radebeul",
+   "desc": "A vineyard pleasure house said to date to 1622, redesigned in Baroque style by Pöppelmann in 1749. The Spitzhaustreppe, with 390 steps rising 76 m, is Saxony's largest Baroque staircase and gives views over Radebeul and the Elbe valley.",
+   "tip": "The house now operates as a restaurant and guesthouse. Come at golden hour for the vineyard view.",
+   "q": "Spitzhaus, Spitzhaustreppe, Radebeul",
+   "ll": [
+    51.113814,
+    13.666933
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Spitzhaus"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ddreichenturm",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Spot the leaning Reichenturm in Bautzen",
+   "desc": "Bautzen's 56 m Reichenturm was begun in 1490 and its top leans about 1.44 m from the vertical, more than the Tower of Pisa's tilt per height. It is one of the town's many medieval towers.",
+   "tip": "Tower climbs run in season and give a view across the Spree valley.",
+   "q": "Reichenturm, Reichenstraße, Bautzen",
+   "ll": [
+    51.181047,
+    14.427347
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Reichenturm"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddwasserkunst",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Alte Wasserkunst above the Spree",
+   "desc": "This 47 m tower, built in 1558 on a predecessor from 1495, pumped drinking water from the Spree to the town and formed part of the fortifications. Decommissioned in 1965, it is now a technical museum.",
+   "tip": "Combine with the Spree-side view of the Ortenburg and the Sorbian Museum nearby.",
+   "q": "Alte Wasserkunst, Wasserstraße, Bautzen",
+   "ll": [
+    51.180667,
+    14.420647
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Alte_Wasserkunst_(Bautzen)",
+    "https://visitsaxony.com/poi/old-waterworks-and-the-ortenburg-bautzen"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddsorbmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Learn Sorbian culture at the Sorbian Museum in Bautzen",
+   "desc": "The museum in the Salzhaus on the Ortenburg covers the history, language, literature and folk culture of the Sorbs in Upper and Lower Lusatia. It became an independent museum in June 1989.",
+   "tip": "Visit around Easter to see the Sorbian painted Easter eggs tradition referenced in the region.",
+   "q": "Sorbisches Museum, Ortenburg 3, Bautzen",
+   "ll": [
+    51.18344,
+    14.41933
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Sorbisches_Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ddrammenau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour Baroque Schloss Rammenau and the Fichte museum",
+   "desc": "Built 1721 to 1731 by Johann Christoph Knöffel for Ernst Ferdinand von Knoch, the palace has a Chinese room from about 1730. It houses a museum for the philosopher Johann Gottlieb Fichte, who was born in Rammenau, and stands in a landscape park.",
+   "tip": "The park is free to walk; guided palace tours are timed.",
+   "q": "Schloss Rammenau, Bautzner Straße 6, Rammenau",
+   "ll": [
+    51.1591,
+    14.1284
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Rammenau"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddmarienstern",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit St. Marienstern, a Cistercian abbey since 1248",
+   "desc": "The Cistercian nunnery at Panschwitz-Kuckau was founded in 1248 and has existed without interruption since. It lies in the Catholic heartland of Upper Lusatia and a Sorbian-speaking area.",
+   "tip": "The abbey shop sells convent-made products; the surrounding area is a good cycling route.",
+   "q": "Kloster St. Marienstern, Panschwitz-Kuckau",
+   "ll": [
+    51.23268,
+    14.20127
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kloster_St._Marienstern"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddgoerlitzkaufhaus",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Görlitz department store from Grand Budapest Hotel",
+   "desc": "The Jugendstil Kaufhaus was designed by Carl Schmanns and opened in 1913. Wes Anderson chose it as the lobby of The Grand Budapest Hotel, and it has stood closed since 2009 under successive plans for a revival.",
+   "tip": "Only the outside can be seen. The old town of Görlitz offers many other film locations on a self-guided walk.",
+   "q": "Kaufhaus Görlitz, Berliner Straße 2, Görlitz",
+   "ll": [
+    51.152772,
+    14.987567
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kaufhaus_Görlitz"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ddpeterskirche",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Hear the Sun Organ in Görlitz's Peterskirche",
+   "desc": "The late Gothic Peterskirche was built between 1425 and 1497, with two 84 m towers. Its organ case dates from 1703; the current Sun Organ was built by Mathis Orgelbau and expanded to 2021.",
+   "tip": "Organ concerts run on selected days; check the schedule.",
+   "q": "Peterskirche, Petersstraße, Görlitz",
+   "ll": [
+    51.158388,
+    14.992366
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Peterskirche_Görlitz"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ddoybin",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the Oybin castle and monastery ruins",
+   "desc": "Emperor Charles IV founded a Celestine monastery on this 514 m sandstone rock in 1369. The ruins attracted Romantic painters including Caspar David Friedrich.",
+   "tip": "Take the narrow-gauge train from Zittau to Oybin, then walk up the rock; sturdy shoes recommended.",
+   "q": "Burg und Kloster Oybin, Hauptstraße 16, Oybin",
+   "ll": [
+    50.84564,
+    14.74474
+   ],
+   "src": [
+    "https://visitsaxony.com/poi/oybin-castle-and-monastery-oybin",
+    "https://de.wikipedia.org/wiki/Oybin_(Berg)"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddherrnhut",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Discover Herrnhut and its Moravian stars",
+   "desc": "Herrnhut was founded in 1722 by Moravian refugees on Count Zinzendorf's estate and became the base of the Moravian Church. The town makes the illuminated Herrnhuter Sterne, and its Moravian settlement was made a UNESCO World Heritage Site in 2024.",
+   "tip": "The star workshop and showroom can be visited; the church and cemetery on the Hutberg are worth a walk.",
+   "q": "Herrnhut, Oberlausitz",
+   "ll": [
+    51.01667,
+    14.74167
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Herrnhut",
+    "https://www.visitsaxony.com/destinations/unesco-world-heritage/herrnhuter-bruedergemeine-moravian-church"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddrakotz",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Photograph the Rakotzbrücke in Kromlau park",
+   "desc": "The 19.8 m semicircular basalt arch bridge in the Azalea and Rhododendron Park Kromlau was built between 1866 and 1875 for the landowner Roetschke. Its reflection in the Rakotzsee forms a full circle.",
+   "tip": "The bridge itself is closed to walking to protect it; view from the shore. Visit in May for the rhododendrons.",
+   "q": "Rakotzbrücke, Azaleen- und Rhododendronpark Kromlau, Gablenz",
+   "ll": [
+    51.536302,
+    14.640477
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Rakotzbrücke"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ddmuskau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stroll Fürst-Pückler-Park Bad Muskau",
+   "desc": "Prince Pückler created this 830 ha English-style landscape park from 1815 to 1845 on both sides of the Neisse. It is a UNESCO World Heritage Site since 2004, with the reconstructed New Castle at its centre.",
+   "tip": "Walk over the border bridge into the Polish half; bring ID. Allow half a day.",
+   "q": "Fürst-Pückler-Park, Neues Schloss, Bad Muskau",
+   "ll": [
+    51.5528,
+    14.723
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Fürst-Pückler-Park_Bad_Muskau"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddglasmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Lusatian glass at the Glasmuseum Weißwasser",
+   "desc": "The museum in the 1924/25 Gelsdorf villa holds over 60,000 objects documenting the Lusatian glass industry, from Arsall Art Nouveau glass to Wilhelm Wagenfeld's designs and technical glass.",
+   "tip": "Special exhibitions rotate; check what is on before going.",
+   "q": "Glasmuseum Weißwasser, Forster Straße, Weißwasser",
+   "ll": [
+    51.50685,
+    14.6344
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Glasmuseum_Weißwasser"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ddproschwitz",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Meissen wine at Schloss Proschwitz",
+   "desc": "Saxony's oldest surviving private winery, rebuilt from 1990 by Georg Prinz zur Lippe, has been a VDP member since 1996. It farms about 70 ha, with Spätburgunder and Grauburgunder the main varieties.",
+   "tip": "Try the Grauburgunder or Weißburgunder; the estate also runs a hotel and restaurant. Book tastings ahead.",
+   "q": "Weingut Schloss Proschwitz, Dorfanger 19, Zadel, Meißen",
+   "ll": [
+    51.18022,
+    13.47877
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Proschwitz"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddvincenzrichter",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine on Saxon goose at Vincenz Richter in Meissen",
+   "desc": "A family winery restaurant since 1873 in a clothmaker's house from 1523 beside the Frauenkirche, with antiques and a courtyard. It serves Saxon cuisine with its own Meissen wines.",
+   "tip": "Try the goose menu in season and the Vincenz wine cream dessert.",
+   "q": "Restaurant Vincenz Richter, An der Frauenkirche 12, Meißen",
+   "ll": [
+    51.162903,
+    13.469879
+   ],
+   "src": [
+    "https://www.visitsaxony.com/gastro/restaurant-vincenz-richter"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddwjelbik",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Sorbian roulade at Wjelbik in Bautzen",
+   "desc": "A Sorbian restaurant in a 600-year-old vaulted building in the old town, serving Sorbian and Lusatian specialities. It is recommended by VisitSaxony for experiencing Sorbian food culture.",
+   "tip": "Order the Sorbian beef roulade filled with veal; closed Sunday and Monday, so book ahead.",
+   "q": "Sorbisches Restaurant Wjelbik, Kornstraße 7, Bautzen",
+   "ll": [
+    51.18206,
+    14.42517
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/bautzen/wjelbik/",
+    "https://www.wjelbik.de"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddsenfladen",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Bautz'ner mustard at the Senfladen",
+   "desc": "Bautzen mustard began with Britze & Söhne in 1866 and became the GDR's most popular mustard. Since 2008 a mustard shop and museum at the Fleischmarkt lets visitors sample many varieties.",
+   "tip": "Try the medium-hot original and a horseradish blend, and buy a jar from the counter.",
+   "q": "Bautz'ner Senfladen, Fleischmarkt 5, Bautzen",
+   "ll": [
+    51.18105,
+    14.42735
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Bautz’ner_Senf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ddobermuehle",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat slow food at Obermühle on the Neisse in Görlitz",
+   "desc": "A mill-island restaurant and brewery with farm-to-table cooking and home-grown vegetables, awarded the German Sustainability Award in gastronomy in 2025. It offers beer tastings and boat hire on the Neisse.",
+   "tip": "Book beer tastings in advance; sit on the sun terrace in summer.",
+   "q": "Obermühle Görlitz, Inselweg, Görlitz",
+   "ll": [
+    51.144289,
+    14.993001
+   ],
+   "src": [
+    "https://www.visitsaxony.com/gastro/obermuehle-goerlitz"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddnachtschmied",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink in the 1870 beer hall Zum Nachtschmied",
+   "desc": "A tavern on Görlitz's Obermarkt in an original old-German beer hall dating from 1870, serving regional daily dishes and hearty festive menus.",
+   "tip": "Opens from 5 pm and closes Sundays except holidays; order the daily regional special.",
+   "q": "Schankhaus Zum Nachtschmied, Obermarkt 18, Görlitz",
+   "ll": [
+    51.15526,
+    14.98612
+   ],
+   "src": [
+    "https://web.destination.one/nl/gastro/zum-nachtschmied-schankhaus-goerlitz"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddlandskron",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Tour the Landskron brewery and Kulturbrauerei",
+   "desc": "Founded in 1869 as Görlitzer Aktien-Brauerei, Landskron brews with open fermentation vats. A visitor centre shows brewery and city history.",
+   "tip": "Finish at the brewery bar with a Landskron beer and bratwurst.",
+   "q": "Landskron Brau-Manufaktur, An der Landskronbrauerei 116, Görlitz",
+   "ll": [
+    51.140278,
+    14.988333
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Landskron_Brauerei",
+    "https://visitsaxony.com/poi/landskron-brewery-and-culture-brewery-grlitz"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddschreiber",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Take coffee and Baumkuchen at Café Schreiber, Meissen",
+   "desc": "A confectioner on the Elbstraße run in the fifth generation since 1867, known for Baumkuchen, wedding cakes, truffles and Saxon cakes, and recognised by Feinschmecker.",
+   "tip": "Try the Baumkuchen and a slice of Saxon cake with coffee.",
+   "q": "Café & Konditorei Schreiber, Elbstraße 31, Meißen",
+   "ll": [
+    51.16149,
+    13.48467
+   ],
+   "src": [
+    "https://visitsaxony.com/gastro/cafe-konditorei-schreiber"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddnaundorf",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink Saxon wine at the Naundorfer Weinstube",
+   "desc": "A village wine bar in Radebeul's Altnaundorf serving wines from Saxon winemakers, home-made tarte flambée, small cold dishes and fresh Költzsch beer on tap.",
+   "tip": "Opening varies with demand, usually from the afternoon; check before going.",
+   "q": "Naundorfer Weinstube, Altnaundorf 21, Radebeul",
+   "ll": [
+    51.112562,
+    13.606249
+   ],
+   "src": [
+    "https://www.visitsaxony.com/gastro/naundorf-wine-bar"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddhochwaldbaude",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Bohemian-Saxon dishes at the Hochwaldbaude",
+   "desc": "A mountain hut restaurant at the Hochwald summit area (about 750 m) on the Czech border, serving Saxon and Bohemian dishes.",
+   "tip": "Walk up from Oybin first; the Hochwald tower tavern nearby is an alternative. Call ahead for hours.",
+   "q": "Hochwaldbaude, Hochwaldweg 6, Oybin",
+   "ll": [
+    50.8225,
+    14.7261
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Hochwald_(Zittauer_Gebirge)",
+    "https://visitsaxony.com/tour/hike-to-the-lookout-mountain-hochwald-749-m"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddloessnitzgrund",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Lößnitzgrundbahn steam train to Moritzburg",
+   "desc": "The 750 mm narrow-gauge line from Radebeul Ost to Radeburg, opened in 1884, is about 16.5 km long and runs heritage steam services.",
+   "tip": "Get off at Moritzburg for the castle; check the steam timetable.",
+   "q": "Bahnhof Radebeul Ost, Radebeul",
+   "ll": [
+    51.099105,
+    13.679363
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Lößnitzgrundbahn"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddzittautrain",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Zittau narrow-gauge steam train to Oybin",
+   "desc": "The Zittauer Schmalspurbahn runs 750 mm lines from Zittau to Kurort Oybin and Kurort Jonsdorf, about 16 km in total, with steam locomotives.",
+   "tip": "The narrow-gauge platform is at Zittau station; combine with the Oybin ruins.",
+   "q": "Bahnhof Zittau, Zittau",
+   "ll": [
+    50.904167,
+    14.805833
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Zittauer_Schmalspurbahn",
+    "https://de.wikipedia.org/wiki/Bahnhof_Zittau"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddberzdorf",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim or walk around Berzdorfer See",
+   "desc": "A flooded former lignite pit south of Görlitz, 9.6 km2 and 72 m deep, with a swimming beach at Blaue Lagune and an 18 km shore path.",
+   "tip": "Swim from summer beaches; sailing is allowed April to October.",
+   "q": "Berzdorfer See, Görlitz",
+   "ll": [
+    51.08968,
+    14.9506
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Berzdorfer_See"
+   ],
+   "tags": [],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "ddgeierswalde",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Surf or swim on Geierswalder See",
+   "desc": "A 6.5 km2 lake of the Lusatian Lakeland northwest of Hoyerswerda, linked by canal to Senftenberger See. Surfing and swimming are allowed May to September.",
+   "tip": "Combine with the canal to the neighbouring lakes by boat.",
+   "q": "Geierswalder See, Elsterheide",
+   "ll": [
+    51.50744,
+    14.11273
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Geierswalder_See"
+   ],
+   "tags": [],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "ddaltstadtbruecke",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Altstadtbrücke into Poland",
+   "desc": "The 80 m steel arch Altstadtbrücke opened in 2004 and links Görlitz with Zgorzelec for pedestrians and cyclists across the Lusatian Neisse.",
+   "tip": "Bring ID; view the old town skyline from the Polish bank.",
+   "q": "Altstadtbrücke, Görlitz",
+   "ll": [
+    51.157656,
+    14.994
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Altstadtbrücke_(Görlitz)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ddfelsenstadt",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Jonsdorf Felsenstadt rock town",
+   "desc": "A sandstone rock maze in the Zittau Mountains Nature Park with the Friedrichssteine and Schalkstein, next to old millstone quarries.",
+   "tip": "Parts are only open outside bird breeding season; stay on marked paths.",
+   "q": "Jonsdorfer Felsenstadt, Kurort Jonsdorf",
+   "ll": [
+    50.84579,
+    14.68651
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Jonsdorfer_Felsenstadt"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ddzoohoyerswerda",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Visit Zoo Hoyerswerda beside the castle",
+   "desc": "Created in 1959 from the castle garden, the 6 ha zoo keeps brown bears, Amur tigers, Humboldt penguins and Galápagos giant tortoises.",
+   "tip": "The castle with the city museum stands next door.",
+   "q": "Zoo Hoyerswerda, Schloss, Hoyerswerda",
+   "ll": [
+    51.4382,
+    14.2486
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Zoo_Hoyerswerda"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ddhochwaldwalk",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike up the Hochwald from Oybin",
+   "desc": "A roughly 7.5 km round trip from the Haus des Gastes in Oybin up the 749 m Hochwald, whose 25 m stone tower from 1892 gives wide views.",
+   "tip": "Takes about three hours; refreshments at the Hochwaldbaude and tower tavern.",
+   "q": "Haus des Gastes Oybin, Oybin",
+   "ll": [
+    50.842597,
+    14.740698
+   ],
+   "src": [
+    "https://visitsaxony.com/tour/hike-to-the-lookout-mountain-hochwald-749-m"
+   ],
+   "tags": []
+  }
+ ]
+}

@@ -52,6 +52,7 @@ window.MOVED = {
 "brussel/villers": "namur/villers",
 "brussel/waterloo": "namur/waterloo",
 "denbosch/maashorst": "arnhem/maashorst",
+"dortmund/doeisenbahnmuseum": "essen/doeisenbahnmuseum",
 "duesseldorf/eschbachtalsperre": "koeln/eschbachtalsperre",
 "duesseldorf/krickenbeckerseen": "essen/krickenbeckerseen",
 "eindhoven/baarle": "breda/baarle",

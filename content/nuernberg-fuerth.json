@@ -1,0 +1,625 @@
+{
+ "new": [
+  {
+   "id": "nucadolzburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore Cadolzburg Castle and the Hohenzollern story",
+   "desc": "Cadolzburg was the Franconian power centre of the Hohenzollern burgraves of Nuremberg in the 14th and 15th centuries. It was first mentioned in 1157, passed to Bavaria in 1806 and was largely destroyed by fire in 1945. Today the rebuilt castle houses the museum exhibition HerrschaftsZeiten! with about 1,500 m2 of displays.",
+   "tip": "Closed on Mondays; open 9-18 (April-September) or 10-16 (October-March). Reach it by regional train from Fürth or Nuremberg, then a 10-minute walk from the Höhbuck car park.",
+   "q": "Burg Cadolzburg, Burghof 3, 90556 Cadolzburg",
+   "ll": [
+    49.45991,
+    10.85032
+   ],
+   "src": [
+    "https://burg-cadolzburg.de/englisch/castle/index.htm",
+    "https://tourismus.nuernberg.de/en/discover/museums/the-cadolzburg-experience/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nujmfuerth",
+   "cat": "gor",
+   "area": "fuerth",
+   "title": "Visit the Jewish Museum Franken in Fürth",
+   "desc": "The Jewish Museum Franken was founded in 1990 and has three sites; the main one in Fürth reopened in 2018 after an extension of about 900 m2. Fürth was one of the most important Jewish communities in Germany, and the museum tells its story and that of Franconian Jewry.",
+   "tip": "Allow around 90 minutes. Check current opening hours on the museum website before visiting.",
+   "q": "Jüdisches Museum Franken, Königstraße 89, 90762 Fürth",
+   "ll": [
+    49.47709,
+    10.99032
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/J%C3%BCdisches_Museum_Franken",
+    "https://www.juedisches-museum.org"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nujmschwabach",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Jewish Museum branch in Schwabach",
+   "desc": "The Schwabach site of the Jewish Museum Franken opened in June 2015 in a former Jewish residential house in the old town. It documents the small Jewish community of the gold-beater town.",
+   "tip": "Combine it with the Goldschläger workshop in the old town. Check the opening days on the museum website.",
+   "q": "Jüdisches Museum Franken, Synagogengasse 10, 91126 Schwabach",
+   "ll": [
+    49.33142,
+    11.0227
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/J%C3%BCdisches_Museum_Franken",
+    "https://www.juedisches-museum.org"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nujmschnaittach",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Step into the 1570 synagogue in Schnaittach",
+   "desc": "The Schnaittach branch of the Jewish Museum Franken is housed in a synagogue built in 1570 with an attached rabbi's house and ritual bath. It is one of the oldest preserved rural Jewish ensembles in southern Germany.",
+   "tip": "Visits are best planned for weekends; confirm opening times on juedisches-museum.org.",
+   "q": "Jüdisches Museum Franken Schnaittach, Museumsstraße 12, 91220 Schnaittach",
+   "ll": [
+    49.55787,
+    11.34121
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/J%C3%BCdisches_Museum_Franken",
+    "https://www.juedisches-museum.org"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nufuerthgustav",
+   "cat": "dene",
+   "area": "fuerth",
+   "title": "Stroll Gustavstraße and Fürth's old town",
+   "desc": "Gustavstraße is the old main street of Fürth and the heart of its Altstadt, lined with half-timbered and sandstone houses that hold many traditional taverns. Nearby are the Grüner Markt, historically the centre of old Fürth, and St. Michael church.",
+   "tip": "Come in the evening for a Franconian beer and a meal in one of the Gasthäuser, or during the Kirchweih in October.",
+   "q": "Gustavstraße, 90762 Fürth",
+   "ll": [
+    49.47918,
+    10.98864
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/F%C3%BCrth",
+    "https://www.urlaubsguru.de/deutschlandliebe/sehenswuerdigkeiten-fuerth/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "nufuerthrathaus",
+   "cat": "gor",
+   "area": "fuerth",
+   "title": "Look up at Fürth's Palazzo Vecchio-style town hall",
+   "desc": "Fürth's town hall was built in 1840-50 in classicist style, with a tower that echoes the Palazzo Vecchio in Florence. It stands in the city centre close to the main shopping street.",
+   "tip": "The outside is free to admire at any time. Pair it with a walk to the nearby Jewish Museum.",
+   "q": "Rathaus Fürth, Königstraße 86, 90762 Fürth",
+   "ll": [
+    49.4774,
+    10.9886
+   ],
+   "src": [
+    "https://www.urlaubsguru.de/deutschlandliebe/sehenswuerdigkeiten-fuerth/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "nufuerthkirchweih",
+   "cat": "dene",
+   "area": "fuerth",
+   "title": "Join the Fürth Michaelis-Kirchweih in October",
+   "desc": "The Michaelis-Kirchweih is Fürth's big fair held in the city centre for about twelve days in autumn; the 2026 edition runs from 3 to 14 October, with a harvest thanksgiving parade on 11 October. It is a classic Franconian Kirchweih with rides, stalls and beer tents.",
+   "tip": "Dates shift each year; check the Marktamt Fürth site. Go on a weekday afternoon to avoid the biggest crowds.",
+   "q": "Grüner Markt, Fürth Altstadt, 90762 Fürth",
+   "ll": [
+    49.47973,
+    10.98677
+   ],
+   "src": [
+    "https://tourismus.nuernberg.de/en/experience/events/festivals-markets/michaelis-kirchweih-in-fuerth",
+    "https://www.festivalsindeutschland.de/festival/michaelis-kirchweih-fuerth"
+   ],
+   "months": [
+    9,
+    10
+   ]
+  },
+  {
+   "id": "nugruenerbrauhaus",
+   "cat": "ye",
+   "area": "fuerth",
+   "title": "Order a pretzel-crusted schnitzel at the Grüner Brauhaus",
+   "desc": "The Grüner brand is brewed in Fürth and is now run under the Tucher group. The Grüner Brauhaus in the city centre serves Franconian pub food, with oven-fresh roast pork and large schnitzels with a pretzel crust as house classics.",
+   "tip": "Reservations are mainly by phone. Pair the Schweinebraten or schnitzel with the Grüner Helles.",
+   "q": "Grüner Brauhaus, Comödienstraße, 90762 Fürth",
+   "ll": [
+    49.47088,
+    10.98691
+   ],
+   "src": [
+    "https://www.speisekarte.de/f%C3%BCrth/restaurant/gruener_brauhaus",
+    "https://tourismus.nuernberg.de/en/traveltrade/fuerth/gastronomy/"
+   ]
+  },
+  {
+   "id": "nuplaymobil",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Play all day in the Playmobil FunPark",
+   "desc": "The Playmobil FunPark in Zirndorf, next to the toy maker's headquarters, is a family theme park with play landscapes, a pirate ship and a knights' castle. It operates from spring until early November and has a winter event period.",
+   "tip": "Open roughly late March to early November, 9-19 (earlier close in autumn); check playmobil-funpark.de for dates and prices.",
+   "q": "Playmobil FunPark, Brandstätterstraße 2-10, 90513 Zirndorf",
+   "ll": [
+    49.43067,
+    10.94343
+   ],
+   "src": [
+    "https://www.playmobil-funpark.de",
+    "https://www.urlaubsguru.de/freizeitaktivitaeten/playmobil-funpark/"
+   ],
+   "tags": []
+  },
+  {
+   "id": "nuerlschlossgarten",
+   "cat": "gor",
+   "area": "fuerth",
+   "title": "Wander through the Erlangen Schlossgarten",
+   "desc": "The Schlossgarten was laid out as a baroque garden for the margraves and later reshaped as an English landscape garden; the university opened it to the public in 1849. The Orangerie stands in the grounds, and the garden sits beside the palace in the old town.",
+   "tip": "Free and open daily. Visit in spring for the blossoms or during the figuren.theater.festival.",
+   "q": "Schlossgarten Erlangen, Schlossplatz, 91054 Erlangen",
+   "ll": [
+    49.5978,
+    11.0056
+   ],
+   "src": [
+    "https://en.visit-erlangen.de/sehenswuerdigkeiten/",
+    "https://en.visit-erlangen.de/poi/orangerie_im_schlossgarten-27258/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "nuerlhugenotten",
+   "cat": "gor",
+   "area": "fuerth",
+   "title": "See the Hugenottenbrunnen and Margrave Christian Ernst",
+   "desc": "The Hugenottenbrunnen by Elias Räntz dates from 1704-1706 and has a sandstone rock mountain on three levels topped by a rider statue of Margrave Christian Ernst. He took in Huguenot refugees, which shaped the new town of Erlangen.",
+   "tip": "Free at all times. Combine with the Hugenottenkirche and the Schloss on the same square.",
+   "q": "Hugenottenbrunnen, Schlossplatz, 91054 Erlangen",
+   "ll": [
+    49.5984,
+    11.0045
+   ],
+   "src": [
+    "https://trek.zone/en/germany/places/67016/hugenottenbrunnen-erlangen",
+    "https://en.visit-erlangen.de/sehenswuerdigkeiten/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "nuerltheater",
+   "cat": "gor",
+   "area": "fuerth",
+   "title": "Admire the Markgrafentheater, Bavaria's oldest baroque stage",
+   "desc": "The Markgrafentheater was built between 1715 and 1719 for Margrave Georg Wilhelm and is described as the oldest still-operating baroque theatre in southern Germany. It is a main venue of the figuren.theater.festival.",
+   "tip": "Check for guided tours or a performance in the programme; interiors are usually seen only then.",
+   "q": "Markgrafentheater, Theaterplatz 2, 91054 Erlangen",
+   "ll": [
+    49.5993,
+    11.0048
+   ],
+   "src": [
+    "https://www.infranken.de/lk/erlangenhoechstadt/ausflug/das-markgrafentheater-erlangen-eine-buehne-fuer-kunst-und-kultur-art-5734201"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nuerlbergkirchweih",
+   "cat": "dene",
+   "area": "fuerth",
+   "title": "Raise a Mass at the Erlanger Bergkirchweih",
+   "desc": "The Bergkirchweih is Erlangen's beer festival on the Burgberg, centred on a row of historic rock cellars with beer gardens under old trees. About 14 cellars operate during the festival, which ends with the barrel-rolling and the Berg-Begräbnis.",
+   "tip": "It starts around Ascension and Whitsun; a Mass costs roughly 13 euros. Cellar prices and times are listed on erlangen.de.",
+   "q": "Bergkirchweih, Burgberg, 91054 Erlangen",
+   "ll": [
+    49.60729,
+    11.00611
+   ],
+   "src": [
+    "https://en.visit-erlangen.de/bergkirchweih/",
+    "https://erlangen.de/en/aktuelles/keller-bergkirchweih"
+   ],
+   "months": [
+    5,
+    6
+   ]
+  },
+  {
+   "id": "nuhenningerkeller",
+   "cat": "ye",
+   "area": "fuerth",
+   "title": "Drink under the chestnuts at the Henninger Keller",
+   "desc": "The Henninger Keller is the largest cellar on the Burgberg, with a rock cellar of about 430 m and a tunnel converted in 1884. The Henninger family has been linked to it since 1816, and it is famous for its closing song at the end of the Bergkirchweih.",
+   "tip": "Busiest during the Bergkirchweih in May and June; at other times check which cellars are open.",
+   "q": "Henninger Keller, Bergstraße, 91054 Erlangen",
+   "ll": [
+    49.60765,
+    11.00538
+   ],
+   "src": [
+    "https://en.visit-erlangen.de/poi/henninger_keller-44151/",
+    "https://en.wikipedia.org/wiki/Burgberg_(Erlangen)"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "nuentlaskeller",
+   "cat": "ye",
+   "area": "fuerth",
+   "title": "Join a cellar tour at Entla's Keller",
+   "desc": "Entla's Keller is described as the oldest cellar on the Erlangen Burgberg. From 2026 it serves beer from Entlas-Bräu and runs guided cellar tours outside the festival season.",
+   "tip": "Tours run on selected dates; book via visit-erlangen.de. During Bergkirchweih it is one of the main festival cellars.",
+   "q": "Entla's Keller, Bergstraße, 91054 Erlangen",
+   "ll": [
+    49.60793,
+    11.00357
+   ],
+   "src": [
+    "https://mahrs.de/entlas-keller-in-erlangen-beer-culture-at-its-finest/?lang=en",
+    "https://en.visit-erlangen.de/veranstaltungen/kellerfuehrung_am_entlas_kelle-764477/"
+   ]
+  },
+  {
+   "id": "nukitzmann",
+   "cat": "ye",
+   "area": "fuerth",
+   "title": "Eat Schäufele at the Kitzmann Bräuschänke",
+   "desc": "The Bräuschänke is the brewery tavern of the Kitzmann brewery in Erlangen. The signature dish is Schäufele, a pork shoulder with crackling served with dumpling, dark beer sauce and sauerkraut, with Kitzmann's own beers on tap.",
+   "tip": "Open daily around 11:30-23:00; the beer garden is the place to be in summer.",
+   "q": "Kitzmann BräuSchänke, Südliche Stadtmauerstraße 25, 91054 Erlangen",
+   "ll": [
+    49.594,
+    11.0083
+   ],
+   "src": [
+    "https://www.speisekarte.de/erlangen/restaurant/kitzmann_braeuschaenke/bewertung",
+    "https://en.visit-erlangen.de/poi/station_17-brauerei_kitzmann-41263/"
+   ]
+  },
+  {
+   "id": "nusteinbach",
+   "cat": "ye",
+   "area": "fuerth",
+   "title": "Sip a pale ale at Steinbach Bräu and its beer museum",
+   "desc": "Steinbach Bräu is a small family brewery pub in the Erlangen old town with its own beer and food. It also runs a small beer museum that can be visited by arrangement.",
+   "tip": "Opens in the evening and is closed on Sundays; ask about the museum in advance.",
+   "q": "Steinbach Bräu, Vierzigmannstraße 4, 91054 Erlangen",
+   "ll": [
+    49.60296,
+    11.00504
+   ],
+   "src": [
+    "https://en.visit-erlangen.de/steinbach_braeu/",
+    "https://www.ortsdienst.de/bayern/erlangen/brauerei/"
+   ]
+  },
+  {
+   "id": "nuherzogpfarrkirche",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the 14th-century church in Herzogenaurach",
+   "desc": "The Stadtpfarrkirche St. Maria Magdalena dates from the 14th century; tree-ring dating places its choir timbers around 1310/1311. It stands in the old town of the home of adidas and Puma.",
+   "tip": "Combine it with the Türmersturm and a walk along the old wall.",
+   "q": "Stadtpfarrkirche St. Maria Magdalena, Herzogenaurach",
+   "ll": [
+    49.5673,
+    10.8867
+   ],
+   "src": [
+    "https://journals.bibliothek.uni-wuerzburg.de/frl-nf/article/download/8688/8730/8990"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "nuherzogturm",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk Herzogenaurach's town wall to the Türmersturm",
+   "desc": "Herzogenaurach had two wall rings; the larger one was built in the mid-15th century. The Türmersturm beside the upper gate of the inner wall has a drawbridge and portcullis and can be visited on guided city tours.",
+   "tip": "Join an old-town guided tour to get inside the tower.",
+   "q": "Türmersturm, Herzogenaurach",
+   "ll": [
+    49.56918,
+    10.8804
+   ],
+   "src": [
+    "https://vgn.de/620c2bf8-af46-2d38-358a-5717eebba056"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "nuschwabachgold",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch gold leaf being beaten in Schwabach",
+   "desc": "Schwabach is the gold-beater town; the craft was recognised as intangible cultural heritage in Germany in 2025 and two firms are still active. A redesigned Goldschläger Schauwerkstatt in the Höllgasse demonstrates the process.",
+   "tip": "Check the tourist office for demonstration times. The Stadtmuseum has a gold-plated Goldbox, also used for weddings.",
+   "q": "Goldschläger-Schauwerkstatt, Höllgasse, 91126 Schwabach",
+   "ll": [
+    49.3295,
+    11.0225
+   ],
+   "src": [
+    "https://www.schwabach.de/images/referate/referat_3/downloads/Tourismus/Brosch%C3%BCren/SC_unterwegs_2026_online.pdf",
+    "https://www.bergfex.com/sommer/schwabach/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nuschwabachmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Step into the Goldbox at Schwabach's Stadtmuseum",
+   "desc": "The Stadtmuseum Schwabach features a gold-plated Goldbox where a gold-beater shows how gold leaf is made. The museum is open Wednesday to Sunday 10-18 according to the 2026 city flyer.",
+   "tip": "Entrance is on Dr.-Haas-Straße.",
+   "q": "Stadtmuseum Schwabach, Dr.-Haas-Straße, 91126 Schwabach",
+   "ll": [
+    49.33689,
+    11.01857
+   ],
+   "src": [
+    "https://www.schwabach.de/images/referate/referat_3/downloads/Tourismus/Brosch%C3%BCren/SC_unterwegs_2026_online.pdf"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nurothratibor",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour Schloss Ratibor in Roth",
+   "desc": "Schloss Ratibor is a Renaissance castle in Roth that was the residence of the Stieber industrial family and is now a museum. The Stieber family gave the town an economic boost in the 18th century.",
+   "tip": "Check seasonal opening times with the town of Roth.",
+   "q": "Schloss Ratibor, Roth, Mittelfranken",
+   "ll": [
+    49.2452,
+    11.0905
+   ],
+   "src": [
+    "https://www.bergfex.com/sommer/roth/highlights/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nurothsee",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim and sail on the Rothsee",
+   "desc": "The Rothsee is a reservoir about 25 km south of Nuremberg with a registered bathing site at the Hauptsperre near Hilpoltstein and the Seezentrum Heuberg. It is used for swimming, paddling, sailing and windsurfing.",
+   "tip": "Swimming season is summer; check water quality on the bathing water portal.",
+   "q": "Seezentrum Heuberg, Rothsee, 91161 Hilpoltstein",
+   "ll": [
+    49.21137,
+    11.18716
+   ],
+   "src": [
+    "https://www.wildopenwater.com/swimspot/rothsee-main-lock-hilpoltstein-sea-center-heuberg-mittelfranken-bayern-germany",
+    "https://www.swimcheck.com/de/ort/934/straende-roth"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "nuhilpoltstein",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb to the Hilpoltstein castle ruin for the view",
+   "desc": "The ruined castle of Hilpoltstein overlooks the old town and the surrounding landscape. It is an easy walk from the market square.",
+   "tip": "Free access; best in clear weather for the view.",
+   "q": "Burgruine Hilpoltstein, 91161 Hilpoltstein",
+   "ll": [
+    49.1885,
+    11.1948
+   ],
+   "src": [
+    "https://www.komoot.com/guide/254869/attractions-around-hilpoltstein"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "nulaufburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Emperor Charles IV's Wenzelburg in Lauf",
+   "desc": "The Wenzelburg (Laufer Kaiserburg), on an island in the Pegnitz, was rebuilt from 1356 by Charles IV as a stop before Nuremberg. Its Wappensaal from around 1360 has 112 painted coats of arms of Bohemian nobles.",
+   "tip": "Mostly seen from outside or on town tours; the building is empty and bookable for weddings.",
+   "q": "Wenzelburg, Wenzelschlossinsel, 91207 Lauf an der Pegnitz",
+   "ll": [
+    49.51,
+    11.282
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Wenzelschloss"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "nuhirtenmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the German Shepherd Museum in Hersbruck",
+   "desc": "The Deutsches Hirtenmuseum in Hersbruck is dedicated to shepherd culture and sits a short walk from Hersbruck station. It is one of the few museums of its kind in Germany.",
+   "tip": "Opening days are limited (reported Friday-Sunday 10-16); verify before going.",
+   "q": "Deutsches Hirtenmuseum, Eisenhüttlein 7, 91217 Hersbruck",
+   "ll": [
+    49.50991,
+    11.4293
+   ],
+   "src": [
+    "https://museen-in-bayern.de/en/museums/museum-details/deutsches-hirtenmuseum",
+    "https://familienausflug.info/ausflugsziel/deutsches-hirtenmuseum-hersbruck"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nuhouibirg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Houbirg Celtic wall above Happurg",
+   "desc": "The Houbirg near Happurg carries a 4.5 km Celtic ring wall around an old oppidum, with information boards along the way. Hikes combine the wall with viewpoints over the Happurger See.",
+   "tip": "A loop of about 9 km with 300 m climb takes under three hours.",
+   "q": "Keltenwall Houbirg, Happurg",
+   "ll": [
+    49.49136,
+    11.48549
+   ],
+   "src": [
+    "https://www.komoot.com/smarttour/e1043306912/houbirg-sevensummits-in-the-nuremberg-region",
+    "https://www.komoot.com/guide/217403/attractions-around-happurg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "nuhohlerfels",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike to the Hohler Fels cave above Happurger See",
+   "desc": "The Hohle Fels, at the southwest corner of the Houbirg, is a karst cave about 16 m long and 6 m high with a view over the Happurger See. A natural stone bridge is nearby.",
+   "tip": "Park in Happurg on the Höhenstraße to avoid the trailhead fee.",
+   "q": "Hohler Fels, Houbirg, Happurg",
+   "ll": [
+    49.48466,
+    11.4922
+   ],
+   "src": [
+    "https://www.via-ferrata.de/touren/gps/hohler-fels-wanderung-hoch-ueber-dem-happurger-stausee",
+    "https://planetoutdoor.de/touren/wandern/wandern-fraenkische-schweiz-hohler-fels-muehlkoppe-und-zankelstein"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "numaximiliansgrotte",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Take a guided tour of the Maximiliansgrotte",
+   "desc": "The Maximiliansgrotte near Krottensee is a show cave run by the Lohner family at the Grottenhof in Neuhaus an der Pegnitz. It can only be visited with a guide, and is closed to protect bats in winter.",
+   "tip": "Season roughly April to late October; call +49 9156 434 for tours.",
+   "q": "Maximiliansgrotte, Grottenhof, 91284 Neuhaus an der Pegnitz",
+   "ll": [
+    49.62818,
+    11.5882
+   ],
+   "src": [
+    "https://showcaves.com/english/de/showcaves/Maximilians.html",
+    "https://www.via-ferrata.de/poi/listing/maximiliansgrotte"
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "nualtdorf",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Discover Altdorf's university and Wallenstein's past",
+   "desc": "Altdorf was home to the Altdorfina, a leading Protestant university of the 17th century where Wallenstein studied and Leibniz earned his doctorate. The Pflegschloss dates from 1558 and the Wallenstein-Festspiele play in the old university courtyard every three years.",
+   "tip": "The university museum opens on Sunday afternoons.",
+   "q": "Altdorfer Universitätsmuseum, Unterer Markt, 90518 Altdorf bei Nürnberg",
+   "ll": [
+    49.3876,
+    11.3555
+   ],
+   "src": [
+    "https://maps.adac.de/poi/universitaetsmuseum-altdorf",
+    "https://wallensteinfestspiele.de/cms/wp-content/uploads/2025/05/Wallenstein_Festspiele_Presseinfo_01-Allgemein.pdf"
+   ]
+  },
+  {
+   "id": "nuaischgrund",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Find the Aischgrund carp ponds near Höchstadt",
+   "desc": "The Aischgrund around Höchstadt is one of Germany's best-known pond landscapes, and Aischgründer Karpfen has EU protected origin since 2012. The traditional carp season runs from September to April, and the 100-Weiher-Weg runs through the ponds.",
+   "tip": "Visit in autumn when ponds are harvested; carp restaurants carry the Aischgründer Karpfenküche logo.",
+   "q": "Höchstadt an der Aisch",
+   "ll": [
+    49.71602,
+    10.81999
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/H%C3%B6chstadt_an_der_Aisch",
+    "https://m.vgn.de/wandern/100weiherweg.pdf"
+   ],
+   "months": [
+    9,
+    10,
+    11,
+    12,
+    1,
+    2,
+    3,
+    4
+   ]
+  }
+ ]
+}

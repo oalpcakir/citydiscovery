@@ -1,0 +1,723 @@
+{
+ "new": [
+  {
+   "id": "ddbastei",
+   "cat": "gor",
+   "area": "schweiz",
+   "title": "Cross the Bastei bridge above the Elbe",
+   "desc": "The Bastei is a sandstone rock group rising about 190 m above the Elbe, with a seven-arch sandstone bridge of 76.5 m built in 1850/51. A new viewing platform opened on 3 February 2023 after the old one closed in 2016 due to rock weathering.",
+   "tip": "Very busy at midday; arrive early or late. The Bastei is reached on foot from Kurort Rathen or from the car park near Lohmen.",
+   "q": "Basteibrücke, Bastei, Lohmen",
+   "ll": [
+    50.96139,
+    14.07361
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Bastei"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ddkoenigsteinfestung",
+   "cat": "gor",
+   "area": "schweiz",
+   "title": "Walk the walls of Königstein Fortress",
+   "desc": "Festung Königstein sits on a table mountain about 240 m above the Elbe and has a wall walk of roughly 1,800 m. First mentioned in 1233, it was expanded into Saxony's main fortress from 1589 and holds a 152.5 m deep well sunk by hand between 1563 and 1569.",
+   "tip": "Allow three to four hours. A panoramic lift runs up from the car park, which saves the steep climb.",
+   "q": "Festung Königstein, Königstein",
+   "ll": [
+    50.91902,
+    14.05673
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Festung_Königstein"
+   ]
+  },
+  {
+   "id": "ddpirnamarkt",
+   "cat": "gor",
+   "area": "schweiz",
+   "title": "See Canaletto's Pirna on the Marktplatz",
+   "desc": "Bernardo Bellotto, called Canaletto, painted the Pirna Marktplatz in 1753/54, and the old town hall and arcaded houses still frame the square. Pirna received weekly market rights in 1409.",
+   "tip": "Compare the square with the painting at the Dresden Gemäldegalerie, then walk on to the Marienkirche, begun in 1502.",
+   "q": "Marktplatz, Pirna",
+   "ll": [
+    50.96205,
+    13.9405
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Pirna"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ddsonnenstein",
+   "cat": "gor",
+   "area": "schweiz",
+   "title": "Visit the Pirna-Sonnenstein memorial",
+   "desc": "Schloss Sonnenstein was a fortress expanded from about 1670, later a psychiatric institution, and in 1940 to 1941 the site of Nazi killings of patients. A memorial and exhibition document the history.",
+   "tip": "A sombre but important visit. Check the Gedenkstätte's opening days before going.",
+   "q": "Gedenkstätte Pirna-Sonnenstein, Schlosspark 11, Pirna",
+   "ll": [
+    50.96171,
+    13.95038
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Pirna"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ddschrammsteinaussicht",
+   "cat": "gor",
+   "area": "schweiz",
+   "title": "Look over the Elbe from the Schrammsteinaussicht",
+   "desc": "The Schrammsteine are a ridge of about 80 peaks east of Bad Schandau, and the Schrammsteinaussicht at 417 m is their most popular viewpoint. The Hoher Torstein north face is 118 m high.",
+   "tip": "Start at Bad Schandau or the Schrammsteinbaude. The Wildschützensteig up is one-way, so descend by the Jägersteig.",
+   "q": "Schrammsteinaussicht, Bad Schandau",
+   "ll": [
+    50.91245,
+    14.20433
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schrammsteine"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ddhohnsteinburg",
+   "cat": "gor",
+   "area": "schweiz",
+   "title": "Explore Hohnstein Castle above the Polenz valley",
+   "desc": "Burg Hohnstein is a rock castle about 140 m above the Polenz valley, first documented in 1317 and the only surviving castle on the right bank of the Elbe in Saxon Switzerland. It served as a youth hostel from 1926 and has been run by the town since 2018.",
+   "tip": "Renovation of the castle garden began in 2024, so check access on the town's website. The town below has several inns.",
+   "q": "Burg Hohnstein, Markt, Hohnstein",
+   "ll": [
+    50.98028,
+    14.10944
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Burg_Hohnstein_(Sächsische_Schweiz)"
+   ]
+  },
+  {
+   "id": "ddstolpen",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb Stolpen Castle on its basalt hill",
+   "desc": "Burg Stolpen stands on a basalt hill and was a seat of the bishops of Meissen, first documented in 1222. Countess Cosel, mistress of Augustus the Strong, was held here from 1716 until her death in 1765, and a well was cut about 82 m deep into the basalt.",
+   "tip": "A museum on the Cosel story and the castle history is open to visitors. Stolpen lies about 27 km east of Dresden.",
+   "q": "Burg Stolpen, Schlossstraße, Stolpen",
+   "ll": [
+    51.04839,
+    14.08465
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Burg_Stolpen"
+   ]
+  },
+  {
+   "id": "ddgrosssedlitz",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the Baroque terraces of Großsedlitz",
+   "desc": "The Baroque garden at Großsedlitz was laid out from 1719 for Count Wackerbarth and bought by Augustus the Strong in 1723. It covers about 18 ha of terraces, cascades and statues, with two orangeries and the staircase of the Stille Musik.",
+   "tip": "The garden festival takes place on the first weekend of August. Check barockgarten-grosssedlitz.de for opening times.",
+   "q": "Barockgarten Großsedlitz, Heidenau",
+   "ll": [
+    50.95133,
+    13.89014
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Barockgarten_Großsedlitz"
+   ]
+  },
+  {
+   "id": "ddweesenstein",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Descend through the floors of Weesenstein Castle",
+   "desc": "Schloss Weesenstein rises on a rock spur above the Müglitz and is built largely from the top down, so the cellars sit on the fifth floor and the stables on the fourth. First documented in 1318, it was a favourite of King Johann, translator of Dante.",
+   "tip": "Run by the state castle administration. See schloss-weesenstein.de for hours.",
+   "q": "Schloss Weesenstein, Müglitztal",
+   "ll": [
+    50.93258,
+    13.85936
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Weesenstein"
+   ]
+  },
+  {
+   "id": "dduhrenmuseumglashuette",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Study fine watchmaking at the Glashütte watch museum",
+   "desc": "The Deutsches Uhrenmuseum Glashütte, opened in its current form on 22 May 2008, shows over 500 pocket watches, wristwatches, chronometers and tools on about 1,000 m2. It tells the story of the Saxon watchmaking town.",
+   "tip": "Fully barrier-free. An annual antique watch fair is held there.",
+   "q": "Deutsches Uhrenmuseum Glashütte, Schillerstraße, Glashütte",
+   "ll": [
+    50.85197,
+    13.77947
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Deutsches_Uhrenmuseum_Glashütte"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ddschandauaufzug",
+   "cat": "gor",
+   "area": "schweiz",
+   "title": "Ride the Art Nouveau Bad Schandau lift",
+   "desc": "The Personenaufzug in Bad Schandau is a 52 m steel lattice tower from 1904 that lifts passengers about 48 m to the Ostrauer Scheibe. It appeared in Wes Anderson's The Grand Budapest Hotel.",
+   "tip": "A paid ride. From the top a short walk leads towards the Schrammsteine.",
+   "q": "Personenaufzug Bad Schandau, Bad Schandau",
+   "ll": [
+    50.91658,
+    14.16117
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Personenaufzug_Bad_Schandau"
+   ]
+  },
+  {
+   "id": "ddkuhstall",
+   "cat": "gor",
+   "area": "schweiz",
+   "title": "Step into the Kuhstall rock gate",
+   "desc": "The Kuhstall is the second-largest rock gate of the Elbe Sandstone Mountains, about 11 m high and 17 m wide, on the Neuer Wildenstein rock. The Himmelsleiter staircase climbs to the remains of a medieval robber-knight castle and a wide view.",
+   "tip": "Reached from the Lichtenhainer Waterfall in about an hour. It is a stop on Malerweg stage 4.",
+   "q": "Kuhstall, Neuer Wildenstein, Bad Schandau",
+   "ll": [
+    50.926,
+    14.25661
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kuhstall_(Sächsische_Schweiz)"
+   ]
+  },
+  {
+   "id": "ddlilienstein",
+   "cat": "gor",
+   "area": "schweiz",
+   "title": "Climb the Lilienstein table mountain",
+   "desc": "The Lilienstein is the only table mountain on the right bank of the Elbe, 415 m high, inside a 180 degree river bend. August the Strong had steps cut on the south side in 1708, and an obelisk of 1889 crowns the plateau.",
+   "tip": "Start at Königstein (reached by the Elbe ferry) or at Kurort Rathen.",
+   "q": "Lilienstein, Königstein",
+   "ll": [
+    50.92708,
+    14.08478
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Lilienstein"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ddliebethal",
+   "cat": "gor",
+   "area": "schweiz",
+   "title": "Find the Wagner monument in the Liebethaler Grund",
+   "desc": "The Wesenitz has cut a valley 40 to 50 m deep here, with four old mills. Richard Wagner stayed at the Lochmühle in 1846, and a bronze monument of 1933 shows him as a Grail guardian.",
+   "tip": "Malerweg stage 1 starts here. The Lochmühle itself is empty.",
+   "q": "Wagner-Denkmal, Liebethaler Grund, Lohmen",
+   "ll": [
+    50.99517,
+    13.97653
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Liebethaler_Grund"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ddaltenbergpinge",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Altenberger Pinge mining crater",
+   "desc": "The Pinge is a collapse crater left after tin mining began around 1440, with the big collapse on 24 January 1620. Mining ended in 1991 after about 32 million tonnes of ore, and it is part of the UNESCO Erzgebirge mining region.",
+   "tip": "The pit is fenced off. A mining education trail circles it and guided Pingenwanderungen reach a viewing platform.",
+   "q": "Altenberger Pinge, Altenberg",
+   "ll": [
+    50.76583,
+    13.76389
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Altenberger_Pinge"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ddlauensteinschloss",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour Lauenstein Castle and the Osterzgebirge museum",
+   "desc": "Lauenstein in the Müglitz valley was probably built around 1200 as a border castle and first mentioned in 1241. The castle now houses the Osterzgebirgsmuseum and is part of the Saxon-Czech mining heritage.",
+   "tip": "The Müglitztalbahn stops at Lauenstein. Adult entry was about 4 euros.",
+   "q": "Schloss Lauenstein, Schloß 5, Altenberg",
+   "ll": [
+    50.78435,
+    13.82129
+   ],
+   "src": [
+    "https://www.schloesserland-sachsen.de/en/palaces-castles-and-gardens/lauenstein-castle/",
+    "https://www.museum.de/en/museen/osterzgebirgsmuseum-schloss-lauenstein"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ddcanaletto",
+   "cat": "ye",
+   "area": "schweiz",
+   "title": "Eat breakfast with the Canaletto view in Pirna",
+   "desc": "Café & Restaurant Canaletto stands on Pirna's car-free Obermarkt and serves regional dishes from breakfast to dinner. Its outlook over the old town is the view that inspired Canaletto.",
+   "tip": "Try a regional main course on the terrace. The address is Schuhgasse 16.",
+   "q": "Restaurant Canaletto, Schuhgasse 16, Pirna",
+   "ll": [
+    50.96228,
+    13.94119
+   ],
+   "src": [
+    "https://www.saechsische-schweiz.de/restaurant/restaurant-canaletto-pirna"
+   ]
+  },
+  {
+   "id": "ddplatzhirsch",
+   "cat": "ye",
+   "area": "schweiz",
+   "title": "Order a craft beer and burger at Platzhirsch",
+   "desc": "Platzhirsch at Am Markt 4 in Pirna focuses on burgers and craft beer, with house-made lemonades, shakes and fresh cake.",
+   "tip": "Good for a casual stop on the Marktplatz.",
+   "q": "Platzhirsch, Am Markt 4, Pirna",
+   "ll": [
+    50.96252,
+    13.94265
+   ],
+   "src": [
+    "https://www.saechsische-schweiz.de/restaurant/platzhirsch-pirna"
+   ]
+  },
+  {
+   "id": "ddzumanker",
+   "cat": "ye",
+   "area": "schweiz",
+   "title": "Eat Saxon dishes at Gasthaus Zum Anker",
+   "desc": "Gasthaus Zum Anker at Am Markt 8 in Pirna serves traditional Saxon and German cooking on the market square.",
+   "tip": "Listed hours were lunch and dinner with some closed days, so call before visiting.",
+   "q": "Gasthaus Zum Anker, Am Markt 8, Pirna",
+   "ll": [
+    50.9619,
+    13.9404
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/pirna/gasthaus-zum-anker/"
+   ]
+  },
+  {
+   "id": "ddgiesser",
+   "cat": "ye",
+   "area": "schweiz",
+   "title": "Drink house-brewed beer at Brauhaus Zum Gießer",
+   "desc": "The Brauhaus Pirna Zum Gießer in Pirna-Copitz serves regional cooking beside its brewing kettles. In winter it brews the full-bodied, malty St. Benedikt-Bock.",
+   "tip": "Try the Bockbier in winter. It sits on Basteistraße on the way to the Bastei.",
+   "q": "Brauhaus Zum Gießer, Basteistraße 60b, Pirna",
+   "ll": [
+    50.98012,
+    13.94298
+   ],
+   "src": [
+    "https://www.saechsische-schweiz.de/restaurant/brauhaus-zum-giesser-pirna"
+   ]
+  },
+  {
+   "id": "ddschmilkabrau",
+   "cat": "ye",
+   "area": "schweiz",
+   "title": "Taste organic beer at the Schmilka brewery",
+   "desc": "The Bio-Braumanufaktur in the historic Schmilka mill is called the first organic brewery in the Saxon Switzerland National Park area. It pours unfiltered, unpasteurised Schmilk'sche Mühlenbiere in a beer garden.",
+   "tip": "Guided brewery tours start at 12:30 and are booked at schmilka.de/braumanufaktur.",
+   "q": "Bio-Braumanufaktur Schmilka, Schmilka 36, Bad Schandau",
+   "ll": [
+    50.89235,
+    14.23199
+   ],
+   "src": [
+    "https://www.saechsische-schweiz.de/restaurant/bio-braumanufaktur-bad-schandau-schmilka"
+   ]
+  },
+  {
+   "id": "ddbrandbaude",
+   "cat": "ye",
+   "area": "schweiz",
+   "title": "Dine at the Brand-Baude, the Balkon of Saxon Switzerland",
+   "desc": "The Brand-Baude is a mountain inn with about 200 years of history on a cliff above the Polenz valley. The kitchen uses regional produce such as Galloway beef, Stürza potatoes and Rathmannsdorf trout and pours Rechenberger beer.",
+   "tip": "A flat walk of 2.5 km from Hohnstein. Open year-round.",
+   "q": "Brand-Baude, Brandstraße 27, Hohnstein",
+   "ll": [
+    50.956,
+    14.12669
+   ],
+   "src": [
+    "https://www.saechsische-schweiz.de/restaurant/brand-baude-bergwirtschaft-hohnstein"
+   ]
+  },
+  {
+   "id": "ddkuhstallberg",
+   "cat": "ye",
+   "area": "schweiz",
+   "title": "Refuel at the Bergwirtschaft Kuhstall",
+   "desc": "A mountain inn has stood beside the Kuhstall rock gate since 1824. It is self-service in good weather and serves regional food, with vegetarian and vegan dishes.",
+   "tip": "Listings gave daily summer hours from late March to early November. Verify at berggast.de/kuhstall.",
+   "q": "Bergwirtschaft Kuhstall, Kuhstall 1, Bad Schandau",
+   "ll": [
+    50.9258,
+    14.2556
+   ],
+   "src": [
+    "https://www.saechsische-schweiz.de/en/gastronomy/mountain-inn-kuhstall",
+    "https://de.wikipedia.org/wiki/Kuhstall_(Sächsische_Schweiz)"
+   ]
+  },
+  {
+   "id": "ddlichtenhainergast",
+   "cat": "ye",
+   "area": "schweiz",
+   "title": "Eat at the Lichtenhainer Wasserfall Gaststätte",
+   "desc": "The half-timbered Gaststätte next to the waterfall dates from 1852 and serves German and regional food with a beer garden.",
+   "tip": "Kirnitzschtalstraße 11. Listed hours were 11:00 to 22:00, so verify first.",
+   "q": "Gaststätte Lichtenhainer Wasserfall, Kirnitzschtalstraße 11, Sebnitz",
+   "ll": [
+    50.929,
+    14.243
+   ],
+   "src": [
+    "https://www.saechsische-schweiz.de/restaurant/gaststaette-und-pension-lichtenhainer-wasserfall",
+    "https://de.wikipedia.org/wiki/Lichtenhainer_Wasserfall"
+   ]
+  },
+  {
+   "id": "ddschrammsteinbaude",
+   "cat": "ye",
+   "area": "schweiz",
+   "title": "Order Bohemian garlic soup at the Schrammsteinbaude",
+   "desc": "The Schrammsteinbaude at Zahnsgrund 5 is a hut-style Gaststätte and pension near the Schrammsteine, with mostly regional cooking. A Bohemian garlic soup was on its menu.",
+   "tip": "Bus 252 from Bad Schandau stops at Schrammsteinbaude.",
+   "q": "Schrammsteinbaude, Zahnsgrund 5, Bad Schandau",
+   "ll": [
+    50.9159,
+    14.1869
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Bad_Schandau",
+    "https://www.speisekarte.de/bad-schandau/restaurant/gaststatte_pension_schrammsteinbaude/speisekarte"
+   ]
+  },
+  {
+   "id": "ddkohlhaukuppe",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat garlic ice cream on the Kohlhaukuppe",
+   "desc": "The Bergbaude Kohlhaukuppe at 786 m near Geising is known as the Knoblauchkuppe. Its landlord serves garlic soup, garlic bread, garlic ice cream and garlic beer, and there is a viewing tower.",
+   "tip": "Reachable only on foot, through mountain meadows from Geising.",
+   "q": "Bergbaude Kohlhaukuppe, Geising",
+   "ll": [
+    50.74389,
+    13.79308
+   ],
+   "src": [
+    "https://visitsaxony.com/gastro/mining-lodge-kohlhaukuppe"
+   ]
+  },
+  {
+   "id": "ddgeisingbaude",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have hearty home cooking at the Geisingberg Baude",
+   "desc": "The Bergbaude Geisingberg on the 824 m Geisingberg offers inexpensive home cooking in a cosy room and on a 38-seat sun terrace. The 18 m Louisenturm gives views over the Erzgebirge ridge.",
+   "tip": "Reach it by a steep walk from Geising. It sits in a nature reserve.",
+   "q": "Bergbaude Geisingberg, Geisingberg, Altenberg",
+   "ll": [
+    50.77189,
+    13.77325
+   ],
+   "src": [
+    "https://visitsaxony.com/gastro/geisingberg-mining-lodge"
+   ]
+  },
+  {
+   "id": "ddratskellergeising",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at the Ratskeller in Geising",
+   "desc": "The Berghotel und Restaurant Ratskeller Geising in the old tin-mining town scores 4.7 of 5 on Komoot from about 60 reviews.",
+   "tip": "A good stop before or after the Geisingberg.",
+   "q": "Ratskeller Geising, Altenberger Straße, Geising",
+   "ll": [
+    50.75981,
+    13.79086
+   ],
+   "src": [
+    "https://www.komoot.com/highlight/5389759"
+   ]
+  },
+  {
+   "id": "ddkirnitzschtram",
+   "cat": "dene",
+   "area": "schweiz",
+   "title": "Ride the Kirnitzschtalbahn tram to the waterfall",
+   "desc": "The Kirnitzschtalbahn runs 7.9 km from the Bad Schandau Kurpark to the Lichtenhainer Waterfall and opened on 27 May 1898. It is the smallest tram system in Saxony, a single metre-gauge track beside the S 165.",
+   "tip": "Runs year-round, every 30 minutes in summer and about every 70 minutes in winter.",
+   "q": "Kirnitzschtalbahn, Kurpark, Bad Schandau",
+   "ll": [
+    50.92103,
+    14.15806
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kirnitzschtalbahn"
+   ]
+  },
+  {
+   "id": "ddlichtenhainerfall",
+   "cat": "dene",
+   "area": "schweiz",
+   "title": "Watch the Lichtenhainer waterfall surge",
+   "desc": "The Lichtenhainer waterfall is a reshaped cascade of the Lichtenhainer Dorfbach. Since 1830 a weir releases the water in a surge for paying visitors, and after storm damage in 2021 it reopened on 11 April 2025.",
+   "tip": "The Wasserfallhäuschen and the half-timbered Gaststätte are on site.",
+   "q": "Lichtenhainer Wasserfall, Kirnitzschtalstraße, Sebnitz",
+   "ll": [
+    50.929,
+    14.2436
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Lichtenhainer_Wasserfall"
+   ]
+  },
+  {
+   "id": "ddfelsenbuehne",
+   "cat": "dene",
+   "area": "schweiz",
+   "title": "See a play at the Felsenbühne Rathen",
+   "desc": "The open-air Felsenbühne Rathen opened on 24 May 1936 and seats 1,954. The Landesbühnen Sachsen play a May to September season, including Karl May plays and Der Freischütz.",
+   "tip": "Reached from Kurort Rathen on foot through the Amselgrund.",
+   "q": "Felsenbühne Rathen, Amselgrund, Kurort Rathen",
+   "ll": [
+    50.96236,
+    14.08011
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Felsenbühne_Rathen"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "ddweisseritzbahn",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Weißeritztalbahn steam railway to Kipsdorf",
+   "desc": "The 750 mm narrow-gauge Weißeritztalbahn runs 26.3 km from Freital-Hainsberg through Rabenau and Dippoldiswalde to Kurort Kipsdorf. Opened in stages in 1882 and 1883, it is called Germany's oldest publicly operated narrow-gauge line.",
+   "tip": "Hainsberg to Dippoldiswalde reopened in 2008 and the full line to Kipsdorf in 2017 after the 2002 flood damage.",
+   "q": "Bahnhof Freital-Hainsberg, Freital",
+   "ll": [
+    50.98867,
+    13.63749
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Weißeritztalbahn"
+   ]
+  },
+  {
+   "id": "ddmalerwegwehlen",
+   "cat": "dene",
+   "area": "schweiz",
+   "title": "Hike Malerweg stage 2 from Wehlen to Hohnstein",
+   "desc": "The 112 km Malerweg is named for Romantic painters such as Ludwig Richter and Caspar David Friedrich. Stage 2 covers 13 km from Stadt Wehlen to Hohnstein.",
+   "tip": "A long stage, so take food. A bus runs from Hohnstein.",
+   "q": "Stadt Wehlen, Pirna",
+   "ll": [
+    50.9564,
+    14.0307
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Malerweg"
+   ]
+  },
+  {
+   "id": "ddzinnwaldmine",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Go underground at the Zinnwald show mine",
+   "desc": "The Besucherbergwerk Vereinigt Zwitterfeld zu Zinnwald opened in 1992 and runs about 3 km to the German-Czech border. Tours last 1.5 hours.",
+   "tip": "About 8 degrees C underground, so wear warm clothes and sturdy shoes. Check days at besucherbergwerk-zinnwald.de.",
+   "q": "Besucherbergwerk Zinnwald, Goetheweg 8, Altenberg",
+   "ll": [
+    50.7411,
+    13.76625
+   ],
+   "src": [
+    "https://besucherbergwerk-zinnwald.de/en/archive/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ddbobbahn",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Visit the Altenberg bobsleigh track",
+   "desc": "The Altenberg track opened in 1986 and is 1,413 m long with 17 curves and a 122 m drop. Curve 10 is a 320 degree carousel turn.",
+   "tip": "World Cup races run in winter. Check the track's event calendar.",
+   "q": "Bobbahn Altenberg, Kohlgrund, Altenberg",
+   "ll": [
+    50.78446,
+    13.72387
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Rennschlitten-_und_Bobbahn_Altenberg"
+   ]
+  },
+  {
+   "id": "ddoberelschleuse",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride a boat through the Kirnitzsch gorge at Obere Schleuse",
+   "desc": "The Obere Schleuse in Hinterhermsdorf is a 7 m dam of 1931 built for log floating. Boat rides of about 20 minutes have run since 1879 on a reservoir about 700 m long.",
+   "tip": "Boats run from Easter to the end of October, and the water rarely tops 8 degrees C.",
+   "q": "Obere Schleuse, Hinterhermsdorf, Sebnitz",
+   "ll": [
+    50.90502,
+    14.38766
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Obere_Schleuse"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "ddhohnsteinkasper",
+   "cat": "dene",
+   "area": "schweiz",
+   "title": "Catch a Hohnsteiner Kasper puppet show",
+   "desc": "Max Jacob founded the Hohnsteiner Kasper hand-puppet theatre, whose company lived at Hohnstein Castle from 1928. Since 2013 the restored Kasperhaus near the castle hosts events.",
+   "tip": "Check the Traditionsverein Hohnsteiner Kasper for show dates.",
+   "q": "Kasperhaus, Hohnstein",
+   "ll": [
+    50.9795,
+    14.107
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Hohnsteiner_Kasper"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ddschrammgrat",
+   "cat": "dene",
+   "area": "schweiz",
+   "title": "Walk the Schrammstein ridge from Bad Schandau",
+   "desc": "The Gratweg runs along the Schrammsteine ridge, which has about 80 peaks. The 286-step Rotkehlchenstiege climbs about 150 m, and the Malerweg crosses the ridge in stage 4.",
+   "tip": "Use the Wildschützensteig up and the Jägersteig down.",
+   "q": "Schrammtor, Schrammsteine, Bad Schandau",
+   "ll": [
+    50.91218,
+    14.20079
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schrammsteine"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ddwinterbergwalk",
+   "cat": "dene",
+   "area": "schweiz",
+   "title": "Hike up the Großer Winterberg from Schmilka",
+   "desc": "The Großer Winterberg is 553.8 m, the highest point right of the Elbe, beside the Prebischtor. The Berghotel closed at the end of 2018 and only a hiking-season snack bar remains.",
+   "tip": "The Bergsteig from Schmilka is about 2.5 km. The summit is wooded and the tower is closed.",
+   "q": "Großer Winterberg, Schmilka, Bad Schandau",
+   "ll": [
+    50.89583,
+    14.25972
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Großer_Winterberg_(Sächsische_Schweiz)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ddaltenbergmuseum",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Tour the tin mine at the Altenberg mining museum",
+   "desc": "The Bergbaumuseum in Altenberg opened in 1957 in a 16th-century tin washing plant and links to the 180 m Neubeschert-Glück-Stollen showing the tin work.",
+   "tip": "Check hours at bergbaumuseum-altenberg.de.",
+   "q": "Bergbaumuseum Altenberg, Altenberg",
+   "ll": [
+    50.76272,
+    13.76901
+   ],
+   "src": [
+    "https://bergbaumuseum-altenberg.de/",
+    "https://www.visitsaxony.com/poi/altenberg-mining-museum-altenberg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ddurzeitpark",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk among 400 dinosaur sculptures in Sebnitz",
+   "desc": "The Urzeitpark Sebnitz has about 400 sculptures of prehistoric animals.",
+   "tip": "Check season and hours before going.",
+   "q": "Urzeitpark Sebnitz, Sebnitz",
+   "ll": [
+    50.97668,
+    14.29009
+   ],
+   "src": [
+    "https://www.elbelabe.eu/en/poi/n/urzeitpark-in-sebnitz/"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,936 @@
+{
+ "new": [
+  {
+   "id": "nukaiserburg",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore the Kaiserburg above the old town",
+   "desc": "The Imperial Castle sits on a sandstone ridge; the first fortifications date to around 1000 and the first written record to 1050. Most German kings and emperors stayed here, and the 50 m deep well and the Romanesque Imperial Chapel are highlights.",
+   "tip": "Climb the Sinwell Tower for the best roof view of the old town. The castle courtyard and gardens are free to enter.",
+   "q": "Kaiserburg Nürnberg, Burg 13, Altstadt, Nürnberg",
+   "ll": [
+    49.45778,
+    11.07556
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Nuremberg_Castle"
+   ]
+  },
+  {
+   "id": "nuduererhaus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step into Albrecht Dürer's House",
+   "desc": "This half-timbered house from about 1420 was Dürer's home and workshop from 1509 until his death in 1528. It holds period rooms, a recreated print workshop with demonstrations, and costumed tours led by an actress as Agnes Dürer.",
+   "tip": "Join a demonstration in the workshop. Mornings outside summer are quietest.",
+   "q": "Albrecht-Dürer-Haus, Albrecht-Dürer-Straße 39, Nürnberg",
+   "ll": [
+    49.45722,
+    11.07389
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Albrecht_Dürer's_House"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nugnm",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Spend a morning in the Germanisches Nationalmuseum",
+   "desc": "Founded in 1852, this is Germany's largest museum of cultural history with about 1.3 million objects. Highlights include works by Dürer, Veit Stoss and Rembrandt and the Behaim globe, one of the oldest surviving globes. The original Schöner Brunnen figures are also kept here.",
+   "tip": "Enter via Kartäusergasse and pick two or three collections rather than trying to see everything.",
+   "q": "Germanisches Nationalmuseum, Kartäusergasse 1, Nürnberg",
+   "ll": [
+    49.44794,
+    11.07627
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Germanisches_Nationalmuseum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nudokuzentrum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Documentation Centre at the Congress Hall",
+   "desc": "Designed by Günther Domenig, the museum cuts through the north wing of the unfinished Nazi Congress Hall and opened in 2001. It explains the Nazi party rallies and their perpetrators; it has housed an interim exhibition since 2021 while a new permanent one is prepared.",
+   "tip": "Check the museum website for the current exhibition before going. Combine it with a walk around the Congress Hall and Zeppelinfeld.",
+   "q": "Dokumentationszentrum Reichsparteitagsgelände, Bayernstraße 110, Nürnberg",
+   "ll": [
+    49.43389,
+    11.11278
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Documentation_Center_Nazi_Party_Rally_Grounds"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nuzeppelinfeld",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk the Zeppelinfeld and its grandstand",
+   "desc": "The Zeppelinfeld, designed by Albert Speer, was the main parade ground of the Nazi rallies from 1933 to 1938. It has been a protected monument since 1973 and is now a memorial site.",
+   "tip": "Free to walk. Guided tours with the Documentation Centre explain the site. Allow an hour.",
+   "q": "Zeppelintribüne, Zeppelinfeld, Nürnberg",
+   "ll": [
+    49.4315,
+    11.1252
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Zeppelinfeld"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "numemorium",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stand in Courtroom 600 at the Memorium Nuremberg Trials",
+   "desc": "The first Nuremberg Trials were held in this courtroom in the Palace of Justice from 1945 to 1949. The permanent exhibition in the attic, opened in 2010, covers the trials and their link to modern international criminal law.",
+   "tip": "Audio guide included. Check opening times and Courtroom 600 access online, as the room is also used for court hearings.",
+   "q": "Memorium Nürnberger Prozesse, Bärenschanzstraße 72, Nürnberg",
+   "ll": [
+    49.4544,
+    11.0483
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Memorium_Nuremberg_Trials"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nuschoenerbrunnen",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find the golden ring on the Schöner Brunnen",
+   "desc": "The Gothic Beautiful Fountain on the Hauptmarkt rises as a 19 m stone pyramid, built about 1385 to 1396. Locals say turning the seamless golden ring in the fence brings good luck; the original figures are in the Germanisches Nationalmuseum.",
+   "tip": "Visit early in the morning for photos without the market crowd.",
+   "q": "Schöner Brunnen, Hauptmarkt, Nürnberg",
+   "ll": [
+    49.45417,
+    11.0775
+   ],
+   "src": [
+    "https://tourismus.nuernberg.de/en/discover/places-of-interest"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "nulorenzkirche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See Veit Stoss's Angelic Salutation in St. Lorenz",
+   "desc": "St. Lorenz is a Gothic church begun around 1250, 91 m long, which became Lutheran in 1525. Inside hang Veit Stoss's carved Angelic Salutation and Adam Kraft's tall tabernacle, which includes a self-portrait of the sculptor.",
+   "tip": "Free to enter. Look for the Stoss carving hanging in the choir.",
+   "q": "St. Lorenz, Lorenzer Platz 1, Nürnberg",
+   "ll": [
+    49.451,
+    11.07806
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/St._Lorenz,_Nuremberg"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nusebalduskirche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the shrine of St. Sebald in St. Sebald",
+   "desc": "The oldest of the three great Nuremberg churches, begun about 1225, houses the bronze shrine of Saint Sebaldus by Peter Vischer the Elder and his sons, completed in 1519. Works by Veit Stoss and a 1975 four-manual organ are also here.",
+   "tip": "Free to enter. The Judensau carving on the outside is a reminder of the city's difficult history.",
+   "q": "St. Sebald, Winklerstraße 26, Nürnberg",
+   "ll": [
+    49.45528,
+    11.07639
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/St._Sebaldus_Church"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nufrauenkirche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Watch the Männleinlaufen clock at the Frauenkirche",
+   "desc": "The brick Gothic Frauenkirche was built 1352 to 1362 on the site of a destroyed synagogue. Its clock commemorates the Golden Bull of 1356 and at noon the electors parade around the seated emperor to trumpets and a drum.",
+   "tip": "Be on the Hauptmarkt a few minutes before 12:00. The church is free to enter.",
+   "q": "Frauenkirche, Hauptmarkt 14, Nürnberg",
+   "ll": [
+    49.454,
+    11.078
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Frauenkirche,_Nuremberg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "nuhenkersteg",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Cross the Henkersteg over the Pegnitz",
+   "desc": "This covered wooden bridge, first built in 1457, is named after the executioner's tower beside it. A flood in 1595 destroyed an earlier bridge and it was reconstructed after wartime damage in 1954.",
+   "tip": "Photograph it from the Maxbrücke or the Trödelmarkt island for the half-timbered river view.",
+   "q": "Henkersteg, Unschlittplatz, Nürnberg",
+   "ll": [
+    49.45308,
+    11.07308
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Henkersteg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "nuweissgerbergasse",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stroll the half-timbered Weißgerbergasse",
+   "desc": "This lane of well-preserved half-timbered houses was home to the tanners who cured leather. The houses are now small shops and cafés.",
+   "tip": "Late afternoon light is best. Combine with a coffee at Bergbrand.",
+   "q": "Weißgerbergasse, Nürnberg",
+   "ll": [
+    49.4561,
+    11.0732
+   ],
+   "src": [
+    "https://tourismus.nuernberg.de/en/discover/places-of-interest"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "nuspielzeugmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Play at the Toy Museum in the Haller'sches Haus",
+   "desc": "Founded in 1971, this museum has about 1,400 m² of exhibition space showing toys from antiquity to the present out of about 87,000 objects. It occupies the Haller'sches Haus, first mentioned in 1517.",
+   "tip": "Good rainy-day choice for families. Look for the tin toys and dolls' houses.",
+   "q": "Spielzeugmuseum, Karlstraße 13-15, Nürnberg",
+   "ll": [
+    49.45467,
+    11.07436
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Spielzeugmuseum_(Nürnberg)"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nudbmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Meet the Adler locomotive at the DB Museum",
+   "desc": "Opened in 1899, the DB Museum is Germany's oldest railway museum and also holds the Museum of Communications. It shows historic locomotives and a replica of the Adler, the first German steam train of 1835, rebuilt after a 2005 fire.",
+   "tip": "Check the museum site for opening hours. Combine with the Neues Museum nearby.",
+   "q": "DB Museum, Lessingstraße 6, Nürnberg",
+   "ll": [
+    49.44556,
+    11.07444
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/DB_Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nuneuesmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Browse design at the Neues Museum",
+   "desc": "The Staatliches Museum für Kunst und Design opened in 2000 in a building by Volker Staab with a curved glass facade. It shows art and design from the 1950s onwards and keeps bees on the roof, whose Stadtgold honey is sold in the shop.",
+   "tip": "Next to the Hauptbahnhof. Try the honey in the museum shop.",
+   "q": "Neues Museum Nürnberg, Luitpoldstraße 5, Nürnberg",
+   "ll": [
+    49.44778,
+    11.08
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Neues_Museum_Nürnberg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nutiergarten",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Spend a day at the Nuremberg Zoo",
+   "desc": "Tiergarten Nürnberg covers 67 hectares of forest around the Schmausenbuck and houses about 300 species, including a dolphin lagoon, manatees and polar bears. The polar bear Flocke, born here in 2007, became world famous.",
+   "tip": "Allow a full day and check the feeding talks.",
+   "q": "Tiergarten Nürnberg, Am Tiergarten 30, Nürnberg",
+   "ll": [
+    49.4475,
+    11.14472
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Nuremberg_Zoo"
+   ]
+  },
+  {
+   "id": "nujohannisfriedhof",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find Dürer's grave in the Johannisfriedhof",
+   "desc": "The St. John's Cemetery is a medieval burial ground where Albrecht Dürer, Veit Stoss and Willibald Pirckheimer are buried. The flat sandstone slabs carry bronze epitaphs.",
+   "tip": "Free to enter. Dürer's grave is marked with his monogram.",
+   "q": "Johannisfriedhof, Johannisstraße, Nürnberg",
+   "ll": [
+    49.45957,
+    11.06085
+   ],
+   "src": [
+    "https://tourismus.nuernberg.de/en/discover/places-of-interest"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "nuhesperidengaerten",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stroll the baroque Hesperidengärten in St. Johannis",
+   "desc": "These baroque gardens along Johannisstraße were laid out by wealthy merchant families from the early modern period, with citrus trees, statues and fountains. Admission is free.",
+   "tip": "Best from May to September when the citrus plants are on display. Combine with the Johannisfriedhof.",
+   "q": "Hesperidengärten, Johannisstraße 13, Nürnberg",
+   "ll": [
+    49.45797,
+    11.06363
+   ],
+   "src": [
+    "https://tourismus.nuernberg.de/en/discover/places-of-interest/location/nuernberger-barockgaerten-hesperidengaerten/"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "nudeutschesmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Test the future at Deutsches Museum Nürnberg",
+   "desc": "Opened in 2021, this branch of the Deutsches Museum, called Das Zukunftsmuseum, sits directly on the Pegnitz near the Hauptmarkt. It explores how technology and society might develop.",
+   "tip": "Open Tuesday to Sunday; check hours before going.",
+   "q": "Deutsches Museum Nürnberg, Augustinerhof 4, Nürnberg",
+   "ll": [
+    49.45369,
+    11.07476
+   ],
+   "src": [
+    "https://bavaria.travel/accessible-holidays/deutsches-museum-nuernberg-das-zukunftsmuseum/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nuheiligeistspital",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Heilig-Geist-Spital over the Pegnitz",
+   "desc": "This hospital for the elderly and needy was founded between 1332 and 1339 and spans an arm of the Pegnitz. It is still a foundation and houses a Franconian restaurant and wine tavern.",
+   "tip": "Walk past on the Museumsbrücke for the best view of the river side.",
+   "q": "Heilig-Geist-Spital, Spitalgasse 12, Nürnberg",
+   "ll": [
+    49.45301,
+    11.07919
+   ],
+   "src": [
+    "https://tourismus.nuernberg.de/en/discover/places-of-interest"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "nufelsengaenge",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Descend into the historic rock-cut cellars",
+   "desc": "A maze of sandstone cellars under the old town was dug from the Middle Ages for storing and brewing beer. The tour starts at Bergstraße 19, lasts about an hour, and the cellars stay at 8 to 10 degrees.",
+   "tip": "Guided tours only; book ahead on weekends. Bring a warm layer.",
+   "q": "Historische Felsengänge Nürnberg, Bergstraße 19, Nürnberg",
+   "ll": [
+    49.4568,
+    11.0753
+   ],
+   "src": [
+    "https://tourismus.nuernberg.de/en/guidedtours/historic-rock-cut-cellars/",
+    "https://www.historische-felsengaenge.de/en/combined-guides/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nukunstbunker",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Tour the Historic Art Bunker under the castle hill",
+   "desc": "This bunker system reaches about 24 m into the castle hill and sheltered the city's art treasures in World War II. The guided tour lasts about an hour and starts at Obere Schmiedgasse 52.",
+   "tip": "Tours run on set days and times; check the city museums site and book English tours ahead.",
+   "q": "Historischer Kunstbunker, Obere Schmiedgasse 52, Nürnberg",
+   "ll": [
+    49.45735,
+    11.0747
+   ],
+   "src": [
+    "https://museums.nuernberg.de/world-war-art-bunker/visitor-information/admission"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nulochgefaengnisse",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Visit the medieval dungeons under the Old Town Hall",
+   "desc": "These cells in the cellar vaults of the old town hall held prisoners awaiting trial. They are visited on a guided tour.",
+   "tip": "Tours are short and timed; ask at the tourist office on the Hauptmarkt.",
+   "q": "Lochgefängnisse, Rathausplatz 2, Nürnberg",
+   "ll": [
+    49.4551,
+    11.0764
+   ],
+   "src": [
+    "https://tourismus.nuernberg.de/en/discover/places-of-interest"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nuchristkindlesmarkt",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Wander the Christkindlesmarkt for Zwetschgenmännla",
+   "desc": "Nuremberg's Christmas market on the Hauptmarkt draws about two million visitors a year. It opens with a prologue by the Christkind from the Frauenkirche balcony and sells plum-prune figures called Zwetschgenmännla.",
+   "tip": "Go on a weekday evening to avoid the worst crowds. Try Glühwein and the Bratwurst from the stalls.",
+   "q": "Christkindlesmarkt, Hauptmarkt, Nürnberg",
+   "ll": [
+    49.45389,
+    11.07722
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Nuremberg_Christmas_Market"
+   ],
+   "months": [
+    11,
+    12
+   ]
+  },
+  {
+   "id": "nualtstadtfest",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Join the Nürnberger Altstadtfest",
+   "desc": "The old town festival fills squares such as Hans-Sachs-Platz and the Insel Schütt with stages and food stalls for about three weeks each autumn. In 2026 it runs 16 September to 4 October.",
+   "tip": "Check the programme for the stage at the Heilig-Geist church ruin.",
+   "q": "Hans-Sachs-Platz, Nürnberg",
+   "ll": [
+    49.45344,
+    11.08
+   ],
+   "src": [
+    "https://tourismus.nuernberg.de/en/experience/nuernberger-altstadtfest-old-town-festival-nuremberg-1/",
+    "https://www.nuernberg.de/internet/stadtportal/altstadtfest.html"
+   ],
+   "months": [
+    9,
+    10
+   ]
+  },
+  {
+   "id": "nurockimpark",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "See a headliner at Rock im Park",
+   "desc": "Rock im Park has taken place on the former Nazi rally grounds since 2004 and draws large rock acts each June.",
+   "tip": "Book tickets early and use the festival shuttles from the Hauptbahnhof.",
+   "q": "Zeppelinfeld, Nürnberg",
+   "ll": [
+    49.4251,
+    11.13002
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Zeppelinfeld"
+   ],
+   "months": [
+    6
+   ]
+  },
+  {
+   "id": "nunorisring",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Watch the racing at the Norisring",
+   "desc": "The Norisring street circuit beside the Congress Hall has hosted a motorsport festival since 1947 and is part of the rally grounds complex.",
+   "tip": "Check the race date for the year; the main event is a summer weekend.",
+   "q": "Norisring, Schlesierstraße, Nürnberg",
+   "ll": [
+    49.42372,
+    11.13667
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Zeppelinfeld"
+   ],
+   "months": [
+    6,
+    7
+   ]
+  },
+  {
+   "id": "nuwoehrdersee",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk or paddle around the Wöhrder See",
+   "desc": "The 52-hectare reservoir was begun in 1959 and completed in 1981. Its lower part is used for recreation, with pedal boats and supervised swimming on summer weekends, while the upper part is left to nature and birdlife.",
+   "tip": "Rent a pedal boat in summer. The lake path suits cycling.",
+   "q": "Wöhrder See, Nürnberg",
+   "ll": [
+    49.45753,
+    11.10975
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Wöhrder_See"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "nuhistorischemeile",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Follow the Historische Meile through the old town",
+   "desc": "This signed route links 41 stations in the medieval old town and takes about an hour without detours. It was created in 2000 for the city's 950th anniversary.",
+   "tip": "Pick up a map at the tourist office on the Hauptmarkt. Allow 2 to 3 hours with detours.",
+   "q": "Hauptmarkt 18, Nürnberg",
+   "ll": [
+    49.45389,
+    11.07722
+   ],
+   "src": [
+    "https://phototravellers.de/nuernberg-historische-meile/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "nuhandwerkerhof",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the craft workshops of the Handwerkerhof",
+   "desc": "This courtyard styled as a medieval village sits behind the city walls near the Königstor. It holds family-run craft shops and restaurants.",
+   "tip": "Go in the morning on a weekday for a quieter visit.",
+   "q": "Handwerkerhof, Königstorgraben 3, Nürnberg",
+   "ll": [
+    49.4468,
+    11.0814
+   ],
+   "src": [
+    "https://tourismus.nuernberg.de/en/discover/places-of-interest"
+   ]
+  },
+  {
+   "id": "numenschenrechte",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the Way of Human Rights",
+   "desc": "This street off the Kornmarkt is lined by 27 tall concrete pillars bearing human rights articles, entered through an arch.",
+   "tip": "Free to walk any time. Combine with the Germanisches Nationalmuseum next door.",
+   "q": "Straße der Menschenrechte, Nürnberg",
+   "ll": [
+    49.4485,
+    11.0768
+   ],
+   "src": [
+    "https://tourismus.nuernberg.de/en/discover/places-of-interest"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "nukettensteg",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cross the Kettensteg over the Pegnitz",
+   "desc": "This iron chain suspension bridge crosses the Pegnitz on the site of an older wooden bridge.",
+   "tip": "Free. Go at sunset for photos.",
+   "q": "Kettensteg, Nürnberg",
+   "ll": [
+    49.4543,
+    11.0715
+   ],
+   "src": [
+    "https://tourismus.nuernberg.de/en/discover/places-of-interest"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "nudutzendteich",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Stroll round the Dutzendteich",
+   "desc": "The lake beside the former rally grounds is surrounded by paths and a beer garden, and links the Congress Hall and Zeppelinfeld walks.",
+   "tip": "Walk the lake in about 40 minutes and end at the Gutmann beer garden.",
+   "q": "Dutzendteich, Nürnberg",
+   "ll": [
+    49.42588,
+    11.11874
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Zeppelinfeld"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "nuguldenstern",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat grilled Rostbratwürste at Zum Gulden Stern",
+   "desc": "The Historical Bratwurst Kitchen grills Nuremberg sausages over beech wood and is billed as the oldest bratwurst kitchen still on its original site, with history reaching back to around 1419. It is in the Jakobsmarkt quarter.",
+   "tip": "Order a portion of Rostbratwürste with Sauerkraut; expect a wait at lunch.",
+   "q": "Historische Bratwurstküche Zum gulden Stern, Zirkelschmiedsgasse 26, Nürnberg",
+   "ll": [
+    49.4515,
+    11.079
+   ],
+   "src": [
+    "https://tourismus.nuernberg.de/en/food-drink/restaurants/franconian-restaurants/location/the-historical-bratwurst-kitchen-zum-gulden-stern/",
+    "https://quartiere-nuernberg.de/en/quartier-jakobsmarkt/kulinarik/historical-bratwurstkueche-zum-gulden-stern"
+   ]
+  },
+  {
+   "id": "nubratwursthaeusle",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste Bratwurst at the Bratwursthäusle by St. Sebald",
+   "desc": "The Bratwursthäusle next to St. Sebald grills its sausages over beech wood. The menu also names oven-fresh Schäufele as a speciality.",
+   "tip": "Order the Nürnberger Rostbratwürste with Sauerkraut. Busy at lunch.",
+   "q": "Bratwursthäusle, Rathausplatz 1, Nürnberg",
+   "ll": [
+    49.4553,
+    11.0764
+   ],
+   "src": [
+    "https://bratwursthaeuslenuernberg.de/wp-content/uploads/2024/03/Bratwursthaeusle_Speisekarte_09_8Seiter_dt_02_24_Web.pdf"
+   ]
+  },
+  {
+   "id": "nugoldenesposthorn",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine in Germany's oldest wine tavern, Goldenes Posthorn",
+   "desc": "The Goldenes Posthorn on Glöckleinsgasse is billed as Germany's oldest wine tavern, dating to 1498 and once a favourite of Dürer and Hans Sachs.",
+   "tip": "Reserve for dinner. Try Bratwurst or Schäufele with a Franconian wine.",
+   "q": "Goldenes Posthorn, Glöckleinsgasse 2, Nürnberg",
+   "ll": [
+    49.4556,
+    11.0761
+   ],
+   "src": [
+    "https://tourismus.nuernberg.de/en/food-drink/restaurants/franconian-restaurants"
+   ]
+  },
+  {
+   "id": "nuduererstube",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Schäufele at the Albrecht-Dürer-Stube",
+   "desc": "This half-timbered tavern near the Dürer house has been run by the Höllerzeder family since 1951 and is often named as serving the best Schäufele, roast pork shoulder with Kloß, in the city.",
+   "tip": "Reserve in the evening and order the Schäufele with a Franconian beer.",
+   "q": "Albrecht-Dürer-Stube, Albrecht-Dürer-Straße 6, Nürnberg",
+   "ll": [
+    49.457,
+    11.0749
+   ],
+   "src": [
+    "https://quartiere-nuernberg.de/en/quartiere/quartier-burgviertel/kulinarik/the-albrecht-duerer-stube"
+   ]
+  },
+  {
+   "id": "nuschaeufelewaertschaft",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order the Schäufele at the Schäufelewärtschaft",
+   "desc": "This tavern specialises in Schäufele, with around 400 roasts eaten each week, and serves classic Franconian cooking in the southern old town.",
+   "tip": "Book ahead for evenings. Order the Schäufele with Kloß.",
+   "q": "Schäufelewärtschaft, Schweiggerstraße 19, Nürnberg",
+   "ll": [
+    49.44217,
+    11.09167
+   ],
+   "src": [
+    "https://tourismus.nuernberg.de/en/food-drink/restaurants/location/schaeufelewirtschaft"
+   ]
+  },
+  {
+   "id": "nusteichele",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try crispy pork Schäufele at Hotel Steichele",
+   "desc": "This hotel restaurant has served traditional and lighter Franconian dishes since 1897. Known for crispy Schweineschäufele, Käsespätzle and Wiener schnitzel.",
+   "tip": "Reserve at weekends.",
+   "q": "Hotel Steichele, Knorrstraße 8, Nürnberg",
+   "ll": [
+    49.44939,
+    11.0709
+   ],
+   "src": [
+    "https://andershusa.com/?p=62634",
+    "https://tourismus.nuernberg.de/en/food-drink/restaurants/franconian-restaurants"
+   ]
+  },
+  {
+   "id": "nualtstadthof",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink Rotbier at the Hausbrauerei Altstadthof",
+   "desc": "This brewery at Bergstraße 19, operating since 1984, is described as Germany's first fully organic brewery. It serves Rotbier, the local red-brown style, and whisky, and uses part of the rock-cut cellars.",
+   "tip": "Order a Rotbier and a Brotzeit. The cellar tours start here.",
+   "q": "Hausbrauerei Altstadthof, Bergstraße 19, Nürnberg",
+   "ll": [
+    49.4569,
+    11.0761
+   ],
+   "src": [
+    "https://theeuropeanbarguide.com/hausbrauerei-altstadthof-nuremberg/"
+   ]
+  },
+  {
+   "id": "numautkeller",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat in the vaulted Tucher Mautkeller",
+   "desc": "This brewhouse at Hallplatz 2 has medieval vaulted cellars and serves Tucher beer with Franconian dishes.",
+   "tip": "Ask for a table in the cellar vaults with a Tucher Helles.",
+   "q": "Tucher Mautkeller, Hallplatz 2, Nürnberg",
+   "ll": [
+    49.44942,
+    11.07906
+   ],
+   "src": [
+    "https://tourismus.nuernberg.de/en/food-drink/restaurants/location/tucher-mautkeller-nuernberg/"
+   ]
+  },
+  {
+   "id": "nuhexenhaeusle",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sit in the Hexenhäusle beer garden",
+   "desc": "This listed inn, unchanged since 1877, has a beer garden at Vestnertorgraben known for Nürnberger Rostbratwürste, Käsespätzle and Brotzeiten.",
+   "tip": "Come on a sunny afternoon and order the bratwurst with a Helles.",
+   "q": "Hexenhäusle, Vestnertorgraben 4, Nürnberg",
+   "ll": [
+    49.4587,
+    11.077
+   ],
+   "src": [
+    "https://www.infranken.de/lk/nuernberg/gastronomie/schanzenbraeu-und-hexenhaeusle-das-sind-die-schoensten-biergaerten-in-nuernberg-art-3302651",
+    "https://tourismus.nuernberg.de/en/food-drink/restaurants/franconian-restaurants"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "nukopernikus",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Enjoy the beer garden at the Kopernikus",
+   "desc": "This beer garden sits on the old castle wall on Hintere Insel Schütt, named for the astronomer Nikolaus Kopernikus and the Nürnberg-Krakow friendship. It serves Wurstsalat and Brotzeiten.",
+   "tip": "Best on a summer evening. Order a Wurstsalat and a beer.",
+   "q": "Restaurant Kopernikus, Hintere Insel Schütt 34, Nürnberg",
+   "ll": [
+    49.45302,
+    11.08572
+   ],
+   "src": [
+    "https://www.infranken.de/lk/nuernberg/gastronomie/schanzenbraeu-und-hexenhaeusle-das-sind-die-schoensten-biergaerten-in-nuernberg-art-3302651"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "nuschanzenbraeu",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink fresh Rotbier at the Schanzenbräu beer garden",
+   "desc": "The family-owned Schanzenbräu serves Helles, Rotbier and seasonal beers with smoked Bratwürste, cheese platters and schnitzel in its beer garden at Adam-Klein-Straße.",
+   "tip": "Choose the smoked Bratwurst with a Rotbier.",
+   "q": "Schanzenbräu, Adam-Klein-Straße 27, Nürnberg",
+   "ll": [
+    49.45075,
+    11.05079
+   ],
+   "src": [
+    "https://www.infranken.de/lk/nuernberg/gastronomie/schanzenbraeu-und-hexenhaeusle-das-sind-die-schoensten-biergaerten-in-nuernberg-art-3302651",
+    "https://tourismus.nuernberg.de/en/food-drink/restaurants/franconian-restaurants"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "nugutmann",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine at the Gutmann beer garden on the Dutzendteich",
+   "desc": "Gutmann am Dutzendteich serves Franconian dishes, salads and fish, and has a cocktail bar and a beer garden beside the lake.",
+   "tip": "Pair with a lake walk. Order a Bratwurst or fish dish.",
+   "q": "Gutmann am Dutzendteich, Bayernstraße 150, Nürnberg",
+   "ll": [
+    49.43535,
+    11.11718
+   ],
+   "src": [
+    "https://www.infranken.de/lk/nuernberg/gastronomie/schanzenbraeu-und-hexenhaeusle-das-sind-die-schoensten-biergaerten-in-nuernberg-art-3302651"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "nuduellebkuechnerei",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Buy hazelnut Lebkuchen at Lebküchnerei Düll",
+   "desc": "This family-owned bakery on Josephsplatz makes hazelnut-forward Nuremberg Lebkuchen, the city's gingerbread.",
+   "tip": "Buy Elisenlebkuchen to take home; best in autumn and winter.",
+   "q": "Lebküchnerei Düll, Josephsplatz 32, Nürnberg",
+   "ll": [
+    49.46168,
+    11.10028
+   ],
+   "src": [
+    "https://andershusa.com/?p=62634",
+    "https://tourismus.nuernberg.de/en/food-drink/nurembergs-specialties/nuremberg-lebkuchen"
+   ]
+  },
+  {
+   "id": "nulebkuchenschmidt",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Shop at the Lebkuchen-Schmidt outlet",
+   "desc": "Lebkuchen-Schmidt, founded in 1927, sells Nuremberg Lebkuchen from an outlet store attached to its production site, one of five year-round stores.",
+   "tip": "Open year-round, with the widest choice in autumn.",
+   "q": "Lebkuchen-Schmidt Outlet Store, Zollhausstraße 30, Nürnberg",
+   "ll": [
+    49.40094,
+    11.11912
+   ],
+   "src": [
+    "https://tourismus.nuernberg.de/en/discover/places-of-interest/location/lebkuchen-schmidt-outlet-store"
+   ]
+  },
+  {
+   "id": "nubergbrand",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sip pour-over at Bergbrand in the Weißgerbergasse",
+   "desc": "Bergbrand Kaffeerösterei roasts its own coffee on the picturesque Weißgerbergasse. Costa Rican pour-over is the highlight.",
+   "tip": "Sit outside on a sunny afternoon after walking the street.",
+   "q": "Bergbrand Kaffeerösterei, Weißgerbergasse 38, Nürnberg",
+   "ll": [
+    49.45491,
+    11.07176
+   ],
+   "src": [
+    "https://andershusa.com/?p=62634"
+   ]
+  },
+  {
+   "id": "nuroeslein",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat at Bratwurst Röslein beside the Christmas market",
+   "desc": "Bratwurst Röslein is described as the world's largest sausage restaurant and sits next to the Christmas market by the old town hall.",
+   "tip": "Try the grilled Rostbratwürste. Expect queues at lunch.",
+   "q": "Bratwurst Röslein, Rathausplatz, Nürnberg",
+   "ll": [
+    49.4549,
+    11.0765
+   ],
+   "src": [
+    "https://tourismus.nuernberg.de/en/food-drink/restaurants/franconian-restaurants"
+   ]
+  }
+ ]
+}

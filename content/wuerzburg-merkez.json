@@ -1,0 +1,849 @@
+{
+ "new": [
+  {
+   "id": "wuresidenz",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk through the Würzburg Residenz",
+   "desc": "Built from 1720 to 1744 for Prince-Bishop Johann Philipp Franz von Schönborn with Balthasar Neumann as architect, the Residenz was completed inside by 1780. With the Hofgarten and Residenzplatz it is a UNESCO World Heritage Site since 1981, and over 40 restored rooms can be visited, including the Kaisersaal and the Spiegelkabinett.",
+   "tip": "Allow two hours for the staircase, Kaisersaal and state rooms. It is open all year; book ahead in summer.",
+   "q": "Residenz Würzburg, Residenzplatz 2, Würzburg",
+   "ll": [
+    49.79278,
+    9.93861
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Würzburger_Residenz"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "wuhofgarten",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stroll the Hofgarten behind the Residenz",
+   "desc": "The Hofgarten lies behind the Residenz and was inscribed on the UNESCO list together with it in 1981. It is the setting of the traditional Nachtmusik concerts of the Mozartfest.",
+   "tip": "Entry to the garden is free. Go in the late afternoon when the sandstone glows.",
+   "q": "Hofgarten, Residenzplatz, Würzburg",
+   "ll": [
+    49.79136,
+    9.9359
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Würzburger_Residenz",
+    "https://de.wikipedia.org/wiki/Mozartfest_Würzburg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "wufestung",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb up to Festung Marienberg",
+   "desc": "The fortress above the Main served as the seat of the Würzburg prince-bishops from 1253 to 1719, and Julius Echter turned it into a Renaissance palace from 1573. It withstood the Peasants' War attack of 1525 but was taken by the Swedes in 1631 and heavily damaged in March 1945.",
+   "tip": "Walk up through the vineyards from the Alte Mainbrücke in about 20 minutes. The courtyard and views over the city are free.",
+   "q": "Festung Marienberg, Marienberg 1, Würzburg",
+   "ll": [
+    49.7898,
+    9.91924
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Festung_Marienberg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "wumuseumfranken",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Museum für Franken in the fortress",
+   "desc": "The Museum für Franken is housed in the Marienberg fortress, with the Fürstenbaumuseum in the princely residence wing. It holds the original Riemenschneider figures of Adam and Eve from the Marienkapelle.",
+   "tip": "Plan about two hours. Check opening days before you go, as the museum is closed on some weekdays.",
+   "q": "Museum für Franken, Festung Marienberg, Würzburg",
+   "ll": [
+    49.78991,
+    9.91766
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Festung_Marienberg",
+    "https://de.wikipedia.org/wiki/Marienkapelle_(Würzburg)"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "wumainbruecke",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Cross the Alte Mainbrücke between the saints",
+   "desc": "Construction of the present bridge began in 1476, and twelve saint statues were added from 1728/29, including Kilian and Charlemagne. The bridge was blown up in April 1945, rebuilt in 1950, and has been closed to cars since 1990.",
+   "tip": "The best view of the fortress is from the bridge at sunset.",
+   "q": "Alte Mainbrücke, Würzburg",
+   "ll": [
+    49.79306,
+    9.92611
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Alte_Mainbrücke"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "wukaeppele",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb the stairs to the Käppele",
+   "desc": "Balthasar Neumann built the pilgrimage church of Mariä Heimsuchung in 1748-1750 on the Nikolausberg. It is reached by a Stations of the Cross staircase of about 250 steps, built 1761-1799, lined with terraces and plane trees.",
+   "tip": "The terrace gives one of the best views of the Marienberg fortress. Go on a clear afternoon.",
+   "q": "Wallfahrtskirche Käppele, Nikolausberg, Würzburg",
+   "ll": [
+    49.78431,
+    9.92189
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Käppele_(Würzburg)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "wudom",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See Riemenschneider's tombs in the Würzburg Dom",
+   "desc": "The Romanesque cathedral St. Kilian was begun in 1040 and consecrated in 1075, and rebuilt after the bombing of 16 March 1945. It contains tombs by Tilman Riemenschneider, Balthasar Neumann's Schönborn Chapel, and bronze doors by Fritz Koenig.",
+   "tip": "Entry is free. Look for the Riemenschneider tombs on the north columns of the nave.",
+   "q": "Kiliansdom, Domstraße, Würzburg",
+   "ll": [
+    49.79339,
+    9.93239
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Würzburger_Dom"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "wuneumuenster",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Kilian crypt at the Neumünster",
+   "desc": "The Baroque facade of 1711-1716 hides a church that holds the shrine of the three Franconian apostles Kilian, Kolonat and Totnan in its west crypt. In the Lusamgärtchen on the north side, a stone remembers the poet Walther von der Vogelweide.",
+   "tip": "The Lusamgärtchen cloister garden is a quiet spot just behind the church.",
+   "q": "Neumünster, Schönbornstraße, Würzburg",
+   "ll": [
+    49.7938,
+    9.9316
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Neumünster_(Würzburg)"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "wumarienkapelle",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the Marienkapelle on the market square",
+   "desc": "The Gothic Marienkapelle was begun in 1377 on the site of the Jewish synagogue destroyed in the pogrom of 1349. The Adam and Eve figures at the south portal are copies of Riemenschneider's work, and its tower is 70 m high.",
+   "tip": "The chapel stands on the Marktplatz, so you can combine it with the Falkenhaus and the market stalls.",
+   "q": "Marienkapelle, Marktplatz, Würzburg",
+   "ll": [
+    49.79478,
+    9.92958
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Marienkapelle_(Würzburg)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "wufalkenhaus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Spot the Rococo facade of the Falkenhaus",
+   "desc": "The Falkenhaus got its three-gabled Rococo facade in 1751 as the inn Zum Falken. It was gutted in 1945 and rebuilt in the early 1950s from old photographs, and houses the tourist information and the city library.",
+   "tip": "Pick up maps and guided tour tickets at the tourist information inside.",
+   "q": "Falkenhaus, Marktplatz 9, Würzburg",
+   "ll": [
+    49.79492,
+    9.93019
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Falkenhaus_(Würzburg)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "wuroentgen",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the room where X-rays were discovered",
+   "desc": "On 8 November 1895 Wilhelm Conrad Röntgen discovered X-rays in the former Physical Institute at Röntgenring 8. The memorial site there opened in 1985 and was modernised for the 125th anniversary in 2020.",
+   "tip": "Check opening hours on wilhelmconradroentgen.de before you go.",
+   "q": "Röntgen-Gedächtnisstätte, Röntgenring 8, Würzburg",
+   "ll": [
+    49.79999,
+    9.93088
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Röntgen-Gedächtnisstätte"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "wukulturspeicher",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See concrete art at the Museum im Kulturspeicher",
+   "desc": "The museum occupies a listed former harbour warehouse on the Main and holds the Städtische Sammlung and the Peter C. Ruppert collection of European concrete art after 1945, with Max Bill and Victor Vasarely. It has about 3,500 square metres of permanent display.",
+   "tip": "Combine it with a walk along the river. Check opening days before you go.",
+   "q": "Museum im Kulturspeicher, Oskar-Laredo-Platz 1, Würzburg",
+   "ll": [
+    49.80136,
+    9.92236
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Museum_im_Kulturspeicher"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "wurathaus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Look up at the Grafeneckart town hall",
+   "desc": "The Grafeneckart is the oldest preserved Romanesque secular building in Würzburg, with a tower of around 1200 and a town hall since 1316. The complex also includes the Roter Bau and the Ratskeller, and was rebuilt in 1947-1951 after the war.",
+   "tip": "The Vierröhrenbrunnen fountain stands in front on Langgasse.",
+   "q": "Rathaus Grafeneckart, Langgasse 1, Würzburg",
+   "ll": [
+    49.79373,
+    9.92812
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Grafeneckart"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "wuhaug",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Marvel at Stift Haug's twin towers and dome",
+   "desc": "Stift Haug was built 1670-1691 by Antonio Petrini and has two 75 m towers and a dome inspired by St. Peter's in Rome. Its high altar is replaced by a large Tintoretto Crucifixion installed in 1964.",
+   "tip": "The interior is free to enter. Organ concerts take place regularly.",
+   "q": "Stift Haug, Textorstraße, Würzburg",
+   "ll": [
+    49.79792,
+    9.93592
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Stift_Haug"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "wualterkranen",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Sit at the Alter Kranen on the Main",
+   "desc": "The Alter Kranen was built by Franz Ignaz Michael Neumann between 1767 and 1773 and worked as a river crane until 1846. Today it is a popular meeting place on the Main quay.",
+   "tip": "Bring a drink from a nearby shop and sit on the quay in summer.",
+   "q": "Alter Kranen, Kranenkai, Würzburg",
+   "ll": [
+    49.79606,
+    9.926
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Alter_Kranen_(Würzburg)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "wusiebold",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Meet Philipp Franz von Siebold at his museum",
+   "desc": "The Siebold-Museum opened in 1995 in a former director's villa of the Bürgerbräu in the Zellerau. It documents the Würzburg Siebold family of physicians and Philipp Franz von Siebold's Japan research, with a Japan library and a Japanese tea room.",
+   "tip": "Check opening times before going, as it is small.",
+   "q": "Siebold-Museum, Frankfurter Straße 87, Würzburg",
+   "ll": [
+    49.79373,
+    9.89444
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Siebold-Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "wuveitshoechheim",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander the Rococo Hofgarten of Veitshöchheim",
+   "desc": "The garden was laid out from 1702 and redesigned from 1763, with about 300 sandstone sculptures by van der Auvera, Tietz and Wagner and a Great Lake with the Parnass hill. It is one of the few intact French-style Rococo gardens in Germany, and the palace was given its form by Balthasar Neumann in 1753.",
+   "tip": "Come between April and October. A boat from Würzburg's Alter Kranen takes about 45 minutes.",
+   "q": "Hofgarten Veitshöchheim, Echterstraße 10, Veitshöchheim",
+   "ll": [
+    49.82995,
+    9.874
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Veitshöchheim",
+    "https://de.wikipedia.org/wiki/Veitshöchheim"
+   ]
+  },
+  {
+   "id": "wusommerhausen",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the walled wine town of Sommerhausen",
+   "desc": "Sommerhausen on the Main has a largely preserved medieval wall with the Maintor showing old flood marks, and a church tower from about 1260. Narrow lanes lead past galleries and wine taverns.",
+   "tip": "Walk the path along the inside of the wall.",
+   "q": "Altstadt Sommerhausen, Sommerhausen",
+   "ll": [
+    49.705,
+    10.02444
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Sommerhausen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "wuochsenfurt",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander the old town of Ochsenfurt",
+   "desc": "Ochsenfurt keeps much of its medieval ring wall with three of four gates, including the Klingentor, and a Neues Rathaus with a moon clock. The town church St. Andreas and the 115 m sugar factory chimney are landmarks.",
+   "tip": "Look for the moon clock on the Lanzentürmchen at the Rathaus.",
+   "q": "Altstadt Ochsenfurt, Ochsenfurt",
+   "ll": [
+    49.66472,
+    10.07917
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Ochsenfurt"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "wurandersacker",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Find Neumann's garden pavilion in Randersacker",
+   "desc": "Around 1750 Balthasar Neumann built a garden pavilion on the former village wall of Randersacker, with proportions based on the golden ratio. Nearby are the Stephanus church and a Zehnthof with a tithe-wine plaque of 1332.",
+   "tip": "Combine with a wine tasting at one of the Randersacker estates on Marsberg or Pfülben.",
+   "q": "Neumann-Pavillon, Randersacker",
+   "ll": [
+    49.759,
+    9.981
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Randersacker"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "wubuergerspitalstube",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Franconian classics in the Bürgerspital Weinstuben",
+   "desc": "The wine tavern of the Bürgerspital foundation, which dates back to 1316, serves its own wines with Franconian dishes. The estate cellar is called Germany's largest wooden-cask cellar.",
+   "tip": "Order the Bratwurst or the Schäufele with a glass of Silvaner. Reserve by phone.",
+   "q": "Bürgerspital Weinstuben, Theaterstraße 19, Würzburg",
+   "ll": [
+    49.7959,
+    9.9354
+   ],
+   "src": [
+    "https://www.speisekarte.de/w%C3%BCrzburg/restaurant/buergerspital_weinstuben",
+    "https://de.wikipedia.org/wiki/Bürgerspital_Würzburg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "wujuliusspitalstube",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink the foundation's wine at the Juliusspital Weinstuben",
+   "desc": "The wine tavern at Juliuspromenade 19 belongs to the Juliusspital foundation, founded in 1579 by Prince-Bishop Julius Echter, and serves wines from the estate.",
+   "tip": "Try the regional dishes with a Silvaner from the estate.",
+   "q": "Weinstuben Juliusspital, Juliuspromenade 19, Würzburg",
+   "ll": [
+    49.79758,
+    9.93144
+   ],
+   "src": [
+    "https://www.speisekarte.de/w%C3%BCrzburg/restaurant/weinstuben_juliusspital",
+    "https://de.wikipedia.org/wiki/Juliusspital"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "wustachel",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine in the courtyard of Weinhaus Zum Stachel",
+   "desc": "Frommer's calls it the oldest wine house in Würzburg, dating from 1413, with a historic interior and a courtyard.",
+   "tip": "Order hearty Franconian dishes and a glass of Frankenwein in the courtyard.",
+   "q": "Weinhaus Zum Stachel, Gressengasse 1, Würzburg",
+   "ll": [
+    49.794,
+    9.9306
+   ],
+   "src": [
+    "https://www.frommers.com/destinations/wurzburg/restaurants/",
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/wuerzburg/fraenkische-kueche/"
+   ]
+  },
+  {
+   "id": "wubackoefele",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try Schäufele at Backöfele",
+   "desc": "Backöfele on Ursulinergasse has served Franconian cooking for over 35 years. Guests praise the Sauerbraten and Franconian sausages, and Frommer's notes freshwater fish such as pike and carp.",
+   "tip": "Order the Schäufele or the Sauerbraten. Reserve for the evening.",
+   "q": "Backöfele, Ursulinergasse 2, Würzburg",
+   "ll": [
+    49.79204,
+    9.92925
+   ],
+   "src": [
+    "https://www.speisekarte.de/w%C3%BCrzburg/restaurant/backoefele",
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/wuerzburg/backoefele/"
+   ]
+  },
+  {
+   "id": "wuschnabel",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste Leberknödelsuppe at Weinhaus Schnabel",
+   "desc": "Weinhaus Schnabel is a Weinstube with a red facade and a wood-panelled interior over 100 years old, known for Franconian wines and dishes like Leberknödelsuppe and Schnitzel. It holds a Wirtshaussingen on the second and fourth Monday of each month.",
+   "tip": "Visit on a singalong Monday for the atmosphere.",
+   "q": "Weinhaus Schnabel, Ritterstraße 3, Würzburg",
+   "ll": [
+    49.7977,
+    9.93455
+   ],
+   "src": [
+    "https://www.merian.de/deutschland/bayern/wuerzburg-restaurants-cafes"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "wuratskeller",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat pike-perch in the Ratskeller beneath the town hall",
+   "desc": "The Ratskeller sits in the vaulted cellar of the Grafeneckart complex, where a chapel of 1399 survives. Frommer's names the Zander with noodles and salad as a favourite.",
+   "tip": "Try the Zander. The entrance is on Langgasse.",
+   "q": "Ratskeller Würzburg, Langgasse 1, Würzburg",
+   "ll": [
+    49.7939,
+    9.9283
+   ],
+   "src": [
+    "https://www.frommers.com/destinations/wurzburg/restaurants/",
+    "https://de.wikipedia.org/wiki/Grafeneckart"
+   ]
+  },
+  {
+   "id": "wumainmuehle",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink on the balcony of the Alte Mainmühle",
+   "desc": "Gasthaus Alte Mainmühle sits right at the Alte Mainbrücke and serves traditional home-style dishes, with a bridge stall for wine. Guests like the balcony above the water.",
+   "tip": "Take a Brückenschoppen before dinner.",
+   "q": "Alte Mainmühle, Mainkai, Würzburg",
+   "ll": [
+    49.7934,
+    9.9262
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/wuerzburg/fraenkische-kueche/",
+    "https://www.opentable.ca/alte-mainmuhle"
+   ]
+  },
+  {
+   "id": "wubuergerspital",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink Franconian wine at the Bürgerspital Weinstuben",
+   "desc": "The Bürgerspital Weinstuben at Theaterstraße 19 belong to the Bürgerspital zum Heiligen Geist foundation, which has made wine in Würzburg for centuries. The tavern serves Franconian dishes with the estate's wines.",
+   "tip": "Try a Silvaner with a regional dish; book ahead for evenings.",
+   "q": "Bürgerspital Weinstuben, Theaterstraße 19, Würzburg",
+   "ll": [
+    49.79566,
+    9.93465
+   ],
+   "src": [
+    "https://www.buergerspital.de/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "wuwunschlos",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have waffles in the courtyard of Wunschlos Glücklich",
+   "desc": "This courtyard café on Bronnbachergasse offers sweet and savoury waffles, panini and homemade lemonade, with slams or readings in the evenings.",
+   "tip": "Visit for brunch; kids get half portions.",
+   "q": "Wunschlos Glücklich, Bronnbachergasse 22, Würzburg",
+   "ll": [
+    49.79578,
+    9.93032
+   ],
+   "src": [
+    "https://www.merian.de/deutschland/bayern/wuerzburg-restaurants-cafes",
+    "https://www.golocal.de/wuerzburg/cafes/wunschlos-gluecklich-YUWnz/"
+   ]
+  },
+  {
+   "id": "wucafefred",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order porridge at Café Fred",
+   "desc": "Café Fred in Herzogenstraße has been a local favourite since 2015, with a stylish interior and a concept store across the street. Known for porridge, beetroot bread and a falafel salad.",
+   "tip": "Go for brunch or coffee and cake.",
+   "q": "Café Fred, Herzogenstraße 4, Würzburg",
+   "ll": [
+    49.7955,
+    9.93225
+   ],
+   "src": [
+    "https://www.merian.de/deutschland/bayern/wuerzburg-restaurants-cafes"
+   ]
+  },
+  {
+   "id": "wutilman",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat regional at Gasthaus Tilman",
+   "desc": "Gasthaus Tilman is named after the sculptor Tilman Riemenschneider and cooks with fresh regional ingredients, with service by young people in a job-integration programme.",
+   "tip": "Ask for the daily regional dishes.",
+   "q": "Gasthaus Tilman, Würzburg",
+   "ll": [
+    49.79215,
+    9.93047
+   ],
+   "src": [
+    "https://www.merian.de/deutschland/bayern/wuerzburg-restaurants-cafes"
+   ]
+  },
+  {
+   "id": "wukuno1408",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Splurge on modern Franconian at Kuno 1408",
+   "desc": "Kuno 1408 in the Altstadt serves modern Franconian fine dining such as sweetbread, carp and lamb.",
+   "tip": "Book ahead; a good place for a special evening.",
+   "q": "Kuno 1408, Würzburg",
+   "ll": [
+    49.79048,
+    9.93055
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/wuerzburg/fraenkische-kueche/"
+   ]
+  },
+  {
+   "id": "wuritterjoerg",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine in a 15th-century house at Ritter Jörg",
+   "desc": "Restaurant Ritter Jörg in Sommerhausen serves Franconian dishes in a house from the 15th century in the walled wine town.",
+   "tip": "Combine with a walk along the town wall.",
+   "q": "Ritter Jörg, Sommerhausen",
+   "ll": [
+    49.70501,
+    10.02446
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/wuerzburg/fraenkische-kueche/"
+   ]
+  },
+  {
+   "id": "wubrueckenschoppen",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Have a Brückenschoppen on the old bridge",
+   "desc": "Würzburgers buy a glass of Frankenwein from stalls on or near the Alte Mainbrücke and drink it on the bridge facing the fortress. Guided Brückenschoppen tours start at the Falkenhaus tourist information.",
+   "tip": "Go in the evening for sunset on the Main.",
+   "q": "Alte Mainbrücke, Würzburg",
+   "ll": [
+    49.7929,
+    9.9258
+   ],
+   "src": [
+    "https://www.musement.com/nl/wurzburg/wurzburger-bruckenschoppen-tour-with-wine-present-445981",
+    "https://rausgegangen.de/en/events/fuhrung-wurzburger-bruckenschoppen-1"
+   ]
+  },
+  {
+   "id": "wujuliusspitalcellar",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Tour the Juliusspital wine cellar",
+   "desc": "Under the Fürstenbau lies a wooden-cask cellar about 250 m long with 220 casks, run by the Juliusspital wine estate.",
+   "tip": "Book a cellar tour with tasting through the estate.",
+   "q": "Weingut Juliusspital, Juliuspromenade 19, Würzburg",
+   "ll": [
+    49.80258,
+    9.92304
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Juliusspital"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "wuhofkellertour",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the candle-lit Hofkeller vaults under the Residenz",
+   "desc": "The Staatlicher Hofkeller dates back to 1128 and became the prince-bishops' court cellar in 1168. Tours start at the Frankonia Fountain and lead through vaults under the Residenz's north wing with about 300 wooden casks, with candles carried as a traditional air test.",
+   "tip": "Join a scheduled tour, then stop at the direct sales outlet in the Rosenbachpalais.",
+   "q": "Staatlicher Hofkeller Würzburg, Residenzplatz 3, Würzburg",
+   "ll": [
+    49.79392,
+    9.93828
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Staatlicher_Hofkeller_Würzburg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "wubuergerspitalcellar",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Visit the Bürgerspital cellar and its 1540 Steinwein",
+   "desc": "The Bürgerspital estate, dating to 1319, has what is described as Germany's largest wooden-cask cellar, and its Schatzkammer stores old vintages including a 1540 Steinwein.",
+   "tip": "Ask about cellar tours and tastings at the estate.",
+   "q": "Weingut Bürgerspital, Theaterstraße 19, Würzburg",
+   "ll": [
+    49.79603,
+    9.93556
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Bürgerspital_Würzburg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "wusteinweinpfad",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the Stein-Wein-Pfad above the city",
+   "desc": "The 4 km figure-eight trail runs through the vineyards of the Würzburger Stein, with some 50 metres of climb and a panorama path over the city. Silvaner was first planted in Würzburg in 1665 and Goethe praised Steinwein.",
+   "tip": "Start at Schlosshotel Steinburg or the Weingut am Stein. Wear sun protection.",
+   "q": "Stein-Wein-Pfad, Mittlerer Steinbergweg, Würzburg",
+   "ll": [
+    49.80618,
+    9.91429
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/stein-wein-pfad-wuerzburg",
+    "https://de.wikipedia.org/wiki/Würzburger_Stein"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "wumozartfest",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Hear Mozart in the Residenz at the Mozartfest",
+   "desc": "The Mozartfest has been held since 1921 and takes place in the Kaisersaal of the Residenz and elsewhere, with the Nachtmusik in the Hofgarten a fixture.",
+   "tip": "Book tickets early. Dates change each year.",
+   "q": "Residenz Würzburg, Residenzplatz 2, Würzburg",
+   "ll": [
+    49.79278,
+    9.93861
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Mozartfest_Würzburg"
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "months": [
+    5,
+    6
+   ]
+  },
+  {
+   "id": "wukiliani",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Ride the Kiliani-Volksfest at Talavera",
+   "desc": "The Kiliani-Volksfest runs for about two weeks in early to mid July, around the Kiliani feast of 8 July, on the Talavera parking lot in the Zellerau. It is the counterpart of the Kilianimesse trade fair, which dates to 1030.",
+   "tip": "Go on a weekday evening to avoid crowds.",
+   "q": "Kiliani-Volksfest, Talavera, Würzburg",
+   "ll": [
+    49.79845,
+    9.91983
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kiliani-Volksfest"
+   ],
+   "months": [
+    7
+   ]
+  },
+  {
+   "id": "wuweihnachtsmarkt",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Würzburger Weihnachtsmarkt",
+   "desc": "The Christmas market fills the area around the Marktplatz with the Marienkapelle and Falkenhaus. It runs from late November until Christmas.",
+   "tip": "Try Glühwein and bratwurst; check dates for the year.",
+   "q": "Weihnachtsmarkt Würzburg, Marktplatz, Würzburg",
+   "ll": [
+    49.7945,
+    9.9293
+   ],
+   "src": [
+    "https://www.festivalsindeutschland.de/festival/wuerzburger-weihnachtsmarkt/2025"
+   ],
+   "months": [
+    11,
+    12
+   ]
+  },
+  {
+   "id": "wumainboot",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Take the Main boat to Veitshöchheim",
+   "desc": "Passenger ships run April to October several times a day between Würzburg's Alter Kranen and Veitshöchheim, taking about 45 minutes. The boat lands near the Rococo Hofgarten.",
+   "tip": "Check the timetable before you go.",
+   "q": "Alter Kranen Schiffsanleger, Kranenkai, Würzburg",
+   "ll": [
+    49.79606,
+    9.926
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Veitshöchheim"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "wubotgarten",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Stroll the University Botanical Garden",
+   "desc": "The garden has been on the southern edge of the city at Julius-von-Sachs-Platz 4 since 1960, on the Mittlerer Dallenbergweg.",
+   "tip": "Check the opening hours and entrance fee on the university site.",
+   "q": "Botanischer Garten der Universität Würzburg, Julius-von-Sachs-Platz 4, Würzburg",
+   "ll": [
+    49.76531,
+    9.93131
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Botanischer_Garten_der_Universität_Würzburg"
+   ]
+  },
+  {
+   "id": "wueibelstadtmauer",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Eibelstadt city wall and its 14 towers",
+   "desc": "Eibelstadt has a fully preserved city wall with 14 towers, including the Maintor and the Kereturm of 1573. The baroque Rathaus of 1706-1708 and the Mariensäule stand on the market square.",
+   "tip": "Combine with a wine tasting in this Main wine village.",
+   "q": "Stadtmauer Eibelstadt, Eibelstadt",
+   "ll": [
+    49.72611,
+    9.99902
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Eibelstadt"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "wutorturmtheater",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Catch a play in the Sommerhausen Torturmtheater",
+   "desc": "Luigi Malipiero opened this small theatre in 1950 in the tower above the Würzburger Tor in Sommerhausen. It seated about 50 people.",
+   "tip": "Check the current programme before travelling.",
+   "q": "Torturmtheater, Sommerhausen",
+   "ll": [
+    49.70677,
+    10.02388
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Sommerhausen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,859 @@
+{
+ "new": [
+  {
+   "id": "nuplonlein",
+   "cat": "gor",
+   "area": "rothenburg",
+   "title": "Photograph the Plönlein fork in Rothenburg",
+   "desc": "The Plönlein is a small triangular square where the Kobolzeller Steige and Spitalgasse split, framed by a half-timbered house and the Siebersturm. It is Rothenburg's best-known photo spot.",
+   "tip": "Come early morning or after 18:00 to avoid tour-group crowds.",
+   "q": "Plönlein, Rothenburg ob der Tauber",
+   "ll": [
+    49.37503,
+    10.18133
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Rothenburg_ob_der_Tauber"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "nurathausturm",
+   "cat": "gor",
+   "area": "rothenburg",
+   "title": "Climb the Rathaus tower above Marktplatz",
+   "desc": "The town hall tower in Rothenburg is about 61 m tall, and the top room gives a view over most of the old town and the Tauber valley.",
+   "tip": "Entry costs a couple of euros; the climb is steep and narrow.",
+   "q": "Rathaus, Marktplatz 1, Rothenburg ob der Tauber",
+   "ll": [
+    49.37722,
+    10.17889
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Rothenburg_ob_der_Tauber"
+   ]
+  },
+  {
+   "id": "nustjakob",
+   "cat": "gor",
+   "area": "rothenburg",
+   "title": "See the Holy Blood altar in St. James' Church",
+   "desc": "St. Jakob holds the Holy Blood reredos carved by Tilman Riemenschneider between 1500 and 1505. The Gothic church is Rothenburg's main parish church.",
+   "tip": "Entry is ticketed; the altar is in the west gallery.",
+   "q": "St.-Jakobs-Kirche, Klingengasse 1, Rothenburg ob der Tauber",
+   "ll": [
+    49.37831,
+    10.17919
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Rothenburg_ob_der_Tauber"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nukriminalmuseum",
+   "cat": "gor",
+   "area": "rothenburg",
+   "title": "Visit the Medieval Crime Museum",
+   "desc": "The museum shows about 1,000 years of legal history, with instruments of punishment, torture devices and scold's bridles. It occupies the former Johanniter commandery at Burggasse 3-5.",
+   "tip": "Allow an hour; the last entry is 45 minutes before closing, and times vary seasonally.",
+   "q": "Mittelalterliches Kriminalmuseum, Burggasse 3, Rothenburg ob der Tauber",
+   "ll": [
+    49.37569,
+    10.17924
+   ],
+   "src": [
+    "https://www.rothenburg.de/en/entdecken/museen/mittelalterliches-kriminalmuseum",
+    "https://www.museum.de/en/museen/kriminalmuseum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nuweihnachtsmuseum",
+   "cat": "gor",
+   "area": "rothenburg",
+   "title": "Browse the Käthe Wohlfahrt Christmas Museum",
+   "desc": "Rothenburg's Weihnachtsmuseum shows the history of Christmas decorations and customs, next to the year-round Christmas shop of Käthe Wohlfahrt.",
+   "tip": "Open all year, so it works as a rainy-day stop in summer too.",
+   "q": "Deutsches Weihnachtsmuseum, Herrngasse 1, Rothenburg ob der Tauber",
+   "ll": [
+    49.37815,
+    10.17861
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Rothenburg_ob_der_Tauber"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nuburggarten",
+   "cat": "gor",
+   "area": "rothenburg",
+   "title": "Walk the Burggarten above the Tauber valley",
+   "desc": "The Burggarten lies on the site of the former imperial castle at the western edge of the old town. It has views down to the Tauber valley.",
+   "tip": "Free to enter; go at sunset for the valley light.",
+   "q": "Burggarten, Burggasse, Rothenburg ob der Tauber",
+   "ll": [
+    49.37596,
+    10.17376
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Rothenburg_ob_der_Tauber"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "nustadtmauer",
+   "cat": "dene",
+   "area": "rothenburg",
+   "title": "Walk Rothenburg's medieval town wall",
+   "desc": "The old town is ringed by a wall with covered walkways and towers such as the Klingentor; the eastern stretches were rebuilt after bomb damage in 1945. Large parts of it can be walked.",
+   "tip": "Free to walk; start at the Rödertor and follow the loop in about an hour.",
+   "q": "Rödertor, Rothenburg ob der Tauber",
+   "ll": [
+    49.37686,
+    10.18398
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Rothenburg_ob_der_Tauber"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "nunachtwaechter",
+   "cat": "dene",
+   "area": "rothenburg",
+   "title": "Follow the Night Watchman tour through Rothenburg",
+   "desc": "The night watchman leads a roughly one-hour tour of lanes and legends, starting at the Marktplatz. Tours run in German and English, and the English tour has been offered at 20:00.",
+   "tip": "Adults paid about 8 euro in 2024 and children under 12 were free; confirm the time with Rothenburg Tourismus.",
+   "q": "Marktplatz, Rothenburg ob der Tauber",
+   "ll": [
+    49.37713,
+    10.17892
+   ],
+   "src": [
+    "https://www.rothenburg.de/en/fileadmin/Tourismus/Dateien/Gaestefuehrungen/Infoblatt-Fuehrungen_ab_Maerz.pdf"
+   ]
+  },
+  {
+   "id": "nureiterlesmarkt",
+   "cat": "dene",
+   "area": "rothenburg",
+   "title": "Shop the Reiterlesmarkt Christmas market",
+   "desc": "Rothenburg's Christmas market, the Reiterlesmarkt, fills the Marktplatz and nearby lanes in the weeks before Christmas, in front of the half-timbered old town.",
+   "tip": "Go on a weekday afternoon; weekends are crowded.",
+   "q": "Marktplatz, Rothenburg ob der Tauber",
+   "ll": [
+    49.37735,
+    10.1787
+   ],
+   "src": [
+    "https://www.rothenburg.de/en/erleben/kulinarik/kulinarik-erleben"
+   ],
+   "months": [
+    11,
+    12
+   ]
+  },
+  {
+   "id": "nuzurhoell",
+   "cat": "ye",
+   "area": "rothenburg",
+   "title": "Eat Franconian dishes at Zur Höll",
+   "desc": "Zur Höll is a restaurant in a building said to date from around AD 900, claimed as the oldest in Rothenburg. Fodor's lists it among the town's restaurants.",
+   "tip": "Try the regional Schäufele or a Franconian plate; book ahead in summer.",
+   "q": "Restaurant Zur Höll, Burggasse 8, Rothenburg ob der Tauber",
+   "ll": [
+    49.37592,
+    10.17785
+   ],
+   "src": [
+    "https://fodors.fodors.com/world/europe/germany/the-romantic-road/restaurants/reviews/restaurant-zur-holl-592390"
+   ]
+  },
+  {
+   "id": "nufriedelschneeball",
+   "cat": "ye",
+   "area": "rothenburg",
+   "title": "Try a Schneeball at Bäckerei Friedel",
+   "desc": "The Schneeball is Rothenburg's deep-fried dough pastry coated in sugar or chocolate. Bäckerei-Konditorei-Café Friedel on the Markt is listed as a bakery known for them.",
+   "tip": "Buy a plain one first, then try chocolate or nougat.",
+   "q": "Bäckerei Friedel, Markt 8, Rothenburg ob der Tauber",
+   "ll": [
+    49.3774,
+    10.1791
+   ],
+   "src": [
+    "https://www.dasoertliche.de/Themen/Back-Shop/Rothenburg-O-L.html",
+    "https://en.wikipedia.org/wiki/Rothenburg_ob_der_Tauber"
+   ]
+  },
+  {
+   "id": "nuroedertorkartoffel",
+   "cat": "ye",
+   "area": "rothenburg",
+   "title": "Eat potato dishes at the Gasthof Rödertor Kartoffelstube",
+   "desc": "The Kartoffelstube at Gasthof Rödertor builds its menu around potatoes, from dumplings to potato-base pizza, plus meat dishes such as Schäufele.",
+   "tip": "Ask for the Schäufele; reviews call it tender.",
+   "q": "Gasthof Rödertor, Rödergasse, Rothenburg ob der Tauber",
+   "ll": [
+    49.37643,
+    10.18554
+   ],
+   "src": [
+    "https://app.wanderlog.com/place/details/2506696"
+   ]
+  },
+  {
+   "id": "nugoldenergreifen",
+   "cat": "ye",
+   "area": "rothenburg",
+   "title": "Order roast goose leg at Gasthof Goldener Greifen",
+   "desc": "This Gasthof in the old town serves Franconian cooking such as roast goose leg with red cabbage and potato dumplings, according to Frommer's.",
+   "tip": "Goose is a cool-season dish here; ask about the day's specials.",
+   "q": "Gasthof Goldener Greifen, Obere Schmiedgasse 5, Rothenburg ob der Tauber",
+   "ll": [
+    49.37689,
+    10.17797
+   ],
+   "src": [
+    "https://www.frommers.com/destinations/rothenburg-ob-der-tauber/restaurants/gasthof-goldener-greifen"
+   ],
+   "months": [
+    9,
+    10,
+    11,
+    12,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "nudinkelsbuehlmuenster",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stroll Dinkelsbühl's old town to St. George's Minster",
+   "desc": "Dinkelsbühl is a walled free imperial city with an almost complete medieval ring of towers and gates, including the Wörnitztor. The late Gothic hall church of St. Georg stands at its centre.",
+   "tip": "Walk the town wall at dusk, then pause at the Weinmarkt.",
+   "q": "Münster St. Georg, Dinkelsbühl",
+   "ll": [
+    49.06946,
+    10.31993
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Dinkelsb%C3%BChl"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "nuansbachresidenz",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the Residenz Ansbach state rooms",
+   "desc": "The Residenz was the seat of the Margraves of Brandenburg-Ansbach. Its Prunkräume can only be seen on a guided tour of about 50 minutes, run by the Bavarian Palace Administration.",
+   "tip": "Closed Mondays; tour times change seasonally, see schloesser.bayern.de. The Hofgarten and Orangerie café are open to all.",
+   "q": "Residenz Ansbach, Promenade 27, Ansbach",
+   "ll": [
+    49.30262,
+    10.57929
+   ],
+   "src": [
+    "https://www.schloesser.bayern.de/deutsch/service/infomat/screen-pdf/ansbach_dt.pdf"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nuweissenburgthermen",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the boardwalks above the Roman baths in Weißenburg",
+   "desc": "The Roman Thermae of Weißenburg are among the best-preserved bath complexes in southern Germany, now under a tent roof with walkways.",
+   "tip": "Combine with the RömerMuseum on a combined ticket.",
+   "q": "Römische Thermen, Am Römerbad 17a, Weißenburg in Bayern",
+   "ll": [
+    49.03059,
+    10.95862
+   ],
+   "src": [
+    "https://en.naturpark-altmuehltal.de/poi/roemische_thermen_weissenburg-1862/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nuwuelzburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the Wülzburg Renaissance fortress",
+   "desc": "The Wülzburg is a Renaissance fortress on a hill east of Weißenburg; it has a 143 m deep well hewn into the rock, and Charles de Gaulle was held here in the First World War.",
+   "tip": "Guided tours run through Museen Weißenburg.",
+   "q": "Festung Wülzburg, Weißenburg in Bayern",
+   "ll": [
+    49.02556,
+    11.00528
+   ],
+   "src": [
+    "https://www.european-traveler.com/germany/top-sights-in-weisenburg-ellingen-germany"
+   ]
+  },
+  {
+   "id": "nujuramuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Meet Juravenator at the Jura-Museum in Eichstätt",
+   "desc": "The Jura-Museum inside the Willibaldsburg shows Jurassic fossils from the Solnhofen quarries, including marine reptiles, pterosaurs and the small dinosaur Juravenator starki.",
+   "tip": "Closed Mondays; open 9-18 in summer, 10-16 in winter.",
+   "q": "Jura-Museum, Burgstraße 19, Eichstätt",
+   "ll": [
+    48.89501,
+    11.16861
+   ],
+   "src": [
+    "https://snsb.de/en/jura-museum-eichstaett/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nueichstaettdom",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Eichstätt Cathedral",
+   "desc": "The cathedral combines Romanesque origins with later Gothic, Baroque and Rococo elements, and anchors Eichstätt's prince-bishop townscape.",
+   "tip": "Free to enter; wander the Baroque streets around the Residenzplatz afterwards.",
+   "q": "Dom, Domplatz, Eichstätt",
+   "ll": [
+    48.89229,
+    11.18517
+   ],
+   "src": [
+    "https://www.european-traveler.com/?p=1950"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nukipfenbergmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Try on Roman gear at the Römer und Bajuwaren Museum",
+   "desc": "The museum in the outer ward of Burg Kipfenberg covers the Limes, Roman rule and the arrival of the Baiuvarii in the Altmühl valley. It is also a Limes info point.",
+   "tip": "Visitors can try on Roman equipment; open daily 10-16 per museum listings.",
+   "q": "Römer und Bajuwaren Museum, Burg 1, Kipfenberg",
+   "ll": [
+    48.94872,
+    11.3978
+   ],
+   "src": [
+    "https://en.naturpark-altmuehltal.de/poi/roemer_und_bajuwaren_museum_bu-469"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nupappenheimburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb to the ruins of Burg Pappenheim",
+   "desc": "The castle is a high medieval spur castle from the 11th century above Pappenheim. The keep gives a view over the town and the Altmühl valley.",
+   "tip": "Open April to October; entry was about 4 euro at last listing.",
+   "q": "Burg Pappenheim, Pappenheim",
+   "ll": [
+    48.93296,
+    10.97166
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Pappenheim"
+   ]
+  },
+  {
+   "id": "nufeuchtwangenmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See folk art at the Fränkisches Museum Feuchtwangen",
+   "desc": "The museum is described by the town as one of the finest folk-art museums in southern Germany. ADAC highlights a 1484 altarpiece from the workshop of Michael Wolgemut, Dürer's teacher.",
+   "tip": "Combine with the late Romanesque cloister next door.",
+   "q": "Fränkisches Museum, Museumstraße 19, Feuchtwangen",
+   "ll": [
+    49.16775,
+    10.33366
+   ],
+   "src": [
+    "https://www.feuchtwangen.de/englisch/tour-of-the-town",
+    "https://de.wikivoyage.org/wiki/Feuchtwangen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nustadtbrille",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Photograph the Stadtbrille in Amberg",
+   "desc": "The Stadtbrille is a double-arched water gate across the Vils, dated 1454 or 1464 depending on the source. Its reflection makes it look like a pair of glasses, hence the name.",
+   "tip": "Best from the riverbank in the evening.",
+   "q": "Stadtbrille, Amberg",
+   "ll": [
+    49.44281,
+    11.85734
+   ],
+   "src": [
+    "https://global-geography.org/af/Geography/Europe/Germany/Pictures/Trip_through_Germany/Amberg_-_Stadtbrille"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "nuambergstmartin",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Admire St. Martin's Basilica on Amberg's Marktplatz",
+   "desc": "St. Martin is a late Gothic hall church whose 92 m tower has a green cupola; it is the main church of Amberg's old town.",
+   "tip": "Free to enter. The old town survived the Second World War largely intact.",
+   "q": "Basilika St. Martin, Marktplatz, Amberg",
+   "ll": [
+    49.44488,
+    11.85786
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Amberg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "nusolnhofenmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See fossils at the Bürgermeister-Müller-Museum",
+   "desc": "The museum in Solnhofen shows fossils from the Solnhofen limestone, and offers a children's programme with a treasure hunt in the quarry.",
+   "tip": "Open seven days in summer; the museum also sells tickets for the hobby quarry.",
+   "q": "Bürgermeister-Müller-Museum, Bahnhofstraße 8, Solnhofen",
+   "ll": [
+    48.89199,
+    10.99241
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/B%C3%BCrgermeister-M%C3%BCller-Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nusulzbachsynagoge",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the former synagogue of Sulzbach",
+   "desc": "The synagogue was rebuilt after the 1822 town fire and consecrated in 1827; since 2013 it is a memorial and documentation centre on Jewish life in the Upper Palatinate.",
+   "tip": "Open by appointment; arrange through the city tourism office.",
+   "q": "Ehemalige Synagoge, Synagogenstraße 9, Sulzbach-Rosenberg",
+   "ll": [
+    49.50436,
+    11.73941
+   ],
+   "src": [
+    "https://wikipedia.com/wiki/Synagogue_of_Sulzbach",
+    "https://museen-in-bayern.de/en/museums/museum-details/ehemalige-synagoge-sulzbach"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "nuweibsbrauhaus",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink house beer and Weib's Töpfle at Weib's Brauhaus",
+   "desc": "Weib's Brauhaus is a half-timbered brewpub in Dinkelsbühl run by a female brewmaster; Lonely Planet names the Weib's Töpfle, pork in beer sauce with croquettes.",
+   "tip": "Open late; closed Tuesdays per one listing.",
+   "q": "Weib's Brauhaus, Untere Schmiedgasse 13, Dinkelsbühl",
+   "ll": [
+    49.07027,
+    10.31693
+   ],
+   "src": [
+    "https://www.speisekarte.de/dinkelsb%C3%BChl/restaurant/weibs_brauhaus"
+   ]
+  },
+  {
+   "id": "nudeutscheshaus",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine in the 1440 Hotel Deutsches Haus in Dinkelsbühl",
+   "desc": "The Hotel Deutsches Haus on the Weinmarkt is a half-timbered hotel in a building dating to 1440, with an Altdeutsches Restaurant serving regional cuisine.",
+   "tip": "Reserve in the evening, especially during the Kinderzeche in July.",
+   "q": "Hotel Deutsches Haus, Weinmarkt 3, Dinkelsbühl",
+   "ll": [
+    49.06949,
+    10.3188
+   ],
+   "src": [
+    "https://www.frommers.com/destinations/dinkelsbuhl/hotels/hotel-deutsches-haus"
+   ]
+  },
+  {
+   "id": "nutrompete",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat in the beer garden of Braugasthof Trompete in Eichstätt",
+   "desc": "The Braugasthof Trompete has a beer garden for 60 guests, a weekly changing menu of Bavarian specialities and Gutmann beers from Titting.",
+   "tip": "Check the weekly specials board.",
+   "q": "Braugasthof Trompete, Ostenstraße 3, Eichstätt",
+   "ll": [
+    48.89053,
+    11.18711
+   ],
+   "src": [
+    "https://eichstaett.de/pdf/flyer/web-flyer_eichstaett-kocht_2025.pdf"
+   ]
+  },
+  {
+   "id": "nuhofmuehl",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Eichstätt's own beer from Privatbrauerei Hofmühl",
+   "desc": "Privatbrauerei Hofmühl is the only brewery located in Eichstätt itself.",
+   "tip": "Look for Hofmühl on tap in local Gasthäuser.",
+   "q": "Privatbrauerei Hofmühl, Hofmühlstraße 10, Eichstätt",
+   "ll": [
+    48.89326,
+    11.16831
+   ],
+   "src": [
+    "https://en.wikipedia.com/wiki/Hofm%C3%BChl"
+   ]
+  },
+  {
+   "id": "nubruckmueller",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Sit in the Bruckmüller courtyard in Amberg",
+   "desc": "Brauerei Bruckmüller is a brewery and Bavarian restaurant with a courtyard beer garden, one of the breweries in the Amberger Bierfest.",
+   "tip": "Open from 11:30; try a house lager with regional dishes.",
+   "q": "Brauerei Bruckmüller, Vilsstraße 2, Amberg",
+   "ll": [
+    49.44638,
+    11.85412
+   ],
+   "src": [
+    "https://www.ratebeer.com/Place/bavaria/amberg/brauerei-bruckmuller/8408.htm"
+   ]
+  },
+  {
+   "id": "nuschloderer",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order Schweinebraten at Schloderer Bräu in Amberg",
+   "desc": "Schloderer Bräu is an old-town brewhouse restaurant with three draught beers; a reviewer highlights its roast pork in dark beer sauce.",
+   "tip": "Pair the Schweinebraten with the house dark beer.",
+   "q": "Schloderer Bräu, Rathausstraße 4, Amberg",
+   "ll": [
+    49.44501,
+    11.85921
+   ],
+   "src": [
+    "https://www.ratebeer.com/Place/germany/amberg/schloderer-brau/8409.htm"
+   ]
+  },
+  {
+   "id": "nuhausamsee",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat at Haus am See on the Altmühlsee",
+   "desc": "Restaurant Haus am See stands at the Wald-Seezentrum on the Altmühlsee near Gunzenhausen, with lake views and a choice of beers.",
+   "tip": "Check the menu for seasonal carp.",
+   "q": "Haus am See, Seezentrum, Gunzenhausen",
+   "ll": [
+    49.12527,
+    10.72106
+   ],
+   "src": [
+    "https://www.swipein.restaurant/en/restaurant/haus-am-see-altmuhlsee-gunzenhausen-bayern"
+   ]
+  },
+  {
+   "id": "nugoldeneslamm",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Look for Altmühltal lamb at Zum Goldenen Lamm in Treuchtlingen",
+   "desc": "Gasthof Zum Goldenen Lamm at Marktstraße 16 is a riverside inn with a restaurant. The Altmühltaler Lamm is a regional quality label.",
+   "tip": "Ask whether lamb is on the menu; confirm by phone.",
+   "q": "Gasthof Zum Goldenen Lamm, Marktstraße 16, Treuchtlingen",
+   "ll": [
+    48.9558,
+    10.9099
+   ],
+   "src": [
+    "https://freizeitmonster.de/gastronomie/restaurants/hotel-und-gasthof-zum-goldenen-lamm-im-altmuehltal-196390"
+   ]
+  },
+  {
+   "id": "nugasthofsonne",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try Altmühltaler Weiderind at Hotel-Gasthof Sonne in Pappenheim",
+   "desc": "The Sonne is listed among Pappenheim places serving Altmühltaler Weiderind, regional pasture-raised beef.",
+   "tip": "Combine with a visit to Burg Pappenheim.",
+   "q": "Hotel-Gasthof Sonne, Pappenheim",
+   "ll": [
+    48.9335,
+    10.9737
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Pappenheim"
+   ]
+  },
+  {
+   "id": "nukinderzeche",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Join the Kinderzeche festival in Dinkelsbühl",
+   "desc": "The Kinderzeche is a historical children's and heritage festival with a play in the Schranne, a parade on Sunday and a funfair on the Schießwasen; it is UNESCO intangible heritage. The 2026 edition ran 17 to 26 July.",
+   "tip": "Tickets via kinderzeche.de; book early.",
+   "q": "Schranne, Dinkelsbühl",
+   "ll": [
+    49.0705,
+    10.3198
+   ],
+   "src": [
+    "https://meiser-hotels.de/en/events/kinderzeche-dinkelsbuehl"
+   ],
+   "months": [
+    7
+   ]
+  },
+  {
+   "id": "nukreuzgangspiele",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "See open-air theatre at the Kreuzgangspiele Feuchtwangen",
+   "desc": "The Feuchtwangen Kreuzgangspiele have been staged in the late Romanesque cloister each year since 1949.",
+   "tip": "Box office at Marktplatz 2; check the programme.",
+   "q": "Kreuzgang, Feuchtwangen",
+   "ll": [
+    49.16823,
+    10.33081
+   ],
+   "src": [
+    "https://maps.adac.de/poi/kreuzgangspiele-feuchtwangen-feuchtwangen"
+   ],
+   "months": [
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "nubrombachtrimaran",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cruise Brombachsee on the MS Brombachsee trimaran",
+   "desc": "The MS Brombachsee is billed as Europe's first and largest passenger trimaran on an inland lake, with five piers: Ramsberg, Absberg, Enderndorf, Allmannsdorf and Pleinfeld/Wald. A cruise lasts about 1.5 hours.",
+   "tip": "Operator phone 09144 92 70 50; check season dates.",
+   "q": "Anlegestelle Ramsberg, Brombachsee, Pleinfeld",
+   "ll": [
+    49.11971,
+    10.93558
+   ],
+   "src": [
+    "https://www.discover-bavaria.com/destinations/ms-brombachsee"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "nubrombachbaden",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim at the Strandbad on Großer Brombachsee",
+   "desc": "The Großer Brombachsee has a Strandbad and a sailing school, and Ramsberg has a large inland sailing harbour.",
+   "tip": "Season is summer; bring a sunhat.",
+   "q": "Strandbad Großer Brombachsee, Absberg",
+   "ll": [
+    49.1177,
+    10.9288
+   ],
+   "src": [
+    "https://tourispo.de/badesee/grosser-brombachsee.html"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "nukanuuh",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Paddle the Altmühl from Treuchtlingen to Pappenheim",
+   "desc": "The Altmühl is one of Bavaria's calmest paddling rivers; Kanuuh in Treuchtlingen rents canoes, with a 15 km stretch to Pappenheim and weirs to portage.",
+   "tip": "Best April to October; take the train back.",
+   "q": "Kanuuh, Jahnstraße, Treuchtlingen",
+   "ll": [
+    48.9538,
+    10.9033
+   ],
+   "src": [
+    "https://app.advcollective.com/local-experts/water-adventures-kanuuh-treuchtlingen-pappenheim"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "nubootsverleihpappenheim",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hire a boat from Bootsverleih Altmühl in Pappenheim",
+   "desc": "Bootsverleih Altmühl at Beckstraße 34 in Pappenheim is one of the Altmühl canoe outfitters between Treuchtlingen and Dollnstein.",
+   "tip": "Phone ahead; return transport can be arranged.",
+   "q": "Bootsverleih Altmühl, Beckstraße 34, Pappenheim",
+   "ll": [
+    48.93428,
+    10.98136
+   ],
+   "src": [
+    "https://www.Berching.de/pdf/prospekte/npa-bootwandern_1.pdf"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "numoernsheimquarry",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Split slate for fossils at the Besuchersteinbruch Mühlheim",
+   "desc": "The visitor quarry at Mühlheim near Mörnsheim offers 60-minute guided tours with tools included, then lets you hunt fossils yourself (2019 information).",
+   "tip": "Group tours need at least five people; confirm.",
+   "q": "Besuchersteinbruch Mühlheim, Mörnsheim",
+   "ll": [
+    48.9159,
+    11.0762
+   ],
+   "src": [
+    "https://media.naturpark-altmuehltal.de/timm_dokumente/downloads/steinbruchfuehrungenmuehlheim2019_1.pdf"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "nusolnhofenhobby",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Dig for fossils in the Solnhofen hobby quarry",
+   "desc": "The Hobbysteinbruch near Solnhofen lets visitors search the Mörnsheim beds for fossils; the museum rents tools and sells tickets.",
+   "tip": "Open about April to October, 9-17.",
+   "q": "Hobbysteinbruch, Solnhofen",
+   "ll": [
+    48.88458,
+    10.9901
+   ],
+   "src": [
+    "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/71"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "nuvogelinsel",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Altmühlsee shore to the Vogelinsel",
+   "desc": "The Altmühlsee has a 12 km shore path, and its Vogelinsel is a significant protected area for migratory birds, explored from Muhr am See.",
+   "tip": "Bring binoculars in spring and autumn.",
+   "q": "Vogelinsel, Altmühlsee, Muhr am See",
+   "ll": [
+    49.14532,
+    10.70611
+   ],
+   "src": [
+    "https://maps.adac.de/poi/altmuehlsee-bayern"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "nuluftmuseum",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Visit the Luftmuseum in Amberg",
+   "desc": "The Luftmuseum is in the Klösterl, called Engelsburg, from the early 14th century. Artist Wilhelm Koch founded it in 2006 with the Luftmuseum e.V. to show art about air.",
+   "tip": "Amberg has called itself Luftkunstort since 2009.",
+   "q": "Luftmuseum, Eichenforstgasse 12, Amberg",
+   "ll": [
+    49.4443,
+    11.85708
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Amberg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  }
+ ]
+}

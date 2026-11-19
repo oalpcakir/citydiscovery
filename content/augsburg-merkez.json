@@ -1,0 +1,624 @@
+{
+ "new": [
+  {
+   "id": "aufuggerei",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk through the Fuggerei, the world's oldest social housing",
+   "desc": "Founded in 1521 by Jakob Fugger the Rich, the Fuggerei is still home to Augsburg residents who pay an annual rent of 0.88 euros. The walled quarter has its own gates, a church and a museum, plus a WWII air-raid bunker.",
+   "tip": "Entry is ticketed; the museum is open Tuesday to Sunday. Come on a weekday morning for quiet lanes.",
+   "q": "Fuggerei Museum, Mittlere Gasse 13, Augsburg",
+   "ll": [
+    48.36862,
+    10.90449
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Fuggerei",
+    "https://www.fugger.de/en/fuggerei"
+   ]
+  },
+  {
+   "id": "aurathaus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the Goldener Saal in Augsburg's Rathaus",
+   "desc": "Elias Holl built the Renaissance town hall between 1615 and 1624. Its Goldener Saal, with a gilded coffered ceiling, is among the most important secular Renaissance halls in Germany and was rebuilt after destruction in 1944.",
+   "tip": "The hall can be visited when no event is on; check hours first. The square outside is free.",
+   "q": "Rathaus Augsburg, Rathausplatz 2, Augsburg",
+   "ll": [
+    48.36865,
+    10.89825
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Augsburger_Rathaus",
+    "https://www.augsburg-tourismus.de/"
+   ]
+  },
+  {
+   "id": "audom",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Hohe Domkirche Mariä Heimsuchung",
+   "desc": "Augsburg's cathedral combines Romanesque and Gothic parts and holds some of the oldest known stained glass figures, the prophet windows from around 1100. Its bronze doors show Old Testament scenes.",
+   "tip": "Entry is free. Look for the prophet windows in the south nave.",
+   "q": "Augsburger Dom, Hoher Weg, Augsburg",
+   "ll": [
+    48.37255,
+    10.8958
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Augsburger_Dom"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "auperlach",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb the Perlachturm for a view over the old town",
+   "desc": "The Perlachturm next to the Rathaus is about 70 m high; Elias Holl raised it to its present form in 1615. The top has a viewing platform and a carillon.",
+   "tip": "Open seasonally; check current times and tickets.",
+   "q": "Perlachturm, Rathausplatz, Augsburg",
+   "ll": [
+    48.3687,
+    10.89805
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Perlachturm_(Augsburg)",
+    "https://www.augsburg-tourismus.de/"
+   ]
+  },
+  {
+   "id": "aumaximilianstrasse",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stroll Maximilianstraße to the Herkulesbrunnen",
+   "desc": "The broad boulevard connects the Rathaus area with St. Ulrich and Afra. Its Augustus, Mercury and Hercules fountains were built around 1600, the last two with bronzes by Adriaen de Vries.",
+   "tip": "Evenings are lively; the Hercules fountain is at the southern end.",
+   "q": "Herkulesbrunnen, Maximilianstraße, Augsburg",
+   "ll": [
+    48.366,
+    10.9
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Maximilianstraße_(Augsburg)",
+    "https://de.wikipedia.org/wiki/Herkulesbrunnen_(Augsburg)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "auschaezlerpalais",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Tour the Rococo Schaezlerpalais",
+   "desc": "Built 1765 to 1770 for the banker Benedikt Adam Liebert von Liebenhofen, the palace has a Rococo ballroom. The museum shows old German masters and the Augsburg art collection.",
+   "tip": "Closed Mondays; permanent exhibition free on Sundays.",
+   "q": "Schaezlerpalais, Maximilianstraße 46, Augsburg",
+   "ll": [
+    48.3659,
+    10.8997
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schaezlerpalais",
+    "https://kunstsammlungen-museen.augsburg.de/en/your-visit"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "auulrichafra",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the basilica of St. Ulrich and Afra",
+   "desc": "This late Gothic basilica of 1474 to 1500 holds the tombs of saints Ulrich and Afra. It stands beside the Protestant Ulrichskirche, forming a double church at the south end of Maximilianstraße.",
+   "tip": "Entry is free; the Baroque interior and altars are worth the time.",
+   "q": "Basilika St. Ulrich und Afra, Ulrichsplatz 19, Augsburg",
+   "ll": [
+    48.36149,
+    10.90016
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/St._Ulrich_und_Afra_(Augsburg)"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "auwassertuerme",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore the UNESCO water towers at the Roten Tor",
+   "desc": "The Wasserwerk am Roten Tor has three water towers from the 15th to 17th centuries, among the oldest in central Europe, and two Brunnenmeister houses. They belong to Augsburg's Water Management System, a UNESCO World Heritage Site since 2019.",
+   "tip": "Interiors open mostly on guided tours; book via Augsburg Tourismus.",
+   "q": "Wasserwerk am Roten Tor, Rotes Tor, Augsburg",
+   "ll": [
+    48.35998,
+    10.90305
+   ],
+   "src": [
+    "https://welterbedeutschland.de/augsburger-wassermanagement-system/",
+    "https://wassersystem-augsburg.de/en"
+   ]
+  },
+  {
+   "id": "auhochablass",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Hochablass weir and waterworks on the Lech",
+   "desc": "The Hochablass weir diverts Lech water into Augsburg's canals. The nearby Wasserwerk am Hochablass, commissioned in 1879, marked the start of modern water supply. Both are listed objects of the UNESCO Water Management System.",
+   "tip": "Walk or cycle along the Lech; free to visit outside.",
+   "q": "Wasserwerk am Hochablass, Augsburg",
+   "ll": [
+    48.34751,
+    10.9351
+   ],
+   "src": [
+    "https://welterbedeutschland.de/augsburger-wassermanagement-system/",
+    "https://wassersystem-augsburg.de/en"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "aumaximilianmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Discover city history at the Maximilianmuseum",
+   "desc": "The museum in the Herwart palace of 1546 presents Augsburg crafts, goldsmith work and automata. Its Renaissance courtyard is a highlight.",
+   "tip": "Tuesday to Sunday 10 to 17 h; free on Sundays.",
+   "q": "Maximilianmuseum, Philippine-Welser-Straße 24, Augsburg",
+   "ll": [
+    48.36779,
+    10.89648
+   ],
+   "src": [
+    "https://kunstsammlungen-museen.augsburg.de/en/your-visit",
+    "https://de.wikipedia.org/wiki/Maximilianmuseum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "autim",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step into the Textile and Industry Museum (tim)",
+   "desc": "The Staatliches Textil- und Industriemuseum sits in the former Augsburger Kammgarnspinnerei and tells the story of Augsburg's textile industry. A 2026 exhibition on Talbot Runhof couture runs until 25 October.",
+   "tip": "Tuesday to Sunday 9 to 18 h, Monday closed.",
+   "q": "tim Textil- und Industriemuseum, Provinostraße 46, Augsburg",
+   "ll": [
+    48.36388,
+    10.91427
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Augsburg_textile_and_industry_museum",
+    "https://www.timbayern.de/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "aubrechthaus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Brechthaus, birthplace of Bertolt Brecht",
+   "desc": "Bertolt Brecht was born in this Lechviertel house in 1898. The small museum shows his early life and his ties to Augsburg.",
+   "tip": "Check current opening hours before going.",
+   "q": "Brechthaus, Auf dem Rain 7, Augsburg",
+   "ll": [
+    48.3703,
+    10.9014
+   ],
+   "src": [
+    "https://kunstsammlungen-museen.augsburg.de/en/your-visit",
+    "https://de.wikipedia.org/wiki/Brechthaus"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "aumozarthaus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Learn about the Mozart family at the Leopold-Mozart-Haus",
+   "desc": "Leopold Mozart, father of Wolfgang Amadeus, was born in Augsburg in 1719. The house now holds a museum on the family's Augsburg roots.",
+   "tip": "Admission was listed at about 6 euros; check hours.",
+   "q": "Leopold-Mozart-Haus, Frauentorstraße 30, Augsburg",
+   "ll": [
+    48.3756,
+    10.8957
+   ],
+   "src": [
+    "https://kunstsammlungen-museen.augsburg.de/en/your-visit",
+    "https://de.wikipedia.org/wiki/Leopold-Mozart-Haus"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "aufuggerwelser",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Meet the merchant dynasties at the Fugger und Welser Museum",
+   "desc": "The museum shows how the Fugger and Welser families built their trading empires in the 16th century.",
+   "tip": "Tuesday to Sunday and holidays 10 to 17 h.",
+   "q": "Fugger und Welser Erlebnismuseum, Äußeres Pfaffengässchen 23, Augsburg",
+   "ll": [
+    48.37404,
+    10.9004
+   ],
+   "src": [
+    "https://kunstsammlungen-museen.augsburg.de/en/your-visit"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "auroemerlager",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See Roman Augusta Vindelicum at the Römerlager",
+   "desc": "Augsburg was founded around 15 BC as Augusta Vindelicum, capital of the Roman province Raetia. The Römerlager exhibition in the Zeughaus presents Roman finds while a new Roman museum is planned.",
+   "tip": "Regular entry about 3 euros; free on Sundays.",
+   "q": "Römerlager im Zeughaus, Zeugplatz 4, Augsburg",
+   "ll": [
+    48.36625,
+    10.89711
+   ],
+   "src": [
+    "https://kunstsammlungen-museen.augsburg.de/en/your-visit"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "aufreilichtbuehne",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Catch an open-air show at the Freilichtbühne am Roten Tor",
+   "desc": "Built in 1929 inside an old rampart, the open-air stage seats over 2,000 and stages opera and musicals in summer.",
+   "tip": "Season runs in summer; bring a cushion.",
+   "q": "Freilichtbühne am Roten Tor, Augsburg",
+   "ll": [
+    48.35993,
+    10.90264
+   ],
+   "src": [
+    "https://www.augsburg-tourismus.de/"
+   ],
+   "months": [
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "aupuppenkiste",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Watch a show at the Augsburger Puppenkiste",
+   "desc": "The marionette theatre was founded in 1948 by Walter and Rose Oehmichen in the Heilig-Geist-Spital and made Jim Knopf and Urmel famous. The museum die Kiste is in the same building.",
+   "tip": "Book tickets in advance for weekend shows.",
+   "q": "Augsburger Puppenkiste, Spitalgasse 15, Augsburg",
+   "ll": [
+    48.36057,
+    10.90326
+   ],
+   "src": [
+    "https://rausgegangen.de/locations/augsburger-puppenkiste/",
+    "https://de.wikipedia.org/wiki/Augsburger_Puppenkiste"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "aueiskanal",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Watch paddlers at the Olympic Eiskanal",
+   "desc": "The Eiskanal was built for the 1972 Olympic canoe slalom and is regarded as the world's first artificial whitewater course. It is a UNESCO site and still used by paddling clubs.",
+   "tip": "Walk along the bank; free to watch.",
+   "q": "Eiskanal, Augsburg",
+   "ll": [
+    48.34918,
+    10.93652
+   ],
+   "src": [
+    "https://wassersystem-augsburg.de/en/objects/canoe-course-eiskanal",
+    "https://en.wikipedia.org/wiki/Augsburg_Eiskanal"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "aukuhsee",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Swim or stroll around the Kuhsee",
+   "desc": "The Kuhsee is a lake in the south-west of the city with a gravel beach, playgrounds, kiosks and a restaurant. A footpath rings the water.",
+   "tip": "Swim in summer; check boat hire at the restaurant.",
+   "q": "Kuhsee, Augsburg",
+   "ll": [
+    48.33871,
+    10.93981
+   ],
+   "src": [
+    "https://www.swimcheck.com/en/swimming-spot/21882/kuhsee-augsburg"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "ausiebentischwald",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the Siebentischpark and Stadtwald",
+   "desc": "The 27 hectare Siebentischpark links the city centre with the large Siebentischwald forest; the zoo and botanical garden lie next to it.",
+   "tip": "A good, free walk or bike ride.",
+   "q": "Siebentischpark, Augsburg",
+   "ll": [
+    48.349,
+    10.901
+   ],
+   "src": [
+    "https://www.planetware.com/tourist-attractions-/augsburg-d-ba-aug.htm"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "auzoo",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Spend a day at Zoo Augsburg",
+   "desc": "The zoo lies next to the Siebentischwald and keeps a wide range of animals, with a tropical house and kids' areas.",
+   "tip": "Combine with the botanical garden opposite.",
+   "q": "Zoo Augsburg, Brehmplatz 1, Augsburg",
+   "ll": [
+    48.3467,
+    10.91587
+   ],
+   "src": [
+    "https://www.discover-bavaria.com/ausflugsziele/zoo-augsburg"
+   ]
+  },
+  {
+   "id": "aubotanischergarten",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Wander the Botanischer Garten Augsburg",
+   "desc": "The botanical garden sits directly opposite the zoo and mixes outdoor beds with greenhouses.",
+   "tip": "Admission was listed around 3.50 euros; check before going.",
+   "q": "Botanischer Garten Augsburg, Dr.-Ziegenspeck-Weg 10, Augsburg",
+   "ll": [
+    48.35058,
+    10.91159
+   ],
+   "src": [
+    "https://www.planetware.com/tourist-attractions-/augsburg-d-ba-aug.htm"
+   ]
+  },
+  {
+   "id": "auchristkindlesmarkt",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Augsburger Christkindlesmarkt",
+   "desc": "One of Germany's best-known Christmas markets fills the Rathausplatz and nearby streets, with the Engelesspiel on the Rathaus facade.",
+   "tip": "2026 dates listed as 23 November to 24 December; entry free.",
+   "q": "Christkindlesmarkt, Rathausplatz, Augsburg",
+   "ll": [
+    48.3689,
+    10.8983
+   ],
+   "src": [
+    "https://www.festivalsindeutschland.de/festival/augsburger-christkindlesmarkt-engelesspiel"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    11,
+    12
+   ]
+  },
+  {
+   "id": "auhandwerkerweg",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Follow the canals of the Lechviertel",
+   "desc": "The Lechviertel has four Lech canals over 1.4 km. It was home to weavers, tanners and craftsmen and was restored in the 1980s; a Handwerkerweg route explains it.",
+   "tip": "Free and best on foot.",
+   "q": "Hinterer Lech, Lechviertel, Augsburg",
+   "ll": [
+    48.368,
+    10.903
+   ],
+   "src": [
+    "https://www.voicemap.me/tour/augsburg/the-venice-of-augsburg-a-tour-of-lechviertel-s-countless-canals-and-bridges",
+    "https://www.augsburg-tourismus.de/files/augsburgtourismus/media/infomaterial/pdf/2026/Flyer_Handwerkerweg_2026_web.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "auriegele",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink a Riegele beer at the Wirtshaus and BierGarten",
+   "desc": "Riegele has brewed in Augsburg since 1386 and runs a Wirtshaus and a garden under old trees at the brewery. The garden reopened in 2012 and visitors may bring their own food.",
+   "tip": "Hours vary, so check before going.",
+   "q": "Riegele WirtsHaus, Frölichstraße 26, Augsburg",
+   "ll": [
+    48.3675,
+    10.8846
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Riegele",
+    "https://rausgegangen.de/en/locations/riegele-biergarten/"
+   ]
+  },
+  {
+   "id": "aubauerntanz",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order Kässpatzen at the Altstadtgasthaus Bauerntanz",
+   "desc": "A historic old-town inn between the Lech arms with Swabian dishes such as Kässpatzen and Maultaschen. Reviewers call it busy and touristy.",
+   "tip": "Book on busy evenings.",
+   "q": "Altstadtgasthaus Bauerntanz, Bauerntanzgässchen 1, Augsburg",
+   "ll": [
+    48.36768,
+    10.90055
+   ],
+   "src": [
+    "https://www.speisekarte.de/augsburg/restaurant/bauerntanz"
+   ]
+  },
+  {
+   "id": "auratskeller",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Kässpatzen or Maultaschen at the Ratskeller",
+   "desc": "The Ratskeller at the Rathaus serves Bavarian-Swabian food, with Kässpatzen and fried Maultaschen on its menu.",
+   "tip": "Check the menu for seasonal dishes.",
+   "q": "Ratskeller Augsburg, Elias-Holl-Platz 2, Augsburg",
+   "ll": [
+    48.3687,
+    10.8975
+   ],
+   "src": [
+    "https://media.enchilada.de/media/ratskeller_augsburg/Ratskeller_Augsburg_Speisekarte_EN.pdf"
+   ]
+  },
+  {
+   "id": "auzeughausstuben",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine in the vaults of the Zeughaus Stuben",
+   "desc": "A traditional Bavarian restaurant with vaulted rooms and a beer garden at the Zeughaus.",
+   "tip": "Roughly 20 to 30 euros a head.",
+   "q": "Zeughaus Stuben, Zeugplatz 4, Augsburg",
+   "ll": [
+    48.36613,
+    10.89651
+   ],
+   "src": [
+    "https://www.speisekarte.de/augsburg/restaurant/zeughausstuben"
+   ]
+  },
+  {
+   "id": "auhirschgarten",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sit in the Thorbräu Hirschgarten beer garden",
+   "desc": "Thorbräu pours at the Hirschgarten beside the Thorbräukeller, open from 5 pm.",
+   "tip": "Seasonal; check weather and hours.",
+   "q": "Hirschgarten Thorbräukeller, Heilig-Kreuz-Straße 20, Augsburg",
+   "ll": [
+    48.3715,
+    10.8925
+   ],
+   "src": [
+    "https://www.augsburg-tourismus.de/files/augsburgtourismus/media/infomaterial/pdf/2016/regio_braukunst-biergaerten_2016.pdf"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "aufreibank",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink Thorbräu beer at the Freibank",
+   "desc": "Thorbräu is based at the Wertachbrucker Tor; its Freibank at the Bräustüberl opens daily from 11 according to the tourism brochure.",
+   "tip": "Source is older; confirm hours.",
+   "q": "Thorbräu Bräustüberl, Wertachbrucker-Tor-Straße 9, Augsburg",
+   "ll": [
+    48.37627,
+    10.88895
+   ],
+   "src": [
+    "https://www.augsburg-tourismus.de/files/augsburgtourismus/media/infomaterial/pdf/2016/regio_braukunst-biergaerten_2016.pdf"
+   ]
+  },
+  {
+   "id": "auwirtshausamlech",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Relax in the Wirtshaus am Lech beer garden",
+   "desc": "A green beer garden in Lechhausen on Leipziger Straße.",
+   "tip": "Check seasonal hours.",
+   "q": "Wirtshaus am Lech, Leipziger Straße 50, Augsburg",
+   "ll": [
+    48.38307,
+    10.90414
+   ],
+   "src": [
+    "https://www.augsburg-tourismus.de/files/augsburgtourismus/media/infomaterial/pdf/2016/regio_braukunst-biergaerten_2016.pdf"
+   ]
+  },
+  {
+   "id": "audichtl",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have cake at Café Dichtl on Maximilianstraße",
+   "desc": "A family-run café with a large cake range including Prinzregententorte and Schwarzwälder-Sahne-Torte.",
+   "tip": "Weekends are busy.",
+   "q": "Café Dichtl, Maximilianstraße 18, Augsburg",
+   "ll": [
+    48.3679,
+    10.8987
+   ],
+   "src": [
+    "https://speisekarte.menu/restaurants/augsburg/dichtl/menu"
+   ]
+  },
+  {
+   "id": "autafeldecker",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have lunch at Die Tafeldecker in the Fuggerei",
+   "desc": "A German-style kitchen with lunch service inside the Fuggerei quarter.",
+   "tip": "Combine with a Fuggerei visit.",
+   "q": "Die Tafeldecker, Jakoberstraße 26, Augsburg",
+   "ll": [
+    48.32782,
+    10.88771
+   ],
+   "src": [
+    "https://www.speisekarte.de/augsburg/restaurant/die_tafeldecker"
+   ]
+  }
+ ]
+}

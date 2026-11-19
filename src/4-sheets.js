@@ -239,9 +239,25 @@
       '<div class="list flush">' + t.quests.map(function (q, i) { return questRow(q, { n: i + 1 }); }).join("") + '</div>' +
       '<div class="actions"><button class="btn" data-act="trail-map" data-id="' + esc(id) + '">' + ic("route") + 'Follow it on the map</button></div>', true);
   }
+  // The picker's filter box: shows matching regions (and coming-soon lines), opens the countries that have a match.
+  function filterRegions(v) {
+    var q = fold(v.trim()), any = false;
+    [].forEach.call($sheet.querySelectorAll(".cgroup"), function (g) {
+      var countryHit = q && g.dataset.search.indexOf(q) !== -1, hits = 0;
+      [].forEach.call(g.querySelectorAll("[data-search]"), function (r) {
+        var on = !q || countryHit || r.dataset.search.indexOf(q) !== -1;
+        r.hidden = !on; if (on) hits++;
+      });
+      g.hidden = q && !hits;
+      if (q && hits) g.open = true;
+      if (hits) any = true;
+    });
+    var none = $sheet.querySelector(".rnone");
+    if (none) none.hidden = any;
+  }
   function openRegions() {
     closeSheetSilently();
-    showSheet("regions", X + '<div class="cel-h">Choose a region</div>' + regionRows(), true);
+    showSheet("regions", X + '<div class="cel-h">Choose a region</div>' + regionRows({ search: true }), true);
   }
   function openPhoto(id, key) {
     var q = byKey[key];
@@ -640,6 +656,7 @@
     if (d.tab) { closeSheetSilently(); ui.pinMode = false; ui.tab = d.tab; render(); window.scrollTo(0, 0); return; }
     switch (d.act) {
       case "suggest": suggest(); break;
+      case "musteats": closeSheetSilently(); ui.tab = "quests"; ui.qview = "dishes"; render(); window.scrollTo(0, 0); break;
       case "regions": openRegions(); break;
       case "overview": showOverview(); break;
       case "zoom-in": if (map) map.zoomIn(); break;
@@ -784,6 +801,7 @@
     }
   });
   document.addEventListener("input", function (e) {
+    if (e.target.id === "rsearch") { filterRegions(e.target.value); return; }
     if (e.target.id === "psearch") {
       ui.sq = e.target.value;
       findPlaces(ui.sq);

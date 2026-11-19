@@ -236,6 +236,25 @@ body.card-open .fab, body.card-open .mapctl { opacity: 0; pointer-events: none; 
 .rgroup { display: flex; align-items: center; font-size: 12px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); margin: 14px 0 6px; }
 .rsoon { display: flex; align-items: center; gap: 2px; padding: 10px 12px; margin: 2px 0 4px; border-radius: 12px; border: 1px dashed var(--line); color: var(--muted); font-size: 13px; font-weight: 600; }
 .rgroup:first-of-type { margin-top: 0; } .rgroup small { margin-left: auto; font-size: 11px; font-weight: 600; letter-spacing: 0; text-transform: none; }
+/* Region picker and "All regions": one collapsible section per country */
+.rsearch { margin: 0 0 8px; } .rsearch + .note { margin: 0 0 12px; }
+.cgroup { border-radius: 18px; background: var(--bg); margin-bottom: 8px; overflow: hidden; }
+.panel .cgroup { background: color-mix(in srgb, var(--bg) 70%, var(--card)); }
+.cgroup summary { list-style: none; display: flex; align-items: center; gap: 10px; padding: 12px 14px; cursor: pointer; min-height: 56px; }
+.cgroup summary::-webkit-details-marker { display: none; }
+.cgroup summary .flag { font-size: 22px; margin: 0; width: 1.35em; height: .95em; border-radius: 4px; }
+.cgroup summary b { display: block; font-size: 15.5px; font-family: var(--f-display); font-weight: 700; letter-spacing: -.01em; }
+.cgroup summary small { display: block; color: var(--muted); font-size: 12px; }
+.cg-pct { font-weight: 800; font-size: 13px; color: var(--accent-ink); font-variant-numeric: tabular-nums; }
+.cgroup summary > .ic { color: var(--muted); transition: transform .2s; width: 18px; height: 18px; margin: 0; flex: none; }
+.cgroup[open] summary > .ic { transform: rotate(180deg); }
+.cgroup[open] summary { border-bottom: 1px solid var(--line); }
+.cg-body { padding: 4px 6px 8px; background: var(--card); }
+.cg-body .rrow { margin: 2px 0; }
+.rrow .rp em { font-style: normal; font-size: 10.5px; font-weight: 800; text-transform: uppercase; letter-spacing: .06em; color: var(--accent-ink); background: var(--accent-soft); padding: 2px 6px; border-radius: 99px; margin-right: 6px; }
+.rrow:not(.started) .meter i { background: transparent; }
+.cg-body .rsoon { align-items: flex-start; gap: 8px; margin: 6px 6px 2px; } .cg-body .rsoon > .ic { margin-top: 2px; flex: none; }
+.cg-body .rsoon b { display: block; font-size: 13px; } .cg-body .rsoon span { display: block; font-weight: 500; font-size: 12px; line-height: 1.5; margin-top: 2px; }
 .rrow { display: flex; align-items: center; gap: 12px; width: 100%; text-align: left; padding: 10px 12px; border-radius: 14px; min-height: 52px; }
 .rrow.cur { background: var(--accent-soft); }
 .rn { font-weight: 650; margin-bottom: 6px; } .rn small { font-weight: 400; color: var(--muted); font-size: 12.5px; }
@@ -579,6 +598,20 @@ body.card-open .nearpanel { display: none; }
 .stamp.on .st-n { color: var(--text); }
 .me-f { font-size: 12px; color: var(--muted); margin-top: 6px; }
 .musteat.full { border-color: color-mix(in srgb, var(--ye) 45%, var(--line)); } .musteat.full .me-f { color: var(--accent-ink); font-weight: 700; }
+
+/* Map side panel: the short must-eats card */
+.musteat.mini { padding: 10px 12px; margin: 0 0 6px; border-radius: 20px; }
+.mm-h { display: flex; align-items: center; gap: 8px; }
+.mm-h span { flex: 1; font-size: 11.5px; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; color: var(--ye); }
+.mm-h b { font-family: var(--f-display); font-size: 14px; font-variant-numeric: tabular-nums; }
+.mm-h .linkbtn { font-size: 12.5px; text-decoration: none; color: var(--accent-ink); font-weight: 700; padding: 4px 2px; }
+.mm-row { display: grid; gap: 6px; margin-top: 8px; }
+.mm-d { display: flex; align-items: center; gap: 10px; width: 100%; min-width: 0; padding: 5px 10px 5px 5px; border-radius: 14px; background: var(--card); text-align: left; box-shadow: var(--shadow-sm); }
+.mm-d .st-i { width: 34px; height: 34px; font-size: 18px; flex: none; filter: none; border-width: 1.5px; }
+.mm-d b { display: block; font-size: 13.5px; line-height: 1.25; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.mm-d small { flex: none; font-size: 11.5px; font-weight: 800; color: var(--spark-ink); background: var(--spark-soft); padding: 2px 8px; border-radius: 99px; }
+.mm-d:active { transform: scale(.98); }
+.musteat.mini .me-f { margin-top: 4px; }
 
 /* ── Must-eat dishes ── */
 .dishhead { display: flex; gap: 12px; background: var(--game); border: 1px solid var(--game-line); }

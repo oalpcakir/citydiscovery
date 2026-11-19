@@ -1,0 +1,842 @@
+{
+ "new": [
+  {
+   "id": "bgvierzehnheiligen",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Basilica of Vierzehnheiligen",
+   "desc": "Balthasar Neumann's pilgrimage basilica above the Main valley was built 1743-1772 and is a masterpiece of Franconian Rococo. It honours the Fourteen Holy Helpers, who reportedly appeared to a shepherd here in 1445.",
+   "tip": "Go on a clear morning for the light in the oval nave; the terrace has views to Kloster Banz. Entry is free.",
+   "q": "Basilika Vierzehnheiligen, Vierzehnheiligen 2, Bad Staffelstein",
+   "ll": [
+    50.11568,
+    11.05405
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Basilika_Vierzehnheiligen"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bgklosterbanz",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore Kloster Banz above the Main",
+   "desc": "The former Benedictine abbey on the Banzer Berg dates from the 11th century; the Baroque church and complex by Johann Dientzenhofer were consecrated in 1719. Today it hosts the Hanns-Seidel-Stiftung and a museum with fossil and natural history exhibitions.",
+   "tip": "The grounds and church are open to visitors; combine with Vierzehnheiligen on the opposite bank.",
+   "q": "Kloster Banz, 96231 Bad Staffelstein",
+   "ll": [
+    50.13296,
+    11.00081
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kloster_Banz"
+   ]
+  },
+  {
+   "id": "bgvestecoburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the ramparts of Veste Coburg",
+   "desc": "One of Germany's largest castles towers over Coburg and holds the Kunstsammlungen with Cranach paintings, armour and glass. Martin Luther stayed here in 1530 during the Diet of Augsburg.",
+   "tip": "Winter hours are shorter and it is closed on some holidays, so check the official page. The viewpoint over the Itz valley is free.",
+   "q": "Veste Coburg, Veste 1, Coburg",
+   "ll": [
+    50.26358,
+    10.98058
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Veste_Coburg",
+    "https://veste.kunstsammlungen-coburg.de/en/visit/eintrittspreise/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bgehrenburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the state rooms of Schloss Ehrenburg",
+   "desc": "The ducal residence on Coburg's Schlossplatz was rebuilt in neo-Gothic style from 1810 and received Queen Victoria as a guest. The state rooms are shown on guided tours.",
+   "tip": "Closed Mondays in the main season; tours are in German with an English leaflet. A combi card also covers the Veste.",
+   "q": "Schloss Ehrenburg, Schlossplatz 1, Coburg",
+   "ll": [
+    50.25803,
+    10.96713
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Ehrenburg_(Coburg)",
+    "https://maps.adac.de/poi/schloss-ehrenburg-coburg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bgrosenau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stroll through Schloss Rosenau, Prince Albert's birthplace",
+   "desc": "The Gothic-revival summer palace in Rödental is where Prince Albert of Saxe-Coburg was born in 1819. It sits in a landscaped English park that also holds the European Museum of Modern Glass.",
+   "tip": "Pair the palace with the glass museum in the park; the Coburg combi card covers both.",
+   "q": "Schloss Rosenau, Rosenau 1, Rödental",
+   "ll": [
+    50.29794,
+    11.02305
+   ],
+   "src": [
+    "https://www.schloesser.bayern.de/englisch/palace/objects/co_rosen.htm"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bgplassenburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb up to the Plassenburg above Kulmbach",
+   "desc": "The Renaissance fortress with the Schöner Hof was a seat of the Franconian Hohenzollern from 1338 and a Prussian fortress until 1806. It houses the Deutsches Zinnfigurenmuseum and further museums.",
+   "tip": "The walk up from town takes about 20 minutes; there is also a car park at the top.",
+   "q": "Plassenburg, Plassenburg 1, Kulmbach",
+   "ll": [
+    50.10472,
+    11.46111
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Plassenburg",
+    "https://www.schloss.bayern.de/deutsch/service/infomat/screen-pdf/kulmbach_dt.pdf"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bgfestungrosenberg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore Festung Rosenberg in Kronach",
+   "desc": "One of Germany's largest and best preserved fortresses rises above Kronach's old town and holds the Fränkische Galerie with Late Gothic and Renaissance art including Lucas Cranach the Elder, born in Kronach in 1472.",
+   "tip": "Check hours before going as they vary by season. The old town is a short walk below.",
+   "q": "Festung Rosenberg, Festungshof 1, Kronach",
+   "ll": [
+    50.24482,
+    11.32836
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Rosenberg_Fortress",
+    "https://www.museum.de/en/museen/die-festung-rosenberg---deutsches-festungsmuseum"
+   ]
+  },
+  {
+   "id": "bgsanspareil",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander the rocks of Felsengarten Sanspareil",
+   "desc": "Margravine Wilhelmine's 1740s rock garden near Wonsees is set among limestone formations and scenery from Fénelon's Télémaque. The Morgenländischer Bau and a baroque rock theatre are on site.",
+   "tip": "Allow about an hour.",
+   "q": "Felsengarten Sanspareil, Sanspareil 2, Wonsees",
+   "ll": [
+    49.98251,
+    11.32342
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Felsengarten_Sanspareil"
+   ]
+  },
+  {
+   "id": "bgrabenstein",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Burg Rabenstein in the Ahorn valley",
+   "desc": "The high medieval cliff-top castle in the Ahorntal is a classic of Franconian Switzerland, with falconry displays and a tavern. The Sophienhöhle lies nearby.",
+   "tip": "Falconry shows run in season only; confirm days before you go.",
+   "q": "Burg Rabenstein, Rabenstein 29, Ahorntal",
+   "ll": [
+    49.82211,
+    11.37059
+   ],
+   "src": [
+    "https://www.infranken.de/lk/bayreuth/ausflug/burgen-schloesser-bayreuth-fraenkische-schweiz-wanderung-sehenswuerdigkeiten-historische-bauten-touristenattraktionen-schloss-museum-art-5893837"
+   ]
+  },
+  {
+   "id": "bggoessweinstein",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Basilica of Gößweinstein",
+   "desc": "Balthasar Neumann's Baroque pilgrimage church (1730-1739) stands in the centre of Gößweinstein and is dedicated to the Holy Trinity. Burg Gößweinstein, first mentioned in 1076, looms above the village.",
+   "tip": "A stroll up to the castle gives views over the Wiesent valley.",
+   "q": "Basilika Gößweinstein, Balthasar-Neumann-Platz, Gößweinstein",
+   "ll": [
+    49.77022,
+    11.33699
+   ],
+   "src": [
+    "https://maps.adac.de/ort/goessweinstein-bayern"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bgteufelshoehle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Descend into the Teufelshöhle at Pottenstein",
+   "desc": "Bavaria's best known dripstone cave in the Weihersbach valley has halls with huge stalactites and cave bear bones. The tour covers about 400 steps.",
+   "tip": "The cave stays around 9 degrees Celsius, so bring a jacket. Guided tours depart through the season.",
+   "q": "Teufelshöhle, Pottenstein",
+   "ll": [
+    49.75435,
+    11.42006
+   ],
+   "src": [
+    "https://maps.adac.de/poi/pottenstein-bayern"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bgbinghoehle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Join a tour of the Binghöhle at Streitberg",
+   "desc": "The stalactite cave above Streitberg was explored in 1905 by the Nuremberg toy manufacturer Ignaz Bing and is about 400 m long. Themed tours run for children and bat lovers.",
+   "tip": "Tours run in season; the cave is cool, so dress warmly.",
+   "q": "Binghöhle, Streitberg, Wiesenttal",
+   "ll": [
+    49.81396,
+    11.21642
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Fr%C3%A4nkische_Schweiz"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bgmoedlareuth",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stand at Little Berlin in Mödlareuth",
+   "desc": "The village on the Bavarian-Thuringian border was divided by a wall from 1966 to 1989. The German-German Museum keeps border installations, watchtowers and wall segments.",
+   "tip": "Plan for two hours; the outdoor area is open year round.",
+   "q": "Deutsch-Deutsches Museum Mödlareuth, Mödlareuth 13, Töpen",
+   "ll": [
+    50.41237,
+    11.88221
+   ],
+   "src": [
+    "https://museen-in-bayern.de/en/museums/museum-details/deutsch-deutsches-museum-moedlareuth"
+   ]
+  },
+  {
+   "id": "bgspielzeugmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Browse the Deutsches Spielzeugmuseum in Sonneberg",
+   "desc": "The oldest toy museum in Germany, founded in 1901 by Paul Kuntze, fills a neo-baroque palais in the former toy capital of the world. Dolls, tin toys and puppets show Sonneberg's industry.",
+   "tip": "Check opening days before the trip.",
+   "q": "Deutsches Spielzeugmuseum, Beethovenstraße 10, Sonneberg",
+   "ll": [
+    50.36188,
+    11.17745
+   ],
+   "src": [
+    "https://www.museum.de/en/museen/deutsches-spielzeugmuseum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bgluisenburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Squeeze through the Luisenburg Felsenlabyrinth",
+   "desc": "A vast granite boulder field above Wunsiedel, named after Queen Luise of Prussia, protected as a national natural monument. Paths wind through the rock sea and the Luisenburg open-air theatre sits inside it.",
+   "tip": "The summer Luisenburg Festival uses the rock stage; trails are open year round.",
+   "q": "Luisenburg Felsenlabyrinth, Luisenburg, Wunsiedel",
+   "ll": [
+    50.03105,
+    12.11454
+   ],
+   "src": [
+    "https://www.lfu.bayern.de/geologie/bayerns_schoenste_geotope/27/index.htm"
+   ]
+  },
+  {
+   "id": "bgvesteheldburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Discover Veste Heldburg and its French Building",
+   "desc": "The hilltop fortress above Bad Colberg-Heldburg in Landkreis Hildburghausen has a Renaissance Französischer Bau from the 1560s and houses the German Castle Museum.",
+   "tip": "Check seasonal opening days.",
+   "q": "Veste Heldburg, Burgberg 1, Bad Colberg-Heldburg",
+   "ll": [
+    50.28889,
+    10.72883
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Veste_Heldburg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bgopernhaus",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Marvel at the Markgräfliches Opernhaus in Bayreuth",
+   "desc": "The UNESCO-listed 1748 court opera by Giuseppe Galli Bibiena is one of the best preserved Baroque theatres in Europe, with an all-wood painted interior.",
+   "tip": "Visit with a ticket; check opening times.",
+   "q": "Markgräfliches Opernhaus, Opernstraße 14, Bayreuth",
+   "ll": [
+    49.94435,
+    11.57867
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Markgräfliches_Opernhaus_Bayreuth"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bgeremitage",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander the Eremitage gardens in Bayreuth",
+   "desc": "The Baroque park on Bayreuth's eastern edge has the Old Palace from 1715, the New Palace with a sun temple and fountains that run in summer.",
+   "tip": "Water games run at set times in summer; the grounds are free.",
+   "q": "Eremitage, Eremitage 1, Bayreuth",
+   "ll": [
+    49.9473,
+    11.62023
+   ],
+   "src": [
+    "https://www.adac.de/reise-freizeit/reiseplanung/inspirationen/deutschland/bayreuth-sehenswuerdigkeiten/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bgwahnfried",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Haus Wahnfried and the Richard Wagner Museum",
+   "desc": "Richard Wagner's villa from 1874 houses the museum with scores, instruments and the Wagner family story; Wagner is buried in the garden. The Festspielhaus stands on the hill nearby.",
+   "tip": "Allow two hours.",
+   "q": "Richard-Wagner-Museum, Richard-Wagner-Straße 48, Bayreuth",
+   "ll": [
+    49.94095,
+    11.58205
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Haus_Wahnfried"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bgsteinsburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Celtic finds at the Steinsburgmuseum",
+   "desc": "The Steinsburg on the Kleiner Gleichberg was a large Celtic oppidum from the 5th to the 1st century BC, and the museum from 1929 shows finds from the site in Landkreis Hildburghausen.",
+   "tip": "Check current opening hours, as older sources list Tuesday to Sunday.",
+   "q": "Steinsburgmuseum, Waldhaussiedlung 8, Römhild",
+   "ll": [
+    50.39945,
+    10.59108
+   ],
+   "src": [
+    "https://www.mvp.de/thueringen/entdecken/steinsburgmuseum-roemhild/",
+    "https://en.wikipedia.com/wiki/Oppidum_Steinsburg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bgkorbmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Learn basket weaving at the Deutsches Korbmuseum",
+   "desc": "The museum in Michelau has shown basketry since 1934 and moved into its current building in 1967. It belongs to the Flechtkultur around Lichtenfels, Germany's basket town.",
+   "tip": "The Korbmarkt in Lichtenfels is on the third weekend of September.",
+   "q": "Deutsches Korbmuseum, Bamberger Straße 4, Michelau in Oberfranken",
+   "ll": [
+    50.16267,
+    11.11301
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Obermainland"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bgrothenbach",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink Rothenbach beer at the brewery inn in Aufseß",
+   "desc": "The Brauereigasthof Rothenbach below Schloss Unteraufseß has been family run since 1823 and has brewed its own beer since 1886. It is the finishing stop of the Aufseß brewery walk.",
+   "tip": "Try the house lager with a Franconian pork roast; rest day Tuesday in the cooler months.",
+   "q": "Brauereigasthof Rothenbach, Aufseß",
+   "ll": [
+    49.88388,
+    11.22896
+   ],
+   "src": [
+    "https://www.motorradundreisen.de/motorradhotel/bayern-fraenkische-schweiz-oberfranken/18687_brauereigasthof-rothenbach.html"
+   ]
+  },
+  {
+   "id": "bgreichold",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try the lager at Brauerei Reichold in Aufseß",
+   "desc": "One of four private breweries in the small village of Aufseß, which is said to hold the highest brewery density per resident in the world.",
+   "tip": "Combine with the Brauereienweg walk.",
+   "q": "Brauerei Reichold, Hochstahl, Aufseß",
+   "ll": [
+    49.88413,
+    11.26637
+   ],
+   "src": [
+    "https://www.aufsess.de/seite/731348/brauereienweg.html"
+   ]
+  },
+  {
+   "id": "bgtrunk",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Nothelfertrunk at Brauerei Trunk",
+   "desc": "The small brewery just above the Vierzehnheiligen basilica makes the dark monastery-style Nothelfertrunk, served in the inn next to the pilgrimage church.",
+   "tip": "A good lunch stop after visiting the basilica.",
+   "q": "Brauerei Trunk, Vierzehnheiligen, Bad Staffelstein",
+   "ll": [
+    50.11481,
+    11.05564
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Obermainland"
+   ]
+  },
+  {
+   "id": "bgwichert",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat at Brauerei-Gasthof Wichert in Lichtenfels",
+   "desc": "The inn has brewed its own beer since 1863 in Lichtenfels, the basket town on the Obermain. Franconian dishes go with the house lager.",
+   "tip": "Check opening days before going.",
+   "q": "Brauerei-Gasthof Wichert, Lichtenfels",
+   "ll": [
+    50.15279,
+    11.08678
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Obermainland"
+   ]
+  },
+  {
+   "id": "bgmoenchshof",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at the Mönchshof Bräuhaus in Kulmbach",
+   "desc": "The brewery tavern beside the Brauereimuseum serves Kulmbach beer and Franconian dishes such as Kulmbacher Bratwurst.",
+   "tip": "Order the Bratwurst with a dark beer.",
+   "q": "Mönchshof Bräuhaus, Hofer Straße 20, Kulmbach",
+   "ll": [
+    50.1148,
+    11.46901
+   ],
+   "src": [
+    "https://www.meininger.de/bier/brauereien/bierschaetze-heben"
+   ]
+  },
+  {
+   "id": "bgcoburgerbratwurst",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Grill a Coburger Bratwurst on the Marktplatz",
+   "desc": "The long Coburger Bratwurst is grilled over pine cones and beech wood and sold from stalls on the market square. It must contain a share of beef.",
+   "tip": "Eat it in a bun without sauce, the Coburg way.",
+   "q": "Marktplatz, Coburg",
+   "ll": [
+    50.25856,
+    10.96456
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Coburger_Bratwurst",
+    "https://en.wikivoyage.org/wiki/Coburg"
+   ]
+  },
+  {
+   "id": "bgherzogkeller",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Sit in the Herzogkeller beer garden in Bayreuth",
+   "desc": "Bayreuth's largest beer garden is run by the Maisel group and opens from May to September.",
+   "tip": "Seasonal; check before going on cool days.",
+   "q": "Herzogkeller, Hindenburgstraße 9, Bayreuth",
+   "ll": [
+    49.94888,
+    11.56305
+   ],
+   "src": [
+    "https://regional.bahn.de/regionen/bayern/ausflugstipps/genuss/biergaerten_becher_braeu"
+   ]
+  },
+  {
+   "id": "bgwolffenzacher",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order Schäufele at Gaststätte Wolffenzacher",
+   "desc": "A traditional Bayreuth pub known for Franconian cooking such as Schäufele and Schweinebraten in beer gravy.",
+   "tip": "Book at weekends.",
+   "q": "Gaststätte Wolffenzacher, Bayreuth",
+   "ll": [
+    49.94352,
+    11.57833
+   ],
+   "src": [
+    "https://fodors.fodors.com/world/europe/germany/franconia-and-the-german-danube/restaurants/reviews/wolffenzacher-456119"
+   ]
+  },
+  {
+   "id": "bgantla",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink house beer at 's Antla in Kronach",
+   "desc": "The brewery and Wirtshaus in Kronach's historic Obere Stadt follows nearly a thousand years of local brewing tradition.",
+   "tip": "Walk up from the fortress path; hours vary.",
+   "q": "'s Antla Brauerei & Wirtshaus, Amtsgerichtsstraße 21, Kronach",
+   "ll": [
+    50.2415,
+    11.3245
+   ],
+   "src": [
+    "https://www.frankenwald-tourismus.de/detail/id=60895a92776bb671d29dd927"
+   ]
+  },
+  {
+   "id": "bggreifkeller",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink under chestnuts at the Greif-Keller in Forchheim",
+   "desc": "The Greif brewery's cellar belongs to the Forchheimer Kellerwald, with about 23 beer cellars and the setting of the Annafest each July.",
+   "tip": "Open in beer garden season; bring cash.",
+   "q": "Greif-Keller, Forchheim",
+   "ll": [
+    49.7296,
+    11.07489
+   ],
+   "src": [
+    "https://www.infranken.de/lk/franken/gastronomie/bierliebhaber-aufgepasst-entdecke-den-kellerwald-mit-seinen-23-bierkellern-in-forchheim-art-5762961"
+   ]
+  },
+  {
+   "id": "bggoeller",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try beer at Brauerei Göller in Zeil am Main",
+   "desc": "The family brewery in Zeil in the Haßberge sells Franconian lagers in its tavern.",
+   "tip": "Combine with a visit to the town of Zeil.",
+   "q": "Brauerei Göller, Zeil am Main",
+   "ll": [
+    50.011,
+    10.59688
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Ha%C3%9Fberge"
+   ]
+  },
+  {
+   "id": "bggrosch",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink at Gasthof Grosch in Rödental",
+   "desc": "The traditional Gasthof in Rödental opened a new brewery and hosts a large beer festival.",
+   "tip": "Check opening days before going.",
+   "q": "Gasthof Grosch, Rödental",
+   "ll": [
+    50.28854,
+    11.02975
+   ],
+   "src": [
+    "https://www.infranken.de/lk/coburg/gastronomie/roedental-traditionsgasthof-grosch-eroeffnet-neue-brauerei-und-kuendigt-grosses-bierfest-an-art-5679539,PRINT"
+   ]
+  },
+  {
+   "id": "bgochsenkopf",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the cable car up the Ochsenkopf",
+   "desc": "The 1,024 m peak in the Fichtelgebirge has a modernised cable car from Bischofsgrün, with a summit and hiking trails.",
+   "tip": "Check summer hours and ride price on the operator site.",
+   "q": "Seilbahn Ochsenkopf Nord, Bischofsgrün",
+   "ll": [
+    50.0503,
+    11.81133
+   ],
+   "src": [
+    "https://www.infranken.de/lk/bayreuth/ausflug/inklusion-moderne-seilbahn-ochsenkopf-fichtelgebirge-tourismus-fahrrad-barrierefrei-besucher-art-6091702"
+   ]
+  },
+  {
+   "id": "bgdampfbahn",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Dampfbahn Fränkische Schweiz",
+   "desc": "A museum railway runs steam and diesel trains on the Wiesent valley line between Ebermannstadt and Behringersmühle.",
+   "tip": "Runs on selected summer weekends; check the timetable.",
+   "q": "Bahnhof Ebermannstadt, Ebermannstadt",
+   "ll": [
+    49.77678,
+    11.18671
+   ],
+   "src": [
+    "https://phototravellers.de/fraenkische-schweiz-sehenswuerdigkeiten/"
+   ]
+  },
+  {
+   "id": "bgwalberla",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Walberla on the Ehrenbürg",
+   "desc": "The twin summit of the Ehrenbürg rises over the edge of Franconian Switzerland and hosts the Walberlafest on the first weekend in May.",
+   "tip": "Start in Kirchehrenbach; crowded in fine weather.",
+   "q": "Walberla, Kirchehrenbach",
+   "ll": [
+    49.71966,
+    11.15173
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/walberla-rundwanderung-ab-forchheim-fraenkische-schweiz"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bgobermaintherme",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Soak in the thermal brine at Obermain Therme",
+   "desc": "The spa in Bad Staffelstein offers about 16 pools at 28 to 36 degrees Celsius fed by thermal brine, plus saunas.",
+   "tip": "Best in the cold season.",
+   "q": "Obermain Therme, Bad Staffelstein",
+   "ll": [
+    50.10793,
+    10.99073
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Obermainland"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bgbrauereienweg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Brauereienweg around Aufseß",
+   "desc": "A circuit of about 14 km past four private breweries in Aufseß: Stadter, Reichold, Kathi-Bräu and Rothenbach.",
+   "tip": "Plan four hours; start at any brewery.",
+   "q": "Aufseß, Fränkische Schweiz",
+   "ll": [
+    49.8842,
+    11.22757
+   ],
+   "src": [
+    "https://www.aufsess.de/seite/731348/brauereienweg.html"
+   ]
+  },
+  {
+   "id": "bgkoesseine",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike from the Luisenburg to the Kösseine",
+   "desc": "A walk through Fichtelgebirge granite rocks and boulder fields to the Kösseine summit.",
+   "tip": "Wear boots.",
+   "q": "Kösseine, Fichtelgebirge",
+   "ll": [
+    49.98768,
+    11.97988
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/vom-luisenburg-felsenlabyrinth-zur-koesseine"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bgbackoefele",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Climb the Schneeberg to the Backöfele",
+   "desc": "The Schneeberg is the highest peak of the Fichtelgebirge at about 1,051 m, with the Backöfele rock formation.",
+   "tip": "Choose a clear day.",
+   "q": "Schneeberg, Fichtelberg",
+   "ll": [
+    50.04861,
+    11.85472
+   ],
+   "src": [
+    "https://phototravellers.de/fichtelgebirge-sehenswuerdigkeiten/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bgweissenstaedtersee",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk around the Weißenstädter See",
+   "desc": "A lake in the Fichtelgebirge with a loop trail and bathing in summer.",
+   "tip": "Swimming is seasonal.",
+   "q": "Weißenstädter See, Weißenstadt",
+   "ll": [
+    50.1012,
+    11.87891
+   ],
+   "src": [
+    "https://phototravellers.de/fichtelgebirge-sehenswuerdigkeiten/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bgtheresienstein",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Stroll the Bürgerpark Theresienstein in Hof",
+   "desc": "The hillside park in Hof has paths, a pavilion on the Thomashöhe and views over the city.",
+   "tip": "Combine with the old town.",
+   "q": "Theresienstein, Hof",
+   "ll": [
+    50.32773,
+    11.92145
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/hof-saale"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bgsophienhoehle",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Tour the Sophienhöhle in the Ahorntal",
+   "desc": "A large dripstone cave in the Ailsbach valley near Burg Rabenstein in Franconian Switzerland.",
+   "tip": "Guided tours only; check season.",
+   "q": "Sophienhöhle, Ahorntal",
+   "ll": [
+    49.82706,
+    11.37541
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Fr%C3%A4nkische_Schweiz"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bgflechtkultur",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Follow the Pfad der Flechtkultur",
+   "desc": "A 14 km themed trail with 23 info boards linking Lichtenfels and Michelau.",
+   "tip": "Walk or cycle.",
+   "q": "Lichtenfels, Oberfranken",
+   "ll": [
+    50.18884,
+    11.028
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/pfad-der-flechtkultur-durch-die-korbstadt-lichtenfels-obermain"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bgrotenhan",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the castle trail to Burg Rotenhan near Ebern",
+   "desc": "A castle hike near Ebern in the Haßberge to the ruin of Rotenhan, ancestral seat of the Rotenhan family of imperial knights.",
+   "tip": "Wear sturdy shoes.",
+   "q": "Burgruine Rotenhan, Ebern",
+   "ll": [
+    50.11424,
+    10.79197
+   ],
+   "src": [
+    "https://en.wikipedia.com/wiki/Rotenhan_Castle",
+    "https://www.ich-geh-wandern.de/erlebnistour-burgentour-ebern"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bgkoenigsberg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Wander the half-timbered old town of Königsberg",
+   "desc": "A medieval half-timbered town in the Haßberge with a castle ruin nearby.",
+   "tip": "The old town takes about an hour.",
+   "q": "Altstadt, Königsberg in Bayern",
+   "ll": [
+    49.97105,
+    10.66876
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Ha%C3%9Fberge"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bguntreusee",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Saaleauen to the Untreusee in Hof",
+   "desc": "A walk by the Untreusee and along the Saale meadows in Hof.",
+   "tip": "Easy and flat.",
+   "q": "Untreusee, Hof",
+   "ll": [
+    50.27778,
+    11.90911
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/hof-saale"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

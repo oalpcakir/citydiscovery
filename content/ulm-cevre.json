@@ -1,0 +1,854 @@
+{
+ "new": [
+  {
+   "id": "ullimesmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Meet the Romans at the Limes Museum in Aalen",
+   "desc": "The Limesmuseum stands on the site of the largest Roman cavalry fort north of the Alps. Opened in 1964 as a branch of the Württemberg State Museum, it shows over 1,200 original finds, and the upper floor follows the Limes through Baden-Württemberg.",
+   "tip": "Allow about two hours. The fort's foundations are marked outdoors next to the museum.",
+   "q": "Limesmuseum, St.-Johann-Str. 5, Aalen",
+   "ll": [
+    48.83611,
+    10.08444
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Limesmuseum_Aalen",
+    "https://aalen.de/limes-museum.36942.htm"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ulmuensergmuend",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Admire the Gothic Heilig-Kreuz-Münster in Schwäbisch Gmünd",
+   "desc": "Begun around 1320, the Holy Cross Minster is an early Gothic hall church with an ambulatory choir. The Parler family, above all Heinrich and Johann Parler, shaped its construction, and the Romanesque towers collapsed in 1497.",
+   "tip": "The minster is at the heart of the old town on Münsterplatz. A restoration programme began in 2020, so check for scaffolding.",
+   "q": "Heilig-Kreuz-Münster, Münsterplatz, Schwäbisch Gmünd",
+   "ll": [
+    48.79875,
+    9.79639
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Heilig-Kreuz-M%C3%BCnster_(Schw%C3%A4bisch_Gm%C3%BCnd)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ulvitusellwangen",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Step inside the Romanesque Basilica of St Vitus in Ellwangen",
+   "desc": "Built between 1182 and 1233, the basilica was the collegiate church of a monastery founded in 764 and has three Romanesque towers and a nave about 73 m long. It became a basilica minor in 1964.",
+   "tip": "Combine it with a walk up to Schloss ob Ellwangen above the town.",
+   "q": "Basilika St. Vitus, Marktplatz, Ellwangen (Jagst)",
+   "ll": [
+    48.96404,
+    10.12217
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Basilika_St._Vitus_(Ellwangen)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ulklosterlorch",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Staufer family tombs at Lorch Abbey",
+   "desc": "Lorch Abbey was founded around 1102 by the Staufer duke Friedrich I and served as the dynasty's family monastery. A late Gothic tomb of 1475 sits above a crypt believed to hold members of the family.",
+   "tip": "Managed by Staatliche Schlösser und Gärten Baden-Württemberg; check opening times and guided tours before going.",
+   "q": "Kloster Lorch, Klosterstraße, Lorch",
+   "ll": [
+    48.79876,
+    9.70317
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kloster_Lorch"
+   ]
+  },
+  {
+   "id": "ulhohenstaufen",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb to the ruins of Hohenstaufen Castle, the Staufer ancestral seat",
+   "desc": "The ruin crowns the 684 m Hohenstaufen mountain above Göppingen. Duke Friedrich I of Swabia built it around 1070, and farmers destroyed it in the Peasants' War of 1525. A Stauferstele monument stands at the summit.",
+   "tip": "There is a restaurant at the summit and a documentation room at the foot of the mountain.",
+   "q": "Burg Hohenstaufen, Hohenstaufen, Göppingen",
+   "ll": [
+    48.74306,
+    9.71639
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Burg_Hohenstaufen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ulhellenstein",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore Schloss Hellenstein above Heidenheim",
+   "desc": "Construction began in 1096 and a fire destroyed the castle in 1530. Duke Ulrich rebuilt it from 1537, and the Renaissance palace by Heinrich Schickhardt followed. It houses a local museum and the Landesmuseum's carriage museum in the Fruchtkasten.",
+   "tip": "Walk up via the Hermann-Mohn-Weg from Schloßstraße. The 78 m Kindlesbrunnen well is among the sights.",
+   "q": "Schloss Hellenstein, Heidenheim an der Brenz",
+   "ll": [
+    48.6758,
+    10.14926
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Hellenstein"
+   ]
+  },
+  {
+   "id": "ulsteiffmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Meet the teddy bear at the Steiff Museum in Giengen",
+   "desc": "Giengen is the home of Steiff, and the Steiff Museum is an experience museum with live production demonstrations. The firm also runs a Teddy bear clinic that repairs Steiff animals.",
+   "tip": "The museum is at Margarete-Steiff-Platz in Giengen; check steiff.com for current tickets.",
+   "q": "Steiff Museum, Margarete-Steiff-Platz 1, Giengen an der Brenz",
+   "ll": [
+    48.6214,
+    10.24161
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Steiff",
+    "https://www.steiff.com"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ulcharlottenhoehle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the Charlottenhöhle stalactite cave near Giengen",
+   "desc": "The cave at Hürben was entered in spring 1893 by forester Hermann Sihler and opened to the public on 17 September 1893. The 532 m show route takes about 45 minutes and the temperature stays near 9 °C.",
+   "tip": "Guided tours run daily from early April to late October. Take a jacket; a lights-off sensory tour is available.",
+   "q": "Charlottenhöhle, Hürben, Giengen an der Brenz",
+   "ll": [
+    48.58354,
+    10.20794
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Charlottenh%C3%B6hle"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "ulochsenhausen",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the baroque Ochsenhausen Abbey",
+   "desc": "The Benedictine abbey was founded around 1090 and became an imperial abbey in 1495. Its Gothic church has baroque frescoes of 1725, and guided tours cover the prelature, refectory and historic observatory.",
+   "tip": "A klostermuseum in the Fürstenbau tells 700 years of abbey history. The complex is run by Staatliche Schlösser und Gärten Baden-Württemberg.",
+   "q": "Kloster Ochsenhausen, Klosterhof, Ochsenhausen",
+   "ll": [
+    48.06438,
+    9.94915
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kloster_Ochsenhausen"
+   ]
+  },
+  {
+   "id": "ulbiberachmarkt",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander Biberach's old town and Marktplatz",
+   "desc": "Biberach became an imperial city in 1281/82 and its old town keeps towers, the Weberberg weavers' quarter and the St. Martin church, used by both confessions at once. Poet Christoph Martin Wieland came from here.",
+   "tip": "The Braith-Mali-Museum is in town and holds finds from a Roman villa. Visit the Gigelberg viewpoint above the old town.",
+   "q": "Marktplatz, Biberach an der Riß",
+   "ll": [
+    48.09845,
+    9.78985
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Biberach_an_der_Ri%C3%9F"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ulfederseemuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk back to the Stone Age at the Federseemuseum",
+   "desc": "The Federseemuseum in Bad Buchau is the central information centre for Baden-Württemberg's UNESCO prehistoric pile dwellings, inscribed in 2011. The wet moor preserved organic finds from hunting camps and lake settlements.",
+   "tip": "Combine the museum with an outdoor visit to the reconstructed pile village next door.",
+   "q": "Federseemuseum, August-Gröber-Platz, Bad Buchau",
+   "ll": [
+    48.06979,
+    9.61106
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Federseemuseum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ulschussenried",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Marvel at the rococo library of Bad Schussenried Abbey",
+   "desc": "The Premonstratensian abbey dates from 1183. Its library hall of 1754-61 has a ceiling fresco by Franz Georg Hermann and painted trompe-l'oeil bookcases. Dominikus Zimmermann drew up the plans for the new abbey building.",
+   "tip": "The Neues Museum Kloster Schussenried, a Landesmuseum branch, covers monastic life and the later psychiatric history.",
+   "q": "Kloster Bad Schussenried, Klosterhof, Bad Schussenried",
+   "ll": [
+    48.01127,
+    9.65582
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kloster_Bad_Schussenried"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ulbussen",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Reach Upper Swabia's holy mountain, the Bussen",
+   "desc": "The Bussen is 767 m high and called the holy mountain of Upper Swabia. Its pilgrimage church of St John the Baptist dates in its present form from 1516, and on clear days the view reaches the Alps and Ulm Minster.",
+   "tip": "Go on a clear day for the long views.",
+   "q": "Bussen, Wallfahrtskirche Bussen, Offingen, Uttenweiler",
+   "ll": [
+    48.16206,
+    9.55514
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Bussen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ulsigmaringenschloss",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour Sigmaringen Castle above the Danube",
+   "desc": "The castle on its limestone ridge was first mentioned in 1077 and has been the Hohenzollern residence since 1535-1540. In 1944-45 the French Vichy government operated from here. Its armoury holds about 3,000 pieces.",
+   "tip": "Guided tours have been offered since 1871. The castle was rebuilt after a fire in 1893.",
+   "q": "Schloss Sigmaringen, Karl-Anton-Platz 8, Sigmaringen",
+   "ll": [
+    48.08778,
+    9.21694
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Sigmaringen"
+   ]
+  },
+  {
+   "id": "ulbeuron",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Beuron Archabbey in the Upper Danube valley",
+   "desc": "The Benedictine monastery was refounded in 1863 and made an archabbey in 1887. It is known for the Beuron art school and for its Gnadenkapelle, and it keeps about 405,000 volumes in Germany's largest monastic library.",
+   "tip": "Conventual Mass is sung in Gregorian chant at 11:00 on weekdays; Vespers at around 18:00.",
+   "q": "Erzabtei Beuron, Abteistraße, Beuron",
+   "ll": [
+    48.05035,
+    8.96835
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kloster_Beuron"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ulwildenstein",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Cross the bridges of Burg Wildenstein above the Danube gorge",
+   "desc": "The fortress sits about 200 m above the Danube. Gottfried Werner von Zimmern started converting it into a Renaissance fortress in 1514. It has Renaissance wall paintings of 1538-40 and has been a youth hostel since 1971.",
+   "tip": "The Burgschänke and courtyard are open to visitors by day; other areas need a booked tour.",
+   "q": "Burg Wildenstein, Leibertingen",
+   "ll": [
+    48.0556,
+    9.0007
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Burg_Wildenstein_(Leibertingen)"
+   ]
+  },
+  {
+   "id": "ulcampusgalli",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Watch a Carolingian monastery town rise at Campus Galli",
+   "desc": "Since 2012 craftspeople in Meßkirch have been building a monastery town from the St Gall plan of the early 9th century, using early medieval methods. Finished buildings include the wooden church and grain barn.",
+   "tip": "Open usually early April to early November, Tuesday to Sunday.",
+   "q": "Campus Galli, Hackenberg 92, Meßkirch",
+   "ll": [
+    48.0335,
+    9.103
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Campus_Galli"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "id": "ulpfullendorf",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb Pfullendorf's Obere Tor and walk the town wall",
+   "desc": "Pfullendorf became a Staufer town in 1220 and a free imperial city from 1282 to 1803. About 696 m of its wall survive, and the Obere Tor double gate has a 38 m observation tower.",
+   "tip": "The Heimat- und Handwerksmuseum in the Bindhaus is nearby.",
+   "q": "Obere Tor, Pfullendorf",
+   "ll": [
+    47.92578,
+    9.25886
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Pfullendorf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ulfrauenkirchegz",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Admire Dominikus Zimmermann's rococo Frauenkirche in Günzburg",
+   "desc": "Zimmermann was commissioned in 1736 after a fire. The choir and nave with their stucco and paintings were finished by 1741, and the church was consecrated in 1780. It is regarded as one of his major works.",
+   "tip": "Open to visitors outside services.",
+   "q": "Frauenkirche, Frauenkirchplatz, Günzburg",
+   "ll": [
+    48.45654,
+    10.27676
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Frauenkirche_(G%C3%BCnzburg)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ulwaescherschloss",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Staufer-era Wäscherschloss near Wäschenbeuren",
+   "desc": "The castle was built between about 1220 and 1250 above the Beutental valley with a view of the Hohenstaufen. A newly designed museum opened in 2011 and there is a café on the ground floor.",
+   "tip": "A stop on the Straße der Staufer; see burg-waescherschloss.de for opening hours.",
+   "q": "Wäscherschloss, Wäscherhof, Wäschenbeuren",
+   "ll": [
+    48.7671,
+    9.7058
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/W%C3%A4scherschloss"
+   ]
+  },
+  {
+   "id": "uladelberg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk Adelberg Abbey, where Kepler went to school",
+   "desc": "Founded in 1178, the Premonstratensian abbey was a Staufer family monastery. The Ulrichskapelle has a high altar of 1511 with panels by Zeitblom, and Kepler attended the Lutheran school.",
+   "tip": "The Klostermuseum in the Klostervilla covers the abbey history. It is on the Straße der Staufer.",
+   "q": "Kloster Adelberg, Adelberg",
+   "ll": [
+    48.75721,
+    9.59758
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kloster_Adelberg"
+   ]
+  },
+  {
+   "id": "ultieferstollen",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the mine train into the Tiefer Stollen in Aalen",
+   "desc": "This former iron ore mine in Wasseralfingen is open as a visitor mine. A roughly 400 m ride on the mine train leads to sandstone halls, and the 800 m tour takes about 90 minutes.",
+   "tip": "Season is April to October, mostly Tuesday to Sunday; book ahead on 07361 970249. A Christmas market is held in the mine.",
+   "q": "Besucherbergwerk Tiefer Stollen, Wasseralfingen, Aalen",
+   "ll": [
+    48.85532,
+    10.12064
+   ],
+   "src": [
+    "https://www.schwaebische.de/regional/ostalb/aalen-wasseralfingen/besucherbergwerk-beteiligt-sich-an-einer-studie-2456098",
+    "https://www.showcaves.com/english/de/mines/TieferStollen.html"
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "uleselsburgertal",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Eselsburger Tal and its Stone Maidens",
+   "desc": "The nature reserve is a narrowing valley where the Brenz flows in a loop around the Buigen ridge. Known features are the Steinerne Jungfrauen rocks and the ruined Eselsburg first mentioned in 1244.",
+   "tip": "The Main-Donau-Bodensee-Weg runs through the valley; start in Herbrechtingen.",
+   "q": "Eselsburger Tal, Eselsburg, Herbrechtingen",
+   "ll": [
+    48.60188,
+    10.18637
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Eselsburger_Tal"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ulipf",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike up the Ipf above Bopfingen",
+   "desc": "The Ipf rises about 200 m above Bopfingen and carries Celtic ramparts. An archaeological open-air site at the eastern foot has a reconstructed building based on a Viereckschanze plan.",
+   "tip": "The old route from the southeast is the easiest way up and gives views of the wall and ditch.",
+   "q": "Ipf, Bopfingen",
+   "ll": [
+    48.87056,
+    10.35639
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Ipf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ullegoland",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Spend a day at Legoland Deutschland in Günzburg",
+   "desc": "Opened on 17 May 2002, the park covers about 125 ha with 64 rides and attractions. Miniland recreates Berlin, Venice and Neuschwanstein from over 25 million bricks.",
+   "tip": "Check legoland.de for season dates; there are also winter openings in some years.",
+   "q": "Legoland Deutschland Resort, Legoland-Allee 1, Günzburg",
+   "ll": [
+    48.42418,
+    10.30543
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Legoland_Deutschland"
+   ]
+  },
+  {
+   "id": "ulschuetzenfest",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Join the Biberach Schützenfest children's festival",
+   "desc": "This nine-day children's and heritage festival is held each July. Documented since 1668, it features historical parades with about 3,000 participants and children's theatre since 1859.",
+   "tip": "The grounds are around the Gigelberg and Schützenberg.",
+   "q": "Gigelberg, Biberach an der Riß",
+   "ll": [
+    48.09911,
+    9.7845
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Biberacher_Sch%C3%BCtzenfest"
+   ],
+   "months": [
+    7
+   ]
+  },
+  {
+   "id": "ulopernfestspiele",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hear opera in the ruined Rittersaal of Schloss Hellenstein",
+   "desc": "The Heidenheim Opera Festival grew from Schloss-Serenaden started in 1964 in the Rittersaal of the castle ruin. Bigger opera productions began in 1977, and the Stuttgarter Philharmoniker has been the festival orchestra since 2013.",
+   "tip": "Performances move to the Congress Centrum in cool weather; book at opernfestspiele.de.",
+   "q": "Rittersaal, Schloss Hellenstein, Heidenheim an der Brenz",
+   "ll": [
+    48.6757,
+    10.1488
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Opernfestspiele_Heidenheim"
+   ]
+  },
+  {
+   "id": "ulknopfmacher",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike to the Knopfmacherfelsen viewpoint in the Upper Danube valley",
+   "desc": "The rock outcrop in Naturpark Obere Donau lies between Fridingen and Beuron at about 765 m and looks over the Danube valley. The name comes from a button maker who fell here in 1823.",
+   "tip": "Combine with a walk to Beuron or Burg Wildenstein.",
+   "q": "Knopfmacherfelsen, Beuron",
+   "ll": [
+    48.02967,
+    8.95158
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Knopfmacherfelsen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ulfederseewalk",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Federsee moor and its lakeshore",
+   "desc": "The Federsee near Bad Buchau is Baden-Württemberg's second-largest lake in the largest contiguous moor in the southwest, about 33 km². It has Natura 2000 status, and the Wackelwald stands on swaying moor ground.",
+   "tip": "Start at the Federseemuseum; bring binoculars for the birds.",
+   "q": "Federseemuseum, August-Gröber-Platz, Bad Buchau",
+   "ll": [
+    48.06979,
+    9.61106
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Federsee"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ulkapfenburg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Catch a concert at Schloss Kapfenburg",
+   "desc": "The former Teutonic Order castle above Lauchheim was first mentioned in 1311. Since 1999 it has housed an international music academy, with regular classical concerts and a summer festival.",
+   "tip": "Check the Kapfenburg programme before you go.",
+   "q": "Schloss Kapfenburg, Kapfenburg 1, Lauchheim",
+   "ll": [
+    48.8675,
+    10.2236
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Kapfenburg"
+   ]
+  },
+  {
+   "id": "ulhohenstaufenhike",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Kaiserberg trail up Hohenstaufen",
+   "desc": "The 684 m mountain is one of the three Kaiserberge, with Rechberg and Stuifen. The footpath from the village leads up to the castle ruin.",
+   "tip": "The Staufer documentation room at the foot is a good start.",
+   "q": "Hohenstaufen, Göppingen",
+   "ll": [
+    48.7418,
+    9.7155
+   ],
+   "src": [
+    "https://blog.komoot.es/guide/212235/peaks-around-goeppingen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "uldonauradweg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cycle the Danube cycle path past Sigmaringen",
+   "desc": "The Danube path runs below Schloss Sigmaringen and the limestone rocks of the Upper Danube valley, easy riding beside the young river.",
+   "tip": "Rent a bike in town and ride towards Beuron.",
+   "q": "Donauradweg, Donaustraße, Sigmaringen",
+   "ll": [
+    48.0866,
+    9.219
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Donauradweg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ulbeuronvespers",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Attend sung Vespers at Beuron Archabbey",
+   "desc": "The monks process to Vespers around 18:00, sung entirely in Latin, and on Saturdays a procession goes to the Gnadenkapelle. Conventual Mass is sung in Gregorian chant.",
+   "tip": "Visitors are welcome; keep quiet.",
+   "q": "Erzabtei Beuron, Abteistraße, Beuron",
+   "ll": [
+    48.05035,
+    8.96835
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kloster_Beuron"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ulheidenschmiede",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk up to the Heidenschmiede rock shelter in Heidenheim",
+   "desc": "Below Schloss Hellenstein, this rock shelter found in 1928 by Hermann Mohn is a Middle Palaeolithic site used by Neanderthals roughly 70,000 to 50,000 years ago.",
+   "tip": "The Hermann-Mohn-Weg leads from Schloßstraße up to the castle.",
+   "q": "Heidenschmiede, Hermann-Mohn-Weg, Heidenheim an der Brenz",
+   "ll": [
+    48.676,
+    10.1497
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Hellenstein"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ulpfauen",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order Zwiebelrostbraten at Weinstube zum Pfauen in Heidenheim",
+   "desc": "A guest calls the Zwiebelrostbraten here the best in town. The weinstube is on Schloßstraße below the castle.",
+   "tip": "Try the Zwiebelrostbraten.",
+   "q": "Weinstube zum Pfauen, Schloßstraße 26, Heidenheim an der Brenz",
+   "ll": [
+    48.67798,
+    10.14774
+   ],
+   "src": [
+    "https://www.leinetal24.de/welt/landkreis-heidenheim-restaurant-gasthof-kueche-fuenf-der-besten-adressen-fuer-schwaebisches-essen-im-zr-93276603.html"
+   ]
+  },
+  {
+   "id": "ullindehdh",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Linsen mit Spätzle at Hotel Restaurant Linde in Heidenheim",
+   "desc": "The menu lists Swabian lentils from the Boschbauer in Gerstetten with Spätzle and Saitenwurst. The lentils are the local Alb-Leisa.",
+   "tip": "Prices on the menu were about 18.50 euros; check the current menu.",
+   "q": "Hotel Restaurant Linde, St.-Pöltener-Straße 53, Heidenheim an der Brenz",
+   "ll": [
+    48.678,
+    10.153
+   ],
+   "src": [
+    "https://www.speisekarte.de/heidenheim-an-der-brenz/restaurant/hotel_restaurant_linde/speisekarte"
+   ]
+  },
+  {
+   "id": "ulstadtwirt",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order Zwiebelrostbraten at Gasthof zum Stadtwirt in Schwäbisch Gmünd",
+   "desc": "A traditional Gasthof in the old town whose menu lists a Swabian Zwiebelrostbraten with Bratkartoffeln.",
+   "tip": "The menu price was around 20 euros; check current prices.",
+   "q": "Gasthof zum Stadtwirt, Donzdorfer Straße 35, Straßdorf, Schwäbisch Gmünd",
+   "ll": [
+    48.799,
+    9.798
+   ],
+   "src": [
+    "https://www.speisekarte.de/schw%C3%A4bisch-gm%C3%BCnd/restaurant/gasthof_zum_stadtwirt/speisekarte"
+   ]
+  },
+  {
+   "id": "ulalpenwirtshaus",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Swabian and Bavarian at the Alpen Wirtshaus on Gmünd's Marktplatz",
+   "desc": "A rustic old-town inn on Marktplatz serving Swabian and Bavarian dishes.",
+   "tip": "Marktplatz 9; check opening times.",
+   "q": "Alpen Wirtshaus, Marktplatz 9, Schwäbisch Gmünd",
+   "ll": [
+    48.7985,
+    9.7973
+   ],
+   "src": [
+    "https://www.leinetal24.de/welt/gmuend-fuenf-der-besten-schwaebischen-restaurants-in-schwaebisch-zr-93298527.html"
+   ]
+  },
+  {
+   "id": "ulkrietsch",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste reinterpreted Swabian classics at Restaurant Krietsch",
+   "desc": "A restaurant in the old town beside the minster serving Swabian cuisine with an international touch.",
+   "tip": "Münstergasse 2.",
+   "q": "Restaurant Krietsch, Münstergasse 2, Schwäbisch Gmünd",
+   "ll": [
+    48.7989,
+    9.7967
+   ],
+   "src": [
+    "https://www.leinetal24.de/welt/gmuend-fuenf-der-besten-schwaebischen-restaurants-in-schwaebisch-zr-93298527.html"
+   ]
+  },
+  {
+   "id": "ulroterochsen",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink Rotochsen beer at the Roter Ochsen brewery inn in Ellwangen",
+   "desc": "A brewery inn on Schmiedstraße with brewing rights dating to 1680, known for its own beers including a Fastnachtsbier and a Traditionsbock.",
+   "tip": "Check opening days before visiting.",
+   "q": "Brauereigasthof Roter Ochsen, Schmiedstraße 16, Ellwangen (Jagst)",
+   "ll": [
+    48.9604,
+    10.1318
+   ],
+   "src": [
+    "https://www.roter-ochsen-ellwangen.de",
+    "https://www.schwaebische.de/regional/ostalb/ellwangen/rotochsen-das-ellwanger-fastnachtsbier-ist-wieder-da-2201981"
+   ]
+  },
+  {
+   "id": "ulhasenellwangen",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try regional dishes at Gasthaus Hasen in Ellwangen",
+   "desc": "A regional-cuisine Gasthaus on Maierstraße.",
+   "tip": "Closed Monday to Wednesday according to listings; check hours.",
+   "q": "Gasthaus Hasen, Maierstraße, Ellwangen",
+   "ll": [
+    48.95496,
+    10.15938
+   ],
+   "src": [
+    "https://freizeitmonster.de/gastronomie/restaurants/gasthaus-hasen-192538"
+   ]
+  },
+  {
+   "id": "ulhimmelerde",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat at the Berggaststätte Himmel und Erde on Hohenstaufen",
+   "desc": "The mountain restaurant has a stylish dining room and serves regional dishes; the area is known for Maultaschen and Albleisa.",
+   "tip": "Pair with the hike to the ruin.",
+   "q": "Berggaststätte Himmel und Erde, Hohenstaufen, Göppingen",
+   "ll": [
+    48.7429,
+    9.716
+   ],
+   "src": [
+    "https://schmeck-den-sueden.de/kochblog/schmeck-den-sueden-baden-wuerttemberg-gastronom-berggaststaette-himmel-erde/?pdf=1"
+   ]
+  },
+  {
+   "id": "ulresthohenstaufen",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have Maultaschen at Restaurant Hohenstaufen in Göppingen",
+   "desc": "A traditional Swabian restaurant whose menu includes Schweinsbäckle, Maultaschen and Flädlesuppe.",
+   "tip": "Freihofstraße 64.",
+   "q": "Restaurant Hohenstaufen, Freihofstraße 64, Göppingen",
+   "ll": [
+    48.70661,
+    9.6549
+   ],
+   "src": [
+    "https://www.opentable.co.uk/cuisine/best-regional-german-restaurants-baden-wurttemberg-eislingen"
+   ]
+  },
+  {
+   "id": "ulgruenerbaum",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink house beer at Brauereigasthof Grüner Baum in Biberach",
+   "desc": "A brewery inn at Schulstraße 5-9 in the old town.",
+   "tip": "Check the menu before you go.",
+   "q": "Hotel Grüner Baum, Schulstraße 5, Biberach an der Riß",
+   "ll": [
+    48.098,
+    9.79
+   ],
+   "src": [
+    "https://www.bergbier.de/system/files/kunden/2022-06/Rezepte-Streifenkalender_A4.pdf"
+   ]
+  },
+  {
+   "id": "ulpflugkeller",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat homemade Maultaschen at the Pflugkeller in Biberach",
+   "desc": "The menu lists homemade Maultaschen with melted onions and salad.",
+   "tip": "The menu seen was from 2022; check the current one.",
+   "q": "Pflugkeller, Biberach an der Riß",
+   "ll": [
+    48.09699,
+    9.78355
+   ],
+   "src": [
+    "https://www.speisekarte.de/biberach-an-der-ri%C3%9F/restaurant/pflugkeller_biberach/speisekarte"
+   ]
+  },
+  {
+   "id": "ulbadstube",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat on the sun terrace at Café-Restaurant Badstube in Bad Buchau",
+   "desc": "The restaurant at the Kurzentrum is a few steps from the Federsee and serves hearty regional dishes, with a summer terrace.",
+   "tip": "Am Kurpark 1.",
+   "q": "Café-Restaurant Badstube, Am Kurpark 1, Bad Buchau",
+   "ll": [
+    48.069,
+    9.612
+   ],
+   "src": [
+    "https://www.speisekarte.de/bad-buchau/restaurant/kurzentrum_mit_caferestaurant_badstube/speisekarte"
+   ]
+  },
+  {
+   "id": "ulgasthofdonau",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat traditional dishes at Gasthof Donau in Sigmaringen",
+   "desc": "A Gasthof at Donaustraße 1 with traditional cooking and a beer garden.",
+   "tip": "Prices are listed around 20 to 30 euros.",
+   "q": "Gasthof Donau, Donaustraße 1, Sigmaringen",
+   "ll": [
+    48.08646,
+    9.21448
+   ],
+   "src": [
+    "https://www.swipein.restaurant/en/restaurant/gasthof-donau-sigmaringen-baden-wurttemberg"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,858 @@
+{
+ "new": [
+  {
+   "id": "bisparrenburg",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb the tower of the Sparrenburg castle",
+   "desc": "The Counts of Ravensberg built the Sparrenburg before 1250 to guard the Bielefeld Pass, and it became a Renaissance fortress from 1535. The tower is about 31.5 m high, and the castle was restored between 1948 and 1987 after heavy bombing damage in 1944.",
+   "tip": "The grounds are open year-round. The tower and casemates are open daily from April to October for a small fee.",
+   "q": "Sparrenburg, Sparrenberger Burgweg, Bielefeld",
+   "ll": [
+    52.0149,
+    8.5268
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Sparrenburg"
+   ]
+  },
+  {
+   "id": "bisparrencasemates",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Go underground in the Sparrenburg casemates",
+   "desc": "The southeastern casemates of the Sparrenburg are open to visitors, with underground tours through the old defensive tunnels. The northwestern tunnels stay closed apart from three tours a year because bats roost there.",
+   "tip": "Open April to October; the tour costs a fee. Wear sturdy shoes, as the passages are damp and uneven.",
+   "q": "Sparrenburg, Sparrenberger Burgweg, Bielefeld",
+   "ll": [
+    52.0147,
+    8.5272
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Sparrenburg"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "bileineweberdenkmal",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Meet the Leineweber monument by the Nicolaikirche",
+   "desc": "Hans Perathoner's three-metre bronze weaver figure was unveiled on 16 July 1909 in the Altstädter Kirchpark and recalls Bielefeld's linen trade. It was moved in 1954 and brought back on 20 December 1960 after citizen protests.",
+   "tip": "Free to see at any time. Combine it with a walk through the old market square nearby.",
+   "q": "Leineweberdenkmal, Altstädter Kirchplatz, Bielefeld",
+   "ll": [
+    52.02114,
+    8.53279
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Leineweberdenkmal"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "binicolaikirche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Antwerp altar in the Altstädter Nicolaikirche",
+   "desc": "The parish was founded in 1236, and the church was largely destroyed in 1944 and rebuilt between 1954 and 1963. Its chancel holds a carved Antwerp altarpiece about 4.5 m high with some 250 wood carvings, dated to 1524.",
+   "tip": "Check opening times before going, as the church is not always open outside services.",
+   "q": "Altstädter Nicolaikirche, Nikolaistraße, Bielefeld",
+   "ll": [
+    52.02111,
+    8.53222
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Altstädter_Nicolaikirche"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bikunsthalle",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Philip Johnson building of the Kunsthalle",
+   "desc": "The Kunsthalle Bielefeld opened in 1968 and is the only museum building by the American architect Philip Johnson in Europe. The International Style building has a red sandstone facade, and Rudolf-August Oetker helped fund it.",
+   "tip": "Allow one to two hours. Check the programme online, as exhibitions change several times a year.",
+   "q": "Kunsthalle Bielefeld, Artur-Ladebeck-Straße 5, Bielefeld",
+   "ll": [
+    52.0182,
+    8.5261
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kunsthalle_Bielefeld"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bibauernhausmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step inside the Bielefeld Bauernhausmuseum",
+   "desc": "The open-air museum opened on 6 June 1917 and is one of the oldest of its kind in Westphalia. Historic farm buildings show furniture, wooden tools, ceramics and clothing, mostly from the Bielefeld area.",
+   "tip": "Best on a dry day since much of it is outdoors. Combine it with the nearby Tierpark Olderdissen.",
+   "q": "Bauernhausmuseum, Dornberger Straße 82, Bielefeld",
+   "ll": [
+    52.0237,
+    8.5082
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Bauernhausmuseum_Bielefeld"
+   ]
+  },
+  {
+   "id": "bibotanischergarten",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Wander the Botanical Garden on the Kahlenberg",
+   "desc": "Founded in 1912 as an extension of the Johannisfriedhof, the garden sits on the south slope of the Kahlenberg. It holds about 3,000 plant species, a rhododendron and azalea collection, a fern staircase and an Earth-time clock.",
+   "tip": "Admission is free and the garden is open all year. Late spring is best for the rhododendrons.",
+   "q": "Botanischer Garten Bielefeld, Am Kahlenberg 16, Bielefeld",
+   "ll": [
+    52.01433,
+    8.51218
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Botanischer_Garten_Bielefeld"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bioetkerwelt",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Discover the brand world at Dr. Oetker Welt",
+   "desc": "The visitor centre stands at Lutterstraße 14, the company's headquarters site since 1900. The building was constructed in 1913 and 1914 as the largest blancmange powder factory on the Continent.",
+   "tip": "Visits and tours must be booked in advance through the Oetker website, so check dates first.",
+   "q": "Dr. Oetker Welt, Lutterstraße 14, Bielefeld",
+   "ll": [
+    52.01535,
+    8.52125
+   ],
+   "src": [
+    "https://www.oetker.com/about-us/our-history/corporate-archive",
+    "https://entdecke.dein-nrw.de/en/dein-nrw/streaming/detail/POI/p_100038410/dr-oetker-welt"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bihistorischesmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Trace Bielefeld's industry in the Historisches Museum",
+   "desc": "The museum opened in May 1994 in disused halls of the former Ravensberger Spinnerei. It tells the city's story from the 13th century, with linen, sewing machines, bicycles and machine and car making.",
+   "tip": "Allow about two hours. The Museum Huelsmann is a short walk away in the same park.",
+   "q": "Historisches Museum Bielefeld, Ravensberger Park 2, Bielefeld",
+   "ll": [
+    52.0224,
+    8.5442
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Historisches_Museum_Bielefeld"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bimuseumhuelsmann",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See silver and porcelain at the Museum Huelsmann",
+   "desc": "The Museum Huelsmann in Ravensberger Park holds 953 objects, with strengths in silver and goldsmith work, faience, porcelain, paintings, furniture and scientific instruments.",
+   "tip": "Check current opening days on the museum's site, as hours are limited.",
+   "q": "Museum Huelsmann, Ravensberger Park 3, Bielefeld",
+   "ll": [
+    52.02247,
+    8.54572
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Museum_Huelsmann"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bieisernenanton",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb the Eiserner Anton on the Ebberg",
+   "desc": "Built in 1895 by machine manufacturer Heinrich C. Fricke, this 9.5 m steel Bismarck tower stands on the 309 m Ebberg in Stieghorst. A platform at 8 m is reached by 42 steps, and the tower is a listed monument.",
+   "tip": "It lies on the Hermannsweg. Check ahead if the platform is open when you visit.",
+   "q": "Eiserner Anton, Ebberg, Stieghorst, Bielefeld",
+   "ll": [
+    51.97897,
+    8.58311
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Eiserner_Anton"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bizionskirche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Zionskirche in Bethel",
+   "desc": "The neo-Romanesque Zionskirche was built in 1883 and 1884 and consecrated on 28 November 1884, funded by about 16,000 donors. It became a listed monument in 1984.",
+   "tip": "Combine it with a stroll through the Bethel grounds; check when the church is open to visitors.",
+   "q": "Zionskirche, Bethel, Bielefeld",
+   "ll": [
+    52.01158,
+    8.52572
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Zionskirche_(Bethel)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bihermannsweg",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Hike the Hermannsweg from the Sparrenburg",
+   "desc": "The 156 km Hermannsweg follows the ridge of the Teutoburg Forest, marked by a white H. In Bielefeld it passes the Sparrenburg, the Eiserner Anton tower and the Lämershagen viaduct over the A2.",
+   "tip": "Start at the Sparrenburg and walk east towards the Eiserner Anton. Sturdy shoes recommended.",
+   "q": "Sparrenburg, Sparrenberger Burgweg, Bielefeld",
+   "ll": [
+    52.0149,
+    8.5268
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Hermannsweg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bioberseeloop",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the loop around the Obersee",
+   "desc": "The Obersee is Bielefeld's largest lake at about 20 ha, built between 1977 and 1982 on the Johannisbach. A loop path of roughly 3.5 km runs around it, with a bird sanctuary, playgrounds and minigolf.",
+   "tip": "The loop takes under an hour. A relocated 1616 half-timbered house by the water holds a restaurant.",
+   "q": "Obersee, Loheide, Schildesche, Bielefeld",
+   "ll": [
+    52.05657,
+    8.56342
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Obersee_(Bielefeld)",
+    "https://en.teutoburgerwald.de/nature/my-day-in-nature/tour/bielefelder-runden/-laufen-walken-am-obersee-3-km"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bitierparkolderdissen",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Visit the free Tierpark Olderdissen",
+   "desc": "The zoo opened in 1930 and covers about 16 ha, with about 80 species and over 450 animals, focused on native species. It is run by the city and is open all year.",
+   "tip": "Entry is free. Plan about two hours, and combine it with the Bauernhausmuseum nearby.",
+   "q": "Tierpark Olderdissen, Dornberger Straße 149, Bielefeld",
+   "ll": [
+    52.0206,
+    8.5011
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Tierpark_Olderdissen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bischuecoarena",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Catch an Arminia Bielefeld match at the SchücoArena",
+   "desc": "The stadium opened in 1926 and holds 26,750 spectators, 18,703 seated and 8,047 standing. It is the home ground of Arminia Bielefeld.",
+   "tip": "Buy tickets through the club's site and check the fixture list for home games.",
+   "q": "SchücoArena, Melanchthonstraße 31a, Bielefeld",
+   "ll": [
+    52.0314,
+    8.5169
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/SchücoArena"
+   ]
+  },
+  {
+   "id": "bileinewebermarkt",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Join the Leineweber-Markt city festival",
+   "desc": "Bielefeld's best-known city festival is held around the old market square and Jahnplatz, with music, rides, craft stalls and food. The 2026 edition ran from 3 to 7 June and drew about 420,000 visitors.",
+   "tip": "Entry is free. Dates shift each year around late May and June, so check bielefeld.jetzt.",
+   "q": "Alter Markt, Bielefeld",
+   "ll": [
+    52.0212,
+    8.5333
+   ],
+   "src": [
+    "https://en.teutoburgerwald.de/reiseziele-geschichten/veranstaltungen-kulinarik/veranstaltungstipps/event/leineweber-market-in-bielefeld",
+    "https://www.festivalsindeutschland.de/festival/leineweber-markt-bielefeld"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    5,
+    6
+   ]
+  },
+  {
+   "id": "bisiggimarkt",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the weekly market on the Siggi",
+   "desc": "Siegfriedplatz, known as the Siggi, is the centre of Bielefeld's alternative west side. A weekly market is held there on Wednesdays and Fridays.",
+   "tip": "Go in the morning and finish with a coffee at one of the cafés around the square.",
+   "q": "Siegfriedplatz, Bielefeld",
+   "ll": [
+    52.02813,
+    8.5225
+   ],
+   "src": [
+    "https://en.teutoburgerwald.de/region/excursion/poi/siegfriedplatz"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "biseekrug",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat original Pickert at the Seekrug am Obersee",
+   "desc": "The Seekrug sits directly on the Obersee, with a large beer garden, playgrounds and minigolf. Its menu lists Pickert, the Westphalian potato bread, served the traditional way with beet syrup, Leberwurst and butter.",
+   "tip": "Order the Pickert with Leberwurst and Rübenkraut. Prices vary by menu, so check before you go.",
+   "q": "Seekrug am Obersee, Loheide 22a, Bielefeld",
+   "ll": [
+    52.05916,
+    8.55902
+   ],
+   "src": [
+    "https://www.speisekarte.de/bielefeld/restaurant/seekrug_am_obersee/bewertung"
+   ]
+  },
+  {
+   "id": "bivahle",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try two house Pickert at Gaststätte Vahle",
+   "desc": "Gaststätte Vahle on Wertherstraße offers a classic German menu and lists two homemade Pickert potato pancakes among its main dishes. It is open Tuesday to Saturday evenings and does not take cards.",
+   "tip": "Bring cash and book ahead. Order the Pickert with Schnippelschinken and Schmand.",
+   "q": "Gaststätte Vahle, Wertherstraße 24, Bielefeld",
+   "ll": [
+    52.02175,
+    8.52072
+   ],
+   "src": [
+    "https://speisekartenweb.de/restaurants/bielefeld/gastst%C3%A4tte-vahle-3631"
+   ]
+  },
+  {
+   "id": "bipeteraufmberge",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste Lappenpickert at Peter aufm Berge",
+   "desc": "The Waldhotel Peter aufm Berge on Bergstraße lies near the Tierpark Olderdissen and has a restaurant with a terrace. Its menu features an original Westphalian Lappenpickert with butter and Leberwurst.",
+   "tip": "Try the Lappenpickert after a visit to the zoo or farm museum. Check the menu for current prices.",
+   "q": "Waldhotel Peter aufm Berge, Bergstraße 45, Bielefeld",
+   "ll": [
+    52.02103,
+    8.45741
+   ],
+   "src": [
+    "https://www.peter-aufm-berge.de/unser-restaurant/speisekarte"
+   ]
+  },
+  {
+   "id": "bibrauhausalbrecht",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink house-brewed beer at Brauhaus Joh. Albrecht",
+   "desc": "Brauhaus Joh. Albrecht on Hagenbruchstraße is a brewpub near the Altstadt, serving house-made beer with German dishes, including vegetarian options.",
+   "tip": "Try the house beer with a hearty dish. Reserve at weekends.",
+   "q": "Brauhaus Joh. Albrecht, Hagenbruchstraße 8, Bielefeld",
+   "ll": [
+    52.0213,
+    8.5318
+   ],
+   "src": [
+    "https://www.reviewhero.io/brauhaus-joh-albrecht-bielefeld-d2b0",
+    "https://www.uni-bielefeld.de/sfb/sfb1646/veranstaltungen/summer-school-2026/Where_to_eat_Bielefeld.pdf"
+   ]
+  },
+  {
+   "id": "bibraumanufaktur",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste craft beer at the Bielefelder Braumanufaktur",
+   "desc": "The Bielefelder Braumanufaktur began as a hobby in 2016, moved to the Möllerwerke site in Brackwede in 2018 and opened its own brewery there in 2022. It brews craft beer on Brockhagener Straße.",
+   "tip": "Check the website or social media for taste events and opening times.",
+   "q": "Bielefelder Braumanufaktur, Brockhagener Straße 22, Bielefeld",
+   "ll": [
+    51.98782,
+    8.48363
+   ],
+   "src": [
+    "https://rausgegangen.de/en/locations/bielefelder-braumanufaktur"
+   ]
+  },
+  {
+   "id": "bimellowgold",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have breakfast at Mellow Gold",
+   "desc": "Mellow Gold on Karl-Eilers-Straße is a café with coffee and a breakfast menu with organic, vegan and vegetarian dishes, plus cocktails.",
+   "tip": "Come for a long breakfast. Check hours, as they vary.",
+   "q": "Mellow Gold, Karl-Eilers-Straße 22, Bielefeld",
+   "ll": [
+    52.02526,
+    8.52905
+   ],
+   "src": [
+    "https://freizeitmonster.de/blog/bars-bielefeld",
+    "https://www.uni-bielefeld.de/sfb/sfb1646/veranstaltungen/summer-school-2026/Where_to_eat_Bielefeld.pdf"
+   ]
+  },
+  {
+   "id": "bimoccaklatsch",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Brunch at Moccaklatsch on Arndtstraße",
+   "desc": "Moccaklatsch is a café-bistro on Arndtstraße serving coffee, cake, Mediterranean dishes and breakfast, in one of the city's busiest eating streets.",
+   "tip": "Go for breakfast, and take a table outside when the weather is good.",
+   "q": "Moccaklatsch, Arndtstraße 11, Bielefeld",
+   "ll": [
+    52.0251,
+    8.52894
+   ],
+   "src": [
+    "https://www.uni-bielefeld.de/sfb/sfb1646/veranstaltungen/summer-school-2026/Where_to_eat_Bielefeld.pdf",
+    "https://freizeitmonster.de/blog/bars-bielefeld"
+   ]
+  },
+  {
+   "id": "bicafelutter",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Lunch on soup and cake at Café Lutter",
+   "desc": "Café Lutter on Ravensberger Straße serves bowls, soups, breakfast and cake, close to the Ravensberger Park museums.",
+   "tip": "Visit after the Historisches Museum for soup or a slice of cake.",
+   "q": "Café Lutter, Ravensberger Straße 34, Bielefeld",
+   "ll": [
+    52.01726,
+    8.53816
+   ],
+   "src": [
+    "https://www.uni-bielefeld.de/sfb/sfb1646/veranstaltungen/summer-school-2026/Where_to_eat_Bielefeld.pdf"
+   ]
+  },
+  {
+   "id": "bikachelhaus",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Share Flammkuchen and tapas at the Kachelhaus",
+   "desc": "The Kachelhaus on Hagenbruchstraße serves tapas, Flammkuchen, burgers and schnitzel in the old-town pub quarter.",
+   "tip": "Order a Flammkuchen to share. Evenings can be busy.",
+   "q": "Kachelhaus, Hagenbruchstraße 13, Bielefeld",
+   "ll": [
+    52.021,
+    8.532
+   ],
+   "src": [
+    "https://www.uni-bielefeld.de/sfb/sfb1646/veranstaltungen/summer-school-2026/Where_to_eat_Bielefeld.pdf"
+   ]
+  },
+  {
+   "id": "bibuschkamp",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Kastenpickert at Gasthaus Buschkamp",
+   "desc": "The Historisches Gasthaus Buschkamp in Bielefeld-Senne lists Westphalian specialities, including a homemade Kastenpickert served with its own Leberwurst and plum compote.",
+   "tip": "Order the Kastenpickert with Leberwurst and Pflaumenmus; prices differ between menu versions.",
+   "q": "Historisches Gasthaus Buschkamp, Buschkampstraße 75, Bielefeld",
+   "ll": [
+    51.96049,
+    8.54654
+   ],
+   "src": [
+    "https://speisekartenweb.de/restaurants/bielefeld/historisches-gasthaus-buschkamp-&-auberge-le-concarneau-3616",
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/bielefeld/historisches-gasthaus-buschkamp/"
+   ]
+  },
+  {
+   "id": "biguetersloherbrauhaus",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink house beer at the Gütersloher Brauhaus",
+   "desc": "The Gütersloher Brauhaus on Unter den Ulmen is listed as a brewpub with house-brewed beer, hearty German dishes and brunch.",
+   "tip": "Try the house beer with a hearty dish. Verify current opening hours first.",
+   "q": "Gütersloher Brauhaus, Unter den Ulmen 9, Gütersloh",
+   "ll": [
+    51.90227,
+    8.37535
+   ],
+   "src": [
+    "https://au.trip.com/restaurant/germany/guetersloh/detail/Guetersloher%20Brauhaus-19112669"
+   ]
+  },
+  {
+   "id": "bipiccoliherford",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Sit on the Alter Markt at Piccoli in Herford",
+   "desc": "Piccoli stands on the Alter Markt in Herford's old town and is listed as a café, ice cream parlour and restaurant.",
+   "tip": "Good for an ice cream or coffee after the Münster. Terrace seating in summer.",
+   "q": "Piccoli, Alter Markt 14, Herford",
+   "ll": [
+    52.12702,
+    8.68572
+   ],
+   "src": [
+    "https://en.teutoburgerwald.de/reiseziele-geschichten/veranstaltungen-kulinarik/gastronomie-tipps/restaurants/piccoli"
+   ]
+  },
+  {
+   "id": "bicafejach",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have cake at Café Jach in Herford",
+   "desc": "Café Jach on the Gänsemarkt offers coffee and freshly baked cake in Herford's old town.",
+   "tip": "Pair a slice of cake with a walk through the nearby Radewig quarter.",
+   "q": "Café Jach, Gänsemarkt 1A, Herford",
+   "ll": [
+    52.1158,
+    8.66521
+   ],
+   "src": [
+    "https://en.teutoburgerwald.de/reiseziele-geschichten/veranstaltungen-kulinarik/gastronomie-tipps/restaurants/cafe-jach"
+   ]
+  },
+  {
+   "id": "bistadtcoeln",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat a hearty meal at Stadt Cöln in Herford",
+   "desc": "The Wirtshaus Stadt Cöln on Bügelstraße is a traditional inn in Herford's old town, and a reviewer praises its food as very good for a fairly low price.",
+   "tip": "Check opening days before you go.",
+   "q": "Stadt Cöln Wirtshaus, Bügelstraße 6, Herford",
+   "ll": [
+    52.1138,
+    8.6717
+   ],
+   "src": [
+    "https://www.golocal.de/herford-herford-stadt/restaurants-gaststaetten/"
+   ]
+  },
+  {
+   "id": "bimarta",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk into Frank Gehry's MARTa Herford",
+   "desc": "MARTa Herford, designed by Frank Gehry, opened on 7 May 2005 at Goebenstraße 2 to 10. It shows contemporary art and design.",
+   "tip": "Allow two hours and check the exhibition schedule before visiting.",
+   "q": "MARTa Herford, Goebenstraße 2-10, Herford",
+   "ll": [
+    52.12097,
+    8.66833
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Marta_Herford"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "biherfordmuenster",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look for the seven suns window in Herford Münster",
+   "desc": "This late Romanesque hall church, built about 1220 to 1250, served the Herford Frauenstift. It has twin west towers, a Gothic seven suns window above the south portal and a baptismal font from 1500.",
+   "tip": "Free entry during opening hours. Check the schedule, as the church also hosts organ concerts.",
+   "q": "Münsterkirche, Münsterkirchplatz, Herford",
+   "ll": [
+    52.11569,
+    8.67111
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Herforder_Münster"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bizigarrenmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Learn how Bünde became cigar town at the tobacco museum",
+   "desc": "The Deutsches Tabak- und Zigarrenmuseum is housed in the Striediecksche Hof of 1828 in Bünde. Tobacco manufacturing began there in 1843, and by around 1900 the town had more than 100 factories. The museum reopened with a new exhibition in October 2010.",
+   "tip": "Check opening days, which are limited. Allow about an hour.",
+   "q": "Deutsches Tabak- und Zigarrenmuseum, Bünde",
+   "ll": [
+    52.19556,
+    8.58181
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Deutsches_Tabak-_und_Zigarrenmuseum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bistiftskircheenger",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Find Widukind's grave in the Stiftskirche Enger",
+   "desc": "Queen Mathilde founded the collegiate foundation in Enger in 947. A relief from around 1100 with a reclining figure is traditionally said to mark the grave of the Saxon leader Widukind, though his burial there is uncertain.",
+   "tip": "Free to visit during opening hours. Check opening times before going.",
+   "q": "Stiftskirche Enger, Stiftsplatz, Enger",
+   "ll": [
+    52.13958,
+    8.55872
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Stiftskirche_Enger"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "biburgvlotho",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look over the Weser from Burg Vlotho",
+   "desc": "The castle was built around 1250 as an administrative seat, destroyed in 1368 and rebuilt, then sold for demolition in 1709. Excavations from 1936 to 1939 led to a partly reconstructed ruin with a wide view over the Weser valley.",
+   "tip": "Free access. Walk up from the town; the terrace is best in clear weather.",
+   "q": "Burg Vlotho, Vlotho",
+   "ll": [
+    52.17139,
+    8.85944
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Burg_Vlotho"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bischlossrheda",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the double chapel at Schloss Rheda",
+   "desc": "A castle is first mentioned in 1170, and the Bentheim-Tecklenburg family has held it since 1557. The 13th-century double chapel in the Kapellenturm is internationally known, and the Kutschenmuseum and park are open to visitors.",
+   "tip": "The Kapellenturm is open daily; entry is by ticket machine at the turnstile. The Schlossmühle café opens only in summer.",
+   "q": "Schloss Rheda, Rheda-Wiedenbrück",
+   "ll": [
+    51.8508,
+    8.2969
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Rheda"
+   ]
+  },
+  {
+   "id": "biflorawestfalica",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stroll through the Flora Westfalica park",
+   "desc": "Created for the 1988 Landesgartenschau, the park restores river meadows along the Ems between Rheda and Wiedenbrück, with playgrounds, nature trails and the palace grounds and rose garden in Rheda.",
+   "tip": "Bring a bike to cover the whole park.",
+   "q": "Flora Westfalica, Rheda-Wiedenbrück",
+   "ll": [
+    51.84406,
+    8.30153
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Flora_Westfalica"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "biklostermarienfeld",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Cistercian abbey of Marienfeld",
+   "desc": "The former Cistercian abbey in Harsewinkel-Marienfeld was founded in 1185, and its church was consecrated in 1222. Visitors can walk the abbey courtyard and stop at the Klostercafé.",
+   "tip": "The Prälatenweg walking route passes the abbey. Check church opening times.",
+   "q": "Kloster Marienfeld, Harsewinkel",
+   "ll": [
+    51.94624,
+    8.28063
+   ],
+   "src": [
+    "https://mdwiki.org/wiki/Marienfeld_Abbey",
+    "https://www.ich-geh-wandern.de/vom-kloster-marienfeld-ins-huehnermoor"
+   ]
+  },
+  {
+   "id": "biguetersloherstadtpark",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Stroll the Gütersloh Stadtpark and botanical garden",
+   "desc": "The roughly 15 ha Stadtpark was laid out in 1908 and 1909, with a 4 ha botanical garden added in 1912. It has a palm house rebuilt in 2004, a lavender garden, a skating meadow and a Green Flag award.",
+   "tip": "Entry is free. Stop for coffee at the palm house café.",
+   "q": "Stadtpark Gütersloh, Gütersloh",
+   "ll": [
+    51.9001,
+    8.39055
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Stadtpark_Gütersloh"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "biterrawortmannopen",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch grass-court tennis at the Terra Wortmann Open",
+   "desc": "The ATP tournament in Halle (Westf.) has been played on grass since 1993 at what is now the Heristo-Arena, with up to 11,500 seats for tennis.",
+   "tip": "Held in June before Wimbledon. Book tickets well ahead.",
+   "q": "Heristo-Arena, Halle (Westf.)",
+   "ll": [
+    52.0633,
+    8.3491
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Gerry_Weber_Stadion"
+   ],
+   "months": [
+    6
+   ]
+  },
+  {
+   "id": "bihengeberg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike up the Hengeberg above Halle",
+   "desc": "The Teutoburg Forest runs through Halle (Westf.), and the Hengeberg at 316 m is one of its highest points.",
+   "tip": "Pick a dry day and combine it with a trail along the ridge.",
+   "q": "Hengeberg, Halle (Westfalen)",
+   "ll": [
+    52.05002,
+    8.39526
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Halle_(Westfalen)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "biwiedenbrueckaltstadt",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk Lange Straße in Wiedenbrück",
+   "desc": "Wiedenbrück's old town has many half-timbered gabled houses, and Lange Straße keeps well-preserved early 17th-century examples. The oldest is the Pilgerhaus at No. 27, dated 1417.",
+   "tip": "Free to wander. Look for the Betender Landmann fountain on the market square.",
+   "q": "Lange Straße, Wiedenbrück, Rheda-Wiedenbrück",
+   "ll": [
+    51.8358,
+    8.31021
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Wiedenbrück"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "biemssee",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk around the Emssee in Wiedenbrück",
+   "desc": "The Emssee is a lake in Wiedenbrück that forms part of the Flora Westfalica park along the Ems.",
+   "tip": "Combine it with the Flora Westfalica park for a flat walk.",
+   "q": "Emssee, Wiedenbrück, Rheda-Wiedenbrück",
+   "ll": [
+    51.83578,
+    8.30844
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Flora_Westfalica"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "biverlersee",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Relax at the Verler See in Sürenheide",
+   "desc": "The Verler See in the Sürenheide district of Verl is a lake used for leisure, one of several lakes in the municipality.",
+   "tip": "Check access and rules locally before bringing swimwear.",
+   "q": "Verler See, Sürenheide, Verl",
+   "ll": [
+    51.88733,
+    8.48274
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Verl"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "biradewig",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Wander the Radewig, Herford's oldest quarter",
+   "desc": "Radewig is described as Herford's oldest district, with Italian restaurants such as Il Trullo at Radewiger Straße 41 and bars such as Richters Bar.",
+   "tip": "Go on an evening and stop for a drink or dinner.",
+   "q": "Radewig, Herford",
+   "ll": [
+    52.11597,
+    8.66578
+   ],
+   "src": [
+    "https://en.teutoburgerwald.de/reiseziele-geschichten/veranstaltungen-kulinarik/gastronomie-tipps/restaurants/ristorante-il-trullo-da-cosimo"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

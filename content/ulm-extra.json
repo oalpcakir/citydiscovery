@@ -1,0 +1,246 @@
+{
+ "new": [
+  {
+   "id": "ulmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Lion Man at the Ulmer Museum",
+   "desc": "The Ulmer Museum on the Marktplatz shows the Löwenmensch, a 40,000-year-old ivory figure from the Hohlenstein-Stadel cave in the Lone valley and one of the oldest known artworks. The collection also covers medieval sculpture, Ulm's Hans Multscher and modern art.",
+   "tip": "Closed on Mondays. The Löwenmensch has its own room, so allow an hour.",
+   "q": "Ulmer Museum, Marktplatz 9, Ulm",
+   "ll": [
+    48.39775,
+    9.9934
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ulmer_Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ulstadthaus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Compare the Stadthaus with the Minster",
+   "desc": "The Stadthaus on Münsterplatz was designed by American architect Richard Meier and opened in 1993. Its white, geometric facade stands directly beside the Gothic Minster and sparked a long local debate when it was built.",
+   "tip": "Free to look at from the square. Inside are exhibition rooms and a ticket office.",
+   "q": "Stadthaus Ulm, Münsterplatz 50, Ulm",
+   "ll": [
+    48.3983,
+    9.9919
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Stadthaus_Ulm"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ulwiblingen",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the rococo library of Kloster Wiblingen",
+   "desc": "Wiblingen Abbey, a former Benedictine monastery south of the old town, is known for its rococo library hall with ceiling frescoes by Franz Martin Kuen from the 1740s. The abbey church and the monastery gardens are open to visitors as well.",
+   "tip": "The abbey is run by Ulm as a museum and event venue. Tram line 1 stops nearby.",
+   "q": "Kloster Wiblingen, Schlossstraße 38, Ulm",
+   "ll": [
+    48.3618,
+    9.99162
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Wiblingen_Abbey"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ulmaerklineum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk through 160 years of Märklin at the Märklineum",
+   "desc": "The Märklineum in Göppingen opened in 2021 next to the Märklin factory and tells the history of the model railway maker founded in 1859. It has a large model railway layout over two levels and a shop.",
+   "tip": "Open Tuesday to Sunday. Check maerklineum.de for hours.",
+   "q": "Märklineum, Reuschstraße 6, Göppingen",
+   "ll": [
+    48.70686,
+    9.64106
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Märklin"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ulmuseumbiberach",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Meet Wieland and Pfeiffer's art at Museum Biberach",
+   "desc": "Museum Biberach shows the town's art and history, including works by the painter Johann Baptist Pflug and the Biberach school, and material on the poet Christoph Martin Wieland, who lived in the town. It also holds the Braith-Mali collection of animal and landscape painting.",
+   "tip": "Closed on Mondays. Combine with a walk through the nearby Marktplatz.",
+   "q": "Museum Biberach, Museumstraße 6, Biberach an der Riß",
+   "ll": [
+    48.09801,
+    9.79024
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Museum_Biberach"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ulkrone",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink beer in Ulm's oldest inn, the Krone",
+   "desc": "The Gaststätte Krone in the Altstadt claims roots back to 1320 and serves regional food in wood-panelled rooms. Swabian dishes and house beer are the draw.",
+   "tip": "Try the Zwiebelrostbraten with Spätzle. Opening days vary, so call ahead.",
+   "q": "Gaststätte Krone, Kronengasse 4, Ulm",
+   "ll": [
+    48.39613,
+    9.99194
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/pois/1519447"
+   ]
+  },
+  {
+   "id": "ulbrezel",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order Swabian classics at the Wirtshaus zur Brezel",
+   "desc": "This central Wirtshaus on Ulmer Gasse serves Bavarian and Swabian dishes with Paulaner beer, with warm food until midnight on most days. Käsespätzle and Schnitzel are standard orders.",
+   "tip": "Closed on Sundays. Hot food runs from 11:30.",
+   "q": "Wirtshaus zur Brezel, Ulmer Gasse 8, Ulm",
+   "ll": [
+    48.39918,
+    9.98866
+   ],
+   "src": [
+    "https://tourismus.ulm.de/en/discover/gastronomy/restaurants/zur-brezel-ulm"
+   ]
+  },
+  {
+   "id": "ulwilderwirt",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have a cheap Swabian lunch at Der Wilde Wirt",
+   "desc": "Der Wilde Wirt on Hafenbad sells Swabian lunch dishes such as Maultaschen, goulash and Spätzle, mostly for under 14 euros. It is a lunch-only spot, open until 18:00.",
+   "tip": "Closed on Sundays. Takeaway is possible.",
+   "q": "Der wilde Wirt, Hafenbad 10, Ulm",
+   "ll": [
+    48.39983,
+    9.99376
+   ],
+   "src": [
+    "https://www.schwaebische.de/regional/ulm-alb-donau/ulm/was-der-wilde-wirt-in-ulm-zu-bieten-hat-1537303"
+   ]
+  },
+  {
+   "id": "ullochmuehle",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sit by the mill wheel at Zur Lochmühle",
+   "desc": "This family-run restaurant in the Fischerviertel has a beer garden with a historic mill wheel above the Blau and serves Swabian-Bavarian dishes with beer from the Berg brewery. The daily menu changes.",
+   "tip": "Open daily from 11:00. Summer evenings in the garden fill up.",
+   "q": "Restaurant Zur Lochmühle, Gerbergasse 6, Ulm",
+   "ll": [
+    48.3976,
+    9.9915
+   ],
+   "src": [
+    "https://tourismus.ulm.de/en/discover/gastronomy/restaurants/zur-lochmuehle-ulm"
+   ]
+  },
+  {
+   "id": "ulmuenzguenzburg",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine in the brewery inn Zur Münz in Günzburg",
+   "desc": "The Brauereigasthof zur Münz stands on the Marktplatz of Günzburg and combines a restaurant with a hotel. It is a convenient meal stop after Legoland or the old town.",
+   "tip": "Regional Bavarian-Swabian dishes. Booking helps on weekends.",
+   "q": "Brauereigasthof zur Münz, Marktplatz 25, Günzburg",
+   "ll": [
+    48.45521,
+    10.27606
+   ],
+   "src": [
+    "https://pages.destination.one/de/guenzburg/streaming/detail/Gastro/g_100021141/brauereigasthof-zur-muenz"
+   ]
+  },
+  {
+   "id": "ulnaturtheater",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch an open-air play at the Naturtheater Heidenheim",
+   "desc": "The Naturtheater Heidenheim is one of the largest open-air stages in Baden-Württemberg, with a covered grandstand of about 1,100 seats and around 40,000 visitors a year. Summer programmes include musicals, family plays and shows for adults.",
+   "tip": "The season runs in summer. Check the programme on naturtheater-heidenheim.de.",
+   "q": "Naturtheater Heidenheim, Heidenheim an der Brenz",
+   "ll": [
+    48.67299,
+    10.14519
+   ],
+   "src": [
+    "https://www.leinetal24.de/welt/der-groessten-freilichtbuehnen-baden-wuerttemberg-naturtheater-heidenheim-programm-eine-zr-93168786.html"
+   ]
+  },
+  {
+   "id": "ulbudspencer",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim in the Bud-Spencer-Bad in Schwäbisch Gmünd",
+   "desc": "The open-air pool in Schwäbisch Gmünd is named after actor and former swimmer Bud Spencer, who learned to swim in Gmünd. It is a classic Freibad with several pools.",
+   "tip": "Open in the summer season only. Check gmuender-baeder.de.",
+   "q": "Bud-Spencer-Bad, Richard-Bullinger-Straße, Schwäbisch Gmünd",
+   "ll": [
+    48.80853,
+    9.81563
+   ],
+   "src": [
+    "https://www.ab-ins-schwimmbad.de/Schwaebisch-Gmuend/Freibad-Bud-Spencer-Bad.html"
+   ]
+  },
+  {
+   "id": "ulwochenmarkt",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the market on Münsterplatz",
+   "desc": "Ulm's weekly market fills the Münsterplatz in front of the Minster with regional produce, cheese, bread and flowers. It is a daily browsing spot for locals and visitors.",
+   "tip": "Best on Saturday morning. Market days are Wednesday, Friday and Saturday.",
+   "q": "Wochenmarkt, Münsterplatz, Ulm",
+   "ll": [
+    48.3986,
+    9.9927
+   ],
+   "src": [
+    "https://tourismus.ulm.de/en/discover/shopping/markets"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "uldonauboat",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Take a Danube boat trip from the Fischerviertel",
+   "desc": "Passenger boats sail from the landing stage at the Danube in Ulm for sightseeing trips along the river, past the city wall and the Metzgerturm. The Ulmer Schachtel, a traditional wooden boat, is the local symbol.",
+   "tip": "Operates in the warmer months. Check times and prices before going.",
+   "q": "Donauschifffahrt Ulm, Anlegestelle Fischerviertel, Ulm",
+   "ll": [
+    48.3956,
+    9.9975
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ulm"
+   ]
+  }
+ ]
+}

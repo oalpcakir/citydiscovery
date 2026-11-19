@@ -1,0 +1,905 @@
+{
+ "new": [
+  {
+   "id": "ulmuenster",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb the spire of Ulm Minster",
+   "desc": "Ulm Minster is the tallest church tower in the world at 161.5 m, completed in 1890 after construction began in 1377. A climb of 768 steps leads to the spire platform at 143 m with views to the Alps on clear days.",
+   "tip": "The tower has been partly closed for renovation since 2023, so check ulmer-muenster.de for how high you can go. The nave is free to enter.",
+   "q": "Ulmer Münster, Münsterplatz, Ulm",
+   "ll": [
+    48.39861,
+    9.9925
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ulm_Minster"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ulrathaus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Read the astronomical clock on the Ulm town hall",
+   "desc": "The Gothic Rathaus on the Marktplatz carries an astronomical clock from 1520 on its gable, set into a painted Renaissance facade. The building is also the stage for the mayor's oath on Schwörmontag.",
+   "tip": "Best seen from the Marktplatz in daylight. The square is free to enter at any time.",
+   "q": "Rathaus Ulm, Marktplatz 1, Ulm",
+   "ll": [
+    48.39744,
+    9.99255
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ulm"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ulschiefeshaus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Photograph the Crooked House above the Blau",
+   "desc": "The Schiefes Haus is a 16th-century house that leans noticeably above the Blau canal in the Fischerviertel. It is now a hotel and one of the best-known photo spots in Ulm.",
+   "tip": "Look from the Schwörhausgasse bridge across the Blau. Mornings are quietest.",
+   "q": "Schiefes Haus, Schwörhausgasse 6, Fischerviertel, Ulm",
+   "ll": [
+    48.39566,
+    9.99113
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ulm"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ulfischerviertel",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Wander the Fishermen's and Tanners' Quarter",
+   "desc": "The Fischerviertel along the Blau keeps cobbled lanes, half-timbered houses and footbridges from the time of the fishers, tanners and boatmen. Guild houses still stand along the water.",
+   "tip": "Walk from the Fischerplätzle to the Metzgerturm and back along the canal. Free and best in early evening light.",
+   "q": "Fischerviertel, Ulm",
+   "ll": [
+    48.39559,
+    9.99022
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ulm"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ulweishaupt",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Kunsthalle Weishaupt",
+   "desc": "The Kunsthalle Weishaupt opened in November 2007 in the new city centre to show the private collection of Siegfried and Ursula Weishaupt, over 400 works with a focus on 1950s and 1960s art, ZERO and Josef Albers. While Museum Ulm is being renovated, highlights such as the Lion-man have been shown here.",
+   "tip": "Check the current exhibition and opening times on kunsthalle-weishaupt.de before going.",
+   "q": "Kunsthalle Weishaupt, Hans-und-Sophie-Scholl-Platz 1, Ulm",
+   "ll": [
+    48.3976,
+    9.9949
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kunsthalle_Weishaupt",
+    "https://de.wikipedia.org/wiki/Museum_Ulm"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ulbrotmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore the Museum Brot und Kunst",
+   "desc": "Founded in 1955 by Willy Eiselen, this museum of bread culture occupies the Salzstadel, a Renaissance warehouse completed in 1592. It covers grain, baking and the history of hunger and abundance.",
+   "tip": "Allow an hour and a half. The Salzstadel is a short walk from the Rathaus.",
+   "q": "Museum Brot und Kunst, Salzstadelgasse 10, Ulm",
+   "ll": [
+    48.40095,
+    9.99008
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Museum_der_Brotkultur"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "uleinstein",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find the Einstein memorial where he was born",
+   "desc": "Albert Einstein was born in Ulm on 14 March 1879, and the family left for Munich in 1880. His birth house on Bahnhofstraße was destroyed in the bombing of 1944, and a memorial marks the place.",
+   "tip": "Free to see. Combine with a walk to the nearby Rathaus.",
+   "q": "Einsteindenkmal, Bahnhofstraße, Ulm",
+   "ll": [
+    48.3988,
+    9.9848
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Albert_Einstein",
+    "https://en.wikipedia.org/wiki/Ulm"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ulscharffmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the sculptures of Edwin Scharff in Neu-Ulm",
+   "desc": "The Edwin Scharff Museum on Petrusplatz is dedicated to the sculptor and painter Edwin Scharff (1887-1955), who was born in Neu-Ulm. It also has a children's museum area and temporary shows.",
+   "tip": "Check opening days on the museum website; many museums close on Mondays.",
+   "q": "Edwin Scharff Museum, Petrusplatz 4, Neu-Ulm",
+   "ll": [
+    48.39361,
+    9.9991
+   ],
+   "src": [
+    "https://museen-in-bayern.de/en/museums/museum-details/edwin-scharff-museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ulhfg",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Tour the Ulm School of Design building",
+   "desc": "The Hochschule für Gestaltung was founded in 1953 by Inge Aicher-Scholl, Otl Aicher and Max Bill and closed in 1968. Its work shaped Braun products and Lufthansa branding, and the Max Bill building on the Kuhberg still stands.",
+   "tip": "The building houses the HfG archive; check opening times and guided visits first.",
+   "q": "HfG-Archiv, Am Hochsträß 8, Oberer Kuhberg, Ulm",
+   "ll": [
+    48.3814,
+    9.94848
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ulm_School_of_Design"
+   ]
+  },
+  {
+   "id": "ulkuhberg",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit Fort Oberer Kuhberg and its memorial",
+   "desc": "Fort Oberer Kuhberg was built 1848-1857 as part of the federal fortress and served from November 1933 to July 1935 as one of the first concentration camps in the Third Reich. A documentation centre now runs guided tours.",
+   "tip": "Check tour dates at dzok-ulm.de. Allow two hours.",
+   "q": "Dokumentationszentrum Oberer Kuhberg, Ulm",
+   "ll": [
+    48.4129,
+    9.9744
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Bundesfestung_Ulm"
+   ]
+  },
+  {
+   "id": "ulzunfthaus",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Zwiebelrostbraten at the Zunfthaus der Schiffleute",
+   "desc": "A 15th-century merchant house on the Fischerplätzle in the Fischerviertel holds the guild-house Gaststuben. The menu lists Swabian classics such as Zwiebelrostbraten, Maultaschen and Käsespätzle.",
+   "tip": "Ask for a table in the old Stuben and book ahead on weekend evenings.",
+   "q": "Gaststuben im Zunfthaus der Schiffleute, Fischergasse 31, Ulm",
+   "ll": [
+    48.39529,
+    9.99072
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/ulm/zunfthaus-der-schiffleute/",
+    "https://www.leinetal24.de/welt/buergerliche-kueche-essen-acht-beste-schwaebische-restaurants-ulm-zr-93269567.html"
+   ]
+  },
+  {
+   "id": "ulforelle",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try smoked trout at Restaurant Zur Forelle",
+   "desc": "Zur Forelle in the Fischerviertel serves trout dishes in the old fishermen's quarter, including a smoked-trout variation. The menu also offers Zwiebelrostbraten with butter Spätzle and vegan plates.",
+   "tip": "Order the Rauchforelle. A table near the Blau canal is best in summer.",
+   "q": "Restaurant Zur Forelle, Fischergasse 25, Ulm",
+   "ll": [
+    48.39532,
+    9.99038
+   ],
+   "src": [
+    "https://www.leinetal24.de/welt/buergerliche-kueche-essen-acht-beste-schwaebische-restaurants-ulm-zr-93269567.html"
+   ]
+  },
+  {
+   "id": "ulgerberhaus",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Schnitzel and Knödel at the Gerberhaus",
+   "desc": "The Restaurant Gerberhaus stands on Weinhofberg near the old tanners' lanes. Cooking covers Schnitzel, roast pork and dumplings, with lunch menus that include chanterelles in season.",
+   "tip": "Lunch menus are the best value; check the daily card.",
+   "q": "Restaurant Gerberhaus, Weinhofberg 9, Ulm",
+   "ll": [
+    48.39667,
+    9.98913
+   ],
+   "src": [
+    "https://www.leinetal24.de/welt/buergerliche-kueche-essen-acht-beste-schwaebische-restaurants-ulm-zr-93269567.html"
+   ]
+  },
+  {
+   "id": "ulzurzill",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Share a table at Zur Zill by the Schwörhaus",
+   "desc": "Zur Zill sits on Schwörhausgasse in the old town and is listed among Ulm's restaurants with Swabian cooking. The menu covers steaks, fish, vegetarian dishes and burgers.",
+   "tip": "Close to the Schiefes Haus, so it fits a Fischerviertel walk.",
+   "q": "Zur Zill, Schwörhausgasse 19, Ulm",
+   "ll": [
+    48.39675,
+    9.98993
+   ],
+   "src": [
+    "https://www.leinetal24.de/welt/buergerliche-kueche-essen-acht-beste-schwaebische-restaurants-ulm-zr-93269567.html"
+   ]
+  },
+  {
+   "id": "uldreikannen",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink a house beer at the Drei Kannen Brauhaus",
+   "desc": "The Historisches Brauhaus Drei Kannen at Hafenbad brews its own beer and serves traditional Swabian food alongside more modern dishes.",
+   "tip": "Order the house-brewed beer with a Swabian main. Evenings are busy.",
+   "q": "Drei Kannen Historisches Brauhaus, Hafenbad 31, Ulm",
+   "ll": [
+    48.4007,
+    9.9889
+   ],
+   "src": [
+    "https://www.leinetal24.de/welt/buergerliche-kueche-essen-acht-beste-schwaebische-restaurants-ulm-zr-93269567.html"
+   ]
+  },
+  {
+   "id": "ulhaberfelder",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order a Bergsteiger Cordon Bleu at Haberfelder",
+   "desc": "The Haberfelder im Ulmer Wirtshaus on Neue Straße serves hearty Wirtshaus dishes, including a Bergsteiger Cordon Bleu, pork knuckle and Obazda.",
+   "tip": "Share the large plates. Central, just off the Münsterplatz.",
+   "q": "Haberfelder im Ulmer Wirtshaus, Neue Straße 56, Ulm",
+   "ll": [
+    48.3996,
+    9.9968
+   ],
+   "src": [
+    "https://www.leinetal24.de/welt/buergerliche-kueche-essen-acht-beste-schwaebische-restaurants-ulm-zr-93269567.html"
+   ]
+  },
+  {
+   "id": "ulmohrenkoepfle",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have cake at the Konditorei Mohrenköpfle",
+   "desc": "This confectioner on Kramgasse has been making small pastries for over 111 years, with cream and fruit tortes. A garden terrace seats 84 outdoors.",
+   "tip": "Open Tuesday to Saturday 9-17 and Sunday from 12. Try a torte with coffee.",
+   "q": "Konditorei Mohrenköpfle, Kramgasse 1, Ulm",
+   "ll": [
+    48.3992,
+    9.9916
+   ],
+   "src": [
+    "https://tourismus.ulm.de/en/discover/gastronomy/cafes/konditorei-mohrenkoepfle"
+   ]
+  },
+  {
+   "id": "ulkonzertsaal",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Take coffee and cake at Konzertsaal in Neu-Ulm",
+   "desc": "Konzertsaal is a Kaffeehaus, Konditorei and restaurant on Silcherstraße in Neu-Ulm, with breakfast, daily lunch dishes and cakes from the in-house shop.",
+   "tip": "Open Tuesday to Sunday 9-17, closed Mondays. The garden has 80 outdoor seats.",
+   "q": "Konzertsaal Kaffeehaus, Silcherstraße 2, Neu-Ulm",
+   "ll": [
+    48.3945,
+    10.003
+   ],
+   "src": [
+    "https://tourismus.ulm.de/en/discover/gastronomy/cafes/kaffeehaus-konzertsaal"
+   ]
+  },
+  {
+   "id": "ulbarfuesser",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sit in the Barfüßer beer garden in Glacis Park",
+   "desc": "The Barfüßer beer garden is in the Glacis Park in Neu-Ulm between the old Caponniere 6 walls and the open-air stage. It is family friendly and open daily in season.",
+   "tip": "Open roughly 11-22 in season. Check the weather before going.",
+   "q": "Barfüßer Biergarten im Glacis, Caponniere 6, Neu-Ulm",
+   "ll": [
+    48.38873,
+    9.99885
+   ],
+   "src": [
+    "https://tourismus.ulm.de/en/discover/gastronomy/beergardens/glacis-biergarten-neuulm"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "ulgoldochsen",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Join a Gold Ochsen brewery tour",
+   "desc": "Brauerei Gold Ochsen was founded in 1597 and has been family-owned since 1867. Tours of the brewery end with a drink in the Schalander.",
+   "tip": "Group tours have been listed from around 16 euros; check goldochsen.de for dates and booking.",
+   "q": "Brauerei Gold Ochsen, Veitsbrunnenweg 3, Ulm",
+   "ll": [
+    48.4059,
+    9.9908
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Brauerei_Gold_Ochsen",
+    "https://gruppen.ulm.de/en/discover/offers-for-groups/activities_ulm/gold-ochsen-brauereibesichtigung"
+   ]
+  },
+  {
+   "id": "ulschwoermontag",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Hear the mayor swear at Schwörmontag",
+   "desc": "On the second-to-last Monday in July, Ulm's mayor gives the Schwörrede at the Weinhof and swears an oath on the 1397 Schwörbrief. In bad weather the ceremony moves into the Minster.",
+   "tip": "Be at the Weinhof well before 11 a.m. Many shops close by midday.",
+   "q": "Weinhof, Schwörhaus, Ulm",
+   "ll": [
+    48.39591,
+    9.99125
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schw%C3%B6rmontag"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    7
+   ]
+  },
+  {
+   "id": "ulnabada",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Float or watch the Nabada on the Danube",
+   "desc": "The Nabada is the water parade on the Danube on the afternoon of Schwörmontag, starting around 4 p.m. Costumed boats and floats drift down the river while spectators line the banks.",
+   "tip": "Pick a spot along the Danube near the Metzgerturm. Red baskets on the Minster mean it is cancelled.",
+   "q": "Donau, Metzgerturm, Ulm",
+   "ll": [
+    48.39514,
+    9.99784
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schw%C3%B6rmontag"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    7
+   ]
+  },
+  {
+   "id": "uldonauwall",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the Danube bank and the old city wall",
+   "desc": "A riverside path follows the Danube past remaining stretches of the city wall, including the 14th-century leaning Metzgerturm. It links the Fischerviertel with the Neu-Ulm side.",
+   "tip": "Cross to the Neu-Ulm bank for the skyline view. Free all day.",
+   "q": "Metzgerturm, Donauufer, Ulm",
+   "ll": [
+    48.39604,
+    9.99337
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ulm"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ulglacis",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Stroll through Glacis Park in Neu-Ulm",
+   "desc": "The Glacis Park was laid out in 1980 for the State Horticultural Show on the former federal fortress grounds. It combines old fortress walls, a water tower, playgrounds and a stage.",
+   "tip": "Combine with a beer in the Barfüßer garden. Free entry.",
+   "q": "Glacispark, Neu-Ulm",
+   "ll": [
+    48.39145,
+    10.00634
+   ],
+   "src": [
+    "https://gruppen.ulm.de/en/discover/offers-for-groups/museums-groups/glacispark"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ulwilhelmsburg",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Join a free tour of the Wilhelmsburg fortress",
+   "desc": "The Wilhelmsburg was built 1842-1849 as the core of the Wilhelmsfeste, about 200 by 130 metres with some 570 rooms. The Förderkreis Bundesfestung Ulm offers free guided tours on the third Sunday of each month at 11:00.",
+   "tip": "No registration is needed; the tour runs on the third Sunday only.",
+   "q": "Wilhelmsburg, Oberer Eselsberg, Ulm",
+   "ll": [
+    48.41176,
+    9.9816
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Bundesfestung_Ulm"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ulblautopf",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stare into the blue of the Blautopf",
+   "desc": "The Blautopf in Blaubeuren is Germany's second-largest spring, about 21 metres deep, and shines blue from fine limestone particles. Eduard Mörike set the legend of the Schöne Lau here.",
+   "tip": "Colour is strongest on sunny days. The Hammerschmiede and the Klosterhof are a short walk away.",
+   "q": "Blautopf, Blautopfstraße, Blaubeuren",
+   "ll": [
+    48.41583,
+    9.78389
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Blautopf"
+   ]
+  },
+  {
+   "id": "ulblaubeurenkloster",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the high altar of Blaubeuren Abbey",
+   "desc": "Blaubeuren Abbey was founded in 1085 and is now a Protestant seminary. The Gothic church has a high altar by Michel Erhart and choir stalls by Jörg Syrlin the Younger.",
+   "tip": "Check opening hours; they are shorter in winter.",
+   "q": "Kloster Blaubeuren, Klosterhof 2, Blaubeuren",
+   "ll": [
+    48.41528,
+    9.78444
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Blaubeuren_Abbey"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ulhohlefels",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Hohle Fels Venus cave",
+   "desc": "In Hohle Fels near Schelklingen the earliest known Venus figurine, about 35,000-40,000 years old, was found in 2008. The cave belongs to the Swabian Jura UNESCO World Heritage Site.",
+   "tip": "Guided visits run through the Alb-Donau-Kreis tourism offices; book in advance.",
+   "q": "Hohle Fels, Schelklingen",
+   "ll": [
+    48.37917,
+    9.75556
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Hohle_Fels"
+   ]
+  },
+  {
+   "id": "ulhohlensteinstadel",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb to the Lion-man cave in the Lone valley",
+   "desc": "The Hohlenstein-Stadel cave in the Lone valley yielded the 35,000-41,000-year-old Löwenmensch in 1939. The cave is part of the UNESCO World Heritage Ice Age sites.",
+   "tip": "The cave is reportedly freely reachable but the climb needs good footwear.",
+   "q": "Hohlenstein-Stadel, Lonetal, Asselfingen",
+   "ll": [
+    48.5493,
+    10.17305
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Museum_Ulm",
+    "https://uni-tuebingen.de/en/newsfullview-landingpage/article/swabian-ice-age-caves-declared-world-heritage-sites/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ultiefenhoehle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Descend into the Laichinger Tiefenhöhle",
+   "desc": "The Laichinger Tiefenhöhle is the only shaft cave in Germany developed as a show cave. It was found in 1892, opened in 1935 and reaches about 55 metres below ground.",
+   "tip": "The season runs from Palm Sunday into autumn; check tiefenhoehle.de for hours.",
+   "q": "Laichinger Tiefenhöhle, Laichingen",
+   "ll": [
+    48.47861,
+    9.69325
+   ],
+   "src": [
+    "https://www.showcaves.com/english/de/showcaves/Laichinger.html",
+    "https://www.geopark-alb.de/en/experience-geopark/explore-caves/detail/tiefenhoehle"
+   ]
+  },
+  {
+   "id": "ullichtenstein",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk into Lichtenstein Castle",
+   "desc": "Schloss Lichtenstein was built 1840-1842 in Gothic Revival style by Carl Alexander Heideloff, inspired by Wilhelm Hauff's 1826 novel. It stands at 817 m on a cliff above Honau and is still owned by the Dukes of Urach.",
+   "tip": "Go on a weekday morning to avoid crowds.",
+   "q": "Schloss Lichtenstein, Honau, Lichtenstein",
+   "ll": [
+    48.40667,
+    9.25806
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Lichtenstein_Castle_(W%C3%BCrttemberg)"
+   ]
+  },
+  {
+   "id": "ulbaerenhoehle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the Karls- and Bärenhöhle",
+   "desc": "The Bärenhöhle near Erpfingen in Sonnenbühl is a show cave with stalactites and cave bear finds. Guided tours run in season.",
+   "tip": "Open April to October; adults paid around 7 euros in 2026 reports. Check hoehlen.sonnenbuehl.de.",
+   "q": "Bärenhöhle, Erpfingen, Sonnenbühl",
+   "ll": [
+    48.37087,
+    9.2152
+   ],
+   "src": [
+    "https://www.geopark-alb.de/en/experience-geopark/info-centres/detail/karls-baerenhoehle-und-nebelhoehle",
+    "https://www.badurach-tourismus.de/en/poi/detail/baerenhoehle-363492a391"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ulnebelhoehle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk through the Nebelhöhle by yourself",
+   "desc": "The Nebelhöhle near Genkingen in Sonnenbühl can be visited without a guide. The descent has more than 140 steps and leads into large halls.",
+   "tip": "Not suitable for wheelchairs or pushchairs. Combine with the Bärenhöhle.",
+   "q": "Nebelhöhle, Genkingen, Sonnenbühl",
+   "ll": [
+    48.41719,
+    9.22094
+   ],
+   "src": [
+    "https://www.geopark-alb.de/en/experience-geopark/info-centres/detail/karls-baerenhoehle-und-nebelhoehle",
+    "https://www.alpen-guide.de/reisefuehrer/poi/nebelhoehle-sonnenbuehl"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ulzwiefalten",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Admire the Baroque minster of Zwiefalten",
+   "desc": "Zwiefalten Abbey was founded in 1089; its Baroque church was built from 1739 under Johann Michael Fischer with frescoes by Franz Joseph Spiegler. The abbey was dissolved in 1802.",
+   "tip": "Free to enter. Stand in the nave and look up at the ceiling.",
+   "q": "Zwiefalter Münster, Münsterplatz, Zwiefalten",
+   "ll": [
+    48.23194,
+    9.46139
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Zwiefalten_Abbey"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ulmarienkirche",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Gothic Marienkirche in Reutlingen",
+   "desc": "The Marienkirche in Reutlingen is a 13th-14th century Gothic church and the city's landmark. A statue of Emperor Frederick II stands nearby.",
+   "tip": "Free to enter. The Marktplatz is a short walk away.",
+   "q": "Marienkirche, Planie, Reutlingen",
+   "ll": [
+    48.49115,
+    9.21348
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Reutlingen"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ulresidenzurach",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the Residenzschloss in Bad Urach",
+   "desc": "The Residenzschloss was the home of the Counts of Württemberg-Urach, and Eberhard the Bearded was born there. Rooms include Gothic, Renaissance and Baroque halls such as the Golden Hall.",
+   "tip": "Check guided-tour times with the tourist office.",
+   "q": "Residenzschloss Urach, Schloßplatz, Bad Urach",
+   "ll": [
+    48.49227,
+    9.39697
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Bad_Urach"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ulkesselhaus",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order Maultaschen at Kesselhaus in Bad Urach",
+   "desc": "The Restaurant Kesselhaus on Pfälerstraße offers Maultaschen or Käsespätzle, Zwiebelrostbraten, fish and vegetarian dishes.",
+   "tip": "Ask for the seasonal specials.",
+   "q": "Restaurant Kesselhaus, Pfälerstraße 7, Bad Urach",
+   "ll": [
+    48.4933,
+    9.3995
+   ],
+   "src": [
+    "https://www.badurach-tourismus.de/en/poi/detail/restaurant-kesselhaus-f26d6079a9"
+   ]
+  },
+  {
+   "id": "ullaurentia",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat on the market square at Wirtshaus Laurentia",
+   "desc": "Wirtshaus Laurentia stands at Marktplatz 7 in Bad Urach beside the half-timbered town hall. Its kitchen is open throughout the day.",
+   "tip": "Look for regional Alb dishes such as Alblinsen with Spätzle.",
+   "q": "Wirtshaus Laurentia, Marktplatz 7, Bad Urach",
+   "ll": [
+    48.4935,
+    9.3985
+   ],
+   "src": [
+    "https://www.badurach-tourismus.de/en/poi/detail/wirtshaus-laurentia-462b7a4762"
+   ]
+  },
+  {
+   "id": "ulachalmrest",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order house Maultaschen on the Achalm",
+   "desc": "Hotel & Restaurant Achalm sits on the Achalm hill above Reutlingen and lists homemade Maultaschen with gravy and melted onions.",
+   "tip": "Combine with a walk to the castle ruin.",
+   "q": "Hotel Restaurant Achalm, Achalm, Reutlingen",
+   "ll": [
+    48.48121,
+    9.2532
+   ],
+   "src": [
+    "https://www.speisekarte.de/reutlingen/restaurant/achalm/speisekarte",
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/reutlingen/achalm-restaurant/"
+   ]
+  },
+  {
+   "id": "ulochsenehingen",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink draught beer at Gasthof zum Ochsen in Ehingen",
+   "desc": "Gasthof zum Ochsen in Ehingen serves traditional Swabian dishes and draught beer, with a beer garden for about 80 guests.",
+   "tip": "Opens Monday to Saturday from 14:00; kitchen from 17:30.",
+   "q": "Gasthof zum Ochsen, Schulgasse 3, Ehingen (Donau)",
+   "ll": [
+    48.2835,
+    9.726
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/ehingen-an-der-donau/gasthof-zum-ochsen/"
+   ]
+  },
+  {
+   "id": "ulroseehingen",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try goose at the Rose in Ehingen-Berg",
+   "desc": "The Rose in Ehingen-Berg is praised in the regional press for solid Swabian cooking and goose dishes.",
+   "tip": "Goose is seasonal; ask ahead.",
+   "q": "Gasthaus Rose, Ehingen-Berg",
+   "ll": [
+    48.26313,
+    9.73322
+   ],
+   "src": [
+    "https://www.schwaebische.de/regional/ulm-alb-donau/ehingen/gans-gutes-gefluegel-in-der-rose-228340",
+    "https://www.schwaebische.de/regional/ulm-alb-donau/ehingen/die-rose-steht-fuer-solides-kuechenhandwerk-382209"
+   ]
+  },
+  {
+   "id": "ulhammerschmiede",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch forging at the Blautopf Hammerschmiede",
+   "desc": "The historic Hammerschmiede on the Blautopf is driven by the spring water and gives forging demonstrations on some weekends.",
+   "tip": "Check times at blautopf.de.",
+   "q": "Hammerschmiede, Blautopfstraße 9, Blaubeuren",
+   "ll": [
+    48.4155,
+    9.7845
+   ],
+   "src": [
+    "https://blautopf.de/fileadmin/dokumente/Blaubeuren_umwandern_2018.pdf"
+   ]
+  },
+  {
+   "id": "ulurachfall",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike to the Uracher Wasserfall",
+   "desc": "The Uracher Wasserfall lies on the hiking trail from Bad Urach towards the Hohenurach castle ruins. The town is also known for a 61 degree thermal spring.",
+   "tip": "Go after rain for more water and wear shoes with grip.",
+   "q": "Uracher Wasserfall, Bad Urach",
+   "ll": [
+    48.48222,
+    9.36798
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Bad_Urach"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ulachalmhike",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike up the Achalm to the castle ruin",
+   "desc": "The Achalm rises to 707 m above Reutlingen and holds the ruin of the castle of the counts of Achalm, a 13th-century noble family.",
+   "tip": "Paths start at the edge of town. Combine with a Maultaschen stop at the Achalm restaurant.",
+   "q": "Burgruine Achalm, Reutlingen",
+   "ll": [
+    48.4829,
+    9.2467
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Achalm"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ulmarbach",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Visit the Marbach State Stud Farm",
+   "desc": "The Haupt- und Landgestüt Marbach was founded in 1573 and is Germany's oldest state stud farm, breeding Arabian horses and Warmbloods on the Swabian Alb.",
+   "tip": "Check opening days and events on gestuet-marbach.de.",
+   "q": "Haupt- und Landgestüt Marbach, Gomadingen",
+   "ll": [
+    48.38464,
+    9.41846
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Haupt-_und_Landgest%C3%BCt_Marbach"
+   ]
+  },
+  {
+   "id": "ulspreuerhof",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Squeeze through Spreuerhofstraße in Reutlingen",
+   "desc": "Spreuerhofstraße in Reutlingen is described as the narrowest street in the world at about 31 cm wide.",
+   "tip": "Short and free; walk it sideways.",
+   "q": "Spreuerhofstraße, Reutlingen",
+   "ll": [
+    48.49069,
+    9.21569
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Reutlingen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "uloutletcity",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Shop the Outletcity Metzingen",
+   "desc": "Metzingen's former textile quarter is now the Outletcity, with more than 80 outlet stores. Hugo Boss was founded in Metzingen and still has its headquarters there.",
+   "tip": "Weekdays are quieter than weekends.",
+   "q": "Outletcity Metzingen, Metzingen",
+   "ll": [
+    48.53681,
+    9.27941
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Metzingen"
+   ]
+  },
+  {
+   "id": "ulkeltern",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "See the historic Keltern of Metzingen",
+   "desc": "Metzingen preserves 11 wine-pressing houses and two ancient wooden presses around a central square. The wine museum at the Keltern offers tastings.",
+   "tip": "Check museum opening times on outletcity.com.",
+   "q": "Metzinger Keltern, Kelternplatz, Metzingen",
+   "ll": [
+    48.5389,
+    9.2862
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Metzingen",
+    "https://www.outletcity.com/zh/metzingen/excursions/weinbaumuseum-metzingen"
+   ]
+  },
+  {
+   "id": "ulweinlauben",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Taste wine at the Metzinger Weinlaubenfest",
+   "desc": "The Metzinger Weinlaubenfest takes place in the town centre between the Keltern and the Outletcity, usually in late September, combining local wine, music and a shopping Sunday.",
+   "tip": "Check dates; the 2026 edition was announced for 25 to 27 September.",
+   "q": "Kelternplatz, Metzingen",
+   "ll": [
+    48.539,
+    9.286
+   ],
+   "src": [
+    "https://www.regioactive.de/fest/4-metzinger-weinlaubenfest-auf-dem-kelternplatz-metzingen-2026-09-25-8X0sFcBCPJ"
+   ],
+   "months": [
+    9
+   ]
+  },
+  {
+   "id": "ulhohenurach",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk to the Hohenurach castle ruin",
+   "desc": "The ruin of Schloss Hohenurach above Bad Urach is reached on a hiking trail that also passes the waterfall.",
+   "tip": "Allow two to three hours.",
+   "q": "Ruine Hohenurach, Bad Urach",
+   "ll": [
+    48.49354,
+    9.37841
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Bad_Urach"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

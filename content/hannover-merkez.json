@@ -1,0 +1,803 @@
+{
+ "new": [
+  {
+   "id": "haherrenhausen",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stroll the Great Garden of Herrenhausen",
+   "desc": "Laid out from 1683 for Electress Sophia by gardener Martin Charbonnier, the 50-hectare Baroque garden is among Europe's finest. Its Great Fountain, inaugurated in 1719, can shoot water up to about 80 metres in good conditions.",
+   "tip": "The garden is ticketed in the main season; fountain shows run on set days in summer, so check the schedule. Take tram line 4 or 5 to Herrenhäuser Gärten.",
+   "q": "Herrenhäuser Gärten, Herrenhäuser Straße 4, Hannover",
+   "ll": [
+    52.39109,
+    9.69588
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Herrenhausen_Gardens"
+   ]
+  },
+  {
+   "id": "hagrotto",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step into Niki de Saint Phalle's mirrored Grotto",
+   "desc": "In the north-west of the Great Garden, the artist and her team covered a three-room grotto in glass and mirror mosaics between 2001 and 2003. It is one of her last major works and a colourful contrast to the formal Baroque garden.",
+   "tip": "Included in the Great Garden ticket; allow 20 minutes. It is small, so go outside peak weekend hours.",
+   "q": "Grotte, Herrenhäuser Gärten, Herrenhäuser Straße 4, Hannover",
+   "ll": [
+    52.39079,
+    9.69681
+   ],
+   "src": [
+    "https://atlasobscura.com/places/grotte-von-niki-de-saint-phalle",
+    "https://www.visit-hannover.com/en/Sightseeing-City-Tours/Tourist-Highlights/Royal-Gardens-of-Herrenhausen/The-Grotto-by-Niki-de-Saint-Phalle"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "haberggarten",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Wander the Berggarten and its Rainforest House",
+   "desc": "Founded in 1666 as a kitchen garden, the Berggarten gained a conservatory in 1686 and the Rainforest House in 2000. It is a botanical garden within the Herrenhausen estate.",
+   "tip": "Enter via Herrenhäuser Straße; the glasshouses are a good plan B in bad weather.",
+   "q": "Berggarten, Herrenhäuser Straße 4, Hannover",
+   "ll": [
+    52.39405,
+    9.69957
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Herrenhausen_Gardens"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "haneuesrathaus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Ride the curved dome lift of the Neues Rathaus",
+   "desc": "The New Town Hall, built 1901 to 1913, has a dome lift whose arched track follows the dome's parabolic curve, climbing 50 metres at up to 17 degrees. Four scale models of Hanover on the ground floor show the city's growth.",
+   "tip": "Buy the lift ticket inside; the viewing platform looks over the Maschpark and the city. Check seasonal opening hours.",
+   "q": "Neues Rathaus, Trammplatz 2, Hannover",
+   "ll": [
+    52.36722,
+    9.73722
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Hanover_City_Hall"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hamarktkirche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the Marktkirche tower in the Altstadt",
+   "desc": "The brick Gothic Marktkirche was built between 1347 and 1366 and restored after the 1943 air raid. Its west tower is one of the tallest in Lower Saxony and holds 11 bells.",
+   "tip": "Pair it with the Christmas market on the square in winter. Entry to the church is free.",
+   "q": "Marktkirche, Hanns-Lilje-Platz 2, Hannover",
+   "ll": [
+    52.37167,
+    9.73528
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Marktkirche,_Hanover"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "haaltesrathaus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Old Town Hall's Brick Gothic gables",
+   "desc": "Parts of the Altes Rathaus date from 1410, making it a showcase of northern German Brick Gothic. The Karmarschstraße wing is neo-Gothic work by Conrad Wilhelm Hase.",
+   "tip": "Best photographed from the Marktkirche square; the Altstadt around it is compact enough for a 30-minute loop.",
+   "q": "Altes Rathaus, Köbelinger Straße 3, Hannover",
+   "ll": [
+    52.37139,
+    9.73583
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Altes_Rathaus_(Hannover)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "haleineschloss",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Look at Laves' Leineschloss, home of the state parliament",
+   "desc": "Georg Ludwig Friedrich Laves rebuilt this former royal residence in classicist style between 1816 and 1842. It was gutted in 1943, rebuilt 1957 to 1962, and now houses the Lower Saxony state parliament.",
+   "tip": "Visible from outside at any time; parliament visits need booking via the Landtag.",
+   "q": "Leineschloss, Hannah-Arendt-Platz 1, Hannover",
+   "ll": [
+    52.37056,
+    9.73361
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Leineschloss"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "haaegidien",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Pause at the Aegidienkirche war-memorial ruin",
+   "desc": "Bombs destroyed the 14th-century church in 1943 and it was never rebuilt. The ruin is now a memorial; a Peace Bell given by Hiroshima in 1985 is rung each 6 August.",
+   "tip": "The ruin is open-air and free. Combine it with the Red Thread route.",
+   "q": "Aegidienkirche, Aegidientorplatz, Hannover",
+   "ll": [
+    52.36944,
+    9.73917
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Aegidienkirche_(Hannover)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hasprengel",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Sprengel Museum for Schwitters and Klee",
+   "desc": "Opened in 1979 around Bernhard Sprengel's donation, it holds one of Germany's major modern art collections: Klee, Picasso, Max Ernst, Niki de Saint Phalle and the Merz Room of Kurt Schwitters.",
+   "tip": "Check opening days before visiting. It sits by the Maschsee, so add a lake walk.",
+   "q": "Sprengel Museum, Kurt-Schwitters-Platz, Hannover",
+   "ll": [
+    52.36278,
+    9.74028
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Sprengel_Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "halandesmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Meet Caspar David Friedrich at the Landesmuseum",
+   "desc": "The Lower Saxony State Museum combines an art gallery (Rembrandt, Rubens, Dürer and Friedrich's four-part Times of Day), natural history, archaeology and ethnology. A life-size iguanodon model and a vivarium suit families.",
+   "tip": "Plan half a day; it is a short walk from the Maschpark.",
+   "q": "Landesmuseum Hannover, Willy-Brandt-Allee 5, Hannover",
+   "ll": [
+    52.36556,
+    9.74
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Lower_Saxony_State_Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hakestner",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore Egyptian antiquities at the Museum August Kestner",
+   "desc": "Opened in 1889, the museum grew from gifts by August Kestner and Friedrich Culemann. Its four collections cover ancient Egypt, classical antiquities, applied arts and design, and about 100,000 coins and medals.",
+   "tip": "Check opening days before visiting. It is a quick walk from the Altstadt.",
+   "q": "Museum August Kestner, Trammplatz 3, Hannover",
+   "ll": [
+    52.36806,
+    9.73639
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kestner-Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hahistorischesmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Follow Hanover's history at the Historisches Museum",
+   "desc": "On the Leine bank at Am Hohen Ufer, the museum shows the history of Hanover and the former Welf territories, from principality to kingdom, with rural life displays, a photo archive and four state carriages.",
+   "tip": "Combine with a stroll along the Leine and the Altstadt; check opening days.",
+   "q": "Historisches Museum Hannover, Pferdestraße 6, Hannover",
+   "ll": [
+    52.37194,
+    9.73139
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Historisches_Museum_Hannover"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hananas",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Meet the Nanas on the Leibnizufer",
+   "desc": "In 1974 three Niki de Saint Phalle figures, Sophie, Caroline and Charlotte, were installed on the Leine bank. Made of painted polyester, they stand 3.75 to 5 metres tall, caused fierce protest at first and now anchor the Skulpturenmeile.",
+   "tip": "Free and always accessible; a good photo stop between the Altstadt and the Maschpark.",
+   "q": "Nanas, Leibnizufer, Hannover",
+   "ll": [
+    52.36541,
+    9.74378
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Nanas_(Hannover)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "haopernhaus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire Laves' Opernhaus on Opernplatz",
+   "desc": "Opened on 5 September 1852 with Mozart's Le nozze di Figaro, the opera house was designed by Georg Ludwig Friedrich Laves and rebuilt in historic style after the war, reopening in 1950.",
+   "tip": "Check the Staatsoper Hannover programme; the colonnaded facade is worth seeing even without a ticket.",
+   "q": "Staatsoper Hannover, Opernplatz 1, Hannover",
+   "ll": [
+    52.37333,
+    9.74083
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Staatsoper_Hannover"
+   ]
+  },
+  {
+   "id": "hawilhelmbusch",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Meet Max and Moritz at the Wilhelm Busch Museum",
+   "desc": "The former Wallmoden palace, the Georgenpalais, houses the German museum of caricature and drawing. The Georgengarten around it was remodelled as an English landscape park between 1828 and 1843 and holds the Leibniz Temple.",
+   "tip": "Combine with a walk through the Georgengarten. Check opening hours.",
+   "q": "Wilhelm-Busch-Museum, Georgengarten 1, Hannover",
+   "ll": [
+    52.38425,
+    9.70778
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Wilhelm-Busch-Museum",
+    "https://de.wikipedia.org/wiki/Georgengarten_(Hannover)"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "haengesohde",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk the graves of Stadtfriedhof Engesohde",
+   "desc": "Laid out between 1861 and 1864 in the Südstadt, this park-like cemetery is the resting place of Kurt Schwitters, dancer Yvonne Georgi and colour-TV pioneer Walter Bruch.",
+   "tip": "Free and open in daylight; bring comfortable shoes for the winding paths.",
+   "q": "Stadtfriedhof Engesohde, Am Mittelfelde 4, Hannover",
+   "ll": [
+    52.34917,
+    9.75472
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Stadtfriedhof_Engesohde"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hamarkthalle",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Graze the Markthalle Hannover",
+   "desc": "The market hall opened in 1955 and has 73 stalls selling German and international deli goods, cheese, sausage and ready meals. A statue of 'Oma Duhnsen', who ran a sausage stand for over 50 years, stands at the entrance.",
+   "tip": "Go at lunchtime and try a Bratwurst or a regional deli item; closed Sundays.",
+   "q": "Markthalle Hannover, Karmarschstraße 49, Hannover",
+   "ll": [
+    52.37046,
+    9.73641
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Markthalle_Hannover"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "habrauhaus",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink a Lüttje Lage at Brauhaus Ernst August",
+   "desc": "Beer has been brewed at this brewpub since 1986 and is served fresh at the attached pub. Hanover's drinking tradition, the Lüttje Lage, pairs a glass of beer with a shot of Korn, held together in one hand.",
+   "tip": "Order the Hanöversch Pilsener and a Lüttje Lage; it is a short walk from the station.",
+   "q": "Brauhaus Ernst August, Schmiedestraße 13, Hannover",
+   "ll": [
+    52.37312,
+    9.73459
+   ],
+   "src": [
+    "https://www.hannover.de/Kultur-Freizeit/Geschichte-Geschichten/Echt-hannöversch/Zehn-Dinge/Typisch-hannöversche-Spezialitäten,-die-man-mal-probiert-haben-muss/Bier-aus-Hannover",
+    "https://www.fodors.com/world/europe/germany/the-fairy-tale-road/restaurants/reviews/brauhaus-ernst-august-455542"
+   ]
+  },
+  {
+   "id": "haschateke",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try a Lüttje Lage at Schateke in the Altstadt",
+   "desc": "Schateke is a rustic bar on Kramerstraße near the Marktkirche, listed as serving the local Lüttje Lage and metre-long beer measures among half-timbered Altstadt streets.",
+   "tip": "Order a Lüttje Lage with friends; check current opening hours.",
+   "q": "Schateke, Kramerstraße 11, Hannover",
+   "ll": [
+    52.37168,
+    9.73289
+   ],
+   "src": [
+    "https://hannover-living.de/en/location/schateke/"
+   ]
+  },
+  {
+   "id": "hateestuebchen",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order cake and tea at the Teestübchen on Ballhofplatz",
+   "desc": "A long-running café on historic Ballhofplatz, known for its large tea selection and homemade tortes and cakes. The interior is a listed building and it is popular in the evenings.",
+   "tip": "Come for coffee and cake in the afternoon; avoid peak Saturday hours.",
+   "q": "Teestübchen, Ballhofplatz 2, Hannover",
+   "ll": [
+    52.3726,
+    9.73239
+   ],
+   "src": [
+    "https://hannover-living.de/en/location/teestuebchen",
+    "https://prinz.de/hannover/locations/50787-teestuebchen/"
+   ]
+  },
+  {
+   "id": "hapier51",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine on the Maschsee terrace of Pier 51",
+   "desc": "This glass-walled restaurant stands by the Maschsee boat landing on the east shore and serves oysters, steaks and vegetarian dishes, with a large terrace over the water.",
+   "tip": "Book ahead on sunny days; you can arrive by Maschsee boat.",
+   "q": "Pier 51, Rudolf-von-Bennigsen-Ufer 51, Hannover",
+   "ll": [
+    52.35407,
+    9.7457
+   ],
+   "src": [
+    "https://hannover-living.de/en/location/pier-51/",
+    "https://www.visit-hannover.com/en/Event-Highlights,-Kultur-Freizeit/Restaurants,-Bars-und-Nightlife-in-Hannover/Nightlife/Bars/Pier-51"
+   ]
+  },
+  {
+   "id": "hagretchen",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sip a beer at Biergarten Gretchen in Linden",
+   "desc": "On the grounds of the Faust cultural centre in Linden-Nord, this beer garden serves drinks, burgers and pizza outdoors from March to November in good weather.",
+   "tip": "Opens at 14:00 (Sundays from 11:00); best on dry summer evenings.",
+   "q": "Biergarten Gretchen, Zur Bettfedernfabrik 3, Hannover",
+   "ll": [
+    52.37695,
+    9.7114
+   ],
+   "src": [
+    "https://hannover-living.de/en/location/biergarten-gretchen"
+   ],
+   "months": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "id": "halindenerturm",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat in the garden of Biergarten Lindener Turm",
+   "desc": "A garden under chestnut and fruit trees at the Lindener Berg, with German wines, beer, tarte flambée and currywurst; on a clear day the view reaches the Deister hills.",
+   "tip": "Use the tower restaurant if it rains; there is a sandpit for children.",
+   "q": "Biergarten Lindener Turm, Am Lindener Berge 29, Hannover",
+   "ll": [
+    52.36227,
+    9.70526
+   ],
+   "src": [
+    "https://hannover-living.de/en/location/biergarten-lindener-turm"
+   ]
+  },
+  {
+   "id": "hacafekroepcke",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Meet under the clock, then coffee at Café Kröpcke",
+   "desc": "Kröpcke is Hanover's central meeting point; locals call the café 'das Kröpcke' and the clock 'die Kröpcke'. The café at Georgstraße 35 is run today by the Mövenpick group.",
+   "tip": "Great for people-watching in the pedestrian zone.",
+   "q": "Café Kröpcke, Georgstraße 35, Hannover",
+   "ll": [
+    52.3744,
+    9.7386
+   ],
+   "src": [
+    "https://www.hannover.de/Kultur-Freizeit/Geschichte-Geschichten/Echt-hannöversch/Zehn-Dinge/Zehn-Dinge,-die-Neu-Hannoveraner-und-alle,/Wo-man-sich-in-Hannover-verabredet"
+   ]
+  },
+  {
+   "id": "hazoo",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Float through Zambezi and Yukon Bay at the Erlebnis-Zoo",
+   "desc": "Hanover Zoo opened in 1865 and is built around themed worlds: Zambezi has boat trips past giraffes and rhinos, and Yukon Bay offers an underwater view of polar bears and seals from a sunken ship.",
+   "tip": "Allow a full day; buy tickets online to skip queues.",
+   "q": "Erlebnis-Zoo Hannover, Adenauerallee 3, Hannover",
+   "ll": [
+    52.38054,
+    9.77106
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Hanover_Zoo"
+   ]
+  },
+  {
+   "id": "haeilenriede",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk or cycle through the Eilenriede city forest",
+   "desc": "One of Germany's biggest urban forests, the 640-hectare Eilenriede is documented since 1371 and has about 80 km of walking trails, plus cycle and riding paths, forest cafés and minigolf.",
+   "tip": "Free; cycle from the Zoo to the Maschsee along the forest paths.",
+   "q": "Eilenriede, Hannover",
+   "ll": [
+    52.36521,
+    9.79376
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Eilenriede"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hamaschseewalk",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the shore of the Maschsee",
+   "desc": "The artificial lake was built from 1934 and opened on 21 May 1936; it is about 2.4 km long and lined with promenades and rowing and sailing clubs.",
+   "tip": "Free; allow a couple of hours for a lap with a café stop.",
+   "q": "Maschsee, Hannover",
+   "ll": [
+    52.35306,
+    9.74472
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Maschsee"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hamaschseeboat",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Take a üstra boat trip across the Maschsee",
+   "desc": "In summer the üstra transport company runs electric passenger boats on the Maschsee, with landings including the east shore.",
+   "tip": "Buy a ticket onboard; check the summer timetable.",
+   "q": "Pier 51, Rudolf-von-Bennigsen-Ufer 51, Hannover",
+   "ll": [
+    52.35207,
+    9.74798
+   ],
+   "src": [
+    "https://inyourpocket.com/germany/hannover/venues/pier-51",
+    "https://www.hannover.de/Kultur-Freizeit/Freizeit-Sport/Feste-Saisonales/Fr%C3%BChling-in-der-Region-Hannover/Meldungen/Maschseeflotte-sticht-wieder-in-See"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "hamaschseefest",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Party at the Maschseefest",
+   "desc": "Since 1986 this free open-air festival has filled the lake shore for weeks each summer with food stalls, stages and rides; the 2026 edition ran 22 July to 9 August.",
+   "tip": "Free entry; stay for the sunset and the closing-weekend duck race.",
+   "q": "Maschseefest, Nordufer, Maschsee, Hannover",
+   "ll": [
+    52.3625,
+    9.73667
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Maschseefest",
+    "https://www.hannover.de/Kultur-Freizeit/Freizeit-Sport/Feste-Saisonales/Maschseefest-Hannover-2026"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    7,
+    8
+   ]
+  },
+  {
+   "id": "haschuetzenfest",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Join the Schützenfest, the world's largest",
+   "desc": "Hanover's Schützenfest dates back to 1529 and fills the ten-hectare Schützenplatz for ten days with rides and tents; a huge parade crosses the centre on the opening Sunday. About 900,000 visitors came in 2026.",
+   "tip": "Held around early July; the parade starts near the Neues Rathaus.",
+   "q": "Schützenplatz, Hannover",
+   "ll": [
+    52.36278,
+    9.72861
+   ],
+   "src": [
+    "https://www.hannover.de/Kultur-Freizeit/Freizeit-Sport/Feste-Saisonales/Sch%C3%BCtzenfest-Hannover/Geschichte-und-Traditionen",
+    "https://de.wikipedia.org/wiki/Schützenfest_Hannover"
+   ],
+   "months": [
+    6,
+    7
+   ]
+  },
+  {
+   "id": "haweihnachtsmarkt",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Sip Glühwein at the Altstadt Christmas market",
+   "desc": "The Altstadt Christmas market around the Marktkirche and Ballhofplatz runs daily 11:00 to 21:00; 2026 dates are 23 November to 22 December.",
+   "tip": "Go on weekday evenings to avoid crowds.",
+   "q": "Weihnachtsmarkt an der Marktkirche, Am Markte, Hannover",
+   "ll": [
+    52.37167,
+    9.735
+   ],
+   "src": [
+    "https://www.hannover.de/weihnachtsmarkt",
+    "https://de.wikipedia.org/wiki/Marktkirche_(Hannover)"
+   ],
+   "months": [
+    11,
+    12
+   ]
+  },
+  {
+   "id": "harotefaden",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Follow the Red Thread through central Hanover",
+   "desc": "A 4.2 km painted line starts at the Tourist Information opposite the main station and passes 36 sights, including the Marktkirche, Altes Rathaus and Leineschloss.",
+   "tip": "Pick up the guide at the tourist office; allow 2 to 3 hours with stops.",
+   "q": "Tourist-Information Hannover, Ernst-August-Platz 8, Hannover",
+   "ll": [
+    52.37533,
+    9.7413
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Roter_Faden_(Hannover)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "halinden",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Hang out on Limmerstraße in Linden",
+   "desc": "Limmerstraße is Linden-Nord's lively street of cafés, kiosks and bars, and 'limmern' is the local summer ritual of drinking and chatting outdoors.",
+   "tip": "Evenings are liveliest; noise can be high.",
+   "q": "Limmerstraße, Linden-Nord, Hannover",
+   "ll": [
+    52.37314,
+    9.70837
+   ],
+   "src": [
+    "https://www.hannover.de/Kultur-Freizeit/Geschichte-Geschichten/Echt-hannöversch/Zehn-Dinge/Zehn-Dinge,-die-man-im-Sommer-in-Hannover-erleben-sollte/„Limmern“-in-Linden",
+    "https://www.visit-hannover.com/en/Event-Highlights,-Kultur-Freizeit/Hannover-nachhaltig-unterwegs/Unverwechselbar-Hannovers-Stadtteile/Linden"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hahannover96",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Watch Hannover 96 at the Heinz-von-Heiden-Arena",
+   "desc": "The stadium opened in 1954 as the Niedersachsenstadion and reopened in its current form in 2005; it seats about 49,000 and is home to Hannover 96.",
+   "tip": "Check fixtures and book tickets in advance.",
+   "q": "Heinz-von-Heiden-Arena, Robert-Enke-Straße 1, Hannover",
+   "ll": [
+    52.36003,
+    9.73122
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Heinz-von-Heiden-Arena"
+   ]
+  },
+  {
+   "id": "hawilhelmstein",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Take the boat to the island fortress Wilhelmstein",
+   "desc": "Count Wilhelm of Schaumburg-Lippe built this artificial star-shaped fortress island from 1761 to 1765. It served as a military school and prison; visitors see cells, cannons and a viewing tower.",
+   "tip": "Boats leave from Steinhude or Mardorf; the museum is open 20 March to 31 October, 10:00 to 17:00, adult entry about 4 euros.",
+   "q": "Insel Wilhelmstein, Steinhuder Meer, Wunstorf",
+   "ll": [
+    52.45403,
+    9.34949
+   ],
+   "src": [
+    "https://www.steinhuder-meer.com/translate-to-englisch-poi/wilhelmstein-island",
+    "https://en.wikipedia.org/wiki/Steinhuder_Meer"
+   ],
+   "months": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "haschweers",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat smoked eel at Schweer's Aalräucherei in Steinhude",
+   "desc": "A family smokehouse since 1801 serving smoked fish, fish sandwiches and maritime dishes, with a lakeside terrace.",
+   "tip": "Self-service; try the Steinhuder Rauchaal (smoked eel) with bread.",
+   "q": "Schweer's Aalräucherei, Alter Winkel 6, Steinhude, Wunstorf",
+   "ll": [
+    52.45428,
+    9.3511
+   ],
+   "src": [
+    "https://web.destination.one/en/gastro/schweers-aalraeucherei"
+   ]
+  },
+  {
+   "id": "hahodann",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Buy smoked eel at Fischerei Hodann",
+   "desc": "A Steinhude smokehouse selling freshwater fish including smoked eel, trout, zander and pike, with a fish bistro at Alter Winkel 24.",
+   "tip": "Smokehouse open Tuesday to Sunday; bistro daily; cash or EC card only.",
+   "q": "Fischerei und Aalräucherei Hodann, Alter Winkel 1, Steinhude, Wunstorf",
+   "ll": [
+    52.4538,
+    9.3504
+   ],
+   "src": [
+    "https://www.steinhuder-meer.com/translate-to-englisch-gastro/fischerei-und-aalraeucherei-hodann"
+   ]
+  },
+  {
+   "id": "hapaula",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Windmühle Paula above Steinhude",
+   "desc": "The Dutch-style mill, built in 1863 in Broitzem and re-erected here in 1912 after the earlier post mill burned in 1911, is run by a local association.",
+   "tip": "Open the first Sunday of each month, March to October, 14:00 to 18:00.",
+   "q": "Windmühle Paula, An der Windmühle, Steinhude, Wunstorf",
+   "ll": [
+    52.45355,
+    9.36868
+   ],
+   "src": [
+    "https://www.steinhuder-meer.com/translate-to-englisch-poi/paula-windmill"
+   ],
+   "months": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "hawisentgehege",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See bison and wolves at Wisentgehege Springe",
+   "desc": "Founded in 1928 in the Saupark near Springe, this wildlife park covers over 90 hectares and holds about 100 species, including wisents, Przewalski horses, brown bears and wolves.",
+   "tip": "Open daily from 9:00 until dusk; adult tickets about 13 to 14 euros.",
+   "q": "Wisentgehege Springe, Springe",
+   "ll": [
+    52.18096,
+    9.60464
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Wisentgehege_Springe",
+    "https://www.wisentgehege-springe.de"
+   ]
+  },
+  {
+   "id": "hawennigsen",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Kloster Wennigsen at the foot of the Deister",
+   "desc": "Founded around 1200 as an Augustinian convent, Kloster Wennigsen was reformed in 1455 and became a Protestant women's foundation; the Baroque buildings date from 1707 to 1725.",
+   "tip": "Open for courses and retreats; check visitor access first.",
+   "q": "Kloster Wennigsen, Wennigsen (Deister)",
+   "ll": [
+    52.27439,
+    9.57417
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kloster_Wennigsen"
+   ]
+  },
+  {
+   "id": "halandestrost",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Schloss Landestrost in Neustadt am Rübenberge",
+   "desc": "Built between 1573 and 1584 on the site of a castle first mentioned in 1320, Schloss Landestrost stands in Neustadt am Rübenberge.",
+   "tip": "Check opening hours before visiting.",
+   "q": "Schloss Landestrost, Neustadt am Rübenberge",
+   "ll": [
+    52.50256,
+    9.46297
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Landestrost"
+   ]
+  },
+  {
+   "id": "hasteinhudewalk",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Steinhude lake promenade",
+   "desc": "The Steinhuder Meer is Lower Saxony's largest lake, about 29 km² and very shallow. A 32 km circular trail and promenades surround it, with viewing towers and boat landings.",
+   "tip": "Free; start at Meerstraße in Steinhude.",
+   "q": "Meerstraße, Steinhude, Wunstorf",
+   "ll": [
+    52.45213,
+    9.35289
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Steinhuder_Meer",
+    "https://www.steinhuder-meer.com/translate-to-englisch-poi/wilhelmstein-island"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

@@ -26,6 +26,7 @@ window.MOVED = {
 "arnhem/zaltbommel": "denbosch/zaltbommel",
 "basel/hinterewasserfallen": "bern/hinterewasserfallen",
 "bern/jungfraujoch": "valais/jungfraujoch",
+"bielefeld/bimuehlenwirtin": "hannover/bimuehlenwirtin",
 "brugge/kortrijkbegijnhof": "gent/kortrijkbegijnhof",
 "brussel/athgiants": "mons/athgiants",
 "brussel/binche": "mons/binche",

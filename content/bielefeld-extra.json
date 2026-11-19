@@ -1,0 +1,251 @@
+{
+ "new": [
+  {
+   "id": "binamu",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore the natural history museum in the Spiegelshof",
+   "desc": "The namu Naturkunde-Museum Bielefeld sits in the Spiegelshof, one of the few surviving noble courtyards of the old town, which dates from 1540. Its shows have ranged from Madagascar wildlife to poisonous animals.",
+   "tip": "Open Tuesday to Sunday, 10 to 17 (check namu-ev.de for current hours). A good rainy-day stop.",
+   "q": "Naturkunde-Museum namu, Kreuzstraße 20, Bielefeld",
+   "ll": [
+    52.01707,
+    8.52831
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Naturkunde-Museum_Bielefeld",
+    "https://namu-ev.de"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bibartholomaeus",
+   "cat": "gor",
+   "area": "paderborn",
+   "title": "Hear the acoustics of the Bartholomäuskapelle",
+   "desc": "The Bartholomäuskapelle is a palace chapel of the Paderborn Kaiserpfalz, commonly dated to about 1017 under Bishop Meinwerk, and is called the oldest hall church in Germany. The date is an estimate rather than a documented fact. Visitors praise its unusual acoustics.",
+   "tip": "It stands beside the cathedral; check Paderborn tourism for opening times, as it is often closed outside events.",
+   "q": "Bartholomäuskapelle, Domplatz, Paderborn",
+   "ll": [
+    51.71926,
+    8.75567
+   ],
+   "src": [
+    "https://en.teutoburgerwald.de/region/excursion/poi/bartholomaeuskapelle-paderborn",
+    "https://www.lonelyplanet.com/points-of-interest/bartholomaeuskapelle/1596880"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bidalheim",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the monastery museum of Kloster Dalheim",
+   "desc": "Kloster Dalheim in Lichtenau is the LWL-Landesmuseum für Klosterkultur, housed in a former Augustinian canons' monastery. It shows monastic life and culture, with temporary exhibitions.",
+   "tip": "Open Tuesday to Sunday, 10 to 18, closed on most Mondays and 24, 25 and 31 December; confirm on the official site. Allow half a day.",
+   "q": "LWL-Landesmuseum für Klosterkultur, Am Kloster 9, Lichtenau-Dalheim",
+   "ll": [
+    51.56526,
+    8.84153
+   ],
+   "src": [
+    "https://www.stiftung-kloster-dalheim.lwl.org",
+    "https://en.teutoburgerwald.de/region/excursion/poi/stiftung-kloster-dalheim-lwl-landesmuseum-fuer-klosterkultur"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bimaerchenmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Browse the Märchen- und Wesersagenmuseum in Bad Oeynhausen",
+   "desc": "The Deutsches Märchen- und Wesersagenmuseum grew from a private collection of fairy tales and legends that Paetow donated to the town in 1973. It covers the Brothers Grimm, Hans Christian Andersen, Wilhelm Hauff and Weser legends.",
+   "tip": "It stands next to the Kurpark; combine it with a park walk. Check opening hours before visiting.",
+   "q": "Deutsches Märchen- und Wesersagenmuseum, Am Kurpark 3, Bad Oeynhausen",
+   "ll": [
+    52.20371,
+    8.79603
+   ],
+   "src": [
+    "https://owl.museum-digital.de",
+    "https://mycityhunt.co.uk/cities/bad-oeynhausen-de-4609/poi/deutsches-maerchen-und-wesersagenmuseum-18379"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bilemgorathaus",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Find the pharmacy oriel of Lemgo's Rathaus",
+   "desc": "Lemgo, founded around 1190 by Bernhard II zur Lippe, has a town hall that began as an open market hall and became a Gothic hall building around 1350 to 1360. Its Apothekenerker facing the Marktplatz is dated 1612 and is a rare Renaissance monument of early pharmacy.",
+   "tip": "Free to admire from the Marktplatz at any time. Pair it with the Hexenbürgermeisterhaus nearby.",
+   "q": "Rathaus Lemgo, Markt 1, Lemgo",
+   "ll": [
+    52.02793,
+    8.89987
+   ],
+   "src": [
+    "https://ojs.ub.rub.de/index.php/GA2/article/download/10015/9510/8720",
+    "https://www.pharmazeutische-zeitung.de/titel-28-2002/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "biankervilla",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine in the Anker-Villa, Wiedenbrück's oldest house",
+   "desc": "The Anker-Villa at Lange Straße 60 is said to be the oldest house in Rheda-Wiedenbrück, dating from 1468 to 1473, and now houses a restaurant. It stands on the timber-framed old town street.",
+   "tip": "Book ahead for dinner and ask about regional dishes on the menu. Walk Lange Straße afterwards.",
+   "q": "Anker Villa, Lange Straße 60, Rheda-Wiedenbrück",
+   "ll": [
+    51.83645,
+    8.31089
+   ],
+   "src": [
+    "https://en.teutoburgerwald.de/reiseziele-geschichten/veranstaltungen-kulinarik/gastronomie-tipps/restaurants/anker-villa",
+    "https://www.speisekarte.de/rheda-wiedenbr%C3%BCck/restaurant/anker_villa"
+   ]
+  },
+  {
+   "id": "biibruegger",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have cake at the family-run Café Ibrügger in Gütersloh",
+   "desc": "Café Ibrügger on Carl-Bertelsmann-Straße is a family bakery and café run in its third generation, and local reviewers call it one of the oldest cafés in Gütersloh. It is known for handmade rolls and fresh cakes.",
+   "tip": "Go for coffee and cake in the afternoon; check opening days as listings differ on the weekly closing day.",
+   "q": "Café Ibrügger, Carl-Bertelsmann-Straße 43, Gütersloh",
+   "ll": [
+    51.90518,
+    8.39101
+   ],
+   "src": [
+    "https://www.gelbeseiten.de/gsbiz/8ac6b470-3be9-4883-9033-828599e77a5b",
+    "https://www.golocal.de/guetersloh-sundern/cafes/"
+   ]
+  },
+  {
+   "id": "bihessevarensell",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Westphalian dishes at Gaststätte Hesse in Varensell",
+   "desc": "Gaststätte Hesse is a traditional country inn in Varensell, part of Rietberg, serving Westphalian specialities and seasonal dishes, with coffee and cake and a beer garden. It lies directly on Rietberg's cycle route network.",
+   "tip": "Combine it with a bike ride; ring ahead to reserve a table. Opening hours were not confirmed.",
+   "q": "Gaststätte Hesse, Schulstraße 80, Rietberg-Varensell",
+   "ll": [
+    51.85184,
+    8.44006
+   ],
+   "src": [
+    "https://en.teutoburgerwald.de/reiseziele-geschichten/veranstaltungen-kulinarik/gastronomie-tipps/restaurants/gaststaette-hesse",
+    "https://entdecke.dein-nrw.de/en/dein-nrw/streaming/detail/Gastro/g_100023428/gastst-tte-hesse"
+   ]
+  },
+  {
+   "id": "bikraeutergarten",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try Kastenpickert at Café im Kräutergarten in Borgholzhausen",
+   "desc": "The Café im Kräutergarten on Versmolder Straße offers home-baked cakes and the regional Kastenpickert, the baked yeast loaf typical of East Westphalia. It has outdoor seating and is about five minutes on foot from Borgholzhausen station.",
+   "tip": "Order Kastenpickert with butter or jam, and sit outside in summer. Check opening times first.",
+   "q": "Café im Kräutergarten, Versmolder Straße 17, Borgholzhausen",
+   "ll": [
+    52.08397,
+    8.26249
+   ],
+   "src": [
+    "https://en.teutoburgerwald.de/reiseziele-geschichten/veranstaltungen-kulinarik/gastronomie-tipps/restaurants/cafe-im-kraeutergarten",
+    "https://entdecke.dein-nrw.de/en/dein-nrw/streaming/detail/Gastro/g_100025284/caf-im-kr-utergarten"
+   ]
+  },
+  {
+   "id": "bivitasol",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Soak in brine pools at the VitaSol Therme",
+   "desc": "The VitaSol Therme in Bad Salzuflen combines a brine bathing landscape (a 3 percent brine pool) with a large sauna park and the KochWerk restaurant. Bad Salzuflen is a historic salt spa town.",
+   "tip": "Sauna areas have their own rules and prices; check vitasol.de. Take the regional train to Bad Salzuflen and a city bus to the VitaSol stop.",
+   "q": "VitaSol Therme, Extersche Straße 42, Bad Salzuflen",
+   "ll": [
+    52.09565,
+    8.75347
+   ],
+   "src": [
+    "https://en.teutoburgerwald.de/region/excursion/poi/vitasol-therme",
+    "https://freizeitinsider.de/angebot/vitasol-therme/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bikurparkoeynhausen",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Kurpark to the Jordansprudel in Bad Oeynhausen",
+   "desc": "The Kurpark of Bad Oeynhausen surrounds the Jordansprudel, a carbonated thermal brine spring drilled in 1926 that once shot about 50 m high. The spring now feeds the Bali Therme, and the park has a tree trail.",
+   "tip": "Check the Staatsbad website, since the fountain's operating status has been reported inconsistently. The park is free to enter.",
+   "q": "Kurpark, Am Kurpark, Bad Oeynhausen",
+   "ll": [
+    52.20317,
+    8.79583
+   ],
+   "src": [
+    "https://www.staatsbad-oeynhausen.de/en/poi/jordansprudel",
+    "https://www.nrw-tourism.com/kurpark-bad-oeynhausen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "biweberei",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "See a concert at Die Weberei in Gütersloh",
+   "desc": "Die Weberei is a former industrial building in Gütersloh converted into a cultural centre for concerts, theatre and exhibitions. Its programme ranges from indie rock to electronic nights, and it runs a children's programme on the first Sunday of the month.",
+   "tip": "Check the programme on the venue's site, as dates vary. Buy tickets ahead for concerts.",
+   "q": "Die Weberei, Gütersloh",
+   "ll": [
+    51.90189,
+    8.37704
+   ],
+   "src": [
+    "https://dutchculture.nl/en/organisation/die-weberei",
+    "https://www.eventim.de/en/cityd/guetersloh-69/kultur-2/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bipadersee",
+   "cat": "dene",
+   "area": "paderborn",
+   "title": "Walk around the Padersee between the city and Schloss Neuhaus",
+   "desc": "The Padersee lies halfway between the centre of Paderborn and Schloss Neuhaus and was built as a flood retention basin after the 1965 floods. It is popular with walkers and families and sits on the Paderborner Seentour cycle route.",
+   "tip": "Free all year. Combine it with a stroll to the Neuhaus castle moat.",
+   "q": "Padersee, Paderborn",
+   "ll": [
+    51.73325,
+    8.72831
+   ],
+   "src": [
+    "https://www.paderborner-land.de/pbl-wAssets/docs/radflyer/12_Paderborner-Seentour.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

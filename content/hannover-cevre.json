@@ -1,0 +1,783 @@
+{
+ "new": [
+  {
+   "id": "hadom",
+   "cat": "gor",
+   "area": "hildesheim",
+   "title": "Admire St. Mary's Cathedral and the Bernward Doors",
+   "desc": "Hildesheim Cathedral is the seat of the diocese founded in 815 and a UNESCO World Heritage Site together with St. Michael's. It was heavily damaged on 22 March 1945 and, after a major renovation, reopened on 15 August 2014 for the diocese's 1200-year jubilee.",
+   "tip": "The cathedral is free to enter; check the diocese site for service times and the treasury. Allow time for the cloister next door.",
+   "q": "Mariä Himmelfahrt Dom, Domhof, Hildesheim",
+   "ll": [
+    52.14889,
+    9.94722
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Hildesheim_Cathedral"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "harose",
+   "cat": "gor",
+   "area": "hildesheim",
+   "title": "Find the Thousand-year Rose on the cathedral apse",
+   "desc": "The rose grows on the wall of the cathedral apse in the cloister courtyard. Legend dates it to 815, when Emperor Louis the Pious hung a reliquary on a wild rose; the 1945 bombing destroyed the growth above ground, but the roots survived and new shoots appeared that spring.",
+   "tip": "Best in bloom around late May to June. The courtyard is reached through the cathedral cloister.",
+   "q": "Tausendjähriger Rosenstock, Domhof, Hildesheim",
+   "ll": [
+    52.14917,
+    9.9475
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Tausendj%C3%A4hriger_Rosenstock"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    5,
+    6
+   ]
+  },
+  {
+   "id": "hamichaelis",
+   "cat": "gor",
+   "area": "hildesheim",
+   "title": "Look up at the Tree of Jesse ceiling in St. Michael's",
+   "desc": "St. Michael's was begun in 1010 by Bishop Bernward and consecrated in 1022. A UNESCO site since 1985, it holds a painted wooden ceiling of about 1130 showing the Tree of Jesse, made from more than 1,300 oak planks.",
+   "tip": "Open daily for visitors; the crypt with Bernward's tomb is Catholic, the nave Lutheran. Entry fees apply to some areas, so check the website.",
+   "q": "St. Michaelis, Michaelisplatz, Hildesheim",
+   "ll": [
+    52.15278,
+    9.94361
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/St._Michael%27s_Church,_Hildesheim"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hapelizaeus",
+   "cat": "gor",
+   "area": "hildesheim",
+   "title": "See the Egyptian collection at the Roemer- und Pelizaeus-Museum",
+   "desc": "The museum grew from a 1844 association and the 1907 Egyptian donation of Wilhelm Pelizaeus, who lived in Cairo for about 40 years. It holds roughly 9,000 Egyptian objects focused on the Old Kingdom, a Peruvian collection and one of Europe's largest Chinese porcelain collections.",
+   "tip": "A good rainy-day stop a few minutes from the Marktplatz. Check the website for opening days and current exhibitions.",
+   "q": "Roemer- und Pelizaeus-Museum, Am Steine 1-2, Hildesheim",
+   "ll": [
+    52.1497,
+    9.9443
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Roemer-_und_Pelizaeus-Museum_Hildesheim"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "haknochenhauer",
+   "cat": "gor",
+   "area": "hildesheim",
+   "title": "Photograph the Knochenhaueramtshaus on the Marktplatz",
+   "desc": "The Knochenhaueramtshaus was the guild hall of the butchers' guild, a half-timbered landmark of the market square rebuilt after the 1945 bombing. It now holds the city history department of the Roemer- und Pelizaeus-Museum.",
+   "tip": "The market square is free to walk; the Tourist Information is on the square. Come early to avoid crowds.",
+   "q": "Knochenhauer-Amtshaus, Markt 7, Hildesheim",
+   "ll": [
+    52.15285,
+    9.95129
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Hildesheim"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "haandreasturm",
+   "cat": "dene",
+   "area": "hildesheim",
+   "title": "Climb the 364 steps of St. Andreas' tower",
+   "desc": "At 114.5 m the tower of St. Andreas is the highest church tower in Lower Saxony. A stone spiral staircase of 364 steps passes the bell frame and clockwork to an observation platform.",
+   "tip": "Open to the public on weekends and school holidays for a small fee. Peregrine falcons nest on the church.",
+   "q": "St. Andreas, Andreasplatz, Hildesheim",
+   "ll": [
+    52.15153,
+    9.95005
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/St._Andreas_(Hildesheim)"
+   ]
+  },
+  {
+   "id": "haroestwerk",
+   "cat": "ye",
+   "area": "hildesheim",
+   "title": "Sip hand-roasted coffee at das kleine röstwerk",
+   "desc": "A small coffee bar on the third floor of the Upside-Down Sugarloaf on Andreasplatz, serving hand-roasted specialty coffee and small treats. The building also houses a chocolate factory.",
+   "tip": "Order a filter or espresso and look out over the Andreasplatz. Beans to take home are sold at the counter.",
+   "q": "das kleine röstwerk, Andreasplatz 20, Hildesheim",
+   "ll": [
+    52.1518,
+    9.9504
+   ],
+   "src": [
+    "https://www.hildesheim-tourismus.de/en/see-and-experience/eat-out/coffee-scene"
+   ]
+  },
+  {
+   "id": "haschuler",
+   "cat": "ye",
+   "area": "hildesheim",
+   "title": "Watch beans roast at Kaffeerösterei Schuler",
+   "desc": "Schuler is a coffee roastery and shop in the old town, with fresh-roasted coffees, advice on origin and processing and the chance to watch roasting. It also serves cappuccino and espresso.",
+   "tip": "Pick up beans or hand-sewn coffee-sack bags as a souvenir.",
+   "q": "Kaffeerösterei Schuler, Osterstraße 6, Hildesheim",
+   "ll": [
+    52.15354,
+    9.95438
+   ],
+   "src": [
+    "https://www.hildesheim-tourismus.de/en/see-and-experience/eat-out/coffee-scene",
+    "https://spinach.guide/venues/cafe-frida-20037/"
+   ]
+  },
+  {
+   "id": "hafagus",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the Fagus Factory, Gropius's glass-and-brick icon",
+   "desc": "The Fagus shoe-last factory in Alfeld was built 1911-1913 by Walter Gropius and Adolf Meyer for Carl Benscheidt and is a pioneer of modern architecture. It became a UNESCO World Heritage Site in 2011; shoe-last production continues on site and there is a visitor centre and the Fagus-Gropius exhibition.",
+   "tip": "Check fagus-gropius.com for guided tours and visitor-centre hours. Alfeld is on the Hildesheim-Göttingen rail line.",
+   "q": "Fagus-Werk, Hannoversche Straße 58, Alfeld (Leine)",
+   "ll": [
+    51.98361,
+    9.81111
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Fagus_Factory",
+    "https://de.wikipedia.org/wiki/Fagus-Werk"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hacellepalace",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore Celle Castle and its Baroque theatre",
+   "desc": "The ducal residence of the House of Brunswick-Lüneburg since 1378 was remodelled from 1670 by George William in a Venetian-inspired style. Its Schlosstheater, built 1670-1675, is one of the oldest preserved Baroque theatres in northern Germany and still has its own company.",
+   "tip": "Tours of the state rooms and the theatre run through the year; book via celle.travel. The Bomann Museum faces the castle.",
+   "q": "Residenzmuseum im Celler Schloss, Schlossplatz 1, Celle",
+   "ll": [
+    52.62389,
+    10.0775
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Celle_Palace"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "habomann",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Bomann Museum opposite Celle Castle",
+   "desc": "Founded by Wilhelm Bomann in 1892, the museum shows Lower Saxon folk culture and city history, including a 1571 farmhouse from Narjesbergen and the Tansey collection of European portrait miniatures. Since 1995 it has been linked with the Kunstmuseum Celle.",
+   "tip": "Combine with the castle across the Schlossplatz. Check bomann-museum.de for hours.",
+   "q": "Bomann-Museum, Schlossplatz 7, Celle",
+   "ll": [
+    52.62418,
+    10.07956
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Bomann-Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hahoppener",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Photograph the 1532 Hoppener Haus in Celle's old town",
+   "desc": "The Hoppener Haus dates from 1532 and is the best-known timber-framed house of the Celle Altstadt, with a portrait of Ernest the Confessor on its facade.",
+   "tip": "Free to see from the street. Walk Poststraße and Zöllnerstraße for more facades.",
+   "q": "Hoppener Haus, Poststraße 8, Celle",
+   "ll": [
+    52.62349,
+    10.08189
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Celle"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hacellesynagoge",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the 1740 synagogue in Celle's Altstadt",
+   "desc": "Celle's synagogue was built in 1740 in a narrow lane and is one of the few in Germany to have survived the November 1938 pogrom, reportedly because a neighbouring leather factory would have been endangered by fire.",
+   "tip": "Visits by arrangement; check the community's website before going.",
+   "q": "Synagoge Celle, Im Kreise 24, Celle",
+   "ll": [
+    52.62295,
+    10.08729
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Celle"
+   ]
+  },
+  {
+   "id": "hastadthagenschloss",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look at Stadthagen Castle, early Weser Renaissance",
+   "desc": "Built 1535-1539 under Count Adolf XI by Jörg Unkair from Obernkirchen sandstone, the castle is called the oldest and most influential Weser Renaissance monument in Lower Saxony. It houses the tax office, with fireplace reliefs by Arend Robin inside.",
+   "tip": "The courtyard and outbuildings can be seen from outside; interior visits need advance registration. The mausoleum behind St. Martini is nearby.",
+   "q": "Schloss Stadthagen, Schlossstraße, Stadthagen",
+   "ll": [
+    52.32092,
+    9.20633
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Stadthagen"
+   ]
+  },
+  {
+   "id": "habueckeburgschloss",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour Bückeburg Palace and its Golden Hall",
+   "desc": "Bückeburg's moated castle is first documented in 1304 and was rebuilt in Weser Renaissance style from 1560. The Schaumburg-Lippe family still lives there; the chapel, Goldener Saal with red silk hangings and the Festsaal have been open since 1922.",
+   "tip": "The 80-hectare park around the palace is free. Check schloss-bueckeburg.de for tour times.",
+   "q": "Schloss Bückeburg, Bückeburg",
+   "ll": [
+    52.2589,
+    9.0436
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_B%C3%BCckeburg"
+   ]
+  },
+  {
+   "id": "habueckeburgmausoleum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look up at the gold mosaic of Bückeburg Mausoleum",
+   "desc": "Built 1911-1915 for the princely house of Schaumburg-Lippe by Paul Baumgarten, the neo-Romanesque mausoleum is 43 m high. Its dome hall holds a Gottfried Hofer mosaic of about 500 m², described as the largest in Central Europe; a tank-shell hole from the war is still visible.",
+   "tip": "In the palace park; check opening days before visiting, as it is seasonal.",
+   "q": "Mausoleum, Schlosspark, Bückeburg",
+   "ll": [
+    52.25786,
+    9.03483
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Mausoleum_B%C3%BCckeburg"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "hahubschrauber",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Sit in a helicopter simulator at Hubschraubermuseum Bückeburg",
+   "desc": "Germany's only museum purely for rotary-wing aircraft opened to the public in 1971 and shows 54 full-size exhibits, from a Bell UH-1D Huey and the EC 665 Tiger prototype to drones and a replica of NASA's Ingenuity. It also has a helicopter simulator for visitors.",
+   "tip": "About 22,000 visitors a year; check hubschraubermuseum.de for opening days.",
+   "q": "Hubschraubermuseum Bückeburg, Sablé-Platz 6, Bückeburg",
+   "ll": [
+    52.26142,
+    9.04705
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Hubschraubermuseum_B%C3%BCckeburg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hahaemelschenburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour Hämelschenburg moated castle",
+   "desc": "Hämelschenburg was rebuilt 1588-1613 by Georg Klencke and Anna von Holle and is a main work of the Weser Renaissance. Guided tours show about a third of the rooms in the summer half-year, and its St. Marien church of 1563 is reckoned the oldest freestanding Protestant church in Germany.",
+   "tip": "Tours daily in summer; a café operates in the former farmyard. It lies between Hameln and Bad Pyrmont.",
+   "q": "Schloss Hämelschenburg, Schlossstraße 1, Emmerthal",
+   "ll": [
+    52.0283,
+    9.3444
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_H%C3%A4melschenburg"
+   ]
+  },
+  {
+   "id": "hahochzeitshaus",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Catch the Pied Piper glockenspiel at the Hochzeitshaus",
+   "desc": "Built 1610-1617 in Weser Renaissance style, the Hochzeitshaus has a 43 m main facade. Its 37-bell glockenspiel has played since 1964 and acts out the Pied Piper legend daily at 13:05, 15:35 and 17:35.",
+   "tip": "Stand on the Markt facing the house a few minutes before the show. The registry office occupies the building.",
+   "q": "Hochzeitshaus, Markt 1, Hameln",
+   "ll": [
+    52.1046,
+    9.357
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Hochzeitshaus_Hameln"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "harattenfaengerhaus",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Rattenfängerhaus on Osterstraße",
+   "desc": "Built in 1602/1603 for councilman Hermann Arendes, the Rattenfängerhaus is one of the finest Weser Renaissance houses and has been city-owned since 1917. Its name comes from an inscription about the children led away by the piper on 26 June 1284.",
+   "tip": "Look at the facade from outside; the restaurant inside has changed hands, so check its status before planning a meal. Bungelosenstraße beside it is where music is said to have been banned.",
+   "q": "Rattenfängerhaus, Osterstraße 28, Hameln",
+   "ll": [
+    52.1042,
+    9.3607
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Rattenf%C3%A4ngerhaus"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hapyrmontschloss",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Bad Pyrmont Palace and its spa-history museum",
+   "desc": "The Baroque palace built 1706-1710 stands on a former fortress island and was the summer residence of the Counts of Waldeck-Pyrmont. The first floor houses a museum of town and spa history, redesigned in 2015.",
+   "tip": "In summer the Kaffeehaus im Schloss serves in the western cavalier's house. Check opening days of the museum.",
+   "q": "Schloss Pyrmont, Schlossstraße, Bad Pyrmont",
+   "ll": [
+    51.9836,
+    9.2484
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Pyrmont"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "hanienburgrathaus",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stand on Nienburg's Markt by the Weser Renaissance town hall",
+   "desc": "The town hall dates from the 15th or early 16th century (a date of 1533 appears on it) and was remodelled in Weser Renaissance style after 1582. It stands on the Markt beside half-timbered houses and the Martinskirche.",
+   "tip": "The Museum Nienburg in the Fresenhof and the Spargelmuseum are a short walk away.",
+   "q": "Rathaus Nienburg, Marktplatz, Nienburg/Weser",
+   "ll": [
+    52.63785,
+    9.20527
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Nienburg/Weser"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "haobernkirchen",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Stiftskirche in sandstone Obernkirchen",
+   "desc": "Obernkirchen's St. Marien church dates from about 1330 and belongs to a convent founded by Bishop Werner of Minden. The town sits in the Bückeberg hills, where sandstone has been quarried since the 12th century.",
+   "tip": "Check with the Stift for visiting times. Obernkirchen sandstone also appears in Stadthagen Castle and Bückeburg's mausoleum.",
+   "q": "Stiftskirche St. Marien, Stiftsallee, Obernkirchen",
+   "ll": [
+    52.26986,
+    9.12762
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Obernkirchen"
+   ]
+  },
+  {
+   "id": "hagradierwerk",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Breathe brine air at Bad Salzdetfurth's Gradierwerke",
+   "desc": "The Kurpark has two brine graduation towers built in the mid-18th century (the first in 1746), still in operation; only about 30 remain in Germany. Bad Salzdetfurth began spa operations in 1857 and is a recognized brine and peat-moor spa.",
+   "tip": "The Kurpark is free. Combine with the nearby Sole-Therme.",
+   "q": "Gradierwerk, Kurpark, Bad Salzdetfurth",
+   "ll": [
+    52.0675,
+    10.01252
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Bad_Salzdetfurth"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hatotengrund",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk down into the Totengrund heath valley",
+   "desc": "This roughly 30-hectare basin on the Wilseder Berg has heather- and juniper-covered walls up to about 40 m high. Pastor Wilhelm Bode bought the northern part in 1906 and it became the nucleus of the Lüneburg Heath nature reserve of 1921.",
+   "tip": "Reach it on foot or by carriage from Wilsede. Heather blooms in August and September.",
+   "q": "Totengrund, Wilsede, Bispingen",
+   "ll": [
+    53.15653,
+    9.97433
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Totengrund_(Wilseder_Berg)"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    8,
+    9
+   ]
+  },
+  {
+   "id": "habergenbelsen",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Pay respects at the Bergen-Belsen Memorial",
+   "desc": "The memorial stands on the site of the concentration camp; the first memorial was inaugurated in 1952 and a new Documentation Centre with permanent exhibition opened in 2007. The grounds hold mass graves, memorial stones and a House of Silence.",
+   "tip": "Entry is free; allow several hours. Check the foundation's site for opening times.",
+   "q": "Gedenkstätte Bergen-Belsen, Lohheide, Bergen",
+   "ll": [
+    52.76044,
+    9.90883
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Bergen-Belsen_concentration_camp"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hamartas",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try Heidschnucke at Martas in Celle's Altstadt",
+   "desc": "Martas is a restaurant in the old town whose listings highlight Heidschnucke dishes from local heath sheep. It is among the places recommended for regional food in Celle.",
+   "tip": "Ask for the Heidschnucke dish and book for dinner; menus change.",
+   "q": "Martas Restaurant, Neue Straße 16, Celle",
+   "ll": [
+    52.62512,
+    10.08449
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/celle/martas-restaurant/"
+   ]
+  },
+  {
+   "id": "hamuseumscafe",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have homemade cake at Museumscafé on Osterstraße, Hameln",
+   "desc": "A rustic café-restaurant in Hameln's old town serving homemade cakes, pastries and tortes, with an inexpensive lunch.",
+   "tip": "Good stop between the Hochzeitshaus and the Rattenfängerhaus.",
+   "q": "Museumscafé, Osterstraße 8, Hameln",
+   "ll": [
+    52.10461,
+    9.3583
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/2737994/museumscafé",
+    "https://www.speisekarte.de/hameln/restaurant/museumscafe/bewertung"
+   ]
+  },
+  {
+   "id": "hamilchhalle",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Rest at the Milchhalle in Wilsede with heath cake",
+   "desc": "The Milchhalle is a self-service café in the car-free heath village of Wilsede inside the nature reserve, popular with hikers. The Lüneburg Heath is known for Buchweizentorte, a buckwheat cake, and heath honey.",
+   "tip": "Try the Buchweizentorte if it is on offer. Wilsede is reached on foot, by bike or horse carriage.",
+   "q": "Milchhalle Wilsede, Wilsede, Bispingen",
+   "ll": [
+    53.164,
+    9.9603
+   ],
+   "src": [
+    "https://spinach.guide/venues/milchhalle-wilsede-34040/",
+    "https://naturpark-lueneburger-heide.de/en/regional-specialities/products-from-the-heath/buckwheat"
+   ]
+  },
+  {
+   "id": "haheidemuseumgasthaus",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at Gasthaus Zum Heidemuseum in Wilsede",
+   "desc": "The village inn of Wilsede is named in the Naturschutzpark brochure as the place for the 24-hour Wilsede experience. Wilsede has no cars; its Heidemuseum Dat ole Huus shows a heath farm of about 1850.",
+   "tip": "Look for regional dishes such as Heidschnuckenbraten or buckwheat pancakes on the menu.",
+   "q": "Gasthaus Zum Heidemuseum, Wilsede, Bispingen",
+   "ll": [
+    53.1643,
+    9.9602
+   ],
+   "src": [
+    "https://www.verein-naturschutzpark.de/wp-content/uploads/14723-VNP-Folder-Wilsede.pdf"
+   ]
+  },
+  {
+   "id": "hafrenchgarden",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Wander the Französischer Garten and the beekeeping museum",
+   "desc": "This listed park south of Celle's old town has an English landscape garden layout from the Caroline Mathilde era, with a round pond, rose garden, lime avenue and a 1784 monument to her. The Max-Böcker bee museum opened in 1931 in a 1607 granary.",
+   "tip": "Free to walk; the Renaissance Schlösschen of 1611 is now a daycare and not open.",
+   "q": "Französischer Garten, Celle",
+   "ll": [
+    52.6208,
+    10.0829
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Franz%C3%B6sischer_Garten_(Celle)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hacelletower",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Climb the 74 m tower of Celle's Stadtkirche",
+   "desc": "The Lutheran Stadtkirche St. Marien has a choir consecrated in 1308, a baroque interior of 1676-1698 and a ducal burial vault. Its 74 m tower, finished in 1913, can be climbed from April to the end of October.",
+   "tip": "The tower is open April to October; check the church's times.",
+   "q": "Stadtkirche St. Marien, Am Markt, Celle",
+   "ll": [
+    52.62444,
+    10.08083
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Stadtkirche_St._Marien_(Celle)"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "harattenfaengerspiel",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch the Pied Piper open-air play in Hameln's old town",
+   "desc": "In summer, actors perform the story of the Pied Piper in the town centre on Sundays, with the legend dating the children's departure to 26 June 1284. It is staged in Hameln's old town near the Hochzeitshaus.",
+   "tip": "Check the Hameln tourism site for the current Sunday schedule.",
+   "q": "Hochzeitshaus, Osterstraße, Hameln",
+   "ll": [
+    52.1045,
+    9.3574
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Hameln"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "hapyrmontkurpark",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Stroll Bad Pyrmont's Kurpark and Palmengarten",
+   "desc": "The Kurpark, named in 2005 as Germany's most beautiful park, holds the Palmengarten, billed as the largest open-air palm facility north of the Alps, and the main spring Hylliger Born with its 1923/24 well temple and Wandelhalle.",
+   "tip": "Free to enter; the Hylliger Born is at the Brunnenplatz.",
+   "q": "Kurpark, Brunnenplatz, Bad Pyrmont",
+   "ll": [
+    51.98504,
+    9.24965
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Bad_Pyrmont"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hahofreitschule",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch classical riding at the Fürstliche Hofreitschule Bückeburg",
+   "desc": "The princely riding school in Bückeburg holds equestrian galas and matinees in the historic Reithaus at the castle. The 2026 Reitkunstgala took place on 24 May and a matinee in October.",
+   "tip": "Look up 2027 dates and tickets at hofreitschule.de; shows run roughly April to October.",
+   "q": "Fürstliche Hofreitschule Bückeburg, Schloss, Bückeburg",
+   "ll": [
+    52.25984,
+    9.04638
+   ],
+   "src": [
+    "https://www.festivalsindeutschland.de/festival/fuerstliche-hofreitschule-reitkunstgala"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "haspargelfest",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Join Nienburg's Spargelfest and Spargellauf",
+   "desc": "Nienburg holds its asparagus festival on a weekend in the second half of May, with the Spargellauf race since 2004 on a 2.5 km loop through the old town and along the Weser. The Spargelmuseum sits in the museum garden's Rauchhaus.",
+   "tip": "Event dates change yearly; check the town's event page.",
+   "q": "Museum Nienburg, Fresenhof, Nienburg/Weser",
+   "ll": [
+    52.63944,
+    9.20987
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Nienburg/Weser"
+   ],
+   "months": [
+    5
+   ]
+  },
+  {
+   "id": "harinteln",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk Rinteln's Marktplatz and Weser promenade",
+   "desc": "Rinteln, which received town rights in 1239, centres on a Marktplatz with St. Nikolai church and the Weser Renaissance Ratskeller. The Eulenburg houses the town museum and the Weserpromenade runs by the Alter Hafen.",
+   "tip": "The Eulenburg museum is a short walk from the market.",
+   "q": "Marktplatz, Rinteln",
+   "ll": [
+    52.1869,
+    9.079
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Rinteln"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "hawilsedewalk",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike from Wilsede up the Wilseder Berg",
+   "desc": "Wilsede is a car-free village in the Lüneburg Heath and the Wilseder Berg above it rises 169 m, an end moraine from the Saale glaciation. The Heidschnuckenweg trail passes through, and in August and September up to 10,000 people a day come for the heather.",
+   "tip": "Walk, cycle or take a horse carriage from nearby villages. Visit in August or September for the bloom.",
+   "q": "Wilseder Berg, Wilsede, Bispingen",
+   "ll": [
+    53.1678,
+    9.93903
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Wilsede"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    8,
+    9
+   ]
+  },
+  {
+   "id": "haheidepark",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the coasters at Heide Park Soltau",
+   "desc": "Opened on 19 August 1978, Heide Park is the largest amusement park in northern Germany, with 41 attractions including 9 roller coasters, and had 1.68 million visitors in 2023. It runs a Halloween event in October.",
+   "tip": "Check heide-park.de for season days and book tickets online.",
+   "q": "Heide Park Resort, Heide-Park-Straße 1, Soltau",
+   "ll": [
+    53.02493,
+    9.87924
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Heide_Park_Resort"
+   ]
+  },
+  {
+   "id": "havogelpark",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Visit Weltvogelpark Walsrode, the world's biggest bird park",
+   "desc": "The park opened in 1962 on 24 hectares, with about 600 species and roughly 4,000 birds. It is described as the largest bird park in the world by species and area.",
+   "tip": "Check weltvogelpark.de for opening hours; best in dry weather.",
+   "q": "Weltvogelpark Walsrode, Am Vogelpark 1, Walsrode",
+   "ll": [
+    52.88094,
+    9.60148
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Walsrode_Bird_Park"
+   ]
+  },
+  {
+   "id": "hasnowworld",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ski indoors at Snow World Bispingen",
+   "desc": "Opened on 21 October 2006, the indoor ski hall (formerly Snow Dome) has a piste about 300 m long and up to 100 m wide, kept at roughly minus 2 to minus 4 degrees Celsius.",
+   "tip": "Hire equipment on site and bring warm gloves; check the site for slots.",
+   "q": "Snow World Bispingen, Bispingen",
+   "ll": [
+    53.10378,
+    9.98558
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Snow_Dome_Bispingen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  }
+ ]
+}

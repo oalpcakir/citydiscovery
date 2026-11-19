@@ -36,7 +36,8 @@ window.CITIES.sanliurfa = {
     kahtacastle: [37.9499, 38.6533], perreantik: [37.7924, 38.3018], halfetiboat: [37.2462, 37.8666],
     kizilincanyon: [37.4300, 38.1265], karacadagski: [37.7172, 39.8347], esensoycigkofte: [37.7600, 38.2801],
     nesetinyeri: [37.7900, 38.6650], halfetibaskaninyeri: [37.2473, 37.8669], kalealtigulbaba: [37.0253, 37.9755],
-    seyrifirat: [37.0290, 37.9830]
+    seyrifirat: [37.0290, 37.9830],
+    seytankoprusu: [37.9418, 38.6591], gergercastle: [38.0293, 39.0333], golbasilakes: [37.7472, 37.5472]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -217,6 +218,15 @@ window.CITIES.sanliurfa = {
       tip: "Try nohut dürümü or patlıcan kebabı.", q: "Kalealtı Gülbaba Lokantası, Birecik, Şanlıurfa", kind: "meal", src: ["https://de.restaurantguru.com/Birecik"] },
     { id: "seyrifirat", cat: "ye", area: "cevre", title: "Have breakfast above the Euphrates at Seyr-i Fırat",
       desc: "Seyr-i Fırat Cafe & Kahvaltı is a Birecik café on the river, serving Turkish breakfast with a view of the Euphrates and the bridge.",
-      tip: "Go at sunset or for breakfast; the bridge is lit in the evening.", q: "Seyr-i Fırat Cafe & Kahvaltı, Birecik, Şanlıurfa", kind: "meal", src: ["https://de.restaurantguru.com/Birecik"] }
+      tip: "Go at sunset or for breakfast; the bridge is lit in the evening.", q: "Seyr-i Fırat Cafe & Kahvaltı, Birecik, Şanlıurfa", kind: "meal", src: ["https://de.restaurantguru.com/Birecik"] },
+    { id: "seytankoprusu", cat: "gor", area: "cevre", title: "Cross the Seljuk pointed-arch Şeytan Bridge at Kahta",
+      desc: "The Seljuk bridge, known locally as the Devil's Bridge, spans the Kahta Çayı (ancient Nymphaios) within the boundary of Kocahisar, south of Yenikale. It is a single pointed arch of cut stone.",
+      tip: "Visit together with Eski Kahta Castle and Arsameia, which are close by.", q: "Şeytan Köprüsü, Kocahisar, Kahta, Adıyaman", tags: ["free"], src: ["https://www.lonelyplanet.com/pois/1360710"] },
+    { id: "gergercastle", cat: "gor", area: "cevre", title: "Look over the Euphrates from Gerger Castle",
+      desc: "The castle stands on steep cliffs above the Euphrates in Oymaklı village. Cisterns, towers and foundations survive from a Commagene fortress that guarded the kingdom's eastern border and the river crossings, repaired in Roman, Seljuk and Ottoman times.",
+      tip: "Access is rough and the site is little developed, so wear proper shoes and ask in Gerger town for directions.", q: "Gerger Kalesi, Oymaklı, Gerger, Adıyaman", tags: ["free"], src: ["https://kureansiklopedi.com/tr/detay/gerger-kalesi-36ef5", "https://wowcappadocia.com/gerger-castle.html"] },
+    { id: "golbasilakes", cat: "dene", area: "cevre", title: "Watch birds at the Gölbaşı Lakes nature park",
+      desc: "The Gölbaşı lakes (İnekli, Azaplı and Gölbaşı) form a 2,080 hectare nature park and an Important Bird Area, where studies have recorded 63 to 73 bird species. The park has a bird-watching tower and a viewing terrace.",
+      tip: "Spring and autumn migration are the best times. Bring binoculars.", q: "Gölbaşı Tabiat Parkı, Gölbaşı, Adıyaman", months: [3, 4, 5, 9, 10, 11], src: ["https://datazone.birdlife.org/site/factsheet/adıyaman--gölbaşı-lakes-iba-türkiye", "https://goturkiye.com/adiyaman/smell"] }
   ]
 };

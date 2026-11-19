@@ -1,0 +1,181 @@
+{
+ "new": [
+  {
+   "id": "dupnisa",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the stalactites of Dupnisa Cave",
+   "desc": "Dupnisa Cave in the Strandzha forest near Demirköy is Thrace's only show cave, with several levels, stalactites and an underground stream. It is closed in winter because bats hibernate there.",
+   "tip": "It is likely closed from mid-November to mid-May; confirm with the Kırklareli tourism office. The road to the cave is rural.",
+   "q": "Dupnisa Mağarası, Sarpdere, Demirköy, Kırklareli",
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "tags": [
+    "rainy day"
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Dupnisa_Cave",
+    "https://hurriyetdailynews.com/only-tourist-cave-in-thrace-home-to-bats-158028"
+   ],
+   "ll": [
+    41.8406,
+    27.5559
+   ]
+  },
+  {
+   "id": "igneadalongoz",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Paddle or walk the İğneada Longoz forests",
+   "desc": "İğneada Floodplain Forests National Park, established in 2007, protects flooded oak and ash forests, Lake Mert, Lake Saka and dunes on the Black Sea. It is a rare wetland forest in Turkey.",
+   "tip": "Guided boat and canoe tours are the best way in. Spring and autumn are good for birds.",
+   "q": "İğneada Longoz Ormanları Milli Parkı, İğneada, Demirköy, Kırklareli",
+   "src": [
+    "https://en.wikipedia.org/wiki/%C4%B0%C4%9Fneada_Floodplain_Forests_National_Park",
+    "https://en.tourturka.com/informations/lu-ying-qu/igneada-longoz-forest-national-park"
+   ],
+   "ll": [
+    41.87617,
+    27.98152
+   ]
+  },
+  {
+   "id": "igneadabeach",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim at İğneada's unspoilt Black Sea beaches",
+   "desc": "İğneada's long sandy beaches are among the least developed on Turkey's Black Sea shore, backed by forest and lakes.",
+   "tip": "Facilities are basic. Camping is popular in summer.",
+   "q": "İğneada Plajı, İğneada, Demirköy, Kırklareli",
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "src": [
+    "https://www.bizevdeyokuz.com/igneada",
+    "https://www.cnnturk.com/seyahat/igneada-gezilecek-yerler-nelerdir-igneadanin-tarihi-ve-dogal-guzellikleri-1666918"
+   ],
+   "ll": [
+    41.88833,
+    27.96285
+   ]
+  },
+  {
+   "id": "catkapi",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat fish and olive-oil dishes at Çatkapı, İğneada",
+   "desc": "Çatkapı is a restaurant in İğneada listed among the town's seafood restaurants and noted for olive oil dishes as well as fish. It serves Black Sea catch near the harbour.",
+   "tip": "Order the grilled fish. Check opening days in the off-season.",
+   "q": "Çatkapı Restaurant, İğneada, Demirköy, Kırklareli",
+   "src": [
+    "https://www.bizevdeyokuz.com/igneada",
+    "https://en.wikivoyage.org/wiki/%C4%B0%C4%9Fneada"
+   ],
+   "ll": [
+    41.8849,
+    27.9943
+   ]
+  },
+  {
+   "id": "kiyikoymonastery",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the rock-cut Aya Nikola monastery in Kıyıköy",
+   "desc": "Aya Nikola is a 6th-century rock-cut monastery on the slope above Kıyıköy, with a church on the ground floor and monks' cells above. It was restored in 1856 and used until 1922.",
+   "tip": "Allow a 15 to 30 minute walk from the village. A local volunteer guide often shows visitors around for a tip.",
+   "q": "Aya Nikola Manastırı, Kıyıköy, Vize, Kırklareli",
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://www.stnicholascenter.org/gazetteer/4175",
+    "https://vici.org/vici/23112/"
+   ],
+   "ll": [
+    41.6344,
+    28.086
+   ]
+  },
+  {
+   "id": "hizirbey",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Hızırbey Complex in Kırklareli",
+   "desc": "The Hızırbey Complex in Kırklareli town was built in 1383 and includes a mosque, madrasa and bath, a rare surviving 14th-century Ottoman group in Thrace.",
+   "tip": "Free to enter outside prayer times. Combine with the town museum and centre.",
+   "q": "Hızırbey Külliyesi, Kırklareli Merkez, Kırklareli",
+   "tags": [
+    "free"
+   ],
+   "src": [
+    "https://islamansiklopedisi.org.tr/hizir-bey-kulliyesi",
+    "https://en.wikipedia.org/wiki/H%C4%B1z%C4%B1rbey_Mosque_Fountain"
+   ],
+   "ll": [
+    41.7356,
+    27.22387
+   ]
+  },
+  {
+   "id": "chamlija",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Thracian wines at Chamlija winery",
+   "desc": "Chamlija is a Thracian winery near Kırklareli known for estate wines and artist-designed bottle labels. It farms about 85 hectares of vines across several plots.",
+   "tip": "Book a tasting in advance. Combine with Arcadia and other wineries on the route.",
+   "q": "Chamlija Şarapları, Büyükkarıştıran, Lüleburgaz, Kırklareli",
+   "src": [
+    "https://thequirkycork.com/turkish-wine-routes-part-four-thrace/",
+    "https://wineanorak.com/chamlija.htm"
+   ],
+   "ll": [
+    41.29669,
+    27.54211
+   ]
+  },
+  {
+   "id": "arcadia",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Visit Arcadia Vineyards near Kırklareli",
+   "desc": "Arcadia Vineyards was founded in 2007 by Özcan and Zeynep Arca and makes low-intervention wines from sustainable vineyards in the Kırklareli hills. A boutique vineyard hotel sits beside it.",
+   "tip": "Reserve tastings in advance, as opening varies by season.",
+   "q": "Arcadia Vineyards, Kırklareli",
+   "src": [
+    "https://www.apronandsneakers.com/2015/11/arcadia-vineyards-and-bakucha-hotel-spa.html",
+    "https://thequirkycork.com/turkish-wine-routes-part-four-thrace/"
+   ],
+   "ll": [
+    41.5438,
+    27.3008
+   ]
+  },
+  {
+   "id": "birtatkofte",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try Kırklareli köfte at Birtat Köftecisi",
+   "desc": "Birtat Köftecisi in central Kırklareli serves the geographically indicated Kırklareli köfte, made with 100 percent veal rib meat.",
+   "tip": "Order the köfte with bread and salad.",
+   "q": "Birtat Köftecisi, Mustafa Kemal Bulvarı, Karacaibrahim Mahallesi, Kırklareli Merkez, Kırklareli",
+   "src": [
+    "https://yolcu360.com/blog/kirklareli-yemek-yerleri/",
+    "https://nomadicniko.com/2019/10/26/kirklareli-basics/"
+   ],
+   "ll": [
+    41.734,
+    27.225
+   ]
+  }
+ ]
+}

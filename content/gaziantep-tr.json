@@ -1,0 +1,193 @@
+{
+ "new": [
+  {
+   "id": "gumrukhan",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step into the Gümrük Han, the city customs inn",
+   "desc": "A two-storey caravanserai built between 1873 and 1878 on Gümrük Caddesi, once the place where goods entering the city were taxed. Restored in 2011, it still houses shops and workshops around its courtyard and is nicknamed the living museum.",
+   "tip": "Free to walk in during shop hours; combine with the nearby Uzun Çarşı and Zincirli Bedesten.",
+   "q": "Gümrük Hanı, Gümrük Caddesi, Şekeroğlu, Şahinbey, Gaziantep",
+   "ll": [
+    37.06377,
+    37.3844
+   ],
+   "src": [
+    "https://kureansiklopedi.com/tr/detay/gaziantep-gumruk-hani-638d1",
+    "https://www.ntv.com.tr/seyahat/galeri-gaziantepin-tarihi-han-ve-bedestenleri,IUIZEsGx00i7wP72Ng9jYg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "tutunhan",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Peek into Tütün Han in the Külekçi bazaar",
+   "desc": "One of the old Ottoman trading hans of the Gaziantep bazaar quarter, named for the tobacco once traded here. Its courtyard now holds small traders and craft shops.",
+   "tip": "Visit in the morning when the bazaar is busy; the han is near the Boyacı Mosque.",
+   "q": "Tütün Hanı, Külekçi Çarşısı, Boyacı Mahallesi, Şahinbey, Gaziantep",
+   "ll": [
+    37.06203,
+    37.38716
+   ],
+   "src": [
+    "https://www.e-sehir.com/turkiye-haritasi/tutun-hani-nerede-nasil-gidilir.html",
+    "https://www.ntv.com.tr/seyahat/galeri-gaziantepin-tarihi-han-ve-bedestenleri,IUIZEsGx00i7wP72Ng9jYg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ataturkanimuzesi",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Atatürk Memorial Museum in a Bey quarter house",
+   "desc": "A restored historic house in Bey Mahallesi, the neighbourhood where Atatürk was registered, opened as a museum by the Gaziantep Metropolitan Municipality in 2013. It shows memorabilia linked to his connection with the city.",
+   "tip": "Small and quick, about 30 minutes; the Provincial Culture and Tourism Directorate page lists current hours.",
+   "q": "Atatürk Anı Müzesi, Bey Mahallesi, Şahinbey, Gaziantep",
+   "ll": [
+    37.0613,
+    37.3787
+   ],
+   "src": [
+    "https://gaziantep.ktb.gov.tr/EN-200813/gaziantep-ataturk-remembrance-museum.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "cumbakunefe",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Share a tray of künefe at Cumba Künefe",
+   "desc": "A künefe house on Ali Nadi Ünler Boulevard that opened in 2014 and offers around 40 varieties of the hot cheese-and-kadayıf dessert, including pistachio versions, served in large sharing trays.",
+   "tip": "Open from breakfast until about 2 a.m., so it suits a late dessert; expect a wait on weekend evenings.",
+   "q": "Cumba Künefe, Ali Nadi Ünler Bulvarı, Pancarlı, Şehitkamil, Gaziantep",
+   "ll": [
+    37.0749,
+    37.3494
+   ],
+   "src": [
+    "https://www.ahaber.com.tr/yasam/2020/12/02/gaziantepte-turistin-ilk-adresi-ali-dagdelenin-cumba-kunefesi",
+    "https://yemek.com/gaziantepte-en-iyi-kunefe-nerede-yenir/"
+   ]
+  },
+  {
+   "id": "yesemekrestoran",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try yuvalama and beyran at Yesemek Restoran",
+   "desc": "A traditional Antep restaurant on Ordu Caddesi, said to date from 1945, serving home-style dishes including yuvalama (yoghurt soup with rice-and-meat dumplings), alaca soup and ali nazik.",
+   "tip": "Ask for the mixed plate of four; booking is sensible at weekends.",
+   "q": "Yesemek Restoran, Ordu Caddesi, Kavaklık, Şahinbey, Gaziantep",
+   "ll": [
+    37.06071,
+    37.36406
+   ],
+   "src": [
+    "https://www.bizevdeyokuz.com/antep-ne-yenir-nerede-yenir/",
+    "https://www.enprimeurclub.com/restaurants/yesemek-gaziantep-7a44f409"
+   ]
+  },
+  {
+   "id": "karkamis",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Hittite city of Carchemish at Karkamış",
+   "desc": "Carchemish was the main Late Hittite city on the Euphrates, on today's Turkish-Syrian border. A protective roof over the palace area was completed in 2024 and the site is being opened as an archaeopark; many of its reliefs are in the Gaziantep and Ankara museums.",
+   "tip": "It lies in a border military zone, so check current access with the Karkamış tourism office before going.",
+   "q": "Karkamış Antik Kenti, Karkamış, Gaziantep",
+   "ll": [
+    36.83108,
+    37.99996
+   ],
+   "src": [
+    "https://www.milliyet.com.tr/gundem/karkamis-antik-kentinin-uzerine-yapilan-koruyucu-cati-tamamlandi-bolgeyi-cazibe-merkezi-haline-getirmek-onemli-7199210",
+    "https://en.wikipedia.org/wiki/Karkamis"
+   ]
+  },
+  {
+   "id": "maraststashan",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk into Taş Han, the 1650 caravanserai of Maraş",
+   "desc": "A two-storey stone han built around 1650 by Hatipzadeler Mehmet Efendi, Kalender Çelebi and Ahmet Çelebi, beside the historic Kapalı Çarşı. Shops and workshops still occupy it.",
+   "tip": "Visit together with the covered bazaar and the castle hill, a short walk away.",
+   "q": "Taş Han, Kapalı Çarşı, Dulkadiroğlu, Kahramanmaraş",
+   "ll": [
+    37.58259,
+    36.9277
+   ],
+   "src": [
+    "https://www.flypgs.com/sehir-rehberi/kahramanmaras-gezilecek-yerler",
+    "https://goturkiye.com/kahramanmaras/see"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "marasmutfakmuzesi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Browse the Dulkadiroğlu Thematic Kitchen Museum",
+   "desc": "A kitchen museum opened in 2018 by Dulkadiroğlu Municipality in a restored two-storey stone Ottoman house, with a rooftop viewpoint. It presents Maraş cooking tools and food culture.",
+   "tip": "Check opening hours locally after quake repairs.",
+   "q": "Dulkadiroğlu Tematik Mutfak Müzesi, Kurtuluş Mahallesi, Dulkadiroğlu, Kahramanmaraş",
+   "ll": [
+    37.577,
+    36.935
+   ],
+   "src": [
+    "https://www.sondakika.com/guncel/haber-mutfak-kulturu-bu-muzede-10367398/",
+    "https://www.flypgs.com/sehir-rehberi/kahramanmaras-gezilecek-yerler"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "kapicam",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Picnic and walk in Kapıçam Nature Park",
+   "desc": "A 183-hectare pine-clad nature park on the Gaziantep road a few kilometres from the city, with walking paths, picnic areas and a botanical garden.",
+   "tip": "Busiest at weekends and in spring; take the road toward Gaziantep.",
+   "q": "Kapıçam Tabiat Parkı, Onikişubat, Kahramanmaraş",
+   "ll": [
+    37.48491,
+    37.03247
+   ],
+   "src": [
+    "https://www.flypgs.com/sehir-rehberi/kahramanmaras-gezilecek-yerler"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kilismevlevihane",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Mevlevi lodge known as Aktekne in Kilis",
+   "desc": "A Mevlevi lodge built in the 1520s-1540s by a local deputy governor, one of the oldest Ottoman buildings in Kilis, of white cut stone. Only the semahane (whirling hall) survives and it is used as a mosque.",
+   "tip": "It sits east of the old Government House near Cumhuriyet Square, so pair it with the Alaeddin Yavaşca Museum.",
+   "q": "Kilis Mevlevihanesi, Tekke Mahallesi, Kilis Merkez, Kilis",
+   "ll": [
+    36.715,
+    37.1145
+   ],
+   "src": [
+    "https://www.ntv.com.tr/galeri/yerel-haberler/aktekne-adiyla-da-biliniyor-500-yildir-ayakta-1701831",
+    "https://islamansiklopedisi.org.tr/kilis-mevlevihanesi"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

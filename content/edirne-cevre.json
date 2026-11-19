@@ -1,0 +1,529 @@
+{
+ "new": [
+  {
+   "id": "uzunkopru",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk across the Uzunköprü stone bridge",
+   "desc": "The Uzunköprü bridge over the Ergene was built between 1426 and 1443 under Murad II and has about 174 arches. It is among the longest surviving Ottoman stone bridges in the world.",
+   "tip": "Best in morning light. Parking at the town end.",
+   "q": "Uzunköprü Tarihi Köprüsü, Uzunköprü, Edirne",
+   "ll": [
+    41.2745,
+    26.6784
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Uzunk%C3%B6pr%C3%BC_Bridge"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "enezkalesi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb Enez castle to the Byzantine Fatih Mosque",
+   "desc": "Enez castle stands on the site of ancient Ainos and holds the Fatih Mosque, a 12th-century Byzantine church turned mosque after 1456. The walls overlook the Meriç delta and the Aegean.",
+   "tip": "Free entry. Come at sunset for the view over the delta.",
+   "q": "Enez Kalesi, Enez, Edirne",
+   "ll": [
+    40.72422,
+    26.08044
+   ],
+   "src": [
+    "https://yolcu360.com/blog/enez-gezilecek-yerler/",
+    "https://en.wikipedia.org/wiki/Enez"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "galagolu",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch flamingos and pelicans at Gala Lake National Park",
+   "desc": "Gala Lake National Park covers about 6,000 hectares of lake, reed bed and forest by the Aegean near Enez. It is a major wintering site for waterbirds including pelicans and flamingos.",
+   "tip": "Winter and spring are best for birds. Bring binoculars; paths are simple.",
+   "q": "Gala Gölü Milli Parkı, Enez, Edirne",
+   "ll": [
+    40.76049,
+    26.22919
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Gala_Lake_National_Park",
+    "https://yolcu360.com/blog/enez-gezilecek-yerler/"
+   ]
+  },
+  {
+   "id": "enezpirlanta",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim at Pırlanta Beach in Enez",
+   "desc": "Pırlanta Beach is a wide, shallow sandy beach a few minutes from Enez centre, popular with families. Cafés line the shore.",
+   "tip": "Visit June to September; shallow water suits children.",
+   "q": "Pırlanta Plajı, Enez, Edirne",
+   "ll": [
+    40.69083,
+    26.0572
+   ],
+   "src": [
+    "https://yolcu360.com/blog/enez-gezilecek-yerler/"
+   ]
+  },
+  {
+   "id": "rakoczi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Rákóczi Museum, home of Hungary's exiled prince",
+   "desc": "The Rákóczi Museum in Tekirdağ is the house where Prince Ferenc II Rákóczi, leader of the Hungarian uprising, lived in exile from 1720 until his death in 1735. It opened as a museum in 1982 with furniture and documents.",
+   "tip": "Closed Mondays. Pair with the Namık Kemal house nearby.",
+   "q": "Rakoczi Müzesi, Barbaros Mahallesi, Süleymanpaşa, Tekirdağ",
+   "ll": [
+    40.97412,
+    27.50995
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/R%C3%A1k%C3%B3czi_Museum,_Tekirda%C4%9F"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "namikkemalevi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Step into the birthplace of poet Namık Kemal",
+   "desc": "Namık Kemal, the Ottoman poet and patriot, was born in Tekirdağ in 1840. His house was restored in 1993 and opened as a museum with his works and belongings.",
+   "tip": "Check hours, as sources disagree on weekend closing; it takes 20 minutes.",
+   "q": "Namık Kemal Evi, Namık Kemal Caddesi, Süleymanpaşa, Tekirdağ",
+   "ll": [
+    40.97903,
+    27.5167
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Nam%C4%B1k_Kemal_House_Museum,_Tekirda%C4%9F"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "tekirdagmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See 23,000 finds at the Tekirdağ Archaeology and Ethnography Museum",
+   "desc": "The museum occupies a 1927 former governor's building and opened as a museum in 1992. It shows about 23,000 archaeological and ethnographic objects from Thrace.",
+   "tip": "Closed Mondays. Allow an hour.",
+   "q": "Tekirdağ Arkeoloji ve Etnografya Müzesi, Süleymanpaşa, Tekirdağ",
+   "ll": [
+    40.97579,
+    27.51266
+   ],
+   "src": [
+    "https://www.flypgs.com/sehir-rehberi/tekirdag-gezilecek-yerler"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rustempasa",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Rüstem Paşa Mosque, attributed to Sinan",
+   "desc": "Rüstem Paşa Mosque in Tekirdağ was commissioned by Grand Vizier Rüstem Pasha in the mid-16th century and its design is attributed to Mimar Sinan. The old bazaar of the same name stands beside it.",
+   "tip": "Free outside prayer times. Walk the adjoining bazaar for local goods.",
+   "q": "Rüstem Paşa Camii, Süleymanpaşa, Tekirdağ",
+   "ll": [
+    40.97779,
+    27.51626
+   ],
+   "src": [
+    "https://www.flypgs.com/sehir-rehberi/tekirdag-gezilecek-yerler"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "tekirdagphoto",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Browse old Tekirdağ photographs in a 1922 mansion",
+   "desc": "The Eski Tekirdağ Fotoğrafları Müzesi occupies a 1922 mansion and shows more than 1,500 historical photographs of the city.",
+   "tip": "Small museum; check opening days locally.",
+   "q": "Eski Tekirdağ Fotoğrafları Müzesi, Süleymanpaşa, Tekirdağ",
+   "ll": [
+    40.979,
+    27.512
+   ],
+   "src": [
+    "https://www.sondakika.com/guncel/haber-tekirdag-dimitrios-mavridis-in-mubadele-oncesi-11494793/",
+    "https://goturkiye.com/tekirdag/see"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "horafeneri",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Photograph the 1861 Hora Lighthouse at Hoşköy",
+   "desc": "The Hora lighthouse at Hoşköy is a 20 m iron tower built in 1861 with materials from France, and still guides ships in the Marmara Sea.",
+   "tip": "Hoşköy is a fishing village; combine with fresh fish nearby.",
+   "q": "Hora Feneri, Hoşköy, Şarköy, Tekirdağ",
+   "ll": [
+    40.70291,
+    27.30683
+   ],
+   "src": [
+    "https://turkeymarinas.blogspot.com/2018/09/hoskoy-lighthouse-restaurant.html",
+    "https://www.dailysabah.com/travel/2017/09/07/hora-lighthouse-centuries-old-illuminator-of-the-sea-of-marmara"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "corluwax",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Meet 110 wax figures at the Çorlu Wax Museum",
+   "desc": "The Yılmaz Büyükerşen Wax Museum opened in 2020 in a former municipal building in Çorlu and shows around 110 figures of writers, artists and politicians.",
+   "tip": "Indoors, about an hour; check weekday opening.",
+   "q": "Yılmaz Büyükerşen Balmumu Heykeller Müzesi, Çorlu, Tekirdağ",
+   "ll": [
+    41.16264,
+    27.79901
+   ],
+   "src": [
+    "https://www.flypgs.com/sehir-rehberi/tekirdag-gezilecek-yerler"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "perinthos",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore ancient Perinthos at Marmaraereğlisi",
+   "desc": "Marmaraereğlisi stands on ancient Perinthos, once a major Roman and Byzantine port with harbour, walls and a theatre. The site is protected.",
+   "tip": "Ruins are scattered; the town's seafront is the best base.",
+   "q": "Perinthos Antik Kenti, Marmaraereğlisi, Tekirdağ",
+   "ll": [
+    40.96563,
+    27.95654
+   ],
+   "src": [
+    "https://www.flypgs.com/sehir-rehberi/tekirdag-gezilecek-yerler",
+    "https://en.wikipedia.org/wiki/Perinthus"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sokullu",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Sinan's Sokollu Mehmed Pasha complex in Lüleburgaz",
+   "desc": "The Sokollu Mehmed Pasha complex in Lüleburgaz was built around 1570 by Mimar Sinan and includes a mosque, bath, madrasa and caravanserai.",
+   "tip": "Free to enter outside prayer times; the covered bazaar is in the same complex.",
+   "q": "Sokullu Mehmet Paşa Külliyesi, Lüleburgaz, Kırklareli",
+   "ll": [
+    41.40795,
+    27.35112
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Sokollu_Mehmed_Pasha_Mosque,_L%C3%BCleburgaz",
+    "https://islamansiklopedisi.org.tr/sokullu-mehmed-pasa-kulliyesi--luleburgaz"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "babaeskiali",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Sinan's Cedid Ali Paşa Mosque in Babaeski",
+   "desc": "The Cedid Ali Paşa Mosque in Babaeski is attributed to Mimar Sinan and dates to the mid-16th century. A 1633 Ottoman bridge stands nearby.",
+   "tip": "Free outside prayer times; the old bridge is a short walk away.",
+   "q": "Cedid Ali Paşa Camii, Babaeski, Kırklareli",
+   "ll": [
+    41.42813,
+    27.09718
+   ],
+   "src": [
+    "https://cnnturk.com/seyahat/kirklarelinde-gormeniz-gereken-6-tarihi-ve-dini-mekan-581142",
+    "https://www.ktb.gov.tr/EN-99277/kirklareli.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "vizeayasofya",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Byzantine Little Hagia Sophia of Vize",
+   "desc": "The Vize Ayasofya (Gazi Süleyman Paşa Mosque) is a 6th-century Justinianic church between the inner and outer walls of Vize, converted into a mosque in the 16th century.",
+   "tip": "Free; combine with the Vize castle walls.",
+   "q": "Gazi Süleyman Paşa Camii (Küçük Ayasofya), Kale Mahallesi, Vize, Kırklareli",
+   "ll": [
+    41.5764,
+    27.76721
+   ],
+   "src": [
+    "https://kureansiklopedi.com/tr/detay/vize-kucuk-ayasofya-camii-gazi-suleyman-pasa-camii",
+    "https://en.wikivoyage.org/wiki/Vize"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "vizekalesi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the Roman-era walls of Vize castle",
+   "desc": "Vize castle encircles the north and west of the old town in the Kale quarter and dates back to the Roman and Byzantine period. Vize was the ancient Bizye, a Thracian royal seat.",
+   "tip": "Free; wear sturdy shoes on uneven ground.",
+   "q": "Vize Kalesi, Kale Mahallesi, Vize, Kırklareli",
+   "ll": [
+    41.57887,
+    27.76614
+   ],
+   "src": [
+    "https://enuygun.com/bilgi/kirklareli-nde-gezilecek-yerler"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "demirkoyfoundry",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Fatih cannon foundry in Demirköy",
+   "desc": "The Demirköy foundry is credited with casting cannons and balls used in the 1453 siege of Constantinople, drawing on Strandzha's iron ore.",
+   "tip": "Check opening, as visits can be by arrangement; combine with Dupnisa and İğneada.",
+   "q": "Demirköy Fatih Dökümhanesi, Demirköy, Kırklareli",
+   "ll": [
+    41.81714,
+    27.81377
+   ],
+   "src": [
+    "https://enuygun.com/bilgi/kirklareli-nde-gezilecek-yerler"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kiyikoykale",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Catch the sunset from Kıyıköy's fortress and Aşıklar Hill",
+   "desc": "Kıyıköy sits on a Black Sea cliff with a Byzantine fortress and the Aşıklar viewpoint above the Kazandere river mouth. The village beach lies at the foot of the cliff.",
+   "tip": "Climb in late afternoon; the river-mouth beach is good in summer.",
+   "q": "Kıyıköy Kalesi, Kıyıköy, Vize, Kırklareli",
+   "ll": [
+    41.63317,
+    28.09817
+   ],
+   "src": [
+    "https://cnnturk.com/seyahat/trakyanin-incisi-kiyikoy-ziyaretcilerini-cezbediyor-1670328"
+   ]
+  },
+  {
+   "id": "ucmakdere",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Paraglide from Ganos mountain at Uçmakdere",
+   "desc": "Uçmakdere in Şarköy is the Marmara coast's paragliding centre, with take-offs on slopes of the Ganos range and landings by the sea. Flights last about 20 minutes.",
+   "tip": "Tandem flights run most of the year in good wind; book a local operator.",
+   "q": "Uçmakdere Yamaç Paraşütü, Uçmakdere, Şarköy, Tekirdağ",
+   "ll": [
+    40.81076,
+    27.39205
+   ],
+   "src": [
+    "https://www.ntv.com.tr/n-life/gezi/ucmakdere-yamac-parasutu-tutkunlarini-agirliyor,RdqvEQJaG0qK33mRJZNJbA",
+    "https://cnnturk.com/seyahat/tekirdagda-gormeye-doyamayacaginiz-8-doga-harikasi-yer?page=1"
+   ]
+  },
+  {
+   "id": "kumbag",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Spend a beach day at Kumbağ",
+   "desc": "Kumbağ is a former Greek village on the Marmara coast with a long sandy beach, pine woods and picnic areas, and hosts seasonal festivals.",
+   "tip": "Quieter on weekdays; the beach is shallow.",
+   "q": "Kumbağ Plajı, Kumbağ, Süleymanpaşa, Tekirdağ",
+   "ll": [
+    40.87956,
+    27.46068
+   ],
+   "src": [
+    "https://www.flypgs.com/sehir-rehberi/tekirdag-gezilecek-yerler"
+   ]
+  },
+  {
+   "id": "sarkoybeach",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim on Şarköy's Blue Flag beaches",
+   "desc": "Şarköy has a long sandy coastline with Blue Flag beaches and fishing harbours on the Marmara Sea.",
+   "tip": "Best June to September.",
+   "q": "Şarköy Plajı, Şarköy, Tekirdağ",
+   "ll": [
+    40.61074,
+    27.11927
+   ],
+   "src": [
+    "https://www.ntv.com.tr/n-life/gezi/sarkoy-tatilcileri-mavi-ve-yesille-bulusturuyor,ZoaKNoIa50uTGzxnNmk7MA",
+    "https://www.haberturk.com/sarkoy-mavi-bayrakli-plajlariyla-dogayla-ic-ice-tatil-imkani-sunuyor-3610911"
+   ]
+  },
+  {
+   "id": "kazakgolu",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Picnic and walk at Kazak Lake near Kapaklı",
+   "desc": "Kazak Gölü is a nature recreation area about 3 km from Kapaklı with walking trails, playgrounds and sports fields.",
+   "tip": "Free; easy half day from Çorlu.",
+   "q": "Kazak Gölü Mesire Alanı, Kapaklı, Tekirdağ",
+   "ll": [
+    41.35201,
+    28.00307
+   ],
+   "src": [
+    "https://www.flypgs.com/sehir-rehberi/tekirdag-gezilecek-yerler"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "barbare",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste biodynamic wines and village breakfast at Barbare",
+   "desc": "Barbare is a vineyard house and restaurant near Tekirdağ, founded in 2000 and farmed organically and biodynamically. It serves village breakfast and cheese platters with its wines.",
+   "tip": "Book ahead, especially at harvest.",
+   "q": "Barbare Bağları, Yazır, Süleymanpaşa, Tekirdağ",
+   "ll": [
+    40.92913,
+    27.43681
+   ],
+   "src": [
+    "https://yemek.com/tekirdag-mekanlari/",
+    "https://thequirkycork.com/turkish-wine-routes-part-four-thrace/"
+   ]
+  },
+  {
+   "id": "chateaukalpak",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Visit Chateau Kalpak's vineyards above Şarköy",
+   "desc": "Chateau Kalpak is a Şarköy winery on a small hill about 10 km from the town with wide views, and has won gold medals in European competitions.",
+   "tip": "Visits by online appointment.",
+   "q": "Chateau Kalpak, Şarköy, Tekirdağ",
+   "ll": [
+    40.65456,
+    27.05497
+   ],
+   "src": [
+    "https://goturkiye.com/vineyards/thrace-vineyard-route",
+    "https://vinerra.com/sub-region/turkey-thrace-sarkoy"
+   ]
+  },
+  {
+   "id": "umurbey",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Sip estate wine at Umurbey Winehouse in Tekirdağ",
+   "desc": "Umurbey Winehouse in Tekirdağ makes wine entirely from its own grapes and serves cheese platters, tapas and seafood.",
+   "tip": "Order a tasting flight with the cheese platter.",
+   "q": "Umurbey Winehouse, Süleymanpaşa, Tekirdağ",
+   "ll": [
+    40.978,
+    27.509
+   ],
+   "src": [
+    "https://thequirkycork.com/turkish-wine-routes-part-four-thrace/",
+    "https://www.turna.com/blog/?p=335"
+   ]
+  },
+  {
+   "id": "abdiozcan",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Tekirdağ köfte at Meşhur Köfteci Abdi Özcan",
+   "desc": "Abdi Özcan is a small köfte house in Tekirdağ centre serving the city's spicy köfte, lentil soup and Hayrabolu or cheese dessert.",
+   "tip": "Order köfte with piyaz and ayran, then Hayrabolu tatlısı.",
+   "q": "Meşhur Köfteci Abdi Özcan, Ortacami Mahallesi, Süleymanpaşa, Tekirdağ",
+   "ll": [
+    40.9775,
+    27.513
+   ],
+   "src": [
+    "https://yemek.com/tekirdag-mekanlari/"
+   ]
+  },
+  {
+   "id": "iskelerum",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Share saganaki and fish kokoreç at İskele Rum Meyhanesi",
+   "desc": "İskele Rum Meyhanesi in Tekirdağ cooks Greek-style meyhane dishes such as saganaki, fish kokoreç and tongue-fish wrapped in vine leaves.",
+   "tip": "Book for weekend evenings.",
+   "q": "İskele Rum Meyhanesi, Altınova Mahallesi, Süleymanpaşa, Tekirdağ",
+   "ll": [
+    40.93783,
+    27.48538
+   ],
+   "src": [
+    "https://yemek.com/tekirdag-mekanlari/"
+   ]
+  },
+  {
+   "id": "sarpastanesi",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try peynir helvası at Şar Pastanesi in Tekirdağ",
+   "desc": "Şar Pastanesi serves peynir helvası plain, with ice cream or chocolate sauce, plus other syrupy and milk desserts.",
+   "tip": "Ask for it warm.",
+   "q": "Şar Pastanesi, Ertuğrul Mahallesi, Süleymanpaşa, Tekirdağ",
+   "ll": [
+    40.97804,
+    27.51158
+   ],
+   "src": [
+    "https://yemek.com/tekirdag-mekanlari/"
+   ]
+  },
+  {
+   "id": "yalicerkezkoy",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Grill lamb at Yalı Restaurant in Çerkezköy",
+   "desc": "Yalı Restaurant in Çerkezköy began in 1997 as a trout restaurant and now grills veal and lamb dishes such as küşleme and cheese köfte, with a play park.",
+   "tip": "Good for families.",
+   "q": "Yalı Restaurant, Veliköy Mahallesi, Çerkezköy, Tekirdağ",
+   "ll": [
+    41.25306,
+    27.91939
+   ],
+   "src": [
+    "https://yemek.com/tekirdag-mekanlari/"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,535 @@
+{
+ "new": [
+  {
+   "id": "selimiyecamii",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stand under the dome of the Selimiye Mosque",
+   "desc": "Mimar Sinan's self-declared masterpiece, built 1569-1575 for Sultan Selim II, has a dome slightly wider than Hagia Sophia's and four 71 m minarets. It is a UNESCO World Heritage Site since 2011.",
+   "tip": "Go outside prayer times and dress modestly; the courtyard is free and the interior is best in morning light.",
+   "q": "Selimiye Camii, Meydan, Edirne Merkez, Edirne",
+   "ll": [
+    41.67786,
+    26.5592
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Selimiye_Mosque,_Edirne",
+    "https://whc.unesco.org/en/list/1366/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "turkislammuzesi",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Browse the Turkish and Islamic Arts Museum",
+   "desc": "Housed in the former medrese of the Selimiye complex, the museum opened in 1925 and holds calligraphy, tombstones, weapons and dervish-lodge objects. One room shows tiles excavated at Edirne Palace and another is devoted to Kırkpınar wrestling.",
+   "tip": "Combine with the mosque visit; closed Mondays.",
+   "q": "Edirne Türk ve İslam Eserleri Müzesi, Selimiye Camii Külliyesi, Edirne Merkez, Edirne",
+   "ll": [
+    41.67806,
+    26.55955
+   ],
+   "src": [
+    "https://islamansiklopedisi.org.tr/edirne-turk-ve-islam-eserleri-muzesi"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "eskicamii",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Old Mosque and its giant calligraphy",
+   "desc": "Begun in 1403 and finished in 1414 under Mehmed I, the Eski Cami is Edirne's oldest great mosque, a square hall with nine domes. Its walls carry huge Ottoman calligraphic panels.",
+   "tip": "Free entry outside prayer times; the Bedesten and Tunca Cafe are next door.",
+   "q": "Eski Cami, Talat Paşa Caddesi, Edirne Merkez, Edirne",
+   "ll": [
+    41.6759,
+    26.5548
+   ],
+   "src": [
+    "https://ktb.gov.tr/EN-99265/edirne.html",
+    "https://planetware.com/turkey/top-rated-things-to-do-in-edirne-tr-1-28.htm"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ucserefeli",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Count the balconies of the Üç Şerefeli Mosque",
+   "desc": "Finished in 1447 under Murad II, it was the largest mosque in the Ottoman Empire of its day and introduced a courtyard with a central fountain. The tallest of its four minarets has three balconies, giving the mosque its name.",
+   "tip": "Free; stand in the courtyard to compare the four different minarets.",
+   "q": "Üç Şerefeli Camii, Hükümet Caddesi, Edirne Merkez, Edirne",
+   "ll": [
+    41.67852,
+    26.55304
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/%C3%9C%C3%A7_%C5%9Eerefeli_Mosque",
+    "https://planetware.com/turkey/top-rated-things-to-do-in-edirne-tr-1-28.htm"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "edirnebedesten",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk through the 1418 Bedesten",
+   "desc": "Built around 1418 under Mehmed I, the Bedesten is Edirne's oldest covered market, a domed hall whose rents helped fund the Old Mosque. It still holds souvenir and antique stalls.",
+   "tip": "Quiet in the morning; look up at the domes.",
+   "q": "Bedesten, Talat Paşa Caddesi, Edirne Merkez, Edirne",
+   "ll": [
+    41.6762,
+    26.5552
+   ],
+   "src": [
+    "https://www.turkisharchaeonews.net/object/bedesten-edirne"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rustempasahan",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step into Rüstem Paşa Caravanserai",
+   "desc": "Mimar Sinan built this two-courtyard caravanserai in 1561 for Grand Vizier Rüstem Paşa. It now works as a hotel and its courtyard is open to coffee-drinking visitors.",
+   "tip": "Walk in for a coffee; the arcaded upper floor gives the best view of the courtyard.",
+   "q": "Rüstem Paşa Kervansarayı, Talat Paşa Caddesi, Edirne Merkez, Edirne",
+   "ll": [
+    41.67555,
+    26.5547
+   ],
+   "src": [
+    "https://www.enuygun.com/bilgi/edirne-de-gezilecek-yerler/",
+    "https://www.turkisharchaeonews.net/object/bedesten-edirne"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "alipasacarsisi",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stroll the Sinan-built Ali Paşa Bazaar",
+   "desc": "Mimar Sinan designed this 300 m vaulted market in 1569 for Grand Vizier Semiz Ali Paşa. Domed shops line both sides of a single covered street.",
+   "tip": "Best on weekday mornings when the shops are open.",
+   "q": "Ali Paşa Çarşısı, Saraçlar Caddesi, Edirne Merkez, Edirne",
+   "ll": [
+    41.67557,
+    26.5527
+   ],
+   "src": [
+    "https://islamansiklopedisi.org.tr/ali-pasa-carsisi",
+    "https://turkisharchaeonews.net/object/ali-pasha-bazaar-edirne"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bayezidkulliyesi",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Bayezid II complex and its Health Museum",
+   "desc": "Built 1484-1488 on the Tunca bank, this külliye included a hospital and medical school where music, water and scents were used to treat mental illness. Today the Health Museum shows the treatments with life-size figures.",
+   "tip": "Allow an hour; the setting by the river is quiet.",
+   "q": "Sultan II. Bayezid Külliyesi Sağlık Müzesi, Yıldırım, Edirne Merkez, Edirne",
+   "ll": [
+    41.6863,
+    26.54378
+   ],
+   "src": [
+    "https://www.hurriyet.com.tr/seyahat/balkanlara-acilan-tarihi-kapi-edirne-40109801",
+    "https://www.enuygun.com/bilgi/edirne-de-gezilecek-yerler/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "edirnesinagog",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Look up inside the Grand Synagogue",
+   "desc": "The 1907 Great Synagogue is among the largest in Europe, with a huge central dome. After decades of neglect it was restored by the Foundations Directorate and reopened.",
+   "tip": "Opening times vary; check at the entrance on Maarif Caddesi.",
+   "q": "Edirne Büyük Sinagogu, Maarif Caddesi, Edirne Merkez, Edirne",
+   "ll": [
+    41.6716,
+    26.55163
+   ],
+   "src": [
+    "https://www.hurriyet.com.tr/haberleri/edirne-sinagog",
+    "https://www.enuygun.com/bilgi/edirne-de-gezilecek-yerler/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bulgarkilisesi",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the Bulgarian St George church",
+   "desc": "The Bulgarian Church of St George in Kıyık dates from 1880 and served Edirne's Bulgarian community. It is among the best-preserved Orthodox churches in the city.",
+   "tip": "Ask about visiting times at the gate.",
+   "q": "Sveti Georgi Bulgar Kilisesi, Kıyık Mahallesi, Edirne Merkez, Edirne",
+   "ll": [
+    41.68042,
+    26.57029
+   ],
+   "src": [
+    "https://www.enuygun.com/bilgi/edirne-de-gezilecek-yerler/",
+    "https://www.etstur.com/letsgo/edirnede-gezilecek-yerler/"
+   ]
+  },
+  {
+   "id": "mericbridge",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Cross the Mecidiye (Meriç) Bridge",
+   "desc": "The Mecidiye Bridge over the Meriç river was built in the 19th century and leads to Karaağaç. Cafes and restaurants sit beside it with views of the river.",
+   "tip": "Walk across at golden hour and continue to Karaağaç station.",
+   "q": "Meriç Köprüsü, Karaağaç Yolu, Edirne Merkez, Edirne",
+   "ll": [
+    41.66221,
+    26.55193
+   ],
+   "src": [
+    "https://en.wikipedia.com/wiki/Meri%C3%A7_Bridge",
+    "https://www.cumhuriyet.com.tr/yazarlar/nilay-kucuk/meric-nehrinin-kiyisinda-yemyesil-bir-mahalle-karaagac-2202780"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "tuncabridge",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Cross the old Tunca Bridge",
+   "desc": "The Tunca Bridge is a historic stone bridge over the Tunca river with riverside rest areas. It lies on the route between the centre and Karaağaç.",
+   "tip": "Pair it with a walk along the Tunca towards Sarayiçi.",
+   "q": "Tunca Köprüsü, Edirne Merkez, Edirne",
+   "ll": [
+    41.66786,
+    26.55418
+   ],
+   "src": [
+    "https://kupi.com/en/explore/turkey/edirne/meric-bridge",
+    "https://www.enuygun.com/bilgi/edirne-de-gezilecek-yerler/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "lozananit",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See Karaağaç station and the Lausanne monument",
+   "desc": "The 1914 Karaağaç station was ceded to Greece by the 1923 Treaty of Lausanne and returned to Türkiye in 1971. A monument nearby recalls the treaty, and the old station building now belongs to Trakya University.",
+   "tip": "Free to see from outside; Lozan Cafe has tables next door.",
+   "q": "Karaağaç Garı ve Lozan Anıtı, Karaağaç Mahallesi, Edirne Merkez, Edirne",
+   "ll": [
+    41.65262,
+    26.52002
+   ],
+   "src": [
+    "https://wikipedia.com/wiki/Karaa%C4%9Fa%C3%A7,_Edirne"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kirkpinarevi",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Peek into the Kırkpınar House museum",
+   "desc": "A 19th-century timber house on Maarif Street is a free museum of Turkish oil wrestling, with photographs, press clippings and wrestler mannequins.",
+   "tip": "Free entry; opposite Polis Parkı.",
+   "q": "Kırkpınar Evi, Maarif Caddesi, Edirne Merkez, Edirne",
+   "ll": [
+    41.67587,
+    26.55424
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/points-of-interest/kirkpinar-evi/1247678",
+    "https://turkisharchaeonews.net/object/k%C4%B1rkp%C4%B1nar-house-edirne"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "edirnesarayi",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Wander the ruins of Edirne Palace (Sarayiçi)",
+   "desc": "Built from about 1450 for Murad II, the palace was an Ottoman court before Istanbul and was largely destroyed in the early 20th century. Surviving fragments and restored kitchens lie scattered across Sarayiçi.",
+   "tip": "Allow a couple of hours on foot.",
+   "q": "Edirne Sarayı, Sarayiçi, Yıldırım, Edirne Merkez, Edirne",
+   "ll": [
+    41.6911,
+    26.55515
+   ],
+   "src": [
+    "https://wikipedia.com/wiki/Edirne_Palace",
+    "https://planetware.com/turkey/top-rated-things-to-do-in-edirne-tr-1-28.htm"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kentmuzesi",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Tour the Edirne City Museum in the Hafız Ağa Mansion",
+   "desc": "The Kent Müzesi occupies the Hafız Ağa Konağı and shows the social history of the city through period rooms.",
+   "tip": "Closed Mondays; small and quick to visit.",
+   "q": "Edirne Kent Müzesi, Hafız Ağa Konağı, Edirne Merkez, Edirne",
+   "ll": [
+    41.67902,
+    26.55792
+   ],
+   "src": [
+    "https://www.tursab.org.tr/apps//Files/Content/69fe8b76-3c81-4301-81c6-413ae3173e87.pdf",
+    "https://www.hurriyet.com.tr/seyahat/uc-imparatorlugun-izinde-edirnede-muzelerle-zaman-yolculugu-42948167"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "edirnemuzesi",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore the Edirne Archaeology and Ethnography Museum",
+   "desc": "The museum near the Selimiye shows finds from excavations around Edirne, including the Macedonian Tower, plus ethnographic displays.",
+   "tip": "Closed Mondays; check hours.",
+   "q": "Edirne Müzesi, Mimar Sinan Caddesi, Edirne Merkez, Edirne",
+   "ll": [
+    41.67889,
+    26.56077
+   ],
+   "src": [
+    "https://www.hurriyet.com.tr/seyahat/uc-imparatorlugun-izinde-edirnede-muzelerle-zaman-yolculugu-42948167",
+    "https://www.anatolianarchaeology.net/tag/edirne-museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "kumkasrihamami",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find the Kum Kasrı Bath in Sarayiçi",
+   "desc": "The Kum Kasrı Hamamı is the only bath of the Edirne Palace complex to survive to the present day.",
+   "tip": "Include it in your Sarayiçi walk.",
+   "q": "Kum Kasrı Hamamı, Sarayiçi, Edirne Merkez, Edirne",
+   "ll": [
+    41.69113,
+    26.55643
+   ],
+   "src": [
+    "https://www.tursab.org.tr/apps//Files/Content/69fe8b76-3c81-4301-81c6-413ae3173e87.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "aydintavaciger",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat tava ciğer at Aydın Tava Ciğer",
+   "desc": "Edirne's fried liver, cut thin and crisp and served with dried red chilli, onion and pickled peppers, is the city's signature dish. Aydın has served it in Tahmis Çarşısı since 1998 and also makes Edirne köfte.",
+   "tip": "Expect a queue at lunchtime; ask for the dried chilli on the side.",
+   "q": "Aydın Tava Ciğer, Tahmis Çarşısı Sokak, Sabuni Mahallesi, Edirne Merkez, Edirne",
+   "ll": [
+    41.67586,
+    26.55443
+   ],
+   "src": [
+    "https://yemek.com/edirnede-en-iyi-ciger-nerede-yenir/",
+    "https://yemek.com/edirne-mekanlari/"
+   ]
+  },
+  {
+   "id": "kececizade",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Buy badem ezmesi at Keçecizade",
+   "desc": "A confectioner since 1961 on Hükümet Caddesi, known for Edirne's almond paste, almond cookies and chocolate-coated orange peel.",
+   "tip": "Buy a box of badem ezmesi to take home.",
+   "q": "Keçecizade, Hükümet Caddesi, Edirne Merkez, Edirne",
+   "ll": [
+    41.60131,
+    26.66642
+   ],
+   "src": [
+    "https://yemek.com/edirne-mekanlari/"
+   ]
+  },
+  {
+   "id": "arslanzade",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Taste deva-i misk halva at Arslanzade",
+   "desc": "Arslanzade makes Edirne's kallavi and kavala cookies, lokum, almond paste and deva-i misk, a musk-scented Ottoman halva with geographical indication.",
+   "tip": "Try the pistachio-honey-saffron kallavi cookies too.",
+   "q": "Arslanzade, Lalapaşa Yolu, Şükrüpaşa Mahallesi, Edirne Merkez, Edirne",
+   "ll": [
+    41.68713,
+    26.58897
+   ],
+   "src": [
+    "https://yemek.com/edirne-mekanlari/",
+    "https://www.dailysabah.com/life/food/ottoman-cuisine-edirnes-historical-lesser-known-food-perfections"
+   ]
+  },
+  {
+   "id": "tadimmenemen",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have cheesy menemen at Tadım Kahvaltı",
+   "desc": "A breakfast spot near Saraçlar known for menemen with kaşar, sucuk or kavurma, and eggs with pastırma.",
+   "tip": "Order a ballı süt with it.",
+   "q": "Tadım Kahvaltı Salonu, Yüksek Kahve Sokak, Sabuni Mahallesi, Edirne Merkez, Edirne",
+   "ll": [
+    41.67651,
+    26.55363
+   ],
+   "src": [
+    "https://yemek.com/edirnenin-en-iyi-kahvalti-mekanlari/",
+    "https://yemek.com/edirne-mekanlari/"
+   ]
+  },
+  {
+   "id": "lalezar",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine by the Meriç at Lalezar Restaurant",
+   "desc": "A riverside restaurant on Lozan Caddesi with views of the Meriç; it serves no alcohol.",
+   "tip": "Ask for a river-view table.",
+   "q": "Lalezar Restaurant, Lozan Caddesi, Karaağaç Mahallesi, Edirne Merkez, Edirne",
+   "ll": [
+    41.66222,
+    26.54928
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/2911292/lalezar-restaurant",
+    "https://redirect.foursquare.com/ozgedervis/list/guide-to-edirnes-best-spots"
+   ]
+  },
+  {
+   "id": "kirkpinarkasap",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat kaşarlı köfte at Kırkpınar Kasap",
+   "desc": "A butcher-restaurant in Binevler known for kaşarlı köfte, lamb külbastı and steaks.",
+   "tip": "A local favourite away from the tourist streets.",
+   "q": "Kırkpınar Kasap Restoran, Binevler Sosyal Tesisleri, Fatih Mahallesi, Edirne Merkez, Edirne",
+   "ll": [
+    41.65879,
+    26.58958
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/10605719"
+   ]
+  },
+  {
+   "id": "kakava",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Join the Kakava and Hıdırellez fire at Sarayiçi",
+   "desc": "Each 5-6 May Edirne lights the Kakava fire at Sarayiçi and later sends wishes down the Tunca. The Roma spring festival is on UNESCO's intangible heritage list.",
+   "tip": "Arrive early; thousands attend.",
+   "q": "Sarayiçi Er Meydanı, Yıldırım, Edirne Merkez, Edirne",
+   "ll": [
+    41.68951,
+    26.558
+   ],
+   "src": [
+    "https://www.dha.com.tr/foto-galeri/edirnede-kakava-ve-hidrellez-senlikleri-renkli-goruntulerle-basladi-2433497",
+    "https://www.ntv.com.tr/gundem/galeri-edirnede-kakava-coskusu-binlerce-kisi-akin-etti-1722958"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    5
+   ]
+  },
+  {
+   "id": "kirkpinarguresleri",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Watch the Kırkpınar oil wrestling",
+   "desc": "Held every summer at Sarayiçi, the Kırkpınar is claimed as the world's oldest continuous sporting event and is on UNESCO's list. The 665th edition ran 3-5 July 2026; the arena may move about 400 m for the next one.",
+   "tip": "Buy tickets in advance.",
+   "q": "Kırkpınar Er Meydanı, Sarayiçi, Yıldırım, Edirne Merkez, Edirne",
+   "ll": [
+    41.68951,
+    26.558
+   ],
+   "src": [
+    "https://www.gzt.com/spor/665-tarihi-kirkpinar-yagli-guresleri-basladi-4238106",
+    "https://en.wikipedia.com/wiki/Kirkpinar"
+   ],
+   "months": [
+    6,
+    7
+   ]
+  },
+  {
+   "id": "turkuazsabun",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Shop for meyve sabunu at Turkuaz",
+   "desc": "Edirne's fruit-shaped soaps are an Ottoman souvenir with geographical indication; Lonely Planet names Turkuaz in the Ali Paşa Bazaar as one of the best places to buy them.",
+   "tip": "Check the scent labels before buying.",
+   "q": "Turkuaz, Ali Paşa Çarşısı, Edirne Merkez, Edirne",
+   "ll": [
+    41.66696,
+    26.59571
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/turkey/edirne/shopping",
+    "https://wanderlog.com/place/details/4345559/alipasha-bazaar"
+   ]
+  },
+  {
+   "id": "arastashopping",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Selimiye Arasta",
+   "desc": "The arasta beside the Selimiye Mosque was built by Davut Ağa in the 16th century to support the mosque; craft and souvenir shops fill it.",
+   "tip": "Look for Edirne soap and sweets.",
+   "q": "Selimiye Arastası, Meydan, Edirne Merkez, Edirne",
+   "ll": [
+    41.67814,
+    26.55934
+   ],
+   "src": [
+    "https://www.haberturk.com/selimiye-nin-gelir-kapisi-arasta-carsisi-2135134"
+   ]
+  }
+ ]
+}

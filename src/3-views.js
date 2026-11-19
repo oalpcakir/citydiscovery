@@ -813,7 +813,7 @@
     var cat = ui.evCat || "all", Q = community.quests || {}, R = community.recent || {};
     var inCat = function (counts) { var o = {}; Object.keys(counts).forEach(function (k) { var q = byKey[k]; if (q && (cat === "all" || q.cat === cat)) o[k] = counts[k]; }); return o; };
     var regs = {}; Object.keys(community.regions || {}).forEach(function (id) { if (cities[id]) regs[id] = community.regions[id]; });
-    var html = '<p class="note flat center">' + fmt(community.explorers) + ' explorers · updated ' + dateText(community.updated) + '</p>';
+    var html = '<p class="note flat center">' + fmt(community.explorers) + (community.explorers === 1 ? ' explorer' : ' explorers') + ' · updated ' + dateText(community.updated) + '</p>';
     html += '<h2>Most explored regions</h2><div class="panel ranks">' + rankRows(topBy(regs, 25).map(function (id) {
       var c = cities[id];
       return { n: regs[id], attr: 'data-city="' + id + '"', html: '<b>' + flagHtml(c.country) + esc(c.name) + '</b><small>' + esc(c.subtitle || c.country) + '</small>' };

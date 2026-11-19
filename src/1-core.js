@@ -385,7 +385,9 @@
   ];
   function profile() {
     var p = store.profile || {};
-    return { name: p.name || "", avatar: p.avatar || "🎒", cls: p.cls || "", frame: p.frame || "none",
+    // Avatar and frame go into HTML as they are, so only accept safe values (a pasted backup can hold anything).
+    var safe = function (v, re, d) { return typeof v === "string" && re.test(v) ? v : d; };
+    return { name: p.name || "", avatar: safe(p.avatar, /^[^<>&"'\s]{1,12}$/, "🎒"), cls: p.cls || "", frame: safe(p.frame, /^[a-z]{1,20}$/, "none"),
       accent: p.accent || "mint", title: p.title || "", home: p.home || "", noStats: !!p.noStats };
   }
   function unlockLabel(u) {

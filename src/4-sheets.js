@@ -56,7 +56,7 @@
         esc(ph[1]) + ' · ' + esc(ph[2]) + '</a></div>' : "") +
       '<div class="sh"><span class="tile">' + ic(CATS[q.cat].icon) + '</span><div class="grow">' +
         '<span class="badge">' + CATS[q.cat].label + " · " + esc(c.areas[q.area]) + '</span>' +
-        '<h3>' + esc(q.title) + '</h3>' + (doneBy(q.key) ? '<small class="doneby">' + ic("users", "sm") + 'Done by ' + fmt(doneBy(q.key)) + ' explorers</small>' : "") +
+        '<h3>' + esc(q.title) + '</h3>' + (doneBy(q.key) ? '<small class="doneby">' + ic("users", "sm") + 'Done by ' + fmt(doneBy(q.key)) + (doneBy(q.key) === 1 ? ' explorer' : ' explorers') + '</small>' : "") +
         '</div></div>' + rewardHtml(q) +
       '<div class="two">' + (done
         ? '<button class="btn ghost" data-act="toggle-open">' + ic("check") + 'Done · undo</button>' +
@@ -519,6 +519,7 @@
       '<label class="lbl" for="aemail">Email</label><input id="aemail" class="inp" type="email" autocomplete="email" inputmode="email">' +
       '<label class="lbl" for="apass">Password</label><input id="apass" class="inp" type="password" minlength="6" autocomplete="' + (up ? "new-password" : "current-password") + '">' +
       '<p class="note err" id="aerr" hidden></p>' +
+      (up ? '<p class="note center">Your email, progress and photos are stored in Google Firebase (EU) so you can sync. <a href="privacy.html" target="_blank" rel="noopener">Privacy</a></p>' : "") +
       '<div class="actions"><button class="btn" data-act="auth-submit">' + (up ? "Create account" : "Sign in") + '</button>' +
       '<button class="btn plain" data-act="auth-switch">' + (up ? "I already have an account" : "New here? Create an account") + '</button>' +
       (up ? "" : '<button class="btn plain" data-act="auth-reset">Forgot your password?</button>') + '</div>', true);

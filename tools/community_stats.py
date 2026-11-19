@@ -11,7 +11,7 @@ Only totals are written, never who did what:
   countries   per country name, the same
   recent      per quest key, explorers who did it in the last 30 days
 Counts below MIN_COUNT are left out, and nothing at all is published until MIN_EXPLORERS explorers have a quest
-(both 1 for now, while there are few explorers; raise them as the app grows).
+(3 and 5, so no published number points at one person: this repository and its history are public).
 Explorers who turned off "Count me in the community rankings" (profile.noStats) are skipped.
 
 Usage: python tools/community_stats.py [--dry-run]
@@ -20,8 +20,8 @@ import glob, io, json, os, re, sys, time
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "web", "community.json")
-MIN_COUNT = 1
-MIN_EXPLORERS = 1
+MIN_COUNT = 3
+MIN_EXPLORERS = 5
 RECENT_DAYS = 30
 
 

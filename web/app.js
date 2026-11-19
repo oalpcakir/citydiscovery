@@ -386,7 +386,9 @@
   ];
   function profile() {
     var p = store.profile || {};
-    return { name: p.name || "", avatar: p.avatar || "🎒", cls: p.cls || "", frame: p.frame || "none",
+    // Avatar and frame go into HTML as they are, so only accept safe values (a pasted backup can hold anything).
+    var safe = function (v, re, d) { return typeof v === "string" && re.test(v) ? v : d; };
+    return { name: p.name || "", avatar: safe(p.avatar, /^[^<>&"'\s]{1,12}$/, "🎒"), cls: p.cls || "", frame: safe(p.frame, /^[a-z]{1,20}$/, "none"),
       accent: p.accent || "mint", title: p.title || "", home: p.home || "", noStats: !!p.noStats };
   }
   function unlockLabel(u) {
@@ -2088,7 +2090,7 @@
     var cat = ui.evCat || "all", Q = community.quests || {}, R = community.recent || {};
     var inCat = function (counts) { var o = {}; Object.keys(counts).forEach(function (k) { var q = byKey[k]; if (q && (cat === "all" || q.cat === cat)) o[k] = counts[k]; }); return o; };
     var regs = {}; Object.keys(community.regions || {}).forEach(function (id) { if (cities[id]) regs[id] = community.regions[id]; });
-    var html = '<p class="note flat center">' + fmt(community.explorers) + ' explorers · updated ' + dateText(community.updated) + '</p>';
+    var html = '<p class="note flat center">' + fmt(community.explorers) + (community.explorers === 1 ? ' explorer' : ' explorers') + ' · updated ' + dateText(community.updated) + '</p>';
     html += '<h2>Most explored regions</h2><div class="panel ranks">' + rankRows(topBy(regs, 25).map(function (id) {
       var c = cities[id];
       return { n: regs[id], attr: 'data-city="' + id + '"', html: '<b>' + flagHtml(c.country) + esc(c.name) + '</b><small>' + esc(c.subtitle || c.country) + '</small>' };
@@ -2252,7 +2254,7 @@
         esc(ph[1]) + ' · ' + esc(ph[2]) + '</a></div>' : "") +
       '<div class="sh"><span class="tile">' + ic(CATS[q.cat].icon) + '</span><div class="grow">' +
         '<span class="badge">' + CATS[q.cat].label + " · " + esc(c.areas[q.area]) + '</span>' +
-        '<h3>' + esc(q.title) + '</h3>' + (doneBy(q.key) ? '<small class="doneby">' + ic("users", "sm") + 'Done by ' + fmt(doneBy(q.key)) + ' explorers</small>' : "") +
+        '<h3>' + esc(q.title) + '</h3>' + (doneBy(q.key) ? '<small class="doneby">' + ic("users", "sm") + 'Done by ' + fmt(doneBy(q.key)) + (doneBy(q.key) === 1 ? ' explorer' : ' explorers') + '</small>' : "") +
         '</div></div>' + rewardHtml(q) +
       '<div class="two">' + (done
         ? '<button class="btn ghost" data-act="toggle-open">' + ic("check") + 'Done · undo</button>' +
@@ -2715,6 +2717,7 @@
       '<label class="lbl" for="aemail">Email</label><input id="aemail" class="inp" type="email" autocomplete="email" inputmode="email">' +
       '<label class="lbl" for="apass">Password</label><input id="apass" class="inp" type="password" minlength="6" autocomplete="' + (up ? "new-password" : "current-password") + '">' +
       '<p class="note err" id="aerr" hidden></p>' +
+      (up ? '<p class="note center">Your email, progress and photos are stored in Google Firebase (EU) so you can sync. <a href="privacy.html" target="_blank" rel="noopener">Privacy</a></p>' : "") +
       '<div class="actions"><button class="btn" data-act="auth-submit">' + (up ? "Create account" : "Sign in") + '</button>' +
       '<button class="btn plain" data-act="auth-switch">' + (up ? "I already have an account" : "New here? Create an account") + '</button>' +
       (up ? "" : '<button class="btn plain" data-act="auth-reset">Forgot your password?</button>') + '</div>', true);

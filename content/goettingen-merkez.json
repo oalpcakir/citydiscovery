@@ -1,0 +1,616 @@
+{
+ "new": [
+  {
+   "id": "gogaenseliesel",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Gänseliesel, the most kissed girl in the world",
+   "desc": "The bronze goose girl fountain in front of the Altes Rathaus was erected in 1901. Since then, newly doctorate-holders of the university kiss the statue after their exams. It is the symbol of the city.",
+   "tip": "Best early in the morning before the market crowds. Look for freshly graduated doctors in the square on exam days.",
+   "q": "Gänseliesel, Markt, Göttingen",
+   "ll": [
+    51.53267,
+    9.93516
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/G%C3%A4nseliesel-Brunnen_(G%C3%B6ttingen)",
+    "https://uni-goettingen.de/de/690255.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "goaltesrathaus",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step into the painted hall of the Altes Rathaus",
+   "desc": "The Old Town Hall on the Markt was begun around 1270, with the present building dating from 1369 to 1444. It served the city administration for centuries and still houses the Tourist-Information. The great hall can be visited free of charge.",
+   "tip": "Enter at Markt 9 and look into the hall; it is not step-free. Ask at the Tourist-Information about guided town tours.",
+   "q": "Altes Rathaus, Markt 9, Göttingen",
+   "ll": [
+    51.5329,
+    9.93468
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Altes_Rathaus_(G%C3%B6ttingen)",
+    "https://de.wikivoyage.org/wiki/G%C3%B6ttingen"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "gojohannis",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Hear the tower brass at St. Johannis",
+   "desc": "St. Johannis behind the Altes Rathaus is one of the old town's main Gothic hall churches, with two unequal towers. A tower musicians' tradition continues, with brass played from the tower on Saturdays around 11:00. The tower can be climbed on occasion.",
+   "tip": "Stand on Johannisstraße or the Markt on Saturday late morning for the brass. Ask the Tourist-Information about tower climbs.",
+   "q": "St. Johanniskirche, Johannisstraße, Göttingen",
+   "ll": [
+    51.53299,
+    9.93374
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/St._Johannis_(G%C3%B6ttingen)",
+    "https://de.wikivoyage.org/wiki/G%C3%B6ttingen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gojacobi",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Look up at the Jacobikirche spire on Weender Straße",
+   "desc": "St. Jacobi is a late Gothic hall church whose tall spire dominates the northern old town skyline. It stands at the top of the pedestrian Weender Straße. Organ music is played on Friday evenings from March to December.",
+   "tip": "Friday organ music starts at 18:30. The tower is only open on selected dates.",
+   "q": "St. Jacobi Kirche, Jacobikirchhof 4, Göttingen",
+   "ll": [
+    51.535,
+    9.93587
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/St._Jacobi_(G%C3%B6ttingen)",
+    "https://de.wikivoyage.org/wiki/G%C3%B6ttingen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "goalbani",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit St. Albani, the church of the old village Gutingi",
+   "desc": "St. Albani on the eastern edge of the old town stands at the centre of the historic village of Gutingi, from which Göttingen grew. The Protestant church lies right by the Stadtwall and the Albanifriedhof.",
+   "tip": "Combine it with a walk to Gauß's grave in the Albanifriedhof a few minutes away.",
+   "q": "St. Albani Kirche, Albanikirchhof 2, Göttingen",
+   "ll": [
+    51.5337,
+    9.94114
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/St._Albani_(G%C3%B6ttingen)",
+    "https://www.ich-geh-wandern.de/goettinger-wallrunde"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gopaulinerkirche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Enter the Paulinerkirche, a Dominican church turned exhibition hall",
+   "desc": "The Paulinerkirche on Papendiek was the church of a medieval Dominican monastery and later the university library's home. Today it is used by the university for exhibitions and events.",
+   "tip": "Generally open Tuesday to Sunday 11:00 to 18:00, mainly when an exhibition runs. Check the current programme first.",
+   "q": "Paulinerkirche, Papendiek 14 A, Göttingen",
+   "ll": [
+    51.53363,
+    9.93198
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Paulinerkirche_(G%C3%B6ttingen)",
+    "https://de.wikivoyage.org/wiki/G%C3%B6ttingen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "goforumwissen",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Wander the university collections at Forum Wissen",
+   "desc": "Forum Wissen is the university's public museum in the former zoology building next to the main station. Its core exhibition presents the scientific collections of the Georg-August-Universität, supplemented by changing special exhibitions.",
+   "tip": "Open Tuesday to Sunday 10:00 to 18:00 with free entry. Free guided tours, some in English, are listed on the university website.",
+   "q": "Forum Wissen, Berliner Straße 28, Göttingen",
+   "ll": [
+    51.53442,
+    9.92635
+   ],
+   "src": [
+    "https://www.uni-goettingen.de/en/forum+wissen/701446.html",
+    "https://uni-goettingen.de/en/521324.html"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "goaltbotgarten",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stroll the Alter Botanischer Garten and its glasshouses",
+   "desc": "Founded in 1736, this is one of Germany's oldest university botanical gardens. It lies beside the Deutsches Theater and the old town wall, with an alpine garden and historic glasshouses including the Viktoriahaus and the Farnhaus.",
+   "tip": "Free entry; the grounds are open daily until early evening in summer and close earlier in winter. The glasshouses keep shorter hours.",
+   "q": "Alter Botanischer Garten, Untere Karspüle 2, Göttingen",
+   "ll": [
+    51.53835,
+    9.93636
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Alter_Botanischer_Garten_G%C3%B6ttingen",
+    "https://de.wikivoyage.org/wiki/G%C3%B6ttingen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "goalbanifriedhof",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find Gauß's grave in the Albanifriedhof",
+   "desc": "The Albanifriedhof lies just outside the old town wall to the south-east. It is best known as the resting place of the mathematician Carl Friedrich Gauß. Many professors of the university are buried here as well.",
+   "tip": "Free and open in daylight. It is a short walk from St. Albani along the Stadtwall.",
+   "q": "Albanifriedhof, Göttingen",
+   "ll": [
+    51.53194,
+    9.94194
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Albanifriedhof"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gostadtfriedhof",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Pay respects at the Stadtfriedhof, grave place of Nobel laureates",
+   "desc": "Göttingen's city cemetery on the western side holds the graves of eight Nobel laureates, including physicists and chemists linked to the university. It is a quiet park-like grounds worth a slow walk.",
+   "tip": "Free and open in daylight. Pick up a map or check the Wikipedia article for the laureates' graves.",
+   "q": "Stadtfriedhof Göttingen, Kasseler Landstraße, Göttingen",
+   "ll": [
+    51.53376,
+    9.90895
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Stadtfriedhof_G%C3%B6ttingen",
+    "https://en.wikivoyage.org/wiki/G%C3%B6ttingen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gobismarckturm",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb the Bismarckturm on the Hainberg",
+   "desc": "The 31 m Bismarck tower stands on the Kleperberg, the highest point of the Hainberg at about 332 m. It was built in the Bismarck cult that followed Göttingen's passage to Prussia in 1866. The platform looks over the Göttingen forest and the town.",
+   "tip": "Open April to September on Saturdays, Sundays and holidays 11:30 to 18:00; about 2 euros. Walk up from Herberhausen or the Kehr.",
+   "q": "Bismarckturm, Bismarckstraße, Göttingen",
+   "ll": [
+    51.52661,
+    9.96971
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/G%C3%B6ttingen",
+    "https://www.ich-geh-wandern.de/wandern/bismarckturm-goettingen"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "gojunkernschaenke",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the Junkernschänke half-timbered house",
+   "desc": "The Junkernschänke at the corner of Barfüßerstraße and Jüdenstraße is one of the most richly decorated half-timbered houses in the old town, a late Gothic building from the 15th century with carved facade. It is among the best-known photo spots in Göttingen.",
+   "tip": "Photograph it from Barfüßerstraße. The building houses a restaurant, so you can also look inside.",
+   "q": "Junkernschänke, Barfüßerstraße 5, Göttingen",
+   "ll": [
+    51.53372,
+    9.93663
+   ],
+   "src": [
+    "https://maps.adac.de/poi/junkernschaenke-goettingen",
+    "https://uni-goettingen.de/en/590393.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gosynagogendenkmal",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Pause at the memorial for the destroyed synagogue",
+   "desc": "The memorial on Obere and Untere-Masch-Straße marks the site of the synagogue destroyed in 1938. It was designed by the artist Corrado Cagli and set up in 1973.",
+   "tip": "Free and always accessible. The present synagogue is in the courtyard on Angerstraße.",
+   "q": "Synagogendenkmal, Obere-Masch-Straße, Göttingen",
+   "ll": [
+    51.53639,
+    9.93111
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/G%C3%B6ttingen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gobullerjahn",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine at Bullerjahn in the Altes Rathaus cellar",
+   "desc": "Bullerjahn occupies the town hall cellar at Markt 9 and serves hearty German home cooking. A large outdoor terrace faces the Gänseliesel.",
+   "tip": "Try a traditional German main such as schnitzel or a regional dish from the menu. Open daily around 10:00 to 23:00; sit outside in summer.",
+   "q": "Bullerjahn, Markt 9, Göttingen",
+   "ll": [
+    51.5329,
+    9.93468
+   ],
+   "src": [
+    "https://uni-goettingen.de/en/590393.html",
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/goettingen/restaurant-bullerjahn/"
+   ]
+  },
+  {
+   "id": "goszueltenbuerger",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat schnitzel at Zum Szültenbürger",
+   "desc": "A traditional German restaurant at Prinzenstraße 7 known for its schnitzel, German beers and a seasonal menu.",
+   "tip": "Order the schnitzel with a local beer. Open lunch and dinner, with a break from 15:00 to 17:00.",
+   "q": "Zum Szültenbürger, Prinzenstraße 7, Göttingen",
+   "ll": [
+    51.53441,
+    9.93453
+   ],
+   "src": [
+    "https://uni-goettingen.de/en/590393.html"
+   ]
+  },
+  {
+   "id": "gogaudi",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Share tapas at Gaudí in the Börner-Viertel atrium",
+   "desc": "Restaurant Gaudí is tucked into the covered atrium of the Börner-Viertel on Rote Straße, serving tapas and Mediterranean dishes with a terrace.",
+   "tip": "Order a few tapas to share; booking helps on weekends. Open lunch and from 18:00 into the night.",
+   "q": "Restaurant Gaudí, Rote Straße 16, Göttingen",
+   "ll": [
+    51.53298,
+    9.93624
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/goettingen/restaurant-gaudi/",
+    "https://uni-goettingen.de/en/590393.html"
+   ]
+  },
+  {
+   "id": "gonudelhaus",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Twirl homemade noodles at the Nudelhaus",
+   "desc": "The Nudelhaus on Rote Straße serves homemade noodle dishes at moderate prices and has a beer garden in the building's atrium.",
+   "tip": "Choose a house-made pasta dish; the atrium is pleasant on warm days. Open daily 11:00 to midnight.",
+   "q": "Nudelhaus, Rote Straße 13, Göttingen",
+   "ll": [
+    51.53288,
+    9.93689
+   ],
+   "src": [
+    "https://uni-goettingen.de/en/590393.html",
+    "https://www.nudelhaus-goettingen.de/"
+   ]
+  },
+  {
+   "id": "gocafebotanik",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have a Persian breakfast at Café Botanik",
+   "desc": "Café Botanik sits in a renovated half-timbered cottage next to the Alter Botanischer Garten, offering Persian specialties alongside coffee, cake and breakfast.",
+   "tip": "Try the Persian breakfast plate with chai. Hours vary, so check before going, and expect a wait at weekends.",
+   "q": "Café Botanik, Untere Karspüle 1B, Göttingen",
+   "ll": [
+    51.53784,
+    9.9376
+   ],
+   "src": [
+    "https://speisekarte.menu/restaurants/goettingen/cafe-botanik",
+    "https://www.happycow.net/reviews/cafe-botanik-gottingen-353905"
+   ]
+  },
+  {
+   "id": "gocronlanz",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Take cake at the Cron & Lanz café on Weender Straße",
+   "desc": "Cron & Lanz is a long-established Göttingen café and Konditorei with a shop and table service on the main pedestrian street.",
+   "tip": "Choose a cake or pastry and ask for a window table upstairs if available. Check hours as they differ by branch.",
+   "q": "Cron & Lanz, Weender Straße 25, Göttingen",
+   "ll": [
+    51.5352,
+    9.935
+   ],
+   "src": [
+    "https://tripaligner.com/countries/germany-22/destinations/gottingen-1256/places/cron-lanz-1736244"
+   ]
+  },
+  {
+   "id": "gokartoffelhaus",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order potato dishes at the Kartoffelhaus",
+   "desc": "The Kartoffelhaus on Goethe-Allee builds its menu around potatoes in traditional German preparations and has a beer garden.",
+   "tip": "Try a loaded potato dish or Bratkartoffeln. It is good for groups and open from morning until midnight.",
+   "q": "Kartoffelhaus, Goethe-Allee 8, Göttingen",
+   "ll": [
+    51.53474,
+    9.93167
+   ],
+   "src": [
+    "https://uni-goettingen.de/en/590393.html",
+    "https://www.speisekarte.de/restaurantsuche/Bratkartoffeln_in_g%C3%B6ttingen"
+   ]
+  },
+  {
+   "id": "gotrou",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink in the vaulted student cellar Trou",
+   "desc": "Trou on Burgstraße is a candlelit, low-vaulted cellar bar used as a student pub since the 1960s and run by the Göttinger Studentenkreis. It is the best-known cellar bar in town.",
+   "tip": "Open from 18:00 into the night; order a German beer. Cash is useful.",
+   "q": "Trou, Burgstraße 20, Göttingen",
+   "ll": [
+    51.53436,
+    9.93831
+   ],
+   "src": [
+    "https://uni-goettingen.de/en/590392.html",
+    "https://speisekarte.menu/restaurants/goettingen/trou"
+   ]
+  },
+  {
+   "id": "gothanners",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Meet students at Thanners on Wilhelmsplatz",
+   "desc": "Thanners is a classic student pub beside the Alte Mensa, with German beer, cocktails, foosball and outdoor seating.",
+   "tip": "Busy in the evenings; open from 17:00. Sit outside on mild evenings.",
+   "q": "Thanners, Am Wilhelmsplatz, Göttingen",
+   "ll": [
+    51.5338,
+    9.9383
+   ],
+   "src": [
+    "https://uni-goettingen.de/en/590392.html"
+   ]
+  },
+  {
+   "id": "gogartenlaube",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Sip a beer at Café Gartenlaube facing the Gänseliesel",
+   "desc": "Café Gartenlaube is a wooden-interior pub on the Markt with outdoor seating directly facing the Gänseliesel fountain.",
+   "tip": "Open from 16:00; a good spot to watch the market square.",
+   "q": "Café Gartenlaube, Markt 7, Göttingen",
+   "ll": [
+    51.53283,
+    9.935
+   ],
+   "src": [
+    "https://uni-goettingen.de/en/590392.html",
+    "https://wanderlog.com/place/details/2865908/café-gartenlaube"
+   ]
+  },
+  {
+   "id": "goirishpub",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Pour a pint at the Irish Pub on Mühlenstraße",
+   "desc": "A large, long-running pub with Irish beers, whiskeys and snacks, known for occasional live folk music.",
+   "tip": "Open from 17:00; check for live music nights.",
+   "q": "Irish Pub, Mühlenstraße 4, Göttingen",
+   "ll": [
+    51.53516,
+    9.93401
+   ],
+   "src": [
+    "https://uni-goettingen.de/en/590392.html",
+    "https://www.frommers.com/destinations/gottingen/things-to-do/"
+   ]
+  },
+  {
+   "id": "gostadtwall",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the Göttinger Stadtwall all the way round",
+   "desc": "The medieval town fortifications from the 13th century survive as a nearly complete tree-lined rampart walk. The loop of about 3.3 km passes the Groner Tor, Bismarckhäuschen, the Alter Botanischer Garten and Cheltenhampark.",
+   "tip": "Allow about 50 minutes; it is flat and free. Start at the Geismartor on Kurze-Geismar-Straße.",
+   "q": "Geismartor, Kurze-Geismar-Straße, Göttingen",
+   "ll": [
+    51.52982,
+    9.93858
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/goettinger-wallrunde",
+    "https://de.wikivoyage.org/wiki/G%C3%B6ttingen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gokiessee",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Circle the Göttinger Kiessee",
+   "desc": "The Kiessee is a former gravel pit of about 15 hectares on the southern edge of the city, now a recreation area for swimming, fishing and walking. Several loops of 2 to 11 km run around it.",
+   "tip": "Swimming is possible in summer; check the local rules. Reach it by bus or bike from the centre.",
+   "q": "Göttinger Kiessee, Göttingen",
+   "ll": [
+    51.51648,
+    9.92822
+   ],
+   "src": [
+    "https://birdingplaces.eu/de/birdingplaces/germany/gottinger-kiessee",
+    "https://alltrails.com/en-gb/trail/germany/lower-saxony/gottinger-kiessee"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gokehrwildgehege",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Hike from the Kehr past the Wildgehege into the Hainberg",
+   "desc": "The Kehr at Herberhausen is a start for hikes into the Göttinger Wald, with a wildlife enclosure next to the old inn site. Loops lead to the Bismarckturm and the Kerstlingeröder Feld, from 4 km to about 13.5 km.",
+   "tip": "The inn at the Kehr has long been closed, so bring food. Wear proper shoes; bus from the centre to Herberhausen.",
+   "q": "Wildgehege Kehr, Herberhausen, Göttingen",
+   "ll": [
+    51.52658,
+    9.98205
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/wildgehege-bismarckturm-und-kerstlingeroeder-feld-goettinger-wald",
+    "https://www.komoot.com/highlight/184604"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gobadeparadies",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Spend a rainy day at Badeparadies Eiswiese",
+   "desc": "The Badeparadies Eiswiese is Göttingen's leisure pool with a sauna landscape, brine pool, giant slide, flow channel and water playground.",
+   "tip": "Check the current hours on the official site; usually open about 10:00 to 22:00. Allow several hours.",
+   "q": "Badeparadies Eiswiese, Windausweg 60, Göttingen",
+   "ll": [
+    51.5229,
+    9.93066
+   ],
+   "src": [
+    "https://www.schwimmbadcheck.de/goettingen/badeparadies-eiswiese.html",
+    "https://www.ab-ins-schwimmbad.de/Goettingen/Erlebnisbad-Badeparadies-Eiswiese.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "gowochenmarkt",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Göttingen Wochenmarkt in the old town",
+   "desc": "The weekly market fills the old town squares near the Altes Rathaus on Tuesday, Thursday and Saturday mornings with regional produce and food stalls. Access is signed from Kurze Straße and Lange-Geismar-Straße.",
+   "tip": "Go on a Saturday morning for the biggest choice. Check the city website for schedule changes.",
+   "q": "Wochenmarkt, Markt, Göttingen",
+   "ll": [
+    51.53068,
+    9.93739
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/G%C3%B6ttingen",
+    "https://www.goettingen.de/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "goweihnachtsmarkt",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Wander the Göttinger Weihnachtsmarkt around St. Johannis",
+   "desc": "The Christmas market fills the Markt and the area around the Altes Rathaus and Johanniskirche. Entry is free; food, drinks and the carousel are paid.",
+   "tip": "Runs from 23 November to 29 December, closed 24 to 26 December, daily around 10:00 to 20:30. Come after dark for the lights.",
+   "q": "Weihnachtsmarkt Göttingen, Markt, Göttingen",
+   "ll": [
+    51.5331,
+    9.9336
+   ],
+   "src": [
+    "https://9staedte.de/en/gottingen-traditional-university-town/weihnachtsmarkt-in-goettingen/",
+    "https://www.festivalsindeutschland.de/festival/g-ottinger-weihnachtsmarkt"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    11,
+    12
+   ]
+  },
+  {
+   "id": "godeutschestheater",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Catch a play at the Deutsches Theater",
+   "desc": "The Deutsches Theater on Theaterplatz is Göttingen's best-known theatre, next to the Alter Botanischer Garten.",
+   "tip": "Check the programme and book via the theatre's box office. Evening performances are mainly in German.",
+   "q": "Deutsches Theater, Theaterplatz 11, Göttingen",
+   "ll": [
+    51.5367,
+    9.94
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/G%C3%B6ttingen",
+    "https://de.wikipedia.org/wiki/Deutsches_Theater_G%C3%B6ttingen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "gothop",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "See student theatre at the ThOP in a former operating theatre",
+   "desc": "The Theater im OP (ThOP) is a student-run theatre housed in a former operating theatre of the university clinics, with occasional plays in English.",
+   "tip": "Check the programme for English-language nights. Tickets are cheap.",
+   "q": "Theater im OP, Humboldtallee 15, Göttingen",
+   "ll": [
+    51.5418,
+    9.94001
+   ],
+   "src": [
+    "https://en.wikivoyage.org/wiki/G%C3%B6ttingen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  }
+ ]
+}

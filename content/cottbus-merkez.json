@@ -1,0 +1,554 @@
+{
+ "new": [
+  {
+   "id": "cbbranitz",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Wander Pückler's Branitz Park, a landscape masterpiece",
+   "desc": "Branitzer Park was laid out by Hermann von Pückler-Muskau between 1846 and 1871. Lakes, meadows and earth pyramids imitate a natural landscape, and the park is among Germany's great works of garden art.",
+   "tip": "Park entry is free; start at the Marstall visitor centre. Allow two hours and wear comfortable shoes.",
+   "q": "Branitzer Park, Robinienweg, Branitz, Cottbus",
+   "ll": [
+    51.74377,
+    14.37442
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Branitz_Palace",
+    "https://www.reiseland-brandenburg.de/poi/spreewald/schloesser-und-parks/fuerst-pueckler-museum-park-und-schloss-branitz-branitzer-park/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "cbschloss",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Tour Branitz Palace and the Fürst-Pückler-Museum",
+   "desc": "The palace holds Pückler's historic living rooms and an exhibition on his life and work, plus the Cottbus collection with paintings by Carl Blechen. Pückler lived here from 1846 until his death in 1871.",
+   "tip": "Closed one weekday (listings say Tuesday); check pueckler-museum.de first. Tickets are also sold at CottbusService.",
+   "q": "Schloss Branitz, Robinienweg 5, Branitz, Cottbus",
+   "ll": [
+    51.74215,
+    14.36905
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Branitz_Palace",
+    "https://www.reiseland-brandenburg.de/poi/spreewald/museen/fuerst-pueckler-museum-park-und-schloss-branitz-schloss-branitz/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "cbseepyramide",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find Pückler's tomb in the Seepyramide",
+   "desc": "Pückler is buried in the Seepyramide, a grass-covered earth pyramid rising from a lake in Branitz Park. A second earth pyramid stands nearby as part of his planned landscape.",
+   "tip": "Walk the lake loop in late-afternoon light. A gondola ride gets closest to the water pyramid.",
+   "q": "Seepyramide, Branitzer Park, Cottbus",
+   "ll": [
+    51.74358,
+    14.35681
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/spreewald/schloesser-und-parks/fuerst-pueckler-museum-park-und-schloss-branitz-branitzer-park/",
+    "https://willkommen.spreewald.de/en/spreewald/streaming/detail/POI/DAMASSpreewaldPoi_11299/branitz-a-masterpiece-of-garden-art"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "cboberkirche",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the late-Gothic Oberkirche St. Nikolai",
+   "desc": "The Oberkirche is a late-Gothic brick hall church near the Altmarkt, with an accessible tower about 53 metres high. It is the town's main church.",
+   "tip": "Combine it with the Altmarkt and the Apothekenmuseum, a few steps away.",
+   "q": "Oberkirche St. Nikolai, Oberkirchplatz, Cottbus",
+   "ll": [
+    51.76119,
+    14.33669
+   ],
+   "src": [
+    "https://maps.adac.de/poi/oberkirche-st-nikolai-cottbus",
+    "https://www.reiseland-brandenburg.de/orte-regionen/top-orte/cottbus/"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "cbstaatstheater",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Jugendstil Staatstheater on Schillerplatz",
+   "desc": "Berlin architect Bernhard Sehring designed the Stadttheater, inaugurated in 1908, combining architecture, crafts, painting and sculpture in Art Nouveau. It is Brandenburg's only state theatre and has carried that name since 1992.",
+   "tip": "Architecture tours of the Große Haus run on set dates; book through the theatre.",
+   "q": "Staatstheater Cottbus, Am Schillerplatz 1, Cottbus",
+   "ll": [
+    51.75754,
+    14.32534
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Staatstheater_Cottbus",
+    "https://en.wikipedia.org/wiki/Bernhard_Sehring"
+   ]
+  },
+  {
+   "id": "cbwendisch",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Discover Sorbian culture in the Wendisches Museum",
+   "desc": "Founded in 1994, the Wendisches Museum (Serbski muzej) is the central museum of Lower Sorbian culture. Sixteen rooms cover costumes, literature, music, folk art, customs and fine art.",
+   "tip": "Check hours at wendisches-museum.de. The museum says Wendish for the Lower Sorbian people.",
+   "q": "Wendisches Museum, Mühlenstraße 12, Cottbus",
+   "ll": [
+    51.75985,
+    14.33449
+   ],
+   "src": [
+    "https://www.cottbus.de/en/guests/interesting/old_town_tour/wendish_museum_serbski_muzej.html",
+    "https://www.reiseland-brandenburg.de/poi/spreewald/museen/wendisches-museum-cottbus-strich-serbski-muzej/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "cbdiesel",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "View modern art in the Kunstmuseum Dieselkraftwerk",
+   "desc": "The Dieselkraftwerk is the BLMK's art museum, a former power station that shows modern and contemporary art in an industrial-heritage hall.",
+   "tip": "Open Tuesday to Sunday, 11:00 to 19:00. Check blmk.de for current exhibitions.",
+   "q": "Kunstmuseum Dieselkraftwerk, Am Amtsteich 15, Cottbus",
+   "ll": [
+    51.75953,
+    14.33886
+   ],
+   "src": [
+    "https://www.blmk.de/",
+    "https://www.reiseland-brandenburg.de/aktivitaeten-erlebnisse/kultur/industriekultur/energie-route/entdeckertouren/dieselkraftwerk-cottbus/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "cbapotheke",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Peek into the Brandenburgisches Apothekenmuseum",
+   "desc": "The only pharmacy museum in Brandenburg stands on the Altmarkt and shows historic pharmacy fittings, jars, a poison chamber and laboratory equipment.",
+   "tip": "Closed Mondays and holidays; guided slots vary, so check first. Phone 0355 23997.",
+   "q": "Brandenburgisches Apothekenmuseum, Altmarkt 24, Cottbus",
+   "ll": [
+    51.76046,
+    14.3344
+   ],
+   "src": [
+    "https://cottbus.de/en/guests/interesting/old_town_tour/brandenburg_pharmacy_museum.html",
+    "https://www.reiseland-brandenburg.de/poi/spreewald/museen/brandenburgisches-apothekenmuseum/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "cbaltmarkt",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Stroll the Altmarkt and its Baroque houses",
+   "desc": "The medieval trading square is lined with Baroque burgher houses, cafés and restaurants around a market fountain.",
+   "tip": "Come in the evening when the terraces fill, or on a market day.",
+   "q": "Altmarkt, Cottbus",
+   "ll": [
+    51.76066,
+    14.33408
+   ],
+   "src": [
+    "https://willkommen.spreewald.de/en/spreewald/streaming/detail/POI/DAMASSpreewaldPoi_144361/altmarkt-with-marktbrunnen-fountain",
+    "https://maps.adac.de/poi/altmarkt-cottbus"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "cbstadtmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Trace local history in the Stadtmuseum Cottbus",
+   "desc": "The city museum uses a former savings bank, built in 1937, on Bahnhofstraße for its exhibitions. Its archive is housed in the old Cottbuser Anzeiger printing house nearby.",
+   "tip": "Check opening hours on cottbus.de before visiting.",
+   "q": "Stadtmuseum Cottbus, Bahnhofstraße 22, Cottbus",
+   "ll": [
+    51.75594,
+    14.32861
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/spreewald/museen/stadtmuseum-cottbus/",
+    "https://www.museum.de/en/museen/stadtmuseum-cottbus"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "cbtierpark",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Meet the tigers at Tierpark Cottbus",
+   "desc": "Opened on 1 June 1954, the 25-hectare Tierpark is the largest zoo in Brandenburg. It is known for its large tiger enclosure and big petting zoo.",
+   "tip": "Combine with the Spreeauenpark next door; the Parkeisenbahn stops nearby.",
+   "q": "Tierpark Cottbus, Kiekebuscher Straße 5, Cottbus",
+   "ll": [
+    51.74311,
+    14.34974
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/spreewald/zoos-und-tierparke/tierpark-cottbus/",
+    "https://en.wikipedia.org/wiki/Cottbus_Zoo"
+   ]
+  },
+  {
+   "id": "cbostseeturm",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Look over the Cottbuser Ostsee from the Merzdorf tower",
+   "desc": "The 31-metre lookout tower is reached by 173 steps and overlooks the Cottbuser Ostsee, a flooded former lignite pit of about 1,900 hectares that will be Brandenburg's largest lake.",
+   "tip": "Cycle from the Stadthalle via Sandow. Swimming and the harbour are not open yet.",
+   "q": "Aussichtsturm Cottbuser Ostsee, Merzdorf, Cottbus",
+   "ll": [
+    51.77682,
+    14.39287
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/spreewald/aussichtstuerme/aussichtsturm-am-cottbuser-ostsee/",
+    "https://www.leag.de/en/business-fields/mining/cottbuser-ostsee/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "cbspremberger",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Climb the Spremberger Turm for rooftop views",
+   "desc": "The tower dates to the 13th century as part of the town fortifications. A viewing platform at about 28 metres is reached by 131 steps.",
+   "tip": "A city brochure lists daily 10 to 18, Thursday to Saturday until 20; check current times.",
+   "q": "Spremberger Turm, Spremberger Straße, Cottbus",
+   "ll": [
+    51.75778,
+    14.33331
+   ],
+   "src": [
+    "https://www.merian.de/deutschland/brandenburg/cottbus-sehenswuerdigkeiten",
+    "https://www.reiseland-brandenburg.de/orte-regionen/top-orte/cottbus/"
+   ]
+  },
+  {
+   "id": "cbgondel",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Glide to Pückler's pyramids on a Branitz gondola",
+   "desc": "Gondolas run on the park's waters and bring visitors as close as possible to the pyramids. Evening gondola rides are also offered.",
+   "tip": "The 2026 city brochure lists 18 EUR adults and 14 EUR children. Book ahead in summer.",
+   "q": "Gondelfahrt Branitz, Branitzer Park, Robinienweg, Cottbus",
+   "ll": [
+    51.7418,
+    14.368
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/veranstaltung/spreewald/abendgondelfahrt/",
+    "https://www.cottbusverkehr.de/wp-content/uploads/2026/01/Broschuere_PT_2026_ansicht4_FINAL.pdf"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "cbparkbahn",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Ride the Parkeisenbahn through the Cottbus parks",
+   "desc": "The 3.2 km narrow-gauge park railway connects the Spreeauenpark, the zoo and the Eliaspark with several stops.",
+   "tip": "Check the season and timetable before going.",
+   "q": "Parkeisenbahn Cottbus, Am Eliaspark, Cottbus",
+   "ll": [
+    51.75353,
+    14.34741
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/spreewald/aktiverlebnisse/parkeisenbahn-cottbus/",
+    "https://www.cottbus.de/en/guests/interesting/park_tour/narrow-gauge_railway.html"
+   ]
+  },
+  {
+   "id": "cbwasserspiel",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Splash at the Eliaspark water playground",
+   "desc": "A free water playground with a pirate raft sits in the Eliaspark, which dates to a 1902 foundation and was redesigned for the 1995 garden show.",
+   "tip": "Daily from about 9:30, last water interval at 17:00, in season.",
+   "q": "Wasserspielplatz Eliaspark, Am Eliaspark, Cottbus",
+   "ll": [
+    51.75228,
+    14.34889
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/spreewald/aktiverlebnisse/wasserspielplatz-im-eliaspark/",
+    "https://www.cottbus.de/en/guests/interesting/park_tour/elias_park.html"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "cblagune",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Swim and sauna at Lagune Cottbus",
+   "desc": "The Lagune combines an indoor wave pool, slides and a large sauna area with an outdoor pool and beach bar, about 2,400 square metres of water.",
+   "tip": "The outdoor pool is generally open May to September; check prices on the official site.",
+   "q": "Sport- und Freizeitbad Lagune, Sielower Landstraße 19, Cottbus",
+   "ll": [
+    51.74834,
+    14.34369
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/spreewald/erlebnis-und-spassbaeder/sport-und-freizeitbad-lagune-cottbus/",
+    "https://www.in-berlin-brandenburg.com/Brandenburg/Kreisfreie_Staedte/Cottbus/Freizeit/Ausflugstipps/Lagune-Cottbus.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "cbspreeauen",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the Spreeauenpark and its Tertiary Forest",
+   "desc": "The park hosted the 1995 federal garden show, the first in the new federal states. It has ponds, a Tertiary Forest, a playground and a park café.",
+   "tip": "Open daily 9 to 17, last entry 16, with a small fee; closed for some events.",
+   "q": "Spreeauenpark, Vorparkstraße 3, Cottbus",
+   "ll": [
+    51.74737,
+    14.34962
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/spreewald/gaerten-und-parkanlagen/spreeauenpark/",
+    "https://www.cottbus.de/en/guests/interesting/park_tour/spreeauenpark.html"
+   ]
+  },
+  {
+   "id": "cbostseewalk",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Hike the Cottbuser Ostsee shore trail",
+   "desc": "A marked round walk circles the new lake, with information boards on the former Lakoma area and the lignite-mining history.",
+   "tip": "Start at the Merzdorf tower. Swimming is not yet possible.",
+   "q": "Cottbuser Ostsee, Merzdorf, Cottbus",
+   "ll": [
+    51.77781,
+    14.39254
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/grosse-rundwanderung-am-cottbuser-ostsee",
+    "https://www.reiseland-brandenburg.de/poi/spreewald/radtouren/zu-fuss-oder-per-fahrrad-zum-cottbuser-ostsee/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "cbkonserv",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Hear a concert in the Konservatorium's Jugendstil hall",
+   "desc": "The late Art Nouveau building, completed in 1911 as a girls' school, now houses the Konservatorium. Its concert hall hosts student concerts and travel lectures.",
+   "tip": "Check konservatorium-cottbus.de for dates, or phone 0355 3554 1780.",
+   "q": "Konservatorium Cottbus, Puschkinpromenade 13, Cottbus",
+   "ll": [
+    51.7637,
+    14.33704
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/spreewald/buehnen/konservatorium-cottbus/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "cblauterbach",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order Baumkuchen at Café Lauterbach",
+   "desc": "Conditorei and Café Lauterbach on Spremberger Straße is a pastry shop in the town of the Cottbuser Baumkuchen; the Baumkuchen factory outlet is on the floor above.",
+   "tip": "Try the Baumkuchen. The outlet has limited hours, mainly Thursday 11:00 to 15:00.",
+   "q": "Conditorei Lauterbach, Spremberger Straße 4, Cottbus",
+   "ll": [
+    51.7598,
+    14.3336
+   ],
+   "src": [
+    "https://willkommen.spreewald.de/en/spreewald/streaming/detail/Gastro/DAMASSpreewaldGastro_18856/confectionery-cafe-lauterbach",
+    "https://www.reiseland-brandenburg.de/poi/spreewald/handwerk-und-manufakturen/groch-und-erben-baumkuchen-manufaktur/"
+   ]
+  },
+  {
+   "id": "cbbraubistro",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat a Lausitzer Plinse at Brau & Bistro",
+   "desc": "A brewery restaurant on the Altmarkt with house-brewed beer and regional dishes such as Lausitzer Kartoffelsuppe. Its menu lists a Lausitzer Plinse, a yeast pancake with sugar and cinnamon.",
+   "tip": "The Plinse was listed for afternoons only; confirm when ordering.",
+   "q": "Brau & Bistro, Altmarkt 18, Cottbus",
+   "ll": [
+    51.76067,
+    14.33542
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/spreewald/gastronomy/brau-und-bistro-altmarkt-cottbus/",
+    "https://www.speisekarte.de/cottbus/restaurant/brau_bistro_cottbus/speisekarte"
+   ]
+  },
+  {
+   "id": "cbstadtwaechter",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have schnitzel in the Stadtwächter's old city wall",
+   "desc": "The restaurant sits in the medieval Wiekhaus, built into the 15th-century city wall, and is known for schnitzel in many variations.",
+   "tip": "Reserve, as the rooms are small.",
+   "q": "Stadtwächter, Mauerstraße 1, Cottbus",
+   "ll": [
+    51.76058,
+    14.33129
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/spreewald/gastronomie/restaurant-stadtwaechter/",
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/cottbus/stadtwaechter/"
+   ]
+  },
+  {
+   "id": "cbklosterkeller",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine under a 600-year-old vault at Klosterkeller",
+   "desc": "German and international dishes are cooked fresh to order under a cross-vault more than 600 years old, set in the Cottbus city wall. A summer terrace faces Puschkinpark.",
+   "tip": "Closed Sunday and Monday; open evenings Tuesday to Saturday, plus lunch Wednesday to Saturday.",
+   "q": "Restaurant Klosterkeller, Klosterplatz 5, Cottbus",
+   "ll": [
+    51.76206,
+    14.33374
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/spreewald/gastronomie/restaurant-klosterkeller/"
+   ]
+  },
+  {
+   "id": "cbcavalier",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat potatoes with quark and Leinöl at Cavalierhaus",
+   "desc": "The Cavalierhaus in Branitz Park is a Biedermeier-style restaurant. Its menu lists boiled potatoes with quark and Straupitz linseed oil, a classic Lusatian dish.",
+   "tip": "Order the Pellkartoffeln with Quark and Straupitzer Leinöl; open all year.",
+   "q": "Cavalierhaus Branitz, Robinienweg 5, Cottbus",
+   "ll": [
+    51.74224,
+    14.37242
+   ],
+   "src": [
+    "https://www.speisekarte.de/cottbus/restaurant/gaststaette_cavalierhaus/speisekarte"
+   ]
+  },
+  {
+   "id": "cbananas",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have cake at the Pückler Café Goldene Ananas",
+   "desc": "The Goldene Ananas is a summer café in the Branitz park area, named for the pineapples Pückler had grown.",
+   "tip": "Open roughly May to September.",
+   "q": "Pückler Café Goldene Ananas, Branitzer Park, Cottbus",
+   "ll": [
+    51.7442,
+    14.36679
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/spreewald/gastronomie/pueckler-cafe-goldene-ananas/"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "cbdacapo",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try ice cream at Eiscafé Da Capo",
+   "desc": "Eiscafé Da Capo on Marktstraße by the Altmarkt is the most-praised ice cream parlour in town reviews.",
+   "tip": "Seasonal; check hours.",
+   "q": "Eiscafé Da Capo, Marktstraße, Cottbus",
+   "ll": [
+    51.7595,
+    14.334
+   ],
+   "src": [
+    "https://speisekarte.menu/restaurants/cottbus/eiscafe-da-capo"
+   ]
+  },
+  {
+   "id": "cbcoffeelatte",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink coffee at Coffeelatte on the Altmarkt",
+   "desc": "Coffeelatte is an established meeting place on the Altmarkt with a cult following among coffee lovers.",
+   "tip": "A good morning stop before museums.",
+   "q": "Coffeelatte, Altmarkt, Cottbus",
+   "ll": [
+    51.76095,
+    14.33424
+   ],
+   "src": [
+    "https://speisekarte.menu/restaurants/cottbus/coffeelatte"
+   ]
+  },
+  {
+   "id": "cbaltsandow",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat old-German cooking at Alt Sandow",
+   "desc": "Alt Sandow is a privately run restaurant in the Sandow district serving old-German cuisine.",
+   "tip": "Check the current menu before visiting.",
+   "q": "Alt Sandow, Sandower Hauptstraße 15, Cottbus",
+   "ll": [
+    51.76284,
+    14.34555
+   ],
+   "src": [
+    "https://www.swipein.restaurant/en/restaurant/alt-sandow-cottbus-brandenburg"
+   ]
+  }
+ ]
+}

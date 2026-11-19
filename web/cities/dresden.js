@@ -60,7 +60,8 @@ window.CITIES.dresden = {
     ddfelsenbuehne: [50.9624, 14.0801], ddweisseritzbahn: [50.9887, 13.6375], ddmalerwegwehlen: [50.9564, 14.0307],
     ddzinnwaldmine: [50.7411, 13.7662], ddbobbahn: [50.7845, 13.7239], ddoberelschleuse: [50.9050, 14.3877],
     ddhohnsteinkasper: [50.9795, 14.1070], ddschrammgrat: [50.9122, 14.2008], ddwinterbergwalk: [50.8958, 14.2597],
-    ddaltenbergmuseum: [50.7627, 13.7690], ddurzeitpark: [50.9767, 14.2901]
+    ddaltenbergmuseum: [50.7627, 13.7690], ddurzeitpark: [50.9767, 14.2901], cbmuskauschloss: [51.5476, 14.7229],
+    cbmuskaudoppel: [51.5476, 14.7294], cbgruenerfuerst: [51.5466, 14.7210]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -452,6 +453,15 @@ window.CITIES.dresden = {
       tip: "Check hours at bergbaumuseum-altenberg.de.", q: "Bergbaumuseum Altenberg, Altenberg", tags: ["rainy day"], src: ["https://bergbaumuseum-altenberg.de/", "https://www.visitsaxony.com/poi/altenberg-mining-museum-altenberg"] },
     { id: "ddurzeitpark", cat: "dene", area: "cevre", title: "Walk among 400 dinosaur sculptures in Sebnitz",
       desc: "The Urzeitpark Sebnitz has about 400 sculptures of prehistoric animals.",
-      tip: "Check season and hours before going.", q: "Urzeitpark Sebnitz, Sebnitz", src: ["https://www.elbelabe.eu/en/poi/n/urzeitpark-in-sebnitz/"] }
+      tip: "Check season and hours before going.", q: "Urzeitpark Sebnitz, Sebnitz", src: ["https://www.elbelabe.eu/en/poi/n/urzeitpark-in-sebnitz/"] },
+    { id: "cbmuskauschloss", cat: "gor", area: "cevre", title: "Explore Neues Schloss in Muskau Park",
+      desc: "Neues Schloss Bad Muskau was the residence of Prince Hermann von Pückler-Muskau and was reopened after restoration in 2012. It now holds exhibitions, a shop and a café, and anchors the Muskauer Park, a UNESCO World Heritage Site since 2004.",
+      tip: "The tourism centre of the park foundation is inside. Allow a half day for the park itself, which spans Germany and Poland.", q: "Neues Schloss, Schloßstraße, Bad Muskau", tags: ["rainy day"], src: ["https://de.wikipedia.org/wiki/Schloss_Muskau", "https://muskauer-park.de/en/world-heritage-site"] },
+    { id: "cbmuskaudoppel", cat: "gor", area: "cevre", title: "Cross the Doppelbrücke into Poland",
+      desc: "The Doppelbrücke spans the Neisse in the southern part of Muskauer Park and links the German and Polish halves of Pückler's landscape. Destroyed in 1945, it was rebuilt and finished in autumn 2003.",
+      tip: "Walking across is free; carry an ID card. It pairs well with the English Bridge for a loop through the park.", q: "Doppelbrücke, Muskauer Park, Bad Muskau", tags: ["free"], src: ["https://muskauer-park.de/media/pages/files/d8aff6297b-1737119540/1_die-doppelbruecke.pdf", "https://en.wikipedia.org/wiki/Muskau_Park"] },
+    { id: "cbgruenerfuerst", cat: "ye", area: "cevre", title: "Eat Fürst-Pückler-Eis at the Grüner Fürst in Bad Muskau",
+      desc: "Restaurant Grüner Fürst in the Kulturhotel Fürst Pückler lists homemade Fürst-Pückler-Eis, the layered ice cream named after the park's creator. It is a short walk from the Neues Schloss.",
+      tip: "Schloßstraße 8; check hours as they vary through the week.", q: "Restaurant Grüner Fürst, Schloßstraße 8, Bad Muskau", kind: "meal", src: ["https://www.schlemmer-atlas.de/restaurants/deutschland/bad-muskau/restaurant-gruener-fuerst/"] }
   ]
 };

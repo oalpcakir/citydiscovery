@@ -1,0 +1,768 @@
+{
+ "new": [
+  {
+   "id": "cbmuskauschloss",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore Neues Schloss in Muskau Park",
+   "desc": "Neues Schloss Bad Muskau was the residence of Prince Hermann von Pückler-Muskau and was reopened after restoration in 2012. It now holds exhibitions, a shop and a café, and anchors the Muskauer Park, a UNESCO World Heritage Site since 2004.",
+   "tip": "The tourism centre of the park foundation is inside. Allow a half day for the park itself, which spans Germany and Poland.",
+   "q": "Neues Schloss, Schloßstraße, Bad Muskau",
+   "ll": [
+    51.5476,
+    14.72288
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Muskau",
+    "https://muskauer-park.de/en/world-heritage-site"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "cbmuskaudoppel",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Cross the Doppelbrücke into Poland",
+   "desc": "The Doppelbrücke spans the Neisse in the southern part of Muskauer Park and links the German and Polish halves of Pückler's landscape. Destroyed in 1945, it was rebuilt and finished in autumn 2003.",
+   "tip": "Walking across is free; carry an ID card. It pairs well with the English Bridge for a loop through the park.",
+   "q": "Doppelbrücke, Muskauer Park, Bad Muskau",
+   "ll": [
+    51.54765,
+    14.72937
+   ],
+   "src": [
+    "https://muskauer-park.de/media/pages/files/d8aff6297b-1737119540/1_die-doppelbruecke.pdf",
+    "https://en.wikipedia.org/wiki/Muskau_Park"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "cbforstrosen",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stroll the Ostdeutscher Rosengarten in Forst",
+   "desc": "The East German Rose Garden in Forst (Lausitz) shows tens of thousands of roses in several hundred varieties, laid out in the Wehrinsel park on the Neisse. The main event is the Rosengartenfesttage in late June.",
+   "tip": "Open May to September 9-19, October to April 9-17; entry is charged in summer and free in winter. Best in June.",
+   "q": "Ostdeutscher Rosengarten, Wehrinselstraße 46, Forst (Lausitz)",
+   "ll": [
+    51.72954,
+    14.6637
+   ],
+   "src": [
+    "https://www.lausitzerseenland.de/en/discover/discovering-nature/parks-and-gardens/article-east-germany-s-rose-garden-forst-lusatia-.html",
+    "https://rosengarten-forst.de/opening-hours.154832.htm"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "cbbismarckburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the Bismarckturm above Burg",
+   "desc": "The 28 metre Bismarck tower stands on the Schlossberg north of Burg (Spreewald) and was built between 1915 and 1917. From the top you see the forested Spreewald landscape.",
+   "tip": "Opening is seasonal and the climb is ticketed; confirm with the Burg tourist office before going.",
+   "q": "Bismarckturm, Schmogrower Straße, Burg (Spreewald)",
+   "ll": [
+    51.84538,
+    14.15618
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Bismarck_Tower_(Burg_(Spreewald))",
+    "https://www.reiseland-brandenburg.de/poi/spreewald/aussichtstuerme/bismarckturm-in-burg-spreewald/"
+   ]
+  },
+  {
+   "id": "cbf60",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the F60 conveyor bridge at Lichterfeld",
+   "desc": "The F60 overburden conveyor bridge is a former lignite mining machine, about 500 metres long, now the Besucherbergwerk F60 in Lichterfeld. Guided tours climb the steel giant and show the landscape it helped carve out.",
+   "tip": "Main season 16 March to 31 October; winter hours are shorter. Evening light and sound shows and concerts run in season.",
+   "q": "Besucherbergwerk F60, Bergheider Straße, Lichterfeld-Schacksdorf",
+   "ll": [
+    51.58884,
+    13.78081
+   ],
+   "src": [
+    "https://www.f60.de/en/guided-tours/f60-guided-tours.html",
+    "https://de.wikipedia.org/wiki/F60_(Abraumf%C3%B6rderbr%C3%BCcke)"
+   ]
+  },
+  {
+   "id": "cblehde",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Freilandmuseum Lehde by punt",
+   "desc": "The open-air museum in Lehde shows traditional Spreewald farmsteads of the Sorbian and Wendish people, with boat sheds, farm houses and kitchen gardens on the canals. It is easiest reached from Lübbenau by punt or on foot.",
+   "tip": "Entry is around 6 euros; combine with a punt trip from Lübbenau harbour. Plan about two hours.",
+   "q": "Freilandmuseum Lehde, Lehde, Lübbenau",
+   "ll": [
+    51.86242,
+    13.99246
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/spreewald/museen/freilandmuseum-lehde/",
+    "https://www.lonelyplanet.com/points-of-interest/freilandmuseum-lehde/1105400"
+   ]
+  },
+  {
+   "id": "cbgurkenmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Taste pickles in the Gurkenmuseum Lehde",
+   "desc": "The Gurkenmuseum in Lehde tells the story of the Spreewald gherkin, which has carried the EU protected geographical indication since 1999. The visit ends with a tasting of several pickle varieties.",
+   "tip": "Reach it on foot or by punt from Lübbenau; the Gurkenradweg passes nearby.",
+   "q": "Gurkenmuseum Lehde, An der Dolzke 4-6, Lübbenau",
+   "ll": [
+    51.86604,
+    13.99102
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/spreewald/museen/gurkenmuseum-lehde/",
+    "https://www.atlasobscura.com/places/das-gurkenmuseum-the-cucumber-museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "cbschlossluebben",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Schloss Lübben and its museum",
+   "desc": "Schloss Lübben is a Renaissance palace with a gabled front near the Schlossinsel, and houses the town museum and a Paul Gerhardt information centre. It survived the Second World War together with parts of the old town wall.",
+   "tip": "The Paul-Gerhardt-Kirche on the market square is a short walk away.",
+   "q": "Schloss Lübben, Am kleinen Hain 43, Lübben (Spreewald)",
+   "ll": [
+    51.93998,
+    13.89933
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/orte-regionen/top-orte/luebben-spreewald/",
+    "https://www.reiseland-brandenburg.de/poi/spreewald/museen/paul-gerhardt-zentrum-luebben/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "cbdoberlug",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour Schloss Doberlug and the Cistercian abbey",
+   "desc": "Schloss Doberlug is a Renaissance castle built on the grounds of a Cistercian monastery, and hosted Brandenburg's first state exhibition in 2014. The nearby Klosterkirche is a Romanesque abbey church.",
+   "tip": "The castle museum hours depend on the season; the church opens on request through the parish office.",
+   "q": "Schloss Doberlug, Schlossplatz 1, Doberlug-Kirchhain",
+   "ll": [
+    51.61014,
+    13.54649
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/elbe-elster-land/schloesser-und-parks/schloss-doberlug/",
+    "https://www.reiseland-brandenburg.de/poi/elbe-elster-land/museen/museum-schloss-doberlug/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "cbkwschloss",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Soldier King's lodge in Königs Wusterhausen",
+   "desc": "Schloss Königs Wusterhausen was the autumn hunting residence of Frederick William I of Prussia, the Soldier King, and the place of his Tabakskollegium evening gatherings. It is run by the Prussian palaces foundation SPSG.",
+   "tip": "Hours vary by season and winter is weekends only; check spsg.de. Last entry is 30 minutes before closing.",
+   "q": "Schloss Königs Wusterhausen, Schlossplatz 1, Königs Wusterhausen",
+   "ll": [
+    52.2977,
+    13.6233
+   ],
+   "src": [
+    "https://www.spsg.de/en/palaces-gardens/object/koenigs-wusterhausen-palace-park",
+    "https://www.reiseland-brandenburg.de/poi/dahme-seenland/schloesser-und-parks/schloss-koenigs-wusterhausen/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "cbbiotuerme",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour the Biotürme of Lauchhammer",
+   "desc": "The Biotürme are the preserved remains of a large coking plant in Lauchhammer-West, one of the first of its kind in the world. Guided tours with a contemporary witness explain how the plant was built and run.",
+   "tip": "Book a guided tour; the audio guide can also be heard on site. Address Finsterwalder Straße 57.",
+   "q": "Biotürme Lauchhammer, Finsterwalder Straße 57, Lauchhammer",
+   "ll": [
+    51.48874,
+    13.72999
+   ],
+   "src": [
+    "https://www.lausitzerseenland.de/en/discover/industrial-heritage/stops/article-lauchhammer-bio-towers.html",
+    "https://de.wikipedia.org/wiki/Biot%C3%BCrme_Lauchhammer"
+   ]
+  },
+  {
+   "id": "cbspremberg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk around Schloss Spremberg",
+   "desc": "Spremberg's castle began as a 13th century moated castle and now houses the Niederlausitzer Heidemuseum, with nature, regional history and an Erwin Strittmatter section. A Wendish farmstead stands as an open-air exhibit in the small park with its swan pond.",
+   "tip": "Museum hours are shorter at weekends; the park is free to enter.",
+   "q": "Schloss Spremberg, Schlossberg, Spremberg",
+   "ll": [
+    51.57047,
+    14.38332
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/lausitzer-seenland/schloesser-und-parks/schloss-spremberg/",
+    "https://www.lausitzerseenland.de/en/discover/sights-and-culture/museums/article-niederlausitzer-heidemuseum-spremberg.html"
+   ]
+  },
+  {
+   "id": "cblubwart",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the Lubwartturm in Bad Liebenwerda",
+   "desc": "The Lubwartturm is the keep of the Bad Liebenwerda castle, lowered to its present 31.5 metre height in 1830 for structural reasons. 122 steps lead up to a lookout, and the north wing houses the marionette theatre museum.",
+   "tip": "An audio guide accompanies the climb. Museum hours are Tuesday to Sunday, 11-18 from April to September.",
+   "q": "Lubwartturm, Burgplatz 2, Bad Liebenwerda",
+   "ll": [
+    51.51583,
+    13.39865
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/elbe-elster-land/aussichtstuerme/lubwartturm",
+    "https://www.burgenwelt.org/deutschland/bad_liebenwerda/burgenwelt-bad_liebenwerda-deutschland.pdf"
+   ]
+  },
+  {
+   "id": "cbslawenburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Enter the Slawenburg Raddusch",
+   "desc": "The Slawenburg near Vetschau is a reconstruction of a ring-shaped Slavic fortress of the early Middle Ages, with an exhibition on the Lusatian Slavs. It sits on the edge of the Spreewald.",
+   "tip": "Open daily 10-18 April to October and 10-16 in winter; entry is about 10 euros.",
+   "q": "Slawenburg Raddusch, Zur Slawenburg 1, Vetschau/Spreewald",
+   "ll": [
+    51.808,
+    14.03253
+   ],
+   "src": [
+    "https://willkommen.spreewald.de/en/spreewald/streaming/detail/POI/DAMASSpreewaldPoi_12040/slawenburg-raddusch",
+    "https://www.museum.de/museen/slawenburg-raddusch-ev"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "cbsenftenbergfestung",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Schloss und Festung Senftenberg",
+   "desc": "Senftenberg's castle and fortress complex houses the district museum and the Kunstsammlung Lausitz art collection. It has been the town's landmark since the Middle Ages and is open Tuesday to Sunday.",
+   "tip": "Open about 10:30-17:30 Tuesday to Sunday with shorter winter hours; spooky evening tours run on selected dates.",
+   "q": "Schloss und Festung Senftenberg, Schlossparkstraße, Senftenberg",
+   "ll": [
+    51.51643,
+    14.00691
+   ],
+   "src": [
+    "https://www.lausitzerseenland.de/en/discover/sights-and-culture/museums/article-senftenberg-palace-and-fortress.html",
+    "https://www.reiseland-brandenburg.de/poi/lausitzer-seenland/museen/schloss-und-festung-senftenberg/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "cblouise",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Step inside Brikettfabrik Louise in Domsdorf",
+   "desc": "Brikettfabrik Louise near Tröbitz is described as the oldest surviving briquette factory in the world and produced lignite briquettes until 1991. It is preserved as a technical monument with its original machinery.",
+   "tip": "Check opening times and tour dates with the museum; evening flashlight tours are offered.",
+   "q": "Brikettfabrik Louise, Louise 111, Domsdorf (Tröbitz)",
+   "ll": [
+    51.58337,
+    13.41658
+   ],
+   "src": [
+    "https://www.lausitzerseenland.de/en/discover/industrial-heritage/energy-route/article--brikettfabrik-louise-technical-monument.html",
+    "https://www.reiseland-brandenburg.de/poi/elbe-elster-land/industrial-culture/brikettfabrik-louise-technical-monument/"
+   ]
+  },
+  {
+   "id": "cbplastinarium",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Plastinarium in Guben",
+   "desc": "Gunther von Hagens opened the Plastinarium in a former factory on the Neisse in Guben in 2006. It shows body plastination and is open Friday to Sunday.",
+   "tip": "Open Friday to Sunday 10-18 with last entry at 16:00; day ticket around 12 euros.",
+   "q": "Plastinarium, Uferstraße 26, Guben",
+   "ll": [
+    51.95799,
+    14.71165
+   ],
+   "src": [
+    "https://www.plastinarium.de/en/visit/",
+    "https://touristinformation-guben.de/en/discover/museums-and-exhibitions/article-plastinarium-in-guben-0.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "cbpeitzhuette",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the ironworks and fishery museum in Peitz",
+   "desc": "The Hüttenwerk in Peitz sits right on the Peitzer Teiche, Germany's largest connected pond area, and houses the Eisenhütten- und Fischereimuseum. The nearby Festungsturm dates from the 14th to 16th centuries.",
+   "tip": "Season is April to October; the end-of-October draining of the Hälterteich is the carp highlight.",
+   "q": "Eisenhütten- und Fischereimuseum, Hüttenwerk 1, Peitz",
+   "ll": [
+    51.84815,
+    14.42252
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/spreewald/museen/eisenhuetten-und-fischereimuseum/",
+    "https://www.spreewald.de/en/spreewald-holiday/places-to-visit/peitz/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "cbkaupen",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat hearty Spreewald fare at Kaupen No. 6 in Lehde",
+   "desc": "Gasthaus Kaupen No. 6 is a converted farmhouse in Lehde with about 40 seats inside and 80 in a waterside garden. It serves home-style cooking and its own mustard creations, and can be reached by boat.",
+   "tip": "Come by punt or canoe; try the Spreewald dishes with linseed oil and quark.",
+   "q": "Gasthaus Kaupen No. 6, Lehde, Lübbenau",
+   "ll": [
+    51.86465,
+    13.98205
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/spreewald/gastronomie/gasthaus-kaupen-no-6/"
+   ]
+  },
+  {
+   "id": "cbspreewaldeck",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order Quark mit Leinöl at Gasthaus Spreewaldeck",
+   "desc": "Gasthaus Spreewaldeck in Lübbenau lists Spreewald quark with linseed oil and onions plus several Plinsen on its menu. These are the classic Spreewald dishes of the region.",
+   "tip": "Try the quark with potatoes and linseed oil, then Plinsen for dessert.",
+   "q": "Gasthaus Spreewaldeck, Lübbenau",
+   "ll": [
+    51.86381,
+    13.96924
+   ],
+   "src": [
+    "https://www.speisekarte.de/l%C3%BCbbenau/restaurant/gasthaus_spreewaldeck/speisekarte"
+   ]
+  },
+  {
+   "id": "cbhafeneck",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have Hefeplinse at Restaurant Hafeneck in Burg",
+   "desc": "Restaurant Hafeneck stands by the Spree harbour in Burg and serves regional and traditional dishes. Its desserts include Hefeplinse, the yeast pancakes typical of the Spreewald.",
+   "tip": "Sit on the terrace by the harbour and finish with the Hefeplinse.",
+   "q": "Restaurant Hafeneck, Hafen, Burg (Spreewald)",
+   "ll": [
+    51.83763,
+    14.14739
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/spreewald/gastronomy/restaurant-hafeneck/"
+   ]
+  },
+  {
+   "id": "cbgaertnerhaus",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine at the Altes Gärtnerhaus on Lübben's Schlossinsel",
+   "desc": "The Altes Gärtnerhaus is a historic former gardeners' house next to the Schlossinsel in Lübben, now run as a restaurant. It is a quiet lunch stop after the walk through the castle park.",
+   "tip": "Ernst-von-Houwald-Damm 6; a terrace seat in summer is best.",
+   "q": "Altes Gärtnerhaus, Ernst-von-Houwald-Damm 6, Lübben (Spreewald)",
+   "ll": [
+    51.93978,
+    13.89771
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/spreewald/gastronomie/restaurant-im-alten-gaertnerhaus/"
+   ]
+  },
+  {
+   "id": "cbprivatbrauerei",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink Spreewald beer at the Privatbrauerei 1788 in Schlepzig",
+   "desc": "The Spreewälder Privatbrauerei 1788 in Schlepzig brews on the grounds of the old inn Zum grünen Strand der Spree. Beer from the house brewery is served in the restaurant of the Spreewaldresort Seinerzeit.",
+   "tip": "Brewery tours and a tasting boat trip run on selected dates; the Maibock tapping festival is a highlight.",
+   "q": "Spreewälder Privatbrauerei 1788, Dorfstraße, Schlepzig",
+   "ll": [
+    52.02907,
+    13.88862
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/erlebnisberichte/spreewald/spreewald-bier-aus-kleiner-brauerei-in-schlepzig/",
+    "https://www.unterspreewald.de/Veranstaltungen/Bier-Tasting-Kahnfahrt-inklusive-Brauereifuehrung-Start-in-Schlepzig.html"
+   ]
+  },
+  {
+   "id": "cbgruenerfuerst",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat Fürst-Pückler-Eis at the Grüner Fürst in Bad Muskau",
+   "desc": "Restaurant Grüner Fürst in the Kulturhotel Fürst Pückler lists homemade Fürst-Pückler-Eis, the layered ice cream named after the park's creator. It is a short walk from the Neues Schloss.",
+   "tip": "Schloßstraße 8; check hours as they vary through the week.",
+   "q": "Restaurant Grüner Fürst, Schloßstraße 8, Bad Muskau",
+   "ll": [
+    51.54655,
+    14.72098
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/bad-muskau/restaurant-gruener-fuerst/"
+   ]
+  },
+  {
+   "id": "cbrosenflair",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Sip coffee at Rosenflair on the Forst Wehrinsel",
+   "desc": "Restaurant Rosenflair & Café sits on the Wehrinsel inside the Ostdeutscher Rosengarten. It serves upscale traditional German food and coffee specialities among the roses.",
+   "tip": "Combine with the rose garden visit; the nearby Café an den Wasserspielen is open May to September.",
+   "q": "Restaurant Rosenflair & Café, Wehrinselstraße 46, Forst (Lausitz)",
+   "ll": [
+    51.72871,
+    14.66386
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/lausitzer-seenland/gastronomie/restaurant-rosenflair/"
+   ]
+  },
+  {
+   "id": "cbwilke",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat schnitzel or pancakes at Café Wilke in Forst",
+   "desc": "Café & Restaurant Wilke in Forst has a terrace, a menu of schnitzel and fish dishes, and home-made cake and pancakes. It is a local address away from the rose garden crowds.",
+   "tip": "Am Keuneschen Graben 19; save room for the home-made cake.",
+   "q": "Café & Restaurant Wilke, Am Keuneschen Graben 19, Forst (Lausitz)",
+   "ll": [
+    51.73079,
+    14.64737
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/lausitzer-seenland/gastronomie/cafe-und-restaurant-wilke/"
+   ]
+  },
+  {
+   "id": "cblinari",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order the linseed oil schnitzel at Schloss-Restaurant LINARI",
+   "desc": "The Schloss-Restaurant LINARI in the Schloss Lübbenau hotel serves a premium take on the Spreewald classic of potatoes with linseed oil and quark. It is rated highly on OpenTable and sits in the castle park.",
+   "tip": "Open daily 11:30 to 22:30; book for the evening.",
+   "q": "Schloss-Restaurant LINARI, Schloßbezirk, Lübbenau",
+   "ll": [
+    51.86916,
+    13.97417
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/spreewald/gastronomy/schloss-restaurant-linari/"
+   ]
+  },
+  {
+   "id": "cbstrandhotelsee",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine with a lake view at the Strandhotel Senftenberger See",
+   "desc": "The restaurant of the Strandhotel at Am See 3 has a sun terrace and conservatory looking over the Senftenberger See in every season. It is the classic dinner spot on the lake.",
+   "tip": "Listed from 15:00 to 22:00; reserve for sunset.",
+   "q": "Strandhotel Senftenberger See, Am See 3, Senftenberg",
+   "ll": [
+    51.5123,
+    14.01619
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/lausitzer-seenland/gastronomie/restaurant-im-strandhotel-senftenberger-see/"
+   ]
+  },
+  {
+   "id": "cbbeeg",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat cake at Café Beeg in Bad Liebenwerda",
+   "desc": "Konditorei & Café Beeg has been baking traditional cakes and tarts since 1860 and is now run in the sixth generation. It stands at the Roßmarkt in Bad Liebenwerda.",
+   "tip": "Roßmarkt 1; vegetarian and vegan options are available.",
+   "q": "Konditorei & Café Beeg, Roßmarkt 1, Bad Liebenwerda",
+   "ll": [
+    51.51529,
+    13.39574
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/elbe-elster-land/gastronomie/konditorei-und-cafe-beeg"
+   ]
+  },
+  {
+   "id": "cbleibnitz",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have ice cream at Eiscafé Leibnitz in Doberlug",
+   "desc": "Eiscafé Leibnitz in Doberlug-Kirchhain is the ice cream address near Schloss Doberlug. It is a practical stop after visiting the castle and abbey.",
+   "tip": "Combine with the castle visit; check opening days in winter.",
+   "q": "Eiscafé Leibnitz, Doberlug-Kirchhain",
+   "ll": [
+    51.61151,
+    13.55017
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/elbe-elster-land/gastronomie/eiscafe-leibnitz/"
+   ]
+  },
+  {
+   "id": "cbkahnluebbenau",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride a punt from Lübbenau to Lehde",
+   "desc": "Kahnfahrten Wendland run round trips by punt from Lübbenau harbour to Lehde or Leipe, lasting 1.5 to 6 hours. Punters pole through the canals past farmsteads and meadows.",
+   "tip": "April to August trips run roughly 10:00 to 15:30; ask for September and October.",
+   "q": "Kahnfahrten Wendland, Holzgraben, Lübbenau",
+   "ll": [
+    51.86309,
+    13.98947
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/spreewald/kahnfahrten/kahnfahrten-wendland/"
+   ]
+  },
+  {
+   "id": "cbtropical",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Spend a day at Tropical Islands in Krausnick",
+   "desc": "Tropical Islands occupies a huge former airship hangar in Krausnick, with an indoor rainforest, pools, saunas and a South Sea beach. Day guests can visit from 8:00 to 23:30.",
+   "tip": "Day visitors 8:00 to 23:30; buy tickets online. The outdoor Amazonia area is seasonal.",
+   "q": "Tropical Islands, Tropical-Islands-Allee 1, Krausnick",
+   "ll": [
+    52.03267,
+    13.76331
+   ],
+   "src": [
+    "https://www.in-berlin-brandenburg.com/Brandenburg/Landkreise/Dahme-Spreewald/Freizeit/Ausflugstipps/Tropical-Islands/",
+    "https://www.top10berlin.de/de/cat/wellness-272/thermen-sauna-und-wellness-brandenburg-1000/tropical-islands-3412"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "cbspreewaldtherme",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Soak in the Spreewald Therme in Burg",
+   "desc": "The Spreewald Therme in Burg is fed by brine from a spring 1,350 metres deep, with a Solebad and a sauna garden. It is the region's thermal bath.",
+   "tip": "Open about 9-22, Friday until 23; the sauna garden is part of the entry.",
+   "q": "Spreewald Therme, Ringchaussee 152, Burg (Spreewald)",
+   "ll": [
+    51.83799,
+    14.13608
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/spreewald/thermen/spreewald-therme-burg-spreewald/",
+    "https://www.in-berlin-brandenburg.com/Brandenburg/Landkreise/Spree-Neisse/Orte/Burg/Spreewald-Therme.html"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "cbsenftenbergsee",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim at Senftenberger See",
+   "desc": "The Senftenberger See is a former lignite pit flooded in the 1970s. It has about 7 km of maintained sandy beaches and lawns.",
+   "tip": "Dog-friendly beaches are signposted; canoes can be rented on site.",
+   "q": "Strand Senftenberger See, Am See, Senftenberg",
+   "ll": [
+    51.49914,
+    13.9823
+   ],
+   "src": [
+    "https://www.lausitzerseenland.de/en/the-lakes/article-lake-senftenberg.html",
+    "https://www.seen.de/senftenberger-see/freizeitangebote/"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "cbspreelagune",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim at the SpreeLagune near Lübben's Schlossinsel",
+   "desc": "The SpreeLagune near the Schlossinsel in Lübben has a beach area with a canoe landing and a natural swimming spot on the Spree. It is a short walk from the old town.",
+   "tip": "Combine with a paddle on the Spree.",
+   "q": "SpreeLagune, Ernst-von-Houwald-Damm, Lübben (Spreewald)",
+   "ll": [
+    51.937,
+    13.887
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/spreewald/wasserwanderrast-und-gastliegeplaetze/spreelagune/"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "cbluebbenkanu",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Paddle the canals around Lübben's Schlossinsel",
+   "desc": "A rented canoe tour of about 6 km and 2.5 hours starts opposite the Schlossinsel and runs through the town moat, Hauptspree and Nordumfluter. The route is easy and suits families and beginners.",
+   "tip": "Boat hire Gebauer at Lindenstraße 18 is opposite the island; ask about availability.",
+   "q": "Bootsverleih Gebauer, Lindenstraße 18, Lübben (Spreewald)",
+   "ll": [
+    51.93878,
+    13.89564
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/spreewald/bootsvermietung-kanu-etc-punkt/bootsverleih-gebauer/",
+    "https://www.reiseland-brandenburg.de/poi/spreewald/kanutouren/mit-dem-kanu-auf-schleusentour-rings-um-luebben/"
+   ],
+   "months": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "cbtierparkherzberg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Visit the free Tierpark Herzberg",
+   "desc": "The Tierpark Herzberg (Elster) in Grochwitz is a small wildlife park with free entry, donations welcome. In 2026 it opens 8-20 from April to September and 9-17 from October to March.",
+   "tip": "Dogs are not allowed. Take the RE3 or RE4 train to Herzberg and then bus 520.",
+   "q": "Tierpark Herzberg, An den Teichen 17 A, Herzberg (Elster)",
+   "ll": [
+    51.69876,
+    13.22073
+   ],
+   "src": [
+    "https://www.in-berlin-brandenburg.com/Brandenburg/Landkreise/Elbe-Elster/Freizeit/Ausflugstipps/Tierpark-Herzberg.html"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "cbelsterkanu",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Paddle the Schwarze Elster from Bad Liebenwerda",
+   "desc": "A canoe tour on the Schwarze Elster runs from Bad Liebenwerda down to Herzberg through meadows and floodplain.",
+   "tip": "Rent a boat locally and plan a full day.",
+   "q": "Schwarze Elster, Bad Liebenwerda",
+   "ll": [
+    51.49813,
+    13.41908
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/elbe-elster-land/kanutouren/auf-der-schwarzen-elster-von-bad-liebenwerda-nach-herzberg/"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "cbgurkenradweg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Cycle the Gurkenradweg from Lübbenau",
+   "desc": "The Gurkenradweg is a cycle route of about 250 km linking Lübbenau, Lübben and Cottbus. Guesthouses along the way offer tastings of the Spreewald gherkin.",
+   "tip": "Start at Lübbenau harbour; shorter loops such as the Lübbenauer Gurkentour include a pickling works.",
+   "q": "Großer Spreewaldhafen, Lübbenau",
+   "ll": [
+    51.8672,
+    13.97317
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/spreewald/radtouren/gurkenradweg-auf-den-spuren-der-spreewaelder-gurken/",
+    "https://www.reiseland-brandenburg.de/poi/spreewald/radtouren/luebbenauer-gurkentour/"
+   ]
+  },
+  {
+   "id": "cbpeitzfischzug",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch the Großer Fischzug in Peitz",
+   "desc": "At the end of October the Hälterteich in Peitz is drained in a traditional carp harvest, the highlight of the Peitzer Karpfenwochen. The Peitzer Teiche are Germany's largest connected pond area.",
+   "tip": "Held late October; check the date with the Peitz tourist office.",
+   "q": "Hälterteich, Peitz",
+   "ll": [
+    51.84309,
+    14.43674
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/veranstaltung/spreewald/29-grosser-fischzug-in-peitz-traditionelles-abfischen-am-haelterteich/"
+   ],
+   "months": [
+    10
+   ]
+  },
+  {
+   "id": "cbsegelsenftenberg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Sail a guided tour on the Senftenberger See",
+   "desc": "A guided sailing tour runs on the Senftenberger See. The lake is part of the Lausitzer Seenland and has a marina and Hafencamp.",
+   "tip": "Book ahead through the Hafencamp or Senftenberg tourist office.",
+   "q": "Marina und Hafencamp Senftenberger See, Senftenberg",
+   "ll": [
+    51.5067,
+    14.0367
+   ],
+   "src": [
+    "https://www.reiseland-brandenburg.de/poi/lausitzer-seenland/segeln/segeltour-auf-dem-senftenberger-see/"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  }
+ ]
+}

@@ -1,0 +1,830 @@
+{
+ "new": [
+  {
+   "id": "goweserstein",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stand where Werra and Fulda become the Weser",
+   "desc": "On the Tanzwerder island the Werra and Fulda meet and form the Weser, marked by the Weserstein monument with a rhyming inscription about the two rivers. The stone sits under a tree on the bank beside the old town of Hann. Münden.",
+   "tip": "Free and open at all times; combine it with a walk along the Fulda bank and coffee on the island.",
+   "q": "Weserstein, Tanzwerder, Hann. Münden",
+   "ll": [
+    51.42097,
+    9.64839
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Werra",
+    "https://www.komoot.com/highlight/6963193"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gomuendenrathaus",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Weser Renaissance town hall of Hann. Münden",
+   "desc": "The Gothic town hall was remodelled in Weser Renaissance style between 1603 and 1618. Its Doktor-Eisenbart carillon plays three times a day, with figures circling on the gable.",
+   "tip": "Be on the market square at carillon time; the old town around it has hundreds of half-timbered houses.",
+   "q": "Rathaus, Markt 1, Hann. Münden",
+   "ll": [
+    51.41738,
+    9.65125
+   ],
+   "src": [
+    "https://www.niedersachsen-tourism.com/poi/weser-renaissance-town-hall",
+    "https://www.deutsche-maerchenstrasse.com/en/start/poi/weser-renaissance-town-hall-with-carillon"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gomuendenschloss",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Welfenschloss and its faience museum",
+   "desc": "The Welf residence castle on the Werra was rebuilt in Weser Renaissance style after a fire in 1560. It houses the Städtisches Museum, founded in 1898, with local history and the town's well-known faience pottery.",
+   "tip": "Check opening days before going, as they are limited in winter.",
+   "q": "Welfenschloss, Schlossplatz, Hann. Münden",
+   "ll": [
+    51.418,
+    9.65488
+   ],
+   "src": [
+    "https://www.niedersachsen-tourism.com/destinations/tour-the-towns/hann-muenden",
+    "https://freizeitmonster.de/?p=1425665"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "gotillyschanze",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike up to the Tillyschanze tower above Münden",
+   "desc": "The 25-metre Tillyschanze observation tower rises above the old town of Hann. Münden. The climb through forest paths and stairs takes about 30 to 40 minutes.",
+   "tip": "Go on a clear day for views over the rivers and roofs; wear proper shoes.",
+   "q": "Tillyschanze, Hann. Münden",
+   "ll": [
+    51.41723,
+    9.64356
+   ],
+   "src": [
+    "https://www.niedersachsen-tourism.com/destinations/tour-the-towns/hann-muenden",
+    "https://freizeitmonster.de/?p=1425665"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "goratsbrauhaus",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink house-brewed beer at the Ratsbrauhaus",
+   "desc": "The Ratsbrauhaus at the market has revived brewing in Hann. Münden since 2003. It seats about 120 inside and 120 on the terrace.",
+   "tip": "Try the freshly brewed beer with a hearty main; hours differ between lunch and evening, so call ahead.",
+   "q": "Ratsbrauhaus, Markt 3, Hann. Münden",
+   "ll": [
+    51.41747,
+    9.65119
+   ],
+   "src": [
+    "https://visit.kassel.de/en/gastro/ratsbrauhaus-hann-muenden",
+    "https://www.speisekarte.de/hannoversch-m%C3%BCnden/restaurant/ratsbrauhaus/speisekarte"
+   ]
+  },
+  {
+   "id": "gogasthausweserstein",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine on the Tanzwerder island at Gasthaus Weserstein",
+   "desc": "The inn stands on the Tanzwerder island next to the old town, with a terrace looking across the Fulda to the restored Altstadt.",
+   "tip": "Take a terrace table in good weather and order a regional main course; it is right beside the Weserstein.",
+   "q": "Gasthaus Weserstein, Tanzwerder, Hann. Münden",
+   "ll": [
+    51.41787,
+    9.64829
+   ],
+   "src": [
+    "https://web.destination.one/en/gastro/gasthaus-weserstein"
+   ]
+  },
+  {
+   "id": "goburgplesse",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb the round tower of Burg Plesse",
+   "desc": "Burg Plesse, first mentioned in 1015, was the seat of the Edelherren von Plesse from 1150 until the line died out in 1571. Its thick-walled limestone round tower is the main viewpoint over the Leine valley.",
+   "tip": "It is a short climb from Bovenden; the ruin is open to explore and the tower gives the best view.",
+   "q": "Burg Plesse, Bovenden",
+   "ll": [
+    51.59771,
+    9.966
+   ],
+   "src": [
+    "https://www.wikipedia.com/wiki/Burg_Plesse",
+    "https://mygermancity.com/bovenden"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "goduderstadtrathaus",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the Duderstadt town hall and its council cellar",
+   "desc": "Duderstadt's town hall on Marktstraße has a construction history back to 1302, making it one of Germany's oldest. The half-timbered structure with three towers dates from 1532; inside are the old council wine cellar and a torture chamber.",
+   "tip": "Combine it with a stroll through the old town, which has about 600 half-timbered houses.",
+   "q": "Historisches Rathaus, Marktstraße, Duderstadt",
+   "ll": [
+    51.51205,
+    10.26127
+   ],
+   "src": [
+    "https://www.harzinfo.de/en/experiences/poi/the-historic-town-hall-in-duderstadt",
+    "https://www.wikipedia.com/wiki/Duderstadt"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "goduderstadtmauer",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the medieval wall to the Westerturm",
+   "desc": "Duderstadt was protected by a nearly 2 km town wall from the 13th century. The Westerturm, a former gate, is the town's landmark.",
+   "tip": "Free to walk at any time; the loop around the old town takes about an hour.",
+   "q": "Westerturm, Duderstadt",
+   "ll": [
+    51.51341,
+    10.25607
+   ],
+   "src": [
+    "https://www.wikipedia.com/wiki/Duderstadt",
+    "https://maps.adac.de/poi/duderstadt-niedersachsen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gocafeschauburg",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Eichsfelder Stracke at Café Schauburg",
+   "desc": "Café Schauburg in Duderstadt puts the Eichsfeld speciality Stracke, a dry cured sausage, on its menu. It is a long-standing local café and restaurant.",
+   "tip": "Order the Stracke plate, and finish with cake; it is on Steintorstraße just outside the market area.",
+   "q": "Café Schauburg, Steintorstraße 68, Duderstadt",
+   "ll": [
+    51.50899,
+    10.26015
+   ],
+   "src": [
+    "https://www.speisekarte.de/duderstadt/restaurant/cafe_schauburg_duderstadt/speisekarte"
+   ]
+  },
+  {
+   "id": "goseeburgersee",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk around the Seeburger See",
+   "desc": "The Seeburger See, in a nature reserve between Göttingen and Duderstadt, is circled by the roughly 5.5 km Natura Trail from Seeburg via Bernshausen. Boats and pedal boats can be hired at the lake.",
+   "tip": "Sundays are busiest; go on a weekday morning, and confirm the boat rental season locally.",
+   "q": "Seeburger See, Seeburg, Rosdorf",
+   "ll": [
+    51.56454,
+    10.16591
+   ],
+   "src": [
+    "https://www.seen.de/seeburger-see",
+    "https://www.ich-geh-wandern.de/rund-um-den-seeburger-see"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "goeinbeckmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Städtisches Museum Einbeck",
+   "desc": "The museum in Einbeck covers the town's history, including its brewing past and the pharmacist Friedrich Wilhelm Sertürner, who isolated morphine.",
+   "tip": "A good rainy-day stop between old-town half-timbering and the brewery.",
+   "q": "Städtisches Museum Einbeck, Steinweg, Einbeck",
+   "ll": [
+    51.82303,
+    9.87206
+   ],
+   "src": [
+    "https://maps.adac.de/poi/staedtisches-museum-einbeck"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "goeinbeckfassspur",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Follow the Einbeck beer barrel path",
+   "desc": "The Fass-Spur leads 2.4 km from the Old Town Hall on the market square (barrel 1) to the Einbecker Brauhaus on Papenstraße (barrel 8). It tells the story of the town's brewing history and rules.",
+   "tip": "Plan about 35 minutes of walking plus stops; the path ends at the brewery.",
+   "q": "Altes Rathaus, Marktplatz, Einbeck",
+   "ll": [
+    51.81806,
+    9.86688
+   ],
+   "src": [
+    "https://www.niedersachsen-tourism.com/tour/einbeck-beer-barrel-path-follow-the-barrel-path-trough-einbeck",
+    "https://www.niedersachsen-tourism.com/poi/einbeck-beer-barrel-path-barrel-1-of-strict-brewing-rules-and-bavarian-knowledge-acquisition"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "goeinbeckbrauhaus",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Tour the Einbecker Brauhaus, home of bock beer",
+   "desc": "Einbeck is the cradle of bock beer, and the Einbecker Brauhaus AG brews on Papenstraße 4-7, about 400 m from the market. Brewery and brewhouse tours with tasting can be booked.",
+   "tip": "Book by phone or the website in advance; a guided walk with tasting also starts at the Old Town Hall on some weekdays.",
+   "q": "Einbecker Brauhaus, Papenstraße 4-7, Einbeck",
+   "ll": [
+    51.81461,
+    9.83965
+   ],
+   "src": [
+    "https://www.niedersachsen-tourism.com/poi/einbecker-brewery",
+    "https://www.falstaff.com/en/breweries/einbecker-brauhaus-ag"
+   ]
+  },
+  {
+   "id": "gobrodhauseinbeck",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order mustard soup at the Brodhaus on Einbeck's market",
+   "desc": "The Brodhaus, the only preserved guildhall in Einbeck, stands on the market square and still serves as a restaurant with draught Einbecker beer. Reviewers single out the mustard soup.",
+   "tip": "Try the mustard soup with a beer from the tap; reserve for evenings.",
+   "q": "Brodhaus, Marktplatz 13, Einbeck",
+   "ll": [
+    51.81848,
+    9.86708
+   ],
+   "src": [
+    "https://www.niedersachsen-tourism.com/poi/brodhaus",
+    "https://www.opentable.com/r/brodhaus-einbeck"
+   ]
+  },
+  {
+   "id": "gozumbrauherren",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink Einbecker beer at Zum Brauherren",
+   "desc": "The tavern and pub Zum Brauherren sits on Einbeck's market square next to the Town Scales and serves Einbecker beer with hearty food.",
+   "tip": "A classic for a pint of Einbecker Ur-Bock after the barrel path.",
+   "q": "Zum Brauherren, Marktplatz, Einbeck",
+   "ll": [
+    51.81811,
+    9.86643
+   ],
+   "src": [
+    "https://web.destination.one/en/gastro/tavern-and-pub-zum-brauherren"
+   ]
+  },
+  {
+   "id": "goaltstadtcafeeinbeck",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat homemade cake in a former convent at Altstadt-Café",
+   "desc": "The Altstadt-Café at Maschenstraße 9 occupies the former Poor Clares convent. It serves breakfast and homemade cakes and pies about five minutes from the market square.",
+   "tip": "Come for breakfast or afternoon cake; the building is not barrier-free.",
+   "q": "Altstadt-Café, Maschenstraße 9, Einbeck",
+   "ll": [
+    51.81767,
+    9.86492
+   ],
+   "src": [
+    "https://web.destination.one/en/gastro/old-town-cafe"
+   ]
+  },
+  {
+   "id": "goeinbeckroesterei",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Sip roasted coffee at the Einbecker Kaffeerösterei",
+   "desc": "The Einbecker Kaffeerösterei is a café with its own roastery at Marktplatz 25, on Einbeck's main square.",
+   "tip": "Order a coffee and beans to take home; the market square seats are best in summer.",
+   "q": "Einbecker Kaffeerösterei, Marktplatz 25, Einbeck",
+   "ll": [
+    51.81812,
+    9.86805
+   ],
+   "src": [
+    "https://freizeitmonster.de/gastronomie/cafes/einbecker-kaffeeroesterei-268486"
+   ]
+  },
+  {
+   "id": "gogandersheimstiftskirche",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Romanesque towers of the Gandersheim Stiftskirche",
+   "desc": "The abbey church of Bad Gandersheim, with its massive westwork dedicated in 927, has two Romanesque towers on the market square. Roswitha of Gandersheim, the first German woman poet, lived in the abbey.",
+   "tip": "Look for the Roswitha fountain in the abbey courtyard, installed in 1978.",
+   "q": "Stiftskirche, Stiftsfreiheit, Bad Gandersheim",
+   "ll": [
+    51.8693,
+    10.0264
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Gandersheim_Abbey",
+    "https://maps.adac.de/poi/stiftskirche-bad-gandersheim"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gogandersheimdomfestspiele",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch open-air theatre at the Gandersheimer Domfestspiele",
+   "desc": "The Domfestspiele have been staged in front of the Stiftskirche since 1959; the 67th season in 2026 ran from 14 June to 16 August.",
+   "tip": "Book tickets ahead for the summer season and bring a warm layer for evening shows.",
+   "q": "Gandersheimer Domfestspiele, Stiftsfreiheit, Bad Gandersheim",
+   "ll": [
+    51.8692,
+    10.0261
+   ],
+   "src": [
+    "https://www.festivalsindeutschland.de/festival/gandersheimer-domfestspiele-2026"
+   ],
+   "months": [
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "gonortheimsixti",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Admire the twisted tower of St. Sixti in Northeim",
+   "desc": "St. Sixti is a late Gothic church built from 1464 to 1517, known for its eight-sided twisted tower. It is the main landmark of Northeim's half-timbered old town.",
+   "tip": "Walk the old streets around it, where some rows are entirely half-timbered.",
+   "q": "St.-Sixti-Kirche, Northeim",
+   "ll": [
+    51.70528,
+    10.00302
+   ],
+   "src": [
+    "https://maps.adac.de/poi/st-sixti-kirche-northeim",
+    "https://de.wikivoyage.org/wiki/Northeim"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gonortheimheimatmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Höckelheim coin hoard in the Northeim museum",
+   "desc": "The Heimatmuseum occupies the former St. Spiritus hospital, founded in 1478. It holds the Höckelheim coin hoard of more than 17,000 coins.",
+   "tip": "Check current opening days with the museum before visiting.",
+   "q": "Heimatmuseum Northeim, Northeim",
+   "ll": [
+    51.79327,
+    9.9745
+   ],
+   "src": [
+    "https://maps.adac.de/poi/heimatmuseum-northeim-1"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "gounderslarhoeche",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat game and steak at Und Fröhlich Höche in Uslar",
+   "desc": "Und Fröhlich Höche in Uslar serves juicy steaks and game specialities, according to its menu listing, and is recommended by Solling hosts.",
+   "tip": "Order the game dish of the day and ask about portion sizes.",
+   "q": "Und Fröhlich Höche, Uslar",
+   "ll": [
+    51.68756,
+    9.56122
+   ],
+   "src": [
+    "https://speisekarte.menu/restaurants/uslar/froehlich-hoeche"
+   ]
+  },
+  {
+   "id": "gohochsollingturm",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Climb the 33 m Hochsollingturm in the Solling",
+   "desc": "The wooden Hochsollingturm, finished in 1992, stands at about 480 m between Neuhaus and Silberborn. A climb of 180 steps leads to the platform with views over the Reinhardswald and Bramwald.",
+   "tip": "It is about 500 m from the road car park; check if the platform is open in winter.",
+   "q": "Hochsollingturm, Neuhaus im Solling, Holzminden",
+   "ll": [
+    51.75556,
+    9.54372
+   ],
+   "src": [
+    "https://www.ich-geh-wandern.de/vom-neuen-teich-zum-hochsollingturm",
+    "https://www.komoot.com/highlight/214687"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gowildparkneuhaus",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk through the Wildpark Neuhaus in the Solling",
+   "desc": "The Wildpark Neuhaus covers more than 50 hectares inside the Solling-Vogler nature park and shows native animals such as deer, wolves and lynx in near-natural enclosures.",
+   "tip": "Open daily, 9:00-19:00 from May to October and 9:00-17:00 in winter; last entry one hour before closing.",
+   "q": "Wildpark Neuhaus, Neuhaus im Solling, Holzminden",
+   "ll": [
+    51.74214,
+    9.52223
+   ],
+   "src": [
+    "https://www.landesforsten.de/wp-content/uploads/2026/05/parkordnung_wildparkneuhaus.pdf",
+    "https://www.ich-geh-wandern.de/vom-wildpark-neuhaus-in-die-ahlewiesen-im-solling"
+   ]
+  },
+  {
+   "id": "gosollingturmstrutberg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike to the Sollingturm on the Strutberg",
+   "desc": "The stone Sollingturm on the Strutberg near Uslar stands on a peak of about 444 m. It is a different tower from the Hochsollingturm.",
+   "tip": "Do not confuse it with the Hochsollingturm; bring boots for the forest trails.",
+   "q": "Sollingturm, Strutberg, Uslar",
+   "ll": [
+    51.68479,
+    9.60751
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Solling",
+    "https://freizeitmonster.de/blog/outdoor-aktivitaeten-uslar"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "goschlossbevern",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Admire Weser Renaissance Schloss Bevern",
+   "desc": "Schloss Bevern was built 1603 to 1612 by Statius von Münchhausen and is considered one of the most perfect late Weser Renaissance buildings. It is now a cultural centre with exhibitions and open-air events in the courtyard.",
+   "tip": "Check the exhibition and event programme before going.",
+   "q": "Schloss Bevern, Schlossplatz, Bevern",
+   "ll": [
+    51.85714,
+    9.49594
+   ],
+   "src": [
+    "https://www.niedersachsen-tourism.com/poi/kulturzentrum-weserrenaissance-schloss-bevern",
+    "https://www.niedersachsen-tourism.com/experiences/culture-in-lower-saxony/worth-seeing/bevern-castle"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "goburgruinepolle",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb to the Burgruine Polle above the Weser",
+   "desc": "The ruin of Burg Polle, dating to about 1200, sits on a crag in a loop of the Weser. An open-air stage is set inside the walls, and guided tours are offered.",
+   "tip": "The Märchen- und Sagenwochenende takes place in late August; the ruin is free to see otherwise.",
+   "q": "Burgruine Polle, Polle",
+   "ll": [
+    51.89953,
+    9.40567
+   ],
+   "src": [
+    "https://www.deutsche-maerchenstrasse.com/en/poi/burgruine-polle",
+    "https://www.lonelyplanet.com/germany/attractions/burgruine-polle/a/poi-sig/1519683/359343"
+   ]
+  },
+  {
+   "id": "gomuenchhausenmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Meet Baron Münchhausen in Bodenwerder",
+   "desc": "The Münchhausen Museum in the Schulenburg, a building from about 1300, is part of the baron's estate in Bodenwerder. It shows personal items and over 1,150 editions of his tall tales; the manor house where he was born is now the town hall.",
+   "tip": "Some sources say winter visits are by appointment only, so check before travelling in November to March.",
+   "q": "Münchhausen-Museum, Münchhausenplatz 1, Bodenwerder",
+   "ll": [
+    51.9757,
+    9.5154
+   ],
+   "src": [
+    "https://www.niedersachsen-tourism.com/poi/muenchhausen-museum-bodenwerder",
+    "https://en.wikipedia.org/wiki/Bodenwerder"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "gofuerstenbergmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See porcelain history at Museum Schloss Fürstenberg",
+   "desc": "Fürstenberg Porzellan has been made at Schloss Fürstenberg on the Weser since the 18th century, and the museum in the castle shows its history and special exhibitions. The factory shop (Werksverkauf) sells porcelain all year.",
+   "tip": "Check museum hours on the official site; the factory shop is open Tuesday to Sunday.",
+   "q": "Museum Schloss Fürstenberg, Meinbrexener Straße 2, Fürstenberg",
+   "ll": [
+    51.7314,
+    9.39779
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/F%C3%BCrstenberg_China",
+    "https://www.deutsche-maerchenstrasse.com/en/poi/fuerstenberg-castle-museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "gofelsenkellerholzminden",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat with a Weser valley view at the Felsenkeller",
+   "desc": "The family-run Felsenkeller on Hoher Weg offers restaurant, café and beer garden with a view over the Weser valley and the town of Holzminden.",
+   "tip": "Come for the beer garden on a clear evening.",
+   "q": "Felsenkeller, Hoher Weg 24, Holzminden",
+   "ll": [
+    51.82177,
+    9.4563
+   ],
+   "src": [
+    "https://web2.cylex.de/firma-home/felsenkeller-restaurant-3394698.html"
+   ]
+  },
+  {
+   "id": "gobauzersholzminden",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine by the Weser at Bauzers in Holzminden",
+   "desc": "Bauzers is the restaurant of the Weserhotel Schwager at Steinhof 2, on the historic grounds of the Burg zu Everstein, directly on the Weser cycle path.",
+   "tip": "Open in the evening, about 18:00-21:30; call ahead to reserve.",
+   "q": "Bauzers, Weserhotel Schwager, Steinhof 2, Holzminden",
+   "ll": [
+    51.82692,
+    9.44397
+   ],
+   "src": [
+    "https://www.speisekarte.de/holzminden/restaurant/bauzers_im_weserhotel_schwager"
+   ]
+  },
+  {
+   "id": "goburghanstein",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the ruins of Burg Hanstein",
+   "desc": "Burg Hanstein, on the Höheberg about 350 m above the Werra, is often called the most beautiful castle ruin of the Werratal and Eichsfeld. A stone castle was permitted in 1308, destroyed in part by Swedish troops in 1632 and restored in 1904-1915.",
+   "tip": "Opening hours are reported as 10:00-18:00 from March to October and 10:00-16:00 in November; confirm on burgruine-hanstein.de.",
+   "q": "Burgruine Hanstein, Hansteinstraße, Bornhagen",
+   "ll": [
+    51.38549,
+    10.00645
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Hanstein_Castle",
+    "https://deutsche-maerchenstrasse.com/en/poi/hanstein-castle-ruins"
+   ]
+  },
+  {
+   "id": "gogrenzlandmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Learn about the inner-German border at Teistungen",
+   "desc": "The Grenzlandmuseum Eichsfeld in Teistungen documents the former border between East and West Germany that ran through the Eichsfeld.",
+   "tip": "Open Tuesday to Sunday, 10:00-17:00 according to listings; closed Mondays.",
+   "q": "Grenzlandmuseum Eichsfeld, Duderstädter Straße, Teistungen",
+   "ll": [
+    51.48237,
+    10.26194
+   ],
+   "src": [
+    "https://www.museum.de/museen/grenzlandmuseum-eichsfeld-1",
+    "https://en.wikipedia.org/wiki/Teistungen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "gobaerenparkworbis",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Visit rescued bears at the Alternativer Bärenpark Worbis",
+   "desc": "The Alternativer Bärenpark Worbis is home to ten brown bears and two black bears rescued from poor conditions, plus a wolf pack, in large forest enclosures.",
+   "tip": "Roughly 10:00-18:00 in summer and 10:00-16:00 in winter; adults pay about 13 euros. Confirm on baer.de.",
+   "q": "Alternativer Bärenpark Worbis, Duderstädter Allee 49, Leinefelde-Worbis",
+   "ll": [
+    51.42793,
+    10.34529
+   ],
+   "src": [
+    "https://www.baer.de/images/04-downloads/20-Flyer-Worbis/2025-12-09-abw_parkflyer_de_2026-1.pdf",
+    "https://maps.adac.de/poi/alternativer-baerenpark-worbis-leinefelde"
+   ]
+  },
+  {
+   "id": "gostormmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Theodor Storm literature museum in Heiligenstadt",
+   "desc": "Heilbad Heiligenstadt houses the Literaturmuseum Theodor Storm, devoted to the writer who lived and worked as a judge in the town.",
+   "tip": "Check opening hours with the town before visiting.",
+   "q": "Literaturmuseum Theodor Storm, Heilbad Heiligenstadt",
+   "ll": [
+    51.37733,
+    10.13275
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Heilbad_Heiligenstadt"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "goheiligenstadtkurpark",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Stroll through the Heinrich-Heine-Kurpark",
+   "desc": "The Heinrich-Heine-Kurpark is the spa town's main park, a short walk from the centre of Heilbad Heiligenstadt.",
+   "tip": "Free all day; the Leine-Heide cycle route passes it.",
+   "q": "Heinrich-Heine-Kurpark, Heilbad Heiligenstadt",
+   "ll": [
+    51.38038,
+    10.14121
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Heilbad_Heiligenstadt",
+    "https://www.expedia.com/cn/Heinrich-Heine-Kurpark-Heilbad-Heiligenstadt.d553248635998122461.Place-To-Visit"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "goeichsfeldtherme",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Soak in the Eichsfeld-Therme in Heiligenstadt",
+   "desc": "The Eichsfeld-Therme in the Vitalpark has thermal pools and a sauna landscape with seven saunas and steam baths, a laconium and a cold-water basin.",
+   "tip": "Pool hours are roughly 10:00-22:00 on weekdays; the sauna area has its own hours.",
+   "q": "Vitalpark Eichsfeld-Therme, Heilbad Heiligenstadt",
+   "ll": [
+    51.38412,
+    10.1497
+   ],
+   "src": [
+    "https://www.ab-ins-schwimmbad.de/Heiligenstadt/Erlebnisbad-Eichsfeld-Therme.html",
+    "https://microsites.bahn.de/regional-de/regionen/thueringen/ausflugstipps/aktiv/vitalpark_heiligenstadt"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "gonorddeutscherbund",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat veal with Thuringian dumplings at Norddeutscher Bund",
+   "desc": "Restaurant Norddeutscher Bund on Göttinger Straße in Heilbad Heiligenstadt lists braised veal with Thuringian Klöße among its recommendations.",
+   "tip": "Menus from about 38 euros; hours are limited, so reserve.",
+   "q": "Restaurant Norddeutscher Bund, Göttinger Straße 25, Heilbad Heiligenstadt",
+   "ll": [
+    51.3779,
+    10.1345
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/heilbad-heiligenstadt/restaurant-norddeutscher-bund/"
+   ]
+  },
+  {
+   "id": "gonordhaeuserbrennerei",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Tour the Echte Nordhäuser Traditionsbrennerei",
+   "desc": "Joseph Seidel founded the distillery in 1857, and its Jugendstil building ensemble dates from 1907-1908. The museum tour covers German grain distilling tradition and ends with a tasting for adults; Doppelkorn ages in the old customs cellar.",
+   "tip": "Book the tour and check current times with the distillery on Grimmelallee.",
+   "q": "Echte Nordhäuser Traditionsbrennerei, Grimmelallee 11, Nordhausen",
+   "ll": [
+    51.5048,
+    10.788
+   ],
+   "src": [
+    "https://www.thueringen-entdecken.de/en/w/echter-nordhauser-traditionsbrennerei",
+    "https://www.harzinfo.de/en/experiences/poi/echter-nordhaeuser-traditionsbrennerei-distillery"
+   ]
+  },
+  {
+   "id": "gonordhausendom",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Nordhäuser Dom zum Heiligen Kreuz",
+   "desc": "The Dom on Domstraße was rebuilt several times and badly damaged in the British air raid of 4 April 1945, yet kept its name from medieval collegiate use.",
+   "tip": "Free to enter during daytime hours; combine with the old town.",
+   "q": "Dom zum Heiligen Kreuz, Domstraße, Nordhausen",
+   "ll": [
+    51.50401,
+    10.79012
+   ],
+   "src": [
+    "https://de.wikivoyage.org/wiki/Nordhausen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gomittelbaudora",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Mittelbau-Dora concentration camp memorial",
+   "desc": "Dora was set up in August 1943 on the Kohnstein as a subcamp of Buchenwald, where prisoners expanded tunnels to build V2 rockets. More than 60,000 people passed through the camp.",
+   "tip": "German-language guided tours run Tuesday to Sunday; allow several hours.",
+   "q": "KZ-Gedenkstätte Mittelbau-Dora, Kohnsteinweg 20, Nordhausen",
+   "ll": [
+    51.53454,
+    10.75068
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/points-of-interest/kz-gedenkstaette-mittelbau-dora/1210547",
+    "https://de.wikivoyage.org/wiki/Nordhausen"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "gocafecentralnordhausen",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have brunch at Café Central in Nordhausen",
+   "desc": "Café Central at Töpferstraße 1C is a central spot with a brunch menu, a wine list and evening food; dishes run about 10 to 20 euros.",
+   "tip": "Go for brunch; the large windows overlook the street.",
+   "q": "Café Central, Töpferstraße 1C, Nordhausen",
+   "ll": [
+    51.50235,
+    10.79629
+   ],
+   "src": [
+    "https://www.swipein.restaurant/en/restaurant/cafe-central-nordhausen-thuringen"
+   ]
+  },
+  {
+   "id": "gocharliesnordhausen",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order Weißbier onion roast at Charlie's in Nordhausen",
+   "desc": "Charlie's Restaurant & Bar in the Hotel Nordhäuser Fürstenhof recommends a Thuringian Weißbier onion roast with Thuringian dumplings.",
+   "tip": "Mains are about 17 to 33 euros.",
+   "q": "Charlie's Restaurant & Bar, Bahnhofstraße 12-13, Nordhausen",
+   "ll": [
+    51.49394,
+    10.79012
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/nordhausen/charlies-restaurant-bar/"
+   ]
+  },
+  {
+   "id": "gonordhausenhsb",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Harz narrow-gauge steam train from Nordhausen",
+   "desc": "Nordhausen has been the southern terminus of the Harz narrow-gauge railways since 1898. A daily steam connection runs from Nordhausen to the Brocken and back.",
+   "tip": "Check the timetable: replacement buses ran between Ilfeld and Eisfelder Talmühle from March to August 2026.",
+   "q": "Bahnhof Nordhausen Nord, Nordhausen",
+   "ll": [
+    51.49391,
+    10.78875
+   ],
+   "src": [
+    "https://en.wikipedia.com/wiki/Harzer_Schmalspurbahn",
+    "https://en.harzinfo.de/pure-nature/mount-brocken/narrow-gauge-railway"
+   ]
+  }
+ ]
+}

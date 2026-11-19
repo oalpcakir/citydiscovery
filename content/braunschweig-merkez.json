@@ -1,0 +1,773 @@
+{
+ "new": [
+  {
+   "id": "bsdom",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit Brunswick Cathedral and Henry the Lion's tomb",
+   "desc": "Brunswick Cathedral (St. Blasii) was founded by Henry the Lion in 1173 and holds his tomb alongside that of his wife Matilda of England. The Romanesque basilica has medieval wall paintings and a seven-armed candelabrum from around 1180.",
+   "tip": "Entry to the nave is free; the tower can be climbed on selected days.",
+   "q": "Braunschweiger Dom, Domplatz, Innenstadt, Braunschweig",
+   "ll": [
+    52.26492,
+    10.5248
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Brunswick_Cathedral"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bsburg",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Brunswick Lion at Burg Dankwarderode",
+   "desc": "The bronze Brunswick Lion, cast around 1166, symbolised Henry the Lion's power and is regarded as the oldest free-standing medieval bronze sculpture north of the Alps. The original stands inside Burg Dankwarderode, a 19th-century reconstruction of the ducal castle, with a copy on the Burgplatz.",
+   "tip": "The copy on the square is free; the original and the Knights' Hall are inside the castle museum.",
+   "q": "Burg Dankwarderode, Burgplatz 1, Braunschweig",
+   "ll": [
+    52.26485,
+    10.52335
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Burg_Dankwarderode",
+    "https://en.wikipedia.org/wiki/Brunswick_Lion"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bsrizzi",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find the Happy Rizzi House in the Magniviertel",
+   "desc": "The Happy Rizzi House is a colourful pop-art building by New York artist James Rizzi, completed in 2001 and covered in his cheerful motifs. It stands among historic half-timbered houses near the Magni quarter.",
+   "tip": "Best in daylight for photos; it is mainly an exterior sight.",
+   "q": "Happy Rizzi House, Hinter der Magnikirche, Braunschweig",
+   "ll": [
+    52.2624,
+    10.52882
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Happy_Rizzi_House"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bsaltstadtmarkt",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Admire the Altstadtmarkt, Rathaus and Gewandhaus",
+   "desc": "The Altstadtmarkt is the medieval market square with the Gothic Altstadtrathaus and the Renaissance Gewandhaus (cloth hall), whose gable from around 1590 is one of Germany's finest Renaissance facades.",
+   "tip": "Visit in daytime; the Christmas market also fills the square in December.",
+   "q": "Altstadtmarkt, Braunschweig",
+   "ll": [
+    52.26285,
+    10.51747
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Altstadtmarkt_(Braunschweig)",
+    "https://de.wikipedia.org/wiki/Gewandhaus_(Braunschweig)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bsschloss",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Photograph the Residenzschloss and its Quadriga",
+   "desc": "The Residenzschloss Braunschweig is a rebuilt ducal palace whose facade was reconstructed in 2007, topped by the bronze Quadriga with Brunonia. It houses the Schloss-Arkaden shopping centre, an archive and the Schlossmuseum.",
+   "tip": "The Quadriga is best photographed from the Schlossplatz; the Schlossmuseum shows restored rooms.",
+   "q": "Residenzschloss Braunschweig, Schlossplatz 1, Braunschweig",
+   "ll": [
+    52.26332,
+    10.5274
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Brunswick_Palace"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bsmagni",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk the half-timbered Magniviertel and St. Magni church",
+   "desc": "The Magni quarter is one of the few old districts of the city to survive WWII in part, with the Romanesque-Gothic Magnikirche, narrow lanes and half-timbered houses. It is today the cafe and gallery neighbourhood.",
+   "tip": "Combine with coffee at one of the cafes nearby.",
+   "q": "Magnikirche, Magnitorwall, Braunschweig",
+   "ll": [
+    52.26216,
+    10.53006
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/St._Magni_(Braunschweig)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bshaum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Browse old masters at the Herzog Anton Ulrich-Museum",
+   "desc": "Founded in 1754, the Herzog Anton Ulrich-Museum is one of Germany's oldest museums and holds works by Rembrandt, Vermeer and Cranach, plus Renaissance bronzes and Italian maiolica.",
+   "tip": "Usually closed Mondays; check the museum site for hours.",
+   "q": "Herzog Anton Ulrich-Museum, Museumstraße 1, Braunschweig",
+   "ll": [
+    52.26368,
+    10.53266
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Herzog_Anton_Ulrich_Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bslandesmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Explore regional history at the Braunschweigisches Landesmuseum",
+   "desc": "The Braunschweigisches Landesmuseum on the Burgplatz covers the history of the Brunswick region from prehistory to modern times. It occupies the former Dominican monastery and the Hinterer Hof.",
+   "tip": "Allow around two hours; combine with Burg Dankwarderode next door.",
+   "q": "Braunschweigisches Landesmuseum, Burgplatz 1, Braunschweig",
+   "ll": [
+    52.2647,
+    10.5229
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Braunschweigisches_Landesmuseum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bsriddagshausen",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Visit the abbey church of Riddagshausen",
+   "desc": "Riddagshausen was a Cistercian monastery founded in 1145; its Gothic church survives and is an important early Gothic building in northern Germany. The abbey is surrounded by fish ponds and a nature reserve.",
+   "tip": "Entry is free; a cafe in the grounds serves cake after a walk.",
+   "q": "Klosterkirche Riddagshausen, Klostergang, Braunschweig",
+   "ll": [
+    52.2675,
+    10.5765
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kloster_Riddagshausen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bsmartini",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step inside the Gothic church of St. Martini",
+   "desc": "The Martinikirche is a Gothic hall church near the Altstadtmarkt, begun in the 12th century and extended over the following centuries. Its interior and old-town setting are the draw.",
+   "tip": "Open to visitors in daytime; check for service times.",
+   "q": "Martinikirche, Kohlmarkt, Braunschweig",
+   "ll": [
+    52.26226,
+    10.51712
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/St._Martini_(Braunschweig)"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bsgewandhaus",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Dine under vaults at the Gewandhaus cellar",
+   "desc": "The Gewandhaus restaurant on the Altstadtmarkt occupies a Renaissance building with a vaulted cellar often described as one of northern Germany's oldest. It serves regional German cooking.",
+   "tip": "Book ahead for weekends; try a regional dish.",
+   "q": "Gewandhaus Restaurant, Altstadtmarkt 1, Braunschweig",
+   "ll": [
+    52.26256,
+    10.51796
+   ],
+   "src": [
+    "https://braunschweig.de/english/city/kulinarik/beer.php"
+   ]
+  },
+  {
+   "id": "bsmutterhabenicht",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order the Mumme pork roast at Mutter Habenicht",
+   "desc": "Mutter Habenicht is a traditional brewery-restaurant serving Eastphalian cooking. Known dishes include the Mumme-Schweinebraten (pork roast with Braunschweiger Mumme) and Bregenwurst.",
+   "tip": "Pair it with the house beer; reserve for dinner.",
+   "q": "Mutter Habenicht, Braunschweig",
+   "ll": [
+    52.26456,
+    10.52236
+   ],
+   "src": [
+    "https://www.speisekarte.de/braunschweig/restaurant/mutter_habenicht/bewertung",
+    "https://aboutcities.de/staedte/braunschweig-entdecken/kulinarisch-durch-braunschweig"
+   ]
+  },
+  {
+   "id": "bsriptide",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Have vegan cake at Café Riptide",
+   "desc": "Riptide in the Magniviertel was the city's first vegan cafe, opened roughly ten years ago with a record shop attached. It serves cake plus vegetarian and mostly vegan lunch.",
+   "tip": "Weekday afternoons are quieter.",
+   "q": "Café Riptide, Magniviertel, Braunschweig",
+   "ll": [
+    52.262,
+    10.52964
+   ],
+   "src": [
+    "https://tracksandthecity.de/cafes-braunschweig/"
+   ]
+  },
+  {
+   "id": "bskreuzgang",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Relax at Café Kreuzgang in a cloister garden",
+   "desc": "Café Kreuzgang sits in the garden of the St. Ulrici-Brüdern church and is a quiet place for coffee and cake in the old town.",
+   "tip": "Best on dry days for the garden.",
+   "q": "Café Kreuzgang, Ulrici-Brüdern-Kirche, Braunschweig",
+   "ll": [
+    52.26519,
+    10.51861
+   ],
+   "src": [
+    "https://tracksandthecity.de/cafes-braunschweig/"
+   ]
+  },
+  {
+   "id": "bszucker",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try seasonal dishes at Restaurant Zucker",
+   "desc": "Restaurant Zucker in the Magniviertel serves modern seasonal food on a changing menu using local producers.",
+   "tip": "Reserve at weekends.",
+   "q": "Restaurant Zucker, Magniviertel, Braunschweig",
+   "ll": [
+    52.2562,
+    10.51501
+   ],
+   "src": [
+    "https://aboutcities.de/staedte/braunschweig-entdecken/kulinarisch-durch-braunschweig"
+   ]
+  },
+  {
+   "id": "bsschadts",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Drink house beer at Schadt's Brauerei Gasthaus",
+   "desc": "Schadt's is a brewery pub in the Magniviertel serving traditional German food and its own beers.",
+   "tip": "Try the beer sampler.",
+   "q": "Schadt's Brauerei Gasthaus, Magniviertel, Braunschweig",
+   "ll": [
+    52.26558,
+    10.52278
+   ],
+   "src": [
+    "https://www.tripadvisor.com/Restaurants-g187348-zft10613-Braunschweig_Lower_Saxony.html"
+   ]
+  },
+  {
+   "id": "bswolters",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Taste Wolters Pils from the Hofbrauhaus Wolters",
+   "desc": "Hofbrauhaus Wolters is Braunschweig's historic brewery, tracing back to 1627 and named a ducal court brewery in 1876. It sits at Wolfenbütteler Straße 39.",
+   "tip": "Wolters beer is on tap in most local pubs; brewery visits need booking.",
+   "q": "Hofbrauhaus Wolters, Wolfenbütteler Straße 39, Braunschweig",
+   "ll": [
+    52.24734,
+    10.53097
+   ],
+   "src": [
+    "https://braunschweig.de/english/city/kulinarik/beer.php"
+   ]
+  },
+  {
+   "id": "bsoker",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Cruise the Oker river by boat",
+   "desc": "The Okerumflut loop around the old city can be explored by boat in summer, passing parks and old city walls.",
+   "tip": "Seasonal; check local operators for the current schedule.",
+   "q": "Okerumflut, Braunschweig",
+   "ll": [
+    52.2625,
+    10.533
+   ],
+   "src": [
+    "https://www.braunschweig.de/tourismus"
+   ],
+   "months": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "bsriddaswalk",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Walk the Riddagshausen fish ponds nature reserve",
+   "desc": "The Riddagshäuser Teiche are medieval monastery fish ponds, now a nature reserve and bird area on the city's east edge.",
+   "tip": "Binoculars help in spring and autumn.",
+   "q": "Naturschutzgebiet Riddagshausen, Braunschweig",
+   "ll": [
+    52.27245,
+    10.59188
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Riddagshausen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bseintracht",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Watch Eintracht Braunschweig at the Eintracht-Stadion",
+   "desc": "Eintracht Braunschweig, founded in 1895, won the Bundesliga in 1967. Home matches are at the Eintracht-Stadion on Hamburger Straße.",
+   "tip": "Buy tickets in advance for derbies.",
+   "q": "Eintracht-Stadion, Hamburger Straße 210, Braunschweig",
+   "ll": [
+    52.2901,
+    10.52147
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Eintracht_Braunschweig"
+   ]
+  },
+  {
+   "id": "bsweihnachtsmarkt",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Braunschweig Christmas Market",
+   "desc": "The market spreads across the Altstadtmarkt, Burgplatz and Kohlmarkt beside the cathedral and castle, with stalls and Glühwein.",
+   "tip": "Gets crowded on weekend evenings.",
+   "q": "Weihnachtsmarkt Braunschweig, Altstadtmarkt, Braunschweig",
+   "ll": [
+    52.26286,
+    10.51682
+   ],
+   "src": [
+    "https://www.braunschweig.de/tourismus"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    11,
+    12
+   ]
+  },
+  {
+   "id": "bsbotanik",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Stroll the Botanical Garden of Braunschweig",
+   "desc": "The Botanischer Garten of the TU Braunschweig is a university garden with themed collections and glasshouses.",
+   "tip": "Weekdays are quiet.",
+   "q": "Botanischer Garten, Humboldtstraße 1, Braunschweig",
+   "ll": [
+    52.2708,
+    10.53286
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Botanischer_Garten_der_Technischen_Universität_Braunschweig"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bsautostadt",
+   "cat": "gor",
+   "area": "wolfsburg",
+   "title": "Spend a day at the Autostadt",
+   "desc": "The Autostadt is Volkswagen's brand theme park beside the plant, with pavilions for each VW brand, the twin car towers and the ZeitHaus car museum. It opened in 2000.",
+   "tip": "Tickets are cheaper online; plan 5 to 6 hours.",
+   "q": "Autostadt, Stadtbrücke, Wolfsburg",
+   "ll": [
+    52.43137,
+    10.79334
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Autostadt"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bsphaeno",
+   "cat": "gor",
+   "area": "wolfsburg",
+   "title": "Experiment at the phaeno science centre",
+   "desc": "phaeno is an interactive science museum in a concrete building by Zaha Hadid (2005) with over 350 experiments. It reopened in December 2025 after a seven-week refit.",
+   "tip": "Usually closed Mondays; weekends get busy.",
+   "q": "phaeno, Willy-Brandt-Platz 1, Wolfsburg",
+   "ll": [
+    52.4291,
+    10.7925
+   ],
+   "src": [
+    "https://www.phaeno.de/en/",
+    "https://en.wikipedia.org/wiki/Phaeno_Science_Center"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bskunstmuseumwob",
+   "cat": "gor",
+   "area": "wolfsburg",
+   "title": "See contemporary art at the Kunstmuseum Wolfsburg",
+   "desc": "The Kunstmuseum Wolfsburg opened in 1994 and presents modern and contemporary art in changing exhibitions plus a permanent collection.",
+   "tip": "Check current exhibitions; closed on Mondays.",
+   "q": "Kunstmuseum Wolfsburg, Hollerplatz 1, Wolfsburg",
+   "ll": [
+    52.41855,
+    10.78527
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kunstmuseum_Wolfsburg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bsschlosswob",
+   "cat": "gor",
+   "area": "wolfsburg",
+   "title": "Tour Schloss Wolfsburg and its museum",
+   "desc": "Schloss Wolfsburg is a Weser Renaissance castle that gave the city its name, dating mainly from the 16th century. It houses the city museum and a gallery.",
+   "tip": "Wolfsburg's old centre is a short distance away.",
+   "q": "Schloss Wolfsburg, Schloßstraße 8, Wolfsburg",
+   "ll": [
+    52.43916,
+    10.79968
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Wolfsburg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bsaalto",
+   "cat": "gor",
+   "area": "wolfsburg",
+   "title": "Visit the Alvar Aalto Cultural Centre",
+   "desc": "The Alvar Aalto Kulturhaus, completed in 1962, is a landmark of modernist architecture by Finnish architect Alvar Aalto and hosts cultural events.",
+   "tip": "Guided architecture tours run on selected days.",
+   "q": "Alvar-Aalto-Kulturhaus, Porschestraße 51, Wolfsburg",
+   "ll": [
+    52.41965,
+    10.78594
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Alvar-Aalto-Kulturhaus"
+   ]
+  },
+  {
+   "id": "bsaqua",
+   "cat": "ye",
+   "area": "wolfsburg",
+   "title": "Dine at three-Michelin-star Aqua",
+   "desc": "Aqua in the Ritz-Carlton Wolfsburg is run by chef Sven Elverfeld and holds three Michelin stars, serving creative European cuisine.",
+   "tip": "Book far in advance; open evenings Tuesday to Saturday.",
+   "q": "Restaurant Aqua, Parkstraße 1, Wolfsburg",
+   "ll": [
+    52.4301,
+    10.7901
+   ],
+   "src": [
+    "https://guide.michelin.com/us/en/niedersachsen/wolfsburg/restaurant/aqua79029"
+   ]
+  },
+  {
+   "id": "bstachometer",
+   "cat": "ye",
+   "area": "wolfsburg",
+   "title": "Eat Currywurst at the Autostadt",
+   "desc": "Currywurst is the signature of Volkswagen's plant canteen, and the Autostadt has a restaurant called Tachometer in its grounds serving it.",
+   "tip": "Included in a day at the Autostadt.",
+   "q": "Tachometer, Autostadt, Wolfsburg",
+   "ll": [
+    52.43333,
+    10.79611
+   ],
+   "src": [
+    "https://www.europeforvisitors.com/germany/cars/vw-autostadt-restaurants-shopping.htm"
+   ]
+  },
+  {
+   "id": "bsallerpark",
+   "cat": "dene",
+   "area": "wolfsburg",
+   "title": "Walk or cycle through Allerpark",
+   "desc": "Allerpark is a large recreation area with a lake south of the Volkswagen Arena, with cycling paths and beaches.",
+   "tip": "Good for summer afternoons.",
+   "q": "Allerpark, Wolfsburg",
+   "ll": [
+    52.43459,
+    10.81317
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Allerpark"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bsvfl",
+   "cat": "dene",
+   "area": "wolfsburg",
+   "title": "Watch VfL Wolfsburg at the Volkswagen Arena",
+   "desc": "VfL Wolfsburg won the Bundesliga in 2009. Home games take place at the Volkswagen Arena, opened 2002.",
+   "tip": "Tickets via the club website.",
+   "q": "Volkswagen Arena, In den Allerwiesen 1, Wolfsburg",
+   "ll": [
+    52.4318,
+    10.8037
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Volkswagen_Arena"
+   ]
+  },
+  {
+   "id": "bshab",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Herzog August Library in Wolfenbüttel",
+   "desc": "The Herzog August Bibliothek is a world-renowned research library of medieval and early modern books; Lessing worked here as librarian from 1770. Its Augusteerhalle displays treasures.",
+   "tip": "Check opening hours; closed Sundays at times.",
+   "q": "Herzog August Bibliothek, Lessingplatz 1, Wolfenbüttel",
+   "ll": [
+    52.16439,
+    10.53029
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Herzog_August_Library",
+    "https://www.hab.de/en/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bsschlosswf",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour Wolfenbüttel Palace",
+   "desc": "Schloss Wolfenbüttel is the former residence of the Dukes of Brunswick-Wolfenbüttel, with a palace museum of 14 historic rooms.",
+   "tip": "Pair with the nearby Lessinghaus.",
+   "q": "Schloss Wolfenbüttel, Schlossplatz 13, Wolfenbüttel",
+   "ll": [
+    52.16271,
+    10.53035
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Wolfenbüttel"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bshauptkirche",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Hauptkirche Beatae Mariae Virginis",
+   "desc": "This Protestant Mannerist church, begun 1608, is a landmark of Wolfenbüttel's old town.",
+   "tip": "Open in daytime.",
+   "q": "Hauptkirche Beatae Mariae Virginis, Wolfenbüttel",
+   "ll": [
+    52.16191,
+    10.53738
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Hauptkirche_Beatae_Mariae_Virginis"
+   ],
+   "tags": [
+    "free",
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bsmuehlen",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the International Mill Museum in Gifhorn",
+   "desc": "The Internationales Mühlenmuseum in Gifhorn spreads over 15 hectares with windmills, watermills and a Russian Orthodox chapel.",
+   "tip": "Open Tuesday to Sunday in season; closed Mondays.",
+   "q": "Internationales Mühlenmuseum, Bromer Straße 2, Gifhorn",
+   "ll": [
+    52.49259,
+    10.55009
+   ],
+   "src": [
+    "https://www.kindaling.de/museen/internationales-muehlenmuseum-gifhorn/gifhorn"
+   ]
+  },
+  {
+   "id": "bsgifhornschloss",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Gifhorn Castle",
+   "desc": "Schloss Gifhorn is a Renaissance moated castle in the town centre, home to a district cultural venue.",
+   "tip": "Often paired with the Mühlenmuseum.",
+   "q": "Schloss Gifhorn, Schlossplatz 1, Gifhorn",
+   "ll": [
+    52.48948,
+    10.54696
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Gifhorn"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bskaiserdom",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Marvel at the Kaiserdom in Königslutter",
+   "desc": "The Kaiserdom in Königslutter is a Romanesque church containing the tomb of Emperor Lothar III, with carved lions and a hunting frieze.",
+   "tip": "Closed to visitors during services.",
+   "q": "Kaiserdom Königslutter, Stiftsfreiheit 1, Königslutter am Elm",
+   "ll": [
+    52.24475,
+    10.81587
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Königslutter_Abbey"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bsjuleum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Discover the Juleum in Helmstedt",
+   "desc": "The Juleum is the main building of the former University of Helmstedt, built in the 1590s, with a ceremonial hall and part of the old library.",
+   "tip": "Open on request; check ahead.",
+   "q": "Juleum, Collegienplatz, Helmstedt",
+   "ll": [
+    52.2293,
+    11.00863
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Juleum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bssalder",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Museum in Schloss Salder",
+   "desc": "Schloss Salder is a Renaissance palace in Salzgitter housing the Städtisches Museum.",
+   "tip": "Check opening hours.",
+   "q": "Schloss Salder, Museumstraße 34, Salzgitter",
+   "ll": [
+    52.13544,
+    10.33836
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Schloss_Salder"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bscafestadtmarkt",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have cake at Café am Stadtmarkt in Wolfenbüttel",
+   "desc": "A classic cafe on the market square with coffee pots and large cake slices.",
+   "tip": "Good for an afternoon stop.",
+   "q": "Café am Stadtmarkt, Kanzleistraße 1, Wolfenbüttel",
+   "ll": [
+    52.1624,
+    10.5361
+   ],
+   "src": [
+    "https://coolibri.de/restaurant/cafe-am-stadtmarkt-wolfenbuettel/"
+   ]
+  },
+  {
+   "id": "bsratskeller",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink house beer at the Ratskeller Wolfenbüttel",
+   "desc": "The Ratskeller on the Stadtmarkt offers international cooking and a small brewery.",
+   "tip": "Seating spills onto the square in summer.",
+   "q": "Ratskeller Wolfenbüttel, Stadtmarkt 2, Wolfenbüttel",
+   "ll": [
+    52.1622,
+    10.5363
+   ],
+   "src": [
+    "https://www.der-butler.com/restaurants/ort/wolfenbuettel.html"
+   ]
+  },
+  {
+   "id": "bsfachwerkwf",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk Wolfenbüttel's half-timbered old town",
+   "desc": "Wolfenbüttel has more than 1,000 half-timbered houses, many from the 16th to 18th centuries, and is the home of Jägermeister.",
+   "tip": "Allow around two hours.",
+   "q": "Altstadt, Wolfenbüttel",
+   "ll": [
+    52.16335,
+    10.54121
+   ],
+   "src": [
+    "https://www.niedersachsen-tourism.com/destinations/tour-the-towns/wolfenbuettel"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

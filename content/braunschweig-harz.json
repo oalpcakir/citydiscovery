@@ -1,0 +1,733 @@
+{
+ "new": [
+  {
+   "id": "bsgoskaiserpfalz",
+   "cat": "gor",
+   "area": "goslar",
+   "title": "Walk through the Imperial Palace of Goslar",
+   "desc": "The Kaiserpfalz was built from the 11th century under the Salian emperors and is one of the largest surviving secular Romanesque buildings in Germany. The imperial hall holds a 19th-century cycle of wall paintings of imperial history. It belongs to the UNESCO World Heritage site Mines of Rammelsberg, Historic Town of Goslar.",
+   "tip": "Open Tuesday to Sunday; closed Mondays. Combine with the Domvorhalle next door and the park views over the town.",
+   "q": "Kaiserpfalz Goslar, Kaiserbleek 6, Goslar",
+   "ll": [
+    51.90274,
+    10.42555
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Imperial_Palace_of_Goslar",
+    "https://www.welterbeimharz.de/en/world-heritage-in-the-harz/historic-town-of-goslar/imperial-palace-goslar"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bsgosglockenspiel",
+   "cat": "gor",
+   "area": "goslar",
+   "title": "Watch the Glockenspiel on Goslar's market square",
+   "desc": "The Kaiserworth guild hall on the market square has a mechanical Glockenspiel that shows scenes from the history of Goslar's silver mining. The square is also framed by the Rathaus, the market fountain with a gilded eagle and the Marktkirche.",
+   "tip": "The figures turn several times a day (around 9, 12, 15 and 18 o'clock). Arrive a few minutes early for a spot in the square.",
+   "q": "Marktplatz, Goslar",
+   "ll": [
+    51.90568,
+    10.42875
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Marktplatz_(Goslar)",
+    "https://de.wikipedia.org/wiki/Kaiserworth_(Goslar)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bsgosmarktkirche",
+   "cat": "gor",
+   "area": "goslar",
+   "title": "Climb the towers of Goslar's Marktkirche",
+   "desc": "The Marktkirche St. Cosmas and Damian is a Romanesque-Gothic church on the market square, notable for its two different spires. One of the towers can be climbed for a view over the slate roofs of the old town.",
+   "tip": "Check the tower opening times in season; the spiral stairs are steep and narrow.",
+   "q": "Marktkirche St. Cosmas und Damian, Marktkirchhof, Goslar",
+   "ll": [
+    51.90523,
+    10.42888
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Marktkirche_(Goslar)"
+   ]
+  },
+  {
+   "id": "bsgoszwinger",
+   "cat": "gor",
+   "area": "goslar",
+   "title": "See the thick walls of the Goslar Zwinger",
+   "desc": "The Zwinger is a round artillery tower from 1517 with walls up to six metres thick, part of the old town fortifications. A museum inside shows medieval weapons, and a small garden lies outside.",
+   "tip": "Open in the main season; allow 30 minutes. The surrounding park is free to walk.",
+   "q": "Zwinger, Thomasstraße 2, Goslar",
+   "ll": [
+    51.90284,
+    10.43286
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Zwinger_(Goslar)"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bsgossiemenshaus",
+   "cat": "gor",
+   "area": "goslar",
+   "title": "Spot Goslar's Siemenshaus half-timbered house",
+   "desc": "The Siemenshaus on Schiefer is a half-timbered merchant house from 1693, the ancestral home of the Siemens family. It is one of the best-preserved examples of Goslar's Fachwerk heritage in the Frankenberg quarter.",
+   "tip": "The Frankenberg quarter is quiet; walk on to the Frankenberger Kirche and the old miners' houses.",
+   "q": "Siemenshaus, Schiefer 6, Goslar",
+   "ll": [
+    51.90436,
+    10.42356
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Siemenshaus_(Goslar)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bsgosbreitestor",
+   "cat": "gor",
+   "area": "goslar",
+   "title": "Visit the Breites Tor, Goslar's largest gate",
+   "desc": "The Breites Tor is a massive 16th-century town gate with a double-gate complex, one of the best-preserved parts of Goslar's wall. Bastions and a moat line frame the approach.",
+   "tip": "Good for a short walk along the old wall; free to see from outside.",
+   "q": "Breites Tor, Breite Straße, Goslar",
+   "ll": [
+    51.90979,
+    10.43745
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Breites_Tor_(Goslar)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bsgosbrauhaus",
+   "cat": "ye",
+   "area": "goslar",
+   "title": "Drink a Goslarer Gose at the Brauhaus",
+   "desc": "Brauhaus Goslar brews Gose, the top-fermented, salty-sour wheat beer named after the Gose river at Goslar, revived here in 1993. The brewpub is in the old town a few steps from the market square and serves German dishes beside the brewing kettles.",
+   "tip": "Try the Gose Hell with a schnitzel. Check opening hours before going.",
+   "q": "Brauhaus Goslar, Marktkirchhof 2, Goslar",
+   "ll": [
+    51.90551,
+    10.4286
+   ],
+   "src": [
+    "https://en.harzinfo.de/poi/brauhaus-goslar-gesamte-gastronomie"
+   ]
+  },
+  {
+   "id": "bsgosbarockcafe",
+   "cat": "ye",
+   "area": "goslar",
+   "title": "Have cake in the Barock-Café Anders",
+   "desc": "This café stands on the Hoher Weg, one of the old town's main lanes between the market and the Kaiserpfalz. It serves cakes and coffee in a historic house.",
+   "tip": "Visit mid-afternoon for the cake counter; check hours in winter.",
+   "q": "Barock-Café Anders, Hoher Weg 4, Goslar",
+   "ll": [
+    51.9056,
+    10.4295
+   ],
+   "src": [
+    "https://www.swipein.restaurant/de/restaurant/barock-cafe-anders-goslar"
+   ]
+  },
+  {
+   "id": "bsgoskaiserworth",
+   "cat": "ye",
+   "area": "goslar",
+   "title": "Eat Harz dishes at the Kaiserworth",
+   "desc": "The Kaiserworth is a 1494 guild hall on the market square, today a hotel with a restaurant. Its facade carries statues of German emperors and a famous figure of a coin-minting Dukatenscheisser.",
+   "tip": "Book a table in the evening; the regional menu uses Harz ingredients.",
+   "q": "Kaiserworth, Markt 3, Goslar",
+   "ll": [
+    51.90568,
+    10.4287
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Kaiserworth_(Goslar)"
+   ]
+  },
+  {
+   "id": "bsgosrammelsberg",
+   "cat": "dene",
+   "area": "goslar",
+   "title": "Ride underground into the Rammelsberg mine",
+   "desc": "The Rammelsberg mine produced silver, lead and copper for about a thousand years until it closed in 1988, and is a UNESCO World Heritage site. Guided tours go underground by mine train, and a museum fills the ore-processing buildings.",
+   "tip": "Dress warm; the mine stays cool. Book tours in high season.",
+   "q": "Weltkulturerbe Rammelsberg, Bergtal 19, Goslar",
+   "ll": [
+    51.89013,
+    10.41928
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Mines_of_Rammelsberg",
+    "https://www.rammelsberg.de/en/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bsgosweihnachtswald",
+   "cat": "dene",
+   "area": "goslar",
+   "title": "Stroll Goslar's Christmas Forest",
+   "desc": "Each Advent, Goslar's market square and old town host a Christmas market, with fir trees lit along the lanes. Craft stalls and local food fill the old town.",
+   "tip": "Visit on weekday evenings to avoid the crowds; check dates for the year.",
+   "q": "Marktplatz, Goslar",
+   "ll": [
+    51.90568,
+    10.42875
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Goslarer_Weihnachtsmarkt"
+   ],
+   "months": [
+    11,
+    12
+   ]
+  },
+  {
+   "id": "bsgoswalk",
+   "cat": "dene",
+   "area": "goslar",
+   "title": "Walk Goslar's old-town lanes to the Frankenberg",
+   "desc": "A walk from the market through Münzstraße and the Frankenberg passes slate-clad half-timbered houses, small churches and miners' quarters. The old town, listed by UNESCO, can be crossed on foot in under an hour.",
+   "tip": "Start at the market and end at the Frankenberger Kirche; wear shoes for cobbles.",
+   "q": "Frankenberger Kirche, Frankenberger Plan, Goslar",
+   "ll": [
+    51.90313,
+    10.41828
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Goslar"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bsharzokerdam",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Okertalsperre dam in the Harz",
+   "desc": "The Okertalsperre is a gravity dam on the Oker river completed in 1956 that stores drinking water for the region. The wall and the reservoir are set in pine forest in the upper Oker valley.",
+   "tip": "Park at the dam and walk along the reservoir path; it can be windy.",
+   "q": "Okertalsperre, Oker valley, Altenau",
+   "ll": [
+    51.85109,
+    10.45792
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Okertalsperre"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bsharzwernigerode",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Tour Wernigerode Castle above the old town",
+   "desc": "Schloss Wernigerode is a neo-Gothic castle rebuilt in the late 19th century by the Counts of Stolberg-Wernigerode, on a hill above a half-timbered town. Rooms are furnished in historicist style and a terrace overlooks the Harz.",
+   "tip": "Walk up in 20 minutes or take the little castle train from the market square. Open all year.",
+   "q": "Schloss Wernigerode, Am Schloß 1, Wernigerode",
+   "ll": [
+    51.83044,
+    10.79457
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Wernigerode_Castle",
+    "https://www.schloss-wernigerode.de/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bsharzrathaus",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Admire Wernigerode's fairy-tale Rathaus",
+   "desc": "The town hall of Wernigerode has two slender towers and a richly carved half-timbered facade from the 15th and 16th centuries. It stands in the market square among colourful Fachwerk houses.",
+   "tip": "Visit in the morning light; the square is free to enter.",
+   "q": "Rathaus Wernigerode, Marktplatz 1, Wernigerode",
+   "ll": [
+    51.83294,
+    10.78458
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Wernigerode"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bsharzquedstift",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Stiftsberg in Quedlinburg",
+   "desc": "Quedlinburg's Stiftsberg is crowned by the Romanesque collegiate church of St Servatius from 1129 and a castle, with a treasury. The ensemble was founded by Henry I's widow and became an important women's abbey.",
+   "tip": "Combine with a walk down to the market; the treasury needs a ticket.",
+   "q": "Stiftskirche St. Servatius, Schlossberg 1, Quedlinburg",
+   "ll": [
+    51.786,
+    11.13677
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Quedlinburg_Abbey",
+    "https://en.wikipedia.org/wiki/Quedlinburg"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bsharzquedmarkt",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Wander Quedlinburg's UNESCO half-timbered old town",
+   "desc": "Quedlinburg has more than 1,300 half-timbered houses spanning six centuries and was listed as a UNESCO World Heritage site in 1994. The market square with the Roland statue and Renaissance town hall is the centre.",
+   "tip": "Walk up from the market toward the Schlossberg. Quiet in the early morning.",
+   "q": "Marktplatz, Quedlinburg",
+   "ll": [
+    51.78911,
+    11.1415
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Quedlinburg"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bsharzhalberstadtdom",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Gothic cathedral of Halberstadt",
+   "desc": "Halberstadt Cathedral is a High Gothic church begun in the 13th century, with a cathedral treasury among the richest in Germany. Its tall nave and medieval tapestries are notable.",
+   "tip": "Buy the treasury ticket with the cathedral; Halberstadt is a short train ride from Wernigerode.",
+   "q": "Dom St. Stephanus und Sixtus, Domplatz 16, Halberstadt",
+   "ll": [
+    51.8957,
+    11.0483
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Halberstadt_Cathedral"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bsharzhexentanzplatz",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look out from the Hexentanzplatz in Thale",
+   "desc": "The Hexentanzplatz is a plateau about 450 metres above the Bode valley, once a pagan cult site, with a mountain theatre, a small zoo and a view of the Rosstrappe opposite. A witch legend is attached to the site.",
+   "tip": "Reach it by cable car from Thale or by a short hike.",
+   "q": "Hexentanzplatz, Thale",
+   "ll": [
+    51.73103,
+    11.02637
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Hexentanzplatz"
+   ]
+  },
+  {
+   "id": "bsharzradau",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Hike to the Radau waterfall near Bad Harzburg",
+   "desc": "The Radau waterfall drops about 23 metres in the Radau valley south of Bad Harzburg, among rocky forest paths. It is one of the Harz's best-known natural sights.",
+   "tip": "Walk from the Bad Harzburg side in about 90 minutes; wear sturdy shoes.",
+   "q": "Radau-Wasserfall, Bad Harzburg",
+   "ll": [
+    51.85247,
+    10.54695
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Radau-Wasserfall"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bsharzclausthal",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Step into Germany's largest wooden church in Clausthal",
+   "desc": "The Marktkirche zum Heiligen Geist in Clausthal is one of the largest wooden churches in Germany, built 1639 to 1642. It has a colourful baroque interior and stands in the Upper Harz mining town.",
+   "tip": "Combine with the mining museum and the old mining town.",
+   "q": "Marktkirche zum Heiligen Geist, Hindenburgplatz, Clausthal-Zellerfeld",
+   "ll": [
+    51.80403,
+    10.33406
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Clausthal-Zellerfeld"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bsharzblankenburg",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore Blankenburg's Großes Schloss",
+   "desc": "The Großes Schloss in Blankenburg is a Baroque palace on a hill above the town, built from the 17th century for the Dukes of Brunswick-Blankenburg. It is notable for its terraced setting.",
+   "tip": "Check visitor times; the views from the grounds are free.",
+   "q": "Großes Schloss Blankenburg, Schnappelberg 6, Blankenburg (Harz)",
+   "ll": [
+    51.78683,
+    10.95448
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Großes_Schloss_(Blankenburg)"
+   ]
+  },
+  {
+   "id": "bsharzarendsee",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the abbey church at Lake Arendsee",
+   "desc": "The Benedictine Kloster Arendsee was founded in the 12th century by Lake Arendsee, the largest natural lake in Saxony-Anhalt. The church and cloister buildings stand above the shore.",
+   "tip": "Combine with a walk along the lake path.",
+   "q": "Kloster Arendsee, Arendsee (Altmark)",
+   "ll": [
+    52.8895,
+    11.475
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Arendsee_(Altmark)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bsharzbrauhausluedde",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Drink dark Braunbier at Brauhaus Lüdde in Quedlinburg",
+   "desc": "Brauhaus Lüdde is Quedlinburg's only Braunbier brewery, brewing a dark, malty beer in the old town. It serves hearty Harz dishes, and a hotel is next door.",
+   "tip": "Order the Braunbier with a beer-meat dish; the apple strudel is a regular favourite.",
+   "q": "Brauhaus Lüdde, Blasiistraße 14, Quedlinburg",
+   "ll": [
+    51.78837,
+    11.13895
+   ],
+   "src": [
+    "https://www.harzinfo.de/en/planning-accommodation/accommodation/hotel/hotel-brauhaus-luedde"
+   ]
+  },
+  {
+   "id": "bsharzcafevincent",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Try cheesecake at Café Vincent in Quedlinburg",
+   "desc": "Café Vincent, the Käsekuchenbäckerei, bakes cheesecake in many varieties on the Schlossberg below the castle. It is a pleasant stop on the way down from the Stiftsberg.",
+   "tip": "Try the classic cheesecake with coffee; expect queues on summer weekends.",
+   "q": "Café Vincent, Schlossberg 13, Quedlinburg",
+   "ll": [
+    51.78694,
+    11.13624
+   ],
+   "src": [
+    "https://fodors.fodors.com/world/europe/germany/saxony-saxony-anhalt-and-thuringia/places/quedlinburg/restaurants"
+   ]
+  },
+  {
+   "id": "bsharzgothischeshaus",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Dine on Harz specialties at the Gothisches Haus",
+   "desc": "The Gaststuben Gothisches Haus on Wernigerode's market square received the Typisch Harz quality seal in 2023 for its regional cooking. The building is a medieval town house, now a hotel.",
+   "tip": "Choose Harz trout or game; main courses start around 18 euros.",
+   "q": "Gaststuben Gothisches Haus, Marktplatz 2, Wernigerode",
+   "ll": [
+    51.8353,
+    10.7861
+   ],
+   "src": [
+    "https://www.schlemmer-atlas.de/restaurants/deutschland/wernigerode/gaststuben-gothisches-haus/"
+   ]
+  },
+  {
+   "id": "bsharzratskellerwr",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat game dishes in the Ratskeller Wernigerode",
+   "desc": "The Ratskeller sits in a half-timbered building on the market square next to the Rathaus. It serves hearty German cooking including game dishes.",
+   "tip": "Ask for a table in the old vaults; check opening times.",
+   "q": "Ratskeller, Marktplatz 1, Wernigerode",
+   "ll": [
+    51.8354,
+    10.7864
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/2723676/ratskeller"
+   ]
+  },
+  {
+   "id": "bsharzcafekruse",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Salzwedeler Baumkuchen at Café Kruse",
+   "desc": "Salzwedel is known for Baumkuchen, a layered cake baked on a rotating spit, a local speciality since the 19th century. Café Kruse belongs to one of the old Baumkuchen makers and serves it in many varieties.",
+   "tip": "Buy a Baumkuchen to take home; the courtyard terrace opens in summer.",
+   "q": "Café Kruse, Holzmarktstraße 4, Salzwedel",
+   "ll": [
+    52.85074,
+    11.15148
+   ],
+   "src": [
+    "https://www.mein-takt.de/en/travel-tips/rosis-favorite-places/baumkuchen-city-salzwedel"
+   ]
+  },
+  {
+   "id": "bsharzcafeliersch",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have cake at Konditorei Liersch in Bad Harzburg",
+   "desc": "Konditorei and Café Liersch is a traditional pastry shop on Herzog-Wilhelm-Straße, the main shopping street of Bad Harzburg.",
+   "tip": "Take a window seat with a slice of cake after a walk in the spa gardens.",
+   "q": "Konditorei Café Liersch, Herzog-Wilhelm-Straße, Bad Harzburg",
+   "ll": [
+    51.878,
+    10.56
+   ],
+   "src": [
+    "https://www.falstaff.com/en/cafes/konditorei-cafe-liersch"
+   ]
+  },
+  {
+   "id": "bsharzforellenteich",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Stop at the Waldcafé Forellenteich in Braunlage",
+   "desc": "The Waldcafé Forellenteich lies by a forest pond near Braunlage and serves typical Harz dishes and home-made cakes. It is popular after walks around the town.",
+   "tip": "Try the home-made cake; check opening times in winter.",
+   "q": "Waldcafé Forellenteich, Braunlage",
+   "ll": [
+    51.70773,
+    10.60209
+   ],
+   "src": [
+    "https://en.braunlage.de/gastro/forest-cafe-forellenteich"
+   ]
+  },
+  {
+   "id": "bsharzbrockenbahn",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the steam Brockenbahn to the summit",
+   "desc": "The Harz narrow-gauge railway runs steam trains from Wernigerode to the Brocken (1,141 m) on a metre-gauge line opened in 1898, operated by the HSB. Sections are due for renovation in coming years, so timetables change.",
+   "tip": "Book seats in advance in summer; check HSB timetables for disruptions.",
+   "q": "Bahnhof Wernigerode Westerntor, Wernigerode",
+   "ll": [
+    51.83411,
+    10.78034
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Brocken_Railway",
+    "https://www.seat61.com/places-of-interest/by-harz-railway-to-the-brocken.htm"
+   ]
+  },
+  {
+   "id": "bsharzbrocken",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike up the Brocken, the Harz's highest peak",
+   "desc": "The Brocken at 1,141 m is the highest point in the Harz and in northern Germany, known for fog and Walpurgis Night legends. A weather station, a museum and a summit loop are at the top.",
+   "tip": "Go on a clear day; the Goetheweg from Torfhaus is the classic route.",
+   "q": "Brocken, Schierke, Wernigerode",
+   "ll": [
+    51.79955,
+    10.6185
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Brocken"
+   ]
+  },
+  {
+   "id": "bsharzgoetheweg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Goetheweg from Torfhaus",
+   "desc": "The Goetheweg runs from Torfhaus across the Brocken moors to the summit, following Goethe's 1777 winter ascent. Boardwalks cross raised bogs with views of the Brocken.",
+   "tip": "Allow about three hours up; bring layers and food.",
+   "q": "Torfhaus, Altenau, Harz",
+   "ll": [
+    51.80011,
+    10.53714
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Torfhaus_(Harz)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bsharzseilbahn",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Take the Thale cable car to the Hexentanzplatz",
+   "desc": "The Seilbahn Thale carries gondolas from the town to the Hexentanzplatz plateau high above the Bode valley, giving views of the valley and the Rosstrappe.",
+   "tip": "Combine with the chairlift to the Rosstrappe on the other side.",
+   "q": "Seilbahn Thale, Bodetal, Thale",
+   "ll": [
+    51.73824,
+    11.02748
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Seilbahn_Thale"
+   ]
+  },
+  {
+   "id": "bsharzbodetal",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike the Bodetal gorge to the Rosstrappe",
+   "desc": "The Bodetal is a deep granite gorge cut by the Bode river, with a trail from Thale to the Rosstrappe rock, said to carry the hoofprint of a princess's horse. It is known as one of the deepest canyons in northern Germany.",
+   "tip": "Wear walking shoes; the path is rocky. Allow about two hours return.",
+   "q": "Rosstrappe, Bodetal, Thale",
+   "ll": [
+    51.73519,
+    11.01818
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Bode_Valley"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bsharzwurmberg",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Wurmberg cable car in Braunlage",
+   "desc": "The Wurmberg (971 m) is the highest peak in Lower Saxony. A gondola from Braunlage goes up to a summit area with ski slopes, a toboggan run and Brocken views.",
+   "tip": "Open all year; the ski season brings queues on weekends.",
+   "q": "Wurmbergseilbahn, Braunlage",
+   "ll": [
+    51.7439,
+    10.61721
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Wurmberg_(Harz)"
+   ]
+  },
+  {
+   "id": "bsharzbaumwipfel",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Baumwipfelpfad in Bad Harzburg",
+   "desc": "The Baumwipfelpfad Harz is a treetop walk with a BaumSchwebeBahn gondola, on the Bad Harzburg Burgberg. Boardwalks wind through the canopy with Brocken views.",
+   "tip": "The city says it is open all year; check hours in winter. Last entry is one hour before closing.",
+   "q": "Baumwipfelpfad Harz, Bad Harzburg",
+   "ll": [
+    51.86864,
+    10.56641
+   ],
+   "src": [
+    "https://harzspots.com/en/attraktionen/outdoor/spot/baumwipfelpfad-baumschwebebahn-harz-"
+   ]
+  },
+  {
+   "id": "bsharzsoletherme",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Soak in the Sole-Therme in Bad Harzburg",
+   "desc": "The Sole-Therme is a brine spa with indoor and outdoor pools in Bad Harzburg, based on the town's salt springs, with saunas.",
+   "tip": "Open daily; hours differ by season, so check before going.",
+   "q": "Sole-Therme, Nordhäuser Straße, Bad Harzburg",
+   "ll": [
+    51.86946,
+    10.55833
+   ],
+   "src": [
+    "https://www.bad-harzburg.de/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bsharzburgbergseilbahn",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride the Burgberg cable car in Bad Harzburg",
+   "desc": "The Burgberg cable car has taken passengers up the Großer Burgberg (483 m) since 1929 in about three minutes. At the top are the ruins of the Harzburg castle and views of the Harz foreland.",
+   "tip": "Combine with a walk to the Canossa column on the Burgberg.",
+   "q": "Burgbergseilbahn, Bad Harzburg",
+   "ll": [
+    51.8733,
+    10.5595
+   ],
+   "src": [
+    "https://de.wikipedia.org/wiki/Burgberg-Seilbahn_(Bad_Harzburg)"
+   ]
+  },
+  {
+   "id": "bsharzquedwalk",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Take a walking tour of Quedlinburg's Fachwerk streets",
+   "desc": "Quedlinburg's lanes hold more than 1,300 half-timbered houses, including the Fachwerkmuseum im Ständerbau, among the oldest timber-frame houses in Germany. Guided walks start at the market.",
+   "tip": "Book a guided tour in season; Münzenberg is a good side trip.",
+   "q": "Fachwerkmuseum im Ständerbau, Wordgasse 3, Quedlinburg",
+   "ll": [
+    51.78829,
+    11.1405
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Quedlinburg"
+   ]
+  },
+  {
+   "id": "bsharzarendseebad",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim in Lake Arendsee",
+   "desc": "Lake Arendsee is a natural sinkhole lake, about 50 m deep, with a sandy beach and a lakeside promenade. Swimming and boat hire are available in summer.",
+   "tip": "Visit between June and September.",
+   "q": "Strandbad Arendsee, Arendsee (Altmark)",
+   "ll": [
+    52.8911,
+    11.50053
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Arendsee_(Altmark)"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  }
+ ]
+}

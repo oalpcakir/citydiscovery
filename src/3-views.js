@@ -318,7 +318,7 @@
       '<div class="chips">' + areaChips() + '</div><div class="list flush">' + questListHtml() + '</div>';
   }
   function mapCtlHtml() {
-    return '<div class="mapctl">' +
+    return ('<div class="mapctl">' +
       '<button class="glass desk" data-act="zoom-in" aria-label="Zoom in">' + ic("plus") + '</button>' +
       '<button class="glass desk" data-act="zoom-out" aria-label="Zoom out">' + ic("minus") + '</button>' +
       '<button class="glass keep" data-act="locate" aria-label="My location">' + ic("locate-fixed") + '</button>' +
@@ -327,7 +327,7 @@
       '<button class="glass" data-act="overview" aria-label="All regions">' + ic("globe") + '</button>' +
       '<button class="glass" data-act="suggest" aria-label="Surprise me">' + ic("dices") + '</button>' +
       '<button class="glass rec" data-act="rec-start" aria-label="Suggest a place">' + ic("map-pin") + ic("plus", "mini") + '</button>' +
-      '</div>';
+      '</div>').replace(/aria-label="([^"]+)"/g, 'title="$1" aria-label="$1"');
   }
   function fabHtml() {
     var dq = dailyQuest();
@@ -846,7 +846,7 @@
     var cat = ui.evCat || "all", Q = community.quests || {}, R = community.recent || {};
     var inCat = function (counts) { var o = {}; Object.keys(counts).forEach(function (k) { var q = byKey[k]; if (q && (cat === "all" || q.cat === cat)) o[k] = counts[k]; }); return o; };
     var regs = {}; Object.keys(community.regions || {}).forEach(function (id) { if (cities[id]) regs[id] = community.regions[id]; });
-    var html = '<p class="note flat center">' + fmt(community.explorers) + ' explorers · updated ' + dateText(community.updated) + '</p>';
+    var html = '<p class="note flat center">' + fmt(community.explorers) + (community.explorers === 1 ? ' explorer' : ' explorers') + ' · updated ' + dateText(community.updated) + '</p>';
     html += '<h2>Most explored regions</h2><div class="panel ranks">' + rankRows(topBy(regs, 25).map(function (id) {
       var c = cities[id];
       return { n: regs[id], attr: 'data-city="' + id + '"', html: '<b>' + flagHtml(c.country) + esc(c.name) + '</b><small>' + esc(c.subtitle || c.country) + '</small>' };

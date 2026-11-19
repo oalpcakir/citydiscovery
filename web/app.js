@@ -1462,7 +1462,8 @@
     var tab = function (id, icon, label, on) {
       return '<button data-tab="' + id + '" class="' + (on ? "on" : "") + '">' + ic(icon) + '<span>' + label + '</span></button>';
     };
-    $app.innerHTML = views[ui.tab]() + '<nav class="tabs">' + tab("map", "map", "Map", onMap) + tab("quests", "list-checks", "Quests", ui.tab === "quests") +
+    $app.innerHTML = views[ui.tab]() + '<nav class="tabs"><button class="rail-logo" data-tab="map" aria-label="City Disco, back to the map">' +
+      '<img src="icon.svg" alt="" width="44" height="44"><span>city disco</span></button>' + tab("map", "map", "Map", onMap) + tab("quests", "list-checks", "Quests", ui.tab === "quests") +
       tab("badges", "award", "Badges", ui.tab === "badges") + tab("stats", "chart-column", "Stats", ui.tab === "stats") + tab("hero", "user-round", "Explorer", heroish) + '</nav>';
     document.body.classList.toggle("on-map", onMap);
     if (onMap) updateMap(wasHidden);
@@ -1664,7 +1665,10 @@
   }
   function questListHtml() {
     var needle = ui.q.trim().toLowerCase();
+    // Area chips only exist on the map screen, so the area filter applies there and not on the quest board.
+    var area = ui.tab === "map" && ui.area !== "all" && city.areas[ui.area] ? ui.area : null;
     var list = city.quests.filter(function (q) {
+      if (area && q.area !== area) return false;
       if (ui.cat !== "all" && q.cat !== ui.cat) return false;
       if (ui.show === "todo" && isDone(q)) return false;
       if (ui.show === "done" && !isDone(q)) return false;
@@ -1679,7 +1683,7 @@
         .map(function (x) { return questRow(x[0], { dist: x[1] }); }).join("");
     }
     if (needle) return list.map(function (q) { return questRow(q); }).join("");
-    return (ui.tab === "quests" ? todayCard() : "") + seasonStrip() + Object.keys(city.areas).map(function (a) {
+    return (ui.tab === "quests" ? todayCard() + mustEatStrip() : "") + seasonStrip() + Object.keys(city.areas).map(function (a) {
       var part = list.filter(function (q) { return q.area === a; });
       if (!part.length) return "";
       var s = stats(inArea(a));
@@ -1698,9 +1702,26 @@
         (dq.cid !== cityId ? ' · ' + esc(c.name) : "") + (left !== null ? ' · ' + leftText(left).toLowerCase() : "") + '</span>' +
       '<b>' + esc(dq.title) + '</b><span class="td-go">View quest' + ic("chevron-right", "sm") + '</span></span></button>';
   }
+  // The region's must-eat dishes as a row of stamps: tap one to tick it off, "See all" opens the full list.
+  function mustEatStrip() {
+    var list = city.dishes || [];
+    if (!list.length || ui.show === "done" || (ui.cat !== "all" && ui.cat !== "ye")) return "";
+    var eaten = list.filter(dishEaten).length, all = eaten === list.length;
+    return '<div class="musteat' + (all ? " full" : "") + '"><div class="me-h"><span class="me-k">' + ic("utensils", "sm") + 'Must-eats in ' + esc(city.name) + '</span>' +
+      '<b>' + eaten + ' / ' + list.length + '</b><button class="linkbtn" data-qview="dishes">See all</button></div>' +
+      '<div class="stamps">' + list.map(function (d) {
+        var on = dishEaten(d);
+        return '<button class="stamp' + (on ? " on" : "") + '" data-dish="' + esc(d.key) + '" aria-pressed="' + on + '" aria-label="' +
+          (on ? esc(d.name) + ", eaten. Tap to undo" : "I ate " + esc(d.name)) + '"><span class="st-i">' + d.icon + (on ? '<i>' + ic("check") + '</i>' : "") + '</span>' +
+          '<span class="st-n">' + esc(d.name) + '</span></button>';
+      }).join("") + '</div>' +
+      '<div class="me-f">' + (all ? "Local Palate earned. You have eaten your way through " + esc(city.name) + "."
+        : "Eat them anywhere in the region · +" + XP.dish + " XP each, all " + list.length + " earn Local Palate") + '</div></div>';
+  }
   // Seasonal quests open right now, soonest ending first: "do it before it's gone".
   function seasonStrip() {
-    var list = seasonalNow(city.quests).filter(function (q) { return ui.cat === "all" || q.cat === ui.cat; });
+    var area = ui.tab === "map" && ui.area !== "all" ? ui.area : null;
+    var list = seasonalNow(city.quests).filter(function (q) { return (ui.cat === "all" || q.cat === ui.cat) && (!area || q.area === area); });
     if (!list.length || ui.show === "done") return "";
     return '<div class="ghead"><b>' + ic("calendar", "sm") + 'In season now</b><span>do them before they end</span></div><div class="sstrip">' +
       list.slice(0, 10).map(function (q) {

@@ -84,15 +84,14 @@ window.CITIES.ankara = {
     izzetikram: [39.8468, 33.5153], beypazarisilver: [40.1665, 31.9208], beypazarimuseum: [40.1703, 31.9204],
     sakaryatour: [39.5869, 32.1331], haymanaspa: [39.4000, 32.4500], camliderepark: [40.4900, 32.4800],
     kizilcahamamhorse: [40.4701, 32.6529], elmadagski: [39.8063, 32.9644], ayasspa: [40.0100, 32.3350],
-    kalecikvineyards: [40.1100, 33.4050], karaahmetli: [39.8400, 33.5300], ilgazhike: [41.0683, 33.7368],
-    kursunlu: [40.8410, 33.2570], kirikkaleriver: [39.8450, 33.5200], gordionwalk: [39.6520, 31.9950],
-    ulucanlarsanat: [39.9361, 32.8674], hamamonuelurunleri: [39.9330, 32.8659], odatiyatrosu: [39.9413, 32.8545],
-    gencliktiyatro: [39.9358, 32.8505], oyuncakmuzesi: [39.9386, 32.8280], hamamonutoymaker: [39.9330, 32.8560],
-    altinkoycraft: [39.9776, 32.9569], alicinmonastery: [40.2850, 32.5030], jeoparkmuzesi: [40.4705, 32.6520],
-    tasagaclar: [40.4500, 32.4000], pazarkoyu: [40.5200, 32.5300], acisuspring: [40.4900, 32.6900],
-    beypazariyasayanmuze: [40.1710, 31.9178], kahyaoglugozleme: [40.1670, 31.9200], pasakonagibeypazari: [40.1668, 31.9215],
-    dogalyasamparki: [39.9502, 32.7993], ankaraaviationmuseum: [39.9492, 32.7021], odtuarchitecture: [39.8973, 32.7817],
-    milletkutuphanesi: [39.9246, 32.8007]
+    kalecikvineyards: [40.1100, 33.4050], karaahmetli: [39.8400, 33.5300], kursunlu: [40.8410, 33.2570],
+    kirikkaleriver: [39.8450, 33.5200], gordionwalk: [39.6520, 31.9950], ulucanlarsanat: [39.9361, 32.8674],
+    hamamonuelurunleri: [39.9330, 32.8659], odatiyatrosu: [39.9413, 32.8545], gencliktiyatro: [39.9358, 32.8505],
+    oyuncakmuzesi: [39.9386, 32.8280], hamamonutoymaker: [39.9330, 32.8560], altinkoycraft: [39.9776, 32.9569],
+    alicinmonastery: [40.2850, 32.5030], jeoparkmuzesi: [40.4705, 32.6520], tasagaclar: [40.4500, 32.4000],
+    pazarkoyu: [40.5200, 32.5300], acisuspring: [40.4900, 32.6900], beypazariyasayanmuze: [40.1710, 31.9178],
+    kahyaoglugozleme: [40.1670, 31.9200], pasakonagibeypazari: [40.1668, 31.9215], dogalyasamparki: [39.9502, 32.7993],
+    ankaraaviationmuseum: [39.9492, 32.7021], odtuarchitecture: [39.8973, 32.7817], milletkutuphanesi: [39.9246, 32.8007]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {
@@ -708,9 +707,6 @@ window.CITIES.ankara = {
     { id: "karaahmetli", cat: "dene", area: "cevre", title: "Walk the Kızılırmak at Karaahmetli Nature Park",
       desc: "A riverside park and walking path near Kırıkkale.",
       tip: "Picnic spot; free.", q: "Karaahmetli Tabiat Parkı, Bahşılı, Kırıkkale", tags: ["free"], src: ["https://www.discovercappadocia.com/bisiklet/kirikkale-karaahmetli-nature-park/183", "https://en.wikipedia.org/wiki/List_of_nature_parks_of_Turkey"] },
-    { id: "ilgazhike", cat: "dene", area: "cevre", title: "Hike the Ilgaz National Park trails",
-      desc: "Trails run through forest and alpine meadows on the Ilgaz massif.",
-      tip: "Best May to October.", q: "Ilgaz Dağı Milli Parkı, Ilgaz, Çankırı", months: [5, 6, 7, 8, 9, 10], tags: ["free"], src: ["https://cankiri.goturkiye.com/see"] },
     { id: "kursunlu", cat: "dene", area: "cevre", title: "Bathe at Kurşunlu thermal springs",
       desc: "Kurşunlu's hot springs are a regional spa destination in Çankırı province.",
       tip: "Check hours.", q: "Çavundur Kaplıcası, Ipeksoy Termal Otel, Kurşunlu, Çankırı", src: ["https://dergipark.org.tr/tr/download/article-file/26888", "https://www.tatilbudur.com/ipeksoy-thermal-spa-hotel"] },

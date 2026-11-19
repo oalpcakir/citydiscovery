@@ -7,13 +7,16 @@ window.CITIES = window.CITIES || {};
 window.CITIES.versailles = {
   id: "versailles",
   name: "Versailles",
-  subtitle: "& the Yvelines",
+  subtitle: "& Chartres",
   country: "France",
-  levels: ["Tourist", "Newcomer", "Curious", "Neighbour", "Versaillais de cœur", "Vrai Yvelinois"],
+  levels: ["Tourist", "Newcomer", "Curious", "Neighbour", "Versaillais de cœur", "Vrai Versaillais"],
   areas: {
     merkez: "Versailles",
     saintgermain: "Saint-Germain-en-Laye",
-    cevre: "Yvelines"
+    chartres: "Chartres",
+    cevre: "Yvelines",
+    essonne: "Essonne",
+    eureetloir: "Eure-et-Loir"
   },
   // Map view when the region opens (the main city) and quest positions [lat, lng].
   bounds: [[48.775, 2.07], [48.835, 2.17]],
@@ -87,7 +90,10 @@ window.CITIES.versailles = {
   areaBadges: {
     merkez: { icon: "🏰", name: "Hall of Mirrors Regular" },
     saintgermain: { icon: "🌳", name: "Grande Terrasse Stroller" },
-    cevre: { icon: "🌾", name: "Yvelines Country Roamer" }
+    chartres: { icon: "🪟", name: "Cathedral Glass Gazer" },
+    cevre: { icon: "🌾", name: "Yvelines Country Roamer" },
+    essonne: { icon: "🌿", name: "Essonne Valley Walker" },
+    eureetloir: { icon: "🌾", name: "Beauce Wheat Roamer" }
   },
   // Names for day-out trails, keyed by any quest in the group (see buildTrails in src/1-core.js).
   trailNames: {

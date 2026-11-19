@@ -174,6 +174,10 @@
       }).join("") + '</div>' +
       '<div class="qc-lv"><span id="qclv">Lv ' + b.level + '</span><div class="meter xp"><i id="qcbar" style="width:' + b.pct + '%"></i></div><span id="qcnx">Lv ' + (b.level + 1) + '</span></div>' +
       '<div class="qc-reg"><span>' + flagHtml(rc.country) + esc(rc.name) + '</span><div class="meter"><i id="qcreg" style="width:' + rBefore + '%"></i></div><b><span id="qcregp">' + rBefore + '</span>%</b></div>';
+    var mile = [100, 75, 50, 25].filter(function (m) { return rBefore < m && rAfter >= m; })[0];
+    if (rs.done === 1) html += '<div class="paintmsg" style="--rc:' + rc.color + '"><i></i><span><b>' + esc(rc.name) + ' is on your map.</b> Every quest here paints it a little more.</span></div>';
+    else if (mile) html += '<div class="paintmsg" style="--rc:' + rc.color + '"><i></i><span><b>' + esc(rc.name) + ': ' + mile + '% painted.</b> ' +
+      (mile === 100 ? "The whole region is yours, with a gold border on the map." : "Your map is filling in.") + '</span></div>';
     if (lu) {
       html += '<div class="levelup"><div class="burst">' + profile().avatar + '</div><div class="qc-k">Explorer leveled up</div><div class="cel-h">Level ' + a.level + '</div>' +
         '<div class="lu">' + (a.title !== b.title ? 'New title: <b>' + esc(a.title) + '</b>' : esc(a.title)) + '</div>' +

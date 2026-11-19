@@ -113,7 +113,8 @@
     if (img) { var w = mode === "done" ? 44 : 40; g.drawImage(img, (S - w) / 2, (S - w) / 2 - 2, w, w); }
     return g.getImageData(0, 0, S, S);
   }
-  function badgeImage(color, pct, cur) {
+  function badgeImage(color, pct, cur, started) {
+    if (!started && !cur) color = "#94a3b8";
     var S = 112, c = document.createElement("canvas");
     c.width = c.height = S;
     var g = c.getContext("2d"), m = S / 2, r = 36;
@@ -127,7 +128,7 @@
       g.strokeStyle = color; g.lineCap = "round";
       g.beginPath(); g.arc(m, m, r - 6, -Math.PI / 2, -Math.PI / 2 + (Math.PI * 2 * Math.max(pct, 3)) / 100); g.stroke();
     }
-    g.fillStyle = "#0f172a"; g.textAlign = "center"; g.textBaseline = "middle";
+    g.fillStyle = started || cur ? "#0f172a" : "#7b8794"; g.textAlign = "center"; g.textBaseline = "middle";
     g.font = "800 22px system-ui, -apple-system, 'Segoe UI', sans-serif";
     g.fillText(pct + "%", m, m + 1);
     return g.getImageData(0, 0, S, S);
@@ -186,9 +187,11 @@
     });
     return out;
   }
-  function regionPaint(color, pct) {
-    var k = Math.pow((pct || 0) / 100, 0.7);
-    return { fill: mixHex("#e2e8f0", color, 0.55 + 0.45 * k), fop: 0.22 + 0.4 * k };
+  // Painting the map: a region is a grey wash until its first quest, then takes its own colour, stronger with every quest.
+  function regionPaint(color, done, total) {
+    if (!done) return { fill: "#94a3b8", fop: 0.16, line: "#a8b4c4" };
+    var k = Math.sqrt(Math.min(1, done / Math.max(1, total)));
+    return { fill: mixHex("#cbd5e1", color, 0.7 + 0.3 * k), fop: 0.3 + 0.5 * k, line: color };
   }
   function fc(features) { return { type: "FeatureCollection", features: features }; }
   function point(p, props) { return { type: "Feature", properties: props || {}, geometry: { type: "Point", coordinates: [p[1], p[0]] } }; }
@@ -201,10 +204,10 @@
     Object.keys(REGIONS).forEach(function (id) {
       var props;
       if (cities[id]) {
-        var s = cityStats(id), rp = regionPaint(cities[id].color, s.pct);
-        props = { id: id, color: cities[id].color, pct: s.pct, full: s.pct >= 100 ? 1 : 0, fill: rp.fill, fop: rp.fop, soon: 0 };
+        var s = cityStats(id), rp = regionPaint(cities[id].color, s.done, s.total);
+        props = { id: id, color: cities[id].color, line: rp.line, pct: s.pct, started: s.done ? 1 : 0, full: s.pct >= 100 ? 1 : 0, fill: rp.fill, fop: rp.fop, soon: 0 };
       } else if (isSoon(id)) {
-        props = { id: id, color: "#94a3b8", pct: 0, full: 0, fill: "#cbd5e1", fop: 0.14, soon: 1 };
+        props = { id: id, color: "#94a3b8", line: "#b6c0cc", pct: 0, started: 0, full: 0, fill: "#cbd5e1", fop: 0.07, soon: 1 };
       } else return;
       REGIONS[id].forEach(function (poly) {
         feats.push({ type: "Feature", geometry: { type: "Polygon", coordinates: poly.map(function (ring) {
@@ -378,7 +381,7 @@
     map.addLayer({ id: "region-casing", type: "line", source: "regions", layout: round,
       paint: { "line-color": "#ffffff", "line-opacity": 0.9, "line-blur": 0.6, "line-width": zw(3, 7) } }, first);
     map.addLayer({ id: "region-line", type: "line", source: "regions", layout: round,
-      paint: { "line-color": ["get", "color"], "line-opacity": ["case", [">", ["get", "pct"], 0], 1, 0.85], "line-width": zw(2.2, 3) } }, first);
+      paint: { "line-color": ["get", "line"], "line-opacity": ["case", ["==", ["get", "started"], 1], 1, 0.8], "line-width": zw(2.2, 3) } }, first);
     map.addLayer({ id: "region-gold", type: "line", source: "regions", filter: ["==", ["get", "full"], 1], layout: round,
       paint: { "line-color": "#f59e0b", "line-blur": 0.5, "line-width": zw(4, 7) } }, first);
     map.addLayer({ id: "region-cur", type: "line", source: "regions", layout: round, filter: ["==", ["get", "id"], cityId],
@@ -483,11 +486,11 @@
   // Region bubbles are drawn by the map itself (not page elements), so they stay put however the map is tilted.
   function refreshRegionBadges() {
     Object.keys(cities).forEach(function (id) {
-      var pct = cityStats(id).pct;
+      var st = cityStats(id), pct = st.pct, started = st.done > 0;
       [false, true].forEach(function (cur) {
-        var key = "rb-" + id + (cur ? "-cur" : ""), sig = pct + ":" + cities[id].color;
+        var key = "rb-" + id + (cur ? "-cur" : ""), sig = pct + ":" + started + ":" + cities[id].color;
         if (badgeCache[key] === sig) return;
-        var img = badgeImage(cities[id].color, pct, cur);
+        var img = badgeImage(cities[id].color, pct, cur, started);
         if (map.hasImage(key)) map.updateImage(key, img); else map.addImage(key, img, { pixelRatio: 2 });
         badgeCache[key] = sig;
       });

@@ -1,0 +1,883 @@
+{
+ "new": [
+  {
+   "id": "trojanhorsekordon",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Pose with the Trojan Horse from the film Troy",
+   "desc": "The wooden horse on the Çanakkale waterfront is the prop built for the 2004 film Troy, given to the city afterwards. It stands on the Kordon, the seafront promenade, facing the Dardanelles.",
+   "tip": "Come at sunset when the strait traffic lights up; it is free and open at all hours.",
+   "q": "Truva Atı, Kordon, Cevatpaşa, Merkez, Çanakkale",
+   "ll": [
+    39.95709,
+    26.2405
+   ],
+   "src": [
+    "https://goturkiye.com/canakkale/see"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "cimenlikkalesi",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Tour Çimenlik Castle and the Naval Museum",
+   "desc": "Mehmed II built Çimenlik (Kale-i Sultaniye) in 1462-63 to lock the Dardanelles together with Kilitbahir opposite. Today it houses the Çanakkale Naval Museum, with a replica of the minelayer Nusret and relics of the 1915 naval battle.",
+   "tip": "Allow about an hour; the park around the castle has cannon and 1915 artillery pieces.",
+   "q": "Çimenlik Kalesi, Cevatpaşa, Çanakkale",
+   "ll": [
+    40.14639,
+    26.39917
+   ],
+   "src": [
+    "https://tr.wikipedia.org/wiki/Kale-i_Sultaniye"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "canakkalesaatkulesi",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Find the 1897 Çanakkale Clock Tower",
+   "desc": "The five-storey, 20 m clock tower was built in the late 1890s under the district governor Cemil Pasha. It marks the old square where the fish market and Yalı Caddesi meet.",
+   "tip": "It sits on the way between the Kordon and the Naval Museum, so combine them in one walk.",
+   "q": "Saat Kulesi, Yalı Caddesi, Cevatpaşa, Merkez, Çanakkale",
+   "ll": [
+    40.14966,
+    26.40206
+   ],
+   "src": [
+    "https://www.tatilbudur.com/blog/canakkalede-gezilecek-yerler/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "canakkaleseramik",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See Anatolian pottery at the Çanakkale Ceramics Museum",
+   "desc": "Opened in 1997 as Türkiye's first ceramics museum, it is set in a restored Ottoman building and shows Hittite, Lydian, Roman and Ottoman pieces alongside Çanakkale's own pottery tradition. Visitors can also try making a pot.",
+   "tip": "Ask at the desk about the hands-on pottery workshop.",
+   "q": "Çanakkale Seramik Müzesi, Cevatpaşa, Merkez, Çanakkale",
+   "ll": [
+    40.157,
+    26.41241
+   ],
+   "src": [
+    "https://www.bilimsenligi.com/canakkale-seramik-muzesi.html",
+    "https://kupi.com/en-ae/explore/turkey/canakkale/canakkale-ceramic-museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "kadirustahelva",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat warm peynir helvası at Kadir Usta",
+   "desc": "Peynir helvası is the cheese-and-flour sweet of Çanakkale, cooked from fresh unsalted cheese and served hot, often with a scoop of ice cream. Kadir Usta is one of the best-known specialists in the city centre and usually has a queue.",
+   "tip": "Order it hot (sıcak); it is rich, so share a portion.",
+   "q": "Çanakkale Helvacısı Kadir Usta, Arap İbrahim Paşa Caddesi 24, Namık Kemal, Çanakkale",
+   "ll": [
+    40.14528,
+    26.40424
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/3012353"
+   ]
+  },
+  {
+   "id": "sardalyesandwich",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try a sardine sandwich at Sardalye",
+   "desc": "Sardalye, in a side street of the old centre, is known for its sardine sandwich, a nod to the sardine tradition of the strait. Locals use it for a quick, well-reviewed lunch.",
+   "tip": "Go outside peak lunch hour; it is a small, fast place.",
+   "q": "Sardalye, Küçük Hamam Sokak, Cevatpaşa, Merkez, Çanakkale",
+   "ll": [
+    40.14739,
+    26.40301
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/2046951/sardalye"
+   ]
+  },
+  {
+   "id": "yalovarestoran",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order meze and fish at Yalova Restoran",
+   "desc": "A long-running fish restaurant on Gümrük Sokak near the port, said to date back to 1940, serving meze and the day's catch. It is a classic for a sit-down fish dinner in town.",
+   "tip": "Ask for the fish by weight and check the price first, as reviewers warn.",
+   "q": "Yalova Restoran, Gümrük Sokak, Cevatpaşa, Merkez, Çanakkale",
+   "ll": [
+    40.1494,
+    26.40027
+   ],
+   "src": [
+    "https://www.hurriyet.com.tr/seyahat/canakkale-yemeksiz-gecilmez-40419873",
+    "https://www.tatilbudur.com/blog/canakkalenin-meshur-yemekleri/"
+   ]
+  },
+  {
+   "id": "canakkaleaynalicarsi",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Browse the Aynalı Çarşı bazaar",
+   "desc": "The covered Aynalı Çarşı is the old shopping street of the city, with small shops for local cheeses, olive products, ceramics and souvenirs. It connects the Kordon with the clock tower area.",
+   "tip": "Buy Ezine cheese and Gelibolu halva here as gifts.",
+   "q": "Aynalı Çarşı, Cevatpaşa, Merkez, Çanakkale",
+   "ll": [
+    40.14632,
+    26.40372
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/turkey/aegean-coast/canakkale/attractions"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "canakkaleeceabatferry",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Ride the Çanakkale–Eceabat ferry across the Dardanelles",
+   "desc": "The car-and-passenger ferries cross the narrowest part of the strait in about 30 minutes, past Çimenlik and Kilitbahir, where the 1915 naval battle took place. It is the classic way to reach the Gallipoli peninsula.",
+   "tip": "Sit on the open top deck and buy a cheap simit on board.",
+   "q": "Çanakkale Eceabat feribot iskelesi, Cevatpaşa, Merkez, Çanakkale",
+   "ll": [
+    40.18446,
+    26.36
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/turkey/aegean-coast/canakkale/attractions"
+   ]
+  },
+  {
+   "id": "kilitbahirkalesi",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Climb Kilitbahir Castle, the lock of the sea",
+   "desc": "Fatih Sultan Mehmed built the clover-shaped castle in 1463 to close the Dardanelles with Çimenlik opposite. Its thick-walled central tower can be climbed for views down the strait.",
+   "tip": "Take the short car ferry from Çanakkale; allow an hour for the tower and the Namazgah bastion nearby.",
+   "q": "Kilitbahir Kalesi, Kilitbahir, Eceabat, Çanakkale",
+   "ll": [
+    40.14766,
+    26.37957
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Kilitbahir_Castle",
+    "https://www.lonelyplanet.com/turkey/kilitbahir/attractions/kilitbahir-castle-museum/a/poi-sig/1249601/1319607"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "troyruins",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the ruins of Troy at Hisarlık",
+   "desc": "Troy, a UNESCO site, has nine main layers of settlement spanning about 4,000 years and is tied to Homer's Iliad. Schliemann dug here from 1871, and the site includes walls, a ramp and a wooden horse replica at the entrance.",
+   "tip": "Go early or late in summer; combine with the Troy Museum next door and keep two hours for both.",
+   "q": "Truva Antik Kenti, Tevfikiye, Merkez, Çanakkale",
+   "ll": [
+    39.9575,
+    26.2389
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Troy",
+    "https://www.ktb.gov.tr/EN-327628/troya-ruins.html"
+   ]
+  },
+  {
+   "id": "troymuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the award-winning Troy Museum",
+   "desc": "Opened in October 2018 about 800 m from the ruins, the museum shows around 2,000 of its 40,000-plus finds, arranged from the Bronze Age to the Byzantine era.",
+   "tip": "Visit the museum before the ruins so the finds make sense on site; a combined ticket exists.",
+   "q": "Troya Müzesi, Tevfikiye, Merkez, Çanakkale",
+   "ll": [
+    39.95528,
+    26.24917
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Troy_Museum",
+    "https://www.ntv.com.tr/sanat/troya-muzesi-ziyarete-acildi,Y3OCeicQUkiz5eGdQ3X-PA"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "alexandriatroas",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the Roman baths of Alexandria Troas",
+   "desc": "Founded around 310 BC and renamed Alexandria Troas in 301 BC, it became a major Roman port; the Apostle Paul sailed for Europe from here. Remains include the Herodes Atticus baths, the city walls and a harbour.",
+   "tip": "Bring water and sun protection; there is little shade or signage.",
+   "q": "Alexandria Troas Antik Kenti, Dalyan, Ezine, Çanakkale",
+   "ll": [
+    39.75167,
+    26.15861
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Alexandria_Troas"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "smintheionapollo",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the temple of Apollo Smintheus at Gülpınar",
+   "desc": "The Hellenistic sanctuary of Apollo Smintheus, the mouse god, is mentioned in the Iliad; its ruins stand near the village of Gülpınar and include Ionic column fragments and a relief frieze.",
+   "tip": "Combine with a visit to Babakale; a small display stands beside the temple.",
+   "q": "Smintheion Apollon Tapınağı, Gülpınar, Ayvacık, Çanakkale",
+   "ll": [
+    39.53621,
+    26.11775
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Smintheion"
+   ]
+  },
+  {
+   "id": "babakalekalesi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Babakale Castle at Turkey's westernmost point",
+   "desc": "The last Ottoman castle built in Anatolia, completed in the 1720s under Ahmed III to guard the cape against pirates. It overlooks the fishing harbour at Cape Baba, the westernmost point of mainland Turkey.",
+   "tip": "Have tea in the harbour in the evening and check whether the castle is open that day.",
+   "q": "Babakale Kalesi, Babakale, Ayvacık, Çanakkale",
+   "ll": [
+    39.4798,
+    26.065
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Babakale_Castle",
+    "https://www.coastguidetr.com/en/historic-site/600140031/babakale-kalesi-castle"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "assosathena",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stand in the Doric Temple of Athena at Assos",
+   "desc": "The 530 BC temple on the Assos acropolis is the only Doric temple in Asia Minor dedicated to Athena; six of its original 38 columns survive. Aristotle lived in Assos in the 340s BC and views reach Lesbos.",
+   "tip": "Go in the evening for sunset and cooler air; the Hüdavendigar Mosque is just below.",
+   "q": "Athena Tapınağı, Behramkale, Ayvacık, Çanakkale",
+   "ll": [
+    39.49056,
+    26.33667
+   ],
+   "src": [
+    "https://tr.wikipedia.org/wiki/Assos"
+   ]
+  },
+  {
+   "id": "assosyahyausta",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste honey-almond ice cream at Yahya Usta",
+   "desc": "Yahya Usta is the best-known ice cream shop of Assos, famed for a honey-almond flavour. Several guides name it as the sweet stop after the Athena temple.",
+   "tip": "Try the bal-badem (honey-almond) flavour.",
+   "q": "Meşhur Assos Dondurması Yahya Usta, Behram, Ayvacık, Çanakkale",
+   "ll": [
+    39.49404,
+    26.32967
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/7905166",
+    "https://blog.turkishairlines.com/en/assos-nature-and-flavor-guide/"
+   ]
+  },
+  {
+   "id": "assosuzunev",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat fish by the water at Assos harbour",
+   "desc": "The small stone harbour below Behramkale has fish restaurants on the quay; Uzun Ev is named in local guides as a place to watch the sunset over a fish dinner. Look for kabak çiçeği dolması as a meze.",
+   "tip": "Book a table by the water for sunset in summer.",
+   "q": "Uzun Ev Restaurant, İskele Mevkii, Behram Yolu 30, Behram, Ayvacık, Çanakkale",
+   "ll": [
+    39.4937,
+    26.3319
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/2769787",
+    "https://yemek.com/assos-mekanlari/"
+   ]
+  },
+  {
+   "id": "adatepezeytinyagimuzesi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Learn olive oil history at the Adatepe museum",
+   "desc": "Opened in 2001 in a former soap factory on the İzmir road, it was Türkiye's first olive-oil museum and shows presses, storage jars and harvest tools.",
+   "tip": "Taste and buy the oil in the shop; check opening on the day.",
+   "q": "Adatepe Zeytinyağı Müzesi, Küçükkuyu, Ayvacık, Çanakkale",
+   "ll": [
+    39.54725,
+    26.60116
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Adatepe_Olive_Oil_Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "ezinepeyniricheese",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Buy genuine Ezine cheese at Kudret Kahraman Peynircilik",
+   "desc": "Ezine cheese, a protected white cheese from cow, sheep and goat milk, takes its name from this small town. Kudret Kahraman is a family dairy producing and selling in Ezine since 1993.",
+   "tip": "Look for the geographical-indication label rather than 'Ezine-style' cheese.",
+   "q": "Kudret Kahraman Peynircilik, Ezine, Çanakkale",
+   "ll": [
+    39.784,
+    26.333
+   ],
+   "src": [
+    "https://yemek.com/en-iyi-ezine-peyniri-markalari/"
+   ]
+  },
+  {
+   "id": "anzaccove",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stand on Anzac Cove, where the Gallipoli landing began",
+   "desc": "On 25 April 1915 Australian and New Zealand troops came ashore at this narrow 600 m beach, which became their base for eight months. Ari Burnu Cemetery and the Sphinx rock stand beside it.",
+   "tip": "Come in the morning or off-peak; allow time for North Beach and Ari Burnu Cemetery.",
+   "q": "Anzac Koyu, Arıburnu, Eceabat, Çanakkale",
+   "ll": [
+    40.23611,
+    26.2775
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Anzac_Cove",
+    "https://www.onthegotours.com/Turkey/ANZAC-Day/Best-Places-To-Visit"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "lonepine",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Pay respects at Lone Pine Cemetery",
+   "desc": "Lone Pine, the Turkish Kanlısırt, was the scene of a ferocious Australian assault on 6-9 August 1915. The cemetery is the main memorial to Australians with no known grave; a Turkish inscription tells the battle from the other side.",
+   "tip": "Combine with the nearby Turkish 57th Regiment memorial.",
+   "q": "Lone Pine Şehitliği, Kanlısırt, Eceabat, Çanakkale",
+   "ll": [
+    40.23042,
+    26.28707
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Battle_of_Lone_Pine"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "conkbayiri",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Climb to Conkbayırı, the hill of Atatürk",
+   "desc": "Conkbayırı (Chunuk Bair) was taken by the Allies on 8 August 1915 and retaken by Mustafa Kemal's counter-attack. A New Zealand memorial and cemetery stand beside the Turkish monument.",
+   "tip": "The one-way road from Kabatepe follows the old front line, so drive it slowly.",
+   "q": "Conkbayırı Atatürk Anıtı ve Yeni Zelanda Anıtı, Eceabat, Çanakkale",
+   "ll": [
+    40.25197,
+    26.3085
+   ],
+   "src": [
+    "https://www.cwgc.org/find-a-cemetery/cemetery/66605",
+    "https://canakkaletarihialan.gov.tr/en/visit/cemeteries-and-monuments/new-zealand-national-memorial-and-cemetery"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "alay57",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the 57th Regiment Memorial at Gallipoli",
+   "desc": "Built in 1992, the memorial honours the 57th Infantry Regiment, which held the line at Arıburnu and whose men were told by Mustafa Kemal 'I do not order you to attack, I order you to die'. It has a fountain, prayer area and cemetery.",
+   "tip": "Come in the quiet hours to appreciate the atmosphere.",
+   "q": "57. Alay Şehitliği, Eceabat, Çanakkale",
+   "ll": [
+    40.2392,
+    26.29251
+   ],
+   "src": [
+    "https://www.haberturk.com/gelibolu-gezi-rehberi-canakkale-destaninin-merkezi-gelibolu-yarimadasi-gezilecek-yerler-listesi-hts-1946331"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "kabatepemuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Start at the Kabatepe War Museum",
+   "desc": "The museum near Kabatepe displays weapons, uniforms and personal items recovered from the battlefields. It is the traditional first stop for the peninsula.",
+   "tip": "Visit before touring the battlefields for context.",
+   "q": "Çanakkale Destanı Tanıtım Merkezi, Kabatepe, Kemalpaşa, Eceabat, Çanakkale",
+   "ll": [
+    40.20726,
+    26.28162
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/210539",
+    "https://kureansiklopedi.com/tr/detay/canakkale-destani-tanitim-merkezi-31412"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "seddulbahir",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Explore the 1659 Seddülbahir fortress at Cape Helles",
+   "desc": "Built in 1659 under Turhan Sultan, Seddülbahir held the southern tip of the peninsula. It was damaged in the 1915 landings and later restored; the Helles Memorial is nearby.",
+   "tip": "Visit the village and the cemeteries on the same drive.",
+   "q": "Seddülbahir Kalesi, Seddülbahir, Eceabat, Çanakkale",
+   "ll": [
+    40.04196,
+    26.18779
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Sedd_el_Bahr"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "sehitlerabidesi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Çanakkale Martyrs' Memorial at Hisarlık",
+   "desc": "The memorial on Hisarlık Hill, finished in 1960, honours the Turkish dead of the Gallipoli campaign. Four pillars support a concrete canopy; it is the most visited point in the Gallipoli Historical Site.",
+   "tip": "Park once and walk around the memorial and its cemetery.",
+   "q": "Çanakkale Şehitler Abidesi, Morto Koyu, Eceabat, Çanakkale",
+   "ll": [
+    40.04982,
+    26.21835
+   ],
+   "src": [
+    "https://www.canakkaletarihialan.gov.tr/data/uploads/corporate/files/dFmqxPaERTlSQsL0PAJXgVtu5itHafm21nQZxU5Z.pdf"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "limanbalikeceabat",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order fish at Liman Balık in Eceabat",
+   "desc": "A long-time favourite on İstiklal Caddesi with big windows over the small waterfront park, serving fresh fish and meze after a Gallipoli day.",
+   "tip": "Sit by the window and try the grilled sea bream or the sardines.",
+   "q": "Liman Balık Restaurant, İstiklal Caddesi 67, İsmetpaşa, Eceabat, Çanakkale",
+   "ll": [
+    40.1809,
+    26.36055
+   ],
+   "src": [
+    "https://www.fodors.com/world/europe/turkey/the-sea-of-marmara-and-the-north-aegean/places/eceabat/restaurants",
+    "https://wanderlog.com/place/details/7455683"
+   ]
+  },
+  {
+   "id": "eceabatkofte",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Eceabat köfte at Gözde Köfteci",
+   "desc": "Gözde Köfteci is a highly rated grill house in town known for its grilled meatballs, a local style of köfte.",
+   "tip": "Order with piyaz and grilled peppers.",
+   "q": "Gözde Köfte Çorba Salonu, Zübeyde Hanım Meydanı 38, Eceabat, Çanakkale",
+   "ll": [
+    40.18312,
+    26.35967
+   ],
+   "src": [
+    "https://de.restaurantguru.com/Gozde-Kofte-Corba-Salonu-Eceabat"
+   ]
+  },
+  {
+   "id": "gelibolupeynirhelvasi",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste GI-protected Gelibolu peynir helvası at Zafer",
+   "desc": "Gelibolu cheese halva, said to go back about 700 years, is made only from fresh unsalted cheese, a little flour and sugar, and has a geographical indication. Zafer Tarihi Peynir Helvacısı serves it in the old centre.",
+   "tip": "Eat it warm, plain or baked.",
+   "q": "Tarihi Zafer Peynir Helvacısı, Yazıcızade, Atatürk Caddesi 33, Gelibolu, Çanakkale",
+   "ll": [
+    40.40638,
+    26.67253
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/3015481"
+   ]
+  },
+  {
+   "id": "gelibolusardalya",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat grilled sardines at Gelibolu Sardalya",
+   "desc": "Gelibolu is the sardine town of the strait; the fish is grilled in vine leaves or salted in a recipe the town's Greek community left behind. Gelibolu Sardalya, near the quay, is praised for sardines and whiting.",
+   "tip": "Order the grilled sardines in vine leaves in season.",
+   "q": "Gelibolu Sardalya, İskele Meydanı, Gelibolu, Çanakkale",
+   "ll": [
+    40.40541,
+    26.67225
+   ],
+   "src": [
+    "https://www.sabah.com.tr/cumartesi/2026/08/01/rumeliden-gelen-700-yillik-lezzet",
+    "https://cnnturk.com/yasam/geliboluda-rumlardan-kalma-200-yillik-lezzet-tuzlu-balik-1347423"
+   ]
+  },
+  {
+   "id": "piriresmuseum",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Piri Reis' maps in the Gelibolu castle tower",
+   "desc": "The small museum is housed in a stone tower of the Gelibolu fortress, a remnant of a Byzantine castle expanded by the Ottomans. It shows reproductions of Piri Reis' world maps, as the admiral was based in Gelibolu.",
+   "tip": "Check opening hours; a Müzekart usually covers entry.",
+   "q": "Piri Reis Müzesi, Gelibolu Kalesi, Gelibolu, Çanakkale",
+   "ll": [
+    40.40588,
+    26.67144
+   ],
+   "src": [
+    "https://turkisharchaeonews.net/node/347",
+    "https://castles.nl/gelibolu-castle"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "bigakofteciakif",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat soft Biga köftesi at Köfteci Akif",
+   "desc": "Biga köfte is made only with beef, bread, onion and salt, and Köfteci Akif is a roughly 50-year-old shop locals recommend, serving it with piyaz. Kaymaklı peynir tatlısı is the sweet to follow.",
+   "tip": "Order with piyaz and finish with the cheese dessert.",
+   "q": "Köfteci Akif, Biga, Çanakkale",
+   "ll": [
+    40.23101,
+    27.24128
+   ],
+   "src": [
+    "https://www.hurriyet.com.tr/seyahat/canakkale-yemeksiz-gecilmez-40419873",
+    "https://yemek.com/tarif/biga-koftesi/"
+   ]
+  },
+  {
+   "id": "parionancientcity",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the theatre and odeon of ancient Parion",
+   "desc": "Parion was an Ionian colony on the Marmara coast near Biga, famous for its coins and a Roman odeon. Excavations have revealed the theatre, agora and a stretch of the city's sea wall.",
+   "tip": "Visit in spring; bring sun protection.",
+   "q": "Parion Antik Kenti, Kemer, Biga, Çanakkale",
+   "ll": [
+    40.42375,
+    27.07252
+   ],
+   "src": [
+    "https://www.posta.com.tr/yazarlar/banu-sen/canakkalenin-sakli-cenneti-biga-2567289"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "bozcaadakalesi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the walls of Bozcaada Castle",
+   "desc": "Mehmed II rebuilt the castle after the 1455 conquest; it has a bailey and a citadel with a moat to the south and is one of Türkiye's best-preserved island fortresses.",
+   "tip": "Go for sunset views over the harbour and the vineyards.",
+   "q": "Bozcaada Kalesi, Cumhuriyet, Bozcaada, Çanakkale",
+   "ll": [
+    39.83616,
+    26.07245
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Bozcaada_Castle"
+   ]
+  },
+  {
+   "id": "bozcaadaayazmaplaj",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim at Ayazma Beach on Bozcaada",
+   "desc": "Ayazma is the island's best-known sandy cove on the south coast, near the Ayazma monastery and with a few restaurants and water-sports operators.",
+   "tip": "Visit in the morning before the wind rises.",
+   "q": "Ayazma Plajı, Bozcaada, Çanakkale",
+   "ll": [
+    39.81211,
+    26.00974
+   ],
+   "src": [
+    "https://www.tatilbudur.com/blog/bozcaadada-gezilecek-yerler/"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "bozcaadacinaralti",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have coffee and patlıcanlı börek at Çınaraltı",
+   "desc": "A plane-tree café on Çınar Çarşı Caddesi near the ferry quay, known for Turkish coffee, tea and patlıcanlı börek (aubergine pastry), and a good first stop on the island.",
+   "tip": "Sit under the plane tree and order the patlıcanlı börek.",
+   "q": "Çınaraltı Cafe, Çınar Çarşı Caddesi, Alaybey, Bozcaada, Çanakkale",
+   "ll": [
+    39.83493,
+    26.07009
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/2875229",
+    "https://yemek.com/bozcaada-mekanlari/"
+   ]
+  },
+  {
+   "id": "bozcaadavahit",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat calamari and meze at Vahit'in Yeri",
+   "desc": "A classic meyhane near Ayazma Beach known for calamari and a spread of meze such as Girit ezme and börülce salad.",
+   "tip": "Order the calamari and share a few meze.",
+   "q": "Vahit'in Yeri, Ayazma Mevkii, Cumhuriyet, Bozcaada, Çanakkale",
+   "ll": [
+    39.81371,
+    26.0061
+   ],
+   "src": [
+    "https://yemek.com/bozcaada-mekanlari/"
+   ]
+  },
+  {
+   "id": "bozcaadacicekpastanesi",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Buy mastic-almond cookies at Çiçek Pastanesi",
+   "desc": "A bakery in the old Greek quarter famous for its almond cookies flavoured with damla sakızı (mastic) as well as breads and cakes.",
+   "tip": "Buy a box to take home.",
+   "q": "Çiçek Pastanesi, Atatürk Caddesi, Rum Mahallesi, Bozcaada, Çanakkale",
+   "ll": [
+    39.83392,
+    26.07121
+   ],
+   "src": [
+    "https://yemek.com/bozcaada-mekanlari/"
+   ]
+  },
+  {
+   "id": "bozcaadatalay",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Taste Bozcaada wines at Talay Şarap Evi",
+   "desc": "Bozcaada's volcanic soil and wind produce distinctive local grapes; Talay Şarap Evi is a long-established wine house where visitors can taste several wines for a fee and buy bottles.",
+   "tip": "Ask for a tasting of the local Kuntra and Karasakız.",
+   "q": "Talay Şarap Evi, Cumhuriyet, Bozcaada, Çanakkale",
+   "ll": [
+    39.83489,
+    26.06982
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/210575/talay-şarap-satış-mağazası-meydan",
+    "https://goturkiye.com/tr/vineyards/bozcaada-uzumbaglari-rotasi"
+   ]
+  },
+  {
+   "id": "bozcaadapolente",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See Polente Lighthouse at the island's western tip",
+   "desc": "Polente is the lighthouse on the western end of Bozcaada, a spot for sunset with the island's wind turbines nearby. It lies at the windswept end of the island road.",
+   "tip": "Go at sunset and bring a layer; the wind is strong.",
+   "q": "Polente Feneri, Bozcaada, Çanakkale",
+   "ll": [
+    39.83652,
+    25.96364
+   ],
+   "src": [
+    "https://www.tatilbudur.com/blog/bozcaadada-gezilecek-yerler/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gokceadatepekoycinaralti",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Have the village breakfast at Çınaraltı in Tepeköy",
+   "desc": "Tepeköy (Agridia) is the old Greek hill village, and Çınaraltı under the plane tree is known for sigara böreği, menemen and organic jams on its breakfast spread.",
+   "tip": "Come for a late breakfast, and try the daily home-style dishes.",
+   "q": "Çınaraltı, Tepeköy, Gökçeada, Çanakkale",
+   "ll": [
+    40.18782,
+    25.8912
+   ],
+   "src": [
+    "https://yemek.com/gokceada-mekanlari/"
+   ]
+  },
+  {
+   "id": "gokceadabarbayorgo",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat kid and island dishes at Barba Yorgo",
+   "desc": "A village taverna in Tepeköy run in the Greek-island style, known for goat kid (oğlak) and fish.",
+   "tip": "Book ahead in summer.",
+   "q": "Barba Yorgo, Tepeköy, Gökçeada, Çanakkale",
+   "ll": [
+    40.19207,
+    25.83429
+   ],
+   "src": [
+    "https://yemek.com/gokceada-mekanlari/"
+   ]
+  },
+  {
+   "id": "gokceadakalekoy",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit Kaleköy and its harbour castle at sunset",
+   "desc": "Kaleköy (Kastro) on the north-east coast has a medieval castle above a small port of stone houses and a plane-tree square. It is the island's favourite sunset spot.",
+   "tip": "Have dinner at the harbour and stay for sunset.",
+   "q": "Kaleköy, Gökçeada, Çanakkale",
+   "ll": [
+    40.2335,
+    25.8986
+   ],
+   "src": [
+    "https://www.cnnturk.com/seyahat/gokceada-gezilecek-yerler-listesi-gokceadada-gorulmesi-gereken-yerler-ve-yapilacaklar-listesi-1646175"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "gokceadaaydincik",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Windsurf or swim at Aydıncık Beach",
+   "desc": "Aydıncık (Kefalos) is the island's best-known beach, over a kilometre of golden sand on the south coast with a windsurf school operating since 2004.",
+   "tip": "Mornings are calm; the wind rises by midday.",
+   "q": "Aydıncık Plajı, Gökçeada, Çanakkale",
+   "ll": [
+    40.14604,
+    25.97143
+   ],
+   "src": [
+    "https://www.oggusto.com/seyahat/yurtici/gokceada-gezi-rehberi",
+    "https://www.dailysabah.com/travel/2018/09/01/imbros-turkeys-laid-back-island"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "gokceadaugurlu",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Swim at Gizli Liman beach in Uğurlu",
+   "desc": "Uğurlu on the western coast is known for its golden beach and calm hidden harbour, with a Neolithic mound nearby that goes back about 7,000 years. It is also the island's sunset coast.",
+   "tip": "Watch the sun go down from the harbour.",
+   "q": "Gizli Liman, Uğurlu, Gökçeada, Çanakkale",
+   "ll": [
+    40.12228,
+    25.68237
+   ],
+   "src": [
+    "https://www.cnnturk.com/seyahat/gokceada-gezilecek-yerler-listesi-gokceadada-gorulmesi-gereken-yerler-ve-yapilacaklar-listesi-1646175"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "gokceadamarmaros",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Hike to Marmaros Waterfall",
+   "desc": "Marmaros waterfall is a lesser-known natural attraction on the north coast, reached on foot through the island's interior; a pebble beach lies about an hour's walk away.",
+   "tip": "Go in spring when the water flows.",
+   "q": "Marmaros Şelalesi, Gökçeada, Çanakkale",
+   "ll": [
+    40.18088,
+    25.76973
+   ],
+   "src": [
+    "https://www.dailysabah.com/travel/2018/09/01/imbros-turkeys-laid-back-island"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    3,
+    4,
+    5,
+    6
+   ]
+  },
+  {
+   "id": "gokceadazeytinli",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the old Greek houses of Zeytinli",
+   "desc": "Zeytinli (Agios Theodoros) is a preserved Rum village among olive groves; its stone houses, church and washing-houses are protected, and Patriarch Bartholomew I was born here.",
+   "tip": "Stop for coffee in the village square.",
+   "q": "Zeytinliköy, Gökçeada, Çanakkale",
+   "ll": [
+    40.18987,
+    25.87104
+   ],
+   "src": [
+    "https://tr.wikipedia.org/wiki/Zeytinliköy,_Gökçeada"
+   ],
+   "tags": [
+    "free"
+   ]
+  }
+ ]
+}

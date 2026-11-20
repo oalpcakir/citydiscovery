@@ -177,6 +177,7 @@ window.MOVED = {
 "halle/haeichenkranz": "leipzig/haeichenkranz",
 "halle/haschlosswoerlitz": "leipzig/haschlosswoerlitz",
 "halle/hawoerlitzgondel": "leipzig/hawoerlitzgondel",
+"izmir/kulafairy": "afyon/kulafairy",
 "kobenhavn/bolcheriet": "bornholm/bolcheriet",
 "kobenhavn/christianso": "bornholm/christianso",
 "kobenhavn/dueodde": "bornholm/dueodde",

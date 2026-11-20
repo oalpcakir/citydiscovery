@@ -1,0 +1,46 @@
+{
+ "picks": [
+  "troyescathedral",
+  "vezelaybasilica",
+  "guedelon",
+  "troyesruelledeschats",
+  "essoyesrenoir"
+ ],
+ "cards": {
+  "troyescathedral": {
+   "name": "Troyes Cathedral",
+   "art": "church",
+   "slogan": "Sixteen hundred square metres of glass, lit from within.",
+   "line": "Rebuilt after a fire in 1188, it holds some 1,600 square metres of medieval and Renaissance stained glass.",
+   "source": "https://en.wikipedia.org/wiki/Troyes_Cathedral"
+  },
+  "vezelaybasilica": {
+   "name": "Vézelay Basilica",
+   "art": "church",
+   "slogan": "A hilltop church where pilgrims set out for Santiago.",
+   "line": "At Easter 1146, Bernard of Clairvaux preached the Second Crusade here before King Louis VII.",
+   "source": "https://en.wikipedia.org/wiki/V%C3%A9zelay_Abbey"
+  },
+  "guedelon": {
+   "name": "Guédelon Castle",
+   "art": "castle",
+   "slogan": "A thirteenth-century fortress, built stone by stone, today.",
+   "line": "Since 1997 builders have raised this castle using only 13th-century tools, materials and methods.",
+   "source": "https://en.wikipedia.org/wiki/Gu%C3%A9delon_Castle"
+  },
+  "troyesruelledeschats": {
+   "name": "Ruelle des Chats",
+   "art": "canalhouses",
+   "slogan": "An alley so narrow the rooftops almost kiss.",
+   "line": "Its name is said to come from cats leaping between the roofs on either side of the lane.",
+   "source": "https://www.aube-champagne.com/en/poi/ruelle-des-chats-et-cour-du-mortier-d-or/"
+  },
+  "essoyesrenoir": {
+   "name": "Renoir's Essoyes",
+   "art": "park",
+   "slogan": "The village where Renoir painted his wife's family and friends.",
+   "line": "Renoir built a studio in 1905 in the garden of the family home in Essoyes, and lies buried in the village cemetery.",
+   "source": "https://en.wikipedia.org/wiki/Essoyes"
+  }
+ }
+}

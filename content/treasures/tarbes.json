@@ -1,0 +1,47 @@
+{
+ "picks": [
+  "lourdessanctuary",
+  "gavarniecirque",
+  "picdumidi",
+  "lourdeschateau",
+  "tarbesharas"
+ ],
+ "cards": {
+  "lourdessanctuary": {
+   "name": "Sanctuary of Lourdes",
+   "art": "church",
+   "slogan": "Candles, crowds and a quiet grotto on the Gave.",
+   "line": "I am the Immaculate Conception.",
+   "by": "Words Bernadette Soubirous reported from the grotto, 25 March 1858",
+   "source": "https://en.wikipedia.org/wiki/Our_Lady_of_Lourdes"
+  },
+  "gavarniecirque": {
+   "name": "Cirque de Gavarnie",
+   "art": "park",
+   "slogan": "A stone amphitheatre with a waterfall falling off the rim.",
+   "line": "The Grande Cascade drops about 422 metres, the highest waterfall in mainland France, inside a UNESCO World Heritage cirque.",
+   "source": "https://en.wikipedia.org/wiki/Gavarnie_Falls"
+  },
+  "picdumidi": {
+   "name": "Pic du Midi",
+   "art": "tower",
+   "slogan": "Take the cable car and sleep above the clouds.",
+   "line": "A weather station began at the Col de Sencours in 1873; the observatory on the 2,877 m summit was founded in 1878.",
+   "source": "https://en.wikipedia.org/wiki/Pic_du_Midi_de_Bigorre"
+  },
+  "lourdeschateau": {
+   "name": "Château fort de Lourdes",
+   "art": "castle",
+   "slogan": "A rock fortress over the town, full of Pyrenean life.",
+   "line": "Tradition says Charlemagne besieged this castle in 778; it has housed the Musée Pyrénéen since 1921.",
+   "source": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_fort_de_Lourdes"
+  },
+  "tarbesharas": {
+   "name": "Haras de Tarbes",
+   "art": "palace",
+   "slogan": "Napoleon's stud farm, where the Anglo-Arab horse took shape.",
+   "line": "Napoleon founded the stud in 1806, and it became the cradle of the French Anglo-Arab horse.",
+   "source": "https://pop.culture.gouv.fr/notice/merimee/PA00095428"
+  }
+ }
+}

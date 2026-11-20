@@ -1,0 +1,47 @@
+{
+ "picks": [
+  "bourgescathedral",
+  "palaisjacquescoeur",
+  "valencaychateau",
+  "nohantgeorgesand",
+  "noirlacabbey"
+ ],
+ "cards": {
+  "bourgescathedral": {
+   "name": "Bourges Cathedral",
+   "art": "church",
+   "slogan": "Thirteenth-century glass that still floods the nave with colour.",
+   "line": "Built between 1195 and about 1230, it was declared a UNESCO World Heritage Site in 1992 for its quintessential Gothic design.",
+   "source": "https://en.wikipedia.org/wiki/Bourges_Cathedral"
+  },
+  "palaisjacquescoeur": {
+   "name": "Palais Jacques-Coeur",
+   "art": "palace",
+   "slogan": "A merchant's flamboyant Gothic dream, carved stone by stone.",
+   "line": "Jacques Coeur bought the land in 1443; the palace was finished in 1453, while he sat in prison after his 1451 arrest.",
+   "source": "https://en.wikipedia.org/wiki/Palais_Jacques_C%C5%93ur"
+  },
+  "valencaychateau": {
+   "name": "Chateau de Valencay",
+   "art": "castle",
+   "slogan": "Talleyrand's grand stage, where Napoleon's guests played diplomat.",
+   "line": "Napoleon ordered Talleyrand to buy it in 1803, and in WWII it sheltered the Venus de Milo and the Winged Victory of Samothrace.",
+   "source": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Valen%C3%A7ay"
+  },
+  "nohantgeorgesand": {
+   "name": "George Sand's House, Nohant",
+   "art": "museum",
+   "slogan": "The Berry country house where Chopin wrote and Sand held court.",
+   "line": "The whole secret of the study of nature lies in learning how to use one's eyes.",
+   "by": "George Sand, who wrote most of her novels at Nohant",
+   "source": "https://en.wikiquote.org/wiki/George_Sand"
+  },
+  "noirlacabbey": {
+   "name": "Noirlac Abbey",
+   "art": "church",
+   "slogan": "Cistercian calm in pale stone, almost untouched since the Middle Ages.",
+   "line": "Founded in 1136 by monks from Clairvaux, it is one of the best-preserved Cistercian abbeys in France.",
+   "source": "https://en.wikipedia.org/wiki/Noirlac_Abbey"
+  }
+ }
+}

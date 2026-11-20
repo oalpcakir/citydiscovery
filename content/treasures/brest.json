@@ -1,0 +1,8 @@
+{"picks": ["pointeduraz", "oceanopolis", "concarneauvilleclose", "brestchateau", "saintmathieupoint"],
+ "cards": {
+  "pointeduraz": {"name": "Pointe du Raz", "art": "park", "slogan": "Europe's edge, where the Atlantic and the Raz de Sein collide.", "line": "The headland rises 72 metres above the sea, and faces the Île de Sein 8 km to the west across a strait of fierce tides.", "source": "https://fr.wikipedia.org/wiki/Pointe_du_Raz"},
+  "oceanopolis": {"name": "Océanopolis", "art": "museum", "slogan": "Polar, tropical and Breton seas under one roof.", "line": "Opened on 21 June 1990, it holds about 10,000 marine animals and plants, with a million litres of seawater in the shark tank alone.", "source": "https://fr.wikipedia.org/wiki/Océanopolis"},
+  "concarneauvilleclose": {"name": "Ville Close, Concarneau", "art": "castle", "slogan": "A walled island town afloat in its own harbour.", "line": "Its granite ramparts date from the 14th century and ring a whole town on an island, reached by a single bridge.", "source": "https://en.wikipedia.org/wiki/Concarneau"},
+  "brestchateau": {"name": "Château de Brest", "art": "castle", "slogan": "Fifteen centuries guarding the Penfeld, still on duty.", "line": "Built on Roman foundations from the late 3rd century, it is called the oldest castle in the world still in use.", "source": "https://en.wikipedia.org/wiki/Château_de_Brest"},
+  "saintmathieupoint": {"name": "Pointe Saint-Mathieu", "art": "tower", "slogan": "A lighthouse standing among the ruins of an abbey.", "line": "Who sees Ouessant sees his blood.", "by": "Breton proverb, quoted on Wikisource (Ouessant)", "source": "https://fr.wikisource.org/wiki/OUESSANT"}
+ }}

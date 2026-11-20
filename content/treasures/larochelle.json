@@ -1,0 +1,46 @@
+{
+ "picks": [
+  "larochelletoursaintnicolas",
+  "pharedesbaleines",
+  "saintmartinvauban",
+  "rochefortcorderie",
+  "larochelleaquarium"
+ ],
+ "cards": {
+  "pharedesbaleines": {
+   "name": "Phare des Baleines",
+   "art": "tower",
+   "slogan": "257 spiral steps to the end of Île de Ré.",
+   "line": "The 57-metre lighthouse opened in 1854; Vauban's 1682 tower still stands 80 metres away.",
+   "source": "https://fr.wikipedia.org/wiki/Phare_des_Baleines"
+  },
+  "larochelletoursaintnicolas": {
+   "name": "Tour Saint-Nicolas",
+   "art": "castle",
+   "slogan": "A medieval gatekeeper standing guard over the Old Port.",
+   "line": "Built from 1384, it is one of three medieval towers guarding La Rochelle's port, and rises about 42 metres.",
+   "source": "https://en.wikipedia.org/wiki/Saint_Nicolas_Tower"
+  },
+  "saintmartinvauban": {
+   "name": "Saint-Martin-de-Ré Ramparts",
+   "art": "castle",
+   "slogan": "Vauban's star-shaped walls around a tiny island harbour.",
+   "line": "Vauban's fortifications of Saint-Martin joined the UNESCO World Heritage List in 2008.",
+   "source": "https://en.wikipedia.org/wiki/Saint-Martin-de-R%C3%A9"
+  },
+  "rochefortcorderie": {
+   "name": "Corderie Royale",
+   "art": "museum",
+   "slogan": "A rope factory as long as four football pitches.",
+   "line": "The Corderie is over 374 metres long and made rigging for the French Navy until 1867.",
+   "source": "https://en.wikipedia.org/wiki/Corderie_Royale"
+  },
+  "larochelleaquarium": {
+   "name": "La Rochelle Aquarium",
+   "art": "harbour",
+   "slogan": "Sharks and 600 species, a stone's throw from the Old Port.",
+   "line": "Three million litres of seawater hold over 12,000 animals, with around 800,000 visitors a year.",
+   "source": "https://en.wikipedia.org/wiki/La_Rochelle_Aquarium"
+  }
+ }
+}

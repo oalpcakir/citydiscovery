@@ -1,0 +1,46 @@
+{
+ "picks": [
+  "orleanscathedral",
+  "maisonjeannedarc",
+  "sullychateau",
+  "saintbenoitabbey",
+  "briarepontcanal"
+ ],
+ "cards": {
+  "orleanscathedral": {
+   "name": "Orléans Cathedral",
+   "art": "church",
+   "slogan": "Twin towers that watched over Joan's city for centuries.",
+   "line": "Begun in 1601 under Henri IV, with Marie de' Medici laying the first stone, it was only consecrated in 1829.",
+   "source": "https://en.wikipedia.org/wiki/Orl%C3%A9ans_Cathedral"
+  },
+  "maisonjeannedarc": {
+   "name": "Maison de Jeanne d'Arc",
+   "art": "canalhouses",
+   "slogan": "The timbered house where the Maid slept during the siege.",
+   "line": "Joan lodged here with treasurer Jacques Boucher in spring 1429; the house was destroyed in 1940 and rebuilt in 1965.",
+   "source": "https://museesorleans.fr/en/expositions/la-maison-de-jeanne-darc-au-fil-de-lhistoire/"
+  },
+  "sullychateau": {
+   "name": "Château de Sully-sur-Loire",
+   "art": "castle",
+   "slogan": "Moat, keep and a king's minister on the Loire.",
+   "line": "Voltaire, exiled from Paris, took refuge in this château in 1716 and again in 1719.",
+   "source": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Sully-sur-Loire"
+  },
+  "saintbenoitabbey": {
+   "name": "Fleury Abbey",
+   "art": "church",
+   "slogan": "Fifty columns hold up a porch, and a saint rests below.",
+   "line": "Founded around 640, it is reputed to hold the relics of St Benedict, and its great tower porch stands on fifty columns.",
+   "source": "https://en.wikipedia.org/wiki/Fleury_Abbey"
+  },
+  "briarepontcanal": {
+   "name": "Briare Canal Bridge",
+   "art": "bridge",
+   "slogan": "Boats sail 662 metres across the Loire on a river of steel.",
+   "line": "Opened in 1896, it was the longest navigable aqueduct in the world until Magdeburg's in 2003.",
+   "source": "https://en.wikipedia.org/wiki/Briare_aqueduct"
+  }
+ }
+}

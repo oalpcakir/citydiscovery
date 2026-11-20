@@ -1,0 +1,46 @@
+{
+ "picks": [
+  "angerschateau",
+  "fontevraudabbey",
+  "saumurchateau",
+  "brissacchateau",
+  "angerscathedral"
+ ],
+ "cards": {
+  "angerschateau": {
+   "name": "Angers Castle",
+   "art": "castle",
+   "slogan": "Seventeen dark towers guarding a tapestry of the end of the world.",
+   "line": "Its 660-metre wall, three metres thick, is studded with seventeen towers; the Apocalypse Tapestry was ordered in 1373.",
+   "source": "https://en.wikipedia.org/wiki/Château_d'Angers"
+  },
+  "fontevraudabbey": {
+   "name": "Fontevraud Abbey",
+   "art": "church",
+   "slogan": "The abbey where Eleanor of Aquitaine and Richard the Lionheart lie.",
+   "line": "Founded in 1101 by the wandering preacher Robert of Arbrissel, it counted some 3,000 nuns by his death in 1117.",
+   "source": "https://en.wikipedia.org/wiki/Fontevraud_Abbey"
+  },
+  "saumurchateau": {
+   "name": "Château de Saumur",
+   "art": "castle",
+   "slogan": "The fairy-tale fortress above the Loire, straight from a medieval calendar.",
+   "line": "It appears on the September page of the Très Riches Heures du duc de Berry, as it looked in 1410.",
+   "source": "https://en.wikipedia.org/wiki/Château_de_Saumur"
+  },
+  "brissacchateau": {
+   "name": "Château de Brissac",
+   "art": "palace",
+   "slogan": "Seven storeys of Loire Valley height, with a gilded theatre inside.",
+   "line": "At seven storeys it is the tallest château in France, and Louis XIII met his mother Marie de Medici here in 1620.",
+   "source": "https://en.wikipedia.org/wiki/Château_de_Brissac"
+  },
+  "angerscathedral": {
+   "name": "Angers Cathedral",
+   "art": "church",
+   "slogan": "Twelfth-century glass still glowing high above the Maine.",
+   "line": "Its Childhood of Christ window, given between 1163 and 1177, holds the cathedral's oldest stained glass.",
+   "source": "https://en.wikipedia.org/wiki/Angers_Cathedral"
+  }
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "picks": [
+  "besanconcitadel",
+  "arcsenanssaline",
+  "ronchampchapel",
+  "besanconclock",
+  "ornanscourbet"
+ ],
+ "cards": {
+  "besanconcitadel": {
+   "name": "Besançon Citadel",
+   "art": "castle",
+   "slogan": "Vauban's walls above a river bend, still standing guard.",
+   "line": "Its walls are 15 to 20 metres high, and a well was cut 132 metres through the rock.",
+   "source": "https://en.wikipedia.org/wiki/Citadel_of_Besan%C3%A7on"
+  },
+  "arcsenanssaline": {
+   "name": "Royal Saltworks, Arc-et-Senans",
+   "art": "palace",
+   "slogan": "A factory drawn as an ideal city, in a perfect half circle.",
+   "line": "Ledoux's first plan was a square; the king rejected it, and work began in 1775 on the semicircle.",
+   "source": "https://en.wikipedia.org/wiki/Royal_Saltworks_at_Arc-et-Senans"
+  },
+  "ronchampchapel": {
+   "name": "Ronchamp Chapel",
+   "art": "church",
+   "slogan": "Le Corbusier's white hilltop sculpture with a roof like a sail.",
+   "line": "Blessed in 1955 and consecrated in 2005, it joined the UNESCO list in 2016 with Le Corbusier's other works.",
+   "source": "https://en.wikipedia.org/wiki/Notre_Dame_du_Haut"
+  },
+  "besanconclock": {
+   "name": "Astronomical Clock",
+   "art": "tower",
+   "slogan": "Thousands of moving parts keeping time inside the cathedral.",
+   "line": "Auguste-Lucien Vérité built it in 1858–60: some 30,000 parts drive its 122 indications.",
+   "source": "https://en.wikipedia.org/wiki/Besan%C3%A7on_Cathedral"
+  },
+  "ornanscourbet": {
+   "name": "Courbet's Ornans",
+   "art": "canalhouses",
+   "slogan": "Cliffs, river and the painter's own town, house by house.",
+   "line": "Burial at Ornans was in reality the burial of romanticism.",
+   "by": "Gustave Courbet, on A Burial at Ornans",
+   "source": "https://en.wikipedia.org/wiki/Gustave_Courbet"
+  }
+ }
+}

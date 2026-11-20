@@ -1,0 +1,8 @@
+{"picks": ["frmuenstertower","freuropapark","frvogtsbauernhof","frkaufhaus","frfeldbergturm"],
+ "cards": {
+  "frmuenstertower": {"name": "Freiburg Minster", "art": "church", "slogan": "A lace-stone spire that has watched the market since 1330.", "line": "The Gothic tower, 116 metres tall, was completed in 1330 and its spire is pierced all the way up with open stonework.", "source": "https://en.wikipedia.org/wiki/Freiburg_Minster"},
+  "freuropapark": {"name": "Europa-Park", "art": "park", "slogan": "A whole continent of rides on the edge of the Black Forest.", "line": "Opened on 12 July 1975 on 16 hectares, it now draws over 5 million visitors a year.", "source": "https://en.wikipedia.org/wiki/Europa-Park"},
+  "frvogtsbauernhof": {"name": "Vogtsbauernhof", "art": "museum", "slogan": "Thatched roofs and woodsmoke, as Black Forest farmers lived.", "line": "The museum is centred on a farmhouse from 1612, and opened to visitors in 1964.", "source": "https://en.wikipedia.org/wiki/Black_Forest_Open_Air_Museum"},
+  "frkaufhaus": {"name": "Historisches Kaufhaus", "art": "palace", "slogan": "Red walls, four emperors and a market square to match.", "line": "Finished in 1532, its facade carries statues of Maximilian I, Philip the Handsome, Charles V and Ferdinand I.", "source": "https://de.wikipedia.org/wiki/Historisches_Kaufhaus_(Freiburg_im_Breisgau)"},
+  "frfeldbergturm": {"name": "Feldberg Tower", "art": "tower", "slogan": "Stand on the Black Forest's roof and look toward the Alps.", "line": "At 1,494 metres, the Feldberg is the highest mountain in Germany outside the Alps and Bavaria.", "source": "https://en.wikipedia.org/wiki/Feldberg_(Black_Forest)"}
+ }}

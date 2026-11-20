@@ -1,0 +1,47 @@
+{
+ "picks": [
+  "kirchbruecke",
+  "gornergratkulm",
+  "valerecastle",
+  "eggishorn",
+  "saintmauriceabbey"
+ ],
+ "cards": {
+  "kirchbruecke": {
+   "name": "Matterhorn",
+   "art": "park",
+   "slogan": "One pyramid of rock that turns Zermatt into a postcard at dawn.",
+   "line": "Hurrah! again; not a footstep could be seen.",
+   "by": "Edward Whymper, Scrambles Amongst the Alps, 1871, on the first ascent",
+   "source": "https://en.wikipedia.org/wiki/Matterhorn"
+  },
+  "gornergratkulm": {
+   "name": "Gornergrat",
+   "art": "tower",
+   "slogan": "A cog railway to a ridge ringed by 4000-metre giants.",
+   "line": "The Gornergrat railway opened in 1898 and climbs almost 1,500 metres from Zermatt, Europe's highest open-air railway.",
+   "source": "https://en.wikipedia.org/wiki/Gornergrat"
+  },
+  "valerecastle": {
+   "name": "Valère Castle",
+   "art": "castle",
+   "slogan": "A fortified church crowning its own hill above Sion.",
+   "line": "Its pipe organ, believed to date from 1435, is among the oldest still playable in the world.",
+   "source": "https://en.wikipedia.org/wiki/Valère_Basilica"
+  },
+  "eggishorn": {
+   "name": "Eggishorn & Aletsch Glacier",
+   "art": "park",
+   "slogan": "A river of ice, 23 km long, flowing below your boots.",
+   "line": "The Aletsch Glacier, the largest in the Alps, has ice more than 900 metres thick and became UNESCO World Heritage in 2001.",
+   "source": "https://en.wikipedia.org/wiki/Aletsch_Glacier"
+  },
+  "saintmauriceabbey": {
+   "name": "Abbey of Saint-Maurice",
+   "art": "church",
+   "slogan": "Fifteen centuries of prayer beside a gorge in the Rhône.",
+   "line": "The monastery was founded in 515 by King Sigismund of Burgundy, over the shrine of St Maurice and the Theban Legion.",
+   "source": "https://en.wikipedia.org/wiki/Abbey_of_Saint-Maurice_d'Agaune"
+  }
+ }
+}

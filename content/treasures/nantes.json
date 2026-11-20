@@ -1,0 +1,47 @@
+{
+ "picks": [
+  "nantesduchateau",
+  "grandelephantnantes",
+  "passagepommeraye",
+  "puydufou",
+  "goispassage"
+ ],
+ "cards": {
+  "nantesduchateau": {
+   "name": "Castle of the Dukes of Brittany",
+   "art": "castle",
+   "slogan": "Walk the ramparts where Brittany's dukes held court.",
+   "line": "Founded in 1207 by Guy of Thouars, the castle was rebuilt in 1466 and now holds the Nantes history museum.",
+   "source": "https://en.wikipedia.org/wiki/Castle_of_the_Dukes_of_Brittany"
+  },
+  "grandelephantnantes": {
+   "name": "Grand Éléphant",
+   "art": "park",
+   "slogan": "A 12-metre elephant that strolls along the Loire.",
+   "line": "Made from 45 tons of wood and steel, it is 12 metres high, 8 metres wide and carries passengers on its back.",
+   "source": "https://en.wikipedia.com/wiki/Machines_of_the_Isle_of_Nantes"
+  },
+  "passagepommeraye": {
+   "name": "Passage Pommeraye",
+   "art": "market",
+   "slogan": "Iron, glass and a grand stair, shopping since 1843.",
+   "line": "The shape of a city changes faster, alas, than a mortal's heart.",
+   "by": "Charles Baudelaire, Le Cygne, 1857; title source of Julien Gracq's book on Nantes",
+   "source": "https://en.wikipedia.org/wiki/The_Shape_of_a_City"
+  },
+  "puydufou": {
+   "name": "Puy du Fou",
+   "art": "castle",
+   "slogan": "A day of knights, Vikings and fireworks in the Vendée.",
+   "line": "Its night show, the Cinéscénie, has run since 1978 with about 1,200 actors, all volunteers from local villages.",
+   "source": "https://en.wikipedia.org/wiki/Puy_du_Fou"
+  },
+  "goispassage": {
+   "name": "Passage du Gois",
+   "art": "harbour",
+   "slogan": "A road to Noirmoutier that the sea takes back twice a day.",
+   "line": "The 4.125 km causeway is flooded at every high tide, and a crash on it split the 1999 Tour de France peloton by six minutes.",
+   "source": "https://en.wikipedia.org/wiki/Passage_du_Gois"
+  }
+ }
+}

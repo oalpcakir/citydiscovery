@@ -1,0 +1,47 @@
+{
+ "picks": [
+  "grenoblebulles",
+  "palaisidealcheval",
+  "museedegrenoble",
+  "voironchartreusecellars",
+  "briancoincitevauban"
+ ],
+ "cards": {
+  "palaisidealcheval": {
+   "name": "Palais Idéal",
+   "art": "palace",
+   "slogan": "A postman's dream, built stone by stone on his mail round.",
+   "line": "I said to myself: since Nature is willing to do the sculpture, I will do the masonry and the architecture.",
+   "by": "Ferdinand Cheval, on building the Palais Idéal",
+   "source": "https://en.wikipedia.org/wiki/Palais_id%C3%A9al"
+  },
+  "grenoblebulles": {
+   "name": "Bastille Cable Car",
+   "art": "tower",
+   "slogan": "Glass bubbles lifting you over the Isère and into the Alps.",
+   "line": "Grenoble's egg-shaped cabins, nicknamed 'the bubbles', have linked the city to the Bastille since 1934.",
+   "source": "https://en.wikipedia.org/wiki/Grenoble"
+  },
+  "voironchartreusecellars": {
+   "name": "Caves de la Chartreuse",
+   "art": "castle",
+   "slogan": "Where monks' green liqueur ages in vast oak cellars.",
+   "line": "Only two monks know the secret recipe, said to use 130 herbs, plants and flowers.",
+   "source": "https://en.wikipedia.org/wiki/Chartreuse_(liqueur)"
+  },
+  "briancoincitevauban": {
+   "name": "Cité Vauban, Briançon",
+   "art": "castle",
+   "slogan": "France's highest city, ringed by Vauban's star-shaped ramparts.",
+   "line": "At about 1,326 m, Briançon is France's highest city; its Vauban fortifications joined UNESCO World Heritage in 2008.",
+   "source": "https://en.wikipedia.org/wiki/Brian%C3%A7on"
+  },
+  "museedegrenoble": {
+   "name": "Musée de Grenoble",
+   "art": "museum",
+   "slogan": "Matisse, Picasso and Old Masters at the foot of the Alps.",
+   "line": "Founded in 1798, it was France's leading museum of modern art from about 1920 into the early 1950s under curator Andry-Farcy.",
+   "source": "https://en.wikipedia.org/wiki/Mus%C3%A9e_de_Grenoble"
+  }
+ }
+}

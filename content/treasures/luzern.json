@@ -1,0 +1,8 @@
+{"picks": ["kapellbruecke","pilatuskulm","loewendenkmal","rigivitznau","ruetli"],
+ "cards": {
+  "kapellbruecke": {"name": "Chapel Bridge", "art": "bridge", "slogan": "Europe's oldest wooden bridge, rebuilt after the fire of 1993.", "line": "On 18 August 1993 a fire destroyed much of the bridge and its gable paintings; it reopened in April 1994.", "source": "https://en.wikipedia.org/wiki/Kapellbr%C3%BCcke"},
+  "pilatuskulm": {"name": "Mount Pilatus", "art": "park", "slogan": "Dragon mountain, reached by the steepest cogwheel railway on earth.", "line": "Since it opened in 1889, the Pilatus railway has kept its maximum gradient of 48 percent.", "source": "https://pilatus.ch/en/discover/cogwheel-railway"},
+  "loewendenkmal": {"name": "Lion Monument", "art": "park", "slogan": "A wounded lion, carved straight into a quiet sandstone cliff.", "line": "The most mournful and moving piece of stone in the world.", "by": "Mark Twain, A Tramp Abroad, 1880", "source": "https://en.wikisource.org/wiki/A_Tramp_Abroad/XXVI"},
+  "rigivitznau": {"name": "Rigi Kulm", "art": "tower", "slogan": "The Queen of the Mountains, with a view over half of Switzerland.", "line": "The Vitznau-Rigi railway opened on 21 May 1871 as the first mountain railway in Europe.", "source": "https://houseofswitzerland.org/swissstories/history/150-years-ago-europes-first-mountain-railway-opened-rigi"},
+  "ruetli": {"name": "Rütli Meadow", "art": "park", "slogan": "A lakeside meadow where Switzerland says it began.", "line": "The Rütli oath is first recorded in the White Book of Sarnen, written around 1470, a century after the event.", "source": "https://en.wikipedia.org/wiki/R%C3%BCtli_Oath"}
+ }}

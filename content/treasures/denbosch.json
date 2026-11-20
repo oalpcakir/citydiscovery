@@ -1,0 +1,47 @@
+{
+ "picks": [
+  "sintjan",
+  "jbactoren",
+  "uilenburg",
+  "loevestein",
+  "heusdenmolens"
+ ],
+ "cards": {
+  "sintjan": {
+   "name": "St. John's Cathedral",
+   "art": "church",
+   "slogan": "Brabant's Gothic crown, with an angel on the phone.",
+   "line": "During the 1998–2010 restoration, sculptor Ton Mooy added a new angel to the roof — holding a mobile phone.",
+   "source": "https://en.wikipedia.org/wiki/St._John's_Cathedral,_%27s-Hertogenbosch"
+  },
+  "jbactoren": {
+   "name": "Jheronimus Bosch Art Center",
+   "art": "tower",
+   "slogan": "Bosch's hometown, and a glass lift into his nightmares.",
+   "line": "A world of dreams and nightmares in which forms seem to flicker and change before our eyes.",
+   "by": "Walter Gibson, art historian, on Hieronymus Bosch",
+   "source": "https://en.wikipedia.org/wiki/Hieronymus_Bosch"
+  },
+  "loevestein": {
+   "name": "Loevestein Castle",
+   "art": "castle",
+   "slogan": "The prison with a very good book chest.",
+   "line": "In 1621 Hugo Grotius escaped this castle hidden in a chest of books, with his wife's help.",
+   "source": "https://en.wikipedia.org/wiki/Loevestein_Castle"
+  },
+  "heusdenmolens": {
+   "name": "Heusden Fortress Town",
+   "art": "windmill",
+   "slogan": "Windmills turning on ramparts rebuilt from an old map.",
+   "line": "Heusden's walls were rebuilt from 1968 after Blaeu's 1649 map, and won a European restoration prize in 1980.",
+   "source": "https://en.wikipedia.org/wiki/Heusden"
+  },
+  "uilenburg": {
+   "name": "Binnendieze",
+   "art": "canalhouses",
+   "slogan": "A hidden river that runs right underneath the houses of the old town.",
+   "line": "Of the old network of city waterways, the Binnendieze still flows for about 3.5 km, much of it under buildings and streets.",
+   "source": "https://en.wikipedia.org/wiki/Binnendieze"
+  }
+ }
+}

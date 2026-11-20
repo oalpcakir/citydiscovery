@@ -1,0 +1,46 @@
+{
+ "picks": [
+  "readingbetweenthelines",
+  "fietsendoorwater",
+  "cmine",
+  "quintinustoren",
+  "jenevermuseum"
+ ],
+ "cards": {
+  "readingbetweenthelines": {
+   "name": "Reading Between the Lines",
+   "art": "church",
+   "slogan": "A church drawn in steel lines, vanishing as you walk around it.",
+   "line": "Designed in 2011 by Gijs Van Vaerenbergh, it is built from stacked steel layers and seems to dissolve in the Borgloon fields depending on your angle.",
+   "source": "https://domusweb.it/en/news/2011/09/13/landscape-between-the-lines.html"
+  },
+  "cmine": {
+   "name": "C-mine",
+   "art": "tower",
+   "slogan": "A coal mine that went quiet and came back as a creative hub.",
+   "line": "The Winterslag mine closed in 1988; Genk bought the site in 2001 and the name C-mine was inaugurated in 2005.",
+   "source": "https://c-mine.be/en/history"
+  },
+  "quintinustoren": {
+   "name": "Sint-Quintinus Cathedral",
+   "art": "church",
+   "slogan": "Hasselt's old parish tower, now watching over a bishop's seat.",
+   "line": "Begun in the 11th century, the church only became a cathedral in 1967, when the Diocese of Hasselt was created.",
+   "source": "https://en.wikipedia.org/wiki/St._Quentin%27s_Cathedral,_Hasselt"
+  },
+  "jenevermuseum": {
+   "name": "National Jenever Museum",
+   "art": "museum",
+   "slogan": "Juniper spirit, poured where the city has always distilled it.",
+   "line": "The distillery site still has its malt tower, boiling room and an ox stable, because the oxen ate the distilling by-product.",
+   "source": "https://www.thecrazytourist.com/15-best-things-to-do-in-hasselt-belgium/"
+  },
+  "fietsendoorwater": {
+   "name": "Cycling Through Water",
+   "art": "park",
+   "slogan": "Pedal through a pond with the water lapping at eye level.",
+   "line": "Opened in 2016, the 212-metre path splits a pond in the Bokrijk wetlands, its walls just above the waterline.",
+   "source": "https://www.visitlimburg.be/en/cycling-through-water"
+  }
+ }
+}

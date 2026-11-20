@@ -1,0 +1,8 @@
+{"picks": ["langejan","watersnoodmuseum","zierikzeetoren","schotsehuizen","zeeuwsmuseum"],
+ "cards": {
+  "langejan": {"name": "Lange Jan", "art": "tower", "slogan": "Zeeland's tallest tower, rising straight out of the abbey.", "line": "At 90.4 metres, the abbey tower can be climbed up its 207 steps to roughly the halfway point.", "source": "https://nl.wikipedia.org/wiki/Abdijtoren_(Middelburg)"},
+  "watersnoodmuseum": {"name": "Watersnoodmuseum", "art": "museum", "slogan": "Walk inside the concrete giants that shut the sea out.", "line": "Four wartime Phoenix caissons were sunk at Ouwerkerk in November 1953 to close the last gap in the dike; they now house the museum.", "source": "https://en.wikipedia.org/wiki/Watersnoodmuseum"},
+  "zierikzeetoren": {"name": "Dikke Toren", "art": "tower", "slogan": "Half a giant, and proud of it, since 1510.", "line": "Building began in 1454 for a spire of about 130 metres, but money ran out and it stopped at 62.", "source": "https://nl.wikipedia.org/wiki/Sint-Lievensmonstertoren"},
+  "schotsehuizen": {"name": "Scottish Houses", "art": "canalhouses", "slogan": "Gothic gables where Scottish wool once changed hands.", "line": "Veere was the staple port for Scotland from 1541 to 1799, and these two quayside houses were built for Scottish wool merchants.", "source": "https://en.wikipedia.org/wiki/Veere"},
+  "zeeuwsmuseum": {"name": "Zeeuws Museum", "art": "museum", "slogan": "Zeeland's lace, caps and tapestries inside the old abbey.", "line": "The museum has occupied the Middelburg abbey since 20 June 1972 and holds the famous Zeeland tapestries and regional costume.", "source": "https://nl.wikipedia.org/wiki/Zeeuws_Museum"}
+ }}

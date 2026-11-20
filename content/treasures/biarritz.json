@@ -1,0 +1,47 @@
+{
+ "picks": [
+  "biarritzgrandeplage",
+  "biarritzrocher",
+  "bayonnecathedral",
+  "espelettevillage",
+  "rhunetrain"
+ ],
+ "cards": {
+  "biarritzgrandeplage": {
+   "name": "Grande Plage",
+   "art": "harbour",
+   "slogan": "The empress's beach, still ruled by surfers and sunset walkers.",
+   "line": "I know of no place more charming and more magnificent than Biarritz.",
+   "by": "Victor Hugo, Alpes et Pyrénées, 1843",
+   "source": "https://en.wikipedia.org/wiki/Biarritz"
+  },
+  "biarritzrocher": {
+   "name": "Rocher de la Vierge",
+   "art": "bridge",
+   "slogan": "A footbridge to a Virgin standing watch over the Atlantic.",
+   "line": "The iron footbridge dates from 1886-87, and the statue of the Virgin was blessed in 1865 for whalers saved in a storm.",
+   "source": "https://fr.wikipedia.org/wiki/Rocher_de_la_Vierge"
+  },
+  "bayonnecathedral": {
+   "name": "Bayonne Cathedral",
+   "art": "church",
+   "slogan": "Two Gothic spires rising over the rivers Adour and Nive.",
+   "line": "Begun in the 13th century, its two spires were only finished in the 19th, and its bell Jacques is one of France's few painted bells.",
+   "source": "https://en.wikipedia.org/wiki/Bayonne_Cathedral"
+  },
+  "espelettevillage": {
+   "name": "Espelette",
+   "art": "canalhouses",
+   "slogan": "White Basque houses draped in red chilli every autumn.",
+   "line": "Espelette pepper won AOC status in 2000, and its festival has filled the village every October since 1968.",
+   "source": "https://en.wikipedia.org/wiki/Espelette_pepper"
+  },
+  "rhunetrain": {
+   "name": "La Rhune",
+   "art": "park",
+   "slogan": "A 1924 cog train up to the Basque frontier summit.",
+   "line": "The Strub rack railway, opened in 1924, climbs a gradient of up to 25% on its 35-minute ride toward the 905 m summit.",
+   "source": "https://fr.wikipedia.org/wiki/Petit_train_de_la_Rhune"
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "picks": [
+  "hidirliktepesi",
+  "amasrakalesi",
+  "cincihan",
+  "incekayasukemeri",
+  "hormakanyonu"
+ ],
+ "cards": {
+  "amasrakalesi": {
+   "name": "Amasra Castle",
+   "art": "castle",
+   "slogan": "A fortress on a thin peninsula, with the Black Sea on both sides.",
+   "line": "Romans raised it, Byzantines walled it, and Genoese added the front walls and gates in the 14th and 15th centuries.",
+   "source": "https://en.wikipedia.org/wiki/Amasra"
+  },
+  "cincihan": {
+   "name": "Cinci Han",
+   "art": "market",
+   "slogan": "Camel-train courtyard in the middle of the bazaar.",
+   "line": "The han carries no inscription, so its date is unknown; tradition credits Cinci Hoca, the judge executed in 1648.",
+   "source": "https://islamansiklopedisi.org.tr/cinci-hani"
+  },
+  "hormakanyonu": {
+   "name": "Horma Canyon",
+   "art": "park",
+   "slogan": "A wooden path pinned to the cliffs of the Küre Mountains.",
+   "line": "A wooden walkway of about 3 kilometres, fixed to the rock, now lets visitors walk the canyon.",
+   "source": "https://hurriyetdailynews.com/canyons-offer-a-wild-heaven-to-visitors-147949"
+  },
+  "incekayasukemeri": {
+   "name": "Incekaya Aqueduct",
+   "art": "bridge",
+   "slogan": "Water crossing the Tokatlı Canyon on a stone thread.",
+   "line": "About 116 metres long and 60 metres above the canyon floor, it was restored in the 1790s by Grand Vizier Izzet Mehmet Pasha, a Safranbolu native.",
+   "source": "https://en.wikipedia.org/wiki/%C4%B0ncekaya_Aqueduct"
+  },
+  "hidirliktepesi": {
+   "name": "Safranbolu Old Town",
+   "art": "skyline",
+   "slogan": "A valley of timbered Ottoman houses, best seen as the sun goes down.",
+   "line": "Safranbolu joined the UNESCO World Heritage List in 1994 for its intact Ottoman town of some 1,000 listed buildings.",
+   "source": "https://whc.unesco.org/en/list/614/"
+  }
+ }
+}

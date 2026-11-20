@@ -1,0 +1,8 @@
+{"picks": ["waterloo","namur","bouillon","dinantcitadel","namoignies"],
+ "cards": {
+ "waterloo": {"name":"Lion's Mound","art":"park","slogan":"A hill of battlefield earth, with a bronze lion on top.","line":"Waterloo is a battle of the first rank won by a captain of the second.","by":"Victor Hugo, Les Misérables, 1862","source":"https://en.wikiquote.org/wiki/Les_Misérables"},
+ "namur": {"name":"Namur Citadel","art":"castle","slogan":"A thousand years of walls above the Sambre and the Meuse.","line":"The citadel's present form was designed by Menno van Coehoorn, and Vauban improved it after the 1692 siege.","source":"https://en.wikipedia.org/wiki/Citadel_of_Namur"},
+ "bouillon": {"name":"Bouillon Castle","art":"castle","slogan":"Godfrey's rock, wrapped in a bend of the Semois.","line":"In 1082 Godfrey of Bouillon inherited the castle, later selling it to the Bishop of Liège to fund the First Crusade.","source":"https://en.wikipedia.org/wiki/Bouillon_Castle"},
+ "dinantcitadel": {"name":"Dinant Citadel","art":"castle","slogan":"Climb above the Meuse and the pointed church tower.","line":"The site was first fortified in 1051; the present fortress dates from 1815.","source":"https://en.wikipedia.org/wiki/Citadel_of_Dinant"},
+ "namoignies": {"name":"Treasure of Oignies","art":"museum","slogan":"Medieval gold and silver, signed by a lay brother.","line":"Hugo d'Oignies signed several of his works, rare for medieval silverware, and the treasure was hidden during the French Revolution.","source":"https://namurtourisme.be/en/?p=6267"}
+ }}

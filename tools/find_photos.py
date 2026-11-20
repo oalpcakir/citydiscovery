@@ -1,6 +1,6 @@
 """Finds a free cover photo for each quest and writes web/photos.js.
 
-1. Searches Wikipedia (nl/en for the Netherlands, nl/fr/en for Belgium, de/en for Germany, fr/de/en for Luxembourg, fr/en for France, da/en for Denmark, sv/en for Sweden, de/fr/it/en for Switzerland, tr/en for Türkiye) for the quest's place name and accepts an article only if
+1. Searches Wikipedia (nl/en for the Netherlands, nl/fr/en for Belgium, de/en for Germany, fr/de/en for Luxembourg, fr/en for France, da/en for Denmark, sv/en for Sweden, de/fr/it/en for Switzerland, tr/en for Türkiye, el/tr/en for Cyprus) for the quest's place name and accepts an article only if
    its coordinates lie within 400 m of the quest pin; the article's lead image (free licences only) is used.
 2. For "see" quests without a match, takes the nearest Wikimedia Commons photo within 90 m of the pin.
 Every photo keeps its author, licence and source page for the credit line. Results are cached in
@@ -113,7 +113,7 @@ def from_commons(ll):
 
 def work(job):
     key, q, ll, cat, country = job
-    langs = {"Belgium": ["nl", "fr", "en"], "Germany": ["de", "en"], "Luxembourg": ["fr", "de", "en"], "France": ["fr", "en"], "Denmark": ["da", "en"], "Sweden": ["sv", "en"], "Switzerland": ["de", "fr", "it", "en"], "Türkiye": ["tr", "en"]}.get(country, ["nl", "en"])
+    langs = {"Belgium": ["nl", "fr", "en"], "Germany": ["de", "en"], "Luxembourg": ["fr", "de", "en"], "France": ["fr", "en"], "Denmark": ["da", "en"], "Sweden": ["sv", "en"], "Switzerland": ["de", "fr", "it", "en"], "Türkiye": ["tr", "en"], "Cyprus": ["el", "tr", "en"]}.get(country, ["nl", "en"])
     try:
         ph = from_wikipedia(q, ll, langs)
         if not ph and cat == "gor":

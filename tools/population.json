@@ -1,6 +1,7 @@
 {
 "_comment": "Population per unit (NL: CBS municipalities via Wikidata, others incl. Swiss cantons and Turkish provinces: Eurostat NUTS-3 demo_r_pjanaggr3, 1 Jan 2023). Used by tools/targets.py.",
 "units": {
+"CY:CY000": 1250000,
 "BE:BE100": 1253178,
 "BE:BE211": 1081771,
 "BE:BE212": 357030,

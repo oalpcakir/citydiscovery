@@ -1,0 +1,48 @@
+{
+ "picks": [
+  "kbdeutscheseck",
+  "kbehrenbreitstein",
+  "kbloreley",
+  "kbburgeltz",
+  "kbmarksburg"
+ ],
+ "cards": {
+  "kbdeutscheseck": {
+   "name": "Deutsches Eck",
+   "art": "harbour",
+   "slogan": "Where the Moselle slips into the Rhine under a bronze emperor.",
+   "line": "The Empire will never be destroyed, if you are united and loyal.",
+   "by": "Max von Schenkendorf, inscription on the Kaiser Wilhelm monument, Koblenz",
+   "source": "https://en.wikipedia.org/wiki/Deutsches_Eck"
+  },
+  "kbehrenbreitstein": {
+   "name": "Ehrenbreitstein Fortress",
+   "art": "castle",
+   "slogan": "A Prussian giant watching two rivers from its cliff.",
+   "line": "Here Ehrenbreitstein, with her shatter'd wall black with the miner's blast, upon her height yet shows of what she was.",
+   "by": "Lord Byron, Childe Harold's Pilgrimage, Canto III, 1816",
+   "source": "https://en.wikipedia.org/wiki/Ehrenbreitstein_Fortress"
+  },
+  "kbloreley": {
+   "name": "Loreley",
+   "art": "park",
+   "slogan": "The slate cliff where a golden-haired siren still sings to sailors.",
+   "line": "The Loreley is a 132-metre slate rock; Heine's 1824 poem made its siren world famous.",
+   "source": "https://en.wikipedia.org/wiki/Lorelei"
+  },
+  "kbburgeltz": {
+   "name": "Burg Eltz",
+   "art": "castle",
+   "slogan": "Towers stacked like a fairy tale, hidden in a forest bend.",
+   "line": "The House of Eltz has lived here since the 12th century, and the castle appeared on the 500 Deutsche Mark note from 1965 to 1992.",
+   "source": "https://en.wikipedia.org/wiki/Burg_Eltz"
+  },
+  "kbmarksburg": {
+   "name": "Marksburg",
+   "art": "castle",
+   "slogan": "The one Rhine castle that no army ever brought down.",
+   "line": "Of about 40 hill castles between Bingen and Koblenz, the Marksburg is one of only two never destroyed.",
+   "source": "https://en.wikipedia.org/wiki/Marksburg"
+  }
+ }
+}

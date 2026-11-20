@@ -1,0 +1,46 @@
+{
+ "picks": [
+  "avignonpalaispapes",
+  "avignonpontbenezet",
+  "orangetheatre",
+  "senanqueabbey",
+  "gordesvillage"
+ ],
+ "cards": {
+  "avignonpalaispapes": {
+   "name": "Palais des Papes",
+   "art": "castle",
+   "slogan": "A fortress of popes, big enough to move a whole papacy into.",
+   "line": "Seven popes in a row ruled from Avignon between 1309 and 1377; their palace is the largest Gothic palace in the world.",
+   "source": "https://en.wikipedia.org/wiki/Palais_des_Papes"
+  },
+  "avignonpontbenezet": {
+   "name": "Pont Saint-Bénezet",
+   "art": "bridge",
+   "slogan": "The bridge that stops halfway, and the song that never does.",
+   "line": "The stone bridge once ran 900 metres on 22 arches, yet was only 4.9 metres wide; four arches survive.",
+   "source": "https://en.wikipedia.org/wiki/Pont_Saint-B%C3%A9nezet"
+  },
+  "orangetheatre": {
+   "name": "Roman Theatre of Orange",
+   "art": "museum",
+   "slogan": "A 37-metre Roman wall that still carries every voice.",
+   "line": "Its stage wall, about 37 metres high, is preserved at its full height, and the theatre seats up to 7,300.",
+   "source": "https://en.wikipedia.org/wiki/Roman_Theatre_of_Orange"
+  },
+  "senanqueabbey": {
+   "name": "Sénanque Abbey",
+   "art": "church",
+   "slogan": "Pale stone, purple rows, and monks who still bottle the harvest.",
+   "line": "Founded in 1148, the Cistercian abbey is still home to monks who grow lavender and keep bees.",
+   "source": "https://en.wikipedia.org/wiki/S%C3%A9nanque_Abbey"
+  },
+  "gordesvillage": {
+   "name": "Gordes",
+   "art": "skyline",
+   "slogan": "A cliffside village stacked like honey-coloured steps.",
+   "line": "After the war, Gordes drew artists including Marc Chagall and Victor Vasarely.",
+   "source": "https://en.wikipedia.org/wiki/Gordes"
+  }
+ }
+}

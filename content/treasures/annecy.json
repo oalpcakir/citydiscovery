@@ -1,0 +1,46 @@
+{
+ "picks": [
+  "aiguilledumidi",
+  "annecypalaisisle",
+  "montenversmerdeglace",
+  "annecychateau",
+  "annecypontamours"
+ ],
+ "cards": {
+  "aiguilledumidi": {
+   "name": "Aiguille du Midi",
+   "art": "park",
+   "slogan": "A needle of granite 3,842 metres up, one cable car from the valley.",
+   "line": "Its cable car climbs from 1,035 m to 3,842 m, the highest vertical ascent of any cable car in the world.",
+   "source": "https://en.wikipedia.org/wiki/Aiguille_du_Midi"
+  },
+  "annecypalaisisle": {
+   "name": "Palais de l'Isle",
+   "art": "castle",
+   "slogan": "A stone ship moored mid-canal, with the Thiou rushing past its prow.",
+   "line": "Dating from the 12th century, this island fortress was a prison and courthouse until the Revolution, and a prison again in World War II.",
+   "source": "https://en.wikipedia.org/wiki/Palais_de_l%27Isle"
+  },
+  "montenversmerdeglace": {
+   "name": "Mer de Glace",
+   "art": "park",
+   "slogan": "France's longest glacier, reached by a little red mountain train.",
+   "line": "Since 1908 the Montenvers rack railway has carried visitors up to the Mer de Glace, the longest glacier in France.",
+   "source": "https://en.wikipedia.org/wiki/Mer_de_Glace"
+  },
+  "annecychateau": {
+   "name": "Château d'Annecy",
+   "art": "castle",
+   "slogan": "Four centuries of Alpine lords watching over the rooftops and the lake.",
+   "line": "Its Queen's Tower dates from the 12th century and has walls over 4 metres thick; the castle served as a barracks until 1947.",
+   "source": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_d%27Annecy"
+  },
+  "annecypontamours": {
+   "name": "Pont des Amours",
+   "art": "bridge",
+   "slogan": "A small bridge where lake, canal and gardens meet at sunset.",
+   "line": "Local legend says a couple who kiss on this footbridge over the Vassé canal will stay united for life.",
+   "source": "https://ryo.co/en/destinations/france/places/the-pont-des-amours/"
+  }
+ }
+}

@@ -1,0 +1,8 @@
+{"picks": ["bonifaciocitadel","calanchesdepiana","ajaccioboncasa","calvicitadel","cortecitadel"],
+ "cards": {
+  "bonifaciocitadel": {"name": "Bonifacio Citadel", "art": "castle", "slogan": "A town balanced on a limestone cliff, staring at Sardinia.", "line": "Founded as a fortress in 828 by Boniface II of Tuscany, it gave the town its name.", "source": "https://en.wikipedia.org/wiki/Bonifacio,_Corsica"},
+  "calanchesdepiana": {"name": "Calanques de Piana", "art": "park", "slogan": "Red granite that glows like embers over the Gulf of Porto.", "line": "Together with the Gulf of Porto and Scandola, they have been UNESCO World Heritage since 1983.", "source": "https://www.visit-corsica.com/en/Mon-sejour/Patrimoine-naturel/Tout-le-patrimoine-naturel/LES-CALANQUES-DE-PIANA"},
+  "ajaccioboncasa": {"name": "Maison Bonaparte", "art": "palace", "slogan": "The modest rooms where an emperor first cried.", "line": "Napoleon was born here in 1769; the Bonapartes owned the house almost continuously from 1682 to 1923.", "source": "https://en.wikipedia.org/wiki/Maison_Bonaparte"},
+  "calvicitadel": {"name": "Calvi Citadel", "art": "castle", "slogan": "A Genoese fortress over the bay, and a town that claims Columbus.", "line": "Calvi's plaque says Christopher Columbus was born here, though most historians say Genoa.", "source": "https://csmonitor.com/1985/1008/lcalv.html"},
+  "cortecitadel": {"name": "Corte Citadel", "art": "castle", "slogan": "An eagle's nest above the rivers, where Corsica ran itself.", "line": "Pasquale Paoli made Corte the capital of independent Corsica from 1755 to 1769.", "source": "https://www.britannica.com/place/Corte"}
+ }}

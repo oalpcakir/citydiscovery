@@ -1,0 +1,46 @@
+{
+ "picks": [
+  "reimscathedral",
+  "pommerycellars",
+  "reddition",
+  "moetchandon",
+  "hautvillersabbey"
+ ],
+ "cards": {
+  "reimscathedral": {
+   "name": "Reims Cathedral",
+   "art": "church",
+   "slogan": "Where France crowned its kings, and a stone angel still smiles.",
+   "line": "Clovis was baptised on this site around 496, and French kings were crowned here until Charles X in 1825.",
+   "source": "https://en.wikipedia.org/wiki/Reims_Cathedral"
+  },
+  "pommerycellars": {
+   "name": "Pommery Cellars",
+   "art": "harbour",
+   "slogan": "Down the stairs into Madame Pommery's chalk cathedral of bottles.",
+   "line": "Widowed in 1860, Louise Pommery took over the house and made the first brut champagne, with no added sugar.",
+   "source": "https://en.wikipedia.org/wiki/Louise_Pommery"
+  },
+  "reddition": {
+   "name": "Surrender Museum",
+   "art": "museum",
+   "slogan": "A school classroom where a continent finally exhaled.",
+   "line": "At 2:41 a.m. on 7 May 1945, Germany signed its surrender in a red-brick Reims schoolhouse, headquarters of Allied command.",
+   "source": "https://en.wikipedia.org/wiki/German_Instrument_of_Surrender"
+  },
+  "moetchandon": {
+   "name": "Moët & Chandon",
+   "art": "palace",
+   "slogan": "Cellars and chandeliers on Épernay's avenue of champagne.",
+   "line": "Founded in 1743 by Claude Moët, a wine trader from Épernay.",
+   "source": "https://en.wikipedia.org/wiki/Mo%C3%ABt_%26_Chandon"
+  },
+  "hautvillersabbey": {
+   "name": "Hautvillers Abbey",
+   "art": "church",
+   "slogan": "The hillside village where a monk gave champagne its bubbles.",
+   "line": "Its vineyards, presses and cellars joined the UNESCO World Heritage List in 2015 as the Champagne hillsides, houses and cellars.",
+   "source": "https://en.wikipedia.org/wiki/Hautvillers"
+  }
+ }
+}

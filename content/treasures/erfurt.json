@@ -1,0 +1,8 @@
+{"picks": ["erwartburg","erkraemerbruecke","ergoethe","erdom","erannaamalia"],
+ "cards": {
+  "erwartburg": {"name": "Wartburg", "art": "castle", "slogan": "The hilltop fortress where Luther gave Germany its Bible.", "line": "Luther translated the New Testament here in about ten weeks, between May 1521 and March 1522.", "source": "https://en.wikipedia.org/wiki/Wartburg"},
+  "erkraemerbruecke": {"name": "Krämerbrücke", "art": "bridge", "slogan": "A medieval bridge you can shop, eat and live on.", "line": "Its 32 houses form the longest rows of inhabited buildings on any bridge in Europe.", "source": "https://en.wikipedia.org/wiki/Kr%C3%A4merbr%C3%BCcke"},
+  "ergoethe": {"name": "Goethe's House", "art": "museum", "slogan": "Fifty years of Weimar's greatest mind, room by room.", "line": "Nothing should be treasured more highly than the value of the day.", "by": "Johann Wolfgang von Goethe, Maxims and Reflections, 1833", "source": "https://en.wikiquote.org/wiki/Johann_Wolfgang_von_Goethe"},
+  "erdom": {"name": "Erfurt Cathedral", "art": "church", "slogan": "A cathedral on a hill, ruled by one very large bell.", "line": "Its Gloriosa bell, cast in 1497, weighs 11.45 tonnes.", "source": "https://en.wikipedia.org/wiki/Erfurt_Cathedral"},
+  "erannaamalia": {"name": "Duchess Anna Amalia Library", "art": "museum", "slogan": "A Rococo hall of books under Weimar's gilded light.", "line": "A fire on 2 September 2004 destroyed about 50,000 volumes, 12,500 of them irreplaceable.", "source": "https://en.wikipedia.org/wiki/Duchess_Anna_Amalia_Library"}
+ }}

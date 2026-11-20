@@ -675,7 +675,10 @@
   var FLAGS = { NL: ["h", "#AE1C28", "#FFFFFF", "#21468B"], BE: ["v", "#111111", "#FDDA24", "#EF3340"],
     DE: ["h", "#000000", "#DD0000", "#FFCE00"], LU: ["h", "#EF3340", "#FFFFFF", "#00A3E0"], FR: ["v", "#002395", "#FFFFFF", "#ED2939"],
     DK: ["x", "#C8102E", "#FFFFFF", 12 / 37, 4 / 37, 12 / 28, 4 / 28], SE: ["x", "#006AA7", "#FECC00", 5 / 16, 2 / 16, 4 / 10, 2 / 10],
-    CH: ["ch", "#DA291C"], TR: ["tr", "#E30A17"] };
+    CH: ["ch", "#DA291C"], TR: ["tr", "#E30A17"], CY: ["cy", "#D57800", "#4E5B31"] };
+  // Cyprus: the island's outline (x, y as shares of its box, west to east, north up) above two olive branches.
+  var CY_ISLAND = [[0, .70], [.01, .55], [.06, .58], [.27, .44], [.31, .26], [.44, .32], [.70, .26], [1, 0], [.74, .35], [.72, .51],
+    [.78, .65], [.58, .70], [.44, .88], [.33, .90], [.29, .99], [.14, .89]];
   function flagImage(cc) {
     var W = 76, H = 52, c = document.createElement("canvas");
     c.width = W; c.height = H;
@@ -701,6 +704,19 @@
         g.lineTo(sx + rr * Math.cos(ang), my + rr * Math.sin(ang));
       }
       g.closePath(); g.fill();
+      return g.getImageData(0, 0, W, H);
+    }
+    if (f[0] === "cy") { // white field, copper island, two green olive branches
+      var iw = w * 0.56, ih = iw / 1.68, ix = x + (w - iw) / 2, iy = y + h * 0.14;
+      g.fillStyle = "#FFFFFF"; g.fillRect(x, y, w, h);
+      g.fillStyle = f[1]; g.beginPath();
+      CY_ISLAND.forEach(function (p) { g.lineTo(ix + p[0] * iw, iy + p[1] * ih); });
+      g.closePath(); g.fill();
+      g.strokeStyle = f[2]; g.lineWidth = 2.4; g.lineCap = "round";
+      var bx = x + w / 2, by = y + h * 0.80;
+      [-1, 1].forEach(function (s) {
+        g.beginPath(); g.moveTo(bx - s * 2, by); g.quadraticCurveTo(bx + s * w * 0.13, by + h * 0.04, bx + s * w * 0.24, by - h * 0.10); g.stroke();
+      });
       return g.getImageData(0, 0, W, H);
     }
     if (f[0] === "x") {

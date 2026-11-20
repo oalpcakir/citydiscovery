@@ -1,0 +1,8 @@
+{"picks": ["bsharzbrocken","bsharzquedmarkt","bsgoskaiserpfalz","bsautostadt","bsburg"],
+ "cards": {
+  "bsharzbrocken": {"name": "Brocken", "art": "park", "slogan": "Northern Germany's highest summit, wrapped in witch-haunted mist.", "line": "Fog shrouds the Brocken up to 300 days a year, and in 1958 it hit a German record of 330.", "source": "https://en.wikipedia.org/wiki/Brocken"},
+  "bsharzquedmarkt": {"name": "Quedlinburg Old Town", "art": "canalhouses", "slogan": "Two thousand timber houses and a castle hill, all in one lap.", "line": "Its Ständerbau dates from 1347, one of the oldest timber-framed houses in Germany; the old town joined UNESCO in 1994.", "source": "https://en.wikipedia.org/wiki/Quedlinburg"},
+  "bsgoskaiserpfalz": {"name": "Imperial Palace of Goslar", "art": "palace", "slogan": "Where emperors held court beneath the Harz hills.", "line": "Henry II built the first imperial mansion here in 1005; the 54-metre Kaiserhaus was restored between 1868 and 1879.", "source": "https://en.wikipedia.org/wiki/Imperial_Palace_of_Goslar"},
+  "bsautostadt": {"name": "Autostadt", "art": "tower", "slogan": "Two glass silos stacked with brand-new cars.", "line": "Its two glass car towers are 60 metres tall, and the site draws about 2 million visitors a year.", "source": "https://en.wikipedia.org/wiki/Autostadt"},
+  "bsburg": {"name": "Brunswick Lion", "art": "castle", "slogan": "The bronze lion that Henry the Lion left guarding his city.", "line": "Cast between 1164 and 1176, it is the first large freestanding sculpture of the Middle Ages north of the Alps.", "source": "https://en.wikipedia.org/wiki/Brunswick_Lion"}
+ }}

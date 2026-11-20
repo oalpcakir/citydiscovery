@@ -1,0 +1,8 @@
+{"picks": ["landwasserviadukt","muestair","churkathedrale","stmoritzschieferturm","tarasp"],
+ "cards": {
+  "landwasserviadukt": {"name": "Landwasser Viaduct", "art": "bridge", "slogan": "A curved stone arch the train vanishes through into the cliff.", "line": "Built in 1901-02 to 65 m high, it went up without scaffolding, using two cranes instead.", "source": "https://en.wikipedia.org/wiki/Landwasser_Viaduct"},
+  "muestair": {"name": "Müstair Convent", "art": "church", "slogan": "Walls still painted by hands from Charlemagne's age.", "line": "Founded around 775, its church holds Carolingian frescoes painted about 800, still in place.", "source": "https://whc.unesco.org/en/list/269/"},
+  "churkathedrale": {"name": "Chur Cathedral", "art": "church", "slogan": "Eight centuries of stone above the old bishop's town.", "line": "Its choir was consecrated in 1178, and its late-Gothic high altar was finished in 1492 by Jakob Russ.", "source": "https://en.wikipedia.org/wiki/Chur_Cathedral"},
+  "stmoritzschieferturm": {"name": "Leaning Tower of St. Moritz", "art": "tower", "slogan": "The old church is gone; its tilting tower still holds the hill.", "line": "Standing 33 m tall and leaning about 5.5 degrees, it is all that remains of the old St. Mauritius church.", "source": "https://www.engadin.stmoritz.ch/winter/en/sightseeing/schiefer-turm/"},
+  "tarasp": {"name": "Tarasp Castle", "art": "castle", "slogan": "A white fortress on a rock above the Lower Engadine.", "line": "Dresden industrialist Karl August Lingner bought it in 1900 and restored it, but died in 1916 without ever living there.", "source": "https://en.wikipedia.org/wiki/Tarasp_Castle"}
+ }}

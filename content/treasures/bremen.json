@@ -1,0 +1,46 @@
+{
+ "picks": [
+  "bremenrathaus",
+  "stadtmusikanten",
+  "glockenspielbremen",
+  "auswandererhaus",
+  "klimahaus"
+ ],
+ "cards": {
+  "bremenrathaus": {
+   "name": "Bremen Town Hall",
+   "art": "palace",
+   "slogan": "Gothic hall, Renaissance show-front, and six centuries of civic pride.",
+   "line": "Built 1405-1410, it was inscribed on the UNESCO World Heritage List with the Roland statue in 2004.",
+   "source": "https://en.wikipedia.org/wiki/Bremen_Town_Hall"
+  },
+  "stadtmusikanten": {
+   "name": "Town Musicians of Bremen",
+   "art": "skyline",
+   "slogan": "Donkey, dog, cat and rooster: rub the hooves for luck.",
+   "line": "The Grimms published the tale in 1819, but Gerhard Marcks' bronze only joined the Rathaus wall in 1953.",
+   "source": "https://en.wikipedia.org/wiki/Bremen_Town_Musicians"
+  },
+  "glockenspielbremen": {
+   "name": "Böttcherstraße",
+   "art": "canalhouses",
+   "slogan": "A brick lane of coffee money, porcelain bells and wild expressionism.",
+   "line": "Ludwig Roselius, the merchant behind decaffeinated Kaffee HAG, paid for the lane's rebuilding between 1922 and 1931.",
+   "source": "https://en.wikipedia.org/wiki/B%C3%B6ttcherstra%C3%9Fe"
+  },
+  "auswandererhaus": {
+   "name": "German Emigration Center",
+   "art": "harbour",
+   "slogan": "Board the ship and walk in an emigrant's shoes.",
+   "line": "Over seven million people sailed overseas from Bremerhaven, and the museum won European Museum of the Year in 2007.",
+   "source": "https://www.deutschland.de/en/topic/life/society-integration/emigration-center-in-bremerhaven"
+  },
+  "klimahaus": {
+   "name": "Klimahaus Bremerhaven",
+   "art": "cubes",
+   "slogan": "Around the world in a day, always along 8 degrees east.",
+   "line": "Opened in June 2009, its route follows the longitude that runs through Bremerhaven itself.",
+   "source": "https://sns.uba.de/chronik/en/concepts/t749436_1221603e787_4ac0.html"
+  }
+ }
+}

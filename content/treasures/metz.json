@@ -1,0 +1,46 @@
+{
+ "picks": [
+  "metzcathedral",
+  "pompidoumetz",
+  "douaumontossuary",
+  "portedesallemands",
+  "hackenbergfort"
+ ],
+ "cards": {
+  "metzcathedral": {
+   "name": "Metz Cathedral",
+   "art": "church",
+   "slogan": "The Good Lord's lantern, lit by Chagall.",
+   "line": "About 6,500 m² of stained glass, Chagall's included, earned it the nickname 'the Good Lord's Lantern'.",
+   "source": "https://en.wikipedia.org/wiki/Metz_Cathedral"
+  },
+  "pompidoumetz": {
+   "name": "Centre Pompidou-Metz",
+   "art": "museum",
+   "slogan": "A woven wooden hat landed beside the station.",
+   "line": "Shigeru Ban based the roof on a Chinese hat he found in Paris; it covers about 8,000 square metres.",
+   "source": "https://en.wikipedia.org/wiki/Centre_Pompidou-Metz"
+  },
+  "douaumontossuary": {
+   "name": "Douaumont Ossuary",
+   "art": "church",
+   "slogan": "A long hall of silence above the Verdun hills.",
+   "line": "It holds the remains of at least 130,000 unidentified soldiers, French and German, seen through small windows.",
+   "source": "https://en.wikipedia.org/wiki/Douaumont_ossuary"
+  },
+  "portedesallemands": {
+   "name": "Porte des Allemands",
+   "art": "castle",
+   "slogan": "Round towers and a bridge over the Seille.",
+   "line": "Two 13th-century round towers and two 15th-century gun bastions survive from Metz's medieval walls.",
+   "source": "https://en.wikipedia.org/wiki/Porte_des_Allemands"
+  },
+  "hackenbergfort": {
+   "name": "Fort de Hackenberg",
+   "art": "castle",
+   "slogan": "An underground town of the Maginot Line, crossed by electric train.",
+   "line": "Hackenberg is the largest fort of the Maginot Line, with about 10 km of tunnels under the hill.",
+   "source": "https://en.wikipedia.org/wiki/Ouvrage_Hackenberg"
+  }
+ }
+}

@@ -1,0 +1,8 @@
+{"picks": ["tournaicathedral","monsbelfry","boisducazier","grandhornu","saintewaudru"],
+ "cards": {
+ "tournaicathedral": {"name": "Tournai Cathedral", "art": "church", "slogan": "Five stone towers rising over the Scheldt.", "line": "A tornado ripped through the city on 14 August 1999, and the cathedral's UNESCO listing followed in 2000.", "source": "https://en.wikipedia.org/wiki/Tournai_Cathedral"},
+ "monsbelfry": {"name": "Belfry of Mons", "art": "tower", "slogan": "87 metres of Baroque curls above the Grand-Place.", "line": "Designed by Louis Ledoux in the 1660s, it is the only belfry in Belgium built in Baroque style.", "source": "https://en.wikipedia.org/wiki/Belfry_of_Mons"},
+ "boisducazier": {"name": "Bois du Cazier", "art": "museum", "slogan": "A pithead that still remembers every miner by name.", "line": "On 8 August 1956 a fire killed 262 miners here, 136 of them Italian.", "source": "https://en.wikipedia.org/wiki/Bois_du_Cazier"},
+ "grandhornu": {"name": "Grand-Hornu", "art": "palace", "slogan": "An industrial dream town built around one great courtyard.", "line": "Henri De Gorge built this model coal-mining community between 1810 and 1830.", "source": "https://en.wikipedia.org/wiki/Grand-Hornu"},
+ "saintewaudru": {"name": "Sainte-Waudru Collegiate Church", "art": "church", "slogan": "Home of the Car d'Or and the shrine of Mons' patron saint.", "line": "Each Trinity Sunday the golden Car d'Or must be hauled up the steep Rampe Sainte-Waudru in one go, or misfortune is said to follow.", "source": "https://en.wikipedia.org/wiki/Ducasse_de_Mons"}
+ }}

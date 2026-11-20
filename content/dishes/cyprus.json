@@ -1,0 +1,11 @@
+{
+  "region": "cyprus",
+  "dishes": [
+    {"id": "cyprus-halloumi", "name": "Halloumi", "local": "Χαλλούμι / Hellim", "icon": "🧀", "desc": "Brined sheep's and goat's milk cheese folded with mint that holds its shape on the grill. Cyprus's signature cheese, eaten grilled, fresh with watermelon or baked into pies on both sides of the island.", "kw": ["halloumi", "hellim"]},
+    {"id": "cyprus-sheftalia", "name": "Sheftalia", "local": "Σεφταλιά / Şeftali kebabı", "icon": "🌭", "desc": "Minced meat with onion and parsley wrapped in caul fat and grilled over charcoal. A purely Cypriot sausage, served in pitta at grill houses across the island.", "kw": ["sheftalia", "şeftali", "seftali"]},
+    {"id": "cyprus-souvla", "name": "Souvla", "local": "Σούβλα", "icon": "🍖", "desc": "Large chunks of lamb or pork turned for hours on long skewers over charcoal. The Sunday and holiday meal of Cyprus, cooked in backyard foukou grills and village tavernas.", "kw": ["souvla"]},
+    {"id": "cyprus-kleftiko", "name": "Kleftiko", "local": "Κλέφτικο", "icon": "🍲", "desc": "Lamb on the bone with potatoes, sealed and slow-baked in a wood-fired clay oven until it falls apart. A taverna staple across Cyprus, often ordered a day ahead in the villages.", "kw": ["kleftiko"]},
+    {"id": "cyprus-molohiya", "name": "Molohiya", "local": "Μολοχία / Molehiya", "icon": "🥬", "desc": "Dried jute leaves stewed with chicken or lamb in a tomato and lemon sauce. A Turkish Cypriot home-cooking classic, found in lokantas in Nicosia and Famagusta.", "kw": ["molohiya", "molehiya", "molokhia"]},
+    {"id": "cyprus-loukoumi", "name": "Cyprus delight", "local": "Λουκούμι", "icon": "🍬", "desc": "Soft rosewater or bergamot jelly cubes dusted with icing sugar. The village of Geroskipou near Paphos has made loukoumi for over a century and sells it in its own shops.", "kw": ["loukoumi", "lokum", "cyprus delight"]}
+  ]
+}

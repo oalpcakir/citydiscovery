@@ -78,7 +78,7 @@ for path in sorted(glob.glob(os.path.join(ROOT, "web", "cities", "*.js"))):
         if q.get("area") not in c["areas"]:
             errors.append("%s: unknown area %r" % (key, q.get("area")))
         ll = c["coords"].get(q.get("id"))
-        if not ll or len(ll) != 2 or not (35 < ll[0] < 70 and -6 < ll[1] < 45):
+        if not ll or len(ll) != 2 or not (34 < ll[0] < 70 and -6 < ll[1] < 45):
             errors.append("%s: missing or impossible coordinates %r" % (key, ll))
         elif cid in REG and not in_region(cid, ll[0], ll[1]):
             d = edge_dist(cid, ll)

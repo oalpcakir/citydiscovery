@@ -1,0 +1,47 @@
+{
+ "picks": [
+  "beffroilille",
+  "vieillebourse",
+  "pbalille",
+  "dunkerque1940",
+  "bergues"
+ ],
+ "cards": {
+  "beffroilille": {
+   "name": "Lille Belfry",
+   "art": "tower",
+   "slogan": "A town hall tower that watches over the whole Flemish plain.",
+   "line": "Inaugurated in 1932 and rising about 104 metres, it is one of the tallest town hall belfries in Europe and a UNESCO World Heritage site.",
+   "source": "https://citypass.lillemetropole.fr/en/22-beffroi-de-l-hotel-de-ville-de-lille"
+  },
+  "vieillebourse": {
+   "name": "Vieille Bourse",
+   "art": "canalhouses",
+   "slogan": "Flemish baroque around a courtyard of chess and old paperbacks.",
+   "line": "Built in 1652-1653, the old exchange is a quadrangle of 24 houses around an inner courtyard, now home to second-hand book stalls.",
+   "source": "https://en.wikipedia.org/wiki/Vieille_Bourse"
+  },
+  "dunkerque1940": {
+   "name": "Dunkirk 1940 Museum",
+   "art": "harbour",
+   "slogan": "Where 338,000 men were lifted off the beaches in nine days.",
+   "line": "Wars are not won by evacuations.",
+   "by": "Winston Churchill, House of Commons, 4 June 1940",
+   "source": "https://api.parliament.uk/historic-hansard/commons/1940/jun/04/war-situation"
+  },
+  "bergues": {
+   "name": "Bergues Ramparts and Belfry",
+   "art": "castle",
+   "slogan": "Flanders in miniature: bells, canals and 5 km of walls.",
+   "line": "Bergues' belfry, rebuilt after 1944 and home to a carillon, is UNESCO-listed and starred in the 2008 film Bienvenue chez les Ch'tis.",
+   "source": "https://ot-hautsdeflandre.fr/en/discover-the-hauts-de-flandre/historical-heritage/historical-monuments/belfry-of-bergues"
+  },
+  "pbalille": {
+   "name": "Palais des Beaux-Arts",
+   "art": "museum",
+   "slogan": "Goya, Rubens and Vauban's model towns under one grand roof.",
+   "line": "Opened in 1892, it is one of the largest fine art museums in France, with 18th-century relief models of fortified towns in its basement.",
+   "source": "https://en.wikipedia.org/wiki/Palais_des_Beaux-Arts_de_Lille"
+  }
+ }
+}

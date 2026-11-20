@@ -1,0 +1,47 @@
+{
+ "picks": [
+  "chillon",
+  "lausannecathedral",
+  "lavauxwalk",
+  "olympicmuseum",
+  "glacier3000"
+ ],
+ "cards": {
+  "chillon": {
+   "name": "Chillon Castle",
+   "art": "castle",
+   "slogan": "A fortress afloat on Lake Geneva, with the Alps behind.",
+   "line": "Chillon! thy prison is a holy place, and thy sad floor an altar.",
+   "by": "Lord Byron, Sonnet on Chillon, 1816",
+   "source": "https://en.wikisource.org/wiki/Sonnet_on_Chillon"
+  },
+  "lausannecathedral": {
+   "name": "Lausanne Cathedral",
+   "art": "church",
+   "slogan": "Gothic towers over the old town, and a lookout still calling the hours.",
+   "line": "A lookout has watched from the bell tower since 1405 and still calls the hour from 10 pm to 2 am, every night of the year.",
+   "source": "https://en.wikipedia.org/wiki/Lausanne_Cathedral"
+  },
+  "lavauxwalk": {
+   "name": "Lavaux Vineyard Terraces",
+   "art": "park",
+   "slogan": "Stone-walled vines stacked down to the lake, one step at a time.",
+   "line": "The terraces along the lake's north shore date back to the 11th century, when Benedictine and Cistercian monks worked the land.",
+   "source": "https://en.wikipedia.org/wiki/Lavaux"
+  },
+  "olympicmuseum": {
+   "name": "Olympic Museum",
+   "art": "museum",
+   "slogan": "Every Games under one roof, with sculptures along the lakeshore.",
+   "line": "Founded in 1993, it holds the largest archive of Olympic Games memorabilia in the world.",
+   "source": "https://en.wikipedia.org/wiki/Olympic_Museum"
+  },
+  "glacier3000": {
+   "name": "Glacier 3000 Peak Walk",
+   "art": "park",
+   "slogan": "107 metres of swaying bridge between two summits.",
+   "line": "At 2,971 m, the Peak Walk by Tissot is billed as the only suspension bridge in the world linking two mountain peaks.",
+   "source": "https://www.glacier3000.ch/en/activities/peakwalk"
+  }
+ }
+}

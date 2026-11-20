@@ -1,0 +1,8 @@
+{"picks": ["neuschwanstein","wieskirche","hohenschwangau","nebelhorn","cambodunum"],
+ "cards": {
+ "neuschwanstein": {"name": "Neuschwanstein Castle", "art": "castle", "slogan": "A king's opera set, built in stone above the Pöllat gorge.", "line": "Holy and unapproachable, a worthy temple for the divine friend.", "by": "Ludwig II, letter to Richard Wagner, May 1868", "source": "https://en.wikipedia.org/wiki/Neuschwanstein_Castle"},
+ "wieskirche": {"name": "Wieskirche", "art": "church", "slogan": "A pilgrimage church that floats in a Rococo sky.", "line": "Built by the brothers Johann Baptist and Dominikus Zimmermann between 1745 and 1754, it became a UNESCO World Heritage Site in 1983.", "source": "https://en.wikipedia.org/wiki/Wieskirche"},
+ "hohenschwangau": {"name": "Hohenschwangau Castle", "art": "palace", "slogan": "The yellow summer palace where a boy king dreamed up Neuschwanstein.", "line": "Rebuilt for Maximilian II of Bavaria from 1833, it was the childhood home of his sons Ludwig II and Otto.", "source": "https://en.wikipedia.org/wiki/Hohenschwangau_Castle"},
+ "nebelhorn": {"name": "Nebelhorn", "art": "park", "slogan": "Above the fog line, with the whole Allgäu Alps at your feet.", "line": "A cable car has carried visitors up the 2,224 m Nebelhorn above Oberstdorf since 1930.", "source": "https://en.wikipedia.org/wiki/Nebelhorn"},
+ "cambodunum": {"name": "Cambodunum", "art": "skyline", "slogan": "Roman streets under Kempten, older than most of Germany.", "line": "The Celtic town of Kambodunon is mentioned by Strabo around 50 BC, the oldest written reference to any German city.", "source": "https://en.wikipedia.org/wiki/Kempten"}
+ }}

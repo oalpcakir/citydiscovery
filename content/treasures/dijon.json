@@ -1,0 +1,8 @@
+{"picks": ["beaunehospices","dijonpalaisducs","clunyabbey","fontenayabbey","dijonowlnotredame"],
+ "cards": {
+  "beaunehospices": {"name": "Hospices de Beaune", "art": "palace", "slogan": "Four colours of glazed tile over a hospital for the poor.", "line": "Founded in 1443 by Nicolas Rolin, it has funded its work with a charity wine auction every November since 1859.", "source": "https://en.wikipedia.org/wiki/Hospices_de_Beaune"},
+  "dijonpalaisducs": {"name": "Palais des Ducs", "art": "palace", "slogan": "Where the Dukes of Burgundy ruled, now with a museum inside.", "line": "Its Tour Philippe le Bon, built 1450 to 1460, rises 46 metres and takes 316 steps to climb.", "source": "https://www.burgundy-tourism.com/sit/montee-de-la-tour-philippe-le-bon"},
+  "clunyabbey": {"name": "Cluny Abbey", "art": "church", "slogan": "The ruins of Christendom's greatest monastery.", "line": "Founded in 910, its third church was the world's largest until St. Peter's Basilica in Rome was built.", "source": "https://en.wikipedia.org/wiki/Cluny_Abbey"},
+  "fontenayabbey": {"name": "Abbaye de Fontenay", "art": "church", "slogan": "Cistercian stillness in a quiet wooded valley.", "line": "Founded in 1118 by Bernard of Clairvaux, it became a UNESCO World Heritage Site in 1981.", "source": "https://en.wikipedia.org/wiki/Fontenay_Abbey"},
+  "dijonowlnotredame": {"name": "Notre-Dame and the Owl", "art": "church", "slogan": "Stroke the little owl with your left hand and make a wish.", "line": "Its western facade carries 51 gargoyles, and its Jacquemart automaton was taken from Kortrijk in 1382.", "source": "https://en.wikipedia.org/wiki/Church_of_Notre-Dame_of_Dijon"}
+ }}

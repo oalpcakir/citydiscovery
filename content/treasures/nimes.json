@@ -1,0 +1,47 @@
+{
+ "picks": [
+  "pontdugard",
+  "nimesarenes",
+  "maisoncarreenimes",
+  "aiguesmortesramparts",
+  "jardinsfontainenimes"
+ ],
+ "cards": {
+  "nimesarenes": {
+   "name": "Arènes de Nîmes",
+   "art": "castle",
+   "slogan": "Two thousand years of crowds, still roaring on feria nights.",
+   "line": "Its façade has two levels of 60 arcades, and it has been a bullring since 1863.",
+   "source": "https://fr.wikipedia.org/wiki/Arènes_de_Nîmes"
+  },
+  "pontdugard": {
+   "name": "Pont du Gard",
+   "art": "bridge",
+   "slogan": "Three tiers of golden stone, laid without a drop of mortar.",
+   "line": "Unspeakably imposing, and nothing could well be more Roman.",
+   "by": "Henry James, 1884",
+   "source": "https://en.wikipedia.org/wiki/Pont_du_Gard"
+  },
+  "maisoncarreenimes": {
+   "name": "Maison Carrée",
+   "art": "museum",
+   "slogan": "A Roman temple so whole that Jefferson borrowed its face.",
+   "line": "Dedicated to Augustus's grandsons Gaius and Lucius, it inspired Thomas Jefferson's Virginia State Capitol.",
+   "source": "https://en.wikipedia.org/wiki/Maison_Carr%C3%A9e"
+  },
+  "aiguesmortesramparts": {
+   "name": "Ramparts of Aigues-Mortes",
+   "art": "castle",
+   "slogan": "A walled town floating between salt pans and sea.",
+   "line": "From these walls Louis IX sailed for the Seventh Crusade in 1248, and again in 1270.",
+   "source": "https://en.wikipedia.org/wiki/Aigues-Mortes"
+  },
+  "jardinsfontainenimes": {
+   "name": "Jardins de la Fontaine",
+   "art": "park",
+   "slogan": "Shady terraces built around a spring older than Rome.",
+   "line": "Laid out in 1745-1755 over the Roman Augusteum, the gardens keep only Diana's temple of the ancient complex.",
+   "source": "https://fr.wikipedia.org/wiki/Jardins_de_la_Fontaine"
+  }
+ }
+}

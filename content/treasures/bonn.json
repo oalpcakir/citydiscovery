@@ -1,0 +1,48 @@
+{
+ "picks": [
+  "beethovenhaus",
+  "drachenfels",
+  "bonnermuenster",
+  "drachenburg",
+  "hausgeschichte"
+ ],
+ "cards": {
+  "beethovenhaus": {
+   "name": "Beethoven-Haus",
+   "art": "museum",
+   "slogan": "Start where the symphonies started: one attic room on Bonngasse.",
+   "line": "Oh, they are not for you, but for a later age!",
+   "by": "Beethoven, on his Razumovsky quartets, to violinist Felix Radicati",
+   "source": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven"
+  },
+  "drachenfels": {
+   "name": "Drachenfels",
+   "art": "park",
+   "slogan": "321 metres above the Rhine, and the view has fans since Byron.",
+   "line": "The castled crag of Drachenfels / Frowns o'er the wide and winding Rhine.",
+   "by": "Lord Byron, Childe Harold's Pilgrimage, Canto III, 1816",
+   "source": "https://en.wikipedia.org/wiki/Drachenfels_(Siebengebirge)"
+  },
+  "bonnermuenster": {
+   "name": "Bonn Minster",
+   "art": "church",
+   "slogan": "Romanesque towers over the graves of Bonn's two patron martyrs.",
+   "line": "Its late Romanesque church was built between 1140 and 1250, on the site of the graves of the martyrs Cassius and Florentius.",
+   "source": "https://en.wikipedia.org/wiki/Bonn_Minster"
+  },
+  "drachenburg": {
+   "name": "Schloss Drachenburg",
+   "art": "castle",
+   "slogan": "A neo-Gothic fairytale perched on the slope below the Drachenfels.",
+   "line": "Banker Stephan von Sarter built it in 1882-1884 and planned to live there, but never did.",
+   "source": "https://en.wikipedia.org/wiki/Schloss_Drachenburg"
+  },
+  "hausgeschichte": {
+   "name": "Haus der Geschichte",
+   "art": "museum",
+   "slogan": "Post-war Germany, from rubble to reunion, under one roof.",
+   "line": "Opened in 1994, it draws around one million visitors a year, among Germany's most popular museums.",
+   "source": "https://en.wikipedia.org/wiki/Haus_der_Geschichte"
+  }
+ }
+}

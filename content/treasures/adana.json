@@ -1,0 +1,46 @@
+{
+ "picks": [
+  "sabancimerkezcamii",
+  "taskopru",
+  "karatepe",
+  "anavarza",
+  "yilankale"
+ ],
+ "cards": {
+  "sabancimerkezcamii": {
+   "name": "Sabancı Merkez Mosque",
+   "art": "church",
+   "slogan": "Six slim minarets standing guard over the Seyhan.",
+   "line": "Opened in 1998, its six minarets rise 99 metres and the prayer hall holds about 28,500 people.",
+   "source": "https://en.wikipedia.org/wiki/Sabanc%C4%B1_Merkez_Mosque"
+  },
+  "taskopru": {
+   "name": "Taşköprü Roman Bridge",
+   "art": "bridge",
+   "slogan": "Two thousand years of footsteps over the Seyhan.",
+   "line": "This Roman bridge, probably from Hadrian's reign, carried cars until 2007 and is now for walkers only.",
+   "source": "https://en.wikipedia.org/wiki/Stone_Bridge_(Adana)"
+  },
+  "karatepe": {
+   "name": "Karatepe-Aslantaş",
+   "art": "castle",
+   "slogan": "A forest hilltop where lions guard a king's gate.",
+   "line": "Its 8th-century BC gate inscription, in Phoenician and Luwian hieroglyphs, helped scholars decipher the Anatolian hieroglyphs.",
+   "source": "https://en.wikipedia.org/wiki/Karatepe_bilingual"
+  },
+  "yilankale": {
+   "name": "Yılankale (Snake Castle)",
+   "art": "castle",
+   "slogan": "A Cilician crown on a rock above the Ceyhan.",
+   "line": "Armenian king Leo I built it around 1200; its Armenian name, Levonkla, means Levon's fortress.",
+   "source": "https://en.wikipedia.org/wiki/Y%C4%B1lankale"
+  },
+  "anavarza": {
+   "name": "Anavarza (Anazarbus)",
+   "art": "castle",
+   "slogan": "A Roman victory arch below a fortress-crowned crag on the plain.",
+   "line": "Anazarbus was the home town of Dioscorides, whose De Materia Medica guided medicine for 1,500 years.",
+   "source": "https://en.wikipedia.org/wiki/Pedanius_Dioscorides"
+  }
+ }
+}

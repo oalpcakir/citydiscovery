@@ -1,0 +1,46 @@
+{
+ "picks": [
+  "carnackermario",
+  "vannesramparts",
+  "vannesgulfcruise",
+  "portcotonbelleile",
+  "josselinchateau"
+ ],
+ "cards": {
+  "carnackermario": {
+   "name": "Carnac Stones",
+   "art": "park",
+   "slogan": "Thousands of stones, marching in rows toward the sea.",
+   "line": "Kermario alone holds 1,029 stones in ten columns, raised around 3300 BC, long before Stonehenge.",
+   "source": "https://en.wikipedia.org/wiki/Carnac_stones"
+  },
+  "vannesramparts": {
+   "name": "Vannes Ramparts",
+   "art": "castle",
+   "slogan": "Walk the walls, with gardens at your feet.",
+   "line": "Duke John IV of Brittany heavily fortified Vannes and its ramparts, on foundations that go back to the end of the 1st century BC.",
+   "source": "https://en.wikipedia.org/wiki/Vannes"
+  },
+  "portcotonbelleile": {
+   "name": "Port-Coton Needles",
+   "art": "harbour",
+   "slogan": "Jagged rocks and wild water, just as Monet painted them.",
+   "line": "Claude Monet painted these sea stacks again and again during a ten-week stay on Belle-Île in 1886.",
+   "source": "https://en.wikipedia.org/wiki/Belle_%C3%8Ele"
+  },
+  "josselinchateau": {
+   "name": "Josselin Castle",
+   "art": "castle",
+   "slogan": "Three towers on the Oust, and a Rohan home since 1370s.",
+   "line": "Olivier de Clisson built the present fortress after 1370 with eight towers; Richelieu had four of them pulled down in 1629.",
+   "source": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Josselin"
+  },
+  "vannesgulfcruise": {
+   "name": "Gulf of Morbihan",
+   "art": "harbour",
+   "slogan": "An inland sea of islands, oyster beds and racing tides.",
+   "line": "The gulf holds about 40 islands; two of them, Île aux Moines and Île d'Arz, are towns of their own.",
+   "source": "https://en.wikipedia.org/wiki/Gulf_of_Morbihan"
+  }
+ }
+}

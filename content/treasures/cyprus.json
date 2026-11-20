@@ -1,0 +1,47 @@
+{
+ "picks": [
+  "petratouromiou",
+  "paphosmosaics",
+  "kourion",
+  "selimiye",
+  "sthilarion"
+ ],
+ "cards": {
+  "petratouromiou": {
+   "name": "Aphrodite's Rock",
+   "art": "harbour",
+   "slogan": "The sea stack where the goddess of love stepped ashore.",
+   "line": "There the moist breath of the western wind wafted her over the waves of the loud-moaning sea in soft foam.",
+   "by": "Homeric Hymn 6 to Aphrodite, trans. Evelyn-White, 1914",
+   "source": "https://mythopedia.com/library/homeric-hymns-evelyn-white-1914/6-to-aphrodite/"
+  },
+  "paphosmosaics": {
+   "name": "Paphos Mosaics",
+   "art": "museum",
+   "slogan": "Gods and hunters in stone, still bright after 1,700 years.",
+   "line": "The House of Dionysos dates to the 3rd century AD, and the wider Paphos site became a World Heritage Site in 1980.",
+   "source": "https://en.wikipedia.org/wiki/Paphos_Archaeological_Park"
+  },
+  "kourion": {
+   "name": "Kourion Theatre",
+   "art": "castle",
+   "slogan": "A Roman stage on a cliff, with Episkopi Bay as the backdrop.",
+   "line": "Built in the late 2nd century BCE and enlarged under Trajan, the theatre once seated up to 3,500 people.",
+   "source": "https://en.wikipedia.org/wiki/Kourion"
+  },
+  "sthilarion": {
+   "name": "St Hilarion Castle",
+   "art": "castle",
+   "slogan": "Towers on a ridge, with the whole north coast below.",
+   "line": "It is the best preserved ruin of the three former strongholds in the Kyrenia mountains.",
+   "source": "https://en.wikipedia.org/wiki/Saint_Hilarion_Castle"
+  },
+  "selimiye": {
+   "name": "Selimiye Mosque",
+   "art": "church",
+   "slogan": "A French Gothic cathedral with two minarets, in the heart of Nicosia.",
+   "line": "Built as the Cathedral of St Sophia and consecrated in 1326, it saw Lusignan kings crowned before the Ottomans added minarets in 1570.",
+   "source": "https://en.wikipedia.org/wiki/Selimiye_Mosque,_Nicosia"
+  }
+ }
+}

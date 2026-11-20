@@ -1,0 +1,8 @@
+{"picks": ["domthron","kroenungssaal","roteshausmonschau","elisenbrunnen","burgnideggen"],
+ "cards": {
+ "domthron": {"name":"Aachen Cathedral","art":"church","slogan":"Charlemagne's octagon, still holding up the sky after 1,200 years.","line":"One of the first 12 sites on the UNESCO World Heritage List in 1978, it was where 31 German kings were crowned between 936 and 1531.","source":"https://en.wikipedia.org/wiki/Aachen_Cathedral"},
+ "kroenungssaal": {"name":"Aachen Town Hall","art":"palace","slogan":"A coronation feast hall built on an emperor's palace walls.","line":"Built from 1330 to 1349 on the foundations of Charlemagne's palace hall, it still incorporates the Carolingian Granus Tower.","source":"https://en.wikipedia.org/wiki/Aachen_Town_Hall"},
+ "roteshausmonschau": {"name":"Rotes Haus, Monschau","art":"canalhouses","slogan":"The cloth barons' red mansion, and its show-stopping wooden staircase.","line":"The Scheibler cloth-making family's double house, finished in 1768, is now a museum of 18th and 19th century bourgeois living.","source":"https://en.wikipedia.org/wiki/Monschau"},
+ "elisenbrunnen": {"name":"Elisenbrunnen","art":"museum","slogan":"A neoclassical colonnade pouring hot, eggy spa water.","line":"Opened in 1827 to a design revised by Karl Friedrich Schinkel, it serves sulphur water at about 52 degrees Celsius.","source":"https://de.wikipedia.org/wiki/Elisenbrunnen"},
+ "burgnideggen": {"name":"Burg Nideggen","art":"castle","slogan":"A Jülich fortress perched over the Rur valley.","line":"Count Wilhelm II of Jülich founded it in 1177, and its keep became North Rhine-Westphalia's first castle museum in 1979.","source":"https://de.wikipedia.org/wiki/Burg_Nideggen"}
+ }}

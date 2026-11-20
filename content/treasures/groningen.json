@@ -1,0 +1,8 @@
+{"picks": ["martinitoren","museum","bourtange","hunebed","forum"],
+ "cards": {
+  "martinitoren": {"name": "Martinitoren", "art": "tower", "slogan": "The old grey one still keeps watch over the Grote Markt.", "line": "Locals call it d'Olle Grieze, 'the old grey one'; after a 1577 fire left 69 metres, it was rebuilt to 97.", "source": "https://en.wikipedia.org/wiki/Martinitoren"},
+  "museum": {"name": "Groninger Museum", "art": "museum", "slogan": "Yellow, silver and blue: a museum that dresses up for the canal.", "line": "Opened in 1994 as a cluster of pavilions by different architects, with Alessandro Mendini as the overall designer.", "source": "https://en.wikipedia.org/wiki/Groninger_Museum"},
+  "bourtange": {"name": "Fort Bourtange", "art": "castle", "slogan": "A whole village laid out as a star, moats and all.", "line": "Finished in 1593 to guard the only road between Germany and Spanish-held Groningen, it stayed in military use until 1851.", "source": "https://en.wikipedia.org/wiki/Fort_Bourtange"},
+  "hunebed": {"name": "Hunebed D27", "art": "park", "slogan": "Giants' graves, dragged here by ice and stacked by hand.", "line": "At about 22.6 metres it is the largest hunebed in the Netherlands, with one stone estimated at 20,000 kilos.", "source": "https://www.dehondsrug.nl/hotspots/the-largest-hunebed/?lang=en"},
+  "forum": {"name": "Forum Groningen", "art": "cubes", "slogan": "A cultural department store with the best view on its roof.", "line": "NL Architects won the competition in 2007; the Forum finally opened in November 2019 with a rooftop terrace over the city.", "source": "https://en.wikipedia.org/wiki/Groninger_Forum"}
+ }}

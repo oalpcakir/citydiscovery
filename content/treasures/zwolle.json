@@ -1,0 +1,47 @@
+{
+ "picks": [
+  "peperbus",
+  "fundatie",
+  "sassenpoort",
+  "schokland",
+  "kampen"
+ ],
+ "cards": {
+  "peperbus": {
+   "name": "Peperbus",
+   "art": "tower",
+   "slogan": "A pepper mill that has been grinding out hours since 1482.",
+   "line": "Built between 1463 and 1482, the tower lost its top to fire in 1815; its 51-bell carillon is among the largest in the Netherlands.",
+   "source": "https://nl.wikipedia.org/wiki/Peperbus_(Zwolle)"
+  },
+  "sassenpoort": {
+   "name": "Sassenpoort",
+   "art": "castle",
+   "slogan": "The gate where Zwolle still greets you the way it did in 1409.",
+   "line": "Built in 1409, the gate holds 13 stained-glass coats of arms, and cars have been banned from passing beneath it since 2010.",
+   "source": "https://en.wikipedia.org/wiki/Sassenpoort"
+  },
+  "schokland": {
+   "name": "Schokland",
+   "art": "park",
+   "slogan": "An island with no sea left, and a church that remembers.",
+   "line": "Schokland, abandoned in 1859 and left landlocked in 1942, became in 1995 the first World Heritage Site in the Netherlands.",
+   "source": "https://en.wikipedia.org/wiki/Schokland"
+  },
+  "kampen": {
+   "name": "Kampen's IJssel Gates",
+   "art": "castle",
+   "slogan": "Hanseatic gates, and a town famous for its wise fools.",
+   "line": "Kampen joined the Hanseatic League in 1441, and three of its medieval city gates still stand.",
+   "source": "https://en.wikipedia.org/wiki/Kampen,_Overijssel"
+  },
+  "fundatie": {
+   "name": "Museum de Fundatie",
+   "art": "museum",
+   "slogan": "A ceramic cloud has landed on a neoclassical palace of justice.",
+   "line": "The cloud-shaped roof gallery added in 2013 is clad in some 55,000 three-dimensional ceramic tiles.",
+   "source": "https://en.wikipedia.org/wiki/Museum_de_Fundatie"
+  }
+ },
+ "waive_area_cap": "Zwolle's three defining sights all stand in the compact Binnenstad"
+}

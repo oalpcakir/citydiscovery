@@ -1,0 +1,46 @@
+{
+ "picks": [
+  "hammershus",
+  "christianso",
+  "osterlars",
+  "bhdueoddefyr",
+  "bhbornholmsmuseum"
+ ],
+ "cards": {
+  "hammershus": {
+   "name": "Hammershus",
+   "art": "castle",
+   "slogan": "Granite walls still guarding the island's northwest cliffs.",
+   "line": "Hammershus was Scandinavia's largest medieval fortification, raised in the 13th century on a cliff 74 metres above the sea.",
+   "source": "https://en.wikipedia.org/wiki/Hammershus"
+  },
+  "christianso": {
+   "name": "Christiansø",
+   "art": "harbour",
+   "slogan": "A fortress island where the cars stay on the mainland.",
+   "line": "The islands' external appearance has changed very little in over 300 years.",
+   "source": "https://en.wikipedia.org/wiki/Christians%C3%B8"
+  },
+  "osterlars": {
+   "name": "Østerlars Round Church",
+   "art": "church",
+   "slogan": "A fortress of a church with a hollow pillar at its heart.",
+   "line": "Built around 1160, its central pillar carries frescoes from about 1350, hidden under limewash until 1882.",
+   "source": "https://en.wikipedia.org/wiki/%C3%98sterlars_Church"
+  },
+  "bhdueoddefyr": {
+   "name": "Dueodde Lighthouse",
+   "art": "tower",
+   "slogan": "Climb above sand fine enough to fill an hourglass.",
+   "line": "Built in 1962, it is the tallest lighthouse on Bornholm, above dunes of very fine white sand.",
+   "source": "https://en.wikipedia.org/wiki/Dueodde"
+  },
+  "bhbornholmsmuseum": {
+   "name": "Bornholms Museum",
+   "art": "museum",
+   "slogan": "Thumbnail-sized gold figures from the island's Iron Age.",
+   "line": "The Sorte Muld site near Svaneke yielded over 2,000 guldgubber, tiny gold-foil figures from the 6th–7th centuries.",
+   "source": "https://en.wikipedia.org/wiki/Guldgubbe"
+  }
+ }
+}

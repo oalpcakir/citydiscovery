@@ -1,0 +1,46 @@
+{
+ "picks": [
+  "limogesdubouche",
+  "limogesbenedictins",
+  "citebdangouleme",
+  "limogescathedral",
+  "oradourvillage"
+ ],
+ "cards": {
+  "oradourvillage": {
+   "name": "Oradour-sur-Glane",
+   "art": "skyline",
+   "slogan": "A whole village left standing as it fell, rust and rooftops.",
+   "line": "Of the village destroyed on 10 June 1944, 642 people were killed; on de Gaulle's orders the ruins were kept as a permanent memorial.",
+   "source": "https://en.wikipedia.org/wiki/Oradour-sur-Glane"
+  },
+  "limogesdubouche": {
+   "name": "Adrien Dubouché Museum",
+   "art": "museum",
+   "slogan": "Fine porcelain, from white clay to a dinner service for kings.",
+   "line": "Nationalised in 1881, the museum holds almost 18,000 works in ceramics and glass, with the world's richest public collection of Limoges porcelain.",
+   "source": "https://en.wikipedia.org/wiki/Mus%C3%A9e_national_Adrien-Dubouch%C3%A9"
+  },
+  "limogesbenedictins": {
+   "name": "Gare des Bénédictins",
+   "art": "tower",
+   "slogan": "A railway station crowned like a cathedral, with a copper dome.",
+   "line": "Designed by Roger Gonthier and opened on 2 July 1929, its clock tower rises about 67 metres over thirteen levels.",
+   "source": "https://en.wikipedia.org/wiki/Gare_de_Limoges-B%C3%A9n%C3%A9dictins"
+  },
+  "citebdangouleme": {
+   "name": "Cité de la BD, Angoulême",
+   "art": "museum",
+   "slogan": "Speech bubbles, inked boards and a town that lives for comics.",
+   "line": "Announced in 1984 by culture minister Jack Lang, it houses the only museum in France labelled Musée de France for comics.",
+   "source": "https://www.citebd.org/history-cite-internationale-de-la-bande-dessinee-et-de-limage"
+  },
+  "limogescathedral": {
+   "name": "Limoges Cathedral",
+   "art": "church",
+   "slogan": "Gothic stone climbing slowly, from 1273 to 1888.",
+   "line": "Its Flamboyant north portal was carved between 1516 and 1530, and the Renaissance rood screen shows the Labours of Hercules.",
+   "source": "https://en.wikipedia.org/wiki/Limoges_Cathedral"
+  }
+ }
+}

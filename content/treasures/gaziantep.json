@@ -1,0 +1,8 @@
+{"picks": ["zeugmamosaic","gaziantepkalesi","rumkale","gulluoglu","zeugmaantikkent"],
+ "cards": {
+  "zeugmamosaic": {"name": "Zeugma Mosaic Museum", "art": "museum", "slogan": "Roman floors rescued from a river that rose to drown them.", "line": "Opened in 2011, it shows mosaics saved when the Birecik Dam flooded the Roman city of Zeugma.", "source": "https://en.wikipedia.org/wiki/Zeugma_Mosaic_Museum"},
+  "gaziantepkalesi": {"name": "Gaziantep Castle", "art": "castle", "slogan": "A round Roman fortress on a hill, with a city wrapped around it.", "line": "Hittites used the hill as a lookout, Romans built the castle, and Justinian enlarged it between AD 527 and 565.", "source": "https://en.wikipedia.org/wiki/Gaziantep_Castle"},
+  "rumkale": {"name": "Rumkale", "art": "castle", "slogan": "A fortress on a rock where the Euphrates curls around its feet.", "line": "From 1203 to 1293 this clifftop fortress was the seat of the Armenian Catholicos, head of the Armenian Church.", "source": "https://en.wikipedia.org/wiki/Rumkale"},
+  "gulluoglu": {"name": "Güllüoğlu Baklava", "art": "market", "slogan": "Pistachio and paper-thin pastry, the Antep way.", "line": "In 2013, Gaziantep baklava became the first Turkish product to win EU protected geographical indication status.", "source": "https://en.wikipedia.org/wiki/Gaziantep"},
+  "zeugmaantikkent": {"name": "Zeugma Ancient City", "art": "skyline", "slogan": "A Roman crossing on the Euphrates, half of it still underwater.", "line": "Founded around 300 BC by Seleucus I, Zeugma is named for its bridge of boats across the Euphrates.", "source": "https://en.wikipedia.org/wiki/Zeugma_(Commagene)"}
+ }}

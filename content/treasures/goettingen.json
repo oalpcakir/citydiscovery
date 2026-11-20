@@ -1,0 +1,48 @@
+{
+ "picks": [
+  "gogaenseliesel",
+  "gomuendenrathaus",
+  "goweserstein",
+  "gomuenchhausenmuseum",
+  "goaltesrathaus"
+ ],
+ "cards": {
+  "gogaenseliesel": {
+   "name": "Gänseliesel",
+   "art": "park",
+   "slogan": "A bronze goose girl, kissed by every new doctor in town.",
+   "line": "The town of Göttingen, famous for its sausages and university, belongs to the King of Hanover.",
+   "by": "Heinrich Heine, Die Harzreise, 1826",
+   "source": "https://projekt-gutenberg.org/authors/heinrich-heine/books/heinrich-heine-reisebilder/chapter/2"
+  },
+  "gomuendenrathaus": {
+   "name": "Hann. Münden Town Hall",
+   "art": "skyline",
+   "slogan": "Weser Renaissance gables above 700 timbered houses.",
+   "line": "Its Gothic hall dates from the 14th century; the Renaissance façade was added between 1603 and 1618.",
+   "source": "https://en.wikipedia.org/wiki/Hann._M%C3%BCnden"
+  },
+  "goweserstein": {
+   "name": "Weserstein",
+   "art": "harbour",
+   "slogan": "Two rivers meet on a small island and stop being themselves.",
+   "line": "Where Werra and Fulda kiss, they must atone with their names.",
+   "by": "Inscription on the Weserstein, Hann. Münden, 1899",
+   "source": "https://www.niedersachsen-tourism.com/poi/weserstein"
+  },
+  "gomuenchhausenmuseum": {
+   "name": "Münchhausen Museum",
+   "art": "museum",
+   "slogan": "The manor where the famous liar was born, and told his tall tales.",
+   "line": "Baron Münchhausen (1720-1797) is buried in Bodenwerder, and the town bought his house in 1935 for its town hall.",
+   "source": "https://en.wikipedia.org/wiki/Bodenwerder"
+  },
+  "goaltesrathaus": {
+   "name": "Altes Rathaus",
+   "art": "skyline",
+   "slogan": "Painted hall behind the Gänseliesel, heart of the old market.",
+   "line": "Göttingen's Old Town Hall took from 1366 to 1444 to build.",
+   "source": "https://en.wikipedia.org/wiki/G%C3%B6ttingen"
+  }
+ }
+}

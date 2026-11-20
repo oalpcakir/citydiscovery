@@ -1,0 +1,47 @@
+{
+ "picks": [
+  "selimiyecamii",
+  "ucserefeli",
+  "uzunkopru",
+  "bayezidkulliyesi",
+  "galagolu"
+ ],
+ "cards": {
+  "selimiyecamii": {
+   "name": "Selimiye Mosque",
+   "art": "church",
+   "slogan": "Sinan's dome, lifted over the Edirne skyline.",
+   "line": "…I have succeeded in building a dome six cubits higher and four cubits wider than that of the Hagia Sophia.",
+   "by": "Mimar Sinan, on the Selimiye Mosque",
+   "source": "https://en.wikipedia.org/wiki/Selimiye_Mosque,_Edirne"
+  },
+  "ucserefeli": {
+   "name": "Üç Şerefeli Mosque",
+   "art": "church",
+   "slogan": "Four minarets, one with three balconies to climb in your mind.",
+   "line": "Built between 1438 and 1447, its 67-metre minaret was the tallest Ottoman minaret of its day, and its name means three balconies.",
+   "source": "https://en.wikipedia.org/wiki/%C3%9C%C3%A7_%C5%9Eerefeli_Mosque"
+  },
+  "uzunkopru": {
+   "name": "Uzunköprü Bridge",
+   "art": "bridge",
+   "slogan": "A stone road of arches stretched across the Thracian plain.",
+   "line": "Finished in 1444 with 174 arches, it was once about 1.4 kilometres long; Evliya Çelebi measured it at 2,000 stretched steps in 1658.",
+   "source": "https://en.wikipedia.org/wiki/Uzunk%C3%B6pr%C3%BC_Bridge"
+  },
+  "bayezidkulliyesi": {
+   "name": "Bayezid II Complex",
+   "art": "museum",
+   "slogan": "A hospital where fountains and music were the medicine.",
+   "line": "Completed in 1488, its hospital treated mental illness with music, running water and scents until 1877.",
+   "source": "https://en.wikipedia.org/wiki/Complex_of_Sultan_Bayezid_II"
+  },
+  "galagolu": {
+   "name": "Gala Lake National Park",
+   "art": "park",
+   "slogan": "Reed beds and wing beats where the Meriç meets the sea.",
+   "line": "In February 2018, nearly ten thousand flamingos overwintered at Gala Lake for the first time.",
+   "source": "https://en.wikipedia.org/wiki/Lake_Gala_National_Park"
+  }
+ }
+}

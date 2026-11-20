@@ -1,0 +1,8 @@
+{"picks": ["romarienkirche","roleuchtturm","romuenster","rokurhaus","rokroepelinertor"],
+ "cards": {
+ "romarienkirche": {"name": "St. Mary's Church", "art": "church", "slogan": "A clock that has kept the calendar since 1472.", "line": "Hans Düringer of Nuremberg built the astronomical clock in 1472; its calendar runs until 2150.", "source": "https://en.wikipedia.org/wiki/Rostock_astronomical_clock"},
+ "roleuchtturm": {"name": "Warnemünde Lighthouse", "art": "tower", "slogan": "Warnemünde's landmark, watching over the Baltic harbour mouth.", "line": "Built 1897-98 by harbour director Friedrich Kerner, it stands 36.9 metres tall.", "source": "https://en.wikipedia.org/wiki/Warnem%C3%BCnde_Lighthouse"},
+ "romuenster": {"name": "Doberan Minster", "art": "church", "slogan": "Brick Gothic at its finest, raised by Cistercian monks.", "line": "Legend says monks chose the site after a swan called out \"dobr\", Slavic for good, giving Doberan its name.", "source": "https://en.wikipedia.org/wiki/Doberan_Minster"},
+ "rokurhaus": {"name": "Heiligendamm Kurhaus", "art": "palace", "slogan": "White classicist villas along the sea where the Baltic spa began.", "line": "Founded in 1793, Heiligendamm is the oldest seaside spa in continental Europe and hosted the 2007 G8 summit.", "source": "https://en.wikipedia.org/wiki/Heiligendamm"},
+ "rokroepelinertor": {"name": "Kröpeliner Tor", "art": "castle", "slogan": "A 54-metre gate built to impress Hanseatic travellers.", "line": "Around 1400 the citizens added five storeys to the original two, to show visitors Rostock's Hanseatic importance.", "source": "https://de.wikipedia.org/wiki/Kr%C3%B6peliner_Tor"}
+ }}

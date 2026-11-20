@@ -1,0 +1,48 @@
+{
+ "picks": [
+  "chambordchateau",
+  "chenonceauchateau",
+  "amboiseclosluce",
+  "toursgatien",
+  "villandrygardens"
+ ],
+ "cards": {
+  "chambordchateau": {
+   "name": "Château de Chambord",
+   "art": "castle",
+   "slogan": "A king's hunting lodge with 440 rooms and a skyline of its own.",
+   "line": "Its double-helix staircase lets two people climb at once without meeting; the château has 282 fireplaces.",
+   "source": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Chambord"
+  },
+  "chenonceauchateau": {
+   "name": "Château de Chenonceau",
+   "art": "palace",
+   "slogan": "A gallery of light stretched across the Cher.",
+   "line": "We played music there and staged comedies.",
+   "by": "Jean-Jacques Rousseau, Confessions",
+   "source": "https://en.wikipedia.org/wiki/Château_de_Chenonceau"
+  },
+  "amboiseclosluce": {
+   "name": "Clos Lucé",
+   "art": "palace",
+   "slogan": "Where Leonardo sketched his last inventions.",
+   "line": "Leonardo da Vinci came to France in 1516 at Francis I's invitation and died here on 2 May 1519.",
+   "source": "https://en.wikipedia.org/wiki/Château_du_Clos_Lucé"
+  },
+  "toursgatien": {
+   "name": "Saint-Gatien Cathedral",
+   "art": "church",
+   "slogan": "Eight centuries of Gothic, crowned by two Renaissance towers.",
+   "line": "Its east end is unique among European Gothic cathedrals: no other buildings are attached to it.",
+   "source": "https://en.wikipedia.org/wiki/Tours_Cathedral"
+  },
+  "villandrygardens": {
+   "name": "Villandry Gardens",
+   "art": "park",
+   "slogan": "Cabbages and box hedges laid out like a Renaissance tapestry.",
+   "line": "Spanish doctor Joachim Carvallo bought the château in 1906 and recreated its Renaissance gardens, ornamental kitchen garden included.",
+   "source": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Villandry"
+  }
+ },
+ "waive_area_cap": "Loire châteaux outside Tours are the region's defining sights"
+}

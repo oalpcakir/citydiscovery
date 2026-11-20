@@ -1,0 +1,8 @@
+{"picks": ["mevlanamuseum","catalhoyuk","alaeddinhill","inceminare","esrefoglu"],
+ "cards": {
+ "mevlanamuseum": {"name": "Mevlana Museum", "art": "museum", "slogan": "Where the turquoise dome of Rumi still draws pilgrims in.", "line": "Love is the water of life; receive it in thy heart and soul.", "by": "Rumi, Diwan-i Shams-i Tabriz, tr. R. A. Nicholson", "source": "https://en.wikiquote.org/wiki/Rumi"},
+ "catalhoyuk": {"name": "Çatalhöyük", "art": "skyline", "slogan": "A 9,000-year-old town where the rooftops were the streets.", "line": "Houses stood wall to wall with no streets between them, and people entered through holes in the roof by ladder.", "source": "https://en.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk"},
+ "alaeddinhill": {"name": "Alaaddin Mosque", "art": "church", "slogan": "Seljuk sultans built it, and eight of them rest in its courtyard.", "line": "Its courtyard tomb holds the sarcophagi of eight Seljuk Sultans of Rum, and work on the mosque ran from 1155 to 1235.", "source": "https://en.wikipedia.org/wiki/Alaeddin_Mosque"},
+ "inceminare": {"name": "İnce Minareli Medrese", "art": "museum", "slogan": "A portal carved like stone banners, under a minaret lightning cut down.", "line": "Lightning struck its tall minaret in 1901, and the falling stone destroyed the dome of the 1265 madrasa.", "source": "https://en.wikipedia.org/wiki/%C4%B0nce_Minareli_Medrese"},
+ "esrefoglu": {"name": "Eşrefoğlu Mosque", "art": "church", "slogan": "A forest of wooden columns holding up a 13th-century roof.", "line": "Built 1296 to 1299, its roof rests on 42 wooden columns, each about 7.5 metres long.", "source": "https://en.wikipedia.org/wiki/E%C5%9Frefo%C4%9Flu_Mosque"}
+ }}

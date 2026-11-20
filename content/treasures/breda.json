@@ -1,0 +1,46 @@
+{
+ "picks": [
+  "efteling",
+  "grotekerktoren",
+  "spanjaardsgat",
+  "vangoghhuiszundert",
+  "depont"
+ ],
+ "cards": {
+  "efteling": {
+   "name": "Efteling",
+   "art": "park",
+   "slogan": "A fairy-tale forest drawn by hand, still growing since 1952.",
+   "line": "Designed by Anton Pieck, the Fairy Tale Forest opened in 1952 with about ten tales; it now has 30.",
+   "source": "https://en.wikipedia.org/wiki/Efteling"
+  },
+  "grotekerktoren": {
+   "name": "Grote Kerk Tower",
+   "art": "tower",
+   "slogan": "97 metres of Brabant Gothic above Breda's rooftops.",
+   "line": "The current tower rose between 1468 and 1509, after its predecessor collapsed in 1457.",
+   "source": "https://en.wikipedia.org/wiki/Grote_Kerk,_Breda"
+  },
+  "spanjaardsgat": {
+   "name": "Spanjaardsgat",
+   "art": "castle",
+   "slogan": "The water gate that remembers a boat full of soldiers.",
+   "line": "In 1590, about 70 soldiers hidden in a peat barge slipped into Breda and took the castle.",
+   "source": "https://en.wikipedia.org/wiki/Siege_of_Breda_(1590)"
+  },
+  "vangoghhuiszundert": {
+   "name": "Van Gogh House, Zundert",
+   "art": "museum",
+   "slogan": "Where a vicar's son first looked at the Brabant fields.",
+   "line": "Vincent was born in the parsonage here on 30 March 1853, a year to the day after a stillborn brother also named Vincent.",
+   "source": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
+  },
+  "depont": {
+   "name": "De Pont",
+   "art": "museum",
+   "slogan": "A mirror in a textile mill that tips the sky upside down.",
+   "line": "Kapoor's Sky Mirror in Tilburg is 6.5 metres wide, a rectangular sibling of the dish in Nottingham.",
+   "source": "https://en.wikipedia.org/wiki/Sky_Mirror"
+  }
+ }
+}

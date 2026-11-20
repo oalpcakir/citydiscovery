@@ -1,0 +1,46 @@
+{
+ "picks": [
+  "komainau",
+  "koimperia",
+  "komuenster",
+  "koburgmeersburg",
+  "kominster"
+ ],
+ "cards": {
+  "komainau": {
+   "name": "Mainau Island",
+   "art": "park",
+   "slogan": "A whole island in bloom, moored in the Lake.",
+   "line": "Swedish count Lennart Bernadotte took over the island in 1932 and turned it into the flower garden it is today.",
+   "source": "https://en.wikipedia.org/wiki/Mainau"
+  },
+  "koimperia": {
+   "name": "Imperia",
+   "art": "harbour",
+   "slogan": "She turns once every four minutes and never looks away.",
+   "line": "Erected clandestinely in 1993, the 9-metre, 18-tonne statue holds two tiny men resembling a pope and an emperor.",
+   "source": "https://en.wikipedia.org/wiki/Imperia_(statue)"
+  },
+  "komuenster": {
+   "name": "Konstanz Minster",
+   "art": "church",
+   "slogan": "Where a pope was crowned and a council ruled Europe.",
+   "line": "Martin V was enthroned here in 1417, ending the Great Schism during the Council of Constance.",
+   "source": "https://en.wikipedia.org/wiki/Konstanz_Minster"
+  },
+  "koburgmeersburg": {
+   "name": "Meersburg Castle",
+   "art": "castle",
+   "slogan": "Germany's old lakeside fortress, still lived in.",
+   "line": "Considered one of the oldest inhabited castles in Germany, its central tower may date to the 7th century.",
+   "source": "https://en.wikipedia.org/wiki/Meersburg_Castle"
+  },
+  "kominster": {
+   "name": "Reichenau Minster",
+   "art": "church",
+   "slogan": "Monks' island, a thousand years of quiet craft.",
+   "line": "Founded by Bishop Pirmin in 724, the Reichenau abbey island became a UNESCO World Heritage Site in 2000.",
+   "source": "https://en.wikipedia.org/wiki/Reichenau_Island"
+  }
+ }
+}

@@ -1,0 +1,8 @@
+{"picks": ["bgkaiserdom","bgaltesrathaus","bgschlenkerla","bgvierzehnheiligen","bgopernhaus"],
+ "cards": {
+  "bgkaiserdom": {"name": "Bamberg Cathedral", "art": "church", "slogan": "Four towers, an emperor's tomb and a horseman nobody can name.", "line": "Pope Clement II lies here: the only papal grave in Germany, and north of the Alps.", "source": "https://en.wikipedia.org/wiki/Bamberg_Cathedral"},
+  "bgaltesrathaus": {"name": "Old Town Hall", "art": "canalhouses", "slogan": "A painted town hall afloat in the middle of the Regnitz.", "line": "Built in 1386 in the middle of the Regnitz river, it is reached by two bridges and was rebuilt in 1744-1756.", "source": "https://en.wikipedia.org/wiki/Bamberg"},
+  "bgschlenkerla": {"name": "Schlenkerla", "art": "market", "slogan": "Smoked beer from the cask, poured under a Gothic ceiling.", "line": "The tavern dates to 1405, when it was a pub called Zum Blauen Löwen, the Blue Lion.", "source": "https://en.wikipedia.org/wiki/Schlenkerla"},
+  "bgvierzehnheiligen": {"name": "Vierzehnheiligen", "art": "church", "slogan": "A shepherd's vision became Balthasar Neumann's rococo ballroom.", "line": "A shepherd saw a crying child here in 1445; Neumann's basilica, built 1743-1772, marks the spot of the apparition.", "source": "https://en.wikipedia.org/wiki/Vierzehnheiligen"},
+  "bgopernhaus": {"name": "Margravial Opera House", "art": "palace", "slogan": "Wilhelmine's wooden theatre, still glowing in Bayreuth.", "line": "Built in the 1740s with a Bibiena-designed wooden interior, it seats about 500 and joined UNESCO World Heritage in 2012.", "source": "https://en.wikipedia.org/wiki/Margravial_Opera_House"}
+ }}

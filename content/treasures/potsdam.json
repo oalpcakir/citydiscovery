@@ -1,0 +1,8 @@
+{"picks": ["sanssouci","neuespalais","cecilienhof","einsteinhaus","ribbeck"],
+ "cards": {
+  "sanssouci": {"name":"Sanssouci Palace","art":"palace","slogan":"A king's vineyard retreat, yellow and carefree.","line":"Frederick the Great called his summer palace, built 1745-47, simply \"my little vineyard house\".","source":"https://en.wikipedia.org/wiki/Sanssouci"},
+  "neuespalais": {"name":"New Palace","art":"palace","slogan":"Over 200 rooms of marble and gilt, flexing after a war.","line":"Built 1763-69 right after the Seven Years' War, it was a showpiece for receiving dignitaries, not a home.","source":"https://en.wikipedia.org/wiki/New_Palace,_Potsdam"},
+  "cecilienhof": {"name":"Cecilienhof","art":"palace","slogan":"A Tudor manor on the Heiliger See where the world was redrawn.","line":"This English-style country house hides 176 rooms behind its courtyards; Truman, Churchill and Stalin met here in July 1945.","source":"https://en.wikipedia.org/wiki/Cecilienhof"},
+  "einsteinhaus": {"name":"Einstein's Summer House","art":"park","slogan":"Wooden walls, a big veranda and a sailboat on the lake.","line":"Konrad Wachsmann designed this timber house in 1929; it is Einstein's only surviving residence in Germany.","source":"https://vielfaltdermoderne.de/en/einsteinhaus-2/"},
+  "ribbeck": {"name":"Ribbeck Pear Tree","art":"park","slogan":"The village where a pear for every child became a poem.","line":"Herr von Ribbeck of Ribbeck in Havelland had a pear tree standing in his garden.","by":"Theodor Fontane, Herr von Ribbeck auf Ribbeck im Havelland, 1889","source":"https://projekt-gutenberg.org/authors/anthologien/books/deutsche-balladen-aus-ferdinand-avenarius-balladenbuch/chapter/76"}
+ }}

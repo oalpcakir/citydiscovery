@@ -1,0 +1,47 @@
+{
+ "picks": [
+  "srmarienkirche",
+  "srkoenigsstuhl",
+  "srozeaneum",
+  "srdom",
+  "srrasenderroland"
+ ],
+ "cards": {
+  "srmarienkirche": {
+   "name": "St. Mary's Church",
+   "art": "church",
+   "slogan": "A brick giant that once out-climbed every building on Earth.",
+   "line": "Its 151-metre tower made it the tallest building in the world from 1548 to 1647, apart from a short spell when Beauvais held the title.",
+   "source": "https://en.wikipedia.org/wiki/St._Mary%27s_Church,_Stralsund"
+  },
+  "srkoenigsstuhl": {
+   "name": "Königsstuhl",
+   "art": "park",
+   "slogan": "White chalk, green beech and the Baltic 118 metres below.",
+   "line": "Close your bodily eye so that you may see your picture first with the spiritual eye.",
+   "by": "Caspar David Friedrich, aphorisms, 1830",
+   "source": "https://en.wikipedia.org/wiki/Caspar_David_Friedrich"
+  },
+  "srozeaneum": {
+   "name": "Ozeaneum",
+   "art": "museum",
+   "slogan": "The Baltic and the North Sea, under one roof on the quay.",
+   "line": "Opened in 2008, it won European Museum of the Year in 2010 and welcomed its millionth visitor within about a year.",
+   "source": "https://en.wikipedia.org/wiki/Ozeaneum"
+  },
+  "srdom": {
+   "name": "Greifswald Cathedral",
+   "art": "church",
+   "slogan": "The brick tower that Friedrich's hometown steers by.",
+   "line": "Caspar David Friedrich was baptised in St. Nikolai on 7 September 1774, and later shaped its Neo-Gothic interior.",
+   "source": "https://de.wikipedia.org/wiki/Greifswalder_Dom"
+  },
+  "srrasenderroland": {
+   "name": "Rasender Roland",
+   "art": "harbour",
+   "slogan": "Steam, whistles and seaside villas at a leisurely 30 km/h.",
+   "line": "The 750 mm narrow-gauge line between Putbus and Göhren has run since 22 July 1895.",
+   "source": "https://en.wikipedia.org/wiki/Rasender_Roland"
+  }
+ }
+}

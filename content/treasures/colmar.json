@@ -1,0 +1,8 @@
+{"picks": ["unterlinden","petitevenise","riquewihr","citeauto","eguisheim"],
+ "cards": {
+  "unterlinden": {"name": "Isenheim Altarpiece", "art": "museum", "slogan": "A crucified Christ that Colmar still can't look away from.", "line": "Painted by Grünewald between 1512 and 1516 for the Antonite hospital chapel in Isenheim, it now hangs in Colmar's Unterlinden Museum.", "source": "https://www.musee-unterlinden.com/wp-content/uploads/2018/06/160129_UNTER_FICHES_GB_11.pdf"},
+  "petitevenise": {"name": "Petite Venise", "art": "canalhouses", "slogan": "Pastel gables and flat boats along the Lauch.", "line": "Colmar's fishermen belonged to a powerful guild and kept live fish in tanks fed by the Lauch beside their quayside houses.", "source": "https://www.lonelyplanet.fr/poi/alsace-colmaretlesuddelaroualsaceess-quartier-de-la-poissonnerie"},
+  "riquewihr": {"name": "Riquewihr", "art": "skyline", "slogan": "Riesling cellars behind a ring of sixteenth-century walls.", "line": "Only about 1,200 people live in Riquewihr, yet some two million visitors come every year.", "source": "https://uk.france.fr/en/alsace-lorraine/article/riquewihr"},
+  "citeauto": {"name": "Cité de l'Automobile", "art": "museum", "slogan": "Hundreds of Bugattis parked like paintings.", "line": "It holds two of the six original Bugatti Royales, plus a replica the Schlumpf brothers built from genuine parts.", "source": "https://en.wikipedia.org/wiki/Cit%C3%A9_de_l%27Automobile"},
+  "eguisheim": {"name": "Eguisheim", "art": "skyline", "slogan": "A village wound in rings around its castle.", "line": "Pope Leo IX was born here as Bruno of Eguisheim-Dagsbourg in 1002, and he became pope in 1049.", "source": "https://snippetsofparis.com/?p=122911"}
+ }}

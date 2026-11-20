@@ -1,0 +1,47 @@
+{
+ "picks": [
+  "arosrainbow",
+  "dengamleby",
+  "tollundmanden",
+  "moesgaard",
+  "himmelbjerget"
+ ],
+ "cards": {
+  "arosrainbow": {
+   "name": "ARoS Rainbow Panorama",
+   "art": "museum",
+   "slogan": "A ring of colour floating over the rooftops of Aarhus.",
+   "line": "Olafur Eliasson's glass walkway on the museum roof is 150 metres long and 3 metres wide, and opened in 2011.",
+   "source": "https://www.visitdenmark.com/your-rainbow-panorama-gdk644165"
+  },
+  "dengamleby": {
+   "name": "Den Gamle By",
+   "art": "canalhouses",
+   "slogan": "A whole Danish town, saved house by house.",
+   "line": "Opened in 1914 as the world's first open-air town museum, it now holds 75 historic buildings from 20 Danish towns.",
+   "source": "https://en.wikipedia.org/wiki/Den_Gamle_By"
+  },
+  "tollundmanden": {
+   "name": "Tollund Man",
+   "art": "museum",
+   "slogan": "A 2,400-year-old face that still looks like it is dreaming.",
+   "line": "Some day I will go to Aarhus / To see his peat-brown head…",
+   "by": "Seamus Heaney, The Tollund Man, Wintering Out, 1972",
+   "source": "https://www.litcharts.com/poetry/seamus-heaney/the-tollund-man"
+  },
+  "moesgaard": {
+   "name": "Moesgaard Museum",
+   "art": "museum",
+   "slogan": "Walk up the grass roof, then down to the Iron Age.",
+   "line": "The Grauballe Man, about 2,300 years old, is among the best preserved bog bodies in the world and lies inside this museum.",
+   "source": "https://www.dezeen.com/2014/10/20/moesgaard-museum-aarhus-henning-larsen-architects-sloping-turfed-roof/"
+  },
+  "himmelbjerget": {
+   "name": "Himmelbjerget",
+   "art": "tower",
+   "slogan": "Denmark's 'Sky Mountain' is barely a hill, and the nation loves it.",
+   "line": "The tower on top was unveiled in 1875 to honour King Frederik VII, who gave Denmark its first constitution.",
+   "source": "https://en.wikipedia.org/wiki/Himmelbjerget"
+  }
+ }
+}

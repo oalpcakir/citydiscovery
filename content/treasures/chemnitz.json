@@ -1,0 +1,8 @@
+{"picks": ["chnischel","chgoeltzschtal","chaugustusburg","chfreibergdom","chgunzenhauser"],
+ "cards": {
+  "chnischel": {"name": "Karl Marx Monument (Nischel)", "art": "skyline", "slogan": "A 40-tonne bronze head that locals simply call the Nischel.", "line": "Workers of the world, unite!", "by": "Karl Marx and Friedrich Engels, The Communist Manifesto, 1848 (carved behind the monument)", "source": "https://en.wikipedia.org/wiki/Karl_Marx_Monument,_Chemnitz"},
+  "chgoeltzschtal": {"name": "Göltzsch Viaduct", "art": "bridge", "slogan": "Twenty-six million bricks, stacked into a valley-wide stairway.", "line": "Built between 1846 and 1851, it is 78 metres high and counted the largest brick-built bridge in the world.", "source": "https://en.wikipedia.org/wiki/G%C3%B6ltzsch_Viaduct"},
+  "chaugustusburg": {"name": "Augustusburg Castle", "art": "castle", "slogan": "A Renaissance hunting lodge crowning the Schellenberg hilltop.", "line": "Elector Augustus built it from 1568 to 1572 on a hill 516 metres high, and it now also houses a motorcycle museum.", "source": "https://en.wikipedia.org/wiki/Augustusburg_Hunting_Lodge"},
+  "chfreibergdom": {"name": "Freiberg Cathedral", "art": "church", "slogan": "Silver-town splendour, from Golden Gate to Silbermann organ.", "line": "Despite the name it was never a bishop's seat, yet nine Saxon rulers were buried in its choir after 1541.", "source": "https://en.wikipedia.org/wiki/Freiberg_Cathedral"},
+  "chgunzenhauser": {"name": "Museum Gunzenhauser", "art": "museum", "slogan": "Otto Dix's sharp eye in a former bank of New Objectivity.", "line": "Opened in 2007 in a 1928-30 Sparkasse building, it holds 290 works by Otto Dix.", "source": "https://en.wikipedia.org/wiki/Museum_Gunzenhauser"}
+ }}

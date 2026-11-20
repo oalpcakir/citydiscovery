@@ -1,0 +1,8 @@
+{"picks": ["castelgrande","locarnomadonnasasso","locarnopiazzagrande","luganoangioli","luganogandria"],
+ "cards": {
+  "castelgrande": {"name": "Castelgrande", "art": "castle", "slogan": "A fortress on a rock that has guarded the Alpine passes for two thousand years.", "line": "The first fort on this gneiss outcrop was built in the late 1st century BC under Augustus; the castles became UNESCO-listed in 2000.", "source": "https://en.wikipedia.org/wiki/Castelgrande_(castle)"},
+  "locarnomadonnasasso": {"name": "Madonna del Sasso", "art": "church", "slogan": "A pilgrim's stairway above the lake, lit by a vision.", "line": "A friar reputedly saw a Marian apparition here on 15 August 1480, and the wooden Madonna was carved in 1485.", "source": "https://en.wikipedia.org/wiki/Madonna_del_Sasso,_Switzerland"},
+  "locarnopiazzagrande": {"name": "Piazza Grande", "art": "skyline", "slogan": "Arcades by day, the biggest outdoor cinema in the Alps by night.", "line": "Since 1971 the Locarno Film Festival has screened here to over 6,000 spectators under the open sky.", "source": "https://en.wikipedia.org/wiki/Locarno_Film_Festival"},
+  "luganoangioli": {"name": "Santa Maria degli Angioli", "art": "church", "slogan": "A whole wall of Renaissance Passion, painted in Lugano.", "line": "Bernardino Luini's monumental Passion and Crucifixion fresco here is dated 1529.", "source": "https://www.myswitzerland.com/en/experiences/the-madonna-degli-angioli-church"},
+  "luganogandria": {"name": "Gandria", "art": "harbour", "slogan": "Steep stone lanes where the lake once was the only road.", "line": "Gandria is a car-free village of about 200 year-round residents; its border post is now the Swiss Customs Museum.", "source": "https://en.wikipedia.org/wiki/Gandria"}
+ }}

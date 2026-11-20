@@ -1,0 +1,46 @@
+{
+ "picks": [
+  "perpignanpalaisrois",
+  "perpignancastillet",
+  "colliourebelltower",
+  "canigouabbey",
+  "queribuscucugnan"
+ ],
+ "cards": {
+  "perpignanpalaisrois": {
+   "name": "Palace of the Kings of Majorca",
+   "art": "castle",
+   "slogan": "A Gothic court on a Catalan hill, with Vauban's walls around it.",
+   "line": "In 1415 Emperor Sigismund held a summit here to make Antipope Benedict XIII resign; Benedict refused.",
+   "source": "https://en.wikipedia.org/wiki/Palace_of_the_Kings_of_Majorca"
+  },
+  "perpignancastillet": {
+   "name": "Castillet",
+   "art": "castle",
+   "slogan": "Red brick gate that still guards Perpignan's old town.",
+   "line": "Its Catalan name means 'little castle'; building ran from 1368 to 1542, to designs by Guillem Guitard.",
+   "source": "https://en.wikipedia.org/wiki/Castillet"
+  },
+  "colliourebelltower": {
+   "name": "Notre-Dame-des-Anges, Collioure",
+   "art": "church",
+   "slogan": "A pink bell tower that Matisse and Derain could not stop painting.",
+   "line": "In the summer of 1905 Matisse and Derain painted this harbour in such bold colours that critics named them the Fauves.",
+   "source": "https://en.wikipedia.org/wiki/Collioure"
+  },
+  "canigouabbey": {
+   "name": "Saint-Martin-du-Canigou Abbey",
+   "art": "church",
+   "slogan": "Benedictine stone clinging to the flank of the Canigó.",
+   "line": "Founded by Count Guifred II between 1005 and 1009, who later became a monk here and died in 1050.",
+   "source": "https://en.wikipedia.org/wiki/Abbey_of_Saint-Martin-du-Canigou"
+  },
+  "queribuscucugnan": {
+   "name": "Quéribus Castle",
+   "art": "castle",
+   "slogan": "An eagle's nest at 728 metres, the last Cathar holdout.",
+   "line": "Its defender Chabert de Barbaira surrendered in 1255 without a fight, for reasons still unclear.",
+   "source": "https://en.wikipedia.org/wiki/Château_de_Quéribus"
+  }
+ }
+}

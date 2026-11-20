@@ -1,0 +1,8 @@
+{"picks": ["padom","paorts","paoberhaus","paburghausenburg","pabaumwipfelpfad"],
+ "cards": {
+  "padom": {"name": "St. Stephen's Cathedral", "art": "church", "slogan": "Baroque domes and an organ that fills the whole old town.", "line": "Five organs by Eisenbarth, built 1978-1993, share 17,974 pipes and 229 registers, making Europe's largest organ.", "source": "https://de.wikipedia.org/wiki/Passauer_Dom"},
+  "paorts": {"name": "Dreiflüsseeck", "art": "harbour", "slogan": "Three rivers, three colours, one quiet stone point.", "line": "The Danube meets the Inn from the south and the Ilz from the north, and the Old Town Hall wall marks floods back to 1501.", "source": "https://en.wikipedia.org/wiki/Passau"},
+  "paoberhaus": {"name": "Veste Oberhaus", "art": "castle", "slogan": "The prince-bishops' fortress watching over all three rivers.", "line": "Founded in 1219 by Ulrich II, the first prince-bishop of Passau, it stands 105 metres above the valley floor.", "source": "https://en.wikipedia.org/wiki/Veste_Oberhaus"},
+  "paburghausenburg": {"name": "Burghausen Castle", "art": "castle", "slogan": "A kilometre of ramparts strung along a lakeside ridge.", "line": "At 1,051 metres, Guinness World Records confirmed it as the longest castle complex in the world.", "source": "https://en.wikipedia.org/wiki/Burghausen_Castle"},
+  "pabaumwipfelpfad": {"name": "Bavarian Forest Treetop Walk", "art": "park", "slogan": "Walk among the crowns of Germany's oldest national park forest.", "line": "Opened in 2009, the 1,300-metre path ends in a 44-metre egg-shaped tower and was then the longest treetop walk in the world.", "source": "https://structurae.net/de/bauwerke/baumwipfelpfad-bayerischer-wald"}
+ }}

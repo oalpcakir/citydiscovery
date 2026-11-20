@@ -1,0 +1,8 @@
+{"picks": ["holstentor","marienkirche","niederegger","passat","fehmarnsundbridge"],
+ "cards": {
+ "holstentor": {"name":"Holstentor","art":"castle","slogan":"Two fat brick towers, sinking gracefully since 1478.","line":"Its field-side inscription reads Concordia domi foris pax: harmony within, peace outside.","source":"https://en.wikipedia.org/wiki/Holsten_Gate"},
+ "marienkirche": {"name":"St. Mary's Church","art":"church","slogan":"The bells still lie where they fell on the Palm Sunday night of 1942.","line":"Its nave holds the world's tallest brick vault, 38.5 metres high; rebuilt between 1947 and 1959.","source":"https://en.wikipedia.org/wiki/St._Mary%27s_Church,_L%C3%BCbeck"},
+ "niederegger": {"name":"Café Niederegger","art":"market","slogan":"Marzipan, served across from the Rathaus steps since 1822.","line":"Johann Georg Niederegger, a pastry chef from Ulm, took over a Lübeck confectioner's shop on 1 March 1806.","source":"https://en.wikipedia.org/wiki/Niederegger"},
+ "passat": {"name":"Passat","art":"harbour","slogan":"A Cape Horn windjammer, moored for good at Travemünde.","line":"Built in Hamburg in 1911, the four-masted barque rounded Cape Horn 39 times.","source":"https://en.wikipedia.org/wiki/Passat_(ship)"},
+ "fehmarnsundbridge": {"name":"Fehmarnsund Bridge","art":"bridge","slogan":"The Coat Hanger: one steel arch between the mainland and Fehmarn.","line":"Opened on 30 April 1963, its arch rises 45 metres above the roadway and carries both road and rail.","source":"https://en.wikipedia.org/wiki/Fehmarn_Sound_Bridge"}
+ }}

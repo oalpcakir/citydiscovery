@@ -1,0 +1,8 @@
+{"picks": ["snschloss","snludwigslustschloss","snwismarmarkt","sndom","snwismarnikolai"],
+ "cards": {
+  "snschloss": {"name": "Schwerin Castle", "art": "castle", "slogan": "A fairytale palace afloat on its own lake island.", "line": "Rebuilt between 1845 and 1857, it is now part of the UNESCO-listed Schwerin Residence Ensemble.", "source": "https://en.wikipedia.org/wiki/Schwerin_Castle"},
+  "snludwigslustschloss": {"name": "Ludwigslust Palace", "art": "palace", "slogan": "Sandstone gods on the roof, a ducal park below.", "line": "Its Golden Hall is decorated with Ludwigsluster Carton, a papier-mache that imitates stone and stucco.", "source": "https://en.wikipedia.org/wiki/Ludwigslust_Palace"},
+  "snwismarmarkt": {"name": "Wismar Market Square", "art": "skyline", "slogan": "A vast Hanseatic square with a fountain from Holland.", "line": "The Wasserkunst fountain was imported from Holland in 1602 and stands at the heart of one of northern Germany's largest squares.", "source": "https://en.wikipedia.org/wiki/Wismar"},
+  "sndom": {"name": "Schwerin Cathedral", "art": "church", "slogan": "A brick spire that watches over the whole lake district.", "line": "Its 117.5-metre tower, finished in 1893, is the tallest church spire in Mecklenburg-Vorpommern.", "source": "https://en.wikipedia.org/wiki/Schwerin_Cathedral"},
+  "snwismarnikolai": {"name": "St. Nikolai, Wismar", "art": "church", "slogan": "The sailors' church, with a nave built to dwarf the harbour.", "line": "Built between 1381 and 1460, it is known for the very lofty vaulting of its brick Gothic nave.", "source": "https://en.wikipedia.org/wiki/Wismar"}
+ }}

@@ -59,6 +59,7 @@ body.on-map #app { max-width: none; padding: 0; }
 .fl-ch { background: linear-gradient(#fff, #fff) center / 14% 62% no-repeat, linear-gradient(#fff, #fff) center / 44% 20% no-repeat, #da291c; }
 .fl-tr { background: radial-gradient(circle at 40% 50%, #e30a17 0 .148em, transparent 0), radial-gradient(circle at 56% 50%, #fff 0 .07em, transparent 0), radial-gradient(circle at 36% 50%, #fff 0 .185em, transparent 0), #e30a17; }
 .fl-cy { background: radial-gradient(ellipse 30% 14% at 50% 44%, #d57800 0 96%, transparent 100%), radial-gradient(ellipse 22% 6% at 50% 70%, #4e5b31 0 96%, transparent 100%), #fff; }
+.fl-gr { background: linear-gradient(#fff, #fff) 0 25% / 37% 11.1% no-repeat, linear-gradient(#fff, #fff) 16% 0 / 7.4% 55.6% no-repeat, linear-gradient(#0d5eaf, #0d5eaf) 0 0 / 37% 55.6% no-repeat, repeating-linear-gradient(#0d5eaf 0 11.11%, #fff 0 22.22%); }
 .fl-dk { background: linear-gradient(90deg, transparent 32.4%, #fff 0 43.2%, transparent 0), linear-gradient(transparent 42.9%, #fff 0 57.1%, transparent 0), #c8102e; }
 .glass { background: var(--glass); -webkit-backdrop-filter: blur(16px) saturate(1.4); backdrop-filter: blur(16px) saturate(1.4); box-shadow: var(--shadow-sm); border: 1px solid color-mix(in srgb, var(--line) 70%, transparent); }
 .note { color: var(--muted); font-size: 13px; margin: 10px 0 0; }
@@ -681,15 +682,14 @@ details.fold > summary::-webkit-details-marker { display: none; } details.fold >
 .mapctl .gem { color: #d97706; } .mapctl .gem.on { background: #f59e0b; color: #fff; }
 @media (hover: hover) and (pointer: fine) {
   .mapctl button:hover::before, .mapctl button:focus-visible::before { opacity: 1; transform: translate(0, -50%) scale(1); }
-  .mapctl .more { display: none; }
 }
-@media not all and (hover: hover) and (pointer: fine) {
-  .mapctl .x { display: none; }
-  .mapctl.open .x { display: grid; animation: ctlin .22s cubic-bezier(.2, .8, .2, 1) both; }
-  .mapctl.open .x::before, .mapctl.open .more::before { opacity: 1; transform: translate(0, -50%) scale(1); }
-  .mapctl.open .x:nth-child(6) { animation-delay: 0s; } .mapctl.open .x:nth-child(5) { animation-delay: .03s; }
-  .mapctl.open .x:nth-child(4) { animation-delay: .06s; } .mapctl.open .x:nth-child(3) { animation-delay: .09s; }
-}
+/* Four buttons always (More, treasure, trails, location); More opens the rest on every device.
+   Not ".x": that is the global close-button class (absolute, right: 12px) and shifted these buttons. */
+.mapctl .xtra { display: none; }
+.mapctl.open .xtra { display: grid; animation: ctlin .22s cubic-bezier(.2, .8, .2, 1) both; }
+.mapctl.open .xtra::before, .mapctl.open .more::before { opacity: 1; transform: translate(0, -50%) scale(1); }
+.mapctl.open .xtra:nth-child(4) { animation-delay: 0s; } .mapctl.open .xtra:nth-child(3) { animation-delay: .03s; }
+.mapctl.open .xtra:nth-child(2) { animation-delay: .06s; } .mapctl.open .xtra:nth-child(1) { animation-delay: .09s; }
 @keyframes ctlin { from { opacity: 0; transform: translateY(14px) scale(.8); } to { opacity: 1; transform: none; } }
 /* Treasure card faces: drawing on top, rarity, name, slogan; big cards add the quote. Legendary cards shimmer like foil. */
 .tcard .tc-art { position: relative; display: block; aspect-ratio: 200 / 140; overflow: hidden; background: color-mix(in srgb, var(--rc) 20%, var(--card)); }

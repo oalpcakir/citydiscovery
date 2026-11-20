@@ -1,0 +1,48 @@
+{
+  "region": "adana",
+  "dishes": [
+    {
+      "id": "adana-kebap",
+      "name": "Adana kebabı",
+      "local": "",
+      "icon": "🍢",
+      "desc": "Hand-minced lamb with tail fat and red pepper pressed on wide skewers and grilled over charcoal. The city's famous dish, often eaten with şalgam and onion salad.",
+      "kw": [
+        "adana kebap",
+        "adana kebab"
+      ]
+    },
+    {
+      "id": "adana-sirdan",
+      "name": "Şırdan dolması",
+      "local": "",
+      "icon": "🍖",
+      "desc": "Lamb stomach stuffed with rice and spices, boiled and fried. A classic of old Adana tradition.",
+      "kw": [
+        "şırdan",
+        "sirdan"
+      ]
+    },
+    {
+      "id": "adana-fellah-koftesi",
+      "name": "Fellah köftesi",
+      "local": "",
+      "icon": "🧆",
+      "desc": "A Çukurova dish of bulgur and meat dumplings in a rich tomato and pepper sauce. Served in local lokantas.",
+      "kw": [
+        "fellah köftesi",
+        "fellah"
+      ]
+    },
+    {
+      "id": "adana-bici-bici",
+      "name": "Bici bici",
+      "local": "",
+      "icon": "🍧",
+      "desc": "A cold street dessert of starch jelly in rosewater syrup with crushed ice. A cooling summer speciality of Adana.",
+      "kw": [
+        "bici bici"
+      ]
+    }
+  ]
+}

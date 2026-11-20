@@ -1,0 +1,59 @@
+{
+  "region": "caen",
+  "dishes": [
+    {
+      "id": "caen-tripes",
+      "name": "Tripes à la mode de Caen",
+      "local": "",
+      "icon": "🍲",
+      "desc": "Beef tripe and ox foot simmered for hours with onions, carrots, leeks, cider and calvados. Caen's best-known dish, defended by a local brotherhood that holds a yearly tripe contest.",
+      "kw": [
+        "tripes à la mode de caen",
+        "tripes"
+      ]
+    },
+    {
+      "id": "caen-pre-sale",
+      "name": "Salt-marsh lamb",
+      "local": "Agneau de pré-salé",
+      "icon": "🐑",
+      "desc": "Lamb raised on meadows in Mont-Saint-Michel bay that the tides flood with seawater, which gives the meat a distinctive flavour. Eaten around the bay in Manche; the lamb holds AOC status.",
+      "kw": [
+        "pré-salé",
+        "salt-marsh lamb"
+      ]
+    },
+    {
+      "id": "caen-omelette",
+      "name": "Mont-Saint-Michel omelette",
+      "local": "Omelette du Mont-Saint-Michel",
+      "icon": "🍳",
+      "desc": "A soufflé-style omelette of fresh eggs and salted Normandy butter, beaten and cooked in a long-handled pan over a wood fire. A fast pilgrim meal from the Mont-Saint-Michel inns since 1888.",
+      "kw": [
+        "omelette",
+        "mont-saint-michel omelette"
+      ]
+    },
+    {
+      "id": "caen-pont-eveque",
+      "name": "Pont-l'Évêque",
+      "local": "",
+      "icon": "🧀",
+      "desc": "Soft washed-rind cow's-milk cheese with a square shape and orange rind, from the Calvados department. One of Normandy's four AOP cheeses.",
+      "kw": [
+        "pont-l'évêque",
+        "pont-l'eveque"
+      ]
+    },
+    {
+      "id": "caen-teurgoule",
+      "name": "Teurgoule",
+      "local": "",
+      "icon": "🍚",
+      "desc": "Rice pudding baked slowly for about five hours with milk, sugar and cinnamon until a dark crust forms. A traditional Lower Normandy dessert linked to the Granville area.",
+      "kw": [
+        "teurgoule"
+      ]
+    }
+  ]
+}

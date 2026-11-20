@@ -1,0 +1,60 @@
+{
+  "region": "chambery",
+  "dishes": [
+    {
+      "id": "chambery-matouille",
+      "name": "Matouille",
+      "local": "La Matouille",
+      "icon": "🧀",
+      "desc": "Tome des Bauges baked with white wine, garlic and nutmeg until it melts into a creamy spread, served with potatoes, salad or bread. A mountain-farm dish of the Bauges.",
+      "kw": [
+        "matouille",
+        "tome des bauges"
+      ]
+    },
+    {
+      "id": "chambery-chambery-truffle",
+      "name": "Chambéry chocolate truffle",
+      "local": "Truffe au chocolat",
+      "icon": "🍫",
+      "desc": "Hand-rolled ganache of cream, butter and chocolate coated in cocoa. Said to have been born in Chambéry in the late 19th century.",
+      "kw": [
+        "truffle",
+        "truffe"
+      ]
+    },
+    {
+      "id": "chambery-gateau-de-savoie",
+      "name": "Gâteau de Savoie",
+      "local": "",
+      "icon": "🍰",
+      "desc": "Light sponge of eggs, sugar and flour, eaten plain, with icing sugar or jam. Tradition places its origin at the court of the Counts of Savoy in Chambéry.",
+      "kw": [
+        "gâteau de savoie",
+        "savoy cake"
+      ]
+    },
+    {
+      "id": "chambery-diots-crozets",
+      "name": "Diots and crozets",
+      "local": "Diots et crozets",
+      "icon": "🌭",
+      "desc": "Pork sausages simmered in white wine and onions, served with crozets, tiny square Savoyard pasta. A winter staple across Savoie.",
+      "kw": [
+        "diots",
+        "crozets"
+      ]
+    },
+    {
+      "id": "chambery-gateau-des-bauges",
+      "name": "Bauges cake",
+      "local": "Gâteau des Bauges",
+      "icon": "🍰",
+      "desc": "Cake of whey, butter, local honey and fruit, with blackcurrant jam and a groove of quince jelly. Made in the Bauges massif above Chambéry.",
+      "kw": [
+        "gâteau des bauges",
+        "bauges"
+      ]
+    }
+  ]
+}

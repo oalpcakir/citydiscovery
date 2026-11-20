@@ -1,0 +1,60 @@
+{
+  "region": "carcassonne",
+  "dishes": [
+    {
+      "id": "carcassonne-escargots",
+      "name": "Languedoc-style snails",
+      "local": "Escargots à la languedocienne",
+      "icon": "🐌",
+      "desc": "Small petit-gris snails cooked slowly in a sauce of ham, walnuts, chard, garlic and parsley. A staple starter on Carcassonne menus, less known than the parsley-butter version.",
+      "kw": [
+        "escargots",
+        "snails"
+      ]
+    },
+    {
+      "id": "carcassonne-gesiers",
+      "name": "Duck gizzard salad",
+      "local": "Salade de gésiers de canard",
+      "icon": "🥗",
+      "desc": "Duck gizzards, confit or pan-seared, served on a salad with crusty bread. Duck is everywhere in Cathar country, and this is the usual way to start a meal in the old town.",
+      "kw": [
+        "gésiers",
+        "gizzard"
+      ]
+    },
+    {
+      "id": "carcassonne-carcassonnais",
+      "name": "Le Carcassonnais",
+      "local": "Le Carcassonnais",
+      "icon": "🥐",
+      "desc": "A puff-pastry brioche filled with vanilla cream and candied fruit, a Sunday treat from the city's bakeries.",
+      "kw": [
+        "carcassonnais",
+        "brioche"
+      ]
+    },
+    {
+      "id": "carcassonne-cassoulet-glace",
+      "name": "Iced cassoulet",
+      "local": "Cassoulet glacé",
+      "icon": "🍨",
+      "desc": "A Carcassonne dessert shaped like a small cassoulet or burger, layering nougatine, vanilla, chestnut and morello cherry. Sold at several pastry shops in the city.",
+      "kw": [
+        "cassoulet glacé",
+        "iced cassoulet"
+      ]
+    },
+    {
+      "id": "carcassonne-ecus",
+      "name": "Écus de la Cité",
+      "local": "Écus de la Cité",
+      "icon": "🍫",
+      "desc": "Small round chocolate coins stamped with the emblem of the fortified city, in dark or milk chocolate. A local sweet sold in confectioners and pastry shops.",
+      "kw": [
+        "écus",
+        "chocolate"
+      ]
+    }
+  ]
+}

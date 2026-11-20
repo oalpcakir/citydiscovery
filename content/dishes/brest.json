@@ -1,0 +1,58 @@
+{
+  "region": "brest",
+  "dishes": [
+    {
+      "id": "brest-kig-ha-farz",
+      "name": "Kig ha farz",
+      "local": "",
+      "icon": "🍲",
+      "desc": "Breton pot-au-feu from the Léon in northern Finistère: pork and beef simmered with vegetables and a buckwheat farz cooked in a cloth bag, served with a shallot-and-butter sauce.",
+      "kw": [
+        "kig ha farz"
+      ]
+    },
+    {
+      "id": "brest-kouign-amann",
+      "name": "Kouign-amann",
+      "local": "",
+      "icon": "🥐",
+      "desc": "A caramelised cake of laminated dough, butter and sugar, born in Douarnenez in Finistère. Dark and crisp outside, soft and very buttery inside.",
+      "kw": [
+        "kouign-amann",
+        "kouign amann"
+      ]
+    },
+    {
+      "id": "brest-cotriade",
+      "name": "Cotriade",
+      "local": "",
+      "icon": "🐟",
+      "desc": "Finistère's fisherman's stew of mixed fish, potatoes and onions in a butter-enriched broth, eaten over bread. A staple of the ports around Douarnenez and Concarneau.",
+      "kw": [
+        "cotriade"
+      ]
+    },
+    {
+      "id": "brest-pate-henaff",
+      "name": "Pâté Hénaff",
+      "local": "",
+      "icon": "🥫",
+      "desc": "Pork pâté from Pouldreuzic in the Bigouden country, created in 1915 and now a Finistère emblem in its blue tin. Sold in every local shop and eaten on bread.",
+      "kw": [
+        "hénaff",
+        "henaff"
+      ]
+    },
+    {
+      "id": "brest-palets-bretons",
+      "name": "Palets bretons",
+      "local": "",
+      "icon": "🍪",
+      "desc": "Thick, crumbly butter biscuits with salted butter, a speciality of Pont-Aven in southern Finistère. Sold in tins by local bakeries and biscuit makers.",
+      "kw": [
+        "palets bretons",
+        "palet breton"
+      ]
+    }
+  ]
+}

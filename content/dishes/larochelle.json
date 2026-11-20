@@ -1,0 +1,59 @@
+{
+  "region": "larochelle",
+  "dishes": [
+    {
+      "id": "larochelle-mouclade",
+      "name": "Mouclade",
+      "local": "Mouclade charentaise",
+      "icon": "🦪",
+      "desc": "Bouchot mussels in a creamy, gently curried sauce. The mussels come from the Bay of Aiguillon and the dish is the classic order on the Charente coast.",
+      "kw": [
+        "mouclade",
+        "mussel"
+      ]
+    },
+    {
+      "id": "larochelle-chaudree",
+      "name": "Chaudrée",
+      "local": "",
+      "icon": "🍲",
+      "desc": "A Charentaise fish stew with white wine, built on a mix of small sea fish. The local cousin of Brittany's cotriade and often compared to bouillabaisse.",
+      "kw": [
+        "chaudrée",
+        "fish stew"
+      ]
+    },
+    {
+      "id": "larochelle-galette-charentaise",
+      "name": "Galette charentaise",
+      "local": "",
+      "icon": "🍪",
+      "desc": "A soft, buttery regional cake flavoured with candied angelica. Eaten with coffee or as an afternoon snack across Charente-Maritime.",
+      "kw": [
+        "galette charentaise",
+        "angelica"
+      ]
+    },
+    {
+      "id": "larochelle-grillon-charentais",
+      "name": "Grillon charentais",
+      "local": "",
+      "icon": "🐖",
+      "desc": "Slow-cooked, seasoned pork eaten on fresh bread, traditionally as an aperitif or picnic food. Less known to visitors but a local favourite.",
+      "kw": [
+        "grillon"
+      ]
+    },
+    {
+      "id": "larochelle-cagouilles",
+      "name": "Cagouilles",
+      "local": "Cagouilles charentaises",
+      "icon": "🐌",
+      "desc": "Small grey snails of the Charente, pan-fried or stewed slowly in white wine with a touch of cognac. A rustic dish of the region.",
+      "kw": [
+        "cagouille",
+        "snail"
+      ]
+    }
+  ]
+}

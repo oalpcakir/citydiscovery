@@ -1,0 +1,59 @@
+{
+  "region": "besancon",
+  "dishes": [
+    {
+      "id": "besancon-saucisse-de-morteau",
+      "name": "Morteau sausage",
+      "local": "Saucisse de Morteau",
+      "icon": "🌭",
+      "desc": "Smoked pork sausage from the Haut-Doubs, simmered and served with potatoes or in a potée. A staple in Besançon's restaurants and charcuteries.",
+      "kw": [
+        "morteau",
+        "saucisse de morteau"
+      ]
+    },
+    {
+      "id": "besancon-cancoillotte",
+      "name": "Cancoillotte",
+      "local": "",
+      "icon": "🧀",
+      "desc": "Soft, runny cheese spread made from cow's milk, butter and water, eaten warm on potatoes, ham or bread. Besançon and Franche-Comté's own cheese.",
+      "kw": [
+        "cancoillotte"
+      ]
+    },
+    {
+      "id": "besancon-comte",
+      "name": "Comté",
+      "local": "Comté",
+      "icon": "🧀",
+      "desc": "Pressed cooked cheese from raw cow's milk, creamy, aromatic and a little spicy. Made across the Jura and Doubs and sold everywhere in Besançon.",
+      "kw": [
+        "comté",
+        "comte"
+      ]
+    },
+    {
+      "id": "besancon-griotte-bisontine",
+      "name": "Griotte bisontine",
+      "local": "",
+      "icon": "🍒",
+      "desc": "Small cherries coated in dark chocolate, a sweet long tied to Besançon. Sold in the town's chocolate shops.",
+      "kw": [
+        "griotte",
+        "griottes"
+      ]
+    },
+    {
+      "id": "besancon-poulet-vin-jaune",
+      "name": "Chicken, vin jaune, morels",
+      "local": "Poulet au vin jaune et aux morilles",
+      "icon": "🍗",
+      "desc": "Free-range chicken cooked with vin jaune, cream, shallots and morel mushrooms. A traditional recipe of the Jura mountains and Franche-Comté.",
+      "kw": [
+        "vin jaune",
+        "morilles"
+      ]
+    }
+  ]
+}

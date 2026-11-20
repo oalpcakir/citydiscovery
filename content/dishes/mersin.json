@@ -1,0 +1,58 @@
+{
+  "region": "mersin",
+  "dishes": [
+    {
+      "id": "mersin-tantuni",
+      "name": "Tantuni",
+      "local": "",
+      "icon": "🌯",
+      "desc": "Finely chopped beef sautéed on a hot plate with tomato, pepper and oil, wrapped in thin lavash. Mersin's best-known street food.",
+      "kw": [
+        "tantuni"
+      ]
+    },
+    {
+      "id": "mersin-cezerye",
+      "name": "Cezerye",
+      "local": "",
+      "icon": "🥕",
+      "desc": "A chewy sweet made from carrot syrup, coconut and nuts, a speciality of Tarsus and Mersin. Sold in boxes as the souvenir of the coast.",
+      "kw": [
+        "cezerye"
+      ]
+    },
+    {
+      "id": "mersin-batirik",
+      "name": "Batırık",
+      "local": "",
+      "icon": "🥗",
+      "desc": "A thick Tarsus dish of bulgur, chickpeas and herbs, closer to a main course than a soup. Eaten at local lokantas.",
+      "kw": [
+        "batırık",
+        "batirik"
+      ]
+    },
+    {
+      "id": "mersin-kerebic",
+      "name": "Kerebiç",
+      "local": "",
+      "icon": "🍰",
+      "desc": "A rolled sweet with pistachio or walnut and syrup, associated with Silifke and Cilicia. Often eaten at celebrations.",
+      "kw": [
+        "kerebiç",
+        "kerebic"
+      ]
+    },
+    {
+      "id": "mersin-yuksuk-corbasi",
+      "name": "Yüksük çorbası",
+      "local": "",
+      "icon": "🍜",
+      "desc": "A soup of tiny dumplings in a yogurt and chickpea broth, a dish of the Cilician plain. Served at Mersin home-cooking restaurants.",
+      "kw": [
+        "yüksük",
+        "yuksuk"
+      ]
+    }
+  ]
+}

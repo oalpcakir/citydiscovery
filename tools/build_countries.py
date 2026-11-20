@@ -16,7 +16,8 @@ META = {"NL": {"name": "Netherlands", "label": [52.98, 6.02]}, "BE": {"name": "B
         "FR": {"name": "France", "label": [46.9, 2.6]}, "DK": {"name": "Denmark", "label": [56.25, 9.2]},
         "SE": {"name": "Sweden", "label": [61.2, 14.9]}, "CH": {"name": "Switzerland", "label": [46.75, 8.2]},
         "TR": {"name": "Türkiye", "label": [39.1, 34.6]},
-        "CY": {"name": "Cyprus", "label": [35.05, 33.2]}}
+        "CY": {"name": "Cyprus", "label": [35.05, 33.2]},
+        "EL": {"name": "Greece", "label": [39.3, 22.0]}}
 
 out = {}
 for cc in sorted({v["country"] for v in hubs.values()}):

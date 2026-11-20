@@ -1,0 +1,58 @@
+{
+  "region": "nimes",
+  "dishes": [
+    {
+      "id": "nimes-brandade",
+      "name": "Brandade de Nîmes",
+      "local": "Brandade de morue de Nîmes",
+      "icon": "🐟",
+      "desc": "Salt cod poached and worked with olive oil, milk and garlic into a smooth purée. Recipes in Nîmes date back to 1786, and it is the city's best-known dish.",
+      "kw": [
+        "brandade"
+      ]
+    },
+    {
+      "id": "nimes-gardiane",
+      "name": "Gardiane de taureau",
+      "local": "Gardiane de taureau",
+      "icon": "🥩",
+      "desc": "Camargue bull meat marinated in red wine and slowly stewed with vegetables and condiments, usually served with rice. Eaten in Nîmes and the Camargue, especially in winter.",
+      "kw": [
+        "gardiane",
+        "taureau"
+      ]
+    },
+    {
+      "id": "nimes-petit-pate-nimois",
+      "name": "Petit pâté nîmois",
+      "local": "Petit pâté nîmois",
+      "icon": "🥧",
+      "desc": "A small pastry created in 1800, filled with minced veal and pork, some versions with brandade. A common lunchtime snack at the covered market.",
+      "kw": [
+        "petit pâté nîmois",
+        "pâté nîmois"
+      ]
+    },
+    {
+      "id": "nimes-croquants-villaret",
+      "name": "Croquants Villaret",
+      "local": "Croquants Villaret",
+      "icon": "🍪",
+      "desc": "Crunchy dry almond biscuits made in Nîmes by one family firm since 1775, flavoured with honey, orange blossom and lemon.",
+      "kw": [
+        "croquants",
+        "villaret"
+      ]
+    },
+    {
+      "id": "nimes-pelardon",
+      "name": "Pélardon",
+      "local": "Pélardon",
+      "icon": "🧀",
+      "desc": "A small AOC goat's cheese from the Cévennes, eaten with bread or with honey and dried fruit. The Gard's best-known cheese.",
+      "kw": [
+        "pélardon"
+      ]
+    }
+  ]
+}

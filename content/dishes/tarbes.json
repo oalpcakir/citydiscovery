@@ -1,0 +1,48 @@
+{
+  "region": "tarbes",
+  "dishes": [
+    {
+      "id": "tarbes-haricot-tarbais",
+      "name": "Tarbais bean stew",
+      "local": "Haricot tarbais",
+      "icon": "🫘",
+      "desc": "Creamy white beans grown around Tarbes under a protected label, cooked with pork or confit. Introduced in the 18th century, they are the pride of the Hautes-Pyrénées.",
+      "kw": [
+        "haricot tarbais",
+        "tarbais bean"
+      ]
+    },
+    {
+      "id": "tarbes-garbure",
+      "name": "Garbure",
+      "local": "",
+      "icon": "🍲",
+      "desc": "Thick Pyrenean soup of cabbage, beans, potatoes and preserved meat, eaten as a winter meal. A staple of mountain farm kitchens in Bigorre and Béarn.",
+      "kw": [
+        "garbure"
+      ]
+    },
+    {
+      "id": "tarbes-porc-noir",
+      "name": "Black pork of Bigorre",
+      "local": "Porc noir de Bigorre",
+      "icon": "🐖",
+      "desc": "Ham, sausage and chops from an old black pig breed raised in the Pyrenean foothills, with its own protected label. Found at Tarbes market and local restaurants.",
+      "kw": [
+        "porc noir",
+        "black pork"
+      ]
+    },
+    {
+      "id": "tarbes-gateau-broche",
+      "name": "Gâteau à la broche",
+      "local": "",
+      "icon": "🎂",
+      "desc": "Tall ring-shaped cake baked on a spit, layer by layer, giving it a rough, branched crust. A traditional Pyrenean celebration cake of the Hautes-Pyrénées.",
+      "kw": [
+        "gâteau à la broche",
+        "spit cake"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "region": "konya",
+  "dishes": [
+    {
+      "id": "konya-etli-ekmek",
+      "name": "Konya etli ekmek",
+      "local": "Etli ekmek",
+      "icon": "🥖",
+      "desc": "Thin, long dough topped with seasoned minced meat and baked in a very hot oven. It looks like lahmacun but is a different dish, and Konya's best-known meal.",
+      "kw": [
+        "etli ekmek"
+      ]
+    },
+    {
+      "id": "konya-firin-kebabi",
+      "name": "Fırın kebabı",
+      "local": "",
+      "icon": "🍖",
+      "desc": "Lamb ribs and foreleg slow-cooked for hours in a wood oven in their own fat, served with raw onion. A Konya kebap-house classic.",
+      "kw": [
+        "fırın kebabı",
+        "fırın kebap"
+      ]
+    },
+    {
+      "id": "konya-bamya-corbasi",
+      "name": "Bamya çorbası",
+      "local": "",
+      "icon": "🥣",
+      "desc": "Soup of dried okra strung on thread, with small cubes of veal and lemon juice. A Konya wedding and festive-table soup.",
+      "kw": [
+        "bamya çorbası",
+        "bamya"
+      ]
+    },
+    {
+      "id": "konya-su-boregi",
+      "name": "Konya su böreği",
+      "local": "Su böreği",
+      "icon": "🥧",
+      "desc": "Layers of handmade yufka dough, boiled first and then baked, eaten hot in the morning with black tea. A staple of Konya breakfast tables.",
+      "kw": [
+        "su böreği"
+      ]
+    },
+    {
+      "id": "konya-sacarasi",
+      "name": "Sacarası",
+      "local": "",
+      "icon": "🍰",
+      "desc": "Sweet traditionally baked between two griddles over wood embers, though oven versions exist. A homely Konya dessert found in local sweet shops.",
+      "kw": [
+        "sacarası"
+      ]
+    }
+  ]
+}

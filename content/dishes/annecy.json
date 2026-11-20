@@ -1,0 +1,58 @@
+{
+  "region": "annecy",
+  "dishes": [
+    {
+      "id": "annecy-tartiflette",
+      "name": "Tartiflette",
+      "local": "",
+      "icon": "🥔",
+      "desc": "Baked potatoes with bacon, onions and a generous layer of Reblochon. The best-known Savoyard dish, built on a cheese from the Thônes valley.",
+      "kw": [
+        "tartiflette"
+      ]
+    },
+    {
+      "id": "annecy-reblochon",
+      "name": "Reblochon",
+      "local": "",
+      "icon": "🧀",
+      "desc": "Soft washed-rind cheese from the Thônes valley near Annecy, eaten on its own and used in many local recipes.",
+      "kw": [
+        "reblochon"
+      ]
+    },
+    {
+      "id": "annecy-fondue-savoyarde",
+      "name": "Fondue savoyarde",
+      "local": "",
+      "icon": "🫕",
+      "desc": "A blend of melted Savoie cheeses eaten with bread, often alongside potatoes and charcuterie. Served in every Annecy restaurant.",
+      "kw": [
+        "fondue savoyarde",
+        "fondue"
+      ]
+    },
+    {
+      "id": "annecy-lake-fish",
+      "name": "Lake Annecy fish",
+      "local": "Féra et omble chevalier",
+      "icon": "🐟",
+      "desc": "Féra and Arctic char from the lake, usually grilled or smoked. Lakeside restaurants in Annecy serve them as a signature plate.",
+      "kw": [
+        "féra",
+        "omble chevalier",
+        "lake fish"
+      ]
+    },
+    {
+      "id": "annecy-rissoles",
+      "name": "Savoyard rissoles",
+      "local": "Rissoles savoyardes",
+      "icon": "🥟",
+      "desc": "Fried pastry parcels filled with apple or pear, flavoured with cinnamon and dusted with icing sugar. A traditional Savoie sweet.",
+      "kw": [
+        "rissoles"
+      ]
+    }
+  ]
+}

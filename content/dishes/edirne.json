@@ -1,0 +1,59 @@
+{
+  "region": "edirne",
+  "dishes": [
+    {
+      "id": "edirne-tava-ciger",
+      "name": "Edirne tava ciğer",
+      "local": "Edirne tava ciğeri",
+      "icon": "🍖",
+      "desc": "Thin slices of liver dusted with flour and fried crisp, served with fried dried chilies and raw onion. The city's best-known dish, with a push to list it with UNESCO.",
+      "kw": [
+        "tava ciğer",
+        "ciğer"
+      ]
+    },
+    {
+      "id": "edirne-ciger-sarma",
+      "name": "Ciğer sarma",
+      "local": "Edirne ciğer sarması",
+      "icon": "🥩",
+      "desc": "Liver wrapped in lamb caul fat and baked with currants, pine nuts, onion and rice. It has a geographical indication as an Edirne dish.",
+      "kw": [
+        "ciğer sarma"
+      ]
+    },
+    {
+      "id": "edirne-badem-ezmesi",
+      "name": "Edirne almond paste",
+      "local": "Badem ezmesi",
+      "icon": "🌰",
+      "desc": "A dense sweet of almonds, sugar and water that goes back to the Ottoman palace. A shop here has been known for it since 1961.",
+      "kw": [
+        "badem ezmesi",
+        "almond paste"
+      ]
+    },
+    {
+      "id": "edirne-deva-i-misk",
+      "name": "Deva-i misk",
+      "local": "Deva-ı misk",
+      "icon": "🍯",
+      "desc": "A helva-like sweet said to date from Mehmed II's time, made with 41 spices and egg white and named for its medicinal, musky character. Sold in Edirne's old sweet shops.",
+      "kw": [
+        "deva-i misk",
+        "deva-ı misk"
+      ]
+    },
+    {
+      "id": "edirne-kandilli-manti",
+      "name": "Kandilli mantı",
+      "local": "Kandilli mantı",
+      "icon": "🥟",
+      "desc": "Layers of baked buttered dough squares soaked in onion broth and served over shredded poultry. Once made with goose or duck, now usually chicken.",
+      "kw": [
+        "kandilli mantı",
+        "mantı"
+      ]
+    }
+  ]
+}

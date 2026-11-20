@@ -1,0 +1,45 @@
+{
+  "region": "samsun",
+  "dishes": [
+    {
+      "id": "samsun-bafra-pidesi",
+      "name": "Bafra pide",
+      "local": "Bafra pidesi",
+      "icon": "🥟",
+      "desc": "A thin, closed pide stuffed with plenty of onion and minced meat seasoned with black pepper, baked until crisp. It comes from Bafra, on the Samsun coast, and is the area's signature bake.",
+      "kw": ["bafra pide", "bafra"]
+    },
+    {
+      "id": "samsun-sinop-mantisi",
+      "name": "Sinop manti",
+      "local": "Sinop mantısı",
+      "icon": "🥟",
+      "desc": "Large pieces of thin dough, shaped like ears and filled with meat, served with yogurt and walnut. A registered Sinop product, bigger than Kayseri manti.",
+      "kw": ["sinop mantısı", "sinop manti", "kulak"]
+    },
+    {
+      "id": "samsun-katik-boregi",
+      "name": "Katik boregi",
+      "local": "Katık böreği",
+      "icon": "🥐",
+      "desc": "Layers of thin yufka pastry filled with local cheese or minced meat. A home-style Samsun pastry found in local bakeries and lokantas.",
+      "kw": ["katık böreği", "katik"]
+    },
+    {
+      "id": "samsun-kaz-tiridi",
+      "name": "Kaz tiridi",
+      "local": "Kaz tiridi",
+      "icon": "🍗",
+      "desc": "Goose cooked in its own broth and served over yufka and bulgur pilaf. A traditional holiday dish of the Samsun area.",
+      "kw": ["kaz tiridi", "kaz ekmeği"]
+    },
+    {
+      "id": "samsun-findikli-burma",
+      "name": "Hazelnut burma",
+      "local": "Fındıklı burma tatlısı",
+      "icon": "🌰",
+      "desc": "A rolled pastry dessert from Ordu, the heart of Turkish hazelnut country. It is made with flour, yogurt, eggs and butter and carries a geographical indication.",
+      "kw": ["fındıklı burma", "burma tatlısı"]
+    }
+  ]
+}

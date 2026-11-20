@@ -1,0 +1,45 @@
+{
+  "region": "rize",
+  "dishes": [
+    {
+      "id": "rize-muhlama",
+      "name": "Muhlama",
+      "local": "Muhlama",
+      "icon": "🧈",
+      "desc": "A warm breakfast dish of kolot cheese, butter and cornmeal, eaten with cornbread. Rize's signature dish and one of its most consumed.",
+      "kw": ["muhlama", "mıhlama"]
+    },
+    {
+      "id": "rize-laz-boregi",
+      "name": "Laz boregi",
+      "local": "Hopa Laz böreği",
+      "icon": "🍮",
+      "desc": "Layers of thin pastry around a vanilla custard, finished with syrup and in Hopa a touch of black pepper. Hopa, in Artvin, holds the geographical indication.",
+      "kw": ["laz böreği", "laz boregi"]
+    },
+    {
+      "id": "rize-karalahana-sarmasi",
+      "name": "Black cabbage sarma",
+      "local": "Karalahana sarması",
+      "icon": "🥬",
+      "desc": "Black cabbage leaves wrapped around rice, onion and dill, sometimes with ground meat. A signature Rize dish eaten in colder months.",
+      "kw": ["karalahana sarması", "karalahana"]
+    },
+    {
+      "id": "rize-pucuko",
+      "name": "Pucuko",
+      "local": "Puçuko",
+      "icon": "🫘",
+      "desc": "Sun-dried green beans cooked with tomato paste and bulgur, with lemon or vinegar if you like. A registered speciality of Artvin.",
+      "kw": ["puçuko"]
+    },
+    {
+      "id": "rize-silor",
+      "name": "Silor",
+      "local": "Silor",
+      "icon": "🥛",
+      "desc": "Thin egg-and-milk dough, rolled, cut and baked, then softened and served with yogurt and melted butter. A pastry-like dish from Artvin.",
+      "kw": ["silor"]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "region": "dijon",
+  "dishes": [
+    {
+      "id": "dijon-boeuf-bourguignon",
+      "name": "Boeuf bourguignon",
+      "local": "Bœuf bourguignon",
+      "icon": "🍲",
+      "desc": "Charolais beef stewed slowly in red Burgundy wine with onions, bacon and mushrooms. Burgundy's festive and Sunday dish, found on nearly every traditional menu.",
+      "kw": [
+        "bourguignon",
+        "boeuf bourguignon"
+      ]
+    },
+    {
+      "id": "dijon-oeufs-meurette",
+      "name": "Oeufs en meurette",
+      "local": "Œufs en meurette",
+      "icon": "🥚",
+      "desc": "Eggs poached directly in a dark red-wine sauce with bacon and onions, served on toast. A Burgundy starter that Dijon kitchens treat as a classic.",
+      "kw": [
+        "meurette",
+        "oeufs en meurette"
+      ]
+    },
+    {
+      "id": "dijon-jambon-persille",
+      "name": "Jambon persillé",
+      "local": "",
+      "icon": "🍖",
+      "desc": "Shoulder ham cooked for hours in a strong stock, then set in parsley aspic and sliced cold. A Burgundian dish traditionally linked to Easter.",
+      "kw": [
+        "jambon persillé",
+        "persillé"
+      ]
+    },
+    {
+      "id": "dijon-escargots",
+      "name": "Burgundy snails",
+      "local": "Escargots de Bourgogne",
+      "icon": "🐌",
+      "desc": "Snails baked in their shells with garlic and parsley butter. Burgundy's most famous starter, served in Dijon's traditional restaurants.",
+      "kw": [
+        "escargot",
+        "escargots"
+      ]
+    },
+    {
+      "id": "dijon-pain-epices",
+      "name": "Pain d'épices de Dijon",
+      "local": "",
+      "icon": "🍞",
+      "desc": "Dense honey-spice cake that has been part of Dijon since the French Revolution era. Traditionally eaten toasted and buttered at breakfast.",
+      "kw": [
+        "pain d'épices",
+        "gingerbread"
+      ]
+    },
+    {
+      "id": "dijon-epoisses",
+      "name": "Époisses",
+      "local": "",
+      "icon": "🧀",
+      "desc": "Strong, soft cow's-milk cheese with an orange rind washed in the local spirit. A Burgundy classic eaten at the end of a meal.",
+      "kw": [
+        "époisses",
+        "epoisses"
+      ]
+    },
+    {
+      "id": "dijon-gougeres",
+      "name": "Gougères",
+      "local": "",
+      "icon": "🧀",
+      "desc": "Small choux-pastry puffs baked with cheese, a Burgundian speciality. Served warm at the aperitif and sold in bakeries.",
+      "kw": [
+        "gougère",
+        "gougères"
+      ]
+    }
+  ]
+}

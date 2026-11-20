@@ -1,0 +1,60 @@
+{
+  "region": "nancy",
+  "dishes": [
+    {
+      "id": "nancy-bergamote",
+      "name": "Bergamotes de Nancy",
+      "local": "",
+      "icon": "🍬",
+      "desc": "Amber hard candies flavoured with bergamot oil, individually hand-wrapped. They hold a PGI, and only a handful of makers, several in Nancy, may produce them.",
+      "kw": [
+        "bergamote",
+        "bergamotes"
+      ]
+    },
+    {
+      "id": "nancy-macarons-soeurs",
+      "name": "Macarons de Nancy",
+      "local": "",
+      "icon": "🍪",
+      "desc": "Almond-heavy macarons with a crisp top and soft centre, unlike the filled Parisian kind. The recipe goes back to nuns in Nancy at the time of the French Revolution.",
+      "kw": [
+        "macaron",
+        "macarons de nancy"
+      ]
+    },
+    {
+      "id": "nancy-baba",
+      "name": "Baba au rhum",
+      "local": "",
+      "icon": "🍰",
+      "desc": "Soft yeast cake soaked in rum syrup, born in the court of Duke Stanislas, who first used Hungarian tokaji wine. One of three Lorraine specialities from the Enlightenment era.",
+      "kw": [
+        "baba au rhum",
+        "baba"
+      ]
+    },
+    {
+      "id": "nancy-pate-lorrain",
+      "name": "Pâté lorrain",
+      "local": "",
+      "icon": "🥧",
+      "desc": "Marinated pork and veal, soaked in white wine and herbs, baked in a golden puff-pastry case. Best eaten warm; found in Nancy's bakeries and delis.",
+      "kw": [
+        "pâté lorrain",
+        "pate lorrain"
+      ]
+    },
+    {
+      "id": "nancy-bilberry-tart",
+      "name": "Bilberry tart",
+      "local": "Tarte aux myrtilles",
+      "icon": "🫐",
+      "desc": "Tart of wild bilberries picked in the Vosges mountains, one of the Vosges' regional pastries. The berries also go into jam and sweets.",
+      "kw": [
+        "myrtille",
+        "bilberry"
+      ]
+    }
+  ]
+}

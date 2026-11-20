@@ -1,0 +1,61 @@
+{
+  "region": "malatya",
+  "dishes": [
+    {
+      "id": "malatya-kiraz-yapragi",
+      "name": "Cherry-leaf rolls",
+      "local": "Kiraz yaprağı sarması",
+      "icon": "🍃",
+      "desc": "Young cherry leaves wrapped around a filling of bulgur or split peas and meat, then simmered. A signature of the Malatya orchard country and available in local restaurants in season.",
+      "kw": [
+        "kiraz yaprağı",
+        "yaprak sarma"
+      ]
+    },
+    {
+      "id": "malatya-kagit-kebabi",
+      "name": "Kağıt kebabı",
+      "local": "",
+      "icon": "🍖",
+      "desc": "Lamb and vegetables cooked wrapped in paper in a stone oven so the juices stay in. A Malatya way of cooking that is easy to find in the city.",
+      "kw": [
+        "kağıt kebabı",
+        "kagit"
+      ]
+    },
+    {
+      "id": "malatya-kayisi-tatlisi",
+      "name": "Apricot dessert with kaymak",
+      "local": "Kayısı tatlısı",
+      "icon": "🍑",
+      "desc": "Whole Malatya apricots cooked in syrup and served with thick clotted cream and nuts. The province grows a large share of the world's dried apricots.",
+      "kw": [
+        "kayısı tatlısı",
+        "kayısı",
+        "apricot"
+      ]
+    },
+    {
+      "id": "malatya-girik",
+      "name": "Gırık",
+      "local": "Malatya gırık",
+      "icon": "🥣",
+      "desc": "Meatballs of bulgur and minced meat served in a light, sour broth. A Malatya home-style dish from the region's long bulgur tradition.",
+      "kw": [
+        "gırık",
+        "sulu köfte"
+      ]
+    },
+    {
+      "id": "malatya-pestil",
+      "name": "Malatya pestil and kesmece",
+      "local": "Erik pestili, kesmece",
+      "icon": "🍇",
+      "desc": "Sheets of dried plum, mulberry or apricot fruit leather, often cut and eaten with walnuts. A traditional Malatya sweet sold in bazaar shops.",
+      "kw": [
+        "pestil",
+        "kesmece"
+      ]
+    }
+  ]
+}

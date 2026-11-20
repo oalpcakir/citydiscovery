@@ -737,7 +737,7 @@
   var SOON = window.REGION_INFO || {};
   var SOON_COUNTRIES = [["United Kingdom", 52.9, -1.6], ["Ireland", 53.2, -8.0], ["Spain", 40.2, -3.6], ["Portugal", 39.6, -8.0], ["Italy", 42.8, 12.6],
     ["Austria", 47.6, 14.1], ["Czechia", 49.8, 15.4], ["Poland", 52.1, 19.4], ["Norway", 61.5, 9.0], ["Finland", 63.0, 26.0], ["Hungary", 47.2, 19.4],
-    ["Croatia", 45.3, 15.9], ["Slovenia", 46.1, 14.8], ["Slovakia", 48.7, 19.6], ["Greece", 39.3, 22.0], ["Iceland", 64.9, -18.6], ["Estonia", 58.7, 25.5],
+    ["Croatia", 45.3, 15.9], ["Slovenia", 46.1, 14.8], ["Slovakia", 48.7, 19.6], ["Iceland", 64.9, -18.6], ["Estonia", 58.7, 25.5],
     ["Latvia", 56.9, 24.6], ["Lithuania", 55.3, 23.9], ["Romania", 45.9, 24.9], ["Bulgaria", 42.7, 25.3], ["Serbia", 44.1, 20.8], ["Bosnia and Herzegovina", 44.2, 17.8],
     ["Albania", 41.1, 20.0], ["North Macedonia", 41.6, 21.7], ["Montenegro", 42.8, 19.3], ["Ukraine", 49.0, 31.4], ["Moldova", 47.2, 28.5],
     ["Malta", 35.9, 14.4], ["Georgia", 42.3, 43.4], ["Morocco", 31.8, -7.1], ["Egypt", 26.8, 30.8], ["United States", 39.8, -98.6], ["Canada", 56.1, -106.3],
@@ -1543,7 +1543,7 @@
   var $sheet = document.getElementById("sheet");
   var $backdrop = document.getElementById("sheet-backdrop");
   var $toast = document.getElementById("toast");
-  var CC = { Netherlands: "nl", Belgium: "be", Germany: "de", Luxembourg: "lu", France: "fr", Denmark: "dk", Sweden: "se", Switzerland: "ch", "Türkiye": "tr", Cyprus: "cy" };
+  var CC = { Netherlands: "nl", Belgium: "be", Germany: "de", Luxembourg: "lu", France: "fr", Denmark: "dk", Sweden: "se", Switzerland: "ch", "Türkiye": "tr", Cyprus: "cy", Greece: "gr" };
 
   function ring(pct, big) {
     var C = 2 * Math.PI * 26;
@@ -1693,12 +1693,10 @@
   // the rest behind "More", which opens them as a labelled list.
   function mapCtlHtml() {
     return ('<div class="mapctl' + (ui.ctlOpen ? " open" : "") + '">' +
-      '<button class="glass desk" data-act="zoom-in" aria-label="Zoom in">' + ic("plus") + '</button>' +
-      '<button class="glass desk" data-act="zoom-out" aria-label="Zoom out">' + ic("minus") + '</button>' +
-      '<button class="glass x" data-act="tilt" aria-label="Tilt the map">' + ic("box") + '</button>' +
-      '<button class="glass x" data-act="overview" aria-label="All regions">' + ic("globe") + '</button>' +
-      '<button class="glass x" data-act="suggest" aria-label="Surprise me">' + ic("dices") + '</button>' +
-      '<button class="glass x rec" data-act="rec-start" aria-label="Suggest a place">' + ic("map-pin") + ic("plus", "mini") + '</button>' +
+      '<button class="glass xtra" data-act="tilt" aria-label="Tilt the map">' + ic("box") + '</button>' +
+      '<button class="glass xtra" data-act="overview" aria-label="All regions">' + ic("globe") + '</button>' +
+      '<button class="glass xtra" data-act="suggest" aria-label="Surprise me">' + ic("dices") + '</button>' +
+      '<button class="glass xtra rec" data-act="rec-start" aria-label="Suggest a place">' + ic("map-pin") + ic("plus", "mini") + '</button>' +
       '<button class="glass more' + (ui.ctlOpen ? " on" : "") + '" data-act="ctl-more" aria-label="' + (ui.ctlOpen ? "Close" : "More") + '" aria-expanded="' + !!ui.ctlOpen + '">' + ic(ui.ctlOpen ? "x" : "ellipsis") + '</button>' +
       '<button class="glass keep gem' + (ui.hunt ? " on" : "") + '" data-act="hunt" aria-label="Treasure hunt">' + ic("gem") + '</button>' +
       '<button class="glass keep' + (ui.panel === "trails" || ui.trail ? " on" : "") + '" data-act="trails" aria-label="Trails">' + ic("route") + '</button>' +

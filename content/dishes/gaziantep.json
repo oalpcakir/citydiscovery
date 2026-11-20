@@ -1,0 +1,57 @@
+{
+  "region": "gaziantep",
+  "dishes": [
+    {
+      "id": "gaziantep-beyran",
+      "name": "Beyran soup",
+      "local": "Beyran çorbası",
+      "icon": "🍲",
+      "desc": "Spicy lamb and rice soup topped with pul biber and a slick of fat, eaten for breakfast in Antep. It is the city's signature morning dish and is served in dedicated beyran houses.",
+      "kw": [
+        "beyran"
+      ]
+    },
+    {
+      "id": "gaziantep-katmer",
+      "name": "Katmer",
+      "local": "Antep katmeri",
+      "icon": "🥞",
+      "desc": "Paper-thin dough folded around clotted cream, crushed pistachios and sugar, then baked on a hot plate. A traditional Antep breakfast pastry eaten with the local pistachios.",
+      "kw": [
+        "katmer"
+      ]
+    },
+    {
+      "id": "gaziantep-ali-nazik",
+      "name": "Ali Nazik kebab",
+      "local": "Ali Nazik kebabı",
+      "icon": "🍆",
+      "desc": "Spiced minced lamb or cubed meat on a bed of smoked aubergine blended with garlicky yoghurt. A classic Antep kebab house dish.",
+      "kw": [
+        "ali nazik"
+      ]
+    },
+    {
+      "id": "gaziantep-yuvalama",
+      "name": "Yuvalama",
+      "local": "",
+      "icon": "🥣",
+      "desc": "Small rice-and-mince meatballs simmered in a yoghurt and chickpea broth finished with mint butter. A long-standing Antep home-style dish found in local lokantas.",
+      "kw": [
+        "yuvalama"
+      ]
+    },
+    {
+      "id": "gaziantep-baklava",
+      "name": "Antep pistachio baklava",
+      "local": "Antep fıstıklı baklava",
+      "icon": "🥮",
+      "desc": "Thin layers of pastry with green Antep pistachio and syrup, lighter and greener than most baklava. The city holds protected status for it and bakeries here are everywhere.",
+      "kw": [
+        "antep baklava",
+        "fıstıklı baklava",
+        "baklava"
+      ]
+    }
+  ]
+}

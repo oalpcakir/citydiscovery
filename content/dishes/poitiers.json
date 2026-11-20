@@ -1,0 +1,59 @@
+{
+  "region": "poitiers",
+  "dishes": [
+    {
+      "id": "poitiers-farci-poitevin",
+      "name": "Farci poitevin",
+      "local": "",
+      "icon": "🥬",
+      "desc": "A slow-cooked pâté of greens and herbs such as sorrel, cabbage, chard and leeks, sometimes with bacon. Called a typical dish of Poitou, eaten cold or hot.",
+      "kw": [
+        "farci poitevin",
+        "farci"
+      ]
+    },
+    {
+      "id": "poitiers-chabichou-du-poitou",
+      "name": "Chabichou du Poitou",
+      "local": "",
+      "icon": "🧀",
+      "desc": "A whole-milk goat cheese with a distinctive truncated shape and a soft, creamy taste. Named the star cheese of the Vienne, with protected status.",
+      "kw": [
+        "chabichou"
+      ]
+    },
+    {
+      "id": "poitiers-tourteau-fromager",
+      "name": "Tourteau fromager",
+      "local": "",
+      "icon": "🍰",
+      "desc": "A barely sweet goat-cheese cake with a dark, burnt crust. A Poitou tradition eaten as dessert, snack or with an aperitif.",
+      "kw": [
+        "tourteau fromager",
+        "tourteau"
+      ]
+    },
+    {
+      "id": "poitiers-broye-du-poitou",
+      "name": "Broyé du Poitou",
+      "local": "",
+      "icon": "🍪",
+      "desc": "A hard, crumbly butter shortbread. Tradition says you break it by pressing the centre with your fist, and it is served at celebrations.",
+      "kw": [
+        "broyé",
+        "broye"
+      ]
+    },
+    {
+      "id": "poitiers-macaron-de-montmorillon",
+      "name": "Montmorillon macaron",
+      "local": "Macaron de Montmorillon",
+      "icon": "🍪",
+      "desc": "Almond macarons from Montmorillon in the Vienne, made with egg whites and sugar. The town has been known for them for over two centuries.",
+      "kw": [
+        "macaron",
+        "montmorillon"
+      ]
+    }
+  ]
+}

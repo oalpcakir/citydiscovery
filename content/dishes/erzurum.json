@@ -1,0 +1,60 @@
+{
+  "region": "erzurum",
+  "dishes": [
+    {
+      "id": "erzurum-cag",
+      "name": "Cağ kebab",
+      "local": "Cağ kebabı",
+      "icon": "🍢",
+      "desc": "Goat or lamb marinated for about a day, then cooked on a horizontal spit and sliced onto skewers. It is Erzurum's signature dish, also called Oltu kebab after the nearby town.",
+      "kw": [
+        "cağ",
+        "cag kebab"
+      ]
+    },
+    {
+      "id": "erzurum-kadayif",
+      "name": "Stuffed kadayıf",
+      "local": "Kadayıf dolması",
+      "icon": "🍯",
+      "desc": "Shredded kadayıf wrapped around walnuts or pistachios, fried and soaked in syrup. A favourite Erzurum dessert, said to go back to Seljuk times.",
+      "kw": [
+        "kadayıf dolması",
+        "kadayif"
+      ]
+    },
+    {
+      "id": "erzurum-subo",
+      "name": "Erzurum su böreği",
+      "local": "Erzurum su böreği",
+      "icon": "🥟",
+      "desc": "Layered pastry baked with local string cheese, using one egg for each sheet of dough. A staple of Erzurum breakfast tables.",
+      "kw": [
+        "su böreği",
+        "su boregi"
+      ]
+    },
+    {
+      "id": "erzurum-lor",
+      "name": "Lor dolması",
+      "local": "Lor dolması",
+      "icon": "🥬",
+      "desc": "Chard leaves wrapped around a bulgur filling, a home-style stuffed dish from the Erzurum kitchen.",
+      "kw": [
+        "lor dolması",
+        "dolma"
+      ]
+    },
+    {
+      "id": "erzurum-lalanga",
+      "name": "Lalanga",
+      "local": "Lalanga",
+      "icon": "🥞",
+      "desc": "A fried batter treat served with sugar or syrup, described as an ancestor of pancakes and crêpes. Part of the traditional Erzurum table.",
+      "kw": [
+        "lalanga",
+        "leylanga"
+      ]
+    }
+  ]
+}

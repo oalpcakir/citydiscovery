@@ -1,0 +1,61 @@
+{
+  "region": "bordeaux",
+  "dishes": [
+    {
+      "id": "bordeaux-canele",
+      "name": "Canelé",
+      "local": "Canelé de Bordeaux",
+      "icon": "🧁",
+      "desc": "Small fluted cake with a dark caramelised crust and a soft custard centre scented with vanilla and rum. Born in Bordeaux and sold in bakeries across the city.",
+      "kw": [
+        "canelé",
+        "canele"
+      ]
+    },
+    {
+      "id": "bordeaux-entrecote",
+      "name": "Entrecôte bordelaise",
+      "local": "Entrecôte à la bordelaise",
+      "icon": "🥩",
+      "desc": "Rib steak grilled over vine cuttings and served with a red wine and shallot sauce, sometimes with bone marrow. The classic Bordeaux brasserie plate.",
+      "kw": [
+        "entrecôte",
+        "entrecote"
+      ]
+    },
+    {
+      "id": "bordeaux-lamproie",
+      "name": "Lamproie à la bordelaise",
+      "local": "",
+      "icon": "🐟",
+      "desc": "Lamprey from the Gironde estuary stewed in red wine with leeks. An old, strong-flavoured dish, found in season in traditional Bordeaux restaurants.",
+      "kw": [
+        "lamproie",
+        "lamprey"
+      ]
+    },
+    {
+      "id": "bordeaux-huitres",
+      "name": "Arcachon oysters",
+      "local": "Huîtres du bassin d'Arcachon",
+      "icon": "🦪",
+      "desc": "Oysters from the Arcachon basin, often eaten with grilled crépinettes sausages and a glass of white wine. The Gironde's best-known seafood.",
+      "kw": [
+        "huîtres",
+        "oysters",
+        "arcachon"
+      ]
+    },
+    {
+      "id": "bordeaux-agneau-pauillac",
+      "name": "Pauillac lamb",
+      "local": "Agneau de Pauillac",
+      "icon": "🍖",
+      "desc": "Milk-fed lamb raised in the Médoc around Pauillac, roasted pink with herbs. A regional meat with its own label, served in Bordeaux restaurants.",
+      "kw": [
+        "agneau de pauillac",
+        "pauillac lamb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "region": "amasya",
+  "dishes": [
+    {
+      "id": "amasya-corek",
+      "name": "Amasya corek",
+      "local": "Amasya çöreği",
+      "icon": "🥐",
+      "desc": "A yeast pastry rolled around a ground poppy-seed paste, with walnut kneaded into the dough and an egg-yolk glaze. Made at home for guests across Amasya.",
+      "kw": ["amasya çöreği", "çörek"]
+    },
+    {
+      "id": "amasya-topuz-kebabi",
+      "name": "Topuz kebab",
+      "local": "Topuz kebabı",
+      "icon": "🍖",
+      "desc": "Grilled meat served on a mace-shaped iron holder, usually with several kinds of meat, peppers and rice. A celebration dish of Amasya, widely served in Merzifon.",
+      "kw": ["topuz kebabı", "topuz"]
+    },
+    {
+      "id": "amasya-singir-kebabi",
+      "name": "Singir kebab",
+      "local": "Şıngır kebabı",
+      "icon": "🍆",
+      "desc": "Lamb and salted eggplant rings alternated on skewers and turned by hand over charcoal on a special frame. An Amasya kebab you rarely find elsewhere.",
+      "kw": ["şıngır kebabı", "şıngır"]
+    },
+    {
+      "id": "amasya-tokat-kebabi",
+      "name": "Tokat kebab",
+      "local": "Tokat kebabı",
+      "icon": "🍢",
+      "desc": "Bone-in lamb with eggplant in a tomato sauce, cooked in the Tokat style. The best-known dish of Tokat, the neighbouring city in this region.",
+      "kw": ["tokat kebabı", "tokat kebab"]
+    },
+    {
+      "id": "amasya-corum-leblebisi",
+      "name": "Corum leblebi",
+      "local": "Çorum leblebisi",
+      "icon": "🥜",
+      "desc": "Roasted chickpeas cooked over wood fire, sold plain, peppered or sugared. Çorum is Turkey's leblebi town and the snack is sold across its markets.",
+      "kw": ["leblebi", "çorum leblebisi"]
+    }
+  ]
+}

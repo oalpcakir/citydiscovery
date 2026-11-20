@@ -1,0 +1,58 @@
+{
+  "region": "aydin",
+  "dishes": [
+    {
+      "id": "aydin-cine-koftesi",
+      "name": "Çine köftesi",
+      "local": "Çine köftesi",
+      "icon": "🍖",
+      "desc": "A meatball dish from the Çine district, traditionally eaten with yayık ayranı, churned buttermilk. A specialty of the Büyük Menderes valley.",
+      "kw": [
+        "çine köftesi",
+        "çine"
+      ]
+    },
+    {
+      "id": "aydin-cingene-pilavi",
+      "name": "Çingene pilavı",
+      "local": "Çingene pilavı",
+      "icon": "🥗",
+      "desc": "Despite the name, a rice-free dish of çökelek curd cheese, tomato, pepper, cucumber, parsley, onion and thyme dressed with olive oil. Eaten at any meal in Aydın.",
+      "kw": [
+        "çingene pilavı",
+        "çökelek"
+      ]
+    },
+    {
+      "id": "aydin-yuvarlama",
+      "name": "Yuvarlama",
+      "local": "Aydın yuvarlaması",
+      "icon": "🍲",
+      "desc": "Fried balls of minced meat, onion, egg and spices, simmered in butter and water, served with strained yogurt and red pepper butter. An Aydın home dish.",
+      "kw": [
+        "yuvarlama"
+      ]
+    },
+    {
+      "id": "aydin-soke-cop-sis",
+      "name": "Söke çöp şiş",
+      "local": "Söke çöp şişi",
+      "icon": "🍢",
+      "desc": "Small skewers of meat from the town of Söke, named in food guides as the town's signature dish alongside its tahinli pide.",
+      "kw": [
+        "çöp şiş",
+        "söke"
+      ]
+    },
+    {
+      "id": "aydin-keskek",
+      "name": "Aydın keşkek",
+      "local": "Keşkek",
+      "icon": "🍚",
+      "desc": "Wheat and chicken or lamb cooked with butter and topped with butter and red pepper sauce. Served at weddings and circumcision celebrations.",
+      "kw": [
+        "keşkek"
+      ]
+    }
+  ]
+}

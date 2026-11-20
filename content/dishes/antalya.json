@@ -1,0 +1,49 @@
+{
+  "region": "antalya",
+  "dishes": [
+    {
+      "id": "antalya-piyaz",
+      "name": "Antalya piyazı",
+      "local": "",
+      "icon": "🫘",
+      "desc": "White beans in a thick tahini, garlic and lemon dressing with egg and onion. It is a main dish here, not a side salad, and carries a geographical indication.",
+      "kw": [
+        "piyaz",
+        "antalya piyazı"
+      ]
+    },
+    {
+      "id": "antalya-sis-kofte",
+      "name": "Antalya şiş köfte",
+      "local": "Şiş köfte",
+      "icon": "🍢",
+      "desc": "Lamb-heavy minced meat pressed onto skewers and grilled. In Antalya it is the standard partner of tahini piyaz, eaten with flatbread.",
+      "kw": [
+        "şiş köfte",
+        "sis kofte"
+      ]
+    },
+    {
+      "id": "antalya-hibes",
+      "name": "Hibeş",
+      "local": "",
+      "icon": "🥣",
+      "desc": "A thick tahini, garlic and lemon spread served as a meze or dip, closely tied to Antalya's tahini cooking. Scoop it up with bread alongside piyaz.",
+      "kw": [
+        "hibeş",
+        "hibes"
+      ]
+    },
+    {
+      "id": "antalya-alanya-tava",
+      "name": "Alanya tava",
+      "local": "",
+      "icon": "🍲",
+      "desc": "Lamb cooked with tomatoes, peppers and garlic in a pan or clay dish until thick and savoury. A home-style dish of the Alanya coast.",
+      "kw": [
+        "alanya tava",
+        "tava"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "region": "mugla",
+  "dishes": [
+    {
+      "id": "mugla-cokertme",
+      "name": "Çökertme kebabı",
+      "local": "",
+      "icon": "🥩",
+      "desc": "Thin strips of veal on a bed of fried potato matchsticks and yogurt, finished with butter. A signature of the Bodrum area.",
+      "kw": [
+        "çökertme",
+        "cokertme"
+      ]
+    },
+    {
+      "id": "mugla-bodrum-mantisi",
+      "name": "Bodrum mantısı",
+      "local": "",
+      "icon": "🥟",
+      "desc": "Tiny dumplings steamed or baked, served with garlic yogurt and tomato butter. The best-known home dish of Bodrum.",
+      "kw": [
+        "bodrum mantısı",
+        "mantı"
+      ]
+    },
+    {
+      "id": "mugla-sundurme",
+      "name": "Sündürme",
+      "local": "",
+      "icon": "🥙",
+      "desc": "Stretched, thin dough cooked on a griddle and filled with meat or cheese, then rolled. A traditional Muğla village dish.",
+      "kw": [
+        "sündürme",
+        "sundurme"
+      ]
+    },
+    {
+      "id": "mugla-mugla-koftesi",
+      "name": "Muğla köftesi",
+      "local": "",
+      "icon": "🧆",
+      "desc": "Grilled meatballs with a geographical indication, seasoned simply and served with bread and salad. Milas and Muğla town are the home of this style.",
+      "kw": [
+        "muğla köftesi",
+        "milas köftesi"
+      ]
+    },
+    {
+      "id": "mugla-ciris-otu",
+      "name": "Çiriş otu yemeği",
+      "local": "",
+      "icon": "🌿",
+      "desc": "A wild herb of the Fethiye hills cooked with olive oil and onion, or in an egg dish. Typical of the Aegean herb tradition of the Muğla coast.",
+      "kw": [
+        "çiriş otu",
+        "ciris"
+      ]
+    }
+  ]
+}

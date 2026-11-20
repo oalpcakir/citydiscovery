@@ -1,0 +1,60 @@
+{
+  "region": "kars",
+  "dishes": [
+    {
+      "id": "kars-kaz",
+      "name": "Kars goose",
+      "local": "Kars kazı",
+      "icon": "🦆",
+      "desc": "Goose is the famous meat of Kars, often cooked in a tandır oven and eaten through the cold winter months, sometimes over pilaf.",
+      "kw": [
+        "kaz",
+        "goose"
+      ]
+    },
+    {
+      "id": "kars-kasar",
+      "name": "Kars kaşarı",
+      "local": "Kars kaşarı",
+      "icon": "🧀",
+      "desc": "A large wheel cheese cut into wedges like a cake, eaten at breakfast and through the day. One of the region's best-known products alongside its honey.",
+      "kw": [
+        "kaşar",
+        "kasar",
+        "cheese"
+      ]
+    },
+    {
+      "id": "kars-hangel",
+      "name": "Hangel",
+      "local": "Hangel",
+      "icon": "🍝",
+      "desc": "Thin pieces of dough boiled in water and served with yogurt and a fried onion topping. A traditional Kars home dish.",
+      "kw": [
+        "hangel",
+        "hengel"
+      ]
+    },
+    {
+      "id": "kars-kete",
+      "name": "Kars kete",
+      "local": "Kars ketesi",
+      "icon": "🥐",
+      "desc": "A flatbread-style pastry made with butter, eaten morning and evening and especially good with tea.",
+      "kw": [
+        "kete"
+      ]
+    },
+    {
+      "id": "kars-hasil",
+      "name": "Haşıl",
+      "local": "Haşıl",
+      "icon": "🍲",
+      "desc": "A winter dish of specially prepared wheat cooked in water and served with butter and garlic yogurt.",
+      "kw": [
+        "haşıl",
+        "hasil"
+      ]
+    }
+  ]
+}

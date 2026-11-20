@@ -1,0 +1,58 @@
+{
+  "region": "bourges",
+  "dishes": [
+    {
+      "id": "bourges-pate-berrichon",
+      "name": "Pâté berrichon",
+      "local": "Pâté de Pâques",
+      "icon": "🥧",
+      "desc": "A pie of seasoned pork and veal in golden pastry, with whole hard-boiled eggs inside. Originally an Easter dish, now eaten year-round across the Berry.",
+      "kw": [
+        "pâté berrichon",
+        "pâté de pâques"
+      ]
+    },
+    {
+      "id": "bourges-coq-en-barbouille",
+      "name": "Coq en barbouille",
+      "local": "Poulet en barbouille",
+      "icon": "🍗",
+      "desc": "Chicken braised with red wine, brandy and onions, then finished with a sauce thickened with the bird's blood and cream. A classic Berry dish.",
+      "kw": [
+        "barbouille"
+      ]
+    },
+    {
+      "id": "bourges-crottin-de-chavignol",
+      "name": "Crottin de Chavignol",
+      "local": "",
+      "icon": "🧀",
+      "desc": "A small goat cheese from the Sancerre hills in the Cher, creamy and mild when young, hard and sharp when aged. Often baked on salad.",
+      "kw": [
+        "crottin",
+        "chavignol"
+      ]
+    },
+    {
+      "id": "bourges-lentilles-du-berry",
+      "name": "Berry green lentils",
+      "local": "Lentilles vertes du Berry",
+      "icon": "🫘",
+      "desc": "Small dark green lentils with protected geographical status, nutty and firm. Grown in the Berry and served with salt pork or in soups.",
+      "kw": [
+        "lentilles",
+        "lentil"
+      ]
+    },
+    {
+      "id": "bourges-forestines",
+      "name": "Forestines",
+      "local": "Forestines de Bourges",
+      "icon": "🍬",
+      "desc": "Hazelnut praline sweets in a crisp sugar shell, created in Bourges in 1879 by confectioner Georges Forest. Still made in the town.",
+      "kw": [
+        "forestine"
+      ]
+    }
+  ]
+}

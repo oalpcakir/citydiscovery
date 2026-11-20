@@ -1,0 +1,66 @@
+{
+  "region": "rodez",
+  "dishes": [
+    {
+      "id": "rodez-aligot",
+      "name": "Aligot",
+      "local": "",
+      "icon": "🧀",
+      "desc": "Mashed potato whipped with fresh Laguiole tomme, butter and garlic until it stretches in ribbons. The best-known Aveyron dish, served on the Aubrac plateau and in Rodez.",
+      "kw": [
+        "aligot"
+      ]
+    },
+    {
+      "id": "rodez-farcous",
+      "name": "Farçous",
+      "local": "",
+      "icon": "🥞",
+      "desc": "Fried savoury fritters of chard, herbs and sometimes pork, a traditional Aveyron farm dish. Sold in bakeries and markets around Rodez.",
+      "kw": [
+        "farçous",
+        "farcous"
+      ]
+    },
+    {
+      "id": "rodez-tripoux",
+      "name": "Tripoux",
+      "local": "",
+      "icon": "🍲",
+      "desc": "Small parcels of sheep tripe and feet, stuffed and simmered in white wine and tomato. A rustic Aveyron speciality served in local restaurants.",
+      "kw": [
+        "tripoux"
+      ]
+    },
+    {
+      "id": "rodez-fouace",
+      "name": "Fouace",
+      "local": "Fouace de l'Aveyron",
+      "icon": "🥐",
+      "desc": "Orange-blossom brioche shaped as a crown, traditional in Aveyron bakeries. Eaten at celebrations and as an everyday pastry.",
+      "kw": [
+        "fouace"
+      ]
+    },
+    {
+      "id": "rodez-estofinado",
+      "name": "Estofinado",
+      "local": "",
+      "icon": "🐟",
+      "desc": "Dried cod mashed with potato, cream, garlic and walnut oil. A dish of Rodez and the Aveyron valleys, found in traditional restaurants.",
+      "kw": [
+        "estofinado"
+      ]
+    },
+    {
+      "id": "rodez-roquefort",
+      "name": "Roquefort",
+      "local": "",
+      "icon": "🧀",
+      "desc": "Blue ewe's-milk cheese ripened in the natural caves of Roquefort-sur-Soulzon in south Aveyron. A regional cheese found on every local cheese board.",
+      "kw": [
+        "roquefort"
+      ]
+    }
+  ]
+}

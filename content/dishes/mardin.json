@@ -1,0 +1,58 @@
+{
+  "region": "mardin",
+  "dishes": [
+    {
+      "id": "mardin-kaburga",
+      "name": "Mardin kaburga dolması",
+      "local": "Kaburga dolması",
+      "icon": "🍖",
+      "desc": "Lamb ribs stuffed with spiced rice, minced meat and nuts, then slow-cooked for hours. A protected-origin dish and the centrepiece of Mardin celebration tables.",
+      "kw": [
+        "kaburga dolması",
+        "kaburga"
+      ]
+    },
+    {
+      "id": "mardin-kibe",
+      "name": "Mardin kibe",
+      "local": "Kibe",
+      "icon": "🥟",
+      "desc": "Bulgur shell stuffed with spiced minced meat and onion, fried or boiled; the city also does a tripe-wrapped version. A core dish of Mardin's Syriac and Arab kitchens.",
+      "kw": [
+        "kibe",
+        "içli köfte"
+      ]
+    },
+    {
+      "id": "mardin-ikbebet",
+      "name": "İkbebet",
+      "local": "",
+      "icon": "🥗",
+      "desc": "Layers of boiled bulgur and ground meat mixed with pomegranate or sumac-style tang and herbs, served cool. A protected Mardin speciality.",
+      "kw": [
+        "ikbebet"
+      ]
+    },
+    {
+      "id": "mardin-sembusek",
+      "name": "Sembusek",
+      "local": "",
+      "icon": "🥟",
+      "desc": "Crescent-shaped pastry filled with minced meat and onion, fried or baked. Part of Mardin's Syriac food tradition and a protected-origin product.",
+      "kw": [
+        "sembusek"
+      ]
+    },
+    {
+      "id": "mardin-badem-sekeri",
+      "name": "Mardin almond candy",
+      "local": "Mardin badem şekeri",
+      "icon": "🍬",
+      "desc": "Small pale sweets made from ground almonds and sugar. Mardin is known for it and shops in the old town sell it by weight.",
+      "kw": [
+        "badem şekeri",
+        "almond"
+      ]
+    }
+  ]
+}

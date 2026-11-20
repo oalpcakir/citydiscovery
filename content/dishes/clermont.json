@@ -1,0 +1,58 @@
+{
+  "region": "clermont",
+  "dishes": [
+    {
+      "id": "clermont-truffade",
+      "name": "Truffade",
+      "local": "",
+      "icon": "🥔",
+      "desc": "Sliced potatoes cooked with garlic and fresh tomme cheese until stringy, served with local ham and salad. The emblematic dish of Auvergne.",
+      "kw": [
+        "truffade"
+      ]
+    },
+    {
+      "id": "clermont-pounti",
+      "name": "Pounti",
+      "local": "",
+      "icon": "🥧",
+      "desc": "Savoury cake of eggs, flour, milk, bacon, chard and prunes, eaten hot or cold. A traditional peasant dish of Auvergne.",
+      "kw": [
+        "pounti"
+      ]
+    },
+    {
+      "id": "clermont-saint-nectaire",
+      "name": "Saint-Nectaire",
+      "local": "",
+      "icon": "🧀",
+      "desc": "Mild, fairly flavourful cow's milk cheese of the Auvergne volcanoes, served at home and in restaurants.",
+      "kw": [
+        "saint-nectaire"
+      ]
+    },
+    {
+      "id": "clermont-pate-de-fruits",
+      "name": "Auvergne pâtes de fruits",
+      "local": "Pâtes de fruits",
+      "icon": "🍬",
+      "desc": "Fruit jellies of apricot, apple, quince or plum, cooked, dried and rolled in sugar. An Auvergne tradition with a confectioner near Clermont-Ferrand.",
+      "kw": [
+        "pâtes de fruits",
+        "pate de fruits",
+        "fruit jellies"
+      ]
+    },
+    {
+      "id": "clermont-pompe-aux-pommes",
+      "name": "Pompe aux pommes",
+      "local": "",
+      "icon": "🥧",
+      "desc": "Rectangular apple tart with well-cooked pieces of apple, often served with vanilla ice cream. A regional bakery sweet of Auvergne.",
+      "kw": [
+        "pompe aux pommes",
+        "pompe"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "region": "metz",
+  "dishes": [
+    {
+      "id": "metz-quiche-lorraine",
+      "name": "Quiche Lorraine",
+      "local": "",
+      "icon": "🥧",
+      "desc": "Shortcrust tart filled with eggs, crème fraîche and smoked bacon, with no cheese in the traditional version. The Moselle's classic dish, dating back to the 16th century.",
+      "kw": [
+        "quiche lorraine",
+        "quiche"
+      ]
+    },
+    {
+      "id": "metz-mirabelle-tart",
+      "name": "Mirabelle tart",
+      "local": "Tarte aux mirabelles",
+      "icon": "🥧",
+      "desc": "Small golden mirabelle plums baked whole on a short pastry base. Lorraine grows most of the world's mirabelles, and the tart is eaten mainly in late summer.",
+      "kw": [
+        "mirabelle",
+        "tarte aux mirabelles"
+      ]
+    },
+    {
+      "id": "metz-boulay-macarons",
+      "name": "Macarons de Boulay",
+      "local": "",
+      "icon": "🍪",
+      "desc": "Chewy almond macarons of egg white, almond powder and sugar, made to the same recipe in the Moselle town of Boulay since 1854. About 30 minutes from Metz.",
+      "kw": [
+        "macaron",
+        "boulay"
+      ]
+    },
+    {
+      "id": "metz-madeleine-commercy",
+      "name": "Madeleine de Commercy",
+      "local": "",
+      "icon": "🧁",
+      "desc": "Small shell-shaped butter sponge cake from Commercy in the Meuse, said to have been improvised by a servant for Duke Stanislas. Sold as a Lorraine take-home treat.",
+      "kw": [
+        "madeleine",
+        "commercy"
+      ]
+    },
+    {
+      "id": "metz-potee-lorraine",
+      "name": "Potée lorraine",
+      "local": "",
+      "icon": "🥘",
+      "desc": "Winter pot of cabbage, carrots, potatoes, smoked sausages and pork shank simmered together. A hearty Lorraine farmhouse dish found on traditional menus.",
+      "kw": [
+        "potée lorraine",
+        "potée"
+      ]
+    }
+  ]
+}

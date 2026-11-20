@@ -1,0 +1,59 @@
+{
+  "region": "diyarbakir",
+  "dishes": [
+    {
+      "id": "diyarbakir-ciger",
+      "name": "Diyarbakır liver kebab",
+      "local": "Ciğer kebabı",
+      "icon": "🍢",
+      "desc": "Lamb liver cut into small pieces and grilled on skewers, often eaten at breakfast with bread, onion and sumac. It has protected geographical status here.",
+      "kw": [
+        "ciğer kebabı",
+        "ciğer",
+        "cartlak"
+      ]
+    },
+    {
+      "id": "diyarbakir-mumbar",
+      "name": "Mumbar dolması",
+      "local": "",
+      "icon": "🥘",
+      "desc": "Sheep intestine stuffed with rice, minced meat and spices, then boiled and fried. A famously Diyarbakır dish sold in many local restaurants.",
+      "kw": [
+        "mumbar"
+      ]
+    },
+    {
+      "id": "diyarbakir-meftune",
+      "name": "Meftune",
+      "local": "",
+      "icon": "🍲",
+      "desc": "Slow-cooked lamb with seasonal vegetables in a sweet-and-sour sauce, with a touch of dried fruit. A traditional Diyarbakır home dish.",
+      "kw": [
+        "meftune"
+      ]
+    },
+    {
+      "id": "diyarbakir-duvakli-pilav",
+      "name": "Duvaklı pilav",
+      "local": "",
+      "icon": "🍚",
+      "desc": "Spiced rice with meat, topped with a pastry lid that is lifted at the table like a veil. A festive dish served in Diyarbakır restaurants.",
+      "kw": [
+        "duvaklı pilav"
+      ]
+    },
+    {
+      "id": "diyarbakir-burma-kadayif",
+      "name": "Burma kadayıf",
+      "local": "",
+      "icon": "🍯",
+      "desc": "Rolled shredded pastry with pistachio or walnut in syrup, a staple of Diyarbakır sweet shops. The city also serves Nuriye, a similar pastry.",
+      "kw": [
+        "burma kadayıf",
+        "kadayıf",
+        "nuriye"
+      ]
+    }
+  ]
+}

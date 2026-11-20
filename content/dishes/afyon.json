@@ -1,0 +1,58 @@
+{
+  "region": "afyon",
+  "dishes": [
+    {
+      "id": "afyon-ekmek-kadayifi",
+      "name": "Afyon ekmek kadayıfı",
+      "local": "Kaymaklı ekmek kadayıfı",
+      "icon": "🍮",
+      "desc": "Soft bread dessert soaked in syrup and served under a thick spoon of Afyon kaymak. It is geographically registered and counted among the city's best-known sweets.",
+      "kw": [
+        "ekmek kadayıfı",
+        "kaymak"
+      ]
+    },
+    {
+      "id": "afyon-sucuk",
+      "name": "Afyon sucuk",
+      "local": "Afyon sucuğu",
+      "icon": "🌭",
+      "desc": "Spiced beef sausage with a geographical indication, eaten at breakfast, with eggs or in pide. Afyon is one of Türkiye's best-known sucuk towns.",
+      "kw": [
+        "sucuk"
+      ]
+    },
+    {
+      "id": "afyon-hashasli-bukme",
+      "name": "Poppy seed bükme",
+      "local": "Haşhaşlı bükme",
+      "icon": "🥧",
+      "desc": "Layered pastry rolled with poppy seeds, traditionally with a lentil filling, crisp outside and filling inside. Poppy seeds are what set it apart from ordinary börek in Afyon.",
+      "kw": [
+        "bükme",
+        "haşhaş"
+      ]
+    },
+    {
+      "id": "afyon-ilibada",
+      "name": "İlibada dolması",
+      "local": "",
+      "icon": "🥬",
+      "desc": "Leaves of the local ilibada herb wrapped around a filling and cooked slowly in a pot. A regional herb dish found on Afyon family tables.",
+      "kw": [
+        "ilibada"
+      ]
+    },
+    {
+      "id": "afyon-suhut-keskegi",
+      "name": "Şuhut keşkek",
+      "local": "Şuhut keşkeği",
+      "icon": "🍲",
+      "desc": "Göce wheat, chickpeas and meat cooked for hours in an earthen pot, sometimes served with kaymak and a sauce. Named after Şuhut, a district of Afyon.",
+      "kw": [
+        "keşkek",
+        "şuhut"
+      ]
+    }
+  ]
+}

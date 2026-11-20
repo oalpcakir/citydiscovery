@@ -2,6 +2,7 @@
 // The app moves saved progress and photos along on start.
 window.MOVED = {
 "ankara/ilgazhike": "safranbolu/ilgazhike",
+"ankara/sariyardam": "eskisehir/sariyardam",
 "antwerpen/aldeneyck": "hasselt/aldeneyck",
 "antwerpen/antiekmarkttongeren": "hasselt/antiekmarkttongeren",
 "antwerpen/apotheekmaaseik": "hasselt/apotheekmaaseik",

@@ -1,0 +1,8 @@
+{"picks": ["lemanscircuittour","lemanscathedral","solesmesabbey","haraspin","ludecastle"],
+ "cards": {
+ "lemanscircuittour": {"name": "Circuit de la Sarthe", "art": "park", "slogan": "Where the whole world stays up all night for one race.", "line": "The first 24 Hours of Le Mans ran on 26-27 May 1923 with 33 cars, only three of them from outside France.", "source": "https://www.the-race.com/wec-le-mans/le-mans-24-hours-origins-first-race-1923/"},
+ "lemanscathedral": {"name": "Le Mans Cathedral", "art": "church", "slogan": "Twelfth-century glass glowing above a Gothic choir.", "line": "Its Gothic choir, with largely intact 13th-century glass, was consecrated in 1254.", "source": "https://en.wikipedia.org/wiki/Le_Mans_Cathedral"},
+ "solesmesabbey": {"name": "Solesmes Abbey", "art": "church", "slogan": "Gregorian chant rising over the banks of the Sarthe.", "line": "Dom Prosper Guéranger refounded Benedictine life here in 1833 and became its first abbot in 1837.", "source": "https://en.wikipedia.org/wiki/Solesmes_Abbey"},
+ "haraspin": {"name": "Haras national du Pin", "art": "palace", "slogan": "A royal stud with horses in the stables of a palace.", "line": "Designed by Robert de Cotte, architect of the Versailles stables, it was built from 1715 to 1730 and nicknamed the Versailles of the horse.", "source": "https://en.wikipedia.org/wiki/Haras_national_du_Pin"},
+ "ludecastle": {"name": "Château du Lude", "art": "castle", "slogan": "Four centuries of facades along the banks of the Loir.", "line": "Medieval towers, a Renaissance wing, a Louis XVI wing and 19th-century neo-Gothic work share one château.", "source": "https://en.wikipedia.org/wiki/Ch%C3%A2teau_du_Lude"}
+ }}

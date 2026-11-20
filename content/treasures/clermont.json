@@ -1,0 +1,46 @@
+{
+ "picks": [
+  "panoramiquedesdomes",
+  "clermontcathedral",
+  "ndportclermont",
+  "vulcaniapark",
+  "michelinadventure"
+ ],
+ "cards": {
+  "clermontcathedral": {
+   "name": "Clermont Cathedral",
+   "art": "church",
+   "slogan": "A cathedral cut from the black lava of the volcanoes next door.",
+   "line": "Built of dark Volvic lava stone, its west facade and twin spires were only completed in 1884, designed in Viollet-le-Duc's circle.",
+   "source": "https://en.wikipedia.org/wiki/Clermont-Ferrand_Cathedral"
+  },
+  "panoramiquedesdomes": {
+   "name": "Puy de Dome",
+   "art": "park",
+   "slogan": "Ride a cog train to the summit of the Chaine des Puys.",
+   "line": "At 1,465 metres, the Puy de Dome has been reachable by the Panoramique des Domes rack railway since May 2012.",
+   "source": "https://en.wikipedia.org/wiki/Puy_de_D%C3%B4me"
+  },
+  "ndportclermont": {
+   "name": "Notre-Dame-du-Port",
+   "art": "church",
+   "slogan": "Auvergne Romanesque at its calmest, with pilgrims' footsteps worn in.",
+   "line": "This 12th-century basilica joined the UNESCO list on 2 December 1998 as part of the Routes of Santiago de Compostela in France.",
+   "source": "https://en.wikipedia.org/wiki/Basilica_of_Notre-Dame_du_Port"
+  },
+  "vulcaniapark": {
+   "name": "Vulcania",
+   "art": "park",
+   "slogan": "Walk down inside a volcano without the lava.",
+   "line": "Designed by Austrian architect Hans Hollein with Atelier 4 and opened in 2002, much of Vulcania is buried underground like a mound.",
+   "source": "https://hollein.com/eng/Architecture/Nations/France/Vulcania"
+  },
+  "michelinadventure": {
+   "name": "L'Aventure Michelin",
+   "art": "museum",
+   "slogan": "Bibendum's home town, tyre by tyre and star by star.",
+   "line": "The Michelin company museum opened beside the Clermont-Ferrand factory on 23 January 2009 and has passed one million visitors.",
+   "source": "https://en.wikipedia.org/wiki/L%27Aventure_Michelin"
+  }
+ }
+}

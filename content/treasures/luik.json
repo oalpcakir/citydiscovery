@@ -1,0 +1,46 @@
+{
+ "picks": [
+  "guillemins",
+  "bueren",
+  "perron",
+  "spa",
+  "grandcurtius"
+ ],
+ "cards": {
+  "guillemins": {
+   "name": "Liège-Guillemins Station",
+   "art": "skyline",
+   "slogan": "A white steel wave over the tracks.",
+   "line": "Santiago Calatrava's station opened in 2009 under a glass-and-steel arch 160 metres long and 32 metres high.",
+   "source": "https://en.wikipedia.org/wiki/Li%C3%A8ge-Guillemins_railway_station"
+  },
+  "bueren": {
+   "name": "Montagne de Bueren",
+   "art": "castle",
+   "slogan": "374 steps up to the best view over the Meuse.",
+   "line": "Built in 1881, the stairway honours 600 soldiers who died defending Liège against Charles the Bold's Burgundians.",
+   "source": "https://en.wikipedia.org/wiki/Montagne_de_Bueren"
+  },
+  "perron": {
+   "name": "Le Perron",
+   "art": "tower",
+   "slogan": "The column Liège never stopped believing in.",
+   "line": "After the 1468 uprising Charles the Bold had the Perron carried off to Bruges; it came back about ten years later.",
+   "source": "https://en.wikipedia.org/wiki/Perron_of_Li%C3%A8ge"
+  },
+  "spa": {
+   "name": "Spa",
+   "art": "park",
+   "slogan": "Where every bathhouse in the world got its name.",
+   "line": "Spa has more than 300 cold mineral springs, and its pouhon waters are far older than the rain that feeds the lighter ones.",
+   "source": "https://en.wikipedia.org/wiki/Spa,_Belgium"
+  },
+  "grandcurtius": {
+   "name": "Grand Curtius",
+   "art": "museum",
+   "slogan": "An arms dealer's red-brick palace full of Liège's treasures.",
+   "line": "Its core is the mansion built around 1600 for Jean Curtius, who grew rich supplying gunpowder to Spain's armies.",
+   "source": "https://en.wikipedia.org/wiki/Grand_Curtius"
+  }
+ }
+}

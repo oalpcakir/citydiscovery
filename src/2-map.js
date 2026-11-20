@@ -202,7 +202,7 @@
     ["Austria", 47.6, 14.1], ["Czechia", 49.8, 15.4], ["Poland", 52.1, 19.4], ["Norway", 61.5, 9.0], ["Finland", 63.0, 26.0], ["Hungary", 47.2, 19.4],
     ["Croatia", 45.3, 15.9], ["Slovenia", 46.1, 14.8], ["Slovakia", 48.7, 19.6], ["Greece", 39.3, 22.0], ["Iceland", 64.9, -18.6], ["Estonia", 58.7, 25.5],
     ["Latvia", 56.9, 24.6], ["Lithuania", 55.3, 23.9], ["Romania", 45.9, 24.9], ["Bulgaria", 42.7, 25.3], ["Serbia", 44.1, 20.8], ["Bosnia and Herzegovina", 44.2, 17.8],
-    ["Albania", 41.1, 20.0], ["North Macedonia", 41.6, 21.7], ["Montenegro", 42.8, 19.3], ["Ukraine", 49.0, 31.4], ["Moldova", 47.2, 28.5], ["Cyprus", 35.0, 33.2],
+    ["Albania", 41.1, 20.0], ["North Macedonia", 41.6, 21.7], ["Montenegro", 42.8, 19.3], ["Ukraine", 49.0, 31.4], ["Moldova", 47.2, 28.5],
     ["Malta", 35.9, 14.4], ["Georgia", 42.3, 43.4], ["Morocco", 31.8, -7.1], ["Egypt", 26.8, 30.8], ["United States", 39.8, -98.6], ["Canada", 56.1, -106.3],
     ["Mexico", 23.6, -102.5], ["Brazil", -10.3, -53.2], ["Argentina", -35.4, -65.2], ["Japan", 36.2, 138.3], ["South Korea", 36.4, 127.8], ["China", 35.9, 104.2],
     ["India", 22.4, 79.0], ["Thailand", 15.1, 101.0], ["Australia", -25.3, 133.8], ["New Zealand", -41.5, 172.8], ["South Africa", -29.0, 24.7]];

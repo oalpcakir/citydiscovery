@@ -1,0 +1,735 @@
+{
+ "new": [
+  {
+   "id": "anicathedral",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Stand beneath the Cathedral of Ani",
+   "desc": "The Ani Cathedral (later the Fethiye Mosque) was designed by the architect Trdat and completed in 1001 under King Gagik I of the Bagratid dynasty. After the Seljuk conquest of 1064 it served as a mosque, and its tall basalt walls remain the centrepiece of the UNESCO-listed ruined capital.",
+   "tip": "Ani is open daily and is covered by the Müze Kart; allow at least half a day and carry water, since there is little shade and no shop inside. Visit early or late for the best light.",
+   "q": "Ani Katedrali, Ocaklı Köyü, Ani Örenyeri, Merkez, Kars",
+   "ll": [
+    40.50621,
+    43.57297
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Cathedral_of_Ani",
+    "https://goturkiye.com/kars/see"
+   ]
+  },
+  {
+   "id": "anitigran",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the frescoes of St Gregory of Tigran Honents",
+   "desc": "This church was built in 1215 for the merchant Tigran Honents and is the best-preserved building at Ani. Its interior carries fresco scenes from the life of St Gregory the Illuminator and the Gospels, partly vandalised but still vivid.",
+   "tip": "It sits on the cliff edge above the Arpaçay gorge at the north end of the site, a long walk from the entrance, so go there first or last.",
+   "q": "Tigran Honents Kilisesi, Ani Örenyeri, Ocaklı Köyü, Merkez, Kars",
+   "ll": [
+    40.50597,
+    43.57871
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/turkey/ani/attractions/tigran-honents-church/a/poi-sig/1006606/1004553",
+    "https://sites.courtauld.ac.uk/crossingfrontiers/?p=1911"
+   ]
+  },
+  {
+   "id": "animenucehr",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Look over the border from the Menüçehr Mosque",
+   "desc": "The Ebul Menuçehr (Manuchihr) Mosque was built in 1072 after the Seljuk takeover of Ani and is regarded as the first Turkish mosque in Anatolia. Armenian craftsmen worked on it, which explains its blend of Seljuk geometry and local basalt masonry, and it overlooks the Arpaçay valley and the Armenian frontier.",
+   "tip": "Walk the cliff-top path beside it for views over the border river into Armenia. Photography of border installations is restricted; follow the signs.",
+   "q": "Ebul Menuçehr Camii, Ani Örenyeri, Ocaklı Köyü, Merkez, Kars",
+   "ll": [
+    40.5054,
+    43.56996
+   ],
+   "src": [
+    "https://goturkiye.com/kars/see",
+    "https://sites.courtauld.ac.uk/crossingfrontiers/?p=229"
+   ]
+  },
+  {
+   "id": "aniredeemer",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Photograph the lightning-split Church of the Redeemer",
+   "desc": "The Church of the Holy Redeemer (Surp Prkich) was built around 1034-36 and survived until a lightning strike in the 1930s split its dome and brought half the walls down. The surviving half-drum is one of the most iconic ruins in Ani.",
+   "tip": "It lies on the ridge above the gorge, a short walk from the cathedral. The cross-section is best photographed from the south with morning light behind you.",
+   "q": "Kurtarıcı Kilisesi, Ani Örenyeri, Ocaklı Köyü, Merkez, Kars",
+   "ll": [
+    40.50723,
+    43.57669
+   ],
+   "src": [
+    "https://commons.wikimedia.org/wiki/Category:Church_of_the_Holy_Redeemer,_Ani",
+    "https://www.wmf.org/node/13664"
+   ]
+  },
+  {
+   "id": "karskalesi",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Walk up to Kars Castle above the old town",
+   "desc": "Kars Castle is a basalt fortress rebuilt in 1153 under Sultan Melik Izzeddin Saltuk and again in 1579 by Lala Mustafa Pasha after Timur had destroyed it in 1386. The inner castle is about 250 m long, and the walls are floodlit at night.",
+   "tip": "Entry is free and the view over Kars, the stone bridge and the Baltic-style grid is best at sunset. Combine it with the Kümbet Mosque and Taşköprü just below.",
+   "q": "Kars Kalesi, Kaleiçi Mahallesi, Merkez, Kars",
+   "ll": [
+    40.61361,
+    43.08972
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Kars_Castle"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "karskumbet",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Church of the Apostles at Kümbet Camii",
+   "desc": "The Kümbet Mosque is the former Church of the Holy Apostles, built around 930-937 under the Bagratuni king Abas. Twelve carved apostle figures decorate the drum; the building became a mosque in 1579 and housed the first Kars museum from 1963.",
+   "tip": "The twelve reliefs on the drum are best seen from outside in morning light. It is on the way up to the castle, beside the Evliya shrine.",
+   "q": "Kümbet Camii (Havariler Kilisesi), Kaleiçi Mahallesi, Merkez, Kars",
+   "ll": [
+    40.61131,
+    43.09149
+   ],
+   "src": [
+    "https://www.britannica.com/topic/Kumbet-Camii",
+    "https://en.wikipedia.org/wiki/Kars_Museum"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "karstaskopru",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Cross the Ottoman Taşköprü over the Kars River",
+   "desc": "This three-arched basalt bridge, about 53 m long, was built in 1579 by Lala Mustafa Pasha and rebuilt in 1719 after a flood. Highway engineers restored it in 2013; it links the old Kaleiçi quarter with the castle road.",
+   "tip": "Walk it at dusk when the castle is floodlit. The old Ottoman bath stands just along the stream.",
+   "q": "III. Murat Köprüsü (Taşköprü), Kaleiçi, Merkez, Kars",
+   "ll": [
+    40.61174,
+    43.08879
+   ],
+   "src": [
+    "https://commons.wikimedia.org/wiki/Category:III._Murat_Bridge",
+    "https://en.wikipedia.org/wiki/Stone_Bridge_(Kars)"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "karsmazlumaga",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Peek into the Mazlum Ağa Hamam where Pushkin bathed",
+   "desc": "Mazlum Ağa Hamam is a rectangular 18th-century basalt Ottoman bath below Kars Castle. The Russian poet Alexander Pushkin is said to have bathed here in 1829 during the Russian campaign, and the Kars governorship restored it from 2017.",
+   "tip": "It is often locked, so ask locally about opening; otherwise the exterior and its setting beside the stream are worth a look.",
+   "q": "Mazlum Ağa Hamamı, Kaleiçi Mahallesi, Merkez, Kars",
+   "ll": [
+    40.6113,
+    43.0884
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/turkey/kars/attractions/mazlum-aga-hamam/a/poi-sig/1286125/360907",
+    "https://www.dailysabah.com/travel/2017/10/10/hamam-where-pushkin-bathed-to-open-for-tourism"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "karsfethiye",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "See the Russian cathedral turned Fethiye Mosque",
+   "desc": "The Fethiye Camii began as the Orthodox Alexander Nevsky Cathedral, built in the Baltic style during Russian rule (1878-1918), and became a mosque in 1985 when minarets were added. It stands in Ortakapı in the middle of Kars's grid of basalt Baltic buildings.",
+   "tip": "Visitors can enter outside prayer times, modestly dressed. The surrounding Yusufpaşa and Ortakapı streets are lined with Baltic-era basalt houses.",
+   "q": "Fethiye Camii, Ortakapı Mahallesi, Merkez, Kars",
+   "ll": [
+    40.601,
+    43.09931
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/turkey/kars/attractions/fethiye-camii/a/poi-sig/1263969/360907",
+    "https://www.hurriyetdailynews.com/amp/kars-stands-out-with-baltic-architectural-heritage-214893"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "karsmuseum",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Browse Bronze Age to Ottoman finds at Kars Museum",
+   "desc": "The Kars Museum holds archaeology from the Bronze Age onward, finds from Ani, and an ethnography annex. The collection moved to this newer building northeast of town after the original museum in the Kümbet Mosque closed.",
+   "tip": "Allow about an hour; the Ani finds give good context before or after a visit to the ruins. Usually closed on Mondays.",
+   "q": "Kars Müzesi, Gazi Ahmet Muhtar Paşa Caddesi, Merkez, Kars",
+   "ll": [
+    40.61335,
+    43.11011
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Kars_Museum",
+    "https://www.lonelyplanet.com/turkey/kars/attractions/kars-museum/a/poi-sig/474416/360907"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "karskafkas",
+   "cat": "gor",
+   "area": "merkez",
+   "title": "Step into the Caucasus Front War History Museum",
+   "desc": "This museum occupies the heavy arches of an 1803 bastion, one of the surviving sections of the old Kars ramparts. It tells the story of the Caucasus Front from the Russo-Turkish wars to 1918 through dioramas and period objects.",
+   "tip": "The vaulted bastion setting is as interesting as the displays. Check opening hours locally.",
+   "q": "Kafkas Cephesi Harp Tarihi Müzesi, Kanlı Tabya, Merkez, Kars",
+   "ll": [
+    40.59098,
+    43.09583
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/points-of-interest/kafkaz-cephesi-harp-tarihi-muzesi/1630867",
+    "https://www.gazetevatan.com/galeri/tarihin-en-zorlu-donemi-canlandirildi-karsta-ziyaretcileri-derinden-etkileyen-muze-2390090"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "katerina",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Find the Baltic-style Katerina lodge near Sarıkamış",
+   "desc": "Katerina Köşkü is an 1896 Baltic-style hunting lodge in the Sarıkamış pine forest, built for Russian imperial hunts. The Ministry of Culture and Tourism has announced plans to turn it into a hotel and restaurant.",
+   "tip": "It lies about 1 km from Sarıkamış on a forest road; confirm access locally, since restoration works have restricted entry at times.",
+   "q": "Katerina Köşkü, Sarıkamış, Kars",
+   "ll": [
+    40.3266,
+    42.57445
+   ],
+   "src": [
+    "https://www.haber7.com/guncel/haber/3133662-tarihi-katerina-kosku-otel-oluyor",
+    "https://goturkiye.com/kars/see"
+   ]
+  },
+  {
+   "id": "allahuekber",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Pay respects at the Allahuekber Mountains Martyrs Memorial",
+   "desc": "The memorial in the Sarıkamış-Allahuekber Mountains National Park commemorates the Ottoman Third Army soldiers who died in the freezing winter operation of 1914-15. It sits in snowy pine forest in the national park created in 2004.",
+   "tip": "Reached by road from Sarıkamış, it is most atmospheric under snow. Dress for deep cold.",
+   "q": "Allahuekber Dağı Şehitliği, Sarıkamış, Kars",
+   "ll": [
+    40.30202,
+    42.61446
+   ],
+   "src": [
+    "https://commons.wikimedia.org/wiki/Category:Sarıkamış-Allahuekber_Mountains_National_Park",
+    "https://en.wikipedia.org/wiki/Allahuekber_Mountains"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ardahankalesi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Walk the walls of Ardahan Castle above the Kura River",
+   "desc": "Ardahan Castle stands on the left bank of the Kura (Kür) River in the town centre and probably dates from the 12th century under the Seljuks. Suleiman I ordered renovations in the 16th century; Ottoman Turkish and Georgian inscriptions survive and there is a park inside.",
+   "tip": "Walk up near sunset for the river view. The small Mevlüt Efendi Mosque stands nearby.",
+   "q": "Ardahan Kalesi, Halilefendi Mahallesi, Merkez, Ardahan",
+   "ll": [
+    41.11808,
+    42.70371
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Ardahan_Castle",
+    "https://neredekal.com/ardahan-kalesi-gezilecek-yer-detay/"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "seytankalesi",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Hike up to Şeytan Kalesi in the Çıldır canyon",
+   "desc": "Şeytan Castle sits on a steep rocky hilltop 1.5 km northeast of Yıldırımtepe village, reachable from only one side. It is possibly Urartian in origin, and local legend says its defenders could never be overcome, hence the name.",
+   "tip": "Park beyond the village and walk 15-20 minutes on the footpath. The tracks are rough; go in dry weather.",
+   "q": "Şeytan Kalesi, Yıldırımtepe Köyü, Çıldır, Ardahan",
+   "ll": [
+    41.1541,
+    43.1313
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/%C5%9Eeytan_Castle",
+    "https://www.ntv.com.tr/seyahat/galeri-game-of-thrones-sahnesi-degil-ardahandaki-seytan-kalesi,Zp2-UVbJPk2PFaCW4Bx1ow"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ardahankongre",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Visit the Ardahan Congress and City Museum",
+   "desc": "The museum is housed in a stone building in the town centre and covers the 1919 Ardahan Congress of the National Struggle period and the city's history.",
+   "tip": "Closed on Mondays. A short visit, easily combined with the castle.",
+   "q": "Ardahan Kongre Binası, Kongre Caddesi, Halilefendi Mahallesi, Merkez, Ardahan",
+   "ll": [
+    41.11,
+    42.69694
+   ],
+   "src": [
+    "https://www.booked.ai/attractions/kongre-ve-kent-muzesi",
+    "https://tr.wikipedia.org/wiki/Ardahan_Kongre_Binası"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "igdirsoykirim",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "See the Iğdır Genocide Monument and Museum",
+   "desc": "The 43.5 m-tall Iğdır Genocide Monument and Museum opened in 1999 and presents the Turkish state's narrative of the events of 1915-1920 in the region. It is a landmark of the city, with Mount Ararat in view on clear days.",
+   "tip": "The monument is at the ring-road junction in Baharlı district. Its narrative reflects an official Turkish perspective on a disputed history.",
+   "q": "Iğdır Soykırım Anıt-Müzesi, Merkez, Iğdır",
+   "ll": [
+    39.93693,
+    44.07941
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Iğdır_Genocide_Memorial_and_Museum"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "ejderkervansaray",
+   "cat": "gor",
+   "area": "cevre",
+   "title": "Step inside the Seljuk Ejder (Harmandöven) Caravanserai",
+   "desc": "The Ejder or Harmandöven Caravanserai is a Seljuk-era Silk Road stop associated with Şerafeddin Ejder, dated to the 12th or late 13th century and restored by the General Directorate of Foundations. It lies on the old caravan route out of the Iğdır plain.",
+   "tip": "It is in open country near Harmandöven; go by car and check that it is open. The vaulted hall is the highlight.",
+   "q": "Ejder Kervansarayı, Harmandöven, Iğdır",
+   "ll": [
+    39.83684,
+    43.83916
+   ],
+   "src": [
+    "https://yolcu360.com/blog/igdir-gezilecek-yerler/",
+    "https://goturkiye.com/igdir/see"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "karskazevi",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Eat Kars goose at Kars Kaz Evi",
+   "desc": "Kars Kaz Evi, in Yusufpaşa on Atatürk Caddesi, is the best-known goose restaurant in Kars. Goose is the city's signature dish, served whole or over bulgur, alongside ayran aşı soup and hangel.",
+   "tip": "Kars goose is at its best in the cold months, so order ahead when busy. Finish with umaç helvası.",
+   "q": "Kars Kaz Evi, Atatürk Caddesi, Yusufpaşa Mahallesi, Merkez, Kars",
+   "ll": [
+    40.59925,
+    43.09286
+   ],
+   "src": [
+    "https://yemek.com/kars-mekanlari/",
+    "https://www.flypgs.com/sehir-rehberi/karsta-nerede-ne-yenir"
+   ]
+  },
+  {
+   "id": "hanimeli",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Try piti and yaprak sarması at Hanımeli Kars Mutfağı",
+   "desc": "Hanımeli on Faikbey Caddesi is a homey restaurant serving Kars regional dishes, from yaprak sarması and piti to erişte aşı soup, revan köftesi and umaç helvası. It sometimes has live music.",
+   "tip": "Piti and erişte aşı are the local dishes to try. Open for lunch and dinner.",
+   "q": "Hanımeli Kars Mutfağı, Faikbey Caddesi, Ortakapı Mahallesi, Merkez, Kars",
+   "ll": [
+    40.607,
+    43.0926
+   ],
+   "src": [
+    "https://yemek.com/kars-mekanlari/"
+   ]
+  },
+  {
+   "id": "hanihanedan",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Order hangel and kesme aşı at Han-ı Hanedan",
+   "desc": "Han-ı Hanedan, open since 2011 in Ortakapı, blends regional Kars cooking with a broader menu. It serves hangel (Kars-style ravioli), kesme aşı and goose from the tandır oven, plus local cheeses.",
+   "tip": "Order the hangel or the Kars ketesi; reservations help on winter weekends.",
+   "q": "Han-ı Hanedan, Faikbey Caddesi, Ortakapı Mahallesi, Merkez, Kars",
+   "ll": [
+    40.60523,
+    43.09713
+   ],
+   "src": [
+    "https://yemek.com/kars-mekanlari/",
+    "https://neredekal.com/mekan/kars-restoranlari-yemek-yenilecek-yerler/"
+   ]
+  },
+  {
+   "id": "sugarbeetcafe",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Warm up with kuymak at Sugar Beet Cafe",
+   "desc": "Sugar Beet Cafe is a café in a historic Ortakapı building serving breakfast through dinner. Its menu includes kuymak, potatoes grilled over oak fire, village tandır and salep.",
+   "tip": "Come for a late breakfast with kuymak and a hot salep in winter.",
+   "q": "Sugar Beet Cafe, Ordu Caddesi, Merkez, Kars",
+   "ll": [
+    40.6047,
+    43.0937
+   ],
+   "src": [
+    "https://www.lonelyplanet.com/turkey/the-black-sea-and-northeastern-anatolia/kars/nightlife",
+    "https://restaurantguru.com/Kars-gurme-Kars"
+   ]
+  },
+  {
+   "id": "karsak",
+   "cat": "ye",
+   "area": "merkez",
+   "title": "Buy Kars gravyer and comb honey at Karsak",
+   "desc": "Karsak Peynir ve Bal Cenneti on Kazım Karabekir Caddesi sells Kars gravyer, Türkmen tel cheese and unsweetened natural honey. Kars gravyer is a Swiss-style cheese made in the region since the late 19th century.",
+   "tip": "Ask to taste the aged gravyer and the kaşar; they pack it for travel.",
+   "q": "Karsak Peynir ve Bal Cenneti, Kazım Karabekir Caddesi, Yusufpaşa Mahallesi, Merkez, Kars",
+   "ll": [
+    40.609,
+    43.0955
+   ],
+   "src": [
+    "https://yemek.com/kars-mekanlari/"
+   ]
+  },
+  {
+   "id": "atalayinyeri",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Eat lake fish at Atalay'ın Yeri on Çıldır Lake",
+   "desc": "Atalay'ın Yeri is a rakı-and-fish restaurant at the entrance to Çıldır Lake serving freshwater fish and crayfish (kerevit) with salads and pickles. In winter it pairs with a sleigh ride on the ice.",
+   "tip": "Book ahead in winter. Try the carp or crayfish from the lake.",
+   "q": "Atalay'ın Yeri, Eşmepınar, Çıldır, Ardahan",
+   "ll": [
+    41.08596,
+    43.17532
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/2734002/atalayın-yeri-restorant"
+   ]
+  },
+  {
+   "id": "hasirocakbasi",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order liver and cubed meat at Tarihi Hasır Ocakbaşı Ardahan",
+   "desc": "Tarihi Hasır Ocakbaşı in Kaptanpaşa, Ardahan, is known for liver and küp et grilled on the ocakbaşı.",
+   "tip": "Go at lunch when the grill is fresh.",
+   "q": "Tarihi Hasır Ocakbaşı, Mareşal Fevzi Çakmak Caddesi, Merkez, Ardahan",
+   "ll": [
+    41.11199,
+    42.70338
+   ],
+   "src": [
+    "https://restaurantguru.com/Tarihi-Hasir-Ocakbasi-Ardahan-Ardahan"
+   ]
+  },
+  {
+   "id": "agaraardahan",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Taste Ardahan goose and meat mantı at AGARA",
+   "desc": "AGARA on Kahramanlar Caddesi serves local Ardahan dishes, with Ardahan goose and meat-filled mantı named in guides.",
+   "tip": "Try the Ardahan kaz and the local mantı.",
+   "q": "AGARA Doğal & Yöresel Lezzetler, Kahramanlar Caddesi, Halilefendi Mahallesi, Merkez, Ardahan",
+   "ll": [
+    41.11854,
+    42.70492
+   ],
+   "src": [
+    "https://restaurantguru.com/AGARA-Ardahan"
+   ]
+  },
+  {
+   "id": "hilalguvecigdir",
+   "cat": "ye",
+   "area": "cevre",
+   "title": "Order a clay-pot güveç at Hilal Güveç in Iğdır",
+   "desc": "Hilal Güveç is a casual Iğdır restaurant on Meşe Ahmet Dedei Caddesi known for güveç (oven-baked casserole), mushroom dishes and lahmacun. It serves lunch and dinner every day.",
+   "tip": "Come at lunch when the güveç is freshly baked. Listed hours are 9:00-21:00 Monday to Saturday and 9:00-17:00 on Sunday.",
+   "q": "Hilal Güveç, Meşe Ahmet Dedei Caddesi, Merkez, Iğdır",
+   "ll": [
+    39.91592,
+    44.05509
+   ],
+   "src": [
+    "https://restaurantguru.com/Hilal-Guvec-Igdir"
+   ]
+  },
+  {
+   "id": "doguekspresi",
+   "cat": "dene",
+   "area": "merkez",
+   "title": "Ride the Touristic Eastern Express to Kars",
+   "desc": "The Touristic Eastern Express (Turistik Doğu Ekspresi) runs from Ankara through Kayseri, Sivas, Erzincan and Erzurum to Kars in about 30 hours, with sightseeing stops. Kars station opened in 1899 under Russian rule.",
+   "tip": "The tourist train runs in the winter season (roughly December to March); book through TCDD in advance.",
+   "q": "Kars Garı, Merkez, Kars",
+   "ll": [
+    40.60518,
+    43.10636
+   ],
+   "src": [
+    "https://en.wikipedia.com/wiki/Touristic_Eastern_Express",
+    "https://en.wikipedia.org/wiki/Kars_railway_station"
+   ],
+   "months": [
+    12,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "skisarikamis",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ski the pine-forest slopes at Sarıkamış",
+   "desc": "The Sarıkamış ski centre on Bayraktepe/Cıbıltepe rises to about 2,634 m, with runs through pine forest and a reputation for dry powder snow.",
+   "tip": "The season runs roughly mid-December to April; rent equipment at the centre.",
+   "q": "Sarıkamış Kayak Merkezi, Cıbıltepe, Sarıkamış, Kars",
+   "ll": [
+    40.31918,
+    42.6159
+   ],
+   "src": [
+    "https://kureansiklopedi.com/tr/detay/sarikamis-kayak-merkezi-2399f",
+    "https://www.serka.gov.tr/assets/upload/dosyalar/sarikamis-kayak-brosuru---ingilizce-sikistirildi.pdf"
+   ],
+   "months": [
+    12,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "id": "cildirsleigh",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ride a horse sleigh over frozen Çıldır Lake",
+   "desc": "When Çıldır Lake freezes, local drivers take visitors on horse-drawn sleighs across the ice near Akçakale village. The season lasts about three months.",
+   "tip": "Dress for deep cold; the afternoon gives the best light.",
+   "q": "Çıldır Gölü, Akçakale Köyü, Çıldır, Ardahan",
+   "ll": [
+    41.01939,
+    43.26364
+   ],
+   "src": [
+    "https://www.haberturk.com/21-de-cildir-daki-buz-uzerinde-atli-kizak-keyfi-2557850",
+    "https://goturkiye.com/ardahan/see"
+   ],
+   "months": [
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "kuyucuk",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Watch migrating birds at Kuyucuk Lake",
+   "desc": "Kuyucuk Lake is a Ramsar wetland (2009) with at least 233 bird species recorded and up to 45,000 birds on autumn passage. There is an ecotourism centre and a birdwatching festival.",
+   "tip": "Best in spring and autumn; bring binoculars.",
+   "q": "Kuyucuk Gölü, Kuyucuk Köyü, Arpaçay, Kars",
+   "ll": [
+    40.74177,
+    43.45457
+   ],
+   "src": [
+    "https://en.wikipedia.org/wiki/Lake_Kuyucuk"
+   ],
+   "months": [
+    4,
+    5,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "susuz",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Visit the 75 m Susuz Waterfall",
+   "desc": "Susuz Waterfall drops about 75 m beside the Kars-Ardahan road in a valley with bird life.",
+   "tip": "A roadside stop; the fall freezes in winter.",
+   "q": "Susuz Şelalesi, Susuz, Kars",
+   "ll": [
+    40.77923,
+    43.12869
+   ],
+   "src": [
+    "https://goturkiye.com/kars/listen"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "yalnizcam",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Ski at Yalnızçam above Ardahan",
+   "desc": "Yalnızçam is a ski resort 16 km from Ardahan with four runs, the longest 4 km, at up to 2,715 m.",
+   "tip": "Quieter and cheaper than Sarıkamış.",
+   "q": "Yalnızçam Kayak Merkezi, Yalnızçam Köyü, Merkez, Ardahan",
+   "ll": [
+    41.0474,
+    42.52146
+   ],
+   "src": [
+    "https://serka.gov.tr/en/bolgemiz/ardahan/ardahan-gezilecek-yerler"
+   ],
+   "months": [
+    12,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "bogatepe",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Learn Kars cheesemaking at the Boğatepe Cheese Museum",
+   "desc": "The Boğatepe Cheese Museum occupies a restored 19th-century dairy in the village once called Zavot and traces the history of Kars gravyer and kaşar, with cheese-making cauldrons on display.",
+   "tip": "Taste and buy cheese in the village.",
+   "q": "Boğatepe Peynir Müzesi, Boğatepe Köyü, Merkez, Kars",
+   "ll": [
+    40.80459,
+    42.8913
+   ],
+   "src": [
+    "https://wanderlog.com/place/details/8690408/boğatepe-cheese-museum",
+    "https://en.wikipedia.org/wiki/Boğatepe_Cheese_Museum"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "tuzlucasalt",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Breathe salt air in the Tuzluca Salt Caves",
+   "desc": "The Tuzluca salt caves are mined galleries in a salt hill used as a respiratory-therapy centre for asthma and bronchitis.",
+   "tip": "Cool inside year-round; bring a jacket.",
+   "q": "Tuzluca Tuz Mağarası, Tuzluca, Iğdır",
+   "ll": [
+    40.04926,
+    43.66878
+   ],
+   "src": [
+    "https://goturkiye.com/igdir/see",
+    "https://yolcu360.com/blog/igdir-gezilecek-yerler/"
+   ],
+   "tags": [
+    "rainy day"
+   ]
+  },
+  {
+   "id": "rainbowhills",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the Rainbow Hills of Tuzluca",
+   "desc": "Banded hills coloured by mineral-rich soil near Tuzluca, listed among Iğdır's main sights.",
+   "tip": "Best in low evening light.",
+   "q": "Gökkuşağı Tepeleri, Tuzluca, Iğdır",
+   "ll": [
+    40.039,
+    43.604
+   ],
+   "src": [
+    "https://kureansiklopedi.com/tr/detay/gokkusagi-tepeleri-igdir-186b3",
+    "https://www.haber7.com/seyahat/haber/3144286-turkiyenin-en-dogusunda-renk-cumbusu-gokkusagi-tepeleri"
+   ],
+   "tags": [
+    "free"
+   ]
+  },
+  {
+   "id": "soguksusarikamis",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "Walk the pine trails of Soğuksu Nature Park in Sarıkamış",
+   "desc": "Soğuksu Nature Park lies on the edge of Sarıkamış inside the Sarıkamış-Allahuekber Mountains National Park. Scots pine forest covers the slopes, and the area is popular for walks and picnics in summer and for snow in winter.",
+   "tip": "Go in June to September for easy forest walks, or in winter when the road is cleared and the pines are snow-covered. Dress warmly even in summer at this altitude.",
+   "q": "Soğuksu Tabiat Parkı, Sarıkamış, Kars",
+   "ll": [
+    40.31,
+    42.63472
+   ],
+   "src": [
+    "https://commons.wikimedia.org/wiki/Category:Soğuksu_Nature_Park",
+    "https://en.wikipedia.org/wiki/List_of_nature_parks_of_Turkey"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "id": "damalsilhouette",
+   "cat": "dene",
+   "area": "cevre",
+   "title": "See the Atatürk silhouette at Damal",
+   "desc": "Between 15 June and 15 July, around 17:50-18:10, a shadow on the Karadağ ridge near Yukarı Gündeş village resembles Atatürk's profile.",
+   "tip": "Visible only in this short window.",
+   "q": "Damal Atatürk Silüeti, Yukarı Gündeş Köyü, Damal, Ardahan",
+   "ll": [
+    41.36584,
+    42.80977
+   ],
+   "src": [
+    "https://yolcu360.com/blog/ardahan-gezilecek-yerler/"
+   ],
+   "tags": [
+    "free"
+   ],
+   "months": [
+    6,
+    7
+   ]
+  }
+ ]
+}

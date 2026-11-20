@@ -171,7 +171,7 @@
   var $sheet = document.getElementById("sheet");
   var $backdrop = document.getElementById("sheet-backdrop");
   var $toast = document.getElementById("toast");
-  var CC = { Netherlands: "nl", Belgium: "be", Germany: "de", Luxembourg: "lu", France: "fr", Denmark: "dk", Sweden: "se", Switzerland: "ch", "Türkiye": "tr" };
+  var CC = { Netherlands: "nl", Belgium: "be", Germany: "de", Luxembourg: "lu", France: "fr", Denmark: "dk", Sweden: "se", Switzerland: "ch", "Türkiye": "tr", Cyprus: "cy" };
 
   function ring(pct, big) {
     var C = 2 * Math.PI * 26;

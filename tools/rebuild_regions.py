@@ -23,8 +23,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 nl_path, nuts_path, nuts_fine_path = sys.argv[1:4]
 preview = sys.argv[4] if len(sys.argv) > 4 else None
-FINE = ("DK", "SE224", "DEF0C", "CH", "TR")  # units (by NUTS id prefix) from the 1:1 million file: Denmark, Skåne,
-# Schleswig-Flensburg (the Schlei), Switzerland, Türkiye
+FINE = ("DK", "SE224", "DEF0C", "CH", "TR", "CY")  # units (by NUTS id prefix) from the 1:1 million file: Denmark, Skåne,
+# Schleswig-Flensburg (the Schlei), Switzerland, Türkiye, Cyprus
 hubs = {k: v for k, v in json.load(io.open(os.path.join(HERE, "hubs.json"), encoding="utf-8")).items() if not k.startswith("_")}
 cache_path = os.path.join(HERE, "traveltimes.json")
 cache = json.load(io.open(cache_path, encoding="utf-8")) if os.path.exists(cache_path) else {}
@@ -42,7 +42,7 @@ nuts += [f for f in json.load(io.open(nuts_fine_path, encoding="utf-8"))["featur
 for f in nuts:
     p = f["properties"]
     # France: mainland départements and Corsica (the overseas départements, FRY, are left out)
-    if p["CNTR_CODE"] in ("BE", "DE", "LU", "FR", "DK", "SE", "CH", "TR") and p["LEVL_CODE"] == 3 and not p["NUTS_ID"].startswith("FRY"):
+    if p["CNTR_CODE"] in ("BE", "DE", "LU", "FR", "DK", "SE", "CH", "TR", "CY") and p["LEVL_CODE"] == 3 and not p["NUTS_ID"].startswith("FRY"):
         units.append((p["CNTR_CODE"] + ":" + p["NUTS_ID"], p["CNTR_CODE"], p["NAME_LATN"], make_valid(shape(f["geometry"]))))
 
 # ── Travel times (minutes from each hub point to each unit) ─
@@ -70,7 +70,7 @@ def fetch(country, todo):
 
 
 need_keys = {"%s#%d" % (h, i) for h, i, _ in hub_points}
-for country in ("NL", "BE", "DE", "LU", "FR", "DK", "SE", "CH", "TR"):
+for country in ("NL", "BE", "DE", "LU", "FR", "DK", "SE", "CH", "TR", "CY"):
     todo = [u for u in units if u[1] == country and not need_keys <= set(k for k in cache.get(u[0], {}) if k.split("#")[0] in hubs and hubs[k.split("#")[0]]["country"] == country) | {k for k in need_keys if hubs[k.split("#")[0]]["country"] != country}]
     if todo:
         fetch(country, todo)

@@ -1,0 +1,46 @@
+{
+ "picks": [
+  "arslantepe",
+  "hasanbeykayisi",
+  "harputkalesi",
+  "munzurgozeleri",
+  "somuncubaba"
+ ],
+ "cards": {
+  "arslantepe": {
+   "name": "Arslantepe Mound",
+   "art": "castle",
+   "slogan": "Five thousand years of palaces stacked in one hill above the apricot orchards.",
+   "line": "A UNESCO site since 2021, the mound yielded the oldest swords yet known, made around 3300–3000 BC.",
+   "source": "https://en.wikipedia.org/wiki/Arslantepe"
+  },
+  "hasanbeykayisi": {
+   "name": "Malatya Apricots",
+   "art": "market",
+   "slogan": "Sun-dried and honey-sweet, straight from the orchards of the Euphrates.",
+   "line": "Malatya grows about 65 to 80 percent of the world's dried apricots.",
+   "source": "https://en.wikipedia.org/wiki/Malatya"
+  },
+  "harputkalesi": {
+   "name": "Harput Castle",
+   "art": "castle",
+   "slogan": "A rock fortress watching over the Euphrates plain for a thousand years.",
+   "line": "The fortress was built on a wide rock outcrop above the valley after 938, in the second Byzantine occupation.",
+   "source": "https://en.wikipedia.org/wiki/Harput"
+  },
+  "munzurgozeleri": {
+   "name": "Munzur Springs",
+   "art": "park",
+   "slogan": "Ice-clear water bursting from the rock in the heart of Dersim.",
+   "line": "The springs pour straight out of the mountainside to feed the Munzur river, and are held sacred by local Alevis.",
+   "source": "https://en.wikipedia.org/wiki/Munzur_Valley_National_Park"
+  },
+  "somuncubaba": {
+   "name": "Somuncu Baba Complex",
+   "art": "church",
+   "slogan": "A baker-saint's shrine tucked into the rocks of Darende.",
+   "line": "Hamid-i Veli, called Somuncu Baba or Father Loaf, ran a bakery beside his hermitage in Bursa and gave bread to the people.",
+   "source": "https://en.wikipedia.org/wiki/Somuncu_Baba"
+  }
+ }
+}

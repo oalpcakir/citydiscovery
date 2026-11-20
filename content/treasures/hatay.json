@@ -1,0 +1,46 @@
+{
+ "picks": [
+  "necmiasfuroglu",
+  "stpierrecave",
+  "habibineccar",
+  "titustunnel",
+  "vakifli"
+ ],
+ "cards": {
+  "necmiasfuroglu": {
+   "name": "Hatay Archaeology Museum",
+   "art": "museum",
+   "slogan": "Roman gods and drinkers underfoot, laid out tile by tile.",
+   "line": "The museum shows 3,500 sqm of Antioch's Roman mosaics inside 10,700 sqm of exhibition space.",
+   "source": "https://en.wikipedia.org/wiki/Hatay_Archaeology_Museum"
+  },
+  "stpierrecave": {
+   "name": "Cave Church of St Peter",
+   "art": "church",
+   "slogan": "A cave where the first Christians are said to have gathered.",
+   "line": "Antioch is where, according to Acts 11:26, the disciples were first called Christians; crusaders added the church facade after 1098.",
+   "source": "https://www.sacred-destinations.com/turkey/antioch-cave-church-of-peter"
+  },
+  "habibineccar": {
+   "name": "Habib-i Neccar Mosque",
+   "art": "church",
+   "slogan": "Antakya's old mosque, named for a carpenter-saint, rising once more.",
+   "line": "Among Anatolia's oldest mosques, it fell in the 1853 earthquake and again in February 2023, and is being rebuilt.",
+   "source": "https://en.wikipedia.org/wiki/Habib-i_Neccar_Mosque"
+  },
+  "titustunnel": {
+   "name": "Titus Tunnel",
+   "art": "castle",
+   "slogan": "Roman legionaries cut a river's new path straight through the rock.",
+   "line": "Engineers of the Tenth Legion Fretensis cut a canal about 1,400 m long, partly through rock, to divert flood water from the port of Seleucia Pieria.",
+   "source": "https://livius.org/place/seleucia-in-pieria/monuments/canal-and-tunnel-of-titus"
+  },
+  "vakifli": {
+   "name": "Vakıflı",
+   "art": "park",
+   "slogan": "Turkey's last Armenian village, on the slopes of Musa Dagh.",
+   "line": "When Hatay joined Turkey in 1939, Vakıflı's residents chose to stay while six other Armenian villages emigrated to Lebanon.",
+   "source": "https://en.wikipedia.org/wiki/Vakıflı"
+  }
+ }
+}

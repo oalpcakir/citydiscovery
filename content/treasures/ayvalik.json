@@ -1,0 +1,46 @@
+{
+ "picks": [
+  "seytansofrasi",
+  "kyzikos",
+  "taksiyarhisayvalik",
+  "laleadasi",
+  "antandros"
+ ],
+ "cards": {
+  "seytansofrasi": {
+   "name": "Şeytan Sofrası",
+   "art": "park",
+   "slogan": "The devil's table is set with islands and a sinking sun.",
+   "line": "The hill, whose name means Satan's Dinner Table, gives a panorama of the Ayvalık islands, best at sunset.",
+   "source": "https://en.wikipedia.org/wiki/Ayval%C4%B1k"
+  },
+  "kyzikos": {
+   "name": "Kyzikos",
+   "art": "castle",
+   "slogan": "A lost city of marble, tied to the mainland by a sandbar.",
+   "line": "Its Temple of Hadrian had 21-metre columns, the tallest known in the ancient world.",
+   "source": "https://en.wikipedia.org/wiki/Cyzicus"
+  },
+  "taksiyarhisayvalik": {
+   "name": "Taksiyarhis Church",
+   "art": "church",
+   "slogan": "An archangels' church that outlived the town's Greek centuries.",
+   "line": "Ayvalık's Greek population was exchanged for Muslims from Greece under the 1923 agreement.",
+   "source": "https://en.wikipedia.org/wiki/Ayval%C4%B1k"
+  },
+  "laleadasi": {
+   "name": "Lale Adası",
+   "art": "harbour",
+   "slogan": "Walk out over the water to an island of sea and sunsets.",
+   "line": "Cunda, the largest of the Ayvalık Islands, was called Moschonisia by the Greeks and is linked to the mainland by a causeway built in the late 1960s.",
+   "source": "https://en.wikipedia.org/wiki/Ayval%C4%B1k"
+  },
+  "antandros": {
+   "name": "Antandros",
+   "art": "castle",
+   "slogan": "Ida's timber made this hillside harbour a shipyard of empires.",
+   "line": "In Virgil's Aeneid, Aeneas builds his fleet here below Mount Ida before sailing away from fallen Troy.",
+   "source": "https://en.wikipedia.org/wiki/Antandrus"
+  }
+ }
+}

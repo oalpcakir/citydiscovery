@@ -1,0 +1,47 @@
+{
+ "picks": [
+  "aphrodisias",
+  "didymaapollo",
+  "guvercinada",
+  "miletustheatre",
+  "aydinmuseum"
+ ],
+ "cards": {
+  "aphrodisias": {
+   "name": "Aphrodisias",
+   "art": "museum",
+   "slogan": "A marble city that carved its own gods.",
+   "line": "Its stadium, about 270 metres long, held roughly 30,000 spectators, and the whole site became a UNESCO World Heritage Site in 2017.",
+   "source": "https://en.wikipedia.org/wiki/Aphrodisias"
+  },
+  "didymaapollo": {
+   "name": "Temple of Apollo at Didyma",
+   "art": "church",
+   "slogan": "Nineteen-metre columns still guarding an oracle.",
+   "line": "Work on the temple went on for more than 600 years and it was never finished; each Ionic column stands about 19.7 metres tall.",
+   "source": "https://en.wikipedia.org/wiki/Didyma"
+  },
+  "guvercinada": {
+   "name": "Pigeon Island Castle",
+   "art": "castle",
+   "slogan": "A little fortress at the end of a causeway.",
+   "line": "The castle and garrison on Pigeon Island were rebuilt and expanded in 1834, and the island is joined to Kuşadası by a causeway.",
+   "source": "https://en.wikipedia.org/wiki/Kuşadası"
+  },
+  "aydinmuseum": {
+   "name": "Aydın Archaeological Museum",
+   "art": "museum",
+   "slogan": "Home ground of the world's oldest complete song.",
+   "line": "The Seikilos epitaph, the oldest surviving complete musical composition, was found at Tralles, today's Aydın, around 1883.",
+   "source": "https://en.wikipedia.org/wiki/Seikilos_epitaph"
+  },
+  "miletustheatre": {
+   "name": "Theatre of Miletus",
+   "art": "castle",
+   "slogan": "A giant marble bowl that once looked out over a busy harbour.",
+   "line": "Miletus was the home of Thales, often called the first philosopher; silt has since pushed the sea about 8 km away.",
+   "source": "https://en.wikipedia.org/wiki/Miletus"
+  }
+ },
+ "waive_area_cap": "Aphrodisias, Didyma and Miletus are the valley's three great ancient sites"
+}

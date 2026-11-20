@@ -1,0 +1,47 @@
+{
+ "picks": [
+  "troyruins",
+  "anzaccove",
+  "sehitlerabidesi",
+  "cimenlikkalesi",
+  "kilitbahirkalesi"
+ ],
+ "cards": {
+  "troyruins": {
+   "name": "Troy",
+   "art": "castle",
+   "slogan": "Nine cities stacked on one windy hill above the plain.",
+   "line": "Excavations by Heinrich Schliemann began in 1870 and revealed nine layers, Troy I to IX; UNESCO listed the site in 1998.",
+   "source": "https://en.wikipedia.org/wiki/Troy"
+  },
+  "anzaccove": {
+   "name": "Anzac Cove",
+   "art": "harbour",
+   "slogan": "A strip of shingle where Anzacs gather at dawn.",
+   "line": "You are now lying in the soil of a friendly country. Therefore rest in peace.",
+   "by": "Words attributed to Atatürk, 1934, carved at Anzac Cove",
+   "source": "https://en.wikiquote.org/wiki/Mustafa_Kemal_Atat%C3%BCrk"
+  },
+  "sehitlerabidesi": {
+   "name": "Çanakkale Martyrs' Memorial",
+   "art": "tower",
+   "slogan": "Four great pillars holding a roof over the Gallipoli peninsula.",
+   "line": "The 41.7-metre memorial won a design contest in 1944 and was opened on 21 August 1960.",
+   "source": "https://en.wikipedia.org/wiki/%C3%87anakkale_Martyrs%27_Memorial"
+  },
+  "cimenlikkalesi": {
+   "name": "Çimenlik Castle",
+   "art": "castle",
+   "slogan": "Mehmed's waterside fort, now a naval museum with old guns.",
+   "line": "Built under Mehmed II to guard the Dardanelles, it was strengthened by Suleiman the Magnificent in 1551.",
+   "source": "https://en.wikipedia.org/wiki/%C3%87imenlik_Castle"
+  },
+  "kilitbahirkalesi": {
+   "name": "Kilitbahir Castle",
+   "art": "castle",
+   "slogan": "The clover-shaped lock on the Dardanelles, facing its twin across the water.",
+   "line": "Mehmed the Conqueror built it in 1463 with a sister fortress opposite, to control the straits at their narrowest point.",
+   "source": "https://en.wikipedia.org/wiki/Kilitbahir_Castle"
+  }
+ }
+}

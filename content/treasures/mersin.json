@@ -1,0 +1,47 @@
+{
+ "picks": [
+  "kizkalesi",
+  "uzuncaburc",
+  "cleopatragate",
+  "yumuktepe",
+  "soli"
+ ],
+ "cards": {
+  "kizkalesi": {
+   "name": "Maiden's Castle",
+   "art": "castle",
+   "slogan": "A castle afloat just offshore, with a snake in its legend.",
+   "line": "Re-fortified in the early 12th century on the orders of Alexios I Komnenos, it once joined the shore by a breakwater.",
+   "source": "https://en.wikipedia.org/wiki/Corycus"
+  },
+  "uzuncaburc": {
+   "name": "Uzuncaburç",
+   "art": "castle",
+   "slogan": "A mountain city of priest-kings, still guarded by its tall tower.",
+   "line": "The Hellenistic tower that gave the village its name was built in the second half of the 3rd century BCE.",
+   "source": "https://livius.org/articles/place/olba-diocaesarea"
+  },
+  "cleopatragate": {
+   "name": "Cleopatra's Gate",
+   "art": "castle",
+   "slogan": "The last gate of Tarsus, where a queen came to meet Antony.",
+   "line": "The barge she sat in, like a burnish'd throne, / Burn'd on the water.",
+   "by": "William Shakespeare, Antony and Cleopatra, on her arrival at Tarsus",
+   "source": "https://en.wikipedia.org/wiki/The_Barge_She_Sat_In"
+  },
+  "yumuktepe": {
+   "name": "Yumuktepe Mound",
+   "art": "park",
+   "slogan": "A whole city's past, stacked layer by layer inside Mersin.",
+   "line": "John Garstang first dug here in 1936-38; war halted him, and some records were lost in a Liverpool air raid.",
+   "source": "https://en.wikipedia.org/wiki/Yumuktepe"
+  },
+  "soli": {
+   "name": "Soli Pompeiopolis",
+   "art": "skyline",
+   "slogan": "Roman columns marching toward the sea on a pirate-built street.",
+   "line": "Under the lex Gabinia of 67 BCE, Pompey resettled surrendered pirates in Soli and renamed it Pompeiopolis.",
+   "source": "https://en.wikipedia.org/wiki/Soli,_Cilicia"
+  }
+ }
+}

@@ -1,0 +1,8 @@
+{"picks": ["portanigra","dom","konstantinbasilika","saarschleifecloef","bernkastelmarkt"],
+ "cards": {
+  "portanigra": {"name": "Porta Nigra", "art": "castle", "slogan": "Rome's grey gate, still guarding Trier's front door.", "line": "A Greek monk named Simeon lived as a hermit in its ruins from 1028, and the gate was turned into two churches.", "source": "https://en.wikipedia.org/wiki/Porta_Nigra"},
+  "dom": {"name": "Trier Cathedral", "art": "church", "slogan": "A Roman core under eight centuries of Gothic stone.", "line": "Its core from around 340 makes it the oldest church building in Germany still in use.", "source": "https://en.wikipedia.org/wiki/Trier_Cathedral"},
+  "konstantinbasilika": {"name": "Basilica of Constantine", "art": "museum", "slogan": "An emperor's throne hall, bare brick and 33 metres of air.", "line": "Built around AD 300-310, this 67-metre hall is the largest surviving single room from classical antiquity.", "source": "https://en.wikipedia.org/wiki/Aula_Palatina"},
+  "saarschleifecloef": {"name": "Saarschleife at the Cloef", "art": "park", "slogan": "The Saar doubles back on itself, and you watch from above.", "line": "The river runs about 10 km around the bend, yet Besseringen and Mettlach are only 2 km apart as the crow flies.", "source": "https://en.wikipedia.org/wiki/Saarschleife"},
+  "bernkastelmarkt": {"name": "Bernkastel Market Square", "art": "canalhouses", "slogan": "Timber gables and a house as narrow as a wine bottle.", "line": "The Spitzhäuschen, the narrow Pointed House on the market square, dates from 1416.", "source": "https://en.wikipedia.org/wiki/Bernkastel-Kues"}
+ }}

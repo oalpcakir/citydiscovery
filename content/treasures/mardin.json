@@ -1,0 +1,46 @@
+{
+ "picks": [
+  "zinciriye",
+  "deyrulzafaran",
+  "morgabriel",
+  "midyatkonukevi",
+  "daraancientcity"
+ ],
+ "cards": {
+  "morgabriel": {
+   "name": "Mor Gabriel Monastery",
+   "art": "church",
+   "slogan": "Prayer has not stopped on this hill since the 4th century.",
+   "line": "Founded in 397 AD, it is among the oldest continuously active Christian monasteries in the world.",
+   "source": "https://en.wikipedia.org/wiki/Mor_Gabriel_Monastery"
+  },
+  "deyrulzafaran": {
+   "name": "Deyrulzafaran Monastery",
+   "art": "church",
+   "slogan": "Honey-coloured walls where Syriac patriarchs once held court.",
+   "line": "Founded in 493 AD, it was the seat of the Syriac Orthodox Patriarchs from about 1160 until the 20th century.",
+   "source": "https://en.wikipedia.org/wiki/Mor_Hananyo_Monastery"
+  },
+  "zinciriye": {
+   "name": "Zinciriye Medrese",
+   "art": "palace",
+   "slogan": "Carved portal below, the whole Mesopotamian plain beyond.",
+   "line": "Its inscription dates completion to 3 February 1385, under the Artuqid ruler Sultan Isa.",
+   "source": "https://en.wikipedia.org/wiki/Sultan_Isa_Medrese"
+  },
+  "daraancientcity": {
+   "name": "Dara Ancient City",
+   "art": "castle",
+   "slogan": "A Roman border fortress with a city of rock tombs at its feet.",
+   "line": "Ordered by Emperor Anastasius around 505, Dara saw Belisarius beat the Persians in 530.",
+   "source": "https://en.wikipedia.org/wiki/Dara_(Mesopotamia)"
+  },
+  "midyatkonukevi": {
+   "name": "Midyat Old Town",
+   "art": "skyline",
+   "slogan": "Carved limestone mansions and church towers glowing like honey.",
+   "line": "Midyat is the main town of Tur Abdin, the 'mountain of the servants of God', heartland of the Syriac Christians.",
+   "source": "https://en.wikipedia.org/wiki/Tur_Abdin"
+  }
+ }
+}

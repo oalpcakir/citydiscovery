@@ -1,0 +1,46 @@
+{
+ "picks": [
+  "abantlake",
+  "yedigoller",
+  "mengenchef",
+  "golcuk",
+  "justinianbridge"
+ ],
+ "cards": {
+  "abantlake": {
+   "name": "Lake Abant",
+   "art": "park",
+   "slogan": "A landslide-dammed crater lake wrapped in pine and beech.",
+   "line": "A landslide dammed this mountain valley to form the lake, which lies at 1,328 m and covers 127 hectares.",
+   "source": "https://en.wikipedia.org/wiki/Lake_Abant"
+  },
+  "yedigoller": {
+   "name": "Yedigöller",
+   "art": "park",
+   "slogan": "Seven lakes, each a different shade of autumn.",
+   "line": "Landslides created the seven lakes, which have been a national park since 1965.",
+   "source": "https://en.wikipedia.org/wiki/Yedig%C3%B6ller_National_Park"
+  },
+  "mengenchef": {
+   "name": "Mengen Chef Statue",
+   "art": "market",
+   "slogan": "The town that sent its cooks to the sultan's table.",
+   "line": "The Mengen Cookery School, opened in 1997, trains chefs in Ottoman palace cuisine.",
+   "source": "https://www.hurriyetdailynews.com/amp/mengen-trains-chefs-for-the-finest-in-world-91777"
+  },
+  "golcuk": {
+   "name": "Gölcük Nature Park",
+   "art": "park",
+   "slogan": "A small lake you can walk round before the tea cools.",
+   "line": "This dam lake lies at 1,217 m, with a shore path of about 1,300 m.",
+   "source": "https://www.wikipedia.org/wiki/File:Bolu_G%C3%B6lc%C3%BCk_Tabiat_Park%C4%B1.jpg"
+  },
+  "justinianbridge": {
+   "name": "Justinian Bridge",
+   "art": "bridge",
+   "slogan": "Fourteen centuries of Byzantine stonework, still standing.",
+   "line": "Completed in 562 AD, it is about 429 m long, and crosses the Çark stream rather than the Sakarya.",
+   "source": "https://en.wikipedia.org/wiki/Be%C5%9Fk%C3%B6pr%C3%BC"
+  }
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "picks": [
+  "evoluon",
+  "vanabbe",
+  "nuenen",
+  "strijps",
+  "philips"
+ ],
+ "cards": {
+  "evoluon": {
+   "name": "Evoluon",
+   "art": "museum",
+   "slogan": "A flying saucer that landed in a Dutch suburb.",
+   "line": "Opened in 1966 as a Philips science museum, its concrete dome is 77 metres across.",
+   "source": "https://en.wikipedia.org/wiki/Evoluon"
+  },
+  "vanabbe": {
+   "name": "Van Abbemuseum",
+   "art": "museum",
+   "slogan": "Where a cigar baron's collection turned into modern art.",
+   "line": "It holds one of the largest collections of El Lissitzky paintings in the world.",
+   "source": "https://en.wikipedia.org/wiki/Van_Abbemuseum"
+  },
+  "nuenen": {
+   "name": "Van Gogh's Nuenen",
+   "art": "park",
+   "slogan": "Lanes and lamplight where Vincent found his peasants.",
+   "line": "These people eating potatoes by the light of their lamp have dug the earth with the self-same hands.",
+   "by": "Vincent van Gogh, letter to Theo from Nuenen, c. 30 April 1885",
+   "source": "https://www.webexhibits.org/vangogh/letter/15/404.htm"
+  },
+  "strijps": {
+   "name": "Strijp-S",
+   "art": "skyline",
+   "slogan": "Old Philips halls, now full of lofts, design and noise.",
+   "line": "Philips built its first factory here in 1916, a glassworks for light bulbs, and left by 2006.",
+   "source": "https://en.wikipedia.org/wiki/Strijp-S"
+  },
+  "philips": {
+   "name": "Philips Lightbulb Factory",
+   "art": "museum",
+   "slogan": "Where one small bulb lit up a whole city.",
+   "line": "Gerard and Frederik Philips founded the company in Eindhoven on 15 May 1891 to make incandescent lamps.",
+   "source": "https://en.wikipedia.org/wiki/Philips"
+  }
+ }
+}

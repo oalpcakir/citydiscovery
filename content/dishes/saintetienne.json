@@ -1,0 +1,57 @@
+{
+  "region": "saintetienne",
+  "dishes": [
+    {
+      "id": "saintetienne-rapee",
+      "name": "Râpée stéphanoise",
+      "local": "Râpée",
+      "icon": "🥔",
+      "desc": "Crisp pan-fried galette of grated potato, egg and garlic, originally from Saint-Étienne. Often eaten with sarasson or a salad.",
+      "kw": [
+        "râpée",
+        "rapée"
+      ]
+    },
+    {
+      "id": "saintetienne-sarasson",
+      "name": "Sarasson",
+      "local": "",
+      "icon": "🧀",
+      "desc": "Fresh curd cheese of the Forez mixed with cream, garlic and herbs, spread on country bread or eaten with potatoes.",
+      "kw": [
+        "sarasson"
+      ]
+    },
+    {
+      "id": "saintetienne-barboton",
+      "name": "Barboton",
+      "local": "",
+      "icon": "🍲",
+      "desc": "Lamb stew simmered for hours with potatoes and carrots in a cast-iron pot so the vegetables absorb the meat juices. A Stéphanois home dish.",
+      "kw": [
+        "barboton"
+      ]
+    },
+    {
+      "id": "saintetienne-bugnes-stephanoises",
+      "name": "Bugnes stéphanoises",
+      "local": "Bugnes",
+      "icon": "🍩",
+      "desc": "Fried yeast dough, softer and thicker than the crisp Lyon bugne. A carnival sweet of Saint-Étienne.",
+      "kw": [
+        "bugnes"
+      ]
+    },
+    {
+      "id": "saintetienne-fourme-de-montbrison",
+      "name": "Fourme de Montbrison",
+      "local": "",
+      "icon": "🧀",
+      "desc": "Mild blue cow's milk cheese with an orange rind, protected by AOP since 2002. Made in the Forez mountains and the emblematic cheese of the Loire.",
+      "kw": [
+        "fourme de montbrison",
+        "fourme"
+      ]
+    }
+  ]
+}

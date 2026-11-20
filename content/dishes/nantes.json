@@ -1,0 +1,71 @@
+{
+  "region": "nantes",
+  "dishes": [
+    {
+      "id": "nantes-sandre-beurre-blanc",
+      "name": "Sandre au beurre blanc",
+      "local": "",
+      "icon": "🐟",
+      "desc": "Loire pikeperch with beurre blanc, a sauce of shallots, white wine and butter. The sauce was born in the Nantes area and still goes on every Loire fish.",
+      "kw": [
+        "beurre blanc",
+        "sandre"
+      ]
+    },
+    {
+      "id": "nantes-gateau-nantais",
+      "name": "Gâteau nantais",
+      "local": "",
+      "icon": "🍰",
+      "desc": "Almond cake made with salted butter and rum, brushed with a rum glaze. A travel cake from the port of Nantes, sold in bakeries.",
+      "kw": [
+        "gâteau nantais",
+        "gateau nantais"
+      ]
+    },
+    {
+      "id": "nantes-petit-beurre",
+      "name": "Petit-beurre LU",
+      "local": "",
+      "icon": "🍪",
+      "desc": "The square butter biscuit with 52 teeth, created in Nantes by the LU biscuit makers in 1886. Still the city's best-known sweet souvenir.",
+      "kw": [
+        "petit-beurre",
+        "petit beurre",
+        "lu "
+      ]
+    },
+    {
+      "id": "nantes-berlingot-nantais",
+      "name": "Berlingot nantais",
+      "local": "",
+      "icon": "🍬",
+      "desc": "Pillow-shaped boiled sweet from Nantes, flavoured with mint, lemon or orange and filled with a core of liquid fruit.",
+      "kw": [
+        "berlingot"
+      ]
+    },
+    {
+      "id": "nantes-cure-nantais",
+      "name": "Curé nantais",
+      "local": "",
+      "icon": "🧀",
+      "desc": "Soft washed-rind cow's-milk cheese from the Nantes area with a strong smell and mild, buttery taste. Sold in orange squares at markets and cheese shops.",
+      "kw": [
+        "curé nantais",
+        "cure nantais"
+      ]
+    },
+    {
+      "id": "nantes-mogettes-vendee",
+      "name": "Mogettes de Vendée",
+      "local": "",
+      "icon": "🫘",
+      "desc": "Slow-cooked white beans of the Vendée, eaten with a thick slice of ham or with butter and bread. A farm-table classic of the inland Vendée.",
+      "kw": [
+        "mogettes",
+        "mogette"
+      ]
+    }
+  ]
+}

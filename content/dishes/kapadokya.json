@@ -1,0 +1,60 @@
+{
+  "region": "kapadokya",
+  "dishes": [
+    {
+      "id": "kapadokya-testi-kebabi",
+      "name": "Pottery kebab",
+      "local": "Testi kebabı",
+      "icon": "🏺",
+      "desc": "Meat and vegetables slow-cooked in a sealed clay pot from Avanos, which is cracked open at the table. It has a geographical indication and is the dish of Cappadocia.",
+      "kw": [
+        "testi kebabı",
+        "testi kebab",
+        "pottery kebab"
+      ]
+    },
+    {
+      "id": "kapadokya-nevsehir-manti",
+      "name": "Nevşehir mantı",
+      "local": "Nevşehir mantısı",
+      "icon": "🥟",
+      "desc": "Baked rolls of bread dough with spiced mince and onion, sliced and served with garlic yogurt, spicy butter, sumac and mint. Quicker to make than Kayseri's mantı.",
+      "kw": [
+        "mantı",
+        "nevşehir mantısı"
+      ]
+    },
+    {
+      "id": "kapadokya-kuru-kaymak",
+      "name": "Dried kaymak",
+      "local": "Kuru kaymak",
+      "icon": "🧈",
+      "desc": "Clotted cream made by simmering milk over wood for hours and drying the skin that forms. Eaten with honey or jam, and a specialty of Kaymaklı.",
+      "kw": [
+        "kuru kaymak",
+        "kaymak"
+      ]
+    },
+    {
+      "id": "kapadokya-kayisi-yahnisi",
+      "name": "Apricot stew",
+      "local": "Kayısı yahnisi",
+      "icon": "🍑",
+      "desc": "Meat and sweet apricots stewed in an earthen pot over a wood fire, with grape molasses if the fruit is not sweet enough. A regional dish of the Cappadocian table.",
+      "kw": [
+        "kayısı yahnisi",
+        "apricot"
+      ]
+    },
+    {
+      "id": "kapadokya-zerdeli-pilav",
+      "name": "Zerdeli pilav",
+      "local": "",
+      "icon": "🍚",
+      "desc": "Rice layered with grape molasses, chickpeas, peeled almonds and raisins. A sweet-savoury festive dish of Nevşehir kitchens.",
+      "kw": [
+        "zerdeli pilav"
+      ]
+    }
+  ]
+}

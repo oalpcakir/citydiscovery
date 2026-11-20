@@ -1,0 +1,59 @@
+{
+  "region": "hatay",
+  "dishes": [
+    {
+      "id": "hatay-tepsi-kebabi",
+      "name": "Tepsi kebabı",
+      "local": "",
+      "icon": "🥘",
+      "desc": "Minced lamb and beef baked in a tray in a wood-fired oven with tomatoes and peppers. A true Antakya dish, locally called lahm-ı sini.",
+      "kw": [
+        "tepsi kebabı",
+        "lahm-ı sini"
+      ]
+    },
+    {
+      "id": "hatay-oruk",
+      "name": "Oruk",
+      "local": "",
+      "icon": "🧆",
+      "desc": "Hatay's version of içli köfte with a bulgur shell and a filling of minced and pounded meat. The tray-baked sini oruğu is especially popular.",
+      "kw": [
+        "oruk",
+        "sini oruğu"
+      ]
+    },
+    {
+      "id": "hatay-kunefe",
+      "name": "Künefe",
+      "local": "",
+      "icon": "🍮",
+      "desc": "Warm shredded pastry with melted cheese under syrup. Antakya künefe shops are famous for their own recipes.",
+      "kw": [
+        "künefe",
+        "kunefe"
+      ]
+    },
+    {
+      "id": "hatay-humus",
+      "name": "Humus",
+      "local": "",
+      "icon": "🥣",
+      "desc": "Chickpea paste with tahini and lemon, served warm and often for breakfast. Antakya's meze culture makes it a daily staple.",
+      "kw": [
+        "humus",
+        "hummus"
+      ]
+    },
+    {
+      "id": "hatay-biberli-ekmek",
+      "name": "Biberli ekmek",
+      "local": "",
+      "icon": "🫓",
+      "desc": "Flatbread filled with red pepper paste, onion and walnuts or spices. A popular Antakya street bread.",
+      "kw": [
+        "biberli ekmek"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "region": "vannes",
+  "dishes": [
+    {
+      "id": "vannes-andouille-guemene",
+      "name": "Andouille de Guéméné",
+      "local": "",
+      "icon": "🌭",
+      "desc": "Smoked pork andouille from Guéméné-sur-Scorff in the Morbihan, built from rings of chitterling in layers. Served cold in slices or hot with potatoes and mustard.",
+      "kw": [
+        "andouille de guéméné",
+        "andouille"
+      ]
+    },
+    {
+      "id": "vannes-niniches",
+      "name": "Niniches de Quiberon",
+      "local": "",
+      "icon": "🍬",
+      "desc": "Sucette-shaped salted-butter caramels from Quiberon and sold in paper bags. Found in sweet shops and markets all around Vannes and the Gulf.",
+      "kw": [
+        "niniches"
+      ]
+    },
+    {
+      "id": "vannes-gateau-breton",
+      "name": "Gâteau breton",
+      "local": "",
+      "icon": "🍰",
+      "desc": "Dense, buttery shortbread-style cake made with salted butter, often with prune or apple filling, from Morbihan and Finistère. Baked in bakeries around Vannes and Carnac.",
+      "kw": [
+        "gâteau breton",
+        "gateau breton"
+      ]
+    },
+    {
+      "id": "vannes-sardines-quiberon",
+      "name": "Sardines de Quiberon",
+      "local": "",
+      "icon": "🐟",
+      "desc": "Sardines from Quiberon, the Morbihan's canning town, sold fresh in season or tinned in vintage-labelled boxes. Quiberon's canneries date from the 19th century.",
+      "kw": [
+        "sardines",
+        "sardine"
+      ]
+    },
+    {
+      "id": "vannes-huitres-morbihan",
+      "name": "Gulf of Morbihan oysters",
+      "local": "Huîtres du golfe du Morbihan",
+      "icon": "🦪",
+      "desc": "Oysters farmed in the sheltered Gulf of Morbihan and the Quiberon bay. Eaten raw at oyster stalls and on the quays around Vannes, Auray and Locmariaquer.",
+      "kw": [
+        "huîtres",
+        "oysters"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "region": "grenoble",
+  "dishes": [
+    {
+      "id": "grenoble-gratin-dauphinois",
+      "name": "Gratin dauphinois",
+      "local": "",
+      "icon": "🥔",
+      "desc": "Thin potato slices baked slowly in cream and garlic, traditionally without cheese. The classic dish of the Dauphiné.",
+      "kw": [
+        "gratin dauphinois",
+        "gratin"
+      ]
+    },
+    {
+      "id": "grenoble-tarte-aux-noix",
+      "name": "Grenoble walnut tart",
+      "local": "Tarte aux noix",
+      "icon": "🥧",
+      "desc": "Tart of Grenoble walnuts, brown sugar, butter and fresh cream. Grenoble walnuts hold an AOP, France's first for a dried fruit, and pâtisseries across Isère sell the tart.",
+      "kw": [
+        "tarte aux noix",
+        "walnut tart",
+        "noix de grenoble"
+      ]
+    },
+    {
+      "id": "grenoble-bleu-vercors-sassenage",
+      "name": "Bleu du Vercors-Sassenage",
+      "local": "",
+      "icon": "🧀",
+      "desc": "Mild protected blue cheese from the cows that graze in the Vercors Natural Park, just above Grenoble.",
+      "kw": [
+        "vercors-sassenage",
+        "bleu du vercors"
+      ]
+    },
+    {
+      "id": "grenoble-saint-marcellin",
+      "name": "Saint-Marcellin",
+      "local": "",
+      "icon": "🧀",
+      "desc": "Small soft cow's milk cheese with a protected geographical indication, produced in Isère and neighbouring departments and a fixture of Grenoble markets.",
+      "kw": [
+        "saint-marcellin"
+      ]
+    },
+    {
+      "id": "grenoble-murcon",
+      "name": "Murçon",
+      "local": "",
+      "icon": "🌭",
+      "desc": "Cooked pork sausage seasoned with caraway, tied to the Matheysine area south of Grenoble around La Mure.",
+      "kw": [
+        "murçon",
+        "murcon"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "region": "orleans",
+  "dishes": [
+    {
+      "id": "orleans-pithiviers",
+      "name": "Pithiviers",
+      "local": "",
+      "icon": "🥧",
+      "desc": "An almond cake from the Loiret town of Pithiviers, sold glazed or as a puff pastry version close to a galette des rois. One of the emblems of the Loiret.",
+      "kw": [
+        "pithiviers"
+      ]
+    },
+    {
+      "id": "orleans-andouille-de-jargeau",
+      "name": "Andouille de Jargeau",
+      "local": "",
+      "icon": "🌭",
+      "desc": "A chitterling sausage of pork tripe and minced meat in natural casing, traditionally served with mashed potatoes. Made in Jargeau on the Loire for centuries.",
+      "kw": [
+        "andouille",
+        "jargeau"
+      ]
+    },
+    {
+      "id": "orleans-cendre-d-olivet",
+      "name": "Cendré d'Olivet",
+      "local": "Olivet cendré",
+      "icon": "🧀",
+      "desc": "A cow's milk cheese like a camembert, coated in ash that once kept flies off. A Loiret farm cheese, now made at Châteauneuf-sur-Loire.",
+      "kw": [
+        "olivet",
+        "cendré"
+      ]
+    },
+    {
+      "id": "orleans-pralines-de-montargis",
+      "name": "Montargis pralines",
+      "local": "Praslines de Montargis",
+      "icon": "🌰",
+      "desc": "Caramelised, grilled almonds made from an old local recipe. A confectioner in Montargis has been making them since 1903.",
+      "kw": [
+        "praline",
+        "montargis"
+      ]
+    },
+    {
+      "id": "orleans-cotignac",
+      "name": "Cotignac d'Orléans",
+      "local": "Cotignac",
+      "icon": "🍯",
+      "desc": "A thick, creamy quince jelly made around Orléans since the late Middle Ages. It is sold in a small spruce box whose lid doubles as a spoon.",
+      "kw": [
+        "cotignac",
+        "quince"
+      ]
+    }
+  ]
+}

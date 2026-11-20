@@ -1,0 +1,57 @@
+{
+  "region": "tours",
+  "dishes": [
+    {
+      "id": "tours-rillettes-de-tours",
+      "name": "Rillettes de Tours",
+      "local": "",
+      "icon": "🥫",
+      "desc": "Pork slowly cooked and shredded into a soft, golden spread, eaten on bread. Protected as a geographical indication and tied to the charcutiers of Touraine.",
+      "kw": [
+        "rillettes"
+      ]
+    },
+    {
+      "id": "tours-rillons",
+      "name": "Rillons de Touraine",
+      "local": "Rillons",
+      "icon": "🥓",
+      "desc": "Chunks of pork belly cooked gently until caramelised, eaten warm or cold, alone or with lentils and potatoes. A classic pairing with rillettes on Touraine charcuterie boards.",
+      "kw": [
+        "rillons"
+      ]
+    },
+    {
+      "id": "tours-sainte-maure",
+      "name": "Sainte-Maure de Touraine",
+      "local": "",
+      "icon": "🧀",
+      "desc": "The region's best-known goat cheese, a log with a straw running through its centre. It holds a protected designation and is sold in markets across the Tours area.",
+      "kw": [
+        "sainte-maure",
+        "goat cheese"
+      ]
+    },
+    {
+      "id": "tours-nougat-de-tours",
+      "name": "Nougat de Tours",
+      "local": "",
+      "icon": "🍰",
+      "desc": "Not a nougat in the Provençal sense but a pastry: shortcrust topped with fruit compote, candied fruit and almonds. A traditional Tours sweet.",
+      "kw": [
+        "nougat de tours",
+        "nougat"
+      ]
+    },
+    {
+      "id": "tours-beuchelle",
+      "name": "Beuchelle tourangelle",
+      "local": "Beuchelle tourangelle",
+      "icon": "🍲",
+      "desc": "A rich Touraine dish of sweetbreads and kidneys in a creamy mushroom sauce. Offal cooking in the old Tours style, found on traditional menus.",
+      "kw": [
+        "beuchelle"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "region": "montpellier",
+  "dishes": [
+    {
+      "id": "montpellier-tielle",
+      "name": "Tielle sétoise",
+      "local": "Tielle sétoise",
+      "icon": "🥧",
+      "desc": "A slightly brioche-like pie filled with octopus, tomato, onion, chilli and white wine, a recipe brought by fishermen from Gaeta. A Sète speciality that Montpellier has adopted.",
+      "kw": [
+        "tielle"
+      ]
+    },
+    {
+      "id": "montpellier-petits-pates",
+      "name": "Petits pâtés de Pézenas",
+      "local": "Petits pâtés de Pézenas",
+      "icon": "🥟",
+      "desc": "Spool-shaped pastries mixing lamb with lemon and brown sugar, sweet and savoury at once. Pézenas has made them since the 18th century and eaten slightly warmed as a starter.",
+      "kw": [
+        "pâtés de pézenas",
+        "petits pâtés"
+      ]
+    },
+    {
+      "id": "montpellier-macaronade",
+      "name": "Macaronade sétoise",
+      "local": "Macaronade sétoise",
+      "icon": "🍝",
+      "desc": "A Sète dish of macaroni with slow-cooked beef brageoles, pork and tomato sauce, hearty and traditional on the Hérault coast.",
+      "kw": [
+        "macaronade"
+      ]
+    },
+    {
+      "id": "montpellier-brasucade",
+      "name": "Brasucade de moules",
+      "local": "Brasucade de moules",
+      "icon": "🦪",
+      "desc": "Mussels from the Thau lagoon cooked in a big pan over a vine-cutting fire, doused with scented olive oil and eaten with the fingers.",
+      "kw": [
+        "brasucade",
+        "mussels"
+      ]
+    },
+    {
+      "id": "montpellier-oreillettes",
+      "name": "Oreillettes",
+      "local": "Oreillettes",
+      "icon": "🍪",
+      "desc": "Thin, crisp fritters made from a doughnut-type dough and dusted with sugar, served at traditional festivals and sold at Montpellier bakeries.",
+      "kw": [
+        "oreillettes"
+      ]
+    }
+  ]
+}

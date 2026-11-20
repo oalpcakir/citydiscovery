@@ -1,0 +1,56 @@
+{
+  "region": "troyes",
+  "dishes": [
+    {
+      "id": "troyes-andouillette",
+      "name": "Andouillette de Troyes",
+      "local": "",
+      "icon": "🌭",
+      "desc": "Pork sausage of strips of large intestine and stomach, seasoned and simmered for almost five hours, then grilled. The Aube's must-eat dish, from Troyes' butchery tradition.",
+      "kw": [
+        "andouillette"
+      ]
+    },
+    {
+      "id": "troyes-chaource",
+      "name": "Chaource",
+      "local": "",
+      "icon": "🧀",
+      "desc": "Soft, mild cow's-milk cheese with a flowery rind, moulded by hand with ladles in the Aube village of Chaource. It has held AOC status for over 50 years.",
+      "kw": [
+        "chaource"
+      ]
+    },
+    {
+      "id": "troyes-langres",
+      "name": "Langres",
+      "local": "",
+      "icon": "🧀",
+      "desc": "Cow's-milk cheese from Haute-Marne with a soft, creamy paste and a strong but not aggressive taste. A local cheese for the end of a meal.",
+      "kw": [
+        "langres"
+      ]
+    },
+    {
+      "id": "troyes-soumaintrain",
+      "name": "Soumaintrain",
+      "local": "",
+      "icon": "🧀",
+      "desc": "Raw cow's-milk washed-rind cheese from the Yonne, to be eaten well ripened. A farmhouse neighbour of Chaource and Saint-Florentin.",
+      "kw": [
+        "soumaintrain"
+      ]
+    },
+    {
+      "id": "troyes-choucroute-champagne",
+      "name": "Champagne sauerkraut",
+      "local": "Choucroute au champagne",
+      "icon": "🥬",
+      "desc": "Sauerkraut from the plain around Brienne-le-Château, cooked with champagne and served with pork. The Aube is France's second-largest sauerkraut producer.",
+      "kw": [
+        "choucroute",
+        "sauerkraut"
+      ]
+    }
+  ]
+}

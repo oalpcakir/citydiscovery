@@ -171,7 +171,7 @@
   var $sheet = document.getElementById("sheet");
   var $backdrop = document.getElementById("sheet-backdrop");
   var $toast = document.getElementById("toast");
-  var CC = { Netherlands: "nl", Belgium: "be", Germany: "de", Luxembourg: "lu", France: "fr", Denmark: "dk", Sweden: "se", Switzerland: "ch", "Türkiye": "tr", Cyprus: "cy" };
+  var CC = { Netherlands: "nl", Belgium: "be", Germany: "de", Luxembourg: "lu", France: "fr", Denmark: "dk", Sweden: "se", Switzerland: "ch", "Türkiye": "tr", Cyprus: "cy", Greece: "gr" };
 
   function ring(pct, big) {
     var C = 2 * Math.PI * 26;
@@ -321,12 +321,10 @@
   // the rest behind "More", which opens them as a labelled list.
   function mapCtlHtml() {
     return ('<div class="mapctl' + (ui.ctlOpen ? " open" : "") + '">' +
-      '<button class="glass desk" data-act="zoom-in" aria-label="Zoom in">' + ic("plus") + '</button>' +
-      '<button class="glass desk" data-act="zoom-out" aria-label="Zoom out">' + ic("minus") + '</button>' +
-      '<button class="glass x" data-act="tilt" aria-label="Tilt the map">' + ic("box") + '</button>' +
-      '<button class="glass x" data-act="overview" aria-label="All regions">' + ic("globe") + '</button>' +
-      '<button class="glass x" data-act="suggest" aria-label="Surprise me">' + ic("dices") + '</button>' +
-      '<button class="glass x rec" data-act="rec-start" aria-label="Suggest a place">' + ic("map-pin") + ic("plus", "mini") + '</button>' +
+      '<button class="glass xtra" data-act="tilt" aria-label="Tilt the map">' + ic("box") + '</button>' +
+      '<button class="glass xtra" data-act="overview" aria-label="All regions">' + ic("globe") + '</button>' +
+      '<button class="glass xtra" data-act="suggest" aria-label="Surprise me">' + ic("dices") + '</button>' +
+      '<button class="glass xtra rec" data-act="rec-start" aria-label="Suggest a place">' + ic("map-pin") + ic("plus", "mini") + '</button>' +
       '<button class="glass more' + (ui.ctlOpen ? " on" : "") + '" data-act="ctl-more" aria-label="' + (ui.ctlOpen ? "Close" : "More") + '" aria-expanded="' + !!ui.ctlOpen + '">' + ic(ui.ctlOpen ? "x" : "ellipsis") + '</button>' +
       '<button class="glass keep gem' + (ui.hunt ? " on" : "") + '" data-act="hunt" aria-label="Treasure hunt">' + ic("gem") + '</button>' +
       '<button class="glass keep' + (ui.panel === "trails" || ui.trail ? " on" : "") + '" data-act="trails" aria-label="Trails">' + ic("route") + '</button>' +

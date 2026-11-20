@@ -1,0 +1,60 @@
+{
+  "region": "perpignan",
+  "dishes": [
+    {
+      "id": "perpignan-boles-picolat",
+      "name": "Boles de picolat",
+      "local": "Boles de picolat",
+      "icon": "🍲",
+      "desc": "Catalan meatballs of minced beef and pork with bacon, garlic, parsley and bread soaked in milk, simmered in tomato sauce, often with white beans. A classic of Roussillon home cooking.",
+      "kw": [
+        "boles de picolat",
+        "picolat"
+      ]
+    },
+    {
+      "id": "perpignan-rousquilles",
+      "name": "Rousquilles",
+      "local": "Rosquilles",
+      "icon": "🍩",
+      "desc": "Ring-shaped Catalan biscuits coated in a thin, sweet, lightly aniseed white glaze. A symbol of Perpignan pastry, found in bakeries all over French Catalonia.",
+      "kw": [
+        "rousquilles",
+        "rosquilles"
+      ]
+    },
+    {
+      "id": "perpignan-creme-catalane",
+      "name": "Crème catalane",
+      "local": "Crema catalana",
+      "icon": "🍮",
+      "desc": "A custard flavoured with cinnamon and lemon zest under a hard caramelised sugar crust, like a crème brûlée. The standard Catalan dessert on Perpignan menus.",
+      "kw": [
+        "crème catalane",
+        "crema catalana"
+      ]
+    },
+    {
+      "id": "perpignan-bunyetes",
+      "name": "Bunyetes",
+      "local": "Bunyetes",
+      "icon": "🥞",
+      "desc": "Very thin, crisp, round fritters scented with orange blossom and citrus, made on the Roussillon plain and in the Vallespir and Conflent. Traditionally an Easter treat.",
+      "kw": [
+        "bunyetes",
+        "beignets"
+      ]
+    },
+    {
+      "id": "perpignan-anchois",
+      "name": "Collioure anchovies",
+      "local": "Anchois de Collioure",
+      "icon": "🐟",
+      "desc": "Anchovies fished at night from boats with a lamp, then salted for months. Collioure on the Côte Vermeille is known for them, eaten on bread or with escalivada.",
+      "kw": [
+        "anchois",
+        "anchovies"
+      ]
+    }
+  ]
+}

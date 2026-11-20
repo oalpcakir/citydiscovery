@@ -1,0 +1,56 @@
+{
+  "region": "avignon",
+  "dishes": [
+    {
+      "id": "avignon-papaline",
+      "name": "Papalines d'Avignon",
+      "local": "",
+      "icon": "🍬",
+      "desc": "Emblematic Avignon confection created in 1960 by the Vaucluse pastry masters' guild. Around sixty confectioners in the département still make it by hand.",
+      "kw": [
+        "papaline"
+      ]
+    },
+    {
+      "id": "avignon-daube",
+      "name": "Daube avignonnaise",
+      "local": "",
+      "icon": "🍲",
+      "desc": "Beef stew slowly simmered in wine, better the day after it is made, and in the Avignon version cooked gently with anchovies. A staple of Provençal home cooking.",
+      "kw": [
+        "daube"
+      ]
+    },
+    {
+      "id": "avignon-crespeou",
+      "name": "Crespeou",
+      "local": "",
+      "icon": "🍳",
+      "desc": "A terrine of layered coloured omelettes, from the Comtat Venaissin. Farmers once carried it to the fields, and it is eaten cold.",
+      "kw": [
+        "crespeou"
+      ]
+    },
+    {
+      "id": "avignon-berlingot",
+      "name": "Berlingots de Carpentras",
+      "local": "",
+      "icon": "🍭",
+      "desc": "Berlingots de Carpentras are boiled sweets from Carpentras in the Vaucluse, a town better known for its truffle market and other Ventoux produce.",
+      "kw": [
+        "berlingot"
+      ]
+    },
+    {
+      "id": "avignon-fruits-confits",
+      "name": "Fruits confits d'Apt",
+      "local": "",
+      "icon": "🍒",
+      "desc": "Candied fruit, the specialty of Apt in the Luberon. Especially common at Christmas and over the winter festive season.",
+      "kw": [
+        "fruits confits",
+        "candied fruit"
+      ]
+    }
+  ]
+}

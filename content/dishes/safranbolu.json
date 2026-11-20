@@ -1,0 +1,59 @@
+{
+  "region": "safranbolu",
+  "dishes": [
+    {
+      "id": "safranbolu-lokum",
+      "name": "Safranbolu saffron lokum",
+      "local": "Safranbolu lokumu",
+      "icon": "🍬",
+      "desc": "Turkish delight made with cornstarch and sugar, coloured gold and lightly scented with saffron. Made here since the Ottoman period and sold in boxes in the old town.",
+      "kw": [
+        "safranbolu lokumu",
+        "lokum"
+      ]
+    },
+    {
+      "id": "safranbolu-zerde",
+      "name": "Zerde",
+      "local": "",
+      "icon": "🍚",
+      "desc": "Sweet rice dessert with saffron, sugar and rice, served cold, often topped with walnuts. Descended from palace cooking and tied to the saffron that gave the town its name.",
+      "kw": [
+        "zerde"
+      ]
+    },
+    {
+      "id": "safranbolu-peruhi",
+      "name": "Peruhi",
+      "local": "",
+      "icon": "🥟",
+      "desc": "Hand-rolled dough squares filled with strained yogurt or keş and mint, folded into triangles, boiled and finished with butter. Sometimes called yoğurtlu mantı.",
+      "kw": [
+        "peruhi",
+        "perohi"
+      ]
+    },
+    {
+      "id": "safranbolu-safranbolu-bukmesi",
+      "name": "Safranbolu bükme",
+      "local": "Safranbolu bükmesi",
+      "icon": "🥧",
+      "desc": "Savoury pastry of rolled dough with minced meat, spinach, onion and pepper, finished with butter and often served with sour cherry syrup.",
+      "kw": [
+        "bükme",
+        "safranbolu bükmesi"
+      ]
+    },
+    {
+      "id": "safranbolu-cullu-borek",
+      "name": "Çullu börek",
+      "local": "",
+      "icon": "🥧",
+      "desc": "Layered pastry of yufka sheets baked on a griddle, with some cut into strips between whole sheets in a copper tray and finished with butter.",
+      "kw": [
+        "çullu börek",
+        "çullu"
+      ]
+    }
+  ]
+}

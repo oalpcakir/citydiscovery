@@ -1,0 +1,70 @@
+{
+  "region": "marseille",
+  "dishes": [
+    {
+      "id": "marseille-bouillabaisse",
+      "name": "Bouillabaisse",
+      "local": "",
+      "icon": "🍲",
+      "desc": "The famous Marseille fish stew, a dish with centuries of history rooted in a humble Greek-style fishermen's stew. Served at the port as broth and fish together.",
+      "kw": [
+        "bouillabaisse"
+      ]
+    },
+    {
+      "id": "marseille-navette",
+      "name": "Navettes de Marseille",
+      "local": "",
+      "icon": "🍪",
+      "desc": "Boat-shaped orange-blossom biscuits, the Marseille sweet best suited to taking home. They travel well and are sold in bakeries across the city.",
+      "kw": [
+        "navette",
+        "navettes"
+      ]
+    },
+    {
+      "id": "marseille-panisse",
+      "name": "Panisses",
+      "local": "",
+      "icon": "🍟",
+      "desc": "Fried chickpea-flour fritters, a popular street snack in Marseille and especially associated with L'Estaque. Crisp outside, soft inside, and meat-free.",
+      "kw": [
+        "panisse",
+        "panisses"
+      ]
+    },
+    {
+      "id": "marseille-pieds-paquets",
+      "name": "Pieds paquets",
+      "local": "",
+      "icon": "🥘",
+      "desc": "Lamb tripe parcels stuffed with salted pork, garlic and parsley, simmered in white wine and tomato. A Marseille dish credited to a cook of La Pomme district in 1880.",
+      "kw": [
+        "pieds paquets",
+        "pieds et paquets"
+      ]
+    },
+    {
+      "id": "marseille-calisson",
+      "name": "Calissons d'Aix",
+      "local": "",
+      "icon": "🍬",
+      "desc": "Almond-and-melon-paste sweets with a royal icing top, from Aix-en-Provence. One of the traditional thirteen desserts of a Provençal Christmas.",
+      "kw": [
+        "calisson",
+        "calissons"
+      ]
+    },
+    {
+      "id": "marseille-chichi",
+      "name": "Chichis",
+      "local": "",
+      "icon": "🍩",
+      "desc": "Sweet fried dough fritters, a traditional Marseille treat. Eaten warm, often in the L'Estaque district.",
+      "kw": [
+        "chichi",
+        "chichis"
+      ]
+    }
+  ]
+}

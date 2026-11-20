@@ -1,0 +1,49 @@
+{
+  "region": "canakkale",
+  "dishes": [
+    {
+      "id": "canakkale-peynir-helvasi",
+      "name": "Gelibolu cheese halva",
+      "local": "Gelibolu peynir helvası",
+      "icon": "🍯",
+      "desc": "A sweet-salty halva made from fresh unsalted white cheese, a little flour and beet sugar, with a geographical indication. Gelibolu makers trace it back some 700 years.",
+      "kw": [
+        "peynir helvası",
+        "cheese halva"
+      ]
+    },
+    {
+      "id": "canakkale-ezine-peyniri",
+      "name": "Ezine cheese",
+      "local": "Ezine peyniri",
+      "icon": "🧀",
+      "desc": "A white brine cheese named for the Ezine district, a fixture of Turkish breakfast and an ingredient in many local dishes. Easy to buy across the province.",
+      "kw": [
+        "ezine",
+        "ezine peyniri"
+      ]
+    },
+    {
+      "id": "canakkale-sardalya",
+      "name": "Gelibolu sardines",
+      "local": "Gelibolu sardalyası",
+      "icon": "🐟",
+      "desc": "Sardines from the Gelibolu coast, salted and cured or cooked as buğulama and stuffed dolma. Salted fish canning is part of the town's food identity.",
+      "kw": [
+        "sardalya",
+        "sardine"
+      ]
+    },
+    {
+      "id": "canakkale-tavuklu-manti",
+      "name": "Gelibolu chicken mantı",
+      "local": "Gelibolu tavuklu mantısı",
+      "icon": "🥟",
+      "desc": "A chicken-topped mantı dish listed among Gelibolu's signature foods in local culinary research. It sits beside the cheese halva and sardines as the town's own table.",
+      "kw": [
+        "tavuklu mantı",
+        "gelibolu mantı"
+      ]
+    }
+  ]
+}

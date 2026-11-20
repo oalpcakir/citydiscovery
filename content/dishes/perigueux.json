@@ -1,0 +1,68 @@
+{
+  "region": "perigueux",
+  "dishes": [
+    {
+      "id": "perigueux-pate-perigueux",
+      "name": "Pâté de Périgueux",
+      "local": "",
+      "icon": "🥧",
+      "desc": "Pastry pie filled with meat, foie gras and truffle, whose origins are traced to Périgueux pastry cooks of past centuries. Found in local delicatessens and restaurants.",
+      "kw": [
+        "pâté de périgueux",
+        "pâté périgourdin"
+      ]
+    },
+    {
+      "id": "perigueux-tourin",
+      "name": "Tourin",
+      "local": "Tourin périgourdin",
+      "icon": "🥣",
+      "desc": "Garlic and onion soup cooked in duck fat, often thickened with egg and served with bread. A humble Périgord farm soup, still on menus in Dordogne.",
+      "kw": [
+        "tourin"
+      ]
+    },
+    {
+      "id": "perigueux-confit-canard",
+      "name": "Duck confit",
+      "local": "Confit de canard",
+      "icon": "🦆",
+      "desc": "Duck leg slowly cooked and preserved in its own fat, then crisped. Served in Périgord with sarladaise potatoes or cep mushrooms.",
+      "kw": [
+        "confit de canard",
+        "duck confit"
+      ]
+    },
+    {
+      "id": "perigueux-foie-gras",
+      "name": "Périgord foie gras",
+      "local": "Foie gras du Périgord",
+      "icon": "🍽️",
+      "desc": "Duck or goose liver served as terrine or lightly seared, a mainstay of Dordogne cooking. Eaten with toast and fig jam in local restaurants and markets.",
+      "kw": [
+        "foie gras"
+      ]
+    },
+    {
+      "id": "perigueux-sarladaise",
+      "name": "Sarladaise potatoes",
+      "local": "Pommes de terre sarladaises",
+      "icon": "🥔",
+      "desc": "Sliced potatoes fried in duck fat with garlic and parsley, often with truffle or ceps. The standard side for confit and magret in Périgord.",
+      "kw": [
+        "sarladaise"
+      ]
+    },
+    {
+      "id": "perigueux-gateau-noix",
+      "name": "Walnut cake",
+      "local": "Gâteau aux noix du Périgord",
+      "icon": "🍰",
+      "desc": "Dense cake made with protected Périgord walnuts, found in bakeries along with walnut tarts and nut-based sweets. Dordogne is a leading French walnut region.",
+      "kw": [
+        "noix",
+        "walnut"
+      ]
+    }
+  ]
+}

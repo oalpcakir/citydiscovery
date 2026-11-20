@@ -1,0 +1,60 @@
+{
+  "region": "isparta",
+  "dishes": [
+    {
+      "id": "isparta-banak",
+      "name": "Banak",
+      "local": "Banak",
+      "icon": "🍖",
+      "desc": "Lamb, mutton or beef slow-cooked in a tray over pide bread and often served with pilaf. A traditional dish of the Isparta kitchen.",
+      "kw": [
+        "banak"
+      ]
+    },
+    {
+      "id": "isparta-gullokum",
+      "name": "Rose Turkish delight",
+      "local": "Gül lokumu",
+      "icon": "🌹",
+      "desc": "Turkish delight flavoured with real rose from the Isparta rose fields, which locals prefer to versions made with rose water.",
+      "kw": [
+        "gül lokumu",
+        "rose lokum",
+        "rose delight"
+      ]
+    },
+    {
+      "id": "isparta-gullac",
+      "name": "Yalvaç güllacı",
+      "local": "Yalvaç güllacı",
+      "icon": "🥛",
+      "desc": "A rose-shaped rolled güllaç dessert made with a milk-based, lor-like cheese, different from other güllaç varieties. Named for the Isparta town of Yalvaç.",
+      "kw": [
+        "güllaç",
+        "gullac"
+      ]
+    },
+    {
+      "id": "isparta-sis",
+      "name": "Burdur şiş",
+      "local": "Burdur şiş",
+      "icon": "🍢",
+      "desc": "Lamb or goat minced with tail fat and seasoned with salt only, grilled on skewers and usually eaten with pide. A Burdur speciality.",
+      "kw": [
+        "burdur şiş",
+        "burdur sis"
+      ]
+    },
+    {
+      "id": "isparta-kombe",
+      "name": "Bucak kömbe",
+      "local": "Bucak kömbesi",
+      "icon": "🫓",
+      "desc": "Round dough pastry filled with tahini, walnut, molasses or poppy seed and oil, common around Bucak in Burdur province.",
+      "kw": [
+        "kömbe",
+        "kombe"
+      ]
+    }
+  ]
+}

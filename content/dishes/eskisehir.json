@@ -1,0 +1,58 @@
+{
+  "region": "eskisehir",
+  "dishes": [
+    {
+      "id": "eskisehir-ciborek",
+      "name": "Çibörek",
+      "local": "",
+      "icon": "🥟",
+      "desc": "Half-moon pastry of thin dough filled with spiced minced meat and deep-fried, usually eaten with ayran. A Tatar dish that Eskişehir has made its own, served around Odunpazarı.",
+      "kw": [
+        "çibörek",
+        "cibörek"
+      ]
+    },
+    {
+      "id": "eskisehir-balaban",
+      "name": "Balaban",
+      "local": "Balaban kebabı",
+      "icon": "🍖",
+      "desc": "Pide soaked in hot broth and topped with yogurt-tomato sauce, grilled meatballs, skewers, peppers and hot butter. A Tatar-rooted dish tied to Eskişehir's old kebab houses.",
+      "kw": [
+        "balaban"
+      ]
+    },
+    {
+      "id": "eskisehir-met-helva",
+      "name": "Met helva",
+      "local": "Met helvası",
+      "icon": "🍯",
+      "desc": "Crumbly flour, sugar and butter halva flavoured with cocoa and vanilla. Its name comes from a stick-and-knucklebone game, and Eskişehir treats it as its own sweet.",
+      "kw": [
+        "met helva",
+        "met helvası"
+      ]
+    },
+    {
+      "id": "eskisehir-hosmerim",
+      "name": "Höşmerim",
+      "local": "",
+      "icon": "🍮",
+      "desc": "Halva-like dessert of fresh unsalted cheese cooked with flour, semolina and sugar, often topped with walnuts. A traditional Eskişehir sweet served in its pastry shops.",
+      "kw": [
+        "höşmerim"
+      ]
+    },
+    {
+      "id": "eskisehir-muska-baklava",
+      "name": "Sivrihisar muska baklava",
+      "local": "Sivrihisar muska baklavası",
+      "icon": "🥐",
+      "desc": "Triangular baklava shaped like an amulet (muska), with layered pastry and balanced syrup. A specialty of Sivrihisar, in the Eskişehir province.",
+      "kw": [
+        "muska baklava",
+        "sivrihisar"
+      ]
+    }
+  ]
+}

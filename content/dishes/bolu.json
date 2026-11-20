@@ -1,0 +1,58 @@
+{
+  "region": "bolu",
+  "dishes": [
+    {
+      "id": "bolu-mengen-pilavi",
+      "name": "Mengen pilavı",
+      "local": "",
+      "icon": "🍚",
+      "desc": "Pilaf with lamb, mushrooms, walnuts, tomatoes and dill, served with ayran. It takes its name from the Mengen district, home of Türkiye's famous cooks.",
+      "kw": [
+        "mengen pilavı",
+        "mengen"
+      ]
+    },
+    {
+      "id": "bolu-ovmac",
+      "name": "Ovmaç soup",
+      "local": "Ovmaç (oğmaç) çorbası",
+      "icon": "🥣",
+      "desc": "Winter soup with onion, mince and tomato paste, thickened with hand-rubbed pieces of flour-and-egg dough. One of Bolu's best-known soups.",
+      "kw": [
+        "ovmaç",
+        "oğmaç"
+      ]
+    },
+    {
+      "id": "bolu-saray-helvasi",
+      "name": "Saray helvası",
+      "local": "",
+      "icon": "🍬",
+      "desc": "Dry, layered halva topped with pistachios, a classic Bolu gift sweet. Sources tie it to Mudurnu in Bolu province.",
+      "kw": [
+        "saray helvası"
+      ]
+    },
+    {
+      "id": "bolu-abant-kebabi",
+      "name": "Abant kebabı",
+      "local": "",
+      "icon": "🍆",
+      "desc": "Whole smoked aubergine stuffed with lamb, mushrooms, onion, tomato and pepper, often topped with grated cheese. Named after the lake in Bolu's hills.",
+      "kw": [
+        "abant kebabı",
+        "abant"
+      ]
+    },
+    {
+      "id": "bolu-kedi-batmaz",
+      "name": "Kedi batmaz",
+      "local": "",
+      "icon": "🥄",
+      "desc": "Cornmeal cooked in boiling water with molasses, spooned out and eaten with butter, walnuts and molasses. A Mengen dish whose odd name means that a cat would not sink in it.",
+      "kw": [
+        "kedi batmaz"
+      ]
+    }
+  ]
+}

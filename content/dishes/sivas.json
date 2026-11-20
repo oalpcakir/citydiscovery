@@ -1,0 +1,45 @@
+{
+  "region": "sivas",
+  "dishes": [
+    {
+      "id": "sivas-kofte",
+      "name": "Sivas kofte",
+      "local": "Sivas köftesi",
+      "icon": "🍖",
+      "desc": "Simple meatballs grilled over wood fire, served on pide with roasted pepper and tomato. A product with a geographical indication and the city's best-known dish.",
+      "kw": ["sivas köftesi", "sivas köfte"]
+    },
+    {
+      "id": "sivas-hingel",
+      "name": "Hingel",
+      "local": "Hingel",
+      "icon": "🥟",
+      "desc": "Large pieces of filled dough, boiled and served with garlicky yogurt and butter. Sivas's own version of mantı, usually filled with potato or cheese.",
+      "kw": ["hingel"]
+    },
+    {
+      "id": "sivas-divrigi-pilavi",
+      "name": "Divrigi pilaf",
+      "local": "Divriği pilavı",
+      "icon": "🍚",
+      "desc": "A rich pilaf with meat, rice, chickpeas and dried fruit, cooked for special occasions. It comes from Divriği, in the east of the province.",
+      "kw": ["divriği pilavı", "alatlı pilav"]
+    },
+    {
+      "id": "sivas-madimak",
+      "name": "Madimak",
+      "local": "Madımak yemeği",
+      "icon": "🌿",
+      "desc": "A wild herb chopped and cooked with bulgur, onion and garlic, sometimes with pastirma. A spring dish tied to Sivas.",
+      "kw": ["madımak"]
+    },
+    {
+      "id": "sivas-erzincan-tulum",
+      "name": "Erzincan tulum cheese",
+      "local": "Erzincan tulum peyniri",
+      "icon": "🧀",
+      "desc": "A crumbly cheese from sheep and goat milk of the high pastures, matured in skin bags for about three months. It carries Turkish and EU geographical indications.",
+      "kw": ["tulum peyniri", "erzincan tulum"]
+    }
+  ]
+}

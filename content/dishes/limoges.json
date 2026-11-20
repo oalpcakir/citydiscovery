@@ -1,0 +1,59 @@
+{
+  "region": "limoges",
+  "dishes": [
+    {
+      "id": "limoges-boudin-aux-chataignes",
+      "name": "Chestnut black pudding",
+      "local": "Boudin noir aux châtaignes",
+      "icon": "🌭",
+      "desc": "Limousin black pudding made with chestnuts, grilled in a pan and served with fried onions and caramelised apples from the region.",
+      "kw": [
+        "boudin",
+        "chestnut"
+      ]
+    },
+    {
+      "id": "limoges-clafoutis-limousin",
+      "name": "Limousin clafoutis",
+      "local": "Clafoutis",
+      "icon": "🍒",
+      "desc": "A batter cake traditionally baked with whole cherries and their pits. Made with other fruit it is called flognarde. The best-known dessert of the Limousin.",
+      "kw": [
+        "clafoutis",
+        "flognarde"
+      ]
+    },
+    {
+      "id": "limoges-galette-de-pommes-de-terre",
+      "name": "Limousin potato pie",
+      "local": "Pâté de pommes de terre",
+      "icon": "🥔",
+      "desc": "A savory pie of potatoes, sometimes with meat, in a brioche-style crust in Haute-Vienne. Sold warm at the central market and by local bakers.",
+      "kw": [
+        "potato pie",
+        "pommes de terre"
+      ]
+    },
+    {
+      "id": "limoges-galetou",
+      "name": "Galetou",
+      "local": "",
+      "icon": "🥞",
+      "desc": "A rustic buckwheat pancake once used as bread, usually rolled around rillettes or cracklings. Found at the central market in Limoges.",
+      "kw": [
+        "galetou"
+      ]
+    },
+    {
+      "id": "limoges-marzipan-saint-leonard",
+      "name": "Saint-Léonard marzipan",
+      "local": "Massepain de Saint-Léonard",
+      "icon": "🍬",
+      "desc": "Almond, egg white and sugar sweet, crisp and golden outside, soft inside. Made in Saint-Léonard-de-Noblat, near Limoges, and said to have come with pilgrims.",
+      "kw": [
+        "marzipan",
+        "massepain"
+      ]
+    }
+  ]
+}

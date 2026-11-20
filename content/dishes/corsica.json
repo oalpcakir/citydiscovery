@@ -1,0 +1,58 @@
+{
+  "region": "corsica",
+  "dishes": [
+    {
+      "id": "corsica-figatellu",
+      "name": "Figatellu",
+      "local": "",
+      "icon": "🌭",
+      "desc": "A Corsican pork-liver sausage, cured or grilled fresh over embers in winter. The centrepiece of the island's charcuterie, alongside lonzu and coppa.",
+      "kw": [
+        "figatellu",
+        "figatelli"
+      ]
+    },
+    {
+      "id": "corsica-brocciu",
+      "name": "Brocciu",
+      "local": "",
+      "icon": "🧀",
+      "desc": "Corsica's whey cheese, protected by AOC since 1983 and AOP since 2003. Eaten fresh or aged, and used in cannelloni, fritters and desserts.",
+      "kw": [
+        "brocciu"
+      ]
+    },
+    {
+      "id": "corsica-fiadone",
+      "name": "Fiadone",
+      "local": "",
+      "icon": "🍮",
+      "desc": "The island's emblematic dessert, a baked brocciu, egg, sugar and lemon-zest cake. Found in restaurants and bakeries all over Corsica.",
+      "kw": [
+        "fiadone"
+      ]
+    },
+    {
+      "id": "corsica-canistrelli",
+      "name": "Canistrelli",
+      "local": "",
+      "icon": "🍪",
+      "desc": "Small dry Corsican biscuits made with flour, sugar and white wine. Flavours include lemon, aniseed and chestnut.",
+      "kw": [
+        "canistrelli",
+        "canistrellu"
+      ]
+    },
+    {
+      "id": "corsica-civet-sanglier",
+      "name": "Civet de sanglier",
+      "local": "Cinghjale in civet",
+      "icon": "🐗",
+      "desc": "Wild boar stewed in a rich onion sauce, a staple of Corsican mountain cooking. Typically served with polenta or pasta.",
+      "kw": [
+        "sanglier",
+        "wild boar"
+      ]
+    }
+  ]
+}

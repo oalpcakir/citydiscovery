@@ -1,0 +1,45 @@
+{
+  "region": "trabzon",
+  "dishes": [
+    {
+      "id": "trabzon-akcaabat-koftesi",
+      "name": "Akcaabat kofte",
+      "local": "Akçaabat köftesi",
+      "icon": "🍖",
+      "desc": "Garlic-seasoned grilled meatballs from the Akçaabat district, just west of Trabzon. Served with bread, peppers and other sides.",
+      "kw": ["akçaabat köfte", "akçaabat"]
+    },
+    {
+      "id": "trabzon-hamsi-tava",
+      "name": "Hamsi tava",
+      "local": "Hamsi tava",
+      "icon": "🐟",
+      "desc": "Fresh anchovies coated in cornmeal and fried crisp. Often called Trabzon's most famous dish and one of the most commonly served local plates.",
+      "kw": ["hamsi tava", "hamsi"]
+    },
+    {
+      "id": "trabzon-kuymak",
+      "name": "Kuymak",
+      "local": "Kuymak",
+      "icon": "🧀",
+      "desc": "A molten mix of kolot cheese and cornmeal, eaten hot with cornbread. A staple of Black Sea breakfasts and the most served local dish in Trabzon menus.",
+      "kw": ["kuymak"]
+    },
+    {
+      "id": "trabzon-pide",
+      "name": "Trabzon pide",
+      "local": "Trabzon pidesi",
+      "icon": "🥖",
+      "desc": "Thin dough topped with local cheese, often with a cracked egg and plenty of butter. A staple local bake, found throughout the city.",
+      "kw": ["trabzon pide", "peynirli pide"]
+    },
+    {
+      "id": "trabzon-karalahana-corbasi",
+      "name": "Black cabbage soup",
+      "local": "Karalahana çorbası",
+      "icon": "🥬",
+      "desc": "Kale soup thickened with cornmeal and borlotti beans and finished with butter. Karalahana is the defining winter vegetable of the Black Sea.",
+      "kw": ["karalahana", "karalahana çorbası"]
+    }
+  ]
+}

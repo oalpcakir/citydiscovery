@@ -1,0 +1,60 @@
+{
+  "region": "denizli",
+  "dishes": [
+    {
+      "id": "denizli-denizli-kebabi",
+      "name": "Denizli kebabı",
+      "local": "Denizli tandır kebabı",
+      "icon": "🍖",
+      "desc": "Lamb cooked in a tandır oven, eaten with onion, tomato and lavaş. It received a geographical indication in 2010.",
+      "kw": [
+        "denizli kebabı",
+        "tandır"
+      ]
+    },
+    {
+      "id": "denizli-tavas-guveci",
+      "name": "Tavas güveci",
+      "local": "Tavas güveci",
+      "icon": "🥘",
+      "desc": "A güveç from the Tavas district cooked for hours without spices. A local favorite beyond the town.",
+      "kw": [
+        "tavas güveci",
+        "güveç"
+      ]
+    },
+    {
+      "id": "denizli-yen-boregi",
+      "name": "Yen böreği",
+      "local": "Yen böreği",
+      "icon": "🥧",
+      "desc": "A main-course pastry with minced meat filling in a cornmeal dough, made in villages for special days and guests. Also written leyen böreği.",
+      "kw": [
+        "yen böreği",
+        "leyen böreği"
+      ]
+    },
+    {
+      "id": "denizli-tavas-baklavasi",
+      "name": "Tavas baklavası",
+      "local": "Tavas baklavası",
+      "icon": "🍯",
+      "desc": "Baklava from the Tavas district, one of the local products Denizli promotes on its gastronomy routes.",
+      "kw": [
+        "tavas baklavası",
+        "baklava"
+      ]
+    },
+    {
+      "id": "denizli-borulce-boregi",
+      "name": "Börülce böreği",
+      "local": "Börülce böreği",
+      "icon": "🥧",
+      "desc": "A pastry of crumbled dry yufka and boiled black-eyed peas, often served with pickles. A Denizli country dish.",
+      "kw": [
+        "börülce böreği",
+        "börülce"
+      ]
+    }
+  ]
+}

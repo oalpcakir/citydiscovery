@@ -1,0 +1,60 @@
+{
+  "region": "sanliurfa",
+  "dishes": [
+    {
+      "id": "sanliurfa-urfa-kebab",
+      "name": "Urfa kebab",
+      "local": "Urfa kebabı",
+      "icon": "🍢",
+      "desc": "Hand-chopped lamb, mildly seasoned and grilled on a wide skewer, served with onion, tomato and lavash. The meat is traditionally chopped with a zırh knife and eaten without the hot spice of Antep.",
+      "kw": [
+        "urfa kebab",
+        "urfa kebabı"
+      ]
+    },
+    {
+      "id": "sanliurfa-cig-kofte",
+      "name": "Urfa çiğ köfte",
+      "local": "",
+      "icon": "🥬",
+      "desc": "Bulgur kneaded with tomato paste, spices and isot pepper, wrapped in lettuce. In Urfa it is now made without raw meat and sold at stalls across the old town.",
+      "kw": [
+        "çiğ köfte",
+        "cig kofte",
+        "isot"
+      ]
+    },
+    {
+      "id": "sanliurfa-sillik",
+      "name": "Şıllık",
+      "local": "Şıllık tatlısı",
+      "icon": "🍮",
+      "desc": "Thin pastry sheets soaked in grape molasses with a layer of walnuts or pistachios and a milky syrup. A traditional Urfa sweet seldom found outside the province.",
+      "kw": [
+        "şıllık",
+        "sillik"
+      ]
+    },
+    {
+      "id": "sanliurfa-lahmacun",
+      "name": "Urfa lahmacun",
+      "local": "Urfa lahmacunu",
+      "icon": "🫓",
+      "desc": "Very thin flatbread topped with minced meat, tomato and pepper, baked in a stone oven and rolled with parsley and lemon. Urfa claims it as one of its signature foods.",
+      "kw": [
+        "lahmacun"
+      ]
+    },
+    {
+      "id": "sanliurfa-lebeni",
+      "name": "Lebeni soup",
+      "local": "Lebeni çorbası",
+      "icon": "🥣",
+      "desc": "Yoghurt soup with chickpeas and wheat, finished with mint and chili butter. A tangy comfort dish from Urfa home kitchens and local restaurants.",
+      "kw": [
+        "lebeni",
+        "lebeni çorbası"
+      ]
+    }
+  ]
+}

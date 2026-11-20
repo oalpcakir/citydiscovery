@@ -1,0 +1,60 @@
+{
+  "region": "angers",
+  "dishes": [
+    {
+      "id": "angers-fouee",
+      "name": "Fouée",
+      "local": "",
+      "icon": "🥖",
+      "desc": "Hollow flatbread baked in a wood oven and filled with rillettes, white beans and butter. Saumur's cave restaurants serve them hot by the basket.",
+      "kw": [
+        "fouée",
+        "fouees"
+      ]
+    },
+    {
+      "id": "angers-rillauds",
+      "name": "Rillauds d'Anjou",
+      "local": "",
+      "icon": "🥓",
+      "desc": "Chunks of pork belly slowly cooked and caramelised in lard, eaten warm with mustard. A staple of Anjou butchers and market days.",
+      "kw": [
+        "rillauds",
+        "rillaud"
+      ]
+    },
+    {
+      "id": "angers-cremet-anjou",
+      "name": "Crémet d'Anjou",
+      "local": "",
+      "icon": "🍮",
+      "desc": "Light dessert of whipped cream, whipped egg white and fromage frais, served cold with cream or red fruit. A speciality of Angers and the Maine-et-Loire.",
+      "kw": [
+        "crémet",
+        "cremet"
+      ]
+    },
+    {
+      "id": "angers-quernons-ardoise",
+      "name": "Quernons d'ardoise",
+      "local": "",
+      "icon": "🍫",
+      "desc": "Almond-and-hazelnut nougatine coated in blue-grey chocolate to look like Angers' roof slate. A sweet from Angers confectioners.",
+      "kw": [
+        "quernon",
+        "quernons"
+      ]
+    },
+    {
+      "id": "angers-galipettes",
+      "name": "Galipettes",
+      "local": "",
+      "icon": "🍄",
+      "desc": "Large button mushrooms grown in the tuffeau caves around Saumur, stuffed with rillettes or garlic and herbs, and baked. Eaten in cave restaurants.",
+      "kw": [
+        "galipette",
+        "galipettes"
+      ]
+    }
+  ]
+}

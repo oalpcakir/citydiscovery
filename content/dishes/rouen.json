@@ -1,0 +1,59 @@
+{
+  "region": "rouen",
+  "dishes": [
+    {
+      "id": "rouen-canard",
+      "name": "Rouen duck",
+      "local": "Canard à la rouennaise",
+      "icon": "🦆",
+      "desc": "Duckling roasted rare and served in a sauce of Bordeaux wine, shallots and the bird's own blood. It is Rouen's signature dish and is traditionally carved and finished at the table.",
+      "kw": [
+        "rouen duck",
+        "canard à la rouennaise"
+      ]
+    },
+    {
+      "id": "rouen-sucre-pomme",
+      "name": "Sucre de pomme",
+      "local": "",
+      "icon": "🍎",
+      "desc": "Orange apple-sugar sticks made from apple juice, apple purée and sugar, a Rouen confectionery speciality. Sold by local confectioners as a sweet to take home.",
+      "kw": [
+        "sucre de pomme",
+        "apple sugar"
+      ]
+    },
+    {
+      "id": "rouen-douillon",
+      "name": "Douillon d'Elbeuf",
+      "local": "",
+      "icon": "🥧",
+      "desc": "A whole apple, hollowed and filled with butter and sugar, wrapped in puff pastry and baked. A Seine valley treat from Elbeuf, eaten from September through winter.",
+      "kw": [
+        "douillon"
+      ]
+    },
+    {
+      "id": "rouen-neufchatel",
+      "name": "Neufchâtel",
+      "local": "",
+      "icon": "🧀",
+      "desc": "Heart-shaped cow's-milk cheese with a white bloomy rind, made in Seine-Maritime around Neufchâtel-en-Bray. One of Normandy's four AOP cheeses.",
+      "kw": [
+        "neufchâtel",
+        "neufchatel"
+      ]
+    },
+    {
+      "id": "rouen-marmite-dieppoise",
+      "name": "Marmite dieppoise",
+      "local": "",
+      "icon": "🍲",
+      "desc": "Creamy fish stew from Dieppe on the Channel coast: monkfish, sole or turbot with mussels and prawns, cooked in cider or white wine and finished with cream.",
+      "kw": [
+        "marmite dieppoise",
+        "dieppoise"
+      ]
+    }
+  ]
+}

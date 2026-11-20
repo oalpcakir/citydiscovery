@@ -1,0 +1,57 @@
+{
+  "region": "ayvalik",
+  "dishes": [
+    {
+      "id": "ayvalik-tostu",
+      "name": "Ayvalık tostu",
+      "local": "Ayvalık tostu",
+      "icon": "🥪",
+      "desc": "A large toasted sandwich of sucuk, salami, sausage, kaşar, tomato and pickles on crisp bread, pressed hard. Registered as a traditional product in 2023.",
+      "kw": [
+        "ayvalık tostu",
+        "tost"
+      ]
+    },
+    {
+      "id": "ayvalik-ada-koftesi",
+      "name": "Ada köftesi",
+      "local": "Ada köftesi",
+      "icon": "🍖",
+      "desc": "Thyme-scented veal meatballs that came with the Cretan exchange. Cunda and Ayvalık kitchens still serve them.",
+      "kw": [
+        "ada köftesi",
+        "girit köfte"
+      ]
+    },
+    {
+      "id": "ayvalik-gardumi",
+      "name": "Gardumi",
+      "local": "Gardumi",
+      "icon": "🥘",
+      "desc": "Milk-fed lamb intestine stuffed and cooked, counted among Ayvalık's oldest dishes.",
+      "kw": [
+        "gardumi"
+      ]
+    },
+    {
+      "id": "ayvalik-lor-tatlisi",
+      "name": "Ayvalık lor tatlısı",
+      "local": "Lor tatlısı",
+      "icon": "🍮",
+      "desc": "A curd-cheese dessert specific to Ayvalık. On Cunda it is served with sour cherry jam.",
+      "kw": [
+        "lor tatlısı"
+      ]
+    },
+    {
+      "id": "ayvalik-kalburabasti",
+      "name": "Kalburabastı",
+      "local": "Kül şerbetli kalburabastı",
+      "icon": "🍪",
+      "desc": "A syrup-soaked sweet pastry that Ayvalık is known for, served with an ash-scented syrup.",
+      "kw": [
+        "kalburabastı"
+      ]
+    }
+  ]
+}

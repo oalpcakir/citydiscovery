@@ -1,0 +1,59 @@
+{
+  "region": "lemans",
+  "dishes": [
+    {
+      "id": "lemans-rillettes-du-mans",
+      "name": "Rillettes du Mans",
+      "local": "",
+      "icon": "🥫",
+      "desc": "Pork shoulder slow-cooked in fat and shredded, a protected local product. Spread on bread, it has been Le Mans' signature charcuterie since the 19th century.",
+      "kw": [
+        "rillettes"
+      ]
+    },
+    {
+      "id": "lemans-sable-sable",
+      "name": "Sablés de Sablé",
+      "local": "",
+      "icon": "🍪",
+      "desc": "Crumbly butter shortbread from Sablé-sur-Sarthe, plain or with sugar. Sold in tins and bakeries across the Sarthe.",
+      "kw": [
+        "sablé",
+        "sable",
+        "sablés"
+      ]
+    },
+    {
+      "id": "lemans-entrammes",
+      "name": "Entrammes cheese",
+      "local": "",
+      "icon": "🧀",
+      "desc": "Soft washed-rind cheese from the Mayenne, made by monks near Entrammes and descended from Port-Salut. Mild and creamy, with an orange rind.",
+      "kw": [
+        "entrammes"
+      ]
+    },
+    {
+      "id": "lemans-boudin-mortagne",
+      "name": "Boudin noir de Mortagne",
+      "local": "",
+      "icon": "🌭",
+      "desc": "Black pudding from Mortagne-au-Perche in the Orne, soft and spiced, fried and eaten with apples. The town hosts a yearly boudin fair.",
+      "kw": [
+        "boudin noir",
+        "boudin"
+      ]
+    },
+    {
+      "id": "lemans-poulet-loue",
+      "name": "Loué chicken",
+      "local": "Poulet de Loué",
+      "icon": "🍗",
+      "desc": "Free-range label chicken from Loué in the Sarthe, raised on grain and eaten roast or in cream sauce. Served in Sarthe restaurants and bought at markets.",
+      "kw": [
+        "poulet de loué",
+        "loué"
+      ]
+    }
+  ]
+}

@@ -25,7 +25,7 @@ ORDER = ["amsterdam", "rotterdam", "denhaag", "utrecht", "eindhoven", "denbosch"
          "paris", "lille", "boulogne", "amiens", "reims", "strasbourg", "lyon", "nice",
          "kobenhavn", "odense", "aarhus", "ribe", "aalborg", "malmo",
          "versailles", "fontainebleau", "colmar", "mannheim", "mainz", "koblenz", "bonn", "kempten", "rosenheim", "potsdam"]
-COUNTRY_NAME = {"NL": "Netherlands", "BE": "Belgium", "DE": "Germany", "LU": "Luxembourg", "FR": "France", "DK": "Denmark", "SE": "Sweden", "CH": "Switzerland", "TR": "Türkiye", "CY": "Cyprus"}
+COUNTRY_NAME = {"NL": "Netherlands", "BE": "Belgium", "DE": "Germany", "LU": "Luxembourg", "FR": "France", "DK": "Denmark", "SE": "Sweden", "CH": "Switzerland", "TR": "Türkiye", "CY": "Cyprus", "EL": "Greece"}
 
 cities = {}
 for p in glob.glob(os.path.join(ROOT, "web", "cities", "*.js")):

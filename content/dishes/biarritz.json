@@ -1,0 +1,69 @@
+{
+  "region": "biarritz",
+  "dishes": [
+    {
+      "id": "biarritz-gateau-basque",
+      "name": "Gâteau basque",
+      "local": "",
+      "icon": "🥧",
+      "desc": "Shortcrust pastry filled with pastry cream or black cherry jam. The signature Basque Country dessert, sold in every bakery in Biarritz and Bayonne.",
+      "kw": [
+        "gâteau basque",
+        "gateau basque"
+      ]
+    },
+    {
+      "id": "biarritz-piperade",
+      "name": "Piperade",
+      "local": "",
+      "icon": "🍳",
+      "desc": "Stew of tomatoes, green peppers and onion with Espelette chilli, often topped with scrambled egg or ham. A staple of Basque home cooking.",
+      "kw": [
+        "piperade"
+      ]
+    },
+    {
+      "id": "biarritz-axoa",
+      "name": "Axoa",
+      "local": "",
+      "icon": "🥘",
+      "desc": "Minced veal simmered with onion, peppers and Espelette chilli, served with potatoes. A Basque lunch dish found in local restaurants.",
+      "kw": [
+        "axoa"
+      ]
+    },
+    {
+      "id": "biarritz-jambon-bayonne",
+      "name": "Bayonne ham",
+      "local": "Jambon de Bayonne",
+      "icon": "🥓",
+      "desc": "Salt-cured ham aged at least seven months, from the Adour basin around Bayonne. Eaten thinly sliced, with piperade or in sandwiches.",
+      "kw": [
+        "jambon de bayonne",
+        "bayonne ham"
+      ]
+    },
+    {
+      "id": "biarritz-chocolat",
+      "name": "Basque chocolate",
+      "local": "Chocolat de Bayonne",
+      "icon": "🍫",
+      "desc": "Bayonne has made chocolate since the 17th century. Dark bars, hot chocolate and chocolate-covered sweets from local chocolatiers are a regional tradition.",
+      "kw": [
+        "chocolat",
+        "chocolate"
+      ]
+    },
+    {
+      "id": "biarritz-ttoro",
+      "name": "Ttoro",
+      "local": "",
+      "icon": "🍲",
+      "desc": "Basque fish stew of hake, conger and shellfish with peppers and tomato. The traditional fishermen's dish of the coast around Saint-Jean-de-Luz and Biarritz.",
+      "kw": [
+        "ttoro",
+        "fish stew"
+      ]
+    }
+  ]
+}

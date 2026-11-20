@@ -1,0 +1,58 @@
+{
+  "region": "bursa",
+  "dishes": [
+    {
+      "id": "bursa-iskender",
+      "name": "İskender kebap",
+      "local": "İskender kebap",
+      "icon": "🥙",
+      "desc": "Sliced doner on pieces of pide with tomato sauce, yogurt and sizzling butter. Said to have been first served by İskender Efendi in Bursa in 1867.",
+      "kw": [
+        "iskender"
+      ]
+    },
+    {
+      "id": "bursa-inegol-kofte",
+      "name": "İnegöl köfte",
+      "local": "İnegöl köftesi",
+      "icon": "🍖",
+      "desc": "Grilled meatballs of lamb and beef mixed without added spices, tied to the town of İnegöl in the province. Reportedly brought by Balkan migrants in the late 19th century.",
+      "kw": [
+        "inegöl köfte",
+        "köfte"
+      ]
+    },
+    {
+      "id": "bursa-pideli-kofte",
+      "name": "Pideli köfte",
+      "local": "Pideli köfte",
+      "icon": "🥙",
+      "desc": "Like İskender but with grilled meatballs laid over pide instead of doner. A Bursa dish served at kebab houses.",
+      "kw": [
+        "pideli köfte"
+      ]
+    },
+    {
+      "id": "bursa-kemalpasa",
+      "name": "Kemalpaşa dessert",
+      "local": "Kemalpaşa tatlısı",
+      "icon": "🍮",
+      "desc": "A semolina-based syrup dessert from Mustafakemalpaşa, first known as cheese dessert because of the local cheese made for it. It is soaked in sweet syrup.",
+      "kw": [
+        "kemalpaşa tatlısı",
+        "kemalpaşa"
+      ]
+    },
+    {
+      "id": "bursa-kestane-sekeri",
+      "name": "Kestane şekeri",
+      "local": "Kestane şekeri",
+      "icon": "🌰",
+      "desc": "Candied chestnuts made from Uludağ chestnuts, a symbol of the city. The Şekerciler Çarşısı has sold them since the early 1900s.",
+      "kw": [
+        "kestane şekeri",
+        "candied chestnut"
+      ]
+    }
+  ]
+}

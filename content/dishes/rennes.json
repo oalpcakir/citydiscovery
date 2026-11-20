@@ -1,0 +1,62 @@
+{
+  "region": "rennes",
+  "dishes": [
+    {
+      "id": "rennes-galette-saucisse",
+      "name": "Galette-saucisse",
+      "local": "",
+      "icon": "🌭",
+      "desc": "A grilled pork sausage rolled in a hot buckwheat galette, the street food of Rennes, sold at the Lices market and outside the football stadium.",
+      "kw": [
+        "galette-saucisse",
+        "galette saucisse"
+      ]
+    },
+    {
+      "id": "rennes-galette-complete",
+      "name": "Galette complète",
+      "local": "",
+      "icon": "🥞",
+      "desc": "Savoury buckwheat galette with ham, egg and Emmental, served with cider. Saint-Malo and Rennes are old crêperie towns where buckwheat is a daily food.",
+      "kw": [
+        "galette complète",
+        "galette",
+        "crêpe"
+      ]
+    },
+    {
+      "id": "rennes-craquelins-saint-malo",
+      "name": "Craquelins de Saint-Malo",
+      "local": "",
+      "icon": "🍘",
+      "desc": "Thin, crisp, lightly sweet biscuits made in Saint-Malo since the 19th century, once sold in the walled town's shops. Eaten with butter, jam or cheese.",
+      "kw": [
+        "craquelin",
+        "craquelins"
+      ]
+    },
+    {
+      "id": "rennes-coquille-saint-brieuc",
+      "name": "Saint-Brieuc scallops",
+      "local": "Coquilles Saint-Jacques de la baie de Saint-Brieuc",
+      "icon": "🐚",
+      "desc": "Scallops dredged in the Bay of Saint-Brieuc from October to April under a protected label. Eaten seared, in a galette or with leeks and cream.",
+      "kw": [
+        "coquille saint-jacques",
+        "scallop"
+      ]
+    },
+    {
+      "id": "rennes-moules-bouchot",
+      "name": "Bouchot mussels",
+      "local": "Moules de bouchot de la baie du Mont-Saint-Michel",
+      "icon": "🦪",
+      "desc": "Small, sweet mussels grown on wooden poles in the bay around Cancale and Vivier-sur-Mer, protected by an AOP. Steamed with cream or cider.",
+      "kw": [
+        "moules",
+        "mussels",
+        "bouchot"
+      ]
+    }
+  ]
+}

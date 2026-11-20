@@ -36,8 +36,8 @@ window.CITIES.sanliurfa = {
     kahtacastle: [37.9499, 38.6533], perreantik: [37.7924, 38.3018], halfetiboat: [37.2462, 37.8666],
     kizilincanyon: [37.4300, 38.1265], karacadagski: [37.7172, 39.8347], esensoycigkofte: [37.7600, 38.2801],
     nesetinyeri: [37.7900, 38.6650], halfetibaskaninyeri: [37.2473, 37.8669], kalealtigulbaba: [37.0253, 37.9755],
-    seyrifirat: [37.0290, 37.9830],
-    seytankoprusu: [37.9418, 38.6591], gergercastle: [38.0293, 39.0333], golbasilakes: [37.7472, 37.5472]
+    seyrifirat: [37.0290, 37.9830], seytankoprusu: [37.9418, 38.6591], gergercastle: [38.0293, 39.0333],
+    golbasilakes: [37.7472, 37.5472]
   },
   // Area badges: a third of an area's quests earns bronze, two thirds silver, all of them gold.
   areaBadges: {

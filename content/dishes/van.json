@@ -1,0 +1,59 @@
+{
+  "region": "van",
+  "dishes": [
+    {
+      "id": "van-van-kahvalti",
+      "name": "Van breakfast",
+      "local": "Van kahvaltısı",
+      "icon": "🍳",
+      "desc": "A large spread of herb cheese, honey with kaymak, olives, eggs and fresh bread. Van's breakfast houses are known across Türkiye.",
+      "kw": [
+        "van kahvaltı",
+        "kahvaltı"
+      ]
+    },
+    {
+      "id": "van-keledos",
+      "name": "Keledoş",
+      "local": "",
+      "icon": "🥣",
+      "desc": "Hearty stew of kurut (dried yoghurt), wheat, chickpeas and beans with meat and wild herbs, finished with butter. A registered Van speciality served in traditional restaurants.",
+      "kw": [
+        "keledoş"
+      ]
+    },
+    {
+      "id": "van-otlu-peynir",
+      "name": "Van herbed cheese",
+      "local": "Van otlu peyniri",
+      "icon": "🧀",
+      "desc": "Sheep's-milk cheese kneaded with wild mountain herbs such as sivri and heliz. A staple on Van breakfast tables.",
+      "kw": [
+        "otlu peynir",
+        "peynir"
+      ]
+    },
+    {
+      "id": "van-kurt-kofte",
+      "name": "Kürt köftesi",
+      "local": "",
+      "icon": "🧆",
+      "desc": "Bulgur and meat dumplings served in a tomato-based soup. A Van home dish found in local lokantas.",
+      "kw": [
+        "kürt köftesi",
+        "köfte"
+      ]
+    },
+    {
+      "id": "van-van-corek",
+      "name": "Van çöreği",
+      "local": "",
+      "icon": "🥐",
+      "desc": "Soft, buttery bread roll from Van's bakeries, eaten fresh with the city's famous breakfast or with tea.",
+      "kw": [
+        "van çöreği",
+        "çörek"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "region": "toulouse",
+  "dishes": [
+    {
+      "id": "toulouse-cassoulet",
+      "name": "Cassoulet",
+      "local": "",
+      "icon": "🍲",
+      "desc": "Slow-baked casserole of white beans, Toulouse sausage and duck confit under a golden crust. The signature dish of the Toulouse area and of Languedoc.",
+      "kw": [
+        "cassoulet"
+      ]
+    },
+    {
+      "id": "toulouse-saucisse",
+      "name": "Toulouse sausage",
+      "local": "Saucisse de Toulouse",
+      "icon": "🌭",
+      "desc": "Coarse pork sausage seasoned only with salt and pepper, grilled and served with lentils or mash. The sausage that goes into every cassoulet.",
+      "kw": [
+        "saucisse de toulouse",
+        "toulouse sausage"
+      ]
+    },
+    {
+      "id": "toulouse-violettes",
+      "name": "Candied violets",
+      "local": "Violettes de Toulouse",
+      "icon": "🌸",
+      "desc": "Violet flowers crystallised in sugar, made in Toulouse since the 19th century. Sold as sweets and used in cakes and chocolates around the city.",
+      "kw": [
+        "violette",
+        "violet"
+      ]
+    },
+    {
+      "id": "toulouse-poulet-toulousaine",
+      "name": "Chicken à la toulousaine",
+      "local": "Poulet à la toulousaine",
+      "icon": "🍗",
+      "desc": "Chicken stuffed with sausage meat and roasted with olives and whole garlic cloves. A traditional Toulouse family Sunday dish.",
+      "kw": [
+        "toulousaine"
+      ]
+    }
+  ]
+}

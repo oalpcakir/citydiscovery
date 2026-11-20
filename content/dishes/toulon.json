@@ -1,0 +1,59 @@
+{
+  "region": "toulon",
+  "dishes": [
+    {
+      "id": "toulon-cade",
+      "name": "Cade",
+      "local": "",
+      "icon": "🥞",
+      "desc": "A thin, tart-like chickpea-flour pancake that Toulon cooks adopted as their own. Served as a side or eaten on its own.",
+      "kw": [
+        "cade"
+      ]
+    },
+    {
+      "id": "toulon-tropezienne",
+      "name": "Tarte tropézienne",
+      "local": "",
+      "icon": "🥧",
+      "desc": "Brioche split and filled with cream, a specialty of the Var coast made famous at Saint-Tropez and by Brigitte Bardot. Sold in bakeries across the area.",
+      "kw": [
+        "tropézienne",
+        "tropezienne"
+      ]
+    },
+    {
+      "id": "toulon-figue-sollies",
+      "name": "Figues de Solliès",
+      "local": "",
+      "icon": "🟣",
+      "desc": "Protected-origin figs from orchards around Solliès in the Var. In Toulon they turn up in fig biscuits and other local sweets.",
+      "kw": [
+        "figue",
+        "figues de solliès"
+      ]
+    },
+    {
+      "id": "toulon-brouillade-truffes",
+      "name": "Brouillade de truffes",
+      "local": "",
+      "icon": "🍳",
+      "desc": "Scrambled eggs cooked gently with truffle, simple and typically from the Var. A winter dish in restaurants of the Var hinterland.",
+      "kw": [
+        "brouillade",
+        "truffle"
+      ]
+    },
+    {
+      "id": "toulon-ker-moco",
+      "name": "Ker-moco",
+      "local": "",
+      "icon": "🍰",
+      "desc": "A small buckwheat cake with a heart of Solliès figs, cited as a Toulon specialty.",
+      "kw": [
+        "ker-moco",
+        "ker moco"
+      ]
+    }
+  ]
+}
